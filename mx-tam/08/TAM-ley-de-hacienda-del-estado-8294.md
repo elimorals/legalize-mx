@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1993-04-24"
+last_updated: "1993-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -1289,17 +1289,21 @@ DE LAS OBLIGACIONES
 
 Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-I.- Presentar declaración en la Oficina Fiscal del Estado de su jurisdicción, junto con la documentación o contratos objeto de este impuesto.
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-II.- Conservar a disposición de las autoridades fiscales y exhibir cuando se le solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto.
+I.- Solicitar su inscripción en el Registro de contribuyentes de la secretaría de Hacienda del Estado, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-III.- Permitir y facilitar a las autoridades fiscales, el acceso e inspección que se requiera para comprobar los datos o información presentada.
+II.- Presentar declaración en la Oficina Fiscal del Estado de su jurisdicción, junto con la documentación o contratos objeto de este impuesto.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
+IV.- Permitir y facilitar a las autoridades fiscales, el acceso e inspección que se requiera para comprobar los datos e información presentada
 
 OBLIGACIONES DE LOS TERCEROS
 
@@ -1685,7 +1689,9 @@ Cuando se trate de actividades eventuales o accidentales el pago del impuesto de
 
 Son obligaciones de los sujetos de este impuesto:
 
-I.- A solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades grabadas con este impuesto.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+I.- A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto la formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
 
 II.- Presentar los avisos para comunicar a la Oficina Fiscal cualquier cambio en datos contenidos en su solicitud de inscripción, en los términos del Código Fiscal del Estado.
 
@@ -2145,7 +2151,9 @@ c).- Terminación de cada molienda o corrida, indicando la fecha probable de ini
 
 d).- Terminación de la zafra;
 
-VI.- Entregar a la Tesorería General del Estado, por conducto de la Oficina Fiscal del Estado correspondiente, una copia del informe oficial semanal de corrida;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+VI.- Entregar a la Secretaría de Hacienda del Estado, por conducto de la Oficina Fiscal del Estado correspondiente, una copia del informe oficial semanal de corrida;
 
 VII.- Manifestar dentro de los primeros diez días de cada mes, a la Oficina Fiscal del Estado correspondiente, respecto a las actividades del mes anterior, lo siguiente:
 
@@ -2179,13 +2187,19 @@ OBLIGACIONES DE LOS TERCEROS
 
 Los porteadores, sean personas físicas o morales que se dediquen habitual o accidentalmente al transporte de los productos gravados en este capítulo, tienen las siguientes obligaciones.
 
-I.- Registrarse en la Tesorería General del Estado, dentro del mes de enero de cada año, y obtener permiso anual de dicha dependencia para dedicarse al transporte de las mercancías gravadas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-II.- Garantizar en cualquiera de las formas previstas por el Código Fiscal, a satisfacción de la Tesorería General del Estado, el correcto desempeño de su actividad;
+I.- Registrarse en la Secretaría de Hacienda del Estado, dentro del mes de enero de cada año, y obtener permiso anual de dicha dependencia para dedicarse al transporte de las mercancías gravadas;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+II.- Garantizar en cualquiera de las formas previstas por el Código Fiscal, a satisfacción de la Secretaría de Hacienda del Estado, el correcto desempeño de su actividad;
 
 III.- Exigir a las personas que les encomienden el transporte, las facturas expedidas por el causante que amparen los productos transportados, y llevarlas consigo para entregarlas al destinatario al mismo tiempo que las mercancías. Si no se les entregan las facturas, no deberán hacer el transporte, si lo hacen sin ese requisito, serán solidariamente responsables de su pago, sin perjuicio de las sanciones a que se hicieren acreedores; y
 
-IV.- Poner en lugar visible de los vehículos que utilicen para el transporte, mismo que también deberán registrar en la Tesorería General del Estado, el nombre o razón social de la persona o empresa porteadora y el número de su registro.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+IV.- Poner en lugar visible de los vehículos que utilicen para el transporte, mismo que también deberán registrar en la Secretaría de Hacienda del Estado, el nombre o razón social de la persona o empresa porteadora y el número de su registro.
 
 ### CAPITULO IX. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
@@ -2265,11 +2279,11 @@ Cuando las empresas de espectáculos públicos expidan pases o autorizaciones pa
 
 En los casos en que legalmente proceda la devolución de la totalidad o de una parte del importe de las entradas a un espectáculo o diversión, no se causará el impuesto sobre las cantidades devueltas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 194.
 
-Se faculta al Ejecutivo del Estado a través de la Tesorería General, para celebrar convenios para el pago de impuestos sobre espectáculos públicos, sobre cuota fija, en los casos de sujetos habituales del mismo, siempre y cuando dichos convenios se ajusten a las siguientes reglas:
+Se faculta al Ejecutivo del Estado a través de la Secretaría de Hacienda, para celebrar convenios para el pago de impuestos sobre espectáculos públicos, sobre cuota fija, en los casos de sujetos habituales del mismo, siempre y cuando dichos convenio se ajusten a las siguientes reglas:
 
 a).- Que se celebren únicamente por un ejercicio fiscal.
 
@@ -2285,11 +2299,27 @@ e).- Sólo podrán celebrarse convenios de cuota fija, con aquellas empresas que
 
 > <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 194-A.
+
+La Secretaría de Hacienda del Estado podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+
+I.- Cuando no se presenten en la Ofirina (sic) Fiscal para su sellado los boletos o comprobantes de entrada, incluyendo los pases que expidan.
+
+II.- Cuando no se presenten las declaraciones a que están obligados los contribuyentes o responsables solidarios en este capítulo.
+
+III.- Cuando los contribuyentes o responsables solidarios se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
+
+IV.- Cuando por los informes o documentación que se disponga se conozca la obtención de un ingreso superior al declarado en un 5%, cuando menos.
+
+Para la determinación presuntiva de la base del impuesto se tendrán en cuenta las actividades realizadas el precio de los boletos de entrada, el número de asistentes, o en su caso, la cantidad de boletos emitidos. Se aplicará en lo conducente lo dispuesto en el Código Fiscal del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 195.
 
-Los sujetos habituales u ocasionales no podrán iniciar la función en su espectáculo si no han pagado el impuesto correspondiente a la función anterior. La Tesorería General del Estado o la Oficina Fiscal, están facultadas para suspender la función y para clausurar el local donde se celebre el espectáculo, en los casos en que no se pague el impuesto.
+Los sujetos habituales u ocasionales no podrán iniciar la función en su espectáculo si no han pagado el impuesto correspondiente a la función anterior. La Secretaría de Hacienda del Estado o la Oficina Fiscal, están facultadas para suspender la función y para clausurar el local donde se celebre el espectáculo, en los casos en que no se pague el impuesto.
 
 La clausura se realizará sellando las puertas de acceso al local en que se celebre el espectáculo y tendrá el carácter de provisional. La clausura sólo se levantará cuando se pague el impuesto insoluto, más los recargos, multas y accesorios causados.
 
@@ -2305,9 +2335,9 @@ DE LAS OBLIGACIONES
 
 Los sujetos habituales del impuesto están obligados:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-I.- A solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realiza actividades gravadas con este impuesto.
+I.- A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realiza actividades gravadas con este impuesto.
 
 II.- A entregar en la Oficina Fiscal de su jurisdicción un ejemplar de sus programas, cuando menos el día hábil anterior de la celebración de la función.
 
@@ -2351,9 +2381,11 @@ El pago del impuesto y los avisos presentados a las autoridades fiscales son ind
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
-###### ARTICULO 199o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-Tienen responsabilidad solidaria para el pago del impuesto, las personas que prestan gratuitamente o arrienden los locales o inmuebles en donde se lleven a acabo espectáculos públicos.
+###### ARTICULO 199.
+
+Tienen responsabilidad solidaria para el pago del impuesto, las personas que permitan el uso o goce de los locales o inmuebles en donde se lleven a cabo espectáculos.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2415,19 +2447,19 @@ Será el 1 por ciento sobre su base.
 
 Los sujetos del impuesto podrán repercutirlo al adquirente, siempre que en las facturas o notas que expidan consignen por separado el importe de la operación y el monto del impuesto.
 
-(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 207o.
 
-El pago del impuesto deberá hacerse dentro de los primeros veinte días de cada mes para este efecto, los causantes, presentarán en la Oficina Fiscal del Estado correspondiente, una declaración en la que se especificarán los ingresos que hayan obtenido en el mes inmediato anterior, los productos enajenados o salidos del lugar que se encontraban o del establecimiento, almacén o depósito; el remanente de existencias separando las de bodegas autorizadas, durante el mismo período; el impuesto causado retenido, en su caso, y los demás datos que determine la Tesorería General del Estado.
+El pago del impuesto deberá hacerse dentro de los primeros veinte días de cada mes para este efecto, los causantes, presentarán en la Oficina Fiscal del Estado correspondiente, una declaración en la que se especificarán los ingresos que hayan obtenido en el mes inmediato anterior, los productos enajenados o salidos del lugar que se encontraban o del establecimiento, almacén o depósito; el remanente de existencias separando las bodegas autorizadas, durante el mismo período; el impuesto causado retenido, en su caso, y los demás datos que determine la Secretaría de Hacienda del Estado.
 
 Esta obligación subsistirá aún cuando no haya tenido ingresos gravables, debiendo explicar la causa de ello.
 
-(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 208o.
 
-El impuesto se causará al efectuarse la operación de que provengan los ingresos gravados o al salir los productos de los lugares en que se encuentre el establecimiento, depósito o almacén del causante, excepto cuando se trasladen a depósitos o almacenes del propio causante, autorizados por la Tesorería General del estado, en cuyo caso se causará el impuesto al salir los productos de cualesquiera de dichos lugares.
+El impuesto se causará al efectuarse la operación de que provengan los ingresos gravados o al salir los productos de los lugares en que se encuentre el establecimiento, depósito o almacen del propio causante autorizados por la Secretaría de Hacienda del estado, en cuyo caso se causará el impuesto al salir los productos de cualesquiera de dichos lugares.
 
 DE LAS OBLIGACIONES
 
@@ -2441,7 +2473,9 @@ I.- Registrarse en la Oficina Fiscal que corresponda al lugar de ubicación de l
 
 II.- Dar aviso en la Oficina Fiscal respectiva, del cambio de nombre o razón social, así como de traspaso, dentro de los diez días siguientes a la fecha en que ocurra cualquiera de estos hechos, haciendo uso de las formas oficialmente aprobadas;
 
-III.- Presentar las declaraciones en los términos señalados por este capítulo y en las formas oficialmente aprobadas por la Tesorería General del Estado.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+III.- Presentar las declaraciones en los términos señalados por este capítulo y en las formas oficialmente aprobadas por la Secretaría de Hacienda del Estado.
 
 IV.- Llevar separación de libros cuando perciban otros ingresos distintos a los que este capítulo se refiere.
 
@@ -2503,17 +2537,19 @@ Es la base de este impuesto el monto total de los ingresos gravados.
 
 Tratándose de los sujetos del impuesto a que se refiere el segundo párrafo del artículo anterior, la base del impuesto será la parte que a cada uno de ellos les corresponda en los ingresos totales de la organización.
 
-###### ARTICULO 214o.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-La Tesorería General podrá estimar la base de los sujetos de este impuesto, en los siguientes casos:
+###### ARTICULO 214.
 
-I.- Cuando no se presenten las declaraciones, no lleven los libros o registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este capítulo.
+La Secretaría de Hacienda del Estado podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+I.- Cuando no se presenten las declaraciones, no lleven los libros o registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este Capítulo.
 
-II.- Cuando por los informes o documentación que se dispongan se conozca la obtención de un ingreso promedio superior al declarado en un diez por ciento, cuando menos.
+II.- Cuando por los informes o documentación que se disponga se conozca la obtención de un ingreso superior al declarado en un cinco por ciento, cuando menos.
 
-Para practicar las estimaciones, se tendrá en cuenta las actividades realizadas, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse. Se aplicará en lo conducente lo dispuesto en el Código Fiscal del Estado.
+III.- Cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
+
+Para la determinación presuntiva de la base del impuesto, se tendrán en cuenta las actividades realizadas, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse. Se aplicará en lo conducente lo dispuesto en el Código Fiscal del Estado.
 
 DE LA TASA
 
@@ -2525,11 +2561,11 @@ Este impuesto se causará con la tasa del 2% sobre la base a que se refieren los
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 216.
 
-El pago del impuesto se hará mensualmente a más tardar el día 15 del mes siguiente al en que se realizaron las actividades objeto de este impuesto, haciendo uso de las formas aprobadas por la Tesorería General del Estado.
+El pago de impuesto se hará mensualmente a más tardar el día 15 del mes siguiente al en que se realizaron las actividades objeto de este impuesto, haciendo uso de las formas aprobadas por la Secretaría de Hacienda del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2545,13 +2581,13 @@ OBLIGACIONES DE LOS CAUSANTES
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-I.- A solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
+I.- A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tengan a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-II.- Presentar declaraciones en la Oficina Fiscal del Estado de su jurisdicción, utilizando las formas aprobadas para el efecto. La obligación de presentar declaraciones subsistirá aun cuando no se hayan obtenido ingresos gravados.
+II.- Presentar declaraciones en la Oficina Fiscal del Estado de su jurisdicción, utilizando las formas aprobadas para el efecto.
 
 III.- Proporcionar a las autoridades fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se fije.
 
@@ -2569,9 +2605,11 @@ Los retenedores de este impuesto y en general quienes hagan pagos a los sujetos 
 
 DE LAS EXENCIONES
 
-###### ARTICULO 220o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-Están exentos del pago de este impuesto:
+###### ARTICULO 220.
+
+Están exentos del pago de este impuesto, los ingresos a que se refiere este capítulo cuando por ellos se cause y se pague el impuesto al valor agregado.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2723,15 +2761,25 @@ DE LA BASE
 
 Es base de este impuesto, el monto total de los pagos por concepto de remuneración al trabajo personal.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-ARTICULO 247 BIS.- La Tesorería General del Estado podrá determinar presuntivamente la base de este impuesto, cuando se omita presentar alguna declaración y cuando se omita consignar en el importe declarado para el pago de este impuesto a más de un trabajador o éste sea inferior a un 10% de la cantidad que debe declarar.
+ARTICULO 247 BIS.- La Secretaría de Hacienda del Estado podrá determinar presuntivamente la base de este impuesto, cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales; cuando se omita presentar alguna declaración o cuando se omita en el importe declarado para el pago de este impuesto a más de un trabajador o dicho importe sea inferior en un 5% de la cantidad que debe declarar.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 Para este efecto la Tesorería General del Estado presumirá como base del impuesto:
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
 a).- El número de trabajadores y las erogaciones correspondientes a los mismos, declarados para los efectos del Instituto Mexicano del Seguro Social o del Instituto para el Fondo Nacional de la Vivienda de los Trabajadores.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+
 b).- La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente, multiplicado por el número de días de cada uno de los meses sujeto a revisión.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+c).- La que resulte de aplicar el 40% a los importes consignados en las estimaciones de obra o en los comprobantes que esté obligado a expedir en los términos de las disposiciones fiscales federales, tratándose de contribuyentes que realicen obras de construcción aun en los casos en que no hubieran celebrado los contratos correspondientes. El porcentaje mencionado podrá ser menor cuando el contribuyente compruebe que el tipo de obra realizada implica una menor proporción de mano de obra.
 
 DE LA TASA
 
@@ -2759,13 +2807,19 @@ DE LAS OBLIGACIONES DE LOS CAUSANTES
 
 Son obligaciones de los sujetos de este impuesto:
 
-I.- Solicitar su inscripción en la Oficina Fiscal de su jurisdicción, utilizando al efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Tesorería General del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+I.- A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado.
 
 II.- Presentar ante las mismas autoridades, los avisos de cambio de datos contenidos en su solicitud de inscripción en los términos del Código Fiscal del Estado.
 
 III.- Presenatr (sic) declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
 IV.- Cuando los sujetos operen con varios establecimientos, podrán optar por acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado, para lo cual presentarán aviso en la Oficina Fiscal ante la cual dejará de presentar declaraciones.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+V.- Informar sobre el cumplimiento de las disposiciones establecidas en este capítulo en los términos de los Artículos 51 y 52 A del Código Fiscal del Estado.
 
 DE LAS EXENCIONES
 
@@ -2803,17 +2857,23 @@ j).- La alimentación y la habitación cuando no se proporcione gratuitamente al
 
 II.- Las Erogaciones que efectúen:
 
-a).- La Federación, Estados y Municipios, así como las instituciones descentralizadas
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales.
+a).- La Federación, Estados y Municipios.
 
-c).- Sindicatos de trabajadores, agrupación de empresarios ó de propietarios en cámaras, uniones, asociaciones, agrupación de profesionistas en Institutos, Colegios, asociaciones, sin fines lucrativos.
+b).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
 
-d).- Instituciones educativas;
+c).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+d).- Instituciones que impartan gratuitamente la educación y las federales por cooperación y que cuenten con reconocimiento de validez oficial.
 
 e).- Clubes de servicio.
 
-Las personas a que se refiere la fracción II de este artículo, deberán gestionar y obtener de la Tesorería General del Estado en forma expresa la autorización de la exención.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+Las personas a que se refiere la fracción II de este artículo, deberán gestionar y obtener de la Secretaría de Hacienda del Estado en forma expresa la autorización de la exención.
 
 ### CAPITULO XIV. IMPUESTO PARA LA EDUCACION UNIVERSITARIA
 
@@ -2853,7 +2913,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2895,23 +2955,27 @@ Los derechos por servicios no previstos ni exceptuados expresamente por este Tí
 
 ARTICULO 258 A.- Para los efectos de la causación de los derechos sobre la base de salarios mínimos, para la aplicación de tarifas, de cantidades en millares o en porcientos, los montos que resulten se ajustarán de conformidad con lo dispuesto en el Artículo 21 del Código Fiscal del Estado para determinar el monto del pago de los mismos.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)(F. DE E. P.O. 1 DE ENERO DE 1994)
 
-ARTICULO 258 B.- Cuando en este Título II o en los Decretos que lo reformen se haga referencia a salarios mínimos como sistema para determinar las contribuciones que correspondan, deberá entenderse el salario mínimo diario vigente en la Capital del Estado. Así mismo, las modificaciones a los salarios mínimos generales que afecten las cantidades o la fijación de las contribuciones, se aplicarán al mes siguiente al en que entren en vigor. Por lo mismo, el anterior salario mínimo continuará su vigencia el mes posterior al que ocurra su modificación.
+ARTICULO 258 B.- Cuando en este Título II o en los Decretos que lo reformen se haga referencia a salarios mínimos como sistema para determinar las contribuciones que correspondan, deberá entenderse el salario mínimo diario vigente en la capital del Estado. Así mismo las modificaciones a los salarios mínimos generales que afecten las cantidades o la fijación de las contribuciones, se aplicarán en el mes en que entren en vigor.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-ARTICULO 258 C.- Salvo lo dispuesto en el Artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de los servicios, en la Oficina Fiscal de la jurisdicción dentro de los plazos que se establezcan para el efecto. En los casos de obligaciones a cumplirse por años de calendario, deberán hacerse, a falta de disposición expresa, en el mes de enero de cada año. La Tesorería General del Estado publicará en su caso los plazos en que se prestará el servicio y el término en que deberá efectuarse el pago respectivo.
+ARTICULO 258 C.- Salvo lo dispuesto en el artículo siguiente, el pago de los derechos deberá hacerse previamente a la prestación de los servicios, en la Oficina Fiscal de la jurisdicción dentro de los plazos que se establezcan para el efecto. En los casos de obligaciones a cumplirse por años de calendario, deberán hacerse, a falta de disposición expresa, en el mes de enero de cada año. La Secretaría de Hacienda del Estado publicará en su caso los plazos en que se prestará el servicio y el término en que deberá efectuarse el pago respectivo.
 
 Los funcionarios y empleados del Gobierno del Estado, se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El funcionario o empleado que no cumpliere con esta disposición, tendrá responsabilidad solidaria con el contribuyente para el pago del importe de los derechos y sanciones que se causaren, independientemente de las penas que correspondan.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+Cuando se solicite la prestación de los servicios previstos en esta tarifa para el mismo día, causarán un tanto más de la cuota establecida para cada caso.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 ARTICULO 258 D.- En los casos en que no se efectúe previamente a la prestación del servicio el pago de los derechos, en virtud de no poderse determinar la base de los mismos, dicho pago se hará el mismo día en que sean determinables los derechos. La falta de pago oportuno de los derechos establecidos en el presente Título II, causarán recargos de conformidad con lo establecido por el Artículo 22 del Código Fiscal del Estado, independientemente de la aplicación de las sanciones que señalen las Leyes respectivas.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-ARTICULO 258 E.- El cobro de los derechos establecidos en el presente Título II, dará lugar, en su caso, al ejercicio de la facultad económico-coactiva la cual se ejercitará por conducto de la Tesorería General del Estado o la Oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
+ARTICULO 258 E.- El cobro de los derechos establecidos en el presente Título II, dará lugar, en su caso, al ejercicio de la facultad económico-coactiva la cual se ejercitará por conducto de la Secretaría de Hacienda del Estado o la Oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2919,23 +2983,31 @@ ARTICULO 258 F.- Los derechos por concepto de certificaciones, cotejo, búsqueda
 
 TARIFA:
 
-I.- Búsqueda de documentos, certificación o copia certificada el 60% de un día de salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-1.- (sic).- Legalización o ratificación de firmas, por cada firma el 60% de un día de salario mínimo.
+I.- Búsqueda de documentos, certificación o copia certificada un día de salario mínimo.
 
-III.- Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones 60% de un día de salario mínimo.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+II.- Legalización o ratificación de firmas, por cada firma un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+III.- Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones un día de salario mínimo.
 
 ###### ARTICULO 259.
 
-El pago de los derechos de la tarifa contenida en el artículo anterior se hará previo a la prestación de los servicios; todas las certificaciones que se soliciten con carácter urgente causarán otro tanto más de la cuota establecida.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 260o.
 
-No causarán los derechos establecidos en la Tarifa del Artículo 258:
+No causarán los derechos establecidos en el Artículo 258 F.
 
-I.- Las certificaciones, busca, cotejo y copias de documentos, así como la legalización y ratificación de firmas, comprendidas en otras tarifas de este Decreto.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+I.- Las certificaciones, busca, cotejo y copias de documentos, así como la legalización y ratificación de firmas, comprendidas en otros capítulos de este Título II.
 
 II.- Las certificaciones y copias certificadas expedidas a quejosos para ser exhibidas en juicios de amparo promovidos contra actos del Gobierno del Estado. En estos casos deberá expresarse que su expedición se efectúa para ser presentada en el juicio de amparo respectivo.
 
@@ -3017,9 +3089,11 @@ II.- Por la calificación de todo documento que se devuelva sin cumplimentar por
 
 III.- La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, sino se consigna el monto del capital social con el importe de diez días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-IV.- La inscripción de poderes o de revocación, públicos y privados no mercantiles o la sustitución de los mismos, con el equivalente a dos días del salario mínimo.
+IV.- La inscripción de poderes públicos y privados no mercantiles y la sustitución de los mismos, con el equivalente a cuatro días de salario mínimo, si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicionales se cobrará además tres días de salario mínimo.
+
+Por la revocación o renuncia de los poderes por cada una se cobrará tres días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3039,17 +3113,15 @@ VIII.- La inscripción de testamentos y de constancias relativas a actuaciones e
 
 IX.- La inscripción de la condición de resolutoria sobre bienes muebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 % de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 % restante.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-X.- La inscripción de fraccionamientos de terrenos causarán derechos de inscripción como sigue:
+X.- La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán derechos de inscripción como sigue:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+a).- Lote urbano, cinco días de salario mínimo.
 
-a).- Lote urbano un días (sic) de salario mínimo.
+b).- Lote rústico, un día de salario mínimo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-b).- Lote rústico 50% de un día de salario mínimo.
+Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad cinco días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3069,9 +3141,11 @@ XIV.- La cancelación de las inscripciones en los casos a que se refieren las fr
 
 XV.- La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX, con el importe de tres días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-XVI.- Búsqueda de documentos, certificación o copia certificada de los mismos o de protocolos 50% de un día de salario mínimo por hoja; certificado de libertad de gravamen y de no propiedad con el importe de un día de salario mínimo.
+XVI.- Búsqueda de documentos, certificación o copia certificada de los mismos o de protocolos, con un día de salario mínimo por hoja; certificado de libertad de gravamen y de no propiedad con el importe de dos días de salario mínimo.
+
+El importe de los derechos señalados en las fracciones I, III, V, VI, IX y XIX de este artículo, en ningún caso serán inferiores al equivalente de dos días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3096,6 +3170,18 @@ d).- Por su autorización de cada libro del protocolo notarial, tres días de sa
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 e).- Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, 50 % de un día de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+XVIII.- La inscripción de avisos preventivos de compraventa, hipotecas y donaciones, con el importe de cinco días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+XIX.- La inscripción de contratos de mutuo con o sin garantía hipotecaria celebrados entre particulares, sobre el importe de la operación, 4 al millar.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+XX.- Por la consulta de un legajo, dos días de salario mínimo.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3127,13 +3213,13 @@ IV.- En toda transmisión de bienes o derechos reales que se realice por contrat
 
 V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a las tasas establecidas en la fracción I del Artículo 263.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-VI.- Para la aplicación de las tasas de la fracción I del Artículo 263, en su caso, la nuda propiedad y el usufructo, se valuarán en los términos del impuesto sobre herencias y legados, en aquellos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
+VI.- Para la aplicación de los derechos comprendidos en la fracción I del Artículo 263 en su caso, la nuda propiedad y el usufructo se considerará el 50 % cada uno, del valor del inmueble consignado en el avalúo pericial expedido por la Dirección de Catastro. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-VII.- Los derechos previstos en esta tarifa serán aumentados en un 100% (cien por ciento) cuando los interesados desearan obtener la inscripción del título el mismo día de su presentación.
+VII.- Los derechos previstos en esta tarifa serán aumentados en un cien por ciento, cuando los interesados desearen obtener la inscripción del título, la expedición de certificados o copias certificadas el mismo día de su presentación.
 
 VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, el valor se determinará en la suma de éstas, si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base, la cantidad que resulte, haciendo el cómputo por un año.
 
@@ -3165,19 +3251,25 @@ g).- Comisión para la Regularización de la Tenencia de la Tierra.
 
 II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
 
-III.- Los informes que soliciten por causas penales o para juicios de amparo.
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993) (F. DE E. P.O. 1 DE ENERO DE 1994)
 
-IV.- Las fundaciones de beneficencia privada no causarán derechos por la inscripción de la escritura constitutiva y las de las modificaciones a la misma.
+III.- Los informes que soliciten por las autoridades judiciales por causas penales o para juicios de amparo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993)
 
-V.- Las inscripciones relativas a bienes inmuebles o derechos reales, contratos de mutuo, adquiridos con fondos suministrados en el carácter de prestamos por el Instituto Tamaulipeco de la Vivienda y Urbanización; Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas; Fideicomiso Fondo Nacional de Habitaciones Populares; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado; Unidad de Previsión y Seguridad Social del Estado de Tamaulipas, Comisión para la Regularización de la Tenencia de la Tierra, y con financiamiento concedido por los patrones a sus trabajadores.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+V.- Las inscripciones relativas a bienes inmuebles o derechos reales, adquiridos a través del Instituto Tamaulipeco de la Vivienda y Urbanización; Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas; Fideicomiso Fondo Nacional de Habitaciones Populares; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado; Unidad de Previsión y Seguridad Social del Estado; Comisión para la Regularización de la Tenencia de la Tierra, así como los obtenidos con créditos otorgados por Instituciones de Crédito y con financiamiento concedido por los patrones a sus trabajadores.
 
 La exención señalada en esta fracción se aplicará si se cumplen los requisitos siguientes:
 
 a).- Que el adquirente no posea otra propiedad.
 
 b).- Tratándose de terrenos, que éstos no excedan de 250 M2 y cuando incluyan casa habitación ésta no exceda de 100 M2 de construcción.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+VI.- Las inscripciones de los contratos de financiamiento concedidos a los promotores para la edificación de viviendas que no exceda de 100 M2 de construcción cada una.
 
 #### SECCION TERCERA. DEL REGISTRO PUBLICO DE COMERCIO
 
@@ -3189,13 +3281,11 @@ Los servicios que se presten en el Registro Público de Comercio, causarán dere
 
 TARIFA:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-I.- El examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehuse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir un día de salario mínimo.
+I.- Examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehuse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir dos días de salario mínimo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADA], P.O. 24 DE ABRIL DE 1993)</small>
-
-II.- La inscripción de documentos cuyo tenor y autenticidad deban hacerse notorios en los términos que lo dispone el Artículo 16 Fracción II del Código de Comercio, será el equivalente a doscientos ocho días de salario mínimo.
+II.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993) (F. DE E., P.O. 1 DE ENERO DE 1994)
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3229,19 +3319,17 @@ IX.- La inscripción de la disolución de Sociedades Mercantiles con el importe 
 
 X.- La inscripción de la liquidación y disolución de Sociedades Mercantiles, cuando se lleven a cabo un solo acto con el importe de cuatro días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-XI.- En los casos de las fracciones VIII, X y XI, si como consecuencia de la liquidación de la Sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor en que se adjudiquen a los socios o a terceros en los términos de la fracción III de esta tarifa y teniendo en cuenta lo dispuesto en la fracción I del Artículo 264.
+XI.- En los casos de las fracciones VIII, IX y X si como consecuencia de la liquidación de la Sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor en que se adjudiquen a los socios o a terceros en los términos de la Fracción III de esta tarifa y teniendo en cuenta lo dispuesto en la fracción I del Artículo 264.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-XII.- Inscripción de poderes mercantiles y substitución de los mismos. Otorgados dentro o fuera del Estado por cada apoderado:
+XII.- La inscripción de poderes mercantiles y substitución de los mismos, otorgados dentro o fuera del Estado, con el equivalente a cuatro días de salario mínimo si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicional se cobrará además tres días de salario mínimo.
 
-a).- Si el poder es general o especial y consta en escritura pública con el importe de tres días de salario mínimo.
+Por la revocación o renuncia de los poderes, por cada una se cobrará tres días de salario mínimo.
 
-b).- Si el poder es general o especial y consta en escritura privada con el importe de dos días de salario mínimo.
-
-El otorgamiento de poderes a los administradores o gerentes de Sociedades Mercantiles, en las escrituras constitutivas o modificatorias no causarán las cuotas de esta fracción.
+No se causarán los derechos previstos en esta fracción cuando los poderes que se otorguen a los administradores o gerentes de sociedades mercantiles, consten en las escrituras constitutivas o modificatorias de dichas sociedades.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3263,13 +3351,17 @@ XVI.- Por la inscripción de créditos hipotecarios, refaccionarios y de habilit
 
 XVII.- La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de cuatro días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-XVIII.- Búsqueda de documentos, certificaciones o copia certificada 20% del importe de un día de salario mínimo por hoja.
+XVIII.- Búsqueda de documentos, certificaciones o copia certificada, un día de salario mínimo por hoja.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-XIX.- Anotaciones de fianzas, contra fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de tres días de salario mínimo.
+XIX.- Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de seis días de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+XX.- Por el registro del sello y firma que deben efectuar los corredores públicos en los términos del Artículo 62 fracción III del Código de Comercio, cuatro días de salario mínimo.
 
 ###### ARTICULO 267o.
 
@@ -3290,6 +3382,10 @@ IV.- Cuando deban hacerse inscripciones de distintas operaciones que se deriven 
 V.- Los contratos que tengan prestaciones periódicas se valuarán en la suma de éstos, si se puede determinar exactamente su cuantía; en caso contrario por lo que resultare, haciendo el cómputo por un año.
 
 VI.- En los casos no previstos expresamente en el Artículo anterior, los derechos por servicios que se presten en el Registro Público de Comercio, se causarán por asimilación, en los términos de las fracciones relativas, a casos con los que guarden semejanza.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+VII.- Los derechos previstos en esta tarifa serán aumentados en un 100% cuando los interesados soliciten la inscripción el mismo día de su presentación.
 
 ###### ARTICULO 268o.
 
@@ -3333,11 +3429,11 @@ AUTORIZACIONES Y PATENTES
 
 ### CAPITULO IV. SERVICIOS CATASTRALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 275o.
 
-Los servicios que se presten por el Departamento de Catastro y demás autoridades catastrales causarán derechos conforme a la siguiente:
+Los servicios que se presten por la Dirección de Catastro y demás autoridades catastrales, causarán derechos conforme a la siguiente:
 
 T A R I F A :
 
@@ -3371,19 +3467,23 @@ c).- Rústicos, cuyo valor catastral sea superior a cinco días de salario míni
 
 d).- (DEROGADO, P.O. 16 DE ENERO DE 1993)
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+3.- Revisión, cálculo, aprobación y registro de manifiestos de propiedad, un día de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 II.- CERTIFICACIONES CATASTRALES.
 
-a).- La certificación de Registro sobre planos de predios proporcionados por los contribuyentes 50%, un día de salario mínimo.
+a).- La certificación de Registro sobre planos de predios proporcionados por los contribuyentes, un día de salario mínimo.
 
-b).- La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador de un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y en general de manifiestos o datos de los mismos que obren en los archivos de la Tesorería General del Estado, 50% de un día de salario mínimo.
+b).- La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y en general de manifiestos o datos de los mismos que obren en los archivos de la Secretaría de Hacienda del Estado un día de salario mínimo.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1983)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-III.- AVALUOS.
+III.- AVALUOS PERICIALES.
 
-Sobre el valor de los mismos 2 al millar
+Sobre el valor de los mismos, 2 al millar; en ningún caso el importe a pagar será menor de un día de salario mínimo.
 
 IV.- SERVICIOS TOPOGRAFICOS.
 
@@ -3433,21 +3533,25 @@ b).- Por cada vértice adicional 20 al millar de un día de salario mínimo.
 
 c).- Planos que excedan de 50 x 50 centímetros sobre los incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción, 10 al millar de un día de salario mínimo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-6.- Croquis de localización, tamaño oficio, un día de salario mínimo.
+6.- Localización y ubicación del predio, un día de salario mínimo.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 V.- SERVICIOS DE COPIADO.
 
-1.- Copias heliográficas de planos que obren en los archivos de la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+1.- Copias heliográficas de planos que obren en los archivos de la Secretaría de Hacienda del Estado.
 
 a).- Hasta de 30 x 30 centímetros dos días de salario mínimo.
 
 b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción, 1 al millar de un día de salario mínimo.
 
-2.- Copias fotostáticas de planos o manifiestos que obren en los archivos de la Tesorería General del Estado, hasta tamaño oficio, 20% de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+2.- Copias fotostáticas de planos o manifiestos que obren en los archivos de la Secretaría de Hacienda del Estado, hasta tamaño oficio, 20% de un día de salario mínimo.
 
 No se causarán los derechos establecidos en este Artículo en los casos comprendidos en las fracciones I y V del Artículo 265.
 
@@ -3481,9 +3585,73 @@ VI.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1991
 
 VEASE TABLA ANEXA
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 282o.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Por los servicios de prevención y control de la contaminación del medio ambiente, se pagarán las siguientes cuotas:
+
+1.- Por el servicio de control de descargas de aguas residuales, hasta 386 días de salario mínimo.
+
+2.- Por el análisis de las descargas de aguas residuales, hasta 96 días de salario mínimo.
+
+3.- Por los servicios de impacto ambiental en obras o actividades que requieran su manifestación, se pagarán las siguientes cuotas:
+
+a).- Modalidad general, 24 días de salario mínimo.
+
+b).- Modalidad intermedia, 42 días de salario mínimo.
+
+c).- Modalidad específica, 66 días de salario mínimo.
+
+4).- Por los servicios que a continuación se señalan, se pagarán las siguientes cuotas:
+
+a).- Por la recepción y evaluación del informe preventivo, 36 días de salario mínimo
+
+b).- Por la recepción y evaluación de la manifestación del impacto ambiental:
+
+En su modalidad general, 72 días de salario mínimo.
+
+En su modalidad intermedia, 126 días de salario mínimo.
+
+En su modalidad específica, 197 días de salario mínimo.
+
+Por la revalidación de evaluación del impacto ambiental:
+
+En su modalidad general, 12 días de salario mínimo.
+
+En su modalidad intermedia, 20 días de salario mínimo.
+
+En su modalidad específica, 23 días de salario mínimo.
+
+c).- Por el otorgamiento de la concesión del manejo y disposición final de residuos sólidos no peligrosos, 201 días de salario mínimo.
+
+5.- Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal.
+
+a).- Adultos, medio día de salario mínimo.
+
+b).- Menores de 13 años 20% de un día de salario mínimo.
+
+c).- Vehículos automotores:
+
+Automóviles y motocicletas, un día de salario mínimo.
+
+Camionetas, 3 días de salario mínimo.
+
+Camiones y ómnibus, 5 días de salario mínimo.
+
+d).- Tratándose de profesores, estudiantes e investigadores, pagan el 50% del derecho correspondiente.
+
+6.- Por el uso de instalaciones del Gobierno del Estado en áreas naturales protegidas, por cada día y por persona.
+
+a).- Visitante ecoturista, 3 días de salario mínimo.
+
+b).- Estudiantes e investigadores, un día y medio de salario mínimo.
+
+7:- Por el uso de áreas destinadas a campismo, dentro de las áreas naturales protegidas, un día de salario mínimo por persona y por cada día.
+
+8:- Por la concesión de servicios en áreas ecológicas protegidas, hasta 415 días de salario mínimo.
+
+9.- Por los estudios de flora y fauna silvestres, el 20% de un día de salario mínimo por hectárea.
 
 ###### ARTICULO 283o.
 
@@ -3493,7 +3661,9 @@ VEASE TABLA ANEXA
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
+### CAPITULO VII. DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VIII. DERECHOS DE COOPERACION
 
@@ -3555,6 +3725,10 @@ I.- PRECIO DEL PERIODICO OFICIAL.
 
 3.- Ejemplar extraordinario o con anexo hasta 20 páginas 60% de un día de salario mínimo, de 21 a 50 páginas dos días de salario mínimo y con más de 50 páginas cinco días de salario mínimo.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+4.- Suscripción semestral, treinta y un días de salario mínimo. El pago deberá efectuarse con un mes de anticipación a los siguientes periodos optativos: Enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo.
+
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 II.- PUBLICACIONES.
@@ -3587,17 +3761,17 @@ III.- Los pagos de los derechos que se señalan en este artículo serán por ade
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 300.
 
-El trámite y estudio de las solicitudes de subsidios fiscales para Impuestos Estatales causarán derechos por la cantidad de 6 días de salario mínimo que deberá enterarse previamente al otorgamiento del subsidio.
+El trámite y estudio para autorizaciones de las solicitudes de subsidios fiscales para contribuciones causarán derechos por la cantidad de doce días de salario mínimo, que deberán pagarse previamente al otorgamiento de la autorización o del subsidio.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 301.
 
-El Ejecutivo por conducto de la Tesorería hará efectivo el cobro de las formas valoradas cuyo precio se determinará tomando en cuenta el costo de las mismas o el que rija en el mercado.
+El Ejecutivo por conducto de la Secretaría de Hacienda el cobro de las formas valoradas cuyo precio se determinará tomando en cuenta el costo de las mismas o el que rija en el mercado.
 
 ## TRANSITORIOS
 
@@ -3776,3 +3950,9 @@ P.O. 24 DE ABRIL DE 1993
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1993
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá sus efectos a partir del 1º de Enero de 1994.
