@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2000-06-28"
+last_updated: "2001-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACION DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -813,6 +813,8 @@ IV.- Coadyuvar en la medida de sus posibilidades con las autoridades educativas 
 
 ### CAPITULO III. DEL RECURSO ADMINISTRATIVO
 
+> <small>(REFORMADO, 23 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 90.
 
 En cada establecimiento educativo habrá por lo menos una asociación integrada por padres de familia, tutores o por quienes ejerzan la patria potestad de los educandos por cada tipo de instrucción.
@@ -1065,49 +1067,29 @@ En el caso de autorizaciones cuando la revocación se dicte durante el ejercicio
 
 ###### ARTICULO 118.
 
-En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y las que de ella emanen; podrá interponerse recurso de revisión dentro de los quince días hábiles siguientes a la fecha de su notificación.
-
-Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
-
-Asimismo, podrá interponerse dicho recurso cuando la autoridad no dé respuesta en un plazo de treinta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios o por falta de contestación al derecho de petición consagrado en el Artículo 8° Constitucional.
+En contra de las resoluciones de las autoridades educativas dictadas con fundamento en disposiciones de esta Ley y las que de ella emanen, podrá interponerse el recurso de impugnación, en términos de lo previsto en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
 ###### ARTICULO 119.
 
-El recurso se interpondrá por escrito, ante la autoridad inmediata superior a la que se emitió el acto recurrido u omitió responder la solicitud correspondiente. La autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente el número de anexos que se acompañe, devolviendo en el mismo acto copia debidamente sellada o firmada.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### ARTICULO 120.
 
-Con el escrito a que se refiere al artículo anterior el recurrente deberá:
-
-I.- Expresar su nombre y domicilio para recibir notificaciones;
-
-II.- Proporcionar la documentación que acredite su personalidad y justifique su interés jurídico;
-
-III.- Expresar el acto o resolución que se impugna, la autoridad responsable, los agravios que se invocan y la fecha de notificación;
-
-IV.- Expresar los preceptos legales que se estimen violados y una relación sucinta de los hechos en que se base el recurso, y
-
-V.- Acompañar los elementos de prueba que considere necesarios, excepto la confesional.
-
-En caso de incumplimiento de los requisitos antes señalados la autoridad educativa declarará improcedente el recurso.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### ARTICULO 121.
 
-Si se ofrecen pruebas que requieran desahogo, se abrirá un plazo de diez días hábiles para tal efecto. La autoridad educativa que este conociendo del recurso podrá allegarse los elementos de convicción que considere necesarios.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### ARTICULO 122.
 
-La autoridad educativa dictará resolución dentro de los treinta días hábiles siguientes a partir de la fecha:
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-I.- Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo;
-
-II.- De la conclusión del desahogo de las pruebas o en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado, y
-
-Las resoluciones del recurso se notificarán a los interesados o a sus representantes legales personalmente o por correo certificado, con acuse de recibo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 123.
 
-La interposición del recurso, suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
+La interposición del procedimiento administrativo, suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
 
 Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión solo se otorgará si concurren los requisitos siguientes:
 
@@ -1184,3 +1166,9 @@ P.O. 28 DE JUNIO DE 2000.
 PRIMERO.- Aprobado que sea el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 23 DE MAYO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
