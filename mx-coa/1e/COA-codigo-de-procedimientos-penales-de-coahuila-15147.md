@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "1999-11-30"
+last_updated: "2002-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -265,9 +265,11 @@ Tan pronto un juez de primera instancia o local letrado sepa de un proceso acumu
 
 El juez de primera instancia también ordenará de plano remitir la causa al local letrado, cuando el proceso se deba continuar por sólo uno o más delitos que sean competencia de este último.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 28.
 
-FALTAS PENALES. Se consideran faltas penales los delitos con pena máxima de prisión de tres años o menos, sin incluir atenuante que reduzca la sanción; siempre y cuando se reúnan las condiciones que este código prevé y para los efectos que el mismo contempla.
+FALTAS PENALES. Procederá la vía de la falta penal en los delitos con pena máxima de prisión de hasta tres años, sin incluir atenuante que reduzca la sanción y que, además, sean de penalidad alternativa, siempre que se reúnan las demás condiciones que este código prevé y para los efectos que el mismo contempla.
 
 ###### ARTÍCULO 29.
 
@@ -279,7 +281,9 @@ Por ende, en la sentencia de condena el juzgador impondrá la pena de prisión c
 
 DELITOS QUE SE EXCLUYEN DEL BENEFICIO PROCESAL DE PENALIDAD ALTERNATIVA. Se excluyen del beneficio procesal del artículo anterior:
 
-I. CIERTOS DELITOS DOLOSOS CON PENA DE PRISIÓN INFERIOR A SEIS AÑOS. Los delitos tipificados en los artículos 187; 190; 197; 208 fracción I; 216; 217; 244 si es doloso; 272; 273; 300; 304; 306 fracción IV; 339; 345, salvo que las lesiones sean leves o levísimas; 348, salvo que las lesiones sean leves o levísimas; 412; 416; 417; 419; 424 fracción I; 428; 430; 431; 436; 438; y 442; todos del código penal.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2002)</small>
+
+I. CIERTOS DELITOS DOLOSOS CON PENA DE PRISIÓN INFERIOR A SEIS AÑOS. Los delitos tipificados en los artículos 187; 190; 197; 208 fracción I; 215; 216; 217; 224; 233 fracción VI; 235; 244 si es doloso; 273; 295; 297; 304; 306 fracción IV; 310; 311; 339; 345 salvo que las lesiones dolosas sean leves o levísimas; 348 salvo que las lesiones dolosas sean leves o levísimas; 385; 412; 416; 417; 419; 421; 422; 424 fracción I; 428; 430; 431; 438 y 442, todos del Código Penal.
 
 II. DELITOS CULPOSOS DE HOMICIDIO E INCENDIO. Los delitos culposos de homicidio y el de incendio del artículo 292 del código penal.
 
@@ -292,6 +296,10 @@ V. DELITOS EN LOS QUE LA PENA MÁXIMA DE PRISIÓN SE REDUCE A SEIS AÑOS O MENOS
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 VI. DELITOS CUANDO EXISTA REITERACION DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta; si ello aparece durante el proceso, el juez local letrado ordenará que se aprehenda al inculpado, sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2002)</small>
+
+Igualmente, respecto de cualquier delito del que procedería la falta penal, cuando aparezca que el inculpado se acogió a ella en dos ocasiones, sin que hayan transcurrido los términos para la reiteración ficta a que se refiere el código penal, aplicándose, en su caso, la previsión de la parte final del párrafo anterior.
 
 VII. DELITOS EN LOS QUE SE VIOLAN MEDIDAS DE ARRAIGO JUDICIAL. Los delitos en los que el inculpado viole sin causa justificada alguna de las medidas de arraigo que se le fijen durante el proceso. En cuyo caso, se procederá de igual forma que la fracción anterior.
 
@@ -1947,41 +1955,69 @@ NORMAS SUPLETORIAS. Para la practica y validez de las diligencias de averiguaci�
 
 ###### ARTÍCULO 265.
 
-CUANDO PROCEDE LA VÍA DE FALTA PENAL. La vía de falta penal procederá cuando concurran las condiciones siguientes:
+PROCEDENCIA DE LA VÍA DE FALTA PENAL. La Vía de Falta Penal procederá cuando concurran las condiciones siguientes: 1) Se trate de delito cuya pena máxima de prisión no exceda de tres años sin incluir atenuante que reduzca la sanción; 2) No se trate de delito que la ley excluya del beneficio procesal de penalidad alternativa; 3) El inculpado no se haya acogido a la Vía de Falta Penal en dos ocasiones respecto de las que aún no transcurran los términos de reiteración ficta a que se refiere el Código Penal con relación a los delitos que las motivaron; y 4) Haya por los menos indicio del cuerpo del delito y de la intervención del inculpado. Para ello será suficiente denuncia o querella cuyos hechos los comprenda.
 
-1) Aquella se refiera a delito cuya pena máxima de prisión no exceda de tres años. 2) Haya por lo menos indicio del cuerpo del delito y de la intervención del inculpado. Para ello será suficiente denuncia o querella cuyos hechos los comprenda. 3) No se trate de delito que la ley excluya del beneficio procesal de penalidad alternativa.
+La Vía de Falta Penal también procederá cuando concurran varios delitos, pero sólo respecto de los que se satisfagan las condiciones del párrafo anterior.
 
-El Ministerio Público verificará si se cumplen los requisitos del párrafo anterior. De ser así, citará a la persona inculpada a una audiencia.
+El Ministerio Público verificará si se cumplen los requisitos de los párrafos anteriores. De ser así, citará a la persona inculpada a una audiencia. Al iniciar la audiencia, el Ministerio Público, o en su caso, el Juez, preguntará a la persona inculpada si antes se ha sometido a la Vía de Falta Penal y, en su caso, en cuántas ocasiones, cuándo, dónde y ante qué autoridad del Ministerio Público o judicial, según el caso.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+Si el Ministerio Público ejercita acción penal sin antes citar a la persona inculpada no obstante que en autos constaba su domicilio y, además, se cumplan los requisitos del primer párrafo de este artículo, el juez mandará aclarar el pedimento a fin de que el Ministerio Público cite a la persona inculpada para los efectos de la falta penal. Si la persona inculpada reconoce la falta y se cumplen las demás condiciones de procedencia, el Ministerio Público determinará el no-ejercicio de la acción penal. En caso contrario, el juez continuará la causa. El juez procederá de igual forma cuando quede firme la reclasificación de un delito constitutivo de falta penal, pero en este caso la vía de la falta penal se resolverá ante la propia autoridad judicial. En este caso la multa se entregará al Fondo para la Administración de Justicia.
 
-Si el Ministerio Público ejercita acción penal sin antes citar a la persona inculpada y sea notorio que se cumplían los requisitos del segundo párrafo de este Artículo y, además, que en autos constaba el domicilio donde se le podía citar, sin que sea necesario que éste se haya proporcionado para oír y recibir notificaciones: se mandará aclarar el pedimento de inicio de la acción penal para que el Ministerio Público subsane su omisión y dé la oportunidad de audiencia a la persona inculpada. Subsanada la omisión, el Ministerio Público informará de ello al juzgador; quien sobreseerá la causa si la persona inculpada reconoció la falta y pagó la multa. En caso contrario, el juez continuará la causa. No será motivo para mandar aclarar el pedimento, si la persona inculpada dejó de comparecer sin causa justificada ante el Ministerio Público.
+Será revocable la falta penal y, en su caso, la determinación de no-ejercicio de la acción penal o el auto de sobreseimiento, cuando por cualquier causa se llegue a conceder la vía sin cumplirse con todos los requisitos para su procedencia, o porque luego aparezca que los hechos constituyen delito que amerite una pena mayor, o porque exista simulación o falsedad de la falta penal. En tales casos, se citará al inculpado a una audiencia ante el propio Ministerio Público o el juzgador, según corresponda, quienes resolverán lo que proceda dentro de los cinco días siguientes. En los casos en que el juzgador deba resolver, éste procederá a petición del Ministerio Público, del ofendido, de la víctima o de los abogados de éstos. En el caso que se revoque el auto de sobreseimiento, el juez de oficio reiniciará la causa con base en la acción penal que antes la motivó.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### ARTÍCULO 266.
 
-AUDIENCIA POR FALTA PENAL. En la audiencia a que se refiere el Artículo anterior, el Ministerio Público le hará saber a la persona inculpada la falta que se le atribuye y que si la reconoce sólo le impondrá una multa reducida; en tanto que: 1) La multa se podrá fijar hasta la mitad del máximo si la pena de prisión que señale la ley para el delito no excede de un año, o hasta un tercio del máximo que señale la ley como multa para el delito en los demás casos. 2) Se prescindirá de cualquier otra sanción que la ley penal señale al delito; salvo la reparación del daño, a la que quedará obligada al aceptar la falta. 3) La falta no se considerará como antecedente penal. 4) El pago de la multa impedirá definitivamente que el Ministerio Público ejercite en su contra la acción penal por el hecho presuntamente delictivo que se le atribuye y será motivo para determinar el no-ejercicio de la acción penal.
+AUDIENCIA POR FALTA PENAL. En la audiencia a que se refiere el párrafo tercero del artículo anterior, el Ministerio Público o, en su caso, el juez, le hará saber a petición de la persona inculpada la falta que se le atribuye y que si la reconoce sólo le impondrá el pago de una multa y, además, el pago de otra cantidad que resulte en concepto de pago preventivo para la reparación del daño, misma que se entregará al ofendido o víctima o, en su caso si no la recoge o se niega a recibirla, se depositará en el fondo para la Reparación del Daño en Vía de Falta Penal. Este Fondo quedará a cargo de la Secretaría de Finanzas.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+Asimismo, el Ministerio Público informará a la persona inculpada que si se acoge a la Vía de Falta Penal se procederá de la manera siguiente: 1) La multa se podrá fijar hasta en dos terceras partes del máximo de multa que corresponda al delito de que se trate; 2) El monto del pago preventivo de la reparación del daño se fijará: a) En forma estimada por el Ministerio Público con base en lo probado en las constancias de autos; o, b) Cuando no haya prueba en autos del daño se fijará una cantidad igual a la multa; 3) Se prescindirá de cualquier otra sanción que la ley penal señale al delito, salvo la reparación del daño, a la que quedará obligada al aceptar la falta; 4) La falta no se considerará como antecedente penal; 5) El pago de la multa y el pago preventivo para la reparación del daño, junto con las demás condiciones de procedencia de la falta penal, impedirán que el Ministerio Público ejercite en contra de aquél la acción penal por el hecho presuntamente delictivo que se le atribuye y será motivo para determinar el no-ejercicio de la acción penal o, en su caso, el sobreseimiento.
+
+La Procuraduría General de Justicia establecerá las normas generales para determinar en forma interna un catálogo de multas para las faltas penales, sin perjuicio de lo previsto en el artículo 100 del Código Penal.
+
+Si la persona inculpada se ha acogido antes a la Vía de Falta Penal por una vez sin que aún transcurran los términos para la reiteración ficta a que se refiere el Código Penal, podrá acogerse por última ocasión a aquella, pero se duplicará tanto la multa como el pago preventivo por reparación del daño cuando éste se fije por cantidad igual a la multa.
+
+Para que produzca efectos la Vía de Falta Penal, en la misma audiencia que se le dé a conocer aquella, la persona inculpada deberá expresamente reconocer la falta y convenir en reparar el daño. En esta audiencia, el Ministerio Público le fijará la multa que corresponda y el importe de la cantidad que resulte en concepto de pago preventivo para la reparación del daño, de acuerdo a los párrafos anteriores. Asimismo, por ministerio de ley, a la persona inculpada se le considerará obligada a la satisfacción de la reparación del daño, bien sea porque no haga el pago preventivo, o porque haciéndolo subsista un saldo insoluto para que se repare todo el daño por la vía que corresponda.
+
+De no pagarse la multa o de no hacerse el pago preventivo de la reparación del daño, dentro del plazo de diez días contados a partir del día siguiente de que el inculpado se acoja a la falta penal, de inmediato se continuará con la averiguación, pero subsistirá la obligación de pagar la reparación, la que se liquidará conforme a lo que prevé el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### ARTÍCULO 267.
 
-RECONOCIMIENTO DE FALTA PENAL. En caso de que la persona inculpada reconozca la falta y convenga en reparar el daño: en la misma audiencia el Ministerio Público le fijará la multa que corresponda y, por ministerio de ley, a la persona inculpada se le considerará obligada a la reparación del daño por cantidad ilíquida, se pague o no se pague la multa.
+EFECTUACIÓN DE LOS PAGOS EN VÍA DE FALTA PENAL Y DE LA REPARACIÓN DEL DAÑO CON MOTIVO DE ELLA. La efectuación de los pagos en Vía de Falta Penal y la reparación del daño con motivo de ella, se ajustará a las reglas siguientes:
 
-Para hacer efectiva la multa, el Ministerio Público le hará saber a la persona inculpada las reglas para fijar la multa y, además, que tendrá un plazo de diez días para pagarla a favor del fondo para mejorar la procuración de justicia. Para ello entregará a la persona inculpada un instructivo y, en su caso, una forma autorizada a fin de que proceda a realizar el pago de la multa fijada. El Ministerio Público no recibirá dinero en efectivo por ningún concepto.
+I. EL DAR A CONOCER LAS CONSECUENCIAS DE LA FALTA PENAL. Para hacer efectivos la multa y el pago preventivo para la reparación del daño en los términos de los artículos anteriores, el Ministerio Público le hará saber a la persona inculpada las reglas para fijar la multa y el pago preventivo. Asimismo, le hará saber el plazo de diez días para hacer esos pagos.
 
-La Procuraduría General de Justicia fijará los mecanismos internos para hacer expedito y confiable el pago de la multa o caución a través de las formas autorizadas, aquéllas se enterarán al fondo para mejorar la procuración de justicia.
+II. LA FORMA DE HACER LOS PAGOS. Los pagos se realizarán de la manera siguiente: 1) El pago de la multa se hará a favor del Fondo para mejorar la Procuración de Justicia. En el caso de que no existiere ofendido o víctima o daño que reparar, la mitad de la multa se depositará en el Fondo para la Reparación del Daño en Vía de Falta Penal; y 2) El pago preventivo para la reparación de daño se hará mediante billete de depósito a nombre de la autoridad que conozca de la averiguación y a favor del ofendido o la víctima. Si no hay prueba de la estimación del daño si este existe, el pago preventivo será una cantidad igual a la multa.
 
-Por regla general, si la pena de prisión máxima para el delito es de dos años o excede de estos, la multa no será menor de treinta días multa. Si la pena de prisión máxima para el delito excede de un año pero es inferior a dos, la multa no será menor de veinte días multa. Si la pena de prisión máxima para el delito es de un año o inferior a éste, la multa no será menor de diez días multa. Mas si el Ministerio Público aplica cualquier aumento a dichos mínimos, lo hará bajo su más estricta responsabilidad haciendo constar los motivos y, además, los motivará racionalmente con el aumento que aplique. La multa no podrá exceder de los máximos del Artículo anterior.
+III. EL FONDO PARA LA REPARACIÓN DEL DAÑO EN VÍA DE FALTA PENAL. El Fondo para la Reparación del Daño en Vía de Falta Penal se conformará: 1) Con la mitad de la multa que se pague cuando no haya ofendido o víctima a la que se repare el daño, o que no haya estimación del daño que reparar; y, 2) Con la cantidad que corresponda cuando el ofendido o víctima no acepten el pago a su favor o no recojan el billete de depósito dentro del plazo a que se refiere este artículo.
 
-Si la persona inculpada no repara el daño y sin que sea necesario agotar las instancias del proceso: el Ministerio Público, el ofendido o la víctima podrán acudir ante el juez penal acompañando constancia del reconocimiento de la falta penal y promover el incidente de liquidación en vía de ejecución que prevé el Artículo 710. Será suficiente la resolución del juez penal que fije el monto, para que se haga efectivo en el patrimonio del responsable, directamente en la vía de apremio ante juez civil.
+IV. LAS REGLAS GENERALES DE LA FALTA PENAL. La Procuraduría General de Justicia fijará los mecanismos internos para hacer expeditos y confiables los pagos de las multas, de los depósitos en concepto de pago preventivo a favor del ofendido o víctima y de los pagos preventivos que deban ingresar directamente al Fondo para la Reparación del Daño en Vía de Falta Penal. Para ello, el Ministerio Público entregará a la persona inculpada las formas autorizadas respecto de los pagos que deba hacer, en las que el propio Ministerio Público hará constar todos los datos pertinentes.
 
-De no pagarse la multa dentro del plazo, de inmediato se continuará con la averiguación. En la misma audiencia se prevendrá al inculpado de la consecuencia del impago.
+En todo caso, la multa entregada al Fondo para la Administración de Justicia se sujetará a las reglas previstas en la Ley Orgánica del Poder Judicial.
+
+V. LA EFECTUACIÓN DEL PAGO PREVENTIVO PARA LA REPARACIÓN DEL DAÑO. En los casos en los que haya ofendido o víctima, una vez que se exhiba el billete de depósito con el sello oficial de pagado, de inmediato el Ministerio Público le notificará de lo anterior, para que recoja el billete de depósito dentro de un plazo de treinta días, contados a partir del siguiente de la notificación. Si el ofendido o la víctima acude dentro de ese plazo a recoger el pago, de inmediato el Ministerio Público le entregará el billete de depósito para que se le haga el pago con la misma prontitud.
+
+VI. LA NO-EFECTUACIÓN DEL PAGO PREVENTIVO PARA LA REPARACIÓN DEL DAÑO. Si el ofendido o la víctima no acepta el pago, o si transcurrido el plazo que señala la fracción anterior, no recoge el billete de depósito sin motivo justificado, de inmediato el propio agente del Ministerio Público, endosando el billete a favor del Fondo para la Reparación del Daño en Vía de Falta Penal, lo enviará a la autoridad que maneje el Fondo. Esta autoridad, con igual rapidez, acreditará en el Fondo el importe del billete.
+
+VII. LA VÍA JUDICIAL PENAL PARA HACER EFECTIVA LA REPARACIÓN DEL DAÑO CON CARGO AL FONDO. Sólo procederá la vía judicial para hacer efectiva la reparación del daño con cargo al Fondo para la Reparación del Daño en Vía de Falta Penal, en los casos siguientes: 1) Cuando el ofendido o la víctima estimen insuficiente el pago preventivo para reparar el daño; ó 2) Cuando el inculpado pague la multa, pero no haya hecho el pago preventivo para la reparación del daño dentro del plazo correspondiente.
+
+En estos casos sin que sea necesario agotar las instancias del proceso y a petición del ofendido o víctima, el Ministerio Público tendrá el deber de desahogar los medios de prueba relativos al monto del daño y de acudir ante el juez penal acompañando aquéllos y la constancia del reconocimiento de la falta penal, promoviendo el incidente de liquidación en vía de ejecución que prevé el artículo 710. El ofendido o víctima podrán promover directamente ante el juzgador penal tal incidente de liquidación, acompañando copia certificada de las constancias anteriores y sólo en este caso cesará el deber a cargo del Ministerio Público de promover el incidente que aquéllos le hubieren solicitado. Este derecho precluirá si el ofendido o víctima o, en su caso, el Ministerio Público no lo ejerce dentro de los treinta días siguientes a partir del día en que aquél fije la multa y el pago preventivo que corresponda.
+
+Fijada en el incidente la cantidad a pagar, la orden de pago del juzgador se hará efectiva por los interesados en el Fondo para la Reparación del Daño en Vía de Falta Penal, pagándose de inmediato. Si el Fondo no cuenta con recursos suficientes, en el mismo momento que se quiera hacer efectiva la cantidad a pagar, la autoridad que deba hacer el pago, registrará el día y la hora, tomará los datos del interesado y le dará constancia de lo anterior, con el fin de que se le haga el pago, en orden de prelación, tan pronto el Fondo cuente con recursos bastantes para ello. De estos recursos, de inmediato se reservará la cantidad a pagar, avisando con la misma prontitud al interesado para que la recoja dentro de los diez días siguientes de que se le dé aviso de la reserva a su favor.
+
+VIII. BASES GENERALES DEL FONDO PARA LA REPARACIÓN DEL DAÑO EN VÍA DE FALTA PENAL. El Fondo para la Reparación del Daño en Vía de Falta Penal se sujetará a las bases siguientes: 1) La orden de pago de la reparación del daño con cargo al Fondo a favor del ofendido o víctima, no podrá exceder del equivalente ciento cincuenta días de salario mínimo general vigente en la capital del Estado. Si el pago resulta insuficiente, el ofendido o víctima deberá proceder conforme a la fracción siguiente; 2) La autoridad procederá a hacer las reservas en orden de preferencia temporal, según el día y hora en los que a cada interesado le dio constancia correspondiente. Si aquél no la recoge dentro del plazo a que se refiere la fracción anterior, perderá su derecho de preferencia y los recursos se liberarán para otro pago pero la persona que perdió su derecho de preferencia podrá presentarse de nuevo para que se le expida de inmediato otra constancia, a partir de la cual volverá a tener derecho de preferencia procediéndose de acuerdo con la fracción anterior; 3) Los ofendidos o víctimas que ante el agente del Ministerio Público no hubieren recogido dentro del plazo el billete de depósito a su favor en concepto de pago preventivo para la reparación del daño y el mismo ya se hubiere enviado al Fondo para la Reparación del Daño en Vía de Falta Penal, podrán pedir al Ministerio Público o juez que conoció, requiera el pago del importe de aquél a la autoridad encargada del Fondo, la que pagará de acuerdo con lo que se previene para las órdenes de pago de los juzgadores.
+
+IX. LA VÍA JUDICIAL CIVIL PARA HACER EFECTIVA LA REPARACIÓN DEL DAÑO EN EL PATRIMONIO DEL RESPONSABLE. Lo previsto en las fracciones precedentes no será impedimento para que el Ministerio Público, con base en la resolución judicial de liquidación que fije el monto de la reparación del daño, deba promover que la misma se haga efectiva en el patrimonio del responsable, directamente en la vía de apremio ante juez civil. Los jueces civiles estarán obligados a tramitar la vía de apremio en cualquier caso que se les presente resolución de liquidación por concepto de reparación del daño. El ofendido víctima podrán promover directamente la vía de apremio ante los jueces civiles acompañando la resolución judicial de liquidación, en cuyo caso, cesará el deber del Ministerio Público de promoverla.
+
+X. LA SIMULACIÓN O FALSEDAD DE LA FALTA PENAL. Existirá simulación o falsedad de la falta penal cuando el ofendido o víctima del delito se beneficien o realicen actos tendientes a beneficiarse indebidamente del pago preventivo de la reparación del daño a cargo del Fondo para la Reparación del Daño en Vía de Falta Penal. En estos casos, el Ministerio Público dictará las medidas que estime necesarias para prevenir o evitar la simulación o falsedad, sin perjuicio de las diligencias que lleve a cabo por la probable comisión de los delitos que resulten.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### ARTÍCULO 268.
 
-NO-RECONOCIMIENTO DE FALTA PENAL. Cuando la persona inculpada no reconozca la falta u omita pagar la multa, el Ministerio Público continuará la averiguación previa. Si la persona inculpada se niega a permanecer en la audiencia, se le permitirá retirarse.
+NO-RECONOCIMIENTO DE FALTA PENAL. Cuando en la audiencia respectiva la persona inculpada no reconozca expresamente la falta, el Ministerio Público dará por concluida la audiencia y continuará la averiguación previa, sin perjuicio de que enseguida le tome su declaración a la persona inculpada, para la cual, aquél procederá con todas las formalidades legales. El Ministerio Público también continuará con la averiguación previa cuando la persona inculpada omita pagar la multa o no haga el pago preventivo en el plazo correspondiente. En cualesquiera de esos casos, la persona inculpada ya no podrá acogerse después a la Vía de Falta Penal respecto a los hechos que motivan la averiguación.
 
 ###### ARTÍCULO 269.
 
@@ -3635,6 +3671,8 @@ La declaración de que la sentencia causó ejecutoria no admite recurso.
 
 ### CAPÍTULO XVI. VÍA DE FALTA PENAL
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 500.
 
 PROCEDENCIA DE LA VÍA SUMARIA. La vía sumaria se substanciará cuando todos los delitos por los que se acuse tengan penalidad máxima de seis años de prisión o menos, sin incluir atenuante, y ninguno sea grave.
@@ -3685,9 +3723,15 @@ Siempre y cuando en cualquiera de los casos del párrafo anterior: 1) No estén 
 
 III. QUE EL INCULPADO NO SEA JEFE O CABECILLA EN DELINCUENCIA ORGANIZADA; GRUPO O BANDA. Que el inculpado no sea jefe o cabecilla en cualquiera de los casos siguientes: 1) En los casos de delincuencia organizada. 2) En algún grupo o banda de secuestradores, de ladrones o asaltantes. 3) En una pandilla criminal.
 
-IV. QUE EL INCULPADO NO SEA INDUCTOR, AUTOR MEDIATO O MATERIAL DE HOMICIDIO CALIFICADO. Que el inculpado no sea inductor, autor mediato o material de homicidio calificado.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2002)</small>
+
+IV. QUE NO SE TRATE DE DELITO GRAVE. Que no se trate de delito que la ley clasifique como grave, salvo que el agente del Ministerio Público, previa autorización del Procurador, considere que la vía de oblación en dichos delitos graves resulta necesaria para el auxilio a la procuración de justicias (sic). Para tal efecto, el Ministerio Público deberá levantar acta en presencia del indiciado y su defensor en donde se haga constar las razones para justificar la vía de oblación. El juez determinará la procedencia conforme a los requisitos establecido (sic) en este código.
 
 V. PETICIÓN DE PROCESO ABREVIADO CON RENUNCIA A PRUEBAS. Que junto con el defensor desde la averiguación previa o en el proceso, solicite se sustancíe el proceso en vía de oblación; renuncien expresamente a la fase probatoria; a las pruebas que hayan ofrecido pendientes de admitir o desahogar y a ofrecer pruebas en el período para la audiencia principal o adicional; o en la audiencia final; según corresponda.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2002)</small>
+
+VI. REPARACIÓN DEL DAÑO EN DELITOS NO GRAVES. Cuando se trate de delitos no graves, se repare el daño a favor de la víctima u ofendido del delito en los términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 506.
 
@@ -3721,9 +3765,19 @@ VI. ANULACIÓN DE LA VÍA. Si antes de la audiencia final aparece cualquier dato
 
 VII. SANCIONES EN LA OBLACIÓN. Las sanciones que se lleguen a imponer en la sentencia de condena, no podrán exceder de la mitad del máximo que legalmente corresponda al o los delitos por los que se condena, con inclusión de las reglas por concurso en su caso. Salvo la reparación del daño.
 
-VIII. RECURSOS EN LA OBLACIÓN. No se admitirá recurso contra las resoluciones que se dicten en vía de oblación; salvo contra la sentencia y sólo si se trata de delito grave; o cuando el juez declare procedente la vía sin satisfacerse las condiciones para ello; o no la deje sin efecto en el caso de la fracción VI de este artículo. En estos dos últimos casos el recurso idóneo será la apelación con efecto suspensivo.
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2002)</small>
+
+En delitos graves, el condenado no tendrá derecho a la condena condicional o cualquier otro sustitutivo penal o beneficio otorgado por vía judicial o penitenciaria en los términos de las disposiciones aplicables. En todo caso, el responsable deberá compurgar la pena impuesta por el juez.
+
+> <small>(REFORMADA, PRIMER PARRAFO P.O. 14 DE JUNIO DE 2002)</small>
+
+VIII. RECURSOS EN LA OBLACIÓN. No se admitirá recurso contra las resoluciones que se dicten en vía de oblación; salvo contra la sentencia y sólo si se trata de delito grave respecto del que si proceda la vía; o cuando el juez declare procedente la vía sin satisfacerse las condiciones para ello; o no la deje sin efecto en el caso de la fracción VI de este artículo. En estos dos últimos casos el recurso idóneo será la apelación con efecto suspensivo, sin embargo, hasta que se resuelva el recurso, el juzgador continuará el proceso en la vía que originalmente le corresponda hasta citar para sentencia, momento en el que lo suspenderá hasta que se resuelva el recurso sólo si el inculpado y su defensor expresan su conformidad con la suspensión dentro de los tres días después de darles a conocer este derecho. En caso contrario, la vía de oblación quedará sin efecto y el juez dictará sentencia. El juzgador de inmediato avisará de ello a la autoridad que conozca del recurso para que lo declare sin materia.
 
 El auto firme que declare abierta la vía de oblación dejará sin materia los recursos que antes hayan interpuesto los inculpados que se sometan a ella, o sus defensores; así como, con relación a aquellos, los que haya interpuesto el Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2002)</small>
+
+IX. PRIMARIEDAD EN LA OBLACIÓN. No procederá la vía de oblación cuando el inculpado haya obtenido con anterioridad dicho beneficio.
 
 ## TÍTULO QUINTO. SUSPENSIÓN Y SOBRESEIMIENTO DEL PROCESO
 
@@ -5494,3 +5548,33 @@ LIC. CARLOS JUARISTI SEPTIEN
 P.O. 30 DE NOVIEMBRE DE 1999.
 
 UNICO.- Estas reformas iniciarán su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE JUNIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor 15 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de falta penal y de oblación que estén pendientes de iniciarse o se encuentren en trámite o resolución a la entrada en vigor de este Decreto, deberán sustanciarse y resolverse conforme a las disposiciones que se establecen en el presente Decreto bajo el principio de inmediata vigencia y en caso de que sea más favorable al inculpado.
+
+###### ARTÍCULO TERCERO.
+
+Para la constitución del Fondo para la Reparación de Daño en Vía de Falta Penal, las autoridades se sujetarán a lo siguiente:
+
+I. La Secretaría de Finanzas abrirá una cuenta para depositar en el Fondo las cantidades que pague el inculpado por los conceptos que correspondan.
+
+II. El Fondo se integrará durante un plazo de un año y seis meses contados a partir de la fecha en que se realice el primer depósito.
+
+III. Durante el plazo a que se refiere la fracción anterior, la (sic) autoridades administrarán el Fondo sin que exista ninguna disposición.
+
+IV. Transcurrido el plazo a que se refiere la fracción II, los ofendidos o víctimas de un delito tendrán el derecho a lograr el pago por concepto de pago preventivo de la reparación del daño con cargo al Fondo, en los términos previstos en la fracción VII del artículo 267 del Código de Procedimientos Penales.
+
+V. La Procuraduría General de Justicia expedirá un reglamento del Fondo dentro del plazo a que se refiere la fracción II de este artículo.
+
+VI. La Procuraduría General de Justicia evaluará la funcionalidad del Fondo, a fin de determinar su viabilidad económica, social e institucional. En caso de que existan datos que hagan inviable el Fondo, las instancias competentes realizarán la (sic) modificaciones o adecuaciones correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
