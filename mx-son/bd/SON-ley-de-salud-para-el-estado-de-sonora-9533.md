@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-9533"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-30"
-last_updated: "1989-12-29"
+last_updated: "1992-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE SALUD PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 22 DE JUNIO DE 1992, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 1992 (ABROGADO).
 
 Ley publicada en la Sección I del Número 18 del Boletín Oficial del Estado de Sonora, el jueves 30 de agosto de 1984.
 
@@ -2494,3 +2496,23 @@ Los procedimientos para la ejecución forzosa de sanciones y medidas de segurida
 ###### ARTICULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+B.O. 22 DE JUNIO DE 1992.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Número 67 de Salud para el Estado de Sonora, publicada en el alcance al número 18 del Boletín Oficial del Gobierno del Estado de Sonora, de fecha 30 de agosto de 1984, Tomo CXXXIV, y sus reformas y adiciones, así como todas las disposiciones que se opongan a la presente ley.
+
+###### ARTICULO TERCERO.
+
+Todos los actos, procedimientos y recursos administrativos relacionados con esta ley, que se hubieren iniciado bajo la vigencia de la Ley Número 67 de Salud para el Estado de Sonora que se abroga, se tramitarán y resolverán conforme a las disposiciones de la citada ley.
+
+###### ARTICULO CUARTO.
+
+Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de la presente Ley, seguirán válidas hasta su vencimiento. Las nuevas autorizaciones se otorgarán en los términos de la presente Ley.
