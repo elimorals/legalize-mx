@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2001-05-17"
+last_updated: "2005-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -52,9 +52,9 @@ I. La Suprema Corte de Justicia de la Nación;
 
 II. El tribunal electoral;
 
-III.- Los tribunales colegiados de circuito;
+III. Los tribunales colegiados de circuito;
 
-IV.- Los tribunales unitarios de circuito;
+IV. Los tribunales unitarios de circuito;
 
 V. Los juzgados de distrito;
 
@@ -332,7 +332,7 @@ b) De los amparos directos que por su interés y trascendencia así lo ameriten 
 
 > <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2001)</small>
 
-IV.- Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o en revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
+IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o en revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
 
 V. Del recurso de reclamación contra los acuerdos de trámite dictados por su presidente;
 
@@ -638,13 +638,13 @@ II. De los procedimientos de extradición, salvo lo que se disponga en los trata
 
 > <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
-III.- De las autorizaciones para intervenir cualquier comunicación privada.
+III. De las autorizaciones para intervenir cualquier comunicación privada.
 
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 50
 
-BIS.- En materia federal, la autorización para intervenir las comunicaciones privadas, será otorgada de conformidad con la ley federal en materia de delincuencia organizada.
+BIS.- En materia federal, la autorización para intervenir comunicaciones privadas, será otorgada de conformidad con la Ley Federal en materia de Delincuencia Organizada y con la Ley de Seguridad Nacional respectivamente.
 
 > <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
@@ -2268,7 +2268,7 @@ Cada magistrado de la Sala Superior y de las Salas Regionales contará permanent
 
 Para el ejercicio de sus funciones la Sala Superior contará con un secretario general de acuerdos y un subsecretario general de acuerdos que serán nombrados en los términos del artículo 188 de esta ley.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN , D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 2A.
 
@@ -2498,7 +2498,7 @@ DE LOS ORGANOS AUXILIARES
 
 La Comisión de Administración contará con una Secretaría Administrativa y con los órganos auxiliares necesarios para el adecuado ejercicio de las funciones que tiene encomendadas. Su estructura y funciones quedarán determinadas en el Reglamento Interno del Tribunal Electoral.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN , D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 212.
 
@@ -2967,3 +2967,7 @@ CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
 D.O.F. 17 DE MAYO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE ENERO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
