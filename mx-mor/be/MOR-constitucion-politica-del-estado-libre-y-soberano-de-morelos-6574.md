@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1983-07-22"
+last_updated: "1983-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1983.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -182,7 +182,7 @@ V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la for
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1932)</small>
 
-VI.- Es que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
+VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
 > <small>(REFORMADO, 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -376,11 +376,15 @@ El Congreso tendrá cada año, dos Períodos de Sesiones Ordinarias, el primero 
 
 En el primer período de sesiones el Congreso se ocupará invariablemente del examen, discusión y aprobación de la Cuenta Pública del año anterior, tanto del Estado como de los Municipios. Para este efecto, el Estado o los Municipios, presentarán al Congreso dentro de los primeros quince días del mes de marzo de cada año, la cuenta correspondiente al año anterior.
 
-Para el estudio y aprobación en su caso, los proyectos de Leyes de Ingresos y Presupuesto de Egresos del Estado deberán presentarse a más tardar el día último del mes de octubre de cada año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+En el segundo período se ocupará preferentemente del exámen, discusión y aprobación de las Leyes de Ingresos del Estado y de los Municipios, para cuyos efectos las Iniciativas correspondientes deberán presentarse al Congreso a más tardar el día 30 de Noviembre de cada año.
 
 El Congreso del Estado podrá citar a los Secretarios de despacho que corresponda, a los Presidentes Municipales, Regidores de Hacienda y Tesoreros en su caso para que informen o expliquen el contenido y alcance de los proyectos de Ley de Ingresos y Presupuestos de Egresos respectivos. Asimismo, cuando pidan ampliación del término de presentación de dichos proyectos expresarán las razones de su solicitud. Cuando se trate de los proyectos de Ley de Ingresos y Presupuesto de Egresos del Estado, la solicitud de ampliación del término de presentación al Congreso la formulará el Jefe del Ejecutivo.
 
-Lo anterior se entiende, sin perjuicio de que el Congreso en ambos períodos desarrolle su actividad legislativa general y se ocupe de los demás asuntos que le competen conforme a esta Constitución.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+Los plazos de presentación de las Leyes de Ingresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y de Programación y Presupuesto o de los Regidores de Hacienda de los Municipios, respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
 
@@ -476,143 +480,233 @@ XII.- Suprimir alguno o algunos de los Municipios existentes, incorporándolos a
 
 XIII.- Decretar las contribuciones que deben formar la Hacienda Municipal, las que deben ser bastantes para cubrir las necesidades de los Municipios.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XIV.- Autorizar la venta, hipoteca o cualquier otro gravamen de bienes raíces del Estado o de los Municipios, así como todos los actos o contratos que comprometen dichos bienes en uso o concesión en favor de particulares y de organismos públicos.
+XIV.- Autorizar la venta, hipoteca o cualquier otro gravámen de bienes raíces del Estado, o de los Municipios, así como todos los actos o contratos que comprometan dichos bienes en uso o concesión en favor de particulares y de organismos públicos. Los actos o contratos que en esos supuestos realicen los Municipios deberán ser aprobados previamente por el Ayuntamiento en Sesión de Cabildo.
 
-XV.- Fijar, según las necesidades locales, el número máximo de Ministros de los cultos que puede permitirse en el Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XVI.- Organizar el patrimonio de familia, determinando los bienes que deben constituírlo.
+XV.- Establecer las bases normativas sobre las que los Municipios podrán expedir sus Bandos de Policía y Buen Gobierno, así como los Reglamentos, Circulares y demás disposiciones administrativas de observancia general en el ámbito de sus jurisdicciones.
 
-XVII.- Crear la deuda agraria del Estado, con arreglo a la Constitución Federal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XVIII.- Organizar la pequeña propiedad rural, fijando la extensión máxima de tierras de que pueda ser dueño un solo individuo o sociedad legalmente constituída.
+XVI.- Fijar, según las necesidades locales, el número máximo de Ministros de los cultos que pueden permitirse en el Estado.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XIX. Expedir Leyes relativas a la relación de trabajo entre los Poderes y los Ayuntamientos del Estado y sus Trabajadores y a seguridad social de dichos Trabajadores, sin contravenir las siguientes bases:
+XVII.- Organizar el patrimonio de la familia determinando los bienes que deben constituirlo.
 
-A.- La jornada diaria máxima de trabajo, diurna y nocturna, será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-B.- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso cuando menos, con goce de salario íntegro.
+XVIII.- Crear la deuda agraria del Estado, con arreglo a la Constitución Federal.
 
-C.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-D.- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos.
+XIX.- Organizar la pequeña propiedad rural, fijando la extensión máxima de tierras de que pueda ser dueño un solo individuo o sociedad legalmente constituída.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XX.- Expedir Leyes relativas a la relación de trabajo entre los Poderes y los Ayuntamientos del Estado y sus Trabajadores y a seguridad social de dichos Trabajadores, sin contravenir las siguientes bases:
+
+a).- La jornada diaria máxima de trabajo diurna y nocturna, será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas.
+
+b).- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro.
+
+c).- Los Trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año.
+
+d).- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
 
 En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en el Estado.
 
-E.- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
+e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
 
-F.- Sólo podrán hacerse retenciones, descuentos o embargos al salario, en los casos previstos en las leyes.
+f).- Sólo podrán hacerse retenciones, descuentos o embargos al salario, en los casos previstos en las Leyes.
 
-G.- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los Trabajadores que lo deseen puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
+g).- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos, y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los trabajadores que lo deseén puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
 
-H.- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
+h).- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
 
-I.- Los trabajadores solo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley. En caso de separación injustificada tendrán derecho a optar por la reinstalación en su trabajo o por la indemnización corrrespondiente (sic), previo el procedimiento legal. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o la indemnización de Ley.
+i).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley.
 
-J.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemático los derechos que este artículo les consagra.
+En caso de separación injustificada tendrán derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal.
 
-K.- La seguridad social se organizará conforme a las siguientes bases mínimas:
+En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indeminzación (sic) de Ley.
+
+j).- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemática los derechos que este artículo les consagra.
+
+k).- La seguridad social se organizará conforme a las siguientes bases mínimas:
 
 a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
 
 b).- En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la Ley.
 
-c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
+c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además disfrutarán de asistencia médica y obstetricia, de medicinas, de ayuda para la lactancia y del servicio de guarderías infantiles.
 
-d).- Los familiares de los Trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la Ley.
+d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la Ley.
 
-e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento o venta, a los trabajadores, conforme a los programas previamente aprobados.
+e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, a los trabajadores conforme a los programas previamente aprobados.
 
-L.- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
+l).- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
 
-M.- La Ley determinará los cargos que serán considerados de confianza. Las personas que lo desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
+m).- La Ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
-XX.- Dictar las leyes que estimen pertinentes para combatir el alcoholismo y el uso de hierbas y substancias enervantes.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXI.- Conceder premios por servicios hechos a la Nación, al Estado o a la Humanidad.
+XXI.- Dictar las leyes que estime pertinentes para combatir el alcoholismo y el uso de yerbas y substancias enervantes.
 
-XXII.- Rehabilitar en sus derechos de ciudadano del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+XXII.- Conceder premios por servicios hechos a la nación, al Estado o a la Humanidad.
 
-XXIII.- Expedir la Ley relativa a la expropiación de la Propiedad Privada por causas de utilidad pública.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXIV.- Excitar a los Poderes de la Nación para que presten protección al Estado, en el caso previsto por el artículo 122 de la Constitución Federal.
+XXIII.- Rehabilitar en sus derechos de ciudadano del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXV.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XIX.
+XXIV.- Expedir la ley relativa a la expropiación de la propiedad privada por causas de utilidad pública.
 
-XXVI.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el artículo 133 de esta Constitución.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-(REFORMADA, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
+XXV.- Excitar a los poderes de la Nación para que presten protección al Estado, en el caso previsto por el Artículo 122 de la Constitución Federal.
 
-XXVII.- Examinar y calificar en el primer período ordinario de Sesiones, la cuenta pública del año anterior que oportunamente deberá presentarle el Ejecutivo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-Asimismo, examinar y aprobar, en su caso, la cuenta pública del año anterior que deberán presentar los Municipios en los primeros cinco días del primer período de Sesiones.
+XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-XXVIII.- Aprobar los Presupuestos de Ingresos Municipales, de acuerdo con los de Egresos, y que cada año deben remitirle con toda oportunidad los Ayuntamientos, para el año fiscal siguiente.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXIX.- Conceder licencias para separarse de sus respectivos cargos, a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda.
+XXVII.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el Artículo 133 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXX.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
+XXVIII.- Examinar y calificar en el primer período ordinario de Sesiones, la cuenta pública del año anterior que oportunamente deberá presentarle el Ejecutivo.
 
-XXXI.- Admitir la renuncia de sus cargos al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
+Asimismo, examinar y aprobar, en su caso, la cuenta Pública del año anterior que deberán presentar los Municipios en los primeros cinco días del primer período de Sesiones.
 
-XXXII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, siempre que la duración de ellas exceda de treinta días.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXXIII.- Convocar a elecciones de Gobernador y de Congreso del Estado, salvo lo dispuesto en el artículo 56, fracción IX de esta Constitución.
+XXIX.- Aprobar la iniciativa de Ley de Ingresos Municipales autorizada en Sesión de Cabildo, y que cada año deben remitirle con toda oportunidad los Ayuntamientos en los términos del Artículo 32 Párrafo Tercero de esta Constitución.
 
-XXXIV.- Declarar Gobernador del Estado al que haya obtenido mayoría de votos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXXV.- Nombrar Gobernador Interino o substituto en los casos que determina esta Constitución.
+XXX.- Conceder licencias para separarse de sus respectivos cargos a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXXVI.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, propuestos por el Ejecutivo del Estado.
+XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-XXXVII.- Nombrar a los Diputados que deben integrar la Diputación Permanente, conforme al artículo 53 de esta Constitución.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXXVIII.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al Estado ante la Suprema Corte de Justicia, cuando se suscite alguna controversia con otro Estado o con la Nación.
+XXXII.- Admitir la renuncia de sus cargos al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
 
-XXXIX.- Decidir sobre la legalidad de las elecciones municipales, cuando se reclame en contra de ellas, y resolver en cada caso lo conveniente.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
+XXXIII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, siempre que la duración de ellas exceda de treinta días.
 
-XL.- Declarar que ha lugar o no a formación de causa por delitos oficiales y del orden común en contra de los Diputados, el Gobernador, los Secretarios de Despacho, Procurador de Justicia y Magistrados del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XLI.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delitos que cometan en ejercicio de sus funciones.
+XXXIV.- Convocar a Elecciones de Gobernador y de Congreso del Estado, salvo lo dispuesto en el artículo 56, fracción IV de esta Constitución.
 
-XLII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado, y que no tengan el carácter de controversias de que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+XXXV.- Declarar Gobernador del Estado al que haya obtenido mayoría de votos.
 
-XLIII.- Expedir el Reglamento del Tribunal Superior de Justicia, a iniciativa del mismo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XLIV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
+XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XLV.- Para expedir Leyes a fin de crear Organismos Descentralizados y Empresas de Participación Estatal. Asimismo para integrar a solicitud de las dos terceras partes de sus miembros, comisiones que procedan a la investigación del funcionamiento de los organismos descentralizados y empresas de participación estatal, haciendo del conocimiento del Ejecutivo los resultados.
+XXXVII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, propuestos por el Ejecutivo del Estado.
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XLVI.- Revisar las cuentas públicas del gobierno del Estado y de los Municipios, cuando así lo aprueben las dos terceras partes de los miembros reunidos en la asamblea que lo determine.
+XXXVIII.- Nombrar a los Diputados que deben integrar la Diputación permanente, conforme el Artículo 53 de esta Constitución.
 
-XLVII.- Las demás que expresamente le confiere esta Constitución.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al Estado ante la Suprema Corte de Justicia, cuando se suscite alguna controversia con otro Estado o con la Nación.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XL.- Decidir sobre la legalidad de las elecciones municipales, cuando se reclame en contra de ellas, y resolver en cada caso lo conveniente.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLI.- Declarar que ha lugar o no a formación de causa por delitos oficiales y del órden común en contra de los Diputados, el Gobernador, los Secretarios de Despacho, Procurador de Justicia y Magistrados del tribunal Superior de Justicia.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delitos que cometan en el ejercicio de sus funciones.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y que no tengan el carácter de controversias de que deba conocer la Suprema Corte de Justicia de la Nación, conforme al Artículo 105 de la Constitución Federal.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLIV.- Expedir el Reglamento del Tribunal Superior de Justicia, a iniciativa del mismo.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLVI.- Para expedir Leyes a fin de crear organismos descentralizados y Empresas de participación Estatal. Asimismo para integrar a solicitud de las dos terceras partes de sus miembros, comisiones que procedan a la investigación del funcionamiento de los organismos descentralizados y empresas de participación estatal, haciendo del conocimiento del Ejecutivo los resultados.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLVII.- Revisar las cuentas públicas del Gobierno del Estado y de los Municipios, cuando así lo aprueben las dos terceras partes de los miembros reunidos en la asamblea que lo determine.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLVIII.- Legislar en materia de Asentamientos Humanos, Regularización de la Tenencia de la Tierra, Reservas Ecológicas, Territoriales y Utilización de Suelo, observando lo dispuesto por el Párrafo Tercero del Artículo 27 Constitucional y demás Leyes Federales.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XLIX.- Expedir las Leyes Orgánicas y la de División Territorial Municipal con sujeción a lo establecido por esta Constitución.
+
+L.- Las demás que expresamente le confiere esta Constitución.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 41.
 
-El Congreso del Estado, o la Diputación Permanente, en su caso, resolverán de inmediato sobre las suspensiones de miembros de los Ayuntamientos que dicte el Ejecutivo, cuando hayan hecho abuso de sus facultades, incurrido en responsabilidad, cometido algún delito y observen mala conducta. Al aprobarse la suspensión de los propietarios, se llamará a los suplentes al ejercicio de las funciones municipales y sólo en caso de faltas de suplentes, el Ejecutivo nombrará a los substitutos con aprobación del Congreso o de la Diputación Permanente, para que integren el Concejo Municipal.
+El congreso del Estado, por acuerdo cuando menos de las dos terceras partes de sus integrantes podrá declarar la desaparición de Ayuntamientos, suspenderlos en su totalidad, suspender a alguno de los integrantes de los propios Municipios, siempre y cuando los afectados hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga en los siguientes casos:
 
-De la misma manera resolverá el Congreso o la Diputación Permanente sobre la propuesta del ejecutivo para separar de su cargo por mala conducta, a algún Magistrado del Tribunal Superior de Justicia.
+I.- Declarará la desaparición de Ayuntamientos cuando se hayan presentado previamente circunstancias de hecho como la desintegración del Cuerpo Edilicio o que éste se encuentre imposibilitado para el ejercicio de sus funciones conforme al orden Constitucional tanto Federal como Estatal;
+
+REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)
+
+III (sic) .- Podrá dictar la suspensión definitiva de un Ayuntamiento en su totalidad, en los siguientes casos:
+
+a).- Cuando el Municipio ha dejado de funcionar normalmente por cualquier circunstancia distinta a las señaladas como causa de declaración de desaparición de los Ayuntamientos;
+
+b).- Cuando el Ayuntamiento como tal, haya violado reiteradamente la Legislación Estatal o la de la Federación;
+
+c).- Cuando todos los integrantes del Ayuntamiento se encuentren en el caso de que proceda su suspensión en lo particular.
+
+III.- Ordenará la suspensión definitiva de uno de los miembros del Ayuntamiento en lo particular, cuando el Munícipe de que se trate se coloque en cualquiera de los siguientes supuestos:
+
+a).- Quebrante los principios jurídicos del régimen Federal o de la Constitución Política del Estado de Morelos;
+
+b).- Cuando abandone sus funciones por un lapso de quince días consecutivos sin causa justificada;
+
+c).- Cuando deje de asistir consecutivamente a cinco Sesiones de Cabildo sin causa justificada;
+
+d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento;
+
+e).- Por omisión reiterada en el cumplimiento de sus funciones;
+
+f).- Cuando se le dicte auto de formal prisión por delito doloso, y,
+
+g).- En los casos de incapacidad física o legal permanente.
+
+IV.- Acordará la revocación del mandato a alguno de los integrantes del Ayuntamiento, en el supuesto de que éste no reúna los requisitos de eligibilidad (sic) previstos para el caso.
+
+En caso de declararse desaparecido algún Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros cuando no procediere que entraren en funciones los Suplentes ni que se celebrasen nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos. Cuando el Congreso se encuentre en receso, la Diputación Permanente lo convocará a fin de verificar que se han cumplido las condiciones establecidas por esta Constitución.
 
 ### CAPITULO II.
 
@@ -684,7 +778,7 @@ Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Per
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 53.
 
@@ -720,7 +814,9 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+D.- Cuando alguno de los funcionarios a que se refiere el Artículo 40 Fracción XLI, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -732,7 +828,9 @@ VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su 
 
 VIII.- Recibir los testimonios de las actas de elecciones de Diputados y de Gobernador del Estado, para entregarlos al Congreso, en sus respectivos casos.
 
-IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVI, XXIX, XXXII, XXXV y XLIV del artículo 40 de esta Constitución.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las Fracciones XXVII, XXX, XXXIII, XXXIV, XXXVI y XLV del Artículo 40 de esta Constitución.
 
 X.- Las demás que le confiere expresamente esta misma Constitución.
 
@@ -750,17 +848,19 @@ DE LA HACIENDA PUBLICA, PROGRAMACION Y DEL DESARROLLO URBANO Y RURAL.
 
 Se deposita el ejercicio del Poder Ejecutivo en un solo individuo, que se denominará Gobernador Constitucional del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 58.
 
 Para ser Gobernador se requiere:
 
-I.- Ser ciudadano Morelense por nacimiento.
+I.- Ser ciudadano Morelense por nacimiento;
 
-II.- Tener 35 años cumplidos el día de la elección.
+II.- Tener 35 años cumplidos el día de la elección;
 
-III.- Residir habitualmente en el territorio del Estado un año inmediato anterior a la elección.
+III.- Residir en el territorio del Estado por lo menos un año inmediato anterior a la elección;
+
+IV.- No siendo Ciudadano Morelense por nacimiento, haber residido permanentemente en el Estado por un período no menor de cinco años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1946)</small>
 
@@ -864,9 +964,9 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-IV.- Nombrar y remover libremente a los Secretarios del Poder Ejecutivo Estatal. Así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las Leyes a que se refiere la fracción XIX del Artículo 40 de la Constitución Política del Estado.
+IV.- Nombrar y remover libremente a los Secretarios del Poder Ejecutivo Estatal. Así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las Leyes a que se refiere la Fracción XX del Artículo 40 de la Constitución Política del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -940,9 +1040,9 @@ XXV.- Salir del territorio del Estado o separarse de sus funciones, sin autoriza
 
 XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la Administración y tener en forma exclusiva la iniciativa de Leyes para crear los organismos descentralizados y empresas de participación estatal.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXVII.- Remover a los miembros de los Ayuntamientos cuando observen mala conducta, abusen de sus facultades, incurran en responsabilidad o cometan algún delito, sometiendo a la aprobación del Congreso o de la Diputación Permanente, la medida adoptada, llamar a los suplentes al ejercicio de sus funciones municipales, y en caso de falta de éstos o que sean incluídos en la remoción, aprobar la designación que haga el Ejecutivo para integrar el Concejo Municipal, sin perjuicio de la consignación que proceda a las Autoridades competentes.
+XXVII.- Solicitar al Congreso del Estado la declaración de desaparición de Ayuntamientos; la suspensión definitiva de un Ayuntamiento en su totalidad, la suspensión definitiva de uno de los miembros del Ayuntamiento en lo particular, la revocación del mandato conferido a alguno de los integrantes del Municipio, en los casos previstos por el Artículo 41 de este ordenamiento.
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -954,11 +1054,19 @@ b).- Emitir opinión en los expedientes sobre creación de nuevos centros de pob
 
 c).- Nombrar y remover libremente a los representantes del Gobierno a la Comisión Agraria Mixta; la que estará integrada en los términos que establece la Ley Federal de Reforma Agraria.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XXXIX (sic) .- El Gobernador del Estado tendrá el mando de la Fuerza Pública en el Municipio donde resida habitual o temporalmente, pero asumirá éste transitoriamente en cualquier Municipio cuando se den circunstancias o hechos que hagan peligrar la tranquilidad social.
+
 (REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
 ###### Artículo 71.
 
 El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la Entidad.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+Podrá inclusive convenir en los términos de Ley, con la Federación, que el Estado asuma el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos que le correspondan a aquélla, de igual manera está facultado para celebrar convenios con sus Municipios para que éstos desarrollen las funciones o presten los servicios antes señalados, todo ello cuando el desarrollo económico y social del Estado lo haga necesario.
 
 I.- Promulgar, cumplir, hacer cumplir y ejecutar las leyes, decretos y acuerdos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
@@ -1008,9 +1116,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario de Gobierno, un Secretario de Finanzas, un Secretario de Programación y Presupuesto, un Secretario de Asentamientos Humanos y Obras Públicas, un Secretario de Desarrollo Agropecuario y un Secretario de Desarrollo y Fomento Industrial.
-
-La Ley correspondiente determinará las atribuciones y funciones de cada uno de los Secretarios del despacho.
+Para el despacho de los negocios encomendados al Ejecutivo habrá tantos servidores públicos como la administración del Estado lo requiera, en los términos de la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1026,9 +1132,7 @@ I.- Ser ciudadano Morelense por nacimiento o ciudadano mexicano por nacimeinto, 
 
 II.- Ser mayor de 25 años de edad y,
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
-
-III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
+(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1113,6 +1217,22 @@ Las cuentas de recaudación e inversión de toda clase de fondos públicos, ser�
 ###### Artículo 85.
 
 Ningún empleado de Hacienda que deba tener a su cargo algún manejo de fondos del Estado podrá tomar posesión de su encargo, sin que afiance su manejo suficientemente, en los términos que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 85-A.
+
+Los Asentamientos Humanos, Desarrollo Urbano y la Ecología en el Estado de Morelos, se ajustarán estrictamente a las disposiciones de las Leyes Federales en la materia y del Párrafo Tercero del Artículo 27 y demás relativos de la Constitución Federal. Considerándose estas disposiciones de orden público e interés social.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 85-B.
+
+En el caso de conurbación en la que participe el Estado de Morelos con una o más Entidades Federativas, la Federación, y los Municipios circunvecinos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos, con apego en la Ley Federal de la Materia y en la declaratoria correspondiente, emitida por el Ejecutivo Federal.
+
+El fenómeno de conurbación interestatal se presenta cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas, formen o tiendan a formar una continuidad demográfica.
+
+El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.
 
 ### CAPITULO V.
 
@@ -1352,9 +1472,13 @@ Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavac
 
 Los Municipios citados se agruparán en Distritos Judiciales y Rentísticos, para la mejor administración de justicia y la fácil recaudación de las rentas generales del Estado, en la forma que la Ley determine.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 112.
 
-Los Municipios Libres constituyen entidades con personalidad jurídica y por consiguiente son susceptibles de derechos y obligaciones.
+Los Municipios libres constituyen Entidades con personalidad jurídica y por consiguiente son susceptibles de derechos y obligaciones, debiendo manejar su patrimonio.
+
+Los Ayuntamientos están facultados para expedir los Bandos de Policía y Buen Gobierno, así como los Reglamentos, Circulares y otras disposiciones de carácter administrativo y de observancia general en el ámbito de sus jurisdicciones; los ordenamientos antes señalados se expedirán conforme a las bases normativas que establezca el Congreso del Estado en los términos del Artículo 40 Fracción XV de esta Constitución.
 
 ###### Artículo 113.
 
@@ -1374,6 +1498,32 @@ El Congreso del Estado expedirá las Leyes Orgánicas y la de División Territor
 
 I.- La circunscripción geográfica de cada Municipio deberá establecerse de tal manera que la propia comunicación entre los poblados que lo compongan se integren de tal manera que formen una corporación con potencialidad económica y capacidad financiera suficientes para el mantenimiento del Gobierno propio y de los servicios públicos a su cargo.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
+
+a).- Agua Potable y Alcantarillado;
+
+b).- Alumbrado Público;
+
+c).- Limpia;
+
+d).- Mercados y Centrales de Abastos;
+
+e).- Panteones;
+
+f).- Rastros;
+
+g).- Calles, Parques y Jardines,
+
+h).- Seguridad Pública y Tránsito; y,
+
+i).- Las demás que la Legislatura Local determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz presentación de los servicios públicos que les correspondan.
+
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
 II.- Cada Municipio deberá tener una población mayor de 30 mil habitantes que pueda llenar las condiciones a que se refiere la fracción XI del Artículo 40 de esta Constitución.
@@ -1382,7 +1532,19 @@ II.- Cada Municipio deberá tener una población mayor de 30 mil habitantes que 
 
 III.- El Gobierno del Municipio se ejercerá por un Ayuntamiento de elección popular directa que se renovará en su totalidad cada 3 años, siendo el número de sus componentes proporcional al de sus habitantes siempre impares y nunca menor de tres, nombrándose por cada Regidor propietario un Suplente. El período de ejercicio de los Ayuntamientos se iniciará el 1o. de junio del año que corresponda.
 
-Los integrantes de los Ayuntamientos serán electos por el principio de mayoría relativa, adoptándose en los Municipios de Cuernavaca y Cuautla, el principio de Regidores de representación proporcional, en los términos que establezca la ley relativa a los procesos electorales del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+Los integrantes de los Ayuntamientos serán electos por el principio de mayoría relativa y en los casos de los Regidores la elección se hará de dos formas: Aquellos electos según el propio principio de votación mayoritaria relativa, en el número que determine la Ley y los electos según el principio de representación proporcional, conforme a las bases generales siguientes:
+
+a).- Los Regidores de representación proporcional corresponderán al 25% más del total de Regidores del Ayuntamiento de que se trate. El número de Regidores que servirá de base será el señalado por la Ley Orgánica de los Municipios y si al aplicar el porcentaje resultan fracciones de la mitad de la unidad o mayores, se elevará el número al entero siguiente.
+
+b).- Para tener derecho a que le sean atribuidos Regidores electos según el principio de representación proporcional, el partido político que lo solicite, deberá registrar dos planillas o listas electorales en cada Municipio: Una deberá contener los candidatos a Presidente – Municipal, Síndico y Regidores de Mayoría relativa y, la Segunda, los candidatos a Regidores de Representación Proporcional. En ningún caso los Partidos Políticos podrán incluir candidatos de la lista electoral de mayoría relativa- en la lista electoral de candidatos a Regidores de representación proporcional.
+
+c).- Tendrá derecho a que le sean atribuidos Regidores electos según el principio de Representación porporcional (sic) todo aquel partido que:
+
+1.- Hubiere registrado fórmula de candidato en la elección municipal respectiva:
+
+2.- Alcance por lo menos el 15% de la votación total emitida para todas las planillas locales presentadas por los Partidos Políticos contendientes.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1392,9 +1554,23 @@ IV.- La facultad ejecutiva del régimen jurídico municipal, y de las resolucion
 
 V.- El presidente Municipal y los demás miembros del Ayuntamiento no podrán ser reelectos para el período inmediato.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-VI.- Los Ayuntamientos administrarán libremente su hacienda, en la parte formada por los ingresos de las contribuciones, derechos, participaciones y aprovechamientos, que señale el Congreso de acuerdo con la Ley de Hacienda Municipal. Asimismo, con las participaciones y subsidios que les otorgue la Federación. Podrán también concertar la venta de sus bienes raíces, pero ésta no se llevará a cabo sin la aprobación del Congreso el cual para concederla o negarla, se ocupará solamente de examinar las necesidades de la venta para atender los servicios públicos y la equidad del precio que a la misma se haya señalado conforme avalúo.
+VI.- Los Ayuntamientos administrarán libremente su Hacienda, la que se integrará con las contribuciones y demás ingresos que en su favor establezca el Congreso del Estado, con las participaciones y subsidios que les otorguen la Federación y el Estado, así como con los rendimientos de los Bienes que les pertenezcan estando además facultados para:
+
+a).- Adquirir y enajenar sus bienes inmuebles previa aprobación del Congreso, así como otorgarlos para su uso, administración, fideicomiso o para garantizar créditos autorizados, y en general realizar con dichos bienes todos los actos que tiendan a incrementar el Patrimonio Municipal.
+
+b).- Percibir las contribuciones, incluyendo las tasas adicionales que fije el Congreso del Estado sobre la propiedad o posesión de inmuebles comprendidos dentro de sus respectivas circunscripciones territoriales y las relativas a la traslación de dominio, Fraccionamientos, Conjuntos Habitacionales, Condominios, División, Fusión y demás formas de desmembramiento de los predios; asimismo, las mejoras, la realización de obras y servicios públicos, y cualquier otra actividad que produzca un incremento en el valor de los inmuebles.
+
+Los Ayuntamientos podrán celebrar convenios con el Estado para que éste se haga cargo de algunas funciones relacionadas con las contribuciones a que se refiere el párrafo anterior.
+
+c).- Percibir las aportaciones que serán cubiertas por la Federación y por el Estado con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura Local.
+
+d).- Percibir los ingresos por los servicios públicos que presten.
+
+Las Leyes Locales no establecerán exenciones o subsidios en favor de personas físicas o morales, ni de instituciones oficiales o privadas respecto de las contribuciones Municipales. Sólo los bienes de dominio público de la Federación, del Estado o de los Municipios estarán exentos del pago de dichas contribuciones.
+
+El Congreso del Estado deberá aprobar las Leyes de Ingresos de los Municipios las que deberán presentarse ante éste en el plazo previsto por el Artículo 32 Tercer Párrafo de esta Constitución. Los presupuestos de egresos Municipales serán aprobados por los Ayuntamientos de acuerdo con sus ingresos disponibles.
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
@@ -1408,9 +1584,15 @@ VIII.- La Ley de División Territorial Municipal fijará el número de Municipio
 
 IX.- La Ley Orgánica Municipal determinará la competencia del Ayuntamiento en funciones de Cabildo y las facultades del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-X.- Si por imposibilidad física o legal, por licencia o cualquier otra causa injustificada, la totalidad de los miembros propietarios y suplentes de un Ayuntamiento dejaren de ejercer sus funciones, el Jefe del Ejecutivo solicitará la declaración correspondiente a la Legislatura del Estado o a la Diputación Permanente en su caso, acompañando las constancias relativas y proponiendo al mismo tiempo la designación del Concejo Municipal que ejercerá el Período respectivo.
+X.- Si por imposibilidad física o legal, por licencia o por cualquier otra causa justificada, la totalidad de los miembros propietarios y suplentes de un Ayuntamiento, dejaren de ejercer sus funciones, la Legislatura local procederá en términos de lo dispuesto por el Artículo 41 de la presente Constitución.
+
+Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su Suplente, o se procederá según lo disponga la Ley.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+XI.- Los Ayuntamientos, en los términos de las Leyes Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano Municipal: Participar en la creación y administración de sus reservas territoriales; controlar y vigilar la optimización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones; y participar en la creación y administración de zonas de reservas ecológicas.
 
 ###### Artículo 116.
 
@@ -1443,6 +1625,12 @@ IV.- El padre en concurrencia con el hijo; el hermano con la del hermano; el soc
 ###### Artículo 118.
 
 Las diferencias que se susciten entre los Municipios, siempre que no tengan carácter contencioso, serán subsanadas en la vía administrativa por el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 118
+
+BIS.- Los Ayuntamientos expedirán los reglamentos y disposiciones administrativas necesarios para el buen desarrollo de las funciones que establece la Fracción XI del Artículo 115 de esta Constitución.
 
 ## TITULO SEPTIMO.
 
@@ -1885,3 +2073,19 @@ P.O. 22 DE JULIO DE 1983.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgación y publicación.
+
+P.O. 29 DE DICIEMBRE DE 1983.
+
+DECRETO NUMERO 76
+
+UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1983.
+
+DECRETO NUMERO 77
+
+PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado libre y soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
+
+SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan a este Decreto.
+
+TERCERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Morelos.
