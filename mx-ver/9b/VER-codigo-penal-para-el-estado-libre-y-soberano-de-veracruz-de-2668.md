@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "2003-03-18"
+last_updated: "2003-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
+CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. EN RELACION A LA DENOMINACION DEL PRESENTE ORDENAMIENTO VEANSE LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, EN TODAS LAS LEYES, DECRETOS,. SE AÑADIRA LA EXPRESION ".ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+> <small>N. DE E. EL PRESENTE CODIGO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO NUMERO 586 PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 7 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -35,7 +37,9 @@ Que la H. Legislatura del Estado, me ha dirigido para su promulgación el Ordena
 
 "La H. Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede la fracción XLVII del artículo 68 de la Constitución Política Local, expide el siguiente:
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE.
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
+
+CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 # LIBRO PRIMERO
 
@@ -119,7 +123,7 @@ El delito es:
 
 I.-Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
 
-II.- Permanente o contínuo, cuando la consumación se prolonga en el tiempo;
+II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo;
 
 III.-Continuado, cuando hay repeticiones de conductas o hechos con el mismo designio delictuoso, e identidad de disposición legal, incluso de diversa gravedad.
 
@@ -1879,7 +1883,7 @@ SEGURIDAD COLECTIVA
 
 Se impondrán de tres meses a cuatro años de prisión y multa hasta de cinco mil dias del salario mínimo general, vigente en la región y en el tiempo en que se cometió el delito, al que por cualquier medio provoque la contaminación, degradación, esterilización o envenenamiento de las tierras y aguas de jurisdicción local, o produzca un daño en la atmósfera o difunda una enfermedad de las plantas o de los animales, con peligro de la salud pública o de la riqueza ecológica del Estado.
 
-Las mismas sanciones se impondrán , al que sin contar con autorización de la autoridad competente, o contraviniendo lo dispuesto en la misma, o en la licencia o concesión correspondiente, realice actos de exploración, explotación o aprovechamiento d0e recursos en las áreas naturales protegidas a que se refiere el Título Tercero de la Ley Estatal del Equilibrio Ecológico.
+Las mismas sanciones se impondrán, al que sin contar con autorización de la autoridad competente, o contraviniendo lo dispuesto en la misma, o en la licencia o concesión correspondiente, realice actos de exploración, explotación o aprovechamiento d0e recursos en las áreas naturales protegidas a que se refiere el Título Tercero de la Ley Estatal del Equilibrio Ecológico.
 
 Este delito se perseguirá por querella de la autoridad estatal o municipal que sea competente para conocer del asunto en los términos de la Ley Estatal de Ecología y la Protección al Ambiente. La autoridad podrá otorgar el perdón judicial, cuando se acredite haber pagado la reparación del daño y las multas impuestas.
 
@@ -3044,3 +3048,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 7 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- El presente ordenamiento entrará en vigor el día primero de enero de 2004, previa publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- A partir de la entrada en vigor de este ordenamiento quedará abrogado el Código Penal para el Estado Libre y Soberano de Veracruz-Llave que inició su vigencia el 20 de octubre de 1980; y se derogarán sus reformas y adiciones subsiguientes, así como las demás disposiciones que se opongan al presente Código.
