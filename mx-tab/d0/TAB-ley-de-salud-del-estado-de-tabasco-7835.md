@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-7835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "1995-02-08"
+last_updated: "1996-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 8 de febrero de 1995.
 
@@ -1237,11 +1237,13 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 La Secretaría de Salud Pública del Gobierno del Estado, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
+(REFORMADO, P.O. 3 DE ABRIL DE 1996)(F. DE E., P.O. 13 DE ABRIL DE 1996)
+
 ###### Art. 145.
 
-El patrimonio de la beneficencia pública será administrado por el sistema para el desarrollo integral de la familia en el Estado de Tabasco.
+El Patrimonio de la Beneficencia Pública será administrado por el órgano desconcentrado de la Secretaría de Salud, que al efecto se cree.
 
-Al respecto, a este organismo corresponderá, entre otras atribuciones representar los intereses del patrimonio de la beneficencia pública y de distribuir los recursos que a la misma se le destine.
+A dicho órgano corresponderá entre otras atribuciones, representar los intereses del Patrimonio de la Beneficencia Pública y distribuir los recursos que a la misma se le destine.
 
 ###### Art. 146.
 
@@ -2430,3 +2432,11 @@ LIC. MANUEL GURRIA ORDOÑEZ
 LIC. ENRIQUE PRIEGO OROPEZA
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 1996.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
