@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2003-04-25"
+last_updated: "2003-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ABRIL DE 2003.
-
-> <small>N. DE E. CONFORME AL ARTICULO CUARTO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA GACETA OFICIAL DEL 18 DE MARZO DE 2003, LA DENOMINACION " . . . ESTADO DE VERACRUZ LLAVE", DEBERA ENTENDERSE COMO " . . . ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -671,39 +669,75 @@ VII. Desarrollo Regional;
 
 VIII. Desarrollo y Fortalecimiento Municipal;
 
-IX. Educación y Cultura.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE JULIO DE 2003)</small>
 
-X. Equidad, Género y Familia;
+IX. Editorial, biblioteca y archivo;
 
-XI. Gestoría y Quejas;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XII. Gobernación;
+X. Educación y Cultura;
 
-XIII. Hacienda del Estado;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XIV. Hacienda Municipal;
+XI. Equidad, Género y Familia;
 
-XV. Instructora;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XVI. Justicia y Puntos Constitucionales;
+XII. Gestoría y Quejas;
 
-XVII. Juventud y Deporte;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XVIII. Límites Territoriales Intermunicipales;
+XIII. Gobernación;
 
-XIX. Medio Ambiente, Recursos Naturales y Aguas;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XX. Organización Política y Procesos Electorales;
+XIV. Hacienda del Estado;
 
-XXI. Protección Civil;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XXII. Salud y Asistencia;
+XV. Hacienda Municipal;
 
-XXIII. Seguridad Pública y Procuración de Justicia;
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
 
-XXIV. Trabajo y Previsión Social; y
+XVI. Instructora;
 
-XXV. Vigilancia.
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XVII. Justicia y Puntos Constitucionales;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XVIII. Juventud y Deporte;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XIX. Límites Territoriales Intermunicipales;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XX. Medio Ambiente, Recursos Naturales y Aguas;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XXI. Organización Política y Procesos Electorales;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XXII. Protección Civil;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XXIII. Salud y Asistencia;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XXIV. Seguridad Pública y Procuración de Justicia;
+
+> <small>(REFORMADA, G.O. 25 DE JULIO DE 2003)</small>
+
+XXV. Trabajo y Previsión Social; y
+
+XXVI. Vigilancia.
 
 > <small>(REFORMADO, G.O. 25 DE ABRIL DE 2003)</small>
 
@@ -1096,3 +1130,7 @@ OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
 G.O. 25 DE ABRIL DE 2003.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 25 DE JULIO DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
