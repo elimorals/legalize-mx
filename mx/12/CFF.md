@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2004-02-09"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 2004.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 9 DE FEBRERO DE 2004.
 
@@ -1492,8 +1492,6 @@ Las personas físicas con actividades empresariales y las personas morales que s
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
 I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $27,466,183.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a $54,932,367.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
@@ -1680,7 +1678,11 @@ c) Prestar sus servicios en forma gratuita.
 
 La Secretaría de Hacienda y Crédito Público podrá expedir las reglas de carácter general que precisen las funciones de los síndicos, la manera de desarrollarlas, así como los demás aspectos y criterios que considere pertinentes para la debida aplicación y cumplimiento de lo dispuesto en esta fracción.
 
-III. (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, D.O.F. 15 DE DICIEMBRE DE 1995)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2004)</small>
+
+III. Para los efectos de lo dispuesto en este artículo, la autoridad fiscal, en el ejercicio de sus facultades de asistencia al contribuyente, podrá realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y aduaneras y promover su incorporación voluntaria o actualización de sus datos en el registro federal de contribuyentes.
+
+No se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar el Registro Federal de Contribuyentes.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2960,7 +2962,9 @@ b) De $492.00 a $1,148.00, en los demás documentos.
 
 IV. De $9,661.00 a $19,321.00, para la establecida en la fracción V.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.</small>
+(MODIFICADO EN LAS N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2003, D.O.F. DEL 21 DE NOVIEMBRE DE 2003.
+
+POR MISCELANEA FISCAL, D.O.F. 21 DE NOVIEMBRE DE 2003)
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4444,13 +4448,13 @@ Si la resolución dictada en el recurso de revocación se combate ante el Tribun
 
 Los procedimientos de resolución de controversias previstos en los tratados para evitar la doble tributación de los que México es parte, son optativos y podrán ser solicitados por el interesado con anterioridad o posterioridad a la resolución de los medios de defensa previstos por este Código. Los procedimientos de resolución de controversias son improcedentes contra las resoluciones que ponen fin al recurso de revocación o al juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
-(REUBICADO Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+(REUBICADA Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 126.
 
 El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)
+(REUBICADA Y REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 127.
 
@@ -4458,7 +4462,7 @@ Cuando el recurso de revocación se interponga porque el procedimiento administr
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
-(REUBICADO Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+(REUBICADA Y REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ###### Artículo 128.
 
@@ -6796,17 +6800,11 @@ La presente Ley entrará en vigor en toda la República el día 1o. de enero de 
 
 ARTICULO DECIMOCUARTO.- En tanto se expide el Reglamento del Código Fiscal de la Federación para determinar los gastos de ejecución a que se refiere el artículo 150 de dicho Código, se estará a lo establecido en el Reglamento para el Cobro y Aplicación de Gastos de Ejecución y Pago de Honorarios por Notificación de Créditos.
 
-...
+....
 
 ARTICULO CUADRAGESIMO.- A partir del año de 1983 la Secretaría de Hacienda y Crédito Público iniciará un programa de comprobación permanente del cumplimiento de las obligaciones fiscales de los contribuyentes más importantes del país, incluyendo tanto a las empresas públicas como a las privadas. Para este efecto la Secretaría de Hacienda realizará visitas domiciliarias continuas o periódicas, según amerite la situación fiscal del contribuyente y su importancia en relación con la recaudación.
 
 D.O.F. 28 DE DICIEMBRE DE 1983.
-
-UNICO.- El presente decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 30 DE DICIEMBRE DE 1983.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -6834,9 +6832,13 @@ I. Para los efectos del primer párrafo de la fracción I del artículo 41 del C
 
 II. Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 1.25 que se aplicará a partir del 1o. de julio de 1985.
 
-## TRANSITORIO
+## ARTICULO TRANSITORIO
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+UNICO.- El presente decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO UNICO.
 
@@ -6862,6 +6864,8 @@ II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal d
 
 ## TRANSITORIO
 
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1986.
@@ -6878,9 +6882,7 @@ I.- Cuando con anterioridad al 1o. de mayo de 1986, se hubieran causado recargos
 
 II.- Tratándose de solicitudes de devolución que se hubieran presentado antes del 1o. de junio de 1986, la devolución se podrá hacer en el plazo de cuatro meses sin causar intereses.
 
-## TRANSITORIOS
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+## TRANSITORIO
 
 ###### ARTICULO PRIMERO.
 
@@ -6936,7 +6938,9 @@ b).- 10% para la prevista en el inciso b) de la citada fracción II.
 
 E.- En los casos señalados en el artículo 78 la multa será el 6% de las contribuciones omitidas.
 
-## TRANSITORIO
+## TRANSITORIOS
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO UNICO.
 
@@ -7006,8 +7010,6 @@ OCTAVA.- La jurisprudencia que haya establecido la Sala Superior del Tribunal Fe
 
 ## TRANSITORIO
 
-> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
-
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrarán en vigor el 30 de junio de 1988.
@@ -7035,6 +7037,8 @@ I.- La cantidad que conforme al primer párrafo de la fracción I del artículo 
 II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, durante el año de 1989, se establece el factor de 1.3 que se aplicará a partir del 1o. de marzo del mismo año sobre las cantidades en vigor.
 
 ## TRANSITORIO
+
+> <small>(F. DE E., D.O.F. 19 DE FEBRERO DE 1988)</small>
 
 ###### ARTICULO UNICO.
 
@@ -7068,9 +7072,7 @@ II.- A partir del 1o. de enero de 1990 quedan sin efecto las resoluciones admini
 
 Lo dispuesto en el párrafo anterior no será aplicable en materia de aportaciones de seguridad social, contribuciones de mejoras y derechos, así como tratándose de las autorizaciones relativas a prórrogas para el pago en parcialidades, aceptación de garantías del interés fiscal, las que obliga la ley para la deducción en inversiones en activo fijo, y la de inicio de consolidación en el impuesto sobre la renta.
 
-## TRANSITORIOS
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+## TRANSITORIO
 
 ###### ARTICULO PRIMERO.
 
@@ -7130,11 +7132,7 @@ III.- Los contribuyentes que tengan saldos a favor pendientes de compensar, dete
 
 ## TRANSITORIOS
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
-
-PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE MARZO DE 1991.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO UNICO.
 
@@ -7192,11 +7190,13 @@ Los contribuyentes podrán sujetarse a lo dispuesto por dicho artículo en el ca
 
 VI.- Para los efectos del tercer párrafo del artículo 30 y del segundo párrafo del artículo 67 del Código Fiscal de la Federación, la obligación de mantener la contabilidad por 10 años y el plazo por el cual se extinguirán las facultades de determinación en relación al término por el cual se encuentran obligados a mantener su contabilidad, respectivamente, será en ambos casos de seis años en 1992; de siete años en 1993; de ocho años en 1994 y de nueve años en 1995.
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
 
-D.O.F. 20 DE MAYO DE 1992.
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MARZO DE 1991.
 
 ###### ARTICULO UNICO.
 
@@ -7221,6 +7221,10 @@ DISPOSICION DE VIGENCIA ANUAL
 Durante el año de 1993, el texto del penúltimo párrafo del artículo 20 del Código Fiscal de la Federación, será el siguiente:
 
 ## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+D.O.F. 20 DE MAYO DE 1992.
 
 ###### ARTICULO UNICO.
 
@@ -7278,10 +7282,6 @@ BIS.- Lo dispuesto en el artículo 14-A podrá aplicarse desde el 1o. de enero d
 
 ## TRANSITORIO
 
-UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
-
-D.O.F. 11 DE FEBRERO DE 1994.
-
 ###### ARTICULO UNICO.
 
 La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -7309,6 +7309,12 @@ Para los efectos de lo dispuesto en el Código Fiscal de la Federación se estar
 I.- Las cantidades establecidas en los artículos 82, fracción I, incisos a) y b), III, IV y VIII, 84, fracciones VI, IX, X y XI, 84-B, fracciones IV y V, 84-F y 86, fracción III, de este Código, se entienden actualizadas por el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establece el artículo 70 de este Código a partir de la actualización prevista para el mes de julio de 1995.
 
 II.- Para los efectos de lo dispuesto en el artículo 46-A del Código Fiscal de la Federación, el plazo para la conclusión de las visitas o revisiones a que dicho artículo se refiere que se encuentren en trámite, se computará a partir del 1o. de enero de 1995.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
+
+D.O.F. 11 DE FEBRERO DE 1994.
 
 ## TRANSITORIO
 
@@ -7863,3 +7869,7 @@ XXIII. Para los efectos de la actualización de las cantidades que se establecen
 D.O.F. 9 DE FEBRERO DE 2004.
 
 Unico. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2004.
+
+Único.- El presente Decreto entrará en vigor el 1o. de enero del 2005.
