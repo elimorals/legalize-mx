@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1995-07-06"
+last_updated: "1997-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1997.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -571,7 +571,9 @@ XXIII.- Las demás que le señalen las leyes y reglamentos vigentes.
 
 A la Secretaría de Salud Pública le corresponden las facultades y obligaciones siguientes:
 
-I.- Proponer las políticas y conducir y evaluar los programas de asistencia social, servicios médicos y salubridad en general.
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
+
+I.- Proponer las políticas y conducir y evaluar los programas de asistencia social, servicios médicos y salubridad local.
 
 II.- Preservar, mejorar y rehabilitar las condiciones de salud de los habitantes del Estado.
 
@@ -601,13 +603,17 @@ XIII.- Promover, vigilar y supervisar a las instituciones de beneficencia privad
 
 XIV.- Ejercer las atribuciones que le confiera la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
 
-XV.- Asumir el control sanitario en materia de salubridad general de competencia federal, cuando éste le sea conferido al Gobierno del Estado, en los términos de los acuerdos respectivos.
+XV.- (DEROGADA, B.O. 10 DE MARZO DE 1997)
 
 XVI.- Dictar la norma técnica en materia de salubridad local y verificar su cumplimiento.
 
-XVII.- Llevar a cabo el control sanitario de la salubridad local, así como aquellas materias de salubridad general en las que sean competentes las autoridades locales, ordenando las medidas de seguridad que correspondan e imponiendo las sanciones autorizadas por la ley.
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
 
-XVIII.- Tramitar y dictaminar los recursos que se interpongan en contra de las resoluciones dictadas en materia de control sanitaria y, en su caso, resolver dichos recursos.
+XVII.- Llevar a cabo el control sanitario de la salubridad local, ordenando las medidas de seguridad que correspondan impidiendo las sanciones autorizadas en la Ley.
+
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
+
+XVIII.- Tramitar y dictaminar los recursos que se interpongan en contra de las resoluciones dictadas en materia de control sanitario de la salubridad local y, en su caso, resolver dichos recursos.
 
 XIX.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
 
@@ -1286,3 +1292,13 @@ Esta Ley entrará en vigor a partir del día siguiente al de su publicación en 
 ###### ARTICULO TERCERO.
 
 Se deroga la fracción VI del artículo 25 de la Ley Orgánica del Poder Ejecutivo, así como todas las disposiciones que se opongan a la presente Ley.
+
+B.O. 10 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
