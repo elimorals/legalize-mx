@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1995-12-10"
+last_updated: "1995-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -1767,7 +1767,13 @@ Será obligatorio dotar de servicio público de Agua en los Municipios de Durang
 
 16.- Restaurantes, loncherías y similares.
 
-17.- Las demás que a juicio del Departamento Municipal de Agua Potable y Alcantarillado deban surtirse de agua potable.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1995)</small>
+
+17.- Lavado de automóviles.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1995)</small>
+
+18.- Las demás que a juicio del Organismo Operador de Agua Potable y Alcantarillado deban surtirse de Agua Potable.
 
 ###### ARTICULO 148.
 
@@ -1825,97 +1831,95 @@ CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE y ALCANTARILLADO.
 
 CUOTAS PARA EL COBRO DEL SERVICIO DE AGUA POTABLE y ALCANTARILLADO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 155.
 
-La prestación del servicio de Agua Potable y Alcantarillado a que se refiere este Capítulo causará derechos conforme a las siguientes tarifas:
+La prestación del servicio de Agua Potable y Alcantarillado a que se refiere este Capítulo, causará derechos conforme a las siguientes tarifas.
 
-A) - TARIFA DOMESTICA
+A) - TARIFA DOMESTICA.
 
-EI cobro de agua y drenaje para uso doméstico se hará conforme a las siguientes bases:
+El cobro de agua y drenaje para uso doméstico, se hará conforme a las siguientes bases:
 
-1o.- En el Municipio de Durango la tarifa mínima de servicio no medido será del 3% del salario mínimo general mensual; y en los demás municipios del Estado, la tarifa mínima será entre el 1.5% y el 3% del salario mínimo general mensual, según el manejo de sus fuentes de abastecimiento y la energía con que operan sus equipos de bombeo.
+1º.- En el Municipio de Durango, la tarifa mínima de Servicio no Medido, será del 3.4 por ciento del salario mínimo general mensual; y en los demás Municipios del Estado, la tarifa mínima será entre el 3 por ciento y el 3.4 por ciento del salario mínimo general mensual según el manejo de sus fuentes de abastecimiento y la energía con que operan sus equipos de bombeo.
 
-En el Municipio de Durango, sólo en el caso de usuarios de ingresos económicos de subsistencia por solidaridad social, se les aplicará una tarifa mínima del 1.5% y para el resto del Estado y tratándose del mismo tipo de usuarios, se les aplicará una tarifa que fluctúe entre el 1.0 y el 1.5% del salario mínimo general mensual. En ambos casos de acuerdo a sus condiciones socio-económicas familiares, que deberán ser previamente comprobados en forma individual.
+En el Municipio de Durango, sólo en el caso de usuarios de ingresos económicos de subsistencia por solidaridad social, se les aplicará una tarifa mínima del 1.7 por ciento y para el resto del Estado y tratándose del mismo tipo de usuarios, se les aplicará una tarifa que fluctúe entre el 1.5 por ciento y el 3 por ciento del salario mínimo general mensual. En ambos casos de acuerdo a sus condiciones socioeconómicas familiares, que deberán ser previamente comprobadas en forma individual.
 
-2o.- Tomando como base el cobro por metro cúbico consumido, se establecen los siguientes rangos y zonas y el valor del mismo se incrementará de acuerdo a la siguiente tarifa:
+2º.- Tomando como base el cobro por metro cúbico consumido, se establecen los siguientes rangos y zonas, y el valor del mismo se incrementará de acuerdo a la siguiente tarifa:
 
-0 HASTA 10 .0300
+0 HASTA 10 0.0340
 
-11 " 15 .0329
+11 " 20 0.0378
 
-16 " 20 .0365
+21 " 30 0.0584
 
-21 " 25 .0402
+31 " 40 0.0940
 
-26 " 30 .0438
+41 " 50 0.1125
 
-31 " 40 .0705
+51 " 60 0.1345
 
-41 " 50 .0844
+61 " 70 0.2032
 
-51 " 60 .1009
+71 " 80 0.2437
 
-61 " 70 .1524
+81 " 90 0.2924
 
-71 " 80 .1828
+91 " 100 0.3508
 
-81 " 90 .2193
+101 " 0 MÁS 0.3508 más 26%
 
-91 " 100 .2631
+3°.- El cobro de la tarifa mínima se aplicará en el caso de todo consumo doméstico de agua que quedó dentro del primero de los rangos.
 
-101 o MAS 26% SOBRE (SIC) ANTERIOR.
-
-3o.- El cobro de la tarifa mínima se aplicará en el caso de todo consumo doméstico de agua que quedó dentro del primero de los rangos.
-
-4o.- El incremento entre rango y rango, se aplicará a partir del segundo y se determinará en este caso en base al valor que importe el metro cúbico en el primer rango, mismo que se obtiene como resultado de dividir la cantidad que resulte, como tarifa mínima entre la cantidad que fija como consumo máximo de dicho primer rango.
+4°.- El incremento entre rango y rango, se aplicará a partir del segundo y se determinará en este caso en base al valor que importe el metro cúbico en el primer rango, mismo que se obtiene como resultado de dividir la cantidad que resulte, como tarifa mínima entre la cantidad que fija como consumo máximo de dicho primer rango.
 
 De los demás casos, el valor del metro cúbico se determinará en base al valor que el mismo tenga en el rango anterior.
 
-5o.- Por la prestación de los servicios de drenaje comprendidos en esta categoría, se cobrará el equivalente al 30% del que corresponde pagar al usuario por consumo de agua, en donde exista el servicio.
+5°.- Por la prestación de los servicios de drenaje comprendidos en esta categoría, se cobrará el equivalente al 30% del que corresponde pagar al usuario por consumo de agua, en donde exista el servicio.
 
-Sólo en el caso de usuarios de ingresos económicos de subsistencias que gocen de este servicio por solidaridad social, se les cobrará el 10% edicional (sic) que corresponda pagar al usuario por consumo de agua.
+Sólo en el caso de usuarios de ingresos económicos de subsistencias que gocen de este servicio por solidaridad social, se les cobrará el 20 por ciento adicional que corresponda pagar al usuario por consumo de agua.
 
-6o.- En el predio o finca que no se cuente con aparato medidor para determinar el consumo mensual de agua potable, se cobrará la cuota fija que el Departamento Municipal de Agua Potable y Alcantarillado establezca, tomando en cuenta la ubicación del predio, el número de habitantes y el estudio socio-económico que al efecto se realice, pero nunca será menor de 10 M3. aplicando la tarifa en vigor.
+6°.- En el predio o finca que no se cuente con aparato medidor para determinar el consumo mensual de agua potable, se cobrará la cuota fija que el Departamento Municipal de Agua Potable y Alcantarillado establezca, tomando en cuenta la ubicación del predio, el número de habitantes y el estudio socio-económico que al efecto se realice, pero nunca será menor de 10 M3. aplicando la tarifa en vigor.
+
+7º. Cuando el porcentaje de incremento al salario mínimo sea menor que el incremento relativo a las tarifas eléctricas se justificará el cambio de las tarifas de agua con base en la diferencia resultante.
 
 B).- TARIFA COMERCIAL E INDUSTRIAL
 
-El cobro de las tarifas de consumo comercial e industrial se hará conforme a las siguientes bases;
+El cobro de las tarifas de consumo comercial e industrial se hará conforme a las siguientes bases:
 
 I.- Las relaciones usuario y organismo administrador y operador de los sistemas de agua potable y Alcantarillado, deberán ajustarse a las disposiciones de esta Ley y de la de Agua Potable y Alcantarillado del Estado de Durango.
 
 II.- Respecto al consumo de agua en esta categoría, se establecen los siguientes rangos, cuyo cobro del servicio se hará por metro cúbico consumido y sobre la base de que el valor del mismo se incrementará entre rango y rango de acuerdo a la tabla siguiente:
 
-RANGOS NUMERO DE VECES EN
+RANGOS NUMERO DE VECES EN RELACION AL SALARIO MINIMO MENSUAL.
 
-RELACION AL SALARIO
+COMERCIAL INDUSTRIAL
 
-MINIMO MENSUAL.
+0 HASTA 10 0.0610 0.1199
 
-0 HASTA 10 .051 .0999
+11 " 20 0.0720 0.1452
 
-11 " 15 .0551 .1102
+21 " 30 0 0874 0.1754
 
-16 " 20 .0602 .1210
+31 " 40 0.1053 0.2107
 
-21 " 25 .0604 .1328
+41 " 50 0.1262 0.2527
 
-26 " 30 .0731 .1462
+51 " 60 0.1515 0.3034
 
-31 " 40 .0880 .1756
+61 " 70 0.1817 0.3640
 
-41 " 50 .1055 .2106
+71 " 80 0 2180 0.4374
 
-51 " 60 .1267 .2528
+81 " 90 0.2617 0.5245
 
-61 " 70 .1519 .3033
+91 " 100 0.3135 0.6289
 
-71 " 80 .1823 .3645
+101 o más 25% más 25% más
 
-81 " 90 .2188 .4371
+sobre sobre
 
-91 " 100 .2621 .5241
-
-101 O MAS 25% SOBRE ANTERIOR.
+anterior anterior
 
 Se deberá aplicar el porcentaje de cobro dependiendo del uso que el comercio o industria le dé al líquido elemento.
 
@@ -1930,6 +1934,10 @@ V.- Cuando el porcentaje de incremento al salario mínimo sea menor que el incre
 VI.- Si la industria o comercio arroja sustancias dañinas al sistema de Alcantarillado, no se suministrará servicios de agua potable independientemente de la aplicación de sanciones y reparación de daño a que quede sujeto el infractor, en tanto no instale su planta tratadora de Agua (sic) residuales.
 
 VII.- Los usuarios que dispongan de toma de agua de 38 mm (1 1/2 ") o más, cubrirán como cargo mínimo mensual el importe equivalente a 200 M3., aún cuando no se registre consumo alguno.
+
+VIII.- Los usuarios que hagan uso del servicio de descarga por tener una fuente de abastecimiento de agua propia, deberán pagar el 30 por ciento del equivalente al M3 extraído a razón de la tarifa industrial establecida por el Organismo Operador.
+
+IX.- Para realizar el pago del inciso anterior, los usuarios estarán obligados a instalar macromedidores en sus fuentes de abastecimientos, con el objeto de que personal del Organismos Operador, pueda medir mensualmente su consumo.
 
 C.- TARIFA DE CONEXION DE AGUA POTABLE Y ALCANTARILLADO DOMESTICA,
 
@@ -2399,39 +2407,11 @@ POR SERVICIO DE SANEAMIENTO.
 
 Causan el derecho por el servicio de saneamiento, todas las propiedades urbanas comprendidas dentro del perímetro donde se extiendan las obras de drenaje tuvieran o no establecido el servicio.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 184.
 
-El derecho por el servicio de saneamiento deberá cobrarse de conformidad con la siguiente tarifa:
-
-Salarios Mínimos Cuota
-
-Diarios Mensual
-
-Fincas cuyo valor
-
-Fiscal no exeda (sic) de:
-
-" " " 100 0.006
-
-" " " 200 0.010
-
-" " " 300 0.014
-
-" " " 400 0.016
-
-" " " 500 0.018
-
-" " " 600 0.020
-
-" " " 700 0.022
-
-" " " 800 0.024
-
-" " " 900 0.026
-
-" " " 1000 0.028
-
-A partir de 1000 salarios mínimos diarios, se cobrará además 0.030 más por cada mil salarios mínimos o fracción del valor fiscal.
+El derecho por el servicio de saneamiento se cobrará en un 33 por ciento de lo que corresponda pagar al usuario de drenaje, siempre y cuando se encuentren en operación en el municipio de que se trate los sistemas de saneamiento de aguas residuales debidamente avalados por las dependencias normativas correspondientes.
 
 ###### ARTICULO 185.
 
@@ -3192,3 +3172,7 @@ Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 P.O. 10 DE DICIEMBRE DE 1995.
 
 U N I C O.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 1995.
+
+U N I C O.- Este Decreto entrará en vigor a partir del día siguiente al de su publicación, en el Periódico Oficial del Estado.
