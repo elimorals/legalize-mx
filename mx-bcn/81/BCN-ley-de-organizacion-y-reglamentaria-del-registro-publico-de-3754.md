@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-organizacion-y-reglamentaria-del-registro-publico-de-375
 country: "mx"
 rank: "ley"
 publication_date: "1978-07-20"
-last_updated: "1980-02-29"
+last_updated: "1999-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1978.
 
@@ -57,13 +57,13 @@ El Registro Público de la Propiedad y de Comercio es una institución que tiene
 
 ### CAPITULO II. De la Organización del Registro Público de la Propiedad y de Comercio
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 4o.
 
-El Registro Público de la Propiedad y de Comercio estará a cargo de la dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y de Comercio, con sede en la Capital del Estado y se desempeñará, por lo que se refiere a las inscripciones de los documentos objeto de él, por los Registradores que funcionarán en la ciudades de Mexicali, Tijuana, Ensenada y Tecate.
+El Registro Público de la Propiedad y del Comercio, estará a cargo de la Dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y del Comercio, con sede en la Capital del Estado y se desempeñará, por lo que se refiere a las inscripciones de los documentos objeto de él, por los Registradores que funcionarán en las circunscripciones municipales que conforman a esta Entidad.
 
-El titular del Registro Público de la Propiedad y de Comercio, será el Director de la dependencia del Ejecutivo a que se refiere este Artículo, quien con el Subdirector, Registradores y demás personal administrativo, integrarán dicha Dependencia.
+El titular del Registro Público de la Propiedad y del Comercio, será el Director de la Dependencia del Ejecutivo a que se refiere este Artículo, quien con el Subdirector, Registradores y demás personal administrativo, integrarán dicha Dependencia.
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
 
@@ -676,3 +676,21 @@ Una vez establecido el Registro Público de la Propiedad y de Comercio de la Ciu
 ###### ARTICULO TERCERO.
 
 La expedición de certificados se solicitarán en el Registro de la ciudad de Tijuana o Ensenada, según se trate, hasta en tanto las partidas de las que deriven no queden inscritas en el Registro de la ciudad de Tecate.
+
+P.O. 17 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El titular de la Oficina Registral en el Municipio de Playas de Rosarito, previo a consumar inscripciones, anotaciones o cancelaciones o a expedir o autorizar certificaciones de actos jurídicos conforme a la Ley que regula la materia y, cuyos antecedentes consten en los archivos de las Oficinas Registrales del municipio de Tijuana, procederá a solicitar al Registrador competente, copia certificada de éstos, para que formen parte del archivo histórico-registral de la nueva Oficina, causándose previamente los derechos respectivos conforme a la Ley de Ingresos vigente para el Estado de Baja California.
+
+###### ARTICULO TERCERO.
+
+Practicado el proceso consignado en el Artículo anterior, el Registrador Público de la Propiedad y del Comercio en Playas de Rosarito, notificará oficialmente esa circunstancia al Registrador de la jurisdicción municipal correspondiente, para que este último haga constar en la partida inicial la referencia de que ésta fue trasladada a los archivos del Registro Público de Playas de Rosarito.
+
+###### ARTICULO CUARTO.
+
+El Registrador Público de la Propiedad y de Comercio en el municipio de Tijuana, a partir de la fecha de publicación de este Decreto, carecerá de facultad para consumar nuevas inscripciones, expedir o autorizar certificación alguna respecto a inscripciones, anotaciones y cancelaciones de actos jurídicos que consten en el archivo y que resulten de actual competencia de la Oficina Registral con sede en el Municipio de Playas de Rosarito.
