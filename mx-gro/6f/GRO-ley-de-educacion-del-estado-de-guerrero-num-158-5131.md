@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "1995-04-21"
+last_updated: "2004-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACION DEL ESTADO DE GUERRERO NUM. 158
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -81,13 +81,15 @@ Esta Ley tiene por objeto regular la educación que imparten el Estado y Municip
 
 La función social educativa que presten las universidades y demás instituciones de educación superior a que se refiere la fracción VII del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las Leyes que rigen a dichas Instituciones.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 2o.
 
-Todo individuo tiene derecho a recibir educación y, por lo tanto, los habitantes del Estado tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Toda persona tiene derecho a recibir educación y, por lo tanto, los habitantes del Estado tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
-La educación será medio fundamental para adquirir, transmitir y acrecentar la cultura; deberá ser proceso permanente que contribuya al desarrollo del individuo y a la formación de la sociedad, así como factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
+La educación será medio fundamental para adquirir, transmitir y acrecentar la cultura; deberá ser proceso permanente que contribuya al desarrollo de las personas y a la formación de la sociedad, así como factor determinante para la adquisición de conocimientos y para formar al hombre y a la mujer de manera que tenga sentido de solidaridad social con calidad y equidad.
 
-En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social para alcanzar los fines a que se refiere el artículo 7o. de esta Ley.
+En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad y equidad social para alcanzar los fines a que se refiere el artículo 7 de esta Ley.
 
 ###### ARTICULO 3o.
 
@@ -97,7 +99,9 @@ Es obligación del Estado prestar servicios educativos para que toda la poblaci�
 
 Todos los habitantes del Estado, deben cursar la educación primaria y secundaria.
 
-Es obligación de los habitantes del Estado de Guerrero hacer que sus hijos o pupilos menores de edad cursen la educación primaria y secundaria.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
+
+Es obligación de los habitantes del Estado de Guerrero hacer que sus hijos, hijas o pupilos y pupilas menores de edad cursen la educación preescolar, primaria y secundaria.
 
 ###### ARTICULO 5o.
 
@@ -111,25 +115,37 @@ La educación que el Estado imparta será gratuita, las donaciones destinadas a 
 
 La educación que imparta el Estado, sus organismos descentralizados y desconcentrados, los establecimientos públicos de bienestar social y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-I.- Contribuir al desarrollo integral del individuo para que ejerza plenamente sus capacidades humanas.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+I.- Contribuir al desarrollo integral de las personas para que ejerzan plenamente sus capacidades humanas.
 
 II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión críticos.
 
-III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del Estado.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del Estado al margen de la discriminación.
 
 IV.- Promover, mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas.
 
-V.- Difundir el conocimiento y práctica de la democracia como forma de gobierno y convivencia que permita a todos participar en la toma de decisiones para mejoramiento de la sociedad.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
 
-VI.- Promover el valor de la justicia, la observancia de la Ley, la igualdad de los individuos ante ésta, y propiciar el conocimiento de los derechos humanos y el respeto a los mismos.
+V.- Difundir el conocimiento y práctica de la democracia, la justicia y la equidad como forma de gobierno y convivencia que permita a todos y todas sin distingo de sexos, participar en la toma de decisiones para mejoramiento y transformación de la sociedad.
 
-VII.- Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+VI.- Promover el valor de la justicia, la observancia de la Ley, la igualdad de las personas ante ésta, y propiciar el conocimiento de los derechos humanos y el respeto a los mismos.
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+VII.- Fomentar actitudes de actualización y capacitación del magisterio para su incursión en la currícula, que propicien la investigación y la innovación y tecnológica (sic), estimulando el acceso de las mujeres a la formación profesional así como la educación permanente.
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y de nuestro Estado.
 
 IX.- Estimular la educación física y la práctica del deporte.
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+
+X.- Desarrollar actitudes solidarias en las personas, para crear conciencia sobre la preservación de la salud, la importancia de la educación de la sexualidad, la planeación familiar y la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios.
 
 XI.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente, y
 
@@ -838,3 +854,11 @@ El Secretario General de Gobierno.
 C. LIC. JOSE RUBEN ROBLES CATALAN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
