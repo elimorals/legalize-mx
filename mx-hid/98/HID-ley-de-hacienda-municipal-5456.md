@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1991-06-28"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -211,9 +211,9 @@ XIII.- Tratándose de predios y edificaciones con fines industriales el 100% de 
 
 Los valores que fijen los propietarios de predios urbanos o rústicos por manifestación expresa o señalada con motivo de operaciones de venta, hipoteca o por cualquier otra que determine un valor distinto al que aparezca en los padrones o registros fiscales, si el nuevo valor es superior al que se encuentra registrado, en estos casos producirá efectos de valor catastral con sus mismas características y términos mientras la Dirección de Catastro no practique nuevo avalúo a los predios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-La base mínima para el pago del impuesto predial será de $66,677.00 para los predios urbanos y de $33,338.50 tratándose de predios rurales.
+La base mínima para el pago del Impuesto Predial en el caso de predios urbanos, será aquella que permita que el pago mínimo sea igual a dos salarios mínimos diarios vigentes. En el caso de predios rurales la base mínima será aquella que permita que el pago mínimo diario sea el equivalente al 50% de dos salarios mínimos vigentes.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -255,9 +255,9 @@ g).- Fracción X Sin que exceda del 5% del valor productivo o del cultivo, en lo
 
 h).- Fracción XI al 1.5% anual;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-i).- Fracción XII al 1.5% anual.
+i).- Fracción XIII.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -445,7 +445,11 @@ III.- En las adquisiciones por el Estado y los Municipios en casos de reciprocid
 
 IV.- En las adquisiciones por los partidos y asociaciones políticas para su propio uso; y
 
-V.- En las adquisiciones realizadas por los organismos descentralizados de la Federación, Estados y Municipios que promueven la vivienda de interés social.
+V.- En las adquisiciones realizadas por los organismos descentralizados de la Federación, Estados y Municipios que promueven la vivienda de interés social;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- Tampoco se pagará el impuesto estalbecido (sic) en esta Ley, en las adquisiciones de inmuebles que hagan los arrendatarios Financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley en la materia siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -849,15 +853,31 @@ ARTICULO 78 B.- Son sujetos de este derecho quienes soliciten el uso de los serv
 
 ARTICULO 78 C.- Este derecho se causará y pagarán de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION PRIMERA. DERECHOS POR REGISTRO DEL ESTADO FAMILIAR
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+#### SECCION NOVENA. DERECHOS POR SERVICIO DE LIMPIA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 78 Bis.
+
+Se entiende por Servicio de Limpia, el conjunto de actividades relacionadas con la generación, recolección, transporte, almacenamiento, transferencia, procesamiento y disposición final de los desechos sólidos, que el Municipio realiza por si o a través de concesionarios.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 78 Bis A.- Son sujetos del pago del Derecho por el Servicio de Limpia, las personas físicas y morales, propietarios o poseedores de predios urbanos, quienes están obligados a solicitar este servicio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 78 Bis B.- Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Titulo Octavo de esta Ley.
 
 ### CAPITULO SEGUNDO. DERECHO POR REGISTRO
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-#### SECCION SEGUNDA. DERECHOS POR SERVICIOS DE CERTIFICACIONES LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
+#### SECCION PRIMERA. DERECHOS POR REGISTRO DEL ESTADO FAMILIAR
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 79.
 
@@ -875,9 +895,7 @@ Los derechos que se causen por los servicios que preste el Registro del Estado F
 
 El pago de los derechos que establece este Capítulo y a que hace referencia el Artículo 22 del Código Familiar Vigente, respecto a los matrimonios se causarán y pagarán de acuerdo a las cuotas y tarifas que para ello el Municipio que corresponda se contienen en el Título Octavo de ésta Ley.
 
-#### SECCION TERCERA. DERECHOS POR SERVICIOS DE REGISTRO ANUAL DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+#### SECCION SEGUNDA. DERECHOS POR SERVICIOS DE CERTIFICACIONES LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
 
 ###### ARTICULO 82.
 
@@ -897,9 +915,9 @@ I.- Las que se expidan para acreditar la clausura de algún estalecimiento (sic)
 
 II.- Las que acuerde el Ayuntamiento, el Presidente Municipal o cualquiera otra de las autoridades fiscales Municipales, con las prerrogativas que les otorga el Código Fiscal Municipal.
 
-#### SECCION CUARTA. DERECHOS POR SERVICIO DE REGISTRO DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
+#### SECCION TERCERA. DERECHOS POR SERVICIOS DE REGISTRO ANUAL DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 85.
 
@@ -917,9 +935,9 @@ Toda persona física, moral o unidad económica que su actividad se encuentra co
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION QUINTA. DERECHO POR SERVICIO DE REGISTRO REVISION DE FIERROS PARA MARCAR GANADO Y MAGUEYES
+#### SECCION CUARTA. DERECHOS POR SERVICIO DE REGISTRO DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 88.
 
@@ -937,7 +955,7 @@ Son sujetos del pago del derecho por el servicio de expedición de licencias y c
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION PRIMERA. DIVERSIONES Y ESPECTACULOS PUBLICOS
+#### SECCION QUINTA. DERECHO POR SERVICIO DE REGISTRO REVISION DE FIERROS PARA MARCAR GANADO Y MAGUEYES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -959,7 +977,7 @@ Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para 
 
 ### CAPITULO TERCERO. DERECHOS POR AUTORIZACION Y LICENCIAS DIVERSAS
 
-#### SECCION SEGUNDA. DERECHO POR AUTORIZACION PARA LA CELEBRACION DE RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
+#### SECCION PRIMERA. DIVERSIONES Y ESPECTACULOS PUBLICOS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -985,7 +1003,7 @@ Son sujetos de este derecho las personas físicas morales o unidades económicas
 
 Los derechos que se causen por la autorización para el funcionamiento de diversiones y espectáculos públicos, así como licencias diversas, se cubrirán en las Tesorerías Municipales, de acuerdo con las cuotas y tarifas que para el Municipio que corresponda, se contengan en el Título Octavo de esta Ley.
 
-#### SECCION TERCERA. DERECHOS POR AUTORIZACION DEL FUNCIONAMIENTO DE APARATOS MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
+#### SECCION SEGUNDA. DERECHO POR AUTORIZACION PARA LA CELEBRACION DE RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1005,7 +1023,7 @@ Son sujetos del pago de este derecho las personas físicas, morales o unidades e
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION CUARTA. DERECHOS POR AUTORIZACION PARA LA COLOCACION DE ANUNCIOS LUMINOSOS
+#### SECCION TERCERA. DERECHOS POR AUTORIZACION DEL FUNCIONAMIENTO DE APARATOS MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1025,7 +1043,7 @@ Son sujetos de este derecho las personas físicas, morales o unidades económica
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION QUINTA. DERECHOS POR AUTORIZACION PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES EN HORAS EXTRAORDINARIAS
+#### SECCION CUARTA. DERECHOS POR AUTORIZACION PARA LA COLOCACION DE ANUNCIOS LUMINOSOS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1039,7 +1057,7 @@ Es objeto de este derecho la autorización para la colocación de anuncios lumin
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION SEXTA. DERECHOS POR AUTORIZACION PARA PROPAGANDA FONETICA EN LA VIA PUBLICA
+#### SECCION QUINTA. DERECHOS POR AUTORIZACION PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES EN HORAS EXTRAORDINARIAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1079,7 +1097,7 @@ VI.- Sanatorios, Hospitales y Clínicas;
 
 VII.- Hoteles, Moteles y Casa de Huéspedes.
 
-#### SECCION SEPTIMA. DERECHOS POR EXPEDICION Y/O REFRENDO ANUAL DE LICENCIAS PARA EL EJERCICIO DE LAS ACTIVIDADES SIGUIENTES
+#### SECCION SEXTA. DERECHOS POR AUTORIZACION PARA PROPAGANDA FONETICA EN LA VIA PUBLICA
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1093,7 +1111,7 @@ Es objeto de este derecho la autorización para hacer uso de propaganda fonétic
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION OCTAVA. DERECHOS POR AUTORIZACION PARA LA VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTO
+#### SECCION SEPTIMA. DERECHOS POR EXPEDICION Y/O REFRENDO ANUAL DE LICENCIAS PARA EL EJERCICIO DE LAS ACTIVIDADES SIGUIENTES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1123,11 +1141,9 @@ h).- Otras actividades semejantes.
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION NOVENA. DERECHOS POR AUTORIZACION DE REGISTRO DE PERITOS EN OBRAS PARA CONSTRUCCION
+#### SECCION OCTAVA. DERECHOS POR AUTORIZACION PARA LA VENTA DE LOTES DE TERRENOS EN FRACCIONAMIENTO
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 114.
 
@@ -1145,7 +1161,7 @@ Son sujetos de este derecho las personas físicas morales o unidades económicas
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA. DERECHOS POR AUTORIZACION DE REPARACION DE CASAS, EDIFICIOS Y FACHADAS
+#### SECCION NOVENA. DERECHOS POR AUTORIZACION DE REGISTRO DE PERITOS EN OBRAS PARA CONSTRUCCION
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1161,15 +1177,15 @@ Es objeto de este derecho, las licencias para la construcción del Registro de P
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA PRIMERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BARDAS
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
-
-#### SECCION DECIMA SEGUNDA. DERECHOS POR AUTORIZACION PARA DEMOLICIONES POR METRO CUBICO
+#### SECCION DECIMA. DERECHOS POR AUTORIZACION DE REPARACION DE CASAS, EDIFICIOS Y FACHADAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
+
+#### SECCION DECIMA PRIMERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BARDAS
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 119.
 
@@ -1181,7 +1197,7 @@ Es objeto de este derecho las licencias para la reparación de casas, edificios 
 
 Estos derechos de (sic) causarán y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA TERCERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BANQUETAS
+#### SECCION DECIMA SEGUNDA. DERECHOS POR AUTORIZACION PARA DEMOLICIONES POR METRO CUBICO
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1197,9 +1213,11 @@ Es objeto de este derecho la autorización para la construcción de toda clase d
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA CUARTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE GUARNICIONES
+#### SECCION DECIMA TERCERA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE BANQUETAS
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 123.
 
@@ -1211,11 +1229,9 @@ Es objeto de este derecho las licencias para la construcción para la demolició
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el municipio que corresponda se contengan en el Título Octavo de ésta Ley.
 
-#### SECCION DECIMA QUINTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE PAVIMENTO
+#### SECCION DECIMA CUARTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE GUARNICIONES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 125.
 
@@ -1227,7 +1243,11 @@ Es objeto de este derecho, las licencias para la construcción de banquetas.
 
 Este derecho se causará y pagará de acuerdo con las cuotas y tarifas que para el Municipio que corresponda se contengan en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA SEXTA. DERECHOS POR LA AUTORIZACION PARA LA INTRODUCCION DE TOMAS DE AGUA
+#### SECCION DECIMA QUINTA. DERECHOS POR LA AUTORIZACION PARA LA CONSTRUCCION DE PAVIMENTO
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 127.
 
@@ -1239,7 +1259,7 @@ Es objeto de este derecho las licencias para la contruccion de guarniciones.
 
 Este derecho se causará y pagará de acuerdo con la tarifa que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
-#### SECCION DECIMA OCTAVA. DERECHOS POR AUTORIZACION PARA ESTACIONAMIENTO EN VIA PUBLICA
+#### SECCION DECIMA SEXTA. DERECHOS POR LA AUTORIZACION PARA LA INTRODUCCION DE TOMAS DE AGUA
 
 ###### ARTICULO 129.
 
@@ -1251,9 +1271,7 @@ Es objeto de este derecho las licencias para la construcción de toda clase de p
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para el Municipio que corresponda se contienen en el Título Octavo de esta Ley.
 
-#### SECCION PRIMERA. DERECHOS POR SERVICIOS DE VIGILANCIA A RASTROS PARTICULARES
-
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+#### SECCION DECIMA OCTAVA. DERECHOS POR AUTORIZACION PARA ESTACIONAMIENTO EN VIA PUBLICA
 
 ###### ARTICULO 131.
 
@@ -1279,7 +1297,7 @@ Es objeto de este derecho la autorización para la consturcción (sic), instalac
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
 
-#### SECCION SEGUNDA. DERECHOS POR SERVICIO DE VIGILANCIA A ESTACIONAMIENTOS PUBLICOS CONCESIONADOS A PARTICULARES
+#### SECCION PRIMERA. DERECHOS POR SERVICIOS DE VIGILANCIA A RASTROS PARTICULARES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1295,7 +1313,7 @@ Este derecho se causará y pagará de conformidad con las cuotas y tarifas que p
 
 ### CAPITULO CUARTO. DE LOS SERVICIOS DE VIGILANCIA
 
-#### SECCION TERCERA. DERECHOS POR SERVICIO DE INSPECCION Y VIGILANCIA A CABARETS Y CENTROS NOCTURNOS
+#### SECCION SEGUNDA. DERECHOS POR SERVICIO DE VIGILANCIA A ESTACIONAMIENTOS PUBLICOS CONCESIONADOS A PARTICULARES
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -1314,6 +1332,10 @@ Son sujetos de este derecho, las personas físicas, morales o unidades económic
 ###### ARTICULO 139.
 
 Este derecho se causará y pagará de conformidad con las cuotas y tarifas que para cada Municipio se contienen en el Título Octavo de esta Ley.
+
+#### SECCION TERCERA. DERECHOS POR SERVICIO DE INSPECCION Y VIGILANCIA A CABARETS Y CENTROS NOCTURNOS
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
 ###### ARTICULO 140.
 
@@ -1681,13 +1703,13 @@ VII.- Otras exportaciones extraordinarias.
 
 ### CAPITULO UNICO. DE LAS TARIFAS DE LA LEY DE HACIENDA MUNICIPAL PARA EL AÑO DE 1988
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 177.
 
-Para el ejercicio de 1991, los Ayuntamientos del Estado, percibirán los Ingresos que por cada concepto se señalan en su respectiva Ley de Ingresos y Presupuesto de Ingresos, de conformidad con la tabla de cuotas y tarifas que a continuación se establecen para cada Municipio.
+Los Ayuntamientos del Estado percibirán los ingresos, por los conceptos que señalen en su Ley de Ingreso y Presupuesto de Ingresos para el Ejercicio Fiscal de 1993, de conformidad con las cuotas y tarifas que a continuación se establecen para cada Municipio.
 
-> <small>N. DE E. PARA LA CONSULTA DE CUOTAS Y TARIFAS A QUE SE REFIERE EL PRESENTE ARTICULO REMITASE AL ALCANCE AL PERIODICO OFICIAL DE FECHA 29 DE DICIEMBRE DE 1990 PAGINAS 2 A 50.</small>
+> <small>N. DE E. PARA LA CONSULTA DE CUOTAS Y TARIFAS A QUE SE REFIERE EL PRESENTE ARTICULO REMITASE AL ALCANCE AL PERIODICO OFICIAL DE FECHA 31 DE DICIEMBRE DE 1992 PAGINAS 141 A 197.</small>
 
 T R A N S I T O R I O S:
 
@@ -1784,3 +1806,7 @@ P.O. 28 DE JUNIO DE 1991.
 PRIMERO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1º. de Julio de 1991.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+UNICO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1o. de Enero de 1993.
