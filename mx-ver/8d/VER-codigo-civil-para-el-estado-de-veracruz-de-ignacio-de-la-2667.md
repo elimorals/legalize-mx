@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1980-09-30"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1981.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -353,9 +353,11 @@ ARTICULO 64
 
 A toda solicitud de retención o cambio de nombre se le dará publicidad en la "Gaceta Oficial" del Estado y en otro periódico de tanta o mayor circulación en el lugar del domicilio del solicitante o en la población del Estado más inmediata en donde lo haya.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 65
 
-Ejecutoriada la sentencia que ordene la retención o cambio de nombre, se expedirá una copia certificada de la parte resolutiva al juez o encargado del Registro Civil que corresponda, para que haga la anotación respectiva al margen del acta de nacimiento, de matrimonio o de cualquiera otra especie que afecte o haya determinado la composición del nombre de que se trate. Será publicada también en los términos del artículo anterior.
+Ejecutoriada la sentencia que ordene la retención o cambio de nombre, se expedirá una copia certificada de la parte resolutiva al Encargado del Registro Civil que corresponda, para que levante el acta y proceda en los términos del artículo 676, respecto del acta de nacimiento, de matrimonio o de cualquier otra especie que afecte o haya determinado la composición del nombre de que se trate. La resolución será publicada en los términos del artículo anterior.
 
 ARTICULO 66
 
@@ -369,21 +371,27 @@ ARTICULO 68
 
 El cambio o retención de nombre de las personas morales se llevará a cabo de acuerdo con las disposiciones que anteceden, y con sus estatutos y escrituras de constitución. La solicitud de cambio o retención, o sentencia que lo afecte, será inscrita en el Registro o Registros Públicos en que esté inscrita la persona moral de que se trate.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 69
 
-Los Encargados del Registro Civil llevarán un Libro en el que inscribirán todas las resoluciones judiciales que signifiquen cambio, retención o modificación de nombre de personas físicas. También llevarán un libro para registro de seudónimos a que se refiere el artículo siguiente. Las Oficinas del Registro Público a las que corresponda inscribir la constitución o modificación constitutiva de las sociedades o personas morales, también llevarán un libro en el que se registrarán las resoluciones que afecten el nombre de éstas. El registro de orden e inscripción servirán de norma para resolver todas las controversias que se susciten sobre prelación en el derecho a usar un nombre controvertido.
+Las Oficinas del Registro Público a las que corresponda inscribir la constitución o modificación de las sociedades o personas morales, llevarán un libro en el que se registrarán las resoluciones que afecten el nombre de éstas, debiendo además, correr nota al margen de la inscripción donde consta el registro de la constitución o modificación. La inscripción servirá de norma para resolver todas las controversias que se susciten sobre prelación en el derecho a usar un nombre controvertido.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 70
 
-Es libre el derecho de toda persona física para adoptar y usar exclusivamente seudónimos, anagramas, o lemas. Los interesados deberán inscribir dicho seudónimo, en el Registro Civil en el libro que al efecto llevarán los Encargados de dichas Oficinas, para que, de acuerdo con tal inscripción, sean resueltas las cuestiones de prelación y demás que sobre el uso exclusivo de aquéllos llegaren a suscitarse. La falta de registro de seudónimo priva a quien lo omita de todo derecho a controvertir su uso o retención.
+Es libre el derecho de toda persona física para adoptar y usar exclusivamente seudónimos, anagramas o lemas; pero nadie podrá tener más de uno a la vez. No es necesario el registro de éstos y en las controversias de prelación y demás que sobre el uso exclusivo de aquéllos se susciten, se atenderá a quien primero lo haya utilizado.
 
 ARTICULO 71
 
 El cambio o retención de nombre trascenderá a los descendientes menores de edad, cuando incluya cambio del apellido, y solo para el efecto de modificar éste, salvo siempre el derecho de los afectados para intentar por su parte, llegados a la mayor de edad, el cambio de su nombre en los términos de este Capítulo.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 72
 
-La adopción y el registro de un seudónimo, anagrama o lema, impone a quien lo hace la obligación de conservarlo por término no menor de cinco años. No podrá registrarse como correspondiente a una misma persona más de un seudónimo, anagrama o lema. Si hecho el registro de un seudónimo, apareciere que éste ha sido usado con anterioridad por persona distinta, cualquiera de los interesados podrá abandonar libremente el seudónimo común y registrar uno nuevo, o reclamar contra el que lo usa indebidamente, a su arbitrio.
+La adopción de un seudónimo, anagrama o lema, impone a quien lo hace la obligación de conservarlo.
 
 ARTICULO 73
 
@@ -519,13 +527,11 @@ ARTICULO 96
 
 Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 97
 
-El matrimonio celebrado fuera del Estado, y que sea válido con arreglo a las leyes del lugar en que se contrajo, surtirá sus efectos civiles en el mismo Estado.
-
-A este efecto, el acta respectiva será transcrita en el Registro Civil del lugar en que se domicilien los consortes, previa su protocolización y traducción al español si se tratare de acta redactada en lengua extranjera.
-
-Si la transcripción se hace dentro de los tres meses siguientes a la llegada de los consortes a territorio veracruzano, los efectos civiles del matrimonio se retrotraerán a la fecha en que éste fue celebrado. Si se hace después, sólo producirá efectos desde la fecha de la transcripción.
+El matrimonio celebrado fuera del Estado, y que sea válido con arreglo a las leyes del lugar en que se contrajo, surtirá sus efectos civiles en la entidad.
 
 ### CAPITULO III B. De los derechos y obligaciones que nacen del matrimonio
 
@@ -695,9 +701,11 @@ ARTICULO 125
 
 El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 126
 
-Ejecutoriada la sentencia que declare la nulidad, el Tribunal, de oficio, enviará copia certificada de ella al Encargado del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+Ejecutoriada la sentencia que declare la nulidad, el Tribunal, de oficio, enviará copia certificada de ella al Encargado del Registro Civil ante quien se celebró el matrimonio, para que haga la anotación en la forma respectiva y forme el apéndice correspondiente.
 
 ARTICULO 127
 
@@ -1139,9 +1147,9 @@ ARTICULO 201
 
 Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
 
-ARTICULO 202
-
 > <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
+
+ARTICULO 202
 
 ARTICULO 203
 
@@ -1641,9 +1649,9 @@ ARTICULO 300
 
 El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a llevarlo a vivir al domicilio conyugal si no es con la anuencia expresa de éste.
 
-ARTICULO 301
-
 > <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
+
+ARTICULO 301
 
 ARTICULO 302
 
@@ -1683,9 +1691,11 @@ ARTICULO 310
 
 El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 311
 
-Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
+Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles y se procederá en los términos del artículo 666. El Oficial del Registro Civil o el Notario que viole este precepto será suspendido en sus funciones por un año.
 
 ARTICULO 312
 
@@ -1715,9 +1725,11 @@ III.- Que el hijo haya sido concebido durante el tiempo en que los presuntos pad
 
 IV.- Que el hijo tenga a su favor un principio de prueba contra el pretendido padre o la pretendida madre.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 315
 
-En ningún caso será la indagación permitida cuando tenga por objeto atribuir el hijo a quien, hombre o mujer, haya estado casado, en la época de la concepción, con persona extraña a la filiación, salvo que, en el caso del artículo 301 se obtenga el consentimiento a que el mismo se refiere, y en el 302, haya la sentencia ejecutoria a que el mismo se contrae.
+En ningún caso será permitida la indagación cuando tenga por objeto atribuir el hijo a quien, hombre o mujer, haya estado casado, en la época de la concepción, con persona extraña a la filiación, salvo que, en el caso del artículo 302, haya la sentencia ejecutoria a que el mismo se contrae.
 
 ARTICULO 316
 
@@ -3491,35 +3503,17 @@ ARTICULO 654
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno sólo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
-> <small>(REFORMADO, G.O. 19 DE MARZO DE 1968)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 655
 
-El registro Civil, constituye una función pública del Estado que será desempeñada por los Oficiales Encargados del Registro Civil, que para cada Municipio designe el C. Gobernador en el número que sea necesario, pudiendo recaer tales designaciones en los Presidentes Municipales. Las faltas de los Oficiales Encargados del Registro Civil serán suplidas por los Presidentes Municipales, o quienes legalmente los substituyan.
+El Registro Civil se constituye con el Departamento de Registro Civil, su Archivo Estatal y las Oficialías necesarias para cada Municipio. El personal de estas dependencias será nombrado y removido por la Dirección General de Gobernación.
 
-> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 1960)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 656
 
-Los Encargados del Registro Civil llevarán, por duplicado, nueve libros que se denominarán "Registro Civil" y contendrán:
-
-El Primero, actas de nacimiento, y de reconocimiento de hijos, cuando tal acto se haga en el momento de asentar el nacimiento y dentro del término establecido en el artículo 681 reformado de este Código.
-
-El Segundo, actas de reconocimiento de hijos, cuando se pretendan hacer en acto posterior al registro de nacimiento y, actas de adopción.
-
-El Tercero, actas de tutela, emancipación y habilitación de edad.
-
-El Cuarto, actas de matrimonio.
-
-El Quinto, actas de divorcio.
-
-El Sexto, actas de defunción.
-
-El Séptimo, actas de incapacidad y ausencia.
-
-El Octavo, actas en las que haya necesidad de insertar resoluciones que signifiquen cambio, retención o modificación de nombre de personas físicas.
-
-Y, el Noveno, actas de seudónimos que ante ellos se registren.
+Las actas del Registro Civil se asentarán en las formas especiales que elabore el Departamento del Registro Civil, quien las foliará y expedirá según las necesidades de cada Municipio. Es inexistente el acta levantada en forma distinta a la oficial, el Encargado que incurra en esta violación será destituido.
 
 > <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 1960)</small>
 
@@ -3533,69 +3527,83 @@ Los volúmenes deberán usarse por orden riguroso de la numeración de actas, ye
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 657
 
-Las actas levantadas fuera de los libros a que se refiere el artículo anterior, serán nulas y motivarán la responsabilidad del encargado del Registro Civil que las autorice.
+Para asentar las actas del Registro Civil en el Estado, habrán las siguientes formas: nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción e inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y las que signifiquen cambio, retención o modificación de nombre de personas físicas.
 
-> <small>(REFORMADO, G.O. 18 DE JULIO DE 1968)</small>
+Las Oficialías llevarán un índice para cada una de estas formas.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 658
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Oficial Encargado del Registro Civil respectivo y autorizados por el mismo con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Oficina que establezca la ley respectiva.
+Las formas se llenarán mecanográficamente por cuadruplicado. Los oficiales encargados del Registro Civil, entregarán un ejemplar al interesado, otro quedará en el archivo de la Oficialía y los dos restantes los remitirá mensualmente al Departamento del Registro Civil, para que éste los envíe al Archivo Estatal y a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación.
+
+Las formas de defunción, ausencia e incapacidad, se llenarán por quintuplicado, enviándose el quinto ejemplar al Departamento de Registro Civil para su remisión a la Delegación Estatal del Registro Nacional de Electores.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 659
 
-Si al terminar el año hubiere fojas en blanco, se inutilizarán con rayas transversales, certificando en la última escrita el número de actos ejecutados, el de las fojas útiles y el de las que se inutilicen. Los libros terminarán por un índice alfabético, formado por apellidos, que se llevarán con el día. Cuando haya dos o más individuos del mismo nombre y apellido, se agregará el segundo de éstos.
+Si se perdiere o destruyere alguna de las formas del Registro Civil, se sacará inmediatamente copia de algunos de los otros ejemplares, dando aviso de la pérdida al Departamento del Registro Civil.
 
 ARTICULO 660
 
 En las actas del Registro Civil se hará constar el año, mes, día y hora en que se presenten los interesados; se tomará razón especificada de los documentos que se exhiban, y de los nombres, edad, ejercicio o profesión y domicilio de todos los que en ellas sean nombrados, en cuanto fuere posible.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 661
 
-No podrá insertarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en este Código.
+No podrá insertarse en las formas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en este Código.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 662
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos residentes en el lugar. En los casos de matrimonio y reconocimiento de hijos, se necesita poder jurídico.
+Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentre o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública. El reconocimiento de hijos nacidos fuera de matrimonio sólo podrá hacerse personalmente.
 
 ARTICULO 663
 
 Los testigos que intervengan en las actas del estado civil, serán mayores de edad, prefiriéndose a los que designen los interesados, aun cuando sean sus parientes.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 664
 
-Extendida en el libro el acta, será leída a los interesados y testigos por el Encargado del Registro Civil; la firmarán todos, y si alguno no puede hacerlo, se expresará la causa. También se expresará que el acta fué leída y quedaron conformes los interesados con su contenido.
+Extendida en la forma el acta, será leída a los interesados y testigos por el Encargado del Registro Civil; la firmarán todos y si alguno no puede hacerlo se expresará debiendo estampar sus huellas y firmar a su ruego y nombre un tercero. También se expresará que el acta fue leída y quedaron conformes los interesados con su contenido.
 
 ARTICULO 665
 
 Si alguno de los interesados quisiere imponerse por sí mismo del tenor del acta, podrá hacerlo; y si no supiere leer, uno de los testigos, designado por él, leerá aquélla y la firmará, si el interesado no supiere hacerlo.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 666
 
-Si un acto comenzado se entorpeciere porque las partes se nieguen a continuarlo, o por cualquiera otro motivo, se inutilizará el acta, marcándola con dos líneas transversales y expresándose el motivo por qué se suspendió; razón que deberá firmar el Encargado del Registro Civil, los interesados y los testigos.
+Si un acto comenzado se entorpeciere porque las partes se nieguen a continuarlo o por cualquiera otro motivo, se inutilizará la forma con la expresión "no pasó", manifestándose por qué se suspendió; razón que deberán firmar el Encargado del Registro Civil, los interesados y los testigos.
+
+No se hará raspadura alguna ni tampoco se borrará lo escrito. Cuando se cometa un error al llenar las formas, se seguirá el procedimiento que establece el párrafo anterior.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 667
 
-Al asentarse las actas en los libros del Registro Civil, se observarán las prevenciones siguientes:
+En todas las formas del Registro Civil se asentará la Clave Unica de Registro de Población, de conformidad con lo establecido por la Ley General de Población.
 
-I.- Las actas se numerarán y escribirán una después de otra, sin dejar entre ellas ningún renglón en blanco;
-
-II.- Tanto su número ordinal, como el de las fechas o cualquiera otro, estarán escritos en cifras aritméticas, y además en palabras con todas sus letras;
-
-III.- En ningún caso se emplearán abreviaturas;
-
-IV.- No se hará raspadura alguna ni tampoco se borrará lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible, a no ser que lo que deba tacharse sea algún nombre o circunstancia, que este Código prohiba expresamente que figure en las actas, en cuyo caso se testará de modo que no pueda leerse, y el Encargado del Registro expresará al final del acta la razón por qué se hizo así. La infracción de estas disposiciones se castigará con multa de cinco a veinticinco pesos, que se impondrá gubernativamente;
-
-V.- Al fin de cada acta se salvará, con toda claridad, lo entrerrenglonado y testado.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 668
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del encargado, sin perjuicio de las penas que la ley señala para el delito de falsedad, y de la indemnización de daños y perjuicios.
+La falsificación de las formas o la inserción de circunstancias o declaraciones prohibidas por la Ley, causarán la destitución del Encargado, sin perjuicio de la responsabilidad penal a que haya lugar.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 669
 
-Los apuntes dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta relativa y el sello de la oficina; y se reunirán y depositarán en el archivo del Registro Civil, formándose un índice de ellos en las últimas fojas del duplicado.
+Los apuntes dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta relativa y el sello de la oficina y se reunirán y depositarán en el Archivo del Registro Civil, formándose un índice de ellos; además, se hará referencia del apéndice en el acta.
 
 ARTICULO 670
 
@@ -3605,9 +3613,11 @@ ARTICULO 671
 
 Los testimonios de las actas e inscripciones en el Registro Civil harán plena fe en juicio y fuera de él.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 672
 
-Los actos y actas del estado civil, que se relacionen con el Encargado del Registro, con su consorte o con los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por él; pero se asentarán en el mismo libro y se autorizarán por la persona que, conforme a la ley, deba substituir al referido funcionario. La misma prohibición existe tratándose de parientes colaterales, consanguíneos o afines, dentro del segundo grado.
+Los actos y actas del estado civil, que se relacionen con el Encargado del Registro, con su consorte o con los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por él, sino por la persona que, conforme a la Ley, deba sustituir al referido funcionario y en el caso de no haberla, el Oficial más próximo. La misma prohibición existe tratándose de parientes colaterales, consanguíneos o afines, dentro del segundo grado.
 
 ARTICULO 673
 
@@ -3621,17 +3631,23 @@ ARTICULO 675
 
 Para establecer el estado civil adquirido por los veracruzanos fuera del Estado o de la República, serán bastantes las constancias de los actos respectivos que los interesados presenten, siempre que estén conforme con las leyes del lugar en que se hayan verificado, y que se hayan hecho constar en el Registro Civil del Estado.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 676
 
-Todo acto del estado civil relativo a otro ya registrado, podrá anotarse, a petición de los interesados, al margen del acta respectiva. La misma anotación deberá hacerse cuando lo mande la autoridad judicial o lo disponga expresamente la ley.
+Todo acto del estado civil relativo a otro ya registrado, deberá insertarse, a petición de los interesados, al apéndice respectivo, que en el caso de no haberlo se formará. La misma inserción deberá hacerse cuando lo mande la autoridad judicial o lo disponga expresamente la Ley.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 677
 
-La anotación se insertará en todos los testimonios que se expidan.
+En todos los testimonios que se expidan, deberá anotarse la inserción que consta en el apéndice respectivo.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 678
 
-El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquier tiempo. Durante los seis primeros meses de cada año, el Procurador General de Justicia del Estado, por sí o por medio del agente que designe, revisará los libros del año anterior remitidos a la Secretaría General, para el efecto de hacer la consignación de los encargados del Registro Civil que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso al Gobernador del Estado de las faltas en que hubieren incurrido esos empleados. La infracción de este precepto produce responsabilidad para el Ministerio Público, conforme a la Ley Orgánica de esta institución.
+El Ministerio Público cuidará de que las formas del Registro Civil se llenen debidamente, inspeccionándolas en cualquier tiempo, para el efecto de hacer la consignación de los Encargados del Registro Civil que hubieren cometido delitos en el ejercicio de su encargo o de dar aviso al Director de Gobernación de las faltas en que hubieren incurrido esos empleados. La infracción de este precepto produce responsabilidad para el Ministerio Público, conforme a la Ley Orgánica de esta institución.
 
 ARTICULO 679
 
@@ -3653,31 +3669,43 @@ Los médicos; cirujanos o matronas que hubieren asistido al parto, tienen obliga
 
 Recibido el aviso, el Encargado del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 682
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
+Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán sancionadas con una multa de cincuenta a cien pesos, que impondrá la Autoridad Municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
 
 En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+
+Cuando se pretenda inscribir a un mayor de siete años de edad, el Oficial Encargado solicitará las pruebas que indique el Departamento del Registro Civil, tendientes a comprobar los datos que deban asentarse en el acta.
 
 ARTICULO 683
 
 En las poblaciones en que no haya Oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 684
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar de nacimiento, el sexo del presentado, el nombre y apellidos que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día; la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que le correspondan, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará en el acta la impresión digital del presentado.
 
-Si éste se presenta como hijo de padres desconocidos, el Encargado del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+Si éste se presenta como hijo de padres desconocidos, el Encargado del Registro le pondrá nombre y dos apellidos haciéndose constar esta circunstancia en el acta.
 
-> <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 685
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilio de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos de que habla el artículo 690 declararán también acerca de la nacionalidad de los padres del presentado al Registro.
+Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio, nacionalidad y edad de los padres; los nombres, domicilio y nacionalidad de los abuelos y los de quienes hubieren hecho la presentación.
+
+Los testigos de que habla el artículo 690 declararán también acerca de la nacionalidad de los padres y de los abuelos del presentado al Registro.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 686
 
-En el acta de nacimiento del hijo nacido fuera de matrimonio, se hará constar el nombre del progenitor que lo presente al Registro, o el de ambos si ambos concurren. Concurriendo uno solo de ellos, se hará constar el nombre de él solamente, sin que pueda hacerse mención ni alusión del nombre del otro progenitor, a menos que éste así lo haya pedido por sí o por apoderado especial constituido en forma, haciéndose constar en tal caso dicha petición.
+En el acta de nacimiento del hijo nacido fuera de matrimonio, se hará constar el nombre, domicilio, nacionalidad y edad del progenitor que lo presente al Registro, o de ambos si los dos concurren. Concurriendo uno solo de ellos, se hará constar el nombre, domicilio, nacionalidad y edad de él solamente, sin que pueda hacerse mención ni alusión del nombre y demás datos del otro progenitor.
+
+También se anotarán el o los nombres, domicilios y nacionalidad de los abuelos que correspondan al progenitor que se asiente en el acta, conforme a lo dispuesto en el párrafo anterior.
 
 ARTICULO 687
 
@@ -3695,9 +3723,11 @@ ARTICULO 689
 
 Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se menciona o no su nombre; todo lo cual se asentará en el acta.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 690
 
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+En el acta de nacimiento se hará constar el nombre, domicilio, nacionalidad y edad de los testigos que intervengan.
 
 ARTICULO 691
 
@@ -3739,13 +3769,17 @@ ARTICULO 700
 
 Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Oficial del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacerse el registro el término que señala el artículo 681, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 701
 
-Si al dar aviso de su nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+Si al dar aviso de su nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción, en las formas respectivas.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 702
 
-En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar las particularidades que los distingan y quién nació primero, según las noticias que le comuniquen el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos. Las actas se relacionarán una con otra haciéndose constar las particularidades que los distingan.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 27 DE NOVIEMBRE DE 1969)</small>
 
@@ -3777,17 +3811,23 @@ ARTICULO 706
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al Encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este Capítulo y en el Capítulo IV, del Título séptimo de este Libro.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 707
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos que impondrá y hará efectiva la autoridad ante quien se haga valer el reconocimiento.
+La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de quinientos a mil pesos que impondrá y hará efectiva la autoridad ante quien se haga valer el reconocimiento.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 708
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+En el acta de reconocimiento hecha con posterioridad al acta de nacimiento, se hará mención de ésta poniendo en ella la anotación correspondiente.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 709
 
-Si el nacimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Encargado del Registro Civil que autorice el acta del reconocimiento, remitirá copia de ésta al Encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levantó el acta de nacimiento, el Encargado del Registro Civil que autorice el acta del reconocimiento, remitirá copia de ésta al Encargado de la Oficina que haya registrado el nacimiento para que proceda conforme al artículo 676.
 
 ### CAPITULO IV. De las actas de adopción
 
@@ -3799,9 +3839,11 @@ ARTICULO 711
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 707.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 712
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+El acta de adopción contendrá el nombre, fecha y lugar de nacimiento, edad y domicilio del adoptado, así como los nombres, domicilios, estado civil, nacionalidad y edad del o los adoptantes. En el acta se insertará la parte relativa de la resolución judicial, fecha de ésta y Tribunal que la dictó.
 
 ARTICULO 713
 
@@ -3811,75 +3853,97 @@ ARTICULO 714
 
 El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
-### CAPITULO V. De las actas de tutela
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+### CAPITULO V. De la inscripción de sentencias ejecutorias
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 715
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+Las autoridades judiciales que declaren: la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y el cambio, retención o modificación de nombre de personas físicas, remitirán al Oficial del Registro Civil correspondiente, copia certificada de la resolución ejecutoriada respectiva en el término de ocho días, para que se levante el acta correspondiente.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 716
 
-La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsables al tutor y el curador en los términos que establece el artículo 707.
+Cuando se trate de auto de discernimiento de la tutela, pronunciado y publicado éste en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación presentará copia certificada del auto mencionado al Encargado del Registro, para que se levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 717
 
-El acta de tutela contendrá:
+En la inscripción de las actas a que se refiere este capítulo, por ningún motivo dejará de anotarse el nombre, edad, sexo, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, fecha de ésta y tribunal que la dictó.
 
-I.- El nombre, apellido y edad del incapacitado;
-
-II.- La clase de incapacidad por la que se haya deferido la tutela;
-
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
-
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
-
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
-
-VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 718
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 709.
+Además de los datos a que se refiere el artículo anterior, el acta de tutela contendrá:
 
-### CAPITULO VI. De las actas de emancipación
+I.- La clase de incapacidad por la que se haya deferido la tutela;
+
+II.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela, así como del tutor y del curador;
+
+III.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza, o los datos que identifiquen a los bienes, si la garantía consiste en hipoteca o prenda.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 719
 
-En los casos de emancipación por efectos del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+En los casos de emancipación por efectos del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, procediendo conforme al artículo 676.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 720
 
-Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y el número y foja del acta respectiva.
+En las actas de emancipación por decreto judicial se insertará a la letra la resolución del Juez que autorizó la emancipación.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 721
 
-Si en la oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+En los casos del artículo 576, el Ejecutivo del Estado, al promulgar el Decreto de la Legislatura que otorgue la habilitación de edad, remitirá un ejemplar de éste, al Encargado del Registro Civil del domicilio del habilitado, para que levante el acta respectiva, insertando a la letra el decreto. El habilitado cuidará del cumplimiento de este artículo, pudiendo presentar él mismo el decreto de habilitación.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 722
 
-La omisión del registro de emancipación no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 707.
+Extendida cualquiera de las actas a que se refiere este Capítulo, se hará la inserción en la de nacimiento en los términos del artículo 676, observándose para el caso de que no exista en la misma Oficina del Registro, lo prevenido en el artículo 709.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 723
 
-En los casos del artículo 576, el Ejecutivo del Estado, al promulgar el decreto de la Legislatura que otorgue la habilitación de edad, remitirá un ejemplar de éste, debidamente promulgado, al Encargado del Registro Civil del domicilio del habilitado, para que levante el acta respectiva, insertando a la letra aquel decreto. Se anotará el acta de nacimiento, expresando al margen de ella haber sido habilitado de edad el menor, citando la fecha de la habilitación y el número y foja del acta respectiva, observándose en su caso, lo que dispone el artículo 693. El habilitado cuidará del cumplimiento de este artículo, pudiendo presentar él mismo el decreto de habilitación al Encargado del Registro Civil de su domicilio, para que se levante acta respectiva.
+La omisión del registro de tutela, emancipación o la habilitación de edad, no quita a éstas sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 707.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 724
 
-La omisión del registro de la habilitación de edad no quita a éstas sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 707.
+Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumió, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda en el término de ocho días, para que proceda conforme el artículo 676.
 
-### CAPITULO VII. De las actas de matrimonio
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+### CAPITULO VI. De las actas de matrimonio
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 725
 
 Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
 
 II.- Que no tienen impedimento legal para casarse, y
 
 III.- Que es su voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 726
 
@@ -3905,9 +3969,13 @@ VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contr
 
 VII.- Copia de la dispensa de impedimento, si los hubo.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 727
 
 En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 728
 
@@ -3915,9 +3983,13 @@ El Encargado del Registro Civil a quien se presente una solicitud de matrimonio 
 
 Si los contrayentes son individuos de los que menciona el artículo 16, la omisión de algún requisito, no implicará la nulidad del matrimonio; pero, en su caso, se observará lo dispuesto por los artículos 166 y 171, y por el propio artículo 16.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 729
 
 El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 730
 
@@ -3925,67 +3997,99 @@ En el lugar, día y hora designados para la celebración del matrimonio deberán
 
 Acto continuo, el Encargado del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 731
 
 Se levantará luego el acta de matrimonio en la cual se hará constar:
 
-I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
 II.- Si son mayores o menores de edad;
 
-III.- Los nombres, apellidos, ocupación y domicilio de los padres;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+III.- Los nombres, apellidos, nacionalidad y domicilio de los padres;
 
 IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlo;
 
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el juez en nombre de la ley y de la sociedad;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la Ley y de la Sociedad;
 
 VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes y si lo son, en qué grado y en qué línea;
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
 El acta será firmada por el Encargado del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
 
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+Se imprimirán además, las huellas digitales de los contrayentes.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 732
 
 Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 726, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 733
 
 El Encargado del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará un acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 734
 
 Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 735
 
 Antes de remitir el acta al Juez de Primera Instancia, el Encargado del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 736
 
 Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Encargado del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 737
 
 Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 738
 
 El Encargado del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 739
 
 Los Encargados del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 740
 
 El Encargado del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con la destitución de su cargo.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 741
 
@@ -3993,57 +4097,83 @@ El Encargado del Registro Civil que reciba una solicitud de matrimonio, está pl
 
 También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 726.
 
-### CAPITULO VIII. De las actas de divorcio
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 742
 
 La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Encargado del Registro Civil para que levante el acta correspondiente.
 
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+### CAPITULO VII. De las actas de divorcio
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 743
 
-El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+El acta de divorcio expresará el nombre, apellido, edad, nacionalidad y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio, la parte resolutiva de la sentencia que haya decretado el divorcio y demás datos que especifique la forma respectiva.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 744
 
 Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
 
-### CAPITULO IX. De las actas de defunción
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+### CAPITULO VIII. De las actas de defunción
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 745
 
-Ninguna inhumación se hará sin autorización escrita dada por el Encargado del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+Ninguna inhumación o cremación se hará sin autorización escrita dada por el Encargado del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 746
 
 En el acta de fallecimiento se asentarán los datos que el Encargado del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
 
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 747
 
-El acta de fallecimiento contendrá:
+El acta de defunción contendrá:
 
-I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
+I.- El nombre, apellido, edad, nacionalidad y domicilio que tuvo el difunto;
 
-II.- El estado civil de éste, y si era casado o viudo, el nombre y apellidos de su cónyuge;
+II.- Estado civil, y si era casado, el nombre, apellidos y nacionalidad del cónyuge;
 
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos; y si fueren parientes, el grado en que lo sean;
+III.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos; y si fueren parientes, el grado en que lo sean;
 
 IV.- Los nombres de los padres del difunto si se supieren;
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
+V.- La causa de la muerte y el destino que se dé al cadáver;
 
-VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
+VI.- Fecha, lugar y hora de la muerte, si se supieren y todos los informes que se tengan en caso de muerte violenta;
+
+VII.- El nombre, cédula profesional y domicilio del médico que certificó la defunción.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 748
 
 Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al Encargado del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 749
 
 Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
 
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 750
 
-Cuando el Encargado del Registro Civil sospeche que la muerte fue violenta, dará parte a la autoridad judicial, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento, dará parte el Encargado del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Encargado del Registro Civil para que los anote al margen del acta.
+Cuando el Encargado del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Encargado del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general, todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos, se comunicarán al Encargado del Registro Civil para que haga la anotación en el acta y forme el apéndice respectivo.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 751
 
@@ -4051,39 +4181,113 @@ En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en 
 
 Si no parece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece, y las demás noticias que sobre el suceso puedan adquirirse.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 752
 
 En el caso de muerte en el mar, a bordo de un buque nacional, el acta se formará de la manera prescrita en el artículo 747, en cuanto fuere posible, y la autorizará el capitán o patrono del buque, practicándose, además, lo dispuesto para los nacimientos en los artículos 697 y 698.
 
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 753
 
-Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al Encargado del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+Cuando alguno falleciere en lugar distinto al del registro de su nacimiento, se procederá en los términos del artículo 709.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 754
 
 El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Encargado del Registro Civil, de los muertos que haya habido en campaña o en otro acto del servicio, especificándose la filiación; el Encargado del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 755
 
 En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 747.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 756
 
 En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
 
-### CAPITULO X. De las actas de incapacidad y de ausencia
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 757
 
-Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al Encargado del Registro Civil que corresponda, copia certificada de la ejecutoria respectiva.
+La exhumación de un cadáver para trasladarlo a otra fosa o cementerio, sólo procederá con la autorización del Encargado del Registro Civil que haya levantado el acta, quien hará la inserción a que se refiere el artículo 676.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 758
 
-El encargado del Registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado.
+Cuando una autoridad ordene la exhumación y de ésta resulte que la causa de la muerte fue distinta a la anotada en el acta de defunción, se comunicará esta circunstancia al Oficial del Registro Civil que haya levantado el acta, para que proceda en los términos de la parte última del artículo anterior.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+### CAPITULO IX. De la rectificación de las actas del estado civil
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ARTICULO 759
 
-Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Encargado del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo lo dispuesto en el artículo siguiente y el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES SIMILAR AL DEL ARTÍCULO 760 BIS.]</small>
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
+ARTICULO 760
+
+Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, el que tenga derecho a pedir su corrección podrá acudir ante el Oficial Encargado del Registro Civil que corresponda, quien oyendo al Ministerio Público acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
+
+> <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES SIMILAR AL DEL ARTÍCULO 760.]</small>
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
+
+### CAPITULO I. De los bienes inmuebles o raíces
+
+ARTICULO 791
+
+Las cosas que pueden ser objeto de propiedad, son por su naturaleza:
+
+I.- Bienes inmuebles o raíces;
+
+II.- Bienes muebles.
+
+ARTICULO 792
+
+Son bienes inmuebles:
+
+I.- El suelo y las construcciones adheridas a él;
+
+II.- Las plantas y árboles, mientras estuvieren unidos a la tierra, y los frutos pendientes de los mismos árboles y plantas mientras no sean separados de ellos por cosechas o cortes regulares;
+
+III.- Todo lo que esté unido a un inmueble de una manera fija, de modo que no pueda separarse sin deterioro del mismo inmueble o del objeto a él adherido;
+
+IV.- Las estatuas, relieves, pinturas u otros objetos de ornamentación, colocados en edificios o heredades por el dueño del inmueble, en tal forma que revele el propósito de unirlos de modo permanente al fundo;
+
+V.- Los palomares, colmenas, estanques de peces o criaderos análogos, cuando el propietario los conserve con el propósito de mantenerlos unidos a la finca y formando parte de ella de un modo permanente;
+
+VI.- Las máquinas, vasos, instrumentos o utensilios destinados por el propietario de la finca directa y exclusivamente a la industria o explotación de la misma;
+
+VII.- Los abonos destinados al cultivo de una heredad, que estén en las tierras donde hayan de utilizarse, y las semillas necesarias para el cultivo de la finca;
+
+VIII.- Los aparatos eléctricos y accesorios adheridos al suelo o a los edificios por el dueño de éstos;
+
+IX.- Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirvan para conducir los líquidos o gases a una finca o para extraerlos de ella;
+
+X.- Los animales que formen el pie de cría en los predios rústicos destinados total o parcialmente al ramo de ganadería, así como las bestias de trabajo indispensables para el cultivo de la finca, mientras estén destinados a ese objeto;
+
+XI.- Los diques y construcciones que, aun cuando sean flotantes, estén destinados por su objeto y condiciones a permanecer en un punto fijo de un río, lago o costa;
+
+XII.- Los derechos reales sobre inmuebles;
+
+XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y telegráficas y las estaciones radio-telegráficas fijas.
+
+ARTICULO 793
+
+Los bienes muebles por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya considerado el de aquéllos para constituír algún derecho real a favor de un tercero.
 
 ###### ARTICULO 760
 
@@ -4091,7 +4295,7 @@ BIS
 
 Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, el que tenga derecho a pedir su corrección podrá acudir ante el Juez del Registro Civil que corresponda, quien oyendo al Ministerio Público acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 761
 
@@ -4100,6 +4304,8 @@ Ha lugar a demandar la rectificación:
 I.- Por falsedad, cuando se alegue que el suceso registrado no pasó; y
 
 II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia esencial del acto registrado.
+
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
 ARTICULO 762
 
@@ -4113,13 +4319,17 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que según los artículos 279, 280 y 281, pueden continuar o intentar las acciones de que en ellos se trata.
 
+(REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
+
 ARTICULO 763
 
 El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ARTICULO 764
 
-La sentencia que cause ejecutoria se comunicará al Encargado del Registro Civil, y éste hará referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+La sentencia que cause ejecutoria se comunicará al Encargado del Registro Civil para que se haga la inserción y apéndice correspondiente, sea que el fallo conceda o niegue la rectificación.
 
 TITULO DECIMOTERCERO
 
@@ -4263,78 +4473,6 @@ Se equipararán al patrimonio familiar, los solares y casas que sobre ellos se c
 
 A juicio del Ejecutivo y por causas de extrema necesidad plenamente justificadas, el Gobernador del Estado podrá autorizar la transmisión o gravamen de los inmuebles a que este precepto se refiere, teniendo preferencia para adquirirlos quien sea obrero sin casa-habitación, de la misma empresa en que preste o haya prestado servicios quien se sometió a este régimen y se obligue en los mismos términos.
 
-### CAPITULO XI. De la rectificación de las actas del estado civil
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
-
-ARTICULO 760
-
-La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo lo dispuesto en el artículo siguiente y el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1979)</small>
-
-### CAPITULO I. De los bienes inmuebles o raíces
-
-ARTICULO 791
-
-Las cosas que pueden ser objeto de propiedad, son por su naturaleza:
-
-I.- Bienes inmuebles o raíces;
-
-II.- Bienes muebles.
-
-ARTICULO 792
-
-Son bienes inmuebles:
-
-I.- El suelo y las construcciones adheridas a él;
-
-II.- Las plantas y árboles, mientras estuvieren unidos a la tierra, y los frutos pendientes de los mismos árboles y plantas mientras no sean separados de ellos por cosechas o cortes regulares;
-
-III.- Todo lo que esté unido a un inmueble de una manera fija, de modo que no pueda separarse sin deterioro del mismo inmueble o del objeto a él adherido;
-
-IV.- Las estatuas, relieves, pinturas u otros objetos de ornamentación, colocados en edificios o heredades por el dueño del inmueble, en tal forma que revele el propósito de unirlos de modo permanente al fundo;
-
-V.- Los palomares, colmenas, estanques de peces o criaderos análogos, cuando el propietario los conserve con el propósito de mantenerlos unidos a la finca y formando parte de ella de un modo permanente;
-
-VI.- Las máquinas, vasos, instrumentos o utensilios destinados por el propietario de la finca directa y exclusivamente a la industria o explotación de la misma;
-
-VII.- Los abonos destinados al cultivo de una heredad, que estén en las tierras donde hayan de utilizarse, y las semillas necesarias para el cultivo de la finca;
-
-VIII.- Los aparatos eléctricos y accesorios adheridos al suelo o a los edificios por el dueño de éstos;
-
-IX.- Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirvan para conducir los líquidos o gases a una finca o para extraerlos de ella;
-
-X.- Los animales que formen el pie de cría en los predios rústicos destinados total o parcialmente al ramo de ganadería, así como las bestias de trabajo indispensables para el cultivo de la finca, mientras estén destinados a ese objeto;
-
-XI.- Los diques y construcciones que, aun cuando sean flotantes, estén destinados por su objeto y condiciones a permanecer en un punto fijo de un río, lago o costa;
-
-XII.- Los derechos reales sobre inmuebles;
-
-XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y telegráficas y las estaciones radio-telegráficas fijas.
-
-ARTICULO 793
-
-Los bienes muebles por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya considerado el de aquéllos para constituír algún derecho real a favor de un tercero.
-
-# LIBRO SEGUNDO. DE LOS BIENES
-
-## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-ARTICULO 788
-
-Pueden ser objeto de apropiación todas las cosas que no estén excluídas del comercio.
-
-ARTICULO 789
-
-Las cosas pueden estar excluídas del comercio por su naturaleza o por disposición de la ley.
-
-ARTICULO 790
-
-Están fuera del comercio por su naturaleza las que no pueden ser poseídas por alguna persona exclusivamente; y por disposición de la ley, las que ésta declara irreductibles a propiedad particular.
-
-## TITULO SEGUNDO. CLASES Y CARACTERISTICAS DE LOS BIENES
-
 ### CAPITULO II. De los bienes muebles
 
 ARTICULO 794
@@ -4426,6 +4564,24 @@ Son bienes de propiedad de los particulares todas las cosas cuyo dominio les per
 ARTICULO 815
 
 Los extranjeros y las personas morales están sujetos, en cuanto a la adquisición de derechos de propiedad privada, a las prohibiciones, restricciones y requisitos que señala el artículo 27 de la Constitución Federal y sus leyes reglamentarias.
+
+# LIBRO SEGUNDO. DE LOS BIENES
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+ARTICULO 788
+
+Pueden ser objeto de apropiación todas las cosas que no estén excluídas del comercio.
+
+ARTICULO 789
+
+Las cosas pueden estar excluídas del comercio por su naturaleza o por disposición de la ley.
+
+ARTICULO 790
+
+Están fuera del comercio por su naturaleza las que no pueden ser poseídas por alguna persona exclusivamente; y por disposición de la ley, las que ésta declara irreductibles a propiedad particular.
+
+## TITULO SEGUNDO. CLASES Y CARACTERISTICAS DE LOS BIENES
 
 ### CAPITULO IV. De los bienes mostrencos
 
@@ -4586,6 +4742,146 @@ La distancia de que habla el artículo anterior se mide desde la línea de separ
 ARTICULO 886
 
 El propietario de un edificio está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo del edificio vecino.
+
+### CAPITULO II. De la apropiación de los animales
+
+ARTICULO 887
+
+Los animales sin marca alguna que se encuentren en las propiedades, se presume que son del dueño de éstas mientras no se pruebe lo contrario, a no ser que el propietario no tenga cría de la raza a que los animales pertenezcan.
+
+ARTICULO 888
+
+Los animales sin marca que se encuentren en tierras de propiedad particular que explotan en común varios, se presumen del dueño de la cría de la misma especie y de la misma raza en ellas establecidas, mientras no se pruebe lo contrario. Si dos o más fueren dueños de la misma especie o raza, mientras no haya prueba de que los animales pertenecen a alguno de ellos, se reputarán como de propiedad común.
+
+ARTICULO 889
+
+El derecho de caza y el de apropiarse los productos de ésta en terreno público, se sujetará a las leyes y reglamentos respectivos.
+
+ARTICULO 890
+
+En terreno de propiedad particular no puede ejercitarse el derecho a que se refiere el artículo anterior, ya sea comenzando en él la caza, ya continuando la comenzada en terreno público, sin permiso del dueño. Los campesinos asalariados y los aparceros gozan del derecho de caza en las fincas donde trabajan, en cuanto se aplique a satisfacer sus necesidades y las de sus familias.
+
+ARTICULO 891
+
+El ejercicio del derecho de cazar se regirá por los reglamentos administrativos y por las bases que fijan los artículos que siguen.
+
+ARTICULO 892
+
+El cazador se hace dueño del animal que caza, por el acto de apoderarse de él, observándose lo dispuesto en el artículo 894.
+
+ARTICULO 893
+
+Se considera capturado el animal que ha sido muerto por el cazador durante el acto venatorio, y también el que está preso en redes.
+
+ARTICULO 894
+
+Si la pieza herida muriese en terrenos ajenos, el propietario de éstos o quien lo represente deberá entregarla al cazador o permitir que entre a buscarla.
+
+ARTICULO 895
+
+El propietario que infrinja el artículo anterior pagará el valor de la pieza, y el cazador perderá ésta si entra a buscarla sin permiso de aquél.
+
+ARTICULO 896
+
+En todo caso es responsable el cazador de los daños que cause.
+
+ARTICULO 897
+
+Cuando haya más de un cazador, serán todos responsables solidariamente.
+
+ARTICULO 898
+
+El hecho de entrar los perros de caza en terreno ajeno sin la voluntad del cazador, sólo obliga a éste a la reparación de los daños causados.
+
+ARTICULO 899
+
+La acción para pedir la reparación prescribe a los treinta días, contados desde la fecha en que se causó el daño.
+
+ARTICULO 900
+
+Es lícito a los labradores destruir en cualquier tiempo los animales bravíos o cerriles que perjudiquen sus sementeras y plantaciones.
+
+ARTICULO 901
+
+El mismo derecho tienen respecto a las aves domésticas en los campos en que hubiere tierras sembradas de cereales u otros frutos pendientes, a los que pudieren perjudicar aquellas aves.
+
+ARTICULO 902
+
+Se prohibe absolutamente destruir en predios ajenos los nidos, huevos y crías de aves de cualquiera especie.
+
+ARTICULO 903
+
+La pesca y el buceo de perlas en las aguas del dominio del poder público, que sean de uso común, se regirán por lo que dispongan las leyes y reglamentos respectivos.
+
+ARTICULO 904
+
+El derecho de pesca en aguas particulares pertenece a los dueños de los predios en que aquéllas se encuentren, con sujeción a las leyes y reglamentos de la materia.
+
+ARTICULO 905
+
+Es lícito a cualquiera persona apropiarse de los animales bravíos, conforme a los reglamentos respectivos.
+
+ARTICULO 906
+
+Es lícito a cualquiera persona apropiarse de los enjambres que no hayan sido encerrados en colmena, o cuando la hayan abandonado.
+
+ARTICULO 907
+
+No se entiende que las abejas han abandonado la colmena cuando se han posado en predio propio del dueño o éste las persigue llevándolas a la vista.
+
+ARTICULO 908
+
+Los animales feroces que se escaparen del encierro en que los tengan sus dueños, podrán ser destruídos o capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
+
+ARTICULO 909
+
+La apropiación de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
+
+### CAPITULO III. De los tesoros
+
+ARTICULO 910
+
+Para los efectos de los artículos que siguen, se entiende por tesoro, el depósito oculto de dinero, alhajas u otros objetos preciosos cuya legítima procedencia se ignore. Nunca un tesoro se considera como fruto de una finca.
+
+ARTICULO 911
+
+El tesoro oculto pertenece al que lo descubre en sitio de su propiedad.
+
+ARTICULO 912
+
+Si el sitio fuere de dominio del poder público o perteneciere a alguna persona particular que no sea el mismo descubridor, se aplicará a éste una mitad del tesoro y la otra mitad al propietario del sitio.
+
+ARTICULO 913
+
+Cuando los objetos descubiertos fueren interesantes para las ciencias o para las artes se aplicarán al Estado por su justo precio, el cual se distribuirá conforme a lo dispuesto en los artículos 911 y 912.
+
+ARTICULO 914
+
+Para que el que descubra un tesoro en suelo ajeno goce del derecho ya declarado, es necesario que el descubrimiento sea casual.
+
+ARTICULO 915
+
+De propia autoridad nadie puede, en terreno o edificio ajeno, hacer excavaciones, horadaciones u obra alguna para buscar un tesoro.
+
+ARTICULO 916
+
+El tesoro descubierto en terreno ajeno, por obras practicadas sin consentimiento de su dueño, pertenece íntegramente a éste.
+
+ARTICULO 917
+
+El que sin consentimiento del dueño hiciere en terreno ajeno obras para descubrir un tesoro, estará obligado en todo caso a pagar los daños y perjuicios, y, además, a costear la reposición de las cosas a su primer estado; perderá también el derecho de inquilinato si lo tuviere en el fundo, aunque no esté fenecido el término del arrendamiento, cuando así lo pidiere el dueño.
+
+ARTICULO 918
+
+Si el tesoro se buscare con consentimiento del dueño del fundo, se observarán las estipulaciones que se hubieren hecho para la distribución; y si no las hubiere, los gastos y lo descubierto se distribuirán por mitad.
+
+ARTICULO 919
+
+Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya descubierto un tesoro, si el que lo encontró fue el mismo usufructuario, la parte que le corresponde se determinará según las reglas que quedan establecidas para el descubridor extraño. Si el descubridor no es el dueño ni el usufructuario, el tesoro se repartirá entre el dueño y el descubridor, con exclusión del usufructuario, observándose en este caso lo dispuesto en los artículos 916, 917 y 918.
+
+ARTICULO 920
+
+Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí el derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aun cuando no se encuentre el tesoro.
 
 ## TITULO TERCERO. DE LA POSESION
 
@@ -4792,146 +5088,6 @@ ARTICULO 865
 Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
 
 ## TITULO CUARTO. DE LA PROPIEDAD
-
-### CAPITULO II. De la apropiación de los animales
-
-ARTICULO 887
-
-Los animales sin marca alguna que se encuentren en las propiedades, se presume que son del dueño de éstas mientras no se pruebe lo contrario, a no ser que el propietario no tenga cría de la raza a que los animales pertenezcan.
-
-ARTICULO 888
-
-Los animales sin marca que se encuentren en tierras de propiedad particular que explotan en común varios, se presumen del dueño de la cría de la misma especie y de la misma raza en ellas establecidas, mientras no se pruebe lo contrario. Si dos o más fueren dueños de la misma especie o raza, mientras no haya prueba de que los animales pertenecen a alguno de ellos, se reputarán como de propiedad común.
-
-ARTICULO 889
-
-El derecho de caza y el de apropiarse los productos de ésta en terreno público, se sujetará a las leyes y reglamentos respectivos.
-
-ARTICULO 890
-
-En terreno de propiedad particular no puede ejercitarse el derecho a que se refiere el artículo anterior, ya sea comenzando en él la caza, ya continuando la comenzada en terreno público, sin permiso del dueño. Los campesinos asalariados y los aparceros gozan del derecho de caza en las fincas donde trabajan, en cuanto se aplique a satisfacer sus necesidades y las de sus familias.
-
-ARTICULO 891
-
-El ejercicio del derecho de cazar se regirá por los reglamentos administrativos y por las bases que fijan los artículos que siguen.
-
-ARTICULO 892
-
-El cazador se hace dueño del animal que caza, por el acto de apoderarse de él, observándose lo dispuesto en el artículo 894.
-
-ARTICULO 893
-
-Se considera capturado el animal que ha sido muerto por el cazador durante el acto venatorio, y también el que está preso en redes.
-
-ARTICULO 894
-
-Si la pieza herida muriese en terrenos ajenos, el propietario de éstos o quien lo represente deberá entregarla al cazador o permitir que entre a buscarla.
-
-ARTICULO 895
-
-El propietario que infrinja el artículo anterior pagará el valor de la pieza, y el cazador perderá ésta si entra a buscarla sin permiso de aquél.
-
-ARTICULO 896
-
-En todo caso es responsable el cazador de los daños que cause.
-
-ARTICULO 897
-
-Cuando haya más de un cazador, serán todos responsables solidariamente.
-
-ARTICULO 898
-
-El hecho de entrar los perros de caza en terreno ajeno sin la voluntad del cazador, sólo obliga a éste a la reparación de los daños causados.
-
-ARTICULO 899
-
-La acción para pedir la reparación prescribe a los treinta días, contados desde la fecha en que se causó el daño.
-
-ARTICULO 900
-
-Es lícito a los labradores destruir en cualquier tiempo los animales bravíos o cerriles que perjudiquen sus sementeras y plantaciones.
-
-ARTICULO 901
-
-El mismo derecho tienen respecto a las aves domésticas en los campos en que hubiere tierras sembradas de cereales u otros frutos pendientes, a los que pudieren perjudicar aquellas aves.
-
-ARTICULO 902
-
-Se prohibe absolutamente destruir en predios ajenos los nidos, huevos y crías de aves de cualquiera especie.
-
-ARTICULO 903
-
-La pesca y el buceo de perlas en las aguas del dominio del poder público, que sean de uso común, se regirán por lo que dispongan las leyes y reglamentos respectivos.
-
-ARTICULO 904
-
-El derecho de pesca en aguas particulares pertenece a los dueños de los predios en que aquéllas se encuentren, con sujeción a las leyes y reglamentos de la materia.
-
-ARTICULO 905
-
-Es lícito a cualquiera persona apropiarse de los animales bravíos, conforme a los reglamentos respectivos.
-
-ARTICULO 906
-
-Es lícito a cualquiera persona apropiarse de los enjambres que no hayan sido encerrados en colmena, o cuando la hayan abandonado.
-
-ARTICULO 907
-
-No se entiende que las abejas han abandonado la colmena cuando se han posado en predio propio del dueño o éste las persigue llevándolas a la vista.
-
-ARTICULO 908
-
-Los animales feroces que se escaparen del encierro en que los tengan sus dueños, podrán ser destruídos o capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
-
-ARTICULO 909
-
-La apropiación de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
-
-### CAPITULO III. De los tesoros
-
-ARTICULO 910
-
-Para los efectos de los artículos que siguen, se entiende por tesoro, el depósito oculto de dinero, alhajas u otros objetos preciosos cuya legítima procedencia se ignore. Nunca un tesoro se considera como fruto de una finca.
-
-ARTICULO 911
-
-El tesoro oculto pertenece al que lo descubre en sitio de su propiedad.
-
-ARTICULO 912
-
-Si el sitio fuere de dominio del poder público o perteneciere a alguna persona particular que no sea el mismo descubridor, se aplicará a éste una mitad del tesoro y la otra mitad al propietario del sitio.
-
-ARTICULO 913
-
-Cuando los objetos descubiertos fueren interesantes para las ciencias o para las artes se aplicarán al Estado por su justo precio, el cual se distribuirá conforme a lo dispuesto en los artículos 911 y 912.
-
-ARTICULO 914
-
-Para que el que descubra un tesoro en suelo ajeno goce del derecho ya declarado, es necesario que el descubrimiento sea casual.
-
-ARTICULO 915
-
-De propia autoridad nadie puede, en terreno o edificio ajeno, hacer excavaciones, horadaciones u obra alguna para buscar un tesoro.
-
-ARTICULO 916
-
-El tesoro descubierto en terreno ajeno, por obras practicadas sin consentimiento de su dueño, pertenece íntegramente a éste.
-
-ARTICULO 917
-
-El que sin consentimiento del dueño hiciere en terreno ajeno obras para descubrir un tesoro, estará obligado en todo caso a pagar los daños y perjuicios, y, además, a costear la reposición de las cosas a su primer estado; perderá también el derecho de inquilinato si lo tuviere en el fundo, aunque no esté fenecido el término del arrendamiento, cuando así lo pidiere el dueño.
-
-ARTICULO 918
-
-Si el tesoro se buscare con consentimiento del dueño del fundo, se observarán las estipulaciones que se hubieren hecho para la distribución; y si no las hubiere, los gastos y lo descubierto se distribuirán por mitad.
-
-ARTICULO 919
-
-Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya descubierto un tesoro, si el que lo encontró fue el mismo usufructuario, la parte que le corresponde se determinará según las reglas que quedan establecidas para el descubridor extraño. Si el descubridor no es el dueño ni el usufructuario, el tesoro se repartirá entre el dueño y el descubridor, con exclusión del usufructuario, observándose en este caso lo dispuesto en los artículos 916, 917 y 918.
-
-ARTICULO 920
-
-Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí el derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aun cuando no se encuentre el tesoro.
 
 ### CAPITULO IV. Del derecho de accesión
 
@@ -5381,8 +5537,6 @@ ARTICULO 1021
 
 Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
 
-## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
-
 ### CAPITULO II. De los derechos del usufructuario
 
 ARTICULO 1022
@@ -5589,6 +5743,8 @@ ARTICULO 1070
 
 Si el usufructuario, sin citación del propietario, o éste sin la de aquél, ha seguido un pleito, la sentencia favorable aprovecha al no citado, y la adversa no le perjudica.
 
+## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
+
 ### CAPITULO IV. De los modos de extinguirse el usufructo
 
 ARTICULO 1071
@@ -5751,8 +5907,6 @@ ARTICULO 1103
 
 Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales, y en su defecto, por las disposiciones de este Título.
 
-## TITULO SEXTO. DE LAS SERVIDUMBRES
-
 ### CAPITULO III. De la servidumbre legal de desagüe
 
 ARTICULO 1104
@@ -5874,6 +6028,8 @@ Cuando para el mejor aprovechamiento del agua de que se tiene derecho de dispone
 ARTICULO 1130
 
 La servidumbre establecida por el artículo 1111, con las limitaciones y condiciones que ese mismo artículo y los siguientes preceptúan, se hace extensiva al paso del petróleo, gases naturales y todas las demás substancias líquidas o gaseosas, que contenga el subsuelo y sean susceptibles de ser llevadas al lugar de su explotación o venta, por medio de tubos o canales; así como también al paso de tuberías o cables que contengan alambres para la transmisión de fuerza eléctrica.
+
+## TITULO SEXTO. DE LAS SERVIDUMBRES
 
 ### CAPITULO V. De la servidumbre legal de paso
 
@@ -6175,8 +6331,6 @@ ARTICULO 1190
 
 La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
 
-## TITULO SEPTIMO. DE LA PRESCRIPCION
-
 ### CAPITULO III. De la prescripción negativa
 
 ARTICULO 1191
@@ -6248,6 +6402,8 @@ VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera co
 VII.- Contra el Estado, los Municipios y demás Corporaciones de derecho público, sino a partir del día en que, después de haber entrado los mismos en posesión de los bienes, derechos y acciones, los perdieren.
 
 En los casos de herencias y bienes vacantes, sólo a partir de la fecha en que se declare heredero al Fisco del Estado o se haga la denuncia legal de vacancia.
+
+## TITULO SEPTIMO. DE LA PRESCRIPCION
 
 ### CAPITULO V. De la interrupción de la prescripción
 
@@ -6396,68 +6552,6 @@ Firmarán el acta, además del Notario y de los testigos, el Juez y los médicos
 ARTICULO 1245
 
 Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
-
-# LIBRO TERCERO. DE LAS SUCESIONES
-
-## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-ARTICULO 1214
-
-Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
-
-ARTICULO 1215
-
-La herencia se defiere por la voluntad del testador o por disposición de la ley. La primera se llama testamentaria, y la segunda legítima.
-
-ARTICULO 1216
-
-El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
-
-ARTICULO 1217
-
-El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
-
-ARTICULO 1218
-
-El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
-
-ARTICULO 1219
-
-Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
-
-ARTICULO 1220
-
-Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
-
-ARTICULO 1221
-
-A la muerte del autor de la sucesión los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
-
-ARTICULO 1222
-
-Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
-
-ARTICULO 1223
-
-El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
-
-ARTICULO 1224
-
-El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
-
-ARTICULO 1225
-
-El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
-
-ARTICULO 1226
-
-Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
-
-ARTICULO 1227
-
-El derecho concedido en el artículo 1225 cesa si la enajenación se hace a un coheredero.
-
-## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
 
 ### CAPITULO III. De la capacidad para heredar
 
@@ -6718,6 +6812,68 @@ Cuando el legado debe concluir en un día que es seguro que ha de llegar, se ent
 ARTICULO 1300
 
 Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
+
+# LIBRO TERCERO. DE LAS SUCESIONES
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+ARTICULO 1214
+
+Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
+
+ARTICULO 1215
+
+La herencia se defiere por la voluntad del testador o por disposición de la ley. La primera se llama testamentaria, y la segunda legítima.
+
+ARTICULO 1216
+
+El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+
+ARTICULO 1217
+
+El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+
+ARTICULO 1218
+
+El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
+
+ARTICULO 1219
+
+Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+
+ARTICULO 1220
+
+Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+
+ARTICULO 1221
+
+A la muerte del autor de la sucesión los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+
+ARTICULO 1222
+
+Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
+
+ARTICULO 1223
+
+El legatario adquiere derecho al legado puro y simple, así como al de día cierto, desde el momento de la muerte del testador.
+
+ARTICULO 1224
+
+El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
+
+ARTICULO 1225
+
+El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
+
+ARTICULO 1226
+
+Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
+
+ARTICULO 1227
+
+El derecho concedido en el artículo 1225 cesa si la enajenación se hace a un coheredero.
+
+## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
 
 ### CAPITULO V. De los bienes de que se puede disponer por testamento, y de los testamentos inoficiosos
 
@@ -7429,8 +7585,6 @@ ARTICULO 1453
 
 Faltando alguna de las referidas solemnidades quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
-## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
-
 ### CAPITULO III. Testamento notarial cerrado
 
 ARTICULO 1454
@@ -7614,6 +7768,8 @@ El testamento autógrafo quedará sin efecto cuando el original o el duplicado, 
 ARTICULO 1497
 
 El Encargado del Registro Público no proporcionará informes acerca del testamento autógrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+
+## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
 ### CAPITULO V. Del testamento privado
 
@@ -7861,8 +8017,6 @@ Si el intestado no fuere absoluto, se deducirá del total de la herencia la part
 
 > <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
 
-## TITULO CUARTO. DE LA SUCESION LEGITIMA
-
 ### CAPITULO III. De la sucesión de los ascendientes
 
 ARTICULO 1548
@@ -7926,6 +8080,8 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 ARTICULO 1562
 
 A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos los bienes.
+
+## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
 ### CAPITULO V. De la sucesión de los colaterales
 
@@ -8048,8 +8204,6 @@ Habiendo albacea nombrado, él deberá promover, la reclamación a que se refier
 ARTICULO 1585
 
 El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
-
-## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
 ### CAPITULO III. De la aceptación y de la repudiación de la herencia
 
@@ -8523,6 +8677,8 @@ ARTICULO 1682
 
 La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovido por parte legítima.
 
+## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
+
 ### CAPITULO V. Del inventario y de la liquidación de la herencia
 
 ARTICULO 1683
@@ -8757,14 +8913,6 @@ ARTICULO 1732
 
 La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-DE LAS OBLIGACIONES EN GENERAL
-
-## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
-
 ### CAPITULO III. De la Representación en los contratos
 
 ARTICULO 1733
@@ -8818,6 +8966,14 @@ El proponente quedará libre de su oferta cuando la respuesta que reciba no sea 
 ARTICULO 1744
 
 Producen efectos la propuesta y aceptación hechas por telégrafo, cable, teletipo, radio, telefotografía u otro medio cualquiera similar de comunicación rápida que no consista en la entrega material de documentos autógrafos, si los originales de los respectivos telegramas, radiogramas, cables o telefotogramas, contienen las firmas de los contratantes, y en su caso los signos convencionales estipulados entre ellos para identificar su correspondencia telegráfica, cablegráfica o fototelegráfica.
+
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+DE LAS OBLIGACIONES EN GENERAL
+
+## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
 
 ### CAPITULO V. Vicios del consentimiento
 
@@ -9859,8 +10015,6 @@ III.- Cuando la obligación sea indivisible;
 
 IV.- Cuando por el contrato se ha determinado otra cosa.
 
-## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
-
 ### CAPITULO VI. De las obligaciones de hacer o de no hacer
 
 ARTICULO 1960
@@ -9974,6 +10128,8 @@ El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado 
 ARTICULO 1983
 
 Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
+
+## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
 ### CAPITULO II. De la cesión de las deudas
 
@@ -10212,8 +10368,6 @@ ARTICULO 2036
 Si el ofrecimiento y la consignación se han hecho legalmente, todos los gastos serán de cuenta del acreedor.
 
 B).- Incumplimiento de las obligaciones
-
-## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
 
 ### CAPITULO I. Consecuencias del incumplimiento de las obligaciones
 
@@ -10497,6 +10651,8 @@ SUBTITULO SEGUNDO
 
 EFECTOS DE LAS OBLIGACIONES CON RELACION A TERCERO
 
+## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
+
 ### CAPITULO I. De los actos celebrados en fraude de los acreedores
 
 ARTICULO 2096
@@ -10566,14 +10722,6 @@ Si el acreedor que pide la nulidad, para acreditar la insolvencia del deudor, pr
 ARTICULO 2112
 
 Se presumen fraudulentas las enajenaciones a título oneroso, hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
-
-## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
-
-SUBTITULO PRIMERO
-
-EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
-
-A).- Cumplimiento de las obligaciones
 
 ### CAPITULO II. De la simulación de los actos jurídicos
 
@@ -10700,6 +10848,14 @@ Las deudas pagaderas en diferente lugar, pueden compensarse mediante indemnizaci
 ARTICULO 2138
 
 La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
+
+## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
+
+SUBTITULO PRIMERO
+
+EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
+
+A).- Cumplimiento de las obligaciones
 
 ### CAPITULO II. De la confusión de derechos
 
@@ -10867,8 +11023,6 @@ ARTICULO 2201
 
 Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, cabarets, pulquerías o centros de vicio, no dan derecho para exigir su precio.
 
-## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
-
 ### CAPITULO II. De la materia de la compraventa
 
 ARTICULO 2202
@@ -10897,9 +11051,9 @@ ARTICULO 2207
 
 Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 
-> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
-
 ARTICULO 2208
+
+> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 2209
 
@@ -10940,6 +11094,8 @@ Los peritos y los corredores no pueden comprar los bienes en cuya venta han inte
 ARTICULO 2215
 
 Las compras hechas en contravención a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
+
+## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO IV. De las obligaciones del vendedor
 
@@ -10996,112 +11152,6 @@ La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubier
 ARTICULO 2225
 
 Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
-
-## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
-
-ARTICULO 2157
-
-El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
-
-ARTICULO 2158
-
-La ilicitud en el objeto, en el fin o en la condición del acto produce su nulidad, ya absoluta, ya relativa, según lo disponga la ley.
-
-ARTICULO 2159
-
-La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruidos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
-
-ARTICULO 2160
-
-La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
-
-ARTICULO 2161
-
-La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la lesión, y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
-
-ARTICULO 2162
-
-La acción y la excepción de nulidad por falta de forma compete a todos los interesados.
-
-ARTICULO 2163
-
-La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es el incapaz.
-
-ARTICULO 2164
-
-La nulidad de un acto jurídico por falta de forma establecida por la ley, se extingue por la confirmación de ese acto hecho en la forma omitida.
-
-ARTICULO 2165
-
-Cuando la falta de forma produzca nulidad del acto, si la voluntad de las partes ha quedado constante de una manera indubitable y no se trata de un acto revocable, cualquiera de los interesados puede exigir que el acto sea otorgue en la forma prescrita por la ley.
-
-ARTICULO 2166
-
-Cuando el contrato es nulo por incapacidad, violencia o error, puede ser confirmado cuando cese el vicio o motivo de nulidad, siempre que no concurra otra causa que invalide la confirmación.
-
-ARTICULO 2167
-
-El cumplimiento voluntario por medio del pago, novación, o por cualquier otro modo, se tiene por ratificación tácita y extingue la acción de nulidad.
-
-ARTICULO 2168
-
-La confirmación se retrotrae al día en que se verificó el acto nulo; pero ese efecto retroactivo no perjudicará a los derechos de tercero.
-
-ARTICULO 2169
-
-La acción de nulidad fundada en incapacidad o en error, puede intentarse en los plazos establecidos en el artículo 568. Si el error se conoce antes de que transcurran esos plazos, la acción de nulidad prescribe a los sesenta días, contados desde que el error fue conocido.
-
-ARTICULO 2170
-
-La acción para pedir la nulidad de un contrato hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
-
-ARTICULO 2171
-
-El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que sólo íntegramente subsistiera.
-
-ARTICULO 2172
-
-La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
-
-ARTICULO 2173
-
-Si el acto fuere bilateral y las obligaciones correlativas, consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
-
-ARTICULO 2174
-
-Mientras que uno de los contratantes no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del contrato está obligado, no puede ser compelido el otro a que cumpla por su parte.
-
-ARTICULO 2175
-
-Todos los derechos reales o personales transmitidos a tercero sobre un inmueble, por una persona que ha llegado a ser propietario de él en virtud del acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la prescripción, observándose lo dispuesto para los terceros adquirentes de buena fe.
-
-SEGUNDA PARTE
-
-DE LAS DIVERSAS ESPECIES DE CONTRATOS
-
-## TITULO PRIMERO. PROMESA DE CONTRATO
-
-ARTICULO 2176
-
-Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
-
-ARTICULO 2177
-
-La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
-
-ARTICULO 2178
-
-La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo, de acuerdo con lo ofrecido.
-
-ARTICULO 2179
-
-Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
-
-ARTICULO 2180
-
-Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
-
-## TITULO SEGUNDO. DE LA COMPRA-VENTA
 
 ### CAPITULO VI. De las obligaciones del comprador
 
@@ -11226,6 +11276,112 @@ Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, s
 ARTICULO 2250
 
 En la venta de que habla el artículo 2246, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
+
+## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
+
+ARTICULO 2157
+
+El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
+
+ARTICULO 2158
+
+La ilicitud en el objeto, en el fin o en la condición del acto produce su nulidad, ya absoluta, ya relativa, según lo disponga la ley.
+
+ARTICULO 2159
+
+La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruidos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
+
+ARTICULO 2160
+
+La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
+
+ARTICULO 2161
+
+La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la lesión, y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
+
+ARTICULO 2162
+
+La acción y la excepción de nulidad por falta de forma compete a todos los interesados.
+
+ARTICULO 2163
+
+La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es el incapaz.
+
+ARTICULO 2164
+
+La nulidad de un acto jurídico por falta de forma establecida por la ley, se extingue por la confirmación de ese acto hecho en la forma omitida.
+
+ARTICULO 2165
+
+Cuando la falta de forma produzca nulidad del acto, si la voluntad de las partes ha quedado constante de una manera indubitable y no se trata de un acto revocable, cualquiera de los interesados puede exigir que el acto sea otorgue en la forma prescrita por la ley.
+
+ARTICULO 2166
+
+Cuando el contrato es nulo por incapacidad, violencia o error, puede ser confirmado cuando cese el vicio o motivo de nulidad, siempre que no concurra otra causa que invalide la confirmación.
+
+ARTICULO 2167
+
+El cumplimiento voluntario por medio del pago, novación, o por cualquier otro modo, se tiene por ratificación tácita y extingue la acción de nulidad.
+
+ARTICULO 2168
+
+La confirmación se retrotrae al día en que se verificó el acto nulo; pero ese efecto retroactivo no perjudicará a los derechos de tercero.
+
+ARTICULO 2169
+
+La acción de nulidad fundada en incapacidad o en error, puede intentarse en los plazos establecidos en el artículo 568. Si el error se conoce antes de que transcurran esos plazos, la acción de nulidad prescribe a los sesenta días, contados desde que el error fue conocido.
+
+ARTICULO 2170
+
+La acción para pedir la nulidad de un contrato hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
+
+ARTICULO 2171
+
+El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que sólo íntegramente subsistiera.
+
+ARTICULO 2172
+
+La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
+
+ARTICULO 2173
+
+Si el acto fuere bilateral y las obligaciones correlativas, consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
+
+ARTICULO 2174
+
+Mientras que uno de los contratantes no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del contrato está obligado, no puede ser compelido el otro a que cumpla por su parte.
+
+ARTICULO 2175
+
+Todos los derechos reales o personales transmitidos a tercero sobre un inmueble, por una persona que ha llegado a ser propietario de él en virtud del acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la prescripción, observándose lo dispuesto para los terceros adquirentes de buena fe.
+
+SEGUNDA PARTE
+
+DE LAS DIVERSAS ESPECIES DE CONTRATOS
+
+## TITULO PRIMERO. PROMESA DE CONTRATO
+
+ARTICULO 2176
+
+Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
+
+ARTICULO 2177
+
+La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
+
+ARTICULO 2178
+
+La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo, de acuerdo con lo ofrecido.
+
+ARTICULO 2179
+
+Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
+
+ARTICULO 2180
+
+Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
+
+## TITULO SEGUNDO. DE LA COMPRA-VENTA
 
 ### CAPITULO VIII. De la forma del contrato de compra-venta
 
@@ -11587,28 +11743,6 @@ ARTICULO 2330
 
 Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
 
-## TITULO TERCERO. DE LA PERMUTA
-
-ARTICULO 2262
-
-La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2183.
-
-ARTICULO 2263
-
-Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ARTICULO 2264
-
-El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-Lo dispuesto en este artículo no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame al que sufrió la evicción.
-
-ARTICULO 2265
-
-Son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. DE LAS DONACIONES
-
 ### CAPITULO I. Disposiciones generales
 
 ARTICULO 2331
@@ -11759,6 +11893,28 @@ ARTICULO 2357
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
+## TITULO TERCERO. DE LA PERMUTA
+
+ARTICULO 2262
+
+La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2183.
+
+ARTICULO 2263
+
+Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ARTICULO 2264
+
+El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+Lo dispuesto en este artículo no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame al que sufrió la evicción.
+
+ARTICULO 2265
+
+Son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. DE LAS DONACIONES
+
 ### CAPITULO III. De los derechos y obligaciones del arrendatario
 
 ARTICULO 2358
@@ -11875,8 +12031,6 @@ ARTICULO 2380
 
 Si el arrendatario está al corriente en el pago de la renta y ha cuidado la cosa arrendada, tendrá derecho a que en igualdad de condiciones debidamente probadas, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2237 y 2238. Si no se respeta este derecho la venta será válida, pero el vendedor será responsable de daños y perjuicios que en ningún caso serán menores al 10% del valor comercial del inmueble.
 
-## TITULO QUINTO. DEL MUTUO
-
 ### CAPITULO IV. Del arrendamiento de fincas urbanas
 
 ARTICULO 2381
@@ -11939,7 +12093,7 @@ ARTICULO 2391
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
 
-## TITULO SEXTO. DEL ARRENDAMIENTO
+## TITULO QUINTO. DEL MUTUO
 
 ### CAPITULO VI. Del arrendamiento de bienes muebles
 
@@ -12038,6 +12192,8 @@ Si el bien arrendado es rústico deberá observarse lo dispuesto en los artícul
 ARTICULO 2412
 
 Dado el aviso, el arrendatario del predio urbano está obligado en los dos últimos meses del término a que se refiere el artículo anterior a poner cédulas y a mostrar el interior de la casa a los que pretendan rentarla.
+
+## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO VIII. Del subarriendo
 
@@ -12457,86 +12613,6 @@ ARTICULO 2513
 
 Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
 
-## TITULO SEPTIMO. DEL COMODATO
-
-ARTICULO 2430
-
-El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ARTICULO 2431
-
-Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
-
-ARTICULO 2432
-
-Los tutores, curadores y en general todos los administradores de bienes ajenos no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ARTICULO 2433
-
-Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ARTICULO 2434
-
-El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ARTICULO 2435
-
-El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ARTICULO 2436
-
-Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ARTICULO 2437
-
-El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-ARTICULO 2438
-
-Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ARTICULO 2439
-
-Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
-
-ARTICULO 2440
-
-Si la cosa se deteriora por el solo efecto del uso para que fue prestada y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ARTICULO 2441
-
-El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ARTICULO 2442
-
-Tampoco tiene derecho el comodatario para retener la cosa, a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ARTICULO 2443
-
-Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ARTICULO 2444
-
-Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-ARTICULO 2445
-
-El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ARTICULO 2446
-
-Si durante préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ARTICULO 2447
-
-Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comandante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ARTICULO 2448
-
-El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
-
 ### CAPITULO IV. De las obligaciones y derechos del mandante y del mandatario con relación a tercero
 
 ARTICULO 2514
@@ -12639,7 +12715,85 @@ ARTICULO 2527
 
 La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-## TITULO NOVENO. DEL MANDATO
+## TITULO SEPTIMO. DEL COMODATO
+
+ARTICULO 2430
+
+El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ARTICULO 2431
+
+Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
+
+ARTICULO 2432
+
+Los tutores, curadores y en general todos los administradores de bienes ajenos no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ARTICULO 2433
+
+Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ARTICULO 2434
+
+El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+ARTICULO 2435
+
+El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ARTICULO 2436
+
+Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ARTICULO 2437
+
+El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
+
+ARTICULO 2438
+
+Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ARTICULO 2439
+
+Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
+
+ARTICULO 2440
+
+Si la cosa se deteriora por el solo efecto del uso para que fue prestada y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ARTICULO 2441
+
+El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ARTICULO 2442
+
+Tampoco tiene derecho el comodatario para retener la cosa, a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ARTICULO 2443
+
+Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ARTICULO 2444
+
+Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+ARTICULO 2445
+
+El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ARTICULO 2446
+
+Si durante préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ARTICULO 2447
+
+Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comandante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
+
+ARTICULO 2448
+
+El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
 
 ### CAPITULO VI. De los diversos modos de terminar el mandato
 
@@ -12708,6 +12862,8 @@ Del servicio doméstico, del servicio por jornal, del servicio a precio alzado e
 ARTICULO 2538
 
 El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo y el contrato de aprendizaje, se regirán por lo dispuesto en la Constitución Federal y en las leyes federales sobre trabajo; y sólo supletoriamente por los preceptos aplicables de este Código, a la naturaleza contractual de aquellos servicios.
+
+## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO II. De la prestación de servicios profesionales
 
@@ -13003,8 +13159,6 @@ SUBTITULO PRIMERO
 
 > <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
 
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
-
 ### CAPITULO UNICO. De las asociaciones
 
 ARTICULO 2603
@@ -13174,6 +13328,8 @@ La capacidad para que las sociedades adquieran bienes raíces, se regirá por lo
 ARTICULO 2634
 
 No quedan comprendidas en este Título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
+
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO II. De los socios
 
@@ -14697,8 +14853,6 @@ II.- Los créditos del erario que no estén comprendidos en el artículo 2913 y 
 
 III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
-
 ### CAPITULO VI. Acreedores de tercera clase
 
 ARTICULO 2929
@@ -14714,6 +14868,8 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 ARTICULO 2931
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
+
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO I. De las oficinas del registro
 
@@ -14924,6 +15080,136 @@ III.- Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de
 IV.- No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos a la solicitud del promovente;
 
 V.- Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad, y será inscripta en el Registro Público.
+
+### CAPITULO V. De las inscripciones de posesión
+
+ARTICULO 2957
+
+El que tenga una posesión apta para prescribir, de bienes inmuebles no inscriptos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles, de acuerdo con las reglas siguientes:
+
+I.- La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en las fracciones I, II, III y IV del artículo anterior;
+
+II.- Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que debe tener para servir de base a la prescripción adquisitiva, y sobre el origen de la posesión.
+
+El efecto de la inscripción será tener la posesión inscripta como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la misma inscripción.
+
+ARTICULO 2958
+
+Las inscripciones de posesión expresarán las circunstancias exigidas por las inscripciones en general y además las siguientes:
+
+I.- Los nombres y generales de los testigos que hayan declarado en el negocio;
+
+II.- El resultado de las declaraciones en relación con los puntos de testimonio fijados en la fracción II del artículo anterior;
+
+III.- La parte resolutiva de la sentencia que ordenó la inscripción, la fecha de ella, y el Juez o Tribunal que la haya pronunciado.
+
+ARTICULO 2959
+
+Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
+
+La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluído y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviese hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
+
+Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
+
+ARTICULO 2960
+
+Transcurrido el plazo fijado en la parte final del artículo 2957, sin que en el Registro aparezca algún asiento que contradiga la posesión inscripta, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el Registro la inscripción de dominio correspondiente.
+
+ARTICULO 2961
+
+No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni el derecho hipotecario.
+
+Tampoco podrá inscribirse mediante información posesoria ningún derecho real sobre inmuebles, que por su naturaleza sólo pueda tener origen y subsistencia a través de un proceso contractual sinalagmático.
+
+### CAPITULO VI. De la extinción de las inscripciones
+
+ARTICULO 2962
+
+Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscripto a otra persona.
+
+ARTICULO 2963
+
+Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+
+ARTICULO 2964
+
+La cancelación de las inscripciones podrá ser total o parcial.
+
+ARTICULO 2965
+
+Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+
+I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+
+II.- Cuando se extinga también por completo el derecho inscripto;
+
+III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
+
+IV.- Cuando se declare la nulidad de la inscripción;
+
+V.- Cuando sea vendido judicialmente el inmueble que reporte del gravamen en el caso previsto en el artículo 2260;
+
+VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+
+ARTICULO 2966
+
+Podrá pedirse, y deberá decretarse, en su caso, la cancelación parcial:
+
+I.- Cuando se reduzca el inmueble objeto de la inscripción;
+
+II.- Cuando se reduzca el derecho inscripto a favor del dueño de la finca gravada.
+
+ARTICULO 2967
+
+Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+
+ARTICULO 2968
+
+Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+
+ARTICULO 2969
+
+Cuando se registre la propiedad o cualquier otro derecho real sobre inmueble, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+
+ARTICULO 2970
+
+Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+
+ARTICULO 2971
+
+Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+
+ARTICULO 2972
+
+La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso puede hacerse:
+
+I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
+
+II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
+
+III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
+
+ARTICULO 2973
+
+Las inscripciones de hipotecas constituídas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+
+ARTICULO 2974
+
+Procederá también la cancelación total, si se presentase, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
+
+La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+
+ARTICULO 2975
+
+Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+
+ARTICULO 2976
+
+Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por qué se hace la cancelación y su fecha.
+
+ARTICULO 2977
+
+Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscripto, sino también cuando esa inscripción se convierta en definitiva.
 
 ### CAPITULO V. De las inscripciones de posesión
 
@@ -15278,3 +15564,7 @@ PRIMERO.- Esta Ley entrará en vigor el día siguiente de su publicación en la 
 SEGUNDO.- Los términos de los avisos que los arrendadores hubiesen dado a los arrendatarios de conformidad con lo dispuesto en el artículo 2411, que se reforma, del Código Civil, se tienen por no corridos y empezarán a contarse y se adecuarán en todo lo previsto en esta Ley a partir de su vigencia.
 
 TERCERO.- Las actuaciones de los juicios de desocupación por terminación de arrendamiento por tiempo indefinido y que estén en trámite, excepto aquellos en que haya transcurrido más de un año contado de la fecha del aviso de terminación, cuyo procedimiento continuará, serán anulados por los jueces que de ellos estén conociendo, desde el emplazamiento hecho al demandado, para que a promoción de parte se reanuden y resuelvan conforme a las disposiciones de la presente Ley.
+
+G.O. 31 DE DICIEMBRE DE 1981.
+
+Artículo Unico.- Esta Ley será publicada en la "Gaceta Oficial", órgano del Gobierno del Estado y entrará en vigor el día primero de enero de mil novecientos ochenta y dos.
