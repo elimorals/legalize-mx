@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-del-registro-publico-de-la-propiedad-del-5071
 country: "mx"
 rank: "ley"
 publication_date: "1952-02-24"
-last_updated: "1969-04-27"
+last_updated: "1982-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1982.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 24 y jueves 28 de febrero de 1952.
 
@@ -63,9 +63,11 @@ La Dirección del Registro se desempeñará por un Director, un Secretario y los
 
 La Dirección del Registro Público de la Propiedad depende inmediatamente del Gobierno del Estado. Las demás Oficinas del ramo dependen del mismo Gobierno, siendo el inmediato superior el Director del Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
 ###### ARTICULO 5o.
 
-En las Oficinas del Registro Público de la Propiedad, a que se refiere esta Ley, habrá seis Secciones.
+En las Oficinas del Registro Público de la Propiedad a que se refiere esta Ley, habrá siete secciones.
 
 ## TITULO SEGUNDO.
 
@@ -897,6 +899,272 @@ El hecho de que un documento sea autorizado por el Director u Oficial en su caso
 
 Las reglas contenidas en este Capítulo serán aplicables a la autoridad municipal o al Juez de Paz, cuando aquella o éste hubieren de poner en los documentos privados la constancia a que se refiere la mencionada Fracción III del Artículo 2888 del Código Civil.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+## TITULO OCTAVO.
+
+DE LA SECCION SEPTIMA.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+### CAPÍTULO ÚNICO. Del Registro de los Planes de Desarrollo Urbano
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 146.
+
+Estarán a cargo de la Sección Séptima: las inscripciones de los Planes de Desarrollo Urbano que establece la Ley de Desarrollo Urbano del Estado; las resoluciones administrativas que se dicten con apoyo en los propios planes; las declaratorias de provisiones, reservas, usos y destinos y todas las resoluciones administrativas que afecten al desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 147.
+
+Previamente a su inscripción, los Planes de Desarrollo Urbano, sus modificaciones y cancelaciones, deberán ser aprobados por el Jefe del Ejecutivo y publicados en los términos enunciados en la Ley de Desarrollo Urbano del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 148.
+
+La Sección Séptima se llevará mediante cuatro libros en los volúmenes que fueren necesarios, los cuales serán:
+
+I.- Registro de los Planes de Desarrollo Urbano en el Estado;
+
+II.- Registro de Declaratorias;
+
+III.- Registro de Programas; y
+
+IV.- Registro de modificaciones, cancelaciones y demás resoluciones administrativas que afecten el desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 149.
+
+El Gobernador del Estado a través de la Secretaría de Obras Públicas del Estado, remitirá a la Dirección del Registro Público de la Propiedad para su inscripción los Planes de Desarrollo Urbano las Declaratorias y los Programas, así como sus modificaciones y cancelaciones, con las anotaciones de haber sido aprobados expresamente por el Jefe del Ejecutivo Estatal y publicados en los términos del Artículo 28 de la Ley de Desarrollo Urbano del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 150.
+
+Con el original del Plan que se pretende inscribir, se acompañarán, los Planes, croquis, memorias, diagramas, fotografías, etc., que expliquen o fundamenten el Plan, así como dos ejemplares de la publicación abreviada que se haya hecho de dicho Plan en el Periódico Oficial del Estado
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 151.
+
+El Plan original, la publicación abreviada del mismo y los anexos que se acompañen, deberán estar debidamente foliados, firmados y sellados por las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 152.
+
+Si los documentos a registrar satisfacen los requisitos del Artículo anterior y los que al respecto determina la Ley de Desarrollo Urbano del Estado, deberá inmediatamente procederse a su inscripción en el libro correspondiente a la Sección Séptima del Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 153.
+
+Para los efectos del Artículo anterior dentro de un plazo no mayor de cinco días contados a partir de que se reciban los documentos para su registro, el registro los examinará para cerciorarse de que cumplen con los requisitos que indica esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 154.
+
+Si dentro del plazo señalado, el registro encontrase que no se ha cumplido con los requisitos de inscripción, se abstendrá de llevarla a cabo, y remitirá el documento o documentos a la Oficialía de Partes ordenándole proceda a la devolución del mismo. Esta decisión la comunicará el Registrador al Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 155.
+
+Todo documento que se presente para su inscripción después de registrado el Plan de Desarrollo Urbano de que se trate, deberá expresar los antecedentes que correspondan al Primer asiento que obre en el Registro. Para tal efecto se requiere el previo registro del Plan Estatal como requisito indispensable para que proceda el registro de algún otro plan, o resolución administrativa que corresponda.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 156.
+
+Cuando algún afectado que tenga interés, interponga dentro del plazo que señala la Ley de Desarrollo Urbano del Estado, el recurso de reconsideración, la Autoridad ante la cual se haya interpuesto y ventilado el recurso, lo comunicará por oficio a la Dirección del Registro Público de la Propiedad, para que al márgen de la inscripción respectiva haga la anotación correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 157.
+
+Cuando se demande en la vía judicial la nulidad o rectificación de alguna inscripción, se anotarán al margen de ésta los datos esenciales de la demanda correspondiente, y en su oportunidad los de la resolución definitiva que llegare a dictarse, a efecto de que, en su caso, se inscriba y registre la modificación o cancelación del documento registrado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 158.
+
+Las inscripciones se harán en los libros respectivos con orden riguroso del año, mes, día y hora en que se reciban los documentos correspondientes en la Dirección del Registro Público de la Propiedad.
+
+Las inscripciones se harán en el libro que correspondan en forma de actas numeradas progresivamente y estarán escritas con claridad, sin abreviaturas, guarismos ni correcciones. Las palabras que hubieren de testarse se encerrarán en un paréntesis y se subrayarán, a efecto de facilitar su lectura.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 159.
+
+Cada Acta contendrá:
+
+I.- Fecha y hora en que el documento haya sido presentado en las Oficinas del Registro Público de la Propiedad para su inscripción.
+
+II.- Mención del documento de que se trate;
+
+III.- Relación de las memorias, testimonios, planos, diagramas, fotografías, etc., que se acompañen al documento cuya inscripción se solicite. Dichos Anexos se compilarán y archivarán debidamente como apéndices del documento registrado.
+
+IV.- Cuando se trate de inscripción de planes de desarrollo urbano y de declaratorias de provisiones, reservas, usos y destinos o de zonas conurbadas, se incluirán los datos señalados en esta Ley;
+
+V.- Cuando se trate de modificaciones o convenios, se asentará el plan de desarrollo urbano al que corresponde y que ha cumplido con los requisitos técnicos y legales que establece la Ley de Desarrollo Urbano del Estado.
+
+VI.- La mención de la parte del apéndice, cuaderno y páginas en donde se hayan archivado las copias de los documentos registrados y sus anexos; y
+
+VII.- Fecha en que se autoriza el acta, firma de registrador y sello de la Oficina del Registro.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 160.
+
+Tratándose del caso del Artículo anterior, y una vez cumplidos los requerimientos de que se trate ésta se hará insertando el oficio que la ordena.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 161.
+
+Si los documentos satisfacen los requisitos de esta Ley, se procederá a su inscripción levantando en el libro correspondiente el acta a que se refiere el Artículo 94 de este Ordenamiento, en la que además de los datos que ahí se señalan, se consignarán los siguientes que deberán constar en el documento cuya inscripción se pida:
+
+a).- Objetivo u objetivos consignados en el Plan de que se trate;
+
+b).- Período previsto para la ejecución del Plan de que se trate; y
+
+c).- El sistema a seguir para evaluar los resultados del Plan que se trate.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 162.
+
+Los documentos relativos a declaratorias de provisiones, usos, reservas y destinos, además de inscribirse en el libro correspondiente de la Sección Séptima deberán inscribirse en la Sección del Registro Público de la Propiedad relativa a la inscripción de los derechos reales afectados por dichas declaratorias.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 163.
+
+Se inscribirán en el libro primero los planes de desarrollo urbano mencionados en la Ley de Desarrollo Urbano del Estado, así como las declaratorias que establecen Zonas Conurbadas interestatales o intermunicipales.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 164.
+
+Se inscribirán en el libro segundo:
+
+I.- Las declaratorias de provisiones;
+
+II.- Las declaratorias de usos;
+
+III.- Las declaratorias de reservas;
+
+IV.- Las declaratorias de destinos; y
+
+V.- Las declaratorias de conservación y mejoramiento.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 165.
+
+Cuando de las declaratorias de zonas conurbadas se derive la expedición de aquellas que comprendan provisiones, usos, reservas y destinos, se inscribirán como lo ordena la Ley, tanto en la Sección correspondiente al desarrollo urbano como en la de los derechos reales.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 166.
+
+En el libro segundo habrá cinco series de volúmenes con numeración romana del uno al cinco, cada serie estará a cargo de un oficial, quien hará las inscripciones que serán revisadas, aprobadas y firmadas por el registrador correspondiente en los términos establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 167.
+
+Cada serie de volúmenes comprenderá los tomos necesarios según sea el movimiento de las inscripciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 168.
+
+Se inscribirán en el libro tercero los programas comprendidos en los planes, así como aquellos que sean necesarios conforme al proceso de planeación del desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 169.
+
+Todas las acciones coordinadas que tengan por objeto el establecimiento de convenios en materia de inversiones entre las Dependencias del Gobierno Federal, Estatal y Municipal, así como los particulares se inscribirán en este libro. Este libro comprenderá tantos volúmenes como sean necesarios.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 170.
+
+Se inscribirán en el libro cuarto:
+
+I.- Las modificaciones que se operen o los planes de Desarrollo Urbano a que se refiere la Ley de Desarrollo Urbano del Estado; y
+
+II.- Las cancelaciones de los propios planes, que, además, se inscribirán marginalmente al acta del plan cancelado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 171.
+
+Para los efectos de esta Ley, se considerará por modificación: el proceso de reducción o ampliación de los planes. Por cancelación: la anulación del Plan.
+
+En ambos casos deberá fundarse en cualesquier circunstancia de las que señala la Ley de Desarrollo Urbano del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 172.
+
+Para que la modificación de los Planes de Desarrollo Urbano se pueda registrar, es requisito indispensable que se encuentre debidamente aprobada y publicada en los términos de la Ley de Desarrollo Urbano del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 173.
+
+De toda inscripción que se asiente en el libro cuarto de esta Sección, se pondrá una nota marginal que remitan el libro o libros que correspondan a los planes modificados o cancelados.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 174.
+
+En el libro cuarto se llevarán dos volúmenes: uno de ellos destinado a modificaciones y el otro para cancelación de planes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 175.
+
+Se pondrá una nota marginal de toda cancelación al contenido del Plan de Desarrollo Urbano que se haga, con la aprobación del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 176.
+
+Toda inscripción de cancelación que se efectúe, contendrá la naturaleza de la misma, con la indicación de la parte o partes que deban cancelarse.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 177.
+
+Toda solicitud de certificación deberá presentarse por escrito y por duplicado, dirigida al Director del Registro Público de la Propiedad, precisando con toda claridad la especie de certificación que se solicita y su finalidad.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 178.
+
+Cuando las solicitudes no contengan los datos relativos a: 1).- Nombre y firma del interesado, 2).- Domicilio para oír y recibir notificaciones, 3).- Sección o Secciones, 4).- Volúmen, 5).- Libro, 6).- Fojas; o no se haya realizado el pago de los derechos respectivos ante la autoridad que corresponda, los Registradores devolverán dicho documento a la Oficialía de Partes sin la certificación respectiva, a disposición de los interesados.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 179.
+
+Estas solicitudes se pasarán al Registrador por conducto de la Oficialía de Partes para la búsqueda que corresponda, y aquel, dentro de los cinco días hábiles siguientes, informará al Director sobre los datos registrados que se pidieron.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1982)</small>
+
+###### ARTICULO 180.
+
+Con el informe a que se refiere el Artículo anterior, se extenderá el certificado, autorizándolo el Director con su firma y con el sello del Registro.
+
 ## ARTICULOS TRANSITORIOS.
 
 PRIMERO.- Este Reglamento entrará en vigor quince días después de su publicación en el Periódico Oficial.
@@ -936,3 +1204,7 @@ P.O. 27 DE ABRIL DE 1969.
 Artículo Primero.- En aquellas poblaciones en las que se hubiere fundado una Oficina del Registro Público de la Propiedad, por haber funcionado anteriormente un Juzgado de Primera Instancia, quedarán revalidadas sus actuaciones, previa inspección de las mismas que ordene el Ejecutivo del Estado, a partir de la fecha en que hubiese desaparecido el Juzgado de Primera Instancia correspondiente.
 
 Artículo Segundo.- El presente Decreto surtirá sus efectos 15 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 1982.
+
+UNICO.- El presente Decreto, surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
