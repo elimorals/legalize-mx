@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1989-12-26"
+last_updated: "1990-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1990.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -107,39 +107,43 @@ La aplicación de las leyes a que se refiere este artículo, le corresponderá a
 
 Las leyes y demás disposiciones de carácter general que se refieran a la hacienda pública del Estado, que no prevengan expresamente otra cosa, obligan y surten sus efectos una vez publicadas en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 11.
 
-Las normas de derecho tributario que establezcan cargas a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta.
+Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se consideran que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+
+Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica, a falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho común cuando su aplicación no sea contraria a la naturaleza del Derecho Fiscal.
 
 ###### ARTICULO 12.
 
 La ignorancia de las leyes, reglamentos y demás disposiciones de observancia general debidamente publicados, no servirá de excusa ni aprovechará a nadie.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 13.
 
-Son autoridades fiscales del Estado:
+Son Autoridades Fiscales del Estado:
 
 - El Gobernador del Estado
 
 - El Secretario de Finanzas
 
-- El Subsecretario de Ingresos
-
-- El Subsecretario de Egresos
-
-- El Director de Recaudación
-
-- El Director Técnico de Ingresos
+- El Director de Asuntos Jurídicos
 
 - El Director de Fiscalización
 
-- El Director de Catastro
+- El Director de Ingresos
 
-- El Director de Asuntos Jurídicos
+- El Director Central de Ejecución
 
-- Los Jefes de las Oficinas Recaudadores del Estado
+- Los Jefes de las Oficinas Recaudadoras del Estado
 
-Las autoridades mencionadas, además de las atribuciones que las Leyes y Reglamentos les señalen, tendrán las que le delegue el Secretario de Finanzas.
+Las Autoridades mencionadas, además de las atribuciones que las leyes y reglamentos le señalen, tendrán las que les delegue el Secretario de Finanzas.
+
+Las Autoridades señaladas en este artículo se consideran Autoridades Fiscales Municipales en el ejercicio de las facultades a que se refieren los convenios que celebre el Estado y los Municipios en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En contra de los actos que se realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establece este Código.
 
 ###### ARTICULO 14.
 
@@ -156,6 +160,10 @@ Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se af
 ###### ARTICULO 16.
 
 Para efectos fiscales se consideran los plazos, días y horas hábiles así como la habilitación que de los mismos se haga, los que establece el Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+Las Autoridades Fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar constribuciones (sic) en días y horas inhábiles. También se podrá continuar en días y horas inhábiles una diligencia iniciada en día y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
 
 ###### ARTICULO 17.
 
@@ -263,6 +271,10 @@ I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscal
 
 II.- Presentar los avisos, declaraciones normales, complementarias, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aun cuando no haya pago a efectuar, en tanto no presenten los avisos que correspondan para efectos del Registro Federal de Contribuyentes y del Registro Estatal.
+
 III.- Pagar las contribuciones que les correspondan en los términos que dispongan las Leyes Fiscales del Estado.
 
 IV.- Expedir documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, con los requisitos fiscales que las mismas señalan.
@@ -278,6 +290,14 @@ VIII.- Liquidar, retener y enterar correctamente las contribuciones en términos
 IX.- Las demás que señalen las disposiciones fiscales del Estado.
 
 Los sujetos obligados a presentar declaraciones podrán presentar declaraciones complementarias substituyendo los datos de la normal, dentro de los cinco años siguientes a la fecha en que se hubiera presentado aquella.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+La modificación de las declaraciones a que se refiere el párrafo anterior, se efectuará en el formato aprobado por las Autoridades Fiscales, además de acompañar copia fotostática de la declaración normal presentada. Lo dispuesto en este artículo no limita las facultades de comprobación de las Autoridades Fiscales. Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, la diferencia a enterar causará recargos, los que se computarán en los términos del artículo 35 de este Código, a partir de la fecha en que debió hacerse el pago.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+Cuando en las disposiciones fiscales no se señalen plazos para la presentación de declaraciones, se tendrá por establecido el de 15 días el que se contará a partir del día siguiente a aquél en que se realice el hecho del que se trate.
 
 ### CAPITULO IV. DE LAS PROMOCIONES
 
@@ -303,11 +323,19 @@ IV.- Señalar la Autoridad a la que se dirige y el propósito de la promoción.
 
 V.- Señalar domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+Cuando no se cumplan los requisitos a que se refiere este artículo, las Autoridades Fiscales requerirán al promovente para que en un plazo de 15 días cumplan con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 27.
 
 Las instancias o peticiones que se formulen a las Autoridades Fiscales, deberán ser resueltas en el término de cuatro meses o los plazos que específicamente señalen las Leyes Fiscales del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+Dicho plazo empezará a contar a partir del día siguiente a aquél en que el contribuyente haya presentado su promoción debidamente requisitada o haya dado cumplimiento al requerimiento al que se refiere el último párrafo del artículo 26 de este Código.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
 
@@ -330,6 +358,10 @@ En los casos en que las formas para la presentación de avisos, declaraciones, m
 La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las Leyes Fiscales. Se determinará y liquidará conforme a las disposiciones vigentes en el momento de su nacimiento pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
 Cualquiera estipulación privada, relativa al pago de un crédito fiscal que se oponga a lo dispuesto por las Leyes Fiscales, se tendrá como inexistente jurídicamente y por lo tanto no producirá efecto legal alguno.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las Autoridades Fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los 15 días siguientes a la fecha de su causación.
 
 ###### ARTICULO 31.
 
@@ -447,7 +479,9 @@ a) Solicitud por escrito.
 
 b) Que se garantice el interés fiscal mediante fianza.
 
-c) Acompañar a la solicitud los estados financieros actualizados a la fecha de ésta.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+c) acompañar a la solicitud, los documentos que requiera la Autoridad Fiscal.
 
 Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo los accesorios, a la tasa que mediante Ley fije anualmente el Congreso de la Unión, tomando en consideración el costo porcentual promedio de captación de recursos del sistema bancario, proporcionado por el Banco de México.
 
@@ -490,6 +524,24 @@ XVIII.- Conceder subsidios o estímulos fiscales.
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
 
 Las resoluciones favorables a particulares que emitan las Autoridades Fiscales en uso de las facultades que se señalan en las fracciones II y XVII de este artículo, surtirán sus efectos, en el ejercicio en el que se hubieren dictado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 41 Bis.
+
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos, no la hagan dentro de los plazos señalados en las disposiciones fiscales, las Autoridades Fiscales exigirán la presentación del documento respectivo, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+
+I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la Autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+
+Cuando la omisión sea de una declaración de las que se conozca de una manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, las Autoridades Fiscales podrán hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+
+Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente.
+
+Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la Autoridad, éste se disminuirá del importe que se tenga que pagar con la declaración que se presente.
+
+II.- Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de 6 días. Si no se atiende el requerimiento se impondrá la multa correspondiente. La Autoridad en ningún caso formulará más de un requerimiento por una misma omisión.
+
+III.- Embargar precautoriamente, los bienes o la negociación, en términos de los párrafos segundo y tercero del artículo 86 de este Código, cuando el contribuyente haya omitido presentar declaraciones en el último ejercicio o cuando no atienda tres requerimientos de la Autoridad en los términos de la fracción segunda de este artículo por una misma omisión, salvo tratándose de declaraciones en que bastará con no atender un requerimiento.
 
 ### CAPITULO II. DE LOS ACTOS DE VERIFICACION
 
@@ -642,6 +694,10 @@ V. Cuando se omita el pago de una contribución cuya determinación corresponda 
 VI. Las Autoridades Fiscales no impondrán sanciones cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito.
 
 Se considerará que el cumplimiento no es espontáneo, en el caso de que la omisión sea descubierta por las Autoridades Fiscales o haya mediado requerimiento o gestión notificada por las mismas.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+VII.- En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se imponga la sanción, la multa se reducirá en un 20 % de su monto, sin necesidad de que la Autoridad que la impuso dicte nueva resolución.
 
 ###### ARTICULO 58.
 
@@ -823,11 +879,19 @@ V.- Por instructivo, solamente en los casos y las formalidades a que se refiere 
 
 Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique. Cuando la notificación la realice directamente la Autoridad Fiscal, deberá señalarse la fecha y la hora en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia; si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquélla en que debiera surtir efectos la notificación, de acuerdo con el párrafo anterior.
+
 ###### ARTICULO 78.
 
 Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de seis días a las oficinas de las Autoridades Fiscales.
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y si la persona citada o su representante legal no esperasen, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia, para dar cuenta al jefe de la Oficina Recaudadora.
 
 ###### ARTICULO 79.
 
@@ -1133,6 +1197,10 @@ Hecho el pago a que se refiere el párrafo anterior y designado al notario por e
 
 Aún en este caso, el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+
+Una vez adjudicados los bienes al adquiriente, éste deberá retirarlos en el momento en que la Autoridad los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por el almacenaje por un importe equivalente al 25% de una vez el salario mínimo general diario vigente en el Estado.
+
 ###### ARTICULO 119.
 
 Los bienes pasarán a ser propiedad del adquirente libres de todo gravamen y a fin de que se cancelen tratándose de inmuebles, la Autoridad Fiscal lo comunicará al Registro Público de la Propiedad y del Comercio que corresponda, en un plazo que no excederá de quince días.
@@ -1314,3 +1382,13 @@ Quedan sin efecto las resoluciones a que se refiere el último párafo (sic) del
 ###### ARTICULO TERCERO.
 
 A partir del inicio de la vigencia del presente Decreto, se derogan las disposiciones legales reglamentarias y administrativas que se opongan al mismo.
+
+P.O. 21 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Las presentes Reformas y Adiciones, entrarán en vigor el día primero de enero de 1991.
+
+###### ARTICULO SEGUNDO.
+
+A partir del inicio de la vigencia del presente Decreto, se derogan las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
