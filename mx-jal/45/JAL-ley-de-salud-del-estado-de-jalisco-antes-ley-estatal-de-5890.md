@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2004-06-24"
+last_updated: "2004-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1291,7 +1291,9 @@ VIII. Un representante de la Secretaría de Salud Jalisco.
 
 La designación de consejeros deberá recaer en personas de reconocida solvencia moral y profesional. Los consejeros referidos en las fracciones III, IV, V, VI, VII y VIII, deberán además tener el carácter de profesionistas médicos. El cargo de consejero será honorífico y por tanto no remunerado, excepto en el caso del Comisionado.
 
-Podrán ser invitados con derecho a voz un representante del Instituto Mexicano del Seguro Socia (sic) y uno del Instituto de Seguridad y Servicio Social de los Trabajadores del Estado.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2004)</small>
+
+Podrán acreditar un representante ante el Consejo con derecho a voz, previa invitación que les gire la Comisión, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicio Social de los Trabajadores del Estado y la Comisión de Higiene y Salud Pública del Congreso del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3634,3 +3636,9 @@ P.O. 24 DE JUNIO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad con lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
+
+P.O. 22 DE JULIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el estado, de conformidad a lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del estado de Jalisco.
