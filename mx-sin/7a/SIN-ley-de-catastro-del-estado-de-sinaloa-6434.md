@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-catastro-del-estado-de-sinaloa-6434"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-10"
-last_updated: "1994-12-21"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CATASTRO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 10 de enero de 1994.
 
@@ -231,6 +231,10 @@ III. Los Ayuntamientos en la esfera de su competencia.
 
 IV. El Instituto Catastral del Estado de Sinaloa.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V. Las Juntas Municipales de Catastro.
+
 ###### Artículo 8º.
 
 Compete al Gobernador del Estado:
@@ -249,7 +253,7 @@ Compete a la Secretaría de Hacienda Pública y Tesorería:
 
 I. Interpretar para fines administrativos las disposiciones de la presente Ley y sus reglamentos.
 
-II. Aprobar la cartografía catastral y provisionalmente los valores unitarios por zona, región o subregión, tanto del suelo como de las construcciones efectuadas sobre él en zonas urbanas y rurales.
+II. (DEROGADA, P.O. 27 DE DICIEMBRE DE 1996)
 
 III. Celebrar con los Ayuntamientos de los Municipios del Estado convenios y contratos para el cobro de las contribuciones a la propiedad inmobiliaria, o bien celebrar convenios de coordinación para administrar y realizar total o parcialmente, funciones catastrales.
 
@@ -387,63 +391,19 @@ IV. Ejercer las facultades que correspondan a un mandatario general para pleitos
 
 ###### Artículo 17.
 
-El Instituto contará con un Consejo Consultivo Catastral que tendrá su sede en la Ciudad de Culiacán y estará integrado por los propietarios o suplentes siguientes:
-
-I. Un presidente que será el titular de la Secretaría de Hacienda Pública y Tesorería.
-
-II. Un Vicepresidente que será el Director General del Instituto.
-
-III. Cuatro Consejeros Propietarios que serán: Los Secretarios General de Gobierno, Desarrollo Social, Promoción Económica y Fomento Industrial y Administración.
-
-IV. Un Presidente Municipal por cada uno de los tres grupos al que se refiere el Artículo 14 incisos A, B y C de la Ley de Coordinación Fiscal del Estado de Sinaloa. El Presidente Municipal por cada grupo será designado por los Presidentes Municipales que conforman cada grupo, los cuales durarán en su encargo un año, debiéndose repetir este procedimiento anualmente.
-
-V. Un representante y su suplente de los propietarios de fincas urbanas nombrados por el C. Gobernador del Estado de la terna que proponga la organización respectiva estatal que tenga mayor número de afiliados.
-
-VI. Un representante y su suplente de los ejidatarios o comuneros, nombrados por el C. Gobernador del Estado de una terna propuesta por la organización respectiva estatal que cuente con el mayor número de afiliados.
-
-VII. Un representante y su suplente de la Confederación de Asociaciones Agrícolas del Estado de Sinaloa nombrados por el C. Gobernador del Estado, de una terna que proponga la organización.
-
-VIII. Un representante y su suplente de los peritos valuadores, nombrados por el C. Gobernador del Estado, de la terna que proponga la organización respectiva estatal que cuente con el mayor número de afiliados.
-
-IX. Un representante y su suplente de los notarios nombrados por el C. Gobernador del Estado, de una terna que proponga la organización respectiva estatal que cuente con el mayor número de afiliados.
-
-Además, contará con Juntas Municipales Catastrales, como órganos auxiliares, para el desarrollo de los trabajos técnicos en materia de catastro.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### Artículo 18.
 
-En el caso de los secretarios del Poder Ejecutivo, los suplentes serán, el Sub-Secretario nombrado por el Secretario respectivo.
-
-En el caso de los Presidentes Municipales los suplentes serán los tesoreros de los Ayuntamientos respectivos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### Artículo 19.
 
-Los representantes de las asociaciones y organismos particulares serán relevados de su cargo:
-
-> <small>(F. DE E., P.O. 11 DE MARZO DE 1994)</small>
-
-I. Cada tres años en su totalidad, lo que dará lugar a una nueva designación en los términos del artículo 17 de esta Ley, pudiendo ser reelectos.
-
-II. Cuando así lo solicite cualquiera de las instituciones representadas, expresando las razones que motiven la remoción.
-
-III. Por ausencia injustificada a tres sesiones consecutivas.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### Artículo 20.
 
-Son atribuciones del Consejo Consultivo Catastral:
-
-I. Estudiar y emitir opinión sobre los proyectos de tablas generales de valores unitarios tipo formulados por el Instituto, para tal fin el Consejo Consultivo Catastral solicitará a las dependencias oficiales los informes y datos que estime necesarios.
-
-II. Proponer adecuaciones, modalidades y creación de actividades catastrales.
-
-III. Emitir opinión acerca de los estudios y proyectos de fotogrametría, medición y zonificación catastral.
-
-IV. Proponer adecuaciones a los derechos o cualquiera otro ingreso que deba percibir el propio Instituto por las actividades que realice.
-
-V. Asentar en un libro de actas todas las opiniones o acuerdos sobre los asuntos que haya conocido.
-
-VI. Las sesiones de la junta serán válidas cuando asistan la mitad más uno de sus miembros, como mínimo.
-
-VII. Todas las decisiones serán tomadas por mayoría simple.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### Artículo 21.
 
@@ -483,19 +443,43 @@ XIV. Un representante de los pequeños propietarios.
 
 XV. Un representante de los peritos valuadores, miembro de la organización respectiva municipal que cuente con el mayor número de afiliados.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+Cuando las Juntas Municipales lo consideren necesario, podrán aumentar el número de sus integrantes.
+
 ###### Artículo 23.
 
 Las Juntas Municipales tendrán las siguientes atribuciones:
 
 I. Emitir opinión sobre los planes y programas de Catastro para el Municipio que corresponda.
 
-II. Emitir opinión a la formulación y elaboración de las tablas de valores catastrales correspondientes.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III. Orientar las propuestas de valores unitarios del Municipio, para que sirvan de base en una aplicación justa y equitativa de los impuestos predial y de adquisición de inmuebles.
+II. Emitir la aprobación correspondiente de las Tablas de Valores Catastrales.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III. Proponer adecuaciones, modalidades y creación de actividades catastrales.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 IV. Conocer del recurso de revocación establecido en la presente Ley.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+V. Asentar en un libro de actas todas las opiniones o acuerdos sobre los asuntos que haya conocido.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VI. Las sesiones de las Juntas serán válidas cuando asistan la mitad más uno de sus miembros, como mínimo.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VII. Todas las decisiones serán tomadas por mayoría simple.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+VIII. Emitir opinión acerca de los estudios y proyectos de fotogrametría, medición y zonificación catastral.
 
 La designación, sustitución y remoción de los integrantes de la Junta Municipal se establecerá en el Reglamento de la presente Ley.
 
@@ -529,9 +513,11 @@ Todos los predios ubicados en el Estado, deberán ser objeto de avalúo, incluye
 
 El valor catastral será determinado por el Instituto, el cuál podrá ser provisional o definitivo. En ambos casos el valor surtirá sus efectos a partir del día siguiente a aquel en que fue notificado por correo el interesado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 31.
 
-Para los efectos del artículo anterior, el Instituto formulará planos y tablas generales de valores unitarios de zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este artículo, deberán ser aprobadas en primera instancia por la Secretaría de Hacienda Pública y Tesorería, previa opinión favorable del Consejo Consultivo y aprobados en forma definitiva por el C. Gobernador, quien ordenará su publicación en el órgano oficial del Estado de Sinaloa.
+Para los efectos del Artículo anterior, el Instituto formulará planos y tablas generales de valores unitarios de zona, región y subregión para ser aplicados a los respectivos lotes tipo. Tratándose de predios rurales, la formulación de las tablas generales se hará atendiendo a su clase y categoría, determinándose el valor unitario por hectárea. Las tablas y planos a que se refiere este Artículo, serán aprobadas por las Juntas Municipales y serán presentadas al Ejecutivo Estatal para que envíe la Iniciativa de Decreto correspondiente al H. Congreso del Estado para su aprobación definitiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
@@ -542,6 +528,10 @@ Los valores unitarios que proponga el Instituto, deberán ser para el caso del t
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 En los casos en que no se haya hecho la revisión anual a que se refiere el párrafo anterior, los valores catastrales se podrán actualizar aplicando el factor que resulte de dividir el Indice Nacional de Precios al Consumidor, publicado por el Banco de México en el Diario Oficial de la Federación del penúltimo mes del año de calendario que se actualiza, entre el citado índice correspondiente al penúltimo mes del año de calendario anterior al de esa fecha.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de fincas urbanas o predios rústicos que no obtengan producción, la base para la aplicación del Impuesto Predial, podrá ser el valor de los inmuebles que se determine o declare mediante avalúo practicado por perito autorizado debidamente registrado ante el Instituto, o el valor catastral determinado conforme a la presente Ley.
 
 Para la aplicación del Impuesto Predial rústico en los que la base gravable sea la producción anual comercializada a precio medio rural de las actividades agropecuarias, la tabla anual de valores será la que determine la Secretaría de Hacienda Pública y Tesorería del Gobierno del Estado con la participación de los organismos estatales que representan a dichas actividades.
 
@@ -685,13 +675,15 @@ Para el establecimiento de los valores unitarios del suelo y construcciones se s
 
 a). El Instituto Catastral del Estado, realizará los estudios técnicos para formular la propuesta de valores unitarios del suelo y construcciones.
 
-b). El Instituto presentará su propuesta de valores unitarios ante la Secretaría de Hacienda Pública y Tesorería para su consideración.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-c). Si la Secretaría de Hacienda Pública y Tesorería aprueba provisionalmente la propuesta, la enviará al Consejo Consultivo Catastral para que éste emita opinión acerca de la propuesta. A la reunión en que el Consejo Consultivo Catastral analice y emita opinión, deberá citarse por escrito a los miembros que lo integran cuando menos con 72 horas de anticipación.
+b). El Instituto remitirá la propuesta de valores unitarios del suelo y construcción a las Juntas Municipales para su revisión, modificación o aprobación en su caso, los cuales serán presentados al Ejecutivo Estatal para que envíe la Iniciativa de Decreto correspondiente al H. Congreso del Estado para su aprobación definitiva. A la reunión en que las Juntas Municipales analicen y aprueben en su caso, deberá citarse por escrito a los miembros que las integran cuando menos con 72 horas de anticipación.
 
-d). Cumplido lo anterior, el Consejo Consultivo Catastral emitirá su opinión, si ésta fuera favorable a la propuesta, pasará de inmediato a la Secretaría de Hacienda Pública y Tesorería del Estado para que ésta la envíe al C. Gobernador para su aprobación definitiva y la mande publicar en el Organo Oficial del Estado.
+c). (DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
-e). Si el Consejo Consultivo Catastral emitiera opinión negativa parcial o totalmente, el Instituto deberá reconsiderar su propuesta, en el caso de modificar la propuesta original, se seguirá el procedimiento previsto en las fracciones anteriores, en el caso de que el Instituto resuelva ratificar la propuesta, la turnará a la Secretaría de Hacienda Pública y Tesorería, quien discutirá con el C. Gobernador que será quien resuelva en definitiva.
+d). (DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
+
+e). (DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ### CAPITULO NOVENO. DE LOS DERECHOS Y LAS OBLIGACIONES
 
@@ -699,7 +691,9 @@ e). Si el Consejo Consultivo Catastral emitiera opinión negativa parcial o tota
 
 Los propietarios y poseedores de predio tienen derecho a:
 
-I. Formar parte del Consejo Consultivo Catastral conforme a lo dispuesto por esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+I. Formar parte de las Juntas Municipales conforme a lo dispuesto por ésta Ley y su Reglamento.
 
 II. Se haga de su conocimiento los resultados cuando los hubiere de los avalúos realizados en el predio.
 
@@ -950,3 +944,25 @@ P.O. 21 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de 1997.
+
+###### ARTICULO CUARTO.
+
+Durante el ejercicio fiscal de 1997, el Impuesto Predial Sobre Fincas Urbanas que resulte a cargo de contribuyentes pensionados y jubilados o de sus cónyuges, en ningún caso será mayor a aquel que se hubiere determinado conforme a las disposiciones vigentes al 31 de diciembre de 1996.
+
+###### ARTICULO QUINTO.
+
+Durante el año de 1997, el cálculo del Impuesto Predial Sobre Fincas Urbanas se efectuará considerándose el porcentaje de la base gravable sobre la cual en el año de 1996 se aplicó la tarifa contenida en la fracción segunda del Artículo 52 de la presente Ley, de acuerdo a lo siguiente:
+
+A).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 80%, para el presente ejercicio fiscal será de un 90%;
+
+B).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 85%, para el presente ejercicio fiscal será de un 95%; y
+
+C).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 90 y 95%, para el presente ejercicio fiscal será de un 100%.
