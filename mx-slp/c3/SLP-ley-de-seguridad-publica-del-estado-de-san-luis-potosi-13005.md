@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-13005"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-05"
-last_updated: "1997-02-05"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 5 de febrero de 1997.
 
@@ -43,9 +43,11 @@ LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 1.
 
-Esta ley reglamenta las facultades otorgadas al Ejecutivo del Estado por los artículos 21 y 115 Fracciones III, inciso h y VII, de la Constitución Política de los Estados Unidos Mexicanos, Artículos 80, fracción XVI, 88 y 89 de la Constitución Política del Estado, respecto de los cuerpos policíacos y establece la planeación, organización y operación de los cuerpos de seguridad pública, seguridad privada y tránsito en la Entidad.
+La presente Ley es reglamentaria de la disposición contenida en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en relación con los artículos 80 fracción XVI, 88, 89 y 114 fracción III, inciso h) y j) quinto párrafo, de la Constitución Política del Estado; y establece la planeación, organización y operación de los cuerpos de seguridad pública y seguridad privada en la Entidad.
 
 ###### ARTICULO 2.
 
@@ -61,9 +63,11 @@ El servicio de seguridad pública es una función de interés general, de carác
 
 La Dirección General de Protección Social y Vialidad, en coordinación con las autoridades competentes, establecerá las bases de datos sobre la seguridad pública, para el efecto de integrar al Consejo Estatal de Seguridad Pública los instrumentos de información acordes con el Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 5.
 
-De conformidad con lo dispuesto por el Artículo 115, fracción VII, de la Constitución Política de los Estados Unidos Mexicanos, el Ejecutivo del Estado podrá asumir transitoriamente el mando directo e inmediato de la fuerza pública municipal, en todo o en parte del territorio del Estado, cuando las circunstancias así lo ameriten, por sí o a través de la Dirección General de Protección Social y Vialidad.
+De conformidad con lo señalado por el artículo 1° de la presente Ley, la Policía Preventiva Municipal estará al mando del Presidente Municipal; aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 ###### ARTICULO 6.
 
@@ -141,7 +145,9 @@ VII. Ejercer las demás facultades que le confiere esta ley y los ordenamientos 
 
 Compete a los presidentes municipales:
 
-I. Mantener la tranquilidad y el orden público en su Municipio, previniendo la comisión de conductas antisociales y protegiendo a las personas en sus bienes y derechos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. El mando de la Policía Municipal a fin de mantener la tranquilidad y el orden público en su Municipio, previniendo la comisión de conductas antisociales y protegiendo a las personas en sus bienes y derechos;
 
 II. Dictar, en el ámbito de su competencia, las medidas necesarias para la observancia y cumplimiento de las disposiciones legales sobre seguridad pública;
 
@@ -579,7 +585,9 @@ II. Custodia temporal de empresas, comercios o casas habitación;
 
 III. Vigilancia y seguridad de eventos públicos o particulares, colectivos o privados; y
 
-IV. Otros servicios.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV. Otros servicios relacionados con sus atribuciones.
 
 La dependencia fijará la forma y el número de efectivos en que dichos servicios sean prestados y los derechos que se causen serán enterados en las cajas de las oficinas recaudadoras, en los términos previstos por la Ley de Hacienda Estatal o Municipal, según corresponda.
 
@@ -840,3 +848,9 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. JESUS EDUARDO NOYOLA BERNAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
