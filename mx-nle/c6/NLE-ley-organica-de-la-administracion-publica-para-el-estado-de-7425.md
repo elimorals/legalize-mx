@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1995-01-20"
+last_updated: "1995-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -473,13 +473,11 @@ VII.- Proponer al Ejecutivo la supresión de institución de asistencia social q
 
 VIII.- Llevar a cabo en materia de asistencia social, las funciones normativas que establezcan las Leyes;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 1995)</small>
+IX.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 07 DE JUNIO DE 1995)
 
-IX.- Formular, en conjunto con la Oficialía Mayor de Gobierno, los catálogos del patrimonio histórico estatal, de sus monumentos y del acervo pictórico del Estado;
+X.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 07 DE JUNIO DE 1995)
 
-X.- Organizar y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos del patrimonio cultural del Estado;
-
-XI.- Organizar por si misma, o con el apoyo de los sectores privado y social, exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones científicas de interés cultural;
+XI.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 07 DE JUNIO DE 1995)
 
 XII.- Organizar y administrar instalaciones deportivas; determinar y organizar la participación oficial del Estado en competencias deportivas, regionales y nacionales, organizar desfiles atléticos y todo genero de eventos deportivos;
 
@@ -842,3 +840,13 @@ Los recursos humanos, financieros y materiales con que cuenten las unidades admi
 ###### ARTICULO CUARTO.
 
 Las atribuciones y demás facultades que otras leyes, reglamentos y disposiciones generales otorguen a la Coordinación de Administración, se entenderán conferidas a la Oficialía Mayor de Gobierno.
+
+P.O. 07 DE JUNIO DE 1995
+
+LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+PRIMERO:- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+QUINTO:- Se derogan las fracciones IX, X y XI del artículo 23 de la Ley Orgánica de la Administración Pública para el Estado y todas las disposiciones que contravengan lo establecido por esta Ley.
