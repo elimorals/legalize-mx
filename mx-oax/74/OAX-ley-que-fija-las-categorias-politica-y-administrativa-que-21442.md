@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-fija-las-categorias-politica-y-administrativa-que-21442
 country: "mx"
 rank: "ley"
 publication_date: "1942-06-13"
-last_updated: "1974-06-15"
+last_updated: "1985-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE FIJA LAS CATEGORIAS POLITICA Y ADMINISTRATIVA QUE EN LO SUCESIVO OSTENTARAN LOS DIFERENTES POBLADOS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 13 de Junio de 1942.
 
@@ -48,6 +48,10 @@ rancherías,
 (DEROGADA, P.O. 23 DE FEBRERO DE 1974) (REPUBLICADA, P.O. 15 DE JUNIO DE 1974)
 
 Congregaciones.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 1985)</small>
+
+Núcleos Rurales
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1974)</small>
 
@@ -83,11 +87,13 @@ III.- Dentro de la denominación de pueblos, se considerarán los núcleos de po
 
 IV.- El núcleo de población formado por CINCO MIL HABITANTES, será reconocido con el nombre de Ranchería.
 
-(REFORMADA, P.O. 23 DE FEBRERO DE 1974)(REPUBLICADA, P.O. 15 DE JUNIO DE 1974)
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1985)</small>
 
-V.- Con la denominación de Congregaciones, serán reconocidos los núcleos de poblaciones campesinas o ejidales que vivan del cultivo de la tierra, asentados de un modo permanente o núcleos de población que se constituyan en un lugar determinado con elementos provenientes de otra u otras poblaciones y en ambos casos estén integrados en número inferior a CINCO MIL HABITANTES.
+V.- Con la denominación de Congregaciones, serán reconocidos los núcleos de poblaciones campesinas o ejidales que vivan del cultivo de la tierra, asentados de un modo permanente o núcleos de población que se constituyan en un lugar determinado con elementos provenientes de otra u otras poblaciones y en ambos casos, estén integrados por lo menos con QUINIENTOS HABITANTES.
 
-VI.- (N. DE E. EL CONTENIDO DE LA PRESENTE FRACCION SE FUSIONA CON EL DE LA FRACCION V, SEÑALANDOLO ASI EL LEGISLADOR, P.O. 23 DE FEBRERO DE 1974)(REPUBLICADA, P.O. 15 DE JUNIO DE 1974)
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 1985)</small>
+
+VI.- La población que cuente como mínimo con CIEN HABITANTES, tendrá la categoría política de NUCLEO RURAL.
 
 ###### Articulo 2o.
 
@@ -111,11 +117,11 @@ Se dará la categoría administrativa de Municipio, al pueblo que cuente como m�
 
 El poblado que cuente con CINCO MIL o más habitantes, ostentará la categoría administrativa de Agencia Municipal.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1974)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1985)</small>
 
 ###### Articulo 5o.
 
-La población que cuente con menos de CINCO MIL HABITANTES, tendrá la categoría administrativa de Agencia de Policía.
+La población que cuenta como mínimo con QUINIENTOS HABITANTES, tendrá la categoría administrativa de Agencia de Policía.
 
 ###### Articulo 6o.
 
@@ -133,7 +139,15 @@ En las rancherías funcionarán Agentes Municipales. Estos tendrán el carácter
 
 ###### Articulo 9o.
 
-En las Congregaciones se establecerán Agencias de policía destinadas a la vigilancia del orden, al cumplimiento de los acuerdos y determinaciones de los Ayuntamientos y para el cobro de los arbitros municipales.
+Dentro de los tres días siguientes al en que quede instalado el Ayuntamiento, éste nombrará un Agente Municipal con su respectivo Suplente para cada una de las Agencias de la Municipalidad; pero en las poblaciones que tuvieren menos de CINCO MIL HABITANTES, solamente se nombrará un Agente de Policía. Dentro del mismo período de tiempo se hará la designación de las diversas comisiones del Ayuntamiento.
+
+> <small>(ADICIONADO SEGUNDO PARRAFO,17 DE AGOSTO DE 1985)</small>
+
+En cada una de las poblaciones que cuenten como mínimo con QUINIENTOS HABITANTES, se nombrará un Agente de Policía y su respectivo suplente.
+
+> <small>(ADICIONADO TERCER PARRAFO, P.O. 17 de AGOSTO DE 1985)</small>
+
+En cada una de las poblaciones que cuenten como mínimo con CIEN HABITANTES, se nombrará un Delegado y su respectivo suplente, debiendo ser el nombramiento a propuesta DE LOS HABITANTES DE CADA LUGAR.
 
 TRANSITORIOS:
 
@@ -164,3 +178,9 @@ UNICO.- El presente decreto empezará a surtir sus efectos a partir de la fecha 
 P.O. 15 DE JUNIO DE 1974.
 
 UNICO.- El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado y no tendrá efecto retroactivo.
+
+P.O. 17 DE AGOSTO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
