@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1953-01-10"
+last_updated: "1953-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1953.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -141,9 +141,9 @@ I.- Ser ciudadano mexicano por nacimiento y tener una residencia en el Estado no
 
 II.- Tener 25 años cumplidos el día de la elección.
 
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 1953)</small>
 
-III.- No ejercer en el Estado cargo militar alguno por lo menos dos años antes de la elección.
+III.- No estar en servicio activo en el Ejercito Nacional, ni tener mando en la Policía en el Distrito en que se haga la elección cuando menos 90 días antes de ella.
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -173,25 +173,39 @@ La ley castigará severamente a la autoridad que infrinja lo dispuesto en este a
 
 El cargo de Diputado es renunciable por causa que calificará el Congreso y por ningún motivo será gratuito.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
+
 ###### Artículo 28.
 
-El Congreso se instalará el día 16 de septiembre y, tendrá dos periodos de sesiones cada año: el primero comenzará el mismo día 16 y concluirá el 15 de diciembre y el segundo principiará el 16 de marzo y terminará el 15 de junio. Ambos periodos son prorrogables hasta por treinta días hábiles.
+El Congreso se instalará el día primero de octubre de cada año; tendrá un periodo de sesiones ordinarias que principiarán en la fecha expresada y concluirá el 31 de enero del año siguiente durante el que se ocupará:
 
-(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+I.- Del examen y aprobación de las cuentas públicas del año anterior;
+
+II.- Del examen, discusión y aprobación del Presupuesto del año fiscal siguiente;
+
+III.- Del estudio, discusión y votación de las iniciativas de Ley que se presenten, y de resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
 
 ###### Artículo 29.
 
-En casos urgentes, puede el Congreso en sus recesos abrir periodos extraordinarios de sesiones hasta por treinta días hábiles improrrogables, o bien, celebrar sesiones extraordinarias si el asunto o asuntos que las motiven son de resolverse en ellas.
+El Congreso, fuera del periodo que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 58, fracción VIII, o por la Comisión Permanente en los casos de la fracción III, del artículo 36; debiendo ocuparse en ellas solo de los asuntos por los cuales se haya hecho la Convocatoria.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
 
 ###### Artículo 30.
 
-En los casos previstos en el artículo anterior, deben expresarse en las convocatorias respectivas el asunto o asuntos que hayan de tratarse en periodo o sesión extraordinaria.
+Las Sesiones del Congreso serán públicas a excepción de aquellas que, por la calidad de los negocios que deban tratarse, el Reglamento Interior prevenga que sean secretas.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1928)</small>
+No podrá el Congreso abrir sus Sesiones sin la concurrencia de cuatro de sus miembros.
+
+En el periodo en que se inicien las actividades de una nueva Legislatura los Diputados deberán reunirse el día señalado por la Ley y en caso de no haber "quórum", los presentes compelerán a los faltantes para que asistan dentro de los diez días siguientes, con la advertencia de que si no lo hicieren, se entenderá por este solo hecho, que no aceptan su encargo, llamándose luego a los Suplentes, quienes deberán presentarse en un plazo igual y si tampoco lo hicieren, se declarará vacante el Puesto y se convocará a nuevas elecciones.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1953)</small>
 
 ###### Artículo 31.
 
-Cada año, al abrirse el período ordinario de sesiones del Congreso, el 16 de Septiembre, asistirá el Gobernador con el único objeto de informar suscintamente (sic) sobre el estado que guarden los negocios públicos, y el Presidente de la Asamblea, contestará en términos generales.
+A la apertura del Periodo de Sesiones Ordinarias del Congreso, asistirá el Gobernador del Estado y el Presidente del Supremo Tribunal. El primero presentará el informe por escrito en el que manifieste el estado general que guarde la Administración Pública de la Entidad; el Presidente del Congreso contestará en términos generales.
 
 (REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -1570,3 +1584,13 @@ ARTICULO TRANSITORIO. Este Decreto surtirá sus efectos a partir de su publicaci
 P.O. 10 DE ENERO DE 1953.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MARZO DE 1953.
+
+###### ARTICULO PRIMERO
+
+- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Los Diputados que actualmente forman la XXXVI Legislatura del Estado, terminarán su período el día treinta de septiembre del año de 1954, y por esta única vez, los próximos períodos para Diputados que integren la XXXVII Legislatura, comprenderán del primero de octubre de 1954 al día último de septiembre de 1955, y para los próximos Munícipes, del primero de enero de 1955 al último de diciembre del mismo año.
