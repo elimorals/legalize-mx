@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1976-10-20"
+last_updated: "1978-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1978.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -10883,9 +10883,11 @@ Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa v
 
 Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2184, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esta Fracción.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2187.
 
-El vendedor a que se refiere el artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y al margen de la respectiva inscripción de venta se hará una anotación preventiva en la que se haga constar esta limitación de dominio.
+El vendedor a que se refiere el Artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y la limitación de dominio se anotará preventivamente en relación con la inscripción del bien de que se trate.
 
 ###### ARTICULO 2188.
 
@@ -13503,17 +13505,21 @@ La fianza puede substituirse con prenda o hipoteca.
 
 Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2724.
 
-La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que al margen de la inscripción de propiedad correspondiente del bien raíz que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
+La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que en el Libro correspondiente se ponga nota de otorgamiento de la fianza, en relación con la inscripción de la propiedad del bien raíz que se designó para comprobar la solvencia del fiador.
 
-Extinguida ésta, dentro del mismo término de tres días, se dará aviso al Registro Público, para que haga la cancelación de la nota marginal.
+Extinguida la fianza, dentro del mismo término de tres días, se dará aviso al Registro Público, para que haga la cancelación de la anotación relativa.
 
 La falta de avisos hace responsable al que debe darlos, de los daños y perjuicios que su omisión origine.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2725.
 
-En los certificados de gravamen que se expidan en el Registro Público, se harán figurar las notas marginales de que habla el artículo anterior.
+En los certificados de gravamen que se expidan en el Registro Público, se harán figurar las anotaciones de que trata el Artículo anterior.
 
 ###### ARTICULO 2726.
 
@@ -13827,19 +13833,25 @@ La hipoteca constituída para la seguridad de una obligación futura o sujeta a 
 
 Si la obligación asegurada estuviese sujeta a condición resolutoria inscrita, la hipoteca no dejará de surtir su efecto respecto a tercero, sino desde que se haga constar en el registro el cumplimiento de la condición.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2790.
 
-Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así, por medio de una nota al margen de la inscripción hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituída.
+Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así, por medio de una anotación relacionada con la inscripción hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituída.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
 
 ###### ARTICULO 2791.
 
-Para hacer constar en el Registro el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
+Para hacer constar en el Registro el cumplimiento de las condiciones a que se refieren los Artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se haga la anotación a que se refiere el Artículo anterior y expresando claramente los hechos que deben dar lugar a ella.
 
 Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro a la autoridad judicial para que, previo el procedimiento correspondiente, dicte la resolución que proceda.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2792.
 
-Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior; no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
+Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior; no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una anotación, según los casos.
 
 ###### ARTICULO 2793.
 
@@ -14283,15 +14295,19 @@ Con los bienes restantes serán pagados todos los demás créditos que no estén
 
 El Ejecutivo del Estado designará las poblaciones en donde deba establecerse la oficina denominada "Registro Público".
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2867.
 
-El Reglamento fijará el número de secciones de que se componga el Registro y la Sección en que deban inscribirse los títulos que se registran.
+La Ley Reglamentaria fijará los libros que deban integrar el Registro y el sistema y forma necesarios para efectuar las inscripciones.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
 
 ###### ARTICULO 2868.
 
-El Registro será público. Los encargados de la Oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros de Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los Libros de Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El Registro será público, los encargados de la Oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones, anotaciones o copias que obren en los Libros del Registro, de sus reproducciones en microfilmación, y de los documentos relacionados con los asientos del Registro. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los Libros de Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
-Tratándose de testamentos ológrafos depositados en el Registro se observará lo dispuesto en el artículo 1451.
+Tratándose de testamentos ológrafos depositados en el Registro se observará lo dispuesto en el Artículo 1451.
 
 ### CAPITULO III. DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION
 
@@ -14425,11 +14441,13 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2885.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del Notario y sin cobro de derecho alguno hará inmediatamente una anotación preventiva en relación con la inscripción de propiedad, en el Libro correspondiente. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el Párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2878, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+Si el documento en que conste alguna de las operaciones que se mencionan en el Párrafo anterior fuere privado, las autoridades señaladas en las Fracción III del Artículo 2878, deberán dar el aviso a que este Artículo se refiere, el que producirá los mismos efectos que el dado por el Notario.
 
 ###### ARTICULO 2886.
 
@@ -14449,9 +14467,11 @@ En los casos de las Fracciones I y II del artículo que precede, los interesados
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+
 ###### ARTICULO 2889.
 
-El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+La Ley Reglamentaria establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
 
 ### CAPITULO V. DE LAS INSCRIPCIONES DE POSESION
 
@@ -14682,3 +14702,7 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P.O. 20 DE OCTUBRE DE 1976.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE JULIO DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor a los veinte días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
