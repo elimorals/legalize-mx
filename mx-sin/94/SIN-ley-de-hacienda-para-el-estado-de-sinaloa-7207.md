@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1983-06-17"
+last_updated: "1983-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 1983.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -4629,9 +4629,11 @@ ART. 403.- El Secretario de Hacienda Pública y Tesorería, el Sub-Secretario de
 
 ART. 404.- Los escritos y las promociones de los causantes no suspenderán el procedimiento económico-coactivo, sino en los casos en que el promovente asegure el interés fiscal en cualquiera de las formas establecidas por esta Ley.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1983)</small>
+
 ART. 405.- Los honorarios de los ejecutores notificadores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
 
-Los ejecutores notificadores percibirán a título de honorarios el doce por ciento sobre el impuesto principal sin que en ningún caso pueda exceder de $1,000.00 lo que por este concepto les corresponda.
+Los ejecutores notificadores recibirán a título de honorarios el 16% sobre el crédito fiscal notificado, sin que en ningún caso pueda exceder de $ 2,000.00, lo que por este concepto corresponda.
 
 ## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -4859,19 +4861,17 @@ III.- Crédito o créditos fiscales reclamados.
 
 ART. 439.- Hechas esas aplicaciones, el remanente, si lo hubiere, quedará a disposición del ejecutado salvo que haya orden de retención dictada por autoridades judiciales o administrativas.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1983)</small>
+
 ART. 440.- Las personas que intervengan en la ejecución de un embargo, disfrutarán de los honorarios que señala la siguiente:
 
 T A R I F A:
 
-I.- Al ejecutor por cada diligencia de embargo siempre que el adeudo exceda de $20.00, pero no de $ 100.00 $ 5.00
+1.- Al ejecutor por cada diligencia de embargo de embargo se pagarán $ 50.00;
 
-II.- Cuando el adeudo exceda de $ 100.00 sin llegar a $ 1,000.00 $ 10.00
+2.- Los depositarios disfrutarán por todo el tiempo que tengan a su cargo los bienes secuestraos, de un 5% sobre el valor del crédito fiscal; y,
 
-III.- Por adeudos de $ 1,000.00 en adelante se abonarán $ 15.00
-
-IV.- Los depositarios disfrutarán por todo el tiempo que tengan a su cargo los bienes secuestrados, de un 5% sobre el valor del crédito fiscal;
-
-V.- Los interventores o administradores a que se refiere el Artículo 415 y los peritos mencionados en el Artículo 430 de esta Ley, disfrutarán de los emolumentos que en cada caso acuerde la Secretaría de Finanzas a cargo del deudor.
+3.- Los interventores o administradores a que se refiere el Artículo 415 y los peritos mencionados en el Artículo 430 de esta Ley, disfrutarán de los emolumentos que en cada caso acuerde la Secretaría de Hacienda Pública y Tesorería y que serán con cargo al deudor.
 
 ### CAPITULO VI. Del Auxilio que están obligados a prestar las autoridades políticas
 
@@ -5360,3 +5360,9 @@ P.O. 17 DE JUNIO DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE AGOSTO DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
