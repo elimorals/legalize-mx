@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2000-10-05"
+last_updated: "2000-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,2487 +21,2847 @@ state: "JAL"
 ---
 # CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
+LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
-Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+ERNESTO RUFFO APPEL.
 
-Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
-DECRETO
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
 
-Número 17002.- El Congreso del Estado Decreta:
+LA H. XIV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
 
-CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
+LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
+
+I N D I C E
 
 # LIBRO PRIMERO. SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-## TITULO UNICO
+## TITULO PRIMERO. ORDENACION Y REGULACION DEL DESARROLLO URBANO
 
 ### CAPITULO I. Disposiciones Generales
 
-###### Artículo 1.
+###### ARTICULO 1.
 
-Las disposiciones de este Código son de orden público e interés social y tienen por objeto:
+Las disposiciones de esta Ley y sus reglamentos, así como los Programas y Declaratorias que expidan las autoridades competentes conforme a sus normas, son de orden público e interés social.
 
-I. Establecer las bases de un Sistema Estatal de Asistencia Social, que promueva la prestación de los servicios a que se refiere el presente Código, la Ley Estatal de Salud, los Códigos Civil y de Procedimientos Civiles de nuestro Estado y los demás ordenamientos aplicables;
+Todas las acciones de urbanización en áreas y predios que generen la transferencia de suelo rural a urbano, las fusiones, subdivisiones y fraccionamiento de terrenos, los cambios en la utilización de éstos, así como todas las obras de urbanización y edificación que se realicen en la entidad, quedan sujetas a cumplir con las disposiciones de la presente Ley, siendo obligatoria su observancia tanto para las entidades públicas como para los particulares.
 
-II. Coordinar y promover las acciones de los organismos en el Estado que presten los servicios asistenciales;
+###### ARTICULO 2.
 
-III. Garantizar la concurrencia y colaboración de los gobiernos federal, estatal y municipales, así como la participación del sector privado, en la prestación de los servicios de asistencia social;
+La presente Ley tiene por objeto:
 
-IV. Regular el funcionamiento de las instituciones públicas y privadas que presten servicios asistenciales; y
+I. Establecer las normas que regulen la concurrencia del Estado y los Municipios que lo integran, al participar en la ordenación y regulación de los asentamientos humanos;
 
-V. Establecer los lineamientos para apoyar a los sujetos de asistencia social señalados en este ordenamiento.
+II. Fijar normas básicas para planear la fundación, conservación, mejoramiento y crecimiento de los centros de población en esta entidad Federativa;
 
-###### Artículo 2.
+III. Establecer las normas conforme a las cuales el Gobierno del Estado y los Ayuntamientos ejercerán sus atribuciones para zonificar el territorio y determinar las correspondientes provisiones, usos, destinos de áreas y predios;
 
-Para los efectos de este Código, se entiende por:
+IV. Fijar las normas básicas para reglamentar, autorizar, controlar y vigilar la urbanización de áreas y predios, así como la edificación en los mismos;
 
-I. Asistencia Social.- Es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+V. Definir las disposiciones que regulen toda acción inmobiliaria que emprendan las entidades de la Administración Pública Federal, Estatal y Municipal, o los particulares con el fin de ejecutar las acciones que se determinen; y,
 
-II. Asistencia Social Pública.- Son los servicios que promueven y prestan las dependencias e instituciones públicas dedicadas a la asistencia social;
+VI. Establecer el interés social y la utilidad pública para los casos en que proceda la expropiación de bienes de propiedad privada, a fin de dar cumplimiento a las disposiciones de esta Ley y a los Planes, Programas y Declaratorias que se expidan.
 
-III. Asistencia Social Privada.- Son los servicios que prestan las personas físicas y jurídicas privadas a que se refiere este Código;
+###### ARTICULO 3.
 
-IV. Sistema Estatal.- Es el Sistema Estatal de Asistencia Social del Estado de Jalisco.
+La ordenación y regulación de los asentamientos humanos en el Estado tenderá a mejorar las condiciones de vida de la población urbana y rural mediante:
 
-###### Artículo 3.
+I. El aprovechamiento en beneficio social de los elementos naturales susceptibles de apropiación tomando las medidas necesarias para la conservación del equilibrio ecológico, con el fin principal de obtener las mejores condiciones ambientales para el desarrollo de la población y lograr una distribución equitativa de la riqueza pública;
 
-El Gobierno del Estado y los ayuntamientos dentro del ámbito de sus jurisdicciones, reglamentarán, promoverán y prestarán servicios de asistencia social a través de las siguientes instituciones:
+II. El desarrollo socioeconómico sustentable del Estado, armonizando la interrelación de las ciudades y el campo y distribuyendo equitativamente los beneficios y cargas del proceso del desarrollo urbano;
 
-I. La Secretaría.- Es la Secretaría de Salud del Estado;
+III. La distribución equilibrada y sustentable de los centros de población en el territorio de los municipios, integrándolos en el marco del desarrollo estatal y nacional;
 
-II. Organismo Estatal.- Es el organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
+IV. La adecuada interrelación socioeconómica de los centros de población de los municipios del Estado con el sistema estatal y nacional;
 
-III. Organismo Municipal.- Es el organismo público descentralizado de cada municipio denominado Sistema Municipal para el Desarrollo Integral de la Familia;
+V. La más eficiente interrelación entre los sistemas de convivencia y de servicios en cada centro de población, particularmente la creación y mejoramiento de condiciones favorables para la relación adecuada entre zonas industriales y de vivienda de trabajadores, el transporte entre ambas y las justas posibilidades de trabajo y descanso;
 
-IV. Instituto.- Es el Instituto Jalisciense de Asistencia Social;
+VI. El fomento de ciudades con dimensiones adecuadas a las características regionales, a fin de evitar que por su desproporción produzca impactos económicos negativos y grave deterioro social y humano;
 
-V. Instituto Cabañas; y
+VII. El mejoramiento de la calidad de vida que la comunidad demanda;
 
-VI. Aquéllas otras que conforme a la ley se encuentran constituidas o se lleguen a constituir.
+VIII. La mayor participación ciudadana en la solución de los problemas que genera la convivencia en los asentamientos humanos;
 
-###### Artículo 4.
+IX. La regulación del mercado de los terrenos dedicados a la vivienda de interés social y popular;
 
-Para los efectos de este Código se consideran servicios de asistencia social los siguientes:
+X. La promoción de obras para que todos los habitantes del Estado tengan vivienda digna;
 
-I. La atención a personas que por sus problemas de discapacidad o indigencia, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+XI. La protección del patrón de asentamiento humano rural y de las comunidades indígenas;
 
-II. La atención en establecimientos especializados a menores, senescentes y discapacitados en estado de abandono o maltrato;
+XII. La estructuración interna de los centros de población y la dotación oportuna de infraestructura, equipamiento y servicios urbanos;
 
-III. La promoción de bienestar del senescente y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
+XIII. La prevención, control y atención de riesgos y contingencias ambientales y urbanos en los centros de población;
 
-IV. El ejercicio de la tutela de los menores e incapaces, en los términos de las disposiciones legales aplicables;
+XIV. La conservación y mejoramiento del ambiente en los asentamientos humanos;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a menores, ancianos, personas discapacitadas, incapaces o indigentes;
+XV. El ordenado aprovechamiento de la propiedad inmobiliaria en los centros de población; y
 
-VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+XVI. La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano;
 
-VII. La prestación de servicios funerarios a personas carentes de recursos;
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
 
-VIII. La orientación nutricional y la alimentación a personas de escasos recursos y a la población de zonas marginales;
+XVII. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y accesibilidad que requieran las personas con discapacidad.
 
-IX. La promoción del desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante su participación activa y organizada en acciones que se lleven a cabo en su propio beneficio;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
-X. Promover e impulsar el desarrollo comunitario en localidades de zonas marginadas;
+###### ARTICULO 4.
 
-XI. El fomento de acciones que propicien la preservación de los derechos de los menores y la satisfacción de sus necesidades;
+Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisiones, usos, reservas y destinos de áreas, zonas y predios, son de orden público e interés social, por lo que el ejercicio del derecho de propiedad sobre los bienes inmuebles comprendidos en ellos estará sujeto a las normas contenidas en los mismos, de acuerdo con lo previsto en los artículos 27 de la Constitución Política de los Estados Unidos Mexicanos y 821 del Código Civil para el Estado de Baja California.
 
-XII. La prestación de servicios de salud a personas sin capacidad económica para hacer frente a dichas necesidades;
+Queda prohibido utilizar como propaganda gubernamental en el equipamiento urbano y en la infraestructura expresiones, emblemas, símbolos, logotipos que impliquen promoción personalizada de cualquier servidor público o partido político, salvo en los casos de señalizaciones conforme a las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
 
-XIII. El apoyo con educación y capacitación laboral a los sujetos de asistencia social;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2021)</small>
 
-XIV. La prevención del desamparo, abandono o maltrato; y la protección a los sujetos que la padecen;
+Para el otorgamiento de uso de suelo y construcción, para el establecimiento u operación de cualquier giro comercial, industrial o de servicios en zona agrícola, pecuaria, agropecuaria, forestal y ambiental que no sea de competencia federal será requisito indispensable que su operación o finalidad no contravengan el Programa de Ordenamiento Ecológico del Estado, la planeación urbana estatal y municipal, así como planes y programas establecidos.
 
-XV. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
+###### ARTICULO 5.
 
-###### Artículo 5.
+El derecho de propiedad, posesión o cualquier otro derecho derivado de la tenencia de áreas y predios, serán ejercidos por sus titulares en forma compatible con el aprovechamiento determinado por las correspondientes declaratorias de provisiones, usos, reservas y destinos que se expidan conforme a lo dispuesto en el Plan y los Programas de Desarrollo Urbano.
 
-Son sujetos de asistencia social, de manera prioritaria, los siguientes:
+###### ARTICULO 6.
 
-I. Menores en estado de abandono, desamparo, desnutrición o maltrato;
+Para efectos de esta Ley se entiende por:
 
-II. Alcohólicos y farmacodependientes, cuando por estas causas se encuentren en estado de abandono o indigencia;
+I. Acción de Urbanización: La adecuación física, total o progresiva que habilite al suelo rústico o del suelo previamente urbanizado para alojar actividades de habitación, educación, esparcimiento y producción de bienes y servicios;
 
-III. Mujeres en período de gestación o lactancia, carentes de recursos económicos o maltratadas;
+II. Asentamiento humano: La radicación de un conglomerado demográfico con el conjunto de sus sistemas de convivencia en un área localizada, considerando en la misma a los elementos naturales y las obras materiales que la integran;
 
-IV. Senescentes, que se encuentren en estado de desamparo, marginación o maltrato;
+III. Area Urbana: La extensión de terreno que ha sido sujeta a acciones de urbanización y edificación.
 
-V. Personas con discapacidad en los términos de este ordenamiento;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Indigentes;
+IV. Área Verde Urbana.- Bien inmueble del dominio público municipal ubicado dentro de los límites de los centros de población, ocupado predominantemente por vegetación, destinado al uso, disfrute o aprovechamiento colectivo y de acceso generalizado y libre tránsito;
 
-VII. Familiares que dependan económicamente de quienes se encuentren privados de su libertad por causas penales y que por ello queden en estado de desamparo o indigencia;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-VIII. Familiares directos, hasta el primer grado, ascendientes, descendientes o colaterales que dependan económicamente de quienes hayan perdido la vida y que sus circunstancias socioeconómicas lo ameriten;
+V. Centros de población: Las áreas urbanas ocupadas por las instalaciones necesarias para su vida normal; las que se reserven para su expansión futura; las constituidas por los elementos naturales que cumplen una función de preservación de sus condiciones ecológicas y, las que se dediquen a la fundación del mismo, conforme a las leyes aplicables;
 
-IX. Las víctimas de la comisión de delitos en estado de abandono;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-X. Las personas afectadas por un desastre y que queden en estado de necesidad o desamparo;
+VI. Conservación: La acción tendiente a mantener el equilibrio ecológico y el patrimonio histórico-cultural de la entidad, que requieren de su preservación;
 
-XI. Personas que por alguna enfermedad se encuentren en estado de abandono o indigencia.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-###### Artículo 6.
+VII. Conurbación: El fenómeno que se presenta cuando dos o más centros de población por su crecimiento y relaciones socioeconómicas, formen o tiendan a formar una unidad urbana;
 
-El solicitante de los servicios asistenciales a que se refiere este Código deberá estar previamente inscrito en el Registro Estatal de Asistencia Social. Si no está inscrito al momento de solicitarlos, se le registrará en el acto.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-###### Artículo 7.
+VIII. Crecimiento: La expansión de los límites de las áreas ocupadas con edificios, instalaciones y redes que integran la infraestructura y el equipamiento urbano de los centros de población;
 
-Los servicios de asistencia social que se otorguen a las personas que lo soliciten serán gratuitos cuando sus posibilidades económicas no les permitan aportar una cuota de recuperación en apoyo a dichas acciones.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-### CAPITULO II. Del Sistema Estatal de Asistencia Social
+IX. Desarrollo urbano: El conjunto armónico de acciones que se realicen en beneficio de la población para lograr mayor equidad en las relaciones sociales, mejores niveles de ingreso y evitar el deterioro ambiental; involucra la ordenación, regulación, adecuación y mejora tanto de los aspectos físicos como económicos y sociales de un centro de población, así como sus relaciones con el medio ambiente natural y sus recursos;
 
-###### Artículo 8.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-El Sistema Estatal tiene por objeto llevar a cabo coordinadamente, los servicios de asistencia social a que se refiere este ordenamiento.
+X. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población;
 
-###### Artículo 9.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-El Sistema Estatal se integra por las dependencias, organismos públicos descentralizados y entidades de la administración pública, tanto estatal como municipal y por las personas físicas y jurídicas privadas, que presten servicios de asistencia social.
+XI. Equipamiento Urbano: El conjunto de espacios y edificaciones de uso predominantemente público donde se proporciona un servicio a la población, que contribuye a su bienestar y a su desarrollo económico, social y cultural. Este conjunto incluye elementos que se clasifican en los subsistemas siguientes: educación, salud, asistencia pública, comercio y abasto, áreas verdes urbanas, recreación, deporte, comunicación y transporte, diversión, cultura, espectáculos, administración y seguridad pública;
 
-###### Artículo 10.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-El titular del Poder Ejecutivo a través de la Secretaría de Salud tendrá respecto de la asistencia social las siguientes atribuciones:
+XII. Fundación: El establecimiento de un centro de población previsto en el Plan Estatal de Desarrollo Urbano, decretado por la Legislatura Local;
 
-I. Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de asistencia social, así como la difusión de las mismas;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-II. Vigilar el estricto cumplimiento de este Código, así como las disposiciones que se dicten con base en éste, sin perjuicio de las facultades que en la materia competen a las dependencias y entidades de la administración pública federal;
+XIII. Infraestructura: Todos los sistemas de comunicación y transporte de personas, de organización y distribución de bienes tales como: estructura vial, distribución de aguas, combustible, drenaje, alcantarillado, electricidad y telefonía;
 
-III. Formular, conducir y evaluar la prestación de los servicios asistenciales;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-IV. Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas, para formar y capacitar recursos humanos en la materia;
+XIV. Mejoramiento: La acción tendiente a reordenar y renovar las zonas deterioradas o de incipiente desarrollo el (sic) territorio estatal o de un centro de población;
 
-V. Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-VI. Establecer y coordinar el Sistema Estatal de Información en materia de Asistencia Social y el Registro Estatal de Asistencia Social;
+XV. Obras de edificación: Las acciones de adecuación física y espacial temporal o permanente hecha con el propósito de facilitar las actividades humanas que condicionan los usos y destinos del suelo;
 
-VII. Coordinar a través de los convenios respectivos con los municipios, la prestación y promoción de los servicios de asistencia social;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-VIII. Concertar acciones con el sector privado mediante convenios que regulen la prestación y promoción de los servicios de asistencia social, con la participación que corresponda a las dependencias o entidades del Gobierno Federal, del Estado y de los municipios; y
+XVI. Ordenamiento territorial de los asentamientos humanos: El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio nacional;
 
-IX. Las demás que le otorguen las leyes aplicables.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-### CAPITULO III. De la Coordinación
+XVII. Ordenación de los centros de población: El conjunto de dispositivos que tienden a lograr el desarrollo físico integral de los mismos, mediante la armónica relación y jerarquización de sus elementos;
 
-###### Artículo 11.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-El titular del Poder Ejecutivo a través de la Secretaría de Salud coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal y del Instituto, en el ámbito de sus respectivas competencias. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.
+XVIII. Planeación y programación de los centros de población: Esfuerzo conjunto planeado y ordenado de acciones físicas, sociales y económicas, organizadas con anticipación y distribuidas en el tiempo para poder lograr un óptimo desarrollo urbano;
 
-###### Artículo 12.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-En la prestación de servicios asistenciales, el Organismo Estatal y el Instituto actuarán en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que les otorguen las leyes.
+XIX. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
 
-###### Artículo 13.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social a nivel estatal y municipal, el Gobierno del Estado, a través del Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias, promoverá la celebración de convenios entre éstos y los Organismos Municipales de la Entidad, a fin de:
+XX. Reservas territoriales: Las áreas de un centro de población que serán utilizadas para su futuro crecimiento y se integren al sistema de suelo para el desarrollo urbano y la vivienda;
 
-I. Establecer y operar programas conjuntos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
 
-II. Promover la concurrencia de instancias del gobierno estatal y municipal en la aportación de recursos financieros, procurando fortalecer el patrimonio de los organismos municipales; y
+XXI. Secretaría.- La Secretaría de Desarrollo Urbano y Reordenación Territorial.
 
-III. Proponer programas para el cumplimiento de los fines de la asistencia social estatal o municipal, sin perjuicio de lo que al respecto establezcan otros ordenamientos legales de la materia.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-###### Artículo 14.
+XXII. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
 
-Las instituciones de asistencia social públicas y privadas están obligadas a solicitar y proporcionar información al Sistema Estatal de Información en Materia de Asistencia Social, respecto de la recepción de algún tipo de asistencia al peticionario, con el objeto de evitar duplicidad de prestaciones asistenciales de la misma naturaleza.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-###### Artículo 15.
+XXIII. Suelo urbanizado: Todo aquel terreno que ha recibido la acción de urbanización y que es susceptible de ser incorporado o reincorporado al municipio;
 
-El Gobierno del Estado, con la participación del Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias, promoverá ante los ayuntamientos de la entidad, el establecimiento de mecanismos que permitan un intercambio sistemático de información, a fin de conocer las demandas de servicios de asistencia social, para los grupos sociales más vulnerables y coordinar su oportuna atención.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-###### Artículo 16.
+XXIV. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
 
-El Gobierno del Estado, el Organismo Estatal y el Instituto, en el ámbito de sus respectivas competencias:
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-I. Promoverán que las dependencias y entidades del Estado y de los municipios destinen los recursos necesarios a los programas de servicios de asistencia social;
+XXV. Usos: Los fines particulares a que podrán destinarse determinadas zonas, áreas y predios de un centro de población;
 
-II. Celebrarán convenios o contratos para la coordinación de acciones de asistencia social con el sector privado de la entidad, con objeto de registrar y coordinar su participación en la realización de programas de asistencia social;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-III. Con base en el principio de la solidaridad social, se promoverán la organización y participación de la comunidad en la prestación de servicios asistenciales para el desarrollo integral del ser humano y la familia, así como de los grupos sociales más vulnerables, por medio de las siguientes acciones:
+XXVI. Zona Metropolitana: es el espacio territorial de influencia dominante de un centro de población; pudiendo constituirse en cualquiera de los siguientes casos:
 
-a) Fomento de hábitos de conducta y valores que contribuyan a la dignificación humana, a la protección de los grupos sociales más vulnerables y a su superación;
+Cuando uno o más municipios, demarcaciones territoriales o asentamientos humanos en los que se localiza una ciudad de 50 mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del centro de población, municipio o demarcación que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a poblados o municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica; o
 
-b) Promoción del servicio voluntario para la realización de tareas básicas de asistencia social bajo la dirección de las autoridades correspondientes;
+En aquéllos poblados o municipios, demarcaciones territoriales o asentamientos humanos que cuenten con una ciudad de un millón o más de habitantes, o
 
-IV. Promoverán acciones tendientes a la obtención de recursos económicos y materiales en apoyo a los programas asistenciales; y
+En aquéllos poblados, municipios, demarcaciones territoriales o asentamientos humanos que cuenten con ciudades de 250 mil o más habitantes y que comparten procesos de conurbación con ciudades de Estados Unidos de América.
 
-V. Gestionarán estímulos fiscales para las personas físicas o jurídicas que apoyen los programas de asistencia social.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1999)</small>
+XXVII. Zona Conurbada o Metropolitana Interestatal: aquella zona conurbada o metropolitana cuyos límites colinden con otra entidad federativa. Para su planeación y desarrollo se estará, además de lo dispuesto en la presente la (sic) Ley, a lo dispuesto en la Ley General de Asentamientos Humanos.
 
-VI. Promoverán y gestionarán ante los municipios y demás entes públicos, de acuerdo a las posibilidades, estímulos y beneficios fiscales, en su caso, a favor de los sujetos de asistencia social.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+XXVIII. Polígonos: Es la unidad urbanística constituida por una superficie de terreno, delimitada para fines de valoración catastral, ordenación urbana, planificación industrial, comercial, residencial.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JULIO DE 2018)</small>
+
+XXIX.- Vivienda Digna y Adecuada: Aquella que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, salubridad, que cuente con los servicios públicos básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión. Esta deberá comprender los criterios de prevención de desastres y la protección de sus ocupantes ante elementos naturales y antropogénicos que sean potencialmente agresivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2013)</small>
+
+Para efectos de lo dispuesto en esta fracción, la vivienda deberá contar con espacios habitables y de higiene suficiente, adecuada iluminación y ventilación, servicios públicos básicos de agua potable, drenaje, alcantarillado, energía eléctrica y acceso a vías de comunicación así como condiciones de seguridad estructural y la adecuación al clima con criterios de sustentabilidad y eficiencia energética.
+
+XXX.- Seguridad de trayecto: Se entiende por el desplazamiento de ida o regreso entre dos ubicaciones de forma segura para los habitantes garantizando los derechos a la libre circulación, a la seguridad e integridad física de las personas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+XXXI.- Fraccionamiento de Nueva Creación: Aquel cuya autorización tenga de un año de antigüedad a la solicitud de cualquier acción de urbanización.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XXXII. Asentamiento Humano Irregular.- El establecimiento de un grupo de personas, sin autorización previa de la autoridad competente, en un terreno urbano o rústico no destinado para su urbanización de conformidad con los Planes y Programas estatales o municipales de desarrollo urbano.
+
+###### ARTICULO 7.
+
+Son autoridades en materia de Desarrollo Urbano:
+
+I. El Congreso del Estado;
+
+II. El Gobernador del Estado;
+
+III. Los Ayuntamientos del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+IV. La Secretaría de Desarrollo Urbano y Reordenación Territorial;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+V. La Secretaría de Economía Sustentable y Turismo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2021)</small>
+
+VI. La Comisión Coordinadora de Desarrollo Urbano del Estado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+VII. La Comisión Intersecretarial de Desarrollo Integral Regional.
+
+### CAPITULO II. De la concurrencia y competencia de las autoridades y órganos auxiliares
+
+###### ARTICULO 8.
+
+Se considerarán órganos auxiliares de participación social y de consulta, los establecidos en la Ley de Planeación del Estado de Baja California en materia de Desarrollo Urbano.
+
+###### ARTICULO 9.
+
+Corresponde al Congreso del Estado:
+
+I. Dictar los Decretos sobre la fundación de nuevos centros de población previstos en el Plan Estatal de Desarrollo Urbano y propuestos al Gobernador del Estado por la Federación o por el Ayuntamiento respectivo;
+
+II. Dictar los Decretos sobre los límites de los centros de población, así como su modificación a propuesta de los Ayuntamientos, previo dictamen técnico de congruencia del Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+III. Aprobar los límites de las zonas de conurbación intermunicipales y los de las Zonas Metropolitanas, con base en el proyecto de declaratoria que formule el Ejecutivo del Estado, para reconocer su existencia o el acuerdo que celebre el Ejecutivo del Estado con los Ayuntamientos involucrados, conforme a lo dispuesto en el Título Tercero, de esta Ley;
+
+IV. Resolver las diferencias que sobre la materia de la presente Ley existan entre las autoridades estatales y municipales; y,
+
+V. Las demás atribuciones que le otorgue la presente Ley, los reglamentos y sus disposiciones aplicables.
+
+###### ARTICULO 10.
+
+Son atribuciones del Ejecutivo Estatal:
+
+I. Vigilar que el Plan Estatal de Desarrollo Urbano sea congruente con las disposiciones del Plan Estatal de Desarrollo, precisando los objetivos, prioridades y políticas que regirán la acción pública en esta materia;
+
+II. Asegurar la congruencia del Plan Estatal de Desarrollo Urbano con el Programa Sectorial de Desarrollo Urbano a nivel Federal, haciendo al efecto las proposiciones que se estimen convenientes para su elaboración, evaluación y revisión, así como coadyuvar con las autoridades federales para su cumplimiento dentro del territorio del Estado;
+
+III. Elaborar, aprobar, publicar, ejecutar y revisar el Plan Estatal de Desarrollo Urbano, promoviendo, encauzando y garantizando la participación de los diversos grupos sociales, organizaciones e instituciones representativas conforme a las disposiciones de esta Ley, la Ley de Planeación del Estado y las normas reglamentarias respectivas;
+
+IV. Participar, con la concurrencia de los Ayuntamientos involucrados, en la elaboración, ejecución, control, evaluación y revisión de los Programas Regionales de Desarrollo Urbano, aprobarlos y publicarlos, así como aprobar y publicar los convenios de coordinación correspondientes;
+
+V. Proponer ante el Congreso del Estado la fundación de nuevos centros de población, con base en los proyectos contenidos en el Plan de Desarrollo Urbano y el Plan de Ordenamiento Ecológico tanto estatal como municipales; atender las solicitudes del Gobierno Federal o de los municipios relativas a la fundación de centros de población;
+
+VI. Opinar sobre los diferentes Planes y Programas de Desarrollo Urbano en la esfera municipal, incluyendo los Programas Parciales y las declaratorias que aprueben los Ayuntamientos, mediante un dictamen técnico de congruencia previo a su publicación, en relación con el Plan Estatal de Desarrollo Urbano y los Programas Regionales de Desarrollo Urbano, verificando que se cumpla con los requisitos y procedimientos establecidos en la presente Ley;
+
+VII. Publicar los diferentes Programas de Desarrollo Urbano de aplicación directa en el ámbito municipal y sus declaratorias de provisiones, usos, destinos y reservas aprobadas por los Ayuntamientos respectivos;
+
+VIII. Aprobar, ejecutar, controlar, evaluar y revisar los Programas Parciales que en forma conjunta con los Ayuntamientos y conforme a las disposiciones de esta Ley, se expidan para la utilización parcial y total de la reserva territorial y de las zonas de preservación ecológica;
+
+IX. Ordenar la inscripción en el Registro Público de la Propiedad y del Comercio y disponer la publicación de los Planes y Programas de Desarrollo Urbano a que se refiere el Artículo 24 del presente ordenamiento, las declaratorias y todas aquellas resoluciones que de acuerdo con esta Ley corresponda al Ejecutivo;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+X. Extender a los Ayuntamientos a través de la Secretaría, el dictamen técnico de congruencia correspondiente a permisos y licencias de uso del suelo y edificaciones que, por sus características, impacto en el ambiente o en la estructura urbana, se consideran, en los términos de la presente Ley y demás disposiciones relativas, como de importancia estatal o se ubiquen fuera de los límites de los centros de población.
+
+Serán considerados de importancia estatal aquellos permisos y licencias de uso de suelo y edificaciones que pretendan tramitarse en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental que no sean de competencia federal.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XI. Otorgar o negar a través de la Secretaría o la Secretaría de Protección al Ambiente del Estado, según corresponda, las autorizaciones sobre todo tipo de acciones de urbanización y edificación que se ubiquen fuera de los centros de población, o que afecten las áreas naturales protegidas declaradas así por la Federación, el Estado o los Municipios, o las que se destinen a industrias de alto riesgo, extractivas o de transformación y que puedan tener un impacto negativo en el medio ambiente, sin importar su ubicación, incluidos o no, en el Plan y los Programas de Desarrollo Urbano Estatal, Regional, Municipal o de Centros de Población;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+Con la finalidad de velar por el orden público y el interés social, deberán implementarse los procedimientos de verificación del cumplimiento de las disposiciones previstas en esta Ley.
+
+XII. Revisar y publicar los Acuerdos de autorización para realizar acciones de urbanización expedidos por los Ayuntamientos, o por el propio Estado, así como ordenar su registro y autorizar la enajenación de los lotes resultantes;
+
+XIII. Celebrar convenios con los Municipios del Estado, con otras Entidades Federativas o con la Federación, para apoyar los objetivos y finalidades propuestos en los diversos Planes y Programas de Desarrollo Urbano;
+
+XIV. Apoyar y asesorar a los Ayuntamientos en la elaboración de sus Planes y Programas de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XV. Participar con los Gobiernos Municipales, las Entidades Federativas y la Federación en la ordenación y regulación de las conurbaciones o Zonas Metropolitanas interestatales, en los términos de la Ley General de Asentamientos Humanos;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XVI. Reconocer mediante declaratoria, la existencia de un fenómeno de conurbación o Zona Metropolitana, respecto de los centros de población situados en el territorio de dos o más municipios de la entidad;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XVII. Promover ante el Congreso del Estado, la fijación o modificación de los límites de las zonas conurbadas municipales y de las Zonas Metropolitanas;
+
+XVIII. Participar en forma conjunta y coordinada con los Ayuntamientos, en la ordenación y regulación de los centros de población ubicados en una zona conurbada intermunicipal;
+
+XIX. Establecer las medidas necesarias tendientes a desalentar la especulación de predios y fincas contraria al interés social;
+
+XX. Intervenir en la regularización de la tenencia del suelo para su incorporación al desarrollo urbano, en los términos de la legislación aplicable;
+
+XXI. Participar, en los términos del Acuerdo de coordinación respectivo, en la operación del Sistema Nacional de Suelo y Reservas Territoriales para el Desarrollo Urbano y la Vivienda que establece la Ley General de Asentamientos Humanos;
+
+XXII. Participar en la constitución y administración de reservas territoriales en la Entidad, en coordinación con los municipios;
+
+XXIII. Ejercer el derecho de preferencia a favor del Estado, para adquirir predios comprendidos en las declaratorias de reserva, conforme a las disposiciones de la Ley General de Asentamientos Humanos y de esta Ley;
+
+XXIV. Elaborar, aprobar, ejecutar, evaluar y revisar los Programas Regionales y Sectoriales que se requieran;
+
+XXV. Ofertar y promover terrenos y construcciones en acciones de interés social, especialmente los destinados a la vivienda popular;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXVI. Coordinar las políticas y prácticas del Registro Público de la Propiedad y de Comercio, de la Secretaría y de las Dependencias de Catastro Municipal mediante convenio con los Ayuntamientos respectivos, para hacer efectivas las disposiciones expedidas, a fin de ordenar y regular los centros de población en el Estado, expresadas en los Planes y Programas de Desarrollo Urbano;
+
+XXVII. Promover obras para que los habitantes de la Entidad cuenten con una vivienda digna, espacios adecuados para el trabajo, áreas de esparcimiento y recreación, el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
+
+XXVIII. Promover y constituir asociaciones con particulares o entidades públicas, para convenir y coordinar la realización de acciones de urbanización y vivienda de interés público y de objetivo social;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXIX. Convenir con los municipios para que la Secretaría asuma las funciones técnicas que les correspondan en la aplicación de esta Ley;
+
+XXX. Cumplir con las disposiciones de esta Ley, expidiendo los reglamentos en los aspectos que no estén encomendados expresamente a los Ayuntamientos o a otra entidad pública;
+
+XXXI. Determinar las infracciones y sanciones, así como adoptar y ejecutar las medidas de seguridad en el ámbito de su competencia, en los términos de la presente Ley y demás disposiciones relativas;
+
+XXXII. Negar o condicionar permisos de desarrollo urbano en aquellas áreas consideradas naturalmente riesgosas como lechos de arroyos y ríos, así como en aquellas cuyo suelo haya sido contaminado y alterado con substancias peligrosas, desechos radiactivos, tóxicos, inflamables, explosivos y corrosivos. La simple sospecha de la existencia de cualquiera de ellas, condicionará la liberación del permiso, previo estudio que incluya análisis químicos de suelo y mantos acuíferos; y,
+
+XXXIII. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales relativas.
+
+El Ejecutivo del Estado ejercerá las atribuciones que le confiere esta ley, en los términos de la Ley Orgánica de la Administración Pública del Estado de Baja California.
+
+### CAPITULO I. Del sistema Estatal de Planes y programas de Desarrollo Urbano
+
+###### ARTICULO 11.
+
+Son atribuciones del Ayuntamiento:
+
+I. Formular, aprobar, administrar, ejecutar, evaluar y actualizar el Plan Municipal de Desarrollo Urbano, los Programas de Desarrollo Urbano de Centros de Población, los Programas Sectoriales y los Programas Parciales Municipales de Desarrollo Urbano a los que se hace mención en el Artículo 24, fracción II de la presente Ley;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+II. Previo dictamen técnico de congruencia con el Programa de Ordenamiento Ecológico del Estado, Plan o los Programas Estatales, Regionales y Sectoriales de Desarrollo Urbano, aprobar las declaratorias de provisiones, usos, destinos y reservas de áreas y predios, derivadas de los Planes y Programas Municipales de Desarrollo Urbano y enviarlas al Ejecutivo del Estado para su publicación e inscripción;
+
+III. Formular, aprobar y administrar la zonificación urbana de los centros de población contenida en los Programas Municipales de Desarrollo Urbano y sus declaratorias;
+
+IV. Participar, con la concurrencia del Estado y de los demás Municipios involucrados, en la elaboración, ejecución, control, evaluación y revisión de los Programas Regionales de Desarrollo Urbano y de los convenios de coordinación correspondientes;
+
+V. Coadyuvar con la autoridad competente en la realización del ordenamiento ecológico del Estado principalmente en lo referente a los asentamientos humanos;
+
+VI. Elaborar, aprobar, ejecutar, controlar, evaluar y revisar en forma conjunta con el Gobierno del Estado y conforme al convenio de coordinación respectivo, los Programas Parciales que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica;
+
+VII. Solicitar al Ejecutivo del Estado la publicación y registro de los Planes y Programas Municipales de Desarrollo Urbano descritos en la fracción II del Artículo 24 de esta Ley y de las declaratorias de usos, destinos y reservas de áreas y predios correspondientes;
+
+VIII. Asegurar la congruencia de los Programas a que se refiere la fracción I de éste artículo con el Plan Estatal de Desarrollo Urbano, haciendo las proposiciones que estime pertinentes;
+
+IX. Proponer la fundación de nuevos centros de población solicitando al Gobernador del Estado se incluyan en el Programa Estatal de Desarrollo Urbano y se promueva ante el Congreso del Estado el decreto correspondiente;
+
+X. Solicitar ante la Legislatura del Estado la fijación o modificación de los límites de los centros de población ubicados en su territorio municipal;
+
+XI. Participar en la ordenación y regulación de las zonas conurbadas que incluyan centros de población de su territorio, conforme a las disposiciones legales y la declaratoria que al efecto se expida;
+
+XII. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de esta Ley en el ámbito de su jurisdicción, mediante la celebración del convenio de coordinación que corresponda;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XIII. Solicitar a la Secretaría, la asesoría y apoyo técnico que requiera para elaborar su Plan y sus Programas de Desarrollo Urbano, aplicarlos, controlarlos, evaluarlos y revisarlos, conforme a los convenios de coordinación que celebre con el Ejecutivo Estatal;
+
+XIV. Celebrar con el Gobierno del Estado y con su concurrencia con la Federación y los Gobiernos de otras Entidades Federativas, los convenios que apoyen los objetivos y prioridades propuestos en los Planes y Programas de Desarrollo Urbano que se ejecuten en su territorio municipal, de conformidad con esta Ley y demás ordenamientos aplicables;
+
+XV. Coordinarse y asociarse con otros municipios de la entidad para el cumplimiento del Plan y los Programas de Desarrollo Urbano;
+
+XVI. Intervenir en la regularización de la tenencia del suelo para incorporarlo al desarrollo urbano en coordinación con el Gobierno del Estado, en los términos de la legislación aplicable;
+
+XVII. Participar en la creación y administración de las zonas sujetas a conservación ecológica y de las reservas territoriales para el crecimiento urbano, de conformidad con las disposiciones de esta Ley y con los Programas y Declaratorias que al efecto se expidan y publiquen;
+
+XVIII. Promover inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los centros de población;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2015)</small>
+
+XIX. Expedir los reglamentos y disposiciones administrativas que fueren necesarias, de conformidad con los fines señalados en los Artículos 27 y 115 de la Constitución Política de los Estados Unidos Mexicanos, las bases normativas que expida el Congreso del Estado y las disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2015)</small>
+
+Así mismo deberá asegurarse que los reglamentos y disposiciones a los que se refiere el párrafo anterior, se encuentren en apego con los instrumentos de planeación urbana que para los fines citados haya autorizado la autoridad estatal.
+
+XX. Otorgar o negar las autorizaciones y licencias de construcción, de acciones de urbanización y de uso del suelo en los términos de esta Ley, la Ley de Edificaciones del Estado de Baja California, sus Reglamentos, Planes y Programas de Desarrollo Urbano y declaratorias en vigor;
+
+XXI. Aplicar las limitaciones y modalidades a la propiedad privada que imponga esta Ley y demás disposiciones relativas;
+
+XXII. Aplicar las medidas necesarias para desalentar la especulación que respecto de predios y fincas sea contraria al interés social;
+
+XXIII. Informar y orientar a los particulares acerca de los trámites para la obtención de permisos, licencias y autorizaciones que las acciones de urbanización y la edificación requieran, con el fin de facilitar las acciones de la vivienda popular;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+XXIV. Solicitar a la Secretaría el dictamen técnico de congruencia correspondiente a los permisos y licencias de uso del suelo y edificaciones, que por sus características o impacto en el ambiente o en la estructura urbana, se consideren de importancia estatal o se ubiquen fuera de los perímetros de los centros de población en los términos de esta Ley y no estén previstos en los diferentes Planes o Programas del Desarrollo Urbano Municipal, declaratorias correspondientes y demás disposiciones relativas.
+
+Serán considerados de importancia estatal aquellos permisos y licencias de uso de suelo y edificaciones que pretendan tramitarse en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental que no sean de competencia federal.
+
+XXV. Promover obras para que los habitantes de sus respectivos municipios cuenten con una vivienda digna, espacios adecuados para el trabajo, áreas y zonas de esparcimiento y recreación, el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
+
+XXVI. Fomentar la organización, promover la participación y recibir las opiniones de los grupos sociales que integran su comunidad respecto a la formulación, ejecución, evaluación y actualización de los diferentes Planes y Programas Municipales de Desarrollo Urbano, en los términos de la Ley de Planeación del Estado;
+
+XXVII. Promover la participación solidaria de la población en la solución de los problemas de infraestructura y equipamiento urbano, servicios públicos y vivienda popular en los centros de población de su jurisdicción;
+
+XXVIII. Dar difusión al Plan Municipal de Desarrollo Urbano y a los Programas derivados del mismo;
+
+XXIX. Coordinar las políticas y prácticas catastrales inmobiliarias con el Plan y Programas Municipales de Desarrollo Urbano;
+
+XXX. Asociarse con otras entidades públicas o con particulares, para coordinar y concertar la realización de acciones de urbanización de utilidad pública;
+
+XXXI. Acordar la incorporación o reincorporación de áreas o predios donde se hayan ejecutado acciones de urbanización;
+
+XXXII. Acordar la recepción de las acciones de urbanización;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXXIII. Convenir con el Ejecutivo del Estado, que la Secretaría por un período que no podrá exceder a su gestión constitucional, desempeñe las funciones técnicas que le corresponden en la aplicación de esta Ley;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXXIV. Solicitar a la Secretaría el dictamen técnico de congruencia correspondiente a los permisos y licencias de uso del suelo y edificaciones, que por sus características o impacto en el ambiente o en la estructura urbana, se consideren de importancia estatal o se ubiquen fuera de los perímetros de los centros de población en los términos de esta Ley y no estén previstos en los diferentes Planes o Programas del Desarrollo Urbano Municipal, declaratorias correspondientes y demás disposiciones relativas;
+
+XXXV. Proveer en el ámbito de su competencia, el cumplimiento de las disposiciones de esta Ley;
+
+XXXVI. Determinar las infracciones y sanciones, así como ejecutar las medidas de seguridad de su competencia, en los términos de la presente Ley y demás disposiciones relativas;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+XXXVII. Tramitar y resolver el recurso administrativo previsto en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XXXVIII. Solicitar a la Secretaría el dictamen técnico de congruencia, así como a la Secretaría de Economía Sustentable y Turismo la manifestación de impacto ambiental, previo a la expedición de autorización de los permisos y licencias de uso del suelo y edificaciones cuando se trate de acciones de urbanización que pretendan llevarse a cabo en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XXXIX. Las demás atribuciones que le señale esta Ley, sus normas y disposiciones reglamentarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 12.
+
+La Secretaría es la dependencia de la Administración Pública Estatal, que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano y vivienda. Sus atribuciones serán las siguientes:
+
+I. Elaborar en los términos que fija esta Ley, el Plan Estatal de Desarrollo Urbano para someterlo al dictamen de la Comisión Coordinadora de Desarrollo Urbano del Estado;
+
+II. Elaborar en los términos de esta Ley con la participación de los Ayuntamientos, los Programas Regionales de Desarrollo Urbano para someterlos al dictamen de la Comisión Coordinadora de Desarrollo Urbano del Estado;
+
+III. Ejecutar, controlar, evaluar y revisar el Plan Estatal de Desarrollo Urbano y ejercer éstas mismas acciones con la participación de los Ayuntamientos en los Programas Regionales de Desarrollo Urbano;
+
+IV. Elaborar los Programas Sectoriales de Desarrollo Urbano en las materias de vivienda, reservas territoriales, transporte, infraestructura y los que le ordene el Ejecutivo del Estado;
+
+V. Ejecutar, controlar, evaluar y revisar conjuntamente con los Ayuntamientos respectivos, conforme a las disposiciones de esta Ley y observando los convenios de coordinación que al efecto se celebren, los Programas Parciales que se expidan en relación a la utilización parcial o total de las reservas territoriales y las zonas de preservación ecológica;
+
+VI. Integrar, operar y mantener el Registro Estatal del Sistema de Programas de Desarrollo Urbano del Estado, inscritos y publicados en los términos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+VII. Extender a los Ayuntamientos los dictámenes técnicos de congruencia correspondientes a permisos y licencias de uso del suelo y edificaciones, que por sus características de ubicación, impacto ambiental o estructura urbana se consideren de importancia estatal, en los términos de la presente Ley y demás Leyes, Reglamentos y disposiciones relativas.
+
+La Secretaría remitirá para su aprobación a la Comisión Intersecretarial de Desarrollo Integral Regional, aquellos dictámenes técnicos de congruencia que en su estima sean considerados como trascendentes, así como de los que sea solicitada su remisión por parte de dicho órgano colegiado.
+
+VIII. Otorgar las autorizaciones sobre todo tipo de acción de urbanización que por su ubicación, condiciones, características e impacto ambiental se consideren de importancia estatal conforme a lo dispuesto en la fracción XI del Artículo 10 de esta Ley, y de las demás Leyes, Reglamentos y disposiciones sobre la materia;
+
+IX. Auxiliar al Gobernador del Estado en la revisión, previa a su publicación, de los acuerdos de autorización para realizar acciones de urbanización;
+
+X. Apoyar a los Ayuntamientos que lo soliciten, en la elaboración de los distintos Planes y Programas Municipales de Desarrollo Urbano;
+
+XI. Otorgar a la autoridad competente la información necesaria para la realización del Plan de Ordenamiento Ecológico del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XII. Intervenir en la ordenación y regularización de las zonas conurbadas y metropolitanas interestatales;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2018)</small>
+
+XIII. Determinar las infracciones y sanciones, adoptar y ejecutar las medidas de seguridad en el ámbito de su competencia en los términos de esta Ley y demás normas legales y reglamentos aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XIV. Extender a los Ayuntamientos los dictámenes técnicos de congruencia previo a la expedición de autorización cuando se trate de acciones de urbanización que se pretendan llevar a cabo en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
+
+XV. Denunciar ante el Ministerio Público los actos y hechos considerados como posibles delitos en los términos de la legislación aplicable; y,
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2021)</small>
+
+XVI. Las demás atribuciones que le señale esta ley y otras normas legales y reglamentarias aplicables e intervenir en los asuntos que sobre la materia le encomiende el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 13.
+
+El titular de la Secretaría ejercerá las facultades de su competencia y podrá delegar en sus subalternos cualesquiera de éstas, salvo aquellas que expresamente sean indelegables de acuerdo con la Ley Orgánica de la Administración Pública del Estado y demás Leyes relativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 14.
+
+Se crea la Comisión Coordinadora de Desarrollo Urbano del Estado, quien para el mejor desempeño de sus atribuciones, coordinará sus programas de trabajo y acciones con los Ayuntamientos involucrados y con la Secretaría en el ámbito de sus respectivas competencias, con el objeto de lograr una gestión más eficaz como organismo de coordinación gubernamental.
+
+La Comisión Coordinadora de Desarrollo Urbano del Estado se integrará por:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+I. El titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+II. Un Subsecretario de la Secretaría, los Directores de los Organismos y Entidades Paraestatales de su sector; Comisiones Estatales de Servicios Públicos, las Inmobiliarias del Estado, Promotora Estatal para el Desarrollo de las de Comunidades Rurales y Populares, Comisión para la Regularización de la Tenencia de la Tierra del Estado, Secretaría de Protección al Ambiente y Dirección de Tránsito y Transportes del Estado;
+
+III. Los Presidentes Municipales del Municipio correspondiente; cuando conforme a la presente Ley se traten asuntos de Desarrollo Urbano referentes a su circunscripción territorial, éstos ocurrirán a las sesiones de la Comisión personalmente o por conducto del servidor público responsable del desarrollo urbano en su Municipio, así como el Presidente del Consejo de Urbanización del Municipio correspondiente;
+
+IV. El Delegado de la Secretaría de Desarrollo Social en el Estado; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+V. Un representante de la Secretaría de Planeación y Finanzas del Estado.
+
+El Gobernador del Estado podrá invitar a los representantes de la Administración Pública Federal para que aporten su consejo en la formulación de las políticas, criterios y lineamientos que fije dicha Comisión. Por cada Consejero propietario se designará un suplente que lo sustituya en sus faltas temporales.
+
+###### ARTICULO 15.
+
+En los casos de conurbación intermunicipal se integrará dentro del seno de la Comisión Coordinadora de Desarrollo Urbano del Estado, una subcomisión intermunicipal que ordene y regule la zona de que se trate en los términos del Título Tercero de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+En los casos de Zonas Metropolitanas el Ejecutivo del Estado, deberá constituir un Consejo de Desarrollo Metropolitano, cuya integración, funciones y atribuciones se determinaran en el decreto de creación que al efecto expida.
+
+###### ARTICULO 16.
+
+Cuando se trate de asuntos referentes a una zona de conurbación se convocará a los representantes de los Municipios involucrados en esa zona, según lo dispuesto en el Artículo 95 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 # LIBRO SEGUNDO. INSTITUCIONES DE ASISTENCIA SOCIAL PUBLICA
 
-## TITULO PRIMERO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE JALISCO
+## TITULO SEGUNDO. DE LA PLANEACION DEL DESARROLLO URBANO
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Del Plan Estatal de Desarrollo Urbano
 
-###### Artículo 17.
+###### ARTICULO 17.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de realizar las funciones que le asigna este Código y las demás disposiciones legales aplicables.
+Será Presidente de la Comisión Coordinadora de Desarrollo Urbano, el titular de la Secretaría. Las sesiones se efectuarán por lo menos cuatro veces al año, requerirán la presencia mínima del cincuenta por ciento mas uno de sus integrantes y los acuerdos se tomarán por mayoría de votos presentes, correspondiendo al Presidente el voto de calidad en caso de empate. En ausencia del Presidente, asumirá sus funciones quien él designe como suplente.
 
-###### Artículo 18.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-El Organismo Estatal deberá realizar las siguientes funciones:
+###### ARTICULO 18.
 
-I. Promover y prestar servicios de asistencia social;
+El Secretario Ejecutivo de la Comisión Coordinadora de Desarrollo Urbano será designado por el titular de la Secretaría, quien formulará la convocatoria para las sesiones.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-II. Apoyar el desarrollo integral de la persona, la familia y la comunidad, así como prevenir y atender la violencia intrafamiliar;
+###### ARTICULO 19.
 
-III. Promover acciones de apoyo educativo para la integración social y de capacitación para el trabajo a los sujetos de asistencia social en el Estado;
+El titular de la Secretaría será el representante legal de la Comisión Coordinadora de Desarrollo Urbano del Estado.
 
-IV. Promover e impulsar el crecimiento físico y psíquico de la niñez y la adolescencia, así como su adecuada integración a la sociedad;
+###### ARTICULO 20.
 
-V. Promover acciones para el bienestar del senescente, así como para la preparación e incorporación a esta etapa de la vida;
+Corresponde a la Comisión Coordinadora de Desarrollo Urbano del Estado:
 
-VI. Operar establecimientos en beneficio de los sujetos de la asistencia social;
+I. Dictaminar sobre los Programas de Desarrollo Urbano Estatal;
 
-VII. Llevar a cabo acciones en materia de evaluación, calificación, prevención y rehabilitación de las personas con discapacidad, con sujeción a las disposiciones aplicables;
+II. Dictaminar sobre la congruencia entre los diversos Programas Municipales de Desarrollo Urbano y Programas de Ordenación de Zonas Conurbadas con los Programas Estatal, Regionales de Desarrollo Urbano y Sectoriales en materia de transporte, vivienda, infraestructura, reserva territorial, reserva ecológica y reserva de la biósfera entre otros, y someterlos a la aprobación del Gobernador del Estado quien ordenará su publicación y registro;
 
-VIII. Realizar estudios e investigaciones en torno a la asistencia social;
+III. Dictaminar sobre las proposiciones de declaratorias de usos, reservas, destinos y provisiones de las áreas y predios de los Centros de Población, previamente a ser sometidas por los Ayuntamientos, al conocimiento del Ejecutivo Estatal para la publicación de las declaratorias correspondientes;
 
-IX. Promover la profesionalización de la prestación de servicios de asistencia social;
+IV. En ausencia de Programas de Desarrollo Urbano o de lineamientos específicos aplicables a determinadas áreas y predios, establecer las directrices generales conforme a los cuales serán autorizados los usos del suelo, localización y construcción de edificaciones y modificación o introducción de servicios de infraestructura básica en los Centros de Población, así como en las propuestas de anteproyecto de acciones de urbanización;
 
-X. Cooperar con el Sistema Estatal de Información en materia de Asistencia Social y con el Registro Estatal de Asistencia Social;
+V. Dictaminar sobre la constitución de la conurbación y de la declaratoria para su formal reconocimiento e integración en su seno, de la Subcomisión de zona conurbada;
 
-XI. Promover y participar en programas de educación especial;
+VI. Dictaminar sobre los Programas de Ordenación de Zonas Conurbadas, y someterlos a la aprobación del Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+VII. Dictaminar sobre las propuestas de las declaratorias de provisiones, usos, reservas y destinos de predios comprendidos dentro de la zona conurbada para someterlas a la aprobación del Gobernador del Estado;
 
-XII. Crear y operar el Consejo Estatal de Familia;
+VIII. Gestionar y promover ante las Autoridades Estatales y Municipales el cumplimiento, en el ámbito de su competencia, del Programa de Ordenación de la Zona Conurbada y de las declaratorias correspondientes;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+IX. Elaborar su propio Reglamento interno; y
 
-XIII. Crear y operar el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar; y
+X. Ejercer las demás atribuciones que le correspondan conforme a esta Ley y dictaminar sobre otros asuntos que por su trascendencia le encomiende el Ejecutivo del Estado.
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XIV. Elaborar el programa e impartir los cursos a que hace referencia el artículo 267 bis del Código Civil del Estado de Jalisco.
+### CAPITULO III. De los Programas Regionales de Desarrollo Urbano
 
-El Sistema Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades.
+###### ARTICULO 21.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Corresponde a la Secretaría de Protección al Ambiente del Estado:
 
-XV. Las demás que establezcan las leyes aplicables en la materia.
+I. Desarrollar criterios ecológicos en la promoción del desarrollo estatal;
 
-###### Artículo 19.
+II. Planeación y regulación ecológica de los asentamientos humanos;
 
-La promoción y prestación de servicios asistenciales que realice cada municipio del Estado, podrá realizarse a través del Organismo Municipal, que se encargará de:
+III. Requerir y evaluar el estudio de impacto ambiental;
 
-I. Establecer y operar los programas de asistencia social conforme a los lineamientos que emita el Organismo Estatal;
+IV. Hacer y respetar los Planes de Ordenamiento Ecológico;
 
-II. Promover la colaboración de los distintos niveles del gobierno en la aportación de recursos para la operación de programas asistenciales;
+V. Notificar sobre la existencia de reservas ecológicas, áreas de desarrollo industrial a proyectos urbanos y áreas de desarrollo urbano a proyectos industriales, conforme a los Planes de Ordenamiento Ecológico Estatal y Federal.
 
-III. Fortalecer los proyectos asistenciales mediante el fomento de la participación de las instituciones privadas de cada municipio, para ampliar la cobertura de los beneficios;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-IV. Crear y operar el Consejo de Familia dentro de su jurisdicción; y
+VI. Las demás que le correspondan en los términos de la Ley de Protección al Ambiente para el Estado.
 
-V. Los demás señalados en este Código.
+###### ARTICULO 22.
 
-###### Artículo 20.
+Los Planes y Programas de Desarrollo Urbano Estatales o Municipales se formularán y revisarán en consulta permanente con los organismos e instituciones representativas que integran la comunidad, de acuerdo a los mecanismos de participación establecidos en la Ley de Planeación del Estado.
 
-En caso de desastres que causen daños a la población, el Organismo Estatal en el ámbito de su competencia, sin perjuicio de las acciones que en auxilio de los damnificados realicen otras dependencias y entidades de la administración pública, coordinará las tareas de asistencia social de los distintos sectores que actúen en beneficio de aquellos, durante la fase inmediata posterior a un desastre, sin menoscabo de que continúen recibiendo el apoyo de los programas institucionales.
+En dicha consulta se garantizará como mínimo la participación de:
 
-### CAPITULO II. Del Patrimonio del Organismo Estatal
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 21.
+I. El titular de la Secretaría;
 
-El patrimonio del Organismo Estatal se integrará con:
+II. La Cámara Nacional de Comercio;
 
-I. Los bienes muebles e inmuebles que sean de su dominio;
+III. La Cámara Nacional de la Industria de la Transformación;
 
-II. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de los gobiernos federal y estatal, le otorguen;
+IV. La Cámara Nacional de la Industria de la Construcción;
 
-III. Las aportaciones, donaciones y demás liberalidades que reciba de personas físicas o jurídicas, nacionales o extrajeras;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-IV. Los rendimientos, recuperaciones, derechos y demás ingresos que les generen sus inversiones, bienes y operaciones;
+V. La Cámara Nacional para el Fomento y Desarrollo de la Industria de la Vivienda;
 
-V. Las concesiones, permisos, licencias, y autorizaciones que se le otorguen conforme a la ley;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-VI. Las aportaciones por la prestación de servicios y por los honorarios que le correspondan;
+VI. Los Colegios de Arquitectos debidamente registrados en el Departamento de Profesiones del Estado de Baja California;
 
-VII. Los fideicomisos que los particulares y dependencias públicas, constituyan en favor del Organismo Estatal, como opción viable para dar continuidad a los programas asistenciales a través del tiempo; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-VIII. Los demás bienes que obtengan por cualquier título.
+VII. Los Colegios de Ingenieros Civiles debidamente registrados en el Departamento de Profesiones del Estado de Baja California;
 
-###### Artículo 22.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
 
-El Organismo Estatal quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre los bienes de dominio público que posean.
+VIII. El Colegio de Notarios del Estado de Baja California; y
 
-###### Artículo 23.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2015)</small>
 
-La vigilancia financiera y administrativa, así como la práctica de auditorías en el Instituto, estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que corresponda a la Contaduría Mayor de Hacienda del Congreso del Estado.
+IX. Los organismos promotores de vivienda y bienes inmuebles del Estado de Baja California.
 
-### CAPITULO III. Organos del Organismo Estatal
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
 
-###### Artículo 24.
+ARTICULO 22 BIS.- Se crea la Comisión Intersecretarial de Desarrollo Integral Regional quien, para el mejor desempeño de sus atribuciones, se encargará de aprobar los dictámenes técnicos de congruencia respecto de los permisos y licencias de uso del suelo y edificaciones, licencias de construcción y acciones de urbanización que por su importancia y trascendencia estatal le sean remitidos por la Secretaría.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el Organismo Estatal contará con los siguientes órganos:
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
 
-I. La Junta de Gobierno;
+ARTICULO 22 TER.- La Comisión Intersecretarial de Desarrollo Integral Regional se integrará por:
 
-II. La Presidencia de la Junta de Gobierno;
+I. La Secretaría General de Gobierno;
 
-III. La Dirección General;
+II. La Secretaría de Infraestructura, Desarrollo Urbano y Territorial;
 
-IV. El Consejo Estatal de Familia; y
+III. La Secretaría del Campo y Seguridad Alimentaria;
 
-V. Las unidades técnicas y de administración que determinen (sic) la ley, así como las autoridades del mismo organismo y que se autoricen en su presupuesto de egresos.
+IV. La Secretaría de Economía Sustentable y Turismo;
 
-#### Sección Primera. De la Junta de Gobierno
+V. La Secretaría para el Manejo, Saneamiento y Protección del Agua; y,
 
-###### Artículo 25.
+VI. La Secretaría de Integración y Bienestar Social.
 
-La Junta de Gobierno es la máxima autoridad del Organismo Estatal, y se integra por:
+Los integrantes de la Comisión podrán designar por escrito a su respectivo suplente. El suplente únicamente podrá participar en las ausencias de quien lo haya designado.
 
-I. Un Presidente, que será designado por el Titular del Poder Ejecutivo del Estado;
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
 
-II. Hasta doce Consejeros, los cuales serán designados por el Gobernador del Estado, entre los cuales se encontrarán los siguientes:
+ARTICULO 22 QUATER.- Será Presidente de la Comisión Intersecretarial de Desarrollo Integral Regional, el titular de la Secretaría General de Gobierno.
 
-a) Los titulares de la Secretaría de Salud y de la Procuraduría Social, o sus respectivos representantes;
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
 
-b) El Director General del Instituto;
+ARTICULO 22 QUINQUIES.- Las sesiones se efectuarán de manera presencial o virtual, por lo menos dos veces al año y de forma extraordinaria cuando sea necesario a juicio del Presidente o del Secretario Ejecutivo, quienes estarán facultados para convocar en ambos casos; requerirán la presencia mínima del cincuenta por ciento más uno de sus integrantes y los acuerdos se tomarán por mayoría de votos presentes, correspondiendo al Presidente el voto de calidad en caso de empate. En ausencia del presidente, asumirá sus funciones quien él designe como suplente.
 
-c) Un representante de alguna institución de asistencia social privada inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social;
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
 
-d) El Director General del Organismo Estatal; y
+ARTICULO 22 SEXIES.- El Secretario Ejecutivo de la Comisión Intersecretarial de Desarrollo Integral Regional será el titular de la Secretaría, quien formulará la convocatoria para las sesiones.
 
-e) Los que en un futuro por necesidades del propio Organismo Estatal, se deban integrar, conforme a este ordenamiento.
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2021)</small>
 
-Los cargos a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna.
+ARTICULO 22 SEPTIES.- Corresponde a la Comisión Intersecretarial de Desarrollo Integral Regional:
 
-###### Artículo 26.
+I. Aprobar el dictamen técnico de congruencia al que se hace alusión en los artículos 10 fracción X, 150, 200 y demás relativos de esta Ley, mismos que por su trascendencia le sean remitidos por parte de la Secretaría;
 
-La Junta de Gobierno tendrá las siguientes facultades:
+II. Solicitar a la Secretaría la remisión de algún dictamen técnico de congruencia que por su trascendencia se estime que es necesaria la aprobación de dicho órgano colegiado, previo a ser remitido al municipio solicitante;
 
-I. Dictar los lineamientos generales para la planeación y ejecución de los servicios;
+III. Recibir y encausar debidamente las peticiones relacionadas con la promoción del desarrollo urbano regional que le formulen los residentes del área directamente afectados y, quienes tengan un interés jurídico o legítimo;
 
-II. Planear y dirigir los servicios que preste el Organismo Estatal;
+IV. Exhortar a las autoridades municipales y estatales para el efecto del cumplimiento de las leyes y disposiciones en materia de desarrollo urbano, así como exhortarlas para que en caso de ser necesario sean aplicadas de manera inmediata las medidas de seguridad a las que refiere la presente ley;
 
-III. Estudiar y aprobar el presupuesto correspondiente a cada ejercicio anual;
+V. Solicitar la intervención de la autoridad municipal o estatal que corresponda a efecto de que se inicie el procedimiento administrativo de aplicación y ejecución de sanciones.
 
-IV. Conocer y aprobar el informe de actividades que rinda la Presidencia, así como los estados financieros del Organismo Estatal;
+VI. Denunciar ante el Ministerio Público los actos y hechos que puedan ser considerados como posibles delitos en materia de desarrollo urbano de acuerdo a lo establecido por el Código Penal para el Estado de Baja California; y,
 
-V. Expedir las disposiciones de carácter general necesarias para la adecuada organización, funcionamiento técnico y administrativo del Organismo Estatal;
+VII. Las demás atribuciones que señalen las disposiciones reglamentarias correspondientes.
 
-VI. Contribuir a la promoción de actividades para la obtención de recursos que permitan el incremento del patrimonio del Organismo Estatal;
+###### ARTICULO 23.
 
-VII. Aprobar el organigrama general del Organismo Estatal;
+La planeación del desarrollo urbano en el Estado estará a cargo del Gobernador a través de la Secretaría, la Comisión Coordinadora de Desarrollo Urbano del Estado, los Ayuntamientos en sus respectivas jurisdicciones y la participación social en los términos establecidos en la Ley de Planeación para el Estado, esta Ley y demás disposiciones aplicables.
 
-VIII. Representar al Organismo Estatal, con facultades generales para pleitos y cobranzas, actos de administración y de dominio;
+### CAPITULO IV. Del Plan y Programas Municipales de Desarrollo Urbano
 
-IX. Delegar facultades para pleitos y cobranzas y actos de administración;
+###### ARTICULO 24.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+La ordenación y regulación de los asentamientos humanos en el Estado se realizará a través de:
 
-X. Expedir el reglamento del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar; y
+I.- Los Planes y Programas a nivel estatal y regional que comprenden:
 
-XI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+1.- El Plan Estatal de Desarrollo Urbano;
 
-###### Artículo 27.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-La Junta de Gobierno celebrará por lo menos una sesión ordinaria al mes y extraordinaria cuando se requiera; previa convocatoria por el Presidente de la misma. Sesionará válidamente con la asistencia de la mitad más uno de sus integrantes y las resoluciones se tomarán por mayoría de votos, teniendo la Presidencia voto de calidad en caso de empate.
+2.- Los Programas que ordenen y regulen Zonas Metropolitanas o conurbadas interestatales en donde participe el Estado con una o más Entidades Federativas, en los términos de la Ley General de Asentamientos Humanos;
 
-#### Sección Segunda. De la Presidencia de la Junta de Gobierno
+3.- Los Programas Regionales de Desarrollo Urbano;
 
-###### Artículo 28.
+4.- Los Programas que ordenen y regulen zonas conurbadas intermunicipales donde participe el Estado con dos o más Municipios del mismo; y,
 
-Para ser Presidente del Organismo Estatal se requiere:
+5. Los Programas Sectoriales.
 
-I. Ser ciudadano mexicano en ejercicio de sus derechos;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2021)</small>
 
-II. Tener vocación de servicio y los conocimientos necesarios para el desempeño del cargo;
+6.- La vinculación de la planeación del desarrollo urbano al Programa de Ordenamiento Ecológico del Estado.
 
-III. Ser de reconocida honorabilidad;
+II. Los Planes o Programas a nivel Municipal que comprenden:
 
-IV. Tener cuando menos treinta años de edad al día de su nombramiento; y
+1. El Plan Municipal de Desarrollo Urbano;
 
-V. Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento.
+2. Los Programas de Desarrollo Urbano de Centros de Población;
 
-###### Artículo 29.
+3. Los Programas Parciales de Conservación, Mejoramiento y Crecimiento de los Centros de Población;
 
-La Presidencia tendrá las facultades y obligaciones siguientes:
+4. Los Programas Parciales Comunitarios; y,
 
-I. Vigilar y apoyar la ejecución de los acuerdos de la Junta de Gobierno y las acciones que sean necesarias para el cumplimiento de los objetivos del Organismo Estatal;
+5. Los Programas Sectoriales.
 
-II. Facilitar el desarrollo de las actividades del Organismo Estatal, aprobando al efecto los procedimientos para su ejecución;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
 
-III. Proponer a la Junta de Gobierno las disposiciones y reglamentos necesarios para el funcionamiento del Organismo Estatal;
+Los Planes y Programas de Desarrollo Urbano a que se refiere este artículo deberán ser congruentes con el Programa de Ordenamiento Ecológico del Estado, los objetivos, políticas y metas establecidas en el Plan Estatal de Desarrollo.
 
-IV. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan en favor del Organismo Estatal que por ley le correspondan;
+#### SECCION UNICA. Del Fraccionamiento, Fusión, Subdivisión y Relotificación de terrenos
 
-V. Aprobar y testificar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas o privadas;
+###### ARTICULO 25.
 
-VI. Nombrar y remover, previo acuerdo con el Gobernador del Estado, al Director General del Organismo Estatal;
+Los Planes y Programas a que se refiere el artículo anterior integran el conjunto de disposiciones y políticas definidas para alcanzar los objetivos propuestos en el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, destinos y reservas de tierra a efecto de ejecutar obras públicas y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población en el Estado.
 
-VII. Convocar a la Junta de Gobierno a sesiones ordinarias y extraordinarias;
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
-VIII. Rendir anualmente el informe general de actividades del Organismo Estatal;
+###### ARTICULO 26.
 
-IX. Presidir el Consejo Estatal de Familia; y
+Los Planes y Programas a que se refiere el Artículo 24 y las declaratorias de provisiones, usos, destinos, y reservas que se expidan para integrar las zonificaciones de los centros de población, se elaborarán considerando las disposiciones de esta Ley y serán publicados en forma abreviada en el Periódico Oficial del Estado y publicarse en el portal institucional de la Secretaría y Municipio según corresponda.
 
-X. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+###### ARTICULO 27.
 
-###### Artículo 30.
+El Gobernador del Estado solamente ordenará la publicación del Plan o Programa Municipal de Desarrollo Urbano o de alguna declaratoria derivada de aquél, si previamente ha sido aprobado por el Ayuntamiento con apego a las disposiciones de ésta Ley y si existe congruencia con los Planes o Programas de Desarrollo Urbano aplicables a nivel estatal y federal.
 
-La presidencia, previo el conocimiento y opinión de la Junta de Gobierno, podrá integrar los comités técnicos necesarios para el estudio y establecimiento de mecanismos que aseguren la coordinación interinstitucional e intersectorial en la atención de las tareas asistenciales. Estos comités estarán integrados por los representantes que al efecto designen las dependencias y entidades competentes.
+El Ejecutivo Estatal ordenará la publicación de los Planes y Programas Municipales en un término de veinte días hábiles computados a partir de la fecha en que se le solicite.
+
+#### SECCION UNICA. Del Fraccionamiento, Fusión, Subdivisión y Relotificación de terrenos
+
+###### ARTICULO 28.
+
+De cada Plan o Programa de Desarrollo Urbano y las declaratorias que ordene publicar, el Gobernador remitirá copia al Congreso del Estado para su conocimiento y ordenará su inscripción en el Registro Público de la Propiedad y del Comercio, conforme lo dispone este mismo ordenamiento.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+Asimismo, se mantendrán a consulta pública en las oficinas en donde se lleve su registro, en la Secretaría y en las Dependencias Municipales que designen los Ayuntamientos, según corresponda a su nivel de aplicación.
+
+###### ARTICULO 29.
+
+Los Planes y Programas previstos en el Artículo 24 de esta Ley tendrán la vigencia que se determine en cada caso, o en su defecto, ésta será indefinida.
+
+Para modificar o cancelar un Plan o Programa de Desarrollo Urbano se estará a lo dispuesto en esta Ley.
+
+###### ARTICULO 30.
+
+Los objetivos del Plan Estatal de Desarrollo Urbano estarán dirigidos a promover el desarrollo urbano en los centros de población, conforme a las disposiciones de los artículos de esta Ley, en congruencia con el Programa de Desarrollo Urbano expedido por la Federación conforme a la Ley General de Asentamientos Humanos. Estos son:
+
+I. Lograr el equilibrio poblacional de la entidad, conforme a la capacidad de cada una de las regiones que la integran, considerando su extensión territorial y recursos y orientando las corrientes migratorias hacia los centros de población donde se defina una política de estímulo;
+
+II. Alentar la permanencia y el crecimiento de la población en las ciudades que presentan condiciones favorables para el desarrollo de los asentamientos humanos;
+
+III. Desalentar el crecimiento de las áreas urbanas de la entidad en donde se presenten limitaciones topográficas, físicas y ecológicas que impidan seriamente el desarrollo urbano;
+
+IV. Estructurar la interrelación entre los centros de población con sus regiones y los servicios que requieran, para obtener el grado óptimo de autosuficiencia regional;
+
+V. Promover el asentamiento de la población dispersa en el medio rural, en centros de población que garanticen un mínimo de condiciones de infraestructura y servicios;
+
+VI. Salvaguardar los recursos naturales, mantener el equilibrio ecológico y mejorar las condiciones ambientales de los centros de población;
+
+VII. Salvaguardar el patrimonio histórico-cultural de la entidad; y
+
+VIII. Estimular la participación solidaria de los distintos grupos que integran la comunidad, en la realización de las acciones que se deriven del Plan Estatal de Desarrollo Urbano.
 
 #### Sección Tercera. Del Director General del Organismo Estatal
 
-###### Artículo 31.
+###### ARTICULO 31.
 
-Para ser Director General del Organismo Estatal, se requiere:
+El Plan Estatal de Desarrollo Urbano deberá contener:
 
-I. Ser mexicano en pleno goce de sus derechos civiles;
+I. Diagnóstico de la situación del desarrollo nacional y en especial, de la región fronteriza noroeste del país;
 
-II. Poseer título profesional y contar con experiencia en materia administrativa y asistencial;
+II. Los requerimientos que planteen los aspectos demográficos, sociales, históricos-culturales, económicos, políticos y administrativos de la entidad;
 
-III. Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento; y
+III. Los problemas de los centros de población de la entidad, en sus causas y consecuencias;
 
-IV. Tener cuando menos treinta años de edad al día de su nombramiento.
+IV. Las condiciones geofísicas, ecológicas y ambientales de las regiones y municipios de la entidad;
 
-###### Artículo 32.
+V. Los elementos de acondicionamiento del territorio, especialmente infraestructura y equipamiento urbano básicos, medios de comunicación y servicios regionales y urbanos;
 
-El Director General tendrá las siguientes facultades y obligaciones:
+VI. Las condiciones en que se presente o tienda a presentarse el fenómeno de conurbación en la entidad;
 
-I. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno y de la Presidencia para el logro de los objetivos del Organismo Estatal;
+VII. El régimen de la tenencia de la tierra y el uso de las áreas y predios para el desarrollo urbano;
 
-II. Presentar al conocimiento y aprobación de la Junta de Gobierno, los proyectos y planes de trabajo, presupuestos, informes de actividades y estados financieros del Organismo Estatal, así como los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formule la Contraloría del Estado;
+VIII. Las alternativas y métodos compatibles con los recursos disponibles en la entidad para la aplicación de la presente Ley;
 
-III. Designar, con aprobación de la Presidencia, a los servidores públicos del Organismo Estatal; expedir o autorizar los nombramientos del personal y llevar las relaciones de trabajo de acuerdo con las disposiciones legales;
+IX. Los convenios y acciones de inversión pública federal, estatal y municipal; y,
 
-IV. Planear, dirigir y controlar el funcionamiento del Organismo Estatal, con sujeción a las instrucciones de la Presidencia;
+X. Todos los demás aspectos que permitan la realización de las acciones previstas en dicho Plan Estatal.
 
-V. Celebrar convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo Estatal;
+###### ARTICULO 32.
 
-VI. Actuar en representación del Organismo Estatal, con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes. Podrá delegar las facultades para pleitos y cobranzas; y
+El Plan Estatal de Desarrollo Urbano tendrá como elementos informativos complementarios, los estudios, diagnósticos y proyecciones a futuro de los siguientes aspectos:
 
-VII. Las demás que sean necesarias para el ejercicio de sus funciones.
+I. El sistema de estructuración regional del territorio de la entidad, considerando la aptitud y requerimientos del suelo en relación con las actividades que afectan el desarrollo urbano;
+
+II. El volumen, estructura, crecimiento, migración y distribución de la población;
+
+III. La distribución territorial de las actividades económicas;
+
+IV. El desarrollo de las comunicaciones y transporte de la entidad;
+
+V. El sistema jerarquizado de centros de población;
+
+VI. La identificación, clasificación y conservación de zonas naturales, históricas, artísticas, culturales y aquellos sitios que por su interés social constituyan un patrimonio para la entidad;
+
+VII. Los problemas de tenencia de la tierra y regularización para su integración al desarrollo urbano;
+
+VIII. El estudio de viabilidad económica donde se incluyan proyectos de inversión y estrategias financieras; y,
+
+IX. La descripción de los mecanismos de instrumentación operativa, técnica, jurídica, fiscal y de información.
 
 #### Sección Cuarta. Del Consejo Estatal de Familia
 
-###### Artículo 33.
+###### ARTICULO 33.
 
-El Consejo Estatal de Familia es una institución que se integra como órgano de participación ciudadana y del Organismo Estatal para dar atención y seguimiento a los asuntos que le devienen de las disposiciones contenidas en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco.
+Los objetivos del Plan Estatal de Desarrollo Urbano se realizan a través de las siguientes acciones:
 
-Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los discapacitados, a las personas en edad senil, a las madres en situación crítica ya sea afectiva o económica y a la familia.
+I. La fundación de centros de población;
 
-###### Artículo 34.
+II. La conservación, mejoramiento y previsión del crecimiento de los centros de población existentes mediante el ordenamiento ecológico, reordenamiento, renovación y densificación de áreas urbanas; la dotación de servicios y equipamiento urbano; la celebración de convenios entre autoridades y particulares y la expropiación de predios por causa de utilidad pública, cuando las condiciones así lo requieran;
 
-El Consejo Estatal de Familia se integrará por:
+III. La detección y declaración del fenómeno de conurbación cuando dos o más centros de población tiendan a formar una continuidad demográfica;
 
-I. Un Presidente; que será la persona que desempeñe el cargo de Presidente del Organismo Estatal;
+IV. La aplicación de estímulos para el desarrollo de zonas declaradas prioritarias;
 
-II. Un Secretario Ejecutivo nombrado por el propio Consejo Estatal a propuesta de la presidencia;
+V. La constitución de provisiones territoriales para la fundación de centros de población y para el establecimiento de obras y servicios de alcance regional e interestatal;
 
-III. Un representante del Instituto Cabañas;
+VI. La adquisición por parte del Estado de áreas y predios dentro y fuera de los centros de población, que satisfagan oportunamente las necesidades de tierra para el crecimiento del área urbana de los centros de población y de éstos últimos;
 
-IV. Un representante de alguna institución de asistencia social privada encargada de la custodia de menores en estado de maltrato o abandono, designado por el propio Consejo Estatal a propuesta del instituto;
+VII. La realización de programas de obra pública que satisfagan las necesidades prioritarias y optimicen la relación costo-beneficio;
 
-V. Cinco consejeros ciudadanos que serán designados por el titular del poder ejecutivo, previa convocatoria a la ciudadanía.
+VIII. La inversión en programas coordinados con la Federación y los Municipios, con recursos federales, municipales o mixtos para obra pública;
 
-De las personas propuestas, se deberán escoger a cinco de ellas que tendrán el carácter de Consejeros titulares, así como a dos suplentes que deberán integrar el Consejo Estatal en ausencias de los titulares, previo llamado que se les haga por el presidente del Consejo Estatal.
+IX. La concertación de acciones para promover la participación solidaria de los distintos grupos que integran las comunidades en la promoción del desarrollo urbano; y,
 
-Los consejeros ciudadanos durarán en su cargo cuatro años, podrán ser reelectos para un período inmediato.
+X. En general, todas aquellas acciones que contribuyan a su realización.
 
-Los consejeros tendrán una remuneración adecuada e irrenunciable conforme lo permita el presupuesto asignado.
+###### ARTICULO 34.
 
-###### Artículo 35.
+El Plan Estatal de Desarrollo Urbano, representa el compromiso del Gobierno del Estado en materia de ordenación y regulación de los asentamientos humanos. Se expide para imprimir unidad y congruencia a las actividades de la Administración Pública Estatal y en especial, a todas las dependencias y entidades coordinadas del sector de asentamientos humanos y obras públicas. Asimismo, el Plan servirá de referencia a las actividades que se desarrollen con la participación de los Municipios y la Federación a partir de los convenios de coordinación respectivos.
 
-Para ser integrante del Consejo Estatal de Familia se deberán satisfacer los siguientes requisitos:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-I. Ser mexicano en ejercicio de sus derechos;
+###### ARTICULO 35.
 
-II. Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento;
+El Plan Estatal de Desarrollo Urbano será formulado por la Secretaría a partir de los estudios e investigaciones que realice, de las propuestas que hagan las dependencias y entidades coordinadas de ese sector de la Administración Pública Estatal representadas en la Comisión Coordinadora de Desarrollo Urbano del Estado, de las propuestas que formulen los Ayuntamientos y de la evaluación que se realice del mismo Plan, mediante la consulta que organice en los términos de la Ley de Planeación para el Estado.
 
-III. Tener vocación de servicio y los conocimientos necesarios para el desempeño del cargo;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-IV. Ser de reconocida honorabilidad;
+###### ARTICULO 36.
 
-V. Tener cuando menos treinta años de edad el día de su nombramiento; y
+Una vez elaborado el Plan Estatal de Desarrollo Urbano, el Titular de la Secretaría lo someterá a la aprobación del Gobernador del Estado, previo análisis y revisión de la Comisión Coordinadora de Desarrollo Urbano. Aprobado el Plan, el Gobernador ordenará su publicación y registro en los términos de esta Ley.
 
-VI. Para los Consejeros Ciudadanos, no desempeñar cargo dentro de la Administración Pública Federal, estatal o municipal a la fecha de su nombramiento.
+###### ARTICULO 37.
 
-###### Artículo 36.
+Los Programas Regionales de Desarrollo Urbano son el conjunto de acciones definidas para promover el desarrollo de los centros de población ubicados en el territorio de dos o más municipios, identificado como una región en el Plan Estatal de Desarrollo Urbano y conservando el medio natural, para que en condiciones de equilibrio ecológico se propicie una armónica relación entre el medio rural y el urbano.
 
-El Consejo Estatal de Familia tiene las siguientes atribuciones:
+Este programa se expide para promover la acción coordinada de varios municipios de la Entidad, en acciones prioritarias y estratégicas relacionadas con su desarrollo urbano.
 
-I. Las que le asignan las disposiciones contenidas en los Códigos, Civil y de Procedimientos Civiles;
+###### ARTICULO 38.
 
-II. Establecer las políticas y normas técnicas de procedimientos que en el desempeño de sus facultades requieran;
+Los Programas Regionales se sujetarán a las disposiciones contenidas en el Plan Estatal y especificarán los objetivos, prioridades y políticas referidas a las regiones que se consideren prioritarias o estratégicas.
 
-III. Designar y remover libremente al Secretario Ejecutivo del mismo, a propuesta de su presidencia;
+###### ARTICULO 39.
 
-IV. Elaborar su presupuesto anual de ingresos y egresos;
+El Programa Regional de Desarrollo Urbano deberá contener los siguientes aspectos:
 
-V. Expedir y modificar su Reglamento Interior de Trabajo;
+I. Hacer referencia a su área de aplicación;
 
-VI. Acordar los casos en que deba eximirse del cobro de la cuota de recuperación en los negocios en que le corresponda intervenir, previo estudio socioeconómico;
+II. Determinar sus objetivos y metas;
 
-VII. Actuar como árbitro o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
+III. Analizar la situación y proyecciones a futuro de sus aspectos más relevantes;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+IV. Proponer alternativas viables para el desarrollo urbano de la región presentando su análisis comparativo; y,
 
-VIII. Aprobar el número, asignación y nombramiento de los delegados; y
+V. Presentar propuestas para el ordenamiento y regulación de las zonas y de los centros de población comprendidos en su territorio regional, que incluyan:
 
-IX. Las demás que les confiera este Código y otros ordenamientos legales aplicables.
+a). El sistema jerarquizado de centros de población y zonas preferentes de desarrollo;
 
-###### Artículo 37.
+b). El esquema de ordenamiento territorial;
 
-Los requisitos para desempeñar el cargo de Secretario Ejecutivo serán los mismos que para ser Consejero Ciudadano, además de poseer el título de Abogado o su equivalente, con un ejercicio profesional de cuando menos cinco años anteriores al día de su designación.
+c). El señalamiento de áreas para las provisiones requeridas en la fundación de nuevos centros de población;
 
-###### Artículo 38.
+d). La determinación de las áreas para la conservación, mejoramiento y crecimiento de los centros de población;
 
-Son atribuciones y obligaciones del Secretario Ejecutivo:
+e). La determinación de equipamiento regional y de obras de infraestructura básica;
 
-I. Tener la representación jurídica del Consejo Estatal y actuar siguiendo las instrucciones del mismo;
+f). Los estudios de factibilidad, incluyendo proyectos y estrategias de inversión;
 
-II. Tener la dirección y representación administrativa del Consejo Estatal, tanto en lo interno como frente a terceros;
+g). La definición de sistemas operativos para su ejecución, control y evaluación;
 
-III. Proponer al Consejo Estatal el número y asignación de los delegados y dar cuenta del desempeño profesional de lo (sic) mismos;
+h). Las actividades productivas; y,
 
-IV. Vigilar y revisar las actuaciones de los delegados;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-V. Tener conjuntamente con la Presidencia del Consejo Estatal y previo acuerdo del mismo, la representación patrimonial;
+i). La protección del ambiente, el equilibrio ecológico y la provisión de áreas verdes urbanas.
 
-VI. Proponer al Consejo Estatal las prácticas y políticas generales que se habrán de seguir ante organismos gubernamentales, descentralizados o privados que se relacionen con el Derecho de Familia;
+###### ARTICULO 40.
 
-VII. Promover y fortalecer las relaciones del Consejo Estatal con todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los incapaces, a las madres en situación crítica ya sea afectiva o económica y a la familia;
+El esquema de ordenamiento territorial de un Programa Regional de Desarrollo Urbano clasificará las áreas y predios en las categorías siguientes:
 
-VIII. Promover y fomentar estudios sobre las materias de su competencia, a través de foros y publicaciones que tengan tal objeto;
+I. Reserva ecológica. Que comprende las tierras, aguas y bosques en estado natural que por sus características de valor ambiental, científico o paisajístico deben ser conservadas como patrimonio ecológico;
 
-IX. Colaborar en la elaboración de los informes anuales de actividades que el Consejo Estatal de Familia deberá rendir el día treinta de abril de cada año;
+II. Rústico. Que comprende las tierras, aguas y bosques en estado natural que por sus características lo hacen susceptible de explotación racional, agropecuaria, piscícola, minera o forestal;
 
-X. Resolver en definitiva sobre las inconformidades que por actuación de sus delegados planteen los interesados; y
+III. Urbanizable. Que comprende el suelo cuyas características lo hacen susceptible de ser urbanizado sin detrimento del equilibrio ecológico, para destinarlo a la fundación o crecimiento de los centros de población, por lo que se señalará para establecer las correspondientes provisiones y reservas;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+IV. Urbanizado. Que comprende el suelo ya integrado a los centros de población dentro de su perímetro urbano; y
 
-XI. Dar fe de las diligencias que se practiquen en el cumplimiento de sus fines;
+V. No aptas para el desarrollo urbano. Que comprende el suelo cuyas características geológicas, hidrológicas, topográficas, ecológicas o ambientales resulten altamente riesgosas para el asentamiento humano.
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+###### ARTICULO 41.
 
-XII. Cotejar las copias o testimonios de constancias que se mandaren expedir autorizándolas con su firma y sello correspondiente;
+Son acciones del Programa Regional de Desarrollo Urbano, las que permitan:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+I. La fundación de nuevos centros de población;
 
-XIII. Las demás que sean conferidas por el reglamento interior y otras disposiciones legales aplicables.
+II. La conservación y mejoramiento de los centros de población;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+III. La previsión y regulación del crecimiento de los centros de población;
 
-###### Artículo 39.
+IV. El aprovechamiento de las áreas y predios de los centros de población para promover su desarrollo integral;
 
-Los Organismos municipales crearán y operarán los Consejos Municipales, y en su caso los intermunicipales de Familia, de acuerdo a la necesidad de la población y las posibilidades de los propios municipios; los cuales tendrán las facultades que les otorgue el presente Código.
+V. La localización y establecimiento en la región de áreas y predios necesarios para el desarrollo urbano;
 
-###### Artículo 40.
+VI. La definición y promoción de los siguientes elementos:
 
-El Consejo de Familia de los Organismos Municipales se formará, al menos, con seis consejeros:
+a). La red vial interregional;
 
-I. El Presidente Municipal respectivo, o su representante;
+b). La estructuración del transporte colectivo de carácter suburbano;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+c). Las instalaciones requeridas para los medios de comunicación terrestre, aérea y marítima, así como el establecimiento de zonas de restricciones;
 
-II. El Presidente del organismo municipal, que tendrá de oficio, el cargo de Presidente del Consejo Municipal;
+d). Los derechos de paso y franjas de protección para la infraestructura básica;
 
-III. El Director del Organismo Municipal;
+e). Las zonas naturales de valor ecológico y paisajístico, así como la de protección de los acuíferos;
 
-IV. El representante de la Procuraduría Social;
+f). La traza urbana y edificaciones de valor histórico, cultural y arquitectónico;
 
-V. Un representante de la asistencia social privada;
+g). Las zonas de extracción de materiales de construcción; y,
 
-VI. Un representante de los padres de familia; y
+h). Las zonas de restricción y las no aptas para el asentamiento humano.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+VII. El establecimiento de las siguientes políticas:
 
-VII. Hasta cinco consejeros ciudadanos designados por el presidente del organismo municipal, previa convocatoria a los habitantes del municipio.
+a). De promoción de los medios de comunicaciones y transportes;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 41.
+b). De dotación de servicios para las zonas conurbadas o metropolitanas;
 
-El Consejo Intermunicipal de Familia deberá conformarse con la participación de dos o más municipios colindantes y pertenecientes al mismo partido judicial, y se integrará por:
+c). De promoción turística y recreativa;
 
-I. El Presidente de cada uno de los organismos municipales integrantes;
+d). De protección y mejoramiento del ambiente; y,
 
-II. El Delegado de la Procuraduría de la Defensa del Menor y la Familia de cada municipio integrante;
+e). De control, consolidación y crecimiento de los centros de población.
 
-III. El Regidor presidente de la Comisión de Asistencia Social o su similar, de cada uno de los municipios integrantes;
+VIII. Todas aquellas que en adición a las anteriores, contribuyan a lograr los objetivos del Programa Regional.
 
-IV. Un Consejero ciudadano por cada uno de los municipios quienes serán designados por el Presidente Municipal, previa convocatoria pública, y los cuales deberán de cubrir los requisitos del artículo 35 del presente ordenamiento.
+###### ARTICULO 42.
 
-El Consejo Intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
+El procedimiento para la elaboración del proyecto del Programa Regional de Desarrollo Urbano, se sujetará a las disposiciones del Artículo 35 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 42.
+###### ARTICULO 43.
 
-Los consejeros municipales e intermunicipales de familia tendrán las siguientes obligaciones y atribuciones:
+Elaborado el proyecto del Programa Regional de Desarrollo Urbano, se someterá a la consideración de los Ayuntamientos comprendidos en la región de referencia, a fin de que expresen sus opiniones en el término de treinta días a partir de la fecha en que reciban el documento. Recibidas las observaciones de los Ayuntamientos, la Secretaría ajustará el proyecto de Programa a las mismas, en caso de que procedan y los enviará a la Comisión Coordinadora de Desarrollo Urbano quién lo someterá a la opinión de los Órganos Auxiliares que corresponda, en los términos de la Ley de Planeación para el Estado.
 
-I. Designar y remover libremente a sus empleados y delegados en los términos de ley;
+Posteriormente la Comisión Coordinadora de Desarrollo Urbano lo someterá a la consideración del Gobernador del Estado, quien una vez que lo haya aprobado, procederá a establecer la coordinación con los Ayuntamientos involucrados.
 
-II. Expedir su Reglamento Interior;
+###### ARTICULO 44.
 
-III. Disponer los casos en que deba eximirse del cobro de la cuota de recuperación en los negocios en que le corresponda intervenir, previo estudio socioeconómico;
+Aprobado el Programa Regional y el convenio de coordinación municipal, se ordenará su publicación y registro en los términos de esta Ley.
 
-IV. Actuar como árbitro y/o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+###### ARTICULO 45.
 
-V. Regirse por las políticas y normas técnicas de procedimiento establecidas por el Consejo Estatal de Familia;
+El Programa Regional de Desarrollo Urbano se dará a conocer al público en las oficinas y residencias de la Secretaría, en las oficinas del Registro Público de la Propiedad y de Comercio y en los Ayuntamientos comprendidos en la región de referencia.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-VI. Las demás que le confiera este Código, así como los ordenamientos legales aplicables.
+###### ARTICULO 46.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+La Secretaría verificará el cumplimiento por parte de los servidores públicos responsables, de la correcta ejecución de los actos de registro relacionados con el Plan Estatal de Desarrollo Urbano y los Programas Regionales que se expidan.
 
-En el Consejo Municipal como en el Intermunicipal, habrá una persona designada por el Consejo Estatal para vigilar las actuaciones de los demás miembros del Consejo y del Secretario Ejecutivo.
+###### ARTICULO 47.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+En el área de aplicación de un Programa Regional de Desarrollo Urbano no podrá realizarse ninguna acción de urbanización que contravenga las disposiciones de dicho programa. Asimismo, no podrán realizarse acciones de urbanización sin la autorización previa de la autoridad competente.
 
-###### Artículo 43.
+###### ARTICULO 48.
 
-Tanto los Consejos Municipales como los Intermunicipales de Familia contarán con un Secretario Ejecutivo, que será designado por el propio Consejo, en la primera sesión ordinaria, y tendrá las facultades del Secretario Ejecutivo del Consejo Estatal, previstas en el artículo 38 de este Código, en el ámbito de su competencia.
+El Plan Municipal de Desarrollo Urbano es el documento rector que integra el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones encaminadas a ordenar y regular los centros de población en el territorio de cada municipio, mediante la determinación de provisiones, usos, destinos y reservas de áreas y predios, para la conservación, mejoramiento y crecimiento de los mismos. El Programa establecerá las directrices, lineamientos y normas conforme a las cuales las diversas personas y grupos que integren la población, participarán en el proceso de urbanización.
 
-Para desempeñar el cargo de Secretario Ejecutivo del Consejo Municipal o Intermunicipal, se requieren los requisitos previstos en el artículo 37 de este mismo Código, a excepción de la edad, que será como mínimo de veinticinco años, así como el ejercicio profesional, que será mínimo de tres años.
+###### ARTICULO 49.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+El Plan Municipal de Desarrollo Urbano, comprenderá:
 
-###### Artículo 44.
+I. El análisis de su congruencia con el Plan Estatal de Desarrollo Urbano, como también con otros Programas que se hayan expedido a nivel estatal y regional;
 
-En las faltas temporales del Secretario Ejecutivo, de los Consejos de Familia Estatal, Municipal o Intermunicipal, cubrirá su ausencia un Consejero electo para este efecto, en la sesión que al respecto se celebre en el Consejo respectivo.
+II. Los requerimientos que planteen los aspectos demográficos, sociales, culturales, económicos, políticos y administrativos;
 
-###### Artículo 45.
+III. El estudio de las condiciones geofísicas, ecológicas y ambientales de los centros de población y de las medidas para su conservación y mejoramiento;
 
-Los Organismos Municipales que por su capacidad económica y administrativa lo requieran, podrán celebrar convenios con el Consejo Estatal de Familia para que éste se haga cargo de las funciones relacionadas con el Consejo Municipal de Familia.
+IV. El establecimiento de las funciones intermunicipales de servicios en los centros de población;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+V. La información catastral, jurídica y de aprovechamiento del suelo en los centros de población; y,
 
-###### Artículo 46.
+VI. Los programas, estrategias y proyectos de inversión y ejecución.
 
-Los Consejos de Familia Estatal, Municipal o Intermunicipal, realizarán las funciones a través de delegados personales e institucionales, estos últimos pueden ser públicos o privados.
+###### ARTICULO 50.
 
-###### Artículo 47.
+Del Plan Municipal de Desarrollo Urbano se desprenden los siguientes:
 
-Los delegados personales deberán cumplir para su desempeño los mismos requisitos que se exigen para el Secretario Ejecutivo, salvo la edad mínima que se fija en 25 años y la práctica profesional que se fija en tres años.
+I. Los Programas de Desarrollo Urbano de los Centros de Población;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+II. Los Programas Parciales de Desarrollo Urbano que se expidan para la conservación, mejoramiento y crecimiento de centros de población; y,
 
-###### Artículo 48.
+III. Los Programas Parciales Comunitarios;
 
-El Consejo Estatal de Familia determinará el número y asignación de los delegados que se requieren para cada uno de los municipios en que está dividido el territorio del Estado.
+IV. Los Programas Sectoriales Municipales.
 
-###### Artículo 49.
+###### ARTICULO 51.
 
-Los interesados deberán cubrir como honorarios o derechos al Consejo Municipal de Familia, las cantidades que se fijen en las leyes y aranceles profesionales, para los actos en que intervenga el Consejo.
+Para elaborar y aprobar el Plan Municipal de Desarrollo Urbano, se seguirá el procedimiento siguiente:
 
-Los delegados personales e institucionales que haya (sic) intervenido en dichos actos, tendrá (sic) derecho a recibir como única y exclusiva compensación, la mitad del monto del pago; y el resto deberá entregarse a la tesorería de los Consejos para sus gastos propios de funcionamiento.
+I. El Ayuntamiento en sesión de Cabildo ordenará que se elabore el Plan, o bien, acordará proceder a la revisión del Plan vigente y a su modificación en su caso;
 
-El Cargo de delegado personal es compatible con el libre ejercicio profesional.
+II. El Ayuntamiento en los términos de la Ley de Planeación del Estado de Baja California convocará y coordinará las consultas, a fin de promover la participación de los distintos grupos que integran la comunidad, que serán cuando menos los indicados en las fracciones II a VIII del Artículo 22 de esta Ley;
 
-###### Artículo 50.
+III.- Formulado el proyecto de Plan, será presentado al Ayuntamiento en sesión de Cabildo donde, en su caso, se acordará someterlo a consulta pública, publicando el anteproyecto en los estrados de la Presidencia Municipal y facilitando copias de su versión abreviada a las personas, instituciones y asociaciones de todos los sectores que lo requieran, mismos que dispondrán de treinta días contados a partir de la fecha en que se publique, para formular por escrito las observaciones, comentarios y proposiciones concretas que consideren oportunas, dirigidos a los órganos auxiliares contemplados en la Ley de Planeación del Estado de Baja California;
 
-Para ser acreditado como delegado Institucional se deberán cubrir los siguientes requisitos:
+IV. Con fundamento en el Acuerdo de Cabildo que apruebe el proyecto de Plan, el Presidente Municipal lo remitirá al Ejecutivo del Estado a través de la Comisión Coordinadora de Desarrollo Urbano, para que se formulen los comentarios y recomendaciones que se consideren oportunos, en relación con la congruencia del proyecto con los Planes y Programas vigentes a nivel estatal y regional, y en general, respecto de las acciones previstas en que tenga participación el Gobierno del Estado y la Federación. La Comisión Coordinadora de Desarrollo Urbano dispondrá de un término de treinta días hábiles a partir de la fecha en que oficialmente reciba un proyecto de Plan Municipal de Desarrollo Urbano para formular sus comentarios, de no hacerlo se entenderá que está de acuerdo con el mismo;
 
-I. Estar inscrito en el Registro Estatal de Asistencia Social;
+V. Cumplidas las consultas a que se refieren las dos fracciones anteriores, se procederá a revisar el proyecto para considerar las opiniones recibidas. El Proyecto ya ajustado se someterá a dictamen de las Comisiones del Ayuntamiento relacionadas con la planeación, infraestructura y servicios públicos en los centros de población y su reglamentación;
 
-II. Perseguir fines no lucrativos, en las condiciones y dentro de los límites fijados por el presente ordenamiento;
+VI. Una vez que se dictamine el proyecto del Plan, será presentado en sesión de Cabildo para su aprobación formal. Una vez aprobado por el Ayuntamiento, el Plan será remitido por el Presidente Municipal al Gobernador del Estado para su publicación y registro. La documentación que se remitirá al Ejecutivo Estatal, contendrá:
 
-III. Ser dirigido y administrado por personas cualificadas por su integridad moral y por su formación o experiencia para actuar en el ámbito del Derecho Familiar; y
+a). El Plan Municipal de Desarrollo Urbano;
 
-IV. Estar sometido al control del Consejo Estatal de Familia en cuanto a su funcionamiento y situación financiera.
+b). La versión abreviada del mismo;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+c). La documentación que acredite la celebración de las instancias de consulta popular; y,
 
-V. Solicitarlo por escrito, motivando el interés de su nombramiento;
+d). Las recomendaciones y comentarios que haya formulado la Comisión Coordinadora de Desarrollo Urbano del Estado conforme a la fracción IV de este artículo, o bien, la manifestación de que no lo recibieron, expresada en escrito por el Presidente Municipal, acompañando copia del oficio con que se remitió el proyecto de Plan a esa Comisión.
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+Una vez que el Gobernador del Estado reciba el Plan Municipal de Desarrollo Urbano, procederá a tramitar su publicación y registro conforme las disposiciones de esta Ley.
 
-VII (SIC). Los demás requisitos que señale el reglamento.
+###### ARTICULO 52.
 
-Siempre que se cumplan todos los requisitos, el Consejo Estatal otorgará la acreditación dentro de los siguientes 30 días siguientes a la solicitud.
+El Programa de Desarrollo Urbano de los Centros de Población es el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones establecidas en el Plan Municipal, referidas a un centro de población determinado, tendientes a promover un desarrollo armónico de su territorio.
 
-###### Artículo 51.
+###### ARTICULO 53.
 
-Los organismos públicos tendrán la calidad de delegados institucionales en los términos que señale la ley.
+Son objetivos del Programa de Desarrollo Urbano de los Centros de Población:
 
-###### Artículo 52.
+I. Adecuar la distribución de la población y de las actividades económicas, de acuerdo a las condiciones de su territorio;
 
-La actuación de los delegados en materia judicial se deberá entender de manera unitaria; y tendrán la representación jurídica del Consejo Estatal en todos los procedimientos en los que intervengan dentro del ámbito de su competencia; cuando tuvieren conocimiento de hechos que estimen delictivos, deberán formular las denuncias ante el Ministerio Público.
+II. Alentar la radicación de la población en su medio, mejorando las condiciones de su hábitat;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+III. Propiciar la integración socioeconómica entre las diferentes partes que componen al centro de población;
 
-###### Artículo 53.
+IV. Distribuir equitativamente las cargas y beneficios del desarrollo urbano;
 
-Las actuaciones de los delegados podrán ser impugnadas por quien tenga interés para ello, dentro del término de tres días contados a partir de que tenga conocimiento de las actuaciones, ante el Secretario Ejecutivo del Consejo Municipal o Intermunicipal de Familia, o en su caso, ante el Secretario Ejecutivo del Consejo Estatal de Familia. Este recibida la inconformidad, bajo su responsabilidad, ordenará se rinda por el delegado un informe detallado, junto con las probanzas en lasa (sic) que apoye su actuación; recibido el informe o transcurrido el término fijado para su rendición, el Secretario Ejecutivo deberá resolver, haciendo saber el contenido de su resolución a las partes involucradas; cuando ello sea posible y así se acuerde en la resolución podrán retrotraerse los efectos de las actuaciones de los delegados consideradas ilegítimas.
+V. Preservar y mejorar las áreas forestales, ríos, escurrimientos y acuíferos en el centro de población y sus áreas de apoyo;
 
-Los Consejos de Familia, podrán en forma oficiosa impugnar actos de los delegados.
+VI. Salvaguardar el patrimonio, preservando los edificios y conjuntos arquitectónicos de valor histórico cultural o que identifiquen la fisonomía del lugar;
 
-## TITULO SEGUNDO. DEL INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL
+VII. Procurar que el centro de población mantenga o desarrolle de manera integral la calidad de la imagen visual;
 
-### CAPITULO I. Disposiciones Generales
+VIII. Distribuir adecuadamente las actividades urbanas para el óptimo funcionamiento del centro de población;
 
-###### Artículo 54.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-El Instituto Jalisciense de Asistencia Social, es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que tiene por objeto, promover, coordinar, apoyar y supervisar los servicios asistenciales que realicen las personas e instituciones dedicadas a la asistencia social privada.
+IX. Facilitar la comunicación y los desplazamientos de la población, otorgando preferencia a los sistemas colectivos de transporte;
 
-###### Artículo 55.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-El Instituto tiene a su cargo las siguientes funciones:
+X. Incrementar el número y la superficie y mejorar el equipamiento, conservación y mantenimiento de áreas verdes urbanas; y,
 
-I. Representar a la beneficencia pública del Estado para todo efecto legal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-II. Administrar directamente las dependencias que tiene a su cargo a través de un administrador, patronato u otra comisión similar, nombrada por el propio Instituto;
+XI. Todos aquellos que permitan orientar el desarrollo del centro de población a condiciones óptimas.
 
-III. Apoyar y administrar, en la medida de sus posibilidades técnicas y económicas y en la misma forma que se indica en la fracción anterior, los programas de ayuda directa, establecidos o que se lleguen a establecer por el Estado o el propio Instituto;
+## TITULO TERCERO. DE LAS CONURBACIONES
 
-IV. Fundar instituciones análogas a las que actualmente tiene y establecer delegaciones y subdelegaciones en las diversas poblaciones del Estado en las que sea necesario, tomando en cuenta para tal efecto la información proporcionada por el Registro Estatal de Asistencia Social, previa aprobación de la Junta de Gobierno del Instituto;
+### CAPITULO V. De los Programas de Desarrollo Urbano de Centros de Población
 
-V. Percibir, administrar y aplicar, directamente los subsidios que le otorguen la Federación, el Estado y los municipios, así como las cuotas de recuperación, las rentas y aprovechamientos diversos de los bienes que integren su patrimonio;
+###### ARTICULO 54.
 
-VI. Celebrar toda clase de contratos y actos jurídicos que requiera para el cumplimiento de sus fines;
+El Programa de Desarrollo Urbano de los Centros de Población se fundamentará en los estudios técnicos que permitan integrar en él los siguientes aspectos:
 
-VII. Adquirir los bienes muebles e inmuebles que fueren necesarios para el desarrollo de sus funciones;
+I. Establecer la congruencia con el Plan y los Programas Estatal y Regional de Desarrollo Urbano y el Plan Municipal que corresponda;
 
-VIII. Difundir conocimientos y prácticas de asistencia social;
+II. Determinar el área de aplicación;
 
-IX. Fomentar la participación organizada de la ciudadanía en las tareas de asistencia social;
+III. Determinar sus objetivos y metas;
 
-X. Coordinar, apoyar y supervisar las actividades que lleven a cabo las instituciones de asistencia social privada;
+IV. Tomar en cuenta los factores ecológicos y socioeconómicos del medio físico transformado;
 
-XI. Realizar estudios e investigaciones en materia de asistencia social;
+V. Elaborar alternativas viables para el desarrollo urbano del centro de población, atendiendo a los factores antes referidos;
 
-XII. Colaborar con el Sistema Estatal de Información en Materia de Asistencia Social y con el Registro Estatal de Asistencia Social;
+VI. Presentar propuestas para el ordenamiento y regulación del centro de población:
 
-XIII. Expedir el reglamento interno del Instituto; y
+a). Esquema de estructuración territorial que establezca los usos, destinos y reservas de áreas y predios; el sistema de vialidad urbana, el equipamiento urbano y la infraestructura básica, información que estará referida a sectores y subsectores catastrales que se establezcan de acuerdo a las características homogéneas de la sectorización;
 
-XIV. Las demás que establezcan las leyes y reglamentos aplicables.
+b). Los estudios de factibilidad, incluyendo estrategias y proyectos de inversión; y,
 
-### CAPITULO II. Del Patrimonio del Instituto
+c). La definición de los sistemas operativos para su ejecución.
 
-###### Artículo 56.
+###### ARTICULO 55.
 
-El Patrimonio del Instituto se integrará con:
+Son acciones del Programa de Desarrollo Urbano de los Centros de Población las siguientes:
 
-I. Los bienes muebles e inmuebles que sean de su dominio;
+I. El ordenamiento territorial del centro de población;
 
-II. Los subsidios, subvenciones, aportaciones bienes y demás ingresos que las dependencias y entidades de los Gobiernos federal, estatal y municipal, le otorguen;
+II. El establecimiento de normas y reglamentos para el control del aprovechamiento del suelo; del mejoramiento y crecimiento de los centros de población de la protección y mejoramiento del ambiente y la conservación del patrimonio histórico y cultural;
 
-III. Las aportaciones, donaciones, herencias, legados, adjudicaciones judiciales, que se decreten en favor del Instituto, de la Beneficencia Pública, o que se hicieren en favor de personas indeterminadas, cuando se señale como beneficiarios a los pobres, a los ancianos, a los ciegos y a otras expresiones similares y demás liberalidades, que reciba de personas físicas o jurídicas, nacionales o extranjeras;
+III. La coordinación de los niveles de gobierno federal, estatal y municipal para la ejecución de los programas de inversión;
 
-IV. Los rendimientos, recuperaciones, bienes, derechos, y demás ingresos que les generen sus inversiones, operaciones y bienes muebles e inmuebles que eran propiedad plena o desmembrada del Patronato de Asistencia Social en el Estado, entre los bienes mencionados, se consideran los productos de operación de los estacionamientos: subterráneo de la Plaza del Ayuntamiento de Guadalajara y el ubicado en la confluencia de las calles Dr. R. Michel y Los Ángeles, (exterior de la antigua central camionera), así como las fincas rústicas y urbanas que fueron adjudicadas al Patronato de la Asistencia Social;
+IV. La ejecución de los programas de inversión que satisfagan las necesidades prioritarias de la población;
 
-V. Las concesiones, permisos, licencias, y autorizaciones que se les otorguen conforme a la ley;
+V. La concertación con los distintos grupos que integran la comunidad para la ejecución de obra pública;
 
-VI. Los ingresos por cuotas de recuperación, prestación de servicios y honorarios que correspondan;
+VI. El desarrollo de la infraestructura básica del centro de población;
 
-VII. El importe de las indemnizaciones legales originadas por la comisión de actos delictuosos, cuando no los reclamen los ofendidos;
+VII. La aplicación de un sistema equitativo de cargas y beneficios derivados del proceso de urbanización; y,
 
-VIII. El producto que se obtenga de la venta en subasta pública de los bienes mostrencos e instrumentos de delitos confiscados y permitidos por la ley, cuando no sean reclamados en el término de un año; con apego a lo que disponga la legislación civil o penal;
+VIII. En general, todas aquellas acciones que permitan promover los objetivos del Programa.
 
-IX. Los productos que por los servicios de guarda y custodia, de bienes en depósito legal, se realicen en la actualidad o que en el futuro se establezcan, en las áreas determinadas por el Ejecutivo, bienes éstos, remitidos por la Secretaría de Vialidad y Transporte en el Estado, Procuraduría General de Justicia en el Estado, Poder Judicial en el Estado, y demás autoridades y dependencias federales, estatales y municipales. Se faculta a la Secretaría de Finanzas del Gobierno del Estado para que ejercite la facultad económica coactiva en contra de los propietarios de bienes puestos en deposito, en las áreas determinadas por el Ejecutivo que adeuden más de 365 días de pensión y sin que sus propietarios o titulares de los derechos, hayan tramitado ante las autoridades competentes su devolución. El producto que se obtenga se aplicará en primera instancia el pago de los servicios de guarda y custodia que resulten en favor del Instituto y el remanente quedará a disposición del acreditado, en el propio Instituto;
+En la zona de aplicación del Programa de Desarrollo Urbano de los Centros de Población solo podrán realizarse urbanizaciones o edificaciones en las áreas y predios señalados para tal efecto en las declaratorias de usos, destinos y reservas territoriales para el crecimiento o preservación ecológica y se utilizarán conforme a las disposiciones de las mismas.
 
-X. Los demás bienes, derechos e ingresos que obtengan por cualquier título.
+### CAPITULO VI. De los Programas Parciales de conservación, mejoramiento y crecimiento
 
-###### Artículo 57.
+###### ARTICULO 56.
 
-El Instituto quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre bienes de dominio público que posean.
+Los Programas Parciales de Desarrollo Urbano que regulen las acciones de conservación, mejoramiento y crecimiento de los centros de población emprendidos por los Ayuntamientos, contendrán como mínimo:
 
-###### Artículo 58.
+I. La referencia al Programa de Desarrollo Urbano del Centro de Población del cual se derivan, indicando, en su caso, el aprovechamiento del suelo previsto por el mismo;
 
-La vigilancia financiera y administrativa, así como la práctica de auditorías en el Instituto y sus dependencias, estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que le corresponda a la Contaduría Mayor de Hacienda del Congreso del Estado.
+II. Las políticas y los objetivos que se persiguen;
 
-### CAPITULO III. De los Organos del Instituto
+III. La delimitación de las zonas que comprende;
 
-###### Artículo 59.
+IV. La descripción del estado actual de la zona o área, de sus aprovechamientos predominantes y de la problemática que presenta;
 
-Para el estudio, planeación y despacho de los asuntos que le competen, el Instituto contará con los siguientes órganos:
+V. Los regímenes de tenencia de la tierra existentes en el área o zona a que se refiera;
 
-I. La Junta de Gobierno;
+VI. La zonificación a que se refiere el Artículo 117 de esta Ley;
 
-II. La Presidencia de la Junta de Gobierno;
+VII. Las normas y criterios técnicos aplicables a la actualización de conservación, crecimiento o mejoramiento de que se trate;
 
-III. La Dirección General;
+VIII. Los proyectos de las obras o servicios, señalando las etapas y condiciones para su ejercicio, así como los lineamientos administrativos y financieros para el aprovechamiento de las zonas comprendidas;
 
-IV. La Secretaría y Procuraduría Jurídica;
+IX. Los mecanismos que se utilizarán para la adquisición o asignación de inmuebles, así como los estímulos que se establezcan para orientar las actividades de las personas y grupos de los sectores social y privado;
 
-V. La Comisión de Vigilancia; y
+X. Las obligaciones y responsabilidades de las autoridades y de los usuarios, en su caso;
 
-VI. Las unidades técnicas y de administración que determinen las autoridades del mismo y que se autoricen en su presupuesto de egresos.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Los plazos para que los afectados presenten sus inconformidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Las estrategias para incrementar el número y la superficie y mejorar el equipamiento, conservación y mantenimiento de áreas verdes urbanas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. En general, las medidas e instrumentos para la ejecución de los Programas.
+
+###### ARTICULO 57.
+
+Cuando además de las acciones que son objeto del Programa Parcial, se requiera una reglamentación de los usos y destinos de las áreas o predios comprendidos en la zona de aplicación del mismo, se expedirán las declaratorias correspondientes o en forma sucesiva a dicho Programa.
+
+###### ARTICULO 58.
+
+Los Programas Parciales pueden expedirse en forma simultánea o sucesiva con el Programa de Desarrollo Urbano del Centro de Población, pero en ningún caso, podrán autorizarse estos Programas en contravención del mismo.
+
+En la zona de aplicación de un Programa Parcial solo podrán realizarse las acciones de urbanización y edificación, que conforme a sus lineamientos sean autorizadas por el Ayuntamiento respectivo.
+
+### CAPITULO VII. De los Programas Parciales Comunitarios
+
+###### ARTICULO 59.
+
+Para elaborar y aprobar los Programas Parciales que se requieran para desarrollar por parte del Municipio, las acciones previstas en el Programa de Desarrollo Urbano del Centro de Población, se seguirá el procedimiento siguiente:
+
+I. El Ayuntamiento en sesión de Cabildo aprobará que se elabore el Programa correspondiente, o bien, por recomendación del órgano auxiliar contemplado en la Ley de Planeación del Estado de Baja California, de acuerdo a las acciones que se propongan, acordará proceder a la revisión del Programa vigente;
+
+II. El Presidente Municipal coordinará la elaboración del Programa Parcial, practicando las consultas y ordenando los estudios que considere necesarios;
+
+III. Formulado el proyecto de Programa Parcial, el Presidente Municipal lo someterá a la opinión del órgano auxiliar que corresponda según la Ley de Planeación del Estado de Baja California; una vez dictaminado el proyecto del Programa, se presentará en sesión de Cabildo para su análisis y aprobación, en su caso;
+
+IV. Cuando el Programa Parcial implique la expedición de declaratorias, se procederá conforme a las disposiciones de este ordenamiento; y,
+
+V. Aprobado el Programa Parcial por el Ayuntamiento, el Presidente Municipal lo remitirá al Ejecutivo del Estado para su publicación y registro, conforme las disposiciones de los Artículos 26, 27 y 28 de esta Ley.
 
 #### Sección Primera. De la Junta de Gobierno del Instituto
 
-###### Artículo 60.
+###### ARTICULO 60.
 
-La Junta de Gobierno, será el órgano supremo del Instituto, representándolo para todo efecto legal y será el administrador del patrimonio general.
+Los Programas Parciales que se expidan para la utilización parcial o total de la reserva territorial para el crecimiento del área urbana o zonas sujetas a conservación ecológica, requerirán la aprobación del Ejecutivo del Estado previamente a su trámite de publicación y registro.
 
-La representación de la Junta para la celebración de todo acto o negocio jurídico que deba realizarse en el desempeño de las funciones que al Instituto le confiere la presente ley, le corresponderá al Presidente de la misma, quien podrá a su vez otorgar poderes para actos de administración y representación ante cualquier clase de autoridades.
+###### ARTICULO 61.
 
-###### Artículo 61.
+La elaboración, autorización y ejecución de los Programas Parciales de Desarrollo Urbano que impliquen la realización de obras de urbanización y edificación con participación de los particulares, se regularán por las normas del Título Quinto de esta Ley.
 
-La Junta de Gobierno estará integrada por:
+###### ARTICULO 62.
 
-I. Un Presidente, que será designado por el Gobernador del Estado, éste durará en su cargo tres años, pudiendo ser reelecto por un periodo más;
+Cuando el Programa Parcial aprobado por el Ayuntamiento incluya obras que se propongan ejecutar mediante el sistema de plusvalía o el sistema de cooperación, con base en el Programa se procederá conforme a las disposiciones del Título Séptimo de esta Ley.
 
-II. Un Secretario, que será la persona que ocupe el cargo de Secretario y Procurador Jurídico del Instituto;
+###### ARTICULO 63.
 
-III. El Director General del Instituto;
+Cuando el Programa Parcial aprobado por el Ayuntamiento, incluya acciones de conservación y mejoramiento que requieran la participación de personas o instituciones particulares, se procederá a notificarles su contenido, así como las obligaciones específicas que de ellos se deriven para que les den cumplimiento.
 
-IV. El Presidente del Organismo Estatal o su representante;
-
-V. Un representante del Colegio de Notarios de Jalisco;
-
-VI. Un representante de cada una de las áreas asistenciales que conforman el directorio de organismos afiliados del propio Instituto, a propuesta del Presidente de la Junta de Gobierno, de las que a continuación se enumeran:
-
-Asistencia Infantil
-
-Bienestar Social
-
-Educativa
-
-Gerontológico
-
-Rehabilitación y Educación Especial
-
-Servicios Médicos
-
-VII. Un representante por cada uno de los organismos o asociaciones mayoritarias a propuesta del Presidente de la Junta de Gobierno de cada uno de los siguientes sectores:
-
-Empresarial
-
-Servicios Médicos y Hospitalarios
-
-Clubes Sociales y de Servicio; y
-
-VIII. demás representación es (sic) que el instituto considere necesario integrar a través de la Junta de Gobierno.
-
-Las representaciones antes descritas y los integrantes de la Comisión de Vigilancia, serán elegidos por la propia Junta de Gobierno.
-
-Los cargos a que se refiere el presente artículo serán honoríficos; no recibirán remuneración alguna, salvo el Director General y el Secretario y Procurador Jurídico del Instituto.
-
-###### Artículo 62.
-
-Son facultades y atribuciones de la Junta de Gobierno del Instituto, las siguientes:
-
-I. Promover el establecimiento de instituciones de asistencia social en el Estado o la ampliación y mejoramiento de las ya existentes, tomando en cuenta para tal efecto la información proporcionada por el Registro Estatal de Asistencia Social;
-
-II. Aprobar en su caso las proposiciones que se le hagan a la Junta de Gobierno del Instituto, sobre la realización de nuevas obras de asistencia social, o mejoramiento de las actividades que ya se desarrollan;
-
-III. Promover nuevas fuentes para el crecimiento del patrimonio del Instituto y el mejor rendimiento de los bienes que lo (sic) constituyan dicho patrimonio;
-
-IV. Aprobar y revisar la realización de colectas públicas, festivales, rifas, sorteos o cualquier otra actividad, cuyo fin sea recabar fondos que se destinen a las necesidades asistenciales, por grupos de la sociedad civil o iniciativa privada organizadas en el Estado, después de que hayan recabado, cuando el caso lo requiera, la autorización previa de la autoridad federal, estatal o municipal;
-
-V. Aprobar, previo dictamen de la Comisión de Vigilancia, los informes que rinda la Dirección General del Instituto;
-
-VI. Aprobar la reglamentación de las actividades de coordinación y supervisión de las instituciones de asistencia social privada;
-
-VII. Aprobar las campañas y prácticas asistenciales, que propongan ante la propia Junta cualquiera de los miembros del mismo;
-
-VIII. Reglamentar el funcionamiento del Instituto y de sus dependencias;
-
-IX. Vigilar y coordinar las actividades de las instituciones de asistencia social privada;
-
-X. Disponer sin más limitaciones que las establecidas por la ley, de los bienes muebles e inmuebles del Instituto y sus dependencias.
-
-Para el ejercicio de la facultad de disposición de bienes inmuebles que impliquen actos de traslación de dominio o constitución de gravámenes, se requerirá la aprobación previa del Congreso Estatal;
-
-XI. Discutir y aprobar en su caso los presupuestos de ingresos, egresos y programas de trabajo que presente el Director General del Instituto;
-
-XII. Recibir, de la autoridad correspondiente, los fondos provenientes de subsidios federales, estatales y en su caso municipales, que se otorguen para la asistencia social;
-
-XIII. Recibir directamente las regalías que se generen por llevar a cabo espectáculos públicos, con el fin de recabar fondos destinados a obras de asistencia social del Instituto, previo convenio o autorización que otorgue la autoridad estatal o municipal correspondiente;
-
-XIV. Aceptar o repudiar las herencias, legados y donaciones, rechazándolo cuando implique mayores cargas que beneficios;
-
-XV. Aprobar o rechazar las cuentas de administración que anualmente deberán rendir en forma pormenorizada los directores o comisiones que tengan a su cargo y bajo su responsabilidad las distintas dependencias del Instituto; para ello se deberá tomar en consideración el dictamen que al respecto rinda la Comisión de Vigilancia del Instituto;
-
-XVI. Llevar un registro de las personas físicas y jurídicas que se dedican a la asistencia social privada en el Estado;
-
-XVII. Expedir las claves únicas del Registro Estatal de Asistencia Social para las personas a que se refiere la fracción anterior;
-
-XVIII. Presentar a la Secretaría un informe anual de los registros y claves de las personas que se dedican a la asistencia social privada;
-
-XIX. Otorgar poderes para efecto de administración y representación ante cualquier clase de autoridades, así como delegar las facultades que estime pertinentes para el mejor cumplimiento de los fines del Instituto;
-
-XX. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
-
-###### Artículo 63.
-
-La Junta de Gobierno sesionará al menos una vez por mes y extraordinariamente, cuando sea convocada por el Presidente de la misma. Sesionará válidamente con la asistencia de la mitad de los miembros más uno y las resoluciones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
+Los propietarios o poseedores de los predios incluidos en los Programas Parciales deberán cumplir con las obligaciones derivadas de los mismos; para este efecto, podrán celebrar convenios entre sí, con terceros, con el Ayuntamiento o con el Gobierno del Estado.
 
 #### Sección Segunda. De la Presidencia de la Junta de Gobierno del Instituto
 
-###### Artículo 64.
+###### ARTICULO 64.
 
-Son facultades y atribuciones de la Presidencia de la Junta de Gobierno del Instituto:
-
-I. Convocar a sesión a los integrantes de la Junta de Gobierno;
-
-II. Presidir las sesiones de la Junta de Gobierno, con voto de calidad para los fines de aprobación;
-
-III. Rendir informe anual de la gestión administrativa a la Junta de Gobierno;
-
-IV. Presentar a la Junta de Gobierno, para los fines de su estudio y aprobación, el programa de actividades y el presupuesto de ingresos y egresos;
-
-V. Nombrar y remover al Director General del Instituto en los términos de este código;
-
-VI. Proponer a la Junta de Gobierno las disposiciones y reglamentos necesarios para el funcionamiento del Instituto;
-
-VII. Vigilar el exacto cumplimiento de las disposiciones de la Junta de Gobierno; y
-
-VIII. Las demás que señalen este código y los reglamentos aplicables.
+En caso de que los propietarios o poseedores no cumplan con las obligaciones a que se refiere el artículo anterior, las autoridades responsables de ejecutar las acciones previstas en los Planes y Programas correspondientes, podrán gestionar ante el Ejecutivo del Estado se proceda a la expropiación por causa de utilidad pública e interés social de los predios, edificaciones e instalaciones en los términos de la Ley de la materia.
 
 #### Sección Tercera. De la Dirección General del Instituto
 
-###### Artículo 65.
+###### ARTICULO 65.
 
-Para ser Director General del Instituto se requiere:
+Los Programas Parciales que sea necesario expedir para establecer las normas de aprovechamiento de los predios en zonas con características homogéneas, denominadas subsectores o colonias catastrales, en cuanto a uso predominante, tamaño de los predios, tipo de construcción, infraestructura urbana e índice socioeconómico de sus habitantes, requerirán el consentimiento expreso de los propietarios o poseedores de los bienes inmuebles residentes en dichas zonas, mediante una consulta directa a los mismos y se les denominará Programas Parciales Comunitarios.
 
-I. Ser mexicano en pleno goce de sus derechos civiles;
+###### ARTICULO 66.
 
-II. Poseer título profesional y contar con experiencia en materia administrativa y asistencial;
-
-III. Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento; y
-
-IV. Tener cuando menos treinta años de edad al día de su nombramiento.
-
-###### Artículo 66.
-
-El Director General del Instituto, tendrá las siguientes facultades y obligaciones:
-
-I. Representar para todo efecto o acto de naturaleza jurídica al Instituto, de acuerdo con las disposiciones contenidas en el presente Código;
-
-II. Otorgar poderes, previa autorización de la Junta de Gobierno, para efecto de administración y representación ante cualquier clase de autoridades, así como delegar las facultades que estime pertinentes para el mejor cumplimiento de los fines del Instituto;
-
-III. Ejecutar por sí o por medio de los órganos de gobierno los acuerdos que emanen de la Junta de Gobierno, dictando todas las disposiciones necesarias a su cumplimiento en observancia del presente ordenamiento y de los reglamentos relativos;
-
-IV. Asistir a las sesiones de la Junta de Gobierno;
-
-V. Supervisar el funcionamiento de los organismos afiliados así como de los que tengan participación económica del Instituto y ordenar auditorías a los mismos cuando lo estime necesario;
-
-VI. Promover y gestionar ante toda clase de autoridades o personas físicas y jurídicas, la incorporación al patrimonio del Instituto, de los bienes y frutos que por ley o por actos de particulares deban pertenecerle; y
-
-VII. Promover ante la Junta de Gobierno las medidas que considere convenientes para el funcionamiento de la prestación de los servicios asistenciales así como para el mayor rendimiento de las fuentes patrimoniales del Instituto;
-
-VIII. Autorizar con su firma la correspondencia del Instituto y las disposiciones de fondos, de acuerdo a lo establecido por la Junta de Gobierno, en los términos de este Código y sus reglamentos;
-
-IX. Conceder licencias al personal del Instituto y de las dependencias del mismo;
-
-X. Poner a consideración de la Junta de Gobierno, para su aprobación, las solicitudes de afiliación y renovación de afiliación de organismos asistenciales, previa la investigación que la propia Dirección ordene a las áreas correspondientes;
-
-XI. Poner a consideración de la Junta de Gobierno, para su aprobación, las solicitudes de apoyo asistencial;
-
-XII. Proponer a la Junta de Gobierno la creación de obras y servicios que tiendan al mejoramiento de las funciones realizadas por el Instituto;
-
-XIII. Poner a consideración del Presidente y de la Comisión de Vigilancia, para su aprobación las erogaciones extraordinarias no contempladas en el presupuesto de egresos, cuando se trate de casos de extrema urgencia de apoyo, y en ausencia justificada del Presidente, se requerirá invariablemente la aprobación de la Comisión de Vigilancia;
-
-XIV. Expedir los nombramientos de los servidores públicos del Instituto;
-
-XV. Comisionar y/o remover al personal del Instituto en las áreas de las dependencias, en base a las propias necesidades del servicio, de acuerdo con las disposiciones de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y el reglamento interior del Instituto;
-
-XVI. Imponer las sanciones administrativas a los servidores públicos del Instituto, de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y el reglamento interior del Instituto;
-
-XVII. Autorizar las asignaciones de los bienes muebles del Instituto, con acuerdo de la Comisión de Vigilancia y de conformidad con las leyes y reglamentos;
-
-XVIII. Proponer ante la junta de gobierno del Instituto para su nombramiento al Secretario y Procurador Jurídico; y
-
-XIX. Las demás que señalen las disposiciones aplicables.
+Antes de proceder a la elaboración de los Programas Parciales mencionados en el artículo anterior, el órgano auxiliar correspondiente en los términos de la Ley de Planeación del Estado de Baja California, citará a los propietarios de los predios ubicados en la zona para informarles de todo lo relativo a los proyectos, cumpliendo con el procedimiento que se establece en los Artículos 213 y 214 de esta Ley.
 
 #### Sección Cuarta. De la Secretaría y Procuraduría Jurídica del Instituto
 
-###### Artículo 67.
+###### ARTICULO 67.
 
-Para desempeñar el cargo de Secretario y Procurador Jurídico del Instituto, se requiere:
+Se considerará que el Programa Parcial cuenta con la aprobación de los propietarios de los bienes inmuebles, cuando el 75% de estos últimos están de acuerdo con el mismo.
 
-I. Ser mexicano en ejercicio de sus derechos;
+###### ARTICULO 68.
 
-II. Tener más de 25 años de edad;
+El Programa Parcial aprobado por los propietarios será enviado al Ayuntamiento para su ratificación y remitido a la Comisión Coordinadora del Desarrollo Urbano del Estado para su revisión y dictamen, lo remitirá al Gobernador del Estado para su publicación y registro.
 
-III. Tener título legalmente expedido de abogado o su equivalente;
+###### ARTICULO 69.
 
-IV. Ser de reconocida honorabilidad; y
-
-V. Haber residido en el Estado por lo menos los tres años anteriores al día del nombramiento.
-
-###### Artículo 68.
-
-Son facultades y atribuciones de la Secretaría y Procuraduría Jurídica del Instituto las siguientes:
-
-I. Vigilar el cumplimiento estricto de las normas legales y reglamentarias de los Órganos de Gobierno de las distintas instituciones que formen parte del Instituto;
-
-II. Denunciar ante las autoridades competentes todo acto que pudiera implicar la violación del presente Código en perjuicio del Instituto o sus dependencias; así como demandar en los casos en que proceda, la responsabilidad civil por los daños o perjuicios que hubiere sufrido el Instituto;
-
-III. Suplir al Director General en las ausencias temporales del mismo;
-
-IV. Asistir a las sesiones de la Junta de Gobierno del Instituto en calidad de Secretario de la misma;
-
-V. Levantar las actas de la Junta de Gobierno del Instituto, suscribiendo las mismas en unión con el Presidente;
-
-VI. Autorizar copias de dichas actas y de los documentos que existen en el archivo del Instituto y certificarlos cuando se requiera;
-
-VII. Autorizar con su firma la correspondencia interna del Instituto, a sus dependencias o instituciones y dependencias externas;
-
-VIII. Gestionar previa autorización del Director General del Instituto, apoyo ante las diferentes autoridades en favor del Instituto y de los organismos afiliados;
-
-IX. Verificar las solicitudes que se presenten al Instituto para la celebración de eventos con el fin de captar recursos económicos, en beneficio de los organismos afiliados; y
-
-X. Las demás que las leyes y reglamentos lo (sic) otorguen.
-
-###### Artículo 69.
-
-Son deberes del Secretario y Procurador Jurídico del Instituto en relación con los actos de la asistencia social privada:
-
-I. Cuidar de que se cumpla el objeto social para el que hayan sido creadas las fundaciones de asistencia social privada ya establecidas o que se establezcan en el Estado en los términos de ley;
-
-II. Resolver todas las consultas que formulen quienes pretendan establecer alguna institución de asistencia social privada;
-
-III. Nombrar a los miembros de los patronatos, apoderados, juntas o administradores, en caso de que no hayan sido designados por los fundadores o por los socios, o en sus faltas temporales o absolutas, siempre que no esté prevista otra forma de nombramiento en los estatutos o las actas constitutivas de las instituciones;
-
-IV. Atender el pronto despacho de todos los asuntos que conciernan a las instituciones de asistencia social privada;
-
-V. Recibir todas las propuestas o quejas de las instituciones o personas que reciban algún servicio, con el fin de mejorar el funcionamiento y la prestación de los servicios que la asistencia social privada otorgue;
-
-VI. Practicar visitas cuando lo considere necesario, a las instituciones de asistencia social privada en el Estado, para verificar su funcionamiento técnico y administrativo, así como el trato que reciban los asilados o enfermos, para tomar las providencias oportunas;
-
-VII. Solicitar a los miembros del patronato, apoderados o administradores, un informe semestral, pormenorizado de cada establecimiento;
-
-VIII. Formular recomendaciones a los organismos afiliados en caso de observar anomalías o desapego al reglamento en la prestación de los servicios asistenciales;
-
-IX. Emitir recomendaciones al Director General del Instituto para la suspensión temporal o definitiva del registro de cualquier organismo afiliado que no cumpla con sus fines;
-
-X. Denunciar ante la autoridad competente a los albaceas, miembros del patronato, apoderados, administradores o a las juntas que no cumplan con sus fines y fincar las responsabilidades que correspondan;
-
-XI. Tramitar la disolución de los establecimientos que no cumplan con su objeto o hayan disminuido el capital legado o los capitales y que por sus cuantías, no basten para cumplir la voluntad del fundador;
-
-XII. Impulsar las acciones tendentes (sic) a la satisfacción de las necesidades alimentarias de la población sujeta a la asistencia social en la entidad;
-
-XIII. Celebrar convenios y contratos que se consideren necesarios para cumplir con los objetivos de las Instituciones de asistencia social privada, previa autorización del Director General del Instituto;
-
-XIV. Apoyar y asesorar jurídicamente a las instituciones de asistencia social privada cuando éstas lo requieran; y
-
-XIV (sic). Ejercitar las demás facultades y deberes que las leyes y reglamentos le asignen.
+Las declaratorias correspondientes a usos y destinos de áreas y predios derivados de los Programas Parciales Comunitarios, requieren para su aprobación, expedición y registro la observancia de los mismos procedimientos que fueron utilizados para estos Programas Parciales.
 
 #### Sección Quinta. De la Comisión de Vigilancia
 
-###### Artículo 70.
+###### ARTICULO 70.
 
-La Comisión de Vigilancia estará integrada por tres miembros propietarios e igual número de suplentes; que serán designados por la junta de gobierno; durarán en su cargo dos años y no podrán ser reelectos.
+Los propietarios de bienes inmuebles ubicados en una comunidad con las características enunciadas en el Artículo 65, están facultados para proponer un Programa Parcial Comunitario a las autoridades municipales, a través del órgano auxiliar correspondiente según la Ley de Planeación del Estado de Baja California, que los deberá asesorar en la elaboración de su propuesta de zonificación de los usos permitidos, prohibidos, condicionados y compatibles, pudiendo incluir acciones de conservación y mejoramiento mediante la realización de obras por cooperación.
 
-El encargo de los miembros de la Comisión será honorífico y revocable por la propia Junta de Gobierno con audiencia de los interesados si mediaren causas graves y así lo solicite cuando menos la mitad más uno de los miembros de la Junta de Gobierno.
+###### ARTICULO 71.
 
-###### Artículo 71.
+Para la aprobación, publicación y registro de los Programas y Declaratorias correspondientes se estará a lo dispuesto para los Programas Parciales a los que se ha hecho referencia en este Capítulo.
 
-Son facultades y obligaciones de la Comisión de Vigilancia:
+## TITULO CUARTO. DE LA REGULACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
-I. Vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
+### CAPITULO VIII. De los Programas Sectoriales del Desarrollo Urbano
 
-II. Opinar y dictaminar sobre cuentas de administración de los órganos unipersonales o comisiones que tengan a su cargo las diferentes instituciones asistenciales dependientes del Instituto, cuando sean puestas a la consideración de la Junta de Gobierno las cuentas relativas; y
+###### ARTICULO 72.
 
-III. Sugerir a la Junta de Gobierno las medidas que juzgue convenientes para mejorar el funcionamiento del Instituto.
+Los Programas Sectoriales de Desarrollo Urbano se refieren a las acciones específicas, que en materia de vivienda, aprovechamiento integral de los recursos naturales en la vivienda, infraestructura, vialidad y transporte, equipamiento urbano, ordenamiento ecológico, protección ambiental, reservas territoriales, áreas verdes urbanas, imagen urbana, patrimonio artístico y cultural, prevención y atención de emergencias urbanas, entre otros, se deban de realizar a nivel estatal, regional, municipal, centro de población o una parte de éste último.
 
-## TITULO TERCERO. INSTITUTO CABAÑAS
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO I. Disposiciones Generales
+###### ARTICULO 73.
 
-###### Artículo 72.
+Los programas sectoriales a nivel estatal y regional serán elaborados por la Secretaría, por instrucciones del Gobernador del Estado o por la Dependencia Estatal que designe el Ejecutivo de acuerdo a la materia que corresponda, con la participación de la Comisión Coordinadora de Desarrollo Urbano del Estado y la opinión del órgano auxiliar correspondiente en los términos de la Ley de Planeación para el Estado. La aprobación, publicación y difusión se hará en los términos que la presente Ley señala para los Programas de Desarrollo Urbano y demás disposiciones aplicables.
 
-El Instituto Cabañas es un organismo público descentralizado, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de los niños que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.
+### CAPITULO IX. De la modificación o cancelación de los Planes y Programas de Desarrollo Urbano
 
-###### Artículo 73.
+###### ARTICULO 74.
 
-El Instituto Cabañas, en ejercicio de sus atribuciones y en cumplimiento de sus fines tiene las siguientes facultades y obligaciones:
+Los programas sectoriales a nivel municipal o de centros de población serán elaborados y aprobados por los Ayuntamientos respectivos, con la participación y opinión del órgano auxiliar correspondiente en los términos de la Ley de Planeación del Estado de Baja California, y remitidos al Ejecutivo del Estado para su publicación en los términos de esta Ley, previo dictamen técnico de congruencia.
 
-I. La asistencia material y educativa a los menores albergados en el Instituto en los términos del artículo 439 del Código Civil del estado;
+###### ARTICULO 75.
 
-II. Inculcar en la niñez que se encuentra asilada en el Instituto Cabañas los principios de solidaridad social;
+El Plan Estatal y los Programas Regionales y Sectoriales de Desarrollo Urbano deberán ser revisados, modificados o elaborados, según sea el caso, dentro de un plazo no mayor de seis meses a partir del inicio de la gestión constitucional del Gobernador del Estado.
 
-III. Fungir como delegado Institucional del Consejo Estatal de Familia de los menores albergados en el Instituto Cabañas que no tengan quien ejerza la patria potestad;
+###### ARTICULO 76.
 
-IV. Fomentar en los menores, los valores éticos que les permitan desarrollarse plenamente en las condiciones actuales de la vida social;
+Los Planes Municipales y los Programas de Centros de Población, Parciales y Sectoriales de Desarrollo Urbano deberán ser revisados, modificados o elaborados según sea el caso, dentro de un plazo no mayor de seis meses a partir del inicio de la gestión constitucional de los Ayuntamientos.
 
-V. La promoción de toda clase de actividades para obtener recursos destinados al aumento de fondos del Instituto Cabañas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-VI. Conservar y acrecentar el patrimonio del Instituto Cabañas; y
+### CAPITULO X. De los efectos de los Planes y Programas de Desarrollo Urbano
 
-VII. Aceptar o repudiar las herencias, legados y donaciones, rechazándolos cuando impliquen mayores cargas que beneficios.
+###### ARTICULO 77.
 
-### CAPITULO II. Del Patrimonio del Instituto Cabañas
-
-###### Artículo 74.
-
-El patrimonio del Instituto Cabañas se integrará con:
-
-I. Los bienes inmuebles y muebles que sean de su dominio;
-
-II. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de los gobiernos federal, estatal y municipales les otorguen;
-
-III. Las aportaciones, donaciones y demás liberalidades que reciba de personas físicas o jurídicas, nacionales o extranjeras;
-
-IV. Los rendimientos, recuperaciones, derechos y demás ingresos que les generen sus inversiones, bienes y operaciones;
-
-V. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley;
-
-VI. Las aportaciones por la prestación de servicios y por los honorarios que le correspondan;
-
-VII. Los fideicomisos que los particulares y dependencias públicas constituyan a favor del Instituto Cabañas; y
-
-VIII. Los demás bienes que obtenga por cualquier título.
-
-###### Artículo 75.
-
-El Instituto Cabañas quedará exento del pago de toda clase de contribuciones estatales. También lo estará respecto de las municipales, siempre que recaigan sobre los bienes de dominio público que posean.
-
-###### Artículo 76.
-
-La vigilancia financiera y administrativa, así como la práctica de auditorías en el Instituto Cabañas estará a cargo de la Contraloría del Estado en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, sin perjuicio de la intervención que le corresponda a la Contaduría Mayor de Hacienda del H. Congreso del Estado.
-
-### CAPITULO III. De los Organos de Gobierno del Instituto Cabañas
-
-###### Artículo 77.
-
-Para el estudio, planeación y despacho de los asuntos que le competen, el Instituto Cabañas contará con los siguientes órganos:
-
-I. La Junta de Gobierno;
-
-II. La Presidencia de la Junta de Gobierno;
-
-III. La Dirección General;
-
-IV. El Secretario; y
-
-V. Las unidades técnicas y de administración que determinen las autoridades del mismo Instituto Cabañas y que se autoricen en su presupuesto de egresos.
+Para controlar y verificar los avances obtenidos en el Plan Estatal y los Programas Regionales y Sectoriales de Desarrollo Urbano, la Secretaría evaluará cada año estos programas, presentando un informe a la Comisión Coordinadora de Desarrollo Urbano y al Gobernador de la entidad. En el caso de los Planes Municipales y Programas Sectoriales de Desarrollo Urbano, el Presidente Municipal evaluará cada año estos planes y programas, presentando un informe al Ayuntamiento.
 
 #### Sección Primera. De la Junta de Gobierno
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1998)</small>
 
-###### Artículo 78.
+###### ARTICULO 78.
 
-La Junta de Gobierno es la máxima autoridad del Instituto Cabañas y se integra por un máximo de 17 miembros y estará formada por:
+Si como resultado de las evaluaciones los planes y programas a que se refiere el artículo anterior no están en concordancia con los requerimientos estatales, regionales o municipales, o con las circunstancias del desarrollo de los centros de población, podrán ser modificados o cancelados.
 
-I. Un Presidente;
+###### ARTICULO 79.
 
-II. Un Secretario Ejecutivo;
+Los Planes y Programas de Desarrollo Urbano podrán ser modificados o cancelados cuando:
 
-III. Hasta quince Consejeros.
+I. Exista variación substancial de las condiciones que les dieron origen;
 
-El Presidente será designado por el Titular del Poder Ejecutivo del Estado; así como hasta ocho consejeros, entre los cuales se deberán de encontrar los siguientes:
+II. Surjan técnicas diferentes que permitan una realización más satisfactoria;
 
-a) Los titulares de la Secretaría de Salud, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes.
+III. Las tendencias del proceso de urbanización hayan tomado una orientación que no haya sido prevista; o,
 
-b) El Director General del Instituto Cabañas.
+IV. Sobrevenga una causa grave que impida su ejecución.
 
-c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de menores, con mayor mérito, inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social.
+###### ARTICULO 80.
 
-d) Hasta tres consejeros que al (sic) Titular del Poder Ejecutivo, considere necesarios para la integración de la junta de gobierno.
+La modificación o cancelación podrá ser solicitada por escrito a la autoridad que aprobó el Plan o Programa correspondiente por:
 
-El Secretario Ejecutivo será designado por la propia junta de gobierno a propuesta de la Dirección General del Instituto Cabañas, así como hasta siete consejeros más que se nombren por necesidades del propio Instituto Cabañas.
+I. El Gobernador del Estado;
 
-Los miembros nombrados deberán haberse significado por su inclinación y vocación al servicio de la comunidad, así como su probada y su reconocida honorabilidad.
+II. La Comisión Coordinadora de Desarrollo Urbano del Estado;
 
-Los cargos de consejeros a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna, con excepción de los previstos en la fracción II, y el inciso b) del presente artículo, que percibirán los emolumentos señalados en el presupuesto de egresos del propio Instituto Cabañas.
+III. Los Presidentes Municipales respecto del Plan Estatal;
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1998)</small>
+IV. Las dependencias de la Administración Pública Estatal o Municipal responsables de ejecutar las acciones previstas en esos Planes o Programas;
 
-###### Artículo 79.
+V. Los Organismos de participación social y consulta, integrados en los términos del Artículo 8 de la presente Ley; y
 
-Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Instituto Cabañas, previa convocatoria de su presidente, pudiendo ser ordinarias o extraordinarias. Ambas deberán celebrarse en la fecha señalada por la convocatoria respectiva, debiendo las ordinarias celebrarse una vez al mes.
+VI. Los Colegios de Profesionales, las agrupaciones e instituciones privadas legalmente constituidas, que tengan interés en el desarrollo urbano del Estado.
 
-Para que la junta de gobierno sesione, se requiere que exista el quórum legal, que se integrará con la asistencia de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes, y en caso de empate, el Presidente tendrá voto de calidad.
+###### ARTICULO 81.
 
-Las convocatorias deberán notificarse a los miembros de la junta de gobierno, al menos con siete hábiles días (sic) de anticipación. Este plazo podrá reducirse a cuarenta y ocho horas en casos de comprobada urgencia.
-
-En caso de no existir quórum legal en la fecha y horas señalados para la sesión en primera convocatoria, se citará nuevamente para efectuarse con un número no menor de cinco miembros, requiriéndose para ello que la notificación respectiva se haga con una anticipación no menor de cuarenta y ocho horas de su celebración.
-
-###### Artículo 80.
-
-Serán facultades de la Junta de Gobierno las siguientes:
-
-I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Instituto Cabañas para que sólo ingresen aquéllos menores cuya situación económica o moral así lo amerite;
-
-II. Previo el estudio específico en cada caso, procurar a los albergados un hogar familiar por medio por medio (sic) de la adopción o de custodias temporales;
-
-III. Proponer las medidas que tiendan a mejorar el tratamiento integral de los albergados, con el máximo rendimiento de sus recursos económicos;
-
-IV. Estudiar y adoptar las medidas necesarias para que los menores albergados que están por terminar su estancia en el Hospicio Cabañas, puedan bastarse a sí mismos y sean capaces de formar su propio hogar;
-
-V. Discutir y aprobar en su caso sus presupuestos de ingresos y egresos, así como los programas de trabajo que presente el Director General del Instituto Cabañas;
-
-VI. Promover actividades tendientes a obtener recursos para aumentar los fondos de que dispone el Instituto Cabañas;
-
-VII. Aplicar los fondos obtenidos conforme a las prioridades del Instituto Cabañas;
-
-VIII. Realizar anualmente inventario pormenorizado de todos los bienes muebles e inmuebles del Instituto Cabañas;
-
-IX. Nombrar y remover la planta de empleados necesaria para el funcionamiento del Instituto Cabañas, conforme a la ley;
-
-X. Practicar auditorías contables y administrativas así como visitas de inspección a todos los órganos del Instituto Cabañas cuando lo estime necesario;
-
-XI. Analizar y dictaminar en ejercicio de la facultad de auditoría, sobre la aplicación de las cuentas de administración;
-
-XII. Dictar las medidas necesarias para conservar el patrimonio del Instituto Cabañas;
-
-XIII. Acordar la expulsión de algún albergado cuando esté justificada; y
-
-XIV. Las demás que señale este código y los reglamentos aplicables.
-
-###### Artículo 81.
-
-La Junta de Gobierno será el órgano vigilante y responsable de que la Institución se conduzca conforme a las normas jurídicas que regulan su funcionamiento, debiendo, en los casos que así proceda, girar las instrucciones correspondientes al Director del Instituto.
+En los mismos términos en que se modifican o cancelan los Planes o Programas Estatales, Regionales, Municipales y Sectoriales de Desarrollo Urbano, se pueden modificar o cancelar las declaratorias de usos, reservas, destinos y provisiones que corresponda.
 
 #### Sección Segunda. Del Presidente de la Junta de Gobierno del Instituto Cabañas
 
-###### Artículo 82.
+###### ARTICULO 82.
 
-Para ser presidente del Instituto Cabañas se requiere:
+El procedimiento y términos para el trámite de la resolución de modificación o cancelación de un Plan, Programa o de una Declaratoria, serán los mismos que se observan para su formulación, aprobación, publicación y registro.
 
-I. Ser mexicano en ejercicio de sus derechos;
+###### ARTICULO 83.
 
-II. Tener vocación de servicio y los conocimientos necesarios para el desarrollo del cargo;
-
-III. Ser de reconocida honorabilidad;
-
-IV. Tener cuando menos treinta años de edad al día de su nombramiento; y
-
-V. Haber residido en el Estado por lo menos los tres años anteriores al día de su nombramiento.
-
-###### Artículo 83.
-
-La presidencia del Instituto Cabañas tendrá las facultades y obligaciones siguientes:
-
-I. Vigilar y apoyar la ejecución de los acuerdos de la Junta de Gobierno y las acciones que sean necesarias para el cumplimiento de los objetivos del Instituto Cabañas;
-
-II. Facilitar el desarrollo de las actividades del Instituto Cabañas, aprobando al efecto los procedimientos para su ejecución;
-
-III. Proponer a la Junta de Gobierno las disposiciones y reglamentos necesarios para el funcionamiento del Instituto Cabañas;
-
-IV. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan en favor del Instituto Cabañas, que por ley le correspondan;
-
-V. Aprobar y testificar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas o privadas;
-
-VI. Nombrar y remover, previo acuerdo con el Gobernador del Estado, al Director General del Instituto Cabañas;
-
-VII. Convocar a la Junta de Gobierno a sesiones ordinarias y extraordinarias;
-
-VIII. Rendir anualmente el informe general de actividades del Instituto Cabañas; y
-
-IX. Las demás que señalen este código y los reglamentos aplicables.
+Los Planes o Programas que sean aprobados, publicados e inscritos en el Registro Público de la Propiedad y del Comercio como lo establece esta Ley, serán obligatorios para los particulares y para las autoridades correspondientes.
 
 #### Sección Tercera. Del Director General del Instituto Cabañas
 
-###### Artículo 84.
+###### ARTICULO 84.
 
-Para ser Director General del Instituto Cabañas se requiere:
+A partir de la fecha en que se inscriba el Plan o Programa en el Registro Público de la Propiedad y del Comercio o su modificación, las autoridades competentes sólo podrán expedir licencias, permisos y autorizaciones de acciones de urbanización y edificación, además de usos del suelo, en áreas o predios que resulten afectados, si las solicitudes están de acuerdo con el mismo. Los que se expidan no obstante esta prohibición, serán nulos de pleno derecho.
 
-a) Ser Mexicano en pleno goce de sus derechos civiles;
+###### ARTICULO 85.
 
-b) Contar con experiencia en materia administrativa y asistencial;
-
-c) Haber residido en el estado por lo menos los tres años anteriores al día de su nombramiento;
-
-d) Tener cuando menos treinta años de edad el día de su nombramiento; y
-
-e) Ser de reconocida honorabilidad y tener vocación de servicio social.
-
-###### Artículo 85.
-
-El Director General del Instituto Cabañas, tendrá las siguientes facultades y obligaciones:
-
-I. Ejecutar los acuerdos que dicte la Junta de Gobierno;
-
-II. Ejercitar la representación legal del Instituto Cabañas;
-
-III. Presentar a la Junta de Gobierno para los fines de su estudio y aprobación el plan anual de actividades y su proyecto de presupuestos de ingresos y egresos;
-
-IV. Autorizar con su firma las disposiciones de fondos, previa aprobación de la Junta de Gobierno;
-
-V. Conceder licencias al personal del Instituto Cabañas en los términos de Ley;
-
-VI. Inspeccionar los departamentos y dependencias que integran el Instituto Cabañas;
-
-VII. Promover y gestionar ante toda clase de autoridades, personas físicas o jurídicas, la incorporación al patrimonio del Instituto Cabañas de los bienes y frutos que por ley o actos de particulares deben pertenecerle;
-
-VIII. Promover ante el Patronato las medidas que considere convenientes para mayor rendimiento del patrimonio del Instituto Cabañas;
-
-IX. Cuidar de que se conserve el orden en los diferentes departamentos del Instituto, y de que todos los empleados y albergados cumplan con sus obligaciones;
-
-X. Vigilar que los alimentos sean sanos y suficientes y que no falte ropa ni ningún otro bien indispensable a los albergados;
-
-XI. Vigilar que se mantengan en adecuadas condiciones de higiene las instalaciones del Instituto;
-
-XII. Vigilar que se observe la más estricta moralidad en los departamentos;
-
-XIII. Vigilar la comercialización de los artículos elaborados en el Instituto Cabañas;
-
-XIV. Imponer medidas disciplinarias a los albergados;
-
-XV. Permitir a los albergados que visiten a sus familiares siempre que ello, no sea en perjuicio de su educación;
-
-XVI. Asignar a los albergados quehaceres que tiendan al logro de su mejor educación.;
-
-XVII. Llevar el control de los ingresos del Instituto Cabañas por concepto de herencias, legados, donaciones, productos, derechos y demás percepciones;
-
-XVIII. Aplicar los fondos que provengan de donativos a los servicios del Instituto Cabañas salvo el caso de que el donante especifique el destino de la donación en cuyo caso será respetada su voluntad; y
-
-XIX. Las demás que señalen este código y los reglamentos aplicables.
+Todas las obras y actividades consideradas por los Planes o Programas de Desarrollo Urbano que se realicen en el territorio del Estado, deberán sujetarse a los (sic) dispuesto en los mismos. Sin este requisito, no se otorgará autorización o licencia para efectuarlas.
 
 #### Sección Cuarta. Del Secretario
 
-###### Artículo 86.
+###### ARTICULO 86.
 
-El Secretario del Instituto, será designado por la Junta de Gobierno a propuesta de la Dirección General del Instituto Cabañas y fungirá también, como Secretario de éste.
+En el caso de que sea de estricta necesidad demoler total o parcialmente, las edificaciones, ampliaciones o reconstrucciones realizadas sin licencia o autorización o en contravención a lo dispuesto por el Artículo 84 de esta Ley, el costo de los trabajos será a cargo de los propietarios o poseedores, y las autoridades no tendrán obligación de pagar indemnización alguna.
 
-###### Artículo 87.
+###### ARTICULO 87.
 
-Son facultades y obligaciones del Secretario las siguientes:
+Las obras que sean a cargo de las autoridades estatales o municipales, se ejecutarán en los términos previstos en esta Ley y demás disposiciones específicas.
 
-I. Vigilar el cumplimiento estricto de este Código y sus reglamentos;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-II. Autorizar con su firma las actas y las copias de éstas y de los documentos que existan en los archivos del Instituto Cabañas;
+## TITULO QUINTO. DE LAS ACCIONES DE URBANIZACION
 
-III. Hacer del conocimiento del Director General los actos de empleados y funcionarios del Instituto Cabañas que impliquen faltas en su trabajo;
+### CAPITULO UNICO. De las conurbaciones
 
-IV. Firmar en unión del Director la correspondencia del Instituto Cabañas; y
+###### ARTICULO 88.
 
-V. Asentar en el libro correspondiente las actas de las sesiones de la Junta de Gobierno, y acatar las instrucciones que le gire el Director del Instituto Cabañas.
+El fenómeno de conurbación se presenta cuando dos o más centros de población formen o tiendan a formar parte de una unidad geográfica, económica y social.
 
-## TITULO CUARTO. DE LOS SERVIDORES DE LA ASISTENCIA SOCIAL PUBLICA
+###### ARTICULO 89.
 
-### CAPITULO UNICO
+Las conurbaciones que se presenten en los centros de población localizados dentro de los límites del territorio estatal, serán formalmente reconocidas mediante la Declaratoria que expida al efecto el Gobernador del Estado, o el Acuerdo entre éste y los Ayuntamientos respectivos.
 
-###### Artículo 88.
-
-Las relaciones de trabajo de las instituciones de asistencia social pública, tales como el Organismo Estatal, el Instituto, el Instituto Cabañas y los Organismos Municipales; con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
-
-###### Artículo 89.
-
-El personal del Organismo Estatal, del Instituto, del Instituto Cabañas y de los organismos municipales estará incorporado a la Dirección de Pensiones del Estado.
+En casos de zonas de conurbación en las que participe el Estado y una o más Entidades Federativas, se estará a lo dispuesto en la Ley General de Asentamientos Humanos.
 
 # LIBRO TERCERO. ASISTENCIA SOCIAL PRIVADA
 
-## TITULO PRIMERO. DE LA ASISTENCIA SOCIAL PRIVADA
+## TITULO SEXTO. DE LAS OBRAS DE EDIFICACION
+
+### CAPITULO I. De las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población
+
+###### ARTICULO 90.
+
+La zona de conurbación intermunicipal es el área circular generada por un radio de 30 kilómetros. El centro de dicha área es el punto de intersección de la línea fronteriza entre los municipios, con la que resulte de unir los centros geográficos de los centros de población correspondiente.
+
+El Gobernador del Estado y los Ayuntamientos correspondientes podrán acordar cuando lo consideren conveniente para la planeación conjunta, una dimensión mayor o menor.
+
+Los Ayuntamientos y el Ejecutivo del Estado, podrán acordar con los Ejecutivos de otras Entidades Federativas y con el Gobierno Federal, una dimensión mayor o menor, en el caso de que lo consideren conveniente si se presentase una conurbación interestatal.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 91.
+
+Las declaratorias de conurbación y de Zonas Metropolitanas, para que surtan sus efectos, serán publicadas por una sola vez en el Periódico Oficial del Gobierno del Estado, y en dos diarios de circulación estatal, e inscritos en el Registro Público de la Propiedad y de Comercio.
+
+###### ARTICULO 92.
+
+La planeación y regulación de las zonas conurbadas dentro del territorio del Estado, se efectuará con la participación del Gobierno del Estado y de los Ayuntamientos respectivos.
+
+###### ARTICULO 93.
+
+El Ejecutivo del Estado y los ayuntamientos respectivos podrán acordar que se considere la existencia de una zona de conurbación cuando:
+
+I. Solamente uno de los centros de población crezca sobre la zona señalada en el Artículo 90;
+
+II. Dos o más centros de población se encuentren ubicados fuera de la zona señalada en dicho artículo, pero por sus características geográficas y su tendencia socioeconómica se considere conveniente el estudio y resolución conjunta de su desarrollo urbano; o,
+
+III. Se proyecte o funde un centro de población y se prevea su expansión en territorios de municipios vecinos.
+
+###### ARTICULO 94.
+
+El acuerdo que se celebre en los términos del artículo anterior, tendrá efectos de declaratoria y se publicará como lo establece esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 95.
+
+Cuando el Ejecutivo Estatal haya hecho una declaratoria de conurbación, convocará a los Presidentes Municipales correspondientes para constituir dentro de los treinta días siguientes a la publicación de la declaratoria, una Subcomisión Intermunicipal de Conurbación de carácter permanente dentro del seno de la Comisión Coordinadora de Desarrollo Urbano del Estado, que ordene y regule el desarrollo de dicha zona. La Subcomisión será presidida por el titular de la Secretaría y tendrá facultades para promover la presentación de proposiciones, captar información, realizar investigaciones y oír la opinión de distintos grupos sociales de los centros de población respectivos, a través de los organismos legalmente constituidos que los representen.
+
+###### ARTICULO 96.
+
+La Subcomisión expedirá su reglamento interior en un plazo no mayor de treinta días contados a partir de la fecha en que haya sido constituida, en los términos del artículo anterior.
+
+###### ARTICULO 97.
+
+Una vez aprobado por el Gobernador del Estado el Programa que ordene y regule la zona conurbada, se expedirán las declaratorias de provisiones, reservas, usos y destinos de áreas y predios comprendidos en dicho territorio, de acuerdo con lo establecido en esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO II. Del Ordenamiento ecológico de los asentamientos humanos
+
+###### ARTICULO 98.
+
+Cuando se presente una Zona Metropolitana o de conurbación interestatal, se estará a lo dispuesto en el Capítulo Cuarto de la Ley General de Asentamientos Humanos.
+
+###### ARTICULO 99.
+
+Serán aplicables a los Programas de Ordenación y Regulación de Zonas Conurbadas Intermunicipales, las mismas disposiciones en cuanto a objetivos, fundamentos, acciones y contenido que se establecen para los Programas Municipales de Desarrollo Urbano de Centros de Población.
+
+###### ARTICULO 100.
+
+La ordenación de los centros de población se llevará a cabo mediante la planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población, tomando en cuenta los Planes de Ordenamiento Ecológico Federales y Estatales de acuerdo a las acciones previstas en los Planes y Programas a que se refiere esta Ley.
+
+###### ARTICULO 101.
+
+La fundación o la modificación de los límites de los centros de población que se realicen conforme a esta Ley, requerirán Decreto expedido por la Legislatura del Estado, que deberá contener las declaratorias procedentes sobre provisiones de tierras sujetas a preservación ecológica y determinación de usos, reservas territoriales y destinos y será publicado en el Periódico Oficial del Estado.
+
+###### ARTICULO 102.
+
+Con base en los Programas Municipales de Desarrollo Urbano de Centros de Población, se podrán declarar espacios dedicados a la conservación de aquellos predios en zonas urbanas que lo ameriten por su ubicación, extensión, calidad o por la influencia que tengan en el ambiente.
+
+###### ARTICULO 103.
+
+Se consideran espacios susceptibles de ser dedicados a la conservación:
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+
+I. Los que posean características naturales, como la existencia de bosques, praderas, mantos acuíferos, especies endémicas de flora y fauna en vías de extinción, así como respetar las reservas ecológicas, parques nacionales, monumentos naturales, parques urbanos, áreas verdes y zonas sujetas a conservación ecológica y otros elementos que condicionen el equilibrio ecológico;
+
+II. Los dedicados en forma habitual y adecuada a las actividades agropecuarias;
+
+III. Las áreas abiertas, los promontorios, los cerros, las colinas y elevaciones o depresiones orográficas que constituyan elementos naturales del territorio municipal;
+
+IV. Las áreas cuyo uso pueda afectar el paisaje urbano;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+V. Las zonas cuyo subsuelo se haya visto afectado por fenómenos naturales o por explotaciones de cualquier género que representen peligros permanentes o accidentes para los asentamientos humanos. En estos espacios la urbanización será restringida y sólo se autorizarán aquellas edificaciones y obras que aseguren los servicios de beneficio social de carácter colectivo y de uso común;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Las áreas verdes urbanas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Lechos de arroyos y ríos, tomando en cuenta el régimen de lluvias de desierto.
+
+### CAPITULO III. De la zonificación urbana
+
+###### ARTICULO 104.
+
+La conservación de los centros de población es la acción tendiente a mantener:
+
+I. El equilibrio ecológico;
+
+II. El buen estado de las obras materiales, de acuerdo a lo previsto en los Planes y Programas de Desarrollo Urbano; y
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+III. El buen estado de edificios, monumentos, plazas públicas, parques y, en general, todo aquello que corresponda a su acervo histórico y cultural, de conformidad con las leyes Vigentes; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Evitar la disminución del número y superficie de las áreas verdes urbanas, así como su deterioro.
+
+###### ARTICULO 105.
+
+El mejoramiento de los centros de población es la acción tendiente a reordenar y renovar los centros de población, mediante el adecuado aprovechamiento de sus elementos materiales integrantes necesarios cuyo objetivo es desarrollar armonía con el medio ambiente y mejorar la calidad de vida de los ciudadanos, a través de obras de uso público.
+
+###### ARTICULO 106.
+
+El mejoramiento podrá llevarse a cabo mediante convenios entre autoridades y propietarios, en los que se atiendan sus respectivos intereses o a través de la expropiación de predios por causa de utilidad pública prevista por la legislación en la materia.
+
+###### ARTICULO 107.
+
+Se atenderá al crecimiento de las áreas urbanas mediante la determinación de las zonas necesarias para su expansión, incorporación de porciones de reserva territorial y la adquisición, por parte del Estado y de los Municipios, de predios necesarios para satisfacer oportunamente los requerimientos de tierra que plantea el crecimiento de los centros de población.
+
+###### ARTICULO 108.
+
+La determinación de los espacios dedicados a la conservación, mejoramiento, provisiones para la creación de nuevos centros de población y la constitución de reservas territoriales, parques urbanos y zonas sujetas a conservación ecológica, se publicará en el Periódico Oficial del Estado y contendrá:
+
+I. La demarcación;
+
+II. Las características y condiciones del área;
+
+III. Las limitaciones de uso;
+
+IV. La duración; y,
+
+V. La justificación.
+
+Una vez publicada la determinación, se inscribirá en el Registro Público de la Propiedad y del Comercio y las áreas y predios comprendidos quedan sujetos a la regulación de este Capítulo.
+
+###### ARTICULO 109.
+
+Los predios de las zonas incluidas en el artículo anterior, se podrán utilizar en forma compatible con su destino o uso previsto hasta la fecha señalada en que deberán aplicarse a dichos predios los usos y destinos que la autoridad haya determinado.
+
+###### ARTICULO 110.
+
+Las políticas y acciones de conservación y mejoramiento del ambiente en los asentamientos humanos de la Entidad se llevarán a cabo a través del sistema de Programas y los instrumentos de ordenación del territorio previstos en la presente Ley.
+
+### CAPITULO IV. Del Derecho de Preferencia en zonas de reserva territorial
+
+###### ARTICULO 111.
+
+Los programas a que se refiere la presente Ley contendrán el ordenamiento ecológico de los asentamientos humanos y tendrá por objeto mantener, mejorar o restaurar el equilibrio de dichos asentamientos con los elementos naturales y asegurar el mejoramiento de la calidad de vida de la población.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 112.
+
+En el ordenamiento ecológico de los asentamientos humanos se observarán los criterios y políticas establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección al Ambiente para el Estado, el Plan de Ordenamiento Ecológico del Estado y las demás disposiciones estatales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO V. De la ejecución de Programas y cumplimiento de las Declaratorias
+
+###### ARTICULO 113.
+
+Se consideran áreas naturales protegidas, en los términos de la Ley General de Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección al Ambiente para el Estado.
+
+###### ARTICULO 114.
+
+La reglamentación del uso y conservación de los parques urbanos corresponderá a los Ayuntamientos de la Entidad.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+En la reglamentación a que se refiere el párrafo anterior, se incorporarán disposiciones para el logro de los objetivos previstos en el artículo 106 Ter de la Ley de Protección al Ambiente para el Estado de Baja California, así como para implementar el acceso gratuito a internet en las áreas verdes urbanas.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+Los espacios públicos destinados a áreas verdes urbanas no podrán ser destinados a otro uso, ni su superficie podrá ser disminuida.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 115.
+
+En el caso de obras públicas o privadas que puedan causar desequilibrios ecológicos, los requerimientos de estudios de impacto ambiental estarán coordinados conforme al Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y a lo establecido en la Ley de Protección al Ambiente para el Estado. Así, antes de la otorgación de un permiso, el solicitante deberá cumplir con los requerimientos y disposiciones técnicas que le marquen la Federación, el Estado y los Municipios.
+
+###### ARTICULO 116.
+
+Cuando con fundamento en la Legislación Federal en materia ambiental, sea interés del Gobierno Federal la determinación de un área natural protegida dentro del territorio del Estado, el Gobernador gestionará la participación de la Administración Pública Estatal y Municipal en la delimitación de las áreas respectivas y promoverá la celebración de convenios con el propio Gobierno Federal, a fin de garantizar la concurrencia y la coordinación en el manejo del área y de atribuciones locales en materia de desarrollo urbano y ambiente, conforme a los Artículos 7, 38 y 66 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+###### ARTICULO 117.
+
+A los municipios corresponderá formular, aprobar y administrar la zonificación de los centros de población ubicados en su territorio. Para ese efecto se entenderá por zonificación:
+
+I. La determinación de las áreas que integran y delimitan un centro de población, de conformidad con la fracción III del Artículo 6 de esta Ley;
+
+II. La determinación de los aprovechamientos predominantes en las áreas a que se refiere la fracción anterior; y
+
+III. La reglamentación de los usos, destinos y reservas territoriales a través de las declaratorias correspondientes.
+
+La determinación a que se refieren las fracciones I y II deberán estar contenidas en los programas que ordenen y regulen los centros de población, conforme las disposiciones de esta Ley.
+
+La reglamentación de zonificación y usos del suelo, destinos y reservas territoriales tomará en cuenta los criterios de sectorización de los centros de población, considerando las vialidades primarias y los subsectores o colonias catastrales determinadas según su grado de homogeneidad del desarrollo urbano y socioeconómico.
+
+Dentro de las áreas podrán establecerse polígonos de planeación urbana ajustándose a los Programas de Desarrollo Urbano Municipal, entre los cuales se encontrarán:
+
+a) Polígonos con potencial de desarrollo;
+
+b) Polígonos con potencial de mejoramiento;
+
+c) Polígonos de conservación patrimonial; y
+
+d) Polígonos de integración metropolitana.
+
+En el ordenamiento territorial, que comprende la zonificación de las áreas y los usos del suelo, destinos y reservas territoriales en el Estado de Baja California, se determinarán los polígonos para la ubicación de Estaciones de Servicio y Abastecimiento denominadas gasolineras, así como de las instalaciones de plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo sujetándose a las siguientes condiciones:
+
+I. Los predios para el establecimiento de gasolineras o Estaciones de Servicio, así como expendedoras de gas licuado de petróleo deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme a los Programas de Desarrollo Urbano Municipal;
+
+II. Las Estaciones de Servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad, y demás legislación aplicable, y se ubicarán a una distancia de, cuando menos, 1,000 metros en forma radial una de otra, dentro de zona urbana, y de 10,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
+
+III. Salvo en los casos en los casos a que se refiere el artículo 66 Quater de la Ley de Edificaciones del Estado, el predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías; y de 150 metros radiales, respecto de centros comerciales, mercados, cines, teatros, centros de culto religioso, auditorios, condominios, conjuntos habitacionales, privadas residenciales, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
+
+IV. Salvo en los casos en los casos (sic) a que se refiere el artículo 66 Quater de la Ley de Edificaciones del Estado, el predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
+
+V. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
+
+VI. Las bombas expendedoras de gasolina, gas licuado de petróleo y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 30 metros de un área residencial;
+
+VII. Los tanques de autoconsumo que se instalen, deberán cumplir con los requisitos y especificaciones emitidos por la Secretaría de Energía y Petróleos Mexicanos;
+
+VIII. Cuando el predio en el que se pretenda instalar una Estación de Servicio, se ubique entre dos vialidades, las maniobras de abastecimiento serán única y exclusivamente por el frente a la vialidad de mayor jerarquía; y
+
+IX. No podrán ubicarse Estaciones de Servicio dentro de las áreas consideradas como de Reserva Ecológica.
+
+Previo a las obras de edificación, licencia, permiso o autorización, quienes pretendan llevar a cabo los proyectos de estaciones de servicio, deberán obtener dictamen favorable de la autoridad competente en materia de protección civil y ambiental.
+
+Las estaciones de carburación, distribución y plantas de almacenamiento de gas licuado de petróleo, deberán obtener la autorización del Ejecutivo mediante el Dictamen Técnico de Congruencia de la Secretaría de Infraestructura y Desarrollo Urbano, en los casos previstos en las fracciones X y XI, del artículo 10 de esta ley.
+
+Las acciones de urbanización mencionadas en el artículo 147 quedan sujetas a cumplir con las disposiciones del presente artículo y del Artículo 117 BIS, siendo obligatoria su observancia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 117 BIS.- Para los usos de suelo, licencias de construcción y de operación, de actividades con manejo de gas licuado de petróleo, se respetará lo siguiente:
+
+I.- Para plantas de almacenamiento de gas licuado de petróleo, se otorgarán autorizaciones cuando se ubiquen en fraccionamientos industriales previamente autorizados, verificando que se encuentren fuera de fraccionamientos de uso distinto al industrial y de los centros de población que cumplan con la normatividad y con los planes y programas de desarrollo urbano, con las medidas de seguridad establecidas en las normas oficiales mexicanas y protocolos nacionales e internacionales, respetando tanto las distancias mínimas, áreas de amortiguamiento y de alto riesgo, además de la desconcentración necesaria de dichas plantas desplazándolas a zonas óptimas para su ubicación.
+
+Las autoridades correspondientes que emitan licencias de uso de suelo para plantas de almacenamiento del rubro de gas licuado de petróleo, deberán corroborar que el lugar donde se pretende ubicar la edificación de dichos establecimientos, cumpla con los criterios necesarios para contrarrestar posibles impactos adversos que afecten a zonas urbanas y al medio ambiente, analizando que la superficie seleccionada cuente con carreteras óptimas para el almacenamiento y distribución del hidrocarburo.
+
+Los criterios que debe cumplir para la emisión de licencias o permisos de uso de suelo para plantas de almacenamiento de gas licuado de petróleo son los siguientes:
+
+a. Se ubiquen fraccionamientos industriales de nueva creación, previamente autorizados para industria pesada, de alto riesgo con las excepciones previstas en este mismo apartado;
+
+b. Que no presenten colindantes que afecten la seguridad de la planta;
+
+c. Que se ubiquen en corredores industriales, particularmente carreteras, para el abastecimiento y distribución del energético;
+
+d. Que los posibles impactos adversos no afecten a zonas urbanas ni a ecosistemas;
+
+e. Que el potencial del uso de suelo sea compatible con las actividades a desarrollar;
+
+f. Que se considere la vegetación y fauna existente en el predio, áreas de conservación, y especies endémicas en peligro de extinción, que pudieran verse amenazadas con el proyecto;
+
+g. Que no existan zonas urbanas o rurales cercanas, que se ubiquen dentro del área de influencia local o regional del proyecto;
+
+h. Que el área del proyecto se encuentre en zona industrial que cuente con la infraestructura de los diferentes servicios requeridos para el proyecto;
+
+II.- Para las estaciones de carburación y distribución de gas licuado de petróleo, únicamente podrán otorgarse en fraccionamientos de nueva creación, autorizados conforme a la normatividad aplicable de la materia, que cumplan con los planes y programas de desarrollo urbano, respetando tanto las distancias mínimas, áreas de amortiguamiento y de alto riesgo, como la desconcentración de dichas estaciones, en la medida en que se cumpla con la demanda y el abasto que satisfaga las necesidades de la población.
+
+En los casos en que en términos de esta ley y sus reglamentos sea procedente el otorgamiento y licencias de uso de suelo, para las estaciones de carburación y distribución, de gas licuado de petróleo, se sujetarán a las siguientes condiciones:
+
+a. Solo podrán ubicarse en predios localizados sobre carreteras, autopistas, libramientos, vías primarias o principales.
+
+b. Que el predio donde se pretenda construir el establecimiento, considere el acceso consolidado que permita el tránsito seguro de vehículos;
+
+c. Que se ubiquen a una distancia de resguardo de 300 metros lineales a partir de los límites de propiedad del predio en cuestión de la primera línea de transmisión de energía eléctrica de alta tensión, tomando como referencia la base de la misma; del eje de vías férreas; del eje de gasoductos y poliductos para productos derivados del petróleo;
+
+d. Que no colinden con usos de suelo en los que se lleven a cabo actividades tanto de riesgo como de alto riesgo, evitando efectos sinérgicos y de acumulación; y siempre que respeten las áreas de amortiguamiento, de alto riesgo y radio de influencia de los proyectos, que estén determinados acorde a las respectivas manifestaciones de impacto ambiental y estudios de riesgo, de actividades que previamente estuvieren instaladas en la zona; asimismo deberán ubicarse a una distancia mínima de 300 metros radiales.
+
+e. Que se tomen las medidas necesarias para proteger las instalaciones del establecimiento y de sus colindantes, si el predio se encuentra en zonas susceptibles de deslaves, partes bajas de lomeríos, terrenos con desniveles o terrenos bajos;
+
+f. Que los predios ubicados al margen de carretera y/o vías rápidas cuenten con carriles de aceleración y desaceleración;
+
+g. Que el terreno del establecimiento tenga las pendientes y los sistemas adecuados para desalojo de aguas pluviales;
+
+h. Que las zonas de circulación y estacionamiento tengan como mínimo una terminación superficial consolidada y amplitud suficiente para el fácil y seguro movimiento de vehículos y personas; y
+
+i. Que el perímetro del establecimiento esté delimitado en su totalidad por bardas ciegas de mampostería con altura mínima de tres metros sobre el nivel de piso terminado.
+
+###### ARTICULO 118.
+
+Las declaratorias de usos, destinos y reservas deberán derivarse de los Planes y Programas de Desarrollo Urbano a nivel municipal y de centros de población de esta Ley, conforme a las siguientes reglas:
+
+I. Las declaratorias de provisiones se expedirán en el Decreto previsto para la fundación de centros de población;
+
+II. Las declaratorias de usos, destinos y reservas se expedirán siguiendo el mismo procedimiento requerido para elaborar, aprobar o revisar el programa de desarrollo urbano de donde se deriven; y
+
+III. Las declaratorias de reservas territoriales requerirán la aprobación del Gobernador del Estado previamente a su trámite de publicación y registro.
+
+Para su vigencia deberán inscribirse y publicarse en los términos de esta misma Ley.
+
+En ningún caso podrán expedirse dichas declaratorias en ausencia o en contravención de los programas a que se refiere el primer párrafo de este artículo.
+
+###### ARTICULO 119.
+
+Las declaratorias de usos, destinos y reservas contendrán:
+
+I. Las razones de interés social que las motivaron;
+
+II. La referencia del programa de desarrollo urbano del cual se derivan;
+
+III. La demarcación;
+
+IV. Las características y condiciones del área y la aptitud de los terrenos;
+
+V. Las restricciones al aprovechamiento del suelo, según el tipo de declaratoria de que se trate;
+
+VI. El término de su vigencia; y
+
+VII. Los demás datos que determine esta Ley y sus reglamentos.
+
+###### ARTICULO 120.
+
+Las declaratorias de usos establecerán las normas de aprovechamiento de los predios para aquellas zonas de un centro de población que ordenen los programas correspondientes, indicando, conforme a los reglamentos de zonificación:
+
+I. Los usos permitidos, prohibidos o condicionados;
+
+II. Las normas aplicables a los usos condicionados;
+
+III. La compatibilidad entre los usos permitidos;
+
+IV. El número e intensidad de construcciones; y
+
+V. En su caso, las normas para el alineamiento de predios y en general, de diseño urbano.
+
+### CAPITULO VI. De la tierra para el desarrollo urbano y la vivienda
+
+###### ARTICULO 121.
+
+Las declaratorias de destinos contendrán la delimitación precisa de las áreas y predios de que se trate, así como la descripción del fin o aprovechamiento público a que éstos prevean dedicarse.
+
+Una vez publicada e inscrita en el Registro Público de la Propiedad y del Comercio correspondiente una declaratoria de destinos, los propietarios o poseedores de inmuebles que queden comprendidos en la misma, solo utilizarán los predios de manera que no presenten obstáculos al futuro aprovechamiento previsto.
+
+Las declaratorias de destinos quedarán sin efecto si en un plazo de cinco años a partir de su inscripción, las áreas y predios correspondientes no son utilizados conforme al destino previsto. En este caso, los afectados podrán solicitar a la autoridad que ordenó el registro de la declaratoria, que gire instrucciones para la cancelación de la misma y la tildación de la anotación recaída en la inscripción de la propiedad.
+
+## TITULO SEPTIMO. DE LAS MODALIDADES DE LAS ACCIONES DE URBANIZACION
 
 ### CAPITULO I. Disposiciones Generales
 
-###### Artículo 90.
+###### ARTICULO 122.
 
-Para los efectos de este ordenamiento, se consideran instituciones de asistencia social privada, las personas jurídicas, constituidas por voluntad de los particulares, de conformidad con las leyes vigentes, que lleven a cabo acciones de promoción, investigación o financiamiento para actos de asistencia social o que presten servicios asistenciales sin fines de lucro, en los términos de éste código.
+Las declaratorias de destinos se notificarán personalmente y por escrito a los propietarios, poseedores, sucesores o causahabientes afectados, cuando se conozca su domicilio conforme los registros catastrales de la propiedad inmobiliaria. En caso contrario, se les notificará por edictos que se publicarán por tres veces consecutivas en el Periódico Oficial del Estado, y en los mismos términos en un periódico de circulación local. La notificación así hecha surtirá efectos quince días hábiles después de su última publicación.
 
-###### Artículo 91.
+Asimismo, se procederá a colocar cédulas en los predios o fincas afectados, mismas que expresarán:
 
-La capacidad jurídica de las instituciones de asistencia social privada está circunscrita a los términos marcados por el objeto de su institución, por las disposiciones contenidas en el Código Civil del Estado de Jalisco y por el presente Código.
+I. Nombre de la persona a quien se notifica;
 
-###### Artículo 92.
+II. Motivo por el cual se coloca la cédula, haciendo referencia a los fundamentos y antecedentes; y
 
-Las instituciones de asistencia social privada deberán constituirse, para efectos legales, como fundaciones o asociaciones de acuerdo a lo que prevé la legislación civil en el Capítulo de las Personas Jurídicas.
+III. El tiempo por el que debe permanecer la cédula en lugar que se fije.
 
-En los casos no previstos en este título será aplicable el Código Civil del Estado.
+###### ARTICULO 123.
 
-###### Artículo 93.
+Las declaratorias de reservas contendrán la delimitación de las áreas de expansión futura del centro de población.
 
-El Instituto realizará el registro, análisis y propuesta de la constitución de aquella institución de asistencia social privada (sic) pretenda integrarse al Sistema de Asistencia Social.
+Una vez que dichas declaratorias sean publicadas e inscritas en el Registro Público de la Propiedad y del Comercio, los predios en ella comprendidos se utilizarán por sus propietarios o poseedores en forma que no presente obstáculo al futuro aprovechamiento determinado por el programa correspondiente.
 
-###### Artículo 94.
+En igualdad de circunstancias, dichas declaratorias comprenderán preferentemente terrenos que no sean de propiedad ejidal o comunal.
 
-Los notarios públicos darán cuenta al Secretario y Procurador Jurídico del Instituto, de los actos que autoricen en razón de los cuales se origine o pueda originarse algún interés para la asistencia social privada, ya sea que en el acto se instituya alguna obra o se relacionen con las ya instituidas.
+Las declaratorias de reservas se notificarán personalmente y por escrito a los propietarios o poseedores, conforme al procedimiento previsto en el Artículo 122 de esta Ley.
 
-No se concederán permisos para la realización de eventos destinados a la asistencia social, si no se justifica haber cumplido con las disposiciones de este capítulo.
+### CAPITULO II. De su incorporación municipal
 
-###### Artículo 95.
+###### ARTICULO 124.
 
-Se equipararán a las instituciones de asistencia social privada, las fundaciones o asociaciones para la concesión de premios para estudios, investigaciones, descubrimientos o actos que tengan por objeto un adelanto en las ciencias o en las artes o un beneficio a la humanidad o a las personas a que se refiere el artículo 5° del presente Código.
+Cuando se haga necesaria la utilización parcial o total de las reservas, se expedirá un Programa Parcial que regule las acciones y utilización del área de que se trate y las declaratorias de usos y destinos que sean necesarias.
 
-###### Artículo 96.
+En el caso de áreas ejidales y comunales, se promoverán las expropiaciones correspondientes en los términos de la Ley Agraria.
 
-Los actos de asistencia social privada pueden ser ejercitados en las siguientes formas:
+###### ARTICULO 125.
 
-I. Por persona individual, mediante la creación y dotación de un establecimiento o fundación de manera transitoria, independiente del fundador;
-
-II. Por una institución formada, ya sea por un conjunto de bienes cuyo asiento no pertenece a ninguna persona o sociedad, constituida conforme a la ley, o por una organización social cuyos fines sean independientes del interés particular, así como de la vida de cada uno de sus miembros; y
-
-III. Por persona individual que emplea sus recursos para obras de asistencia social, la cual depende inmediata o directamente de dicha persona y está sujeta a su voluntad, así como al término de su vida; de tal suerte que al morir dicha persona, se extinga la obra de beneficencia.
-
-###### Artículo 97.
-
-Se consideran eventos destinados a la asistencia social, los efectuados por cualquiera de las instituciones antes mencionadas, cuyos productos en todo o en parte, se destinen a la asistencia social, quedando sujetos dichos actos a la autorización y vigilancia del Instituto, a través de su Secretario y Procurados (sic) Jurídico y de los Ayuntamientos en el ámbito de su competencia.
-
-### CAPITULO II. Patrimonio de las Instituciones de Asistencia Social Privada
-
-###### Artículo 98.
-
-Las instituciones de asistencia social privada no podrán poseer más bienes raíces que los necesarios para su objeto.
-
-###### Artículo 99.
-
-Las instituciones de asistencia social privada pueden adquirir y aceptar donaciones, herencias y legados, pero los bienes inmuebles que se les trasmitieren serán enajenados dentro de un plazo de tres años, contados a partir del momento en que se rebase el límite dispuesto por el artículo anterior.
-
-###### Artículo 100.
-
-La venta se verificará en subasta pública ante la autoridad judicial correspondiente, con las formalidades establecidas por la ley de la materia.
-
-###### Artículo 101.
-
-Si tres años después de la adjudicación, el patrono, apoderado, juntas o administradores de la institución no hubiesen procedido a la venta de los inmuebles, la promoverá judicialmente el Secretario y Procurador Jurídico del Instituto.
-
-###### Artículo 102.
-
-Para aceptar o repudiar una donación, legado o herencia condicional u onerosa, las instituciones necesitan autorización del Secretario y Procurador Jurídico del Instituto; teniendo la obligación de aceptar las no onerosas, previo aviso que efectúe al citado servidor público; lo anterior conforme a lo dispuesto por el Código Civil del Estado.
-
-###### Artículo 103.
-
-La distribución y aprovechamiento de las cantidades que se dejen en numerario a las instituciones de asistencia social privada por herencia o legado, deben ser vigiladas por el Secretario y Procurador Jurídico del Instituto.
-
-### CAPITULO III. De las Fundaciones de Asistencia Social Privada
-
-###### Artículo 104.
-
-El Secretario y Procurador Jurídico del Instituto será el encargado de hacer el análisis respectivo a las solicitudes de constitución de fundaciones y hará la propuesta relativa a la Junta de Gobierno del Instituto, para que se cumplimente lo ordenado por el capítulo respectivo del presente Código.
-
-###### Artículo 105.
-
-Hecha la declaratoria de viabilidad por el Secretario General de Gobierno, remitirá ésta al Secretario y Procurador Jurídico del Instituto, para que por su conducto se comunique a la fundación que se pretenda crear y se inscriba en el Registro Público de la Propiedad.
-
-###### Artículo 106.
-
-En caso de que los herederos, albaceas o miembros del patronato designados por el testador no acrediten en los autos del juicio testamentario haber cumplido oportunamente con lo estipulado por el Código Civil del Estado, los jueces que oficialmente tengan conocimiento de la disposición testamentaria, darán aviso al Secretario y Procurador Jurídico del Instituto, a fin de que éste proceda a exigir la constitución de la fundación, a cuyo efecto será considerada parte en el juicio testamentario.
-
-###### Artículo 107.
-
-Cualquier persona podrá informar al Secretario y Procurador Jurídico del Instituto de las disposiciones testamentarias en que se prevean actos de asistencia social privada.
-
-###### Artículo 108.
-
-Son miembros del patronato de una fundación aquéllos que dispone el Código Civil del Estado. En las faltas temporales o absolutas lo serán los nombrados por el Secretario y Procurador Jurídico.
-
-###### Artículo 109.
-
-No pueden ser miembros del patronato, directores ni administradores:
-
-I. Los funcionarios o empleados públicos;
-
-II. El Secretario y Procurador Jurídico del Instituto; y,
-
-III. Los albaceas de la sucesión en que se constituya un legado en favor de alguna obra de asistencia social privada o instituya a ésta heredera. Esta incapacidad solamente subsistirá durante el tiempo del ejercicio del albaceazgo.
-
-###### Artículo 110.
-
-En caso de controversia sobre quién tiene el ejercicio de (sic) patronato, los jueces decidirán provisionalmente y mientras concluye el litigio, quién de los contendientes integrará el patronato y lo pondrá en posesión de su cargo.
-
-### CAPITULO IV. De las Asociaciones de Asistencia Social Privada
-
-###### Artículo 111.
-
-Para efectos de este Código, se considerarán asociaciones dedicadas a la asistencia social privada, aquéllas que se constituyan de acuerdo con el Código Civil del Estado, para alguno de los fines indicados en el presente ordenamiento.
-
-###### Artículo 112.
-
-Las asociaciones que quieran gozar de los derechos que concede este Código, deberán presentar el acta constitutiva y los estatutos de la asociación en que conste:
-
-I. Los nombres, apellidos y domicilios de los asociados;
-
-II. La denominación de la asociación;
-
-III. El objeto de la misma;
-
-IV. Los fondos de la asociación y la forma y términos en que hayan de exhibirse o recaudarse;
-
-V. Las bases para la dirección o administración de la asociación, expresando las juntas, consejos o personas que hayan de tenerlas a su cargo y la manera como hayan de ser electas o designadas; y,
-
-VI. Todos los datos necesarios para el esclarecimiento de la voluntad de los asociados y la manera de ejecutarla.
-
-### CAPITULO V. De la Administración de las Instituciones de Asistencia Social Privada
-
-###### Artículo 113.
-
-Si los benefactores hubieren establecido bases para la enajenación de bienes, se estará a ellas y se obrará de acuerdo con lo prevenido en el presente Código y en el Código Civil del Estado de Jalisco.
-
-###### Artículo 114.
-
-El presidente del patronato, directores o administradores no pueden desempeñar estos cargos en dos o más instituciones de asistencia social privada. Tampoco pueden desempeñar en una misma institución los cargos de director, administrador y tesorero; el cónyuge, así como las personas que tengan parentesco con los sujetos arriba mencionados no podrán ejercer estos cargos.
-
-###### Artículo 115.
-
-En los casos en que sea heredera una institución de asistencia social privada y en la herencia intervengan por cualquier causa los miembros del patronato, directores o administradores de la fundación; así como cuando estén interesados (sic) esas mismas personas tanto en la herencia como en la gestión de la institución, quedarán separados de sus cargos por el tiempo que dure el juicio sucesorio, nombrándose, en su caso, por el Secretario y Procurador Jurídico del Instituto un administrador provisional.
-
-###### Artículo 116.
-
-En el caso del artículo anterior son atribuciones del administrador provisional:
-
-I. Representar el caudal que hereda la fundación;
-
-II. Actuar con toda diligencia durante la tramitación del juicio sucesorio;
-
-III. Promover el pronto despacho del juicio y de sus incidentes;
-
-IV. Reclamar las infracciones de ley;
-
-V. Vigilar la conducta de (sic) albacea, dando cuenta al Secretario y Procurador Jurídico del Instituto de todos los actos en que pueden resultar perjudicados los intereses de la obra de beneficencia;
-
-VI. Dar parte al juez de la sucesión de los abusos que advierta cuando el caso fuere urgente;
-
-VII. Proponer que se dicten la (sic) providencias necesarias para la conservación de los bienes; y
-
-VIII. Las demás que el Secretario y Procurador Jurídico del Instituto le designe.
-
-###### Artículo 117.
-
-Las atribuciones que al administrador provisional señala el artículo anterior, se ejercerán de acuerdo y bajo el patrocinio y dirección del Secretario y Procurador Jurídico del Instituto.
-
-###### Artículo 118.
-
-Los miembros del patronato, directores o administradores, llevarán libros de contabilidad pormenorizados y uno especial destinado a formar la historia de la fundación o asociación y de todo lo que con ella se relacione.
-
-###### Artículo 119.
-
-Los miembros del patronato, directores o administradores, salientes rendirán cuenta de su administración a los entrantes.
-
-###### Artículo 120.
-
-El Secretario y Procurador Jurídico del Instituto ejercerá su vigilancia con el objeto de impedir la distracción o dilapidación de los fondos, los fraudes de los administradores, miembros del patronato o directores o la inejecución de la voluntad de los fundadores; pero dejando a los ejecutores libertad de acción.
-
-### CAPITULO VI. De los Apoyos a las Fundaciones y Asociaciones
-
-###### Artículo 121.
-
-Las fundaciones y asociaciones de asistencia social privada constituidas con arreglo a este Código, gozarán de la reducción de un noventa por ciento en las contribuciones que deban al Estado.
-
-## TITULO SEGUNDO. DE LA INTERVENCION DE LAS AUTORIDADES EN LOS ACTOS DE LA ASISTENCIA SOCIAL PRIVADA
-
-### CAPITULO I. De las Autoridades Judiciales
-
-###### Artículo 122.
-
-Los jueces y tribunales tienen obligación de dar aviso al Secretario y Procurador Jurídico del Instituto, de los negocios y sucesiones en que se instituya una obra de asistencia social o que se relacionen con alguna institución de asistencia social privada; comunicando todos los procedimientos y resoluciones cuya falta de conocimiento pueda perjudicar a las instituciones. En caso de sucesión con el aviso se acompañará copia simple del testamento.
-
-###### Artículo 123.
-
-En las sucesiones en las que de cualquier modo debe interesarse la asistencia social privada, la intervención del Secretario y Procurador Jurídico del Instituto comenzará desde la iniciación de los juicios y tendrá derecho de nombrar interventor en los términos del Código Civil del Estado de Jalisco.
-
-### CAPITULO II. De la Intervención de la Procuraduría Social
-
-###### Artículo 124.
-
-Los agentes de la Procuraduría Social, bajo su más estrecha responsabilidad, intervendrán en los negocios judiciales en que la asistencia social fuere parte, dando cuenta al Secretario y Procurador Jurídico del Instituto de todas y cada una de las diligencias en que intervinieren, así como de las promociones que hicieren.
-
-###### Artículo 125.
-
-La falta de cumplimiento de las obligaciones que a los agentes de la Procuraduría Social impone este Código, será causa de responsabilidad y el Procurador Social del Estado, la sancionará conforme a derecho proceda.
+La clasificación de los usos y destinos y los criterios de regulación para zonas habitacionales, comerciales, industriales, recreativas, turísticas y ecológicas, se definirán en el Reglamento Estatal de Zonificación que al efecto expida el Ejecutivo del Estado.
 
 # LIBRO CUARTO. DE LOS SERVICIOS JURIDICOS ASISTENCIALES
 
-## TITULO UNICO
+## TITULO OCTAVO. DE LAS RESPONSABILIDADES, MEDIDAS DE SEGURIDAD, SANCIONES Y DEFENSA DE LOS PARTICULARES
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De los procedimientos para autorizar y realizar acciones de urbanización
 
-###### Artículo 126.
+###### ARTICULO 126.
 
-El Estado, por conducto de la Procuraduría Social, en los términos que determine su ley orgánica y el presente libro, deberá prestar los servicios de defensoría de oficio, asesoría jurídica y patrocinio en negocios judiciales en forma gratuita, a las personas físicas que por sus condiciones y circunstancias especiales, sociales o económicas se vean en la necesidad de tales servicios o cuando las leyes así lo dispongan.
+Cuando se expida un Programa Regional de Desarrollo Urbano con su zonificación correspondiente, tomando como referencia los criterios definidos en el Reglamento Estatal de Zonificación, podrán estipularse criterios específicos aplicables a las áreas y predios de su territorio.
 
-###### Artículo 127.
+Los Ayuntamientos al definir la zonificación de los centros de población, utilizarán los criterios de clasificación de usos y destinos establecidos en el Reglamento Estatal de zonificación, estando facultados a establecer normas específicas cuando así se requiera.
 
-Cuando la Procuraduría Social desempeñe las funciones a que se refiere el artículo anterior, deberá realizar, en los términos que establezca su ley orgánica, las gestiones necesarias para lograr la conciliación de las partes en conflicto, sin que los actos de mediación que realice la Procuraduría Social, impliquen instancia alguna, ni la suspensión o interrupción de términos judiciales.
+Las declaratorias de usos derivadas de los Programas de Desarrollo Urbana (sic) de Centros de Población o de los Programas Parciales de Desarrollo Urbano se notificarán de acuerdo a lo previsto en el Artículo 122 de este Capítulo.
 
-###### Artículo 128.
+###### ARTICULO 127.
 
-Para el desempeño de las funciones que le atribuye este libro, la Procuraduría Social podrá celebrar convenios de colaboración con la Dirección de Profesiones del Estado, la Procuraduría General de Justicia del Estado, la defensoría de oficio federal, las universidades públicas y privadas, colegios y barras de abogados, así como con otras instituciones, dependencias o asociaciones afines, con el propósito de que éstas faciliten a la Procuraduría Social apoyos técnicos y humanos para el mejor desempeño de sus atribuciones.
+Conforme lo dispone el Artículo 47 de la Ley General de Asentamientos Humanos, el Gobierno del Estado y los Ayuntamientos tienen derecho de preferencia para adquirir los predios comprendidos en la declaratoria de reserva, cuando dichos predios sean puestos a la venta o cuando, a través de cualquier acto jurídico, vayan a ser objeto de una transmisión de propiedad.
 
-Los convenios a que se refiere el presente artículo, en ningún momento implicarán la substitución, en las facultades de la Procuraduría Social, por parte de las entidades con las que hubiere celebrado convenios. Cuando por virtud de dichos convenios, intervengan prestadores del servicio social o pasantes, se entiende que éstos actúan como auxiliares de los servidores públicos de la Procuraduría Social.
+Igual derecho de preferencia tendrán el Gobierno del Estado y los Municipios para adquirir los predios comprendidos en la declaratoria de reserva, en caso de remate judicial o administrativo, al precio que se fije en remate al mejor postor, mismo que deberá ser ratificado por la Comisión Estatal de Avalúos.
 
-### CAPITULO II. De la Defensoría de Oficio
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 129.
+###### ARTICULO 128.
 
-En asuntos del orden penal la defensoría de oficio deberá proporcionarse en los términos previstos en la fracción IX, del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, siempre que el acusado no pudiere o no quisiere nombrar defensor, tanto en la averiguación previa como en el proceso penal, en la forma en que lo determine el Código de Procedimientos Penales del Estado.
+Para hacer efectivo este derecho de preferencia, los propietarios de los predios comprendidos en la declaratoria de reserva, los notarios, los jueces y las autoridades administrativas deberán notificarlo a la Secretaría y a la Presidencia Municipal correspondiente dando a conocer el monto de la operación, a fin de que éstos, en un plazo no mayor de treinta días naturales contados a partir de recibida la notificación, ejerzan el derecho de preferencia si lo consideran conveniente.
 
-###### Artículo 130.
+Si en el plazo señalado en el párrafo anterior, la autoridad no emite contestación a la notificación, manifestando que es su decisión ejercer el derecho de preferencia en la adquisición del predio, se entenderá que se abstiene de ejercitarlo en ese acto.
 
-En los juzgados especializados en materia penal y mixtos de primera instancia y en las Salas del Supremo Tribunal de Justicia del Estado que conozcan de asuntos del orden penal, la Procuraduría Social tendrá adscrito al menos un defensor.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-Habrá un coordinador para los defensores de oficio adscritos a las agencias del Ministerio Público.
+### CAPITULO IV. De las obligaciones de los responsables de las acciones de urbanización
 
-###### Artículo 131.
+###### ARTICULO 129.
 
-En los asuntos del orden familiar la Procuraduría Social deberá asignar un defensor de oficio cuando se lo solicite alguna de las partes. Se procurará evitar en lo posible llegar a juicio, ayudando al interesado a resolver su problemática con la colaboración de las instancias de servicios interdisciplinarios que prevé la ley.
+Cuando la Secretaría y la Autoridad Municipal expresen para el mismo acto su decisión de ejercer el derecho a que refiere el Artículo 127 de esta Ley, la venta o adjudicación se hará a favor del Municipio.
 
-En los casos a que se refiere este artículo, la Procuraduría Social deberá continuar patrocinando al interesado hasta la conclusión del procedimiento judicial, en tanto éste no revoque formalmente su determinación de continuar bajo la asistencia legal de la Procuraduría Social o haga la designación de un abogado particular.
+###### ARTICULO 130.
 
-### CAPITULO III. De los Servicios Jurídicos Gratuitos en otros Ramos de la Administración de Justicia
+Cuando el Gobierno del Estado o el Ayuntamiento ejerciten el derecho de preferencia, el precio será el mismo que el de la operación que se pretendía realizar y se liquidará dentro de los quince días siguientes al día en que se opte por el ejercicio de tal derecho.
 
-###### Artículo 132.
+Para perfeccionar el acto de adquisición del predio, deberá ser ratificado por Acuerdo del Ejecutivo Estatal o del Cabildo, según corresponda.
 
-La Procuraduría Social, en los términos previstos en el presente capítulo y en su ley orgánica, tendrá a su cargo la prestación de los servicios de asesoría legal gratuita y patrocinio en negocios judiciales, en los asuntos del orden civil, mercantil y administrativo; así como en el área penal en los casos expresamente previstos en este capítulo diversos a los supuestos en que procede el nombramiento de defensor de oficio, y en la materia laboral, en favor de los trabajadores al servicio del Estado y sus municipios.
+###### ARTICULO 131.
 
-###### Artículo 133.
+Para el ejercicio del derecho consignado en este Capítulo, en aquellos casos que por la naturaleza del acto traslativo de dominio no se haya determinado el valor del inmueble, éste se fijará atendiendo al avalúo que practique la Comisión Estatal de Avalúos, sea el Estado o Municipio el adquirente.
 
-La Procuraduría Social no prestará servicios en favor de personas jurídicas ya sean de derecho público o privado.
+### CAPITULO V. De la ejecución de las acciones de urbanización
 
-###### Artículo 134.
+###### ARTICULO 132.
 
-La Procuraduría Social deberá atender a toda persona física que acuda a hacer consultas sobre problemas o situaciones jurídicas concretas.
+El derecho de preferencia a que se refiere este Capítulo, se extinguirá en aquellas áreas comprendidas en las declaratorias de reservas territoriales que hayan sido urbanizadas conforme a su Programa Parcial de Desarrollo urbano.
 
-###### Artículo 135.
+###### ARTICULO 133.
 
-El patrocinio en negocios judiciales a que se refiere el presente capítulo, será proporcionado por la Procuraduría Social, siempre que exista solicitud de parte interesada que carezca de los recursos económicos necesarios para sufragar los honorarios de un abogado particular. Para comprobar la falta de recursos, la Procuraduría Social podrá realizar un estudio socioeconómico cuando lo estime conveniente.
+Cuando para la ejecución de los Planes y Programas de Desarrollo Urbano o de las Declaratorias sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública proveerá la expropiación de la misma de conformidad con la Ley de Expropiación del Estado.
 
-###### Artículo 136.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-En casos urgentes o cuando existieren términos judiciales que pudiesen precluir a causa de la demora en la prestación de los servicios necesarios, la Procuraduría Social los prestará en forma inmediata.
+###### ARTICULO 134.
 
-Una vez realizados los trámites urgentes, en los casos en que se realice el estudio socioeconómico, si el solicitante no reúne las condiciones exigidas por la ley para recibir el servicio, la Procuraduría Social se abstendrá, previa comunicación hecha al interesado, de continuar su intervención en el asunto, siempre que le conceda un término suficiente para obtener los servicios de un abogado y que las consecuencias inmediatas de tal abstención no impliquen un riesgo para el resultado final del asunto encomendado.
+Los Planes y Programas de Desarrollo Urbano y Declaratorias que establezcan provisiones, usos, reservas y destinos de áreas, zonas o predios, entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado y deberán ser inscritos dentro de los veinte días siguientes en el Registro Público de la Propiedad y de Comercio y los registros que correspondan, por razón de la materia. Los Programas de Desarrollo Urbano estarán a consulta del público en las oficinas de los Ayuntamientos correspondientes y en las Residencias de la Secretaría.
 
-###### Artículo 137.
+Son responsables del incumplimiento de esta disposición las autoridades que expidan las citadas declaratorias y no gestionen su inscripción, así como los encargados de las oficinas del Registro Público de la Propiedad y del Comercio que se abstengan de llevarla a cabo o la realicen con deficiencia; estos incumplimientos se sancionarán conforme al Título Octavo de esta Ley.
 
-Cuando los resultados de un estudio socioeconómico originen la negativa de la Procuraduría Social a patrocinar al interesado en un negocio judicial, éste podrá solicitar al Procurador Social la revisión del caso, a fin de que revoque confirme o modifique la determinación anteriormente dictada.
+###### ARTICULO 135.
 
-La solicitud de revisión que haga el particular no deberá llenar formalidad alguna, sólo se limitará a señalar el caso concreto y las causas por las cuales solicita la intervención de la Procuraduría Social.
+No se podrá inscribir en el Registro Público de la Propiedad y del Comercio ningún acto, convenio o contrato que no se ajuste a lo dispuesto en los Artículos 127, 128, 137, 138 y 139 de esta Ley.
 
-###### Artículo 138.
+###### ARTICULO 136.
 
-La resolución del procurador en los casos de revisión, deberá dictarse en un término de diez días hábiles contados a partir de la presentación de la solicitud de revisión, en caso contrario se entenderá que la resolución del procurador es favorable al interesado.
+Las autoridades administrativas no expedirán ningún permiso, autorización o licencia que contravenga los (sic) establecido en los Programas y Declaratorias. Los que se expidan, no obstante esta prohibición serán nulos de pleno derecho.
 
-###### Artículo 139.
+###### ARTICULO 137.
 
-La Procuraduría Social podrá suspender o dar por terminada su intervención en patrocinio de un procedimiento judicial, cuando:
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier otro derecho relacionado con la utilización de áreas y predios, deberán contener las cláusulas relativas a la utilización de dichas áreas y predios, conforme a las Declaratorias correspondientes.
 
-I. Efectuado el estudio socioeconómico a que se refiere este capítulo, determine que las condiciones del interesado le permiten obtener los servicios de un abogado particular;
+###### ARTICULO 138.
 
-II. El interesado se asista, en cualquier diligencia o trámite judicial, de los servicios de uno o varios abogados particulares;
+No producirán efecto legal alguno los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con la utilización de áreas y predios, que contravengan las correspondientes Declaratorias de provisiones, usos, reservas y destinos inscritos en el Registro Público de la Propiedad y del Comercio, así como los actos jurídicos de traslación de dominio que se realicen sin respetar el derecho de preferencia a que se refieren los Artículos 127 y 128 de este ordenamiento.
 
-III. El interesado manifieste su determinación de no continuar haciendo uso de los servicios de la Procuraduría Social.
+La nulidad a que se refiere el párrafo anterior, será declarada por las autoridades administrativas en el ámbito de sus respectivas competencias.
 
-###### Artículo 140.
+###### ARTICULO 139.
 
-En los casos a que se refieren las fracciones I y II del artículo anterior, la Procuraduría Social deberá dar aviso formal al interesado, en el cual le manifieste los motivos y fundamentos de su determinación.
+Los Notarios y cualesquiera otro fedatario solo podrán autorizar las escrituras públicas en que se cumpla lo dispuesto en los Artículos 127, 128, 137, y 138 de esta Ley, en las que se inserte el certificado del Registro Público de la Propiedad y del Comercio sobre la existencia o inexistencia de las declaratorias y avisos o manifestaciones de que hablan dichos preceptos.
 
-El aviso deberá notificarse al interesado con el término suficiente para que se haga asistir de abogado particular y, la Procuraduría Social, deberá cuidar que con ello no se ponga en riesgo el éxito del negocio judicial que hubiere patrocinado.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
+###### ARTICULO 140.
+
+En caso de que se expidan permisos, licencias y autorizaciones contraviniendo las leyes, reglamentos o Planes y Programas de Desarrollo Urbano aplicables, o de llevarse a cabo las acciones de edificación, urbanización, cambios de uso de suelo y demás relativas, que contravengan esta Ley, los reglamentos municipales, planes o programas de desarrollo urbano aplicables y que originen un deterioro en la calidad de vida de los asentamientos humanos, o que afecten las áreas naturales protegidas declaradas así por la Federación, el Estado o los Municipios, o las que se destinen a industrias de alto riesgo, extractivas o de transformación y que puedan tener un impacto negativo en el medio ambiente, sin importar su ubicación, los residentes del área directamente afectados y, quienes tengan un interés jurídico o legítimo, tendrán derecho a exigir la revocación y nulidad de dichos permisos, licencias y autorizaciones referidas, asimismo que se apliquen las medidas de seguridad pertinentes para dar el debido cumplimiento a los citados ordenamientos. Este derecho se ejercerá ante las autoridades competentes o superiores inmediatos, quienes escucharán previamente a los interesados y, en su caso, a los afectados, mediante la admisión de petición que se formule por escrito, lo que dará inicio al procedimiento correspondiente.
+
+Admitido el escrito las autoridades competentes concederán un plazo de 10 días hábiles para que las partes interesadas presenten las pruebas pertinentes, concluido este plazo las autoridades que conozcan del procedimiento contarán con 15 días hábiles para practicar las diligencias probatorias que estimen necesarias y una vez concluido esto se abrirá un periodo de tres días hábiles para que las partes interesadas presenten sus alegatos. Terminado este periodo la autoridad deberá resolver dentro de los 10 días hábiles siguientes, notificando la resolución a las partes en un plazo de tres días hábiles.
+
+La resolución que emita la autoridad, deberá resolver si es fundada o infundada la petición, y en su caso, deberá declarar la validez, la nulidad o la procedencia de revocación del acto, y sus efectos, y en su caso las sanciones que resulten procedentes de conformidad con el Artículo 242 de esta Ley. La resolución que se emita deberá ser de ejecución inmediata. En este procedimiento serán supletorias la Ley del Procedimiento para los Actos de la Administración Pública del Estado y el Código de Procedimientos Civiles para el Estado de Baja California.
+
+Siempre procederá la declaración de invalidez y revocación de las autorizaciones, permisos y licencias, que se hubiesen otorgado sin cumplir con las disposiciones de la presente ley, de sus reglamentos y de las diferentes normas aplicables en la materia. Para ejercer estas acciones de defensa al medio ambiente y el sano desarrollo, también estarán legitimados para exigir el respeto a la legalidad, las asociaciones legalmente constituidas que tengan por objeto la protección al ambiente y la defensa del desarrollo urbano sustentable.
 
 # LIBRO QUINTO. DE LAS PERSONAS CON DISCAPACIDAD
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO PRIMERO. ORDENACION Y REGULACION DEL DESARROLLO URBANO
 
-### CAPITULO UNICO
+### CAPITULO VI. Del acto de entrega y recepción de las acciones de urbanización
 
-###### Artículo 141.
+###### ARTICULO 141.
 
-Este libro tiene por objeto regular las medidas y acciones tendientes a procurar el desarrollo integral de las personas con discapacidad, su bienestar físico y mental, así como la igualdad de oportunidades y equidad, a fin de facilitar su integración plena a la sociedad.
+Las áreas, zonas y predios de un centro de población, cualquiera que sea su régimen jurídico, estarán sujetos a las disposiciones que en materia de ordenación urbana, dicten las autoridades conforme a esta Ley.
 
-###### Artículo 142.
+###### ARTICULO 142.
 
-Para efectos de este Código se entiende por:
+Se declara de utilidad pública la adquisición de tierra para la creación de provisiones y reservas territoriales que satisfagan las necesidades de suelo urbano, para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como para la vivienda, su equipamiento e infraestructura.
 
-I. Persona con discapacidad.- Todo ser humano que padece una carencia o disminución, congénita o adquirida de alguna actitud o capacidad física, sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manera transitoria o permanente;
+Los Gobiernos Estatal y Municipal elaborarán y ejecutarán los Programas Parciales de Desarrollo Urbano y las acciones que faciliten la adquisición de predios en áreas urbanas para la construcción de vivienda popular y de interés social.
 
-II. Habilitación.- Aplicación coordinada de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales que permitan a los discapacitados desarrollar su máximo grado de funcionalidad, a fin de ser aptos para realizar, en la medida de sus posibilidades, actividades que los integren familiar y socialmente;
+### CAPITULO UNICO. De las disposiciones generales
 
-III. Rehabilitación.- Aplicación coordinada de un conjunto de medidas y acciones médicas, psicológicas, educativas, ocupacionales y de capacitación social, que tengan como finalidad readaptar y reeducar a la persona con discapacidad, para que alcance la mayor proporción posible de recuperación funcional, a fin de ser independiente y útil a sí misma, a su familia y a la sociedad;
+###### ARTICULO 143.
 
-IV. Barreras Arquitectónicas.- Aquellos elementos de construcción que entorpezcan o impidan el libre desplazamiento o el uso de servicios e instalaciones a personas con discapacidad;
+Los Programas Sectoriales de Vivienda tanto estatales y municipales contendrán entre otros aspectos: los lugares y extensiones de tierra necesarios para la realización de sus Programas, beneficiarios, tipos de acciones y costos medios de financiamiento, así como su ubicación dentro del Plan Estatal o Municipal de Desarrollo Urbano.
 
-V. La Comisión.- La Comisión Estatal Coordinadora del Programa en favor de las personas con discapacidad;
+## TITULO SEGUNDO. DE LA PLANEACION DEL DESARROLLO URBANO
 
-VI. El Consejo Estatal.- El Consejo de Valoración de las Personas con Discapacidad.
+### CAPITULO I. De las disposiciones generales
 
-### CAPITULO UNICO
+###### ARTICULO 144.
 
-###### Artículo 143.
+Los Ayuntamientos podrán coordinarse entre sí, con el Estado, con el Gobierno Federal o con los particulares para la ejecución de sus Programas de reservas territoriales y construcción de vivienda popular y de interés social.
 
-El Gobernador del Estado constituirá la Comisión, órgano de carácter consultivo para establecer acciones específicas de concertación y promoción de los trabajos necesarios para procurar condiciones favorables a las personas con discapacidad. En esta Comisión participarán representantes de las organizaciones de personas con discapacidad.
+###### ARTICULO 145.
 
-## TITULO SEGUNDO. DE LA PRESTACION DE SERVICIOS A PERSONAS CON DISCAPACIDAD
+Las acciones que en materia de vivienda lleven a cabo los Gobiernos Estatal y Municipal se dirigirán a los siguientes objetivos:
 
-### CAPITULO UNICO
+I. Ampliar las posibilidades de acceso a la vivienda que permitan beneficiar al mayor número de personas, atendiendo preferentemente a la población urbana y rural de bajos ingresos económicos;
 
-###### Artículo 144.
+II. Aumentar el inventario habitacional, así como crear e incrementar las reservas territoriales para la vivienda popular y de interés social;
 
-Las normas relativas a la integración, organización y funcionamiento de la Comisión, estarán previstas en el reglamento que al efecto expida el titular del Poder Ejecutivo.
+III. Promover la participación activa y corresponsable de los sectores privado y social en las distintas acciones y programas habitacionales;
 
-###### Artículo 145.
+IV. Promover los apoyos necesarios para reducir los costos de la vivienda y de sus materiales básicos, así como los Programas de autoconstrucción organizada y los movimientos cooperativistas para la vivienda;
 
-La Comisión tendrá las siguientes atribuciones:
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
 
-I. Establecer políticas, estrategias y lineamientos para promover, orientar, coordinar, supervisar y evaluar los procesos en materia de prevención, atención, habilitación y rehabilitación de las personas con discapacidad;
+V. Impulsar acciones y programas en los sectores social y privado que permitan satisfacer subsidiariamente las necesidades de acceso a vivienda en condiciones de dignidad, esparcimiento y decoro para discapacitados;
 
-II. Recomendar a Organismos Públicos y privados las medidas tendientes al desarrollo social de las personas que padecen alguna discapacidad;
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2001)</small>
 
-III. Procurar el mejoramiento de los niveles de vida, participación y desarrollo de las personas con discapacidad;
+VI. Todas aquellas acciones tendientes al mejoramiento, conservación e incremento de la vivienda popular y de interés social que se derivan de esta Ley.
 
-IV. Acrecentar la nueva cultura de corresponsabilidad social entre gobierno y sociedad en la atención de los grupos vulnerables, como es el de personas con discapacidad;
+###### ARTICULO 146.
 
-V. Promover la participación de la sociedad en la prevención y control de las causas de la discapacidad;
+Los Programas Sectoriales de Vivienda serán formulados por las Autoridades Estatales y Municipales en los términos de la presente Ley.
 
-VI. Los demás que señalen este libro y otras disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
-###### Artículo 146.
+Una vez aprobado, publicado y registrado el Programa Sectorial de Vivienda en los términos de esta Ley, la autoridad competente lo difundirá en su portal institucional de la Secretaría y Municipio según corresponda, asimismo, la citada autoridad lo mantendrá para consulta del público en general.
 
-El Organismo Estatal tendrá las siguientes atribuciones:
+### CAPITULO II. De las acciones de urbanización privadas
 
-I. Participar en la planeación y programación de las acciones para la investigación, control, prevención de las discapacidades, habilitación y rehabilitación de las personas con discapacidad;
+###### ARTICULO 147.
 
-II. Cooperar con el Sistema Estatal de Información en materia de asistencia social;
+Para los efectos de esta Ley se entiende por Acción de Urbanización, la adecuación del suelo rústico o del suelo previamente urbanizado, que lo habilite para alojar actividades de habitación, educación, esparcimiento y producción de bienes y servicios, tales como:
 
-III. La integración, ejecución, seguimiento y evaluación de los programas de atención a los (sic) las personas con discapacidad;
+I. El fraccionamiento, subdivisión, fusión y relotificación de predios o áreas y sus correspondientes obras físicas para dedicarlos a usos urbanos.
 
-IV. Promover la comercialización de productos elaborados por personas con discapacidad y los servicios prestados por ellos, así como promover incentivos fiscales a empresas que los contraten;
+II. La introducción de redes de infraestructura de servicios de agua potable, drenaje pluvial y sanitario, electrificación, alumbrado público, telefonía y otras instalaciones especiales para las actividades productivas.
 
-V. Alentar a las personas con discapacidad a constituirse en los promotores de su propia revalorización, incorporación y participación en el desarrollo familiar y social;
+III. La apertura de vialidades y sus elementos complementarios como andadores peatonales, entronques, enlaces y estacionamientos de vehículos.
 
-VI. Impulsar el fortalecimiento de los valores y la unidad familiar como primera causa y mayor efecto de la integración de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Intensificar las medidas preventivas de la discapacidad; y
+IV. La previsión y ubicación de las áreas dedicadas a Equipamiento Urbano;
 
-VIII. Las demás que señalen este libro y otras disposiciones legales y reglamentarias aplicables.
+V. Los componentes del paisaje urbano, como arboledas, jardines, mobiliario urbano y señalización.
 
-### CAPITULO UNICO
+VI. La modificación de la naturaleza o topografía de un predio, para su utilización, para la intensificación o modificación de su uso.
 
-###### Artículo 147.
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
 
-El Consejo es un órgano técnico del Organismo Estatal que estará integrado por un equipo interdisciplinario en las ramas de medicina de habilitación, rehabilitación, psicología, trabajo social y educación.
+VII. La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad y accesibilidad requeridas por las personas con discapacidad.
 
-El Consejo realizará la evaluación de las personas con discapacidad de conformidad con las disposiciones contenidas en el presente libro y en su reglamento.
+### CAPITULO III. De las acciones de urbanización pública
 
-### CAPITULO UNICO
+###### ARTICULO 148.
 
-###### Artículo 148.
+Toda acción de urbanización se sujetará a las disposiciones de esta Ley y sus Reglamentos, a los Planes y Programas de Desarrollo Urbano y a las declaratorias de usos, destinos y reservas correspondientes, para garantizar su adecuada integración al contexto urbano donde se realice.
 
-El Gobierno del Estado a través de sus dependencias y organismos públicos, implementará un sistema de servicios que se otorgarán a las personas con discapacidad, atendiendo a la evaluación de sus capacidades y aptitudes.
+###### ARTICULO 149.
 
-###### Artículo 149.
+Las personas físicas o morales, propietarias de terrenos, quienes se desempeñen como urbanizadores, sus promotores y sus respectivos peritos, están obligadas a cumplir las disposiciones de esta Ley cuando pretendan realizar o realicen actividades relacionadas con la acción de urbanización, ya sean públicas o privadas, para la expansión o renovación urbana que se ejecuten en terrenos bajo cualquier régimen de propiedad. Asimismo las autoridades competentes, registradores y fedatarios públicos están obligados a respetar y hacer cumplir los ordenamientos de la presente Ley.
 
-La prestación de los servicios a que se refiere el artículo anterior comprenderá:
+###### ARTICULO 150.
 
-I. La promoción de la prevención de las discapacidades;
+El otorgamiento de permisos y autorizaciones para realizar acciones de urbanización es competencia de los ayuntamientos, salvo las condiciones y excepciones siguientes:
 
-II. Evaluación de las discapacidades;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-III. Asistencia médica, habilitación y rehabilitación;
+I. El Ejecutivo del Estado a través de la Secretaría, deberá extender un dictamen técnico de congruencia a solicitud de los ayuntamientos, previo a cualquier expedición de autorización cuando se trate de acciones de urbanización de alcance estatal tales como todo tipo de infraestructura que no haya sido considerada dentro de los Planes y Programas de Desarrollo Urbano Estatal, Municipal y de Centros de Población, como son:
 
-IV. Atención a los niños con discapacidad en los centros de Desarrollo Infantil;
+1. Puentes vehiculares y peatonales sobre vialidades primarias intraurbanas mayores de 25 metros de ancho a parámetros o vialidades interurbanas;
 
-V. Orientación y capacitación ocupacional;
+2. Apertura y prolongación de vialidades primarias intraurbanas y vialidades interurbanas a ubicarse fuera de los límites de los centros de población;
 
-VI. Promoción del empleo de las personas con discapacidad, previa evaluación de sus capacidades y aptitudes;
+3. Entronques e intersecciones de vialidades nuevas con vialidades existentes primarias intraurbanas o vialidades interurbanas; e,
 
-VII. Orientación y capacitación a la familia o a tercera persona para su atención;
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
 
-VIII. Prescripción y adaptación de prótesis, órtesis y equipos indispensables en su rehabilitación e integración;
+4. Instalaciones de redes de servicios de agua potable, drenaje sanitario y pluvial; cárcamos, bombas, acueductos, poliductos y gasoductos, plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo; energía eléctrica, alumbrado público, telefonía e instalaciones especiales; estaciones y subestaciones eléctricas, nucleoeléctricas, geotérmicas; sistemas de transporte público sobre rieles metálicos interestatales o urbanos; plantas recicladoras de residuos peligrosos y rellenos sanitarios;
 
-IX. Educación general y especial;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-X. Procurar el del (sic) acceso libre y seguro a los espacios públicos;
+II. El Ejecutivo a través de la Secretaría, otorgará las autorizaciones que correspondan cuando se trate de acciones de urbanización que se ubiquen fuera de los límites de los Centros de Población definidos en los Planes y Programas de Desarrollo Urbano debidamente aprobados, publicados e inscritos en el Registro Público de la Propiedad y de Comercio;
 
-XI. Establecimiento de mecanismos de información sobre salud reproductiva y ejercicio de la sexualidad de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XII. Los demás que sean necesarios para el cumplimiento de los fines del presente libro.
+III. Cuando las acciones de urbanización afecten las áreas naturales protegidas declaradas por la Federación, el Estado o los Municipios, y sean destinadas para la industria de alto riesgo o con posibilidad de un impacto negativo en el medio ambiente, para la industria extractiva y de transformación, indistintamente de su ubicación y no considerados en los Planes y Programas de Desarrollo Urbano aplicables y sus declaratorias y que requieran de la elaboración de un estudio de evaluación de impacto ambiental; los ayuntamientos verificarán el cumplimiento de la Ley de Protección al Ambiente para el Estado.
 
-###### Artículo 150.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
 
-La información sobre los servicios deberá difundirse a los diferentes grupos con discapacidad.
+IV. En las acciones de urbanización que se designen para plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, los ayuntamientos realizarán las verificaciones e inspecciones pertinentes para el cumplimiento de esta Ley, de las Normas Oficiales Mexicanas correspondientes y los reglamentos municipales respectivos.
 
-## TITULO TERCERO. DE LA FORMACION Y CAPACITACION DE PERSONAL PARA LA ATENCION A LAS PERSONAS CON DISCAPACIDAD
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2021)</small>
 
-### CAPITULO I. Disposiciones Generales
+V. El Ejecutivo del Estado por conducto de la Secretaría, deberá extender un dictamen técnico de congruencia a solicitud de los ayuntamientos, previo a cualquier expedición de autorización cuando se trate de acciones de urbanización que se pretendan llevar a cabo en zonas agrícola, pecuaria, agropecuaria, forestal y ambiental que no sean de competencia federal.
 
-###### Artículo 151.
+La Secretaría remitirá para su aprobación a la Comisión Intersecretarial de Desarrollo Integral Regional, aquellos dictámenes técnicos de congruencia que a su criterio sean considerados de importancia estatal.
 
-Los establecimientos para la prestación de servicios deberán contar con infraestructura y equipamientos apropiados así como con personal capacitado para atender a las personas con discapacidad.
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
 
-###### Artículo 152.
+ARTICULO 150 BIS.- Los ayuntamientos en relación a las instalaciones de almacenamiento, distribución y estaciones de carburación de gas licuado de petróleo, para llevar a cabo acciones de urbanización deberán atender los siguientes lineamientos:
 
-La Secretaría de Salud y el Organismo Estatal promoverán la formación y capacitación de personal adecuado que pueda responder a la atención de las personas con discapacidad en la entidad.
+I. La normatividad federal en materia de ubicación, construcción, remodelación, acondicionamiento, administración y operación de dichas instalaciones.
 
-###### Artículo 153.
+II. La normatividad local en materia de acciones de urbanización, debiendo llevarse a cabo en apego a las siguientes disposiciones locales:
 
-Cuando el personal capacitado detecte o tenga conocimiento de alguna persona con discapacidad que requiera los beneficios de este Código, dará aviso de su caso al Organismo Estatal o a la Secretaría de Salud y proporcionará información de los mismos a la persona que lo requiere.
+a) Las Direcciones de Administración Urbana o análogas de los municipios, tendrán a su cargo la emisión de los dictámenes de factibilidad correspondientes a las acciones de urbanización del rubro del gas licuado de petróleo, sólo cuando la dependencia municipal encargada de la planeación, haya evaluado las propuestas respecto a la ubicación de la infraestructura, capacidad operativa y grado de riesgo de dicho asentamiento, y se haya emitido el dictamen de congruencia en apego a lo dispuesto por el Artículo 150 de esta Ley.
 
-###### Artículo 154.
+b) El interesado de la promoción del proyecto estará sujeto a presentar un programa integral en materia de transporte, procesamiento y comercialización de gas licuado de petróleo, que comprenderá lo siguiente:
 
-La Comisión establecerá programas de acción para tratar de prevenir las causas de la discapacidad.
+1. Estudio de Impacto Urbano.
 
-###### Artículo 155.
+2. Programa de Contingencia aprobado por la Dirección de Protección Civil y Bomberos.
 
-Las instituciones de salud y aquellas personas que atiendan habitualmente nacimientos fuera del lugar hospitalario, deberán de participar en los programas de detección temprana de las discapacidades, con énfasis en la detección de problemas congénitos.
+3. Programa de capacitación al personal, de amortiguamiento y de medidas de seguridad preventiva y correctiva que apliquen conforme a la normatividad vigente.
 
-### CAPITULO II. De la Habilitación y Rehabilitación Médico Funcional
+4. Programa donde se establezcan los procedimientos generales del mantenimiento de las instalaciones.
 
-###### Artículo 156.
+### CAPITULO SEGUNDO. De la Incorporación Municipal
 
-La Comisión establecerá vínculos de participación con los diferentes medios masivos de comunicación, a fin de llegar con su programa preventivo al mayor número posible de personas.
+## TITULO TERCERO. DE LAS CONURBACIONES Y DE LAS ZONAS METROPOLITANAS
 
-### CAPITULO III. Orientación y Tratamiento Psicológico
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 157.
+### CAPITULO IV. De las acciones de urbanización por cooperación
 
-La evaluación de las personas con discapacidad estará a cargo del Organismo Estatal (sic) través del Consejo de Valoración de las Personas con discapacidad, que tenderá a calificar las limitaciones o restricciones físicas y psicológicas a fin de integrar el expediente respectivo con el cual se derivará al interesado a las instancias que correspondan.
+###### ARTICULO 151.
 
-###### Artículo 158.
+Las acciones de urbanización se clasifican en:
 
-La evaluación de las personas con discapacidad se basará en criterios unificados y sus resultados tendrán validez ante cualquier organismo público o privado con excepción de los que se utilicen como dictámenes o peritajes médicos en controversias planteadas ante tribunales judiciales o laborales en el Estado de Jalisco.
+I. Acciones de urbanización para la expansión: son las referidas a los elementos técnicos de adecuación del suelo rústico para su incorporación urbana implicando un cambio en las relaciones de propiedad y tenencia del mismo.
 
-###### Artículo 159.
+II. Acciones de urbanización para la renovación: son las relativas a los elementos técnicos de adecuación del suelo en zonas comprendidas en las áreas urbanas y las inherentes al mejoramiento y reposición de uno o varios de sus elementos, pudiendo implicar un cambio en el régimen de propiedad y tenencia del suelo que requiera de una reincorporación urbana.
 
-El Consejo tiene las siguientes atribuciones:
+###### ARTICULO 152.
 
-I. Emitir un diagnóstico de discapacidad, así como sus repercusiones sociales, familiares, laborales y psicológicas;
+Las acciones de urbanización que se pretendan realizar en las áreas urbanas o de reserva territorial, solo podrán autorizarse cuando esté prevista su incorporación o reincorporación municipal.
 
-II. Evaluar y calificar la discapacidad, y determinar el tipo de atención que requiera;
+###### ARTICULO 153.
 
-III. Orientar al solicitante sobre el tratamiento adecuado a su discapacidad y remitirlo a las instituciones especializadas que proporcionen dicho tratamiento;
+La incorporación urbana a que se refiere esta Ley, es el procedimiento que permite declarar como suelo urbanizado a los predios rústicos o a los predios intraurbanos no incorporados, para darles las funciones asignadas en su respectivo Plan y Programa de Desarrollo Urbano, conforme a las declaratorias de usos y destinos correspondientes.
 
-IV. Dar seguimiento y revisar que la atención proporcionada se realice de acuerdo a la recomendación emitida.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-### CAPITULO IV. Educación General y Especial
+Los predios agrícolas sujetos a la declaratoria de incorporación a suelo urbano y que se destinen para acciones de fraccionamiento, deberán contar con los derechos de uso de agua correspondiente a la superficie afectada, los cuales deberán ser transferidos gratuitamente a la autoridad o entidad gubernamental competente para garantizar y satisfacer el suministro permanente y continuo del servicio de agua potable.
 
-###### Artículo 160.
+La reincorporación de terrenos se refiere a predios ubicados en zonas ya incorporadas, en espacios determinados para el mejoramiento y que requieran de la ejecución de obras de renovación urbana.
 
-Los procesos de habilitación y rehabilitación de las personas con discapacidad podrán comprender:
+###### ARTICULO 154.
 
-I. Habilitación y rehabilitación médico funcional;
+El acuerdo de incorporación municipal conlleva la obligación de las autoridades de:
 
-II. Orientación y tratamiento psicológico;
+I. Recibir las obras de urbanización, instalaciones y el equipamiento urbano, una vez que se haya cumplido lo estipulado en la autorización respectiva;
 
-III. Educación general y especial;
+II. Prestar los servicios públicos municipales tales como recolección de basura, seguridad pública, bomberos, etc.;
 
-IV. Habilitación y rehabilitación laboral.
+III. Declarar el área desarrollada como suelo urbanizado.
 
-###### Artículo 161.
+###### ARTICULO 155.
 
-El Organismo Estatal y la Secretaría de Salud establecerán en coordinación con otras instituciones públicas o privadas, las actividades que comprende el proceso rehabilitatorio, procurando que llegue a todos los municipios.
+Tratándose de zonas ya incorporadas que sean sujetas a obras de renovación urbana donde se requieran áreas para equipamiento mayores a las existentes debido a un incremento en la densidad, el déficit se cubrirá de acuerdo a lo dispuesto en el Artículo 176 de esta Ley, al Reglamento respectivo y a las Normas Técnicas aplicables.
 
-###### Artículo 162.
+### CAPITULO V. De las acciones de urbanización por plusvalía
 
-Toda persona con discapacidad tiene derecho a acceder a la habilitación y rehabilitación médico funcional que necesita de acuerdo a su estado físico o psicológico.
+###### ARTICULO 156.
 
-###### Artículo 163.
+Todas las acciones de urbanización ubicadas fuera de los centros de población, así como aquellas ubicadas fuera de las áreas de reserva territorial y que no puedan ser integradas al área urbana, deben ser autosuficientes en infraestructura, equipamiento urbano y servicios que requieran, así como en mantenimiento y operación de los mismos conforme al Reglamento correspondiente, y su autorización únicamente conlleva la obligación establecida en la fracción III del Artículo 154.
 
-La habilitación y rehabilitación médico funcional estará dirigida a dotar de las condiciones precisas para su recuperación a aquellas personas que presenten una disminución de capacidad física, psicológica o de relación social; deberá comenzar de forma inmediata a la detección y diagnóstico de cualquier anomalía o deficiencia, debiendo continuarse hasta conseguir el máximo de funcionalidad posible, así como el mantenimiento de ésta.
+### CAPITULO VI. De las acciones de urbanización y reparcelación por asociación de interés público
 
-###### Artículo 164.
+###### ARTICULO 157.
 
-La orientación y tratamiento psicológico se emplearán durante las distintas fases del proceso habilitador y rehabilitador, se iniciarán en el seno familiar e irán encaminadas a lograr de la persona con discapacidad la superación de su situación y desarrollo de su personalidad e integración social.
+Para los efectos de la presente Ley, se entenderá por:
 
-###### Artículo 165.
+FRACCIONAMIENTO: a toda acción de urbanización que implique la división física o legal de un inmueble, que requiera del trazo de una o más vialidades públicas o privadas y obras de urbanización;
 
-El apoyo y orientación psicológicos tendrán en cuenta las características personales del discapacitado, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle, y estarán dirigidos a actualizar al máximo el uso de su (sic) potencias.
+FUSION: a toda acción de urbanización de uno, dos o mas predios colindantes para formar uno solo y permitir su óptimo aprovechamiento;
 
-###### Artículo 166.
+SUBDIVISION: a toda acción de urbanización que implique la partición de un terreno sin que se requiera la construcción de vías de circulación ni obras de infraestructura urbana;
 
-Las personas con discapacidad tendrán acceso al sistema educativo estatal en la forma que señalan las leyes en materia educativa.
+RELOTIFICACION: a toda acción de urbanización que implique la modificación total o parcial de la lotificación autorizada de un fraccionamiento, sin cambiar el tipo de éste.
 
-###### Artículo 167.
+###### ARTICULO 158.
 
-Los procesos de rehabilitación laboral o profesional comprenderán entre otras, las prestaciones siguientes:
+Las autoridades competentes solo autorizarán acciones de urbanización en las zonas previstas en los Planes y Programas de Desarrollo Urbano y de acuerdo a los procedimientos establecidos en el Capítulo Tercero de este Título.
 
-I. Los tratamientos de habilitación y rehabilitación médico-funcional, específicos para el desempeño de la función laboral;
+###### ARTICULO 159.
 
-II. La orientación ocupacional y vocacional;
+El Reglamento correspondiente normará la autorización y el desarrollo de las acciones de urbanización a que se refiere el Artículo 147, y deberá establecer como mínimo:
 
-III. La formación, readaptación y reeducación ocupacional;
+I. La obligatoriedad de cumplir con los Planes y Programas de Desarrollo Urbano y sus Declaratorias de Usos y Destinos del Suelo;
 
-IV. El seguimiento y evaluación del proceso de recuperación, desde el punto de vista físico, psicológico y laboral.
+II. Los criterios de densidad de población, ocupación y utilización del suelo;
 
-###### Artículo 168.
+III. Las normas técnicas y la clasificación de las acciones de urbanización;
 
-La orientación ocupacional tendrá en cuenta las potencialidades reales de la persona con discapacidad, determinadas en base a los informes del Consejo. Se tomará en cuenta la educación escolar recibida, la capacitación laboral o profesional y las perspectivas de empleo en cada caso, asimismo, la atención a sus motivaciones, aptitudes y preferencias vocacionales.
+IV. El contenido de la solicitud de autorización y los criterios para calificarla;
 
-###### Artículo 169.
+V. Los procedimientos de inspección y supervisión;
 
-Los procesos de habilitación y rehabilitación serán prestados tomando en cuenta la coordinación entre las fases médica, escolar y laboral.
+VI. Las obligaciones de los urbanizadores, promotores y peritos;
 
-###### Artículo 170.
+VII. Los mecanismos de control para Publicidad y Ventas;
 
-Las personas con discapacidad tendrán las mismas oportunidades de trabajo de acuerdo a sus habilidades y a su capacitación laboral.
+VIII. Las medidas de seguridad y sanciones; y
 
-###### Artículo 171.
+IX. Los mecanismos de defensa de los particulares.
 
-La finalidad primordial de la política de empleo de trabajadores con discapacidad, será su integración al sistema ordinario de trabajo o, en su caso, su incorporación al sistema productivo mediante una forma de trabajo adecuada.
+### CAPITULO VII. De las acciones de urbanización por concertación
 
-### CAPITULO V. De la Habilitación y Rehabilitación Laboral
+###### ARTICULO 160.
 
-###### Artículo 172.
+Para los efectos de esta Ley, las acciones de urbanización autorizadas como fraccionamientos se identifican por su uso predominante, indistintamente del régimen de propiedad al que se sujeten y de acuerdo con la siguiente clasificación:
 
-Se fomentará el empleo de los trabajadores con discapacidad mediante el establecimiento de sistemas que faciliten su integración laboral; éstos podrán consistir, entre otros, en subvenciones o préstamos para la adaptación de los centros de trabajo, la eliminación de barreras arquitectónicas que dificulten su movilidad en centros de producción, la promoción del auto-empleo a través de la micro-empresa y empresas familiares, la promoción de la comercialización de los productos elaborados por las personas con discapacidad y la promoción de programas de trabajo en el domicilio de la persona con discapacidad.
+I. Habitacional Unifamiliar: aquellos dedicados a alojar una vivienda por lote exclusivamente;
 
-###### Artículo 173.
+II. Habitacional Multifamiliar: aquellos dedicados a alojar vivienda multifamiliar, sea de tipo vertical u horizontal, incluyendo dúplex;
 
-El Organismo Estatal en coordinación con la Secretaría de Promoción Económica y los municipios, establecerá programas de promoción del empleo de las personas con discapacidad, creando al efecto una bolsa de trabajo, en la que se concentren listas de aspirantes con sus aptitudes y capacidad.
+III. Habitacional Social Progresiva: aquellos directamente promovidos por el Estado, Municipios o por los organismos públicos descentralizados, dedicados a la urbanización progresiva de terrenos y construcción paulatina de vivienda;
 
-### CAPITULO UNICO
+IV. Comercial: aquellos dedicados a alojar edificaciones para actividades comerciales o de servicios;
 
-###### Artículo 174.
+V. Campestre: aquellos dedicados a la vivienda unifamiliar, con actividades agropecuarias complementarias como horticultura, apicultura, fruticultura, etc., con fines productivos o de recreo;
 
-La Comisión fomentará la creación de centros laborales cuya base laboral sea integrada básicamente por personas con discapacidad, como medio de incorporación al mercado laboral ordinario.
+VI. Turísticos: aquellos dedicados a alojar actividades recreativas y que incluyen la construcción de vivienda unifamiliar o multifamiliar, instalaciones para casas rodantes y semifijas, con fines de vivienda secundaria de carácter no permanente;
 
-###### Artículo 175.
+VII. Industriales: aquellos dedicados a alojar instalaciones para actividades de manufactura y transformación de productos y bienes de consumo;
 
-El Organismo Estatal promoverá que las actividades recreativas, deportivas y culturales de las personas con discapacidad, se realicen en las instalaciones de acceso general, a fin de contribuir a fomentar la integración social y trato digno de las personas con discapacidad.
+Se entiende como uso predominante a la actividad que se presente en más del 60% de un fraccionamiento, debiendo ser el 40% restante, compatible con dichas actividades, según lo especifique el Reglamento correspondiente.
 
-###### Artículo 176.
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-El Organismo Estatal canalizará a las personas con discapacidad hacia las instancias deportivas competentes, para que desarrollen sus aptitudes y habilidades deportivas, de conformidad con la ley de la materia.
+ARTICULO 160 BIS.- Las acciones de urbanización a que se refiere el artículo anterior, deberán incluir en su zonificación áreas destinadas a los usos y en los porcentajes siguientes:
 
-### CAPITULO UNICO
+I.- Áreas verdes urbanas: nueve por ciento de la superficie vendible del proyecto;
 
-###### Artículo 177.
+II.- Equipamiento escolar: tres por ciento de la superficie vendible del proyecto; y,
 
-El Organismo Estatal promoverá y propiciará la formación de grupos de expresión cultural y artística a fin de impulsar y desarrollar las habilidades en éstos rubros de las personas con discapacidad.
+III.- Equipamiento urbano: cuatro por ciento de la superficie vendible del proyecto
 
-###### Artículo 178.
+Las mencionadas áreas de destino indicadas en las fracciones I y III deberán ser transmitidas de forma gratuita a favor del Municipio que corresponda y en el caso del área prevista en la fracción II su transmisión será a favor del Ejecutivo Estatal.
 
-Las construcciones o modificaciones que a éstas se realicen, deberán contemplar facilidades urbanísticas y arquitectónicas adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
+Quedan exceptuados de la previsión de un área de equipamiento escolar aquellos fraccionamientos cuyo uso predominante no sea habitacional, debiendo incluirse dos por ciento adicional para las áreas de equipamiento urbano.
 
-La Administración Pública del Estado y los Municipios observará lo anterior en la aplicación y urbanización de las vías, parques y jardines públicos, a fin de facilitar el tránsito, desplazamiento y uso de estos espacios por las personas con discapacidad.
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-###### Artículo 179.
+ARTICULO 160 TER.- La superficie de área verde urbana a que se refiere el artículo anterior deberá:
 
-La Administración Pública del Estado y los Municipios contemplará en el programa que regule su desarrollo urbano, la adecuación de facilidades urbanísticas y arquitectónicas acorde a las necesidades de las personas con discapacidad.
+I.- Estar ubicada en puntos que faciliten su acceso peatonal por parte de los residentes del fraccionamiento;
 
-### CAPITULO UNICO
+II.- Contar con conexión a los servicios de agua potable, drenaje y energía eléctrica; y,
 
-###### Artículo 180.
+III.- Estar equipada en los términos que señale el Reglamento respectivo.
 
-En los auditorios, cines, teatros, salas de concierto y de conferencias, centros recreativos, deportivos y en general cualquier recinto en que se presenten espectáculos públicos, los administradores u organizadores, deberán establecer preferencialmente espacios reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios, de conformidad con la legislación aplicable.
+### CAPITULO TERCERO. De los Procedimientos para Autorizar y Realizar Acciones de Urbanización
 
-## TITULO CUARTO. DE LA PREVENCION DE LA DISCAPACIDAD
+###### ARTICULO 161.
 
-### CAPITULO UNICO
+Las acciones de urbanización mencionadas en el Artículo 147, solo se autorizarán cuando se cumplan las siguientes condiciones:
 
-###### Artículo 181.
+I. Que el uso del suelo propuesto no sea diferente al previsto en los Programas de Desarrollo Urbano aplicables y las declaratorias respectivas;
 
-Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con discapacidad tienen derecho a contar con preferencias que les permitan su transporte y libre desplazamiento. Para el efectivo ejercicio de este derecho:
+II. Que no se afecten las zonas arboladas, de preservación ecológica, paisajística, o que por sus características topográficas, hidrológicas o geológicas, sean riesgosas para la ejecución de acciones de urbanización;
 
-I. El sistema de transporte deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso a las personas con discapacidad en los términos de la legislación aplicable;
+III. Que las modificaciones topográficas no alteren las condiciones naturales de escurrimiento y características propias de la naturaleza del suelo de tal manera que afecten negativamente a la zona de influencia;
 
-II. Las personas con discapacidad podrán hacer uso del servicio, las (sic) asientos y espacios preferenciales que para tal efecto sean destinados en los diversos medios de transporte público; y
+IV. Que no se afecten las zonas arqueológicas, monumentales, históricas o cualquier elemento que integre el patrimonio cultural;
 
-III. La Administración Pública del Estado y los Municipios contribuirá a garantizar el uso adecuado de zonas preferenciales para el estacionamiento de vehículos en los que viajen personas con discapacidad, tanto en la vía pública, como en lugares de acceso al público.
+V. Que se respeten las especificaciones de dimensionamiento, equipamiento y obras de urbanización mínimas marcadas en el Reglamento correspondiente para los predios resultantes;
 
-A efecto de facilitar el estacionamiento de vehículos, de los cuáles tengan que descender o ascender personas con discapacidad, la autoridad correspondiente dispondrá las medidas necesarias, que inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones; y
+VI. Que se respeten las densidades de población y construcción propuestas en los Programas Parciales y de Desarrollo Urbano de los Centros de Población;
 
-###### Artículo 182.
+VII. Que se respete el ambiente, el equilibrio y la armonía de la zona y que la demanda de servicios se pueda satisfacer con las redes existentes o mediante la realización de las obras necesarias para dotar de equipamiento y servicio a los predios resultantes.
 
-La Secretaría de Vialidad y Transporte impulsará el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
+###### ARTICULO 162.
 
-###### Artículo 183.
+Para otorgar las autorizaciones de las acciones de urbanización, se evaluarán entre otros, los siguientes aspectos:
 
-Las personas ciegas tendrán acceso a todos los servicios públicos y privados, incluso cuando se desplacen acompañados de perros guía.
+I. La zona en que se ubicará y los usos permisibles;
 
-### CAPITULO UNICO
+II. Las características de la acción de urbanización de acuerdo con su clasificación y tipología;
 
-###### Artículo 184.
+III. Los índices de densidad de población propuestos y los permisibles;
 
-En las bibliotecas públicas del Estado, existirá una área que permita a las personas con discapacidad visual el uso de medios electrónicos que faciliten su aprendizaje, y se adquirirán textos impresos en sistema braille y audio-libros.
+IV. La integración y organización de la estructura vial y de transporte;
 
-###### Artículo 185.
+V. La proporción y aplicación de las inversiones en sus diversas etapas;
 
-A fin de estimular el desarrollo de las personas con discapacidad, el Ejecutivo del Estado instituirá un premio anual que será entregado en acto público, consistente en:
+VI. Las proporciones relativas a las áreas destinadas a equipamiento urbano y su ubicación;
 
-I. Reconocimiento oficial a las personas físicas, jurídicas, instituciones, grupos o asociaciones que se hayan distinguido por su apoyo a las personas con discapacidad y a los programas que los beneficien;
+VII. Las especificaciones relativas a las características y dimensiones de los predios resultantes, coeficientes de ocupación y utilización del suelo;
 
-II. Beneficios económicos y reconocimiento oficial a las personas discapacitadas que se distingan en cualquier actividad relacionada con las ciencias, el arte, la cultura, los deportes y la superación personal.
+VIII. Las normas y especificaciones de urbanización;
 
-###### Artículo 186.
+IX. Las áreas de destinos cuya propiedad será transferida gratuitamente;
 
-Las violaciones a lo establecido por el presente Libro, su reglamento y demás disposiciones que de ella emanen, serán sancionadas por la Administración Pública del Estado o sus Municipios según corresponda.
+X. La compatibilidad de los usos propuestos, los usos condicionados y los no compatibles;
 
-###### Artículo 187.
+XI. Los impactos económicos y sociales de la acción de urbanización en la zona de influencia;
 
-Para los efectos del presente Libro, la Administración del Estado o sus Municipios aplicará a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-I. Multa equivalente de 10 a 50 veces el salario mínimo vigente en la zona metropolitana de Guadalajara, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
+XII. Los impactos físicos y ambientales de la acción de urbanización en la zona de influencia, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección al Ambiente para el Estado.
 
-II. Multa equivalente de 30 a 90 veces el salario mínimo vigente en la zona metropolitana de Guadalajara, a los prestadores en cualquier modalidad del servicio de transporte público que nieguen, impidan u obstaculicen el uso del servicio a una persona con discapacidad;
+###### ARTICULO 163.
 
-III. Multa equivalente de 180 a 240 veces el salario mínimo vigente en la zona metropolitana de Guadalajara, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad.
+Para la autorización de acciones de urbanización para la expansión o renovación urbana, es indispensable que se encuentren previstas dentro del Plan o Programa de Desarrollo Urbano vigente para la zona en cuestión, o en su defecto, se presente para su aprobación el correspondiente Programa Parcial de Desarrollo Urbano. En los casos de acciones de urbanización para renovación, se requerirá de la conformidad expresa de los propietarios y ocupantes de los inmuebles en la zona de influencia con el procedimiento que determine el Reglamento correspondiente.
 
-En caso de incurrir tres ocasiones en la misma falta, se procederá a la clausura temporal del local por cinco días; y
+###### ARTICULO 164.
 
-IV. Si el presunto infractor fuese jornalero, obrero o trabajador no asalariado la multa será equivalente a un día de su jornal, salario o ingreso diario; tratándose de personas desempleadas sin ingresos, la multa máxima será el equivalente a un día de salario mínimo.
+No se recibirá para trámite ninguna solicitud de autorización para realizar acciones de urbanización, que no vaya acompañada de los títulos de propiedad debidamente inscritos en el Registro Público que corresponda y de la prueba que acredite la posesión jurídica de los terrenos, que podrá ser la de apeo y deslinde judicial. Para que proceda el trámite, la solicitud correspondiente deberá ir acompañada de los nombres y firmas de los urbanizadores, promotores y peritos responsables legalmente autorizados.
 
-###### Artículo 188.
+###### ARTICULO 165.
 
-Para la imposición de sanciones se observará lo dispuesto por las leyes administrativas aplicables.
+Toda autorización para realizar las acciones de urbanización deberá ser solicitada a la autoridad competente en los términos de esta Ley, por la persona física o moral que tenga el derecho de propiedad y se encuentre en posesión del predio objeto a desarrollar, o en el caso de fideicomiso, por quien tenga facultades para ello, a quien en lo sucesivo se le denominará "el urbanizador".
 
-###### Artículo 189.
+###### ARTICULO 166.
 
-Contra las resoluciones en las que impongan las sanciones contenidas en este libro procederá el recurso de revocación, que se interpondrá dentro de los 15 días hábiles siguientes, a la fecha de notificación de la resolución ante el superior jerárquico.
+Cuando el solicitante sea distinto al urbanizador, se le denominará "promotor inmobiliario" y además de cumplir con los requisitos estipulados para la aprobación del Programa Parcial de Desarrollo Urbano, deberán acompañar a la solicitud las copias de los contratos celebrados con los propietarios de los terrenos, para el caso de acciones de urbanización para la expansión, o de terrenos y edificios, en el caso de acciones de urbanización para la renovación, de los cuales se derive su interés en el trámite.
 
-> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+El promotor inmobiliario deberá asumir expresamente la responsabilidad de la ejecución de las obras de urbanización, en forma solidaria con los propietarios de los terrenos o de fincas y predios, según corresponda, en la solicitud de trámite correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 167.
+
+Cuando se desee realizar alguna de las acciones de urbanización a que se refiere el Artículo 147 y éstas se localicen fuera de los Centros de Población o no estén contempladas dentro de los Programas de Desarrollo Urbano de los Centros de Población, o no existan Programas de Desarrollo Urbano, la Secretaría, aprobará los estudios que demuestren su factibilidad y congruencia con los diferentes Planes y Programas de Desarrollo Urbano, elaborando los solicitantes un anteproyecto que contenga los elementos de un Programa Parcial de Desarrollo Urbano, siguiendo los lineamientos que dictamine la Comisión Coordinadora de acuerdo con la fracción IV del Artículo 21 de ésta Ley y los demás que sean requeridos por el Reglamento correspondiente, salvo las excepciones que por ubicación, tamaño o densidad en el mismo se consideren y para proceder con su aprobación en los términos de la presente Ley.
+
+La solicitud de aprobación de Programa Parcial de Desarrollo y su propuesta de Programa, deberán ser entregados a la autoridad competente según el municipio en que se pretendan realizar las acciones de urbanización.
+
+###### ARTICULO 168.
+
+Recibida la solicitud de autorización de Programa Parcial de Desarrollo Urbano por la autoridad competente, se dispondrá de un plazo de quince días hábiles para proceder a su revisión y para verificar que se cumplan los requisitos legales.
+
+Cuando la documentación esté incompleta o no se acrediten los requisitos legales, se requerirá al interesado para que subsane las omisiones en un plazo de quince días, quedando suspendido el trámite de solicitud. Una vez que el interesado haya cumplido con los requerimientos de la autoridad, se continuarán los trámites previstos en la presente Ley y en el Reglamento correspondiente.
+
+El no hacer las correcciones en el tiempo convenido, causará la cancelación automática del trámite.
+
+###### ARTICULO 169.
+
+Formulado el proyecto de Programa Parcial de Desarrollo Urbano e integrado su expediente, la autoridad procederá a considerar su aprobación en los términos de esta Ley. El acuerdo de la autoridad puede recurrirse solicitando su revocación.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 170.
+
+Una vez aprobado por la autoridad el Programa Parcial de Desarrollo Urbano, se remitirá al Ejecutivo del Estado a través de la Secretaría, para tramitar la publicación de su versión abreviada y su registro conforme lo previsto en esta Ley.
+
+###### ARTICULO 171.
+
+Aprobado por la Autoridad el Programa Parcial de Desarrollo Urbano, se procederá a integrar el proyecto ejecutivo de la acción de urbanización por los peritos debidamente inscritos en la Dirección de Profesiones del Estado y registrados por su especialidad en el Municipio correspondiente.
+
+### CAPITULO VIII. De las acciones de urbanización por objetivo social
+
+###### ARTICULO 172.
+
+El proyecto ejecutivo de la acción de urbanización se integrará con la información requerida para el caso en el Artículo 164 de esta Ley y en el Reglamento correspondiente, debiendo contener como mínimo:
+
+I.- Solicitud expedida por la autoridad que corresponda debidamente llenada y firmada por los urbanizadores, promotores y peritos;
+
+II. Planos propios del Proyecto respetando las condiciones del Artículo 161 de esta Ley;
+
+III. Planos de redes y servicios propuestos y existentes;
+
+IV. Las especificaciones generales de la acción de urbanización;
+
+V. Documentación complementaria que incluya constancia de propiedad, libertad de gravámenes, memorias descriptivas y de cálculo de la acción de urbanización y otras.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2012)</small>
+
+VI. Fianza de garantía
+
+###### ARTICULO 173.
+
+La autoridad procederá a la revisión del proyecto auxiliándose para ello de los organismos encargados de la dotación y operación de servicios. En caso de existir alguna observación o corrección en el mismo, se procederá a dar aviso al solicitante para que haga las modificaciones requeridas.
+
+### CAPITULO I. De las responsabilidades
+
+###### ARTICULO 174.
+
+Las autorizaciones para realizar acciones de urbanización que otorguen las autoridades competentes, se harán mediante Acuerdo de autorización debidamente publicado en el Periódico Oficial e inscrito en el Registro Público de la Propiedad y del Comercio; en dicho acuerdo se consignarán las obligaciones a que deben sujetarse el urbanizador y el promotor inmobiliario, las especificaciones de las obras de urbanización, las áreas destinadas a equipamiento y cuya propiedad deberá ser transferida gratuitamente a la autoridad correspondiente una vez concluida la acción de urbanización, las etapas en las que se efectuará, su ejecución, plazos para su terminación y otras.
+
+Se considera como título de propiedad de las áreas destinadas para equipamiento, al Acuerdo de autorización de la acción de urbanización publicado e inscrito en los términos antes expuestos. Una vez transferida la propiedad de dichas áreas, se regirán como bienes inmuebles del dominio público para todos los efectos legales.
+
+Los gastos y derechos que causen la autorización, publicación y registro del acuerdo de autorización, serán a cargo del urbanizador o del Promotor Inmobiliario.
+
+### CAPITULO CUARTO. De las Obligaciones de los Responsables de las Acciones de Urbanización
+
+###### ARTICULO 175.
+
+El urbanizador esta obligado a costear por su cuenta todas las obras de urbanización definidas conforme al Programa Parcial de Desarrollo Urbano y al proyecto ejecutivo aprobado. Además, debe contribuir a la construcción de centros escolares conforme a las disposiciones de la Ley de Ingresos del Estado y transferir gratuitamente el derecho de propiedad de ésta área y en general de las áreas destinadas para equipamiento a las autoridades correspondientes, de acuerdo a lo especificado en el Reglamento respectivo.
+
+###### ARTICULO 176.
+
+Cuando en la zona de influencia se requieran obras de infraestructura o equipamiento que rebasen las necesidades de la acción de urbanización por desarrollar, el urbanizador estará obligado a realizarlas en su totalidad o a destinar el área requerida para su ubicación, asumiendo éste el derecho de obtener la restitución del monto adicional al costo de la obra de urbanización por él requerida. Dicha restitución podrá ser bonificada con cargo a los residentes de la zona de influencia beneficiada, o mediante la reducción de los derechos que la autorización cause.
+
+### CAPITULO II. De las medidas de seguridad y sanciones
+
+###### ARTICULO 177.
+
+Para la transmisión de la propiedad, posesión, usufructo o aprovechamiento de lotes resultantes de las acciones de urbanización realizadas, el urbanizador deberá cumplir previamente con los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+I. Que se cuente con las actas o constancias aprobatorias de terminación de las obras de urbanización expedidas por los organismos competentes, así como la constancia de terminación de la acción de urbanización expedida por la Secretaría;
+
+II. Que se hayan cumplido los requisitos de incorporación o reincorporación urbana y en el caso de fraccionamientos por objetivo social progresivos, que la autoridad competente haya aprobado las obras mínimas conforme lo establece el Reglamento correspondiente; y,
+
+III. Que se haya cumplido con el requisito de transferir gratuitamente la propiedad de las áreas destinadas para equipamiento a las autoridades competentes.
+
+###### ARTICULO 178.
+
+Cuando las obras de urbanización estén en proceso de construcción, el urbanizador podrá enajenar al público los lotes resultantes, constituyendo una garantía por el monto total de la obra faltante especificada en la autorización correspondiente y cumplir con los siguientes requisitos:
+
+I. Que se cuente con la publicación hecha por el Ejecutivo del Estado del Acuerdo de autorización de la acción de urbanización;
+
+II. Que se hayan pagado o garantizado las obligaciones que establezcan a su cargo las leyes hacendarias; y,
+
+III. Que los textos de cualquier tipo de publicidad comercial para venta que promueva el urbanizador, estén autorizados por la autoridad competente donde se lleve a cabo la acción de urbanización.
+
+### CAPITULO QUINTO. De la Ejecución de las Acciones de Urbanización
+
+###### ARTICULO 179.
+
+En ningún caso se podrán iniciar las acciones de urbanización antes de que se hayan tramitado los permisos o las autorizaciones correspondientes.
+
+### CAPITULO III. De la defensa de los particulares
+
+###### ARTICULO 180.
+
+La ejecución de las acciones de urbanización autorizadas conforme al proyecto definitivo, se hará bajo la responsabilidad de los peritos debidamente registrados que se requieran, según el caso. Todas las acciones de urbanización se ajustarán a las especificaciones y normas de calidad mínima que se establezcan en los Reglamentos y Normas Técnicas correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+## TITULO CUARTO. DE LA REGULACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+###### ARTICULO 181.
+
+Tanto el Ayuntamiento como la Secretaría, según corresponda, tendrán en todo tiempo la facultad de supervisar mediante inspección técnica la ejecución de las obras, para verificar el debido cumplimiento de las normas de calidad y las especificaciones del proyecto autorizado.
+
+###### ARTICULO 182.
+
+Los urbanizadores, promotores inmobiliarios y sus peritos, observarán las indicaciones que hagan los inspectores técnicos de la autoridad competente, mismas que deberán de apegarse al Programa Parcial de Urbanización y al proyecto definitivo.
+
+###### ARTICULO 183.
+
+Para cualquier modificación del proyecto definitivo de las acciones de urbanización, sea propuesta por el urbanizador o por la propia autoridad, ésta dispondrá se elabore un dictamen específico para fundamentarlo. Expedido el dictamen y la resolución que dicte, se hará del conocimiento del urbanizador para su debido cumplimiento. En caso de inconformidad del urbanizador, podrá interponer los recursos que establece el presente ordenamiento y demás disposiciones legales.
+
+### CAPITULO SEGUNDO. De la concurrencia y competencia de las autoridades y órganos auxiliares
+
+###### ARTICULO 184.
+
+Cuando el urbanizador al realizar las acciones de urbanización para ejecutar el programa parcial incurra en violaciones graves o sustanciales, se aplicarán las medidas de seguridad y sanciones previstas en la presente Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 185.
+
+La Secretaría cuando practique una supervisión, comunicará sus observaciones al Ayuntamiento correspondiente, a fin de enterarlo de posibles anomalías en el proceso de ejecución. Esta Secretaría, conforme el convenio que celebre el Ayuntamiento con el Ejecutivo del Estado, podrá asumir las funciones y facultades que a los Ayuntamientos le otorga esta Ley, cuando éstos no dispongan de los recursos humanos y técnicos necesarios. Asimismo, a solicitud expresa de la autoridad municipal, dicha Secretaría acudirá a su auxilio como ejecutora de las medidas de seguridad y sanciones a que se refiere el artículo anterior.
+
+###### ARTICULO 186.
+
+Se declara de utilidad pública la expropiación de las áreas y predios necesarios para conectar una acción de urbanización en proyecto y otras zonas previamente urbanizadas del centro de población, siempre y cuando las obras de conexión sean congruentes con los Planes o Programas de Desarrollo Urbano aplicables.
+
+Cuando para conectar una acción de urbanización en proyecto con otras zonas urbanizadas, sea necesario abrir accesos o conducir servicios públicos a través de predios de terceros que no formen parte del terreno por urbanizar, se requerirá el consentimiento de éstos. En caso de no otorgarse el permiso, la autoridad gestionará ante el Ejecutivo del Estado la expropiación por causa de utilidad pública de las superficies que se requieran, quedando obligado el urbanizador a realizar las obras a su costo en su totalidad y a pagar el importe que corresponda por indemnización.
+
+Las obras ejecutadas por este medio y los terrenos afectados pasarán a ser del dominio municipal y éste tendrá derecho a considerar su costo en futuras incorporaciones de los predios aledaños.
+
+###### ARTICULO 187.
+
+Cuando en un predio por urbanizar existan obras o instalaciones de servicios públicos, se deberán señalar en el proyecto definitivo las especificaciones y restricciones para que el urbanizador evite la interferencia de sus propias obras o instalaciones con las ya existentes. En el caso de que se cause daño o deterioro a esas obras o instalaciones existentes durante la ejecución de las acciones de urbanización, el urbanizador deberá reponerlas a satisfacción de la autoridad. A este efecto, dada la naturaleza del daño y la urgencia de repararlo, la autoridad fijará el plazo para que tales reparaciones queden ejecutadas y la sanción económica aplicable.
+
+Si transcurrido el plazo a que se refiere el párrafo anterior, el urbanizador no hubiese concluido las reparaciones, la autoridad está facultada para proceder a la ejecución de las obras y en su momento, informar a la Secretaría de Finanzas o a la Tesorería Municipal respectiva, la relación de las erogaciones realizadas para ese fin, para los efectos de su cobro y liquidación correspondiente, en los términos de las leyes hacendarias.
+
+### CAPITULO SEXTO. Del Acto de Entrega y Recepción de las Acciones de Urbanización
+
+###### ARTICULO 188.
+
+En tanto no se concluyan las acciones de urbanización y éstas sean recibidas por el Municipio, quedan bajo la responsabilidad del urbanizador para cumplir las obligaciones que se establecen en esta Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+
+###### ARTICULO 189.
+
+Terminadas las acciones de urbanización, el interesado solicitará a las dependencias que operarán las redes de servicios y sistemas, para que en un plazo que no exceda de 60 días naturales, realicen el levantamiento de actas de certificación aprobatorias de dichos trabajos, así como a la Secretaría una constancia de cumplimiento de acciones de urbanización.
+
+El interesado podrá insistir ante la misma dependencia para que se resuelva sobre la autorización de su proyecto definitivo de urbanización, en un plazo perentorio de 30 días naturales; agotado el plazo adicional, se aplicará la afirmativa ficta, por lo que bastará que el solicitante exhiba los documentos que acrediten el paso el (sic) tiempo.
+
+Una vez que la acción de urbanización esté concluida y reunidos todos los requisitos y constancias aprobatorias que marca la presente Ley y su Reglamento, se procederá a la entrega de las obras a las autoridades y su correspondiente incorporación o reincorporación urbana.
+
+En caso de que la autoridad competente omita realizar el cumplimiento de acciones de urbanización, una vez que el interesado haya ejercido el derecho de ejercer la afirmativa ficta, este podrá recurrir a interponer recurso ante el Tribunal Contencioso Administrativo para los efectos legales conducentes.
 
 # LIBRO SEXTO. DE LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA EVALUACION DE LA DISCAPACIDAD
+## TITULO QUINTO. DE LAS ACCIONES DE URBANIZACION
 
-### CAPITULO I. Del Objeto
+### CAPITULO PRIMERO. Del Sistema Estatal de Programas de Desarrollo Urbano
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 190.
+###### ARTICULO 190.
 
-. Las disposiciones contenidas en el presente Libro tienen por objeto:
+Para que la autoridad pueda recibir la acción de urbanización terminada, se requiere:
 
-I. Establecer las bases de coordinación de los servicios públicos con los que cuenta el Estado, para la prevención y atención de la violencia intrafamiliar; y
+I. Que se hayan ejecutado las obras y cumplido con los requisitos establecidos en el Programa Parcial de Desarrollo Urbano y el Acuerdo de autorización respectivo;
 
-II. Fortalecer la institución de la familia, buscando ante todo, la integración de sus miembros en beneficio de ésta y de la sociedad.
+II. Que se hayan recabado todas las constancias y acuerdos marcados en la presente Ley y su reglamento, para la terminación de las obras y acciones de urbanización; y,
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+III. Que se hayan realizado los pagos que determinan las leyes hacendarias municipales y estatales.
 
-###### Artículo 191.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2012)</small>
 
-Para cumplir los objetivos del presente Libro, las autoridades competentes del Estado y los Municipios, deberán brindar apoyo institucional y técnico para prevenir y atender los asuntos de violencia intrafamiliar.
+En caso que transcurran los plazos de terminación de las acciones de urbanización sin que estas hayan sido concluidas por parte del urbanizador, y previa solicitud de los vecinos o requerimiento del Ayuntamiento, éste último esta facultado para proceder a la ejecución de las obras y en su momento informar a la Secretaría de Planeación y Finanzas del Estado o a la Tesorería Municipal respectiva, la relación de las erogaciones realizadas para ese fin, para los efectos de su cobro y liquidación correspondiente, en los términos de las leyes hacendarias; o en todo caso podrá hacer valida la fianza de garantía a que se refiere el artículo 172 de esta Ley, para que en su caso se ejecuten las obras pendientes.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 191.
 
-###### Artículo 192.
+En los casos de acciones de urbanización para la expansión urbana recibidos por el Ayuntamiento, se procederá a acordar en sesión de cabildo su incorporación al centro de población, dejando de pertenecer el predio a la reserva urbana, y para los casos de acciones de urbanización para la renovación urbana recibidos por el Ayuntamiento, se procederá a acordar en sesión del cabildo su reincorporación al centro de población.
 
-Las acciones que se realicen para prevenir y atender la violencia intrafamiliar serán libres de prejuicios de género, raza, condición socioeconómica, religión, credo o nacionalidad.
+Dicha incorporación o reincorporación se formalizará mediante Acuerdo del cabildo correspondiente, en donde se recibirá gratuitamente por parte del urbanizador la propiedad correspondiente a las áreas de vialidad, los espacios para las instalaciones públicas que se requieran y las necesarias para equipamiento, reservando para el Estado las áreas destinadas para educación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 192.
 
-### CAPITULO II. De los Conceptos
+El Ayuntamiento al expedir el Acuerdo de incorporación o reincorporación de la zona urbanizada, asumirá los compromisos mencionados en el Artículo 154 de esta Ley y establecerá o ratificará la nomenclatura del desarrollo urbano considerado, notificando lo anterior a la Administración de Correos, a la Comisión Federal de Electricidad y a los demás organismos encargados de la prestación de servicios públicos.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+### CAPITULO SEGUNDO. Del Plan Estatal de Desarrollo Urbano
 
-###### Artículo 193.
+###### ARTICULO 193.
 
-Para los efectos de este libro, se entiende por:
+Las acciones de urbanización de adecuación física y espacial relativas a la edificación comprenden:
 
-I. Familia: Conjunto de personas unidas por parentesco, matrimonio o concubinato, que como célula fundamental de la sociedad es una institución de interés público y ámbito natural de convivencia propicio para el entendimiento, comunicación y desarrollo de los valores necesarios en la formación y perfeccionamiento de la persona y de la sociedad.
+I. Las propias de la arquitectura e ingeniería civil que transforman el espacio de una área, un predio o lote de suelo urbanizado para hacer posibles las actividades humanas, de acuerdo al uso o destino determinado en los Planes y Programas de Desarrollo Urbano y las declaratorias correspondientes;
 
-Las relaciones familiares deben aspirar a servir al pleno entendimiento de los valores de la existencia humana. Por ello, tenderán a excluir toda subordinación o sometimiento vejatorio de la dignidad humana;
+II. Las relativas a la ampliación, reestructuración o mejoramiento de los edificios o espacios acondicionados existentes;
 
-II. Violencia Intrafamiliar: Es la acción u omisión intencional que ponga en peligro o afecte su integridad física, psicológica o sexual, que se ejerce en contra de algún miembro de la familia, por otro integrante de la misma, independientemente de que pudiere constituir delito.
+III. Las inherentes a la preservación, restauración y conservación de las mismos (sic), en especial las relativos (sic) al patrimonio histórico cultural; y,
 
-Para los efectos de este libro las instituciones a cargo del Estado también atenderán a los casos de violencia que se cometan en contra de alguna persona que sin estar en alguno de los supuestos del párrafo anterior, habite en el domicilio del agresor, y exista alguna relación de tutela, custodia o cuidado con dicha persona;
+IV. Las referidas al acotamiento, aseguramiento, demolición, saneamiento y mantenimiento de predios y fincas, que garanticen tanto la seguridad y la salud pública, como su armónica integración a su contexto urbano.
 
-III. Persona generadora de Violencia Intrafamiliar: Quien realiza actos u omisiones que provoquen situaciones de violencia intrafamiliar;
+###### ARTICULO 194.
 
-IV. Personas receptoras de Violencia Intrafamiliar: Quien recibe, o se le provoque de cualquier forma, alguna o varias de las acciones u omisiones que se mencionan en la fracción II, por parte de persona con la que tengan algún vínculo familiar;
+Las obras de edificación se clasifican en:
 
-V. Modelos de Atención: Los sistemas integrales y multidisciplinarios mediante los cuales se captan, atienden, da seguimiento, y se evalúan las situaciones de violencia intrafamiliar, sistematizando los resultados de los procesos, para retroalimentar los propios modelos;
+I. Obras de edificación nueva: las relativas a los elementos técnicos de construcción para dar a los lotes de suelo urbanizado, un aprovechamiento específico conforme a las declaratorias de usos y destinos;
 
-VI. Programa Permanente: Es el proyecto para la prevención y atención de la violencia intrafamiliar, el cual se integra con los planes y estrategias institucionales, públicas y privadas;
+II. Obras para la remodelación o ampliación de la edificación: las relativas a los elementos técnicos de construcción existentes, para modificarlas y permitir un aprovechamiento específico similar o diferente al anterior;
 
-VII. Prevención: La promoción de una cultura que favorezca y coadyuve a crear un marco objetivo de equidad, libertad e igualdad, entre las personas miembros de la familia, eliminando las causas y patrones que generan y refuerzan la violencia intrafamiliar, con el fin de erradicarla y promover la institución de la familia, en la forma definida en el presente Libro; y
+III. Obras para la conservación de la edificación: las relativas a los elementos técnicos de construcción existentes, para su preservación o reestructuración; y
 
-VIII. Consejo: El Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar.
+IV. Obras para la seguridad y sanidad de lotes y edificios: las relativas a los elementos técnicos de construcción en predios y fincas existentes, necesarias a realizar cuando el estado de los mismos no pueda garantizar la seguridad y salud pública.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 195.
 
-###### Artículo 194.
+Toda obra de edificación deberá ejecutarse y utilizarse en concordancia con los Planes y Programas de Desarrollo Urbano, acatando las disposiciones legales aplicables y se regirán por la Ley de Edificaciones del Estado de Baja California y los Reglamentos municipales vigentes.
 
-La familia es la base de la sociedad por lo que es de interés público su estabilidad y el desarrollo de sus integrantes.
+## TITULO SEXTO. DE LAS OBRAS DE EDIFICACION
 
-En la familia debe buscarse el afecto y respeto, así como darse el apoyo recíproco, fomentando el desarrollo de las interrelaciones de responsabilidad y solidaridad humana que constituyan la armonía social.
+### CAPITULO UNICO. De las Disposiciones Generales
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+### CAPITULO TERCERO. De los Programas Regionales de Desarrollo Urbano
 
-###### Artículo 195.
+###### ARTICULO 196.
 
-La aplicación del presente Libro corresponderá al Organismo Estatal y Organismos Municipales y demás dependencias del Sistema Estatal de Asistencia Social, conforme a las disposiciones legales contenidas en el presente Libro.
+Dentro del área de los centros de población solamente se podrá edificar en terrenos o lotes de suelo urbanizado.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Cuando se soliciten licencias para realizar acciones de urbanización y edificación simultáneas que se ubiquen en suelo no urbanizado dentro de los Centros de Población, se deberá respetar el requisito especificado en el Artículo 201 de esta Ley.
 
-## TITULO SEXTO. DE LA HABILITACION Y REHABILITACION
+###### ARTICULO 197.
 
-### CAPITULO I. Del Consejo
+Los edificios y espacios acondicionados resultantes de estas acciones, para entrar en operación requerirán de su respectiva autorización de ocupación.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 198.
 
-###### Artículo 196.
+La ocupación a que se hace mención en la presente Ley, se refiere al certificado que expedirá el Ayuntamiento de la jurisdicción de que se trate respecto a toda edificación, una vez que las autoridades en la materia hayan realizado la inspección que compruebe que el inmueble está habilitado para cumplir con las funciones asignadas sin menoscabo de la salud e integridad de quienes lo vayan a aprovechar.
 
-El Consejo es el organismo rector en el Estado, respecto de las políticas y criterios generales, relativos a la prevención y atención de la violencia intrafamiliar, con autonomía técnica y subordinación administrativa y financiera al Organismo Estatal.
+En las edificaciones nuevas o en ampliaciones y reparaciones, las autoridades verificarán que las obras se hayan realizado conforme a los permisos otorgados.
 
-Los fines del Consejo son:
+### CAPITULO CUARTO. Del Plan y los Programas Municipales de Desarrollo Urbano
 
-I. Establecer las políticas públicas y los criterios rectores, relacionados con la prevención y atención de los asuntos sobre violencia intrafamiliar;
+###### ARTICULO 199.
 
-II. Establecer las bases de modelos de atención y coordinación entre las instituciones del Estado y Municipios, en torno a la violencia intrafamiliar; y
+Ninguna obra de edificación podrá realizarse sin la licencia respectiva expedida por el ayuntamiento correspondiente, con excepción de aquellos casos especiales que no requieran de licencia de construcción o responsable director de obra especificados en la Ley de Edificaciones.
 
-III. Fomentar y apoyar los trabajos de investigación y análisis relacionados con la violencia intrafamiliar.
+Dicha licencia se otorgará de conformidad con lo dispuesto en este Capítulo, la Ley de Edificaciones del Estado de Baja California, sus Reglamentos y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
 
-###### Artículo 197.
+###### ARTICULO 200.
 
-El Consejo estará integrado por un Presidente designado por el Presidente de la Junta de Gobierno del Organismo Estatal y un representante de las siguientes entidades y dependencias:
+El Ejecutivo del Estado tiene el deber de proporcionar los medios y criterios de prevención para que los habitantes de la Entidad puedan desplazarse, garantizando la seguridad de trayecto de los mismos, en el ámbito de su competencia.
 
-a) Secretaría General de Gobierno;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2021)</small>
 
-b) Secretaría de Educación;
+Los Ayuntamientos deberán solicitar a la Secretaría, dictamen de congruencia, así como a la Secretaría de Economía Sustentable y Turismo la manifestación de impacto ambiental, previo a la expedición de la licencia de construcción en los casos previstos en el Artículo 60, fracciones I a VI y 61 de la Ley de Edificaciones del Estado.
 
-c) Secretaría de Salud;
+### CAPITULO QUINTO. De los Programas de Desarrollo Urbano de Centros de Población
 
-d) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+###### ARTICULO 201.
 
-e) Procuraduría General de Justicia;
+Los Ayuntamientos solo podrán autorizar obras de edificación en terrenos no urbanizados dentro del Centro de Población, cuando se lleven a cabo simultáneamente con la acción de urbanización respectiva.
 
-f) Supremo Tribunal de Justicia del Poder Judicial del Estado;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-g) Procuraduría Social;
+Para los casos de obras de edificación en terrenos fuera de los centros de población, los Ayuntamientos deberán exigir primeramente la autorización de acción de urbanización correspondiente expedida por la Secretaría.
 
-h) Comisión Estatal de Derechos Humanos;
+Para ambos casos será obligatorio el respetar los requisitos de trámite y contenido especificados en esta Ley, la Ley de Edificaciones del Estado y sus Reglamentos respectivos.
 
-i) Instituto Jalisciense de Asistencia Social;
+### CAPITULO SEXTO. De los Programas Parciales de Conservación, Mejoramiento y Crecimiento
 
-j) Hospicio Cabañas;
+###### ARTICULO 202.
 
-k)Cinco especialistas en la materia de las instituciones de educación superior más representativas en el Estado a propuesta del Presidente del Consejo;
+Todas aquellas personas que realicen obras de edificación deberán solicitar ante la autoridad competente, dictamen de uso del suelo o de zonificación según corresponda al predio donde se desarrollarán las obras, con excepción de aquellas que no requieran licencia de construcción o responsable director de obra en los términos de la Ley de Edificaciones del Estado de Baja California.
 
-l) Tres Asociaciones Civiles del Estado con una antigüedad mínima de dos años, cuyas líneas de trabajo estén orientadas a objetivos similares a la prevención y atención de la violencia intrafamiliar, electas por este mismo Consejo a propuesta del representante del Instituto Jalisciense de Asistencia Social, las cuales deberán estar debidamente acreditadas y registradas ante este Instituto.
+Obtenida la constancia a que se refiere el párrafo anterior, los propietarios o poseedores interesados elaborarán el proyecto arquitectónico que deberá reunir los requisitos establecidos en la Ley de Edificaciones y demás normas reglamentarias aplicables.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 203.
 
-###### Artículo 198.
+Los proyectos arquitectónicos deberán ser revisados por la autoridad competente, para verificar que reúnan los requisitos mínimos de seguridad general en las instalaciones hidráulicas, sanitarias, eléctricas, especiales y estructurales, de conformidad con las Leyes y disposiciones reglamentarias correspondientes y de acuerdo a la tipología de edificación propuesta.
 
-Los representantes de los organismos y dependencias señaladas en el artículo anterior, serán personas con el perfil adecuado para desempeñar el cargo, el cual será honorífico y dentro de sus funciones estará el dar seguimiento a los programas y acciones concretas que determine el Consejo.
+###### ARTICULO 204.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Una vez revisados los proyectos, la autoridad competente extenderá al particular, los permisos respecto a las instalaciones sanitarias, eléctricas, de gas, combustibles y explosivos, de conformidad con las Leyes y Reglamentos respectivos.
 
-### CAPITULO III. Del Presidente
+## TITULO SEPTIMO. DE LAS MODALIDADES DE LAS ACCIONES DE URBANIZACION
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+### CAPITULO PRIMERO. De las Disposiciones Generales
 
-###### Artículo 199.
+### CAPITULO SEPTIMO. De los Programas Parciales Comunitarios
 
-El Consejo sesionará, al menos una vez al mes, a convocatoria del Presidente o a propuesta de tres de los Consejeros. La convocatoria contendrá el orden del día y bastará que asistan el Presidente y la mayoría de los Consejeros acreditados para que pueda existir quórum.
+###### ARTICULO 205.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Una vez recabadas las autorizaciones y permisos a que se refieren los artículos anteriores, deberán ser presentados junto con el proyecto arquitectónico ante la autoridad municipal, para tramitar la licencia de construcción de conformidad con el Reglamento respectivo.
 
-###### Artículo 200.
+## TITULO OCTAVO. DE LAS RESPONSABILIDADES, MEDIDAS DE SEGURIDAD, SANCIONES Y DEFENSA DE LOS PARTICULARES
 
-Son facultades del Consejo:
+### CAPITULO PRIMERO. De las Responsabilidades
 
-I. Establecer los lineamientos administrativos y técnicos, así como aprobar los modelos de atención elaborados previamente por el equipo técnico;
+### CAPITULO OCTAVO. De los Programas Sectoriales del Desarrollo Urbano
 
-II. Aprobar el Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar, así como las modificaciones propuestas por el equipo técnico;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-III. Evaluar los logros y avances del Programa Permanente;
+###### ARTICULO 206.
 
-IV. Celebrar por conducto de su Presidente, convenio o acuerdos, dentro del Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar, para la coordinación de acciones encaminadas al logro de los fines y objetivos del presente Libro;
-
-V. Incorporar a las acciones del Consejo a la sociedad civil organizada, estableciendo y manteniendo vínculos de trabajo específico, intercambio de información y propuestas de modelos de atención;
-
-VI. Promover el estudio e investigación sobre violencia intrafamiliar en el Estado y difundir los resultados que deriven de dichos estudios, así como avances logrados en el ámbito nacional e internacional;
-
-VII. Promover la creación de un Patronato que auxilie al Consejo para la obtención de fondos financieros que permitan el fortalecimiento del presupuesto designado para el desarrollo de los programas y determinar las directrices y prioridades para el manejo de los recursos presupuestarios que le sean asignados al Consejo;
-
-VIII. La realización de campañas publicitarias para la concientización de la población en general, acerca de los efectos de la violencia intrafamiliar y su prevención;
-
-IX. Las demás que le asignen otras leyes o sean necesarias para el cumplimiento de las anteriores.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-### CAPITULO IV. De la Secretaría Técnica
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 201.
-
-El Presidente del Consejo tendrá las siguientes atribuciones:
-
-I. Ejercer la representación legal del Consejo;
-
-II. Presidir las sesiones del Consejo;
-
-III. Convocar al Consejo a las sesiones ordinarias y extraordinarias;
-
-IV. Someter a la consideración del Consejo, los proyectos de actualización y ampliación del Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar;
-
-V. Elaborar y presentar un informe anual de actividades ante la Junta de Gobierno del Organismo Estatal y los miembros del Consejo;
-
-VI. Recibir los informes de los organismos que atienden directamente los casos de violencia intrafamiliar;
-
-VII. Proponer el nombramiento y remoción del Secretario Técnico;
-
-VIII. Designar a los profesionistas y técnicos que integren las unidades de atención; y
-
-IX. Las demás que le encomiende el Consejo.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-### CAPITULO II. De las Atribuciones del Consejo
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 202.
-
-Para la operación y administración de las actividades del Consejo, éste contará (sic) una Secretaría Técnica, la cual tendrá las siguientes atribuciones;
-
-I. Ejecutar los acuerdos y acciones que disponga el Consejo dentro del marco del Programa Permanente;
-
-II. Estar presente en todas las sesiones del Consejo, con derecho a voz y no voto;
-
-III. Levantar actas circunstanciadas de cada sesión y someterlas a votación para su aprobación en su caso;
-
-IV. Revisar los informes de los órganos o instituciones que conozcan casos de violencia intrafamiliar, y dar contestación a las cuestiones técnicas y consultas planteadas respecto de tema de su competencia;
-
-V. Revisar y opinar acerca de los proyectos de convenios en que pueda ser parte el Consejo en materia de violencia intrafamiliar;
-
-VI. Presentar al Consejo en forma periódica, informes y resultados de las acciones emprendidas dentro del marco del programa permanente; y
-
-VII. Las demás funciones que le sean encomendadas, mediante acuerdo del Consejo.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 203.
-
-Esta Secretaría dispondrá de la infraestructura necesaria para el desarrollo de sus funciones.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 204.
-
-El Secretario Técnico deberá ser Trabajador Social, Sociólogo Psicólogo titulado, con amplios conocimientos y experiencia en materia familiar y asistencia social.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-## TITULO SEPTIMO. DE LA RECREACION, DEPORTE Y CULTURA
-
-### CAPITULO UNICO. De los Municipios
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 205.
-
-El Consejo Estatal en coordinación con los Organismos Municipales procurará la integración de Consejos Municipales para la Prevención y Atención de la Violencia Intrafamiliar.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-## TITULO OCTAVO. DE LAS MEDIDAS Y FACILIDADES URBANISTICAS Y ARQUITECTONICAS
-
-### CAPITULO UNICO. De las Líneas de Acción
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 206.
-
-El Consejo y los organismos públicos y privados involucrados en la prevención y atención de la violencia intrafamiliar, se coordinarán para la elaboración del proyecto de Programa y su ejecución, que comprenderá, cuando menos, las siguientes acciones:
-
-I. La formación y capacitación de personal para la prevención y atención de la violencia intrafamiliar;
-
-II. Las estrategias generales y particulares para la prevención de la violencia intrafamiliar, incluyendo las orientaciones que deberá seguir la Campaña Permanente que se desarrolle para el efecto;
-
-III. La prestación de servicio de albergues para la atención de emergencias y tratamientos ordinarios;
-
-IV. La creación de las Unidades de Atención y Seguimiento para la asistencia multidisciplinaria;
-
-V. La instalación de líneas telefónicas para la atención ininterrumpida de emergencias relacionadas con casos de violencia intrafamiliar;
-
-VI. La impartición de cursos de Escuela de Padres;
-
-VII. La integración de grupos de apoyo para sujetos generadores y receptores de violencia intrafamiliar; y
-
-VIII. Los criterios de clasificación, investigación y uso de la estadística generada en el tratamiento de la violencia intrafamiliar.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Los proyectos de edificación que por sus características de densidad, coeficientes de usos y ocupación discrepen de la zona donde se proyecten, serán rechazados hasta que su reforma los haga armonizar con el contexto urbano que lo circunde.
 
 ## TITULO NOVENO. DE LAS PREFERENCIAS PARA EL LIBRE DESPLAZAMIENTO Y EL TRANSPORTE
 
-### CAPITULO I. Del Personal
+### CAPITULO NOVENO. De la Modificación o Cancelación de los Planes y Programas de Desarrollo Urbano
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 207.
 
-###### Artículo 207.
+Todas las edificaciones, reconstrucciones o demoliciones, deberán quedar bajo la responsabilidad de un profesionista con cédula profesional legalmente expedida, y que esté inscrito en el registro de peritos responsables que al efecto llevará el Ayuntamiento correspondiente.
 
-El personal de las unidades de atención, deberá ser profesional, tener sensibilidad y actitudes empáticas, así como con el perfil y aptitudes adecuadas, realizando sus acciones conforme a los principios previstos en el Libro.
+###### ARTICULO 208.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Las obras de edificación, acciones de urbanización o acciones de urbanización y edificación simultáneas, se proyectarán y se realizarán de acuerdo con los Planes y Programas de Desarrollo Urbano y las declaratorias correspondientes en los centros de población, mediante las modalidades siguientes, que preven las formas de participación ciudadana y de los distintos sectores de la población:
 
-###### Artículo 208.
+I. Acciones de urbanización privadas;
 
-La atención a quienes incurran en actos de violencia intrafamiliar, se basará en modelos psicoterapéuticos reeducativos tendientes a disminuir y, de ser posible, erradicar conductas de violencia; dichos modelos deberán haber sido evaluados con anterioridad a su aplicación, por el equipo técnico y el Consejo.
+II. Acciones de urbanización pública;
 
-Se podrá prestar la atención a quienes se encuentren en cualquier etapa de un proceso penal o civil, que esté relacionada con eventos de violencia intrafamiliar, o después de haber causado estado la sentencia dictada, a solicitud de la autoridad jurisdiccional, o bien, a solicitud del propio interesado.
+III. Acciones de urbanización por cooperación;
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+IV. Acciones de urbanización por plusvalía;
 
-###### Artículo 209.
+V. Acciones de urbanización y reparcelación por asociación de interés público;
 
-Las instituciones u organismos que conozcan o atiendan casos en los que sea presumible la existencia de violencia intrafamiliar, remitirán a la Secretaría Técnica del Consejo, informes individualizados en los que se haga una exposición general del problema que les fue planteado, así como las acciones que se tomaron de forma inmediata. En tales informes también se podrá solicitar al Consejo apoyo para la solución del problema planteado. Tal apoyo podrá ser informativo, o de soporte técnico para la aplicación de los modelos de atención que en el caso de que se trate puedan ser aplicables. Todo esto, con el fin de que se pueda dar seguimiento a todos los casos de maltrato familiar que se registren por las autoridades del Estado.
+VI. Acciones de urbanización por concertación; y
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+VII. Acciones de urbanización por objetivo social.
 
-### CAPITULO II. De la Participación de las Autoridades en la Asistencia de la Violencia Intrafamiliar
+### CAPITULO SEGUNDO. De las Acciones de Urbanización Privadas
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 209.
 
-###### Artículo 210.
+Las acciones de urbanización o edificación privadas se refieren a las que se realizan para usos determinados por parte de cualquier propietario o promotor asociado con el mismo, en predios de propiedad particular que cumplan con los requisitos estipulados en esta Ley y demás disposiciones aplicables. Bajo esta modalidad se regirán las acciones de urbanización y edificación promovidas y ejecutadas por los organismos públicos descentralizados.
 
-Los jueces que conozcan de asuntos en donde se desprenda que existe violencia intrafamiliar, y las partes en litigio, podrán solicitar al Consejo la realización de estudios e investigaciones acerca de los antecedentes de procesos psicoterapéuticos de agresores y receptores de la violencia familiar.
+### CAPITULO TERCERO. De las Acciones de Urbanización Pública
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+### CAPITULO DECIMO. De los Efectos de los Programas de Desarrollo Urbano
 
-###### Artículo 211.
+###### ARTICULO 210.
 
-Corresponde a la Secretaría General de Gobierno, además del despacho de los asuntos señalados en el artículo 30 de la Ley Orgánica del Poder Ejecutivo, coadyuvar en los programas de prevención, atención y difusión contra la violencia intrafamiliar y vigilar el cumplimiento del presente Libro.
+Las acciones de urbanización y edificación pública para destinos se refieren a las que se realizan por parte de la Administración Pública Federal, Estatal o por los Ayuntamientos, para satisfacer las necesidades de los centros de población.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 211.
 
-###### Artículo 212.
+Las dependencias federales, estatales y municipales que proyecten y ejecuten acciones de urbanización y edificación, deberán respetar y aplicar con toda diligencia las disposiciones derivadas de los Planes y Programas de Desarrollo Urbano, destacando la importancia de sus acciones en el ordenamiento y regulación de los centros de población.
 
-Compete a la Secretaría de Educación, además del despacho de los asuntos descritos en el artículo 35 de la Ley Orgánica del Poder Ejecutivo, las siguientes:
+###### ARTICULO 212.
 
-I. Desarrollar programas educativos, de nivel preescolar, primaria y secundaria, que fomenten la corresponsabilidad familiar en sana convivencia, con base a los derechos y obligaciones de sus integrantes, de acuerdo a su edad y experiencia; y
+Cuando en un centro de población sea urgente la realización de obras públicas y no se cuente con el Programa de Desarrollo Urbano correspondiente, el Ayuntamiento las autorizará previo dictamen de la Comisión Coordinadora de Desarrollo Urbano del Estado, disponiendo se realicen los estudios indispensables para garantizar su ejecución conforme a las disposiciones de este ordenamiento y las normas de los reglamentos de zonificación y uso del suelo.
 
-II. Elaborar programas de capacitación para los funcionarios públicos y demás personas que por la naturaleza de sus funciones, les corresponda, en cualquier momento del proceso de atención, tener contacto con los sujetos involucrados en actos de violencia intrafamiliar.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+### CAPITULO TERCERO BIS. De las Acciones de Urbanización para la Prevención y Control de la Contaminación Lumínica
 
-###### Artículo 213.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-Le corresponde a la Secretaría de Salud, además del despacho de los asuntos precisados en el artículo 36 de la Ley Orgánica del Poder Ejecutivo, las siguientes:
+ARTICULO 212 BIS.- Para los efectos de esta ley se entiende por contaminación lumínica, la emisión de flujo luminoso en la atmosfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales y/o horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente.
 
-I. Diseñar y poner en práctica programas de capacitación, detección, prevención y atención a personas receptoras y generadoras de violencia intrafamiliar; y
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-II. Establecer bases y directrices en la elaboración de los Partes Médicos que se instrumenten en el Estado.
+ARTICULO 212 BIS 1.- En materia de prevención y control de la contaminación lumínica, los municipios tendrán las siguientes facultades:
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+I.- Elaborar, aprobar y publicar programas referentes a los sistemas de iluminación exterior y a la prevención y control de la contaminación lumínica;
 
-###### Artículo 214.
+II.- Aprobar y emitir lineamientos que establezcan el tipo de luminarias a utilizarse en los sistemas de iluminación de exteriores públicos y privados, permanentes o temporales, así como la zonificación para el uso de los mismos;
 
-La Procuraduría General de Justicia del Estado, para los efectos de este capítulo, deberá:
+III.- Aprobar y emitir lineamientos que establezcan el tipo de fuente luminosas para usos publicitarios públicos y privados, permanentes o temporales, así como la zonificación para el uso de las mismas;
 
-I. Turnar a las instancias competentes, los casos en que de la averiguación previa se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar; y
+IV.- Promover y fomentar en la ciudadanía el uso correcto y eficiente de iluminación y prevención de la contaminación lumínica;
 
-II. Capacitar al personal en materia de prevención y atención a víctimas de la violencia intrafamiliar.
+V.- Integrar y mantener actualizado el inventario de luminarias y coordinarse con el gobierno estatal para la integración del inventario en el Estado;
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+VI.- Promover convenios de colaboración con organismos de instituciones de investigación local, nacional e internacional, interesados en la preservación de la calidad de la atmosfera; y
 
-###### Artículo 215.
+VII.- Vigilar el cumplimiento de los requisitos y normas de edificación adecuadas para evitar la contaminación lumínica y para preservar la calidad astronómica del municipio.
 
-La Secretaría de Seguridad Pública, Prevención y Readaptación Social además de las atribuciones señaladas en el artículo 38 Bis, para los efectos de este Libro, tendrá las siguientes:
+### CAPITULO CUARTO. De las Acciones de Urbanización por Cooperación
 
-I. Coordinarse con la Procuraduría General de Justicia para la atención de los casos de violencia intrafamiliar que sean reportados y que constituyan delito; y
+###### ARTICULO 213.
 
-II. Instaurar cursos de formación y capacitación sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención.
+Las acciones de urbanización por cooperación se refieren a las que se realizan en vías y espacios públicos, que benefician directamente a los propietarios de los predios adyacentes a las mismas, y sean promovidas y ejecutadas por los Consejos de Urbanización Municipal, con su participación.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 214.
+
+Los proyectos y la ejecución de las obras cumplirán con los requisitos estipulados en esta Ley y demás disposiciones aplicables y antes de proceder a su ejecución, deberán cumplir con todos los procedimientos señalados en la Ley de Urbanización del Estado, referentes a los proyectos, presupuesto, financiamiento, derramas y contratación, así como a las juntas de los propietarios en donde se apruebe la ejecución de las obras.
+
+Las acciones de urbanización por cooperación pueden realizarse con la cooperación parcial de los Ayuntamientos.
+
+### CAPITULO QUINTO. De las Acciones de Urbanización por Plusvalía
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 215.
+
+Las acciones de urbanización y edificación por plusvalía, son aquellas que se realizan para uno o varios destinos a fin de satisfacer intereses colectivos y que son declaradas de utilidad pública, con un beneficio general para el centro de población y que requieren, en cada caso, de las contribuciones de mejoras establecidas en la Ley de Urbanización del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ## TITULO DECIMO. DE LOS ESTIMULOS
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO PRIMERO. De las Conurbaciones y de las Zonas Metropolitanas
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 216.
 
-###### Artículo 216.
+Las acciones de urbanización o edificación por plusvalía se ejecutarán de acuerdo a los Planes y Programas de Desarrollo Urbano y demás disposiciones aplicables, y serán realizadas a través de la autoridad competente en los términos estipulados en la Ley de Urbanización del Estado, que señala las normas para la individualización de las contribuciones de mejoras para el sistema de plusvalía, así como las bases para su pago y recaudación.
 
-El procedimiento que se siga ante las unidades o los órganos municipales competentes deberá ser breve, sencillo y gratuito, sólo estará sujeto a las mínimas formalidades que se requieran para el trámite de la queja y la investigación de los hechos privilegiando la conciliación.
+Las acciones de urbanización o edificación previstas en los Programas Parciales de Desarrollo Urbano de los centros de población que incluyan acciones de conservación, mejoramiento o crecimiento, podrán ser realizadas por este sistema de plusvalía, demostrando que son de utilidad pública y de beneficio social y general.
 
-El procedimiento se iniciará con una queja, que no requiere de ningún requisito de formalidad.
+### CAPITULO SEXTO. De las Acciones de Urbanización y Reparcelación por Asociación de Interés Público
 
-Los procedimientos previstos en el presente capítulo no son requisito previo para llevar a cabo cualquier servicio asistencial o procedimiento jurisdiccional.
+###### ARTICULO 217.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Las acciones de urbanización y reparcelación por asociación de interés público son aquellas promovidas por un organismo público descentralizado para el desarrollo urbano de una porción de reserva territorial para el crecimiento así designada en el Programa de Desarrollo Urbano de un centro de población, en el que el organismo promotor se asocia con los propietarios de los predios involucrados con el fin de compartir los costos y beneficios consecuentes de la urbanización y comercialización de los lotes o parcelas resultantes.
 
-###### Artículo 217.
+###### ARTICULO 218.
 
-Están legitimados para presentar las quejas e iniciar el procedimiento ante las instancias competentes, un familiar, vecino o cualquier otra persona, quien bajo protesta de decir verdad presentará su queja o denuncia por escrito o comparecencia.
+Para realizar acciones de urbanización y reparcelación por asociación de interés público, se requiere de un Programa Parcial de Desarrollo Urbano y de un Proyecto de Acción de Urbanización según lo previsto en esta Ley. En ellos deberán precisarse las obras y servicios a ejecutar, los usos y destinos de los predios, densidades de construcción e intensidades de uso y estudios de ingeniería vial, impacto ambiental e imagen urbana a que deberá sujetarse el desarrollo.
 
-Sólo cuando la queja entrañe hechos que pudieren constituir delito que se persiga de oficio se dará aviso al Ministerio Público, y si éstos fueren perseguibles a petición de parte, el ofendido podrá acudir a esa representación social a querellarse en los términos de ley.
+### CAPITULO PRIMERO. De las Acciones de Fundación, Conservación, Mejoramiento y Crecimiento de los Centros de Población
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 219.
 
-###### Artículo 218.
+Para que el organismo promotor cubra los costos de proyecto, construcción y comercialización de la acción de urbanización propuesta, se estimará el valor probable de mercado del suelo ya urbanizado. El costo total de la acción se dividirá entre el valor probable de mercado de la superficie vendible urbanizada para determinar que porcentaje de esa superficie equivale al costo total del desarrollo. A dicho porcentaje se le denominará "porcentaje de superficie equivalente del costo" que sumado al porcentaje del suelo destinado a vías públicas y a equipamiento urbano, será deducido de la superficie que cada miembro de la asociación aportó a la misma. Las superficies resultantes así reducidas serán asignadas a cada propietario procurando ubicarlas lo más cerca posible al lugar del predio original aportado. El resto de la superficie vendible la retendrá el organismo promotor para su comercialización, cubriendo los costos incurridos más una reserva para futuras promociones.
 
-Las unidades de atención deberán conocer, tramitar y resolver a través del procedimiento previsto en el presente capítulo, los asuntos que sean de su conocimiento y constituyan conflictos de violencia intrafamiliar.
+###### ARTICULO 220.
 
-Todo el personal de las instituciones involucradas en la prevención y atención de la violencia intrafamiliar, deberán dar trato confidencial a la información o documentación de las personas atendidas. Lo anterior implica que el expediente en el que se integren las constancias relativas al planteamiento y a la resolución del problema, sólo podrán ser consultados por quienes intervengan en ellos, sus apoderados, y el Consejo, al que se le deberán mandar los informes a que se refiere este Libro.
+Para la realización de las acciones de urbanización y reparcelación por asociación de interés público, se seguirá el procedimiento siguiente:
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+I. El organismo promovente con la aprobación de por lo menos el 80% de los propietarios integrará los estudios urbanísticos que acrediten el interés público del desarrollo urbano propuesto;
 
-### CAPITULO II. De los Conciliadores
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+II. Dicho estudio será presentado a la Comisión Coordinadora de Desarrollo Urbano, quien si lo aprueba dispondrá la elaboración del Programa Parcial de Desarrollo Urbano con la intervención del Ayuntamiento respectivo o con la de la Secretaría, según el tipo de acción de urbanización de que se trate o su ubicación geográfica; y,
 
-###### Artículo 219.
+III. Tanto la aprobación del Programa Parcial de Desarrollo Urbano como el Acuerdo de Autorización de la acción de urbanización se darán en los términos de la presente Ley.
 
-Las partes en un conflicto intrafamiliar, podrán resolver sus diferencias en el área administrativa mediante el procedimiento conciliatorio, el cual se efectuará preferentemente en una sola audiencia.
+### CAPITULO SEPTIMO. De las Acciones de Urbanización por Concertación
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 221.
 
-###### Artículo 220.
+Las acciones de urbanización por concertación son aquellas obras que se realizan en vías y espacios públicos, mediante convenio celebrado con el Ayuntamiento respectivo, con la participación de los propietarios o promotores asociados con éstos que tengan interés en realizarlas.
 
-Recibida la queja, la autoridad encargada del trámite señalará una fecha para la celebración de la audiencia dentro de los 8 días naturales siguientes a la presentación de la misma y de inmediato mandará citatorios a las partes involucradas.
+###### ARTICULO 222.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+Las acciones de urbanización por concertación se realizarán siempre y cuando se presente previamente al Ayuntamiento, una solicitud acompañada del acuerdo de aceptación de realizarlas a su cargo, por parte de todos los propietarios de predios directamente beneficiados por las obras.
 
-###### Artículo 221.
+La ejecución de estas acciones de urbanización podrá desarrollarse por el Consejo de Urbanización Municipal correspondiente.
 
-Si alguna de las partes no asiste a la audiencia, se les volverá a citar en un término igual al anterior, señalándoles los beneficios e importancia de la audiencia. Si de nueva cuenta no fuere posible la celebración de la audiencia por ausencia de alguna de las partes, al ausente se le impondrá multa por el importe que no exceda a un salario mínimo general y se turnará el asunto a la Unidad de Atención que corresponda para su estudio y determinación.
+Las acciones que se proyecten realizar mediante esta modalidad, deberán cumplir con las normas definidas en esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+### CAPITULO OCTAVO. De las Acciones de Urbanización por Objetivo Social
 
-###### Artículo 222.
+###### ARTICULO 223.
 
-Al iniciarse la audiencia de conciliación, el conciliador sin prejuicio alguno procederá a buscar la avenencia entre las partes, proporcionándoles toda clase de alternativas, exhortándolos a que lo hagan, dándoles a conocer las consecuencias en caso de continuar con su conflicto.
+Las acciones de urbanización por objetivo social se refieren al fraccionamiento y urbanización de terrenos que se desarrollarán en forma progresiva mediante la gestión pública a través de los Ayuntamientos, del Gobierno del Estado o de ambas autoridades, a fin de responder a la demanda de suelo urbano para la vivienda popular y evitar, con ello, el asentamiento espontáneo o irregular.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
-###### Artículo 223.
+A efecto de ampliar las posibilidades de acceso a la vivienda a las familias de bajos ingresos o sectores de la población más desprotegidos, el Gobernador del Estado, por sí o a través de sus organismos descentralizados, bajo acuerdo del Ayuntamiento respectivo, en atención a la urgencia inmediata de resolver problemas de vivienda, podrá impulsar el desarrollo de fraccionamientos de tipo Habitacional Social Progresivo, con los requisitos mínimos de urbanización previstos en la presente Ley.
 
-Si las partes llegaren a una conciliación, se celebrará el convenio correspondiente que será firmado por quienes intervengan en el mismo, del cual se entregará una copia a cada uno de los comparecientes, otra copia será enviada a la Secretaría Técnica del Consejo para los efectos de ley, el cual servirá de antecedente para el caso de que se presenten nuevos conflictos entre las mismas personas.
+###### ARTICULO 224.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+La gestión de toda acción de urbanización por objetivo social, se realizará por iniciativa de las autoridades estatales y municipales, quienes tratándose de predios de propiedad privada, pueden asociarse con sus propietarios para el desarrollo de este tipo de urbanizaciones. Asimismo, las autoridades estatales y municipales podrán atender las peticiones de ciudadanos, que agrupados en cooperativas y asociaciones de colonos soliciten este tipo de acción de urbanización y aporten los terrenos para desarrollarlo.
 
-###### Artículo 224.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
-Una vez habida la conciliación, se dará el seguimiento que corresponda y se elaborará un registro de datos que podrá ser consultado por las autoridades competentes de la materia para los efectos de ley, cuidando la confidencialidad y reserva de los mismos.
+En el caso de los fraccionamientos de tipo Habitacional Social Progresivo, el Ejecutivo del Estado o sus organismos descentralizados podrán convenir con el sector social o con organismos públicos federales, cuya finalidad sea la construcción, subsidio o financiamiento de vivienda de interés social, para la adquisición de terrenos o en cualquier otra operación necesaria para llevar a cabo el fraccionamiento, quedando a cargo del Ejecutivo del Estado o el organismo descentralizado correspondiente su supervisión.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 225.
 
-###### Artículo 225.
+En ningún caso, las acciones de urbanización por objetivo social podrán estar a cargo exclusivamente de particulares.
 
-Cuando en forma espontánea, o por cualquier causa, se presenten las distintas partes involucradas en un conflicto de violencia intrafamiliar ante la presencia de la autoridad competente para iniciar el procedimiento conciliatorio, y es voluntad de éstos someterse a tal procedimiento, la conciliación deberá iniciarse de inmediato.
+La participación del Estado y los Municipios en esta modalidad, tendrá el propósito de garantizar a los adquirentes por medio de la gestión pública, el desarrollo progresivo de las obras de urbanización, otorgar un valor social a los terrenos y, en general, cumplir con su objetivo.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 226.
 
-###### Artículo 226.
+Para promover una acción de urbanización por objetivo social, será necesario:
 
-Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios, la otra parte podrá ejercitar las acciones que correspondan ante la autoridad jurisdiccional correspondiente para lograr su ejecución en los términos previstos en el Código de Procedimientos Civiles para el Estado de Jalisco.
+I. Realizar los estudios que la fundamenten, tanto en lo económico y social, como en lo relativo a la factibilidad de incorporación urbana de los terrenos donde se proyecte el desarrollo, en relación a los servicios de agua potable, drenaje y electricidad, entre otros;
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+II. En base a estos estudios el Ayuntamiento y/o el Gobierno del Estado, según corresponda, decidirán si realizan la urbanización bajo esta modalidad;
 
-###### Artículo 227.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
 
-Son facultades y obligaciones del conciliador:
+III. Aprobado el estudio, el Ayuntamiento y/o el Gobierno del Estado, según corresponda, elaborarán el proyecto definitivo, en el caso del Fraccionamiento Habitacional Social Progresivo, se definirán las obras mínimas que se ejecutarán y las obras complementarias que integran una urbanización popular completa;
 
-I. Levantar las constancias de aquellos actos que se generen ante su presencia;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
 
-II. Citar a las personas involucradas en conflictos relacionados con violencia intrafamiliar para el desahogo de los procedimientos establecidos en el presente capítulo;
+IV. Las obras mínimas a que se refiere la fracción anterior, que se exigirán son las siguientes:
 
-III. Desahogar el procedimientos (sic) conciliatorio conforme al presente Libro;
+a) Aprovisionamiento de agua potable mediante hidrantes localizados en una de las esquinas; y,
 
-IV. Derivar a los organismos correspondientes aquellos casos que no sean de su competencia;
+b) Conformación del terreno para señalar las vías públicas;
 
-V. Firmar en unión de los interesados, los convenios conciliatorios a los que se llegue;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
-VI. Integrar los expedientes relativos a los casos puestos a su consideración, las actuaciones que se realicen, así como las constancias que se le presenten; y
+c) La construcción de guarniciones de banqueta, y
 
-VII. Enviar copias de los convenios al Consejo, en los términos del presente Libro.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2021)</small>
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+d) La introducción de redes de infraestructura de servicios de electrificación y alumbrado público.
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+V. Realizadas las obras en los términos previstos en la presente Ley y los Reglamentos correspondientes, el Ayuntamiento procederá a su recepción levantando el acta respectiva; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+
+VI. En el caso del Fraccionamiento Habitacional Social Progresivo, una vez que el Ayuntamiento haya recibido de conformidad las obras, se procederá a ocupar los lotes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+###### ARTICULO 227.
+
+El complemento de las obras de urbanización en una acción de urbanización por objetivo social, deberán concluirse dentro del plazo de 5 años contados a partir de la fecha en que el Ayuntamiento haya recibido las obras mínimas respectivas, y se garantizará mediante el convenio que celebren el Ejecutivo Estatal o el Ayuntamiento respectivo y los adquirientes de los lotes.
+
+Los adquirentes de los lotes deberán formar parte de la junta de vecinos para hacer posibles las gestiones que se establezcan en dicho convenio.
 
 ## TITULO DECIMO PRIMERO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE REVOCACION
 
-### CAPITULO UNICO. Del Informe
+### CAPITULO SEGUNDO. Del Ordenamiento Ecológico de los Asentamientos Humanos
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 228.
 
-###### Artículo 228.
-
-El Presidente del Consejo rendirá el informe anual de actividades al cual corresponderá un dictamen de evaluación suscrito por los integrantes de la Junta de Gobierno del Organismo Estatal, pudiéndose emitir votos particulares cuando algún integrante de la Junta no comparta los criterios propuestos en el documento valuatorio en cuanto a la fidelidad del informe o a la ejecución de las acciones aprobadas por la Junta.
-
-El dictamen de evaluación deberá rendirse dentro de los quince días siguientes a la presentación del informe, y sus puntos resolutivos deberán de proponer las medidas que se consideren necesarias para mejorar las estrategias de prevención y atención de la violencia intrafamiliar, las cuales, si fueren aprobadas por la mayoría de los integrantes de la Junta de Gobierno del Organismo Estatal, serán incorporadas al Programa para su aplicación.
-
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+La junta de vecinos, previa autorización del Ayuntamiento y/o del Ejecutivo del Estado, según corresponda, podrá solicitar al Consejo de Urbanización Municipal o a la Junta de Urbanización del Estado que concluya las obras de urbanización faltantes en el desarrollo progresivo, cuando así lo convengan y de acuerdo a la capacidad económica de los adquirentes de los lotes.
 
 # LIBRO SEPTIMO. DE LOS ADULTOS MAYORES
 
@@ -2511,35 +2871,21 @@ El dictamen de evaluación deberá rendirse dentro de los quince días siguiente
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 229.
+###### ARTICULO 229.
 
-Las disposiciones contenidas en este Libro son reglamentarias de la fracción II del artículo 15 de la Constitución Política del Estado de Jalisco.
+Mientras las obras de urbanización no estén concluidas conforme las disposiciones reglamentarias en la materia, el Ayuntamiento no levantará el acta final de recepción de obras.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-###### Artículo 230.
+###### ARTICULO 230.
 
-Los objetivos de este ordenamiento son los siguientes:
+Los propietarios de lotes en una acción de urbanización por objetivo social o quienes adquieran sus derechos, están obligados solidariamente en las responsabilidades derivadas de la realización de las obras de urbanización progresiva. Este hecho deberá consignarse en los documentos de propiedad que se expidan y en las inscripciones que se hagan en el Registro Público de la Propiedad y del Comercio.
 
-I. Reconocer los derechos de los adultos mayores y los medios para su ejercicio;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-II. Fomentar una mayor calidad de vida de los adultos mayores, en los aspectos de participación social y económica y recreación;
+###### ARTICULO 231.
 
-III. Establecer las responsabilidades de la familia, la sociedad y el estado en cuanto a atención, promoción y apoyo a los adultos mayores;
-
-IV. Propiciar una cultura de reconocimiento y aprecio por los adultos mayores;
-
-V. Impulsar las políticas de salud para los adultos mayores; y
-
-VI. Los demás que se establezcan en el presente Código.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 231.
-
-Para los efectos de la presente ley, se consideran adultos mayores a las personas de sesenta o más años de edad.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+El Estado participará como promotor a través de la Secretaría y demás organismos descentralizados.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
@@ -2549,71 +2895,13 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 232.
+###### ARTICULO 232.
 
-Son derechos de los adultos mayores, además de los establecidos por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Jalisco y demás disposiciones jurídicas aplicables, los siguientes:
+Los Ayuntamientos participarán como promotores a través de la Dependencia de Obras Públicas correspondiente, o de un organismo municipal especializado en materia inmobiliaria.
 
-I. Acceder a los servicios médicos y asistenciales que prestan las instituciones del Sistema Estatal de Salud;
+###### ARTICULO 233.
 
-II. Recibir una atención médica integral a través de acciones de prevención, atención y rehabilitación;
-
-III. Recibir los medicamentos, prótesis y demás dispositivos necesarios para mantener su salud;
-
-IV. Obtener una alimentación nutritiva y adecuada;
-
-V. Disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sea judicialmente declarado incapaz;
-
-VI. Contar con una cartilla médica para el control de su salud;
-
-VII. Disponer de una estancia digna y poder elegir su lugar de residencia;
-
-VIII. Contar con espacios libres de barreras arquitectónicas para el fácil acceso y desplazamiento;
-
-IX. Tener acceso a los servicios que preste el Sistema Estatal de Educación, en sus diversas modalidades y niveles, de conformidad con la legislación aplicable;
-
-X. Tener libre acceso a actividades artísticas y programas culturales administrados por el sector público;
-
-XI. Recibir un trato digno y no discriminatorio, así como vivir con seguridad, libre de explotación y maltrato físico y mental;
-
-XII. Decidir libremente sobre la continuidad de su actividad laboral; salvo que medie incapacidad física o mental declarada por autoridad competente;
-
-XIII. Recibir capacitación para desempeñarse en actividades laborales acordes a su edad y capacidad;
-
-XIV. Acceder a las oportunidades de empleo que promuevan las instituciones oficiales o particulares;
-
-XV. Participar activamente en el diseño de las políticas públicas que los afecten directamente;
-
-XVI. Recibir asesoría jurídica para proteger y promover sus derechos;
-
-XVII. Recibir apoyos institucionales en materia alimentaria, siempre y cuando carezca de los recursos suficientes y no se encuentre pensionado;
-
-XVIII. Acceder a información gerontológica y geriátrica para contribuir a la prevención y el autocuidado;
-
-XIX. Recibir reconocimientos o distinciones por su labor, trayectoria o aportaciones al estado;
-
-XX. Formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento;
-
-XXI. Recibir descuentos en el consumo de bienes y servicios en las negociaciones y organismos afiliados a los programas de apoyo a la senectud;
-
-XXII. Las demás que establezcan los diversos ordenamientos jurídicos aplicables.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 233.
-
-En la medida en que su salud y circunstancias personales lo permitan, los adultos mayores procurarán:
-
-I. Permanecer activos y productivos;
-
-II. Aprender y aplicar principios de salud física y mental a su propia vida;
-
-III. Aprovechar los programas de educación, actualización y capacitación;
-
-IV. Participar en actividades comunitarias y docentes, compartiendo con las nuevas generaciones su experiencia, valores y conocimiento; y
-
-V. Los demás que establezcan los ordenamientos jurídicos aplicables.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+La autorización de este tipo de acción de urbanización se otorgará cumpliendo con todas las disposiciones previstas en esta Ley y en el Reglamento respectivo para dichos casos; la autorización corresponderá a los Ayuntamientos cuando estén ubicados dentro del centro de población y si se localizan fuera de estos límites será competencia del Estado.
 
 ## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
@@ -2623,37 +2911,19 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 234.
+###### ARTICULO 234.
 
-La familia responsable de los adultos mayores tendrá a su cargo las siguientes obligaciones:
+Cuando las obras de urbanización progresiva se concluyan de conformidad con las regulaciones en la materia, se procederá a levantar el acta final de recepción de obras, por parte del Ayuntamiento, quien procederá a notificarlo al Registro Público de la Propiedad y del Comercio que corresponda.
 
-I. Otorgar una estancia digna, adecuada a sus necesidades y de preferencia en el propio domicilio, a menos de que obre decisión contraria del adulto mayor o exista prescripción médica que lo desaconseje;
+###### ARTICULO 235.
 
-II. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
+Son infracciones cuya responsabilidad corresponde a los encargados del Registro Público de la Propiedad y del Comercio, Notarios y en general a los servidores públicos investidos de fe pública:
 
-III. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de los adultos mayores;
+I. Autorizar documentos, contratos, convenios, escrituras o minutas que contravengan lo dispuesto en los Programas, Declaratorias, Decretos o Resoluciones Administrativas relativas al desarrollo urbano en el Estado;
 
-IV. Contribuir a que se mantengan productivos y socialmente integrados;
+II. Proporcionar los informes o documentos a que se refiere la fracción anterior, con datos alterados o falsificados;
 
-V. Allegarse de elementos de información y orientación gerontológica;
-
-I (sic). Proporcionarles asistencia permanente y oportuna;
-
-II. Evitar conductas que supongan discriminación, aislamiento y malos tratos;
-
-III. Abstenerse de fomentar prácticas de indigencia y mendicidad en los adultos mayores;
-
-IV. Gestionar lo conducente ante las autoridades judiciales o administrativas competentes para la realización de actos jurídicos que beneficien los intereses del adulto mayor; y
-
-V. Los demás que establezcan a su cargo las disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 235.
-
-Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+III. Cooperar con los infractores o facilitarles en cualquier forma la violación a las disposiciones de la presente Ley, y demás disposiciones reglamentarias.
 
 ## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
@@ -2663,41 +2933,63 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 236.
+###### ARTICULO 236.
 
-Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adultos mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.
+Los servidores públicos responsables de las infracciones previstas en el artículo anterior, serán sancionados conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, y los Fedatarios Públicos responsables de las infracciones señaladas en el artículo anterior, serán sancionados por el Ejecutivo del Estado conforme a lo estipulado en la Ley del Notariado del Estado de Baja California y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 237.
 
-###### Artículo 237.
+Son infracciones cuya responsabilidad corresponde a los servidores públicos:
 
-Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de la población de adultos mayores.
+I. Autorizar o dar curso a documentos, contratos o convenios que contravengan lo dispuesto en esta Ley y reglamentos, a los Planes y Programas, Declaratorias, Decretos y Resoluciones Administrativas relativas al Desarrollo Urbano de la Entidad;
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+II. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan, revelar los datos confidenciales o aprovecharse de ellos; y,
 
-###### Artículo 238.
+III. Exigir a los particulares, bajo el título de colaboración u otra semejante, cualquier prestación pecuniaria o de otra índole no prevista en esta Ley y demás disposiciones relativas.
 
-Es un deber de la sociedad propiciar la participación de los adultos mayores en la vida social, reconociendo y estimulando la formación de asociaciones, consejos y organismos, con funciones de apoyo, asesoría y gestión en cuestiones comunitarias, particularmente en las relacionadas con el envejecimiento.
+###### ARTICULO 238.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+Se sancionará a los responsables señalados en el artículo anterior, de acuerdo a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-###### Artículo 239.
+### CAPITULO SEGUNDO. De las Medidas de Seguridad y Sanciones
 
-Los organismos públicos y los privados no lucrativos dedicados a la atención de adultos mayores, tendrán derecho a recibir apoyo, asesoría y capacitación por parte de las autoridades competentes a las que el presente ordenamiento se refiere. Además, gozarán de los incentivos fiscales que se fijen anualmente en las leyes de ingresos del estado y los municipios.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 239.
 
-###### Artículo 240.
+El Ejecutivo del Estado, a través de la Secretaría así como las Autoridades Municipales correspondientes, tendrán a su cargo la vigilancia del cumplimiento de las disposiciones de esta Ley y demás disposiciones relativas; para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan.
 
-Corresponde a los grupos de la sociedad civil organizada de adultos mayores, participar de manera coordinada y concertada con el Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco a través de sus diversos organismos.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 240.
 
-###### Artículo 241.
+Para los efectos de esta Ley, se consideran medidas de seguridad, la adopción y ejecución de las disposiciones que, con apoyo en sus preceptos, dicten las autoridades del Poder Ejecutivo del Estado y los Ayuntamientos en sus respectivas jurisdicciones, encaminadas a evitar los daños que puedan causar las instalaciones, las construcciones y las obras tanto públicas como privadas. Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
-Los establecimientos que presten servicio a los adultos mayores deberán habilitar personal capacitado y espacios adecuados para proporcionar al senescente un trato digno y estancia cómoda, dándole preferencia en su atención.
+La Coordinación Estatal o las autoridades municipales competentes en materia de protección civil cuando exista el convenio correspondiente, desempeñarán la función de inspección y verificación en lo relativo a construcciones, establecimientos, instalaciones y análogas, dedicadas al almacenamiento, distribución y venta al público de gas licuado de petróleo, a fin de que estas cumplan con lo dispuesto en la Ley de Protección Civil y Gestión de Riesgos del Estado, así como con las Normas Oficiales Mexicanas, los reglamentos municipales y disposiciones en materia de seguridad industrial, operativa y de protección ambiental.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+Las Direcciones de Administración Urbana o análogas de los municipios, realizarán las verificaciones e inspecciones correspondientes, a fin de emitir las recomendaciones técnicas necesarias, y en caso de detectar irregularidades; darán vista a la Unidad de Protección Civil Municipal que corresponda, y aplicarán las medidas de seguridad y sanciones respectivas.
+
+Además de lo anterior, las Direcciones de Administración Urbana o análogas de los municipios deberán atender las resoluciones de los inspectores de las autoridades competentes en materia federal, para dar el debido cumplimiento a la normatividad aplicable dentro del ámbito de su competencia.
+
+En el supuesto de que los particulares impidan el desahogo de las inspecciones señaladas en el presente artículo, los inspectores podrán solicitar auxilio de la fuerza pública para que se lleve a cabo la inspección.
+
+###### ARTICULO 241.
+
+Se consideran como medidas de seguridad:
+
+I. La suspensión de trabajos y servicios;
+
+II. La clausura temporal o definitiva, total o parcial de las instalaciones, construcciones y obras públicas o privadas;
+
+III. La desocupación o desalojo de inmuebles;
+
+IV. La demolición de construcciones;
+
+V. El retiro de las instalaciones;
+
+VI. La prohibición de uso del inmueble;
+
+VII. Cualesquiera otra que tienda a lograr los fines expresados en el artículo anterior.
 
 ## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
@@ -2707,59 +2999,41 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 242.
+###### ARTICULO 242.
 
-Los programas a favor de los adultos mayores, comprenderán, entre otras, las siguientes acciones:
+Las sanciones administrativas podrán consistir en:
 
-I. Integración de clubes de la tercera edad;
+I. Clausura temporal o definitiva, total o parcial de las instalaciones, las construcciones y de las obras y servicios;
 
-II. Bolsa de Trabajo;
+II. Multa de 1 a 500 veces el salario mínimo vigente en la región respectiva, y tratándose de inmuebles, hasta el 10% de su valor;
 
-III. Asistencia legal;
+III. Demolición de las construcciones efectuadas en contravención de los Planes y Programas de Desarrollo Urbano, así como de las disposiciones de esta Ley y demás disposiciones relativas;
 
-IV. Albergues permanentes y provisionales;
+IV. Revocación de las autorizaciones, permisos o licencias otorgadas.
 
-V. Asistencia médica integral;
+###### ARTICULO 243.
 
-VI. Capacitación para el trabajo;
+En las disposiciones reglamentarias de esta Ley, se determinarán los casos y el procedimiento en que deberán de ser aplicadas las medidas de seguridad, así como la imposición de sanciones, tomando en cuenta la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
 
-VII. Turismo, recreación y deporte;
+###### ARTICULO 244.
 
-VIII. Investigación gerontológica;
+Si las circunstancias así lo exigen, podrá imponerse simultáneamente al infractor las sanciones y las medidas de seguridad que correspondan, sin perjuicio de la responsabilidad penal, civil o administrativa en que incurra.
 
-IX. Orientación familiar;
+### CAPITULO TERCERO. De la Defensa de los Particulares
 
-X. Servicios culturales; y
+###### ARTICULO 245.
 
-XI. Programas de descuentos de bienes, servicios y cargas hacendarias.
+Contra las resoluciones dictadas por la aplicación de esta Ley y sus reglamentos, procederá el recurso de revocación, el cual deberá ser presentado por escrito dentro del término de 10 días hábiles siguientes a la notificación del acto impugnado, y ante la autoridad que hubiese emitido la resolución recurrida.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 246.
 
-###### Artículo 243.
+Procede el recurso de revocación:
 
-Los asilos, estancias o centros de rehabilitación, públicos o privados, velarán por el mejoramiento físico y moral de los senescentes a su cuidado.
+I. Contra los actos de las autoridades que determinen y ejecuten las medidas de seguridad previstas en esta ley y que el promovente estime improcedentes o inadecuadas;
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+II. Contra los actos de las autoridades que impongan las sanciones a que ésta Ley se refiere y que el interesado estime indebidamente fundadas y motivadas; y,
 
-###### Artículo 244.
-
-Los adultos mayores tendrán derecho a todas aquellas acciones respectivas que sobre asistencia social lleve a cabo el Estado para fomentar en ellos y en la sociedad en general una cultura de integración, dignidad y respeto.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 245.
-
-Tendrán derecho a una capacitación equitativa, en la cual se desarrollen sus aptitudes intelectuales, afectivas, sociales y físicas, dirigidas a continuar con su realización personal, que los oriente a continuar con su vida digna, logrando al mismo tiempo un pleno conocimiento de sí mismo y mantener su propio desarrollo de conciencia, en el cual considere su estado social y lo asimile de una manera propositiva.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 246.
-
-Para la salvaguarda de los intereses patrimoniales de los adultos mayores, son incapaces de adquirir por testamento otorgado por el adulto mayor, el dueño, administrador, representante, o cualquier persona física vinculada laboralmente con el asilo donde habite, si durante su estancia en dicho lugar hizo su disposición testamentaria; así como el cónyuge, ascendientes, descendientes y hermanos del beneficiario, a no ser que los herederos instituidos sean también herederos legítimos.
-
-Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán heredar de los adultos mayores asilados aunque su disposición testamentaria la hubiere hecho durante su estancia en el lugar a su cargo, siempre y cuando dos representante (sic) del Organismos Estatal den testimonio del acto.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+III.- Contra los actos de las autoridades administrativas que los interesados estimen violatorios de esta Ley, sus Planes y Programas de Desarrollo Urbano, Declaratorias, Decretos o Reglamentos Vigentes.
 
 ## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
@@ -2769,11 +3043,77 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 247.
+###### ARTICULO 247.
 
-En materia de atención a los adultos mayores, el órgano rector del estado será el Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, quien deberá coordinarse con las diversas instituciones de los niveles federal, estatal y municipal cuya línea de acción sea la asistencia de los senescentes.
+Las normas para la substanciación del recurso deberán ser dictadas dentro del reglamento de la presente Ley que elaboren los Ayuntamientos, debiendo establecer no más de dos instancias, su capítulo de suspensión del acto reclamado con las reglas respectivas para su otorgamiento y los términos en que se deba resolver.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor a los 30 días siguientes a su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano del Estado de Baja California publicada en el Periódico Oficial del Estado el 31 de Enero de 1977; los reglamentos y demás disposiciones derivadas de la Ley que se abroga, continuarán surtiendo sus efectos en todo aquello que no se opongan a esta Ley y hasta que se expidan los nuevos reglamentos que emanen de la misma.
+
+###### ARTICULO TERCERO.
+
+Las autorizaciones de fraccionamientos, subdivisiones y relotificaciones expedidas por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado con anterioridad a la vigencia de esta Ley, de los planes y declaratorias, podrán continuar en los términos que fueron concedidas.
+
+Las autorizaciones o licencias de construcción otorgadas con anterioridad a la vigencia de la presente Ley, concluirán conforme a la autorización que las ampara.
+
+###### ARTICULO CUARTO.
+
+Las solicitudes de licencias, permisos y autorizaciones para fraccionamientos, subdivisiones, relotificaciones y edificaciones que se encuentren en trámite ante la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, serán cumplimentadas por ésta última, aplicándole la presente Ley en todo lo que le beneficie al promovente.
+
+###### ARTICULO QUINTO.
+
+Los fraccionadores que hubieran iniciado o realizado una acción sin la autorización correspondiente, tendrán un plazo de 90 días a partir de la entrada en vigor de esta Ley, para que soliciten su regularización a la autoridad que corresponda; transcurrido este tiempo se harán acreedores a las sanciones que para el caso señala esta Ley y las demás disposiciones reglamentarias.
+
+###### ARTICULO SEXTO.
+
+Se disuelve la Comisión Coordinadora de los Planes de Desarrollo Urbano constituida durante la vigencia de la ley que se abroga, y en su caso los estudios y asuntos que se estén realizando serán turnados a la Comisión Coordinadora de Desarrollo Urbano del Estado.
+
+###### ARTICULO SEPTIMO.
+
+La Comisión Coordinadora de Desarrollo Urbano a que se refiere esta Ley, expedirá su Reglamento en un plazo no mayor de 45 días contados a partir de su primera sesión.
+
+DADO en el Salón de Sesiones Lic. Benito Juárez García del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los dieciséis días del mes de junio de mil novecientos noventa y cuatro.
+
+FRANCISCO JAVIER REYNOSO NUÑO
+
+DIPUTADO PRESIDENTE
+
+LUIS MERCADO SOLIS
+
+DIPUTADO SECRETARIO
+
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA, PUBLIQUE, OBSERVE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+
+MEXICALI, BAJA CALIFORNIA, A LOS VEINTIDOS DIAS DEL MES DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CUATRO.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. ERNESTO RUFFO APPEL.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+C.P. FORTUNATO ALVAREZ ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor a partir de los tres días siguientes de su publicación en el Periódico Oficial del Estado
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado ordenará que en la elaboración de los programas sectoriales a nivel estatal y regional, se contengan las acciones tendientes a la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos que requiera la población discapacitada para su ejecución en todo el Estado, en los términos que establecen las presentes reformas.
+
+P.O. 6 DE NOVIEMBRE DE 1998.
 
 ###### Artículo 248.
 
@@ -2881,94 +3221,162 @@ El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
+### CAPITULO TERCERO. De la Zonificación Urbana
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
+### CAPITULO CUARTO. Del Derecho de Preferencia en Zonas de Reserva Territorial
+
+### CAPITULO QUINTO. De la Ejecución de Programas y Cumplimiento de las Declaratorias
+
+### CAPITULO SEXTO. De la Tierra para el Desarrollo Urbano y la Vivienda
+
+### CAPITULO PRIMERO. Disposiciones Generales
+
 ## TRANSITORIOS
 
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco".
+LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-Artículo Segundo.- Se abroga la Ley sobre el Sistema Estatal de Asistencia Social, contenida en el decreto número 13114, publicado en el periódico oficial "El Estado de Jalisco" el 5°. de marzo de 1988, así como todas sus reformas y adiciones.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 572 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL CAPÍTULO TERCERO BIS, QUE COMPRENDE LOS ARTÍCULOS 212 BIS Y 212 BIS 1 A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
 
-Artículo Tercero.- Se abroga la Ley Orgánica del Instituto Jalisciense de Asistencia Social, contenida en el decreto número 7432, publicada en el Periódico oficial "El Estado de Jalisco" del 8 de marzo de 1988, así como todas sus reformas y adiciones.
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Cuarto.- Se abroga la Ley Orgánica de la Beneficencia Privada, contenida en el decreto número 2292, publicado en el Periódico oficial "El Estado de Jalisco" del día 9 de agosto de 1923, así como todas sus reformas y adiciones.
+P.O. 13 DE JULIO DE 2018.
 
-Artículo Quinto.- Se abroga la Ley Orgánica del Patronato de Promotores Voluntarios del Estado de Jalisco, contenida en el decreto número 9758, publicado en el Periódico oficial "El Estado de Jalisco", del día 4 de marzo de 1978.
+###### ARTICULO UNICO.
 
-Artículo Sexto.- Se abroga la Ley Orgánica del Instituto Cabañas contenida en el decreto número 10362, publicada en el Periódico Oficial "El Estado de Jalisco", del 5. de febrero de 1981.
+Este Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
 
-Artículo Séptimo.- Se abroga la Ley para Fomentar la Donación Altruista de Alimentos en Jalisco contenida en el decreto número 15520, publicado en el Periódico Oficial "El Estado de Jalisco" del 8. de noviembre de 1994.
+P.O. 17 DE AGOSTO DE 2001.
 
-Artículo Octavo.- Las instituciones de asistencia social privada ya existentes quedarán sujetas a las disposiciones del presente Código.
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Artículo Noveno.- Las asociaciones o fundaciones establecidas con anterioridad a la vigencia de este ordenamiento, deberán sujetarse a lo dispuesto por éste y cumplir con los requisitos señalados en artículos precedentes, para recibir los beneficios de la misma, en un plazo que no exceda de treinta días hábiles posteriores a la entrada en vigor del presente Código.
+SEGUNDO.- El Poder Ejecutivo del Estado, adecuará la reglamentación en materia de Fraccionamientos a fin de incorporar las medidas normativas establecidas por el presente decreto.
 
-Artículo Décimo.- Los integrantes de los órganos del Organismo Estatal, del Instituto y del Instituto Cabañas que ejerzan el cargo el día en que entre en vigor el presente decreto, podrán continuar en el cargo siempre que cumplan con los requisitos que este Código establece.
+TERCERO.- Los gobiernos Municipales del Estado, en sus respectivos ámbitos de competencias, concertarán con los fraccionadores o promotores inmobiliarios de viviendas de interés social o popular, en sus jurisdicciones territoriales, sobre la previsión de viviendas destinadas para discapacitados en los términos de este decreto, de acuerdo a los mínimos o máximos que acuerde la autoridad municipal.
 
-Artículo Décimo Primero.- Los Reglamentos correspondientes a las leyes y decretos que se abrogan continuarán en vigor en lo que no se opongan al presente Código, en tanto se expiden los nuevos reglamentos, mismos que deberán expedirse dentro de los ciento ochenta días siguientes a la fecha de entrada en vigor del presente Código. Así mismo los reglamentos de las nuevas instituciones a que se refiere el presente Código, deberán expedirse dentro del mismo término.
+P.O. 28 DE FEBRERO DE 2003.
 
-Artículo Décimo Segundo.- En tanto no entre en funciones la Procuraduría Social, las que le corresponden de acuerdo a este Código, continuarán bajo la competencia de los órganos e instituciones que actualmente las desarrollan, de conformidad a lo establecido por el artículo Octavo Transitorio del Decreto 16541 que reforma y adiciona diversos artículos de la Constitución Política del Estado de Jalisco.
+###### ARTÍCULO ÚNICO.
 
-Artículo Décimo Tercero.- La convocatoria expedida por el titular del Ejecutivo para recibir propuestas para la integración del Consejo de Familia, deberá realizarse en dos periódicos de mayor circulación en el Estado a más tardar el 15 de febrero de 1998, y se deberá anexar a la propuesta un resumen curricular del candidato y de las razones que se tienen para su proposición. El día 30 de abril deberá quedar instalado el Consejo.
+Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Artículo Décimo Cuarto.- Para la nominación y aprobación de los miembros del Consejo Estatal de Familia por primera vez, se establecerá en el nombramiento cuáles de los cinco Consejeros se aprueban para un período de dos años y cuáles por un período de cuatro años.
+P.O. 28 DE DICIEMBRE DE 2009.
 
-Artículo Décimo Quinto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Salón de Sesiones del Congreso del Estado
+P.O. 18 DE FEBRERO DE 2011.
 
-Guadalajara, Jalisco, 11 de Diciembre de 1997
+PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Diputado Presidente
+SEGUNDO.- En un plazo de 90 días a partir del día en que inicie su vigencia las presentes reformas, los Ayuntamientos deberán adecuar su marco jurídico reglamentario.
 
-Raúl Eduardo Vargas de la Torre
+TERCERO.- Todos los procedimientos que se hayan iniciado antes de la vigencia de las presentes reformas y que no se encuentren concluidos, se regirán conforme a las disposiciones con los que se iniciaron.
 
-Diputado Secretario
+P.O. 25 DE MAYO DE 2012.
 
-Daniel Gutiérrez Amezcua
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-Diputado Secretario
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
 
-Leonel Sandoval Figueroa
+P.O. 22 DE JUNIO DE 2012.
 
-En mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los doce días del mes de enero de mil novecientos noventa y ocho.
+P.O. 22 DE MARZO DE 2013.
 
-El C. Gobernador Constitucional del Estado
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Ing. Alberto Cárdenas Jiménez
+P.O. 24 DE MAYO DE 2013.
 
-El C. Secretario General de Gobierno
+DECRETO NÚMERO 453, POR EL QUE SE APRUEBAN LAS REFORMAS A LAS FRACCIONES I, III Y VI DEL PÁRRAFO QUINTO DEL ARTÍCULO 117 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA.
 
-Lic. Raúl Octavio Espinoza Martínez
+PRIMERO.- Las presentes reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+SEGUNDO.- En un término que no exceda de 60 días, el Poder Ejecutivo del Estado y los Ayuntamientos harán las modificaciones a sus respectivos reglamentos.
 
-P.O. 21 DE JULIO DE 1998.
+DECRETO NÚMERO 452, POR EL QUE SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTICULO 114 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA.
 
-ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+P.O. 24 DE MAYO DE 2013.
 
-P.O. 21 DE SEPTIEMBRE DE 1999.
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+P.O. 2 DE AGOSTO DE 2013.
 
-P.O. 9 DE DICIEMBRE DE 1999.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
 
-PRIMERO. El presente decreto entrará en vigor 30 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+P.O. 20 DE MARZO DE 2015.
 
-SEGUNDO. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar a que se refiere el artículo 196 de la ley, deberá integrarse dentro de los 30 días naturales a partir de la entrada en vigor de la Ley.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-TERCERO. El reglamento del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar deberá expedirse dentro de los 30 días siguientes de su integración.
+P.O. 27 DE MARZO DE 2015.
 
-CUARTO. El Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar deberá aprobarse dentro de los 60 días siguientes a la integración del Consejo.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-P.O. 16 DE DICIEMBRE DE 1999.
+P.O. 21 DE AGOSTO DE 2015.
 
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 23 DE DICIEMBRE DE 1999.
+P.O. 30 DE SEPTIEMBRE DE 2016.
 
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUATER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
 
-P.O. 5 DE OCTUBRE DE 2000.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-ÚNICO.- Este decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 347 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NO. 36 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO CUARTO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el día después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos del Estado contarán con un plazo de treinta días para dejar sin efecto cualquier normatividad que se haya aprobado para reglamentar la prohibición aquí suprimida.
+
+P.O. 12 DE FEBRERO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 180 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 223, 224, 226, 227 Y 230 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279 MEDIANTE EL CUAL SE APRUEBA DIVERSAS REFORMAS A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Los permisos y licencias de uso de suelo y edificaciones que conforme a la presente reforma sean considerados de impacto estatal, que hayan sido iniciados con anterioridad a la entrada en vigor de la presente reforma, y que no hayan sido resueltos por la autoridad municipal, deberán contar con el dictamen técnico de congruencia.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del plazo de tres meses contado a partir de la entrada en vigor de la presente reforma, la Secretaría realizará reuniones de coordinación y supervisión con las autoridades municipales en materia de desarrollo urbano para coordinar la implementación de la presente reforma realizando las gestiones necesarias para el efecto de subsanar las irregularidades que detecten en materia de autorizaciones de otorgamiento de permisos y licencias de uso de suelo y edificaciones en las zonas agrícola, pecuaria, agropecuaria, forestal y ambiental.
+
+P.O. 6 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 260 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 26 Y 146 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y los Municipios deberán realizar las gestiones necesarias para la actualización de sus portales institucionales, contando con un plazo de 180 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 129 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 9, 38, 39, 106 TER, 106 TER 1, 106 TER 2 Y 159 DE LA LEY DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO DIVERSAS REFORMAS A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos deberán ajustar su reglamentación dentro de los tres meses siguientes al inicio de su vigencia de esta Reforma.
+
+TERCERO.- Los procedimientos relacionados con la autorización de proyectos ejecutivos de acciones de urbanización en trámite al inicio de la vigencia de este decreto se sustanciarán conforme a las normas vigentes al momento de la presentación de la solicitud a que se refiere el artículo 172 de la Ley de Desarrollo Urbano del Estado de Baja California.
