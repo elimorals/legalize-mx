@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-03-02"
+last_updated: "2002-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1697,8 +1697,6 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
-### CAPITULO V. DE LA ADOPCION
-
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 A) DISPOSICIONES GENERALES
@@ -1768,6 +1766,8 @@ IV.- El Ministerio Público en todos los casos.
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+
+### CAPITULO V. DE LA ADOPCION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -2301,7 +2301,9 @@ VI.- Los que tengan sesenta años cumplidos;
 
 VII.- Los que tengan a su cargo otra tutela o curaduría;
 
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del Juez, no están en aptitud de desempeñar convenientemente la tutela.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2002)</small>
+
+VIII.- Toda persona en la que se advierta, que por su falta de ilustración, por su inexperiencia en los negocios o por otra causa igualmente grave a criterio del Juez, no se encuentran en aptitud de desempeñar convenientemente la tutela.
 
 489.- Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
 
@@ -10206,3 +10208,7 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Corresponde a los Oficiales del Registro Civil de las cabeceras municipales de más de 75,000 habitantes llevar a cabo la tramitación del Divorcio Administrativo.
+
+P.O. 9 DE MARZO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
