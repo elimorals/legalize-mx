@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1998-01-02"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1998.
-
-> <small>N. DE E. LAS CUOTAS Y TARIFAS DE LA PRESENTE LEY, ACTUALIZADAS EN TERMINOS DE LO DISPUESTO POR EL ARTICULO 3 DE LA MISMA Y PUBLICADAS EN EL P.O. DEL 2 DE ENERO DE 1998, ESTARAN VIGENTES DEL 1o. DE ENERO HASTA EL 31 DE DICIEMBRE DE 1998.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -1805,17 +1803,23 @@ Los documentos relativos a los servicios de control vehicular serán entregados 
 
 La falta de pago oportuno de los derechos a que se refieren las fracciones I, III, IV, V y VI del artículo 118 de esta ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 84], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 124.
 
-Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en este Capítulo con sus obligaciones de control vehicular, y por consecuencia no cuenten con tarjeta de circulación vigente, no podrán circular en el Estado.
+Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en este Capítulo, con sus obligaciones fiscales de control vehicular, y por consecuencia no cuenten con tarjeta de circulación vigente, amparada con el engomado correspondiente, serán sujetos a los procedimientos económicos coactivos previstos en la legislación aplicable en el Estado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 85], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 125.
 
-Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán impedir la circulación o embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación en vigor, requiriendo de ser necesario el auxilio de la fuerza pública hasta en tanto el contribuyente cumpla con el pago de los derechos a que se refiere esta Sección, independientemente de las sanciones a que se haya hecho acredor.
+Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación actualizada por el engomado correspondiente, cuando se incumplan las obligaciones fiscales de control vehicular en dos ejercicios fiscales consecutivos, siguiendo para ello los procedimientos legales correspondientes.
+
+Si el contribuyente, en la diligencia de embargo, se niega a ser depositario del vehículo con todas las obligaciones inherentes a la depositaría judicial que contemple el Código de Procedimientos Civiles, o durante la diligencia omite o se niega a manifestar su aceptación de la referida depositaria, no obstante ser informado de ese derecho, el vehículo quedará bajo la depositaria de la autoridad fiscal, en el lugar que ésta designe para su guarda, corriendo el contribuyente con los gastos que se originen por este concepto.
+
+En los supuestos del párrafo anterior, si es necesario, la autoridad fiscal podrá requerir el auxilio de la fuerza pública para el traslado del vehículo al lugar designado por aquélla.
+
+Si antes de que se agote el procedimiento económico-coactivo, el contribuyente cumple con el pago de los derechos a que se refiere esta Sección y los recargos correspondientes, o conviene con las autoridades fiscales el cumplimiento de su adeudo, se levantará el embargo que se hubiere practicado sobre su vehículo.
 
 ###### ARTICULO 126.
 
@@ -2728,3 +2732,9 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE ENERO DE 1998.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 23 DE ENERO DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación el (sic) Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a estas reformas.
