@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1971-03-19"
+last_updated: "1972-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1972.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -3422,6 +3422,14 @@ Se equipara al delito de fraude y se sancionará con prisión de 6 meses a 6 añ
 
 Si el beneficio se logra como consecuencia de una promesa falsa, se duplicarán las sanciones.
 
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1972)</small>
+
+ARTICULO 389 bis.- Comete delito de fraude el que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. Este delito se sancionará aún en el caso de falta de pago total o parcial.
+
+Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
+
+Este delito se sancionará con las penas previstas en el artículo 386 de este Código, con la salvedad de la multa mencionada en la fracción tercera de dicho precepto, que se elevará hasta cincuenta mil pesos.
+
 ###### ARTICULO 390.
 
 Son aplicables al fraude los artículos 377 y 378.
@@ -3739,6 +3747,12 @@ II.- Por los delitos cometidos en los consulados mexicanos o en contra de su per
 ###### ARTICULO 3o.
 
 Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 11 DE ENERO DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
