@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1996-07-27"
+last_updated: "1996-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -361,19 +361,97 @@ Las autoridades competentes, al otorgar permisos para la explotación de espect�
 
 Garantizarán preferentemente el pago de este impuesto, los bienes muebles, el equipo y las instalaciones, que se utilicen para el desarrollo de la actividad gravada.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 H.- Es objeto de este impuesto la obtención de premios por concepto de la participación en loterías, rifas, sorteos y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que acredite la participación en el evento de que se trate, hubiera sido enajenado y/o cobrado en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 A.- Están obligados al pago del Impuesto por la Prestación del Servicio de Hospedaje las personas físicas y las morales que en el Estado de Colima presten servicios de hospedaje a cambio de una contraprestación.
+
+Para los efectos de este impuesto se consideran servicios de hospedaje, los siguientes:
+
+I.- El alojamiento o albergue temporal de personas en hoteles y moteles.
+
+II.- La prestación de servicios mediante el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea sobre una sola unidad o sobre una diversidad de unidades a opción del prestatario, durante un período específico, a intervalos previamente establecidos, determinados o determinables.
+
+III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 B.- Es base para el cálculo de este impuesto el valor total de la contraprestación pactada a favor de quien preste el servicio, incluyendo depósitos y anticipos, así como las cantidades que se carguen o cobren a quien reciba el servicio por intereses normales o moratorios, penas convencionales, mantenimiento, cuotas ordinarias, extraordinarias o por administración, gastos de toda clase, otros impuestos y cualquier otro concepto inherente a los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 C.- Los contribuyentes efectuarán la retención del impuesto en el momento que perciban el importe de las contraprestaciones, aplicando a la base señalada en el artículo anterior, la tasa del 2%, y deberán enterarlo mensualmente mediante declaración que presentarán ante la Receptoría de Rentas correspondiente en las formas oficiales aprobadas para el efecto, a más tardar el día 15 del mes siguiente a aquel en que se perciban dichas contraprestaciones.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluídos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares y no desglosen el importe de estos últimos, se entenderá que el valor de la contraprestación corresponde a servicios de hospedaje.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 E.- Para los efectos de este impuesto se entiende que los servicios de hospedaje se prestan en el Estado de Colima, siempre que por lo menos uno de los bienes objeto de los mismos se encuentre dentro de su territorio.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 F.- Los contribuyentes de este impuesto tendrán además de las señaladas en otros artículos, las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+
+II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
+
+III.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la autoridad y en la forma señalada en la fracción I.
+
+IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto, que les sean solicitados dentro del plazo que para ello se fije.
+
+V.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+
+VI.- Llevar los libros o registros y expedir documentación comprobatoria de las operaciones gravadas, de conformidad con las disposiciones fiscales federales correspondientes.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 G.- La Secretaría de Finanzas podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+
+I.- Cuando los contribuyentes no registren en la contabilidad cada una de las percepciones gravadas;
+
+II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, registros y demás documentos que la integran o no proporcione la información que legalmente le exija la Secretaría de Finanzas; y
+
+III.- Cuando se imposibilite por cualquier medio el conocimiento de las operaciones realizadas por servicios objeto de este impuesto.
+
 ### CAPITULO I. Disposiciones Generales
 
 ### CAPITULO II. De los servicios prestados por la Secretaría General de Gobierno
 
 ### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
 
-### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
-
-### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
-
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO VI. Servicios Prestados por la Secretaría de Educación, Cultura y Deporte
+### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
 
 ###### Artículo 42.
 
@@ -401,7 +479,7 @@ Cuando no se llenen los requisitos legales para el otorgamiento del permiso, con
 
 El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
 
-### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
+### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
 
 ###### Artículo 48.
 
@@ -435,9 +513,9 @@ VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.350
 
 IX.- Por certificados, por expedición de constancias y otros documentos 1.350
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
-X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 3.500
+X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 2.000
 
 XI. Por autorización de Registros Extemporáneos 1,350
 
@@ -460,6 +538,26 @@ XVII.- Complementación de actas del Registro Civil 1,000
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 1996)</small>
 
 XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+XIX.- Por la autorización y registro correpondiente (sic) para prestar servicios privados de seguridad 68.000
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+XX.- Por la revalidación anual de los servicios privados de seguridad 25.000
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 2.000
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+XXII.- Aviso de la utilización del permiso ante la Secretaría de Relaciones Exteriores 2.000
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+XXIII.- Certificado de nacionalidad 2.000
 
 ###### Artículo 49.
 
@@ -595,267 +693,195 @@ Por los servicios prestados en la Dirección General de Prevención y Readaptaci
 
 I.- Por la expedición de certificado de no antecedentes penales. 0.900
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 52.
 
-Por los servicios prestados en la Dirección del Registro Público de la Propiedad y el Comercio.
+Por los servicios prestados en la Dirección del Registro Público de la Propiedad y del Comercio.
 
-Numero de días de salarios mínimos
+Número de días de salario mínimo
 
-I.- Registro Publico de la Propiedad.
+I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre el de operación, el catastral y el de avalúo bancario actualizados:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
 
-a).- Examen de todo documento público o privado que se presente al Registro para su inscripción, cuando se rehuse éste por ser inscribible o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial 1.619
+b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 8.000
 
-b).- Por inscripción o registro de títulos, ya se trate de documentos públicos o privados, contratos de arrendamiento, resoluciones judiciales, administrativas, o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles, sobre el valor más alto entre operación y traslado de dominio, se cobrará:
+c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 12.000
 
-1.- Cuando el valor sea menor de 3.814 días de salario mínimo 5.000
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.4%, sin que el mínimo sea inferior a 25.000
 
-2.- Cuando el valor esté entre los 3.815 y 4.964 días de salario mínimo 8.000
+II.- Por la inscripción de contratos de fideicomiso de cualquier tipo, sobre el valor de los bienes fideicomitidos que resulte mayor entre el de operación, el catastral y el de avalúo bancario actualizados, se cobrará:
 
-3.- Cuando el valor esté entre los 4.965 y 6.116 días de salario mínimo 12.000
+a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
 
-4.- Cuando el valor base sea mayor a 6.116 días de salario mínimo, el 0.4% sin que el mínimo sea menor de 25.000
+b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 8.000
 
-5.- Cuando el valor no pueda precisarse 3.149
+c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 12.000
 
-6.- Por la inscripción de la escritura constitutiva al régimen de propiedad en condominio cuando en la escritura no se especifique valor, sino únicamente el número de departamentos, lotes, viviendas, casas o locales del inmueble, se pagará por cada de éstos
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.4%, sin que el mínimo sea inferior a 25.000
 
-Si en la escritura constitutiva se consigna valor se causará la tasa del 0.4% sobre dicho valor 3.779
+III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, sobre el monto total de las rentas pactadas durante el período de vigencia del contrato, se pagará la tasa del 0.4%, sin que el mínimo sea inferior a 5.000
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o garantía, el 0.4%, sin que el mínimo sea inferior a 5.000
 
-7.- Por cancelación de hipotecas, créditos, convenios modificatorios, gravámenes en general y limitación de dominio 3.149
+Si el gravamen afecta propiedades inmuebles ubicadas también en otras entidades federativas, el derecho a pagar será proporcional al valor de los inmuebles ubicados en el Estado. Cuando no se conozca el valor o la proporción real de éstos, la base para la determinación del derecho será el valor catastral actualizado de los inmuebles gravados ubicados en el Estado de Colima, en cuyo caso se aplicará la tasa del 0.6%.
 
-c).- Por la inscripción de la escritura constitutiva del capital social o de los aumentos del mismo, se pagará la tasa del 0.4% sin que el mínimo sea menor de 5.000
+V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se causará la tasa del 0.4%, sin que el mínimo sea inferior a Para las sucursales de las sociedades se tomará como base el capital asignado a ellas 5.000
 
-d).- La inscripción de cualquier modificación a la escritura constitutiva de Sociedades Civiles, exceptuando el aumento de capital social 3.149
+VI.- Por la inscripción de la escritura constitutiva de sociedades o asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se cobrará el 0.4%, sin que el mínimo sea inferior a 5.000
 
-e).- La inscripción de las asociaciones de carácter civil, sobre el monto del capital inicial, el 0.4%
+VII.- Inscripción de las modificaciones a la escritura constitutiva de las sociedades o asociaciones de cualquier tipo, que no se refieran a aumento de capital social 5.000
 
-Sin que el mínimo sea menor de 5.000
+VIII.- Inscripción de operaciones de crédito de cualquier tipo celebradas con instituciones de crédito:
 
-Si no se fija capital 5.000
+a).- Cuando el monto de la operación sea hasta el equivalente a 648 días de salario mínimo 1.000
 
-f).- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por resolución judicial o por disposición testamentaria: de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan los derechos reales sobre inmuebles distintos a los de dominio del propietario, y de embargo, cédulas hipotecarias, servidumbres o fianzas, el 0.4% sobre el valor, si (sic) que el mínimo sea menor de 5.000
+b).- Cuando el monto de la operación sea de entre 649 y 1,295 días de salario mínimo 2.000
 
-g).- Por anotación de un segundo o ulterior testimonio de cualquier acto jurídico 3.149
+c).- Cuando el monto de la operación esté entre los 1,296 y 1,943 días de salario mínimo 3.000
 
-h).- La inscripción de títulos de propiedad de bienes o derechos que modifiquen, aclaren o disminuyan el capital o sólo sean consecuencia legal de contratos que causaren derechos de registro y que otorguen por las mismas partes que figuran en el primer título, sin aumentar el capital ni transferir derechos, así como ampliaciones de embargo 3.689
+d).- Cuando el monto de la operación sea de entre 1,944 y 2,591 días de salario mínimo 4.000
 
-i).- Si en el nuevo título a que se refiere el inciso anterior se aumenta el capital o se transfiere algún derecho, se aplicará la tasa del 0.4% sobre el importe del aumento, sin que sea menor, de 5.000
+e).- Cuando el monto de la operación esté entre 2,592 y 3,814 días de salario mínimo 5.000
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+f).- Cuando el monto de la operación esté entre 3,815 y 4,964 días de salario mínimo 8.000
 
-j).- Las operaciones crediticias a que se refiere el artículo 66, fracción I de la Ley de Instituciones de Crédito, se cobrará, por una sola vez:
+g).- Cuando el monto de la operación esté entre los 4,965 y 6,477 días de salario mínimo 12.000
 
-1.- Cuando el monto de las operaciones sea hasta por el equivalente a 648 días de salario mínimo 1.000
+h).- Cuando el valor de la operación sea mayor al equivalente de 6,477 días de salario mínimo, se pagará sobre el monto del crédito, el 0.25%
 
-2.- Cuando el monto de la operación esté entre los 649 y 1,295 días de salario mínimo 2.000
+i).- Por los créditos de habilitación o avío destinados a fines agropecuarios o de pesca, se pagará el 50% de lo que resulte de conformidad con los incisos anteriores, sin que se pague menos del equivalente a 1.000
 
-3.- Cuando el monto de la operación esté entre los 1,296 y 1,943 días de salario mínimo 3.000
+j).- Cuando se trate de reestructuración de créditos, el derecho a pagar se calculará sobre el total del crédito reestructurado, deduciendo del resultado el derecho pagado cuando se inscribió el crédito original
 
-4.- Cuando el monto de la operación esté entre los 1,944 y 2,591 días de salario mínimo 4.000
+k).- Además de los derechos de inscripción que correspondan de acuerdo con los incisos anteriores, se pagará por cada anotación que se requiera realizar para inscribir las garantías 1.000
 
-5.- Cuando el monto de la operación esté entre los 2,592 y 3,814 días de salario mínimo 5.000
+IX.- Por la inscripción de la constitución del patrimonio de la familia y de las informaciones ad-perpetuam, se pagará la tasa del 0.4% sobre el valor que resulte mayor entre el catastral y el de avalúo bancario, sin que el mínimo sea sea (sic) inferior a 5.000
 
-6.- Cuando el monto de la operación esté entre los 3,815 y 4,964 días de salario mínimo 8.000
+X.- Inscripción de compraventa de bienes muebles, sobre el valor de la operación, el 0.2%, sin que el importe del derecho sea menor de 5.000
 
-7.- Cuando el monto de la operación esté entre los 4,965 y 6,477 días de salario mínimo 12.000
+XI.- Por la inscripción de fraccionamientos, se pagará por cada lote, de acuerdo con la siguiente clasificación:
 
-8.- Cuando el valor de la operación sea mayor al equivalente de 6,477 días de salario, se pagará sobre el monto del crédito el 0.25%
+a).- Residencial y campestre 3.149
 
-9.- Por los créditos de habilitación o avío destinados a fines agropecuarios o de pesca, se pagará el 50% de lo que resulte de conformidad con los subpuntos anteriores, sin que se pague menos del equivalente a 1.000
+b).- Industrial y granjas 0.900
 
-10.- Cuando se trate de reestructuración de créditos, el derecho a pagar se calculará sobre el total del crédito reestructurado deduciendo del resultado el derecho pagado cuando se registró el crédito original.
+c).- Popular 0.500
 
-k).- La anotación de demandas o cualquier documento judicial que exprese el valor, se aplicará la tasa 0.4% sobre dicho valor sin que el importe del derecho a pagar sea menor de 5.000
+XII.- Inscripción de relotificaciones de fraccionamientos, por cada lote, conforme a la clasificación siguiente:
 
-l).- Las inscripciones de la Constitución del patrimonio de la familia y de las informaciones "Adperpetuam". Se pagará la tasa del 0.4% sobre el valor de la inscripción sin que el derecho sea menor de 5.000
+a).- Residencial y campestre 2.069
 
-m).- La inscripción de testamentos y de constancias relativas a actuaciones de juicios sucesorios, independientemente de los derechos, depósitos y por la inscripción de las transmisiones a que haya lugar 2.069
+b).- Industrial y granjas 0.360
 
-n).- Si se trata de bienes muebles, la inscripción de la condición resolutoria en los casos de venta, de pacto o de reserva de propiedad, de la prenda general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de crédito, la tasa del 0.2% del valor de la inscripción sin que el importe del derecho sea menor de 2.500
+c).- Popular 0.400
 
-ñ).- Por depósito de testamentos ológrafos:
+XIII.- Inscripción de actas de asambleas de socios o de juntas de administradores 3.689
 
-1.- Si se hace en las oficinas del Registro Público 2.069
+XIV.- Inscripción de la disolución y liquidación de sociedades mercantiles:
 
-2.- Si se hace fuera de las oficinas del Registro Público en horas ordinarias 2.069
+a).- Por la disolución 3.689
 
-3.- Si se hace fuera de las oficinas del Registro Público en horas extraordinarias 3.149
+b).- Por la liquidación 3.689
 
-o).- Por el depósito de cualquier documento 2.069
+c).- Por la disolución y liquidación, cuando se hubieran realizado en un solo acto 5.398
 
-La oficina del Registro Público de Propiedad devolverá al depositante los documentos que pretenda depositar, si dentro de los tres días siguientes a su presentación no hubiese cubierto los derechos respectivos
+d).- Si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros, aplicando la tasa del 0.4%, sin que el mínimo sea inferior a 5.000
 
-p).- La inscripción de fraccionamientos de terrenos:
+XV.- Inscripción de la fusión y escición (sic) de sociedades mercantiles:
 
-1.- Por cada lote: Residencia y Campestre 2.069
+a).- Por la fusión, sobre el monto del capital fusionado, el 0.3%, sin que se pague menos de 5.000
 
-Industrial y Granja 0.900
+b).- Por la escición (sic), sobre el monto del capital social de las empresas escindidas, el 0.3%, sin que se pague menos de 5.000
 
-Popular 0.135
+XVI.- Inscripción del otorgamiento de poderes, de la renovación o sustitución de los mismos:
 
-2.- En las relotificaciones, por cada lote:
+a).- Otorgamiento o sustitución de poderes:
 
-Residencial y Campestre 1.080
+1.- Si se designa un solo apoderado 3.689
 
-Industrial y Granja 0.360
+2.- Por cada apoderado adicional que se designe en el mismo documento 1.080
 
-Popular 0.135
+3.- Por cada poderdante, cuando aparezca en el documento más de uno 1.080
 
-Los derechos a que se refiere esta fracción se cobrarán también a los fundos legales que no hubieren cumplido con la manifestación respectiva. Por lo que hace a los fraccionamientos el registro se hará previa autorización de la dependencia a que corresponda y de acuerdo con la ley de la materia.
+b).- Renovación de poderes, por cada apoderado 1.080
 
-q).- Ratificación de documentos y firmas ante al registrador 3.149
+XVII.- Inscripción de contratos de comisión y mediación mercantil, así como de seguros de toda especie 5.000
 
-r).- La búsqueda de constancias por la expedición de certificados o informes, por cada predio, por año 0.180
+XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 2.609
 
-s).- La expedición mecanográfica de certificaciones relativas a las constancias del registro, independientemente de la búsqueda:
+XIX.- Inscripción de modificaciones o rectificaciones de superficie de predios, así como de las medidas y colindancias registradas en el folio o libro correspondiente:
 
-1.- Por la primera hoja 1.619
+a).- Cuando se incremente la superficie, se cobrará la tasa del 0.4% sobre el valor catastral actualizado de la superficie aumentada, sin que el mínimo a pagar sea inferior a 5.000
 
-2.- Por cada hoja más 0.540
+b).- Cuando disminuya la superficie o simplemente se modifiquen las medidas y colindancias 5.000
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+XX.- Por la inscripción de cualquier otro documento distinto a los señalados en las fracciones I a
 
-t).- La expedición de toda clase de constancias en copias fotostáticas de escrituras públicas o privadas, documentos generales y folios reales:
+XIX, sobre el monto de la operación o del valor consignado, se cobrará la tasa del 0.25%, sin que se pague menos de 5.000
 
-1.- Sin certificar:
+XXI.- Examen de cualquier documento público o privado presentado ante la Dirección para su inscripción, cuando se rechace por no ser inscribible 3.149
 
-1.1.- Por la primera hoja 0.400
+XXII.- Anotaciones en folios o libros, por cada una:
 
-1.2.- Por cada hoja más 0.077
+a).- Anotación de un segundo o ulterior testimonio de cualquier acto jurídico 3.149
 
-2.- Certificadas:
+b).- Por la anotación de demandas judiciales 5.000
 
-2.1.- Por la primera hoja 1.080
+c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley del Notariado del Estado de Colima 3.149
 
-2.2.- Por cada hoja más 0.540
+XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación 3.149
 
-u).- Por los informes que se rindan por escrito a solicitud de las autoridades cuando sea a costa del interesado, incluyendo la búsqueda 1.080
+Si se hubiesen otorgado en garantía varios inmuebles ubicados en un mismo fraccionamiento para una misma operación de crédito, a partir de la segunda cancelación el derecho a pagar será de 1.000
 
-v).- La cancelación del registro de sociedades civiles por extinción de las mismas, la tasa del 0.2% sobre el valor de la cancelación sin que el mínimo sea
+XXIV.- Cancelación del registro de sociedades civiles, sobre el monto del capital social en la fecha de la cancelación, la tasa del 0.2%, sin que el mínimo sea inferior a 3.149
 
-inferior a 2.500
+XXV.- Depósito de cualquier documento:
 
-w).- La Cancelación de las inscripciones en los casos a que se refiere el inciso n) causará la tasa del 0.2% sobre el valor de la cancelación, sin que el importe del derecho sea inferior a 2.500
+a).- Si se depositan directamente en las oficinas de la Dirección 5.000
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+b).- Por recibir el depósito fuera de las oficinas de la Dirección en horas ordinarias o extraordinarias 8.000
 
-x).- Búsqueda de informes y certificaciones, por cada lote, finca o predio 2.500
+En el caso del inciso b), deberán cubrirse adicionalmente los gastos de traslado y demás que se generen.
+
+XXVI.- Ratificación de documentos y firmas ante el registrador 5.000
+
+XXVII.- Atención de consultas de particulares sobre existencia o inexistencia de inscripciones en el Registro sin expedición de constancia impresa, por cada consulta 0.600
+
+XXVIII.- Expedición de certificados, informes y constancias:
+
+a).- Búsqueda de documentos para la expedición de certificados o informes, por cada predio, por año 0.180
+
+b).- Expedición de certificados de existencia o inexistencia de gravámenes:
 
 1.- De uno a diez años anteriores 2.069
 
 2.- De once a más años anteriores 2.609
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+3.- Además de las cuotas señaladas en los incisos anteriores, se pagará por cada gravamen o limitación de dominio inscrito 0.310
 
-3.- Además de la cuota, por cada gravamen, hipoteca, convenio modificatorio o limitación de dominio 0.310
+c).- Expedición de certificados de no inscripción de propiedad 1.619
 
-4.- De no inscripción:
+d).- Expedición de constancias de registro, independientemente de la búsqueda 1.619
 
-4.1.- Cuando el valor de la propiedad sea hasta el equivalente a 6.116 días de salario mínimo 1.000
+e).- Expedición mecanografiada de constancias de registro, por cada hoja escrita hasta por ambas caras 2.069
 
-4.2.- Cuando el valor de la propiedad sea mayor al equivalente a 6.116 días de
-
-salario mínimo 3.149
-
-y).- Impresión de informes a solicitud del interesado por hoja 1.080
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
-
-z).- Ratificación de documentos y firmas ante el registrador 3.149
-
-1.- En fotostáticas hasta tamaño oficio 0.540
-
-2.- Hasta cuatro veces el tamaño oficio 0.765
-
-3.- Mayores de éstos 1.080
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
-
-zz).- Constancias a que se refieren las disposiciones sobre asentamientos, cada una 1.080
-
-II.- Registro Público de Comercio:
-
-a).- Examen de todo documento público o privado que se presente al registro para su inscripción, cuando se rehuse éste por no procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial 1.619
-
-b).- Inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de capital social sobre el monto de capital social o de los aumentos, se pagará la tasa del 0.4%, si el mínimo sea inferior a
-
-En las sociedades de capital variable se tomará como base el capital inicial. Para las sucursales de las sociedades se tomará como base el capital asignado
-
-a ellas 5.000
-
-c).- Inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social 3.689
-
-d).- Inscripción de actas de asambleas de socios o de junta
-
-de administradores 3.689
-
-e).- Depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles 2.609
-
-f).- Inscripción de actas de emisión de bonos y obligaciones de sociedades anónimas, se pagara el 0.6% del valor de la emisión sin que el mínimo sea inferior a 8.000
-
-g).- Inscripción de la disolución de sociedades mercantiles 3.689
-
-h).- Inscripción de la liquidación de sociedades mercantiles 3.689
-
-i).- Inscripción de la disolución y liquidación de sociedades mercantiles, cuando se lleve a efecto en un solo acto 5.398
-
-En los casos de este inciso y de los dos que lo anteceden si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros aplicando la tasa del 0.4% sin que el mínimo (sic) inferior a 5.000
-
-j).- Cancelación de la inscripción del contrato de sociedad 2.609
-
-k).- Inscripción de poderes y sustitución de los mismos:
-
-1.- Si se designa un solo apoderado 3.689
-
-2.- Por cada apoderado más que se designe en el mismo poder 1.080
-
-3.- Por cada poderdante, cuando aparezca en los poderes más de uno 1.080
-
-El otorgamiento de poderes a los administradores o gerentes de sociedades mercantiles en las escrituras constitutivas o modificatorias no causarán las cuotas de esta fracción
-
-l).- Inscripción o renovación de poderes, por cada apoderado 1.080
-
-m).- Inscripciones relativas a: habilitación de edad, licencias y emancipación para ejercer el comercio. La renovación de unos y otros y las escrituras a que se refieren las fracciones X y XI del artículo 21 del Código de Comercio 1.80
-
-n).- Inscripción de contratos mercantiles de cualquier clase enumerados en el artículo 75 del Código de Comercio, sobre el valor, 1.5%
-
-ñ).- Por inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 2.609
-
-o).- Depósito y guarda de cualquier documento 1.080
-
-p).- Ratificación de documentos y firmas ante el registrador 3.149
-
-Tratándose de planos, causarán las siguientes tarifas:
-
-1.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
-
-2.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
-
-3.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
-
-q).- (DEROGADO, P.O. 24 DE DICIEMBRE DE 1994)
-
-r).- La expedición de toda clase de constancias en copia fotostática certificada:
+f).- Expedición de constancias en copias fotostáticas certificadas:
 
 1.- Por la primera hoja 1.080
 
-2.- Por cada hoja más 0.135
+2.- Por cada hoja más 0.540
 
-s).- Expedición de certificaciones relativas a constancias del Registro:
+g).- Expedición de copias fotostáticas simples de constancias de registro:
 
-1.- Por la primera hoja 1.080
+1.- Por la primera hoja 0.400
 
-2.- Por cada hoja más 0.135
-
-t).- Impresión de informes a solicitud del interesado por hoja 1.080
+2.- Por cada hoja más 0.077
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO IX. Otros Derechos
+### CAPITULO VI. Servicios Prestados por la Secretaría de Educación, Cultura y Deporte
 
 ###### Artículo 53.
 
@@ -1099,7 +1125,7 @@ VI.- Por modificar registros manifestados erróneamente, a solicitud del interes
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
 
 ###### Artículo 55.
 
@@ -1243,15 +1269,19 @@ más, por cada condominio o parte en que se integre el condominio 35.000
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO UNICO
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
-### CAPITULO UNICO
+### CAPITULO IX. Otros Derechos
 
 ###### Artículo 56.
 
 Por los servicios prestados en la Dirección General de Fomento Agropecuario:
 
 I.- Manutención por cada cabeza de ganado recogido en la vía pública, cada día o fracción que permanezca en los lugares públicos destinados a su encierro. 1.000
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+II.- Por cabeza de ganado recogido de la vía pública y trasladado a los lugares destinados para su encierro 10.000
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -1417,45 +1447,17 @@ V.- Ingreso a la Zona de Bosque 0.045
 
 ###### Artículo 61.
 
-En la Dirección de Regulación Sanitaria se pagarán los derechos por los servicios que proporcionen las autoridades competentes de acuerdo con la Ley Estatal de Salud y su Reglamento, de conformidad a la siguiente tarifa:
-
-Numero de días de salario mínimo
-
-I.- Por la autorización de planos:
-
-a).- Popular y medio, por m2 0.032
-
-b).- Residencia, comercial, industrial y otros, por m2 0.054
-
-II.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993)
-
-III.- Programa de "AGUA LIMPIA" en establecimientos:
-
-asesoría técnica, tratamiento y potabilización de algibes, tinacos y otros depósitos de agua, por m3 de agua 0.450
-
-IV.- Por concepto de análisis por muestra:
-
-a).- Procedente de verificación sanitaria a establecimientos:
-
-1.- Análisis microbiológicos 3.239
-
-2.- Análisis fisicoquímicos 6.300
-
-b).- Por asesoría técnica con toma de 2 a 4 muestras con análisis microbiológico 12.960
-
-c).- En caso de requerir análisis microbiológico de un mayor número de muestras, se ajustará a lo dispuesto en el punto 1 del inciso a) de esta fracción. El punto 2 del inciso a) de esta fracción, invariablemente tendrá el mismo costo por cada muestra a la que se practique análisis fisicoquímico.
-
-V.- Por fotocopiado de documentos de normatividad técnica:
-
-a).- Tamaño carta, cada copia 0.018
-
-b).- Tamaño oficio, cada copia 0.027
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 1996)
 
 ###### Artículo 62.
 
 (DEROGADO, P.O. 27 DE JULIO DE 1996)
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+
+### CAPITULO UNICO
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -1485,7 +1487,11 @@ b).- Por cada hoja más o fracción 0.135
 
 III.- Registro y diligencia de exhortos 0.720
 
-IV.- Copias certificadas de Sentencia de Divorcio 1.350
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+IV.- Copias certificadas de sentencias 1.350
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 64.
 
@@ -1516,8 +1522,6 @@ a).- Por la primera hoja 1.000
 b).- Por cada hoja más o fracción 0.270
 
 II.- Por los servicios de vigilancia e inspección, los contratistas con quienes celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente a 1.5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos correspondientes
-
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -1720,3 +1724,17 @@ UNICO.- El presente Decreto entrará en vigor a los 30 días siguientes de su pu
 P.O. 27 DE JULIO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTICULO SEGUNDO.
+
+Para efectos del cumplimiento de las obligaciones fiscales establecidas en el CAPITULO V, por parte de las personas físicas y morales que vienen realizando las actividades gravadas con anterioridad a la fecha de entrada en vigor del presente Decreto, se considerará ésta como fecha de inicio de operaciones.
+
+###### ARTICULO TERCERO.
+
+Se autoriza al Instituto Colimense de la Juventud y el Deporte, a redondear los importes de las cuotas por derechos, resultantes de la aplicación de las tarifas correspondientes al acceso a las unidades deportivas, ajustándolas a la unidad o media unidad monetaria más próxima.
