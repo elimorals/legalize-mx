@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-deuda-publica-para-el-estado-de-chihuahua-y-sus-10345"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-31"
-last_updated: "1994-12-31"
+last_updated: "2004-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 1994.
 
@@ -255,9 +255,17 @@ Los municipios, mediante la autorización del Ayuntamiento, podrán también cel
 
 Los proyectos de decreto relativos a las solicitudes de crédito de los municipios y de sus Entidades que se mencionan en las fracciones III a V del Artículo 2o. de esta Ley, con la responsabilidad solidaria del Gobierno del Estado serán presentadas ante el Congreso por el municipio respectivo, acompañadas de la autorización a que se refiere el Artículo 31 de esta Ley.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 23.
 
-Los municipios no requerirán de la autorización del Congreso del Estado para la contratación de créditos o empréstitos que puedan pagarse dentro del período administrativo en que se otorguen, en los demás casos será necesaria dicha aprobación.
+Los Ayuntamientos, con la autorización de la mayoría de sus integrantes, podrán contratar créditos o empréstitos que puedan pagarse dentro del período administrativo en que aquellos se otorguen.
+
+Asimismo, podrán contratar créditos o empréstitos que comprometan al municipio por un plazo mayor al del período en funciones, siempre y cuando: el pago de la deuda contraída y sus intereses no exceda del período de las siguientes dos administraciones municipales; medie autorización de por lo menos las dos terceras partes de sus integrantes; el monto pendiente a cargo de las subsecuentes administraciones municipales, no exceda al 10% del presupuesto correspondiente al ejercicio fiscal inmediato anterior al que se hayan celebrado los contratos; y, los recursos que se obtengan se destinen a infraestructura del municipio.
+
+Los Ayuntamientos, no podrán celebrar los actos jurídicos referidos en este artículo, durante los últimos seis meses de la administración municipal en funciones, ni deberán otorgar autorización para que con dichos recursos se cubran adeudos pendientes o para sufragar su gasto corriente.
+
+Los integrantes de los Ayuntamientos correspondientes, serán responsables personal y pecuniariamente de la contravención de este precepto.
 
 ### CAPITULO TERCERO. DE LA CONTRATACION DE CREDITOS
 
@@ -376,3 +384,15 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE FEBRERO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto será remitido al Ejecutivo Estatal para su publicación simultánea en el Periódico Oficial del Estado, con el diverso que reforma el artículo 136 de la Constitución Política del Estado, aprobado en esta misma fecha, una vez que este último haya satisfecho los requisitos previstos en el numeral 202 de dicho cuerpo legal.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor en un plazo de 180 días, contados a partir de su publicación en el Periódico Oficial del Estado.
