@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1964-07-14"
+last_updated: "1964-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 1964.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1964.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -273,11 +273,11 @@ El Congreso no podrá instalarse sin la presencia de más de la mitad del númer
 
 Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1964)</small>
 
 ###### Art. 30.
 
-El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el siete de agosto y terminará el treinta y uno de diciembre.
+El Congreso tendrá cada año dos períodos de sesiones ordinarias. El primer periodo comenzará el 7 de Agosto y terminará el 31 de Diciembre; el segundo comenzará el 1o. de Marzo y terminará el 31 de Mayo.
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -509,7 +509,7 @@ IV.- El secretario general, el procurador general de Justicia, el tesorero gener
 
 El gobernador entrará a ejercer su encargo el 16 de septiembre y no podrá durar en él más de seis años.
 
-El ciudadano que haya desempeñado el cargo de gobernador del Estado, y cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+El ciudadano que haya desempeñado el cargo de gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -1298,3 +1298,7 @@ UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación e
 P.O. 14 DE JULIO DE 1964.
 
 UNICO.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1964.
+
+UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
