@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2003-10-25"
+last_updated: "2004-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -133,6 +133,10 @@ Las niñas, los niños y adolescentes tienen derecho a la vida desde el momento 
 
 Las autoridades correspondientes deberán crear programas para difundir la cultura del respeto a la vida y a la integridad física de las niñas, los niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+La adolescencia debe ser considerada en su justa dimensión, entendiendo que es un periodo de oportunidades para desarrollar conductas y habilidades positivas y permanentes.
+
 ### CAPÍTULO II. Del derecho a la salud
 
 ###### Artículo 8.
@@ -165,9 +169,15 @@ X. Asegurar que tanto los padres, como las niñas, los niños y adolescentes, co
 
 XI. Otorgar cuidados paliativos para liberar a las niñas, los niños y adolescentes enfermos, del dolor evitable, en armonía con el tratamiento de curación;
 
-XII. Promover campañas de atención médica preventiva dirigidas a las niñas, los niños y adolescentes; y
+XII. Promover campañas de atención médica preventiva dirigidas a las niñas, los niños y adolescentes; y (sic)
 
-XIII. Prestar asistencia médica gratuita a las niñas, los niños y adolescentes que se encuentren en circunstancias especialmente difíciles.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XIII. Prestar asistencia médica gratuita a las niñas, los niños y adolescentes que se encuentren en circunstancias especialmente difíciles; y
+
+(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+
+XIV. Prevenir y tratar los trastornos alimenticios en adolescentes.
 
 ### CAPÍTULO III. Del derecho a un ambiente familiar sano
 
@@ -205,6 +215,12 @@ II. Procurar siempre que las niñas, los niños y adolescentes vivan con su fami
 
 III. Cuidar que la distribución de videos, publicaciones impresas y las transmisiones de radio, televisión y espectáculos se realicen sin afectar el sano desarrollo de las niñas, los niños y adolescentes.
 
+(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+
+###### Artículo 13 Bis.
+
+Las niñas, los niños y los adolescentes tienen derecho a que sus padres hablen con ellos de forma oportuna de sus intereses y problemas, motivando el diálogo honesto y respetuoso.
+
 ### CAPÍTULO IV. Del derecho a la educación
 
 ###### Artículo 14.
@@ -215,7 +231,9 @@ I. Respetar su dignidad e integridad como persona en la aplicación de la discip
 
 II. Desarrollar su personalidad, aptitudes, capacidad mental y física hasta el máximo de sus potencialidades;
 
-III. Inculcar el respeto de los derechos humanos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+III. Inculcar el respeto de los derechos humanos y los valores democráticos;
 
 IV. Fomentar el respeto por sus padres, familia, personas mayores, cultura, identidad nacional, idioma y los valores nacionales;
 
@@ -230,6 +248,18 @@ VIII. Conocer, cuidar y respetar su sexualidad de acuerdo a su madurez;
 IX. Inculcar educación cívica y vial; y
 
 X. Procurar el desarrollo de las niñas, los niños y adolescentes pertenecientes a comunidades indígenas, para lo cual será bilingüe e intercultural.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XI. Otorgar una correcta orientación vocacional, para que así puedan elegir la profesión, arte, oficio u opción educativa que cumpla con sus expectativas y virtudes;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XII. Fomentar la participación en las escuelas y en su comunidad; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XIII. Prevenir la discriminación y promover la equidad de género.
 
 Las niñas, los niños y adolescentes que poseen cualidades intelectuales por encima de la media, tienen derecho a una educación acorde a sus capacidades.
 
@@ -282,6 +312,10 @@ I. Difundir entre las niñas, los niños y adolescentes el valor de la toleranci
 II. Difundir la igualdad de derechos entre ambos sexos; y
 
 III. Procurar que las niñas, los niños y adolescentes sean protegidos contra toda forma de discriminación o castigo por causa de la condición, las actividades, las opiniones expresadas o las creencias de sus padres, sus tutores o de sus familiares.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+Las autoridades deberán promover el entendimiento, la no discriminación y la equidad de género entre todas las niñas, los niños y adolescentes.
 
 ### CAPÍTULO VII. Del derecho de prioridad
 
@@ -688,3 +722,9 @@ El Secretario General de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
