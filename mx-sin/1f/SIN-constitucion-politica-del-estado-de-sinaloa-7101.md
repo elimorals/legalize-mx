@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2001-06-20"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2001.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -543,7 +543,9 @@ XV. Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos e
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
-XVII. (DEROGADA, P.O. 29 DE JUNIO DE 1937)
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE JUNIO DE 2001)</small>
+
+XVII. Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -953,55 +955,81 @@ Las faltas temporales de los Secretarios serán suplidas dentro de sus Ramos res
 
 Las Secretarías y demás organismos y dependencias de la Administración Pública Estatal o Paraestatal están constituidos por las dependencias que se establezcan de acuerdo con el Reglamento y Disposiciones Generales que se emitan por el Titular del Poder Ejecutivo, los que fijarán las atribuciones y facultades de los mismos.
 
-#### SECCION II. DEL MINISTERIO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+#### SECCION II. DE LA SEGURIDAD PUBLICA
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
 
 ###### Art. 73.
 
-El Ministerio Público es una institución de buena fe, dependiente del Poder Ejecutivo, con autonomía técnica para realizar las funciones de su competencia.
+La seguridad pública es una función a cargo del Estado y los Municipios, en las respectivas competencias que esta Constitución les señala.
 
-La actuación del Ministerio Público y de su policía auxiliar se regirá por los principios de unidad de actuación, legalidad, protección social, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La seguridad pública tiene como fines salvaguardar la integridad, bienes y derechos de las personas, así como preservar las libertades, el orden y la paz públicos.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+Las autoridades competentes alcanzarán los fines de la seguridad pública mediante la prevención, persecución y sanción de las infracciones y delitos, así como a través de la readaptación social de los delincuentes y el tratamiento de menores infractores.
+
+Las instituciones encargadas de la seguridad pública regirán su actuación por los principios de legalidad, protección social, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+La aplicación de las sanciones por las infracciones a los reglamentos gubernativos y a los bandos de policía y buen gobierno, estará a cargo de las autoridades administrativas.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
 
 ###### Art. 74.
 
-El Ministerio Público tiene a su cargo velar por la legalidad como principio rector de la convivencia social, investigar y perseguir los delitos del orden común, la defensa de los derechos del Estado, participar en los procedimientos que afecten a personas a quienes las leyes otorguen especial protección, así como las facultades y obligaciones establecidas en su Ley Orgánica y otros ordenamientos legales.
+El Estado y los Municipios se coordinarán para establecer un Sistema Estatal de Seguridad Pública, el cual se integrará y funcionará en los términos que la Ley señale.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+La coordinación entre las instituciones de seguridad pública estatales y municipales se hará con absoluto respeto a las atribuciones de cada una de ellas.
+
+La Ley establecerá las bases de organización, funcionamiento y procedimientos de las Policías Preventivas. Asimismo, señalará los requisitos para ser titular e integrante de éstas.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
 
 ###### Art. 75.
 
-El Ministerio Público estará presidido por un Procurador General de Justicia, quién se auxiliará con los Agentes del Ministerio Público y demás personal que determine la Ley Orgánica de la institución, misma que fijará sus respectivas atribuciones y determinará su organización.
+La readaptación social de delincuentes y el tratamiento de menores infractores, estarán a cargo del Poder Ejecutivo Estatal.
 
-Para la investigación de los delitos y persecución de los delincuentes, la Procuraduría General de Justicia contará con un cuerpo policiaco de investigación, que estará bajo el manto directo e inmediato del Ministerio Público.
+El sistema de readaptación social de delincuentes se establecerá en los términos que señale la Ley, sobre la base de la educación, el trabajo y la capacitación para el mismo.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+El tratamiento de menores infractores se basará en la protección del interés superior del menor, preferentemente a través de medidas de contenido educativo y sociopedagógico, en los términos que señale la Ley.
+
+Para lograr la reintegración social de los delincuentes y menores infractores, el Poder Ejecutivo creará los organismos públicos necesarios, procurando la participación de los sectores social y privado.
+
+La Ley precisará los requisitos para ser titular e integrante de los centros e instituciones encargadas de la readaptación social y del tratamiento de menores infractores.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
 
 ###### Art. 76.
 
-El Procurador General de Justicia será designado por el titular del Ejecutivo Estatal, con ratificación del Congreso del Estado o de su Diputación Permanente, según corresponda. El Procurador podrá ser removido por causa justificada por el Ejecutivo. El Subprocurador General y los Subprocuradores Regionales serán nombrados y removidos por el Procurador General de Justicia, previo acuerdo con el Gobernador del Estado. Los Agentes del Ministerio Público y demás Servidores Públicos de la Procuraduría General de Justicia serán nombrados y removidos libremente por el Procurador General de Justicia.
+El Ministerio Público es una institución de buena fe, dependiente del Poder Ejecutivo, con autonomía técnica para realizar las funciones de su competencia.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+Dicha institución tendrá como misión velar por la legalidad como principio rector de la convivencia social, investigar y perseguir los delitos del orden común en los términos que señale la Ley; participar en los procedimientos que afecten a personas a quienes las leyes otorguen especial protección, así como las facultades y obligaciones establecidas en su Ley Orgánica y otros ordenamientos legales.
+
+El Ministerio Público estará presidido por un Procurador General de Justicia, quien se auxiliará con los Agentes y demás personal que determine la Ley Orgánica de la institución, misma que fijará sus respectivas atribuciones y determinará su organización.
+
+Para la investigación de los delitos y persecución de los delincuentes, el Ministerio Público se auxiliará con una policía que estará bajo su autoridad y mando inmediato.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
 
 ###### Art. 77.
+
+El Procurador General de Justicia será designado por el titular del Poder Ejecutivo Estatal, con ratificación del Congreso del Estado o de su Diputación Permanente, según corresponda. El Procurador podrá ser removido por causa justificada por el Ejecutivo. El Subprocurador General y los Subprocuradores Regionales serán nombrados y removidos por el Procurador General de Justicia, previo acuerdo con el Gobernador del Estado. Los Agentes del Ministerio Público y demás servidores públicos de la Procuraduría General de Justicia serán nombrados y removidos libremente por el Procurador General de Justicia.
 
 Para ser Procurador General de Justicia se requiere:
 
 I. Ser ciudadano sinaloense en pleno goce de sus derechos;
 
-II. Ser Licenciado en Derecho con título legalmente expedido;
+II. Ser licenciado en derecho con título legalmente expedido;
 
 III. Tener más de treinta años de edad;
 
 IV. Acreditar ejercicio profesional de diez años, por lo menos;
 
-V. Ser de honradez y probidad notorias; y
+V. Ser de honradez y probidad notorias; y,
 
 VI. No haber sido condenado por delitos dolosos.
 
-El Procurador General de Justicia no podrá desempeñar otro cargo, empleo o comisión por el que perciba emolumentos, excepto de enseñanza, ni litigar mas que en asuntos propios. En caso de incumplimiento a esta disposición, será destituido.
+El Procurador General de Justicia no podrá desempeñar otro cargo, empleo o comisión por el que se perciban emolumentos, excepto de enseñanza, ni litigar más que en asuntos propios. En caso de incumplimiento a esta disposición, será destituido.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
 
@@ -2812,6 +2840,10 @@ En tanto entran en vigor las reformas y adiciones a que se refiere este artícul
 Artículo Tercero.- La integración de los Ayuntamientos, con un Presidente Municipal, Síndicos Procuradores y Regidores, a que se refiere el presente Decreto, será aplicable a los Ayuntamientos que inician su ejercicio constitucional a partir del primero de enero de 2005.
 
 Artículo Cuarto.- El Estado deberá adecuar sus leyes conforme a lo dispuesto en este Decreto a más tardar el treinta de noviembre del año 2001.
+
+P.O. 22 DE JUNIO DE 2001.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
