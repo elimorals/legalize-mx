@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2000-07-24"
+last_updated: "2001-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2001.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -67,6 +67,8 @@ La relación de trabajo, para los efectos de esta Ley, se entiende establecida e
 
 La relación de trabajo entre los organismos públicos descentralizados y sus trabajadores se entiende existente entre ambos, pero en todo caso, el Estado responde subsidiariamente de las obligaciones contraídas con los trabajadores.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 5o.
 
 Para los efectos de esta Ley, los trabajadores se dividirán en cuatro grupos:
@@ -81,27 +83,23 @@ IV.- Trabajadores accidentales.
 
 Son trabajadores de confianza:
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1998)</small>
-
 A).- En el Poder Legislativo, el Oficial Mayor, el Contador Mayor de Hacienda, los Directores de Area, los Jefes de Departamento, los Asesores y Auxiliares de cualquier índole y todo el personal de la tesorería y de la Contaduría Mayor de Hacienda, con excepción de las secretarias;
 
-B).- En el Poder Ejecutivo, el Secretario y Subsecretario Generales de Gobierno; el Tesorero y Subtesorero Generales del Estado; el Secretario y Subsecretario de Administración; el Secretario y Subsecretario de Planeación y Desarrollo Estatal; el Secretario y Subsecretario de Obras Públicas; el Procurador General de Justicia; los Subprocuradores de Investigaciones y Procesos de la Procuraduría General de Justicia; el Secretario Ejecutivo de la Comisión Estatal de Seguridad Pública y Vialidad; el Contralor y Subcontralor General del Estado; el Procurador y Secretario de la Procuraduría de Protección Ciudadana; los Directores y Subdirectores Generales; el Presidente de la Junta Local de Conciliación y Arbitraje; los Secretarios de Acuerdos de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje; el Procurador y Subprocurador del Trabajo; los Agentes del Ministerio Público; los Defensores de Oficio; los Inspectores del Trabajo; los Agentes de la Policía Judicial; los integrantes de los Cuerpos de Vigilancia de los Centros de Readaptación de Varones y de Mujeres, así como del Centro Tutelar de Menores; el Representante del Ejecutivo en la Ciudad de México; los Secretarios Privado y Particular del Gobernador; los empleados al servicio personal del Gobernador; y los Asesores Jurídicos y Administrativos del Gobernador y del Secretario General de Gobierno;
+B).- En el Poder Ejecutivo, el Secretario y Subsecretario Generales de Gobierno; el Tesorero y Subtesorero Generales del Estado; el Secretario y Subsecretario de Administración; el Secretario y Subsecretario de Planeación y Desarrollo Estatal; el Secretario y Subsecretario de Obras Públicas; el Procurador General de Justicia; los Subprocuradores de Investigaciones y Procesos de la Procuraduría General de Justicia; el Secretario Ejecutivo de la Comisión Estatal de Seguridad Pública y Vialidad; el Contralor y Subcontralor General del Estado; el Procurador y Secretario de la Procuraduría de Protección Ciudadana; los Directores y Subdirectores Generales; el Presidente de la Junta Local de Conciliación y Arbitraje; los Secretarios de Acuerdos de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje; el Procurador y Subprocurador del Trabajo; los Agentes del Ministerio Público; los Defensores de Oficio; los Inspectores del Trabajo; los Agentes de la Policía Ministerial; los integrantes de los Cuerpos de Vigilancia de los Centros de Readaptación de Varones y de Mujeres, así como del Centro Tutelar de Menores; el Representante del Ejecutivo en la Ciudad de México; los Secretarios Privado y Particular del Gobernador; los empleados al servicio personal del Gobernador; y los Asesores Jurídicos y Administrativos del Gobernador y del Secretario General de Gobierno;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+C).- En el Poder Judicial, los Magistrados del Supremo Tribunal de Justicia del Estado; los Jueces de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos; el Secretario de Acuerdos del Supremo Tribunal de Justicia del Estado; y los Secretarios de Estudio y Proyectos, Secretarios de Acuerdos, los Actuarios y Notificadores de los Juzgados de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos;
 
-C).- En el Poder Judicial, los Magistrados del Supremo Tribunal de Justicia del Estado; los Jueces de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos; el Secretario de Acuerdos del Supremo Tribunal de Justicia del Estado; y los Secretarios de Estudio y Proyectos, Secretarios de Acuerdos, los Actuarios y Notificadores de los Juzgados de Primeras (sic) Instancia de los Ramos Civil, Penal, Familiar y Mixtos;
-
-D).- En los Municipios, los Regidores, Síndicos, los Delegados Municipales, los Sub-Delegados, los Comisarios, los Jefes de Demarcación, los Jefes de Manzana, el Director de Gobernación, los Directores Generales, los Subdirectores Generales, los Coordinadores, los Directores de Área, los Jefes de Departamento, los Técnicos Profesionales "A" y "B", y los Agentes de Tránsito y de Seguridad Pública;
+D).- En los Municipios, los Regidores, Síndicos, los Delegados Municipales, los Subdelegados, los Comisarios, los jefes de Demarcación, los Jefes de Manzana, el Director de Gobernación, los Directores Generales, los Subdirectores Generales, los Coordinadores, los Directores de Area, los Jefes de Departamento, los Técnicos Profesionales "A" y "B", y los Agentes de Tránsito y de Seguridad Pública;
 
 E).- En los organismos públicos descentralizados, los que se establezcan en la Ley que los crea, en términos de lo dispuesto por la Ley de Entidades Paraestatales del Estado de Aguascalientes.
 
 Además de los anteriores, se consideran como trabajadores de confianza en los tres Poderes, los Municipios y los organismos públicos descentralizados, aquellos que desempeñen funciones de dirección, inspección, vigilancia, fiscalización, auditoría, manejo de fondos y valores, cuando implique la facultad legal de disponer de éstos, control directo de adquisiciones, cuando se tenga la representación de la dependencia o entidad de que se trate, con facultades para disponer sobre adquisiciones y compras, y en general, cuantos desempeñen funciones análogas.
 
-Son trabajadores de base aquéllos que prestan un servicio permanente y necesario para el Estado, Municipio u organismo público descentralizado, en virtud de nombramiento, o por figurar en los (sic) nóminas o listas de raya.
+Son trabajadores de base aquellos que prestan un servicio permanente y necesario para el Estado, Municipio u organismo público descentralizado, en virtud de nombramiento o por figurar en las nóminas o listas de raya.
 
-Son trabajadores temporales aquéllos que siendo de base, únicamente prestan sus servicios en forma uniforme, por temporadas y en períodos fijos.
+Son trabajadores temporales aquellos que siendo de base, únicamente prestan sus servicios en forma uniforme, por temporadas y en períodos fijos.
 
-Son trabajadores accidentales aquéllos que no constituyen una necesidad en el servicio o no requieren de la permanencia en el trabajo y que prestan sus servicios por obra o tiempo determinado.
+Son trabajadores accidentales aquellos que no constituyen una necesidad en el servicio o no requieren de la permanencia en el trabajo y que prestan sus servicios por obra y tiempo determinado.
 
 ###### ARTICULO 6o.
 
@@ -1658,3 +1656,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE JULIO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
