@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1993-12-27"
+last_updated: "1994-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -648,15 +648,23 @@ Los titulares de permisos generales están obligados a conservar, por el términ
 
 Serán sancionados con pena de uno a diez días multa, o por falta de pago con el arresto correspondiente, que en ningún caso excederá de 36 horas.
 
-I.- Quienes posean armas en lugar no autorizado o que no sea su domicilio;
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+
+I.- Quienes posean armas en lugar no autorizado o que no sea su domicilio, salvo las reservadas para el uso exclusivo del Ejército, Armada o Fuerza Aérea;
 
 II.- Quienes posean armas en su domicilio sin haber hecho la manifestación de las mismas a la Secretaría de la Defensa Nacional, o en su caso, sin tener la autorización correspondiente;
 
-III.- Quienes posean armas prohibidas, o de las reservadas para el uso exclusivo del Ejército, Armada o Fuerza Aérea, salvo las excepciones señaladas en esta Ley.
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+
+III.- Quienes posean armas prohibidas, salvo las excepciones señaladas en esta Ley;
 
 IV.- Quienes infrinjan lo dispuesto en el Artículo 36 de esta Ley. En este caso, además de la sanción, se recogerá el arma.
 
 Para los efectos de la imposición de las sanciones a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+En el caso de posesión de armas reservadas para el uso exclusivo del Ejército, Armada o Fuerza Aérea, se estará a lo dispuesto en el artículo 83 de la presente ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -688,11 +696,11 @@ Se suspenderá la licencia de portación de armas destinadas al deporte de tiro 
 
 Se cancelará la propia licencia cuando su tenedor infrinja alguno de los deberes que le señale esta Ley y su Reglamento, o cuando deje de pertenecer al Club o Asociación del que fuere miembro.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 81.
 
-Se aplicarán las sanciones que señala el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, a quienes porten armas sin tener expedida la licencia correspondiente.
+Se sancionará con pena de seis meses a tres años de prisión y de dos a quince días multa, a quien porte armas sin tener expedida la licencia correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -702,17 +710,25 @@ Se impondrá de dos meses a dos años de prisión o de cuatro a cuarenta días m
 
 La transmisión de la propiedad de dos o más armas, o por dos o más veces, sin permiso, se sancionará conforme al artículo 85 de esta Ley.
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 83.
 
-Al que sin el permiso correspondiente porte un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
+Al que sin el permiso correspondiente porte o posea un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
+
+(REFORMADA, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
 
 I.- Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
 
+(REFORMADA, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
 II.- Con prisión de uno a cinco años y de cinco a veinte días multa cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley; y
 
+(REFORMADA, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
 III.- Con prisión de dos a doce años y de diez a cincuenta días de multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
+
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989)(REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 Si la portación de las armas de fuego a que se refiere la fracción III del presente artículo se realizare por un grupo de tres o más personas, la pena correspondiente se aumentará al doble.
 
@@ -897,3 +913,11 @@ PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el 
 TERCERO.- Se derogan:
 
 I.- Los artículos 46 y 47 de la Ley Federal de Armas de Fuego y Explosivos, publicada en el Diario Oficial de la Federación el 11 de enero de 1972; y ...
+
+D.O.F. 22 DE JULIO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
