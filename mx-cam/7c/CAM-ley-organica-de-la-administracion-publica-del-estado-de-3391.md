@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "2000-12-19"
+last_updated: "2003-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -207,7 +207,7 @@ XIV.- Expedir, previo acuerdo del Gobernador, licencias, autorizaciones, concesi
 
 XV.- Tramitar los recursos administrativos que corresponda atender al Gobernador del Estado, cuando no sea de específico y exclusivo conocimiento de otra dependencia;
 
-XVI.- Coordinar los actos jurídicos necesarios para reivindicar la propiedad del Estado, a través de la Procuraduría General de Justicia;
+XVI.- (DEROGADA, P.O. 6 DE JUNIO DE 2003)
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -243,9 +243,9 @@ I.- Proyectar y coordinar la planeación estatal del desarrollo y elaborar, con 
 
 II.- Establecer las normas y conducir las políticas para el diseño e implementación del proceso de planeación, programación y control de las acciones de gobierno;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
 
-III.- Formular, conducir y evaluar la política estatal de Desarrollo Social, y en particular la de Asentamientos Humanos, Desarrollo Regional y Urbano y Vivienda;
+III.- Formular, conducir y evaluar la política estatal de Desarrollo Social;
 
 IV.- Autorizar los programas de inversión pública de las dependencias y entidades de la Administración Pública Estatal; revisar los expedientes técnicos de las obras; gestionar ante la Secretaría de Finanzas la aprobación de los recursos financieros y ejercer la supervisión de los mismos;
 
@@ -305,13 +305,17 @@ IV.- Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos, Decreto
 
 V.- Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y demás de su ramo, aplicables en el Estado;
 
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+V-A.- Requerir y exigir a los particulares la presentación de declaraciones, avisos, manifestaciones y demás documentos a que obliguen las disposiciones fiscales, cuando los obligados no lo hagan en los plazos respectivos y, simultánea o sucesivamente, hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate, o la que resulte de la determinada por la autoridad; practicar el embargo precautorio en bienes o en la negociación del contribuyente; asimismo, requerir a los contribuyentes la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y demás documentos, y dejar sin efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado;
+
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 VI.- Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en toda controversia, procedimiento o juicio de carácter fiscal, estatal o federal que se ventile ante cualquiera autoridad cuando tenga interés la Hacienda Pública del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
 
-VII.- Notificar las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos; así como llevar a cabo el procedimiento administrativo de ejecución en los términos de las Leyes y Convenios vigentes;
+VII.- Emitir y notificar las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos, así como llevar a cabo el procedimiento administrativo de ejecución en los términos de las leyes y convenios vigentes;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
 
@@ -433,9 +437,9 @@ XXXIII.- Expedir y tramitar los nombramientos, remociones, licencias y jubilacio
 
 XXXIV.- Organizar y atender lo relativo a la prestación de servicios médicos, asistenciales, deportivos, culturales, educativos y vacacionales del personal dependiente del Gobierno del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
 
-XXXV.- Administrar y asegurar la operación, conservación y mantenimiento de los bienes muebles e inmuebles del Gobierno Estatal y llevar el control y el inventario correspondiente debidamente actualizado;
+XXXV.- Administrar y asegurar la operación, conservación y mantenimiento de los bienes muebles e inmuebles del Gobierno Estatal y llevar el control y el inventario correspondiente debidamente actualizado, así como coordinar los actos jurídicos necesarios para reivindicar la propiedad del Estado, en coordinación con la Procuraduría General de Justicia y participar en todos los actos jurídicos en los que se involucre una propiedad del Gobierno del Estado;
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
 
@@ -477,6 +481,10 @@ VI.- Ordenar y practicar auditorías y evaluaciones a las Dependencias, Organism
 
 VII.- Verificar el cumplimiento de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, y fondos y valores de propiedad o al resguardo del Gobierno Estatal;
 
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+VII-Bis.- Autorizar, conjuntamente con la Secretaría de Finanzas y Administración, en el ámbito de sus respectivas competencias, las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal y sus modificaciones, así como registrar dichas estructuras para efectos de desarrollo y modernización de los recursos humanos;
+
 VIII.- Opinar sobre los nombramientos y en su caso solicitar la remoción de los titulares de las áreas de control de las dependencias y entidades de la Administración Pública Estatal;
 
 IX.- Proponer y designar a los auditores externos de las entidades del sector paraestatal;
@@ -489,7 +497,13 @@ XII.- Vigilar la debida aplicación de los recursos federales y estatales que ej
 
 XIII.- Vigilar el cumplimiento de las obligaciones adquiridas por proveedores y contratistas con el Gobierno Estatal;
 
-XIV.- Coordinarse con la Contaduría Mayor de Hacienda del Congreso del Estado para la uniformación de criterios y compatibilización de mecanismos de control y evaluación, para el mejor cumplimiento de sus atribuciones;
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XIII-Bis.- Procurar la coordinación interinstitucional permanente en las acciones promotoras de la participación organizada de la ciudadanía en los programas de bienestar social; aportar elementos de juicio para el diseño de las políticas de bienestar social y participar en los órganos de análisis, decisorios y deliberativos de las políticas y programas de bienestar social, estatales y municipales;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XIV.- Coordinarse con la Auditoría Superior del Estado para la uniformación de criterios y compatibilización de mecanismos de control y evaluación, para el mejor cumplimiento de sus atribuciones;
 
 XV.- Recibir y registrar las declaraciones patrimoniales de los servidores públicos estatales y municipales y practicar las investigaciones pertinentes, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche;
 
@@ -661,6 +675,14 @@ IV.- Establecer, con la participación que corresponda a otras dependencias y a 
 
 V.- Promover ante las autoridades competentes, el establecimiento y adopción de instrumentos jurídicos y económicos, así como de estímulos fiscales y financieros, necesarios para la protección, restauración, desarrollo y aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+V-Bis.- Celebrar con la Federación el o los instrumentos jurídicos con el objeto de llevar a cabo la descentralización de funciones y recursos para realizar obras o actividades de competencia federal;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+V-Ter.- Coordinarse con la Federación para llevar a cabo las acciones y funciones en materia forestal, en cumplimiento a lo previsto en la Ley Forestal para el desarrollo, cuando proceda, de programas forestales;
+
 VI.- Vigilar y estimular el cumplimiento de las Leyes, Normas y Programas relacionados con Recursos Naturales y Medio Ambiente, y en su caso imponer las sanciones que procedan, dentro del ámbito de su competencia legal;
 
 VII.- Proponer el establecimiento de áreas naturales protegidas y promover, para su organización, administración y vigilancia, la participación de autoridades estatales y municipales, así como de instituciones de Educación Superior, Centros de Investigación y particulares;
@@ -764,6 +786,10 @@ IV.- Apoyar y coordinarse con el gobierno federal en la promoción de la partici
 V.- Promover la ejecución de obras públicas con financiamiento de la iniciativa privada, y vigilar su ejecución, su concesionamiento y su operación;
 
 VI.- Formular y operar los planes y programas para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+VI-Bis.- Formular, conducir y evaluar la política estatal de Asentamientos Humanos, Desarrollo Regional y Urbano y Vivienda;
 
 VII.- Conservar y ampliar la red de caminos y carreteras estatales a través de la administración y operación de la maquinaria y equipo del Gobierno del Estado;
 
@@ -1018,3 +1044,9 @@ P.O. 19 DE DICIEMBRE DE 2000
 Artículo Primero.- El presente decreto entrará en vigor el día 1 de enero del año 2001, previa su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 6 DE JUNIO DE 2003
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
