@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "1992-04-16"
+last_updated: "1995-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1995.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -131,10 +131,6 @@ La Secretaría de Finanzas estará obligada a proporcionar, a solicitud de la Le
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 10o.
-
-Los casos de duda que surjan con motivo de la aplicación de esta Ley serán resueltos exclusivamente para efectos administrativos por la Secretaría de finanzas.
-
 ###### ARTICULO 10.
 
 Los casos de duda que surjan con motivo de la aplicación de esta Ley serán resueltos exclusivamente para efectos administrativos por la Secretaría de finanzas.
@@ -173,6 +169,10 @@ Las proposiciones de las Entidades se remitirán a través y con la conformidad 
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
 
+###### ARTICULO 16o.
+
+La Secretaría de Finanzas queda facultada para formular el proyecto de Presupuesto de las Entidades cuando estas no lo presenten en el plazo que les fuera señalado.
+
 ###### ARTICULO 16.
 
 La Secretaría de Finanzas queda facultada para formular el proyecto de Presupuesto de las Entidades cuando estas no lo presenten en el plazo que les fuera señalado.
@@ -203,11 +203,11 @@ IX.- Comentarios sobre las condiciones económicas, financieras y hacendarias ac
 
 X.- En general toda la información que se considere útil para mostrar la proposición en forma clara y completa.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 18.
 
-El proyecto del Presupuesto de Egresos del Estado deberá ser presentado oportunamente al Gobernador del Estado, por la Secretaría de Finanzas, para ser enviado al Congreso del Estado a más tardar el día 15 de diciembre del año inmediato anterior al que corresponda.
+El Proyecto de Presupuesto de Egresos del Estado, deberá ser presentado oportunamente al Gobernador del Estado, por la Secretaría de Finanzas y Administración, para ser enviado al Congreso del Estado a más tardar el día 12 de Diciembre del año inmediato anterior al que corresponde.
 
 ###### ARTICULO 19.
 
@@ -291,7 +291,7 @@ La Secretaría de Finanzas examinará y autorizará en su caso los actos y contr
 
 En casos excepcionales y debidamente justificados, la Secretaría de Finanzas podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole, que rebasen las asignaciones presupuestarias aprobadas para una (sic) año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, por lo que hace a su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 32.
 
@@ -548,3 +548,7 @@ En tanto se presenta la oportunidad técnica para la operación de los cambios i
 P.O. 16 DE ABRIL DE 1992.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1995.
+
+UNICOS.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
