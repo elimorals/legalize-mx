@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2005-02-10"
+last_updated: "2005-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2005.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -2113,11 +2113,11 @@ El Sistema Educativo Estatal se constituye por la educación que impartan el Est
 
 En todo tiempo el Ejecutivo del Estado podrá, de acuerdo con lo dispuesto en la Ley reglamentaria, otorgar, negar, revocar o retirar la autorización o el reconocimiento de validez oficial a los estudios efectuados en los planteles particulares.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
 
 ###### Art. 141.
 
-La dirección técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de una dependencia que se denominará Secretaría de Educación, Cultura y Deporte, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
+La Dirección técnica de las escuelas públicas del Estado, de sus municipios y de los organismos descentralizados de ambos, con excepción de las instituciones a las que la ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de la dependencia responsable de la función social educativa; a ésta corresponderá también la vigilancia e inspección de las escuelas particulares del sistema educativo estatal.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -3244,6 +3244,10 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El actual nombramiento de la titular de la Procuraduría General de Justicia del Estado hecho conforme a las disposiciones constitucionales vigentes anteriores al presente Decreto, será sometido a la ratificación del Congreso, el cual deberá resolver dentro de los diez días siguientes; en caso necesario se atenderá, en lo conducente, al procedimiento previsto en el texto reformado del artículo 125 de la Constitución Política del Estado.
+
+P.O. 6 DE ABRIL DE 2005.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
