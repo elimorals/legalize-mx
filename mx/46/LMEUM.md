@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1947-12-31"
+last_updated: "1949-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1949.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -46,29 +46,21 @@ LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
 La unidad del sistema monetario de los Estados Unidos Mexicanos es el “peso”, con la equivalencia que por Ley se señalará posteriormente.
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1949)</small>
 
 ###### ARTICULO 2°.
 
 Las únicas monedas circulantes serán:
 
-a). Los billetes del Banco de México, con las denominaciones que fijen sus Estatutos;
+a). Los billetes del Banco de México, S.A., con las denominaciones que fijen sus Estatutos.
 
-> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 1947)</small>
+b). Las monedas de plata de cinco pesos, con el diámetro, peso, cuño, ley y demás características que señala el Decreto de 11 de septiembre de 1947 publicado en el “Diario Oficial” de la Federación del día 19 de ese mismo mes.
 
-b). Las monedas de plata de cinco pesos, de un peso y de cincuenta centavos con los tamaños, pesos, cuños, ley y demás características que señala el Decreto relativo de esta misma fecha.
+c). Las monedas de plata de un peso, cincuenta centavos y veinticinco centavos, con los diámetros, ley composición del metal de liga, pesos, tolerancias en la ley y peso y cuños que señala el Decreto relativo de esta misma fecha.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1943)</small>
+d). Las monedas fraccionarias de cuproníquel con denominaciones de cinco centavos y diez centavos, con los diámetros, composición de liga metálica, pesos, tolerancias en la composición y peso, y cuños que señala el Decreto delativo (sic) de esta misma fecha.
 
-c). La moneda fraccionaria de bronce con denominación de veinte centavos y el tamaño, peso, cuño, composición y demás características que se establecen en el decreto de 3 de agosto de 1943.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947)</small>
-
-d). La moneda fraccionaria de cuproníquel con denominaciones de cinco y diez centavos, con el tamaño, peso, cuño, composición y demás características que se establecen en el artículo 10 (sic) del Decreto de 26 de marzo de 1936.
-
-> <small>(REFORMADO, D.O.F. 21 DE MARZO DE 1944)</small>
-
-e). La moneda fraccionaria de bronce con denominación de cinco centavos y el tamaño, peso, cuño, composición y demás características que establece el decreto de 28 de diciembre de 1942, así como la moneda fraccionaria de bronce con denominación de un centavo y el tamaño, peso, cuño y demás características indicadas en la ley de 25 de marzo de 1905, pero la liga de esta última moneda será de 95 partes de cobre, 4 partes de zinc y una de estaño.
+e). Las monedas fraccionarias de latón de dos centavos y un centavo, con los diámetros, composición de liga metálica, pesos, tolerancias en la composición y peso, y cuños que señala el Decreto relativo de esta misma fecha.
 
 ###### ARTICULO 2o.
 
@@ -82,19 +74,7 @@ D.O.F. 27 DE ABRIL DE 1935.
 
 ###### ARTICULO 5°.
 
-Las monedas de cinco pesos, de un peso y de cincuenta centavos a que se refiere el artículo 2°. inciso b) de esta Ley, tendrán poder liberatorio limitado a quinientos pesos las primeras y a cien pesos las dos últimas, en un mismo pago.
-
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1947)</small>
-
-Las monedas de veinte centavos a que se refiere el inciso c) del mismo artículo, tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago.
-
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1947) (F. DE E., D.O.F. 7 DE ENERO DE 1948)
-
-Las monedas de cuproníquel de cinco y diez centavos y las de bronce de cinco centavos a que se refieren los incisos d) y e) del artículo 2°. de esta Ley, tendrán poder liberatorio ilimitado a dos pesos en un mismo pago.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
-
-Las monedas de bronce de un centavo a que se refiere el inciso e) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a un peso en un mismo pago.
+Las monedas de cinco pesos, a que se refiere el inciso b) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a $500.00 en un mismo pago; las de un peso, cincuenta centavos y veinticinco centavos a que se refiere el inciso c), tendrán poder liberatorio limitado a $100.00 en un mismo pago; las de cuproníquel de cinco centavos y diez centavos a que se refiere el inciso d), tendrán poder liberatorio limitado a $2.00 en un mismo pago; y las de latón de un centavo y dos centavos a que se refiere el inciso e), tendrán poder liberatorio limitado a $1.00 en un mismo pago.
 
 ###### ARTICULO 6°.
 
@@ -196,7 +176,7 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 1947)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1949)</small>
 
 ###### ARTICULO 5°.
 
@@ -471,6 +451,30 @@ D.O.F. 31 DE DICIEMBRE DE 1947.
 PRIMERO.- Se deroga el Decreto de 29 de diciembre de 1942 en lo relativo a las reformas que introdujo en los artículos 2°., inciso d) y 5°. párrafo tercero de la Ley Monetaria de 25 de julio de 1931, y en cuanto ordenó suspender indefinidamente la acuñación de monedas de cuproníquel de cinco centavos.
 
 SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial".
+
+D.O.F. 30 DE DICIEMBRE DE 1949.
+
+###### ARTICULO PRIMERO.
+
+Desde la fecha en que entre en vigor el presente Decreto dejarán de acuñarse las siguientes monedas: las de plata de un peso establecidas por Decreto de once de septiembre de mil novecientos cuarenta y siete; las de bronce con denominación de veinte centavos establecidas por Decreto de tres de agosto de mil novecientos cuarenta y tres; las de cuproníquel de cinco y diez centavos establecidas por Decreto de veintiséis de marzo de mil novecientos treinta y seis; las de cinco centavos establecidas por Decreto de veintiocho de diciembre de mil novecientos cuarenta y dos y las de un centavo establecidas en la Ley Monetaria de veinticinco de marzo de mil novecientos cinco, reformada por Decreto de veintinueve de febrero de mil novecientos cuarenta y cuatro.
+
+###### ARTICULO SEGUNDO.
+
+Las monedas a que se refiere el artículo que antecede continuarán en circulación con el poder liberatorio que les fijó la Ley de su emisión, en tanto que las emisiones de las monedas que establece el presente Decreto cubran las necesidades de la circulación.
+
+En su oportunidad se fijarán las fechas en que las referidas monedas deban quedar retiradas de la circulación.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Decreto de 11 de septiembre de 1947, publicado en el "Diario Oficial" de la Federación el día 19 de ese mismo mes, en la parte relativa a las características de las monedas de plata de $1.00 y $0.50. Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El Banco de México, S.A., y sus Sucursales, las Oficinas Federales de Hacienda y las de Correos y Telégrafos, canjearán sin limitación alguna, a la par, las antiguas monedas, por las que en substitución de ellas establece el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 3°.
 
