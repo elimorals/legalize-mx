@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-540"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1956-12-31"
-last_updated: "1991-07-17"
+last_updated: "1993-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=540&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1956-12-29"
 
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 31 de diciembre de 1956.
 
@@ -144,6 +144,10 @@ Las obras a que se refiere el artículo anterior quedarán protegidas, aun cuand
 Los arreglos, compendios, ampliaciones, traducciones, adaptaciones, compilaciones y transformaciones de obras intelectuales o artísticas que contengan por sí mismas alguna originalidad, serán protegidos en lo que tengan de originales, pero sólo podrán ser publicados cuando hayan sido autorizados por el titular del derecho de autor sobre la obra de cuya versión se trate.
 
 Cuando las versiones previstas en el párrafo precedente sean de obras del dominio público, aquéllas serán protegidas en lo que tengan de originales, pero tal protección no comprenderá el derecho al uso exclusivo de la obra de cuya versión se trate, ni dará derecho a impedir que se hagan otras versiones de la misma.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+Las compilaciones de datos o de otros materiales, legibles por medio de máquinas o en otra forma, que por razones de la selección y disposición de su contenido constituyan creaciones de carácter intelectual, estarán protegidas como tales. Esta protección no se extenderá a los datos o materiales en sí mismos, ni se otorgará en perjuicio de ningún derecho de autor que exista sobre tales datos o materiales.
 
 (REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
 
@@ -273,9 +277,9 @@ Cuando el titular de los derechos de autor muera sin haber transmitido el ejerci
 
 La vigencia del derecho a que se refiere la fracción III del artículo 2o. se establece en los siguientes términos:
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-I.- Durará tanto como la vida del autor y 50 años después de su muerte.
+I.- Durará tanto como la vida del autor y setenta y cinco años después de su muerte.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
@@ -801,15 +805,11 @@ III.- La impresión en forma y color destacados en el disco o fonograma de la si
 
 Para los efectos legales, se considerará fonograma toda fijación exclusivamente sonora de la ejecución de una obra o de otros sonidos.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 81.
 
-Del ingreso total que produzca la explotación de obras del dominio público, se entregará un dos por ciento a la Secretaría de Educación Pública, para los fines a que se refiere la fracción III del artículo 118 de esta ley.
-
-Queda facultada la Secretaría de Educación Pública para determinar los casos de exención, a fin de fomentar actividades encaminadas a la difusión de la cultura general.
-
-La ejecución con fines de lucro de discos o fonogramas del dominio público, se regirá por lo dispuesto en el artículo 80.
+Es libre la utilización de obras del dominio público, con la sola limitante de reconocer invariablemente los derechos a que se refieren las fracciones I y II del Artículo 2o.
 
 > <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
@@ -1555,7 +1555,9 @@ II.- Embargo de aparatos electromecánicos, y
 
 III.- Intervención de negociaciones mercantiles.
 
-Estas providencias serán acordadas por la autoridad judicial, sin que sea menester acreditar la necesidad de la medida, pero deberá otorgarse, en todo caso, la suficiente garantía correspondiente.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+Estas providencias serán acordadas por la autoridad judicial siempre que se acredite la necesidad de la medida y se otorgue garantía suficiente.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -1996,3 +1998,15 @@ Este Decreto entrará en vigor a los treinta días de su publicación en el Diar
 ###### ARTICULO SEGUNDO.
 
 El Reglamento del Registro Público del Derecho de Autor deberá ser expedido dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto. En tanto, permanecerá en vigor lo dispuesto por el artículo 130 de la Ley Federal de Derechos de Autor.
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSAS LEYES RELACIONADAS CON EL TRATADO DE LIBRE COMERCIO DE AMÉRICA DEL NORTE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996.
+
+TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La ampliación del plazo de protección de los derechos de propiedad intelectual a que se refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente Decreto entre en vigor.
