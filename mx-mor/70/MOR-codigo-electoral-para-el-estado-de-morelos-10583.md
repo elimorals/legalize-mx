@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-para-el-estado-de-morelos-10583"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-28"
-last_updated: "2001-10-03"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 28 de noviembre de 1996.
 
@@ -445,7 +445,7 @@ l.- La obligación de observar la Constitución Política de los Estados Unidos 
 
 II.- Las bases ideológicas de carácter político, económico y social que postulen;
 
-III.- La obligación de no aceptar pacto o acuerdo que los sujete o subordine a cualquier organización internacional o que los haga depender de Entidades o Partidos Políticos extranjeros. Así como no solicitar o rechazar en su caso, toda clase de apoyo económico, político y propagandístico proveniente de Entidades, Partidos Políticos u organizaciones extranjeras o de ministros de cualquier religión o secta;
+III.- La obligación de no aceptar pacto o acuerdo que los sujete o subordine a cualquier organización internacional o que los haga depender de Entidades o Partidos Políticos extranjeros. así como no solicitar o rechazar en su caso, toda clase de apoyo económico, político y propagandístico proveniente de Entidades, Partidos Políticos u organizaciones extranjeras o de ministros de cualquier religión o secta;
 
 IV.- La obligación de conducir sus actividades por la vía democrática y por medios pacíficos con estricto apego y respeto al régimen legal del Estado.
 
@@ -697,9 +697,7 @@ La pérdida de registro de un Partido Político no tendrá efectos en relación 
 
 ### CAPITULO VI. DE LOS PROCESOS DE SELECCION INTERNA DE LOS PARTIDOS POLITICOS
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
-
-ARTICULO 58 bis.- Declarado invalido por resolución de la Suprema Corte de Justicia de la Nación.
+ARTICULO 58 bis.- (DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ## TITULO QUINTO. DE LOS DERECHOS, OBLIGACIONES Y PRERROGATIVAS DE LAS ORGANIZACIONES POLITICAS
 
@@ -729,7 +727,7 @@ H) Establecer relaciones con organizaciones y Partidos Políticos extranjeros si
 
 I) Recibir del Instituto Estatal Electoral su constancia de registro;
 
-J) Declarado invalido por resolución de la Suprema Corte de Justicia de la Nación; y
+J).- (DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 K) Los demás que se deriven de este Código.
 
@@ -907,7 +905,7 @@ V.- El Consejo Estatal Electoral aprobará el calendario presupuestal conforme a
 
 VI.- El financiamiento público, en efectivo o en especie, otorgado a cada Partido Político para sus actividades ordinarias le será entregado al representante legalmente acreditado del Partido de que se trate.
 
-De no cumplirse esta disposición el Partido Político será sancionado en el ejercicio de gasto siguiente descontándole porcentaje de prerrogativa que no destinó a estas actividades sustantivas.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 10 DE JULIO DE 2002)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -1049,7 +1047,7 @@ VII.- En su caso, celebrar convenios con las Autoridades Electorales de la Feder
 
 VIII. Garantizar la transparencia de los procesos de plebiscito y referéndum de acuerdo a lo establecido en la Constitución Política del Estado, el presente Código y la Ley de la materia; y
 
-IX.- Declarado invalido por resolución de la Suprema Corte de Justicia de la Nación.
+IX.- (DEROGADA, P.O. 10 DE JULIO DE 2002)
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -1585,7 +1583,7 @@ VI.- Llevar la estadística de las elecciones estatales, así como de los proces
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-VII.- Registrar y turnar al Consejo Estatal Electoral las solicitudes que formulen los ciudadanos que pretendan constituir Partidos Políticos Estatales, y realizar las funciones correspondientes;
+VII-. Registrar y turnar al Consejo Estatal Electoral las solicitudes que formulen los ciudadanos que pretendan constituir Partidos Políticos Estatales, y realizar las funciones correspondientes;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -1901,7 +1899,7 @@ VII.- Las demás que le señale este ordenamiento.
 
 Los Representantes de los Partidos Políticos acreditados ante cada Mesa Directiva de Casilla, tendrán la intervención que este Código señala.
 
-###### ARTICULO 117.
+###### ARTICULO 117
 
 Los Presidentes de las Mesas Directivas de Casilla tienen las atribuciones siguientes:
 
@@ -2031,7 +2029,7 @@ Los Partidos Políticos sólo podrán incluir en la lista de candidatos a Diputa
 
 Los Partidos Políticos podrán registrar lista de candidatos de representación proporcional, siempre y cuando hubiesen obtenido el registro de candidatos a Diputados de mayoría relativa, por lo menos en las dos terceras partes de los Distritos uninominales del Estado.
 
-###### ARTICULO 131.
+###### ARTICULO 131
 
 Corresponde a los Partidos Políticos el derecho exclusivo de solicitar el registro de candidatos a cargo de elección popular.
 
@@ -4636,3 +4634,11 @@ El presente Decreto entrará en vigor el primero de enero de 2001, debiéndose p
 P.O. 3 DE OCTUBRE DE 2001.
 
 UNICA.- Remítase el presente Decreto al Gobernador Constitucional del Estado a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE JULIO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo previsto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Una vez publicado el presente Decreto, comuníquese a la Suprema Corte de Justicia de la Nación, haciendo de su conocimiento el cumplimiento a su resolución.
