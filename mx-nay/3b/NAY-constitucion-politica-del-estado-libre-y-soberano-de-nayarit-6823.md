@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1999-08-21"
+last_updated: "2000-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -529,17 +529,17 @@ III. Crear nuevas Municipalidades y modificar los límites de los ya existentes,
 
 IV. Fijar los límites de las Municipalidades, terminando las diferencias que entre ellos se susciten, sobre las demarcaciones de sus respectivos territorios, salvo que aquellas tengan carácter contencioso.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-V. Crear y suprimir empleos en el Estado, y señalar, aumentar y disminuir las respectivas remuneraciones según las necesidades y con la aprobación del Ejecutivo.
+V. Crear y suprimir empleos en el Estado, y señalar, aumentar o disminuir las respectivas remuneraciones según las necesidades y con la previa aprobación del Ejecutivo. Para ese efecto, la legislatura ordenará, al aprobar el presupuesto de egresos, publicar la retribución que corresponda a los empleos públicos establecidos por la ley. En caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo. Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos del Estado, debiendo éstos rendir cuentas trimestralmente al Congreso acerca de su ejercicio.
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-VI. Fijar anualmente, a propuesta del Gobernador del Estado, los gastos de la Administración Pública y designar las contribuciones que deban imponerse para cubrirlos, así como las ampliaciones y modificaciones que se hicieren necesarias.
+VI. Fijar anualmente, a propuesta que haga el Gobernador durante los primeros quince días del mes de noviembre, los gastos de la administración pública y designar las contribuciones que deban imponerse para cubrirlos, así como las ampliaciones y modificaciones que se hicieren necesarias. Si el Congreso no aprobare el presupuesto o la Ley de Ingresos del Estado, en los términos previstos por esta Constitución, declarará, en su caso, que seguirá vigente el presupuesto y la ley aprobadas para el año anterior, ajustados al índice inflacionario que establezca el Banco de México de ese mismo año, hasta que se apruebe el ejercicio fiscal correspondiente conforme las bases establecidas en la ley
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-VII. Dar la resolución correspondiente, aprobando, reformando o reprobando las Leyes de Ingresos de los Municipios y revisar su cuenta pública.
+VII. Aprobar o reformar, en su caso, las leyes de ingresos de los municipios y revisar su cuenta pública con el apoyo del Organo de Fiscalización Superior del Estado.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
@@ -601,11 +601,17 @@ XXIV. Decretar el desafuero de alguno de sus miembros.
 
 XXV. Expedir Leyes de expropiación por causa de utilidad pública.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1980)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-XXVI. Examinar y aprobar las cuentas de todos los caudales del Estado. La revisión no se limitará a investigar si las cantidades están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar.
+XXVI. Fiscalizar y aprobar las cuentas de todos los caudales del Estado. La revisión no se limitará a investigar si las cantidades están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+
+XXVI-A.- Expedir la ley que regule la organización y atribuciones del Órgano de Fiscalización Superior del Estado, así como emitir la convocatoria para elegir a su titular.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+
+XXVI-B.- Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestión, el desempeño de las funciones del Órgano de Fiscalización Superior del Estado, en términos de la ley.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -713,11 +719,11 @@ Todo proyecto de ley o decreto que fuere desechado por el Congreso, no podrá vo
 
 (DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1941)
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 58.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones que dicte la Legislatura erigida en Gran Jurado, y a las que se refieren a la aplicación de la Ley de Responsabilidades de Servidores Públicos. Tampoco podrá hacerlas a las convocatorias para sesiones extraordinarias que expida el Congreso del Estado o la Diputación Permanente, así como a la Legislación Orgánica del Congreso ni a sus reglamentos, las que no serán vetadas, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
+El Gobernador no podrá hacer observaciones a las resoluciones que dicte la legislatura erigida en Gran Jurado, y a las que se refieren a la aplicación de la Ley de Responsabilidades de Servidores Públicos. Tampoco podrá hacerlas a las convocatorias para sesiones extraordinarias que expida el Congreso del Estado o la Diputación Permanente, así como a la legislación orgánica del Congreso ni a sus reglamentos y a la relacionada con el régimen interno del Órgano de Fiscalización Superior del Estado, las que no serán vetadas, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
 
 ###### Art. 59.
 
@@ -741,7 +747,9 @@ III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Su
 
 Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia a los miembros del Organo Jurisdiccional Electoral, a los Diputados y a los empleados dependientes de la legislatura.
 
-IV. Remover libremente a los empleados de su Secretaría y Contador Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+
+IV. Nombrar provisionalmente y remover a los servidores públicos de la Cámara de Diputados y del Órgano de Fiscalización Superior del Estado, en los términos que señalen las leyes y los reglamentos respectivos.
 
 V. Admitir las renuncias de los funcionarios y empleados nombrados por sí o por el Congreso.
 
@@ -1273,9 +1281,9 @@ Habrá en el Estado una dependencia encargada del servicio de defensoría de ofi
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO.
 
-De la hacienda Pública del Estado.
+De la Hacienda Pública del Estado.
 
 ###### Art. 103.
 
@@ -1295,9 +1303,9 @@ Los defensores de oficio deberán reunir los mismos requisitos que se exigen a l
 
 ## TITULO SEXTO
 
-### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+### CAPITULO SEGUNDO. De la Fiscalización Superior del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 106.
 
@@ -1383,11 +1391,15 @@ El Congreso del Estado determinará por el Código para la Administración Munic
 
 La Hacienda Pública del Estado y de los Municipios, se formará de impuestos, contribuciones, derechos, productos y aprovechamientos diversos que fije la Legislatura del Estado en las respectivas Leyes de Ingresos. En todo caso, las contribuciones que se asignen a los Ayuntamientos, deberán ser suficientes para las necesidades de sus respectivos Municipios, conforme a lo establecido por el Artículo 115 de la Constitución General de la República y quedarán facultados para celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la Administración de esas contribuciones.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ## TITULO SEPTIMO
 
-### CAPITULO UNICO. De la Inviolabilidad y Reformas de esta Constitución
+> <small>(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 116.
 
@@ -1421,31 +1433,39 @@ Para la guarda y distribución de los caudales públicos, habrá una dependencia
 
 El Secretario de Finanzas y los Recaudadores foráneos distribuirán los fondos públicos conforme al Presupuesto de Egresos y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho presupuesto o autorizados por una Ley posterior.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 119.
 
-Para la glosa de las cuentas que deban llevarse en todas las oficinas en que se manejan fondos públicos, habrá una Contaduría General dependiente de la propia Secretaría de Finanzas con el personal que la Ley de Egresos señale.
+Todo empleado de la Secretaría de Finanzas que tuviere manejo de caudales públicos, caucionará competentemente en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
-
-La Contaduría del Estado, tendrá una coordinación estrecha con la Secretaría de la Contraloría del Poder Ejecutivo Estatal que es la Encargada de la Planeación, Organización y Coordinación del Sistema de Control, Evaluación, Vigilancia y responsabilidad administrativa del Ejecutivo Estatal.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 120.
 
-Todo empleado de la Secretaría de Finanzas que tuviere manejo de caudales públicos, le caucionará competentemente en los términos que establezca la Ley.
+El año fiscal queda comprendido del primero de enero al 31 de diciembre, inclusive.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO UNICO. Prevenciones Generales
-
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
+### CAPITULO UNICO. De la Inviolabilidad y Reformas de esta Constitución
 
 ###### Art. 121.
 
-El año Fiscal queda comprendido del primero de Enero al treinta y uno de Diciembre inclusive.
+La fiscalización de los programas y recursos públicos se realizará por el Organo de Fiscalización Superior del Estado, con arreglo a lo dispuesto en la ley de la materia y conforme a las bases siguientes:
+
+I.- Fiscalizará en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos y organismos autónomos, así como el cumplimiento de los objetivos contenidos en los planes y programas gubernamentales.
+
+II.- En los términos de la ley, entregará al Congreso el informe del resultado de la revisión trimestral de la cuenta pública; investigará los actos u omisiones que impliquen irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, de los poderes del Estado, Ayuntamientos y demás organismos autónomos del Estado.
+
+III.- Efectuará visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas.
+
+IV.- Determinará los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, al patrimonio de las entidades descentralizadas y al de los organismos autónomos del Estado, fincando directamente a los responsables las indemnizaciones y sanciones pecuniarias que correspondan, así como promover ante las autoridades competentes las responsabilidades que procedan, presentando las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+
+V.- El Congreso designará titular del Organo de Fiscalización Superior, por el voto de las dos terceras partes de sus integrantes. La ley determinará el procedimiento que al efecto resulte aplicable. Dicho titular durará en su cargo cuatro años, podrá ser ratificado por una sola vez y será removido por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en esta Constitución.
+
+VI.- La ley establecerá los requisitos y procedimientos para la designación y remoción de los demás servidores públicos del Organo de Fiscalización Superior del Estado. Durante el ejercicio de su cargo, incluido el titular, no podrán formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia; y
+
+VII.- Los Poderes del Estado y las autoridades municipales, así como los sujetos de fiscalización, facilitarán los informes y documentos que requiera el Organo de Fiscalización Superior del Estado para el ejercicio de sus funciones.
 
 ###### Art. 121 Bis.
 
@@ -1456,6 +1476,10 @@ El año Fiscal queda comprendido del primero de Enero al treinta y uno de Diciem
 ## TITULO OCTAVO
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO UNICO. Prevenciones Generales
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
 
 ###### Art. 122.
 
@@ -2274,3 +2298,37 @@ P.O. 21 DE AGOSTO DE 1999.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit, con sujeción a los requisitos y procedimientos que establece el artículo 131 de la Constitución Política del Estado de Nayarit.
+
+P.O. 21 DE OCTUBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit, con sujeción a los requisitos y procedimientos que dispone el artículo 131 de la Constitución Política del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La legislatura expedirá, en un plazo no mayor a seis meses contados a partir de la entrada en vigor de este decreto, la Ley Orgánica del Organo de Fiscalización Superior del Estado y su respectivo reglamento.
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor de este decreto, la legislatura hará la designación del titular del Organo de Fiscalización Superior, mediante acuerdo parlamentario suscrito por la Comisión de Gobierno Legislativo, que atenderá a lo siguiente:
+
+I.- Establecerá los requisitos del Titular, ajustándose a las disposiciones previstas en la fracción VI del artículo 121 de la Constitución Política del Estado reformado por el presente decreto;
+
+II.- Fijará el respectivo procedimiento para la designación;
+
+III.- Analizará el o los perfiles curriculares que se estimen procedentes conforme a derecho; y
+
+IV.- La o las propuestas de designación que se sometan a la consideración de la Asamblea Legislativa, serán aprobadas por votación calificada de las dos terceras partes de los integrantes del Congreso.
+
+###### ARTICULO CUARTO.
+
+La Legislatura, por medio de sus órganos internos competentes, determinará la inclusión en el presupuesto de Egresos del próximo ejercicio fiscal, los rangos presupuestales necesarios para garantizar el funcionamiento del Organo de Fiscalización Superior del Estado, considerando los recursos actualmente asignados a la Contaduría Mayor de Hacienda. Dicho presupuesto será revisado y evaluado dentro de los primeros seis meses contados a partir de la entrada en vigor de este decreto.
+
+###### ARTICULO QUINTO.
+
+En tanto se expide la Ley Orgánica del Organo de Fiscalización Superior, se seguirán aplicando las disposiciones normativas contenidas en la Ley Orgánica de la Contaduría Mayor de Hacienda, sujetándose al efecto a las bases estipuladas en el artículo 121 del presente decreto.
+
+###### ARTICULO SEXTO.
+
+A partir de la entrada en vigor del presente decreto el Organo de Fiscalización Superior, desahogará todos los asuntos que a la fecha se encuentren en proceso de revisión y análisis por la Contaduría Mayor de Hacienda.
