@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-feria-nacional-de-la-ciudad-de-zacatecas-873
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-16"
-last_updated: "1983-05-04"
+last_updated: "1994-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FERIA NACIONAL DE LA CIUDAD DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 16 de septiembre de 1981.
 
@@ -61,37 +61,37 @@ Se reafirma la declaración presidencial que eleva a la categoría de Nacional l
 
 Para la administración, funcionamiento y desarrollo de la Feria Nacional de la Ciudad de Zacatecas, se instituye un Patronato que se regirá por la presente Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 3.
 
-El Patronato de la Feria Nacional de Zacatecas, es el Organismo Director de la Feria y se integrará por los Sectores Públicos y Privados que enseguida se mencionan:
+El Patronato de la Feria Nacional de la Ciudad de Zacatecas, es el organismo directivo de la Feria y se integrará por los sectores públicos y privados que enseguida se mencionan:
 
 a) Presidente Consultivo: El Gobernador Constitucional del Estado;
 
-b) Presidente Ejecutivo: El Presidente del Municipio de Zacatecas, y;
+b) Presidente Ejecutivo: La persona que presida el Sistema Estatal para el Desarrollo Integral de la Familia en el Estado; y
 
 c) Vocales:
 
-1. El Director General de Finanzas y Tesorería del Estado;
+1. El Secretario de Planeación y Finanzas del Gobierno del Estado;
 
-2. El Director General de Administración;
+2. El Oficial Mayor de Gobierno del Estado;
 
-3. El Director General de Programación y Fomento Económico;
+3. El Secretario de Desarrollo Económico del Gobierno del Estado;
 
-4. El Jefe del Departamento de Turismo;
+4. El Secretario de Educación y Cultura del Gobierno del Estado;
 
-5. Un Representante de la Unión Ganadera Regional;
+5. Un representante de la Unión Ganadera Regional;
 
-6. Un Representante de la Cámara de la Industria de la Transformación;
+6. Un representante de la Cámara Nacional de la Industria de la Transformación;
 
-7. Un representante de la Cámara de Comercio de Zacatecas;
+7. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo de Zacatecas;
 
-8. El Coordinador Federal de Servicios Turísticos en el Estado;
+8. El Delegado en el Estado de la Secretaría de Turismo;
 
-9. El Director de Educación y Servicios Sociales;
+9. Un representante del H. Cabildo Municipal de Zacatecas;
 
-10. Los de auxiliares que se estimen necesarios para el cumplimiento de determinadas funciones que decida el propio Patronato.
+10. El número de auxiliares que se estimen necesarios para el cumplimiento de determinadas funciones que decida el propio Patronato.
 
 ###### ARTICULO 4.
 
@@ -123,27 +123,27 @@ El Patronato, designará a las personas que deban integrar el COMITE ORGANIZADOR
 
 13. Coordinador de Comités para la elección de reina.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 5.
 
 El Patronato tendrá como finalidades esenciales:
 
-a) La organización y funcionamiento de la feria;
+a) La organización y funcionamiento de la Feria;
 
-b) Apoyo a los programas de beneficio colectivo que realice el municipio de la capital;
+b) Apoyo a los programas sociales que realice el Sistema Estatal para el Desarrollo Integral de la Familia
 
-c) Apoyo a instituciones oficiales que concurran directa o indirectamente al cumplimiento de una justicia social integrada.
+c) El auxilio a personas afectadas en casos de siniestro.
 
 ###### ARTICULO 6.
 
 El Patronato podrá ser renovado total o parcialmente en cuanto las necesidades de la Propia Feria lo exijan y siempre en beneficio de la misma, por acuerdo expreso del Presidente Consultivo, que cumplirá en sus términos el Presidente Ejecutivo.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 7.
 
-El Patronato exigirá la rendición de cuentas a quienes administren las cuestiones económicas de la feria, para que las rindan los primeros 30 días siguientes a la conclusión de la misma al H. Ayuntamiento del Municipio de Zacatecas, remitiéndose el duplicado de la documentación al Ejecutivo del Estado. El Ayuntamiento podrá ordenar, cuando lo estime pertinente la práctica de auditorías para perfeccionar la vigilancia que le corresponde del manejo de los fondos pecuniarios de la feria, sin perjuicio de lo dispuesto por el artículo 8 de esta Ley.
+El Patronato exigirá la rendición de cuentas a quienes administren las cuestiones económicas de la Feria, para que las rindan durante los primeros treinta días siguientes a la conclusión de la misma al Sistema Estatal para el Desarrollo Integral de la Familia.
 
 ### CAPITULO II. FACULTADES DEL PATRONATO
 
@@ -285,31 +285,33 @@ d) Las demás que señale esta Ley. (sic)
 
 Los terrenos y las construcciones existentes en el espacio asignado a la Feria Nacional de la Ciudad de Zacatecas, forman parte del Patrimonio del Estado, el cual cuidará de normalizar la situación jurídica correspondiente a la propiedad de los bienes muebles e inmuebles que integran las instalaciones de la Feria.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 21.
 
-Los edificios, instalaciones y mobiliario que integran el complejo de la Feria Nacional de la ciudad de Zacatecas, no podrán ser entregados en arrendamiento, usufructo o cualquier otra forma de posesión, administración, mantenimiento y desarrollo del mismo, sino que el municipio se considera como institución capacitada para cumplir los fines de la propia feria.
+Los bienes muebles, inmuebles, instalaciones y derechos que integran el complejo de la Feria Nacional de la Ciudad de Zacatecas, serán usufructuados y administrados por el Sistema Estatal para el Desarrollo Integral de la Familia.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 22.
 
-El Estado y el Municipio, celebrarán los contratos o convenios que sean necesarios para determinar las condiciones en que deba desarrollarse el usufructo y administración de los bienes muebles e inmuebles que pertenezcan a la Feria Nacional.
+El Estado y el Sistema Estatal para el Desarrollo Integral de la Familia celebrarán los contratos o convenios que sean necesarios para determinar las condiciones en que deba desarrollarse el usufructo y administración de los bienes muebles e inmuebles a que se refiere este Capítulo.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 23.
 
-El mantenimiento y conservación de dichas instalaciones, queda a cargo de la Dirección General de Planeación y Desarrollo Urbano del Estado, para lo cual deberá firmarse el convenio respectivo.
+El mantenimiento y conservación de los bienes muebles e inmuebles así como las instalaciones a que se refiere el Artículo 21, queda a cargo de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas y Oficialía Mayor respectivamente, del Gobierno del Estado.
 
 ###### ARTICULO 24.
 
 El Patronato administrará los ingresos provenientes de subsidios Federales, Estatales y Municipales, destinados a la Feria o al mantenimiento y conservación de los edificios e instalaciones de la misma. Asimismo los ingresos provenientes de instituciones privadas, los donativos que hagan los particulares y los fondos que se recaben por la aplicación de cuotas a los expositores participantes en la feria.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 25.
 
-Los fondos a que se refieren los artículos anteriores serán aplicados por el Ayuntamiento de la Capital en la prestación de los servicios que le correspondan a la comunidad, y que tiendan al cumplimiento de fines sociales, sometiéndose a la consideración del Patronato el Plan correspondiente. En caso de desastre, el Patronato podrá decidir que se apliquen esos ingresos en el auxilio de damnificados en el Estado de Zacatecas.
+Los fondos que se obtengan de la administración de los bienes y derechos de la Feria Nacional de la Ciudad de Zacatecas, se integrarán al patrimonio del Sistema Estatal para el Desarrollo Integral de la Familia, previo al pago de las erogaciones correspondientes que tenga que hacer el Patronato. Los fondos siempre se aplicarán íntegramente a obras de beneficio social, sometiéndose a la consideración del Patronato el Plan Social respectivo. En casos de desastre en alguna región del Estado de Zacatecas el Patronato podrá decidir libremente la aplicación de esos ingresos en el auxilio y apoyo de los damnificados.
 
 ###### ARTICULO 26.
 
@@ -345,23 +347,23 @@ Todo los cargos que impliquen el desempeño de actividades específicas, señala
 
 INSTALACIONES Y ESPACIOS LIBRES
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 32.
 
-Ninguna empresa o negocio privados, cualquiera que sea su naturaleza, podrá utilizar el espacio libre de la Feria para anunciarse sino mediante autorización escrita del Presidente Municipal de la Capital.
+Ninguna empresa o negocio privados, cualquiera que sea su naturaleza, podrá utilizar el espacio libre de la feria para anunciarse sino mediante autorización escrita del Patronato.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 33.
 
-Ninguna empresa privada o negocio particular, cualquiera que sea su naturaleza, podrá efectuar actos, festejos o espectáculos en instalaciones o terrenos de la Feria, sino mediante autorización escrita del Presidente Municipal.
+Ninguna empresa privada o negocio particular, cualquiera que sea su naturaleza, podrá efectuar actos, festejos o espectáculos en instalaciones o terrenos de la Feria, sino mediante autorización escrita del Patronato.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 34.
 
-El Presidente Municipal fijará las cuotas que deban cubrirse por el uso de espacios de la Feria por empresas o negocios particulares en los términos de los artículos que anteceden.
+El Patronato fijará las cuotas que deban cubrirse por el uso de espacios de la Feria por empresas o negocios particulares.
 
 ###### ARTICULO 35.
 
@@ -371,29 +373,29 @@ La misma autorización a que se refiere el artículo 32, deberá solicitarse y o
 
 La violación de los artículos relativos a la celebración de actos mediante autorización expresa, traerá como consecuencia la suspensión inmediata de los mismos, a más de la imposición de una sanción pecuniaria de mil a diez mil pesos, que se hará efectiva por conducto de la Dirección General de Finanzas y Tesorería.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 37.
 
-La Dirección de Planeación y Desarrollo Urbano deberá ser consultada para la instalación de un puesto de exhibición o de algún espectáculo público.
+La Secretaría de Planeación y Finanzas deberá ser consultada para la instalación de los puestos de exhibición o de algún espectáculo público.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 38.
 
-La Presidencia Municipal hará del conocimiento del Patronato de la Feria todas las solicitudes que se formulen de acuerdo a los artículos que anteceden, así mismo de las autorizaciones que otorgue, en la inteligencia de que estas últimas tendrán carácter definitivo, en el caso de que el Patronato no las objete dentro del término de 3 días siguientes a la fecha en que haya sido notificada la autorización referida.
+El Sistema Estatal para el Desarrollo Integral de la Familia podrá facilitar los espacios de las instalaciones feriales para obras de interés social, pero deberá obtener el acuerdo del Patronato para ello.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 39.
 
-Las objeciones que formule el Patronato serán suficientes para suspender los efectos de la autorización o concesión otorgadas por la Presidencia Municipal hasta en tanto no se cumplan las condiciones que el Patronato señale para que adquieran definitividad.
+Las objeciones que formule el Patronato serán suficientes para suspender los efectos de la autorización o concesión otorgadas por el Sistema Estatal para el Desarrollo Integral de la Familia hasta en tanto no se cumplan las condiciones que el Patronato señale para que adquieran definitividad.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 40.
 
-El Ayuntamiento de la Capital y en su caso el Patronato de la Feria dictarán las medidas que estimen pertinentes, como resultado de las auditorías que lleguen a practicarse en los términos del Artículo 7 de la presente Ley.
+El Sistema Estatal para el Desarrollo Integral de la Familia y en su caso el Patronato de la Feria dictarán las medidas que estime pertinentes, como resultado de las auditorías que lleguen a practicarse en los términos del Artículo 7 de la presente Ley.
 
 ## TRANSITORIO
 
@@ -432,3 +434,11 @@ TERCERO.- La Presidencia Municipal de la Capital expdirá (sic) el Reglamento In
 CUARTO.- Quedan derogadas todas las disposiciones legales que actualmente se encuentren en vigor, que se opongan a la presente Ley.
 
 QUINTO.- Las reformas que ha adoptado el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE AGOSTO DE 1994
+
+PRIMERO.- El Patronato expedirá el Reglamento Interior de la Feria dentro de un término de 30 días contados a partir del inicio de vigencia de estas reformas, quedando sin efecto el que hasta esta fecha estaba en vigor.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones legales que se opongan a esta Ley.
+
+TERCERO.- Las reformas que se adoptan en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
