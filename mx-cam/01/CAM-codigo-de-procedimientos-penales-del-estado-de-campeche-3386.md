@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1999-12-22"
+last_updated: "2002-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -873,51 +873,59 @@ Si para integrar la averiguación previa fuese necesario mayor tiempo del señal
 
 En caso de que la detención de una persona exceda de los plazos señalados en el artículo 16 de la Constitución Federal se presumirá que estuvo incomunicado y las declaraciones que haya emitido el detenido no tendrán validez.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Artículo 144.
 
 Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes:
 
-I.- Homicidio previsto en los artículos 57, segunda parte del primer párrafo; 272; 278; 285; 288 y 289 del Código Penal del Estado;
+A.- Del Código Penal del Estado:
 
-II.- Terrorismo previsto en el primer párrafo del artículo 127 del mismo Código;
+I.- Homicidio previsto en los artículos 57, segunda parte del primer párrafo, 272; 278; 285; 288 y 289;
 
-III.- Evasión de presos prevista en los artículos 132 y 134 del mismo Código;
+II.- Terrorismo previsto en el primer párrafo del artículo 127;
 
-IV.- Ataques a las vías de comunicación previsto en los artículos 147, fracción IX; 148 y 150 del mismo Código;
+III.- Evasión de Presos prevista en los artículos 132 y 134;
 
-V.- Corrupción de menores previsto en el artículo 176 del Código Penal;
+IV.- Ataque a las Vías de Comunicación previsto en los artículos 147, fracción IX; 148 y 150;
 
-VI.- Lenocinio previsto en el artículo 182 del propio Código;
+V.- Corrupción de Menores previsto en el artículo 176;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1996)</small>
+VI.- Lenocinio previsto en el artículo 182;
 
-VI Bis.- Falsificación de documentos públicos o privados previsto en los artículos 214 y 217 del Código Penal del Estado;
+VII.- Coalición de Servidores Públicos previsto en el artículo 190;
 
-VII.- Violación previsto en los artículos 233, 234 y 235 del mismo Código;
+VIII.- Cohecho previsto en el artículo 192;
 
-VIII.- Asalto previsto en los artículos 251 y 252;
+IX.- Peculado previsto en el artículo 193;
 
-IX.- Secuestro previsto en el artículo 331, exceptuándose las modalidades previstas en los párrafos penúltimo y último;
+X.- Enriquecimiento Ilícito previsto en el artículo 198;
 
-X.- Robo previsto en la fracción IV del artículo 335, cuando se realice en la circunstancia señalada en el artículo 337, y en el artículo 347 todos del Código Penal;
+XI.- Falsificación de documentos públicos o privados previsto en los artículos 214 y 217;
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
+XII.- Violación previsto en los artículos 233, 234 y 235;
 
-X Bis.- Abigeato previsto en los artículos 349 y 350, cuando las sanciones aplicables correspondan a las previstas en los segundos párrafos de las fracciones I, II y III del mencionado artículo 349; 352, 353 y 354, en los casos de reincidencia; y 351 y 355 del Código Penal del Estado;
+XIII.- Asalto previsto en los artículos 251 y 252;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1996)</small>
+XIV.- Secuestro previsto en el artículo 331, exceptuándose las modalidades previstas en los párrafos penúltimo y último;
 
-X Ter.- Despojo de cosas inmuebles o aguas, autoría intelectual y/o dirección previstas en el último párrafo del artículo 371 del mismo Código;
+XV.- Robo previsto en la fracción IV del artículo 335, cuando se realice en la circunstancia señalada en el artículo 337, y en el artículo 347;
 
-XI.- Tortura previsto en el artículo 3 de la Ley para Prevenir y Sancionar la Tortura en el Estado; y
+XVI.- Abigeato previsto en los artículos 349 y 350, cuando las sanciones aplicables correspondan a las previstas en los segundos párrafos de las fracciones I, II y III del mencionado artículo 349; 352, 353 y 354, en los casos de reincidencia; y 351 y 355;
 
-XII.- El previsto en la fracción VI del artículo 194 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado;
+XVII.- Despojo de Cosas Inmuebles o Aguas, autoría intelectual y/o dirección previstas en el último párrafo del artículo 371; y
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 1999)</small>
+XVIII.- Pornografía Infantil prevista en el artículo 175 Bis;
 
-XIII.- Pornografía infantil prevista en el artículo 175 Bis del Código Penal del Estado.
+B.- De la Ley para Prevenir y Sancionar la Tortura en el Estado:
+
+I.- El previsto en el artículo 3; y
+
+C.- De la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado:
+
+I.- El previsto en la fracción VI del artículo 194.
+
+La tentativa punible de los ilícitos penales mencionados en este artículo también se califica como delito grave.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
 
@@ -3352,3 +3360,21 @@ P.O. 22 DE DICIEMBRE DE 1999.
 Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE JULIO DE 2002.
+
+Primero.- El presente decreto entrará en vigor el día 16 de septiembre del año 2003.
+
+Segundo.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche expedida por la LI Legislatura de este Congreso, el 18 de diciembre de 1984, bajo decreto número 156, publicada en la Segunda Sección del Periódico Oficial del Estado el día 19 de ese mismo mes y año; y se derogan todas las demás disposiciones legales en lo que se opongan al contenido de este Decreto.
+
+Tercero.- Las Instituciones Públicas que carezcan de los Órganos Internos de Control y sistemas a que alude la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, dispondrán para su establecimiento de un plazo que no excederá de treinta días hábiles, contados a partir de la fecha en que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado entre en vigor, para lo cual realizarán las adecuaciones procedentes a su presupuesto de egresos, reglamentos interiores y manuales de organización o disposiciones equivalentes. La Secretaría de la Contraloría, una vez establecidos dichos Órganos Internos de Control les remitirá debidamente inventariados la documentación que obre en su poder y cuyo conocimiento y manejo corresponda a tales Órganos. Para este efecto la Secretaría contará con un plazo de treinta días hábiles contados a partir del día siguiente al en que se le comunique el establecimiento del respectivo Órgano Interno de Control.
+
+Cuarto.- Como integrantes de los Órganos Internos de Control no podrán fungir los servidores públicos que formen parte del órgano superior de dirección de la Institución Pública a la que ese Órgano corresponda.
+
+Quinto.- Los servidores públicos que deban presentar declaración de situación patrimonial en los términos de la Ley Reglamentaria en cita y que conforme a la ley que se abroga no hayan tenido esa obligación, disponen por esta única vez de un plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entre en vigor la indicada Ley o del que se establezca el Órgano Interno de Control, según corresponda, para presentar la que indica la fracción I del artículo 88 de la invocada Ley Reglamentaria.
+
+Sexto.- Los procedimientos administrativos disciplinarios que se encuentren en trámite al momento en que la referida Ley Reglamentaria entre en vigor serán resueltos conforme a los términos de la ley que se abroga y por la autoridad que esté conociendo de los mismos.
+
+Séptimo.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+
+Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
