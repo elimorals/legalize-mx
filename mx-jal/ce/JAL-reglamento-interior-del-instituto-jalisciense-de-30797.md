@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-jalisciense-de-30797"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-15"
-last_updated: "2003-04-15"
+last_updated: "2003-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CANCEROLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2003.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 15 de abril de 2003.
 
@@ -90,9 +90,9 @@ A).- Médica;
 
 B).- De Administración;
 
-C).- De Asuntos Jurídicos; y (sic)
+C).- De Asuntos Jurídicos; y
 
-D).- De Desarrollo Institucional; y
+D).- De Desarrollo Institucional;
 
 III.- Los órganos de apoyo y asesoría:
 
@@ -132,9 +132,11 @@ En el supuesto de que no se reúna el quórum que establece el Decreto para las 
 
 La sede de la Junta de Gobierno serán las propias instalaciones del Instituto donde sus miembros deberán reunirse para tratar los asuntos de su competencia.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+
 ###### Artículo 10°.
 
-Las sesiones ordinarias de la Junta de Gobierno deberán realizarse una vez cada dos meses, previa notificación legal de la convocatoria realizada a todos sus integrantes. En dichas sesiones podrán discutirse sin limitación alguna, todos los temas inherentes al Instituto y su actividad.
+Las sesiones ordinarias de la Junta de Gobierno deberán realizarse una vez por cada uno de los meses del año, previa notificación legal de la convocatoria realizada a todos sus integrantes. En dichas sesiones podrán discutirse sin limitación alguna todos los temas inherentes al Instituto y su actividad.
 
 ###### Artículo 11.
 
@@ -603,3 +605,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JUNIO DE 2003.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan o contravengan a esta reforma.
