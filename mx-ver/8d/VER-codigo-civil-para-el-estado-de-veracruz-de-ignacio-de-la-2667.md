@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1989-04-01"
+last_updated: "1992-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -811,7 +811,11 @@ XIV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de d
 
 XV.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
 
-XVI.- El mutuo consentimiento.
+XVI.- El mutuo consentimiento;
+
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+XVII.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos.
 
 ARTICULO 142
 
@@ -919,6 +923,10 @@ Tercera.- En el caso de las fracciones V y VI del artículo 141, los hijos queda
 
 Cuarta.- En el caso de divorcio por mutuo consentimiento, los cónyuges de común acuerdo concertarán la situación de los hijos menores de edad, o mayores de edad incapacitados o necesitados de asistencia. A falta de acuerdo, el Juez determinará lo conveniente dentro de los términos del artículo 133, que se aplicará en todos los casos de divorcio en que la ley no fije en favor de uno determinado de los cónyuges el cuidado de los hijos.
 
+> <small>(ADICIONADA, G.O. 4 DE ABRIL DE 1992)</small>
+
+Quinta.- En el caso de la fracción XVII del artículo 141, ninguno de los cónyuges perderá la patria potestad quedando los hijos bajo la guarda y custodia del cónyuge que determine el Juez, tomando en cuenta las circunstancias del caso y todo aquello que le permita asegurar el bienestar de los menores.
+
 ARTICULO 158
 
 Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
@@ -955,7 +963,9 @@ ARTICULO 163
 
 En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+
+El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio. Igual impedimento, por un año, tendrá quien solicite y obtenga el divorcio en términos de la fracción XVII del artículo 141 de este Código.
 
 Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
 
@@ -15580,3 +15590,17 @@ La presente reforma entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+G.O. 4 DE ABRIL DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Este ordenamiento entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente.
+
+###### ARTICULO TERCERO.
+
+Los cónyuges que al momento de entrar en vigor el presente ordenamiento, hayan estado separados por más de dos años, si la separación continúa por un año, contado a partir de la fecha de iniciación de vigencia del mismo podrán pedir el divorcio con base en la causal que se adiciona en la fracción XVII del artículo 141 de este Código.
