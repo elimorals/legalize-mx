@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2000-06-26"
+last_updated: "2000-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -353,7 +353,7 @@ V. De las diligencias preliminares de consignación cuando el valor de la cosa o
 
 VI. De los Interdictos;
 
-VII. De las autorizaciones de instrumentos públicos, donde no hubiere Notario, o por ausencia o impedimento de éste en el lugar de su residencia; así como expedir los testimonios que les pidieran los interesados que fueren de darse de los que se otorguen ante ellos y de los autorizados de la Ley del Notariado;
+VII. (DEROGADA POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY DEL NOTARIADO, P.O. 13 DE OCTUBRE DE 2000)
 
 VIII. De la atención y trámite de los exhortos que les dirijan los Jueces de Primera Instancia del Estado, los demás jueces y tribunales de la República; y
 
@@ -1426,3 +1426,13 @@ LIC. JOSE LUIS COINDREAU GARCIA.
 P.O. 26 DE JUNIO DE 2000.
 
 Único.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 2000
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Sexto.- Se deroga el Artículo Transitorio Segundo de la Ley del Notariado publicado en el Periódico Oficial del Estado en fecha 26 de Diciembre de 1983 y el Artículo 34 fracción VII de la Ley Orgánica del Poder Judicial del Estado.
+
+Artículo Octavo.- Se deroga todo lo que se oponga al presente Decreto.
