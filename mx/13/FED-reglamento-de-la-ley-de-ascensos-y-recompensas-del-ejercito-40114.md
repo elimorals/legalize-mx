@@ -1,0 +1,2260 @@
+---
+title: "REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS --"
+identifier: "FED-reglamento-de-la-ley-de-ascensos-y-recompensas-del-ejercito-40114"
+country: "mx"
+rank: "reglamento"
+publication_date: "2004-07-19"
+last_updated: "2004-07-19"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40114&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "40114"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "13 SEGUNDA SECCION"
+reform_count: "6"
+scjn_last_update: "2026-03-20"
+issue_date: "2004-07-13"
+---
+# REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS --
+
+REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos y con fundamento en los artículos 29, fracción I, de la Ley Orgánica de la Administración Pública Federal; y 1 al 76 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, he tenido a bien expedir el siguiente:
+
+REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+
+## TÍTULO PRIMERO. Disposiciones Generales
+
+### CAPÍTULO I. Generalidades
+
+###### ARTÍCULO 1.
+
+El presente ordenamiento reglamenta las disposiciones de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos para su debido cumplimiento.
+
+###### ARTÍCULO 2.
+
+La aplicación del presente Reglamento corresponde al Presidente de la República y a la Secretaría, en los términos de la Ley.
+
+###### ARTÍCULO 3.
+
+Los ascensos serán conferidos siempre que los participantes en cada caso, cumplan los requisitos que estipulan la Ley y este Reglamento, considerando los resultados que se obtengan en las promociones.
+
+###### ARTÍCULO 4.
+
+Las recompensas militares tienen por objeto premiar a las personas civiles, militares, unidades o corporaciones y a las dependencias del Ejército o Fuerza Aérea Mexicanos por su heroísmo, capacidad profesional, servicios a la Patria y demás hechos meritorios que establece la Ley.
+
+En el Ejército y Fuerza Aérea Mexicanos las recompensas serán Condecoraciones, Menciones Honoríficas, Distinciones y Citaciones.
+
+### CAPÍTULO II. Definiciones
+
+###### ARTÍCULO 5.
+
+Para los efectos de este Reglamento, además de las disposiciones contenidas en el artículo 2 de la Ley, se entenderá por:
+
+I. Secretaría, la Secretaría de la Defensa Nacional;
+
+II. Secretario o Alto Mando, el titular de la Secretaría;
+
+III. Comisión de Evaluación, el organismo encargado de analizar el desempeño profesional de los Tenientes Coroneles, Coroneles, Generales Brigadieres o de Grupo y de Brigada o de Ala, potencialmente considerados para participar en la promoción superior para obtener el ascenso al Grado inmediato;
+
+IV. Estado Mayor, el Estado Mayor de la Defensa Nacional.
+
+V. Direcciones, las Direcciones Generales de las Armas y Servicios de la Secretaría de la Defensa Nacional con responsabilidades administrativas de manejo de personal;
+
+VI. Ley, la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos;
+
+VII. Concurso de selección, el conjunto de exámenes que tiene por objeto evaluar al personal para seleccionar al mejor preparado para desempeñarse en la jerarquía superior, en las promociones de especialistas y general;
+
+VIII. Promoción, el proceso mediante el cual la Secretaría verifica el cumplimiento de los requisitos fijados por la Ley para otorgar o proponer los ascensos respectivos, para cubrir las vacantes que existan en el Ejército y Fuerza Aérea Mexicanos;
+
+IX. Período general de pruebas, el lapso en el que el personal de una misma especialidad y jerarquía presenta los exámenes de promoción que corresponda.
+
+X. Escalafones, las listas nominales de Generales, Jefes, Oficiales y Sargentos profesionales en el servicio activo, clasificados por armas, servicios, especialidades, antigüedad en el empleo, tiempo de servicios y edad;
+
+XI. Especialidad, el conjunto de conocimientos teóricos y prácticos de índole particular que posee el militar dentro de una ciencia, técnica o arte;
+
+XII. Especialista, el militar perteneciente a los servicios del Ejército o Fuerza Aérea Mexicanos que cuenta con una determinada preparación, habilidad u oficio, en alguna de las ramas de la ciencia, de la técnica o del arte y que no tiene escalafón propio, pudiendo ser profesionista, técnico, maestro, artista, artesano, obrero calificado o trabajador manual, y
+
+XIII. Personal Potencial, aquél que reúne los requisitos que marca la Ley para participar en la promoción.
+
+## TÍTULO SEGUNDO. De los Ascensos en Tiempo de Paz
+
+### CAPÍTULO I. Generalidades
+
+###### ARTÍCULO 6.
+
+Los ascensos en tiempo de paz se otorgarán, siempre que se cumpla con los requisitos que establecen los artículos 8 y 31 de la Ley y este Reglamento. La Secretaría establecerá los procedimientos a que se sujetarán las modalidades de ascenso.
+
+###### ARTÍCULO 7.
+
+Para los ascensos por promoción, la Secretaría anualmente realizará las siguientes:
+
+I. Promoción de Sargentos Primeros Especialistas, para el personal de esta jerarquía que carece de escuelas de formación de oficiales;
+
+II. Promoción Especial, para los Subtenientes de arma o servicio egresados de escuelas de formación de oficiales que cumplan los requisitos de tiempo de servicio, antigüedad en el Grado y demás especificados en la Ley;
+
+III. Promoción General, para los Mayores y oficiales que reúnan los requisitos especificados en la Ley, incluyendo a los Subtenientes que no logren su ascenso en la promoción especial, y
+
+IV. Promoción Superior, para los Generales, Coroneles y Tenientes Coroneles que cumplan los requisitos de tiempo de servicio, antigüedad en el Grado y demás especificados en la Ley.
+
+###### ARTÍCULO 8.
+
+La Secretaría desarrollará las promociones de Sargentos Primeros Especialistas, Especial y General en tres etapas:
+
+I. Primera Etapa: a partir del momento en que la Dirección correspondiente, determina el Personal Potencial para cada una de las promociones y hasta la concentración de quienes reúnan los requisitos. Abarca las siguientes actividades:
+
+A. Las Direcciones Generales concentrarán en el Estado Mayor los expedientes del Personal Potencial que tomará parte en las promociones y las relaciones en las que se justifique el personal que deberá ser excluido por no reunir los requisitos establecidos en la Ley, y
+
+B. El Estado Mayor verificará que la información proporcionada por las Direcciones Generales se encuentre completa y conforme a la Ley, con objeto de que se hagan las comunicaciones de participación o, en su caso, las notificaciones al personal excluido en los términos que señala la Ley.
+
+La concentración del personal se realizará en las fechas, términos y condiciones que determine la Secretaría.
+
+II. Segunda Etapa: a partir de que inicie la concentración de personal y hasta finalizar la evaluación de la totalidad de participantes. Comprende tres fases:
+
+A. Aplicación del examen médico final;
+
+B. Presentación de exámenes teóricos y pruebas prácticas, y
+
+C. Aplicación de la prueba de capacidad física.
+
+III. Tercera Etapa: a partir de que concluye el período general de pruebas del total de participantes y hasta que se confieran los ascensos, con el objeto de realizar los trámites administrativos pertinentes, a afecto de que las órdenes de ascenso se emitan como mínimo con 24 horas de anticipación a la fecha en que se otorguen.
+
+###### ARTÍCULO 9.
+
+El ascenso en las promociones será conferido considerando los resultados que se obtengan en cada una de las etapas referidas en el artículo anterior, de conformidad con las modalidades correspondientes que establece el artículo 9 de la Ley y en los términos de este Reglamento.
+
+###### ARTÍCULO 10.
+
+Para efectos de los artículos 16 y 23 de la Ley, el Estado Mayor publicará en el mes de enero de cada año los Instructivos de las Promociones General, Especial y de Sargentos Primeros Especialistas, conteniendo cada uno de ellos cuando menos la siguiente información: la cantidad de ascensos que se otorgarán en cada jerarquía y especialidad, de acuerdo a las vacantes existentes; el efectivo participante; el período general de pruebas; la ubicación de los centros de examen; los exámenes y pruebas que se presentarán, señalando las materias y temas que deban estudiarse; el vestuario, el equipo y el material necesario, así como las demás prescripciones comunes que regirán cada promoción.
+
+###### ARTÍCULO 11.
+
+Los participantes que en cualquier momento de la promoción y hasta antes de que se les otorguen los ascensos incumplan cualquiera de los requisitos establecidos en la Ley o incurran en alguno de los supuestos previstos en el artículo 35 de la misma, no serán ascendidos aun cuando obtengan las más altas puntuaciones.
+
+###### ARTÍCULO 12.
+
+El personal que tenga derecho a participar en las promociones de Sargentos Primeros Especialistas; Especial o General podrá renunciar al mismo, mediante escrito que se presente a la Secretaría hasta treinta días naturales antes de la fecha fijada para su concentración.
+
+###### ARTÍCULO 13.
+
+El personal que participe en las promociones debe conducirse conforme a la Ley, el presente Reglamento y demás Leyes y Reglamentos militares, así como observar las normas éticas y morales propias de la disciplina militar.
+
+### CAPÍTULO II. Acreditación de Requisitos
+
+#### SECCIÓN PRIMERA. Generalidades
+
+###### ARTÍCULO 14.
+
+A efecto de que el Estado Mayor verifique que el personal considerado para participar en las promociones de Sargentos Primeros Especialistas, Especial y General, cumple con los requisitos de tiempo de servicios, antigüedad en el Grado, tiempo de servicios en el Grado, buena conducta, buena salud y cursos establecidos en la normativa correspondiente, las Direcciones Generales integrarán un expediente de cada uno de los participantes con la siguiente documentación:
+
+I. Extracto de antecedentes;
+
+II. Copia del nombramiento o de la patente en el Grado actual;
+
+III. Acta de Consejo de Honor o Certificado de Conducta para los Mayores;
+
+IV. Certificado Médico;
+
+V. Documentos expedidos y certificados por la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea que acrediten los cursos y el nivel de conocimientos obligatorios para el ascenso, y
+
+VI. Documentación complementaria, cuando el caso lo requiera para sustentar legalmente la participación o la exclusión del militar.
+
+La aptitud profesional y la capacidad física se acreditarán en los términos que establece el presente Reglamento.
+
+#### SECCIÓN SEGUNDA. Tiempo de servicios
+
+###### ARTÍCULO 15.
+
+El tiempo de servicios se acreditará con el extracto de antecedentes que formulen las Direcciones, de conformidad con la Ley para la Comprobación, Ajuste y Cómputo de Servicios del Ejército y Fuerza Aérea Mexicanos y la Ley.
+
+#### SECCIÓN TERCERA. Antigüedad en el Grado
+
+###### ARTÍCULO 16.
+
+La antigüedad en el Grado se acreditará con la Patente o Nombramiento respectivo del último ascenso, así como con las órdenes de ascenso que para ese efecto hayan girado las Direcciones.
+
+#### SECCIÓN CUARTA. Tiempo de servicios en el Grado
+
+###### ARTÍCULO 17.
+
+El tiempo de servicios en el Grado se acreditará con el extracto de antecedentes que elaboren las Direcciones, mismas que encuadran al personal que controlan administrativamente, de conformidad con el Catálogo de Encuadramientos para efecto de las promociones. En todo caso, se deberá comunicar al personal las situaciones en las que se les deje de computar el tiempo de servicios en Unidades.
+
+#### SECCIÓN QUINTA. Conducta
+
+###### ARTÍCULO 18.
+
+Para los efectos del artículo 10 de la Ley, la conducta se acreditará:
+
+I. Para los Soldados de las armas y los servicios, Cabos y Sargentos Segundos de los servicios o especialidades que carecen de escuela de formación, mediante el Acta de Consejo de Honor que se elabore para el efecto y, en su caso, con el Memorial de Servicios;
+
+II. Para los Sargentos Primeros Especialistas que carecen de escuela de formación, hasta de los tres últimos años en el Grado en razón de la antigüedad en el mismo, con los memoriales de servicios de los dos años anteriores y con el Acta de Consejo de Honor del año en que concursa;
+
+III. Para los Mayores y Oficiales participantes en las promociones General o Especial, con las Hojas de Actuación de los dos años anteriores, con el Certificado de Conducta para el caso de los Mayores y Acta de Consejo de Honor para los Oficiales que les corresponda participar, y
+
+IV. Los Generales, Coroneles y Tenientes Coroneles participantes en la promoción Superior, con la Hoja de Actuación que se elabora de exprofeso en el año que se realiza el evento, incluyendo el Certificado de Conducta para los Jefes.
+
+###### ARTÍCULO 19.
+
+Los Certificados de Conducta y las Actas de Consejo de Honor a que se refiere el artículo anterior, se formularán de conformidad con lo establecido en la Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos y el Reglamento para la Organización y Funcionamiento de los Consejos de Honor en el Ejército y Armada. Estos documentos especificarán que se elaboran para efectos de participación en la promoción correspondiente.
+
+###### ARTÍCULO 20.
+
+La acreditación de la buena conducta a que se refiere la presente Sección, se considerará únicamente para efectos de ascenso.
+
+###### ARTÍCULO 21.
+
+En el caso de que algún participante modifique su comportamiento y se le determine mala conducta hasta antes del ascenso, el Mando correspondiente debe notificar tal circunstancia al Estado Mayor y a la Dirección respectiva, mediante Acta de Consejo de Honor o Certificado de Conducta, según corresponda.
+
+###### ARTÍCULO 22.
+
+Para efectos del artículo precedente, las Actas de Consejo de Honor o los Certificados de Conducta en que se determine la mala conducta, sustituirán a las que se hayan expedido en el año de la promoción.
+
+###### ARTÍCULO 23.
+
+Para determinar la conducta general, se asignará una escala de cien puntos como máximo y se computará como sigue:
+
+I. Para los participantes en la Promoción de Sargentos Primeros Especialistas con un año de antigüedad, cien puntos para cada año; y con cincuenta, para los que tengan dos años de antigüedad;
+
+II. Para los participantes en las Promociones General, Especial y de Sargentos Primeros Especialistas con tres o más años de antigüedad en el empleo, treinta y cinco puntos para cada uno de los dos años anteriores y treinta puntos para el año de la Promoción;
+
+III. Si durante un año se elabora más de un Acta de Consejo de Honor o Certificado de Conducta, la puntuación asignada al año de que se trate se dividirá entre el total de documentos existentes y el resultado se multiplicará por el número de aquéllos en que se haya asentado buena conducta, y
+
+IV. Para que se considere que el participante tiene buena conducta, es necesario que acumule sesenta o más puntos en el período que corresponda.
+
+Será indispensable acreditar buena conducta en el año en que se participe en la Promoción.
+
+#### SECCIÓN SEXTA. Salud
+
+###### ARTÍCULO 24.
+
+El estado de salud se acreditará con el Certificado Médico expedido por los médicos militares que designe la Dirección General de Sanidad.
+
+###### ARTÍCULO 25.
+
+Para los efectos del artículo anterior, los exámenes a los participantes en las Promociones de Sargentos Primeros Especialistas, Especial y General, se aplicarán en dos fases:
+
+I. Primera Fase:
+
+El examen médico previo es el practicado al participante en el escalón sanitario de la unidad, dependencia o instalación a la que pertenece o en la instalación más cercana de donde se encuentre, en caso de estar fuera de su matriz, si ésta no cuenta con escalón sanitario propio:
+
+A. El Certificado Médico especificará textualmente: "SÍ ACREDITA BUENA SALUD" o, en su defecto, "NO ACREDITA BUENA SALUD";
+
+B. Sólo cuando exista duda sobre el estado de salud del participante, el médico responsable solicitará que el mismo sea examinado en el escalón sanitario superior, y
+
+C. El escalón sanitario que expida el Certificado Médico, deberá continuar observando al personal examinado, para que en caso de presentar cambios en su estado de salud, se informe inmediatamente al Estado Mayor y a la Dirección correspondiente.
+
+II. Segunda Fase:
+
+Examen médico final es el que se practica al participante en el Hospital Central Militar o en la instalación sanitaria que se designe dentro del período general de pruebas, el cual será determinante para la acreditación de su salud.
+
+A. El examen médico final constará de las pruebas siguientes para todos los participantes:
+
+a. Somatométrico (el sobrepeso se determinará mediante la fórmula para calcular el índice de masa corporal establecida en el artículo 27 de este Reglamento);
+
+b. Oftalmológico;
+
+c. Cardiovascular;
+
+d. Aparato respiratorio;
+
+e. Aparato digestivo;
+
+f. Otorrinolaringológico;
+
+g. Sistema nervioso;
+
+h. Sistema locomotor;
+
+i. Radiología de tórax (únicamente cuando sea necesario);
+
+j. Toxicológico;
+
+k. Examen general de orina, y
+
+l. Análisis de sangre.
+
+B. Además de los exámenes a que se contrae el apartado anterior, los Pilotos Aviadores, serán evaluados en:
+
+a. Oftalmología, atendiendo a los requerimientos especiales de su perfil de trabajo (agudeza visual, visión de profundidad, campimetría, fondo de ojo, visión cromática y tensión ocular);
+
+b. Otorrinolaringología, según los parámetros propios de su ambiente de trabajo (audiometría tonal e impedanciometría);
+
+c. Electrocardiografía en reposo, y
+
+d. Química sanguínea (colesterol, triglicéridos y fracciones).
+
+Los exámenes correspondientes a los estudios oftalmológicos de campo visual, electrocardiogramas, audiometría e impedanciometría, se practicarán en las instalaciones sanitarias militares que les corresponda. El participante se presentará en el Hospital Central Militar al examen médico final con los resultados correspondientes.
+
+En caso de inconformidad del participante, ésta deberá interponerse en los términos de la Ley y este Reglamento y se practicará al participante inconforme un nuevo examen por médicos militares especialistas que sean distintos. El resultado será irrevocable.
+
+###### ARTÍCULO 26.
+
+La toma de muestra de orina se llevará a cabo bajo monitoreo por parte de un jurado de vigilancia femenino y otro masculino, integrados exprofeso con el objeto de garantizar su confiabilidad.
+
+###### ARTÍCULO 27.
+
+Para determinar el peso, como factor determinante para establecer el estado de salud del individuo, se aplicará la fórmula del Índice de Masa Corporal, conocido por sus siglas (I.M.C.).
+
+Peso
+
+I. I.M.C. (en unidades) = ___________________
+
+Estatura al cuadrado
+
+II. Para determinar el Grado de inutilidad o trastorno funcional de menos del 20% por este padecimiento, se observará lo estipulado en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+###### ARTÍCULO 28.
+
+El examen psicológico se ajustará a los siguientes lineamientos:
+
+I. Quedará bajo la responsabilidad de la Dirección General de Sanidad, la que aplicará el examen de comportamiento laboral y los que determine el Estado Mayor, y
+
+II. El examen de comportamiento laboral se aplicará en el Centro de Evaluación del Ejército y Fuerza Aérea Mexicanos, el mismo día en que se realice el examen médico final en el Hospital Central Militar.
+
+###### ARTÍCULO 29.
+
+Acreditarán buena salud los participantes que en el examen médico obtengan los parámetros o las cifras consideradas normales y que no se encuentren comprendidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+###### ARTÍCULO 30.
+
+No acreditarán buena salud los participantes que en el examen médico, se encuentren considerados en alguna de las categorías de inutilidad o la de trastornos funcionales de menos del 20%, establecidas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, de conformidad con el Certificado Médico expedido por el Hospital Central Militar.
+
+Los participantes que no acrediten su buena salud, quedarán excluidos de la Promoción.
+
+###### ARTÍCULO 31.
+
+A juicio de los médicos examinadores, se podrán realizar pruebas adicionales o revisión de especialidades diversas para determinar el estado de salud de los participantes. Sus resultados tendrán la misma validez que los señalados en los artículos precedentes.
+
+#### SECCIÓN SÉPTIMA. Cursos
+
+###### ARTÍCULO 32.
+
+De conformidad con el artículo 8, fracción V, de la Ley, los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o los de carácter superior y demás que sean considerados como determinantes en materia de educación militar para obtener el Grado inmediato superior, son los que para cada arma o servicio especifica el Plan General de Educación Militar.
+
+###### ARTÍCULO 33.
+
+El participante que por causas no imputables a él no realice algunos de los cursos requeridos para su Promoción quedará exento de su acreditación; en la inteligencia de que, deberá realizarlo o concluirlo en su primera oportunidad.
+
+#### SECCIÓN OCTAVA. Aptitud Profesional
+
+###### ARTÍCULO 34.
+
+La aptitud profesional, se acreditará mediante la aprobación de los exámenes teóricos y las pruebas prácticas correspondientes en las Promociones General, Especial y de Sargentos Primeros Especialistas, con base en los lineamientos siguientes:
+
+I. La calificación mínima aprobatoria para los exámenes teóricos será de 60 puntos. En las pruebas prácticas el participante será calificado como "APTO" o "NO APTO", y
+
+II. El Estado Mayor comunicará a los participantes la puntuación mínima que se debe acumular en el conjunto de exámenes teóricos correspondientes a cada promoción, con base en las jerarquías y especialidades, así como los parámetros necesarios para calificar de forma objetiva las pruebas prácticas.
+
+#### SECCIÓN NOVENA. Capacidad Física
+
+###### ARTÍCULO 35.
+
+Previo al inicio de las pruebas de capacidad física, se practicará un examen médico al personal y, en caso de trastorno que ponga en riesgo la salud del participante, no se le permitirá sustentarlas. En este caso, el participante quedará sujeto al artículo 25 de la Ley.
+
+###### ARTÍCULO 36.
+
+La capacidad física se acreditará mediante la aprobación de las pruebas siguientes:
+
+I. Para el personal de Mayores y Oficiales de las armas, pilotos aviadores, servicios técnicos y el que determine la Secretaría, natación y caminata:
+
+A. Natación:
+
+a. Para el personal masculino, 100 metros en un tiempo máximo de 3 minutos y 30 segundos;
+
+b. Para el personal femenino, 50 metros en un tiempo máximo de 2 minutos y 30 segundos;
+
+c. Únicamente el recorrido completo tendrá la calificación de "APTO", desarrollándose la prueba como se indica en los apartados siguientes;
+
+d. Los participantes que no terminen en el tiempo asignado su recorrido, serán calificados como "NO APTOS";
+
+e. Todos los participantes dispondrán de una sola oportunidad para presentar esta prueba;
+
+f. Los participantes se introducirán en la alberca a indicación del juez principal e iniciarán su recorrido desde la pared de la misma;
+
+g. Dentro del agua el desplazamiento deberá ser continuo;
+
+h. Está prohibido apoyarse en alguno de los carriles flotantes o en el fondo de la alberca, para impulsarse, descansar o recuperarse de algún otro incidente. En tal caso, el punto de detención se considerará como distancia recorrida y el participante será calificado como "NO APTO", registrándose la distancia nadada para efectos estadísticos y legales;
+
+i. El uso de goggles será opcional. Los incidentes provocados por el uso de este aditamento y que impidan continuar la prueba, no será causa que justifique su detención y el participante será calificado como "NO APTO".
+
+j. Para el desarrollo de la prueba se permitirá cualquier estilo de nado;
+
+k. Queda prohibido el empleo o uso de visor, aletas, trajes especiales u otros accesorios que faciliten el desplazamiento en el agua, así como el de relojes o cronómetros;
+
+l. El tiempo oficial de la prueba será llevado por un juez principal mediante cronómetros electrónicos colocados en los extremos de la alberca, conectados éstos a una alarma sonora que marcará el inicio y el término del tiempo de recorrido, y
+
+m. No se permitirá presentar esta prueba al personal que padezca alguna enfermedad de carácter contagioso, previa certificación médica.
+
+B. Caminata de 20 kilómetros:
+
+a. Se efectuará en un tiempo de 5 horas;
+
+b. Se realizará inmediatamente después de presentar la prueba de natación, y
+
+c. Para obtener la calificación de "APTO" deberá efectuarse el recorrido completo y dentro del tiempo establecido.
+
+II. Capacidad física, consistente en carrera de resistencia y pista de obstáculos para los Jefes, Oficiales y Sargentos Primeros Especialistas, así como aquellos participantes que determine el Estado Mayor:
+
+A. Carrera de resistencia:
+
+a. Se efectuará sobre una pista atlética de 400 metros, en un tiempo de 12 minutos;
+
+b. El recorrido completo tiene un valor de 50 puntos, conforme a la edad, sexo y distancia recorrida, de la forma siguiente:
+
+Masculino Femenino Puntos
+
+1. De 20 a 30 años:
+
+Máxima 2,800 Mts. 2,400 Mts. 50
+
+Mínima 2,300 Mts. 1,900 Mts. 30
+
+2. De 31 a 35 años:
+
+Máxima 2,600 Mts. 2,200 Mts. 50
+
+Mínima 2,100 Mts. 1,700 Mts. 30
+
+3. De 36 a 40 años:
+
+Máxima 2,400 Mts. 2,000 Mts. 50
+
+Mínima 1,900 Mts. 1,500 Mts. 30
+
+4. De 41 años o más:
+
+Máxima 2,300 Mts. 1,800 Mts. 50
+
+Mínima 1,800 Mts. 1,300 Mts. 30
+
+c. Se asignarán 2 puntos por cada 50 metros recorridos entre la distancia mínima y la máxima, y
+
+d. El recorrido inferior a la distancia mínima establecida para cada edad y sexo, se calificará con "0" cero puntos.
+
+B. Pista de obstáculos:
+
+a. Esta prueba se realizará inmediatamente después de concluir la carrera de resistencia;
+
+b. La pista constará con diez obstáculos para medir fuerza, elasticidad y coordinación. Las características se describirán en el Instructivo correspondiente, y
+
+c. El valor total de esta prueba será de 50 puntos, correspondiendo 5 puntos por cada obstáculo superado adecuadamente.
+
+###### ARTÍCULO 37.
+
+La aplicación y calificación de las pruebas de capacidad física, quedará bajo la responsabilidad de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea o la que designe el Estado Mayor.
+
+###### ARTÍCULO 38.
+
+No será promovido al Grado inmediato quien resulte "NO APTO" en las pruebas de capacidad física, aun cuando tenga calificaciones aprobatorias en los exámenes teóricos.
+
+###### ARTÍCULO 39.
+
+Cuando por motivos ajenos a la Secretaría, algún participante se encuentre impedido para presentar o continuar la prueba de capacidad física, se le tendrá como "NO APTO". Para el personal de los servicios administrativos, se procederá en la misma forma, siempre y cuando no haya alcanzado la puntuación mínima aprobatoria.
+
+###### ARTÍCULO 40.
+
+Una vez iniciada la prueba no podrá ser suspendida. Los participantes dispondrán de una sola oportunidad para presentar cualquiera de las pruebas.
+
+###### ARTÍCULO 41.
+
+El desarrollo de las pruebas se sujetará a lo establecido en la Ley, este Reglamento, Instructivos y demás documentos que sirvan de base para los concursos de selección.
+
+### CAPÍTULO III. Causas de exclusión para participar en las Promociones de Sargentos Primeros Especialistas; Especial, General y Superior
+
+###### ARTÍCULO 42.
+
+Son causas de exclusión para participar en las Promociones correspondientes:
+
+I. Estar comprendido en cualesquiera de las situaciones previstas en el artículo 35 de la Ley;
+
+II. No reunir alguno de los requisitos establecidos en la Ley y en este Reglamento, para los participantes de la Promoción respectiva;
+
+III. Encontrarse en trámite de retiro por inutilidad, considerándose que se inicia el referido trámite en la fecha en que se expida el acuerdo correspondiente, de conformidad con las disposiciones aplicables;
+
+IV. No acreditar buena conducta militar o civil;
+
+V. No presentar las pruebas de la Promoción de que se trate por causas imputables al participante;
+
+VI. Haber renunciado, aplazado, reprobado o no terminar por cualquier motivo imputable al participante el curso de aplicación o perfeccionamiento que estatuya como obligatorio el Plan General de Educación Militar, de conformidad con las causales de baja establecidas en el Reglamento Interior de los planteles respectivos;
+
+VII. No acreditar buena salud;
+
+VIII. En los casos del personal especialista, carecer de certificado, título o diploma, para comprobar su carácter de técnico o profesionista, cuando no cuente con escalafón propio, y
+
+IX. En los casos del personal especialista que haya obtenido sus conocimientos empíricamente, carecer del dictamen aprobatorio o de la acreditación por parte de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea respecto de sus capacidades y habilidades, con base en el artículo 21 de la Ley.
+
+### CAPÍTULO IV. Modalidades de Ascenso
+
+#### SECCIÓN PRIMERA. Por Propuesta
+
+SUBSECCIÓN "A"
+
+De Soldado a Cabo
+
+###### ARTÍCULO 43.
+
+Para el ascenso a Cabo, los Comandantes de Unidad o los Jefes de Dependencia, deberán verificar que se reúnan los requisitos establecidos en la Ley y se ajustarán al procedimiento siguiente:
+
+I. En las Unidades, la propuesta la formularán por escrito los Comandantes de Compañía, Escuadrón o Batería o sus equivalentes en la Fuerza Aérea, a su Comandante de Corporación. En las dependencias e instalaciones, la formularán los responsables de las oficinas administrativas, dirigidas al titular del organismo. En ambos casos, se expresará:
+
+A. Nombre y Edad;
+
+B. Tiempo de Servicios;
+
+C. Antigüedad en el empleo;
+
+D. Conducta militar y civil;
+
+E. Salud y capacidad física, y
+
+F. Aptitud profesional.
+
+El Comandante de la Unidad o el Jefe de la Dependencia acordará que se verifiquen los datos contenidos en la propuesta.
+
+II. El Comandante de Unidad o el Jefe de Dependencia ordenará la activación de un curso de preparación de acuerdo con la Directiva General de Adiestramiento y, posteriormente, procederá a la selección del personal mediante exámenes de aptitud para el mando, conocimientos militares y de cultura general;
+
+III. Para comprobar la aptitud profesional se nombrará un jurado, en el que fungirá como Presidente el Segundo Comandante de la Unidad o su equivalente en las Dependencias y como vocales dos Jefes u Oficiales, con el objeto de examinar al personal propuesto, formulándose el acta de examen correspondiente;
+
+IV. Con base en el resultado del examen, el Comandante de la Unidad o el Jefe de la Dependencia remitirá a la Dirección correspondiente la documentación para su aprobación, solicitando se expida el nombramiento respectivo;
+
+V. Una vez aprobada la propuesta, las Direcciones comunicarán las órdenes de ascenso y expedirán los nombramientos, y
+
+VI. Cuando el titular de la Unidad, Dependencia o instalación reciba el nombramiento aprobado, procede a comunicar el ascenso al interesado, disponiendo que se agregue copia a su expediente.
+
+SUBSECCIÓN "B"
+
+De Cabo a Sargento Segundo y de Sargento Segundo a Sargento Primero Especialista
+
+###### ARTÍCULO 44.
+
+Para ser ascendidos, los Cabos y Sargentos Segundos Especialistas que no cuenten con escuelas de formación, deberán de cumplir con lo siguiente:
+
+I. Tener como mínimo el tiempo de servicios que se indica:
+
+A. Cabos: 3 años.
+
+B. Sargentos Segundos: 5 años.
+
+II. Antigüedad en el Grado: 1 año.
+
+III. Tiempo de servicios en la especialidad:
+
+A. Cabos: 1 año.
+
+B. Sargentos Segundos: 3 años, y
+
+IV. Servir encuadrados en unidades, dependencias e instalaciones en funciones de su especialidad.
+
+###### ARTÍCULO 45.
+
+Los Comandantes de Unidad o los Jefes de Dependencia remitirán las propuestas a la Dirección General correspondiente, previa selección que incluya exámenes de aptitud para el mando, conocimientos militares, de la especialidad y de cultura general, con el objeto de que se promueva al personal que posea las cualidades y aptitudes para el desempeño del Grado inmediato superior. En lo conducente se aplicará el procedimiento al que se refiere el artículo 43 de este Reglamento.
+
+#### SECCIÓN SEGUNDA. Por Egreso de algún Establecimiento de Educación Militar
+
+###### ARTÍCULO 46.
+
+El personal egresado de los Planteles Militares obtendrá la jerarquía que establezca el Reglamento Interior del Plantel correspondiente.
+
+###### ARTÍCULO 47.
+
+La Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea acreditará la aprobación de los cursos con el certificado de estudios o el título correspondiente, a fin de que las Direcciones giren las órdenes de ascenso y expidan los nombramientos y patentes respectivos.
+
+#### SECCIÓN TERCERA. Por Aprobación del Cuarto y Quinto año de las carreras en las Escuelas Militar de Ingenieros y Médico Militar
+
+###### ARTÍCULO 48.
+
+A los pasantes de las carreras de ingeniería y medicina, se les otorgará la jerarquía que establezca el Reglamento Interior de su Plantel, siempre que hayan aprobado satisfactoriamente los exámenes correspondientes.
+
+###### ARTÍCULO 49.
+
+La Dirección del Plantel acreditará la aprobación de los exámenes, conforme a lo establecido en su Reglamento Interior, para que, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, se remita a la Dirección respectiva la constancia que corresponda, se giren las órdenes de ascenso y se expidan las patentes a los interesados.
+
+#### SECCIÓN CUARTA. Participantes en las Promociones
+
+###### ARTÍCULO 50.
+
+Las Direcciones Generales y el Estado Mayor estarán facultados para llevar a cabo el proceso de las Promociones previstas en la Ley y el presente Reglamento.
+
+###### ARTÍCULO 51.
+
+Las Direcciones Generales harán las comunicaciones correspondientes al personal que haya acreditado los requisitos establecidos en la Ley con 15 días de anticipación al inicio de su participación en la Promoción.
+
+###### ARTÍCULO 52.
+
+En forma similar al artículo anterior, se notificarán las exclusiones del personal con 15 días de anticipación a la fecha señalada para el inicio de su participación, indicando a los afectados el motivo y fundamento que le impida participar en la Promoción de que se trate.
+
+#### SECCIÓN QUINTA. Por acreditar la aptitud profesional en la Promoción Especial
+
+###### ARTÍCULO 53.
+
+La Promoción Especial tiene como propósito comprobar la aptitud profesional de los Subtenientes que acrediten los requisitos señalados para el ascenso a Teniente en el artículo 19 de la Ley.
+
+###### ARTÍCULO 54.
+
+Los Subtenientes que reúnan los requisitos establecidos en la Ley, tienen derecho a participar una sola vez en la Promoción Especial.
+
+###### ARTÍCULO 55.
+
+Para esta Promoción, el Estado Mayor fijará una puntuación mínima aprobatoria con el objeto de que los Subtenientes que la alcancen y resulten aptos en las pruebas prácticas, sean ascendidos a Teniente.
+
+#### SECCIÓN SEXTA. Por Concurso de Selección
+
+SUBSECCIÓN "A"
+
+Promoción de Sargentos Primeros Especialistas
+
+###### ARTÍCULO 56.
+
+Los Sargentos Primeros Especialistas que carezcan de escuelas de formación, podrán participar en este concurso para obtener el ascenso a Subteniente, al satisfacer los requisitos que señala el artículo 14 de la Ley.
+
+###### ARTÍCULO 57.
+
+Los participantes deberán presentar copia certificada del título profesional, diploma o certificado que acredite los conocimientos del nivel de estudios correspondiente, a fin de que la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, expida la certificación correspondiente.
+
+###### ARTÍCULO 58.
+
+Los participantes que hayan obtenido empíricamente los conocimientos de su especialidad, deberán presentar el dictamen técnico aprobatorio de sus capacidades y habilidades, expedido por la Dirección General de Educación Militar.
+
+###### ARTÍCULO 59.
+
+El Estado Mayor establecerá la puntuación necesaria para que los Sargentos Primeros sean ascendidos a Subtenientes. Para el efecto, la Dirección correspondiente emitirá las órdenes de ascenso y las patentes respectivas.
+
+SUBSECCIÓN "B"
+
+Promoción General
+
+###### ARTÍCULO 60.
+
+La Promoción General arrojará resultados que permitan al Estado Mayor promover a los Mayores y Oficiales al Grado inmediato superior, siempre que acrediten los requisitos señalados en los artículos 8, 18 y 20 de la Ley.
+
+###### ARTÍCULO 61.
+
+El Estado Mayor comunicará anualmente el inicio y la culminación del período general de pruebas, atendiendo a lo establecido en los artículos 16 y 23 de la Ley.
+
+###### ARTÍCULO 62.
+
+Los Tenientes, Capitanes y Mayores de Servicio que desempeñen los cargos especificados en el artículo 22 de la Ley para el personal de Arma, quedan sujetos a lo estipulado en los artículos 18 y 20 de la propia Ley para tener derecho a participar en la promoción, por lo que respecta al cómputo de tiempo de servicios en unidades.
+
+###### ARTÍCULO 63.
+
+A los Tenientes, Capitanes y Mayores de Arma que desempeñen los cargos especificados en el artículo 22 de la Ley, se les homologará el tiempo que duren en esa situación para los mismos efectos de los artículos 18, fracción III, y 20, fracción III, de la propia Ley, en una sola ocasión de la siguiente forma:
+
+I. Cuando participen en Promoción y no obtengan el ascenso, tendrán derecho a seguir participando en años subsiguientes, siempre que reúnan el resto de los requisitos establecidos en la Ley, y
+
+II. Cuando participen en Promoción y obtengan el ascenso, deberán ser encuadrados en una situación que les permita cumplir con el tiempo de servicios en el Grado exigido por la Ley, a efecto de que tengan derecho a participar en la Promoción para obtener el siguiente ascenso.
+
+###### ARTÍCULO 64.
+
+Los interesados que se encuentran en los supuestos de los artículos 62 y 63 del presente Reglamento, podrán solicitar su encuadramiento para cumplir los requisitos exigidos por la Ley, a fin de que se les permita participar en la Promoción que les corresponda.
+
+###### ARTÍCULO 65.
+
+Los ascensos se conferirán a los participantes que obtengan las puntuaciones más altas y resulten aptos en las pruebas prácticas y de capacidad física que se apliquen.
+
+###### ARTÍCULO 66.
+
+Los Oficiales y Mayores Especialistas para tener derecho a participar en la Promoción para el ascenso a un Grado inmediato superior, deberán cubrir los requisitos siguientes:
+
+I. Los que no cuentan con escalafón, presentarán copia certificada del título profesional, diploma o certificado que acredite los conocimientos respectivos del nivel de estudios correspondientes, previo trámite para verificar la autenticidad del documento, de conformidad con las disposiciones aplicables, y
+
+II. Los que hayan obtenido empíricamente los conocimientos de su especialidad, presentarán, previo examen práctico, el dictamen técnico aprobatorio de sus capacidades y habilidades, expedido por la Dirección General de Educación Militar y Rectoría de la Universidad y del Ejército y Fuerza Aérea.
+
+###### ARTÍCULO 67.
+
+Los Oficiales y Jefes potenciales para concursar en la Promoción General que hayan renunciado, solicitado aplazamiento para realizar los cursos previstos en el artículo 8, fracción V, de la Ley o causado baja de los mismos por reprobar materias o por causas no imputables a la Secretaría, sólo podrán ser considerados para participar en la promoción hasta que acrediten los mismos.
+
+#### SECCIÓN SÉPTIMA. Selección de Personal para el Ascenso
+
+###### ARTÍCULO 68.
+
+De conformidad con lo previsto en el artículo 16 de la Ley, el número de ascensos en cada especialidad y jerarquía será determinado, tomando como base las vacantes existentes y las disposiciones presupuestales aplicables.
+
+###### ARTÍCULO 69.
+
+La aptitud profesional señalada en la fracción VI del artículo 8 de la Ley, se determinará por la puntuación acumulada en los exámenes teóricos sustentados.
+
+La calificación mínima aprobatoria será de 60 puntos por examen. Se considerará como "NO APTO PROFESIONALMENTE" al participante que repruebe 4 exámenes teóricos, habiendo presentado 7 o más; así como al que repruebe 3, habiendo presentado 5 o 6 y al que repruebe 2 de 4 o menos. El participante que se encuentre en estos supuestos, no podrá ser promovido al Grado inmediato superior.
+
+###### ARTÍCULO 70.
+
+De igual manera, las pruebas prácticas correspondientes a cada Arma, Servicio o Especialidad serán parte complementaria y obligatoria para determinar la aptitud profesional; por lo que, al resultar "NO APTO" en cualquiera de éstas, el participante no será ascendido.
+
+###### ARTÍCULO 71.
+
+No serán promovidos al Grado inmediato superior los participantes que resulten "NO APTOS" en la prueba de capacidad física, aun cuando hayan obtenido las más altas puntuaciones en los exámenes teóricos.
+
+###### ARTÍCULO 72.
+
+No se promoverá al Grado inmediato superior a los participantes que, habiendo obtenido calificaciones aprobatorias en los exámenes teóricos, pruebas prácticas y de capacidad física, se coloquen en alguna de las situaciones previstas en el artículo 35 de la Ley, se les determine mala conducta o se les dictamine médicamente algún Grado de inutilidad, después de la Promoción y hasta antes de otorgarse los ascensos.
+
+###### ARTÍCULO 73.
+
+Los ascensos serán conferidos, siempre y cuando, además de observarse lo especificado con anterioridad, se dé plena satisfacción a todas y cada una de las circunstancias contenidas en el artículo 8 de la Ley.
+
+###### ARTÍCULO 74.
+
+Los Comandantes de unidad o los Jefes de dependencia o instalación deberán hacer el seguimiento del estado de salud y comportamiento del personal que haya participado en la Promoción del año en curso, informando al Estado Mayor y a las Direcciones Generales, en cuanto se incumplan las circunstancias establecidas en las fracciones III y IV del artículo 8 de la Ley o bien cuando el participante se coloque en algunas de las situaciones previstas en el artículo 35 de la citada Ley remitiendo de inmediato la documentación comprobatoria de cada caso.
+
+###### ARTÍCULO 75.
+
+Las puntuaciones y los demás resultados logrados por los participantes que hayan quedado sin ascender en una Promoción, carecerán de validez para los concursos posteriores.
+
+#### SECCIÓN OCTAVA. Promoción Superior por Acuerdo del Presidente de la República
+
+SUBSECCIÓN "A"
+
+Generalidades
+
+###### ARTÍCULO 76.
+
+En la Promoción Superior, el Secretario propondrá al Presidente de la República a los Tenientes Coroneles, Coroneles y Generales del Ejército y Fuerza Aérea Mexicanos que puedan ser ascendidos al Grado inmediato superior, siempre que acrediten los requisitos señalados en los artículos 32 y 34 de la Ley.
+
+###### ARTÍCULO 77.
+
+El Estado Mayor elaborará anualmente el Instructivo que regirá la Promoción Superior, la cual contendrá al menos:
+
+I. Los aspectos jurídicos, técnicos y administrativos;
+
+II. Los parámetros del examen médico y de la prueba de capacidad física;
+
+III. Los períodos de evaluación;
+
+IV. Los centros de examen;
+
+V. Los motivos de exclusión previstos en la Ley y en el presente Reglamento;
+
+VI. Los organismos participantes y sus responsabilidades, y
+
+VII. Los demás aspectos que determine el Estado Mayor.
+
+###### ARTÍCULO 78.
+
+De conformidad con lo previsto en el artículo 34 de la Ley, las Direcciones elaborarán y remitirán a la Subsecretaría de la Defensa Nacional, las relaciones del personal que consideren como potencial para participar en la Promoción Superior.
+
+###### ARTÍCULO 79.
+
+Con base en el Personal Potencial, el Estado Mayor y la Subsecretaría de la Defensa Nacional elaborarán un cronograma que incluya las actividades, responsabilidades, períodos y fechas que, una vez aprobado por el Secretario, regulará el desarrollo de las etapas de esta Promoción.
+
+###### ARTÍCULO 80.
+
+La integración de los grupos para la aplicación de los exámenes médicos y de capacidad física militar estará a cargo del Estado Mayor.
+
+SUBSECCIÓN "B"
+
+De la Comisión de Evaluación
+
+###### ARTÍCULO 81.
+
+La Comisión de Evaluación, integrada en los términos del artículo 33 de la Ley, iniciará sus sesiones con la presencia de al menos cuatro de sus miembros y las mismas se llevarán a cabo conforme a la directiva y al cronograma aprobados por el Secretario; sus resoluciones se emitirán en forma consensuada por los integrantes que participen en cada sesión.
+
+###### ARTÍCULO 82.
+
+Cuando algún integrante de dicha Comisión esté considerado para participar en la Promoción Superior, será excluido de las sesiones mientras sean evaluados los militares de su misma jerarquía y especialidad.
+
+###### ARTÍCULO 83.
+
+En caso de que alguno de los miembros de la Comisión tenga parentesco con algún participante o éste se desempeñe como su subordinado directo, no deberá asistir a la sesión correspondiente. El Presidente de la Comisión será sustituido en sus funciones por el Primer Vocal.
+
+###### ARTÍCULO 84.
+
+Las Direcciones de las Armas y Servicios opinarán técnicamente en calidad de asesores durante las sesiones de la Comisión, cuando ésta así lo requiera.
+
+###### ARTÍCULO 85.
+
+La Comisión tomará en cuenta el desempeño profesional, la capacidad de liderazgo y la actuación militar en general, para reunir los elementos de juicio sobre el mérito, la aptitud y competencia profesional de los participantes.
+
+###### ARTÍCULO 86.
+
+Son facultades de la Comisión de Evaluación:
+
+I. Instruir a las Direcciones para que remitan los extractos de antecedentes, hojas de actuación, certificados de conducta y demás documentación necesaria del Personal Potencial para participar en la Promoción Superior;
+
+II. Dar a conocer a los participantes el proceso de evaluación;
+
+III. Excluir del Personal Potencial a los participantes que no reúnan los requisitos establecidos en la Ley y en el presente Reglamento o que hagan uso de medios fraudulentos durante la presentación de los exámenes y pruebas;
+
+IV. Incluir en el Personal Potencial a quienes se encontraban excluidos en un primer momento para participar, cuando resulte procedente;
+
+V. Capturar los datos e integrar los expedientes del personal participante, así como de los documentos que servirán de base para el proceso de análisis;
+
+VI. Analizar el desempeño profesional de los participantes conforme a lo dispuesto en el presente Reglamento;
+
+VII. Requerir la opinión técnica de las Direcciones;
+
+VIII. Comunicar al personal que no haya acreditado buena salud, el padecimiento y las recomendaciones emitidas por los médicos para su tratamiento;
+
+IX. De acuerdo con el proceso de la Promoción Superior, elaborar la relación final de los participantes;
+
+X. Presentar el resultado de la Promoción Superior al Alto Mando;
+
+XI. Resolver las inconformidades o incidentes que se presenten en el desarrollo de la Promoción Superior, y
+
+XII. Las demás que sean necesarias para cumplir con los propósitos que le establece la Ley.
+
+###### ARTÍCULO 87.
+
+El Presidente de la Comisión podrá suspender las sesiones de la misma, cuando la necesidad del servicio lo exija.
+
+###### ARTÍCULO 88.
+
+Al término de cada sesión, el Secretario de la Comisión de Evaluación, elaborará el reporte de análisis y consulta con los resultados e incidentes que se presenten.
+
+###### ARTÍCULO 89.
+
+La documentación que se genere con motivo de la Promoción Superior, será del manejo exclusivo de la Comisión.
+
+SUBSECCIÓN "C"
+
+Proceso de Evaluación
+
+###### ARTÍCULO 90.
+
+Se entiende por proceso de evaluación a las actividades que realiza la Comisión de Evaluación para dar cumplimiento al propósito que le establece el artículo 33 de la Ley.
+
+###### ARTÍCULO 91.
+
+La evaluación de los participantes se llevará a cabo atendiendo preferentemente al mérito, aptitud y competencia profesionales, materializadas en cuatro áreas fundamentales: objetiva, de análisis y consulta, de salud y de capacidad física.
+
+###### ARTÍCULO 92.
+
+En el área objetiva se consolidará la puntuación que se obtenga de la revisión del expediente de cada uno de los participantes. Estos aspectos, definidos y fácilmente mensurables, serán insertados en el formato de la hoja individual denominada "Puntuación Objetiva" del sistema computarizado de la Promoción Superior, la cual considerará los siguientes parámetros:
+
+I. Aspectos positivos:
+
+A. Ascensos, tiempo de servicios y antigüedad en el empleo:
+
+a. Se otorgarán puntos a los participantes que hayan obtenido sus ascensos en primera, segunda y tercera oportunidad en la Promoción General y Especial, adicionando puntos a los que ocuparon los tres primeros lugares en las referidas Promociones.
+
+b. Se asignará puntuación por la antigüedad en el Grado que tenga el participante al momento de la evaluación y por el total del tiempo de servicios prestados en el Ejército y Fuerza Aérea Mexicanos, según la tabla siguiente:
+
+ASCENSOS, TIEMPO DE PUNTOS
+
+SERVICIOS Y ANTIGÜEDAD
+
+EN EL EMPLEO
+
+ASCENSO A TENIENTE 10
+
+EN 1/a. OPORTUNIDAD
+
+ASCENSO A TENIENTE EN 7
+
+1/er. LUGAR
+
+ASCENSO A CAPITÁN 2/o. 2.5
+
+EN 3/a. OPORTUNIDAD
+
+ASCENSO A CAPITÁN 2/o. EN 6
+
+2/o. LUGAR
+
+ASCENSO A CAPITÁN 1/o. EN 5
+
+2/a. OPORTUNIDAD
+
+ASCENSO A CAPITÁN 1/o. EN 3
+
+5/o. LUGAR
+
+ASCENSO A MAYOR EN 0
+
+4/a. OPORTUNIDAD
+
+ASCENSO A TENIENTE CORONEL 10
+
+EN 1/a. OPORTUNIDAD
+
+ASCENSO A TENIENTE CORONEL 4
+
+EN 4/o. LUGAR
+
+ASCENSO A CORONEL 0
+
+ASCENSO A GENERAL BRIGADIER -20
+
+FUERA DE PROMOCIÓN
+
+ASCENSO A GENERAL DE BRIGADA 0
+
+OPORTUNIDAD DE PARTICIPACIÓN 0 (EN
+
+(1/a. OPORTUNIDAD, 4 AÑOS, 2/a., 3,
+
+0 PUNTOS) 3/a., 6,
+
+4/a., 9)
+
+TIEMPO DE SERVICIOS EN LA 0 (36,
+
+CARRERA (GENERAL DE BRIGADA 2; 37, 4;
+
+PUNTOS)
+
+35 AÑOS, 0
+
+38 O MÁS, 6)
+
+TOTAL DE PUNTOS POR 27.5
+
+ASCENSOS, TIEMPO DE
+
+SERVICIOS Y ANTIGÜEDAD
+
+EN EL EMPLEO
+
+c. Serán restados los puntos correspondientes por cada ascenso que el participante haya obtenido fuera de Promoción o sin tener la antigüedad en el Grado que establece como requisito para cada jerarquía la Ley, con excepción de los otorgados conforme a lo establecido en su artículo 31.
+
+B. Cargos y comisiones desempeñados:
+
+Se calificarán los cargos que el participante haya desempeñado en las Unidades, Dependencias e Instalaciones del Ejército y Fuerza Aérea, variando la puntuación de acuerdo con el nivel de responsabilidad del cargo o comisión y el período desempeñado, desde la jerarquía de Subteniente hasta la que tenga al momento de la evaluación, como a continuación se indica:
+
+CARGOS Y AÑOS PUNTOS
+
+COMISIONES
+
+DESEMPEÑADOS
+
+CADETE 4 0
+
+ENCUADRADO 2 19.006
+
+EN UNIDADES
+
+INSTRUCTOR DE 1 10.9865
+
+MATERIAS TÁCTICAS
+
+OFICIAL ESTUDIANTE 3 29.9208
+
+EN PLANTEL
+
+NACIONAL
+
+COMANDANTE DE 2 32.923
+
+COMPAÑÍA, ESCUADRÓN
+
+O BATERÍA
+
+JEFE DE SECCIÓN DE 1 19.032
+
+ESTADO MAYOR DE
+
+BRIGADA, CUERPO DE
+
+EJÉRCITO, ZONA O
+
+REGIÓN MILITAR
+
+JEFE DE SECCIÓN DE 3 52.4505
+
+INSTRUCCIÓN, INFORMACIÓN
+
+Y OPERACIONES O SECCIÓN
+
+DE PERSONAL, ABASTECIMIENTO
+
+Y AYUDANTÍA
+
+AYUDANTE GENERAL 1 23.0214
+
+DEL ALTO MANDO
+
+SUBJEFE DE ESTADO 3 62.9625
+
+MAYOR DE ZONA MILITAR
+
+AGREGADO MILITAR ADJUNTO 2 42.0325
+
+JEFE DE SUBSECCIÓN 3 63.02
+
+DEL ESTADO MAYOR
+
+DE LA DEFENSA NACIONAL
+
+COMANDANTE 4 86.0529
+
+DE CORPORACIÓN
+
+AYUDANTE GENERAL 2 40.004
+
+DEL HEROICO
+
+La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en la tabla anterior, considerando el nivel de responsabilidad y período de desempeño.
+
+C. Preparación profesional:
+
+a. De conformidad con el artículo 8, fracción V, de la Ley, se considerarán los cursos de formación, de aplicación, capacitación, actualización, de especialización, de perfeccionamiento o superiores, los cuales se especifican en el Plan General de Educación Militar;
+
+b. También se tomarán en cuenta los cursos de capacitación; perfeccionamiento o superiores realizados en el País o en el extranjero, siempre y cuando en ambos casos se relacionen con el Arma, Servicio o Especialidad de quien los efectúe. Respecto a los cursos civiles, éstos deberán encontrarse registrados en la Dirección General de Educación Militar y Rectoría del Ejército y Fuerza Aérea;
+
+c. Asimismo, se otorgarán puntos adicionales al personal que acredite haber obtenido uno de los tres primeros lugares en cursos nacionales o en el extranjero, como se describe a continuación:
+
+PREPARACIÓN PROFESIONAL PUNTOS
+
+CURSO DE FORMACIÓN DE OFICIALES 10
+
+1/er. LUGAR CURSO DE FORMACIÓN 5
+
+DE OFICIALES
+
+INTERRUPCIÓN DE CURSO DE APLICACIÓN -5
+
+CURSO DE APLICACIÓN O CAPACITACIÓN 7
+
+PERFECCIONAMIENTO DEL 9
+
+CURSO SUPERIOR DE LAS ARMAS
+
+Y SERVICIOS
+
+CURSO DE ACTUALIZACIÓN; 7
+
+LOS IMPARTIDOS EN EL CENTRO
+
+DE ESTUDIOS DEL EJÉRCITO Y
+
+FUERZA AÉREA
+
+CURSOS SUPERIORES: DE MANDO 30
+
+Y ESTADO MAYOR; MÉDICO MILITAR;
+
+MILITAR DE INGENIEROS; MILITAR DE
+
+ODONTOLOGÍA; INGENIEROS EN
+
+TRANSMISIONES MILITARES,
+
+Y METEORÓLOGO
+
+2/o. LUGAR CURSO SUPERIOR DE MANDO 4
+
+Y ESTADO MAYOR, MÉDICO MILITAR DE
+
+INGENIEROS, MILITARES DE ODONTOLOGÍA,
+
+INGENIEROS EN TRANSMISIONES MILITARES,
+
+Y METEORÓLOGOS
+
+CURSO MILITAR EN EL EXTRANJERO 7
+
+DE APLICACIÓN, CAPACITACIÓN,
+
+ACTUALIZACIÓN Y DE ESPECIALIZACIÓN
+
+CURSO MILITAR EN EL EXTRANJERO 0
+
+DE PERFECCIONAMIENTO
+
+INTERRUMPIDO POR ORDEN SUPERIOR
+
+CURSO MILITAR EN EL EXTRANJERO 8
+
+DE PERFECCIONAMIENTO DE
+
+ESTADO MAYOR
+
+CURSO MILITAR EN EL EXTRANJERO 15
+
+SUPERIOR DE LICENCIATURA, MAESTRÍA
+
+Y DOCTORADO, ESTADO MAYOR CONJUNTO
+
+Y COLEGIO DE DEFENSA
+
+3/er. LUGAR CURSO MILITAR 3
+
+EN EL EXTRANJERO
+
+CURSOS DE ESPECIALIZACIÓN: 15
+
+CURSO SUPERIOR DE GUERRA,
+
+ESPECIALIDADES MÉDICAS DE LA
+
+ESCUELA MILITAR DE GRADUADOS
+
+DE SANIDAD
+
+ESTUDIOS CIVILES: 5
+
+CAPACITACIÓN O ACTUALIZACIÓN; DE
+
+TÉCNICO O ESPECIALIZACIÓN
+
+ESTUDIOS CIVILES DE LICENCIADO 10
+
+O POSGRADO
+
+CURSO DE ADMINISTRACIÓN 20
+
+PARA LA SEGURIDAD Y DEFENSA
+
+NACIONALES O CURSO DE MANDO
+
+SUPERIOR DE SEGURIDAD NACIONAL
+
+DEL CENTRO DE ESTUDIOS
+
+SUPERIORES NAVALES
+
+TOTAL DE PUNTOS POR 150
+
+PREPARACIÓN PROFESIONAL
+
+d. Por otra parte, se restarán los puntos correspondientes por los aplazamientos de cursos o cuando éstos no sean finalizados por causas no imputables a la Secretaría.
+
+D. Recompensas militares:
+
+Serán tomadas en cuenta las recompensas Militares Nacionales, atendiendo al heroísmo, capacidad profesional, servicios a la Patria y demás hechos meritorios de los participantes previstas en la Ley, otorgándose valores para las Condecoraciones de Perseverancia, Valor Heroico, Mérito Militar, Técnico, Facultativo, Docente, Deportivo, en la Campaña Contra el Narcotráfico, Servicios Distinguidos, Condecoraciones, Menciones Honoríficas, Distinciones y Citaciones, de la siguiente forma:
+
+RECOMPENSAS MILITARES PUNTOS
+
+PERSEVERANCIA 5/a. CLASE 1
+
+PERSEVERANCIA 4/a. CLASE 2
+
+PERSEVERANCIA 3/a. CLASE 3
+
+PERSEVERANCIA 2/a. CLASE 4
+
+PERSEVERANCIA 1/a. CLASE 5
+
+LEGIÓN DE HONOR 1.5
+
+MÉRITO MILITAR 1.75
+
+PERSEVERANCIA ESPECIAL (35 AÑOS) 6
+
+DISTINCIONES 1
+
+CITACIONES 1
+
+TOTAL DE PUNTOS POR 26.25
+
+RECOMPENSAS MILITARES
+
+II. Aspectos negativos:
+
+A. Correctivos disciplinarios:
+
+Los correctivos impuestos en toda la carrera militar se sancionarán con puntos negativos, tomando en cuenta la jerarquía que tenía el participante al momento de cometer la infracción, de la siguiente forma:
+
+CORRECTIVOS DÍAS PUNTOS
+
+DISCIPLINARIOS
+
+ARRESTO DE CAPITÁN 1° 3 - 0.15
+
+ARRESTO DE MAYOR 1 - 0.12
+
+ARRESTO DE 1 - 0.165
+
+TENIENTE CORONEL
+
+ARRESTO DE CORONEL 1 - 0.28
+
+ARRESTO DE 10 - 4.25
+
+GENERAL BRIGADIER
+
+ARRESTO DE GENERAL 1 - 0.50
+
+DE BRIGADA
+
+TOTAL DE PUNTOS -5.465
+
+NEGATIVOS POR
+
+CORRECTIVOS DISCIPLINARIOS
+
+B. Procesos penales:
+
+a. Los procesos penales se sancionarán conforme a la jerarquía que ostentaba el participante en el momento de cometer el ilícito y de acuerdo con las resoluciones del Juez o los Tribunales Militares, otorgando puntuación negativa por cada retiro de acción penal o sentencia condenatoria, de la siguiente manera:
+
+PROCESOS PENALES PUNTOS
+
+TENIENTE: ABSUELTO 0
+
+DEL PROCESO
+
+TENIENTE CORONEL: -10.45
+
+CON RETIRO DE LA ACCIÓN PENAL
+
+CORONEL: CON -10.50
+
+SENTENCIA CONDENATORIA
+
+TOTAL DE PUNTOS NEGATIVOS -20.95
+
+POR PROCESOS PENALES
+
+b. No serán sancionados los procesos penales cuando el participante obtenga su libertad por sentencia absolutoria.
+
+C. Cambios de adscripción en observación de su conducta o por convenir al buen servicio:
+
+Este tipo de incidentes se evaluarán con puntos negativos, tomando como base la jerarquía que tenía el participante en el momento de sufrir el cambio de adscripción, de la forma siguiente:
+
+CAMBIOS DE ADSCRIPCIÓN PUNTOS
+
+EN OBSERVACIÓN DE
+
+SU CONDUCTA O POR
+
+CONVENIR AL BUEN SERVICIO
+
+CAMBIO EN OBSERVACIÓN -14
+
+DE SU CONDUCTA DE CAPITÁN 1°
+
+CAMBIO POR CONVENIR AL BUEN -15
+
+SERVICIO DE TENIENTE CORONEL
+
+CAMBIO POR CONVENIR AL BUEN -16
+
+SERVICIO DE GENERAL BRIGADIER
+
+TOTAL DE PUNTOS NEGATIVOS -45
+
+POR CAMBIOS DE ADSCRIPCIÓN
+
+D. Conducta militar y civil:
+
+Para evaluar la conducta militar y civil en las jerarquías de General, Jefe u Oficial, se tomará como referencia la información asentada en las hojas de actuación y certificados de conducta que obren en los expedientes personales, asignándose puntuación negativa por cada conducta mala o regular que tenga el participante, de la siguiente forma:
+
+CONDUCTA MILITAR Y CIVIL PUNTOS
+
+MALA CONDUCTA MILITAR Y -7
+
+CIVIL DE CAPITÁN 1°
+
+REGULAR CONDUCTA MILITAR Y -10
+
+CIVIL DE GENERAL
+
+TOTAL DE PUNTOS NEGATIVOS -17
+
+POR CONDUCTA MILITAR Y CIVIL
+
+E. Conceptos particulares negativos, exhortos, amonestaciones y extrañamientos:
+
+De conformidad con la información asentada en las hojas de actuación y demás documentación que obre en los expedientes personales, por cada aspecto negativo señalado se asignará puntuación negativa, de la siguiente forma:
+
+CONCEPTOS PARTICULARES NEGATIVOS PUNTOS
+
+CONCEPTO PARTICULAR -4.15
+
+NEGATIVOS DE MAYOR
+
+CONCEPTO PARTICULAR -4.70
+
+NEGATIVOS DE CORONEL
+
+TOTAL PUNTOS NEGATIVOS -8.85
+
+POR CONCEPTOS NEGATIVOS
+
+EXHORTOS, AMONESTACIONES PUNTOS
+
+Y EXTRAÑAMIENTOS
+
+EXHORTO DE CAPITÁN 1° -3.60
+
+EXHORTO DE MAYOR -4.15
+
+AMONESTACIÓN DE MAYOR -4.15
+
+EXHORTO DE TENIENTE CORONEL -4.15
+
+EXHORTO DE CORONEL -4.70
+
+AMONESTACIÓN DE CORONEL -4.70
+
+EXTRAÑAMIENTO DE CORONEL -4.70
+
+EXHORTO DE GENERAL BRIGADIER -5.25
+
+EXHORTO GENERAL DE BRIGADA -5.25
+
+TOTAL DE PUNTOS NEGATIVOS - 40.65
+
+POR EXHORTOS, AMONESTACIONES
+
+Y EXTRAÑAMIENTOS
+
+F. Licencias ilimitadas o especiales:
+
+Las licencias ilimitadas o especiales que excedan de seis meses en un período de diez años, se contabilizarán con puntos negativos, de la siguiente forma:
+
+LICENCIAS ILIMITADAS O ESPECIALES PUNTOS
+
+LICENCIA ORDINARIA DE 5 MESES 0
+
+LICENCIA ILIMITADA DE 7 MESES -2
+
+LICENCIA ESPECIAL DE 12 MESES -12
+
+TOTAL DE PUNTOS NEGATIVOS -14
+
+POR LICENCIAS ILIMITADAS O ESPECIALES
+
+G. Resumen:
+
+El sistema computarizado de la Promoción Superior suma en forma automatizada los aspectos positivos y resta los negativos, dando como resultado, la puntuación objetiva del participante.
+
+RESUMEN PUNTOS
+
+ASCENSOS, TIEMPO DE 27.5
+
+SERVICIOS Y ANTIGÜEDAD
+
+EN EL EMPLEO
+
+CARGOS Y COMISIONES 714.4793
+
+DESEMPEÑADOS
+
+PREPARACIÓN PROFESIONAL 150.00
+
+RECOMPENSAS MILITARES 26.25
+
+CORRECTIVOS DISCIPLINARIOS -5.465
+
+PROCESOS PENALES -20.95
+
+CAMBIOS DE ADSCRIPCIÓN -45
+
+EN OBSERVACIÓN DE SU
+
+CONDUCTA O POR CONVENIR
+
+AL BUEN SERVICIO
+
+CONDUCTA MILITAR Y CIVIL -17
+
+CONCEPTOS NEGATIVOS -8.85
+
+EXHORTOS, AMONESTACIONES -40.65
+
+Y EXTRAÑAMIENTOS
+
+LICENCIAS ILIMITADAS O ESPECIALES -14
+
+TOTAL DE LA PUNTUACIÓN OBJETIVA 766.3143
+
+###### ARTÍCULO 93.
+
+En el área de análisis y consulta se estudia, analiza, valora y complementa el área objetiva en base a la aptitud profesional, conducta militar y civil y actuación militar en general, disponiendo la Comisión de Evaluación de un rango de 255 puntos positivos a 200 puntos negativos para otorgar la calificación, considerando los siguientes aspectos:
+
+I. Aspectos positivos.
+
+A. Continuidad en la carrera militar:
+
+La Comisión de Evaluación otorgará una calificación máxima de 65 puntos, asignando valores de la siguiente forma:
+
+a. Los participantes con 4 años de antigüedad en el Grado, iniciarán con 40 puntos;
+
+b. Los participantes con 5 años o más de antigüedad en el Grado, iniciarán con 50 puntos;
+
+c. A la calificación inicial del participante, se sumarán 10 puntos para quienes ocuparon primeros lugares y 5 puntos para los que hayan obtenido los segundos y terceros lugares en los concursos de selección de Subteniente a Teniente Coronel, y
+
+d. A la calificación parcial se restarán 10 puntos negativos por cada ascenso obtenido en segunda, tercera, cuarta oportunidad o posterior, en los concursos de selección de Subteniente a Teniente Coronel.
+
+B. Preparación profesional:
+
+La Comisión de Evaluación otorgará una puntuación máxima de 50 puntos por los cursos militares y civiles efectuados por el participante en el país y en el extranjero en toda su carrera militar, asignando mayor valor a los contemplados en la ruta profesional militar, considerando únicamente la puntuación del último curso de la forma siguiente:
+
+a. Al curso de formación de oficiales, 15 puntos;
+
+b. Al curso de aplicación, 20 puntos;
+
+c. Al curso de capacitación o actualización, 25 puntos;
+
+d. Para los estudios a nivel licenciatura, 30 puntos;
+
+e. Al curso Superior de Guerra, 40 puntos, y
+
+f. A la maestría en Administración Militar para la Seguridad y Defensa Nacionales, 50 puntos.
+
+C. Actividades militares significativas:
+
+La Comisión de Evaluación otorgará una puntuación máxima de 30 puntos, de la siguiente forma:
+
+a. Por cada hecho de armas, 10 puntos;
+
+b. Por cada participación destacada en el Plan DN-III-E, 10 puntos, y
+
+c. Por cada aseguramiento importante en la campaña permanente contra el narcotráfico, 10 puntos.
+
+D. Variedad de cargos:
+
+La Comisión de Evaluación analizará los cargos ejercidos en la jerarquía que tenga el participante al momento de la evaluación y la inmediata anterior, considerando el período de duración, la importancia y el desempeño observado en el cargo o comisión, otorgando como máximo 60 puntos, como sigue:
+
+a. En Unidades, 10 puntos;
+
+b. En Estados Mayores, 10 puntos;
+
+c. En Planteles Militares, 10 puntos;
+
+d. Como Agregados Militares y Aéreos, 10 puntos;
+
+e. En Dependencias, 10 puntos, y
+
+f. Cuando el cargo sea como Comandante o Director de la unidad o dependencia, se sumarán 10 puntos.
+
+La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en el presente inciso, considerando el nivel de responsabilidad del desempeño y período de duración.
+
+E. Mando o Dirección:
+
+La Comisión de Evaluación otorgará 10 puntos por cada año que el participante se haya desempeñado en el ejercicio del mando o dirección de las unidades, dependencias e instalaciones y 5 puntos por cada año que el participante se haya desempeñado como segundo Comandante o Subdirector de las unidades, dependencias e instalaciones, sin rebasar los 50 puntos.
+
+F. Los aspectos positivos del desempeño profesional se sumarán arrojando la calificación parcial de estos factores:
+
+II. Aspectos negativos:
+
+A. Los correctivos disciplinarios, exhortos, amonestaciones y extrañamientos que se impongan al participante en la jerarquía actual y la inmediata anterior, serán sancionados por la Comisión de Evaluación sin rebasar los 50 puntos negativos de la siguiente manera:
+
+a. Por cada correctivo disciplinario ordenado por el Secretario con 10 puntos negativos y los que impongan el Subsecretario y el Oficial Mayor de la Secretaría con 5 puntos negativos;
+
+b. Por 25 días de arresto que tenga el participante, 5 puntos negativos;
+
+c. Tomando como referencia los 25 días de arresto, por cada 5 días que se incrementen, se sumarán 5 puntos negativos, hasta llegar a 70 días de arresto o más, asignando una puntuación máxima de 50 puntos negativos;
+
+d. Por menos de 24 días de arresto, no habrá puntos negativos, y
+
+e. Por cada exhorto, amonestación o extrañamiento que obre en su expediente se otorgarán 10 puntos negativos.
+
+B. Cambios de adscripción y conceptos negativos:
+
+a. La Comisión de Evaluación otorgará 10 puntos negativos por cada cambio por convenir al buen servicio, concepto negativo, mala conducta y por cada queja que tenga el participante en la jerarquía actual y la inmediata anterior, asignando una puntuación que no rebase los 50 puntos negativos, y
+
+b. Para tal efecto, la Comisión de Evaluación analizará los conceptos y notas emitidas por los Comandantes o Directores, considerando todo lo relativo a la reputación de la Unidad, Establecimiento o Dependencia; los vicios de la embriaguez, uso de drogas y juegos prohibidos por la ley; la disolución escandalosa; la negligencia en el servicio que no constituya un delito, y, todo lo que concierne a la dignidad militar, tomando como referencia las notas que obren en las Hojas de Servicios y de actuación del personal de Jefes y Generales.
+
+C. Deficiencias:
+
+La Comisión de Evaluación otorgará 10 puntos negativos por cada curso no finalizado, ascenso fuera de Promoción o sin la antigüedad en el Grado, con excepción de los otorgados conforme al artículo 31 de la Ley, por cada aplazamiento de cursos, renuncia a la Promoción, así como por encontrarse a disposición por más de un mes o fracción, considerando los sucesos ocurridos en toda su carrera militar, asignando como máximo 50 puntos negativos.
+
+D. Comisiones ajenas y procesos penales:
+
+a. La Comisión de Evaluación penalizará al participante en la jerarquía actual y la inmediata anterior con 5 puntos negativos por cada año que haya desempeñado comisiones ajenas al instituto armado o que haya disfrutado de licencias ilimitadas o especiales; y
+
+b. Se sumarán al participante 10 puntos negativos por cada retiro de acción penal o sentencia condenatoria por procesos ocurridos en toda su carrera militar, de acuerdo con las resoluciones del Juez o los Tribunales Militares.
+
+III. Los aspectos negativos del desempeño profesional, se restan a los aspectos positivos, arrojando la calificación del área de análisis y consulta, la cual será analizada y obtenida por la Comisión de Evaluación de la Promoción Superior, de la siguiente manera:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO 94.
+
+El área de salud se encontrará a cargo de la Dirección General de Sanidad y consistirá en un examen médico al personal participante para determinar su estado de salud, mediante el siguiente procedimiento:
+
+I. El Hospital Central Militar se constituirá en el centro de examen donde se aplicará la evaluación médica. Carecerán de validez los resultados de estudios médicos que presenten los participantes antes, durante o después de la fecha de su participación y que sean expedidos por cualquier otra institución civil o militar;
+
+II. El horario de los exámenes se establecerá en el Instructivo para la Promoción superior, y
+
+III. El examen médico comprenderá los estudios siguientes:
+
+A. Revisión de la historia clínica de cada General y Jefe evaluado;
+
+B. Análisis de sangre:
+
+a. Biometría hemática;
+
+b. Detección del virus a que se refiere la primera categoría, numerales 82 y 83, y la segunda categoría, numeral 45, del artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+
+c. Química sanguínea, y
+
+d. Antígeno prostático.
+
+C. Examen general de orina;
+
+D. Telerradiografía de tórax;
+
+E. Valoración odontológica;
+
+F. Exploración general:
+
+a. Inspección general;
+
+b. Marcha y estación de pie;
+
+c. Peso corporal/altura;
+
+d. Auscultación cardiaca;
+
+e. Palpación de abdomen, y
+
+f. Presión arterial.
+
+G. Valoración cardiaca en tres etapas:
+
+a. La Etapa "I" que consiste en la revisión de la Historia Clínica, mediante:
+
+1. Estudios de laboratorio:
+
+- B.H.Q.S. Hb;
+
+- Ht. E.G.O. Colesterol total;
+
+- L.D.L. Colesterol;
+
+- H.D.L. Colesterol, y
+
+- Triglicéridos.
+
+2. Telerradiografía de tórax.
+
+3. Electrocardiograma.
+
+b. Etapa "II".
+
+1. Prueba de esfuerzo.
+
+2. Ecocardiograma con dobutamina.
+
+3. Gamagrama cardiaco con mibi o talio.
+
+c. Etapa "III".
+
+Coronariografía.
+
+d. Las etapas II y III se aplicarán sólo en caso necesario para determinar con la mayor exactitud posible el estado de salud del participante, a juicio del personal médico especialista.
+
+H. Valoración oftalmológica:
+
+Incluye examen de fondo de ojo con dilatación de pupila con preparación especial, en los casos en que sea necesario.
+
+I. Valoración otorrinolaringológica.
+
+J. Consulta en las especialidades que sean necesarias.
+
+IV. De acuerdo con las técnicas utilizadas en el laboratorio de análisis clínicos del Hospital Central Militar, las cifras límite que serán consideradas como normales en el examen médico serán las siguientes:
+
+A. Análisis de sangre:
+
+Resultado
+
+a. Biometría hemática:
+
+1. Eritrocitos de 4.5 a 6.0 millones/mm³
+
+2. Leucocitos de 4000 a 11000/mm³
+
+3. Hemoglobina mujeres: 12 a 16 g/dl
+
+hombres: 14 a 18 g/dl.
+
+4. Plaquetas de 130,000 a 500,000/mm³
+
+5. Hematocrito 42 a 52%
+
+b. Obtener resultado negativo a la prueba del virus a que se refiere la primera categoría, numerales 82 y 83, y la segunda categoría, numeral 45, del artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+c. Química sanguínea:
+
+1. Urea 19 a 40 mg/dl.
+
+2. Glucosa 70 a 115 mg/dl.
+
+3. Creatinina 0.7 a 1.3 mg/dl.
+
+4. Ácido úrico 2.1 a 7.4 mg/dl.
+
+5. Colesterol total 60 a 239 mg/dl.
+
+6. Triglicéridos 50 a 210 mg/dl.
+
+7. H.D.L. colesterol 30 a 90 mg/dl.
+
+8. L.D.L. Menor de 150 mg/dl.
+
+B. Examen general de orina:
+
+a. Densidad 1010 – 1025
+
+b. PH 4.5 - 7.0
+
+c. Glucosa Negativo
+
+d. Proteínas Negativo
+
+e. Pigmentos biliares Negativo
+
+f. Células en sedimento Leucocitos 10/Campo máximo
+
+g. Eritrocitos 0 a 1/Campo
+
+h. Bacterias Sin bacterias o escasas
+
+i. Examen toxicológico Negativo
+
+C. Roentgenfoto. Normal
+
+D. Valoración odontológica:
+
+a. Caries dental Ninguna
+
+b. Restos radiculares Ninguna
+
+E. Exploración general. Normal
+
+F. Peso.
+
+Para el cálculo del peso se aplicará lo establecido en el artículo 27 de este Reglamento.
+
+G. Presión arterial.
+
+Menores de 51 años De 51 años o más
+
+Sistólica 110 - 140 mm Hg. 110 - 160 mm Hg.
+
+Diastólica 60 - 90 mm Hg. 70 - 90 mm Hg.
+
+H. Valoración cardiológico:
+
+Normal.
+
+I. Valoración oftalmológica:
+
+Agudeza visual con corrección 20/30 mínima.
+
+K. Se aplicará la prueba confirmatoria de la curva de tolerancia oral a la glucosa cuando exista duda sobre el diagnóstico a emitir a un participante, previa realización de estudios y recomendación médica por el especialista indicado para valorar si es procedente su aplicación, de conformidad con los lineamientos especificados en la modificación a la Norma Oficial Mexicana para la Prevención, Tratamiento y Control de la Diabetes, incluyéndose el consentimiento firmado por el participante:
+
+a. Casos de aplicación:
+
+1. Participantes que en Promociones previas hayan resultado con diagnóstico de diabetes mellitus, con base únicamente en la glucosa de ayuno, que no se hayan realizado la citada prueba, que nieguen estar bajo control con medicamentos y que en el momento de la Promoción se presenten con glucosa de ayuno por debajo de 126 mg/dl. y hemoglobina glucosilada por debajo de 7.5%;
+
+2. Participantes que no tengan diagnóstico previo de diabetes pero que al momento de la promoción se presenten con glucosa de ayuno por arriba de 126 mg/dl pero por debajo de 199 mg/dl, y
+
+3. Para los participantes que obtengan al momento del examen médico glucosa en ayuno por arriba o igual a 200 mg/dl, se establecerá diagnóstico de diabetes mellitus; no requerirán curva de tolerancia oral a la glucosa y no acreditarán buena salud.
+
+b. Procedimiento para la prueba:
+
+1. El participante será hospitalizado en ese momento;
+
+2. La prueba se realizará al día siguiente del examen médico;
+
+3. La realización de esta prueba será a las 0800 horas en el lugar designado;
+
+4. El participante permanecerá en ayuno 12 horas previas a la prueba;
+
+5. Se determinará glucosa plasmática de ayuno-tiempo "0";
+
+6. Después ingerirá de manera supervisada, una carga de glucosa anhidra de 75 gramos en un tiempo de cinco minutos, y
+
+7. Dos horas después de ingerir la glucosa, se determinará el nivel de glucemia plasmática.
+
+c. El criterio de interpretación de la curva de tolerancia a la glucosa será el siguiente:
+
+Menor a 139 MG/DL Normal Acredita buena salud
+
+140 a 199 MG/DL Intolerancia a Acredita
+
+La glucosa buena salud
+
+Mayor o igual a 200 Diabetes mellitus No acredita
+
+buena salud
+
+V. Acreditarán buena salud los participantes que en el examen médico obtengan los parámetros o las cifras consideradas normales y que no se encuentren comprendidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+
+VI. No acreditarán buena salud los participantes que en el examen médico se encuentren considerados en alguna de las categorías de inutilidad o trastornos funcionales de menos del 20%, establecidas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, de conformidad con el Certificado Médico expedido por el Hospital Central Militar, y
+
+VII. El resultado del examen médico se calificará como "ACREDITA BUENA SALUD" o "NO ACREDITA BUENA SALUD", siendo determinante y definitivo acreditar buena salud para el ascenso.
+
+###### ARTÍCULO 95.
+
+El área de capacidad física evaluará la suficiencia de los participantes mediante una prueba que comprenderá las fases de natación y caminata, de acuerdo a los siguientes lineamientos:
+
+I. Será presentada por los Coroneles y Tenientes Coroneles de las Armas y de los Servicios del Ejército y Fuerza Aérea Mexicanos que acrediten buena salud en el examen médico, comprendiendo las fases de natación y caminata:
+
+A. Natación:
+
+a. Parámetros:
+
+1. Distancia: 50 metros;
+
+2. Estilo: Nado libre;
+
+3. Tiempo: 2 Minutos (masculino);
+
+2 Minutos 30 segundos (femenino), y
+
+4. Valores: Apto o no apto.
+
+b. Lineamientos para el desarrollo de la prueba:
+
+1. Se aplicará el mismo día en que se sustente el examen médico;
+
+2. La aplicación y calificación de la prueba estará a cargo de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
+
+3. Antes del inicio de la prueba, la Dirección General de Sanidad practicará una revista médica al personal participante. No se permitirá sustentarla al participante cuya salud pueda estar en riesgo o cuando ello implique riesgo para los demás participantes. El participante excluido será calificado como "NO APTO";
+
+4. Para el control de esta prueba, se aplicará el artículo 36, fracción I, apartado A, en sus incisos d, e, f, g, h, i, j, k, l y m, de este Reglamento;
+
+5. El nado iniciará estando el participante dentro de la alberca y tocando la orilla de salida, a indicaciones de un juez calificador, y
+
+6. Al participante que se presente con retraso a su prueba, se le permitirá realizarla, siempre y cuando exista por lo menos un militar presentándola. En caso contrario, se le pondrá la anotación "NO SE PRESENTÓ", misma que equivaldrá a "NO APTO".
+
+B. Caminata:
+
+a. Parámetros:
+
+1. Distancia: 15 kilómetros;
+
+2. Tiempo: 4 horas;
+
+3. Altos horarios: 10 minutos, y
+
+4. Valores: Apto o no apto.
+
+b. Lineamientos para el desarrollo de la prueba:
+
+1. Se realizará al día siguiente en que se sustente la prueba de natación;
+
+2. Se organizará a los participantes por grupos y se les entregará un escapulario para su control durante la marcha;
+
+3. Previo al inicio, la Dirección General de Sanidad practicará una revista médica al personal participante para comprobar su estado de salud y determinar si se encuentra en condiciones de presentar la citada prueba;
+
+4. Cada 50 minutos de recorrido se llevará a cabo un alto horario;
+
+5. Al participante que no realice el recorrido completo en el tiempo límite autorizado, se le calificará como "NO APTO", y
+
+6. Al arribar al punto final, el resultado de la prueba será comunicado a los participantes por el Presidente del centro de examen, siendo determinante y definitivo resultar "APTO" para el ascenso.
+
+SUBSECCIÓN "D"
+
+Propuesta de Ascensos
+
+###### ARTÍCULO 96.
+
+Para los efectos de los artículos 32 y 33 de la Ley, la Secretaría desarrollará las siguientes actividades:
+
+I. Integrará los resultados de las áreas objetiva y de análisis y consulta, con los resultados del examen médico y pruebas de capacidad física para conformar una relación final de los participantes;
+
+II. La relación final de los participantes será presentada al Alto Mando, quien a su vez la someterá a consideración del Presidente de la República para su aprobación, de acuerdo a la facultad que le confieren los artículos 89, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos y 3 y 32 de la Ley;
+
+III. Una vez signado el Acuerdo Presidencial, la Secretaría emitirá las órdenes de ascenso con fecha veinte de noviembre del año que corresponda, y
+
+IV. La Oficialía Mayor de la Secretaría turnará las hojas de servicios de los militares ascendidos a la Secretaría de Gobernación y ésta a la Cámara de Senadores o, en su caso a la Comisión Permanente, para la ratificación de los nombramientos.
+
+#### SECCIÓN NOVENA. Ascensos por Actos Meritorios
+
+###### ARTÍCULO 97.
+
+Estos ascensos tienen por objeto reconocer a los militares que ejecuten un acto excepcionalmente meritorio, de conformidad con el artículo 31 de la Ley.
+
+Para los efectos del ascenso por invención e innovación, se estará a lo establecido en la Ley de Fomento y Protección de la Propiedad Industrial.
+
+###### ARTÍCULO 98.
+
+Para los casos a que se refiere el artículo anterior, la Secretaría designará un jurado que será presidido por un General de División, y que estará integrado por cuatro Generales de Brigada o de Ala o Brigadieres o de Grupo, de los cuales, dos de ellos deberán ser especialistas en la materia motivo del acto meritorio, invento o innovación. El ascenso será conferido en la fecha en que el Presidente de la República firme el acuerdo correspondiente.
+
+### CAPÍTULO V. De los Acuerdos Presidenciales de Ascenso
+
+###### ARTÍCULO 99.
+
+Para los efectos de los artículos 47 y 49 de este Reglamento, los correspondientes Acuerdos de Ascensos así como las Patentes respectivas a partir de la jerarquía de Mayor, serán sometidos a firma del Presidente de la República por conducto de la Consejería Jurídica del Ejecutivo Federal, previa revisión de los mismos con el área que determine la Secretaría.
+
+###### ARTÍCULO 100.
+
+Las listas del personal que vaya a ser ascendido serán propuestas por el Secretario al Presidente de la República para su consideración, quien, en su caso, ordenará que se formule el correspondiente Acuerdo de Ascenso con efectos al 20 de noviembre del año que corresponda. Dicho Acuerdo será sometido a firma del Titular del Ejecutivo Federal (Mando Supremo) con la anticipación suficiente por conducto de la Consejería Jurídica del Ejecutivo Federal, previa revisión del mismo con el área que establezca la Secretaría.
+
+###### ARTÍCULO 101.
+
+Una vez concluidos los trámites de formalización de los Acuerdos de Ascenso respectivos, la Secretaría remitirá a la Consejería Jurídica del Ejecutivo las Patentes que correspondan al número del personal que haya sido promovido al Grado inmediato superior, a partir de la jerarquía de Mayor, a fin de que el Presidente de la República suscriba en un solo acto el total de las mismas.
+
+Para lo anterior, la Secretaría deberá enviar copias del acta de nacimiento y de la Patente anterior del personal respectivo, así como del Acuerdo de Ascenso correspondiente y, en su caso, copia de la ratificación del ascenso por el órgano legislativo que conozca del mismo.
+
+## TÍTULO TERCERO. Ascensos en Tiempo de Guerra
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 102.
+
+Los ascensos en tiempo de guerra serán conferidos al Grado inmediato superior dentro de la escala jerárquica y podrán ser otorgados:
+
+I. Para premiar los actos de reconocido valor;
+
+II. Para premiar los actos de extraordinario mérito en el desarrollo de las operaciones militares;
+
+III. Por las necesidades de la situación, y
+
+IV. Para cubrir las vacantes que ocurran en los cuadros del Ejército y Fuerza Aérea Mexicanos.
+
+Los ascensos anteriores se otorgarán, sin detrimento de las recompensas a que se refiere el Título Tercero de la Ley.
+
+###### ARTÍCULO 103.
+
+Los actos de reconocido valor, son aquéllos en los que el militar enfrente aisladamente al enemigo, consciente de poner en riesgo su vida en beneficio de su unidad, compañeros o de la población civil.
+
+###### ARTÍCULO 104.
+
+Los actos de extraordinario mérito en el desarrollo de las operaciones, son aquéllos en los que el militar:
+
+I. Con mando de tropas, obtenga triunfos en el combate, y
+
+II. Mejore el desarrollo de la ciencia y tecnología en beneficio de las operaciones militares.
+
+###### ARTÍCULO 105.
+
+Se entenderá por necesidades de la situación, cuando con motivo de la creación de Unidades o por las bajas que se produzcan por muerte durante las operaciones, se requiera personal para cubrir las vacantes que se originen en la (sic) Orgánica del Ejército y Fuerza Aérea Mexicanos.
+
+###### ARTÍCULO 106.
+
+Los ascensos en tiempo de guerra serán conferidos con la fecha en que se realice el acto meritorio y de conformidad con el procedimiento que para el efecto se establezca.
+
+###### ARTÍCULO 107.
+
+La Secretaría determinará el momento en que los militares ascendidos serán llamados a realizar los cursos que señale la normativa vigente en materia de Educación Militar, con la finalidad de cumplir con los requisitos de promoción en su trayectoria profesional y estar en aptitud de participar en promociones posteriores.
+
+###### ARTÍCULO 108.
+
+Los ascensos en tiempo de guerra también podrán otorgarse postmortem.
+
+## TÍTULO CUARTO. De las Recompensas Militares
+
+###### ARTÍCULO 109.
+
+Por la importancia que reviste el otorgamiento de las Recompensas y por ser uno de los actos de moral y acción de mando de mayor trascendencia que influyen favorablemente no sólo en los individuos condecorados, sino en todos aquellos que conocen del suceso, la Secretaría y los Comandantes de todos los niveles, se mantendrán atentos de la actuación del personal a sus órdenes que merezca ser recompensado.
+
+### CAPÍTULO I. Del Otorgamiento de las Condecoraciones
+
+#### SECCIÓN PRIMERA. Generalidades
+
+###### ARTÍCULO 110.
+
+La imposición de las Condecoraciones se hará de conformidad a lo establecido en el artículo 189 del Reglamento del Ceremonial Militar, en las fechas siguientes:
+
+I. El día 5 de febrero:
+
+A. Mérito Técnico;
+
+B. Mérito Facultativo;
+
+C. Mérito Docente, y
+
+D. De la Legión de Honor.
+
+II. El día 20 de noviembre:
+
+A. Perseverancia, y
+
+B. Mérito Deportivo.
+
+III. Las Condecoraciones de Valor Heroico, Mérito Militar, Servicios Distinguidos, Mérito en la Campaña contra el Narcotráfico y de Retiro se otorgarán en las fechas que determine el Alto Mando a propuesta del Estado Mayor, y
+
+IV. Las Condecoraciones conferidas por Gobiernos o Fuerzas Armadas de Naciones amigas o bien por Organizaciones Civiles Internacionales, las podrán aceptar y usar los militares mexicanos agraciados, una vez que el Congreso de la Unión otorgue la autorización correspondiente y ésta se publique en el Diario Oficial de la Federación. En estos casos, la Secretaría comunicará al interesado la aprobación correspondiente.
+
+###### ARTÍCULO 111.
+
+El otorgamiento de Condecoraciones por Gobiernos o Fuerzas Armadas de Naciones amigas o bien por Organizaciones Civiles Internacionales, se sujetará a lo siguiente:
+
+I. Aquellos militares que por haber desempeñado sus servicios como Agregados Militares o Adjuntos a las Embajadas de México, Profesores o Estudiantes becados o bien, que hayan prestado servicios comisionados por la Secretaría, y que a juicio del Gobierno extranjero respectivo, de las Fuerzas Armadas de Naciones amigas o de Organizaciones Civiles Internacionales por este hecho se hagan acreedores a una Condecoración, deberán informar el ofrecimiento recibido y remitirán a la Secretaría la documentación oficial comprobatoria que avale el ofrecimiento de referencia;
+
+II. La Secretaría al recibir la documentación que justifique el ofrecimiento de una Condecoración de este tipo, procederá a su análisis realizando el estudio correspondiente y, una vez hecho lo anterior, turnará el expediente a la Secretaría de Gobernación, dependencia que a su vez lo remitirá al Congreso de la Unión, para su análisis y aprobación constitucional, y
+
+III. Una vez emitido el Decreto de aprobación correspondiente por el Congreso de la Unión y publicado en el Diario Oficial de la Federación, la Secretaría, por conducto del Estado Mayor, comunicará al interesado la autorización correspondiente otorgada, con copia a la Dirección General del Arma o Servicio a la que pertenezca, a la Dirección General de Archivo e Historia y a la Comandancia o Jefatura de quien dependa directamente el condecorado para que sean asentados los datos correspondientes en su Hoja de Actuación del año en que la reciba.
+
+#### SECCIÓN SEGUNDA. De la Condecoración al Valor Heroico
+
+###### ARTÍCULO 112.
+
+El Secretario hará la propuesta al Presidente de la República para otorgar la Condecoración de Valor Heroico en base a lo siguiente:
+
+I. Los informes que remitirán los Comandantes de Unidad o los Jefes de Dependencia, en los que se detallen las evidencias de un acto de heroísmo excepcional, deberán contener información documental que permita comprobar los citados actos con declaraciones de testigos presenciales, actas informativas, fotografías y descripción de cada una de las circunstancias;
+
+II. Los informes de cualquier persona que haya sido testigo presencial de actos de heroísmo excepcionales y que los avale por escrito, adjuntando las evidencias de dichos actos;
+
+III. Para todos los casos, se nombrará una Comisión para la obtención y valoración de los datos que se presenten de los actos que lo ameriten, para determinar si existen los suficientes elementos de juicio para presentar la propuesta al Presidente de la República, y
+
+IV. La Comisión a que se refiere el párrafo anterior estará integrada por un General de Arma, en calidad de Presidente de la misma, así como por un grupo de Jefes y Oficiales Diplomados de Estado Mayor, personal del servicio de Justicia Militar, en calidad de asesor jurídico, los técnicos y/o peritos que sean necesarios, de acuerdo con las circunstancias de cada acto que será valorado, designados por el Secretario por conducto del Estado Mayor.
+
+El Presidente de la República determinará en definitiva sobre el otorgamiento de la Condecoración, la cual podrá otorgarse de manera póstuma, a la esposa, hijos, padres o hermanos del militar. La Condecoración se entregará a un solo deudo en el orden antes descrito.
+
+#### SECCIÓN TERCERA. De la Condecoración al Mérito Militar
+
+###### ARTÍCULO 113.
+
+Para el otorgamiento de la Condecoración al Mérito Militar, se considerarán actos de relevancia excepcional, hechos distinguidos de los miembros del Ejército y Fuerza Aérea dentro de cualquiera de las actividades del servicio militar, siempre y cuando éstos no justifiquen la concesión de alguna otra recompensa que establece la Ley y tales hechos destaquen al militar de la generalidad de sus compañeros.
+
+En todo caso, el individuo que sea propuesto deberá contar con buena conducta civil y militar, lo cual será acreditado con los mismos documentos que especifica el presente reglamento en la parte correspondiente a los ascensos.
+
+A los militares extranjeros que se desempeñen como Agregados Militares en nuestro país, al término de sus funciones en dicha comisión se les podrá otorgar dicha Condecoración por disposición del Presidente de la República y a propuesta del Secretario.
+
+#### SECCIÓN CUARTA. De la Condecoración al Mérito Técnico
+
+###### ARTÍCULO 114.
+
+La Condecoración al Mérito Técnico se otorgará a propuesta de las Direcciones Generales, Comandante de la Fuerza Aérea, Comandantes de Mandos Territoriales, Grandes Unidades Superiores, Elementales, Mandos Especiales o personas civiles nacionales o extranjeras, quienes remitirán la documentación relativa directamente a la Secretaría.
+
+###### ARTÍCULO 115.
+
+Los inventos, reformas o métodos que se presenten a la Secretaría para efectos del artículo 56 de la Ley, deberán sustentarse en un procedimiento científico formal para su desarrollo, evitando proponer trabajos estructurados en forma artesanal que carezcan de este sustento.
+
+###### ARTÍCULO 116.
+
+El procedimiento para el análisis de la documentación relativa a los trabajos y la resolución sobre la procedencia del otorgamiento de esta Condecoración, es el siguiente:
+
+l. La Secretaría, por conducto del Estado Mayor, designará una Comisión integrada por personal especialista, la que analizará cada trabajo, siendo responsabilidad de la Comisión verificar que se cumplan los requisitos exigidos al efecto, estudiar a detalle cada antecedente, efectuar las pruebas de campo que estime necesarias, entrevistar al autor del invento, si se considera procedente, y agotar todas las pruebas pertinentes para cerciorarse de la validez, originalidad y funcionamiento del trabajo, para que la resolución que emita sobre la procedencia del otorgamiento de la Condecoración, sea imparcial y esté debidamente fundamentada y motivada;
+
+II. La Comisión verificará que los trabajos que se presenten sean originales y que no hayan participado con anterioridad en alguna convocatoria para recibir premios en ámbitos diferentes al militar;
+
+III. Concluidas las diligencias necesarias, la Comisión levantará el Acta donde se describirá el invento o propuesta y su funcionalidad, así como si reúne o no los requisitos que especifica la Ley para el otorgamiento de la recompensa en cuestión, remitiendo su resolución al Estado Mayor;
+
+IV. Una vez recibida el Acta por el Estado Mayor, éste propondrá al Secretario a quienes cumplan con los requisitos para el otorgamiento de la Condecoración y elaborará el acuerdo que corresponda para determinación del Presidente de la República.
+
+Las determinaciones de la Comisión, del Estado Mayor o del Secretario no podrán ser materia de impugnación alguna, y
+
+V. Los trabajos cuyos autores no sean propuestos para recibir la Condecoración al Mérito Técnico, no podrán participar nuevamente para la concesión de la misma.
+
+#### SECCIÓN QUINTA. De la Condecoración al Mérito Facultativo
+
+###### ARTÍCULO 117.
+
+La Condecoración del Mérito Facultativo, se otorgará a los alumnos militares nacionales o extranjeros y civiles becarios nacionales o extranjeros a propuesta de las Direcciones de las escuelas de educación superior que además de cumplir con lo establecido en la Ley y demás disposiciones aplicables, observen buena conducta durante sus estudios, acreditando las calificaciones del personal propuesto mediante un acta de Junta Técnica Consultiva o de Consejo Pedagógico, de conformidad a su Reglamento Interior, misma que deberá enviarse por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea al Estado Mayor, para su constancia.
+
+#### SECCIÓN SEXTA. De la Condecoración al Mérito Docente
+
+###### ARTÍCULO 118.
+
+La Condecoración al Mérito Docente estará destinada a premiar a los civiles o militares, nacionales o extranjeros, que se hayan desempeñado como mínimo por tres años en uno o varios períodos en Planteles Militares como directivos, instructores o profesores y hayan obtenido calificaciones de excelencia.
+
+###### ARTÍCULO 119.
+
+Para el otorgamiento de esta Condecoración, se observarán los lineamientos siguientes:
+
+I. En todos los casos, el desempeño del docente propuesto deberá ser en forma entusiasta, innovadora, apegada a la doctrina militar y con calificación de excelencia y que sea un factor determinante para el desarrollo educativo del personal en instrucción a su cargo; dicha calificación será otorgada por el plantel militar en el que se haya desempeñado como docente;
+
+II. El docente propuesto deberá observar una conducta ejemplar durante el tiempo que se desempeñe en esa comisión, para lo cual el Estado Mayor verificará su actuación con base en sus antecedentes;
+
+III. Para los efectos del párrafo anterior, el personal propuesto no deberá tener más de 8 días de arresto en los últimos tres años, ni contar con conceptos negativos en las Hojas de Actuación del mismo período;
+
+IV. Cada Plantel Militar elaborará un acta de Comité Técnico Consultivo, donde proponga al personal que reúna las condiciones para el otorgamiento de esta Condecoración, en base a la calificación otorgada. Las actas respectivas se enviarán al Estado Mayor por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
+
+V. Esta Condecoración se concederá por una sola ocasión; cuando aquellos militares en activo o retiro, o bien, profesores civiles, desempeñen por segunda ocasión la función de directivos, instructores o profesores en el mismo u otro Plantel Militar, y cumplan nuevamente con los requisitos estipulados para obtenerla en su lugar se les otorgará una Citación, debiéndose emplear un procedimiento similar para elevar la propuesta correspondiente;
+
+VI. En el caso de que un militar o civil haya servido tres o más años en Planteles Militares en períodos diferentes, será la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, la que determinará si reúne o no los requisitos para el otorgamiento de la Condecoración, y
+
+VII. Para los efectos del artículo 58 de la Ley, se entenderá por Distinción, la notoria calidad y cantidad de la actividad docente y por eficiencia, a la virtud o capacidad para alcanzar el acto educativo.
+
+#### SECCIÓN SÉPTIMA. De la Condecoración de Servicios Distinguidos
+
+###### ARTÍCULO 120.
+
+A los militares que reúnan las virtudes especificadas en el artículo 63 de la Ley, se les concederá esta Condecoración y las propuestas para su otorgamiento, serán elaboradas por los Mandos Superiores acompañadas de un concepto particular, en el que se indiquen los motivos por los que se propone al militar para recibirla. Estas propuestas serán remitidas al Estado Mayor para que sean analizadas a fin de que el Secretario determine la concesión de la Recompensa.
+
+###### ARTÍCULO 121.
+
+Además de lo establecido en el artículo anterior, el personal que sea propuesto deberá reunir los siguientes requisitos:
+
+I. Ser de la clase de Arma o de la de Servicio;
+
+II. No haber estado sujeto a proceso en que haya resultado culpable o bien se le haya otorgado el retiro de la acción penal;
+
+III. Tener buena conducta civil y militar;
+
+IV. Ser de reconocida iniciativa y capacidad de trabajo, avalada por el Comandante, Jefe o Director del organismo al que pertenezca, mediante un documento que indique el cumplimiento de tal requisito;
+
+V. Contar con un tiempo mínimo de servicios de 16 años;
+
+VI. No haberse encontrado gozando de licencia ilimitada o especial y, en el caso de licencias ordinarias que el total acumulado de éstas no rebase los 15 días;
+
+VII. No haberse encontrado comisionado en funciones ajenas a su especialidad;
+
+VIII. No haber acumulado en los últimos 5 años más de 15 días de arresto, y
+
+IX. En el caso de los Generales, Jefes y Oficiales, no contar con conceptos particulares negativos en sus hojas de actuación.
+
+Para los efectos del artículo 63 de la Ley, se considerará como sobrado celo, esmero y dedicación en el cumplimiento del deber, el desempeño de una comisión propia del servicio de manera tal que sobresalga su cumplimiento de la generalidad de los militares que participan en la misma.
+
+#### SECCIÓN OCTAVA. De la Condecoración al Mérito en la Campaña Contra el Narcotráfico
+
+###### ARTÍCULO 122.
+
+La Condecoración al Mérito en la Campaña Contra el Narcotráfico se otorgará por el Presidente de la República a propuesta del Secretario, a los miembros del Ejército, Fuerza Aérea y Armada o a civiles que realicen actos de notoria trascendencia en actividades propias de la campaña contra el narcotráfico, de acuerdo a los criterios siguientes:
+
+I. En Grado de Orden, a los Secretarios de Estado y demás servidores públicos de mandos superiores dentro de la Administración Pública Federal, Titulares de los Gobiernos de las Entidades Federativas o a civiles que, a juicio del Presidente de la República, se distingan por su alto sentido patriótico, trabajo y cooperación con las acciones que lleva a cabo el Estado Mexicano, para el combate integral al narcotráfico;
+
+II. De Primera Clase a los militares postmortem que pierdan la vida en cumplimiento de su deber; a los que, como consecuencia de heridas, sufran la pérdida anatómica o funcional de algún órgano o miembro de su cuerpo, quedando inutilizados por este efecto para el servicio activo; a los que resulten heridos en enfrentamientos y que por esta causa su vida se ponga en alto riesgo; y a los que participen en acciones relevantes en las que pongan en riesgo su vida, ya sea para salvar la de compañeros, rescatar armamento propio, asegurar cantidades notables de valores, droga, armamento o narcotraficantes;
+
+III. De Segunda Clase, a los militares que sobresalgan por su honestidad, al rechazar el soborno en dinero, valores y objetos materiales; a los que en el aseguramiento de personal, enervantes y armamento, se conduzcan con rectitud; a los que resulten heridos como consecuencia de enfrentamientos u acciones para detectar la siembra y tráfico de enervantes; y a los que cuyas acciones hayan sido factor determinante para la localización de plantíos o el aseguramiento de narcotraficantes o enervantes, y
+
+IV. De Tercera Clase, a los militares que reúnan información, planeen, coordinen y dirijan operaciones relevantes contra el narcotráfico con resultados sobresalientes; así como al personal que se distinga en el cumplimiento de sus misiones, demostrando iniciativa, celo y profesionalismo para combatir el narcotráfico en todas sus modalidades.
+
+Esta Condecoración podrá ser otorgada en cualquiera de sus Clases en más de una ocasión, agregando en cada Clase según corresponda al gafete distintivo, una estrella dorada de cinco puntas proporcional al tamaño del gafete, sobrepuesta en el centro, que indicará que el militar tiene otorgada la misma Condecoración dos veces o más.
+
+Las propuestas serán enviadas a la Secretaría por los mandos territoriales y deberán ser acompañadas con las pruebas necesarias, tales como actas, testimonios, fotografías u otros que permitan realizar una justa evaluación del acto y otorgar la Condecoración correspondiente.
+
+#### SECCIÓN NOVENA. De la Condecoración al Mérito Deportivo
+
+###### ARTÍCULO 123.
+
+La Condecoración al Mérito Deportivo se otorgará a los militares que destaquen en cualquiera de los niveles de concurso, en las ramas del deporte que a continuación se mencionan:
+
+I. El Tiro:
+
+A. Con armas portátiles reglamentarias, y
+
+B. Con armas aceptadas en las Olimpiadas, Juegos Deportivos Panamericanos, Juegos Deportivos Centroamericanos y otros de carácter internacional.
+
+II. La Esgrima:
+
+A. Florete;
+
+B. Sable, y
+
+C. Espada de Combate.
+
+III. Los Deportes Hípicos:
+
+A. Salto;
+
+B. Doma Clásica;
+
+C. Concurso Completo de Equitación, y
+
+D. Polo.
+
+IV. La Natación:
+
+A. En sus diferentes estilos;
+
+B. Clavados, y
+
+C. Water Polo.
+
+V. El Atletismo;
+
+VI. La Lucha Olímpica;
+
+VII. El Box;
+
+VIII. La Gimnasia;
+
+IX. Los Deportes con Balón:
+
+A. Futbol;
+
+B. Basquetbol, y
+
+C. Voleibol.
+
+X. Los Deportes con Pelota:
+
+A. Béisbol, y
+
+B. Frontón.
+
+XI. Los Deportes Combinados:
+
+A. Pentatlón moderno, y
+
+B. Pista de obstáculos de aplicación militar,
+
+XII. Otros deportes en los que el militar se distinga en representación de las Fuerzas Armadas.
+
+Para los efectos de este artículo, se considerarán pruebas individuales, pruebas por equipos y por habilidad en entrenar.
+
+###### ARTÍCULO 124.
+
+Se considerarán Concursos de Primer Nivel:
+
+I. Las Olimpiadas;
+
+II. Los Campeonatos Mundiales, y
+
+III. Los Juegos Deportivos Panamericanos.
+
+###### ARTÍCULO 125.
+
+Se considerarán Concursos de Segundo Nivel:
+
+I. Los Juegos Deportivos Centroamericanos, y
+
+II. Las Competencias Internacionales, entre selecciones nacionales de Primera Fuerza.
+
+###### ARTÍCULO 126.
+
+Se considerarán Concursos de Tercer Nivel:
+
+I. Los Campeonatos Nacionales de Primera Fuerza, y
+
+II. Los Concursos Internacionales entre selecciones e instituciones de Primera Fuerza.
+
+###### ARTÍCULO 127.
+
+Se considerarán Concursos de Cuarto Nivel:
+
+I. Los Campeonatos Regionales de Primera Fuerza de los Estados, y
+
+II. Los Campeonatos Nacionales del Ejército y Fuerza Aérea convocados por la Secretaría.
+
+###### ARTÍCULO 128.
+
+La calificación del deportista militar será de acuerdo con el nivel del Concurso en que haya destacado y se otorgará la Condecoración en las clases siguientes:
+
+I. Primera Clase, a los que obtengan cualquiera de los tres primeros lugares en las competencias consideradas en los Concursos de Primer Nivel;
+
+II. Segunda Clase, a los que obtengan del cuarto al sexto lugar en las competencias comprendidas en los Concursos de Primer Nivel y a los que obtengan del primero al tercer lugar de los considerados en los Concursos de Segundo Nivel;
+
+III. Tercera Clase, a los que obtengan del cuarto al sexto lugar en los Concursos de Segundo Nivel y del primero al tercer lugar de los considerados de Tercer Nivel, y
+
+IV. Cuarta Clase, a los que obtengan del cuarto al sexto lugar en las competencias consideradas de Tercer Nivel y del primero al tercer lugar de las consideradas de Cuarto Nivel.
+
+###### ARTÍCULO 129.
+
+En el caso de la competencia por equipos, la Condecoración respectiva se otorgará a cada uno de sus integrantes.
+
+###### ARTÍCULO 130.
+
+Respecto a las tablas gimnásticas de conjunto, la Condecoración respectiva se otorgará a la corporación u organismo representado, la que será impuesta a su Bandera o Estandarte.
+
+###### ARTÍCULO 131.
+
+A los entrenadores se les otorgará la Condecoración que corresponda, al igual que a los deportistas.
+
+###### ARTÍCULO 132.
+
+Cuando alguno de los competidores obtenga más de una Condecoración de la misma clase en pruebas iguales o diferentes, quedará sujeto a las siguientes reglas:
+
+I. Cuando obtenga Dos Condecoraciones, se colocará en la parte central del gafete original una estrella de oro de cuatro milímetros;
+
+II. Cuando obtenga Tres Condecoraciones, se colocará simétricamente sobre el gafete original dos estrellas de oro de cuatro milímetros;
+
+III. Cuando se llegare a obtener Cuatro Condecoraciones de la misma clase, se substituirán éstas por una de la clase inmediata superior, y
+
+IV. En el caso de obtener Cuatro Condecoraciones de Primera Clase, el militar usará el gafete que acredite la posesión de las Tres Condecoraciones obtenidas primero y el nuevo gafete que correspondan a la nueva Condecoración.
+
+###### ARTÍCULO 133.
+
+A los militares, equipos o conjuntos que participen en una o varias competencias y merezcan Condecoraciones diferentes, se les concederá únicamente la de mayor clase.
+
+###### ARTÍCULO 134.
+
+Para obtener alguna Condecoración al Mérito Deportivo, se requerirá además lo siguiente:
+
+I. Pertenecer al Ejército y Fuerza Aérea Mexicanos;
+
+II. Observar buena conducta civil y militar, y
+
+III. Observar la ética deportiva para la obtención del triunfo correspondiente.
+
+###### ARTÍCULO 135.
+
+Los militares que consideren tener derecho a recibir la Condecoración al Mérito Deportivo, podrán dirigir su solicitud a la Secretaría con la documentación que acredite sus triunfos deportivos a satisfacción de la Secretaría.
+
+#### SECCIÓN DÉCIMA. De la Condecoración de Perseverancia
+
+###### ARTÍCULO 136.
+
+Para dar cumplimiento a lo estipulado en los artículos 60 y 61 de la Ley, los Diplomas correspondientes a esta Condecoración deberán apegarse a los siguientes lineamientos:
+
+I. Serán firmados por el Presidente de la República, los que se otorguen al General Secretario, anteponiendo la frase: "EL PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS Y COMANDANTE SUPREMO DE LAS FUERZAS ARMADAS";
+
+II. Los de "Por la Patria", "Institucional", "Extraordinaria", "Especial" y de "Primera Clase", serán firmados por el Alto Mando;
+
+III. Los de "Segunda Clase" y "Tercera Clase", serán firmados por el Subsecretario de la Defensa Nacional, y
+
+IV. Los de "Cuarta Clase" y "Quinta Clase", serán firmados por el Oficial Mayor de la Secretaría de la Defensa Nacional.
+
+#### SECCIÓN DÉCIMA PRIMERA. De la Condecoración de Retiro
+
+###### ARTÍCULO 137.
+
+La Condecoración de Retiro se concederá al personal del Ejército y Fuerza Aérea Mexicanos, en base al análisis de su desempeño a lo largo de toda su carrera militar, siempre que a juicio del Secretario hayan contribuido en su esfera de acción al progreso del Ejército y Fuerza Aérea.
+
+Se considerarán servicios efectivos, el tiempo de servicios computado al militar con abono de tiempo, sin que se considere un requisito indispensable el que éstos hubieran sido prestados de manera ininterrumpida.
+
+#### SECCIÓN DÉCIMA SEGUNDA. De la Condecoración de la Legión de Honor
+
+###### ARTÍCULO 138.
+
+Esta Condecoración se otorgará por la Legión de Honor Mexicana, con aprobación del Secretario, a quienes cumplan con los siguientes requisitos:
+
+I. Ser miembro de las Fuerzas Armadas Mexicanas;
+
+II. Remitir solicitud de ingreso directamente a la Comandancia de la Legión de Honor;
+
+III. Tener 30 años o más de servicios ininterrumpidos, con una carrera militar honorable y destacada;
+
+IV. No haber estado sujeto a proceso en el que haya sido declarado culpable o bien se le haya otorgado el retiro de acción penal;
+
+V. Tener buena conducta civil y militar;
+
+VI. Contar con la aprobación del Consejo de Honor de la Legión, y
+
+VII. Protestar cumplir los fines de la Legión.
+
+###### ARTÍCULO 139.
+
+La Condecoración se otorgará a solicitud del militar, remitida a la Comandancia de la Legión de Honor Militar Mexicana.
+
+###### ARTÍCULO 140.
+
+La Comandancia solicitará los antecedentes del interesado a la Secretaría o Secretaría de Marina, en su caso. Los Concejales, previo análisis de la documentación correspondiente, determinarán sobre el otorgamiento de la Condecoración.
+
+###### ARTÍCULO 141.
+
+Para otras disposiciones relacionadas con esta Condecoración, se deberá observar el contenido del Manual de Organización y Funcionamiento Interior de la Legión de Honor Mexicana.
+
+#### SECCIÓN DÉCIMA TERCERA. Características y Uso de las Condecoraciones
+
+###### ARTÍCULO 142.
+
+La forma, tamaño, material, uso y demás características de cada una de las Condecoraciones se describirán en el Reglamento de Uniformes y Divisas del Ejército y Fuerza Aérea Mexicanos.
+
+###### ARTÍCULO 143.
+
+El protocolo para la imposición de las Condecoraciones señaladas en este ordenamiento, será determinado por la Secretaría.
+
+###### ARTÍCULO 144.
+
+Los Acuerdos por los que se otorguen las Condecoraciones a que se refieren los artículos 112, 113, 114, 122 y 136 de este Reglamento, así como los Diplomas que correspondan, serán sometidos a firma del Presidente de la República por conducto de la Consejería Jurídica del Ejecutivo Federal, previa revisión de los mismos con el área que disponga la Secretaría.
+
+### CAPÍTULO II. De las Menciones Honoríficas
+
+###### ARTÍCULO 145.
+
+Para los fines de los artículos 70, 71 y 72 de la Ley, la Secretaría expedirá los Diplomas relativos, los que serán firmados por el Secretario y serán entregados a los interesados.
+
+###### ARTÍCULO 146.
+
+La Secretaría ordenará que las Menciones Honoríficas que se otorguen sean publicadas en las Órdenes Generales de la plaza.
+
+###### ARTÍCULO 147.
+
+La Secretaría llevará un registro de las Menciones Honoríficas otorgadas.
+
+### CAPÍTULO III. De las Distinciones
+
+###### ARTÍCULO 148.
+
+El otorgamiento de las Distinciones deberá promoverse en las Unidades, Dependencias e Instalaciones del Ejército y Fuerza Aérea Mexicanos. Estas recompensas se otorgarán por actos meritorios que ocurran en el desempeño de las actividades cotidianas.
+
+###### ARTÍCULO 149.
+
+Las Distinciones a que se refieren los artículos 73, 74 y 75 de la Ley, tendrán las características que fije el Reglamento de Uniformes y Divisas del Ejército y Fuerza Aérea Mexicanos.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan a este Reglamento.
+
+TERCERO.- Las Condecoraciones otorgadas conforme a las leyes, decretos y disposiciones anteriores, podrán seguir siendo usadas con arreglo a la normatividad vigente al momento de su otorgamiento.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
