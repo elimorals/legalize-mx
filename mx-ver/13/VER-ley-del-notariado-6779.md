@@ -4,7 +4,7 @@ identifier: "VER-ley-del-notariado-6779"
 country: "mx"
 rank: "ley"
 publication_date: "1965-06-01"
-last_updated: "1995-10-07"
+last_updated: "1997-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE FEBRERO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 1 de junio de 1965.
 
@@ -45,9 +45,11 @@ LEY DEL NOTARIADO
 
 El ejercicio del Notariado en el Estado de Veracruz es una función de orden público. Está a cargo del Ejecutivo de la Entidad y, por delegación, se encomienda a Notarios profesionales del derecho, en virtud de la patente que para tal efecto les otorga el propio Ejecutivo.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 2°.
 
-En los Distritos Judiciales del Estado habrá un Notario por cada treinta mil habitantes.
+En las Demarcaciones Notariales del Estado habrá un notario por cada treinta mil habitantes. Estarán en funciones, cuando menos, dos notarios en cada una de ellas.
 
 ###### ARTICULO 3°.
 
@@ -71,7 +73,9 @@ El Departamento de Inspección y Archivo General de Notarías, estará a cargo d
 
 Son atribuciones del Departamento de Inspección y Archivo General de Notarías:
 
-I.- Autorizar los libros de Protocolo.
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 1997)</small>
+
+I.- Autorizar los folios y libros que constituirán el protocolo.
 
 > <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -135,7 +139,7 @@ El Ejecutivo creará el número de Notarías que se requiera en cada demarcació
 
 ###### ARTICULO 11.
 
-En los Distritos donde no hubiere Notario, el Juez de Primera Instancia que designe el Ejecutivo desempeñará, por Ministerio de Ley, el cargo de Notario, siempre y cuando satisfaga los requisitos establecidos en el artículo 37, con excepción de los señalados en las fracciones V y VII del mismo precepto.
+(DEROGADO, G.O. 25 DE FEBRERO DE 1997)
 
 ###### ARTICULO 12.
 
@@ -150,6 +154,10 @@ Pueden autorizarse permutas de Notarías cuando los solicitantes hayan estado en
 El Ejecutivo del Estado, previa opinión del Colegio de Notarios, autorizará la permuta si a su juicio no se perjudica el servicio público.
 
 Si durante el trámite de autorización cesa en sus funciones el o los permutantes, se tendrá por no solicitada la permuta.
+
+> <small>(ADICIONADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
+Autorizada la permuta, los interesados tendrán un término de treinta días hábiles para tomar posesión, cumpliendo en lo conducente con lo previsto en el artículo 51 de esta ley. Al efecto es necesario que ambos notarios se encuentren en funciones y no estén sujetos a procedimiento de suspensión o cesación.
 
 ### Capítulo Tercero. ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
@@ -173,69 +181,87 @@ Los requisitos anteriores se comprobarán en los términos establecidos por el a
 
 Las diligencias de información a que se refiere el artículo anterior se practicarán en los términos previstos por el artículo 39, en cuanto sean conducentes.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 16.
 
-El que pretenda examen de Aspirante de Notario, deberá presentar su solicitud al Gobernador del Estado, por conducto del Colegio de Notarios, quien opinará sobre el particular, acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes.
+El que pretenda examinarse para obtener patente de aspirante al ejercicio del notariado deberá dirigir solicitud al Gobernador del Estado por conducto del Colegio de Notarios, anexando los documentos enunciados en los artículos precedentes por duplicado; de encontrarse satisfechos los requisitos exigidos en un plazo que no excederá de quince días hábiles de la fecha de presentación, el Colegio de Notarios enviará un tanto del expediente que se hubiere formado y su opinión sobre el particular al Departamento de Inspección y Archivo General de Notarías.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 17.
 
-Hecho por el Departamento de Inspección y Archivo General de Notarías el estudio de la documentación presentada por el solicitante y aprobada que fuere por el Ejecutivo de la Entidad, turnará un tanto de la misma al Colegio de Notarios, el que señalará día y hora para que tenga lugar el examen.
+Hecho el estudio de la documentación, el indicado Departamento de Inspección y Archivo General de Notarías resolverá sobre su procedencia en un plazo de diez días hábiles siguientes a la fecha de su recepción y aprobado que fuere, inmediatamente se le comunicará al Colegio de Notarios, el que señalará sede, lugar, día y hora en que deba llevarse a cabo el examen, informándoselo al solicitante y a los miembros del jurado con diez días hábiles de anticipación por medio de un oficio enviado por correo certificado con acuse de recibo a los domicilios que al efecto consten en el expediente del solicitante y en el archivo del Colegio respecto del jurado.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 18.
 
-El examen se efectuará en la localidad que determine el Colegio de Notarios. El Jurado se compondrá de cinco miembros que serán el representante que designe el Ejecutivo del Estado, quien tendrá el carácter de Presidente; el Presidente del H. Tribunal Superior de Justicia del Estado; el Director de la Facultad de Derecho de la Universidad Veracruzana; el Presidente del Colegio de Notarios y un Vocal nombrado por el propio Colegio, quien actuará como secretario.
+El jurado se compondrá de cinco miembros que serán el representante que designe el Ejecutivos del Estado, quien tendrá el carácter de presidente; el presidente del Colegio de Notarios y tres notarios nombrados por el propio Colegio, uno de los cuales actuará como secretario.
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+En el supuesto que algún miembro del jurado, no pudiese o no debiese asistir, lo hará del conocimiento del Colegio por lo menos el día hábil anterior al del examen. El Consejo Directivo del Colegio, designará a los jurados que los suplan, de entre los notarios de dicho cuerpo colegiado.
 
-El Presidente del Tribunal Superior de Justicia, el Director de la Facultad de Derecho de la Universidad Veracruzana y el Presidente del Colegio de Notarios, podrán designar quien los sustituya en caso de que no puedan asistir al examen.
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 19.
 
-Consistirá el examen en una prueba práctica que será la redacción de un instrumento, cuyo tema se sorteará de veinte propuestos, sellados y colocados en sobres cerrados, por el Colegio de Notarios. Cada uno de los miembros del Jurado podrá interrogar al sustentante con relación al tema de que se trate.
+No podrán formar parte del jurado los notarios en cuyas notarías haya hecho su práctica el sustentante, ni los parientes consanguíneos o afines a éste dentro del cuarto grado de parentesco consanguíneo y del segundo afín, ni los que guarden relación íntima de amistad con el sustentante. Los miembros del jurado en los que concurriese alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 20.
 
-El Colegio de Notarios cuidará de tener seleccionados por lo menos veinte temas para sortear el que haya de ser presentado a los examinados; estos temas serán discutidos y aprobados para su selección por el Consejo Directivo, de entre los que presenten los componentes del Colegio. Aquellos temas que hayan sido motivo de examen o que carezcan de actualidad o de interés a juicio del Consejo Directivo, serán eliminados y no podrán presentarse dentro de los que sirvan para nuevos exámenes.
-
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+Con excepción del representante del Ejecutivo del Estado, el notario que como miembro del jurado dejara de concurrir al examen sin mediar impedimento o dispensa o que asistiera a pesar de que debió excusarse, se le sancionará con una multa equivalente de doscientos días de salario mínimo general que éste vigente en la zona económica de la capital del Estado. Dicho multa será cobrada por el Colegio por medio de su tesorero.
 
 ###### ARTICULO 21.
 
-Recibido del Ejecutivo del Estado el Acuerdo para algún examen, el Presidente del Colegio Convocará al Consejo Directivo y citará al candidato para que en su presencia se sortee (sic) el tema, después de lo cual, se procederá a nombrar un Notario que integre el Jurado y los Notarios Públicos necesarios para que concurran al examen como suplentes de los Jurados que no asistieren o estuvieren impedidos. Los designados podrán excusarse si tuvieren algún impedimento.
+(DEROGADO, G.O. 25 DE FEBRERO DE 1997)
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 22.
 
-No podrán formar parte del Jurado los Notarios en cuyas Notarías haya hecho su práctica el sustentante, ni los parientes consanguíneos o afines a éste dentro del cuarto grado de parentesco consanguíneo y del segundo afín, ni los que guarden relación íntima de amistad con el mismo sustentante. Los miembros del Jurado en los que concurriere alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen.
+El examen consistirá de dos pruebas, una teórica y otra práctica. Esta última comprenderá la redacción de un instrumento cuyo tema será sorteado de entre veinte propuestos, que se encontrarán en original y copia, en sobres cerrados y sellados por el Colegio de Notarios.
 
 ###### ARTICULO 23.
 
 El sinodal que dejare de concurrir al acto, sin mediar impedimento o dispensa o que asistiere a pesar de que debió excusarse, será penado con una multa de veinticinco a cien pesos que impondrá el Ejecutivo del Estado, tan luego como reciba la comunicación correspondiente del Colegio de Notarios.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 24.
 
-El día señalado para el examen y cinco horas antes de la fijada para la celebración del mismo, el Secretario del Colegio de Notarios abrirá el pliego, entregará el tema al interesado y vigilará que sin el auxilio de personas extrañas, aunque provisto de los Códigos y libros de consulta necesarios, proceda al desarrollo del tema y a la resolución del caso que se le haya propuesto.
+El día y hora señalados para la prueba práctica el secretario del Colegio de Notarios abrirá el sobre en presencia del sustentante, se le entregará la copia que contiene el tema y éste firmará el original de enterado y recibido; para el desarrollo de la misma dispondrá de tres horas, pudiendo consultar libros y leyes, sin contar con el auxilio de terceras personas. El secretario vigilará que se cumpla lo anterior.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 25.
 
-A la hora fijada para la celebración del examen se instalará el Jurado y el examinado procederá a dar lectura a su trabajo; a continuación, los miembros del Jurado podrán interrogarle versando las preguntas precisamente sobre el tema propuesto.
+A la hora fijada para la celebración de la prueba teórica se instalará el jurado y revisará el trabajo práctico, acto seguido, los miembros del mismo interrogarán al sustentante versando sus preguntas sobre el tema sorteado y las disciplinas jurídicas relacionadas con las materias notarial, administrativa y registral.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 26.
 
-El Jurado resolverá sobre la aprobación o reprobación del sustentante en escrutinio secreto y la mayoría de votos en sentido aprobatorio será suficiente para extender la patente respectiva de Aspirante. Si la mayoría de los Jurados vota por la reprobación del sustentante, no se podrá conceder nuevo examen a éste, sino después de transcurrido un año desde la celebración del primer acto.
+Al calificarse al sustentante, el jurado tomará en cuenta no sólo la parte jurídica, sino también la redacción gramatical en lo que se refiere a claridad y precisión del lenguaje; y en la parte oral, la preparación y competencia que demuestre el examinado al responder las preguntas hechas por los miembros del jurado.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 27.
 
-Al hacerse la calificación del instrumento redactado se tomará en cuenta no sólo la parte jurídica, sino también la redacción gramatical en lo que se refiere a claridad y precisión del lenguaje, así como la competencia que demuestre el examinado al responder a las preguntas hechas por los miembros del Jurado.
+El jurado resolverá sobre la aprobación o reprobación del sustentante en escrutinio secreto, la mayoría de votos en sentido aprobatorio será suficiente para otorgar la patente de aspirante. Al sustentante reprobado se le podrá conceder nuevo examen después de transcurrido un año desde la celebración del anterior.
+
+La ausencia del sustentante en cualquier momento del examen sin causa justificada, dará lugar a reprobación.
 
 ###### ARTICULO 28.
 
 El Secretario del Jurado levantará el acta relativa al examen, que deberá ser firmada por todos los integrantes del mismo. El Colegio de Notarios enviará al Ejecutivo del Estado copia certificada del acta de examen para la integración del expediente formado con motivo de la solicitud del Aspirante a Notario.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 29.
 
-Cumplidos los requisitos exigidos en los artículos anteriores, el Ejecutivo del Estado extenderá en favor del interesado la patente de Aspirante al ejercicio del Notariado.
+Cumplidos los requisitos exigidos en los artículos anteriores, el Ejecutivo del Estado extenderá en favor del interesado, dentro de los quince días hábiles posteriores, la Patente de Aspirante al Ejercicio del Notariado.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
 
@@ -253,7 +279,7 @@ Si después de extendida la patente resultare que por causa superveniente el fav
 
 ###### ARTICULO 33.
 
-El hecho de que un Juez de Primera Instancia despache una Notaría por receptoría, no lo exime de llenar los requisitos previstos para los Aspirantes al ejercicio del Notariado en el presente Capítulo, sin los cuales no podrá ser Adscrito o Notario titular.
+(DEROGADO, G.O. 25 DE FEBRERO DE 1997)
 
 ### Capítulo Cuarto. NOTARIOS
 
@@ -313,21 +339,39 @@ Los requisitos que fijan las fracciones I y II del artículo anterior se comprob
 
 Al ser notificado el Presidente del Colegio de Notarios para la recepción de la información testimonial a que se refiere el artículo anterior, convocará al Consejo Directivo para que sus miembros manifiesten si están conformes con la pretensión del promovente o si conocen a ciencia cierta alguna circunstancia que la contradiga, en el concepto de que estarán obligados a suministrar al Consejo Directivo cuantos datos tengan sobre el particular. El Colegio acreditará el Delegado correspondiente y en caso de que hubiere oposición fundada de algún Consejero, acordará las preguntas que deben hacerse a los testigos y proporcionará al Delegado los elementos de prueba que acrediten la objeción, para que los haga valer en el procedimiento.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 40.
 
-Cuando estuviere vacante una Notaría o cuando fuera creada por el Ejecutivo del Estado, a solicitud del Colegio de Notarios, la Secretaría General de Gobierno publicará un anuncio por tres veces consecutivas en la 'Gaceta Oficial' del Estado, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener por oposición el Nombramiento de Notario; el mismo anuncio se publicará también por tres veces consecutivas en el periódico de más circulación del Estado. En el plazo de treinta días contados a partir de la última publicación, los pretendientes presentarán por duplicado al Ejecutivo del Estado su solicitud con la documentación que acredite los particulares del artículo 37. En las solicitudes se anotará la fecha y hora de su presentación. Sólo se aprobarán las que satisfagan los requisitos anotados y las que fueren aprobadas se turnarán al Colegio de Notarios enviándole un tanto de ellas y de los documentos anexos.
+Cuando estuviere vacante una notaría o cuando en los términos del artículo diez de esta ley fuera creada por el Ejecutivo del Estado, para proveerla se observará el siguiente procedimiento:
+
+I. La Secretaría General de Gobierno, a solicitud del Colegio de Notarios, mandará publicar un anuncio por tres veces consecutivas en la Gaceta Oficial del Estado, así como en el periódico de mayor circulación en la demarcación y regiones de la entidad donde se ubiquen las notarías que deberán ser proveídas mediante examen de oposición, convocando a todos los aspirantes al ejercicio del notariado y a los notarios que a la fecha de la convocatoria estén en funciones y que pretendan obtener por concurso la titularidad de la notaría de que se trate.
+
+II. Los pretendientes, en el plazo de treinta días a contar de la última publicación, presentarán por duplicado al Ejecutivo del Estado, por conducto del Departamento de Inspección y Archivo General de Notarías, su solicitud y los siguientes documentos:
+
+a) En el caso de los aspirantes, los que acrediten los requisitos del artículo 37 de esta ley, debidamente actualizados, cuyos extremos no tengan una antigüedad mayor de seis meses, a excepción del exigido en la fracción séptima del numeral invocado que podrá tener hasta doce meses de vigencia;
+
+b) En el caso de los notarios, sólo deben acompañar copia certificada de su patente de titular y las constancias expedidas por el Departamento de Inspección y Archivo General de Notarías y por el Colegio de Notarios del Estado, en el sentido de que el pretendiente de que se trate se halla en pleno ejercicio de sus funciones notariales.
+
+III. Recibidas las solicitudes, en ellas se anotará la fecha y hora de su presentación; el Departamento de Inspección y Archivo General de Notarías examinará la documentación comprobatoria y resolverá lo que proceda. Sólo se aprobarán aquellas que satisfagan los requisitos anotados.
+
+IV. Las solicitudes que fueren aprobadas se turnarán al Colegio de Notarios enviándole un tanto de ellas y de los documentos anexos para su oportuna revisión. Si éste también las aprueba procederá conforme los siguientes artículos.
+
+Tanto la revisión de la documentación por parte de la dependencia gubernamental, cuanto la que realice el Colegio de Notarios, deberán cumplirse en plazos sucesivos de quince días hábiles a contar, en el primer caso, desde que el plazo de la convocatoria hubiere caducado y en el segundo a partir de que el Colegio de Notarios la reciba del Ejecutivo del Estado.
 
 ###### ARTICULO 41.
 
 El Colegio de Notarios del Estado señalará día y hora para la celebración de los exámenes de oposición. Este señalamiento lo dará a conocer el Colegio a los concursantes, cuando menos con quince días de anticipación, por medio de oficio enviado por correo certificado con acuse de recibo a la dirección que al efecto hubieren designado en su solicitud.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 42.
 
-El jurado se integrará de conformidad con lo dispuesto por los artículos 18 y 21 de esta Ley.
+El jurado se compondrá de cinco miembros que serán: El representante del Ejecutivo del Estado, quien tendrá el carácter de presidente, el presidente del Tribunal Superior de Justicia del Estado, el presidente del Colegio de Notarios y dos notarios nombrados por el propio Colegio, uno de ellos actuará como Secretario.
+
+En el supuesto de que algún miembro del jurado no pudiese o no debiese asistir, lo hará del conocimiento del Colegio por lo menos el día hábil anterior al del examen. El Consejo Directivo del Colegio designará a quienes los suplan entre los notarios de dicho cuerpo colegiado.
+
+Se aplicarán a este jurado lo dispuesto en los artículos 19 y 20 de esta ley.
 
 ###### ARTICULO 43.
 
@@ -341,7 +385,9 @@ En el día y hora señalados para la prueba práctica, se reunirán todos los ca
 
 La prueba teórica tendrá lugar en el local que señale el Colegio de Notarios y será pública.
 
-Se procederá al examen de los candidatos por el orden de presentación de sus instancias. El que por cualquier motivo no concurriese a la hora señalada, perderá su turno y será el último. Si tampoco se presentare al llegar su nuevo turno, se le tendrá por desistido; pero si acreditare debidamente hallarse enfermo u otro motivo justificado, a juicio del Jurado, podrá concedérsele un breve plazo improrrogable.
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
+Se procederá al examen de los candidatos por el orden de presentación de sus instancias. El que por cualquier motivo no concurriese a la hora señalada, perderá su turno y se le tendrá por desistido; pero si acreditara debidamente hallarse enfermo u otro motivo justificado, a juicio del jurado, podrá concedérsele un breve plazo improrrogable para volver a examinarse.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -353,17 +399,31 @@ El sustentante que no obtenga una calificación mínima de setenta puntos, se co
 
 Si ningún sustentante resulta aprobado, se declarará desierto el examen y nuevamente se convocará.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 47.
 
-Concluído el examen de todos los candidatos, será declarado triunfador el que resulte con mayor calificación, sumadas las que hubiere obtenido en ambas pruebas. El Jurado se abstendrá de hacer dicha declaración cuando la mayor calificación la obtuvieren varios sustentantes.
+Concluido el examen de todos los candidatos, el Secretario del jurado elaborará una lista por riguroso orden de mayor a menor calificación obtenida por cada uno de los examinados, relacionando las que hubieren obtenido en las pruebas oral y escrita y el promedio final; el jurado inmediatamente declarará triunfador al que resulte con el mayor promedio. Si varios hubieren obtenido el mismo promedio, se declarará triunfador al que hubiere alcanzado la mayor puntuación en la prueba teórica. Si aún subsiste el empate, el jurado resolverá por simple mayoría de votos en nuevo escrutinio reservado.
+
+Si el examen hubiere comprendido dos o más notarías y participan varios opositores, éstos se sujetarán a la lista elaborada en términos del párrafo anterior de este artículo. El jurado, por conducto de quien presida, interrogará a los examinados en el orden que allí aparezcan para que éstos decidan la notaría que sea de su interés. En caso de que hubiere empate en la puntuación, se resolverá en los mismos términos del párrafo precedente.
+
+Aunque cualquier notario puede participar en un concurso múltiple, sólo podrá optar por una notaría diferente a la de su sede actual. Si uno o varios de los notarios que hubieren superado la calificación mínima no tuvieran interés en ser nombrados titulares de las notarías que quedaran disponibles de las convocadas porque de las que pretendían ser titulares ya fueron ocupadas por otros candidatos que obtuvieron mayor calificación, cederán su turno a los siguientes en la lista que hubieren superado dicha calificación mínima.
+
+Si quedará alguna notaría de las convocadas sin titular, se declarará desierto el concurso por cuanto hace a ésta y se convocará a nuevo examen dentro de los noventa días posteriores para proveerla.
+
+El notario que concurse no pierde su calidad de tal, independientemente del resultado que obtenga en el examen.
 
 ###### ARTICULO 48.
 
 El Jurado comunicará al Colegio de Notarios sobre el resultado de la oposición y éste transmitirá el informe al Ejecutivo del Estado.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 49.
 
-Cumplidos los requisitos señalados en los artículos anteriores, el Gobernador del Estado extenderá el nombramiento de Notario al triunfador de la oposición. En el caso de la parte final del artículo 47, extenderá nombramiento en favor del candidato que elija entre los que obtuvieron la mayor calificación.
+Dentro del término de treinta días hábiles a partir de la fecha que reciba el informe, el Gobernador del Estado expedirá el nombramiento de notario.
+
+Si resultase triunfador de la oposición un candidato que ya era notario, el Gobernador del Estado, al mismo tiempo que le expida el nuevo nombramiento, cancelará el anterior y declarará vacante esta notaría para proveerla en el siguiente concurso.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 1995)</small>
 
@@ -379,31 +439,43 @@ Igual procedimiento se seguirá, cuando el día en que deba celebrase el examen 
 
 Para que el Notario pueda ejercer sus funciones no basta que obtenga el nombramiento, debe, además:
 
-> <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 1997)</small>
 
-I.- Dar fianza por el equivalente a doscientos días del salario mínimo general vigente en la capital del Estado, al día primero de enero de cada año.
+I.- Constituir garantía del ejercicio de sus funciones ante el organismo administrador del fondo de garantía subsidiaria, creado por el Colegio de Notarios, pagando la cantidad mínima que por concepto de aportación anual esté vigente, dentro de los quince días siguientes a que el jurado lo declaró triunfador en términos del artículo 48 de esta ley.
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 1997)</small>
 
-II.- Proveerse a su costa del sello y libros del Protocolo y hacer registrar su sello y su firma en el Departamento de Inspección y Archivo General de Notarías, en la Oficina del Registro Público de la Propiedad y del Comercio que corresponda y en la Secretaría del Colegio de Notarios. Si después de hecho el Registro el Notario cambiare de firma o de nombre, hará registrar el cambio en las mismas oficinas.
+II.- Proveerse a su costa del sello y los folios o libros que formarán el protocolo. Registrar su sello y firma en el Departamento de Inspección y Archivo General de Notarías, en la Oficina del Registro Público de la Propiedad y del Comercio que corresponda y en la Secretaría del Colegio de Notarios. Si después de hecho el registro el notario cambiase de firma o de nombre, hará registrar el cambio en las mismas oficinas.
 
 III.- Otorgar la protesta legal ante el Gobernador del Estado o funcionario que designe.
 
 IV.- Establecer su oficina o Notaría en el lugar en que va a desempeñar su cargo, dentro de treinta días, contados desde la fecha que otorgó la protesta de su cargo.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 52.
 
-En vez de la fianza de que trata la fracción I del artículo anterior, es potestativo para el Notario constituir hipoteca o depósito por la cantidad que señala esta Ley.
+Todos los notarios están obligados a constituir y a mantener vigente la garantía subsidiaria de responsabilidad por el ejercicio de su función por año de calendario, a excepción del primero del ejercicio de sus funciones que sólo cubrirá proporcionalmente, desde la fecha de su triunfo en el examen de oposición, hasta el día último de ese año. También los notarios están obligados a actualizar el valor de la garantía cada vez que el Colegio determine el aumento del monto de las aportaciones o bien, cuando oficialmente sea modificado el salario mínimo al que la aportación esté indizado; y si por haberse dado los supuestos de esta ley se hace efectiva la garantía, el notario deberá reconstruirla en un plazo que no excederá de seis meses contados a partir de la fecha en que el Colegio haya pagado.
+
+El incumplimiento de este precepto imposibilita al notario para tomar posesión de la notaría en el primer caso, y quedar suspendido en sus funciones en el segundo y tercer casos.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 53.
 
-El Notario, en cualquier tiempo, puede sustituir una garantía por otra, según le convenga, con aviso al Ejecutivo del Estado.
+La garantía a que se refieren los artículos precedentes será abonada por cada notario dentro de los primeros treinta días de cada año de calendario. En casos de mora, el importe que resulte vigente será actualizado de acuerdo a la variación que sufra desde la fecha límite en que debió abonar y hasta su efectivo pago, conforme al índice nacional de precios al consumidor o al indicador económico que lo sustituya.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+Esta sanción pecuniaria se aplicará al notario independientemente de que durante la mora el Colegio de Notarios se abstendrá de proveerle de los folios de protocolo que aquél requiera y el Departamento de Inspección y Archivo General de Notarías, de autorizarle los libros que sean necesarios para el ejercicio de su función, y también sin perjuicio de aplicarle al renuente la sanción prevista en los dos últimos párrafos del artículo 52 de esta ley.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 54.
 
-La fianza se otorgará ante la Secretaría General de Gobierno por Compañía de Fianzas autorizada. La hipoteca y el depósito se constituirán ante la autoridad administrativa que designe el Ejecutivo.
+La garantía que están obligados a constituir o, en su caso, a reconstruir los notarios y a mantener vigente y actualizado su importe, sólo estará afecta a las responsabilidades contraídas en el desempeño de sus funciones.
+
+La garantía responderá también y preferentemente de las cantidades que dejare de pagar el notario en concepto de multas impuestas por el Departamento de Inspección y Archivo General de Notarías, costos por desorganización y deterioro de los libros del protocolo que entregue a dicho Departamento y que éste se encargue de su custodia, cuotas al Colegio, multas impuestas por el Colegio y cuotas de mutualidad.
+
+Para hacer efectivas estas obligaciones, demostrada la falta de pago, el Departamento procederá directamente contra la garantía a petición de la acreedora o a solicitud del Colegio y una vez cobrado lo que adeude el notario infractor, entregará su importe a quien corresponda. Si por haber procedido contra la garantía de que se trate, ésta desapareciese o quedase reducida, se aplicará lo que para tales casos dispone el artículo 52 de esta ley.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
 
@@ -445,6 +517,14 @@ Tanto el nombramiento como la remoción se comunicarán a la Oficina del Registr
 
 El Notario adscrito, cuando actúe, tendrá igual capacidad funcional que la del titular; en consecuencia, los instrumentos que autorice tendrán el mismo valor probatorio que los autorizados por el titular.
 
+> <small>(ADICIONADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
+Al notario adscrito también le son aplicables los artículos 107, 108, 109, 110, 111 y 112 de esta ley.
+
+> <small>(ADICIONADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
+En especial el adscrito se abstendrá de actuar en actos o hechos jurídicos en que participen los familiares del titular en los grados de impedimento ya precisados anteriormente.
+
 ###### ARTICULO 63.
 
 La garantía constituída por el Notario de número cubrirá la de su Notario adscrito.
@@ -469,11 +549,15 @@ El Notario que fuere designado para el desempeño de otro cargo público dentro 
 
 Las faltas temporales de un Notario Titular serán suplidas en el orden siguiente:
 
-I.- Por el Notario Adscrito,
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 1997)</small>
 
-II.- Por el Aspirante que designe el Ejecutivo del Estado, y
+I.- Por el notario adscrito de esa notaría.
 
-III.- Por el Juez de Primera Instancia de la Demarcación.
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 1997)</small>
+
+II.- Por el otro notario de la misma demarcación que al efecto designe el titular de la notaria.
+
+III.- (DEROGADA, G.O. 25 DE FEBRERO DE 1997)
 
 ###### ARTICULO 67.
 
@@ -541,9 +625,13 @@ Cuando un Notario dejare de prestar sus servicios por cualquier causa, se public
 
 La declaración de que el Notario queda separado definitivamente de su cargo, la hará el Ejecutivo del Estado, previa comprobación de alguna de las causas señaladas en el artículo 70, oyendo previamente al interesado y al Colegio de Notarios, salvo que se tratare de renuncia o muerte, y siguiendo el procedimiento señalado en el artículo 168.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 77.
 
-Cuando un Notario cesare definitivamente en sus funciones, el Ejecutivo del Estado ordenará el cierre de su protocolo y la entrega de los libros y archivo de la Notaría. La diligencia se practicará con la intervención de un representante del Ejecutivo, designado entre los visitadores de Notarías, y otro del Colegio de Notarios, quienes en cada uno de los libros abiertos pondrán razón que contendrá la fecha de la diligencia, la causa que motiva el cierre y las demás circunstancias que estimen convenientes, suscribiendo dicha razón con sus firmas.
+Cuando un notario cesase definitivamente en sus funciones, el Ejecutivo del Estado ordenará el cierre de su protocolo y la entrega de los libros, folios, útiles y archivo de la notaría. La diligencia se practicará con la intervención de un representante del Ejecutivo designado entre los visitadores de notarías y otro del Colegio de Notarios, quienes en el folio siguiente, al último utilizarlo, pondrán razón que contendrá la fecha de la diligencia, la causa que motiva el cierre y las demás circunstancias que estimen convenientes, suscribiendo dicha razón con sus firmas.
+
+Los folios útiles que existiesen serán cancelados por el Departamento de Inspección y Archivo General de Notarías, mediante dos rayas cruzadas en forma diagonal.
 
 ###### ARTICULO 78.
 
@@ -557,15 +645,19 @@ De la diligencia a que se refieren los dos artículos anteriores se levantará a
 
 Si la vacante es por causa de delito proveniente de la actuación oficial del Notario, intervendrá también en la diligencia el Agente del Ministerio Público que designe el Procurador General de Justicia del Estado.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 81.
 
-La suspensión de un Notario será declarada por el Ejecutivo del Estado, quien ordenará el cierre del protocolo y la entrega de los libros archivo de la Notaría, diligencia que se practicará en términos de los artículos 77, 78, 79 y 80, en lo conducente.
+La suspensión de un notario será declarada por el Ejecutivo del Estado, quien ordenará el cierre del protocolo y la entrega de los libros, los folios útiles y archivo de la notaría, diligencia que se practicará en términos de los artículos 77, 78, 79 y 80, en lo conducente.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 82.
 
-En los casos de suspensión o cesación definitiva del Notario se encargarán provisionalmente del Despacho de la Notaría, en el orden siguiente: El Notario Adscrito, el Aspirante que designe el Ejecutivo del Estado, el Licenciado en Derecho que designe el propio Ejecutivo o el Juez de Primera Instancia de la Demarcación, quienes durarán en funciones hasta en tanto se nombre al nuevo Titular. Si la Notaría debe ser clausurada, el substituto sólo estará facultado para tramitar los instrumentos ya autorizados y para expedir los testimonios, copias certificadas o certificaciones que se soliciten por parte interesada y sólo durará en funciones por el término estrictamente necesario para ello, que no excederá de un año, después de lo cual el Protocolo y Archivo se concentrarán en el Departamento de Inspección y Archivo General de Notarías.
+En los casos de suspensión o cesación definitiva del notario, se encargará provisionalmente del despacho de la notaría el notario de la demarcación que al efecto designe el Ejecutivo del Estado. Este sólo estará facultado para tramitar los instrumentos ya autorizados por el notario suspendido o cesado, para expedir los testimonios, copias certificadas o certificaciones que se le soliciten por parte interesada. Durará en dichas en funciones por el término estrictamente necesario para ello, mismo que no excederá de noventa días de calendario a contar desde la fecha en que asuma el cargo. Satisfecho el encargo, el protocolo, los folios útiles y el archivo los entregará a quien corresponda con arreglo al artículo siguiente de esta ley, o en su defecto, al Departamento de Inspección y Archivo General de Notarías del Estado.
+
+En caso de no existir otro notario en la Demarcación, el Departamento de Inspección y Archivo General de Notarías se encargará de los trámites previstos en este artículo.
 
 ###### ARTICULO 83.
 
@@ -579,27 +671,15 @@ El Notario que reciba una Notaría deberá siempre hacerlo por riguroso inventar
 
 ###### ARTICULO 85.
 
-Sólo se acordará la cancelación de la garantía constituída por el Notario, si se llenan previamente los siguientes requisitos:
-
-I.- Que el Notario haya cesado definitivamente en el ejercicio de sus funciones.
-
-II.- Que no haya queja alguna que importe responsabilidad pecuniaria para el Notario, pendiente de resolución.
-
-III.- Que se solicite después de dos años de la cesación del Notario, por él mismo o por parte legítima.
-
-IV.- Que se publique la petición en extracto, en la "Gaceta Oficial", por una sola vez.
-
-V.- Que se oiga al Colegio de Notarios.
-
-VI.- Que transcurran tres meses después de la publicación en la "Gaceta Oficial", sin que se hubiere presentado opositor.
-
-En caso de oposición, el opositor deberá deducir sus derechos dentro del término de treinta días contados a partir de la presentación de su oposición y si no lo hiciere, se tendrá por no formulada ésta. Si la oposición se refiere a un hecho delictuoso, se hará desde luego la consignación al Ministerio Público.
+(DEROGADO, G.O. 25 DE FEBRERO DE 1997)
 
 ### Capítulo Séptimo. COLEGIO DE NOTARIOS
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 86.
 
-Se crea el Colegio de Notarios del Estado de Veracruz, con personalidad jurídica propia en cuanto a la realización de sus fines; tendrá las funciones que se deriven de la presente Ley y será regido por las disposiciones de la misma y por sus estatutos, los cuales serán elaborados por el propio Colegio y sancionados por el Ejecutivo del Estado.
+El Colegio de Notarios del Estado de Veracruz es una corporación de derecho público con personalidad jurídica y patrimonio propio. Tendrá las funciones que se deriven de la presente ley y estará regido por las disposiciones de la misma y por su estatuto y reglamento, los cuales serán sancionados por el Ejecutivo del Estado.
 
 ###### ARTICULO 87.
 
@@ -627,9 +707,15 @@ VI.- Vigilar y procurar que los Notarios cumplan debidamente su cometido.
 
 VII.- Las demás que le confieran esta Ley, sus reglamentos y los estatutos del Colegio de Notarios del Estado.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 90.
 
-El Colegio será dirigido por seis de sus miembros que desempeñarán los cargos de Presidente, Vice-Presidente, Secretario, Pro-Secretario, Tesorero y Pro-Tesorero y que en conjunto constituirán el Consejo Directivo del propio Colegio.
+El Colegio será dirigido por nueve de sus miembros que desempeñarán los cargos de Presidente, Vice-presidente, Secretario, Pro-secretario, Tesorero, Pro-tesorero, Vocal académico, Vocal de Proyectos Legislativos y Vocal de Mutualidad y que en conjunto constituirán el Consejo Directivo del propio Colegio.
+
+Habrá, además, un notario delegado por cada una de las demarcaciones en que está dividida territorialmente la Entidad Federativa, elegido por sus pares cada dos años.
+
+Los delegados demarcaciones y el Consejo Directivo sesionarán cuantas veces sea necesario, previa convocatoria del Presidente o a solicitud de por lo menos tres delegados.
 
 ###### ARTICULO 91.
 
@@ -709,7 +795,9 @@ En las visitas se observarán las reglas siguientes:
 
 I.- Si la visita fuere general, el inspector revisará todo el protocolo o diversas partes de él, según lo estime necesario, para cerciorarse de la observancia de todos los requisitos legales de forma, sin examinar los pactos ni declaraciones de ningún instrumento; además, se hará presentar las minutas depositadas, los testamentos cerrados que se conserven en guarda y los títulos y expedientes que tenga en su poder el Notario, formando un inventario de todo para agregarlo al acta de visita.
 
-II.- Si se hubiere ordenado la visita de un tomo determinado, el visitador o inspector se limitará a examinar el cumplimiento de los requisitos de forma y la redacción de las escrituras con exclusión de sus cláusulas y declaraciones y sólo del tomo indicado.
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 1997)</small>
+
+II.- Si se hubiese ordenado la revisión de un libro o folio determinado el visitador o inspector se limitará a examinar el cumplimiento de los requisitos de forma y la redacción de las escrituras, con exclusión de sus cláusulas y declaraciones y sólo del libro o folio indicado.
 
 III.- Si la visita tiene por objeto un instrumento determinado, se examinarán los requisitos de forma, la redacción de él y aún sus cláusulas y declaraciones, en caso de que el instrumento sea de los sujetos a registro.
 
@@ -793,109 +881,179 @@ Se prohibe a los Notarios recibir o conservar dinero o documentos que represente
 
 ### Capítulo Segundo. PROTOCOLO
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 113.
 
-El protocolo está constituído por los libros o volúmenes en los cuales el Notario asienta las escrituras y las actas y por el Apéndice en el que se glosan los documentos relacionados con aquéllos.
+Protocolo es el libro o juego de libros previamente encuadernados o formados por folios numerados y sellados, el libro de registro de certificaciones y, en todos los casos, sus correspondientes apéndices, en los que el notario, observando las formalidades que establece la presente ley, asienta y autoriza las escrituras y actas que se otorguen ante su fe.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 1995)</small>
+Para asentar las escrituras y las actas, deberán utilizarse procedimientos de escritura o impresión que sean firmes, indelebles y legibles. La parte utilizable de la hoja o folio deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y las líneas que se impriman deberán estar a igual distancia unas a otras.
+
+Los instrumentos, libros y sus apéndices que integren el protocolo se numerarán progresivamente, incluyendo los instrumentos que tengan la mención de "no pasó".
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 114.
 
-El Notario podrá llevar simultáneamente varios libros de protocolo abiertos, pero sin exceder de diez. Si fueren más de dos, necesitará autorización del Departamento de Inspección y Archivo General de Notarías, quien oirá la opinión del Colegio de Notarios. Cuando sea necesario, por causas de interés social, el Titular del Ejecutivo podrá autorizar la apertura de libros de protocolo especiales.
+El notario podrá optar por llevar el protocolo cerrado o abierto, dando aviso de la alternativa escogida a la Secretaría de Gobierno, por conducto del Departamento de Inspección y Archivo General de Notarías y al Colegio de Notarios, con treinta días de anticipación al inicio de la forma escogida.
+
+Para poder cambiar de modalidad, deberán agotar los volúmenes que tengan en uso.
+
+Las notas que conforme a la presente ley deban asentar los notarios serán, en el protocolo cerrado, marginales y en el abierto, complementarias.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 115.
 
-Los libros del protocolo serán uniformes, adquiridos por el Notario, encuadernados sólidamente, constarán de trescientas páginas numeradas y de una hoja al principio, sin numerar, destinada al título del libro.
+Los folios, los libros del protocolo, los libros de registro de certificaciones y sus respectivos apéndices que estén en uso o ya concluidos, deberán estar siempre en la notaría y no podrán ser extraídos de ahí, si no es por el mismo notario y sólo en los siguientes casos.
 
-Las hojas del libro serán de treinta y cinco centímetros de largo por veinticinco de ancho, en su parte utilizable. Al escribirse en ellas se dejará en blanco un margen de la tercera parte hacia la izquierda, separado por medio de una línea de tinta, para asentar en dicha parte las razones o anotaciones que deban ir allí. Cuando se agote estar parte, se asentará razón de que las anotaciones se continúan en hoja por separado, especialmente dedicada al efecto, que se acumulará al Apéndice.
+a) Para su traslado al Departamento de Inspección y Archivo General de Notarías;
 
-Se dejará en blanco una faja de tres centímetros de ancho por el lado del doblés del libro y otra faja de un centímetro en la orilla de las hojas para proteger lo escrito.
+b) En su caso de siniestro o fuerza mayor;
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+c) Para recoger firmas a las partes cuando éstas no puedan asistir a la Notaría.
+
+Si el Departamento de Inspección y Archivo General de Notarías o alguna autoridad judicial, ordena la inspección del protocolo o de un instrumento, la misma se efectuará en la oficina del notario y siempre en presencia de éste, debiendo comunicársele con tres días de anticipación. Si el instrumento se encuentra en el Departamento de Inspección y Archivo General de Notarías del Estado, la diligencia se llevará a cabo en esa oficina, previa citación del respectivo notario.
+
+El notario tampoco permitirá sacar de su archivo ningún documento que se halle bajo su custodia por razón de su oficio, ni dejará examinarlo en todo o en parte, ni tampoco el protocolo, sin previo mandamiento judicial y sólo a parte interesada con derecho adquirido, sus herederos o causahabientes. En estos casos cuidará que la lectura se limite al documento en que tengan aquéllos interés, procurando que el protocolo no pueda sufrir daño o deterioro, lo buscará personalmente y no permitirá que sea fotocopiado o fotografiado ni que saquen notas o extractos de él ni que sea hojeado el protocolo si no indispensable para la lectura de la matriz de que se trate.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 116.
 
-En la primera página útil de cada libro, el Jefe del Departamento de Inspección y Archivo General de Notarías de Gobierno pondrá la razón en que consten el lugar y la fecha; el número que corresponda al volumen según los que vaya recibiendo el Notario durante su ejercicio; el número de páginas útiles, inclusive la primera y la última; el número ordinal, nombre y apellido del Notario; el lugar en que deba residir y esté situada la Notaría y, por último, la expresión de que ese libro solamente debe utilizarse por el Notario o por la persona que legalmente lo sustituya en sus funciones.
+Los notarios serán responsables de la integridad y conservación del protocolo.
 
-Al final de la última página del libro se pondrá una razón análoga, sellada y suscrita por el Jefe del Departamento de Inspección y Archivo General de Notarías.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 117.
 
-El Notario abrirá cada volumen de su Protocolo cuando vaya a usar de él, poniendo inmediatamente después de la razón del Departamento de Inspección y Archivo General de Notarías, otra en la que exprese su nombre y apellidos y el número que le corresponde, así como el lugar y la fecha en que abra el libro, su sello y su firma.
+Los notarios guardarán en su archivo los libros concluidos, en los que conste la razón de cierre a que aluden los artículos 122 y 127 de esta ley.
 
-Cuando haya cambio de Notario, el nuevo asentará razón de tal hecho bajo su firma y sello.
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 118.
 
-Al comenzar a hacer uso de una hoja se le pondrá el sello del Notario en la cabeza de la faja destinada a notas marginales.
+Los libros del protocolo serán uniformes, adquiridos por el notario a su costa, encuadernados sólidamente, constarán de trescientas páginas numeradas y de una hoja al principio sin numerar destinada al título del libro.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+Las hojas del libro serán de treinta y cinco centímetros de largo por veinticinco de ancho, en su parte utilizable.
+
+Al escribirse en ellas se dejará en blanco un margen de la tercera parte hacia la izquierda, separada por medio de una línea de tinta, para asentar en ese espacio las razones o notas que deban ir ahí. Cuando se agote ese espacio, se asentará razón de que las anotaciones se continuarán en hoja por separado, especialmente dedicada a ese efecto, que se acumulará al apéndice.
+
+Se dejará en blanco una faja de tres centímetros de ancho por el lado del doblez del libro y otra faja de un centímetro en la orilla de las hojas para proteger lo escrito.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 119.
 
-El sello será circular con diámetro de cuatro centímetros; representará el Escudo Nacional en el centro y tendrá inscrito, en derredor, el nombre, apellidos y número del Notario y el lugar de su residencia.
-
-Si se pierde o altera el sello, el Notario se proveerá de otro en el que se pondrá signo especial que lo diferencie del anterior. Si aparece el primer sello no lo usará el Notario, sino que lo entregará al Departamento de Inspección y Archivo General de Notarías para que se destruya, levantándose acta por duplicado; lo mismo se hará con el sello del Notario que fallezca, o cuando dicho sello aparezca alterado.
-
-###### ARTICULO 120.
-
-En los libros del protocolo deberá escribirse o imprimirse con tinta indeleble. No se asentarán más de cuarenta líneas por página a igual distancia unas de otras, salvo el caso de entrerrenglonaduras que deban hacerse.
-
-###### ARTICULO 121.
-
-Tanto los libros como las escrituras y las actas se numerarán progresivamente.
+El notario podrá llevar simultáneamente varios libros de protocolo en uso, pero sin exceder de diez. Si fuesen más de dos, necesitará autorización de la Secretaría de Gobierno, quien previamente oirá la opinión del Consejo Directivo del Colegio de Notarios.
 
 Cuando se utilicen varios libros simultáneamente, el uso de ellos se hará por riguroso orden numérico, volviendo del último al primero. Los instrumentos se asentarán por su orden cronológico en los términos anteriores.
 
-Entre uno y otro de los instrumentos de un mismo volumen, no habrá más espacio que para las firmas, autorizaciones y sellos. Si por algún motivo quedare un espacio en blanco, será inutilizado por el Notario, por medio de diagonales cruzadas.
+Todo instrumento se iniciará al principio de una página y, si al final de la última empleada quedase un espacio en blanco después de las firmas, autorizaciones y sellos, será inutilizado por el notario por medio de diagonales cruzadas.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+Al comenzar a hacer uso de una hoja, se le pondrá el sello del notario en la cabeza de la faja destinada a notas marginales.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 120.
+
+En la primera página útil de cada libro, el Jefe del Departamento de Inspección y Archivo General de Notarías pondrá una razón en que se haga constar el lugar y la fecha; el número que corresponda al volumen según los que vaya ocupando el notario durante su ejercicio; el número de páginas útiles, inclusive la primera y la última; el número ordinal, nombre y apellido del notario, el lugar en que deba residir y esté situada la notaría y, por último, la expresión de que ese libro solamente debe utilizarse por el notario o por la persona que legalmente lo sustituya en sus funciones.
+
+Al final de la última página del libro se pondrá una razón análoga, sellada y suscrita por el Jefe del Departamento de Inspección y Archivo General de Notarías.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 121.
+
+El notario abrirá cada libro de su protocolo, poniendo inmediatamente después de la razón del Departamento de Inspección y Archivo General de Notarías, otra en la que exprese: su nombre y apellidos, el número que le corresponde, así como el lugar y la fecha en que abra su sello y su firma.
+
+Cuando haya cambio de notario, el nuevo asentará razón de tal hecho bajo su firma y sello.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 122.
 
-Cuando el Notario calcule que ya no puede dar cabida a otro instrumento más en el libro en uso, lo cerrará poniendo en él razón de clausura, así como en todos los demás si fueren varios, dentro de un término no mayor de treinta días contados a partir de la fecha del último instrumento, en cuya razón expresará el lugar, día y hora en que se cierra el libro, el número de fojas utilizadas y el número de instrumentos autorizados y de los que no pasaron que contenga, dando inmediato aviso al Departamento de Inspección y Archivo General de Notarías con expresión de los datos contenidos en la razón.
+Cuando el notario no pueda dar cabida a otro instrumento más en el libro en uso, lo cerrará poniendo en él razón de clausura, así como en todos los demás si fueren varios, dentro de un término no mayor de treinta días contados a partir de la fecha del último instrumento, en cuya razón expresará el lugar, día y hora en que se cierra el libro, el número de fojas utilizadas y el número de instrumentos autorizados y de los que no pasaron que contenga, dando inmediato aviso al Departamento de Inspección y Archivo General de Notarías con expresión de los datos contenidos en la razón.
 
-Cerrados los libros, a la mayor brevedad posible los remitirá al citado Departamento, quien previa verificación de la exactitud de la razón del cierre, extenderá en ellos la certificación que corresponde, inutilizando por medio de líneas cruzadas y perforaciones convenientes las hojas que hubieren quedado en blanco y devolverá los libros al Notario.
+En el protocolo abierto la razón se asentará en hoja adicional que se agregará al final de cada libro.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+Cerrados los libros, en un plazo de ciento veinte días, los remitirá al citado Departamento, quien previa verificación de la exactitud de la razón del cierre, extenderá en ellos la certificación que corresponde, inutilizando por medio de líneas cruzadas las hojas que hubiesen quedado en blanco y devolverá los libros al Notario, dentro de los diez días siguientes a la entrega.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 123.
 
-Cuando esté por concluirse el libro del Protocolo o el juego de libros que lleve un Notario, enviará al Departamento de Inspección y Archivo General de Notarías el libro o juego de libros en que habrá de continuar actuando, para su autorización.
+Cuando esté por concluirse el libro o juego de libros que lleve el notario, enviará al Departamento de Inspección y Archivo General de Notarías el libro o juego de libros en que habrá de continuar actuando para su autorización.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 124.
 
-Por ningún motivo podrán sacarse de la Notaría los libros o volúmenes y sus Apéndices, que estén en uso o ya concluídos, si no es por el mismo Notario y sólo en los casos determinados por la presente Ley o para recoger firmas a las partes dentro de la demarcación del Notario cuando éstas no puedan asistir a la Notaría o el Notario esté dispuesto a salir a recogerlas.
+En el protocolo abierto, los libros se formarán con los folios numerados progresivamente, sujetándose a las siguientes reglas:
 
-Si alguna autoridad, con facultades legales, ordena la inspección de uno o más libros del protocolo, el acto se efectuará en la misma oficina del Notario y siempre en presencia de éste.
+a).- Los folios serán hechos de papel blanco, con el sello del escudo del Estado y se utilizarán a lo máximo, por ambas caras, los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica.
+
+b).- Serán elaborados por la Editora de Gobierno del Estado y del tamaño que determine el Departamento.
+
+c).- El Colegio de Notarios bajo su responsabilidad proveerá a cada notario, y a costa de éste, de los folios necesarios a que se refiere esta sección. El Colegio de Notarios informará mensualmente al citado Departamento de la entrega que haga de los folios a los notarios, en la forma que éste determine.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 125.
 
-Los Notarios guardarán en su archivo los protocolos cerrados.
+Al iniciar la formación de un libro el notario hará constar la fecha en que se inicia, el número y año que le corresponda, con la mención de que se formará con los instrumentos autorizados por él o por quien legalmente lo sustituya. La hoja en que se asiente la razón, no irá numerada y se encuadernará antes del primer folio del libro.
+
+Los libros se numerarán progresivamente y se integrarán por doscientos folios, excepto cuando el notario deba asentar un instrumento que rebase ese número, en cuyo caso, podrá dar por terminado el libro sin asentar dicho instrumento, iniciando con éste el siguiente libro.
+
+Los folios deberán encuadernarse dentro de los ciento veinte días siguientes a la fecha de la razón de cierre.
+
+> <small>(REFORMADO, 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 126.
 
-El Notario llevará una carpeta donde irá depositando los documentos necesarios que se relacionen con los instrumentos. El contenido de esa carpeta se llama Apéndice.
+Todo instrumento se iniciará al principio de un folio y, si en el último empleado en el mismo queda espacio, después de las firmas y de la autorización, éste se empleará para asentar las notas complementarias correspondientes. La autorización del notario sólo se asentará en los folios.
+
+Si en el último folio donde conste un instrumento no queda espacio para las notas complementarias, se podrá agregar una hoja de papel similar, sin foliar.
+
+Cuando se inutilice un folio, se cruzará con líneas de tinta y se colocará al final del respectivo instrumento.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 127.
 
-En la parte superior de los documentos que se agreguen al Apéndice se anotará el número del volumen y del instrumento a que se refieren y la legra que progresivamente les corresponda, debiendo autorizarse esa anotación con la rúbrica y el sello del Notario y se archivarán por su orden progresivo y alfabético mediante cualquier sistema que dé fijeza a los documentos.
+Dentro de los treinta días siguientes a la integración de un libro, el notario deberá asentar, en una hoja adicional, que se agregará al final del último instrumento, una razón de cierre, en la que expresará, la fecha, el número de folios utilizados e inutilizados, el número de instrumentos autorizados y de los que no pasaron que contenga, poniendo al calce de la misma su sello y firma.
 
-Los documentos que se agreguen al Apéndice y que consten de varias hojas, se considerarán como un solo documento.
+A partir de esa fecha el notario contará con un término de ciento veinte días para encuadernar los libros y enviarlos al Departamento de Inspección y Archivo General de Notarías del Estado, quien revisará solamente la exactitud de la razón de cierre, debiendo devolverlos al notario dentro de los diez días hábiles, siguientes a la fecha de entrega, con la calificación correspondiente.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 128.
 
-Los documentos del Apéndice se encuadernarán ordenadamente y se empastarán en volúmenes en atención al número de hojas que contengan, a juicio del Notario, a más tardar ciento veinte días después de la fecha del cierre del libro o juego de libros del protocolo a que pertenezcan.
+El sello será circular con diámetro de cuatro centímetros; representará el Escudo Nacional en el centro y tendrá inscrito en derredor, el nombre, apellidos y número del notario y el lugar de su residencia.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 129.
 
-Los documentos del Apéndice no podrán desglosarse y los conservará el Notario.
+Por cada libro el notario llevará una carpeta en la que acumularán los documentos que se relacionen con los instrumentos a que se refieran. A la carpeta y su contenido se le denominará apéndice y forma parte del protocolo. Los documentos del apéndice se ordenarán progresivamente por medios de letras. Los documentos que se agreguen y consten de varias páginas se considerarán como uno solo.
+
+El apéndice se encuadernará dentro del mismo plazo en que se haga para el libro a que se refiera.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 130.
 
-Los Notarios llevarán un índice de todos los instrumentos que autoricen por orden alfabético de apellidos o denominaciones de cada otorgante, con expresión del número de la escritura o acta, naturaleza del acto o hecho, página, volumen y fecha.
+Los notarios tendrán obligación de llevar un índice alfabético de todos los instrumentos que autorizados o con la razón de "no pasó". Podrá llevarse en forma general o por libro o juego de libros en los que actúe.
+
+Se formará a medida de que se vayan asentando los instrumentos y en él se expresará:
+
+a).- El número de cada instrumento;
+
+b).- El nombre y apellidos de las personas físicas o denominación o razón social de las personas morales comparecientes;
+
+c).- La naturaleza del acto o hecho que contiene;
+
+d).- El libro y página en donde esté asentado.
 
 ### Capítulo Tercero. ESCRITURAS
 
@@ -913,7 +1071,11 @@ Las escrituras se asentarán con letra clara, sin abreviaturas, salvo el caso de
 
 El Notario redactará las escrituras en idioma español, sin perjuicio de adicionar, cuando las partes lo pidieren, traducciones en otro idioma hechas por perito que las mismas designaren, y observándose las siguientes reglas:
 
-I.- Expresará el número del volumen y de la escritura, la fecha y hora en que se extienda, su nombre y apellidos, el número de la Notaría.
+> <small>(REFORMADA, G.O. 25 DE FEBRERO DE 1997)</small>
+
+I.- Expresará el número del libro o volumen y de la escritura, el lugar de su adscripción, la fecha en que se extienda, su nombre y apellidos, el número de la notaría.
+
+La hora sólo se asentará en los testamentos y en las actas para hacer constar hechos que así lo ameriten.
 
 II.- Hará mención de los antecedentes y certificará que ha tenido a la vista los documentos que se le hubieren presentado para la formación de la escritura. Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura y citará su inscripción en el Registro Público o expresará la razón por la cual aún no está registrada.
 
@@ -977,17 +1139,25 @@ Firmada la escritura por los intervinientes el Notario la autorizará con su sel
 
 Si quienes deban suscribir una escritura no se presentan a firmarla dentro del término de un mes, contado de fecha a fecha inclusive, a partir del día en que se extendió en el protocolo, la misma escritura quedará sin efecto y el Notario pondrá al pie de ella y firmará una razón de "no pasó".
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 142.
 
-Si en una escritura se contienen varios actos jurídicos, el Notario deberá autorizarla por lo que se refiere a aquéllos que hayan sido firmados por las partes dentro del término legal y pondrá nota marginal asentando qué actos no pasaron.
+Si en una escritura se contienen varios actos jurídicos, el notario deberá autorizarla, por lo que se refiere a aquellos que hayan sido firmados por las partes dentro del término legal y pondrá nota marginal o complementaria asentando qué actos no pasaron.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 143.
 
-Todas las razones marginales llevarán la firma y sello del Notario.
+Todas las notas marginales o complementarias llevarán el sello y firma del notario.
+
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 144.
 
-Se prohibe a los Notarios consignar revocaciones, rescisiones o modificaciones al contenido de una escritura por simple razón al margen de ella. En estos casos debe extenderse nueva escritura y anotar después la antigua, salvo disposición expresa de la ley, en sentido contrario.
+Se prohibe a los notarios consignar revocaciones, rescisiones o modificaciones al contenido de una escritura, por simple nota marginal o complementaria. En estos casos, debe extenderse nueva escritura y después asentar nota marginal o complementaria, en la antigua, salvo disposición expresa de la ley, en sentido contrario.
+
+Cuando se trate de revocaciones o renuncia de poderes que no hayan sido otorgados en su protocolo, el notario comunicará por correo certificado a quien esté a cargo del protocolo en que se extendió el poder que se revoca o renuncia, aun cuando éste pertenezca a otra entidad federativa, para que dicho notario se imponga de esa revocación y proceda conforme a Derecho.
 
 ###### ARTICULO 145.
 
@@ -1153,9 +1323,11 @@ IV.- Si faltare algún otro requisito que produzca su ineficacia por disposició
 
 Fuera de estos casos, el testimonio hará prueba plena.
 
+> <small>(REFORMADO, G.O. 25 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 166.
 
-Cuando el Notario expida un testimonio pondrá al margen del instrumento una anotación que contendrá la fecha de la expedición, el número de hojas de que consta el testimonio, el número ordinal que corresponda a éste y para quién se expide y a qué título.
+Cuando el notario expida un testimonio, pondrá nota marginal o complementaria, que contendrá la fecha de la expedición, el número de páginas de que consta el testimonio, el número ordinal que corresponda a éste y para quién se expide y a qué título.
 
 ## TITULO TERCERO. RESPONSABILIDADES DE LOS NOTARIOS
 
@@ -1239,21 +1411,17 @@ La Comisión instructora tomará sus decisiones por mayoría de votos; si hubier
 
 La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en la "Gaceta Oficial" del Estado.
 
-> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 1974)</small>
-
 ###### ARTICULO 2°.
 
-Al sobrevenir vacantes en las Notarías actualmente en funciones, aun cuando excedan del límite señalado en el artículo 2°, de esta Ley, seguirán funcionando y serán despachadas por la persona que se designe conforme a las disposiciones relativas de este ordenamiento.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+(DEROGADO, G.O. 25 DE FEBRERO DE 1997)
 
 ###### ARTICULO 3°.
 
-En caso de que deje de funcionar una Notaría por aplicación de lo dispuesto en el artículo anterior, el Protocolo y el Archivo de que se trate se depositarán en el Departamento de Inspección y Archivo General de Notarías, a cuyo cargo quedará la conclusión de los instrumentos ya autorizados que estuvieren pendientes y la expedición de testimonios respectivos.
+(DEROGADO, G.O. 25 DE FEBRERO DE 1997)
 
 ###### ARTICULO 4°.
 
-Mientras no hubiere Aspirantes al ejercicio del Notariado en las respectivas demarcaciones Notariales del Estado, en los términos del artículo 29 de esta Ley, las faltas temporales del Notario titular podrán ser suplidas por la persona que éste proponga y en cuyo favor se extenderá el nombramiento correspondiente previa opinión del Colegio de Notarios. La persona propuesta deberá satisfacer los requisitos exigidos por las fracciones I, II, III, IV, V, VI, VIII, IX y X del artículo 37 y tendrá las mismas facultades de los Notarios adscritos.
+(DEROGADO, G.O. 25 DE FEBRERO DE 1997)
 
 ###### ARTICULO 5°.
 
@@ -1330,3 +1498,35 @@ G.O. 7 DE OCTUBRE DE 1995.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a estas reformas y adiciones.
+
+G.O. 25 DE FEBRERO DE 1997.
+
+Primero. La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+Segundo. Se derogan los artículos segundo, tercero y cuarto transitorios de la Ley del Notariado vigente.
+
+Tercero. Quienes a la fecha en que se inicie la vigencia de esta ley hubieren obtenido la patente de aspirante al ejercicio del notariado, estarán legitimados para participar en cualquier concurso que durante el año 1997 se convoque para proveer notarías vacantes.
+
+El Colegio de Notarios elaborará la relación de aspirantes para intervenir en los exámenes de oposición, y siempre que cumplan con los demás requisitos del artículo 37 de la Ley de Notariado, el Colegio extenderá, a petición de los interesados, la constancia de en su caso estar satisfecho el requisito mencionado en la fracción VII del numeral invocado.
+
+A partir del 1 de enero de 1998, los interesados en concursar por una notaría vacante, deberán satisfacer el requisito mencionado en el párrafo precedente ajustándose al reglamento de cursos de especialización notarial cuya impartición deberá iniciar el Colegio de Notarios durante el presente año.
+
+Cuarto. Se cancelan las actuales garantías que tienen constituidas los notarios, para ser sustituidas por la única que ahora entre en vigor, en virtud de haber quedado derogado el artículo 85 de la ley, según los supuestos que se actualicen en cada caso para el notario de que se trate y siempre que no exista pendiente de resolver ninguna queja en su contra que importe responsabilidad pecuniaria para el notario, para ello, el Departamento de Inspección y Archivo General de Notarías del Estado procederá en los siguientes términos:
+
+A. Devolverá u ordenará a la autoridad administrativa que el Ejecutivo en su día hubiere designado como depositaria, la cantidad que el notario depositante constituyó en garantía.
+
+B. Expedirá oficio de cancelación de la hipoteca que el notario de que se trate hubiere constituido, ordenando a la oficina de Registro Público respectiva la tildación en el asiento registral correspondiente.
+
+C. Si la garantía que los notarios constituyeran hubiere sido mediante fianza, el Departamento solicitará a las compañías afianzadoras que correspondan la cancelación de las pólizas con una anticipación razonable a la fecha que termine la vigencia de las mismas siempre que el Colegio de Notarios ya le hubiere informado al Departamento que el notario interesado constituyó oportunamente la garantía subsidiaria de responsabilidades por el ejercicio de su función por este año calendario o, en su caso, por el período proporcional que comprenda desde la fecha de la caducidad de la fianza hasta el día último de este año.
+
+Quinto. Mientras la Asamblea de Notarios no fije una cantidad diferente reformando al efecto los estatutos del Colegio de Notarios, durante el mes de enero 1997 y para los efectos de los reformados artículos 52, 53 y 54 de la Ley del Notariado, los notarios pagarán al fondo de garantía subsidiaria de las responsabilidades por el ejercicio de la función notarial el importe equivalente a treinta días de salario mínimo general que en esa época resulte aplicable a la zona económica que corresponda a la capital del Estado.
+
+Sexto. El protocolo abierto o de incorporación por folios, regirá desde el 1 de abril de 1997.
+
+Los notarios que hubiesen optado por el protocolo abierto asentarán la razón de terminación en cada libro de los que tuvieren en uso, después del último instrumento pasado ante ellos y cancelarán las hojas no utilizadas, si las hubiere.
+
+La numeración de los instrumentos con que cada notario iniciará el uso del protocolo por incorporación de folios será la que continúe al último instrumento asentado en los libros que dejare de usar.
+
+Séptimo. Los encargados provisionales que hubieren sido nombrados con ese carácter en términos del texto anterior del artículo 82 y del ahora derogado transitorio segundo de la Ley del Notariado continuarán despachando sus respectivas notarías, hasta en tanto se asignen a los triunfadores de los exámenes de oposición que se convoquen en términos del artículo 40 de esta Ley, para cuyo efecto se considerarán vacantes. Cumplido lo anterior harán entrega del protocolo a su cargo en un plazo no mayor a diez días a partir de que reciban la notificación del Departamento de Inspección y Archivo General de Notarías.
+
+Octavo. El incremento del número de directivos para integrar el Consejo queda condicionado a que la Asamblea de Notarios reforme oportunamente los estatutos del Colegio de Notarios, para adecuarlos a esta ley.
