@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1988-01-13"
+last_updated: "1988-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -2481,9 +2481,9 @@ II.- Por el aumento, por cualquier causa, del capital social de sociedades civil
 
 III.- Por los actos tendientes a garantizar obligaciones tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.75 por cada $100.00 o fracción.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
 
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará $100.00 (Cien Pesos, 00/100 M.N.). En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del Protocolo correspondiente; en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado. Si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante notario o ante autoridad judicial, pagará el equivalente al 85% (ochenta y cinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado. En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se entregará al apéndice del protocolo correspondiente: en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro del registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado, si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -2493,9 +2493,9 @@ V.- En los contratos de aparcería, el propietario pagará el 1% del precio de l
 
 VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $1.50 (Un peso 50/100 M.N.) por cada un mil pesos o fracción sobre el valor de la operación.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
 
-VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará la suma de $150.00 (Ciento Cincuenta Pesos, 00/100 M.N.).
+VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará el equivalente al 12.5% (ciento veinticinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -4380,3 +4380,9 @@ P.O. 13 DE ENERO DE 1988.
 ###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor en todo el Estado a partir del día siguiente de su publicación (sic) el Periódico Oficial del Estado.
