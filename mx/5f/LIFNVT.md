@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1992-02-24"
+last_updated: "1994-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -188,11 +188,11 @@ IX.- Establecer las reglas para el otorgamiento de créditos;
 
 X.- Determinar las reservas que deban constituirse para asegurar la operación del Fondo Nacional de la Vivienda y el cumplimiento de los demás fines y obligaciones del Instituto. Estas reservas deberán invertirse en valores a cargo del Gobierno Federal;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
-XI.- Resolver sobre las circunstancias específicas no previstas en la presente Ley en relación a las subcuentas del Fondo Nacional de la Vivienda de las cuentas individuales del sistema de ahorro para el retiro. Las resoluciones que se adopten conforme a esta fracción, se publicarán en el Diario Oficial de la Federación.
+XI.- Resolver sobre las circunstancias específicas no previstas en la presente Ley y en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro en relación a las subcuentas del Fondo Nacional de la Vivienda de las cuentas individuales del sistema de ahorro para el retiro. Con fines de coordinación, en la elaboración de las resoluciones que se adopten conforme a esta fracción; el Consejo escuchará previamente la opinión de la Comisión Nacional del Sistema de Ahorro para el Retiro. Dichas resoluciones se publicarán en el Diario Oficial de la Federación.
 
-Lo anterior, es sin perjuicio de las facultades que, en relación con dichas cuentas, tengan las autoridades del sistema financiero de conformidad con lo previsto en otras disposiciones legales.
+Lo anterior, es sin perjuicio de las facultades que, en relación con dichas cuentas, correspondan a la citada Comisión o a otras autoridades del sistema financiero de conformidad con lo previsto en otras disposiciones legales.
 
 > <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -256,9 +256,9 @@ I.- Representar legalmente al Instituto con todas las facultades que corresponde
 
 El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje así como otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto deberá recabar previamente el acuerdo del Consejo de Administración.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Las facultades que corresponden al Instituto, en su carácter de organismo fiscal autónomo, de conformidad con el artículo 30 de esta Ley, se ejercerán por el Director General, el Subdirector Jurídico, los Delegados Regionales y el demás personal que expresamente se indique en el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+Las facultades que correspondan al Instituto, en su carácter de organismo fiscal autónomo, de conformidad con el artículo 30 de esta Ley, se ejercerán por el Director General, el Subdirector General Jurídico y de Fiscalización, los Delegados Regionales y el demás personal que expresamente se indique en el Reglamento Interior del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en materia de facultades como organismo fiscal autónomo.
 
 II.- Asistir a las sesiones de la Asamblea General y del Consejo de Administración, con voz, pero sin voto;
 
@@ -318,13 +318,17 @@ Son obligaciones de los patrones:
 
 I.- Proceder a inscribirse e inscribir a sus trabajadores en el Instituto y dar los avisos a que se refiere el Artículo 31 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
-II.- Efectuar las aportaciones al Fondo Nacional de la Vivienda en instituciones de crédito, para su abono en la subcuenta del Fondo Nacional de la Vivienda de las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores, en los términos de la presente Ley y sus reglamentos, así como en lo conducente, conforme a lo previsto en la Ley del Seguro Social y en la Ley Federal del Trabajo. Estas aportaciones son gastos de previsión de las empresas. A fin de que las instituciones de crédito puedan individualizar dichas aportaciones, los patrones deberán proporcionar a las mismas, información relativa a cada trabajador, en la forma y con la periodicidad que al efecto determine la Secretaría de Hacienda y Crédito Público, y
+II.- Efectuar las aportaciones al Fondo Nacional de la Vivienda en instituciones de crédito o entidades financieras autorizadas por la Comisión Nacional del Sistema de Ahorro para el Retiro, para su abono en la subcuenta del Fondo Nacional de la Vivienda de las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores en los términos de la presente Ley y sus reglamentos, así como en lo conducente, conforme a lo previsto en la Ley del Seguro Social y en la Ley Federal del Trabajo. Estas aportaciones son gastos de previsión de las empresas. A fin de que las instituciones de crédito o entidades financieras puedan individualizar dichas aportaciones, los patrones deberán proporcionarles, directamente o a través de los institutos de seguridad social o de la Comisión Nacional del Sistema de Ahorro para el Retiro según lo determine ésta, información relativa a cada trabajador en la forma y con la periodicidad que al efecto establezca la citada Comisión; y
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
 
 III.- Hacer los descuentos a sus trabajadores en sus salarios, conforme a lo previsto en los artículos 97 y 110 de la Ley Federal del Trabajo, que se destinen al pago de abonos para cubrir préstamos otorgados por el Instituto y a la Administración, operación y mantenimiento de los conjuntos habitacionales, así como enterar el importe de dichos descuentos en la forma y términos que establecen esta Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+A fin de que las instituciones de crédito y entidades financieras puedan individualizar dichos descuentos, los patrones deberán proporcionarles, directamente o a través de los institutos de seguridad social o de la Comisión Nacional del Sistema de Ahorro para el Retiro según lo determine ésta, información relativa a cada trabajador con la forma y periodicidad que al efecto establezca la citada Comisión.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -340,27 +344,43 @@ Las obligaciones de efectuar las aportaciones y enterar los descuentos a que se 
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, en su carácter de organismo fiscal autónomo, está facultado, en los términos del Código Fiscal de la Federación, para:
 
-I.- Determinar, en caso de incumplimiento, el importe de las aportaciones patronales y de los descuentos omitidos, así como calcular sus recargos, señalar las bases para su liquidación, fijarlos en cantidad líquida y requerir su pago. Para este fin podrá ordenar y practicar, con el personal que al efecto designe, visitas domiciliarias, auditorías e inspecciones a los patrones, requiriéndoles la exhibición de libros y documentos que acrediten el cumplimiento de las obligaciones que en materia habitacional les impone esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+I.- Determinar, en caso de incumplimiento, el importe de las aportaciones patronales y de los descuentos omitidos, así como calcular su actualización y recargos que se generen, señalar las bases para su liquidación, fijarlos en cantidad líquida y requerir su pago. Para este fin podrá ordenar y practicar, con el personal que al efecto designe, visitas domiciliarias, auditorías e inspecciones a los patrones, requiriéndoles la exhibición de libros y documentos que acrediten el cumplimiento de las obligaciones que en materia habitacional les impone esta Ley.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 Las facultades del Instituto para comprobar el cumplimiento de las disposiciones de esta Ley, así como para determinar las aportaciones omitidas y sus accesorios, se extinguen en el término de cinco años no sujeto a interrupción contado a partir de la fecha en que el propio Instituto tenga conocimiento del hecho generador de la obligación. El plazo señalado en este párrafo sólo se suspenderá cuando se interponga el recurso de inconformidad previsto en esta Ley o se entable juicio ante el Tribunal Fiscal de la Federación.
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+
 La prescripción de los créditos fiscales correspondientes se sujetará a lo dispuesto en el Código Fiscal de la Federación;
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 II. Recibir en sus oficinas o a través de las instituciones de crédito, los pagos que deban efectuarse conforme a los (sic) previsto por este artículo.
 
 Las cantidades que se obtengan de acuerdo a lo señalado en el párrafo anterior, deberán ser acreditadas en la subcuenta de vivienda del trabajador de que se trate, a más tardar dentro de los diez días hábiles siguientes a la fecha de cobro efectivo. En caso de que no se realice el abono respectivo, se causarán recargos en contra del Instituto y a favor del trabajador, conforme a lo dispuesto en el Código Fiscal de la Federación;
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+
 III. Realizar por sí o a través de la Secretaría de Hacienda y Crédito Público el cobro y la ejecución correspondiente a las aportaciones patronales y a los descuentos omitidos, sujetándose a las normas del Código Fiscal de la Federación;
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 IV.- Resolver en los casos en que así proceda, el recurso de oposición al procedimiento administrativo de ejecución, así como las solicitudes de prescripción y caducidad, planteados por los patrones, y
 
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+
 V.- Requerir a los patrones que omitan el cumplimiento de las obligaciones que esta Ley establece, la información necesaria para determinar la existencia o no de la relación laboral con las personas a su servicio, así como la que permita establecer en forma presuntiva y conforme al procedimiento que al efecto el Instituto señale, el monto de las aportaciones omitidas.
 
-> <small>(DEROGADOS TERCERO Y CUARTO PARRAFOS, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+La Secretaría de Hacienda y Crédito Público y el Instituto, indistintamente, sancionarán aquellos casos en que el incumplimiento de las obligaciones que esta Ley establece, origine la omisión total o parcial en el pago de las aportaciones y el entero de los descuentos, en los términos del Código Fiscal de la Federación.
 
-La Secretaría de Hacienda y Crédito Público sancionará aquellos casos en que el incumplimiento de las obligaciones que esta Ley establece, originen la omisión total o parcial en el pago de las aportaciones y el entero de los descuentos, en los términos del Código Fiscal de la Federación.
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Previa solicitud del Instituto, la Secretaría de Hacienda y Crédito Público, el Instituto Mexicano del Seguro Social y las autoridades fiscales locales, en los términos de los convenios de coordinación que al efecto se celebren, indistintamente y conforme a las disposiciones legales aplicables, están facultados para determinar, en caso de incumplimiento, el importe de las aportaciones patronales y de los descuentos omitidos. Para estos efectos, podrán ordenar y practicar visitas domiciliarias, auditorías e inspecciones a los patrones y requerir la exhibición de los libros y documentos que acrediten el cumplimiento de las obligaciones que en materia habitacional les impone esta Ley.
 
 ###### ARTICULO 31.
 
@@ -388,7 +408,17 @@ Al terminarse la relación laboral, el patrón deberá entregar al trabajador un
 
 El pago de las aportaciones señaladas en la fracción II del artículo 29, será por bimestres vencidos, a más tardar el día 17 de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
 
-Los patrones efectuarán las entregas de los descuentos a que se refiere el artículo 29, en la institución de crédito de su elección.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Los patrones efectuarán las entregas de los descuentos a que se refiere el artículo 29, en la institución de crédito o entidad financiera autorizada de su elección.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+El Instituto podrá emitir y notificar liquidaciones para el cobro de las aportaciones y descuentos a que se refiere el artículo 29. Estas liquidaciones podrán ser emitidas conjuntamente con las liquidaciones del seguro de retiro y notificadas por el personal que realice la notificación de estas últimas, previo convenio de coordinación con el Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+El Instituto podrá recibir el pago de las aportaciones y descuentos a que se refiere el artículo 29, sujetándose a las disposiciones que al respecto emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -402,19 +432,17 @@ Las aportaciones previstas en esta Ley, así como los intereses de las subcuenta
 
 El derecho del trabajador y, en su caso, beneficiarios, a recibir los recursos de la subcuenta de vivienda en los términos descritos en el artículo 40 de la presente Ley, prescribe en favor del Instituto a los diez años de que sean exigibles.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 38.
 
-Las aportaciones al Fondo Nacional de la Vivienda señaladas en la fracción II del artículo 29, se efectuarán mediante el depósito de los recursos correspondientes en instituciones de crédito, para su abono en las subcuentas de vivienda, de las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores, previstas en la Ley del Seguro Social. Dichas cuentas deberán contener para su identificación el registro federal de contribuyentes del trabajador.
+Las aportaciones al Fondo Nacional de la Vivienda señaladas en la fracción II del artículo 29, se efectuarán mediante el depósito de los recursos correspondientes en instituciones de crédito u otras entidades financieras autorizadas por la Comisión Nacional del Sistema de Ahorro para el Retiro, para su abono en las subcuentas de vivienda de las cuentas individuales del sistema de ahorro para el retiro abiertas a nombre de los trabajadores, previstas en la Ley del Seguro Social. Dichas cuentas deberán contener para su identificación el número o clave que determine la citada Comisión.
 
-Las aportaciones en favor de los trabajadores se acreditarán mediante la entrega que los patrones deberán efectuar a cada uno de sus trabajadores, del comprobante expedido por la institución de crédito en la que el patrón haya enterado las aportaciones citadas.
+Las aportaciones en favor de los trabajadores se acreditarán mediante la entrega que los patrones deberán efectuar a cada uno de sus trabajadores, del comprobante expedido por la institución de crédito o entidad financiera en la que el patrón haya enterado las aportaciones citadas.
 
-Las instituciones de crédito que reciban aportaciones de los patrones, deberán proporcionar a éstos, comprobantes individuales a nombre de cada trabajador dentro de un plazo de treinta días naturales, contado a partir de la fecha en que reciban las aportaciones citadas. Los patrones estarán obligados a entregar a sus trabajadores dichos comprobantes junto con el último pago de salario de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
+Las instituciones de crédito o entidades financieras que reciban aportaciones de los patrones, deberán proporcionar a éstos, comprobantes individuales a nombre de cada trabajador dentro de un plazo de treinta días naturales, contado a partir de la fecha en que reciban las aportaciones citadas. Los patrones estarán obligados a entregar a sus trabajadores dichos comprobantes junto con el último pago de salario de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año.
 
-La institución de crédito que no siendo la operadora de la cuenta individual del sistema de ahorro para el retiro del trabajador reciba aportaciones para abono en favor de éste, deberá entregar los recursos correspondientes a la institución que opera dicha cuenta para su abono en la misma, a más tardar el tercer día hábil bancario inmediato siguiente al de su recepción.
-
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, y mediante la expedición de disposiciones de carácter general, fijará las características que deberán reunir los comprobantes, pudiendo autorizar formas y términos distintos a los establecidos para el entero y la comprobación de las aportaciones.
+La Comisión Nacional del Sistema de Ahorro para el Retiro, atendiendo a consideraciones técnicas y asegurando los intereses de los trabajadores, mediante la expedición de disposiciones de carácter general fijará las características que deberán reunir los comprobantes pudiendo autorizar formas y términos distintos a los establecidos en este artículo para el entero y la comprobación de las aportaciones.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -430,21 +458,31 @@ Una vez que el Consejo de Administración del Instituto haya fijado tanto la est
 
 El Consejo deberá observar en todo momento una política financiera y de créditos, dirigida a lograr que los ahorros individuales de los trabajadores, conserven permanentemente por lo menos, su valor real.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 40.
 
-El trabajador que cumpla sesenta y cinco años de edad o adquiera el derecho a disfrutar una pensión por cesantía en edad avanzada, vejez, invalidez, incapacidad permanente total o incapacidad permanente parcial del 50% o más, en los términos de la Ley del Seguro Social o de algún plan de pensiones establecido por su patrón o derivado de contratación colectiva, tendrá derecho a que la institución de crédito que lleve su cuenta individual de ahorro para retiro, le entregue por cuenta del Instituto, los fondos de la subcuenta de vivienda situándoselos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión vitalicia o bien entregándoselos al propio trabajador en una sola exhibición.
+El trabajador que cumpla sesenta y cinco años de edad o adquiera el derecho a disfrutar una pensión por cesantía en edad avanzada vejez, invalidez, incapacidad permanente total o incapacidad permanente parcial del 50% o más, en los términos de la Ley del Seguro Social o de algún plan de pensiones establecido por su patrón o derivado de contratación colectiva, tendrá derecho a que la institución de crédito o entidad financiera autorizada que lleve su cuenta individual de ahorro para el retiro, le entregue por cuenta del Instituto, los fondos de la subcuenta de vivienda situándoselos en la entidad financiera que el trabajador designe, a fin de adquirir una pensión vitalicia, o bien entregándoselos al propio trabajador en una sola exhibición.
 
-Los planes de pensiones a que se refiere el primer párrafo, serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-El trabajador titular de la cuenta individual del sistema de ahorro para el retiro, deberá a la apertura de la misma designar beneficiarios. Lo anterior, sin perjuicio de que en cualquier tiempo el trabajador pueda sustituir a las personas que hubiere designado, así como modificar, en su caso, la proporción correspondiente a cada una de ellas.
+Los planes de pensiones a que se refiere el primer párrafo, serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-En caso de fallecimiento del trabajador, la institución de crédito respectiva entregará el saldo de la cuenta individual de ahorro para retiro, a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las previstas en este artículo. La designación de beneficiarios quedará sin efecto si el o los designados mueren antes que el titular de la cuenta.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+
+El trabajador titular de la cuenta individual del sistema de ahorro para el retiro, deberá a la apertura de la misma designar beneficiarios. Lo anterior, sin perjuicio de que en cualquier tiempo el trabajador pueda sustituir a las personas que hubiere designado, así como modificar, en su caso, la proposición correspondiente a cada una de ellas.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+En caso de fallecimiento del trabajador, la institución de crédito o entidad financiera respectiva entregará el saldo de la cuenta individual de ahorro para el retiro, a los beneficiarios que el titular haya señalado por escrito para tal efecto, en la forma elegida por el beneficiario de entre las previstas en este artículo. La designación de beneficiarios quedará sin efecto si el o los designados mueren antes que el titular de la cuenta.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 A falta de los beneficiarios a que se refiere el párrafo anterior, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo.
 
-El trabajador o sus beneficiarios, según corresponda, deberán solicitar por escrito a la institución de crédito la entrega de los fondos correspondientes, acompañando los documentos que señale al efecto la Secretaría del Trabajo y Prevención Social.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+El trabajador o sus beneficiarios, según corresponda, deberán solicitar por escrito a la institución de crédito o a la entidad financiera autorizada la entrega de los fondos correspondientes, acompañando los documentos que señale al efecto la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -510,13 +548,19 @@ Los contratos y las operaciones a que se refiere el párrafo anterior, así como
 
 Los beneficios otorgados por el presente Artículo a los programas habitacionales que se realizan con fondos del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, se harán extensivos a los trabajadores derechohabientes de ese Instituto, que realicen operaciones de compra de casa habitación por medios distintos a los del Instituto, siempre y cuando sean para su uso y el monto de la operación así realizada no sea superior al valor de las casas habitación que el mismo proporciona a sus afiliados. Por el excedente se pagarán los impuestos en los términos previstos por las leyes respectivas.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 43.
 
-Las aportaciones, así como los descuentos para cubrir los créditos que otorgue el Instituto, que reciban las instituciones de crédito conforme a esta Ley, deberán ser invertidos a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto. Dichos recursos deberán invertirse, en tanto se aplican a los fines señalados en el artículo anterior, en créditos a cargo del Gobierno Federal, a través del Banco de México.
+Las aportaciones, así como los descuentos para cubrir los créditos que otorgue el Instituto, que reciban las instituciones de crédito o las entidades financieras conforme a esta Ley, deberán ser invertidos a más tardar el cuarto día hábil bancario inmediato siguiente al de su recepción, en la cuenta que el Banco de México le lleve al Instituto. Dichos recursos deberán invertirse, en tanto se aplican a los fines señalados en el artículo anterior, en créditos a cargo del Gobierno Federal a través del Banco de México.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 Sin perjuicio de lo anterior el Instituto, con cargo a dicha cuenta, podrá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Cuando la institución o entidad receptora de las aportaciones y descuentos no sea la que lleva la cuenta individual de que se trate, la Comisión Nacional del Sistema de Ahorro para el Retiro mediante disposiciones de carácter general, podrá distribuir entre la institución o entidad receptora y la operadora los beneficios que se deriven de manejar dichas aportaciones y descuentos durante el período previsto en el primer párrafo de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -676,13 +720,15 @@ Las controversias entre los patrones y el Instituto, una vez agotado, en su caso
 
 Será optativo para los patrones agotar el recurso de inconformidad o acudir directamente ante el Tribunal Fiscal de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 55.
 
-Independientemente de las sanciones específicas que establece esta Ley, las infracciones a la misma que en perjuicio de sus trabajadores o del instituto cometan los patrones, se castigarán con multas por el equivalente de 15 a 315 veces el salario mínimo general. La cuantificación de las sanciones pecuniarias que se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente, en el lugar y tiempo en que se cometa la violación.
+Independientemente de las sanciones específicas que establece esta Ley, las infracciones a la misma que en perjuicio de sus trabajadores o del Instituto cometan los patrones, se castigarán con multas por el equivalente de tres a trescientas cincuenta veces el salario mínimo general diario vigente en el Distrito Federal en el tiempo en el que se cometa la violación.
 
-Estas multas serán impuestas por la Secretaría del Trabajo y Previsión Social, de acuerdo con los Reglamentos respectivos y no se aplicarán a los patrones que enteren espontáneamente en los términos del Código Fiscal de la Federación, las aportaciones y descuentos correspondientes.
+Cuando la infracción consista en la falta de información que impida la individualización de las aportaciones a la subcuenta de vivienda de las cuentas del sistema de ahorro para el retiro, la sanción que se imponga al patrón infractor será la que resulte mayor de entre el cincuenta por ciento de las aportaciones no individualizadas y la que corresponda al máximo en términos del párrafo anterior y del reglamento, independientemente de que se hayan enterado las aportaciones respectivas en los plazos establecidos en ley.
+
+Las multas previstas en este artículo serán impuestas por el Instituto de acuerdo con los reglamentos respectivos. Las multas referidas en el primer párrafo no se aplicarán a los patrones que enteren espontáneamente en los términos del Código Fiscal de la Federación, las aportaciones y descuentos correspondientes.
 
 ###### ARTICULO 56.
 
@@ -921,3 +967,9 @@ El entero de las aportaciones establecidas en el artículo quinto transitorio, a
 El presupuesto de gastos de administración, operación y vigilancia del Instituto a que se refiere la fracción VII del artículo 16 de la Ley del Instituto del Fondo Nacional de Vivienda para los Trabajadores para los años de 1992, 1993, 1994 y 1995, no deberá exceder, respectivamente, del 1.30%, 1.10%, 0.90% y 0.80%, de los recursos totales que maneje el Instituto.
 
 A partir del año de 1996, el presupuesto de gastos citado, deberá ajustarse a lo dispuesto en la fracción VII del artículo 16 mencionado.
+
+D.O.F. 22 DE JULIO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
