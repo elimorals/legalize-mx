@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1995-07-15"
+last_updated: "1995-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -339,7 +339,9 @@ ASALTO, previsto en los artículos 268, 269 y 270 último párrafo.
 
 LESIONES, previsto en el artículo 271 en relación con los artículos 275 y 276.
 
-HOMICIDIO, previsto en los artículos 285 en relación con el 289, 290, 291, 292 y 296 segunda y tercera parte.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+
+HOMICIDIO, previsto en los artículos 285 en relación al 12 fracción VIII, 289, 290, 291 y 296 segunda y tercera parte, del Código Penal para el Estado Libre y Soberano de Oaxaca, en vigor.
 
 PARRICIDIO, previsto en el artículo 307.
 
@@ -3872,5 +3874,9 @@ P.O. 3 DE JUNIO DE 1995.
 UNICO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE JULIO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
