@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-estatal-contra-las-29773"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-24"
-last_updated: "2003-03-24"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 24 de marzo de 2003.
 
@@ -269,27 +269,31 @@ II.- Manejar fondos y operar recursos financieros en instituciones de crédito, 
 
 III.- Las demás que resulten necesarias para el adecuado cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 32.
 
-Los integrantes del Patronato serán nombrados por invitación del CECA y se integrará de la siguiente manera:
+El Patronato del CECA se integrará de la siguiente manera:
 
-I.- Un Presidente;
+UN PRESIDENTE: A cargo del Titular de la Secretaría de Desarrollo Social;
 
-II.- Un Secretario;
+UN SECRETARIO: A cargo del Titular de la Secretaría de Planeación y Finanzas;
 
-III.- Un Tesorero; y
+UN TESORERO: A cargo del Titular de la Oficialía Mayor de Gobierno del Estado; y,
 
-IV.- Los vocales que sean necesarios para el cumplimiento de sus funciones.
+VOCALES: Serán invitados, como miembros permanentes del Patronato del CECA, los Titulares de los siguientes Organismos: Cámara Nacional de Comercio (CANACO); Confederación Patronal de la República Mexicana (COPARMEX); Cámara Nacional de Comercio, Industria y de la Transformación (CANACINTRA); y, La Asociación Estatal de Padres de Familia.
 
 ###### Artículo 33.
 
 Los cargos del Patronato serán de carácter honorífico, por lo que sus miembros no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 34.
 
-Los integrantes del Patronato durarán en su cargo dos años, pudiendo ser invitados para periodos ulteriores.
+Los integrantes del Patronato serán integrantes del mismo por todo el tiempo que duren en su cargo o comisión, público o privado, según sea el caso; y una vez que éste concluya, serán substituidos por la persona que lo ocupe.
 
-Los demás miembros del Patronato del CECA, nombrarán por escrito a un suplente con funciones de propietario que cubra las ausencias temporales, y dé continuidad a los proyectos emprendidos.
+Los miembros del Patronato podrán designar por escrito a un suplente que cubra sus ausencias, estando ambos facultados para dar continuidad a los proyectos emprendidos por el Patronato.
 
 ###### Artículo 35.
 
@@ -426,3 +430,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE.
 SECRETARIO DE SALUD
 
 FRANCISCO VERA GONZÁLEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE JUNIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
