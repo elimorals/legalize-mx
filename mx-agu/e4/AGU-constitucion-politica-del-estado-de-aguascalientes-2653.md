@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1935-09-01"
+last_updated: "1937-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 1935.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -189,7 +189,7 @@ El Congreso, fuera de los períodos que señala el artículo anterior, celebrar�
 
 El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Para obtener tal concurrencia, los Diputados presentes se reunirán el día designado por la ley y conminarán a los ausentes con las penas que señale el Reglamento respectivo.
 
-###### Artículo 23.
+###### Artículo 23°
 
 La iniciativa de las leyes corresponde:
 
@@ -363,11 +363,11 @@ DEL PODER EJECUTIVO.
 
 Si al comenzar el período constitucional no se presentare el Gobernador o la elección no estuviere hecha ni declarada el primero de diciembre, cesará sin embargo el Gobernador cuyo período hubiese terminado y entonces, así como las faltas repentinas, se encargará desde luego el Poder Ejecutivo, en calidad de Gobernador Interino la persona que designe el Congreso si éste estuviere en funciones; en caso contrario lo será el Presidente de la Diputación Permanente, quien tendrá obligación de convocar en el acto al Congreso a sesiones extraordinarias.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 1929)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1937)</small>
 
 ###### Artículo 37°
 
-El Gobernador no puede separarse del Territorio del Estado ni del ejercicio de sus funciones, sino con permiso del Congreso o de la Diputación Permanente; salvo que su ausencia del territorio sea por menos de quince días, pues entonces no se necesitará el permiso, ni se le considerará separado del ejercicio de sus funciones.
+El Gobernador no puede separase del Territorio del Estado ni del Ejercicio de sus funciones, sino con permiso del Congreso o de la Diputación Permanente; salvo que su ausencia del territorio sea por menos de veinte días, pues entonces no se necesitará el permiso, ni se considerará separado del ejercicio de sus funciones.
 
 ###### Artículo 38°
 
@@ -379,7 +379,9 @@ Para el despacho de los negocios del Poder Ejecutivo habrá un Funcionario que s
 
 El Secretario o quien conforme a la Ley haga sus veces, autorizará con su firma las disposiciones y decretos que el Gobernador diere o promulgare en uso de sus facultades; sin ese requisito no tendrá fuerza legal.
 
-El individuo que desempeñe el cargo de Secretario de Gobierno, deberá ser ciudadano y vecino del Estado; y en caso de que el ciudadano Gobernador se ausente por menos de quince días, de acuerdo con el artículo 37, hará sus veces, en la inteligencia de que solo queda autorizado para resolver asuntos de mero trámite, para rendir los informes previos y con justificación en los casos de amparo contra actos del Poder Ejecutivo, para asistir a las audiencias relacionadas con dichos amparos y para ordenar el pago de las nóminas de funcionarios y empleados con sujeción al Presupuesto de Egresos respectivo.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1937)</small>
+
+El individuo que desempeñe el cargo de Secretario de Gobierno, deberá ser ciudadano y vecino del estado; y en caso de que el ciudadano Gobernador se ausente por menos de veinte días de acuerdo con el artículo 37, hará sus veces, en la inteligencia de que sólo queda autorizado para resolver asuntos de mero trámite, para rendir los informes previo y con justificación en los casos de amparo contra actos del Poder Ejecutivo, para asistir a las audiencias relacionadas con dichos amparos, para legalizar firmas y para ordenar el pago de las nóminas de funcionarios y empleados con sujeción al Presupuesto de Egresos respectivo.
 
 ###### Artículo 40°
 
@@ -717,7 +719,7 @@ El presente decreto surtirá sus efectos desde la fecha de su expedición.
 
 P.O. 8 DE DICIEMBRE DE 1929.
 
-DECRETO NÚMERO 192, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, 16 Y 30 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+DECRETO NÚMERO 193, POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 Y 33 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 ###### Artículo 3o.
 
@@ -740,3 +742,7 @@ El presente decreto surtirá sus efectos desde el 16 de septiembre del año actu
 P.O. 1 DE SEPTIEMBRE DE 1935.
 
 La reforma del artículo 43, que se refiere a la renovación total de los Ayuntamientos, cada dos años, en lugar de hacerse por mitad como venía observándose con anterioridad, comenzará a tener efecto en las elecciones que se verifiquen el segundo domingo de noviembre de 1936 y respecto a las Corporaciones que se elijan para el período 1937-1938. Los Munícipes de número par electos en noviembre del año en curso, durarán en su encargo hasta el 31 de diciembre de 1936.
+
+P.O. 19 DE DICIEMBRE DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
