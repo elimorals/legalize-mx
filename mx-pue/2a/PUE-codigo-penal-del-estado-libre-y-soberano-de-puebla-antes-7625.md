@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1999-08-16"
+last_updated: "2000-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -207,9 +207,9 @@ Son causas de exclusión del delito:
 
 I.- Que el hecho se realice sin la intervención de la voluntad del agente;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2000)</small>
 
-II.- La falta de alguno de los elementos del tipo penal del delito de que se trate;
+II.- La falta de alguno de los elementos del delito.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1873,7 +1873,7 @@ Los defensores sociales que sin causa justificada incurrieren en los hechos expr
 
 #### SECCION SEGUNDA.- ESTUPRO
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2000)</small>
 
 ###### Artículo 239.
 
@@ -2147,15 +2147,19 @@ El delito de ataques al pudor se considerará siempre como delito consumado y se
 
 ###### Artículo 264.
 
-La cópula con mujer casta y honesta, mayor de doce años y menor de dieciocho, empleando la seducción o el engaño para alcanzar su consentimiento, se sancionará con prisión de uno a cinco años y multa de uno a diez días de salario.
+Al que tenga cópula con persona de doce años pero menor de dieciocho, empleando la seducción o el engaño para alcanzar su consentimiento, se sancionará con prisión de uno a cinco años y multa de cincuenta a doscientos días de salario.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2000)</small>
 
 ###### Artículo 265.
 
-Cuando la estuprada fuere menor de catorce años, se presumirá en todo caso la seducción o el engaño.
+Cuando la persona estuprada fuere menor de catorce años, se presumirá en todo caso la seducción o el engaño.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2000)</small>
 
 ###### Artículo 266.
 
-No se procederá contra el estuprador sino por queja de la mujer ofendida o de sus padres o a falta de éstos, de sus representantes; pero cuando el delincuente se case con la mujer ofendida, se extinguirá toda acción para perseguirlo.
+No se procederá contra el estuprador, sino por queja del ofendido, de sus padres o a falta de éstos, de sus representantes.
 
 #### SECCION PRIMERA.- LESIONES
 
@@ -3277,6 +3281,10 @@ XXI.- Al que se coloque en estado de insolvencia con el objeto de eludir el cump
 
 XXII.- Al que hiciere creer a un persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate.
 
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2000)</small>
+
+XXIII.- Al que preste servicios notariales, sin contar con la Patente de Notario en Ejercicio o realice propaganda de cualquier tipo, ofreciendo los servicios que sólo los Notarios pueden realizar.
+
 ###### Artículo 405.
 
 Se aplicarán las sanciones del delito de fraude establecidas en el artículo 403 de este ordenamiento legal, al que por sí o por interpósita persona:
@@ -3930,6 +3938,16 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
 
 P.O. 16 DE AGOSTO DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2000.
 
 ###### ARTÍCULO PRIMERO.
 
