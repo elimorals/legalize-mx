@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "2003-03-26"
+last_updated: "2003-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -285,6 +285,10 @@ El Gobernador del Estado podrá autorizar la creación, supresión, liquidación
 
 El Gobernador del Estado podrá constituir comisiones intersecretariales para el despacho de asuntos en que deban intervenir dos o más Secretarías. Podrán integrar dichas comisiones las entidades de la Administración Pública Paraestatal.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2003)</small>
+
+Asimismo, promoverá un sistema de modernización administrativa, y establecerá el Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, en términos de lo dispuesto por la Constitución Política Estatal y demás legislación aplicable.
+
 ###### ARTICULO 7.
 
 Sin perjuicio de las atribuciones que éste u otros ordenamientos confieran a las dependencias de la Administración Pública, el Gobernador, como Titular del Ejecutivo intervendrá directamente en los asuntos que juzgue necesarios.
@@ -316,6 +320,10 @@ Cuando el titular de una dependencia o entidad se ausente del Estado por más de
 ###### ARTICULO 13.
 
 Los titulares de las dependencias y entidades a que se refiere esta Ley, a través de la unidad administrativa que resulte competente, deberán procurar el desarrollo integral de los aspectos mental, técnico, cultural, social y deportivo de los servidores públicos bajo su responsabilidad, de conformidad con lo que al respecto dispongan los reglamentos interiores y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2003)</small>
+
+Igualmente, deberá desarrollar e impulsar al Servicio Civil de Carrera para los servidores públicos de la Administración Pública del Estado, conforme a lo dispuesto en la Ley, Reglamentos, Programas y demás disposiciones que para estos efectos se emitan.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
 
@@ -629,9 +637,9 @@ XXXII.- Emitir el clasificador por objeto de gasto presupuestal, para la aplicac
 
 XXXIII.- Proporcionar información a los Ayuntamientos de la Entidad que requieran, para el establecimiento de los sistemas fiscales, presupuestales, contables y administrativos de carácter hacendario; así como prestar apoyo técnico para la elaboración de programas, proyectos de inversión y de desarrollo, cuando así lo soliciten;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
 
-XXXIV.- Apoyar y asesorar a las autoridades municipales, en la elaboración de sus propuestas de obras y servicios;
+XXXIV.- En el ámbito de sus atribuciones, apoyar y asesorar a las Autoridades Municipales en la elaboración de sus propuestas de obras y servicios;342
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2003)</small>
 
@@ -1471,9 +1479,45 @@ XIV.- Proponer al Gobernador del Estado, previa opinión de la Secretaría de De
 
 XV.- Dar seguimiento y evaluar las políticas y programas de desarrollo social, en coordinación con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública;
 
-XVI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios suscritos por la Administración Pública Estatal con la Federación y los Municipios; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
 
-XVII.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y disposiciones aplicables.
+XVI.- Elaborar y proponer al Gobernador del Estado, los proyectos de ley, reglamentos y demás disposiciones de carácter social y administrativo, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XVII.- En el ámbito de sus atribuciones apoyar y asesorar a las Autoridades Municipales en la elaboración de sus propuestas de obras y servicios que lleven a cabo con aportaciones y recursos en materia de Desarrollo Social proveniente de la Federación y del Estado que le sean asignados, transferidos o convenidos y que le corresponda administrar;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XVIII.- Convenir con los Ayuntamientos el apoyo para la programación, ejecución, seguimiento, control y evaluación, de las obras de cofinanciamiento y programas financiados con recursos provenientes de las aportaciones de la Federación que competa administrar a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XIX.- Proporcionar asesoría y apoyo técnico a los Ayuntamientos de la Entidad y comités de obra para la elaboración de sus expedientes técnicos, proyectos de inversión y relación de obras en materia de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XX.- Recibir, analizar, distribuir y gestionar la liberación de los recursos derivados de los expedientes técnicos que conforme a las disposiciones legales deban presentar los Ayuntamientos, así como programar y gestionar los recursos para acciones de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XXI.- Apoyar a las áreas encargadas de la evaluación y seguimiento de los distintos programas de desarrollo social previstos en los convenios que en materia de desarrollo social se celebren;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XXII.- De conformidad con las disposiciones aplicables y previa solicitud de los Ayuntamientos, modificar las asignaciones Municipales en los casos y términos establecidos en lo Convenios que se suscriban con la Federación, relacionados con los programas sociales;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XXIII.- Vigilar en el ámbito de su competencia el cumplimiento de las normas y manuales que expida la Dependencia, para el logro de los objetivos de los programas, fondos y recursos en materia de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XXIV.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios suscritos por la Administración Pública Estatal con la Federación y los Municipios; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2003)</small>
+
+XXV.- Las demás que le atribuyan la leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones aplicables.
 
 ### CAPITULO I. DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -1824,3 +1868,17 @@ QUINTO.- En tanto se establezca la normatividad, sistemas y procedimientos de ca
 SEXTO.- Los actos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se desahogarán en la Secretaría que les correspondan según la materia de que se trate.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se concede un plazo de noventa días a las Secretarías de Finanzas y Administración y Desarrollo Social, a fin de que atendiendo a las presentes reformas, adecuen sus respectivos reglamentos interiores.
