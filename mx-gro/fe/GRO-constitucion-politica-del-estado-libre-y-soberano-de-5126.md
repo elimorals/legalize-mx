@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1960-06-08"
+last_updated: "1968-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1968.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -279,13 +279,13 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 La Ley Electoral reglamentará la materia relativa a elecciones de Funcionarios Municipales.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1968)</small>
 
 ###### Artículo 23.
 
-Los Ayuntamientos estarán integrados por un número de miembros que estarán en relación con el Censo de la Municipalidad, y que en ningún caso será menor de cinco, si el censo del Municipio no pasa de ocho mil habitantes y de siete si cuenta con un número mayor, sin incluir los supernumerarios que se necesiten.
+Los Ayuntamientos estarán integrados por un número de miembros que estará en relación con el censo de la municipalidad, y que en ningún caso será menor de cinco si el censo del municipio excede de 10,000 habitantes, de siete si cuenta con un número mayor pero sin exceder de 80,000, y de nueve sin excede de 80,000 habitantes, sin incluir los supernumerarios respectivos.
 
-El período de sus funciones será de tres años y no podrán ser reelectos para el período inmediato.
+El período de sus funciones será de 3 años y no podrán ser reelectos para el período inmediato.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1618,3 +1618,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### Art. 2o.
 
 Entretanto se expide la respectiva ley reglamentaria, continuará en vigor el Estatuto de los Trabajadores al Servicio de los Poderes del Estado, en cuanto no se oponga a la presente.
+
+P.O. 30 DE OCTUBRE DE 1968.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto surtirá sus efectos al siguiente día de su publicación en el Periódico Oficial del Estado.
