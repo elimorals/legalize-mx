@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "1999-04-06"
+last_updated: "2000-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2000.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -465,9 +465,11 @@ DE LAS COMISIONES.
 
 Para facilitar el despacho de los negocios del Congreso, se nombrarán Comisiones Permanentes y Especiales que los estudien y dictaminen, proponiéndo los proyectos de resoluciones que estimen procedentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 54.
 
-Las Comisiones Permanentes serán:
+Las comisiones permanentes serán:
 
 I.- DE PUNTOS CONSTITUCIONALES Y DE JUSTICIA.
 
@@ -510,6 +512,10 @@ XVIII.- DE ENLACE LEGISLATIVO.
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 XIX.- DE EQUIDAD Y GENERO.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+XX.- DE SEGURIDAD PUBLICA.
 
 ###### ARTICULO 55.
 
@@ -696,6 +702,20 @@ b).- Las propuestas legislativas que reformen, adicionen o en su caso deroguen l
 c).- Implementar programas de beneficio a la mujer y garanticen su respeto.
 
 d).- Las demás que establezcan la Directiva del Congreso y la Gran Comisión.
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+XX.- DE LA COMISIÓN DE SEGURIDAD PÚBLICA:
+
+a).- Los convenios de coordinación que celebre el Gobierno del Estado con la Federación o con los Ayuntamientos en materia de Seguridad Pública;
+
+b).- Los asuntos legislativos relacionados con la organización y coordinación de la política criminológica-penitenciaria en el Estado;
+
+c).- Los asuntos legislativos relacionados con el mantenimiento del orden, la tranquilidad pública y la protección jurídica de las personas, de sus propiedades y derechos, en el ámbito estatal; y
+
+d).- En coordinación con la Comisión de Puntos Constitucionales y de Justicia, dictaminar sobre las leyes que establezcan y regulen los sistemas integrales de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública existentes, y de los que en el futuro sean creados.
+
+e).- En general, toda legislación relacionada con la Seguridad Pública.
 
 ###### ARTICULO 56.
 
@@ -1103,7 +1123,11 @@ III.- A los Ayuntamientos;
 
 IV.- Al Tribunal Superior de Justicia en su ramo; y
 
-V.- A los Ciudadanos por conducto de los Diputados de su Distrito.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2000)</small>
+
+V.- A los Ciudadanos inscritos en la Lista Nominal de Electores, cuyo número represente cuando menos el 0.5% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la Ley de la materia y la presente Ley determine. Así como por conducto del Diputado de su Distrito.
+
+Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas dentro del término de dos meses, contados a partir del día en que hubieren sido turnados por el pleno a la Comisión correspondiente.
 
 ###### ARTICULO 102.
 
@@ -1283,7 +1307,7 @@ Si en el curso de las discusiones, el orador, con el propósito de allegar más 
 
 ###### ARTICULO 133.
 
-Los integrantes de la Comisión Dictaminadora y él o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
+Los integrantes de la Comisión Dictaminadora y el o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
 
 ###### ARTICULO 134.
 
@@ -1613,9 +1637,15 @@ El Público asistente deberá guardar respeto y abstenerse de tomar parte en los
 
 DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 192.
 
 El Congreso del Estado, a propuesta de la Gran Comisión o de algunas de las Comisiones Permanentes o especiales y por acuerdo de la mayoría de sus miembros, podrá convocar a consulta popular los asuntos de su competencia, cuando a su juicio se requiera conocer la opinión de los ciudadanos de la entidad, sobre determinado asunto.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2000)</small>
+
+El Congreso del Estado podrá solicitar al Instituto Estatal electoral, lleve a cabo el plebiscito con respecto de los ayuntamiento (sic), cuando se pretenda erigir un Municipio, en las mismas condiciones, podrá solicitar al organismo que señala la Ley de la materia, someta a plebiscito de los ciudadanos de sus respectivos Municipios los actos que pretendan efectuar, así como los convenios que tengan programado celebrar con otros Municipios, entidades o particulares.
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
@@ -1715,7 +1745,7 @@ DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
 
 ###### ARTICULO 212.
 
-Las proposiciones que tengan por objeto reformar o adicionar la Constitución Política del Estado, deberán estar suscritas por tres Diputados, Fracción Parlamentaria o iniciadas por el Gobernador, el Tribunal Superior de Justicia o los Ayuntamientos.
+Las Iniciativas que tengan por objeto reformar o adicionar la Constitución Política del Estado, deberán estar suscritas por tres Diputados, Fracción Parlamentaria o iniciadas por el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos o los Ciudadanos Sudcalifornianos de acuerdo a lo establecido en la Constitución Política del Estado, la Ley de la materia y la presente Ley.
 
 ###### ARTICULO 213.
 
@@ -1898,3 +1928,17 @@ B.O. 6 DE ABRIL DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE JUNIO DE 2000.
+
+DECRETO NUMERO 1272.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JUNIO DE 2000.
+
+DECRETO NUMERO 1275.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
