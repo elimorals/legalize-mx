@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-secretaria-de-acuerdos-del-consejo-de-la-13240
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-01-31"
-last_updated: "2003-11-26"
+last_updated: "2003-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 REGLAMENTO DE LA SECRETARIA DE ACUERDOS DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE NAYARIT
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2003, SE DEROGAN EN LO QUE SE REFIERAN AL SECRETARIO DE ACUERDOS, LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ARCHIVO GENERAL DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2003, SE DEROGAN TODAS LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE ORDENAMIENTO, RELATIVAS AL REFERIDO ARCHIVO GENERAL.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 31 de enero de 1996.
 
@@ -190,3 +190,17 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Órgano del G
 SEGUNDO.- El presente Acuerdo entrará en vigor diez días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan en lo que se refieran al Secretario de Acuerdos, las disposiciones del Reglamento de la Secretaría de Acuerdos del Consejo de la Judicatura, publicado en el Periódico Oficial Órgano del Gobierno del Estado con fecha 31 de enero de 1996.
+
+P.O. 17 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a los tres días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Boletín de información Judicial; así mismo difúndase mediante su publicación en los estrados de los Juzgados de la Entidad y demás dependencias administrativas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones contenidas en el Reglamento de la Secretaría de Acuerdos del Consejo de la Judicatura del Poder Judicial de Nayarit, relativas al Archivo General del Poder Judicial del Estado de Nayarit publicadas con fecha 31 de Enero de 1996.
