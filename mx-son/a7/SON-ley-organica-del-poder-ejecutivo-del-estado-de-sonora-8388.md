@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1997-03-10"
+last_updated: "1998-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -449,9 +449,11 @@ XIX.- Realizar los actos de administración y disposición de los bienes de domi
 
 XX.- Las demás que le otorguen las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 26.
 
-A la Secretaría de la Contraloría General del Estado le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de la Contraloría General del Estado le corresponde (sic) las facultades y obligaciones siguientes:
 
 I.- Planear y aplicar el Sistema de Control Gubernamental, así como organizarlo y coordinarlo.
 
@@ -485,7 +487,9 @@ X.- Designar a los auditores externos de las entidades, normar y controlar su ac
 
 XI.- Designar, en las entidades de la administración pública paraestatal, a los comisarios públicos propietarios y suplentes.
 
-XII.- Recibir y registrar las declaraciones de situación patrimonial que deban presentar los servidores públicos, así como verificar y practicar las investigaciones que fueren pertinentes, de acuerdo con las leyes y reglamentos.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+XII.- Recibir para su registro y publicación, en caso de ser necesario, a juicio del vocal ejecutivo del Instituto, las declaraciones de situación patrimonial que deben presentar los servidores públicos del Estado y Municipios, así como verificar su autenticidad y practicar las investigaciones que fueren pertinentes, de acuerdo con las Leyes y Reglamentos aplicables para el caso.
 
 XIII.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias y entidades de la administración pública estatal, de acuerdo con las normas que emita.
 
@@ -1302,3 +1306,13 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente ley.
+
+B.O. 14 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones y preceptos que en lo conducente se opongan a la presente Ley.
