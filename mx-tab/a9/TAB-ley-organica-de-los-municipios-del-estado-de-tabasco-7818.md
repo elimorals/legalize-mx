@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-7818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-04"
-last_updated: "1998-08-08"
+last_updated: "1998-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 4 de febrero de 1984.
 
@@ -721,7 +721,9 @@ Cuando la Legislatura del Estado declare suspendido o desaparecido un Ayuntamien
 
 Si alguno de los miembros propietarios de los Ayuntamientos dejara de desempeñar su cargo, será sustituido por su suplente.
 
-Si el del Presidente no puede hacerlo, lo sustituirá uno de los Regidores a elección del propio Ayuntamiento y al elegido lo cubrirá su suplente.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+Si se tratare del Presidente Municipal, éste podrá ser sustituido por su suplente o por uno de los Regidores o por un vecino del Municipio, designado, cualquiera de ellos, por la mayoría de los integrantes del Ayuntamiento.
 
 Cuando el número de Regidores en funciones, aún llamados los suplentes y que no se trate del Presidente Municipal, no sea suficiente para que los actos del Ayuntamiento tengan validez, la Legislatura del Estado designará de entre los vecinos a los sustitutos. De no ser posible lo señalado en los párrafos anteriores, la Legislatura declarará suspendido el Ayuntamiento, para proceder en los términos del Artículo que "precede". Para el primer caso, la situación será comunicada al Ayuntamiento por cualquiera de sus miembros y en los demás, a la Legislatura por el Presidente Municipal o por quien preside el Ayuntamiento, por el Gobernador del Estado o por los Diputados, según el caso.
 
@@ -1562,3 +1564,9 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 1998
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
