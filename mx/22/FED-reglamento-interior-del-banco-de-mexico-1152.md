@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1997-04-07"
+last_updated: "1997-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -103,9 +103,9 @@ Dirección Jurídica
 
 Dirección de Sistemas
 
-> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central, Organismos y Acuerdos Internacionales, así como de Supervisión de Fideicomisos de Fomento, dependerán del Gobernador.
+Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central, Organismos y Acuerdos Internacionales, Supervisión de Fideicomisos de Fomento, así como de Sistemas, dependerán del Gobernador.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
 
@@ -201,11 +201,13 @@ IV. Publicar información relativa a los fondos citados en la fracción I anteri
 
 Esta Dirección General tendrá adscrita la Dirección Jurídica de los Fondos de Apoyo a la Banca y al Mercado de Valores, la cual contará con las atribuciones relativas a la formalización de los actos y operaciones que realicen los referidos fondos. Las funciones de dicha Dirección Jurídica no incluirán las atribuciones que corresponden, en términos de este Reglamento a las Direcciones previstas en los artículos 17 y 28.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 15.
 
-La Dirección General de Administración Interna tendrá las atribuciones contenidas en los artículos 26 a 29 de este Reglamento.
+La Dirección General de Administración Interna tendrá las atribuciones contenidas en los artículos 26 a 28 de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Administración, de Contabilidad, Jurídica y de Sistemas.
+A esta Dirección General estarán adscritas las Direcciones de Administración, de Contabilidad y Jurídica.
 
 ###### ARTICULO 16.
 
@@ -764,3 +766,7 @@ UNICO.- Las presentes reformas, derogación y adición entrarán en vigor a part
 D.O.F. 7 DE ABRIL DE 1997.
 
 UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación, por lo que los Estados de Cuenta Consolidados mensuales relativos a enero y febrero de 1997, los cuales aún no se han publicado, deberán contener los rubros que se mencionan en el nuevo texto del artículo 38 reformado.
+
+D.O.F. 7 DE MAYO DE 1997.
+
+UNICO. Las presentes reformas entrarán en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
