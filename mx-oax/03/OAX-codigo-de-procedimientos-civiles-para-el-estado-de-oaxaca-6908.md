@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2004-04-12"
+last_updated: "2004-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2004.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -4789,11 +4789,11 @@ Las apelaciones en los incidentes se substanciarán y resolverán como si se tra
 
 En los expedientes voluminosos, la resolución se dictará dentro de los ocho días que sigan a la celebración de la audiencia de vista, al informe en estrados o a la citación para sentencia.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 696.
 
-La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, investigación de paternidad y sobre nulidad de matrimonio por las causas expresadas en los artículos 253, 254, 260 a 263 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
+La revisión de las sentencias recaídas en los juicios sobre investigación de paternidad y sobre nulidad de matrimonio por las causas expresadas en los artículos 253, 254, 260 a 263 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -6495,6 +6495,12 @@ TITULO DECIMOSEPTIMO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
+### CAPITULO UNICO. DE LOS JUICIOS DE RECTIFICACION O MODIFICACION
+
+DE LAS ACTAS DEL ESTADO CIVIL DE LAS PERSONAS
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 962.
 
 Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquella base de la integración de la sociedad.
@@ -6593,7 +6599,7 @@ En los juicios del orden familiar, el recurso de apelación se admitirá en el e
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
-Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutaran sin fianza.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -6622,6 +6628,30 @@ Los incidentes se decidirán con un escrito de cada parte y sin suspensión del 
 ###### Artículo 978.
 
 En todo lo no previsto, regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente Título.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2004)</small>
+
+TITULO DECIMOOCTAVO
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2004)</small>
+
+###### Artículo 979.
+
+El procedimiento para la rectificación o modificación de un acta del estado civil de las personas, se desarrollará en los siguientes términos:
+
+I. Podrá acudirse al Juez De lo Familiar o de lo Civil por escrito, exponiendo de manera breve y concisa los hechos cuando se trate de rectificación o modificación de las actas del estado civil de las personas. Con las copias respectivas de los documentos que en su caso se presenten y de las pruebas que acrediten los extremos de la pretensión, se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma, dentro del plazo de cinco días. En tales escritos las partes deberán ofrecer las pruebas respectivas. Al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia de pruebas y alegatos, la que tendrá verificativo dentro del término de diez días. No se llamará a juicio a los testigos que intervinieron en los actos registrados que se pretendan rectificar o modificar, salvo que el Juez así lo disponga. El juez suplirá las deficiencias del actor durante el juicio y se podrá allegar de los medios de prueba que estime necesarios.
+
+II. En la audiencia se desahogarán las pruebas que así procedan y que se hayan ofrecido sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley. En caso de que la autoridad registral no conteste o no ofrezca pruebas, se desahogará la audiencia sin su presencia, sin acusarle rebeldía; sin embargo, ésta podrá nombrar delegados por simple oficio para que le representen en juicio;
+
+III. Desahogadas las pruebas admitidas, se otorgará el uso de la voz a las partes para que formulen alegatos, éstas lo podrán hacer por escrito en el mismo acto;
+
+IV. El Juez resolverá en el término de 8 días;
+
+V. No se admitirá excepción dilatoria alguna, las que se ofrezcan se resolverán en la sentencia;
+
+VI. Pronunciada la sentencia, las partes podrán interponer, si a sus intereses conviene, el recurso de apelación; y
+
+VII. En todo lo no previsto, regirán las reglas generales de este Código, en cuanto no se opongan a las disposiciones del presente Título.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -6812,3 +6842,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 12 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE AGOSTO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
