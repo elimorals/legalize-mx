@@ -1,0 +1,910 @@
+---
+title: "LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR"
+identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-8989"
+country: "mx"
+rank: "ley"
+publication_date: "1996-06-06"
+last_updated: "1996-06-06"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8989&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-bcs"
+scjn_id: "8989"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "22 EXTRAORDINARIO"
+reform_count: "6"
+scjn_last_update: "2008-07-08"
+issue_date: "1996-06-06"
+state: "BCS"
+---
+# LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
+
+LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 6 de junio de 1996.
+
+GUILLERMO MERCADO ROMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
+
+QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+
+DECRETO 1089
+
+EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
+
+DECRETA:
+
+LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPITULO UNICO
+
+###### ARTICULO 1o.
+
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto la protección y seguridad de los habitantes del Estado de Baja California Sur, así como establecer las bases de coordinación entre las instituciones y autoridades a quienes compete ejercer la función de seguridad pública en la entidad.
+
+###### ARTICULO 2o.
+
+Las acciones en materia de seguridad pública a que refiere la presente Ley y los reglamentos que de ella emanen, así como las instituciones encargadas de proveer a su exacto cumplimiento, deberán ajustarse a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; a las leyes expedidas por el Congreso de la Unión que establezcan las bases de coordinación entre la Federación, Distrito Federal, Estados y Municipios en materia de seguridad pública; a las políticas y lineamientos que emanen del Sistema Nacional de Seguridad Pública, así como a la Constitución Política del Estado de Baja California Sur.
+
+###### ARTICULO 3o.
+
+Conforme al artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y para los efectos de esta Ley, la seguridad pública es una función a cargo del Gobierno del Estado de Baja California Sur y de sus Municipios en el ámbito de sus respectivas competencias, que tiene como fines mantener y preservar las libertades, el orden y la paz públicos y salvaguardar la integridad física y los derechos de las personas. Consecuentemente, la seguridad pública no podrá ser objeto de concesión a los particulares.
+
+###### ARTICULO 4o.
+
+Las autoridades competentes, para lograr los objetivos de la función de seguridad pública, realizarán acciones de prevención, persecución y sanción de las infracciones y delitos, así como aquellas encaminadas a la reinserción social del delincuente y del menor infractor.
+
+###### ARTICULO 5o.
+
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, combatirán las causas que generan la comisión de delitos y conductas antisociales y desarrollarán políticas, programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad.
+
+###### ARTICULO 6o.
+
+Son instituciones de seguridad pública las siguientes:
+
+I.- Los Tribunales del Poder Judicial del Estado;
+
+II.- La Procuraduría General de Justicia del Estado;
+
+III.- Las Agencias del Ministerio Público del Fuero Común;
+
+IV.- La Policía Judicial del Estado;
+
+V.- La Coordinación de Seguridad Pública del Estado;
+
+VI.- Los Centros de Prevención y Readaptación Social;
+
+VII.- Los Consejos Tutelares para Menores Infractores;
+
+VIII.- Las Direcciones de Seguridad y Tránsito Municipal de los Ayuntamientos de la entidad; y
+
+IX.- Las dependencias de la administración pública del Estado y de los Municipios que tengan como finalidad aplicar programas de prevención de conductas antisociales.
+
+###### ARTICULO 7o.
+
+Las instituciones de seguridad pública desarrollarán las funciones en sus respectivos ámbitos de competencia conforme a las atribuciones constitucionales conferidas a cada una de ellas, y a lo que dispongan sus correspondientes leyes orgánicas y reglamentos interiores, así como a lo establecido en la presente Ley.
+
+###### ARTICULO 8o.
+
+La coordinación entre las instituciones de seguridad pública del Estado y de los Municipios, se hará con absoluto respeto a las atribuciones constitucionales que les corresponda a cada una de ellas.
+
+###### ARTICULO 9o.
+
+La conducta de los miembros de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez. Las autoridades estatales y municipales establecerán instrumentos de formación policial que inculquen estos principios.
+
+###### ARTICULO 10.
+
+La aplicación y reglamentación de la presente Ley, corresponde de manera concurrente a las autoridades estatales y municipales en el ámbito de sus respectivas competencias, con base en lo previsto en este ordenamiento y en los convenios de coordinación y acuerdos que al efecto suscriban.
+
+###### ARTICULO 11.
+
+Cuando por razones económicas o por carecer de elementos materiales y técnicos, algún Municipio del Estado esté en imposibilidad de prestar los servicios de seguridad pública a su cargo, podrá celebrar convenio con el Gobierno del Estado para que éste asuma, en forma parcial o total, dichos servicios, previa autorización del Congreso del Estado, conforme lo dispuesto en los artículos 115 fracción III de la Constitución Política de los Estados Unidos Mexicanos y 64 fracción XLIII del (sic) la Constitución Política del Estado de Baja California Sur.
+
+## TITULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE SEGURIDAD PUBLICA
+
+### CAPITULO UNICO
+
+###### ARTICULO 12.
+
+Son autoridades estatales en materia de seguridad pública:
+
+I.- El Gobernador del Estado;
+
+II.- Los Magistrados y Jueces del Tribunal Superior de Justicia;
+
+III.- El Secretario General de Gobierno;
+
+IV.- El Procurador General de Justicia del Estado;
+
+V.- Los Agentes del Ministerio Píblico (sic) del Fuero Común;
+
+VI.- El Coordinador de Seguridad Pública del Estado;
+
+VII.- El Director de la Policía Judicial del Estado, Comandantes y sus Agentes en el Estado; y
+
+VIII.- Los servidores públicos que tengan a su cargo los Centros de Prevención y Readaptación Social.
+
+###### ARTICULO 13.
+
+Son autoridades municipales en materia de seguridad pública:
+
+I.- Los Ayuntamientos;
+
+II.- Los Presidentes Municipales;
+
+III.- Los Directores y Comandantes de las corporaciones de seguridad y tránsito municipal; y
+
+IV.- Los agentes de las corporaciones de seguridad y tránsito municipal.
+
+###### ARTICULO 14.
+
+Compete al Gobernador del Estado:
+
+I.- Cuidar y mantener el orden público preservando la paz y tranquilidad social en el Estado;
+
+II.- Coordinar los cuerpos de seguridad pública en el Estado, conforme a lo dispuesto por el artículo 79 fracción XII de la Constitución Política del Estado;
+
+III.- Celebrar convenios de coordinación con la Federación, las entidades federativas y los Municipios, para una mejor prestación del servicio de seguridad pública en el Estado;
+
+IV.- Establecer los planes y programas estatales en materia de seguridad pública, de conformidad a lo dispuesto en la presente Ley;
+
+V.- Dirigir, normar, controlar y supervisar el funcionamiento de las instituciones de seguridad pública a su cargo;
+
+VI.- Proveer en la esfera de su competencia la exacta observancia de las disposiciones de la presente Ley; y
+
+VII.- Las demás que le confieran este ordenamiento y otras disposiciones legales.
+
+###### ARTICULO 15.
+
+Los Magistrados y Jueces del Tribunal Superior de Justicia, como autoridades encargadas de la imposición de las penas y sanciones a los responsables de la comisión de delitos, tendrán las atribuciones que en materia de seguridad pública se derivan de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y de la presente Ley.
+
+###### ARTICULO 16.
+
+El Secretario General de Gobierno proveerá en la esfera de su competencia, conforme a los preceptos legales aplicables, el cumplimiento de los acuerdos y demás disposiciones que dicte el Gobernador del Estado en materia de seguridad pública.
+
+###### ARTICULO 17.
+
+El Procurador General de Justicia del Estado, los Agentes del Ministerio Público y los servidores públicos encargados de la prevención y readaptación social ejercerán las atribuciones que en materia de seguridad pública les confieran las leyes y reglamentos en el ámbito de su competencia.
+
+###### ARTICULO 18.
+
+Son facultades y obligaciones de los Ayuntamientos en materia de seguridad pública:
+
+I.- En el ámbito de su competencia, garantizar la seguridad y tranquilidad de las personas y de sus bienes, así como preservar y guardar el orden público;
+
+II.- Aprobar los planes y programas de seguridad pública de sus respectivos Municipios;
+
+III.- Observar que los integrantes de los cuerpos de seguridad pública y tránsito municipal cumplan con los requisitos de profesionalización que exige esta Ley;
+
+IV.- Acordar la celebración de convenios en materia de seguridad pública con el Gobierno del Estado y otros Municipios; y
+
+V.- Las demás que les asigne esta Ley y los Reglamentos o bandos relativos.
+
+###### ARTICULO 19.
+
+Son facultades y obligaciones de los Presidentes Municipales:
+
+I.- Ejecutar los acuerdos del Ayuntamiento relacionados con la seguridad pública;
+
+II.- Dictar las medidas necesarias para mantener el orden y tranquilidad pública en el Municipio; así como prevenir la comisión de delitos y proteger a las personas en su integridad física, en sus bienes, posesiones y derechos;
+
+III.- Ejecutar las acciones que deriven de los convenios (sic) coordinación que celebre el Municipio con el Gobierno del Estado en materia de seguridad pública;
+
+IV.- Cuidar la organización y correcto desempeño de las funciones encomendadas a los cuerpos de seguridad y tránsito municipal;
+
+V.- Proveer en la esfera de su competencia la exacta observancia de las disposiciones de la presente Ley; y
+
+VI.- Las demás que les confieren esta Ley y otros ordenamientos legales en materia de seguridad pública.
+
+###### ARTICULO 20.
+
+Los Directores, Comandantes y Agentes de las Direcciones de Seguridad y Tránsito de los Ayuntamientos de la entidad, ejercerán las atribuciones que en materia de seguridad pública les confieran las leyes y reglamentos en el ámbito de su competencia.
+
+## TITULO TERCERO. DE LA COORDINACION EN MATERIA DE SEGURIDAD PUBLICA
+
+### CAPITULO UNICO
+
+###### ARTICULO 21.
+
+Las autoridades de la Federación, del Estado de Baja California Sur y de los Municipios de la entidad, se coordinarán en materia de seguridad pública en términos de lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y de sus leyes reglamentarias.
+
+###### ARTICULO 22.
+
+Las autoridades competentes del Estado y Municipios se coordinarán para:
+
+I.- Determinar las políticas de seguridad pública, así como ejecutar, dar seguimiento y evaluar sus acciones, a través de las instancias previstas en esta Ley;
+
+II.- Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las instituciones de seguridad pública y para la formación de sus integrantes;
+
+III.- Establecer, supervisar, utilizar y mantener actualizados todos los instrumentos de información para el eficaz cumplimiento de la función de la seguridad pública;
+
+IV.- Formular propuestas para el Programa Estatal de Seguridad Pública, así como para llevarlo a cabo y evaluar su desarrollo;
+
+V.- Tomar medidas y realizar acciones y operativos conjuntos; y
+
+VI.- Celebrar todos aquellos acuerdos que tengan como finalidad cumplir con los objetivos de esta Ley y demás disposiciones legales en materia de seguridad pública.
+
+###### ARTICULO 23.
+
+La coordinación de seguridad pública en el Estado de Baja California Sur comprenderá las materias siguientes:
+
+I.- Los procedimientos e instrumentos de formación, reglas de ingreso, permanencia, promoción y retiro de los miembros de las instituciones de seguridad pública;
+
+II.- Los sistemas disciplinarios, así como de estímulos y recompensas;
+
+III.- La organización, administración, operación y modernización tecnológica de las instituciones de seguridad pública;
+
+IV.- Las propuestas de aplicación de recursos para la seguridad pública, incluido el financiamiento conjunto;
+
+V.- El suministro, intercambio y sistematización de todo tipo de información sobre seguridad pública;
+
+VI.- Acciones policiales conjuntas, en el ámbito de sus respectivas competencias;
+
+VII.- Las relaciones con la comunidad y fomento de la cultura de prevención de infracciones y delitos; y
+
+VIII.- Las que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
+
+###### ARTICULO 24.
+
+Las políticas, lineamientos y acciones de coordinación se llevarán a cabo mediante la suscripción de los convenios respectivos entre el Gobierno del Estado y los Ayuntamientos de la Entidad o con base en los acuerdos y resoluciones que deriven del Consejo Nacional de Seguridad Pública y de las demás instancias regionales y locales de coordinación.
+
+###### ARTICULO 25.
+
+El Consejo Estatal de Seguridad Pública será la instancia superior de coordinación, planeación y supervisión en materia de seguridad pública en el Estado, que estará incorporado al Sistema Nacional de Seguridad Pública con la integración, atribuciones y funcionamiento que determine la legislación federal que establece las bases de coordinación en materia de seguridad pública.
+
+###### ARTICULO 26.
+
+En cada uno de los Municipios de la entidad se establecerán los Consejos Municipales de Seguridad Pública de conformidad a los lineamientos que al efecto emita el Consejo Estatal.
+
+###### ARTICULO 27.
+
+La coordinación de las instituciones de seguridad pública del Estado y Municipios, en los casos de siniestros, accidentes o catástrofes, se realizará de conformidad con los programas de protección civil y las disposiciones legales aplicables.
+
+## TITULO CUARTO. DE LA COORDINACION DE SEGURIDAD PUBLICA DEL ESTADO
+
+### CAPITULO UNICO
+
+###### ARTICULO 28.
+
+La Coordinación de Seguridad Pública del Estado, como órgano administrativo desconcentrado de la Secretaría General de Gobierno, tendrá a su cargo instrumentar las políticas y lineamientos para la coordinación entre las instituciones de seguridad pública del Estado y de los Municipios, de conformidad a las disposiciones de la presente Ley, los acuerdos emanados del Consejo Estatal de Seguridad Pública, del Ejecutivo del Estado por conducto del Secretario General de Gobierno y demás ordenamientos aplicables en la materia.
+
+La Coordinación de Seguridad Pública del Estado contará con el personal y los medios necesarios para el cumplimiento de su encomienda.
+
+###### ARTICULO 29.
+
+El Gobernador del Estado designará al Coordinador de Seguridad Pública del Estado quien deberá ser ciudadano mexicano en pleno goce de sus derechos; tener más de 35 años de edad; ser de reconocida capacidad y probidad y contar con experiencia en áreas de seguridad pública.
+
+###### ARTICULO 30.
+
+Son funciones del Coordinador de Seguridad Pública del Estado:
+
+I.- Acatar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal;
+
+II.- Proponer para su aprobación al Consejo Estatal, políticas, lineamientos y acciones para el buen desempeño de las instituciones de seguridad pública del Estado;
+
+III.- Proporcionar al Sistema Nacional de Información sobre Seguridad Pública los datos a que refiere el artículo 36 de esta Ley;
+
+IV.- Informar periódicamente al Consejo Estatal de sus actividades;
+
+V.- Formular sugerencias a las autoridades competentes para que las instituciones de seguridad pública del Estado y de los Municipios desarrollen de manera más eficaz sus funciones;
+
+VI.- Promover, por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo Estatal y sin menoscabo de otras que realicen las autoridades competentes;
+
+VII.- Proponer a los Ayuntamientos los lineamientos para la coordinación intermunicipal en materia de seguridad pública;
+
+VIII.- Proponer la adecuación de los sistemas de comunicación por radio, telefonía, alarmas y cualquier otro, entre las (sic) diversos corporaciones de seguridad pública del Estado y Municipios para proporcionar un mejor servicio al público;
+
+IX.- Coordinar con las instancias del gobierno estatal y municipal la adquisición de equipo y material para proveer a sus respectivas corporaciones de seguridad pública;
+
+X.- Llevar el registro y control interno del armamento de las corporaciones de seguridad pública del Estado y Municipios;
+
+XI.- Organizar y controlar el Registro Estatal de Servicios Policiales y coordinarse al respecto con las autoridades federales;
+
+XII.- Realizar estudios especializados sobre las materias de seguridad pública; y
+
+XIII.- Las demás que le confiera la presente Ley y otras disposiciones legales en la materia.
+
+## TITULO QUINTO. DEL PROGRAMA ESTATAL DE SEGURIDAD PUBLICA
+
+### CAPITULO UNICO
+
+###### ARTICULO 31.
+
+El Programa Estatal de Seguridad Pública será el instrumento que contendrá los lineamientos y acciones que de manera coordinada deberán realizar las instituciones y corporaciones de seguridad pública del Estado y Municipios respetando sus ámbitos de competencia constitucional.
+
+###### ARTICULO 32.
+
+Corresponderá al Consejo Estatal la implementación del Programa Estatal de Seguridad Pública y para su actualización se llevarán al cabo Foros de Consulta donde participen organismos, dependencias, instituciones de los sectores social y privado, instituciones académicas y ciudadanía en general para expresar las propuestas que estimen deberán considerarse dentro del mismo.
+
+###### ARTICULO 33.
+
+El Programa Estatal deberá incorporar los lineamientos emanados de las instancias de coordinación del Sistema Nacional de Seguridad Pública y deberá contener como mínimo:
+
+I.- El diagnóstico de la situación que presenta la seguridad pública en el Estado de Baja California Sur;
+
+II.- Los objetivos específicos a alcanzar;
+
+III.- Las acciones a desarrollar para el logro de sus objetivos, incluyendo los subprogramas específicos por Municipios;
+
+IV.- La coordinación entre las instituciones de seguridad pública estatales y municipales; y
+
+V.- La participación de la comunidad para alcanzar los objetivos del programa.
+
+###### ARTICULO 34.
+
+Corresponderá al Consejo Estatal la evaluación semestral del Programa Estatal de Seguridad Pública, con la finalidad de establecer nuevas estrategias y acciones o reforzar, modificar o suprimir aquéllas que no cumplan con sus objetivos.
+
+## TITULO SEXTO. DE LA INFORMACION DE SEGURIDAD PUBLICA
+
+### CAPITULO UNICO
+
+###### ARTICULO 35.
+
+De conformidad a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, sus leyes y reglamentos que de ellas emanen, el Estado y los Municipios suministrarán, intercambiarán y sistematizarán la información sobre seguridad pública para los usos que estimen convenientes para el mejor desempeño de las funciones a su cargo, así como para que ésta sea proporcionada oportunamente al Sistema Nacional en la materia.
+
+###### ARTICULO 36.
+
+En los términos señalados por el artículo anterior, la información que proporcionarán las instituciones de seguridad pública del Estado y de los Municipios, además de los usos que ahí se indican, tendrá los siguientes objetivos específicos:
+
+I.- Inscribir y mantener actualizados en el Registro Nacional de Personal de Seguridad Pública a todos los integrantes de las instituciones de seguridad pública del Estado y de los Municipios;
+
+II.- Manifestar ante el Registro Nacional de Armamento y Equipo la relación del armamento, parque vehicular, decomisos de armas, equipo antimotines y de radiocomunicaciones y en general, de todo aquel material y equipo que se utiliza en las instituciones de seguridad pública estatales y municipales;
+
+III.- Proporcionar para la Estadística General de Seguridad Pública los datos necesarios para el análisis de la incidencia criminológica y la problemática de seguridad pública en el Estado;
+
+IV.- Suministrar al Banco de Datos de Apoyo a la Procuración de Justicia la información sobre personas probables responsables de delitos, indiciadas, procesadas o sentenciadas, incorporando sus características criminales, medios de identificación, recursos y modos de operación; y
+
+V.- Proporcionar la demás información que sea requerida por el Sistema Nacional de Información sobre Seguridad Pública.
+
+###### ARTICULO 37.
+
+La Coordinación de Seguridad Pública del Estado será el conducto para hacer llegar al Sistema Nacional de Información los datos consignados en el artículo precedente.
+
+###### ARTICULO 38.
+
+Las instituciones de seguridad pública del Estado y de los Municipios comunicarán las altas, bajas, ascensos, estímulos y sanciones a sus integrantes, así como aquellos otros datos que requiera el Registro Nacional de Seguridad Pública.
+
+###### ARTICULO 39.
+
+Para la elaboración de las estadísticas de seguridad pública, las instituciones del Estado y Municipios que intervienen en esta función, sistematizarán los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias y de tratamiento de menores y los factores asociados a la problemática de seguridad pública, de conformidad a las disposiciones federales aplicables.
+
+###### ARTICULO 40.
+
+Las instituciones de prevención, procuración y administración de justicia, readaptación social y en general todas las instancias del gobierno estatal y municipal que deban contribuir a la seguridad pública, aportarán la información relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas, en los términos señalados por el artículo anterior.
+
+En los casos de resolución de libertad por desvanecimiento de datos, falta de elementos para procesar y sentencias absolutorias, la autoridad judicial que conozca comunicará lo conducente para dar de baja de la base de datos la información respectiva.
+
+###### ARTICULO 41.
+
+La institución del Ministerio Público sólo podrá reservarse la información que ponga en riesgo alguna investigación, pero la proporcionará inmediatamente después que deje de existir tal condición.
+
+###### ARTICULO 42.
+
+La información a que se refiere el presente Título será manejada bajo los principios de confidencialidad y reserva. No se proporcionará al público la información que ponga en riesgo la seguridad pública o atente contra el honor de las personas. El incumplimiento de esta obligación se equiparará al delito de revelación de secretos previsto en el Código Penal del Estado, sin perjuicio de responsabilidades de otra naturaleza.
+
+## TITULO SEPTIMO. DE LAS CORPORACIONES DE SEGURIDAD PUBLICA
+
+### CAPITULO UNICO
+
+###### ARTICULO 43.
+
+Son obligaciones de las corporaciones estatales y municipales de seguridad pública a que se refiere esta Ley:
+
+I.- Incorporarse al Sistema Nacional Sobre Seguridad Pública en los términos que dispone la legislación federal reglamentaria del artículo 21 constitucional, la presente Ley y demás disposiciones aplicables;
+
+II.- Sancionar a sus integrantes que cometan faltas con motivo de su servicio, de conformidad con la presente Ley y demás disposiciones aplicables;
+
+III.- Recoger del personal que cause baja en el servicio, el arma, credencial, equipo, uniforme y divisas que se les hayan asignado para el desempeño de su cargo;
+
+IV.- Prohibir el uso de grados e insignias reservadas al Ejército Mexicano; y
+
+V.- Establecer unidades de defensoría jurídica para sus integrantes;
+
+VI.- Las demás que les señale esta Ley y los ordenamientos relativos.
+
+###### ARTICULO 44.
+
+Los nombramientos para cubrir las plazas vacantes o de nueva creación de las corporaciones de seguridad pública estatales o municipales, conforme a la naturaleza del servicio, sólo podrán otorgarse a egresados de la Academia de Policía del Estado o similares de otras entidades federativas de la República Mexicana y previa consulta al Registro Nacional de Personal de Seguridad Pública.
+
+De igual manera, podrá autorizarse el ingreso a las corporaciones de seguridad pública Estatales o Municipales a personas egresadas de instituciones educativas de nivel medio superior establecidas en la entidad y en las que se impartan materias de capacitación relacionadas con la seguridad pública. Al efecto podrán celebrarse convenios entre dichas instituciones de educación media superior con la coordinación de seguridad pública del Estado, donde se establecerán las materias que comprenderán el plan de estudios respectivo y la forma de supervisión y evaluación de la capacitación de los alumnos.
+
+###### ARTICULO 45.
+
+Las corporaciones de seguridad pública evaluarán semestralmente el comportamiento, eficiencia y preparación de sus integrantes, que les permita conocer con objetividad el buen desempeño del cargo que les fue conferido.
+
+###### ARTICULO 46.
+
+Los vehículos al servicio de las instituciones de seguridad pública, deberán ostentar visiblemente su denominación, logotipo o escudo y número que los identifique, debiendo portar placas de circulación.
+
+Sin ninguna excepción, los vehículos referidos en el párrafo anterior, deberán estar documentados conforme a las leyes mexicanas en la materia.
+
+###### ARTICULO 47.
+
+Las corporaciones de seguridad pública estatales y municipales adquirirán el armamento, municiones, vehículos, equipo de radio-comunicación y demás elementos necesarios para la prestación del servicio a su cargo, con la intervención de la Coordinación de Seguridad Pública del Estado en términos de lo dispuesto por esta Ley y conforme a las determinaciones que al respecto señalen las autoridades federales competentes.
+
+###### ARTICULO 48.
+
+Las corporaciones de seguridad pública deberán dotar a su personal de la credencial que los identifique como miembros de las mismas, la que contendrá fotografía, nombre, nombramiento y clave de inscripción en el Registro Nacional del Personal de Seguridad Pública y en tratándose de personal operativo, tendrán insertada la autorización para la portación de arma de fuego expedida por la Secretaría de la Defensa Nacional.
+
+## TITULO OCTAVO. DE LA PROFESIONALIZACION DE LOS INTEGRANTES DE LAS CORPORACIONES DE SEGURIDAD PUBLICA
+
+### CAPITULO I. DE LA FORMACION Y ACTUACION DE LOS INTEGRANTES DE LAS CORPORACIONES DE SEGURIDAD PUBLICA
+
+###### ARTICULO 49.
+
+En el Estado de Baja California Sur la carrera policial en sus diferentes niveles es obligatoria y tendrá carácter permanente.
+
+Comprenderá los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción y separación del servicio, así como su evaluación.
+
+###### ARTICULO 50.
+
+La profesionalización de los integrantes de las corporaciones de seguridad pública, tendrá por objeto desarrollar de manera integral sus aptitudes físicas e intelectuales que permitan la prestación eficaz del servicio que se les encomiende, así como para estar en condiciones de ampliar la capacidad de respuesta adecuada a los requerimientos de la sociedad.
+
+Las corporaciones de seguridad pública del Estado y Municipios se sujetarán a los planes y programas que en materia de profesionalización policial se implementen a través de los mecanismos respectivos del Sistema Nacional de Seguridad Pública.
+
+###### ARTICULO 51.
+
+Los aspirantes a ingresos a las corporaciones de seguridad pública del Estado y Municipios deberán cumplir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en ejercicio de sus derechos;
+
+II.- Tener como mínimo 21 años de edad;
+
+III.- Acreditar haber terminado estudios de educación secundaria;
+
+IV.- Ser egresado de la Academia Estatal de Policía;
+
+V.- No tener antecedentes penales;
+
+VI.- Aprobar el examen médico sobre el estado de salud física, que considerará además el rendimiento físico atlético y la verificación del no consumo de sustancias prohibidas;
+
+VII.- Aprobar el examen sobre las características psicológicas en las esferas de la inteligencia, personalidad, vocación y rasgos profesionales; y
+
+VIII.- Aprobar el examen profesional.
+
+###### ARTICULO 52.
+
+El procedimiento de selección para ingresar a las corporaciones de seguridad pública del Estado y Municipios tendrá carácter estrictamente confidencial y el contenido del expediente que se forme por cada uno de los aspirantes deberá integrarse al Sistema Nacional de Información Sobre Seguridad Pública.
+
+###### ARTICULO 53.
+
+Las corporaciones de seguridad pública promoverán y brindarán facilidades para que los policías en activo regularicen su situación con respecto a los niveles mínimos de educación secundaria que exige esta Ley.
+
+###### ARTICULO 54.
+
+La actuación de los integrantes de las corporaciones de seguridad pública se sujetará a los deberes siguientes:
+
+I.- Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
+
+II.- Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+
+III.- Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica o social; preferencia sexual, ideología política o por algún otro motivo;
+
+IV.- Abstenerse en todo momento y bajo cualquier circunstancia de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al tener conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
+
+V.- Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que, en ejercicio de sus derechos constitucionales y con carácter pacífico, realicen los individuos;
+
+VI.- Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción;
+
+VII.- Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+
+VIII.- Velar por la vida e integridad física de las personas detenidas en tanto se ponen a disposición del Ministerio Público o de la autoridad competente;
+
+IX.- Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+X.- Obedecer las órdenes de los superiores jerárquicos y cumplir con todas sus obligaciones, siempre y cuando sean conforme a derecho;
+
+XI.- Preservar el secreto de los asuntos que por razón del desempeño de sus funciones conozcan, con las excepciones que determinen las leyes.
+
+XII.- Asistir a colegios, escuelas y centros de capacitación con objeto de adquirir el adiestramiento que fomente su superación académica;
+
+XIII.- Cumplir con sus funciones debidamente uniformados cuando así lo exija la corporación y sin excepción portar siempre su insignia, credencial o placa de identificación;
+
+XIV.- Depositar las armas a su cargo, una vez que haya terminado el tiempo del ejercicio de funciones o el horario, misión o comisión determinados, de acuerdo con los ordenamientos de la corporación; y
+
+XV.- Las demás que señalen esta Ley y otras disposiciones aplicables.
+
+### CAPITULO II. DE LA ACADEMIA ESTATAL DE POLICIA
+
+###### ARTICULO 55.
+
+La Academia Estatal de Policía tendrá a su cargo la preparación profesional de los aspirantes a ingresar a las corporaciones de seguridad pública estatales y municipales, así como la actualización y adiestramiento del personal en servicio y la capacitación de maestros e investigadores de la materia.
+
+###### ARTICULO 56.
+
+La Academia impartirá gratuitamente cursos básicos, de actualización y de promoción para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública.
+
+###### ARTICULO 57.
+
+La Academia Estatal de Policía tendrá la organización y atribuciones que le señale su reglamento y su Director será designado por el Gobernador del Estado.
+
+### CAPITULO III. DE LOS ESTIMULOS Y ASCENSOS
+
+###### ARTICULO 58.
+
+Los integrantes de las corporaciones de seguridad pública tendrán derecho a obtener ascensos, los que se otorgarán previa autorización del Consejo de Honor y Justicia a que se refiere esta Ley y conforme a los reglamentos respectivos.
+
+###### ARTICULO 59.
+
+Se considerarán como policías de carrera, a todos aquéllos integrantes de los cuerpos de policía que hayan realizado estudios especializados y obtenido ascensos conforme a las disposiciones de esta Ley y demás ordenamientos legales aplicables.
+
+###### ARTICULO 60.
+
+Los grados de mando jerárquico entre los integrantes de las corporaciones de seguridad pública del Estado y Municipios, serán los de comandante, jefe de grupo y agente.
+
+Los niveles de cada grado, las funciones e insignias correspondientes, serán los que determine el reglamento respectivo.
+
+###### ARTICULO 61.
+
+El Consejo de Honor y Justicia en el procedimiento promocional habrá de tomar en consideración, entre otros aspectos, la escolaridad, la eficiencia, desempeño en el servicio policial, formación continua y especialización, antigüedad y disciplina.
+
+Para obtener el ascenso escalafonario se deberá celebrar concurso de oposición por medio del cual se aplique examen de aptitud y conocimientos sobre el cargo a desempeñar.
+
+###### ARTICULO 62.
+
+Los estímulos y reconocimientos para el personal de las corporaciones de policía, constituyen medios para fomentar y arraigar la lealtad, la honradez, el esfuerzo de superación constante y el espíritu de servicio y consistirán en condecoraciones al valor policial, a la perseverancia y al mérito. En cada caso, además, se otorgará un estímulo económico adicional, en los términos que fije el Consejo de Honor y Justicia.
+
+## TITULO NOVENO. DEL REGIMEN DISCIPLINARIO
+
+### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
+
+###### ARTICULO 68.
+
+Los correctivos disciplinarios son las sanciones a que se hacen acreedores los integrantes de las corporaciones policiales que cometan alguna falta a los principios de actuación previstos en esta Ley o a las normas disciplinarias que cada uno de los cuerpos de seguridad pública establezcan y que no ameriten la destitución del cargo.
+
+###### ARTICULO 69.
+
+En atención a la gravedad de la falta, se aplicarán los siguientes correctivos disciplinarios:
+
+I.- Amonestación;
+
+II.- Arresto hasta de treinta y seis horas; y
+
+III.- Cambio de adscripción.
+
+###### ARTICULO 70.
+
+La amonestación es la medida correctiva por la cual el superior advierte al subalterno la omisión o falta en el cumplimiento de sus deberes, invitándolo a corregirse. La amonestación será de palabra y constará por escrito.
+
+###### ARTICULO 71.
+
+El arresto es la reclusión que sufre un subalterno por haber incurrido en faltas considerables o por haber acumulado cinco amonestaciones en un año de calendario. En todo caso, la orden de arresto deberá hacerse por escrito, especificando el motivo y duración del mismo, que no podrá exceder de 36 horas.
+
+###### ARTICULO 72.
+
+El cambio de adscripción se decretará cuando el comportamiento del elemento infractor afecte la disciplina y buena marcha del grupo al que esté adscrito, o bien, sea necesario para mantener una buena relación e imagen de la corporación ante la comunidad.
+
+###### ARTICULO 73.
+
+Los superiores jerárquicos informarán al Consejo de Honor y Justicia sobre los correctivos disciplinarios que impongan, dentro de los tres días hábiles siguientes al de su aplicación, exponiendo las causas que los motivaron.
+
+###### ARTICULO 74.
+
+El recurso de revisión no suspenderá los efectos del arresto, pero tendrá por objeto que dicho correctivo no aparezca en el expediente u hoja de servicio del elemento, sin perjuicio de las sanciones que resuelva aplicar el Consejo de Honor y Justicia al superior jerárquico que lo impuso injustificadamente.
+
+###### ARTICULO 75.
+
+La resolución que declare improcedente un cambio de adscripción, tendrá por objeto dejar sin efectos la medida correctiva para reincorporar al elemento en la adscripción anterior.
+
+No procederá el recurso de revisión contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 63.
+
+La disciplina de los integrantes de las corporaciones de seguridad pública se regirá por las disposiciones de esta Ley y de los reglamentos aplicables.
+
+###### ARTICULO 64.
+
+Las autoridades que tengan a su mando las corporaciones de seguridad pública del Estado y Municipios, en la aplicación de las sanciones y correctivos disciplinarios deberán acatar las disposiciones de esta Ley y reglamentos aplicables, conforme a las facultades que se les otorguen, atendiendo a su rango jerárquico.
+
+###### ARTICULO 65.
+
+La calificación sobre la gravedad de la infracción cometida, queda al prudente arbitrio de la autoridad sancionadora, quien, para motivar su resolución deberá tomar en consideración como mínimo los siguientes elementos y circunstancias:
+
+I.- La conveniencia de erradicar de la corporación conductas que afecten a la ciudadanía;
+
+II.- Cuidar que se mantenga el respeto, la buena imagen y el prestigio de la corporación;
+
+III.- El nivel jerárquico y los antecedentes;
+
+IV.- La antigüedad en el servicio policial;
+
+V.- Las circunstancias de tiempo y medios de ejecución de la falta cometida;
+
+VI.- La reincidencia en el incumplimiento de sus obligaciones; y
+
+VII.- Las circunstancias socioeconómicas del elemento policial.
+
+###### ARTICULO 66.
+
+Contra los acuerdos mediante los cuales los superiores jerárquicos impongan las sanciones que se refieren en el presente Título, con excepción de la amonestación, el elemento sancionado podrá interponer por escrito el recurso de revisión ante el Consejo de Honor y Justicia, dentro de los diez días hábiles siguientes al de su notificación.
+
+###### ARTICULO 67.
+
+Las conductas u omisiones de los elementos de las corporaciones de seguridad pública no sancionadas en esta Ley, pero previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se sujetarán a lo establecido en dicho ordenamiento.
+
+### CAPITULO III. DE LA SUSPENSION TEMPORAL
+
+###### ARTICULO 76.
+
+La suspensión temporal de funciones se determinará por los superiores jerárquicos y podrá ser de carácter preventivo o correctivo, atendiendo a las causas que la motiven.
+
+###### ARTICULO 77.
+
+La suspensión temporal de carácter preventivo procederá en contra de aquellos elementos por su presunta responsabilidad derivada de actos u omisiones y que motiven ser sujetos a investigación administrativa o averiguación previa y cuya permanencia en el servicio pudiera afectar a la corporación o a la comunidad en general.
+
+La suspensión subsistirá en tanto el asunto de que se trate no esté total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
+
+En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiere dejado de percibir hasta ese momento, con motivo de la suspensión.
+
+###### ARTICULO 78.
+
+La suspensión temporal de carácter correctivo procederá contra el elemento que en forma reiterada o particularmente indisciplinada haya incurrido en faltas cuya naturaleza no ameriten la destitución.
+
+La suspensión a que se refiere este artículo no podrá exceder de treinta días naturales.
+
+### CAPITULO IV. DE LA DESTITUCION
+
+###### ARTICULO 79.
+
+Los elementos de las corporaciones de seguridad pública del Estado y Municipios podrán ser destituidos en los términos que señalen las disposiciones legales aplicables y en su caso, por las siguientes causas:
+
+I.- Faltar a sus labores por más de tres ocasiones en un período de treinta días naturales sin permiso o causa justificada;
+
+II.- La sentencia condenatoria por delito intencional que haya causado ejecutoria;
+
+III.- Por falta grave a los principios de actuación previstos en la presente Ley y a las normas de disciplina que se establezcan en la corporación de seguridad pública a que pertenezca;
+
+IV.- Por incurrir en faltas de probidad y honradez durante el servicio;
+
+V.- Por portar el arma de cargo fuera de servicio;
+
+VI.- Por poner en peligro a particulares a causa de su imprudencia, descuido, negligencia o abandono del servicio;
+
+VII.- Por asistir a sus labores en estado de ebriedad o bajo el influjo de sustancias psicotrópicas o estupefacientes o por consumirlas durante el servicio o en su centro de trabajo;
+
+VIII.- Por desacato injustificado a las órdenes de sus superiores;
+
+IX.- Por revelar asuntos secretos o reservados de los que tenga conocimiento;
+
+X.- Por presentar documentación alterada;
+
+XII.- Por aplicar a sus subalternos en forma dolosa o reiterada correctivos disciplinarios notoriamente injustificados; y
+
+XII.- Por obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho.
+
+###### ARTICULO 80.
+
+El cambio de los mandos no constituirá una causa para destituir a un elemento de las corporaciones de seguridad pública.
+
+###### ARTICULO 81.
+
+Los servidores públicos que tengan a su mando las corporaciones de seguridad pública elaborarán un registro de los elementos que hayan sido destituidos especificando además, la causa de la destitución, y harán llegar dicha información a la Coordinación de Seguridad Pública del Estado, para los efectos de lo ordenado en el artículo 36 de esta Ley.
+
+## TITULO DECIMO. DE LOS CONSEJOS DE HONOR Y JUSTICIA
+
+### CAPITULO UNICO
+
+###### ARTICULO 82.
+
+Se constituirán los Consejos de Honor y Justicia en cada una de las corporaciones de seguridad pública del Estado de Baja California Sur y de sus Municipios, que en sus respectivas jurisdicciones otorgarán los ascensos, estímulos y reconocimientos a que se hagan acreedores los integrantes de dichas corporaciones con motivo del ejercicio de sus funciones.
+
+De igual manera y a instancia de parte interesada, conocerán de los recursos de revisión contra la aplicación de las sanciones que les hayan sido impuestas con motivo del desempeño de su servicio.
+
+###### ARTICULO 83.
+
+El Consejo de Honor y Justicia que conocerá de los asuntos relativos a las corporaciones estatales de seguridad pública estará integrado de la siguiente manera:
+
+I.- Por un Presidente, que será el que designe el Gobernador del Estado;
+
+II.- Por un Secretario, que será designado por el Presidente del Consejo; y
+
+III.- Por tres vocales designados por el Presidente del Consejo de entre los propuestos por los elementos de la corporación, que deberán tener por lo menos una jerarquía correspondiente a niveles medios y que gocen de reconocida honorabilidad y probidad.
+
+Por cada uno de los consejeros propietarios, se designará un suplente.
+
+###### ARTICULO 84.
+
+Los Consejos de Honor y Justicia que conocerán de los asuntos relativos a las corporaciones municipales de seguridad pública, estarán integrados de la siguiente manera:
+
+I.- Por un Presidente, que será designado por el Presidente Municipal,
+
+II.- Por un Secretario, que será el Director de Seguridad y Tránsito Municipal,
+
+III.- Por tres vocales designados por el Presidente del Consejo, de entre los propuestos por los elementos de la corporación, que deberán tener por lo menos una jerarquía correspondiente a niveles medios y que gocen de reconocida honorabilidad y probidad.
+
+Por cada uno de los consejeros propietarios, se designará un suplente.
+
+###### ARTICULO 85.
+
+Los Consejos de Honor y Justicia funcionarán conforme lo establezcan los reglamentos respectivos.
+
+###### ARTICULO 86.
+
+Los estímulos y reconocimientos que otorguen los Consejos de Honor y Justicia serán los mencionados en esta Ley.
+
+## TITULO DECIMO PRIMERO. DE LOS SERVICIOS DE ATENCION A LA POBLACION Y DE LA PARTICIPACION CIUDADANA
+
+### CAPITULO I. DE LOS SERVICIOS DE ATENCION A LA POBLACION
+
+###### ARTICULO 87.
+
+Para la atención de los reportes de información, emergencias, faltas y delitos que los ciudadanos deseen hacer del conocimiento de la autoridad, se establecerá un servicio de comunicación que tendrá acceso inmediato con las instituciones de seguridad pública, salud, protección civil y las demás asistenciales públicas y privadas.
+
+Con el mismo propósito señalado en el párrafo anterior, se instalarán en puntos estratégicos de las poblaciones del Estado, módulos denominados de seguridad, información y quejas que, además, brindarán servicios de seguridad y protección física y patrimonial a los habitantes.
+
+###### ARTICULO 88.
+
+El Gobierno del Estado y los Municipios acordarán a través de los convenios de coordinación respectivos, la forma y términos en que operará el servicio de comunicación y los módulos a que se refiere el artículo anterior. En estos convenios de coordinación, se considerará también el establecimiento de un servicio para la localización de personas y bienes.
+
+### CAPITULO II. DE LA PARTICIPACION CIUDADANA
+
+###### ARTICULO 89.
+
+En el marco de las instancias de coordinación de seguridad pública se promoverá la participación de la sociedad con los siguientes fines:
+
+I.- Conocer y opinar sobre políticas de seguridad pública;
+
+II.- Sugerir medidas específicas y acciones concretas para mejorar esta función;
+
+III.- Realizar labores de seguimiento en relación al cumplimiento de los objetivos en materia de seguridad pública;
+
+IV.- Proponer el otorgamiento de reconocimientos por méritos o estímulos para los integrantes de las instituciones policiales;
+
+V.- Realizar denuncias o quejas sobre irregularidades en la actuación de los integrantes de las corporaciones de seguridad pública; y
+
+VI.- Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño de la función de seguridad pública.
+
+###### ARTICULO 90.
+
+Para alcanzar los fines de la participación ciudadana a que refiere el artículo anterior, el Consejo Estatal de Seguridad Pública y los Consejos Municipales promoverán la instalación de Comités de Consulta y Participación Comunitaria que estarán vinculados con cada una de las corporaciones de seguridad pública del Estado y del Municipio respectivo.
+
+###### ARTICULO 91.
+
+En la integración de los Comités de Consulta y Participación Comunitaria se tomarán en consideración a:
+
+I.- Las personas cuya actividad esté vinculada con la prevención, procuración, administración de justicia y la readaptación social;
+
+II.- Los servidores públicos cuyas funciones legales sean concordantes con las acciones previstas en algunas de las fracciones del artículo 89 de la presente Ley;
+
+III.- Las instituciones que tengan señalado en su objeto social el fomento a las actividades educativas, culturales o deportivas y que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública; y
+
+IV.- Los ciudadanos que realicen actividades relacionadas con el tema de seguridad pública.
+
+Para proceder a la integración de estos Comités, el Consejo Estatal de Seguridad Pública y los Consejos Municipales convocarán a los sectores sociales de la comunidad llamando a las personas más representativas e interesadas en colaborar con la seguridad pública.
+
+###### ARTICULO 92.
+
+El Consejo Estatal de Seguridad Pública y los Consejos Municipales darán amplia difusión de los mecanismos y procedimientos que se establezcan para recibir de la comunidad todas sus opiniones y propuestas respecto de las actividades de seguridad pública en el Estado de Baja California Sur.
+
+###### ARTICULO 93.
+
+La comunidad podrá participar en la instrumentación y ejecución de medidas para la vigilancia y seguridad de la propia población, a través de la organización vecinal, con la aprobación de las autoridades competentes y siempre que ello no ponga en riesgo el buen desempeño de la función de seguridad pública.
+
+## TITULO DECIMO SEGUNDO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
+
+### CAPITULO UNICO
+
+###### ARTICULO 94.
+
+Corresponde al Ejecutivo del Estado el control y normatividad de los servicios privados de seguridad, cuando este servicio se preste únicamente en el territorio del Estado de Baja California Sur.
+
+###### ARTICULO 95.
+
+Para los efectos de la presente Ley, los servicios privados de seguridad solamente podrán prestarse en las siguientes modalidades:
+
+I.- Protección y vigilancia de personas o bienes fuera de las vías o áreas públicas;
+
+II.- Traslado y custodia de fondos y valores;
+
+III.- La investigación dirigida a proporcionar informes sobre los antecedentes, solvencia, localización o actividades de personas; y
+
+IV.- La asesoría en materia de prevención de riesgos, investigaciones y la realización de actividades análogas a las señaladas en las fracciones anteriores.
+
+###### ARTICULO 96.
+
+Los particulares que se dediquen a la prestación del servicio privado de seguridad deberán sujetarse a los siguientes lineamientos:
+
+I.- Sólo podrán prestar este servicio las personas físicas o jurídicas de nacionalidad mexicana que hayan obtenido la autorización o el registro correspondiente ante el Ejecutivo del Estado;
+
+II.- Queda estrictamente prohibida la realización de funciones que constitucional o legalmente sean competencia exclusiva de las instituciones de seguridad pública;
+
+III.- Cuando en el desempeño de sus labores conocieren de hechos que presumiblemente sean constitutivos de un delito o de pruebas que acrediten la presunta responsabilidad penal de un individuo, lo harán inmediatamente del conocimiento de la autoridad competente;
+
+IV.- Queda prohibido usar en su denominación, razón social o nombre; papelería; identificaciones; documentación y demás bienes de la negociación, las palabras de "policía", "agentes", "investigadores" o cualquier otra que derive de los anteriores o que pueda dar a entender una relación con las autoridades o con las corporaciones e instituciones de seguridad pública. El término "seguridad" solamente podrá utilizarse acompañado del adjetivo "privada";
+
+V.- En sus documentos, bienes, insignias e identificaciones conforme a lo dispuesto en la legislación federal aplicable, no podrán usar logotipos oficiales ni el escudo o los colores nacionales, tampoco podrán utilizar escudos o banderas oficiales de otros países. Queda prohibido, asimismo, el uso de todo tipo de placas metálicas de identidad;
+
+VI.- Sólo podrán utilizar uniformes, insignias, divisas o equipo diferenciables de los que reglamentariamente corresponde usar a las instituciones o corporaciones de seguridad pública, en tal forma que a simple vista no exista la posibilidad de confusión;
+
+VII.- Las personas que intervengan en la prestación del servicio de seguridad privada deberán cumplir con los requisitos de selección, capacitación y adiestramiento que al efecto señala esta Ley; exceptuándose aquellas personas que desempeñen labores de carácter estrictamente administrativo o ajenas a los servicios privados de seguridad;
+
+VIII.- Llevarán un registro de su personal y equipo debidamente autorizado por la Coordinación de Seguridad Pública del Estado, que contendrá los datos relativos a las altas y bajas del personal, para su notificación al Registro Nacional del Personal de Seguridad Pública;
+
+IX.- Proporcionarán a la Coordinación de Seguridad Pública del Estado la información sobre delincuencia de que tengan conocimiento, para hacerse llegar al Sistema Nacional de Información Sobre Seguridad Pública;
+
+X.- Deberán cumplir todas y cada una de las obligaciones que les imponga la autorización correspondiente y el reglamento respectivo; y
+
+XI.- Responderán solidariamente de los daños y perjuicios que cause su personal al prestar los servicios.
+
+###### ARTICULO 97.
+
+Corresponde al Gobernador del Estado, por conducto de la Coordinación de Seguridad Pública del Estado, en materia de seguridad privada:
+
+I.- Autorizar el funcionamiento de las empresas que presten servicios privados de seguridad y llevar su registro;
+
+II.- Evaluar, previo pago de los derechos respectivos, el funcionamiento de los servicios privados de seguridad;
+
+III.- Fijar los requisitos para obtener la autorización e inscripción en el registro;
+
+IV.- Supervisar y evaluar permanentemente al personal y la operación de las empresas que presten servicios privados de seguridad. Para ello, éstas tendrán la obligación de proporcionar la información que se les solicite, para lo que se podrá ordenar la realización de las visitas de inspección que se estimen necesarias;
+
+V.- Autorizar y evaluar los programas de profesionalización del personal dedicado a prestar servicios privados de seguridad; y
+
+VI.- Sancionar conforme a lo dispuesto en el artículo 103 de este ordenamiento, a los particulares que presten servicios de seguridad privada, cuando dejen de cumplir con los requisitos establecidos en esta Ley o en otras disposiciones aplicables.
+
+###### ARTICULO 98.
+
+El personal de las empresas que se dediquen al servicio de seguridad privada observarán los principios de actuación y desempeño que esta Ley señala para los integrantes de las corporaciones de seguridad pública.
+
+###### ARTICULO 99.
+
+Ningún elemento en activo de las corporaciones de seguridad pública del Estado y de los Municipios, podrá ser socio o propietario por sí o por interpósita persona de una empresa que brinde servicios privados de seguridad.
+
+###### ARTICULO 100.
+
+Los casos, condiciones, requisitos y lugares, para la portación de armas por parte de quienes presten sus servicios en las empresas a que se refiere este Título, se ajustarán a lo dispuesto por la ley federal de la materia.
+
+###### ARTICULO 101.
+
+Los servicios privados de seguridad diseñarán e instrumentarán un programa permanente de capacitación y adiestramiento de su personal. Dicho programa deberá presentarse para su aprobación a la Coordinación de Seguridad Pública del Estado, la cual podrá revisarlo periódicamente.
+
+###### ARTICULO 102.
+
+Los servicios privados de seguridad son auxiliares de la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado o de los Municipios, de conformidad a los requisitos y condiciones que establezca la autorización respectiva.
+
+###### ARTICULO 103.
+
+El incumplimiento, por parte de los prestadores de servicio de seguridad privada, a las obligaciones a que se refiere este Título y demás disposiciones aplicables, dará lugar a las siguientes sanciones:
+
+I.- Amonestación, con difusión pública de la misma;
+
+II.- Multa de hasta el equivalente a tres mil veces el salario diario mínimo general vigente en el Estado;
+
+III.- Suspensión temporal del registro hasta que se corrija su incumplimiento, con difusión pública de dicha suspensión; o
+
+IV.- Cancelación del registro con difusión pública de la misma. En este último caso, la Coordinación de Seguridad Pública en el Estado notificará esta determinación a las autoridades correspondientes a efecto de que realicen, en los términos de sus competencias, los actos que legalmente procedan.
+
+TRANSITORIOS:
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- El Consejo Estatal de Seguridad Pública deberá instalar a los Consejos Municipales de Seguridad Pública y a los Comités de Consulta y Participación Comunitaria dentro de los noventa días posteriores a la entrada en vigor de esta Ley.
+
+DADO EN LA SALA DE SESIONES DEL PODER LEGISLATIVO.- LA PAZ, BAJA CALIFORNIA SUR, A LOS CUATRO DÍAS DEL MES DE JUNIO DEL AÑO DE MIL NOVECIENTOS NOVENTA Y SEIS.
+
+DIP. LIC. CESAR DE JESUS ORTEGA SALGADO
+
+PRESIDENTE.
+
+DIP. LIC. MARIA JUANA HERNANDEZ PAULARENA.
+
+SECRETARIA .
+
+EN CUMPLIMIENTO A LO DISPUESTO PR LA FRACCION II DEL ARTICULO 79 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y PARA LA DEBIDA PUBLICACION Y OBSERVANCIA SE EXPIDE EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS SEIS DIAS DEL MES DE JUNIO DE MIL NOVECIENTOS NOVENTA Y SEIS.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+LIC. GUILLERMO MERCADO ROMERO.
+
+SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. RAUL ANTONIO ORTEGA SALGADO.
