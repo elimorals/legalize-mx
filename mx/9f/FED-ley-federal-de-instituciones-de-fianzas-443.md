@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "2002-01-16"
+last_updated: "2003-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -77,7 +77,7 @@ En la aplicación de esta Ley, la mencionada Secretaría con la intervención qu
 
 Las fianzas y los contratos, que en relación con ellas otorguen o celebren las instituciones de fianzas, serán mercantiles para todas las partes que intervengan, ya sea como beneficiarias, solicitantes, fiadas, contrafiadoras u obligadas solidarias, excepción hecha de la garantía hipotecaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 2º. Bis.
 
@@ -99,7 +99,7 @@ Si las autoridades no hacen el requerimiento de información dentro del plazo co
 
 Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2º. Bis 1.
 
@@ -117,7 +117,7 @@ Tratándose de actos distintos a los señalados anteriormente, las notificacione
 
 Salvo cuando exista impedimento jurídico para hacerlo, la resolución administrativa definitiva deberá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hayan adjuntado al promover el trámite, el comprobante de pago del servicio respectivo.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2º. Bis 2.
 
@@ -977,9 +977,9 @@ XIII.- Otorgar préstamos o créditos;
 
 XIV.- Recibir títulos en descuento y redescuento a instituciones de crédito, organizaciones auxiliares del crédito y a fondos permanentes de fomento económico destinados en fideicomiso por el Gobierno Federal en instituciones de crédito;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-XV.- Actuar como institución fiduciaria sólo en el caso de fideicomisos de garantía con la facultad de administrar los bienes fideicomitidos en los mismos, los cuales podrán o no estar relacionados con las pólizas de fianzas que expidan, como excepción a lo dispuesto por el artículo 385 de la Ley General de Títulos y Operaciones de Crédito.
+XV.- Actuar como institución fiduciaria sólo en el caso de fideicomisos de garantía con la facultad de administrar los bienes fideicomitidos en los mismos, los cuales podrán o no estar relacionados con las pólizas de fianzas que expidan.
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2002)</small>
 
@@ -991,15 +991,25 @@ Las instituciones de fianzas, en su carácter de fiduciarias, podrán ser fideic
 
 La operación de fideicomiso se sujetará a lo dispuesto en esta Ley y a las siguientes bases:
 
-a).- En el desempeño de los fideicomisos, las instituciones de fianzas deberán apegarse a las sanas prácticas fiduciarias de las instituciones de crédito. La Secretaría de Hacienda y Crédito Público podrá, en caso de considerarlo necesario, emitir mediante reglas de carácter general, oyendo a la Comisión Nacional de Seguros y Fianzas y al Banco de México, las características o limitaciones a que deberán someterse tales operaciones, a fin de propiciar la seguridad de las mismas y la adecuada atención de los servicios correspondientes;
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-b).- Las instituciones de fianzas podrán recibir en fideicomiso, cantidades adicionales de efectivo, valores, bienes muebles e inmuebles y derechos, según el requerimiento del fideicomitente, o adquirir ese tipo de activos con los recursos fideicomitidos;
+a).- En el desempeño de los fideicomisos, las instituciones de fianzas deberán apegarse a las sanas prácticas fiduciarias. El Banco de México podrá, en caso de considerarlo necesario, emitir mediante reglas de carácter general las características a que deberán ajustarse tales operaciones.
+
+La Secretaría de Hacienda y Crédito Público a propuesta de la Comisión Nacional de Seguros y Fianzas y oyendo la opinión del Banco de México, podrá ordenar a las instituciones de fianzas la suspensión de las operaciones que infrinjan las reglas que en su caso emita el Banco de México;
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+b).- Las instituciones de fianzas podrán recibir en fideicomiso cantidades adicionales de efectivo, valores, bienes muebles e inmuebles y derechos, según el requerimiento del fideicomitente, o adquirir ese tipo de activos con los recursos fideicomitidos, siempre que tales operaciones se realicen exclusivamente en cumplimiento del objeto del fideicomiso;
 
 c).- Deberán abrir contabilidades especiales por cada contrato, debiendo registrar en las mismas y en su propia contabilidad, el dinero que les confíen y los demás bienes, valores o derechos con los que se incrementen los recursos originalmente afectos al fideicomiso, así como los incrementos o disminuciones correspondientes, por los productos o gastos respectivos. Invariablemente deberán coincidir los saldos de las cuentas controladas de la contabilidad de la institución de fianzas con las contabilidades especiales.
 
 En ningún caso los recursos, bienes o derechos señalados estarán afectos a otras responsabilidades que las derivadas del fideicomiso mismo o las que contra ellos correspondan a terceros, de acuerdo con la Ley;
 
-d).- Las instituciones de fianzas deberán desempeñar su cometido y ejercitarán sus facultades por medio de delegados fiduciarios. Las instituciones responderán civilmente por los daños y perjuicios que se causen por la falta de cumplimiento en las condiciones o términos señalados en el fideicomiso.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+d).- Las instituciones de fianzas deberán desempeñar su cometido y ejercitarán sus facultades por medio de delegados fiduciarios, quienes deberán satisfacer los requisitos de calidad técnica, honorabilidad e historial crediticio satisfactorio, considerándose que carecen de honorabilidad si se ubican en uno de los supuestos previstos en el inciso d) del numeral 3 de la fracción VIII Bis del artículo 15 de esta Ley.
+
+Las instituciones responderán civilmente por los daños y perjuicios que se causen por falta de cumplimiento en las condiciones o términos señalados en el fideicomiso.
 
 En el acto constitutivo del fideicomiso o en sus reformas, se podrá prever la formación de un comité técnico, dar reglas para su funcionamiento y fijar facultades. Cuando la institución obre ajustándose a los dictámenes o acuerdos de este comité, estará libre de toda responsabilidad;
 
@@ -1007,7 +1017,9 @@ e).- Cuando la institución de fianzas al ser requerida, no rinda las cuentas de
 
 Las acciones para pedir cuentas, para exigir la responsabilidad de la institución fiduciaria y para pedir su remoción, corresponderán al fideicomisario o a sus representantes legales y a falta de éstos al Ministerio Público, sin perjuicio de poder el fideicomitente reservarse en el acto constitutivo del fideicomiso o en las modificaciones del mismo, el derecho para ejercitar esta acción.
 
-En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo 350 de la Ley General de Títulos y Operaciones de Crédito;
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo 385 de la Ley General de Títulos y Operaciones de Crédito;
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -1016,6 +1028,10 @@ f).- Los recursos recibidos por las instituciones de fianzas con cargo a contrat
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 g).- La Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional de Seguros y Fianzas y del Banco de México, determinará mediante reglas de carácter general el monto máximo de recursos que una institución de fianzas podrá recibir en fideicomiso, considerando su capital pagado, su requerimiento mínimo de capital base de operaciones y cualquier otro elemento que apoye su solvencia.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+h).- Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo declare de interés público a través de la Secretaría de Hacienda y Crédito Público, no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
 
 En lo no previsto por lo anterior, a las instituciones de fianzas fiduciarias les será aplicable lo establecido en la Ley General de Títulos y Operaciones de Crédito;
 
@@ -1581,6 +1597,30 @@ V.- Operar con sus propias acciones, salvo los casos previstos en la Ley del Mer
 
 VI.- Entregar a los agentes directamente o a través de interpósita persona, pólizas o contratos que establezcan obligaciones para la institución sin requisitar, firmados previamente por funcionario, representante legal o persona autorizada para tal efecto, salvo lo establecido en el artículo 86 Bis-1 de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+VI Bis.- En las operaciones a que se refiere la fracción XV del artículo 16 de esta Ley:
+
+a) Celebrar operaciones con la propia institución en el cumplimiento de fideicomisos, salvo aquéllas autorizadas por el Banco de México mediante disposiciones de carácter general, cuando no impliquen conflicto de intereses;
+
+b) Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+
+Si al término del fideicomiso, los derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con los demás bienes, derechos o valores que constituyan el patrimonio fiduciario al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
+
+En los contratos de fideicomiso se insertará en forma notoria lo previsto en este inciso y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido bienes, derechos o valores para su afectación fiduciaria;
+
+c) Actuar como fiduciarias en fideicomisos a través de los cuales se capten directa o indirectamente recursos del público, mediante cualquier acto causante de pasivo directo o contingente;
+
+d) Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, de los previstos en la Ley Federal de Protección al Consumidor;
+
+e) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años, salvo los casos de fideicomisos de garantía;
+
+f) Actuar en fideicomisos a través de los que se evadan limitaciones o prohibiciones contenidas en las leyes financieras, y
+
+g) Actuar como fiduciarias en los fideicomisos a que se refiere el segundo párrafo del artículo 88 de la Ley de Sociedades de Inversión.
+
+Cualquier pacto contrario a lo dispuesto en los incisos anteriores, será nulo;
+
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 VII.- Afianzar a sus funcionarios y administradores, o aceptarlos como contrafiadores u obligados solidarios, así como otorgar pólizas en las que los mismos aparezcan como beneficiarios;
@@ -1589,7 +1629,7 @@ VII.- Afianzar a sus funcionarios y administradores, o aceptarlos como contrafia
 
 VIII.- Entrar en sociedades de cualquier clase, excepto en los casos de inversión en acciones permitidas por esta Ley, y también les está especialmente prohibido entrar en sociedades de responsabilidad ilimitada y explotar por su cuenta minas, plantas metalúrgicas, establecimientos mercantiles o industriales o fincas rústicas, sin perjuicio de la facultad de poseer bonos, obligaciones, acciones u otros títulos de dichas empresas conforme a lo previsto en esta misma Ley. La Comisión Nacional de Seguros y Fianzas podrá autorizar que continúen su explotación, cuando las reciban en adjudicación o pago de adeudos, o al ejercitar los derechos que les confieren las operaciones que celebren conforme a esta Ley, sin exceder los plazos a que se refiere la fracción IX de este artículo;
 
-VIII bis.- (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
+VIII Bis.- (DEROGADA, D.O.F. 3 DE ENERO DE 1990)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -3299,7 +3339,7 @@ VI.- Que para liberar a un deudor, otorguen créditos a una o varias personas f�
 
 > <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución de fianzas, y
+VII. Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución de fianzas, y
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -4200,3 +4240,11 @@ En tanto no se deroguen o modifiquen los reglamentos, reglas y disposiciones de 
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 A partir de la entrada en vigor del presente Decreto y de conformidad con lo establecido en la Manifestación Tercera del "Decreto de Promulgación de la Convención de la Organización de Cooperación y Desarrollo Económicos", publicado en el Diario Oficial de la Federación el 5 de julio de 1994, México extenderá los beneficios de las medidas de liberalización que el Tratado de Libre Comercio de América del Norte prevé en relación con el establecimiento de y la inversión directa en instituciones financieras domiciliadas en el territorio de algún miembro de la Organización de Cooperación y Desarrollo Económicos.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
