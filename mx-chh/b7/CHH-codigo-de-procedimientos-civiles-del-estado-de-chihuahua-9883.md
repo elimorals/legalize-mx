@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1974-10-02"
+last_updated: "1979-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -95,7 +95,7 @@ La acción a que se refiere este artículo, se da contra quien mandó construir 
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1974)</small>
 
-21.- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero de cuyo derecho depende de la subsistencia del derecho del demandado o actor. El deudor de obligación indivisible, que sea demandado por la totalidad de la prestación, puede hacer concurrir al juicio a sus codeudores, siempre y cuando el cumplimiento de la obligación no sea de tal naturaleza que sólo pueda ser satisfecha por el demandado.
+21.- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero cuyo derecho depende de la subsistencia del derecho del demandado o actor. El deudor de obligación indivisible, que sea demandado por la totalidad de la prestación, puede hacer concurrir al juicio a sus codeudores, siempre y cuando el cumplimiento de la obligación no sea de tal naturaleza que sólo pueda ser satisfecha por el demandado.
 
 22.- El tercero obligado a la evicción deberá ser citado a juicio oportunamente para que la sentencia que se dicte pueda pararle perjuicio.
 
@@ -1443,7 +1443,9 @@ Para los efectos de este artículo, dentro del concepto genérico de indicios, q
 
 396.- Hay cosa juzgada cuando la sentencia causa ejecutoria. Causan ejecutoria por ministerio de ley:
 
-I.- Las sentencias pronunciadas en juicios cuyo interés no exceda de dos mil pesos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1979)</small>
+
+I.- Las sentencias pronunciadas en juicios cuyo interés no exceda de cinco mil pesos;
 
 II.- Las sentencias de segunda instancia;
 
@@ -3015,7 +3017,9 @@ En el caso de que se haya interpuesto apelación por alguno de los interesados, 
 
 820.- El recurso de apelación ordinaria tiene por objeto el que el Tribunal de segunda instancia examine si en la resolución apelada se aplicó inexactamente la ley, si se violaron los principios reguladores de la prueba, o si se alteraron los hechos; y en vista de ello, confirme, revoque o modifique la resolución apelada.
 
-821.- Cuando el negocio sea estimable pecuniariamente, las resoluciones judiciales sólo serán apelables si el importe de aquél excede de dos mil pesos. Para los efectos de este artículo el importe del negocio se establecerá de acuerdo con lo dispuesto en el artículo 156 de este Código.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1979)</small>
+
+821.- Cuando el negocio sea estimable pecuniariamente, las resoluciones judiciales sólo serán apelables si el importe de aquél excede de cinco mil pesos. Para los efectos de este artículo el importe del negocio se establecerá de acuerdo con lo dispuesto en el artículo 156 de este Código.
 
 Tratándose de resoluciones judiciales que califiquen de ilegales las posiciones formuladas con motivo de la prueba confesional o de las preguntas en la testimonial, sólo se admitirá la apelación una vez que haya concluido el desahogo de los medios probatorios mencionados.
 
@@ -3840,3 +3844,15 @@ DE LA ADMINISTRACION DE JUSTICIA POR LOS JUZGADOS DE PAZ
 P.O. 2 DE OCTUBRE DE 1974.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 1979.
+
+PRIMERO.- Este Decreto entrará en vigor al iniciarse el décimo quinto día siguiente a la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos civiles cuya cuantía no exceda de doce mil quinientos pesos y que, en la fecha en que inicie su vigencia el presente Decreto, se encuentren en los Juzgados de Primera Instancia, continuarán bajo la jurisdicción de éstos, si ya hubiere sido emplazado el demandado o uno solo de ellos, de haber varios, en caso contrario, o bien, tratándose de asuntos promovidos entrado en vigor el presente Decreto, las demandas, con sus anexos, serán enviadas a los Jueces Menores del lugar de su residencia; en la inteligencia de que en los Distritos Judiciales Morelos y Bravos, los Juzgados Primero y Tercero Civiles turnarán los aludidos documentos al Juzgado Primero Menor Civil también del lugar de su residencia, en tanto que los Juzgados Segundo y Cuarto harán el envío al Juzgado Segundo Menor Civil.
+
+TERCERO.- Los asuntos civiles cuya cuantía no exceda de mil pesos y que, en la fecha en que inicien su vigencia estas reformas, se encuentren en los Juzgados Menores, continuarán bajo la jurisdicción de éstos, si ya hubiere sido emplazado el demandado, o uno solo de ellos de haber varios. En caso contrario enviarán las demandas, con sus anexos, al Juzgado de Paz del lugar de su residencia.
+
+CUARTO.- Los procesos penales por la infracción antisocial de robo cuya cuantía no exceda de doce mil quinientos pesos y que en la fecha en que inicien su vigencia las presentes reformas, se encuentren radicados en los Juzgados de Primera Instancia, también continuarán bajo la jurisdicción de éstos, si ya se hubiere tornado la declaración preparatoria del inculpado, o de uno solo de ellos de haber varios. En caso contrario o bien si se tratare de averiguaciones consignadas ya entrado en vigor este Decreto, el asunto será enviado a los Jueces Menores del lugar de su residencia por los Jueces ante quienes se hubiere consignado, en la inteligencia de que en los Distritos Judiciales Morelos y Bravos, los Juzgados Primero y Tercero Penal turnarán los asuntos al Juzgado Primero Menor Penal también del lugar de su residencia; mientras que los Juzgados Segundo y Cuarto harán el envío al Juzgado Segundo Menor Penal.
+
+QUINTO.- Las apelaciones ya interpuestas contra resoluciones dictadas en negocios civiles, antes de iniciarse la vigencia de este Decreto, cuando la cuantía de aquéllos exceda de dos mil pesos, pero no de cinco mil pesos serán admitidas a trámite para los efectos de su resolución.
