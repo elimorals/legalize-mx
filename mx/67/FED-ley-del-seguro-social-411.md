@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1994-07-22"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -2674,9 +2674,9 @@ I bis.- Vigilar y promover el equilibrio financiero de todos los ramos de asegur
 
 II.- Resolver sobre las operaciones del Instituto, exceptuando aquellas que por su importancia ameriten acuerdo expreso de la Asamblea General, de conformidad con lo que al respecto determinen esta Ley y el reglamento;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
 
-III.- Establecer y suprimir Delegaciones, Subdelegaciones y Oficinas para Cobros del Instituto, señalando su circunscripción territorial;
+III.- Establecer y suprimir Direcciones Regionales, Delegaciones, Subdelegaciones y Oficinas para Cobro (sic) del Instituto, señalando su circunscripción territorial;
 
 IV.- Convocar a Asamblea General ordinaria o extraordinaria;
 
@@ -2688,7 +2688,9 @@ VI.- Expedir los reglamentos que menciona la fracción VIII del artículo 240 de
 
 VII.- Conceder, rechazar y modificar pensiones, pudiendo delegar estas facultades a las dependencias competentes;
 
-VIII.- Nombrar y remover al Secretario General, a los Subdirectores, Jefes de Servicio y Delegados, en los términos de la fracción VII del artículo 257 de esta Ley;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
+
+VIII.- Nombrar y remover al Secretario General, a los Directores, Directores Regionales, Coordinadores Generales y Coordinadores así como a los Delegados, en los términos de la fracción VII del artículo 257 de esta Ley;
 
 IX.- Extender el régimen obligatorio del Seguro Social en los términos del artículo 14 de la Ley y autorizar la iniciación de servicios;
 
@@ -2708,9 +2710,15 @@ XII.- Conceder a derechohabientes del régimen, en casos excepcionales y previo 
 
 > <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
 
-XIII.- Autorizar, en la forma y términos que establezca el Reglamento relativo, a los Consejos Consultivos Delegacionales para ventilar y, en su caso, resolver el recurso de inconformidad a que se refiere el artículo 274; y
+XIII.- Autorizar, en la forma y términos que establezca el Reglamento relativo, a los Consejos Consultivos Delegacionales para ventilar y, en su caso, resolver el recurso de inconformidad a que se refiere el artículo 274; y (sic)
 
-XIV.- Las demás que señalen esta Ley y sus reglamentos.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
+
+XIV.- Conocer y resolver de oficio o a petición de los Directores Regionales, aquellos asuntos competencia de los Consejos Consultivos Regionales, que por su importancia, trascendencia o características especiales así lo ameriten, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
+
+XV.- Las demás que señalen esta Ley y sus reglamentos.
 
 ### CAPITULO IV. De la Comisión de Vigilancia
 
@@ -2766,13 +2774,45 @@ VIII.- Nombrar y remover a los demás funcionarios y trabajadores; y
 
 IX.- Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 257 BIS.- Los Consejos Consultivos Regionales tendrán las atribuciones siguientes:
+
+I.- Resolver sobre las operaciones del Instituto en la región respectiva que excedan las facultades de los Consejos Consultivos Delegacionales;
+
+II.- Conceder, rechazar y modificar prestaciones económicas diferidas, en los términos de esta Ley;
+
+III.- Autorizar la celebración de convenios relativos al pago de cuotas;
+
+IV.- Conceder a derechohabientes del régimen, en casos excepcionales y previo el estudio socioeconómico respectivo, el disfrute de prestaciones médicas y económicas previstas por esta Ley, cuando no esté plenamente cumplido algún requisito legal y el otorgamiento del beneficio sea evidentemente justo o equitativo;
+
+V.- Opinar en todo aquello en que el Director Regional o cualesquiera de los órganos del Instituto en este nivel sometan a su consideración, y
+
+VI.- Las demás que señalen esta Ley, sus reglamentos, el Consejo Técnico y la Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 258 BIS.- Son atribuciones de los Directores Regionales en su ámbito de circunscripción territorial las siguientes:
+
+I.- Convocar y presidir las sesiones ordinarias o extraordinarias, del Consejo Consultivo Regional;
+
+II.- Autorizar las actas de las sesiones celebradas por el Consejo Consultivo Regional y vetar los acuerdos de éste cuando no observen lo dispuesto por la Ley del Seguro Social, sus reglamentos y demás disposiciones legales, o no se ajus t en (sic) a los criterios del H. Consejo Técnico o a las políticas institucionales, en cuyo caso la resolución definitiva será dictada por el propio H. Consejo Técnico;
+
+III.- Ejecutar y vigilar el cumplimiento de los acuerdos y resoluciones emitidos por el H. Consejo Técnico, la Dirección General y los Consejos Consultivos Regionales, y
+
+IV.- Las demás que le señalen esta Ley, sus reglamentos y demás disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 258 TER.- Los Consejos Consultivos Regionales se integrarán en la forma que determine el Consejo Técnico, debiendo estar representados en los mismos todas las Delegaciones que correspondan a la región e invariablemente deberán mantener la proporcionalidad entre las representaciones de los trabajadores, de los patrones y del Gobierno. Dichos consejos sesionarán bimestralmente en forma ordinaria y en forma extraordinaria en cualquier tiempo, cuando así se requiera.
+
 ###### ARTICULO 258.
 
 El Director General tendrá derecho de veto sobre las resoluciones del Consejo Técnico, en los casos que fije el reglamento. El efecto del veto será suspender la aplicación de la resolución del Consejo, hasta que resuelva en definitiva la Asamblea General.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1994)</small>
 
-ARTICULO 258 A.- Los Consejos Consultivos Delegacionales estarán integrados por el Delegado que fungirá como presidente del mismo; un representante del gobierno de la entidad federativa sede de la Delegación; dos del sector obrero y dos del sector patronal, con sus respectivos suplentes. En el caso de las Delegaciones del Valle de México la representación del Gobierno se integrará con el titular de la Delegación respectiva. El Consejo Técnico podrá ampliar la representación de los sectores cuando lo considere conveniente.
+ARTICULO 258 A.- Los Consejos Consultivos Delegacionales estarán integrados por el Delegado que fungirá como Presidente del mismo; un Representante del Gobierno de la Entidad Federativa sede de la Delegación; dos del sector obrero y dos del sector patronal, con sus respectivos suplentes. En el caso de las Delegaciones del Distrito Federal la Representación del Gobierno se integrará con el titular de la Delegación respectiva. El Consejo Técnico podrá ampliar la representación de los sectores cuando lo considere conveniente.
 
 Los integrantes del Consejo Consultivo Delegacional representativos de los sectores permanecerán en su cargo seis años. Las organizaciones que los hubiesen designado, tendrán derecho a removerlos libremente.
 
@@ -3529,3 +3569,11 @@ SEPTIMO.- Dentro de los cuarenta días siguientes a la fecha en que la Junta de 
 OCTAVO.- La Secretaría de Hacienda y Crédito Público dispondrá del término de ciento ochenta días a partir de la vigencia de este decreto, para que en el orden administrativo establezca lo necesario para el funcionamiento de la Comisión Nacional del Sistema de Ahorro para el Retiro debiendo proveer los recursos humanos, materiales y presupuestales que se requieran. El Capitulo V "De la Protección de los Intereses de los Trabajadores Cuentahabientes" de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, entrará en vigor a los doscientos setenta días de la entrada en vigor de este decreto.
 
 NOVENO.- El Reglamento Interior de la Comisión, deberá expedirse en un plazo no mayor de ciento ochenta días, contado a partir del día en que quede legalmente instalada la Junta de Gobierno y deberá ser publicado en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones a las estructuras del Instituto Mexicano del Seguro Social que por virtud del presente Decreto llegaran a realizarse, se harán de conformidad con los montos autorizados a dicho Instituto en el correspondiente Presupuesto de Egresos de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a la observancia del presente Decreto.
