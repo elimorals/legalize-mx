@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-18282"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-30"
-last_updated: "2001-11-26"
+last_updated: "2003-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2003.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2000.
 
@@ -237,13 +237,13 @@ Los partidos políticos podrán registrar simultáneamente en el mismo proceso e
 
 ### CAPITULO I. De los Sistemas Electorales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84 PUBLICADO EN P.O. 17 DE MARZO DE 2003, SE DECLARA LA INVALIDEZ DE LA REFORMA AL PRIMER PARRAFO DEL PRESENTE ARTICULO, APROBADA POR DECRETO No. 221 Y PUBLICADA EN P.O. 26 DE NOVIEMBRE DE 2001, POR LO CUAL SE PRESENTA LA REDACCION QUE TENIA DICHO PARRAFO ANTES DE LA CITADA REFORMA DE 26 DE NOVIEMBRE DE 2001.</small>
 
 ###### ARTICULO 16.
 
-El Poder Legislativo se deposita en el Congreso del Estado, el cual estará integrado por veintitrés Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán trece al Municipio de Aguascalientes y, al menos uno a cada uno de los municipios restantes, y hasta por cuatro Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado. El Congreso del Estado se renovará en su totalidad cada tres años.
+El Poder Legislativo se deposita en el Congreso del Estado, el cual se integra con dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y, uno por cada uno de los Municipios restantes, y hasta nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado. El Congreso del Estado se renovará en su totalidad cada tres años.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
 El Instituto Estatal Electoral deberá revisar y en su caso adecuar la demarcación territorial de los distritos electorales uninomimales, con base en los criterios previstos en el Artículo 17 de la Constitución Política del Estado de Aguascalientes. El Instituto contará con un término máximo de un año, contado a partir de que se den a conocer por los medios oficiales los resultados del Censo General de Población, para realizar la revisión, adecuación o instrumentación a que se refiere este párrafo.
 
@@ -2621,4 +2621,10 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo contenido en el
 
 TERCERO.- Para efectos de homologar las fechas de las elecciones estatales y municipales con los procesos electorales federales del año 2006, el Gobernador del Estado de Aguascalientes, los Diputados integrantes de la LIX Legislatura del H. Congreso del Estado de Aguascalientes y los Ayuntamientos del Estado de Aguascalientes que sean electos en el año 2004, durará en su cargo cinco años, dos años y dos años, respectivamente por única vez.
 
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO DEL DECRETO No. 84 PUBLICADO EN P.O. 17 DE MARZO DE 2003, SE DECLARA LA INSUBSISTENCIA DEL ARTICULO CUARTO TRANSITORIO DEL DECRETO No. 221, PUBLICADO EN P.O. 26 DE NOVIEMBRE DE 2001.</small>
+
 CUARTO.- El Instituto Estatal Electoral deberá adecuar la demarcación territorial de los distritos electorales uninominales prevista en esta reforma, en un plazo no mayor de un año contado a partir de que entre en vigor el presente Decreto.
+
+P.O. 17 DE MARZO DE 2003.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
