@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-patrimonio-historico-y-cultural-del-estado-11776"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-26"
-last_updated: "1997-11-26"
+last_updated: "2002-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PATRIMONIO HISTORICO Y CULTURAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DEL 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 1997.
 
@@ -67,9 +67,11 @@ VII.- Los Reglamentos Municipales, en sus respectivos ámbitos territoriales.
 
 Se declaran de utilidad pública e interés social la investigación, identificación, rescate, protección, conservación, consolidación, restauración, mejoramiento, registro y enriquecimiento del patrimonio histórico y cultural del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 4o.
 
-El patrimonio histórico y cultural del Estado estará constituído por los monumentos que lo sean por ministerio de ley o por declaratoria, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos, e Históricos y su Reglamento; y por aquellos muebles e inmuebles que posean valor histórico y cultural relevante para el Estado y que sean adscritos en los términos del presente ordenamiento, así como el patrimonio cultural intangible del Estado.
+El patrimonio histórico y cultural del Estado estará constituído por los bienes muebles e inmuebles y zonas protegidas que determine expresamente esta Ley y los que sean declarados como tales, de oficio o a petición de parte en los términos que para tal efecto dispone este ordenamiento.
 
 ###### ARTICULO 5o.
 
@@ -233,7 +235,9 @@ Los Patronatos se organizarán y funcionarán conforme al Reglamento de esta Ley
 
 Los Comités Técnicos de Protección, Consolidación y Conservación, serán órganos auxiliares consultivos y estarán facultados para fundamentar y rendir opinión sobre:
 
-I.- La expedición de declaratorias de adscripción o de zonas protegidas;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DEL 2002)</small>
+
+I.- La expedición de declaratorias de adscripción o de zonas protegidas, mediante un dictamen previamente formulado.
 
 II.- La necesidad de reubicación total o parcial de bienes adscritos al patrimonio cultural o que se encuentren en zonas protegidas;
 
@@ -258,6 +262,10 @@ DE LAS DECLARATORIAS DE ZONAS PROTEGIDAS Y DE BIENES MUEBLES E INMUEBLES.
 ###### ARTICULO 21.
 
 Para la expedición de declaratorias de zonas protegidas o de bienes muebles o inmuebles, se considerarán los establecidos, construídos o elaborados a partir de la fundación del Estado y que contengan valores que impliquen testimonio histórico o destacadas cualidades arquitectónicas, urbanísticas, artísticas o culturales para el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DEL 2002)</small>
+
+La expedición de declaratorias se sustentará en el dictamen que para tal efecto emitan previamente los Comités Técnicos respectivos, en cuyo contenido habrán de establecer medularmente si la zona o bien objeto de declaratoria, por sus características, no encuadra o se encuentra inscrito ya dentro de los bienes y zonas regulados por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y su Reglamento, con el objeto de no trastocar la esfera de competencia del orden federal.
 
 ###### ARTICULO 22.
 
@@ -477,7 +485,9 @@ Las sanciones administrativas podrán consistir en:
 
 I.- Clausura temporal o definitiva, total o parcial, de las instalaciones, construcciones, obras o servicios;
 
-II.- Multa equivalente de diez y hasta cien días de salario mínimo vigente en la capital del Estado, o hasta el 10% del valor comercial de los inmuebles;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DEL 2002)</small>
+
+II.- Multa equivalente de 50 y hasta 200 días de salario mínimo vigente en la Capital del Estado, o hasta el 20% del valor comercial de los muebles e inmuebles;
 
 III.- Suspensión de las obras que se ejecuten sin autorización o en contravención a lo dispuesto por esta Ley;
 
@@ -499,9 +509,13 @@ I.- A quien dañe o destruya bienes declarados patrimonio histórico y cultural 
 
 II.- A quien efectúe cualquier acto traslativo de dominio de un bien adscrito al patrimonio histórico y cultural, en los términos del Artículo 47 de esta Ley, sin manifestarlos;
 
-III.- A los propietarios de inmuebles adscritos al patrimonio histórico y cultural que por dolo, mala fe o negligencia, propicien la destrucción o deterioro del bien de su propiedad; y,
+III.- A los propietarios de inmuebles adscritos al patrimonio histórico y cultural que por dolo, mala fe o negligencia, propicien la destrucción o deterioro del bien de su propiedad; y (sic),
 
-IV.- Al perito o peritos de obras que realicen trabajos en bienes adscritos al patrimonio histórico y cultural sin contar con la previa autorización, de acuerdo a lo previsto en el presente ordenamiento.
+IV.- Al perito o peritos de obras que realicen trabajos en bienes adscritos al patrimonio histórico y cultural sin contar con la previa autorización, de acuerdo a lo previsto en el presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DEL 2002)</small>
+
+V.- Al que por cualquier medio pretenda sacar o saque de Tamaulipas de manera ilegal un bien mueble adscrito al patrimonio histórico y cultural del Estado.
 
 ###### ARTICULO 58.
 
@@ -565,4 +579,10 @@ ATENTAMENTE.
 
 "SUFRAGIO EFECTIVO. NO REELECCION."
 
-El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- EI Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE OCTUBRE DEL 2002
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
