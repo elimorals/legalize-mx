@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1943-11-10"
+last_updated: "1949-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1949.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -465,19 +465,19 @@ IV.- No pertenecer al estado eclesiástico, no ser ministro de algún culto, ni 
 
 V.- No estar en servicio activo, en caso de pertenecer al ejército, cuando menos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1949)</small>
 
 ###### ARTICULO 43.
 
-El Gobernador entrará al ejercicio de su encargo, previa protesta de Ley, a primera hora del día primero de diciembre y durará en él cuatro años.
+El Gobernador entrará al ejercicio de su encargo, previa protesta de Ley, a primera hora del día primero de diciembre y durará en él seis años.
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 Nunca podrán ser electos para el período inmediato:
 
 a).- El Gobernador Substituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
 
-c) (sic).- El Gobernador Interino, el Provisional o el ciudadano que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+b).- El Gobernador Interino, el provisional o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años (sic) período.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
@@ -1043,11 +1043,11 @@ DECRETO 103/8 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL EST
 
 P.O. 28 DE NOVIEMBRE DE 1934.
 
-DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+DECRETO 104/9 QUE REFORMA ART. 43 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+2º.- Este Decreto empezará a regir desee la fecha de su publicación en el Periódico Oficial.
 
 P.O. 25 DE DICIEMBRE DE 1935.
 
@@ -1080,3 +1080,13 @@ P.O. 10 DE NOVIEMBRE DE 1943.
 DECRETO No. 4, QUE REFORMA EL ARTICULO 2 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 Este decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 1949.
+
+###### Artículo 1º.
+
+Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
+
+###### Artículo 2º.
+
+Este decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
