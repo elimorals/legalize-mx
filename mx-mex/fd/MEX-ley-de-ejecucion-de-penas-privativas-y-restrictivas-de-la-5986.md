@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5986"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2002-08-06"
+last_updated: "2004-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 26 de diciembre de 1985.
 
@@ -407,7 +407,7 @@ V. Ocupacional, que comprenderá el grado inicial de aptitud para el trabajo, as
 
 VI. De trabajo social, que contendrá datos sobre la situación sociocriminológica del interno, así como del trabajo del mismo y las orientaciones para conducirse en el lugar a donde vaya a radicar.
 
-VII. Preliberacional, que contendrá el control de presentaciones del interno en el centro así como la modalidad del tratamiento..
+VII. Preliberacional, que contendrá el control de presentaciones del interno en el centro así como la modalidad del tratamiento.
 
 VIII. Jurídica, que constará de boleta de detención, auto constitucional, asignación antropométrica, ficha dactiloscópica, sentencias de primera, segunda instancia y la de amparo, en su caso, dictadas por Tribunales competentes, así como la reseña penológica.
 
@@ -783,9 +783,11 @@ IV. Traslado a la Institución Abierta.
 
 V. Régimen de prelibertad.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2004)</small>
+
 ###### Artículo 106.
 
-La prelibertad se podrá otorgar desde un año antes a la fecha en que el interno esté en tiempo de obtener su libertad condicional o absoluta, en correlación con el beneficio de la remisión parcial de la pena.
+La prelibertad se podrá otorgar desde dos años antes a la fecha en que el interno esté en tiempo de obtener su libertad condicional o absoluta, en correlación con el beneficio de la remisión parcial de la pena.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -1000,3 +1002,9 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+P.O. 1 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
