@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1991-07-18"
+last_updated: "1993-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -158,11 +158,11 @@ d).- Los ríos navegables, cuando conduzcan a puertos de navegación marítima;
 
 e).- Las playas marítimas, entendiéndose por tales las partes de tierra que por virtud de la marea cubre y descubre el agua, desde los límites de mayor reflujo hasta los límites de mayor flujo anuales;
 
-f).- Las porciones de la zona marítimo terrestre que formen parte de los recintos portuarios;
+f).- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
-g).- Los puertos, bahías, radas y ensenadas;
+g).- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
-h).- Los diques, muelles, escolleras, malecones y demás obras e instalaciones de los puertos, cuando sean de uso público;
+h).- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 i).- Los recursos y productos de los bienes enumerados en los incisos anteriores; y
 
@@ -182,7 +182,7 @@ e).- Los terrenos ganados al mar o a los esteros.
 
 III.- Son vías generales de comunicación por agua los mares territoriales y las demás aguas de jurisdicción federal, cuando sean aptas para la navegación. Comprenden las obras e instalaciones que constituyan las terminales marítimas o fluviales y las áreas necesarias para la prestación de los servicios portuarios y marítimos; y
 
-IV.- Se entiende por recintos portuarios las áreas sujetas al régimen de los bienes del dominio marítimo, destinadas al establecimiento de las instalaciones y la prestación de los servicios a que se refiere esta Ley.
+IV.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 10.
 
@@ -190,7 +190,7 @@ Los bienes del dominio marítimo constituyen propiedad nacional, inalienable e i
 
 ###### ARTICULO 11.
 
-Las construcciones e instalaciones que realicen los particulares en relación con los permisos, autorizaciones o concesiones correspondientes, se considerarán de propiedad privada durante la vigencia de tales permisos, autorizaciones o concesiones. Al terminar dicha vigencia, los indicados bienes pasarán al dominio marítimo nacional.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
@@ -456,75 +456,17 @@ e).- De ocupación eventual de la zona para varar embarcaciones; y
 
 f).- Los demás que señalen las disposiciones sobre la materia.
 
-> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
-
 ###### ARTICULO 14-H.
 
-Son servicios portuarios en las construcciones e instalaciones del puerto, los siguientes;
-
-a).- De limpieza;
-
-b).- De vigilancia del sistema contra incendio;
-
-c).- De cobertizos y defensas contra la intemperie;
-
-d).- De almacenes, electricidad y agua;
-
-e).- De conservación y mantenimiento; y
-
-f).- Los demás que señalen las disposiciones sobre la materia.
-
-Los servicios mencionados se sujetarán a las disposiciones siguientes:
-
-I.- El de limpieza del recinto portuario, tendrá por objeto eliminar los desechos ocasionados por los usuarios, concesionarios y permisionarios; y corresponde efectuarlo a éstos, o en su defecto a la autoridad marítima, la cual formulará en el segundo caso, las liquidaciones respectivas.
-
-II.- El de vigilancia del sistema contra incendio, comprende la revisión periódica, por la autoridad marítima, de los dispositivos y equipos para extinción de cualquier siniestro de este tipo.
-
-La propia autoridad proporcionará el servicio de bomberos para el recinto portuario; y
-
-III.- El de cobertizos y defensas contra la intemperie, podrá prestarse, previa solicitud de los usuarios, por los concesionarios o permisionarios respectivos, o en su defecto, por la autoridad marítima la que podrá proporcionar los de empolinamiento, resguardo con tela plástica y conexos, mediante el pago de las liquidaciones correspondientes.
-
-La Autoridad marítima tendrá a su cargo la intervención, promoción y vigilancia respecto de los servicios de almacenes, electricidad y agua, en los recintos portuarios.
-
-> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 14-I.
 
-Son servicios portuarios para el manejo de los cargamentos, las maniobras a que se refiere el artículo 272 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 14-J.
 
-Son servicios portuarios para atender el aprovisionamiento del buque, los siguientes:
-
-a).- Avituallamiento
-
-b).- Suministro de agua potable y vapor;
-
-c).- Combustibles y lubricantes;
-
-d).- Comunicación telefónica a bordo y de electricidad a bordo y en las áreas de maniobras, y
-
-e).- Servicio de grúas y aparejos.
-
-Los servicios mencionados se someten a las siguientes disposiciones:
-
-I.- El avituallamiento de las embarcaciones corresponde a la empresa naviera; pero el capitán del barco o patrón de la embarcación, en su caso, podrá tomar las medidas convenientes para conservar el buque bien provisto y pertrechado.
-
-El servicio público de avituallamiento de barcos, requerirá permiso de la Secretaría de Marina y se proporcionará únicamente en los lugares que ella determine previamente.
-
-II.- Los de suministro de agua potable y vapor a las embarcaciones, se proporcionarán por la autoridad u organismo correspondiente; por los titulares de concesiones o permisos otorgados por la Secretaría de Marina, y en su caso, por la autoridad marítima, de acuerdo con las cuotas que aprueben las Dependencias competentes.
-
-III.- El de combustible y lubricantes para las embarcaciones se proporcionará en los lugares asignados por la Secretaría de Marina a Petróleos Mexicanos, o por distribuidores de dicho organismo, mediante concesión del área respectiva otorgada por la propia Secretaría.
-
-IV.- Los de comunicación telefónica a bordo y el de suministro de electricidad a las embarcaciones y a las áreas de maniobras que proporcione la autoridad marítima, se prestarán a solicitud de los usuarios y mediante el pago de los derechos o cuotas correspondientes.
-
-V.- Las reparaciones de buques en las áreas de atraque o de fondeo sólo podrán efectuarse en el lugar y dentro del plazo que para ello señale la autoridad marítima.
-
-VI.- Los buques averiados y aquellos que no realicen operaciones de carga o descarga, deberán desalojar las instalaciones de atraque, cuando causen trastornos a la operación del puerto, a juicio de la autoridad marítima.
-
-VII.- El servicio de grúas y aparejos, requerirá la concesión o permiso de la Secretaría de Marina, según sea el caso.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 # LIBRO SEGUNDO
 
@@ -552,17 +494,17 @@ III.- Por los capitanes de buques nacionales, en los términos previstos por est
 
 Corresponde al Ejecutivo Federal:
 
-I. Habilitar toda clase de puertos y designar su ubicación.
+I. (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
-II.- Determinar las obras marítimas y portuarias.
+II.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
-III.- Determinar las obras marítimas y portuarias que deban construirse para uso público.
+III.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
-IV.- Autorizar las obras marítimas y portuarias que puedan construirse para servicio particular.
+IV.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 V.- Autorizar las construcciones e instalaciones de obras y señales marítimas, públicas y particulares.
 
-VI.- Autorizar la instalación de astilleros, diques y varaderos.
+VI.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 VII.- Autorizar e inspeccionar las construcciones de buques.
 
@@ -576,9 +518,9 @@ I.- La elaboración de proyectos y la construcción, modificación, reconstrucci
 
 II.- La iniciación, recepción, trámite y dictamen de promociones, realización de estudios, proposición de planes y programas, señalamiento de necesidades y regulación para el establecimiento, construcción, modificación, implantación, administración, supresión y operación;
 
-III.- Lo relativo a puertos, astilleros, diques, varaderos, talleres de reparaciones navales y los servicios conexos y auxiliares correspondientes;
+III.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
-IV.- Las maniobras portuarias;
+IV.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 V.- Intervenir en las tarifas que fije o apruebe la Secretaría de Comunicaciones y Transportes, en materia de servicios marítimos y portuarios, así como de maniobras portuarias;
 
@@ -586,7 +528,7 @@ VI.- Otorgar las concesiones o permisos a que se refiere la presente Ley;
 
 VII.- Introducir en las condiciones conforme a las cuales se presten los servicios, todas las modalidades que dicte el interés de los mismos;
 
-VIII.- Inspeccionar las construcciones, instalaciones y servicios, en relación con los bienes del dominio marítimo y los recintos portuarios;
+VIII.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 IX.- Imponer las sanciones que correspondan en materia de su competencia;
 
@@ -656,7 +598,7 @@ El reglamento determinará los requisitos y la capacidad técnica que deberán l
 
 ###### ARTICULO 27.
 
-Las autoridades fiscales y sanitarias, o cualesquiera otras que deban ejercer sus funciones dentro de los puertos o zonas sometidas a la jurisdicción marítima, deberán coordinarse con la autoridad marítima.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 28.
 
@@ -686,13 +628,9 @@ SECCION A:
 
 De su régimen y operación
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
-
 ###### ARTICULO 33.
 
-El Ejecutivo Federal, en los Decretos respectivos, determinará el establecimiento de los puertos, fijará su ubicación geográfica, su naturaleza y las zonas, así como el recinto que corresponda; señalará las obras e instalaciones públicas que deban considerarse incorporadas a los mismos o afectas a su funcionamiento.
-
-Los lugares de las costas, de las riberas de los ríos y de lagos y lagunas, que no hayan sido declarados puertos o cuando éstos se encuentren en construcción, se considerarán como puertos, para la aplicación de las disposiciones de esta Ley, sobre vigilancia, policía y accidentes marítimos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 34.
 
@@ -702,7 +640,7 @@ Las autorizaciones para estos tráficos podrán ser negadas por la Secretaría d
 
 ###### ARTICULO 35.
 
-Cualquiera que sea la clasificación y naturaleza de los puertos mexicanos, estarán sujetos a las disposiciones de orden general que dicte la autoridad marítima.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 36.
 
@@ -764,25 +702,19 @@ Las disposiciones sobre prioridades, son de interés público y no podrán modif
 
 ###### ARTICULO 43.
 
-Las administraciones portuarias no responderán por daños causados a las mercancías por su manejo durante su permanencia en puerto, ni por cualquiera otra causa, a menos que haya culpa directa de la administración o de sus funcionarios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 44.
 
-Por su objeto, instalaciones y servicios, los puertos pueden ser de altura, de cabotaje, de pesca o deportivos.
-
-Por su régimen de funcionamiento, los puertos pueden ser administración estatal o de administración descentralizada, en los términos y con las limitaciones que establece esta ley.
-
-> <small>(REFORMADO, D.O.F. 18 DE JULIO DE 1991)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 45.
 
-Los particulares mediante concesión otorgada por la Secretaría de Comunicaciones y Transportes, podrán construir y explotar obras de atraque e instalaciones de administración privada en los puertos. Las concesiones deberán incluir entre otras condiciones, las relativas a los programas de inversión, de desarrollo, de expansión, de calidad de servicio y aquellas bajo las cuales se llevará a cabo la construcción y explotación de dichas obras incluyendo, de ser el caso, la prestación de servicios portuarios y marítimos, públicos o a terceros mediante contrato.
-
-En todo caso, las autoridades competentes ejercerán sus funciones en el área concesionada conforme a la Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 46.
 
-Las reglas de administración y de operación de cada puerto serán acordes con su régimen jurídico. Las tarifas o precios de los servicios portuarios se fijarán considerando la categoría del puerto y la importancia de su tráfico.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 SECCION B:
 
@@ -790,61 +722,29 @@ De los puertos de administración estatal
 
 ###### ARTICULO 47.
 
-Los puertos de administración estatal serán operados directamente por la Secretaría de Marina. Dicha operación comprenderá las obras, instalaciones y servicios portuarios.
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 48.
 
-La administración portuaria estará encomendada a una Superintendencia de la cual dependerá la Capitanía de puerto, en las cuestiones relativas a su operación y administración, o en su caso a cargo de la segunda, según lo determine el Ejecutivo Federal, por conducto de la Secretaría de Marina.
-
-No es compatible el desempeño de dichas funciones con el ejercicio de actividades particulares relacionadas con la navegación y el tráfico marítimos.
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 49.
 
-Los funcionarios y empleados administrativos de la Secretaría de Marina que no dependan de la administración portuaria colaborarán con ésta en el desempeño de sus funciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 #### SECCION C:. De los puertos de administración descentralizada
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1981)</small>
-
 ###### ARTICULO 50.
 
-La administración descentralizada a que se refiere el segundo párrafo del artículo 44, se organizará y funcionará de acuerdo a los reglamentos que expida el Ejecutivo Federal, conforme a las siguientes bases:
-
-I.- Será declarada mediante Decreto del Presidente de la República.
-
-II.- Se efectuará a través de organismos públicos descentralizados que tendrán personalidad jurídica y patrimonio propios.
-
-III.- Serán autoridades del organismo público descentralizado de cada puerto:
-
-A).- El consejo de administración.
-
-B).- El director general.
-
-C).- El comisario o el consejo de vigilancia.
-
-Los consejos de administración se integrarán con representantes de Secretarías y departamentos de Estado que tengan competencia en las actividades portuarias, industriales y comerciales, así como de los Gobiernos de los Estados y Municipios en que se localice el puerto.
-
-IV.- Serán facultades de los organismos descentralizados de los puertos:
-
-A).- Administrar las instalaciones portuarias y sus recursos financieros y humanos.
-
-B).- Prestar los servicios portuarios a que se refiere esta Ley, por sí o a través de terceros de conformidad con las autorizaciones que al respecto dicte la Secretaría de Comunicaciones y Transportes.
-
-V.- El Ejecutivo Federal expedirá los reglamentos conforme a los cuales se administrarán y operarán los puertos a que alude este Artículo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 51.
 
-La entidad descentralizada que deba administrar y operar un puerto, reunirá los requisitos que señale la ley o el decreto respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 52.
 
-No podrán ser directores o miembros de los organismos de administración y vigilancia de un puerto descentralizado, los funcionarios de elección popular en ejercicio o los militares o miembros de la Armada en servicio activo.
-
-Tampoco es compatible el desempeño de dichos cargos con el ejercicio de actividades particulares en relación con la navegación y el tráfico marítimo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ### CAPITULO III. De las normas generales a que está sujeta la navegación marítima
 
@@ -2202,25 +2102,17 @@ Los gastos de liquidación tendrán también el carácter de avería gruesa y su
 
 ## TITULO UNICO. De las maniobras en los puertos
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
-
 ###### ARTICULO 272.
 
-Las maniobras de carga, descarga, alijo, almacenaje, transbordo, estiba, desestiba, acarreo y en general las que auxilien y complementen el comercio marítimo y el transporte por agua, dentro de los recintos portuarios y en las zonas bajo jurisdicción federal sometidas a la autoridad marítima, son servicios portuarios conexos y su prestación requiere permiso de la Secretaría de Marina, la cual los expedirá, según corresponda, para maniobras de servicio público o de servicio particular.
-
-Tendrán preferencia para la obtención de los citados permisos, las empresas cuyo objeto social sea la prestación de servicios portuarios; los armadores y navieros, consignatarios de buques, agentes aduanales y en general quienes realicen actividades que requieran de estos servicios.
-
-Las relaciones entre permisionarios y sus trabajadores se regirán por las disposiciones de la Ley Federal del Trabajo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 273.
 
-El pago de las maniobras portuarias a que se hace referencia el artículo anterior, se sujetará a las tarifas que fije la Secretaría de Comunicaciones y Transportes con intervención de la Secretaría de Marina oyendo el parecer de la de Industria y Comercio, y en su caso, de la Secretaría del Trabajo y Previsión Social.
-
-Las tarifas aprobadas se considerarán como reguladoras del salario y a ellas deberán ajustarse en este renglón los contratos de trabajo que se celebren.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 274.
 
-Las tarifas a que se refiere este Capítulo se fijarán en cada caso tomando en cuenta la importancia del movimiento portuario; el costo de vida en la región; las condiciones técnicas, de mantenimiento y de la preciación del equipo utilizado; la especialidad del personal que sea necesario para la realización de las maniobras, y todas aquellas circunstancias que por su importancia, sean de tomarse en cuenta en un momento determinado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ## TRANSITORIOS
 
@@ -2291,3 +2183,37 @@ D.O.F. 18 DE JULIO DE 1991.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las concesiones y los permisos para la construcción de obras de atraque e instalaciones en los puertos otorgados con anterioridad a la entrada en vigor del presente Decreto, continuarán en los términos y condiciones consignados en los mismos hasta el término de su vigencia, sin perjuicio de que sus titulares promuevan la autorización necesaria para prestar servicios marítimos y portuarios públicos o a terceros mediante contrato, previo cumplimiento de los requisitos respectivos.
+
+D.O.F. 19 DE JULIO DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+TRANSITORIOS DEL DECRETO QUE CREA LA LEY DE PUERTOS.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan:
+
+I.- ........
+
+II.- Los artículos 9o., fracciones I, incisos f), g) y h), y IV, 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y
+
+III.- .........
+
+................
+
+CUARTO.- Las concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente ley continuarán vigentes hasta la conclusión de su vigencia.
+
+Los titulares de las concesiones en un puerto que se encomiende a una administración portuaria integral podrán optar, dentro de la vigencia original de su título, por sujetarse al régimen de contratos previsto por el presente ordenamiento, pero en todo caso quedarán sujetos a las reglas de operación autorizadas por la Secretaría y a los niveles de calidad establecidos para la administración del puerto.
+
+QUINTO.- Los titulares de permisos o autorizaciones vigentes a la fecha de entrada en vigor de la presente ley, que estén cumpliendo con todas las obligaciones derivadas de los mismos, podrán continuar desempeñando sus actividades en los puertos, terminales o marinas sujetos a administración portuaria integral, para lo cual deberán satisfacer los requisitos establecidos en esta ley en cuanto a forma de operación en un plazo no mayor de 90 días contados a partir de la fecha en que dicha administración portuaria inicie sus operaciones. De no hacerlo, tales permisos o autorizaciones quedarán sin efecto.
+
+SEXTO. Las personas físicas o morales que al entrar en vigor esta ley tengan solicitudes en trámite y hayan cubierto los requisitos para la obtención de concesión, permiso o autorización podrán optar, para su otorgamiento, por sujetarse a lo dispuesto en ésta, o bien a lo previsto en las leyes de Navegación y Comercio Marítimos y de Vías Generales de Comunicación.
+
+SEPTIMO.- A fin de reorganizar el sistema portuario nacional en los términos establecidos en esta ley, el Gobierno Federal podrá constituir sociedades mercantiles de participación estatal mayoritaria, a las que se adjudiquen directamente las concesiones para la administración portuaria integral.
+
+Asimismo, promoverá la constitución de sociedades mercantiles con participación mayoritaria de los gobiernos de las entidades federativas, para que administren los puertos, terminales e instalaciones de uso público cuya influencia sea preponderantemente estatal. En este caso, también se podrán otorgar de manera directa las concesiones para la administración portuaria integral.
+
+El capital de las Sociedades Mercantiles a que se refiere este artículo deberá ser suscrito inicialmente, en su totalidad, por el gobierno federal, por los gobiernos estatales y municipales o por las entidades públicas de éstos.
+
+OCTAVO.- En tanto se expiden los reglamentos a que se refiere el presente ordenamiento, se continuarán aplicando los reglamentos, normas y demás disposiciones administrativas expedidos con fundamento en las disposiciones que se derogan, en lo que no se opongan a lo dispuesto en esta ley.
