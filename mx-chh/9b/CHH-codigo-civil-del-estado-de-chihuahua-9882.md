@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-07-03"
+last_updated: "2004-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -925,7 +925,9 @@ En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los 
 
 155.- Estará a cargo de los cónyuges la dirección y administración del hogar, pudiendo ésta quedar a cargo de uno de ellos.
 
-156.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE AGOSTO DE 2004)</small>
+
+156.- Las tareas relativas a la administración del hogar y del cuidado de la familia representan una aportación al sostenimiento del hogar, en los términos de los preceptos anteriores.
 
 157.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
@@ -12178,5 +12180,9 @@ DECRETO 1058/04 II P.O.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 3 DE JULIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
