@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1996-12-19"
+last_updated: "1999-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,85 +21,17 @@ state: "QUE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ACUERDO GENERAL CONJUNTO NUMERO 2/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LINEAMIENTOS PARA LA TRANSFERENCIA DE RECURSOS ENTRE AMBOS ORGANOS
+CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1999.
 
-Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo X, Noviembre de 1999, página 1043.
+Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
-ACUERDO GENERAL CONJUNTO NÚMERO 2/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LINEAMIENTOS PARA LA TRANSFERENCIA DE RECURSOS ENTRE AMBOS ÓRGANOS.
+LIC. MARIANO PALACIOS ALCOCER GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, A LOS HABITANTES DEL MISMO, SABED QUE:
 
-MARCO JURÍDICO:
+LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL... HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-I. El primer párrafo del artículo 49 de la Constitución Política de los Estados Unidos Mexicanos, establece que el Supremo Poder de la Federación se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
-
-II. El artículo 17 constitucional prevé que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial.
-
-III. El texto del artículo 94 de la Carta Magna, dispone que se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia de la Nación, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y en Juzgados de Distrito. Asimismo, señala que la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación, estará a cargo del Consejo de la Judicatura Federal.
-
-IV. El octavo párrafo del artículo 100 de la Constitución Federal, faculta a la Suprema Corte de Justicia de la Nación para solicitar al Consejo de la Judicatura Federal la expedición de aquellos acuerdos que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal; y faculta al Consejo de la Judicatura Federal para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
-
-V. La Ley Orgánica del Poder Judicial de la Federación establece, en el artículo 11, fracción XV, que el Pleno de la Suprema Corte de Justicia, puede solicitar la intervención del Consejo de la Judicatura Federal, siempre que sea necesaria para la adecuada coordinación y funcionamiento entre los órganos del Poder Judicial de la Federación.
-
-VI. El artículo 11, fracción XXI, de la Ley Orgánica del Poder Judicial de la Federación faculta al Pleno de la Suprema Corte de Justicia de la Nación para emitir acuerdos generales en las materias de su competencia, y en el 81, fracción II, otorga al Consejo de la Judicatura Federal la atribución de dictar todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus funciones.
-
-VII. De acuerdo con lo dispuesto en el décimo párrafo del artículo 100 de la Constitución Federal, compete a la Suprema Corte de Justicia de la Nación elaborar su propio presupuesto y al Consejo de la Judicatura Federal hacerlo para el resto del Poder Judicial de la Federación, con excepción del Tribunal Electoral quien, de acuerdo con el artículo 99, párrafo séptimo, del mismo ordenamiento, propone su propio presupuesto al presidente de la Suprema Corte de Justicia de la Nación.
-
-VIII. El artículo décimo segundo transitorio de la reforma constitucional publicada en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, dispone que los derechos laborales de los servidores públicos del Poder Judicial de la Federación, serán respetados íntegramente.
-
-CONSIDERANDO:
-
-PRIMERO. Que la Constitución General de la República divide, para su ejercicio, el Supremo Poder de la Federación en Ejecutivo, Legislativo y Judicial; y que el Poder Judicial de la Federación se ejerce por la Suprema Corte de Justicia de la Nación, un Tribunal Electoral, Tribunales Colegiados y Unitarios de Circuito y Juzgados de Distrito. Asimismo, ordena que la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia, estará a cargo del Consejo de la Judicatura Federal. Aun cuando el Poder Judicial de la Federación es ejercido por varios órganos tiene como finalidad esencial el cumplimiento de las garantías que establece el artículo 17 de la Constitución General de la República, al ser este poder el instrumento que la misma organiza, para que se administre justicia en el ámbito federal;
-
-SEGUNDO. Que las reformas constitucionales en materia de administración de justicia, han tenido como finalidad que cada uno de los órganos que integran el Poder Judicial de la Federación tengan una mejor y mayor posibilidad de cumplir sus funciones, tanto orgánicas como competenciales;
-
-TERCERO. Que el artículo 100, octavo párrafo, de la Carta Magna, faculta a la Suprema Corte de Justicia de la Nación para solicitar al consejo la expedición de los acuerdos que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal y que la Ley Orgánica del Poder Judicial de la Federación, en su artículo 11, fracción XV, faculta al Pleno de la Suprema Corte de Justicia para solicitar la intervención del Consejo de la Judicatura Federal, siempre que sea necesaria para la adecuada coordinación y funcionamiento entre los órganos del Poder Judicial de la Federación; el numeral constitucional citado, también posibilita al Consejo de la Judicatura Federal para expedir acuerdos generales destinados al adecuado ejercicio de sus funciones y el artículo 11, fracción XXI, de la Ley Orgánica, dispone que el Pleno de la Corte puede emitir acuerdos generales en materia de su competencia;
-
-CUARTO. Que el Pleno de la Suprema Corte de Justicia de la Nación y el Pleno del Consejo de la Judicatura Federal tienen el imperativo constitucional de actuar de manera coordinada para fortalecer la unidad del Poder Judicial de la Federación y lograr con ello que el pueblo de México reciba los beneficios de una administración de justicia federal pronta y expedita;
-
-QUINTO. Que compete a la Suprema Corte de Justicia de la Nación, al Consejo de la Judicatura Federal y al Tribunal Electoral, formular sus proyectos de presupuesto que, aprobados, en forma conjunta integran el presupuesto del Poder Judicial de la Federación, correspondiendo a cada uno de ellos ejercer su presupuesto. Aun cuando el presupuesto del Poder Judicial, es jurídicamente unitario para efectos de la Ley de Presupuesto, Contabilidad y Gasto Público, pues en su artículo 2o. sólo se refiere a este poder como una unidad, sin hacer referencia a sus distintos órganos, administrativamente el ejercicio de ese presupuesto está dividido entre los mismos.
-
-Sin embargo, la ley citada no regula expresamente las transferencias de recursos entre los órganos del Poder Judicial de la Federación. El artículo 38 de la ley referida establece que para la ejecución del gasto público federal las entidades deberán sujetarse a las previsiones de dicha ley y, con exclusión del Poder Legislativo y del Poder Judicial, observar las disposiciones que al efecto expida la Secretaría de Programación y Presupuesto (facultades que actualmente ejerce la Secretaría de Hacienda y Crédito Público). Esa excepción a la observancia de las disposiciones que emita la secretaría, tiene como consecuencia que, aun cuando el artículo 24 del Reglamento de la Ley de Presupuesto sí regula las transferencias, ello resulta inaplicable para el Poder Judicial de la Federación, pues esas transferencias se sujetan a criterios que fija el Ejecutivo Federal.
-
-Asimismo, en el Decreto del Presupuesto de Egresos de la Federación para el año de mil novecientos noventa y nueve, se regulan los subsidios y transferencias a cargo de las dependencias y entidades, dentro de las cuales no se encuentra el Poder Judicial de la Federación, en las fracciones I y II del artículo 2o. del referido decreto. En esta tesitura, los órganos del Poder Judicial de la Federación, pueden acordar entre sí la transferencia de sus recursos para el cumplimiento de sus obligaciones constitucionales. Lo anterior, bajo el espíritu de lo dispuesto por el legislador en el artículo 35 del referido decreto de presupuesto.
-
-Aunado a lo que precede, cabe destacar que en los distintos decretos de presupuesto de egresos de los años de 1995 al actual, no se hizo una separación en las erogaciones autorizadas que distinguiera las previstas para la Suprema Corte de Justicia de la Nación y para el Consejo de la Judicatura Federal, y sólo se han escindido las autorizadas para el Tribunal Electoral.
-
-Por esta razón, con el propósito de dar cabal cumplimiento a la función esencial de administración de justicia, que la Constitución Federal atribuye a este poder, es necesario que los órganos que lo integran determinen las bases para llevar a cabo las transferencias de recursos cuando así sea necesario, con el fin de optimizar la función del Poder Judicial Federal, atento lo cual, es indispensable la creación de las normas que regulen los traspasos de recursos presupuestarios;
-
-SEXTO. Que es inaplazable la creación de órganos jurisdiccionales, en virtud del rezago que hoy enfrentan los tribunales, que entre otras causas, tiene su origen en el incremento de las demandas de justicia a los tribunales en el ámbito federal; en el reducido incremento del número de órganos jurisdiccionales; y además, de la confianza que los tribunales federales generan en la sociedad, tanto por el juicio de amparo, como una institución protectora de las garantías individuales, como por los demás instrumentos jurídicos que garantizan el orden constitucional;
-
-SÉPTIMO. Que tanto la Suprema Corte de Justicia de la Nación como el Consejo de la Judicatura Federal conservaron remanentes de los ejercicios de sus presupuestos, correspondientes a los años de mil novecientos noventa y ocho y anteriores con el propósito de atender programas prioritarios y programas emergentes. Asimismo, respecto de estos remanentes la legislación entonces vigente no contenía disposición alguna que estableciera la obligación, para dichos órganos de concentrarlos en la Tesorería de la Federación, al término de los ejercicios respectivos; y, por el contrario, el Presupuesto de Egresos de la Federación para el año de mil novecientos noventa y nueve fue adicionado, en el proceso legislativo, con el propósito de regular expresamente el reintegro de las erogaciones previstas en ese presupuesto, no ejercidas, en relación con los Poderes Legislativo y Judicial y con el Instituto Federal Electoral;
-
-OCTAVO. Que la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal refrendan su compromiso institucional y ratifican la unidad de propósitos y finalidades en una relación de colaboración entre ambos órganos, para lograr el mejoramiento del Poder Judicial Federal y con el propósito de alcanzar una mayor eficiencia, eficacia, congruencia, racionalidad y optimización de los recursos públicos autorizados al Poder Judicial de la Federación por la H. Cámara de Diputados del Congreso de la Unión, el Pleno de la Suprema Corte de Justicia de la Nación y el del Consejo de la Judicatura Federal, coinciden en la necesidad de aprovechar al máximo los recursos financieros, materiales y humanos con que cuentan, a fin de lograr el cumplimiento de las garantías que tutela el artículo 17 constitucional y la finalidad del propio poder: la administración de justicia pronta, completa, imparcial y gratuita.
-
-En consecuencia, con fundamento en el artículo 100, párrafo octavo, de la Constitución Política de los Estados Unidos Mexicanos; 11, fracción XXI, y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Pleno de la Suprema Corte de Justicia de la Nación y el Pleno del Consejo de la Judicatura Federal, conjuntamente, expiden el siguiente
-
-ACUERDO GENERAL:
-
-PRIMERO. RECURSOS FINANCIEROS: La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal podrán autorizar la transferencia entre sí de aquellos recursos financieros que formen parte de su presupuesto, así como de otros recursos que por circunstancias diversas conserven.
-
-SEGUNDO. RECURSOS MATERIALES: La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal podrán transferir entre sí aquellos recursos materiales, tales como: mobiliario y equipo de oficina, equipo de informática, programas y, en su caso, licencias, obras bibliográficas propias o las que adquieran de terceros, discos compactos, cintas o cualquier otro material, impreso o grabado o susceptible de ser apreciado a través de los sentidos, a fin de que la función jurisdiccional se desarrolle de manera óptima.
-
-TERCERO. PLAZAS: La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, podrán transferir entre sí aquellas plazas relativas al personal que resulten necesarias para fortalecer la función jurisdiccional.
-
-CUARTO. DERECHOS LABORALES DEL PERSONAL TRANSFERIDO: Las plazas del personal que la Suprema Corte de Justicia de la Nación transfiera al Consejo de la Judicatura Federal deberán ser asignadas por éste, fundamentalmente, a los Tribunales de Circuito y Juzgados de Distrito, pasando a formar parte de la plantilla de dichos órganos, sin afectar los derechos laborales del personal transferido. El mismo trato se dará a las plazas que el Consejo de la Judicatura Federal transfiera a la Suprema Corte de Justicia de la Nación.
-
-QUINTO. Se determina que los remanentes presupuestarios de ambos órganos, correspondientes a los años de mil novecientos noventa y ocho y anteriores, no aplicados ya a otros programas prioritarios, se ejerzan, de acuerdo con los planes y proyectos debidamente aprobados, en la instalación de nuevos órganos jurisdiccionales federales y órganos conexos, así como al mantenimiento de los ya instalados, entendiendo para esta finalidad como instalación y mantenimiento: la adquisición o arrendamiento de inmuebles, así como la construcción, reconstrucción, conservación, reparación, remodelación por causas de funcionalidad y demolición de inmuebles; la realización de proyectos integrales que comprendan desde el diseño de la obra hasta su terminación total y, por último, los servicios relacionados con las mismas.
-
-SEXTO. Los recursos que la Suprema Corte de Justicia de la Nación transfiera al Consejo de la Judicatura Federal, o éste a aquélla, en su caso, se destinarán a la adquisición de activos fijos, tales como: inmuebles y equipos, así como a la remodelación, reparación y mantenimiento de dichos activos, con el propósito de que la función jurisdiccional a cargo de los Tribunales de Circuito y los Juzgados de Distrito se lleve a cabo en las mejores condiciones posibles. Asimismo, los recursos podrán aplicarse para satisfacer las necesidades urgentes o imprevistas que se presenten en el Poder Judicial de la Federación.
-
-SÉPTIMO. La ejecución del presente acuerdo corresponde al presidente de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, en la esfera de su competencia; las transferencias de recursos deberán ser previamente aprobadas, en su caso, por el Pleno de la Suprema Corte de Justicia de la Nación o por el Pleno del Consejo de la Judicatura Federal.
-
-TRANSITORIOS:
-
-PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.-Se derogan todos aquellos acuerdos que se opongan al presente.
-
-TERCERO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
-
-Así lo acordaron, los señores Ministros presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza, así como los señores consejeros Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales, Sergio Armando Valls Hernández, ante el secretario general de Acuerdos de la Suprema Corte de Justicia de la Nación y el secretario ejecutivo de Pleno y Carrera Judicial del Consejo de la Judicatura Federal, quienes dan fe.
+CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
 # LIBRO PRIMERO
 
@@ -179,7 +111,9 @@ I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se 
 
 II.- Permanente, cuando la consumación se prolonga en el tiempo pudiendo cesar por voluntad del agente.
 
-III.- Continuado, cuando con unidad de determinación se realizan varias conductas con solución de continuidad, violatorias al mismo precepto legal, pero tratándose de agresiones a la vida, a la salud, al honor, a la libertad y a la honestidad se requerirá unidad de sujeto pasivo.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+III.- Continuado, cuando con unidad de determinación se realizan varias conductas con solución de continuidad, violatorias al mismo precepto legal, y exista unidad en el sujeto pasivo.
 
 ### CAPITULO IV. LA IMPUTABILIDAD
 
@@ -227,7 +161,7 @@ De igual forma responderá el que ofrezca auxiliar o auxilie al delincuente por 
 
 Cuando sin acuerdo previo ni adherencia, varias personas intervengan en la comisión de un delito y se precise el daño que cada uno causó, se les sancionará por el que cada quien produjo.
 
-Si no se precisa la causación específica, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
+Si no se precisa la causación específica,, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
 
 ###### ARTICULO 18.
 
@@ -385,9 +319,11 @@ DE LAS PENAS
 
 ### CAPITULO II. PRISION
 
+> <small>(REFORMADO, P.O 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 30.
 
-La prisión consiste en la privación de la libertad personal, su duración será de tres días a treinta años, y se extinguirá en los establecimientos que señale el órgano ejecutor de sanciones.
+La prisión consiste en la privación de la libertad, su duración será de tres días a cincuenta años, y se extinguirá en los establecimientos que señale el órgano ejecutor de sanciones.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
@@ -407,17 +343,19 @@ La semilibertad implica alternación de periodos de privación de la libertad y 
 
 ### CAPITULO V. MULTA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 34.
 
-La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de quinientos. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todas sus percepciones. Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar que se consumó el delito.
+La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de setecientos cincuenta. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todas sus percepciones. Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente en el lugar que se consumó el delito.
 
 Por lo que toca al delito continuado se atenderá al salario mínimo vigente en el momento consumativo de la última conducta; para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella el Ejecutivo a través del órgano que corresponda podrá substituirla total o parcialmente por prestación de trabajo en favor de la comunidad.
 
-Cada jornada de trabajo saldará un día multa. Cuando no sea posible o conveniente la substitución de la multa por la prestación de servicios, el propio Ejecutivo podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa substituidos.
+Cada jornada de trabajo saldará un día multa. Cuando no sea posible o conveniente la substitución de la multa por la prestación de servicios, el propio Ejecutivo podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa substituídos.
 
-Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo.
+Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico-coactivo.
 
 La autoridad a quien corresponda el cobro de la multa, podrá fijar plazos para el pago de ésta.
 
@@ -699,7 +637,9 @@ MEDIDAS DE SEGURIDAD
 
 El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
 
-Cuando se trate de punibilidad alternativa, el Juez podrá imponer, motivando su resolución, la sanción privativa de libertad sólo cuando ello sea ineludible a los fines de la justicia, prevención general y prevención especial.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+El órgano jurisdiccional ordenará de oficio la realización de los estudios criminológicos interdisciplinarios del imputado y tomará conocimiento directo de éste, del ofendido y de la ejecución del hecho en la medida requerida para cada caso.
 
 En aquellos delitos que tengan señaladas pena privativa de libertad en forma alternativa con cualquier otra, en todo caso se impondrá la de prisión al imputado cuando este haya cometido con anterioridad delito doloso o preterintencional y por el cual se haya dictado sentencia condenatoria ejecutoriada, o existiendo acumulación de expedientes, resulte responsable de los delitos a que se refieren los expedientes acumulados.
 
@@ -757,7 +697,9 @@ El delito culposo se castigará únicamente con pago de reparación del daño y 
 
 I.- Cuando la conducta culposa origine por cualquier medio daño en las cosas, cualquiera que sea su monto, y
 
-II.- Cuando la conducta culposa origine lesiones de las comprendidas en el artículo 127 fracción I, y III de este Código.
+> <small>(REFORMADA, P.O. 2 DE ABRIL 1999)</small>
+
+II.- Cuando la conducta culposa origine lesiones de las comprendidas en las fracciones I, II, III, y V del artículo 127 de este Código.
 
 Este artículo sólo se aplicará cuando el imputado no se encontrare al cometer el delito en estado de ebriedad o bajo los efectos de psicotrópicos, estupefacientes, substancias volátiles inhalables o cualquier otra que produzca efectos análogos.
 
@@ -857,17 +799,21 @@ Para efectos de la substitución se requiere que el reo satisfaga los requisitos
 
 Se confiere a los Organos Jurisdiccionales la facultad de suspender condicionalmente la ejecución de la pena de prisión, si concurren las siguientes circunstancias:
 
-I.- Que el reo haya delinquido por primera vez;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Que no hubiere sido condenado anteriormente, por sentencia ejecutoriada, por delito doloso;
 
 II.- Que tenga modo honesto de vivir y haya observado buena conducta con anterioridad al delito, probada por hechos positivos.
 
 III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL 1999)</small>
 
-IV.- Que la pena de prisión impuesta, no exceda de cuatro años;
+IV.- Que la pena de prisión impuesta no exceda de cinco años;
 
-V.- Que haya pagado la reparación de los daños y perjuicios y la multa.
+> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+V.- Que haya pagado la reparación de los daños y perjuicios y la multa. En caso de que el sentenciado acredite a satisfacción del juzgador que no tiene recursos económicos para el pago de la multa, la ejecución de ésta podrá ser suspendida, en cuyo caso seguirá la misma suerte que la pena de prisión.
 
 ###### ARTICULO 89.
 
@@ -973,6 +919,8 @@ La muerte del imputado extingue la pretensión punitiva o las penas o medidas de
 
 ### CAPITULO VI. PERDON DEL OFENDIDO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 105.
 
 La amnistía extingue la pretensión punitiva o las penas o medidas de seguridad impuestas, a excepción del decomiso y de la reparación de los daños y perjuicios, en los términos de la Ley que se dicte concediéndola. Si ésta no expresare su alcance se entenderá que la pretensión punitiva y las penas y medidas de seguridad se extinguen en todos sus efectos, con relación a todos los responsables del delito.
@@ -989,7 +937,7 @@ El Titular del Poder Ejecutivo podrá conceder indulto cuando el reo haya presta
 
 ###### ARTICULO 107.
 
-El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de pronunciarse sentencia en primera instancia y aquél o aquellos a quienes se otorga no se opongan a ello.
+El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de pronunciarse sentencia en primera o segunda instancia, y aquél o aquellos a quienes se otorga no se opongan a ello.
 
 Cuando el perdón se otorgue por el representante legal de un menor de edad o incapacitado, el Juez podrá a su prudente arbitrio, concederle o no eficacia y en caso de no aceptarlo, seguirá la causa.
 
@@ -1127,9 +1075,11 @@ LESIONES
 
 Al que prive de la vida a otra, se le impondrá prisión de 7 a 15 años y multa de cien a quinientos días multa.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 126.
 
-Cuando concurra alguna de las circunstancias señaladas en el Artículo 131 de este Código, el homicidio se sancionará con prisión de quince a treinta años.
+Cuando concurra alguna de las circunstancias señaladas en el Artículo 131 de este Código; el homicidio se sancionará con prisión de quince a cincuenta años.
 
 ### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
 
@@ -1139,7 +1089,9 @@ Cuando concurra alguna de las circunstancias señaladas en el Artículo 131 de e
 
 Al que cause a otro un daño en su salud se le impondrá la pena que corresponda de acuerdo a las fracciones siguientes:
 
-I.- De 3 a 9 meses de prisión o de 10 a 30 días multa, si tardan en sanar hasta 15 días.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- De tres a nueve meses de prisión, o de diez a treinta días multa, o ambas sanciones a juicio del juez, si tardan en sanar hasta quince días.
 
 > <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
@@ -1175,9 +1127,11 @@ VIII.- De tres a siete años de prisión si causan incapacidad para trabajar por
 
 IX.- De 6 a 12 años de prisión si causan incapacidad permanente para trabajar en cualquier arte, profesión u oficio.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 128.
 
-En los casos de las fracciones I y II del Artículo anterior de esta Ley, el delito se perseguirá solo a petición del ofendido.
+En los casos de las fracciones I, II, III y V del artículo anterior de esta Ley, el delito se perseguirá a petición del ofendido; a excepción de las lesiones descritas en la fracción V, por las cuales podrá querellarse el Ministerio Público o los representantes del ofendido cuando en razón de las lesiones inferidas no pueda manifestar su voluntad.
 
 ###### ARTICULO 129.
 
@@ -1279,6 +1233,8 @@ II.- Cuando el embarazo sea resultado de una violación.
 
 ### CAPITULO II. SECUESTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ## TITULO SEGUNDO. DELITOS DE OMISIÓN DE AUXILIO O DE
 
 CUIDADO
@@ -1309,6 +1265,8 @@ Al que habiendo atropellado culposamente o por caso fortuito a una persona, no l
 
 ### CAPITULO ÚNICO. ALLANAMIENTO DE DOMICILIO
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 146.
 
 Al que teniendo la obligación de hacerse cargo de un incapaz de cuidarse por si mismo, lo entregue a una institución o a cualquiera otra persona, contraviniendo la Ley, o contra la voluntad de quien se lo confió o sin aviso al Juez de lo Familiar, se le aplicará prisión de tres meses a un año o trabajo en favor de la comunidad hasta por seis meses.
@@ -1331,11 +1289,15 @@ I.- Que se realice con violencia o se veje a la víctima;
 
 II.- Que la víctima sea menor de dieciséis años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente, y
 
-III.- Que la privación se prolongue por más de 8 días.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+III.- Que la privación se prolongue por más de 48 horas.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 149.
 
-Si el agente espontáneamente pone en libertad a la víctima dentro de los tres días siguientes a la comisión del delito podrá disminuirse la pena hasta la mitad.
+Si la víctima es puesta en libertad espontáneamente en menos de veinticuatro horas siguientes a la comisión del delito, se podrá disminuir la pena hasta la mitad.
 
 ### CAPITULO I. VIOLACIÓN
 
@@ -1343,7 +1305,7 @@ Si el agente espontáneamente pone en libertad a la víctima dentro de los tres 
 
 ###### ARTICULO 150.
 
-Al que prive de la libertad a otro se le aplicará prisión de seis a veinte años si el hecho se realiza con el propósito de:
+Al que prive de la libertad a otro, se le aplicará prisión de seis a treinta y cinco años, si el hecho se realiza con el propósito de:
 
 I.- Obtener un rescate, un derecho o el cumplimiento de cualquier condición.
 
@@ -1359,11 +1321,39 @@ II.- Que el agente se ostente como autoridad sin serlo;
 
 III.- Que se lleve a cabo por dos o más personas;
 
-IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y
+IV.- Que se realice con violencia, se vejare o se torturase a la víctima, y (sic)
 
 V.- Que la víctima sea menor de dieciséis años de edad o que por cualquiera otra circunstancia esté en situación de inferioridad física respecto del agente.
 
-Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 147 de este Código.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VI. Cuando de esta conducta resulten graves daños físicos o mentales al ofendido, o muera durante el secuestro o a consecuencia de dicho acto, sin perjuicio de las reglas del concurso.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VII. Cuando quien participe de cualquier manera en la comisión de este ilícito, sea servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+Si espontáneamente se pone en libertad a la persona, en las veinticuatro horas siguientes a la comisión del hecho y sin haber causado perjuicio, se aplicará la sanción que corresponda por el delito de privación de la libertad personal.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 150 BIS. Independientemente de las sanciones que correspondan en los términos del artículo 150 de este código y fuera de las causas de exclusión del delito previstas por la ley, se sancionará con una pena de uno a ocho años de prisión y de doscientos a setecientos cincuenta días multa, al que:
+
+I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
+
+II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III. Actúe como asesor de quienes representen o gestionen en favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
+
+IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
+
+V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo anterior; y
+
+VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+
+No se aplicará sanción alguna a quien, habiendo realizado las conductas previstas en las fracciones III y IV de este artículo, sea ascendiente o descendiente consanguíneo o por adopción, cónyuge, concubina o concubinario o pariente colateral por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, o que esté ligado al secuestrado por amor, respeto, gratitud o estrecha amistad.
 
 ### CAPITULO II. ABUSOS DESHONESTOS
 
@@ -1417,9 +1407,9 @@ INVIOLABILIDAD DEL DOMICILIO
 
 ###### ARTICULO 158.
 
-Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo, o empleando engaño se introduzca en casa habitación o sus dependencias o permanezca en ellas sin la anuencia de quien esté facultado para darla, se le impondrá prisión de tres meses a tres años.
+Al que sin consentimiento de la persona que legítimamente pueda otorgarlo, o empleando engaño se introduzca en casa habitación o sus dependencias o permanezca en ellas sin la anuencia de quien este facultado para darla, se le impondrá prisión de tres meses a tres años.
 
-Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más.
+Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más. Este delito se perseguirá por querella de la parte ofendida.
 
 ## TITULO SÉPTIMO. DELITOS CONTRA LA
 
@@ -1455,7 +1445,9 @@ Se impondrán las mismas penas señaladas en el párrafo anterior al que introdu
 
 Cuando las conductas previstas en el artículo anterior se realicen sin emplear violencia con persona impúber o que no tenga capacidad para comprender, o que por cualquier causa no pueda resistir la conducta delictuosa se le impondrá al agente prisión de 3 a 10 años.
 
-Si se emplea la violencia en los casos del párrafo anterior, la pena se aumentará hasta en una mitad más.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+Cuando las conductas se realicen por medio de la violencia en los casos del párrafo anterior, la pena se aumentará hasta en una mitad más.
 
 ###### ARTICULO 162.
 
@@ -1589,15 +1581,25 @@ ASISTENCIA FAMILIAR
 
 Al que se apodere de una cosa mueble ajena, con ánimo de dominio, sin consentimiento de quien pueda otorgarlo conforme a la Ley, se le aplicarán las siguientes penas:
 
-I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo robado no exceda de 600 veces el salario mínimo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
 
-II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo robado exceda de 600 veces el salario mínimo.
+I.- Prisión de tres meses a tres años, y multa de 30 a 90 días, cuando el valor de lo robado no exceda de 200 veces el salario mínimo.
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+II.- Prisión de dos a cuatro años y de 90 hasta 180 días multa, cuando el valor de lo robado exceda de 200 veces el salario mínimo.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+III.- Prisión de cuatro a diez años y de 180 hasta 500 días multa, cuando el valor de lo robado exceda de 600 veces el salario mínimo.
 
 ###### ARTICULO 183.
 
 Se aumentarán hasta en una mitad las penas previstas en el Artículo anterior, si el robo se realiza:
 
-I.- Con violencia contra la persona robada o sobre otra que la acompañe o cuando se ejerza violencia para proporcionarse la fuga o defender lo robado.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Por medio de la violencia, la acechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o de persona que la acompañe, o la ponga en condiciones de desventaja, o cuando se ejerza violencia para proporcionarse la fuga o defender lo robado.
 
 II.- Se verifique en paraje solitario, en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos;
 
@@ -1612,6 +1614,22 @@ VI.- En contra de una oficina recaudatoria o cualquier otra en que se conserven 
 VII.- Respecto de vehículo estacionado en la vía pública o en otro lugar destinado a su guarda o reparación, y
 
 VIII.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+
+ARTICULO 183 BIS. Se sancionará con pena de uno a cinco años de prisión y de 100 a 500 días multa, al que a sabiendas de que un vehículo es robado y con independencia de las penas que le correspondan por la comisión de otros delitos:
+
+I.- Sin consentimiento del que tenga derecho a otorgarlo, desmantele alguno o varios vehículos o comercialice conjunta o separadamente sus autopartes;
+
+II.- Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+
+III.- Detente, posea o custodie un vehículo robado, o modifique de cualquier manera la documentación con que se pretenda acreditar la propiedad o identificación de éste;
+
+IV.- Traslade el o los vehículos robados fuera del territorio del estado; y
+
+V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito, además de las sanciones a que se refiere este artículo, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un periodo igual a la pena de prisión impuesta.
 
 ###### ARTICULO 184.
 
@@ -1968,6 +1986,18 @@ A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que s�
 ###### ARTICULO 220.
 
 Al que forme parte de manera permanente de una asociación de dos o más personas destinada a delinquir, se le impondrá prisión de 3 meses a 4 años.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando la asociación esté integrada por tres o más personas, y empleen la violencia o aprovechen estructuras comerciales o de negocios para cometer los delitos, la sanción será hasta una mitad más de la prevista en el caso anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+A los miembros de la asociación delictiva que tengan facultades de mando o decisión, se les impondrá de 6 meses a ocho años de prisión, y hasta setecientos cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando se trate de un servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos, que participe de cualquier manera en la asociación delictuosa, las penas correspondientes por los delitos cometidos se aumentaran hasta en una mitad y se les impondrá además destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena impuesta.
 
 ### CAPITULO III. TRATA DE PERSONAS
 
@@ -2335,7 +2365,7 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VII. INSULTOS A LA AUTORIDAD
+### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 256.
 
@@ -2455,6 +2485,8 @@ Al que cometa el delito de abuso de autoridad se le aplicará prisión de 1 a 6 
 
 ### CAPITULO V. EVASIÓN DE PRESOS
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 265.
 
 Al servidor público que por si o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito, se le aplicarán de 2 a 6 años de prisión y de 50 a 450 días multa.
@@ -2503,7 +2535,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces e
 
 Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
 
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
@@ -2585,9 +2617,15 @@ Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinac
 
 Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad se aplicará prisión de 3 meses a 1 año y hasta 15 días multa.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 285.
 
 Al que de palabra o de obra insulte o injurie a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá prisión de 3 meses a 1 año y hasta 15 días multa.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 285 BIS. Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, cuando se tenga conocimiento de esa circunstancia, se le aplicarán de uno a cinco años de prisión, además de la que le corresponda por el delito cometido.
 
 ###### ARTICULO 286.
 
@@ -2685,7 +2723,7 @@ Si los anteriores actos se realizan sobre la totalidad del expediente, se aument
 
 ###### ARTICULO 293.
 
-Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de 3 meses a 5 años. Si los evadidos fuesen dos o más, se duplicará la sanción.
+Al que indebidamente ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de aquélla, se le impondrá prisión de 3 meses a 5 años, cuando al evadido se le impute delito grave, con conocimiento de esta circunstancia, o si los evadidos fueren dos o más, se duplicará la sanción.
 
 ###### ARTICULO 294.
 
@@ -3112,3 +3150,23 @@ P.O. 7 DE JULIO DE 1994
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 19 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 2 DE ABRIL DE 1999
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan aquellas disposiciones que se opongan a la presente Ley.
