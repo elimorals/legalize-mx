@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1927-11-16"
+last_updated: "1929-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1929.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -44,6 +44,10 @@ CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 ###### Artículo 2º.
 
 Este decreto comenzará a surtir sus efectos desde el año de 1928.
+
+P.O. 8 DE OCTUBRE DE 1929.
+
+Este decreto empezará a surtir sus efectos, desde la fecha de su publicación.
 
 ###### Artículo 3º.
 
@@ -485,7 +489,7 @@ Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio d
 
 Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargará del Despacho del Gobierno hasta la toma de posesión del Gobernador provisional o del substituto, en sus respectivos casos.
 
-El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+El Presidente del Tribunal se encargara, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
 ###### Artículo 52.
 
@@ -593,7 +597,7 @@ Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tri
 
 ###### Artículo 61.
 
-El Tribunal Superior de Justicia estará formado por seis Magistrados que durarán en sus cargos cuatro años y tomarán posesión el día 5 de mayo.
+El Tribunal Superior de Justicia estará formado por seis Magistrados que durarán en sus cargos cuatro años y tomaran posesión el día 5 de mayo.
 
 ###### Artículo 62.
 
@@ -661,13 +665,13 @@ Para ser Agente, las que determine la ley.
 
 Son atribuciones del Ministerio Público:
 
-I. Ejercitar ante los Tribunales del Estado, las acciones que corresponden contra los violadores de las leyes de interés publico.
+I. Ejercitar ante los Tribunales del Estado, las acciones que corresponden contra los violadores de las leyes de interés público.
 
 II. Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección.
 
 III. Defender los intereses del Estado ante los Tribunales.
 
-La ley organizará el Ministerio Público, determinaraá las atribuciones respectivas de las personas que lo formen y fijará el tiempo que cada una de ellas deba durar en sus funciones.
+La ley organizará el Ministerio Público, determinara las atribuciones respectivas de las personas que lo formen y fijara el tiempo que cada una de ellas deba durar en sus funciones.
 
 ###### Artículo 70.
 
@@ -687,7 +691,7 @@ Los Ayuntamientos serán representados judicialmente por uno o dos de sus miembr
 
 ###### Artículo 74.
 
-Las Asambleas Municipales se compondrán de Munícipes electos directa y popularmente en la forma y términos que disponga la Ley Electoral, a razón de un Propietario y un Suplente por cada mil habitantes; pero ninguna Asamblea podrá tener menos de cinco, ni más de quince Munícipes, para cuyo efecto, y cuando algún Municipio no tuviere cinco mil habitantes, se dividirá en cinco secciones para elección de cinco Munícipes y cuando pasare de quince mil habitantes, se dividirá en quince secciones para el nombramiento de quince Munícipes.
+Las Asambleas Municipales se compondrán de Munícipes electos directa y popularmente, en la forma y términos que disponga la Ley Electoral, a razón de un Propietario y un Suplente por cada mil habitantes, pero ninguna Asamblea podrá tener menos de cinco ni más de nueve Munícipes. Para el efecto, cuando algún Municipio no tuviere cinco mil habitantes, se dividirá en cinco secciones para la elección de cinco Munícipes y, cuando pasare de nueve mil habitantes, se dividirá en nueve secciones, para el nombramiento de nueve Munícipes.
 
 ###### Artículo 75.
 
@@ -847,6 +851,8 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 ### CAPITULO II. DE LAS ASAMBLEAS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1929)</small>
+
 ###### Artículo 93.
 
 De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Público, el Tribunal Superior declarará en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado y sujeto a los Tribunales comunes.
@@ -895,7 +901,7 @@ Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emo
 
 ###### Artículo 1°.
 
-Esta Constitución se protestarwá con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 1°.
 
