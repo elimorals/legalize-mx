@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1977-03-17"
+last_updated: "1979-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 1977.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 1979.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -93,11 +93,11 @@ Corresponden a la jurisdicción del Municipio de Huitzilac, los siguientes Centr
 
 Corresponden a la jurisdicción del Municipio de Jantetelco, los siguientes centros de población: Amayuca, Chalcatzingo, Jantetelco Cabecera del Municipio y Tenango.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 1956)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1979)</small>
 
 ###### Art. 13.
 
-Corresponden a la jurisdicción del Municipio de Jiutepec los siguientes Centros de población: Atlacomulco, Cliserio Alanís, Tejalpa, Tlalhuapan, Calera Chica y Jiutepec, Cabecera del Municipio.
+Corresponden a la Jurisdicción del Municipio de Jiutepec, los siguientes Centros de población: Atlacomulco, Cliserio Alanís, Tejalpa, Progreso, Parres, Huauchiles, Independencia, El Paraíso, y Jiutepec, Cabecera del Municipio.
 
 ###### Art. 14.
 
@@ -306,6 +306,12 @@ PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en e
 SEGUNDO.- Oportunamente, procédase a la reforma del Artículo 110 de la Constitución Política del Estado, para incorporar en nuevo Municipio a la División territorial del régimen interior del Estado, así como la Ley de División territorial de los Municipios en vigor.
 
 TERCERO.- Remítase al Ejecutivo del Estado para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 2 DE MAYO DE 1979.
+
+Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Remítase el presente Decreto al Ejecutivo del Estado para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
