@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1941-04-24"
+last_updated: "1943-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 1941.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 1943.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -309,11 +309,11 @@ Los Poderes Públicos del Estado sólo podrán hacer aquello para lo que expresa
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1943)</small>
 
 ###### Art. 31.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará Legislatura del Estado. Esa se compondrá de representantes del pueblo que serán electos en su totalidad cada dos años, directamente por aquél, de acuerdo con la Ley Electoral.
+El Poder Legislativo, se Deposita en una Asamblea que se denominará Legislatura del Estado. Esa se compondrá de Representantes del Pueblo, que serán electos en su totalidad cada tres años, directamente por aquél de acuerdo con la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1929)</small>
 
@@ -747,11 +747,11 @@ Del Tribunal Superior de Justicia.
 
 El Tribunal Superior de Jnsticia (Sic) se compondrá de tres Magistrados Propietarios y tres suplentes o Supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación. Funcionará en Sala Colegiada con los Magistrados Propietarios o con los Supernumerarios en su caso.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1943)</small>
 
 ###### Art. 105.
 
-Los Magistrados del Tribunal Superior de Jnsticia (sic), entrarán al desempeño de su encargo, previa protesta ante la Legislatura o la Comisión Permanente, en la misma fecha 1ro. de octubre, que el Gobernador del Estado, y durarán en sus funciones cuatro años.
+Los Magistrados del Tribunal Superior de Justicia durarán en sus funciones tres años, y entrarán al desempeño de su encargo el primero de octubre del año en que el C. Gobernador del Estado inicie el ejercicio de su encargo y el primero de octubre del año correspondiente que marca la mitad del período mencionado del propio ejecutivo.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1937)</small>
 
@@ -1031,11 +1031,11 @@ Los Ayuntamientos residirán en las cabeceras de las Municipalidades.
 
 En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos, nombrarán Delegados o Subdelegados, con las facultades y obligaciones que se señalarán en la ley Orgánica Municipal, y los cuales serán sus representantes directos.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1943)</small>
 
 ###### Art. 147.
 
-Los Ayuntamientos se renovarán en su totalidad cada dos años y los Regidores deberán entrar en funciones el día primero de octubre del año de su elección, previa protesta que otorgarán ante el Ayuntamiento saliente.
+Los Ayuntamientos se renovarán en su totalidad cada tres años y los miembros que los integran deberán entrar en funciones el primero de octubre, previa protesta que otorgarán ante el Ayuntamiento saliente.
 
 ###### Art. 148.
 
@@ -1251,9 +1251,11 @@ Del Gobernador.
 
 El Supremo Poder Ejecutivo del Estado, se depositará en una persona, que se denominará <<Gobernador del Estado.>>
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1943)</small>
+
 ###### Art. 76.
 
-El Gobernador del Estado durará en su encargo cuatro años, y será electo directa y popularmente, en los términos que establezca la ley electoral respectiva.
+El Gobernador del Estado, durará en su encargo seis años y será electo directa y popularmente en los términos que establece la Ley Electoral respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 1939)</small>
 
@@ -1652,3 +1654,7 @@ II.- La presente Ley entrará en vigor el día primero de enero de 1940.
 P.O. 24 DE ABRIL DE 1941
 
 UNICO.- La presente Ley comenzará a surtir sus efectos a partir de la fecha de su publicación en el periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 1943
+
+UNICO.- Por esta sola vez los plazos a que se refieren los artículos 34 frac. 4a. y 5a., 77 frac. 4a. y 143 frac. 1ra. de la Constitución Política del Estado, se reducen a cuarenta y cinco días.
