@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2004-04-12"
+last_updated: "2004-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2004.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1681,9 +1681,9 @@ En el periodo de instrucción incumbe al Ministerio Público principalmente y a 
 
 Cuando se hubiere dictado auto de libertad al inculpado con las reservas legales, el Ministerio Público, de no haberse reservado un triplicado de la Averiguación Previa, o bien lo considere necesario, solicitará copia certificada de todo lo actuado a fin de continuar la investigación. Así mismo, cuando habiéndose reservado el triplicado de la averiguación previa para continuar la investigación en contra de terceros, de resultar comprobada la existencia de otro delito, al ejercitar acción penal en contra de los restantes, se ampliará el ejercicio de la acción penal en contra de quien ya estuviere procesado a efecto de que se le tome su declaración preparatoria por el nuevo ilícito y continúe la instrucción.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P. O. 12 DE JUNIO DEL 2004)</small>
 
-Cuando el Ministerio Público amplíe el ejercicio de la acción penal, el auto de formal prisión que con motivo de ello se dicte, sobreseerá aquel otro por cuyos hechos se haya ampliado dicho ejercicio.
+Cuando el Ministerio Público amplíe el ejercicio de la acción penal, el auto de formal prisión que con motivo de ello se dicte, quedara sin efecto aquél otro por cuyos hechos se haya ampliado dicho ejercicio.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -4128,3 +4128,7 @@ Tercero.- La Exposición de Motivos se publicará en el Periódico Oficial junto
 P.O. 12 DE ABRIL DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE JUNIO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
