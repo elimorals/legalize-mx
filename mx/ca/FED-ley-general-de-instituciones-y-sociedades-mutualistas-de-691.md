@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1943-04-20"
+last_updated: "1946-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-> <small>N. DE E. DE ACUERDO AL ARTICULO 4° DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, QUEDAN DEROGADOS LOS ARTICULOS RELATIVOS A QUIEBRAS DEL PRESENTE ORDENAMIENTO, P.O. 20 DE ABRIL DE 1943.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ABRIL DE 1946.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -39,13 +37,15 @@ LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 1°.
 
 Son instituciones de seguros:
 
 I.- Las instituciones nacionales de seguros;
 
-II.- Las sociedades mexicanas autorizadas para practicar alguna o algunas de las siguientes operaciones de seguros.
+II.- Las sociedades mexicanas autorizadas para practicar alguna o algunas de las siguientes operaciones de seguros:
 
 a). Vida;
 
@@ -55,19 +55,19 @@ c). Responsabilidad civil y riesgos profesionales;
 
 d). Marítimo y transportes;
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
-
 e). Incendio;
 
 f). Agrícola;
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
-
 g). Automóviles;
 
-h). Diversos.
+h). Crédito;
 
-III.- Las sucursales de empresas de seguros extranjeros autorizadas para operar en la República conforme a esta Ley.
+i). Diversos.
+
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
+
+III.- Las sucursales de empresas de seguros extranjeras autorizadas para operar en México conforme a esta Ley.
 
 ###### ARTICULO 2°.
 
@@ -79,19 +79,25 @@ Compete exclusivamente a la Secretaría de Hacienda y Crédito Público, la adop
 
 Queda prohibido el uso de la palabra "nacional" en la denominación de las instituciones de seguros que no sean de las comprendidas en este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 3°.
 
-Salvo lo mandado por el artículo 5° respecto de las sucursales de empresas extranjeras, sólo las instituciones nacionales de seguros debidamente autorizadas y las sociedades mexicanas que obtengan del Gobierno Federal la autorización respectiva y se sujeten a esta Ley podrán practicar alguna o algunas de las operaciones a que se refiere la fracción II del artículo 1°.
+Queda prohibido a toda persona que no sea institución de seguros comprendida en alguna de las fracciones del artículo 1°., practicar cualquiera de las operaciones a que se refiere la fracción II del mismo.
 
-Para que una institución de seguros pueda practicar varias de las operaciones a que se refiere la misma fracción, deberá tener autorización especial del Gobierno Federal para cada ramo.
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+Sin embargo, cuando una de esas operaciones no pueda o no quiera ser efectuada por las instituciones autorizadas para operar en el país, la Secretaría de Hacienda y Crédito Público podrá expedir, previo examen de las circunstancias del caso, una autorización específica para que dicha operación se concerte con una empresa de seguros extranjera.
+
+Para que una institución de seguros pueda practicar varias de la operaciones a que se refiere la misma fracción, deberá tener autorización especial del Gobierno Federal para cada ramo.
 
 Cuando una institución de seguros tuviere autorización para efectuar varias de las operaciones antes mencionadas, practicará cada clase de operaciones por conducto de un departamento especial, y la parte del patrimonio de su institución que se afecte a cada uno de esos departamentos, en los términos del artículo 20, deberá expresarse en la contabilidad, con mención de los bienes o valores que la integren.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 4°.
 
-No se consideran instituciones de seguros sujetas a la presente Ley, las asociaciones de personas, especialmente las cajas y uniones de seguros de los organismos profesionales, que, sin expedir pólizas o contratos, concedan a sus miembros seguros no mayores de un capital $1,000.00 en caso de muerte, o un beneficio para el caso de enfermedad que no exceda de $600.00 ni de $1,000.00 en total; pero si por el número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la Secretaría de Hacienda y Crédito Público juzga conveniente que se ajusten a las disposiciones de la presente Ley, podrá exigirlo desde luego, para lo cual deberán rendir a la propia Secretaría los informes que ésta les solicite.
+No se considerarán instituciones de seguros sujetas a la presente ley, las asociaciones de personas, especialmente las cajas y uniones de seguros de los organismos profesionales, que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte o beneficios en el de enfermedad; pero estarán sujetas a una reglamentación que expedirá la Secretaría de Hacienda y Crédito Público, donde se fijarán las bases para que, cuando por le número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas mutualidades que se ajusten a las disposiciones de la presente ley, convirtiéndose en instituciones de seguros.
 
 ###### ARTICULO 5°.
 
@@ -101,7 +107,9 @@ I.- Cumplir con los preceptos sobre sociedades extranjeras contenidos en la Ley 
 
 II.- Señalar el capital con que trabajarán sus sucursales en la República en los términos del artículo 21.
 
-III.- Obtener autorización del Gobierno Federal conforme a lo dispuesto en el artículo 13, para lo cual deberán demostrar que tienen cinco años de funcionamiento normal y que se encuentran habilitadas para operar de acuerdo con las leyes de su país de origen. Los apoderados residentes en la República deberán estar autorizados para representar a la sociedad sin limitación de facultades y para realizar todos los actos de un apoderado general, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil. Las sociedades extranjeras en ningún caso podrán repartir a sus asegurados en México, dividendos que no provengan de las utilidades que obtengan por las operaciones que efectúen en el país, y deberán sujetarse a las disposiciones que sean aplicables de esta Ley respecto a distribución de utilidades.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+III.- Obtener autorización del Gobierno Federal conforme a lo dispuesto en el artículo 12, para lo cual deberán demostrar que tienen cinco años de funcionamiento normal y que se encuentran habilitadas para operar de acuerdo con las leyes de su país de origen. Los apoderados residentes en la República deberán estar autorizados para representar a la Sociedad sin limitación de facultades y para realizar todos los actos de un apoderado general, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil del Distrito y Territorios Federales. Las sociedades extranjeras no podrán repartir en caso alguno a sus asegurados en México, dividendos que no provengan de las utilidades que obtengan por las operaciones que efectúen en el país, y deberán sujetarse a las disposiciones de esta ley que les sean aplicables, respecto a distribución de utilidades.
 
 Deberán llevar, en su domicilio social en la República, los libros exigidos para toda comerciante y, además, los auxiliares de registros indispensables, debiendo conservar copia de la pólizas expedidas en el país y todos los documentos relacionados con su negocio, a fin de que la Secretaría pueda mantener un completo control en las inspecciones que se practiquen y sobre los informes que suministren.
 
@@ -115,13 +123,11 @@ Las instituciones de seguros extranjeras sólo podrán publicar los datos de con
 
 El uso de las palabras "seguro," "reaseguro," "aseguramiento" u otras similares en cualquier idioma, en la denominación de un establecimiento o de una sociedad, se reserva exclusivamente a las instituciones de seguros. Las sucursales de instituciones de seguros del extranjero autorizadas para operar en México podrán usar en su denominación esos términos, agregando la palabra "sucursal," con indicación del lugar en que operen. El Registro Público de Comercio no inscribirá escrituras públicas de sociedades en cuya denominación se empleen dichas palabras o sus equivalentes, en español o en cualquier otro idioma, sino cuando la escritura aparezcan insertos los documentos oficiales que comprueben la existencia de la autorización otorgada por la Secretaría de Hacienda. El uso ilegal de dichas palabras u otras equivalentes, en español o en cualquier otro idioma, se castigará por la Secretaría de Hacienda y Crédito con multa de $500.00 a $1,000.00 a cada uno de los gerentes, directores o miembros del Consejo de Administración del establecimiento o sociedad correspondiente, y la negociación respectiva será clausurada administrativamente por la Secretaría de Hacienda y Crédito Público, hasta que su denominación sea cambiada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+(REFORMADO, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
 ###### ARTICULO 8°.
 
-El Gobierno Federal, el Departamento del Distrito Federal, los Gobiernos de los Territorios y de los Estados de la República, para cubrir los riesgos correspondientes a bienes de su propiedad, darán preferencia a las instituciones nacionales, y, en su defecto, a las mexicanas. En el caso de que no existieran instituciones de estas clases, quedarán en libertad para contratar con las sucursales de instituciones extranjeras, siempre que éstas hayan sido autorizadas para funcionar en la República.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+Los Poderes de la Federación y de los Estados, los Gobiernos del Distrito y de los Territorios Federales, los Municipios, los establecimientos descentralizados, las sociedades de economía mixta, las comisiones autónomas, deberán celebrar sus contratos de seguro, con las instituciones nacionales de seguros, con las mexicanas en su defecto y finalmente con las sucursales de empresas extranjeras autorizadas para operar en el país, salvo disposición contraria de la Ley del Seguro Social.
 
 ###### ARTICULO 9°.
 
@@ -141,45 +147,105 @@ III.- Por contraseguro, el convenio en virtud del cual una institución de segur
 
 ###### ARTICULO 11.
 
-Las autorizaciones para el establecimiento de instituciones de seguros, serán otorgadas por el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, otorgará discrecionalmente las autorizaciones para que se constituyan y operen en materia de seguros, las empresas que llenen los requisitos de la Sección 2a. de este Capítulo. Esas autorizaciones son intrasmisibles.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 12.
 
-Sólo podrán operar al amparo de autorizaciones otorgadas conforme a los preceptos de esta Ley, empresas organizadas como sociedades anónimas o mutualistas en los términos de este capítulo. Las autorizaciones se otorgarán a las sociedades solicitantes cuando comprueben que su organización se ajusta a lo dispuesto en esta Ley y que tienen el capital mínimo requerido conforme al artículo 20. Cuando la solicitud de autorización sea hecha por individuos, la autorización se otorgará siempre que los solicitantes constituyan en el Banco de México, en moneda nacional o en títulos de la Deuda Pública Mexicana, a su valor en el mercado, un depósito igual al 10% del capital mínimo que la sociedad concesionaria deberá tener para operar, y la autorización quedará sujeta a la condición de que la sociedad respectiva quede debidamente organizada y de principio a sus operaciones en un plazo no mayor de tres meses a partir de la fecha de la autorización. El depósito será devuelto si se niega la autorización o al iniciar sus operaciones la institución correspondiente.
+El procedimiento para obtener las autorizaciones, se sujetará a las reglas siguientes:
+
+1a.- Las solicitudes se presentarán ante la Secretaría de Hacienda y Crédito Público, con los siguientes anexos:
+
+a). Proyecto de escritura constitutiva de la Sociedad.
+
+b). Comprobante de haber constituído en el Banco de México o en la Nacional Financiera, S. A., según el caso, en efectivo o en títulos de la Deuda Pública, a su valor de mercado; un depósito igual al 10% de la suma que como capital mínimo, según los ramos en que se pretenda operar, exige el artículo 20 a las sociedades anónimas. Independientemente de que la sociedad por constituir sea mutualista o anónima, deberá llenarse este requisito para que pueda iniciarse el trámite de la solicitud. El depósito se devolverá: cuando se deniegue la solicitud o cuando habiéndose otorgado, se compruebe la inscripción de la sociedad en el Registro Público de Comercio.
+
+c). En caso de que se trate de sucursales a que se refiere el artículo 5°., los apoderados de la sociedad extranjera, deberán obligar expresamente en su solicitud a sus poderdantes, a responder ilimitadamente con todos sus bienes y no sólo con los que se encuentren en la República, sometiéndose exclusivamente a las leyes mexicanas y a la jurisdicción de los tribunales del país, en todos los negocios efectuados dentro del Territorio Nacional, en la inteligencia de que el compromiso y la sumisión a que éste capítulo se refiere, serán en beneficio de todas las personas que puedan tener créditos o acciones a cargo de la institución, por operaciones o negocios realizados dentro de la República, o para ser cumplidos en ésta.
+
+2a.- Si se otorga la autorización, la Secretaría de Hacienda y Crédito Público, hará las observaciones que procedan al proyecto de escritura constitutiva o bien le otorgará su aprobación, comunicándolo al solicitante dentro de los 15 días hábiles siguientes a la fecha de la autorización.
+
+3a.- De la escritura constitutiva se exhibirá testimonio para que la Secretaría de Hacienda en el término de 15 días hábiles, otorgue la aprobación o haga las observaciones pertinentes cuando no se ajuste al proyecto aprobado y hechas que sean las modificaciones, se exhibirá nuevo testimonio para su aprobación que se otorgará en igual plazo. De ésta se remitirá copia al Registro Público del Comercio para su inscripción, sin que se requiera mandamiento judicial.
+
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
+
+4a.- Toda autorización que se otorgue, quedará sujeta a la condición suspensiva de la inscripción de la Sociedad en el Registro Público del Comercio.
+
+5a.- No podrán inscribirse en dicho Registro escrituras constitutivas de sociedades cuyo objeto sea operar en materia de seguros, si no se insertan los documentos oficiales que comprueben haberse otorgado la autorización de la Secretaría de Hacienda y si no ha recibido el Registrador o no se le exhibe, la aprobación de la escritura, otorgada conforme a la regla tercera.
+
+6a.- Cualquiera posterior modificación a la escritura constitutiva, deberá ser sometida a la aprobación de la Secretaría de Hacienda. Otorgada ésta, se enviará copia al Registro Público del Comercio para que se haga la inscripción sin requerirse mandamiento judicial.
+
+Cualquiera reforma en la constitución y funcionamiento de sociedades extranjeras con sucursales autorizadas en el país, será dada a conocer a la Secretaría de Hacienda para que se cumplan las disposiciones legales aplicables.
+
+7a.- Las inscripciones en el Registro Público del Comercio de escrituras para las cuales no se haya obtenido la aprobación de la Secretaría de Hacienda y Crédito Público que esta ley requiere; no producirán efectos legales.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 13.
 
-En el caso de las sucursales a que se refiere el artículo 5°., los representantes debidamente acreditados de las matrices en el extranjero, deberán, al solicitar la autorización, obligar expresamente a su representadas a responder ilimitadamente con todos sus bienes y no sólo con los que se encuentren en territorio mexicano, por las operaciones que practiquen en la República, sometiéndose exclusivamente a las leyes mexicanas y a la jurisdicción de los Tribunales de la República en todos los negocios efectuados dentro del territorio nacional, entendiéndose hechos el compromiso y la sumisión a que este artículo se refiere, en beneficio de todas las personas que puedan tener créditos o acciones a cargo de la institución por operaciones o negocios realizados dentro de la República o para ser cumplidos en ésta.
+Son causas de revocación de las autorizaciones:
+
+I.- No presentar para la aprobación de la Secretaría de Hacienda, el testimonio de su escritura constitutiva, dentro de los treinta días hábiles siguientes a la aprobación del proyecto o a las observaciones hechas en cumplimiento de las reglas segunda y tercera del artículo anterior.
+
+II.- No presentar para su aprobación a la misma Secretaría, los documentos a que se refiere el artículo 24, en el término de sesenta días hábiles siguientes a la fecha en que se comunique la aprobación de la escritura.
+
+III.- No iniciar sus operaciones dentro de los sesenta días hábiles siguientes a la fecha en que se comunique la aprobación de los documentos a que se refiere el artículo 24.
+
+IV.- El hecho de no constituir dentro de los diez días de haber sido notificada, las reservas especiales para obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la parte final del artículo 135 de esta ley.
+
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
+
+V.- La falta de acatamiento a las observaciones de la Secretaría de Hacienda para que la institución no exceda los límites legales de las obligaciones que pueda contraer, para que no ejecute operaciones distintas de aquellas para las cuales está facultada por su autorización y por las disposiciones legales correspondientes, o bien que la sociedad no mantenga su capital mínimo y sus reservas o las inversiones respectivas, en los términos de esta ley.
+
+VI.- Constituir alguna sucursal o agencia en el extranjero, sin la previa autorización de la Secretaría de Hacienda.
+
+VII.- La modificación por la sociedad de su forma de constitución o de las reglas de su funcionamiento, en contravención a las disposiciones legales.
+
+VIII.- Las modificaciones que una sociedad extranjera haya introducido a su constitución o a su funcionamiento, siempre que la Secretaría de Hacienda considere inconveniente que la sucursal en México de dicha sociedad, continúe operando dentro del nuevo regimen de su matriz.
+
+IX.- El hecho de que la institución obre sin consentimiento de la Secretaría de Hacienda y Crédito Público, en los casos en que esta ley exija ese consentimiento.
+
+X.- Que la institución se disuelva o entre en estado de liquidación.
+
+XI.- Cuando la institución quiebre, pero si el procedimiento termina en rehabilitación, la Secretaría de Hacienda podrá discrecionalmente, mantener en vigor, la autorización con las modalidades que estime a bien imponer.
+
+XII.- El hecho de que la mayoría de las acciones pase a poder de un gobierno extranjero.
+
+XIII.- Que la institución haga gestiones por conducto de una cancillería extranjera.
+
+XVI.- Cualquiera otra causa establecida en la ley.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 14.
 
-Los Tribunales de la República no darán acción ni admitirán excepción derivadas de contratos de seguros concertados por sociedades no autorizadas, si el asegurado, cuando se trate de seguros de vida, accidentes y enfermedades, y el bien objeto del seguro, en cualquier otro ramo, se encontraban dentro del territorio de la República a la fecha de la celebración del contrato, salvo el derecho del asegurado para pedir el reintegro de las primas pagadas.
+La revocación se dictará por la Secretaría de Hacienda previa audiencia de la institución afectada, se inscribirá en el Registro Público del Comercio, previa orden de la misma Secretaría y producirá los siguientes efectos:
+
+I.- Incapacitará a la sociedad para otorgar cualquier seguro a partir de la fecha en que se notifique la revocación.
+
+II.- Si no se hubiere efectuado la inscripción de la sociedad en el Registro Público del Comercio, no podrá ya efectuarse y el depósito a que se refiere la regla primera del anterior artículo 12, se aplicará al Gobierno Federal.
+
+III.- La sociedad se pondrá inmediatamente en estado de liquidación en los términos del Título IV de esta ley, salvo cuando la causa de la revocación, sea precisamente que la institución entre en estado de liquidación.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 15.
 
-Las autorizaciones se revocarán:
+En los casos de las fracciones X y XI del artículo 13, la Secretaría de Hacienda puede dictar la revocación sin audiencia de la institución afectada.
 
-I.- Si al constituirse la sociedad no se cumple con lo dispuesto en los artículos 17 y 18, o si en cualquier época posterior se modifican en contravención con lo dispuesto por esta Ley, la forma de constitución o las reglas de funcionamiento de la sociedad autorizada;
-
-II.- Si la sociedad no inicia sus operaciones normales tres meses después de haber sido autorizada para ello o si no tiene exhibido en dicho plazo el capital mínimo que necesita para operar conforme al artículo 20.
-
-III.- Si la mayoría de las acciones pasa a un gobierno extranjero;
-
-IV.- Si reiteradamente, a pesar de las observaciones de la Secretaría de Hacienda y Crédito Público, la institución excede los límites legales de las obligaciones que puede contraer, ejecuta operaciones distintas de aquellas que comprenda su autorización o no mantiene su capital o sus reservas en las inversiones que esta Ley permite;
-
-V.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público en los casos en que esta Ley exija ese consentimiento;
-
-VI.- Si la institución quiebra o entra en estado de disolución. En caso de rehabilitación a satisfacción de la Secretaría de Hacienda, la autorización otorgada podrá continuar;
-
-VII.- Si la institución hace gestiones por conducto de alguna cancillería extranjera; y
-
-VIII.- Si la revocación procede por cualquiera otra causa establecida en esta Ley.
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 16.
 
-La revocación será declarada administrativamente por la Secretaría de Hacienda, oyendo a la institución afectada. La revocación de la autorización pondrá en estado de disolución a la institución que hubiere operado a su amparo. La disolución se practicará en los términos del Título IV de esta Ley.
+Se publicarán en el “Diario Oficial”:
+
+I.- Las autorizaciones para que se constituyan y operen a su amparo, las instituciones de seguros.
+
+II.- Los permisos para que la sociedad inicie sus operaciones, los que se expedirán en cuanto se hubieren llenado los requisitos que para el efecto señala este Capítulo.
+
+III.- Las revocaciones de las autorizaciones.
+
+En los dos primeros casos, la publicación será a costa de los interesados y en el tercero, gratuita.
 
 SECCION 2a.
 
@@ -211,7 +277,9 @@ La escritura constitutiva establecerá que cuando haya una sola serie de accione
 
 Los accionistas que estén en minoría y posean acciones sin derecho a retiro, deberán nombrar un comisario siempre que sus acciones representen, por lo menos, el 10% del capital pagado.
 
-VIII.- Las cláusulas de la escritura social relativas al reparto de utilidades, deberán declarar que no se decretará dividendo alguno si no existen los fondos disponibles para hacer su pago inmediato, después de haber separado de las utilidades que arroje la cuenta de Pérdidas y Ganancias, formada de acuerdo con lo que previene esta Ley y aprobada por la Secretaría de Hacienda y Crédito Público, un 5% por lo menos, para la constitución de un fondo ordinario de reserva, hasta que este fondo alcance un valor por lo menos igual a la mitad del capital social suscrito. Tampoco podrá repartirse dividendo a los asegurados y a los accionistas mientras no se haya integrado debidamente la reserva de previsión mandada por esta Ley, o haya déficit en el capital mínimo o en las otras reservas técnicas de la institución;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+VIII.- Las cláusulas de la escritura social relativas al reparto de utilidades, deberán declarar que no se decretará dividendo alguno si no existen los fondos disponibles para hacer su pago inmediato, después de haber separado de las utilidades que arroje la cuenta de pérdidas y ganancias, formada de acuerdo con lo que previene esta ley y aprobada por la Secretaría de Hacienda y Crédito Público, un 10% por lo menos, para la constitución de un fondo ordinario de reserva, hasta que éste iguale por lo menos, a la mitad del capital social suscrito. Tampoco podrá repartirse dividendo alguno a los asegurados y a los accionistas, mientras no se haya integrado debidamente la reserva de previsión ordenada por esta ley o mientras haya déficit en el capital mínimo o en las otras reservas técnicas de la Institución.
 
 IX.- La disolución y liquidación de la sociedad deberá efectuarse de acuerdo con lo que dispone el título IV.
 
@@ -263,6 +331,10 @@ Las decisiones que se refieran a la disolución de la sociedad, a su fusión con
 
 VIII.- El Consejo de Administración estará formado por el número de miembros mutualizados que establezca el contrato social, y serán electos por un período no mayor de cinco años, precisamente por la Asamblea General. Las facultades del Consejo de Administración se determinarán en el contrato social, y los miembros del Consejo podrán escoger, entre ellos, y, si el contrato social lo permite, fuera de ellos, uno o varios directores, cuya remuneración consistirá en un emolumento fijo que se tomará de la parte de cuotas prevista para gastos de gestión. Las sociedades mutualistas no podrán encargar de la gestión de sus negocios a un director que no haya sido designado en la forma indicada en este artículo o a una empresa distinta de la sociedad. Los miembros del Consejo de Administración deberán ser electos entre los mutualizados que tengan la suma de valores asegurados o de cuotas que determinen los estatutos, pudiendo las minorías cuya representación en la Asamblea no sea menor del 15%, nombrar, por lo menos, un consejero;
 
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+Los miembros del Consejo de Administración deberán ser electos entre los mutualizados que tengan la suma de valores asegurados o de cuotas que determinen los estatutos, pudiendo las minorías, cuya representación en la Asamblea no sea menor del 5%, nombrar un consejero por lo menos.
+
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
 IX.- La Asamblea General de mutualizados designará uno o varios comisarios, mutualizados o no, encargados de la vigilancia de la sociedad, en la inteligencia de que las minorías que representen, por lo menos, un 10% de los votos computables en la Asamblea, tendrán derecho a la designación de un comisario. Los comisarios tendrán todos los derechos y obligaciones que se imponen en la Ley General de Sociedades Mercantiles a los comisarios de las sociedades anónimas;
@@ -277,23 +349,27 @@ XI.- Los gastos de establecimiento y primera organización estarán limitados al
 
 XII.- Con un 25%, cuando menos, de los remanentes a que se refiere la fracción X de este artículo y con un recargo sobre las primas, que apruebe la Secretaría de Hacienda y Crédito Público, se constituirá un fondo de reserva que tendrá por objeto dar a la sociedad los medios de suplir la insuficiencia de las cuotas anuales para el pago de siniestros. No podrá tomarse más de la mitad de dicho fondo para cubrir los deficientes en un solo ejercicio y, en todo caso, será necesaria la aprobación de la Secretaría de Hacienda. Cuando la mutualista se liquide, los saldos libres de dicho fondo se distribuirán entre todos los mutualizados que hayan contribuído a su formación, en proporción al total de primas pagadas por cada uno de ellos.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 19.
 
-La escritura y los estatutos de las sociedades que se organicen para operar como instituciones de seguros serán sometidos a la aprobación de la Secretaría de Hacienda y Crédito Público, antes de que la sociedad dé principio a sus operaciones, y sólo para el efecto de que la escritura y los estatutos queden ajustados a las disposiciones de la Ley General de Sociedades Mercantiles y a los preceptos de esta Ley. Toda reforma a la escritura o a los estatutos será igualmente sometida a la aprobación de la Secretaría de Hacienda. Las sucursales de las sociedades extranjeras deberán, igualmente, dar a conocer a la propia Secretaría las modificaciones que sufran tales documentos de su matriz, y la Secretaría podrá revocar la autorización en caso de que, por las modificaciones sufridas, considere que es inconveniente que la sociedad de referencia siga operando en la República. Los poderes que las instituciones de seguros otorguen no requerirán otras inserciones que las relativas al acuerdo del Consejo que haya autorizado el otorgamiento del poder, a las facultades que en la escritura o en los estatutos se concedan al Consejo sobre el particular y a la comprobación del nombramieno (sic) de los consejeros.
+Los poderes que las instituciones de seguros otorguen, no requerirán otras inserciones que las relativas al acuerdo del Consejo que haya autorizado el otorgamiento del mandato, a las facultades que en la escritura o en los estatutos se conceden al Consejo sobre el particular y a la comprobación del nombramiento de los Consejeros.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
 ###### ARTICULO 20.
 
-El capital mínimo con que deberán contar las sociedades anónimas que se organicen para operar como instituciones de seguros será de $200,000.00 para cada uno de los ramos a que se refieren los incisos a), b), c), d) y e) de la fracción II del artículo 1° y de $100,000.00 para cada uno de los ramos a que se refieren los incisos f), g) y h), de la propia fracción. Cuando una misma institución se proponga practicar varias de las operaciones a que se refiere dicha fracción, deberá tener un capital, por lo menos, igual a la suma de los capitales mínimos requeridos para cada uno de los ramos en que desee operar.
+El capital mínimo con que deberán contar las sociedades anónimas que se organicen, para operar como instituciones de seguros, será de quinientos mil pesos para cada uno de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “e” y “h”, de la fracción II del artículo 1° y de trescientos mil pesos para cada uno de los ramos a que se refieren los incisos “f”, “g” e “i”, de la propia fracción. Cuando una misma institución se proponga practicar varias de las operaciones a que se refiere dicha fracción, deberá tener un capital, por lo menos, igual a la suma de los capitales mínimos requeridos para cada uno de los ramos en que desee operar.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
 Las responsabilidades que contraiga cualquier institución de seguros, sin reasegurar, no serán superiores, en cada riesgo, al 10% de su capital, reservas de previsión y estatutarias. Cuando se trate de instituciones que operen en los ramos de vida y de responsabilidad civil y riesgos profesionales, la Secretaría de Hacienda fijará a cada institución el límite máximo de responsabilidad que pueda retener para cada riesgo.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 21.
 
-El capital de las sucursales de instituciones extranjeras a que se refiere el artículo 5° deberá ser, por lo menos, de $300,000.00 para cada uno de los ramos del seguro a que se refiere la fracción II del artículo 1°. Regirá respecto al capital de las sucursales de instituciones extranjeras lo dispuesto en el artículo 32 en la inteligencia de que dichas sucursales mantendrán siempre en disponibilidad, dentro de la República, en los términos que esta Ley establece, todos los bienes, títulos, créditos o valores que constituyan la inversión de su capital, de las reservas técnicas, y de previsión y de su fondo legal de reserva.
+El capital de las sucursales de instituciones extranjeras a que se refiere el artículo 5° deberá ser, por lo menos, de quinientos mil pesos para cada uno de los ramos del seguro a que se refiere la fracción II del artículo 1°. Lo dispuesto en el artículo 32, regirá respecto del capital de las sucursales de empresas extranjeras, en la inteligencia de que dichas sucursales mantendrán siempre en disponibilidad, dentro de la República, en los términos que esta ley establece, todos los bienes, títulos, créditos o valores que constituyan la inversión de su capital, de las reservas técnicas y de previsión y de su fondo legal de reserva.
 
 ###### ARTICULO 22.
 
@@ -303,13 +379,15 @@ Cuando al organizarse una sociedad anónima al amparo de una autorización, los 
 
 Cuando no esté íntegramente cubierto el valor de las acciones suscritas de las sociedades anónimas que operen como instituciones de seguros, dichas acciones deberán ser precisamente nominativas y, si fueren cedidas, los cedentes estarán solidariamente obligados con el tenedor a hacer el pago de las exhibiciones pendientes. La responsabilidad que en este artículo se establece para los cedentes, sólo prescribirá en un plazo de tres años, contado desde la fecha en que las exhibiciones debieron haber sido pagadas.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 24.
 
-Para que una institución de seguros pueda empezar a operar al amparo de la autorización concedida, deberá presentar a la Secretaría de Hacienda y Crédito Público, para su aprobación, los siguientes documentos, redactados en idioma español:
+Para que una institución de seguros pueda iniciar sus operaciones al amparo de la autorización concedida, necesitará un permiso complementario, que le otorgará la Secretaría de Hacienda y Crédito Público, previa aprobación de los siguientes documentos, redactados en idioma español, que deberá exhibir la institución de seguros:
 
-I.- Los modelos de pólizas, de endosos, de cláusulas especiales de certificados individuales de seguro de grupo, de certificados de pólizas abiertas, de certificados provisionales de pólizas, de cláusulas adicionales a las pólizas de modelos de solicitudes de seguro, de examen médico, de recibos de pago de primas, de recibos de pago de prospectos que describan sus diversos planes de seguros y, en general, toda la documentación que utilicen en la contratación o propaganda de la empresa;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+I.- Los modelos de pólizas, de cláusulas especiales y adicionales, de certificados individuales de seguro de grupo, de certificados de pólizas abiertas, de certificados provisionales de pólizas, de cláusulas adicionales de las mismas, de modelos de solicitudes de seguro, de examen médico, de cuestionarios, de recibos de pago de primas, de recibos de pago de pólizas, de pagarés por préstamos sobre pólizas, de prospectos que describan sus diversos planes en la contratación del seguro. Si la misma documentación fuere a usarse impresa, deberá serlo en caracteres fácilmente legibles y la aprobación gubernamental versará tanto respecto de su contenido, cuanto de su parte tipográfica y no podrá ponerse en uso sin que la aprobación haya sido otorgada. La Secretaría de Hacienda y Crédito Público fijará administrativamente los requisitos tipográficos para considerar fácilmente legibles los caracteres empleados.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -323,9 +401,11 @@ V.- El proyecto de organización y funcionamiento de su contabilidad teniendo en
 
 VI.- El porcentaje que se repartirá de las utilidades de la compañía entre los asegurados, así como el procedimiento que sirva para determinar el dividendo que a cada asegurador corresponda de acuerdo con la prima de su póliza, plan de seguro y número de años que ha estado asegurado.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 25.
 
-Cualquier variación que sufran los modelos, certificados, documentos y tarifas a que se refiere el artículo 24, deberá ser previamente sometida para su aprobación, a la Secretaría de Hacienda y Crédito Público, y no podrán ponerse en vigor o hacer uso de ellos sin que esta aprobación haya sido otorgada. La Secretaría de Hacienda y Crédito Público podrá suspender la autorización concedida para empezar sus operaciones hasta que haya aprobado los documentos, modelos, certificados y tarifas aludidos.
+Cualquiera modificación o simplemente reimpresión de los documentos a que se refiere la fracción I del artículo anterior o cualquier variación a las tarifas de la fracción II; deberá ser previamente sometida a la aprobación de la Secretaría de Hacienda y Crédito Público y no podrá usarse o ponerse en vigor, sin que esta aprobación haya sido otorgada. La Secretaría podrá suspender los efectos de la autorización concedida para operar, hasta que haya aprobado los documentos, modelos, pólizas, certificados y tarifas expresados.
 
 ###### ARTICULO 26.
 
@@ -351,37 +431,61 @@ SECCION 1a.
 
 De las autorizaciones
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 29.
 
 Cuando una institución opere en diversos ramos en los términos del artículo 3°., deberá anotar en libros auxiliares de su contabilidad, para fines de manejo interior y de la inspección, el departamento a que correspondan las operaciones que celebre, y las reservas legales correspondientes a un ramo determinado, no podrán servir para cumplir obligaciones contraídas por pólizas emitidas en otros ramos.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 30.
 
-Mientras las instituciones de seguros no sean puestas en liquidación o declaradas en quiebra, se considerarán de acreditada solvencia, y no estarán obligadas, por tanto, a constituir depósitos ni fianzas legales.
+Podrá capitalizarse el fondo ordinario de reserva establecido por la fracción VIII del artículo 17 y el que se hubiera formado de acuerdo con las disposiciones del artículo 22, pero la sociedad deberá en tales casos reconstituír el primero de acuerdo con el nuevo monto del capital.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 31.
 
-Las autorizaciones para el establecimiento de instituciones de seguros y los permisos para empezar a operar, se publicarán en el Diario Oficial de la Federación.
+Mientras las instituciones de seguros no sean puestas en liquidación o declaradas en quiebra, se considerarán de acreditada solvencia, y no estarán obligadas por tanto, a constituir depósitos ni fianzas legales, ni aún en el caso de amparo.
 
 ###### ARTICULO 32.
 
-El capital y las reservas estatutarias de las instituciones de seguros, deberán ser invertidos precisamente en los bienes, créditos y valores siguientes:
+El capital y las reservas estatutarias de las instituciones de seguros organizadas en forma de sociedades anónimas, así como el fondo de reserva de las sociedades mutualistas a que se refiere el inciso 12 del artículo 18 de esta ley, deberán ser invertidos precisamente, en los bienes, créditos y valores siguientes:
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
 I.- Bienes, créditos o valores de los enumerados en el artículo 85 de esta Ley, subsistiendo para inversiones de esta clase, las reglas establecidas en los artículos 86 y 87 de la misma;
 
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
+
 II.- Recargos sobre las primas netas pendientes de cobro que no tengan más de 30 días de vencidas en la fecha de balance o de la estimación, cuando se trate de instituciones que practiquen el ramo de vida;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
 III.- Acciones de instituciones de seguros. La inversión en esta clase de valores nunca podrá ser mayor del 20% de la suma del capital pagado y reservas estatutarias de la inversora, y sólo podrá hacerse con los excedentes de esta suma sobre su capital mínimo legal, o sobre: el 10% de la reserva de riesgos en curso, si se trata de los ramos de seguro comprendidos en los incisos a) y b) de la fracción II del artículo 1o., o el 15% de las primas brutas cobradas durante el año para los demás ramos, en caso de que dichos porcentajes sean superiores al capital mínimo legal. La inversión en acciones de una misma institución de seguros, en ningún caso excederá del 40% del capital de la emisora.
 
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
+
 IV.- Saldos deudores de agentes y agencias;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
 V.- Gastos de establecimiento y de primera organización no amortizados;
 
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
+
 VI.- Muebles y enseres, descontando la reserva por depreciación;
+
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 1937)</small>
 
 VII.- Diversos deudores, provenientes de operaciones propias del objeto de las instituciones aseguradoras.
 
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1937)</small>
+
 La Secretaría de Hacienda y Crédito Público, fijará administrativamente los porcentajes máximos del capital y reservas estatutarias que pueden invertirse en los conceptos a que se refieren los incisos (sic) IV, V, VI y VII de este artículo.
+
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1937)</small>
 
 Las inversiones de capital y reservas estatutarias a que se refiere este artículo, no estarán sujetas a las reglas sobre depósitos de valores establecidas en el artículo 93 de esta Ley.
 
@@ -389,15 +493,17 @@ Las inversiones de capital y reservas estatutarias a que se refiere este artícu
 
 Se considerarán operaciones de seguros sujetas a las disposiciones de las leyes mexicanas, las que se celebren en territorio nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ### CAPITULO II. Del funcionamiento
 
-> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 1937)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ### CAPITULO I. De las reservas
 
 ###### ARTICULO 34.
 
-Las operaciones de seguros que quedan comprendidas dentro de la clasificación de la fracción II del artículo 1°., son las siguientes:
+Las operaciones de seguros que quedan comprendidas dentro de la enumeración de la fracción II del artículo 1°., son las siguientes:
 
 I.- Para el ramo de vida, las que tengan como base del contrato los riesgos que puedan afectar la persona del asegurado en su existencia. Se consideran comprendidos dentro de este ramo, los beneficios adicionales que, basados en la salud o en accidentes personales, se incluyan en pólizas regulares de seguros sobre la vida;
 
@@ -415,7 +521,13 @@ VI.- Para el ramo agrícola, el pago de indemnización por los daños o perjuici
 
 VII.- Para el ramo de automóviles, el pago de la indemnización que corresponda a los daños o pérdida del automóvil, y a los daños o perjuicios causados a la propiedad ajena o a terceras personas con motivo del uso del automóvil. Las instituciones que se dediquen a este ramo, podrán, en consecuencia, incluir en las pólizas regulares que expidan, beneficio adicional de responsabilidad civil;
 
-VIII.- Para el ramo de diversos, el pago de la indemnización debida por daños o perjuicios ocasionados a personas o cosas por cualquier otra eventualidad.
+(REFORMADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
+
+VIII.- Para el ramo de seguro de crédito el pago de la indemnización de una parte proporcional de las pérdidas que sufra el asegurado a consecuencia de la insolvencia total o parcial de sus clientes deudores por créditos comerciales.
+
+(ADICIONADA, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
+
+IX.- Para el ramo de diversos, el pago de la indemnización debida por daños y perjuicios ocasionados a personas o casos por cualquiera otra eventualidad.
 
 ###### ARTICULO 35.
 
@@ -437,21 +549,35 @@ Para los efectos de esta Ley, son filiales las instituciones aseguradoras debida
 
 Los excedentes que tengan las instituciones de seguros sobre sus límites de retención neta en cada riesgo asegurado, podrán cederlos en forma de coaseguro o reaseguro a instituciones autorizadas, o en forma de reaseguro a instituciones no autorizadas, en la inteligencia de que el monto de primas cedidas a estas últimas sobre cualquier riesgo, no excederá, salvo lo previsto en el párrafo siguiente, el monto de las que se hayan cedido a las primeras sobre el mismo riesgo.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 Si por haberse agotado la capacidad de retención neta de las instituciones autorizadas sobre algún riesgo, no fuese posible reasegurar con ellas la parte a que se refiere el párrafo anterior, el exceso no cubierto podrá reasegurarse en el extranjero.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
 Para computar el monto de las primas que conforme al presente artículo se hayan cedido sobre cualquier riesgo a instituciones autorizadas, se tomará en cuenta solamente el de las que correspondan a la retención neta de las reaseguradoras.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 En el reaseguro o coaseguro entre instituciones autorizadas, se dará preferencia a las instituciones nacionales o mexicanas, en el concepto de que dichas operaciones se harán a base de estricta reciprocidad en cuanto al monto de las primas, y por lo mismo, cesará para una compañía la obligación de ofrecer a otra, cuando ésta tenga en su cuenta de primas por reaseguros o coaseguros, un saldo no compensado que alcance la suma de $2,000.00.
 
-Tratándose de los ramos a que se refieren los incisos a), b), c), d y f) de la fracción II del artículo 1° de esta Ley, podrá practicarse el reaseguro sin limitación, en el país o en el extranjero.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+Tratándose de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “f” y “h”, de la fracción II del artículo 1° de esta ley, podrá practicarse el reaseguro sin limitación en el país o en el extranjero.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
 En el caso de que se hagan operaciones de reaseguro con instituciones no autorizadas para operar en el país, la institución autorizada que practique el seguro directo, tendrá la obligación de constituir e invertir en los términos de esta Ley, la reserva correspondiente al riesgo cedido y los contratos respectivos deberán someterse a la previa autorización de la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
+
 A las instituciones que no cumplan con lo dispuesto en este artículo, se les impondrá una multa de $500.00 a $1,000.00 y en caso de reincidencia, se revocará la autorización.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 38.
 
-El seguro de grupo o empresa a que se refiere el artículo 191 de la Ley sobre el Contrato de Seguro, se practicará de acuerdo con el reglamento que al efecto se expida.
+El seguro de grupo o empresa y el seguro popular a que se refieren los artículos 190 y 191 de la Ley del Contrato de Seguro, se practicarán de acuerdo con sus respectivos reglamentos.
 
 ###### ARTICULO 39.
 
@@ -479,13 +605,17 @@ Queda estrictamente prohibido a las instituciones aseguradoras abonar a cualquie
 
 Ninguna compañía podrá hacer préstamos ni anticipos a sus agentes a cuenta de comisiones, sino sobre las primas del primer año y siempre que éstos otorguen garantía bastante.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 42.
 
-Los individuos del Consejo de Administración y los comisarios de las instituciones de seguros no podrán hacer operaciones en virtud de las cuales resulten o puedan resultar deudores directos de la institución, excepción hecha de las operaciones de préstamos con garantía de las pólizas de vida que dichos individuos tengan en la Compañía.
+Los administradores, gerentes y comisarios de las instituciones de seguros, no podrán hacer operaciones en virtud de las cuales resulten o puedan resultar deudores principales o accesorios de la institución, excepción hecha de los préstamos con garantía de las pólizas de vida que dichos individuos tengan en la Compañía. Esta regla se aplicará también a los ascendientes, descendientes y cónyuges de las personas indicadas.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 43.
 
-Todo acto, contrato o documento que importe obligación inmediata o eventual para las instituciones de seguros, deberá ser registrado en la contabilidad. La contabilidad de las instituciones de seguros podrá llevarse, sin perjuicio de su valor probatorio legal, en auxiliares encuadernados o en hojas sueltas, y se regirá por lo que dispone esta ley en el Capítulo respectivo.
+Todo acto, contrato o documento que importe obligación inmediata o eventual para las instituciones de seguros, deberá ser registrado en su contabilidad, la que podrá llevarse sin perjuicio de su valor probatorio legal, en libros encuadernados o en tarjetas u hojas sueltas que llenen los requisitos que fije la Secretaría de Hacienda y Crédito Público.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE AGOSTO DE 1936)</small>
 
@@ -531,7 +661,9 @@ Las solicitudes de seguros deberán contener además de los datos que administra
 
 I.- Para el seguro individual de vida, accidente y enfermedades, los datos relativos al solicitante y a su ocupación que sirvan para precisar la tarifa que le corresponda;
 
-II.- Para el seguro de grupo, la tarifa completa de primas aplicable al grupo, debiendo incluirse en la solicitud el poder extendido al representante para contratar a nombre de los componentes del grupo;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+II.- Para el seguro de grupo, la tarifa completa de primas aplicable.
 
 III.- Para el seguro de cosas, los datos relativos a los muebles o inmuebles y a su estado, que sirvan para determinar la tarifa que deba aplicarse.
 
@@ -551,9 +683,13 @@ La Secretaría de Hacienda y Crédito Público fijará administrativamente los c
 
 Los contratos de prestación de servicio que las instituciones aseguradoras celebren con sus agentes, deberán enviarse a la Secretaría de Hacienda y Crédito Público para su aprobación, sin lo cual no surtirán efecto legal alguno.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 55.
 
-Las instituciones de seguros deberán remitir a la Secretaría de Hacienda, los retratos, filiaciones y demás documentos necesarios para la identificación de sus agentes a fin de que dicha Secretaría expida la credenciales respectivas que serán renovables cada año, durante el mes de mayo. La propia Secretaría podrá a su juicio negar la expedición de credenciales y cancelar las que hubiere expedido, oyendo en este caso, previamente a los interesados.
+Para el ejercicio de la actividad de agente de seguros, se requiere autorización que la Secretaría de Hacienda otorgará discrecionalmente y que podrá revocar, previa audiencia de la parte interesada, en los términos del reglamento respectivo.
+
+En ningún caso se podrá otorgar autorización para fungir como agente a funcionarios o empleados federales o locales, a funcionarios o empleados de instituciones de crédito o de fianzas y en general, a cualquier persona física o moral que por su posición o por cualquiera otra circunstancia pueda ejercer coacción para contratar seguros.
 
 ###### ARTICULO 56.
 
@@ -563,9 +699,11 @@ Los agentes y funcionarios de las instituciones aseguradoras no proporcionarán 
 
 Las instrucciones de carácter general que las instituciones aseguradoras den a sus agentes, relacionadas con sus actividades, deberán sujetarse previamente a la aprobación de la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 58.
 
-Las personas que tengan el carácter de contratantes en cualquier seguro, no podrán ser agentes respecto del mismo.
+Las personas que tengan el carácter de contratantes o de empleados de ellos en cualquier seguro, no podrán ser agentes respecto del mismo. Tampoco podrán los agentes actuar con ese carácter en los contratos de seguro que soliciten otros agentes de la misma empresa aseguradora.
 
 ###### ARTICULO 59.
 
@@ -599,13 +737,19 @@ II.- Reservas para obligaciones pendientes de cumplir por pólizas vencidas, por
 
 III.- Reservas de previsión para fluctuaciones de valores y desviaciones estadísticas.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 65.
 
 Las reservas de riesgos en curso que deberán constituir las instituciones de seguros, serán:
 
-I.- La reserva media de primas correspondiente a las pólizas en vigor en el momento de la valuación, disminuida de las primas netas diferidas, para los seguros en los cuales la prima sea constante y la probabilidad del siniestro, creciente con el tiempo;
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
 
-II.- La parte de las primas de tarifa no devengada a la fecha de la valuación para los seguros temporales y en general, para aquellos en los cuales el riesgo sea constante. En los casos a que se refiera esta fracción, y para los ramos de seguro marítimo y transportes y de seguro agrícola, la reserva de riesgos en curso será igual al 30% de las primas cobradas durante el año anterior al cálculo.
+I.- La reserva media de primas correspondiente a las pólizas en vigor en el momento de la valuación, disminuída de las primas netas diferidas, para los seguros en los cuales la prima sea constante y la probabilidad del siniestro, creciente con el tiempo.
+
+II.- La parte de las primas de tarifa no devengada a la fecha de la valuación para los seguros temporales renovables, dentro del período de cada año en vigor y en el ramo de vida.
+
+III.- El 45% de las primas correspondientes a las pólizas emitidas, menos devoluciones y cancelaciones, durante el año a cuyo final se hace el cálculo, para los seguros a que se refieren los incisos “b” a “i”, de la fracción II del artículo 1° de esta ley.
 
 ###### ARTICULO 66.
 
@@ -691,27 +835,33 @@ III.- La reserva por obligaciones pendientes de cumplir por dividendos dejados e
 
 Las reservas para obligaciones pendientes deberán ser constituídas en efectivo o en valores de rápida realización a juicio de la Secretaría de Hacienda, inmediatamente después que se hayan hecho las estimaciones a que se refieren las fracciones I y II de este artículo. La propia Secretaría podrá en cualquier momento, avocarse de oficio al conocimiento de un siniestro y mandar constituir la reserva que corresponda.
 
-Si la institución no constituye las reservas a que se refiere este artículo, dentro del término de 72 horas después de haber sido notificada, la propia Secretaría la declarará en estado de disolución.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ### CAPITULO III. Del control de las inversiones
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 76.
 
-La reserva de previsión para los ramos de seguro de los incisos a) y b) de la fracción II del artículo 1° de esta Ley, se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de las cedidas por concepto de reaseguro. Si el 10% de las utilidades netas que arroje el estado de Pérdidas y Ganancias formulado de acuerdo con esta Ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituir como reserva de previsión precisamente este 10% de las utilidades.
+La reserva de previsión para el ramo de seguros a que se refiere el inciso “a” de la fracción II del artículo 1° de esta ley, se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de las cedidas por concepto de reaseguro. Si el 10% de la utilidades netas que arroje el estado de pérdidas y ganancias formulado de acuerdo con esta ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituír como reserva de previsión, precisamente este 10% de las utilidades.
 
-Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las instituciones aseguradoras no deberán incluir como deducción en su estado de Pérdidas y Ganancias, el 1% de las primas cobradas.
+Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las instituciones aseguradoras no deberán incluir como deducción en su Estado de Pérdidas y Ganancias el 1% de las primas cobradas.
 
-La reserva así constituída deberá incrementarse cada año hasta que llegue a tener un valor igual al 10% de las reservas medias de primas más el 25% de las primas anuales de tarifa de las pólizas de seguro temporal renovable, vigentes a la fecha de la valuación.
+La reserva así constituída deberá incrementarse cada año hasta que llegue a tener un valor igual al 10% de las reservas medias de primas, más el 25% de las primas anuales de tarifas de las pólizas de seguro temporal renovable, vigente a la fecha de la valuación.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 77.
 
-La reserva de previsión para los demás ramos se constituirá con el 3% de las primas cobradas durante el año, menos las cedidas por concepto de reaseguro y las devoluciones. Si el 20% de las utilidades netas que arroje el estado de Pérdidas y Ganancias formulado de acuerdo con esta ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituir como reserva de previsión precisamente este 20% de las utilidades.
+La reserva de previsión para los demás ramos se constituirá con el 3% de las primas correspondientes a las pólizas emitidas durante el año, menos las cedidas por concepto de reaseguro, las devoluciones y las cancelaciones. Si el 20% de las utilidades netas que arroje el estado de pérdidas y ganancias formulado de acuerdo con esta ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituir como reserva de previsión precisamente este 20% de las utilidades.
 
-Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las compañías aseguradoras no deberán incluir como deducción en su estado de Pérdidas y Ganancias el 3% de las primas cobradas.
+Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las compañías aseguradoras no deberán incluír como deducción en su estado de pérdidas y ganancias el 3% de las primas, a que se refiere este artículo.
 
-La reserva así constituida deberá incrementarse cada año hasta completar una suma igual a la mitad del capital mínimo o el 15% de las primas brutas cobradas durante el año, si este último importe es mayor que la suma antes citada.
+> <small>(F. DE E., D.O.F. 2 DE AGOSTO DE 1946)</small>
+
+La reserva así constituída deberá incrementarse cada año hasta completar una suma igual a la mitad del capital mínimo o al 15% de las primas netas correspondientes a las pólizas emitidas durante el año, si el importe de éstas es mayor que la suma antes citada.
 
 ## TITULO II. De las reservas y de su inversión
 
@@ -765,15 +915,17 @@ Las reservas técnicas constituídas al 31 de diciembre de cada año de acuerdo 
 
 El importe total de las reservas técnicas deberá invertirse precisamente en los siguientes bienes, créditos o valores:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE JUNIO DE 1938)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-I.- Bonos o títulos emitidos o garantizados por el Gobierno Mexicano, u obligaciones emitidas por el Departamento del Distrito Federal en los términos establecidos en el artículo 86;
+I.- Bonos o títulos emitidos por el Gobierno Federal, por el del Distrito Federal y por Instituciones Nacionales de Crédito, en los términos del siguiente artículo 86.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-II.- Bonos Hipotecarios, Bonos de caja, aceptaciones, cédulas hipotecarias y obligaciones emitidos o garantizados, en su caso, por instituciones de crédito o auxiliares de concesión federal; así como los valores mobiliarios garantizados por el Fondo Nacional de Garantía.
+II.- Bonos hipotecarios, bonos de caja, cédulas hipotecarias y obligaciones, emitidas o garantizadas en su caso, por instituciones de crédito debidamente autorizadas, así como los valores mobiliarios garantizados por el Fondo Nacional de Garantía.
 
-III.- Acciones y obligaciones de compañías mexicanas, que no sean mineras, petroleras o de seguros, aprobadas por la Secretaría de Hacienda por medio de acuerdos generales;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+III.- Acciones y obligaciones de compañías mexicanas, que no sean mineras, petroleras o de seguros, aprobadas por la Comisión Nacional de Valores, por medio de acuerdos generales, o acciones de sociedades que se organicen exclusivamente con objeto de adquirir el dominio y administrar edificios en los que sea accionista alguna institución de seguros, y siempre que, además, en el edificio propiedad de esas sociedades, tenga su oficina principal la institución de seguros accionista.
 
 IV.- Préstamos con garantía prendaria de los bonos o títulos a que se refieren las tres fracciones anteriores. El importe de la operación no excederá del 99% del valor de la prenda, estimada de acuerdo con esta Ley.
 
@@ -793,11 +945,11 @@ XI.- Primas netas pendientes de cobro que no tengan más de 30 días de vencidas
 
 Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas, y no podrán disponer de ellas, total ni parcialmente, sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoriada de los Tribunales de la República, a favor de los asegurados o beneficiarios, de acuerdo con esta Ley.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE JUNIO DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 86.
 
-Por lo menos el veinte por ciento de las reservas técnicas de las instituciones de seguros, estarán precisamente invertidas en obligaciones del Gobierno Federal para obras de servicios públicos y en bonos hipotecarios de instituciones nacionales de crédito, o en obligaciones del Departamento del Distrito Federal para obras de servicios públicos, con garantía específica de cuotas de servicio o de impuestos, suficientes a juicio de la Secretaría de Hacienda y Crédito Público, y siempre que el servicio de que se trate se entregue en fideicomiso, en favor de los tenedores de bonos, a una institución nacional, ya sea de crédito o auxiliar de crédito; o que se otorgue mandato irrevocable en favor del representante común de los tenedores de bonos para el cobro de las cuotas y percepción de los ingresos.
+Por lo demás, el veinte por ciento de las reservas técnicas de las instituciones de seguros, estarán precisamente invertidas en certificados de participación y bonos hipotecarios de instituciones nacionales de crédito, en bonos del Gobierno Federal o del Distrito Federal, para obras de servicios públicos, garantizados con la afectación en fideicomiso de algún impuesto, cuota de servicio, etc., suficiente a juicio de la Secretaría de Hacienda y Crédito Público para el servicio de amortización e intereses, siempre que el fideicomiso en favor de los tenedores de bonos se constituya en una institución nacional de crédito, o que se otorgue mandato irrevocable en favor del representante común de los tenedores de bonos para los cobros de las cuotas o percepción de los ingresos.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -825,7 +977,11 @@ Cuando las inversiones afectadas a las reservas las hiciere una institución en 
 
 Las mismas escrituras especificarán que no podrá hacerse ninguna operación con los inmuebles o con los créditos hipotecarios sin autorización previa en ambos casos, de la Secretaría de Hacienda y Crédito Público.
 
-Los inmuebles que adquieran las instituciones de seguros de acuerdo con la fracción VII del artículo 85 de esta Ley, no deberán tener ningún gravamen y si sobre ellos pesa algún contrato de arrendamiento, éste no podrá exceder de seis años.
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+Cuando una institución de seguros deseare cambiar de ramo la afectación de los bienes a que se refiere este artículo, podrá hacerlo previa autorización de la Secretaría de Hacienda, la que ordenará al Registro Público de la Propiedad, se haga la inscripción marginal correspondiente. Igual procedimiento se seguirá cuando uno de los bienes de la misma especie, no represente inversión de reservas técnicas y se quiera afectarlos a alguna de ellas, con expresión del ramo correspondiente.
+
+Los inmuebles que adquieran la instituciones de seguros de acuerdo con la fracción VII del artículo 85 de esta Ley, no deberán tener ningún gravamen y si sobre ellos pesa algún contrato de arrendamiento, éste no podrá exceder de seis años.
 
 ###### ARTICULO 90.
 
@@ -877,15 +1033,17 @@ VII.- Los demás bienes y créditos serán estimados por la Secretaría de Hacie
 
 ###### ARTICULO 93.
 
-Los títulos o valores que se mencionan en las fracciones I, II y III del artículo 85, se depositarán precisamente en el Banco de México, S. A., con expresión del ramo a que correspondan dichas inversiones. Tal depósito quedará afecto al cumplimiento de las obligaciones de la institución en el ramo correspondiente.
+Los títulos o valores que se mencionan en la fracción III del artículo 75 y en las fracciones I, II y III del 85, se depositarán precisamente en la Nacional Financiera, S. A., con expresión del ramo a que correspondan dichas inversiones. Tal depósito quedará afecto al cumplimiento de las obligaciones de la institución en el ramo correspondiente.
 
-Las instituciones de seguros podrán retirar, en cualquier tiempo, alguno o algunos de los títulos o valores depositados, remplazándolos por otros de igual valor, previa la aprobación de la Secretaría de Hacienda.
+Las instituciones de seguros podrán retirar en cualquier tiempo alguno o algunos de los títulos o valores, reemplazándolos por otros de igual valor, previa la aprobación de la Secretaría de Hacienda.
 
 ###### ARTICULO 94.
 
 La existencia de los valores y demás bienes en que se encuentren invertidas las reservas, deberá justificarse en cualquier momento, en el domicilio legal de la institución, a requerimiento de la Secretaría de Hacienda y Crédito Público, en la forma que a continuación se indica:
 
-I.- De los valores, mediante la exhibición de los certificados de depósito del Banco de México, S. A.;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+I.- De los valores, mediante la exhibición de los certificados de depósito de la Nacional Financiera, S. A. y en el caso del artículo 99, mediante la exhibición del certificado expedido por el Banco de México, S. A.
 
 II.- De los préstamos prendarios, mediante la exhibición del documento respectivo y de los valores pignorados;
 
@@ -929,19 +1087,27 @@ Para constituir, en cumplimiento de esta ley, el depósito de valores afectos a 
 
 I.- La institución formulará una solicitud a la Secretaría de Hacienda y Crédito Público, indicando el ramo a que deban quedar afectos los valores que desee depositar, y expresando para cada título todos los datos que se requieran para su identificación y los que sean necesarios para determinar su valor, de acuerdo con el artículo 92 de esta ley;
 
-II.- La Secretaría de Hacienda examinará si los valores propuestos llenan los requisitos de ley, formulando dictamen sobre el particular, y si su resolución fuere favorable, la comunicará a la institución y al Banco de México, S. A., ordenándole reciba el depósito;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+II.- La Secretaría de Hacienda examinará si los valores propuestos llenan los requisitos de ley, formulando dictamen sobre el particular, y si la resolución fuere favorable, la comunicará a la institución y a la Nacional Financiera, S. A., ordenándole reciba el depósito.
 
 III.- El certificado de depósito deberá contener el concepto legal que la motiva, el ramo de seguros a que se destinan los valores y la declaración de que no podrá ser retirado sin la previa autorización de la Secretaría de Hacienda;
 
-IV.- Hecho el depósito en el Banco de México, S. A., esta institución remitirá a la Secretaría de Hacienda y Crédito Público el certificado original que contendrá para cada uno de los valores los datos a que se refiere la fracción primera de este artículo. Examinado y aprobado el certificado por la mencionada Secretaría, se registrará y enviará a la institución aseguradora, conservando copia del mismo para integrar el expediente.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+IV.- Hecho el depósito en la Nacional Financiera, S. A., esta institución remitirá a la Secretaría de Hacienda y Crédito Público, el certificado original que contendrá para cada uno de los valores los datos a que se refiere la fracción I de este artículo. Examinado y aprobado el certificado por la Secretaría, se registrará y enviará a la institución aseguradora, conservando copia del mismo para integrar el expediente.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ## TITULO III. De la vigilancia e inspección
 
 ### CAPITULO I. De las relaciones fiscales
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 99.
 
-Cuando deba hacerse un depósito en efectivo afecto a las reservas, fuera del caso a que se refiere la fracción IX del artículo 85, se constituirá en el Banco de México, S. A., observándose lo dispuesto en la fracción IV del artículo 98.
+Cuando deba hacerse un depósito en efectivo afecto a reservas, fuera del caso a que se refiere la fracción IX del artículo 85, se constituirá en el Banco de México, S. A., observándose lo dispuesto en las fracciones III y IV del artículo anterior.
 
 ###### ARTICULO 100.
 
@@ -953,7 +1119,9 @@ Si una institución pretende disponer de los cupones correspondientes a los tít
 
 I.- Formulará una solicitud ante la Secretaría de Hacienda y Crédito Público, indicando los valores a que corresponda los cupones, con los datos que se expresan en la fracción I del artículo 98;
 
-II.- Una vez practicado por la Secretaría el estudio respectivo y acordada la solicitud de conformidad, se avisará, tanto a la institución como al Banco de México, S. A., para que haga la entrega de los cupones.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+II.- Practicado que sea por la Secretaría el estudio respectivo y acordada la solicitud de conformidad, se avisará tanto a la institución como a la Nacional Financiera, S. A., para que haga la entrega de los cupones.
 
 ###### ARTICULO 102.
 
@@ -977,11 +1145,13 @@ c).- Un balance general, practicado al 31 de diciembre último;
 
 d).- El cuaderno de valuación, con los datos que administrativamente fije la Secretaría de Hacienda y Crédito Público, cuando se trate de instituciones que operen el ramo de vida.
 
-II.- Durante los primeros quince días de los meses de enero y julio presentarán, por cada uno de los ramos de seguro en que operen, una manifestación de los siniestros ocurridos, de los pagados y de los pendientes de pago durante el semestre inmediato anterior;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1936)</small>
+II.- Como un anexo al informe de que habla la fracción anterior, se acompañará al mismo una manifestación de los siniestros ocurridos, de los pagados y de los pendientes de pago durante el ejercicio social de que se trate, por cada uno de los ramos de seguro en que operen.
 
-III.- Durante los meses de enero y julio, presentarán un informe del seguro practicado, cuando operen en el ramo de vida. Las instituciones que operen en los demás ramos, lo presentarán bimestralmente, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
+
+III.- Dentro de los tres primeros meses de cada año presentarán un informe del seguro practicado en cada uno de los ramos en que operen y por las operaciones realizadas en el año inmediato anterior.
 
 IV.- Durante los primeros diez días de cada mes, un informe del movimiento registrado en sus inversiones en el mes anterior;
 
@@ -1057,9 +1227,11 @@ Cuando el copiador de pólizas y endosos se lleve en hoja sueltas, éstas deber�
 
 Las instituciones que practiquen varios ramos de seguros en los términos del artículo 3°., deberán llevar los libros auxiliares que para los distintos ramos se indican en este artículo, para fines de manejo interior y de la inspección y para la graduación de acreedores, en su caso, anotando en ellos las operaciones que correspondan a cada ramo.
 
+(REFORMADO, D.O.F. 16 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
+
 ###### ARTICULO 107.
 
-Los auxiliares y registros a que se refiere el artículo anterior, se ajustarán a los modelos que al efecto apruebe la Secretaría de Hacienda y podrán ser llevados en libros, tarjetas u hojas sueltas.
+Los libros de contabilidad, los auxiliares y registros a que se refiere el artículo anterior, se ajustarán a los modelos que al efecto apruebe la Secretaría de Hacienda y Crédito Público y podrán ser llevados en libros encuadernados o en tarjetas u hojas sueltas que llenen los requisitos que fije la misma Secretaría.
 
 ###### ARTICULO 108.
 
@@ -1077,13 +1249,13 @@ Las partidas que anualmente se vayan acumulando por depreciación, deberán llev
 
 Las cuentas que deban llevar las instituciones de seguros, se ajustarán estrictamente al catálogo que al efecto autorice la Secretaría de Hacienda. Previa autorización de la Secretaría de Hacienda, las instituciones que lo necesiten, podrán introducir nuevas cuentas indicando en su solicitud las razones que tengan para ello. En este caso, se adicionará el catálogo respectivo.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 111.
 
-Los libros de contabilidad y registros, a que se refiere esta ley, deberán conservarse disponibles en las oficinas de la institución y no podrán retardarse en sus asientos por más de cuarenta y cinco y cinco días, respectivamente. El registro de siniestros y vencimientos deberá llevarse al día.
+Los libros de contabilidad y los registros, a que se refiere esta ley, deberán conservarse disponibles en las oficinas de la institución y no podrán retardarse en sus asientos por más de 45 y de 5 días respectivamente. El registro de siniestros y vencimientos deberá llevarse al día.
 
-La contabilidad, registros, informes y demás documentación relacionada con las operaciones de seguro en México, deberán consignarse en idioma español.
+La contabilidad, registros, informes y demás documentación, relacionada con las operaciones de seguros en México, deberán consignarse en idioma español.
 
 ###### ARTICULO 112.
 
@@ -1111,11 +1283,41 @@ Por lo menos uno vez cada año, se practicará una visita minuciosa a las instit
 
 Cuando una institución, sucursal o agencia, se rehusare a recibir una visita o a facilitar los elementos indispensables que ajuicio del inspector sean necesarios para la práctica de ésta, dará lugar a la aplicación de una multa de $500.00 a $1,000.00. En caso de reincidencia, la Secretaría de Hacienda revocará la autorización para operar o la credencial respectiva, según sea el caso.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 118.
 
-En cumplimiento de la función de vigilancia que esta ley confiere a la Secretaría de Hacienda y Crédito Pública, ésta proveerá en los términos de esta ley y demás relativas, al eficaz cumplimiento de sus preceptos; intervendrá en los arqueos, cortes de caja y demás comprobaciones o verificaciones de contabilidad de las instituciones sometidas a su inspección; calificará o estimará, de acuerdo con las reglas establecidas en esta ley, los valores de su activo; formará y publicará las estadísticas relativas a la organización y al funcionamiento del seguro en la República; intervendrá en los procedimientos de liquidación, en los términos de la ley; aplicará las sanciones que en esta ley se establecen, después de haber escuchado a las partes afectadas; tendrá acceso y podrá revisar, por medio de sus inspectores o delegados, todos los libros, principales o auxiliares de contabilidad y los demás papeles o correspondencia de las instituciones o establecimientos sometidos a su inspección; verificará la legalidad de las operaciones que celebren; comprobará la inversión de capital y de las reservas que de acuerdo con esta ley deban estar invertidas en forma determinada; y, en general, tendrá las más amplias facultades para interpretar la presente ley, por medio de disposiciones generales, o para resolver sobre su aplicación, en casos concretos, debiendo, además realizar todos aquellos actos que en su concepto sean necesarios para el fomento y estabilidad de la institución del seguro en México.
+En cumplimiento de la función de vigilancia que esta ley confiere a la Secretaría de Hacienda y Crédito Público, ésta:
+
+I.- Proveerá en los términos de esta ley y demás relativas, al eficaz cumplimiento de sus preceptos;
+
+II.- Intervendrá en los arqueos, cortes de caja y demás comprobaciones o verificaciones de contabilidad de las instituciones sometidas a su inspección;
+
+III.- Tendrá acceso y podrá revisar, por medio de sus inspectores o delegados todos los libros principales o auxiliares de contabilidad, los registros y los demás papeles y correspondencia de las instituciones o establecimientos sometidos a su inspección;
+
+IV.- Calificará o estimará, de acuerdo con las reglas establecidas en esta ley, los valores de su activo;
+
+V.- Comprobará la inversión de capital y de las reservas que de acuerdo con esta ley, deban estar invertidos en forma determinada;
+
+VI.- Verificará la legalidad de las operaciones que celebren las instituciones;
+
+VII.- Intervendrá en los procedimientos de liquidación en los términos de la ley;
+
+VIII.- Aplicará las sanciones que en esta ley se establecen, previa audiencia de las partes afectadas, siempre que no se trate de privaciones de la libertad;
+
+IX.- Reglamentará el ejercicio de la actividad de agentes y ajustadores de seguros;
+
+X.- Formará y publicará las estadísticas relativas a la organización y al funcionamiento del seguro en la República;
+
+XI.- Ordenará la constitución de reservas por obligaciones pendientes de cumplir, en los casos de controversia a que se refiere el artículo 135, previa investigación y estudio de los mismos. Puede para ello, recibir todas las pruebas que se le ofrezcan, siempre que no fueren contrarias a la ley, a las facultades administrativas de la Secretaría, o a la naturaleza administrativa del procedimiento, que es de investigación y no contencioso.
+
+XII.- Podrá establecer cláusulas tipo obligatorias para las diversas especies de contratos;
+
+XIII.- Tendrá las más amplias facultades para interpretar administrativamente la presente ley, por medio de disposiciones generales que se publicarán en el “Diario Oficial”;
+
+XIV.- Ejercerá la inspección y vigilancia de las instituciones, directamente o por medio de algún organismo descentralizado, auxiliar de la Secretaría, en los términos del reglamento respectivo.
+
+XV.- Realizará todo aquello que en su concepto sea necesario para la estabilidad de la institución del seguro en México, siempre que tales actos no contravengan lo dispuesto en esta ley.
 
 ## TITULO IV. De la disolución de las instituciones de seguros
 
@@ -1205,21 +1407,25 @@ Al terminar una liquidación, el liquidador dará cuenta por escrito, a cada uno
 
 La Secretaría de Hacienda podrá autorizar distribuciones parciales entre los acreedores, sujetándose a las disposiciones de este artículo.
 
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-Transcurrido el término de seis meses concedido a los acreedores para recibir el pago de los alcances que les resulten, si no hubieran ocurrido a recogerlos, el liquidador entregará al Banco de México una relación de los pagos pendientes, así como el remanente de los fondos para cubrir su importe. El Banco de México continuará haciendo los pagos correspondientes bajo su responsabilidad hasta por un término de cinco años, transcurrido el cual prescribirá en favor del Fisco todo derecho al cobro de esos remanentes.
+Transcurrido el término de seis meses concedido a los acreedores para recibir el pago de los alcances que les resulten, si no hubieran ocurrido a recogerlos, el liquidador entregará al Banco de México una relación de los pagos pendientes, así como el remanente de los fondos para cubrir, su importe. El Banco de México continuará haciendo los pagos correspondientes bajo su responsabilidad hasta por un término de cinco años, transcurrido el cual, prescribirán automáticamente las cantidades no cobradas, las que se entregarán al Gobierno Federal. Este término de prescripción no es susceptible de suspensión ni de interrupción.
 
 ###### ARTICULO 128.
 
 Si la liquidación no puede practicarse dentro del plazo primitivamente concedido, podrá extenderse por una mitad más el término original. Si dentro de la ampliación anterior, el liquidador no concluye las operaciones relativas, la Secretaría de Hacienda designará un nuevo liquidador y exigirá al primeramente nombrado las responsabilidades en que hubiere incurrido en el desempeño de su comisión. La Secretaría fijará al nuevo liquidador un término prudente para la terminación de las operaciones de liquidación.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 129.
 
-Los asegurados tendrán preferencia sobre todos los bienes del activo de la institución, a excepción de los acreedores de dominio. Los acreedores comunes tendrán sobre el excedente de los bienes, la preferencia que de acuerdo con sus créditos se derive de las leyes aplicables.
+Los asegurados tendrán el carácter de acreedores con privilegio especial y cobrarán con preferencia a todos los demás acreedores del mismo grado.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 130.
 
-La quiebra o la liquidación judicial legalmente declarada de una institución de seguros, provocará su liquidación administrativa en los términos establecidos por la presente ley. Al efecto, el Juez de los autos, una vez hecha la declaratoria correspondiente, mandará sellar las oficinas de la institución, girará oficio a la Secretaría de Hacienda y Crédito Público pidiendo la inmediata designación del liquidador y, dentro de las 72 horas siguientes de haber recibido el aviso, le hará entrega de los bienes de la institución, por riguroso inventario. Una vez formalizada la entrega judicial, se practicará la liquidación de acuerdo con los términos de esta ley.
+Declarada judicialmente la quiebra de una institución de seguros, sólo se podrá proceder a la liquidación administrativa de la misma, si la Secretaría de Hacienda, dentro del siguiente día hábil a aquel en que reciba la notificación respectiva, resuelve que se proceda a esa liquidación. El Juez pedirá el nombramiento del liquidador y dentro de las setenta y dos horas de habérsele comunicado éste, hará entrega al designado, por riguroso inventario, de los bienes de la Institución.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
@@ -1235,19 +1441,29 @@ Sus honorarios serán fijados en el momento de su designación por la Secretarí
 
 ###### ARTICULO 132.
 
-Las instituciones de seguros estarán sujetas únicamente al pago de los impuestos siguientes, de acuerdo con las leyes respectivas:
+Las instituciones de seguros estarán sujetas únicamente al pago de los impuestos y derechos siguientes, de acuerdo con las leyes y reglamentos respectivos:
 
-I.- Predial, que se cause sobre los inmuebles de su propiedad, en las mismas condiciones en que se cause por los demás obligados al pago de este impuesto;
+I.- Predial, que se cause sobre los inmuebles de su propiedad, en las mismas condiciones que para los demás obligados al pago de este impuesto.
 
-II.- Impuestos y derechos de carácter municipal que causen dichos inmuebles, en razón de pavimentos, atarjeas y limpia, por su frente a la vía pública y por el agua potable de que disfruten, en las mismas condiciones en que deben pagarlo los demás causantes;
+II.- Impuestos y derechos de carácter municipal que causen dichos inmuebles, por concepto de pavimentos, atarjeas y limpia, por su frente y la vía pública y por el agua potable de que disfruten; en las mismas condiciones en que deban pagar los demás causantes.
 
-III.- Los de patente o sobre giros comerciales, en la inteligencia de que este impuesto lo pagarán en el lugar de su domicilio y no en las agencias o sucursales que tengan en otros lugares;
+III.- Los de patente o sobre giros comerciales, en la inteligencia de que este impuesto lo pagarán en el lugar de su domicilio y no en las agencias o sucursales que tengan en otros lugares.
 
-IV.- Impuesto federal sobre primas;
+IV.- Impuesto federal sobre primas.
 
-V.- Impuesto sobre las utilidades líquidas anuales.
+V.- Impuestos sobre utilidades líquidas anuales que causen los balances aprobados por la Secretaría de Hacienda, por conducto de su dependencia encargada del control y vigilancia de las instituciones de seguros, después de hechas las deducciones correspondientes a castigos directos o al establecimiento de fondos o reservas para castigos, para fluctuaciones o para otras provisiones similares que la propia Secretaría apruebe, o que establezca esta ley.
 
-Los impuestos o derechos que hayan de ser pagados por las sucursales de instituciones extranjeras por concepto de su capital, se calcularán sobre el capital que conforme a la ley conserven en la República dichas sucursales y no sobre el capital total que tenga la institución matriz.
+Los impuestos o derechos que hayan de ser pagados por las sucursales de empresas extranjeras por concepto de su capital, se calcularán sobre el que conforme a la ley conserven en la República dichas sucursales y no sobre el capital total que tenga la empresa matriz.
+
+VI.- El derecho de inspección y vigilancia, conforme a las siguientes normas:
+
+a). El 50% del presupuesto de gastos de inspección y vigilancia, se prorrateará entre las instituciones de seguros, en relación con el monto del capital y reservas de capital de cada una.
+
+b). El 30% en relación con las primas correspondientes a las pólizas emitidas durante el año inmediato anterior.
+
+c). El 20% restante, en relación con las utilidades y las instituciones nacionales que no tuvieren utilidades, pagarán la cuota que discrecionalmente fije la Secretaría de Hacienda y Crédito Público.
+
+d). Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S. A., y el fondo que con ellas se forme, será manejado por la Secretaría de Hacienda y Crédito Público en los términos del reglamento respectivo.
 
 ###### ARTICULO 133.
 
@@ -1263,15 +1479,29 @@ Lo dispuesto en este artículo aprovechará a las instituciones, a sus agentes y
 
 En caso de que surja alguna controversia entre una institución de seguros y un asegurado o sus beneficiarios, por falta de pago de un siniestro o por alguna interpretación del contrato de seguros después de que se hayan agotado los procedimientos establecidos en la póliza respectiva, cualquiera de las partes podrá ocurrir ante la Secretaría de Hacienda y Crédito Público solicitando sus buenos oficios para el arreglo de las dificultades surgidas. En caso de que no se llegue a ningún acuerdo, quedarán expeditos los derechos de los interesados para ocurrir ante los Tribunales que corresponda; pero la Secretaría mandará a la institución aseguradora que constituya desde luego, por el monto que se le designe, una reserva por obligaciones pendientes para el pago del siniestro, previo estudio que se haga de sus responsabilidades.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 136.
 
-Los Tribunales no darán acción si previamente las partes no han llevado su controversia al conocimiento de la Secretaría de Hacienda y Crédito Público, y cuando se dicte sentencia ejecutoria a favor de un asegurado, el Juez de los autos lo comunicará a la propia Secretaría. Esta, después de haber recibido la notificación, conminará a la institución que hubiere sido condenada para que pruebe, dentro de las 72 horas siguientes, haber pagado el siniestro, en caso contrario, la Secretaría de Hacienda mandará pagar al asegurado, del monto de la reserva constituída, a que hace referencia el artículo anterior, y si ésta no es suficiente, la Secretaría ordenará el remate, en bolsa, de los valores depositados en el Banco de México. Si estos valores están afectos a las reservas de la compañía, ésta los repondrá en los términos de las disposiciones de esta ley relativas a la reconstitución de las reservas.
+En materia jurisdiccional:
+
+I.- Los Tribunales no darán entrada a demanda alguna contra una institución de seguros, si con la demanda no se exhibe el oficio de la Secretaría de Hacienda y Crédito Público en que resuelva si la institución de seguros debe o no constituir la reserva especial a que se refiere el artículo anterior, en virtud de que la misma Secretaría considere que la institución está obligada o no a cubrir las prestaciones que se le reclamen.
+
+II.- La omisión del procedimiento conciliatorio en la vía administrativa constituye además una excepción dilatoria que puede interponerse por la compañía demandada.
+
+III.- El juez de los autos comunicará a la Secretaría de Hacienda y Crédito Público la sentencia ejecutoria que se dicte en el procedimiento y la Secretaría, al recibir la notificación requerirá a la institución aseguradora si hubiere sido condenada, para que compruebe dentro de las 72 horas siguientes, haber pagado las prestaciones a que hubiere sido condenada, y en caso de omitir la comprobación, la Secretaría de Hacienda mandará pagar a la persona en cuyo favor se hubiere dictado la sentencia del monto de la reserva constituída en los términos del artículo anterior. Si no fuere suficiente, la misma dependencia ordenará el remate en bolsa de los valores depositados en la Nacional Financiera, S. A., y si ellos estuvieren afectos a las reservas de la institución de seguros, deberá ésta reponerlos en los términos que esta ley señala para la reconstitución de las reservas.
+
+IV.- Los Tribunales no darán acción ni admitirán excepción derivadas de contratos de seguro concertados por sociedades no autorizadas, si el asegurado (cuando se trate de seguros sobre personas) o el bien objeto del interés asegurado (cuando se trate de cualquier otro ramo), se encontraren en el territorio de la República en la fecha de la celebración del contrato; salvo el derecho del asegurado para pedir el reintegro de las primas pagadas. Esta disposición no se aplicará a los casos de seguros concertados con la autorización específica de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo 3°.
+
+V.- El contrato celebrado por una institución de seguros en contravención a las tarifas o a las condiciones de póliza aprobadas por la Secretaría de Hacienda, es anulable, pero la acción sólo puede ser ejercitada por el asegurado o el beneficiario o por sus causahabientes, contra la institución de seguros y nunca por ésta contra aquéllos.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 137.
 
-Cuando por la pérdida de las actas del Registro Civil, el asegurado o los beneficiarios, en su caso, no puedan comprobar la edad del asegurado, podrá rendirse ante los jueces competentes información testimonial para acreditar este hecho. El mismo procedimiento deberán seguir los beneficiarios de la póliza si no les es dable comprobar su parentesco por medio de las actas del Registro Civil.
+Cuando por la pérdida de las actas de Registro Civil, el asegurado o los beneficiarios en su caso, no puedan comprobar su edad con dichas constancias ni con otros documentos fehacientes, podrán rendir información testimonial ante juez competente, con citación de la institución de seguros, para comprobar ese hecho. El mismo procedimiento deberán seguir los beneficiarios de la póliza si no les es dable comprobar su parentesco por los medios normales que establece el Código Civil.
 
-Si en el momento de contratar un seguro de vida, o con posterioridad, presenta el asegurado prueba fehaciente de su edad a la institución aseguradora, ésta le extenderá el comprobante respectivo, y no podrá exigir nuevas pruebas, cuando haya de pagar el siniestro por muerte del asegurado.
+Si en el momento de contratar un seguro de vida o con posterioridad, presenta el asegurado prueba fehaciente de su edad a la institución aseguradora, ésta le extenderá el comprobante respectivo y no podrá exigir nuevas pruebas, cuando haya de pagar el siniestro por muerte del asegurado.
 
 ###### ARTICULO 138.
 
@@ -1321,9 +1551,11 @@ Al agente de una institución de seguros que opere sin la credencial respectiva 
 
 Se aplicará una multa de $100.00 a $1,000.00 o prisión de dos meses a un año, a los inspectores o empleados de la Secretaría de Hacienda encargados de la vigilancia e inspección de las instituciones de seguro, que sin justa causa, con perjuicio de la institución relativa y sin consentimiento de ella, revelen algún secreto o violen el secreto profesional o utilicen informes comerciales o técnicos de los que han tenido conocimiento en el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 146.
 
-La falta de cumplimiento a cualquiera de las disposiciones de esta ley, de sus reglamentos o de las que administrativamente dicte la Secretaría de Hacienda y Crédito Público, se castigará, si no tiene pena especialmente señalada en esta ley, con multa de $100.00 a $1,000.00 para la empresa y o para cada uno de los consejeros, directores, agentes o empleados que resulten autores o cómplices de las faltas. Si las instituciones incurren nuevamente en ellas se les duplicará la multa, y en caso de reincidencia se les revocará la autorización para practicar operaciones en el país.
+La infracción de cualquiera de las disposiciones de esta ley, de sus reglamentos y de las que administrativamente dicte la Secretaría de Hacienda y Crédito Público, se castigará, si no tiene pena especialmente señalada en este ordenamiento, con multa de $100.00 a $5,000.00 para los infractores y si se tratare de una sociedad, para cada uno de los consejeros, directores, agentes o empleados que resulten autores o responsables de la infracción. La reincidencia se castigará con multa doble o la aplicada originalmente, y si la infractora fuera una institución de seguros, se revocará su autorización.
 
 ## TRANSITORIOS
 
@@ -1430,3 +1662,21 @@ En aquellos Estados de la República en los que no estén en vigor disposiciones
 ###### ARTICULO 6°.
 
 Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden hechas respecto del Código de Procedimientos Civiles del Distrito y Territorios Federales. Esta supletoriedad es excepcional y sólo se refiere a los preceptos expresamente reglamentados por esta ley. También es temporal, en tanto que no se promulgue el Código de Procedimientos Mercantiles.
+
+D.O.F. 16 DE ABRIL DE 1946.
+
+###### ARTICULO I.
+
+Las instituciones de seguros existentes, gozarán de un plazo de ciento ochenta días hábiles a partir de la vigencia de estas reformas para ajustar la documentación que utilicen en la formación del contrato de seguro, a las disposiciones del artículo 24 reformado de la Ley General de Instituciones de Seguros.
+
+Mientras no se haya efectuado ese ajuste de formas impresas y no se haya vencido el plazo antes dicho, las instituciones de seguros podrán seguir usando la documentación que hasta esta fecha haya sido aprobada por la Secretaría de Hacienda.
+
+Todas las instituciones de seguros deberán presentar la documentación para ser revisada y aprobada por la Secretaría de Hacienda y Crédito Público, cuando menos dos meses antes de que se venza el plazo establecido en este artículo.
+
+###### ARTICULO II.
+
+Para ajustar sus capitales mínimos a lo dispuesto en los artículos 20 y 21 reformados de la Ley General de Instituciones de Seguros, gozarán las instituciones existentes al expedirse esta ley, de un plazo de un año, prorrogable por un año más a juicio de la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO III.
+
+Las presentes reformas entrarán en vigor el día de su publicación en el Diario Oficial.
