@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1993-09-06"
+last_updated: "1993-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE SEPTIEMBRE DE 1993.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE SEPTIEMBRE DE 1993 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DE DE SEPTIEMBRE DE 1993.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1993.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -624,7 +622,9 @@ II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en qu
 
 III.- Alistarse y servir en la Guardia Nacional, conforme a la ley orgánica respectiva, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria, así como la tranquilidad y el orden interior; y
 
-IV.- Contribuir para los gastos públicos, así de la Federación como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
+IV.- Contribuir para los gastos públicos, así de la Federación, como del Distrito Federal o del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
 
@@ -864,9 +864,11 @@ VI.- El espacio situado sobre el territorio nacional, con la extensión y modali
 
 Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas y el Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
 ###### Art. 44.
 
-El Distrito Federal se compondrá del territorio que actualmente tiene, y en el caso de que los Poderes Federales se trasladen a otro lugar, se erigirá en Estado del Valle de México, con los límites y extensión que le asigne el Congreso General.
+La Ciudad de México es el Distrito Federal, sede de los Poderes de la Unión y Capital de los Estados Unidos Mexicanos. Se compondrá del territorio que actualmente tiene y en el caso de que los poderes Federales se trasladen a otro lugar, se erigirá en el Estado del Valle de México con los límites y extensión que le asigne el Congreso General.
 
 > <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -1216,109 +1218,15 @@ IV.- Para arreglar definitivamente los límites de los Estados, terminando las d
 
 V.- Para cambiar la residencia de los Supremos Poderes de la Federación.
 
-> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-VI. Para legislar en todo lo relativo al Distrito Federal, sometiéndose a las bases siguientes:
-
-1a. El gobierno del Distrito Federal estará a cargo del Presidente de la República, quien lo ejercerá por conducto del órgano u órganos que determine la ley respectiva.
-
-2a. La ley orgánica correspondiente establecerá los medios para la descentralización y desconcentración de la administración para mejorar la calidad de vida de los habitantes del Distrito Federal, incrementando el nivel de bienestar social, ordenando la convivencia comunitaria y el espacio urbano y propiciando el desarrollo económico, social y cultural de la entidad.
-
-3a. Como un órgano de representación ciudadana en el Distrito Federal, se crea una Asamblea integrada por 40 Representantes electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y por 26 Representantes electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. La demarcación de los distritos se establecerá como determine la ley.
-
-Los Representantes a la Asamblea del Distrito Federal serán electos cada tres años y por cada propietario se elegirá un suplente; las vacantes de los Representantes serán cubiertas en los términos de la fracción IV del artículo 77 de esta Constitución.
-
-> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
-
-La elección de los veintiséis representantes según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en lo particular disponga la ley:
-
-a) Un partido político, para obtener el registro de su lista de candidatos a representantes a la Asamblea del Distrito Federal, deberá acreditar que participa con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal;
-
-b) Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida para la lista de la circunscripción plurinominal, tendrá derecho a que le sean atribuidos representantes según el principio de representación proporcional;
-
-c) Al partido político que cumpla con lo dispuesto por los dos incisos anteriores, le serán asignados representantes por el principio de representación proporcional. La ley establecerá la fórmula para la asignación tomando en cuenta las reglas establecidas en el artículo 54 para la Cámara de Diputados. Además, en la asignación se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
-
-> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
-
-En todo caso, para el otorgamiento de las constancias de asignación se observarán las siguientes reglas:
-
-a) Ningún partido político podrá contar con más de 43 representantes electos mediante ambos principios;
-
-b) Al partido político que obtenga el mayor número de constancias de mayoría y por lo menos el treinta por ciento de la votación en el Distrito Federal, le será otorgada la constancia de asignación por el número suficiente de representantes para alcanzar la mayoría absoluta de la Asamblea.
-
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
-
-Para la organización y contencioso electorales de la elección de los representantes a la Asamblea del Distrito Federal se estará a lo dispuesto por el artículo 41 de esta Constitución.
-
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
-
-El Colegio Electoral que califique la elección de los representantes a la Asamblea del Distrito Federal, se integrará con los presuntos representantes que hayan obtenido constancias de mayoría o de asignación proporcional en su caso, siendo aplicables las reglas que para la calificación establece el artículo 60 de esta Constitución.
-
-Los Representantes a la Asamblea del Distrito Federal deberán reunir los mismos requisitos que el artículo 55 establece para los Diputados Federales y les será aplicable lo dispuesto por los artículos 59, 61, 62 y 64 de esta Constitución.
-
-La Asamblea de Representantes del Distrito Federal calificará la elección de sus miembros, a través de un Colegio Electoral que se integrará por todos los presuntos Representantes, en los términos que señale la Ley, sus resoluciones serán definitivas e inatacables.
-
-Son facultades de la Asamblea de Representantes del Distrito Federal las siguientes:
-
-A) Dictar bandos, ordenanzas y reglamentos de policía y buen gobierno que, sin contravenir lo dispuesto por las leyes y decretos expedidos por el Congreso de la Unión para el Distrito Federal, tengan por objeto atender las necesidades que se manifiesten entre los habitantes del propio Distrito Federal, en materia de: educación, salud y asistencia social; abasto y distribución de alimentos, mercados y rastros; establecimientos mercantiles; comercio en la vía pública; recreación, espectáculos públicos y deporte; seguridad pública; protección civil; servicios auxiliares a la administración de justicia; prevención y readaptación social; uso del suelo; regularización de la tenencia de la tierra, establecimiento de reservas territoriales y vivienda; preservación del medio ambiente y protección ecológica; explotación de minas de arena y materiales pétreos; construcciones y edificaciones; agua y drenaje; recolección, disposición y tratamiento de basura; tratamiento de aguas; racionalización y seguridad en el uso de energéticos; vialidad y tránsito; transporte urbano y estacionamientos; alumbrado público; parques y jardines; agencias funerarias, cementerios y servicios conexos; fomento económico y protección al empleo; desarrollo agropecuario; turismo y servicios de alojamiento; trabajo no asalariado y previsión social; y acción cultural;
-
-B) Proponer al Presidente de la República la atención de problemas prioritarios, a efecto de que tomando en cuenta la previsión de ingresos y el gasto público, los considere en el proyecto de presupuesto de egresos del Distrito Federal, que envíe a la Cámara de Diputados del Congreso de la Unión;
-
-C) Recibir los informes trimestrales que deberá presentar la autoridad administrativa del Distrito Federal, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados, y elaborar un informe anual para analizar la congruencia entre el gasto autorizado y el realizado, por partidas y programas, que votado por el Pleno de la Asamblea remitirá a la Cámara de Diputados del Congreso de la Unión, para ser considerado durante la revisión de la Cuenta Pública del Distrito Federal;
-
-D) Citar a los servidores públicos que se determinen en la ley correspondiente, para que informen a la Asamblea sobre el desarrollo de los servicios y la ejecución de las obras encomendadas al gobierno del Distrito Federal;
-
-E) Convocar a consulta pública sobre cualquiera de los temas mencionados en la presente base, y determinar el contenio (sic) de la convocatoria respectiva;
-
-F) Formular las peticioness (sic) que acuerde el Pleno de la Asamblea, a las autoridades administrativas competentes, para la solución de los problemas que planteen sus miembros, como resultado de su acción de gestoría ciudadana;
-
-G) Analizar los informes semestrales que deberán presentar los representantes que la integren, para que el Pleno de la Asamblea tome las medidas que correspondan dentro del ámbito de sus facultades de consulta, promoción, gestoría y supervisión;
-
-H) Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia, que haga el Presidente de la República, en los términos de la base 5a. de la presente fracción;
-
-I) Expedir, sin intervención de ningún otro órgano, el Reglamento para su Gobierno Interior; y
-
-J) Iniciar ante el Congreso de la Unión, leyes o decretos en materias relativas al Distrito Federal.
-
-Las iniciativas que la Asamblea de Representantes presente ante alguna de las Cámaras del Congreso de la Unión, pasarán desde luego a comisión para su estudio y dictamen.
-
-Los bandos, ordenanzas y reglamentos que expida la Asamblea del Distrito Federal en ejercicio de la facultad a que se refiere el inciso A) de la presente base, se remitirán al órgano que señale la Ley para su publicación inmediata.
-
-La Asamblea de Representantes se reunirá a partir del 15 de noviembre de cada año, para celebrar un primer período de sesiones ordinarias, que podrá prolongase hasta el 15 de enero del año siguiente, y a partir del 16 de abril de cada año, para celebrar un segundo período de sesiones ordinarias, que podrá prolongarse hasta el 15 de julio del mismo año. Durante sus recesos, la Asamblea celebrará sesiones extraordinarias para atender los asuntos urgentes para los cuales sea convocada, a petición de la mayoría de sus integrantes o del Presidente de la República.
-
-A la apertura del segundo período de sesiones ordinarias de la Asamblea, asistirá la autoridad designada por el Presidente de la República, quien presentará un informe por escrito, en el que manifieste el estado que guarde la administración del Distrito Federal.
-
-Los Representantes a la Asamblea son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y el Presidente de la Asamblea deberá velar por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto donde se reúnan a sesionar. En materia de responsabilidades, se aplicará lo dispuesto por el Título Cuarto de esta Constitución y su ley reglamentaria.
-
-4a. La facultad de iniciativa para el ejercicio de las facultades de la Asamblea a que se refiere el inciso A) de la base 3a., corresponde a los miembros de la propia Asamblea y a los representantes de los vecinos organizados en los términos que señale la ley correspondiente.
-
-Para la mayor participación ciudadana en el gobierno del Distrito Federal, además, se establece el derecho de iniciativa popular respecto de las materias que son competencia de la Asamblea, la cual tendrá la obligación de turnar a Comisiones y dictaminar, dentro del respectivo período de sesiones o en el inmediato siguiente, toda iniciativa que le sea formalmente presentada por un mínimo de diez mil ciudadanos debidamente identificados, en los términos que señale el Reglamento para el Gobierno Interior de la Asamblea.
-
-La ley establecerá los medios y mecanismos de participación ciudadana que permitan la oportuna gestión y continua supervisión comunitaria de la acción del gobierno del Distrito Federal, dirigida a satisfacer sus derechos e intereses legítimos y a mejorar la utilización y aplicación de los recursos disponibles.
-
-5a. La función jurídica se ejercerá por el Tribunal Superior de Justicia del Distrito Federal, el cual se integrará por el número de magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley determine.
-
-La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por la ley orgánica respectiva, la cual establecerá las condiciones para el ingreso, formación y permanencia de quienes sirvan a los tribunales de justicia del Distrito Federal.
-
-Los magistrados integrantes del Tribunal Superior de Justicia deberán reunir los requisitos señalados por el artículo 95 de esta Constitución.
-
-Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-Los nombramientos de los magistrados del Tribunal Superior de Justicia serán hechos por el Presidente de la República, en los términos previstos por la ley orgánica, misma que determinará el procedimiento para su designación y las responsabilidades en que incurren quienes tomen posesión del cargo o llegaren a ejercerlo, sin contar con la aprobación correspondiente; la propia ley orgánica determinará la manera de suplir las falta temporales de los magistrados. Estos nombramientos serán sometidos a la aprobación de la Asamblea de Representantes del Distrito Federal. Cada magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo, rendirá protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, ante el Pleno de la Asamblea del Distrito Federal.
-
-Los magistrados durarán seis años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
-
-Los jueces de primera instancia serán nombrados por el Tribunal Superior de Justicia del Distrito Federal.
-
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, y estarán sujetos a lo dispuesto por el artículo 101 de esta Constitución.
-
-6a. El Ministerio Público en el Distrito Federal estará a cargo de un Procurador General de Justicia, que dependerá directamente del Presidente de la República, quien lo nombrará y removerá libremente.
+VI.- Para expedir el Estatuto de Gobierno del Distrito Federal y legislar en lo relativo al Distrito Federal, salvo en las materias expresamente conferidas a la Asamblea de Representantes.
 
 VII.- Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la Deuda Nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos, salvo los que se realicen con propósitos de regulación monetaria, las operaciones de conversión y los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29.
+VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos sobre el crédito de la Nación, para aprobar esos mismos empréstitos y para reconocer y mandar pagar la deuda nacional. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos, salvo los que se realicen con propósitos de regulación monetaria, las operaciones de conversión y los que se contraten durante alguna emergencia declarada por el Presidente de la República en los términos del artículo 29. Asimismo, aprobar anualmente los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Distrito Federal y las entidades de su sector público, conforme a las bases de la ley correspondiente. El Ejecutivo Federal informará anualmente al Congreso de la Unión sobre el ejercicio de dicha deuda a cuyo efecto el Jefe del Distrito Federal le hará llegar el informe que sobre el ejercicio de los recursos correspondientes hubiere realizado. El Jefe del Distrito Federal informará igualmente a la Asamblea de Representantes del Distrito Federal, al rendir la cuenta pública.
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -1444,9 +1352,9 @@ XXIX-F.- Para expedir leyes tendientes a la promoción de la inversión mexicana
 
 XXIX-G.-Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los municipios, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
-> <small>(ADICIONADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Federal o del Distrito Federal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+XXIX-H.- Para expedir leyes que instituyan tribunales de lo contencioso administrativo, dotados de plena autonomía para dictar sus fallos, y que tengan a su cargo dirimir las controversias que se susciten entre la administración Pública Federal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -1464,17 +1372,23 @@ II.- Vigilar por medio de una Comisión de su seno, el exacto desempeño de las 
 
 III.- Nombrar a los Jefes y demás empleados de esa oficina.
 
-> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-IV.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos de la Federación y el del Departamento del Distrito Federal, discutiendo primero las contribuciones que, a su juicio, deben decretarse para cubrirlos; así como revisar la Cuenta Pública del año anterior.
+IV.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos de la Federación, discutiendo primero las contribuciones que, a su juicio, deben decretarse para cubrirlo, así como revisar la cuenta Pública del año anterior.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-El Ejecutivo Federal hará llegar a la Cámara las correspondientes iniciativas de leyes de ingresos y los proyectos de presupuesto a más tardar el día 15 del mes de noviembre o hasta el 15 de diciembre cuando inicie su encargo en la fecha prevista por el Artículo 83, debiendo comparecer el Secretario del Despacho correspondiente a dar cuenta de los mismos.
+El Ejecutivo Federal hará llegar a la Cámara la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre o hasta el día 15 de diciembre cuando inicie su encargo en la fecha prevista por el artículo 83, debiendo comparecer el Secretario del Despacho correspondiente a dar cuenta de los mismos.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
 La revisión de la Cuenta Pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y el cumplimiento de los objetivos contenidos en los programas.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 Si del examen que realice la Contaduría Mayor de Hacienda aparecieran discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
@@ -1482,7 +1396,9 @@ Si del examen que realice la Contaduría Mayor de Hacienda aparecieran discrepan
 
 La Cuenta Pública del año anterior deberá ser presentada a la Cámara de Diputados del H. Congreso de la Unión dentro de los diez primeros días del mes de junio.
 
-Sólo se podrá ampliar el plazo de presentación de las iniciativas de leyes de ingresos y de los proyectos de presupuesto de egresos, así como de la Cuenta Pública cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
+Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, así como de la Cuenta Pública, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -1534,7 +1450,9 @@ VII.- Erigirse en Jurado de sentencia para conocer en juicio político de las fa
 
 VIII.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte de Justicia de la Nación, así como a las solicitudes de licencia y a las renuncias de los mismos funcionarios, que le someta el Presidente de la República.
 
-IX.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
+IX.- Nombrar y remover al Jefe del Distrito Federal en los supuestos previstos en esta Constitución.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1570,9 +1488,9 @@ La Comisión Permanente, además de las atribuciones que expresamente le confier
 
 I.- Prestar su consentimiento para el uso de la Guardia Nacional, en los casos de que habla el artículo 76, fracción IV.
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-II.- Recibir, en su caso, la protesta del Presidente de la República, de los miembros de la Suprema Corte de Justicia de la Nación y la de los magistrados del Distrito Federal.
+II.- Recibir, en su caso, la protesta del Presidente de la República y de los ministros de la Suprema Corte de Justicia de la Nación.
 
 > <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
 
@@ -1688,9 +1606,9 @@ Las facultades y obligaciones del Presidente, son las siguientes:
 
 I.- Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-II.- Nombrar y remover libremente a los Secretarios del despacho, al Procurador General de la República, al titular del órgano u órganos por el que se ejerza el gobierno en el Distrito Federal, remover a los agentes diplomáticos y empleados superiores de Hacienda y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes.
+II.- Nombrar y remover libremente a los Secretarios del Despacho, al Procurador General de la República, remover a los Agentes Diplomáticos y empleados superiores de Hacienda y, nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes.
 
 III.- Nombrar los ministros, agentes diplomáticos y cónsules generales, con aprobación del Senado.
 
@@ -1734,9 +1652,7 @@ XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley r
 
 XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III y IV, con aprobación de la Comisión Permanente.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-XVII.- Nombrar magistrados del Tribunal Superior de Justicia del Distrito Federal y someter los nombramientos a la aprobación de la Asamblea de Representantes del Distrito Federal.
+XVII.- (DEROGADA, D.O.F. 25 DE OCTUBRE DE 1993)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1950,15 +1866,9 @@ Corresponde a los Tribunales de la Federación conocer:
 
 I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales del orden común de los Estados y del Distrito Federal. Las sentencias de primera instancia podrán ser apelables para (sic) ante el superior inmediato del juez que conozca del asunto en primer grado.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-> <small>(ADICIONADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
-
-I-B.- De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de lo contencioso-administrativo a que se refiere la fracción XXIX-H del artículo 73 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los tribunales colegiados de circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los tribunales colegiados de circuito no procederá juicio o recurso alguno;
+I-B.- De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de lo contencioso-administrativo a que se refieren la fracción XXIX-H del artículo 73 y fracción IV, inciso e) del artículo 122 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
 
 II.- De todas las controversias que versen sobre derecho marítimo;
 
@@ -1970,11 +1880,11 @@ V.- De las que surjan entre un Estado y uno o más vecinos de otro, y
 
 VI.- De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
-> <small>(REFORMADO 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 105.
 
-Corresponde sólo a la Suprema Corte de Justicia de la Nación conocer de las controversias que se susciten entre dos o más Estados, entre los Poderes de un mismo Estado sobre la constitucionalidad de sus actos y de los conflictos entre la Federación y uno o más Estados, así como de aquellas en que la Federación sea parte en los casos que establezca la ley.
+Corresponde sólo a la Suprema Corte de Justicia de la Nación conocer de las controversias que se susciten entre dos o más Estados; entre uno o más Estados y el Distrito Federal; entre los poderes de un mismo Estado y entre órganos de gobierno del Distrito Federal, sobre la constitucionalidad de sus actos y de los conflictos entre la Federación y uno o más Estados, así como de aquéllas en que la Federación sea parte en los casos que establezca la Ley.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
@@ -1982,11 +1892,11 @@ Corresponde sólo a la Suprema Corte de Justicia de la Nación conocer de las co
 
 Corresponde al Poder Judicial de la Federación en los términos de la Ley respectiva, dirimir las competencias que se susciten entre los Tribunales de la Federación, entre éstos y los de los Estados o entre los de un Estado y los de otro.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 107.
 
-Todas las controversias de que habla el Artículo 103 se sujetarán a los procedimientos y formas del orden jurídico que determine la ley, de acuerdo con las bases siguientes:
+Todas las controversias de que habla el Artículo 103 se sujetarán a los procedimientos y formas del orden jurídico que determine la ley, de acuerdo a las bases siguientes:
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -2056,7 +1966,9 @@ VII.- El amparo contra actos en juicio, fuera de juicio o después de concluido,
 
 VIII.- Contra las sentencias que pronuncien en amparo los jueces de distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
-a) Cuando habiéndose impugnado en la demanda de amparo, por estimarlos directamente violatorios de esta Constitución, leyes federales o locales, tratados internacionales, reglamentos expedidos por el Presidente de la República de acuerdo con la fracción I del artículo 89 de esta Constitución y reglamentos de leyes locales expedidos por los gobernadores de los Estados, subsista en el recurso el problema de constitucionalidad;
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
+a) Cuando habiéndose impugnado en la demanda de amparo, por estimarlos directamente violatorios de esta Constitución, leyes federales o locales, tratados internacionales, reglamentos expedidos por el Presidente de la República de acuerdo con la fracción I del Artículo 89 de esta Constitución y reglamentos de leyes locales expedidos por los gobernadores de los Estados o por el Jefe del Distrito Federal, subsista en el recurso el problema de constitucionalidad;
 
 b) Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
 
@@ -2240,9 +2152,11 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 109. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
 ## TITULO QUINTO.
 
-DE LOS ESTADOS DE LA FEDERACION.
+DE LOS ESTADOS DE LA FEDERACION Y DEL DISTRITO FEDERAL.
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -2406,11 +2320,17 @@ II.- Tener, en ningún tiempo, tropa permanente ni buques de guerra.
 
 III.- Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
 
-> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 119.
 
+Los Poderes de la Unión tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o transtorno (sic) interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
+
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+
 Cada Estado y el Distrito Federal están obligados a entregar sin demora a los indiciados, procesados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra entidad federativa que los requiera. Estas diligencias se practicarán, con intervención de las respectivas procuradurías generales de justicia, en los términos de los convenios de colaboración que, al efecto, celebren las entidades federativas. Para los mismos fines, los Estados y el Distrito Federal podrán celebrar convenios de colaboración con el Gobierno Federal, quien actuará a través de la Procuraduría General de la República.
+
+> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 Las extradiciones a requerimiento de Estado extranjero serán tramitadas por el Ejecutivo Federal, con la intervención de la autoridad judicial en los términos de esta Constitución, los Tratados Internacionales que al respecto se suscriban y las leyes reglamentarias. En esos casos, el auto del juez que mande cumplir la requisitoria será bastante para motivar la detención hasta por sesenta días naturales.
 
@@ -2434,9 +2354,151 @@ IV.- Los actos del estado civil ajustados a las leyes de un Estado, tendrán val
 
 V.- Los títulos profesionales expedidos por las autoridades de un Estado, con sujeción a sus leyes, serás (sic) respetados en los otros.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+
 ###### Art. 122.
 
-Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
+El Gobierno del Distrito Federal está a cargo de los Poderes de la Unión, los cuales lo ejercerán por sí y a través de los órganos de gobierno del Distrito Federal representativos y democráticos, que establece esta Constitución.
+
+I.- Corresponde al Congreso de la Unión expedir el Estatuto de Gobierno del Distrito Federal en el que se determinarán:
+
+a) La distribución de atribuciones de los Poderes de la Unión en materias del Distrito Federal, y de los órganos de gobierno del Distrito Federal, según lo que dispone esta Constitución;
+
+b) Las bases para la organización y facultades de los órganos locales de gobierno del Distrito Federal, que serán:
+
+1. La Asamblea de Representantes;
+
+2. El Jefe del Distrito Federal; y
+
+3. El Tribunal Superior de Justicia;
+
+c) Los derechos y obligaciones de carácter público de los habitantes del Distrito Federal;
+
+d) Las bases para la organización de la Administración Pública del Distrito Federal y la distribución de atribuciones entre sus órganos centrales y desconcentrados, así como la creación de entidades paraestatales; y
+
+e) Las bases para la integración, por medio de elección directa en cada demarcación territorial, de un consejo de ciudadanos para su intervención en la gestión, supervisión, evaluación y, en su caso, consulta o aprobación, de aquellos programas de la administración pública del Distrito Federal que para las demarcaciones determinen las leyes correspondientes. La Ley establecerá la participación de los partidos políticos con registro nacional en el proceso de integración de los consejos ciudadanos.
+
+II.- Corresponde al Presidente de los Estados Unidos Mexicanos:
+
+a) Nombrar al Jefe del Distrito Federal en los términos que dispone esta Constitución;
+
+b) Aprobar el nombramiento o remoción, en su caso, que haga el Jefe del Distrito Federal del Procurador General de Justicia;
+
+c) El mando de la Fuerza Pública en el Distrito Federal y la designación del servidor público que la tenga a su cargo. El Ejecutivo Federal podrá delegar en el Jefe del Distrito Federal las funciones de dirección en materia de seguridad pública;
+
+d) Enviar anualmente al Congreso de la Unión, la propuesta de los montos de endeudamiento necesarios para el financiamiento del presupuesto de egresos del Distrito Federal. Para tal efecto, el Jefe del Distrito Federal, someterá a la consideración del Ejecutivo Federal la propuesta correspondiente en los términos que disponga la ley;
+
+e) Iniciar leyes y decretos ante la Asamblea de Representantes del Distrito Federal; y
+
+f) Las demás atribuciones que le señalen esta Constitución, el Estatuto y las leyes.
+
+III.- La Asamblea de Representantes del Distrito Federal, se integrará por 40 representantes electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y 26 representantes electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. Sólo podrán participar en la elección los partidos políticos con registro nacional. La demarcación de los distritos se establecerá como determine la ley.
+
+Los representantes a la Asamblea del Distrito Federal serán electos cada tres años y por cada propietario se elegirá un suplente; las vacantes de los representantes serán cubiertas en los términos que la fracción IV del artículo 77 de esta Constitución establece para la Cámara de Diputados.
+
+Los representantes deberán reunir los mismos requisitos que esta Constitución establece para los diputados federales y les será aplicable lo dispuesto por los artículos 59, 62 y 64 de esta Constitución.
+
+La elección de los representantes según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en particular disponga la ley:
+
+a) Un partido político, para obtener el registro de su lista de candidatos a representantes a la Asamblea del Distrito Federal, deberá acreditar que participa con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal;
+
+b) Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida, tendrá derecho a que le sean atribuidos representantes según el principio de representación proporcional; y
+
+c) Al partido político que cumpla con lo dispuesto por los dos incisos anteriores, le serán asignados representantes por el principio de representación proporcional. La ley establecerá la fórmula para su asignación. Además, al hacer ésta, se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+
+En todo caso, para el otorgamiento de las constancias de asignación, se observarán las siguientes reglas:
+
+a) Ningún partido político podrá contar con más del sesenta y tres por ciento del total de representantes electos mediante ambos principios; y
+
+b) Al partido político que obtenga por sí mismo el mayor número de constancias de mayoría y por lo menos el treinta por ciento de la votación en el Distrito Federal, le será otorgada la constancia de asignación por el número suficiente de representantes para alcanzar la mayoría absoluta de la Asamblea.
+
+En lo relativo a la organización de las elecciones, declaración de validez de las mismas, otorgamiento de constancias de mayoría, así como para el contencioso electoral de los representantes a la Asamblea del Distrito Federal, se estará a lo dispuesto por los artículos 41 y 60 de esta Constitución.
+
+La Asamblea se reunirá a partir del 17 de septiembre de cada año, para celebrar un primer periodo de sesiones ordinarias, que podrá prolongarse hasta el 31 de diciembre del mismo año. El segundo periodo de sesiones ordinarias se iniciará a partir del 15 de marzo de cada año y podrá prolongarse hasta el 30 de abril del mismo año. Durante sus recesos, la Asamblea celebrará sesiones extraordinarias para atender los asuntos urgentes para los cuales sea convocada, a petición de la mayoría de los integrantes de su Comisión de Gobierno del Presidente de la República o del Jefe del Distrito Federal.
+
+Los representes a la Asamblea son inviolables por las opiniones que manifiesten en el desempeño de su cargo. Su Presidente velará por el respeto al fuero constitucional de sus miembros, así como por la inviolabilidad del recinto donde se reúnan a sesionar. En materia de responsabilidades, será aplicable a los representantes de la Asamblea la ley federal que regula las responsabilidades de los servidores públicos.
+
+IV.- La Asamblea de Representantes del Distrito Federal tiene facultades para:
+
+a) Expedir su ley orgánica que regulará su estructura y funcionamiento internos, la que será enviada al Jefe del Distrito Federal y al Presidente de la República para su sola publicación;
+
+b) Examinar, discutir y aprobar anualmente el presupuesto de egresos del Distrito Federal, analizando primero las contribuciones que a su juicio deban decretarse para cubrirlos.
+
+La Asamblea de Representantes, formulará su proyecto de presupuesto y lo enviará oportunamente al Jefe del Distrito Federal para que éste ordene su incorporación al Proyecto de Presupuesto de Egresos del Distrito Federal.
+
+Las leyes federales no limitarán la facultad del Distrito Federal para establecer contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles, incluyendo tasas adicionales, ni sobre los servicios públicos a su cargo. Tampoco considerarán a personas como no sujetos de contribuciones ni establecerán exenciones, subsidios o regímenes fiscales especiales en favor de personas físicas y morales ni de instituciones oficiales o privadas en relación con dichas contribuciones. Las leyes del Distrito Federal no establecerán exenciones o subsidios respecto a las mencionadas contribuciones en favor de personas físicas o morales ni de instituciones oficiales o privadas.
+
+Sólo los bienes del dominio público de la Federación y del Distrito Federal estarán exentos de las contribuciones señaladas.
+
+Las prohibiciones y limitaciones que esta Constitución establece para los estados se aplicarán para el Distrito Federal;
+
+c) Revisar la cuenta pública del año anterior. La revisión tendrá como finalidad comprobar si los programas contenidos en el presupuesto se han cumplido conforme a lo autorizado según las normas y criterios aplicables, así como conocer de manera general los resultados financieros de la gestión del gobierno del Distrito Federal. En caso de que de la revisión que efectúe la Asamblea de Representantes, se manifestarán desviaciones en la realización de los programas o incumplimiento a las disposiciones administrativas o legales aplicables, se determinarán las responsabilidades a que haya lugar de acuerdo con la ley de la materia.
+
+La cuenta pública del año anterior, deberá ser enviada a la Asamblea de Representantes dentro de los diez primeros días del mes de junio.
+
+Sólo se podrá ampliar el plazo de presentación de las iniciativas de leyes de ingresos y del proyecto de presupuesto de egresos, así como de la cuenta pública, cuando medie solicitud del Jefe del Distrito Federal suficientemente justificada a juicio de la Asamblea de Representantes;
+
+d) Expedir la ley orgánica de los tribunales de justicia del Distrito Federal;
+
+e) Expedir la ley orgánica del tribunal de lo contencioso administrativo, que se encargará de la función jurisdiccional en el orden administrativo, que contará con plena autonomía para dictar sus fallos a efecto de dirimir las controversias que se susciten entre la administración pública del Distrito Federal y los particulares;
+
+f) Presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión;
+
+g) Legislar en el ámbito local, en lo relativo al Distrito Federal en los términos del Estatuto de Gobierno en materias de: Administración Pública Local, su régimen interno y de procedimientos administrativos; de presupuesto, contabilidad y gasto público; regulación de su contaduría mayor; bienes del dominio público y privado del Distrito Federal; servicios públicos y su concesión, así como de la explotación, uso y aprovechamiento de bienes del dominio del Distrito Federal; justicia cívica sobre faltas de policía y buen gobierno; participación ciudadana; organismo protector de los derechos humanos; civil; penal; defensoría de oficio; notariado; protección civil; prevención y readaptación social; planeación del desarrollo; desarrollo urbano y uso del suelo; establecimiento de reservas territoriales; preservación del medio ambiente y protección ecológica; protección de animales; construcciones y edificaciones; vías públicas, transporte urbano y tránsito; estacionamientos; servicio público de limpia; fomento económico y protección al empleo; establecimientos mercantiles; espectáculos públicos; desarrollo agropecuario; vivienda; salud y asistencia social; turismo y servicios de alojamiento; previsión social; fomento cultural, cívico y deportivo; mercados, rastros y abasto; cementerios, y función social educativa en los términos de la fracción VIII del artículo 3o. de esta Constitución; y
+
+h) Las demás que expresamente le otorga esta Constitución.
+
+V.- La facultad de iniciar leyes y decretos ante la Asamblea corresponde a sus miembros, al Presidente de la República y al Jefe del Distrito Federal. Será facultad exclusiva del Jefe del Distrito Federal la formulación de las iniciativas de ley de ingresos y decreto de presupuesto de egresos, las que remitirá a la Asamblea a más tardar el 30 de noviembre, o hasta el 20 de diciembre, cuando inicie su encargo en dicho mes.
+
+Los proyectos de leyes o decretos que expida la Asamblea de Representantes se remitirán para su promulgación al Presidente de la República, quién podrá hacer observaciones y devolverlos en un lapso de diez días hábiles, a no ser que transcurrido dicho término, la Asamblea hubiese cerrado o suspendido sus sesiones, en cuyo caso, la devolución deberá hacerse el primer día hábil en que la Asamblea se reúna. De no ser devuelto en ese plazo, se entenderá aceptado y se procederá a su promulgación. El proyecto devuelto con observaciones deberá ser discutido nuevamente por la Asamblea.
+
+Si se aceptasen las observaciones o si fuese confirmado por las dos terceras partes del número total de votos de los representantes presentes en la sesión, el proyecto será ley o decreto y se enviará en los términos aprobados, para su promulgación.
+
+El Jefe del Distrito Federal refrendará los decretos promulgatorios del Presidente de la República respecto de las leyes o decretos que expida la Asamblea de Representantes.
+
+VI.- El Jefe del Distrito Federal, será el titular de la Administración Pública del Distrito Federal. Ejercerá sus funciones en los términos que establezca esta Constitución, el Estatuto de Gobierno y las demás leyes aplicables, con arreglo a las siguientes bases:
+
+a) El Jefe del Distrito Federal será nombrado por el Presidente de la República de entre cualquiera de los Representantes a la Asamblea, Diputados Federales o Senadores electos en el Distrito Federal, que pertenezcan al partido político que por sí mismo obtenga el mayor número de asientos en la Asamblea de Representantes. El nombramiento será sometido a la ratificación de dicho órgano, que contará con un plazo de cinco días para, en su caso, ratificarlo. Si el nombramiento no fuese ratificado, el Presidente presentará a la Asamblea, un segundo nombramiento para su ratificación dentro de un plazo de cinco días. Si no hubiera ratificación del segundo nombramiento, el Senado hará directamente el nombramiento del Jefe del Distrito Federal;
+
+b) El Jefe del Distrito Federal podrá durar en su encargo hasta seis años, a partir de la fecha en que rinda protesta ante la Asamblea de Representantes o en su caso, ante el Senado de la República, y hasta el 2 de diciembre del año en que concluya el periodo constitucional del Presidente de la República;
+
+c) En caso de falta temporal del Jefe del Distrito Federal o durante el periodo de ratificación del nombramiento de Jefe del Distrito Federal, quedará encargado del despacho el servidor público que disponga el Estatuto de Gobierno. En caso de falta absoluta, o con motivo de su remoción, el Presidente de la República procederá a nombrar, ajustándose a lo dispuesto en el inciso a) de esta fracción, un sustituto que concluirá el periodo respectivo;
+
+d) En caso de que la Asamblea de Representantes del Distrito Federal, no estuviera en periodo de sesiones, el Presidente de la República presentará a ratificación el nombramiento de Jefe del Distrito Federal a la Comisión de Gobierno de la Asamblea de Representantes, la que en el siguiente periodo ordinario, lo someterá al pleno de la Asamblea para su aprobación definitiva;
+
+e) El Jefe del Distrito Federal, solicitará licencia para separarse de su encargo de representante popular previo a la fecha en que rinda protesta ante la Asamblea de Representantes, o en su caso, ante el Senado;
+
+f) El ciudadano que ocupe el cargo de Jefe del Distrito Federal, con cualquier carácter, en ningún caso podrá volver a ocuparlo;
+
+g) El Jefe del Distrito Federal ejecutará las leyes o decretos que expida la Asamblea de Representantes, proveyendo en la esfera administrativa a su exacta observancia. Asimismo, expedirá los reglamentos gubernativos que corresponden al Distrito Federal. También ejecutará las leyes o decretos que expida el Congreso de la Unión respecto del Distrito Federal, cuando así lo determinen éstas.
+
+Todos los reglamentos y decretos que expida el Jefe del Distrito Federal deberán ser refrendados por el servidor público que señale el Estatuto de Gobierno;
+
+h) El Jefe del Distrito Federal será responsable ante el Congreso de la Unión de acuerdo con el Título Cuarto de esta Constitución, y por violaciones a las leyes del Distrito Federal así como por el manejo indebido de fondos y recursos públicos locales; y
+
+i) El Jefe del Distrito Federal, podrá ser removido de su cargo por el Senado, en sus recesos, por la Comisión Permanente, por causas graves que afecten las relaciones con los Poderes de la Unión o el orden público en el Distrito Federal. La solicitud de remoción deberá ser presentada por la mitad de los miembros de la Cámara de Senadores o de la Comisión Permanente, en su caso.
+
+VII.- La función judicial se ejercerá por el Tribunal Superior de Justicia, el cual se integrará por el número de magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley señale. Para ser magistrado se deberán reunir los mismos requisitos que establece el Artículo 95 de esta Constitución.
+
+Los nombramientos de los magistrados se harán por el Jefe del Distrito Federal, en los términos previstos por el Estatuto de gobierno y la ley orgánica respectiva. Los nombramientos de los magistrados serán sometidos a la aprobación de la Asamblea de Representantes. Cada magistrado del Tribunal, al entrar a ejercer su cargo, rendirá protesta de guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, ante el Pleno de la Asamblea de Representantes.
+
+Los magistrados durarán seis años en el ejercicio de su cargo, podrán ser ratificados, y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+
+El Tribunal Superior de Justicia elaborará su propio presupuesto para su inclusión en el proyecto de presupuesto de egresos que el Jefe del Distrito Federal envíe a la Asamblea de Representantes;
+
+VIII.- El Ministerio Público en el Distrito Federal estará a cargo de un Procurador General de Justicia; y
+
+IX.- Para la eficaz coordinación de las distintas jurisdicciones locales y municipales entre sí y de éstas con la Federación y el Distrito Federal en la planeación y ejecución de acciones en las zonas conurbadas limítrofes con el Distrito Federal, de acuerdo con el artículo 115 fracción VI de esta Constitución, en materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte, agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos y seguridad pública, sus respectivos gobiernos podrán suscribir convenios para la creación de comisiones metropolitanas en las que concurran y participen con apego a sus leyes.
+
+Las comisiones serán constituidas por acuerdo conjunto de los participantes. En el instrumento de creación se determinará la forma de integración, estructura y funciones.
+
+A través de las comisiones se establecerán:
+
+a) Las bases para la celebración de convenios, en el seno de las comisiones, conforme a las cuales se acuerden los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias indicadas en el primer párrafo de esta fracción.
+
+b) Las bases para establecer, coordinadamente por las partes integrantes de las comisiones las funciones específicas en las materias referidas, así como para la aportación común de recursos materiales, humanos y financieros necesarios para su operación; y
+
+c) Las demás reglas para la regulación conjunta y coordinada del desarrollo de las zonas conurbadas, prestación de servicios y realización de acciones que acuerden los integrantes de las comisiones.
 
 ## TITULO SEXTO.
 
@@ -4037,3 +4099,27 @@ CUARTO.- Los diputados que se elijan a la LVI legislatura del Congreso de la Uni
 QUINTO.- Los senadores que se elijan a las LVI y LVII legislaturas del Congreso de la Unión durarán en sus funciones del 1o. de noviembre de 1994 al 31 de agosto del año 2000.
 
 Los senadores que se elijan en 1997 durarán en sus funciones del 1o. de noviembre de dicho año, al 31 de agosto del año 2000.
+
+D.O.F. 25 DE OCTUBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- La Asamblea de Representantes del Distrito Federal electa para el periodo noviembre de 1991 a noviembre de 1994, continuará teniendo las facultades establecidas en la fracción VI del artículo 73 de esta Constitución vigentes al momento de entrar en vigor el presente Decreto.
+
+TERCERO.- La III Asamblea de Representantes del Distrito Federal, tendrá las facultades que le otorga el presente Decreto, y será la que se integre para el periodo que comenzará el 15 de noviembre de 1994 y concluirá el 16 de septiembre de 1997.
+
+CUARTO.- A partir del 15 de marzo de 1995, los periodos de sesiones ordinarias de la Asamblea de Representantes del Distrito Federal se celebrarán de acuerdo con las fechas establecidas por el presente decreto.
+
+QUINTO.- El primer nombramiento para el cargo de Jefe del Distrito Federal, en los términos de este Decreto se verificará en el mes de diciembre de 1997 y el periodo constitucional respectivo concluirá el 2 de diciembre del año 2000. En tanto dicho Jefe asume su encargo, el gobierno del Distrito Federal seguirá a cargo del Presidente de la República de acuerdo con la base 1a. de la fracción VI del artículo 73 de esta Constitución vigente al momento de entrar en vigor el presente Decreto. El Ejecutivo Federal mantendrá la facultad de nombrar y remover libremente al titular del órgano u órganos de gobierno del Distrito Federal y continuará ejerciendo para el Distrito Federal, en lo conducente, las facultades establecidas en la fracción I del artículo 89 de esta Constitución.
+
+SEXTO.- Los consejos de ciudadanos por demarcación territorial se elegirán e instalarán en 1995, conforme a las disposiciones del Estatuto de Gobierno y las leyes respectivas.
+
+SEPTIMO.- Los servidores públicos que se readscriban a la administración pública del Distrito Federal y sus dependencias conservarán todos sus derechos laborales.
+
+OCTAVO.- Las iniciativas de leyes de ingresos, y de decretos de presupuesto de egresos del Distrito Federal para los ejercicios 1995, 1996 y 1997, así como las cuentas públicas de 1995 y 1996 serán enviados a la Asamblea de Representantes por el Presidente de la República. La cuenta pública correspondiente a 1994 será revisada por la Cámara de Diputados del Congreso de la Unión.
+
+NOVENO.- En tanto se reforman y expidan las disposiciones que coordinen el sistema fiscal entre la Federación y el Distrito Federal, continuarán aplicándose las normas que sobre la materia rijan al entrar en vigor el presente Decreto.
+
+DECIMO.- En tanto se expidan las nuevas normas aplicables al Distrito Federal continuarán rigiendo las disposiciones legales y reglamentarias vigentes.
+
+DECIMO PRIMERO.- El Congreso de la Unión conservará la facultad de legislar, en el ámbito local, en las materias de orden común, civil y penal para el Distrito Federal, en tanto se expidan los ordenamientos de carácter federal correspondientes, a cuya entrada en vigor, corresponderá a la Asamblea de Representantes legislar sobre el particular, en los términos del presente Decreto.
