@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1989-11-09"
+last_updated: "1989-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -359,7 +359,7 @@ III.- El deudor sea declarado en estado de quiebra, concurso, suspensión de pag
 
 Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán pagarse recargos en concepto de indemnización al Fisco Municipal.
 
-La tasa de los recargos será de un 50% mayor de la que se fije anualmente conforme a las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+La tasa de los recargos será de un 50% mayor de la que se fije anualmente conforme a las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que debió hacer el pago y hasta que el mismo se efectúe.
 
 Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
@@ -957,11 +957,11 @@ Las Tesorerías Municipales, podrán nombrar interventores para que concurran a 
 
 Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de los servicios públicos, fomento turístico, fomento deportivo y sostenimiento de instituciones de educación media y superior.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 101.
 
-Será objeto de este impuesto, la realización de pagos por concepto de los impuestos y derechos que establece esta Ley, a excepción del derecho de estacionamiento de vehículos en la vía pública, donde se hayan instalado sistemas de control de tiempos y espacio.
+Será objeto de este impuesto la realización de pagos por concepto de los impuestos y derechos que establece esta Ley, a excepción del Impuesto Predial y derecho de estacionamiento de vehículos en la vía pública, donde se hayan instalado sistemas de control de tiempo y espacio.
 
 ###### ARTICULO 102.
 
@@ -1039,8 +1039,6 @@ Las cuotas de los derechos que se causen por la prestación de los servicios pú
 
 ### CAPITULO CUARTO. Limpia
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
-
 ###### ARTICULO 107.
 
 Las tarifas y derechos de conexión de derechos que se causen por la prestación por parte de los organismos operadores municipales, del servicio de agua potable y alcantarillado, así como lo relativo a la forma y época de pago de los mismos y a las demás circunstancias concernientes a la prestación de este servicio, se regularán por los ordenamientos jurídicos correspondientes.
@@ -1081,9 +1079,7 @@ El servicio a que se refiere este Capítulo es de utilización obligatoria.
 
 ###### ARTICULO 112.
 
-Por la prestación del servicio público de limpia, los propietarios o poseedores de predios urbanos, ubicados en la jurisdicción territorial de los Municipios, pagarán un derecho equivalente al 20% del importe del impuesto predial, sin incluir adicionales.
-
-Este derecho deberá ser enterado a las Tesorerías Municipales, simultáneamente al impuesto predial.
+(DEROGADO, B.O. 29 DE DICIEMBRE DE 1989)
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1900,3 +1896,7 @@ B.O. 9 DE NOVIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 29 DE DICIEMBRE DE 1989.
+
+UNICO.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1o. de enero de 1990.
