@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1998-09-08"
+last_updated: "2000-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE OCTUBRE DE 2000.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -4305,11 +4305,11 @@ ARTICULO 586
 
 El albacea manifestará dentro de diez días de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el Juez que dentro de los treinta días siguientes, debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1641 y 1642 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
 ARTICULO 587
 
-Cuando los herederos sean mayores de edad, o lo sea la mayoría de ellos, o hubiere un solo heredero, aunque éste fuere menor de edad, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado, siempre que la ley civil no lo impida y se garantice previa y debidamente el pago de los derechos fiscales.
-
-Los arreglos a que se refiere este artículo, se tomarán ante un notario público, de acuerdo con las disposiciones de esta ley.
+Cuando los herederos sean mayores de edad, o lo sea la mayoría de ellos, o hubiere un solo heredero, aunque éste fuera menor de edad, y no exista controversia alguna, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaria o del intestado, siempre que la ley civil no lo impida. Los arreglos a que se refiere este artículo se tomarán ante un notario público de acuerdo a las disposiciones de esta ley.
 
 ARTICULO 588
 
@@ -4843,9 +4843,11 @@ VI.- La transmisión de los bienes del patrimonio familiar, está exenta de cont
 
 ### CAPITULO IX. De la tramitación por notarios
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
 ARTICULO 674
 
-Cuando todos los herederos fueren mayores de edad o se encuentren en los otros casos del artículo 587, la testamentaría podrá ser extrajudicial, con intervención de un notario, mientras no hubiere controversia alguna, con arreglo a lo que se establece en los artículos siguientes.
+Cuando todos los herederos o legatarios fueren mayores de edad o lo sea la mayoría de ellos, o hubiere un solo heredero aunque éste fuere menor de edad, y no hubiere controversia entre ellos, la testamentaria podrá ser extrajudicial con intervención de un notario, con arreglo a lo que se establece en los artículos siguientes.
 
 ARTICULO 675
 
@@ -4863,13 +4865,13 @@ Formado por el albacea con la aprobación de los herederos el proyecto de partic
 
 Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el notario suspenderá su intervención.
 
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
 ARTICULO 678
 
-Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este Capítulo.
+Cuando todos los herederos fueren mayores de edad o lo sea la mayoría de ellos, o hubiere un solo heredero, aunque éste fuere menor de edad y no hubiere controversia entre ellos, el procedimiento intestamentario podrá ser extrajudicial de acuerdo a lo que se establece en este capítulo, los interesados presentarán al notario un escrito donde soliciten su intervención y justifiquen con documentos auténticos anexos, su matrimonio y parentesco. El notario dará a conocer esta solicitud por medio de dos publicaciones que serán hechas de diez en diez días en la Gaceta Oficial del Estado y en otro periódico de los de mayor circulación. Realizado lo anterior, el notario levantará un acta de información ad perpétuam de hecho conocido y sabido por todos, de conformidad con los artículos 699-B y 699-C, para acreditar el derecho a heredar.
 
-> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
-
-Cuando haya menores de edad, el trámite con intervención de un notario procederá, si se satisfacen previamente los requisitos que establece el segundo párrafo del artículo 1709 del Código Civil del Estado.
+Realizado lo cual, se otorgará ante el notario una escritura de aceptación y reconocimiento recíproco de derechos hereditarios y la designación del albacea por los herederos y la aceptación del cargo, la protesta de su legal y fiel desempeño. La continuación del trámite sucesorio se hará de conformidad al procedimiento testamentario previsto en este capítulo.
 
 ### CAPITULO X. Del testamento público cerrado
 
@@ -4967,9 +4969,11 @@ DE LA JURISDICCION VOLUNTARIA
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
 ARTICULO 695
 
-La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
+La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez o del notario, sin que esté promovida ni se promueva controversia alguna. En los casos que intervengan menores, los mismos deberán estar representados en términos de ley.
 
 Nunca se practicará diligencia alguna de jurisdicción voluntaria de que pueda resultar perjuicio a la Hacienda Pública. Las que se practiquen en contravención a lo dispuesto en este artículo, no producirán efecto legal.
 
@@ -5003,7 +5007,7 @@ No se comprenden en esta disposición los autos que tengan fuerza de definitivos
 
 Las resoluciones dictadas en jurisdicción voluntaria, son apelables en ambos efectos, salvo disposición expresa en contrario.
 
-> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
@@ -5177,15 +5181,101 @@ Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenac
 
 ARTICULO 699-A
 
-A elección del promovente, podrá tramitarse la jurisdicción voluntaria ante Juez competente o ante Notario Público, cuando se trate de diligencias de apeo y deslinde, autorizaciones para que los emancipados o habilitados puedan enajenar sus bienes, cambio de nombre voluntario, cuando se refiera exclusivamente al nombre y no de los apellidos. Así como, informaciones testimoniales para acreditar hechos referentes a la residencia, capacidad, buena conducta, dependencia económica y de dominio sobre construcciones o mejoras de fincas rústicas o urbanas, debiendo en estos últimos casos, requerir la declaración de cuando menos dos testigos idóneos.
+A elección del promovente, podrá tramitarse la jurisdicción voluntaria ante el juez competente o ante notario público en los siguientes casos:
 
-En los casos en que deba intervenir el Ministerio Público, el Notario solicitará su opinión remitiéndole copia certificada de toda la documentación respectiva, para que la exprese en un plazo improrrogable de diez días hábiles. Una vez pronunciada la resolución, dentro del término de tres días se comunicará a las autoridades o instituciones que corresponda.
+I.- Para justificar hechos y acreditar derechos;
 
-De haber oposición al trámite notarial, de inmediato se suspenderá y turnará al Juez competente toda la documentación, para que se decida lo conducente.
+II.- Para acreditar residencia, buena conducta, dependencia económica o el dominio de construcciones de mejora a un inmueble;
 
-Las formalidades y requisitos exigidos por este Código, siempre serán observados, y de no hacerlo el Notario, además de la responsabilidad en que incurra, será responsable del pago de los daños y perjuicios que cause.
+III.- Para acreditar hechos conocidos y sabidos por todos o acreditar situaciones jurídicas;
 
-En los testimonios que expidan los Notarios relativos a estos negocios, insertarán este artículo.
+IV.- Para comprobar la posesión de un derecho real;
+
+V.- Cambio voluntario de nombre o aclaración de uso indistinto de varios nombres;
+
+VI.- El procedimiento voluntario de apeo y de deslinde;
+
+VII.- La constitución y extinción voluntaria del Patrimonio Familiar;
+
+VIII.- La liquidación voluntaria de la sociedad conyugal, siempre que no existan menores;
+
+IX.- La constitución y modificación voluntaria de capitulaciones matrimoniales;
+
+X.- La sucesión testamentaria o intestada con las limitaciones legales establecidas, y
+
+XI.- La renuncia y el nombramiento unánime de albacea siempre que no existan menores.
+
+Cuando así lo establezca la ley, deberá el notario avisar de sus actuaciones en jurisdicción voluntaria, y proceder a inscribir el testimonio respectivo en el Registro Público de la Propiedad, y en su caso, en el Registro Civil para que se haga la anotación marginal.
+
+De haber oposición al trámite notarial, de inmediato suspenderá su actuación y turnará al juez competente toda la documentación, para que se decida lo conducente.
+
+Las formalidades y requisitos exigidos por este Código siempre serán observadas y de no hacerlo el notario, además de las responsabilidades en que incurran, será responsable del pago de daños y perjuicios que cause.
+
+En los testimonios que expidan los notarios relativos a estas actuaciones, insertará este artículo.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+B
+
+Cuando se trate de diligencias para justificar un hecho, de acreditar un derecho, la residencia, buena conducta, dependencia económica de personas, el dominio sobre construcciones o mejoras de un inmueble o la posesión de un derecho real, podrá hacerse mediante acta levantada ante notario público, con la asistencia de tres testigos idóneos propuestos por el interesado. El notario identificará plenamente al solicitante y a los testigos y hará saber al solicitante que las declaraciones que se obtengan no surten efecto en juicio contencioso; informará a los testigos acerca del objeto de su declaración, haciéndoles saber las penas en que incurren quienes lo hacen con falsedad. El notario tomará la protesta a cada testigo de conducirse con la verdad, los interrogará por separado, sin la presencia del solicitante, los inquirirá sobre aquellos puntos que pueden afectar su credibilidad y sobre los que motivaron la solicitud. En el caso de la información de posesión de un derecho real, se llevará a cabo con la audiencia del propietario y de los demás partícipes del derecho real, cuando los haya, para lo cual, el notario los notificará de conformidad con la Ley del Notariado en vigor. En estos casos, en el testimonio respectivo se señalará claramente que la calidad de poseedor es como usufructuario, acreedor pignoraticio, depositario, usuario, acreedor del derecho real de habitación u otro semejante. El notario levantará acta de lo actuado y expedirá testimonio a los interesados.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+CULO 699-C
+
+Podrán comprobarse ante notario los hechos conocidos y sabidos por todos sobre los cuales puedan ser fundados y declarados derechos y legitimadas situaciones personales o patrimoniales con trascendencia jurídica. El notario, si del examen y calificación de las pruebas y del resultado de las diligencias estimare justificada la notoriedad pretendida, lo expresará así. Cuando además de comprobar la notoriedad, se pretenda el reconocimiento de derechos y la legitimación de situaciones personales y patrimoniales, se pedirá así en el requerimiento inicial y el notario emitirá su opinión sobre los mismos declarándolos formalmente, si resultaren evidentes. Si hubiere oposición de parte interesada, lo hará constar el notario, terminará la diligencia y remitirá lo actuado al juez.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+D
+
+Cuando alguna persona quiera cambiar su nombre o nombres propios que le impusieron sus padres, podrá hacerlo ante notario, exhibiéndole copia certificada del acta de nacimiento o reconocimiento. El notario extenderá acta donde haga constar la solicitud y señalará el nuevo nombre que desee usar el interesado; un extracto de la misma se mandará publicar, por dos veces, con intervalo de diez días en la Gaceta Oficial del estado, y en un periódico de los de mayor circulación en el lugar de residencia del solicitante. Transcurridos quince días, contados a partir de la última publicación, sin que nadie acuda ante el notario a manifestar su inconformidad con el cambio propuesto, levantará el notario una segunda acta donde se haga constar la falta de oposición, se adjuntarán las publicaciones, y se le expedirá al interesado testimonio, desde cuya fecha podrá utilizar el nuevo nombre. Simultáneamente, el notario remitirá copia certificada del testimonio al oficial encargado del Registro Civil del lugar donde conste el asentamiento del interesado, para que haga la anotación que procede al margen de dicha acta o partida de nacimiento.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+E
+
+El notario podrá actuar en diligencia de apeo y deslinde de predios cuando así lo solicite la parte interesada en los siguientes casos: si no se fijaron los límites que separan un predio de otro, o haya motivo fundado para creer que no son exactos; porque se hayan destruido las señales o mojoneras que los marcaban; se hayan confundido con otros del predio contiguo, o se hayan colocado en lugar distinto del que estaba determinado; porque suponga el interesado que el predio tenga una superficie mayor o menor a la que señala el título de propiedad respectivo.
+
+El solicitante deberá exhibir el título con el que acredite la propiedad del bien; plano que contenga la ubicación o localización del mismo, de preferencia con cuadro de construcción señalando rumbos, indicar la parte o partes en que debe practicarse el apeo y deslinde y en su caso, el amojonamiento; proporcionar los nombres completos y domicilios de los colindantes y designar un perito. Reunidos los elementos anteriores, el notario levantará acta donde hará constar la solicitud y el cumplimiento de lo establecido en el párrafo precedente, señalará día y hora para la celebración de la diligencia, lo que notificará a los colindantes, cuando menos tres días hábiles antes de la fecha fijada, para que si tienen interés legítimo que deducir, estén presentes en las mismas, exhiban sus títulos y planos, designen perito y hagan las observaciones que consideren pertinentes. El día y hora señalados para la diligencia, el notario se constituirá en el lugar donde se ubique el inmueble que es objeto de esta diligencia y la practicará con el o los peritos y los interesados que concurran. Efectuado el apeo, o mensura en su caso y realizado sin oposición el deslinde y el amojonamiento si fuese necesario, el notario extenderá un acta expresando todas las circunstancias que deban dar a conocer la línea divisoria de los predios, las mojoneras colocadas o mandadas a colocar, su dirección y distancia una de otra, como también las cuestiones importantes que se hayan suscitado y todas las observaciones de interés que hubiesen hecho los interesados. En caso de oposición de parte interesada, lo hará constar el notario terminará la diligencia y remitirá lo actuado al juez para que resuelvan sus diferencias.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+F
+
+El miembro de la familia que quiera constituir voluntariamente al patrimonio familiar, lo podrá manifestar por escrito ante un notario, el cual comprobará documentalmente los requisitos previstos por los artículos 774 y 775 del Código Civil del Estado. Si se tienen las condiciones exigidas por la ley, el notario declarará constituido el patrimonio familiar sobre el bien indicado y lo inscribirá en el Registro Público de la Propiedad. La misma persona que constituyó el patrimonio familiar puede acudir al notario para que declare su extinción, cuado (sic) deje de tener acreedores alimentarios y tramitará, su inscripción en el Registro Público de la Propiedad. La constitución y extinción del patrimonio de familia no puede hacerse en fraude de acreedores.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+G
+
+Cuando los cónyuges decidan liquidar el régimen matrimonial de sociedad conyugal, podrán acudir ante notario siempre que concurran las siguientes circunstancias:
+
+I.- Que sin desvincularse de su matrimonio, opten por el régimen de separación de bienes;
+
+II.- Que por virtud de sentencia ejecutoria en el divorcio necesario se haya condenado a la liquidación de la sociedad conyugal, y las partes voluntariamente acudan al juez del conocimiento, y éste apruebe el convenio de liquidación de la sociedad conyugal y se formalice ante notario, y
+
+III.- Se declare por sentencia ejecutoriada la nulidad del matrimonio y haya los mismos supuestos indicados para el divorcio necesario en el párrafo anterior.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+H
+
+Los cónyuges mayores de edad podrán otorgar voluntariamente ante notario público convenios de modificación a las capitulaciones matrimoniales, a fin de acordar que sólo determinados bienes entrarán en el régimen de sociedad conyugal. El notario dará aviso por escrito de estos convenios al Registro Civil, a fin de que haya la anotación marginal correspondiente al acta de matrimonio; si el convenio implica transferencia de derechos de propiedad sobre inmuebles, el notario lo inscribirá en el Registro Público de la Propiedad para que surta efectos contra terceros.
 
 ### CAPITULO IV. Adopción
 
@@ -5818,6 +5908,12 @@ G.O. 8 DE SEPTIEMBRE DE 1998.
 PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 19 DE OCTUBRE DE 2000.
+
+Artículo Primero. La presente ley entrará en vigor al día siguiente de su publicación en al Gaceta Oficial, órgano de gobierno del estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a la presente ley.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
