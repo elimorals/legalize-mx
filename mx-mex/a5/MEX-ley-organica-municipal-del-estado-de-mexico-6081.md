@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1997-02-07"
+last_updated: "1997-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -383,7 +383,9 @@ La vecindad en un municipio no se perderá cuando el vecino se traslade a residi
 
 Cada municipio será administrado por un ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-Los integrantes de los ayuntamientos de elección popular deberán cumplir con los requisitos previstos por la ley, y no estar impedidos para el desempeño de sus cargos, de acuerdo con los artículos 140 y 141 de la Constitución Política Local y se eligirán conforme a los principios de mayoría relativa y de representación proporcional, con dominante mayoritario.
+> <small>(REFORMADO, G.G. 11 DE SEPTIEMBRE DE 1997)</small>
+
+Los integrantes de los ayuntamientos de elección popular deberán cumplir con los requisitos previstos por la ley, y no estar impedidos para el desempeño de sus cargos, de acuerdo con los artículos 119 y 120 de la Constitución Política del Estado Libre y Soberano de México y se elegirán conforme a los principios de mayoría relativa y de representación proporcional, con dominante mayoritario.
 
 ###### Artículo 16.
 
@@ -417,7 +419,9 @@ El día 30 de diciembre del último año de la gestión del ayuntamiento, en ses
 
 La sesión tendrá por objeto:
 
-I.- Que los miembros del ayuntamiento entrante, rindan la protesta en términos de lo dispuesto por el Artículo 171 de la Constitución Política Local. El presidente municipal electo para el período siguiente lo hará ante el representante designado por el Ejecutivo del Estado y a su vez, hará de inmediato lo propio con los demás miembros del ayuntamiento electo;
+> <small>(REFORMADA, G.G. 11 DE SEPTIEMBRE DE 1997)</small>
+
+I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos de lo dispuesto por el artículo 144 de la Constitución Política local. El presidente municipal electo para el período siguiente lo hará ante el representante designado por el Ejecutivo del Estado y a su vez, hará de inmediato lo propio con los demás miembros del ayuntamiento electo;
 
 II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente Municipal.
 
@@ -2026,3 +2030,13 @@ Se derogan las normas legales y reglamentarias de igual o menor jerarquía que s
 ###### ARTICULO SEPTIMO.
 
 Los procedimientos y recursos administrativos, así como los juicios contenciosos administrativos que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+G.G. 11 DE SEPTIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
