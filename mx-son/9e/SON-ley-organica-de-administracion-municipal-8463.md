@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1984-02-02"
+last_updated: "1987-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE NOVIEMBRE DE 1987.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -366,6 +366,8 @@ XIX.- Vigilar que los actos de las autoridades municipales, observen los requisi
 XX.- Acordar y llevar a cabo programas de capacitación en beneficio de sus funcionarios y empleados, en base a las necesidades de la administración y a los recursos disponibles.
 
 XXI.- Designar en la primera sesión que celebren en el mes de enero de cada año, como lo previene el Código Civil del Estado, a los integrantes del Consejo Local de Tutelas del Municipio.
+
+> <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 XXII.- Someter al examen y aprobación del Congreso durante la segunda quincena del mes de noviembre de cada año, las Leyes de Ingresos y Presupuestos de Ingresos, que deberán regir en el año siguiente. Para su ejercicio, todo ingreso adicional o excedente que reciba el Ayuntamiento, deberá ser autorizado previamente por el Congreso del Estado.
 
@@ -779,7 +781,9 @@ a) La glosa de las cuentas del Ayuntamiento saliente.
 
 b) La glosa anual de las Comisarías y Delegaciones Municipales determinando sus irregularidades, en caso de existir éstas.
 
-c) La cuenta anual pormenorizado del manejo hacendario a que se refiere la Fracción XXV del Artículo 37 de esta Ley, misma que deberá comprender del mes de abril del ejercicio fiscal anterior, al mes de marzo del ejercicio correspondiente.
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
+c).- La cuenta anual pormenorizada del manejo hacendario a que se refiere la fracción XXV del artículo 37 de esta Ley, misma que deberá comprender del 1º de enero hasta el 31 de diciembre del ejercicio correspondiente.
 
 d) Los estados financieros trimestrales que se deban enviar al Congreso del Estado de conformidad con lo establecido en la Fracción XXIII del Artículo 136 de la Constitución Política local.
 
@@ -913,29 +917,39 @@ La inobservancia a lo preceptuado en este Título, será considerada como una vi
 
 ### CAPITULO II. DE LA HACIENDA MUNICIPAL
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 77.
 
-La Hacienda Pública Municipal se constituirá por los ingresos que señala la Ley de Hacienda Municipal y las respectivas Leyes anuales de ingresos y de acuerdo a los montos que fijen los Presupuestos de Ingresos que apruebe el Congreso del Estado. Además, se integrara con aquellos ingresos que determinen las Leyes y Decretos Federales y Estatales y los Convenios respectivos.
+La Hacienda Pública Municipal se formará de los rendimientos de los bienes que les pertenezcan así como de las contribuciones y otros ingresos que establezcan las leyes fiscales.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 78.
 
-Las Leyes de Ingresos y los Presupuestos de Ingresos de los Municipios, tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del 1º. De enero y hasta el 31 de diciembre del año que corresponda.
+Las Leyes de Ingresos y Presupuestos de Ingresos establecerán, anualmente los ingresos ordinarios que constituirán la Hacienda Pública Municipal, así como los montos de las cantidades estimadas que se recaudarán en el ejercicio fiscal de que se trate, y regirán del 1º de enero hasta el 31 de diciembre del año que corresponda.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 79.
 
 Los Ayuntamientos deberán someter anualmente, al examen y aprobación del Congreso del Estado, durante la segunda quincena del mes de noviembre de cada año, sus proyectos de Leyes de Ingresos y Presupuestos de Ingresos. De no realizarlo, el Congreso declarará aplicable para el siguiente ejercicio fiscal los que se encuentren en vigor.
 
-Para el ejercicio de los excedentes a los montos autorizados en las Leyes de Ingresos y Presupuestos de Ingresos, se requerirá la autorización previa del Congreso del Estado.
+Para el ejercicio de los excedentes a los montos no autorizados en las Leyes de Ingresos y Presupuestos de Ingresos, se requerirá la autorización previa del Congreso del Estado.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 80.
 
-Los anteproyectos de Leyes de Ingresos y Presupuestos de Ingresos, se deberán de elaborar por los Ayuntamientos con estricto apego a las disposiciones contenidas en las Leyes y Decretos Federales, Estatales y Municipales y en base, además, en los Convenios respectivos.
+Los anteproyectos de Leyes de Ingresos y Presupuestos de Ingresos, se deberán de elaborar por los Ayuntamientos con estricto apego a las disposiciones contenidas en las Leyes y Decretos Federales, Estatales y Municipales y con base, además, en los Convenios respectivos.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 81.
 
-La vigilancia de la Hacienda Pública Municipal compete efectuarla al Ayuntamiento por conducto del Presidente Municipal y del Síndico, en los términos de esta Ley y al Congreso del Estado por medio de la Sección Mayor de Glosa. Cuando el Gobernador del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos podrá nombrar un representante en las visitas de inspección que se realicen.
+La vigilancia de la Hacienda Pública Municipal compete efectuarla al Ayuntamiento por conducto del Presidente Municipal y del Síndico, en los términos de esta Ley y al Congreso del Estado por medio de la Contaduría Mayor de Hacienda. Cuando el Gobernador del Estado sea avalista de empréstitos o créditos concedidos a los Ayuntamientos podrá nombrar un representante en las visitas de inspección que se realicen.
 
-El Gobernador del Estado, en cualquier tiempo solicitará a la Sección Mayor de Glosa del Congreso del Estado, la práctica de visitas de inspección.
+El titular del Poder Ejecutivo del Estado, en cualquier tiempo, podrá solicitar al Congreso del Estado que la Contaduría Mayor de Hacienda practique visitas de inspección.
 
 ### CAPITULO III. DE LOS PRESUPUESTOS DE EGRESOS
 
@@ -951,13 +965,15 @@ El Presupuesto de Egresos además de comprender las erogaciones a que se refiere
 
 La presupuestación del Gasto Público Municipal se sujetará a los objetivos y prioridades que señale el Plan Municipal de Desarrollo y sus programas.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 85.
 
-Los Presupuestos de Egresos regularán el Gasto Público Municipal y se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución, detallando las asignaciones presupuestarias a nivel de partidas y la calendarización de su ejercicio.
+Los Presupuestos de Egresos regularán el gasto público municipal y se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución, detallando las asignaciones presupuestarias a nivel de partidas y la calendarización de su ejecución.
 
-Los Presupuestos de Egresos de los Municipios deberán publicarse, en el Boletín Oficial del Gobierno del Estado, con cargo a las Haciendas Municipales en lo que respecta al costo de la publicación, a más tardar el día 31 de diciembre de cada año.
+Los Presupuestos de Egresos de los Municipios deberán publicarse, en el Boletín Oficial del Gobierno del Estado, con cargo a las Haciendas Municipales en lo que respecta al costo de la publicación, a más tardar el 31 de diciembre de cada año.
 
-Asimismo, las modificaciones al Presupuesto de Egresos que autorice el Ayuntamiento, en los términos de la fracción XXXI del Artículo 37 de esta Ley, deberán publicarse en el Boletín Oficial del Gobierno del Estado, dentro de los quince días siguientes a la fecha del Acuerdo respectivo.
+Asimismo, las modificaciones al Presupuesto de Egresos que autorice el Ayuntamiento, en los términos de la fracción XXXI del artículo 37 de esta Ley, deberán publicarse en el Boletín Oficial del Gobierno del Estado , dentro de los quince días siguientes a la fecha del Acuerdo respectivo.
 
 ###### ARTICULO 86.
 
@@ -997,13 +1013,17 @@ II.- La adquisición de bienes de cualquier tipo, así como la contratación de 
 
 III.- La celebración de actos jurídicos análogos a los anteriores.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 93.
 
-El Congreso del Estado autorizará anualmente en el Presupuesto de Ingresos de los Ayuntamientos los montos de endeudamiento neto, que sean necesarios para el financiamiento de los programas de las dependencias y entidades que integren la Administración Pública Municipal, e incluidas en el Presupuesto de Egresos de los mismos.
+El Congreso del Estado autorizará los montos de endeudamiento neto, que sean necesarios para el financiamiento de los programas del Ayuntamiento.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 94.
 
-Los Ayuntamientos con base en su programa financiero anual, al someter a la Legislatura Local los proyectos de Ley de Ingresos y de Presupuestos de Ingresos, deberán proponer, en su caso, los montos globales de endeudamiento para el financiamiento de su Presupuesto de Egresos, proporcionando los elementos de juicio suficientes para fundar su propuesta.
+Los Ayuntamientos, con base en su programa financiero anual, al someter a la legislatura local la contratación de endeudamiento, deberán proporcionar los elementos de juicio suficientes para fundar su propuesta, buscando que se mantenga un correcto equilibrio financiero.
 
 ###### ARTICULO 95.
 
@@ -1025,13 +1045,43 @@ IV.- Los muebles municipales que por su naturaleza normalmente no sean substitui
 
 V.- Las servidumbres, cuando el predio dominante sea uno de los indicados en este Artículo.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 97.
 
-Los bienes de dominio público municipal son inalienables, e inprescriptibles y no estarán sujetos mientras no varíe su situación jurídica, a acciones reivindicatorias o de posesión definitiva o provisional. Sin embargo, los particulares y las instituciones de derecho público, podrán adquirir sobre éstos, sin que se constituyan derechos reales, su uso, aprovechamiento y explotación, mediante el otorgamiento de las concesiones respectivas.
+Los bienes de dominio público son inalienables e imprescriptibles y no estarán sujetos a acción reivindicatoria o de posesión. Los derechos sobre su uso, aprovechamiento de las concesiones respectivas, las cuales no crean derechos reales sobre los bienes.
+
+Para aprovechamientos especiales, sobre los bienes de uso común, se requerirá de concesión, la cual se otorgará con las condiciones y requisitos que fijen las leyes, los que por ningún motivo desvirtuarán la naturaleza de l bien, en tal forma que los aprovechamientos especiales no hagan nugatorio el uso común.
+
+Los concesionarios deberán cubrir en la Tesorerías Municipales, el monto de los derechos que de acuerdo a la cuota aplicable corresponda, según las disposiciones fiscales relativas.
+
+Las concesiones sobre inmuebles de dominio público podrán otorgarse por el Ayuntamiento hasta por un plazo de diez años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, requiriéndose de la aprobación del Congreso del Estado , cuando el plazo exceda de su período constitucional.
+
+Para el otorgamiento de las concesiones sobre inmuebles de dominio público municipal, así como para su prórroga, se atenderá a:
+
+I.- El monto de la inversión que el concesionario pretende aplicar;
+
+II.- El plazo de amortización de la inversión realizada ;
+
+III.- El beneficio social y económico que signifique para la región o localidad en que se encuentre ubicado el bien:
+
+IV.- La necesidad de la actividad o del servicio que se preste;
+
+V.- El cumplimiento por parte del concesionario de las obligaciones a su cargo; y
+
+VI.- La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+
+Al término del primer plazo de la concesión las obras, instalaciones y los bienes dedicados a la explotación de la misma revertirán en favor del municipio. En caso de prórroga o de otorgamiento de una nueva concesión, para la fijación del monto de los derechos se deberán considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 98.
 
-Las concesiones sobre esta clase de bienes, se otorgará, extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en la misma forma y términos que para dichos actos se señalen en la Ley General de Bienes del Estado en bienes de este tipo.
+Los derechos y obligaciones derivados de las concesiones sobre inmuebles de dominio público, sólo podrán cederse, con la autorización previa y expresa del Ayuntamiento, emitida por conducto del Presidente Municipal, exigiendo al cesionario que reúna los mismo requisitos y condiciones que se tuviere en cuenta para el otorgamiento de la concesión respectiva.
+
+Salvo lo dispuesto en el párrafo anterior, las concesiones sobre inmuebles de dominio público no podrán ser objeto en todo o en parte, de subconcesión, arrendamiento, gravámen o cualquier acto o contrato por virtud del cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones.
+
+Cualquier operación que se realice en contravención del tenor de este artículo, estará afectada de nulidad absoluta y el concesionario perderá a favor del Municipio, los derechos que deriven de la concesión y los bienes afectados a ella.
 
 ###### ARTICULO 99.
 
@@ -1079,15 +1129,19 @@ Los bienes de dominio privado de los Municipios son inembargables e imprescripti
 
 A excepción del Contrato de Comodato para fines particulares, los Ayuntamientos podrán ejecutar sobre los bienes de dominio privado, todos los actos de administración y de dominio que regula el derecho común con las modalidades y cumpliendo los requisitos establecidos en este Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 106.
 
-Los Ayuntamientos podrán enajenar o gravar sus bienes muebles e inmuebles de dominio privado, con la autorización del Congreso del Estado y previa la aprobación del Ejecutivo local, cuando se reúnan los siguientes requisitos:
+Los ayuntamientos podrán enajenar o gravar sus bienes muebles e inmuebles de dominio privado, con la autorización del Congreso del Estado y previa la aprobación del Ejecutivo Local, cuando se reúnan los siguientes requisitos:
 
 I.- Que la necesidad de las enajenaciones responda a la ejecución de un programa, cuyo objetivo sea la satisfacción de suelo urbano para vivienda, atendiendo preferentemente a la población urbana y rural de bajos ingresos; o bien, al impulso o fomento de las actividades productivas o de desarrollo social, cívico, deportivo o cultural de sus comunidades.
 
 II.- Que en la solicitud respectiva se especifique el destino que se proyecte dar al producto que se obtenga con la enajenación o gravamen.
 
-III.- Tratándose de inmuebles, que se anexe un avalúo expedido por el Departamento Fiduciario de una Institución de Crédito, o en si defecto, de no existir éste en el Municipio, la especificación de su valor catastral. Asimismo, deberá acompañarse lo especificado en las Fracciones II y III del Artículo señalado en las fracciones 11 y III del artículo 102 de esta Ley.
+> <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
+III.- Tratándose de inmuebles, que se anexe un avalúo expedido por una Sociedad Nacional de Crédito, o en su defecto, de no existir ésta en el Municipio, la especificación de su valor catastral, asimismo, deberá acompañarse lo señalado en las fracciones II y III del artículo 102 de esta Ley.
 
 IV.- Cuando las enajenaciones de bienes inmuebles requieran la división de éstos en manzanas, lotes y calles, se deberá de cumplir con las normas vigentes en materia de fraccionamientos.
 
@@ -1133,7 +1187,7 @@ IV.- El promedio de sus ingresos, a fin de que se pueda calcular, la posibilidad
 
 V.- Que carece de bienes inmuebles. Si el que tenga interés legítimo demuestra que quien hizo la compra era propietario de bienes inmuebles, se declarará nula la enajenación.
 
-En todos los casos, el valor de los inmuebles que se enajenen a cada particular para satisfacer necesidades de suelo para vivienda, no deberá exceder del valor máximo que para la constitución del patrimonio de familia señala en Artículo 896 del Código Civil del Estado de Sonora.
+> <small>(DEROGADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 112.
 
@@ -1167,9 +1221,11 @@ Cuando se trate de recuperar la poseción (sic) provisional o definitiva o de re
 
 el Código de Procedimientos Civiles del Estado de Sonora. Presentada la demanda, el Juez, a solicitud del Ayuntamiento de que se trate y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervinientes.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 119.
 
-Para todo lo no previsto en este Capítulo, se aplicará en lo conducente la Ley General de Bienes del Estado.
+Las concesiones sobre bienes de dominio público municipal, se otorgarán , extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en al Ley General de Bienes del Estado, en todo lo que resulte aplicable. Asimismo, para todo lo no previsto en este Capítulo, se observará en lo conducente la citada Ley.
 
 ## TITULO QUINTO
 
@@ -1424,3 +1480,11 @@ Dr. Samuel Ocaña G.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 16 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
