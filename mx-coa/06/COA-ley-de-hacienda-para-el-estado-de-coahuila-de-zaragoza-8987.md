@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1998-01-23"
+last_updated: "1998-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -61,6 +61,10 @@ Para la actualización de las cuotas, en ningún caso podrá aplicarse un factor
 
 Cuando esta ley establezca una forma o periodo distinto específicamente para la actualización de alguna contribución, se aplicará ésta, en lugar de lo dispuesto en este artículo.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+
+Las cuotas actualizadas deberán publicarse anualmente en el Periódico Oficial del Gobierno del Estado.
+
 ## TITULO II. DE LOS IMPUESTOS
 
 ### CAPITULO PRIMERO. DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
@@ -71,7 +75,9 @@ OBJETO
 
 Es objeto de este impuesto, los ingresos que se obtengan por la realización o explotación de diversiones y espectáculos públicos, dentro del territorio del Estado.
 
-Por diversión y espectáculo público debe entenderse, toda función de esparcimiento, sea teatral, cinematográfica, deportiva o de cualquier otra naturaleza semejante, que se verifique en teatros, calles, plazas y locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta suma de dinero.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+
+Por diversión y espectáculo público debe entenderse, toda representación, función, acto, evento o exhibición artística, musical, deportiva, taurina, ecuestre, circense, cinematográfica, teatral, cultural, de fiestas o ferias regionales, así como por el uso de juegos mecánicos; que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados y se pague una suma de dinero por el boleto o derecho de entrada o uso del juego.
 
 Para los efectos de este impuesto, no se consideran espectáculos públicos, los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
@@ -127,29 +133,41 @@ Las autoridades fiscales del Estado podrán suspender o clausurar cualquier dive
 
 TASA
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 11.
 
-El Impuesto Sobre Diversiones y Espectáculos Públicos, se calculará y pagará aplicando a los ingresos percibidos las siguientes tasas:
+El Impuesto Sobre Diversiones y Espectáculos Públicos, se calculará y pagará aplicando a la base gravable las siguientes tasas:
 
-I.- Bailes, 6%
+I.- Espectáculos:
 
-II.- Circos, 4%
+a) Circos 4%
 
-III.- Carpas, cualquiera que
+b) Carpas, cualquiera que
 
 sea el espectáculo que
 
-presente, 4%
+presente 4%
 
-IV.- Cinematógrafos, 4%
+c) Cinematógrafos 4%
 
-V.- Deportivos, 6%
+d) Deportivos 6%
 
-VI.- Taurinos y ecuestres, 6%
+e) Taurinos y ecuestres 6%
 
-VII.- Teatrales, 4%
+f) Teatrales 4%
 
-VIII.- Culturales, 6%
+g) Culturales 6%
+
+II.- Diversiones:
+
+a) Ferias y fiestas regionales 6%
+
+b) Bailes 6%
+
+c) Juegos mecánicos 6%
+
+d) Palenques 6%
 
 PAGO
 
@@ -1563,11 +1581,11 @@ La autorización de cambio de titular de una licencia causará derechos a razón
 
 La autorización de cambio de domicilio de una licencia causará derechos a razón del 25% de la tarifa establecida en el artículo 104, según el establecimiento de que se trate.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 109.
 
-Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
+Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Matamoros, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2629,9 +2647,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Para los efectos del artículo 3 de esta ley, la actualización de las contribuciones se efectuará a partir del 1 de enero de 1997.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO QUINTO.
 
-Con el propósito de sufragar los gastos que origina al Estado la modernización del Registro Público de la Propiedad y del Comercio, durante los ejercicios fiscales de 1996 a 1998, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio establecidos en esta ley.
+Con el propósito de sufragar los gastos que origina al Estado la modernización del Registro Público de la Propiedad y del Comercio, durante los ejercicios fiscales de 1996 a 1999, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio establecidos en esta ley.
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
 
@@ -2738,3 +2758,13 @@ P.O. 23 DE ENERO DE 1998.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación el (sic) Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a estas reformas.
+
+P.O. 11 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1o. de enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
