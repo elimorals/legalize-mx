@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1999-04-14"
+last_updated: "1999-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -259,7 +259,9 @@ II.- La multa de tres a cien días de salario mínimo general;
 
 III.- La suspensión hasta por un mes;
 
-IV.- Arresto hasta de quince días.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+IV.- Arresto hasta por treinta y seis horas.
 
 ###### Artículo 36.
 
@@ -275,7 +277,9 @@ I.- La multa de tres a sesenta días de salario mínimo general;
 
 II.- El auxilio de la fuerza pública;
 
-III.- Arresto hasta de quince días.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+III.- Arresto hasta por treinta y seis horas.
 
 Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
 
@@ -561,9 +565,11 @@ Las resoluciones judiciales no se entenderán consentidas, sino cuando notificad
 
 ### CAPITULO VIII. Notificaciones
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### Artículo 90.
 
-Todas las resoluciones deberán ser notificadas al Ministerio Público, al procesado, al querellante en su caso, y al defensor o cualquiera de los defensores, si hubiere varios.
+Todas las resoluciones deberán ser notificadas al Ministerio Público, al procesado, al coadyuvante o su legítimo representante, al defensor o a cualesquiera de los defensores, si hubiere varios. Cuando la resolución sea una sentencia de primera o segunda instancia también se notificará a la víctima o al ofendido.
 
 ###### Artículo 91.
 
@@ -574,6 +580,10 @@ Las notificaciones se harán a más tardar el día siguiente al en que se dicten
 Todas las personas que por algún motivo legal intervengan en un proceso deberán designar, desde la primera diligencia judicial en que intervengan, casa ubicada en el lugar del proceso para que se les hagan las notificaciones, citaciones, requerimientos o emplazamientos que procedieren, e informar de los cambios de domicilio o de la casa designada.
 
 Si no cumplieren con esta prevención, las notificaciones, citaciones, requerimientos o emplazamientos se tendrán por bien hechos, por publicación en lugar visible del tribunal, sin perjuicio de las medidas que éste tome para que pueda llevarse adelante el procedimiento.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+El procesado, al rendir su declaración preparatoria, señalará domicilio ubicado en el lugar en que se encuentre el juzgado de su causa, para que en él reciba notificaciones tanto del trámite de primera como de segunda instancias, en caso de que no quede sujeto a reclusión preventiva. De no señalar domicilio, o de que sea falso el señalado, o no informase del cambio de su domicilio, se estará a lo dispuesto en el segundo párrafo de este artículo.
 
 ###### Artículo 93.
 
@@ -775,39 +785,11 @@ Cualquiera persona que tenga en su poder un instrumento público o privado que s
 
 En todos aquellos delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán, asociadas, las pruebas de inspección judicial y de peritos, sin perjuicio de las demás.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### Artículo 132.
 
-Los elementos del tipo penal que no tengan señalada prueba especial, así como la probable responsabilidad del inculpado, como base del ejercicio de la acción, el Ministerio Público los acreditará con:
-
-I.- La existencia de la correspondiente acción u omisión o, en su caso, el peligro a que ha sido expuesto el bien jurídico protegido;
-
-II.- La forma de intervención de los sujetos activos; y
-
-III.- La realización dolosa o culposa de la acción u omisión.
-
-Asimismo se acreditarán, si el tipo lo requiere:
-
-a). Las calidades del sujeto activo y del pasivo;
-
-b). El resultado y su atribuibilidad a la acción u omisión;
-
-c). El objeto material;
-
-d). Los medios utilizados;
-
-e). Las circunstancias de lugar, tiempo, modo y ocasión;
-
-f). Los elementos normativos;
-
-g). Los elementos subjetivos específicos; y
-
-h). Las demás circunstancias que la ley prevea.
-
-Para resolver sobre la probable responsabilidad del inculpado la autoridad deberá constatar si no existe acreditada en favor de aquél alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
-
-Los elementos del tipo penal de que se trate y la probable responsabilidad se acreditarán por cualquier medio probatorio que señale la ley.
+El cuerpo de los delitos que no tengan señalada prueba especial, se justificará por la comprobación de los elementos objetivos que constituyan la materialidad de la figura delictiva.
 
 ###### Artículo 133.
 
@@ -851,21 +833,15 @@ Siempre que un lesionado internado en un hospital público salga de él, los mé
 
 ### CAPITULO III. Aseguramiento del Inculpado
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### Artículo 142.
 
-Para que el Ministerio Público solicite y el Juez pueda librar orden de aprehensión contra una persona se requiere:
+Para que el Juez pueda librar Orden de Aprehensión contra una persona se requiere:
 
-I.- Que preceda denuncia, acusación o querella;
+I.- Que el Ministerio Público la haya solicitado;
 
-II.- Que se trate de hecho determinado que la Ley señale como delito;
-
-III.- Que ese hecho la Ley lo sancione con pena privativa de libertad;
-
-IV.- Que existan datos que acrediten los elementos que integren el tipo penal; y
-
-V.- Que existan datos que acrediten la probable responsabilidad del indiciado.
+II.- Que se reúnan los requisitos fijados por el artículo 16 de la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1994)</small>
 
@@ -993,9 +969,15 @@ Al ser aprehendido un empleado, funcionario público o militar, se comunicará l
 
 Cuando deba aprehenderse a un empleado oficial o a un particular, que en ese momento esté trabajando en un servicio público, se procurará que éste no se interrumpa, tomándose las providencias necesarias a fin de que el inculpado no se fugue entretanto se obtiene su relevo.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### Artículo 152.
 
-Cuando el delito imputado merezca pena no corporal o pena alternativa y exista la posibilidad de que se dificulte la averiguación con la ausencia del inculpado, a pedimento del Ministerio Público, el tribunal podrá ordenarle que no abandone sin su permiso el lugar en que se siga el procedimiento.
+La autoridad judicial podrá, a petición del agente del Ministerio Público, decretar el arraigo domiciliario o imponer la prohibición de abandonar una demarcación geográfica sin su autorización, a la persona en contra de quien se prepare el ejercicio de la acción penal, siempre y cuando exista el riesgo fundado de que se sustraiga a la acción de la justicia. Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato de la autoridad judicial sea debidamente cumplido, pudiendo hacer uso de los dispositivos y/o artefactos que la tecnología más avanzada haya inventado para ese efecto. La determinación de la autoridad judicial se notificará al afectado.
+
+El arraigo domiciliario podrá decretarse hasta por un máximo de treinta días calendario, y la prohibición de abandonar una determinada demarcación geográfica no podrá exceder de sesenta días calendario.
+
+Cuando el afectado pida que el arraigo o la prohibición de abandonar una demarcación geográfica queden sin efecto, la autoridad judicial decidirá, escuchando al Ministerio Público y al afectado, si deben o no mantenerse.
 
 ###### Artículo 153.
 
@@ -1295,6 +1277,10 @@ Si por las revelaciones hechas en las primeras diligencias, en la querella, o po
 
 Durante la instrucción, el juez no podrá dejar de examinar a los testigos presentes cuya declaración soliciten las partes. También deberá examinar a los testigos ausentes, en la forma prevenida por este Código, sin que esto demore la marcha de la instrucción o impida al juez darla por terminada, cuando haya reunido los elementos necesarios.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+Tratándose de los testigos del Ministerio Público corresponde a éste la obligación de presentarlos personalmente ante el juez o tribunal.
+
 ###### Artículo 212.
 
 Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda dar alguna luz para la averiguación del delito y se estime necesario su examen. El valor probatorio de su testimonio se aquilatará en la sentencia.
@@ -1325,7 +1311,9 @@ II.- El nombre, apellido y habitación del testigo, si se supieren; en caso cont
 
 III.- El día, hora y lugar en que deba comparecer;
 
-IV.- La sanción que se le impondrá si no compareciere;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+IV.- Su obligación de comparecer, así como el delito en que incurrirá y la sanción que se le impondrá en caso de que no lo haga; y
 
 V.- La firma del funcionario que haya ordenado la diligencia.
 
@@ -1378,6 +1366,10 @@ Antes de que los testigos comiencen a declarar, el juez los instruirá de las sa
 ###### Artículo 227.
 
 Después de tomada la protesta, se preguntará a cada testigo su nombre, apellido, edad, nacionalidad, vecindad, habitación, estado, profesión o ejercicio; si se halla ligado con el acusado o con el querellante por vínculo de parentesco, amistad o cualquier otro, y si tiene motivo de odio o de rencor contra alguno de ellos.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+El Juez o tribunal deberá cerciorarse de la veracidad de las respuestas del testigo con relación a lo dispuesto en el párrafo anterior, específicamente por cuanto corresponda a su nombre, edad y domicilio, exigiendo a éste la respectiva acreditación, mediante la exhibición de su credencial para votar con fotografía o de un documento fidedigno; credencial o documento del cual se tomará debida nota en el expediente. Lo mismo hará el Ministerio Público con relación a los testigos que ante él declaren en averiguación previa.
 
 ###### Artículo 228.
 
@@ -1671,6 +1663,10 @@ IV.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre
 
 V.- Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio judicial no se reputará fuerza.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+Carecerá de valor jurídico alguno la declaración del testigo, si en los autos no quedó debidamente acreditada su identidad en la forma que se previene en el segundo párrafo del artículo 227.
+
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 280.
@@ -1919,6 +1915,10 @@ A todo inculpado se le oirá en defensa por sí o por la persona o personas de s
 
 Los defensores al aceptar su nombramiento protestarán desempeñar fielmente su encargo, menos los de oficio. Por el hecho de no comparecer los defensores a otorgar la protesta, después de la notificación que se les hiciere, fijándoles día y hora, se entenderá que renuncian la defensa, y el juez solicitará al inculpado el nombramiento de otro defensor, y si no lo nombrare, designará al de oficio. En su declaración preparatoria, el inculpado estará asistido de defensor, ya sea del que nombrare o del de oficio.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+El Defensor, sea particular o de oficio, está obligado a ejercer su función, tanto en los trámites de primera como de segunda instancias, salvo que le sea revocado el nombramiento por el inculpado.
+
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 318 Bis.
@@ -1927,9 +1927,15 @@ Durante la instrucción, el juez que conozca del proceso deberá observar las ci
 
 ### CAPITULO II. Autos de Formal Prisión, de Sujeción a proceso y de Libertad por Falta de Méritos
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### Artículo 319.
 
-El auto de formal prisión deberá dictarse dentro de setenta y dos horas, contadas desde que el inculpado esté a disposición del juez.
+El Auto de Formal Prisión deberá dictarse dentro de setenta y dos horas, contadas a partir del que el indiciado sea puesto a disposición del Juez. Este término se duplicará cuando lo solicite el inculpado, por sí o por su defensor, al rendir su declaración preparatoria, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el Juez resuelva su situación jurídica.
+
+El Ministerio Público no podrá solicitar dicha ampliación, ni el Juez resolverla de oficio. El Ministerio Público en ese plazo solo puede, en relación con las pruebas o alegatos que propusiera el inculpado o su defensor hacer las promociones correspondientes al interés social que representa.
+
+La ampliación del plazo se deberá notificar al director del reclusorio preventivo en donde, en su caso, se encuentre internado el inculpado, para los efectos a que se refiere la última parte del segundo párrafo del artículo 19 Constitucional.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
 
@@ -1939,7 +1945,9 @@ Todo auto de formal prisión deberá reunir los siguientes requisitos:
 
 I.- Que se le haya tomado la declaración preparatoria al inculpado en los términos de Ley, o bien conste en el expediente que se negó a emitirla;
 
-II.- Que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito por el cual deba seguirse el proceso;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+II.- Que de lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito de la figura delictiva por la cual deba seguirse el proceso;
 
 III.- Que el delito sea sancionado con pena privativa de libertad;
 
@@ -2131,11 +2139,11 @@ El Ministerio Público, al formular sus conclusiones, hará una exposición suci
 
 Las conclusiones del Ministerio Público se presentarán por escrito con el visto bueno del Procurador General de Justicia y podrán ser sostenidas verbalmente en la audiencia principal.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### Artículo 348.
 
-Las conclusiones de la defensa no se sujetarán a ninguna regla especial. Si aquélla no formula conclusiones en el término que establece el artículo 345, se tendrán por formuladas las de inculpabilidad y se impondrá al o a los defensores multa de cien días de salario mínimo general, salvo que el acusado se defienda por sí mismo.
+Las conclusiones de la defensa no se sujetarán a ninguna regla especial. Si aquélla no formula conclusiones en el término que establece el artículo 345, se tendrán por formuladas las de no culpabilidad y se impondrá al o a los defensores multa de hasta 100 días de salario mínimo general diario vigente en el Estado, salvo que el acusado se defendiera por sí mismo.
 
 ###### Artículo 349.
 
@@ -2217,6 +2225,10 @@ El recurso de apelación tiene por objeto examinar si en la resolución recurrid
 
 La segunda instancia solamente se abrirá a petición de parte legítima, para resolver sobre los agravios que deberá expresar el apelante al interponer el recurso o en la vista; pero el tribunal de alzada podrá suplir la deficiencia de ellos, cuando el recurrente sea el procesado o su defensor.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+La omisión de expresión de agravios por parte del defensor, del agente del Ministerio Público o del ofendido o sus representantes legítimos, se sancionará con multa hasta de 100 días de salario mínimo general diario vigente en el Estado al momento de la interposición del recurso.
+
 ###### Artículo 365.
 
 La apelación podrá interponerse verbalmente en el acto de la notificación o por escrito, dentro de tres días después de notificada la resolución, excepto en los casos en que este Código disponga expresamente otra cosa.
@@ -2229,7 +2241,13 @@ I.- El Ministerio Público;
 
 II.- El acusado y su defensor;
 
-III.- El ofendido o sus legítimos representantes, cuando aquél o éstos coadyuven en la acción reparadora y sólo en lo relativo a ésta.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+III.- La víctima o el ofendido, o sus legítimos representantes, cuando aquéllos o éstos tengan el carácter de coadyuvantes en la acción reparadora y sólo en lo relativo a ésta; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+IV.- La víctima o el ofendido, tratándose de la sentencia definitiva y sólo con respecto de la acción reparadora aunque no tengan reconocido en el proceso el carácter de coadyuvantes. La víctima o el ofendido deberán acreditar debidamente su personalidad ante el Juez o Tribunal de la Causa.
 
 ###### Artículo 367.
 
@@ -2997,21 +3015,31 @@ La caución podrá consistir:
 
 I.- En depósito en efectivo, hecho por el inculpado o por terceras personas, en la Tesorería General del Estado o en su Delegación respectiva. El certificado que en estos casos expida, se depositará en la caja de valores del tribunal o juzgado, tomándose razón de ello en autos. Cuando, por motivo de la hora o por ser día feriado, no pueda constituirse el depósito directamente en las dependencias mencionadas, el juez recibirá la cantidad exhibida y la mandará depositar en las mismas el primer día hábil;
 
-II.- En caución hipotecaria, otorgada por el inculpado o por terceras personas, sobre inmuebles que no tengan gravamen alguno y cuyo valor catastral sea, cuando menos, de tres veces el monto de la suma fijada;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
 
-III.- En fianza personal bastante, que podrá constituirse en el expediente.
+II.- En caución hipotecaria, otorgada por el inculpado o por terceras personas, sobre inmuebles que no tengan gravamen alguno, cuyo valor fiscal no sea menor que el monto de la caución, más la cantidad necesaria para cubrir los gastos destinados a hacer efectiva la garantía;
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
+III.- En fianza personal bastante, que podrá constituirse en el expediente;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+IV.- En fideicomiso de garantía formalmente otorgada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### Artículo 498.
 
-Cuando la fianza personal exceda de cien días de salario mínimo general diario vigente en la entidad, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad de la jurisdicción del juez o tribunal, cuyo valor sea cuando menos tres veces mayor que el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
+Cuando la fianza personal exceda de cien días de salario mínimo general diario vigente en la entidad, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad de la jurisdicción del juez o tribunal, cuyo valor no sea menor que el monto de la caución, más la cantidad necesaria para cubrir los gastos destinados a hacer efectiva la garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1993)</small>
 
 Cuando la fianza no exceda de los mencionados cien días de salario mínimo, no será necesario observar lo dispuesto en el párrafo anterior, quedando a juicio del tribunal o juez y bajo su responsabilidad, la apreciación de la solvencia del fiador.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### Artículo 499.
 
-Si la garantía consistiera en hipoteca, o en fianza personal, se presentará certificado de libertad de gravamen en los bienes que se afectarán, expedido por el encargado del Registro Público de la Propiedad, que comprenda un término de diez años.
+Si la garantía consistiera en hipoteca, o en fianza personal, se presentará certificado de libertad de gravamen en los bienes que se afectarán, expedido por el encargado del Registro Público de la Propiedad, que comprenda un término de diez años; y constancia de estar al corriente en el pago de las contribuciones, para que el juez califique la solvencia.
 
 ###### Artículo 500.
 
@@ -3085,9 +3113,13 @@ II.- Cuando se dicte al indiciado auto de libertad o de extinción de la acción
 
 Cuando resulte condenado el acusado que se encuentre en libertad bajo caución y se presente a cumplir su condena, las cauciones para garantizar la reparación del daño y las sanciones pecuniarias se harán efectivas, la primera a favor de la víctima u ofendido por el delito y la segunda a favor del Estado. La otorgada para garantizar las obligaciones derivadas del proceso se devolverán al sentenciado o a quien indique éste, o en su caso, se cancelarán.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### Artículo 508.
 
-Cuando un tercero haya constituido depósito, fianza o hipoteca, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiere desde luego presentar al inculpado, el juez o tribunal podrá otorgarle un plazo hasta de quince días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estimare oportuno. Si concluido el plazo concedido al fiador no se obtiene la comparecencia del inculpado, se hará efectiva la garantía en los términos del artículo 505, de este Código, y se ordenará la reaprehensión del mismo.
+Cuando un tercero haya constituido depósito, fianza, hipoteca o fideicomiso, para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél.
+
+Si no pudiere desde luego presentar al inculpado, el juez o tribunal podrá otorgarle un plazo hasta de quince días para que lo haga, sin perjuicio de librar orden de aprehensión si lo estimare oportuno. Si concluido el plazo concedido al fiador no se obtiene la comparecencia del inculpado, se hará efectiva la garantía en los términos del artículo 505, de este Código, y se ordenará la reaprehensión del mismo.
 
 ###### Artículo 509.
 
@@ -3308,3 +3340,9 @@ P.O. 14 DE ABRIL DE 1999.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE JUNIO DE 1999.
+
+Primero.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
