@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-3949"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-26"
-last_updated: "1981-12-26"
+last_updated: "1982-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1981.
 
@@ -128,6 +128,10 @@ El Ejecutivo del Estado por acuerdo del Congreso y por conducto de la Tesorería
 ###### ARTICULO 16.
 
 Sólo mediante Ley podrá afectarse un ingreso estatal a un fin especial.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 16 BIS.- Son autoridades Fiscales del Estado, el Titular del Poder Ejecutivo; el Tesorero General del Estado, el Director de Ingresos; los Receptores de Rentas, así como el Director de Catastro dependientes de la propia Tesorería General del Estado.
 
 ###### ARTICULO 17.
 
@@ -239,9 +243,11 @@ III.- Si se trata de sucursales o agencias, de negociaciones establecidas fuera 
 
 IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, que realicen actividades gravadas dentro del territorio del mismo a través de representantes, se considerará como su domicilio el del representante.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 25.
 
-Están exentos de impuestos, salvo lo que las leyes especiales determinen:
+Estarán exentos de Impuestos, salvo lo que las Leyes especiales señalen expresamente:
 
 I.- La Federación y los Municipios, a menos que su actividad no corresponda a sus funciones de derecho público en caso de reciprocidad;
 
@@ -249,13 +255,11 @@ II.- Las nacionales extranjeras, en caso de reciprocidad;
 
 III.- Las instituciones y asociaciones de beneficencia privada;
 
-IV.- Las Sociedades Cooperativas, de acuerdo con las leyes respectivas;
+IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1982)
 
-V.- La trasmisión de vivienda de interés social, efectuada a través de organismos federales, estatales y municipales, (ISSSTE, INDECO, INFONAVIT, etc.);
+V.- La trasmisión de Vivienda de interés social, efectuada a través de Organismos Federales, Estatales y Municipales, (ISSSTE, INFONAVIT, etc.);
 
-Para gozar de la exención a que se refiere el párrafo anterior, será requisito indispensable que el interesado compruebe ante la Tesorería General del Estado, que no es propietario de ningún otro inmueble.
-
-VI.- Los demás sujetos que de modo general señale la Ley.
+Para gozar de la exención a que se refiere el párrafo anterior será requisito indispensable que el interesado compruebe ante la Tesorería General del Estado, que no es propietario de ningún otro inmueble.
 
 ### CAPITULO II
 
@@ -280,6 +284,10 @@ III.- Cancelación;
 IV.- Condonación, y
 
 V.- Prescripción.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+V (sic).- Subrrogación (sic).
 
 ###### ARTICULO 28.
 
@@ -337,15 +345,19 @@ I.- Los gastos de ejecución;
 
 II.- Los recargos y las multas, y
 
-III.- Los impuestos, derechos, productos, contribuciones de mejoras y aprovechamientos distintos de los señalados en la fracción anterior.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+III.- Los impuestos, derechos, productos, contribuciones de mejoras, aprovechamientos o cualquier otro crédito fiscal insoluto.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 35.
 
-Podrá hacerse el pago de créditos fiscales, ``bajo protesta'' cuando la persona que los haga se proponga intentar recursos o medios de defensa. El pago así efectuado extingue el crédito fiscal y no implica consentimiento con la disposición o resolución a la que se dé cumplimiento.
+Podrá hacerse el pago de créditos fiscales, "bajo protesta" cuando la persona que los haga se proponga intentar recursos o medios de defensa. El pago así efectuado extingue el crédito fiscal y no implica consentimiento con la disposición o resolución a la que se dé cumplimiento.
 
-Los funcionarios o empleados fiscales, a solicitud del interesado en el momento de hacer el pago deberán hacer constar que este se efectúa bajo protesta. A falta de esta constancia bastará que el interesado, previa o simultaneamente al pago, exprese por escrito a la oficina Receptora o a la Tesorería General del Estado.
+La protesta quedará sin efecto y el pago se considerará definitivo si a los cinco días de efectuado este, no se promueve recurso alguno o el interesado o su representante legal no lo manifestaren por escrito ante la oficina recaudadora correspondiente, o directamente ante la Tesorería General del Estado.
 
-La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan los recursos o medios de defensa, o fueran rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
+También quedará sin efecto la protesta cuando iniciado el medio de defensa, éste fuera a juicio de la autoridad competente rechazado, sobreseido o declarado improcedente en cuyos casos el pago quedará firme.
 
 ###### ARTICULO 36.
 
@@ -373,9 +385,15 @@ II.- Que el derecho para reclamar la devolución no se haya extinguido, y
 
 III.- Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores, exista partida que reporte la erogación en el presupuesto de Egresos del Estado, y saldo disponible. Si no existiera dicha partida o fuere insuficiente, el Ejecutivo del Estado promoverá que se autorice el gasto en el Presupuesto.
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+IV.- Que lo solicite el interesado por escrito.
+
 Cuando se pida la devolución ésta deberá efectuarse dentro del plazo de 90 días siguientes a la fecha en que quede reconocido el derecho del peticionario.
 
-Si no se efectúa la devolución dentro de dicho plazo, el fisco estatal deberá pagar intereses del 9% anuel (sic), computados desde que se contsituyó (sic) en mora, hasta la fecha en que devuelva la cantidad respectiva.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+Si no se efectúa la devolución dentro de dicho plazo, el fisco estatal deberá pagar intereses del 9% anual, computado desde que se constituyó en mora, hasta la fecha en que se devuelva la cantidad respectiva.
 
 ###### ARTICULO 39.
 
@@ -389,17 +407,21 @@ Cuando el crédito y la deuda no provengan de la aplicación de la misma ley, la
 
 La compensación será declarada por la Tesorería General del Estado a petición del interesado. Las autoridades fiscales, si llegaren a tener conocimiento de que se han satisfecho los requisitos para la compensación podrán declararla de oficio.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 41.
 
-El Ejecutivo Estatal, previa autorización del Congreso Local, y mediante disposiciones de carácter general, podrá condonar o en su caso eximir total o parcialmente los créditos fiscales cuando se afecte gravemente la situación de alguna región del Estado o de alguna rama de las actividades económicas.
+El Ejecutivo Estatal, y mediante disposiciones de carácter general, podrá condonar o en su caso eximir total o parcialmente los créditos fiscales cuando se afecte gravemente la situación de alguna región del Estado o de alguna rama de las actividades económicas.
 
 Las disposiciones que al respecto se dicten determinarán los créditos que se condonen, o en su caso se eximan, el importe o proporción de los beneficios, los sujetos que gozarán de los mismos, la región o la rama de actividad en las que producirán sus efectos, los requisitos que deben satisfacerse y el período al que se apliquen.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 42.
 
-Las multas cuya imposición hubiere quedado firme, deberán ser condonadas totalmente si, por pruebas diversas de las presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuye no es la responsable.
+Las multas cuya imposición hubiere quedado firme, deberán ser condonadas totalmente si, por pruebas diversas de las presentadas ante autoridades administrativas o jurisdiccionales, en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuya no es la responsable.
 
-Las multas por infracción a las disposiciones fiscales podrán ser condonadas parcialmente por la Tesorería General del Estado, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
+Las multas por infracción a las disposiciones fiscales podrán, ser condonadas parcial o totalmente por el Tesorero General del Estado, o por el Director de Ingresos, quienes apreciarán discrecionalmente los motivos que tuvo la Autoridad que impuso la sanción y las demás circunstancias del caso.
 
 ###### ARTICULO 43.
 
@@ -457,9 +479,11 @@ X.- La Tesorería General del Estado se abstendrá de imponer sanciones, cuando 
 
 XI.- La Tesorería General del Estado dejará de imponer sanciones cuando se haya incurrido en infracción por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de la mencionada Tesorería.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 49.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos de una prestación fiscal; y a cada uno corresponderá la sanción que en cada caso se señala;
+Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo aquellas que lo hagan fuera de los plazos establecidos; en cuyo caso a cada uno corresponderá la sanción que se señala; cuando suceda alguno de los supuestos siguientes:
 
 I. No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el Registro o Registros de Causantes todas las actividades por las que sea contribuyente habitual, o no citar su número de registro de las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualesquiera oficinas o autoridades, multa de : $100.00 a $10,000.00;
 
@@ -489,7 +513,9 @@ XIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias
 
 XIV.- Declarar ingresos menores de los percibidos, ocultar u omitir bienes o existencias que deben figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan, multa de $100.00 a $10,000.00;
 
-XV.- No pagar en forma total o parcial, los impuestos, derechos o contribuciones de mejoras dentro de los plazos señalados por las leyes fiscales, multa de $ 25.00 a $ 1,000.00;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+XV.- No pagar en forma total o parcial los impuestos, derechos o contribuiciones (sic) de mejoras dentro de los plazos señalados por las leyes fiscales, multa de $ 50.00 a $ 3,000.00;
 
 XVI.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras, multa de $100.00 a $10,000.00;
 
@@ -499,13 +525,19 @@ XVIII.- Resistirse por cualquier medio, a las visitas de inspección; no suminis
 
 XIX.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, al estarse practicando visitas domiciliarias, multa de $50.00 a $5,000.00;
 
-XX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $10.00 a $1,000,00.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+XX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, multa de $100.00 a $1,000.00.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 50.
 
-Son infracciones cuya responsabilidad corresponde a los jueces; encargados de los Registros Públicos; Notarios; Corredores y en general a los funcionarios que llevan la fe pública, de conformidad con lo siguiente:
+Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los Registros Públicos; Notarios; Corredores y en general a los funcionarios que llevan la fe pública, de conformidad con lo siguiente:
 
-I.- No hacer cotización de las escrituras, minutas o cualesquiera contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales, multa de $100.00 a $10,000.00;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+I.- No hacer cotización de las escrituras, minutas o cualesquiera contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales multa de $1,000.00 a $10,000.00;
 
 II.- Autorizar o consignar documentos, contratos, escrituras o minutas en donde no se haya cumplido con las leyes fiscales; no poner en las escrituras o minutas las notas de ``no pasó'' en los casos en que deban ponerse por no estar de acuerdo con las leyes fiscales respectivas, multa de $100.00 a $10,000.00;
 
@@ -714,6 +746,10 @@ Para los fines del Artículo que antecede se tomará en cuenta el monto del impu
 ###### ARTICULO 66.
 
 Comete el delito de rompimiento de sellos en materia fiscal quien, sin autorización legal, altere o destruya los sellos o marcas oficiales colocados con finalidad fiscal, o impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 66 BIS.- En todo lo no previsto en el presente Código serán aplicables las reglas consignadas en el Código Penal del Estado que será de aplicación supletoria.
 
 ###### ARTICULO 67.
 
@@ -1245,13 +1281,15 @@ Salvo los casos que este Código autoriza, toda venta se hará en subasta públi
 
 La Tesorería General del Estado, con el objeto de obtener un mayor rendimiento, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 122.
 
-Las autoridades municipales y las no fiscales del Estado, en ningún caso podrán sacar a remate bienes embargados por las Receptorías de Rentas del Estado.
+Las autoridades municipales y las no fiscales del Estado, en ningún caso podrán sacar a remate bienes embargados por la Tesorería General del Estado; lo mismo sucederá cuando dichos bienes hayan sido decomisados o detenidos por autoridades administrativas o policiales por la comision de una falta o delito que las leyes respectivas sancionen.
 
-Los remates que se celebren en contravención a lo dispuesto en el párrafo anterior serán nulos y las adjudicaciones que se hagan como consecuencia de ellos carecerán de todo valor y eficiencia jurídica.
+Los remates que se celebren en contravención a lo dispuesto en el párrafo anterior serán nulos de plano y las adjudicaciones que se hagan como consecuencia de ello carecerán de todo valor y eficiencia jurídica.
 
-Sin embargo, las autoridades municipales y las no fiscales del Estado, podrán secuestrar el remanente que llegado el caso resulte del remate administrativo para los efectos del Artículo 142, salvo que se garantice el interés fiscal a satisfacción de la Tesorería General del Estado.
+Sin embargo, las autoridades municipales y las no fiscales del Estado, que tengan intereses sobre los bienes embargados podrán secuestrar el remanente que llegado el caso resulte del remate administrativo, observando los dispuesto por el artículo 142 de este Código.
 
 ###### ARTICULO 123.
 
@@ -1491,27 +1529,39 @@ II.- En los casos en que las notificaciones se hicieren en contravención a las 
 
 La declaratoria de nulidad de notificaciones, traerá, como consecuencia la de las actuaciones posteriores a la notificación anulada y que tengan relación con ellas.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 154.
 
 La tramitación del recurso administrativo establecido en este Código, se sujetará a las normas siguientes:
 
-I.- Se interpondrá por el recurrente mediante escrito que presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos la notificación, la autoridad encargada de resolver el recurso lo prevendrá para que en término de cinco días exhiba dicha copia, apercibido de que de no hacerlo el recurso será desechado.
+I.- Se interpondrá por el recurrente mediante escrito que presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos la notificación.
+
+II.- El escrito que al efecto se presente podrá ser directamente ante la Tesorería o ante la oficina recaudadora que dictó el acto impugnado y deberá contener:
+
+a).- El nombre del actor y el domicilio que señale para recibir notificaciones.
+
+b).- Original o copia autorizada de la resolución o acto impugnado, nombre y domicilio de la autoridad.
+
+c).- Los hechos y fundamentos de derechos en que se apoya el recurso.
+
+d).- Se acompañarán copias del escrito para cada una de las partes y autoridades recurridas.
 
 Si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina de correos o a la autoridad que efectuó la notificación.
 
-II.- En los recursos administrativos no será admisible la prueba de confesión de las autoridades. Si dentro del trámite que haya dado origen a la resolución recurrida, el interesado tuvo oportunidad razonable de rendir pruebas, solo se admitirán en el recurso las que se hubiere allegado en tal oportunidad.
+III.- En los recursos administrativos no será admisible la prueba de confesión de las autoridades. Si dentro del trámite que haya dado origen a la resolución recurrida, el interesado tuvo oportunidad razonable de rendir pruebas, solo se admitirán en el recurso las que se hubiere allegado en tal oportunidad.
 
-III.- Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos controvertidos; sin el cumplimiento de este requisito serán desechadas de plano.
+IV.- Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos controvertidos; sin el cumplimiento de este requisito serán desechadas de plano.
 
-IV.- Se tendrán por no ofrecidas las pruebas de documentos si estos no se acompañan al escrito en que se interponga el recurso y en ningún caso, ni de oficio ni a petición de parte, serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado la resolución combatida.
+V.- Se tendrán por no ofrecidas las pruebas de documentos si estos no se acompañan al escrito en que se interponga el recurso y en ningún caso, ni de oficio ni a petición de parte, serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado la resolución combatida.
 
-V.- La autoridad fiscal ante la cual se haya interpuesto el recurso, deberá remitirlo dentro de los cinco días siguientes a su recepción, a la Tesorería General del Estado, junto con un informe justificado y el expediente de donde se derivó el acto impugnado.
+VI.- La autoridad fiscal ante la cual se haya interpuesto el recurso, deberá remitirlo dentro de los cinco días siguientes a su recepción, a la Tesorería General del Estado junto con un informe justificado y el expediente de donde se derivó el acto impugnado.
 
-VI.- La Tesorería General del Estado podrá pedir que se le rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado.
+VII.- La Tesorería General del Estado, podrá pedir que se le rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado.
 
-VII.- La Tesorería General del Estado, acordará lo que proceda sobre su admisión y la de las pruebas que el recurrente hubiere ofrecido, que fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas; ordenando su desahogo dentro del improrrogable plazo de quince días.
+VIII.- La Tesorería General del Estado, acordará lo que proceda sobre su admisión y la de las pruebas que el recurrente hubiere ofrecido, que fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas; ordenando su desahogo dentro del improrrogable plazo de quince días.
 
-VIII.- Vencido el plazo para la rendición de las pruebas, la Tesorería General dictará resolución en término que no excederá de treinta días.
+IX.- Vencido el plazo para la rendición de las pruebas, la Tesorería General dictará resolución en término que no excederá de treinta días.
 
 ### CAPITULO VII. DE LOS PROCEDIMIENTOS RELACIONADOS CON LA
 
@@ -1552,3 +1602,9 @@ Dado en el Recinto del Poder Legislativo a los veintitrés días del mes de Dici
 Por tanto mando se imprima, publique, circule y observe.
 
 PALACIO DE GOBIERNO, Colima, Colima, a los 24 días del mes de diciembre de 1981.- la Gobernadora Constitucional del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE DICIEMBRE DE 1982.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir del día primero de Enero de mil novecientos ochenta y tres.
