@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1999-12-31"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -135,7 +135,9 @@ Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disp
 
 En el caso de contribuciones que se deben pagar mediante retención, aún cuando quien deba efectuarla no la retenga, estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
-Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Finanzas y Tesorería General del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, el recibo oficial en la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Finanzas y Tesorería General del Estado, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora o en su caso, el señalamiento de que se realizó el pago mediante transferencia electrónica de fondos, de acuerdo a las reglas generales que emita dicha Secretaría.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -219,7 +221,9 @@ Las autoridades fiscales para la práctica de visitas domiciliarias, del procedi
 
 Se entiende enajenación de bienes:
 
-I.- Toda transmisión de propiedad, aún en la que el enajenante se reserva el dominio del bien enajenado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+I.- Toda transmisión de propiedad, aún en la que el enajenante se reserva el dominio del bien enajenado, con excepción de los actos de fusión y escisión a que se refiere el artículo 15 bis.
 
 II.- Las adjudicaciones, aún cuando se realicen a favor del acreedor.
 
@@ -246,6 +250,32 @@ Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcia
 Se considera que la enajenación se efectúa en el Estado, entre otros casos, si el bien se encuentra en su territorio al efectuarse el envío al adquirente o cuando no habiendo envío, en el Estado se realiza la entrega material del bien por el enajenante.
 
 Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 15 Bis.
+
+Se entiende que no hay enajenación en los siguientes casos:
+
+I.- En escisión, siempre que se cumpla con los requisitos siguientes:
+
+A).- Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un periodo de dos años contado a partir del año inmediato anterior a la fecha en que se realice la escisión.
+
+Para determinar el porcentaje del 51% se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del periodo, excluyendo las que se consideran colocadas entre el gran público inversionista y que hayan sido enajenadas a través de bolsa de valores autorizada o mercados reconocidos. No se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la Legislación Mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
+
+B).- Que cuando desaparezca una sociedad con motivo de escisión, la sociedad escindente designe a la sociedad que asuma la obligación de registrarse en los padrones de la Secretaría de Finanzas y Tesorería General del Estado.
+
+Cuando no se cumpla con el requisito a que se refiere el inciso B) que antecede, los fedatarios públicos, dentro del mes siguiente a la fecha de autorización de la escritura correspondiente, deberán informar de esta circunstancia a la Secretaría de Finanzas y Tesorería General del Estado. En estos casos, la autoridad podrá exigir el registro correspondiente a cualquiera de las sociedades escindidas.
+
+No se incumple con el requisito de permanencia accionaria previsto en esta fracción, cuando la transmisión de propiedad de acciones sea por causa de muerte, liquidación, adjudicación judicial o donación.
+
+II.- En fusión, siempre que la sociedad que subsista o la que surja con motivo de la fusión, se encuentre al corriente en el pago de los impuestos estatales en el ejercicio que terminó por fusión.
+
+III.- En las operaciones de préstamos de títulos o valores por la entrega de los bienes prestados al prestatario y por la restitución de los mismos al prestamista, siempre que efectivamente se restituyan los bienes a más tardar al vencimiento de la operación.
+
+En los casos de fusión o escisión de sociedades, cuando la sociedad escindente desaparezca, la sociedad que subsista, la que surja con motivo de la fusión o la escindida que se designe, deberá encontrarse al corriente en el pago de los impuestos estatales en el ejercicio que terminó por fusión o escisión, o en su defecto enterar los impuestos correspondientes o, en su caso, solicitar por la empresa que desaparezca la devolución de los saldos a favor de esta última que resulten.
+
+En los pagos a que se refieren la fracción II y el párrafo anterior, correspondiente a la fusionada o a la escindente que desaparezcan, se deberán considerar todos los ingresos acumulables y las deducciones autorizadas, el importe total de los actos o actividades gravados y exentos y de los acreditamientos, el valor de todos sus activos o deudas, según corresponda, que la misma tuvo desde el inicio del ejercicio y hasta el día de su desaparición. En este caso, se considerará como fecha de terminación del ejercicio aquélla que corresponda a la fusión o escisión.
 
 ###### ARTICULO 16.
 
@@ -1193,9 +1223,9 @@ III.- De 1 a 3 tantos de los derechos a cubrir, a la comprendida en la fracción
 
 Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, o con la expedición de constancias incompletas o con errores:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-I.- No presentar declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir requerimiento de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción o cumplirlos fuera de los plazos señalados en los mismos.
+I.- No presentar declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos que exigen las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales o presentarlos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales. No cumplir requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción o cumplirlos fuera de los plazos señalados en los mismos.
 
 II.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales.
 
@@ -1203,9 +1233,9 @@ II.- No pagar contribuciones dentro del plazo que establecen las disposiciones f
 
 III.- Incumplir las disposiciones fiscales relativas a la obligación de terceros de cerciorarse del pago de contribuciones o del cumplimiento de las diversas obligaciones por parte de los contribuyentes.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-IV.- Utilizar las placas autorizadas o emitidas por la Secretaría de Finanzas y Tesorería General del Estado, para amparar la circulación de vehículos distintos a los que realmente correspondan.
+IV.- Utilizar las placas autorizadas o emitidas por la Secretaría de Finanzas y Tesorería General del Estado, para amparar la circulación de vehículos distintos a los que realmente correspondan. Comete la misma infracción quien facilite las placas que le fueron expedidas legalmente, para que un tercero las utilice en un vehículo que no corresponda.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1237,6 +1267,10 @@ C).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de 
 
 3.- De 20.5 cuotas para el tercer requerimiento.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+D).- Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 3 a 30 cuotas.
+
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 1.5 cuotas o hasta el 100% de las contribuciones no pagadas.
@@ -1245,9 +1279,11 @@ II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 
 
 III.- Para la señalada en la fracción III, del 50% al 100% de las contribuciones omitidas, por cada una de ellas.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-IV.- De 50 a 500 cuotas, tratándose de la infracción señalada en la fracción IV del artículo anterior.
+IV.- De 50 a 500 cuotas, tratándose de la infracción señalada en la fracción IV del artículo anterior y se recogerán las placas correspondientes.
+
+La sanción prevista en este párrafo se aumentará en un 50% en caso de que el infractor sea servidor público al servicio de la Federación, del Estado o del Municipio y en un 100% en caso de que se trate de un vehículo que no acredite su legal estancia en el país.
 
 ###### ARTICULO 83.
 
@@ -1869,7 +1905,23 @@ No se extinguen por prescripción las obligaciones ni los créditos a favor del 
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, no libera de su pago.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 144 Bis.
+
+La Secretaría de Finanzas y Tesorería General del Estado podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+
+Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 10 cuotas, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 100 cuotas y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados.
+
+La Secretaría de Finanzas y Tesorería General del Estado dará a conocer las reglas de carácter general para la aplicación de este artículo.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 ###### ARTICULO 145.
 
@@ -2669,7 +2721,7 @@ El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
 
 ###### ARTICULO SEGUNDO.
 
-Para los efectos de lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado, a fin de proceder a la actualización de contribuciones y devoluciones a partir del año de 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de enero de 1996.
+Para los efectos de lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado, a fin de proceder a la actualización de contribuciones y devoluciones a partir del año 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de enero de 1996.
 
 P.O. 27 DE DICIEMBRE DE 1996.
 
@@ -2690,3 +2742,9 @@ El presente Decreto entrará en vigor el día 1o. de Enero de 1999.
 P.O. 31 DE DICIEMBRE DE 1999.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 1o. de Enero del año 2000.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1o. de Enero del año 2001.
