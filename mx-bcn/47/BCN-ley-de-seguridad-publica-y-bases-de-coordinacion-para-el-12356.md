@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-y-bases-de-coordinacion-para-el-12356"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-17"
-last_updated: "1999-06-11"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 1998.
 
@@ -41,9 +41,11 @@ LEY DE SEGURIDAD PUBLICA Y BASES DE COORDINACION PARA EL ESTADO DE BAJA CALIFORN
 
 ### CAPÍTULO PRIMERO. DEL OBJETO DE LA LEY Y DE LOS CUERPOS DE SEGURIDAD EN EL ESTADO
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular la prestación del servicio de seguridad pública y de los servicios privados de seguridad, así como establecer las bases de coordinación entre el Estado y Municipios en materia de seguridad pública.
+La presente Ley es de orden público e interés general y tiene por objeto regular la prestación del servicio de seguridad pública: las relaciones administrativas que surjan entre los elementos de los Cuerpos de Seguridad Pública y las autoridades estatales o las municipales con motivo de la prestación de este servicio; los servicios privados de seguridad; así como establecer las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública.
 
 ###### ARTÍCULO 2.
 
@@ -131,7 +133,9 @@ Los mandos operativos en los Cuerpos de Seguridad se determinarán conforme a la
 
 Se consideran elementos de seguridad pública, aquellos a quienes les atribuya ese carácter, mediante nombramiento o instrumento jurídico equivalente, por autoridad competente de los Ayuntamientos o del Gobierno del Estado, según sea el caso.
 
-Las relaciones de trabajo de los elementos de los Cuerpos de Seguridad se regirán por su propia ley.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+La relación que surge de la prestación del servicio entre los elementos de los cuerpos de seguridad pública y el Estado o los Municipios, es de carácter administrativo, y se rige por esta Ley y los reglamentos respectivos, de conformidad con lo dispuesto por el Artículo 123 fracción XIII del Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
 
 No formarán parte de los Cuerpos de Seguridad quienes desempeñen funciones de carácter estrictamente administrativo ajenas a la seguridad pública, aún cuando laboren en las dependencias encargadas de prestar dicho servicio.
 
@@ -225,13 +229,19 @@ En el marco del Programa, los Ayuntamientos y el Ejecutivo del Estado, a través
 
 Serán objeto de atención preferente la coordinación de acciones de prevención, persecución a la delincuencia y la participación de la sociedad en la materia.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+Las autoridades estatales y municipales están obligadas a coordinarse para ejecutar en forma conjunta y periódica, cuando menos una vez al mes, operativos en materia de prevención y persecución de los delitos. Para estos efectos celebrarán convenios específicos con las autoridades federales de seguridad pública a fin de que se incorporen en la ejecución de estos operativos. Los resultados de estas acciones conjuntas deberá ser revisadas de manera permanente y en su caso, diseñarse nuevas directrices y acciones que permitan eficientizar las funciones desarrolladas.
+
 ## TÍTULO SEGUNDO. DEL REGISTRO ESTATAL DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO PRIMERO. DEL PERSONAL
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTÍCULO 22.
 
-Los Ayuntamientos, la Procuraduría y las empresas de Seguridad Privada, integrarán registros de los elementos que formen parte de sus respectivos cuerpos de seguridad, de las altas, suspensiones, destituciones o inhabilitaciones, de las cuales deberán dar cuenta y avisos a la Secretaría para la integración del Registro Estatal de Seguridad Pública.
+Los Ayuntamientos, la Procuraduría y las empresas de Seguridad Privada, integrarán registros de los elementos que formen parte de sus respectivos cuerpos de seguridad, de las altas, suspensiones, remociones, destituciones o inhabilitaciones, de las cuales deberán dar cuenta y aviso a la Secretaría, para la integración del Registro Estatal de Seguridad Pública.
 
 ### CAPÍTULO SEGUNDO. DEL ARMAMENTO Y VEHÍCULOS
 
@@ -545,6 +555,8 @@ Los Cuerpos de Seguridad Pública y Privada y demás organizaciones de naturalez
 
 ### CAPÍTULO QUINTO. DERECHOS DE LOS MIEMBROS DE CUERPOS DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTÍCULO 57.
 
 El servicio a la comunidad y la disciplina, la eficiencia y honradez, así como el respeto a los derechos humanos y a la legalidad, son principios que los Cuerpos de Seguridad deben observar invariablemente en su actuación
@@ -729,7 +741,9 @@ La evaluación de las actividades desempeñadas por los elementos de los Cuerpos
 
 Para efecto de dar cumplimiento a lo dispuesto por el artículo anterior, los Jefes Inmediatos Superiores de cada elemento de seguridad pública, requisitará los cuestionarios que señale el Reglamento de Promociones, Ascensos y Reconocimientos, tendientes a conocer y evaluar su desempeño. Los resultados deberán darse a conocer a cada elemento de seguridad oportunamente y por escrito.
 
-### CAPÍTULO TERCERO. DE LAS CAUSALES DE DESTITUCIÓN
+### CAPÍTULO TERCERO. DE LOS REQUISITOS DE PERMANENCIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### ARTÍCULO 75.
 
@@ -775,7 +789,7 @@ Los estímulos y recompensas, se ajustarán a lo establecido en el Decreto de Pr
 
 ###### ARTÍCULO 81.
 
-Sin perjuicio de lo previsto en los ordenamientos de carácter laboral y de seguridad social respectivos, los elementos de los Cuerpos de Seguridad, tendrán los siguientes derechos:
+Los elementos de los cuerpos de seguridad, tendrán los siguientes derechos:
 
 I. Percibir un salario digno y remunerador acorde con las características del servicio;
 
@@ -791,13 +805,19 @@ VI. Participar en los concursos de promoción, o someterse a evaluación curricu
 
 VII. Ser sujeto de condecoraciones, estímulos y recompensas cuando su conducta y desempeño sea meritorio;
 
-VIII. Tener jornadas de trabajo acorde a las necesidades del servicio, así como disfrutar de prestaciones, tales como aguinaldo, vacaciones, licencias o descanso semanal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+VIII. Prestar el servicio de seguridad dentro de un horario acorde a las necesidades del mismo, así como disfrutar de prestaciones, licencias y descanso semanal;
 
 IX. Ser asesorados y defendidos jurídicamente por el Ayuntamiento o la Procuraduría, según sea el caso, en forma gratuita, cuando por motivos de servicio y a instancia de un particular, sean sujetos a algún procedimiento que tenga por objeto fincarles responsabilidad penal o civil; si en el proceso se desprende su probable responsabilidad, inmediatamente cesará dicha obligación de defensa;
 
 X. Recibir oportuna atención médica sin costo alguno para el elemento policial, cuando sea lesionado en cumplimiento de su deber, en caso de extrema urgencia, gravedad, deberán ser atendidos en la institución médica pública o privada más cercana al lugar donde se produjeron los hechos, y
 
 XI. Ser recluidos en áreas especiales para policías en los casos en que sean sujetos a prisión preventiva.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XII. Gozar de los servicios de seguridad social derivados de los programas que se establezcan con base a lo dispuesto en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO SEXTO. DEL RÉGIMEN DISCIPLINARIO
 
@@ -817,7 +837,9 @@ II. Arresto hasta treinta y seis horas: El arresto es la reclusión que sufre el
 
 III. Cambio de adscripción: El cambio de adscripción se decretará cuando el comportamiento del elemento afecte la disciplina y buena marcha del grupo a que esté adscrito, o bien sea necesario para mantener una buena relación e imagen con la comunidad donde se desempeña.
 
-IV. La suspensión, rescisión o destitución, de acuerdo a las normas disciplinarias reglamentarias correspondientes a cada uno de los cuerpos de seguridad pública.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+IV. La remoción, o suspensión de acuerdo a las normas disciplinarias contenidas en esta Ley o en los reglamentos correspondientes a cada uno de los cuerpos de seguridad pública.
 
 Los superiores jerárquicos informarán al Consejo de Honor y Justicia sobre los correctivos disciplinarios que impongan, dentro de tres días hábiles siguientes a su aplicación, exponiendo las causas que lo motivaron.
 
@@ -871,43 +893,89 @@ La suspensión terminará hasta que el asunto de que se trate, quede total y def
 
 En el caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta el momento con el motivo de la suspensión.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTÍCULO 92.
 
-La suspensión temporal de carácter correctivo, procederá contra el elemento que en forma reiterada o particularmente indisciplinada, haya incurrido en faltas cuya naturaleza no merecen la destitución. La suspensión a que se refiere este artículo no podrá exceder de treinta días naturales.
+La suspensión temporal de carácter correctivo, procederá contra el elemento que en forma reiterada o particularmente indisciplinada, haya incurrido en faltas cuya naturaleza no merecen la remoción. La suspensión a que se refiere este artículo no podrá exceder de treinta días naturales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### ARTÍCULO 93.
 
-Los elementos de los Cuerpos de Seguridad, podrán ser destituidos por las siguientes causas:
+Son requisitos de permanencia en los Cuerpos de Seguridad, los siguientes:
 
-I. Faltar a sus labores por más de tres ocasiones en un periodo de treinta días naturales sin permiso o causa justificada;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-II. Sentencia condenatoria por delito doloso que haya causado ejecutoria;
+I. Asistir a sus labores puntualmente y no tener más de tres inasistencias en un período de treinta días naturales sin permiso o causa justificada;
 
-III. Por falta grave a los principios de actuación previstos en el Artículo 58 de la presente Ley y a las normas de disciplina que se establezcan en cada uno de los Cuerpos de Seguridad;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-IV. Incurrir en faltas de probidad y honradez durante el servicio;
+II. Conservar los requisitos de ingresos;
 
-V. Portar el arma de cargo fuera de servicio;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-VI. Poner en peligro a los particulares a causa de imprudencia, descuido, negligencia, o abandono del servicio;
+III. Acatar los principios de actuación previstos en el Artículo 58, de la presente Ley y las normas de disciplina que se establezcan en cada uno de los Cuerpos de Seguridad. Sólo la falta grave a estos principios o normas dará lugar a la remoción;
 
-VII. Asistir a sus labores en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas o estupefacientes, o por consumirlas durante el servicio o en su centro de trabajo;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-VIII. Desacato injustificado a las órdenes de sus superiores;
+IV. Actuar con probidad y honradez, durante la prestación del servicio;
 
-IX. Revelar asuntos secretos o reservados, de los que tenga conocimiento;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-X. Presentar documentación alterada;
+V. Portar el arma de cargo exclusivamente durante la prestación del servicio;
 
-XI. Aplicar a sus subalternos en forma dolosa o reiterada correctivos disciplinarios notoriamente injustificados;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XII. Obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas, a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
+VI. Actuar con atención y cuidado en el desempeño de sus funciones y no poner en peligro a los particulares a causa de imprudencia, descuido, negligencia, o abandono del servicio;
 
-XIII. Usar armamento y equipo de dudosa procedencia o carente de registros, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-XIV. Negarse a la realización de pruebas médicas o de laboratorio, para evaluar su condición física o detectar consumo de drogas.
+VII. Desempeñar sus funciones con eficiencia y no acudir en estado de ebriedad, o bajo el influjo de sustancias psicotrópicas o estupefacientes, ni consumirlas durante la prestación del servicio o en las instalaciones de la institución de su adscripción;
 
-El cambio de mandos superiores o de autoridades de elección popular no será causa, bajo ninguna circunstancia, de destitución para ningún elemento de seguridad pública.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+VIII. Obedecer las órdenes de sus superiores, salvo que exista justificación legal para desacatarlas;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+IX. Guardar la confidencialidad de los asuntos secretos o reservados, de los que tenga conocimiento;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+X. Abstenerse de presentar documentación alterada;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XI. Tratar con respeto y dignidad a sus subalternos y no aplicar en forma dolosa o reiterada correctivos disciplinarios notoriamente injustificados;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XII. Otorgar y garantizar a sus subalternos el goce de las prestaciones a que todo policía tiene derecho sin solicitar a cambio dinero o cualquier otro tipo de dádivas;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XIII. Usar armamento y equipo autorizado por las autoridades competentes,
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XIV. Acudir a la realización de pruebas médicas o de laboratorio, para evaluar su condición física o detectar consumo de drogas;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+XV. Aprobar los exámenes médicos; físicos, de personalidad o de no adicción o uso de substancias psicotrópicas, enervantes, depresivas, estupefacientes y otras similares.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+Los elementos que incumplan con cualquiera de estos requisitos, una vez que se cumpla con el procedimiento que se establece en el Artículo 96 de esta Ley, serán removidos de su cargo, sin que proceda la suspensión del acto, ni la reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y sólo tendrán derecho, en su caso, a una indemnización.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+Tratándose de remoción injustificada, los elementos tendrán derecho a recibir su indemnización que tomará como bases para su determinación, la cantidad que percibía en el momento de la remoción y los años de servicio prestados, independientemente de las demás prestaciones a que tuviere derecho, conforme a las normas reglamentarias respectivas.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
+El cambio de mandos superiores o de autoridades de elección popular, no será causa, bajo ninguna circunstancia, de remoción para ningún elemento de seguridad pública.
 
 Los Cuerpos de Seguridad elaborarán un registro de los elementos que hayan sido destituidos, especificando además la causa de la destitución.
 
@@ -915,11 +983,17 @@ Los Cuerpos de Seguridad elaborarán un registro de los elementos que hayan sido
 
 En cada Cuerpo de Seguridad Pública habrá un Consejo de Honor y Justicia, su integración y operación será conforme al reglamento que la autoridad correspondiente dicte. Como órgano colegiado será competente para:
 
-I. Conocer, proponer y resolver sobre las faltas graves en que incurran los elementos policiales a los principios de actuación previstos en la presente ley, así como las normas disciplinarias de cada uno de los Cuerpos de Seguridad;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-II. Resolver sobre la suspensión temporal y la destitución de los elementos;
+I. Conocer, proponer y resolver sobre las infracciones en que incurran los elementos policiales a los principios de actuación previstos en la presente ley, así como las normas disciplinarias de cada uno de los Cuerpos de Seguridad;
 
-III. Otorgar condecoraciones y determinar, con arreglo a la disponibilidad presupuestal, estímulos y recompensas, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+II. Resolver sobre la suspensión temporal o remoción de los elementos;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+
+III. Otorgar condecoraciones y determinar, con arreglo a la disponibilidad presupuestal, estímulos y recompensas;
 
 IV. Conocer y resolver los recursos de rectificación.
 
@@ -927,21 +1001,25 @@ IV. Conocer y resolver los recursos de rectificación.
 
 El Consejo de Honor y Justicia velará por la honorabilidad y reputación de los Cuerpos de Seguridad y combatirá con energía las conductas lesivas para la comunidad o la corporación, para tal efecto gozará de las más amplias facultades para examinar los expedientes u hojas de servicio a los agentes y para practicar las diligencias que le permitan allegarse de elementos necesarios para dictar su resolución.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTÍCULO 96.
 
-En todo asunto que deba conocer el Consejo de Honor y Justicia, se abrirá un expediente con las constancias que existan sobre el particular y, se sujetará al siguiente procedimiento:
+En todo asunto que deba conocer el Consejo de Honor y Justicia, se abrirá un expediente con las constancias que existan sobre el particular y se sujetará al siguiente procedimiento:
 
-I. Se hará saber al elemento sujeto al procedimiento, la naturaleza y causa del mismo, a fin de que conozca los hechos que se le imputan y pueda defenderse por sí o por persona digna de su confianza o, en su defecto, se le nombrará un defensor de oficio, concediéndole diez días hábiles para que ofrezca las pruebas pertinentes, señalándose lugar, día y hora para la celebración de la audiencia de pruebas y alegatos. Serán admisibles toda clase de pruebas, excepto la confesión de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres;
+I. Se hará saber al elemento sujeto al procedimiento, la naturaleza y causa del mismo, a fin de que conozca los hechos que se le imputan y pueda defenderse por sí o por persona digna de su confianza o, en su defecto, se le nombrará un defensor de oficio, concediéndole diez días hábiles para que ofrezca las pruebas pertinentes, señalándose lugar, día y hora, para la celebración de la audiencia de pruebas y alegatos. Serán admisibles toda clase de pruebas, excepto la confesión de la autoridad y las que fueren en contra del derecho, la moral o las buenas costumbres;
 
-II. En dicha audiencia se desahogarán las pruebas ofrecidas y el interesado podrá presentar en forma verbal o por escrito los alegatos que a su derecho convenga. El Consejo dictará su resolución debidamente fundada y motivada, dentro de los diez días siguientes y la notificará personalmente al interesado;
+II. En dicha audiencia se desahogarán las pruebas ofrecidas y el interesado podrá presentar en forma verbal o por escrito los alegatos que a su derecho convengan. El Consejo dictará su resolución debidamente fundada y motivada, dentro de los diez días hábiles siguientes y la notificará personalmente al interesado;
 
-III. La resolución tomará en consideración la falta cometida, la jerarquía y los antecedentes del elemento sujeto a procedimiento, así como las pruebas desahogadas, y
+III. La resolución tomará en consideración la falta cometida, la jerarquía y los antecedentes del elemento sujeto a procedimiento, así como las pruebas desahogadas; y
 
-IV. De todo lo actuado se levantará constancia por escrito.
+IV. De todo lo actuado, se levantará constancia por escrito.
+
+En lo conducente en la substanciación de este procedimiento, se aplicará el reglamento del cuerpo de seguridad pública de que se trate y de forma supletoria el Código de Procedimientos Civiles para el Estado de Baja California.
 
 ###### ARTÍCULO 97.
 
-Las resoluciones del Consejo de Honor y Justicia que recaigan sobre el recurso de rectificación, serán definitivas y se agregarán a los expedientes u hojas de servicio de los elementos de los Cuerpos de Seguridad.
+(DEROGADO, P.O. 29 DE JUNIO DE 2001)
 
 ###### ARTÍCULO 98.
 
@@ -979,7 +1057,7 @@ El Poder Ejecutivo establecerá la currícula del Programa General de Formación
 
 ###### ARTÍCULO SÉPTIMO.
 
-Las relaciones de trabajo de los elementos de los Cuerpos de Seguridad Pública se regirán por esta Ley y su Reglamento, sin perjuicio de lo que establece la Ley del Servicio Civil para los Trabajadores al Servicio del Estado, Municipios e Instituciones Descentralizadas de Baja California y la Ley del Instituto de Servicios y Seguridad Social para los Trabajadores del Estado de Baja California, en tanto se elabore la Ley que rija las relaciones de los elementos de seguridad.
+(DEROGADO, P.O. 29 DE JUNIO DE 2001)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -1038,3 +1116,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El Reglamento del Consejo Ciudadano de Seguridad Pública, deberá expedirse en un plazo no mayor de quince días posteriores a la entrada en vigor de este Decreto.
+
+P.O. 29 DE JUNIO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Procuraduría, la Secretaría y los Ayuntamientos, someterán a examen a los elementos de los Cuerpos de Seguridad Pública, a fin de reconocer su capacidad, inducir su preparación o decidir su remoción en un plazo no mayor de seis meses posteriores a la entrada en vigor de este Decreto.
+
+###### ARTICULO TERCERO.
+
+La remoción de cualquier elemento de los Cuerpos de Seguridad Pública, con motivo de los exámenes implicará el pago de indemnización.
+
+###### ARTICULO CUARTO.
+
+Las indemnizaciones a que tengan derecho los elementos de los Cuerpos de Seguridad Pública, en los términos de la disposición transitoria anterior y del antepenúltimo párrafo del Artículo 93, deberán calcularse hasta en tanto se expidan las disposiciones reglamentarias que establezcan su cuantificación, tomando como base de referencia lo dispuesto en la Ley del Servicio Civil.
+
+De la misma forma, hasta en tanto se expidan las disposiciones reglamentarias que establezcan las prestaciones económicas a que tengan derecho los elementos de los Cuerpos de Seguridad Pública, así como las condiciones generales para la prestación de su servicio, se seguirán aplicando en lo conducente las relativas a la Ley del Servicio Civil.
+
+###### ARTICULO QUINTO.
+
+Los reglamentos administrativos y demás disposiciones que resulten afectados por el presente Decreto, deberán adecuarse a sus términos en un plazo no mayor de sesenta días.
