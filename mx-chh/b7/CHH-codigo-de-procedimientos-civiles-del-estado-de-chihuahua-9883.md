@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-07-14"
+last_updated: "2004-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -423,7 +423,13 @@ Serán el día y la hora de recepción de los documentos que haya asentado la Of
 
 En los lugares donde no exista Oficialía de Turnos, la recepción y captura digital se hará por los Tribunales ante los que se presenten los documentos, con todos los efectos legales conducentes.
 
-Las promociones escritas que se presenten de manera diferente a la señalada en este precepto, se tendrán por no presentadas.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+
+Las promociones escritas para comparecer o gestionar en las audiencias también podrán presentase directamente en la sala o juzgado en que se celebre dicha audiencia y, en su oportunidad, se realizará su captura electrónica, sea por la oficialía de turnos correspondiente o la oficina donde se tramite el asunto.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+
+Igual regla se aplicará a los oficios, exhortos, y comunicaciones que reciban los tribunales.
 
 76.- Los jueces y magistrados recibirán por sí todas las declaraciones y presidirán todos los actos de prueba asistidos de sus secretarios o de las personas que hagan sus veces. Sin embargo, en casos de urgencia y cuando el despacho de las labores del Tribunal lo exijan, podrán encomendar a sus secretarios la recepción de las declaraciones o diligencias de prueba, con excepción de aquéllas que requieran su intervención personal de modo indispensable.
 
@@ -443,17 +449,25 @@ a).- Cuando la ley prevenga que se hagan en forma específica;
 
 b).- Cuando de la promoción deba correrse traslado a la parte contraria o al Ministerio Público, pues en ese caso necesariamente se hará por escrito.
 
-Las promociones escritas deberán presentarse directamente en la Oficialía de Turnos o a falta de ésta, en el Tribunal, en la forma que se menciona en el artículo 75.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
-En el caso de presentación de agravios en el recurso de apelación, se estará a lo que la ley prescribe para esos casos.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 82.- Al primer escrito o comparecencia deberán acompañarse los siguientes documentos, sin perjuicio de lo que se establece especialmente para la presentación de la demanda y su contestación: a).- El documento o documentos que acrediten el carácter con que el litigante se presente en juicio, en el caso de tener la representación legal de alguna persona ya fuere ésta física o moral o cuando el derecho que reclame provenga de habérsele trasmitido por otra persona; b).- El poder que acredite la personalidad del procurador, cuando éste intervenga. Para el cumplimiento de este artículo no bastará, en caso de omisión de los documentos, la protesta de presentarlos después.
 
 83.- Cuando de una promoción deba correrse traslado a la parte contraria de quien promueva o al Ministerio Público, deberán acompañarse al escrito relativo, las copias simples necesarias, una para cada interesado, del escrito y documentos que se presenten. Si se omitiere total o parcialmente la presentación de las copias, el Tribunal prevendrá al promovente que, dentro del término de tres días las exhiba, en la inteligencia de que, mientras no hiciere su exhibición, no se tendrá por hecha la promoción, y en los casos en que la ley señale un término para hacerla, se tendrá por no hecha en tiempo si el interesado no exhibe las copias dentro de este último.
 
-84.- Los documentos que se hubieren presentado en juicio, deben devolverse a las partes que los presentaron, si lo pidieren; quedando en autos copia exacta de ellos, previo conocimiento que de la solicitud se dé a la parte contraria. Si el juicio estuviere concluido, bastará dejar en autos la razón de la devolución del documento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
-Cada parte podrá pedir que a su costa se le expida copia simple o certificada de los documentos presentados por la otra parte. También podrán solicitar que se les expidan copias de las actuaciones; en ambos casos, se mandarán expedir las copias con conocimiento de la otra parte.
+84.- Los documentos que se hubieren presentado en juicio, se devolverán a las partes que los presentaron, si lo piden; quedando en autos copia exacta de ellos, previo conocimiento que de la solicitud se dé a la parte contraria. Si el juicio estuviere concluido, bastará dejar en autos la razón de la devolución de los documentos.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+
+Cada parte podrá pedir que a su costa se le expida copia certificada de los documentos presentados por la otra parte y de las actuaciones; en ambos casos, las copias se mandarán expedir con conocimiento de la otra parte.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+
+Para obtener copias simples bastará la solicitud verbal del interesado y cubrir el costo de las mismas para que le sean expedidas.
 
 Los extraños a un juicio podrán solicitar copias de los documentos o actuaciones que obren en él, con arreglo a las disposiciones que este Código establece en el Capítulo relativo a la prueba documental.
 
@@ -1147,9 +1161,9 @@ El dueño de la obra tiene derecho a pedir autorización para continuarla, mient
 
 El que haya obtenido la providencia de suspensión provisional de una obra nueva debe promover el juicio sobre suspensión definitiva o demolición de lo construido, en su caso, dentro del término de tres días, contados desde que se haya notificado la suspensión de la obra.
 
-## TITULO SEXTO. DEL JUICIO ORDINARIO
-
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
+
+## TITULO SEXTO. DEL JUICIO ORDINARIO
 
 ### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
 
@@ -1831,7 +1845,9 @@ III.- Las sentencias contra las que se interpuso recurso, pero no se continuó e
 
 401.- Se tramitarán en la vía sumaria:
 
-I.- Los juicios sobre el pago o aseguramiento de alimentos que se deban por disposición de la ley, por contrato o por testamento. En todos estos casos el juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria una pensión alimenticia provisional, mientras se resuelve en definitiva el juicio de alimentos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2004)</small>
+
+I.- Los juicios sobre el pago o aseguramiento de alimentos que se deban por disposición de la ley, por contrato o por testamento. En todos estos casos el juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria una pensión alimenticia provisional, mientras se resuelve en definitiva el juicio de alimentos. Igualmente se podrá decretar el embargo de bienes del demandado, si de los elementos del sumario se desprende que existe la posibilidad real de que el deudor alimentario devenga insolvente para cumplir con tal obligación.
 
 II.- Los juicios que versen sobre cualquiera cuestión relativa a los contratos de arrendamiento o alquiler, con excepción de las que se refieren a la desocupación por falta de pago de rentas que se tramitarán con arreglo al Capítulo V de este Título, y sobre cualquier cuestión relativa a los contratos de depósito y comodato, aparcería, transportes y hospedajes;
 
@@ -4662,3 +4678,15 @@ P.O. 5 DE JUNIO DE 2004.
 P.O. 14 DE JULIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2004.
+
+DECRETO No. 1189/04 XVI P.E.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 6 DE OCTUBRE DE 2004.
+
+DECRETO No. 1190/04 XVI P.E.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
