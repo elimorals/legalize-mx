@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-de-puebla-7732"
 country: "mx"
 rank: "ley"
 publication_date: "1968-11-05"
-last_updated: "1976-08-06"
+last_updated: "1983-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1983.
 
-Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1968.
+Ley publicada en el Suplemento Número 1 Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1968.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- H. Congreso del Estado L. Y S. de Puebla.
 
@@ -57,9 +57,11 @@ II.- En las actas y certificaciones, acredita la exactitud de lo que el Notario 
 
 ### CAPITULO SEGUNDO. Organización del Notariado
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 3o.
 
-La Dirección del Notariado, queda a cargo del Ejecutivo del Estado, por medio de la Secretaría General de Gobierno.
+La Dirección del Notariado, queda a cargo del Ejecutivo del Estado, por medio de la Secretaría de Gobernación.
 
 ###### Artículo 4o.
 
@@ -77,9 +79,11 @@ El Notario conservará temporalmente los instrumentos y documentos, con sus anex
 
 El Notario ejercerá sus funciones exclusivamente dentro de los límites del territorio de su jurisdicción. La demarcación notarial corresponderá a la del respectivo Distrito Judicial. Sin embargo, los actos y contratos celebrados en presencia del Notario, y dentro de su jurisdicción, podrán referirse a personas y bienes de cualquiera otro lugar. Los Jueces Menores en los casos en que están facultados para autorizar testamentos, no podrán actuar sino dentro de la jurisdicción de su respectivo Municipio.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 8o.
 
-Los Notarios del Distrito Judicial de Puebla, residirán y tendrán sus oficinas en la Capital del Estado, y los de los Distritos foráneos, en sus respectivas Cabeceras.
+Los Notarios del Distrito Judicial de Puebla, residirán y tendrán sus oficinas en la Capital del Estado, y los de los Distritos foráneos, en sus respectivas cabeceras, salvo que el Ejecutivo del Estado les asigne distinta sede del Distrito que corresponda.
 
 ###### Artículo 9o.
 
@@ -243,21 +247,23 @@ VIII.- Estar vacante alguna Notaría de las ya establecidas, o de las que se cre
 
 IX.- (DEROGADA, P.O. 6 DE AGOSTO DE 1976)
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 28.
 
 Los requisitos señalados en el artículo anterior, se justificarán en la siguiente forma:
 
-El primero, con la patente respectiva; el segundo, por los medios que establece el Código Civil, para justificar el estado de las personas; el tercero, por información testimonial; el cuarto, por medio del título respectivo; el quinto, por medio de certificados expedidos por dos médicos titulados; los requisitos establecidos por la fracción VI no requieren prueba, pero sí, la declaración, bajo protesta, del interesado, de no encontrarse comprendido en esos impedimentos, la cual admite prueba en contrario; lo dispuesto en las fracciones VII y VIII, con el certificado que respectivamente expidan la Autoridad Municipal correspondiente y la Secretaría General de Gobierno.
+El primero, con la patente respectiva; el segundo, por los medios que establece el Código Civil, para justificar el estado de las personas; el tercero, por información testimonial; el cuarto, por medio del título respectivo; el quinto, por medio de certificados expedidos por dos médicos titulados; los requisitos establecidos por la fracción VI no requieren prueba, pero sí, la declaración, bajo protesta, del interesado, de no encontrarse comprendido en esos impedimentos, la cual admite prueba en contrario; lo dispuesto en las fracciones VII y VIII, con el certificado que respectivamente expidan la Autoridad Municipal correspondiente y la Secretaría de Gobernación.
 
 ###### Artículo 29.
 
 En las informaciones testimoniales, para la comprobación de los requisitos anteriores, serán oídos, el Ministerio Público y el delegado que designe el Consejo de Notarios, quienes podrán repreguntar y tachar a los testigos que se presenten.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 30.
 
-Para los efectos de lo dispuesto en los dos artículos anteriores, la Secretaría General de Gobierno y la Autoridad Judicial, notificarán al Consejo de Notarios, la iniciación de las diligencias respectivas, a fin de que se apersone en las mismas.
+Para los efectos de lo dispuesto en los dos artículos anteriores, la Secretaría de Gobernación y la Autoridad Judicial, notificarán al Consejo de Notarios, la iniciación de las diligencias respectivas, a fin de que se apersone en las mismas.
 
 A tal fin, el Presidente del Consejo convocará, por escrito a los miembros de éste, para que manifiesten si están conformes con la pretensión del promovente, o si conocen, a ciencia cierta, alguna circunstancia que la contradiga, en el concepto de que estarán obligados a suministrar al propio Consejo, cuantos datos tengan sobre el particular. Para todas las diligencias, inclusive las de orden judicial, se acreditará un delegado, y en caso de que hubiere oposición fundada de algún Consejero, se darán, al efecto, las instrucciones pertinentes el (sic) delegado, para que actúe de acuerdo con las mismas y las haga valer en los procedimientos administrativo y judicial, pudiendo en aquél rendir toda clase de pruebas en contrario.
 
@@ -271,11 +277,11 @@ Ninguno de los requisitos que se fijan en los artículos anteriores es dispensab
 
 Al concluirse el expediente relativo a la comprobación de los requisitos que fijan los artículos anteriores, se dará vista con él, al Consejo de Notarios, a fin de que, con apoyo en lo actuado, dentro de los cinco días hábiles siguientes emita su opinión sobre si procede legalmente o no, la expedición de la patente.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 33.
 
-Cuando estuviere vacante una Notaría, o cuando fuere creada por el Ejecutivo del Estado, la Secretaría General de Gobierno publicará un anuncio por tres veces consecutivas en el Periódico Oficial del Estado y en otro de los de mayor circulación en la Entidad, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener la patente de la Notaría vacante, para que dentro del término de diez días, contados a partir de la última publicación, presenten su solicitud ante el Ejecutivo del Estado, acompañándola con la patente de aspirante expedida a su favor, debidamente registrada. Transcurrido dicho término, dentro de los 40 días siguientes deberán llenar los demás requisitos a que se refiere el Artículo 27 de esta Ley; y fenecido este término, el propio Ejecutivo extenderá la patente de Notario en favor del solicitante que, reunidos los requisitos de Ley, considere más idóneo.
+Cuando estuviere vacante una Notaría, o cuando fuere creada por el Ejecutivo del Estado, la Secretaría de Gobernación publicará un anuncio por tres veces consecutivas en el Periódico Oficial del Estado y en otro de los de mayor circulación en la Entidad, convocando a los aspirantes al ejercicio del Notariado que pretendan obtener la patente de la Notaría vacante, para que dentro del término de diez días, contados a partir de la última publicación, presenten su solicitud ante el Ejecutivo del Estado, acompañándola con la patente de aspirante expedida a su favor, debidamente registrada. Transcurrido dicho término, dentro de los 40 días siguientes deberán llenar los demás requisitos a que se refiere el Artículo 27 de esta Ley; y fenecido este término, el propio Ejecutivo extenderá la patente de Notario en favor del solicitante que, reunidos los requisitos de Ley, considere más idóneo.
 
 ###### Artículo 34.
 
@@ -337,21 +343,33 @@ Para que el Notario pueda ejercer sus funciones, no basta que obtenga el nombram
 
 I.- Constituir, a su elección, hipoteca, depósito o fianza, por $ 5,000.00.
 
-II.- Proveerse a su costa, del sello y libros del protocolo y hacer registrar su nombramiento, sello y su firma, en el Departamento de Gobernación y Justicia de la Secretaría General de Gobierno, en la Oficina del Registro Público de la Propiedad y del Comercio de su Jurisdicción, en el Archivo General de Notarías y en la Secretaría del Consejo de Notarios. Si después de hecho el registro, el Notario cambiare de firma o de nombre, hará registrar el cambio en las mismas oficinas.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
 
-III.- Otorgar la protesta legal ante la Secretaría General de Gobierno, en la forma en que se toma a los funcionarios públicos.
+II.- Proveerse a su costa, del sello y libros del protocolo y hacer registrar su nombramiento, sello y su firma, en el Departamento de Gobernación y Justicia de la Secretaría de Gobernación, en la Oficina del Registro Público de la Propiedad y del Comercio de su Jurisdicción, en el Archivo General de Notarías y en la Secretaría del Consejo de Notarios. Si después de hecho el registro, el Notario cambiare de firma o de nombre, hará registrar el cambio en las mismas oficinas.
 
-IV.- Cumplidos estos requisitos, la Secretaría General de Gobierno pondrá al pié del nombramiento, la razón de "requisitado", con expresión de la fecha en que lo hace, y mandará publicar, sin costo alguno para el interesado, el nombramiento con todos sus registros, en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+III.- Otorgar la protesta legal ante la Secretaría de Gobernación, en la forma en que se toma a los funcionarios públicos.
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+IV.- Cumplidos estos requisitos, la Secretaría de Gobernación pondrá al pié del nombramiento, la razón de "requisitado", con expresión de la fecha en que lo hace, y mandará publicar, sin costo alguno para el interesado, el nombramiento con todos sus registros, en el Periódico Oficial del Estado.
 
 V.- Dentro de 30 días, contados a partir de la fecha en que se otorgue la protesta respectiva, establecer su Oficina Notarial en el lugar en que va a desempeñar su cargo.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 48.
 
-El sello de cada Notario debe ser de forma circular, tener un diámetro de 4 centímetros, representar el Escudo Nacional en el centro, y tener inscritos, en derredor, el nombre, apellido, número del Notario y lugar de su residencia.
+El sello de cada Notario debe ser de forma circular, tener un diámetro de tres centímetros y representar el Escudo Nacional en los términos descritos en el artículo 2° de la Ley sobre las características y el uso del Escudo, la Bandera y el Himno Nacionales, y tener inscritos en la parte inferior el nombre, apellidos, número de la Notaría y lugar de su residencia.
 
 En caso de que se pierda o altere el sello, el Notario se proveerá de otro, en el cual se pondrá un signo especial que lo diferencie del anterior.
 
-Aunque aparezca el antiguo sello, no por ésto usará de él el Notario, sino que lo entregará personalmente al Archivo General de Notarías, para que allí se destruya; levantándose de esta diligencia un acta por duplicado. Un ejemplar de ella quedará depositado en dicho Archivo, y el otro, en poder del Notario. Lo mismo se hará en el caso de alteración de un sello o de fallecimiento de un Notario Titular. El Notario procederá a registrar su nuevo sello en la forma establecida por esta Ley.
+Aunque aparezca el antiguo sello, no por esto usará de él el Notario, sino que lo entregará personalmente al Archivo General de Notarías, para que allí se destruya, levantándose de esta diligencia un acta por duplicado. Un ejemplar de ella quedará depositado en dicho Archivo y el otro, en poder del Notario.
+
+Lo mismo se hará en el caso de alteración de un sello o de fallecimiento de un Notario Titular. El Notario procederá a registrar su nuevo sello en la forma establecida por esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 49.
 
@@ -359,11 +377,11 @@ Cuando el Notario otorgue garantía hipotecaria, ésta se constituirá sobre un 
 
 La propiedad que se hipoteque deberá estar libre de gravámenes y tener valor comercial, según avalúo practicado por institución autorizada de, cuando menos, 2 tantos más del valor de la garantía.
 
-Si el Notario otorgare fianza, ésta se constituirá ante el Secretario General de Gobierno, o en instrumento público ante Notario, debiéndose oír respecto a la solvencia e idoneidad del fiador, al Ministerio Público y al Presidente del Consejo de Notarios, ante el Juez de lo Civil que designe la Secretaría General.
+Si el Notario otorgare fianza, ésta se constituirá ante el Secretario de Gobernación, o en instrumento público ante Notario, debiéndose oír respecto a la solvencia e idoneidad del fiador, al Ministerio Público y al Presidente del Consejo de Notarios, ante el Juez de lo Civil que designe la Secretaría de Gobernación.
 
 Si la garantía consistiere en depósito, éste se constituirá en alguna institución de crédito.
 
-En cualquier tiempo puede el Notario sustituir una garantía por otra, dando aviso de ello a la Secretaría General de Gobierno.
+En cualquier tiempo puede el Notario sustituir una garantía por otra, dando aviso de ello a la Secretaría de Gobernación.
 
 ###### Artículo 50.
 
@@ -373,9 +391,11 @@ Cuando un particular obtenga sentencia firme condenatoria por responsabilidad ci
 
 Si el importe de la garantía no cubriere el de la responsabilidad exigida, el Notario deberá satisfacer la parte insoluta con su patrimonio personal.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 51.
 
-El Notario deberá comenzar a ejercer sus funciones dentro del plazo de 30 días contados desde la fecha de la razón de "requisitado", puesta en su nombramiento. Al hacerlo así, dará aviso al público por medio del Periódico Oficial del Estado y de otro periódico de la localidad, si lo hubiere. Además, lo comunicará a la Secretaría General, al Procurador de Justicia del Estado, al Registro Público de la Propiedad, al Archivo General de Notarías y al Consejo de Notarios.
+El Notario deberá comenzar a ejercer sus funciones dentro del plazo de 30 días contados desde la fecha de la razón de "requisitado", puesta en su nombramiento. Al hacerlo así, dará aviso al público por medio del Periódico Oficial del Estado y de otro periódico de la localidad, si lo hubiere. Además, lo comunicará a la Secretaría de Gobernación, al Procurador de Justicia del Estado, al Registro Público de la Propiedad, al Archivo General de Notarías y al Consejo de Notarios.
 
 ## TITULO TERCERO
 
@@ -399,19 +419,21 @@ IV.- Comprobar que durante 12 meses ininterrumpidos ha practicado por lo menos 3
 
 V.- Ser aprobado en el examen correspondiente, con una calificación superior a 5. No será necesario este requisito para los abogados que tengan además título de Notarios.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 54.
 
 Los requisitos a que se refiere el artículo anterior se comprobarán en los términos establecidos por los artículos 28 y 29 de esta Ley, en cuanto sean conducentes.
 
-El que pretenda sustentar el examen a que se refiere la fracción V del artículo 53, deberá presentar su solicitud al Gobernador del Estado, por conducto de la Secretaría General de Gobierno, con copia para el Consejo de Notarios, acompañada de las diligencias y documentos que justifiquen los requisitos que previamente deben ser llenados para este objeto.
+El que pretenda sustentar el examen a que se refiere la fracción V del artículo 53, deberá presentar su solicitud al Gobernador del Estado, por conducto de la Secretaría de Gobernación, con copia para el Consejo de Notarios, acompañada de las diligencias y documentos que justifiquen los requisitos que previamente deben ser llenados para este objeto.
 
 Admitida que sea la solicitud, y oído previamente el parecer del Consejo de Notarios, en relación con el cumplimiento de los requisitos que señala el artículo anterior, al expresar su conformidad, el Consejo señalará día y hora para que tenga lugar el examen, el cual se efectuará dentro del mes siguiente al de su acuerdo.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 55.
 
-El examen se efectuará en el lugar que determine el Consejo de Notarios, ante un jurado compuesto de 5 miembros: dos abogados designados por el Secretario General de Gobierno; el Presidente del Consejo de Notarios y dos Notarios más que nombrará el propio Consejo. Será Presidente del jurado el abogado que al efecto designe el Secretario General de Gobierno y desempeñará las funciones de Secretario el que, por mayoría de votos, designen los miembros del jurado. El Consejo designará además a tres Notarios suplentes.
+El examen se efectuará en el lugar que determine el Consejo de Notarios, ante un jurado compuesto de 5 miembros: dos abogados designados por el Secretario de Gobernación; el Presidente del Consejo de Notarios y dos Notarios más que nombrará el propio Consejo. Será Presidente del jurado el abogado que al efecto designe el Secretario de Gobernación y desempeñará las funciones de Secretario el que, por mayoría de votos, designen los miembros del jurado. El Consejo designará además a tres Notarios suplentes.
 
 No podrán formar parte del jurado, el Notario en cuya Notaría haya hecho su práctica el sustentante, los parientes consanguíneos o afines de éste dentro del tercer grado en línea recta o colateral, ni los que guarden amistad íntima con el sustentante o por cualquiera otra causa no pudieren obrar con imparcialidad.
 
@@ -451,9 +473,11 @@ Si después de extendida la patente, resultare que por causa superviniente, (sic
 
 No deberán considerarse como aspirantes, al Notariado los Jueces que por razón de este cargo, despachen por receptoría a falta de Notarios en su Jurisdicción.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 63.
 
-La patente de aspirante al ejercicio del Notariado, deberá ser registrada en la Secretaría de Gobierno del Estado, y en el Consejo de Notarios. La patente y la anotación en el libro de registro llevarán el retrato del interesado.
+La patente de aspirante al ejercicio del Notariado, deberá ser registrada en la Secretaría de Gobernación, y en el Consejo de Notarios. La patente y la anotación en el libro de registro llevarán el retrato del interesado.
 
 ## TITULO CUARTO. De los Notarios Auxiliares, Asociados y Substitutos
 
@@ -477,13 +501,17 @@ El Auxiliar, será, en todo caso de ausencia, el Suplente del Titular, con igual
 
 Los Auxiliares podrán solicitar el nombramiento de Titulares, para cubrir las vacantes que ocurran en otras Notarías.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 67.
 
-Para obtener el nombramiento de Notario Auxiliar, el propuesto acreditará los requisitos que previenen las fracciones I, II, III, IV, V, VI y VII del artículo 27 de esta Ley, y deberá otorgar la garantía, rendir la protetsa (sic) y registrar su nombramiento y firma, como lo previene esta Ley, para los Notarios Titulares, cumplido lo cual la Secretaría General de Gobierno, mandará hacer la publicación correspondiente.
+Para obtener el nombramiento de Notario Auxiliar, el propuesto acreditará los requisitos que previenen las fracciones I, II, III, IV, V, VI y VII del artículo 27 de esta Ley, y deberá otorgar la garantía, rendir la protetsa (sic) y registrar su nombramiento y firma, como lo previene esta Ley, para los Notarios Titulares, cumplido lo cual la Secretaría de Gobernación, mandará hacer la publicación correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 68.
 
-El Notario Titular tiene en todo tiempo, el derecho de solicitar del Gobernador del Estado, la revocación del nombramiento de su auxiliar, quien, por ese solo hecho, dejará de actuar como Notario, hasta que se pronuncie la resolución correspondiente. Al efecto, el Notario Titular deberá presentar la solicitud de revocación al Secretario General de Gobierno, a fin de que el Ejecutivo, previa audiencia del solicitante y de su auxiliar, dicte la resolución pertinente.
+El Notario Titular tiene en todo tiempo, el derecho de solicitar del Gobernador del Estado, la revocación del nombramiento de su auxiliar, quien, por ese solo hecho, dejará de actuar como Notario, hasta que se pronuncie la resolución correspondiente. Al efecto, el Notario Titular deberá presentar la solicitud de revocación al Secretario de Gobernación, a fin de que el Ejecutivo, previa audiencia del solicitante y de su auxiliar, dicte la resolución pertinente.
 
 ### CAPITULO SEGUNDO. De los Notarios Asociados
 
@@ -519,11 +547,11 @@ Para que pueda obtenerse la patente de Notario Suplente de una Notaría, se nece
 
 Si el aspirante cubriere los requisitos requeridos, el Ejecutivo le expedirá la patente para desempeñar el cargo de Suplente del Notario Titular que lo hubiere propuesto, debiendo procederse a los registros y publicación que ordena el propio artículo 67.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 74.
 
-El Suplente substituirá al Titular en sus ausencias, previo aviso que al efecto darán ambos a la Secretaría General de Gobierno, salvo el caso de impedimento físico del Titular, en que el aviso lo dará sólo el Suplente, expresando la causa.
+El Suplente substituirá al Titular en sus ausencias, previo aviso que al efecto darán ambos a la Secretaría de Gobernación, salvo el caso de impedimento físico del Titular, en que el aviso lo dará sólo el Suplente, expresando la causa.
 
 La suma de todos los períodos en que el Suplente substituya al Titular no excederá de 120 días naturales cada año.
 
@@ -561,11 +589,13 @@ El Notario que actúe como sustituto de otro, ejercerá las mismas funciones que
 
 ### CAPITULO PRIMERO. De los Libros del Protocolo
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 81.
 
-El protocolo está constituido por los libros o volúmenes en los cuales el Notario asienta los instrumentos que autoriza.
+El protocolo está constituido por los libros o volúmenes en los cuales, el Notario asienta los instrumentos que autoriza y por el apéndice en que se incorporan los documentos relacionados con ellos.
+
+Los documentos incorporados al apéndice quedan con ello protocolizados y, en consecuencia, forman parte integrante del instrumento.
 
 ###### Artículo 82.
 
@@ -583,15 +613,17 @@ La numeración de los instrumentos será progresiva desde el primer volumen, es 
 
 No podrán pasar de 10 los libros de protocolo que se lleven en una Notaría.
 
-> <small>(F. DE E., P.O. 28 DE ENERO DE 1969)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 84.
 
-En la primera página útil de cada libro, el Secretario General de Gobierno, pondrá la razón en que consten el lugar y la fecha, el número que corresponda al volumen según los que vaya recibiendo el Notario durante su ejercicio; el número de hojas útiles, inclusive la primera y la última; nombre y apellido del Notario y número ordinal de la Notaría a su cargo; el lugar en que deba residir y esté situada la Notaría, la expresión de que ese libro solamente debe utilizarse por el Notario Titular y su Auxiliar o Asociado, en su caso, o por quien legalmente lo substituya. Al final de la última página del libro el Director General de Notarías, pondrá una razón análoga que suscribirá y sellará. Cada hoja llevará en la parte superior izquierda del frente, el sello de la Secretaría General de Gobierno.
+En la primera página útil de cada libro, el Secretario de Gobernación, pondrá la razón en que consten el lugar y la fecha, el número que corresponda al volumen según los que vaya recibiendo el Notario durante su ejercicio; el número de hojas útiles, inclusive la primera y la última; nombre y apellido del Notario y número ordinal de la Notaría a su cargo; el lugar en que deba residir y esté situada la Notaría, la expresión de que ese libro solamente debe utilizarse por el Notario Titular y su Auxiliar o Asociado, en su caso, o por quien legalmente lo substituya. Al final de la última página del libro el Director General de Notarías, pondrá una razón análoga que suscribirá y sellará. Cada hoja llevará en la parte superior izquierda del frente, el sello de la Secretaría de Gobernación.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 85.
 
-El Notario abrirá cada volumen de su protocolo, cuando vaay (sic) a usar de él, poniendo inmediatamente después de la razón suscrita por el Secretario General de Gobierno, otra en la que exprese su nombre, apellido o apellidos y número de la Notaría a su cargo, así como el lugar y la fecha en que abra el libro, su sello y firma.
+El Notario abrirá cada volumen de su protocolo, cuando vaay (sic) a usar de él, poniendo inmediatamente después de la razón suscrita por el Secretario de Gobernación, otra en la que exprese su nombre, apellido o apellidos y número de la Notaría a su cargo, así como el lugar y la fecha en que abra el libro, su sello y firma.
 
 Los Notarios Asociados y Auxiliares, abrirán el protocolo común, poniendo en él la nota indicada en el párrafo que antecede, refiriéndose a cada uno y con los sellos y firmas de ambos, en su caso.
 
@@ -635,11 +667,13 @@ Cuando el Notario calcule que ya no puede dar cabida a otro instrumento más, en
 
 Los Notarios foráneos presentarán personalmente al Archivo General de Notarías, dentro de los 10 días siguientes al en que pongan la razón de que habla el artículo anterior, los volúmenes del protocolo a fin de que el Jefe del Archivo proceda en la forma antes indicada.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 94.
 
 Los Notarios del Distrito Judicial de Puebla guardarán en sus archivos, si así lo prefieren, los libros cerrados de su protocolo durante 20 años, contados desde la fecha en que el Archivo General de Notarías puso la certificación de cierre. Las Notarías foráneas podrán conservar los protocolos hasta de 20 años, si los encargados de ellas fueren Notarios Titulares, pues en caso contrario, sólo conservarán los correspondientes a 2 años después de haber sido cerrados.
 
-En caso de pérdida o de inutilización total o parcial de algún libro del protocolo, el Notario dará inmediato aviso de ello a la Secretaría General de Gobierno, para que ésta, dicte las medidas que estime oportunas, sin perjuicio de la obligación del Notario de poner los medios que estén a su alcance, para la recuperación, o reposición si fuere posible y de la responsabilidad en que haya podido incurrir.
+En caso de pérdida o de inutilización total o parcial de algún libro del protocolo, el Notario dará inmediato aviso de ello a la Secretaría de Gobernación, para que ésta, dicte las medidas que estime oportunas, sin perjuicio de la obligación del Notario de poner los medios que estén a su alcance, para la recuperación, o reposición si fuere posible y de la responsabilidad en que haya podido incurrir.
 
 En los casos a que se refiere el párrafo anterior, si los interesados, presentaren al Notario testimonio de algún instrumento dañado podrá el Notario expedir testimonios ulteriores copiando o reproduciendo íntegramente el que se le hubiere exhibido, sin perjuicio de sujetarse para la expedición, a las reglas establecidas para el caso de segundos o ulteriores testimonios, al pié de los cuales, hará constar que están tomados del testimonio anterior, y la causa de la expedición.
 
@@ -703,6 +737,8 @@ Si quedare algún espacio en blanco antes de las firmas, será llenado con líne
 
 El Notario redactará las escrituras en idioma castellano.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 La obligación que tiene el Notario de redactar por escrito, no implica, incluyendo los testamentos, que deba escribirlos por sí mismo.
 
 Para la redacción de los instrumentos se observarán las reglas siguientes:
@@ -723,7 +759,9 @@ Si se trata de derechos reales, se identificarán del modo expresado, los bienes
 
 VII.- Asentará con claridad y precisión las renuncias que legalmente puedan hacerse y citará las leyes cuyo beneficio se renuncia.
 
-VIII.- Dejará acreditada la personalidad de quien comparezca en representación de otro, relacionando los documentos respectivos e insertando la parte conducente, o bien agregándolos al apéndice y haciendo mención de éllos en el instrumento.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+VIII.- Hará constar en que forma le fue acreditada la personalidad de quien comparezca en representación de otro, relacionando los documentos respectivos e insertando la parte conducente, o bien agregándolos al apéndice y haciendo mención de ellos en el instrumento.
 
 IX.- Insertará, en lo conducente, cualesquiera otros documentos que se le presenten, o en su caso, agregará el original o la copia certificada que de él se tome, al legajo respectivo del apéndice. Esto último hará con los planos y documentos redactados en idioma extranjero, que se le exhiban.
 
@@ -745,15 +783,21 @@ XV.- Cuando los intervinientes firmaren en foja distinta de la del instrumento, 
 
 XVI.- Si los intervinientes quisieren hacer alguna adición, aclaración o variación antes de que el acta haya sido autorizada definitivamente por el Notario, si hubiere espacio sufiicente (sic), se asentará tal adición o modificación sin dejar huecos en blanco, mediante la declaración de que se leyó aquella, la cual será suscrita por todos los intervinientes y el Notario, quien sellará así mismo al pie, la adición o variación convenida.
 
+(ADICIONANDO, P.O. 4 DE OCTUBRE DE 1983)
+
+En las escrituras de adquisición de propiedad en común o individual, en las que intervengan más de 10 adquirentes, éstos podrán designar un representante común, mediante simple escrito firmado ante dos testigos y en el cual conste que ese representante obra en nombre, por cuenta y con dinero que ya le expensaron sus mandantes. Dicho escrito se agregará al Apéndice y se insertará en los testimonios o en las hijuelas de tales escrituras.
+
 ###### Artículo 106.
 
 Firmada la escritura por todos los otorgantes y por los testigos e intérpretes, en su caso, inmediatamente después será autorizada preventivamente por el Notario, con la razón "ante mí", su firma y su sello.
 
 Cuando la escritura no fuere firmada en su fecha o no lo fuere simultáneamente por todos los interesados, el Notario irá poniendo el "ante mí", con su sello, firma y la fecha de ésta, a medida que vaya siendo firmada por las partes. Lo mismo hará cuando se haya terminado de firmar por todos los intervinientes, con lo cual, la escritura quedará autorizada preventivamente.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 107.
 
-El Notario deberá autorizar definitivamente la escritura, al pie de la misma, cuando esté pagado el impuesto del timbre, si se causare.
+El Notario deberá autorizar definitivamente la escritura, al pie de la misma, cuando haya cumplido con todas las obligaciones que le impone el Código Fiscal de la Federación.
 
 La autorización definitiva contendrá la fecha y lugar en que se haga y la firma y sello del Notario.
 
@@ -773,9 +817,11 @@ III.- Si ninguno de los intervinientes hubieren firmado se estará a lo establec
 
 Si todos los que aparecen como otorgantes en una escritura no se presentan a firmarla, con sus testigos e intérpretes en su caso, dentro del término de 30 días naturales contados a partir del siguiente al de la fecha en que el instrumento se extendió en el protocolo, ésta quedará sin efecto, y el Notario pondrá al pie de la misma y firmará, la razón de "No pasó".
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 110.
 
-Si el instrumento fuere firmado dentro del término a que se refiere el artículo anterior, pero no se hubiere pagado el impuesto del timbre, dentro del plazo que para este efecto concede la Ley de la materia, el Notario pondrá y firmará la nota de "No pasó". La razón de autorización en caso de revalización (sic), se pondrá al margen de la escritura.
+Si el instrumento fuera firmado dentro del término a que se refiere el artículo anterior y los interesados no hubieren pagado los impuestos o derechos causados, el Notario pondrá y firmará la nota de "NO PASO". La razón de autorización de revalidación se pondrá al margen de la escritura.
 
 ###### Artículo 111.
 
@@ -883,7 +929,7 @@ El Notario no expedirá testimonio o copia parcial, cuando por la omisión de lo
 
 ###### Artículo 129.
 
-Sólo a los otorgantes y a sus causahabientes, en su caso, podrán expedirse testimonios.
+Sólo a los otorgantes y a sus causa-habientes, en su caso, podrán expedirse testimonios.
 
 ###### Artículo 130.
 
@@ -991,13 +1037,19 @@ Las cretificaciones (sic) notariales carecerán de validez en los casos previsto
 
 El Notario tiene derecho a separarse del despacho de la Notaría, observándose lo siguiente:
 
-I.- Si tuviere Auxiliar o estuviere asociado con otro Notario y la separación fuere por más de 90 días hábiles, deberá hacerlo mediante licencia que le concederá la Secretaría General de Gobierno, y será substituido en sus funciones por uno u otro según el caso.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
 
-II.- Si no tuviere Auxiliar, o no estuviere asociado, pero tuviere suplente de acuerdo con esta Ley, la separación no podrá exceder de 60 días hábiles, sin el previo permiso de la Secretaría General de Gobierno. En los casos de ausencia inferiores a 15 días, el Titular podrá requerir la intervención de su suplente para que lo substituya dándose aviso de ello a la Secretaría General de Gobierno.
+I.- Si tuviere Auxiliar o estuviere asociado con otro Notario y la separación fuere por más de 90 días hábiles, deberá hacerlo mediante licencia que le concederá la Secretaría de Gobernación, y será substituido en sus funciones por uno u otro según el caso.
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+II.- Si no tuviere Auxiliar, o no estuviere asociado, pero tuviere suplente de acuerdo con esta Ley, la separación no podrá exceder de 60 días hábiles, sin el previo permiso de la Secretaría de Gobernación. En los casos de ausencia inferiores a 15 días, el Titular podrá requerir la intervención de su suplente para que lo substituya dándose aviso de ello a la Secretaría de Gobernación.
 
 En las ausencias mayores de 15 días, o en cualquier caso en que la ausencia del Titular se deba a incapacidad física para actuar, necesariamente deberá entrar en funciones el suplente, dándose el aviso antes mencionado.
 
-III.- Si por cualquier circunstancia el Notario no tiene quien lo supla en su ausencia, ésta no podrá exceder de 30 días sin licencia de la Secretaría General, en cuyo caso se depositará su archivo, en el General de Notarías, o bien en el Juzgado de Primera Instancia, respectivo, si residiere fuera de la Capital del Estado. Lo anterior, sin perjuicio de la obligación que tiene de celebrar el convenio de suplencia o dar aviso de la falta de suplente.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+III.- Si por cualquier circunstancia el Notario no tiene quien lo supla en su ausencia, ésta no podrá exceder de 30 días sin licencia de la Secretaría de Gobernación, en cuyo caso se depositará su archivo, en el General de Notarías, o bien en el Juzgado de Primera Instancia, respectivo, si residiere fuera de la Capital del Estado. Lo anterior, sin perjuicio de la obligación que tiene de celebrar el convenio de suplencia o dar aviso de la falta de suplente.
 
 IV.- Las licencias a que se refiere esta Ley constituyen un derecho para el Notario, y por tanto son renunciables, pero no podrán exceder de 3 años consecutivos. Sin embargo, en el caso de que el Notario fuere designado o electo para el desempeño de otro cargo público, tiene derecho a licencia para separarse del despacho de la Notaría, por todo el tiempo que dure el ejercicio del nuevo cargo.
 
@@ -1061,9 +1113,13 @@ III.- No desempeñar el Notario por sí mismo las funciones que la Ley le encomi
 
 IV.- Siempre que dé lugar a reiteradas quejas comprobadas por falta de probidad, o que se hicieren patentes sus vicios y malas costumbres, observándose en tales casos, lo dispuesto por el Artículo 173 de esta Ley.
 
-V.- Si el Notario no conservare, o si se hiciere insuficiente, la garantía que la presente Ley determina y no cuidare de completarla o reponerla, en el término que prudentemente se le fije por la Secretaría General de Gobierno, el cual no podrá pasar de 30 días.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
 
-VI.- Cuando se imposibilite temporalmente para el ejercicio de sus funciones por más de 3 años consecutivos, debiendo su auxiliar, asociado o suplente, dar el aviso correspondiente a la Secretaría General.
+V.- Si el Notario no conservare, o si se hiciere insuficiente, la garantía que la presente Ley determina y no cuidare de completarla o reponerla, en el término que prudentemente se le fije por la Secretaría de Gobernación, el cual no podrá pasar de 30 días.
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+VI.- Cuando se imposibilite temporalmente para el ejercicio de sus funciones por más de 3 años consecutivos, debiendo su auxiliar, asociado o suplente, dar el aviso correspondiente a la Secretaría de Gobernación.
 
 VII.- Cuando se imposibilite definitivamente, estimándose que queda imposibilitado, entre otros casos, si padece alguna enfermedad contagiosa e incurable o si se volviera totalmente sordo o ciego, o cuando por su avanzada edad, no esté en condiciones de desempeñar su cargo, a juicio del Gobernador del Estado, quien para el efecto, oirá previamente el parecer del Consejo de Notarios, basado en los dictámenes de 2 médicos especialistas, designados por el propio Consejo.
 
@@ -1071,13 +1127,17 @@ VII.- Cuando se imposibilite definitivamente, estimándose que queda imposibilit
 
 En los casos previstos por los 3 artículos anteriores el Ejecutivo del Estado, hará la declaración de que queda sin efecto la patente respectiva y se procederá a cubrir la vacante.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 153.
 
-Siempre que se declare judicialmente la interdicción de algún Notario, el Juez respectivo, de oficio, comunicará el hecho al Secretario General de Gobierno y al Consejo de Notarios.
+Siempre que se declare judicialmente la interdicción de algún Notario, el Juez respectivo, de oficio, comunicará el hecho al Secretario de Gobernación y al Consejo de Notarios.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 154.
 
-Los encargados de las Oficinas del Registro Civil ante quienes se denuncie el fallecimiento de un Notario, lo comunicarán inmediatamente al Secretario General de Gobierno. Lo mismo hará el Consejo de Notarios, al tener conocimiento del deceso.
+Los encargados de las Oficinas del Registro Civil ante quienes se denuncie el fallecimiento de un Notario, lo comunicarán inmediatamente al Secretario de Gobernación. Lo mismo hará el Consejo de Notarios, al tener conocimiento del deceso.
 
 ###### Artículo 155.
 
@@ -1107,9 +1167,11 @@ En caso de oposición a la cancelación de la garantía, la controversia que por
 
 ### CAPITULO CUARTO. Clausura del Protocolo
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 159.
 
-En caso de cesación definitiva del Notario, si no tuviere auxiilar (sic), ni asociado, ni suplente, mientras se nombra otro, cuando proceda, la Secretaría General de Gobierno acordará la clausura del protocolo debiendo recogerse por la persona que al efecto designe, el sello, protocolo, y cuantos documentos relacionados con el servicio de la Notaría existan en las Oficinas de la misma, con intervención del Presidente y del Secretario del Consejo de Notarios.
+En caso de cesación definitiva del Notario, si no tuviere auxiilar (sic), ni asociado, ni suplente, mientras se nombra otro, cuando proceda, la Secretaría de Gobernación acordará la clausura del protocolo debiendo recogerse por la persona que al efecto designe, el sello, protocolo, y cuantos documentos relacionados con el servicio de la Notaría existan en las Oficinas de la misma, con intervención del Presidente y del Secretario del Consejo de Notarios.
 
 ###### Artículo 160.
 
@@ -1119,9 +1181,11 @@ En caso de clausura de un protocolo, por cualquier causa distinta del fallecimie
 
 El inventario a que se refieren los artículos anteriores incluirá todos los libros que conforme a la Ley, deben llevarse y sus apéndices, los valores depositados, los testamentos cerrados que estén en guarda, con expresión del estado en que se encuentran sus cubiertas y sellos, los expedientes y cualesquiera otros documentos del Archivo y clientela de la Notaría. Además, se formará otro inventario de los muebles, valores y documentos personales del Notario, para que con la intervención del Consejo sean entregados a la persona que corresponda.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 162.
 
-En todo caso de clausura de un protocolo, se oondrá (sic) razón en cada uno de los libros abiertos, que contendrá la fecha de la diligencia, la causa que motiva el cierre y las demás circunstancias que se estimen convenientes, suscribiendo dicha razón con sus firmas los intervinientes. De todas las diligencias relativas a la clausra (sic) de un protocolo, se levantará acta por triplicado que será firmada igualmente por todos los intervinientes, remitiéndose un ejemplar a la Secretaría General de Gobierno, otro al Consejo de Notarios, y entregándose el último al Notario o a quien lo represente.
+En todo caso de clausura de un protocolo, se oondrá (sic) razón en cada uno de los libros abiertos, que contendrá la fecha de la diligencia, la causa que motiva el cierre y las demás circunstancias que se estimen convenientes, suscribiendo dicha razón con sus firmas los intervinientes. De todas las diligencias relativas a la clausra (sic) de un protocolo, se levantará acta por triplicado que será firmada igualmente por todos los intervinientes, remitiéndose un ejemplar a la Secretaría de Gobernación, otro al Consejo de Notarios, y entregándose el último al Notario o a quien lo represente.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
 
@@ -1151,9 +1215,11 @@ En cualquier caso en que el protocolo no quede regularizado por los Notarios sub
 
 Una vez clausurado un protocolo, se remitirá al Archivo General de Notarías con sus apéndices y demás documentos, y cuanto más constituya el inventario de la Notaría levantado al efecto.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 169.
 
-El Notario que por cualquier causa reciba una Notaría, deberá siempre hacerlo por riguroso inventario, con asistencia de un representante de la Secretaría General de Gobierno y otro del Consejo de Notarios, levantándose de esta diligencia, acta por triplicado, uno de cuyos ejemplares se remitirá a la Secretaría General de Gobierno, otro al Archivo General de Notarías y el último, quedará en poder del Notario que la reciba.
+El Notario que por cualquier causa reciba una Notaría, deberá siempre hacerlo por riguroso inventario, con asistencia de un representante de la Secretaría de Gobernación y otro del Consejo de Notarios, levantándose de esta diligencia, acta por triplicado, uno de cuyos ejemplares se remitirá a la Secretaría de Gobernación, otro al Archivo General de Notarías y el último, quedará en poder del Notario que la reciba.
 
 Si el Notario no deseare recibir los archivos y el protocolo anteriores, continuarán depositados en el Archivo General de Notarías, y aquél se proveerá de nuevos libros.
 
@@ -1171,6 +1237,8 @@ Las infracciones a esta Ley, cometidas por los Notarios y que no constituyan un 
 
 En los casos de faltas administrativas, las sanciones correspondientes se impondrán por la autoridad administrativa, en los términos de esta Ley, tomando en cuenta la gravedad y demás circunstancias que concurran en el caso de que se trate.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 172.
 
 Las referidas sanciones administrativas serán las siguientes:
@@ -1183,17 +1251,19 @@ III.- Suspensión del cargo hasta por un mes.
 
 IV.- Remoción con cancelación de la patente.
 
-Las sanciones a que se refieren las fracciones I y II, serán impuestas por el Secretario General de Gobierno y las comprendidas en las fracciones III y IV, por acuerdo expreso del Gobernador del Estado.
+Las sanciones a que se refieren las fracciones I y II, serán impuestas por el Secretario de Gobernación y las comprendidas en las fracciones III y IV, por acuerdo expreso del Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
 ###### Artículo 173.
 
-Al tener conocimiento el Secretario General de Gobierno, de alguna violación cometida por un Notario y que quede comprendida dentro de lo previsto por el artículo 173, procederá como sigue:
+Al tener conocimiento el Secretario de Gobernación, de alguna violación cometida por un Notario y que quede comprendida dentro de lo previsto por el artículo 173, procederá como sigue:
 
 Si no hubieren presentado pruebas de la violación, o cuando se considere necesario, se mandarán practicar las investigaciones que se juzguen adecuadas. En todo caso se hará saber al Notario la violación de que se trate, y se le señalará un término de 40 días, para que aporte las pruebas y produzca los alegatos que estime pertinentes.
 
 Transcurrido este término, se solicitará la opinión del Consejo de Notarios, cuando no la haya emitido antes.
 
-Cuando el Consejo de Notarios sea el primero en tener conocimiento de la violación, practicará una investigación por conducto del Notario que para ello designe y del resultado de aquella, dará cuenta al Secretario General de Gobierno, haciéndole saber su opinión.
+Cuando el Consejo de Notarios sea el primero en tener conocimiento de la violación, practicará una investigación por conducto del Notario que para ello designe y del resultado de aquella, dará cuenta al Secretario de Gobernación, haciéndole saber su opinión.
 
 El expresado funcionario continuará el procedimiento con los trámites ya indicados en este artículo.
 
@@ -1203,9 +1273,11 @@ Una vez que esté concluida la investigación, la autoridad administrativa corre
 
 Para proceder contra los Notarios del Estado por los delitos que se les imputen en el ejercicio de sus funciones, se practicará previamente una investigación en los términos de las siguientes disposiciones.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 175.
 
-Las acusaciones a que se refiere el artículo anterior, se presentarán ante el Secretario General de Gobierno, quien llevará el asunto al acuerdo del Jefe del Ejecutivo, a efecto de que éste designe una Comisión investigadora integrada por el propio Secretario General o quien lo represente; por otro abogado designado por el propio Ejecutivo; por el Presidente del Consejo de Notarios del Estado, o por quien haga sus veces, y por el Notario que designe el propio Consejo.
+Las acusaciones a que se refiere el artículo anterior, se presentarán ante el Secretario de Gobernación, quien llevará el asunto al acuerdo del Jefe del Ejecutivo, a efecto de que éste designe una Comisión investigadora integrada por el propio Secretario de Gobernación o quien lo represente; por otro abogado designado por el propio Ejecutivo; por el Presidente del Consejo de Notarios del Estado, o por quien haga sus veces, y por el Notario que designe el propio Consejo.
 
 ###### Artículo 176.
 
@@ -1227,9 +1299,11 @@ Rendidas las pruebas ofrecidas, se pondrá el expediente a la vista del acusador
 
 Transcurridos los términos que señala el artículo anterior, presentados o no los alegatos, la Comisión Instructora formulará su dictamen, debidamente fundado y motivado, con vista de las constancias con expresión de las circunstancias que ameriten o no la consignación.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 180.
 
-La Comisión instructora tomará sus decisiones por mayoría de votos; si hubiere empate, cada integrante de la misma formulará su voto particular y el expediente se enviará a la Secretaría General de Gobierno, a fin de que el Ejecutivo dicte la resolución que a su juicio corresponda.
+La Comisión instructora tomará sus decisiones por mayoría de votos; si hubiere empate, cada integrante de la misma formulará su voto particular y el expediente se enviará a la Secretaría de Gobernación, a fin de que el Ejecutivo dicte la resolución que a su juicio corresponda.
 
 ###### Artículo 181.
 
@@ -1239,11 +1313,13 @@ De la responsabilidad civil en que incurran los Notarios conocerán los Tribunal
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 182.
 
-El Secretario General de Gobierno, por medio del representante que al efecto dsigne (sic) podrá acordar y llevar a la práctica visitas a las Notarías, para verificar si los Notarios ajustan sus actos a las disposiciones legales aplicables al ejercicio del Notariado. En tal caso, lo comunicará al Consejo de Notarios para que éste designe un representante que intervenga en la visita.
+El Secretario de Gobernación, por medio del representante que al efecto dsigne (sic) podrá acordar y llevar a la práctica visitas a las Notarías, para verificar si los Notarios ajustan sus actos a las disposiciones legales aplicables al ejercicio del Notariado. En tal caso, lo comunicará al Consejo de Notarios para que éste designe un representante que intervenga en la visita.
 
-El representante del Consejo deberá ser Notario en ejercicio y si el que designe la Secretaría General de Gobierno, no fuere Notario, deberá asesorarse en la práctica de la visita por un Notario en ejercicio.
+El representante del Consejo deberá ser Notario en ejercicio y si el que designe la Secretaría de Gobernación, no fuere Notario, deberá asesorarse en la práctica de la visita por un Notario en ejercicio.
 
 ###### Artículo 183.
 
@@ -1269,9 +1345,11 @@ Las visitas se practicarán en las Oficinas del Notario, en días y horas hábil
 
 Se levantará acta de la diligencia y en ella harán constar los visitadores la regularidad o las infracciones que hayan encontrado y consignará en general los puntos en que la Ley no haya sido fielmente cumplida y los datos y fundamentos que el Notario exponga en su defensa. Este tendrá derecho a un duplicado del acta firmada por los visitadores y por él mismo.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 187.
 
-Es facultad del Consejo de Notarios practicar visitas a los Notarios cuando lo juzgue conveniente y en caso de queja contra la actuación de un Notario deberá practicarla salvo que lo juzgare improcedente, lo que comunicará a la Secretaría General de Gobierno y al quejoso.
+Es facultad del Consejo de Notarios practicar visitas a los Notarios cuando lo juzgue conveniente y en caso de queja contra la actuación de un Notario deberá practicarla salvo que lo juzgare improcedente, lo que comunicará a la Secretaría de Gobernación y al quejoso.
 
 ## TITULO DECIMO PRIMERO. Remuneración del Notario
 
@@ -1447,9 +1525,11 @@ T R A N S I T O R I O S .
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 212.
 
-Habrá en la Ciudad de Puebla, un Archivo General de las Notarías Públicas del Estado.- El Archivo General de Notarías es una dependencia de la Secretaría General de Gobierno.
+Habrá en la Ciudad de Puebla, un Archivo General de las Notarías Públicas del Estado.- El Archivo General de Notarías es una dependencia de la Secretaría de Gobernación.
 
 ###### Artículo 213.
 
@@ -1465,13 +1545,19 @@ III.- Con los sellos de los Notarios que deben depositarse e inutilizarse confor
 
 El Archivo General de Notarías estará a cargo de un Director, designado por el Ejecutivo del Estado y tendrá las siguientes atribuciones y obligaciones:
 
-I.- Asistir todos los días hábiles al despacho de su oficina, de acuerdo con las prescripciones de la Secretaría General.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+I.- Asistir todos los días hábiles al despacho de su oficina, de acuerdo con las prescripciones de la Secretaría de Gobernación.
 
 II.- Cuidar de que siempre permanezcan dentro del local del archivo los protocolos, libros y demás documentos que forman dicho archivo, sin que sea lícito extraerlos en ningún caso, ni pretexto de trabajos urgentes o extraordinarios.
 
-III.- Comunicar por escrito a la Secretaría General, cualquier falta en que incurran sus subalternos.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
 
-IV.- Cuidar de la seguridad y buen orden de los Archivos a su cargo, tomando las precauciones necesarias y sugiriendo a la Secretaría General todas las medidas pertinentes.
+III.- Comunicar por escrito a la Secretaría de Gobernación, cualquier falta en que incurran sus subalternos.
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+IV.- Cuidar de la seguridad y buen orden de los Archivos a su cargo, tomando las precauciones necesarias y sugiriendo a la Secretaría de Gobernación todas las medidas pertinentes.
 
 V.- Llevar un registro anual y alfabético por el primer apellido del otorgante, de los testamentos públicos cuyo otorgamiento les comuniquen los Notarios, en el que consten además el nombre y el segundo apellido del interesado, la fecha del otorgamiento, el número del instrumento y el de la Notaría correspondiente, así como el nombre y apellidos del Notario y de contarse con el dato, los nombres y apellidos de los padres del testador.
 
@@ -1481,11 +1567,15 @@ VII.- Llevar un registro de los sellos y de las firmas de los Notarios del Estad
 
 VIII.- Cuidar de que sólo los Notarios tomen en su presencia las notas que necesiten, no pudiendo por lo tanto, confiar a los particulares la busca o registro de documento, libro o protocolo alguno de los pertenecientes al Archivo.
 
-IX.- Presentar a la Secretaría General los libros nuevos en blanco para el protocolo, que le envíen los Notarios y cuidar de que dichos libros sean requisitados con la anticipación debida y devueltos a aquéllos.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+IX.- Presentar a la Secretaría de Gobernación los libros nuevos en blanco para el protocolo, que le envíen los Notarios y cuidar de que dichos libros sean requisitados con la anticipación debida y devueltos a aquéllos.
 
 X.- Intervenir en la clausura de los protocolos, conforme a esta Ley.
 
-XI.- Rendir los informes que le pida la Secretaría General de Gobierno.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+XI.- Rendir los informes que le pida la Secretaría de Gobernación.
 
 XII.- Expedir a los particulares interesados, cuando proceda legalmente, las copias certificadas y testimonios que pidieren de las escrituras o actas notariales registradas en los protocolos cuyo depósito y conservación le encomienda la presente Ley; sujetándose en la expedición de dichos testimonios a las reglas establecidas respecto de los Notarios.
 
@@ -1493,7 +1583,9 @@ XIII.- Ejercitar las funciones notariales que le corresponden de acuerdo con est
 
 XIV.- Llevar un registro de Notarios en el cual se asiente la fecha de su nombramiento y aquélla en que hayan dejado de ejercer el cargo.
 
-XV.- Llevar los índices generales, según las reglas que acuerde la Secretaría General.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1983)</small>
+
+XV.- Llevar los índices generales, según las reglas que acuerde la Secretaría de Gobernación.
 
 XVI.- Las demás atribuciones que sean propias y naturales del cargo o que las Leyes le impongan.
 
@@ -1501,9 +1593,11 @@ XVI.- Las demás atribuciones que sean propias y naturales del cargo o que las L
 
 El Director del Archivo usará en los testimonios o copias que expida, en sus comunicaciones y demás documentos oficiales un sello similar al de los Notarios en cuanto a su forma y demás características y en cuya circunferencia dirá: "Archivo General de Notarías del Estado de Puebla".
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+
 ###### Artículo 216.
 
-El Director será responsable personalmente de la custodia y conservación de todos los libros y documentos que consten en su Archivo, así como de las violaciones y faltas que cometa a los preceptos de esta Ley, y será sancionado por el Ejecutivo del Estado en la forma aplicable al personal dependiente de la Secretaría General de Gobierno.
+El Director será responsable personalmente de la custodia y conservación de todos los libros y documentos que consten en su Archivo, así como de las violaciones y faltas que cometa a los preceptos de esta Ley, y será sancionado por el Ejecutivo del Estado en la forma aplicable al personal dependiente de la Secretaría de Gobernación.
 
 ###### Artículo 1.
 
@@ -1534,3 +1628,9 @@ Por tanto mando se imprima, publique y circule para sus Efectos. Dado en el Pala
 P.O. 6 DE AGOSTO DE 1976.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE OCTUBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
