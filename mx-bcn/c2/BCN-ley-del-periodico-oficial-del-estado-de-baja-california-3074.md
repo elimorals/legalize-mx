@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-periodico-oficial-del-estado-de-baja-california-3074"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-10"
-last_updated: "1992-11-10"
+last_updated: "1999-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1992.
 
@@ -103,7 +103,13 @@ En caso de notoria urgencia, se publicarán en cualquier fecha, las leyes, decre
 
 La Oficialía Mayor de Gobierno propondrá el precio de venta por ejemplar del día, atrasados del año en curso, de años anteriores y de ediciones especiales, así como suscripciones anuales y el cobro por inserciones, para que sea comprendido en la Ley de Ingresos del Estado en vigor para el año de que se trate.
 
-En los casos de los Tres Poderes del Estado y de los Ayuntamientos de los Municipios será distribuido gratuitamente.
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1999)</small>
+
+Los Ayuntamientos del Estado no estarán obligados al pago de contribuciones tratándose de las publicaciones de Acuerdos de Cabildo, Leyes de Ingresos, Tablas de Valores Catastrales, Presupuestos de Egresos, Reglamentos y de sus Estados Financieros.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1999)</small>
+
+En los casos de los Tres Poderes del Estado y de los Ayuntamientos de los Municipios el Periódico Oficial será distribuido gratuitamente.
 
 T R A N S I T O R I O S
 
@@ -144,3 +150,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ABRIL DE 1999.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
