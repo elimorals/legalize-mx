@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2003-06-03"
+last_updated: "2003-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -419,9 +419,9 @@ II.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2000)
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-III.- A todos los partidos políticos que hayan obtenido por lo menos el 1.5% del total de la votación estatal emitida, se les asignará una Diputación; y
+III.- A todos los partidos políticos que hayan obtenido por lo menos el 2% del total de la votación estatal emitida, se les asignará un diputado; y
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -1031,7 +1031,7 @@ Las votaciones de leyes serán nominales.
 
 En las normas sobre el funcionamiento interno del Congreso se contendrán las reglas que deberán observarse para la discusión, votación y formación de las leyes, decretos y acuerdos.
 
-Ninguna inciativa de ley o decreto que sea desechada podrá volver a presentarse en el mismo periodo de sesiones, salvo lo dispuesto para las Leyes de Ingresos del Estado o de los Municipios, y el Presupuesto de Egresos del Estado.
+Ninguna iniciativa de ley o decreto que sea desechada podrá volver a presentarse en el mismo periodo de sesiones, salvo lo dispuesto para las Leyes de Ingresos del Estado o de los Municipios, y el Presupuesto de Egresos del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1371,9 +1371,9 @@ XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere 
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O.1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-XXXIII.- Concurrir a la apertura de los Períodos de Sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta en Sesión Pública Extraordinaria del Congreso, que se verificará el último domingo del mes de octubre de cada año.
+XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre la misma en sesión pública, extraordinaria y solemne del Congreso que se verificará el último domingo del mes de noviembre de cada año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1790,6 +1790,14 @@ Toda parte interesada puede interponer queja ante el Supremo Tribunal de Justici
 DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 153.
+
+No se requerirá declaración de procedencia del Congreso cuando alguno de los servidores públicos a que hace referencia el Artículo 152 cometa un delito durante el tiempo que se encuentre separado de su encargo.
+
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados del Artículo 152, se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO III. De los Tribunales Inferiores
 
@@ -2727,7 +2735,7 @@ P.O. 12 DE DICIEMBRE DE 1953.
 
 > <small>(F. DE E. 19 DE DICIEMBRE DE 1953)</small>
 
-UNICO.-Este Decreto comenzará a surtir sus efectos a partir de la fecha de su expedición.
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su expedición.
 
 P.O. 3 DE MARZO DE 1954.
 
@@ -2737,7 +2745,9 @@ P.O. 30 DE ENERO DE 1957.
 
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 20 DE FEBRERO DE 1960. (REPUBLICADO, P.O. 12 DE MARZO DE 1960)
+P.O. 20 DE FEBRERO DE 1960.
+
+REPUBLICADO, P.O. 12 DE MARZO DE 1960.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -3039,7 +3049,7 @@ P.O. 22 DE JUNIO DE 1988.
 
 Este Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
 
-P.O.1 DE ABRIL DE 1989.
+P.O. 1 DE ABRIL DE 1989.
 
 ###### ARTICULO UNICO.
 
@@ -3292,6 +3302,18 @@ P.O. 3 DE JUNIO DE 2003.
 DECRETO No. 286.
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2003.
+
+DECRETO NO. 364 QUE REFORMA LA FRACCION III DEL ART. 27.
+
+Artículo Único: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE OCTUBRE DE 2003.
+
+DECRETO NO. 365 QUE REFORMA LA FRACCION XXXIII DEL ARTICULO 91.
+
+Artículo Único.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1º de enero de 2004.
 
 ###### ARTICULO UNICO.
 
