@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "1995-09-01"
+last_updated: "2001-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -271,9 +271,65 @@ El Secretario General de Acuerdos, Secretario Auxiliares y Actuarios tendrán fe
 
 Los gobernados y autoridades podrán registrar los poderes notariales o nombramientos, respectivamente, en el libro de control a cargo de cualquiera de las Salas del Tribunal, para el efecto de acreditar su personalidad en los juicios y recursos en que intervengan. Se registrarán de oficio las resoluciones definitivas que los organismos competentes formulen respecto de la elección popular de servidores públicos locales. En caso de duda, la Sala de conocimiento solicitará se le remita certificación del registro respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 39.
 
-Los expedientes en trámite se conservarán en el archivo interno de cada Sala. Los que estén concluidos se remitirán al archivo general del Tribunal, para su resguardo.
+Los originales de los expedientes de los juicios concluidos se conservarán en el archivo interno de cada Sala. Los duplicados de dichos expedientes serán destruidos bajo la supervisión del Magistrado Numerario correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO SEPTIMO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 40.
+
+Las responsabilidades de todos los servidores públicos del Tribunal, se regirán por el Título Octavo, Capítulo Unico de la constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos en lo que resulte conducente. Para estos efectos, las facultades en la materia, se entenderán atribuidas a la Comisión de Responsabilidades y Situación Patrimonial.
+
+Los Magistrados del Tribunal, solo podrán ser removidos de sus cargos, en los términos de la Constitución Política del Estado y de la Ley del Tribunal.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 41.
+
+La comisión de Responsabilidades y Situación Patrimonial, es el órgano del Tribunal, en lo que a la materia se refiere y en lo relativo a vigilancia y disciplina, en los términos de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 42.
+
+La Comisión de Responsabilidades y Situación Patrimonial, se integrará por todos los Magistrados del Tribunal, y será presidida por el Magistrado que se designe por mayoría de votos de sus integrantes en la Primera Sesión de Pleno del Tribunal cada año. La Comisión será de carácter permanente y sesionará en las oficinas sede del Tribunal, cuantas veces sea necesario.
+
+El Titular de la Unidad Administrativa del Tribunal, fungirá como Secretario de la Comisión y asistirá a las sesiones de la Comisión con voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 43.
+
+Para que la Comisión sesione válidamente, será necesaria la presencia de la mayoría de sus integrantes.
+
+Los miembros de la Comisión no podrán abstenerse de votar, salvo el caso de excusa o impedimento legal.
+
+Las resoluciones de la Comisión se adoptarán por unanimidad o por mayoría de sus integrantes. El miembro de la Comisión que disintiere de la mayoría podrá formular voto particular, dentro del término de cinco días hábiles.
+
+Las sesiones de la Comisión serán de carácter privado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 44.
+
+La Comisión tendrá las siguientes atribuciones:
+
+I.- Actuar como instancia receptora de quejas y denuncias por conducto de su Presidente.
+
+II.- Practicar las diligencias necesarias para la investigación de las quejas y denuncias, por quien o quienes sean designados por la Comisión.
+
+III.- Imponer los correctivos disciplinarios y las sanciones administrativas, en los términos del presente Reglamento.
+
+IV.- Aprobar los formatos para las declaraciones de situación patrimonial.
+
+V.- Recibir, registrar y resguardar las declaraciones de situación patrimonial de los servidores del Tribunal, por conducto de su Secretario.
 
 TRANSITORIOS:
 
@@ -316,3 +372,11 @@ UNICO.- Las presentes Reformas y Adiciones entrarán en vigor al día siguiente 
 P.O. 1 DE SEPTIEMBRE DE 1995.
 
 UNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+PRIMERO.- Las reformas y adiciones al Reglamento del Tribunal, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las reformas y adiciones al Reglamento, deberán publicase en el Boletín del Tribunal, para su difusión.
+
+TERCERO.- Dentro de los diez días hábiles siguientes a la publicación de estas reformas y adiciones, deberá quedar integrada la Comisión de Responsabilidades y Situación Patrimonial, la cual designará Presidente por el período que resta del año.
