@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1981-05-29"
+last_updated: "1982-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -623,7 +623,9 @@ XXIII.- Ratificar o rechazar los convenios que celebren el Ejecutivo con el Gobi
 
 XXIV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad.
 
-XXV.- Autorizar al Ejecutivo para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras que directamente produzcan un incremento económico, salvo los que se contraten como consecuencia de una calamidad pública, señalando en todo caso los recursos con que deban cubrirse.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+XXV.- Autorizar al Ejecutivo y a los Ayuntamientos para contratar Empréstitos a nombre del Estado y de los Municipios, Organismos Descentralizados y Empresas de Participación Estatal y Municipal, siempre que se destinen a Inversiones Públicas productivas, conforme a las bases que establezca la Ley de Deuda Pública del Estado y por los conceptos y montos que la Legislatura señale anualmente en los respectivos Presupuestos. El Ejecutivo y los Ayuntamientos en su caso, informarán de su ejercicio al rendir la Cuenta Pública.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1981)</small>
 
@@ -1616,3 +1618,7 @@ DECRETO QUE REFORMA ART. 160.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE ENERO DE 1982.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
