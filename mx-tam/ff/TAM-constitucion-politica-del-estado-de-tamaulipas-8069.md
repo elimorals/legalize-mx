@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1985-01-30"
+last_updated: "1986-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1985. (DECRETO NUMERO 147)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1986.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -113,7 +113,9 @@ III. Alistarse en la Guardia Nacional.
 
 IV. Alistarse en los Cuerpos de Policía Rural del Estado para defender su territorio y su soberanía, y para sostener su Constitución, sus leyes y autoridad.
 
-V. Inscribirse en el Padrón de su Municipalidad, manifestando la propiedad que tiene, o la industria, profesión o trabajo de que subsiste.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
+
+V. Inscribirse en el padrón de su municipalidad, manifestando la propiedad que tiene, o la industria, profesión o trabajo de que subsiste; los profesionistas además se inscribirán en el padrón que al efecto llevará la Secretaría General de Gobierno.
 
 ###### Art. 9o.
 
@@ -189,9 +191,11 @@ II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en as
 
 III. Los derechos que la Constitución General expresa bajo el título de "Garantías Individuales".
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1986)</small>
+
 ###### Art. 18.
 
-Todos los habitantes del Estado están obligados:
+Todos los habitantes del Estado estarán obligados:
 
 I. A respetar y cumplir las leyes, disposiciones y reglamentos expedidos por autoridad legítima con arreglo a sus facultades legales. Nadie podrá, para sustraerse de propia autoridad a la observancia de los preceptos legales, alegar que los ignora, que son notoriamente injustos o que pugnan con sus opiniones.
 
@@ -199,9 +203,13 @@ II. A contribuir para todos los gastos públicos de la manera proporcional y equ
 
 III. A prestar auxilio a las autoridades, cuando para ello sean legalmente requeridos.
 
-IV. A recibir la educación primaria elemental en la forma prevenida por las leyes y conforme los reglamento y programas que de acuerdo con ellos se expidiere por el Ejecutivo.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
 
-V. Hacer que sus hijos, pupilos y menores, que por cualquier título tengan a su cuidado, reciban la educación primaria con arreglo a lo prescripto en la fracción anterior.
+IV. A recibir la educación básica-preescolar, primaria y secundaria, en la forma prevenida por las leyes y conforme los planes, programas y reglamentos que se expidan por las autoridades educativas;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 1986)</small>
+
+V. Hacer que sus hijos, pupilos y menores que por cualquier título tengan a su cuidado, reciban la educación básica con arreglo a lo prescrito en la fracción anterior;
 
 VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en que residan, para recibir la instrucción cívica y militar que los mantenga aptos en el ejercicio de todos sus derechos de ciudadano, y diestros en el manejo de las armas y conocedores de la disciplina militar.
 
@@ -533,7 +541,7 @@ XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye
 
 XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios.
 
-XVIII. Nombrar al Director de Educación Pública a propuesta en terna del Ejecutivo.
+XVIII. (DEROGADA, P.O. 29 DE MARZO DE 1986)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -925,7 +933,7 @@ XII. Iniciar ante el Congreso las leyes y decretos que estime convenientes para 
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
 
-XIV. Proponer terna al Congreso para Director General de Educación Pública.
+XIV. (DEROGADA, P.O. 29 DE MARZO DE 1986)
 
 XV. Cuidar de que la justicia se administre pronta y cumplidamente por los Tribunales y Jueces del Estado y de que se ejecuten sus sentencias.
 
@@ -1457,37 +1465,47 @@ Una ley organizará la Administración Municipal, fijando el número de Regidore
 
 ## TITULO X. SECCION DE ADMINISTRACION GENERAL
 
-### CAPITULO I. De la Enseñanza Pública
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MARZO DE 1986)</small>
+
+### CAPITULO I. De la Educación Pública
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 138.
 
-Es obligación del Estado impartir y fomentar enseñanza pública en todos sus grados y muy especialmente la primaria.
+La educación que impartan el Estado y los Municipios será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 139.
 
-La Educación Primaria Elemental o en su defecto la rudimentaria, será obligatoria para todos los habitantes del Estado y uniforme hasta donde sea posible.
+La educación que imparta directamente el Estado en todos sus niveles será gratuita y obligatoria la básica. Los habitantes de la Entidad tendrán las mismas oportunidades de acceso al Sistema Educativo Estatal.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 140.
 
-La enseñanza primaria que se imparta en las Escuelas Oficiales será gratuita y ésta, y la que se dé en los establecimientos particulares, se sujetarán a los prescrito en el artículo 3º. de la Constitución Federal.
+El sistema educativo estatal se constituye por la educación que impartan el Estado, los Municipios o sus organismos descentralizados, la Universidad Autónoma de Tamaulipas y los particulares a quienes se autorice a impartir educación o se les reconozca validez oficial de estudios, mediante el cumplimiento de los requisitos y condiciones que establezca la Ley reglamentaria, ciñéndose a lo prescrito en el Artículo Tercero de la Constitución Federal y sujetándose siempre a la vigilancia e inspección oficiales.
+
+En todo tiempo el Ejecutivo del Estado podrá, de acuerdo con lo dispuesto en la Ley reglamentaria, otorgar, negar, revocar o retirar la autorización o el reconocimiento de validez oficial a los estudios efectuados en los planteles particulares.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 141.
 
-El Estado protegerá la Enseñanza Profesional. No podrán ejercerce en el Estado las profesiones de Médico, Abogado, Ingeniero, Farmacéutico y otras, sin que sean llenados los requisitos establecidos en la Ley Orgánica respectiva.
+La Dirección Técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de una dependencia que se denominará Dirección General del Educación y Cultura, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 142.
 
-El Estado considera altamente honroso y meritorio servir a la educación pública y enaltecer el ejercicio del Magisterio de educación primaria. La ley determinará las recompensas y distinciones a los Profesores, en atención a mérito de sus labores y a la antigüedad de sus servicios.
+La Ley determinará cuales son las profesiones que necesitan título para su ejercicio, las condiciones que deben llenarse para obtenerlo, las Autoridades que han de expedirlo y los límites y condiciones del ejercicio profesional, el que sólo podrá vedarse cuando se ataquen los derechos de terceros o se ofendan los derechos de la sociedad.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 143.
 
-La Dirección Técnica de las Escuelas Oficiales en el Estado y la administración y distribución de los fondos propios de la Hacienda escolar, estará a cargo del Ejecutivo, por conducto de un Departamento que se denominará "DIRECCION GENERAL DE ENSEÑANZA PUBLICA EN TAMAULIPAS," una ley organizará esta y el número y modo de designación de sus agentes en cada Municipalidad.
-
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 1937)</small>
-
-No obstante lo dispuesto por el párrafo anterior, queda facultado el Ejecutivo para celebrar con el Gobierno Federal, Convenios sobre coordinación de los servicios de enseñanza, pero en dichos convenios deberá reservarse el Ejecutivo la intervención que se estime necesaria para el buen desempeño de la educación pública, y deberá también asegurarse la estabilidad de los profesores al servicio del Estado.
+El Ejecutivo podrá celebrar con la Federación y los Municipios, convenios sobre coordinación de los Servicios de Educación Pública, reservándose las facultades necesarias y asegurando la estabilidad de los Profesores al servicio del Estado; se determinará en la Ley los estímulos y recompensas a los Profesores, en atención al mérito de sus labores y a la antigüedad de sus servicios.
 
 ### CAPITULO II. De la Higiene Pública
 
@@ -2180,3 +2198,7 @@ P.O. 30 DE ENERO DE 1985.
 DECRETO No. 147.
 
 UNICO.- El presente Decreto inicia su vigencia un día después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MARZO DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor un día después al de su publicación en el Periódico Oficial del Estado.
