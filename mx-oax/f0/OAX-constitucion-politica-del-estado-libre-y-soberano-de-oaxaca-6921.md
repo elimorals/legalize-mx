@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1950-01-07"
+last_updated: "1950-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1950.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -485,9 +485,9 @@ XV. Convocar a elecciones de Gobernador y Diputados en los períodos constitucio
 
 XVI. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1950)</small>
 
-XVII. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determina la presente Constitución, y para hacer la elección de Magistrados del Tribunal Superior de Justicia y Procurador General Justicia del Estado;
+XVII. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine la presente Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia. La Legislatura otorgará o negara su ratificación a dichos nombramientos dentro del término improrrogables de diez días. Si no resuelve en dicho lapso se tendrán por ratificados los nombramientos. En el caso de que no los ratifique, el Ejecutivo hará nueva designación y, de ser también rechazada, se efectuará una tercera designación que surtirá efectos inmediatamente, a reserva de obtener la ratificación de la Legislatura en el siguiente período ordinario de sesiones;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -733,9 +733,9 @@ VIII. Conceder el indulto necesario, y con arreglo a las leyes, conmutar la pena
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la fracción XXXVII del artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
-> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 1934)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1950)</small>
 
-X. Pedir a la Legislatura la destitución de Magistrados y Jueces que observen mala conducta;
+X. Nombrar a los Magistrados del Tribunal Superior de Justicia y al Procurador General de Justicia del Estado, sometiendo las designaciones y destituciones, con causa justificada, de los primeros, a la ratificación de la Legislatura. Solicitar del Tribunal Superior de Justicia, también por causa justificada, la destitución de los Jueces de Primera Instancia;
 
 XI. Todas las demás que sean propias de la autoridad pública del Gobierno del Estado y que no estén expresamente asignadas por esta Constitución a los otros Poderes o a las autoridades municipales.
 
@@ -913,7 +913,7 @@ Los ayuntamientos serán asambleas formadas por elección popular directa, se co
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1944)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1950)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -1159,7 +1159,11 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-El Tribunal Superior de Justicia del Estado se compondrá de CINCO Magistrados Propietarios y dos Supernumerarios que serán electos libremente por la Legislatura.
+El Tribunal Superior de Justicia del Estado se compondrá de cinco Magistrados numerarios y dos supernumerarios, que serán nombrados por el Gobernador con la ratificación de la Legislatura.
+
+El Ejecutivo del Estado, con la ratificación de la Legislatura y con causa justificada, podrá separar de sus cargos a los Magistrados del Tribunal Superior de Justicia.
+
+El Tribunal Superior de Justicia, a petición del Ejecutivo, podrá separar de sus cargos con causa justificada, a los Jueces de Primera Instancia.
 
 ###### ARTICULO 122.
 
@@ -1167,9 +1171,11 @@ Para ser Magistrado del Tribunal Superior, se requiere: ser ciudadano mexicano e
 
 No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1950)</small>
+
 ###### ARTICULO 123.
 
-El cargo de Magistrado del Tribunal no es renunciable sino por causa grave calificada por la Legislatura, ante la cual se presentará la renuncia.
+El cargo de Magistrado del Tribunal es renunciable, por causa justificada que calificará el Ejecutivo, ante quien presentará la renuncia.
 
 ###### ARTICULO 124.
 
@@ -1229,11 +1235,11 @@ Habrá jueces de primera instancia y jurados en todas las cabeceras de distrito 
 
 Los Jueces de Primera Instancia tendrán los mismos requisitos que los Magistrados, menos el de la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años de edad y tener dos de práctica forense.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1950)</small>
 
 ###### ARTICULO 130.
 
-El cargo de Juez de 1ª Instancia no es renunciable, sino por causa grave que calificará el Tribunal Superior de Justicia, ante el cual se presentará la renuncia.
+El cargo de Juez de Primera Instancia es renunciable, por causa justificada que calificará el Tribunal Superior de Justicia, ante el que se presentará la renuncia.
 
 ###### ARTICULO 131.
 
@@ -1251,13 +1257,15 @@ El Ministerio Público es órgano del Estado y a su cargo está velar por la exa
 
 El Ministerio Público será desempeñado por un funcionario que se denominará Procurador General de Justicia y por los Agentes que fija la ley.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADO, P.O. 04 DE NOVIEMBRE DE 1950)</small>
 
 ###### ARTICULO 135.
 
-El Procurador General de Justicia será nombrado por la Legislatura, a propuesta del Ejecutivo. Si éste propusiere a una sola persona, la Legislatura podrá rechazar hasta tres proposiciones, sin que en las subsecuentes puedan figurar como candidatos los que no hubieren sido aceptados.
+El Procurador General de Justicia será nombrado y removido por el Ejecutivo del Estado.
 
-Los agentes serán nombrados por el Procurador General y los nombramientos serán ratificados por el Ejecutivo, designándose, por lo menos, un agente para cada Juzgado de Primera Instancia; pero en los distritos en que haya dos o más Juzgados del mismo ramo e igual categoría, se podrá nombrar un agente para dos o más de ellos.
+Los Agentes serán nombrados por el Procurador General y los nombramientos serán ratificados por el Ejecutivo.
+
+Para cada Juzgado de Primera Instancia se nombrará un Agente del Ministerio Público, pero en los Distritos en que haya dos o más Juzgados del mismo Ramo e igual categoría, se podrá nombrar un Agente para dos o más de ellos.
 
 ###### ARTICULO 136.
 
@@ -1506,3 +1514,9 @@ EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 P.O. 7 DE ENERO DE 1950.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 4 DE NOVIEMBRE DE 1950.
+
+Artículo Primero.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Para los efectos de lo dispuesto en los artículos 59, fracción XVII, 79, fracción X y 121, parte primera, el Gobernador del Estado someterá a la ratificación de la Legislatura, antes del 16 de diciembre del año en curso, los nombramientos de los Magistrados que deban integrar el Tribunal Superior de Justicia del Estado.
