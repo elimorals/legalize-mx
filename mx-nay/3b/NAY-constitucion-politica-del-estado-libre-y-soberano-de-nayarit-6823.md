@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1937-09-08"
+last_updated: "1937-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -449,7 +449,9 @@ XXII. Facultar al Ejecutivo con las limitaciones que sean necesarias, para que p
 
 XXIII. Investir al Gobernador, de facultades extraordinarias, cuando por las circunstancias lo juzgue necesario, aprobando o reprobando los actos que hayan emanado de ellas.
 
-XXIV. Autorizar al Ejecutivo para que contraiga deudas a nombre del Estado, designando los recursos con que deban cubrirse, sujetándose a las restricciones establecidas por la fracción VIII del artículo 117 de la Constitución General; siempre que para ello, se cuente con la aprobación, por lo menos, de las dos terceras partes del número total de Diputados.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1937)</small>
+
+XXIV. Autorizar al Ejecutivo para que contraiga deudas a nombre del Estado, quien designará los recursos con que deban cubrirse, sujetándose a las restricciones establecidas por la Fracción VIII, del Artículo 117 de la Constitución General; siempre que para ello se cuente con la aprobación por lo menos, de las dos terceras partes del número total de Diputados.
 
 XXV. Decretar la expropiación por causa de utilidad pública en la forma que determinen las leyes.
 
@@ -1286,3 +1288,7 @@ Este Decreto comenzará a surtir sus efectos legales a partir del día de su pro
 P.O. 8 DE SEPTIEMBRE DE 1937
 
 El presente decreto comienza asurtir (sic) sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 1937
+
+El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación.
