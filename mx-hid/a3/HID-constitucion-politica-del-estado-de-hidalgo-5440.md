@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1937-06-01"
+last_updated: "1937-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -97,7 +97,7 @@ P.O. 1 DE JUNIO DE 1937.
 
 ###### Artículo 3º.
 
-El Territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de enero de 1869 y se divide en quince Distritos a los que corresponden los 78 Municipios que a continuación se expresan:
+El territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de Enero de 1869 y se divide en quince Distritos que a continuación se expresan:
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
 
@@ -119,7 +119,9 @@ Distrito de Ixmiquilpan: Formado con los Municipios de Ixmiquilpan, Alfajayucan,
 
 Distrito de Jacala: Formado con los Municipios de Jacala, Chapulhuacán, la Misión, Pacula y Pisaflores.
 
-Distrito de Metztitlán: Formado con los Municipios de Metztitlán, Metzquititlán y Juárez Hidalgo.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1937)</small>
+
+Distrito de Metztitlan: formado con los Municipios de Metztitlan, Metzquititlán, Juárez Hidalgo y Eloxochitlán.
 
 Distrito de Molango: Formado con los Municipios de Molango, Calnali, Xochicoatlán, Lolotla, Tlahuiltepa y Tepehuacán de Guerrero.
 
@@ -1001,7 +1003,7 @@ En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el E
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 1 DE JUNIO DE 1937)</small>
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1937)</small>
 
 ###### Artículo 3°.
 
@@ -1010,3 +1012,7 @@ El período Constitucional de la actual Legislatura, terminara el último día d
 ###### ARTICULO UNICO
 
 - Este Decreto comenzará a surtir sus efectos desde el primero de junio de este año.
+
+P.O. 16 DE DICIEMBRE DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
