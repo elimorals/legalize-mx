@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1998-03-10"
+last_updated: "1998-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE OCTUBRE DE 1998.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -142,6 +142,18 @@ Todo hombre tiene el deber de acatar las leyes, disposiciones y reglamentos expe
 > <small>(ADICIONADO, G.O. 5 DE ENERO DE 1993)</small>
 
 El Estado de Veracruz tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. La Ley protegerá y promoverá el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. En los juicios y procedimientos en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 1998)</small>
+
+Los pueblos indígenas tienen derecho a la libre determinación. La expresión concreta de ésta es la autonomía de las comunidades indígenas en los términos establecidos por la ley reglamentaria.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 1998)</small>
+
+El uso y disfrute colectivo de los recursos naturales por las comunidades indígenas será de acuerdo con las formas y modalidades de propiedad previstas por el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; con excepción de los bienes cuya explotación y aprovechamiento corresponde exclusivamente a la nación.
+
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 1998)</small>
+
+El Estado y los municipios, en el ámbito de sus respectivas competencias, reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable y una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley reglamentaria, impulsarán el respeto y conocimiento de las diversas culturas existentes en la entidad y combatirán toda forma de discriminación.
 
 > <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
@@ -2515,11 +2527,21 @@ i). Los demás que la Legislatura determine según las condiciones territoriales
 
 XI. Previo acuerdo entre sus ayuntamientos y con sujeción a la Ley, los municipios podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan;
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 1990)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 1998)</small>
 
-XII. Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencia y permisos para construcciones, y participar en materia de protección al ambiente y de preservación y restauración al equilibrio ecológico, así como en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fuesen necesarios; y
+XII. Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencia y permisos para construcciones, y participar en materia de protección al ambiente y de preservación y restauración al equilibrio ecológico, así como en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fuesen necesarios;
 
-XIII. Los municipios poseerán facultades para expedir, de acuerdo con las bases normativas que establezca la Legislatura, los bandos de policía, buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 1998)</small>
+
+XIII. Los municipios poseerán facultades para expedir, de acuerdo con las bases normativas que establezca la Legislatura, los bandos de policía, buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 1998)</small>
+
+XIV. Los municipios, en términos de las leyes estatales, estarán facultados para que en la distribución de los recursos que le asigne la Legislatura, sean consideradas de manera prioritaria las comunidades indígenas que posean la categoría administrativa de agencia municipal. Esta distribución se realizará con un sentido de equidad, de acuerdo con la disponibilidad presupuestal y las necesidades de dichas comunidades, y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 1998)</small>
+
+XV. Los municipios que cuenten con la población indígena, incorporarán representantes de ésta a los órganos de planeación y participación ciudadana, en los términos de la Ley Orgánica del Municipio Libre.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
@@ -11218,6 +11240,12 @@ Cuarto. En relación con lo dispuesto en la adición a la fracción XV del artí
 Quinto. La composición de la Diputación Permanente, en los términos del artículo 80 de esta reforma, se aplicará a partir de la LVIII Legislatura. La actual conservará la estructura anterior.
 
 Sexto. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado, previo cumplimiento de lo establecido en el artículo 130 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
+
+G.O. 1 DE OCTUBRE DE 1998.
+
+Artículo primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
