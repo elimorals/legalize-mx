@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-instituto-estatal-de-la-vivienda-popular-4818"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1996-04-16"
+last_updated: "2004-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2004.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el miércoles 31 de diciembre de 1975.
 
@@ -43,9 +43,13 @@ LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR.
 
 DEL OBJETO Y DENOMINACION DEL INSTITUTO.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO PRIMERO.
 
-Se crea un organismo público descentralizado de servicio social, con personalidad jurídica y patrimonio propios, que se denominará "Instituto Estatal de la Vivienda Popular", con domicilio social en la ciudad de Saltillo, Coahuila.
+Se crea el Instituto Estatal de la Vivienda Popular como organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, que estará sectorizado a la Secretaría de Planeación y Desarrollo.
+
+El organismo que se crea tendrá su domicilio en la ciudad de Saltillo, sin perjuicio de que pueda contar con oficinas en otras ciudades de la entidad.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1990)</small>
 
@@ -189,9 +193,9 @@ El Director y los Subdirectores de Area del Instituto serán designados y removi
 
 El Consejo de Administración del Instituto se integrará de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
 
-I.- Por un Presidente, que será el Secretario de Desarrollo Social del Gobierno del Estado;
+I. Por un Presidente, que será el Secretario de Planeación y Desarrollo del Gobierno del Estado.
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 1996)</small>
 
@@ -205,13 +209,19 @@ a).- El Secretario de Gobierno;
 
 b).- El Secretario de Finanzas;
 
-c).- El Secretario de Comunicaciones y Obras Públicas;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
 
-d).- El Secretario de Fomento Económico;
+c).- El Secretario de Urbanismo y Obras Públicas;
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
+
+d).- El Secretario de Desarrollo Social;
 
 e).- El Secretario de la Contraloría y Modernización Administrativa;
 
-f).- El Secretario de Salud y Desarrollo Comunitario; y
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
+
+f).- El Secretario de Salud;
 
 g).- El Secretario Ejecutivo de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana en Coahuila.
 
@@ -508,3 +518,9 @@ P.O. 16 DE ABRIL DE 1996.
 PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE JUNIO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las previstas en este decreto.
