@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1975-03-07"
+last_updated: "1975-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MARZO DE 1975.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MARZO DE 1975.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -181,7 +181,7 @@ La Ley fijará la forma y los términos en que se suspenden los derechos del ciu
 
 ### CAPITULO II. Del Territorio del Estado
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(REFORMADO, D.O.26 DE MARZO DE 1975) (F. DE E., P.O. 3 DE ABRIL DE 1975)
 
 ###### Artículo 12.
 
@@ -201,7 +201,7 @@ La Soberanía reside esencial y originariamente en el Pueblo; y la del Estado de
 
 ###### Artículo 14.
 
-El Territorio del Estado de Yucatán tiene la extensión y los límites que demarca la Constitución Federal.
+El Territorio del Estado de Yucatán tiene la extensión y los límites que demarca la Constitución Federal; lo constituye la parte norte de la Península de Yucatán, que queda limitada por una línea divisoria que, partiendo del vértice noreste sigue el arco del meridiano 87 grados, 32 minutos (longitud oeste de Greenwich), hasta su intersección con el paralelo 21 grados; y de allí continúa hasta encontrar el paralelo que pasa por la torre sur de la Iglesia de Chemax, 20 kilómetros al oriente de este punto; llegando después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche, cerca de Put, que tiene las siguientes coordenadas geográficas: 19 grados, 18 minutos, 27 segundos, latitud norte y 89 grados, 8 minutos, 52 segundos longitud oeste; de este punto hasta el Golfo de México tiene los límites fijados en el convenio celebrado entre los Estados de Campeche y Yucatán con fecha 3 de mayo de 1858; y de este punto hacia el este, por la costa, hasta el punto de partida. Asimismo comprende la Isla de Pérez (LOS ALACRANES), y los islotes, cayos y arrecifes adyacentes a su litoral.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1486,6 +1486,10 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Dia
 D.O. 7 DE MARZO DE 1975.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 26 DE MARZO DE 1975.
+
+UNICO.- Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
