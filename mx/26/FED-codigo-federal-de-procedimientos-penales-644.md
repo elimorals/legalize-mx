@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1998-12-31"
+last_updated: "1999-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1999.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1111,9 +1111,13 @@ Cuando en vista de la averiguación previa el Agente del Ministerio Público a q
 
 Contra la resolución del Procurador no cabe recurso alguno, pero puede ser motivo de responsabilidad.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-ARTICULO 133 bis.- Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días, prorrogables por igual término a petición del Ministerio Público. El juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+ARTICULO 133 bis.- La autoridad judicial podrá, a petición del Ministerio Público, decretar el arraigo domiciliario o imponer la prohibición de abandonar una demarcación geográfica sin su autorización, a la persona en contra de quien se prepare el ejercicio de la acción penal, siempre y cuando exista el riesgo fundado de que se sustraiga a la acción de la justicia. Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato de la autoridad judicial sea debidamente cumplido.
+
+El arraigo domiciliario o la prohibición de abandonar una demarcación geográfica se prolongarán por el tiempo estrictamente indispensable, no debiendo exceder de treinta días naturales, en el caso del arraigo, y de sesenta días naturales, en el de la prohibición de abandonar una demarcación geográfica.
+
+Cuando el afectado pida que el arraigo o la prohibición de abandonar una demarcación geográfica queden sin efecto, la autoridad judicial decidirá, escuchando al Ministerio Público y al afectado, si deben o no mantenerse.
 
 ### CAPITULO UNICO. Acción penal
 
@@ -1505,7 +1509,7 @@ También en estos casos, el Ministerio Público podrá promover prueba, en ejerc
 
 ### CAPITULO II. Huellas del delito.- Aseguramiento de los Instrumentos y objetos del mismo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 168.
 
@@ -1603,51 +1607,17 @@ La información y documentos así obtenidos sólo podrán ser utilizados en la i
 
 ###### ARTICULO 181.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, así como aquellos en que existan huellas del mismo o pudieran tener relación con éste, serán asegurados; ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para el objeto de que no se alteren, destruyan o desaparezcan. Tratándose de delitos de imprudencia, ocasionados con motivo del tránsito de vehículos, éstos podrán asegurarse por el Ministerio Público, en cuyo caso se entregarán en depósito a su conductor o a quien se legitime como propietario, quienes deberán presentarlos ante la autoridad competente cuando ésta lo solicite. En caso de incumplimiento del depositario, se procederá conforme lo que dispone el artículo 385 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+Los instrumentos, objetos o productos del delito, así como los bienes en que existan huellas o pudieran tener relación con éste, serán asegurados a fin de que no se alteren, destruyan o desaparezcan. La administración de los bienes asegurados se realizará de conformidad con la ley de la materia.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+Las autoridades que actúen en auxilio del Ministerio Público, pondrán inmediatamente a disposición de éste los bienes a que se refiere el párrafo anterior. El Ministerio Público, al momento de recibir los bienes, resolverá sobre su aseguramiento.
 
-De todas las cosas aseguradas se hará un inventario, en el que se las (sic) describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+Cuando se trate de plantíos de mariguana, papaver somniferum o adormidera, u otros estupefacientes, el Ministerio Público, la Policía Judicial o las autoridades que actúen en su auxilio, procederán a la destrucción de aquéllos, levantando un acta en la que se haga constar: el área del cultivo, cantidad o volumen del estupefaciente, debiéndose recabar muestras del mismo para que obren en la averiguación previa que al efecto se inicie.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-Cuando se trate de plantíos de mariguana, papaver somníferum o adormidera u otros estupefacientes, el Ministerio Público, la Policía Judicial o las autoridades que actúen en su auxilio, procederán a la destrucción de aquéllos, levantando un acta en la que se haga constar: el área del cultivo, cantidad o volumen del estupefaciente, debiéndose recabar muestras del mismo para que obren en la averiguación previa que al efecto se inicie.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Cuando se aseguren estupefacientes o psicotrópicos, el Ministerio Público acordará y vigilará su destrucción, si esta medida es procedente, previa la inspección de las sustancias, en la que se determinará la naturaleza, el peso y las demás características de éstas. Se conservará una muestra representativa suficiente para la elaboración de los dictámenes periciales que hayan de producirse en la averiguación previa o en el proceso, en su caso.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-Cuando la autoridad investigadora asegure un bien distinto de los señalados en el párrafo anterior, deberá notificarlo al interesado dentro de los diez días posteriores al aseguramiento, para que alegue lo que a su derecho convenga dentro de un plazo de treinta días, transcurrido el cual, la autoridad resolverá lo conducente en términos de los artículos 40 y 41 del Código Penal.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-Esa notificación y cualquier otra que se haya de hacer con respecto a sacar a subasta bienes no reclamados o a la aplicación del producto de la venta que no se reclame por el interesado, se harán en la siguiente forma: personalmente al interesado si se hallare presente; por cédula que se deje en su domicilio; con alguno de los moradores o de los trabajadores que ahí asistan; o mediante publicación de la cédula en el Diario Oficial de la Federación, por dos veces con intervalo de tres días, si no se conociere el domicilio o la identidad del interesado.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-Si los bienes asegurados, de acuerdo con el dictamen pericial que se recabe, son terrenos destinados o susceptibles de destinarse a actividades agropecuarias, no serán objeto de subasta, debiéndose entregar a las autoridades que por la naturaleza de ellos resulten competentes, para su regularización en términos de las leyes respectivas.
+Cuando se aseguren estupefacientes o psicotrópicos, el Ministerio Público acordará y vigilará su destrucción, si esta medida es procedente, previa la inspección de las sustancias, en la que se determinará la naturaleza, el peso y las demás características de éstas. Se conservará una muestra representativa suficiente para la elaboración de los dictámenes periciales que hayan de producirse en la averiguación previa o en el proceso, según el caso.
 
 ###### ARTICULO 182.
 
-Las cosas inventariadas conforme al artículo anterior, deberán guardarse en lugar o recipiente adecuado, según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar la conservación e identidad de esas cosas.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-En cualquier caso, se hará constar el inventario de todas las cosas aseguradas, el cual también formará parte del acuerdo en el que se dicte el aseguramiento. Asimismo, se colocarán en las cosas los sellos, marcas, cuños, fierros o señales que de manera indubitable permitan su identificación y eviten su alteración, destrucción o pérdida.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-Además, se hará la inscripción correspondiente en los Registros Públicos de la Propiedad y del Comercio, del aseguramiento de bienes inmuebles y de acciones o partes sociales.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-Quienes practiquen la diligencia de aseguramiento deberán hacerlo del conocimiento de sus superiores. La Procuraduría General de la República queda obligada a integrar un registro público de los bienes asegurados. La forma, el contenido y el procedimiento para su integración y manejo se especificarán en el instructivo que al efecto se expida.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
-
-En ningún caso de aseguramiento se procederá al cierre o suspensión de actividades de establecimientos productivos lícitos.
+(DEROGADO, D.O.F. 8 DE FEBRERO DE 1999)
 
 ###### ARTICULO 183.
 
@@ -1677,7 +1647,7 @@ Si el delito fuere de falsificación de documento, además de la minuciosa descr
 
 ### CAPITULO IV. Aseguramiento del inculpado
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 188.
 
@@ -1729,13 +1699,19 @@ Cuando un lesionado necesite pronta atención, cualquier médico que se halle pr
 
 ###### ARTICULO 193.
 
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
+Se entiende que existe flagrancia cuando:
 
-Se considerará que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, o si, inmediatamente después de ejecutado el hecho delictuoso: a) aquél es perseguido materialmente; o b) alguien lo señala como responsable y se encuentra en su poder el objeto del delito, el instrumento con que aparezca cometido, o huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
+I. El inculpado es detenido en el momento de estar cometiendo el delito;
 
-En esos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según procediere, decretará la retención del indiciado si el delito es perseguible de oficio o perseguible previa querella u otro requisito equivalente, que ya se encuentre satisfecho, o bien ordenará la libertad del detenido.
+II. Inmediatamente después de ejecutado el delito, el inculpado es perseguido materialmente, o
 
-La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la retención y la persona así detenida será puesta en inmediata libertad.
+III. El inculpado es señalado como responsable por la víctima, algún testigo presencial de los hechos o quien hubiere participado con él en la comisión del delito, o se encuentre en su poder el objeto, instrumento o producto del delito, o bien aparezcan huellas o indicios que hagan presumir fundadamente su participación en el delito; siempre y cuando se trate de un delito grave, así calificado por la ley, no haya transcurrido un plazo de cuarenta y ocho horas desde el momento de la comisión de los hechos delictivos, se haya iniciado la averiguación previa respectiva y no se hubiera interrumpido la persecución del delito.
+
+En esos casos, el Ministerio Público decretará la retención del indiciado si están satisfechos los requisitos de procedibilidad y el delito merece pena privativa de libertad, o bien ordenará la libertad del detenido, cuando la sanción sea no privativa de la libertad o alternativa.
+
+La violación a lo dispuesto en el párrafo anterior hará penalmente responsable a quien decrete la indebida retención y la persona detenida deberá ser puesta de inmediato en libertad.
+
+De decretar la retención, el Ministerio Público iniciará desde luego la averiguación previa correspondiente, si aún no lo ha hecho.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1751,9 +1727,13 @@ c) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en Materia de Fuero Federal: homicidio por culpa grave, previsto en el artículo 60 tercer párrafo; traición a la Patria, previsto en los artículos 123, 124, 125 y 126; espionaje, previsto en los artículos 127 y 128; terrorismo, previsto en el artículo 139, párrafo primero; sabotaje, previsto en el artículo 140 párrafo primero, así como los previstos en los artículos 142 párrafo segundo y 145; piratería, previsto en los artículos 146 y 147; genocidio, previsto en el artículo 149 bis; evasión de presos, previsto en los artículos 150 y 152; ataques a las vías de comunicación, previsto en los artículos 168 y 170; uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis párrafo tercero; contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 bis, 197, párrafo primero y 198, parte primera del párrafo tercero; corrupción de menores, previsto en el artículo 201, trata de personas, previsto en el artículo 205, segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; falsificación y alteración de moneda, previsto en los artículos 234, 236 y 237; de violación, previsto en los artículos 265, 266 y 266 bis; asalto en carreteras o caminos, previstos en el artículo 286, segundo párrafo; homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 bis, 320 y 323; de secuestro, previsto en el artículo 366, exceptuando el párrafo antepenúltimo; robo calificado, previsto en el artículo 367, en relación con el 370 párrafos segundo y tercero, cuando se realicen en cualquiera de las circunstancias señaladas en los artículos 372, 381, fracciones VIII, IX y X, 381 bis; robo, previsto en el artículo 371, párrafo último; extorsión, previsto en el artículo 390 y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis; así como los previstos en los artículos 83, fracción III, 83 bis, exceptuando sables, bayonetas y lanzas y 84, de la Ley Federal de Armas de Fuego y Explosivos; tortura, previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura; el de tráfico de indocumentados previsto en el artículo 138 de la Ley General de Población; y los previstos en los artículos 102 y 105 fracciones I a la IV, cuando les correspondan las sanciones previstas en las fracciones II y III, segundo párrafo del artículo 104; así como 108 y 109, cuando el monto de lo defraudado se ubique en los rangos a que se refieren las fracciones II o III del artículo 108, exclusivamente cuando sean calificados, todos del Código Fiscal de la Federación.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: homicidio por culpa grave, previsto en el artículo 60 tercer párrafo; traición a la Patria, previsto en los artículos 123, 124, 125 y 126; espionaje, previsto en los artículos 127 y 128; terrorismo, previsto en el artículo 139, párrafo primero; sabotaje, previsto en el artículo 140 párrafo primero, así como los previstos en los artículos 142 párrafo segundo y 145; piratería, previsto en los artículos 146 y 147; genocidio, previsto en el artículo 149 bis; evasión de presos, previsto en los artículos 150 y 152; ataques a las vías de comunicación, previsto en los artículos 168 y 170; uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis párrafo tercero; contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 bis, 197, párrafo primero y 198, parte primera del párrafo tercero; corrupción de menores, previsto en el artículo 201; trata de personas, previsto en el artículo 205, segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; falsificación y alteración de moneda, previsto en los artículos 234, 236 y 237; falsificación y utilización indebida de documentos relativos al crédito, previstos en el artículo 240 bis, salvo el previsto en la fracción III; violación previsto en los artículos 265, 266 y 266 bis; asalto en carreteras o caminos, previstos en el artículo 286, segundo párrafo; homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 bis, 320 y 323; secuestro, previsto en el artículo 366, salvo el antepenúltimo párrafo; robo calificado, previsto en el artículo 367, en relación con el 370 párrafo segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381, fracciones VII, VIII, IX, X, XI, XIII y XVI, y 381 bis; robo, previsto en el último párrafo del artículo 371; los previstos en el artículo 377; extorsión, previsto en el artículo 390 y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis; así como los previstos en los artículos 83, fracción III, 83 bis, salvo el previsto en la fracción I, 83 ter fracción III, 84 y 84 bis primer párrafo, de la Ley Federal de Armas de Fuego y Explosivos; tortura, previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura; tráfico de indocumentados, previsto en el artículo 138 de la Ley General de Población; y los previstos en los artículos 104, fracciones II y III, último párrafo y 105 fracción IV del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+La tentativa punible de los ilícitos penales mencionados en el párrafo anterior, también se califica como delito grave.
 
 > <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
@@ -2893,9 +2873,9 @@ V.- Los autos en que se conceda o niegue la libertad provisional bajo caución; 
 
 VI.- Los autos en que se niegue la orden de aprehensión o se niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público.
 
-(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
-VII.- Los autos que nieguen el cateo, las medidas precautorias de carácter patrimonial o el arraigo del indiciado;
+VII.- Los autos que nieguen el cateo, las medidas precautorias de carácter patrimonial, el arraigo del indiciado o la prohibición de abandonar una demarcación geográfica;
 
 (REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
 
@@ -3163,7 +3143,9 @@ II.- Que garantice las sanciones pecuniarias que en su caso puedan imponérsele;
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso; y
 
-IV.- Que no se trate de alguno de los delitos señalados como graves en el párrafo último del artículo 194.
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1999)</small>
+
+IV.- Que no se trate de alguno de los delitos calificados como graves en el artículo 194.
 
 La caución a que se refiere la fracción III y las garantías a que se refieren las fracciones I y II, podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
 
@@ -4468,3 +4450,13 @@ D.O.F. 31 DE DICIEMBRE DE 1998.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
+
+D.O.F. 8 DE FEBRERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que a la fecha de entrada en vigor del presente Decreto se encuentren sujetas a proceso penal por alguno de los delitos contenidos en las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, mencionadas en el Artículo Primero de este Decreto, le serán aplicables las disposiciones de dichos artículos vigentes al momento de la comisión del delito.
+
+Los procedimientos penales y de amparo no concluidos en la fecha señalada en el transitorio anterior, seguirán tramitándose conforme a las disposiciones del Código Federal de Procedimientos Penales y de la Ley de Amparo vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto.
+
+TERCERO.- La (sic) resoluciones de la autoridad judicial en las que se hubiere prorrogado el arraigo domiciliario decretado originalmente seguirán subsistiendo por todo el término que se hubiere señalado en la prórroga.
