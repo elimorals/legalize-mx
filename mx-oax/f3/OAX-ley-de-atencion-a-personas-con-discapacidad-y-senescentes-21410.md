@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-atencion-a-personas-con-discapacidad-y-senescentes-21410
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-15"
-last_updated: "1995-07-15"
+last_updated: "1999-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCION A DISCAPACITADOS Y SENESCENTES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de julio de 1995.
 
@@ -39,7 +39,9 @@ LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO D
 
 DECRETA:
 
-LEY DE PROTECCION A DISCAPACITADOS Y SENESCENTES PARA EL ESTADO DE OAXACA
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
+LEY DE ATENCION A PERSONAS CON DISCAPACIDAD Y SENESCENTES PARA EL ESTADO DE OAXACA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -51,7 +53,9 @@ La presente Ley es de orden público e interés social. Sus disposiciones son de
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Discapacitado: Toda persona con capacidad disminuida o limitada para realizar, por sí misma, las actividades necesarias para su normal desempeño físico, mental, ocupacional y económico, como consecuencia de una insuficiencia somática, o psicológica;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+I.- Persona con discapacidad: todo ser humano que padece una pérdida permanente o transitoria, de carácter psicológico, fisiológico o anatómico de alguna estructura o función; cualquiera restricción o impedimento del funcionamiento de una actividad, ocasionados por una deficiencia o el incumplimiento de una función según la edad, el sexo y los factores sociales y culturales;
 
 II.- Senescente: Persona que en razón de su avanzada edad padece disminución o limitación de sus facultades de locomoción, visión o audición;
 
@@ -69,9 +73,15 @@ VIII.- Vía Pública: Los espacios terrestres, de uso común, destinados al trá
 
 IX.- Lugares con Acceso al Público: Los inmuebles del dominio público o propiedad de un particular que, en razón de la naturaleza principal de las actividades que en ellos se realizan, permiten el libre tránsito de las personas y, en su caso, de vehículos.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+X.- Organizaciones de Personas con Discapacidad: Todas aquellas personas morales reconocidas legalmente que se han constituido para salvaguardar los derechos de las personas con discapacidad y que buscan lograr la participación de los mismos en las decisiones relacionadas con el diseño, la instrumentación y evaluación de programas de asistencia y promoción social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 3.
 
-Se considera discapacitado somático a toda persona que padezca alguna insuficiencia derivada de:
+Se considera persona con discapacidad somática a todo individuo que padezca alguna insuficiencia derivada de:
 
 a) Deformaciones congénitas, amputaciones, artropatías y secuelas de lesiones, trastornos musculares y distrofias;
 
@@ -85,29 +95,41 @@ e) Insuficiencia respiratoria crónica; y
 
 f) Insuficiencia renal crónica.
 
-### CAPITULO SEGUNDO. DE LOS DERECHOS DE LOS DISCAPACITADOS Y SENESCENTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 1999)</small>
+
+### CAPITULO SEGUNDO. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD Y SENESCENTES
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 4.
 
-Son derechos que la Ley reconoce y protege en favor de los discapacitados y senescentes:
+Las personas con discapacidad y senescentes gozarán de todos los derechos que establece la Constitución General de la República y la Particular del Estado sin excepción alguna, distinción o discriminación. Consecuentemente la presente Ley, tutela a favor de las personas con discapacidad y senescentes:
 
-a) Tener la oportunidad plena del derecho a la educación, sin barreras didácticas, psicológicas, arquitectónicas, políticas o sociales, dentro del marco jurídico de nuestra Constitución.
+a).- El pleno derecho a la dignidad humana;
 
-b) El tener las mismas oportunidades laborales de acuerdo a su perfil profesional, técnico o manual;
+b).- A una vida decorosa;
 
-c) El desplazarse libremente en los espacios públicos abiertos o cerrados de cualquier índole;
+c).- A la educación sin barreras didácticas, psicológicas, arquitectónicas, políticas o sociales;
 
-d) El disfrutar de los servicios públicos estacionarios en igualdad de circunstancias que cualquiera persona no discapacitada o senescente; y
+d).- A la salud integral, por tanto, a todos los servicios médicos y de readaptación que aseguren el aprovechamiento máximo de sus facultades y aptitudes, a los beneficios de los programas médico-rehabilitatorios de asistencia social; y
 
-e) La facilidad de acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos.
+e).- Al trabajo y a la capacitación. A obtener y conservar un empleo y ejercer una ocupación útil, productiva y remunerativa y a formar parte de las organizaciones sindicales.
+
+Quedan prohibidos toda explotación y trato discriminatorio, abusivo o degradante.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 5.
 
-En el Estado de Oaxaca, el tránsito de los discapacitados y de los senescentes, así como las facilidades de que éstos gocen, se sujetará a lo previsto por esta Ley, por las legislaciones vial, sanitaria y asistencial, por los demás ordenamientos legales conducentes, así como por las normas y medidas que se establezcan y apliquen en las siguientes materias:
+En el Estado de Oaxaca, el tránsito de las personas con discapacidad y senescentes, así como las facilidades de que éstos gocen, se sujetará a lo previsto por esta Ley, por las legislaciones vial, sanitaria y asistencial, por los demás ordenamientos legales conducentes, así como por las normas y medidas que se establezcan y apliquen en las siguientes materias:
 
-I.- La organización, operación, supervisión y evaluación de las acciones que en materia de asistencia social se lleven a cabo para modificar y mejorar las circunstancias de carácter social que impiden al discapacitado o senescente su desarrollo integral;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
 
-II.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los discapacitados y senescentes;
+I.- La organización, operación, supervisión y evaluación de las acciones que en materia de asistencia social se lleven a cabo para modificar y mejorar las circunstancias de carácter social que impiden a las personas con discapacidad y senescentes su desarrollo integral;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+II.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad y senescentes;
 
 III.- El establecimiento de las normas técnicas correspondientes;
 
@@ -115,13 +137,17 @@ IV.- Las campañas de difusión y medidas en materia de educación vial y cortes
 
 ### CAPITULO TERCERO. DE LOS OBSTACULOS VIALES EN GENERAL
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 6.
 
-Para efectos de la presente Ley, se consideran obstáculos viales todas aquellas barreras arquitectónicas que dificultan, entorpecen o impiden, a personas discapacitadas o senescentes, su libre desplazamiento en lugares públicos, exteriores o interiores, o el uso de los servicios comunitarios.
+Para efectos de la presente Ley, se consideran obstáculos viales todas aquellas barreras arquitectónicas que dificultan, entorpecen o impiden, a personas con discapacidad o senescentes, su libre desplazamiento en lugares públicos, exteriores o interiores, o el uso de los servicios comunitarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 7.
 
-Los elementos viales que en la vía pública deberán, en su caso, ser adecuados con facilidades para personas discapacitadas o senescentes y que constituyen obstáculos, son:
+Los elementos viales de la vía pública deben ser adecuados y con facilidades para personas con discapacidad o senescentes; constituyen obstáculos:
 
 a) Las aceras, banquetas o escarpas;
 
@@ -149,9 +175,11 @@ l) El uso de banquetas y postes como estacionamientos de bicicletas, motocicleta
 
 m) Cualesquiera otros objetos que dificulten, entorpezcan o impidan el libre tránsito, principalmente a los discapacitados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 8.
 
-Los obstáculos viales que en lugares con acceso al público deben ser adecuados, en su caso, con facilidades para minusválidos o senescentes son los siguientes:
+Los lugares públicos que deberán contar con accesos adecuados para personas con discapacidad y senescentes son los siguientes:
 
 a) Las rampas y escaleras;
 
@@ -177,21 +205,27 @@ k) Los elevadores; y
 
 l) Cualquiera otra estructura que dificulte, entorpezca o impida el libre tránsito.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 9.
 
-El Ejecutivo del Estado incluirá en el Programa Director para el Desarrollo Urbano del Estado y en sus programas parciales, las adecuaciones de facilidades urbanísticas y arquitectónicas que se requieran conforme a las necesidades de los discapacitados y senescentes en la Entidad, debiendo contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
+El Ejecutivo del Estado incluirá en el Programa Estatal para el Desarrollo Urbano del Estado y en sus programas parciales, las adecuaciones de facilidades urbanísticas y arquitectónicas que se requieran conforme a las necesidades de las personas con discapacidad y senescentes en la Entidad, debiendo contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
 
-Los proyectos de construcción de conjuntos habitacionales que constituyan un complejo arquitectónico, deberán prever las directrices antes señaladas, a fin de que tales inmuebles resulten de fácil acceso para los discapacitados y senescentes.
+Los proyectos de construcción de conjuntos habitacionales que constituyan un complejo arquitectónico, deberán prever las directrices antes señaladas, a fin de que tales inmuebles resulten de fácil acceso para las personas con discapacidad y senescentes.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 10.
 
-Los Ayuntamientos de los Municipios de la Entidad, deberán observar y prever facilidades urbanísticas y arquitectónicas, adecuadas a las necesidades de los discapacitados y senescentes, de conformidad con las disposiciones legales correspondientes en la materia, en la planificación y urbanización de las vías, parques y jardines públicos a fin de facilitar a aquéllos el tránsito, desplazamiento y uso de dichos espacios.
+Los Ayuntamientos de los Municipios de la Entidad, deberán observar y prever facilidades urbanísticas y arquitectónicas, adecuadas a las necesidades de las personas con discapacidad y senescentes, de conformidad con las disposiciones legales correspondientes en la materia, en la planificación y urbanización de las vías, parques y jardines públicos, a fin de facilitar a aquéllos el transito, desplazamiento y uso de dichos espacios.
 
 ### CAPITULO CUARTO. DE LOS OBSTACULOS VIALES EN LA VIA PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 11.
 
-Las aceras deben permitir, en las esquinas o sitios propios para el cruce de personas, las facilidades para que los discapacitados en sillas de ruedas puedan, en forma independiente y con un máximo de seguridad, descender o ascender de las mismas, por lo cual los pavimentos deberán ser resistentes y antiderrapantes.
+Las aceras deben permitir, en las esquinas o sitios propios para el cruce de personas, las facilidades para que las personas con discapacidad en sillas de ruedas puedan, en forma independiente y con un máximo de seguridad, descender o ascender de las mismas, por lo cual los pavimentos deberán ser resistentes y antiderrapantes.
 
 Por igual, las juntas deberán encontrarse bien selladas y libres de arena o piedras sueltas. De la misma manera, las pendientes no deberán ser mayores del tres por ciento, preferentemente.
 
@@ -209,27 +243,35 @@ En las zonas urbanas de nueva creación o desarrollo deberá evitarse la colocac
 
 En las áreas no urbanizadas, donde se ubican coladeras de cualquier índole, sobre las aceras, deberán fijarse los señalamientos necesarios para que las personas que utilicen sillas de ruedas, muletas, bastones, o sean débiles visuales, eviten tropiezo alguno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 15.
 
-Los estacionamientos de vehículos en la vía pública deberán de contar, en las zonas comerciales por lo menos con un espacio por manzana para el ascenso y descenso de discapacitados y senescentes.
+Los estacionamientos de vehículos en la vía pública deberán contar, en las zonas comerciales por lo menos con un espacio por manzana para el ascenso y descenso de personas con discapacidad y senescentes.
 
 Dichos espacios deberán diseñarse de acuerdo a los requerimientos específicos y encontrarse claramente señalados como reservados para uso exclusivo.
 
-Fuera del área comercial a que se refiere el presente artículo, pero en sitios en que se establezcan oficinas, escuelas, centros recreativos o culturales, o cualesquiera otros lugares con acceso al público, deberán contar por igual con espacios para el ascenso y descenso exclusivo para discapacitados.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
+Fuera del área comercial a que se refiere el presente artículo, pero en sitios en que se establezcan oficinas, escuelas, centros recreativos o culturales, o cualesquiera otros lugares con acceso al público, deberán contar por igual con espacios para el ascenso y descenso exclusivo para personas con discapacidad.
 
 Para efectos de lo anterior, deberá contarse, previamente, con la autorización de construcción correspondiente de las autoridades del ramo, con la finalidad de que éstas indiquen el área más a propósito para ello.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 16.
 
-Los discapacitados y senescentes tendrán derecho exclusivo a ocupar los espacios de estacionamiento que sean destinados para ellos, para su identificación, deberán hacer pintar en su vehículo el logotipo adoptado internacionalmente, consistente en una silla de ruedas de color azul y blanco.
+Las personas con discapacidad y senescentes tendrán derecho exclusivo a ocupar los espacios de estacionamientos que sean destinados para ellos, para su identificación, deberán hacer pintar en su vehículo el logotipo adoptado internacionalmente, consistente en una silla de ruedas de color azul y blanco.
 
-Las autoridades de Tránsito deberán proporcionar a los discapacitados que utilicen vehículos de motor una placa con el logotipo internacional y distintivo que permita conocer que fue expedido por la autoridad competente para los que tengan vehículo propio ó un tarjetón con las mismas características para aquellos discapacitados que ocupen vehículos de alquiler o prestados.
+Las autoridades de Tránsito deberán proporcionar a las personas con discapacidad que utilicen vehículos de motor una placa con el logotipo internacional y distintivo que permita conocer que fue expedido por la autoridad competente para los que tengan vehículo propio o un tarjetón con las mismas características para las personas con discapacidad que ocupen vehículos de alquiler o prestados.
 
-Las autoridades de tránsito impondrán la misma multa que corresponda al estacionamiento en lugar prohibido a los infractores que ocupen los espacios destinados a discapacitados, debiendo dejar nota en su expediente para que ésta se duplique en caso de reincidencia.
+Las autoridades de tránsito impondrán la misma multa que corresponda al estacionamiento en lugar prohibido, a los infractores que ocupen los espacios destinados a personas con discapacidad, debiendo dejar nota en su expediente para que ésta se duplique en caso de reincidencia.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 17.
 
-A efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender discapacitados o senescentes, la autoridad vial dispondrá las medidas necesarias, las que inclusive podrán aplicarse en zonas de aparcamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones.
+A efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender personas con discapacidad o senescentes, la autoridad vial dispondrá las medidas necesarias, las que inclusive podrán aplicarse en zonas de aparcamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones.
 
 ###### ARTICULO 18.
 
@@ -261,19 +303,25 @@ Las escaleras exteriores de los edificios deberán contar con una pendiente suav
 
 Las puertas de acceso de un edificio, a efecto de que puedan ser utilizadas por personas que tengan que utilizar sillas de ruedas, deberán tener un claro totalmente libre de noventa y cinco centímetros de ancho, cuando menos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 23.
 
-Todos aquellos edificios que cuenten con escaleras en su interior también deberán contar con una rampa para el servicio de personas minusválidas o senescentes. La rampa se construirá siguiendo las especificaciones precisadas en el artículo 19 de esta Ley.
+Todos aquellos edificios que cuenten con escaleras en su interior también deberán contar con una rampa para el servicio de personas con discapacidad o senescentes. La rampa se construirá siguiendo las especificaciones precisadas en el artículo 19 de esta Ley.
 
 La autoridad podrá dispensar el cumplimiento de la obligación anterior en caso de que exista impedimento debidamente acreditado, a través de dictamen pericial.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 24.
 
-Tratándose de edificios de más de tres niveles o plantas, deberán contar con un elevador, por lo menos, para el uso de personas minusválidas o senescentes, con dimensiones no menores de ciento cincuenta y cinco centímetros de largo por ciento setenta centímetros de ancho, a fin de que permita el fácil acceso y manejo de sillas de ruedas en su interior; por igual deberá observarse que el área de entrada a dicho elevador, en cada una de las plantas del edificio, sea una superficie plana de ciento cincuenta centímetros de largo por similar medida de ancho.
+Tratándose de edificios de más de tres niveles o plantas, deberán contar con un elevador, por lo menos, para el uso de personas con discapacidad o senescentes, con dimensiones no menores de ciento cincuenta y cinco centímetros de largo por ciento setenta centímetros de ancho, a fin de que permita el fácil acceso y manejo de sillas de ruedas en su interior, por igual deberá observarse que el área de entrada a dicho elevador, en cada una de las plantas del edificio, sea una superficie plana de ciento cincuenta centímetros de largo por similar medida de ancho.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 25.
 
-Las escaleras interiores de los edificios deberán permanecer perfectamente iluminadas, de manera artificial y/o natural, así como tener descansos, rellanos o mesetas, a intervalos adecuados para brindar al discapacitado o senescente un área segura en caso de sufrir mareo, agotamiento, falta de aire o cualquiera otra contingencia que afecte su condición física y lo ponga en estado de riesgo.
+Las escaleras interiores de los edificios deberán permanecer perfectamente iluminadas, de manera artificial y/o natural, así como tener descansos, rellanos o mesetas, a intervalos adecuados para brindar a las personas con discapacidad o senescentes un área segura en caso de sufrir mareo, agotamiento, falta de aire o cualquier otra contingencia que afecte su condición física y lo ponga en estado de riesgo.
 
 ###### ARTICULO 26.
 
@@ -283,15 +331,19 @@ Los rellanos o descansos de las escaleras interiores deberán pintarse con color
 
 En todo caso las escaleras tendrán pasamanos en ambos lados, con secciones no mayores de dos pulgadas de diámetro o de ancho, así como en forma continua, a fin de favorecer, entre otras, a personas con padecimientos artríticos o similares.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 28.
 
-Los pasamanos de las escaleras deberán contar con una prolongación razonable más allá del primero y del último escalón, para brindar a los discapacitados una mayor seguridad al circular.
+Los pasamanos de las escaleras deberán contar con una prolongación razonable más allá del primero y del último escalón, para brindar a las personas con discapacidad una mayor seguridad al circular.
 
 Por igual deberán contar, en ambos extremos, con una protuberancia que sirva como indicador, a los invidentes y débiles visuales, de lugar de inicio y fin de la escalera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 29.
 
-Con el objeto de evitar accidentes a personas discapacitadas o senescentes, deberán evitarse, en lo posible, las puertas de doble abatimiento.
+Con el objeto de evitar accidentes a personas con discapacidad o senescentes, deberán evitarse, en lo posible, las puertas de doble abatimiento.
 
 En caso de que no resulte posible dar cumplimiento a los interiores, los edificios deberán contar, a ambos lados de las puertas, con ventanas de vidrio inastillable que permitan la vista al exterior y al interior del inmueble.
 
@@ -315,21 +367,27 @@ En los sanitarios de uso público deberá instalarse, cuando menos, un lavamanos
 
 Este lavamanos deberá tener aislados sus tubos inferiores de agua caliente, para evitar quemaduras a personas carentes de sensibilidad en las piernas, y no deberá equiparse con llave de resorte o cierre automático.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 33.
 
-Los comedores de autoservicio, restoranes y cafeterías, sin que ello implique instalaciones especiales o servicios segregados que puedan denotar marginación o discriminación alguna en perjuicio de los discapacitados, deberán contar con, cuando menos, dos mesas de forma rectangular, estratégicamente colocadas, que tengan una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, con la finalidad de brindar comodidad a comensales en sillas de ruedas.
+Los comedores de autoservicio, restaurantes y cafeterías, sin que ello implique instalaciones especiales o servicios segregados que puedan denotar marginación o discriminación alguna en perjuicio de las personas con discapacidad y senescentes, deberán contar con, cuando menos, dos mesas de forma rectangular, estratégicamente colocadas, que tengan una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, con la finalidad de brindar comodidad a comensales en sillas de ruedas.
 
 Así mismo cada restaurant, deberá contar cuando menos con un juego de menú en sistema Braille.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 34.
 
-En los auditorios, cinematógrafos, teatros, salas de conciertos y de conferencias, centros recreativos, y en general cualquier recinto en que se presenten espectáculos públicos, deberán establecerse estratégicamente espacios reservados a discapacitados imposibilitados para hacer uso de los asientos o butacas con que cuente el recinto; así mismo se procurará que en esos inmuebles se eliminen los obstáculos viales de que trata este capítulo.
+En los auditorios, cinematógrafos, teatros, salas de conciertos y de conferencias, centros recreativos y en general cualquier recinto en que se presenten espectáculos públicos, deberán establecerse estratégicamente espacios reservados a personas con discapacidad imposibilitadas para hacer uso de los asientos o butacas con que cuente el recinto; así mismo, se procurará que en esos inmuebles se eliminen los obstáculos viales de que trata este Capítulo.
 
 Los empresarios o administradores de los recintos señalados en el párrafo anterior serán responsables de que se dé estricto cumplimiento a lo dispuesto en este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 35.
 
-Las bibliotecas de estantería abierta, deberán contar con una separación mínima de ciento veinte centímetros entre los anaqueles, a fin de facilitar su uso a discapacitados, principalmente aquellos que requieran movilizarse en silla de ruedas o muletas.
+Las bibliotecas de estantería abierta, deberán contar con una separación mínima de ciento veinte centímetros entre los anaqueles, a fin de facilitar su uso a personas con discapacidad, principalmente aquellos que requieran movilizarse en silla de ruedas o muletas.
 
 Las bibliotecas deberán contar, en la medida de sus posibilidades, con un área determinada específicamente para invidentes o débiles visuales, en donde se instalen casetas que permitan hacer uso de grabadoras o que otras personas les hagan lectura en voz alta sin causar perjuicio alguno a los demás usuarios y, en su caso, con los libros impresos bajo el sistema Braille y audiolibros para invidentes o débiles visuales.
 
@@ -347,61 +405,105 @@ Las señales y los muros o lugares en que éstas se coloquen deberán estar fabr
 
 ### CAPITULO SEXTO. DEL SERVICIO PUBLICO DE TRANSPORTE
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 38.
 
-Cuando en las poblaciones o localidades del Estado no existan transportes especializados para discapacitados o senescentes, o existiendo no cubran todas las rutas necesarias, los prestadores de servicio público de transporte colectivo de pasajeros, en cada una de las unidades que utilicen, deberán reservar, por lo menos, un asiento por cada diez de los que tenga el vehículo, a efecto de que en su caso sean utilizados por pasajeros discapacitados o senescentes, debiendo colocar un letrero con el logotipo adoptado a efecto de que se respete dicho espacio.
+Cuando en las poblaciones o localidades del Estado no existan transportes especializados para personas con discapacidad o senescentes, o existiendo no cubran todas las rutas necesarias, los prestadores de servicio público de transporte colectivo de pasajeros, en cada una de las unidades que utilicen, deberán reservar, por lo menos, un asiento por cada diez de los que tenga el vehículo, a efecto de que en su caso sean utilizados por pasajeros con discapacidad o senescentes, debiendo colocar un letrero con el logotipo adoptado a efecto de que se respete dicho espacio.
 
-Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y tendrán el emblema o leyenda a que se refiere el artículo 16 para identificarlos plenamente y podrán ser utilizados por cualquier usuario, siempre y cuando no sea requerido por algún discapacitado o senescente, so pena de hacerse acreedor a una sanción, de no acceder a ello, correspondiente hasta quinientos salarios mínimos vigentes que impondrá la autoridad de Tránsito del conocimiento.
+Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y tendrán el emblema o leyenda a que se refiere el artículo 16 para identificarlos plenamente y podrán ser utilizados por cualquier usuario, siempre y cuando no sea requerido por alguna persona con discapacidad o senescente, so pena de hacerse acreedor a una sanción, de no acceder a ello, correspondiente hasta quinientos salarios mínimos vigentes que impondrá la autoridad de Tránsito del conocimiento.
 
-### CAPITULO SEPTIMO. DE LOS PROGRAMAS DE EDUCACION VIAL, CORTESIA URBANA Y RESPETO A DISCAPACITADOS Y SENESCENTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 1999)</small>
+
+### CAPITULO SEPTIMO. DE LOS PROGRAMAS DE EDUCACION VIAL, CORTESIA URBANA Y RESPETO A PERSONAS CON DISCAPACIDAD Y SENESCENTES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 39.
 
-El Ejecutivo del Estado, a través de sus diferentes direcciones administrativas, las autoridades de Tránsito, el Instituto de Educación Pública en el Estado y del Sistema Estatal para el Desarrollo Integral de la Familia (DIF-OAXACA), diseñará e instrumentará programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia discapacitados y senescentes en su tránsito por la vía pública y en lugares de acceso al público, con la pretensión primordial de que la población en general acepte a los mismos en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación o discriminación, o el hacerlos objeto de mofa o de abuso alguno, o de simple indiferencia.
+El Ejecutivo del Estado, a través de sus diferentes direcciones administrativas, las autoridades de Tránsito, el Instituto de Educación Pública en el Estado y del Sistema Estatal para el Desarrollo Integral de la Familia (DIF-OAXACA), diseñará e instrumentará programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad y senescentes en su tránsito por la vía pública y en lugares de acceso al público, con la pretensión primordial de que la población en general acepte a los mismos en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación o discriminación, o el hacerlos objeto de mofa o de abuso alguno, o de simple indiferencia.
 
 Estos programas de campaña se difundirán ampliamente por los medios masivos de comunicación existentes en la Entidad.
 
 Los semáforos deberán contar con alarma sonora para indicar alto o avance a invidentes.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
+Las personas invidentes tendrán acceso a todos los servicios públicos y privados, incluso los que se desplacen acompañados de perros guías.
+
 ### CAPITULO OCTAVO. DE LOS DEBERES Y FACULTADES DEL ESTADO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 40.
 
-Conforme a la presente Ley, son deberes y facultades del Estado, en materia de protección a los discapacitados y senescentes:
+Conforme a la presente Ley, son deberes y facultades del Estado, en materia de atención a personas con discapacidad y senescentes:
 
-I.- Contratar un discapacitado por cada cincuenta trabajadores al servicio de los Poderes del Estado que realice la misma labor profesional, técnica o manual que cualesquier otro, aún cuando para ello se auxilie de aparatos ortopédicos o sillas de ruedas;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+I.- Contratar una persona con discapacidad por cada cincuenta trabajadores al servicio de los Poderes del Estado que realice la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos o silla de ruedas;
 
 II.- Los senescentes deberán ser ubicados en labores que puedan desempeñar con desahogo y que no afecten su salud ni estado físico pero puedan desarrollar en beneficio de la colectividad;
 
 III.- A través del órgano que corresponda preverá presupuestalmente las plazas necesarias para cumplir con la disposición que antecede;
 
-IV.- Procurar el fomento de diversas actividades que permitan un desarrollo integral del discapacitado y del senescente ante la familia, escuela, trabajo, así como en la recreación;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+IV.- Procurará el fomento de diversas actividades que permitan un desarrollo integral de la persona con discapacidad y del senescente ante la familia, escuela, trabajo, así como en la recreación;
 
 V.- Impedir que en las zonas urbanas de nueva creación se construyan aceras, intersecciones, estacionamientos, escaleras, coladeras y rampas que no cumplan con lo especificado con el presente ordenamiento;
 
-VI.- Impedir que las nuevas construcciones que se realicen tanto por parte del sector público, como por los sectores privado y social, con fines de uso comunitario ya sea de servicios administrativos, recreación o de cualquiera otra naturaleza, cuenten con obstáculos viales en los términos a que se contrae la presente Ley, observando las especificaciones que en la misma se contienen a efecto de beneficiar a discapacitados y senescentes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+VI.- Impedir que las nuevas construcciones que se realicen tanto por parte del sector público, como por los sectores privado y social, con fines de uso comunitario ya sea de servicios administrativos, recreación o de cualquiera otra naturaleza, cuente con obstáculos viales en los términos a que se contrae la presente Ley, observando las especificaciones que en la misma se contienen a efecto de beneficiar a personas con discapacidad y senescentes;
 
 VII.- Apoyar a las autoridades federales, estatales y municipales, que así lo soliciten, en las acciones que emprendan tendientes a la eliminación de obstáculos viales en los diversos espacios urbanos en la Entidad;
 
-VIII.- Dar las facilidades necesarias a las asociaciones civiles cuya finalidad ulterior resulte una mayor integración, en todos los ámbitos, de personas discapacitadas o senescentes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
 
-IX.- Auxiliar a los organismos de las diferentes esferas de gobierno que trabajen para la integración social y económica y la rehabilitación física de personas discapacitadas o senescentes;
+VIII.- Dar las facilidades necesarias a las asociaciones civiles cuya finalidad ulterior resulte una mayor integración, en todos los ámbitos, de personas con discapacidad o senescentes;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+IX.- Auxiliar a los organismos de las diferentes esferas de Gobierno que trabajen para la integración social y económica y la rehabilitación física de personas con discapacidad o senescentes;
 
 X.- Proponer programas educacionales y de cortesía en las Entidades de los sectores público, social y privado;
 
-XI.- Otorgar preseas, becas y estímulos en numerario y en especie, a personas discapacitadas o senescentes que hayan destacado en forma sobresaliente en las áreas laboral, científica, técnica, escolar, deportiva, o de cualquiera otra índole, en beneficio y como ejemplo a la sociedad;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
 
-XII.- Mantener en buen estado los señalamientos y mobiliario urbano propios para discapacitados y senescentes;
+XI.- Otorgar preseas, becas y estímulos en numerario y en especie, a personas con discapacidad o senescentes que hayan destacado en forma sobresaliente en las áreas laboral, científica, técnica, escolar, deportiva o de cualquier otra índole, en beneficio y como ejemplo a la sociedad;
 
-XIII.- Promover la modificación, derogación o abrogación de los ordenamientos estatales vigentes, para la supresión de obstáculos viales en apoyo solidario a discapacitados o senescentes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
 
-XIV.- La observancia y cumplimiento amplio de las disposiciones contenidas en el presente ordenamiento legal en beneficio de discapacitados y senescentes;
+XII.- Mantener en buen estado los señalamientos inmobiliario urbano propios para personas con discapacidad o senescentes;
 
-XV.- Promover que el sector salud establezca módulos de atención integral para discapacitados;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
 
-XVI.- Promover se destinen áreas específicas y adcuadas (sic) a las necesidades de los discapacitados; y
+XIII.- Proponer la modificación, derogación o abrogación de los ordenamientos estatales vigentes, para la supresión de obstáculos viales en apoyo solidario a las personas con discapacidad;
 
-XVII.- Las demás que resulten de la aplicación de la presente Ley, de las legislaciones viales, sanitarias y asistencial y de los demás ordenamientos legales y reglamentarios aplicables en la materia.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+XIV.- La observancia y cumplimiento amplio de las disposiciones contenidas en el presente ordenamiento legal en beneficio de las personas con discapacidad y senescentes;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+XV.- Promover que el sector salud establezca módulos de atención integral para personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+XVI.- Promover se destinen áreas específicas y adecuadas a las necesidades de las personas con discapacidad;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE AGOSTO DE 1999)</small>
+
+XVII.- Promover la participación de las personas con discapacidad en los programas de vivienda, de acuerdo con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+XVIII.- Fomentará el establecimiento de servicios y programas turísticos, que incluyan las facilidades de acceso y descuentos para las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+XIX.- Las demás que resulten de la aplicación de la presente Ley, de las legislaciones viales, sanitarias y asistencial de los demás ordenamientos legales y reglamentarios aplicables en la materia.
 
 ###### ARTICULO 41.
 
@@ -409,13 +511,17 @@ El Estado, en el ámbito de su competencia, de acuerdo a sus posibilidades y de 
 
 ### CAPITULO NOVENO. DE LOS DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 42.
 
-Son deberes y facultades de los Ayuntamientos en materia de protección a discapacitados y senescentes:
+Son deberes y facultades de los Ayuntamientos en materia de atención a personas con discapacidad y senescentes:
 
 I.- Asumir, en términos de este ordenamiento y convenios que pudiese suscribir con el Ejecutivo del Estado, un programa de supresión de obstáculos viales;
 
-II.- Formular y desarrollar programas municipales de atención a discapacitados y senescentes en el marco de los Sistemas Nacional y Estatal de Salud, así como conforme a los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+II.- Formular y desarrollar programas municipales de atención a personas con discapacidad y senescentes en el marco de los sistemas nacional y estatal de salud, así como conforme a los principios y objetivos de los planes nacional, estatal y municipal de desarrollo;
 
 III.- Celebrar convenios de colaboración en la materia con los Gobiernos Federal, Estatal y de otros Municipios de la Entidad, así como con Entidades de los sectores públicos, social y privado, y con particulares;
 
@@ -423,11 +529,15 @@ IV.- Vigilar el cumplimiento, en la esfera de su competencia, en la presente ley
 
 V.- Conservar en buen estado, libres de tierra, piedras, arena y de cualquier otro material, las rampas construidas en aceras, intersecciones o escaleras de la vía pública;
 
-VI.- Destinar, de los establecimientos públicos, los espacios necesarios para el ascenso y descenso de discapacitados y senescentes;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+VI.- Destinar, de los establecimientos públicos, los espacios necesarios para el ascenso y descenso de personas con discapacidad y senescentes;
 
 VII.- Gestionar y vigilar el cumplimiento, ante las autoridades y empresas respectivas, de la colocación de teléfonos públicos, de protectores para tensores de postes y de cubiertas para coladeras, con sus respectivos señalamientos, conforme a lo estipulado de la presente Ley;
 
-VIII.- Expedir, modificar, derogar o abrogar los ordenamientos municipales conducentes a fin de lograr la supresión de las (sic) obstáculos viales que se refieren en esta Ley, con la finalidad de beneficiar a discapacitados y senescentes; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+VIII.- Expedir, modificar, derogar o abrogar los ordenamientos municipales conducentes a fin de lograr la supresión de los obstáculos viales que se refiere esta Ley, con la finalidad de beneficiar a las personas con discapacidad y senescentes; y
 
 IX.- Las demás que le confieran esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
 
@@ -435,19 +545,25 @@ IX.- Las demás que le confieran esta Ley y otros ordenamientos legales y reglam
 
 Las bases y modalidades del ejercicio coordinado, de las atribuciones de los Gobiernos Estatal y Municipales, se establecerá en los convenios correspondientes que al efecto se celebren, en los términos de la Constitución Política del Estado, de la presente Ley, de la Ley Orgánica Municipal del Estado, de las invocadas Legislaciones vial, sanitaria y asistencial, y demás ordenamientos legales aplicables a la materia.
 
-### CAPITULO DECIMO. DE LAS FACULTADES Y DEBERES DE PADRES Y TUTORES DE DISCAPACITADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 1999)</small>
+
+### CAPITULO DECIMO. DE LAS FACULTADES Y DEBERES DE PADRES Y TUTORES DE PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 44.
 
-Son facultades y deberes de quienes ejercen la patria potestad o tutela sobre discapacitados, en las materias a que se refiere esta ley:
+Son facultades y deberes de quienes ejercen la patria potestad o tutela sobre personas con discapacidad, en las materias que se refiere esta Ley:
 
 I.- Exponer su queja ante la autoridad que corresponda cuando observen alguna irregularidad o anomalía en la aplicación del presente ordenamiento; y
 
 II.- Promover y participar en todas aquellas acciones que resulten necesarias para el mejoramiento material, cultural, clínico y moral de sus representados.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 45.
 
-Los padres y tutores de discapacitados, podrán agruparse en sociedades o asociaciones, así como gestionar ante el Ejecutivo del Estado el otorgamiento de los estímulos a que se refiere la fracción XI del artículo 40 de esta Ley.
+Los padres y tutores de personas con discapacidad, podrán agruparse en sociedades o asociaciones, así como gestionar ante el Ejecutivo del Estado el otorgamiento de los estímulos a que se refiere la fracción XI del artículo 40 de esta Ley.
 
 ### CAPITULO DECIMO PRIMERO. DE LAS SANCIONES
 
@@ -539,33 +655,65 @@ La interposición del recurso, salvo en el caso de que trata el artículo anteri
 
 La resolución que se dicte en la reconsideración no admitirá recurso alguno.
 
-### CAPITULO DECIMO TERCERO. DEL CONSEJO ESTATAL DE NORMAS URBANAS Y ARQUITECTONICAS Y PROTECCION INTEGRAL DE DISCAPACITADOS Y SENESCENTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 1999)</small>
+
+### CAPITULO DECIMO TERCERO. DEL CONSEJO ESTATAL DE NORMAS URBANAS, ARQUITECTONICAS Y DE ATENCION INTEGRAL DE PERSONAS CON DISCAPACIDAD Y SENESCENTES
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 58.
 
-Se crea un Consejo Estatal de Normas Urbanas y Arquitectónicas y Protección Integral de Discapacitados y Senescentes.
+Se crea un Consejo Estatal de Normas Urbanas, Arquitectónicas y de Atención Integral a Personas con Discapacidad y Senescentes.
+
+Dicho consejo tiene por objeto proponer acciones específicas de concertación, coordinación, planeación y promoción de los trabajos necesarios para garantizar condiciones que favorezcan la plena integración al desarrollo de las personas con discapacidad en el Estado.
 
 ###### ARTICULO 59.
 
 El Consejo se integrará por:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
 
-II.- El Titular de la Secretaría de Gobierno del Ejecutivo Estatal, quien fungirá como primer vicepresidente;
+I.- El Gobernador del Estado, como Presidente Honorario;
 
-III.- El Titular de la Secretaría de Desarrollo Social del Ejecutivo Estatal, quien fungirá como segundo vicepresidente;
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
 
-IV.- La Titular de la presidencia del Patronato del Sistema Estatal para el Desarrollo Integral de la Familia (Sistema DIF- Oaxaca), quien fungirá como secretaria;
+II.- El Secretario de Salud del Estado, como Presidente Ejecutivo;
 
-V.- El Titular de la Dirección del Centro de Rehabilitación y Educación Especial del DIF, quien fungirá como secretario técnico;
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
 
-VI.- Los Titulares de las Secretarías de Salud y de Desarrollo Urbano Comunicaciones y Obras Públicas, quienes fungirán como vocales;
+III.- La Presidenta del Sistema Estatal para el Desarrollo Integral de la Familia, quien fungirá como vocal;
 
-VII.- Los Titulares de las presidencias de los Ayuntamientos de los Municipios del Estado involucrados en el acto a estudio, quienes también fungirán como vocales;
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
 
-VIII.- Un representante de la asociación de discapacitados y senescentes, como vocal; y
+IV.- El Director General del Sistema Estatal para el Desarrollo Integral de la Familia, quien fungirá como vocal;
 
-IX.- Los representantes que designen, a invitación del Presidente del Consejo, las organizaciones de los sectores social y privado, quienes fungirán como vocales honorarios.
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
+
+V.- El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
+
+VI.- El Secretario de Transporte, quien fungirá como vocal;
+
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
+
+VII.- Hasta dos representantes de las asociaciones u organizaciones de personas con discapacidad constituidas legalmente, quienes fungirán como vocales;
+
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
+
+VIII.- Hasta tres representantes de los sectores privados y sociales, a invitación del Presidente del Consejo, quienes fungirán como vocales;
+
+> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
+
+IX.- El o los Presidentes Municipales de aquellos Municipios del Estado involucrados en el acto en estudio, quienes fungirán como vocales; y
+
+> <small>(ADICIONADA, P.O.14 DE AGOSTO DE 1999)</small>
+
+X.- El Director del Centro de Rehabilitación y Educación Especial del DIF, quien fungirá como Secretario Técnico y tendrá la responsabilidad de darle seguimiento a los acuerdos adoptados por el Consejo.
+
+> <small>(ADICIONADO, P.O.14 DE AGOSTO DE 1999)</small>
+
+Los vocales tendrán derecho a voz y voto y el secretario técnico a voz; el presidente honorario y el presidente ejecutivo tendrán voto de calidad.
 
 ###### ARTICULO 60.
 
@@ -597,6 +745,12 @@ La Secretaría de Gobierno se abstendrá de dar trámite a las solicitudes de ot
 
 Las autoridades estatales encargadas de los rubros en materia de salud, asistencia social y vialidad y transportes están obligadas, dentro del ámbito de sus respectivas competencias, a brindar los apoyos que le soliciten las autoridades a cuyo cargo se encuentra la vigencia de cumplimiento de esta Ley.
 
+> <small>(ADICIONADO, P.O.14 DE AGOSTO DE 1999)</small>
+
+###### ARTICULO 65.
+
+El Ejecutivo del Estado, por sí o a través del Consejo, podrá celebrar convenios de coordinación y colaboración con el Gobierno Federal, con los de las demás Entidades Federativas o de los Municipios y con organizaciones sociales, públicas o privadas en materia de asistencia para personas con discapacidad.
+
 TRANSITORIOS:
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -607,7 +761,9 @@ TERCERO.- La ejecución de las obras que el Gobierno del Estado y los Gobiernos 
 
 CUARTO.- Los propietarios de inmuebles y prestadores del servicio público de transporte colectivo de pasajeros, contarán con un plazo de ciento ochenta días para hacer a sus correspondientes bienes las adecuaciones tendientes al cumplimiento de esta Ley, salvo que pericialmente quede acreditada la imposibilidad de efectuarlas o que su costo resulte prohibitivo.
 
-QUINTO.- El Consejo Estatal de Normas Urbanas y Arquitectónicas y Protección Integral de Discapacitados y Senescentes se instalará en la sesión cuya fecha y lugar determine el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
+QUINTO.- El Consejo Estatal de Normas Urbanas, Arquitectónicas y de Atención Integral de Personas con Discapacidad y Senescentes se instalará en la sesión cuya fecha y lugar determine el Ejecutivo del Estado.
 
 SEXTO.- El Secretario Técnico del Consejo, dentro de los sesenta días posteriores a la fecha de instalación del propio Consejo, elaborará el correspondiente proyecto de Reglamento Interior.
 
@@ -648,3 +804,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. JOSE ANTONIO ESTEFAN GARFIAS. Rúbrica.
 
 Al C.......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
