@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "1998-09-13"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -1733,6 +1733,10 @@ Los responsables por la comisión de las infracciones y por tanto acreedores a l
 
 Al conductor que contravenga las disposiciones de la presente Ley, se le sancionará de acuerdo con la falta cometida, con el pago de multa correspondiente, de uno a quince días de salario mínimo general vigente en el Estado, según se indica en este artículo. Sin embargo, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución General de la República.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El importe de las multas a que se refiere el párrafo anterior constituirán aprovechamientos del Municipio en el cual fue cometida la infracción, a excepción de lo que establece el segundo párrafo del Artículo 158 de la presente Ley.
+
 GRUPOS
 
 TIPO DE VEHICULO Y FALTA
@@ -2085,6 +2089,10 @@ D).- Vehículos de transporte de carga:
 
 La persona que al conducir cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas, y cometa una infracción a la presente Ley, será sancionada con 60 días D.S.M.G.V. La aplicación del presente Artículo será sin perjuicio de la responsabilidad penal en que pudiere incurrirse.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
+El Presupuesto de Egresos Municipal correspondiente establecerá el porcentaje de la recaudación de las multas que se impongan en cumplimiento del presente artículo y del artículo siguiente, que deberá destinarse a las instituciones de beneficencia que presten atención médica prehospitalaria a personas involucradas en accidentes.
+
 ###### ARTICULO 159.
 
 La sanción económica destinada al conductor de todo tipo de vehículo, correspondiente a conducir con exceso de velocidad, será calculada de la siguiente manera:
@@ -2266,3 +2274,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 13 DE SEPTIEMBRE DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P. O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
