@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1967-10-24"
+last_updated: "1967-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1967.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1302,15 +1302,23 @@ Los secretarios del Despacho, luego que esté abierto el período de sesiones or
 
 DEL PODER JUDICIAL.
 
-(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito, Colegiados en materia de amparo y unitarios en materia de apelación, y en juzgados de Distrito. La Suprema Corte de Justicia de la Nación se compondrá de veintiún Ministros y funcionará en Tribunal Pleno o en Salas. Habrá, además, cinco Ministros Supernumerarios. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Los períodos de sesiones de la Suprema Corte, funcionamiento del Pleno y de las Salas, las atribuciones de los Ministros supernumerarios y el número y competencia de los Tribunales de Circuito y de los Jueces de Distrito se regirán por esta Constitución y lo que dispongan las leyes. En ningún caso los Ministros supernumerarios integrarán el Pleno. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los jueces de Distrito, no podrá ser disminuída durante su encargo.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito, Colegiados en materia de amparo y Unitarios en materia de apelación, y en Juzgados de Distrito.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+La Suprema Corte de Justicia de la Nación se compondrá de veintiún ministros numerarios y cinco supernumerarios y funcionará en Pleno o en Salas. Los ministros supernumerarios formarán parte del Pleno cuando suplan a los numerarios.
 
-Los Ministros de la Suprema Corte de Justicia podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
+En los términos que la ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
+
+La competencia de la Suprema Corte, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los ministros, el número y competencia de los Tribunales de Circuito y de los jueces de Distrito y las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial de la Federación, se regirán por esta Constitución y lo que dispongan las leyes.
+
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
+
+La remuneración que perciban por sus servicios los ministros de la Suprema Corte, los magistrados de Circuito y los jueces de Distrito no podrá ser disminuida durante su encargo.
+
+Los ministros de la Suprema Corte de Justicia sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con el procedimiento señalado en la parte final del artículo 111 de esta Constitución o previo el juicio de responsabilidad.
 
 ###### Art. 95.
 
@@ -1372,13 +1380,17 @@ Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
 
 Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte y ante la autoridad que determina la Ley.
 
-(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 98.
 
-La falta temporal de un Ministro de la Suprema Corte de Justicia de la Nación que no exceda de un mes, será suplida en la Sala correspondiente por uno de los supernumerarios. Si la falta excediere de ese término, el Presidente de la República someterá el nombramiento de un Ministro provisional a la aprobación del Senado, o, en su receso, a la de la Comisión Permanente, y se observará, en su caso, lo dispuesto en la parte final del artículo 96.
+Los ministros numerarios de la Suprema Corte de Justicia de la Nación serán suplidos en sus faltas temporales por los supernumerarios.
 
-Si faltare un Ministro por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación del Senado. Si el Senado no estuviere en funciones, la Comisión Permanente dará su aprobación, mientras se reúne aquél y da la aprobación definitiva.
+Si la falta excediere de un mes, el Presidente de la República someterá el nombramiento de un ministro provisional a la aprobación del Senado o en su receso a la de la Comisión Permanente, observándose, en su caso, lo dispuesto en la parte final del artículo 96 de esta Constitución.
+
+Si faltare un ministro por defunción o por cualquiera causa de separación definitiva, el Presidente someterá un nuevo nombramiento a la aprobación del Senado. Si el Senado no estuviere en funciones, la Comisión Permanente dará su aprobación mientras se reúne aquél y da la aprobación definitiva.
+
+Los supernumerarios que suplan a los numerarios, permanecerán en el desempeño del cargo hasta que tome posesión el ministro nombrado por el Presidente de la República ya sea con carácter provisional o definitivo.
 
 > <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1386,27 +1398,29 @@ Si faltare un Ministro por defunción, renuncia o incapacidad, el Presidente de 
 
 Las renuncias de los Ministros de la Suprema Corte de Justicia, solamente procederán por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Senado, y en su receso, a la de la Comisión Permanente.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 100.
 
-Las licencias de los Ministros, cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, las concederá el Presidente de la República con aprobación del Senado, o en sus recesos por la Comisión Permanente.
+Las licencias de los ministros, cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, las concederá el Presidente de la República con la aprobación del Senado, o en sus recesos con la de la Comisión Permanente. Ninguna licencia podrá exceder del término de dos años.
 
 ###### Art. 101.
 
 Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito y los respectivos Secretarios, no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, de los Estados o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 102.
 
-La Ley organizará al Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser Magistrado de la Suprema Corte de Justicia.
+La ley organizará el Ministerio Público de la Federación, cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, debiendo estar presididos por un Procurador General, el que deberá tener las mismas calidades requeridas para ser ministro de la Suprema Corte de Justicia.
 
-Estará a cargo del Ministerio Público de la Federación la persecución, ante los Tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los reos; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la misma ley determinare.
+Incumbe al Ministerio Público de la Federación, la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
 
-El Procurador General de la República intervendrá personalmente en todos los negocios en que la Federación fuese parte; en los casos de los Ministros, Diplomáticos y Cónsules Generales, y en aquellos que se suscitaren entre dos o más Estados de la Unión, entre un Estado y la Federación o entre los Poderes de un mismo Estado. En los demás casos en que deba intervenir el Ministerio Público de la Federación, el Procurador General podrá intervenir por sí o por medio de alguno de sus Agentes.
+El Procurador General de la República intervendrá personalmente en las controversias que se suscitaren entre dos o más Estados de la Unión, entre un Estado y la Federación o entre los Poderes de un mismo Estado.
 
-El Procurador General de la República será el Consejero Jurídico del Gobierno. Tanto él como sus Agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+En todos los negocios en que la Federación fuese parte; en los casos de los diplomáticos y los cónsules generales y en los demás en que deba intervenir el Ministerio Público de la Federación, el Procurador General lo hará por sí o por medio de sus agentes.
+
+El Procurador General de la República será el consejero jurídico del Gobierno. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
 
 ###### Art. 103.
 
@@ -1418,31 +1432,35 @@ II.- Por leyes o actos de la autoridad federal que vulneren o restrinjan la sobe
 
 III.- Por leyes o actos de las autoridades de éstos que invadan la esfera de la autoridad federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 104.
 
 Corresponde a los Tribunales de la Federación conocer:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia podrán ser apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
 
-I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
+Las leyes federales podrán instituir tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Federal o del Distrito y Territorios Federales, y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
-En los juicios en que la Federación esté interesada, las leyes podrán establecer recursos ante la Suprema Corte de Justicia contra las sentencias de segunda instancia o contra las de tribunales administrativos creados por ley federal, siempre que dichos tribunales estén dotados de plena autonomía para dictar sus fallos.
+Procederá el recurso de revisión ante la Suprema Corte de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, sólo en los casos que señalen las leyes federales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
 
-II.- De todas las controversias que versen sobre derecho marítimo.
+La revisión se sujetará a los trámites que la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y la resolución que en ella dicte la Suprema Corte de Justicia, quedará sujeta a las normas que regulan la ejecutoriedad y cumplimiento de las sentencias de amparo;
 
-III.- De aquellas en que la Federación fuese parte.
+II.- De todas las controversias que versen sobre derecho marítimo;
 
-IV.- De las que se susciten entre dos o más Estados, o en un Estado y la Federación, así como de los que surgieren entre los tribunales del Distrito Federal y los de la Federación o un Estado.
+III.- De aquellas en que la Federación fuese parte;
 
-V.- De las que surjan entre un Estado y uno o más vecinos de otro.
+IV.- De las que se susciten entre dos o más Estados o un Estado y la Federación, así como de las que surgieren entre los tribunales del Distrito Federal y los de la Federación o un Estado;
+
+V.- De las que surjan entre un Estado y uno o más vecinos de otro, y
 
 VI.- De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
+> <small>(REFORMADO 25 DE OCTUBRE DE 1967)</small>
+
 ###### Art. 105.
 
-Corresponde sólo a la Suprema Corte de Justicia de la Nación, conocer de las controversias que se susciten entre dos o más Estados, entre los Poderes de un mismo Estado sobre la constitucionalidad de sus actos, y de los conflictos entre la Federación y uno o más Estados, así como de aquellas en que la Federación fuese parte.
+Corresponde sólo a la Suprema Corte de Justicia de la Nación conocer de las controversias que se susciten entre dos o más Estados, entre los Poderes de un mismo Estado sobre la constitucionalidad de sus actos y de los conflictos entre la Federación y uno o más Estados, así como de aquellas en que la Federación sea parte en los casos que establezca la ley.
 
 ###### Art. 106.
 
@@ -1460,79 +1478,103 @@ II.- La sentencia será siempre tal, que sólo se ocupe de individuos particular
 
 Podrá suplirse la deficiencia de la queja, cuando el acto reclamado se funde en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia.
 
-Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia de trabajo, cuando se encuentre que ha habido en contra del agraviado, una violación manifiesta de la ley, que lo ha dejado sin defensa, y en materia penal, además cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 1962)</small>
+Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia de trabajo, cuando se encuentre que ha habido, en contra del agraviado, una violación manifiesta de la ley que lo ha dejado sin defensa, y en materia penal, además, cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
 
-En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios y comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la ley reglamentaria; y no procederán el desistimiento, el sobreseimiento por inactividad, ni la caducidad de la instancia, cuando se afecten derechos de los ejidos o núcleos de población comunal.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-III.- En materias judicial, civil o penal y del trabajo el amparo sólo procederá:
+En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios o comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la Ley Reglamentaria de los artículos 103 y 107 de esta Constitución, y no procederán, en ningún caso, la caducidad de la instancia ni el sobreseimiento por inactividad procesal. Tampoco será procedente el desistimiento cuando se afecten derechos de los ejidos o núcleos de población comunal.
 
-a).- Contra sentencias definitivas o laudos respecto de los cuales no proceda ningún recurso ordinario por virtud del cual puedan ser modificados o reformados, ya sea que la violación de la ley se cometa en ellos, o que, cometida durante la secuela del procedimiento, afecte a las defensas del quejoso trascendiendo al resultado del fallo; siempre que en materia judicial, civil o penal, se hubiere reclamado oportunamente y protestado contra ella por negarse su reparación y que cuando cometida en primera instancia, se haya alegado en la segunda, por vía de agravio.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-b).- Contra actos en juicio, cuya ejecución sea de imposible reparación, fuera de juicio o después de concluído una vez agotados los recursos que en su caso procedan.
+III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
+
+a).- Contra sentencias definitivas o laudos respecto de los cuales no proceda ningún recurso ordinario por el que puedan ser modificados o reformados, ya sea que la violación se cometa en ellos, o que, cometida durante el procedimiento afecte a las defensas del quejoso, trascendiendo al resultado del fallo; siempre que en materia civil haya sido impugnada la violación en el curso del procedimiento mediante el recurso ordinario establecido por la ley e invocada como agravio en la segunda instancia, si se cometió en la primera. Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia.
+
+b).- Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
 
 c).- Contra actos que afecten a personas extrañas al juicio.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-IV.- En materia administrativa, el amparo procede contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstas cuando la ley que los establezca exija para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
+IV.- En materia administrativa el amparo procede, además, contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstos cuando la ley que los establezca exija, para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
 
-V.- Salvo lo dispuesto en la fracción siguiente, el amparo contra sentencias definitivas o laudos, por violaciones cometidas en ellos, se interpondrá directamente ante la Suprema Corte de Justicia, la cual pronunciará sentencia sin más trámite que el escrito en que se intente el juicio, la copia certificada de las constancias que el agraviado señale, la que se adicionará con las que indicare el tercer perjudicado, el escrito de éste, el que produzca, en su caso, el Procurador General de la República o el Agente que al efecto designare y el de la autoridad responsable.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-VI.- El amparo contra sentencias definitivas o laudos, se interpondrá directamente ante el Tribunal Colegiado de Circuito bajo cuya jurisdicción esté el domicilio de la autoridad que pronuncie la sentencia o laudo, cuando la demanda se funde en violaciones substanciales cometidas durante la secuela del procedimiento o se trate de sentencias en materia civil o penal, contra las que no proceda recurso de apelación, cualesquiera que sean las violaciones alegadas.
+V.- El amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante la Suprema Corte de Justicia.
 
-Siempre que el (sic) interponerse amparo contra sentencias definitivas en materias civil o penal o laudos en materia del trabajo, se aleguen violaciones substanciales cometidas durante la secuela del procedimiento y violaciones cometidas en la sentencia o laudo respectivos, se reclamarán conjuntamente, presentándose la demanda ante el Tribunal Colegiado de Circuito que corresponda, el cual sólo decidirá sobre las violaciones substanciales durante el procedimiento, y si la sentencia fuere desfavorable al agraviado, remitirá el expediente a la Suprema Corte de Justicia, para que resuelva sobre las violaciones cometidas en sentencias o laudos.
+a).- En materia penal, contra resoluciones definitivas dictadas por Tribunales Judiciales del Fuero Federal incluso los castrenses; tratándose de autoridades judiciales del orden común, cuando las sentencias que motiven la interposición de la demanda de amparo impongan la pena de muerte o comprendan una sanción privativa de libertad que exceda del término que para el otorgamiento de la libertad caucional señala la fracción I del artículo 20 de esta Constitución.
 
-Para la interposición y tramitación del amparo ante los Tribunales Colegiados de Circuito, se observará lo dispuesto en la fracción precedente. Cumplido ese trámite, se pronunciará sentencia conforme al procedimiento que disponga la ley.
+b).- En materia administrativa, cuando se reclamen por particulares sentencias definitivas dictadas por Tribunales Federales, Administrativos o Judiciales, no reparables por algún recurso, juicio o medio ordinario de defensa legal, con las limitaciones que en materia de competencia establezca la ley secundaria.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+c).- En materia civil, cuando se reclamen sentencias definitivas dictadas en juicios del orden federal o en juicios mercantiles, sea federal o local la autoridad que dicte el fallo, o en juicios del orden común, con las limitaciones que en materia de competencia establezca la ley secundaria. Sólo la Suprema Corte conocerá de amparos contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia.
 
-VII.- El amparo contra actos en juicio, fuera de juicio o después de concluído o que afecten a personas extrañas al juicio, contra leyes y contra actos de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia.
+En los juicios civiles del orden federal, las sentencias podrán ser reclamadas en amparo por cualquiera de las partes incluso por la Federación en defensa de sus intereses patrimoniales, y
 
-VIII.- Contra las sentencias que pronuncien en amparo los jueces de Distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia en los siguientes casos:
+d).- En materia laboral, cuando se reclamen laudos dictados por Juntas Centrales de Conciliación y Arbitraje de las entidades federativas, en conflictos de carácter colectivo; por autoridades federales de Conciliación y Arbitraje en cualquier conflicto, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado.
 
-a).- Cuando se impugne una ley por su inconstitucionalidad o se trate de los casos comprendidos en las fracciones II y III del artículo 103.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-b).- Cuando la autoridad responsable en amparo administrativo sea federal.
+VI.- Fuera de los casos previstos en la fracción anterior, el amparo contra sentencias definitivas o laudos, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá directamente ante el Tribunal Colegiado de Circuito dentro de cuya jurisdicción resida la autoridad que pronuncie la sentencia o el laudo.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+En los casos a que se refieren esta fracción y la anterior, la Ley Reglamentaria del Juicio de Amparo señalará el trámite y los términos a que deberán someterse tanto la Suprema Corte de Justicia como los Tribunales Colegiados de Circuito para dictar sus respectivas resoluciones.
 
-c).- Cuando se reclame, en materia penal, solamente la violación del artículo 22 de esta Constitución.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+VII.- El amparo contra actos en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra leyes o contra actos de autoridad administrativa, se interpondrá ante el juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia.
 
-En los demás casos, conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito, no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezca la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
+VIII.- Contra las sentencias que pronuncien en amparo los jueces de Distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
-La resolución del Tribunal Colegiado de Circuito no será recurrible, cuando se funde en la jurisprudencia que haya establecido la Suprema Corte de Justicia sobre la constitucionalidad de una ley o la interpretación directa de un precepto de la Constitución.
+a).- Cuando se impugne una ley por estimarla inconstitucional.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+b).- Cuando se trate de los casos comprendidos en las fracciones II y III del artículo 103 de esta Constitución.
 
-X.- Los actos reclamados podrán ser objeto de suspensión, en los casos y mediante las condiciones y garantías que determine la ley, para lo cual, se tomarán en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
+c).- Cuando se reclamen del Presidente de la República, por estimarlos inconstitucionales, reglamentos en materia federal expedidos de acuerdo con el artículo 89, fracción I, de esta Constitución.
 
-Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal, al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso, para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto, si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban, si se concediese el amparo, y a pagar los daños y perjuicios consiguientes.
+d).- Cuando en materia agraria, se reclamen actos de cualquiera autoridad que afecten a núcleos ejidales o comunales en sus derechos colectivos o a la pequeña propiedad.
 
-XI.- La suspensión se pedirá ante la autoridad responsable, cuando se trate de amparos directos ante la Suprema Corte de Justicia o los Tribunales Colegiados de Circuito, en cuyo caso el agraviado le comunicará, a la propia autoridad responsable, dentro del término que fije la ley y bajo protesta de decir verdad, la interposición del amparo, acompañando dos copias de la demanda, una para el expediente y otra que se entregará a la parte contraria. En los demás casos, conocerán y resolverán sobre la suspensión los Juzgados de Distrito.
+e).- Cuando la autoridad responsable, en amparo administrativo sea federal, con las limitaciones que en materia de competencia establezca la ley, y
 
-XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del Tribunal que la cometa, o ante el Juez de Distrito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
+f).- Cuando en materia penal, se reclame solamente la violación del artículo 22 de esta Constitución.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+En los casos no previstos en los incisos anteriores, así como en los amparos promovidos contra actos de las autoridades administrativas constituidas conforme a la fracción VI, bases primera y segunda del artículo 73 de esta Constitución, conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
 
-Si el Juez de Distrito no residiere en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-XIII.- La ley determinará los términos y casos en que sea obligatoria la jurisprudencia de los Tribunales del Poder Judicial de la Federación, así como los requisitos para su modificación.
+La resolución del Tribunal Colegiado de Circuito no será recurrible cuando se funde en la jurisprudencia que haya establecido la Suprema Corte de Justicia sobre la constitucionalidad de una ley o la interpretación directa de un precepto de la Constitución.
 
-Si los Tribunales Colegiados de Circuito sustentan tesis contradictorias en los juicios de amparo materia de su competencia, los Ministros de la Suprema Corte de Justicia, el Procurador General de la República o aquellos Tribunales, podrán denunciar la contradicción ante la Sala que corresponda, a fin de que decida cuál es la tesis que debe prevalecer.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+X.- Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones y garantías que determine la ley, para lo cual se tomará en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
 
-Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia cualquiera de esas Salas o el Procurador General de la República, podrán denunciar la contradicción ante la misma Suprema Corte de Justicia, quien decidirá, funcionando en Pleno, qué tesis debe observarse. Tanto en este caso como en el previsto en el párrafo anterior, la resolución que se dicte será solo para el efecto de la fijación de la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en el juicio en que fueron pronunciadas.
+Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo, y a pagar los daños y perjuicios consiguientes.
 
-XIV.- Cuando el acto reclamado proceda de autoridades civiles o administrativas y siempre que no esté reclamada la constitucionalidad de una ley, se sobreserá (sic) por inactividad de la parte agraviada en los casos y términos que señale la ley reglamentaria de este artículo.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
+XI.- La suspensión se pedirá ante la autoridad responsable cuando se trate de amparos directos ante la Suprema Corte de Justicia o los Tribunales Colegiados de Circuito, en cuyo caso el agraviado le comunicará a la propia autoridad responsable, dentro del término que fije la ley y bajo protesta de decir verdad, la interposición del amparo, acompañando dos copias de la demanda, una para el expediente y otra que se entregará a la parte contraria. En los demás casos, conocerán y resolverán sobre la suspensión los Juzgados de Distrito.
+
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
+XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del tribunal que la cometa, o ante el juez de Distrito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
+
+Si el juez de Distrito no residiere en el mismo lugar que reside la autoridad responsable, la ley determinará el juez ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
+XIII.- Cuando los Tribunales Colegiados de Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, los ministros de la Suprema Corte de Justicia, el Procurador General de la República, los mencionados tribunales o las partes que intervinieron en los juicios en que dichas tesis fueron sustentadas, podrán denunciar la contradicción ante la Sala que corresponda, a fin de que decida cuál tesis debe prevalecer.
+
+Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia, cualquiera de esas Salas, el Procurador General de la República o las partes que intervinieron en los juicios en que tales tesis hubieran sido sustentadas, podrán denunciar la contradicción ante la Suprema Corte de Justicia, que funcionando en pleno decidirá cuál tesis debe prevalecer.
+
+La resolución que pronuncien las Salas o el Pleno de la Suprema Corte en los casos a que se refieren los dos párrafos anteriores, sólo tendrá el efecto de fijar la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción, y (sic)
+
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+
+XIV.- Salvo lo dispuesto en el párrafo final de la fracción II de este artículo y siempre que no esté reclamada la inconstitucionalidad de una ley, se decretará el sobreseimiento del amparo o la caducidad de la instancia por inactividad del quejoso o del recurrente, respectivamente, cuando el acto reclamado sea del orden civil o administrativo en los casos y términos que señale la ley reglamentaria. La caducidad de la instancia dejará firme la sentencia recurrida.
 
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
@@ -2555,3 +2597,37 @@ UNICO.- Las presentes reformas entrarán en vigor tres días después de su publ
 D.O.F. 24 DE OCTUBRE DE 1967.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 25 DE OCTUBRE DE 1967.
+
+###### ARTICULO 1o.
+
+Estas reformas entrarán en vigor el mismo día que entren en vigor las reformas a la Ley Orgánica del Poder Judicial de la Federación y a la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Federal, que habrán de expedirse como consecuencia de estas mismas reformas.
+
+###### ARTICULO 2o.
+
+Los ministros supernumerarios se constituirán en Sala Auxiliar para resolver los amparos contra leyes, que integran el rezago. La Sala Auxiliar dictará sentencia con sujeción a la jurisprudencia del Pleno y estudiará también cuando proceda los conceptos de violación que se refieran a cuestiones de legalidad. Estos asuntos se le turnarán desde luego si sobre su materia existe jurisprudencia, y los demás del rezago, a medida que la jurisprudencia del Pleno se vaya definiendo. Asimismo, resolverá sobre los asuntos que la Ley Orgánica del Poder Judicial de la Federación le encomiende para desahogar el rezago que exista en las Salas de la Suprema Corte de Justicia. Cuando la Sala Auxiliar hubiere de participar en la resolución de conflictos jurisprudenciales con cualquiera de las otras Salas, los ministros supernumerarios que la integren formarán parte del Pleno. Entre tanto funcione la Sala Auxiliar, los ministros que la integren no desempeñarán las atribuciones que como supernumerarios les asigna la ley.
+
+###### ARTICULO 3o.
+
+Los amparos contra sentencias definitivas dictadas por el Tribunal Fiscal de la Federación, pendientes de resolución ante los Juzgados de Distrito, que en términos de estas reformas deben ser directos, se remitirán a los Tribunales Colegiados de Circuito y en su caso a la Suprema Corte de Justicia.
+
+###### ARTICULO 4o.
+
+Los amparos directos o en revisión que en la actualidad radican en la Suprema Corte de Justicia y que, conforme a la ley, pasan a ser de la competencia de los Tribunales Colegiados de Circuito, se enviarán desde luego, para su resolución, al que corresponda. Si existen dos o más tribunales en un mismo circuito, se les distribuirán proporcionalmente.
+
+###### ARTICULO 5o.
+
+En los juicios de amparo a que se refiere la fracción V del artículo 107 y que, de acuerdo con las presentes reformas, deben ser turnados a la Suprema Corte de Justicia, ésta conocerá tanto de las violaciones procesales como del fondo del negocio.
+
+###### ARTICULO 6o.
+
+En los casos en que, en los Juzgados de Distrito, se hubiera pronunciado el fallo de primera instancia y contra él se hubiere interpuesto en tiempo el recurso de revisión, la sentencia será revisable por el tribual que tendría competencia para conocer del amparo directo, según las presentes reformas.
+
+###### ARTICULO 7o.
+
+En los asuntos en trámite ante los Juzgados de Distrito, los Tribunales Colegiados de Circuito y la Suprema Corte de Justicia, en los que no se hubiera pronunciado resolución definitiva al entrar en vigor las presentes reformas, para decretar el sobreseimiento del amparo o la caducidad de la instancia, se requiere que transcurra un término de trescientos días, incluyendo los inhábiles, sin que el quejoso o el recurrente, en su caso, haya hecho promoción o se haya registrado acto procesal alguno en los autos. Dicho término se contará a partir del día siguiente en que entren en vigor estas reformas.
+
+###### ARTICULO 8o.
+
+Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de las presentes reformas.
