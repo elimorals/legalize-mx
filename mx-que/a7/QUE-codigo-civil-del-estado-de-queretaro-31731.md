@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1997-05-22"
+last_updated: "1997-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -7379,11 +7379,13 @@ En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondr�
 
 Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquel se encontrare, para cumplir las formalidades del depósito.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
 
 ###### ARTÍCULO 1434.
 
-Hecho el depósito, el encargado del Registro tomará en razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega, al mismo testador o al juez competente.
+
+Los testamentos ológrafos no producirán efecto si no son depositados en el Registro Público.
 
 ###### ARTÍCULO 1435.
 
@@ -15210,3 +15212,13 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente.
 P.O. 22 DE MAYO DE 1997
 
 UNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 29 DE MAYO DE 1997
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
