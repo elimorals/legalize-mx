@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-4038"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-27"
-last_updated: "1990-11-24"
+last_updated: "1997-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1997.
 
 Reglamento publicado en el Periódico Oficial "El Estado de Colima" el sábado 27 de agosto de 1988.
 
@@ -961,9 +961,13 @@ Si publicado el resultado de una votación reclamare algún Diputado, fundándos
 
 Todas las votaciones se resolverán a mayoría absoluta de votos, excepto aquellos casos en que la Constitución Política del Estado o este Reglamento disponga otra cosa.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1997)</small>
+
 ###### Artículo 112.
 
-Si hubiere empate en cualquier tipo de votación, se repetirá por dos veces y de continuar el empate decidirá el Presidente que tendrá voto de calidad, debiendo firmar la cédula que contenga su voto.
+Los empates en las votaciones que no sean para elegir personas se decidirán repitiéndose la discusión del asunto en la misma sesión. Si nuevamente resultare un empate, se regresará a la comisión respectiva con las observaciones del pleno, con la finalidad de que realice un nuevo dictamen, y si al presentarlo nuevamente ante el Pleno se volviese a empatar la votación, se reservará el asunto para el período ordinario siguiente.
+
+Para la elección de candidatos a ocupar un cargo o comisión, será necesaria la mayoría que señale la Ley respectiva. En caso de que no se obtuviere la mayoría necesaria de acuerdo a la Ley de que se trate, se repetirá la discusión en la misma sesión, votándose nuevamente y si en esta segunda votación tampoco se obtuviere el número de votos requerido, se tendrá por no aceptada la propuesta, requiriéndose, en consecuencia, nueva proposición.
 
 ###### Artículo 113.
 
@@ -1546,5 +1550,9 @@ El Gobernador Const. del Estado. LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- El Secr
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 24 DE NOVIEMBRE DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
