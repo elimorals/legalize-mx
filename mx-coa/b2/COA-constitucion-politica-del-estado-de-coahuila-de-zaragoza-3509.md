@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1929-02-16"
+last_updated: "1929-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 1929.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 1929.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1304,11 +1304,11 @@ Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de J
 
 Si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará, por mayoría absoluta de votos, si ha lugar o no a proceder contra el acusado; en caso negativo la declaración no será obstáculo para que las acusaciones continúen su curso cuando el Funcionario haya dejado de tener fuero, pues la resolución del Jurado no prejuzga los fundamentos de la acusación. En caso afirmativo el acusado quedará desde luego separado de su encargo y sujeto a los Tribunales Comunes
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 1926)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1929)</small>
 
 ###### Artículo 161.
 
-Si el delito fuere común, el Congreso erigido en Gran Jurado, declarará si ha lugar o no a proceder en contra del acusado; en caso negativo, la declaración no será obstáculo para que las acusaciones continúen su curso cuando el funcionario haya dejado de tener fuero, pues la resolución del Jurado no prejuzga los fundamentos de la acusación. En caso afirmativo, el acusado quedará desde luego separado de su encargo y sujeto a los Tribunales comunes.
+Si el delito cometido por los funcionarios a que se refiere el artículo 159, excepción del Gobernador, Diputados o Magistrados, fuere oficial, la Legislatura erigida en Gran Jurado, declarará por mayoría absoluta de votos, si ha lugar o no a que se proceda contra el acusado. En caso negativo cesará todo procedimiento; en el afirmativo quedará el funcionario inmediatamente suspenso en sus funcones (sic) y sujeto a la acción del Superior Tribunal de Justicia, que fallará en definitiva con audiencia de inculpado, del Procurador General de Justicia y del acusador si lo hubiere. Si se tratare del Gobernador, Diputados o Magistrados, será necesario para declarar si hay lugar para proceder en su contra, el voto conjunto de siete diputados de los que integren e (sic) total de la Cámara.
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 1926)</small>
 
@@ -1595,3 +1595,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 16 DE FEBRERO DE 1929.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 21 DE AGOSTO DE 1929.
+
+UNICO.- El presente decreto entrará en vigor desde el día quince de noviembre del año en curso.
