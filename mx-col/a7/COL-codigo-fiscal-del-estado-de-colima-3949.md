@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-3949"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-26"
-last_updated: "1989-01-14"
+last_updated: "2003-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1981.
 
@@ -81,9 +81,11 @@ Los productos se regularán por las disposiciones indicadas anteriormente o por 
 
 Son impuestos las prestaciones en dinero o en especie que fija la Ley con carácter general y obligatorio, a cargo de personas físicas o morales y unidades económicas, para cubrir los gastos públicos.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 7.
 
-Son derechos las contraprestaciones establecidas por el Poder Público, conforme a la Ley, en pago de un servicio.
+Son derechos las prestaciones que se fijan conforme a la Ley, en pago por el uso o aprovechamiento de los bienes del dominio público del Gobierno del Estado y por los servicios prestados por éste en la realización de sus funciones de derecho público, incluso cuando se presten por organismos descentralizados.
 
 ###### ARTICULO 8.
 
@@ -1838,3 +1840,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 P.O. 14 DE ENERO DE 1989.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su expedición y deberá ser publicado en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 15 DE ENERO DE 2003.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
