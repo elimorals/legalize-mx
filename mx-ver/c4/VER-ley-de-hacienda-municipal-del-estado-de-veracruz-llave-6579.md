@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1992-02-01"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -377,7 +377,7 @@ Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos 
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-IV.- Predios Baldíos …………………………………………………………………….....7.5
+IV.- Predios Baldíos …………………………………………………………………..….7.5
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
 
@@ -3009,33 +3009,33 @@ Los bienes embargados por las autoridades municipales que se depositen en almace
 
 T A R I F A
 
-> <small>(REFORMADA,G.O. 30 DE DICIEMBRE DE1998)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-I.- Por una superficie de un metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por un día de $15.00 a $100.00
+I.- Por una superficie de un metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.015 a N$ 0.10
 
-> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.-Por una superficie de dos metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $30.00 a $200.00
+II.- Por una superficie de dos metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.03 a N$ 0.20
 
-> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-III.-Por una superficie de tres metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $120.00 a $400.00
+III.- Por una superficie de tres metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.12 a N$ 0.40
 
-> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV.-Por una superficie de cuadro metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $120.00 a $600.00
+IV.- Por una superficie de cuatro metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros por día de: N$ 0.12 a N$ 0.60
 
-> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-V.- Por una superficie de cinco metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de $240.00 a $800.00
+V.- Por una superficie de cinco metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.24 a N$ 0.80
 
-> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VI.- Las cuotas a que se refieren las fracciones anteriores, se aumentan por cada metro de superficie excedente o cuando la altura del espacio ocupado sea mayor de tres metros en la cantidad de $240.00 a $800.00
+VI.- Las cuotas a que se refieren las fracciones anteriores, se aumentan por cada metro cuadrado de superficie excedente en la cantidad de: N$ 0.24 a N$ 0.80
 
-> <small>(ADICIONADA,G.O. 30 DE DICIEMBREDE1998)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VII.- Los semovientes depositados en predios propiedad de los municipios, diariamente por cabeza de $500.00 a $2,000.00
+VII.- Los semovientes depositados en predios propiedades de los Municipios, diariamente por cabeza de: N$ 0.50 a N$ 2.00
 
 ###### ARTICULO 177.
 
@@ -3174,3 +3174,13 @@ El presente ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor el día 1 de Enero de 1993, previa publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
