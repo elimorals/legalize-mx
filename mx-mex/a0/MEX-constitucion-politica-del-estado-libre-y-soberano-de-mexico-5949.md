@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1976-03-09"
+last_updated: "1977-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1976.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JULIO DE 1977.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -409,17 +409,21 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o empleo del Gobierno Federal o del Estado, por el que se disfrute sueldo; por la Legislatura podrá conceder licencia a sus miembros, según los casos, para poder desempeñar las funciones que les hayan sido encomendadas.
 
+###### Artículo 45.
+
+Los diputados electos presentarán sus credenciales a la Secretaría de la Legislatura, a fin de darse cuenta con ellas en la primera Junta Preparatoria, que deberá tener verificativo ocho días antes de la apertura del primer Período Ordinario de Sesiones, eligiéndose en la propia Junta la Mesa Directiva conforme al Reglamento Interior.
+
 ###### Art. 46.
 
 Durante los ocho días a que se refiere el artículo anterior, se tendrán las juntas necesarias para la calificación de credenciales y su aprobación y se elegirán Presidente, Vicepresidente y Secretarios de la Legislatura en los términos que dispongan el mismo Reglamento interior.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 1977)</small>
 
-###### Art. 47.
+###### Artículo 47.
 
-La legislatura se reunirá en sesiones ordinarias una vez al año.
+La Legislatura se reunirá en sesiones ordinarias dos veces al año.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 1977)</small>
 
 ###### Art. 48.
 
@@ -471,6 +475,10 @@ El lugar donde la Legislatura celebre sus sesiones será el de la residencia de 
 
 Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto, iniciativa al Congreso de la Unión o acuerdo. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios, y los acuerdos por los Secretarios. Las iniciativas al Congreso de la Unión se comunicarán también con firma del Presidente y Secretarios.
 
+###### Artículo 48.
+
+El primer Período anual de sesiones ordinarias, dará principio el día 5 de septiembre y concluirá el 31 de enero siguiente, y el segundo período ordinario de sesiones, dará principio el día 2 de mayo y concluirá el 30 de junio.
+
 #### SECCION SEGUNDA. DE LA INSTALACION DE LA LEGISLATURA
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1951)</small>
@@ -479,7 +487,7 @@ Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto,
 
 La Legislatura se renovará en su totalidad cada tres años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+(REFORMADO, P.O. 23 DE JULIO DE 1977) (F. DE E., P.O. 28 DE JULIO DE 1977)
 
 ###### Art. 45.
 
@@ -2372,3 +2380,9 @@ G.G. 9 MARZO DE 1976.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+G.G. 23 DE JULIO DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto, entrará en vigor a los 5 días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
