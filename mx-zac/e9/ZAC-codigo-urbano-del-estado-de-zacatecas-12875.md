@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "1996-09-11"
+last_updated: "1997-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -829,81 +829,145 @@ XX.- Las demás que le señalen este Código y otras disposiciones jurídicas ap
 
 La Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas, es un organismo descentralizado por razón de servicio, dependiente del Ejecutivo del Estado, con las facultades consultivas y ejecutivas que le atribuye la Ley de su creación y que ejercerá jurisdicción en los municipios que al efecto se describen en el Artículo 9° de la misma. Para la toma de decisiones, en asuntos de su competencia, deberá acordar con el vocal ejecutivo de la Comisión del Patrimonio Cultural.
 
+> <small>(REFORMADO, P. O. 23 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 36.
 
-El Instituto Zacatecano de la Vivienda Social es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, de carácter técnico, sujeto a los lineamientos que en política de vivienda fije el Estado, facultado para promover y ejecutar programas de vivienda de interés social y popular, así como sus obras de urbanización, de conformidad a lo previsto por este Código y las demás disposiciones jurídicas aplicables; el Instituto funcionará permanentemente en su sede en la Ciudad Capital del Estado y con jurisdicción en toda la Entidad.
+Se crea un organismo público descentralizado, denominado CONSEJO PROMOTOR DE LA VIVIENDA POPULAR, dotado de personalidad jurídica y patrimonio propios, domicilio legal en la ciudad de Zacatecas y jurisdicción en la entidad, sujeto a los lineamientos que en política de vivienda y desarrollo urbano dicte el Gobierno del Estado, con el objeto fundamental de promover acciones de vivienda de interés social y popular, obras de urbanización, así como la constitución de reservas territoriales, de conformidad con lo dispuesto por este Código y demás ordenamientos jurídicos aplicables.
+
+El patrimonio del CONSEJO se constituye por:
+
+I.- Las aportaciones, bienes muebles e inmuebles y demás ingresos, derechos y servicios que los Gobiernos Federal, Estatal y Municipal le otorguen o destinen;
+
+II.- Las aportaciones, legados, donaciones y demás liberalidades que reciba de los sectores social y privado;
+
+III.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que generen sus operaciones, actividades y bienes;
+
+IV.- En general, por los ingresos que obtenga por cualquier otro título legal.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 37.
 
-El Instituto para el cumplimiento de sus atribuciones contará con los siguientes órganos:
+El CONSEJO para el cumplimiento de sus atribuciones contará con los siguientes órganos:
 
-I.- El Consejo de Administración;
+I.- La Junta Directiva;
 
-II.- El Director General; y
+II.- El Director General, así como dos servidores públicos en jerarquías inferiores a éste, quienes serán designados por el Titular del Ejecutivo Estatal;
 
-III.- Las unidades administrativas de apoyo y operación que se requieran.
+III.- Un Comisario Público propietario y su respectivo suplente designados por la Secretaría de la Contraloría General del Estado; y
+
+IV.- Las unidades administrativas de apoyo que se requieran.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 38.
 
-El Consejo de Administración del Instituto se integrará por:
+La Junta Directiva del CONSEJO se integrará:
 
-I.- Un Presidente, que será el Gobernador Constitucional del Estado;
+I. Por un Presidente, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas;
 
-II.- Un Coordinador, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado;
+II. Por el Secretario de Planeación y Finanzas;
 
-III.- Por el Secretario de Planeación y Finanzas del Gobierno del Estado;
+III. Por el Secretario de la Contraloría General del Estado;
 
-IV.- Eventualmente, los Presidentes Municipales, cuando se traten asuntos relacionados con el respectivo municipio;
+IV. Por el Secretario de Desarrollo Económico;
 
-V.- Un representante de cada una de las dependencias y entidades de la Administración Pública Estatal relacionadas con la vivienda, que señale el Gobernador del Estado; y
+V. Por el Delegado de la Secretaría de Desarrollo Social, quien será invitado al efecto;
 
-VI.- El Director General del Instituto.
+VI. Por el Presidente Estatal del Centro Bancario;
+
+VII. Por el Presidente de la Delegación de la Cámara Mexicana de la Industria de la Construcción;
+
+VIII. Por el Presidente Estatal de la Asociación Mexicana de Profesionales Inmobiliarios;
+
+IX. Un representante común designado conjuntamente por el Sindicato Unico de Trabajadores al Servicio del Estado, Municipios y Organismos Paraestatales, las secciones 34 y 58 del Sindicato Nacional de Trabajadores de la Educación y el Sindicato Independiente de Trabajadores de Telesecundarias del Estado de Zacatecas;
+
+X. Por el Secretario General de la Central Obrera Mayoritaria;
+
+XI. Por el Director de la Escuela, Facultad de Arquitectura o Institución equivalente, más antigua dentro del Sistema de Educación Superior;
+
+XII. Por el Director de la Escuela, Facultad de Ingeniería Civil o Institución equivalente, más antigua dentro del Sistema de Educación Superior; y
+
+XIII. Por uno o más Presidentes Municipales, cuando se traten asuntos relacionados con sus respectivos municipios.
+
+El Director General participará en las sesiones de la Junta Directiva con voz pero sin voto.
+
+En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 39.
 
-El reglamento interior que para el efecto expida del Instituto, a propuesta, de su Presidente, normará la organización y el funcionamiento interno del mismo.
+La Junta Directiva, a propuesta del Director General, expedirá el Estatuto Orgánico del Consejo Promotor de la Vivienda Popular que normará las obligaciones y facultades de sus órganos, señalando cuales de aquéllas son indelegables; el régimen laboral a que se sujetarán las relaciones de trabajo, así como la organización, el funcionamiento, las formas y términos de liquidación del Consejo.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 40.
 
-El Instituto tendrá las siguientes atribuciones:
+Las obligaciones y facultades relativas a los órganos del Consejo Promotor de la Vivienda Popular, que desarrolle el Estatuto Orgánico, tendrán como base y límite, las siguientes:
 
-I. Intervenir, en coordinación con la Secretaría, en la promoción, coordinación, ejecución y evaluación de los programa de vivienda del Gobierno del Estado;
+A. Atribuciones de la Junta Directiva:
 
-II. Elaborar, en coordinación con la Secretaría, el Programa Estatal de Vivienda, así como los programas operativos anuales;
+I.- Intervenir, en coordinación con la Secretaría, en la promoción, coordinación y evaluación de los programas de vivienda del Gobierno del Estado;
 
-III. Promover y construir, directamente o través de terceros, con la participación de los sectores social y privado, fraccionamientos y condominios de interés social y popular;
+II.- Elaborar, en coordinación con la Secretaría, el Programa Estatal de Vivienda, así como los programas operativos anuales;
 
-IV. Asignar y enajenar las viviendas que construya el Gobierno del Estado, de conformidad con las normas establecidas en este Código;
+III.- Promover con la participación de los sectores social y privado la construcción de fraccionamientos y condominios de interés social y popular;
 
-V. Fomentar el abaratamiento de la producción y distribución de materiales de construcción, para la vivienda de interés social y popular;
+IV.- Promover ante las Instituciones de Crédito e Instituciones de Vivienda la disponibilidad de recursos financieros suficientes, oportunos y adecuados, ya sean de procedencia federal, estatal, municipal o coinversiones con capital privado, y la modernidad en su operación;
 
-VI. Promover y colaborar en los procesos de regularización de tenencia de la tierra urbana para la vivienda;
+V.- Establecer los mecanismos y medidas de financiamiento para el cumplimiento de los programas municipales de vivienda;
 
-VII. Administrar los inmuebles de su propiedad, teniendo la facultad para adquirir, realizar actos de dominio y comercializar dichos inmuebles;
+VI.- Fomentar el abaratamiento en la producción y distribución de materiales de construcción para la vivienda de interés social y popular;
 
-VIII. Celebrar todo tipo de actos, convenios y contratos necesarios para el eficaz cumplimiento de sus fines;
+VII.- Promover y colaborar en los procesos de regularización de tenencia de la tierra urbana para la vivienda;
 
-IX. Gestionar la obtención y suministro de recursos financieros destinados a programas de vivienda dentro del Estado, ya sean de procedencia federal, estatal, municipal o coinversiones con capital privado;
+VIII.- Administrar los inmuebles de su propiedad, teniendo la facultad para adquirir, realizar actos de dominio y comercializar dichos inmuebles;
 
-X. Participar en coordinación con la Secretaría, en la ejecución de los programas de vivienda que se desarrollen en el Estado;
+IX.- Celebrar todo tipo de actos, convenios y contratos necesarios para el eficaz cumplimiento de sus fines;
 
-XI. Proponer la adquisición de reservas territoriales para vivienda de interés social y popular;
+X.- Participar, en coordinación con la Secretaría, en la ejecución de los programas de vivienda que se desarrollen en el Estado;
 
-XII. Promover y operar parques de producción y distribución de materiales de construcción para la vivienda de interés social y popular así como su infraestructura;
+XI.- Proponer la adquisición de reservas territoriales para vivienda de interés social y popular;
 
-XIII. Formular prototipos de vivienda y de componentes normalizados de construcción que permitan reducir el costo de la vivienda de interés social y popular;
+XII.- Promover parques de producción y distribución de materiales de construcción para la vivienda de interés social y popular, así como su infraestructura;
 
-XIV. Fomentar la investigación en materia de vivienda;
+XIII.- Formular prototipos de vivienda y de componentes normalizados de construcción que permitan reducir el costo de la vivienda de interés social y popular;
 
-XV. Orientar a las personas de escasos recursos, sobre los medios de financiamiento para adquirir lotes y viviendas en fraccionamientos y condominios de interés social o populares;
+XIV.- Fomentar la investigación en materia de vivienda;
 
-XVI. Coordinar la satisfacción de necesidades de vivienda, en caso de siniestros que afecten centros de población en el Estado, cuando así lo señale el Gobernador;
+XV.- Orientar a las personas de escasos recursos sobre los medios de financiamiento para adquirir lotes y viviendas en fraccionamientos y condominios de interés social o popular;
 
-XVII. Fomentar la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario, para la producción y mejoramiento de la vivienda de interés social y popular;
+XVI.- Coordinar la satisfacción de necesidades de vivienda, en caso de siniestros que afecten centros de población en el Estado, cuando así lo señale el Titular del Ejecutivo;
 
-XVIII. Establecer los mecanismos y medidas de financiamiento para el cumplimiento de los programas municipales de vivienda; y
+XVII.- Fomentar la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario, para la producción y mejoramiento de la vivienda de interés social y popular; y
 
-XIX. Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+XVIII.- Las demás que le señalen este Código, el Estatuto Orgánico y otras disposiciones jurídicas aplicables.
+
+Previo acuerdo de la Junta Directiva, podrán delegarse en el Director General, exclusivamente las atribuciones señaladas en las fracciones II, IV, V, VII, VIII, IX, XIII y XVI, de este apartado.
+
+B. Atribuciones del Director General:
+
+I.- Representar legalmente al Consejo Promotor de la Vivienda Popular;
+
+II.- Ejecutar los acuerdos de la Junta Directiva;
+
+III.- Ejercer las facultades previstas en el artículo 20 de la Ley de Entidades Públicas Paraestatales. Las facultades a que se refieren las fracciones II y III del mencionado artículo, sólo podrá ejercerlas previo acuerdo de la Junta Directiva;
+
+IV.- Convocar a los integrantes de la Junta Directiva, por instrucciones de su Presidente, o cuando menos por una tercera parte de sus integrantes, a las sesiones ordinarias y extraordinarias de aquélla;
+
+V.- Informar periódicamente, a la Junta Directiva, acerca de la forma como ejerció las atribuciones que se le delegaren, y en general, del estado que guarda la administración del organismo.
+
+VI.- Las demás que le confiera la Ley y la Junta Directiva.
+
+C. Atribuciones del Comisario Publico:
+
+I.- Evaluar el desempeño general, y por funciones, del Consejo Promotor;
+
+II.- Realizar estudios sobre la eficiencia con que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión;
+
+III.- Solicitar la información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de atender las que le asignen, conforme a la Ley, los Servidores Públicos de la Administración Centralizada.
 
 ###### ARTICULO 41.
 
@@ -4674,3 +4738,23 @@ LIC. ARTURO ROMO GUTIERREZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAU HERNANDEZ HERRERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 23 DE ABRIL DE 1997
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+SEGUNDO.- El acuerdo a que se refiere el artículo segundo de este decreto se emitirá en un plazo no mayor de 60 días, y deberá publicarse en el Periódico Oficial, Organo del Gobierno del Estado.
+
+TERCERO. - Los asuntos pendientes de resolución que se hayan iniciado con anterioridad al presente Decreto, se tramitarán y resolverán conforme a los ordenamientos vigentes al momento de su realización.
+
+CUARTO.- Los órganos del CONSEJO deberán integrarse en un plazo no mayor de 60 días hábiles a partir del inicio de la vigencia del presente Decreto.
+
+QUINTO.- Las Secretarías de Planeación Finanzas, de la Contraloría General del Estado y la Oficialía Mayor apoyarán la creación del CONSEJO, mediante las adecuaciones correspondientes en el presupuesto de egresos.
+
+SEXTO.- El Estatuto Orgánico que al efecto expida la Junta Directiva del Consejo Promotor de la Vivienda Popular, deberá publicarse en el Periódico Oficial, órgano del Gobierno del Estado, en un plazo no mayor de 60 días hábiles contados a partir del día siguiente de la integración de la Junta Directiva.
+
+SEPTIMO. El patrimonio inicial del Consejo Promotor de la Vivienda Popular, deberá inscribirse en los correspondientes Registros Públicos de la Propiedad y de Organismos Descentralizados.,
+
+OCTAVO.- Se derogan las demás disposiciones que se opongan al presente Decreto.
