@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2003-02-21"
+last_updated: "2004-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -305,6 +305,10 @@ Los derechos inherentes y derivados de los permisos para la prestación del serv
 
 En caso de que un particular explote o usufructúe mas de un permiso, aun estando a nombre de terceros, la Autoridad Municipal del Transporte deberá proceder a la revocación de los mismos, de conformidad con el procedimiento que se establezca en el reglamento.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2004)</small>
+
+Los permisionarios de la misma modalidad en materia de servicio público de transporte de pasajeros en vehículos de alquiler, con el propósito de eficientar y optimizar la operación del mismo, podrán organizarse y asociarse en cualquiera de las formas permitidas por la Legislación civil en el Estado.
+
 Para la expedición de permisos en las demás modalidades, se estará a lo dispuesto en el reglamento respectivo.
 
 ###### ARTICULO 28.
@@ -512,3 +516,9 @@ SEGUNDO.- Las concesiones para explotar el servicio público de arrastre y almac
 TERCERO.- La inspección, vigilancia y control sobre el funcionamiento y operación de las concesiones a que se refiere el artículo transitorio anterior, para explotar el servicio público de arrastre y almacenamiento, guarda o depósito de vehículos a disposición de autoridad competente, corresponderá a los Ayuntamientos en los términos de la Ley General de Transporte Público de Baja California y de sus disposiciones reglamentarias.
 
 CUARTO.- La prórroga de las concesiones para explotar el servicio público de arrastre, almacenamiento, guarda o depósito de vehículos a disposición de autoridad competente, expedidas con anterioridad a la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley General de Transporte Público del Estado de Baja California y de sus disposiciones reglamentarias.
+
+P.O. 16 DE ENERO DE 2004.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
