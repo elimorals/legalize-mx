@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1986-01-13"
+last_updated: "1986-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1986.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -254,17 +254,19 @@ VIII.- Los puentes de carácter provisional y los definitivos de escasa importan
 
 El Gobierno Federal tendrá facultad para construir o establecer vías generales de comunicación por sí mismo o en cooperación con las autoridades locales. La construcción o establecimiento de estas vías podrá encomendarse a particulares, en los términos del artículo 134 de la Constitución Federal.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
-
-ARTICUL0 11.- La prestación de los servicios públicos de los sistemas telegráficos, radio-telegráficos y el de correos queda reservada exclusivamente al Gobierno Federal.
-
-También quedan reservados en forma exclusiva al Gobierno Federal, el establecimiento de los sistemas de satélites, su operación y control y la prestación de servicios de conducción de señales por satélite, así como las estaciones terrenas con enlaces internacionales para comunicación vía satélite.
-
-La instalación, operación y control de estaciones terrenas para la recepción de señales por satélite, y el aprovechamiento de éstas se llevarán a cabo conforme a las bases que para tal efecto fije la Secretaría de Comunicaciones y Transportes, de acuerdo con esta Ley y sus reglamentos.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 11.
 
-Queda abrogada la Ley para el Servicio de Practicaje en los puertos, ríos, canales, lagos y lagunas de la República, de 7 de enero de 1925. El Ejecutivo Federal expedirá desde luego el Reglamento del Capítulo IX del Libro 3º de esta Ley.
+La prestación de los servicios públicos de telégrafos, radiotelegráficos y de correos, queda reservada exclusivamente al Gobierno Federal o a los organismos descentralizados que se establezcan para dicho fin.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+También quedan reservados en forma exclusiva al Gobierno Federal, el establecimiento de los sistemas de satélites, su operación y control y la prestación de servicios de conducción de señales por satélite, así como las estaciones terrenas con enlaces internacionales para comunicación vía satélite.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+La instalación, operación y control de estaciones terrenas para la recepción de señales por satélite, y el aprovechamiento de éstas se llevarán a cabo conforme a las bases que para tal efecto fije la Secretaría de Comunicaciones y Transportes, de acuerdo con esta Ley y sus reglamentos.
 
 ###### ARTICULO 12.
 
@@ -628,7 +630,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -5497,3 +5499,7 @@ SEGUNDO.- Para la fijación del monto de las sanciones pecuniarias que resulten 
 Tratándose de las infracciones a que se refieren el artículo 535 y los párrafos primero y segundo del artículo 537, por las primeras infracciones se aplicará una multa de veinte días de salario mínimo y por las segundas infracciones, la multa será de cuarenta días de salario mínimo.
 
 En todo caso, la sanción se aplicará tomando en consideración la gravedad de la infracción y capacidad económica del infractor.
+
+D.O.F. 23 DE MAYO DE 1986.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
