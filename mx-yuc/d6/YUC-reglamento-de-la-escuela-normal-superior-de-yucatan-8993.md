@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-escuela-normal-superior-de-yucatan-8993"
 country: "mx"
 rank: "reglamento"
 publication_date: "1982-02-08"
-last_updated: "1982-02-08"
+last_updated: "1982-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR DE YUCATAN
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 1982 EN EL D.O. DEL ESTADO DE YUCATÁN , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA ESCUELA NORMAL SUPERIOR DE YUCATAN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 31 DE MARZO DE 1982]</small>
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el lunes 8 de febrero de 1982.
 
@@ -127,9 +127,11 @@ En caso de ausencia definitiva se seguirá idéntico procedimiento, en tanto se 
 
 Para ser Director de la Escuela Normal Superior de Yucatán se requiere poseer título de Profesor expedido por Alguna Escuela Normal Superior reconocida por la Secretaría de Educación Pública, o de cualquier Facultad Universitaria y haber ejercido el magisterio por lo menos cinco años en el nivel medio o superior.
 
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
 ###### ARTICULO 13o.
 
-Para ser Secretario General se requiere que reúna los mismos requisitos necesarios para ser Director.
+Para ser Secretario General se requerirá ser egresado de alguna Escuela Normal Superior Oficial o poseer título universitario y haber ejercido el magisterio por lo menos durante cinco años.
 
 ###### ARTICULO 14o.
 
@@ -283,7 +285,9 @@ f).- Orientar a los alumnos en la elaboración de su tesis y en su trabajo de in
 
 g).- Asumir la jefatura de clases o de especialidad, según el caso, cuando sea requerido para ello por las autoridades escolares.
 
-h).- Asistir a los seminarios, academias, conferencias y desde (sic) actividades de actualización científica y pedagógica que organice la escuela.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+h).- Asistir a los seminarios, academias, conferencias y demás actividades de actualización científica y pedagógica que organice la escuela.
 
 ###### ARTICULO 30o.
 
@@ -315,7 +319,9 @@ a).- Substituir a los maestros titulares en los casos de faltas temporales.
 
 b).- Cooperar en el funcionamiento de los laboratorios.
 
-c).- Funcionar (sic) las comisiones docentes que les sean encomendadas por el Director de la Escuela.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+c).- Desempeñar las comisiones docentes que les sean encomendadas por el Director de la Escuela.
 
 ###### ARTICULO 35o.
 
@@ -347,7 +353,9 @@ No están autorizados los profesores para conceder a los alumnos permisos para f
 
 Para Ingresar a la Escuela Normal Superior de Yucatán se requiere:
 
-a).- Acreditar haber terminado la carrera de Profesor Normalista en sus modalidades de Educación Primaria o Educación Preescolar, o haber terminado el grado de Bachiller, vocacional o estudios equivalentes con plan de tres años.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+a).- Acreditar haber terminado la carrera de Profesor Normalista en sus modalidades de Educación Primaria o Educación Preescolar, o haber terminado el grado de Bachiller con plan de tres años, vocacional o estudios equivalentes
 
 b).- Otros documentos que señale la Dirección de la Escuela para integrar el expediente del alumno.
 
@@ -387,7 +395,9 @@ Son derechos de los alumnos:
 
 a).- Realizar todos sus estudios, de conformidad con el plan en vigor.
 
-b).- Recibir de la dirección de la Escuela en el momento de su inscripción, las guías de estudio y bibliografías necesarias para la preparación de las materias que permitan cursar.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+b).- Recibir de la dirección de la escuela en el momento de su inscripción, las guías de estudio y bibliografías necesarias para la preparación de las materias que pretendan cursar.
 
 c).- Obtener los documentos que acrediten los estudios realizados durante el curso, de conformidad con lo previsto en el presente reglamento o en las disposiciones suplementarias que estuvieran en vigor al iniciar el estudio de la especialidad.
 
@@ -399,7 +409,9 @@ f).- Obtener la revalidación de las materias cursadas fuera del plantel, cuando
 
 g).- Presentar en exámenes a título de suficiencia hasta el 50 por ciento de las materias que no hubiere acreditado, correspondiente a un grado.
 
-h).- Organizar en sociedades de alumnos para contribuir al mejoramiento de la Escuela y defender los derechos e intereses de sus miembros.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+h).- Organizarse en sociedades de alumnos para contribuir al mejoramiento de la Escuela y defender los derechos e intereses de sus miembros.
 
 ### CAPITULO VI. DE LA MARCHA DE LA ESCUELA
 
@@ -471,7 +483,13 @@ Las prácticas serán organizadas por el Maestro de Didáctica de la Especialida
 
 Las prácticas podrán ser:
 
-a).- De observación dirigida en las que los alumnos trabajarán en presencia de sus compañeros y del profesor de la materia.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+a).- De observación, en las que el profesor de la materia desarrollará la clase.
+
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+b).- De actuación dirigida en las que los alumnos trabajarán en presencia de sus compañeros y del profesor de la materia.
 
 ###### ARTICULO 57o.
 
@@ -533,7 +551,9 @@ c).- Evaluación periódica.
 
 d).- Evaluación final.
 
-5o.- La escuela de calificaicones (sic) será numérica del 5 al 10, con la siguiente interpretación:
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+5o.- La escala de calificaciones será numérica del 5 al 10, con la siguiente interpretación:
 
 10 Excelente.
 
@@ -765,11 +785,15 @@ Los derechos que habrán de cubrirse por concepto de revalidación de estudios s
 
 TRANSITORIOS:
 
-PRIMERO.- Se abrogan los Decretos Nos. 251 publicados en el Diario Oficial del Gobierno del Estado el 22 de enero de 1974 y el 400 publicado en el propio Diario, el 22 de octubre de 1975.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+PRIMERO.- Se abrogan los decretos Nos. 451 publicados en el Diario Oficial del Gobierno del Estado el 22 de enero de 1974 y el 400 publicado en el propio Diario, el 22 de octubre de 1975.
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-TERCERO.- Los egresados de la Escuela Normal Superior de Yucatán que hubieren terminado sus estudios en los años de 1976 y 1977 y que aún no hubieren obtenido el título profesional correspondiente, así como que se encuentren prestando sus servicios en el Estado o fuera de él, podrán obtener el mismo, si reúnen los siguientes requisitos:
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+TERCERO.- Los egresados de la Escuela Normal Superior que hubieren terminado sus estudios en los años de 1976 y 1977, y que aún no hubieren obtenido el título profesional correspondiente y se encuentren prestando sus servicios en el Estado o fuera de él, podrán obtener el mismo, si cumplen cualquiera de los siguientes requisitos:
 
 a).- Haber cumplido cinco años de servicio en la especialidad respectiva;
 
@@ -799,7 +823,9 @@ e).- Constancia de servicios, y
 
 f).- Recibo de pago de los derechos correspondientes.
 
-El Consejo Directivo resolverá lo conducente y otorgará los títulos en las materias que procedan.
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1982)</small>
+
+El Consejo Directivo resolverá lo conducente y otorgará los títulos en los casos que procedan.
 
 Dado en la sede del Poder Ejecutivo, en Mérida, Yucatán, Estados Unidos Mexicanos, a los diez y siete días del mes de diciembre del año de mil novecientos ochenta y uno.
 
