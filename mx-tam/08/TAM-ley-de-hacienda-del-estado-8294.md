@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1979-12-29"
+last_updated: "1980-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -247,7 +247,7 @@ Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas 
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -2713,7 +2713,7 @@ III.- En las emisiones de las cédulas hipotecarias en que se constituya hipotec
 
 IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .................... ......................15%
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará......................... ......................15%
 
 VI.- Para la aplicación de las tasas de la Fracción II del Artículo 263, en su caso, la nula propiedad y el usufructo, se valuarán en los términos del Impuesto sobre Herencias y Legados, en aquellos casos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la Ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
@@ -2727,7 +2727,7 @@ IX.- En los casos en que los servicios que preste el Registro Público de la Pro
 
 No se causarán los derechos a que se refiere el Artículo 262o. en los siguientes casos:
 
-I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios, cuando dichas Entidades las soliciten.
+I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios; cuando dichas Entidades las soliciten.
 
 II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
 
@@ -2857,7 +2857,7 @@ Los derechos por las licencias que se otorguen a las personas a que se refiere l
 
 ###### ARTICULO 280o.
 
-Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de .........................................................................................................................$ 200. 00.
+Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de .....................................................................................................................................$ 200. 00.
 
 ### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
 
@@ -2899,7 +2899,9 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 ###### ARTICULO 287o.
 
-La expedición de pasaporte provisional causará derechos con la cuota de ............................................................................................................................... $ 200.00.
+La expedición de pasaporte provisional causará derechos con la cuota de.............................................................................................................................. $ 200.00.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 288o.
 
@@ -2909,7 +2911,7 @@ VEASE TABLA ANEXA
 
 ###### ARTICULO 289o.
 
-Los derechos de cotejo de documento causarán la cuota de............. $ 25.00
+Los derechos de cotejo de documento causarán la cuota de............ $ 25.00
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
@@ -3044,3 +3046,7 @@ Continúa en vigor el Decreto No. 220, publicado en el Periódico Oficial del Es
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado, el día primero de enero de mil novecientos ochenta.
+
+P.O. 3 DE MAYO DE 1980
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
