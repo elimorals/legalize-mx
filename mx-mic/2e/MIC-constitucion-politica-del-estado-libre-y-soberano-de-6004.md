@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1967-04-17"
+last_updated: "1971-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1971.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -859,11 +859,15 @@ IV.- Haber sido Juez de Primera Instancia durante tres años, cuando menos, o ha
 
 V.- Gozar de buena reputación y no haber sido condenado por delitos infamantes o contra la propiedad.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
 
 ###### Artículo 72.
 
-Los magistrados del Supremo Tribunal de Justicia durarán tres años en el ejercicio de su cargo, al término de los cuales podrán ser designados nuevamente para otro período.
+Los magistrados del Supremo Tribunal de Justicia durarán en sus cargos tres años, pudiendo ser reelectos; los designados para tres períodos consecutivos, serán inamovibles.
+
+Cuando el magistrado inamovible cumpla setenta años, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, en su caso, para su aprobación, al Congreso o a la Diputación Permanente. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido 60 años de edad. En este caso se seguirá la misma tramitación.
+
+El magistrado inamovible que obtenga su retiro forzoso, disfrutará de una pensión equivalente a la remuneración que perciba, si tiene más de diez años de servicios efectivos como magistrado. El que obtenga su retiro voluntario, disfrutará de la misma pensión.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1812,3 +1816,9 @@ P.O. 17 DE ABRIL DE 1967.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al mismo tiempo que la Nueva Ley Orgánica del Poder Judicial del Estado, que habrá de expedirse como consecuencia de la presente reforma.
+
+P.O. 25 DE NOVIEMBRE DE 1971.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor, a los quince días de su publicación en el Periódico Oficial de la Entidad.
