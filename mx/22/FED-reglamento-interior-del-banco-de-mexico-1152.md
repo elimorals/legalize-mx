@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2004-10-01"
+last_updated: "2004-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -127,9 +127,9 @@ Dirección de Seguridad.
 
 Dirección de Sistemas.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Relaciones Externas, Coordinación de la Información y Sistemas, dependerán del Gobernador. El Banco contará con un Contralor que dependerá de la Junta de Gobierno.
+Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Relaciones Externas, Coordinación de la Información y Sistemas, dependerán del Gobernador. El Banco contará con un Contralor, que dependerá de la Junta de Gobierno y con un Director de Auditoría, cuya unidad administrativa estará adscrita al Contralor.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -431,7 +431,7 @@ VI. Investigar las redes de comunicación electrónica con objeto de identificar
 
 > <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
 
-VII. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia;"
+VII. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
 
@@ -841,23 +841,19 @@ IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y s
 
 V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 30.
 
-El Contralor tendrá las atribuciones siguientes:
+El Contralor tendrá, además de las atribuciones señaladas en el artículo 30 Bis, las siguientes:
 
-I. Comprobar que en la Institución, se dé cumplimiento a lo previsto en la Ley, el presente Reglamento, las Condiciones Generales de Trabajo, la Ley Federal de Responsabilidades de los Servidores Públicos y a las disposiciones relacionadas con dichos ordenamientos;
+I. Comprobar que en la Institución, se dé cumplimiento a las disposiciones aplicables al Banco o a su personal;
 
-> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2002)</small>
-
-II. Llevar el Secretariado de los órganos colegiados que se constituyan para conocer de las operaciones a que se refiere la fracción XII del artículo 46 de la Ley del Banco de México, así como de aquellos otros órganos colegiados en los que el Banco tenga interés;
+II. Llevar el secretariado de los órganos colegiados que se constituyan para conocer de las operaciones a que se refiere la fracción XII del artículo 46 de la Ley del Banco de México, así como de aquellos otros órganos colegiados en los que el Banco tenga interés;
 
 III. Llevar el registro de firmas autógrafas de los funcionarios del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Direcciones y Contralor, para los efectos de los artículos 8o. y 10 de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de dicho ordenamiento, pudiendo expedir constancias de dicho registro;
 
 IV. Expedir en favor de los funcionarios y empleados a que se refiere la fracción anterior, para los efectos de los artículos 8o. y 10 de este Reglamento, certificados relacionados con la firma electrónica, así como llevar el registro de los mismos;
-
-> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2002)</small>
 
 V. Recibir, tramitar y resolver inconformidades de los proveedores, contratistas y adquirentes, sobre licitaciones y adjudicaciones de pedidos y contratos.
 
@@ -867,59 +863,43 @@ El Contralor designará al personal que deberá efectuar las notificaciones rela
 
 VI. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física y de la adquisición de los insumos necesarios para la producción de billetes y la acuñación de monedas, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos;
 
-VII. (DEROGADA, D.O.F. 9 DE OCTUBRE DE 2002)
+VII. Supervisar el manejo de efectivo, metales y valores, así como de los insumos para la fabricación de billetes;
 
-VIII. Supervisar el manejo de efectivo, metales y valores, así como de los insumos para la fabricación de billetes;
+VIII. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
-> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+IX. Proponer a la Junta de Gobierno las normas a que se refiere el artículo 46 fracción XII de la Ley del Banco, y aquéllas que resulten aplicables a éste, sin perjuicio de las que a otras unidades corresponda proponer a dicha Junta;
 
-IX. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+X. Promover en forma permanente los programas de modernización y desarrollo administrativo, que permitan eficientar la operación de las unidades administrativas del Banco;
 
-X. Proponer a la Junta de Gobierno las normas a que se refiere el artículo 46 fracción XII de la Ley del Banco, y aquellas que resulten aplicables a éste, sin perjuicio de las que a otras unidades corresponda proponer a dicha Junta;
+XI. Recibir las quejas y denuncias que presente cualquier interesado conforme a lo previsto por la Ley Federal de Responsabilidades de los Servidores Públicos, así como turnarlas a la autoridad o unidad del Banco competente;
 
-XI. Comprobar el cumplimiento de las políticas y normas relativas a los sistemas electrónicos del Banco;
+XII. Llevar el registro de las normas internas que expidan las unidades administrativas del Banco;
 
-XII. Promover en forma permanente los programas de modernización y desarrollo administrativo, que permitan eficientar la operación de las unidades administrativas del Banco;
+XIII. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos;
 
-XIII. Recibir las quejas y denuncias que presente cualquier interesado conforme a lo previsto por la Ley Federal de Responsabilidades de los Servidores Públicos, así como turnarlas a la autoridad o unidad del Banco competente;
+XIV. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición;
 
-XIV. Llevar el registro de las normas internas que expidan las unidades administrativas del Banco;
+XV. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración interpuestos en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
 
-XV. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario;
+XVI. Notificar a los interesados, las resoluciones de los recursos a que se refiere la fracción anterior, y
 
-XVI. Requerir en su caso, a las instituciones en las que el Banco participe económicamente, la información necesaria para cumplir con sus atribuciones, y
+XVII. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno.
 
-> <small>(REFORMADA, D.O.F. 9 DE OCTUBRE DE 2002)</small>
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2004)</small>
 
-XVII. Apoyar en el ámbito de sus atribuciones al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes, así como actuar como unidad de enlace con la Auditoría Superior de la Federación, para lo cual podrá celebrar los actos jurídicos que se requieran;
+ARTICULO 30 BIS.- El Director de Auditoría tendrá las atribuciones siguientes:
 
-> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+I. Auditar las operaciones realizadas por el Banco, incluso en su carácter de fiduciario;
 
-XVIII. Llevar el registro de los cargos, puestos o comisiones en el Banco, cuyos titulares deben formalizar acta de entrega conforme a las disposiciones que emita la Comisión de Responsabilidades del Banco en la materia, e intervenir en los actos relativos;
+II. Comprobar el cumplimiento de las normas y manuales relativos a los sistemas electrónicos del Banco;
 
-> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+III. Apoyar, en el ámbito de sus atribuciones, al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes, así como actuar como unidad de enlace con la Auditoría Superior de la Federación, para lo cual podrá celebrar los actos jurídicos que se requieran;
 
-XIX. Desahogar las solicitudes planteadas al Banco de México en materia de confirmación de saldos y, en general, de operaciones en las que éste sea parte, así como requerir información de la misma naturaleza, y
+IV. Requerir en su caso, a las instituciones en las que el Banco participe económicamente, la información necesaria para cumplir con sus atribuciones;
 
-> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
+V. Desahogar las solicitudes planteadas al Banco de México en materia de confirmación de saldos y, en general, de operaciones en las que éste sea parte, así como requerir información de la misma naturaleza, y
 
-XX. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición;
-
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
-
-XXI. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración interpuestos en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
-
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
-
-XXII. Notificar a los interesados, las resoluciones de los recursos a que se refiere la fracción anterior;
-
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
-
-XXIII. Supervisar la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco, y
-
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
-
-XXIV. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno.
+VI. Supervisar la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -1358,3 +1338,7 @@ UNICO. Las presentes reformas, entrarán en vigor al día siguiente al de su pub
 D.O.F. 1 DE OCTUBRE DE 2004.
 
 UNICO. Las presentes reformas y adiciones, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE DICIEMBRE DE 2004.
+
+UNICO. Las presentes reformas y adición, entrarán en vigor el día 1o. de enero de 2005.
