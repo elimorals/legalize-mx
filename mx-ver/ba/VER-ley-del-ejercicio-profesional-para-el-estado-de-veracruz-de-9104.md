@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "1963-12-24"
+last_updated: "1964-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 1964. (REPUBLICADA, G.O. 3 DE DICIEMBRE DE 1964)
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -477,6 +477,10 @@ Cuando no existiere el número de profesionales adecuado para la satisfacción d
 
 Las personas que ingresan al Magisterio y a la Docencia sin tener los títulos correspondientes, serán designados interinamente en las plazas respectivas.
 
+(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 1964)(REPUBLICADO, G.O. 3 DE DICIEMBRE DE 1964)
+
+ARTICULO TERCERO BIS.- Los Contadores Privados actualmente en ejercicio en el Estado, que demuestren haber cursado sus estudios con anterioridad a la expedición de esta Ley, conforme a los planes aprobados por las Autoridades Educativas competentes y haber desempeñado públicamente su actividad, podrán continuar en ejercicio, previa la autorización que en cada caso se conceda por el Departamento de Profesiones del Estado. Dicha autorización no los faculta para otorgar la fe pública.
+
 ###### ARTICULO CUARTO.
 
 Los planteles de enseñanza profesional en el Estado están obligados a remitir al Departamento de Profesiones en un término de noventa días a partir de la fecha de vigencia de esta Ley, una lista completa de los Títulos Profesionales que hubieren expedido y durante los veinticinco años.
@@ -530,3 +534,9 @@ DADA en el Salón de Sesiones de la H. Legislatura, en la ciudad de Jalapa-Enrí
 MARIANO RAMOS ZARRABAL.- Diputado Presideinte (sic).- ING. ARMANDO CARDEL AGUILAR.- Diputado Secretario.- Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Jalapa-Enríquez, Ver., a 20 de diciembre de 1963. Sub Secretario de Gobierno Enc. de la Secretaría, Lic. LORENZO J. CASARIN U.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 28 DE NOVIEMBRE DE 1964. (REPUBLICADA, G.O. 3 DE DICIEMBRE DE 1964)
+
+La presente Ley surtirá sus efectos legales a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
