@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-recurso-de-inconformidad-10909"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "1997-06-30"
+last_updated: "2000-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10909&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-06-27"
 
 REGLAMENTO DEL RECURSO DE INCONFORMIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2000.
 
 Reglamento Publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de junio de 1997.
 
@@ -35,17 +35,29 @@ REGLAMENTO DEL RECURSO DE INCONFORMIDAD
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 1.
 
-El recurso de inconformidad señalado en el artículo 294 de la Ley del Seguro Social, se tramitará conforme a las disposiciones de este Reglamento y, en lo no previsto, a las del Código Fiscal de la Federación, Código Federal de Procedimientos Civiles y Ley Federal del Trabajo.
+El recurso de inconformidad señalado en el artículo 294 de la Ley del Seguro Social, se tramitará conforme a las disposiciones de este Reglamento y a falta de disposición expresa, se aplicarán supletoriamente el Código Fiscal de la Federación, la Ley Federal del Trabajo, el Código Federal de Procedimientos Civiles o el derecho común, siempre que las disposiciones de dichos ordenamientos no contravengan la Ley del Seguro Social o sus reglamentos.
 
 ###### Artículo 2.
 
 Los consejos consultivos delegacionales son competentes para tramitar y resolver el recurso de inconformidad.
 
-El Secretario del Consejo Consultivo Delegacional correspondiente tramitará el recurso con el apoyo de los servicios jurídicos delegacionales.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+El Secretario del Consejo Consultivo Delegacional correspondiente, tramitará el recurso con apoyo de los Servicios Jurídicos Delegacionales y estará facultado para dejar sin efectos el acto impugnado, en aquellos casos en que se advierta notoriamente que el mismo encuadra en alguna de las causales que señalan los artículos 38 o 238 del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+En caso de que en el recurso presentado surja una controversia del orden familiar, el Secretario declarará incompetente al Consejo Consultivo Delegacional, dejando a salvo los derechos del inconforme.
 
 El Secretario tendrá todas las facultades para resolver sobre la admisión del recurso y la suspensión del procedimiento administrativo de ejecución. Asimismo, autorizará con su firma los acuerdos, certificaciones y notificaciones correspondientes, y pondrá los expedientes en estado de resolución.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+Será facultad del Secretario, en caso de duda, ordenar comparezca ante su presencia el promovente a ratificar como propia la firma que se contiene en el escrito de inconformidad.
 
 ###### Artículo 3.
 
@@ -63,7 +75,9 @@ I. Nombre y firma del recurrente; domicilio para oír y recibir notificaciones, 
 
 En caso de que el promovente no sepa o no pueda firmar o estampar su huella digital, lo podrá realizar otra persona en su nombre;
 
-II. Acto que se impugna, fecha de su notificación y autoridad emisora del acto recurrido;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+II. Acto que se impugna y, en su caso, número y fecha de la resolución, número de crédito, periodo e importe, fecha de su notificación y autoridad emisora del mismo;
 
 III. Hechos que originan la impugnación;
 
@@ -81,7 +95,9 @@ El promovente deberá acompañar al escrito en que interponga su recurso:
 
 I. El documento en que conste el acto impugnado;
 
-II. Documentos que acrediten su personalidad con apego a las reglas de derecho común, cuando actúe en nombre de otro o de persona moral;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+II. Original o copia certificada de los documentos que acrediten su personalidad cuando se actúe a nombre de otro. En caso de que el asunto no exceda de mil veces el salario mínimo general diario vigente en el Distrito Federal, y se trate de una persona física, bastará con que exhiba carta poder firmada por el otorgante ante dos testigos, cuando exceda de este monto o se actúe como representante legal de una persona moral, se deberá exhibir el poder notarial que así lo acredite;
 
 III. Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió la misma, y
 
@@ -101,7 +117,9 @@ El recurso de inconformidad se interpondrá dentro de los quince días hábiles 
 
 El escrito en que se interponga el recurso será dirigido al Consejo Consultivo Delegacional y se presentará directamente en la sede delegacional o subdelegacional que corresponda a la autoridad emisora del acto impugnado.
 
-También podrá presentarse por correo certificado con acuse de recibo en los casos en que el recurrente tenga su domicilio fuera de la población donde se encuentre la sede delegacional.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+También podrá presentarse por correo certificado con acuse de recibo en los casos en que el recurrente tenga su domicilio fuera de la población donde se encuentre la sede delegacional o subdelegacional.
 
 Se tendrá como fecha de presentación del escrito respectivo, aquella que se anote a su recibo en la oficialía de partes o la de su depósito en la oficina postal. Si el recurso se interpone extemporáneamente será desechado de plano.
 
@@ -117,9 +135,11 @@ Tratándose de inconformidades que interpongan los asegurados o sus beneficiario
 
 En los casos a que se refiere este artículo los promoventes estarán obligados a exhibir una copia más de su escrito de inconformidad por cada uno de los sindicatos o de los patrones que deban ser llamados al procedimiento, así como a mencionar con precisión nombre y domicilio donde dichos terceros puedan ser citados para el efecto.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 8.
 
-En los casos en que el patrón, al momento de interponer el recurso, exprese como agravio la negativa lisa y llana de la relación laboral con aquellos trabajadores señalados en las cédulas de liquidación de cuotas obrero patronales o de capitales constitutivos materia del recurso, el Secretario del Consejo Consultivo Delegacional ordenará correr traslado del mismo al sindicato de trabajadores titular del contrato colectivo de trabajo, para que manifieste lo que a su derecho corresponda. En caso de que los trabajadores no fueren sindicalizados, el traslado podrá realizarse directamente a ellos, si se cuenta con algún domicilio para hacerlo de su conocimiento, los que podrán designar un representante común.
+En los casos en que el patrón, al momento de interponer el recurso, exprese como agravio la negativa lisa y llana de la relación laboral con aquellos trabajadores señalados en las cédulas de liquidación de cuotas obrero patronales o de capitales constitutivos materia del recurso, el Secretario del Consejo Consultivo Delegacional podrá ordenar correr traslado del mismo al sindicato de trabajadores titular del contrato colectivo de trabajo, para que manifieste lo que a su derecho corresponda. En caso de que los trabajadores no fueren sindicalizados, el traslado podrá realizarse directamente a éstos si se cuenta con algún domicilio para hacerlo de su conocimiento. En ambos supuestos se concederá un término de seis días hábiles contados a partir del día siguiente en que surta efectos la notificación para expresar lo que a su derecho convenga.
 
 ###### Artículo 9.
 
@@ -133,11 +153,15 @@ Los demás proveídos que se dicten, considerados de mero trámite, estarán a d
 
 La primera notificación que se realice a terceros se llevará a cabo en forma personal. Las posteriores se realizarán por correo certificado con acuse de recibo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 11.
 
-Las notificaciones personales se harán en el domicilio señalado por el inconforme, en caso de omisión, la notificación se llevará a cabo por lista o en los estrados que se habiliten en las oficinas institucionales para tal efecto.
+Las notificaciones personales se harán en el domicilio indicado por el inconforme; a falta de señalamiento, la notificación se llevará a cabo por lista o en los estrados que se habiliten en las oficinas institucionales, los que permanecerán fijados por un periodo de cinco días hábiles, debiendo hacerse constar la fecha en que se fije la notificación y aquélla en que se retire.
 
-Todas las notificaciones surtirán sus efectos el día hábil siguiente al que se haya hecho la notificación personal o entregado el oficio que contenga la resolución que se notifica.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+Todas las notificaciones surtirán sus efectos a partir del día hábil siguiente al en que se haya hecho la notificación personal, entregado el oficio que contenga la resolución que se notifica; o al quinto día hábil siguiente a aquél en que se haya fijado la notificación por lista o por estrados.
 
 Los términos fijados en los acuerdos o resoluciones que se notifiquen, comenzarán a correr el día siguiente al de la fecha en que surta sus efectos la notificación respectiva.
 
@@ -175,9 +199,15 @@ V. Que se hayan consentido, entendiéndose por tales aquéllos contra los que no
 
 VI. Que sea conexo a otro que haya sido impugnado a través de algún recurso o medio de defensa diferente;
 
-VII. Que hayan sido revocados administrativamente por la autoridad emisora, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
 
-VIII. En los demás casos en que la improcedencia resulte de alguna disposición legal o reglamentaria.
+VII. Que hayan sido revocados administrativamente por la autoridad emisora;
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+VIII. Cuando de las constancias del expediente se desprenda que no existe el acto reclamado, o que el mismo se ha dejado sin efectos, y
+
+IX. En los demás casos en que la improcedencia resulte de alguna disposición legal o reglamentaria.
 
 También se declarará improcedente el recurso de inconformidad en los casos en que no se amplíe éste o si en la ampliación no se expresa agravio alguno, en los términos señalados en el artículo 12, fracción II, de este Reglamento.
 
@@ -219,7 +249,9 @@ Cuando por causas no imputables al oferente o por una especial complicación de 
 
 III. La prueba de inspección será ofrecida estableciendo los puntos sobre los que deba versar, la cual será desahogada por quien designe el Secretario del Consejo;
 
-IV. La prueba testimonial se propondrá indicando los nombres y domicilios de los testigos, quienes deberán ser presentados por el oferente, salvo en el caso de que los testigos sean personal del Instituto, o que el oferente declare bajo protesta de decir verdad que está impedido para presentarlos. Se deberá acompañar el interrogatorio respectivo, a menos de que el interesado prefiriese formular verbalmente las preguntas, y
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+IV. La prueba testimonial se ofrecerá indicando los nombres y domicilios de los testigos, quienes deberán ser presentados por el oferente, salvo en el caso de que los testigos sean personal del Instituto o que el oferente declare bajo protesta de decir verdad que está impedido para presentarlos. Se deberá acompañar el interrogatorio respectivo, a menos que el interesado prefiera formular verbalmente las preguntas. En el caso de que no se señalen el nombre o domicilio de los testigos ofrecidos, se requerirá al inconforme para que los proporcione en el término de cinco días hábiles, contados a partir del día siguiente a aquél en que surta efectos la notificación, apercibido que de no hacerlo en el plazo indicado, se tendrá por no ofrecida la probanza, y
 
 V. La prueba confesional no será admitida, pero sí los informes que rindan las dependencias o funcionarios del Instituto, en relación con el caso a debate.
 
@@ -233,9 +265,11 @@ Las pruebas se admitirán en cuanto se relacionen estrictamente con la controver
 
 Para el desahogo de las pruebas se señalarán las fechas que sean necesarias a fin de que tengan lugar las distintas diligencias propuestas dentro del término que señala el artículo 21 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 20.
 
-El Consejo Consultivo Delegacional tendrá en todo tiempo la facultad de decretar diligencias para mejor proveer cuando considere que los elementos probatorios aportados son insuficientes. De igual facultad gozará el Consejo Técnico en los casos señalados en el artículo 3 de este Reglamento en aquéllos que conozca del veto ejercido por el Presidente del Consejo Consultivo Delegacional.
+El Consejo Consultivo Delegacional o el Secretario de dicho cuerpo colegiado, tendrán en todo tiempo la facultad de ordenar diligencias para mejor proveer cuando consideren que los elementos probatorios aportados son insuficientes. De igual facultad gozará el Consejo Técnico o el Secretario General del Instituto en los casos señalados en el artículo 3 de este Reglamento en aquellos que conozca del veto ejercido por el Presidente del Consejo Consultivo Delegacional.
 
 ###### Artículo 21.
 
@@ -245,9 +279,11 @@ Las pruebas deberán desahogarse en un plazo de quince días contados a partir d
 
 Concluido el término de desahogo de pruebas, el Secretario del Consejo Consultivo Delegacional elaborará, dentro del término de treinta días, los proyectos de resolución.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 23.
 
-El Secretario del Consejo Consultivo Delegacional someterá a la consideración y, en su caso, aprobación del Consejo Consultivo correspondiente, el proyecto de resolución respectivo que servirá de base para la discusión y votación de la resolución, la que se pronunciará dentro del término de quince días. La apreciación de las pruebas se hará conforme a las reglas del derecho común.
+El Secretario del Consejo Consultivo Delegacional, salvo lo dispuesto por el segundo párrafo del artículo 2 de este Reglamento, someterá a la consideración y, en su caso, aprobación del Consejo Consultivo correspondiente, el proyecto de resolución respectivo que servirá de base para la discusión y votación de la resolución, la que se pronunciará dentro del término de quince días. La apreciación de las pruebas se hará conforme a las reglas del derecho común.
 
 ###### Artículo 24.
 
@@ -293,9 +329,11 @@ El incumplimiento de las disposiciones de este Reglamento por parte del personal
 
 ### CAPÍTULO III. DE LA REVOCACIÓN
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 31.
 
-Contra las resoluciones del Secretario del Consejo Consultivo Delegacional en materia de desechamiento del recurso de inconformidad y de las pruebas ofrecidas, podrá solicitarse su revocación ante el Consejo Consultivo Delegacional correspondiente. Esta solicitud se interpondrá por escrito dentro de los tres días siguientes a aquél en que surta sus efectos la notificación del acuerdo recurrido, señalándose en el mismo los argumentos encaminados a la revocación del acto impugnado y se decidirá de plano en la siguiente sesión de dicho Consejo.
+Contra las resoluciones del Secretario del Consejo Consultivo Delegacional en materia de admisión o desechamiento del recurso de inconformidad o de las pruebas ofrecidas, deberá solicitarse su revocación ante el Consejo Consultivo Delegacional correspondiente. Esta solicitud se interpondrá por escrito dentro de los tres días siguientes a aquél en que surta sus efectos la notificación del acuerdo recurrido, señalándose en el mismo los argumentos encaminados a la revocación del acto impugnado y se decidirá de plano en la siguiente sesión de dicho Consejo.
 
 ### CAPÍTULO IV. DE LA SUSPENSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
@@ -303,9 +341,17 @@ Contra las resoluciones del Secretario del Consejo Consultivo Delegacional en ma
 
 La suspensión del procedimiento administrativo de ejecución será ordenada por el Secretario General del Instituto o el Secretario del Consejo Consultivo Delegacional, si se solicita desde la interposición del recurso o durante la tramitación del mismo.
 
-Cuando el acto recurrido esté en vías de ejecución, la suspensión podrá solicitarse, a elección del interesado, ante los funcionarios mencionados en el párrafo anterior, según proceda, o ante las autoridades ejecutoras correspondientes.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
 
-La suspensión se sujetará a las normas aplicables del Código Fiscal de la Federación y deberán otorgarse las garantías que el mismo ordenamiento establece, quedando las mismas en custodia de los servicios de Tesorería que correspondan.
+Cuando el acto recurrido esté en vías de ejecución, la suspensión podrá solicitarse, a elección del interesado, ante los funcionarios mencionados en el párrafo primero, según proceda, o ante las autoridades ejecutoras correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+El Secretario del Consejo al recibir la solicitud de suspensión del procedimiento administrativo de ejecución, la remitirá al Jefe de la Oficina para Cobros que corresponda, quien calificará la garantía, informando al Secretario para que dicte el acuerdo procedente.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+La suspensión se sujetará a las normas aplicables del Código Fiscal de la Federación y deberán otorgarse las garantías que el referido ordenamiento establece, quedando las mismas en custodia de los servicios de tesorería que correspondan.
 
 ###### Artículo 33.
 
@@ -328,3 +374,11 @@ TERCERO. Se abroga el Reglamento del Artículo 274 de la Ley del Seguro Social p
 > <small>(F. DE E., D.O.F. 1 DE JULIO DE 1997)</small>
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de junio de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz Martínez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las reformas contenidas en el presente Decreto podrán aplicarse en aquellos asuntos que se encuentran en trámite en lo que beneficie al interés del recurrente.
