@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-procuraduria-general-de-justicia-del-19695"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-06-30"
-last_updated: "1995-09-15"
+last_updated: "2004-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1995.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO, PUBLICADA EN EL PERIODICO OFICIAL EL 13 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 30 de junio de 1987.
 
@@ -35,7 +37,7 @@ LA QUINCUAGESIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO CONSTITUCIONAL DEL E
 
 CONSIDERANDO:
 
-PRIMERO.- Que la vigente Ley Orgánica de la Procuraduría de Justicia del Estado de Guerrero, publicada en el Periódico Oficial número 38 del día 17 de septiembre de 1975, no regula actualmente en forma debida las atribuciones de dicha Dependencia del Ejecutivo Estatal, en virtud de que en el tiempo transcurrido desde su fecha de expedición, la Constitución General de la República y la del Estado, han sufrido modificaciones fundamentales que motivan la necesidad de adecuar los preceptos normativos de la Procuración de Justicia a dichas reformas, como ejemplo de lo anterior, se encuentra la Fracción III del Artículo 52 de la Ley Orgánica vigente que prevee el arresto hasta por 15 días como corrección disciplinaria, en tanto que la Constitución Federal, después de la última reforma, establece que el arresto decretado por una autoridad administrativa no excederá, en ningún caso, de 36 horas.
+PRIMERO.- Que la vigente Ley Orgánica de la Procuraduría de Justicia del Estado de Guerrero, publicada en el Periódico Oficial número 38 del día 17 de septiembre de 1975, no regula actualmente en forma debida las atribuciones de dicha Dependencia del Ejecutivo Estatal, en virtud de que en el tiempo transcurrido desde su fecha de expedición, la Constitución General de la República y la del Estado, han sufrido modificaciones fundamentales que motivan la necesidad de adecuar los preceptos normativos de la Procuración de Justicia a dichas reformas, como ejemplo de lo anterior, se encuentra la Fracción III del Artículo 52 de la Ley Orgánica vigente que prevee (sic) el arresto hasta por 15 días como corrección disciplinaria, en tanto que la Constitución Federal, después de la última reforma, establece que el arresto decretado por una autoridad administrativa no excederá, en ningún caso, de 36 horas.
 
 SEGUNDO.- Que por otra parte, los artículos del 108 al 114 de la Constitución Federal, que regulan las responsabilidades de los Servidores Públicos, fueron reformados totalmente por decreto publicado en el Diario Oficial de la Federación el 28 de diciembre de 1982. Estas reformas motivaron la nueva redacción de los artículos del 110 al 116 de la Constitución Política del Estado, de fecha 31 de enero de 1984. Las reformas Constitucionales en cita, fueron el apoyo legal para la expedición de la Ley de Responsabilidades de los Servidores Públicos número 674, publicada en el Periódico Oficial el 3 de febrero de 1984, que derogó el Título Quinto de la Ley Orgánica de la Procuraduría General de Justicia vigente, que reglamenta las causas de responsabilidad de los Funcionarios del Ministerio Público.
 
@@ -219,7 +221,7 @@ I.- Ser ciudadano, mexicano por nacimiento en pleno ejercicio de sus derechos;
 
 II.- Acreditar que se ha observado buena conducta y no haber sido condenado en sentencia ejecutoriada como responsable de delito doloso.
 
-III.- Haber concluído por lo menos la instrucción Secundaria.
+III.- Haber concluido por lo menos la instrucción Secundaria.
 
 C).- Para ser perito oficial de la Procuraduría, se requiere:
 
@@ -338,3 +340,21 @@ P.O. 15 DE SEPTIEMBRE DE 1995.
 PRIMERO.- Esta adición a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. En su oportunidad, procédase a reformar la Legislación Estatal correspondiente, en lo relativo a la creación de la figura del Fiscal Especial.
 
 SEGUNDO.- En los términos del Decreto Número 193, de esta LIV Legislatura del Estado y del presente Decreto, se crea la Fiscalía Especial para el caso de Aguas Blancas y se nombra como Fiscal Especial del Ministerio Público para este caso al Dr. Miguel Angel García Domínguez, quien en los términos del artículo 121 de la Constitución Política del Estado deberá rendir protesta ante este Honorable Congreso.
+
+P.O.13 DE FEBRERO DE 2004.
+
+PRIMERO.- Esta Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado, de fecha 23 de junio de 1987 y publicada en el Periódico Oficial de Gobierno del Estado, número 56, el día 30 del mismo mes y año. Quedan derogadas las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Una vez entrada en vigor la presente Ley, el Ejecutivo del Estado en un término de treinta días presentará ante el H. Congreso del Estado, la terna para designar al Fiscal Especializado para la Atención de Delitos Electorales, así como también realizará los ajustes presupuestales necesarios para el funcionamiento y desempeño de esta Fiscalía.
+
+CUARTO.- Hasta en tanto no entre en vigor esta Ley, continuarán aplicándose las disposiciones de la Ley Orgánica de la Procuraduría General de Justicia, de fecha 23 de junio de 1987.
+
+QUINTO.- Los Agentes del Ministerio Público, los Agentes de la Policía Ministerial y Peritos de la Procuraduría General de Justicia, al momento de entrar en vigor las disposiciones reglamentarias para el Servicio Público de Carrera previsto en esta Ley, deberán:
+
+a) Dar cumplimiento a los requisitos y condiciones que establezcan para su incorporación.
+
+b) En ningún caso podrán aplicarse en forma retroactiva normas que afecten su situación administrativa o laboral.
+
+SEXTO.- El Reglamento de esta Ley deberá ser expedido dentro de los noventa días posteriores a su publicación.
