@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1927-02-02"
+last_updated: "1927-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1927.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -505,6 +505,8 @@ Para asegurar la inscripción en el caso del artículo 3,202 del Código Civil, 
 
 Inscrito en el Registro cualquier título traslativo del dominio de los inmuebles, no podrá inscribirse ningún otro de fecha anterior, por el cual se transmita o grave la propiedad del mismo inmueble.
 
+Art .81.- La prohibición contenida en el artículo anterior se entiende sin perjuicio de la facultad que según la misma ley tengan los dueños de inmuebles o derechos reales para registrar los títulos que oportunamente no hubieren presentado, pero en las inscripciones de esta especie se hará mención de dicha circunstancia, antes de expresarse la conformidad de ellas con los documentos de referencia.
+
 ###### Art. 81.
 
 La prohibición contenida en el artículo anterior se entiende sin perjuicio de la facultad que según la misma ley tengan los dueños de inmuebles o derechos reales para registrar los títulos que oportunamente no hubieren presentado, pero en las inscripciones de esta especie se hará mención de dicha circunstancia, antes de expresarse la conformidad de ellas con los documentos de referencia.
@@ -945,6 +947,10 @@ Con los informes a que se refiere el artículo anterior, se hará por el Directo
 
 Los informes dados por los Jefes deben ser conservados, formándose con ellos libros minutarios que periódicamente se empastarán, debiendo pasar al Archivo General de la Oficina.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2005)</small>
+
+Art. 164 B.- Se faculta a los Presidentes Municipales a fin de que, previa consulta telegráfica o postal con la Oficina Central del Registro Público de la Propiedad, a costa de los interesados, puedan expedir las certificaciones y constancias de que habla este Capítulo. En estos casos se sujetarán al arancel en la presente Ley y el impuesto deberá pagarse a los Colectores de Rentas respectivos.
+
 ### CAPITULO XIII.
 
 Del Departamento de Entradas.
@@ -1122,3 +1128,9 @@ Queda sin efecto el Reglamento del Registro Público de la Propiedad expedido po
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado a los veinticinco días del mes de enero de mil novecientos veintisiete.- El Gobernador Constitucional del Estado, E. PORTES GIL.- El Secretario General de Gobierno, LIC. F. CANALES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORTIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ABRIL DE 2005.
+
+Artículo Unico.- Esta Ley empezará a regir desde su publicación en el Periódico Oficial.
