@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-14-2001-del-pleno-del-consejo-de-la-55455"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-03-14"
-last_updated: "2001-05-11"
+last_updated: "2001-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55455&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-03-05"
 
 ACUERDO GENERAL 14/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO 50/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de marzo de 2001.
 
@@ -236,3 +238,13 @@ D.O.F. 11 DE MAYO DE 2001.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE AGOSTO DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 14/2001 y 26/2001, del Pleno del Consejo de la Judicatura Federal.
+
+TERCERO.- Queda subsistente el Acuerdo General 74/2000, del Pleno del Consejo de la Judicatura Federal, en razón de la problemática que existe en los Juzgados de Distrito en Materia Administrativa en el Distrito Federal.
+
+CUARTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
