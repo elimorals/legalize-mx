@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-urbano-del-estado-de-sinaloa-7125"
 country: "mx"
 rank: "ley"
 publication_date: "1977-02-02"
-last_updated: "1977-02-02"
+last_updated: "1993-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 2 de febrero de 1977.
 
@@ -87,9 +87,11 @@ No se podrá registrar ningún acto, contrato, convenio, afectación y demás, q
 
 ### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES
 
-###### ARTICULO 7.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-Corresponde al Gobernador del Estado, a la Comisión Estatal de Desarrollo de Centros Poblados, a los Ayuntamientos y a las Comisiones Municipales de Desarrollo de Centros Poblados, la aplicación de la presente Ley, sin perjuicio de la participación de los particulares que se regula con los procedimientos y sistemas que establezcan las leyes.
+###### ARTÍCULO 7.
+
+Corresponde al Gobernador del Estado, a la Secretaría de Desarrollo Social, a los Ayuntamientos y a las Comisiones Municipales de Desarrollo de Centros Poblados, la aplicación de la presente Ley, sin perjuicio de la participación de los particulares que se regula con los procedimientos y sistemas que establezcan las leyes.
 
 ###### ARTICULO 8.
 
@@ -125,45 +127,83 @@ XII.- Celebrar convenios con otras entidades federativas y con la Federación, c
 
 XIII.- Aplicar y hacer cumplir la presente Ley y las demás disposiciones que regulen la materia.
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-La Comisión Estatal de Desarrollo de Centros Poblados prevista en la Ley de Desarrollo de Centros Poblados del Estado, es la dependencia que tiene a su cargo poner en práctica las medidas que el Ejecutivo del Estado ordene en relación con los asentamientos humanos.
+###### ARTÍCULO 10.
 
-###### ARTICULO 11.
+La Secretaría de Desarrollo Social es la dependencia que tiene a su cargo poner en práctica las medidas que el Ejecutivo del Estado ordene en relación con los asentamientos humanos.
 
-La Comisión Estatal de Desarrollo de Centros Poblados coordinará la elaboración, ejecución y revisión del Plan Estatal de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-###### ARTICULO 12.
+###### ARTÍCULO 11.
 
-La Comisión Estatal de Desarrollo de Centros Poblados, además de las atribuciones que le asigna el artículo 12 de la Ley de Desarrollo de Centros Poblados del Estado, tendrá las siguientes:
+La Secretaría de Desarrollo Social coordinará la elaboración, ejecución y revisión del Plan Estatal de Desarrollo Urbano.
 
-I.- Conocer y dictaminar sobre las proposiciones acerca de provisiones, usos, reservas y destinos de las áreas y predios del Estado, que sometan los Ayuntamientos a la aprobación del Ejecutivo Estatal;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-II.- Regular el mercado de los terrenos de acuerdo con su utilización, y de los inmuebles dedicados a la vivienda popular;
+###### ARTÍCULO 12.
 
-III.- De acuerdo a los planes de desarrollo urbano, dictar las medidas necesarias a que deban sujetarse las áreas y predios no urbanizables, por tratarse de regiones arqueológicas, agrícolas, mineras, forestales o de otra índole;
+La Secretaría de Desarrollo Social, tendrá las siguientes atribuciones:
 
-IV.- Proponer la realización de obras y servicios públicos en el Estado, para cumplir los fines de esta Ley;
+I.- Formular los programas de constitución de reserva territorial, de regularización de tenencia de la tierra; integrar de común acuerdo con los municipios y la sociedad los programas de equipamiento urbano e infraestructura básica. Diseñar estrategias y mecanismos para el fomento de la vivienda;
 
-V.- Realizar estudios y dictaminar sobre la conveniencia de las obras proyectadas en el Estado, por instrucciones del Ejecutivo del mismo o a petición de los Ayuntamientos de la Entidad;
+II.- Establecer la coordinación en sus fases de formulación, integración y evaluación de los programas de desarrollo social del Gobierno del Estado, con la Administración Pública Federal y de los municipios de la Entidad;
 
-VI.- Formular proyectos y estudios técnicos que comprendan especificaciones y presupuestos de las obras que deban realizarse;
+III.- Diseñar, promover y concertar las modalidades y los mecanismos de participación del Gobierno Federal, los municipios y los sectores social y privado, en la ejecución y financiamiento de las obras y servicios públicos, que se contemplen en los planes y programas de desarrollo social del Gobierno del Estado;
 
-VII.- Formular las bases para la expedición de las convocatorias y para la toma de las decisiones conducentes en los concursos para la contratación de obras públicas en el Estado;
+IV.- Planear e integrar los programas de desarrollo urbano y los programas de inversión pública regionales y estatales en el área de desarrollo social;
 
-VIII.- Realizar funciones de auditoría y supervisión en todos los casos de ejecución de las obras comprendidas dentro de las disposiciones de esta Ley;
+V.- Autorizar los pagos relativos al gasto de inversión en obra pública convenida con la Federación o con los Ayuntamientos;
 
-IX.- Dar trámite y emitir opinión sobre las inconformidades señaladas en el capítulo de recursos de esta Ley y someterlas a consideración del Gobernador;
+VI.- Apoyar el desarrollo urbano equilibrado en el Estado, fortaleciendo las atribuciones que el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, asigna a los municipios;
 
-X.- Supervisar, mediante inspección técnica, el exacto cumplimiento que se dé a las disposiciones sobre faccionamientos; (sic)
+VII.- Elaborar, coordinar y evaluar de común acuerdo con la Federación y los municipios, programas relativos a usos de suelo, abastecimiento y tratamiento de aguas, servicios de drenaje y alcantarillado. Formular en concertación con la sociedad civil y en común acuerdo con los municipios y la Federación, programas de regulación, preservación y recuperación ecológica, mejoramiento del medio ambiente, y el aprovechamiento de cauces o lechos de ríos, canales, vasos o lagos;
 
-XI.- Intervenir, a petición de los Ayuntamientos, en la formulación de los planes municipales, de desarrollo urbano;
+VIII.- Elaborar con la participación que le corresponda a la sociedad civil los planos reguladores previstos en la legislación de la materia y vigilar su cumplimiento;
 
-XII.- Determinar las infracciones y calificar las sanciones que deban ser aplicadas;
+IX.- Definir el marco jurídico, las normas y políticas del desarrollo urbano que consideren los aspectos de: transporte, vialidad, equipamiento, vivienda e infraestructura básica y vigilar su cumplimiento de acuerdo a la legislación estatal sobre la materia, proponiendo normas y criterios para trámites;
 
-XIII.- Establecer las medidas que hagan efectiva la participación popular; y,
+X.- Gestionar acciones directamente o a través de los organismos competentes, para la regularización de la tenencia de la tierra y de constitución de reservas territoriales, que permita un crecimiento ordenado de los Centros de Población, la producción y el mejoramiento de la vivienda, así como la planeación y programación de servicios públicos básicos;
 
-XIV.- Las demás que le atribuyan las leyes y disposiciones administrativas aplicables.
+XI.- Proponer al Gobernador del Estado los apoyos que deban otorgarse a los Ayuntamientos relativos al desarrollo urbano;
+
+XII.- Formular, conducir y evaluar la política general de desarrollo social y en particular la de asentamientos humanos, desarrollo regional y urbano, vivienda y ecología;
+
+XIII.- Evaluar la aplicación de las transferencias de fondos en favor de municipios y sindicaturas, de los sectores social y privado que se deriven de las acciones e inversiones convenidas con la Federación;
+
+XIV.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los grupos indígenas y de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Estatal correspondiente y de los municipios y sindicaturas con la participación de los sectores social y privado;
+
+XV.- Coordinar y ejecutar la política estatal para crear y apoyar empresas que agrupen a campesinos y grupos populares en áreas urbanas, a través de las acciones de planeación, programación, concertación, coordinación, evaluación; de aplicación, recuperación y revolvencia de recursos para ser destinados a los mismos fines; así como de asistencia técnica y de otros medios que se requieran para ese propósito, con la intervención de las dependencias y entidades de la Administración Pública Federal correspondientes y de las dependencias estatales y municipales y con la participación de los sectores social y privado;
+
+XVI.- Promover, concertar y coordinar programas de vivienda y de desarrollo urbano, y apoyar su ejecución, con la participación de los municipios, y los sectores social y privado;
+
+XVII.- Promover y apoyar mecanismos de financiamiento para el bienestar social, el desarrollo regional y urbano, así como para la vivienda y la protección al ambiente, con la participación de las dependencias y entidades de la Administración Pública Federal correspondientes, de las dependencias estatales y municipales, de las instituciones de crédito y de los diversos grupos sociales;
+
+XVIII.- Promover el ordenamiento ecológico general del territorio Estatal, en coordinación con las dependencias de la Administración Pública Federal correspondientes y las dependencias estatales y municipales, y con la participación de los sectores social y privado;
+
+XIX.- Formular y conducir la política general de saneamiento ambiental, en coordinación con la Coordinación de Salud y demás dependencias competentes;
+
+XX.- Establecer normas y criterios ecológicos para el aprovechamiento de los recursos naturales y para preservar y restaurar la calidad del ambiente, con la participación que en su caso corresponda a otras dependencias;
+
+XXI.- Determinar las normas y en su caso, ejecutar las acciones que aseguren la conservación o restauración de los ecosistemas fundamentales para el desarrollo de la comunidad, en particular en situaciones de emergencia o contingencia ambiental, con la participación que corresponda a otras dependencias estatales y a los gobiernos municipales;
+
+XXII.- Establecer los criterios ecológicos y normas de carácter general que deban satisfacer las descargas de aguas residuales, para evitar la contaminación que ponga en peligro la salud pública o degrade los sistemas ecológicos, en coordinación con las dependencias competentes y con la participación de los gobiernos municipales, así como vigilar el cumplimiento de los criterios y normas mencionados cuando esta facultad no esté encomendada expresamente a otra dependencia;
+
+XXIII.- Evaluar las manifestaciones de impacto ambiental de proyectos de desarrollo que le presenten los sectores público, social y privado, de acuerdo con la normatividad aplicable;
+
+XXIV.- Promover, fomentar y realizar investigaciones relacionadas con la vivienda, desarrollo regional y urbano y ecología;
+
+XXV.- Promover los proyectos tendientes a fortalecer el desarrollo municipal y la participación comunitaria, así como mejorar la capacidad de gestión de las administraciones municipales;
+
+XXVI.- Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los municipios para fortalecer al desarrollo social de éstos;
+
+XXVII.- A solicitud de las autoridades municipales, coordinar las gestiones que realicen entre sí dichas autoridades, entre los gobiernos Estatal y Federal, así como ante los organismos públicos, con pleno respeto a la autonomía municipal;
+
+XXVIII.- Fomentar y apoyar la realización de programas de colaboración intermunicipal para emprender proyectos prioritarios que incidan en la solución de problemas comunes a más de un municipio;
+
+XXIX.- Participar en los comités, consejos y demás órganos de coordinación de la Administración Pública vinculados con la promoción del desarrollo municipal; y
+
+XXX.- Las demás que establezcan las leyes y reglamentos o que le encomiende el Gobernador del Estado.
 
 ###### ARTICULO 13.
 
@@ -177,7 +217,9 @@ III.- Celebrar con la Federación, las Entidades Federativas o con otros Ayuntam
 
 IV.- Proponer a la Legislatura del Estado la fundación de centros de población dentro de los límites de su jurisdicción;
 
-V.- Preveer, en forma conjunta con la Comisión Estatal de Desarrollo de Centros Poblados, lo referente a inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los centros de población.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+V.- Prever, en forma conjunta con la Secretaría de Desarrollo Social lo referente a inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los Centros Poblados;
 
 VI.- Coadyuvar en la ejecución de los diversos planes de desarrollo urbano;
 
@@ -281,9 +323,11 @@ E).- Los mecanismos de instrumentación en cuanto a:
 
 F).- La estructura organizativa y de coordinación para la realización del plan.
 
-###### ARTICULO 19.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-Una vez formulados los planes municipales por los Ayuntamientos, que deberán contener los elementos que establece el artículo anterior, serán remitidos a la Comisión Estatal de Desarrollo de Centros Poblados para que emita su opinión.
+###### ARTÍCULO 19.
+
+Una vez formulados los planes municipales por los Ayuntamientos, que deberán contener los elementos que establece el Artículo anterior, serán remitidos a la Secretaría de Desarrollo Social para que emita su opinión.
 
 ###### ARTICULO 20.
 
@@ -321,7 +365,17 @@ La modificación o cancelación podrá ser solicitada por escrito al Gobernador 
 
 I. Los Presidentes Municipales, cuya jurisdicción esté comprendida en el plan municipal de que se trate; y,
 
-II. Las Comisiones Estatal y Municipales de Desarrollo de Centros Poblados.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1994)</small>
+
+II.- La Secretaría de Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1994)</small>
+
+III.- Por el Consejo Estatal y Municipal de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1994)</small>
+
+IV.- Por la Comisión Municipal de Desarrollo de Centros Poblados.
 
 ###### ARTICULO 25.
 
@@ -387,9 +441,11 @@ Las decisiones de las Comisiones de Conurbación se tomarán por mayoría de vot
 
 Si una decisión no afecta directamente a alguno de sus miembros y éstos así lo expresan, sólo será válida para las partes implicadas sin que lo sea para las demás.
 
-###### ARTICULO 36.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-La Comisión Estatal de Desarrollo de Centros Poblados fungirá como Secretario Técnico de la Comisión Estatal de Conurbación.
+###### ARTÍCULO 36.
+
+El Sub'Secretario de Desarrollo Urbano fungirá como Secretario Técnico de la Comisión Estatal de Conurbación.
 
 ###### ARTICULO 37.
 
@@ -443,9 +499,11 @@ En virtud de lo dispuesto en el Artículo anterior, para los fines de ordenació
 
 Las declaratorias a que se refiere el párrafo anterior, deberán expresar las razones de beneficio social que las motivaron.
 
-###### ARTICULO 47.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-Determinadas las áreas de provisiones y reservas, previo estudio de la Comisión Estatal de Desarrollo de Centros Poblados, el Gobernador del Estado señalará los destinos y usos correspondiente.
+###### ARTÍCULO 47.
+
+Determinadas las áreas de provisiones y reservas, previo estudio de la Secretaría de Desarrollo Social, el Gobernador del Estado señalará los destinos y usos correspondientes.
 
 ###### ARTICULO 48.
 
@@ -507,9 +565,11 @@ V.- Aquellas cuyo subsuelo se haya visto afectado por fenómenos naturales o por
 
 En estos espacios, la urbanización será restringida y sólo se autorizarán aquellas construcciones y obras que aseguren los servicios de beneficio social de carácter colectivo y de uso común, exceptuándose los considerados en la fracción III de este artículo.
 
-###### ARTICULO 54.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-En todos los demás casos no previstos en el artículo anterior, el Gobernador del Estado, por conducto de la Comisión Estatal de Desarrollo de Centros Poblados, podrá acordar la urbanización conforme a las normas del Plan Estatal y Leyes que sean aplicables.
+###### ARTÍCULO 54.
+
+En todos los demás casos no previstos en el artículo anterior, el Gobernador del Estado, por conducto de la Secretaría de Desarrollo Social, podrá acordar la urbanización conforme a las normas del Plan Estatal y Leyes que sean aplicables.
 
 ###### ARTICULO 55.
 
@@ -577,9 +637,11 @@ IV.- Las medidas del lote tipo autorizado en la zona; y,
 
 V.- El equilibrio de la densidad de población.
 
-###### ARTICULO 62.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-El Gobernador del Estado, por conducto de la Comisión Estatal de Desarrollo de Centros Poblados, promoverá el desarrollo de fraccionamientos y conjuntos habitacionales de carácter popular, de interés social y de crecimiento progresivo, para cuyo efecto aprovechará las reservas territoriales disponibles. En estos casos, tomará las medidas que eviten la especulación o que desvirtúen la finalidad social que motivó la autorización.
+###### ARTÍCULO 62.
+
+El Gobernador del Estado, por conducto de la Secretaría de Desarrollo Social, promoverá el desarrollo de fraccionamientos y conjuntos habitacionales de carácter popular, de interés social y de crecimiento progresivo, para cuyo efecto aprovechará las reservas territoriales disponibles. En estos casos, tomará las medidas que eviten la especulación o que desvirtúen la finalidad social que motivó la autorización.
 
 El Gobernador del Estado apoyará los programas de fraccionamientos y conjuntos habitacionales que realicen dependencias y organismos oficiales de acuerdo con el Plan Estatal.
 
@@ -595,9 +657,11 @@ Las construcciones, ampliaciones o modificaciones que se hagan sin licencia o en
 
 Las obras que sean a cargo del Gobierno del Estado, se efectuarán en los términos previstos en esta Ley y demás disposiciones relativas.
 
-###### ARTICULO 65.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-La Comisión Estatal de Desarrollo de Centros Poblados y las autoridades municipales correspondientes, supervisarán la ejecución de los proyectos y vigilarán en todo momento que las obras y demás actividades estén de acuerdo con los respectivos lineamientos señalados en los planes.
+###### ARTÍCULO 65.
+
+La Secretaría de Desarrollo Social y las autoridades municipales correspondientes, supervisarán la ejecución de los proyectos y vigilarán en todo que las obras y demás actividades estén de acuerdo con los respectivos lineamientos señalados en los planes.
 
 ### CAPITULO VIII. DEL MEJORAMIENTO
 
@@ -715,21 +779,29 @@ Contra las resoluciones o decretos administrativos dictados por las autoridades 
 
 La tramitación del recurso establecido en el artículo anterior, se sujetará a las siguientes normas:
 
-I.- Se interpondrá por escrito ante la Comisión Estatal de Desarrollo de Centros Poblados;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+I.- Se interpondrá por escrito ante la Secretaría de Desarrollo Social;
 
 II.- El recurso deberá interponerse en un plazo de quince días hábiles, contados a partir de la fecha de publicación del Decreto en el Periódico Oficial del Estado o de la fecha de notificación de la resolución administrativa, acompañando a dicho escrito las pruebas que juzguen pertinentes;
 
-III.- La Comisión Estatal de Desarrollo de Centros Poblados citará personalmente al recurrente en el domicilio que haya señalado o en su defecto, por medio de edicto publicado en el Periódico Oficial del Estado y en uno de los de mayor circulación en la Entidad, para que acuda a una audiencia donde se analizarán las pruebas ofrecidas y se le explicará el contenido y alcance de las resoluciones o Decretos administrativos. Al final de la audiencia se levantará una acta circunstanciada que deberá ser firmada por los que en ella intervengan y por dos testigos de asistencia;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+III.- La Secretaría de Desarrollo Social citará personalmente al recurrente en el domicilio que haya señalado o en su defecto, por medio de edicto publicado en el Periódico Oficial "El Estado de Sinaloa" y en unos de los de mayor circulación en la Entidad, para que acuda a una Audiencia donde se analizarán las pruebas ofrecidas y se le explicará el contenido y alcance de las resoluciones o decretos administrativos, al final de las audiencias se levantará una acta circunstanciada que deberá ser firmada por los que en ella intervengan y por dos testigos de asistencia;
 
 IV.- Si los interesados no concurren a la audiencia señalada, se les tendrá por conformes con las resoluciones o Decretos administrativos impugnados;
 
-V.- Después de la audiencia antes indicada, la Comisión Estatal de Desarrollo de Centros Poblados, elaborará un dictámen que someterá a la consideración del Gobernador del Estado, quien resolverá en defintiva;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+V.- Después de la audiencia antes indicada la Secretaría de Desarrollo Social elaborará un dictamen que someterá a la consideración del Gobernador del Estado, quien resolverá en definitiva;
 
 ### CAPITULO XII. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
-###### ARTICULO 79.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-El Gobernador del Estado, por conducto de la Comisión Estatal de Desarrollo de Centros Poblados, así como las Autoridades Municipales correspondientes, tendrán a su cargo la vigilancia del cumplimiento de las disposiciones de esta Ley y sus Reglamentos. Para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan.
+###### ARTÍCULO 79.
+
+El Gobernador del Estado, por conducto de la Secretaría de Desarrollo Social así como las autoridades municipales correspondientes, tendrán a su cargo la vigilancia del cumplimiento de las disposiciones de esta Ley y sus Reglamentos. Para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan.
 
 ###### ARTICULO 80.
 
@@ -759,7 +831,9 @@ Las sanciones administrativas podrán consistir en:
 
 I.- Clausura temporal o definitiva, total o parcial, de las instalaciones, las construcciones y de las obras y servicios;
 
-II.- Multa de $500.00 a $100,000.00 o tratándose de inmuebles, hasta el 10% de su valor;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+II.- Multa de ocho a ochenta salarios mínimos o tratándose de inmuebles, hasta el 10% de su valor;
 
 III.- Demolición de las construcciones efectuadas en contravención a los planes de Desarrollo Urbano, así como a las disposiciones de esta Ley y sus Reglamentos; y,
 
@@ -842,3 +916,11 @@ C.P. ROBERTO WONG LEAL
 EL SECRETARIO DEL DESARROLLO ECONÓMICO
 
 MIGUEL ÁNGEL SUÁREZ Q.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
