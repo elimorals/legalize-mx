@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1935-09-11"
+last_updated: "1937-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -815,9 +815,11 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 ### CAPITULO I. Del Poder Judicial
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1937)</small>
+
 ###### Art. 81.
 
-El ejercicio del Poder Judicial se deposita en un Cuerpo que se denominará "SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO", en Jueces de Primera Instancia, Menores y de Paz.
+El Ejercicio del Poder Judicial se deposita en un cuerpo que se denominará Supremo Tribunal de Justicia del Estado, en Jueces de Primera Instancia, Menores, de Paz y Tribunales para Menores e Incapacitados.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
 
@@ -1280,3 +1282,7 @@ SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su pub
 P.O. 11 DE SEPTIEMBRE DE 1935
 
 Este Decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
+
+P.O. 8 DE SEPTIEMBRE DE 1937
+
+El presente decreto comienza asurtir (sic) sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
