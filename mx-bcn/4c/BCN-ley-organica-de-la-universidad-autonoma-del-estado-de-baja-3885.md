@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-universidad-autonoma-del-estado-de-baja-3885
 country: "mx"
 rank: "ley_organica"
 publication_date: "1957-02-28"
-last_updated: "1957-02-28"
+last_updated: "1958-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1958.
 
 Ley Orgánica publicada en el Alcance al Periódico Oficial de Baja California, el 28 de febrero de 1957.
 
@@ -503,11 +503,17 @@ IX.- Nombrar las comisiones convenientes para el mejor desempeño de sus funcion
 
 X.- Rendir un informe anual detallado de sus labores e informar de su gestión, que durará por todo el tiempo que lo estime necesario la Junta de Gobierno de la Universidad, acompañando inventario y documentación necesaria a las autoridades universitarias.
 
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1958)</small>
+
+XI.- Asumir, la persona que actúe como Presidente del Comité Estatal Pro-Universidad las facultades y obligaciones que al Rector de la Universidad le son señaladas en la presente Ley, en tanto que la Junta de Gobierno no haga la designación del Rector. Esta investidura transitoria contendrá las facultades necesarias de planeación, promoción y ejecución para cuanto requiera tanto la instalación provisional y funcionamiento inicial de la Universidad, como para la integración del Patronato Universitario en los términos dispuestos por el artículo 26 de la presente Ley.
+
 ###### Artículo 4o.
 
 El Comité Pro-Universidad propondrá, dentro de los primeros treinta días a partir de la promulgación de esta Ley, las ternas a que se refiere el inciso a) del Artículo 20.
 
-Creada la Universidad antes del 1o. de Septiembre de 1957, la Junta de Gobierno hará el nombramiento del Rector y en unión de éste nombrará a los Directores de las Escuelas y Facultades que para esa fecha se hayan creado, dando preferencia a los maestros de las Escuelas y Facultades respectivas.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1958)</small>
+
+Creada la Universidad, la Junta de Gobierno hará el nombramiento del Rector en el momento preciso en que convenga a las necesidades de las Instituciones Universitarias que se hubieren establecido.
 
 ###### Artículo 5o.
 
@@ -546,3 +552,11 @@ Lic. Braulio Maldonado Sández.
 Secretario Gral. de Gobierno.
 
 Lic. Rafael Moreno Henríquez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE FEBRERO DE 1958.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado, quedando derogadas todas las disposiciones, acuerdos, leyes y decretos que se opongan a lo que en él se manda.
