@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1561
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-02"
-last_updated: "2001-08-11"
+last_updated: "2002-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 2 de diciembre de 1998.
 
@@ -637,9 +637,17 @@ La Comisión de Régimen Interno y Concertación Política tendrá de entre los 
 
 La búsqueda del consenso será el criterio de su actuación. En caso de desacuerdo las decisiones se tomarán por mayoría de votos. De existir empate, el asunto se elevará al Pleno, excepto en cuestiones administrativas, en cuyo caso, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 53.
 
-La Presidencia de la Comisión de Régimen Interno y Concertación Política será rotativa. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
+La Presidencia de la Comisión de Régimen Interno y Concertación Política será rotativa. Se renovará conforme al calendario y en el orden que por acuerdo determine el Pleno, con sujeción a las reglas siguientes:
+
+1ª. Todas las fracciones parlamentarias asumirán en su oportunidad, la Presidencia de la Comisión;
+
+2ª. Ninguna fracción parlamentaria repetirá en forma consecutiva o intermitente, el cargo en cuestión; y
+
+3ª. La fracción parlamentaria que tenga mayoría en la Legislatura, ejercerá la Presidencia de la Comisión, por lo menos durante un año.
 
 ###### ARTICULO 54.
 
@@ -685,11 +693,11 @@ XVIII. Las demás que le confiera esta ley, el reglamento general y los acuerdos
 
 ### CAPITULO SEGUNDO. DE LA COMISION DE PLANEACION, PATRIMONIO Y FINANZAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 55.
 
-La Comisión de Planeación, Patrimonio y Finanzas se integrará con dos Diputados de cada fracción parlamentaria. La Presidencia de la Comisión será rotativa. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
+La Comisión de Planeación, Patrimonio y Finanzas se integrará con dos Diputados de cada fracción parlamentaria. La Presidencia de la Comisión será rotativa. Se renovará conforme al calendario y en el orden que por acuerdo determine el Pleno, con sujeción a las reglas a que se refiere el artículo 53.
 
 Esta Comisión sesionará por lo menos una vez por semana. A través de su Presidente, y previo consenso con sus integrantes, le corresponde el conocimiento, acuerdos y rendición de informes de los asuntos siguientes:
 
@@ -1253,9 +1261,13 @@ El Reglamento General de la Legislatura, regulará todo lo relativo a sesiones, 
 
 ### CAPITULO CUARTO. DE LAS FRACCIONES LEGISLATIVAS
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 97.
 
-Las fracciones legislativas son las formas de organización que deberán adoptar los diputados con igual afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Legislatura.
+Las fracciones legislativas son las formas de organización que deberán adoptar los Diputados con igual afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Legislatura.
+
+Para integrar fracción legislativa, se requiere un mínimo de dos Diputados con la misma afiliación de partido político registrado ante la autoridad electoral del Estado.
 
 Los diputados que dejen de pertenecer a una fracción legislativa, sin integrarse a otra existente, serán considerados como diputados sin partido y sin representación en la Comisión de Régimen Interno y Concertación Política, debiéndoseles guardar las mismas consideraciones que a los demás legisladores, apoyándolos en lo individual, conforme a las posibilidades presupuestales de la Legislatura, para el desempeño de sus funciones de representación popular.
 
@@ -1277,9 +1289,13 @@ Acto seguido, el Presidente de la Mesa Directiva, dará a conocer la constituci�
 
 El funcionamiento, las actividades y los procedimientos para la designación de los Coordinadores de las fracciones legislativas, serán regulados por las normas estatutarias y los lineamientos de los respectivos partidos políticos, en el marco de las disposiciones de esta ley.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2002)</small>
+
 ###### ARTICULO 101.
 
 Las fracciones legislativas dispondrán de locales adecuados en las instalaciones de la Legislatura, así como los asesores, personal y apoyos materiales necesarios para el cumplimiento de sus funciones, de acuerdo con las posibilidades del presupuesto.
+
+Los Diputados que no lleguen a constituir fracción legislativa, no podrán formar parte de la Comisión de Régimen Interno y Concertación Política, pero deberán recibir las mismas consideraciones y apoyos a que se refiere el tercer párrafo del artículo 97.
 
 ### CAPITULO QUINTO. DE LA COMISION PERMANENTE
 
@@ -1561,7 +1577,7 @@ DIP. ENRIQUE RAMIREZ HERNANDEZ
 
 P.O. 23 DE JUNIO DE 1999
 
-UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 12 DE AGOSTO DE 2000
 
@@ -1572,3 +1588,7 @@ P.O. 11 DE AGOSTO DE 2001
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- En un término que no excederá de quince días contados a partir de la vigencia de este Decreto, deberá expedirse el Reglamento General del Poder Legislativo.
+
+P.O. 7 DE MARZO DE 2002
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
