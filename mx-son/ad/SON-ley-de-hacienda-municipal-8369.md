@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1992-01-30"
+last_updated: "1992-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE MAYO DE 1992.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -61,9 +61,7 @@ II.- Las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos.
 
 III.- Las que autoricen ingresos extraordinarios.
 
-> <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
-
-IV.- Las que establezcan contribuciones especiales por mejoras; y
+IV.- (DEROGADA, B.O. 7 DE MAYO DE 1992)
 
 > <small>(ADICIONADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -83,15 +81,21 @@ Son ingresos extraordinarios los empréstitos, los financiamientos, los que prov
 
 Las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos establecerán, anualmente, los ingresos ordinarios que constituirán la Hacienda Pública Municipal, así como los montos de las cantidades estimadas que se recaudarán en el ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 5.
 
-Las contribuciones se clasifican en impuestos, derechos y contribuciones especiales por mejoras. Los impuestos se regularán por la presente Ley y, supletoriamente por el Código Fiscal del Estado y el derecho común.
+Las contribuciones se clasifican en impuestos, derechos y contribuciones especiales por mejoras. Los impuestos y las contribuciones especiales por mejoras se regulan por la presente Ley y, supletoriamente por el Código Fiscal del Estado y el Derecho común.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 Los aprovechamientos y los derechos, se sujetarán a lo establecido en la presente Ley y en los ordenamientos jurídicos que regulen las materias de que provengan.
 
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 Los productos se regirán por lo que señalen los contratos o convenios que los originen, por esta Ley y, supletoriamente, por el derecho común.
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 Las participaciones se sujetarán a las disposiciones jurídicas y a los convenios que las establezcan y regulen su entero.
 
@@ -105,9 +109,11 @@ I.- Impuestos: Las contribuciones establecidas en Ley, a cargo de las personas f
 
 II.- Derechos: Las contribuciones establecidas en Ley, por los servicios que prestan los Ayuntamientos en sus funciones de derecho público, así como por el uso o aprovechamiento de sus bienes de dominio público.
 
-> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 1992)</small>
 
-III.- Contribuciones especiales por mejoras: Las aportaciones establecidas en las leyes fiscales respectivas, a cargo de personas físicas o morales, que se beneficien por obras públicas de interés general.
+III.- Las contribuciones especiales por mejoras son las aportaciones que deberán realizar las personas a que se refiere el artículo 142 de esta Ley, que se benefician en forma específica por las obras públicas ejecutadas por los Ayuntamientos.
+
+Tales beneficios se producen por la construcción de obras, rehabilitación de obras que ya cumplieron su vida útil y por ampliaciones de capacidad a la infraestructura y el equipamiento existente.
 
 IV.- Productos: Las contraprestaciones por los servicios que presten los Ayuntamientos en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes de dominio privado.
 
@@ -189,7 +195,7 @@ Para determinar la preferencia respecto de los créditos fiscales, se estará a 
 
 > <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-I.- Los créditos municipales, provenientes de contribuciones, productos y aprovechamientos, son preferentes a cualesquier otros, con excepción de los créditos fiscales federales y estatales, créditos con garantía hipotecaria o prendaria, de los créditos de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros, de acuerdo con la Ley Federal del Trabajo.
+I.- Los créditos municipales, provenientes de contribuciones, productos y aprovechamientos son preferentes a cualesquier otros, con excepción de los créditos fiscales federales y estatales, créditos con garantía hipotecaria o prendaria, de los créditos de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros, de acuerdo con la Ley Federal del Trabajo.
 
 II.- Para que sea aplicable la excepción establecida en la fracción anterior, será requisito indispensable que las garantías hipotecarias y en su caso, las prendarias, se encuentren debidamente inscritas en el Registro Público de la Propiedad que corresponda y respecto de los créditos por alimentos que se haya presentado la demanda ante las autoridades competentes.
 
@@ -337,9 +343,11 @@ No podrán condonarse total o parcialmente créditos fiscales a título particul
 
 Cuando la situación económica de los contribuyentes sea insuficiente para cubrir en su totalidad las contribuciones, los productos y los aprovechamientos, los Ayuntamientos, por conducto de las Tesorerías Municipales podrán conceder prórroga para el pago de los créditos fiscales o autorización para que los mismos sean cubiertos en parcialidades, las cuales se tramitarán en los términos que fijen los propios Ayuntamientos, de acuerdo con la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 31.
 
-Sólo podrá concederse prórroga o autorización para pagos en parcialidades de créditos fiscales, cuando con la misma no se comprometa su percepción, se garantice debidamente el interés fiscal en los términos de la presente Ley y el plazo concedido no exceda de 24 meses.
+Sólo podrá concederse prórroga o autorización para pagos en parcialidades de créditos fiscales, cuando con la misma no se comprometa su percepción, se garantice debidamente el interés fiscal en los términos de la presente Ley y el plazo no exceda de 24 meses, salvo en los casos que señale la presente Ley.
 
 Durante los plazos concedidos se causarán recargos, conforme a la tasa que anualmente fijen las Leyes de Ingresos de los Municipios del Estado.
 
@@ -359,13 +367,13 @@ III.- El deudor sea declarado en estado de quiebra, concurso, suspensión de pag
 
 Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán pagarse recargos en concepto de indemnización al Fisco Municipal.
 
-La tasa de los recargos será de un 50% mayor de la que se fije anualmente conforme a las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que debió hacer el pago y hasta que el mismo se efectúe.
+La tasa de los recargos será de un 50% mayor de lo que se fije anualmente conforme a las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que se debió hacer el pago y hasta que el mismo se efectúe.
 
-Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago haya sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, el importe de los recargos no excederá de los causados durante un año.
+Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, el importe y los recargos no excederán de los causados durante un año.
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo, sobre el total del crédito fiscal, excluyendo los propios recargos y los gastos de ejecución. No causarán recargos las multas no fiscales.
 
@@ -421,7 +429,7 @@ Las multas por infracción a las disposiciones fiscales, podrán ser condonadas 
 
 ###### ARTICULO 40.
 
-Las facultades del Fisco Municipal para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida; para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años.
+Las facultades del Fisco Municipal para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida; para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar en cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -449,7 +457,7 @@ El plazo señalado en este artículo no está sujeto a interrupción y sólo se 
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos; dicho término se interrumpirá en cada gestión de cobro que el acreedor notifique o haga saber al deudor o por reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá imponer como excepción en los recursos administrativos; dicho término se interrumpirá en cada gestión de cobro que el acreedor notifique o haga saber al deudor o por reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
@@ -493,7 +501,7 @@ Son obligaciones de los contribuyentes, así como de los sujetos que tengan obli
 
 > <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectiva.
+I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectivo.
 
 II.- Pagar oportunamente los créditos fiscales en los términos que dispongan las leyes fiscales municipales.
 
@@ -511,7 +519,7 @@ VIII.- Las demás que dispongan las Leyes.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-Quedan exceptuados del cumplimiento de la obligación señalada en la fracción I de este artículo, las personas morales citadas en el artículo 24 de la presente Ley, sin menoscabo de su obligación de retener o recaudar créditos fiscales municipales en los casos que los dispongan las leyes o convenios.
+Quedan exceptuados del cumplimiento de la obligación en la fracción I de este artículo las personas morales citadas en el artículo 24 de la presente Ley, sin menoscabo de su obligación de retener o recaudar créditos fiscales municipales en los casos que los dispongan las leyes o convenios.
 
 ###### ARTICULO 50.
 
@@ -525,7 +533,7 @@ ARTICULO 50 BIS.- Quienes deban inscribirse en el Registro de Empadronamiento de
 
 La cédula de registro o de inscripción deberá estar colocada en lugar visible del establecimiento y, a falta de éste, conservarse en el domicilio del interesado, y citarse en todas las promociones que se realicen ante las autoridades fiscales.
 
-Los Ayuntamientos, mediante disposiciones de carácter general, determinarán la forma y la técnica en que se deberá llevar el registro a que se refiere este artículo.
+Los Ayuntamientos mediante disposiciones de carácter general, determinarán la forma y la técnica en que se deba llevar el registro a que se refiere este artículo.
 
 ## TITULO SEGUNDO. De los Impuestos
 
@@ -679,7 +687,7 @@ Es objeto de este impuesto, la adquisición de bienes inmuebles que consistan en
 
 ###### ARTICULO 72.
 
-Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
+Para los efectos de este impuesto, se entiende por adquisición, la que derive de:
 
 > <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 1985)</small>
 
@@ -891,7 +899,7 @@ Los Ayuntamientos podrán ordenar la suspensión de un espectáculo o diversión
 
 ###### ARTICULO 93.
 
-Es objeto de este impuesto la celebración, dentro de la jurisdicción territorial de los Municipios del Estado, de loterías, rifas o sorteos de cualquier clase, autorizados legalmente.
+Es objeto de este impuesto la celebración dentro de la jurisdicción territorial de los Municipios del Estado, de loterías, rifas o sorteos de cualquier clase, autorizadas legalmente.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -939,7 +947,7 @@ Las Tesorerías Municipales, podrán nombrar interventores para que concurran a 
 
 ###### ARTICULO 100.
 
-Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de los servicios públicos, fomento turístico, fomento deportivo y sostenimiento de instituciones de educación media y superior.
+Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de servicios públicos, fomento turístico, fomento deportivo y sostenimientos de instituciones de educación media y superior.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1992)</small>
 
@@ -955,7 +963,7 @@ Son sujetos de estos impuestos, quienes realicen los pagos a que se refiere el a
 
 ###### ARTICULO 103.
 
-Las Leyes de Ingresos y Presupuestos de Ingresos señalarán las tasas de estos impuestos, las que en su totalidad en ningún caso podrán exceder del 50% sobre la base determinada.
+Las Leyes de Ingresos y Presupuestos de Ingresos señalarán las tasas de estos impuestos, las que en su totalidad en ningún caso podrá exceder del 50% sobre la base determinada.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, B.O. 27 DE JUNIO DE 1991)</small>
 
@@ -1305,7 +1313,7 @@ Los dueños o poseedores de los fraccionamientos ilegales pagarán, en el proced
 
 ### CAPITULO PRIMERO. Disposiciones Genéricas
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 137.
 
@@ -1317,11 +1325,11 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 ### CAPITULO SEGUNDO. Procedimiento
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO CUARTO. Recursos
 
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 138.
 
@@ -1331,9 +1339,9 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO TERCERO. Forma de Pago
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ### CAPITULO UNICO. Productos
 
@@ -1349,29 +1357,19 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 ###### ARTICULO 139.
 
-Las contribuciones especiales por mejoras, se sujetarán a lo establecido en la presente Ley y en las Leyes Fiscales Municipales que las aprueban.
+Las contribuciones especiales por mejoras se sujetarán a lo establecido en la presente Ley y en las Leyes de Ingresos y Presupuesto de Ingresos en los Ayuntamientos de los Municipios del Estado.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 140.
 
-Las contribuciones especiales por mejoras, se establecen para las siguientes obras públicas:
+Cuando las obras públicas a que se refiere el presente Capítulo, se realicen con fondos federales o estatales, previa la celebración de los acuerdos de coordinación respectivos, los Ayuntamientos podrán percibir en los términos del presente título, las contribuciones especiales por mejoras, y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinará a pagar el financiamiento de las mismas y, en su caso, en la ejecución de otras obras públicas.
 
-I.- La apertura, rectificación, ampliación, prolongación, alineamiento, pavimentación, nivelación, empedrado y compactación de las vías públicas, así como de los caminos y demás vías que no atraviesen los límites de dos o más municipios;
-
-II.- La construcción y reconstrucción de banquetas y guarniciones;
-
-III.- La construcción y reconstrucción de todas aquellas obras públicas que, por su realización, generen un beneficio directo a propietarios o poseedores a título de dueño, de inmuebles.
-
-> <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
-
-Cuando las obras públicas a que se refiere el presente Artículo, se realicen con fondos federales o estatales, previa la celebración de los acuerdos de coordinación respectivos, los Ayuntamientos podrán percibir, en los términos del presente Capítulo, las contribuciones especiales por mejoras y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinará a la ejecución de obras públicas.
-
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 141.
 
-Las contribuciones especiales por mejoras, se causan al terminarse las obras públicas en su totalidad o en cada tramo que se ponga en servicio.
+Las contribuciones especiales por mejoras se causarán al terminarse las obras públicas en su totalidad o en cada tramo que se ponga en servicio.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1385,6 +1383,18 @@ II.- Las personas físicas o morales poseedoras a título de dueño de los predi
 
 III.- Las personas físicas o morales que hayan adquirido derechos sobre los predios beneficiados con las obras públicas, en virtud de cualquier contrato preparatorio de otro que sea traslativo de dominio o posesorio, siempre que estén en posesión de los mismos. El propietario del predio será solidariamente responsable con su contratante por el monto total de la contribución que les corresponda cubrir, mientras no se perfeccione el contrato definitivo.
 
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+ARTICULO 142 BIS.- Las contribuciones especiales por mejoras se causarán por las obras a que se refiere este artículo, atendiendo a la ubicación de los inmuebles dentro de las zonas de beneficio que también se señalan, hasta por un 80% del costo total de dichas obras.
+
+(VEASE TABLA ANEXA)
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+ARTICULO 142 BIS A.- Para determinar la zona de beneficio en la que se ubica un inmueble se atenderá a la localización respectiva de la obra de que se trate atendiendo a la siguiente tabla:
+
+(VEASE TABLA ANEXA)
+
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 143.
@@ -1395,7 +1405,7 @@ La cantidad global a cargo de los contribuyentes beneficiados, siempre será inf
 
 ###### ARTICULO 144.
 
-La acción para el cobro de las contribuciones especiales por mejoras, es preferente a cualquiera otra y afecta directamente al predio beneficiado.
+La acción para el cobro de las contribuciones especiales por mejoras, es preferente a cualquiera otra y afecta directamente el predio beneficiado.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1411,29 +1421,11 @@ Los notarios públicos, corredores y funcionarios autorizados para dar fe públi
 
 ###### ARTICULO 146.
 
-Cuando los Ayuntamientos de los Municipios del Estado determinen realizar las obras públicas en los términos del presente Título, sin perjuicio de lo establecido en la Ley de Obras Públicas del Estado de Sonora, procederán a:
-
-I.- Elaborar los proyectos, programas, especificaciones de construcción y presupuestos de las obras;
-
-> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 1989)</small>
-
-II.- Identificar los predios que recibirán la mejora por la realización de las obras relativas;
-
-III.- Determinar:
-
-a) El costo total de la obra;
-
-b) La cantidad global que pagarán los contribuyentes beneficiados;
-
-c) El procedimiento para obtener la cantidad que le corresponde pagar a cada uno de los contribuyentes beneficiados; y
-
-d) La forma y términos en que deberá hacerse el pago respectivo.
-
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Para los efectos de este Título las autoridades municipales publicarán en el Boletín Oficial del Gobierno del Estado las características fundamentales del proyecto de obra, incluyendo, el lugar o lugares en que habrá de realizarse y la zona o zonas de beneficio correspondientes.
 
 ###### ARTICULO 147.
 
-En la Iniciativa de Ley que los Ayuntamientos de los Municipios del Estado envíen a la Legislatura Local, para que se establezcan las contribuciones especiales por mejoras, deberán especificarse los datos a que se refiere el artículo anterior.
+(DEROGADO, B.O. 7 DE MAYO DE 1992)
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
@@ -1459,11 +1451,21 @@ III.- Los gastos generales necesarios para la ejecución de la obra, incluyendo 
 
 Del costo de las obras a que se refiere el Artículo anterior, deberá deducirse según sea el caso:
 
-I.- El precio en que se estime se venderán las fracciones de predios adquiridos, que no se utilicen para la obra; y
+I.- El precio en que se estime se venderán las fracciones de predios adquiridos, que no se utilicen para la obra;
 
 II.- El precio que se estime se venderán, previo el cumplimiento de las formalidades legales relativas, las superficies de vía pública que vayan a dejar de ser utilizadas como tales, con motivo de la ejecución de las obras.
 
-Cuando las obras públicas se realicen con fondos del Municipio, se deberán deducir del costo de las obras, según el caso, las aportaciones voluntarias o de entidades públicas, destinadas a la ejecución de la obra.
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
+
+Al valor que se obtenga conforme a éste y el artículo anterior, se le deducirán las aportaciones destinadas a la ejecución de las obras públicas que efectúen voluntariamente los particulares o entidades públicas, en efectivo, en especie o mano de obra.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+Asimismo, los particulares que aporten voluntariamente cantidades en efectivo, en especie o mano de obra, para la realización de las obras a que se refiere este Título tendrán derecho a reducir de la cantidad que se determine a su cargo, el monto de dichas aportaciones.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 1992)</small>
+
+Para los efectos del párrafo anterior, la autoridad encargada de la realización de la obra, expedirá recibo o constancia que ampare la aportación señalada, quedando facultada dicha autoridad para determinar, en el caso de aquéllas que se hagan en especie o mano de obra, su equivalente en numerario.
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
@@ -1471,11 +1473,11 @@ Cuando las obras públicas se realicen con fondos del Municipio, se deberán ded
 
 Los presupuestos de las obras a que este Título se refiere, estarán sujetos a las fluctuaciones en el costo de materiales de construcción, mano de obra y operación de la maquinaria y equipo utilizados.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 152.
 
-La forma de determinar el monto de las cuotas de las contribuciones especiales por mejoras, en todo caso se especificará, atendiendo a la naturaleza de cada una de las obras que las originen, en las Leyes Fiscales Municipales que establezcan las mismas.
+Las autoridades determinarán el monto de las contribuciones especiales por mejoras, atendiendo la ubicación de los inmuebles en la zona de beneficio y el porcentaje del costo de la obra que como contribución señalan los artículos 142 Bis y 142 Bis-A en proporción al valor catastral del inmueble.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1485,29 +1487,15 @@ La forma de determinar el monto de las cuotas de las contribuciones especiales p
 
 ###### ARTICULO 153.
 
-El pago de las contribuciones especiales por mejoras, podrá hacerse en una sola exhibición o en parcialidades. Las leyes fiscales que establezcan contribuciones especiales por mejoras determinarán la forma para el pago de estas en parcialidades, atendiendo a la naturaleza específica de cada obra.
+Las constribuciones (sic) especiales por mejoras se pagarán en un plazo de doce meses, contados a partir de la fecha en que surta efecto la notificación del crédito fiscal correspondiente.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+El plazo a que se refiere el párrafo anterior, empezará a correr a partir del trimestre siguiente a aquél en que la autoridad fiscal notifique el crédito correspondiente, debiendo efectuarse los pagos en los meses de enero, abril, julio y octubre, según sea el caso.
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 154.
 
-El término para el pago empezará a correr desde el día siguiente a la fecha en que se notifique al contribuyente la terminación total de la obra o cuando parte de ésta se ponga en servicio.
-
-> <small>(ADICIONADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
-
-La notificación a que se refiere el presente Artículo, que realizará el Ayuntamiento por conducto de la Tesorería Municipal, deberá contener:
-
-I.- La descripción genérica de la obra pública relativa;
-
-II.- La ubicación del predio del contribuyente;
-
-III.- El costo total de la obra;
-
-IV.- La cantidad global que deban aportar los beneficiados y la individual que le corresponda pagar al contribuyente que se notifica.
-
-Cuando se hubieren realizado aportaciones voluntarias para la ejecución de obras públicas, se deducirá de la cantidad individual a que se refiere esta fracción el importe de la cantidad que se hubiere aportado previamente; y
-
-V.- El término en que deberá hacerse el pago y si será al contado o en parcialidades.
+Las autoridades fiscales deberán autorizar conforme a reglas de carácter general, que las contribuciones especiales por mejoras se paguen en parcialidades en un plazo hasta de cinco años, tomando en consideración la situación económica de la mayoría de las personas obligadas a pagar la contribución de que se trate, caso en el que los pagos se harán cuando se efectúen los correspondientes al impuesto predial. Las parcialidades causarán un interés, de acuerdo a lo que anualmente disponga la Ley de Ingresos y Presupuesto de Ingresos del Ayuntamiento de que se trate.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1519,13 +1507,13 @@ I.- Hasta el 10%, si el pago se realiza dentro del término de ejecución de las
 
 II.- Hasta el 5%, si el pago se realiza dentro de los 60 días siguientes a la terminación de la obra o de cada tramo que se ponga en servicio.
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 156.
 
-Cuando las contribuciones especiales por mejoras se paguen en parcialidades, el beneficiado cubrirá los intereses de acuerdo a lo que anualmente disponga la Ley de Ingresos y Presupuesto de Ingresos del Ayuntamiento de que se trate.
+No se pagarán las contribuciones especiales por mejoras por los predios a que se refiere el artículo 24 de esta Ley; sin embargo, para efectos de determinar la contribución correspondiente a cada uno de los predios ubicados en la zona de beneficio, aquéllos si se tomarán en cuenta.
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO SEGUNDO. Sanciones
 
@@ -1533,31 +1521,21 @@ Cuando las contribuciones especiales por mejoras se paguen en parcialidades, el 
 
 ###### ARTICULO 157.
 
-Dentro de los quince días siguientes a la notificación a que se refiere el Artículo 154 del presente Título, el beneficiado podrá interponer el recurso administrativo de reconsideración y ofrecer, en su caso, las pruebas correspondientes ante la Tesorería Municipal; de no hacerlo, se considerará aceptada la contribución a su cargo.
-
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
-
-Si el recurso se interpone fuera de término o no se ofrecieren las pruebas correspondientes, se desechará de plano.
-
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Dentro de los quince días siguientes a la notificación del crédito fiscal correspondiente, el beneficiado podrá interponer los recursos que se establecen en el Código Fiscal del Estado de Sonora.
 
 ###### ARTICULO 158.
 
-Recibido el recurso administrativo de reconsideración y las pruebas respectivas, la Tesorería Municipal emitirá la resolución que corresponda.
-
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+(DEROGADO, B.O. 7 DE MAYO DE 1992)
 
 ###### ARTICULO 159.
 
-Contra la resolución de que habla el artículo anterior procederá el juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
-
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+(DEROGADO, B.O. 7 DE MAYO DE 1992)
 
 ###### ARTICULO 160.
 
-El procedimiento administrativo de ejecución respecto de las contribuciones especiales por mejoras, se suspenderá con la interposición del recurso, siempre y cuando se garantice el crédito fiscal.
+(DEROGADO, B.O. 7 DE MAYO DE 1992)
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ## TITULO QUINTO. Productos
 
@@ -1615,7 +1593,7 @@ El monto de los productos por la enajenación de lotes en los panteones municipa
 
 ###### ARTICULO 164.
 
-Las agencias funerarias deberán de recaudar o retener los productos que, por concepto de las enajenaciones a que se refiere el artículo anterior, corresponden a los Ayuntamientos, los cuales deberán ser enterados a la Tesorería Municipal, dentro de los primeros cinco días de cada mes, ocasionando la mora de dicho entero, los recargos respectivos conforme a las tasas que corresponden.
+Las agencias funerarias deberán de recaudar o retener los productos que, por concepto de las enajenaciones a que se refiere el artículo anterior, corresponden a los Ayuntamientos, los cuales deberán ser enterados a la Tesorería Municipal dentro de los primeros cinco días de cada mes, ocasionando la mora de dicho entero, los recargos respectivos conforme a las tasas que corresponden.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1653,11 +1631,11 @@ VII.- Los aprovechamientos diversos, provenientes de ingresos no especificados.
 
 ###### ARTICULO 167.
 
-En todo lo relacionado con el pago de las multas señaladas en la fracción I del artículo que antecede, se observarán las disposiciones de los ordenamientos jurídicos que las prevengan y, de no existir una regulación específica de los mismos para este supuesto, serán aplicables las siguientes normas:
+En todo lo relacionado con el pago de las multas señaladas en la fracción I del artículo que antecede, se observarán las disposiciones de los ordenamientos jurídicos que las prevengan y, de no existir una regulación específica de los mismos para este supuesto, serán aplicables a las siguientes normas:
 
 I.- El pago de la multa deberá hacerse en la caja recaudadora municipal del lugar donde se cometió la infracción, dentro del término de quince días, contados a partir de la fecha en la que se impuso la multa;
 
-II.- El pago podrá hacerse por correo, debiéndose remitir el documento en el que conste la multa, con su importe en cheque o giro postal;
+II.- El pago podrá hacerse por correo debiéndose remitir el documento en el que conste la multa, con su importe en cheque o giro postal;
 
 III.- Las multas podrán pagarse mediante cheque personal sin necesidad de certificación; y
 
@@ -1715,9 +1693,9 @@ VII.- No pagar total o parcialmente los impuestos, contribuciones especiales por
 
 VIII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras;
 
-IX.- Resistirse por cualquier medio a las visitas de inspección, no suministrar los datos e informes que legalmente puedan exigir los inspectores y, en general, negarse a proporcionar los elementos que se requieran para el desarrollo de las visitas domiciliarias;
+IX.- Resistirse por cualquier medio a las visitas de inspección, no suministrar los datos e informes que legalmente pueden exigir los inspectores y, en general, negarse a proporcionar los elementos que se requieran para el desarrollo de las visitas domiciliarias;
 
-X.- No enterar total o parcialmente, dentro de los plazos que establezca esta Ley, el importe de las prestaciones fiscales retenidas, recaudadas o que debieran retener o recaudar;
+X.- No enterar total o parcialmente dentro de los plazos que establezca esta Ley, el importe de las prestaciones fiscales retenidas, recaudadas o que debieran retener o recaudar;
 
 XI.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores, que traigan consigo la evasión total o parcial de las mismas prestaciones;
 
@@ -1725,7 +1703,7 @@ XII.- No devolver oportunamente a las autoridades que se determinen en las leyes
 
 XIII.- Producir, fabricar, transformar, almacenar o expender artículos gravados sin cumplir con las obligaciones que establezcan las leyes fiscales; y
 
-XIV.- Las demás que se establezcan en los Reglamentos, las Circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos, en materia hacendaria.
+XIV.- Las demás que establezcan en los Reglamentos, las Circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos, en materia hacendaria.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1912,3 +1890,23 @@ B.O. 30 DE ENERO DE 1992.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor en todo el Estado, el día 1o. de abril de 1992, previa su publicación en el Boletín Oficial del Estado.
+
+B.O. 7 DE MAYO DE 1992.
+
+DECRETO No. 106.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor en todo el Estado a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE MAYO DE 1992.
+
+DECRETO No. 108.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las contribuciones especiales por mejoras que se hubiesen decretado al amparo de las disposiciones que se reforman o derogan por disposición de la presente Ley continuarán aplicándose en los términos de lo que establezcan las mismas.
