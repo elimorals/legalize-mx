@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1992-10-10"
+last_updated: "1993-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1993.
 
-Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo día 20 de agosto de 1989.
+Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
 OSCAR BAYLON CHACON
 
@@ -1853,6 +1853,10 @@ III.- Que esté demostrada la probable responsabilidad del inculpado; y
 
 IV.- Que no esté plenamente comprobada a favor del inculpado, alguna causa que excluya al delito o que extinga la acción penal.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1993)</small>
+
+El plazo a que se refiere el primer párrafo de este artículo se duplicará cuando lo solicite el inculpado, por si o por conducto de su defensor al rendir declaración preparatoria, por convenir dicha ampliación a los intereses de la defensa, con objeto de recabar elementos que deban someter al conocimiento del juez para que este los considere en el momento de resolver la situación jurídica. El Ministerio Público no puede solicitar dicha prorroga ni el juez resolverla de oficio, aun cuando, mientras corre el periodo de ampliación, aquel puede, solo en relación con las pruebas o alegaciones que propusiera el inculpado o su defensor, hacer las promociones correspondientes al interés social que representa.
+
 ###### Artículo 275.
 
 Auto de sujeción a proceso sin prisión preventiva.- Cuando el delito cuya existencia se haya comprobado no merezca pena privativa o restrictiva de libertad, o esté sancionado con pena alternativa, el Juez dictará auto, con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para presumir su responsabilidad, para el sólo efecto de señalar el delito por el cual se ha de seguir el proceso.
@@ -2876,3 +2880,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE OCTUBRE DE 1992.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
