@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-12-25"
+last_updated: "2003-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2215,81 +2215,17 @@ Si no lo hicieren, se tendrá como domicilio para los efectos de este impuesto, 
 
 #### SECCION II. DE LA BASE Y TASA
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 148.
 
-La base del impuesto, es el valor catastral y se determinará en los términos de la ley catastral.
+La base del impuesto es el valor catastral del inmueble, determinado por lo dispuesto en la Ley de Catastro del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 149.
 
-El impuesto se determinará anualmente, tomando como base para ello el salario mínimo general vigente al treinta de noviembre del año anterior al en que deba aplicarse.
-
-I.- Tratándose de predios urbanos, conforme a la siguiente:
-
-TARIFA
-
-VECES EL SALARIO MINIMO FACTOR SOBRE
-
-GENERAL DIARIO DE LA ZONA EXCEDENTE
-
-DEL LIMITE
-
-INFERIOR
-
-BASE CUOTA
-
-DE A FIJA
-
-155 2,327 1.00 0.00200
-
-2,328 4,654 5.34 0.00250
-
-4,655 6,982 11.16 0.00300
-
-6,983 11,636 18.14 0.00350
-
-11,637 17,455 34.43 0.00400
-
-17,456 29,092 57.70 0.00425
-
-29,093 34,910 107.16 0.00450
-
-34,911 46,547 133.34 0.00475
-
-46,548 en adelante 188.62 0.00500
-
-El impuesto a pagar, se determinará sumando a la cuota fija, el importe que resulte, de multiplicar el factor por el excedente del límite inferior de la base.
-
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
-
-II.- Tratándose de predios suburbanos, se aplicará la tasa autorizada para terrenos rústicos al valor del terreno y la tasa autorizada para terrenos urbanos al valor de la construcción.
-
-III.- Tratándose de predios rústicos, aplicando la tasa del 2.00 al millar sobre el valor catastral.
-
-En ningún caso, el impuesto anual será menor al equivalente de un día de salario mínimo general de la zona en donde se ubique el inmueble.
-
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
-
-Para los efectos del pago del impuesto predial en poblaciones de mas de 75,000 habitantes, conforme a los censos oficiales, se considerará como predio urbano no edificado aquel cuya superficie construida sea inferior al veinte por ciento del terreno, por lo que el impuesto a cargo del contribuyente, se sancionará con un cien por ciento mas, del que pagaría de acuerdo a la tarifa aplicable, aumentándose anualmente, en veinte puntos porcentuales, respecto de la tarifa original, hasta alcanzar un máximo de doscientos por ciento; Este incremento dejará de surtir efectos, al cesar la condición de predio no edificado.
-
-El párrafo anterior no se aplicará:
-
-a).- A los titulares de un solo predio, cuya extensión no exceda de mil metros cuadrados;
-
-b).- A los inmuebles que se ubiquen en las zonas designadas para la protección o conservación ecológica;
-
-c).- A las áreas verdes y espacios abiertos propiedad de particulares;
-
-d).- A aquellos que de acuerdo con el Plan director Urbano o la autoridad competente se declaren como zonas de reserva para uso habitacional, comercial e industrial;
-
-e).- A los campos deportivos o recreativos funcionando como tales;
-
-f).- A los estacionamientos públicos o privados debidamente autorizados y en operación;
-
-g).- A los que por su topografía extremadamente accidentada tengan un aprovechamiento restringido;
-
-h).- A las superficies dedicadas primordialmente a explotación agropecuaria.
-
-Tratándose de Fraccionamientos, la sanción se aplicará una vez transcurridos cuatro años, contados a partir de la fecha de autorización por la autoridad municipal.
+El impuesto se determinará anualmente, aplicando la tasa del 1% sobre la base, en los términos dispuestos por el artículo anterior.
 
 #### SECCION III. DE LAS EXENCIONES
 
@@ -2933,17 +2869,7 @@ V.- Arresto hasta por treinta y seis horas.
 
 Primero.- Se abroga el Código Municipal para el Estado de Chihuahua, que entró en vigor el 30 de septiembre de 1982.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-Segundo.- Este Código entrará en vigor el día primero de enero de mil novecientos noventa y seis, a excepción del Capítulo Tercero del Título Tercero, del Libro Segundo, referente al Impuesto Predial, el cual entrará en vigor el día primero de enero del año dos mil tres, a efecto de que los municipios adecuen sus valores en los términos de la Ley de Catastro, continuando vigentes a este respecto durante 1996, 1997, 1998, 1999, 2000, 2001 y 2002, las disposiciones contenidas en el Código que se abroga.
-
-En cuanto a las diferencias del impuesto a cargo de los contribuyentes que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se pagarán en un lapso de dos años, de la manera siguiente:
-
-I.- En el año 2003, el cincuenta por ciento de la diferencia; y
-
-II.- En el año 2004, el resto del total de la diferencia.
-
-Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentarán el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
+Segundo.- (DEROGADO, P.O. 11 DE ENERO DE 2003)
 
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
 
@@ -3308,3 +3234,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 25 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ENERO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil tres.
+
+###### ARTÍCULO SEGUNDO.
+
+Durante el primer semestre de 2003, los contribuyentes del Impuesto Predial efectuarán el pago de esta contribución, de acuerdo a los valores y tasa aplicadas durante el ejercicio fiscal de 2002, sin perjuicio de los descuentos por pago anticipado que se establezcan, de los incrementos acordados por el Ayuntamiento con carácter general y los que deriven de nuevas construcciones y actualizaciones de valores catastrales, anteriores a la entrada en vigor del presente Decreto.
+
+A partir del segundo semestre del ejercicio 2003, quienes efectúen el pago del impuesto, lo harán conforme a lo dispuesto por el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la aplicación de las disposiciones que establece el presente Decreto, entendida esta a partir del segundo semestre del año dos mil tres, el monto el monto (sic) del incremento en su caso del impuesto predial a pagar por los sujetos obligados de la relación tributaria, no podrá exceder en un diez por ciento, respecto al monto enterado, por el mismo bien, en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar, sin perjuicio de la actualización que pueda corresponder.
