@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1973-04-11"
+last_updated: "1973-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1973.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -65,6 +65,10 @@ I.- Los nacidos en territorio del Estado, o accidentalmente fuera de él, de pad
 
 II.- Los mexicanos por nacimiento o naturalización, avecindados en el Estado, que no manifiesten ante el Alcalde Primero del lugar de su residencia su deseo de conservar su anterior origen.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
+
+Art 32.- La vecindad se adquiere por la residencia habitual y constante en territorio del Estado durante dos años. La vecindad no se pierde por ausencia en el desempeño de cargos públicos en servicio del Estado o de la Nación.
+
 ###### Art. 32.
 
 La vecindad se adquiere por la residencia habitual y constante en territorio del Estado durante dos años, o durante uno si se adquieren bienes raíces, o se ejerce alguna profesión, arte o industria. La vecindad no se pierde por ausencia en el desempeño de cargos públicos en servicio del Estado o de la Nación.
@@ -97,9 +101,11 @@ V.- Honrar la memoria de sus grandes hombres, cumplir y vigilar el cumplimiento 
 
 Son ciudadanos del Estado todos los Nuevoleoneses mayores de 18 años de edad, sea cual fuere su sexo o estado civil, que tengan modo honesto de vivir.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 1973)</small>
+
 ###### Art. 36.
 
-Los derechos de los Ciudadanos Nuevoleoneses son:
+Los derechos de los Ciudadanos Mexicanos residentes en el Estado son:
 
 I.- Elegir a los mandatarios del Estado.
 
@@ -199,11 +205,13 @@ Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto de nueve
 
 Para ser Diputado se requiere:
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 1937)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1973)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y Ciudadano Nuevoleonés, nativo del Estado, en ejercicio de sus derechos civiles y políticos.
+I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos civiles y políticos.
 
-II.- Tener veinticinco años cumplidos el día de la elección; y,
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1973)</small>
+
+II.- Tener veintiún años cumplidos el día de la elección; y
 
 III.- Ser vecino del Estado, con residencia no menor de cinco años inmediatos anteriores a la fecha de la elección.
 
@@ -527,7 +535,9 @@ Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se titulará Go
 
 Para ser Gobernador se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, nativo del Estado y con vecindad no menor de cinco años inmediatos anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1973)</small>
+
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con vecindad en el mismo, no menor de cinco años inmediatos anteriores al día de la elección.
 
 II.- Tener cuando menos treinta años cumplidos para el día de la elección y no más de sesenta y cinco.
 
@@ -895,9 +905,9 @@ Una Ley Reglamentaria señalará el número de Alcaldes, Regidores y Síndicos d
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 1937)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1973)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y Ciudadano Nuevoleonés, nativo del Estado, en ejercicio de sus derechos civiles y políticos;
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
 
 II.- Ser mayor de veintiún años;
 
@@ -1191,9 +1201,11 @@ Las Leyes Orgánicas dictarán cuantas disposiciones sean necesarias para evitar
 
 Es inviolable el derecho de petición ejercido por escrito de una manera pacífica y respetuosa; pero en materias políticas sólo pueden ejercerlo los ciudadanos del Estado. A toda petición debe recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, y ésta tiene la obligación de hacer saber en breve término el resultado al peticionario.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
+
 ###### Art. 9o.
 
-A nadie se le puede coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos nuevoleoneses pueden hacerlo para tomar parte en los asuntos políticos del Estado. Ninguna reunión armada tiene derecho a deliberar.
+A nadie se le puede coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos mexicanos pueden hacerlo para tomar parte en los asuntos políticos del Estado. Ninguna reunión armada tiene derecho a deliberar.
 
 No se considerará ilegal y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer peticiones o presentar protestas por actos de alguna Autoridad, si no se profieren injurias contra ésta, ni se hiciere uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desea.
 
@@ -1470,3 +1482,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 11 DE ABRIL DE 1973.
 
 UNICO:- El presente Decreto entrará en vigor, al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 1973.
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
