@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1995-01-16"
+last_updated: "1995-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -351,7 +351,7 @@ I.- Los nacidos en el territorio del Estado.
 
 II.- Los mexicanos nacidos fuera del territorio del Estado, de padre o madre tlaxcalteca.
 
-III.- Los mexicanos por nacimiento o por naturalización, que siendo habitantes del Estado, soliciten y obtengan esta calidad.
+III.- (DEROGADA, P.O. 3 DE MAYO DE 1995)
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -755,7 +755,9 @@ XXXVIII.- Pedir informes al Ejecutivo y al Tribunal Superior de Justicia sobre a
 
 XXXIX.- Rehabilitar a los ciudadanos en el ejercicio de sus derechos.
 
-XL.- Conceder carta de ciudadanía tlaxcalteca a los ciudadanos de otros Estados de la República, por servicios importantes que hayan prestado a esta Entidad.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 1995)</small>
+
+XL.- Conceder reconocimiento de agradecimiento, a los ciudadanos de otros Estados de la República, por servicios importantes que hayan prestado a esta Entidad.
 
 XLI.- Declarar beneméritos del Estado y otorgar otros títulos honoríficos a quienes se hayan distinguido por servicios eminentes.
 
@@ -1770,3 +1772,7 @@ P.O. 16 DE ENERO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE MAYO DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 5 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
