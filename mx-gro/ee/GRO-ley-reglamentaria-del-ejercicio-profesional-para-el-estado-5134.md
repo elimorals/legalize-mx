@@ -4,7 +4,7 @@ identifier: "GRO-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-5134
 country: "mx"
 rank: "ley"
 publication_date: "1990-08-17"
-last_updated: "1990-08-17"
+last_updated: "1991-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GRO"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1991.
 
-Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 17 de agosto de 1990.
+Ley publicada en el Periódico Oficial, el viernes 17 de agosto de 1990.
 
 JOSE FRANCISCO RUIZ MASSIEU, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 
@@ -457,6 +457,12 @@ VI.- Asumir la responsabilidad solidaria por el ejercicio profesional que desarr
 
 VII.- Las demás que les correspondan legalmente.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 1991)</small>
+
+###### ARTICULO 64 Bis.
+
+Cuando conforme a esta Ley no proceda la formación de Colegios de Técnicos o Profesionistas, podrán constituirse cualquiera que sea su forma jurídica de derecho civil, agrupaciones regionales o municipales, siempre que apoyen las actividades de los Colegios legalmente establecidos, según corresponda a la rama técnica o profesional. De la constitución de dichas agrupaciones se informará a la Secretaría de Desarrollo Social.
+
 ## TITULO OCTAVO. DEL CONSEJO ESTATAL DE PRESIDENTES DE COLEGIOS DE TECNICOS Y DE PROFESIONISTAS
 
 ### CAPITULO UNICO
@@ -506,6 +512,40 @@ Quedan exceptuados de la obligación del servicio social las personas mayores de
 ###### ARTICULO 72o.
 
 No se reputará como servicio social el trabajo desempeñado en cualquiera de las oficinas de los poderes del Estado o en los Ayuntamientos cuando de aquel se derive una relación laboral, ni la actividad desempeñada por pasantes en partidos políticos o para fines electorales.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 1991)</small>
+
+## TITULO NOVENO BIS. DE LAS ACADEMIAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 1991)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 1991)</small>
+
+ARTICULO 72 A.- Cuando una agrupación de profesionistas de distintas ramas profesionales reúna los requisitos que establecen esta Ley y así lo solicite al Gobierno del Estado, éste autorizará que se constituya con el carácter de Academia con todos los efectos legales.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 1991)</small>
+
+ARTICULO 72 B.- Las Academias son agrupaciones de profesionistas de distintas ramas profesionales con personalidad jurídica y patrimonio propio debidamente constituidos por autorización del Gobierno del Estado y con el exclusivo objeto de estudiar y difundir científicamente problemas de interés común, estándoles vedado los demás objetos de actividad reservadas a los Colegios de Profesionistas constituidos conforme a esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 1991)</small>
+
+ARTICULO 72 C.- El Gobierno del Estado por conducto de la Secretaría de Desarrollo Social estará facultado para otorgar autorizaciones de constitución de Academias a aquellas agrupaciones de profesionistas que reúnan los requisitos:
+
+I. Tener por lo menos quince miembros que satisfagan los requisitos previstos en el Artículo 35 de esta Ley;
+
+II. Contar con estatutos académicos en los que se definan sus órganos y objetos académicos que deberán ser exclusivamente el estudio y difusión de problemas de interés común;
+
+III. Señalar un domicilio que sea el asiento legal de sus actividades;
+
+IV. Disponer de un plan de labores;
+
+V. Presentar una solicitud suscrita por todos los miembros fundadores y por los directivos, y
+
+VI. Vincular a su denominación las siglas AALP, que significan Academia Autorizada por la Ley Reglamentaria del Ejercicio Profesional para el Estado Libre y Soberano de Guerrero.
+
+Las autorizaciones surtirán sus efectos de Ley en cuanto se publiquen en el Periódico Oficial.
 
 ## TITULO DECIMO. DE LOS DELITOS, SANCIONES Y RECURSOS
 
@@ -682,3 +722,9 @@ Rúbrica.
 El Secretario General de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 23 DE AGOSTO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
