@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1928-09-13"
+last_updated: "1928-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -583,15 +583,21 @@ Del Tribunal de Justicia.
 
 El Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y cinco supernumerarios, funcionará siempre en pleno y sus audiencias serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean privadas. La ley respectiva determinará su funcionamiento. Las faltas absolutas de éstos funcionarios que ocurran un año antes de concluir el período de su duración se llenarán por nueva elección, no debiendo durar los electos en este caso, sino el tiempo que falte a los que reemplacen. Mientras se verifica la elección y se presentan los nuevamente electos, así como en las faltas absolutas que no excedan de un año y en las temporales que ocurran entrarán a funcionar los supernumerarios, con arreglo a lo que estableciere la ley orgánica respectiva. En caso de que no los hubiere o no estuvieren expedidos, se cubrirá la falta en los términos que aquella disponga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1928)</small>
+
 ###### Artículo 69.
 
-Para ser Magistrado propietario o supernumerario del Supremo Tribunal de Justicia, se requiere.
+Para ser Magistrado Numerario o Supernumerario del Supremo Tribunal de Justicia, se requiere.
 
-I. Ser ciudadano michoacano en ejercicio de sus derechos.
+I.- Ser ciudadano michoacano en ejercicio de sus derechos.
 
-II. Tener treinta años cumplidos.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1928)</small>
 
-III. Tener cuatro años de abogado y no estar suspenso en el ejercicio de su profesión.
+II.- Tener veinticinco años cumplidos.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1928)</small>
+
+III.- Poseer título profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello y no estar suspenso en el ejercicio de su profesión.
 
 ###### Artículo 70.
 
@@ -1338,5 +1344,9 @@ P.O. 15 DE AGOSTO DE 1918.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
 
 P.O. 13 DE SEPTIEMBRE DE 1928.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
+
+P.O. 30 DE SEPTIEMBRE DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
