@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-1681
 country: "mx"
 rank: "ley"
 publication_date: "1972-11-13"
-last_updated: "1972-11-13"
+last_updated: "2000-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2000.
 
 Ley publicada en el Suplemento al Periódico Oficial, el día 13 de noviembre de 1972.
 
@@ -47,9 +47,11 @@ Esta ley tiene por objeto la ejecución de las sanciones privativas y restrictiv
 
 El régimen de ejecución de las sanciones privativas y restrictivas de libertad, tiene por objeto la readaptación social del interno, mediante un tratamiento individualizado, en el que la educación y el trabajo ocupan un lugar relevante.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 3o.
 
-Corresponde al Ejecutivo del Estado, a través de la Primera Secretaría de Gobierno y del Departamento de Prevención y Readaptación Social, la ejecución de las sanciones privativas y restrictivas de libertad, así como la dirección y administración de todos los centros e instituciones de ejecución existentes en la Entidad.
+Corresponde al Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno que actuará por sí o por conducto de la Dirección de Prevención y Readaptación Social, la ejecución de las sanciones privativas y restrictivas de libertad, así como la dirección y administración de todos los centros e instituciones de ejecución existentes en la Entidad.
 
 ###### ARTICULO 4o.
 
@@ -65,11 +67,15 @@ El Ejecutivo del Estado podrá celebrar con el gobierno federal los convenios ge
 
 ## TITULO PRIMERO. DE LOS ORGANOS DE EJECUCION
 
-### CAPITULO I. DEL DEPARTAMENTO DE PREVENCION Y READAPTACION SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 2000)</small>
+
+### CAPITULO I. DE LA DIRECCION DE PREVENCION Y READAPTACION SOCIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 7o.
 
-El Departamento de Prevención y Readaptación Social, que dependerá directamente de la Primera Secretaría de Gobierno, es el Organo del Poder Ejecutivo al que corresponde la ejecución de las sanciones privativas y restrictivas de libertad, y la dirección y administración de todos los establecimientos penitenciarios que existan en el Estado; tendrá las siguientes facultades:
+La Dirección de Prevención y Readaptación Social, que dependerá directamente de la Secretaría de Gobierno, es el órgano del Poder Ejecutivo al que corresponde la ejecución de las sanciones privativas y restrictivas de libertad; así como la dirección y administración de todos los establecimientos penitenciarios que existan en el Estado. La Dirección tendrá las siguientes facultades:
 
 I.- Ejecutar, de acuerdo con lo ordenado por el Código Penal, esta ley y la sentencia ejecutoria, las sanciones privativas y restrictivas de libertad;
 
@@ -105,39 +111,55 @@ XVI.- Modificar las modalidades de ejecución de la sanción impuesta, cuando ex
 
 XVII.- Las demás que fijen las leyes y reglamentos respectivos.
 
-En los casos de las fracciones II, III y IV de este artículo, se hará necesaria la autorización de la Primera Secretaría de Gobierno.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
+En los casos de las fracciones II, III y IV de este artículo, será necesaria la autorización de la Secretaría de Gobierno.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 8o.
 
-El Departamento de Prevención y Readaptación Social, contará con un Jefe y un Subjefe, licenciados o doctores en derecho y preferentemente especializados en Penología y el personal técnico, administrativo y de vigilancia que determine el Presupuesto de Egresos del Estado.
+La Dirección de Prevención y Readaptación Social, contará con un Director y un Subdirector, profesionistas titulados en derecho, preferentemente especializados en la materia penal y criminalística, y el personal técnico, administrativo y de vigilancia que sea necesario de conformidad con la capacidad presupuestal correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 9o.
 
-El Departamento de Prevención y Readaptación Social integrará un organismo técnico de asesoría y consulta que se denominará Consejo de Prevención Social, el cual estará presidido por el Jefe del Departamento de Prevención y Readaptación Social y fungirá como Secretario el Subjefe del Departamento. Se integrará con tres miembros más, quienes ejercerán su cargo gratuitamente y serán designados por el Gobernador del Estado.
+La Dirección de Prevención y Readaptación Social integrará un organismo técnico de asesoría y consulta que se denominará Consejo de Prevención Social, el cual estará presidido por el Director de Prevención y Readaptación Social y fungirá como Secretario el Subdirector de la Dirección. Se integrará con tres miembros más, quienes ejercerán su cargo gratuitamente y serán designados por el Gobernador del Estado.
 
 Constituirá quorum (sic) legal para las sesiones la presencia de cuatro de sus miembros. En caso de empate decidirá el Presidente con voto de calidad.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 10.
 
-El Gobernador del Estado, oído el Consejo de Prevención y Readaptación Social, organizará el Departamento de Prevención y Readaptación Social en secciones, entre las cuales distribuirá las funciones señaladas en el artículo 7o. de esta Ley. A cada una de dichas secciones se adscribirá el personal técnico, administrativo y subalterno que se estime necesario.
+El Gobernador del Estado por conducto del Secretario de Gobierno, dispondrá que la Dirección de Prevención y Readaptación Social se organice para su funcionamiento en secciones, entre las cuales se distribuirán las funciones señaladas en el artículo 7o de esta Ley. A cada una de dichas secciones se adscribirá el personal que se estime necesario.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 11.
 
-El Departamento de Prevención y Readaptación Social dispondrá de un cuerpo de delegados de libertad vigilada, que tendrá a su cargo la vigilancia de los sentenciados en régimen de suspensión condicional de la condena, de libertad condicional o de los sujetos a la vigilancia de la autoridad. En tanto se integra este organismo, la función de que se habla, podrá ser delegada a las autoridades municipales.
+La Dirección de Prevención y Readaptación Social dispondrá de un cuerpo de delegados de libertad vigilada, que tendrá a su cargo la vigilancia de los setenciados (sic) en régimen de suspensión condicional de la condena, de libertad condicional o de los sujetos a la vigilancia de la autoridad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 12.
 
-El Departamento de Prevención y Readaptación Social proveerá a la organización del Servicio de Identificación Judicial y a la organización y Administración del Registro de los Internos, de acuerdo con las normas técnicas que se determinen.
+La Dirección de Prevención y Readaptación Social proveerá la organización y operación del Servicio de Indentificación (sic) Judicial y del Registro de los Internos, de acuerdo con las normas que determine para tal efecto.
 
 En dicho registro se inscribirán solamente aquellos internos cuya sentencia hubiere causado ejecutoria, pero en ningún caso los procesados ni los sentenciados por delito político.
 
-La identificación de los procesados, exigida por el artículo 350 del Código Procesal Penal del Estado, no tendrá otro objeto que el de facilitar la búsqueda de sus antecedentes en el Registro, sin que en ningún caso pueda confeccionárseles una ficha que vaya a engrosar expediente alguno.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
+La identificación de los procesados, exigida por el artículo 232 del Código de Procedimientos Penales del Estado de Michoacán, no tendrá otro objeto que el de facilitar la búsqueda de sus antecedentes en el Registro, sin que en ningún caso pueda integrársele una ficha que vaya a engrosar expediente alguno.
 
 Los datos a que se refiere este artículo sólo podrán proporcionarse a las autoridades judiciales, previa solicitud por escrito.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 13.
 
-Los jueces, durante la instrucción del proceso, recabarán del servicio de Identificación Judicial los antecedentes del procesado, mediante el procedimiento que al efecto señale el Departamento.
+Los jueces, durante la instrucción del proceso, recabarán del Servicio de Identificación Judicial los antecedentes del procesado, mediante el procedimiento que al efecto señale la Dirección de Prevención y Readaptación Social.
 
 ### CAPITULO II. DE LAS INSTITUCIONES DE EJECUCION PENITENCIARIA
 
@@ -155,7 +177,9 @@ IV.- Centros abiertos;
 
 V.- Establecimientos especiales para enfermos, sordomudos, ciegos y deficientes mentales o de personalidad análoga;
 
-VI.- Centro de Readaptación Social de la ciudad de Morelia;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2000)</small>
+
+VI. Centros de Readaptación Social; y,
 
 VII.- Las demás que se establezcan.
 
@@ -235,9 +259,11 @@ En los establecimientos cuya población sea inferior a la de quinientos internos
 
 ### CAPITULO IV. DEL REGIMEN INTERNO DE LAS INSTITUCIONES
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 25.
 
-Las disposiciones relativas a la organización interna y régimen administrativo de las instituciones de ejecución, estarán contenidas en el reglamento de esta ley; en su defecto, serán dictadas por el Departamento de Prevención y Readaptación Social, para ser acatadas por el director y demás personal.
+Las disposiciones relativas a la organización interna y régimen administrativo de las instituciones de ejecución, estarán contenidas en el Reglamento de esta Ley; en su defecto, serán dictadas por la Dirección de Prevención y Readaptación Social, para ser acatadas por el Director del Centro de que se trate y demás personal.
 
 ###### ARTICULO 26.
 
@@ -263,9 +289,11 @@ Los horarios generales de actividades de los internos en que se prevean el traba
 
 Todo interno tiene derecho a comunicarse con sus familiares u otras personas del exterior, sujetándose al horario aprobado y a enviar y recibir correspondencia, salvo que se sospeche que contenga enervantes, instrumentos peligrosos u otro material similar, en cuyo caso, el director del establecimiento presenciará la apertura del paquete o sobre por el destinatario y determinará lo que proceda.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 30.
 
-Para visitar a los enfermos de cualquier establecimiento, se requiere un permiso del director o persona que lo sustituya, con excepción de los funcionarios judiciales en ejercicio de su cargo. En caso de enfermedad, peligro de muerte, o cualquier otra causa grave, a juicio del director, éste autorizará la visita extraordinaria.
+Para visitar a los enfermos de cualquier establecimiento, se requiere un permiso del Director del Centro o persona que lo sustituya, con excepción de los funcionarios judiciales en ejercicio de su cargo. En caso de enfermedad, peligro de muerte, o cualquier otra causa grave, a juicio del Director del Centro, éste autorizará la visita extraordinaria.
 
 ###### ARTICULO 31.
 
@@ -279,13 +307,17 @@ El Consejo Técnico determinará qué libros, periódicos, revistas, películas 
 
 Los sentenciados podrán ejercitar libremente los derechos civiles de que no hubieren sido privados en la sentencia penal y cuyo ejercicio sea compatible con el cumplimiento de la sanción y con el tratamiento dispuesto.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 34.
 
-El dinero, los objetos de valor y demás bienes propios que el interno posea a su ingreso y que reglamentariamente no pueda retener consigo, serán mantenidos en depósito previo inventario, bajo la más estricta responsabilidad del director. Los bienes serán conservados íntegros y devueltos al obtener el sujeto su libertad, o antes si va a disponer de ellos para el exterior.
+El dinero, los objetos de valor y demás bienes propios que el interno posea a su ingreso y que reglamentariamente no pueda retener consigo, serán mantenidos en depósito previo inventario, bajo la más estricta responsabilidad del Director del Centro. Los bienes serán conservados íntegros y devueltos al obtener el sujeto su libertad, o antes si va a disponer de ellos para el exterior.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 35.
 
-Todas las disposiciones que afecten el interés general de los internos, deberán ser leídas públicamente por el director y dadas a conocer por escrito en lugares visibles de la institución, en su oportunidad.
+Todas las disposiciones que afecten el interés general de los internos, deberán ser leídas públicamente por el Director del Centro y dadas a conocer por escrito en lugares visibles de la institución, en su oportunidad.
 
 ## TITULO SEGUNDO. DEL SISTEMA
 
@@ -391,9 +423,11 @@ III.- Sentenciados, cuando se ha comunicado en forma oficial al director de la i
 
 IV.- Exhortados, cuando se trate de internos que a través de la autoridad competente, se encuentren a disposición de una autoridad judicial de la Entidad, de la Federación o de un Estado extranjero, para su traslado, de acuerdo con los tratados y leyes relativas.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 54.
 
-Por ningún motivo se recluirá en los establecimientos de adultos a los menores infractores. Estos deberán ser internados en las instituciones especiales que previene el Código Tutelar para Menores del Estado de Michoacán.
+Por ningún motivo se recluirá en los establecimientos de adultos a los menores infractores. Estos deberán ser internados en las instituciones especiales que previene la Ley Tutelar para Menores del Estado de Michoacán.
 
 ###### ARTICULO 55.
 
@@ -429,13 +463,17 @@ Según los resultados de los estudios sobre la personalidad de los internos, és
 
 En relación a cada interno, se formará un expediente que contendrá los resultados del estudio integral de la personalidad, así como sus antecedentes jurídicos y correccionales.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 59.
 
-El Consejo Técnico Interdisciplinario, realizado el estudio integral del sentenciado, elevará con los datos necesarios un informe al Jefe del Departamento de Prevención y Readaptación Social, quien analizando tal opinión, en un término que no exceda de treinta días, adoptará las medidas pertinentes para el cumplimiento de la sanción y del tratamiento respectivo.
+El Consejo Técnico Interdiciplinario, realizado el estudio integral del sentenciado, presentará, con los datos necesarios, un informe al Director de Prevención y Readaptación Social, quien analizando tal opinión, en un término que no deberá exceder de treinta días, adoptará las medidas pertinentes para el cumplimiento de la sanción y del tratamiento respectivo.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 60.
 
-Dictada por el Jefe del Departamento de Prevención y Readaptación Social la resolución de que habla el artículo 59 de esta ley, se comunicará al director del establecimiento que corresponda, y se iniciará el tratamiento básico, aplicando a cada interno las medidas autorizadas, dividiéndose dicho período en fases de tratamiento en clasificación y tratamiento preliberacional.
+Dictada por el Director de Prevención y Readaptación Social la resolución de que habla el artículo 59 de esta Ley, se le comunicará lo procedente al Director del establecimiento que corresponda, y se iniciará el tratamiento básico aplicando a cada interno las medidas autorizadas; dividiéndose dicho período en fases de tratamiento en clasificación y tratamiento preliberacional.
 
 ###### ARTICULO 61.
 
@@ -479,9 +517,11 @@ d).- Las que resulten aconsejables en cada caso a juicio del Consejo Técnico.
 
 Para los efectos de su promoción al grado superior inmediato, los internos serán calificados mensualmente en sus trabajos, estudios y conducta. El paso al de prueba requerirá haber sido aprobado en tres mensualidades consecutivas o seis alternativas, después del cumplimiento del tratamiento básico.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 68.
 
-Los sentenciados a sanciones cuya duración no exceda de dos años de prisión, solamente pasarán los periodos de observación y tratamiento básico. Los sentenciados a sanciones inferiores a seis meses de prisión podrán cumplirlas, a juicio del Departamento de Prevención y Readaptación Social, en los centros de retención municipales correspondientes al lugar de su detención, sin sujeción a tratamiento alguno.
+Los sentenciados a sanciones cuya duración no exceda de dos años de prisión, solamente pasarán los períodos de observación y tratamiento básico. Los sentenciados a sanciones inferiores a seis meses de prisión podrán cumplirlas, a juicio de la Dirección de Prevención y Readaptación Social, en los centros de retención municipales correspondientes al lugar de su detención, sin sujeción a tratamiento alguno.
 
 ###### ARTICULO 69.
 
@@ -503,7 +543,7 @@ V.- Permisos para salir los fines de semana, que comprenderán el sábado y domi
 
 ###### ARTICULO 71.
 
-El régimen imperante de la institución abierta se fundará en la confianza y en la autodisciplina; podrá servir tanto para la aplicación del tratamiento preliberacional como para el cumplimiento de las sanciones cortas privativas de libertad, cuando esto último sea técnicamente recomendable y se resuelva por el Consejo Técnico.
+El régimen imperante de la institución abierta se fundará en la confianza y en la autodisciplina; podrá servir tanto para la aplicación del tratamiento preliberacional como para el cumplimiento de las sanciones cortas privativas de libertad, cuando ésto último sea técnicamente recomendable y se resuelva por el Consejo Técnico.
 
 El sistema de vida de los internos asignados a la institución abierta será determinado por el director del establecimiento, en consideración a las circunstancias peculiares del caso.
 
@@ -513,9 +553,15 @@ El período de reincorporación se iniciará con la obtención de la libertad, s
 
 ### CAPITULO V. DE LA EDUCACION
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 73.
 
-A partir de los períodos del tratamiento básico y de prueba, se impartirá enseñanza a los internos analfabetos que no hubieren iniciado la instrucción primaria y éstos quedarán obligados a recibirla. Todos los demás internos serán sometidos al tratamiento educacional que corresponda. La enseñanza primaria será obligatoria. Los internos que hayan terminado la instrucción primaria y tengan vocación para los estudios superiores, podrán continuarlos dentro o fuera del establecimiento, debiendo en este último caso, autorizar el Jefe del Departamento de Prevención y Readaptación Social su salida con vigilancia estrecha, a fin de evitar fugas, siempre y cuando el centro de estudios esté en la ciudad donde se cumple la sanción, previa garantía suficiente.
+A partir de los períodos del tratamiento básico y de prueba, se impartirá enseñanza a los internos analfabetos que no hubieren iniciado la instrucción primaria y éstos quedarán obligados a recibirla. Todos los demás internos serán sometidos al tratamiento educacional que corresponda. La enseñanza primaria será obligatoria.
+
+Los internos que hayan terminado la instrucción primaria y tengan vocación para los estudios superiores, podrán continuarlos dentro o fuera del establecimiento, debiendo en este último caso, obtener la autorización del Director de Prevención y Readaptación Social, previa valoración jurídica, de conformidad con las disposiciones aplicables y siempre que el centro de estudios se ubique en la ciudad donde se cumple la sanción.
+
+En su caso, durante la salida del interno se le aplicará vigilancia estrecha, a fin de evitar fugas, para lo cual deberán otorgarse las garantías suficientes.
 
 ###### ARTICULO 74.
 
@@ -529,15 +575,19 @@ Los internos a quienes su edad y condición física y mental se los permita, deb
 
 ###### ARTICULO 76.
 
-El trabajo es medio de regeneración del sentenciado ejecutoriamente a sanción corporal y tiene el carácter de obligatorio, durante los periodos de tratamiento básico y de prueba, pero se ajustará su duración a la jornada máxima de ocho horas y el trabajo nocturno no excederá de siete horas.
+El trabajo es medio de regeneración del sentenciado ejecutoriamente a sanción corporal y tiene el carácter de obligatorio, durante los períodos de tratamiento básico y de prueba, pero se ajustará su duración a la jornada máxima de ocho horas y el trabajo nocturno no excederá de siete horas.
 
 ###### ARTICULO 77.
 
 Los accidentes de trabajo y las enfermedades profesionales de los sentenciados, serán indemnizados, en los términos dispuestos en la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 78.
 
-El trabajo de los sentenciados estará subordinado al Estado y será dirigido y coordinado por conducto del Departamento de Prevención y Readaptación Social, sin que en ningún caso pueda ser objeto de concesión a particulares.
+El trabajo de los sentenciados estará subordinado al Estado y será dirigido y coordinado por el Titular del Poder Ejecutivo a través del Director de Prevención y Readaptación Social.
+
+El Director de Prevención y Readaptación Social promoverá el funcionamiento permanente de talleres de capacitación para el trabajo, para lo cual solicitará el apoyo de las dependencias y entidades estatales competentes.
 
 ###### ARTICULO 79.
 
@@ -557,9 +607,15 @@ IV.- Las mujeres durante los tres meses anteriores al parto y en un mes posterio
 
 Las personas comprendidas en los casos de las fracciones I, II y III de este artículo, que voluntariamente desearen trabajar, podrán dedicarse a la ocupación que elijan, siempre que no fuere perjudicial a su salud.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 81.
 
-El trabajo será organizado colectivamente, de manera que los internos realicen una producción común, pero el Jefe del Departamento de Prevención y Readaptación Social, podrá autorizar la ejecución de trabajos individuales a aquellos internos que tengan una profesión, arte u oficio de especialidad.
+El Gobernador del Estado a través del Director de Prevención y Readaptación Social, podrá autorizar la organización y operación de fuentes de empleo para los internos; así como la enajenación de sus productos en el interior o exterior, siempre que no entorpezcan la seguridad de los establecimientos o violenten las disposiciones o normas que regulen su funcionamiento.
+
+El Gobernador del Estado fomentará la creación de un Patronato integrado por los sectores público, privado y social, que promoverá la generación de actividades productivas de los internos para su beneficio económico, de sus familias, de la comunidad penitenciaria y en su caso, para coadyuvar al sostenimiento del centro o establecimiento penitenciario de que se trate.
+
+El Patronato se integrará y funcionará de conformidad con las disposiciones que el Titular del Poder Ejecutivo emita para tal efecto.
 
 ###### ARTICULO 82.
 
@@ -625,9 +681,11 @@ El orden y la disciplina en los centros, se mantendrán con firmeza, sin imponer
 
 Se prohibe todo castigo consistente en torturas o tratamientos crueles, así como la existencia de sectores de distinción obedeciendo a razones económicas, mediante el pago de una cuota o pensión.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 95.
 
-Se prohibe a los internos tener armas u objetos que puedan servir para lesionar, excepto las herramientas de trabajo autorizadas; guardar dinero u objetos de valor, salvo respecto de estos últimos, los que se aceptan reglamentariamente; efectuar reclamaciones colectivas; comunicarse con internos de otros períodos de tratamiento o grupos, o sometidos a aislamiento temporal; mantener comunicación en idiomas, términos o signos que resulten ininteligibles para el personal; enajenar los efectos habidos como recompensa por su comportamiento; abandonar su puesto sin autorización; y en lo general, todos los actos contrarios a las buenas costumbres y los que les fuesen prohibidos por el Departamento de Prevención y Readaptación Social o la dirección del establecimiento.
+Se prohibe a los internos tener armas u objetos que por sus características puedan utilizarse para lesionar, excepto las herramientas de trabajo autorizadas; guardar dinero u objetos de valor salvo los que se acepten reglamentariamente; efectuar reclamaciones colectivas o motines; comunicarse con internos de otros períodos de tratamiento o grupos sometidos a aislamiento temporal o mantener comunicación en idiomas, términos o signos que resulten ininteligibles para el personal con la finalidad de atentar contra la seguridad del centro o de la demás población penitenciaria; enajenar los efectos habidos como recompensa por su comportamiento; abandonar su puesto sin autorización; y en lo general, realizar actos contrarios al régimen de disciplina y aquellos prohibidos por las disposiciones aplicables.
 
 ###### ARTICULO 96.
 
@@ -641,9 +699,11 @@ Desde el momento de su entrada a la institución, se entregará a cada interno u
 
 Los actos u omisiones que puedan ser constitutivos de falta, se comunicarán inmediatamente al director del establecimiento, sin perjuicio de que, en casos de notoria urgencia, el personal adoptará por sí las medidas que racionalmente estime necesarias para garantizar el orden y la seguridad de los internos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 99.
 
-El director que reciba queja del probable ofendido de los actos a que se refiere el artículo inmediato anterior, comprobará la falta y previa audiencia del presunto autor de la misma, resolverá dentro de las veinticuatro horas siguientes lo que proceda, pudiendo aplicar alguna o algunas de las medidas disciplinarias que se mencionan a continuación:
+El Director del Centro de que se trate, que reciba queja del probable ofendido de los actos a que se refiere el artículo inmediato anterior, comprobará la falta y previa audiencia del presunto autor de la misma, resolverá dentro de las veinticuatro horas siguientes lo que proceda, pudiendo aplicar alguna o algunas de las medidas disciplinarias que se mencionan a continuación:
 
 I.- Amonestación;
 
@@ -651,15 +711,19 @@ II.- Apercibimiento de retención;
 
 III.- Privación temporal, por un máximo que no exceda de un mes, de tener comunicaciones y recibir visitas;
 
-IV.- Pérdida de los privilegios hasta entonces obtenidos;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2000)</small>
 
-V.- Internación en celda, propia o de aislamiento, de acuerdo con la gravedad de la falta, por un periodo que no exceda de quince días, oyendo siempre la opinión de un médico, a efecto de que no se ponga en peligro su salud; y,
+IV.- Pérdida de los privilegios legales hasta entonces obtenidos;
+
+V.- Internación en celda, propia o de aislamiento, de acuerdo con la gravedad de la falta, por un período que no exceda de quince días, oyendo siempre la opinión de un médico, a efecto de que no se ponga en peligro su salud; y,
 
 VI.- Descenso de grado en el tratamiento, oído el parecer del Consejo Técnico de la Institución.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 100.
 
-Dictada la medida disciplinaria, el interno tiene derecho de inconformarse de la misma, recurriéndola ante el Departamento de Prevención y Readaptación Social en un plazo de quince días, posteriores a la fecha de su notificación personal. El Departamento resolverá lo procedente en un plazo no mayor de ocho días.
+Dictada la medida disciplinaria, el interno tiene el derecho de inconformarse de la misma, recurriéndola ante la Dirección de Prevención y Readaptación Social, en un plazo de quince días hábiles, posteriores a la fecha de su notificación personal. La Dirección resolverá lo procedente en un plazo no mayor de ocho días hábiles.
 
 ###### ARTICULO 101.
 
@@ -715,47 +779,61 @@ I.- Cuando haya sido resuelta por la autoridad judicial en la sentencia, en los 
 
 II.- Cuando el sentenciado sufra trastorno mental.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 112.
 
-Los sentenciados que se encuentren en el caso de la fracción I de la disposición inmediata anterior, quedarán durante el término de tres años, contados a partir de la fecha en que la sentencia cause ejecutoria, sujetos a la vigilancia del Departamento de Prevención y Readaptación Social, el cual podrá delegarla en la autoridad municipal del lugar en que residieren.
+Los sentenciados que se encuentran en el caso de la fracción I de la disposición inmediata anterior, quedarán durante el término de tres años, contados a partir de la fecha en que la sentencia cause ejecutoria, sujetos a la vigilancia de la Dirección de Prevención y Readaptación Social, la cual podrá delegarla en la autoridad municipal del lugar en que residan.
 
 ###### ARTICULO 113.
 
 La enajenación mental suspende únicamente los actos restrictivos de la libertad, porque el sentenciado continuará, para los efectos del cómputo de la pena, con el carácter de interno en la institución médica a que hubiese sido enviado para su tratamiento.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 114.
 
-El Departamento de Prevención y Readaptación Social proveerá lo necesario para que el sentenciado que cayere en estado de enajenación mental, sea trasladado a una institución psiquiátrica y provisto de tutor, en los términos preceptuados por la legislación civil.
+La Dirección de Prevención y Readaptación Social proveerá lo necesario para que el sentenciado que se encuentre en estado de enajenación mental, sea trasladado a una institución psiquiátrica y provisto de tutor, en los términos de las disposiciones aplicables.
 
-## TITULO TERCERO. OTRAS INSTITUCIONES PENOLOGICAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 2000)</small>
+
+## TITULO TERCERO. OTRAS INSTITUCIONES CRIMINALISTICAS
 
 ### CAPITULO I. DE LA LIBERTAD CONDICIONAL
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 115.
 
-La libertad condicional se concederá o se negará por el Departamento de Prevención y Readaptación Social, conforme a las normas instituídas en el articulado correspondiente del Código Penal del Estado, siempre que el interno se encuentre readaptado y haya compurgado las tres quintas partes o la mitad de la sanción que le fue impuesta, según haya sido su delito, intencional o culposo.
+La libertad condicional se concederá o se negará por la Dirección de Prevención y Readaptación Social, de conformidad con el Código Penal del Estado, siempre que el interno se encuentre readaptado y haya compurgado como mínimo las tres quintas partes o la mitad de la sanción que le fue impuesta, según haya sido su delito, intencional o culposo.
 
 ###### ARTICULO 116.
 
 Al cumplirse los plazos a que se refiere el artículo inmediato anterior respecto de un sentenciado, el director del establecimiento notificará a éste el derecho a solicitar su libertad condicional, informándole el procedimiento a seguir para obtenerlo.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 117.
 
-Recibida la solicitud, verbal o escrita, en el Departamento de Prevención y Readaptación Social, éste recabará informes del director del establecimiento en el que el solicitante se encuentra extinguiendo la sanción, relativo a su conducta, trabajo prestado, tiempo de ésta, actividades educativas en que haya participado, si se alfabetizó y las demás circunstancias que estime necesarias para conocer la readaptación del interno.
+Recibida la solicitud, verbal o escrita, en la Dirección de Prevención y Readaptación Social, se recabarán los informes del Director del establecimiento correspondiente, relativos a su conducta, trabajo realizado, actividades educativas en que haya participado en su caso, proceso de alfabetización, y las demás circunstancias que estime necesarias para conocer el grado de readaptación alcanzado por el interno.
 
 ###### ARTICULO 118.
 
 Entre la solicitud de la libertad condicional y la resolución que se dé respecto de ella, no podrá transcurrir un término de más de treinta días.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 119.
 
-El Departamento de Prevención y Readaptación Social al conceder la libertad condicional, fijará al agraciado las modalidades de conducta que estime procedentes y el lugar en que deberá residir, del cual sólo podrá ausentarse con autorización.
+La Dirección de Prevención y Readaptación Social al conceder la libertad condicional, fijará al beneficiado las modalidades de conducta que estime procedentes y el lugar en que deberá residir, del cual sólo podrá ausentarse con su autorización.
 
 ###### ARTICULO 120.
 
 Los fiadores deberán ser siempre personas físicas para que se cumpla la vigilancia de la conducta del liberado y puedan rendir los informes mensuales.
 
-El otorgamiento de la fianza se regirá en lo pertinente, por lo dispuesto en el Código Procesal Penal del Estado, respecto de las garantías para disfrutar de la libertad provisional bajo caución.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
+El otorgamiento de la fianza se regirá en lo pertinente, por lo dispuesto en el Código de Procedimientos Penales del Estado, respecto de las garantías para disfrutar de la libertad provisional bajo caución.
 
 ###### ARTICULO 121.
 
@@ -765,7 +843,9 @@ I.- Cuando el liberado sea objeto de un nuevo proceso en el que se le pronuncie 
 
 II.- Cuando por causas que le sean imputables no cumpla dentro del plazo que se le haya fijado, con el requisito de adoptar una actividad lícita, si no tuviese medios propios de subsistencia;
 
-III.- Cuando se ausente del lugar que le fue fijado como residencia, sin permiso del Departamento de Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2000)</small>
+
+III.- Cuando se ausente del lugar que le fue fijado como residencia, sin permiso de la Dirección de Prevención y Readaptación Social;
 
 IV.- Si se observa que guarda mala conducta familiar o social que no sea delictiva, durante el tiempo en que disfrute de la libertad condicional;
 
@@ -781,9 +861,13 @@ La revocación implica que se hagan efectivas las correspondientes fianzas, salv
 
 ### CAPITULO II. DE LA RETENCION
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 123.
 
-La retención se aplicará por el Departamento de Prevención y Readaptación Social a los liberados que fueron sentenciados a sanción privativa de libertad que exceda a dos años de prisión, aún cuando no haya sido declarado expresamente en la sentencia, en los casos y circunstancias a que se refiere el articulado correspondiente del Código Penal del Estado. En la retención se aplicarán al liberado hasta las tres quintas partes a la mitad de la sanción impuesta, según haya sido su delito intencional o culposo.
+La retención se aplicará por la Dirección de Prevención y Readaptación Social a los liberados que fueron sentenciados a sanción privativa de libertad que exceda a dos años de prisión, aún cuando no haya sido declarado expresamente en la sentencia, de conformidad con el Código Penal del Estado.
+
+La retención se aplicará al liberado hasta las tres quintas partes a la mitad de la sanción impuesta, según haya sido su delito intencional o culposo.
 
 ###### ARTICULO 124.
 
@@ -795,21 +879,29 @@ II.- A aquéllos que delincan de nuevo durante el lapso de la suspensión de la 
 
 III.- A los internos que a juicio del Consejo Técnico resulten peligrosos para su reincorporación a la sociedad.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 125.
 
-Previa autorización de la Primera Secretaría de Gobierno, el Departamento de Prevención y Readaptación Social, podrá aplicar la retención, cuando habiéndose destinado a un interno por su infima peligrosidad a la distinción de un establecimiento abierto, se evada.
+Previa autorización del Secretario de Gobierno, el Director de Prevención y Readaptación Social, podrá aplicar la retención al interno que intente evadirse de un establecimiento abierto, en el que haya sido ubicado por su baja peligrosidad.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 126.
 
-Los directores de los establecimientos penitenciarios están obligados a comunicar de inmediato, al Departamento de Prevención y Readaptación Social, cualquier circunstancia que pueda dar motivo a que se aplique la retención.
+Los directores de los establecimientos penitenciarios, deberán comunicar de inmediato al Director de Prevención y Readaptación Social cualquier circunstancia que pueda dar motivo a que se aplique la retención.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 127.
 
-Una vez que el Departamento de Prevención y Readaptación Social tenga noticia de los hechos a que se refiere el artículo inmediato anterior, procederá a practicar la investigación correspondiente a fin de resolver la procedencia de la retención y la duración de la misma, escuchando en todo caso al presunto afectado.
+Una vez que el Director de Prevención y Readaptación Social tenga conocimiento de los hechos a que se refiere el artículo inmediato anterior, procederá a practicar la investigación correspondiente, a fin de resolver la procedencia de la retención y la duración de la misma, escuchando en todo momento al presunto afectado.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 128.
 
-Siempre que se proceda a hacer efectiva la retención, se aplicará por el tiempo señalado en el artículo 123 de esta Ley sin que se rebase el límite de 30 años que señala la Constitución del Estado; pero el Departamento de Prevención y Readaptación Social podrá hacerla cesar en cualquier tiempo, siempre que las investigaciones y estudios practicados demuestren positivamente que ya se obtuvo la readaptación social del interno, para que éste recupere su libertad, salvo el caso de excepción señalado en la fracción III del artículo 124 de esta ley, por ser peligroso y no ser factible su vida en sociedad.
+Siempre que se proceda a hacer efectiva la retención, se aplicará por el tiempo señalado en el artículo 123 de esta Ley, sin que se rebase el límite de 40 años que señala la Constitución del Estado. El Director de Prevención y Readaptación Social, podrá hacerla cesar en cualquier tiempo, siempre que las investigaciones y estudios practicados demuestren positivamente que ya se obtuvo la readaptación del interno, salvo el caso de excepción señalado en la fracción III del artículo 124 de esta Ley.
 
 ### CAPITULO III. CONMUTACION Y REDUCCION DE SANCIONES
 
@@ -817,13 +909,17 @@ Siempre que se proceda a hacer efectiva la retención, se aplicará por el tiemp
 
 La conmutación y reducción de sanciones procederá en los casos establecidos en el Código Penal del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 130.
 
-La conmutación y reducción de sanciones podrá acordarse discrecionalmente de oficio, por el Jefe del Departamento de Prevención y Readaptación Social, cuando en la sentencia no se haya decretado expresamente.
+La conmutación y reducción de sanciones podrá acordarse de oficio, por el Director de Prevención y Readaptación Social, cuando en la sentencia no se haya decretado expresamente.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 131.
 
-Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, el Departamento de Prevención y Readaptación Social acordará de oficio la modificación de aquélla, siempre que ésta no sea esencial.
+Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las circunstancias de la sanción que le fue impuesta, por ser incompatible a su edad, sexo, salud o constitución física, el Director de Prevención y Readaptación Social, acordará de oficio la modificación de aquella, siempre que no sea esencial para su readaptación.
 
 ### CAPITULO IV. DE LA REMISION PARCIAL DE LA SANCION
 
@@ -831,19 +927,25 @@ Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las cir
 
 Para facilitar la regeneración del sentenciado sobre la base de su trabajo y educación, por cada dos días que labore se hará remisión de uno de prisión, siempre que el interno observe buena conducta, participe regularmente en las actividades de trabajo y educativas que se organicen en el establecimiento, y revele a través de éstos y otros datos, una efectiva readaptación social. Esta última será el factor determinante para conceder o negar la remisión parcial de la sanción, la cual en ningún caso podrá fundarse exclusivamente en los trabajos realizados por el interno, ni en su participación en actividades educativas y en su buena conducta, sino que siempre será necesario el dato de su efectiva readaptación social como resultado de los otros requisitos mencionados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 133.
 
-El cómputo del abono de tiempo funcionará desde el día en que el Departamento de Prevención y Readaptación Social, por determinación del Consejo Técnico que corresponda, resuelva favorablemente la comisión del interno, suspendiéndose si se revoca; pero si por causas posteriores se vuelve a conceder el beneficio, se harán los abonos pertinentes.
+El cómputo del abono de tiempo funcionará desde el día en que la Dirección de Prevención y Readaptación Social, previa consulta al Consejo Técnico que corresponda, resuelva favorablemente la comisión del interno, suspendiéndose si se revoca; pero si por causas posteriores se vuelve a conceder el beneficio, se harán los abonos pertinentes.
 
 La remisión parcial de la pena funcionará independientemente y sin perjuicio del derecho del interno a la libertad condicional.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 134.
 
-Anualmente se hará un informe general relativo a la remisión de sanciones en relación a los internos que hayan sido comisionados para recibir ese beneficio, lo cual se hará en el curso del mes de enero de cada año. La resolución que corresponda será dictada por el Departamento de Prevención y Readaptación Social, dentro de los treinta días siguientes a la fecha del informe, misma que se comunicará al interesado en un término que no exceda de diez días, anotándose todos estos datos en el expediente respectivo.
+Anualmente, se hará un informe general relativo a la remisión de sanciones en relación a los internos que hayan sido comisionados para recibir ese beneficio, lo cual se hará en el curso del mes de Enero de cada año.
+
+La resolución que corresponda será dictada por la Dirección de Prevención y Readaptación Social, dentro de los treinta días siguientes a la fecha del informe, misma que se comunicará al interesado en un término que no exceda de diez días, anotándose todos estos datos en el expediente respectivo.
 
 ###### ARTICULO 135.
 
-Como otro medio de regeneración para el sentenciado, se le abonará un 10% sobre el monto de la sanción a la que hubiese sido sentenciado, si realiza una labor de alfabetización durante el periodo de su detención.
+Como otro medio de regeneración para el sentenciado, se le abonará un 10% sobre el monto de la sanción a la que hubiese sido sentenciado, si realiza una labor de alfabetización durante el período de su detención.
 
 ### CAPITULO V. DE LA LIBERACION DEFINITIVA
 
@@ -859,39 +961,57 @@ III.- Por razón de indulto o amnistía; y,
 
 IV.- Por reconocimiento de la inocencia del sentenciado.
 
-El cómputo de la sanción privativa de libertad, impuesta al sentenciado ejecutoriamente, se hará en los términos del Código Procesal Penal del Estado. Cuando a un sentenciado le hayan impuesto dos o más sanciones privativas de su libertad, en procesos diversos, el cómputo del tiempo en que debe cumplirse la sanción, se hará en forma sucesiva y no simultánea.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
+El cómputo de la sanción privativa de libertad, impuesta al sentenciado ejecutoriamente, se hará en los términos del Código de Procedimientos Penales del Estado. Cuando a un sentenciado le hayan impuesto dos o más sanciones privativas de su libertad, en procesos diversos, el cómputo del tiempo en que debe cumplirse la sanción, se hará en forma sucesiva y no simultánea.
 
 ###### ARTICULO 137.
 
 Todo liberado, ya sea definitiva o condicionalmente, será provisto de la ropa necesaria y recibirá el saldo que tuviere a su favor por concepto del fondo de ahorros. También se le entregarán los objetos que hubiese dejado en guarda al entrar al centro en calidad de detenido de acuerdo con el inventario levantado, la documentación que acredite su aptitud para el trabajo, el grado de educación adquirido y la constancia de libertad, comunicándose al Patronato de Liberados su condición de libre para los fines legales consiguientes.
 
-Si los ahorros mencionados no alcanzaren la suma de cien pesos, el director del establecimiento entregará al liberado, por cuenta del Estado, la cantidad que falte para completar ese monto. En caso de pobreza manifiesta, se le facilitará un pasaje por el medio de transporte más barato para trasladarse al lugar en que se haya fijado su residencia, o hasta los limites del estado si decide ausentarse del mismo.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
+Sí los ahorros mencionados no alcanzaren el equivalente a 30 días de salario mínimo vigente en el Estado, el Director del establecimiento entregará al liberado, por cuenta del Estado, la cantidad que falte para completarlo. En caso de pobreza manifiesta, se le facilitará un pasaje por el medio de transporte más barato para trasladarse al lugar en que se haya fijado su residencia, o hasta los límites del Estado si decide ausentarse del mismo.
 
 ## TITULO CUARTO. DE LA EJECUCION DE LAS SANCIONES RESTRICTIVAS DE LA LIBERTAD
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 138.
 
-Los sentenciados por los tribunales a confinamiento, residirán en el lugar señalado por el Departamento de Prevención y Readaptación Social, quien ejercerá su vigilancia, la cual podrá delegar en la autoridad municipal que corresponda.
+Los sentenciados a confinamiento, residirán en el lugar señalado por la Dirección de Prevención y Readaptación Social, quien ejercerá su vigilancia, la cual podrá delegar en la autoridad municipal que corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 139.
 
-El Departamento de Prevención y Readaptación Social cuidará de que el confinado obtenga trabajo en el lugar del confinamiento y, en caso de que no lo obtuviere por causas no imputables al mismo, se le auxiliará con ese fin, por conducto del Patronato de Liberados.
+La Dirección de Prevención y Readaptación Social cuidará de que el confinado obtenga trabajo en el lugar del confinamiento y, en caso de que no lo obtuviere por causas no imputables al mismo, se le auxiliará con ese fin, por conducto del Patronato de Liberados.
 
 La autoridad municipal del lugar en donde debe residir el confinado, podrá emplear a éste pagándole la misma remuneración que el obrero libre, en las obras y servicios públicos.
 
-Los sentenciados a quienes se prohiba ir a residir en un lugar determinado serán vigilados por el Departamento de Prevención y Readaptación Social, quien avisará a la autoridad municipal del lugar prohibido; expulsará de él al liberado que la quebrante y comunicará al Departamento de Prevención y Readaptación Social, tanto el quebrantamiento como la medida adoptada.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
+Los sentenciados a quienes se prohiba ir a residir en un lugar determinado, serán vigilados por la Dirección de Prevención y Readaptación Social, quien avisará de esa circunstancia para los efectos procedentes a la autoridad municipal del lugar.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 140.
 
-La autoridad municipal del lugar prohibido expulsará de él, al liberado que la quebrante y comunicará al Departamento de Prevención y Readaptación Social, tanto el quebrantamiento como la medida adoptada.
+La autoridad municipal del lugar expuIsará de él, al liberado que no cumpla con lo señalado en el artículo anterior, asimismo comunicará a la Dirección de Prevención y Readaptación Social estos hechos y la medida adoptada.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 141.
 
-Los sentenciados a la vigilancia de la autoridad, quedarán sujetos al control del Departamento de Prevención y Readaptación Social, el cual podrá, como en los casos anteriores, delegarlo en la autoridad municipal del lugar de residencia de aquéllos.
+Los sentenciados a la vigilancia de la autoridad, quedarán sujetos al control de la Dirección de Prevención y Readaptación Social, la cual podrá, como en los casos anteriores, delegarlo en la autoridad municipal del lugar de residencia de aquéllos.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 142.
 
-Los sentenciados a la vigilancia de la autoridad podrán transitar libremente por el territorio del Estado, pero no podrán salir de él sin autorización del Departamento de Prevención y Readaptación Social, y deberán suministrar dentro de los términos y condiciones que se les fije, los informes sobre su conducta. Las autoridades encargadas de esa vigilancia, cuidarán de aconsejar al liberado sobre su buen comportamiento, proporcionándole trabajo si careciere de él.
+Los sentenciados a la vigilancia de la autoridad podrán transitar libremente por el territorio del Estado, pero no podrán salir de él sin autorización de la Dirección de Prevención y Readaptación Social; así como deberán suministrar dentro de los términos y condiciones que se les fije, los informes sobre su conducta.
+
+Las autoridades encargadas de esa vigilancia, cuidarán de aconsejar al liberado sobre su buen comportamiento proporcionándole trabajo si careciere de él.
 
 ## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
@@ -909,9 +1029,11 @@ III.- Los liberados en forma definitiva o condicional; y,
 
 IV.- Los dependientes económicos de los internos y liberados previstos en las fracciones I y ll de este artículo.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 144.
 
-La asistencia social a los internos será dirigida por el Departamento Social de cada establecimiento y la que se preste a los liberados estará a cargo de la Asistencia Pública del Estado, si la hubiere, a través del Departamento de Prevención y Readaptación Social.
+La asistencia social a los internos será dirigida por la dirección social de cada establecimiento y la que se preste a los liberados estará a cargo de la asistencia pública del Estado, si la hubiere; o a través de la Dirección de Prevención y Readaptación Social.
 
 ###### ARTICULO 145.
 
@@ -923,9 +1045,13 @@ Los diferentes beneficios que se otorguen a los internos y liberados previstos e
 
 ### CAPITULO II. PATRONATO DE LIBERADOS
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 147.
 
-Se creará en el Estado un Patronato de Liberados, que tendrá la misión de facilitar la readaptación social de éstos, mismo que funcionará conforme a lo que disponga el reglamento correspondiente, el que será formulado por el Departamento de Prevención y Readaptación Social.
+El Gobernador del Estado, por conducto del Director de Prevención y Readaptación Social, promoverá la organización y funcionamiento de un Patronato de Liberados, que tendrá como objeto facilitar su reintegración al medio social.
+
+El Patronato funcionará conforme a las disposiciones que emita la Dirección de Prevención y Readaptación Social.
 
 ###### ARTICULO 148.
 
@@ -968,3 +1094,13 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Mich., a 10 de noviembre del "Año de J
 Por tanto mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich., a 11 de noviembre de 1972.- EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO, Lic. José Servando Chávez Hernández.- EL PRIMER SECRETARIO DE GOBIERNO, Lic. Efrén Contreras Vallejo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE AGOSTO DE 2000.
+
+PRIMERO.- El presente Decreto iniciará su vigencia a partir de los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En tanto se integra el cuerpo de delegados de libertad vigilada a que se refiere el artículo 11 de esta Ley, la función de vigilancia que le corresponde, podrá ser delegada a las autoridades municipales, observando las formalidades legales procedentes.
