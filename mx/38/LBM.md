@@ -4,7 +4,7 @@ identifier: "LBM"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "1995-11-17"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LBM"
 
 LEY DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
@@ -340,7 +340,9 @@ La Junta de Gobierno estará integrada por cinco miembros, designados conforme a
 
 La designación de miembro de la Junta de Gobierno deberá recaer en persona que reúna los requisitos siguientes:
 
-I. Ser ciudadano mexicano y no tener más de sesenta y cinco años cumplidos en la fecha de inicio del periodo durante el cual desempeñará su cargo;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos y no tener más de sesenta y cinco años cumplidos en la fecha de inicio del periodo durante el cual desempeñará su cargo.
 
 II. Gozar de reconocida competencia en materia monetaria, así como haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera.
 
@@ -735,3 +737,7 @@ SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores d
 OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.
 
 NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
