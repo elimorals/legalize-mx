@@ -4,7 +4,7 @@ identifier: "CAM-ley-ganadera-apicola-y-avicola-del-estado-de-campeche-3551"
 country: "mx"
 rank: "ley"
 publication_date: "1982-05-24"
-last_updated: "1997-09-12"
+last_updated: "2002-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY GANADERA, APICOLA Y AVICOLA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR LOS ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DE LA LEY GANADERA DEL ESTADO DE CAMPECHE SE ABROGA LA PRESENTE LEY, Y EN TANTO NO SE EXPIDA UNA NUEVA LEY EN MATERIAS APICOLA Y AVICOLA, CONTINUARAN APLICANDOSE EN ESAS MATERIAS, EN LO QUE NO SE OPONGAN A DICHO ORDENAMIENTO, LAS DISPOSICIONES RELATIVAS DE LA LEY QUE SE ABROGA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2002.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 24 de mayo de 1982.
 
@@ -1221,6 +1219,10 @@ VI.- En general, las personas físicas y morales y todos los elementos de que se
 
 Las granjas avícolas se caracterizan por su disposición de predios, instalaciones y servicios que requieran la crianza y explotación avícola, incluyendo o no la producción de alimentos para las aves y la preparación, conservación, industrialización y comercio de sus productos, sin perjuicio de que existan tierras para cultivo o explotaciones diversificadas no avícolas que ayuden a integrar la empresa agropecuaria.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2002)</small>
+
+Para la ubicación de granjas de aves progenitoras, reproductoras, de engorda, de postura comercial y aves libres de patógenos específicos deberá existir una distancia de 10, kilómetros, entre estas granjas y cualquier otro tipo de explotación avícola, porcícola o ganadera, incluyendo rastros y plantas procesadoras de alimentos u otros subproductos. Esta distancia también se observará para el establecimiento de nuevos asentamientos humanos que exploten aves de traspatio.
+
 ###### ARTICULO 184.
 
 Las plantas avícolas se caracterizarán por disponer de la extensión de tierra necesaria a sus actividades, sea que en ellas se reproduzcan las aves que exploten, produzcan los alimentos para éstas u obtengan materiales y materias primas para otras necesidades de la explotación, o que los obtengan fuera de la empresa.
@@ -1744,3 +1746,9 @@ PRIMERO.- LA PRESENTE LEY ENTRARÁ EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN
 SEGUNDO.- SE ABROGA LA LEY GANADERA, APÍCOLA Y AVÍCOLA DEL ESTADO DE CAMPECHE, EXPEDIDA BAJO DECRETO NÚMERO 125, DE FECHA 21 DE MAYO DE 1982, POR LA "L" LEGISLATURA DE ESTE CONGRESO DEL ESTADO.
 
 TERCERO.- EN TANTO NO SE EXPIDA UNA NUEVA LEY EN MATERIAS APÍCOLA Y AVÍCOLA, CONTINUARAN APLICÁNDOSE EN ESAS MATERIAS, EN LO QUE NO SE OPONGAN A ESTA LEY, LAS DISPOSICIONES RELATIVAS DE LA LEY QUE SE ABROGA.
+
+P.O. 31 DE MAYO DE 2002.
+
+Primero- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
