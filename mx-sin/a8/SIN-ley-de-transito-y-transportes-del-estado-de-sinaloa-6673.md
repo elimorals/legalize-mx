@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2001-12-14"
+last_updated: "2002-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -319,9 +319,11 @@ Las placas de demostración se proporcionarán exclusivamente a las personas que
 
 Las personas a quienes se expidan placas de demostración son responsables del uso que se les dé y sólo pueden utilizarlas para demostrar a la clientela el funcionamiento de los vehículos en las vías públicas.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 41.
 
-Las placas y tarjetas de circulación serán permanentes como identificación del vehículo y se revalidarán anualmente. En caso de traslación de la propiedad por cualquier medio previsto en la legislación, el interesado deberá tramitar el cambio de propietario en un plazo no mayor de quince días posteriores a la fecha de traslación.
+Las placas y tarjetas de circulación servirán como identificación del vehículo. Las placas tendrán una vigencia de tres años y las tarjetas de circulación se revalidarán anualmente. En caso de traslación de la propiedad por cualquier medio previsto en la legislación, el interesado deberá tramitar el cambio de propietario en un plazo no mayor de quince días posteriores a la fecha de traslación.
 
 ###### ARTICULO 42.
 
@@ -1737,7 +1739,7 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 
 P.O. 13 DE AGOSTO DE 1997.
 
-DECRETO No. 339, QUE REFORMA EL ARTÍCULO 245.
+DECRETO No. 339, QUE REFORMA EL ARTICULO 245.
 
 ###### ARTICULO PRIMERO.
 
@@ -1782,3 +1784,7 @@ P.O. 14 DE DICIEMBRE DE 2001.
 Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Los requisitos establecidos para los conductores de vehículos del servicio público de transporte colectivo urbano, en unidades con capacidad mayor de once pasajeros, no serán aplicables con efectos retroactivo para aquellos conductores de este servicio que, a la fecha de entrar en vigor el presente Decreto, cuenten con su licencia de chofer y certificado de aptitud.
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
