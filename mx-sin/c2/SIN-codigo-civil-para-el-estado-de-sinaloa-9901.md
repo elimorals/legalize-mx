@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2004-03-22"
+last_updated: "2004-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -229,13 +229,15 @@ Del Registro Civil.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 35.
 
-En el Estado el Registro Civil estará constituído por la Dirección del Registro Civil, y las Oficialías que determine el reglamento respectivo.
+El Registro Civil es una institución de orden público y de interés social por medio de la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos, modificativos o extintivos del Estado Civil de las personas.
 
-La titularidad de las Oficialías del Registro Civil estará a cargo de los funcionarios estatales denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
+En el Estado de Sinaloa, la prestación del servicio del Registro Civil, así como la dirección y control del mismo, estará a cargo del Ejecutivo Estatal, a través de la Secretaría General de Gobierno, misma que para cumplir con esta atribución contará con una Dirección del Registro Civil, los Departamentos y las Oficialías del Registro Civil que acuerde el Ejecutivo Estatal, quienes ejercerán las atribuciones que este Código, las leyes y los reglamentos les concedan y tendrán fe pública en el desempeño de las labores propias de su cargo.
+
+Las Oficialías del Registro Civil estarán a cargo de servidores públicos denominados Oficiales del Registro Civil.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -243,13 +245,15 @@ La titularidad de las Oficialías del Registro Civil estará a cargo de los func
 
 En el asentamiento de las actas del Registro Civil intervendrán el Oficial del Registro Civil que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán firmarlas en el espacio correspondiente, al igual que las demás personas que se indiquen en las mismas.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 37.
 
-Las actas del Registro Civil se asentarán en formas especiales cuyo formato se establecerá en el Reglamento. Las inscripciones se harán mecanográficamente por cuadruplicado. La infracción de esta disposición producirá la nulidad del acta.
+Las actas del Registro Civil se asentarán en formatos especiales, los cuales serán los siguientes: Nacimiento, reconocimiento de hijos, adopción simple, matrimonio, divorcio, defunción, inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción del muerte, la tutela y la pérdida o la limitación de la capacidad legal para administra bienes. Las inscripciones se harán en forma computarizada o mecanográfica por quintuplicado, excepto en caso de defunción que se hará por sextuplicado.
 
-Para asentar las actas del Registro Civil habrá las siguientes formas: Nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes.
+La infracción de esta disposición producirá la nulidad del acta y la destitución del servidor público responsable, sin perjuicio de las penas que la ley señale y de la indemnización de daños y perjuicios.
+
+Los formatos se encuadernarán en volúmenes hasta de trescientas actas correspondientes al año de que se trate. La inscripción computarizada se regirá por el procedimiento de guarda y distribución del respaldo informático que establezca el Reglamento respectivo.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
 
@@ -267,13 +271,19 @@ El estado civil de las personas sólo se comprueba por las constancias relativas
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer que se encontraba la inscripción, se podrá probarse el acto en la forma que establezca el Código de Procedimientos Civiles, para la inscripción del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 41.
 
-Las formas del Registro Civil serán distribuídas por el Director del Registro Civil, se renovarán cada año, y los Oficiales del Registro Civil, remitirán un ejemplar de ellas al archivo estatal del Registro Civil, y a la Dirección General del Registro Nacional de Población, de la Secretaría de Gobernación, un ejemplar al interesado y el otro quedará en el archivo de la Oficialía.
+Los formatos del Registro Civil serán distribuido por la Dirección del Registro Civil, el original se conservará encuadernado en un volumen en la Oficialía y se entregarán las copias de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+a) Una al interesado;
+
+b) Una al Instituto Nacional de Estadística, Geografía e Informática;
+
+c) Dos a la Dirección del Registro Civil, para que una se conserve encuadernada en un volumen en su Archivo Central y la otra se remita a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación; y
+
+d) En caso de defunciones, se remitirá una copia al Instituto Federal Electoral.
 
 Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituido por todos los documentos relacionados con el acto que se asienta. Los documentos del apéndice estarán anotados y relacionados con el acta respectiva, al igual que las actas lo estarán con éstos.
 
@@ -317,21 +327,27 @@ IX.- Al final de cada acta se salvará lo entrerrenglonado y testado;
 
 X.- Los puntos dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta y el sello del Registro, y se reunirán y depositarán en el archivo correspondiente, formándose un índice de ellos en las últimas hojas de los libros correspondientes.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+
 ###### Artículo 46.
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad y de la indemnización de daños y perjuicios.
+La variación de los datos contenidos en las actas o en las certificaciones de las mismas, así como su falsificación y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del servidor público responsable, sin perjuicio de las penas que la ley señale para el delito de falsedad y de la indemnización de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 47.
 
-Toda persona puede solicitar copia certificada de las actas del Registro Civil y de los documentos del apéndice y los Oficiales, el Jefe del Departamento y el Jefe del Archivo del Registro Civil estarán obligados a expedirlas.
+Toda persona puede solicitar y obtener copia certificada de las actas, asientos, documentos y apuntes relacionados con ellas, existentes en los libros índices y apéndices correspondientes. El Director, el Jefe del Departamento de Archivo y los Oficiales del Registro Civil están obligados a expedirlas. Las copias certificadas de las actas podrán expedirse en forma total o parcial.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 48.
 
-La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente.
+La certificación podrá autentificarse por firma autógrafa o electrónica del servidor público facultado para ello conforme a este Código. Las copias certificadas así expedidas tendrán el mismo valor jurídico probatorio.
+
+Por firma electrónica se entenderá la firma que se utilice como forma de autentificar por medios electrónicos la autorización del servidor público competente, y con la cual el firmante aprueba la información contenida en el acta, según el sistema que implemente la Dirección, la que deberá utilizar mecanismos confiables para evitar la falsificación de documentos.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -345,21 +361,23 @@ Las actas del Registro Civil extendidas conforme a las disposiciones que precede
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 51.
 
-Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código de Procedimientos Civiles del Estado en cuanto a su legalización, debiendo inscribirse en la Oficialía de la adscripción de su domicilio.
+Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código de Procedimientos Civiles del Estado en cuanto a su legalización y, en su caso, traducidas si se trata de idioma distinto al español, debiendo transcribirse en la Oficialía de la adscripción de su domicilio.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 52.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas la primera autoridad política municipal respectiva.
+Los Oficiales del Registro Civil serán suplidos en sus ausencias o faltas temporales por el servidor público facultado para ello, en la forma y términos que señale el Reglamento.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 53.
 
-La Dirección del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil ejerciendo las facultades que le señale el Reglamento respectivo.
+La Dirección del Registro Civil velará por el buen funcionamiento de la institución y tendrá las atribuciones y obligaciones que determine este Código, las leyes y el Reglamento.
 
 ### CAPITULO II.
 
@@ -369,23 +387,23 @@ De las Actas de Nacimiento.
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su Oficina o en la casa donde aquel hubiere nacido.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 55.
 
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los ciento ochenta días de ocurrido.
+Tienen obligación de declarar el nacimiento: el padre y la madre o cualquiera de éstos, y a falta de éstos, los abuelos por cualquier línea, dentro de los ciento ochenta días de ocurrido.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 56.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cien a quinientos pesos, que impondrá la Autoridad del lugar donde se haya hecho la declaración extemporánea del nacimiento.
+Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán sancionadas con una multa de tres a quince días de salario mínimo general vigente en el Estado, que impondrá el Oficial del Registro Civil del lugar donde se haya hecho la declaración extemporánea del nacimiento, la cual se hará efectiva en los términos que disponga el Reglamento.
 
-En la misma pena incurrirán las personas que no cumplan con la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 57.
 
-(DEROGADO, P.O. 30 DE NOVIEMBRE DE 1971)
+Para llevar a cabo la inscripción de un nacimiento, el Oficial del Registro Civil exigirá el certificado de nacimiento expedido por el médico o la persona que atienda el parto y al recién nacido y lo cancelará para evitar la duplicidad de registros. El incumplimiento de esta disposición se sancionará con la destitución del servidor público que realice la inscripción, independientemente de las penas en que incurra de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -397,9 +415,13 @@ Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio 
 
 Cuando no se presente copia certificada del acta de matrimonio, sólo se asentará el nombre del padre o de la madre cuando éstos lo soliciten por sí o por apoderado en los términos que establece el artículo 44 de este Código y el nombre de los abuelos por la línea del mismo o de los mismos si concurren los dos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2004)</small>
+
 ###### Artículo 59.
 
-(DEROGADO, P.O. 4 DE ENERO DE 1982)
+El nombre del registrado está constituido por nombre propio, primer y segundo apellido.
+
+Los apellidos corresponderán por su orden, el primero del padre y el primero de la madre.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -427,11 +449,11 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho a que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
 
 ###### Artículo 65.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuera expuesto alguno, deberá presentarlo al Oficial del Registro Civil, con los vestidos, valores o cualesquiera otros objetos encontrados con él, y declarará el día, mes y año donde lo hubiere hallado, dándose intervención al Ministerio Público.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto, deberá presentarlo al Ministerio Público con los vestidos, valores o cualesquiera otros objetos encontrados con él, y declarará la fecha y lugar donde lo hubiere hallado así como las demás circunstancias que en su caso hayan concurrido. Una vez realizado lo anterior, el Ministerio Público dará aviso de tal situación al Oficial del Registro Civil, para los efectos correspondientes.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -15347,7 +15369,7 @@ Acreedores de Cuarta Clase.
 
 ###### Artículo 2877.
 
-Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+Satisfechos los créditos de que se ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO I.
 
@@ -15974,6 +15996,12 @@ P.O. 23 DE FEBRERO DE 2004.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 22 DE MARZO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE ABRIL DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
