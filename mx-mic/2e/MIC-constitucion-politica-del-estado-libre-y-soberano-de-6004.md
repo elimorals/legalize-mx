@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1997-04-10"
+last_updated: "1998-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 1998.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MARZO DE 1998.]
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -43,25 +45,27 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
 ### CAPITULO I. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 1º.
 
-En el Estado de Michoacán de Ocampo todos los individuos gozarán de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como de los demás derechos que otorga esta Constitución y las leyes que de ambas emanen.
+En el Estado de Michoacán de Ocampo todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos, así como de los demás derechos establecidos en esta Constitución y en las leyes que de ambas emanen.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 2º.
 
-La familia tendrá la protección del Estado. El matrimonio se funda en la igualdad de derechos para ambos sexos, y podrá disolverse por mutuo acuerdo o a petición de cualquiera de los cónyuges cuando medie justa causa que determinarán las leyes.
+La familia tendrá la protección del Estado. El matrimonio se funda en la igualdad de derechos para ambos cónyuges, y podrá disolverse por mutuo acuerdo o a petición de cualquiera de los consortes en los términos que establezcan las leyes.
 
-Los padres están obligados a alimentar, educar e instruir a sus hijos. El Estado velará por el cumplimiento de estos deberes, y dictará normas para asistir la insuficiencia económica de la familia o el abandono de los hijos por los cónyuges.
+Los padres están obligados a alimentar, educar e instruir a sus hijos, fomentando su desarrollo cultural. El Estado velará por el cumplimiento de estos deberes, y dictará normas para el logro de la suficiencia económica de la familia; para evitar el abandono de los acreedores alimentarios, por sus deudores; y, para instituir proteger el patrimonio de familia.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 3º.
 
 Todas las personas tienen derecho a una existencia digna, a la instrucción, a la cultura y al trabajo. El Gobierno promoverá el mejoramiento físico, moral, intelectual y económico del pueblo.
+
+La ley protegerá y promoverá dentro de la estructura jurídica estatal, el desarrollo de las culturas, recursos y formas específicas de organización social de las étnias asentadas en el territorio de la Entidad, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. Dentro del sistema jurídico, en los juicios y procedimientos en que alguno de los miembros de esas étnias sea parte, se tomarán en cuenta sus prácticas y costumbres jurídicas de manera estricta en los términos establecidos por la ley, sin romper el principio de igualdad, sino, por el contrario, procurando la equidad entre las partes.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -649,45 +653,67 @@ En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absolu
 
 XIX A.- Designar a las personas que han de integrar los ayuntamientos, cuando falte alguna de ellas, por cualquier causa.
 
-XX.- (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXI.- Aprobar o desaprobar las propuestas, solicitudes de licencia y renuncias de los magistrados del Supremo Tribunal de Justicia;
+XX.- Designar a las personas que han de integrar los ayuntamientos, cuando falte alguna de ellas, por cualquier causa,
 
-XXII.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXIII.- Designar Gobernador interino del Estado cuando la separación del Titular sea mayor de treinta días;
+XXI.- Elegir o reelegir a los magistrados del Supremo Tribunal de Justicia y, aprobar o desaprobar las solicitudes de licencia y renuncias de los mismos;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXIV.- Formar la Comisión Instructora Especial y erigirse en Gran Jurado, para los efectos señalados en el Artículo 108 de esta Constitución, así como conocer de las acusaciones que se hagan a los servidores públicos que hubieren incurrido en delitos, en los términos del artículo 109 de este mismo ordenamiento.
+XXII.- Privar de su puesto a los magistrados reelectos del Supremo Tribunal de Justicia, de plano y sin substanciación de procedimiento, a la conclusión de los períodos constitucionales, mediante el voto de las dos terceras partes de sus miembros;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXV.- Expedir la Ley Orgánica del Congreso y dictar resoluciones económicas relativas a su régimen interno;
+XXIII. Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXV-A.- Formar la la (sic) comisión instructora, la comisión de revisora y eregirse en gran jurado para los efectos señalados en el Título Cuarto de esta Constitución.
+XXIV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
 
-XXVI.- Comunicarse con el Ejecutivo por medio de comisiones de su seno;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXVII.- Expedir convocatoria a elecciones extraordinarias para cubrir las vacantes de diputados;
+XXV.- Formar la Comisión Instructora Especial y erigirse en Gran Jurado, para los efectos señalados en el artículo 108 de esta Constitución, así como conocer de las acusaciones que se hagan a los servidores públicos que hubieren incurrido en delitos, en los términos del artículo 109 de este mismo ordenamiento.
 
-XXVIII.- Conceder, por el voto de las dos terceras partes de los diputados presentes, amnistías o indultos por delitos que deben conocer o hayan conocido los tribunales del Estado;
+Las resoluciones del Gran Jurado serán definitivas e inatacables;
 
-XXIX.- Establecer el juicio de jurados para los delitos cometidos por medio de la prensa contra el orden público y cuando lo creyere conveniente, respecto a los demás delitos;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXX.- Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por el Ejecutivo del Estado;
+XXVI.- Expedir la Ley Orgánica del Congreso y dictar resoluciones económicas relativas a su régimen interno;
 
-XXXI.- Rehabilitar, con arreglo a la ley, a las personas a quienes se haya impuesto como pena, la pérdida o suspensión de los derechos de ciudadanía, civiles o de familia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXXII.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las facultades anteriormente expresadas, y todas las otras concedidas por esta Constitución a los Poderes del Estado, y
+XXVII.- Comunicarse con el Ejecutivo por medio de comisiones de su seno;
 
-XXXIII.- Las demás que le confiera expresamente esta Constitución.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+XXVIII.- Expedir convocatoria a elecciones extraordinarias para cubrir las vacantes de diputados;
 
-Las resoluciones del Gran Jurado serán definitivas e inatacables.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XXIX.- Conceder, por el voto de las dos terceras partes de los diputados presentes, amnistías o indultos por delitos que deben conocer o hayan conocido los tribunales del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XXX.- Establecer el juicio de jurados para los delitos cometidos por medio de la prensa contra el orden público y cuando lo creyere conveniente, respecto a los demás delitos;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XXXI.- Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por el Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XXXII.- Rehabilitar, con arreglo a la ley, a las personas a quienes se haya impuesto como pena, la pérdida o suspensión de los derechos de ciudadanía, civiles o de familia;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XXXIII.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las facultades anteriormente expresadas, y todas las otras concedidas por esta Constitución a los Poderes del Estado; y,
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XXXIV.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -721,11 +747,19 @@ V.- Ejercer, en su caso, las facultades de que habla el artículo 30;
 
 VI.- Dictaminar sobre todos los asuntos que se ofrezcan durante su período, para que el Congreso los resuelva;
 
-VII.- Ejercer las funciones del Congreso en los casos de las fracciones XXII y XXIII del artículo 44;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+VII.- Ejercer las funciones del Congreso en los casos de las fracciones XXIII y XXIV del artículo 44;
 
 VIII.- Resolver los negocios que tengan el carácter de urgentes y que no exijan la expedición de una ley o decreto, y
 
-IX.- Ejercer las demás facultades que le señala esta Constitución.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+IX.- Recibir del Gobernador del Estado la propuesta para la elección, la reelección o la privación del cargo de magistrado, y resolver lo conducente; y,
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1998)</small>
+
+X.- Ejercer las demás facultades que le señala esta Constitución.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -859,65 +893,89 @@ I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado,
 
 II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
 
-III.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1983)
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1998)</small>
 
-IV.- Someter al Congreso del Estado, las propuestas para la designación de magistrados del Supremo Tribunal de Justicia o a la Diputación Permanente según el caso;
+III.- Comunicar al Pleno del Supremo Tribunal de Justicia del Estado, los nombres de los magistrados numerarios y supernumerarios que deban ser renovados o, en su caso, reelectos o privados de su cargo a la conclusión de su ejercicio constitucional; y del Padrón de Aspirantes a Magistrados que el Pleno le proporcione, inmediatamente después de la anterior comunicación, someter en terna, sin dilación al Congreso del Estado o a la Diputación Permanente, según el caso, la propuesta para la elección o reelección respectiva, debiendo ser tomados de dicho Padrón cuando menos dos de los integrantes de cada terna;
 
-V.- Fomentar el turismo y promover el desarrollo agrícola, industrial y comercial de Michoacán;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-VI.- Iniciar ante el Congreso leyes y decretos que tiendan al mejoramiento de la administración pública;
+IV.- Fomentar el turismo y promover el desarrollo agrícola, industrial y comercial de Michoacán;
 
-VII.- Expedir los reglamentos interiores de las oficinas a su cargo;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-VIII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
+V.- Iniciar ante el Congreso leyes y decretos que tiendan al mejoramiento de la administración pública;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-IX.- Presentar cada año al Congreso, durante los primeros diez días del segundo período ordinario de sesiones, la cuenta de gastos del ejercicio fiscal próximo anterior, y antes de que concluya el año, los proyectos de presupuestos de ingresos y egresos para el año siguiente;
+VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
 
-X.- Dar informes al Congreso de la Diputación Permanente, cuando le fueren pedidos, sobre cualquier ramo de la administración pública.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes
 
-XI.- Dar cuenta al Congreso, como lo dispone el artículo 33 de esta Constitución, sobre el estado que guarde la administración pública, proponiendo los medios para mejorarla;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XII.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión.
+VIII.- Presentar cada año al Congreso, durante los primeros diez días del segundo período ordinario de sesiones, la cuenta de gastos del ejercicio fiscal próximo anterior, y antes de que concluya el año, los proyectos de presupuestos de ingresos y egresos para el año siguiente;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XIII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública y tránsito en el Estado.
+IX.- Dar informes al Congreso y a la Diputación Permanente, cuando le fueren pedidos, sobre cualquier ramo de la administración pública;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+X.- Dar cuenta al Congreso, como lo dispone el artículo 33 de esta Constitución, sobre el estado que guarde la administración pública, proponiendo los medios para mejorarla;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XI.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública y tránsito en el Estado.
 
 La Policía y Tránsito en el capital del Estado dependerá directamente del Gobernador y tendrá como jefe inmediato a un director.
 
-El Gobernador del Estado tendrá mando de las corporaciones de policía y tránsito en los Municipios donde eventual o transitoriamente se encuentre.
+El Gobernador del Estado tendrá mando de las corporaciones de policía y tránsito en los Municipios donde eventual o transitoriamente se encuentre;
 
-XIV.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+XIII.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
 
-XV.- Nombrar y remover libremente a los funcionarios y empleados de la administración pública estatal, cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1990)</small>
+XIV.- Nombrar y remover libremente a los funcionarios y empleados de la administración pública estatal cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes;
 
-XVI.- Aplicar sanciones por las infracciones de los reglamentos gubernativos y de policía, la que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XV.- Aplicar sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
-XVII.- (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XVIII.- Pedir a la Diputación Permanente la reunión extraordinaria del Congreso;
+XVI.- Pedir a la Diputación Permanente la reunión extraordinaria del Congreso;
 
-XIX.- Convocar al Congreso cuando lo determine la Diputación Permanente, en los términos de esta Constitución;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XX.- Visitar los municipios del Estado para imponerse de sus necesidades, y proponer al Congreso los medios para remediarlas;
+XVII.- Convocar al Congreso cuando lo determine la Diputación Permanente, en los términos de esta Constitución;
 
-XXI.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en los términos de la ley;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-XXII.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad, y
+XVIII.- Visitar los municipios del Estado para imponerse de sus necesidades, y proponer al Congreso los medios para remediarlas;
 
-XXIII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XIX.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en los términos de la ley;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XX.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad; y,
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+XXI.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -973,13 +1031,15 @@ IV.- No haber sido condenado por delito no culposo.
 
 Los mismos requisitos serán necesarios para ser Oficial Mayor de Gobierno.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 64.
 
-El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la voz del Gobernador cuando éste lo crea conveniente.
+El Secretario de Gobierno será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la representación del Gobernador cuando éste lo crea conveniente.
 
-El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
+Al Secretario de Gobierno le corresponde representar al Titular del Poder Ejecutivo del Estado, por sí o por medio de representante designado al efecto, en los juicios y procedimientos en que sea parte.
+
+El Gobernador podrá autorizar que comparezcan ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -999,25 +1059,21 @@ Los titulares de las dependencias serán responsables con el Gobernador en todos
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 67.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Municipales y de Tenencia y en los Jurados.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los juzgados de primera instancia, en los municipales, en los de tenencia, y en los jurados.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+El Supremo Tribunal de Justicia contará con una comisión, la que deberá del Pleno y estará integrada por su Presidente, quien la presidirá, por dos magistrados propietarios y por dos jueces de primera instancia, nombrados por el Pleno en votación secreta, debiendo tener estos últimos una antigüedad mínima de cinco años en el ejercicio de su cargo. Esta comisión se renovará cada tres años, y tendrá dentro de sus atribuciones principales, las administrativas, el ejercicio del Presupuesto de Egresos y del Fondo Auxiliar para la Administración de Justicia, así como la implementación integral de la Carrera Judicial, en los términos que establezca la Ley Orgánica de ese Poder.
 
-La independencia de los Magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la Ley Orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado.
+La independencia económica del Poder Judicial la garantizará el Congreso, asignándole u presupuesto anual no menor a sus necesidades en el año que corresponda. La independencia de los magistrados y jueces en el ejercicio de sus funciones estará garantizada por esta Constitución, la Ley Orgánica respectiva y demás ordenamientos jurídicos aplicables, los cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirven al Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+La elección de los magistrados y jueces integrantes del Poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-Los nombramientos de los magistrados y jueces integrantes del poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Los jueces de primera instancia y los que con cualquier otra denominación se creen en el Estado, serán electos por el Supremo Tribunal de Justicia.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
-
-Los jueces de primera instancia y los que con cualquier otra denominación se creen en el Estado, serán nombrados por el Supremo Tribunal de Justicia.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+Se establece la Carrera Judicial, en los términos que señale la ley.
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
@@ -1031,25 +1087,45 @@ La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezca el Supremo Tribunal de Justicia en ejercicio de la facultad a que se refiere este artículo, así como los requisitos para su interrupción y modificación.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 69.
 
-El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer que se ejecute lo juzgado.
+El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer que se ejecute lo juzgado, conforme a las garantías establecidas.
+
+Son auxiliares de los órganos encargados de administrar justicia:
+
+I. La Dirección de Prevención y Readaptación Social;
+
+II. Los consejos tutelares;
+
+III. Los médicos legistas;
+
+IV. Los intérpretes y peritos;
+
+V. Los depositarios y síndicos de concurso;
+
+VI. Los notarios, en las funciones que les encomienda el Código de Procedimientos Civiles;
+
+VII. Los cuerpos policiacos tanto en el Estado como de los municipios; y,
+
+VIII. Los demás a quienes las leyes confieran ese carácter.
+
+Los auxiliares a que se refiere este artículo estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia, y sus superiores tendrán el deber de facilitarles el ejercicio de las mismas.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 #### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
 
 ###### Artículo 70.
 
-El Supremo Tribunal de Justicia estará integrado por un número no menor de siete magistrados propietarios y funcionará en Tribunal Pleno o en Salas, en los términos que disponga la ley. Habrá además, el mismo número de magistrados supernumerarios.
+El Supremo Tribunal de Justicia estará integrado por un número no menor de siete magistrados propietarios, y funcionará en Tribunal Pleno o en Salas, en los términos que disponga la ley. Habrá, además, el mismo número de magistrados supernumerarios.
 
-La Ley Orgánica del Poder Judicial fijará el número de magistrados y distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas.
+La Ley Orgánica del Poder Judicial fijará el número de magistrados y distribuirá las competencias señalando las atribuciones que correspondan al Presidente, al Pleno, y a las Salas, y determinará la regionalización de éstas en caso de ser necesaria.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
@@ -1057,59 +1133,63 @@ La Ley Orgánica del Poder Judicial fijará el número de magistrados y distribu
 
 Para ser electo magistrado, propietario o supernumerario del Supremo Tribunal de Justicia del Estado, se necesita:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos o civiles;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+I.- Ser ciudadano mexicano por nacimiento, y michoacano, en pleno ejercicio de sus derechos políticos o civiles;
 
 II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
 
-III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o corporación legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+
+III.- Tener el día de la elección, con antigüedad mínima de diez años, título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o institución legalmente facultada para ello;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y,
 
-V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un término menor de seis meses.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 1988)</small>
+V.- Haber residido en Michoacán durante los dos años anteriores al día de la elección; y,
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1998)</small>
+
+VI. No haber ocupado el cargo de Secretario o su equivalente, Procurador de Justicia, o Diputado Local, durante el año previo al día de la elección.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 72.
 
-Los magistrados durarán tres años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución y la Ley de Responsabilidades de los Servidores públicos del Estado.
+Los magistrados durarán tres años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de su puesto, al finalizar los ejercicios constitucionales, de plano y sin substanciación de trámite alguno, mediante le voto de las dos terceras partes de los miembros del congreso del Estado, en cuyo caso tendrán derecho a un haber por retiro en los términos, cuantía y condiciones que señale la ley, para compensar sus servicios al Poder Judicial. También podrán ser privados de sus cargos, en cualquier tiempo, en los términos del Título Cuarto de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
+Cuando el magistrado inamovible cumpla setenta años, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, al Congreso del Estado o a la Diputación Permanente según corresponda, para su discusión y aprobación, en su caso. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido sesenta años de edad. En este caso se seguirá la misma tramitación.
 
-Cuando el magistrado inamovible cumpla setenta años, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, en su caso, para su aprobación, al Congreso o a la Diputación Permanente. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido 60 años de edad. En este caso se seguirá la misma tramitación.
+El magistrado que tenga más de diez años de servicios efectivos en ese cargo y cuyo retiro forzoso haya sido aprobado, disfrutará de una pensión mensual equivalente a la remuneración que perciban los magistrados. El que obtenga su retiro voluntario disfrutará de la misma pensión.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
-
-El magistrado inamovible que obtenga su retiro forzoso, disfrutará de una pensión equivalente a la remuneración que perciba, si tiene más de diez años de servicios efectivos como magistrado. El que obtenga su retiro voluntario, disfrutará de la misma pensión.
-
-> <small>(DEROGADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 73.
 
-Las designaciones de ]os magistrados del Supremo Tribunal de Justicia, se harán por el Congreso o la Diputación Permanente en su caso, a propuesta del Gobernador del Estado.
+La elección o la reelección de los magistrados del Supremo Tribunal de Justicia se harán por el Congreso, o la Diputación Permanente en su caso, a propuesta del Gobernador del Estado; en el primer supuesto, conforme a la terna que éste envíe en los términos del artículo 60 de esta Constitución. Previa a esta elección o reelección, los propuestos deberán comparecer ante el órgano legislativo.
 
-Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso, y en sus recesos, ante la Comisión Permanente, en la siguiente forma:
+Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso o, en sus recesos, ante la Diputación Permanente, en la siguiente forma:
 
-Presidente: "¿ Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ellas emanen, mirando en todo el bien y prosperidad de la Nación y del Estado?"
+Presidente: "¿ Protestáis desempeñar leal y patrióticamente el cargo de magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
 
 Magistrado: "Sí, protesto."
 
 Presidente: "Si no lo hiciéreis así, la Nación y el Estado os lo demanden."
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 74.
 
-La falta temporal de un Magistrado que no exceda de tres meses, será suplida por uno de los supernumerarios que designe el Pleno del Supremo Tribunal. Si la falta es definitiva o por más de tres meses, se seguirá el mismo procedimiento determinado por el artículo 73.
+La falta temporal de un magistrado que no exceda de tres meses, será suplida por uno de los supernumerarios que designe el Pleno del Supremo Tribunal. Si la falta es definitiva o por más de tres meses, se seguirá el mismo procedimiento determinado por el artículo 73.
 
-Los Magistrados supernumerarios conocerán de los negocios en el orden de su designación, cuando los propietarios, en su totalidad, sean recusados o se encuentren impedidos; podrán ser llamados también para integrar el Pleno, en el caso de falta o impedimento de un Magistrado propietario, cuando no exista la mayoría requerida por la ley para la decisión de un asunto.
+Los magistrados supernumerarios conocerán de los negocios en el orden de su designación, cuando los propietarios, en su totalidad, sean recusados o se encuentren impedidos; también conocerán de los negocios cuando sea necesaria su intervención para evitar el rezago, por acuerdo del Pleno, a petición del titular de la Sala de que se trate o de la Presidencia; podrán ser llamados también para integrar el Pleno en el caso de falta o impedimento de un magistrado propietario, cuando no exista la mayoría requerida por la ley para la decisión de un asunto.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 75.
 
-En caso de que se declaren desaparecidos los Poderes del Estado, el funcionario que asuma el Poder Ejecutivo propondrá al Congreso del Estado, en la misma forma que determina la fracción IV del artículo 60, la designación de los magistrados del Supremo Tribunal de Justicia.
+En caso de que se declaren desaparecidos los Poderes del Estado, el funcionario que asuma el Poder Ejecutivo propondrá al Congreso del Estado, en la misma forma que determina la fracción III del artículo 60, la designación de los magistrados del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1181,21 +1261,21 @@ El Supremo Tribunal de Justicia podrá nombrar jueces de Primera Instancia super
 
 Los Jueces de Primera Instancia, serán nombrados por el Supremo Tribunal de Justicia, en la forma que establezca la Ley Orgánica del Poder Judicial, durarán en su encargo tres años, y no podrán ser privados de sus puestos sino en los términos del título IV de esta Constitución. Al concluir su encargo, continuarán en sus funciones hasta que se presenten los nuevamente nombrados.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 83.
 
-Para ser juez de primera instancia se requiere:
+Para ser juez de Primera Instancia se requiere:
 
 I.- Ser ciudadano mexicano en el ejercicio de sus derechos;
 
-II.- Tener veintiún años cumplidos;
+II.- Tener veinticinco años cumplidos;
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+III.- Tener el día de la elección, con antigüedad mínima de tres años, título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o institución legalmente facultada para ello; y,
 
-III.- Reunir los requisitos que señala el artículo 71, Fracción III, de esta Constitución, y
+IV.- No haber sido condenado por delito doloso, infamante o contra la propiedad.
 
-IV.- No haber sido condenado por delitos infamantes o contra la propiedad.
+Deberá considerarse la trayectoria del aspirante a juez en la carrera judicial que se instituye, y se podrá convocar a concursos o a exámenes de capacidad, en los términos que marque la ley.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1275,11 +1355,11 @@ Es obligación de los jurados conocer, en calidad de jueces, de los negocios que
 
 ###### Artículo 92.
 
-Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito quedando, en consecuencia, prohibidas las costas judiciales.
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; cuidando que los procedimientos y los términos establecidos por la ley hagan eficaz esta garantía. Su servicio será gratuito quedando, en consecuencia, prohibidas por las costas judiciales.
 
-Las leyes locales establecerán los medios necesarios para que garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+La ley establecerá los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
@@ -1315,15 +1395,19 @@ Toda persona está en libertad para terminar sus diferencias con otra, ya sea po
 
 En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
-Las penas privativas de la libertad no podrán en ningún caso exceder de treinta años.
+Las penas privativas de la libertad no podrán en ningún caso exceder de cuarenta años. Esta sanción podrá contemplarse como máxima para delitos calificados como graves por la ley y, también, en el caso de los concursos.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 1998)</small>
+
+En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 #### SECCION V. De la Administración de Justicia en General
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 96.
 
@@ -1335,11 +1419,11 @@ Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra l
 
 #### SECCION VI. Del Ministerio Público, de la Comisión Estatal de Derechos Humanos y de la Defensoría de Oficio
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 97.
 
-El Ministerio Público es la institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales.
+El Ministerio Público es la Institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. Para tal fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales en estos casos.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1351,7 +1435,7 @@ El Ministerio Público es la institución encargada de velar por la exacta obser
 
 Ejercen esta Institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 #### SECCION II. De la Contaduría General de Glosa
 
@@ -1363,15 +1447,23 @@ Ejercen esta Institución en el Estado el Procurador General de Justicia y los a
 
 ###### Artículo 99.
 
-El Procurador General de Justicia deberá tener los mismos requisitos que se fijan para ser Magistrado y será el Consejero Jurídico del Gobierno.
+Para ser Procurador General de Justicia se requiere:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco años, el día de su designación;
+
+III. Contar el día de su designación con una antigüedad de cinco años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por la Universidad Michoacana de San Nicolas de Hidalgo o por universidad, autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y,
+
+V. Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 100.
 
-El Procurador General de Justicia intervendrá personalmente en todos los negocios judiciales en que el Estado sea parte. En los demás casos en que debe intervenir el Ministerio Público, el Procurador podrá hacerlo por sí o por medio de alguno de sus agentes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 1993)</small>
+En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
 
 La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
 
@@ -1507,13 +1599,13 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadanos (sic), bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 ###### Artículo 108.
 
-Podrán ser sujetos de juicio político, el Gobernador del Estado, los Diputados al Congreso, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y Jueces Menores Municipales, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, los Directores Generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
+Podrán ser sujetos de juicio político, el Gobernador del Estado, los diputados al Congreso, los magistrados del Supremo Tribunal de Justicia, los jueces de primera instancia y jueces municipales, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, los directores generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
 
-Para la aplicación de las sanciones a que se refiere este precepto, la denuncia presentada al Congreso, se turnará a una comisión instructora especial, formada por cinco diputados al Congreso, misma que emitirá declaración por mayoría de sus componentes, una vez practicadas las diligencias correspondientes en presencia del acusado dicha declaración se turnará al Congreso. En caso de ser negativa, el Congreso determinará su archivo, y si es acusatoria, se constituirá en Gran Jurado, para revisar lo actuado, juzgar y aplicar las sanciones del caso, por las dos terceras partes de sus votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría cuando se trate de otros servidores públicos.
+Para la aplicación de las sanciones a que se refiere este precepto, la denuncia presentada al Congreso, se turnará a una comisión instructora especial, formada por cinco diputados al Congreso, misma que emitirá declaración por mayoría de sus componentes, una vez practicadas las diligencias correspondientes en presencia del acusado; dicha declaración se turnará al Congreso. En caso de ser negativa, el Congreso determinará su archivo, y si es acusatoria, se constituirá en Gran Jurado, para revisar lo actuado, juzgar y aplicar las sanciones del caso, por las dos terceras partes de sus votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría cuando se trate de otros servidores públicos.
 
 El procedimiento de juicio político, sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
@@ -2423,19 +2515,35 @@ P.O. 10 DE ABRIL DE 1997.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO PRIMERO.
+P.O. 16 DE MARZO DE 1998.
 
-Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO N° 130.- SE REFORMAN LOS ARTÍCULOS 64, 95, 97, 99 Y 100; SE ADICIONAN LOS ARTÍCULOS 64 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
 
-###### ARTÍCULO SEGUNDO.
+> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+###### ARTICULO PRIMERO.
 
-###### ARTÍCULO TERCERO.
+EI presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
-Los trámites de fundo legal que al entrar en vigor este Decreto estén en curso, se sujetarán a las disposiciones de este Decreto.
+> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
 
-D.O. 16 DE DICIEMBRE DE 2010.
+###### ARTICULO SEGUNDO.
+
+Los juicios y procedimientos relacionados con los artículos que se reforman y adicionan, iniciados con anterioridad, continuarán tramitándose conforme a las disposiciones vigentes al entrar en vigor el presente Decreto.
+
+> <small>(F. DE E., P.O. 16 DE MARZO DE 1998)</small>
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a este Decreto.
+
+P.O. 16 DE MARZO DE 1998.
+
+DECRETO No. 131
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
