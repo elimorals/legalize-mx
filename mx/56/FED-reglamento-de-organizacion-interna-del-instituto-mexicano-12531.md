@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-organizacion-interna-del-instituto-mexicano-12531
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-11"
-last_updated: "1998-11-11"
+last_updated: "1999-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12531&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-04"
 
 REGLAMENTO DE ORGANIZACION INTERNA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 1999.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 11 de noviembre de 1998.
 
@@ -799,6 +799,24 @@ IX. Asegurar la continuidad del cambio a través de la mejora de procesos, en co
 
 X. Las demás que le señale el Director General.
 
+> <small>(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+
+Artículo 73 bis. La Dirección General contará con el área de apoyo denominada Unidad de Inversiones Financieras, la que tendrá las facultades siguientes:
+
+I. Realizar las operaciones de inversión de las reservas y de los excedentes de efectivo, de acuerdo a las políticas y directrices que dicte el Consejo Técnico;
+
+II. Proponer a la Comisión de Inversiones Financieras del Instituto las alternativas de inversión de los recursos financieros del Instituto;
+
+III. Realizar las operaciones de inversión de las reservas y excedentes financieros del Instituto, aplicando en cada caso lo dispuesto en la Ley y las disposiciones que al respecto dicte el Consejo Técnico; informar sobre la valuación de los productos de la inversión de las reservas, mediante los métodos financieros previstos por el Consejo Técnico;
+
+IV. Aplicar las estrategias para cubrir el riesgo de inversión;
+
+V. Establecer y operar los sistemas de información para las operaciones de inversión de las reservas y de los excedentes de efectivo y sobre los factores de riesgo de inversión;
+
+VI. Elaborar un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las reservas financieras del Instituto, y
+
+VII. Las demás que le señalen los reglamentos y acuerdos del Consejo Técnico y las que le encomiende la Dirección General.
+
 ## TÍTULO TERCERO
 
 ### CAPÍTULO ÚNICO. DE LA SECRETARÍA GENERAL
@@ -1045,13 +1063,15 @@ XVII. Las demás que le señalen la Ley, sus reglamentos y acuerdos del Consejo 
 
 La Dirección de Planeación y Finanzas tendrá las facultades siguientes:
 
-I. Planear, dirigir y controlar la administración del marco financiero del Instituto, la administración financiera de las reservas, así como la concentración y dispersión de fondos y pagos;
+REFORMADA, D.O.F. 13 DE OCTUBRE DE 1999)
+
+I. Planear, dirigir y controlar la administración del marco financiero del Instituto, así como la concentración y dispersión de fondos y pagos;
 
 II. Elaborar el presupuesto de ingresos y egresos para cada ejercicio presupuestal, el balance contable, el estado de ingresos y gastos que se presenten al Consejo Técnico anualmente por el Director General, así como el balance actuarial trianual;
 
-III. Realizar las operaciones de inversión de las reservas y excedentes financieros del Instituto, aplicando en cada caso lo dispuesto en la Ley y las disposiciones que al respecto dicte el Consejo Técnico;
+III. (DEROGADA, D.O.F. 13 DE OCTUBRE DE 1999)
 
-IV. Rendir mensualmente al Consejo Técnico y a la Comisión de Vigilancia, un informe pormenorizado de las operaciones de inversiones realizadas y de los rendimientos obtenidos, así como de la situación que guardan las reservas financieras del Instituto;
+IV. (DEROGADA, D.O.F. 13 DE OCTUBRE DE 1999)
 
 V. Atender los asuntos que le competen en coordinación con las unidades administrativas a su cargo, y en su caso, con los órganos normativos, regionales, delegacionales y operativos;
 
@@ -1349,7 +1369,11 @@ IX. Supervisar las adquisiciones de competencia regional y vigilar que se ajuste
 
 X. Conocer y resolver en los términos que marca el reglamento respectivo, las quejas materia de su competencia, y
 
-XI. Las demás que le señalen la Ley, sus reglamentos y las disposiciones de los órganos superiores del Instituto.
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+
+XI. Integrar las comisiones o comités que se requieran para el oportuno despacho de los asuntos de su competencia, determinando su estructura y funciones necesarias para tal fin, en los términos de la normatividad aplicable, y
+
+XII. Las demás que le señalen la Ley, sus reglamentos y las disposiciones de los órganos superiores del Instituto.
 
 #### SECCIÓN TERCERA. DE LOS CONSEJEROS
 
@@ -1621,7 +1645,9 @@ V. Aprobar su calendario trimestral de sesiones;
 
 VI. Servir de enlace entre la Delegación y las representaciones que los integran para contribuir a la mejor prestación de los servicios que el Instituto tiene a su cargo;
 
-VII. Integrar, además de las Comisiones de Inconformidades, de Convenios y de Adquisiciones, aquellas que se requieran para el oportuno despacho de los asuntos de su competencia;
+> <small>(REFORMADA, D.O.F. 13 DE OCTUBRE DE 1999)</small>
+
+VII. Integrar las comisiones o comités que se requieran para el oportuno despacho de los asuntos de su competencia, determinando su estructura y funciones necesarias para tal fin, en los términos de la normatividad aplicable;
 
 VIII. Instruir y, en su caso, resolver el recurso de inconformidad en los términos del reglamento respectivo;
 
@@ -2742,3 +2768,11 @@ TERCERO. Para los efectos del artículo 90 de este Reglamento, los consejeros re
 CUARTO. Las grabaciones en cinta magnetofónica de las sesiones ordinarias de la Asamblea General y del Consejo Técnico, que consten en acta debidamente firmada y glosada en libros, y las de eventos especiales del Instituto, previas a la entrada en vigor del presente Reglamento, a las que se refiere el artículo 20 de este ordenamiento, podrán reutilizarse o incinerarse. Dicha determinación corresponderá al Secretario General del Instituto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 13 DE OCTUBRE DE 1999.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las modificaciones a las estructuras del Instituto Mexicano del Seguro Social que por virtud del presente Decreto se realicen, se harán de conformidad con los montos autorizados a dicho Instituto en el correspondiente Presupuesto de Egresos de la Federación.
