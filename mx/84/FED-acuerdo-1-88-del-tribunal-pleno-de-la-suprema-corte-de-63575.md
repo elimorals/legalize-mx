@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-05-17"
+last_updated: "1988-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -131,7 +131,13 @@ VIII.- OCTAVO CIRCUITO:
 
 4.- Juzgado Tercero de Distrito en el Estado de Coahuila, con residencia en la ciudad de Piedras Negras;
 
-5.- Juzgado Primero y Segundo de Distrito en el Estado de Durango, con residencia en la ciudad de Durango.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 8/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 23 DE JUNIO DE 1988)</small>
+
+5.- Juzgado Cuarto de Distrito en el Estado de Coahuila, con residencia en la Ciudad de Monclova;
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 8/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 23 DE JUNIO DE 1988)</small>
+
+6.- Juzgado Primero y Segundo de Distrito en el Estado de Durango, con residencia en la Ciudad de Durango.
 
 IX.- NOVENO CIRCUITO:
 
@@ -321,7 +327,13 @@ XIII.- El Juzgado Cuarto de Distrito en el Estado de Veracruz, con residencia en
 
 XIV.- Juzgado Quinto de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerá jurisdicción en los municipios de: Amatlán, Castillo de Teayo, Chinampa, Tamihua, Tancoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Villa Cuauhtémoc, Tamalín, Tampico Alto, Tantima, Chiconamel, Contla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, Hamatlán, Ixhuatlán de Madero, Santa Cruz de Juárez, Tlachichilco, Zacualpan, Zontecomatlán, Texcatepec, Coahuitlán, Coatzintla, Coyutla, Coxquihuí, El Espinal, Gutiérrez Zamora, Mecatlán, Santo Domingo, Ozuluama, Tecolutla, Zozocolco, Tantoyuca, Chicontepec, Tuxpan y Papantla, del Estado de Veracruz;
 
-XV.- Los Juzgados Primero y Segundo de Distrito en el Estado de Coahuila, con residencia en la ciudad de Saltillo, ejercerán jurisdicción en los municipios de Saltillo, Ramos Arizpe, General Cepeda, Arteaga, Parras, Monclova, Frontera, San Buena Ventura, Nadadores, Cuatro Ciénegas, Ocampo, Escobedo, Abasolo, Sierra Mojada, Lamadrid, Sacramento, Candela y Castaños;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO NUMERO 8/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 23 DE JUNIO DE 1988)</small>
+
+XV.- Los Juzgados Primero y Segundo de Distrito en el Estado de Coahuila, con residencia en la Ciudad de Saltillo, ejercerán jurisdicción en los municipios de Saltillo, Ramos Arizpe, General Cepeda, Arteaga y Parras;
+
+> <small>(ADICIONADA POR EL PUNTO CUARTO DEL ACUERDO NUMERO 8/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 23 DE JUNIO DE 1988)</small>
+
+XV BIS.- El Juzgado Cuarto de Distrito en el Estado de Coahuila, con residencia en la Ciudad de Monclova, ejercerá jurisdicción en los municipios de Monclova, Frontera, San Buenaventura, Nadadores, Cuatro Ciénegas, Ocampo, Escobedo, Abasolo, Sierra Mojada, Lamadrid, Sacramento, Candela y Castaños;
 
 XVI.- El Juzgado Tercero de Distrito en el Estado de Coahuila, con residencia en la ciudad de Piedras Negras, ejercerá jurisdicción en los municipios de: Sabinas, Múzquiz, San Juan de Sabinas, Juárez, Progreso, Piedras Negras, Acuña, Zaragoza, Allende, Morelos, Jiménez, Guerrero, Villaunión, Hidalgo y Nava, del propio Estado;
 
@@ -410,3 +422,7 @@ SEGUNDO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación
 D.O.F. 17 DE MAYO DE 1988.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 23 DE JUNIO DE 1988.
+
+UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
