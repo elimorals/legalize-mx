@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2000-11-26"
+last_updated: "2003-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -135,11 +135,15 @@ Toda persona tiene derecho a que se le administre justicia por Tribunales que es
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 7.
 
-Toda resolución de autoridad administrativa será de acuerdo a la letra de la ley y en su caso conforme a la interpretación jurídica de la misma. Para tal efecto, una de las Salas del Tribunal Superior de Justicia tendrá competencia para dirimir las controversias que se susciten entre los particulares y la Administración Pública Estatal y Municipal, debiéndose promulgar el decreto que establezca las normas para su funcionamiento.
+Toda resolución de autoridad administrativa será de acuerdo a la letra de la Ley y en su caso conforme a la interpretación jurídica de la misma.
+
+En el Estado de Durango se instituye un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía; que tendrá a su cargo dirimir las controversias que se susciten entre la Administración Pública y los particulares.
+
+Los requisitos para ser Magistrado del Tribunal de lo Contencioso Administrativo, la forma de elección y el período de ejercicio en el encargo, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -201,7 +205,7 @@ III.- Las leyes propiciarán el fraccionamiento, la urbanización, la regeneraci
 
 IV.- La expropiación de bienes pertenecientes a particulares, sólo podrá decretarse por causa de utilidad pública y mediante indemnización, de conformidad con el procedimiento que señale la ley de la materia; para fijar el monto tratándose de bienes inmuebles se atenderá al valor fiscal con que aparezcan registrados en la (sic) oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones sobre esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas recaudadoras o catastrales;
 
-V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso; de los bienes vacantes que están dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las donaciones, legados, herencias o reintegros que se hagan o se dejen en beneficio del Estado; de los derechos, productos y aprovechamientos; así como de los subsidios y de las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir; y
+V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso; de los bienes vacantes que estan dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las donaciones, legados, herencias o reintegros que se hagan o se dejen en beneficio del Estado; de los derechos, productos y aprovechamientos; así como de los subsidios y de las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir; y
 
 VI.- Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
 
@@ -617,11 +621,15 @@ Los Diputados de Mayoría Relativa enviarán por escrito a los H.H. Cabildos de 
 
 Para el cumplimiento de sus atribuciones y para el despacho de los asuntos que le corresponde conocer, el congreso nombrará las comisiones que requiera, en los términos de su Ley Orgánica. La Comisión Permanente se sujetará a lo que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 48.
 
-El 12 de Septiembre de cada año, el Gobernador del Estado, enviará al Congreso, por escrito un informe de la situación que guarda la Administración Pública. Podrá comparecer a la sesión para dirigir un mensaje, en cuyo caso, el Presidente del Congreso hará las apreciaciones correspondientes.
+El 12 de septiembre de cada año, el Gobernador del Estado se presentará en el Recinto del Congreso a rendir por escrito un informe de la situación que guarda la administración pública.
+
+Estando presente el Titular del Ejecutivo, los diferentes partidos representados en la Cámara fijarán su postura respecto a la situación imperante en el Estado, dicha intervención no deberá exceder de 15 minutos.
+
+Una vez concluida la intervención de los partidos, el Titular del Ejecutivo, dirigirá un mensaje. Al finalizar, el Presidente del Congreso hará las apreciaciones correspondientes.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -699,9 +707,9 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+SECCION E.- DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 55.
 
@@ -885,11 +893,7 @@ XXXVIII.- Expedir leyes para la conservación, educación e instrucción de los 
 
 XXXIX.- Las demás que le confiera expresamente esta Constitución.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION E.- DE LA COMISION PERMANENTE
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 56.
 
@@ -955,7 +959,11 @@ Los poderes del Estado y los sujetos de fiscalización, facilitarán los auxilio
 
 El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la ley.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -2565,10 +2573,36 @@ NOVENO.- Para estar en condiciones de sustituir a los integrantes del Consejo de
 
 DÉCIMO.- Los actuales Magistrados Electorales continuarán en el ejercicio de su encargo hasta su conclusión y bajo la normatividad vigente.
 
-DÉCIMO PRIMERO.- El inicio del funcionamiento de la sala que tendrá a su cargo dirimir las controversias de carácter administrativo a que se refiere el artículo 7 de esta Constitución, estará sujeto a las condiciones presupuestales del Gobierno del Estado.
+DÉCIMO PRIMERO.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA A LA CONSTITUCION POLITICA LOCAL, P.O. 9 DE MARZO DE 2003)
 
 DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 DÉCIMO TERCERO.- En las disposiciones legales en la que se haga referencia a loa (sic) artículos 97 Bis y 102 Bis, se entenderá que se alude al 97 y 102 de esta Constitución reformada.
 
 DÉCIMO CUARTO.- Los municipios que no hagan uso de la facultad que les confiere el penúltimo párrafo del artículo 111 de este Decreto, sujetará sus cuotas, tarifas y tablas de valores, a lo que establecen la Ley de Hacienda de los Municipios del Estado y las tablas de valores aprobadas conforme a derecho.
+
+P.O. 9 DE MARZO DE 2003.
+
+DECRETO No. 197.
+
+ÚNICO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE MARZO DE 2003.
+
+DECRETO No. 198.
+
+###### ARTÍCULO PRIMERO.
+
+La Legislatura expedirá el decreto que establezca las normas para la organización, integración y funcionamiento del Tribunal de lo Contencioso Administrativo, así como la Legislación relativa a los procedimientos y recursos en materia administrativa, a más tardar en el mes de octubre de 2003.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el artículo décimo primero transitorio del decreto 308 expedido por la Sexagésima Legislatura del Estado de Durango, publicado en el Periódico Oficial 43 Bis de fecha 26 de noviembre del año 2000.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expida el Decreto a que se refiere el artículo primero transitorio, los asuntos que se encuentran pendientes de resolución, seguirán su tramitación en las instancias y dependencias en las que actualmente se ventilan, atendiendo el procedimiento con el que dieron inicio.
