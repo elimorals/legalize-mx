@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-10999"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-07-13"
-last_updated: "1994-07-13"
+last_updated: "1999-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -81,7 +81,7 @@ Los procedimientos que se sigan ante la COMISION deberán ser breves, sencillos 
 
 ## TITULO SEGUNDO. DE LA INTEGRACION, INCOMPETENCIA Y ATRIBUCIONES DE LA COMISION
 
-### CAPITULO PRIMERO. DE SU INTEGRACION
+### CAPITULO SEGUNDO. INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
 
 ###### ARTICULO 21.
 
@@ -125,7 +125,7 @@ Las decisiones o resoluciones se tomarán por mayoría de votos y el Secretario 
 
 Cuando no se reuna la mitad más uno de los integrantes del Consejo, la sesión se verificará dentro de las veinticuatro horas siguientes con los miembros que asistan a la misma, incluyendo invariablemente al Presidente de la COMISION.
 
-### CAPITULO SEGUNDO. INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
+### CAPITULO PRIMERO. DE SU INTEGRACION
 
 ###### ARTICULO 8.
 
@@ -143,9 +143,11 @@ Las ausencias definitivas de un Consejero, darán lugar a su sustitución en los
 
 El cargo de Presidente de la COMISION tendrá una remuneración igual a la que perciban los Magistrados del Tribunal Superior de Justicia de la Entidad.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 11.
 
-El Presidente de la COMISION será nombrado por el H. Congreso del Estado, y durará en sus funciones cuatro años, pudiendo ser ratificado por el propio Congreso Local, para un segundo período.
+El Presidente de la COMISION será nombrado por el H. Congreso del Estado y, en sus recesos, por la Diputación Permanente, y durará en sus funciones cuatro años, pudiendo ser ratificado por el propio Congreso Local, para un segundo período.
 
 ###### ARTICULO 12.
 
@@ -187,9 +189,11 @@ El Presidente de la COMISION, el Secretario Ejecutivo y el Visitador General, as
 
 El Presidente de la COMISION podrá ser destituido y en su caso sujeto a responsabilidad, sólo por las causas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y mediante los procedimientos establecidos por el Título OCTAVO de la Constitución Política del Estado de Nayarit. En ese supuesto, el Presidente podrá ser sustituido en forma interina por el Visitador General, hasta en tanto se nombre un nuevo Presidente.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 19.
 
-En las ausencias temporales del Presidente de la COMISION, el Visitador General ocupará su lugar en forma interina, y en caso de ausencia definitiva, será el Congreso del Estado quien haga la designación del Presidente sustituto, a propuesta del Ejecutivo del Estado, en los términos del Artículo 12 de esta Ley.
+En las ausencias temporales del Presidente de la COMISION, el Visitador General ocupará su lugar en forma interina, y en caso de ausencia definitiva, será el Congreso del Estado quien haga la designación del Presidente sustituto, en los términos de los artículos 11 y 12 de esta Ley.
 
 ###### ARTICULO 20.
 
@@ -239,7 +243,9 @@ XVI.- Proponer al Ejecutivo Estatal en los términos de la Legislación aplicabl
 
 XVII.- Las demás que resulten de la presente Ley, de su Reglamento y las que sean propias a su naturaleza.
 
-### CAPITULO CUARTO. DE LA INCOMPETENCIA DE LA COMISION
+### CAPITULO QUINTO. DE LAS FACULTADES DEL PRESIDENTE DE LA COMISION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 27.
 
@@ -251,7 +257,9 @@ II.- Resoluciones de carácter jurisdiccional de fondo.
 
 III.- Conflictos de carácter laboral.
 
-IV.- Cuando en un mismo hecho, estuvieren involucrados Autoridades o Servidores Públicos de la Federación y del Estado o sus Municipios, la competencia se surtirá en favor de la Comisión Nacional de Derechos Humanos.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1999)</small>
+
+IV.- Cuando en un mismo hecho estuvieren involucrados Autoridades o Servidores Públicos de la Federación y del Estado o sus Municipios, la competencia se surtirá a favor de la Comisión Nacional de los Drechos (sic) Humanos.
 
 V.- Cuando corresponda a la Comisión Nacional o a la Comisión de cualquier Entidad Federativa, conocer de la violación a los Derechos Humanos, por encontrarse involucrada alguna Autoridad Federal o alguna Autoridad de otro Estado, se remitirá la denuncia o queja correspondiente a la Comisión respectiva, sin perjuicio de que se practiquen diligencias prioritarias y se tomen las medidas preventivas que el caso amerite, hasta declarar la incompetencia.
 
@@ -259,11 +267,11 @@ V.- Cuando corresponda a la Comisión Nacional o a la Comisión de cualquier Ent
 
 En los términos de esta Ley, la COMISION solo admitirá o conocerá de quejas o inconformidades contra actos u omisiones de autoridades judiciales, cuando dichos actos u omisiones tengan carácter administrativo.
 
-### CAPITULO QUINTO. DE LAS FACULTADES DEL PRESIDENTE DE LA COMISION
+### CAPITULO CUARTO. DE LA INCOMPETENCIA DE LA COMISION
 
 ###### ARTICULO 29.
 
-El Presidente de la COMISION será la Autoridad Ejecutiva de la misma y sus atribuciones serán las siguientes:
+El Presidente de la COMISION será la Autoridad Ejecutiva de la misma y sus atribuciones y obligaciones serán las siguientes:
 
 I.- Ejercer las funciones que esta Ley le atribuye a la COMISION, coordinándose en su caso con las autoridades que resulten competentes.
 
@@ -273,7 +281,9 @@ III.- Presidir, dirigir, planear y coordinar las actividades administrativas de 
 
 IV.- Instrumentar, ejecutar y vigilar la aplicación estatal en la materia, buscando que ésta sea acorde a la política Nacional en materia de defensa de los Derechos Humanos.
 
-V.- Informar por escrito al Congreso Local y al Ejecutivo del Estado, sobre las actividades de la COMISION, informe que deberá rendirse dentro de los primeros quince días del mes de diciembre de cada año, mismo que será difundido de inmediato para conocimiento pleno de la sociedad.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1999)</small>
+
+V.- El Presidente de la COMISION presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto comparecerá ante la Cámara de Diputados dentro de los primeros quince días del mes de diciembre de cada año; y lo entregará por escrito a los otros dos poderes.
 
 VI.- Nombrar, dirigir y coordinar a los funcionarios y a todo el personal de la COMISION bajo su autoridad, así como presidir al Consejo de la misma.
 
@@ -455,6 +465,10 @@ En los casos donde exista desistimiento expreso o tácito, pero se considere, a 
 
 En el informe que deberán rendir las autoridades o servidores públicos señalados como responsables contra los cuáles se interponga queja o denuncia, se harán constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones impugnados, si efectivamente éstos existieron, así como los elementos que se consideren necesarios para probar su inexistencia, así como los documentos para soportar su descargo.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
+La falta de rendimiento del informe o de la documentación que lo apoye, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva, tendrá el efecto de que, en relación con el trámite de la queja, se tengan por ciertos los hechos materia de la misma, salvo prueba en contrario.
+
 ###### ARTICULO 50.
 
 Para la investigación de un asunto, el Visitador General tendrá las facultades que según el caso podrá delegar en los Adjuntos, siendo las siguientes:
@@ -565,9 +579,11 @@ La COMISION notificará inmediatamente a los quejosos los resultados de la inves
 
 El Presidente de la COMISION deberá publicar, en su totalidad o en forma resumida, las Recomendaciones y los acuerdos de No Responsabilidad dictados por la COMISION. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados, conforme a las circunstancias del propio caso.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 69.
 
-El Presidente de la COMISION deberá enviar un informe anual, tanto a la Legislatura Local como al Ejecutivo del Estado, sobre las actividades que haya realizado en el periodo respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente de la COMISION comparecerá a rendir un informe anual a la Legislatura Local, sobre las actividades que haya realizado en el periodo respectivo, en los términos del artículo siguiente. Dicho informe será entregado por escrito a los Poderes Ejecutivo y Judicial; y será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
 ###### ARTICULO 70.
 
@@ -579,21 +595,29 @@ Asimismo el informe podrá contener proposiciones dirigidas a las Autoridades y 
 
 Ninguna autoridad o servidor público dará instrucciones a la COMISION de Defensa de los Derechos Humanos del Estado de Nayarit, con motivo de los informes a que alude el Artículo 69 de esta Ley, o en cuanto al desarrollo de sus funciones.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 72.
 
-El Congreso Local y el Titular del Ejecutivo Estatal, podrán hacer comentarios y observaciones a los informes del Presidente de la COMISION, pero no estarán facultados para dirigirle instrucciones especificas. Ambos deberán adoptar las medidas necesarias e iniciarán las investigaciones conducentes que correspondan a su ámbito de competencia, a fin de lograr una más efectiva protección de los Derechos Humanos en el Estado.
+El Congreso Local podrá hacer comentarios y observaciones a los informes del Presidente de la COMISION, pero no estará facultado para dirigirle instrucciones específicas. El Congreso del Estado deberá adoptar las medidas necesarias e iniciará las investigaciones conducentes que correspondan a su ámbito de competencia, a fin de lograr una más efectiva protección de los Derechos Humanos en el Estado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ### CAPITULO CUARTO
 
-DE LAS INCONFORMIDADES ANTE LA COMISION NACIONAL DE DERECHOS HUMANOS.
+DE LAS INCONFORMIDADES ANTE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 73.
 
-De las inconformidades que se presenten respecto de las Recomendaciones, Acuerdos de No Responsabilidad, omisiones o inactividad de la propia COMISION, serán procedentes los Recursos de QUEJA o IMPUGNACION, los cuales podrán presentar los quejosos afectados, terceros perjudicados o las Autoridades y Servidores Públicos, y será competente para conocer, substanciar y resolver de los mismos, LA COMISIÓN NACIONAL DE DERECHOS HUMANOS en los términos que establece el Título Tercero y Capítulo Cuarto de la Ley de dicha Comisión Nacional; en la inteligencia de que el Recurso de queja procederá en contra de las omisiones o la inactividad de esta COMISION, y el Recurso de Impugnación procederá exclusivamente contra las resoluciones definitivas de la propia COMISION o respecto de las informaciones definitivas de las autoridades o servidores públicos, con relación al cumplimiento de las Recomendaciones emitidas por este organismo.
+De las inconformidades que se presenten respecto de las Recomendaciones, Acuerdos de No Responsabilidad, omisiones o inactividad de la propia COMISION, serán procedentes los Recursos de QUEJA o IMPUGNACION, los cuales podrán presentar los quejosos afectados, terceros perjudicados o las Autoridades y Servidores Públicos, y será competente para conocer, substanciar y resolver de los mismos, la Comisión Nacional de los Derechos Humanos en los términos que establece el Título Tercero y Capítulo Cuarto de la Ley de dicha Comisión Nacional; en la inteligencia de que el Recurso de queja procederá en contra de las omisiones o la inactividad de esta COMISION, y el Recurso de Impugnación procederá exclusivamente contra las resoluciones definitivas de la propia COMISION o respecto de las informaciones definitivas de las autoridades o servidores públicos, con relación al cumplimiento de las Recomendaciones emitidas por este organismo.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 74.
 
-La presentación de cualquiera de las inconformidades señaladas, puede formularse directamente ante la Comisión Nacional de Derechos Humanos, o bien ante la propia COMISION de la Entidad, debiendo ésta acusar recibo de la misma, e inmediatamente señalará su incompetencia y remitirá el Recurso al Organismo Nacional para los efectos de la iniciación del procedimiento respectivo.
+La presentación de cualquiera de las inconformidades señaladas, puede formularse directamente ante la Comisión Nacional de los Derechos Humanos, o bien ante la propia COMISION de la Entidad, debiendo ésta acusar recibo de la misma, e inmediatamente señalará su incompetencia y remitirá el Recurso al Organismo Nacional para los efectos de la iniciación del procedimiento respectivo.
 
 ### CAPITULO QUINTO. DE LAS INCONFORMIDADES ANTE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS EN EL ESTADO
 
@@ -741,9 +765,11 @@ Tanto los Funcionarios Públicos como el personal Administrativo que integra la 
 
 La COMISION de Defensa de los Derechos Humanos del Estado de Nayarit, contará con patrimonio propio. El Gobierno Estatal deberá proporcionarle todos los recursos financieros, materiales, técnicos y los necesarios para su debido funcionamiento.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+
 ###### ARTICULO 98.
 
-La COMISION tendrá la facultad de elaborar su presupuesto anual de egresos, el cual enviará directamente al Ejecutivo del Estado, quien lo sancionará y lo integrará al presupuesto del Estado para su aprobación y trámite correspondiente. En los términos que dispongan las Leyes, oportunamente se rendirán los informes de su ejercicio y comprobación.
+La COMISION tendrá la facultad de elaborar su presupuesto anual de egresos, el cual enviará directamente al Ejecutivo del Estado, quien lo integrará al Presupuesto de Egresos del Estado para su aprobación y trámite correspondiente. En todo caso, dicho presupuesto deberá ser suficiente para permitirle el cumplimiento de sus fines. En los términos que dispongan las Leyes, oportunamente se rendirán los informes de su ejercicio y comprobación.
 
 ## TRANSITORIOS
 
@@ -798,3 +824,11 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno.
 
 C.P. Antonio Echevarría Domínguez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE AGOSTO DE 1999
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
