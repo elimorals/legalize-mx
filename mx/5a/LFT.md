@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1978-04-28"
+last_updated: "1980-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1980.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -242,7 +242,7 @@ IX. Otras condiciones de trabajo, tales como días de descanso, vacaciones y dem
 
 ###### Artículo 26.
 
-La falta del escrito a que se refieren los artículos 24 y 25 no priva al trabajador de los derechos que deriven de las normas de trabajo y de los servicios prestados, pues se imputará al patrón la falta de esa formalidad.
+La falta del escrito a que se refieren los artículos 24 y 25 no priva al trabajador de los derechos que deriven de las normas de trabajo y de los servicios prestados, pues se imputará el patrón la falta de esa formalidad.
 
 ###### Artículo 27.
 
@@ -427,6 +427,14 @@ XIV. La sentencia ejecutoriada que imponga al trabajador una pena de prisión, q
 XV. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere.
 
 El patrón deberá dar al trabajador aviso escrito de la fecha y causa o causas de la rescisión.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+El aviso deberá hacerse del conocimiento del trabajador, y en caso de que éste se negare a recibirlo, el patrón dentro de los cinco días siguientes a la fecha de la rescisión, deberá hacerlo del conocimiento de la Junta respectiva, proporcionando a ésta el domicilio que tenga registrado y solicitando su notificación al trabajador.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+La falta de aviso al trabajador o a la Junta, por sí sola bastará para considerar que el despido fue injustificado.
 
 ###### Artículo 48.
 
@@ -908,7 +916,7 @@ Para los efectos de esta Ley, se considera utilidad en cada empresa la renta gra
 
 El derecho de los trabajadores para formular objeciones a la declaración que presente el patrón a la Secretaría de Hacienda y Crédito Público, se ajustará a las normas siguientes:
 
-I. El patrón, dentro de un término de diez días contado a partir de la fecha de la presentación de su declaración anual, entregará a los trabajadores copia de la misma. Los anexos que de conformidad con las disposiciones fiscales debe presentar a la Secretaría de Hacienda y Crédito Público quedarán a disposición de los trabajadores durante un término de treinta días en las oficinas de la empresa y en la propia Secretaría.
+l. El patrón, dentro de un término de diez días contado a partir de la fecha de la presentación de su declaración anual, entregará a los trabajadores copia de la misma. Los anexos que de conformidad con las disposiciones fiscales debe presentar a la Secretaría de Hacienda y Crédito Público quedarán a disposición de los trabajadores durante un término de treinta días en las oficinas de la empresa y en la propia Secretaría.
 
 Los trabajadores no podrán poner en conocimiento de terceras personas los datos contenidos en la declaración y en sus anexos;
 
@@ -1372,11 +1380,11 @@ Durante el tiempo en que un trabajador de nuevo ingreso que requiera capacitaci�
 
 Los trabajadores a quienes se imparta capacitación o adiestramiento están obligados a:
 
-I. Asistir puntualmente a los cursos, sesiones de grupo y demás actividades que formen parte del proceso de capacitación o adiestramiento;
+I.- Asistir puntualmente a los cursos, sesiones de grupo y demás actividades que formen parte del proceso de capacitación o adiestramiento;
 
-II. Atender las indicaciones de las personas que impartan la capacitación o adiestramiento, y cumplir con los programas respectivos; y,
+II.- Atender las indicaciones de las personas que impartan la capacitación o adiestramiento, y cumplir con los programas respectivos; y,
 
-III. Presentar los exámenes de evaluación de conocimientos y de aptitud que sean requeridos.
+III.- Presentar los exámenes de evaluación de conocimientos y de aptitud que sean requeridos.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -2962,7 +2970,7 @@ II.- Acatar las órdenes de las personas designadas para impartir el adiestramie
 
 III.- Cumplir las disposiciones internas de la Unidad Médica Receptora de Residentes de que se trate, en cuanto no contraríen las contenidas en esta Ley;
 
-IV.- Asistir a las conferencias de teoría (sic) sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
+IV.- Asistir a las conferencias de teoría sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
 
 V.- Permanecer en la Unidad Médica Receptora de Residentes, en los términos del artículo siguiente; y
 
@@ -3342,7 +3350,7 @@ VIII. Disposiciones sobre la capacitación o adiestramiento inicial que se deba 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
 
-lX. Las bases sobre la integración y funcionamiento de las Comisiones que deban integrarse de acuerdo con esta Ley; y,
+IX. Las bases sobre la integración y funcionamiento de las Comisiones que deban integrarse de acuerdo con esta Ley; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -3800,69 +3808,31 @@ III. Que se cumplan previamente los requisitos señalados en el artículo siguie
 
 ###### Artículo 452.
 
-El escrito de emplazamiento de huelga deberá satisfacer los requisitos siguientes:
-
-I.- Se dirigirá al patrón y en él se formularán las peticiones, se anunciará el propósito de ir a la huelga si no son satisfechas y se expresará concretamente el objeto de la misma;
-
-II.- Se presentará por duplicado a la Junta de Conciliación y Arbitraje. Si la empresa o establecimiento están ubicados en lugar distinto al en que resida la Junta, el escrito podrá presentarse a la autoridad del trabajo más próxima o a la autoridad política de mayor jerarquía del lugar de ubicación de la empresa o establecimiento. La autoridad que haga el emplazamiento remitirá el expediente, dentro de las veinticuatro horas siguientes, a la Junta de Conciliación y Arbitraje; y
-
-III.- El aviso para la suspensión de las labores deberá darse, por lo menos, con seis días de anticipación a la fecha señalada para suspender el trabajo y con diez cuando se trate de servicios públicos. El término se contará desde el día y hora en que el patrón quede notificado.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 453.
 
-El Presidente de la Junta de Conciliación y Arbitraje o las autoridades mencionadas en la fracción II del artículo anterior, bajo su más estricta responsabilidad, harán llegar al patrón la copia del escrito de emplazamiento dentro de las veinticuatro horas siguientes a la de su recibo.
-
-La notificación producirá el efecto de constituir al patrón, por todo el término del aviso, en depositario de la empresa o establecimiento afectado por la huelga, con las atribuciones y responsabilidad inherentes al cargo.
-
-No podrá ejecutarse, a partir de la notificación, sentencia alguna, ni practicarse embargo, aseguramiento, diligencia o desahucio, en contra de los bienes de la empresa o establecimiento y del local en que los mismos se encuentren instalados.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 454.
 
-El patrón dentro de las cuarenta y ocho horas siguientes a la de la notificación, deberá presentar su contestación por escrito ante la Junta de Conciliación y Arbitraje.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 455.
 
-Para los efectos de este Título, se entiende por servicios públicos: los de comunicaciones y transportes, los de gas, los de luz y energía eléctrica, los de limpia y los de aprovisionamiento y distribución de aguas destinadas al servicio de las poblaciones, los sanitarios, los de hospitales, los de cementerios y los de alimentación cuando se refieran a artículos de primera necesidad, siempre que en este último caso se afecte alguna rama completa del servicio.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 456.
 
-La Junta de Conciliación y Arbitraje citará a las partes a una audiencia de conciliación, en la que procurará avenirlas, sin hacer declaración que prejuzgue sobre la existencia o inexistencia, justificación o injustificación de la huelga.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 457.
 
-La conciliación se ajustará a las normas siguientes:
-
-I. Se observarán las consignadas para el procedimiento conciliatorio ante las Juntas de Conciliación y Arbitraje, en lo que sean aplicables;
-
-II. Si los trabajadores no concurren a la audiencia de conciliación, no correrá el término para la suspensión de las labores;
-
-III. El Presidente de la Junta podrá emplear los medios de apremio para obligar al patrón a que concurra a la audiencia de conciliación; y
-
-IV. Los efectos del aviso a que se refiere el artículo 452, fracción III, no se suspenderán por la audiencia de conciliación ni por la rebeldía del patrón para concurrir a ella.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 458.
 
-En los procedimientos a que se refiere este capítulo se observarán las normas siguientes:
-
-I. Para el funcionamiento del Pleno y de las Juntas Especiales se observará lo dispuesto en el artículo 620, pero el Presidente intervendrá personalmente en las resoluciones siguientes:
-
-a) Falta de personalidad.
-
-b) Incompetencia.
-
-c) Los casos de los artículos 467 y 469.
-
-d) Declaración de inexistencia o ilicitud de la huelga;
-
-II. No serán aplicables las reglas generales respecto de términos para hacer notificaciones y citaciones. Las notificaciones surtirán efectos desde el día y hora en que queden hechas;
-
-III. Todos los días y horas serán hábiles;
-
-IV. No será recusables los miembros de la Junta, ni se admitirán más incidentes que el de falta de personalidad, que podrá promoverse, por el patrón, en el escrito de contestación al emplazamiento, y por los trabajadores, dentro de las cuarenta y ocho horas siguientes a la en que tengan conocimiento de la primera promoción del patrón. La Junta, dentro de las veinticuatro horas siguientes a la promoción, con audiencia de las partes, dictará resolución; y
-
-V. No podrá promoverse cuestión alguna de competencia. Si la Junta, una vez hecho el emplazamiento al patrón, observa que el asunto no es de su competencia, hará la declaratoria correspondiente.
-
-Los trabajadores dispondrán de un término de veinticuatro horas para designar la Junta que consideren competente, a fin de que se le remita el expediente. Las actuaciones conservarán su validez, pero el término para la suspensión de las labores correrá a partir de la fecha en que la Junta designada competente notifique al patrón haber recibido el expediente.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 459.
 
@@ -3878,59 +3848,27 @@ No podrá declararse la inexistencia de una huelga por causas distintas a las se
 
 ###### Artículo 460.
 
-Los trabajadores y los patrones de la empresa o establecimiento afectado, o terceros interesados, podrán solicitar de la Junta de Conciliación y Arbitraje, dentro de las setenta y dos horas siguientes a la suspensión del trabajo, declare la inexistencia de la huelga por las causas señaladas en el artículo anterior.
-
-Si no se solicita la declaración de inexistencia, la huelga será considerada existente para todos los efectos legales.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 461.
 
-En el procedimiento de declaración de inexistencia de la huelga se observarán las normas siguientes:
-
-I. La solicitud para que se declare la inexistencia de la huelga se presentará por escrito, acompañada de una copia para cada uno de los patrones emplazados y de los sindicatos o coalición de trabajadores emplazantes. En la solicitud se indicarán las causas y las fracciones del artículo 459 en que se funde. No podrán aducirse posteriormente causas distintas de inexistencia;
-
-II. La Junta correrá traslado de la solicitud y oirá a las partes en una audiencia, que será también de ofrecimiento y recepción de pruebas, que deberá celebrarse dentro de un término no mayor de cinco días;
-
-III. Las pruebas deberán referirse a las causas de inexistencia contenidas en la solicitud mencionada en la facción I, y cuando la solicitud se hubiese presentado por terceros, las que además tiendan a comprobar su interés. La Junta aceptará únicamente las que satisfagan los requisitos señalados;
-
-IV. La (sic) pruebas se rendirán en la audiencia, salvo lo dispuesto en el artículo siguiente. Sólo en casos excepcionales podrá la Junta diferir la recepción de las que por su naturaleza no puedan desahogarse en la audiencia;
-
-V. Concluida la recepción de las pruebas, la Junta, dentro de las veinticuatro horas siguientes, resolverá sobre la existencia o inexistencia del estado legal de huelga; y
-
-VI. Para la resolución de inexistencia se citará a los representantes de los trabajadores y de los patrones. La resolución se dictará por los que concurran, y en caso de empate, los votos de los ausentes se sumarán al del Presidente.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 462.
 
-Si se ofrece como prueba el recuento de los trabajadores, se observarán las normas siguientes:
-
-I. La Junta señalará el lugar, día y hora en que deba efectuarse;
-
-II. No se computarán los votos de los trabajadores de confianza ni de los trabajadores que hayan ingresado al trabajo con posterioridad a la fecha de presentación del escrito de emplazamiento de huelga;
-
-III. Serán considerados trabajadores de la empresa los que hubiesen sido despedidos del trabajo después de la fecha que se menciona en la fracción anterior;
-
-IV. Se tomarán en consideración únicamente los votos de los trabajadores que concurran al recuento; y
-
-V. Las objeciones a los trabajadores que concurran al recuento, deberán hacerse en el acto mismo de la diligencia, en cuyo caso la Junta citará a una audiencia de ofrecimiento y rendición de pruebas.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 463.
 
-Si la Junta declara la inexistencia legal del estado de huelga:
-
-I. Fijará a los trabajadores un término de veinticuatro horas para que regresen al trabajo;
-
-II. Los apercibirá de que por el sólo hecho de no acatar la resolución, terminarán las relaciones de trabajo, salvo causa justificada;
-
-III. Declarará que el patrón no ha incurrido en responsabilidad y que está en libertad para contratar nuevos trabajadores; y
-
-IV. Dictará las medidas que juzgue convenientes para que pueda reanudarse el trabajo.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 464.
 
-En el procedimiento de calificación de ilicitud de la huelga se observarán las normas contenidas en el artículo 461.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 465.
 
-Si la Junta de Conciliación y Arbitraje declara que la huelga es ilícita, se darán por terminadas las relaciones de trabajo de los huelguistas.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 466.
 
@@ -3942,11 +3880,11 @@ II. En los hospitales, sanatorios, clínicas y demás establecimientos análogos
 
 ###### Artículo 467.
 
-Antes de la suspensión de los trabajos, la Junta de Conciliación y Arbitraje, con audiencia de las partes, fijará el número indispensable de trabajadores que deberá continuar trabajando para que sigan ejecutándose las labores cuya suspensión perjudique gravemente la seguridad y conservación de los locales, maquinaria y materias primas o la reanudación de los trabajos. Para este efecto, la Junta podrá ordenar la práctica de las diligencias que juzgue conveniente.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 468.
 
-Si los huelguistas se niegan a prestar los servicios mencionados en los artículos 466 y 467, el patrón podrá utilizar otros trabajadores. La Junta, en caso necesario, solicitará el auxilio de la fuerza pública a fin de que puedan prestarse dichos servicios.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 469.
 
@@ -3962,21 +3900,11 @@ IV. Por laudo de la Junta de Conciliación y Arbitraje si los trabajadores huelg
 
 ###### Artículo 470.
 
-Si el conflicto motivo de la huelga se somete por los trabajadores a la decisión de la Junta, se seguirá el procedimiento ordinario o el procedimiento para conflictos colectivos de naturaleza económica, según el caso.
-
-Si la Junta declara en el laudo que los motivos de la huelga son imputables al patrón, condenará a éste a la satisfacción de las peticiones de los trabajadores, en cuanto sean procedentes, y al pago de los salarios correspondientes a los días que hubiese durado la huelga. En ningún caso será condenado el patrón al pago de los salarios de los trabajadores que hubiesen declarado una huelga en los términos del artículo 450, fracción VI.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ###### Artículo 471.
 
-Si la huelga tiene por objeto la celebración o revisión del contrato-ley, se observarán las disposiciones de este capítulo, con las modalidades siguientes:
-
-I. El escrito de emplazamiento de huelga se presentará por los trabajadores colectivamente, con una copia para cada uno de los patrones emplazados, o por los trabajadores de cada empresa o establecimiento, ante la Junta de Conciliación y Arbitraje, o ante las autoridades mencionadas en el artículo 452, fracción II;
-
-II. En el escrito de emplazamiento se señalará el día y la hora en que se suspenderán las labores, que deberá ser treinta o más días posteriores a la fecha de su presentación ante la Junta de Conciliación y Arbitraje;
-
-III. Si el escrito se presenta ante la Junta de Conciliación y Arbitraje, el Presidente, bajo su más estricta responsabilidad, hará llegar a los patrones la copia del escrito de emplazamiento directamente dentro de las veinticuatro horas siguientes a la de su recibo, o girará dentro del mismo término los exhortos necesarios, los que deberán desahogarse por la autoridad exhortada, bajo su más estricta responsabilidad, dentro de las veinticuatro horas siguientes a su recepción. Desahogados los exhortos, deberán devolverse dentro del mismo término de veinticuatro horas; y
-
-IV. Si el escrito se presenta ante las otras autoridades a que se refiere la fracción I, éstas, bajo su más estricta responsabilidad, harán llegar directamente a los patrones la copia del escrito de emplazamiento dentro de las veinticuatro horas siguientes a la de su recibo. Una vez hecho el emplazamiento, remitirán el expediente a la Junta de Conciliación y Arbitraje dentro del mismo término de veinticuatro horas.
+(DEROGADO, D.O.F. 4 DE ENERO DE 1980)
 
 ## TITULO NOVENO. Riesgos de Trabajo
 
@@ -5408,7 +5336,9 @@ VII.- De ser procedente, aprobar los convenios que les sean sometidos por las pa
 
 VIII. Las demás que les confieran las leyes.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO I. Principios Procesales
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 601.
 
@@ -5422,7 +5352,9 @@ No funcionarán las Juntas de Conciliación en los Municipios o zonas económica
 
 Son aplicables a las Juntas Locales de Conciliación las disposiciones contenidas en el capítulo anterior. Las atribuciones asignadas a la Secretaría del Trabajo y Previsión Social se ejercerán por los Gobiernos de los Estados y Territorios.
 
-### CAPITULO II. Normas de Competencia
+### CAPITULO II. De la Capacidad y Personalidad
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 604.
 
@@ -5624,7 +5556,9 @@ d) En los casos de empate, el voto del o de los representantes ausentes se sumar
 
 III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o Presidente Especial y del cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos del cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial, dará cuenta al Secretario del Trabajo y Previsión Social, para que designe las personas que los substituyan. En caso de empate, los votos de los ausentes se sumarán al del Presidente.
 
-### CAPITULO III. Recusaciones y Excusas
+### CAPITULO III. De las Competencias
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 621.
 
@@ -5816,7 +5750,7 @@ III. No informar oportunamente al Presidente de la Junta de la conducta irregula
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-IV.- No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+IV. No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
 
 V. Las demás que establezcan las leyes.
 
@@ -5868,7 +5802,9 @@ TITULO TRECE
 
 Representantes de los Trabajadores y de los Patrones
 
-### CAPITULO IV. Procedimiento ante las Juntas de Conciliación
+### CAPITULO IV. De los Impedimentos y Excusas
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 648.
 
@@ -6148,7 +6084,9 @@ V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
 
 VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
 
-### CAPITULO V. Procedimiento para la Tramitación y Resolución de los Conflictos Individuales y de los Colectivos de Naturaleza Jurídica
+### CAPITULO V. De la Actuación de las Juntas
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 676.
 
@@ -6188,9 +6126,9 @@ Tienen derecho a participar en la elección los sindicatos de trabajadores y de 
 
 El Secretario del Trabajo y Previsión Social podrá delegar en las autoridades de las Entidades Federativas, total o parcialmente, las atribuciones que le corresponden en la certificación de padrones y credenciales y en el funcionamiento de las convenciones.
 
-### CAPITULO VI. Procedimientos Especiales
+### CAPITULO VI. De los Términos Procesales
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 683.
 
@@ -6210,807 +6148,2065 @@ TITULO CATORCE
 
 Derecho Procesal del Trabajo
 
-### CAPITULO VII. Procedimiento para la Tramitación y Resolución de los Conflictos Colectivos de Naturaleza Económica
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO VIII. Recursos
+### CAPITULO VII. De las Notificaciones
 
-### CAPITULO IX. Providencias Cautelares
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO X. Tercerías
+### CAPITULO VIII. De los Exhortos y Despachos
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO IX. De los Incidentes
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO X. De la Acumulación
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 685.
 
-En los procesos de trabajo no se exige forma determinada en las comparecencias, escritos, promociones o alegaciones. Las partes deben precisar los puntos petitorios e indicar sus fundamentos.
+El proceso del derecho del trabajo será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. Las Juntas tendrán la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez del proceso.
+
+Cuando la demanda del trabajador sea incompleta, en cuanto a que no comprenda todas las prestaciones que de acuerdo con esta Ley deriven de la acción intentada o procedente, conforme a los hechos expuestos por el trabajador, la Junta, en el momento de admitir la demanda, subsanará ésta. Lo anterior sin perjuicio de que cuando la demanda sea obscura o vaga se proceda en los términos previstos en el artículo 873 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 686.
 
-Cuando los trabajadores no conozcan con exactitud el nombre y apellido del patrón o la denominación o razón social de la empresa, deberán precisar en su escrito inicial la ubicación de la empresa o establecimiento, oficina o lugar en donde se prestó el trabajo y la actividad a que se dedica el patrón, por lo menos.
+El proceso del derecho del trabajo y los procedimientos paraprocesales, se sustanciarán y decidirán en los términos señalados en la presente Ley.
+
+Las Juntas ordenarán que se corrija cualquier irregularidad u omisión que notaren en la sustanciación del proceso, para el efecto de regularizar el procedimiento, sin que ello implique que puedan revocar sus propias resoluciones, según lo dispone el artículo 848 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 687.
 
-Las partes, en su primera comparecencia o escrito, deben designar casa o local ubicado en el lugar de residencia de la Junta, a fin de que se les hagan las notificaciones personales. Si alguna de ellas no hace la designación, las notificaciones personales se le harán de conformidad con lo dispuesto en el artículo 690.
+En las comparecencias, escritos, promociones o alegaciones, no se exigirá forma determinada; pero las partes deberán precisar los puntos petitorios.
 
-Asimismo, deben designar la casa o local en que deba hacerse la primera notificación a la persona o personas contra quienes promuevan. Cuando haya desaparecido la persona, la notificación se hará en el domicilio que se hubiese señalado de conformidad con lo dispuesto en el artículo 25, fracción I, y faltando esa designación, la notificación se hará en el último local o lugar de trabajo en donde se prestaron los servicios y se fijará copia de la demanda en los estrados de la Junta.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 688.
 
-Son personales las notificaciones siguientes:
+Las autoridades administrativas y judiciales, están obligadas, dentro de la esfera de sus respectivas competencias, a auxiliar a las Juntas de Conciliación y a las de Conciliación y Arbitraje; si se negaren a ello, serán responsables en los términos de las leyes aplicables al caso. Las Juntas se auxiliarán entre sí en el ejercicio de sus funciones.
 
-I. El emplazamiento a juicio y en todo caso en que se trate de la primera notificación;
+> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-II. La primera resolución que dicten las Juntas de Conciliación y Arbitraje en los expedientes que les remitan las Juntas de Conciliación o la en que se hubiese declarado incompetente;
+### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
 
-III. El auto de la Junta en que haga saber a las partes que se recibió la sentencia de amparo;
-
-IV. La resolución que ordene la reanudación del procedimiento, cuya tramitación estuviese interrumpida por cualquier causa legal, y la que cite a absolver posiciones;
-
-V. La resolución que deba notificarse a terceros;
-
-VI. La resolución que cite para la audiencia a que se refiere el artículo 727;
-
-VII. El laudo; y
-
-VIII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
-
-### CAPITULO I. Disposiciones Generales
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 689.
 
-La primera notificación se hará de conformidad con las normas siguientes:
+Son partes en el proceso del trabajo, las personas físicas o morales que acrediten su interés jurídico en el proceso y ejerciten acciones u opongan excepciones.
 
-I. El actuario se cerciorará de que la persona que deba ser notificada habita, trabaja, o tiene su domicilio en la casa o local designado para hacer la notificación;
-
-II. Si está presente el interesado o su representante, el Actuario le leerá la resolución que deba ser notificada entregándole copia de la misma;
-
-III. Si no está presente la persona que deba ser notificada o su representante, se le dejará citatorio para que espere al día siguiente a una hora determinada;
-
-IV. Si el día y hora señalados no está presente el interesado o su representante, la notificación se hará a cualquier persona que se encuentre en la casa o local y si estuvieren estos cerrados, se fijará una copia de la resolución en la puerta de entrada; y
-
-V. En el caso del párrafo final del artículo 687, el Actuario se cerciorará de que el local designado era el en que se prestaron los servicios. Para hacer la notificación se observarán las disposiciones contenidas en las fracciones anteriores, en lo que sean aplicables.
-
-El Actuario asentará razón en autos.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 690.
 
-Las ulteriores notificaciones personales se harán al interesado o a su representante en el local de la Junta si concurre a él el mismo día en que se dicte la resolución, o en la casa o local que hubiese designado, si está presente, y en caso contrario se le dejará una copia de la resolución, autorizada por el Actuario. Si la casa o local está cerrado, se fijará la copia en la puerta de entrada o en el lugar de trabajo.
+Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, podrán intervenir en él, comprobando su interés jurídico en el mismo, o ser llamadas a juicio por la Junta.
 
-El Actuario cumplirá lo dispuesto en el párrafo final del artículo anterior.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 691.
 
-Las notificaciones que no sean personales se harán a las partes mediante publicación en los estrados de la Junta. El Secretario fijará las listas de las notificaciones, una hora antes de que terminen las labores, por lo menos, y asentará razón en autos.
+Los menores trabajadores tienen capacidad para comparecer a juicio sin necesidad de autorización alguna, pero en el caso de no estar asesorados en juicio, la Junta solicitará la intervención de la Procuraduría de la Defensa del Trabajo para tal efecto. Tratándose de menores de 16 años, la Procuraduría de la Defensa del Trabajo les designará un representante.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 692.
 
-Las notificaciones personales surtirán sus efectos el día y hora en que se practiquen; las que no lo sean, al día siguiente de su publicación.
+Las partes podrán comparecer a juicio en forma directa o por conducto de apoderado legalmente autorizado.
 
-El Pleno de las Juntas Federal y Locales de Conciliación y Arbitraje podrá acordar la publicación de un boletín que contenga la lista de las notificaciones a que se refiere la parte final del párrafo anterior, en cuyo caso surtirán efectos al día siguiente de su publicación.
+Tratándose de apoderado, la personalidad se acreditará conforme a las siguientes reglas:
+
+I. Cuando el compareciente actúe como apoderado de persona física, podrá hacerlo mediante poder notarial o carta poder firmada por el otorgante y ante dos testigos, sin necesidad de ser ratificada ante la Junta;
+
+II. Cuando el apoderado actúe como representante legal de persona moral, deberá exhibir el testimonio notarial respectivo que así lo acredite;
+
+III. Cuando el compareciente actúe como apoderado de persona moral, podrá acreditar su personalidad mediante testimonio notarial o carta poder otorgada ante dos testigos, previa comprobación de que quien le otorga el poder está legalmente autorizado para ello; y
+
+IV. Los representantes de los sindicatos acreditarán su personalidad con la certificación que les extienda la Secretaría del Trabajo y Previsión Social, o la Junta Local de Conciliación y Arbitraje, de haber quedado registrada la directiva del Sindicato.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 693.
 
-Las notificaciones deberán hacerse en horas hábiles, con una anticipación de veinticuatro horas, por lo menos, del día y hora en que deba tener lugar la diligencia, salvo lo dispuesto en el artículo 752.
+Las Juntas podrán tener por acreditada la personalidad de los representantes de los trabajadores o sindicatos, sin sujetarse a las reglas del artículo anterior, siempre que de los documentos exhibidos lleguen al convencimiento de que efectivamente se representa a la parte interesada.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 694.
 
-Las notificaciones hechas al representante de cualquiera de las partes acreditado ante la Junta, surtirán los mismos efectos que si se hubiesen hecho a ellas.
+Los trabajadores, los patrones y las organizaciones sindicales, podrán otorgar poder mediante simple comparecencia, previa identificación, ante las Juntas del lugar de su residencia, para que los representen ante cualquier autoridad del trabajo; la personalidad se acreditará con la copia certificada que se expida de la misma.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 695.
 
-Son nulas las notificaciones que no se practiquen de conformidad con las disposiciones de los artículos anteriores. Propuesta la cuestión de nulidad, la Junta, después de oír a las partes y recibir las pruebas que estime conveniente, las que deberán referirse exclusivamente a los hechos que sirvan de base a la cuestión de nulidad, dictará resolución.
+Los representantes o apoderados podrán acreditar su personalidad conforme a los lineamientos anteriores, en cada uno de los juicios en que comparezcan, exhibiendo copia simple fotostática para su cotejo con el documento original o certificado por autoridad, el cual les será devuelto de inmediato, quedando en autos la copia debidamente certificada.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 696.
 
-No obstante lo dispuesto en el artículo anterior, si la persona se manifiesta sabedora de la resolución antes de promover la cuestión de nulidad, la notificación mal hecha u omitida surtirá sus efectos como si estuviese hecha conforme a esta Ley. En este caso, el incidente de nulidad que se promueva será desechado de plano.
+El poder que otorgue el trabajador para ser representado en juicio, se entenderá conferido para demandar todas las prestaciones principales y accesorias que correspondan, aunque no se exprese en el mismo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 697.
 
-Los escritos que se presenten ante la Junta se turnarán diariamente al Pleno o a la Junta Especial que corresponda.
+Siempre que dos o más personas ejerciten la misma acción u opongan la misma excepción en un mismo juicio, deben litigar unidas y con una representación común, salvo que los colitigantes tengan intereses opuestos.
 
-### CAPITULO II. Procedimiento de Embargo
+Si se trata de las partes actoras, el nombramiento de representante común deberá hacerse en el escrito de demanda, o en la audiencia de conciliación, demanda y excepciones y ofrecimiento y admisión de pruebas; si se trata de las demandadas, el nombramiento se hará en el escrito de contestación o en la audiencia a que se ha hecho mención. Si el nombramiento no lo hicieran los interesados dentro de los términos señalados, la Junta de Conciliación y Arbitraje lo hará escogiéndolo de entre los propios interesados.
+
+El representante común tendrá los derechos, obligaciones y responsabilidad inherentes a un mandatario judicial.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO XII. De las Pruebas
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 698.
 
-Las diligencias que deban desahogarse en lugar distinto del en que resida la Junta, se encomendarán por medio de exhorto al Presidente de la Junta de Conciliación o de Conciliación y Arbitraje o al juez más próximo al lugar en que deban practicarse.
+Será competencia de las Juntas Locales de Conciliación y de Conciliación y Arbitraje de las Entidades Federativas, conocer de los conflictos que se susciten dentro de su jurisdicción, que no sean de la competencia de las Juntas Federales.
 
-Las partes podrán designar, ante la Junta exhortante, domicilio para oír notificaciones en el lugar de residencia de la autoridad exhortada. A falta de señalamiento de domicilio ante la Junta o autoridad exhortada, las notificaciones se harán por éstas, mediante publicación en sus estrados u oficinas.
+Las Juntas Federales de Conciliación y Federal de Conciliación y Arbitraje, conocerán de los conflictos de trabajo cuando se trate de las ramas industriales, empresas o materias contenidas en los artículos 123, Apartado "A" fracción XXXI de la Constitución Política y 527 de esta Ley.
 
-No se aceptará la práctica de diligencias en el extranjero, salvo que se demuestre que son absolutamente indispensables para probar los hechos fundamentales de la demanda o de la contestación.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 699.
 
-No obstante lo dispuesto en el artículo anterior, las Juntas podrán constituirse en cualquier lugar dentro de su competencia territorial, a fin de practicar las diligencias que juzguen convenientes.
+Cuando en los conflictos a que se refiere el párrafo primero del artículo que antecede, se ejerciten en la misma demanda acciones relacionadas con obligaciones en materia de capacitación y adiestramiento o de seguridad e higiene, el conocimiento de estas materias será de la competencia de la Junta Especial de la Federal de Conciliación y Arbitraje, de acuerdo a su jurisdicción.
+
+En el supuesto previsto en el párrafo anterior, la Junta Local, al admitir la demanda, ordenará se saque copia de la misma y de los documentos presentados por el actor, las que remitirá inmediatamente a la Junta Federal para la sustanciación y resolución, exclusivamente, de las cuestiones sobre capacitación y adiestramiento, y de seguridad e higiene, en los términos señalados en esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 700.
 
-Los exhortos dirigidos al extranjero se remitirán por la vía diplomática.
-
-###### Artículo 701.
-
-Los exhortos se proveerán dentro de los tres días siguientes a su recepción y se diligenciarán dentro de los cinco siguientes, a no ser que la práctica de la diligencia exija necesariamente mayor tiempo; en este caso, la autoridad exhortada fijará el que juzgue necesario. Una vez cumplimentados los exhortos se devolverán a la autoridad exhortante.
-
-###### Artículo 702.
-
-Cuando se demore el cumplimiento de un exhorto se recordará de oficio o a instancia de parte a la autoridad exhortada. Si a pesar del recordatorio continúa la demora, la autoridad exhortante lo pondrá en conocimiento del superior inmediato del exhortado.
-
-###### Artículo 703.
-
-Los términos empezarán a correr el día siguiente al en que surta efectos la notificación y se contará en ellos el día del vencimiento.
-
-###### Artículo 704.
-
-En ningún término se contarán los días en que no puedan tener lugar actuaciones ante la Junta, salvo disposición contraria de esta Ley.
-
-###### Artículo 705.
-
-Las actuaciones de las Juntas deben practicarse en días y horas hábiles, bajo pena de nulidad.
-
-###### Artículo 706.
-
-Son días hábiles todos los del año, con excepción de los días de vacaciones concedidas por la ley al personal de la Junta, los feriados, los domingos y los de descanso obligatorio.
-
-### CAPITULO III. Remates
-
-###### Artículo 707.
-
-Son horas hábiles las comprendidas entre las siete y las diecinueve horas.
-
-###### Artículo 708.
-
-Las Juntas, los Presidentes de las mismas y los de las Juntas Especiales, pueden habilitar los días y horas inhábiles para que se practiquen diligencias, cuando hubiese causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
-
-###### Artículo 709.
-
-La personalidad se acreditará de conformidad con las leyes que la rijan, salvo las modificaciones siguientes:
-
-I. Los trabajadores, los patrones y las organizaciones sindicales, pueden otorgar poder ante la Junta de Conciliación o ante la de Conciliación y Arbitraje del lugar de su residencia, para que sean representados ante cualquier autoridad del trabajo. La personalidad se acreditará con la copia certificada correspondiente;
-
-II. Los representantes de los sindicatos acreditarán su personalidad con la certificación que les extienda la Secretaría del Trabajo y Previsión Social o la Junta Local de Conciliación y Arbitraje, de haber quedado registrada la directiva del sindicato; y
-
-III. Las Juntas pueden tener por acreditada la personalidad de cualquiera de las partes, sin sujetarse a las normas legales, siempre y cuando de los documentos exhibidos se llegue al convencimiento de que efectivamente se representa a la persona interesada.
-
-###### Artículo 710.
-
-Las audiencias serán públicas. La Junta podrá ordenar, de oficio o a instancia de parte, que sean a puerta cerrada cuando lo exija el mejor despacho de los negocios, la moral o las buenas costumbres.
-
-###### Artículo 711.
-
-La Junta dictará las resoluciones dentro de un término no mayor de veinticuatro horas, salvo disposición en contrario de esta Ley.
-
-###### Artículo 712.
-
-Las resoluciones de las Juntas deberán firmarse por los representantes que las voten y autorizarse por el Secretario.
-
-Lo actuado en las audiencias se hará constar en actas firmadas por las personas que intervengan en ellas y serán autorizadas por el Secretario.
-
-Toda actuación deberá ser autorizada por el Secretario, excepción hecha de las diligencias encomendadas a otros funcionarios.
-
-###### Artículo 713.
-
-Si alguno o todos los representantes de los trabajadores o de los patrones que concurran a la audiencia o diligencia se niegan a votar una resolución, se observarán las normas siguientes:
-
-I. Serán requeridos por el Secretario;
-
-II. Las resoluciones se tomarán, salvo lo dispuesto en la fracción siguiente, por el Presidente o Auxiliar y el o los representantes que la voten. En caso de empate, el voto de los representantes ausentes se sumará al del Presidente o Auxiliar; y
-
-III. Si se trata del laudo:
-
-a) Si después del requerimiento insisten en su negativa, el Presidente de la Junta o el de la Junta Especial, llamará a los suplentes, quedando excluidos del conocimiento del negocio los que se hubiesen negado a votar el laudo.
-
-> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1970)</small>
-
-b) Si los suplentes no se presentan a la Junta dentro del término que se les señale, que no podrá ser mayor de tres días, o se niegan a votar el laudo, se observará lo dispuesto en la parte final del artículo 620, fracción III.
-
-###### Artículo 714.
-
-Si votada una resolución, uno o más de los representantes se niegan a firmarla, serán requeridos en el mismo acto por el Secretario y si insisten en su negativa, previa certificación del mismo Secretario, la resolución producirá sus efectos.
-
-###### Artículo 715.
-
-Los Presidentes de las Juntas, los de las Juntas Especiales y los Auxiliares, tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos. A este fin, podrán imponer correcciones disciplinarias a las partes, a sus representantes y a cualquier persona que interrumpa el orden o falte al respeto o consideración debidos a la Junta.
-
-###### Artículo 716.
-
-Las correcciones disciplinarias que pueden imponerse en los casos del artículo anterior son:
-
-I. Amonestación;
-
-II. Multa que no podrá exceder de mil pesos. Si se trata de un trabajador, la multa no excederá del importe señalado en el último párrafo del artículo 21 constitucional; y
-
-III. Expulsión del local de la Junta. La persona que se resista a cumplir la orden será expulsada del local con la ayuda de la fuerza pública y se le impondrá una multa, de conformidad con lo dispuesto en la fracción anterior.
-
-###### Artículo 717.
-
-Los Presidentes de las Juntas podrán asimismo imponer correcciones disciplinarias a los Auxiliares, Secretarios, Actuarios y personal administrativo, por morosidad en el desempeño de sus funciones o por incurrir en las faltas de disciplina a que se refiere el artículo 715, observándose lo dispuesto en el artículo 636.
-
-###### Artículo 718.
-
-Las correcciones disciplinarias se impondrán de plano. Serán recurribles, de conformidad con lo dispuesto en el artículo 820.
-
-###### Artículo 719.
-
-Cuando los hechos que motiven la imposición de una corrección disciplinaria constituyan además un delito, la Junta ordenará se levante un acta y la turnará al Ministerio Público.
-
-###### Artículo 720.
-
-El Presidente de la Junta, los de las Juntas Especiales y los Auxiliares podrán emplear indistintamente cualquiera de los medios de apremio que en seguida se enumeran, para que las personas cuya presencia estimen necesaria, concurran oportunamente a las audiencias y para asegurar el cumplimiento de las resoluciones:
-
-I. Auxilio de la fuerza pública;
-
-II. Multa hasta de mil pesos, o en su defecto, arresto hasta por quince días. Si se trata de un trabajador la multa no excederá del importe señalado en el último párrafo del artículo 21 constitucional; y
-
-III. Arresto por treinta y seis horas.
-
-###### Artículo 721.
-
-Siempre que dos o más personas ejerciten la misma acción u opongan la misma excepción deben litigar unidas y bajo una misma representación.
-
-###### Artículo 722.
-
-Cuando haya varias acciones contra una misma persona y respecto de un mismo asunto, deben intentarse en una sola demanda todas las que no sean contrarias, y por el ejercicio de una o más, quedan extinguidas las otras.
-
-###### Artículo 723.
-
-Las personas que puedan ser afectadas por la resolución que se dé a un conflicto, están facultadas para intervenir en él, comprobando su interés en el mismo.
-
-La Junta, a solicitud de cualquiera de las partes, podrá llamar al juicio a las personas a que se refiere el párrafo anterior, siempre que de las actuaciones se desprenda su interés en él.
-
-###### Artículo 724.
-
-Admitida por una Junta una demanda para la resolución de un conflicto de trabajo, no podrá presentarse una nueva demanda sobre esa controversia ante la misma u otra Junta, en tanto no se haya dictado el laudo. Si no obstante esta prohibición se da entrada a otra demanda procederá la acumulación, la que deberá solicitarse ante la Junta que conozca del segundo juicio. La Junta citará a las partes a una audiencia, en la que después de oírlas y recibir sus pruebas, dictará resolución. Si la Junta resuelve que el segundo juicio debe acumularse al primero, remitirá el expediente a la Junta que conozca de éste. El incidente se tramitará por cuerda separada.
-
-Las actuaciones del segundo juicio no producirán efecto alguno.
-
-###### Artículo 725.
-
-Las cuestiones incidentales, salvo los casos previstos en esta Ley, se resolverán juntamente con lo principal, a menos que la Junta estime que deben resolverse previamente o que se promuevan después de dictado el laudo. En estos casos, la Junta podrá ordenar que se suspenda el procedimiento o que se tramite el incidente por cuerda separada y citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas, dictará resolución.
-
-> <small>(REFORMADO, D.O.F 2 DE JULIO DE 1976)</small>
-
-###### Artículo 726.
-
-Se tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de seis meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por transcurrido dicho término si están desahogadas las pruebas del actor o está pendiente de dictarse resolución sobre alguna promoción de las partes o la práctica de alguna diligencia, o la recepción de informes o copias que se hubiesen solicitado.
-
-###### Artículo 727.
-
-Cuando se solicite que se tenga por desistido al actor de las acciones intentadas, la Junta citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
-
-###### Artículo 728.
-
-El proceso se interrumpe por muerte o incapacidad mental de cualquiera de las partes, salvo que estuviese debidamente representada. Si la causa de la interrupción se justifica antes de dictar el laudo y dentro de los tres meses siguientes a la fecha en que ocurrió, se declarará la nulidad de lo actuado a partir de dicha fecha. No es obstáculo para la declaración de nulidad que se hubiese tenido al actor por desistido de la acción de conformidad con lo dispuesto en el artículo 726.
-
-###### Artículo 729.
-
-Las autoridades administrativas y judiciales están obligadas, dentro de su esfera de competencia, a auxiliar a las Juntas de Conciliación y a las de Conciliación y Arbitraje, en el ejercicio de sus funciones.
-
-###### Artículo 730.
-
-La competencia por razón de la materia se rige por las disposiciones contenidas en los artículos 123, Apartado “A”, fracción XXXI de la Constitución Política y 527 de esta Ley.
-
-###### Artículo 731.
-
 La competencia por razón del territorio se rige por las normas siguientes:
 
-I. Si se trata de Juntas de Conciliación, la del lugar de prestación de los servicios;
+I. Si se trata de Juntas de Conciliación, la del lugar de prestación de servicios;
 
 II. Si se trata de la Junta de Conciliación y Arbitraje, el actor puede escoger entre:
 
-a) La Junta del lugar de prestación de los servicios. Si éstos se prestaron en varios lugares, la Junta de cualquiera de ellos.
+a) La Junta del lugar de prestación de los servicios; si éstos se prestaron en varios lugares, será la Junta de cualquiera de ellos.
 
 b) La Junta del lugar de celebración del contrato.
 
-c) La Junta del domicilio del demandado;
+c) La Junta del domicilio del demandado.
 
-III. En los conflictos colectivos, la Junta del lugar en que esté ubicada la empresa o establecimiento;
+III. En los conflictos colectivos de jurisdicción federal, la Junta Federal de Conciliación y Arbitraje, en los términos del artículo 606 de esta Ley; en los conflictos colectivos de jurisdicción local, la del lugar en que esté ubicada la empresa o establecimiento;
 
-IV. Si se trata de la cancelación del registro de un sindicato, la Junta del lugar donde se hizo; y
+IV. Cuando se trate de la cancelación del registro de un sindicato, la Junta del lugar donde se hizo;
 
-V. En los conflictos entre patrones y trabajadores entre sí, la Junta de Conciliación y Arbitraje del domicilio del demandado.
+V. En los conflictos entre patrones o trabajadores entre sí, la Junta del domicilio del demandado; y
 
-###### Artículo 732.
+VI. Cuando el demandado sea un sindicato, la Junta del domicilio del mismo.
 
-No se considera excepción de incompetencia, la defensa consistente en la inexistencia de la relación de trabajo.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 733.
+###### Artículo 701.
 
-Las cuestiones de competencia pueden promoverse únicamente por declinatoria.
+La Junta de Conciliación y las de Conciliación y Arbitraje, de oficio deberán declararse incompetentes en cualquier estado del proceso, hasta antes de la audiencia de desahogo de pruebas, cuando existan en el expediente datos que lo justifiquen. Si la Junta se declara incompetente, con citación de las partes, remitirá de inmediato el expediente a la Junta o Tribunal que estime competente; si ésta o aquél, al recibir el expediente se declara a su vez incompetente, remitirá de inmediato el expediente a la autoridad que debe decidir la competencia, en los términos del artículo 705 de esta Ley.
 
-###### Artículo 734.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-La declinatoria debe oponerse en la audiencia de demanda y excepciones, como excepción de previo y especial pronunciamiento. La Junta, después de oír al actor y recibir las pruebas que estime conveniente, las que deberán referirse exclusivamente a la cuestión de competencia, dictará resolución.
+###### Artículo 702.
 
-###### Artículo 735.
+No se considerará excepción de incompetencia la defensa consistente en la negativa de la relación de trabajo.
 
-La Junta debe declararse incompetente en cualquier estado del proceso, cuando existan en el expediente datos que lo justifiquen. La Junta, antes de dictar resolución, citará a las partes, dentro de un término de cinco días, a una audiencia de pruebas y alegatos.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 736.
+###### Artículo 703.
 
-Cuando una Junta Especial advierta que el conflicto de que conoce es de la competencia de otra Junta Especial, citará a las partes a una audiencia de pruebas y alegatos y dictará resolución dentro de un término de tres días.
+Las cuestiones de competencia, en materia de trabajo, sólo pueden promoverse por declinatoria.
 
-Si se declara incompetente remitirá los autos a la Junta Especial que estime competente. Si ésta, al recibir el expediente, se declara a su vez incompetente, lo remitirá al Pleno, para que éste determine cuál es la Junta Especial que debe continuar conociendo del conflicto.
+La declinatoria deberá oponerse al iniciarse el período de demanda y excepciones en la audiencia respectiva, acompañando los elementos en que se funde; en ese momento, la Junta después de oír a las partes y recibir las pruebas que estime convenientes, las que deberán referirse exclusivamente a la cuestión de incompetencia, dictará en el acto resolución.
 
-###### Artículo 737.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Es nulo todo lo actuado ante la Junta incompetente, salvo lo dispuesto en el artículo anterior y en el 458, fracción V.
+###### Artículo 704.
 
-###### Artículo 738.
+Cuando una Junta Especial considere que el conflicto de que conoce, es de la competencia de otra de la misma Junta, con citación de las partes, se declarará incompetente y remitirá los autos a la Junta Especial que estime competente. Si ésta al recibir el expediente se declara a su vez incompetente, lo remitirá a la autoridad que deba decidir la cuestión de competencia, para que ésta determine cuál es la Junta Especial que debe continuar conociendo del conflicto.
 
-Los representantes del Gobierno, de los trabajadores y de los patrones, podrán ser recusados con causa legítima.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 739.
+###### Artículo 705.
 
-Son causas legítimas de recusación:
+Las competencias se decidirán:
 
-I. El parentesco de consanguinidad dentro del cuarto grado o el de afinidad dentro del segundo grado, con cualquiera de las partes;
+I. Por el Pleno de las Juntas Locales de Conciliación y Arbitraje, cuando se trate de:
 
-II. El mismo parentesco, dentro del segundo grado, con el representante legal, abogado o procurador de cualquiera de las partes;
+a) Juntas de Conciliación de la misma Entidad Federativa, y
 
-III. Estar o haber sido acusado por alguna de las partes como autor de un delito;
+b) Las diversas Juntas Especiales de la Junta de Conciliación y Arbitraje de la misma Entidad Federativa.
 
-IV. Ser o haber sido denunciante o acusador privado de alguna de las partes;
+II. Por el Pleno de la Junta Federal de Conciliación y Arbitraje, cuando se trate de las Juntas Federales de Conciliación y de las Especiales de la misma; entre sí recíprocamente.
 
-V. Seguir un proceso con cualquiera de las partes;
+III. Por la Cuarta Sala de la Suprema Corte de Justicia de la Nación cuando se suscite entre:
 
-VI. Ser apoderado o defensor de alguna de las partes, perito o testigo en el proceso o haber emitido dictamen sobre el mismo;
+a) Juntas Locales o Federales de Conciliación y Arbitraje y el Tribunal Federal de Conciliación y Arbitraje.
 
-VII. Ser socio, arrendatario, trabajador o patrón o depender económicamente de alguna de las partes;
+b) Juntas Locales y Juntas Federales de Conciliación y Arbitraje.
 
-VIII. Ser o haber sido tutor o curador o haber estado bajo la tutela o curatela de alguna de las partes; y
+c) Juntas Locales de Conciliación y Arbitraje de diversas Entidades Federativas.
 
-IX. Ser deudor, acreedor, heredero o legatario de cualquiera de las partes.
+d) Juntas Locales o Federal de Conciliación y Arbitraje y otro órgano jurisdiccional.
 
-###### Artículo 740.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Los trabajadores y los patrones podrán recusar a sus respectivos representantes propietarios y suplentes, cuando éstos pertenezcan a alguna organización sindical antagónica.
+###### Artículo 706.
 
-###### Artículo 741.
+Será nulo todo lo actuado ante la Junta incompetente, salvo el acto de admisión de la demanda y lo dispuesto en los artículos 704 y 928 fracción V de esta Ley o, en su caso, cuando se haya celebrado convenio que ponga fin al negocio, en el período de conciliación.
 
-Los representantes del Gobierno, de los trabajadores o de los patrones, en quienes concurra alguna de las causas señaladas en los dos artículos anteriores, deberán excusarse del conocimiento del negocio.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 742.
+### CAPITULO XIII. De las Resoluciones Laborales
 
-En la tramitación de las recusaciones se observarán las normas siguientes:
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-> <small>(F. DE E., D.O.F. 30 DE ABRIL DE 1970)</small>
+###### Artículo 707.
+
+Los representantes del Gobierno, de los trabajadores o de los patrones ante las Juntas y los auxiliares, están impedidos para conocer de los juicios en que intervengan, cuando:
+
+I. Tengan parentesco por consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de las partes;
+
+II. Tengan el mismo parentesco, dentro del segundo grado, con el representante legal, abogado o procurador de cualquiera de las partes;
+
+III. Tengan interés personal directo o indirecto en el juicio;
+
+IV. Alguno de los litigantes o abogados haya sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o se haya constituido en parte en causa criminal, seguida contra cualquiera de ellos; siempre que se haya ejercitado la acción penal correspondiente;
+
+V. Sea apoderado o defensor de alguna de las partes o perito o testigo, en el mismo juicio, o haber emitido opinión sobre el mismo;
+
+VI. Sea socio, arrendatario, trabajador o patrón o que dependa económicamente de alguna de las partes o de sus representantes;
+
+VII. Sea tutor o curador, o haber estado bajo la tutela o curatela de las partes o de sus representantes; y
+
+VIII. Sea deudor, acreedor, heredero o legatario de cualquiera de las partes o de sus representantes.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 708.
+
+Los representantes del Gobierno, de los trabajadores o de los patrones ante las Juntas, y los auxiliares, no son recusables, pero deberán excusarse de conocer de los juicios en que intervengan, cuando se encuentren comprendidos en alguno de los supuestos a que se refiere el artículo anterior. De no hacerlo incurrirán en la responsabilidad a que se refiere esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 709.
+
+Las excusas se calificarán de plano, y en su tramitación se observarán las normas siguientes:
 
 I. Las instruirán y decidirán:
 
-a) El Presidente de la Junta cuando el recusado sea el Presidente de una Junta Especial, el Auxiliar o un representante de los trabajadores o de los patrones.
+a) El Presidente de la Junta, cuando se trate del Presidente de una Junta Especial o de la de Conciliación, del Auxiliar o del Representante de los Trabajadores o de los Patrones.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+b) El Secretario del Trabajo y Previsión Social, tratándose del Presidente de la Junta Federal y el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, cuando se trate del Presidente de la Junta Local.
 
-b).- El Secretario del Trabajo y Previsión Social, el Gobernador del Estado o el Jefe del Departamento del Distrito Federal, cuando el recusado sea el Presidente de la Junta;
+II. La excusa se deberá promover por escrito y bajo protesta de decir verdad, ante las autoridades señaladas en la fracción anterior, dentro de las 48 horas siguientes a la en que se tenga conocimiento del impedimento. Al solicitarse se acompañarán las pruebas que lo justifiquen;
 
-II. La recusación debe proponerse al concluir la audiencia de demanda y excepciones. Cuando la causa sea posterior a ésta o no se tuviese conocimiento de ella, dentro de los tres días siguientes al en que se tenga noticia de su existencia;
+III. La autoridad que decida sobre la excusa, tan pronto la reciba, resolverá de plano con los elementos que tenga para ello o podrá señalar día y hora para que comparezca ante ella el interesado, para que después de oírlo y recibir pruebas de inmediato dicte resolución; y
 
-III. En ningún caso podrá hacerse valer la recusación después de cerrada la tramitación del expediente;
+IV. Si la excusa es declarada improcedente, la autoridad competente podrá sancionar, al que se excusó, con amonestación o suspensión del cargo hasta por ocho días y en caso de reincidencia en el mismo asunto, será destituido.
 
-IV. Interpuesta en tiempo la recusación, la Junta remitirá el expediente a la autoridad que deba decidirla. En caso contrario la desechará de plano; y
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-V. La autoridad que deba decidir la recusación, tan pronto reciba el expediente, señalará día y hora para que comparezcan ante ella el recusado y la persona que la hizo valer. En esa audiencia oirá lo que expongan los interesados, recibirán las pruebas que ofrezcan y dictará resolución.
+###### Artículo 710.
 
-> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1970)</small>
+Cuando alguna de las partes conozca que el representante del Gobierno, de los patrones o de los trabajadores ante la Junta o el Auxiliar se encuentran impedidos para conocer de algún juicio y no se abstengan de hacerlo, podrán ocurrir ante las autoridades señaladas en la fracción I del artículo anterior, haciendo por escrito la denuncia, a la que deberán acompañar las pruebas que acrediten el impedimento y la que se tramitará conforme al procedimiento señalado en la Fracción III del citado precepto.
+
+Si se comprueba el impedimento se le substituirá en la siguiente forma:
+
+a) El Presidente de la Junta por el Secretario General de mayor antigüedad;
+
+b) El Presidente de la Junta Especial por el Auxiliar de la propia Junta, y éste por el Secretario;
+
+c) El Presidente de la Junta Permanente de Conciliación por el Secretario de la misma; y
+
+d) Los representantes de los trabajadores y de los patrones por sus respectivos suplentes.
+
+Independientemente de la substitución, el funcionario impedido será sancionado, en los términos previstos en la fracción IV del artículo 709 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 711.
+
+El procedimiento no se suspenderá mientras se tramite la excusa salvo disposición en contrario de la Ley.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO XIV. De la Revisión de los Actos de Ejecución
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 712.
+
+Cuando el trabajador ignore el nombre del patrón o la denominación o razón social de donde labora o laboró, deberá precisar cuando menos en su escrito inicial de demanda el domicilio de la empresa, establecimiento, oficina o lugar en donde prestó o presta el trabajo y la actividad a que se dedica el patrón.
+
+La sola presentación de la demanda en los términos del párrafo anterior interrumpe la prescripción respecto de quien resulte ser el patrón del trabajador.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 713.
+
+En las audiencias que se celebren se requerirá de la presencia física de las partes o de sus representantes o apoderados, salvo disposición en contrario de la Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 714.
+
+Las actuaciones de las Juntas deben practicarse en días y horas hábiles, bajo pena de nulidad, siempre que esta Ley no disponga otra cosa.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 715.
+
+Son días hábiles todos los del año con excepción de los sábados y domingos, los de descanso obligatorio, los festivos que señale el calendario oficial y aquéllos en que la Junta suspenda sus labores.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 716.
+
+Son horas hábiles las comprendidas entre las siete y las diecinueve horas, salvo el procedimiento de huelga, en el que todos los días y horas son hábiles.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 717.
+
+Los Presidentes de las Juntas, los de las Juntas Especiales y los Auxiliares, pueden habilitar los días y horas inhábiles para que se practiquen diligencias, cuando haya causa justificada, expresando concreta y claramente cuál es ésta, así como las diligencias que hayan de practicarse.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 718.
+
+La audiencia o diligencia que se inicie en día y hora hábil podrá continuarse hasta su terminación, sin suspenderla y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse el siguiente día hábil; la Junta hará constar en autos la razón de la suspensión.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 719.
+
+Cuando en la fecha señalada no se llevare a cabo la práctica de alguna diligencia, la Junta hará constar en autos la razón por la cual no se practicó y señalará en el mismo acuerdo, el día y hora para que tenga lugar la misma.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 720.
+
+Las audiencias serán públicas. La Junta podrá ordenar, de oficio o a instancia de parte, que sean a puerta cerrada, cuando lo exija el mejor despacho de los negocios, la moral o las buenas costumbres.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 721.
+
+Todas las actuaciones procesales serán autorizadas por el Secretario, excepción hecha de las diligencias encomendadas a otros funcionarios; lo actuado en las audiencias se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervinieron, quieran y sepan hacerlo. Cuando algún integrante de la Junta omitiere firmar las actas de las diligencias en las que estuvo presente se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes comparecientes.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 722.
+
+Las declaraciones que rindan las partes, sus apoderados o cualquier persona ante las Juntas, las harán bajo protesta de decir verdad y bajo apercibimiento de las penas en que incurren si declaran falsamente ante autoridad.
+
+Las declaraciones de peritos en derecho, serán rendidas bajo protesta de decir verdad, sin que se requiera apercibimiento alguno.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 723.
+
+La Junta, conforme a lo establecido en esta Ley, está obligada a expedir a la parte solicitante, copia certificada de cualquier documento o constancia que obre en el expediente. También deberá certificar la copia fotostática que exhiban las partes de algún documento o constancia que aparezca en autos, previo cotejo que se haga con el original.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 724.
+
+El Pleno de la Junta Federal de Conciliación y Arbitraje o el de las Juntas Locales de Conciliación y Arbitraje, podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 725.
+
+En caso de extravío o desaparición del expediente o de alguna constancia, el Secretario, previo informe del archivista, certificará la existencia anterior y la falta posterior del expediente o de las actuaciones. La Junta, de oficio o a petición de parte, lo hará del conocimiento de las partes; procederá a practicar las investigaciones del caso y a tramitar de inmediato la reposición de los autos, en forma incidental.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 726.
+
+En el caso del artículo anterior, la Junta señalará, dentro de las setenta y dos horas siguientes, día y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder. La Junta podrá ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos, teniendo en cuenta, en su caso, lo dispuesto por el artículo 724 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 727.
+
+La Junta, de oficio, cuando lo estime conveniente, hará la denuncia correspondiente ante el Ministerio Público competente, de la desaparición del expediente o actuación, acompañando copia de las actas y demás diligencias practicadas con dicho motivo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 728.
+
+Los Presidentes de las Juntas y los Auxiliares, podrán imponer correcciones disciplinarias, para mantener el buen orden en el desarrollo de las audiencias o diligencias, y exigir que se les guarde el respeto y la consideración debidos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 729.
+
+Por su orden las correcciones disciplinarias que pueden imponerse, son:
+
+I. Amonestación;
+
+II. Multa que no podrá exceder de siete veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y
+
+III. Expulsión del local de la Junta; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 730.
+
+Cuando los hechos que motiven la imposición de una corrección disciplinaria, puedan constituir la comisión de un delito, la Junta levantará un acta circunstanciada y la turnará al Ministerio Público, para los efectos conducentes.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 731.
+
+El Presidente de la Junta, los de las Juntas Especiales y los Auxiliares podrán emplear conjunta e indistintamente, cualquiera de los medios de apremio necesarios, para que las personas concurran a las audiencias en las que su presencia es indispensable o para asegurar el cumplimiento de sus resoluciones.
+
+Los medios de apremio que pueden emplearse son:
+
+I. Multa hasta de siete veces el salario mínimo general, vigente en el lugar y tiempo en que se cometió la infracción;
+
+II. Presentación de la persona con auxilio de la fuerza pública; y
+
+III. Arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 732.
+
+Las correcciones disciplinarias y medios de apremio se impondrán de plano, sin substanciación alguna, y deberán estar fundadas y motivadas. Podrán ser impugnadas en los términos señalados en esta Ley.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO XV. De las Providencias Cautelares
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 733.
+
+Los términos comenzarán a correr el día siguiente al en que surta efecto la notificación y se contará en ellos el día del vencimiento.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 734.
+
+En ningún término se contarán los días en que no puedan tener lugar actuaciones ante la Junta, salvo disposición contraria de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 735.
+
+Cuando la realización o práctica de algún acto procesal o el ejercicio de un derecho, no tengan fijado un término, éste será el de tres días hábiles.
+
+(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+
+###### Artículo 736.
+
+Para computar los términos, los meses se regularán por el de treinta días naturales; y los días hábiles se considerarán de veinticuatro horas naturales, contados de las veinticuatro a las veinticuatro horas, salvo disposición contraria en esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 737.
+
+Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia de la Junta, ésta podrá ampliar el término de que se trate, en función de la distancia a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de comunicación existentes.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 738.
+
+Transcurridos los términos fijados a las partes, se tendrá por perdido su derecho que debieron ejercitar, sin necesidad de acusar rebeldía.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO XVI. Procedimientos Ante las Juntas de Conciliación
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 739.
+
+Las partes, en su primera comparecencia o escrito, deberán señalar domicilio dentro del lugar de residencia de la Junta para recibir notificaciones; si no lo hacen, las notificaciones personales se harán por boletín o por estrados, según el caso, en los términos previstos en esta Ley.
+
+Asimismo, deberán señalar domicilio en el que deba hacerse la primera notificación a la persona o personas contra quienes promuevan. Cuando no se localice a la persona, la notificación se hará en el domicilio que se hubiere señalado, de conformidad con lo dispuesto en el artículo 712 de esta Ley, y faltando ese, la notificación se hará en el último local o lugar de trabajo en donde se prestaron los servicios y en estos casos se fijarán las copias de la demanda en los estrados de la Junta.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 740.
+
+Cuando en la demanda no se haya expresado el nombre del patrón o de la empresa en que trabaja o trabajó el trabajador, la notificación personal de la misma se sujetará al procedimiento establecido en el artículo 743 en lo conducente debiendo cerciorarse el actuario de que el lugar donde efectúa la notificación es precisamente el de el centro de trabajo donde presta o prestó sus servicios el demandante, y la notificación se entenderá hecha al patrón, aunque al hacerla se ignore el nombre del mismo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 741.
+
+Las notificaciones personales se harán en el domicilio señalado en autos, hasta en tanto no se designe nueva casa o local para ello; y las que se realicen en estas condiciones, surtirán plenamente sus efectos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 742.
+
+Se harán personalmente las notificaciones siguientes:
+
+I. El emplazamiento a juicio y cuando se trate del primer proveído que se dicte en el mismo;
+
+II. El auto de radicación del juicio, que dicten las Juntas de Conciliación y Arbitraje en los expedientes que les remitan otras Juntas;
+
+III. La resolución en que la Junta se declare incompetente;
+
+IV. El auto que recaiga al recibir la sentencia de amparo;
+
+V. La resolución que ordene la reanudación del procedimiento; cuya tramitación estuviese interrumpida o suspendida por cualquier causa legal;
+
+VI. El auto que cite a absolver posiciones;
+
+VII. La resolución que deban conocer los terceros extraños al juicio;
+
+VIII. El laudo;
+
+IX. El auto que conceda término o señale fecha para que el trabajador sea reinstalado;
+
+X. El auto por el que se ordena la reposición de actuaciones;
+
+XI. En los casos a que se refiere el artículo 772 de esta Ley; y
+
+XII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 743.
 
-Declarada procedente la recusación, será substituido el representante recusado, de conformidad con las disposiciones contenidas en los artículos 613, 635 y 670. En caso contrario, continuará en el conocimiento del negocio y se impondrá al recusante una multa de cincuenta a quinientos pesos, según las circunstancias, a juicio del instructor y si no se paga, se impondrá un arresto hasta de treinta y seis horas.
+La primera notificación personal se hará de conformidad con las normas siguientes:
+
+I. El actuario se cerciorará de que la persona que deba ser notificada habita, trabaja o tiene su domicilio en la casa o local, señalado en autos para hacer la notificación;
+
+II. Si está presente el interesado o su representante, el actuario notificará, la resolución entregando copia de la misma; si se trata de persona moral, el actuario se asegurará de que la persona con quien entiende la diligencia es representante legal de aquélla.
+
+III. Si no está presente el interesado o su representante, se le dejará citatorio para que lo espere al día siguiente, a una hora determinada;
+
+IV. Si no obstante el citatorio, no está presente el interesado o su representante, la notificación se hará a cualquier persona que se encuentre en la casa o local, y si estuvieren éstos cerrados, se fijará una copia de la resolución en la puerta de entrada;
+
+V. Si en la casa o local designado para hacer la notificación se negare el interesado, su representante o la persona con quien se entienda la diligencia, a recibir la notificación, ésta se hará por instructivo que se fijará en la puerta de la misma, adjuntando una copia de la resolución; y
+
+VI. En el caso del artículo 712 de esta Ley, el actuario se cerciorará de que el local designado en autos, es aquel en que se prestan o se prestaron los servicios.
+
+En todos los casos a que se refiere este artículo, el actuario asentará razón en autos, señalando con claridad los elementos de convicción en que se apoye.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 744.
 
-Las autoridades señaladas en el artículo 742, fracción I, instruirán y decidirán las excusas, oyendo en audiencia al interesado y recibiendo las pruebas que ofrezca. Si la excusa es declarada improcedente, el instructor podrá sancionar al que se excusó con amonestación o suspensión del cargo hasta por ocho días.
+Las ulteriores notificaciones personales se harán al interesado o persona autorizada para ello, el mismo día en que se dicte la resolución si concurre al local de la Junta o en el domicilio que hubiese designado y si no se hallare presente, se le dejará una copia de la resolución autorizada por el Actuario; si la casa o local está cerrado, se fijará la copia en la puerta de entrada o en el lugar de trabajo.
+
+El actuario asentará razón en autos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 745.
 
-Los procedimientos ante las Juntas de Conciliación, se ajustarán a las disposiciones de este capítulo.
+El Pleno de las Juntas Federal y Locales de Conciliación y Arbitraje, podrá acordar la publicación de un boletín que contenga la lista de las notificaciones que no sean personales.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 746.
 
-Si no existe Junta de Conciliación Permanente, los trabajadores o patrones deben ocurrir ante el Inspector Federal del Trabajo o ante el Presidente Municipal, a fin de que se integre la Junta de Conciliación Accidental.
+Surtirán sus efectos las notificaciones que se hagan a las partes en el Boletín Laboral, salvo que sean personales. Cuando la Junta no publique boletín, estas notificaciones se harán en los estrados de la Junta.
+
+El Secretario hará constar en autos la fecha de la publicación respectiva y fijará diariamente en lugar visible del local de la Junta, un ejemplar del Boletín Laboral o, en su caso, las listas de las notificaciones por estrados; coleccionando unos y otras, para resolver cualquier cuestión que se suscite sobre la omisión de alguna publicación.
+
+Las listas de notificaciones deberán ser autorizadas y selladas en su fecha por el Secretario. La publicación de las notificaciones contendrá la fecha, el número del expediente y los nombres de las partes en los juicios de que se trate.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 747.
 
-En la integración de las Juntas de Conciliación Accidentales, se observarán las normas siguientes:
+Las notificaciones surtirán sus efectos de la manera siguiente:
 
-I. El Inspector Federal del Trabajo o el Presidente Municipal prevendrá a cada una de las partes que dentro del término de veinticuatro horas designe su representante, y les dará a conocer el nombre del representante del Gobierno. El Inspector Federal del Trabajo, cuando sus actividades lo permitan, podrá presidir la Junta; y
+I. Las personales: el día y hora en que se practiquen, contándose de momento a momento, cualquiera que sea la hora en que se haya hecho la notificación, salvo disposición en contrario en la Ley; y
 
-II. Si alguna o las dos partes no designan su representante, el Inspector Federal del Trabajo o el Presidente Municipal hará las designaciones, las que deberán recaer en trabajadores o patrones.
+II. Las demás; al día siguiente al de su publicación en el Boletín o en los estrados de la Junta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F 2 DE JULIO DE 1976)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 748.
 
-En los procedimientos ante las Juntas de Conciliación en los casos del artículo 600, fracciones I y II, se observarán las normas siguientes:
+Las notificaciones deberán hacerse en horas hábiles con una anticipación de veinticuatro horas, por lo menos, del día y hora en que deba efectuarse la diligencia, salvo disposición en contrario de la Ley.
 
-I. La Junta citará a las partes a una audiencia de conciliación y ofrecimiento de pruebas, que deberá efectuarse dentro de los tres días siguientes al en que hubiese comparecido o presentado escrito el actor o al en que hubiese quedado integrada la Junta Accidental.
-
-La notificación al demandado se hará de conformidad con lo dispuesto en el artículo 688;
-
-II. Si el actor no concurre a la audiencia, se archivará el expediente hasta nueva promoción;
-
-III. La Junta procurará avenir a las partes de conformidad con las disposiciones del artículo 753, fracción I;
-
-IV. Si no concurre el demandado o si estando presente no se llega a un convenio, las partes podrán ofrecer las pruebas que juzguen conveniente;
-
-> <small>(REFORMADA, D.O.F 2 DE JULIO DE 1976)</small>
-
-V. Concluida la recepción de las pruebas, el Presidente de la Junta remitirá el expediente a la Junta de Conciliación y Arbitraje que corresponda, según la competencia jurisdiccional y territorial.
-
-VI. El convenio a que lleguen las partes será ejecutado por el Presidente de la Junta si ésta es Permanente, y en caso contrario se remitirá al Presidente de la Junta de Conciliación Permanente o de Conciliación y Arbitraje más próximo.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 749.
 
-Las partes podrán designar casa ubicada en el lugar de residencia de la Junta Federal o Local de Conciliación y Arbitraje o de la Junta de Conciliación Permanente a la que deba remitirse el expediente, para que se les hagan las notificaciones personales. Si alguna de ellas no hace la designación, las notificaciones personales se les harán mediante publicación en los estrados de la Junta a la que se remitió el expediente.
+Las notificaciones hechas al apoderado o a las personas expresamente autorizadas legalmente por las partes, acreditadas ante la Junta, surtirán los mismos efectos que si se hubiesen hecho a ellas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 750.
 
-Cuando las Juntas de Conciliación conozcan de los conflictos a que se refiere el artículo 600, fracción IV, se observarán las disposiciones contenidas en el Capítulo VI de este Título.
+Las notificaciones, citaciones o emplazamientos deberán realizarse dentro de los cinco días siguientes a su fecha, salvo cuando expresamente en la resolución o en la Ley exista disposición en contrario.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 751.
 
-Las disposiciones de este capítulo rigen la tramitación y resolución de los conflictos individuales y de los colectivos de naturaleza jurídica.
+La cédula de notificación deberá contener, por lo menos:
+
+I. Lugar, día y hora en que se practique la notificación;
+
+II. El número de expediente;
+
+III. El nombre de las partes;
+
+IV. El nombre y domicilio de la persona o personas que deban ser notificadas; y
+
+V. Copia autorizada de la resolución que se anexará a la cédula.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 752.
 
-El Pleno o la Junta Especial señalará día y hora para la celebración de una audiencia de conciliación, demanda y excepciones, que deberá efectuarse dentro de los diez días siguientes a la fecha en que reciba la demanda, y apercibirá al demandado de tenerlo por inconforme con todo arreglo y de tener por contestada la demanda en sentido afirmativo si no concurre a la audiencia.
+Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto en este Capítulo.
 
-La notificación será personal y se hará tres días antes de la fecha de la audiencia, por lo menos, entregando al demandado copia de la demanda.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Si el demandado no puede ser notificado en el lugar de residencia de la Junta, se aumentará el término a que se refiere el párrafo anterior, a razón de un día por cada cien kilómetros o fracción.
+### CAPITULO XVII
+
+Procedimiento Ordinario Ante las Juntas de Conciliación y Arbitraje.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 753.
 
-La audiencia a que se refiere el artículo anterior se celebrará de conformidad con las normas siguientes:
+Las diligencias que no puedan practicarse en el lugar de residencia de la Junta que conozca del juicio, deberán encomendarse por medio de exhorto al Presidente de la Junta de Conciliación o de Conciliación y Arbitraje o al de las Especiales, o a la autoridad más próxima al lugar en que deban practicarse dentro de la República Mexicana.
 
-I. La Junta exhortará a las partes para que procuren un arreglo conciliatorio. El Auxiliar y los demás representantes, después de oír sus alegaciones, podrán proponer la solución que a su juicio sea propia para terminar el conflicto y harán ver a las partes la justicia y equidad de su proposición;
-
-II. Si las partes llegan a un convenio, se dará por terminado el conflicto. El convenio, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo;
-
-III. Si no se llega a un convenio, se dará por concluido el período de conciliación y se pasará al de demanda y excepciones;
-
-IV. El actor expondrá su demanda, precisando los puntos petitorios y sus fundamentos. Siempre que se demande el pago de salarios o indemnizaciones, deberá indicarse el monto del salario diario o las bases para fijarlo. Si el actor en su exposición ejercita acciones nuevas o distintas a las ejercitadas en su escrito inicial, la Junta señalará nuevo día y hora para la celebración de la audiencia de conciliación, demanda y excepciones. En esta segunda audiencia no podrá el actor ejercitar nuevas o distintas acciones;
-
-V. En su contestación, opondrá el demandado sus excepciones y defensas, debiendo referirse a todos y cada uno de los hechos que comprenda la demanda, afirmándolos, negándolos, expresando los que ignore, siempre que no sean propios, o refiriéndolos como crea que tuvieron lugar. Podrá adicionar su exposición de hechos con lo que juzgue conveniente. Se tendrán por admitidos los hechos sobre los que el demandado no suscitare expresamente controversia, sin admitírsele prueba en contrario. La negación pura y simple del derecho importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho.
-
-La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia; si no lo hace y la Junta se declara competente, se tendrá por contestada la demanda en sentido afirmativo, en los términos del artículo siguiente;
-
-VI. Las partes podrán replicar y contrarreplicar brevemente; y
-
-VII. Si se opone reconvención, se abrirá un período conciliatorio, y terminado, podrá el reconvenido producir su contestación o solicitarse señale nuevo día y hora para hacerla.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 754.
 
-Si no concurre el actor a la audiencia, se le tendrá por inconforme con todo arreglo y por reproducido en vía de demanda su comparecencia o escrito inicial. Si no concurre el demandado, se le tendrá por inconforme con todo arreglo y por contestada la demanda en sentido afirmativo, salvo prueba en contrario.
+Las diligencias que se practiquen en el extranjero, únicamente se autorizarán cuando se demuestre que son indispensables para probar los hechos fundamentales de la demanda o de su contestación.
+
+En el caso a que se refiere el párrafo anterior, se librará el despacho correspondiente, tomando en cuenta lo dispuesto en los tratados o convenios internacionales.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 755.
 
-El demandado que no hubiese concurrido a la audiencia a que se refiere el artículo anterior, sólo podrá rendir prueba en contrario para demostrar que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+A falta de tratados o convenios, deberá estarse a las siguientes reglas:
+
+I. Los despachos serán remitidos por vía diplomática, al lugar de residencia de la autoridad correspondiente, debiendo ser legalizadas las firmas de las autoridades que los expidan; y
+
+II. No será necesaria la legalización de firmas, si las leyes o prácticas del país a donde se libre el despacho, no establecen ese requisito.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 756.
 
-Si ninguna de las partes concurre a la audiencia, se archivará el expediente hasta nueva promoción.
+En los exhortos que deban ser diligenciados dentro de la República Mexicana, no se requiere la legalización de firmas de la autoridad que los expida.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 757.
 
-La Junta que reciba un expediente de las Juntas de Conciliación, citará a las partes a una audiencia de demanda y excepciones. Son aplicables las disposiciones de los artículos 752, 753, fracciones IV a VII y 754 a 756.
+La Junta deberá expedir los exhortos y despachos, al día siguiente de aquél en que surta sus efectos la resolución que los ordene.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 758.
 
-Si las partes están conformes con los hechos y la controversia queda reducida a un punto de derecho, al concluir la audiencia de demanda y excepciones, la Junta oirá los alegatos y dictará el laudo.
+Los exhortos y despachos que reciban las autoridades a que se refiere el artículo 753, se proveerán dentro de las setenta y dos horas siguientes a su recepción y se deberán diligenciar dentro de los cinco días siguientes, salvo en los casos en que por la naturaleza de lo que haya de practicarse, exija necesariamente mayor tiempo; en este caso, la autoridad requerida fijará el que crea conveniente sin que el término fijado pueda exceder de quince días.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 759.
 
-La Junta, al concluir la audiencia de demanda y excepciones, salvo lo dispuesto en el artículo anterior, señalará día y hora para la celebración de la audiencia de ofrecimiento de pruebas, que deberá efectuarse dentro de los diez días siguientes.
+Cuando se demore el cumplimiento de un exhorto, se recordará de oficio o a instancia de parte, a la autoridad exhortada; si a pesar del recordatorio continúa la demora, la autoridad exhortante lo pondrá en conocimiento del superior inmediato del exhortado.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 760.
 
-En la audiencia de ofrecimiento de pruebas se observarán las normas siguientes:
+La Junta a solicitud de parte, podrá entregar el exhorto y sus anexos al oferente previa razón que deje en autos, quien bajo su más estricta responsabilidad lo entregará a la autoridad exhortada para su diligenciamiento.
 
-I. Si concurre una sola de las partes, ofrecerá sus pruebas de conformidad con las fracciones siguientes. Si ninguna de las partes concurre, la Junta procederá de conformidad con lo dispuesto en el artículo 770;
+El oferente devolverá el exhorto diligenciado bajo su más estricta responsabilidad a la exhortante.
 
-II. Las pruebas deben referirse a los hechos contenidos en la demanda y su contestación que no hayan sido confesados por las partes a quien perjudiquen;
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-III. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte;
+### CAPITULO XVIII. De los Procedimientos Especiales
 
-IV. Las pruebas se ofrecerán acompañadas de los elementos necesarios para su desahogo;
-
-V. Cada parte exhibirá desde luego los documentos u objetos que ofrezca como prueba. Si se trata de informes o copias que deba expedir alguna autoridad, podrá el oferente solicitar de la Junta que los pida, indicando los motivos que le impiden obtenerlos directamente;
-
-VI. Si se ofrece prueba confesional, se observarán las normas siguientes:
-
-a) Cada parte podrá solicitar que su contraparte concurra personalmente a absolver posesiones en la audiencia de recepción de pruebas.
-
-b) Cuando deba absolver posiciones una persona moral, bastará que se la cite.
-
-c) Las partes podrán también solicitar que se cite a absolver posiciones a los directores, administradores, gerentes y, en general, a las personas que ejerzan funciones de dirección o administración en la empresa o establecimiento, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto sean propios de ellos.
-
-d) La Junta ordenará se cite a los absolventes, apercibiéndolos de tenerlos por confesos en las posiciones que se les articulen si no concurren el día y hora señalados, siempre que las preguntas no estén en contradicción con alguna prueba suficiente o hecho fehaciente que conste en autos.
-
-e) Cuando sea necesario girar exhorto, el oferente exhibirá el pliego de posiciones en sobre cerrado. La Junta abrirá el pliego, calificará las posiciones, sacará copia de las que fueron aprobadas, y la guardará en sobre cerrado bajo su más estricta responsabilidad, y remitirá el original, en sobre cerrado, para que se practique la diligencia de conformidad con las posiciones aprobadas;
-
-VII. La parte que ofrezca prueba testimonial indicará los nombres de sus testigos y podrá solicitar de la Junta que los cite, señalando sus domicilios y los motivos que le impiden presentarlos directamente.
-
-Cuando sea necesario girar exhorto para la recepción de la prueba testimonial, el oferente exhibirá el pliego de preguntas. La contraparte podrá exhibir sus repreguntas en sobre cerrado, que será abierto por la autoridad exhortada, o formularlas directamente ante ésta;
-
-VIII. Si se ofrece prueba pericial, el oferente indicará la materia sobre la que deba versar el peritaje. Admitida la prueba, la Junta prevendrá a las partes que presenten sus peritos en la audiencia de recepción de pruebas, apercibiendo al oferente de que lo tendrá por desistido de la prueba si no lo presenta y a la contraparte de que la prueba se recibiera con el perito del oferente. El trabajador podrá solicitar de la Junta que designe su perito, exponiendo las razones por las que no pueda cubrir los honorarios correspondientes.
-
-IX. Concluido el ofrecimiento, la Junta resolverá cuáles son las pruebas que admite y desechará las que estime improcedentes o inútiles; y
-
-X. Dictada la resolución a que se refiere la fracción anterior, no se admitirán nuevas pruebas, a menos que se refieran a hechos supervenientes o que tengan por fin probar las tachas que se hagan valer en contra de los testigos.
+(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
 
 ###### Artículo 761.
 
-La Junta, al concluir la audiencia de ofrecimiento de pruebas, señalará día y hora para la celebración de una audiencia de recepción de las mismas, que deberá efectuarse dentro de los diez días siguientes.
+Los incidentes se tramitarán dentro del expediente principal donde se promueve, salvo los casos previstos en esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 762.
 
-Son admisibles todos los medios de prueba.
+Se tramitarán como incidentes de previo y especial pronunciamiento las siguientes cuestiones.
+
+I. Nulidad;
+
+II. Competencia;
+
+III. Personalidad;
+
+IV. Acumulación; y
+
+V. Excusas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 763.
 
-Las partes están obligadas a aportar todos los elementos probatorios de que dispongan, que puedan contribuir a la comprobación de los hechos o al esclarecimiento de la verdad.
+Cuando se promueva un incidente dentro de una audiencia o diligencia, se substanciará y resolverá de plano, oyendo a las partes; continuándose el procedimiento de inmediato. Cuando se trate de nulidad, competencia y en los casos de acumulación y excusas, dentro de las veinticuatro horas siguientes se señalará día y hora para la audiencia incidental, en la que se resolverá.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 764.
 
-Las partes podrán interrogar libremente a las personas que intervengan en la audiencia de recepción de pruebas, sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen conveniente y examinar los documentos y objetos que se exhiban.
+Si en autos consta que una persona se manifiesta sabedora de una resolución, la notificación mal hecha u omitida surtirá sus efectos como si estuviese hecha conforme a la Ley. En este caso, el incidente de nulidad que se promueva será desechado de plano.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 765.
 
-El Presidente o Auxiliar y los representantes de los trabajadores y los patrones, podrán también interrogar libremente a las personas a que se refiere el artículo anterior, carear a las partes entre sí o con los testigos, y a éstos unos con otros. La Junta podrá ordenar el examen de documentos, objetos y lugares, su reconocimiento por peritos y, en general, practicar las diligencias que juzgue conveniente para el esclarecimiento de la verdad.
+Los incidentes que no tengan señalada una tramitación especial en esta Ley, se resolverán de plano oyendo a las partes.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 766.
 
-En la recepción de la prueba confesional se observarán las normas siguientes:
+En los procesos de trabajo que se encuentren en trámite ante las Juntas de Conciliación y Arbitraje, procede la acumulación de oficio o a instancia de parte, en los casos siguientes:
 
-I. La persona que se presente a absolver posiciones en representación de una persona moral, deberá acreditar que tiene poder bastante;
+I. Cuando se trate de juicios promovidos por el mismo actor contra el mismo demandado, en los que se reclamen las mismas prestaciones;
 
-II. La Junta desechará las posiciones que no tengan relación con los hechos y las que juzgue insidiosas, pero deberá fundar su resolución. Se tienen por insidiosas las que se dirijan a ofuscar la inteligencia del que ha de responder, con el objeto de obtener una confesión contraria a la verdad;
+II. Cuando sean las mismas partes, aunque las prestaciones sean distintas, pero derivadas de una misma relación de trabajo;
 
-III. El absolvente responderá por sí mismo, de palabra, sin la presencia de su abogado o asesor. No podrá valerse de borrador de respuestas, pero se le permitirá que consulte simples notas o apuntes, si la Junta, después de tomar conocimiento de ellos, resuelve que son necesarios para auxiliar su memoria;
+III. Cuando se trate de juicios promovidos por diversos actores contra el mismo demandado, si el conflicto tuvo su origen en el mismo hecho derivado de la relación de trabajo; y
 
-IV. Las contestaciones deberán ser afirmativas o negativas, pudiendo agregar las explicaciones que juzgue conveniente o las que le pida la Junta;
+IV. En todos aquellos casos, que por su propia naturaleza las prestaciones reclamadas o los hechos que las motivaron, puedan originar resoluciones contradictorias.
 
-V. Si se niega a responder, la Junta lo apercibirá en el acto de tenerlo por confeso si persiste en su negativa;
-
-VI. Si las respuestas son evasivas, la Junta, de oficio o a instancia del articulante, lo apercibirá igualmente de tenerlo por confeso;
-
-VII. Cuando alguna posición se refiera a hechos que no sean personales del absolvente, podrá negarse a contestarlas si los ignora. No podrá hacerlo cuando los hechos, por la naturaleza de las relaciones entre las partes, deben serle conocidos aun cuando no sean propios; y
-
-VIII. La Junta hará efectivo el apercibimiento a que se refiere el artículo 760, fracción VI, inciso d), si la persona que debe absolver posiciones no concurre, o la que concurre en representación de una persona moral no tiene poder bastante.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 767.
 
-En la recepción de la prueba testimonial se observarán las normas siguientes:
+Si se declara procedente la acumulación, el juicio o juicios más recientes, se acumularán al más antiguo.
 
-I. Las partes presentarán sus testigos en la audiencia de recepción de pruebas, salvo lo dispuesto en el artículo 760, fracción VII;
-
-II. No podrán presentarse más de cinco testigos por cada hecho que se pretenda probar;
-
-III. La Junta tendrá las facultades a que se refiere la fracción I del artículo anterior;
-
-> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1970)</small>
-
-IV. Para el examen de los testigos no se presentarán interrogatorios, salvo lo dispuesto en el artículo 760, fracción VII. Las partes formularán las preguntas verbal y directamente. Primero interrogará al oferente de la prueba y a continuación las demás partes; y
-
-V. Las tachas se formularán al concluir la recepción de la prueba. La Junta señalará día y hora para el desahogo de las pruebas respectivas.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 768.
 
-En la recepción de la prueba pericial se observarán las normas siguientes:
+Las demandas presentadas en relación con las obligaciones patronales en materia de capacitación y adiestramiento de los trabajadores y seguridad e higiene en los centros de trabajo, no serán acumulables a ninguna otra acción. Si cualquiera de estas acciones se ejercita conjuntamente con otras derivadas de la misma relación de trabajo, se estará a lo dispuesto en el artículo 699.
 
-I. Si los peritos no pueden rendir su dictamen en la audiencia, la Junta señalará día y hora para que lo presenten. Las partes y los miembros de la Junta podrán hacerles las preguntas que juzguen conveniente;
-
-II. Si alguno de los peritos no concurre a la audiencia a que se refiere la fracción anterior, sin causa justificada, previamente anunciada y comprobada, la prueba se desahogará con el perito que concurra; y
-
-III. En caso de discrepancia en los dictámenes, la Junta podrá designar un perito tercero.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 769.
 
-Si alguna persona no puede, por enfermedad u otras circunstancias especiales, concurrir al local de la Junta para absolver posiciones o contestar un interrogatorio, la Junta, previa comprobación del hecho, podrá trasladarse al local donde aquélla se encuentre.
+La acumulación declarada procedente, produce los siguientes efectos:
 
-> <small>(REFORMADO, D.O.F 2 DE JULIO DE 1976)</small>
+I. En el caso de la fracción I, del artículo 766, no surtirá efecto alguno lo actuado en el juicio o juicios acumulados y únicamente surtirán efecto las actuaciones del juicio más antiguo; y
+
+II. En los casos previstos por las fracciones II, III y IV del artículo 766, los conflictos se resolverán por la misma Junta en una sola resolución.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 770.
 
-Al concluir la recepción de las pruebas, de oficio la Junta concederá a las partes, un término de 48 horas para que presenten sus alegatos por escrito.
+Para la tramitación y resolución de la acumulación, se observarán las normas contenidas en los artículos 761 al 765.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F 2 DE JULIO DE 1976)</small>
+Será competente para conocer de la acumulación la Junta de Conciliación y Arbitraje que hubiere prevenido; observándose en lo conducente, lo dispuesto en el Capítulo III de este Título.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO XX. Procedimiento de Huelga
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 771.
 
-Transcurrido el término de la presentación de los alegatos, de oficio el Auxiliar, declara cerrada la instrucción y dentro de los diez días siguientes formulará un dictamen, que deberá contener:
+Los Presidentes de las Juntas y los Auxiliares cuidarán, bajo su más estricta responsabilidad, que los juicios que ante ellos se tramiten no queden inactivos, proveyendo lo que conforme a la Ley corresponda hasta dictar laudo, salvo disposición en contrario.
 
-I. Un estracto de la demanda y la contestación;
-
-II. El señalamiento de los hechos controvertidos y de los aceptados por las partes;
-
-III. Una enumeración de las pruebas rendidas y de las que se hubiesen recibido de la Junta de Conciliación, y su apreciación en conciencia, señalando los hechos que deban considerarse probados;
-
-IV. Un estracto de los alegatos; y
-
-V. Las conclusiones que se deduzcan de lo alegado y probado.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 772.
 
-El dictamen se agregará al expediente y se entregará una copia a cada uno de los representantes de los trabajadores y de los patrones. El secretario asentará razón en autos del día y hora en que se hizo entrega de las copias a los representantes, o de la negativa de éstos para recibirlas.
+Cuando para continuar el trámite del juicio en los términos del artículo que antecede, sea necesaria promoción del trabajador, y éste no la haya efectuado dentro de un lapso de tres meses; el Presidente de la Junta deberá ordenar se le requiera para que la presente apercibiéndole de que, de no hacerlo, operará la caducidad a que se refiere el artículo siguiente.
+
+Si el trabajador está patrocinado por un Procurador del Trabajo, la Junta notificará el acuerdo de que se trata, a la Procuraduría de la Defensa del Trabajo, para los efectos correspondientes. Si no estuviera patrocinado por la Procuraduría, se le hará saber a ésta el acuerdo, para el efecto de que intervenga ante el trabajador y le precise las consecuencias legales de la falta de promoción, así como para que le brinde asesoría legal en caso de que el trabajador se la requiera.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 773.
 
-El Presidente citará para la audiencia de discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que sean entregadas a los representantes las copias del dictamen.
+Se tendrá por desistida de la acción intentada a toda persona que no haga promoción alguna en el término de seis meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por transcurrido dicho término si están desahogadas las pruebas del actor o está pendiente de dictarse resolución sobre alguna promoción de las partes o la práctica de alguna diligencia, o la recepción de informes o copias que se hubiesen solicitado.
+
+Cuando se solicite que se tenga por desistido el actor de las acciones intentadas, la Junta citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia del desistimiento, dictará resolución.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 774.
 
-La audiencia a que se refiere el artículo anterior se celebrará de conformidad con las normas siguientes:
+En caso de muerte del trabajador, mientras tanto comparecen a juicio sus beneficiarios, la Junta hará la solicitud al Procurador de la Defensa del Trabajo, en los términos y para los efectos a que se refiere el artículo 772 de esta Ley.
 
-I. Se dará lectura al dictamen;
-
-II. La Junta, a petición de cualquiera de sus miembros, podrá acordar que se practiquen las diligencias que juzgue conveniente para el esclarecimiento de la verdad, siempre que se relacionen con las pruebas rendidas por las partes. Las diligencias se llevarán a cabo de conformidad con lo dispuesto en el artículo 766 y siguientes. Podrá también ordenar, señalando día y hora, el desahogo de aquellas pruebas que no se llevó a cabo por causa no imputable al oferente;
-
-III. El Presidente pondrá a discusión el negocio y el resultado de las diligencias practicadas de conformidad con lo dispuesto en la fracción anterior; y
-
-IV. Terminada la discusión, se procederá a la votación y el Presidente declarará el resultado.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 775.
 
-Los laudos se dictarán a verdad sabida, sin necesidad de sujetarse a reglas sobre estimación de las pruebas, si no apreciando los hechos según los miembros de la Junta lo crean debido en conciencia.
+El Procurador Auxiliar tendrá las facultades y responsabilidades de un mandatario; deberá presentar las promociones necesarias para la continuación del procedimiento, hasta su total terminación.
+
+Reunidos los requisitos a que se refieren los artículos que anteceden, cesará la representación del procurador auxiliar en el juicio en que intervino.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO I
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Primera. Reglas Generales
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 776.
 
-Los laudos deben ser claros, precisos y congruentes con la demanda y con las demás pretensiones deducidas oportunamente en el negocio. En ellos se determinará el salario que sirva de base a la condena.
+Son admisibles en el proceso todos los medios de prueba que no sean contrarios a la moral y al derecho, y en especial los siguientes:
+
+I. Confesional;
+
+II. Documental;
+
+III. Testimonial;
+
+IV. Pericial;
+
+V. Inspección;
+
+VI. Presuncional;
+
+VII. Instrumental de actuaciones; y
+
+VIII. Fotografías y, en general, aquellos medios aportados por los descubrimientos de la ciencia.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 777.
 
-Cuando la condena no sea de cantidad líquida, se establecerán las bases con arreglo a las cuales deberá hacerse la liquidación.
+Las pruebas deben referirse a los hechos controvertidos cuando no hayan sido confesados por las partes.
+
+(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
 
 ###### Artículo 778.
 
-Si la Junta estima que alguno de los litigantes, o ambos obraron con mala fe o temeridad notoria, podrá imponerles en el laudo una multa de cien a mil pesos. La misma multa podrá imponerse a los representantes, abogados o asesores de las partes.
+Las pruebas deberán ofrecerse en la misma audiencia, salvo que se refieran a hechos supervenientes o que tengan por fin probar las tachas que se hagan valer en contra de los testigos.
 
-Si la multa se aplica a un trabajador, no excederá del importe señalado en el último párrafo del artículo 21 constitucional.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 779.
 
-Dentro de los seis días siguientes a la fecha en que concluya la audiencia de discusión y votación, el Secretario deberá engrosar el laudo.
+La Junta desechará aquellas pruebas que no tengan relación con la litis planteada o resulten inútiles o intrascendentes, expresando el motivo de ello.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 780.
+
+Las pruebas se ofrecerán acompañadas de todos los elementos necesarios para su desahogo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 781.
+
+Las partes podrán interrogar libremente a las personas que intervengan en el desahogo de las pruebas sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen convenientes, y examinar los documentos y objetos que se exhiban.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 782.
+
+La Junta podrá ordenar con citación de las partes, el examen de documentos, objetos y lugares, su reconocimiento por actuarios o peritos y, en general, practicar las diligencias que juzgue conveniente para el esclarecimiento de la verdad y requerirá a las partes para que exhiban los documentos y objetos de que se trate.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 783.
+
+Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o documentos en su poder que puedan contribuir al esclarecimiento de la verdad, está obligada a aportarlos, cuando sea requerida por la Junta de Conciliación o de Conciliación y Arbitraje.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 784.
+
+La Junta eximirá de la carga de la prueba al trabajador, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos, y para tal efecto requerirá al patrón para que exhiba los documentos que, de acuerdo con las leyes, tiene la obligación legal de conservar en la empresa, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el trabajador. En todo caso, corresponderá al patrón probar su dicho cuando exista controversia sobre:
+
+I. Fecha de ingreso del trabajador;
+
+II. Antigüedad del trabajador;
+
+III. Faltas de asistencia del trabajador;
+
+IV. Causa de rescisión de la relación de trabajo;
+
+V. Terminación de la relación o contrato de trabajo para obra o tiempo determinado, en los términos del artículo 37 fracción I y 53 fracción III de esta Ley;
+
+VI. Constancia de haber dado aviso por escrito al trabajador de la fecha y causa de su despido;
+
+VII. El contrato de trabajo;
+
+VIII. Duración de la jornada de trabajo;
+
+IX. Pagos de días de descanso y obligatorios;
+
+X. Disfrute y pago de las vacaciones;
+
+XI. Pago de las primas dominical, vacacional y de antigüedad;
+
+XII. Monto y pago del salario;
+
+XIII. Pago de la participación de los trabajadores en las utilidades de las empresas; y
+
+XIV. Incorporación y aportación al Fondo Nacional de la Vivienda.
+
+(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+
+###### Artículo 785.
+
+Si alguna persona no puede, por enfermedad u otro motivo justificado a juicio de la Junta, concurrir al local de la misma para absolver posiciones o contestar un interrogatorio; previa comprobación del hecho, mediante certificado médico u otra constancia fehaciente que se exhiba, bajo protesta de decir verdad, ésta señalará nueva fecha para el desahogo de la prueba correspondiente; y de subsistir el impedimento, el médico deberá comparecer, dentro de los cinco días siguientes, a ratificar el documento en cuyo caso, la Junta deberá trasladarse al lugar donde aquélla se encuentre para el desahogo de la diligencia.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Segunda. De la Confesional
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 786.
+
+Cada parte podrá solicitar se cite a su contraparte para que concurra a absolver posiciones.
+
+Tratándose de personas morales la confesional se desahogará por conducto de su representante legal; salvo el caso a que se refiere el siguiente artículo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 787.
+
+Las partes podrán también solicitar que se cite a absolver posiciones personalmente a los directores, administradores, gerentes y, en general, a las personas que ejerzan funciones de dirección y administración, en la empresa o establecimiento, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 788.
+
+La Junta ordenará se cite a los absolventes personalmente o por conducto de sus apoderados, apercibiéndolos de que si no concurren el día y hora señalados, se les tendrá por confesos de las posiciones que se les articulen.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 789.
+
+Si la persona citada para absolver posiciones, no concurre en la fecha y hora señalada, se hará efectivo el apercibimiento a que se refiere el artículo anterior y se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 790.
+
+En el desahogo de la prueba confesional se observarán las normas siguientes:
+
+I. Las posiciones podrán formularse en forma oral o por escrito, que exhiba la parte interesada en el momento de la audiencia;
+
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+
+II. Las posiciones se formularán libremente, pero deberán concretarse a los hechos controvertidos; no deberán ser insidiosas o inútiles. Son insidiosas las posiciones que tiendan a ofuscar la inteligencia del que ha de responder, para obtener una confesión contraria a la verdad; son inútiles aquellas que versan sobre hechos que hayan sido previamente confesados o que no están en contradicción con alguna prueba o hecho fehaciente que conste en autos o sobre los que no exista controversia;
+
+III. El absolvente bajo protesta de decir verdad, responderá por sí mismo, de palabra, sin la presencia de su asesor, ni ser asistido por persona alguna. No podrá valerse de borrador de respuestas pero se le permitirá que consulte simples notas o apuntes, si la Junta, después de tomar conocimiento de ellos, resuelve que son necesarios para auxiliar su memoria;
+
+IV. Cuando las posiciones se formulen oralmente, se harán constar textualmente en el acta respectiva; cuando sean formuladas por escrito, éste se mandará agregar a los autos y deberá ser firmado por el articulante y el absolvente;
+
+V. Las posiciones serán calificadas previamente, y cuando no reúnan los requisitos a que se refiere la fracción II, la Junta las desechará asentando en autos el fundamento y motivo concreto en que apoye su resolución;
+
+VI. El absolvente contestará las posiciones afirmando o negando; pudiendo agregar las explicaciones que juzgue convenientes o las que le pida la Junta; las respuestas también se harán constar textualmente en el acta respectiva; y
+
+VII. Si el absolvente se niega a responder o sus respuestas son evasivas, la Junta de oficio o a instancia de parte, lo apercibirá en el acto de tenerlo por confeso si persiste en ello.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 791.
+
+Si la persona que deba absolver posiciones tiene su residencia fuera del lugar donde se encuentre la Junta, ésta librará exhorto, acompañando, en sobre cerrado y sellado, el pliego de posiciones previamente calificado; del que deberá sacarse una copia que se guardará en el secreto de la Junta.
+
+La Junta exhortada recibirá la confesional en los términos en que se lo solicite la Junta exhortante.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 792.
+
+Se tendrán por confesión expresa y espontánea, las afirmaciones contenidas en las posiciones que formule el articulante.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 793.
+
+Cuando la persona a quien se señale para absolver posiciones sobre hechos propios, ya no labore para la empresa o establecimiento, previa comprobación del hecho el oferente de la prueba será requerido para que proporcione el domicilio donde deba ser citada. En caso de que el oferente ignore el domicilio, lo hará del conocimiento de la Junta antes de la fecha señalada para la celebración de la audiencia de desahogo de pruebas, y la Junta podrá solicitar a la empresa que proporcione el último domicilio que tenga registrado de dicha persona.
+
+Si la persona citada no concurre el día y hora señalados, la Junta lo hará presentar por la policía.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 794.
+
+Se tendrán por confesión expresa y espontánea de las partes, sin necesidad de ser ofrecida como prueba, las manifestaciones contenidas en las constancias y las actuaciones del juicio.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Tercera. De las documentales
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 795.
+
+Son documentos públicos aquellos cuya formulación está encomendada por la Ley a un funcionario investido de fe pública, así como los que expida en ejercicio de sus funciones.
+
+Los documentos públicos expedidos por las autoridades de la Federación, de los Estados, del Distrito Federal o de los municipios, harán fe en el juicio sin necesidad de legalización.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 796.
+
+Son documentos privados los que no reúnen las condiciones previstas por el artículo anterior.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 797.
+
+Los originales de los documentos privados se presentarán por la parte oferente que los tenga en su poder; si éstos se objetan en cuanto a contenido y firma se dejarán en autos hasta su perferccionamiento (sic); en caso de no ser objetados, la oferente podrá solicitar la devolución del original, previa copia certificada en autos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 798.
+
+Si el documento privado consiste en copia simple o fotostática se podrá solicitar, en caso de ser objetado, la compulsa o cotejo con el original; para este efecto, la parte oferente deberá precisar el lugar donde el documento original se encuentre.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 799.
+
+Si el documento original sobre el que deba practicarse el cotejo o compulsa se encuentra en poder de un tercero, éste estará obligado a exhibirlo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 800.
+
+Cuando un documento que provenga de tercero ajeno al juicio, resulta impugnado, deberá ser ratificado en su contenido y firma por el suscriptor, para lo cual deberá ser citado en los términos de la fracción VII del artículo 742 de esta Ley.
+
+La contraparte podrá formular las preguntas en relación con los hechos contenidos en el documento.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 801.
+
+Los interesados presentarán los originales de los documentos privados y, cuando formen parte de un libro, expediente o legajo, exhibirán copia para que se compulse la parte que señalen, indicando el lugar en donde éstos se encuentren.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 802.
+
+Se reputa autor de un documento privado al que lo suscribe.
+
+Se entiende por suscripción, la colocación al pie del escrito de la firma o huella digital que sean idóneas, para identificar a la persona que suscribe.
+
+La suscripción hace plena fe de la formulación del documento por cuenta del suscriptor cuando sea ratificado en su contenido y firma o huella digital; excepto en los casos en que el contenido no se repute proveniente del autor, circunstancia que deberá justificarse con prueba idónea y del señalado en el artículo 33 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 803.
+
+Cada parte exhibirá los documentos u objetos que ofrezca como prueba para que obren en autos. Si se trata de informes, o copias, que deba expedir alguna autoridad, la Junta deberá solicitarlos directamente.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 804.
+
+El patrón tiene obligación de conservar y exhibir en juicio los documentos que a continuación se precisan:
+
+I. Contratos individuales de trabajo que se celebren, cuando no exista contrato colectivo o contrato Ley aplicable;
+
+II. Listas de raya o nómina de personal, cuando se lleven en el centro de trabajo; o recibos de pagos de salarios;
+
+III. Controles de asistencia, cuando se lleven en el centro de trabajo;
+
+IV. Comprobantes de pagos de participación de utilidades, de vacaciones, de aguinaldos, así como las primas a que se refiere esta Ley; y
+
+V. Los demás que señalen las leyes.
+
+Los documentos señalados por la fracción I deberán conservarse mientras dure la relación laboral y hasta un año después; los señalados por las fracciones II, III y IV durante el último año y un año después de que se extinga la relación laboral, y los mencionados en la fracción V, conforme lo señalen las leyes que los rijan.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 805.
+
+El incumplimiento a lo dispuesto por el artículo anterior, establecerá la presunción de ser ciertos los hechos que el actor exprese en su demanda, en relación con tales documentos, salvo la prueba en contrario.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 806.
+
+Siempre que uno de los litigantes pida copia o testimonio de un documento, pieza o expediente que obre en las oficinas públicas, la parte contraria tendrá derecho de que, a su costa, se adicione con lo que crea conducente del mismo documento, pieza o expediente.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 807.
+
+Los documentos existentes en el lugar donde se promueva el juicio, que se encuentren en poder de la contraparte, autoridades o terceros, serán objeto de cotejo o compulsa, a solicitud de la oferente, por conducto del actuario.
+
+Los documentos existentes en lugar distinto del de la residencia de la Junta, que se encuentren en cualquiera de los supuestos mencionados en el párrafo anterior, se cotejarán o compulsarán a solicitud del oferente, mediante exhorto dirigido a la autoridad que corresponda.
+
+Para que proceda la compulsa o cotejo, deberá exhibirse en la audiencia de ofrecimiento de pruebas, copia del documento que por este medio deba ser perfeccionado.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 808.
+
+Para que hagan fe en la República, los documentos procedentes del extranjero deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, en los términos que establezcan las leyes relativas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 809.
+
+Los documentos que se presenten en idioma extranjero deberán acompañarse de su traducción; la Junta, de oficio nombrará inmediatamente traductor oficial, el cual presentará y ratificará, bajo protesta de decir verdad, la traducción que haga dentro del término de cinco días, que podrá ser ampliado por la Junta, cuando a su juicio se justifique.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 810.
+
+Las copias hacen presumir la existencia de los originales, conforme a las reglas procedentes; pero si se pone en duda su exactitud, deberá ordenarse su cotejo con los originales de que se tomaron, siempre y cuando así se haya ofrecido.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 811.
+
+Si se objeta la autenticidad de algún documento en cuanto a contenido, firma o huella digital; las partes podrán ofrecer pruebas con respecto a las objeciones, las que se recibirán, si fueren procedentes, en la audiencia de desahogo de pruebas a que se refiere el artículo 884 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 812.
+
+Cuando los documentos públicos contengan declaraciones o manifestaciones hechas por particulares, sólo prueban que las mismas fueron hechas ante la autoridad que expidió el documento.
+
+Las declaraciones o manifestaciones de que se trate prueban contra quienes las hicieron o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Cuarta. De la Testimonial
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 813.
+
+La parte que ofrezca prueba testimonial deberá cumplir con los requisitos siguientes:
+
+I. Solo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar;
+
+II. Indicará los nombres y domicilios de los testigos; cuando exista impedimento para presentar directamente a los testigos, deberá solicitarse a la Junta que los cite, señalando la causa o motivo justificados que le impidan presentarlos directamente;
+
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+
+III. Si el testigo radica fuera del lugar de residencia de la Junta, el oferente deberá al ofrecer la prueba, acompañar interrogatorio por escrito, al tenor del cual deberá ser examinado el testigo; de no hacerlo, se declarará desierta. Asimismo, exhibirá copias del interrogatorio, las que se pondrán a disposición de las demás partes, para que dentro del término de tres días presenten su pliego de repreguntas en sobre cerrado; y
+
+IV. Cuando el testigo sea alto funcionario público, a juicio de la Junta, podrá rendir su declaración por medio de oficio, observándose lo dispuesto en este artículo en lo que sea aplicable.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 814.
+
+La Junta, en el caso de la fracción II del artículo anterior, ordenará se cite al testigo para que rinda su declaración, en la hora y día que al efecto se señale, con el apercibimiento de ser presentado por conducto de la Policía.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 815.
+
+En el desahogo de la prueba testimonial se observarán las normas siguientes:
+
+I. El oferente de la prueba presentará directamente a sus testigos, salvo lo dispuesto en el artículo 813, y la Junta procederá a recibir su testimonio;
+
+II. El testigo deberá identificarse ante la Junta cuando así lo pidan las partes y si no puede hacerlo en el momento de la audiencia, la Junta le concederá tres días para ello;
+
+III. Los testigos serán examinados por separado, en el orden en que fueran ofrecidos. Los interrogatorios se formularán oralmente, salvo lo dispuesto en las fracciones III y IV del artículo 813 de esta Ley;
+
+IV. Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado civil, domicilio, ocupación y lugar en que se trabaja y a continuación se procederá a tomar su declaración;
+
+V. Las partes formularán las preguntas en forma verbal y directamente. La Junta admitirá aquellas que tengan relación directa con el asunto de que se trata y que no se hayan hecho con anterioridad al mismo testigo, o lleven implícita la contestación;
+
+VI. Primero interrogará el oferente de la prueba y posteriormente a las demás partes. La Junta, cuando lo estime pertinente, examinará directamente al testigo;
+
+VII. Las preguntas y respuestas se harán constar en autos, escribiéndose textualmente unas y otras;
+
+VIII. Los testigos están obligados a dar la razón de su dicho, y la Junta deberá solicitarla, respecto de las respuestas que no la lleven ya en sí; y
+
+IX. El testigo, enterado de su declaración, firmará al margen de las hojas que la contengan y así se hará constar por el Secretario; si no sabe o no puede leer o firmar la declaración, le será leída por el Secretario e imprimirá su huella digital y una vez ratificada, no podrá variarse ni en la substancia ni en la redacción.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 816.
+
+Si el testigo no habla el idioma español rendirá su declaración por medio de intérprete, que será nombrado por el tribunal, el que protestará su fiel desempeño. Cuando el testigo lo pidiere, además de asentarse su declaración en español, deberá escribirse en su propio idioma, por él o por el intérprete.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 817.
+
+La Junta, al girar el exhorto para desahogar la prueba testimonial, acompañará el interrogatorio con las preguntas calificadas, e indicará a la autoridad exhortada, los nombres de las personas que tienen facultad para intervenir en la diligencia.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 818.
+
+Las objeciones o tachas a los testigos se formularán oralmente al concluir el desahogo de la prueba para su apreciación posterior por la Junta.
+
+Cuando se objetare de falso a un testigo, la Junta recibirá las pruebas en la audiencia de desahogo de pruebas a que se refiere el artículo 884 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 819.
+
+Al testigo que dejare de concurrir a la audiencia, no obstante haber sido citado legalmente, se le hará efectivo el apercibimiento decretado, y la Junta dictará las medidas necesarias para que comparezca a rendir su declaración, el día y hora señalados.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 820.
+
+Un solo testigo podrá formar convicción, si en el mismo concurren circunstancias que sean garantía de veracidad que lo hagan insospechable de falsear los hechos sobre los que declara, si:
+
+I. Fue el único que se percató de los hechos;
+
+II. La declaración no se encuentre en oposición con otras pruebas que obren en autos; y
+
+III. Concurran en el testigo circunstancias que sean garantía de veracidad.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Quinta. De la Pericial
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 821.
+
+La prueba pericial versará sobre cuestiones relativas a alguna ciencia, técnica, o arte.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 822.
+
+Los peritos deben tener conocimiento en la ciencia, técnica, o arte sobre el cual debe versar su dictamen; si la profesión o el arte estuvieren legalmente reglamentados, los peritos deberán acreditar estar autorizados conforme a la Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 823.
+
+La prueba pericial deberá ofrecerse indicando la materia sobre la que deba versar, exhibiendo el cuestionario respectivo, con copia para cada una de las partes.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 824.
+
+La Junta nombrará los peritos que correspondan al trabajador, en cualquiera de los siguientes casos:
+
+I. Si no hiciera nombramiento de perito;
+
+II. Si designándolo no compareciera a la audiencia respectiva a rendir su dictamen; y
+
+III. Cuando el trabajador lo solicite, por no estar en posibilidad de cubrir los honorarios correspondientes.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 825.
+
+En el desahogo de la prueba pericial se observarán las disposiciones siguientes:
+
+I. Cada parte presentará personalmente a su perito el día de la audiencia, salvo el caso previsto en el artículo anterior;
+
+II. Los peritos protestarán de desempeñar su cargo con arreglo a la Ley e inmediatamente rendirán su dictamen; a menos que por causa justificada soliciten se señale nueva fecha para rendir su dictamen;
+
+III. La prueba se desahogará con el perito que concurra, salvo el caso de la fracción II del artículo que antecede, la Junta señalará nueva fecha, y dictará las medidas necesarias para que comparezca el perito;
+
+IV. Las partes y los miembros de la Junta podrán hacer a los peritos las preguntas que juzguen conveniente; y
+
+V. En caso de existir discrepancia en los dictámenes, la Junta designará un perito tercero.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 826.
+
+El perito tercero en discordia que designe la Junta debe excusarse dentro de las cuarenta y ocho horas siguientes a la en que se notifique su nombramiento, siempre que concurra alguna de las causas a que se refiere el Capítulo Cuarto de este Título.
+
+La Junta calificará de plano la excusa y, declarada procedente, se nombrará nuevo perito.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Sexta. De la Inspección
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 827.
+
+La parte que ofrezca la inspección deberá precisar el objeto materia de la misma; el lugar donde debe practicarse; los períodos que abarcará y los objetos y documentos que deben ser examinados. Al ofrecerse la prueba, deberá hacerse en sentido afirmativo, fijando los hechos o cuestiones que se pretenden acreditar con la misma.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 828.
+
+Admitida la prueba de inspección por la Junta, deberá señalar día, hora y lugar para su desahogo; si los documentos y objetos obran en poder de alguna de las partes, la Junta la apercibirá que, en caso de no exhibirlos, se tendrán por ciertos presuntivamente los hechos que se tratan de probar. Si los documentos y objetos se encuentran en poder de personas ajenas a la controversia se aplicarán los medios de apremio que procedan.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 829.
+
+En el desahogo de la prueba de inspección se observarán las reglas siguientes:
+
+I. El actuario, para el desahogo de la prueba, se ceñirá estrictamente a lo ordenado por la Junta;
+
+II. El actuario requerirá se le pongan a la vista los documentos y objetos que deben inspeccionarse;
+
+III. Las partes y sus apoderados pueden concurrir a la diligencia de inspección y formular las objeciones u observaciones que estimen pertinentes; y
+
+IV. De la diligencia se levantará acta circunstanciada, que firmarán los que en ella intervengan y la cual se agregará al expediente, previa razón en autos.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Séptima. De la Presuncional
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 830.
+
+Presunción es la consecuencia que la Ley o la Junta deducen de un hecho conocido para averiguar la verdad de otro desconocido.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 831.
+
+Hay presunción legal cuando la Ley la establece expresamente; hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia de aquél.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 832.
+
+El que tiene a su favor una presunción legal, sólo está obligado a probar el hecho en que la funda.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 833.
+
+Las presunciones legales y humanas, admiten prueba en contrario.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 834.
+
+Las partes al ofrecer la prueba presuncional, indicarán en qué consiste y lo que se acredita con ella.
+
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Octava. De la Instrumental
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 835.
+
+La instrumental es el conjunto de actuaciones que obren en el expediente, formado con motivo del juicio.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 836.
+
+La Junta estará obligada a tomar en cuenta las actuaciones que obren en el expediente del juicio.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Primera. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 837.
+
+Las resoluciones de los tribunales laborales son:
+
+I. Acuerdos: si se refieren a simples determinaciones de trámite o cuando decidan cualquier cuestión dentro del negocio;
+
+II. Autos incidentales o resoluciones interlocutorias: cuando resuelvan dentro o fuera de juicio un incidente; y
+
+III. Laudos: cuando decidan sobre el fondo del conflicto.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 838.
+
+La Junta dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposición en contrario de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 839.
+
+Los (sic) resoluciones de las Juntas deberán ser firmadas por los integrantes de ellas y por el Secretario, el mismo día en que las voten.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 840.
 
 El laudo contendrá:
 
 I. Lugar, fecha y Junta que lo pronuncie;
 
-II. Nombres y domicilios de las partes, de sus representantes, abogados y asesores;
+II. Nombres y domicilios de las partes y de sus representantes;
 
-III. Un extracto de la demanda y su contestación, que deberá contener, con claridad y concisión, las peticiones de las partes y las cuestiones controvertidas;
+III. Un extracto de la demanda y su contestación que deberá contener con claridad y concisión, las peticiones de las partes y los hechos controvertidos;
 
-IV. La enumeración de las pruebas y la apreciación que de ellas haga la Junta;
+IV. Enumeración de las pruebas y apreciación que de ellas haga la Junta;
 
-V. Un extracto de los alegatos;
+V. Extracto de los alegatos;
 
-VI. Las razones legales o de equidad y las doctrinas jurídicas que le sirvan de fundamento; y
+VI. Las razones legales o de equidad; la jurisprudencia y doctrina que les sirva de fundamento; y
 
 VII. Los puntos resolutivos.
 
-###### Artículo 781.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Engrosado el laudo, el Secretario recogerá las firmas de los miembros de la Junta que votaron el negocio.
+###### Artículo 841.
 
-###### Artículo 782.
+Los laudos se dictarán a verdad sabida, y buena fe guardada y apreciando los hechos en conciencia, sin necesidad de sujetarse a reglas o formulismos sobre estimación de las pruebas, pero expresarán los motivos y fundamentos legales en que se apoyen.
 
-Las disposiciones de este Capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 28, fracción III; 151; 158; 204, fracción IX; 209, fracción V; 210, 236, fracción III; 389, 418; 424, fracción IV; 427, fracciones I, II y VI; 434, fracciones I, III y V; 439, 503 y 505 y los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salario.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 783.
+###### Artículo 842.
 
-La Junta, al recibir la demanda o al concluir las investigaciones a que se refiere el artículo 503, citará a una audiencia, que deberá efectuarse dentro de los cinco días siguientes.
+Los laudos deben ser claros, precisos y congruentes con la demanda, contestación, y demás pretensiones deducidas en el juicio oportunamente.
 
-###### Artículo 784.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-La Junta, al citar a los demandados o interesados, los apercibirá que de no concurrir a la audiencia a que se refiere el artículo siguiente, tendrá por admitidas las peticiones de los que concurran, salvo lo dispuesto en el artículo 787.
+###### Artículo 843.
 
-###### Artículo 785.
+En los laudos, cuando se trate de prestaciones económicas, se determinará el salario que sirva de base a la condena; cuantificándose el importe de la prestación se señalarán las medidas con arreglo a las cuales deberá cumplirse con la resolución. Sólo por excepción podrá ordenarse que se abra incidente de liquidación.
 
-La audiencia se celebrará de conformidad con las normas siguientes:
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-I. La Junta procurará avenir a las partes, de conformidad con las disposiciones del artículo 753, fracción I;
+###### Artículo 844.
 
-II. Cada una de las partes expondrá lo que juzgue conveniente, formulará sus peticiones y ofrecerá y rendirá las pruebas que le sean aceptadas;
+Cuando la condena sea de cantidad líquida, se establecerán en el propio laudo, sin necesidad de incidente, las bases con arreglo a las cuales deberá cumplimentarse.
 
-III. Si se ofrece el recuento de los trabajadores, se observarán las disposiciones contenidas en el artículo 462; y
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-IV. Concluida la recepción de las pruebas, la Junta oirá los alegatos de las partes y dictará resolución.
+###### Artículo 845.
 
-###### Artículo 786.
+Si alguno o todos los representantes de los trabajadores o de los patrones ante la Junta, que concurran a la audiencia o diligencia se nieguen a votar, serán requeridos en el acto por el Secretario quien les indicará las responsabilidades en que incurren si no lo hacen. Si persiste la negativa, el Secretario levantará un acta circunstanciada, a efecto de que se someta a la autoridad respectiva a fin de que se determine la responsabilidad en que hayan incurrido, según los artículos 671 al 675 de esta Ley.
 
-Para la tramitación y resolución de los conflictos a que se refiere este capítulo, la Junta se integrará con el Auxiliar, salvo los casos de los artículos 389, 418, 424, fracción IV, 427, fracciones II, III y VI, 434, fracciones I, III y V y 439, en los que deberá intervenir el Presidente, o el de la Junta Especial.
+En estos casos se observarán las normas siguientes:
 
-###### Artículo 787.
+I. Si se trata de acuerdos se tomarán por el presidente o auxiliar y los representantes que la voten. En caso de empate el voto de los representantes ausentes se sumará al del presidente o auxiliar;
 
-Si no concurre el actor o promovente a la audiencia, se tendrá por reproducido su escrito o comparecencia inicial. Si se trata de la aplicación del artículo 503, la Junta, al dictar su resolución, tomará en consideración el resultado de la investigación y las alegaciones y pruebas aportadas por las personas que dedujeron derechos a la indemnización.
+II. Si se trata de laudo:
 
-###### Artículo 788.
+a) Si después del requerimiento insisten en su negativa, quedarán excluidos del conocimiento del negocio y el Presidente de la Junta o de la Junta Especial, llamará a los suplentes.
 
-Si no concurren las demás partes, se hará efectivo el apercibimiento a que se refiere el artículo 784.
+b) Si los suplentes no se presentan a la Junta dentro del término que se les señale, que no podrá ser mayor de tres días, o se niegan a votar el laudo, el Presidente de la Junta o de la Junta Especial dará cuenta al Secretario del Trabajo y Previsión Social, al Gobernador del Estado o al Jefe del Departamento del Distrito Federal, para que designen las personas que los substituyan; en caso de empate, se entenderá que los ausentes sumarán su voto al del Presidente.
 
-###### Artículo 789.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Las disposiciones de este capítulo rigen la tramitación y resolución de los conflictos colectivos de naturaleza económica.
+###### Artículo 846.
 
-###### Artículo 790.
+Si votada una resolución uno o más de los representantes ante la Junta, se niegan a firmarla, serán requeridos en el mismo acto por el Secretario y, si insiste en su negativa previa certificación del mismo Secretario, la resolución producirá sus efectos legales, sin perjuicio de las responsabilidades en que hayan incurrido los omisos.
 
-En la tramitación de los conflictos a que se refiere este capítulo, las Juntas deben procurar, ante todo, que las partes lleguen a un convenio. A este fin, podrán intentar la conciliación en cualquier estado del procedimiento, siempre que no se haya dictado la resolución que ponga fin al conflicto.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 791.
+###### Artículo 847.
 
-La solicitud deberá contener una exposición de los hechos y causas que dieron origen al conflicto y la determinación de lo que se pida.
+Una vez notificado el laudo, cualquiera de las partes, dentro del término de tres días, podrá solicitar a la Junta la aclaración de la resolución, para corregir errores o precisar algún punto. La Junta dentro del mismo plazo resolverá, pero por ningún motivo podrá variarse el sentido de la resolución.
 
-###### Artículo 792.
+La interposición de la aclaración, no interrumpe el término para la impugnación del laudo.
 
-El patrón presentará con su solicitud:
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-I. Los documentos públicos o privados que tiendan a comprobar la situación de la empresa o establecimiento y la necesidad de las medidas que solicite;
+###### Artículo 848.
 
-II. Una relación de los trabajadores a su servicio, con expresión de sus nombres y apellidos, empleo que desempeñen, salario que perciban, y antigüedad en el trabajo; y
+Las resoluciones de las Juntas no admiten ningún recurso. Las Juntas no pueden revocar sus resoluciones.
 
-III. Un dictamen formulado por perito contador, relativo a la situación de la empresa o establecimiento.
+Las partes pueden exigir la responsabilidad en que incurran los miembros de la Junta.
 
-El promovente acompañará copia de la solicitud y de los anexos.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 793.
+### CAPITULO III. Procedimientos paraprocesales o voluntarios
 
-La Junta, al recibir la solicitud, citará a las partes a una audiencia, que deberá efectuarse dentro de los cinco días siguientes.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 794.
+###### Artículo 849.
 
-La audiencia se celebrará de conformidad con las normas siguientes:
+Contra actos de los presidentes, actuarios o funcionarios, legalmente habilitados, en ejecución de los laudos, convenios, de las resoluciones que ponen fin a las tercerías y de los dictados en las providencias cautelares, procede la revisión.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 850.
+
+De la revisión conocerá:
+
+I. La Junta de Conciliación o la Junta Especial de la de Conciliación y Arbitraje correspondiente, cuando se trate de actos de los presidentes de las mismas;
+
+II. El Presidente de la Junta o el de la Junta Especial correspondiente, cuando se trate de actos de los actuarios o funcionarios legalmente habilitados; y
+
+III. El Pleno de la Junta de Conciliación y Arbitraje cuando se trate de actos del Presidente de ésta o cuando se trate de un conflicto que afecte a dos o más ramas de la industria.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 851.
+
+La revisión deberá presentarse por escrito ante la autoridad competente, dentro de los tres días siguientes al en que se tenga conocimiento del acto que se impugne.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 852.
+
+En la tramitación de la revisión se observarán las normas siguientes:
+
+I. Al promoverse la revisión se ofrecerán las pruebas respectivas;
+
+II. Del escrito de revisión se dará vista a las otras partes por tres días, para que manifiesten lo que a su derecho convenga y ofrezcan las pruebas que juzguen pertinentes; y
+
+III. Se citará a una audiencia de pruebas y alegatos, dentro de los diez días siguientes a la presentación de la revisión, en la que se admitirán y desahogarán las pruebas procedentes y se dictará resolución.
+
+Declarada procedente la revisión, se modificará el acto que la originó en los términos que procedan y se aplicarán las sanciones disciplinarias a los responsables, conforme lo señalan los artículos 637 al 647 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 853.
+
+Procede la reclamación contra las medidas de apremio que impongan los Presidentes de las Juntas de Conciliación, de las Juntas Especiales y de las de Conciliación y Arbitraje, así como de los auxiliares de éstas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 854.
+
+En la tramitación de la reclamación se observarán las normas siguientes:
+
+I. Dentro de los tres días siguientes al que se tenga conocimiento de la medida, se promoverá por escrito la reclamación, ofreciendo las pruebas correspondientes;
+
+II. Al admitirse la reclamación se solicitará al funcionario que haya dictado la medida impugnada, rinda su informe por escrito fundado y motivado respecto al acto que se impugnó y adjuntando las pruebas correspondientes; y
+
+III. La Junta citará a una audiencia, que deberá llevarse a cabo durante los diez días siguientes de aquél en que se admitió la reclamación, para recibir y admitir pruebas y dictar resolución.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 855.
+
+De resultar procedente la reclamación, se modificará en lo que procede la medida de apremio y se aplicará al funcionario responsable la sanción que previene el artículo 672 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 856.
+
+Los Presidentes de las Juntas, podrán imponer a la parte que promueva la revisión o la reclamación notoriamente improcedente, una multa de dos a siete veces el salario mínimo general que rija en el lugar y tiempo en que se cometió la violación.
+
+Se entenderá que es notoriamente improcedente cuando a juicio de su Presidente, según el caso, aparezca que se promueva con el propósito de demorar o entorpecer la administración de justicia.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 857.
+
+Los Presidentes de las Juntas de Conciliación y Arbitraje, o los de las Especiales de las mismas, a petición de parte, podrán decretar las siguientes providencias cautelares:
+
+I. Arraigo, cuando haya temor de que se ausente u oculte la persona contra quien se entable o se haya entablado una demanda; y
+
+II. Secuestro provisional, cuando sea necesario asegurar los bienes de una persona, empresa o establecimiento.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 858.
+
+Las providencias cautelares podrán ser solicitadas al presentar la demanda, o posteriormente, ya sea que se formulen por escrito o en comparecencia. En el primer caso, se tramitarán previamente al emplazamiento y en el segundo, por cuerda separada. En ningún caso, se pondrá la solicitud en conocimiento de la persona contra quien se pida la providencia.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 859.
+
+El arraigo se decretará de plano y su efecto consistirá en prevenir al demandado que no se ausente del lugar de su residencia, sin dejar representante legítimo, suficientemente instruido y expensado.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 860.
+
+La persona que quebrante el arraigo decretado, será responsable del delito de desobediencia a un mandato de autoridad. Para este efecto, el Presidente de la Junta hará la denuncia respectiva ante el Ministerio Público respectivo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 861.
+
+Para decretar un secuestro provisional se observarán las normas siguientes:
+
+I. El solicitante determinará el monto de lo demandado y rendirá las pruebas que juzgue conveniente para acreditar la necesidad de la medida;
+
+II. El Presidente de la Junta, tomando en consideración las circunstancias del caso y las pruebas rendidas, dentro de las veinticuatro horas siguientes a la en que se le solicite, podrá decretar el secuestro provisional si, a su juicio, es necesaria la providencia;
+
+III. El auto que ordene el secuestro determinará el monto por el cual deba practicarse; y
+
+IV. El Presidente de la Junta dictará las medidas a que se sujetará el secuestro, a efecto de que no se suspenda o dificulte el desarrollo de las actividades de la empresa o establecimiento.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 862.
+
+En el caso de la fracción II del artículo anterior, se considerará necesaria la providencia, cuando el solicitante compruebe que el demandado tiene diferentes juicios o reclamaciones ante autoridades judiciales o administrativas promovidos por terceros en su contra, y que por su cuantía, a criterio del Presidente, exista el riesgo de insolvencia.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 863.
+
+La providencia se llevará a cabo aún cuando no esté presente la persona contra quien se dictó. El propietario de los bienes secuestrados será depositario de los mismos, sin necesidad de que acepte el cargo ni proteste desempeñarlo, con las responsabilidades y atribuciones inherentes al mismo, observándose las disposiciones de esta Ley en lo que sean aplicables. En caso de persona moral, el depositario lo será el gerente o director general o quien tenga la representación legal de la misma.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 864.
+
+Si el demandado constituye depósito u otorga fianza bastante, no se llevará a cabo la providencia cautelar o se levantará la que se haya decretado.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 865.
+
+En los procedimientos ante las Juntas Federales y Locales de Conciliación, se observarán las normas que establecen las fracciones I y II del artículo 600 de esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 866.
+
+Terminado el procedimiento de conciliación, las partes deberán señalar domicilio para recibir notificaciones, en el lugar de residencia de la Junta Federal, Local o Especial de Conciliación y Arbitraje a la que deba remitirse el expediente; si no hacen el señalamiento, las subsecuentes notificaciones, aún las personales, se harán en el boletín o estrados de la Junta correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 867.
+
+Cuando las Juntas de Conciliación conozcan de los conflictos que tengan por objeto el cobro de prestaciones, cuyo monto no exceda del importe de tres meses de salario, se observarán las disposiciones contenidas en el Capítulo XVIII de este Título.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 868.
+
+Si no existe Junta de Conciliación Permanente, los trabajadores o patrones, pueden ocurrir ante la representación de la Secretaría del Trabajo y Previsión Social o ante la Autoridad Municipal, según el caso, para que se integre la Junta de Conciliación Accidental.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 869.
+
+En la integración de las Juntas de Conciliación Accidentales, se observarán las normas siguientes:
+
+I. Las autoridades señaladas en el artículo anterior, en su caso, prevendrán a los trabajadores y patrones que dentro del término de veinticuatro horas designen sus representantes, y les darán a conocer el nombre del representante del Gobierno que presidirá la Junta; y
+
+II. Las autoridades citadas harán las designaciones de los representantes obrero y patronal, cuando éstos no hayan hecho las designaciones
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 870.
+
+Las disposiciones de este Capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos de naturaleza jurídica que no tengan una tramitación especial en esta Ley.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 871.
+
+El procedimiento se iniciará con la presentación del escrito de demanda, ante la Oficialía de Partes o la Unidad Receptora de la Junta competente, la cual lo turnará al Pleno o a la Junta Especial que corresponda, el mismo día antes de que concluyan las labores de la Junta.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 872.
+
+La demanda se formulará por escrito, acompañando tantas copias de la misma, como demandados haya. El actor en su escrito inicial de demanda expresará los hechos en que funde sus peticiones, pudiendo acompañar las pruebas que considere pertinentes, para demostrar sus pretensiones.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 873.
+
+El Pleno o la Junta Especial, dentro de las veinticuatro horas siguientes, contadas a partir del momento en que reciba el escrito de demanda, dictará acuerdo, en el que señalará día y hora para la celebración de la audiencia de conciliación, demanda y excepciones y ofrecimiento y admisión de pruebas, que deberá efectuarse dentro de los quince días siguientes al en que se haya recibido el escrito de demanda. En el mismo acuerdo se ordenará se notifique personalmente a las partes, con diez días de anticipación a la audiencia cuando menos, entregando al demandado copia cotejada de la demanda, y ordenando se notifique a las partes con el apercibimiento al demandado de tenerlo por inconforme con todo arreglo, por contestada la demanda en sentido afirmativo, y por perdido el derecho de ofrecer pruebas, si no concurre a la audiencia.
+
+Cuando el actor sea el trabajador o sus beneficiarios, la Junta, en caso de que notare alguna irregularidad en el escrito de demanda, o que estuviere ejercitando acciones contradictorias, al admitir la demanda le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Segunda. Del procedimiento del embargo
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Tercera. Remates
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 874.
+
+La falta de notificación de alguno o de todos los demandados, obliga a la Junta a señalar de oficio nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a la misma o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hayan sido notificados.
+
+Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva fecha para su celebración, a las que fueron notificadas y no concurrieron, se les notificará por boletín o en estrados de la Junta; y las que no fueren notificadas se les hará personalmente.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 875.
+
+La audiencia a que se refiere el artículo 873 constará de tres etapas:
+
+a) De conciliación;
+
+b) De demanda y excepciones; y
+
+c) De ofrecimiento y admisión de pruebas.
+
+La audiencia se iniciará con la comparecencia de las partes que concurran a la misma; las que estén ausentes, podrán intervenir en el momento en que se presenten, siempre y cuando la Junta no haya tomado el acuerdo de las peticiones formuladas en la etapa correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 876.
+
+La etapa conciliatoria se desarrollará en la siguiente forma:
+
+I. Las partes comparecerán personalmente a la Junta, sin abogados patronos, asesores o apoderados.
+
+II. La Junta intervendrá para la celebración de pláticas entre las partes y exhortará a las mismas para que procuren llegar a un arreglo conciliatorio.
+
+III. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo;
+
+IV. Las partes de común acuerdo, podrán solicitar se suspenda la audiencia con objeto de conciliarse; y la Junta, por una sola vez, la suspenderá y fijará su reanudación dentro de los ocho días siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de Ley;
+
+V. Si las partes no llegan a un acuerdo, se les tendrá por inconformes, pasando a la etapa de demanda y excepciones; y
+
+VI. De no haber concurrido las partes a la conciliación, se les tendrá por inconformes con todo arreglo y deberán presentarse personalmente a la etapa de demanda y excepciones.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 877.
+
+La Junta de Conciliación y Arbitraje que reciba un expediente de la de Conciliación, citará a las partes a la etapa de demanda y excepciones, y ofrecimiento y admisión de pruebas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 878.
+
+La etapa de demanda y excepciones, se desarrollará conforme a las normas siguientes:
+
+I. El Presidente de la Junta hará una exhortación a las partes y si éstas persistieren en su actitud, dará la palabra al actor para la exposición de su demanda;
+
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+
+II. El actor expondrá su demanda, ratificándola o modificándola, precisando los puntos petitorios. Si el promovente, siempre que se trate del trabajador, no cumpliere los requisitos omitidos o no subsanare las irregularidades que se le hayan indicado en el planteamiento de las adiciones a la demanda, la Junta lo prevendrá para que lo haga en ese momento;
+
+III. Expuesta la demanda por el actor, el demandado procederá en su caso, a dar contestación a la demanda oralmente o por escrito. En este último caso estará obligado a entregar copia simple al actor de su contestación; si no lo hace, la Junta la expedirá a costa del demandado;
+
+IV. En su contestación opondrá el demandado sus excepciones y defensas, debiendo de referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, y expresando los que ignore cuando no sean propios; pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquellos sobre los que no se suscite controversia, y no podrá admitirse prueba en contrario. La negación pura y simple del derecho, importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho;
+
+V. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia y si no lo hiciere y la Junta se declara competente, se tendrá por confesada la demanda;
+
+VI. Las partes podrán por una sola vez, replicar y contrarreplicar brevemente, asentándose en actas sus alegaciones si lo solicitaren;
+
+VII. Si el demandado reconviene al actor, éste procederá a contestar de inmediato, o bien, a solicitud del mismo, la Junta acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los cinco días siguientes; y
+
+VIII. Al concluir el período de demanda y excepciones, se pasará inmediatamente al de ofrecimiento y admisión de pruebas. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 879.
+
+La audiencia se llevará a cabo, aun cuando no concurran las partes.
+
+Si el actor no comparece al período de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
+
+Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que el actor no era trabajador o patrón, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 880.
+
+La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las normas siguientes:
+
+I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel a su vez podrá objetar las del demandado;
+
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+
+II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas. Asimismo, en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los 10 días siguientes a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos;
+
+III. Las partes deberán ofrecer sus pruebas, observando las disposiciones del Capítulo XII de este Título; y
+
+IV. Concluido el ofrecimiento, la Junta resolverá inmediatamente sobre las pruebas que admita y las que deseche.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 881.
+
+Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitirán las que se refieren a hechos supervenientes o de tachas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 882.
+
+Si las partes están conformes con los hechos y la controversia queda reducida a un punto de derecho, al concluir la audiencia de conciliación, demanda y excepciones, y ofrecimiento y admisión de pruebas, se otorgará a las partes término para alegar y se dictará el laudo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 883.
+
+La Junta, en el mismo acuerdo en que admita las pruebas, señalará día y hora para la celebración de la audiencia de desahogo de pruebas, que deberá efectuarse dentro de los diez días hábiles siguientes, y ordenará, en su caso, se giren los oficios necesarios para recabar los informes o copias que deba expedir alguna autoridad o exhibir persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta Ley; y dictará las medidas que sean necesarias, a fin de que el día de la audiencia se puedan desahogar todas las pruebas que se hayan admitido.
+
+Cuando por la naturaleza de las pruebas admitidas, la Junta considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando se reciban primero las del actor y después las del demandado. Este período no deberá exceder de treinta días.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 884.
+
+La audiencia de desahogo de pruebas se llevará a cabo conforme a las siguientes normas:
+
+I. Abierta la audiencia, se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primeramente las del actor e inmediatamente las del demandado o, en su caso, aquellas que hubieren sido señaladas para desahogarse en su fecha;
+
+II. Si faltare por desahogar alguna prueba, por no estar debidamente preparada, se suspenderá la audiencia para continuarla dentro de los diez días siguientes, haciéndose uso de los medios de apremio a que se refiere esta Ley;
+
+III. En caso de que las únicas pruebas que falten por desahogar sean copias o documentos que hayan solicitado las partes, no se suspenderá la audiencia, sino que la Junta requerirá a la autoridad o funcionario omiso, le remita los documentos o copias; si dichas autoridades o funcionarios no cumplieran con esa obligación, a solicitud de parte, la Junta se lo comunicará al superior jerárquico para que se le apliquen las sanciones correspondientes; y
+
+IV. Desahogadas las pruebas, las partes, en la misma audiencia, podrán formular sus alegatos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 885.
+
+Al concluir el desahogo de las pruebas, formulados los alegatos de las partes y previa certificación del Secretario de que ya no quedan pruebas por desahogar, el auxiliar, de oficio, declarará cerrada la instrucción, y dentro de los diez días siguientes formulará por escrito el proyecto de resolución en forma de laudo, que deberá contener:
+
+I. Un extracto de la demanda y de la contestación, réplica y contrarréplica; y en su caso, de la reconvención y contestación de la misma;
+
+II. El señalamiento de los hechos controvertidos;
+
+III. Una relación de las pruebas admitidas y desahogadas, y su apreciación en conciencia, señalando los hechos que deban considerarse probados;
+
+IV. Las consideraciones que fundadas y motivadas se deriven, en su caso, de lo alegado y probado; y
+
+V. Los puntos resolutivos.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 886.
+
+Del proyecto de laudo formulado por el auxiliar, se entregará una copia a cada uno de los miembros de la Junta.
+
+Dentro de los cinco días hábiles siguientes al de haber recibido la copia del proyecto, cualquiera de los miembros de la Junta podrá solicitar que se practiquen las diligencias que no se hubieren llevado a cabo por causas no imputables a las partes, o cualquiera diligencia que juzgue conveniente para el esclarecimiento de la verdad.
+
+La Junta, con citación de las partes, señalará, en su caso, día y hora para el desahogo, dentro de un término de ocho días, de aquellas pruebas que no se llevaron a cabo o para la práctica de las diligencias solicitadas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 887.
+
+Transcurrido el término a que se refiere el artículo anterior, concedido a los integrantes de la Junta, o en su caso, desahogadas las diligencias que en este término se hubiesen solicitado, el Presidente de la Junta citará a los miembros de la misma, para la discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que hayan concluido el término fijado o el desahogo de las diligencias respectivas.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 888.
+
+La discusión y votación del proyecto de laudo, se llevará a cabo en sesión de la Junta, de conformidad con las normas siguientes:
+
+I. Se dará lectura al proyecto de resolución, a los alegatos y observaciones formuladas por las partes;
+
+II. El Presidente pondrá a discusión el negocio con el resultado de las diligencias practicadas; y
+
+III. Terminada la discusión, se procederá a la votación, y el Presidente declarará el resultado.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 889.
+
+Si el proyecto de resolución fuere aprobado, sin adiciones ni modificaciones, se elevará a la categoría de laudo y se firmará de inmediato por los miembros de la Junta.
+
+Si al proyecto se le hicieran modificaciones o adiciones, se ordenará al secretario que de inmediato redacte el laudo, de acuerdo con lo aprobado. En este caso, el resultado se hará constar en acta.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 890.
+
+Engrosado el laudo, el Secretario recogerá, en su caso, las firmas de los miembros de la Junta que votaron en el negocio y, una vez recabadas, turnará el expediente al actuario, para que de inmediato notifique personalmente el laudo a las partes.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 891.
+
+Si la Junta estima que alguna de las partes obró con dolo o mala fe, podrá imponerle en el laudo una multa hasta de siete veces el salario mínimo general, vigente en el tiempo y lugar de residencia de la Junta. La misma multa podrá imponerse a los representantes de las partes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 892.
+
+Las disposiciones de este Capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 5o. fracción III; 28, fracción III; 151; 153, fracción X; 158; 162; 204, fracción IX; 209, fracción V; 210; 236, fracciones II y III; 389; 418; 425, fracción IV; 427 fracciones I, II y VI; 434, fracciones I, III y V; 439; 503 y 505 de esta Ley y los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salarios.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 893.
+
+El procedimiento se iniciará con la presentación del escrito de demanda, en el cual el actor podrá ofrecer sus pruebas ante la Junta competente, la cual con diez días de anticipación, citará a una audiencia de conciliación, demanda y excepciones, pruebas y resolución, la que deberá efectuarse dentro de los quince días hábiles siguientes a la fecha en que se haya presentado la demanda o al concluir las investigaciones a que se refiere el artículo 503 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 894.
+
+La Junta, al citar al demandado, lo apercibirá que de no concurrir a la audiencia a que se refiere el artículo siguiente, dará por admitidas las peticiones de la parte actora, salvo que sean contrarias a lo dispuesto por la Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 895.
+
+La audiencia de conciliación, demanda y excepciones, pruebas y resolución, se celebrará de conformidad con las normas siguientes:
+
+I. La Junta procurará avenir a las partes, de conformidad con las fracciones I y II del artículo 876 de esta Ley;
+
+II. De no ser posible lo anterior, cada una de las partes expondrá lo que juzgue conveniente, formulará sus peticiones y ofrecerá y rendirá las pruebas que hayan sido admitidas;
+
+III. Si se ofrece el recuento de los trabajadores, se observarán las disposiciones contenidas en el artículo 931 de esta Ley; y
+
+IV. Concluida la recepción de las pruebas, la Junta oirá los alegatos y dictará resolución.
+
+(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+
+###### Artículo 896.
+
+Si no concurre el actor o promovente a la audiencia, se tendrá por reproducido su escrito o comparecencia inicial, y en su caso, por ofrecidas las pruebas que hubiere acompañado. Si se trata de la aplicación del artículo 503 de esta Ley, la Junta, dictará su resolución tomando en cuenta los alegatos y pruebas aportadas por las personas que ejercitaron derechos derivados de las prestaciones que generó el trabajador fallecido.
+
+Cuando se controvierta el derecho de los presuntos beneficiarios, se suspenderá la audiencia y se señalará su reanudación dentro de los quince días siguientes, a fin de que las partes puedan ofrecer y aportar las pruebas relacionadas con los puntos controvertidos.
+
+Si no concurren las demás partes, se hará efectivo el apercibimiento a que se refiere el artículo 894 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 897.
+
+Para la tramitación y resolución de los conflictos a que se refiere este Capítulo, la Junta se integrará con el Auxiliar, salvo los casos de los artículos 389; 418; 424, fracción IV; 427, fracciones II, III y VI; 434, fracciones I, III y V; y 439, de esta Ley, en los que deberá intervenir el Presidente de la Junta o el de la Junta Especial.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 898.
+
+La Junta, para los efectos del artículo 503 de esta Ley, solicitará al patrón le proporcione los nombres y domicilios de los beneficiarios registrados ante él y en las instituciones oficiales; podrá además ordenar la práctica de cualquier diligencia, o emplear los medios de comunicación que estime pertinente, para convocar a todas las personas que dependían económicamente del trabajador fallecido a ejercer sus derechos ante la Junta.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 899.
+
+En los procedimientos especiales se observarán las disposiciones de los Capítulos XII y XVII de este Título, en lo que sean aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Primera. De las tercerías
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 900.
+
+Los conflictos colectivos de naturaleza económica, son aquéllos cuyo planteamiento tiene por objeto la modificación o implantación de nuevas condiciones de trabajo, o bien, la suspensión o terminación de las relaciones colectivas de trabajo, salvo que la presente Ley señale otro procedimiento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 901.
+
+En la tramitación de los conflictos a que se refiere este Capítulo, las Juntas deberán procurar, ante todo, que las partes lleguen a un convenio. A este fin, podrán intentar la conciliación en cualquier estado del procedimiento, siempre que no se haya dictado la resolución que ponga fin al conflicto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 902.
+
+El ejercicio del derecho de huelga suspende la tramitación de los conflictos colectivos de naturaleza económica, pendientes ante la Junta de Conciliación y Arbitraje y la de las solicitudes que se presenten, salvo que los trabajadores manifiesten por escrito, estar de acuerdo en someter el conflicto a la decisión de la Junta.
+
+No es aplicable lo dispuesto en el párrafo anterior, cuando la huelga tenga por objeto lo señalado en el artículo 450, fracción VI.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 903.
+
+Los conflictos colectivos de naturaleza económica podrán ser planteados por los sindicatos de trabajadores titulares de los contratos colectivos de trabajo, por la mayoría de los trabajadores de una empresa o establecimiento, siempre que se afecte el interés profesional, o por el patrón o patronos, mediante demanda por escrito, la cual deberá contener:
+
+I. Nombre y domicilio del que promueve y los documentos que justifiquen su personalidad;
+
+II. Exposición de los hechos y causas que dieron origen al conflicto; y
+
+III. Las pretensiones del promovente, expresando claramente lo que se pide.
+
+(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+
+###### Artículo 904.
+
+El promovente, según el caso, deberá acompañar a la demanda lo siguiente:
+
+I. Los documentos públicos o privados que tiendan a comprobar la situación económica de la empresa o establecimiento y la necesidad de las medidas que se solicitan;
+
+II. La relación de los trabajadores que prestan sus servicios en la empresa o establecimiento, indicando sus nombres, apellidos, empleo que desempeñan, salario que perciban y antigüedad en el trabajo;
+
+III. Un dictamen formulado por el perito relativo a la situación económica de la empresa o establecimiento;
+
+IV. Las pruebas que juzgue conveniente para acreditar sus pretensiones; y
+
+V. Las copias necesarias de la demanda y sus anexos, para correr traslado a la contraparte.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 905.
+
+La Junta, inmediatamente después de recibir la demanda, citará a las partes a una audiencia que deberá efectuarse dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 906.
+
+La audiencia se desarrollará de conformidad con las normas siguientes:
 
 I. Si el promovente no concurre a la audiencia, se le tendrá por desistido de su solicitud;
 
-II. Si no concurre la contraparte, se le tendrá por inconforme con todo arreglo. El promovente hará una exposición de los hechos y de las causas que dieron origen al conflicto y formulará su petición;
+II. Si no concurre la contraparte, se le tendrá por inconforme con todo arreglo. El promovente hará una exposición de los hechos y de las causas que dieron origen al conflicto y ratificará su petición;
 
-III. Si concurren las dos partes, la Junta, después de oír sus alegaciones, las exhortará para que procuren un arreglo conciliatorio. Los miembros de la Junta podrán hacer las sugestiones que juzguen convenientes para el arreglo del conflicto;
+III. Si concurren las dos partes, la Junta, después de oír sus alegaciones, las exhortará para que procuren un arreglo conciliatorio. Los miembros de la misma podrán hacer las sugestiones que juzguen convenientes para el arreglo del conflicto;
 
-IV. Si las partes llegan a un convenio, se dará por terminado el conflicto. El convenio, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo; y
+IV. Si las partes llegan a un convenio, se dará por terminado el conflicto. El convenio, aprobado por la Junta, producirá todos los efectos jurídicos inherentes a un laudo;
 
-V. Si no se llega a un convenio, las partes harán una exposición de los hechos y causas que dieron origen al conflicto y formularán sus peticiones.
+V. Si no se llega a un convenio, las partes harán una exposición de los hechos y causas que dieron origen al conflicto y formularán sus peticiones y a las que por su naturaleza no puedan desahogarse, se les señalará día y hora para ello;
 
-###### Artículo 795.
+VI. Concluidas las exposiciones de las partes y formuladas sus peticiones, se procederá a ofrecerse y en su caso, a desahogarse las pruebas admitidas;
 
-La Junta, dentro de los tres días siguientes, designará tres peritos, por lo menos, para que investiguen los hechos y causas que dieron origen al conflicto y formulen un dictamen respecto de la forma en que, según su parecer, puede solucionarse.
+VII. La Junta, dentro de la misma audiencia, designará tres peritos, por lo menos, para que investiguen los hechos y causas que dieron origen al conflicto, otorgándoles un término que no podrá exceder de treinta días, para que emitan su dictamen respecto de la forma en que, según su parecer, puede solucionarse el conflicto, sin perjuicio de que cada parte pueda designar un perito para que se asocie a los nombrados por la Junta o rinda dictamen por separado; y
 
-###### Artículo 796.
+VIII. Los trabajadores y los patrones podrán designar dos comisiones, integradas con el número de personas que determine la Junta, para que acompañen a los peritos en la investigación y les indiquen las observaciones y sugestiones que juzguen conveniente.
 
-Los peritos deberán satisfacer los requisitos siguientes:
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-I. Ser mexicanos, y estar en pleno ejercicio de sus derechos;
+###### Artículo 907.
 
-II. Estar legalmente autorizados para ejercer la ciencia o arte sobre el que verse el peritaje; y
+Los peritos designados por la Junta deberán satisfacer los requisitos siguientes:
 
-III. No haber sido condenados por delito intencional, que los inhabilite para ejercer su profesión.
+I. Ser mexicanos y estar en pleno ejercicio de sus derechos;
 
-###### Artículo 797.
+II. Estar legalmente autorizados y capacitados para ejercer la técnica, ciencia o arte sobre el que verse el peritaje, salvo los casos en que no se requiera autorización, pero deberán tener los conocimientos de la materia de que se trate; y
 
-Los trabajadores y los patrones podrán designar dos comisiones, integradas con el número de personas que determine la Junta, para que acompañen a los peritos en la investigación y les presenten las observaciones y sugestiones que juzguen conveniente.
+III. No haber sido condenados por delito intencional.
 
-###### Artículo 798.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-La Junta señalará a los peritos el término dentro del cual deben presentar su dictamen, que no podrá exceder de treinta días.
+###### Artículo 908.
 
-###### Artículo 799.
+Las partes, dentro de los primeros diez días del término a que se refiere la fracción VII del artículo 906, podrán presentar directamente a los peritos, o por conducto de la Junta o a través de la Comisión, las observaciones, informes, estudios y demás elementos que puedan contribuir a la determinación de las causas que dieron origen al conflicto, para que sean tomados en cuenta por los peritos, en sus dictámenes.
 
-Las partes, dentro de los primeros diez días del término a que se refiere el artículo anterior, podrán presentar directamente a los peritos las observaciones, informes, estudios y demás elementos que puedan contribuir a la determinación de las causas que dieron origen al conflicto y a preparar su dictamen.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 800.
+###### Artículo 909.
 
-Los peritos practicarán las investigaciones y realizarán los estudios que juzguen conveniente, con la mayor libertad y amplitud, teniendo entre otras, las facultades siguientes:
+Los peritos nombrados por la Junta, realizarán las investigaciones y estudios que juzguen conveniente, y podrán actuar con la mayor amplitud, teniendo, además de las inherentes a su desempeño, las facultades siguientes:
 
-I. Solicitar toda clase de informes y estudios de las autoridades y de las instituciones oficiales, federales o estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicas, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes, formulando los cuestionarios que juzguen conveniente para el esclarecimiento de los hechos;
+I. Solicitar toda clase de informes y estudios de las autoridades y de las instituciones oficiales, federales o estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicos, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes;
 
 II. Practicar toda clase de inspecciones en la empresa o establecimiento y revisar sus libros y documentos; y
 
 III. Examinar a las partes y a las personas relacionadas con los trabajadores o con la empresa, que juzguen conveniente.
 
-###### Artículo 801.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Las autoridades y las instituciones oficiales a que se refiere el artículo anterior, están obligadas a proporcionar los informes, contestar los cuestionarios y rendir las declaraciones que se les soliciten.
-
-###### Artículo 802.
+###### Artículo 910.
 
 El dictamen de los peritos deberá contener, por lo menos:
 
@@ -7018,251 +8214,353 @@ I. Los hechos y causas que dieron origen al conflicto;
 
 II. La relación entre el costo de la vida por familia y los salarios que perciban los trabajadores;
 
-III. Los salarios medios que se paguen en empresas o establecimientos de la misma rama de la industria y las condiciones generales de trabajo que rijan en ellos;
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+
+III. Los salarios medios que se paguen en empresa o establecimientos de la misma rama de la industria y las condiciones generales de trabajo que rijan en ellos;
 
 IV. Las condiciones económicas de la empresa o empresas o del establecimiento o establecimientos;
 
-V. La condición general de la industria de que forme parte la empresa o establecimiento;
+V. La condición general de la industria de que forma parte la empresa o establecimiento;
 
-VI. Las condiciones generales de los mercados; y
+VI. Las condiciones generales de los mercados;
 
-VII. La forma en que, según su parecer, pueda solucionarse el conflicto.
+VII. Los índices estadísticos que tiendan a precisar la economía nacional; y
 
-###### Artículo 803.
+VIII. La forma en que, según su parecer, pueda solucionarse el conflicto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 911.
 
 El dictamen de los peritos se agregará al expediente y se entregará una copia a cada una de las partes.
 
 El Secretario asentará razón en autos del día y hora en que hizo entrega de las copias a las partes, o de la negativa de éstas para recibirlas.
 
-###### Artículo 804.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Las partes, dentro de las setenta y dos horas de haber recibido copia del dictamen, podrán formular las objeciones que juzguen conveniente en relación con los hechos, consideraciones y conclusiones del mismo.
+###### Artículo 912.
 
-###### Artículo 805.
+Las partes, dentro de las setenta y dos horas de haber recibido copia del dictamen de los peritos, podrán formular las observaciones que juzguen convenientes en relación con los hechos, consideraciones y conclusiones del mismo dictamen.
 
-Si se formulan objeciones al dictamen, la Junta citará a una audiencia de pruebas, que deberá efectuarse dentro de los cinco días siguientes al vencimiento del término señalado en el artículo anterior. Son admisibles las pruebas que tengan por objeto aportar nuevos elementos o destruir el valor de los hechos y consideraciones contenidos en el dictamen y se ofrecerán y rendirán de conformidad con lo dispuesto en el capítulo V de este Título.
+La Junta, si se formulan objeciones al dictamen, citará a una audiencia a la que deberán concurrir los peritos para contestar las preguntas que les formulen las partes y en relación con los peritajes que rindieron; se podrán ofrecer pruebas, para que tengan por objeto comprobar la falsedad de los hechos y consideraciones contenidas en el dictamen.
 
-###### Artículo 806.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-La Junta tiene las más amplias facultades para practicar las diligencias que juzgue conveniente, a fin de completar, aclarar o precisar las cuestiones analizadas por los peritos, así como para solicitar nuevos informes de las autoridades e instituciones oficiales y particulares a que se refiere el artículo 800, fracción I, interrogar a los peritos o pedirles algún dictamen complementario o designar comisiones para que practiquen o realicen investigaciones o estudios especiales.
+###### Artículo 913.
 
-###### Artículo 807.
+La Junta tiene las más amplias facultades para practicar las diligencias que juzgue convenientes, a fin de completar, aclarar o precisar las cuestiones analizadas por los peritos, así como para solicitar nuevos informes a las autoridades, instituciones y particulares a que se refiere el artículo 909, fracción I de este Capítulo, interrogar a los peritos o pedirles algún dictamen complementario o designar comisiones para que practiquen o realicen investigaciones o estudios especiales.
 
-Al concluir la recepción de las pruebas, la Junta concederá a las partes un término de setenta y dos horas para que presenten sus alegatos por escrito.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 808.
+###### Artículo 914.
 
-Transcurridos los términos para la presentación de los alegatos, el Auxiliar declarará cerrada la instrucción y dentro de los quince días siguientes formulará un dictamen que deberá contener:
+Las autoridades, las instituciones y los particulares a que se refieren los artículos que anteceden, están obligadas a proporcionar los informes, contestar los cuestionarios y rendir las declaraciones que se les soliciten.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 915.
+
+Desahogadas las pruebas, la Junta concederá a las partes un término de setenta y dos horas para que formulen sus alegatos, por escrito, apercibidas que en caso de no hacerlo, se les tendrá por perdido su derecho.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 916.
+
+Transcurrido el término para la presentación de los alegatos, el auxiliar declarará cerrada la instrucción y dentro de los quince días siguientes formulará un dictamen que deberá contener:
 
 I. Un extracto de las exposiciones y peticiones de las partes;
 
-II. Un extracto del dictamen de los peritos y de las observaciones que le hubiesen hecho las partes;
+II. Un extracto del dictamen de los peritos y de las observaciones que hubiesen hecho las partes;
 
 III. Una enumeración y apreciación de las pruebas y de las diligencias practicadas por la Junta;
 
 IV. Un extracto de los alegatos; y
 
-V. Las proposiciones que en su concepto puedan servir para la solución del conflicto.
+V. Señalará los motivos y fundamentos que puedan servir para la solución del conflicto.
 
-###### Artículo 809.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-El dictamen se agregará al expediente, observándose lo dispuesto en el artículo 772.
+###### Artículo 917.
 
-###### Artículo 810.
+El dictamen se agregará al expediente y se entregará una copia a cada uno de los representantes de los trabajadores y de los patrones, ante la Junta. El Secretario asentará razón en autos del día y hora en que se hizo entrega de las copias o su negativa para recibirlos.
 
-El Presidente de la Junta citará para la audiencia de discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que sean entregadas a los representantes las copias del dictamen, y se celebrará de conformidad con las normas siguientes:
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-I. Se dará lectura al dictamen;
+###### Artículo 918.
 
-II. Los miembros de la Junta podrán solicitar la lectura de las constancias que juzguen conveniente;
+El Presidente de la Junta citará para la audiencia de discusión y votación, que deberá efectuarse dentro de los diez días siguientes al en que sean entregadas a los representantes las copias del dictamen, y se celebrará conforme a las reglas establecidas en el artículo 888 de esta Ley.
 
-III. Terminada la lectura de constancias, el Presidente pondrá a discusión el negocio; y
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-IV. Terminada la discusión, se procederá a la votación y el Presidente declarará el resultado.
+###### Artículo 919.
 
-###### Artículo 811.
+La Junta, a fin de conseguir el equilibrio y la justicia social en las relaciones entre los trabajadores y patrones, en su resolución podrá aumentar o disminuir el personal, la jornada, la semana de trabajo, los salarios y, en general, modificar las condiciones de trabajo de la empresa o establecimiento, sin que en ningún caso pueda reducir los derechos mínimos consignados en las leyes.
 
-La Junta podrá aumentar o disminuir el personal, la jornada, la semana de trabajo o los salarios y, en general, modificar las condiciones de trabajo de la empresa o establecimiento, a fin de conseguir el equilibrio y la justicia social en las relaciones entre trabajadores y patrones, sin que en ningún caso pueda reducir los derechos consignados en la Constitución y en esta Ley en beneficio de los trabajadores.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 812.
+###### Artículo 920.
 
-Dentro de los seis días siguientes a la fecha en que concluya la audiencia de discusión y votación, el Secretario deberá engrosar la resolución.
+El procedimiento de huelga se iniciará mediante la presentación del pliego de peticiones, que deberá reunir los requisitos siguientes:
 
-###### Artículo 813.
+I. Se dirigirá por escrito al patrón y en él se formularán las peticiones, anunciarán el propósito de ir a la huelga si no son satisfechas, expresarán concretamente el objeto de la misma y señalarán el día y hora en que se suspenderán las labores, o el término de prehuelga;
 
-Engrosada la resolución, el Secretario recogerá las firmas de los miembros de la Junta que votaron el negocio.
+II. Se presentará por duplicado a la Junta de Conciliación y Arbitraje. Si la empresa o establecimiento están ubicados en lugar distinto al en que resida la Junta, el escrito podrá presentarse a la autoridad del trabajo más próxima o a la autoridad política de mayor jerarquía del lugar de ubicación de la empresa o establecimiento. La autoridad que haga el emplazamiento remitirá el expediente, dentro de las veinticuatro horas siguientes, a la Junta de Conciliación y Arbitraje; y avisará telegráfica o telefónicamente al Presidente de la Junta.
 
-###### Artículo 814.
+III. El aviso para la suspensión de las labores deberá darse, por lo menos, con seis días de anticipación a la fecha señalada para suspender el trabajo y con diez días de anticipación cuando se trate de servicios públicos, observándose las disposiciones legales de esta Ley. El término se contará a partir del día y hora en que el patrón quede notificado.
 
-La resolución contendrá:
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-I. Lugar, fecha y Junta que la pronuncie;
+###### Artículo 921.
 
-II. Nombre y domicilio de las partes y de la empresa o establecimiento afectado por el conflicto;
+El Presidente de la Junta de Conciliación y Arbitraje o las autoridades mencionadas en la fracción II del artículo anterior, bajo su más estricta responsabilidad harán llegar al patrón la copia del escrito de emplazamiento dentro de las cuarenta y ocho horas siguientes a la de su recibo.
 
-III. Un resumen de las exposiciones, observaciones y peticiones de las partes y del dictamen de los peritos;
+La notificación producirá el efecto de constituir al patrón, por todo el término del aviso, en depositario de la empresa o establecimiento afectado por la huelga, con las atribuciones y responsabilidades inherentes al cargo.
 
-IV. La enumeración de las pruebas rendidas y de las diligencias practicadas por la Junta;
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-V. Un extracto de los alegatos;
+###### Artículo 922.
 
-VI. Las consideraciones que le sirvan de fundamento; y
+El patrón, dentro de las cuarenta y ocho horas siguientes a la de la notificación, deberá presentar su contestación por escrito ante la Junta de Conciliación y Arbitraje.
 
-VII. Los puntos resolutivos.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 815.
+###### Artículo 923.
 
-La resolución de la Junta produce los efectos jurídicos inherentes a los laudos.
+No se dará trámite al escrito de emplazamiento de huelga cuando éste no sea formulado conforme a los requisitos del artículo 920 o sea presentado por un sindicato que no sea el titular del contrato colectivo de trabajo, o el administrador del contrato ley, o cuando se pretenda exigir la firma de un contrato colectivo, no obstante existir ya uno depositado en la Junta de Conciliación y Arbitraje competente. El Presidente de la Junta, antes de iniciar el trámite de cualquier emplazamiento a huelga, deberá cerciorarse de lo anterior, ordenar la certificación correspondiente y notificarle por escrito la resolución al promovente.
 
-###### Artículo 816.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Las resoluciones de las Juntas no admiten ningún recurso. Las Juntas no pueden revocar sus resoluciones.
+###### Artículo 924.
 
-Las partes pueden exigir la responsabilidad en que incurran los miembros de la Junta.
+A partir de la notificación del pliego de peticiones con emplazamiento a huelga, deberá suspenderse toda ejecución de sentencia alguna, así como tampoco podrá practicarse embargo, aseguramiento, diligencia o desahucio, en contra de la empresa o establecimiento, ni secuestrar bienes del local en que se encuentren instalados, salvo cuando antes de estallar la huelga se trate de:
 
-###### Artículo 817.
+I. Asegurar los derechos del trabajador, especialmente indemnizaciones, salarios, pensiones y demás prestaciones devengadas, hasta por el importe de dos años de salarios del trabajador;
 
-Los actos de los Presidentes dictados en ejecución de los laudos, laudos arbitrales, convenios, resoluciones dictadas en los conflictos colectivos de naturaleza económica, tercerías y providencias cautelares son revisables, de conformidad con las disposiciones siguientes:
+II. Créditos derivados de la falta de pago de las cuotas al Instituto Mexicano del Seguro Social;
 
-I. Por la Junta de Conciliación o por el Pleno o la Junta Especial de la de Conciliación y Arbitraje correspondiente;
+III. Asegurar el cobro de las aportaciones que el patrón tiene obligación de efectuar al Instituto del Fondo Nacional de la Vivienda de los Trabajadores; y
 
-II. Los actos del Presidente o del Juez exhortado, por el Presidente exhortante.
+IV. Los demás créditos fiscales.
 
-###### Artículo 818.
+Siempre serán preferentes los derechos de los trabajadores, sobre los créditos a que se refieran las fracciones II, III y IV de este precepto, y en todo caso las actuaciones relativas a los casos de excepción señaladas en las fracciones anteriores, se practicarán sin afectar el procedimiento de huelga.
 
-Los actos de los Actuarios en ejecución de los laudos, laudos arbitrales, convenios, resoluciones dictadas en los conflictos colectivos de naturaleza económica, de las resoluciones que ponen fin a las tercerías y de los dictados en las providencias cautelares, son revisables por el Presiente ejecutor.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 819.
+###### Artículo 925.
 
-La solicitud de revisión debe presentarse dentro de los tres días siguientes al en que se tenga conocimiento del acto.
+Para los efectos de este Capítulo, se entiende por servicios públicos los de comunicaciones y transportes, los de luz y energía eléctrica, los de limpia, los de aprovechamiento y distribución de aguas destinadas al servicio de las poblaciones, los de gas, los sanitarios, los de hospitales, los de cementerios y los de alimentación, cuando se refieran a artículos de primera necesidad, siempre que en este último caso se afecte alguna rama completa del servicio.
 
-###### Artículo 820.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Dentro de los tres días de haberse hecho saber una corrección disciplinaria, la persona afectada podrá pedir, ante la Junta Especial o ante el Pleno, que se le oiga en justicia. Recibida la petición se le citará dentro de los ocho días para que exponga lo que juzgue conveniente y se dictará resolución.
+###### Artículo 926.
 
-###### Artículo 821.
+La Junta de Conciliación y Arbitraje citará a las partes a una audiencia de conciliación, en la que procurará avenirlas, sin hacer declaración que prejuzgue sobre la existencia o inexistencia, justificación o injustificación de la huelga. Esta audiencia sólo podrá diferirse a petición de los trabajadores y por una sola vez.
 
-Las Juntas o los Presidentes podrán imponer las correcciones disciplinarias a que se refiere el artículo 716, fracciones I y II, a la parte que interponga un recurso notoriamente improcedente.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 822.
+###### Artículo 927.
 
-Los Presidentes de las Juntas de Conciliación y Arbitraje, a petición de parte, podrán decretar las siguientes providencias cautelares:
+La audiencia de conciliación se ajustará a las normas siguientes:
 
-I. Arraigo, cuando haya temor de que se ausente u oculte la persona contra quien se entable o se haya entablado una demanda; y
+I. Si el patrón opuso la excepción de falta de personalidad al contestar el pliego de peticiones, la Junta resolverá previamente esta situación y, en caso de declararla infundada, se continuará con la audiencia en la que se observarán las normas consignadas por el procedimiento conciliatorio ante la Junta de Conciliación y Arbitraje en lo que sean aplicables;
 
-II. Secuestro provisional, cuando sea necesario asegurar los bienes de una persona, empresa o establecimiento.
+II. Si los trabajadores no concurren a la audiencia de conciliación, no correrá el término para la suspensión de las labores;
 
-###### Artículo 823.
+III. El Presidente de la Junta podrá emplear los medios de apremio para obligar al patrón a que concurra a la audiencia de conciliación; y
 
-Las providencias cautelares se solicitarán en la demanda, ya sea que se formule por escrito o en comparecencia, o posteriormente. En el primer caso, se tramitarán previamente al emplazamiento y en el segundo, por cuerda separada. En ningún caso se pondrá la solicitud en conocimiento de la persona contra quien se pida la providencia.
+IV. Los efectos del aviso a que se refiere el artículo 920 fracción II de la presente Ley, no se suspenderán por la audiencia de conciliación ni por la rebeldía del patrón para concurrir a ella.
 
-###### Artículo 824.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-El arraigo se decretará de plano y su efecto consistirá en prevenir al demandado que no se ausente del lugar de su residencia sin dejar representante legítimo, suficientemente instruido y expensado.
+###### Artículo 928.
 
-###### Artículo 825.
+En los procedimientos a que se refiere este capítulo se observarán las normas siguientes:
 
-No procederá el arraigo cuando la persona contra quien se pida sea propietaria de una empresa establecida.
+I. Para el funcionamiento del Pleno y de las Juntas Especiales se observará lo dispuesto en el artículo 620, pero el Presidente intervendrá personalmente en las resoluciones siguientes:
 
-###### Artículo 826.
+a) Falta de personalidad.
 
-Para decretar un secuestro provisional se observarán las normas siguientes:
+b) Incompetencia.
 
-I. El solicitante determinará el monto de lo demandado y rendirá las pruebas que juzgue conveniente para acreditar la necesidad de la medida;
+c) Los casos de los artículos 469, 923 y 935.
 
-II. El Presidente de la Junta, tomando en consideración las circunstancias del caso y las pruebas rendidas, podrá decretar el secuestro provisional si, a su juicio, es necesaria la providencia;
+d) Declaración de inexistencia o ilicitud de huelga.
 
-III. El auto que ordene el secuestro determinará la cantidad por la cual deba practicarse;
+II. No serán aplicables las reglas generales respecto de términos para hacer notificaciones y citaciones. Los (sic) notificaciones surtirán efectos desde el día y hora en que quedan hechas;
 
-IV. El Presidente de la Junta dictará las modalidades a que se sujetará el secuestro, y cuidará que no se suspenda o dificulte el desarrollo de las actividades de las empresas o establecimientos; y
+III. Todos los días y horas serán hábiles. La Junta tendrá guardias permanentes para tal efecto;
 
-V. El mismo presidente, cuando lo juzgue conveniente, podrá exigir fianza, cuyo monto determinará, para garantizar los daños y perjuicios.
+IV. No serán denunciables en los términos del artículo 710 de esta Ley, los miembros de la Junta, ni se admitirán más incidentes que el de falta de personalidad, que podrá promoverse, por el patrón, en el escrito de contestación al emplazamiento, y por los trabajadores, dentro de las cuarenta y ocho horas siguientes a la en que tengan conocimiento de la primera promoción del patrón. La Junta, dentro de las veinticuatro horas siguientes a la promoción, con audiencia de las partes, dictará resolución; y
 
-###### Artículo 827.
+V. No podrá promoverse cuestión alguna de competencia. Si la Junta, una vez hecho el emplazamiento al patrón, observa que el asunto no es de su competencia, hará la declaratoria correspondiente.
 
-La providencia se llevará a cabo aun cuando no esté presente la persona contra quien se dictó. El propietario de los bienes secuestrados será depositario legal de los mismos, sin necesidad de que acepte el cargo ni proteste desempeñarlo.
+Los trabajadores dispondrán de un término de veinticuatro horas para designar la Junta que consideren competente, a fin de que se le remita el expediente. Las actuaciones conservarán su validez, pero el término para la suspensión de las labores correrá a partir de la fecha en que la Junta designada competente notifique al patrón haber recibido el expediente; lo que se hará saber a las partes en la resolución de incompetencia.
 
-###### Artículo 828.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Si el demandado constituye depósito u otorga fianza bastante, no se llevará a cabo la providencia cautelar, o se levantará la que se haya decretado.
+###### Artículo 929.
 
-###### Artículo 829.
+Los trabajadores y los patrones de la empresa o establecimiento afectado, o terceros interesados, podrán solicitar de la Junta de Conciliación y Arbitraje, dentro de las setenta y dos horas siguientes a la suspensión del trabajo, declare la inexistencia de la huelga por las causas señaladas en el artículo 459 o por no haber cumplido los requisitos establecidos en el artículo 920 de esta Ley.
 
-La ejecución de las fianzas por los daños y perjuicios que origine el secuestro, se tramitará en forma incidental ante el Presidente de la Junta.
+Si no se solicita la declaración de inexistencia, la huelga será considerada existente para todos los efectos legales.
 
-###### Artículo 830.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Las tercerías pueden ser excluyentes de dominio o de preferencia. Las primeras tienen por objeto conseguir el levantamiento del embargo practicado en bienes de propiedad de terceros; las segundas obtener que se pague preferentemente un crédito con el producto de los bienes embargados.
+###### Artículo 930.
 
-###### Artículo 831.
+En el procedimiento de declaración de inexistencia de la huelga, se observarán las normas siguientes:
 
-Las tercerías se tramitarán y resolverán por el Pleno, por la Junta Especial o por la de Conciliación que conozca del negocio, y se sustanciarán en forma incidental.
+I. La solicitud para que se declare la inexistencia de la huelga, se presentará por escrito, acompañada de una copia para cada uno de los patrones emplazados y de los sindicatos o coalición de trabajadores emplazantes. En la solicitud se indicarán las causas y fundamentos legales para ello. No podrán aducirse posteriormente causas distintas de inexistencia;
 
-###### Artículo 832.
+II. La Junta correrá traslado de la solicitud y oirá a las partes en una audiencia, que será también de ofrecimiento y recepción de pruebas, que deberá celebrarse dentro de un término no mayor de cinco días;
 
-El tercerista puede presentar la demanda ante la autoridad exhortada que practicó el embargo, debiendo designar casa ubicada en el lugar de residencia de la Junta exhortante para que se le hagan las notificaciones personales; si no hace la designación, todas las notificaciones se le harán de conformidad con lo dispuesto en el artículo 690.
+III. Las pruebas deberán referirse a las causas de inexistencia contenidas en la solicitud mencionada en la fracción I, y cuando la solicitud se hubiere presentado por terceros, las que además tiendan a comprobar su interés. La Junta aceptará únicamente las que satisfagan los requisitos señalados;
 
-###### Artículo 833.
+IV. Las pruebas se rendirán en la audiencia, salvo lo dispuesto en el artículo siguiente. Solo en casos excepcionales podrá la Junta diferir la recepción de las que por su naturaleza no puedan desahogarse en la audiencia;
 
-La autoridad exhortada remitirá la demanda de tercería al Presidente exhortante, al devolver el exhorto.
+V. Concluida la recepción de las pruebas, la Junta, dentro de las veinticuatro horas siguientes, resolverá sobre la existencia o inexistencia del estado legal de la huelga; y
 
-###### Artículo 834.
+VI. Para la resolución de inexistencia, se citará a los representantes de los trabajadores y de los patrones para que integren la Junta. La resolución se dictará por los que concurran, y en caso de empate, se sumarán al del Presidente los votos de los ausentes.
 
-Las tercerías no suspenden la tramitación del procedimiento si se promueven antes de dictarse el laudo. La tercería excluyente de dominio suspende únicamente el acto de remate; la de preferencia, el pago del crédito.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 835.
+###### Artículo 931.
 
-Si se declara procedente la tercería, la Junta ordenará se devuelvan los bienes embargados al tercerista o se pague el crédito declarado preferente.
+Si se ofrece como prueba el recuento de los trabajadores, se observarán las normas siguientes:
+
+I. La Junta señalará el lugar, día y hora en que deba efectuarse;
+
+II. Unicamente tendrán derecho a votar los trabajadores de la empresa que concurran al recuento;
+
+III. Serán considerados trabajadores de la empresa los que hubiesen sido despedidos del trabajo después de la fecha de presentación del escrito de emplazamiento;
+
+IV. No se computarán los votos de los trabajadores de confianza, ni los de los trabajadores que hayan ingresado al trabajo con posterioridad a la fecha de presentación del escrito de emplazamiento de huelga; y
+
+V. Las objeciones a los trabajadores que concurran al recuento, deberán hacerse en el acto mismo de la diligencia, en cuyo caso la Junta citará a una audiencia de ofrecimiento y rendición de pruebas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 932.
+
+Si la Junta declara la inexistencia legal del estado de huelga:
+
+I. Fijará a los trabajadores un término de veinticuatro horas para que regresen a su trabajo;
+
+II. Deberá notificar lo anterior por conducto de la representación sindical, apercibiendo a los trabajadores que por el solo hecho de no acatar la resolución, quedarán terminadas las relaciones de trabajo, salvo causa justificada;
+
+III. Declarará que el patrón no ha incurrido en responsabilidad y que de no presentarse a laborar los trabajadores dentro del término señalado, quedará en libertad para contratar otros; y
+
+IV. Dictará las medidas que juzgue convenientes para que pueda reanudarse el trabajo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 933.
+
+En el procedimiento de calificación de ilicitud de la huelga, se observarán las normas contenidas en el artículo 930 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 934.
+
+Si la Junta de Conciliación y Arbitraje declara que la huelga es ilícita, se darán por terminadas las relaciones de trabajo de los huelguistas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 935.
+
+Antes de la suspensión de los trabajos, la Junta de Conciliación y Arbitraje, con audiencia de las partes, fijará el número indispensable de trabajadores que deberá continuar trabajando para que sigan ejecutándose las labores, cuya suspensión perjudique gravemente la seguridad y conservación de los locales, maquinaria y materias primas o la reanudación de los trabajos. Para este efecto, la Junta podrá ordenar la práctica de las diligencias que juzgue conveniente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 936.
+
+Si los huelguistas se niegan a prestar los servicios mencionados en los artículos 466 y 935 de esta Ley, el patrón podrá utilizar otros trabajadores. La Junta, en caso necesario, solicitará el auxilio de la fuerza pública, a fin de que puedan prestarse dichos servicios.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 937.
+
+Si el conflicto motivo de la huelga se somete por los trabajadores a la decisión de la Junta, se seguirá el procedimiento ordinario o el procedimiento para conflictos colectivos de naturaleza económica, según el caso.
+
+Si la Junta declara en el laudo que los motivos de la huelga son imputables al patrón, condenará a éste a la satisfacción de las peticiones de los trabajadores en cuanto sean procedentes, y al pago de los salarios correspondientes a los días que hubiese durado la huelga. En ningún caso será condenado el patrón al pago de los salarios de los trabajadores que hubiesen declarado una huelga en los términos del artículo 450 fracción VI de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 938.
+
+Si la huelga tiene por objeto la celebración o revisión del contrato ley, se observarán las disposiciones de este Capítulo, con las modalidades siguientes:
+
+I. El escrito de emplazamiento de huelga se presentará por los sindicatos coaligados, con una copia para cada uno de los patrones emplazados, o por los de cada empresa o establecimiento, ante la Junta de Conciliación y Arbitraje, o ante las autoridades mencionadas en el artículo 920 fracción II de esta Ley;
+
+II. En el escrito de emplazamiento se señalará el día y la hora en que se suspenderán las labores, que deberán ser treinta o más días posteriores a la fecha de su presentación ante la Junta de Conciliación y Arbitraje.
+
+III. Si el escrito se presenta ante la Junta de Conciliación y Arbitraje, el Presidente, bajo su más estricta responsabilidad, hará llegar a los patrones la copia del escrito de emplazamiento directamente dentro de las veinticuatro horas siguientes a la de su recibo, o girará dentro del mismo término los exhortos necesarios, los que deberán desahogarse por la autoridad exhortada, bajo su más estricta responsabilidad, dentro de las veinticuatro horas siguientes a su recepción. Desahogados los exhortos, deberán devolverse dentro del mismo término de veinticuatro horas; y
+
+IV. Si el escrito se presenta ante las otras autoridades a que se refiere la fracción I, éstas, bajo su más estricta responsabilidad, harán llegar directamente a los patrones la copia del escrito de emplazamiento, dentro de las veinticuatro horas siguientes a la de su recibo. Una vez hecho el emplazamiento, remitirán el expediente a la Junta de Conciliación y Arbitraje dentro del mismo término de veinticuatro horas.
+
+(REUBICADO, D.O.F. 4 DE ENERO DE 1980)
 
 TITULO QUINCE
 
-Procedimiento de Ejecución
+Procedimientos de Ejecución
 
-###### Artículo 836.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+#### Sección Segunda. De la preferencia de créditos
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 939.
 
 Las disposiciones de este Título rigen la ejecución de los laudos dictados por las Juntas de Conciliación Permanentes y por las Juntas de Conciliación y Arbitraje. Son también aplicables a los laudos arbitrales, a las resoluciones dictadas en los conflictos colectivos de naturaleza económica y a los convenios celebrados ante las Juntas.
 
-###### Artículo 837.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-La ejecución de los laudos a que se refiere el artículo anterior, corresponde a los Presidentes de las Juntas de Conciliación Permanentes, a los de las de Conciliación y Arbitraje y a los de las Juntas Especiales, a cuyo fin dictarán las medidas necesarias para que la ejecución sea pronta y expedita.
+###### Artículo 940.
 
-###### Artículo 838.
+La ejecución de los laudos a que se refiere el artículo anterior, corresponde a los Presidentes de las Juntas de Conciliación Permanente, a los de las de Conciliación y Arbitraje y a los de las Juntas Especiales, a cuyo fin dictarán las medidas necesarias para que la ejecución sea pronta y expedita.
 
-Cuando el laudo deba ser ejecutado por el Presidente de otra Junta, se le dirigirá exhorto con las inserciones necesarias.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 839.
+###### Artículo 941.
+
+Cuando el laudo deba ser ejecutado por el Presidente de otra Junta, se le dirigirá exhorto con las inserciones necesarias y se le facultará para hacer uso de los medios de apremio, en caso de oposición a la diligencia de ejecución.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 942.
 
 El Presidente exhortado no podrá conocer de las excepciones que opongan las partes.
 
-###### Artículo 840.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Si al cumplimentar un exhorto se opone algún tercero que no hubiese sido oído por el Presidente exhortante, se suspenderá la cumplimentación del exhorto, previa fianza que otorgue para garantizar el monto de la cantidad por la que se despachó ejecución y de los daños y perjuicios que puedan causarse. Otorgada la fianza, se devolverá el exhorto al Presidente exhortante.
+###### Artículo 943.
 
-###### Artículo 841.
+Si al cumplimentar un exhorto, se opone algún tercero que no hubiese sido oído por el Presidente exhortante, se suspenderá la cumplimentación del exhorto, previa fianza que otorgue para garantizar el monto de la cantidad por la que se despachó ejecución y de los daños y perjuicios que puedan causarse. Otorgada la fianza, se devolverá el exhorto al Presidente exhortante.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 944.
 
 Los gastos que se originen en la ejecución de los laudos, serán a cargo de la parte que no cumpla.
 
-###### Artículo 842.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Los laudos deben cumplirse dentro de las setenta y dos horas siguientes a la en que surta efectos su notificación. Las partes pueden convenir en las modalidades del cumplimiento.
+###### Artículo 945.
 
-###### Artículo 843.
+Los laudos deben cumplirse dentro de las setenta y dos horas siguientes a la en que surta efectos la notificación.
 
-La ejecución no puede despacharse si no para la entrega de una cosa determinada o por cantidad líquida.
+Las partes pueden convenir en las modalidades de su cumplimiento.
 
-Se entiende que hay cantidad líquida, siempre que del laudo se infiera el monto de la liquidación, aun cuando no esté expresado numéricamente.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 844.
+###### Artículo 946.
 
-En la ejecución de los laudos se observarán las normas siguientes:
+La ejecución deberá despacharse para el cumplimiento de un derecho o el pago de cantidad líquida, expresamente señalados en el laudo, entendiéndose por ésta, la cuantificada en el mismo.
 
-I. Si el laudo ordena la entrega de una cosa determinada, se requerirá al deudor para que cumpla y si se negare, lo hará el Actuario. En caso de no poder entregar los bienes, se despachará ejecución por la cantidad que señale la parte que obtuvo, que puede ser moderada prudentemente por el Presidente ejecutor;
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-II. Si el laudo ordena hacer alguna cosa y el deudor no cumple dentro del término que se le señale, se hará a su costa, en caso de ser posible, o se le obligará a resarcir los daños y perjuicios provenientes de la inejecución, a elección del acreedor; y
-
-III. Si el laudo ordena no hacer alguna cosa y el deudor quebranta la prohibición, el acreedor podrá solicitar que se repongan las cosas al estado en que se hallaban, si fuere posible, a costa del deudor, o a que se le paguen los daños y perjuicios.
-
-###### Artículo 845.
+###### Artículo 947.
 
 Si el patrón se negare a someter sus diferencias al arbitraje o a aceptar el laudo pronunciado, la Junta:
 
@@ -7272,39 +8570,49 @@ II. Condenará a indemnizar al trabajador con el importe de tres meses de salari
 
 III. Procederá a fijar la responsabilidad que resulte al patrón del conflicto, de conformidad con lo dispuesto en el artículo 50, fracciones I y II; y
 
-IV. Además, condenará al pago de los salarios vencidos desde la fecha en que dejaron de pagarse hasta que se paguen las indemnizaciones.
+IV. Además, condenará al pago de los salarios vencidos desde la fecha en que dejaron de pagarlos hasta que se paguen las indemnizaciones, así como al pago de la prima de antigüedad, en los términos del artículo 162.
 
 Las disposiciones contenidas en este artículo no son aplicables en los casos de las acciones consignadas en el artículo 123, fracción XXII, apartado "A" de la Constitución.
 
-###### Artículo 846.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Si la negativa a someterse al arbitraje o aceptar el laudo pronunciado por la Junta fuere de los trabajadores, se dará por terminada la relación de trabajo.
+###### Artículo 948.
 
-###### Artículo 847.
+Si la negativa a aceptar el laudo pronunciado por la Junta fuere de los trabajadores se dará por terminada la relación de trabajo, de conformidad con lo dispuesto por el artículo 519 fracción III, último párrafo de esta Ley.
 
-Siempre que en ejecución de un laudo deba entregarse una suma de dinero o una cosa a un trabajador, el Presidente ejecutor cuidará de que se le entregue personalmente. En caso necesario, girará exhorto al Presidente de la Junta de Conciliación Permanente, al de la Junta de Conciliación y Arbitraje o al Juez más próximo al domicilio del trabajador.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 848.
+###### Artículo 949.
 
-Transcurrido el término señalado en el artículo 842, el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento y embargo.
+Siempre que en ejecución de un laudo deba entregarse una suma de dinero o el cumplimiento de un derecho al trabajador, el Presidente cuidará que se le otorgue personalmente. En caso de que la parte demandada radique fuera del lugar de residencia de la Junta, se girará exhorto al Presidente de la Junta de Conciliación Permanente, al de la Junta de Conciliación y Arbitraje o al Juez más próximo a su domicilio, para que se cumplimente la ejecución del laudo.
 
-###### Artículo 849.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 950.
+
+Transcurrido el término señalado en el artículo 945, el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento y embargo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 951.
 
 En la diligencia de requerimiento de pago y embargo se observarán las normas siguientes:
 
-I. Se practicará en la habitación, oficina, establecimiento o lugar señalado para notificaciones;
+I. Se practicará en el lugar donde se presta o prestaron los servicios, en el nuevo domicilio del deudor o en la habitación, oficina, establecimiento o lugar señalado por el actuario en el acta de notificación de conformidad con el artículo 740 de esta Ley;
 
 II. Si no se encuentra el deudor, la diligencia se practicará con cualquier persona que esté presente;
 
-III. El Actuario requerirá de pago a la persona con quien entienda la diligencia y si no se efectúa el pago, procederá al embargo;
+III. El Actuario requerirá de pago a la persona con quien entienda la diligencia y si no se efectúa el mismo procederá al embargo;
 
-IV. Si ninguna persona está presente, el Actuario practicará el embargo y fijará copia autorizada de la diligencia en la puerta de entrada del local en que se hubiese practicado;
+IV. El Actuario podrá, en caso necesario, sin autorización previa, solicitar el auxilio de la fuerza pública y romper las cerraduras del local en que se deba practicar la diligencia;
 
-V. El Actuario podrá, en caso necesario, hacer uso de la fuerza pública y aun romper las cerraduras del local en que se deba practicar la diligencia; y
+V. Si ninguna persona está presente, el actuario practicará el embargo y fijará copia autorizada de la diligencia en la puerta de entrada del local en que se hubiere practicado; y
 
 VI. El Actuario, bajo su responsabilidad, embargará únicamente los bienes necesarios para garantizar el monto de la condena, de sus intereses y de los gastos de ejecución.
 
-###### Artículo 850.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 952.
 
 Quedan únicamente exceptuados de embargo:
 
@@ -7314,7 +8622,7 @@ II. Los que pertenezcan a la casa habitación, siempre que sean de uso indispens
 
 III. La maquinaria, los instrumentos, útiles y animales de una empresa o establecimiento, en cuanto sean necesarios para el desarrollo de sus actividades.
 
-Podrá embargarse la empresa o establecimiento, de conformidad con lo dispuesto en el artículo 861;
+Podrá embargarse la empresa o establecimiento, de conformidad con lo dispuesto en el artículo 966 de esta Ley;
 
 IV. Las mieses antes de ser cosechadas, pero no los derechos sobre las siembras;
 
@@ -7322,353 +8630,537 @@ V. Las armas y caballos de los militares en servicio activo, indispensables para
 
 VI. El derecho de usufructo, pero no los frutos de éste;
 
-VII. Los derechos de uso y habitación; y
+VII. Los derechos de uso y de habitación; y
 
-VIII. Las servidumbres, a no ser que se embargue el fundo a cuyo favor estén constituidas excepto la de aguas, que es embargable independientemente.
+VIII. Las servidumbres, a no ser que se embargue el fundo, a cuyo favor estén constituidas.
 
-###### Artículo 851.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-El Actuario, tomando en consideración lo que expongan las partes, determinará los bienes que deban ser objeto del embargo, prefiriendo los que sean de más fácil realización.
-
-###### Artículo 852.
+###### Artículo 953.
 
 Las diligencias de embargo no pueden suspenderse. El actuario resolverá las cuestiones que se susciten.
 
-###### Artículo 853.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Cuando el embargo deba recaer en bienes que no se encuentren en el local donde se practique la diligencia, el Actuario se trasladará al local donde manifieste la parte que obtuvo que se encuentran y previa identificación de los bienes, practicará el embargo.
+###### Artículo 954.
 
-###### Artículo 854.
+El Actuario, tomando en consideración lo que expongan las partes, determinará los bienes que deban ser objeto del embargo, prefiriendo los que sean de más fácil realización.
 
-Si los bienes embargados fuesen dinero o créditos realizables en el acto, se hará pago inmediato al acreedor.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 855.
+###### Artículo 955.
 
-Si los bienes embargados son muebles, se pondrán en depósito de la persona que designe la parte que obtuvo, bajo su responsabilidad. El depositario debe informar al Presidente ejecutor del lugar en que quedarán los bienes embargados bajo su custodia.
+Cuando el embargo deba recaer en bienes que se encuentren fuera del lugar donde se practique la diligencia, el Actuario se trasladará al local donde manifieste la parte que obtuvo que (sic) se encuentran y previa identificación de los bienes, practicará el embargo.
 
-La parte que obtuvo podrá solicitar el cambio de depositario.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 856.
+###### Artículo 956.
 
-Si los bienes embargados son créditos o rentas, se notificará al deudor que no verifique el pago y que entregue su importe al Presidente ejecutor, apercibido de doble pago en caso de desobediencia.
+Si los bienes embargados fuesen dinero o créditos realizables en el acto, el Actuario trabará embargo y los pondrá a disposición del Presidente de la Junta, quien deberá resolver de inmediato sobre el pago del actor.
 
-###### Artículo 857.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Si llega a asegurarse el título mismo del crédito, se designará un depositario que lo conserve en guarda, quien estará obligado a hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y a intentar todas las acciones y recursos que la ley concede para hacer efectivo el crédito, quedando sujeto, además, a las obligaciones que impongan las leyes a los depositarios.
+###### Artículo 957.
 
-###### Artículo 858.
+Si los bienes embargados son muebles, se pondrán en depósito de la persona, que bajo su responsabilidad designe la parte que obtuvo. El depositario debe informar al Presidente ejecutor del lugar en que quedarán los bienes embargados bajo su custodia. La parte que obtuvo podrá solicitar el cambio de depositario.
 
-Si el crédito fuese litigioso, se notificará el embargo a la autoridad de los autos respectivos, dándole a conocer el depositario nombrado, a fin de que éste pueda desempeñar las obligaciones que le impone la parte final del artículo anterior.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 859.
+###### Artículo 958.
 
-Si los bienes embargados son inmuebles se ordenará la inscripción en el Registro Público de la Propiedad. A este fin, se comunicará el embargo dentro de las veinticuatro horas siguientes. La inscripción será gratuita.
+Si los bienes embargados son créditos, frutos o productos, se notificará al deudor o inquilino, que el importe del pago lo haga al Presidente ejecutor, apercibido de doble pago en caso de desobediencia.
 
-###### Artículo 860.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Si el embargo recae en finca urbana y sus rentas o sobre éstas solamente, el depositario tendrá el carácter de administrador con las facultades y obligaciones siguientes:
+###### Artículo 959.
 
-I. Contratar los arrendamientos sobre la base de que las rentas no sean menores de las que al tiempo de verificarse el embargo rindiera la finca o departamento de ésta que estuviese arrendado. A este fin, si ignorase cual era en ese tiempo la renta, lo pondrá en conocimiento del Presidente ejecutor para que recabe el dato de la oficina pública correspondiente. Para asegurar el arrendamiento, exigirá las garantías de estilo bajo su responsabilidad y si no quisiere aceptarla, recabará la autorización del Presidente ejecutor;
+El Actuario requerirá al demandando a fin de que le exhiba los documentos y contratos respectivos, para que en el acta conste y dé fe de las condiciones estipuladas en los mismos.
 
-II. Cobrar las rentas en sus términos y plazos, procediendo contra los inquilinos morosos con arreglo a la ley;
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-III. Hacer sin previa autorización los gastos ordinarios de la finca, como el pago de contribuciones y de los de mera conservación, servicio y aseo, no siendo excesivo su monto; y los incluirá en la cuenta mensual que debe presentar al Presidente ejecutor;
+###### Artículo 960.
 
-IV. Presentar a la oficina correspondiente las manifestaciones que la ley de la materia previene y de no hacerlo así, serán de su responsabilidad los daños y perjuicios que su omisión origine;
+Si llega a asegurarse el título mismo del crédito, se designará un depositario que lo conserve en guarda, quien estará obligado a hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y a intentar todas las acciones y recursos que la Ley concede para hacer efectivo el crédito, quedando sujeto, además, a las obligaciones que impongan las leyes a los depositarios.
 
-V. Presentar solicitud al Presidente Ejecutor, acompañada de los presupuestos respectivos, para hacer los gastos de reparación o de construcción;
+(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
 
-VI. Pagar, previa autorización del Presidente Ejecutor, los gravámenes reconocidos sobre la finca; y
+###### Artículo 961.
 
-VII. Rendir cuentas mensuales de su gestión y depositar las cantidades de dinero que resulten sobrantes en el Banco de México o en la institución bancaria que éste designe, a disposición del Presidente Ejecutor.
+Si el crédito fuese litigioso, se notificará el embargo a la autoridad que conozca del juicio respectivo, y el nombre del depositario, a fin de que éste pueda desempeñar las obligaciones que le impone la parte final del artículo anterior.
 
-###### Artículo 861.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 962.
+
+Si los bienes embargados fueren inmuebles, se ordenará dentro de las veinticuatro horas siguientes, la inscripción en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 963.
+
+Si el embargo recae en finca urbana y sus productos o sobre éstos solamente, el depositario tendrá el carácter de administrador con las facultades y obligaciones siguientes:
+
+I. Podrá celebrar contratos de arrendamiento, conforme a estas condiciones: por tiempo voluntario para ambas partes; el importe de la renta no podrá ser menor al fijado en el último contrato; exigir al arrendatario las garantías necesarias de su cumplimiento; y recabar en todos los casos, la autorización del Presidente Ejecutor;
+
+II. Cobrar oportunamente las rentas en sus términos y plazos, procediendo contra los inquilinos morosos con arreglo a la Ley;
+
+III. Hacer sin previa autorización los pagos de los impuestos y derechos que cause el inmueble; y cubrir los gastos ordinarios de conservación y aseo;
+
+IV. Presentar a la oficina correspondiente, las manifestaciones y declaraciones que la Ley de la materia previene;
+
+V. Presentar para su autorización al Presidente Ejecutor, los presupuestos para hacer los gastos de reparación o de construcción;
+
+VI. Pagar, previa autorización del Presidente Ejecutor, los gravámenes que reporta la finca; y
+
+VII. Rendir cuentas mensuales de su gestión y entregar el remanente en un billete de depósito, que pondrá a disposición del Presidente Ejecutor.
+
+El depositario que falte al cumplimiento de las obligaciones señaladas en este artículo, será acreedor a las sanciones previstas en las leyes respectivas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 964.
 
 Si el embargo recae en una empresa o establecimiento, se observarán las normas siguientes:
 
 I. El depositario será interventor con cargo a la caja, estando obligado a:
 
-a) Vigilar la contabilidad.
+a) Vigilar la contabilidad;
 
-b) Inspeccionar el manejo de la finca o empresa y las operaciones que en ella se practiquen, a fin de que produzcan el mejor rendimiento posible.
+b) Administrar el manejo de la negociación o empresa y las operaciones que en ella se practiquen, a fin de que produzcan el mejor rendimiento posible; y los demás actos inherentes a su cargo.
 
-c) Vigilar en las fincas rústicas la recolección de los frutos y su venta y recoger el producto de ésta.
+II. Si el depositario considera que la administración no se hace convenientemente o que pueda perjudicar los derechos del embargante, lo pondrá en conocimiento del Presidente Ejecutor, para que éste, oyendo a las partes y al interventor en una audiencia, resuelva lo que estime conveniente; y
 
-d) Vigilar las compras y ventas en las empresas mercantiles o industriales, recogiendo el producto de las segundas.
+III. Siempre que el depositario sea un tercero, otorgará fianza ante el Presidente Ejecutor, por la suma que se determine y rendirá cuenta de su gestión en los términos y forma que señale el mismo.
 
-e) Vigilar la compra de materia prima, su elaboración y la venta de los productos en las empresas industriales recogiendo los ingresos en efectivo y los efectos de comercio para cobrarlos a su vencimiento.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-f) Ministrar los fondos para los gastos de la empresa o finca rústica, los que no deberán comprender los personales de deudor, a no ser los alimentos que judicialmente se le hayan otorgado.
+###### Artículo 965.
 
-g) Cuidar de que la inversión de los fondos que ministre se haga cumplida y convenientemente;
+El actor puede pedir la ampliación del embargo:
 
-II. Si el depositario considera que la administración no se hace convenientemente o que puede perjudicar los derechos del embargante, lo pondrá en conocimiento del Presidente ejecutor, para que éste, oyendo a las partes y al interventor en una audiencia, resuelva lo que estime conveniente;
+I. Cuando no basten los bienes embargados para cubrir las cantidades por las que se despachó ejecución, después de rendido el avalúo de los mismos; y
 
-III. El depositario otorgará fianza ante el Presidente ejecutor por la suma que se determine y rendirá cuenta de su gestión en los términos y forma que determine el mismo Presidente;
+II. Cuando se promueva una tercería.
 
-IV. Depositará las sumas de dinero que resulten sobrantes, en el Banco de México o en la institución bancaria que éste designe; y
+El Presidente Ejecutor podrá decretar la ampliación si a su juicio concurren las circunstancias a que se refieren las fracciones anteriores, sin ponerlo en conocimiento del demandado.
 
-V. El depositario rendirá cuenta mensual de su gestión.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 862.
-
-El acreedor puede pedir la ampliación del embargo:
-
-I. Cuando no basten los bienes embargados para cubrir las cantidades por las que se despachó ejecución;
-
-II. Cuando no se embarguen bienes suficientes por no tenerlos el deudor y después aparezcan o los adquiera; y
-
-III. Cuando se promueva una tercería.
-
-El Presidente ejecutor podrá decretar la ampliación si a su juicio concurren las circunstancias a que se refieren las fracciones anteriores, sin ponerlo en conocimiento del deudor.
-
-###### Artículo 863.
-
-Concluidas las diligencias de embargo, se procederá al remate de los bienes de conformidad con las normas contenidas en este capítulo.
-
-Antes de fincarse el remate o declararse la adjudicación, podrá el deudor en todo momento liberar los bienes embargados, pagando de inmediato y en efectivo el importe de las cantidades fijadas en el laudo y los gastos de ejecución.
-
-###### Artículo 864.
-
-El embargante de un crédito podrá esperar su vencimiento para hacer el cobro o solicitar su remate.
-
-###### Artículo 865.
-
-Si los bienes embargados son muebles, se observarán las normas siguientes:
-
-I. Se efectuará su avalúo por la persona que designe el Presidente ejecutor;
-
-II. Servirá de base para el remate el monto del avalúo; y
-
-III. El remate se anunciará en los tableros de la Junta y en el Palacio Municipal o en la oficina de gobierno que designe el Presidente ejecutor.
-
-###### Artículo 866.
-
-Si los bienes embargados son inmuebles se observarán las normas siguientes:
-
-I. Se tomará como avalúo el que sirva de base para el pago de los impuestos correspondientes o en su defecto, el de un perito valuador legalmente autorizado, que será designado por el Presidente de la Junta;
-
-II. Se recabará a costa del embargante, certificado de gravámenes del Registro Público de la Propiedad, que debe comprender el dato de la totalidad de los gravámenes que pesen sobre ellos, hasta la fecha en que se ordenó el remate. Si en autos obrare ya otro certificado, sólo se pedirá al Registro, el relativo al período o períodos que aquél no abarque; y
-
-III. El remate se anunciará en los tableros de la Junta y se publicará, por una sola vez en el Diario Oficial de la Federación o en el periódico oficial de la respectiva Entidad Federativa, y en uno de los periódicos de mayor circulación del lugar en que se encuentren ubicados los bienes. En la misma publicación se citará a los acreedores que aparezcan en el certificado de gravámenes.
-
-###### Artículo 867.
-
-Si los bienes embargados son una empresa o establecimiento, se observará las normas siguientes:
-
-I. Se efectuará un avalúo por un perito que se solicitará por el Presidente de la Junta a la Nacional Financiera, S. A., o a alguna otra institución oficial;
-
-II. Servirá de base para el remate el monto de avalúo;
-
-III. Es aplicable lo dispuesto en la fracción III del artículo anterior; y
-
-IV. Si la empresa o establecimiento se integra con bienes inmuebles, se recabará el certificado de gravámenes a que se refiere la fracción II del artículo anterior.
-
-###### Artículo 868.
-
-El remate se efectuará de conformidad con las normas siguientes:
-
-I. Se llevará a cabo en el local de la Junta de Conciliación o de Conciliación y Arbitraje, el día señalado para ese efecto en los anuncios y publicaciones;
-
-II. Será presidido por el Presidente ejecutor;
-
-III. El Presidente concederá el término que juzgue conveniente, que no podrá ser mayor de una hora, para la presentación de posturas;
-
-IV. Postura legal es la que cubre las dos terceras partes del avalúo;
-
-V. Las posturas se presentarán por escrito y contendrán:
-
-a) Nombre, nacionalidad, edad, estado civil y domicilio del postor.
-
-b) La cantidad que se ofrezca por los bienes objeto del remate.
-
-c) La cantidad que se pague de contado, los términos en que se pagará el saldo y la garantía que se ofrezca.
-
-d) Cuando se trate de bienes muebles, su precio se pagará siempre de contado;
-
-VI. Con la postura se exhibirá el importe de la misma o el certificado de depósito efectuado en el Banco de México o en la institución que éste designe;
-
-VII. Cuando el ejecutante haga postura, exhibirá en efectivo la diferencia entre el monto de su crédito y el de la postura;
-
-VIII. Calificadas las posturas, el Presidente ejecutor declarará abierto el remate;
-
-IX. Las mejoras que se hagan en el curso de la diligencia se ajustarán a lo dispuesto en las fracciones anteriores; y
-
-X. El Presidente declarará fincado el remate a favor del mejor postor.
-
-###### Artículo 869.
-
-La diligencia de remate no puede suspenderse. El Presidente ejecutor resolverá las cuestiones que susciten las partes e interesados.
-
-###### Artículo 870.
-
-Si no se presentan postores, podrá el acreedor solicitar la celebración de nuevas almonedas, con deducción de un veinte por ciento en cada una de ellas, o que se le adjudiquen los bienes embargados en el precio que hubiese servido de base en la última diligencia. Las almonedas subsecuentes se celebrarán dentro de los cinco días siguientes a la fecha de la anterior, anunciándose por una sola vez en los tableros de la Junta.
-
-###### Artículo 871.
-
-El pago al acreedor comprende las cantidades por las que se hubiese despachado ejecución, sus intereses y los gastos originados hasta la terminación del remate.
-
-###### Artículo 872.
-
-Si el precio de contado excede del monto de lo que se adeude al acreedor, aprobada la liquidación, se entregará el sobrante al deudor.
-
-###### Artículo 873.
-
-Las garantías reales subsistirán por el saldo que resulte después de pagar el crédito del acreedor.
-
-###### Artículo 874.
+###### Artículo 966.
 
 Cuando se practiquen varios embargos sobre los mismos bienes, se observarán las normas siguientes:
 
-I. Si se practican en ejecución de créditos de trabajo, se pagará en el orden de sucesión de los embargos, salvo el caso de preferencia de derechos;
+I. Si se practican en ejecución de créditos de trabajo, se pagará en el orden sucesivo de los embargos, salvo el caso de preferencia de derechos;
 
-II. El embargo practicado en ejecución de un crédito de trabajo, aun cuando sea posterior, es preferente sobre los practicados por autoridades distintas de las Juntas de Conciliación y de Conciliación y Arbitraje.
+II. El embargo practicado en ejecución de un crédito de trabajo, aun cuando sea posterior, es preferente sobre los practicados por autoridades distintas de la Junta de Conciliación y de Conciliación y Arbitraje siempre que dicho embargo se practique antes que quede fincado el remate.
 
-Cuando el presidente ejecutor tenga conocimiento de embargo, hará saber a la autoridad que lo practicó que los bienes embargados quedan afectos al pago preferente del crédito de trabajo y continuará los procedimientos de ejecución hasta efectuar el pago. El saldo líquido que resulte después de hacer el pago, se pondrá a disposición de la autoridad que hubiese practicado el embargo.
+Cuando el Presidente Ejecutor tenga conocimiento de la existencia de un embargo, hará saber a la autoridad que lo practicó, que los bienes embargados quedan afectos al pago preferente del crédito de trabajo y continuará los procedimientos de ejecución hasta efectuar el pago. El saldo líquido que resulte después de hacer el pago, se pondrá a disposición de la autoridad que hubiese practicado el embargo.
 
-Las cuestiones de preferencia que se susciten se tramitarán y resolverán por la Junta que conozca del negocio, con exclusión de cualquiera otra autoridad; y
+Las cuestiones de preferencia que se susciten, se tramitarán y resolverán por la Junta que conozca del negocio, con exclusión de cualquiera otra autoridad; y
 
-III. El que haya reembargado puede continuar la ejecución del laudo o convenio, pero rematados los bienes se pagará al primer embargante el importe de su crédito, salvo el caso de preferencia de derechos.
+III. El que haya reembargado puede continuar la ejecución del laudo o convenio, pero rematados los bienes, se pagará al primer embargante el importe de su crédito, salvo el caso de preferencia de derechos.
 
-###### Artículo 875.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Declarado fincado el remate, se observarán las normas siguientes:
+###### Artículo 967.
 
-I. La cantidad que se hubiese pagado de contado se entregará al acreedor y si no bastare, se pondrá a su disposición la garantía que se hubiese ofrecido por el saldo;
+Concluidas las diligencias de embargo, se procederá al remate de los bienes, de conformidad con las normas contenidas en este Capítulo.
 
-II. Hecho el pago a que se refiere la fracción anterior, se pondrá al adquirente en posesión de los bienes rematados;
+Antes de fincarse el remate o declararse la adjudicación, podrá el demandado liberar los bienes embargados, pagando de inmediato y en efectivo el importe de las cantidades fijadas en el laudo y los gastos de ejecución.
 
-III. Si se trata de bienes inmuebles, se otorgará al adquirente, dentro de cinco días, la escritura correspondiente. Si el deudor se niega a firmarla, la firmará el Presidente ejecutor.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-Otorgada la escritura, se entregará el precio al acreedor y se pondrá al adquirente en posesión de los bienes; y
+###### Artículo 968.
 
-IV. Si se trata de una empresa o establecimiento, se procederá de conformidad con lo dispuesto en la fracción I, pero si se integra con bienes inmuebles, se observará lo dispuesto en la fracción anterior.
+En los embargos se observarán las normas siguientes:
+
+A.- Si los bienes embargados son muebles:
+
+I. Se efectuará su avalúo por la persona que designe el Presidente Ejecutor;
+
+II. Servirá de base para el remate el monto del avalúo; y
+
+III. El remate se anunciará en los tableros de la Junta y en el Palacio Municipal o en la oficina de gobierno que designe el Presidente Ejecutor.
+
+B.- Si los bienes embargados son inmuebles:
+
+I. Se tomará como avalúo el de un perito valuador legalmente autorizado, que será designado por el Presidente de la Junta;
+
+II. El embargante exhibirá certificado de gravámenes expedido por el Registro Público de la Propiedad, de diez años anteriores a la fecha en que ordenó el remate. Si en autos obrare ya otro certificado, sólo se pedirá al Registro, el relativo al período o períodos que aquél no abarque; y
+
+III. El proveído que ordene el remate, se fijará en los tableros de la Junta y se publicará, por una sola vez, en la Tesorería de cada Entidad Federativa y en el periódico de mayor circulación del lugar en que se encuentren ubicados los bienes, convocando postores.
+
+Se citará personalmente a los acreedores que aparezcan en el certificado de gravámenes, a efecto de que hagan valer sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 969.
+
+Si los bienes embargados son una empresa o establecimiento se observará el procedimiento siguiente:
+
+I. Se efectuará un avalúo por perito que se solicitará por el Presidente de la Junta a la Nacional Financiera, S. A., o a alguna otra institución oficial;
+
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+
+II. Servirá de base para el remate el monto del avalúo;
+
+III. Es aplicable lo dispuesto en la fracción III referente a muebles; y
+
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+
+IV. Si la empresa o establecimiento se integra con bienes inmuebles, se recabará el certificado de gravámenes a que se refiere la fracción II del apartado B del artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 970.
+
+Postura legal es la que cubre las dos terceras partes del avalúo. La persona que concurra como postor, deberá presentar por escrito su postura y exhibir en un billete de depósito de la Nacional Financiera, S. A., el importe del diez por ciento de su puja.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 971.
+
+El remate se efectuará de conformidad con las normas siguientes:
+
+I. El día y hora señalados se llevará a cabo en el local de la Junta correspondiente;
+
+II. Será llevado a cabo por el Presidente de la Junta, quien lo declarará abierto;
+
+III. El Presidente concederá un término de espera, que no podrá ser mayor de media hora, para recibir posturas;
+
+IV. El Presidente calificará las posturas, y concederá un minuto entre puja y puja;
+
+V. El actor podrá concurrir a la almoneda como postor, presentando por escrito su postura, sin necesidad de cumplir el requisito a que se refiere el artículo 974 de esta Ley; y
+
+VI. El Presidente declarará fincado el remate a favor del mejor postor.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 972.
+
+La diligencia de remate no puede suspenderse. El Presidente de la Junta resolverá de inmediato las cuestiones que planteen las partes interesadas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 973.
+
+Si no se presentan postores, podrá el actor pedir se le adjudiquen los bienes por el precio de su postura, o solicitar la celebración de nuevas almonedas con deducción de un veinte por ciento en cada una de ellas. Las almonedas subsecuentes se celebrarán dentro de los treinta días siguientes a la fecha de la anterior.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 974.
+
+El adjudicatario exhibirá dentro de los tres días siguientes, el importe total de su postura, apercibido de que de no hacerlo, la cantidad exhibida quedará en favor del actor; y el Presidente señalará nueva fecha para la celebración de la almoneda.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 975.
+
+Exhibido el importe total del precio de la adjudicación, el Presidente declarará fincado el remate y se observará lo siguiente:
+
+I. Cubrirá de inmediato al actor y a los demás acreedores por su orden; y si hay remanente, se entregará al demandado;
+
+II. Si se trata de bienes inmuebles, se observará:
+
+a) El anterior propietario entregará al Presidente de la Junta, toda la documentación relacionada con el inmueble que se remató.
+
+b) Si se lo adjudica el trabajador, deberá ser libre de todo gravamen, impuestos y derechos fiscales.
+
+c) La escritura deberá firmarla el anterior propietario, dentro de los cinco días siguientes a la notificación que le haga el notario público respectivo. Si no lo hace, el Presidente lo hará en su rebeldía; y
+
+III. Firmada la escritura, se pondrá al adquirente en posesión del inmueble.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 976.
+
+Las tercerías pueden ser excluyentes de dominio o de preferencia. Las primeras tienen por objeto conseguir el levantamiento del embargo practicado en bienes de propiedad de terceros; las segundas obtener que se pague preferentemente un crédito con el producto de los bienes embargados.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 977.
+
+Las tercerías se tramitarán y resolverán por el Pleno, por la Junta Especial o por la de Conciliación que conozca del juicio principal, sustanciándose en forma incidental, conforme a las normas siguientes:
+
+I. La tercería se interpondrá por escrito, acompañando el título en que se funde y las pruebas pertinentes;
+
+II. La Junta ordenará se tramite la tercería por cuerda separada y citará a las partes a una audiencia, dentro de los diez días siguientes, en la que las oirá y después de desahogadas las pruebas, dictará resolución;
+
+III. En cuanto al ofrecimiento, admisión y desahogo de las pruebas, se observará lo dispuesto en los Capítulos XII, XVII y XVIII del Título Catorce de esta Ley;
+
+IV. Las tercerías no suspenden la tramitación del procedimiento. La tercería excluyente de dominio suspende únicamente el acto de remate; la de preferencia el pago del crédito; y
+
+V. Si se declara procedente la tercería, la Junta ordenará el levantamiento del embargo y, en su caso, ordenará se pague el crédito declarado preferente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 978.
+
+El tercerista podrá presentar la demanda ante la autoridad exhortada que practicó el embargo, debiendo designar domicilio en el lugar de residencia de la Junta exhortante, para que se le hagan las notificaciones personales; si no hace la designación, todas las notificaciones se le harán por boletín o por estrados.
+
+La autoridad exhortada, al devolver el exhorto, remitirá la demanda de tercería.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 979.
+
+Cuando exista un conflicto individual o colectivo, los trabajadores podrán solicitar a la Junta, para los efectos del artículo 113, que prevenga a la autoridad jurisdiccional o administrativa ante la que se tramiten juicios en los que se pretendan hacer efectivos créditos en contra del patrón, para que, antes de llevar a cabo el remate o adjudicación de los bienes embargados, notifique al solicitante, a fin de que esté en posibilidad de hacer valer sus derechos.
+
+Si resultan insuficientes los bienes embargados para cubrir los créditos de todos los trabajadores, se harán a prorrata dejando a salvo sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 980.
+
+La preferencia se substanciará conforme a las reglas siguientes:
+
+I. La preferencia deberá solicitarse por el trabajador ante la Junta en que tramite el conflicto en que sea parte, indicando específicamente cuáles son las autoridades ante quienes se sustancian juicios en los que puedan adjudicar o rematar bienes del patrón, acompañando copias suficientes de su petición, para correr traslado a las partes contendientes en los juicios de referencia;
+
+II. Si el juicio se tramita ante la autoridad judicial, la Junta la prevendrá haciéndole saber que los bienes embargados están afectos al pago preferente del crédito laboral y que por lo tanto, antes de rematar o adjudicar los bienes del patrón, deberá notificar al trabajador a fin de que comparezca a deducir sus derechos; y
+
+III. Tratándose de créditos fiscales, cuotas que se adeuden al Instituto Mexicano del Seguro Social, o aportación al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, bastará con que la Junta remita oficio a la autoridad que corresponda, indicándole la existencia de juicios laborales, cuyas prestaciones están pendientes de cubrirse, para que antes de adjudicar o rematar los bienes del patrón se proceda conforme al artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 981.
+
+Cuando en los juicios seguidos ante la Junta se haya dictado laudo por cantidad líquida o se haya efectuado la liquidación correspondiente, la Junta lo hará saber a la autoridad judicial o administrativa que haya sido prevenida, en los términos del artículo anterior, remitiéndole copia certificada del laudo, a fin de que se tome en cuenta el mismo al aplicar el producto de los bienes rematados o adjudicados.
+
+Si el patrón antes del remate hubiese hecho pago para librar sus bienes, deberá cubrirse con éste el importe de los créditos laborales en que se hubiese hecho la prevención.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 982.
+
+Se tramitarán conforme a las disposiciones de este Capítulo, todos aquellos asuntos que, por mandato de la Ley, por su naturaleza o a solicitud de parte interesada, requieran la intervención de la Junta, sin que esté promovido jurisdiccionalmente conflicto alguno entre partes determinadas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 983.
+
+En los procedimientos a que se refiere este Capítulo, el trabajador, sindicato o patrón interesado podrá concurrir a la Junta competente, solicitando oralmente o por escrito la intervención de la misma y señalando expresamente la persona cuya declaración se requiere, la cosa que se pretende se exhiba, o la diligencia que se pide se lleve a cabo.
+
+La Junta acordará dentro de las veinticuatro horas siguientes sobre lo solicitado y, en su caso, señalará día y hora para llevar a cabo la diligencia y ordenará, en su caso, la citación de las personas cuya declaración se pretende.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 984.
+
+Cuando por disposición de la Ley o de alguna autoridad o por acuerdo de las partes, se tenga que otorgar depósito o fianza, podrá el interesado o interesados concurrir ante el Presidente de la Junta o de la Junta Especial, el cual la recibirá y, en su caso, lo comunicará a la parte interesada.
+
+La cancelación de la fianza o la devolución del depósito, también podrá tramitarse ante el Presidente de la Junta o de la Junta Especial quien acordará de inmediato con citación del beneficiario y previa comprobación de que cumplió las obligaciones que garantiza la fianza o el depósito, autorizará su cancelación o devolución.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 985.
+
+Cuando la Secretaría de Hacienda y Crédito Público, sin haber mediado objeción de los trabajadores, modifique el ingreso global gravable declarado por el causante, y éste haya impugnado dicha resolución, podrá solicitar a la Junta de Conciliación y Arbitraje, dentro de los 3 días siguientes al recibo de la notificación, la suspensión del reparto adicional de utilidades a los trabajadores, para lo cual adjuntará:
+
+I. La garantía que otorgue en favor de los trabajadores que será por:
+
+a) La cantidad adicional a repartir a los trabajadores.
+
+b) Los intereses legales computados por un año.
+
+II. Copia de la resolución dictada por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 986.
+
+La Junta al recibir el escrito del patrón examinará que reúna los requisitos señalados en el artículo anterior, en cuyo caso inmediatamente correrá traslado a los representantes de los trabajadores, para que dentro de 3 días manifiesten lo que a su derecho convenga; transcurrido el plazo acordará lo conducente.
+
+Si la solicitud del patrón no reúne los requisitos legales, la Junta la desechará de plano.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 987.
+
+Cuando trabajadores y patrones lleguen a un convenio o liquidación de un trabajador, fuera de juicio, podrán concurrir ante las Juntas de Conciliación, de Conciliación y Arbitraje y las Especiales, solicitando su aprobación y ratificación, en los términos a que se refiere el párrafo segundo del artículo 33 de esta Ley, para cuyo efecto se identificarán a satisfacción de aquélla.
+
+En los convenios en que se dé por terminada la relación de trabajo, deberá desglosarse la cantidad que se le entregue al trabajador por concepto de participación de utilidades. En caso de que la Comisión Mixta aún no haya determinado la participación individual de los trabajadores, se dejarán a salvo sus derechos, hasta en tanto se formule el proyecto del reparto individual.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 988.
+
+Los trabajadores mayores de catorce años, pero menores de dieciséis, que no hayan terminado su educación obligatoria, podrán ocurrir ante la Junta de Conciliación y Arbitraje competente solicitando autorización para trabajar, y acompañarán los documentos que estimen convenientes, para establecer la compatibilidad entre los estudios y el trabajo.
+
+La Junta de Conciliación y Arbitraje, inmediatamente de recibida la solicitud, acordará lo conducente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 989.
+
+Los trabajadores podrán solicitar, por conducto de la Junta de Conciliación y Arbitraje correspondiente, que el patrón les expida constancia escrita que contenga el número de días trabajados y el salario percibido, en los términos señalados por el artículo 132 fracción VII de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 990.
+
+El trabajador o sus beneficiarios que deban recibir alguna cantidad de dinero en virtud de convenio o liquidación, podrán concurrir personalmente a la Junta correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 991.
+
+En los casos de rescisión previstos en el párrafo final del artículo 47, el patrón podrá acudir ante la Junta de Conciliación o de Conciliación y Arbitraje competente, a solicitar se notifique al trabajador, por conducto del Actuario de la Junta, el aviso a que el citado precepto se refiere. La Junta, dentro de los 5 días siguientes al recibo de la promoción, deberá proceder a la notificación.
+
+El actuario levantará acta circunstanciada de la diligencia.
+
+(REUBICADO, D.O.F. 4 DE ENERO DE 1980)
 
 TITULO DIECISEIS
 
 Responsabilidades y Sanciones
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 876.
+###### Artículo 992.
 
 Las violaciones a las normas de trabajo cometidas por los patrones o por los trabajadores, se sancionarán de conformidad con las disposiciones de este Título, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones.
 
-La cuantificación de las sanciones pecuniarias que en el presente Titulo se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente en el lugar y tiempo en que se cometa la violación.
+La cuantificación de las sanciones pecuniarias que en el presente Título se establecen, se hará tomando como base de cálculo la cuota diaria de salario mínimo general vigente, en el lugar y tiempo en que se cometa la violación.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 877.
+###### Artículo 993.
 
-Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos, se le impondrá una multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo dispuesto en el artículo que antecede.
+Al patrón que no cumpla las normas que determinan el porcentaje o la utilización exclusiva de trabajadores mexicanos en las empresas o establecimientos se le impondrá una multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo dispuesto en el artículo que antecede.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 878.
+###### Artículo 994.
 
-Se impondrá multa, cuantificada en los términos del artículo 876, por el equivalente:
+Se impondrá multa, cuantificada en los términos del artículo 992, por el equivalente:
 
-I.- De 3 a 155 veces el salario mínimo general, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76, y 77;
+I. De 3 a 155 veces el salario mínimo general, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;
 
-II.- De 15 a 315 veces el salario mínimo general, al patrón que no cumpla las obligaciones que le impone el Capítulo VIII del Título Tercero;
+II. De 15 a 315 veces el salario mínimo general, al patrón que no cumpla las obligaciones que le impone el Capítulo VIII del Título Tercero;
 
-III.- De 3 a 95 veces el salario mínimo general, al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXIV;
+III. De 3 a 95 veces el salario mínimo general al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;
 
-IV.- De 15 a 315 veces el salario mínimo general, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello;
+IV. De 15 a 315 veces el salario mínimo general, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello;
 
-V.- De 15 a 315 veces el salario mínimo general, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las leyes para prevenir los riesgos de trabajo. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello, sin perjuicio de que las autoridades procedan en los términos del artículo 512-D;
+V. De 15 a 315 veces el salario mínimo general, al patrón que no permita la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento; y no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las leyes para prevenir los riesgos de trabajo. La multa se duplicará, si la irregularidad no es subsanada dentro del plazo que se conceda para ello, sin perjuicio de que las autoridades procedan en los términos del artículo 512-D;
 
-VI.- De 15 a 155 veces el salario mínimo general, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, VI y VII.
+VI. De 15 a 155 veces el salario mínimo general, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, IV, VI y VII.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 879.
+###### Artículo 995.
 
-Al patrón que viole las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, calculado en los términos del artículo 876.
+Al patrón que viole las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, calculado en los términos del artículo 992.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 880.
+###### Artículo 996.
 
-Al armador, naviero o fletador, de conformidad a lo dispuesto por el artículo 876, se le impondrá multa por el equivalente:
+Al armador, naviero o fletador, de conformidad a lo dispuesto por el artículo 992, se le impondrá multa por el equivalente:
 
-I.- De 3 a 31 veces el salario mínimo general, si no cumple las disposiciones contenidas en los artículos 204, fracción II, y 213, fracción II; y,
+I. De 3 a 31 veces el salario mínimo general, si no cumple las disposiciones contenidas en los artículos 204, fracción II y 213 fracción II; y
 
-II.- De 3 a 155 veces el salario mínimo general, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
+II. De 3 a 155 veces el salario mínimo general, al que no cumpla la obligación señalada en el artículo 204, fracción IX.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 881.
+###### Artículo 997.
 
-Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 876.
+Al patrón que viole las normas protectoras del trabajo del campo y del trabajo a domicilio, se le impondrá multa por el equivalente de 15 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 992.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 882.
+###### Artículo 998.
 
-Conforme a lo dispuesto en el artículo 876, al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 3 a 15 veces el salario mínimo general.
+Conforme a lo dispuesto en el artículo 992, al patrón que no facilite al trabajador doméstico que carezca de instrucción, la asistencia a una escuela primaria, se le impondrá multa por el equivalente de 3 a 15 veces el salario mínimo general.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 883.
+###### Artículo 999.
 
-Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 876.
+Al patrón que viole las normas protectoras del trabajo en hoteles, restaurantes, bares y otros establecimientos semejantes, se le impondrá multa por el equivalente de 3 a 155 veces el salario mínimo general, conforme a lo establecido en el artículo 992.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 884.
+###### Artículo 1000.
 
-El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada, descansos, contenidas en un contrato ley, cometido en el transcurso de una semana, se sancionará con multa por el equivalente de 15 a 315 veces el salario mínimo general, conforme a lo establecido en el artículo 876, tomando en consideración la gravedad de la falta. Si el incumplimiento se prolonga dos o más semanas, se acumularán las multas. La reincidencia se sancionará con la misma multa, aumentada en un veinticinco por ciento.
+El incumplimiento de las normas relativas a la remuneración de los trabajos, duración de la jornada y descansos, contenidas en un contrato ley, o en un contrato colectivo de trabajo, cometido en el transcurso de una semana se sancionará con multas por el equivalente de 15 a 315 veces el salario mínimo general, conforme a lo establecido en el artículo 992 tomando en consideración la gravedad de la falta. Si el incumplimiento se prolonga dos o más semanas, se acumularán las multas. La reincidencia se sancionará con la misma multa, aumentada a un veinticinco por ciento.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 885.
+###### Artículo 1001.
 
-Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 3 a 30 veces el salario mínimo general, conforme a lo establecido en el artículo 876.
+Al patrón que viole las normas contenidas en el Reglamento Interior de Trabajo, se le impondrá multa por el equivalente de 3 a 30 veces el salario mínimo general, conforme a lo establecido en el artículo 992.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 886.
+###### Artículo 1002.
 
-De conformidad con lo que establece el artículo 876, por violaciones a las normas de trabajo no sancionadas en este Capítulo o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 3 a 315 veces el salario mínimo general, tomando en consideración la gravedad de la falta y las circunstancias del caso.
+De conformidad con lo que establece el artículo 992, por violaciones a las normas de trabajo no sancionadas en este Capítulo o en alguna otra disposición de esta Ley, se impondrá al infractor multa por el equivalente de 3 a 315 veces el salario mínimo general, tomando en consideración la gravedad de la falta y las circunstancias del caso.
 
-Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en último párrafo del artículo 21 constitucional.
+Cuando la multa se aplique a un trabajador, ésta no podrá exceder al importe señalado en el último párrafo del artículo 21 Constitucional.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 887.
+###### Artículo 1003.
 
-Las sanciones de que trata este Capítulo serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe del Departamento del Distrito Federal, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
+Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones de unos y otros, podrán denunciar ante las autoridades del trabajo las violaciones a las normas del trabajo.
 
-###### Artículo 888.
+Los Presidentes de las Juntas Especiales, los de las Juntas Federales Permanentes de Conciliación, los de las Locales de Conciliación y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
 
-La autoridad después de oír al interesado, impondrá la sanción correspondiente.
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-###### Artículo 889.
-
-Las sanciones se harán efectivas por las autoridades que designen las leyes.
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
-
-###### Artículo 890.
-
-Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones y otros, podrán denunciar ante las autoridades del trabajo las violaciones a las normas del trabajo.
-
-Los Presidentes de las Juntas Especiales, los de las Juntas Federales Permanentes de Conciliación, los de las Locales de Conciliación y los inspectores del trabajo tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
-
-###### Artículo 891.
+###### Artículo 1004.
 
 Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se le castigará con las penas siguientes:
 
-I.- Con prisión de tres meses a dos años y multa que equivalga hasta 20 veces el salario mínimo general, conforme a lo establecido por el artículo 876, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general de la zona correspondiente;
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
 
-II.- Con prisión de tres meses a dos años y multa que equivalga hasta 50 veces el salario mínimo general, conforme a lo establecido por el artículo 876, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general de la zona correspondiente; y,
+I. Con prisión de tres meses a dos años y multa que equivalga hasta 20 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general de la zona correspondiente;
 
-III.- Con prisión de tres meses a dos años y multa que equivalga hasta 100 veces el salario mínimo general, conforme a lo establecido por el artículo 876, si la omisión excede a los tres meses de salario mínimo general de la zona correspondiente.
+II. Con prisión de tres meses a dos años y multa que equivalga hasta 50 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general de la zona correspondiente; y
 
-Si el patrón de la negociación industrial, agrícola, minera, comercial o de servicio paga al trabajador lo que le adeuda, más los intereses moratorios, antes de formular conclusiones el Ministerio Público, se le condenará únicamente el pago de la multa.
+III. Con prisión de tres meses a tres años y multa que equivalga hasta 100 veces el salario mínimo general, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general de la zona correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 1005.
+
+Al Procurador de la Defensa del Trabajo, o al apoderado o representante del trabajador, se les impondrá sanción de seis meses a tres años de prisión y multa de ocho a ochenta veces el salario mínimo general que rija en el lugar y tiempo de residencia de la Junta, en los casos siguientes:
+
+I. Cuando sin causa justificada se abstengan de concurrir a dos o más audiencias; y
+
+II. Cuando sin causa justificada se abstengan de promover en el juicio durante el lapso de tres meses.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 1006.
+
+A todo aquel que presente documentos o testigos falsos, se le impondrá una pena de seis meses a cuatro años de prisión y multa de ocho a ciento veinte veces el salario mínimo general que rija en el lugar y tiempo de residencia de la Junta. Tratándose de trabajadores, la multa será el salario que perciba el trabajador en una semana.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 1007.
+
+Las penas consignadas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que por daños y perjuicios le resultaren al apoderado o representante.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 1008.
+
+Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por el Secretario del Trabajo y Previsión Social, por los Gobernadores de los Estados o por el Jefe del Departamento del Distrito Federal, quienes podrán delegar el ejercicio de esta facultad en los funcionarios subordinados que estimen conveniente, mediante acuerdo que se publique en el periódico oficial que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 1009.
+
+La autoridad, después de oír al interesado, impondrá la sanción correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+###### Artículo 1010.
+
+Las sanciones se harán efectivas por las autoridades que designen las leyes.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -7831,3 +9323,9 @@ D.O.F. 28 DE ABRIL DE 1978.
 PRIMERO.- El presente Decreto entrará en vigor el día primero de mayo del presente año.
 
 SEGUNDO.- En los términos del Artículo Segundo Transitorio del Decreto que reformó la Fracción XXXI, del Apartado A, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y que fue publicado en el "Diario Oficial" de la Federación correspondiente al 9 de enero de 1978, las autoridades locales del trabajo seguirán atendiendo, hasta su total terminación, los conflictos laborales que se encontraban en trámite a la iniciación de la vigencia de la citada reforma y que hayan surgido dentro de las ramas industriales o actividades que han quedado comprendidas en el régimen de aplicación federal de las leyes del trabajo.
+
+D.O.F. 4 DE ENERO DE 1980.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de mayo de 1980.
+
+SEGUNDO.- Los juicios que se hayan iniciado con anterioridad a la vigencia de este Decreto, continuarán su trámite conforme a las disposiciones anteriores.
