@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2001-05-30"
+last_updated: "2002-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -639,9 +639,9 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-II.- Los Secretarios del Despacho dependientes del Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces, y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo, noventa días antes de la fecha de elección.
+II.- Los Secretarios del Despacho dependientes del Ejecutivo, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe de su cargo, 90 días antes de la fecha de la elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
@@ -801,7 +801,9 @@ X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia, li
 
 XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
 
-XII.- (DEROGADA, P.O. 3 DE FEBRERO DE 1997)
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
+
+XII.- Designar mediante el procedimiento previsto en esta Constitución o en las leyes respectivas, al Consejero Presidente y a los Consejeros Electorales del Consejo General del Consejo Estatal Electoral, así como a los Magistrados del Tribunal Electoral del Poder Judicial del Estado, y recibirles la protesta de Ley;
 
 XIII.- Cambiar la sede de los poderes del Estado.
 
@@ -883,9 +885,9 @@ XXXVII.- Definir los límites de los municipios en caso de duda surgida entre el
 
 XXXVIII.- Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de los Diputados siempre y cuando los miembros del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-XXXIX.- Designar a los integrantes de los Concejos Municipales y al Presidente Municipal sustituto, en los casos previstos por esta Constitución.
+XXXIX.- Designar a los integrantes de los Concejos Municipales, en los casos previstos por esta Constitución o por la Ley de los Municipios.
 
 XL.- Expedir la Ley de Expropiación por causa de utilidad pública.
 
@@ -937,9 +939,9 @@ V.- Conceder licencias temporales a los diputados y magistrados del Tribunal Sup
 
 VI.- Nombrar Gobernador provisional en los casos previstos en esta Constitución.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-VII.- Designar, a los miembros de los Concejos Municipales y al Presidente Municipal sustituto, en los casos previstos en este ordenamiento.
+VII.- Designar a los integrantes de los Concejos Municipales, en los casos previstos por esta Constitución o por la Ley de los Municipios.
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1998)</small>
 
@@ -957,9 +959,13 @@ X.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurado
 
 XI.- Designar mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-XII. Las demás que le confiere expresamente esta Constitución.
+XII.- Designar mediante el procedimiento previsto en esta Constitución o en las leyes respectivas, al Consejero Presidente y a los Consejeros Electorales del Consejo General del Consejo Estatal Electoral, así como a los Magistrados del Tribunal Electoral del Poder Judicial del Estado, y recibirles la protesta de Ley;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
+
+XIII. Las demás que le confiere expresamente esta Constitución.
 
 #### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador
 
@@ -1081,9 +1087,9 @@ VIII.- Solicitar la protección de los Poderes de la Unión, de conformidad con 
 
 IX.- Ejercer el derecho de veto en los términos de la Constitución.
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-X.- Tener bajo su mando la fuerza de seguridad pública del Estado; así como el de la policía preventiva y tránsito municipal, estos últimos en aquellos casos en que juzgue como de fuerza mayor o alteración grave del orden público.
+X.- Tener bajo su mando la fuerza de Seguridad Pública del Estado; así como el de la policía preventiva, esta última en aquellos casos en que juzgue como de fuerza mayor o alteración grave del orden público;
 
 XI.- Ejercer las facultades que le otorgue la Constitución Federal en relación a la Guardia Nacional.
 
@@ -1561,11 +1567,13 @@ VI.- Que la ciudad señalada en la fracción anterior, tenga los servicios públ
 
 VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+
 ### CAPITULO IV. Del Patrimonio y Hacienda Pública Municipal
 
-###### ARTICULO 133.
+###### Artículo 133.
 
-La Legislatura del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su creación.
+La Legislatura del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su creación; asimismo, por acuerdo de sus integrantes, estará facultada para modificar la denominación de algún municipio, cuando en su concepto, existan razones fundadas para ello.
 
 ###### ARTICULO 134.
 
@@ -1619,11 +1627,11 @@ III.- Los muebles normalmente insustituibles como son los expedientes de las ofi
 
 Son bienes del dominio privado los que le pertenecen en propiedad y los que en lo futuro ingresen a su patrimonio, no previstos en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.| 15 DE MARZO DE 2002)</small>
 
-###### ARTICULO 141.
+###### Artículo 141.
 
-Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables y no están sujetos, a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por Decreto de la Legislatura.
+Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables y no están sujetos a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por acuerdo de las dos terceras partes de los miembros del Ayuntamiento.
 
 ###### ARTICULO 142.
 
@@ -1671,7 +1679,9 @@ I.- En los Municipios de Othón P. Blanco y Benito Juárez, con un presidente, u
 
 II.- En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad e Isla Mujeres, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
 
-Se elegirá un suplente para el Síndico y uno para cada Regidor.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+
+Se elegirá un suplente para cada integrante del Ayuntamiento.
 
 ###### ARTICULO 146.
 
@@ -1719,9 +1729,15 @@ III.- Tratándose de regidores, tener 18 años de edad el día de la elección, 
 
 IV.- Ser persona de reconocida buena conducta.
 
-V.- No desempeñar, con excepción de los docentes, cargo o comisión del gobierno federal o estatal, a menos que se separe con dos meses de anticipación al día de la elección, y
+> <small>(REFORMADA P.O. 15 DE MARZO DE 2002)</small>
+
+V.- No desempeñar, con excepción de los docentes, cargo o comisión del Gobierno Federal o Estatal a menos que se separe con dos meses de anticipación al día de la elección. Esta disposición no será aplicable a quienes participen con el carácter de suplentes; y
 
 VI.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2002)</small>
+
+Para los efectos de este artículo, son residentes de un municipio, los habitantes del mismo que por razones del desempeño de un cargo de elección popular, puesto público, comisión de carácter oficial, estudio o empleo, permanezcan dentro de su territorio, sin la intención de establecerse de manera definitiva en el mismo. Son vecinos de un municipio, los residentes establecidos de manera fija en su territorio y que mantengan casa en el mismo en la que habiten de manera ininterrumpida y permanente, y se encuentren inscritos en el padrón electoral correspondiente a ese propio municipio.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
@@ -1753,21 +1769,23 @@ Los presidentes municipales, síndicos y regidores de los ayuntamientos que haya
 
 En las ausencias temporales del presidente municipal pasará a desempeñar sus funciones el primer regidor.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
-###### ARTICULO 154.
+###### Artículo 154.
 
-En caso de falta absoluta del Presidente Municipal, la Legislatura del Estado, o la Diputación Permanente, en su caso, designarán al ciudadano quintanarroense que deba sustituirlo. En todo caso, el designado deberá satisfacer los requisitos contenidos en el artículo 149 de esta Constitución y rendirá la Protesta de Ley.
+En caso de falta absoluta de algún miembro del Ayuntamiento, éste llamará a los suplentes respectivos, quienes rendirán la protesta y asumirán el desempeño del cargo.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
 
 ### CAPITULO VIII. De las Facultades y Obligaciones del Ayuntamiento
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 155.
+###### Artículo 155.
 
-En caso de falta absoluta del síndico o de algún regidor, el ayuntamiento llamará a los suplentes respectivos, o en su defecto, procederá según lo disponga la Ley de los Municipios, quienes rendirán la protesta y asumirán el desempeño del cargo.
+Cuando el suplente respectivo no pueda entrar al desempeño del cargo, el Ayuntamiento por el voto de las dos terceras partes de sus miembros procederá a nombrar de entre los vecinos del municipio a quien ocupará el cargo, quien en todo caso deberá satisfacer los requisitos exigidos para ser miembro del Ayuntamiento, con excepción de lo previsto en la fracción V del Artículo 149 de esta Constitución.
+
+Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
@@ -1794,6 +1812,8 @@ Los ayuntamientos electos se instalarán en ceremonia pública y solemne el 10 d
 Si en el acto de instalación no estuviere presente el presidente municipal, el ayuntamiento se instalará con el primer regidor, quien rendirá la protesta y a continuación la tomará a los demás miembros que estén presentes.
 
 ### CAPITULO X. De las Dependencias Administrativas Municipales y de sus Titulares
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 159.
 
@@ -1889,9 +1909,13 @@ I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estat
 
 II.- Aprobar. De acuerdo con las disposiciones legales expedidas al respecto por la Legislatura del Estado, los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de su respectiva jurisdicción, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-III.- (DEROGADA, P.O. 15 DE FEBRERO DE 2001)
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
 
-IV.- Nombrar y remover al secretario y tesorero, a propuesta del presidente municipal.
+III.- Resolver, conforme a las disposiciones constitucionales y legales aplicables, sobre las solicitudes de enajenación de bienes del dominio privado del Municipio, así como respecto del cambio de situación jurídica del régimen de dominio público al de dominio privado de bienes de propiedad municipal;
+
+> <small>(REFORMADA P.O. 15 DE MARZO DE 2002)</small>
+
+IV.- Nombrar y remover al Secretario, al Tesorero y al Titular o Titulares de los órganos de Seguridad Pública y Tránsito, a propuesta del Presidente Municipal;
 
 V.- Conceder licencias a sus miembros hasta por treinta días y convocar a quienes deban suplirlos.
 
@@ -1913,11 +1937,15 @@ XII.- Formular anualmente su Presupuesto de Egresos.
 
 XIII.- Formular anualmente su proyecto de Ley de Ingresos que será cometido (sic) a aprobación de la Legislatura.
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA P.O. 15 DE MARZO DE 2002)</small>
 
-XIV.- Rendir a la Legislatura del Estado, para su revisión y fiscalización, la cuenta anual del gasto público, en la forma establecida en la Ley de los Municipios y las disposiciones legales conducentes, y
+XIV.- Informar a la Legislatura del Estado, sobre la aprobación de la cuenta anual del gasto público, para su revisión y fiscalización, conforme a las disposiciones legales conducentes;
 
 XV.- Promover el desenvolvimiento político, económico, social y cultural de la comunidad.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
+
+XVI.- Las demás que prevea esta Constitución, la Ley de los Municipios del Estado y demás disposiciones que regulen el funcionamiento municipal.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -2075,27 +2103,29 @@ II.- Someter a consideración del ayuntamiento proyectos de acuerdo y programas 
 
 III.- Cumplir las funciones inherentes a sus comisiones e informar al ayuntamiento de sus resultados.
 
-###### ARTICULO 168.
+###### Artículo 168.
 
-Para el despacho de los asuntos administrativos los ayuntamientos tendrán (sic) siguientes unidades internas:
+Para el despacho de los asuntos administrativos de su competencia, los Ayuntamientos contarán con las siguientes dependencias, organismos o unidades:
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-I.- Secretaría.
+I.- Secretaría del Ayuntamiento.
 
-II.- Tesorería.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
+
+II.- Tesorería Municipal;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 III.- Alcaldías, Delegaciones y Subdelegaciones.
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-IV.- De Seguridad Pública, Policía Preventiva y Tránsito;
+IV.- Dirección o Direcciones de Seguridad Pública, Policía Preventiva y Tránsito Municipal.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
 
-V.- Las demás Dependencias y Unidades Descentralizadas que el Ayuntamiento establezca en el reglamento respectivo.
+V.- Las demás Dependencias, Organismos Descentralizados, Entidades Paramunicipales y Unidades Administrativas que el Ayuntamiento establezca en el Reglamento respectivo, o mediante los Acuerdos que emita, según sus propios requerimientos.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
 
@@ -2434,6 +2464,18 @@ En la realización de las acciones conducentes al cumplimiento del presente Decr
 P.O. 30 DE MAYO DE 2001.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MARZO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con excepción de lo dispuesto en el siguiente punto.
+
+SEGUNDO. La reforma al último párrafo del artículo 145, no será aplicable para los efectos de asignación de suplente del Presidente Municipal electo, en el proceso electoral 2001-2002.
+
+Por esta única ocasión, en caso de falta absoluta de alguno de los Presidentes Municipales que resultaren electos en el proceso electoral 2001-2002, corresponderá al propio Ayuntamiento, nombrar a quien ocupará dicho cargo, debiendo ser ratificado por la Legislatura o la Diputación Permanente, en su caso, dentro del improrrogable término de 10 días naturales.
+
+Si la Legislatura o la Diputación Permanente no resolvieren dentro del plazo anterior, se tendrá por aprobado el nombramiento y el designado entrará a desempeñar sus funciones.
+
+En todo caso, el designado deberá satisfacer los requisitos constitucionales exigidos para ser miembro del Ayuntamiento.
 
 ###### ARTICULO PRIMERO.
 
