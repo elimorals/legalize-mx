@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-transito-del-estado-de-zacatecas-30567"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-12-15"
-last_updated: "2003-04-26"
+last_updated: "2003-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE TRANSITO DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2003 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE TRÁNSITO DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2003.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MAYO DE 2003.</small>
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de diciembre de 1990.
 
@@ -403,9 +403,9 @@ XIV.- Los vehículos que expidan humo en exceso o con escape, radio o estereo ru
 
 XV.- Para la circulación de vehículos con cristales polarizados o cubiertos con pinturas o materiales reflejantes, se requerirá autorización previa de la Dirección.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2003)</small>
+(ADICIONADO, P.O. 26 DE ABRIL DE 2003) (F. DE E., P.O. 14 DE MAYO DE 2003)
 
-La Dirección solamente emitirá autorizaciones de polarizado de bajo grado, con transmitancia luminosa menor al 75% y solamente para los cristales delantero y trasero del vehículo. Quedan exceptuados de lo anterior, los conductores que por razones médicas o de seguridad requieran de utilizar pinturas, materiales reflejantes o polarizado en mayor grado al señalado, pudiendo la Dirección emitir la autorización correspondiente.
+La Dirección solamente emitirá autorizaciones de polarizado de bajo grado, con transmitancia luminosa menor al 75% y solamente para los cristales laterales y trasero del vehículo. Quedan exceptuados de lo anterior, los conductores que por razones médicas o de seguridad requieran de utilizar pinturas, materiales reflejantes o polarizado en mayor grado al señalado, pudiendo la Dirección emitir la autorización correspondiente.
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2003)</small>
 
