@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1995-11-21"
+last_updated: "1997-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 1997.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -4969,37 +4969,57 @@ En los testimonios que expidan los Notarios relativos a estos negocios, insertar
 
 ### CAPITULO IV. Adopción
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 720
 
-El que pretenda adoptar a alguna persona, deberá acreditar:
+Quien pretenda adoptar a persona alguna deberá acreditar los requisitos exigidos por el artículo 320 del Código Civil. El procedimiento a seguir será el siguiente:
 
-I.- Que es mayor de edad y tiene, por lo menos diecisiete años más de edad que la persona que trata de adoptar;
+I.- El promovente en su escrito inicial, debe manifestar expresamente:
 
-II.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o el cuidado y subsistencia del incapacitado, como hijo propio, según las circunstancias de la persona que trata de adoptarse;
+a).- El tipo de adopción que pretende, simple o plena.
 
-III.- Que la adopción es benéfica para la persona que trata de adoptarse;
+b).- Nombre, edad y domicilio del menor o persona con incapacidad que se pretende adoptar.
 
-IV.- Que el adoptante es persona de buenas costumbres.
+c).- Nombre, edad y domicilio de quien o quienes, en su caso, ejerzan sobre aquellos la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que los hubiera acogido.
 
-En la promoción inicial deberá manifestarse el nombre y el del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o institución que lo hayan acogido.
+Los estudios socioeconómicos y psicológicos indispensables para tramitar la adopción en cualquiera de sus tipos, deberán llevarse al cabo por el Sistema Estatal para el Desarrollo Integral de la Familia. Sólo en caso de imposibilidad demostrada por parte del sistema susodicho, tales estudios serán encomendados por el juez al o los peritos que estime pertinentes.
+
+II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada el adoptante recabará y exhibirá constancia, certificada por Notario Público o por el Presidente Municipal correspondiente, del tiempo de la exposición o abandono, para los efectos del artículo 372 fracción IV, del Código Civil.
+
+III.- Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretenda adoptar con el presunto adoptante entre tanto se consuma dicho plazo.
+
+IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia pública o privada, se decretará el depósito con el presunto adoptante por el término de seis meses para los mismos efectos, quedando esta determinación al arbitrio del Juez.
+
+En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan sobre él la patria potestad o la tutela; será indispensable, para promover su adopción, en cualquiera de las dos formas, que transcurra el plazo de seis meses a que se refiere el presente artículo.
+
+V.- Si el presunto adoptante es extranjero deberá, además, acreditar su residencia legal en nuestro país.
 
 ARTICULO 721
 
 Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 327 y 328 del Código Civil, el Tribunal resolverá dentro del tercer día.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 722
 
-Cuando el adoptante o el adoptado pidan que la adopción sea revocada, el juez los convocará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en los artículos 337 y 338 del Código Civil.
+Cuando el adoptante o el adoptado pidan que la adopción simple sea revocada, el juez convocará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en los artículos 337 y 338 del Código Civil.
 
 Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción, y sin oír al representante del Ministerio Público.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
 
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+ARTICULO 722 BIS
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 334 del Código Civil, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes, con la intervención del Ministerio Público, al cabo de la cual resolverá lo conducente en un plazo no mayor de ocho días.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 723
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 324 y 335 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+La impugnación o la revocación en materia de adopción simple se substanciarán en la vía ordinaria.
 
 ### CAPITULO V. De las informaciones ad perpétuam
 
@@ -5556,6 +5576,12 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 12 DE JUNIO DE 1997.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+SEGUNDO. Las adopciones que se hallen en trámite a la fecha de la publicación de las presentes reformas, adiciones y modificaciones, se seguirán tramitando de acuerdo a las disposiciones vigentes, hasta antes de la publicación de estas reformas; pero si en aquellas adopciones, hubiere la voluntad del adoptante de darle a la adopción el carácter de plena deberá seguirse con este procedimiento de acuerdo con las disposiciones legales contenidas en esta ley.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
