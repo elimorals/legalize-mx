@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1997-01-09"
+last_updated: "1998-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -293,7 +293,9 @@ Están exentos del pago de impuestos y derechos:
 
 I.- La Federación, los Estados y los Municipios.
 
-II.- Los organismos descentralizados de la Federación, Estados y Municipios.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1998)</small>
+
+II.- Los organismos descentralizados de la Federación Estado y Municipios, cuando realicen actividades con fines no lucrativos.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -1415,7 +1417,7 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO SEGUNDO. Procedimiento
+### CAPITULO TERCERO. Forma de Pago
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1427,11 +1429,11 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO CUARTO. Recursos
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO SEGUNDO. Procedimiento
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1575,7 +1577,7 @@ II.- Por las obras de pavimentación, alumbrado público y ornato, el monto que 
 
 III.- Por las obras de electrificación, el monto que corresponda por inmueble se determinará dividiendo el importe total del valor recuperable entre el número de inmuebles ubicados en la respectiva zona de beneficio.
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO UNICO. Participaciones
 
@@ -1631,7 +1633,7 @@ Dentro de los quince días siguientes a la notificación del crédito fiscal cor
 
 (DEROGADO, B.O. 7 DE MAYO DE 1992)
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ## TITULO QUINTO. Productos
 
@@ -2164,3 +2166,13 @@ Se derogan los puntos del 1 al 7 de la fracción II, del artículo 326 de la Ley
 B.O. 9 DE ENERO DE 1997.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor en todo el Estado, el día 01 de enero de 1999, previa su publicación en el Boletín Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que en lo conducente se opongan a la aplicación de la presente Ley.
