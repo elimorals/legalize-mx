@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1984-02-06"
+last_updated: "1984-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1984.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -439,7 +439,389 @@ ART. 77.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
 ART. 78.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
-ART. 79.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
+ART. 79.- El impuesto se causará aplicando a las bases mencionadas en el Artículo anterior, la siguiente:
+
+T A R I F A
+
+I.- Predios rústicos y urbanos:
+
+a).- 10 al millar anual, para los predios cuyos valores fiscales se hayan fijado con base en tablas de valores catastrales.
+
+b).- 26 al millar anual, para los predios que no hayan sido valuados en avalúos definitivo, como lo determina las tablas de valores catastrales;
+
+c).- En ninguno de los casos a que se refieren los incisos anteriores el impuesto será inferior a $ 35.00 por predio.
+
+II.- Predios rústicos ejidales:
+
+a).- Los utilizados en la agricultura pagarán con base en el volumen de la producción y la clase de producto cosechado, de acuerdo con las siguientes cuotas:
+
+Productos Cuota por Ton.
+
+1.- Ajonjolí $ 183.46
+
+2.- Alfalfa 72.00
+
+3.- Algodón 267.78
+
+4.- Alpiste 181.73
+
+5.- Arroz Palay 104.59
+
+6.- Cacahuate 92.71
+
+7.- Caña 1.88
+
+8.- Cártamo 158.44
+
+9.- Cebada 87.14
+
+10.- Frijol Mungo 150.95
+
+11.- Frijol Soya 176.28
+
+12.- Frijol otras
+
+variedades 144.26
+
+13.- Garbanzo 966.50
+
+14.- Flor de
+
+Zempoasuchitl 47.20
+
+15.- Henequén 68.96
+
+16.- Kenaf 68.08
+
+17.- Linaza 125.06
+
+18.- Maíz 55.20
+
+19.- Maíz Mijo 164.74
+
+20.- Milo Maíz 57.81
+
+21.- Tabaco 74.02
+
+22.- Trigo 79.37
+
+23.- Producto
+
+no especificado
+
+sobre valor en plaza 4.56
+
+Hortalizas y Cuota por Bulto
+
+Frutas de Primera
+
+24.- Berenjena
+
+Jaba Aambrada
+
+1 Bushel 0.84
+
+Caja Alambrada
+
+de Madera 0.91
+
+25.- Calabaza
+
+Caja de Madera
+
+Aserrada 1.21
+
+Jaba Alambrada
+
+1 1/9 Bushel 1.44
+
+26.- Chile Bell Papper
+
+Caja de Cartón
+
+de 30 Lbs. 2.05
+
+Jaba Alambrada
+
+1 Bushel 1.68
+
+Caja de
+
+Madera Aserrada 2.40
+
+Jaba Alambrada
+
+1 1/9 Bushel 2.19
+
+Otros Envases
+
+no especificados 1.19
+
+Caja de
+
+Cartón Encerada 1.61
+
+27.- Chile Fresno
+
+Jaba Alambrada
+
+1 1/9 Bushel 2.40
+
+Cartón Standard
+
+Tomatero 1.18
+
+28.- Chile Caribe
+
+Jaba Alambrada
+
+1 1/9 Bushel 2.28
+
+Caja Standard
+
+Tomatera 1.31
+
+29.- Chile Anaheim
+
+Jaba alambrada
+
+1 1/9 Bushel 2.13
+
+30.- Chile Serrano
+
+Jaba Alambrada
+
+1 1/9 Bushel 1.44
+
+Jaba Chilera 1.24
+
+31.- Chile Jalapeño
+
+Jaba Alambrada 1 1/9 2.47
+
+32.- Chile Morrón
+
+Jaba Alambrada
+
+1 Bushel 1.19
+
+33.- Chile Cubanello
+
+Jaba Alambrada
+
+1 1/9 Bushel 2.08
+
+34.- Chile Húngaro
+
+Jaba Alambrada
+
+1 1/9 Bushel 2.19
+
+35.- Chile Pasilla
+
+Jaba Alambrada
+
+1 Bushel 1.51
+
+36.- Chile Pimiento Rojo
+
+Jaba Alambrada
+
+1 Bushel 0.98
+
+37.- Chícharo
+
+Canasta Chicharera
+
+1 Bushel 1.13
+
+Jaba alambrada
+
+1 1/9 Bushel 1.20
+
+38.- Ejote
+
+Jaba Alambrada
+
+1 Bushel 2.30
+
+Caja de Madera
+
+Standard 2.36
+
+Jaba Alambrada
+
+1 1/9 Bushel 2.33
+
+39.- Melón
+
+Jaba Alambrada
+
+Standard 1.15
+
+Jaba Melonera
+
+Jumbo 1.36
+
+Jaba Melonera
+
+1/2 Jumbo 0.68
+
+Caja Tomatera 0.42
+
+Jaba de Madera
+
+Aserrada 0.60
+
+40.- Pepino
+
+Jaba Alambrada
+
+1 1/9 Bushel 1.72
+
+Cartón de 24 piezas 0.70
+
+Cartón de 36 piezas 0.62
+
+Caja de Madera
+
+Standard 1.79
+
+Pickle Jaba
+
+Alambrada
+
+1 1/9 Bushel 1.13
+
+41.- Tomate Verde
+
+Caja de Cartón
+
+de 40 Lbs. 1.50
+
+Caja de Cartón
+
+de 30 Lbs. 1.14
+
+42.- Tomate Maduro
+
+Envase 3 Tandas 1.53
+
+Envase 2 Tandas 1.23
+
+Envase 30 Lbs. 1.53
+
+43.- Tomate Roma
+
+Caja de Cartón y Madera 0.95
+
+44.- Tomate Cherry
+
+Caja de Cartón y Madera 0.72
+
+Caja de Cartón y Madera 0.81
+
+45.- Mango
+
+Caja de Cartón y Madera 0.56
+
+46.- Toronja
+
+Envase no especificado 0.67
+
+47.- Jícama
+
+Envase no especificado 0.80
+
+48.- Repollo
+
+Envase no especificado 0.83
+
+49.- Nabo
+
+Envase no especificado 0.42
+
+50.- Col
+
+Caja de Madera 0.40
+
+51.- Papaya 58.11 Por Ton.
+
+52.- Aguacate 81.44 " "
+
+53.- Naranja 23.68 " "
+
+54.- Sandía 15.21 " "
+
+55.- Otras Frutas 55.61 " "
+
+56.- Otras Hortalizas 55.61 " "
+
+Hortalizas y Frutas
+
+de Segunda: Cuota por Tonelada
+
+57.- Aguacate 35.28
+
+58.- Berenjena 35.28
+
+59.- Calabaza 35.28
+
+60.- Cebolla 35.28
+
+61.- Chícharo 45.08
+
+62.- Chile Fresco 48.41
+
+63.- Chile Seco 128.65
+
+64.- Ejote 35.28
+
+65.- Elote 35.28
+
+66.- Lechuga 35.28
+
+67.- Limón 35.28
+
+68.- Mango 35.28
+
+69.- Melón 35.28
+
+70.- Naranja 35.28
+
+71.- Papa 37.52
+
+72.- Papaya 35.28
+
+73.- Pepino 33.88
+
+74.- Repollo 35.28
+
+75.- Sandía 33.88
+
+76.- Tomate 30.65
+
+77.- Toronja 35.28
+
+78.- Otras Hortalizas 35.28
+
+79.- Otras Frutas 35.28
+
+El monto a pagar derivado de la aplicación de las cuotas anteriores, en ningún caso excederá del 5% del valor de la producción anual comercializada, teniendo en cuenta los precios rurales de la producción de que se trate, en acatamiento a lo dispuesto por la fracción III del Artículo 106 de la Ley Federal de Reforma Agraria.
+
+El ingreso recaudado conforme a la aplicación de estas cuotas, se distribuirá de la siguiente forma;
+
+1.- Para el Gobierno del Estado de Sinaloa 60 %
+
+2.- Para el Municipio según lo generado en la circunscripción 10 %
+
+3.- Para la Universidad Autónoma de Sinaloa 7 %
+
+4.- Para la Promoción de Servicios Ejidales 18 %
+
+5.- Para la Investigación Agrícola 5 %
+
+b).- Los no destinados a la agricultura, el 10 al millar anual sobre el valor fiscal de los predios.
 
 ART. 80.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
 
@@ -3369,41 +3751,57 @@ ART. 364.- La devolución de los depósitos por cauciones, se harán en los caso
 
 ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en Impuestos y otros Ingresos Federales.
 
-Del total que reciba el Estado por este concepto, transferirá a los municipios el 20%, distribuyéndose en los siguientes porcientos:
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1984)</small>
 
-AHOME 14.55%
+De los ingresos que reciba el Estado por concepto de participaciones federales, corresponden a los Municipios:
 
-EL FUERTE 2.93%
+I.- El 20% de la suma de los Fondos General y Financiero Complementario de Participaciones;
 
-CHOIX 1.97%
+II.- El 20% de la cantidad que resulte de aplicar el 80% a la recaudación total que obtenga el Estado, por concepto del Impuesto Sobre Tenencia o Uso de Vehículos; y,
 
-GUASAVE 7.66%
+III.- El 100% del ingreso que reciba el Estado de la Federación por concepto del Fondo de Fomento Municipal.
 
-SINALOA 2.62%
+La proporción que recibirá cada Municipio, será de acuerdo a los siguientes porcentajes o índices de participación.
 
-ANGOSTURA 2.26%
+MUNICIPIOS PORCENTAJE DE PARTICIPACION
 
-MOCORITO 2.61%
+1.- AHOME 13.23
 
-SALVADOR ALVARADO 4.56%
+2.- EL FUERTE 2.88
 
-BADIRAGUATO 1.95%
+3.- CHOIX 1.83
 
-CULIACAN 28.01%
+4.- GUASAVE 7.35
 
-ELOTA 1.93%
+5.- SINALOA 2.60
 
-COSALA 1.86%
+6.- MOCORITO 2.11
 
-SAN IGNACIO 1.95%
+7.- ANGOSTURA 2.46
 
-MAZATLAN 18.35%
+8.- SALVADOR ALVARADO 5.27
 
-CONCORDIA 1.95%
+9.- BADIRAGUATO 1.79
 
-ROSARIO 2.53%
+10.- CULIACAN 24.69
 
-ESCUINAPA 2.31%
+11.- NAVOLATO 3.40
+
+12.- ELOTA 2.00
+
+13.- COSALA 1.78
+
+14.- SAN IGNACIO 1.86
+
+15.- MAZATLAN 19.79
+
+16.- CONCORDIA 1.97
+
+17.- ROSARIO 2.46
+
+18.- ESCUINAPA 2.53
+
+100.00%
 
 ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
 
@@ -4802,3 +5200,17 @@ P. O. 6 DE FEBRERO DE 1984.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE ABRIL DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Se deroga el Decreto número 165 de fecha 31 de marzo de 1982, publicado en el Periódico Oficial "El Estado de Sinaloa" número 45 de 14 de abril de 1982.
+
+###### ARTICULO SEGUNDO.
+
+Las cantidades que el Estado haya entregado provisionalmente a los Municipios a cuenta de sus participaciones federales a partir del 1 de enero de 1984, hasta la fecha de su publicación, serán ajustadas conforme a los porcentajes de participación señalados en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
