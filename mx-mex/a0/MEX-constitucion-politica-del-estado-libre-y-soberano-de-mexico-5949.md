@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1939-09-06"
+last_updated: "1939-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 1939.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE SEPTIEMBRE DE 1939.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -53,15 +53,19 @@ Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación, 
 
 G.G. 25 DE SEPTIEMBRE DE 1929.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 9 DE NOVIEMBRE DE 1935.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 6 DE SEPTIEMBRE DE 1939.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 9 DE SEPTIEMBRE DE 1939.
+
+Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -271,9 +275,11 @@ El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se
 
 Por cada ochenta mil habitantes o fracción mayor de cuarenta mil, se elegirán un Diputado propietario y un suplente.
 
+> <small>(REFORMADO, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+
 ###### Art. 39.
 
-Para ser Diputados propietario o suplente, se requiere: ser mayor de veinticinco años, originario y ciudadano del Estado, con residencia efectiva en su territorio o con vecindad no menor de cinco años inmediatos anteriores al día de la elección.
+Para ser Diputado Propietario o Suplente, se requiere: ser mayor de veinticinco años, nativo del Distrito, ciudadano del Estado e hijo de padres mexicanos por nacimiento y con vecindad en el Distrito, no menor de cinco años inmediatos anteriores al día de la elección.
 
 ###### Art. 40.
 
@@ -477,7 +483,7 @@ X. Hacer la computación de votos en la elección de Gobernador y declarar elect
 
 XI. Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución y para hacer la elección de Magistrados del Tribunal Superior de Justicia y de Jueces de primera Instancia, con arreglo a la misma Constitución;
 
-REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
 
@@ -603,13 +609,15 @@ El Gobernador durará en su encargo cuatro años y nunca podrá ser reelecto ni 
 
 Para ser Gobernador del Estado se requiere:
 
-I. Ser mexicano por nacimiento y nativo del Estado, o con vencidad (sci) en él, no menor de cinco años, inmediatamente anteriores al día de la elección;
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+
+I. Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento, nativo del Estado y con vecindad en él no menor de cinco años inmediatamente anteriores al día de la elección.
 
 II. Ser ciudadano del Estado en el pleno goce de sus derechos políticos;
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-III.- Tener treinta años cumplidos el día de la elección;
+III. Tener treinta años cumplidos el día de la elección;
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
@@ -679,7 +687,7 @@ IV. Enviar cada vez que lo crea conveniente, al Secretario General de Gobierno p
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-V.- Nombrar y remover libremente al Secretario General de Gobierno, al Tesorero General, al Contador de la Tesorería, al Procurador General de Hacienda, al Procurador General de Justicia y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
+V. Nombrar y remover libremente al Secretario General de Gobierno, al Tesorero General, al Contador de la Tesorería, al Procurador General de Hacienda, al Procurador General de Justicia y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
 
 VI. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos municipales, de acuerdo con el artículo 11 transitorio de dicha Constitución y ajustando sus procedimientos a las leyes que al efecto se dicten, tan pronto como sean expedidas;
 
@@ -693,7 +701,7 @@ X. Mandar personalmente las fuerzas del Estado y movilizarlas según las necesid
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-XI.- Solicitar de la Legislatura Local, o, en su caso, de la Diputación Permanente, la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 128.
+XI. Solicitar de la Legislatura Local, o, en su caso, de la Diputación Permanente, la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 128.
 
 > <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
@@ -713,11 +721,11 @@ IV. Concurrir a la apertura de cada período de sesiones ordinarias y extraordin
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-V.- Presentar cada año a la Legislatura, antes del día quince del mes de diciembre, los proyectos del Presupuesto de Ingresos y Egresos Generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de gastos del año inmediato anterior.
+V. Presentar cada año a la Legislatura, antes del día quince del mes de diciembre, los proyectos del Presupuesto de Ingresos y Egresos Generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de gastos del año inmediato anterior.
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-VI.- Presentar a la Legislatura, también antes del día quince del mes de diciembre, los proyectos de Presupuesto de Ingresos Municipales que le remitan los Municipios y que deberán regir en el año fiscal próximo.
+VI. Presentar a la Legislatura, también antes del día quince del mes de diciembre, los proyectos de Presupuesto de Ingresos Municipales que le remitan los Municipios y que deberán regir en el año fiscal próximo.
 
 VII. Presentar a la Legislatura, al terminar su período Constitucional, una memoria sobre el estado de los negocios públicos, expresando cuales sean las deficiencias que note en la administración y cuales las medidas que en su concepto deban aplicarse, para subsanarlas;
 
@@ -749,11 +757,11 @@ XX. Fomentar la organización de instituciones de utilidad social para infundir 
 
 > <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
 
-XXI.- Asumir por medio de la Dirección de Educación Pública que establece el artículo 223 de esta Constitución, la dirección técnica de todos los establecimientos oficiales de Educación Pública en el Estado, los que funcionarán con arreglo a las leyes respectivas.
+XXI. Asumir por medio de la Dirección de Educación Pública que establece el artículo 223 de esta Constitución, la dirección técnica de todos los establecimientos oficiales de Educación Pública en el Estado, los que funcionarán con arreglo a las leyes respectivas.
 
 > <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
 
-XXII.- Asumir, por el mismo conducto, la Dirección Administrativa de los Establecimientos de Enseñanza que deben ser sostenidos por los fondos generales del Estado.
+XXII. Asumir, por el mismo conducto, la Dirección Administrativa de los Establecimientos de Enseñanza que deben ser sostenidos por los fondos generales del Estado.
 
 XXIII. Asumir la representación política y civil del Municipio para los efectos de los artículos 12, 15 y 17 de esta Constitución;
 
@@ -801,13 +809,11 @@ XIII. Conceder licencias para juegos de azar.
 
 Para el despacho de los negocios que la presente Constitución encomienda al Ejecutivo, habrá un Secretario General de Gobierno.
 
+> <small>(REFORMADO, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+
 ###### Art. 92.
 
-Para ser Secretario General de Gobierno, se requiere:
-
-I. Ser originario del Estado, o ciudadano del mismo en el pleno goce de sus derechos;
-
-II. Ser mayor de treinta años.
+Para ser Secretario General de Gobierno, se requieren los mismos requisitos que para ser Gobernador del Estado.
 
 ###### Art. 93.
 
@@ -849,7 +855,9 @@ El Secretario General, mientras esté en ejercicio de sus funciones, no podrá d
 
 Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento en el pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+
+I. Ser ciudadano del Estado, mexicano por nacimiento e hijo de mexicanos por nacimiento, en el pleno goce de sus derechos civiles y políticos.
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
@@ -925,7 +933,7 @@ II. Hacer la revisión de todos los procesos del orden penal que determinen las 
 
 III. Declarar si ha lugar o no a formación de causa, por delitos o faltas oficiales, en contra de los Presidentes Municipales y Jueces Conciliadores, suspendiéndolos en el ejercicio de sus funciones, en caso afirmativo, y consignándolos al Juez de Primera Instancia, de su respectivo Distrito;
 
-IV. Conocer del recurso de suspensión a que se refiere el artículo 113 de esta Constitución;
+IV. Conocer del recursos de suspensión a que se refiere el artículo 113 de esta Constitución;
 
 V. Conocer de los demás asuntos que les confieran las leyes.
 
@@ -1047,9 +1055,11 @@ Los miembros de un Ayuntamiento serán designados en una sola elección, disting
 
 Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
+> <small>(REFORMADO, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+
 ###### Art. 140.
 
-Para ser miembro de un Ayuntamiento será indispensable ser ciudadano mexicano y vecino del Municipio, en ejercicio de sus derechos; pero esta vecindad será de tres años para el Presidente Municipal.
+Para ser miembro de un Ayuntamiento, será indispensable ser ciudadano del Estado, nativo del Municipio, en ejercicio de sus derechos civiles y políticos y con vecindad no menor de dos años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
 
