@@ -4,7 +4,7 @@ identifier: "NAY-codigo-fiscal-del-estado-de-nayarit-14460"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1976-12-29"
+last_updated: "1980-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO FISCAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1980.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de diciembre de 1976.
 
@@ -301,9 +301,11 @@ La protesta quedará sin efecto y el pago se considerará definitivo desde la fe
 
 La función recaudatoria de créditos fiscales, es de competencia exclusiva de la Dirección General de Finanzas y Administración del Estado, quien para la recepción de pagos podrá ser auxiliada por organismos públicos o privados a petición de la misma o por disposición de la Ley. Se realizará de acuerdo a lo dispuesto en este Código, o lo que al respecto establezcan las leyes respectivas.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1980)</small>
+
 ###### ARTICULO 37.
 
-El pago de los créditos fiscales se efectuará de acuerdo a las tasas, cuotas o tarifas que se establezcan en la Ley de Ingresos del Estado y en los plazos, lugares y forma que en la misma, que en este Código o en las Leyes respectivas se señalen.
+El pago de los créditos fiscales se efectuará de acuerdo a las tasas, cuotas o tarifas que se establezcan en la Ley de Hacienda del Estado en los plazos, lugares y forma que en la misma o en este Código se señalen.
 
 ###### ARTICULO 38.
 
@@ -369,7 +371,7 @@ La vigencia y exigibilidad por cantidad líquida del derecho del crédito cuya p
 
 ###### ARTICULO 48.
 
-Las controversias que surjan entre el fisco estatal y los fiscos municipales sobre preferencia en el cobro de los créditos a que este Código se refiere, se decidirán por el Supremo Tribunal de Justicia del Estado tomando en cuenta las garantías constituidas conforme a las siguientes reglas:
+Las controversias que surjan entre el fisco estatal y los fiscos municipales sobre preferencia en el cobro de los créditos a que este Código se refiere se decidirán, por el Supremo Tribunal de Justicia del Estado tomando en cuenta las garantías constituidas conforme a las siguientes reglas:
 
 I.- Los Créditos derivados por impuestos sobre la propiedad raíz serán preferentes, tratándose de los frutos de los bienes inmuebles respectivos o del producto de la venta de éstos, y
 
@@ -403,9 +405,11 @@ No se considerará garantizado el interés fiscal por el embargo de bienes, prac
 
 ## TITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 1980)</small>
+
 ###### ARTICULO 51.
 
-La. aplicación de las sanciones administrativas que procedan, se hará sin perjuicio de que se exija el cumplimiento de las obligaciones fiscales respectivas.
+La aplicación de las sanciones administrativas que procedan, se hará sin perjuicio de que se exija el cumplimiento de las obligaciones fiscales respectivas.
 
 La Ley de Ingresos determinará las sanciones que correspondan a las infracciones de que trata este título.
 
@@ -1121,11 +1125,13 @@ Cuando se encuentren improductivas o abandonadas las negociaciones sujetas a emb
 
 #### SECCION TERCERA. DE LOS REMATES
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1980)</small>
+
 ###### ARTICULO 129.
 
-Se procederá a la venta de los bienes embargados en el local de la oficina ejecutora y en pública subasta, en cuanto quede firme el secuestro administrativo.
+Se procederá a la venta de los bienes embargados en el local de la Oficina ejecutora y en pública subasta al décimo sexto día de practicado el embargo, si en contra de éste no hubiere objeción o cuando quede firme, al resolverse la que se hubiere hecho valer.
 
-La oficina ejecutora podrá señalar un lugar distinto para la venta, si con esta medida puede obtenerse un mayor rendimiento del remate.
+La Oficina Ejecutora podrá señalar un lugar distinto para la venta, si con esta medida puede obtenerse un mayor rendimiento del remate.
 
 ###### ARTICULO 130.
 
@@ -1133,7 +1139,11 @@ La base para el remate de los bienes secuestrados se establecerá como sigue:
 
 I.- Si se trata de bienes inmuebles su valor catastral y, si no lo hubiere el que resulte del avalúo pericial.
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1980)</small>
+
 II.- Si se trata de bienes muebles, el que defina el avalúo pericial.
+
+El perito valuador será nombrado por la Dirección General de Finanzas y Administración.
 
 ###### ARTICULO 131.
 
@@ -1215,7 +1225,7 @@ Si la resolución es negativa, el fincamiento que haya hecho la oficina ejecutor
 
 ###### ARTICULO 141.
 
-Aprobado el remate de bienes raíces, la Oicina ejecutora lo comunicará al postor para que, dentro de un plazo de diez días, entere la diferencia que hubiere entre la cantidad ofrecida y exhibida de contado y el importe de la postura.
+Aprobado el remate de bienes raíces, la Oficina ejecutora lo comunicará al postor para que, dentro de un plazo de diez días, entere la diferencia que hubiere entre la cantidad ofrecida y exhibida de contado y el importe de la postura.
 
 ###### ARTICULO 142.
 
@@ -1305,7 +1315,7 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 
 En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir en queja ante la Dirección General de Finanzas y Administración del Estado, si se está tramitando el recurso administrativo, o ante el Tribunal Fiscal del Estado en que se tramite el juicio de nulidad si ya se ha iniciado éste. La Dirección o el Tribunal pedirán a la autoridad ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
 
-### CAPITULO V. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO IV. DE LOS PROCEDIMIENTOS RELACIONADOS CON LA EXTINCION DE LOS CREDITOS FISCALES
 
 ###### ARTICULO 153.
 
@@ -1351,7 +1361,7 @@ La solicitud de condonación de multas, que no tendrá el carácter de recurso, 
 
 Cuando se pida la devolución, ésta deberá efectuarse dentro del plazo de noventa días siguientes a la fecha en que quede reconocido el derecho del peticionario. Si dentro de dicho plazo no se efectúa la restitución, el fisco estatal deberá pagar intereses a la tasa del 9 % anual, computados desde que se constituya en mora hasta la fecha en que se devuelva la cantidad respectiva.
 
-### CAPITULO IV. DE LOS PROCEDIMIENTOS RELACIONADOS CON LA EXTINCION DE LOS CREDITOS FISCALES
+### CAPITULO V. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 157.
 
@@ -1932,3 +1942,11 @@ El Secretario Gral. de Gobierno
 Dr. J. Jesús Osuna Gómez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE MAYO DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
