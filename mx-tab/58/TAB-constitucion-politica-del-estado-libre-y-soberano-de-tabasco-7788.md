@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1969-08-27"
+last_updated: "1970-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1970.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -119,7 +119,9 @@ CIUDADANOS TABASQUEÑOS.
 
 Son ciudadanos tabasqueños los varones y las mujeres que, teniendo la calidad de tabasqueños, reúnan además los siguientes requisitos:
 
-I.- Haber cumplido diez y ocho años de edad, si son casados, o veintiuno si no lo son.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 1970)</small>
+
+I.- Haber cumplido dieciocho años de edad.
 
 II.- Tener un modo honesto de vivir.
 
@@ -1602,3 +1604,7 @@ UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su
 P.O. 27 DE AGOSTO DE 1969.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MARZO DE 1970.
+
+UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
