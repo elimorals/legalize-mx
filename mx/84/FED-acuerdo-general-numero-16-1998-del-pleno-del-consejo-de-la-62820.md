@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-03-13"
+last_updated: "2000-03-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -115,7 +115,9 @@ SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprender
 
 I.- PRIMER CIRCUITO:
 
-1.- Treinta y un tribunales colegiados especializados: cuatro en materia penal, siete en materia administrativa, nueve en materia civil y once en materia de trabajo; y, cuatro tribunales unitarios, todos con residencia en el Distrito Federal.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 15/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MARZO DE 2000)</small>
+
+1.- Cuarenta y dos tribunales colegiados especializados: seis en materia penal, once en materia administrativa, trece en materia civil y doce en materia de trabajo; y, seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
 2.- Treinta y cuatro juzgados de distrito especializados: doce en materia penal, diez en materia administrativa, diez en materia civil y dos en materia de trabajo, todos con sede en el Distrito Federal.
 
@@ -381,7 +383,7 @@ XI.- DECIMO PRIMER CIRCUITO: Estado de Michoacán.
 
 > <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
 
-XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa.
+XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
@@ -932,5 +934,21 @@ D.O.F. 13 DE MARZO DE 2000.
 ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de abril del año dos mil.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 24 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 14/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 24 DE MARZO DE 2000.
+
+ACUERDO GENERAL NUMERO 15/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día veintinueve de marzo de dos mil.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
