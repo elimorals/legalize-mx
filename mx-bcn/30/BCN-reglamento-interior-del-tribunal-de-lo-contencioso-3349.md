@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "1994-10-14"
+last_updated: "1995-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1995.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -183,6 +183,10 @@ II.- Llevar un libro de control en el que se asiente los asuntos que se turnan a
 
 III.- Expedir y certificar constancias que obren en los expedientes de los juicios radicados en la Sala de su adscripción.
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1995)</small>
+
+IV.- Autorizar con su firma, en unión con el Magistrado de la Sala de su adscripción, las resoluciones que se dicten en los juicios.
+
 ###### ARTICULO 27.
 
 Para ser Jefe de la Unidad Administrativa se requiere:
@@ -308,3 +312,7 @@ Rúbrica.
 P.O. 14 DE OCTUBRE DE 1994.
 
 UNICO.- Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE SEPTIEMBRE DE 1995.
+
+UNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
