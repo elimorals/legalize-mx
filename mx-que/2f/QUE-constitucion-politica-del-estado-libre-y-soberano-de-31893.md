@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1935-10-10"
+last_updated: "1935-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 1935.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 1935.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -739,17 +739,17 @@ El Congreso, cuando lo crea oportuno establecerá los juicios por Jurados, en lo
 
 Del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1935)</small>
 
 ###### Art. 104.
 
-El Tribunal Superior de Justicia estará integrado por un Magistrado Propietario y dos magistrados suplentes o Supernumerarios de los cuales uno puede ser Secretario de acuerdos o del Pleno del Tribunal. El Magistrado Propietario y los Supernumerarios serán elegidos directamente por la Legislatura del Estado, cada vez que el caso lo requiera, por la faltan absoluta de las personas que desempeñen dichos cargos, y en su receso, por la Diputación Permanente.
+El Tribunal Superior de Justicia se compondrá de tres Magistrados propietarios y tres seplentes o supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1935)</small>
 
 ###### Art. 105.
 
-El Magistrado Propietario del Tribunal Superior de Justicia entrará al desempeño de su encargo previa protesta ante la Legislatura o ante la Comisión Permanente, y durará en sus funciones el mismo tiempo que el Ejecutivo del Estado.
+Los Magistrados del Tribunal Superior de Justicia entrarán al desempeño de su cargo en la misma fecha, 1º de octubre, que el Gobernador del Estado, y durarán en sus funciones cuatro años.
 
 ###### Art. 106.
 
@@ -759,17 +759,19 @@ I.- Ser ciudadano mexicano por nacimiento, y en el pleno ejercicio de sus derech
 
 II.- Ser mayor de 30 años de edad;
 
-III.- Tener título profesional de Abogado, expedido por la autoridad competente, o por corporación legalmente facultada para ello, y haber ejercido la profesión cuando menos cinco años.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1935)</small>
+
+III.- Tener título Profesional de Abogado, expedido por la Autoridad Competente o de Corporación legalmente autorizada para ello.
 
 IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión o secta;
 
 V.- Tener antecedentes intachables de moralidad.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1933)</small>
+> <small>(REFORMADO, P.O 26 DE DICIEMBRE DE 1935)</small>
 
 ###### Art. 107.
 
-Será Presidente del Tribunal Superior de Justicia en el Estado, el Magistrado Propietario que resulte electo para ese cargo, por la Legislatura de esta Entidad, o en defecto de ésta por la Diputación Permanente.
+Será Presidente del Tribunal Superior de Justicia, el Magistrado Propietario que resulte electo para este cargo por la H. Legislatura. El Presidente del Tribunal será renovado cada año, pudiendo ser reelecto y sus faltas temporales serán suplidas precisamente por uno de los otros dos Magistrados Propietarios, designado en la misma forman que el anterior.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
@@ -799,7 +801,9 @@ VII.- Formar su Reglamento interior con aprobación de la Legislatura;
 
 VIII.- Dirimir los conflictos que surjan entre los Municipios y cualquiera de lo Poderes del Estado, y entre los Poderes entre sí, siempre que tales conflictos no sean de la competencia de la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución General de la República;
 
-IX.- Ejercer en pleno, o dividido en Salas, las demás atribuciones que le señalen la leyes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1935)</small>
+
+IX.- Actuar en la forma de Sala Colegiada para todos los asuntos de la incumbencia del Tribunal, siendo cada uno de los Magistrados Propietarios, ponente en determinado Ramo: Civil, Penal y Administrativo o varios.
 
 X.- Nombrar, a propuesta de los Jueces respectivos, a los empleados de los Juzgados, cuidando que los nombrados reúnan los requisitos de la ley;
 
@@ -1594,3 +1598,13 @@ N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONE
 P.O. 10 DE OCTUBRE DE 1935
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 26 DE DICIEMBRE DE 1935
+
+###### Articulo 1°.
+
+A efecto de que la H. Legislatura del Estado proceda a la reorganización del H. Tribunal Superior de Justicia, queda insubsistente el Decreto No. 59 de fecha 30 de Septiembre de 1935, así como todas las disposiciones que en alguna forma contravengan a la presente Ley.
+
+###### Articulo 2°.
+
+Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
