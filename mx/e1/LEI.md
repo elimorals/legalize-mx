@@ -1,0 +1,275 @@
+---
+title: "LEY DE EXTRADICION INTERNACIONAL"
+identifier: "LEI"
+country: "mx"
+rank: "ley"
+publication_date: "1975-12-29"
+last_updated: "1975-12-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "10"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "39"
+reform_count: "6"
+scjn_last_update: "2021-05-20"
+issue_date: "1975-12-22"
+abbreviation: "LEI"
+---
+# LEY DE EXTRADICION INTERNACIONAL
+
+LEY DE EXTRADICION INTERNACIONAL
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial de la Federación, el lunes 29 de diciembre de 1975.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+LUIS ECHEVERRIA ALVAREZ, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
+
+DECRETO:
+
+"El Congreso de los Estados Unidos Mexicanos, decreta:
+
+LEY DE EXTRADICION INTERNACIONAL.
+
+### CAPITULO I. Objeto y Principios
+
+###### ARTICULO 1.
+
+Las disposiciones de esta Ley son de orden público, de carácter federal y tienen por objeto determinar los casos y las condiciones para entregar a los Estados que lo soliciten, cuando no exista tratado internacional, a los acusados ante sus tribunales, o condenados por ellos, por delitos del orden común.
+
+###### ARTICULO 2.
+
+Los procedimientos establecidos en esta ley se deberán aplicar para el trámite y resolución de cualquier solicitud de extradición que se reciba de un gobierno extranjero.
+
+###### ARTICULO 3.
+
+Las extradiciones que el Gobierno Mexicano solicite de estados extranjeros, se regirán por los tratados vigentes y a falta de éstos, por los artículos 5, 6, 15 y 16 de esta Ley.
+
+###### ARTICULO 4.
+
+Cuando en esta Ley se haga referencia a la ley penal mexicana, deberá entenderse el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, así como todas aquellas leyes federales que definan delitos.
+
+###### ARTICULO 5.
+
+Podrán ser entregados conforme a esta ley los individuos contra quienes en otro país, se haya incoado un proceso penal como presuntos responsables de un delito o que sean reclamados para la ejecución de una sentencia dictada por las autoridades judiciales del Estado solicitante.
+
+###### ARTICULO 6.
+
+Darán lugar a la extradición los delitos intencionales definidos en la ley penal mexicana si concurren los requisitos siguientes:
+
+I.- Que sean punibles, conforme a la ley penal mexicana y a la del Estado solicitante, con pena de prisión cuyo término medio aritmético por lo menos sea de un año; y
+
+II.- Que no se encuentren comprendidos en alguna de las excepciones previstas por esta ley.
+
+###### ARTICULO 7.
+
+No se concederá la extradición cuando:
+
+I.- El reclamado haya sido objeto de absolución, indulto o amnistía o cuando hubiere cumplido la condena relativa al delito que motive el pedimento;
+
+II.- Falte querella de parte legítima, si conforme a la ley penal mexicana el delito exige ese requisito;
+
+III.- Haya prescrito la acción o la pena, conforme a la ley penal mexicana o a la ley aplicable del Estado solicitante, y
+
+IV.- El delito haya sido cometido dentro del ámbito de la jurisdicción de los tribunales de la República.
+
+###### ARTICULO 8.
+
+En ningún caso se concederá la extradición de personas que puedan ser objeto de persecución política del Estado solicitante, o cuando el reclamado haya tenido la condición de esclavo en el país en donde se cometió el delito.
+
+###### ARTICULO 9.
+
+No se concederá la extradición si el delito por el cual se pide es del fuero militar.
+
+###### ARTICULO 10.
+
+El Estado Mexicano exigirá para el trámite de la petición, que el Estado solicitante se comprometa:
+
+I.- Que, llegado el caso, otorgará la reciprocidad;
+
+II.- Que no serán materia del proceso, ni aún como circunstancias agravantes, los delitos cometidos con anterioridad a la extradición, omitidos en la demanda e inconexos con los especificados en ella. El Estado solicitante queda relevado de este compromiso si el inculpado consciente libremente en ser juzgado por ello o si permaneciendo en su territorio más de dos meses continuos en libertad absoluta para abandonarlo, no hace uso de esta facultad;
+
+III.- Que el presunto extraditado será sometido a tribunal competente, establecido por la ley con anterioridad al delito que se le impute en la demanda, para que se le juzgue y sentencie con las formalidades de derecho;
+
+IV.- Que será oído en defensa y se le facilitarán los recursos legales en todo caso, aun cuando ya hubiere sido condenado en rebeldía;
+
+V.- Que, si el delito que se imputa al reclamado es punible en su legislación hasta con la pena de muerte o alguna de las señaladas por el artículo 22 constitucional, sólo se le impondrá la de prisión;
+
+VI.- Que no se concederá la extradición del mismo individuo a un tercer Estado, sino en los casos de excepción previstos en la segunda fracción de este artículo; y
+
+VII.- Que proporcionará al Estado mexicano una copia auténtica de la resolución ejecutoriada que se pronuncie en el proceso.
+
+###### ARTICULO 11.
+
+Cuando el individuo reclamado tuviere causa pendiente o hubiere sido condenado en la República por delito distinto del que motive la petición formal de extradición, su entrega al Estado solicitante, si procediere, se diferirá hasta que haya sido decretada su libertad por resolución definitiva.
+
+###### ARTICULO 12.
+
+Si la extradición de una misma persona fuere pedida por dos o más Estados y respecto de todos o varios de ellos fuere procedente, se entregará el acusado:
+
+I.- Al que lo reclame en virtud de un tratado;
+
+II.- Cuando varios Estados invoquen tratados, a aquel en cuyo territorio se hubiere cometido el delito;
+
+III.- Cuando concurran dichas circunstancias, al Estado que lo reclame a causa de delito que merezca pena más grave; y
+
+IV.- En cualquier otro caso, al que primero haya solicitado la extradición o la detención provisional con fines de extradición.
+
+###### ARTICULO 13.
+
+El Estado que obtenga la preferencia de la extradición con arreglo al artículo anterior, podrá declinarla en favor de un tercero que no la hubiere logrado.
+
+###### ARTICULO 14.
+
+Ningún mexicano podrá ser entregado a un Estado extranjero sino en casos excepcionales a juicio del Ejecutivo.
+
+###### ARTICULO 15.
+
+La calidad de mexicano no será obstáculo a la entrega del reclamado cuando haya sido adquirida con posterioridad a los hechos que motiven la petición de extradición.
+
+### CAPITULO II. Procedimiento
+
+###### ARTICULO 16.
+
+La petición formal de extradición y los documentos en que se apoye el Estado solicitante, deberán contener:
+
+I.- La expresión del delito por el que se pide la extradición;
+
+II.- La prueba de la existencia del cuerpo del delito y la probable responsabilidad del reclamado. Cuando el individuo haya sido condenado, por los Tribunales del Estado solicitante, bastará acompañar copia auténtica de la sentencia ejecutoriada.
+
+III.- Las manifestaciones a que se refiere el artículo 10, en los casos en que no exista tratado de extradición con el Estado solicitante.
+
+IV.- La reproducción del texto de los preceptos de la Ley del Estado solicitante que definan el delito y determinen la pena, los que se refieran a la prescripción de la acción y de la pena aplicable y la declaración autorizada de su vigencia en la época en que se cometió el delito;
+
+V.- El texto auténtico de la orden de aprehensión que, en su caso, se haya librado en contra del reclamado; y
+
+VI.- Los datos y antecedentes personales del reclamado, que permitan su identificación, y siempre que sea posible, los conducentes a su localización.
+
+Los documentos señalados en este artículo y cualquier otro que se presente y estén redactados en idioma extranjero, deberán ser acompañados con su traducción al español y legalizados conforme a las disposiciones del Código Federal de Procedimientos Penales.
+
+###### ARTICULO 17.
+
+Cuando un Estado manifieste la intención de presentar petición formal para la extradición de una determinada persona, y solicite la adopción de medidas precautorias respecto de ella, éstas podrán ser acordadas siempre que la petición del Estado solicitante contenga la expresión del delito por el cual se solicitará la extradición y la manifestación de existir en contra del reclamado una orden de aprehensión emanada de autoridad competente.
+
+Si la Secretaría de Relaciones Exteriores estimare que hay fundamento para ello, transmitirá la petición al Procurador General de la República, quien de inmediato promoverá ante el Juez de Distrito que corresponda, que dicte las medidas apropiadas, las cuales podrán consistir, a petición del Procurador General de la República, en arraigo o las que procedan de acuerdo con los tratados o las leyes de la materia.
+
+###### ARTICULO 18.
+
+Si dentro de un término prudente, a juicio de la Secretaría de Relaciones Exteriores que se notificará al Estado solicitante y que nunca excederá de dos meses contados a partir de la fecha en que se hayan decretado las medidas a que se refiere el artículo anterior, no fuere presentada la petición formal de extradición a la Secretaría de Relaciones Exteriores, se levantarán de inmediato dichas medidas.
+
+###### ARTICULO 19.
+
+Recibida la petición formal de extradición, la Secretaría de Relaciones Exteriores la examinará y si la encontrare improcedente no la admitirá, lo cual comunicará al solicitante.
+
+###### ARTICULO 20.
+
+Cuando no se hubieren reunido los requisitos establecidos en el tratado o, en su caso, en el artículo 16, la Secretaría de Relaciones Exteriores lo hará del conocimiento del Estado promovente para que subsane las omisiones o defectos señalados, que en caso de estar sometido el reclamado a medidas precautorias, deberá cumplimentarse dentro del término a que se refiere el artículo 18.
+
+###### ARTICULO 21.
+
+Resuelta la admisión de la petición la Secretaría de Relaciones Exteriores enviará la requisitoria al Procurador General de la República acompañando el expediente, a fin de que promueva ante el Juez de Distrito competente, que dicte auto mandándola cumplir y ordenando la detención del reclamado, así como, en su caso, el secuestro de papeles, dinero u otros objetos que se hallen en su poder, relacionados con el delito imputado o que puedan ser elementos de prueba, cuando así lo hubiere pedido el Estado solicitante.
+
+###### ARTICULO 22.
+
+Conocerá el Juez de Distrito de la jurisdicción donde se encuentre el reclamado. Cuando se desconozca el paradero de éste, será competente el Juez de Distrito en Materia Penal en turno del Distrito Federal.
+
+###### ARTICULO 23.
+
+El Juez de Distrito es irrecusable y lo actuado por él no admite recurso alguno. Tampoco serán admisibles cuestiones de competencia.
+
+###### ARTICULO 24.
+
+Una vez detenido el reclamado, sin demora se le hará comparecer ante el respectivo Juez de Distrito y éste le dará a conocer el contenido de la petición de extradición y los documentos que se acompañen a la solicitud.
+
+En la misma audiencia podrá nombrar defensor. En caso de no tenerlo y desea hacerlo, se le presentará lista de defensores de oficio para que elija. Si no designa, el Juez lo hará en su lugar.
+
+El detenido podrá solicitar al Juez se difiera la celebración de la diligencia hasta en tanto acepte su defensor cuando éste no se encuentre presente en el momento del discernimiento del cargo.
+
+###### ARTICULO 25.
+
+Al detenido se le oirá en defensa por sí o por su defensor y dispondrá hasta de tres días para oponer excepciones que únicamente podrán ser las siguientes:
+
+I.- La de no estar ajustada la petición de extradición a las prescripciones del tratado aplicable, o a las normas de la presente ley, a falta de aquél; y
+
+II.- La de ser distinta persona de aquella cuya extradición se pide.
+
+El reclamado dispondrá de veinte días para probar sus excepciones. Este plazo podrá ampliarse por el Juez en caso necesario, dando vista previa al Ministerio Público. Dentro del mismo plazo, el Ministerio Público podrá rendir las pruebas que estime pertinentes.
+
+###### ARTICULO 26.
+
+El Juez atendiendo a los datos de la petición formal de extradición, a las circunstancias personales y a la gravedad del delito de que se trata, podrá conceder al reclamado, si éste lo pide, la libertad bajo fianza en las mismas condiciones en que tendría derecho a ella si el delito se hubiere cometido en territorio mexicano.
+
+###### ARTICULO 27.
+
+Concluido el término a que se refiere el artículo 25 o antes si estuvieren desahogadas las actuaciones necesarias, el Juez dentro de los cinco días siguientes, dará a conocer a la Secretaría de Relaciones Exteriores su opinión jurídica respecto de lo actuado y probado ante él.
+
+El Juez considerará de oficio las excepciones permitidas en el artículo 25, aún cuando no se hubieren alegado por el reclamado.
+
+###### ARTICULO 28.
+
+Si dentro del término fijado en el artículo 25 el reclamado no opone excepciones o consiente expresamente en su extradición, el Juez procederá sin más trámite dentro de tres días, a emitir su opinión.
+
+###### ARTICULO 29.
+
+El Juez remitirá, con el expediente, su opinión a la Secretaría de Relaciones Exteriores, para que el Titular de la misma dicte la resolución a que se refiere el artículo siguiente. El detenido entre tanto, permanecerá en el lugar donde se encuentra a disposición de esa Dependencia.
+
+###### ARTICULO 30.
+
+La Secretaría de Relaciones Exteriores en vista del expediente y de la opinión del Juez, dentro de los veinte días siguientes, resolverá si se concede o rehusa la extradición.
+
+En el mismo acuerdo, se resolverá, si fuere el caso, sobre la entrega de los objetos a que se refiere el artículo 21.
+
+###### ARTICULO 31.
+
+Si la decisión fuere en el sentido de rehusar la extradición, se ordenará que el reclamado sea puesto inmediatamente en libertad a menos que sea el caso de proceder conforme al artículo siguiente.
+
+###### ARTICULO 32.
+
+Si el reclamado fuere mexicano y por ese solo motivo se rehusare la extradición, la Secretaría de Relaciones Exteriores notificará el acuerdo respectivo al detenido, y al Procurador General de la República, poniéndolo a su disposición, y remitiéndole el expediente para que el Ministerio Público consigne el caso al tribunal competente si hubiere lugar a ello.
+
+###### ARTICULO 33.
+
+En todos los casos si la resolución fuere en el sentido de conceder la extradición, ésta se notificará al reclamado.
+
+Contra esta resolución no hay recurso ordinario alguno.
+
+Transcurrido el término de ley sin que el reclamado o su legítimo representante haya interpuesto demanda de amparo o negado éste, la Secretaría de Relaciones Exteriores comunicará al Estado solicitante el acuerdo favorable a la extradición y ordenará que se le entregue el preso.
+
+###### ARTICULO 34.
+
+La entrega del reclamado, previo aviso a la Secretaría de Gobernación, se efectuará por la Procuraduría General de la República al personal autorizado del Estado que obtuvo la extradición, en el puerto fronterizo o en su caso a bordo de la aeronave en que deba viajar el extraditado.
+
+La intervención de las autoridades mexicanas cesará, en éste último caso, en el momento en que la aeronave esté lista para emprender el vuelo.
+
+###### ARTICULO 35.
+
+Cuando el Estado solicitante deje pasar el término de dos meses desde el día siguiente en que el reclamado quede a su disposición sin hacerse cargo de él, éste recobrará su libertad y no podrá volver a ser detenido ni entregado al propio Estado, por el mismo delito que motivó la solicitud de extradición.
+
+###### ARTICULO 36.
+
+El Ejecutivo de la Unión podrá acceder en los términos del artículo 10, cuando lo solicite un Estado extranjero para concederle una extradición que no sea obligatoria en virtud de un tratado.
+
+###### ARTICULO 37.
+
+Los gastos que ocasione toda extradición podrán ser gastados por el erario federal con cargo al Estado solicitante que la haya promovido.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación y abroga la Ley de Extradición de 1o. de mayo de 1897.
+
+###### ARTICULO SEGUNDO.
+
+Todas las extradiciones que estén en trámite al entrar en vigor esta ley se sujetarán a sus disposiciones.
+
+México, D. F., a 18 de diciembre de 1975.- Emilio M. González Parra, S. P,- Luis del Toro Calero, D. P.- Germán Corona del Rosal, S. S.- Rogelio García González, D. S.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
