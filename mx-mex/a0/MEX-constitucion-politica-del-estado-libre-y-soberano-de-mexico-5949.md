@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1939-09-09"
+last_updated: "1939-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE SEPTIEMBRE DE 1939.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 1939.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -66,6 +66,10 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 G.G. 9 DE SEPTIEMBRE DE 1939.
 
 Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 27 DE DICIEMBRE DE 1939.
+
+Artículo Unico.- Este Decreto surtirá efectos Constitucionales a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -485,7 +489,7 @@ XI. Erigirse en Colegio Electoral para nombrar Gobernador substituto en los caso
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
+XII. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -503,7 +507,7 @@ XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de lo
 
 > <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
-XV.- Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, conforme a la presente Constitución y Leyes respectivas.
+XV. Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, conforme a la presente Constitución y Leyes respectivas.
 
 XVI. Revisar los expedientes relativos a elecciones municipales, cuando se solicite su intervención, haciendo la declaración que corresponda;
 
@@ -933,7 +937,7 @@ II. Hacer la revisión de todos los procesos del orden penal que determinen las 
 
 III. Declarar si ha lugar o no a formación de causa, por delitos o faltas oficiales, en contra de los Presidentes Municipales y Jueces Conciliadores, suspendiéndolos en el ejercicio de sus funciones, en caso afirmativo, y consignándolos al Juez de Primera Instancia, de su respectivo Distrito;
 
-IV. Conocer del recursos de suspensión a que se refiere el artículo 113 de esta Constitución;
+IV. Conocer del recurso de suspensión a que se refiere el artículo 113 de esta Constitución;
 
 V. Conocer de los demás asuntos que les confieran las leyes.
 
@@ -1455,9 +1459,13 @@ Dictada la resolución interlocutoria a que se refiere el artículo anterior, se
 
 La sentencia definitiva del juicio sumario sobre expropiación resolverá si ésta ha sido o no procedente con arreglo a derecho; en caso de ser procedente, la misma sentencia mandará que todo lo hecho por las autoridades administrativas, quede firme e irrevocable, y que se haga el pago de la indemnización; en caso de no ser procedente, la propia sentencia mandará que lo que conserve su anterior estado sea inmediatamente devuelto y que lo que haya sido consumado conforme a derecho, quede firme e irrevocable, pagando por ello la indemnización que corresponda a la expropiación, con la correspondiente a los daños y perjuicios.
 
+> <small>(REFORMADO, G.G. EL 27 DE DICIEMBRE DE 1939)</small>
+
 ###### Art. 215.
 
-El juicio sumario de expropiación admitirá todos los recursos que a los de su naturaleza concedan las leyes vigentes.
+Se exceptúa de lo dispuesto en los artículos 210, 211, 212, 213 y 214, el procedimiento de expropiación que tenga por causa de utilidad pública la planificación de los centros urbanos, comprendiendo la apertura de nuevas vías públicas, la rectificación, prolongación ampliación y mejoramiento de las vías existentes, la ampliación de centros de población, la creación de plazas, jardines y parques, la localización, construcción y acondicionamiento de edificios públicos como escuelas, mercados y rastros; el estudio y ejecución de obras relativas a servicios municipales y a mejoramiento de los servicios existentes, como saneamiento, abastecimiento de aguas, desagüe y limpia.
+
+Para la expropiación por las causas de utilidad pública a que se refiere este artículo, se seguirá el procedimiento que determine el Reglamento que se expida oportunamente y que comprenderá la cooperación de los particulares, tomando en cuenta la plusvalía de los inmuebles ubicados en la zona mejorada.
 
 ###### Art. 216.
 
