@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1983-10-14"
+last_updated: "1983-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2421,7 +2421,7 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 ###### Art. 443.
 
-El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+El hecho de dar alimentos no constituye por sí sólo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
 ###### Art. 444.
 
@@ -5671,7 +5671,7 @@ El que posee por menos de un año, a título traslativo de dominio y con mala fe
 
 I. A restituir los frutos percibidos;
 
-II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el solo transcurso del tiempo.
+II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el sólo transcurso del tiempo.
 
 Tiene derecho a que se le reembolsen los gastos necesarios.
 
@@ -12897,7 +12897,9 @@ El registrador hará la inscripción si encuentra que el título presentado es d
 
 En los casos en que se rechace la inscripción de un título, el registrador tiene la obligación de hacer una inscripción preventiva, a fin de que si se subsana la deficiencia del mismo o la autoridad judicial ordena su registro, la inscripción definitiva surta sus efectos desde que se presentó el título por primera vez. Si el juez aprueba la calificación hecha por el registrador se cancelará la inscripción preventiva.
 
-Transcurridos tres años sin que se comunique al registrador la calificación que el título presentado haya hecho el juez, a petición de parte interesada, se cancelará la inscripción preventiva.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1983)</small>
+
+Transcurridos dos años sin que se comunique al registrador la calificación que del título presentado haya hecho el Juez, oficiosamente o a petición de parte interesada, se cancelará la inscripción preventiva.
 
 ###### Art. 2513.
 
@@ -14095,13 +14097,19 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 Se prohíbe a los notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1983)</small>
+
 ###### Art. 2764.
 
-El notario que hubiere autorizado el testamento, o quien lo substituya, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
+El Notario que hubiere autorizado el testamento, dará aviso de ello dentro del término de cinco días hábiles al Registro Público de la Propiedad del Partido Judicial de su Adscripción, haciéndole saber únicamente el número del instrumento, su fecha y el nombre completo del testador. El registrador anotará estos datos y el nombre y número del Notario, en un libro especial, que llevará por orden alfabético de apellidos y nombres de los testadores. Los datos contenidos en este libro sólo se proporcionarán por orden judicial.
+
+Tan luego que sepa la muerte del testador, el Notario que hubiere autorizado el testtmento (sic), o quien lo substituya, debe dar aviso a los interesados. Si no lo hace, es responsable de los daños y prejuicios que la dilación ocasione.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 2765.
 
-Lo dispuesto en el artículo que precede, se observará también por cualquiera que tenga en su poder un testamento.
+Lo dispuesto en el último Párrafo del Artículo que precede, se observará por cualquiera que tenga en su poder un testamento.
 
 ###### Art. 2766.
 
@@ -15540,3 +15548,19 @@ P.O. 14 DE OCTUBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 1983.
+
+DECRETO NUMERO 73, QUE REFORMA LOS ARTICULOS 2764 Y 2765 DEL CODIGO.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 4 DE NOVIEMBRE DE 1983.
+
+DECRETO NUMERO 74 QUE REFORMA EL ARTICULO 2512 DEL CODIGO.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al tercer día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
