@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1987-05-14"
+last_updated: "1988-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE MAYO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 1988.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -283,7 +283,9 @@ XXXIII. Otorgar licencias y permisos para construcciones y autorizar permisos pa
 
 XXXIV. Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana y participar en la creación y administración de zonas y reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarias.
 
-XXXV. Rendir a la población del Municipio, ante el Gobernador del Estado, o su representante, en la última Sesión Extraordinaria de año, un informe detallado sobre el estado que guarda la administración pública municipal.
+> <small>(REFORMADA, B.O. 20 DE FEBRERO DE 1988)</small>
+
+XXXV. Rendir anualmente en el mes de abril a la población del Municipio, ante el Gobernador del Estado o su Representante, un informe detallado sobre el estado que guarda la Administración Municipal.
 
 XXXVI. Prevenir y reprimir en auxilio de las autoridades competentes, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que signifique perjuicio a la sociedad o delitos o delitos federales y comunes.
 
@@ -1354,3 +1356,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los Delegados Municipales continuarán en su encargo en forma interina hasta la fecha en que entren en funciones los Delegados electos.
+
+B.O. 20 DE FEBRERO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
