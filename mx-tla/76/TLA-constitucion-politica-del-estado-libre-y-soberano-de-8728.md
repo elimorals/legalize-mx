@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1970-02-18"
+last_updated: "1971-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1971.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -113,9 +113,11 @@ III.- Por ausencia con motivo de persecuciones políticas, si el hecho que las o
 
 IV.- Por ausencia en virtud de empleos o Comisiones de la Federación.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+
 ###### Art. 10.
 
-Los vecinos están obligados a inscribirse en el padrón de su Municipalidad y manifestar la propiedad que tengan, o la industria, profesión o trabajo de que subsistan.
+Los ciudadanos de esta Entidad que hayan cumplido 18 años de edad, están obligados a inscribirse en el Registro Nacional de Electores de su Municipalidad, manifestar la industria, profesión o trabajo a que se dediquen y en la oficina Recaudadora de su jurisdicción, manifestar las propiedades inmuebles que tengan.
 
 ## TITULO II.
 
@@ -139,7 +141,11 @@ Los mexicanos por nacimiento o por naturalización que, siendo vecinos, manifies
 
 Son ciudadanos del Estado todos los varones y mujeres que teniendo la calidad de tlaxcaltecas, reúnan, además, los siguientes requisitos:
 
-I. Haber cumplido 18 años, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+
+I.- Haber cumplido 18 años de edad, y
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
 II. Tener un modo honesto de vivir.
 
@@ -183,7 +189,9 @@ II.- Por estar sujeto a un proceso criminal por delito que merezca pena corporal
 
 III.- Por sentencia que imponga como pena la suspensión.
 
-IV. Por ser declarado vago, ebrio consuetudinario o tahúr de profesión.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+
+IV. Por dedicarse a la vagancia, a la ebriedad consuetudinaria, a los juegos de azar prohibidos por la Ley, a la drogadicción o al tráfico de drogas enervantes.
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
@@ -227,11 +235,11 @@ El Congreso se compondrá de Diputados electos popularmente en número no menor 
 
 La elección de Diputados será directa y en los términos que prevenga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
 ###### Art. 23.
 
-Por cada cincuenta mil habitantes o fracción que exceda de treinta mil, los ciudadanos del Estado elegirán un Diputado Propietario y un Suplente.
+Por cada 60,000 habitantes o fracción que exceda de 40,000 los ciudadanos del Estado elegirán un Diputado propietario y un suplente.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
@@ -315,9 +323,9 @@ I.- Del estado o en que se encuentre la Educación Pública.
 
 II.- De cómo los Funcionarios y Empleados públicos cumplen con sus respectivas obligaciones.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
-III.- Del estado en que se encuentren la Industria, el Comercio, la Agricultura y la Minería.
+III. Del estado en que se encuentren la industria, el comercio, la agricultura, la minería, la ganadería y de todo lo que sea de interés general.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
@@ -479,7 +487,7 @@ XXXI. Erigirse en Jurado de Acusación o de Acusación y Sentencia en los casos 
 
 XXXII. Pedir informes al Ejecutivo y al Tribunal Superior de Justicia sobre asuntos de su incumbencia, cuando para el mejor ejercicio de sus funciones lo estimare necesario.
 
-XXXIII. Habilitar de edad a los menores con objeto de que puedan administrar sus bienes.
+XXXIII. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 1971)
 
 XXXIV. Reahabilitar (sic) en el ejercicio de los derechos de Ciudadano.
 
@@ -491,7 +499,9 @@ XXXVI. Conceder pensiones y otorgar recompensas.
 
 XXXVII.- Declarar beneméritos del Estado y otorgar otros títulos honoríficos a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la República.
 
-XXXVIII. Trasladarse y disponer que se trasladen los demás Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por una conmoción popular o por causa de fuerza mayor.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+
+XXXVIII. Trasladarse y disponer que se trasladen los demás Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por una conmoción popular, por causa de fuerza mayor o para celebrar actos cívicos en los que deban honrarse a héroes o celebrarse actos conmemorativos, previo decreto del Congreso.
 
 XXXIX. Nombrar y remover libremente a los empleados dependientes de su Secretaría y de la Contaduría General de Glosa.
 
@@ -677,7 +687,9 @@ XIII. Decretar la expropiación por causas de utilidad pública, en la forma que
 
 XIV. Imponer gubernativamente, en los casos y modo que determine la Ley, hasta quinientos pesos de multa y hasta quince días de arresto.
 
-XV. Conceder, conforme a las Leyes, indulto de pena ordinaria, reducción o conmutación de pena.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+
+XV. Conceder indulto de pena ordinaria reducción o conmutación de pena, sin más trámite que el reo demuestre haber observado buena conducta por un año y haber cumplido dos terceras partes de su pena.
 
 XVI. Suplir el consentimiento paterno para el contrato civil del matrimonio en los casos de irracional disenso.
 
@@ -689,9 +701,9 @@ XVII. Rendir el informe por escrito sobre el estado general que guarde la Admini
 
 XVIII.- Presentar al Congreso en los primeros quince días del mes de octubre, los proyectos de Ley de Ingresos y Presupuesto de Egresos que han de regir en el año siguiente.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
-XIX.- Cuidar de la recaudación o inversión de los caudales del Estado con arreglo a las Leyes y remitir al Congreso la cuenta general en los primeros quince días del mes de abril de cada año.
+XIX. Cuidar de la recaudación e inversión de los caudales del Estado con arreglo a las Leyes y remitir al Congreso Local la cuenta general en los primeros quince días del mes de febrero de cada año.
 
 XX. Cuidar de la conservación del orden público, disponiendo al efecto de la fuerza armada del Estado y de la del Municipio donde resida habitual o transitoriamente.
 
@@ -733,13 +745,15 @@ I. Ser ciudadano Mexicano por nacimiento y en ejercicio de sus derechos civiles 
 
 II. Ser abogado con título oficial y tener cuando menos cinco años de práctica forense.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
-III.- Tener treinta y cinco años cumplidos el día de la elección y no mayor de sesenta y cinco y haber observado una conducta pública notoriamente buena.
+III. Tener treinta y cinco años cumplidos el día en que el Congreso le otorgue su nombramiento y no más de sesenta y cinco años, ser ciudadano tlaxcalteca o estar avecinado (sic) en el Estado de cinco años anteriores y haber observado una conducta pública notoriamente buena.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
 ###### Art. 64.
 
-Para ser Juez de Primera Instancia es necesario, ser mexicano por nacimiento en ejercicio de sus derechos civiles y políticos y abogado con título oficial; y para ser Juez Local o Juez de Paz, tener el mismo requisito de ciudadanía y poseer conocimientos en la ciencia del Derecho.
+Para ser Juez de Primera Instancia es necesario ser tlaxcalteca por nacimiento en ejercicio de sus derechos civiles y políticos, abogado con titulo Oficial y acreditar haber cumplido en el ejercicio de su profesión por lo menos cinco años. Para ser Juez Local o Juez de Paz, tener el mismo requisito de ciudadano, saber leer y escribir y tener nociones de Derecho.
 
 ###### Art. 65.
 
@@ -835,11 +849,13 @@ IV. No estar en servicio activo en el Ejército Federal ni tener mando de fuerza
 
 Los Municipios tienen personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
 ###### Art. 76.
 
-Los Ayuntamientos administrarán libremente su hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades les señalare la Legislatura, debiendo remitir a ésta, sus cuentas, a más tardar treinta días después de terminado el año y en los primeros quince días del mes de octubre, el proyecto de Presupuesto de Egresos de su Municipio.
+Los ayuntamientos administrarán libremente su hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades les señalare la Legislatura, debiendo remitir a ésta sus cuentas, a más tardar treinta días después de terminado el año y en los primeros quince días del mes de diciembre, el proyecto de presupuesto de Egresos de su Municipio.
+
+Cuando se trate del último año de su período administrativo, formularán sus proyectos de presupuesto de Egresos con el consenso de los presidentes municipales electos para el siguiente período.
 
 ###### Art. 77.
 
@@ -961,15 +977,17 @@ Todo funcionario y empleado público, antes de tomar posesión de su encargo, ha
 
 Nadie puede ejercer a la vez en el Estado dos o más cargos de elección popular; pero el nombrado podrá elegir alguno de ellos.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+
 ###### Art. 98.
 
-Todo cargo o empleo público es incompatible con cualquiera otro de la Federación o del Estado cuando por ambos se perciba sueldo, excepto el caso en que se trate de los Ramos de Educación Pública o Beneficencia.
+Todo cargo o empleo público, puede ser compatible con cualquier otro de la Federación, del Estado o del Municipio, cuando por ambos se reciba sueldo, siempre que los funcionarios en el desempeño de esas labores, radiquen en el Estado y se dediquen exclusivamente a las actividades a que se refiera el nombramiento.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
 
 ###### Art. 99.
 
-Ninguna licencia con goce de sueldo íntegro a Funcionarios y Empleados Públicos, podrá exceder de dos meses, ni de seis en cualquier otro caso, cuando no exista causa justificada plenamente a juicio y bajo la responsabilidad de quien la concede.
+Ninguna licencia con goce de sueldo íntegro a funcionarios y empleados públicos podrá exceder de tres meses ni de seis en cualquier otro caso, cuando no exista causa justificada plenamente a juicio y bajo la responsabilidad de quien la concede.
 
 ###### Art. 100.
 
@@ -1144,5 +1162,9 @@ P.O. 25 DE SEPTIEMBRE DE 1963.
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 18 DE FEBRERO DE 1970.
+
+El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1971.
 
 El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
