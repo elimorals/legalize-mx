@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2002-01-31"
+last_updated: "2002-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2002.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -896,7 +896,7 @@ XVI. Los valuadores, en relación a los avalúos que hayan emitido, siempre que 
 
 XVII. Quien exprese su voluntad por medio de un contrato o título de concesión, de pagar las contribuciones en lugar del sujeto directo obligado en la relación jurídico principal, y
 
-XVII. Las demás personas físicas o morales que señale este Código y las leyes aplicables.
+XVIII. Las demás personas físicas o morales que señale este Código y las leyes aplicables.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
 
@@ -3308,9 +3308,9 @@ ARTICULO 186 B.- El impuesto a que se refiere este capítulo se causará al mome
 
 Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE MAYO DE 2002)</small>
 
-ARTICULO 186 C.- Los contribuyentes calcularán el impuesto a la prestación de servicios de hospedaje aplicando la tasa del 2.5% al total del valor de las contraprestaciones que perciban por servicios de hospedaje de visitantes extranjeros y la tasa del 1.5 % al total del valor de las contraprestaciones que perciban por servicios de hospedaje de visitantes nacionales, y deberán pagarlo mediante declaración que presentarán, en la forma oficial aprobada, ante las oficinas autorizadas, a más tardar el día quince del mes siguiente a aquél en que se perciban dichas contraprestaciones.
+ARTICULO 186 C.- Los contribuyentes calcularán el impuesto a la prestación de servicios de hospedaje aplicando la tasa del 1.75% al total del valor de las contraprestaciones que perciban por servicios de hospedaje y deberán pagarlo mediante declaración que presentarán, en la forma oficial aprobada, ante las oficinas autorizadas, a más tardar el día quince del mes siguiente a aquél en que se perciban dichas contraprestaciones.
 
 > <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5848,7 +5848,7 @@ I.(sic) Grupo I:
 
 II. (sic)
 
-III.(sic) Puestos Semifijo de 1.80 por 1.20 metros cuadrados, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $4.20
+III. (sic) Puestos Semifijo de 1.80 por 1.20 metros cuadrados, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $4.20
 
 Para efecto de lo dispuesto en el párrafo anterior, se contemplan los Giros Comerciales siguientes:
 
@@ -7682,6 +7682,10 @@ Para constituir, modificar o extinguir fideicomisos públicos las dependencias, 
 
 Cuando los fideicomisos no cuenten con la autorización y registro de la Secretaría de Finanzas, procederá su extinción o liquidación.
 
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2002)</small>
+
+La constitución, modificación y extinción de los fideicomisos públicos del Distrito Federal, deberán informarse en un apartado específico en los Informes de Avance Programático-Presupuestal Trimestrales y en la Cuenta Pública del Distrito Federal.
+
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ARTICULO 393 C.- Quienes efectúen gasto público, con cargo al Presupuesto de Egresos del Distrito Federal, estarán obligados a proporcionar a la Secretaría la información que les solicite, con excepción de los órganos a que se refiere el artículo 385, quienes sólo enviarán la información correspondiente para la integración de los informes trimestrales de avance programático-presupuestal y para el cierre de la Cuenta Pública.
@@ -8870,7 +8874,7 @@ III. Los casos en que proceda la creación de nuevas plazas. Las reglas a que se
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 1997)</small>
 
-ARTICULO 418 E.- Cuando algún funcionario o servidor público pertenciente a las dependencias y órganos desconcentrados, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos, salarios y haberes que estuviere percibiendo en esa fecha. Cuando el funcionario o empleado fallecido estuviere reconocido, conforme a las disposiciones legales respectivas, como Veterano de la Revolución, el beneficio se aumentará hasta el importe de seis meses de las percepciones mencionadas.
+ARTICULO 418 E.- Cuando algún funcionario o servidor público pertenciente (sic) a las dependencias y órganos desconcentrados, fallezca y tuviere cuando menos una antigüedad en el servicio de seis meses, quien se haga cargo de los gastos de inhumación, percibirá hasta el importe de cuatro meses de los sueldos, salarios y haberes que estuviere percibiendo en esa fecha. Cuando el funcionario o empleado fallecido estuviere reconocido, conforme a las disposiciones legales respectivas, como Veterano de la Revolución, el beneficio se aumentará hasta el importe de seis meses de las percepciones mencionadas.
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -8990,7 +8994,9 @@ III. Indicar el monto histórico de los probables daños y perjuicios a la Hacie
 
 IV. Acompañar las constancias que acrediten los probables daños y perjuicios a la Hacienda Pública del Distrito Federal, y
 
-V. Precisar los nombres y domicilios de los servidores públicos y particulares involucrados.
+> <small>(REFORMADA, G.O. 16 DE MAYO DE 2002)</small>
+
+V. Precisar los nombres de los servidores públicos y particulares involucrados.
 
 Cuando no se cumpla con alguno de los requisitos, la Procuraduría Fiscal del Distrito Federal requerirá al solicitante, para que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la solicitud se tendrá por no presentada.
 
@@ -10640,7 +10646,11 @@ Delegacional
 
 ### CAPITULO I. Disposiciones Generales
 
-#### Sección Tercera. Del Ejercicio Presupuestal de la Asamblea, Tribunal, Comisión y Consejos de Ciudadanos
+#### Sección Tercera
+
+Del Ejercicio Presupuestal de la Asamblea,
+
+Tribunal, Comisión y Consejos de Ciudadanos
 
 ### CAPITULO II. Del Ejercicio del Gasto Público
 
@@ -12004,7 +12014,7 @@ I. REGION: Es una circunscripción convencional del territorio del Distrito Fede
 
 II. MANZANA: Es una parte de una región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta, la que tiene otros dos que representan el lote, que es el número asignado a cada uno de los inmuebles que integran en conjunto una manzana, con tres dígitos o más en el caso de condominios, para identificar a cada una de las localidades de un condominio construido en un lote.
 
-III. COLONIA CATASTRAL: Es una zona de territorio continuo del Distrito Federal, que comprendegrupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características y valor comercial. Existen dos tipos de colonia catastral: Area de valor y corredor de valor.
+III. COLONIA CATASTRAL: Es una zona de territorio continuo del Distrito Federal, que comprende grupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características y valor comercial. Existen dos tipos de colonia catastral: Area de valor y corredor de valor.
 
 a). Colonia Catastral tipo área de valor: Grupo de manzanas con características similares en infraestructura, equipamiento urbano, tipo de inmuebles y dinámica inmobiliaria.
 
@@ -12096,9 +12106,9 @@ tenga una altura de 6.01 a 15.00 metros.
 
 99 De 21 a más niveles.
 
-RU Se aplica a edificaciones sin una
+RU Se aplica a edificaciones sin una clara
 
-Rango clara distinción de niveles tales como naves
+Rango distinción de niveles tales como naves
 
 Unico industriales, bodegas, galerones, centros
 
@@ -12110,7 +12120,7 @@ V. CLASE: Es el grupo al que pertenece una construcción de acuerdo con las cara
 
 a). HABITACIONAL
 
-1. Precaria. Cuartos de usos múltiples (dormitorio, comedor y preparación de alimentos); servicios mínimos incompletos (letrinas o sanitarios en la mayoría de los casos fuera del cuerpo principal de la construcción); procedimientos informales de construcción; muros desplantados directamente sobre el suelo, habilitados con mampostería (tabiques y piedra de desecho) sin refuerzos horizontales y verticales; con techos predominantemente de láminas metálicas, cartón asbesto o similares apoyados en viguetería (madera y/o fierro) ; pisos habilitados con pedacerías de manposterías (tabiques y piedras), o firmes de mezcla pobre en cemento- arena y/o concreto simple; muros aparentes o aplanados escasos con mezcla o yeso; herrería y cancelería de fierro, perfiles sencillos de desecho; vidriería incompleta; instalaciones básicas incompletas y/o visibles (eléctrica e hidráulica).
+1. Precaria. Cuartos de usos múltiples (dormitorio, comedor y preparación de alimentos); servicios mínimos incompletos (letrinas o sanitarios en la mayoría de los casos fuera del cuerpo principal de la construcción); procedimientos informales de construcción; muros desplantados directamente sobre el suelo, habilitados con mampostería (tabiques y piedra de desecho) sin refuerzos horizontales y verticales; con techos predominantemente de láminas metálicas, cartón asbesto o similares apoyados en viguetería (madera y/o fierro) ; pisos habilitados con pedacerías de mamposterías (tabiques y piedras), o firmes de mezcla pobre en cemento- arena y/o concreto simple; muros aparentes o aplanados escasos con mezcla o yeso; herrería y cancelería de fierro, perfiles sencillos de desecho; vidriería incompleta; instalaciones básicas incompletas y/o visibles (eléctrica e hidráulica).
 
 2. Económica. Espacios con algunas diferenciaciones por uso (sala-comedor, recámara(s) y cocineta o cocina); servicios mínimos completos (generalmente un baño); con procedimientos formales de construcción o de autoconstrucción; estructura a base de muros de carga de espesor propios de esta clase, con esfuerzos horizontales y verticales de concreto armado y/o marcos rígidos de concreto armado, acero, o mixtas, techos y/o entrepisos de concreto armado, maderas, terrados, bóvedas y similares, con claros cortos no mayores de 3.5 mts.; pisos habilitados con firmes de mezclas de cemento-arena y/o concreto simple, con acabados escobillados o en cemento pulido, o en su caso para recibir a otros materiales: losetas vinílicas delgadas ( hasta 3 mm.), mosaicos de pasta coloreada y/o, losetas de cerámica de pequeñas dimensiones (generalmente 20 x 20 cm.), alfombras pequeñas y delgadas de pelo ralo; muros refractarios o con acabados aparentes o aplanados de mezcla y/o de yeso lisos, generalmente con pintura; herrería y cancelería de fierro y/o aluminio de perfiles sencillos, vidrios pequeños y delgados; instalaciones básicas completas visibles u ocultas (hidráulica, sanitaria, eléctrica y gas).
 
@@ -12384,15 +12394,19 @@ tenga una altura de 6.01 a 15.00 metros.
 
 99 De 21 a más niveles .
 
-RU Se aplica a edificaciones sin una clara
+RU
 
-Rango distinción de niveles tales como naves
+Rango Se aplica a edificaciones sin una
 
-Unico industriales, bodegas galerones, centros
+Unico clara distinción de niveles tales como
 
-comerciales, restaurantes y estructuras
+naves industriales, bodegas galerones,
 
-semejantes que excedan una altura de15.00 metros.
+centros comerciales, restaurantes y
+
+estructuras semejantes que excedan
+
+una altura de15.00 metros.
 
 V. CLASE: Es él grupo al que pertenece una construcción de acuerdo con las características propias de sus espacios, servicios, estructura e instalaciones básicas, así como de los acabados típicos que le corresponden, la cual tiene asignado un valor unitario de construcción. Se divide en Habitacional y No Habitacional.
 
@@ -12486,7 +12500,7 @@ El término de tres años que se indica en el párrafo primero del artículo 58 
 
 G.O. 31 DE DICIEMBRE DE 2000.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETOEN RAZON DE SU IMPORTACIA.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO EN RAZON DE SU IMPORTANCIA.</small>
 
 ###### ARTICULO SEGUNDO.
 
@@ -12676,11 +12690,11 @@ c. cuando el inmueble cumpla con lo establecido en el numeral 3 se incrementará
 
 7. El valor catastral determinado mediante avalúo comprenderá la suma de los valores de suelo del inmueble, de sus construcciones, instalaciones especiales, elementos accesorios u obras complementarias, según sea el caso.
 
-> <small>N. DE E. VER TABLAS ANEXAS AL DECRETO QUE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL EN LA GACETA OFICIALDEL DISTRITO FEDERAL DE 31 de DICIEMBRE DE 2001, PAGINAS 72 a 221.</small>
+> <small>N. DE E. VER TABLAS ANEXAS AL DECRETO QUE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE 31 DE DICIEMBRE DE 2001, PAGINAS 72 A 221.</small>
 
 ###### ARTICULO TERCERO.
 
-El recurso de revocación a que se refiere este Código y del que hagan uso los contribuyentes siendo presentados a partir del 1°de enero del 2001, aún y cuando la notificación de los actos impugnados se haya realizado antes de esa fecha, se tramitarán y resolverán de conformidad con lo dispuesto en este ordenamiento.
+El recurso de revocación a que se refiere este Código y del que hagan uso los contribuyentes siendo presentados a partir del 1° de enero del 2001, aún y cuando la notificación de los actos impugnados se haya realizado antes de esa fecha, se tramitarán y resolverán de conformidad con lo dispuesto en este ordenamiento.
 
 Los recursos administrativos que se hayan interpuesto hasta el 31 de diciembre de 2000, y que se encuentren en trámite, se substanciarán de conformidad a lo dispuesto en el Código Financiero del Distrito Federal vigente hasta el 31 de diciembre del 2000.
 
@@ -12732,6 +12746,14 @@ Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia
 
 El presente Decreto entrará en vigor a partir del día 1° de enero del año 2002.
 
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación, y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 16 DE MAYO DE 2002.
+
+DECRETO POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 186 C DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL.
+
 ###### ARTICULO TERCERO.
 
 Para la presentación de los dictámenes para el cumplimiento de obligaciones fiscales relativos al ejercicio fiscal de 2001, el valor catastral a considerar será el que se indica en el artículo 64, fracción I Bis del Código Financiero del Distrito Federal, vigente a partir del 1° de enero del año 2001, y para los ejercicios subsecuentes el valor catastral será el que se establezca en dicho artículo, a partir del 1° de enero del año 2002.
@@ -12779,3 +12801,31 @@ ARTICULO DEUDECIMO (sic).- Las micro y pequeñas empresas industriales, tendrán
 G.O. 31 DE ENERO DE 2002.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE MAYO DE 2002.
+
+DECRETO POR EL QUE SE REFORMA EL TERCER PARRAFO AL ARTICULO 393 B DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación, y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 16 DE MAYO DE 2002.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 495 A DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación, y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
