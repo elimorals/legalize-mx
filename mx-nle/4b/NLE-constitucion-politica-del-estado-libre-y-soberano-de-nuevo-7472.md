@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1980-12-31"
+last_updated: "1981-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1981.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -303,23 +303,23 @@ Los Diputados gozan de una libertad absoluta para hablar; en consecuencia, son i
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 ###### Art. 55.
 
-La Legislatura tendrá cada año dos Períodos de Sesiones Ordinarias. El primero se abrirá el 16 de septiembre y terminará el 15 de diciembre y podrá ser prorrogado hasta por un mes. El segundo comenzará el día primero de mayo y terminará el día último de junio, pudiendo también ser prorrogable por un mes.
+La Legislatura tendrá cada año de ejercicio dos Períodos de Sesiones Ordinarios. El primero abrirá el 16 de septiembre y terminará el 15 de diciembre y podrá ser prorrogado hasta por un mes. El segundo comenzará el día primero de marzo y terminará el día último de abril, pudiendo también ser prorrogado por un mes.
 
-En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá del 1o. de mayo al 10 de agosto, para atender primordialmente, durante el lapso adicional, a la calificación de la elección de Gobernador del Estado y tomarle el primero de agosto, en Sesión Solemne, la protesta de Ley a quien resulte electo. Este Período será prorrogable hasta por quince días.
+En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá el 1o. de mayo al 10 de agosto, en el que se atenderá primordialmente lo relativo al Sexto Informe de Gobierno; a la calificación de la elección del siguiente Gobernador y Diputados y a la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 1o. de agosto. Este período podrá ser prorrogado hasta por quince días.
 
 ###### Art. 56.
 
 Tanto para la instalación del Congreso como para la apertura de sesiones se necesita la presencia de la mayoría de los Diputados. Cuando por cualquiera circunstancia el período de sesiones ordinarias no comenzare el 16 de Septiembre, el Congreso, al reunirse, podrá permanecer en ejercicio, según el estado de los negocios, todos los tres meses de sesiones ordinarias, o concluir éstas cuando lo crea conveniente.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 ###### Art. 57.
 
-Durante la segunda decena del mes de junio, en el Segundo Período de Sesiones, se reservará una Sesión Solemne para el día y hora que señale el Congreso a propuesta del Ejecutivo, a la que deberá asistir el propio Gobernador del Estado y el Tribunal Superior de Justicia. En dicha sesión, el primero presentará un Informe por escrito en el que manifieste la situación y perspectivas generales del Estado y la Administración Pública. El Presidente del Congreso contestará en términos generales.
+Durante los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, en el transcurso de la primera quincena del mes de marzo, dentro del Segundo Período de Sesiones, el Congreso celebrará una Sesión Solemne el día y hora que se señala a propuesta del Ejecutivo, a la que deberá asistir el propio Gobernador del Estado y el Tribunal Superior de Justicia. En dicha Sesión el primero presentará un informe por escrito en el que manifieste la situación y perspectivas generales del Estado y de la Administración Pública. El Sexto Informe de Gobierno lo rendirá el Titular del Poder Ejecutivo en iguales términos y comprenderá el Período del Año Fiscal anterior y el tiempo transcurrido del siguiente año hasta la fecha de su emisión, celebrándose la Sesión Solemne para ese fin la primera quincena del mes de junio. En ambos casos, el Presidente del Congreso contestará en términos generales.
 
 ###### Art. 58.
 
@@ -1680,3 +1680,7 @@ UNICO:- La presente reforma entrará en vigor al siguiente día de su publicaci�
 P.O. 31 DE DICIEMBRE DE 1980.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE FEBRERO DE 1981.
+
+UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
