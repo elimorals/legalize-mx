@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1994-09-14"
+last_updated: "1995-11-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1995.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -59,21 +59,21 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Un tribunal unitario con residencia en Ciudad Nezahualcóyotl, México;
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 1995)</small>
 
-3.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en la ciudad de Toluca;
+3.- Juzgados Primero, Segundo y Tercero de Distrito en Materia de Procesos Penales Federales y Juzgado de Distrito en Materias de Amparo y de Juicios Civiles Federales en el Estado de México, con residencia en la ciudad de Toluca;
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 1995)</small>
 
-4.- Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de México, con residencia en el Municipio de Naucalpan de Juárez;
+4.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en el municipio de Naucalpan de Juárez;
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 1995)</small>
 
-5.- Juzgado Séptimo de Distrito en el Estado de México, con residencia en Tlalnepantla;
+5.- Juzgado Cuarto de Distrito en el Estado de México, con residencia en Tlalnepantla;
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 1995)</small>
 
-6.- Juzgados Octavo y Noveno de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
+6.- Juzgados Quinto y Sexto de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -343,17 +343,17 @@ II.- Los Juzgados de Distrito en los estados de Aguascalientes, Baja California 
 
 III.- Los Juzgados Primero y Segundo de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic, además de ejercer jurisdicción en el territorio del mismo, la ejercerán en las Islas Marías;
 
-> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 1995)</small>
 
-IV.- Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en Toluca, ejercerán jurisdicción en los municipios de: Acambay, Temascalcingo, El Oro, Atlacomulco, Jocotitlán, San Felipe del Progreso, Ixtlahuaca, Jiquipilco, Morelos, Otzolotepec, Xonacatlán, Lerma, San Mateo Atenco, Ocoyoacac, Amatepec, Tlataya, Sultepec, Zacualpan, Almoloya de Alquisiras, Texcaltitlán, Tejupilco, San Simón de Guerrero, Temascaltepec, Tonatico, Zumpahuacán, Malinalco, Ocuilán, Tenancingo, Villa Guerrero, Coatepec Harinas, Ixtapan de la Sal, Calimaya, Mexicalcingo, Chapultepec, San Antonio la Isla, Atizapán, Almoloya del Río, Rayón, Jalatlaco, Capulhuac, Tianguistengo, Tenango del Valle, Joquicingo, Texcalyacac, Villa Victoria, Almoloya de Juárez, Metepec, Zinacatepec, Temoaya, Toluca, Villa de Allende, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Zacazonapan, Valle de Bravo y Amanalco;
+IV.- Los Juzgados Primero, Segundo y Tercero de Distrito en Materia de Procesos Penales Federales y el Juzgado de Distrito en Materias de Amparo y de Juicios Civiles Federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción en sus respectivas materias, en los municipios de: Acambay, Temascalcingo, El Oro, Atlacomulco, Jocotitlán, San Felipe del Progreso, Ixtlahuaca, Jiquipilco, Morelos, Otzolotepec, Xonacatlán, Lerma, San Mateo Atenco, Ocoyoacac, Amatepec, Tlataya, Sultepec, Zacualpan, Almoloya de Alquisiras, Texcaltitlán, Tejupilco, San Simón de Guerrero, Temascaltepec, Tonatico, Zumpahuacán, Malinalco, Ocuilán, Tenancingo, Villa Guerrero, Coatepec Harinas, Ixtapan de la Sal, Calimaya, Mexicalcingo, Chapultepec, San Antonio la Isla, Atizapán, Almoloya del Río, Rayón, Jalatlaco, Capulhuac, Tianguistengo, Tenango del Valle, Joquicingo, Texcalyacac, Villa Victoria, Almoloya de Juárez, Metepec, Zinacatepec, Temoaya, Toluca, Villa de Allende, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Zacazonapan, Valle de Bravo y Amanalco;
 
-> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 1995)</small>
 
-V.- Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, y el Séptimo con sede en Tlalnepantla, en el propio estado, ejercerán jurisdicción en los municipios de: Huehuetoca, Coyotepec, Teoloyucan, Melchor Ocampo, Tultepec, Tultitlán, Cuautitlán, Tepotzotlán, Cuautitlán Izcalli, Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco, Polotitlán, Nicolás Romero, Atizapán de Zaragoza, Tlalnepantla de Baz, Coacalco, Ecatepec, Naucalpan de Juárez, Huixquilucan, Jilotzingo, Isidro Fabela, Apaxco, Hueypoxtla, Tequixquiac, Zumpango, Jaltenco y Nextlalpan;
+V.- Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, y el Cuarto con sede en Tlalnepantla, en el propio Estado, ejercerán jurisdicción en los municipios de: Huehuetoca, Coyotepec, Teoloyucan, Melchor Ocampo, Tultepec, Tultitlán, Cuautitlán, Tepotzotlán, Cuautitlán Izcalli, Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco, Polotitlán, Nicolás Romero, Atizapán de Zaragoza, Tlalnepantla de Baz, Coacalco, Ecatepec, Naucalpan de Juárez, Huixquilucan, Jilotzingo, Isidro Fabela, Apaxco, Hueypoxtla, Tequixquiac, Zumpango, Jaltenco y Nextlalpan;
 
-> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE NOVIEMBRE DE 1995)</small>
 
-VI.- Los Juzgados Octavo y Noveno de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl, ejercerán jurisdicción en los municipios de: Ixtapaluca, Tlalmanalco, Amecameca, Atlautla, Ecatzingo, Ozumba, Tepetlixpa, Juchitepec, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Otumba, Axapusco, Nopaltepec, Temascalapa, Tecámac, San Martín de las Piramides, Teotihuacán, Tepetlaoxtoc, Papalotla, Texcoco, Chicoloapan, La Paz, Chimalhuacán, Nezahualcóyotl, Atenco, Chiconcuac, Chiautla, Tezoyuca y Acolman;
+VI.- Los Juzgados Quinto y Sexto de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl, ejercerán jurisdicción en los municipios de: Ixtapaluca, Tlalmanalco, Amecameca, Atlautla, Ecatzingo, Ozumba, Tepetlixpa, Juchitepec, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Otumba, Axapusco, Nopaltepec, Temascalapa, Tecámac, San Martín de las Piramides, Teotihuacán, Tepetlaoxtoc, Papalotla, Texcoco, Chicoloapan, La Paz, Chimalhuacán, Nezahualcóyotl, Atenco, Chiconcuac, Chiautla, Tezoyuca y Acolman;
 
 VII.- Los Juzgados Primero, Segundo y Tercero de Distrito en el estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción en el territorio que sigue;
 
@@ -534,3 +534,15 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- La Comisión de Gobierno y Administración y los ministros inspectores de los órganos jurisdiccionales comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
 
 TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de los tribunales colegiados y unitarios del Séptimo Circuito y de los correspondientes juzgados de Distrito para su debido cumplimiento.
+
+D.O.F. 22 DE NOVIEMBRE DE 1995.
+
+PRIMERO.- Este Acuerdo entrará en vigor el primero de diciembre de mil novecientos noventa y cinco.
+
+SEGUNDO.- Se modifican los Acuerdos 1/1993, XV/93, I/94 y IX/94, todos del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero y dieciséis de noviembre de mil novecientos noventa y tres, trece de enero y siete de abril de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier problema administrativo que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
