@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-organismos-auxiliares-de-la-administracion-6653"
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-19"
-last_updated: "1989-07-19"
+last_updated: "1992-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 1989.
 
@@ -100,6 +100,10 @@ El gobernador del Estado podrá ordenar la realización de actos tendientes a la
 ###### ARTICULO 4o.
 
 La Universidad del Estado y las instituciones docentes que se crearon o estructuren en lo futuro, mediante actos jurídicos que les otorguen autonomía, quedan excluidas de los preceptos de esta Ley y ajustarán sus actividades a las leyes que les dan vida legal.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 1992)</small>
+
+La Comisión Estatal de Derechos Humanos, atendiendo a sus objetivos y a la naturaleza de sus funciones, queda excluida de la observancia del presente ordenamiento y ajustará sus actividades a su ley respectiva.
 
 ###### ARTICULO 5o.
 
@@ -582,3 +586,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Alfredo de la Torre y Martínez
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
