@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2003-03-18"
+last_updated: "2003-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -5880,3 +5880,15 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 21 DE MARZO DE 2003.
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Córdoba, Veracruz, a partir de la vigencia del presente Código.
+
+TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave y a la Ley de Hacienda Municipal del Estado de Veracruz-Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, así como a este último, se entenderán referidos al presente Código.
+
+CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entrarán en vigor a partir del 1 de enero del año 2004.
+
+QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
