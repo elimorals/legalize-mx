@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "1999-06-15"
+last_updated: "1999-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -1973,9 +1973,11 @@ VII. Carecer el vehículo de holograma que contenga el número de las placas; y
 
 VIII. Usar luces no permitidas por el reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 162.
 
-Se sancionará con multa equivalente a dos días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+Se sancionará con multa equivalente a un día de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
 
 I. No presentar licencia o permiso vigente para conducir;
 
@@ -2013,11 +2015,15 @@ X. Producir ruido excesivo con claxon o mofle; y
 
 XI. Falta de una placa de circulación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 163.
 
-Se sancionará con multa equivalente a dos días y medio de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+Se sancionará con multa equivalente a dos días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
 
-I. Prestar servicio de reparación en la vía pública, salvo casos de emergencia;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+
+I. Prestar servicio de reparación en la vía pública, cuando obstaculice o entorpezca la vialidad, salvo casos de emergencia;
 
 II. Abandonar el vehículo en la vía pública, en los términos que establezca el reglamento;
 
@@ -2061,9 +2067,11 @@ XV. Estacionarse obstruyendo cochera o estacionamiento exclusivo; y
 
 XVI. Mover o trasladar maquinaria pesada con rodamiento neumático y equipo móvil especial, sin el permiso correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 164.
 
-Se sancionará con multa equivalente a cinco días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+Se sancionará con multa equivalente a tres días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
 
 I. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
@@ -2081,7 +2089,9 @@ VII. Conducir un vehículo para el que se requiera haber obtenido previamente li
 
 VIII. Circular sobre la banqueta o estacionarse en la misma, en forma tal, o en horas en que se impida o se entorpezca la libre y segura circulación peatonal;
 
-IX. Conducir vehículo de motor, siendo menor de edad, sin el permiso correspondiente;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+
+IX. Conducir vehículo de motor, siendo menor de edad, son (sic) el permiso correspondiente señalado en el artículo 62 de esta ley;
 
 X. Estacionarse en zona prohibida sobre calzadas, avenidas, pares viales o vías rápidas;
 
@@ -2109,13 +2119,17 @@ XVIII. Rebasar por la derecha; y,
 
 XIX. Cambiar de carril sin precaución.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 165.
 
-Se sancionará con multa equivalente a doce días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, por no respetar la luz roja del semáforo (alto), o el señalamiento de Alto que realice un oficial o agente de vialidad y tránsito.
+Se sancionará con multa equivalente de ocho días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, por no respetar la luz roja del semáforo (alto), o el señalamiento de Alto que realice un oficial o agente de vialidad y tránsito.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 166.
 
-Se sancionará con multa equivalente a doce días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+Se sancionará con multa equivalente a ocho días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
 
 I. Falta total de luces;
 
@@ -2131,9 +2145,11 @@ IV. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
 V. Por moverse de lugar de un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del agente de tránsito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 167.
 
-Se sancionará con multa equivalente a quince días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+Se sancionará con multa equivalente a diez días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones, además de que se retirará de la circulación la unidad en los casos de las fracciones I, III y IV.
 
 I. No coincidir la tarjeta de circulación o calcomanía con el número de placas; y
 
@@ -2161,13 +2177,17 @@ VI. Al conductor de un vehículo que exceda, en más de diez kilómetros por hor
 
 VII. Al conductor que maneje en sentido contrario o, al que injustificadamente invada el sentido contrario para rebasar en arterias de doble o múltiple circulación, en zona urbana.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 168.
 
-Se sancionará con multa equivalente a treinta días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
+Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 169.
 
-Se sancionará con multa equivalente a sesenta días de salario mínimo general, vigente en la zona económica que corresponda, al prestador del servicio público de transporte que cometa las siguientes infracciones:
+Se sancionará con multa equivalente a treinta días de salario mínimo general, vigente en la zona económica que (sic) correspondiente, al prestador del servicio público de transporte que cometa las siguientes infracciones:
 
 I. Proporcionar servicio público en localidad distinta a la autorizada;
 
@@ -2195,17 +2215,21 @@ Las infracciones en materia de transporte serán sancionadas administrativamente
 
 La aplicación de las sanciones económicas se hará independientemente de la determinación de la autoridad competente, de impedir la circulación del vehículo con el que se haya cometido la infracción de que se trate.
 
+(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999) (F. DE E., P.O. 27 DE JULIO DE 2000)
+
 ###### Artículo 172.
 
-Se sancionará con multa equivalente a quince días de salario mínimo general, vigente en la zona económica donde se cometan las siguientes infracciones, en la operación de vehículos del servicio público de transporte por:
+Se sancionará con multa equivalente a diez días de salario mínimo general vigente en la zona económica donde se cometan las siguientes infracciones, en la operación de vehículos del servicio público de transporte por:
 
 I. No coincidir la rotulación con el número de placas; y
 
 II. Abastecer combustible con pasaje a bordo o con motor encendido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+
 ###### Artículo 173.
 
-Se sancionará con multa equivalente a treinta días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
 
 I. Tratándose de vehículos de transporte colectivo, realizar viajes especiales fuera de ruta, sin el permiso de excursión;
 
@@ -2528,3 +2552,7 @@ P.O. 3 DE ABRIL DE 1999.
 P.O. 15 DE JUNIO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE JULIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor 30 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
