@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2000-07-27"
+last_updated: "2000-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2000.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -363,7 +363,7 @@ El Congreso del Estado en pleno o a través de sus comisiones, podrá requerir d
 
 ###### Artículo 46.
 
-Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio fiscal que corresponda. Cuando por la aplicación de leyes, decretos o acuerdos posteriores a la aprobación del presupuesto implique erogaciones no autorizadas, el titular del Poder Ejecutivo, deberá someter a la consideración del Congreso del Estado, las iniciativas de reforma respectivas, acompañadas de la opinión de la Secretaría sobre la viabilidad financiera de la propuesta.
+Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio fiscal que corresponda. Cuando por la aplicación de leyes, decretos o acuerdos posteriores a la aprobación del presupuesto impliquen erogaciones no autorizadas, el titular del Poder Ejecutivo, deberá someter a la consideración del Congreso del Estado, las iniciativas de reforma respectivas, acompañadas de la opinión de la Secretaría sobre la viabilidad financiera de la propuesta.
 
 En caso de que para el día 31 de diciembre no sea aprobado el Presupuesto de Egresos correspondiente, se aplicará el ejercido el año inmediato anterior, incluyendo sus modificaciones.
 
@@ -407,7 +407,7 @@ V. Las transferencia (sic) entre partidas contenidas en distintas unidades presu
 
 ###### Artículo 50.
 
-Para los efectos del artículo anterior, las dependencias y entidades solicitarán a la propia Secretaría o al titular del Poder Ejecutivo por medio de la Secretaría, según el caso, las transferencias entre partidas que consideren indispensables, justificando la medida.
+Para los efectos del artículo anterior, las Dependencias y Entidades solicitarán a la propia Secretaría o al titular del Poder Ejecutivo por medio de la Secretaría, según el caso, las transferencias entre partidas que consideren indispensables, justificando la medida.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -461,17 +461,23 @@ La Secretaría deberá examinar, autorizar y registrar los créditos a cargo del
 
 El titular del Poder Ejecutivo del Estado, determinará la forma en que deberán aplicarse presupuestalmente los subsidios que se otorguen a los Municipios de la Entidad y a los sectores social, privado y paraestatal, los beneficiarios de estos subsidios, deberán proporcionar según sea el caso, a la Secretaría, a la Contraloría del Estado o a su coordinadora de sector, bimestralmente o cuando se les requiera la información que se estime necesaria respecto a la utilización de los fondos.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 58.
 
-La Secretaría cuidará de la exacta aplicación y ejecución del presupuesto aprobado por el congreso del Estado, debiendo además llevar el registro de los compromisos establecidos, con el objeto de comprobar que la aplicación de los recursos se realice conforme a los programas autorizados y de conformidad con las disposiciones legales vigentes, sin perjuicio de las facultades de Inspección, revisión y comprobación que la Contraloría Estatal y el Congreso de la Entidad tengan al respecto.
+La Secretaría cuidará de la exacta aplicación y ejecución del presupuesto aprobado por el congreso del Estado, debiendo además llevar el registro de los compromisos establecidos, con el objeto de comprobar que la aplicación de los recursos se realice conforme a los programas autorizados y de conformidad con las disposiciones legales vigentes, sin perjuicio de las facultades de Inspección, revisión y comprobación que la contraloría Estatal y El Congreso de la Entidad tengan al respecto.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2000)</small>
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría, formulará mensualmente el estado de origen y aplicación de los recursos financieros y tributarios, mismo que se publicará cada mes en el Periódico Oficial "El Estado de Jalisco" y de manera bimestral en uno de los periódicos de mayor circulación en la entidad.
+Artículo 58 bis.- El Titular del Poder Ejecutivo, por conducto de la Secretaría, formulará mensualmente el estado de origen y aplicación de los recursos financieros y tributarios, mismo que se publicará cada mes en el Periódico Oficial "El Estado de Jalisco" y de manera bimestral en uno de los periódicos de mayor circulación en la entidad.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+Los Poderes del Estado, municipios y sus dependencias y entidades que ejerzan recursos provenientes del presupuesto estatal, deberán publicar en estrados o por cualquier medio electrónico que consideren pertinente, dentro de los veinte días siguientes al cierre de la contabilidad mensual sus estados financieros, por un término de treinta días. La misma información será remitida a la Contaduría Mayor de Hacienda del Congreso del Estado, dentro de ese mismo plazo, para su consulta pública y demás efectos legales.
 
-Los Poderes Legislativo y Judicial elaborarán mensualmente los estados de origen y aplicación de sus recursos presupuestales, mismos que se publicarán cada mes en el Periódico Oficial "El Estado de Jalisco".
+Los egresos publicados conforme al párrafo anterior deberán desglosarse conteniendo el concepto y finalidad del gasto, nombre y domicilio del destinatario, así como fecha del pago y cantidad.
+
+Las instituciones señaladas en este artículo, deberán expedir a costa de cualesquier ciudadano, las copias simples o certificadas que les sean solicitadas de los movimientos financieros publicados en estrados, sin mayor requisito que la promoción por escrito en términos claros y dirigida con atención y respeto.
+
+Es responsable del cumplimiento de las obligaciones contenidas en este artículo el administrador, tesorero o funcionario público que lleve la contabilidad de la Unidad Presupuestaria.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
 
@@ -745,6 +751,18 @@ Quienes realicen gastos públicos estarán obligados a proporcionar al Congreso 
 
 El incumplimiento de las disposiciones de la presente Ley y de las que de ella se deriven, será sancionado en los términos de la Constitución Política y de la Ley de Responsabilidades para los Servidores Públicos del Estado y sus Municipios, ambos ordenamientos del Estado de Jalisco.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2000)</small>
+
+Artículo 105 bis.- Los administradores, tesoreros o quienes sean responsables de llevar la contabilidad de las Unidades Presupuestarias que incurran en incumplimiento a las obligaciones señaladas en el artículo 58 bis, serán sancionados de la siguiente manera:
+
+a) El responsable de la falta será apercibido de acatar el dispositivo legal con puntualidad;
+
+b) Si el responsable reincide en incumplimiento o acumula dos o más apercibimientos, se le amonestará por escrito, conminándolo al cumplimiento inmediato de lo requerido; y
+
+c) Si no obstante la amonestación el responsable porfía en su omisión o cumplimiento impuntual, será separado de su cargo hasta por treinta días.
+
+Estas sanciones serán aplicadas por el superior jerárquico oficiosamente, o a petición de cualquier interesado, valoradas las circunstancias particulares del caso y previa audiencia del responsable.
+
 ## TRANSITORIOS
 
 PRIMERO. Se faculta al titular del Poder Ejecutivo del Estado, para que cuando así convenga al buen despacho de la administración financiera y previos los estudios técnicos respectivos, autorice a la Secretaría de Finanzas a desconcentrar el ejercicio y aplicación de las partidas presupuestales a las dependencias y entidades.
@@ -804,3 +822,9 @@ P.O. 20 DE ABRIL DE 2000.
 P.O. 27 DE JULIO DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE AGOSTO DE 2000.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 Ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda en lo relativo a la adición de la fracción VIII del artículo 15 de la misma Constitución.
+
+SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
