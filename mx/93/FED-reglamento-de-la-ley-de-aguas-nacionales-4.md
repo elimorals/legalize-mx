@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aguas-nacionales-4"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-12"
-last_updated: "2001-10-30"
+last_updated: "2002-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1994-01-11"
 
 REGLAMENTO DE LA LEY DE AGUAS NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE AGOSTO DE 2002.
 
-Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 12 de enero de 1994.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 12 de enero de 1994.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -209,9 +209,11 @@ Para expedir la declaratoria respectiva se realizarán o se recabarán los estud
 
 La declaratoria correspondiente se publicará en el Diario Oficial de la Federación, y comprenderá además de la descripción general y las características de dicha corriente o depósito de agua nacional, los cauces, vasos y zonas federales, sin que sea necesario efectuar las demarcaciones en cada caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 13.
 
-El Consejo Técnico de "La Comisión" a que se refiere el artículo 10 de la "Ley", sesionará en forma ordinaria cada dos meses y en forma extraordinaria en cualquier tiempo cuando lo convoque su Presidente.
+El Consejo Técnico de "La Comisión" a que se refiere el artículo 10 de la "Ley", sesionará en forma ordinaria cada tres meses y en forma extraordinaria en cualquier tiempo cuando lo convoque su Presidente.
 
 Para poder sesionar se requiere la presencia de más de la mitad de los miembros que lo integren. Las resoluciones se adoptarán por mayoría de votos de los presentes y en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -303,9 +305,11 @@ VII. Participar o intervenir en los demás casos previstos en la "Ley" y este "R
 
 Los usuarios podrán explotar, usar o aprovechar el agua, directamente o a través de la forma de organización que mejor les convenga, para lo cual se podrán constituir en alguna de las personas morales reconocidas en la legislación vigente.
 
-###### ARTICULO 18.
+###### ARTICULO 19.
 
-Los usuarios podrán explotar, usar o aprovechar el agua, directamente o a través de la forma de organización que mejor les convenga, para lo cual se podrán constituir en alguna de las personas morales reconocidas en la legislación vigente.
+"La Comisión" promoverá y apoyará la organización de los usuarios del agua para que coadyuven y participen en la explotación, uso o aprovechamiento racional de las aguas nacionales y en la preservación de su cantidad y calidad, en los términos de la "Ley" y este "Reglamento".
+
+Para efectos del párrafo anterior, "La Comisión" podrá acreditar aquellas organizaciones de usuarios del agua que se hubieran constituido al amparo de otras leyes.
 
 ###### ARTICULO 20.
 
@@ -2234,3 +2238,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 ...
 
 TERCERO.- Se derogan el inciso b) de la fracción XXIX del artículo 2, la última parte del segundo párrafo del artículo 42, así como los artículos 61 y 62 del Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales, publicado en el Diario Oficial de la Federación el 4 de junio de 2001, 14 fracción XII del Reglamento de la Ley de Aguas Nacionales, publicado en el Diario Oficial de la Federación el 12 de enero de 1994, y las demás disposiciones que se opongan al presente.
+
+D.O.F. 29 DE AGOSTO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
