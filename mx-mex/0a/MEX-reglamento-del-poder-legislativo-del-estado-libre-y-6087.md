@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2004-08-26"
+last_updated: "2004-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -133,11 +133,11 @@ Al conocer de un asunto dos o más comisiones, los cargos de presidente, secreta
 
 Los presidentes de las comisiones conducirán los trabajos de estudio y dictamen y serán responsables de los documentos y expedientes que les sean entregados.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 16.
 
-Las reuniones de las comisiones serán públicas, salvo que por acuerdo de sus integrantes no deban tener ese carácter.
+Las reuniones de las comisiones serán públicas, salvo que por acuerdo de sus integrantes puedan tener el carácter de reservadas.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -399,19 +399,25 @@ Para iniciar y concluir las sesiones, el presidente expresará: "Se abre la sesi
 
 Cuando durante el desarrollo de la sesión, algún diputado objetare la existencia del quórum, podrá solicitar al presidente de la Legislatura su verificación, quien en su caso, ordenará a la secretaría pasar lista para constatar el número de diputados presentes, y de no existir quórum, el presidente declarará un receso o levantará la sesión.
 
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 55.
 
-Todas las sesiones de la Legislatura serán públicas, salvo que tengan el carácter de secretas.
+Todas las sesiones de la Legislatura serán públicas, salvo que tengan el carácter de reservadas.
 
 ###### Artículo 56.
 
 A las sesiones públicas podrá concurrir cualquier persona en los lugares señalados al efecto atendiendo a las limitaciones de espacio.
 
-En las sesiones secretas, permanecerán en el recinto únicamente los diputados, los servidores públicos de apoyo legislativo y las personas que el Presidente de la Legislatura autorice. Los concurrentes están obligados a guardar absoluta reserva sobre lo tratado en la sesión.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
+En las sesiones reservadas, permanecerán en el recinto únicamente los diputados, los servidores públicos de apoyo legislativo y las personas que, en su caso, el Presidente de la Legislatura autorice. Los concurrentes están obligados a guardar absoluta reserva sobre lo tratado en la sesión.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 57.
 
-Las sesiones secretas se llevarán a cabo en los casos siguientes:
+Las sesiones reservadas se llevarán a cabo en los casos siguientes:
 
 I.- Cuando se trate de asuntos relacionados con acusaciones en contra de servidores públicos que gocen de fuero constitucional;
 
@@ -422,6 +428,10 @@ III.- En los casos previstos en las disposiciones legales;
 IV.- Cuando así lo acuerde la Asamblea;
 
 V.- Por determinación del Presidente de la Legislatura.
+
+> <small>(ADICIONADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
+En ningún caso, lo dispuesto por este artículo podrá contravenir las disposiciones de transparencia y acceso a la información pública establecidas en la legislación correspondiente.
 
 ###### Artículo 58.
 
@@ -827,9 +837,11 @@ El público asistente a las sesiones, permanecerá en el lugar del recinto desti
 
 Los asistentes que incumplan con lo dispuesto en el artículo anterior, podrán ser desalojados del salón; pero si la infracción fuere grave o la conducta de alguno o varios de los asistentes pudiere constituir delito, el Presidente ordenará su detención y los pondrá a disposición de las autoridades competentes, o en su caso, formulará la denuncia correspondiente.
 
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 128.
 
-Si las medidas adoptadas por el presidente para restablecer el orden en el salón no fueren suficientes, podrá suspender la sesión pública y disponer su continuación con carácter de secreta.
+Si las medidas adoptadas por el presidente para restablecer el orden en el salón no fueren suficientes, podrá suspender la sesión pública y disponer su continuación con carácter de reservada.
 
 ###### Artículo 129.
 
@@ -985,9 +997,11 @@ La grabación contendrá íntegra la versión del desarrollo de las reuniones, s
 
 Los diputados podrán hacer consultas en el registro legislativo y obtener las copias que requieran por conducto de la secretaría.
 
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 144.
 
-La Legislatura contará con un órgano oficial de difusión denominado "Diario de Debates" en el que se publicarán las fechas y lugares de las sesiones públicas, insertando en el mismo, el sumario respectivo, nombre de quien presida, así como la versión taquigráfica del desarrollo de las sesiones y discusiones, y el contenido de los documentos a los que se hubiese dado lectura. No se publicarán en este instrumento, lo relacionado con las sesiones secretas, ni las expresiones ofensivas cuando quien las profiera solicite que sean omitidas.
+La Legislatura contará con un órgano oficial de difusión denominado "Diario de Debates" en el que se publicarán las fechas y lugares de las sesiones públicas, insertando en el mismo, el sumario respectivo, nombre de quien presida, así como la versión mecanográfica del desarrollo de las sesiones y discusiones, y el contenido de los documentos a los que se hubiese dado lectura. No se publicarán en este instrumento, lo relacionado con las sesiones reservadas, ni las expresiones ofensivas cuando quien las profiera solicite que sean omitidas.
 
 ###### Artículo 145.
 
@@ -1323,7 +1337,7 @@ III. Definir y establecer objetivos, políticas y procedimientos en materia de c
 
 > <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2003)</small>
 
-IV. Administrar en coordinacion con la Secretaría de Administración y Finanzas, el presupuesto anual autorizado por el Comité de Comunicación Social;
+IV. Administrar en coordinación con la Secretaría de Administración y Finanzas, el presupuesto anual autorizado por el Comité de Comunicación Social;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1608,3 +1622,9 @@ DECIMO PRIMERO.- Los Diputados integrantes de la Comisión de Inspección de la 
 DECIMO SEGUNDO.- El personal que labora actualmente en la Contaduría General de Glosa quedará adscrito al Organo Superior de Fiscalización, quedando a salvo sus derechos laborales.
 
 DECIMO TERCERO.- Los recursos financieros y materiales con que cuenta la Contaduría General de Glosa, así como los archivos, expedientes, documentos y papeles, pasarán al Organo Superior de Fiscalización, quedando destinados al cumplimiento da sus fines.
+
+G.G. 12 DE OCTUBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
