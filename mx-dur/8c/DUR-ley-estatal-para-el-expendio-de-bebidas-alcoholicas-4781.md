@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-el-expendio-de-bebidas-alcoholicas-4781"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-14"
-last_updated: "1997-06-12"
+last_updated: "2003-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ESTATAL PARA EL EXPENDIO DE BEBIDAS ALCOHOLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1997.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHOLICO DEL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL DIA 15 DE JUNIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 14 de julio de 1994.
 
@@ -228,3 +230,19 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. EL SE
 P.O. 12 DE JUNIO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Para la aplicación de la presente ley en el ámbito municipal, los Ayuntamientos emitirán el reglamento correspondiente en un plazo de sesenta días contados a partir de la entrada en vigor de la presente ley.
+
+Artículo Tercero.- Se abroga la Ley para el Expendio de Bebidas Embriagantes para el Estado de Durango aprobada por decreto número 358 de la LIX Legislatura y publicada en el Periódico Oficial del Estado de fecha 14 de Julio de 1994, sus reformas, y se derogan todas las disposiciones legales y reglamentarias, sean de carácter estatal o municipal, que se opongan al contenido del presente decreto.
+
+Artículo Cuarto.- Se derogan todas las disposiciones administrativas, sean de carácter estatal o municipal, que se opongan a la presente ley.
+
+Artículo Quinto.- Los propietarios o poseedores de establecimientos y los titulares de las licencias otorgadas, procederán a regularizarse, conforme a las nuevas disposiciones que se establecen en la presente ley, en el mes de Enero del año dos mil cuatro.
+
+Artículo Sexto.- Para los titulares de licencia que tengan documentación en trámite conforme a disposiciones contenidas en leyes y reglamentos anteriores a la vigencia de esta ley, le serán aplicables las normas transitorias que preceden a este artículo, en todo aquello que conduzca a la regularización que dichos preceptos señalan.
+
+Artículo Séptimo.- Los establecimientos que se hubieren instalado con anterioridad a la presente ley y que no cumplan con los requisitos que la misma considera, quedarán sujetos a su reubicación o cambio de domicilio conforme a lo dispuesto en los artículos 34 y 35 del presente ordenamiento, si estos afectan las buenas costumbres, la salud, el orden público o el interés social.
