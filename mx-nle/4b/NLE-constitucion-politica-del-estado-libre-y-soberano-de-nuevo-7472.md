@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1996-06-14"
+last_updated: "1996-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -111,11 +111,11 @@ V.- Honrar la memoria de sus grandes hombres, cumplir y vigilar el cumplimiento 
 
 Son ciudadanos del Estado todos los Nuevoleoneses mayores de 18 años de edad, sea cual fuere su sexo o estado civil, que tengan modo honesto de vivir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 36.
 
-Los derechos de los Ciudadanos Mexicanos residentes en el Estado son:
+Los derechos de los ciudadanos mexicanos residentes en el Estado son:
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
 
@@ -125,9 +125,17 @@ II.- Ser votados para cualquier cargo de elección, si reúnen las condiciones q
 
 III.- Hacer peticiones, reclamaciones o protestas en asuntos políticos e iniciar leyes ante el Congreso.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
 
-IV.- Asociarse para tratar los asuntos políticos del Estado y formar partidos políticos en los términos que prevenga la Ley Electoral correspondiente.
+IV.- Asociarse individual y libremente para tratar en forma pacífica los asuntos políticos del Estado.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 1996)</small>
+
+V.- Formar partidos políticos y afiliarse a ellos de manera libre, voluntaria e individual, en los términos que prevean las leyes.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+
+No tendrá validez ningún pacto o disposición contrario a los principios establecidos en las fracciones anteriores o que limite de cualquier manera el derecho de los ciudadanos a la libertad de afiliación o de voto.
 
 ###### Art. 37.
 
@@ -179,41 +187,51 @@ El Estado de Nuevo León comprende el Territorio de lo fué (sic) provincia del 
 
 ## TITULO III.. Del Proceso Electoral
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 41.
 
-El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado, se realizará en elecciones populares, mediante la emisión del sufragio universal, libre, secreto y directo.
+El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado se realizará en elecciones libres, auténticas y periódicas, a través de la emisión del sufragio universal, igual, libre, secreto y directo.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 42.
 
-Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida política, y permitir el acceso de éstos a la integración de los órganos de representación popular. Los partidos políticos nacionales y estatales con registro gozarán de personalidad jurídica para todos los efectos legales.
+Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida política y permitir el acceso de éstos a la integración de los órganos de representación popular. Los partidos políticos nacionales y estatales con registro gozarán para todos los efectos legales de personalidad jurídica y patrimonio propio, mismo que administrarán libremente; y tendrán derecho a participar en los procesos electorales para elegir al Gobernador, a los Diputados del Congreso y a los integrantes de los Ayuntamientos del Estado, en los términos que prevea la Ley Electoral.
 
-El Gobierno del Estado garantizará en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas y gozarán de financiamiento público para el cumplimiento de sus fines.
+Los partidos políticos coadyuvarán con los organismos electorales en la vigilancia para que las distintas etapas del proceso electoral se realicen con pleno respeto a lo dispuesto por esta Constitución, la ley electoral y demás leyes relativas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
+Las autoridades del Estado garantizarán en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas.
 
-La Ley establecerá las reglas a que se sujetarán el financiamiento de los Partidos y sus campañas electorales.
+La ley garantizará que los partidos políticos con registro nacional o estatal cuenten de manera equitativa y permanente con elementos para la realización de sus actividades, siempre y cuando las realicen en el Estado. En ella se establecerán las reglas para el financiamiento público que se otorgará a los partidos políticos que participen en las elecciones estatales y para la renovación de los integrantes de los Ayuntamientos de la entidad.
 
-Los partidos políticos que actúen en la entidad, deberán respetar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y las Leyes que de ellas emanen.
+El monto total del financiamiento permanente que se otorgue a los Partidos Políticos será incrementado en el período electoral, en los términos que determine la ley.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+El setenta por ciento del total del financiamiento público que se otorgue a los partidos políticos se distribuirá de acuerdo al porcentaje de votación que éstos hayan obtenido en la última elección de Diputados Locales. El treinta por ciento restante se asignará en forma igualitaria a los partidos políticos contendientes que tengan representación en el Congreso del Estado.
+
+La ley establecerá los límites a las erogaciones de los partidos políticos en las distintas campañas electorales; el monto máximo de las aportaciones que podrán realizarse en numerario provenientes de sus simpatizantes; los procedimientos para la fiscalización y vigilancia que deban efectuarse sobre el origen y aplicación de todos los recursos con que cuenten los partidos políticos y para dar a conocer el patrimonio que poseen al iniciar el período electoral; así como las sanciones que deban aplicarse en el caso de incumplimiento de las disposiciones en esta materia.
+
+Las autoridades del Estado y los órganos electorales promoverán las acciones necesarias para asegurar que los partidos políticos tengan acceso en forma equitativa a los medios de comunicación masiva.
+
+La ley establecerá los recursos y medios de defensa, así como las responsabilidades y sanciones por actos violatorios a esta Constitución y a las leyes en materia electoral, garantizando que se fijen los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 43.
 
-Corresponde a los Poderes del Estado, a los partidos políticos y a los ciudadanos, la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará la participación de los mismos en dichos procesos y en la integración y funcionamiento de los organismos electorales.
+La organización de las elecciones es una función estatal que se ejerce bajo los principios de legalidad, imparcialidad, objetividad, certeza e independencia y se lleva a efecto por un órgano independiente y autónomo, dotado de personalidad jurídica y patrimonio propios. La ley determinará las funciones e integración de dicho órgano, mismo que estará formado por ciudadanos del Estado designados para tal efecto por el Congreso del Estado por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+El Gobierno del Estado y las Autoridades Municipales están obligados a prestar a los organismos electorales el auxilio material e institucional que requieran para el desarrollo de sus actividades, así como el que la propia ley les señale.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 44.
 
-Para resolver las controversias que se susciten en los procesos electorales habrá un Tribunal de la materia, cuya integración, competencia y alcance de sus resoluciones serán definidas por la Ley respectiva. En lo referente a la calificación y nulidad de la elección de Gobernador, el Congreso del Estado ejercerá las facultades que esta misma Constitución y las leyes establecen.
+Para conocer y resolver las impugnaciones y controversias que se susciten dentro de los procesos electorales de la competencia estatal o con motivo de la impugnación de los resultados de los mismos, se establecerá en el Estado un órgano jurisdiccional independiente y autónomo, que tendrá a su cargo el desahogo de los recursos y la resolución de las controversias que se planteen en la materia. La ley establecerá sus atribuciones, forma de organización y funcionamiento.
 
-Para los procesos electorales, de Diputados y de Ayuntamientos, se integrará una Sala de segunda Instancia, con cinco profesionales de Derecho, quienes deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia, los cuales serán dos propuestos por el Ejecutivo del Estado, previa consulta formal en reunión privada con los Directores de las Escuelas y Facultades de Derecho de la entidad; otros dos propuestos por el Pleno del Tribunal Superior del Justicia y uno propuesto por la Comisión Estatal Electoral.
+En la partida del Presupuesto de Egresos que el Congreso del Estado asigne al órgano electoral se considerará la asignación de los recursos financieros que serán destinados al órgano jurisdiccional electoral.
 
-El Congreso del Estado hará la ratificación correspondiente. El Presidente de esta Sala será electo internamente por sus integrantes de entre alguno de sus miembros. Esta Sala revisará exclusivamente las resoluciones del Tribunal Electoral mediante el recurso que los Partidos Políticos podrán interponer cuando hagan valer agravios debidamente fundados, por los que se pueda modificar el resultado de la elección. Los fallos de esta Sala serán definitivos e inatacables. La Ley establecerá los propuestos procesales, requisitos de procedencia y el trámite para este medio de impugnación.
+La autoridad en materia contencioso electoral se integrará por el número de Licenciados en Derecho que la Ley determine, designados por el Congreso del Estado, por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso; y que, además de cumplir los requisitos establecidos para los ciudadanos que deban integrar el órgano responsable de conducir los procesos electorales, deberán contar con por lo menos 35 años de edad y 10 años de ejercicio profesional.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
@@ -325,25 +343,25 @@ Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucio
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 55.
 
-La Legislatura tendrá cada año de ejercicio dos períodos de Sesiones Ordinarios. El primero se abrirá el 15 de Octubre y terminará el 15 de Enero y podrá ser prorrogado hasta por un mes. El segundo comenzará el día 15 de Abril y terminará el 15 de Junio, pudiendo también ser prorrogado por un mes.
+La legislatura tendrá cada año de ejercicio dos períodos de sesiones ordinarias. El primero se iniciará el día 15 de Octubre y terminará el día 15 de enero; el segundo comenzará el día 30 de Abril y terminará el día 15 de junio; ambos períodos podrán ser prorrogados hasta por treinta días.
 
-En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Segundo Período Ordinario de Sesiones comprenderá del 1o. de Julio al 14 de Octubre, en el que se antenderá (sic) primordialmente lo relativo al Sexto Informe de Gobierno; a la calificación de la elección del siguiente Gobernador y Diputados y a la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 4 de Octubre.
+En el año de la elección del Titular del Poder Ejecutivo, la Diputación Permanente convocará a un período extraordinario de sesiones, en el que se atenderá primordialmente la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 4 de Octubre.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 56.
 
-Tanto para la instalación del Congreso como para la apertura de Sesiones se necesita la presencia de la mayoría de los Diputados. Cuando por cualquier circunstancia el Período de Sesiones Ordinario no comenzare en las fechas señaladas en el Artículo anterior, el Congreso al reunirse, podrá permanecer en ejercicio, según el estado de los negocios, todos los tres meses de Sesiones Ordinarias, o concluir éstas cuando crean conveniente.
+Tanto para la instalación como para la apertura de sesiones del Congreso se requiere la presencia de la mayoría de los diputados, de no reunirse por cualquier causa el quórum necesario, una vez que éste haya sido completado, el Congreso decidirá sobre la manera de compensar las faltas del inicio del período y tomará las providencias necesarias para que la Legislatura se integre en los términos previstos en esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 57.
 
-Durante los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, en el transcurso de la segunda quincena del mes de Mayo, dentro del Segundo Período de Sesiones, el Congreso celebrará una Sesión Solemne el día y hora que se señale a propuesta del Ejecutivo, a la cual deberá asistir el propio Gobernador del Estado y los Magistrados del Tribunal Superior de Justicia. En dicha Sesión el primero presentará un Informe por escrito en el cual manifieste la situación y perspectivas generales del Estado y de la Administración Pública. El Sexto Informe de Gobierno lo rendirá el Titular del Poder Ejecutivo en iguales términos y comprenderá el Período del año fiscal anterior y el tiempo transcurrido del siguiente año hasta la fecha de su emisión, celebrándose la Sesión Solemne para ese fin la segunda quincena del mes de Julio. En ambos casos, el Presidente del Congreso contestará en términos generales la presentación del mismo.
+Durante la primera quincena del mes de junio, dentro del Segundo Período Ordinario de Sesiones, concurrirá al Congreso el Gobernador, así como los Magistrados del Tribunal Superior de Justicia, para que en sesión solemne a la que convocará el propio Congreso, el Ejecutivo presente por escrito un informe sobre la situación y perspectivas generales que guardan el Estado y la Administración Pública. El Presidente del Congreso del Estado dará respuesta en términos generales al informe que rinda el Gobernador.
 
 ###### Art. 58.
 
@@ -353,13 +371,17 @@ Cuando estén despachados todos los negocios del Congreso, éste podrá dispensa
 
 El Congreso se reunirá en la Capital del Estado o donde el Ejecutivo se encuentre; pero podrá cambiar de residencia provisionalmente, si así lo acuerdan las dos terceras partes de los Diputados presentes.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+
 ###### Art. 60.
 
-La Legislatura llamada a sesiones extraordinarias no podrá ocuparse de otros negocios que aquéllos para los que haya sido convocada.
+En los períodos extraordinarios a que se convoque a la Legislatura, ésta sólo podrá ocuparse de los negocios para los que haya sido llamada.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 61.
 
-Si las sesiones extraordinarias se prolongan hasta el tiempo en que deban comenzar las ordinarias, cesarán aquéllas y durante éstas se despacharán de preferencia los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
+Si el período extraordinario de sesiones se prolonga hasta el tiempo en que deba comenzar el ordinario, cesará aquél y durante éste se despacharán preferentemente los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -411,9 +433,9 @@ XIII.- Revisar y aprobar en su caso, cada año y cuando lo juzgue conveniente, l
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
 
-XV.- Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado en la forma que se determine la Ley y conocer de las demandas de nulidad. Su resolución será definitiva e inatacable.
+XV.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo, que hubiere hecho la autoridad electoral correspondiente.
 
 XVI.- Recibir al Gobernador, Magistrados y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen.
 
@@ -525,17 +547,17 @@ La seguridad social de los servidores públicos se organizará conforme a las le
 
 Las controversias de los servidores públicos del Estado, los Municipios y demás Entidades Públicas, así como los conflictos intersindicales, serán sometidos al Tribunal de Arbitraje del Estado.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
 
-XLIV.- Designar entre los vecinos los Consejos Municipales, hasta que concluya el período respectivo, cuando se declare desapareciendo un Ayuntamiento o exista la renuncia o falta absoluta de la mayoría, de sus miembros, si de acuerdo a la Ley Orgánica no procede que entren en funciones los suplentes, ni que se celebren nuevas elecciones.
+XLIV.- Designar entre los vecinos, los Consejos Municipales, en los casos que establezcan esta Constitución y las leyes reglamentarias.
 
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1992)</small>
 
 XLV.- Instituir mediante las leyes que expida, el Tribunalde (sic) lo Contencioso Administrativo, dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre el Estado, los Municipios, los Organismos Descentralizados y Empresas de participación estatales o municipales, y, los particulares, estableciendo las normas de su organización, su funcionamiento, los requisitos para nombramientos, licencias y renuncias de los Magistrados que lo integren, sus procedimientos y recursos contra las resoluciones que se pronuncien.
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
 
-XLVI.- Ratificar a los integrantes de la Sala de Segunda Instancia del Tribunal Electoral del Estado.
+XLVI.- Designar a los Comisionados Ciudadanos y a los Magistrados Electorales, en los términos que determinen esta Constitución y las leyes respectivas.
 
 ###### Art. 64.
 
@@ -555,9 +577,11 @@ IV.- Consentir en que funcionen como Autoridades las que debiendo ser electas po
 
 Al finalizar el período de sesiones ordinarias la legislatura nombrará una diputación permanente compuesta por ocho diputados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1996)</small>
+
 ###### Art. 66.
 
-A la Diputación Permanente toca:
+A la Diputación Permanente corresponde:
 
 I.- Vigilar el cumplimiento de la Constitución y dar informe al Congreso de las infracciones que haya notado.
 
@@ -569,7 +593,9 @@ II.- Ejercer la facultad que señala la fracción XIX del Artículo 63.
 
 III.- Preparar los proyectos de ley y adelantar los trabajos del Congreso, dando a éste cuenta de ellos en su próxima reunión ordinaria e informándole de cuanto sea debido y conveniente instruirle.
 
-IV.- Convocar al Congreso a sesiones extraordinarias cuando convenga a la salud del Estado, lo exija el cumplimiento de alguna ley general o lo pida el Ejecutivo.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
+
+IV.- Convocar al Congreso del Estado a Período Extraordinario de Sesiones, cuando así convenga a la salud del Estado, lo exija el cumplimiento de alguna ley general o lo solicite el Ejecutivo.
 
 V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste tenga a bien pedirla.
 
@@ -725,25 +751,19 @@ Para que los comprendidos en este artículo puedan ser electos necesitan separar
 
 La elección de Gobernador prefiere a cualquier otro cargo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 84.
 
-El Gobernador será electo cada seis años y tomará posesión de su cargo el día 4 de Octubre.
+El Gobernador del Estado será electo cada seis años y tomará posesión de su cargo el día 4 de octubre del año en que se celebre la elección.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+No podrán ser electos para el período inmediato:
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+a) El Gobernador designado por el Congreso del Estado para concluir el periodo en caso de falta absoluta del constitucional; y
 
-No podrán ser electos para el período inmediato.
-
-a.) El Gobernador designado por el Congreso para concluir el período en caso de falta absoluta del constitucional, y
-
-> <small>[N. DE E. SE SUGIERE CONSULTAR LOS ARTÍCULOS DEL "DECRETO No. 73 INTERPRETACIÓN AUTÉNTICA DEL INCISO b) DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO", D.O.F. 23 DE JUNIO DE 1943.]</small>
-
-b.) El Gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación supla las faltas temporales del Gobernador, en los últimos tres años de período.
+b) El Gobernador Interino, el provisional o el ciudadano que , bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Art. 85.
 
@@ -781,7 +801,9 @@ XII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General 
 
 XIII.- Como Jefe nato de la Guardia Nacional y de las demás fuerzas del Estado, cuidar de su instrucción con arreglo a las leyes y de que se use de ellas conforme al objeto de su institución.
 
-XIV.- Pedir a la Diputación Permanente convoque al Congreso a sesiones extraordinarias cuando lo juzgue necesario.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 1996)</small>
+
+XIV.- Pedir a la Diputación Permanente convoque al Congreso a Período Extraordinario de Sesiones cuando lo juzgue necesario.
 
 XV.- Visitar, dentro del período de su Gobierno, todos los pueblos del Estado para conocer sus necesidades, remediar sus males y promover sus mejoras.
 
@@ -878,6 +900,10 @@ Si la licencia fuere por más de treinta días o en caso de impedimento del Gobe
 ###### Art. 90.
 
 En caso de falta absoluta o imposibilidad perpetua del gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este Cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador Substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a la Cámara Local siempre que estén próximas. Pero, si el Legislativo estuviere en receso, la Diputación Permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+
+En el supuesto de convocarse a elecciones extraordinarias, éstas se realizarán de conformidad a lo dispuesto por la ley y bajo la dirección del órgano electoral estatal. Las controversias que en las mismas se presenten serán resueltas por el órgano previsto en el artículo 44 de esta Constitución y en las leyes relativas.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
@@ -1059,6 +1085,10 @@ de los Servidores Públicos
 
 Para los efectos de lo preceptuado en este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los servidores o empleados y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, ya sea del Estado o los Municipios; quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+
+Los ciudadanos que conformen los organismos electorales y los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral, estarán con motivo del desempeño de su encargo, sujetos a las responsabilidades de los servidores públicos a que se refieren este artículo y las leyes reglamentarias
+
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 106.
@@ -1091,11 +1121,11 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante la Cámara de Diputados, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse en elementos de prueba que hagan presumir fehacientemente la ilicitud de la conducta del servidor público, estando sujetos a responsabilidad en los términos que lo prevengan las leyes respectivas, si la referida denuncia es infundida.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Ejecutivo, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos, así como los Presidentes Municipales, Regidores, Síndicos y Alcaldes Judiciales.
+Podrán ser sujetos de Juicio Político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los ciudadanos que ejerzan funciones en el órgano electoral, los Magistrados Electorales, los Jueces, el Procurador General de justicia, los Secretarios del Ejecutivo, los directores Generales o sus equivalente de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos, así como los Presidente Municipales, Regidores, Síndicos y Alcaldes Judiciales.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1107,11 +1137,11 @@ Las declaraciones y resoluciones tanto de la Cámara de Diputados como del Tribu
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 112.
 
-Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, los Secretarios del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos, por la Comisión de Delitos durante el tiempo de su cargo, la Cámara de Diputados declarará por mayoría absoluta de los miembros que la forman y previa audiencia del acusado, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los ciudadanos que ejerzan funciones en el órgano electoral, los Magistrados Electorales, los Secretarios del Ejecutivo, así como los Presidente Municipales, Regidores y Síndicos por la comisión del delitos durante el tiempo de su cargo, el Congreso declarará por mayoría absoluta de los miembros que forman y previa Audiencia del acusado, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1259,7 +1289,7 @@ Los Ayuntamientos no podrán acordar remuneración alguna para sus miembros sin 
 
 ###### Art. 130.
 
-Dentro de los primeros ocho días de cada mes los Ayuntamientos rendirán al Ejecutivo un informe detallado de su gestión administrativa del mes anterior.
+(DEROGADO, P.O. 18 DE OCTUBRE DE 1996)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -1295,11 +1325,11 @@ III.- En términos de las leyes federales y locales que rigen la materia y dentr
 
 IV.- Los Municipios en el ámbito de su competencia y con apego a las leyes federales y locales, planearán y regularán de manera conjunta y coordinada el desarrollo de centros urbanos que formen o tiendan a formar una continuidad demográfica, sea que éste se integre dentro del mismo Estado de Nuevo León o conjuntamente con un municipio situado en otra Entidad Federativa vecina.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
-###### Art. 132
+###### Art. 132.
 
-- Cuando por cualquier circunstancia los Ayuntamientos electos no tomaren posesión el día treinta y uno de Octubre, continuarán ejerciendo sus funciones los Ayuntamientos salientes hasta que aquellos tomen posesión de sus cargos.
+Cuando por cualquiera circunstancia no se presentaren el día de su toma de posesión los miembros del Ayuntamiento electo, o se declarase la nulidad de la elección de los mismos, el H. Congreso del Estado nombrará un Consejo Municipal de acuerdo a lo previsto por la fracción XLIV del artículo 63 de esta Constitución, el que fungirá hasta en tanto no acudan a rendir protesta quienes hubiesen sido electos en los comicios ordinarios, o los que lo fueren en las elecciones extraordinarias.
 
 ## TITULO IX.
 
@@ -1381,13 +1411,17 @@ Todos los funcionarios y empleados, tanto del Estado como de los Municipios, ant
 
 Cuando desaparezcan los Poderes Legislativo y Ejecutivo del Estado, los Magistrados en funciones del Superior Tribunal de Justicia, a mayoría absoluta de votos, nombrarán un Gobernador Provisional; pero si desaparecieren todos los Poderes será Gobernador Provisional, por ministerio de la ley, el último Presidente del Tribunal; a falta de éste y por su orden, el último Secretario de Gobierno, los demás Magistrados, y los Presidentes de la Legislatura desde su elección.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+
 ###### Art. 145.
 
-El Gobernador Provisional, tan luego como las circunstancias se lo permitan, convocará a elecciones, no pudiendo ser electo para el período a que se convoca.
+El Gobernador Provisional, a que se refiere el artículo anterior, tan luego como las circunstancias se lo permitan, convocará a elecciones, no pudiendo ser electo para el período a que se convoca. Las elecciones que se celebren deberán ajustarse a lo dispuesto por la ley electoral y se realizarán bajo la dirección del órgano electoral que prevé esta Constitución.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 146.
 
-El Gobernador Provisional a que se refieren los dos artículos anteriores jeercerá (sic) las funciones que esta Constitución y las demás leyes relativas conceden a la Diputación Permanente con relación a dichas elecciones.
+El Gobernador Provisional a que se refieren los dos artículos anteriores ejercerá durante su encargo las funciones que esta Constitución y las demás leyes relativas le señalan al titular del Poder Ejecutivo.
 
 ###### Art. 147.
 
@@ -2220,3 +2254,19 @@ P.O. 14 DE JUNIO DE 1996.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE OCTUBRE DE 1996.
+
+DECRETO NUMERO 272, QUE REFORMAN LOS ARTICULOS 36 FRACCION IV, 41, 42, 43...
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 1996.
+
+DECRETO NUMERO 273, QUE DEROGA EL ARTICULO 130.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
