@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2002-11-15"
+last_updated: "2002-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -161,7 +161,7 @@ De igual forma responderá el que ofrezca auxiliar o auxilie al delincuente por 
 
 Cuando sin acuerdo previo ni adherencia, varias personas intervengan en la comisión de un delito y se precise el daño que cada uno causó, se les sancionará por el que cada quien produjo.
 
-Si no se precisa la causación específica, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
+Si no se precisa la causación específica,, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
 
 ###### ARTICULO 18.
 
@@ -619,7 +619,7 @@ La caución de no ofender consiste en la garantía que el órgano jurisdiccional
 
 Si desde que cause ejecutoria la sentencia que impuso la caución transcurre un lapso de tres años sin que el inculpado haya repetido el daño, el órgano jurisdiccional ordenará de oficio, o a solicitud de parte, la cancelación de la garantía.
 
-Si el inculpado no puede otorgar la garantía, ésta será substituída (sic) por vigilancia de la autoridad durante un lapso que no excederá de tres años.
+Si el inculpado no puede otorgar la garantía, ésta será substituída por vigilancia de la autoridad durante un lapso que no excederá de tres años.
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -1127,11 +1127,27 @@ VIII.- De tres a siete años de prisión si causan incapacidad para trabajar por
 
 IX.- De 6 a 12 años de prisión si causan incapacidad permanente para trabajar en cualquier arte, profesión u oficio.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 127 BIS.- Se impondrán las penas previstas para el delito de lesiones, según el daño que se provoque:
+
+I.- Al que utilice sustancias prohibidas para la crianza y engorda de animales para el consumo humano, y como resultado cause a otro un daño en la salud; y
+
+II.- Al que comercie, con productos animales para el consumo humano que han sido criados o engordados en los términos de lo establecido en la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 127
+
+BIS-1.- Al que sabiendo que padece una enfermedad grave en periodo infectante, sin que la víctima u ofendido tenga conocimiento de esta circunstancia, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible se le impondrán las penas previstas para el delito de lesiones.
+
+En el caso de la fracción anterior, se perseguirá de oficio a excepción de cuando se trate de cónyuges, concubinarios o concubinas solo podrá procederse por querella del ofendido.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 128.
 
-En los casos de las fracciones I, II, III y V del artículo anterior de esta Ley, el delito se perseguirá a petición del ofendido; a excepción de las lesiones descritas en la fracción V, por las cuales podrá querellarse el Ministerio Público o los representantes del ofendido cuando en razón de las lesiones inferidas no pueda manifestar su voluntad.
+En los casos de las fracciones I, II, III y V del artículo 127 de esta Ley, el delito se perseguirá a petición del ofendido; a excepción de las lesiones descritas en la fracción V, por las cuales podrán querellarse el Ministerio Público o los representantes del ofendido cuando en razón de las lesiones inferidas no pueda manifestar su voluntad.
 
 ###### ARTICULO 129.
 
@@ -1673,9 +1689,9 @@ Comete el delito de abigeato el que en cualquier sitio se apodere de una o más 
 
 I.- De 6 meses a 2 años de prisión y de 1 a 50 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
 
-II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabezas de ganado mayor; y
+II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza de ganado mayor; y
 
-III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor ó sobre más de dos cabezas de ganado mayor.
+III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor o sobre más de dos cabezas de ganado mayor.
 
 > <small>(REFORMADO, P.O.15 DE OCTUBRE DE 1999)</small>
 
@@ -2821,7 +2837,7 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Se entenderá simulado el juicio que se siga en contra de un depositario, si trae como consecuencia el secuestro de la cosa embargada o depositada con anterioridad en otro procedimiento judicial o administrativo.
 
-También se entenderá simulado el que se siga contra cualquier otra persona, si con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los 3 días siguientes.
+También se entenderá simulado el que se siga contra cualquier otra persona, sin con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los 3 días siguientes.
 
 ###### ARTICULO 291.
 
@@ -3380,3 +3396,23 @@ La presente Ley iniciará su vigencia al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
+
+P.O. 6 DE DICIEMBRE DE 2002
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 6 DE DICIEMBRE DE 2002
+
+###### ARTICULO PRIMERO.
+
+La presente Ley iniciara su vigencia el mismo día en que inicie la vigencia la Ley que adiciona el artículo 127-bis y reforma el artículo 128 del Código Penal para el Estado de Querétaro.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o de menor jerarquía que se opongan a la presente.
