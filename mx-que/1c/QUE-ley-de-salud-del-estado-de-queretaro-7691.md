@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-7691"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-12"
-last_updated: "1999-05-07"
+last_updated: "2001-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2001.
 
 Ley Publicada en el Periódico Oficial "La Sombra de Arteaga" el 12 de Diciembre de 1985
 
@@ -1399,9 +1399,11 @@ IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DEL 2001)</small>
+
 ###### ARTICULO 159.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del Programa contra el tabaquismo, que comprenderá, entre otras las siguientes acciones:
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales y municipales para la ejecución en el Estado del Programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
 
@@ -1411,6 +1413,10 @@ II.- La educación sobre los efectos del tabaquismo en la salud dirigida especia
 
 III.- Determinarán y ejercerán medios de control en el expendio de tabaco en cualquiera de sus formas, para prevenir su consumo por parte de menores de edad y de los legalmente incapaces.
 
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2001)</small>
+
+IV.- La prohibición de fumar, fuera de los lugares permitidos, en edificios, oficinas y cualquier otra instalación al servicio del gobierno estatal o municipal o de los organismos públicos que posean autonomía constitucional. Los responsables de dichas instalaciones, en los términos de las disposiciones que los rijan, coadyuvarán con las autoridades sanitarias al efecto de dar cumplimiento con lo dispuesto en esta fracción.
+
 ###### ARTICULO 160.
 
 Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
@@ -1418,6 +1424,14 @@ Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta
 I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas, y
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2001)</small>
+
+III.- Los responsables de las dependencias, edificios, oficinas o instalaciones a que se refiere la fracción IV del artículo anterior, dispondrán los espacios en que se permita fumar.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2001)</small>
+
+Fuera de estos lugares se prohibe el consumo de tabaco dentro de las dependencias, edificios, oficinas o instalaciones públicas descritas.
 
 ### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
@@ -1537,7 +1551,7 @@ Los edificios y locales terminados podrán dedicarse al uso que se destinen, una
 
 ###### ARTICULO 178.
 
-Los edificios, locales, construcciones o terrenos urbanos podrán ser inspeccionados por la autoridad estatal, quien ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, de otras disposiciones legales aplicables y las normas técnicas correspondientes.
+Los edificios, locales, construcciones o terrenos urbanos podrán ser inspeccionados por la autoridad estatal, quien ordenará las obras necesarias para satisfacer las necesidades para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, de otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
 ###### ARTICULO 179.
 
@@ -2213,7 +2227,13 @@ V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
 ###### ARTICULO 274.
 
-Se sancionará con multa equivalente hasta de mil veces el salario mínimo general diario vigente en la zona económica a la que pertenezca la entidad federativa de Querétaro, la violación de las disposiciones contenidas en los artículos 54,55,80,95,97,115,116,117,125,129,167,230,232,247,248 y 249.
+Se sancionará con multa equivalente hasta de mil veces el salario mínimo general diario vigente en la zona económica a la que pertenezca la entidad federativa de Querétaro, la violación de las disposiciones contenidas en los artículos
+
+54,55,80,95,97,115,116,117,125,129,167,230,232,247,248 y 249.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DEL 2001)</small>
+
+La violación a lo dispuesto por el ultimo párrafo del artículo 160, ameritará multa de hasta 50 días de salario mínimo general vigente en el Estado al momento de la infracción; pero la autoridad sancionadora, valorando lo dispuesto en el articulo anterior, podrá conmutar la multa por una hasta diez horas de terapia de rehabilitación en las instalaciones de salud pública del Estado, cuyo acreditamiento se realizará en los términos reglamentarios.
 
 > <small>(REFORMADO, P.O. 07 DE MAYO DE 1999)</small>
 
@@ -2526,3 +2546,17 @@ Esta Ley entrará en vigor a partir del día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 13 DE JULIO DE 2001
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado " La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Los responsables de las instalaciones a que se refiere la fracción IV del artículo 159, instrumentarán lo necesario para hacer del conocimiento de todos los servidores públicos y de la ciudadanía la obligación que prevé esta ley, a más tardar en un plazo de 30 días naturales posteriores a la entrada en vigor de este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+El Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias que provean el exacto cumplimiento de esta Ley, en un plazo no mayor de 30 días a partir de su entrada en vigor.
