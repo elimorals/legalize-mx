@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "1992-02-27"
+last_updated: "1993-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1993.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
-PODER EJECUTIVO DEL ESTADO
+PODER EJECUTIVO DELESTADO
 
 JAIME GENOVEVO FIGUEROA ZAMUDIO, Gobernador del Estado de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -283,11 +283,21 @@ I. El Gobernador del Estado;
 
 II. El Tesorero General;
 
-III. Los Directores de Ingresos, Auditoría y Revisión Fiscal y de Catastro;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-IV. Los Jefes de las oficinas recaudadoras dentro de sus respectivas jurisdicciones; y
+III. El Subtesorero General;
 
-V. Los demás subalternos de la propia Tesorería comisionados por el titular de ésta, mediante instrucciones por escrito.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+IV. Los Directores de: Ingresos, Auditoría y Revisión Fiscal, Catastro y el Vocal Ejecutivo del Instituto Catastral y Registral;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+V. Los Jefes de las Oficinas Recaudadoras dentro de sus respectivas jurisdicciones; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+VI. Los demás subalternos de la propia Tesorería, comisionados por el Titular de ésta, mediante instrucciones por escrito.
 
 ###### ARTICULO 27.
 
@@ -373,9 +383,11 @@ II. Cuando desaparezca o resulte insuficiente la garantía del Interés Fiscal o
 
 III. Cuando el contribuyente sea declarado en quiebra o solicite su liquidación judicial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 30.
 
-Los demás servidores públicos del Ramo Hacendario, tendrán las facultades que establece este Código y las ejercerán de conformidad al ámbito de competencia que les señale.
+Los demás servidores públicos del ramo hacendario, tendrán las facultades que establece este Código, el Reglamento Interior de la Tesorería y demás disposiciones legales inherentes, las que ejercerán de conformidad al ámbito de competencia que les señalen.
 
 ###### ARTICULO 31.
 
@@ -565,7 +577,9 @@ I. La omisión sea descubierta por las autoridades fiscales;
 
 II. La omisión haya sido corregida por el contribuyente después de que haya mediado requerimiento o cualquier otra gestión notificada por las autoridades fiscales, tendientes a la comprobación del cumplimiento de disposiciones fiscales; y
 
-III. Vencido el plazo que se establezca para la realización de los trámites vehiculares.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+III. Haya transcurrido el plazo que se establezca para la prestación de los servicios de control vehicular a que se refiere el artículo 185 de la Ley de Hacienda del Estado de Michoacán.
 
 ###### ARTICULO 57.
 
@@ -669,31 +683,11 @@ A quien cometa cualquiera de las infracciones señaladas en el artículo anterio
 
 ###### ARTICULO 67.
 
-Son infracciones relacionadas con el impuesto sobre Espectáculos Públicos, previstos por la ley, las siguientes:
-
-I. No presentar el aviso de cambio de domicilio, suspensión de actividades, traspaso o clausura, ante la Tesorería, si la celebración del espectáculo es en establecimiento fijo;
-
-II. No presentar ante la Tesorería el permiso o licencia expedida por la autoridad municipal, para la celebración del evento, cuando la celebración del mismo sea ocasional;
-
-III. No presentar para su resello ante la Tesorería, el boletaje emitido para cada función, respecto de eventos ocasionales;
-
-IV. No permitir a los interventores que designe la Tesorería la verificación y determinación del impuesto y su pago; y
-
-V. No entregar el boletaje resellado sobrante, a la Tesorería, por conducto del interventor designado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 68.
 
-A quien cometa las infracciones a que se refiere el Artículo anterior, se impondrán las siguientes multas:
-
-I. A las comprendidas en las fracciones I y II del equivalente a 5 días de salario mínimo diario vigente en la región;
-
-II. A la comprendida en la fracción III del equivalente al 10 % del impuesto que se determine;
-
-III. A la comprendida en la fracción IV, del equivalente al 50 % del impuesto que se determine mediante estimación; y
-
-IV. A la comprendida en la fracción V, del equivalente al monto del impuesto que se hubiera determinado por el valor de dicho boletaje.
-
-Cuando el contribuyente de este impuesto incurra en más de una de las infracciones a que se refiere el artículo anterior, se le impondrá la sanción más alta que corresponda a aquellas en que se incurra.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 69.
 
@@ -709,19 +703,25 @@ IV. No exhibir el documento que acredite la baja de las placas particulares al s
 
 V. No revalidar las concesiones de servicio público; y
 
-VI. No renovar la tarjeta de control vehicular de servicio público.
+VI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 70.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán las sanciones expresadas en el equivalente a los días de salario mínimo diario vigente en la región en la fecha en que las infracciones se cometan conforme a lo siguiente:
 
-I. Del equivalente a 6 días de salario mínimo vigente, a la comprendidas en la fracción I;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-II. Del equivalente a 5 días de salario mínimo vigente, a las comprendida (sic) en las fracciones II y VI;
+I.- Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I y II;
 
-III. Del equivalente a 8 días de salario mínimo vigente, a las comprendidas en las fracciones III y IV; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-IV. Del equivalente a 7 días de salario mínimo vigente, a la comprendida en la fracción V.
+II.- Del equivalente a 8 días de salario mínimo vigente, a las comprendidas en las fracciones III y IV;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+III.- Del equivalente a 7 días de salario mínimo vigente, a la comprendida en la fracción V; y
+
+IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 71.
 
@@ -735,7 +735,9 @@ III. No renovar la tarjeta de circulación y calcomanía para vehículos automot
 
 IV. No obtener la licencia de manejo;
 
-V. No devolver en la baja de vehículo automotor o remolque:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+V. No devolver, al realizar los trámites de baja o canje general;
 
 a) Una placa.
 
@@ -747,13 +749,21 @@ VI. No realizar el trámite de reposición de tarjetas de circulación en caso d
 
 VII. No presentar la baja del vehículo automotor o remolque.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado en la fracción VI del artículo 190 de la Ley de Hacienda del Estado de Michoacán.
+
 ###### ARTICULO 72.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán sanciones expresadas en el equivalente a los días de salario mínimo vigente en la región en la fecha en que las infracciones se cometan, conforme a lo siguiente:
 
-I. Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I y III;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-II. Del equivalente a 1 día de salario mínimo vigente, a las comprendidas en las fracciones II, IV, VI y VII; y
+I. Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I, II, III y VIII;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+II. Del equivalente a 1 días (sic) de salario mínimo vigente, a las comprendidas en las fracciones IV, VI y VII; y
 
 III. Del equivalente de 2 a 4 días de salario mínimo vigente, a la comprendida en la fracción V incisos a) y b) respectivamente.
 
@@ -1095,7 +1105,9 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 Las notificaciones de los actos administrativos se harán:
 
-I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informe o documentos de actos administrativos que puedan ser recurridos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
@@ -1127,7 +1139,9 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que éstos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible en dicho domicilio, debiendo el notificador asentar razón de tal circunstancia, para dar cuenta al jefe de la oficina exactora.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el Reglamento para el Cobro de Honorarios y Gastos de Ejecución.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrarán a quien incurra en el incumplimiento, los honorarios de notificación, equivalentes a dos veces el salario mínimo general correspondiente al Estado de Michoacán, debiendo cubrirse conjuntamente con el cumplimiento de la obligación requerida.
 
 ###### ARTICULO 117.
 
@@ -1255,11 +1269,33 @@ III. Los motivos y fundamentos por los que se le considera responsable del créd
 
 IV. El plazo para el pago que será de quince días, salvo que la ley señale otro.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 132.
 
-Las personas físicas y morales, están obligadas a pagar los gastos de ejecución que señale el Reglamento para el Cobro y Aplicación de Gastos de Ejecución de Créditos Fiscales Estatales, y en su caso, las erogaciones extraordinarias señaladas en este artículo, cuando para hacer efectivo el crédito sea necesario emplear el procedimiento administrativo de ejecución.
+Las personas físicas y morales, están obligadas a pagar el 3% del crédito fiscal por concepto de gastos de ejecución por cada una de las diligencias que se indican a continuación:
+
+I. Por el requerimiento a que se refiere el primer párrafo del Artículo 133 del presente Código;
+
+II. Por la de embargo a que se refiere la fracción I del Artículo 133 de este Código, incluyendo los señalados en los Artículos 120 fracción V y 126 del propio Código;
+
+III. Por la de remate, enajenación fuera de remate o adjudicación al Fisco Estatal a que se refiera la fracción I del Artículo 133 del presente ordenamiento;
+
+Cuando en los casos de las fracciones anteriores, el 3% del crédito sea inferior a tres veces el salario mínimo general correspondiente al Estado de Michoacán, se cobrará esta cantidad en lugar del 3% del crédito.
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general correspondiente al Estado de Michoacán, elevando al año.
+
+Para los efectos del penúltimo párrafo de este artículo, las autoridades de las oficinas Recaudadoras del Estado, determinarán y cobrarán el monto de los gastos extraordinarios que deba pagar el contribuyente, acompañando copia de los documentos que acrediten dicho monto.
+
+Los honorarios de los depositarios incluirán los reembolsos por gastos de guarda y conservación del bien. Cuando los bienes se depositen en las oficinas recaudadoras no se causarán honorarios.
+
+No se cobrarán los gastos de ejecución a que se refiere este artículo, cuando los créditos fiscales respecto de los cuales se aplicó el procedimiento administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente o cuando se interponga recurso de oposición al procedimiento administrativo de ejecución, hasta en tanto se resuelva dicho recurso, en su caso.
+
+Los honorarios por notificación de requerimientos y los gastos de ejecución improcedentes que se hayan cobrado y distribuido, serán devueltos de la recaudación por estos conceptos con base en las resoluciones que dicte la autoridad competente.
 
 Las erogaciones extraordinarias únicamente podrán comprender los gastos de transporte, inscripción en el Registro Público de la Propiedad y del Comercio, del embargo de bienes raíces y negociaciones, certificados de gravamen, así como, los de impresión y publicación de convocatorias y los honorarios de depositarios, de interventores y peritos.
+
+La autoridad recaudadora vigilará que las erogaciones extraordinarias a que se refiere el párrafo anterior, sean las estrictamente indispensables y que no excedan a las contraprestaciones normales del mercado, debiendo contratar a las personas que designe el deudor, salvo que a juicio del jefe de la oficina ejecutora, la persona propuesta no tenga los medios para prestar el servicio o exista peligro de que el depositario se ausente, enajene, oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con las contribuciones omitidas y los demás accesorios, en los términos de las disposiciones de este Código, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
 
@@ -1417,7 +1453,7 @@ Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la ofic
 
 ###### ARTICULO 150.
 
-El interventor administrador, tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias y querellas y desistirse de estas últimas, previo acuerdo de la oficina ejecutora, así como otorgar los poderes generales o especiales que juzgue convenientes, revocar los otorgados por la sociedad intervenida y los que el mismo hubiere conferido.
+El interventor administrador, tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias y querellas y desistirse de éstas últimas, previo acuerdo de la oficina ejecutora, así como otorgar los poderes generales o especiales que juzgue convenientes, revocar los otorgados por la sociedad intervenida y los que el mismo hubiere conferido.
 
 El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
 
@@ -1595,7 +1631,7 @@ El producto obtenido del remate, enajenación o adjudicación de los bienes al f
 
 En tanto no se hubieren rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
 
-Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor de los bienes determinado conforme al artículo 157 de este Código, se aplicará a cubrir los adeudos que se generarán por este concepto.
+Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por almacenaje sea igual o superior al valor de los bienes determinado conforme al artículo 157 de este Código, se aplicará a cubrir los adeudos que se generarán por este concepto.
 
 ###### ARTICULO 176.
 
@@ -1622,3 +1658,11 @@ DIPUTADO PRESIDENTE.- JOSE MOISES HERNANDEZ PAQUE.- DIPUTADO SECRETARIO.- ABRAHA
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 3 tres días del mes de febrero de 1992 mil novecientos noventa y dos.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- DR. JAIME GENOVEVO FIGUEROA ZAMUDIO.- EL SECRETARIO DE GOBIERNO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
