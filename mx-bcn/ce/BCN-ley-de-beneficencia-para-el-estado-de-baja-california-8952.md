@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-beneficencia-para-el-estado-de-baja-california-8952"
 country: "mx"
 rank: "ley"
 publication_date: "1954-06-20"
-last_updated: "1980-09-20"
+last_updated: "1983-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de junio de 1954.
 
@@ -45,39 +45,25 @@ DE LA ASISTENCIA PUBLICA
 
 Se establece el "Patronato de la Asistencia Pública en el Estado de Baja California" con personalidad jurídica propia y capacidad para realizar todos los actos necesarios para el desempeño de sus funciones. Consecuentemente puede adquirir y poseer toda clase de bienes por cualquiera de los medios admitidos en derecho y disfrutar de los privilegios y exenciones en los términos que marca la presente Ley.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1983)</small>
 
 ###### Artículo 2.
 
 El Patronato de la Asistencia Pública del Estado tendrá por objeto:
 
-1.- La fundación y mantenimiento de hospitales, comedores públicos, casas hogar, escuelas, casas de maternidad, casas de trabajo, hospicios asilos, manicomios, casas de huérfanos, cajas de ahorros, montepíos, explotaciones de economía mixta, y en general de centros o unidades de asistencia pública;
+I.- La fundación y mantenimiento de hospitales, comedores públicos, casas hogar, escuelas, casas de maternidad, casas de trabajo, hospicios, asilos, manicomios, casas de huérfanos, cajas de ahorros, montepíos, explotaciones de economía mixta, y en general de centros o unidades de asistencia pública;
 
-2.- La realización de toda clase de actividades de asistencia pública dentro de las normas y procedimientos fijados en esta Ley y sus reglamentos;
+II.- La realización de toda clase de actividades de asistencia pública dentro de las normas y procedimientos fijados en esta Ley y sus Reglamentos;
 
-3.- La organización o vigilancia de ferias, festivales, colectas, y, en general actos encaminados a recaudar fondos para la Asistencia Pública;
+III.- La organización o vigilancia de ferias, festivales, colectas, y en general actos encaminados a recaudar fondos para la Asistencia Pública;
 
-4.- La conservación y cuidado de su patrimonio así como el control administrativo de centros asistenciales y el manejo de fondos que reciba para garantizar su correcta inversión; y
+IV.- La conservación y cuidado de su patrimonio así como el control administrativo de centros asistenciales y el manejo de fondos que reciba para garantizar su correcta inversión;
 
-5.- La representación legal de la Beneficencia Pública en los juicios sucesorios en que ésta tenga interés, en relación a los casos previstos por los artículos 1636 y 1637 del Código Civil vigente en el Estado; y
+V.- La protección, ayuda, atención y orientación de personas en edad avanzada. A este efecto, promoverá la utilización de sus servicios en actividades propias de su condición, procurará su incorporación a las instituciones de seguridad social en lo relativo a conservación de sus salud, y estudiará los problemas derivados de la vejez con el fin de presentar soluciones en lo que ello sea factible;
 
-6.- Todo lo demás que las Leyes y Reglamentos le señalen.(REFORMADO, P.O. 20 DE JULIO DE 1974)
+VI.- La representación legal de la Beneficencia Pública en los juicios sucesorios en que ésta tenga interés, en relación a los casos previstos por los Artículos 1523 y 1524 del Código Civil vigente en el Estado; y
 
-###### Artículo 2.
-
-El Patronato de la Asistencia Pública del Estado tendrá por objeto:
-
-I.- La fundación y mantenimiento de hospitales, comedores públicos, casas hogar, escuelas, casas de maternidad, casas de trabajo, hospicios asilos, manicomios, casas de huérfanos, cajas de ahorros, montepíos, explotaciones de economía mixta, y en general de centros o unidades de asistencia pública;
-
-II.- La realización de toda clase de actividades de asistencia pública dentro de las normas y procedimientos fijados en esta Ley y sus reglamentos;
-
-III.- La organización o vigilancia de ferias, festivales, colectas, y, en general actos encaminados a recaudar fondos para la Asistencia Pública;
-
-IV.- La conservación y cuidado de su patrimonio así como el control administrativo de centros asistenciales y el manejo de fondos que reciba para garantizar su correcta inversión; y
-
-V.- La representación legal de la Beneficencia Pública en los juicios sucesorios en que ésta tenga interés, en relación a los casos previstos por los Artículos 1523 y 1524 del Código Civil vigente en el Estado; y
-
-VI.- Todo lo demás que las Leyes y Reglamentos le señalen.
+VII.- Todo lo demás que las Leyes y Reglamentos le señalen.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
@@ -1736,3 +1722,7 @@ P.O. 20 DE SEPTIEMBRE DE 1980.
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
 
 SEGUNDO.- Los Patronos nombrados con base en la presente reforma durarán en su encargo por esta única ocasión, hasta el día 31 de Octubre de 1983.
+
+P.O. 20 DE JULIO DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
