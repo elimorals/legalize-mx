@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2001-12-14"
+last_updated: "2002-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2002.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -603,9 +603,13 @@ XII.- Supervisar las actividades que desarrollen los Jueces Calificadores;
 
 XIII.- Ejercer las atribuciones que correspondan al gobierno municipal, en materia de control de la venta, almacenaje y consumo de bebidas con graduación alcohólica;
 
-XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y,
+XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic),
 
-XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento.
+XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2002)</small>
+
+XVI.- Expedir certificaciones de los documentos que obren en archivos de las dependencias de la administración pública centralizada.
 
 ###### ARTICULO 41.
 
@@ -2470,3 +2474,9 @@ José Braulio González González
 Ana Imelda Corella Torres
 
 David Montaño Córdova
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2002.
+
+TRANSITORIO UNICO: LA PRESENTE MODIFICACION ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO."
