@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1995-07-14"
+last_updated: "1996-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE OCTUBRE DE 1996.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -831,11 +831,11 @@ XLV.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 22 DE OCTUBRE DE 1996)</small>
 
-80.- La Administración Pública de Baja California Sur será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas y Administración, un Secretario de Desarrollo y Fomento Económico, un Secretario de Planeación Urbana e Infraestructura, un Secretario de Educación Pública, un Procurador General de Justicia, las Unidades Administrativas de Turismo y de la Contraloría General y definirá las bases para la creación de las entidades paraestatales y la intervención del Ejecutivo Estatal en su operación.
+80.- La administración pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas y Administración, un Secretario de Desarrollo y Fomento Económico, un Secretario de Planeación Urbana e Infraestructura, un Secretario de Salud, un Secretario de Educación Pública, un Procurador General de Justicia, las Unidades Administrativas de Turismo y de la Contraloría General y definirá las bases para la creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
 
-Las Leyes determinarán las relaciones entre las entidades paraestatales y el Gobernador y por el funcionario del ramo relativo.
+Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
 
 > <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
@@ -2038,3 +2038,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los Magistrados numerarios y supernumerarios que actualmente integran el Tribunal Estatal de lo Contencioso Electoral podrán ser propuestos y designados para ocupar esos cargos, conforme a lo que dispone el presente Decreto.
+
+B.O. 22 DE OCTUBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
