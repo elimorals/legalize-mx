@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1952-01-18"
+last_updated: "1954-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,15 +21,15 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1954.
 
-Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
+Ley publicada en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
 El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
 
 "PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
+Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
@@ -903,9 +903,11 @@ Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se r
 
 Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 163.
 
-La mujer debe vivir al lado de su marido. Los Tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido translade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrá (sic) eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
 
 ###### ARTICULO 164.
 
@@ -929,17 +931,23 @@ En caso de que el marido y la mujer no estuvieren conforme sobre alguno de los p
 
 Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 169.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior, ni se dañe la moral de la familia o la estructura de ésta.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ###### ARTICULO 170.
 
-El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que funde su oposición en las causas que el mismo señala. En todo caso el juez resolverá lo que sea procedente.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
 ###### ARTICULO 171.
 
-En caso de que la mujer insista en usar de los derechos que le concede el artículo 169, no obstante de que el marido se los rehuse apoyando en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+La mujer podrá oponerse a que el marido desempeñe algún trabajo que lesione la moral o la estructura de la familia. En todo caso el juez resolverá lo que sea procedente.
 
 ###### ARTICULO 172.
 
@@ -1523,7 +1531,9 @@ Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán 
 
 I.- Separar a los cónyuges en todo caso;
 
-II.- Depositar en casa de persona de buenas costumbres a la mujer, si se dice que ésta ha dado causa al divorcio, y el marido pidiere el depósito. La casa que para esto se destine será designada por el juez. Si la causa por la que se pide el divorcio no supone culpa en la mujer, ésta no se depositará sino a solicitud suya;
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1954)</small>
+
+II.- Proceder por cuanto a depósito o separación de los cónyuges en los términos del capítulo III, título V del Código de Procedimientos Civiles.
 
 III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
@@ -1995,9 +2005,11 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 El Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 372.
 
-La mujer casada no podrá reconocer sin el consentimiento del marido a un hijo habido antes de su matrimonio.
+La mujer casada podrá reconocer sin el consentimiento del marido a su hijo habido antes de su matrimonio; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso del esposo.
 
 ###### ARTICULO 373.
 
@@ -2273,9 +2285,11 @@ El que está sujeto a la patria potestad no puede comparecer en juicio, ni contr
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 426.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 ###### ARTICULO 427.
 
@@ -2611,9 +2625,11 @@ Los hijos mayores de edad son tutores de su padre o madre viudos.
 
 Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el juez elegirá al que le parezca más apto.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+
 ###### ARTICULO 489.
 
-El padre, y por muerte o incapacidad de éste, la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
 
 ###### ARTICULO 490.
 
@@ -11664,3 +11680,7 @@ Los bienes adquiridos antes de la vigencia de la Ley de Relaciones Familiares, p
 ###### ARTICULO 5o.
 
 Quedan derogadas las disposiciones del Código Civil de 1932, que se opongan al presente decreto.
+
+D.O.F. 9 DE ENERO DE 1954.
+
+El presente decreto entrará en vigor diez días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
