@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2001-02-02"
+last_updated: "2001-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -9837,9 +9837,11 @@ En los casos previstos por los artículos 1807, 1808 y 1809, el que sufra el da�
 
 El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Artículo 1812.
 
-El Estado tiene obligación de responder de los daños y perjuicios causados por sus funcionarios en el ejercicio de las funciones que les están encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva contra el Estado, cuando el funcionario directamente responsable no tenga bienes, o los que tenga no sean suficientes para responder del daño causado.
+El Estado tiene obligación de responder del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que legalmente les estén encomendadas. Esta responsabilidad será solidaria tratándose de actos ilícitos dolosos, y subsidiaria en los demás casos, en los que sólo podrá hacerse efectiva en contra del Estado cuando el servidor público directamente responsable no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados por sus servidores públicos.
 
 ###### Artículo 1813.
 
@@ -15938,3 +15940,9 @@ No obstante, si en las adopciones que actualmente se tramitan hubiere la volunta
 ###### ARTÍCULO CUARTO.
 
 Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa."
