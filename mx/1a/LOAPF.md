@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1978-12-08"
+last_updated: "1980-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -270,7 +270,11 @@ XXV.- Formular y conducir la política demográfica, salvo lo relativo a coloniz
 
 XXVI.- Organizar la defensa y prevención social contra la delincuencia, estableciendo en el Distrito Federal un Consejo Tutelar para menores infractores de más de seis años e instituciones auxiliares; creando colonias penales, cárceles y establecimientos penitenciarios en el Distrito Federal y en los Estados de la Federación, mediante acuerdo con sus Gobiernos, ejecutando y reduciendo las penas y aplicando la retención por delitos del orden federal o común en el Distrito Federal.
 
-XXVII.- Manejar el calendario oficial;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1980)</small>
+
+XXVII.- Fijar el Calendario Oficial.
+
+Regular las vacaciones y horarios de labores de los trabajadores de la Administración Pública Federal.
 
 XXVIII.- Rendir las informaciones oficiales del Ejecutivo de la Unión;
 
@@ -464,7 +468,11 @@ XVI.- Intervenir en los actos o contratos relacionados con las obras de construc
 
 XVII.- Intervenir en la inversión de los subsidios que concede la Federación a los Gobiernos de los Estados, municipios, instituciones o particulares, cualesquiera que sean los fines a que se destine, con objeto de comprobar que se efectúa en los términos establecidos, y
 
-XVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1980)</small>
+
+XVIII.- En materia de administración y desarrollo de personal de la Administración Pública Federal, intervenir en los tabuladores generales e institucionales de sueldos, catálogos general e institucionales de puestos, compactación de plazas, compatibilidad de empleos y control de comisionados, registro del personal civil del Gobierno Federal y procedimientos para el pago de remuneraciones, así como proyectar normas sobre la estructura presupuestal de las remuneraciones.
+
+XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
 
 ###### ARTICULO 33.
 
@@ -700,7 +708,7 @@ XXI.- Inspeccionar los servicios de la marina mercante;
 
 XXII.- Construir, reconstruir y conservar las obras portuarias e intervenir en todo lo relacionado con faros y señales marítimas;
 
-XXIII.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios; los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación, para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
+XXIII.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación, para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
 
 XXIV.- Los demás que expresamente le fijen las leyes y reglamentos.
 
@@ -766,9 +774,9 @@ c) La enseñanza técnica, industrial, comercial y de artes y oficios, incluida 
 
 d) La enseñanza agrícola, con la cooperación de la Secretaría de Agricultura y Recursos Hidráulicos.
 
-e) La enseñanza superior y profesional;
+e) La enseñanza superior y profesional.
 
-f) La enseñanza deportiva y militar, y la cultura física en general.
+f) La enseñanza deportiva y militar, y la cultura física en general;
 
 II.- Organizar y desarrollar la educación artística que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
 
@@ -1111,3 +1119,7 @@ TERCERO.- Los recursos materiales y financieros de las direcciones a que se refi
 CUARTO.- Los asuntos en trámite al entrar en vigor este decreto serán despachados por la Secretaría de Comercio.
 
 QUINTO.- Este decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
