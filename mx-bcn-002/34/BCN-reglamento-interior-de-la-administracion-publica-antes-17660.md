@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-04-09"
+last_updated: "2004-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -617,7 +617,7 @@ XIII.- Ejercer las atribuciones que correspondan al gobierno municipal, en mater
 
 XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic),
 
-XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento;
+XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2002)</small>
 
@@ -1903,73 +1903,29 @@ VI.- Promover e incrementar las relaciones entre el Municipio, con otros naciona
 
 VII.- Propiciar y promover la participación directa, o los donativos de instituciones públicas o privadas, en la implementación de acciones conjuntas o de colaboración con el gobierno municipal.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 108.
 
-La Dirección de Fomento Deportivo tendrá las siguientes atribuciones:
-
-I.- Proyectar y ejecutar programas deportivos para la población en general, de acuerdo con las bases previstas en la Ley y reglamentos de la materia;
-
-II.- Promover la participación de la comunidad en actividades deportivas;
-
-III.- Administrar las instalaciones deportivas a cargo del gobierno municipal;
-
-IV.- Promover y organizar el uso de las instalaciones deportivas a que se refiere la fracción anterior; y,
-
-V.- Promover e impulsar la participación de la comunidad en la recreación deportiva.
+(DEROGADO, P.O. 7 DE MAYO DE 2004)
 
 ### CAPITULO DECIMO QUINTO. DE LA DIRECCION DE CULTURA
 
 ###### ARTICULO 109.
 
-La Dirección de Fomento Deportivo para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá a su cargo los siguientes departamentos:
-
-I.- Deporte Popular;
-
-II.- Iniciación y Recreación Deportiva, y
-
-III.- Administración de Instalaciones.
+(DEROGADO, P.O. 7 DE MAYO DE 2004)
 
 ###### ARTICULO 110.
 
-El Departamento de Deporte Popular se encargará de:
-
-I.- Promover la práctica del deporte por la población en general, y organizar eventos y torneos deportivos para ésta;
-
-II.- Establecer coordinación y vinculación con instituciones y organizaciones deportivas, para intercambiar información y acordar el uso de estaciones deportivos a cargo del gobierno municipal;
-
-III.- Promover apoyos para la práctica y organización de eventos deportivos;
-
-IV.- Establecer un registro sobre el resultado de las actividades deportivas de la dependencia; y,
-
-V.- Planear el uso de instalaciones deportivas a cargo del gobierno municipal, por organizaciones e instituciones deportivas.
+(DEROGADO, P.O. 7 DE MAYO DE 2004)
 
 ###### ARTICULO 111.
 
-El Departamento de Iniciación y Recreación Deportiva, tendrá las siguientes atribuciones:
-
-I.- Promover y efectuar programas de recreación deportiva para la comunidad;
-
-II.- Promover y organizar la creación y operación de centros de iniciación deportiva;
-
-III.- Organizar convivencias deportivo-recreativas para la comunidad;
-
-IV.- Promover, organizar y ejecutar los programas recreativas (sic) vacacionales; y,
-
-V.- Fomentar la presencia en las comunidades del Municipio, de deportistas destacados para impulsar la práctica del deporte.
+(DEROGADO, P.O. 7 DE MAYO DE 2004)
 
 ###### ARTICULO 112.
 
-El Departamento de Administración de Instalaciones se encargará de:
-
-I.- El Mantenimiento general de las instalaciones deportivas a cargo del gobierno municipal;
-
-II.- Administrar los espacios deportivos a cargo del gobierno municipal;
-
-III.- Promover el uso de los espacios deportivos mencionados en las fracciones anteriores;
-
-IV.- Asegurar la disposición de tiempos y espacios en las instalaciones deportivas a cargo de gobierno municipal, para el desarrollo de programas y eventos convocados por la dependencia, o en apoyo a otras instituciones u organizaciones; y,
-
-V.- Promover acciones o actividades que fortalezcan la capacidad de uso y administración de las instalaciones deportivas a cargo del gobierno municipal.
+(DEROGADO, P.O. 7 DE MAYO DE 2004)
 
 ### CAPITULO DECIMO SEXTO. DE LAS DELEGACIONES MUNICIPALES
 
@@ -2678,3 +2634,7 @@ P.O. 26 DE MARZO DE 2004.
 P.O. 9 DE ABRIL DE 2004.
 
 ÚNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 7 DE MAYO DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
