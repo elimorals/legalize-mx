@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2000-12-31"
+last_updated: "2002-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -1112,7 +1112,9 @@ Cuando las autoridades Estatales o Municipales que en el ejercicio de sus atribu
 
 Por su parte, cuando la Contaduría Mayor de Hacienda de un Congreso Local detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Contaduría Mayor de Hacienda de la Cámara de Diputados del Congreso de la Unión.
 
-Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la Hacienda Pública Federal en que, en su caso, incurran las autoridades Locales o Municipales exclusivamente por motivo de la desviación de los recursos recibidos de los Fondos señalados, para fines distintos a los previstos en este Capítulo, serán sancionadas en los términos de la legislación federal, por las autoridades Federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en sus propias leyes.
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2002)</small>
+
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos federales o locales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas por las autoridades federales o locales, según corresponda conforme a las etapas a que se refiere este artículo, de conformidad con sus propias legislaciones.
 
 ## TRANSITORIOS
 
@@ -1462,7 +1464,7 @@ TERCERO.- Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12
 
 D.O.F. 15 DE DICIEMBRE DE 1995.
 
-Disposiciones Transitorias de la Ley de Coordinación Fiscal
+Disposiciones Transitorias de la Ley de Coordinación Fiscal.
 
 Artículo Décimo Tercero.- En relación con las modificaciones a que se refiere el Artículo Décimo Segundo que antecede, se estará a lo siguiente:
 
@@ -1579,3 +1581,11 @@ h) El artículo Primero Transitorio del Acuerdo a la Secretaría de Hacienda y C
 i) El Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para la Colaboración Administrativa de este último en Materia Fiscal Federal, publicado en el Diario Oficial de la Federación de 23 de mayo de 1997.
 
 TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
+
+D.O.F. 13 DE MARZO DE 2002.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+Artículo Tercero.- En relación con la reforma a que se refiere el ARTICULO TERCERO del presente Decreto, los asuntos relativos a las responsabilidades administrativas, civiles y penales en que hubieren incurrido las autoridades locales o municipales, con motivo de la desviación de recursos federales recibidos y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse de conformidad con las disposiciones vigentes al momento en que se cometió la irregularidad.
