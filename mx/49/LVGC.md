@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1945-02-21"
+last_updated: "1946-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1946.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -1022,15 +1022,25 @@ Los concesionarios de Vías Generales de Comunicación, contribuirán para los g
 
 ### CAPITULO XI. Reglas generales
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 124.
 
-Los servicios que presten en relación con las vías generales de comunicación y medios de transporte, tales como maniobras de carga, descarga, alijo, almacenaje, transbordo, estiba, desestiba, etc., se considerarán como servicios públicos conexos en dichas vías; por lo tanto, se necesitará permiso de la Secretaría de Comunicaciones para realizarlos, el cual sólo se otorgará a sociedades cooperativas o mercantiles organizadas legalmente para desempeñar el servicio público de maniobras, debiendo preferirse en todo caso a las sociedades cooperativas en los términos de la ley de la materia. Las empresas de maniobras, cualquiera que sea el tipo de organización que adopten, quedarán sujetas, asimismo, a la jurisdicción de la propia Secretaría en lo que respecta a tarifas, clasificaciones de efectos, responsabilidad por demoras, pérdidas, mermas, averías, etc., y en general en todo lo que se refiera a sus relaciones con el público. Sus tarifas, reglamentos de servicio, etc., podrán ser revisados, modificados, adicionados o derogados de acuerdo con lo que sobre el particular determine la misma Secretaría y tendrán obligación de mandar un informe anual de acuerdo con lo prevenido en el artículo 120, quedando sujetas, igualmente, a la inspección a que se refiere el capítulo X del Libro Primero de esta ley.
+Los servicios que se presten en relación con las vías generales de comunicación y medios de transporte, tales como maniobras de carga, descarga, alijo, almacenaje, transbordo, estiba, desestiba, checadura, acarreo, etc., se considerarán como servicios públicos conexos con dichas vías generales de comunicación y, en consecuencia, será necesario obtener permiso de la Secretaría de Comunicaciones y Obras Públicas para realizarlos.
 
-En el reglamento respectivo se determinará la extensión de las maniobras que amparen las cuotas respectivas, la forma de mejorar los equipos o sistemas que se adopten, las horas en que deban realizarse los servicios y, en general, todas las disposiciones que tiendan a la mejor realización de éstos.
+Las agrupaciones que presten estos servicios, cualquiera que sea el tipo de organización que adopten, quedarán sujetos a la jurisdicción de la propia Secretaría por lo que se refiere a tarifas, clasificaciones de efectos, responsabilidades por demoras, pérdidas, mermas, averías y, en general, para todo lo relativo a sus relaciones con el público. Sus tarifas y reglamentos de servicio, podrán ser revisados, modificados, adicionados o cancelados de acuerdo con lo que sobre el particular determine la Secretaría, y previo los estudios que para el efecto se lleven a cabo. Las empresas permisionarias tendrán obligación de mandar un informe anual de acuerdo con lo prevenido en el artículo 120 quedando sujetos igualmente, a la inspección a que se refiere el Capítulo X del Libro Primero de esta Ley.
 
-Las cooperativas de maniobras no celebrarán contratos de trabajo con particulares o empresas respecto a la prestación de los servicios autorizados.
+La suspensión ilegal de los servicios de maniobras y la resistencia de los maniobristas para reanudarlos cuando así lo ordene la Secretaría de Comunicaciones, previa investigación, serán causa para que se cancele el permiso otorgado a la organización de que se trate y se autorice a otra u otras organizaciones para prestar los servicios de maniobras en el lugar en que opere la agrupación mencionada.
 
-Las relaciones entre las empresas que realicen el servicio público de maniobras y que no tengan el carácter de cooperativas, y sus trabajadores, se regirán por las disposiciones de la Ley Federal del Trabajo.
+Si las agrupaciones de trabajadores que ejecuten los servicios mencionados en el presente artículo, celebran contratos de trabajo en los términos establecidos por la Ley Federal de Trabajo, consignarán en ellos, bajo pena de nulidad de toda cláusula contraria, cuotas, condiciones iguales a las que se fijen las tarifas autorizadas por la Secretaría de Comunicaciones y Obras Públicas. En las indicadas cuotas quedarán incluídas las prestaciones adicionales, como pago de séptimo día, vacaciones y demás puntos de acuerdo con la citada Ley.
+
+Las cuotas por servicios prestados en horas extraordinarias también serán fijadas por la Secretaría de Comunicaciones dentro de la tarifa respectiva.
+
+El reglamento de este artículo determinará la extensión de las maniobras que amparen las cuotas de tarifa, la forma de mejorar los sistemas de trabajo que se adopten, las horas en que deben realizarse los servicios de acuerdo con las autoridades marítimas del lugar y, en general, todas las disposiciones que tiendan a la mejor prestación de éstos.
+
+Las relaciones entre las empresas y sus trabajadores respecto al servicio público de maniobras, se regirán por las disposiciones de la Ley Federal del Trabajo.
+
+Se considerarán también como conexos con las vías generales de comunicación y sujetos, en consecuencia, a las disposiciones de este artículo, los servicios que se presten al público por empresas individuales o colectivas que, sin contar con vehículos propios, se encarguen habitualmente del transporte de artículos de cualquiera naturaleza, haciendo uso de dichas vías generales de comunicación.
 
 ###### ARTICULO 125.
 
@@ -4135,6 +4145,10 @@ D.O.F. 10 DE AGOSTO DE 1944.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 21 DE FEBRERO DE 1945.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE MARZO DE 1946.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
