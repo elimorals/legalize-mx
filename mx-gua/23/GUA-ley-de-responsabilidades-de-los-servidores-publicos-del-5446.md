@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-de-los-servidores-publicos-del-5446"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1987-01-27"
+last_updated: "1987-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 3 de abril de 1984.
 
@@ -135,7 +135,9 @@ Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Ju
 
 Para proceder penalmente en contra de los funcionarios a que se refiere el artículo anterior, se requerirá que el Procurador General de Justicia del Estado, una vez integrada la averiguación, formule la solicitud correspondiente al Congreso del Estado.
 
-Cuando sea el Procurador de Justicia a quien se pretenda enjuiciar, el Gobernador del Estado será quien haga la solicitud.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+Cuando sea el Procurador General de Justicia a quien se pretenda enjuiciar, el Gobernador del Estado será quien haga la solicitud.
 
 ###### ARTICULO 15.
 
@@ -432,3 +434,9 @@ P.O. 27 DE ENERO DE 1987.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
