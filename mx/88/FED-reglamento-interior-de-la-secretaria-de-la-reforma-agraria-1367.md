@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-reforma-agraria-1367
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-07-11"
-last_updated: "1995-07-11"
+last_updated: "1998-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-07-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA REFORMA AGRARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 1998.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 11 de julio de 1995.
 
@@ -37,6 +37,8 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE LA REFORMA AGRARIA
 
 La Secretaría de la Reforma Agraria, como dependencia del Poder Ejecutivo Federal, tiene a su cargo el ejercicio de las atribuciones y facultades que expresamente le encomiendan la Ley Agraria, la Ley Orgánica de la Administración Pública Federal y otras leyes, así como reglamentos, decretos, acuerdos y órdenes del Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 2o.
 
 Para el despacho de los asuntos que le competen, la Secretaría de la Reforma Agraria contará con las siguientes unidades administrativas:
@@ -49,35 +51,25 @@ Subsecretaría de Política Sectorial
 
 Oficialía Mayor
 
-Cuerpo Consultivo Agrario
-
 Dirección General de Asuntos Jurídicos
 
 Dirección General de Ordenamiento y Regularización
-
-Dirección General de Procedimientos para la Conclusión del Rezago Agrario
 
 Dirección General de Coordinación
 
 Dirección General de Información Agraria
 
-Dirección General de Programación, Organización y Presupuesto
+Dirección General de Política y Planeación Agraria
 
-Dirección General de Recursos Humanos
+Dirección General de Administración
 
 Unidad de Concertación Agraria
 
-Unidad de Contraloría Interna
-
 Unidad de Comunicación Social
 
-Coordinaciones Agrarias
+Representaciones Regionales
 
-Organo Administrativo Desconcentrado:
-
-Instituto Nacional de Desarrollo Agrario
-
-Registro Agrario Nacional
+Órgano Administrativo Desconcentrado: Registro Agrario Nacional
 
 La Secretaría contará con la Unidad de Contraloría Interna que se regirá conforme al artículo 19 de este Reglamento.
 
@@ -115,7 +107,9 @@ IX. Adscribir orgánicamente las unidades administrativas a las que se refiere e
 
 X. Ordenar la creación y presidir, en su caso, las comisiones internas, transitorias o permanentes que se requieran para el mejor despacho de los asuntos a su cargo, así como designar a los miembros que deban integrarlas;
 
-XI. Crear, modificar o suprimir las coordinaciones agrarias regionales o estatales, oficinas de servicios o cualquier otra unidad de la Secretaría, en la circunscripción territorial que juzgue conveniente, mediante acuerdos que serán publicados en el Diario Oficial de la Federación y dictar las políticas de readscripción del personal, conforme a las necesidades del servicio, de acuerdo a la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+XI. Crear, modificar o suprimir Representaciones Regionales y las Especiales que se requieran, así como las oficinas de servicio o cualquier otra unidad de la Secretaría, en la circunscripción territorial que juzgue conveniente, mediante acuerdos que serán publicados en el Diario Oficial de la Federación, y dictar las políticas de adscripción del personal, conforme a las necesidades del servicio, a la disponibilidad de recursos presupuestales autorizados y de acuerdo a la legislación aplicable;
 
 XII. Ordenar la práctica de auditorías internas en la Secretaría y en sus órganos administrativos desconcentrados;
 
@@ -131,15 +125,21 @@ XVII. Aprobar y expedir las Condiciones Generales de Trabajo de la Secretaría;
 
 XVIII. Designar a los representantes de la Secretaría en las comisiones, congresos, consejos, organizaciones, entidades e instituciones nacionales e internacionales en las que participe la misma y, en su caso, a los servidores públicos a que se refiere el artículo 33 de la Ley Federal de las Entidades Paraestatales;
 
-XIX. Publicar las resoluciones que resulten de los trabajos de deslinde que resuelvan sobre la existencia de terrenos nacionales, y expedir títulos relativos a la enajenación de los mismos;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
 
-XX. Expedir, a nombre del Ejecutivo Federal, títulos de propiedad a colonos;
+XIX. Resolver sobre la existencia de terrenos nacionales con base en los trabajos de deslinde que se practiquen, instruir su publicación y autorizar la expedición de los títulos relativos a la enajenación de los mismos;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+XX. Autorizar la expedición de títulos de propiedad a colonos;
 
 XXI. Proponer los lineamientos para la determinación de derechos y captación de fondos relacionados con la prestación de los servicios que proporcione el Sector Agrario;
 
 XXII. Expedir los lineamientos para la operación del Comité Técnico de Valuación de la Secretaría de la Reforma Agraria, a que se refiere el artículo 161 de la Ley Agraria;
 
-XXIII. Suscribir los acuerdos relativos a la conclusión de los expedientes del rezago agrario que le correspondan;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+XXIII. Autorizar la suscripción de los acuerdos, convenios o contratos necesarios para la atención y solución de problemas relacionados con la regularización de la tenencia de la tierra, en el ámbito de su competencia;
 
 XXIV. Expedir y publicar en el Diario Oficial de la Federación, el Manual de Organización General de la Secretaría y autorizar los manuales de procedimientos y de servicios que se requieran;
 
@@ -209,7 +209,9 @@ XI. Tramitar las autorizaciones de las comisiones al extranjero de los servidore
 
 XII. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación y descentralización administrativa de la Secretaría, así como los proyectos de manuales de organización, procedimientos y de servicios al público;
 
-XIII. Proponer al Secretario la creación de las coordinaciones agrarias, regionales o estatales, según sea el caso, así como las demás unidades administrativas necesarias para el cumplimiento de sus atribuciones; de igual manera podrá proponer la modificación o desaparición de dichas unidades administrativas y el nombramiento o remoción de los titulares de las mismas;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+XIII. Proponer al Secretario la creación, modificación o supresión de las Representaciones Regionales o Especiales, según sea el caso, así como las demás unidades administrativas necesarias para el cumplimiento de sus atribuciones. De igual manera podrá proponer el nombramiento o remoción de los titulares de las mismas;
 
 XIV. Coordinar la ejecución del programa interno de protección civil de la Secretaría;
 
@@ -221,19 +223,29 @@ XVII. Coordinar la actividad de las unidades administrativas centrales y territo
 
 XVIII. Resolver los recursos administrativos que conforme a las disposiciones legales y reglamentarias le correspondan, y
 
-XIX. Las demás que le determine el Secretario o le confieran otras disposiciones legales y reglamentarias, así como las que competen a las unidades administrativas que se le hubieren adscrito.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
 
-### CAPITULO V. DEL CUERPO CONSULTIVO AGRARIO
+XIX. Coordinar los trabajos, diseño, normatividad, uso y aprovechamiento de los sistemas de información de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+XX. Las demás que le determine el Secretario o le confieran otras disposiciones legales y reglamentarias, así como las que competen a las unidades administrativas que se le hubieren adscrito.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+### CAPITULO V
 
 ###### ARTICULO 8o.
 
-El Cuerpo Consultivo Agrario tiene las atribuciones que en forma expresa le confieren los artículos Tercero Transitorio del Decreto que reforma al artículo 27 Constitucional, publicado en el Diario Oficial de la Federación el 6 de enero de 1992 y Tercero Transitorio de la Ley Agraria. Su operación y funcionamiento se regirá por el reglamento que al efecto se expida.
+(DEROGADO, D.O.F. 30 DE MARZO DE 1998)
 
 ### CAPITULO VI. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 9o.
 
-Al frente de cada Dirección General habrá un titular, quien será responsable ante las autoridades superiores de su correcto funcionamiento. Estarán auxiliados por los directores adjuntos, directores y subdirectores de área, jefes de departamento y demás servidores públicos, según las necesidades del servicio y lo permita el presupuesto.
+Al frente de cada Dirección General habrá un titular, quien será responsable ante las autoridades superiores de su correcto funcionamiento. Estarán auxiliados por directores generales adjuntos, directores y subdirectores de área, jefes de departamento y demás servidores públicos, según las necesidades del servicio y la aprobación presupuestal.
 
 ###### ARTICULO 10.
 
@@ -299,15 +311,19 @@ XVII. Llevar el registro de los contratos a que se refiere la fracción anterior
 
 XVIII. Emitir opinión de los contratos, convenios, concesiones, autorizaciones y permisos que le compete celebrar, otorgar o aprobar a la Secretaría;
 
-XIX. Opinar sobre la autenticidad de los documentos en que se funden las acciones en trámite relativas a restricción, reconocimiento y titulación de bienes comunales y proveer lo necesario para l os estudios y dictámenes paleográficos que soliciten las autoridades competentes;
+XIX. (DEROGADA, D.O.F. 30 DE MARZO DE 1998)
 
-XX. Opinar sobre la eficacia de los documentos en que se funden las acciones de exclusión de propiedades particulares, enclavadas en terrenos comunales;
+XX. (DEROGADA, D.O.F. 30 DE MARZO DE 1998)
 
 XXI. Opinar en los juicios de amparo sobre el alcance y cumplimiento de las ejecutorias pronunciadas por el Poder Judicial Federal, e informar del cumplimiento que las autoridades responsables den a las mismas;
 
-XXII. Establecer sistemas y procedimientos para el mejor desempeño de las unidades jurídicas de las coordinaciones agrarias y evaluar su desempeño;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
 
-XXIII. Supervisar y coordinar el ejercicio y funciones del personal de las áreas jurídicas adscritas a las unidades administrativas de la Secretaría y opinar sobre su nombramiento y desempeño, y
+XXII. Establecer sistemas y procedimientos para el mejor desempeño de las unidades jurídicas de las representaciones regionales y especiales, y evaluar su desempeño;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+XXIII. Promover la creación de instancias interinstitucionales para el análisis y perfeccionamiento del marco jurídico agrario y proponer el programa anual de trabajo del Sector Agrario para la elaboración de proyectos de iniciativas de leyes y disposiciones reglamentarias que incidan en la materia, y
 
 XXIV. Las demás que determine el Secretario o le confieran otras disposiciones legales.
 
@@ -343,13 +359,15 @@ XIII. Revisar los contratos y concesiones realizados con individuos o compañía
 
 XIV. Realizar una revisión sistemática de todas las colonias agrícolas y ganaderas existentes. En su caso, declarar la caducidad de la declaratoria de las mismas o la cancelación de las autorizaciones correspondientes, cuando hayan dejado de cumplir el objeto para el que fueron creadas;
 
-XV. Elaborar los títulos y traslados de dominio de lotes de colonos, a fin de someterlos al acuerdo del Secretario para la expedición de los documentos respectivos;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
 
-XVI. Estudiar y dictaminar sobre las solicitudes de cambio de uso de la tierra en colonias ya establecidas, a fin de someterlas al acuerdo del Secretario;
+XV. Intervenir en la elaboración de los títulos de lotes de colonias;
+
+XVI. (DEROGADA, D.O.F. 30 DE MARZO DE 1998)
 
 XVII. Emitir los lineamientos y promover el cambio de régimen de propiedad de las colonias en los términos del artículo Octavo Transitorio de la Ley Agraria;
 
-XVIII. Establecer los mecanismos de control permanente para el cumplimiento de la legalidad en materia de límites de la propiedad rural. Independientemente del régimen de propiedad de que se trate;
+XVIII. (DEROGADA, D.O.F. 30 DE MARZO DE 1998)
 
 XIX. Verificar que las sociedades mercantiles y civiles, propietarias de tierras agrícolas, ganaderas y forestales, estén dentro de los límites de extensión de tierra permitidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -359,7 +377,7 @@ XXI. Notificar a la autoridad competente para que ésta aplique el procedimiento
 
 XXII. Investigar de oficio o a petición de parte, el acaparamiento de tierras ejidales o comunales y, en su caso, instaurar el procedimiento previsto en el artículo 47 de la Ley Agraria;
 
-XXIII. Promover, en coordinación con las entidades federativas, las acciones para la regularización de la tenencia de la propiedad privada;
+XXIII. (DEROGADA, D.O.F. 30 DE MARZO DE 1998)
 
 XXIV. Promover la regularización de los predios, adquiridos por cualquier título, propiedad de los núcleos agrarios;
 
@@ -367,33 +385,41 @@ XXV. Solicitar al Registro Agrario Nacional la ejecución de los trabajos técni
 
 XXVI. Las demás que determine el Secretario o le confieran otras disposiciones legales.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 13.
 
-La Dirección General de Procedimientos para la conclusión del Rezago Agrario, participará en la integración de los expedientes instaurados durante la vigencia de la Ley Federal de Reforma Agraria, de conformidad con los artículos Tercero Transitorio del Decreto que reforma el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 6 de enero de 1992, y la Ley Agraria, y tendrá sobre los mismos las siguientes atribuciones:
+La Dirección General de Política y Planeación Agraria tendrá las siguientes atribuciones:
 
-I. Revisar que los expedientes referentes a dotación, ampliación, restitución de tierras, bosques y aguas, nuevos centros de población ejidal y reconocimiento y titulación de bienes comunales estén debidamente integrados y turnarlos para dictamen al Cuerpo Consultivo Agrario;
+I. Formular, definir y coordinar las políticas, programas y estrategias de la Secretaría en materia de ordenamiento y regularización de la propiedad rural y promover su articulación con las correspondientes de los organismos y entidades sectorizadas;
 
-II. Continuar los procedimientos relativos a la nulidad de los acuerdos y cancelación de los certificados de inafectabilidad;
+II. Apoyar la instrumentación de las directrices, procedimientos y criterios que establezca el Secretario para el fortalecimiento de la coordinación de la Federación con las entidades federativas, en el desarrollo de los planes, programas y acciones que tiendan a la seguridad jurídica de la propiedad rural;
 
-III. Sustanciar los expedientes en trámite de restitución, reconocimiento y titulación de bienes comunales y de conflictos por límites de bines comunales y emitir la opinión correspondiente;
+III. Coordinar, apoyar y dar seguimiento a los acuerdos y compromisos que adquiera la Secretaría y sus órganos y entidades sectorizadas, entre sí, y con las autoridades estatales y municipales, en materia de ordenamiento y regularización de la propiedad rural;
 
-IV. Revisar la integración de los expedientes de división, fusión y permuta de terrenos ejidales y remitirlos para su dictamen al Cuerpo Consultivo Agrario;
+IV. Promover y coadyuvar con las autoridades estatales y municipales, en la realización de programas y acciones para el ordenamiento de la propiedad rural, mediante el aprovechamiento de los siguientes instrumentos:
 
-V. Conocer los asuntos relacionados con la accesión de aguas, y coordinar la atención de los mismos con la Secretaría del Medio Ambiente, Recursos Naturales y Pesca;
+a) El inventario de terrenos nacionales;
 
-VI. Continuar los procedimientos de nulidad de fraccionamientos de propiedades afectables por actor de simulación, y remitirlos para su dictamen al Cuerpo Consultivo Agrario;
+b) El catastro rural, y
 
-VII. Solicitar al Registro Agrario Nacional la ejecución de los trabajo técnicos, topográficos y cartográficos que se requieran para la integración de los expedientes relativos a los asuntos materia de su competencia; el que los realizará por sí o a través de terceros, de conformidad con la normatividad y legislación aplicable;
+c) El Sistema de Información del Sector Agrario
 
-VIII. Vigilar que la ejecución de los servicios técnicos, topográficos y cartográficos, que se requieran para la integración de los expedientes que se someterán a la autorización del Cuerpo Consultivo Agrario, se apeguen a la normatividad y legislación correspondiente;
+V. Coadyuvar con las autoridades estatales y municipales en la regularización de la propiedad privada irregular, e intervenir en su caso, dependiendo del origen de los predios de que se trate;
 
-IX. Solicitar al Registro Agrario Nacional la elaboración de los planos definitivos de las distintas acciones agrarias y sustanciar las inconformidades derivadas de las mismas;
+VI. Ser el conducto con las autoridades estatales y municipales para sistematizar la asesoría e información sobre la planeación y programación en materia de ordenamiento y regularización de la propiedad que desarrolla el Sector;
 
-X. Observar el cumplimiento de la normatividad aplicable en la ejecución de las resoluciones presidenciales de las distintas acciones agrarias y sustanciar las inconformidades derivadas de las mismas;
+VII. Verificar con las autoridades estatales y municipales, en coordinación con las unidades administrativas competentes del Sector Agrario, los avances, problemática y requerimientos en materia de ordenamiento y regularización de la propiedad rural para definir líneas de acción;
 
-XI. Levar a cabo, en términos de la legislación aplicable, todas las acciones que estuvieren pendientes de ejecutar, relacionadas con el cumplimiento de las resoluciones presidenciales emitidas en los expedientes de dotación, ampliación, creación de nuevos centros de población, restitución, reconocimiento y titulación de bienes comunales, y de conflictos por límites de bienes comunales, y
+VIII. Concentrar, analizar y organizar la información relevante que derive de los programas y acciones que el Sector Agrario y las autoridades estatales y municipales realicen en la materia, para que sea considerada integralmente por dichas instancias de gobierno en la planeación de programas subsecuentes;
 
-XII. Las demás que determine el Secretario o le confieran otras disposiciones legales.
+IX. Diseñar e instrumentar, conjuntamente con los gobiernos estatales y municipales, los programas necesarios para proporcionarles la información agraria que requieran en el tratamiento de los asuntos relacionados con la propiedad privada rural;
+
+X. Establecer con las autoridades estatales y municipales los mecanismos de control permanente para el cumplimiento de la legalidad en materia de límites de la propiedad rural, independientemente del régimen de propiedad de que se trate;
+
+XI. Promover, ante las legislaturas locales, la expedición de las leyes que establezcan los procedimientos para el fraccionamiento y enajenación de excedentes de propiedad privada y de sociedades propietarias de tierra, y
+
+XII. Las demás que le determine el Secretario o le confieran otras disposiciones legales.
 
 ###### ARTICULO 14.
 
@@ -413,13 +439,13 @@ VI. Promover mecanismos que permitan la actuación conjunta con gobiernos estata
 
 VII. Fomentar la creación de instancias interinstitucionales de coordinación para la atención integral de los sujetos agrarios;
 
-VIII. Promover la creación de instancias internas e interinstitucionales para el análisis y perfeccionamiento del marco jurídico agrario;
+VIII. (DEROGADA, D.O.F. 30 DE MARZO DE 1998)
 
 IX. Realizar estudios comparados, vinculados a las atribuciones de la Secretaría y promover el intercambio nacional e internacional de experiencias en la materia;
 
 X. Proponer acciones de coordinación intersectorial orientadas a canalizar programas y recursos en beneficio de los sujetos agrarios;
 
-XI. Proponer el programa anual de trabajo de la Secretaría y del Sector Agrario para la elaboración de proyectos de iniciativas de leyes y disposiciones reglamentarias que incidan en la materia, así como coordinar los trabajos de las instancias que al efecto se constituyan, y
+XI. (DEROGADA, D.O.F. 30 DE MARZO DE 1998)
 
 XII. Las demás que le determine el Secretario o le confieran otras disposiciones legales.
 
@@ -457,73 +483,65 @@ XIV. Coordinar el mantenimiento del equipo de cómputo de la Secretaría, y
 
 XV. Las demás que determine el Secretario o le confieran otras disposiciones legales.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 16.
 
-LA Dirección General de Programación, Organización y Presupuesto tendrá las siguientes atribuciones:
+La Dirección General de Administración tendrá las siguientes atribuciones:
 
-I. Establecer la normatividad y procedimientos para la administración de los recursos financieros, ejerciendo el control respectivo de conformidad con los objetivos, lineamientos y estrategias definidos en los programas de corto y mediano plazo;
+I. Aplicar la normatividad y procedimientos para la administración de los recursos humanos, financieros y materiales de la Secretaría y de sus órganos desconcentrados, ejerciendo el control respectivo de conformidad con los objetivos, lineamientos y estrategias definidos en los programas de corto y mediano plazo;
 
-II. Integrar los programas operativo anual y sectorial de presupuesto de la Secretaría u sus órganos administrativos desconcentrados, así como coordinar los de las entidades paraestatales sectorizadas;
+II. Supervisar la elaboración de los programas operativo anual y sectorial del presupuesto de la Secretaría y sus órganos administrativos desconcentrados, así como coordinar los de las entidades paraestatales sectorizadas;
 
-III. Supervisar que el ejercicio del programa-presupuesto de las coordinaciones agrarias se realice de conformidad con la normatividad establecida al respecto y proponer, en su caso, las medidas correctivas pertinentes;
+III. Supervisar que el ejercicio del programa-presupuesto de las Representaciones Regionales y Especiales, se realice de conformidad con la normatividad establecida al respecto y proponer, en su caso, las medidas correctivas pertinentes;
 
-IV. Analizar y autorizar las solicitudes de modificaciones presupuestales que presenten las unidades administrativas de la Secretaría;
+IV. Tramitar ante la Secretaría de Hacienda y Crédito Público las modificaciones del presupuesto anual de egresos y las solicitudes de afectación presupuestal de las unidades administrativas de la Secretaría, órganos administrativos desconcentrados y entidades paraestatales sectorizadas, para su autorización, registro y control;
 
-V. Gestionar ante la Secretaría de Hacienda y Crédito Público las modificaciones del presupuesto anual de egresos y las solicitudes de afectación presupuestal para su autorización, registro y control de las unidades administrativas de la Secretaría, órganos administrativos desconcentrados y apoyar a las entidades paraestatales sectorizadas;
+V. Coordinar la elaboración e integración del Informe de Ejecución del Plan Nacional de Desarrollo, Cuenta de la Hacienda Pública Federal, Informe Presidencial, Informe de Labores e Informe Trimestral del Avance Programático Presupuestal del Sector;
 
-VI. Coordinar la elaboración e integración del informe de Ejecución del Plan Nacional de Desarrollo, Cuenta de la Hacienda Pública Federal, Informe Presidencial, Informe de Labores e Informe Trimestral del Avance Programático Presupuestal del Sector;
+VI. Llevar la contabilidad general conforme a la Ley de Presupuesto, Contabilidad y Gasto Público Federal y a las normas que expida la Secretaría de Hacienda y Crédito Público, vigilando los procedimientos que en la materia apliquen las Representaciones Regionales y Especiales;
 
-VII. Llevar la contabilidad general conforme a la Ley de Presupuesto, Contabilidad y Gasto Público Federal y a las normas que expida la Secretaría de Hacienda y Crédito Público, vigilando los procedimientos que en la materia apliquen las coordinaciones agrarias;
+VII. Establecer y operar el trámite de pago de documentación comprobatoria de operaciones realizadas, que afecten el presupuesto de la Secretaría, y vigilar su aplicación en las Representaciones Regionales y Especiales;
 
-VIII. Establecer y operar el trámite de pago de documentación comprobatoria de operaciones realizadas, que afecten el presupuesto de la Secretaría, y vigilar su aplicación en las coordinaciones agrarias;
+VIII. Someter a la consideración del Oficial Mayor las estructuras orgánicas de las unidades administrativas de la Secretaría y en su caso, sus modificaciones, a efecto de remitirlas a las Secretarías de Hacienda y Crédito Público, y de Contraloría y Desarrollo Administrativo, para que sean dictaminadas y registradas, así como dictar y llevar a cabo las políticas y lineamientos de productividad, y aplicar los dictámenes emitidos sobre la estructura laboral de las unidades administrativas de la Secretaría;
 
-IX. Diseñar y llevar a cabo los programas de organización, funcionamiento, modernización, simplificación, desconcentración y descentralización de la Secretaría;
+IX. En materia de recursos humanos, materiales y servicios generales, llevar a cabo lo siguiente:
 
-X. Dictaminar las estructuras orgánicas de las unidades administrativas de la Secretaría y sus modificaciones, así como dictar y aplicar las políticas y lineamientos de productividad;
+a) Las remuneraciones al personal de la Secretaría, así como la aplicación de medidas disciplinarias y sanciones administrativas previstas en la legislación laboral aplicable y en las Condiciones Generales de Trabajo;
 
-XI. Normar y establecer las políticas y lineamientos en materia de adquisiciones, de administración de servicios generales y recursos materiales de las unidades administrativas de la Secretaría, en los términos establecidos por las disposiciones legales aplicables;
+b) Las acciones para proteger y asegurar al personal que labore en la Secretaría;
 
-XII. Normar, aplicar y supervisar los sistemas de control de los inventarios generales de bienes, y dictaminar y vigilar su afectación, baja y destino final, en los términos establecidos por la normatividad correspondiente;
+c) Las políticas y lineamientos de adquisiciones, de administración de servicios generales y recursos materiales de las unidades administrativas de la Secretaría, en los términos establecidos por las disposiciones legales aplicables;
 
-XIII. Establecer lineamientos para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes muebles e inmuebles al servicio de la Secretaría;
+d) La aplicación y supervisión de los sistemas de control de los inventarios, su afectación, baja y destino final, en los términos establecidos por la normatividad correspondiente;
 
-XIV. Normar la prestación de los servicios de vigilancia y seguridad de los inmuebles y sus contenidos, así como de los diferentes bienes de la Secretaría;
+e) La asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes muebles e inmuebles al servicio de la Secretaría;
 
-XV. Normar, coordinar, controlar y supervisar los servicios de administración y distribución de documentos oficiales, así como el sistema de archivo de la Secretaría;
+f) La prestación de los servicios de vigilancia y seguridad de los inmuebles y sus contenidos, así como de los diferentes bienes de la Secretaría;
 
-XVI. Participar en el Sistema Nacional de Protección Civil e implantar el programa interno de protección civil para el personal, instalaciones, bienes e información de la Secretaría, en el ámbito de su competencia, y
+g) La coordinación, control y supervisión de los servicios de administración y distribución de documentos oficiales, así como el sistema de archivo de la Secretaría;
 
-XVII. Las demás que le determine el Secretario o le confieran otras disposiciones legales.
+h) Los lineamientos para la solicitud, custodia y manejo de formas valoradas, control y distribución de cheques impresos y pagos en el ámbito de la Secretaría, e
+
+i) Los programas de organización, funcionamiento, modernización, simplificación, desconcentración y descentralización de la Secretaría.
+
+X. Participar en el Sistema Nacional de Protección Civil e implantar el programa interno de protección civil para el personal, instalaciones, bienes e información de la Secretaría, en el ámbito de su competencia;
+
+XI. Participar en la formulación, integración y, en su caso, modificación del programa presupuestal de servicios personales de las unidades administrativas de la Secretaría, e intervenir en los trámites para su ejercicio y supervisar su aplicación. Así mismo desarrollar y ejecutar los programas para la selección, desarrollo, prestaciones y movimientos del personal de la Secretaría;
+
+XII. Coordinar, observar y vigilar el cumplimiento de las Condiciones Generales de Trabajo que rigen las relaciones laborales de los trabajadores de esta Secretaría, así como establecer los criterios de interpretación y aplicación que se requieran para ello;
+
+XIII. Atender las relaciones con el Sindicato Nacional de los Trabajadores de la Secretaría y con los demás organismos competentes en materia de derechos y prestaciones del personal al servicio de la Secretaría;
+
+XIV. Apoyar a la Dirección General de Asuntos Jurídicos en la atención de los conflictos que se susciten entre la Secretaría de la Reforma Agraria y sus trabajadores;
+
+XV. Otorgar los estímulos y recompensas que establezcan la ley y las Condiciones Generales de Trabajo, y
+
+XVI. Las demás que determine el Secretario o le confieran otras disposiciones legales.
 
 ###### ARTICULO 17.
 
-La Dirección General de Recursos Humanos tendrá las siguientes atribuciones:
-
-I. Formular y ejecutar los programas específicos en materia de administración de personal de la Secretaría y sus órganos administrativos desconcentrados, con base en las políticas que en la materia dicte la Secretaría de Hacienda y Crédito Público;
-
-II. Participar en la formulación, integración y, en su caso, modificación del programa presupuestal de servicios personales de las unidades administrativas de la Secretaría, e intervenir en los trámites para su ejercicio y supervisar su aplicación;
-
-III. Desarrollar y ejecutar los programas para la selección, desarrollo, prestaciones y movimientos del personal de la Secretaría;
-
-IV. Emitir la normatividad y lineamientos para las remuneraciones al personal de la Secretaría, así como la aplicación de medidas disciplinarias y sanciones administrativas previstas en la legislación aplicable y en las Condiciones Generales de Trabajo;
-
-V. Establecer la normatividad y lineamientos para la solicitud, custodia y manejo de formas valoradas, control y distribución de cheques impresos y pagos en el ámbito de la Secretaría;
-
-VI. Coordinar, observar y vigilar el cumplimiento de las Condiciones Generales de Trabajo que rigen las relaciones laborales de los trabajadores de esta Secretaría, así como establecer los criterios de interpretación y aplicación que se requieran para ello;
-
-VII. Atender las relaciones con el Sindicato Nacional de los Trabajadores de la Secretaría y con los demás organismos competentes en materia de derechos y prestaciones del personal al servicio de la Secretaría;
-
-VIII. Apoyar a la Dirección General de Asuntos Jurídicos en la atención de los conflictos que se susciten entre la Secretaría de la Reforma Agraria y sus trabajadores;
-
-IX. Aplicar los dictámenes emitidos sobre la estructura laboral de las unidades administrativas de la Secretaría;
-
-X. Participar en el Sistema Nacional de Protección Civil e implantar el programa interno de protección civil para el personal de la Secretaría, en el ámbito de su competencia;
-
-XI. Otorgar los estímulos y recompensas que establezcan la ley y las Condiciones Generales de Trabajo;
-
-XII. Normar las acciones para proteger y asegurar al personal que labore en la Secretaría, y
-
-XIII. Las demás que determine el Secretario o las confieran otras disposiciones legales.
+(DEROGADO, D.O.F. 30 DE MARZO DE 1998)
 
 ###### ARTICULO 18.
 
@@ -543,33 +561,17 @@ VI. Las correspondientes a los Directores Generales, comprendidas en el artícul
 
 VII. Las demás que le determine el Secretario o le confieran otras disposiciones legales.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 19.
 
-La Unidad de Contraloría Interna estará adscrita al Titular de la Dependencia y tendrá las siguientes atribuciones:
+Al frente de la Unidad de Contraloría Interna habrá un Contralor Interno designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
 
-I. Vigilar que las unidades administrativas de la Secretaría y sus órganos administrativos desconcentrados, cumplan las normas de control, evaluación y fiscalización aplicables, de acuerdo a la normatividad correspondiente;
+Con sujeción a su presupuesto autorizado, los órganos desconcentrados contarán, en su caso, con una Unidad de Contraloría Interna, en los términos del párrafo anterior. En el supuesto de que algún órgano desconcentrado no cuente con dicha unidad, las facultades a que se refiere este artículo se ejercerán por la Unidad de Contraloría Interna de la Dependencia.
 
-II. Planear, programar y ejecutar el Programa Anual de Control y Auditoría de la Secretaría, conforme a las bases generales emitidas por la Secretaría de Contraloría y Desarrollo Administrativo y practicar aquellas auditorías y revisiones que en forma específica le ordene el Secretario, así como las requeridas por otras autoridades competentes;
+Los servidores públicos a que se refieren los párrafos anteriores ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
-III. Verificar que, en el desarrollo de las atribuciones conferidas a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, se observen las leyes, códigos, reglamentos, decretos, acuerdos, circulares y demás disposiciones de la materia;
-
-IV. Proponer la normatividad y lineamientos que deben expedirse para dar cumplimiento a las disposiciones establecidas por la Secretaría de Contraloría y Desarrollo Administrativo;
-
-V. Participar en el ámbito de su competencia, en los diferentes comités y comisiones de la Dependencia, órganos administrativos desconcentrados y entidades paraestatales del Sector Agrario, conforme a las normas y disposiciones aplicables;
-
-VI. Informar al Secretario y a las instancias competentes, de las revisiones, auditorías, investigaciones y evaluaciones realizadas;
-
-VII. Recibir y atender las quejas y denuncias que se presenten en contra de los servidores públicos de la Secretaría, por presuntas violaciones a las leyes y disposiciones administrativas en el desempeño de sus encargos o comisiones;
-
-VIII. Emitir las resoluciones que se deriven de las quejas y denuncias recibidas, así como de las auditorías, revisiones e investigaciones efectuadas, e imponer las sanciones que correspondan, en términos de la Ley Federal de Responsabilidades en los Servidores Públicos y demás disposiciones legales aplicables;
-
-IX. Recibir, atender y resolver, previa opinión de la Dirección General de Asuntos Jurídicos, los recursos de revocación que interpongan los servidores públicos, en términos de la ley de la materia;
-
-X. Informar al Secretario con la periodicidad que éste determine, sobre el desarrollo de las funciones encomendadas;
-
-XI. Las correspondientes a los Directores Generales comprendidas en el artículo 10 de este Reglamento, y
-
-XII. Las demás que determine el Secretario o le confieran otras disposiciones legales.
+La Secretaría y sus órganos desconcentrados, proporcionarán al Titular de su respectiva Unidad de Contraloría Interna los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría y sus órganos desconcentrados están obligados a proporcionar el auxilio que requiera el Titular de cada Unidad de Contraloría Interna para el desempeño de sus facultades.
 
 ###### ARTICULO 20.
 
@@ -593,29 +595,39 @@ VIII. Las correspondientes a los Directores Generales comprendidas en el artícu
 
 IX. Las demás que determine el Secretario o le confieran otras disposiciones legales.
 
-### CAPITULO VII. DE LAS COORDINACIONES AGRARIAS Y DE LOS ORGANOS ADMINISTRATIVOS DESCONCENTRADOS
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE MARZO DE 1998)</small>
+
+### CAPITULO VII. DE LAS REPRESENTACIONES REGIONALES Y DEL REGISTRO AGRARIO NACIONAL
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 21.
 
-Para la eficaz atención y eficiente despacho de los asuntos de su competencia, la Secretaría de la Reforma Agraria contará con coordinaciones agrarias y órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados, con facultades específicas para resolver sobre las materias que se les determinen.
+Para la eficaz atención y eficiente despacho de los asuntos de su competencia, la Secretaría de la Reforma Agraria contará con las Representaciones Regionales y Especiales que se requieran y órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados, con facultades específicas para resolver sobre las materias que se les determinen.
+
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 22.
 
-La Secretaría contará con los siguientes órganos administrativos desconcentrados:
+La Secretaría de la Reforma Agraria contará con el Órgano Administrativo Desconcentrado Registro Agrario Nacional, que se regirá en cuanto a su organización y funcionamiento por las disposiciones legales y reglamentarias específicas, y tendrá las atribuciones y facultades que en forma expresa le otorgan la Ley Agraria, este Reglamento, la normatividad interior de la Secretaría y las demás disposiciones jurídicas aplicables.
 
-1.- El Registro Agrario Nacional, que se regirá en cuanto a su organización y funcionamiento por las disposiciones legales y reglamentarias específicas, y tendrá las atribuciones y facultades que en forma expresa le otorgan la Ley Agraria, este Reglamento, la normatividad interior de la Secretaría y las demás disposiciones jurídicas aplicables, y
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE MARZO DE 1998)</small>
 
-2.- El Instituto Nacional de Desarrollo Agrario, que se regirá por las disposiciones del Capítulo IX del presente Reglamento.
+### CAPITULO VIII. DE LAS REPRESENTACIONES REGIONALES Y ESPECIALES
 
-### CAPITULO VIII. DE LAS COORDINACIONES AGRARIAS
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 23.
 
-Las coordinaciones agrarias se establecerán en número y circunscripción territorial que acuerde el Secretario. Estarán a cargo de un coordinador, quien será auxiliado para el despacho de los asuntos de su competencia, por las áreas administrativas y servidores públicos que exija el desempeño de sus funciones y autorice el presupuesto.
+Las Representaciones Regionales se establecerán en la circunscripción territorial que acuerde el Secretario y estarán integradas por más de una Entidad Federativa. Estarán a cargo de un Representante Regional, quien será auxiliado para el despacho de los asuntos de su competencia, por las áreas administrativas y servidores públicos que exija el desempeño de sus funciones y acorde al presupuesto que se autorice.
+
+Las Representaciones Especiales se constituirán cuando a juicio del Secretario, la problemática agraria local así lo requiera y serán de carácter temporal. El acuerdo de creación de estas representaciones deberá establecer de manera expresa los recursos humanos, técnicos y financieros de que dispondrán.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 24.
 
-Los titulares de las coordinaciones agrarias tendrán las siguientes facultades:
+Los titulares de las Representaciones Regionales y de las Especiales tendrán las siguientes facultades:
 
 I. Representar a la Secretaría en la circunscripción territorial que les sea asignada;
 
@@ -623,7 +635,9 @@ II. Ejercer, en el ámbito de su competencia, las atribuciones de las unidades a
 
 III. Acordar con el Secretario o el servidor público que éste designe, el despacho de los asuntos y la realización de los programas de su competencia;
 
-IV. Suscribir los convenios y contratos que afecten el presupuesto de la Coordinación, así como aquellos que sin implicar una erogación presupuestal, sean de su competencia, de conformidad con las normas y lineamientos que fijen las unidades administrativas centrales de la Secretaría;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+IV. Suscribir los convenios y contratos que afecten el presupuesto de la Representación, así como aquellos que sin implicar una erogación presupuestal, sean de su competencia de conformidad con las normas y lineamientos que fijen las unidades administrativas centrales de la Secretaría;
 
 V. Establecer las políticas, normas, criterios, sistemas y procedimientos de carácter técnico y administrativo, que deban regir en las áreas administrativas con que cuenten o se les adscriban, y apoyar técnicamente la desconcentración y delegación de facultades que requieran para el buen funcionamiento de las mismas;
 
@@ -631,11 +645,15 @@ VI. Supervisar que en todos los asuntos cuya atención les corresponda, se cumpl
 
 VII. Las demás que determine el Secretario o le confieran otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 25.
 
-Las coordinaciones agrarias tendrán las siguientes atribuciones:
+Las Representaciones Regionales y Especiales tendrán las siguientes atribuciones:
 
-I. Coordinar y ejecutar integralmente, en el ámbito de su competencia, los asuntos, programas, proyectos y acciones de la Secretaría, incluyendo las relativas en materia de Rezago Agrario;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 1998)</small>
+
+I. Coordinar y ejecutar integralmente, en el ámbito de su competencia, los asuntos, programas, proyectos y acciones de la Secretaría;
 
 II. Establecer los mecanismos de coordinación con las instancias del Sector, con el objeto de garantizar esquemas de atención global a la problemática agraria;
 
@@ -647,79 +665,29 @@ V. Participar en las instancias colegiadas con las facultades que le confieran l
 
 VI. Las demás que determine el Secretario o le confieran otras disposiciones legales.
 
-### CAPITULO IX. DEL INSTITUTO NACIONAL DE DESARROLLO AGRARIO
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE MARZO DE 1998)</small>
+
+### CAPITULO IX
 
 ###### ARTICULO 26.
 
-El Instituto Nacional de Desarrollo Agrario, en su carácter de órgano administrativo desconcentrado, contará con autonomía técnica, administrativa y presupuestal, y tendrá por objeto fomentar la organización y capacitación de los núcleos agrarios, tendientes al acceso de mejores niveles de desarrollo.
+(DEROGADO, D.O.F. 30 DE MARZO DE 1998)
 
 ###### ARTICULO 27.
 
-Para el ejercicio de sus atribuciones y despacho de los asuntos que le competen, el Instituto estará a cargo de un Director en Jefe y los demás servidores públicos que requiera.
+(DEROGADO, D.O.F. 30 DE MARZO DE 1998)
 
 ###### ARTICULO 28.
 
-El Director en Jefe del Instituto será designado por el Secretario y tendrá las facultades que le establece el presente Reglamento.
+(DEROGADO, D.O.F. 30 DE MARZO DE 1998)
 
 ###### ARTICULO 29.
 
-El Instituto Nacional de Desarrollo Agrario tendrá las siguientes atribuciones:
-
-I. Fomentar l organización y capacitación campesina;
-
-II. Elaborar, proponer y desarrollar los programas de capacitación agraria;
-
-III. Coordinar y vigilar el cumplimiento de los programas a que se refiere la fracción anterior;
-
-IV. Preparar el material didáctico y los apoyos educativos que se requieran para los programas en capacitación;
-
-V. Coadyuvar en la formulación, instrumentación y desarrollo de programas y acciones para el fortalecimiento de la organización jurídica, económica y social de los núcleos agrarios;
-
-VI. Formular estudios que contribuyan al diagnóstico de la situación rural y a la detección de necesidades en materia de capacitación y educación agraria;
-
-VII. Evaluar el impacto socioeconómico de los programas de capacitación;
-
-VIII. Establecer lineamientos, programas y acciones que permitan aprovechar los estudios de investigación histórica y jurídica en materia agraria;
-
-IX. Elaborar y llevar a cabo programas de investigación en materia agraria;
-
-X. Establecer dentro del ámbito de su competencia, los mecanismos de coordinación que se requieran para el ejercicio de sus atribuciones y cumplimiento de sus programas, con la Secretaría de Agricultura, Ganadería y Desarrollo Rural y las entidades paraestatales cuyas funciones u objeto se encuentren relacionadas con el desarrollo de los núcleos agrarios, el fomento de sus actividades productivas y el mejoramiento de los niveles de vida de la población campesina;
-
-XI. Establecer mecanismos de coordinación con los gobiernos estatales y municipales, así como con instituciones de educación nacionales y extranjeras, para la realización de programas de investigación;
-
-XII. Fomentar la concertación e inducción con los sectores social y privado, para el cumplimiento de sus atribuciones;
-
-XIII. Formular estudios sobre los niveles de organización de los núcleos agrarios;
-
-XIV. Coadyuvar en el fomento económico, social y organizativo de los núcleos agrarios y el de sus integrantes mediante la promoción y asesoría de agroasociaciones;
-
-XV. Integrar y mantener actualizado el directorio nacional de agroasociaciones;
-
-XVI. Coadyuvar en la promoción y apoyo para la elaboración y ejecución de programas de desarrollo regional con la participación de ejidos, comunidades, ejidatarios, comuneros y pequeños propietarios;
-
-XVII. Gestionar la obtención de recursos ante dependencias e instituciones gubernamentales y privadas, así como ante empresas y organismos internacionales para la realización de programas y proyectos integrales de desarrollo agrario y evaluar sus resultados;
-
-XVIII. Promover y asesorar a los núcleos agrarios y a los campesinos en la integración, desarrollo y consolidación de las parcelas con destino específico: escolar, unidad agrícola industrial del a mujer campesina, unidad productiva para el desarrollo integral de la juventud y de las unidades productivas de economías de pequeña y mediana escala; así como gestionar ante las dependencias e instituciones públicas apoyos tecnológicos para la optimización de los procesos productivos correspondientes, y
-
-XIX. Las demás que determine el Secretario o le confieran otras disposiciones legales.
+(DEROGADO, D.O.F. 30 DE MARZO DE 1998)
 
 ###### ARTICULO 30.
 
-El Director en Jefe del Instituto tendrá las siguientes facultades:
-
-I. Representar legalmente al Instituto Nacional de Desarrollo Agrario y suscribir los documentos relativos de sus funciones;
-
-II. Establecer los sistemas y procedimientos que deban regir en las unidades administrativas y coordinar su operación;
-
-III. Informar periódicamente al Titular del Ramo del avance d los despachos de los asuntos de su competencia y someter a su aprobación los que considere de trascendencia;
-
-IV. Proponer la estructura orgánica y nombramientos de los servidores públicos a su cargo;
-
-V. Someter a la aprobación del Secretario el programa de capacitación agraria y los lineamientos para la conformación del directorio nacional de agroasociaciones. De igual manera deberá someter a su consideración las modificaciones correspondientes;
-
-VI. Dirigir y coordinar las funciones del Instituto, delegado en las áreas administrativas las facultades que fueren necesarias, y
-
-VII. Las demás que determine el Secretario, este reglamento y demás disposiciones legales.
+(DEROGADO, D.O.F. 30 DE MARZO DE 1998)
 
 ### CAPITULO X. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARIA
 
@@ -731,9 +699,13 @@ En los juicios de amparo en que el Secretario deba intervenir en representación
 
 En otros asuntos judiciales la suplencia del Secretario será por los funcionarios mencionados indistintamente.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 32.
 
-Las ausencias de los titulares de las Direcciones Generales, de las Coordinaciones Agrarias y del Instituto Nacional de Desarrollo Agrario, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, atendiendo a la materia de su competencia. Igual procedimiento de suplencia se seguirá tratándose de los subdirectores, jefes de departamento o sus homólogos.
+Las ausencias de los titulares de las Direcciones Generales, de las Representaciones Regionales y de las Especiales, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, atendiendo a la materia de su competencia. Igual procedimiento de suplencia se seguirá tratándose de los demás responsables de las unidades administrativas de la Secretaría, en sus diferentes niveles.
+
+Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el artículo 33, segundo y tercer párrafos, del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### ARTICULO 33.
 
@@ -760,3 +732,21 @@ SEXTO.- Los derechos laborales del personal que, en virtud de los (sic) dispuest
 SEPTIMO.- Las unidades administrativas y los órganos administrativos desconcentrados que con motivo de este Reglamento desaparezcan, se transformen o sus funciones sean reasignadas, transferirán el presupuesto, mobiliario, vehículos, equipo, archivos y en general los recursos que hayan utilizado en sus funciones, de acuerdo a la reasignación de las mismas y observando los lineamientos y procedimientos que al efecto se dicten.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de julio de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Reforma Agraria, Arturo Warman Gryj.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE MARZO DE 1998.
+
+PRIMERO.- Este Decreto entrará en vigor el día 24 de abril del presente año.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones administrativas que se opongan a este Decreto.
+
+TERCERO.- El Secretario de la Reforma Agraria deberá expedir el Acuerdo de Regionalización de las Representaciones Regionales, en un plazo no mayor de 10 días, contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto no se lleve a cabo la entrega-recepción de los asuntos de las Coordinaciones Agrarias a las Representaciones Regionales, las unidades administrativas responsables seguirán desahogando los expedientes en trámite conforme a las disposiciones legales correspondientes.
+
+CUARTO.- Para la atención de actuaciones y el cumplimiento de resoluciones derivadas de procedimientos jurisdiccionales o administrativos de las unidades sustantivas que se extinguen, se crea la Unidad Técnica Operativa, dependiente de la Subsecretaría de Ordenamiento de la Propiedad Rural. En el caso de las Coordinaciones Agrarias que desaparecen, la autoridad responsable será la Representación Regional que corresponda.
+
+QUINTO.- Los asuntos encomendados al Instituto Nacional de Desarrollo Agrario, en materia de organización y fomento de los núcleos agrarios y sus unidades de producción, serán transferidos a la Procuraduría Agraria. Los asuntos en trámite a que se refiere este artículo serán atendidos hasta su total finiquito por la Unidad Técnica Operativa.
+
+SEXTO.- Los derechos de los trabajadores serán respetados conforme a la Ley.
+
+SÉPTIMO.- Los recursos materiales, financieros, mobiliario, vehículos, instrumentos, aparatos, maquinaria, y en general, los equipos de las unidades administrativas que desaparecen, deberán ser reasignados conforme a las necesidades del servicio, con base en las disposiciones legales aplicables.
