@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-anuncios-para-el-municipio-de-manzanillo-33363"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-30"
-last_updated: "2000-09-30"
+last_updated: "2004-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "COL"
 
 REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE MANZANILLO, COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2004.
 
-Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de septiembre de 2000.
+Reglamento publicado en el suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de septiembre de 2000.
 
 LA C.P. MARTHA LETICIA SOSA GOVEA, Presidenta Municipal del Municipio de Manzanillo. Col. A los habitantes del mismo, hace saber:
 
@@ -45,6 +45,8 @@ SEPTIMO.- Que por todas las consideraciones anteriores la Comisión de Gobernaci
 
 REGLAMENTO DE ANUNCIOS
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2004)</small>
+
 I N D I C E
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
@@ -55,45 +57,49 @@ I N D I C E
 
 ### CAPITULO III. AUTORIDADES Y FACULTADES.
 
-## TITULO SEGUNDO. NORMAS BÁSICAS
+## TITULO SEGUNDO NORMAS BASICAS
 
-### CAPITULO IV. CLASIFICACIÓN DE ANUNCIOS.
+### CAPITULO I. CLASIFICACION DE ANUNCIOS
 
-### CAPITULO V. ZONIFICACIÓN.
+### CAPITULO II. AREAS DE REGULACIÓN ESPECIAL Y CENTRO HISTORICO
+
+CAPITULO II1 (SIC)
+
+ZONIFICACION
 
 ## TITULO TERCERO. LICENCIAS, PERMISOS Y AUTORIZACIONES
 
-### CAPITULO VI. ÁREAS DE REGULACIÓN ESPECIAL Y CENTRO HISTÓRICO.
+### CAPITULO I. LICENCIA, PERMISOS Y AUTORIZACIONES
 
-### CAPITULO VII. LICENCIAS, PERMISOS Y AUTORIZACIONES.
+### CAPITULO II. REQUISITOS PARA LA OBTENCIÓN DE LICENCIAS PARA ANUNCIOS
 
-### CAPITULO VIII. REQUISITOS PARA LA OBTENCIÓN DE LICENCIAS PARA ANUNCIOS.
+### CAPITULO III. VIGENCIA DE LICENCIAS
 
-### CAPITULO IX. VIGENCIA DE LICENCIAS.
+### CAPITULO IV. OBLIGACIONES DE PROPIETARIOS
 
-### CAPITULO X. OBLIGACIONES DE LOS PROPIETARIOS.
+### CAPITULO V. OBLIGACIONES DE LOS CORRESPONSABLES DE DISEÑO ESTRUCTURAL Y MANTENIMIENTO DE LOS ANUNCIOS
 
-## TITULO CUARTO. INSPECCIÓN Y CONTROL
+## TITULO CUARTO. INSPECCION Y CONTROL
 
-### CAPITULO XI. OBLIGACIONES DE LOS CORRESPONSABLES, DISEÑO ESTRUCTURAL Y MANTENIMIENTO DEL ANUNCIO.
+### CAPITULO I. MEDIDAS DE SEGURIDAD, REVOCACIÓN Y RETIRO
 
-### CAPITULO XII. MEDIDAS DE SEGURIDAD, REVOCACIÓN Y RETIRO.
+### CAPITULO II. PROCEDIMIENTOS ADMINISTRATIVOS
 
-## TITULO QUINTO. PROHIBICIONES Y SANCIONES
+## TITULO QUINTO. DENUNCIAS, PROHIBICIONES, SANCIONES Y RECURSOS
 
-### CAPITULO XIII. PROCEDIMIENTOS ADMINISTRATIVOS.
+### CAPITULO I. DENUNCIAS
 
-### CAPITULO XIV. DENUNCIAS.
+### CAPITULO II. PROHIBICIONES GENERALES
 
-### CAPITULO XV. PROHIBICIONES GENERALES.
+### CAPITULO III SANCIONES
 
-### CAPITULO XVI. SANCIONES.
+### CAPITULO IV RECURSOS
 
 ## TRANSITORIOS.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO XVII. RECURSOS.
+### CAPITULO I. OBJETIVOS Y DISPOSICIONES GENERALES.
 
 ###### Artículo 1.
 
@@ -133,7 +139,7 @@ VI. Decoraciones Temporales para conmemorar celebraciones religiosas o civiles, 
 
 VII. Letreros de profesionistas al exterior de las obras en construcción requeridas por alguna Ley o Reglamento, debiendo ser de cincuenta centímetros cuadrados como máximo y del tipo adosado o de pared.
 
-### CAPITULO I. OBJETIVOS Y DISPOSICIONES GENERALES.
+### CAPITULO II. DEFINICIONES.
 
 ###### Artículo 4.
 
@@ -209,7 +215,7 @@ XXXIV. VIGENCIA.- Período de tiempo durante el cual surte efectos jurídicos la
 
 XXXV. ZOFEMAT.- Zona Federal Marítimo Terrestre.
 
-### CAPITULO II. DEFINICIONES.
+### CAPITULO III. AUTORIDADES Y FACULTADES.
 
 ###### Artículo 5.
 
@@ -297,15 +303,19 @@ La responsabilidad será del propietario del anuncio o de quién la DEPENDENCIA 
 
 ## TITULO SEGUNDO. NORMAS BASICAS
 
-### CAPITULO III. AUTORIDADES Y FACULTADES.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO I. CLASIFICACIÓN DE ANUNCIOS.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2004)</small>
 
 ###### Artículo 12.
 
 Para la adecuada aplicación de este REGLAMENTO, los anuncios por su duración se clasifican de la siguiente forma:
 
-I. Permanentes
+I. Temporales
 
-II. Temporales
+11 (SIC). Permanentes
 
 ###### Artículo 13.
 
@@ -419,7 +429,9 @@ I. Los pintados, colocados o fijados en obras en construcción;
 
 II. Los pintados en vehículos para identificación de la persona física o moral, propietaria del mismo;
 
-III. Los anuncios para venta o renta de propiedades; y (sic)
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+III. Los anuncios para venta o renta de propiedades;
 
 V (SIC). Los fijados o colocados sobre tableros y bastidor;
 
@@ -769,7 +781,9 @@ a).- Aquellos cuyas características no corresponden a alguno de los tipos clasi
 
 b).- Los que se adaptan o adecuen a un determinado diseño arquitectónico o que se adapten armoniosamente al entorno circundante en forma única y que por ello serán revisados en forma especial por el COMITE
 
-### CAPITULO IV. CLASIFICACIÓN DE ANUNCIOS.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO II. ÁREAS DE REGULACIÓN ESPECIAL Y CENTRO HISTÓRICO.
 
 ###### Artículo 27.
 
@@ -819,6 +833,10 @@ Los colores de los anuncios a ubicarse en la zona del Centro Histórico deberán
 
 Los anuncios colgantes adheridos a las marquesinas se colocarán en el borde exterior o en el espesor de las mismas. En todo caso, la parte inferior del anuncio deberá quedar a dos metros cincuenta centímetros sobre el nivel de la banqueta.
 
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+CAPITULO II1 (SIC). ZONIFICACIÓN.
+
 ###### Artículo 33.
 
 Para efecto de este REGLAMENTO, la Ciudad de Manzanillo se dividirá en las siguientes zonas: (Plano Programa de Desarrollo Urbano de Manzanillo).
@@ -849,7 +867,9 @@ El Boulevard Miguel de la Madrid desde el Crucero del Velero (Las Brisas), hasta
 
 ## TITULO TERCERO. LICENCIAS, PERMISOS Y AUTORIZACIONES
 
-### CAPITULO V. ÁREAS DE REGULACIÓN ESPECIAL Y CENTRO HISTÓRICO.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO I. LICENCIAS, PERMISOS Y AUTORIZACIONES.
 
 ###### Artículo 34.
 
@@ -859,7 +879,9 @@ La persona física o moral, pública o privada, que pretende fijar, instalar o c
 
 El Presidente del COMITE de Anuncios concederá autorización, ampliación o modificación de anuncios permanentes, previo dictamen técnico de la DEPENDENCIA MUNICIPAL.
 
-### CAPITULO VI. ZONIFICACIÓN.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO II. REQUISITOS PARA LA OBTENCIÓN DE LICENCIAS PARA ANUNCIOS.
 
 ###### Artículo 36.
 
@@ -881,7 +903,9 @@ Deberán así mismo, incluirse los datos de altura sobre el nivel de la banqueta
 
 VII. Copia del contrato de arrendamiento o comodato celebrado con el propietario del inmueble en que se vaya a colocar el anuncio o la autorización escrita que se haya otorgado para ella, en el caso de no ser propietario;
 
-V (SIC). En los casos de anuncios permanentes o de permisos para anuncios transitorios, cuyas estructuras vayan a ser instaladas, fijadas o colocadas en inmuebles; independientemente de la demás información que se señale en este REGLAMENTO, se acompañarán los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2004)</small>
+
+VIII. En los casos de anuncios permanentes o de permisos para anuncios transitorios, cuyas estructuras vayan a ser instaladas, fijadas o colocadas en inmuebles; independientemente de la demás información que se señale en este REGLAMENTO, se acompañarán los siguientes documentos:
 
 a) El proyecto de la estructura y de las instalaciones;
 
@@ -889,9 +913,13 @@ b) La memoria correspondiente que contenga los cálculos de estabilidad y seguri
 
 c) Tanto los proyectos como la memoria, deberán ser suscritos por el Corresponsable de obra y en todo caso para garantizar el pago de responsabilidad civil por daños a terceros el anunciante deberá exhibir por el tiempo que permanezca instalado el anuncio, póliza de seguro de responsabilidad civil por cada año.
 
-IX (SIC). Documento con que se acrediten las autorizaciones, registros y licencias a que se refiere el ARTICULO 22 de este ordenamiento.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
 
-La (sic) solicitudes de anuncios transitorios que no impliquen la colocación de estructuras deberán cumplir únicamente con los requisitos señalados en las fracciones I, II, III, IV, V y VII de este ARTICULO.
+IX. Documento con que se acrediten las autorizaciones, registros y licencias a que Se refiere el ARTICULO 22 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2004)</small>
+
+Las solicitudes de anuncios transitorios que no impliquen la colocación de estructuras deberán cumplir únicamente con los requisitos señalados en las fracciones I, II, III, IV, V y VII de este ARTICULO.
 
 ###### Artículo 37.
 
@@ -915,7 +943,9 @@ Las Promociones inmobiliarias serán autorizadas por la DEPENDENCIA MUNICIPAL, t
 
 El Area de Expedición de Licencias de la TESORERIA MUNICIPAL se responsabilizará de orientar al solicitante para que acuda al área de atención al público de la DEPENDENCIA MUNICIPAL a realizar el trámite de instalación del anuncio, a efecto de que al solicitar la expedición de la licencia o permisos de funcionamiento comercial o de espectáculos públicos en su caso, se otorgue concomitantemente y en coordinación con la DEPENDENCIA MUNICIPAL, la licencia o permiso para la fijación, instalación o colocación de los anuncios respectivos.
 
-### CAPITULO VII. LICENCIAS, PERMISOS Y AUTORIZACIONES.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO III. VIGENCIA DE LICENCIAS.
 
 ###### Artículo 42.
 
@@ -923,7 +953,9 @@ Las licencias para los anuncios tipo “B” y “C” se consideraran indefinid
 
 Para mantener vigentes las licencias los interesados deberán gestionar su refrendo ante la TESORERÍA MUNICIPAL, teniendo como límite la fecha que establezca la Ley de Ingresos para el municipio de Manzanillo. La licencia se mantendrá vigente solamente si las condiciones de estabilidad y conservación del anuncio son satisfactorias y además se cumplen los requisitos de este REGLAMENTO, y durante la vigencia de la relación contractual entre el propietario del anuncio y el del inmueble de ser el caso. En caso de no efectuarse oportunamente el pago del refrendo de la licencia, esta se dará por terminada y el anuncio deberá ser retirado por el anunciante, o propietario dentro de los siguientes 30 días hábiles. De no hacerlo, lo retirará la Autoridad Municipal competente a costa de aquel.
 
-### CAPITULO VIII. REQUISITOS PARA LA OBTENCIÓN DE LICENCIAS PARA ANUNCIOS.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO IV. OBLIGACIONES DE PROPIETARIOS.
 
 ###### Artículo 43.
 
@@ -937,7 +969,9 @@ III. Dar aviso por escrito a la DEPENDENCIA MUNICIPAL tres días antes de que se
 
 IV. Los anuncios tipo “B” a que se refiere el ARTICULO 21 inciso III, deberán, además, garantizar mediante depósito en la TESORERÍA MUNICIPAL, una cantidad de dinero suficiente para cubrir los costos y daños causados por la instalación de dichos anuncios, así como por su retiro, para en caso de que su propietario no los retire una vez concluido el evento.
 
-### CAPITULO IX. VIGENCIA DE LICENCIAS.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO V. OBLIGACIONES DE LOS CORRESPONSABLES DE DISEÑO ESTRUCTURAL Y MANTENIMIENTO DE LOS ANUNCIOS.
 
 ###### Artículo 44.
 
@@ -983,17 +1017,23 @@ V. Los anuncios eléctricos o con iluminación deberán contar con instalaciones
 
 VI. Los postes, refuerzos y anclaje de anuncios permanentes en carteleras o unipolares de madera o metal que se entierran en el suelo deberán ser protegidos de la humedad con asfalto o algún material similar y darles un mantenimiento adecuado;
 
-VII. Los anuncios en pared, múltiples, en marquesinas y volados deberán estar correctamente asegurados a los muros del edificios (sic) en anclajes metálicos, tuerca y/o taquetes expansivos;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+VII. Los anuncios en pared, múltiples, en marquesinas y volados deberán estar Correctamente (sic) asegurados a los muros del edificio en anclajes metálicos, Tuerca y/o taquetes expansivos;
 
 VIII. Los anuncios sobre techos deberán tener una separación máxima del techo de un metro veinte centímetros;
 
-IX. Los elementos de soporte deberán asemejarse a los del edificio, y (sic)
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+IX. Los elementos de soporte deberán asemejarse a los del edificio;
 
 X. En los anuncios múltiples o Directorios Corporativos el espesor no debe rebasar de un metro veinte centímetros;
 
 XI. Colocar en lugar visible del anuncio una placa con el nombre del Corresponsable y número de permiso de instalación de la estructura, en su caso. Así mismo se expresará en la placa el nombre y el domicilio del propietario del anuncio; la placa será de material perenne;
 
-XII. Dar aviso a las autoridades correspondientes, de la terminación de los trabajos relativos al anuncio, así como las obras de conservación o mantenimiento que se realicen en los mismos;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+XII.- Dar aviso a las autoridades correspondientes, de la terminación de los trabajos Relativos al anuncio, así como las obras de conservación o mantenimiento que se realicen en los mismos; y
 
 XIII. Acreditar que cuenta con la autorización municipal para iniciar los trabajos a que alude este REGLAMENTO.
 
@@ -1039,7 +1079,9 @@ La fijación de anuncios impresos sólo se permitirá en los tableros bastidores
 
 ## TITULO CUARTO. INSPECCION Y CONTROL
 
-### CAPITULO X. OBLIGACIONES DE PROPIETARIOS.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO I. MEDIDAS DE SEGURIDAD, REVOCACIÓN Y RETIRO.
 
 ###### Artículo 54.
 
@@ -1049,9 +1091,13 @@ I. La suspensión de los trabajos;
 
 II. La demolición de estructuras y/o retiro de las instalaciones;
 
-III. El aseguramiento de objetos materiales; y (sic)
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
 
-IV. La realización de actos en rebeldía de los obligados a ejecutarlos;
+III. El aseguramiento de objetos materiales;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+IV. La realización de actos en rebeldía de los obligados a ejecutarlos; y
 
 V. Para la aplicación de las medidas de seguridad se consideran hábiles todos los días del año y las veinticuatro horas del día.
 
@@ -1061,9 +1107,13 @@ Son nulas y no sufrirán (sic) efecto las licencias otorgadas en los siguientes 
 
 I. Cuando los datos o documentos proporcionados por el solicitante al presentar su solicitud, resulten falsos y con base a ellos se hubieran (sic) expedido la licencia;
 
-II. Cuando el funcionario que hubiese otorgado la licencia carezca de competencia para ello, y (sic)
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
 
-III. Cuando se hubiera otorgado con violación manifiesta de la Ley, planes de desarrollo urbano y/o Reglamentos vigentes;
+II. Cuando el funcionario que hubiese otorgado la licencia carezca de competencia para ello;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+III. Cuando se hubiera otorgado con violación manifiesta de la Ley, planes de desarrollo urbano y/o Reglamentos vigentes; y
 
 IV. Cuando el propietario no cumpla con las obligaciones generales que señale este REGLAMENTO y en especial las consignadas en el ARTICULO 43 de este ordenamiento.
 
@@ -1091,9 +1141,13 @@ Cuando los propietarios del anuncio, el responsable solidario, o cualquier perso
 
 I. Solicitar el auxilio de seguridad pública, a fin de ejecutar las acciones y diligencias correspondientes.
 
-II. Imponer multa de diez a quinientos salarios mínimos, y (sic)
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
 
-III. Cualquier otra medida de seguridad o sanción aplicable.
+II. Imponer multas de diez a quinientos salarios mínimos;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+III. Cualquier otra medida de seguridad o sanción aplicable; y
 
 IV. Proceder en términos del Código Penal y otras disposiciones aplicables.
 
@@ -1107,13 +1161,17 @@ I. No representen un peligro;
 
 II. Cuenten con un adecuado mantenimiento y conservación, y
 
-III. No hayan sufrido alteraciones en su estructura o características autorizadas.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
 
-En caso de no cumplirse estas condiciones el anuncio deberá ser movido, a juicio de la autoridad, relocalizado o modificado por el titular de la licencia.
+III. No hayan sufrido alteraciones en su estructura o caracterizaciones (sic) autorizadas. En caso de no cumplirse estas condiciones el anuncio deberá ser movido, a juicio de la Autoridad, relocalizado o modificado por el titular de la licencia.
 
-Tratándose de anuncios cuya licencia este vencida y no se haya refrendado en el término que la Ley de Ingresos, estos podrán ser retirados del lugar que se encuentra a costa de su propietario.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2004)</small>
 
-### CAPITULO XI. OBLIGACIONES DE LOS CORRESPONSABLES DE DISEÑO ESTRUCTURAL Y MANTENIMIENTO DE LOS ANUNCIOS.
+Tratándose de anuncios cuya licencia esté vencida y no se haya refrendado en el término que la Ley de Ingresos señala, éstos podrán ser retirados del lugar en que se encuentren a costa de su propietario.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO II. PROCEDIMIENTOS ADMINISTRATIVOS.
 
 ###### Artículo 60.
 
@@ -1161,7 +1219,9 @@ Todos los materiales producto del desmantelamiento del anuncio en cuestión, que
 
 ## TITULO QUINTO. PROHIBICIONES Y SANCIONES
 
-### CAPITULO XII. MEDIDAS DE SEGURIDAD, REVOCACIÓN Y RETIRO.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO I. DENUNCIAS.
 
 ###### Artículo 67.
 
@@ -1185,7 +1245,9 @@ V. Cualquier otro dato que sea útil a la autoridad.
 
 La SECRETARÍA DEL AYUNTAMIENTO deberá informar al denunciante las medidas adoptadas para la búsqueda de solución del caso y hará de su conocimiento el acuerdo expedido con relación a su gestión.
 
-### CAPITULO XIII. PROCEDIMIENTOS ADMINISTRATIVOS.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
+
+### CAPITULO II. PROHIBICIONES GENERALES.
 
 ###### Artículo 70.
 
@@ -1265,9 +1327,9 @@ XVI. En los demás lugares prohibidos expresamente para tal efecto, tanto por es
 
 La actividad promocional que regula el presente ordenamiento estará sujeta al pago de derechos que señala la Ley de Ingresos. Se exceptúan los anuncios colocados en el interior de vitrinas o escaparates y los adosados a la fachada o pintados no pagarán derechos.
 
-### CAPITULO XVI. SANCIONES.
+> <small>(REFORMADA SU NUMERACION, P.O. 15 DE MAYO DE 2004)</small>
 
-### CAPITULO XIV. DENUNCIAS.
+### CAPITULO III. SANCIONES.
 
 ###### Artículo 79.
 
@@ -1281,9 +1343,13 @@ III. Clausura total o parcial de obras, estructuras, construcciones e instalacio
 
 IV. Revocación de las autorizaciones, permisos o licencias otorgadas;
 
-V. Demolición y desmantelamiento y retiro de estructuras o instalaciones efectuadas en contravención a lo dispuesto por este REGLAMENTO; y (sic)
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
 
-VI. Suspensión en el otorgamiento de nuevas licencias a los reincidentes;
+V. Demolición y desmantelamiento y retiro de estructuras o instalaciones Efectuadas en contravención a lo dispuesto por este REGLAMENTO;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+VI. Suspensión en el otorgamiento de nuevas licencias a los reincidentes; y
 
 VII. Arresto hasta por 36 horas a quien se oponga o entorpezca las labores de la autoridad municipal.
 
@@ -1327,17 +1393,17 @@ De las multas y sanciones serán responsables solidarios, además del infractor,
 
 Cuando las violaciones al presente REGLAMENTO, sean cometidas por servidores públicos, por dolo y negligencia de los mismos, se procederá de acuerdo a la Ley de Responsabilidades de los Servidores Públicos vigente en el Estado.
 
-### CAPITULO XVII. RECURSOS.
-
-### CAPITULO XV. PROHIBICIONES GENERALES.
+### CAPITULO IV. RECURSOS.
 
 ###### Artículo 88.
 
 Las resoluciones, acuerdos y actos que dicten las autoridades en la vigilancia y aplicación de las normas de este REGLAMENTO, y de los que se relacionen con el mismo, podrán ser impugnadas por la persona física o moral que se vea directamente afectada, mediante la interposición del recurso de inconformidad ante el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2004)</small>
+
 ###### Artículo 89.
 
-El recurso tienen (sic) por objeto que la autoridad municipal confirme, revoque o modifique la resolución impugnada.
+El recurso tiene por objeto que la autoridad municipal confirme, revoque o modifique la resolución Impugnada.
 
 ###### Artículo 90.
 
@@ -1361,9 +1427,13 @@ VI. El nombre y domicilio del tercero perjudicado si existiere;
 
 VII. Las pruebas que se ofrezcan; pudiéndose ofrecer nuevamente aquellas que se estimen no fueron admitidas o valoradas en el procedimiento del que se deriva la resolución impugnada;
 
-VIII. El lugar y fecha de la promoción;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
 
-IX. Firma del recurrente, o del representante legal; y (sic)
+VIII. El lugar y fecha de la promoción; y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2004)</small>
+
+IX. Firma del recurrente, o del representante legal.
 
 ###### Artículo 92.
 
@@ -1470,3 +1540,9 @@ TERCERO.- Se abroga el Reglamento de Anuncios para el municipio de Manzanillo, C
 Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de Manzanillo, Col. a los veintidós días del mes de Septiembre del año dos mil.
 
 C. CP. Martha Leticia Sosa Govea, Presidenta Municipal Constitucional de Manzanillo Colima y Presidenta de la Comisión de gobernación y Reglamentos.- Rúbrica.- C. Antolín Contla Tontle, Regidor Secretario de la Comisión de Gobernación y Reglamentos.- Rúbrica.- C. Lic. Sergio Marcelino Bravo Sandoval, Regidor Secretario de la Comisión de Gobernación y Reglamentos.- Rúbrica.- Síndico del H. Ayuntamiento, C. Ing. Reyes Isidro Estrada Venegas.- Rúbrica.- C. Margarita Hortensia Martínez de Moreno, Regidora del Ayuntamiento.- Rúbrica.- C. Jesús Plascencia Miramontes, Regidor del Ayuntamiento.- Rúbrica.- C. José Murillo Vázquez, Regidor del Ayuntamiento.- Rúbrica.- C. Ing. Francisco Niembro Domínguez, Regidor del Ayuntamiento.- Rúbrica.- C. Silvia Barbosa de Lomelí, Regidor del Ayuntamiento.- Rúbrica.- C. Tomás Peñaloza López, Regidor del Ayuntamiento.- Rúbrica.- C. Carlos Rubén Romo Flores, Regidor del Ayuntamiento.- Rúbrica.- C. Alba Lara Solano, Regidora del Ayuntamiento.- Rúbrica.- C. Cecilio Lepe Bautista, Regidor del Ayuntamiento.- Rúbrica.- Secretaria del H. Ayuntamiento, Profesora María Remedios Olivera Orozco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MAYO DE 2004.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
