@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2004-12-01"
+last_updated: "2004-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,25 +18,27 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMÉRICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA.
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el miércoles 29 de diciembre de 2004.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9 fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 31 de diciembre de 2003 se publicó en el Diario Oficial de la Federación Acuerdo por el que se dan a conocer los cupos mínimos para importar en el periodo 2004-2007 dentro del arancel-cuota establecido en el Tratado de Libre Comercio de América del Norte, maíz excepto para siembra, originario de los Estados Unidos de América o de Canadá, modificado mediante diverso dado a conocer en el mismo órgano informativo el 5 de agosto de 2004;
+Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993 y publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos el establecimiento de reglas claras y de beneficio mutuo para su intercambio comercial;
 
-Que el artículo 302 párrafo 4 del propio tratado, establece que cada una de las partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota) establecido en el Anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones adicionales a los derivados de la imposición del arancel-cuota;
+Que el Apéndice 6, Sección B del Anexo 300-B de dicho Tratado, establece que cada una de las Partes podrá otorgar un trato de preferencia arancelaria para bienes textiles y prendas de vestir no originarios producidos en territorio de una de las partes e importado a otra de las Partes, de conformidad con las disposiciones establecidas en dicho Apéndice y hasta por los montos señalados en los cuadros 6.B.1, 6.B.2 y 6.B.3;
 
-Que el procedimiento de asignación de los cupos de importación referidos, es un instrumento de la política sectorial para promover las corrientes comerciales entre las Partes;
+Que el procedimiento de asignación de los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, producidos en territorio de una de las Partes e importados a territorio de otra de las partes, susceptibles de recibir trato de preferencia arancelaria, es un instrumento que propicia la participación dinámica de los distintos agentes económicos, en particular del sector privado, en los esfuerzos orientados a profundizar las relaciones económicas entre las partes y a desarrollar y potenciar al máximo las posibilidades de su presencia conjunta en los mercados internacionales, y
 
-Que derivado de los requerimientos actuales de las cadenas productivas, es necesario adoptar acciones que permitan prevenir situaciones de desabasto de maíz, en apoyo de las empresas que utilizan este producto como materia prima en sus procesos productivos, y
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
-
-ACUERDO POR EL QUE SE REFORMA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS MINIMOS PARA IMPORTAR EN EL PERIODO 2004-2007 DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MAIZ EXCEPTO PARA SIEMBRA, ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
+ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
 ###### ARTICULO 1o.
 
@@ -70,7 +72,7 @@ Los permisos previos que se tramiten ante la Secretaría de Economía, para la i
 
 ###### ARTICULO PRIMERO.
 
-Los cupos mínimos para importar maíz, excepto para siembra en el periodo 2004-2007, con el arancel-cuota establecido en el artículo 302 párrafo 4 del Tratado de Libre Comercio de América del Norte, son los que se determinan en el siguiente cuadro:
+Los cupos, para exportar a los Estados Unidos de América y a Canadá, bienes textiles y prendas de vestir no originarios producidos en territorio nacional, en adelante cupos de exportación, así como para importar de dichos países bienes textiles y prendas de vestir no originarios, producidos en el territorio de éstos, susceptibles de recibir trato de preferencia arancelaria conforme a lo dispuesto en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte durante el periodo del 1 de enero al 31 de diciembre de cada año, son los que se determinan a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -192,79 +194,21 @@ II.- Tratándose de productos calificados de Canadá, el criterio para trato pre
 
 ###### ARTICULO TERCERO.
 
-Podrán solicitar asignación de estos cupos, las personas físicas y morales establecidas en los Estados Unidos Mexicanos, que utilicen maíz, excepto para siembra, como insumo en sus procesos productivos y que se encuentren en operación, conforme a los siguientes criterios generales:
+Pueden solicitar el registro de sus productos las personas físicas y morales establecidas en los Estados Unidos Mexicanos, mediante el procedimiento siguiente:
 
-a) Procurar que los cupos de importación de maíz sean complementarios a las cosechas nacionales;
+a) Los interesados deberán presentar la "Solicitud de Inscripción en el Registro de Bienes Textiles y Prendas de Vestir no originarios elegibles para recibir de trato de preferencia arancelaria" formato SE-03-012-1, en la "Ventanilla de cupos TLC" de la Dirección General de Comercio Exterior de esta Secretaría, sita en Insurgentes Sur No. 1940, planta baja, colonia Florida, código postal 01030, México, D.F. o en la representación federal de esta Secretaría, que le corresponda. No existe hoja de requisitos específicos.
 
-b) Fomentar la competitividad de la producción nacional y fortalecer la de las cadenas agroindustriales y del sector pecuario, tomando en cuenta los plazos de apertura de los tratados de libre comercio vigentes;
+b) El horario de recepción será de 9:00 a 14:00 horas, en días hábiles.
 
-c) Procurar el abasto de las necesidades nacionales de materia prima;
-
-d) Complementar con maíz importado el abasto de este grano a las regiones dentro del área de influencia de cosechas nacionales durante el periodo en que no se encuentren disponibles dichas cosechas;
-
-e) Procurar un trato equitativo entre los beneficiarios de las asignaciones en función de su participación en las compras nacionales y en el mercado, y
-
-f) Para la distribución del cupo y los montos a asignar, se utilizará como referencia la balanza disponibilidad-consumo de maíz para cada año del periodo 2004-2007 y las cifras oficiales, de la base de datos de los “mercados de granos” de esta Secretaría y de la SAGARPA.
-
-La asignación del cupo de importación de maíz, será para los sectores de las industrias que a continuación se indican, considerando los criterios específicos que en cada uno de ellos se establecen.
-
-Maíz Amarillo:
-
-La asignación de maíz amarillo será otorgada por la Dirección General de Comercio Exterior para las personas físicas o morales de las industrias almidonera, cerealera, frituras y botanas y del sector pecuario (alimentos balanceados, avicultura, porcicultura, ganadería bovina de carne y de leche), conforme al criterio de asignación, apertura de ventanilla y vigencia de los certificados que se detallan a continuación:
-
-(VEASE ARCHIVO ANEXO)
-
-El dictamen para las industrias: almidonera, cerealera, frituras y botanas será dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Comercio Exterior cuente con las solicitudes debidamente requisitadas; el dictamen para el sector pecuario se emitirá sólo hasta que la Dirección General de Comercio Exterior haya recibido la totalidad de las solicitudes. En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como las condiciones a que deben sujetarse los beneficiarios.
-
-Maíz Blanco:
-
-La asignación de maíz blanco será otorgada por la Dirección General de Comercio Exterior, previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, para las personas físicas o morales de las industrias harinera y molinera de nixtamal, comercializadoras que abastecen a la industria de la masa y la tortilla y para la empresa del sector público encargada de la distribución de este producto, ubicadas en los estados de Baja California, Coahuila, Chiapas, Nuevo León, Oaxaca, Tabasco, Tamaulipas, Veracruz y Yucatán, conforme al criterio de asignación, apertura de ventanilla y vigencia de los certificados que se detallan a continuación:
-
-(VEASE ARCHIVO ANEXO)
-
-El dictamen para las industrias harinera y molinera de nixtamal, comercializadoras que abastecen a la industria de la masa y la tortilla, del sector público encargada de distribuir este producto, será emitido por la Dirección General de Comercio Exterior previo dictamen favorable de la Dirección General de Industrias Básicas de esta Secretaría, quien lo emitirá conjuntamente con la opinión de la Dirección General de Desarrollo de Mercados, de Apoyos y Servicios a la Comercialización Agropecuaria ASERCA/SAGARPA de la Secretaría de Agricultura, Ganadería Desarrollo Rural, Pesca y Alimentación, dentro de los siete días hábiles siguientes a la fecha en que la Dirección General de Industrias Básicas haya recibido de la Dirección General de Comercio Exterior para su dictamen, las solicitudes debidamente requisitadas. En todos los casos se deberá señalar el monto y plazo para ejercer la asignación, así como, las condiciones a que deben sujetarse los beneficiarios.
-
-Los beneficiarios de los sectores almidonero, cerealero, harinero de maíz, del sector pecuario, de frituras y botanas y molinera de nixtamal, quedan obligados a presentar dentro de los quince días siguientes al vencimiento del cupo, un reporte emitido por auditor externo dirigido a la Dirección General de Industrias Básicas, correspondiente al periodo en que fue asignado el cupo, en el que se certifique los siguientes puntos:
-
-Inventario de maíz al inicio del periodo por origen (nacional e importado);
-
-Volumen de compras de maíz y/o granos forrajeros, identificándolas por origen (nacional e importado), anexando, en su caso, las hojas de descargo de los correspondientes certificados de cupo;
-
-Cantidad de grano utilizado, desglosando su origen (nacional o importado);
-
-Volumen de fabricación por tipo de producto final;
-
-Total de las mermas que se registraron en el periodo, diferenciando entre las correspondientes a la movilización del grano y las del procesamiento de éste, e
-
-Inventario de maíz al final del periodo por origen (nacional e importado).
-
-Las personas comercializadoras que abastecen a la industria de la masa y la tortilla, quedan obligados a presentar la información que a continuación se detalla:
-
-1. El primer día hábil de cada semana, un reporte dirigido a la Dirección General de Industrias Básicas, en el cual se indique el precio promedio de maíz importado al que estuvieron vendiendo a la industria de la masa y la tortilla por entidad federativa, hasta agotar el cupo. Este reporte, podrá ser enviado por correo electrónico a la siguiente dirección electrónica: ftostado@economia.gob.mx; por fax al (55) 52-29-65-08 o, en su caso, presentarlo directamente en la Representación Federal de la Secretaría de Economía, que corresponda;
-
-2. Reporte bimestral emitido por auditor externo, dentro de los siguientes treinta días posteriores al vencimiento de cada bimestre calendario, dirigido a la Dirección General de Industrias Básicas que certifique los siguientes datos:
-
-Las compras totales de maíz, desglosadas por su origen (nacional e importado); anexando, en su caso, las hojas de descargo de los correspondientes certificados de cupo;
-
-El inventario de maíz nacional e importado, con que contaba la empresa al inicio del bimestre, y
-
-Evidencia de que el volumen de maíz importado, se comercializó con las empresas de la industria de la masa y la tortilla, en los estados para los cuales se asignó el cupo, anexando el soporte electrónico de las ventas.
-
-Los reportes que se mencionan en el presente artículo deberán ser emitidos por un auditor externo registrado ante la Secretaría de Hacienda y Crédito Público (SHCP), debiendo indicar su número de registro correspondiente y rubricar todas las hojas y anexos, en su caso, que integren dichos reportes.
-
-A excepción de las empresas comercializadoras, la mercancía no podrá ser comercializada en el mismo estado físico en que se importe.
-
-Para la distribución del cupo y el monto a asignar se utilizará como referencia las cifras o estadísticas de los mercados de granos de la Secretaría de Economía (SE) y de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA).
-
-Para la aplicación de los criterios que se mencionan en este artículo, la Dirección General de Comercio Exterior, podrá solicitar la interpretación de la Dirección General de Industrias Básicas.
+c) La Secretaría expedirá, en su caso, la Constancia de Registro a las solicitudes en un plazo no mayor a siete días hábiles, contados a partir de la fecha de recepción de la solicitud. La Constancia de Registro es válida únicamente en el año en el que se realice el registro, por lo que cada año deberá realizar este trámite.
 
 ###### ARTICULO CUARTO.
 
-La Dirección General de Industrias Básicas de esta Secretaría y la Dirección General de Desarrollo de Mercados de ASERCA/SAGARPA, efectuarán periódicamente reuniones con los representantes de las principales organizaciones de productores y de consumidores de maíz, con el fin de evaluar y dar seguimiento a la administración de este cupo.
+Las personas que obtengan Constancia de Registro, deberán solicitar, ante la oficina en la cual obtuvieron dicha Constancia, la expedición del Certificado de Elegibilidad correspondiente para cada embarque, en el formato SE-03-013-2 “Solicitud de certificado de elegibilidad para bienes textiles y prendas de vestir con Canadá y Estados Unidos de América”, en horario de 9:00 a 10:00 horas. La resolución será entregada entre las 13:00 y las 14:00 horas del mismo día de la solicitud de expedición”.
 
 ###### ARTICULO QUINTO.
 
-Las solicitudes de asignación deberán presentarse en el formato SE-03-011-1 Solicitud de asignación de cupo en la ventanilla de la Representación Federal, de esta Secretaría que le corresponda. Las hojas de requisitos específicos, se establecen como anexo al presente Acuerdo.
+Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en la Dirección General de Comercio Exterior, en las Representaciones Federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica www.cofemer.gob.mx.
 
 ###### ARTICULO SEXTO.
 
@@ -276,7 +220,9 @@ Los formatos a que se hace referencia en este Acuerdo estarán a disposición de
 
 ###### ARTICULO SEGUNDO.
 
-Durante el periodo 2004-2007 se aplicará a los cupos de importación a que se refiere el presente Acuerdo, el procedimiento de asignación directa.
+Los cupos descritos en las columnas (2), (3) y (5) del cuadro del artículo primero del presente Acuerdo, se asignarán de manera directa bajo la modalidad de “Primero en Tiempo, Primero en Derecho".
+
+Los cupos de importación de bienes textiles y prendas de vestir no originarios, procedentes de Canadá, especificados en la columna (4) del cuadro del artículo primero del presente Acuerdo, son administrados por el gobierno canadiense, mediante la expedición de certificados de elegibilidad que otorga a sus empresas exportadoras.
 
 ###### ARTICULO OCTAVO.
 
@@ -420,28 +366,18 @@ Las disposiciones del presente Decreto no liberan del cumplimiento de las restri
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
+UNICO.- El presente Acuerdo entrará en vigor a partir del 1 de enero del año 2005.
 
-México, D.F., a 25 de noviembre de 2004.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+México, D.F., a 20 de diciembre de 2004.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
-SECRETARIA DE ECONOMIA
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
-DIRECCION GENERAL DE COMERCIO EXTERIOR
+D.O.F. 23 DE JULIO DE 2007.
 
-DIRECCION DE OPERACION DE CUPOS DE IMPORTACION Y EXPORTACION
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
 
-2005-2007
+SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004.
 
-REQUISITOS PARA LA ASIGNACION DEL CUPO DE IMPORTACION DE
+TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
 
-MAIZ, EXCEPTO PARA SIEMBRA (BLANCO)
-
-1005.90.04
-
-ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA O DE CANADA
-
-TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
-
-ASIGNACION DIRECTA
-
-(VEASE ARCHIVO ANEXO)
+CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
