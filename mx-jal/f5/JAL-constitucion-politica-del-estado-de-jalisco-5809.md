@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1999-01-14"
+last_updated: "1999-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -394,6 +394,10 @@ VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario de
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 VIII. No ser Juez, Secretario de Juzgado, Secretario del Consejo General del Poder Judicial, Presidente Municipal, Secretario o Síndico de Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1999)</small>
+
+IX. En el caso de quien ya hubiere sido diputado local, probar que la última vez que lo fue, cumplió con la fracción I del artículo 28 de la Constitución Política del Estado de Jalisco; si no cumplió, se requiere transcurran cuando menos ocho años a partir de la conclusión de tal cargo.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -1079,7 +1083,7 @@ Las decisiones del Consejo General serán definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De la hacienda y del patrimonio municipal
+### CAPITULO I. Del gobierno municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1107,7 +1111,7 @@ El pleno del Tribunal elegirá, de entre sus miembros, en los términos y bajo l
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Del gobierno municipal
+### CAPITULO III. De la hacienda y del patrimonio municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1177,7 +1181,9 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-## TITULO SEPTIMO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+## TITULO SEPTIMO
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
@@ -1239,9 +1245,9 @@ Si no procediere que se celebren nuevas elecciones, el Congreso designará entre
 
 Los concejos municipales y sus integrantes tendrán las mismas facultades y obligaciones que esta Constitución y las leyes establecen para los ayuntamientos.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+### CAPITULO II. Del juicio político
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1389,9 +1395,9 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO II. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 88.
 
@@ -1419,9 +1425,9 @@ El Congreso no podrá establecer exenciones o subsidios respecto de contribucion
 
 ## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO IV. Del procedimiento administrativo
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 90.
 
@@ -1471,7 +1477,7 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 En los juicios del orden civil no hay fuero ni inmunidad.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ### CAPITULO I. Prevenciones generales
 
@@ -1505,9 +1511,11 @@ IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, de
 
 Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+### CAPITULO IV. Del procedimiento administrativo
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 99.
 
@@ -1563,11 +1571,9 @@ No se requerirá declaración de procedencia del Congreso, cuando alguno de los 
 
 Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
-### CAPITULO II. De las reformas a la Constitución
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1587,7 +1593,7 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. Del juicio político
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1595,7 +1601,9 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 1994)</small>
 
-## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+## TITULO OCTAVO
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO II. De las reformas a la Constitución
 
@@ -1665,7 +1673,7 @@ Ninguna autoridad impondrá préstamos forzosos, ni las dependencias harán gast
 
 Las relaciones laborales del Estado, de los municipios y de los organismos descentralizados de ambos con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la que deberá establecer el servicio civil de carrera, respetando las disposiciones del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 117.
 
@@ -2018,3 +2026,9 @@ P.O. 14 DE ENERO DE 1999.
 Artículo Primero. Envíese copia certificada del presente proyecto de dictamen de decreto a los 124 ayuntamientos del estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 Artículo Segundo. El presente proyecto de decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE JUNIO DE 1999.
+
+Primero. Envíese copia certificada de la presente minuta proyecto de decreto a los 124 ayuntamientos del estado, con el Diario de Debates en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
