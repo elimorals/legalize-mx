@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1991-12-30"
+last_updated: "1992-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -399,11 +399,11 @@ Mientras se practica la valuación correspondiente a cada porción del predio di
 
 #### SECCION CUARTA. DE LA BASE DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 21 Bis 7.
 
-La base del impuesto será el valor catastral del inmueble, el cual será determinado conforme al procedimiento previsto en la Ley del catastro. Esta base se ajustará a miles de pesos, aumentando o disminuyendo a ceros las tres ultimas cifras, según estas excedan o no de 500.
+La base del impuesto será el valor catastral del inmueble, el cual será determinado conforme al procedimiento previsto en la Ley del Catastro. Esta base se ajustará a pesos, aumentando o disminuyendo las décimas a la unidad más próxima, según éstas excedan o no de N$.50.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -417,11 +417,11 @@ Salvo lo establecido en el artículo siguiente, el Impuesto Predial se determina
 
 Los propietarios de predios baldíos, ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, cuya superficie no exceda de 200 metros cuadrados, cubrirán su impuesto a la tasa del 3 al millar anual, siempre que no tengan otro inmueble en propiedad o posesión, debiendo mantener limpio su predio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 21 Bis 9.
 
-El impuesto Predial se pagará a una tarifa única especial de $36,000.00 anuales, cuando se trate de los siguientes casos:
+El Impuesto Predial se pagará a una tarifa única especial de N$40.00 anuales, cuando se trate de los siguientes casos:
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -439,7 +439,11 @@ II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como
 
 III.- Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
-IV.- (DEROGADA P.O. 30 DE DICIEMBRE DE 1991)
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+IV.- Las viviendas cuyo valor catastral no exceda de N$72,000.00, siempre y cuando el propietario la habite y no tenga en propiedad o posesión otro bien raíz en el Estado.
+
+Si el valor catastral de la vivienda excede de N$72,000.00, pero no de N$120,000.00, se cubrirá el doble de la tarifa especial anual.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -453,13 +457,13 @@ VI.- Los predios afectados al patrimonio de familia, en los términos del Códig
 
 VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asociaciones con objetivos similares, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VIII.- Los entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de tierra; las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de $36'000,000.00, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre y cuando habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado.
+VIII.- Los entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de tierra; las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de N$72,000.00, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre y cuando habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IX.- Los predios cuyo valor catastral no exceda de $70'000,000.00 y pertenezcan a:
+IX.- Los predios cuyo valor catastral no exceda de N$87,500.00 y pertenezcan a:
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -485,9 +489,9 @@ e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de 
 
 f) Los predios pertenecientes a los trabajadores al servicio de la Federación, Estado o Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Si el valor catastral del predio excede de $70'000,000.00 y no de $140'000,000.00, se pagará por concepto de Impuesto Predial anual el doble de la tarifa especial.
+Si el valor catastral del predio excede de N$87,500.00 y no de N$175,000.00, se pagará por concepto de Impuesto Predial anual el doble de la tarifa especial.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -521,9 +525,13 @@ Los sujetos beneficiados con la tarifa referida, deberán manifestar a la Secret
 
 La tasa del impuesto es anual y su pago deberá hacerse por bimestres adelantados, que se cubrirán a más tardar el día 25 de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el último día hábil del mes de Enero, en cuyo caso se gozará de una reducción del 10% de dicha anualidad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Si el monto anual del impuesto no excede de $108,000.00, para los predios ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, o de $54,000.00, para los predios ubicados en los demás municipios, o si el contribuyente se encuentra beneficiado con la tarifa señalada en el artículo 21 bis-9, el pago deberá hacerse en un solo entero dentro de los primeros seis meses de cada año.
+Si el monto anual del impuesto no excede de N$120.00, para los predios ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, o de N$60.00, para los predios ubicados en los demás municipios, o si el contribuyente se encuentra beneficiado con la tarifa señalada en el artículo 21 bis-9, el pago deberá hacerse en un solo entero dentro de los primeros seis meses de cada año.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+El impuesto mínimo a pagar en ningún caso podrá ser inferior de N$40.00 tratándose de predios en general; de N$120.00 tratándose de predios baldíos ubicados en los Municipios de Apodaca, Guadalupe, Monterrey, San Nicolás de Los Garza, San Pedro Garza García y Santa Catarina, y de N$60.00 en el caso de predios baldíos ubicados en el resto del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -597,9 +605,9 @@ Las manifestaciones a que alude este Capítulo y la Ley del Catastro, respecto d
 
 También se consideran comprendidas en este Artículo las manifestaciones de división o fusión de predios en que no se opere traslado de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o por que los predios fusionados sean de un solo propietario. Los Notarios Públicos que autoricen dichas escrituras, tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Secretará de Fianzas y Tesorería General del Estado, dentro del mismo término que establece el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-La omisión de los avisos mencionados en este Capítulo generará una multa de $50,000.00.
+La omisión de los avisos mencionados en este Capítulo generará una multa de N$50.00. a N$100.00.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -743,23 +751,27 @@ Los Notarios, corredores públicos y jueces que actúen por receptoría serán s
 
 ### CAPITULO I BIS (SIC). IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 28 Bis.
 
-Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este impuesto se refiere. Salvo lo dispuesto en el artículo siguiente, el impuesto se calculará aplicando la tasa del 6% al valor gravable del inmueble.
+Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este Impuesto se refiere. Salvo lo dispuesto en el artículo siguiente, el impuesto se calculará aplicando la tasa del 4% al valor gravable del inmueble.
 
-El valor gravable del inmueble será el que resulte mayor entre el valor de adquisición y el indicado en el certificado de valor actual real que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado, al cual se le reducirá el valor del inmueble que se tomó como base para calcular este impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los 3 años anteriores a la adquisición por la que se calcula el impuesto.
+El valor gravable del inmueble será el que resulte mayor entre el valor de adquisición y el indicado en el certificado de valor actual real que al efecto expida la Secretaría de Finanzas y Tesorería General del Estado, al cual se le reducirá el valor del inmueble que se tomó como base para calcular este impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. Para los efectos de esta ley, se considera base del impuesto el valor mayor entre el de operación y el consignado en el certificado de valor actual real.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 28 Bis 1.
 
-Tratándose de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real sea mayor de 10 veces el salario mínimo general elevado al año y siempre que el adquiriente vaya a hacer uso propio de la vivienda y no tenga en propiedad oposición otro bien raíz en el Estado, o cuando, teniendo un solo inmueble rústico el valor catastral de éste no exceda de $90'000,000.00, el adquiriente podrá optar por cubrir el impuesto conforme a lo previsto en el artículo anterior o aplicar al valor más alto del inmueble, una tasa que se obtendrá dividiendo el valor más alto entre la cantidad que resulte de multiplicar por diez el salario mínimo general elevado al año, sin que en ningún caso esta tasa pueda exceder del 6%. Si la tasa resultante arroja centésimas, éstas no se tomarán en cuenta.
+Tratándose de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real sea mayor de 15 veces el salario mínimo general elevado al año y siempre que el adquirente sea persona física, éste podrá optar por cubrir el impuesto conforme a lo previsto en el artículo anterior o aplicar al valor más alto del inmueble, una tasa que se obtendrá dividiendo el valor más alto entre la cantidad que resulte de multiplicar por diez el salario mínimo general elevado al año sin que en ningún caso esta tasa pueda exceder del 4%. Si la tasa resultante arroja centésimas, éstas no se tomarán en cuenta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-El Impuesto sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial de $90,000.00 en los siguientes casos:
+En el caso de terrenos sin construcción cuyo valor mayor entre el de adquisición y el consignado en el certificado de valor actual real no exceda de 10 veces el salario mínimo general elevado al año, se aplicará una tasa del 2%, siempre que el adquirente sea persona física y no tenga en propiedad o posesión otro inmueble en el Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+El Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial de N$100.00 en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -809,17 +821,17 @@ X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los pan
 
 XI.- En las adquisiciones realizadas a través de fideicomisos en que funjan como fideicomisarios instituciones públicas o para-públicas, destinadas a la solución del problema de la vivienda en la Entidad, tales como INFONAVIT, FOVISSTE (sic), etc.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XII.- En las adquisiciones de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real no exceda de 10 veces el salario mínimo general elevado al año, siempre que el adquirente vaya a hacer uso propio de la vivienda y no tenga en propiedad o posesión otro bien raíz en el Estado, o que, teniendo un solo inmueble rustico, el valor catastral de éste no exceda de $90'000,000.00.
+XII.- En las adquisiciones de viviendas cuyo valor más alto entre el valor de adquisición y el indicado en el certificado de valor actual real, no exceda de 15 veces el salario mínimo general elevado al año, siempre que el adquirente sea persona física.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 XIII.- En las adquisiciones que se realicen por causa de muerte.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta, así como en las que se hagan entre el adoptante y el adoptado, entre sus respectivos ascendientes y descendientes en línea recta, y entre estos y aquéllos.
+XIV.- En las donaciones que se hagan entre ascendientes y descendientes en línea recta, así como en las que se hagan entre el adoptante y el adoptado, entre sus respectivos ascendientes y descendientes en línea recta, y entre éstos y aquéllos. En el caso de que el inmueble forme parte de la sociedad conyugal del ascendiente o del descendiente, la tarifa especial operará respecto de la totalidad de los derechos de la sociedad conyugal relacionados con el inmueble.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -859,6 +871,10 @@ En las permutas se considerará que se efectúan dos adquisiciones.
 
 En las adquisiciones efectuadas a través de arrendamiento financiero, cuando el arrendatario ejerza su opción de compra, se considerarán como una sola adquisición las realizadas por la arrendadora y por el arrendatario financieros (sic), siempre que se demuestre que fue cubierto el impuesto correspondiente a la adquisición efectuada por la arrendadora financiera. Consecuentemente, en estos casos no se generará el impuesto a cargo del arrendatario financiero.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+No se pagará este impuesto en el caso de adquisiciones que realicen las asociaciones religiosas, constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, siempre que la adquisición la realicen dentro de los seis meses siguientes a su constitución.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 28 Bis 3.
@@ -891,9 +907,9 @@ En los demás casos, los contribuyentes pagarán el impuesto mediante la formula
 
 Los fedatarios públicos, dentro del mes siguiente a la fecha en que se autorice la escritura o se levante el acta fuera de protocolo respectiva (sic), darán aviso a la Tesorería Municipal correspondiente, de los poderes irrevocables para la venta de inmuebles ubicados en el Estado, que se otorguen o ratifiquen ante su fe, cuando no se especifique en ellos el nombre del adquirente. La omisión a la presentación oportuna del aviso se sancionará con multa de 10 a 20 veces el salario mínimo general diario, vigente en la zona económica en donde se encuentre el inmueble.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto que enterar. La nota oficial se presentará en original y 7 copias en la oficina receptora o institución bancaria correspondiente.
+Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto que enterar. La nota oficial se presentará en original, firmado por el contribuyente o responsable solidario, y 3 copias en la oficina receptora o institución bancaria autorizada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -947,9 +963,9 @@ Cuando estas operaciones se hayan celebrado respecto de una vivienda o suelo urb
 
 III.- Dentro de los treinta días siguientes al momento de efectuarse la cesión de derechos, respecto del impuesto a cargo del cedente que se hubiere generado al adquirir sus derechos sobre el inmueble. El cesionario no responderá por este pago.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- En los casos no previstos en las fracciones anteriores, dentro del mes siguiente a aquél en que los actos de que se trate se protocolicen en escritura pública, debidamente firmada por los contratantes, y si no están sujetos a esta formalidad, a partir del momento en que se adquiera el dominio conforme a las leyes.
+IV.- En los casos no previstos en las fracciones anteriores, dentro del mes siguiente a aquél en que los contratantes firmen la escritura pública correspondiente, y si no están sujetos a esta formalidad, a partir del momento en que se adquiera el dominio conforme a las leyes.
 
 El pago del impuesto no estará sujeto a previa calificación de la autoridad fiscal municipal, quien por sí no pondrá modificar el certificado de valor actual real que haya expedido la Secretaría de Finanzas y Tesorería General del Estado; sin perjuicio de los demás derechos de fiscalización que aquélla conserva.
 
@@ -1019,15 +1035,11 @@ Por espectáculo público debe entenderse toda función de esparcimiento, sea te
 
 SUJETOS:- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 31.
 
-TASA.- Los sujetos pagarán, por concepto de este impuesto, las siguientes tasas:
-
-I.- Tratándose de cines, circos, futbol, beisbol, basquetbol y otros espectáculos similares dirigidos a las clases populares 5%
-
-II.- Otros espectáculos 8%.
+TASA.- Los sujetos pagarán, por concepto de este impuesto, el 5% de la entrada bruta que genere el espectáculo correspondiente.
 
 ###### ARTICULO 32.
 
@@ -1467,37 +1479,37 @@ La Tesorería Municipal formulará y notificará oportunamente al causante, la l
 
 RASTRO.- En los Municipios de Monterrey, Allende, Guadalupe, Apodaca, Cadereyta, Escobedo, Linares, Montemorelos, Sabinas Hidalgo, Santa Catarina, San Nicolás de los Garza, San Pedro Garza García y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria y edificios:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $45,000.00
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso N$50.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $30,000.00
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos N$32.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $23,000.00
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso N$26.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $15,000.00
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos N$17.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-V.- Por cabeza de ganado ovicaprino $6,000.00
+V.- Por cabeza de ganado ovicaprino N$7.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VI.- Por cabrito $3,000.00
+VI.- Por cabrito N$3.50
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VII.- Por ave, con excepción de guajolotes $500.00
+VII.- Por ave, con excepción de guajolotes N$.55
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VIII.- Por guajolote $700.00
+VIII.- Por guajolote N$.80
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1509,33 +1521,33 @@ En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de 
 
 REFRIGERACION.- Por el servicio de refrigeración de animales prestado en los rastros municipales, diariamente:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $12,000.00
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso N$14.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $8,000.00
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos N$9.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $6,000.00
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso N$7.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $4,000.00
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos N$4.50
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-V.- Por cabeza de ganado ovicaprino $2,000.00
+V.- Por cabeza de ganado ovicaprino N$2.50
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VI.- Por cabrito $600.00
+VI.- Por cabrito N$.70
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VII.- Por ave $200.00
+VII.- Por ave N$.25
 
 Cuando se trate de animales incompletos se causarán los derechos que establece este artículo si la carne que se presenta corresponde a más del 50% del animal. Si es menor se cobrará el 50% de la cuota.
 
@@ -1543,41 +1555,41 @@ Cuando se trate de animales incompletos se causarán los derechos que establece 
 
 INSPECCION SANITARIA.- Por servicios prestados por inspección sanitaria y resello de carnes frescas o refrigeradas, de ganado o aves:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-I.- Ganado mayor por canal $2,400.00
+I.- Ganado mayor por canal N$2.75
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Ganado porcino por canal $1,800.00
+II.- Ganado porcino por canal N$2.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-III.- Ganado ovicaprino por canal $700.00
+III.- Ganado ovicaprino por canal N$.80
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- Cabrito, por cada uno $500.00
+IV.- Cabrito, por cada uno N$.55
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-V.- Aves, por cada una $150.00
+V.- Aves, por cada una N$.20
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VI.- Guajolotes, cada uno $500.00
+VI.- Guajolotes, cada uno N$.55
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VII.- Cabeza de res o cerdo $500.00
+VII.- Cabeza de res o cerdo N$.55
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VIII.- Asadura, por pieza $150.00
+VIII.- Asadura, por pieza N$.20
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IX.- Menudo, por pieza $150.00
+IX.- Menudo, por pieza N$.20
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
@@ -1591,21 +1603,83 @@ Servicios prestados por las oficinas competentes en materia de Obras Públicas y
 
 I.- Por inspección y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-a) PRIMERA CATEGORIA: Comprende residencias con más de 150 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, $1,500.00 el metro cuadrado.
+a) PRIMERA CATEGORIA:- Comprende residencias con más de 500 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, N$1.75 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) SEGUNDA CATEGORIA: Comprende construcciones industriales y todo tipo de construcción no incluída dentro de la primera o tercera categoría, $1,000.00 el metro cuadrado.
+b) SEGUNDA CATEGORIA:- Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera o tercera categoría, N$1.15 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-c) TERCERA CATEGORIA: Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, $500.00 el metro cuadrado.
+c) TERCERA CATEGORIA:- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, N$.55 el metro cuadrado.
 
 II.- Construcción o reconstrucción de banquetas en el sector urbanizado de la ciudad, cuando el trabajo se realice por el Municipio en razón de no haberla efectuado el obligado dentro del plazo de un mes siguiente al día en que surta efectos la notificación del requerimiento para que efectúe dichas obras. En este caso se pagarán los derechos correspondientes en función del costo real de la obra.
 
 En materia de construcciones y urbanizaciones, no se cobrará derecho alguno por cualquier servicio prestado por la Autoridad Municipal, diverso a los señalados expresamente en esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 52 Bis.
+
+Por los servicios prestados en tramitaciones urbanísticas que se realizan en el Municipio en materia de desarrollo urbano:
+
+I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción resultante N$500.00
+
+II.- Por licencia de uso de suelo o de edificaciones, N$1,000.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+
+a) Comercial, oficinas y servicios N$19.50
+
+b) Bodegas N$9.50
+
+c) Industrial N$9.50
+
+d) Hospitales y escuelas privadas N$6.50
+
+e) Edificaciones habitacionales multifamiliares N$6.50
+
+f) Otros, excepto casa-habitación N$6.50
+
+III.- Por autorización de constitución de regímenes en condominio, por metro cuadrado de construcción, excluyendo estacionamientos N$3.00
+
+IV.- Por autorización de fraccionamientos:
+
+a) Por factibilidad y lineamientos N$2,000.00
+
+b) Por proyecto urbanístico ejecutivo, por metro cuadrado de área vendible:
+
+1.- Habitaciones o industriales exceptuando los predios reservados para equipamientos comerciales y de servicios, de acuerdo a lo siguiente:
+
+A) Lotes con superficie desde 85 metros cuadrados a 150 metros cuadrados N$3.00
+
+B) Lotes con superficie de más de 150 metros cuadrados y hasta 300 metros cuadrados N$4.00
+
+C) Lotes con superficie mayor de 300 metros cuadrados N$5.00
+
+2.- Industriales ubicados en los Municipios de Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina N$3.00
+
+3.- Industriales ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, y Juárez N$1.50
+
+4.- Campestres, ubicados en los Municipios de San Pedro Garza García, Monterrey y Santiago N$3.00
+
+5.- Campestres ubicados en el resto del Estado N$.20
+
+6.- Otros N$3.00
+
+c) Proyecto ejecutivo N$2,000.00
+
+d) Autorización de venta N$2,000.00
+
+e) Prórroga N$1,000.00
+
+f) Actualización de garantías N$1,000.00
+
+g) Modificaciones N$1,000.00
+
+h) Recepción de obra N$10,000.00
+
+Por regularización y ordenamiento urbano de fraccionamientos y en licencias de uso de suelo y de edificaciones, N$18,000.00 por trámite, más las cuotas correspondientes previstas en este artículo, fracciones II y IV.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1637,33 +1711,33 @@ Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los en
 
 Por registro de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $300.00
+a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados N$.35
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados $150.00
+b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadra dos y 250 metros cuadrados $.17
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $100.00
+c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $.12
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García $150.00
+d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García N$.17
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-e) Cementerios ubicados en el resto de los Municipios del Estado $100.00
+e) Cementerios ubicados en el resto de los Municipios del Estado N$.12
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 Estos servicios incluyen el registro del plano del fraccionamiento, la aprobación de la nomenclatura de las calles y la asignación del número oficial de cada lote.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Cuando lo solicite directamente el propietario del predio, la asignación del número oficial se hará al presentarse los planos de construcción para su aprobación ante la autoridad municipal competente, debiendo cubrirse la cantidad de $15,000.00 por concepto de derechos por este servicio.
+Cuando lo solicite directamente el propietario del predio, la asignación del número oficial se hará al presentarse los planos de construcción para su aprobación ante la autoridad municipal competente, debiendo cubrirse la cantidad de N$17.00 por concepto de derechos por este servicio.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1697,7 +1771,9 @@ La transmisión del dominio de la superficie cedida no requerirá de escrituraci
 
 Por expedición de certificados, autorizaciones, constancias o registros:
 
-I.- Por expedición de certificados, autorizaciones y constancias, $10,000.00 por cada uno.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+I.- Por expedición de certificados, autorizaciones y constancias, N$15.00 por cada uno.
 
 II.- Por registro de regularización que a juicio de los Municipios deban llevarse a cabo, de negocios señalados en los artículos 58 y 59 de esta Ley, se cobrará una cantidad cincuenta por ciento mayor que la máxima correspondiente señalada en dichos artículos.
 
@@ -1709,51 +1785,95 @@ II.- Por registro de regularización que a juicio de los Municipios deban llevar
 
 Por inscripción al inicio de las actividades que se señalan, así como por el refrendo anual de la licencia, autorización, permiso, concesión, se cubrirán las siguientes cuotas en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina:
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $2'000,000.00 a $4'000,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Casa de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $2'000,000.00 a $6'500,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística y similares, de N$12,000.00 a N$30,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+II.- Hoteles de paso, de N$12,000.00 a N$30,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 III.- Establecimientos en que se vendan al menudeo vinos de mesa y bebidas alcohólicas en botella cerrada:
 
-a) Con abarrotes, de $100,000.00 a $300,000.00.
+a) Sin empleados y hasta 50 metros cuadrados de construcción, de N$300.00 a N$800.00.
 
-b) Depósitos y demás establecimientos de $4,000.00 a $8,000.00.
+b) Con empleados y hasta 50 metros cuadrados de construcción, de N$1,000.00 a N$3,000.00.
 
-IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas en botella cerrada, de $1'000,000.00 a $3'000, 000.00.
+c) Con empleados y más de 50 metros cuadrados de construcción, de N$3,000.00 a N$6,000.00.
 
-V.- Cantinas, bares, restaurantes-bares, instituciones o clubes deportivos o sociales en los que se expendan bebidas alcohólicas, billares y establecimientos similares, de $400,000.00 a $1'000,000.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de $30,000.00 a $100,000.00.
+IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas en botella cerrada de N$6,000.00 a N$12,000.00.
 
-VII.- Fabricas de hielo, de $30,000.00 a $100,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+V.- Establecimientos en que se expendan vinos de mesa y bebidas alcohólicas al copeo:
+
+a) Sin empleados y hasta 150 metros cuadrados de construcción, de N$1,000.00 a N$3,000.00.
+
+b) Con empleados y hasta 150 metros cuadrados de construcción, de N$3,000.00 a N$6,000.00.
+
+c) Con empleados y más de 150 metros cuadrados de construcción, de N$6,000.00 a N$12.000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de N$30.00 a N$100.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VII.- Fábricas de hielo, de N$35.00 a N$120.00.
 
 VIII.- Molinos de nixtamal, de $30,000.00 a $100,000.00.
 
-IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de $30,000.00 a $100,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de N$35.00 a N$120.00.
 
 X.- Peluquerías y salones de belleza, de $30,000.00 a $100,000.00.
 
-XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de $1'000,000.00 a $3'000,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XII.- Baños públicos, de $100,00.00 (sic) a $300,000.00.
+XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de N$12,000.00 a N$30,000.00.
 
-XIII.- Salas de cine, boliches y patinaderos, de $50,000.00 a $150,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XIV.- Terrazas de cine, de $30,000.00 a $100,000.00.
+XII.- Baños públicos, de N$120.00 a N$360.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XIII.- Salas de cine, boliches, patinaderos y salones de fiestas infantiles, de N$60.00 a N$180.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XIV.- Terrazas de cine, de N$35.00 a N$120.00.
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
-a) De varias plantas, de $200,000.00 a $750,000.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) De una planta techada, de $100,000.00 a $450,000.00.
+a) De varias plantas, de N$240.00 a N$900.00.
 
-c) A la intemperie de $80,000.00 a $300,000.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-d) Con superficie abierta no mayor de 400 metros cuadrados, de 30,000.00 a $100,000.00
+b) De una planta techada, de N$120.00 a N$540.00.
 
-XVI.- Salones de baile, de $500,000.00 a $ 1'500,000.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $25,000.00 por unidad.
+c) A la intemperie, de N$100.00 a N$360.00.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+d).- Con superficie abierta no mayor de 400 metros cuadrados, de N$35.00 a N$120.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XVI.- Salones de baile, de N$3,000.00 a N$8,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$50.00 por unidad.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1761,51 +1881,95 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $25,
 
 Por inscripción al inicio de las actividades que señalan, así como por el refrendo anual de la licencia, autorización, permiso o concesión, se cubrirán las siguientes cuotas, excepto en los municipios señalados en el artículo 58 de esta ley:
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $1'000,000.00 a $2'000,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $1'000,000.00 a $3'000,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística y similares, de N$6,000.00 a N$15,000,00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+II.- Hoteles de paso, de N$6,000.00 a N$15,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 III.- Establecimientos en que se vendan al menudeo vinos de mesa y bebidas alcohólicas en botella cerrada:
 
-a) Con abarrotes, de $50,000.00 a $150,000.00.
+a) Sin empleados y hasta 50 metros cuadrados de construcción de N$150.00 a N$400.00.
 
-b) Depósitos y demás establecimientos, $200,000.00 a $400,000.00.
+b) Con empleados y hasta 50 metros cuadrados de construcción, de N$500.00 a N$1,500.00.
 
-IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas en botella cerrada, de $500,000.00 a $1'500,000.00.
+c) Con empleados y más de 50 metros cuadrados de construcción, de N$1,500.00 a N$3,000.00
 
-V.- Cantinas, bares, restaurantes-bares, instituciones o clubes deportivos o sociales en los que se expendan bebidas alcohólicas, billares y establecimientos similares, de $200,000.00 a $500,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de $30,000.00 a $100,000.00.
+IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas en botella cerrada, de N$3,000.00 a $6,000.00.
 
-VII.- Fábricas de hielo de $30,000.00 a $100,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+V.- Establecimientos en que se expendan vinos de mesa y bebidas alcohólicas al copeo:
+
+a) Sin empleados y hasta 150 metros cuadrados de construcción, de N$500.00 a N$1,500.00.
+
+b) Con empleados y hasta 150 metros cuadrados de construcción, de N$1500.00 a N$3,000.00.
+
+c) Con empleados y más de 150 metros cuadrados de construcción, de N$3,000.00 a N$6,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VI.- Establecimientos en donde se expenda o distribuya cualquier clase de carne, de N$35.00 a N$120.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VII.- Fábricas de hielo, de N$35.00 a N$120.00.
 
 VIII.- Molinos de nixtamal, de $30,000.00 a $100,000.00.
 
-IX.- Establecimientos donde se fabriquen cualquier clase de tortillas y tostadas, de $30,000.00 a $100,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de N$35.00 a N$120.00.
 
 X.- Peluquerías y salones de belleza, de $30,000.00 a $100,000.00.
 
-XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de $500,000.00 a $1'500,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XII.- Baños públicos, de $50,000.00 a $150,000.00.
+XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de N$12,000.00 a N$30,000.00.
 
-XIII.- Salas de cine, boliches y patinaderos, de $30,000.00 a $100,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XIV.- Terrazas de cine, de $30,000.00 a $100,000.00.
+XII.- Baños públicos, de N$60.00 a N$180.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XIII.- Salas de cine, boliches y patinaderos y salones de fiestas infantiles, de N$35.00 a N$120.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XIV.- Terrazas de cine, de N$35.00 a N$120.00.
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
-a) De varias plantas, de $100,000.00 a $300,000.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) De una planta techada, de $75,000.00 a $220,000.00.
+a) De varias plantas, de N$120.00 a N$360.00.
 
-c) A la intemperie, de $50,000.00 a $150,000.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-d) Con superficie no mayor de 400 metros cuadrados, de $30,000.00 a $100,000.00.
+b) De una planta techada, de N$90.00 a N$250.00.
 
-XVI.- Salones de baile, de $250,000.00 a $750,000.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $15,000.00 por unidad.
+c) A la intemperie, de N$60.00 a N$180.00.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+d) Con superficie no mayor de 400.00 metros cuadrados, de N$35.00 a N$120.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XVI.- Salones de baile, de N$1,500.00 a N$4,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$30.00 por unidad.
 
 ### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
@@ -1847,29 +2011,29 @@ De $ 0.00 a $ 1,000.00 $ 15.00
 
 Por revisión, inspección y servicios, que se indican a continuación, se fijan las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-I.- Por servicios de examen médico, de pericia, de verificación de datos proporcionados por el conductor y de comprobación del cumplimiento de los requisitos contenidos en el Reglamento de Tránsito Municipal, para la autorización de expedición de licencias de manejo, $25,000.00 por bienio. Si el servicio se presta el segundo año, se pagará únicamente el 50% de la cuota.
+I.- Por servicios de examen médico, de pericia, de verificación de datos proporcionados por el conductor y de comprobación del cumplimiento de los requisitos contenidos en el Reglamento de Tránsito Municipal, para la autorización de expedición de licencias de manejo, N$30.00 por bienio.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Por inspecciones que previenen los reglamentos de nivel municipal, de $15,000.00 a $50,000.00, excepto por la inspección de polvorines, gasolineras, plantas y expendios de gas, en que la cuota será de $250,000.00 a $500,000.00.
+II.- Por inspecciones que previenen los Reglamentos de nivel municipal, de N$20.00 a N$60.00, excepto por la inspección de polvorines, gasolineras, plantas y expendios de gas, en que la cuota será de $300.00 a $600.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: $300.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y $150.00 por cabeza de ganado cabrío o lanar.
+III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: N$.35 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y N$.20 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, $90,000.00.
+IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, N$100.00.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto Sobre Adquisición de Inmuebles. En los casos en que el monto de impuesto sea menor a la cuota señalada en el párrafo que antecede, se cubrirá únicamente la diferencia que resulte entre el impuesto generado y el derecho de revisión.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-V.- Por servicios de examen médico que preste el Municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, $25,000.00.
+V.- Por servicios de examen médico que preste el Municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, N$30.00.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -1877,9 +2041,9 @@ V.- Por servicios de examen médico que preste el Municipio, a las personas que 
 
 En los servicios que por razones de orden público se vea obligado a prestar el Municipio debido al incumplimiento de una obligación fijada legalmente a cargo del particular, los derechos se fijarán en razón a su costo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Cualquier otro servicio no incluido en esta ley que se encuentre establecido en otro ordenamiento legal, generará una cuota de $10,000.00.
+Cualquier otro servicio no incluido en esta Ley que se encuentre establecido en otro ordenamiento legal, generará una cuota de N$15.00.
 
 Cuando el particular solicite algún servicio que no esté contemplado en esta ley o en algún otro ordenamiento legal, las partes fijarán su monto de común acuerdo.
 
@@ -1891,25 +2055,25 @@ Cuando el particular solicite algún servicio que no esté contemplado en esta l
 
 Por la expedición de licencias se cobrará:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, que se realicen en forma esporádica y se cobre derecho de admisión o se expida boletaje para la entrada, de $30,000.00 a $60,000.00.
+I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, que se realicen en forma esporádica y se cobre derecho de admisión o se expida boletaje para la entrada, de N$60.00 a N$120.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Por cada corrida de toros, $300,000.00.
+II.- Por cada corrida de toros, N$1500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-III.- Por cada novillada, $100,000.00.
+III.- Por cada novillada, N$500.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por temporada de atracciones, circos y demás espectáculos públicos, de $30,000.00 a $100,000.00.
+IV.- Por temporada de atracciones, circos y demás espectáculos públicos, de N$35.00 a N$120.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-V.- Por licencia y medio de identificación oficial para anuncios se pagarán $200,000.00 anuales por anuncio.
+V.- Por licencia y medio de identificación oficial para anuncios, se pagarán N$400.00 anuales por anuncio.
 
 Este derecho se cubrirá anualmente, dentro del mes de Enero de cada año, o en su caso, antes de la obtención de la licencia y de la instalación del anuncio.
 
@@ -1925,13 +2089,13 @@ No estarán obligados al pago de este derecho por los anuncios ubicados en el es
 
 Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, de deshierba y limpieza de su inmueble una vez al año, a más tardar en el mes de Marzo. De no ser así, el Municipio podrá efectuar el servicio de limpia, debiendo el propietario cubrir el costo que represente al Municipio la prestación de este servicio, conforme a la siguiente tarifa por metro cuadrado:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-a) Predios con superficie de hasta 1,000 metros cuadrados $1,700.00
+a) Predios con superficie de hasta 1,000 metros cuadrados N$1.95
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente $1,500.00
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente N$1.70
 
 Para los efectos de este artículo, por predio baldío se entiende aquél que no tiene construcciones permanentes, cuenta con trazado de calles y es susceptible de recibir los servicios públicos de agua y energía eléctrica. Tratándose de predios ubicados en nuevos fraccionamientos, además de los requisitos señalados con anterioridad, para considerarse baldíos deberán encontrarse ocupados más del 50% de los predios del fraccionamiento.
 
@@ -1949,25 +2113,25 @@ Durante los meses de Abril y Mayo el Municipio impondrá y notificará a los omi
 
 Por el servicio de limpia y recolección de desechos industriales y comerciales que preste el Municipio a las personas físicas y morales que realizan actividades comerciales, industriales o de servicios, en los términos previstos por el artículo 17 del Código Fiscal del Estado, se cobrará por cada establecimiento ubicado en el Municipio, por mes:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-a) Establecimientos que en promedio generen hasta 50 kilogramos diarios de basura $80,000.00
+a) Establecimientos que en promedio generen hasta 50 kilogramos diarios de basura N$ 90.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) Establecimientos que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura $160,000.00
+b) Establecimientos que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura N$180.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-c) Establecimientos que en promedio genere más de 100 kilogramos y hasta 200 kilogramos diarios de basura $300,000.00
+c) Establecimientos que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura N$360.00
 
 d) Establecimientos que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el Municipio y el particular, en función al costo que represente la prestación del servicio.
 
 Si el servicio se presta solamente hasta tres veces por semana pagará el 50% de la cuota.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-No se estará obligado al pago de esta contribución cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio. Igualmente no se cobrará este derecho respecto de los contribuyentes personas físicas que lleven a cabo su actividad en el domicilio en donde se encuentre su casa-habitación, excepto cuando declaren, para efectos de cualquier contribución federal, estatal o municipal, ingresos superiores a $5'000,000.00 mensuales.
+No se estará obligado al pago de esta contribución cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio. Igualmente no se cobrará este derecho respecto de los contribuyentes personas físicas que lleven a cabo su actividad en el domicilio en donde se encuentre su casa-habitación, excepto cuando declaren, para efectos de cualquier contribución federal, estatal o municipal, ingresos superiores a N$5,000.00 mensuales.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
@@ -1989,31 +2153,31 @@ Este derecho se pagará por mes dentro de los primeros 15 días naturales del mi
 
 Por ocupación de la vía pública:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-I.- Por ocupar la vía pública con sillas o mesas se pagarán $100.00 diarios por metro cuadrado o fracción.
+I.- Por ocupar la vía pública con sillas o mesas se pagará N$0.25 diarios por metro cuadrado completo.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $8,000.00 por unidad mensualmente.
+II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán N$10.00 por unidad mensualmente.
 
 III.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el Departamento de Tránsito de acuerdo con su Reglamento, se pagará una cuota anual en la forma siguiente:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-a) Las empresas comerciales $30,000.00 por metro cuadrado.
+a) Las empresas comerciales N$35.00 por metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) Los particulares $25,000.00 por metro cuadrado.
+b) Los particulares N$ 30.00 por metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Se exceptúan de lo anterior, los lugares en donde se encuentren instalados estacionómetros, en cuyo caso se pagará una cuota adicional de $10,000.00 por metro cuadrado.
+Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parquímetros, en cuyo caso se pagará una cuota adicional de N$12.00 por metro cuadrado.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares donde existan instalados estacionómetros, por cada media hora o fracción, $500.00.
+IV.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares donde existen instalados parquímetros, por cada media hora o fracción, N$.50.
 
 V.- No especificados.
 
@@ -2261,9 +2425,9 @@ a) 12% sobre el valor comercial de los premios en el caso del inciso a) del Art�
 
 Tratándose de artículos de propaganda comercial, se pagará el 10% sobre el valor de los artículos rifados.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-b) De $30,000.00 a $100,000.00 diarios, en el caso del inciso b) del artículo 33 de esta Ley.
+b) De N$35.00 a N$120.00 diarios, en el caso del inciso b) del Artículo 33 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -2474,3 +2638,9 @@ UNICO.- El presente Decreto entrará en vigor el día 1º. de Enero de 1991.
 P.O. 30 DE DICIEMBRE DE 1991.
 
 UNICO:- El presente Decreto entrará en vigor el día Primero de Enero de 1992.
+
+P.O. 30 DE DICIEMBRE DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1o de Enero de 1993, con excepción de los derechos previstos por el artículo 52 bis, los cuales se aplicarán conforme les sean transferidas a los Municipios, en los términos previstos por la Ley de Desarrollo Urbano del Estado, las funciones correspondientes a los servicios respecto de los cuales se establecen estos derechos.
+
+SEGUNDO.- Las cantidades monetarias expresadas en esta Ley, se entienden referidas a la unidad a que hace referencia el artículo 1º del Decreto por el que se crea una nueva unidad del Sistema Monetario de los Estados Unidos Mexicanos, expedido por el Congreso de la Unión el día 18 de Junio de 1992 y publicado en el Diario Oficial de la Federación el día 22 del mismo mes y año.
