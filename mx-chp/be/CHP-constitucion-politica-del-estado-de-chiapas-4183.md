@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1951-03-21"
+last_updated: "1952-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1952.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -277,7 +277,7 @@ Los Ayuntamientos con la sola autorización previa del Congreso del Estado, podr
 
 ### CAPITULO I. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+(REFORMADO, P.O. 16 DE ABRIL DE 1952) (REPUBLICADO, P.O. 7 DE MAYO DE 1952)
 
 ###### ARTICULO 3.
 
@@ -369,7 +369,7 @@ VII.- Por separarse del territorio del Estado por un tiempo mayor de un año. En
 
 Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
-### CAPITULO I
+### CAPITULO I. (REFORMADO, P.O. 16 DE ABRIL DE 1952) (REPUBLICADO, P.O. 7 DE MAYO DE 1952)
 
 ###### ARTICULO 10.
 
@@ -385,7 +385,9 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 
 ###### ARTICULO 12.
 
-El Poder Legislativo será ejercido por un Congreso de Diputados popularmente electos en forma plebiscitaria, durarán en su encargo tres años y se renovarán en su totalidad, sin que puedan ser reelectos para el período inmediato; los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados Propietarios no podrán ser electos para el período inmediato con el carácter de Suplentes.
+El Poder Legislativo será ejercido por un Congreso de Diputados electos popularmente en forma directa; durarán en su encargo tres años y se renovarán en su totalidad sin que puedan ser reelectos para el período inmediato. Por cada Diputado Propietario se eligirá (sic) un Diputado Suplente.
+
+Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1951)</small>
 
@@ -519,7 +521,7 @@ Discutido y declarado con lugar a votar todo Proyecto, se pasará en copia al Ej
 
 ## TITULO QUINTO. De los Municipios
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+(REFORMADO, P.O. 16 DE ABRIL DE 1952) (REPUBLICADO, P.O. 7 DE MAYO DE 1952)
 
 ###### ARTICULO 27.
 
@@ -707,7 +709,7 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, de lo
 
 ###### ARTICULO 41.
 
-Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará "Gobernador del Estado de Chiapas".
+Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará "Gobernador Constitucional del Estado de Chiapas", el cual será electo en forma directa.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
@@ -1003,7 +1005,7 @@ El Procurador General de Justicia integrará el Tribunal con voz pero sin voto.
 
 ###### ARTICULO 65.
 
-Para la Administración interior del Estado habrá Ayuntamientos y Agencias Municipales, cuyas atribuciones señalará la Ley.
+Cada Municipio será administrado por Ayuntamiento de elección popular en forma directa y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Los Agentes serán nombrados por el respectivo Ayuntamiento en Sesión Plena.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
 
@@ -1450,3 +1452,9 @@ Las presentes adiciones y reformas entrarán en vigor a partir de la fecha de su
 ###### ARTICULO 6o.
 
 El Ejecutivo dispondrá se promulgue, circule y se le dé el debido cumplimiento.
+
+P.O. 16 DE ABRIL DE 1952.
+
+(REPUBLICADO, P.O. 7 DE MAYO DE 1952)
+
+Artículo Unico.- Las presentes reformas entrarán en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
