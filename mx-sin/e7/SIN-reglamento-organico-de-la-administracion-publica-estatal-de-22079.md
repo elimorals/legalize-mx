@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2002-12-04"
+last_updated: "2004-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -667,11 +667,15 @@ X. Desarrollar, operar y mantener los sistemas de telecomunicaciones del Gobiern
 
 XI. Definir y aplicar mecanismos para obtener parámetros de opinión de la población relativos a la seguridad pública así como estudios comparativos;
 
-XII. Organizar y dirigir la Policía de Protección Civil, y apoyar a las instituciones estatales y municipales en la ejecución de sus programas de seguridad pública y protección civil, en los términos que establezcan las leyes, convenios o acuerdos respectivos;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+XII. Organizar y dirigir la Policía Estatal Preventiva y apoyar a las instituciones estatales y municipales en la ejecución de sus programas de seguridad pública, en los términos que establezcan las leyes, reglamentos, convenios o acuerdos respectivos;
 
 XIII. Autorizar, suspender o cancelar, en su caso, la prestación de los servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores prestados por particulares;
 
-XIV. Proporcionar a la sociedad y a los diversos sectores que la integran el auxilio necesario por medio de la Policía de Protección Civil, los cuerpos de rescate y demás elementos de que se disponga, en los términos que se establezcan en los convenios o acuerdos con los ayuntamientos y otras dependencias oficiales o privadas;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+XIV. Proporcionar a la sociedad y a los diversos sectores que la integran, el auxilio necesario por medio de la Dirección de Protección Civil, los cuerpos de rescate y demás elementos de que se disponga. De igual manera, para proporcionar dichos auxilios podrá celebrar convenios o acuerdos con los ayuntamientos y otras dependencias oficiales, así como con los sectores social o privado;
 
 XV. Formular programas de inspección operativa a fin de detectar desviaciones de lo proyectado y proponer acciones correctivas;
 
@@ -1336,3 +1340,9 @@ Artículo Único. El presente decreto entrará en vigor al día siguiente de su 
 P.O. 4 DE DICIEMBRE DE 2002.
 
 Artículo Único. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Las referencias que se hacen en decretos, reglamentos, convenios y demás disposiciones jurídicas a la Policía de Protección Civil, se entenderán hechas a la Policía Estatal Preventiva.
