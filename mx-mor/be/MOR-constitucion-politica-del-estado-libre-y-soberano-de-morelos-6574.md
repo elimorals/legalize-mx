@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1990-08-08"
+last_updated: "1991-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1991.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -108,17 +108,23 @@ DE LOS MORELENSES.
 
 Los morelenses se clasifican en: morelenses por nacimiento y morelenses por residencia.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 10.
 
-Son morelenses por nacimiento, los nacidos dentro del territorio del Estado.
+Son morelenses por nacimiento:
+
+I.- Los nacidos dentro del territorio del Estado.
+
+II.- Los mexicanos nacidos fuera del territorio estatal, hijos de padre o madre morelenses por nacimiento, y que tengan más de cinco años de vecindad en el Estado.
+
+La adopción no producirá efectos en esta materia.
 
 ###### Artículo 11.
 
 Son morelenses por residencia los originarios de otras Entidades Federativas Mexicanas que residan habitualmente en el Estado por más de cinco años, a no ser que manifiesten ante la autoridad municipal sus deseos de conservar su calidad de origen.
 
-Lo dispuesto en este artículo y en la fracción segunda del Artículo anterior, se observará siempre que no existan disposiciones contrarias en la legislación de otros Estados, de donde sean originarios los interesados en el primer caso, y sus padres en el segundo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 12.
 
@@ -302,21 +308,33 @@ C).- Si ningún Partido alcanza, con sus constancias de mayoría relativa, la mi
 
 D).- Si concluido el procedimiento anterior quedan Diputaciones por asignar, éstas se distribuirán en orden decreciente de acuerdo tanto con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes, como con los porcentajes excedentes de los Partidos que obtuvieron curules con la aplicación del factor común.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 25.
 
-Para ser diputado propietario o suplente se requiere:
+Para ser Diputado Propietario o suplente se requiere:
 
-I.- Ser morelense por nacimiento.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+I.- Ser morelense por nacimiento, o ser morelense por residencia con antigüedad mínima de diez años anteriores a la fecha de la elección.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
 II.- Tener una residencia efectiva por más de un año anterior a la selección del Distrito que represente.
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+
 III.- Ser ciudadano del Estado en ejercicio de sus derechos.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
 IV.- Haber cumplido 21 años de edad.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+
 Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere además de los requisitos comprendidos en las fracciones I, III y IV, tener una residencia efectiva por más de un año anterior a la fecha de la elección en alguno de los distritos que comprende la circunscripción electoral en la que se realice la elección.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
 
 La vecindad no se pierde por ausencia en el desempeño de los cargos públicos de elección popular.
 
@@ -554,7 +572,7 @@ c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproxi
 
 d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la Ley.
 
-e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, alos trabajadores conforme a los programas previamente aprobados.
+e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento, venta, a los trabajadores conforme a los programas previamente aprobados.
 
 l).- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
 
@@ -578,7 +596,7 @@ XXIV.- Expedir la ley relativa a la expropiación de la propiedad privada por ca
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXV.- Excitar a los poderes de la Nación para que presten protección al Estado, en el o previsto por el Artículo 122 de la Constitución Federal.
+XXV.- Excitar a los poderes de la Nación para que presten protección al Estado, en el caso previsto por el Artículo 122 de la Constitución Federal.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -596,7 +614,7 @@ Asimismo, examinar y aprobar, en su caso, la cuenta Pública del año anterior q
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXIX.- Aprobar la iniciativa de Ley de Ingresos Municipales autorizada en Sesión de Cabildo,y que cada año deben remitirle con toda oportunidad los Ayuntamientos en los términos del Artículo 32 Párrafo Tercero de esta Constitución.
+XXIX.- Aprobar la iniciativa de Ley de Ingresos Municipales autorizada en Sesión de Cabildo, y que cada año deben remitirle con toda oportunidad los Ayuntamientos en los términos del Artículo 32 Párrafo Tercero de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -876,7 +894,7 @@ II.- Tener 35 años cumplidos el día de la elección;
 
 III.- Residir en el territorio del Estado por lo menos un año inmediato anterior a la elección;
 
-IV.- No siendo Ciudadano Morelense por nacimiento, haber residido permanentemente en el Estado por un período no menor de cinco años inmediatamente anteriores al día de la elección.
+IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1991)
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1946)</small>
 
@@ -1648,7 +1666,9 @@ XII.- Los Ayuntamientos coordinarán sus acciones con el Gobierno del Estado, de
 
 Para ser miembro de un Ayuntamiento o Ayudante Municipal, se requiere:
 
-I.- Ser ciudadano morelense por nacimiento, en pleno goce de sus derechos.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1991)</small>
+
+I.- Ser morelense por nacimiento, o ser morelense por residencia con antiguedad mínima de diez años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del Estado.
 
 II.- Tener dos años de residencia en el Municipio o en la población en que deban ejercer su encargo, respectivamente.
 
@@ -2138,9 +2158,9 @@ UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de 
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NUMERO 77
+DECRETO NO. 77
 
-PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
+PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado libre y soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
 
 SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan a este Decreto.
 
@@ -2269,3 +2289,9 @@ P.O. 8 DE AGOSTO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "TIERRA Y LIBERTAD", Organo Oficial del Estado Libre y Soberano de Morelos.
+
+P.O. 26 DE DICIEMBRE DE 1991.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Organo del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos que señala la Fracción XVII de la Constitución Política Local.
