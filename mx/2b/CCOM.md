@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1943-04-20"
+last_updated: "1946-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-> <small>N. DE E. COMO CONSECUENCIA DEL ESTUDIO DEL PROCESO LEGISLATIVO DEL DECRETO QUE MODIFICA EL PRESENTE CODIGO, SE DESPRENDE LA DEROGACION DE LOS TITULOS Y CAPITULOS COMPRENDIDOS DENTRO DEL ARTICULADO DEROGADO POR EL LEGISLADOR, YA QUE EN EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE QUIEBRAS Y SUSPENSION DE PAGOS FUE OMISO AL NO INDICAR EL ESTADO QUE GUARDARIAN ESTOS.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 1946.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -3338,9 +3336,7 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 DEL COMERCIO MARÍTIMO.
 
-## TITULO PRIMERO.
-
-DE LAS EMBARCACIONES.
+## TITULO PRIMERO. DE LAS EMBARCACIONES
 
 ###### Art. 641.
 
@@ -4348,6 +4344,8 @@ De los seguros marítimos.
 
 De la forma de este contrato.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
+
 ###### Art. 781.
 
 El capitán y el cargador del buque tendrán obligación de extender el conocimiento, en el cual se expresará:
@@ -4560,11 +4558,17 @@ Si en el reintegro del préstamo hubiere demora por el capital y sus premios, s�
 
 Obligaciones entre el asegurador y asegurado.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
+
 ###### Art. 812.
 
-Para hacer válido el contrato de seguro marítimo, habrá de constar por escrito en póliza firmada por los contratantes.
+El contrato de Seguro Marítimo, debe constar por escrito.
 
-Esta póliza se extenderá y firmará por duplicado, reservándose un ejemplar cada una de las partes contratantes.
+La empresa aseguradora tiene la obligación de expedir, como constancia para el asegurado, el documento llamado póliza, que contendrá los derechos y obligaciones de ambos contratantes.
+
+Las partes impresas de la documentación en que conste el contrato, no harán prueba contra el asegurado, si los caracteres de la impresión no son fácilmente legibles.
+
+El contrato no podrá sujetarse a la condición suspensiva del pago de la primera prima o de la entrega de la póliza.
 
 ###### Art. 813.
 
@@ -4668,13 +4672,13 @@ El seguro sobre flete podrá hacerse por el cargador, por el fletante ó el capi
 
 En el seguro de flete se habrá de expresar la suma á que asciende la cual no podrá exceder de lo que aparezca en el contrato de fletamento.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
+
 ###### Art. 823.
 
-El seguro de beneficios se regirá por los pactos en que convengan los contratantes pero habrá de consignarse en la póliza:
+La empresa aseguradora responderá solamente por el daño causado, hasta el límite de la suma y del valor real asegurados. Cuando en el contrato se inserte una expresa declaración de que las mercancías aseguradas han sido valuadas por mutuo acuerdo entre las partes, se estará a éste para la evaluación del daño y su resarcimiento.
 
-I. La cantidad determinada en que fija el asegurado el beneficio una vez llegado felizmente y vendido el cargamento en el puerto de destino;
-
-II. La obligación de reducir el seguro, si comparado el valor obtenido en la venta, descontados gastos y fletes, con el valor de compra, resultare menor que el valuado en el seguro.
+No obstante el acuerdo, la evaluación puede ser impugnada, no sólo por las causales generales de nulidad de las obligaciones, sino también por exageración manifiesta sobre el precio corriente de las mercancías en el lugar de destino.
 
 ###### Art. 824.
 
@@ -4720,57 +4724,47 @@ Del abandono de las cosas aseguradas.
 
 ###### Art. 830.
 
-Los aseguradores indemnizarán los daños y perjuicios que los objetos asegurados experimenten por alguna de las causas siguientes:
+Salvo pacto en contrario, los aseguradores indemnizarán los daños y perjuicios que las cosas aseguradas experimenten por alguna de las causas siguientes:
 
-I. Varada ó empeño del buque, con rotura ó sin ella;
+I. Varada o empeño del buque, con rotura o sin ella;
 
 II. Temporal;
 
 III. Naufragio;
 
-IV. Abordaje fortuito;
+IV. Colisión del barco;
 
-V. Cambio de derrota durante el viaje ó de buque;
+V. Cambio de derrota durante el viaje o de buque;
 
 VI. Echazón;
 
-VII. Fuego ó explosión, si aconteciere en mercaderías tanto á bordo como si estuviesen depositadas en tierra, siempre que se hayan alijado por orden de la autoridad competente, para reparar el buque ó beneficiar el cargamento; ó fuego por combustión espontánea en las carboneras de los buques de vapor;
+VII. Fuego o explotación, si aconteciera en mercaderías, tanto a bordo, como si estuviesen depositadas en tierra; siempre que se hayan alijado por orden de la autoridad competente, para reparar o beneficiar el cargamento, o fuego por combustión espontánea en las carboneras de los buques de vapor, o en los depósitos de combustibles o en el motor, cuando éste sea de combustión interna.
 
-VIII. Apresamiento;
+VIII. Baratería del Capitán o tripulación;
 
-IX. Saqueo;
+IX. Avería gruesa o general;
 
-X. Declaración de guerra;
+X. Cualesquiera otros accidentes o riesgos de mar.
 
-XI. Embargo por orden del gobierno;
-
-XII. Retención por orden de potencia extranjera;
-
-XIII. Represalias;
-
-XIV. Cualesquiera otros accidentes ó riesgos de mar.
-
-Los contratantes podrán estipular las excepciones que se tengan por conveniente mencionándolas en la póliza sin cuyo requisito no surtirán efecto.
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
 
 ###### Art. 831.
 
-No responderán los aseguradores de los daños y perjuicios que sobrevengan á las cosas aseguradas por cualquiera de las causas siguientes, aunque no se hayan excluído en la póliza:
+Salvo pacto expreso en contrario, los aseguradores no responderán de los daños y perjuicios que sobrevengan a las cosas aseguradas, por cualquiera de las causas siguientes, aunque no se hayan excluído en la póliza:
 
-I. Cambio voluntario de derrotero de viaje, ó de buque, sin expreso consentimiento de los aseguradores;
+I. Cambio voluntario de derrotero de viaje, o de buque, sin expreso consentimiento de los aseguradores;
 
-II. Separación espontánea de un convoy habiéndose estipulado que iría en conserva con él;
+II. Separación espontánea de un convoy, cuando se hubiere estipulado que iría en conserva con él;
 
-III. Prolongación de viaje á un puerto más remoto que el designado en el seguro;
+III. Prolongación de viaje a un puerto más remoto que el designado en el seguro;
 
-IV. Disposiciones arbitrarias y contrarias á la póliza de fletamento ó al conocimiento, tomadas por orden del fletante, cargadores y fletadores;
+IV. Disposiciones arbitrarias y contrarias a la póliza de fletamiento y al conocimiento, tomadas por orden del fletante, cargadores y fletadores;
 
-V. Baratería de patrón, á no ser que fuera objeto del seguro;
+V. Riesgos de guerra;
 
-VI. Mermas, derramas y dispendios procedentes de la naturaleza de las cosas aseguradas;
+VI. Merma, derramas y dispendios procedentes de la naturaleza de las cosas aseguradas.
 
-VII. Falta de los documentos prescritos en este Código, en las ordenanzas y reglamentos de marina ó de navegación, ú omisiones de otra clase del capitán, en contravención de las disposiciones de las disposiciones administrativas, á nos ser que se haya tomado á cargo del asegurador la baratería del patrón.
-
-En cualquiera de estos casos, los aseguradores harán suyo el premio, siempre que hubieren empezado á correr el riesgo.
+En cualquiera de estos casos, los aseguradores harán suyo el premio, siempre que hubiere empezado a correr el riesgo.
 
 ###### Art. 832.
 
@@ -7527,3 +7521,7 @@ En aquellos Estados de la República en los que no estén en vigor disposiciones
 ###### ARTICULO 6°.
 
 Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden hechas respecto del Código de Procedimientos Civiles del Distrito y Territorios Federales. Esta supletoriedad es excepcional y sólo se refiere a los preceptos expresamente reglamentados por esta ley. También es temporal, en tanto que no se promulgue el Código de Procedimientos Mercantiles.
+
+D.O.F. 3 DE MAYO DE 1946.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
