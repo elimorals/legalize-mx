@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2001-06-20"
+last_updated: "2001-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2001.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -463,11 +463,11 @@ El Congreso del Estado deberá quedar instalado el día 16 de noviembre del año
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la Convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 24.
 
-En el mes de noviembre de cada año, el Congreso del Estado celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la administración publica; el Congreso determinará el día en que deba celebrarse dicha sesión. El Diputado Presidente del Congreso será quien conteste dicho informe, y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del propio Congreso del Estado.
+Entre el dieciséis de noviembre y el dieciséis de diciembre de cada año, el Congreso del Estado, celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la administración pública; el Congreso determinará el día en que debe celebrarse dicha sesion. El Diputado Presidente del Congreso será quien conteste dicho informe, y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del propio Congreso del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -859,9 +859,9 @@ XV.- Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para 
 
 XVI.- Solicitar a la Comisión Permanente que convoque al Congreso a Sesiones Extraordinarias;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
 
-XVII.- Presentar al Congreso en el mes de noviembre de cada año un informe debidamente documentado del estado que guarden los diversos ramos de la Administración Pública;
+XVII.- Entre el dieciséis de noviembre y el dieciséis de diciembre de cada año, presentar al Congreso un informe debidamente documentado del Estado que guarden los diversos ramos de la Administración Pública;
 
 XVIII.- Presentar cada año al Congreso, al tercer día de la Apertura del Segundo Período Ordinario de Sesiones, la cuenta pública correspondiente al año anterior;
 
@@ -869,7 +869,9 @@ XVIII.- Presentar cada año al Congreso, al tercer día de la Apertura del Segun
 
 El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cuenta pública que contemple los tres primeros trimestres del año, podrá ser presentada a mas tardar el día 7 de diciembre de ese mismo año, encargándose la siguiente administración de entregar la correspondiente al último trimestre.
 
-XIX.- Presentar al Congreso, en su Primer Período Ordinario de Sesiones, el Presupuesto de gastos por programa del año siguiente;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
+
+XIX.- Presentar al Congreso del Estado, en el último cuatrimestre del año respectivo, el presupuesto de egresos del año siguiente; en el caso de que la presentación en el cuatrimestre mencionado no corresponda con el período ordinario de sesiones, se convocará al Congreso, a sesión extraordinaria;
 
 XX.- Facilitar al poder judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
@@ -943,9 +945,9 @@ A.- La Ley organizará al Ministerio Público, cuyos funcionarios serán nombrad
 
 El Procurador General de Justicia y demás funcionarios serán responsables de toda falta, comisión o violación a la Ley en que incurran con motivo o en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
 
-La persecución de los delitos incumbe al ministerio público y a la Policía Judicial que estará bajo la autoridad de éste, por lo tanto corresponde al ministerio público solicitar las órdenes de aprehensión de los inculpados, buscar y presentar las pruebas bastantes que acrediten los elementos que integran el tipo penal, así como la probable responsabilidad del indiciado y pedir la aplicación de las penas; velará porque los juicios se tramiten con apego a la ley para que la justicia sea completa e imparcial, e intervendrá en todos los asuntos que la Ley determine.
+La investigación y persecución de los delitos incumbe al ministerio público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato, por lo tanto corresponde al ministerio público solicitar las ordenes de aprehensión de los inculpados, buscar y presentar las pruebas bastantes que acrediten los elementos que integran el cuerpo del delito; así como la probable responsabilidad del indiciado y pedir la aplicación de las penas, asegurar bienes, objetos, instrumentos o productos del delito y solicitar su decomiso; dispondrá de las acciones y procedimientos necesarios para otorgar asesoría y protección a la víctima o al ofendido, cuidando que se satisfaga, en términos de ley, la reparación del daño; en su caso, cuando proceda legalmente determinar el no ejercicio de la acción penal, desistir de ella o promover la libertad del acusado; así mismo, velará porque los juicios se tramiten con apego a la ley para que la justicia sea completa, imparcial, y expedita e intervendrá en todos los asuntos que la Ley determine.
 
 La Ley Orgánica determinará la integración de la institución. El Procurador General de Justicia será el Consejero Jurídico del Ejecutivo e intervendrá por sí o por medio de sus funcionarios o agentes en todos los asuntos en que el Estado sea parte, salvo disposición en contrario.
 
@@ -1217,7 +1219,7 @@ B) Las participaciones federales, que serán cubiertas por la Federación a los 
 
 C) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Las Leyes Estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de las contribuciones señaladas en los incisos a) y c). Sólo estarán exentos los bienes de dominio publico de la Federación, del Estado o del Municipio, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+Las Leyes Estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de las contribuciones señaladas en los incisos a) y c). Sólo estarán exentos los bienes de dominio público de la Federación, del Estado o del Municipio, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
@@ -2402,3 +2404,13 @@ P.O. 20 DE JUNIO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
