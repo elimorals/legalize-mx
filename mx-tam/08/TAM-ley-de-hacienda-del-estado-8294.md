@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1995-12-30"
+last_updated: "1996-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -1647,71 +1647,77 @@ IX.- La participación de los trabajadores con las utilidades de las empresas.
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 140.
 
-Son objeto de este impuesto la realización de rifas, sorteos, loterías de especulación o con fines comerciales, apuestas y concursos de toda clase salvo que por los mismos que cause y se pague el Impuesto al Valor Agregado.
+Están obligados al pago del Impuesto sobre Juegos Permitidos, las personas físicas, morales o unidades económicas sin personalidad jurídica:
+
+I.- Que organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho de participar en los mismos.
+
+II.- Que obtengan ingresos o premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
+
+No se considera como ingreso o premio el reintegro correspondiente al billete que permitió participar en loterías.
+
+III.- Que organicen o celebren las actividades a que se refiere la fracción I de este artículo u obtenga los premios derivados de las mismas, independientemente del lugar donde se realice el evento.
+
+Las personas o instituciones que organicen o celebren los eventos señalados en las fracciones I y III de éste articulo, les deberán retener el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán proveer los recursos necesarios para la retención de impuesto.
 
 DE LOS SUJETOS
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 141.
 
-Son objeto de este impuesto, las personas físicas o morales que realicen o exploten las actividades señaladas en el Artículo anterior.
+Para determinar la base del impuesto se tomarán en cuenta las siguientes disposiciones:
+
+I.- Para los sujetos de este impuesto que organicen o celebren loterías, rifas, sorteos, juegos con apuesta o concursos de toda clase, se considera el valor total de la emisión de los boletos, billetes, contraseñas o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquellos no enajenados y que no participen en la posibilidad de obtener premios. Para los sujetos de este impuesto que realicen las actividades señaladas en este párrafo fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se hayan vendido dentro del Estado.
+
+Cuando los comprobantes que permitan participar en cualquiera de los eventos objeto de este impuesto, sean de tipo gratuito o no se cobre cantidad alguna para tener derecho a participar en ellos, servirá de base del impuesto, el valor con el que se promocione cada uno de los ingresos o premios, o en su defecto, el de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación. Cuando los boletos se distribuyan en varias Entidades Federativas, para determinar la base se considerará la proporción que representen los boletos o cualquier tipo de comprobantes distribuidos en el Estado del total que de los mismos se emitan.
+
+II.- Para los sujetos de este impuesto que obtengan los ingresos o premios entregados o cobrados en el territorio del Estado, será el valor determinado o determinable que se obtenga.
+
+Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación.
 
 DE LA TARIFA
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 142.
 
-El impuesto se causa con la tasa del 10%:
+El impuesto a que se refiere este Capítulo no se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en los eventos objeto del impuesto.
 
-a).- Sobre el valor comercial de los premios, tratándose de rifas, sorteos, loterías de especulación o con fines de propaganda.
-
-b).- Sobre el importe de las apuestas y concursos de toda clase.
+El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 143.
 
-Este impuesto deberá pagarse dentro de los primeros quince días de cada mes, en la Oficina fiscal del Estado de su jurisdicción.
+Para efectuar el cálculo de este impuesto se estará a las siguientes reglas:
 
-Cuando se trate de actividades eventuales o accidentales el pago del impuesto deberá hacerse el día siguiente hábil al que se realice.
+I.- Se aplicará una tasa del 10% a la base gravable contemplada en la fracción I del artículo 141.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+II.- Se aplicará una tasa del 6% a la base gravable contemplada en la fracción II del artículo 141.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 144.
 
-Son obligaciones de los sujetos de este impuesto:
+Tratándose de los organizadores o de los que celebren las loterías, rifas sorteos, juegos con apuesta o concursos de toda clase, el impuesto se causará en el momento en que inicia la entrega de los boletos, billetes, contraseñas o cualquier otro tipo de comprobante, a los participantes.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-I.- A solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto la formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
-
-II.- Presentar los avisos para comunicar a la Oficina Fiscal cualquier cambio en datos contenidos en su solicitud de inscripción, en los términos del Código Fiscal del Estado.
-
-III.- Presentar declaraciones ante la Oficina Fiscal de su jurisdicción.
-
-IV.- Presentar ante la Oficina Fiscal de su jurisdicción, la documentación o comprobante que amparen la actividad gravada, con anterioridad al inicio de la promoción de la misma.
-
-V.- Permitir y facilitar la inspección y vigilancia por parte de las autoridades fiscales competentes.
-
-VI.- Garantizar el interés fiscal por el importe estimado de los impuestos que se deba causar. Para este efecto el Jefe de la Oficina Fiscal fijará, bajo su responsabilidad, el importe de la garantía.
-
-Tratándose de sujetos eventuales, no estarán obligados a lo dispuesto en la fracción I de este Artículo.
+Tratándose de las personas que obtengan premios, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los organizadores o por los que celebren los eventos objeto de este impuesto.
 
 DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 145.
 
-En los casos de incumplimiento de las obligaciones establecidas en este Capítulo a los sujetos, las autoridades fiscales estarán facultadas para embargar precautoriamente bienes suficientes que garanticen el interés fiscal del Estado.
+Los organizadores habituales de las actividades gravadas por este impuesto deberán pagar mensualmente, a mas tardar el día 15 del mes siguiente al de su causación.
+
+Tratándose de los organizadores eventuales, se pagará el día siguiente a aquél en el que se realicen o celebren las actividades gravadas por este impuesto.
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
@@ -1719,33 +1725,57 @@ En los casos de incumplimiento de las obligaciones establecidas en este Capítul
 
 DEL OBJETO
 
-(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+> <small>(ADICIONADO [REFORMADO], P.O. 25 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 146o.
+###### ARTICULO 146.
 
-Son objeto de este impuesto:
+Quienes organicen o celebren rifas, sorteos, loterías, apuestas y concursos de toda clase tendrán las siguientes obligaciones:
 
-I.- La venta de ganado, aves y colmenas, realizadas dentro del Estado.
+I.- Tratándose de organizadores habituales:
 
-II.- La explotación dentro del Estado de ganado lechero, aves y colmenas.
+a).- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Hacienda del Estado, utilizando para el efecto las formas aprobadas; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo. La Secretaría de Hacienda del Estado podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+b).- Retener el impuesto que corresponda a los premios pagados o entregados y enterarlo a la Oficina Fiscal de su jurisdicción mediante las formas aprobadas dentro de los primeros 15 días del mes inmediato posterior al de su causación.
 
-III.- La entrega de ganado y aves a las empacadoras o a los rastros, y la matanza hecha por los propios ganaderos y avicultores. En esta fracción no se comprende el cobro por prestación de servicios.
+c).- Proporcionar al interesado, constancia de retención del impuesto cuando así lo solicite la persona que obtenga el premio.
 
-(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980) (REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)
+d).- Presentar declaraciones mensualmente en la Oficina Fiscal de su jurisdicción mediante las formas aprobadas, en las que se incluirán el impuesto retenido y en su caso, el que corresponda por su propia actividad.
 
-###### ARTICULO 147o.
+e).- Cuando los sujetos realicen eventos en varios establecimientos acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
 
-Para los efectos de este impuesto la venta o explotación de ganado, aves o colmenas, se considera realizada en el Estado, cuando se encuentren dentro del territorio del mismo sin importar domicilio del vendedor, comprador o explotador. La salida de ganado, aves y colmenas del predio de origen o del que se realice la explotación implica que su venta ha sido realizada.
+f).- Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades.
+
+g).- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda.
+
+h) si los premios ofrecidos consisten en bienes distintos de dinero, señalarán en moneda nacional el valor de los mismos.
+
+II.- Tratándose de organizadores eventuales tendrán las obligaciones señaladas en los incisos c), f), g) y h) de la fracción anterior, además de las siguientes:
+
+a).- Retener el impuesto que corresponda a los premios y enterarlo a la Oficina Fiscal de su jurisdicción mediante las formas aprobadas, el día siguiente hábil al de su causación.
+
+b).- Garantizar el interés fiscal por el importe estimado de los impuestos que se puedan causar. Para este efecto el jefe de la oficina fiscal fijará bajo su responsabilidad, el importe de la garantía.
+
+c).- Presentar declaración el día siguiente hábil al de la realización celebración de la actividad gravada.
+
+> <small>(ADICIONADO [REFORMADO], P.O. 25 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 147.
+
+No se pagará este impuesto, por la organización o la celebración de loterías, rifas, sorteos y concursos de toda clase que lleven a cabo las Dependencias del Gobierno Federal, de los Gobiernos de los Estados y de los Municipios, así como los organismos públicos descentralizados de la administración pública federal, estatal y municipal cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+No obstante lo anterior, estas instituciones deberán cumplir con la obligación de retener y enterar el impuesto que se cause por la obtención de los ingresos o premios.
+
+En ningún caso se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
+
+Los organismos públicos descentralizados a que se refiere este artículo, tendrán las obligaciones previstas en el artículo 146 con excepción de la establecida en el inciso f) de la fracción I y el inciso b) de la fracción II.
 
 DE LOS SUJETOS
 
-(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+> <small>(ADICIONADO [REFORMADO], P.O. 25 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 148o.
+###### ARTICULO 148.
 
-Son sujetos, las personas físicas o morales que habitual o accidentalmente obtengan ingresos con motivo de las actividades gravadas por este impuesto.
+Para los efectos de este Capitulo se considerarán sujetos habituales del impuesto aquellas personas que realicen 2 o más actividades objeto de este impuesto en el periodo de un año.
 
 DE LA BASE
 
@@ -2865,7 +2895,7 @@ c).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-d).- Instituciones que impartan gratuitamente la educación, las federales por cooperación y las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con los planes de estudio autorizados por las autoridades competentes..
+d).- Instituciones que impartan gratuitamente la educación, las federales por cooperación y las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con los planes de estudio autorizados por las autoridades competentes.
 
 e).- Clubes de servicio.
 
@@ -2909,7 +2939,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2934,6 +2964,8 @@ Los retenedores enterarán el impuesto mediante una declaración conforme a lo d
 ###### ARTICULO 257o Bis.
 
 Se derogan los efectos de lo preceptuado por los artículos 252 y 254 en lo relativo a las participaciones en el Impuesto Federal sobre Ingresos Mercantiles, por estar subsistente el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado por el Estado de Tamaulipas con la Federación y por abrogar la Ley de Coordinación Fiscal al susodicho Impuesto Federal.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO II
 
@@ -2973,9 +3005,11 @@ ARTICULO 258 D.- En los casos en que no se efectúe previamente a la prestación
 
 ARTICULO 258 E.- El cobro de los derechos establecidos en el presente Título II, dará lugar, en su caso, al ejercicio de la facultad económico-coactiva la cual se ejercitará por conducto de la Secretaría de Hacienda del Estado o la Oficina dependiente de la misma en cuya jurisdicción hubiera sido prestado el servicio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 258 F.- Los derechos por concepto de certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, resoluciones y opiniones administrativas, por funcionarios y empleados del Gobierno del Estado, se causarán conforme a la siguiente:
+###### ARTICULO 258-F.
+
+Los derechos por concepto de certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por funcionarios y empleados de Gobierno del Estado, se causarán conforme a la siguiente:
 
 TARIFA:
 
@@ -2990,6 +3024,10 @@ II.- Legalización o ratificación de firmas, por cada firma un día de salario 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 III.- Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones un día de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+
+IV.- Apostillamiento de documentos, cinco días de salario mínimo.
 
 ###### ARTICULO 259.
 
@@ -3201,7 +3239,7 @@ Para la determinación y cobro de los derechos que establece el artículo anteri
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de lo bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3587,7 +3625,9 @@ VI.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1991
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-### CAPITULO VI. SERVICIOS DE TRANSITO
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VI. SERVICIOS PARA EL CONTROL VEHICULAR
 
 ###### ARTICULO 281o.
 
@@ -3913,7 +3953,7 @@ DECRETO No. 127
 
 UNICO.- El presente Decreto entrará en vigor el 1º. de enero de 1982.
 
-P.O. 3 DE ABRIL DE 1982
+P.O. 3 DE ABRIL DE 1978
 
 DECRETO No. 178
 
@@ -3986,3 +4026,17 @@ El presente Decreto surtirá sus efectos a partir del 1º de Enero de 1994.
 P.O. 30 DE DICIEMBRE DE 1995
 
 UNICO.- El presente Decreto entrará en vigor el 1º. de Enero de 1996.
+
+P.O. 25 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del 1º. de enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el artículo 145 primer párrafo de la Ley de Hacienda del Estado, la declaración correspondiente al mes de enero de 1997, podrá presentarse a más tardar el día 17 de marzo sin la aplicación de la actualización y sin los recargos correspondientes.
+
+###### ARTICULO TERCERO.
+
+Para los efectos de lo dispuesto en el inciso a) de la fracción I del artículo 146 de la Ley de Hacienda del Estado, los sujetos que realicen actividades objeto del impuesto, podrán solicitar su inscripción a más tardar el día 17 de marzo de 1997, sin la aplicación de sanciones.
