@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1999-06-05"
+last_updated: "1999-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -863,9 +863,17 @@ X.- Preparar y en su caso aprobar, la documentación relativa a nombramientos, l
 
 XI.- Llevar los libros, registros y demás documentos establecidos para el control y seguimiento de los asuntos del Congreso;
 
-XII.- Nombrar y remover al Personal de la Oficialía Mayor, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1999)</small>
 
-XIII.- Atender las demás actividades que le señalen la presente Ley y otros ordenamientos legales aplicables.
+XII.- Nombrar y remover al personal de la Oficialía Mayor;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 1999)</small>
+
+XIII.- Expedir y certificar las copias de documentos oficiales del Congreso, en ausencia de los Secretarios y ProSecretarios;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1999)</small>
+
+XIV.- Atender las demás actividades que le señalen la presente ley y otros ordenamientos legales aplicables.
 
 ###### Art. 74.
 
@@ -1049,9 +1057,13 @@ El derecho de iniciar leyes y decretos corresponde a los miembros del Congreso y
 
 Las iniciativas de ley o decreto contendrán la exposición de motivos que las fundamenten y el articulado que propongan.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1999)</small>
+
 ###### Art. 99.
 
-Ninguna iniciativa se someterá a la consideración del Congreso sin que antes haya sido examinada y dictaminada por la comisión o comisiones correspondientes.
+Ninguna iniciativa se someterá a la consideración del Congrego (sic), sin que antes haya sido examinada y dictaminada por la comisión o comisiones correspondientes.
+
+Se exceptúan de lo anterior las iniciativas presentadas como punto de acuerdo y que versen sobre situaciones de carácter urgente que deban atenderse de manera inmediata, a juicio de la Diputación Permanente o del pleno del Congreso, pudiendo emitirse la resolución respectiva sin necesidad de turnar el planteamiento a alguna comisión legislativa.
 
 ###### Art. 100.
 
@@ -1552,3 +1564,15 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado dispondrá del término de 15 días a partir de la entrada a (sic) vigor del presente Decreto, a efecto de adecuar el reglamento respectivo en los términos ya señalados.
+
+P.O. 23 DE JUNIO DE 1999.
+
+DECRETO No. 175
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 1999.
+
+DECRETO No. 176
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
