@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1995-12-28"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -51,21 +51,29 @@ La Hacienda Pública de los Municipios del estado de Veracruz, percibirá los in
 
 Los Ayuntamientos sólo podrán cobrar las contribuciones que autorice la Ley de Ingresos Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se tendrán como:
+Para los efectos de esta Ley se entenderá como:
 
 I.- Impuestos: las prestaciones en dinero o en especie que establece la Ley con carácter general y obligatorio, a cargo de personas físicas o morales para cubrir el gasto público de los municipios;
 
-II.- Derechos: las contraprestaciones establecidas por la Ley en pago de servicios públicos municipales;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+II.- Derechos: las contraprestaciones establecidas en Ley por los servicios que presta el municipio en sus funciones de derecho público;
 
 III.- Productos: los ingresos que percibe el municipio por la explotación de sus bienes patrimoniales y por otras actividades que no corresponden a sus funciones de derecho publico;
 
 IV.- Aprovechamientos: los recargos, las multas y los demás ingresos no clasificables como impuestos, derechos, productos o participaciones;
 
-V.- Contribuciones por mejoras: la mejora o beneficio particular que tengan los bienes inmuebles por la realización de obras públicas; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-VI.- Participaciones: las cantidades que corresponden al municipio en el rendimiento de la recaudación de determinados ingresos federales o estatales, de conformidad con las leyes respectivas y los convenios que se celebren sobre el particular.
+V.- Contribuciones por mejoras: son las que fija la Ley a quienes, independientemente de la utilidad general, obtienen beneficios diferenciales particulares derivados de la realización de obras o servicios públicos;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+VI.- Participaciones: las cantidades que corresponden al municipio en el rendimiento de la recaudación de determinados ingresos federales o estatales, de conformidad con las leyes respectivas y los convenios que se celebren sobre el particular, y
 
 > <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -77,17 +85,23 @@ Los impuestos, derechos, contribuciones por mejoras, participaciones y aprovecha
 
 Los productos se regirán por las disposiciones indicadas anteriormente o por lo que en su caso prevengan los convenios contratos o concesiones respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 5o.
 
-Sólo por disposición expresa de la Ley, podrá afectarse un ingreso municipal a un fin especial.
+Las personas físicas y morales están obligadas a contribuir para los gastos públicos conforme a esta Ley y demás disposiciones fiscales aplicables a nivel municipal. Sólo por disposición expresa de Ley, podrá afectarse un ingreso municipal a un fin especial.
+
+Las personas que de conformidad con esta Ley y las demás disposiciones aplicables, no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que se establezcan en forma expresa en las mismas.
 
 ###### ARTICULO 6o.
 
 Los Reglamentos, circulares, acuerdos y demás disposiciones administrativas, en ningún caso podrán contravenir la Ley.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-La ignorancia de las disposiciones fiscales, no excusa su cumplimiento. Sin embargo, los Ayuntamientos podrán otorgar la prórroga prevista en el artículo 24 del Código Fiscal del Estado.
+La ignorancia de las disposiciones fiscales, no excusa su cumplimiento.
 
 ###### ARTICULO 8o.
 
@@ -101,29 +115,51 @@ Los Ayuntamientos, por propia iniciativa, o a solicitud de las autoridades hacen
 
 La interpretación que haga la Legislatura o la Diputación Permanente, es obligatoria en el orden administrativo para todos los municipios del Estado, a los que deberá hacerla conocer en los términos que proceda.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 10.
 
-La determinación, revisión, recaudación, control y administración de los ingresos fiscales de los municipios corresponde a sus autoridades.
+Las autoridades fiscales de los municipios podrán conceder prórroga para el pago de los créditos fiscales o para que éstos sean cubiertos hasta en 12 parcialidades, previa garantía del interés fiscal en los mismos términos previstos en el Código Fiscal para el Estado.
+
+Dicha prórroga o autorización para pago en parcialidades cesará y hará exigible inmediatamente el crédito fiscal cuando se actualice cualquiera de las causales previstas en el Código Fiscal para el Estado.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 11.
 
-Las disposiciones de las Leyes Fiscales Municipales, que establezcan cargas a los particulares y las que señalen excepciones a las mismas, son de aplicación estricta.
+Las disposiciones de las Leyes Fiscales Municipales, que establezcan cargas a los particulares y las que señalen excepciones a las mismas, así como las que fijan las infracciones y sanciones son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren a sujeto, objeto, base, tasa o tarifa.
 
 ###### ARTICULO 12.
 
 Ni los Presidentes Municipales, ni los Ayuntamientos podrán condonar ni reducir las contribuciones municipales, ni los recargos que sobre ellas se causen.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 13.
 
-Contra las resoluciones, dictadas en materia fiscal por las Autoridades Municipales, sólo procederán la interposición de los medios de impugnación que establece el Código Fiscal del Estado.
+Contra los actos administrativos dictados en materia fiscal por las autoridades municipales, los contribuyentes podrán interponer ante éstas los medios de impugnación previstos en el Código Fiscal para el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 14.
 
-Cuando no se pague un crédito fiscal derivado de impuestos o derechos, en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al Fisco Municipal por la falta de pago oportuno.
+Cuando no se pague un crédito fiscal derivado de impuestos, derechos o contribuciones por mejoras, en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al Fisco Municipal por la falta de pago oportuno.
 
 Los recargos se causarán por cada mes o fracción que transcurra a partir de la fecha de la exigibilidad del crédito, hasta que se efectúe el pago.
 
 La tasa de los recargos será la que anualmente se establezca en la ley de Ingresos Municipal sin que puedan exceder del 100% del crédito fiscal de que se trate.
+
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque, a una indemnización del 20% del valor de éste, la comisión bancaria que resulte de la devolución del cheque y se exigirá independientemente de los demás conceptos a que se refiere este artículo, la sanción que señala la fracción I inciso e) del artículo 22 de esta Ley.
+
+El valor del cheque, la indemnización bancaria, los recargos y la multa mencionados se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 14 BIS.- El pago de los créditos fiscales deberá hacerse en efectivo, salvo que las disposiciones aplicables establezcan que se hagan en especie.
+
+Los giros postales, telegráficos o bancarios y los cheques de cuentas bancarias del contribuyente se admitirán como efectivo.
+
+Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediato inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediato superior.
 
 ### CAPITULO II. DE LAS AUTORIDADES FISCALES
 
@@ -139,9 +175,15 @@ III.- La Comisión de Hacienda; y
 
 IV.- El Tesorero Municipal.
 
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 15 BIS.- Las Autoridades Fiscales designarán por escrito a Notificadores-Ejecutores Especiales, para que con ese carácter diligencien aquellos actos administrativos que se les encomienden.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 16.
 
-La determinación, liquidación, recaudación y cobro de los ingresos municipales, estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los presidentes municipales y de las Comisiones de Hacienda, con sujeción a las disposiciones de esta Ley, la Ley de Ingresos Municipal, la Ley Orgánica del Municipio Libre, el Código Fiscal del Estado y la Constitución Política del Estado.
+La determinación, revisión, liquidación, recaudación, control y cobro de los ingresos municipales, incluyendo los relativos a cheques recibidos para el pago de contribuciones que sean devueltos por la Institución de Crédito, estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los presidentes municipales y de las Comisiones de Hacienda, con sujeción a las disposiciones de esta Ley, la Ley de Ingresos de los Municipios, la Ley Orgánica del Municipio Libre, el Código Fiscal para el Estado y la Constitución Política del Estado.
 
 ### CAPITULO III. DE LOS CREDITOS FISCALES
 
@@ -150,6 +192,38 @@ La determinación, liquidación, recaudación y cobro de los ingresos municipale
 La obligación fiscal es exigible cuando se dan las situaciones jurídicas o de hecho, previstas por las Leyes Fiscales.
 
 Dicha obligación se determinará y liquidará conforme a las disposiciones vigentes en el momento de su exigibilidad, pero le serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 17 BIS.- Son responsables solidarios con los contribuyentes:
+
+I.- Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones;
+
+II.- Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos;
+
+III - Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
+
+IV.- Los copropietarios, los coposeedores, o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta por el monto del valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
+
+V.- Los terceros que para garantizar obligaciones fiscales de otros, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes hasta el valor de los dados en garantía;
+
+VI.- Las personas físicas, morales o unidades económicas que adquieran bienes o negociaciones que reporten créditos a favor del Municipio y que correspondan a periodos anteriores a la adquisición;
+
+VII.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
+
+VIII.- Quienes ejerzan la patria potestad o la tutela por las contribuciones a cargo de sus representados;
+
+IX.- Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos;
+
+X.- Los gerentes generales, administradores, presidentes, directores, quienes ejerzan cualquier función análoga a las anteriores, cualquiera que sea el nombre con que se le designe, los socios o accionistas de las personas morales, hasta por el total de las contribuciones omitidas incluyendo sus accesorios;
+
+XI.- Los funcionarios públicos y notarios públicos que autoricen un acto jurídico o den trámite a algún documento si no comprueban que se han cubierto las contribuciones respectivas, o no den cumplimiento a las disposiciones relativas que regulen el pago de las contribuciones y sus accesorios que causen, hasta por el monto de éstas;
+
+XII.- Los representantes de los contribuyentes que para cubrir créditos fiscales hayan girado cheques sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de su presentación; y
+
+XIII.- Las demás personas que señalan las leyes fiscales municipales.
+
+La responsabilidad solidaria comprenderá el crédito fiscal principal y los accesorios incluyendo las multas.
 
 ###### ARTICULO 18.
 
@@ -173,6 +247,26 @@ b).- Al concurrir la circunstancia que origine la obligación de hacer el pago.
 
 Tratándose de derechos, éstos se pagarán al solicitarse el servicio y antes de que se preste.
 
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 18 BIS.- Se considera domicilio fiscal, el señalado por los contribuyentes en los registros fiscales; o en su defecto:
+
+I.- Tratándose de personas físicas:
+
+a).- Cuando realicen actividades empresariales, el local en que se encuentre el principal asiento de sus negocios;
+
+b).- Cuando no realicen las actividades señaladas en el inciso anterior y presten servicios personales independientes, el local que utilicen como base fija para el desempeño de sus actividades, y
+
+c).- En los demás casos, el lugar en que se realicen los actos o actividades objeto del gravamen;
+
+II.- Tratándose de personas morales:
+
+a).- El local en que se encuentre establecida la administración principal del negocio, y
+
+b).- A falta del anterior, el lugar en que se encuentre ubicado el bien materia del hecho generador de la obligación fiscal;
+
+III.- Si se trata de sucursales o agencias de negociaciones establecidas en territorio del Estado o fuera del mismo, el lugar donde aquellas se establezcan, pero si son varias las dependencias de una misma negociación, deberán señalar a cada una de ellas para que haga las veces de casa matriz y, de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la autoridad fiscal municipal.
+
 ###### ARTICULO 19.
 
 Las obligaciones ante el fisco, municipal y los créditos a favor de éste, por impuestos, derechos, productos o aprovechamientos, se extinguen por prescripción en el término de 5 años. Se extingue también por prescripción en el término de 5 años, cualquier crédito del fisco municipal en favor de los particulares, incluso la obligación de éste de devolver las cantidades que le hubiesen sido pagadas indebidamente.
@@ -193,39 +287,161 @@ II.- Las Instituciones de beneficencia pública o privada constituidas conforme 
 
 En todo caso debe entenderse que no se causarán los impuestos municipales de predial, traslación de dominio y fraccionamientos, sólo en el caso de que se trate de bienes inmuebles que sean propiedad de la Federación, Estado, o Municipios, o que éstos aparezcan como sujetos de tales impuestos.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 22.
 
-Son infracciones a la presente Ley:
+Son infracciones a la presente Ley, a las que corresponderá en cada caso la sanción que a continuación se enumera:
 
-I.- No solicitar el registro de personas, bienes o negociaciones, en la Tesorería Municipal, cuando se esté obligado a hacerlo;
+I.- De los sujetos pasivos o presuntos sujetos pasivos de la obligación tributaria;
 
-II.- Omitir las declaraciones o los avisos que disponga la Ley, o presentarlos después de las fechas o términos que la misma señale;
+a).- No inscribirse o registrarse como contribuyente en la Tesorería Municipal de su domicilio fiscal: Multa de 15 a 30 días de salario mínimo;
 
-III.- Declarar datos falsos en las manifestaciones o avisos que presenten ante la Tesorería Municipal;
+b).- No citar el número de registro o de control en las declaraciones, manifestaciones, avisos, promociones, solicitudes o cualquier otro documento de gestión que haga ante la autoridad fiscal municipal: Multa de 5 a 15 días de salario mínimo;
 
-IV.- No tener en lugar visible del establecimiento o no llevar consigo, la cédula de registro o las licencias, cuando lo exija la Ley;
+c).- No tener en lugar visible, exhibir o mostrar la cédula de registro, licencia o cualquier otro documento relacionado con la inscripción o registro de contribuyente que exijan las leyes fiscales municipales: Multa de 10 a 25 días de salario mínimo;
 
-V.- No proporcionar los informes o datos que solicite la Tesorería Municipal, o proporcionarlos fuera de los términos que la misma les señale;
+d).- Señalar como domicilio fiscal para efectos de registro o inscripción, un lugar distinto al que le corresponda en los términos del artículo 19 del Código Fiscal para el Estado: Multa de 15 a 30 días de salario mínimo;
 
-VI.- Impedir la práctica de visitas de inspección o las investigaciones ordenadas por la Tesorería Municipal, u obstaculizarlas en cualquier forma;
+e).- No pagar en forma total o parcial los impuestos, derechos o contribuciones por mejoras dentro de los plazos señalados por las leyes fiscales: Multa hasta de dos tantos del impuesto, derecho o contribución por mejoras omitidos, cuando éste pueda precisarse; en caso contrario multa de 25 a 200 días de salario mínimo;
 
-VII.- Negarse a proporcionar a la Tesorería Municipal documentos oficiales, cuando se esté obligado a hacerlo;
+f).- No pagar correctamente los impuestos, derechos, productos o aprovechamientos, dentro de los plazos señalados en las leyes fiscales como consecuencia de errores aritméticos: Multa de 5 a 10 días de salario mínimo;
 
-VIII.- El incumplimiento por parte de los Notarios, Corredores y Funcionarios o Empleados Públicos, de las obligaciones que les impongan ésta u otras Leyes Fiscales; y
+g).- No pagar los impuestos, derechos, productos o aprovechamientos como consecuencia de simulaciones, falsificaciones o cualquier otro acto tendiente a evadir el exacto cumplimiento de las disposiciones fiscales: Multa de 30 a 50 días de salario mínimo;
 
-IX.- No guardar los Empleados y Funcionarios Municipales, reservas sobre las declaraciones y datos suministrados por los causantes, o por los terceros con ellos relacionados.
+h).- No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, copias, informes, libros o cualquier otro documento establecido en las disposiciones legales cuando sean requeridos por la autoridad fiscal: Multa de 15 a 30 días de salario mínimo;
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+i).- Presentar los documentos a que se refiere la fracción anterior, incompletos, alterados o con errores que permitan al contribuyente la evasión de alguna obligación fiscal: Multa de 20 a 40 días de salario mínimo;
+
+j).- No expedir los recibos, facturas o comprobantes cuando las disposiciones fiscales lo exijan o expedirlos sin los requisitos fiscales: Multa de 15 a 35 días de salario mínimo;
+
+k).- Hacer, mandar hacer o permitir que en los libros o sistemas de contabilidad que exijan las disposiciones fiscales se realicen anotaciones, asientos, cuentas, nombres, cantidades o datos falsos, alteraciones, raspaduras o tachaduras o cualquier otro acto tendiente a evadir el exacto cumplimiento de las obligaciones fiscales: Multa de 25 a 50 días de salario mínimo;
+
+l).- No llevar contabilidad cuando las disposiciones fiscales exijan esta obligación: Multa de 25 a 50 días de salario mínimo;
+
+m).- No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos: Multa de 10 a 30 días de salario mínimo;
+
+n).- No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales: Multa de 20 a 40 días de salario mínimo;
+
+ñ).- Llevar doble juego de libros, registros o sistemas contables tendientes a evadir el cumplimiento de sus obligaciones fiscales: Multa de 25 a 50 días de salario mínimo;
+
+o).- Resistirse por cualquier medio a la visita en el domicilio fiscal, a recibir notificaciones hechas por empleados públicos respecto de resoluciones emitidas por las autoridades fiscales; impedir u obstaculizar en cualquier forma que personal designado lleve a cabo alguna de las diligencias correspondientes al procedimiento administrativo de ejecución: no suministrar los datos e informes que legalmente puedan exigir por escrito las autoridades fiscales, no mostrar la contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas, o cualquier otra dependencia o lugar y; en general negarse a proporcionar los elementos que se requieran para la comprobación: Multa de 25 a 50 días de salario mínimo;
+
+p).- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos: Multa de 25 a 50 días de salario mínimo;
+
+q).- Alterar sellos oficiales, sin perjuicio de las sanciones que establezca el Código Penal del Estado: Multa de 25 a 50 días de salario mínimo, y
+
+r).- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias: Multa de 20 a 50 días de salario mínimo.
+
+II.- De los Jueces, Encargados de los Registros Públicos, Notarios y Corredores Públicos y cualquier otro que tenga fe pública:
+
+a).- No expedir las notas de liquidación de alguna prestación fiscal: Multa de 5 a 15 días de salario mínimo;
+
+b).- Expedir las notas a que se refiere la fracción anterior, en la forma que dé lugar a la evasión total o parcial del gravamen: Multa de 10 a 20 días de salario mínimo;
+
+c).- Inscribir o registrar documentos que carezcan de la constancia de pago de la contribución correspondiente: Multa de 5 a 15 días de salario mínimo:
+
+d).- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que fijen las disposiciones fiscales, o presentarlas incompletas o inexactas: Multa de 15 a 35 días de salario mínimo;
+
+e).- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados: Multa de 20 a 40 días de salario mínimo;
+
+f).- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales, en los actos en que intervengan cuando no proceda su otorgamiento: Multa de 20 a 50 días de salario mínimo;
+
+g).- Facilitar a los infractores en cualquier forma la omisión total o parcial de la obligación fiscal, mediante alteraciones, ocultaciones u otros hechos u omisiones: Multa de 20 a 50 días de salario mínimo, y
+
+h).- Resistirse por cualquier medio a las visitas domiciliarias. No presentar los datos o informes que legalmente les exijan las autoridades fiscales. No mostrar los libros, documentos, registros y en general los elementos necesarios para la revisión: Multa de 25 a 50 días de salario mínimo.
+
+III.- De los Servidores Públicos de los Municipios:
+
+a).- Inscribir o registrar documentos, instrumentos o libros que carezcan total o parcialmente de constancia de haberse pagado la contribución correspondiente: Multa de 15 a 30 días de salario mínimo;
+
+b).- No exigir el pago total de las prestaciones fiscales: recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables: Multa de 20 a 50 días de salario mínimo:
+
+c).- Contribuir con los infractores a la alteración de las declaraciones, avisos, documentos o facilitar a los contribuyentes en cualquier otra forma, omisiones encaminadas al fraude fiscal: Multa de 20 a 50 días de salario mínimo y la destitución de su cargo;
+
+d).- Alterar documentos fiscales que tengan en su poder: Multa de 20 a 50 días de salario mínimo y la destitución de su cargo;
+
+e).- No practicar las visitas de inspección cuando tenga obligación de hacerlo: Multa de 10 a 15 días de salario mínimo y en caso de reincidencia la destitución de su cargo;
+
+f).- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales, o que se practicaron visitas de inspección, o incluir en las actas relativas datos falsos: Multa de 20 a 50 días de salario mínimo y la destitución de su cargo;
+
+g).- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos: Multa de 20 a 50 días de salario mínimo;
+
+h).- Resistirse por cualquier medio a las visitas de inspección: no suministrar los datos o informes que legalmente puedan exigirle, no mostrar los libros, documentos, registros, bodegas o locales y en general negarse a proporcionar los elementos que se le requieran: Multa de 25 a 50 días de salario mínimo; y
+
+i).- No prestar a las autoridades fiscales el auxilio necesario y cobro de una prestación fiscal, cuando tenga obligación de hacerlo: Multa de 25 a 50 días de salario mínimo.
+
+IV.- De los terceros:
+
+a).- Tolerar que inscriban su nombre en el registro, registrar como propia negociaciones ajenas o percibir a nombre propio ingresos gravables correspondientes a otra persona, cuando traiga como consecuencia la omisión de prestaciones fiscales: Multa de 15 a 40 días de salario mínimo;
+
+b).- No proporcionar las declaraciones, datos, informes, copias, instrumentos, papeles o avisos, no exhibirlos en el plazo fijado por las disposiciones fiscales o presentarlos incompletos o inexactos: Multa de 15 a 40 días de salario mínimo;
+
+c).- Proporcionar los avisos, informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados: Multa de 20 a 40 días de salario mínimo;
+
+d).- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, peritos o testigos: Multa de 20 a 50 días de salario mínimo;
+
+e).- Asesorar a los contribuyentes para evadir el pago de una obligación fiscal, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad: Multa de 20 a 50 días de salario mínimo;
+
+f).- No enterar total o parcialmente dentro de los plazos que establezcan las disposiciones fiscales, las contribuciones retenidas o recaudadas cuando sea obligado a ello: Multa de 15 a 35 días de salario mínimo;
+
+g).- Adquirir, ocultar, retener o enajenar productos, mercancías o artículos aún teniendo el conocimiento de que no se cubrieron los impuestos que se debieron pagar por los mismos: Multa de 20 a 50 días de salario mínimo;
+
+h).- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una obligación fiscal, cuando tenga obligación de hacerlo: Multa de 15 a 35 días de salario mínimo;
+
+i).- Traficar con los documentos o comprobantes de pago de las prestaciones fiscales, o hacer uso indebido de ellos: Multa de 20 a 50 días de salario mínimo, y
+
+j).- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales y en general negarse a proporcionar los elementos que se le requieran: Multa de 25 a 50 días de salario mínimo.
+
+V.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+
+VI.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+
+VII.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+
+VIII.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+
+IX.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 23.
 
-Las infracciones a que se refiere el artículo, se sancionará con multa de 5 a 25 salarios mínimos.
+Las autoridades fiscales municipales al imponer las sanciones que correspondan por las infracciones cometidas a esta Ley, deberán observar las reglas siguientes:
 
-Las resoluciones por las que se impongan las multas deberán ser legalmente fundadas y motivadas, tomando en cuenta la importancia de la fracción y las condiciones del infractor.
+I.- Deberán tomar en cuenta la importancia de la infracción, las condiciones económicas del contribuyente y la conveniencia de eliminar practicas tanto para evadir la prestación fiscal, como para infringir en cualquier otra forma, las disposiciones legales o reglamentarias;
+
+II.- Deberán fundar y motivar debidamente su resolución;
+
+III.- Deberá firmar la resolución o acto administrativo correspondiente, quien sea la autoridad fiscal competente, en los términos de esta Ley;
+
+IV.- Cuando apliquen sanciones mayores a las mínimas previstas para cada infracción, expondrán en forma detallada los razonamientos que basan su determinación y los elementos probatorios que sirvieron de base para llegar a esa resolución;
+
+V.- Cuando sean varios los responsables, a cada uno se le impondrá la multa que corresponda;
+
+VI.- Cuando por un acto u omisión se infrinjan diversas disposiciones fiscales de las que señala esta Ley, sólo se aplicará la de mayor sanción;
+
+VII.- Cuando se demuestre que no hubo intención directa de cometer la infracción y no tenga como consecuencia la evasión del pago de la contribución, se aplicará el mínimo de la sanción que corresponda, apercibiéndole al infractor de que se le sancionará como reincidente si volviera a incurrir en la infracción;
+
+VIII.- Cuando se omita una prestación fiscal correspondiente a los actos o contratos que consten en escrituras públicas extendidas ante Notarios o Corredores Públicos, la sanción se impondrá exclusivamente a éstos y los otorgantes sólo quedarán obligados a pagar las prestaciones omitidas.
+
+Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados a los Notarios o Corredores, la sanción se aplicará a los mismos interesados;
+
+IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a Servidores Públicos de los Municipios, éstos serán responsables de las infracciones que cometan haciéndose acreedores a las sanciones establecidas en esta Ley, quedando obligados los contribuyentes a pagar únicamente la prestación omitida;
+
+X.- Las autoridades fiscales no impondrán sanciones cuando la infracción se haya generado por hechos ajenos a la voluntad del infractor, el cual deberá probar tal circunstancia ante las autoridades mencionadas;
+
+XI.- Se considera reincidente a la persona que habiendo sido sancionada incurra nuevamente durante el mismo ejercicio fiscal en cualquier infracción de las estipuladas en esta Ley, al infractor se le aplicará el doble de la sanción que corresponda a la infracción cometida motivo de la reincidencia, y
+
+XII.- Las autoridades fiscales del Estado se abstendrán de imponer sanciones, cuando se haya incurrido en infracción por causa de fuerza mayor o de caso fortuito o cuando se enteren en forma espontánea los impuestos, derechos o contribuciones por mejoras no cubiertos dentro de los plazos señalados por las disposiciones fiscales.
+
+No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 24.
 
-Las sanciones a que se refieren los artículos 22 y 23, se aplicarán sin perjuicio de hacer efectivas las contribuciones omitidas, más los recargos causados, en su caso, y los gastos de ejecución.
+Las sanciones a que se refiere el artículo 22, se aplicarán sin perjuicio de hacer efectivas las contribuciones omitidas, más los recargos causados, en su caso, y los gastos de ejecución.
 
 ###### ARTICULO 25.
 
@@ -305,25 +521,49 @@ El objeto del impuesto a que se refiere este artículo incluye la propiedad o po
 
 Son sujetos de este impuesto:
 
-I.- Los propietarios, copropietarios y nudopropietarios de predios urbanos y rústicos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-II.- Los poseedores y coposeedores de predios urbanos y rústicos; en el caso a que se refieren las fracciones III y V del artículo anterior;
+I.- Los propietarios y los poseedores de predios urbanos o rústicos, ejidales o comunales;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+II.- Los copropietarios, los coposeedores y los nudopropietarios de bienes inmuebles sujetos a régimen de copropiedad o condominio y los titulares de certificados de participación inmobiliaria;
 
 III.- Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aun cuando todavía no se les trasmita la propiedad, en cumplimiento del fideicomiso, y los usufructuarios;
 
-IV.- Con responsabilidad solidaria;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-a).- Los propietarios de predios que hubiesen prometido en venta o hubieren vendido con reserva de dominio, en el caso a que se refiere el inciso b) de la fracción III del artículo anterior.
+IV.- Los ejidatarios, comuneros y los titulares de derechos parcelarios en los términos de la Legislación Agraria;
 
-b).- Los Comisariados Ejidales en los términos de la Legislación Agraria Federal, tratándose de la fracción V del artículo anterior.
+a).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-c).- Los empleados públicos que dolosamente expidan constancias de no adeudo del Impuesto Predial.
+b).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-d).- Los propietarios o poseedores, los copropietarios, los coposeedores, respecto de los créditos fiscales derivados del bien o derecho en común o individual y hasta por el monto del valor de éste, respecto de las prestaciones fiscales que en cualquier tiempo se hubieren causado.
+c).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-e).- Las Instituciones fiduciarias en los casos de la fracción III de este precepto.
+d).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-V.- Los demás sujetos que señalen las Leyes Fiscales.
+e).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+
+V.-Los demás sujetos que señalen las Leyes Fiscales.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 34 BIS.- Son sujetos con responsabilidad solidaria los siguientes:
+
+a).- La persona o personas cualquiera que sea el nombre con que se les designe que tengan conferida la dirección general, la gerencia general, o la administración única de una persona moral;
+
+b).- Los representantes del Comisariado Ejidal o del Consejo de Vigilancia, en los términos de la Legislación Agraria;
+
+c).- Tratándose de copropietarios, coposeedores y nudopropietarios, cualquiera de ellos responderá al monto total del adeudo del crédito fiscal y sus accesorios sin que la autoridad fiscal quede obligada al cobro proporcional de dicho adeudo;
+
+d).- Los representantes legales de sociedades, asociaciones civiles y comunidades respecto de los impuestos a cargo de sus representados cuando tengan facultades para actos de administración;
+
+e).- Los albaceas de la sucesión hasta en tanto no se adjudiquen los bienes los herederos;
+
+f).- Las Instituciones fiduciarias en los casos de la fracción III del artículo 34 de esta Ley, y
+
+g).- Los demás sujetos que señalen las Leyes Fiscales.
 
 ###### ARTICULO 35.
 
@@ -333,9 +573,9 @@ La base del impuesto será:
 
 I.- El 100% del Valor Catastral del predio, señalado en los términos de la Ley de Catastro.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-II.- El 100% del valor provisional que la Secretaría de Finanzas y Planeación del Estado fije con los elementos de que disponga y el cual deberá comunicar inmediatamente a la Tesorería Municipal que corresponda.
+II.- El 100% del valor catastral provisional que la Autoridad Catastral fije con los elementos de que disponga y el cual deberá comunicar inmediatamente a la Tesorería Municipal que corresponda.
 
 III.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
@@ -371,13 +611,11 @@ II.- Predios Rústicos 4
 
 Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de dos salarios mínimos diarios de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
 
-III.- 5
-
-Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos de cualquier clase de acuerdo con la Ley Federal de Impuestos y Fomento a la Minería, sobre el valor de os bienes raíces, maquinaria equipo y otros destinados directamente a la explotación del negocio.
+III.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-IV.- Predios Baldíos ……………………………………………………………………….7.5
+IV.- Predios Baldíos …………………………………………………………………… 7.5
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
 
@@ -407,9 +645,11 @@ En consecuencia, el procedimiento administrativo de ejecución que establece el 
 
 Los Notarios Públicos, para autorizar en forma definitiva escrituras en que se hagan constar contratos, convenios y resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado, deberán exigir la constancia de que sobre los mismos se está al corriente en el pago del impuesto, para cuyo efecto se les deberá presentar el informe de no adeudo y la última boleta o recibo de pago correspondiente.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 43.
 
-En los casos de predios no registrados en los padrones correspondientes en las Tesorerías Municipales, por causa imputable al sujeto del Impuesto, se fincará liquidación por cinco años anteriores a la fecha del conocimiento de la omisión y la tasa se aplicará de acuerdo con lo dispuesto en este capítulo. Tratándose de construcciones no manifestadas, si no se pudiera fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se hará el cobro del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
+En los casos de predios no registrados en los padrones correspondientes en las Tesorerías Municipales, por causa imputable al sujeto del Impuesto, se fincará liquidación presuntiva y se requerirá incluso a través del Procedimiento Administrativo de Ejecución por cinco años anteriores a la fecha del conocimiento de la omisión y la tasa se aplicará de acuerdo con lo dispuesto en este capítulo. Tratándose de construcciones no manifestadas, si no se pudiera fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se hará el cobro del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
 
 ###### ARTICULO 44.
 
@@ -541,15 +781,15 @@ XI.- EI usufructuario, el cesionario de los derechos de usufructo o el adquirent
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 55.
 
-La base de este impuesto será el valor del inmueble, catastral o provisional actualizado con los últimos valores unitarios para terreno y construcción publicados o el de operación si éste es mayor. El impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base indicada en este artículo.
+La base de este impuesto será el valor del inmueble, Catastral o Catastral Provisional o el de operación si éste es mayor y el impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base indicada en este artículo.
 
-> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-En los inmuebles adquiridos en un período de tres años anteriores a la fecha de operación actual, el impuesto se podrá calcular sobre el valor resultante de la disminución del valor que se tomó como base en el cálculo del impuesto en la última adquisición, al valor mayor que se refiere el párrafo anterior.
+En los inmuebles adquiridos durante el periodo de tres años anteriores, contados a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir al valor mayor, a que se refiere el párrafo anterior, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
 
 Tratándose del usufructo o de la nuda propiedad, la base del impuesto será el 50% en cada caso.
 
@@ -563,11 +803,11 @@ Los contribuyentes que celebren operaciones de las señaladas en el artículo 52
 
 En este caso, cuando se consolide la propiedad, no se efectuará pago alguno por este concepto, pero se presentará declaración relacionándola con la anterior.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 57.
 
-Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el valor catastral o provisional en su caso, actualizado y certificado en la forma oficial autorizada para tal efecto.
+Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional en su caso, actualizado en la forma oficial autorizada para tal efecto.
 
 ###### ARTICULO 58.
 
@@ -587,7 +827,9 @@ ARTlCULO 59.- Los notarios, jueces, corredores y demás fedatarios que por dispo
 
 Con la forma oficial de declaración deberán acompañarse:
 
-a) Copia del certificado en que conste el valor catastral o provisional en su caso.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+a).- Certificado de Valor Catastral o Catastral Provisional en su caso;
 
 b) Copia de las constancias con las que se haya rendido el informe de no adeudo.
 
@@ -649,39 +891,37 @@ VI.- Las adquisiciones de inmuebles que hagan los arrendatarios financieros al e
 
 ###### ARTICULO 65.
 
-Este impuesto se causará por la percepción de ingresos que obtengan los fraccionadores por la enajenación de lotes de terreno, así como de las construcciones destinadas a fines habitacionales.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 66.
 
-Son sujetos de este Impuesto las personas físicas o morales que obtengan ingresos de acuerdo a lo establecido en el artículo anterior, siempre que se realicen o surtan sus efectos dentro del territorio del Estado.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+(DEROGADO,G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 67.
 
-Servirá de base el valor mayor que resulte de comparar el valor consignado en la escritura, el del avalúo que otorgue una Institución de Crédito autorizada para tal efecto y el del Certificado de Valor Actual Real, que expida la autoridad catastral correspondiente.
-
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 68.
 
-Este impuesto causará, liquidará y pagará a razón de 1.5% sobre el monto de la base que se señala en el artículo anterior.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 69.
 
-Son obligaciones de los causantes de este impuesto:
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-I.- Empadronarse dentro del plazo de 10 días siguientes a la fecha en que se hayan iniciado sus actividades, en la Tesorería Municipal, en cuya jurisdicción se encuentren los bienes enajenados;
+I.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-II.- Cuando un mismo causante tenga varios fraccionamientos deberá registrarlos por separado en el lugar que le corresponda, de acuerdo a su ubicación;
+II.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-III.- El pago del impuesto deberá hacerse en la Tesorería Municipal en que esté empadronado el causante, dentro de los primeros veinte días siguientes a la fecha en que se hubiera causado. Para tal efecto deberá presentarse una declaración de los ingresos obtenidos en el mes inmediato anterior.
+III.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 70.
 
-Estas disposiciones afectarán exclusivamente aquellas operaciones que se encuentren comprendidas en las fracciones I y II del artículo 9 de la Ley del Impuesto al Valor Agregado.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-#### SECCION V. SOBRE TRANSPORTE PUBLICO EN ZONAS URBANAS
+> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION V. SOBRE TRANSPORTE PUBLICO EN ZONAS URBANAS, SUBURBANAS Y FORANEAS
 
 ###### ARTICULO 71.
 
@@ -689,7 +929,9 @@ Regido por el capítulo I, del Título Primero de la Ley de Hacienda para el Est
 
 El impuesto se causará a favor de cada municipio, por las actividades gravadas que se realicen dentro de su jurisdicción, con cuota del 75% sobre el importe del impuesto que se deba causar a favor de la Hacienda Pública del Estado.
 
-#### SECCION VI. SOBRE HONORARIOS
+> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION VI. SOBRE HONORARIOS POR LA PRESTACION DE SERVICIOS PROFESIONALES DE MEDICINA
 
 > <small>(F. DE E., G.O. 28 DE ENERO DE 1984)</small>
 
@@ -731,13 +973,17 @@ III. Circos, sobre la entrada bruta, el 3%;
 
 IV.- Espectáculos deportivos;
 
-a).- Box, lucha libre y otros similares, sobre la entrada bruta, el 12%;
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+a).- Box, lucha libre y otros similares, sobre la entrada bruta, el 10 %.
 
-b).- Carreras de automóviles, caballos, perros bicicletas y motocicletas, sobre la entrada bruta, el 12%.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-c).- Beisbol, futbol, basquetbol, tenis, pelota vasca y otros juegos de pelota, sobre la entrada bruta el 10%;
+b).- Carreras de automóviles, caballos, perros, bicicletas y motocicletas, sobre la entrada bruta, el 10 %.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+c).- Béisbol, fútbol, basketball, tenis, pelota vasca, y otros juegos de pelota, sobre la entrada bruta, el 8 %.
 
 V.- Corridas de toros, becerradas, novilladas, jaripeos, peleas de gallos y otros espectáculos similares, sobre los ingresos brutos obtenidos el 10%;
 
@@ -747,13 +993,17 @@ VI.- Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, r
 
 VII.- Exhibiciones y concursos, sobre el precio de cada boleto, ficha o pase de cualquier clase, que dé derecho a entrar al espectáculo, el 5%.
 
-> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Los no comprendidos en las fracciones anteriores, sobre el precio del boleto, el 10%.
+VIII.- Espectáculos nocturnos diferentes a los anteriores, sobre la entrada bruta, el 10 %.
 
 > <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 1995)</small>
 
 IX.- Tratándose de instituciones de asistencia pública legalmente constituidas, se aplicará la tasa del 3% sobre el precio del boleto.
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+X.- Los no comprendidos en las fracciones anteriores, sobre el total de los boletos vendidos, el 10 %.
 
 ###### ARTICULO 76.
 
@@ -943,59 +1193,39 @@ Las autoridades competentes que otorguen permisos para la celebración de loter�
 
 ###### ARTICULO 98.
 
-Es objeto de este impuesto, la matanza de ganado vacuno, equino, porcino, ovicaprino y especies menores, dentro del territorio del Estado.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 99.
 
-Son sujetos de este impuesto, los propietarios del ganado objeto del sacrificio.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 100.
 
-Son responsables solidariamente de este impuesto, quienes adquieran para su enajenación los productos del ganado sacrificado.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 101.
 
-El sacrificio de animales a que se refiere el artículo anterior, deberá efectuarse en los rastros públicos municipales o en los lugares que para ese efecto autoricen los Ayuntamientos.
-
-> <small>(F. DE E., G.O. 28 DE ENERO DE 1984)</small>
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 102.
 
-Se causará este impuesto aun cuando la matanza se lleve a cabo en rastros particulares o rastros municipales concesionados a organismos o entidades privadas.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 103.
 
-El impuesto que establece este capítulo, se causará conforme a la siguiente:
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+I.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-T A R I F A
+II.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+III.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-I.-Bovino, por cada animal 1 a 3 salarios mínimos
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-II.-Porcino y equino, por cada animal. 0.05 a 1.50 salario mínimo
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-III.-Ovicaprino, por cada animal 0.50 Salario mínimo
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
-
-IV.-Especies menores por cada animal 0.01 salario mínimo
-
-En aquellos municipios en que se encuentren establecidos rastros frigoríficos operados por las Uniones Ganaderas, este impuesto se distirbuirá en la forma siguiente: 25% al Municipio donde estén instalados los frigoríficos y el 75% a los municipios de los que preceda el ganado que se sacrifique.
+IV.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 104.
 
-Los causantes presentarán a los recaudadores del impuesto una relación del número y clase de animales sacrificados, certificada por el encargado del rastro.
-
-El recaudador revisará la relación que se le presente, hará la liquidación del impuesto y recibirá su pago, expidiendo el recibo correspondiente. Hecho el pago deberá sellarse la carne y las pieles de los animales sacrificados, mediante sello oficial.
-
-Los encargados de los rastros o lugares autorizados por la autoridad municipal para el sacrificio de ganado, no permitirán la salida de los productos de los animales sacrificados, si no se les comprueba el pago del impuesto que establece este capítulo.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ### CAPITULO VI. ADICIONALES
 
@@ -1027,25 +1257,51 @@ Los derechos por la prestación de servicios, deberán fijarse tomando en cuenta
 
 ### CAPITULO II. DERECHOS POR SERVICIOS QUE SE PRESTEN EN LOS RASTROS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 107.
 
-Por la prestación de los servicios que se proporcionen en los rastros públicos municipales o en otros lugares autorizados, se cobrará el 50% sobre el importe que paguen los usuarios del servicio por concepto de impuesto sobre matanza de ganado.
+Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a la siguiente:
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+TARIFA:
+
+I.- Bovino, por cada animal
+
+1.5 a 3.0 salarios mínimos
+
+II.- Porcino y equino, por cada animal
+
+0.5 a 1.0 salarios mínimos
+
+III.- Ovino y caprino, por cada animal
+
+0.2 a 0.4 salarios mínimos
+
+IV.- Aves y otras especies menores, por cada animal
+
+0.01 a 0.02 salarios mínimos
 
 ###### ARTICULO 108.
 
 Son sujetos de los derechos de que habla el artículo anterior, los usuarios de los servicios a que el mismo se refiere.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 109.
 
-Los derechos a que se refiere este capítulo deberán pagarse antes de que se presten los servicios en la Tesorería Municipal respectiva o a sus recaudadores autorizados en el lugar del sacrificio.
+Los derechos a que se refiere este Capítulo deberán pagarse en la Tesorería Municipal respectiva o ante los recaudadores autorizados en los rastros públicos municipales, antes de que se presten los servicios.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 110.
 
-Los administradores o encargados de los rastros públicos municipales, o lugares autorizados para el sacrificio de ganado no permitirán la salida de la carne o pieles de animales sacrificados, si previamente no se comprueba que se pagaron los derechos por los servicios que se hayan prestado.
+Los administradores o encargados de los rastros públicos municipales no permitirán la salida de la carne o pieles de animales sacrificados, si previamente no se comprueba que se pagaron los derechos por los servicios que se hayan prestado.
 
 ###### ARTICULO 111.
 
-En aquellos municipios en que se encuentren establecidos rastros frigoríficos operados por las Uniones Ganaderas los derechos generales de los mismos quedarán a beneficio de los respectivos frigoríficos para sus operaciones, mantenimiento y amortización.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ### CAPITULO III
 
@@ -2763,13 +3019,257 @@ Los Notarios y demás funcionarios encargados de llevar la fe pública no podrá
 
 Las autoridades municipales no autorizarán el traspaso o traslado de un giro mercantil o industrial o el cambio de negocio, mientras no se les acredite estar al corriente en el pago de derechos por servicios de agua.
 
-### CAPITULO UNICO. CONTRIBUCIONES POR MEJORAS
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO I. INGRESOS OBTENIDOS POR LA ENAJENAClON DE BIENES MUEBLES E INMUEBLES PERTENECIENTES A LOS MUNICIPIOS
+### CAPITULO XIX
 
-## TITULO CUARTO
+DERECHOS POR LA EXPEDICIÓN DE LICENICAS, PERMISOS O AUTORIZACIONES PARA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS O PRESTACIÓN DE SERVICIOS QUE INCLUYAN EL EXPENDIO DE DICHAS BEBIDAS
 
-### CAPITULO II. INGRESOS POR CONCEPTO DE RENTAS DE BIENES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-A.
+
+Es objeto de este derecho la expedición de licencias, permisos, autorizaciones o el refrendo anual de cualquiera de ellos para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación, ya sea de manera permanente o temporal en botella cerrada o abierta, al mayoreo, menudeo o copeo, de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general dentro del territorio del Estado.
+
+Para efectos de este Capítulo se consideran bebidas alcohólicas las señaladas en el artículo 173 de la Ley de Salud del Estado de Veracruz-Llave
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-B.
+
+Son sujetos de este derecho, las personas físicas o morales que enajenen bebidas alcohólicas o presten servicios en los términos mencionados en el artículo anterior.
+
+###### ARTICULO 149-C.
+
+Por la expedición de licencias, permisos o autorizaciones para el funcionamiento a que se refiere el artículo 149-A de esta Ley se causarán los derechos que establece la siguiente:
+
+TARIFA
+
+I.- Los establecimientos que expendan bebidas alcohólicas en botella cerrada, abierta, al menudeo o copeo, pagarán en cada caso, los derechos que a continuación se mencionan:
+
+a).- Cabarets, centros nocturnos, discotecas, salones de baile, palenques o lugares de reunión con o sin variedad artística y similares: de 200 hasta 300 salarios mínimos.
+
+b).- Restaurantes, taquerías, loncherías, marisquerías, fondas, pizzerías, torterías y cualquier otro de naturaleza análoga: de 50 hasta 200 salarios mínimos.
+
+c).- Billares, boliches o casinos y similares con expendio de bebidas alcohólicas: de 100 hasta 250 salarios mínimos.
+
+d).- Cantinas, pulquerías, depósitos, tabernas, bares, video-bares, ladies-bar, restaurant-bar y cualquier otro similar de hasta 120 m2 de superficie: de 50 hasta 300 salarios mínimos.
+
+e).- Cantinas, pulquerías, depósitos, tabernas, bares, video-bares, ladies-bar, restaurant-bar y cualquier otro similar de más de 120 m2 de superficie: de 150 hasta 500 salarios mínimos.
+
+f).- Centros y clubes sociales cualquiera que sea su denominación con expendio o consumo de bebidas alcohólicas: de 150 hasta 300 salarios mínimos.
+
+g).- Hoteles, casas de huéspedes, hoteles de paso, moteles o cualquier otro similar: de 150 hasta 300 salarios mínimos.
+
+h).- Cualquier otro de los no señalados anteriormente; de 50 hasta 500 salarios mínimos.
+
+II.- Establecimientos que expendan bebidas alcohólicas en botella cerrada:
+
+a).- Tiendas de abarrotes o de autoservicio, supermercados, ultramarinos, depósitos o licorerías de venta de vinos y licores, con menos de 1 00 M2 de superficie de atención al público: de 50 hasta 150 salarios mínimos.
+
+b).- Tiendas de abarrotes o de autoservicio, supermercados, depósitos o licorerías de venta de vinos y licores de más de 100 M2 y hasta 150 M2 de superficie de atención al público: de 100 hasta 200 salarios mínimos.
+
+c).- Tiendas de abarrotes o de autoservicio, supermercados, depósitos o licorerías de venta de vinos y licores de más de 150 M2 de superficie de atención al público; de 150 hasta 250 salarios mínimos.
+
+d).- Establecimientos que expendan al mayoreo, y con servicio de distribución de bebidas alcohólicas en botella cerrada; de 300 hasta 400 salarios mínimos.
+
+e).- Establecimientos que distribuyan aguardiente al mayoreo; y de 200 hasta 300 salarios mínimos.
+
+f).- Cualquier otro no considerado en los incisos anteriores de esta fracción, de 100 hasta 400 salarios mínimos.
+
+Tratándose de la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, en botella cerrada, abierta, al menudeo o copeo que sea en forma temporal sin que exceda de un plazo de treinta días naturales, cubrirán únicamente el importe equivalente al 15% de la tarifa que les corresponda en cada caso.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-D.
+
+Por el refrendo o revalidación de las licencias, permisos o autorizaciones contenidos en el artículo que antecede, se pagarán anualmente en cada caso el impone equivalente al 50% de las tarifas señaladas.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-E.
+
+Las personas que soliciten licencias, permisos, autorizaciones o la revalidación o refrendo de cualquiera de ellas para la enajenación de bebidas alcohólicas en botella cerrada, abierta, al menudeo o copeo al público en general, deberán efectuar el pago de los derechos a que se refiere este Capítulo, en la Tesorería Municipal del lugar donde se realizará la actividad.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-F.
+
+Los obligados al pago de estos derechos solicitarán a la Autoridad Fiscal Municipal de su jurisdicción, previamente a la iniciación de sus actividades, la expedición de la licencia, permiso o autorización para el funcionamiento del establecimiento o local, así como también la revalidación o refrendo anual de cualquiera de ellos dentro del mes de enero de cada año.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-G.
+
+Queda prohibida la transferencia de los derechos derivados de la expedición, revalidación o refrendo de licencias, permisos o autorizaciones a que se refiere el Artículo 149-A de esta Ley.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-H.
+
+Son obligaciones de los sujetos de este derecho:
+
+I.- Presentar ante la Autoridad Fiscal Municipal correspondiente, la licencia sanitaria, simultáneamente con la solicitud de licencia, autorización o permiso para la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan la expedición de dichas bebidas;
+
+II.- Exhibir o solicitar la revalidación anual a la Autoridad Fiscal Municipal correspondiente de la licencia para el funcionamiento del establecimiento o local;
+
+III.- Manifestar oportunamente en las formas autorizadas para ello, el aviso de suspensión, baja, conclusión o cualquier modificación en su caso de las actividades, así como el cambio de domicilio o de las características del local o establecimiento autorizado para la enajenación de bebidas alcohólicas;
+
+IV.- Exhibir ante la Autoridad Fiscal Municipal correspondiente copia de su inscripción al Registro Federal de Contribuyentes, y de los avisos de modificación hechos al mismo; y
+
+V.- Cumplir con los requisitos que señalen los Reglamentos Municipales vigentes.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-I.
+
+Las Autoridades Fiscales Municipales están facultadas para:
+
+I.- Autorizar o negar el funcionamiento de establecimientos para enajenar bebidas alcohólicas, tomando en cuenta su ubicación, el número de los existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad aplicables;
+
+II.- Cancelar la licencia correspondiente de aquellos establecimientos que por su funcionamiento o su ubicación ofendan la moral y las buenas costumbres; y
+
+III.- Cancelar la licencia, permiso o autorización cuando no se solicite oportunamente su revalidación anual, tratándose de establecimientos permanentes.
+
+###### ARTICULO 149-J.
+
+No se efectuará el pago de este derecho tratándose de recepciones particulares, en donde el consumo de bebidas alcohólicas no constituya un fin lucrativo.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO XX. DERECHOS POR LA EXPEDICIÓN DE LICENCIAS, PERMISOS O AUTORIZACIONES PARA LA COLOCACIÓN DE ANUNCIOS, CARTELES Y REALIZACIÓN DE PUBLICIDAD
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-K.
+
+Es objeto de este derecho, la expedición de licencias, permisos o autorizaciones para la colocación de anuncios, carteles o la realización de publicidad en la vía pública o lugares visibles en la misma.
+
+Para efectos de este derecho, se entiende por anuncios en la vía pública, a todo medio de publicidad, que proporcione información, orientación e identifique un servicio profesional, marca, producto o establecimiento, con fines de venta de bienes o servicios, con excepción de los colocados en el establecimiento en los que se anuncie la profesión o razón social del anunciante.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-L.
+
+Son sujetos de este derecho, las personas físicas o morales que utilicen los medios de publicidad para los fines a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-M.
+
+Por la expedición de las licencias, permisos o autorizaciones para el funcionamiento a que se refiere este Capítulo, se causarán los derechos que establece la siguiente:
+
+TARIFA
+
+I.- Por los anuncios señalados a continuación, se cobrará mensualmente en cada caso:
+
+a).- Los pintados o adosados a fachadas, muros o marquesinas 60 salarios mínimos por M2
+
+b).- Los colocados en azoteas, vías públicas o lugares visibles:
+
+1.- No luminosos .70 salarios mínimos por M2
+
+2.- Luminosos .85 salarios mínimos por M2
+
+3.- Eléctricos .85 salarios mínimos por M2
+
+4.- Gas Neón o Fluorescentes .90 salarios mínimos por M2
+
+5.- Cualquier otro .80 salarios mínimos por M2
+
+c).- Los colocados en predios rústicos o urbanos:
+
+1.- No luminosos .60 Salarios mínimos por M2
+
+2.- Luminosos .75 Salarios mínimos por M2
+
+3.- Eléctricos .75 Salarios mínimos por M2
+
+4.- Gas Neón o Fluorescentes .80 Salarios mínimos por M2
+
+5.- Cualquier otro .70 Salarios mínimos por M2
+
+II.- Por la publicidad o carteles señalados a continuación, se cobrará diariamente en cada caso lo siguiente:
+
+a).- En cine .30 Salarios Mínimos
+
+b).- Altoparlantes sonoros:
+
+1).- Fijos .40 Salarios Mínimos
+
+2.- Móviles .50 Salarios Mínimos
+
+c).- En carteles, madera, manteados, plásticos o cualquier otro medio .17 Salarios Mínimos
+
+III.- Volantes (por cada mil) .40 Salarios Mínimos
+
+La obligación del pago de este derecho nace desde el momento en que las personas físicas o morales realicen cualquiera de los actos señalados en este Título.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-N.
+
+Las personas que soliciten licencias, permisos o autorizaciones a que se refiere el Artículo anterior, deberán acreditar el pago de los derechos previamente a la realización del acto publicitario.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149
+
+Ñ.- Son solidariamente responsables:
+
+I.- Los propietarios de los predios, fincas o construcciones en donde se fijen los anuncios o carteles en los que se lleve a cabo la publicidad, hasta por el tanto que corresponda a la tarifa del tipo de anuncio de que se trate; y
+
+II.- Las personas físicas o morales que sean contratadas para la realización de anuncios, carteles o publicidad por la tarifa que corresponda en cada caso, cuando el anunciante no acredite el pago del derecho a que se refiere este Capítulo.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-O.
+
+Las autoridades fiscales municipales establecerán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de las licencias, permisos o autorizaciones de anuncios, carteles o publicidad; así como sus características, dimensiones y espacios en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación que se utilicen en su construcción y su vigencia.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-P.
+
+No se causarán (sic) este derecho cuando se trate de la siguiente publicidad:
+
+I.- La que se realice por medio de televisión, radio, periódicos o revistas; y
+
+II.- La que realicen las entidades gubernamentales en sus funciones de derecho público; los partidos políticos; las instituciones de asistencia o beneficencia pública y las iglesias o asociaciones religiosas.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-Q.
+
+Son obligaciones de las personas físicas o morales que soliciten licencias o permisos para la colocación de publicidad:
+
+I.- lnscribirse en la Tesorería Municipal del lugar donde se vaya a llevar a cabo la instalación o colocación de los anuncios, carteles o publicidad;
+
+II.- Cumplir con todos los requisitos que, para tal efecto, señale la autoridad municipal;
+
+III.- Cubrir previamente el pago de los derechos a que se refiere este Capítulo; y
+
+IV.- Las demás que señalen las disposiciones fiscales municipales.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 149-R.
+
+Son obligaciones de los responsables solidarios:
+
+I.- Solicitar al anunciante el número de la licencia, permiso o autorización del anuncio, cartel o publicidad que expida la autoridad municipal;
+
+II.- Señalar en la publicidad escrita su nombre, denominación o razón social, domicilio, teléfono; y
+
+III.- Insertar o anunciar el número de permiso a que se refiere la fracción I de este Artículo.
+
+> <small>(ADICIONADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+## TITULO CUARTO. DE LAS CONTRIBUCIONES POR MEJORAS
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO I. CONTRIBUCIONES POR MEJORAS POR LA REALIZACIÓN DE OBRA PUBLICA
 
 ###### ARTICULO 150.
 
@@ -2879,6 +3379,8 @@ El importe de la contribución que resulte, se dividirá entre el número de bim
 
 En los casos de predios expropiados para la realización de una obra, los propietarios tendrán derecho a que se les compense la contribución que adeuden hasta el monto de la indemnización. Dicha compensación se considerará como pago anticipado.
 
+> <small>(REFORMADO, PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 155.
 
 Los planes o proyectos, aprobados por el H. Ayuntamiento referentes a la realización de cualquiera de las obras mencionadas en el artículo 150, deberán ser publicados por lo menos quince días antes de su inicio en la "Gaceta Oficial" del Estado, para que los contribuyentes hagan las observaciones pertinentes, conteniendo los siguientes datos:
@@ -2933,11 +3435,113 @@ Los notarios, corredores y funcionarios con fe pública, no autorizarán ningún
 
 Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos del pago de las contribuciones por mejoras.
 
-### CAPITULO III. INTERESES POR CAPITALES IMPUESTOS
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO II. CONTRIBUCIONES PARA EL FOMENTO AL TURISMO MUNICIPAL
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-A.
+
+Es objeto de esta contribución la prestación de servicios de hospedaje proporcionados en territorio del estado, ya sea de manera permanente o temporal.
+
+Para efectos de esta contribución se considera prestación de servicios de hospedaje los de alojamiento o albergue temporal de personas, a cambio de una contraprestación en dinero o especie, dentro de los cuales quedan comprendidos los prestados por hoteles, moteles, campamentos, paraderos de casas rodantes, incluyendo los otorgados bajo la modalidad de tiempo compartido, seminarios y cualquier otro que se les asemeje sin importar la denominación que se le dé.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-B.
+
+Son sujetos de esta contribución las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, incluyendo las agencias, sucursales o cualquiera que sea la denominación que se le dé aun cuando tengan su domicilio fiscal en lugar distinto al de la prestación del servicio.
+
+Los contribuyentes realizarán el traslado de la contribución en forma expresa y por separado, a las personas a quienes se presten los servicios de hospedaje. Se entenderá por traslado de la contribución, el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente a la contribución establecida en este capítulo.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-C.
+
+Es base de esta contribución el monto total de las contraprestaciones causadas por los servicios de hospedaje.
+
+Cuando los contribuyentes convengan en la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+En ningún caso se considerará que el Impuesto al Valor Agregado forma parte de la base.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-D.
+
+Esta contribución se determinará y pagará aplicando la tasa del 2% a la base gravable a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-E.
+
+El ingreso que perciba el Municipio de la contribución señalada en este capítulo, se aplicará íntegramente al Fondo para el Fomento al Turismo Municipal, mismo que será aportado al fideicomiso público que los Municipios constituyan.
+
+Para los efectos del párrafo anterior, cada Ayuntamiento expedirá un reglamento en que se indique el funcionamiento del Comité de Desarrollo Turístico Municipal encargado de programar actividades y proyectos de acuerdo a la Ley de Fomento al Turismo del Estado, así como del fideicomiso que administre el fondo.
+
+El Comité Municipal se encargará de promover acciones que se traduzcan en beneficio para el sector turístico, y determinará los proyectos que serán financiados con cargo al fondo del fideicomiso.
+
+En dicho Comité participarán las autoridades municipales, la Junta de Mejoramiento Moral, Cívico y Material y mayoritariamente representantes de las asociaciones y cámaras que agrupe a los prestadores de servicio de hospedaje.
+
+En los municipios en donde no se encuentre integrada la Junta de Mejoramiento Moral, Cívico y Material, formará parte del comité una persona de reconocido prestigio y honorabilidad en la localidad.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-F.
+
+La contribución a que se refiere este capítulo se causará al momento en que se hagan exigibles las contraprestaciones por los servicios de hospedaje. Los prestadores de servicios de hospedaje, deberán calcularla, retenerla y enterarla mediante declaración mensual ante la Tesorería Municipal correspondiente a la jurisdicción en donde se encuentren los inmuebles dedicados a la prestación de los servicios, dentro de los primeros veinte días del mes siguiente a aquel al que corresponda el pago.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-G.
+
+Son responsables solidarios de esta contribución las personas físicas o morales, cualquiera que sea la denominación, razón social o nombre que se les dé, que dirijan, administren, sean propietarios o accionistas, gerentes, directores, de los establecimientos que presten los servicios a que se refiere este capítulo hasta por el monto total de las contribuciones no enteradas, incluyendo sus accesorios.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-H.
+
+Son obligaciones de los prestadores de servicios de hospedaje:
+
+I.- Inscribirse en la Tesorería Municipal del lugar donde se llevan a cabo los servicios de hospedaje descritos en el presente capítulo;
+
+II.- Retener y enterar mensualmente el pago de la contribución correspondiente, aplicable al establecimiento;
+
+III.- Obtener el permiso respectivo de la autoridad sanitaria; y
+
+IV.- Cumplir con los demás requisitos que establezcan las disposiciones legales aplicables a la materia.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-I.
+
+Las autoridades fiscales de los municipios, podrán estimar los ingresos de esta contribución, en los siguientes casos:
+
+I.- Cuando los prestadores del servicio no presenten sus declaraciones, las presenten incompletas, se detecten alteraciones en la contabilidad tendientes a evadir el exacto cumplimiento de sus obligaciones fiscales, no lleven o no presenten sus libros o registros de contabilidad, no expidan recibos, facturas o cualquier otro documento que señalen las leyes fiscales aplicables;
+
+II.- Se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales; y
+
+III.- Exista discrepancia superior al 5% entre los datos asentados en las declaraciones y los de la contabilidad.
+
+Para realizar la determinación presuntiva a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el prestador del servicio y los datos proporcionados por los beneficiarios del mismo.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159-J.
+
+Se considerarán exentos de esta contribución a los que realicen las siguientes actividades:
+
+I.- La prestación de servicios de hospedaje para estudiantes, cuyo servicio derive de contratos de habitación con una duración no menor de seis meses;
+
+II.- El albergue prestado en hospitales, clínicas, asilos, conventos e internados; y
+
+III.- El que se otorgue a personas damnificadas por catástrofes naturales.
+
+Cuando los inmuebles incorporados al patrimonio de las personas que gozan del beneficio de la exención de esta contribución, modifiquen la naturaleza de la prestación del servicio o pasen por cualquier título a manos de particulares dedicados a la prestación del servicio de hospedaje, deberán dar aviso a la Tesorería Municipal correspondiente en un plazo no mayor de diez días.
 
 ## TITULO QUINTO. PRODUCTOS
 
-### CAPITULO IV. INGRESOS POR ALMACENAJE O GUARDA DE BIENES
+### CAPITULO I. INGRESOS OBTENIDOS POR LA ENAJENAClON DE BIENES MUEBLES E INMUEBLES PERTENECIENTES A LOS MUNICIPIOS
 
 ###### ARTICULO 160.
 
@@ -2975,7 +3579,7 @@ El pago de los créditos provenientes de la enajenación de bienes que formen pa
 
 En ningún caso podrán enajenarse bienes de uso común o destinados al servicio de los municipios, mientras tengan ese carácter o destino.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. INGRESOS POR CONCEPTO DE RENTAS DE BIENES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 168.
 
@@ -3001,39 +3605,39 @@ II.- Puestos en la vía pública, por cada metro cuadrado de superficie ocupada 
 
 III.- Puestos instalados transitoriamente en la vía o en otros lugares públicos propiedad del municipio, en los días de plaza o durante celebraciones de ferias, diariamente por cada metro cuadrado o fracción de superficie ocupada, de 0.05 a 0.125 salarios mínimos.
 
-### CAPITULO UNICO. PARTICIPACIONES
+> <small>(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO III. INTERESES POR CAPITALES IMPUESTOS
 
 ###### ARTICULO 171.
 
-Las imposiciones de capitales que formen parte de la Hacienda de los Municipios del Estado, se sujetarán a las bases generales que acuerden los Ayuntamientos, con la aprobación de la Legislatura o la Diputación Permanente, en su caso, y se regirán por los contratos y demás actos jurídicos de que se derive.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 172.
 
-El pago de los créditos derivados de imposición de capitales pertenecientes a los municipios, deberá hacerse en la Tesorería Municipal respectiva, en la forma y términos que se estipulen en los contratos o actos jurídicos correspondientes, tanto por lo que se refiere al capital, como a sus intereses.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 173.
 
-Los intereses que se estipulen por la imposición de capitales, en ningún caso deberán ser inferiores al interés legal.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 174.
 
-Cada semestre, en los meses de enero y julio de cada año, el Tesorero Municipal deberá informar al Ayuntamiento respecto al estado de las cuentas relativas a la imposición de capitales pertenecientes al Municipio, indicando cuales son las que tienen adeudo y respecto a éstas:
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
 
-I.- El importe del adeudo por concepto de intereses y de capital;
+I.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1986)
 
-II.- El origen del crédito y las fechas del vencimiento de la obligación de pagar el capital y los intereses;
+II.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1986)
 
-III.- Cuáles son los intereses que se causen si están totalmente cubiertos o si se adeudan, y cuál es el importe del adeudo y el tiempo a que corresponda;
+III.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1986)
 
-IV.- Los nombres y los domicilios de los deudores; y
-
-V.- Cuáles son los bienes de garantía que aseguran el pago, y, si se trata de inmuebles, la ubicación de los mismos.
-
-En vista de estos informes el Ayuntamiento acordará lo procedente respecto al cobro de los mismos.
+IV.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 175.
 
-Cuando así se estipule en los contratos respectivos y en los casos en que los deudores no cumplan con sus obligaciones de pago, tanto de capital como de intereses, en las fechas o dentro de los plazos estipulados en dichos contratos, el cobro lo harán los Ayuntamientos mediante el ejercicio de la facultad económico-coactiva.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+
+### CAPITULO IV. INGRESOS POR ALMACENAJE O GUARDA DE BIENES
 
 ###### ARTICULO 176.
 
@@ -3043,31 +3647,31 @@ T A R I F A
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-I.- Por una superficie de un metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.015 a N$ 0.10
+I.- Por una superficie de un metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: .00067 A .00444 salarios mínimos
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- Por una superficie de dos metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.03 a N$ 0.20
+II.- Por una superficie de dos metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: .04444 a .00888 salarios mínimos
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-III.- Por una superficie de tres metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.12 a N$ 0.40
+III.- Por una superficie de tres metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: .00533 a .01777 salarios mínimos
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por una superficie de cuatro metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros por día de: N$ 0.12 a N$ 0.60
+IV.- Por una superficie de cuatro metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros por día de: 00533 a .02666 salarios mínimos
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-V.- Por una superficie de cinco metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: N$ 0.24 a N$ 0.80
+V.- Por una superficie de cinco metros cuadrados o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día de: .01066 a .03555 salarios mínimos
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VI.- Las cuotas a que se refieren las fracciones anteriores, se aumentan por cada metro cuadrado de superficie excedente en la cantidad de: N$ 0.24 a N$ 0.80
+VI.- Las cuotas a que se refieren las fracciones anteriores, se aumentan por cada metro cuadrado de superficie excedente en la cantidad de: .01066 a .03555 salarios mínimos
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VII.- Los semovientes depositados en predios propiedades de los Municipios, diariamente por cabeza de: N$ 0.50 a N$ 2.00
+VII.- Los semovientes depositados en predios propiedades de los Municipios, diariamente por cabeza de: .02222 a .08888 salarios mínimos
 
 ###### ARTICULO 177.
 
@@ -3078,6 +3682,8 @@ Las cuotas que se señalan por el almacenaje o guarda de bienes, en los casos a 
 No se permitirá la extracción de los bienes depositados por parte de quien tenga derecho a hacerlo, mientras no se cubra íntegramente el adeudo por el concepto a que se refiere este capítulo.
 
 ## TITULO SEXTO. APROVECHAMIENTOS
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 179.
 
@@ -3122,6 +3728,204 @@ El Ayuntamiento de la Cabecera de cada Distrito Judicial deberá llevar cuenta a
 ###### ARTICULO 184.
 
 Los municipios del Estado participarán del rendimiento de los ingresos federales y estatales que les concedan las leyes fiscales respectivas y de los convenios que celebren sobre el particular. Las participaciones se recaudarán en la forma que dispongan las leyes de la materia y los convenios.
+
+## TÍTULO OCTAVO
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO UNICO. PARTICIPACIONES
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPÍTULO I. DELITOS FISCALES
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTÍCULO 185.
+
+Los delitos fiscales sólo pueden ser de comisión intencional.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTÍCULO 186.
+
+Para proceder penalmente por los delitos fiscales previstos en este Título, será necesario que previamente el Tesorero Municipal.
+
+I.-Formule querella, y
+
+II.-Declare que el fisco municipal ha sufrido o pudo sufrir perjuicios en los mismos casos.
+
+Los procesos por los delitos fiscales a que se refieren las fracciones anteriores de este artículo se sobreseerán a peticion del Ayuntamiento, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos creditos fiscales queden garantizados a satisfaccion del propio Ayuntamiento. La peticion anterior se hará discrecionalmente, antes de que el ministerio público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTÍCULO 187.
+
+En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con apoyo en las leyes fiscales, harán efectivos los impuestos evadidos y las sanciones corerespondientes.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTÍCULO 188.
+
+Si el delito lo cometen o participan en él auditores, técnicos fiscales, peritos contadores, economistas, abogados o cualquier otro profesionista relacionado con la materia tributaria, además de las penas que les corresponda conforme a esta Ley, se les impodrá la de suspensión hasta de un año o privación definitiva a juicio del juez, para ejercer su profesión en asuntos de carácter fiscal.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTÍCULO 189.
+
+Si un funcionario o empleado público municipal comete o en cualquier forma participa en la comisión de un delito fiscal la pena aplicable por el delito que resulte se aumentará de tres meses a tres años de prisión.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTÍCULO 190.
+
+En todo lo no previsto en el presnte Título serán aplicables las reglas consignadas en el Código Penal y en el de Procedimientos Penales para el Estado.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO II. De la falsificación
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 191.
+
+Comete el delito de falsificación en materia fiscal:
+
+I.- El que falsifique o en cualquier forma altere un documento que sea comprobante de pago de algún impuesto, derecho, contribución por mejoras, producto y aprovechamientos;
+
+II.- El que falsifique o en cualquier otra forma altere un documento relativo a una exención, cancelación o reducción de impuestos, derechos, contribuciones especiales, productos y aprovechamientos, y
+
+III.- El que falsifique las firmas, los sellos o marcas oficiales que deban llevar alguno de los documentos a que se refieren las fracciones anteriores.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 192.
+
+A los responsables de los delitos a que se refiere el artículo anterior, se les impondrá de seis meses a tres años de prisión. Esa pena se aplicará siempre que se cause un daño al fisco o a un particular, ya sea en provecho del falsificador o de un tercero. Si no llegase a causarse daño, la sanción será de tres meses a un año de prisión. Si se tratase de notarios u otros funcionarios encargados de llevar la fe pública, se les inhabilitara para ejercer el cargo.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO III. DEL USO DE SELLOS Y DOCUMENTOS FALSOS Y POSESIÓN INDEBIDA DE SELLOS FISCALES
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 193.
+
+Al que con conocimiento de que un documento fiscal es falso, lo utilice o guarde en su poder, se le impondrá la pena de tres meses a un año de prisión, independientemente de las sanciones que correspondan si sus actos constituyen otro delito.
+
+La misma pena se impondrá a quienes usen un sello fiscal falso o auténtico, requiriéndose en este último caso que el empleo se haga indebidamente.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO IV. DE LA VIOLACIÓN DE ROMPIMIENTO DE SELLOS O MARCAS FISCALES
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 194.
+
+Comete el delito de rompimiento de sellos en materia fiscal quien sin autorización, altere o destruya los medidores, sellos o marcas oficiales colocadas con finalidad fiscal, o impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
+
+Al que cometa este delito se le impondrá la pena de dos a seis años de prisión.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO V. DE LA ELABORACIÓN Y COMERCIO CLANDESTINO DE PRODUCTOS
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 195.
+
+Comete delito de comercio clandestino el que por más de seis meses se dedique al ejercicio del comercio sin dar aviso a la autoridad fiscal, no obtenga la licencia o permiso de funcionamiento.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 196.
+
+Comete delito de elaboración clandestina el que sin haber obtenido permiso de la autoridad fiscal municipal, fabrica o realiza productos para su comercialización.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 197.
+
+Comete también el delito de comercio clandestino las personas dedicadas habitualmente al comercio, que después de haber dado aviso de traspaso o de cambio de nombre o razón social, realicen operaciones mercantiles gravadas por una contribución, sin contar con nueva autorización e inscripción ante la autoridad fiscal municipal.
+
+A los responsables de este delito, se les impondrá la pena de tres meses a tres años de prisión.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VI. DE LAS VISITAS DOMICILIARIAS SIN MANDAMIENTO ESCRITO
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 198.
+
+Se impondrá prisión de tres meses a tres años a los funcionarios o empleados públicos municipales que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VII. DE LA DEFRAUDACIÓN
+
+> <small>(ADICIONADO, G.O. 24 DE DICEMBRE DE 1996)</small>
+
+###### ARTICULO 199.
+
+Comete el delito de defraudación:
+
+I.- El que simule un acto jurídico del que resulte o pueda resultar la omisión total o parcial del pago de una contribución: prisión de tres meses a dos años, si el monto de lo defraudado o que se intento defraudar asciende hasta un importe de $20,000.00: y prisión de dos a cinco años si excede de $20,000.00;
+
+II.- El que oculte a las autoridades fiscales total o parcialmente la producción sujeta a impuestos o el monto de los ingresos gravables: prisión de tres meses a dos años, si el monto de lo defraudado o que se intentó defraudar asciende hasta un importe de $20,000.00 y prisión de uno a cinco años, si excede de $20,000.00;
+
+III.- El que declare ante las autoridades fiscales ingresos menores que los realmente obtenidos; prisión de tres meses a dos años, si el monto de lo defraudado o que se intentó defraudar asciende hasta un importe de $20,000.00 y prisión de uno a cinco años, si excede de $20,000.00;
+
+IV.- El que en los avisos, manifestaciones y declaraciones, escritos o en cualquier otra forma, proporcione a las autoridades fiscales municipales datos falsos, de los que resulte o pueda resultar la omisión total o parcial, del pago de una contribución; prisión de tres meses a dos años, si el monto de lo defraudado o que se intentó defraudar asciende hasta un importe de $20,000.00 y prisión de uno a cinco años, si excede de $20,000.00;
+
+V.- El que omita la expedición de facturas, notas de remisión u otros documentos, cuando sea obligatorio expedirlos conforme a esta Ley u otras disposiciones fiscales, si de la falta de expedición de dichos documentos resulta o puede resultar la omisión parcial o total del pago de una contribución; prisión de tres meses a dos años, si el monto de lo defraudado o que se intentó defraudar asciende hasta un importe de $20,000.00 y prisión de uno a cinco años, si excede de $20,000.00;
+
+VI.- El que proporcione a las autoridades fiscales falsamente los datos necesarios para determinar una contribución; prisión de tres meses a dos años, si el monto de lo defraudado o que se intentó defraudar asciende hasta un importe de $20,000.00 y prisión de uno a cinco años, si excede de $20,000.00;
+
+VII.- El que lleve dos o más juegos de libros de contabilidad en los que, por sí o por conducto de otro, haga asientos distintos respecto a las mismas operaciones y de ello resulte la evasión total o parcial de pago de una contribución; prisión de tres meses a dos años, si el monto de lo defraudado o que se intentó defraudar asciende hasta un importe de $20,000.00 y prisión de uno a cinco años, si excede de $20,000.00;
+
+VIII.- El que substituya o cambie las páginas foliadas de sus libros sociales o de contabilidad, autorizados oficialmente, utilizando las pastas o la hoja en que conste la autorización; prisión de tres días a tres años, independientemente de las sanciones que le correspondan, si sus actos y omisiones constituyen delito diferente al previsto en este Título;
+
+IX.- El que destruya o semidestruya los libros sociales o los de contabilidad, dejándolos total o parcialmente ilegibles; prisión de tres días a tres años, independientemente de las sanciones que le correspondan, si sus actos u omisiones constituyen delito diferente al previsto en este Título;
+
+X.- El que haciendo uso de engaños o aprovechándose de un error, omita total o parcialmente el pago de una contribución, u obtenga un beneficio indebido en perjuicio del fisco municipal, prisión de tres días a tres años, independientemente de las sanciones que le correspondan, si sus actos u omisiones constituyen delito diferente al previsto en este Título, y
+
+XI.- Al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco municipal, disponga para sí o para otro del bien depositado, en este Título.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 200.
+
+Se impondrá de tres a doce años de prisión a quien:
+
+I.- Grave o manufacture sin autorización de la autoridad fiscal municipal, matrices, punzones, datos, clichés o negativos, semejantes a los que el propio Ayuntamiento usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales, u objetos que se utilicen oficialmente como medios de control fiscal.
+
+II.- Imprima, grave o troquele, sin autorización de la autoridad fiscal municipal placas, tarjetones o comprobantes de pago de prestaciones fiscales, u objetos que se utilicen oficialmente como medios de control fiscal;
+
+III.- Altere en sus características las placas, tarjetones, medidores o comprobantes de pago de prestaciones fiscales, o los objetos que se utilizan oficialmente como medios de control fiscal; y
+
+IV.- Forme las cosas u objetos señalados en la fracción anterior con los fragmentos de otros recortados o mutilados.
+
+Esta sanción se aplicara aun cuando el falsario no se haya propuesto obtener algún provecho.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 201.
+
+Comete el delito de uso de placas, tarjetones o medios de control fiscal falsificados:
+
+I.- El particular o empleado público que a sabiendas de que fueron impresos o gravados sin autorización de la autoridad fiscal municipal, los posea, venda, ponga en circulación o en su caso, los utilice para ostentar el pago de alguna prestación fiscal;
+
+II.- El particular o empleado público que los posea, venda, ponga en circulación o los utilice para obtener el pago de alguna prestación fiscal, estando alteradas sus características, a sabiendas de esas circunstancias, y
+
+III.- Quien venda, ponga en circulación o en alguna otra forma comercie dichos objetos si son manufacturados con fragmentos o recortes de otros.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 202.
+
+El delito que antecede será sancionado con prisión de seis meses a tres años. Al empleado oficial que en cualquier forma participe en el delito citado, se le impondrá de uno a cinco años de prisión.
 
 T R A N S I T O R I O S :
 
@@ -3236,3 +4040,25 @@ Esta Ley entrará en vigor el día 1° de enero de 1996, previa su publicación 
 ###### ARTICULO SEGUNDO.
 
 Para efectos de la disposición del Banco de México publicado en el Diario Oficial de la Federación el 6 de enero de 1994 todas las sumas en moneda nacional que en las disposiciones fiscales del Estado se encuentren expresadas en "Nuevos Pesos" y su abreviatura "N$", a partir del 1° de enero de 1996 deberán entenderse como "Pesos" y su símbolo "$".
+
+G.O. 24 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1° de enero de 1997, previa su publicación en la 'Gaceta Oficial', Organo del Gobierno del Estado de Veracruz-Llave.
+
+###### ARTICULO SEGUNDO.
+
+Las personas obligadas al pago de los derechos previstos en el Capítulo XIX de la Ley de Hacienda Municipal, deberán solicitar la licencia, permiso o autorización a la Autoridad Fiscal Municipal correspondientes en un término no mayor de 30 días naturalez contados a partir de la vigencia de la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Las personas que cuentesn con licencia, permiso o autorización al entrar en vigor la presente Ley, únicamente pagarán la revalidación o el refrendo correspondiente.
+
+###### ARTICULO CUARTO.
+
+Las personas que tengan colocados anuncios, carteles o publicidad a que se refiere la presente Ley, deberán incribirse en la Tesorería Municipal del lugar donde se encuentre instyalado o colocado el anuncioen untérmino no mayor de 30 días contados a partir de que entre en vigor esta Ley.
+
+###### ARTICULO QUINTO.
+
+Las personas que presten servicios de hospedaje a que se refiere el Capítulo Segundo del Título Cuarto del presente ordenamiento legal, deberán inscribirse en la Tesorería Municipal de su jurisdicción en un término no mayor de 30 días contados a partir de la fecha en que entre en vigor esta Ley.
