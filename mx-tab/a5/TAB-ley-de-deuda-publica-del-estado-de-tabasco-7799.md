@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-deuda-publica-del-estado-de-tabasco-7799"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-27"
-last_updated: "1994-04-27"
+last_updated: "1998-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 27 de abril de 1994.
 
@@ -87,17 +87,21 @@ I.- La suscripción o emisión de títulos de crédito o de cualquier otro docum
 
 II.- La contratación de financiamientos a través de mecanismos como los arrendamientos financieros cuya amortización se realiza en plazos.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 7.
 
-El Ejecutivo del Estado, a través de la Secretaría de Finanzas esta facultado para aplicar e interpretar la presente ley.
+El Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, esta facultado para aplicar e interpretar la presente Ley.
 
 ### CAPITULO SEGUNDO
 
 DE LAS FACULTADES Y OBLIGACIONES DE LOS ORGANOS EN MATERIA DE DEUDA PUBLICA.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 8.
 
-Son Organos en materia de Deuda Pública dentro de sus respectivas competencias: el H. Congreso del Estado, el Ejecutivo del Estado, la Secretaría de Finanzas, los H. Ayuntamientos y el Comité Técnico de Financiamiento a que se refiere esta Ley.
+Son órganos en materia de deuda pública, dentro de sus respectivas competencias: el Congreso del Estado, el Ejecutivo del Estado, la Secretaría de Planeación y Finanzas, los Ayuntamientos o Concejos Municipales y el Comité Técnico de Financiamiento, a que se refiere esta Ley.
 
 ###### ARTICULO 9.
 
@@ -119,11 +123,15 @@ Al Ejecutivo del Estado compete:
 
 I.- Presentar al H. Congreso del Estado las iniciativas de Ley de Ingresos y el Presupuesto General de Egresos de la Administración Pública del Estado.
 
-II.- Informar anualmente al H. Congreso del Estado la situación que guarda la deuda pública en el Estado.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+II.- Informar trimestralmente en la cuenta pública enviada a la Contaduría Mayor de Hacienda del Estado, la situación que guarda la deuda pública del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
 
-Corresponde al Ejecutivo del Estado, en materia de deuda pública, por conducto de la Secretaría de Finanzas:
+Corresponde al Ejecutivo del Estado, en materia de deuda pública, por conducto de la Secretaria de Planeación y Finanzas:
 
 I.- Celebrar, previa autorización del H. Congreso cuando así se requiera, los Contratos y Convenios para la Obtención de empréstitos, créditos y además operaciones financieras de deuda pública, suscribiendo los Documentos y Títulos de Crédito requeridos para tales efectos.
 
@@ -157,23 +165,29 @@ XIV.- Llevar el registro de las obligaciones financieras de las Entidades Estata
 
 La Comisión Gasto Financiamiento hará las veces de un Comité Técnico de Financiamiento que será Organo Auxiliar de Consulta del Ejecutivo del Estado, en materia de deuda pública y estará constituido por los siguientes Miembros Permanentes:
 
-I.- Secretario de Finanzas.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
-II.- Secretario de Gobierno.
+I.- Secretario de Planeación y Finanzas;
 
-III.- Oficial Mayor de Gobierno.
+II.- (DEROGADA, P.O. 8 DE AGOSTO DE 1998);
 
-IV.- Contralos (sic) General de Gobierno.
+III.- (DEROGADA P.O. 8 DE AGOSTO DE 1998);
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+IV.- Secretario de Contraloría y Desarrollo Administrativo;
 
 V.- Coordinador General del Comité de Planeación para el Desarrollo del Estado de Tabasco.
 
-VI.- Secretario Técnico de Gobierno.
+VI.- (DEROGADA, P.O. 8 DE AGOSTO DE 1998)
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 14.
 
-Las actividades del Comité Técnico de Financiamiento serán coordinadas por un Presidente y un Secretario, cuya titularidad corresponderá a los Secretarios de Finanzas y Técnico de Gobierno respectivamente. Los asistentes a las reuniones del Comité Técnico de Financiamiento acudirán con voz y voto y en caso de empate, el Presidente tendrá voto de calidad.
+Las actividades del Comité Técnico de Financiamiento, serán coordinadas por un Presidente y un Secretario, cuya titularidad corresponderá a los Secretarios de Planeación y Finanzas y de Contraloría y Desarrollo Administrativo, respectivamente. Los integrantes de dicho Comité Técnico, asistirán a las reuniones con voz y voto; los acuerdos se tomarán por mayoría y en caso de empate el Presidente tendrá voto de calidad.
 
-Para el desarrollo de las actividades del Comité, y cuando se trate de asuntos de su competencia, el Presidente convocará a los representantes de los Municipios, Organismos Descentralizados, Empresas de Participación Estatal y Municipal Mayoritaria y sus Fideicomisos.
+Para el desarrollo de las actividades del Comité, el Presidente convocará al representante de los municipios, organismos descentralizados, empresas de participación estatal y municipal mayoritarias y sus fideicomisos, quienes asistirán a las reuniones con voz pero sin voto.
 
 ###### ARTICULO 15.
 
@@ -215,9 +229,11 @@ II.- Apoyar al Presidente del Comité, en el cumplimiento de los acuerdos que em
 
 DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 18.
 
-El Ejecutivo Estatal concertará y formalizará los empréstitos o créditos y todas las operaciones financieras que constituyan la Deuda Pública del Estado, por conducto de la Secretaría de Finanzas.
+El Ejecutivo Estatal, concertará y formalizará los empréstitos o créditos y todas las operaciones financieras que constituyan la deuda pública del Estado, por conducto de la Secretaría de Planeación y Finanzas.
 
 ###### ARTICULO 19.
 
@@ -247,11 +263,17 @@ DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO.
 
 Las Entidades estatales a que se refiere esta Ley tendrán las siguientes obligaciones:
 
-I.- Llevar registro de los empréstitos y créditos que contraten, conforme lo disponga la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
-II.- Comunicar bimestralmente a la Secretaría de Finanzas los datos de todos los empréstitos y créditos contratados, así como los movimientos realizados.
+I.- Llevar registros de los empréstitos y créditos que contraten, conforme lo disponga la Secretaria de Planeación y Finanzas;
 
-III.- Proporcionar a la Secretaría de Finanzas y al Comité Técnico de Financiamiento toda la información necesaria para llevar a cabo la vigilancia a que se refiere la fracción XI del Artículo 12 de esta Ley.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+II.- Comunicar bimestralmente a la Secretaría de Planeación y Finanzas, los datos de todos los empréstitos y créditos contratados, así como los movimientos realizados; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+III.- Proporcionar a la Secretaría de Planeación y Finanzas y al Comité Técnico de Financiamiento toda la información necesaria para llevar a cabo la vigilancia a que se refiere la fracción XI del artículo 12 de esta Ley.
 
 ###### ARTICULO 25.
 
@@ -290,3 +312,11 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 1998.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+Artículo Segundo.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
