@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1983-12-30"
+last_updated: "1986-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -70,9 +70,9 @@ Adicionalmente, las entidades participarán en recargos sobre impuestos federale
 
 En los productos de la Federación relacionados con bienes o bosques, que las leyes definan como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de explotación de tales terrenos o de bosques nacionales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-No se incluirán entre los ingresos totales anuales que obtenga la Federación, para los efectos de este artículo, los impuestos adicionales de 3% sobre el impuesto general de importación, del 3% sobre el impuesto general de exportación de petróleo crudo y gas natural y sus derivados que llegare a cobrarse, el 2% en las demás exportaciones y el impuesto del 2.5% sobre el valor base del impuesto general de importación, así como el derecho adicional del 5% sobre el de hidrocarburos que se exporten. A dichas contribuciones, excepto al impuesto del 2.5% sobre el valor base del impuesto general de importación, se les dará la aplicación a que se refiere el artículo 2o.-A de esta Ley.
+No se incluirán entre los ingresos totales anuales que obtenga la Federación, para los efectos de este artículo, los impuestos adicionales del 3% sobre el impuesto general de exportación de petróleo crudo y gas natural y sus derivados que llegaren a cobrarse, 2% en las demás exportaciones y el impuesto del 5% sobre el valor base del impuesto general de importación, así como el derecho adicional del 5% sobre el de los hidrocarburos que se exporten. A dichas contribuciones, se les dará la aplicación a que se refiere el artículo 2o.-A de esta Ley, excepto al impuesto del 5% sobre el valor base del impuesto general de importación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -80,43 +80,29 @@ No se incluirán entre los ingresos totales anuales que obtenga la Federación, 
 
 En el rendimiento de las contribuciones que a continuación se señalan, participarán los Municipios, en la forma siguiente:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-I.- 95% de los impuestos adicionales del 3% sobre el impuesto general de importación y 2% sobre el impuesto general de exportación, a aquellos donde se encuentren ubicadas las aduanas fronterizas o marítimas por las que se efectúe la importación o exportación que los causen.
+I.- 95% del 2.8% de los impuestos general de importación y 2% adicional sobre el impuesto general de exportación, a aquellos municipios colindantes con la frontera o los litorales por los que se realice materialmente la entrada al país o la salida de él de los bienes que se importen o exporten.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- 95% a todos los Municipios del país del derecho adicional sobre hidrocarburos y, en su caso, del impuesto adicional del 3% sobre el impuesto general en exportaciones de petróleo crudo y gas natural y sus derivados, en la siguiente forma:
+II.- 3.17% del derecho adicional sobre hidrocarburos que se exporten, excluyendo el derecho extraordinario sobre los mismos y, en su caso, del impuesto adicional del 3% sobre el impuesto general en exportaciones de petróleo crudo, gas natural y sus derivados a los municipios colindantes con la frontera o litorales, por los que se realice materialmente la salida del país de dichos productos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-a).- La tercera parte del monto de la participación a que se refiere el párrafo anterior corresponderá:
+III.- 0.42% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre hidrocarburos, con exclusión del derecho extraordinario sobre los mismos, en la siguiente forma:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+1.- El 30% se destinará a formar un Fondo de Fomento Municipal.
 
-1.- El 10% a los Municipios donde se encuentran ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-2.- El 90% se destinará a formar un Fondo de Fomento Municipal.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-b).- Las otras dos terceras partes incrementarán dicho Fondo de Fomento Municipal y sólo corresponderá a los estados que se coordinen en materia de derechos.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-El Fondo de Fomento Municipal se distribuirá entre los Estados de modo que cada uno reciba anualmente hasta una cantidad igual a la que le hubiere correspondido en el año inmediato anterior. El incremento que tenga el Fondo de Fomento Municipal en el año para que se haga el cálculo, en relación con el año precedente, se distribuirá entre los Estados con base en las reglas aplicables al Fondo Financiero Complementario de Participaciones. Si el monto del Fondo de Fomento Municipal fuera inferior al del año inmediato anterior, se distribuirá entre los Estados en las mismas proporciones que les hubieran correspondido en ese año.
+2.- El 70% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a los Estados que se coordinen en materia de derechos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 Los Estados entregarán íntegramente a sus Municipios las cantidades que reciban del Fondo de Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea menor a lo recaudado por los conceptos que se dejan de recibir.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las cantidades que correspondan a los Municipios en los términos de las fracciones I y II inciso a, subinciso 1, se pagarán por la Federación directamente a dichos Municipios.
+Las cantidades que correspondan a los municipios en los términos de las fracciones I y II, se pagarán por la Federación directamente a dichos municipios.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -182,11 +168,11 @@ Los Municipios recibirán como mínimo el 20% de la participación que correspon
 
 Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de los Estados publicarán, cuando menos una vez al año, en el Diario Oficial de la entidad, y en uno de los periódicos de mayor circulación de la misma, las participaciones que correspondan, durante un año, a cada uno de sus Municipios.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 7o.
 
-Las Participaciones que correspondan a las entidades en los fondos establecidos en el artículo 2o., se calcularán por cada ejercicio fiscal de la Federación, la cual, en forma provisional, afectará mensualmente a dichos fondos los mismos por cientos señalados en el citado artículo calculados sobre la recaudación total de la Federación en el mes de calendario anterior.
+Las participaciones que correspondan a las entidades en los fondos establecidos en los artículos 2o. y 2o.-A fracción III, se calcularán por cada ejercicio fiscal de la Federación, la cual, en forma provisional, afectará mensualmente a dichos fondos los mismos porcientos señalados en los citados artículos calculados sobre la recaudación total de la Federación en el mes de calendario anterior.
 
 Las entidades dentro del mismo mes en que se realice la afectación mencionada en el párrafo que antecede, recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos a cuenta de participaciones.
 
@@ -613,3 +599,39 @@ A partir del ejercicio de 1984, se aplicará en sus términos la fórmula del ar
 ###### ARTICULO CUARTO.
 
 En 1984 los porcentajes a que se refieren los subincisos 1 y 2 del inciso a) de la fracción II del artículo 2o.-A de la Ley de Coordinación Fiscal serán de 30% a los Municipios en donde estén ubicadas las aduanas fronterizas o marítimas por las que se efectúe la exportación y de 70% para el Fondo de Fomento Municipal. A partir de 1985 los porcentajes de distribución serán los que señala dicho artículo.
+
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+DISPOSICION CON VIGENCIA DURANTE EL AÑO DE 1987.
+
+###### ARTICULO SEXTO.
+
+Durante el año de 1987, las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal, obtendrán el 35% del excedente de la meta recaudatoria del impuesto al valor agregado, la cual cada entidad la determinará conforme al siguiente procedimiento:
+
+I.- Dividirá el impuesto al valor agregado que haya recaudado en cada uno de los años de 1983, 1984 y 1985, entre el producto interno bruto del país obtenido en cada uno de dichos años. Para efectos de esta disposición, el impuesto al valor agregado recaudado por cada entidad federativa será sin restar devoluciones en cada uno de los citados años.
+
+II.- El coeficiente que resulte mayor de cualquiera de las tres operaciones realizadas conforme a la fracción anterior, se reducirá en un 10%.
+
+III.- El resultado obtenido se multiplicará por el producto interno bruto del país correspondiente al año de 1985 y esta cantidad se multiplicará por el factor que resulte de dividir el índice nacional de precios al consumidor que dé a conocer el Banco de México correspondiente a diciembre de 1986, entre el índice promedio para el año de 1985.
+
+Para obtener las metas recaudatorias mensuales, se determinará el porcentaje que de la recaudación anual, medida en términos reales, se recaude cada mes. Dichos porcentajes se obtienen tomando como base los años de 1983 a 1985, inclusive.
+
+Para cada año se procede como sigue: se suma la recaudación de los meses descontando los efectos de la inflación acumulada correspondiente a ese año. Ese resultado se prorrateará en cada uno de los meses del año; el resultado obtenido para cada mes se sumará a los mismos meses de cada uno de los años citados y se obtendrá un promedio para cada mes.
+
+Estos doce resultados se multiplicarán por la cantidad que resultó conforme al procedimiento realizado en el primer párrafo de la fracción III. La meta de recaudación mensual así obtenida se multiplicará por el factor que resulte de dividir el índice nacional de precios al consumidor del mes inmediato anterior entre el índice nacional de precios al consumidor de diciembre de 1986.
+
+La meta recaudatoria mensual se acumulará a la de los meses inmediatos anteriores del año y se comparará con la recaudación mensual acumulada de cada uno de esos meses. Si de la comparación resulta que la recaudación es superior a la meta recaudatoria, sobre este excedente se aplicará el 35% el cual corresponderá íntegramente a la entidad.
+
+Si hasta un determinado mes la meta es rebasada, pero en los subsecuentes meses la recaudación resulta menor que la meta, la Secretaría de Hacienda y Crédito Público recuperará el 35% que la entidad percibió, dentro de los 20 días siguientes del mes en que no alcanzó la meta acumulada.
+
+La Secretaría de Hacienda y Crédito Público podrá ejercer en cualquier tiempo la facultad de revisar la autoliquidación del incentivo correspondiente efectuada por la entidad y en su caso cobrar diferencias con intereses.
+
+Toda recaudación del impuesto al valor agregado que rebase la meta establecida de recaudación no se considerará para 1987 para integrar los fondos de participación a que se refiere la Ley de Coordinación Fiscal.
+
+Para los efectos de este artículo, no se tomará en cuenta la recaudación obtenida de contribuyentes que, en el año de 1987, cambien su domicilio fiscal de una entidad federativa a otra. Tampoco se considerará la recaudación obtenida en contra de la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1987.
