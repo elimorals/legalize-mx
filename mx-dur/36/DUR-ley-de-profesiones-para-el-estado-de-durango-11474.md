@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-profesiones-para-el-estado-de-durango-11474"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-04"
-last_updated: "1998-06-14"
+last_updated: "2003-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE PROFESIONES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1998.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO, PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 4 de junio de 1987.
 
@@ -430,3 +432,41 @@ El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
 P.O. 14 DE JUNIO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE AGOSTO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley abroga la Ley de Profesiones del Estado de Durango expedida el 28 de abril de 1987 y publicada en el Periódico Oficial Número 45, de fecha 4 de Junio de 1987, así como a su Reglamento respectivo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Una vez aprobada la presente Ley, la Secretaría de Educación del Estado, propondrá al Ejecutivo Estatal el Reglamento respectivo.
+
+###### ARTÍCULO CUARTO.
+
+Todos aquellos contadores privados que siempre atendieron asuntos propios de la profesión de contador público, desde antes de la Ley expedida el 28 de abril de 1987, podrán seguir ejerciendo sin título correspondiente, previa autorización que otorgará la Dirección. Para el otorgamiento de esta autorización, deberá tomarse en cuenta la capacidad, honestidad y aprobado servicio a la sociedad, contando para ello con el parecer del Colegio de Profesionistas respectivo.
+
+###### ARTÍCULO QUINTO.
+
+Las instituciones educativas registradas antes de la vigencia de esta Ley, deberán de regularizar sus registros en los términos del presente ordenamiento; para este fin, las instituciones educativas tendrán un término de noventa días hábiles, contados a partir del día en que inicie su vigencia, vencido el plazo, la Dirección Estatal de Profesiones aplicará las multas o sanciones correspondientes, según sea el caso.
+
+###### ARTÍCULO SEXTO.
+
+Los Colegios de Profesionistas, en un término de 120 días deberán registrar ante la Dirección Estatal de Profesiones las listas de profesionistas que fungirán como árbitros de cada rama, para los efectos de publicidad y difusión.
+
+###### ARTÍCULO SÉPTIMO.
+
+En caso de conflicto entre los intereses individuales de los profesionistas con los intereses sociales, la presente Ley será interpretada a favor de los segundos si no hubiere precepto expreso para resolver el conflicto. Por lo que se refiere a las profesiones que impliquen el ejercicio de una función pública, se sujetará a esta Ley y a las leyes que regulen su actividad.
+
+###### ARTICULO OCTAVO.
+
+El Reglamento de la presente Ley, deberá de estar publicado a más tardar dentro de los cuatro meses siguientes a su entrada en vigor.
+
+###### ARTÍCULO NOVENO.
+
+Esta Ley entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado.
