@@ -4,7 +4,7 @@ identifier: "COL-ley-de-lo-contencioso-administrativo-del-estado-de-colima-11635
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-28"
-last_updated: "2000-04-08"
+last_updated: "2001-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2001.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de septiembre de 1996.
 
@@ -773,9 +773,11 @@ El Tribunal contará, además, con dos Magistrados Supernumerarios, quienes ejer
 
 El Magistrado Propietario, los Supernumerarios y demás personal del Tribunal, percibirán por sus servicios los emolumentos que les sean asignados en el Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 93.
 
-La designación de los Magistrados del Tribunal de lo Contencioso Administrativo, será hecha por el Ejecutivo y sometida a la aprobación de las dos terceras partes de los diputados presentes en el Congreso, ante el que rendirán la protesta de Ley, siendo aplicable en lo conducente lo dispuesto en los artículos 33, fracción XXIX y 58, fracción XXXVIII, de la Constitución Política del Estado, quedando encomendados los trámites de los respectivos nombramientos a la Secretaría General de Gobierno.
+La designación de los Magistrados del Tribunal de lo Contencioso Administrativo, será hecha por el titular del Poder Ejecutivo y será sometida a la aprobación del Congreso, ante el que rendirán la protesta de ley, siendo aplicable en lo conducente, lo dispuesto en los artículos 33, fracción XIX, y 58, fracción XXXVIII, de la Constitución Política del Estado, quedando encomendado el trámite de los respectivos nombramientos a la Secretaría General de Gobierno.
 
 ###### ARTICULO 94.
 
@@ -992,3 +994,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbr
 P.O. 8 DE ABRIL DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
