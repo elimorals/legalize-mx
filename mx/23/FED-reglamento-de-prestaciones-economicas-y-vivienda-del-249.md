@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-prestaciones-economicas-y-vivienda-del-249"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-06-28"
-last_updated: "1988-06-28"
+last_updated: "1994-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-06-14"
 
 REGLAMENTO DE PRESTACIONES ECONOMICAS Y VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 1994.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el martes 28 de junio de 1988.
 
@@ -617,31 +617,11 @@ Anualmente deberá presentarse a la Junta Directiva un informe sobre el monto y 
 
 ###### ARTICULO 58.
 
-Los créditos hipotecarios para vivienda se clasifican como sigue:
-
-I.- Unitarios, que se otorgarán, previo acuerdo de la Comisión Ejecutiva, mediante un contrato de mutuo con interés y garantía hipotecaria, cuando de conformidad con su destino y monto se apliquen para:
-
-A).- Adquisición de vivienda propiedad de terceros;
-
-B).- Construcción de vivienda en terreno propio, cuando el trabajador realice una obra nueva de acuerdo a su proyecto con características de casa habitación unifamiliar;
-
-C).- Reparación, ampliación o mejoras de vivienda propiedad del trabajador, previa comprobación de que el inmueble se encuentra libre de todo gravamen; y
-
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
-D).- Redención de pasivo, cuando sobre la vivienda objeto del crédito recaiga un gravamen inscrito en el Registro Público de la Propiedad correspondiente;
-
-II.- Para vivienda financiada, que se destinará a la adquisición de vivienda construida o adquirida con recursos del Fondo, mediante garantía hipotecaria en primer lugar o con reserva de dominio.
-
-El monto de este crédito se determinará con base en los costos que la vivienda represente para el Fondo; y
-
-III.- Para cofinanciamiento, que se destinará al pago del enganche, los gastos de escrituración y, en su caso, a la constitución de un fideicomiso de apoyo cuando tenga por objeto la adquisición de viviendas de interés social.
-
-Los créditos a que se refiere este artículo, en ningún caso podrán destinarse para casas de productos, considerándose como tales todas aquellas que tengan áreas susceptibles de rentarse para vivienda o local comercial.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 59.
 
-Los contratos de mutuo con interés y garantía hipotecaria que celebre el Instituto con recursos del Fondo deberán consignarse en escritura pública.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 #### SECCION SEGUNDA
 
@@ -649,15 +629,7 @@ De los Sujetos de Crédito.
 
 ###### ARTICULO 60.
 
-Para los efectos de este Capítulo se consideran como sujetos de crédito:
-
-I.- Los trabajadores que tengan un fondo constituído a su favor por más de 18 meses;
-
-II.- Los pensionistas cuando hayan optado por su incorporación al régimen de aportación voluntaria; y
-
-III.- Aquellos que habiendo sido trabajadores y tengan un fondo constituído a su favor por más de 18 meses, si al separase definitivamente del servicio público solicitan por escrito su incorporación al régimen de aportación voluntaria dentro de los 6 meses siguientes a la fecha en que hayan causado baja.
-
-Quienes sean propietarios de vivienda sólo se considerarán como sujetos de crédito para los casos de redención de pasivo, ampliación y reparación o mejoras.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 #### SECCION TERCERA
 
@@ -665,41 +637,23 @@ Del Otorgamiento de los Créditos.
 
 ###### ARTICULO 61.
 
-El crédito para vivienda se otorgará por una sola vez y para un solo fin a cada trabajador o pensionista que sea aportante voluntario, en los términos de los artículos 58 y 67 último párrafo del presente Reglamento.
-
-Al efecto, se considerarán como una mancomunidad al trabajador o pensionista y su cónyuge; en su caso, a la concubina o concubinario, por lo que sólo se otorgará un crédito.
-
-Los trabajadores y pensionistas beneficiados con crédito para vivienda deberán pagar los impuestos y derechos relacionados con el inmueble, de conformidad con lo que establezcan las leyes de la materia.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 62.
 
-El crédito para vivienda financiada por el Fondo causará el interés sobre saldos insolutos que se establezca con base en el artículo 117 de la Ley.
-
-El interés que se causará por la cantidad excedente que se otorgue, cuando el valor de la vivienda sea superior al equivalente del monto máximo que corresponda al crédito hipotecario, será el que fije la Junta Directiva a propuesta de la Comisión Ejecutiva, conforme al mencionado artículo.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 63.
 
-En caso de incapacidad total permanente o muerte del acreditado, se liberará a éste o a sus beneficiarios de la obligación de cubrir el saldo que a partir de a fecha del suceso esté pendiente de pago, pero si hubiere adeudos vencidos será necesario que queden previamente cubiertos para que opere el seguro a cargo del Instituto.
-
-Para los efectos del seguro a que se refiere el artículo 111 de la Ley en cuanto a la incapacidad total permanente, cuando un acreditado no cotice al Instituto para la prestación de servicios médicos y otra institución pública de seguridad social le expida el dictamen médico respectivo, dicho dictamen deberá ser validado por el propio Instituto a través del área correspondiente con el fin de que el Fondo determine su aplicación.
-
-En los casos de créditos mancomunados, cuando uno de los acreditados fallezca o sufra una incapacidad total permanente, se aplicará en su parte conducente el mencionado artículo 111.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 64.
 
-Los plazos para amortizar los créditos serán los siguientes:
-
-I.- Para adquisición y construcción de vivienda, así como los de cofinanciamiento no podrán exceder de veinte años;
-
-II.- Para reparación, ampliación o mejoras y redención de pasivos, podrán fijarse plazos menores de diez años; y
-
-III.- Para vivienda financiada, de acuerdo a las condiciones particulares de cada acreditado, podrá concederse hasta un plazo máximo de veinte años.
-
-La amortización de dichos créditos en ningún caso podrá ser menor del 25% del sueldo básico del trabajador a que se refiere el artículo 117 de la Ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 65.
 
-El Instituto, a través del Fondo, sólo girará instrucciones para la cancelación de la garantía sobre los inmuebles, cuando los créditos otorgados hayan sido cubiertos en su totalidad, incluidos los intereses y accesorios, ya sea dentro del término del plazo concedido, por liquidación anticipada o por dictamen jurídico del propio Fondo que declare procedente la aplicación del seguro a que se refiere el artículo 111 de la Ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 #### SECCION CUARTA
 
@@ -707,63 +661,37 @@ De las Modalidades en el Otorgamiento de los Créditos.
 
 ###### ARTICULO 66.
 
-El Instituto, al otorgar un crédito de vivienda financiada o unitario, podrá contratar un seguro sobre el inmueble a favor del Fondo, que ampare los daños y perjuicios que pudieran derivarse en caso fortuito o de fuerza mayor, el cual deberá mantenerse vigente mientras exista saldo a su favor.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 67.
 
-Las Afiliadas deberán descontar del sueldo o salario de los trabajadores los abonos a los créditos, si el descuento no se realiza en un plazo de 45 días contados a partir de al fecha del otorgamiento del crédito o de la entrega de la vivienda, o se suspende en cualquier momento, el acreditado deberá dar aviso al Fondo y pagar directamente sus abonos por caja o a través de los mecanismos que, en su caso, autorice el propio Fondo.
-
-Los acreditados podrán en cualquier momento hacer pagos anticipados sobre la totalidad o parte del saldo insoluto del crédito. El Fondo formulará la liquidación correspondiente deduciendo los intereses no devengados y una vez que el trabajador liquide su crédito, podrá solicitar la cancelación del gravamen respectivo.
-
-En los casos de vivienda financiada, cuando aún no se tenga el valor de la misma, se aplicará el descuento de acuerdo a los lineamientos que determine el Instituto a través del Fondo, haciendo el ajuste correspondiente en el momento de fijar el valor de la vivienda.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 68.
 
-En los casos de vivienda financiada aún no escriturada, cuando los trabajadores deseen efectuar permutas, el Instituto les requerirá solicitud por escrito, en la que manifiesten las razones que tengan para ello y quedará a criterio del propio Instituto decidir, en su caso, su autorización la cual se hará del conocimiento del interesado.
-
-El Instituto no reconocerá las permutas que se realicen en contravención a lo dispuesto en este artículo y, por consiguiente, los trabajadores perderán los derechos que se deriven de los contratos respectivos en los términos del artículo 110 de la Ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 69.
 
-Cuando un trabajador cambie de adscripción en cumplimiento a una orden administrativa o por alguna otra razón justificada y tenga un crédito para vivienda financiada aún no escriturada, podrá solicitar otro en el lugar de su nueva adscripción, el cual se le podrá conceder a juicio del Fondo, siempre que para ello haya disponibilidad de créditos o viviendas y que renuncie al que originalmente tenía asignado. Para tramitar la renuncia será necesario:
-
-I.- Estar al corriente en el pago de las amortizaciones devengadas;
-
-II.- Liberar de cualquier otro gravamen o adeudo que reporte el inmueble;
-
-III.- Solicitar por escrito la petición de renuncia; los pagos realizados serán considerados como pago de renta; y
-
-IV.- Manifestar por escrito la aceptación de la rescisión del certificado de adjudicación correspondiente.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 70.
 
-En los casos de vivienda financiada, el trabajador o pensionista podrá designar por escrito ante el Fondo en el acto de otorgamiento de crédito, o con posterioridad, a sus beneficiarios para el caso de que fallezca, con el fin de que, en su caso, la escrituración se haga en favor de ellos.
-
-A falta de beneficiarios, en caso de que la vivienda no se encuentre escriturada, el Fondo la adjudicará conforme al orden de prelación que establece el artículo 112 de la Ley.
-
-En caso de controversia, el Fondo procederá exclusivamente a la liberación del crédito y se abstendrá de adjudicar el inmueble.
-
-Cuando se trate de vivienda financiada ya escriturada, las designaciones de beneficiarios carecerán de objeto y por consiguiente dejarán de surtir efectos.
-
-En los demás casos de créditos hipotecarios, en virtud de su escrituración, no surtirá efecto alguno la designación de beneficiarios, debiéndose sujetar éstos y/o los herederos al procedimiento sucesorio respectivo.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 71.
 
-El Instituto no podrá intervenir en las controversias que se susciten entre los adjudicatorios de conjuntos habitacionales financiados por el Fondo.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 72.
 
-El Fondo sólo autorizará la transmisión de propiedad de las viviendas financiadas, a aquellas personas que reúnan las mismas condiciones que se exigieron a quien originalmente se otorgaron.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 #### SECCION QUINTA. De la Devolución de los Depósitos
 
 ###### ARTICULO 73.
 
-En caso de pensión, jubilación, incapacidad total permanente o muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieren constituído a su favor en el Fondo, de conformidad con lo dispuesto por los artículos 106, fracción IV y 112 de la Ley.
-
-Cuando un trabajador tenga 50 o más años de edad y deje de prestar sus servicios en las Afiliadas, tendrá derecho a la devolución de los depósitos constituidos en su favor, siempre y cuando haya transcurrido un período mínimo de 12 meses sin laborar en ninguna de ellas, en términos de los artículos 106 fracción V y 113 de la Ley.
-
-Los derechos de los trabajadores titulares de depósitos constituídos en el Fondo, o de sus beneficiarios, prescribirán en un plazo de 5 años.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ### CAPITULO VI. De la Recuperación de los Créditos
 
@@ -795,13 +723,7 @@ En caso de incumplimiento en el pago durante un lapso mayor de dos meses consecu
 
 ###### ARTICULO 78.
 
-El pago de los créditos para vivienda se hará mediante descuentos quincenales, o mensuales en el caso de pensionistas, de conformidad con los montos convenidos con el interesado y dentro del plazo estipulado en el contrato respectivo; cuando los descuentos no se efectúen, la amortización deberá ajustarse a lo dispuesto por el artículo 67 de este Reglamento.
-
-El Instituto, por causa justificada, podrá modificar tanto el monto del descuento como el plazo originalmente estipulado al momento del otorgamiento del crédito, así como celebrar convenios de pago individuales con los acreditados que deseen regularizar su situación crediticia.
-
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
-En caso de incumplimiento en el pago durante un lapso mayor de 45 días consecutivos, el Instituto a través del Fondo podrá dar por rescindido el crédito otorgado y proceder al cobro anticipado del mismo o, en su caso, a la recuperación de la vivienda financiada.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ###### ARTICULO 79.
 
@@ -817,11 +739,9 @@ Los créditos a mediano plazo que se liquiden dentro de un lapso de 90 días nat
 
 Las garantías para los préstamos a mediano plazo, serán el pagaré suscrito por los acreditados, la responsabilidad de las Afiliadas de efectuar la retención de la amortización que deba cubrirse al Instituto y las demás que, en su caso, establezca la Junta Directiva.
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
-
 ###### ARTICULO 82.
 
-En los créditos para vivienda, sólo se admitirá la sustitución de la garantía inicial por otra si el acreditado lo solicita dentro de los diez primero años a partir del otorgamiento del mismo y siempre que queden salvaguardados con esta substitución los intereses del Fondo.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LAS REGLAS PARA EL OTORGAMIENTO DE CREDITOS PARA VIVIENDA A LOS TRABAJADORES DERECHOHABIENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, D.O.F. 19 DE ABRIL DE 1994)
 
 ## TRANSITORIOS
 
@@ -840,3 +760,21 @@ Quedan abrogados el Reglamento General de Crédito del Fondo, aprobado por la Co
 Atentamente.
 
 México, Distrito Federal a catorce de junio de mil novecientos ochenta y ocho.- El Director General, Alejandro Carrillo Castro.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 19 DE ABRIL DE 1994.
+
+PRIMERA.- Estas Reglas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDA.- De conformidad con el programa autorizado para 1994, el "FOVISSSTE" ejercerá los recursos destinados al otorgamiento de 23,400 créditos hipotecarios, aplicando las disposiciones anteriores a las presentes Reglas.
+
+TERCERA.- A la entrada en vigor de las presentes Reglas se derogan los artículos 58 al 73, 78 y 82 del Reglamento de Prestaciones Económicas y Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación del 28 de junio de 1988, así como las de más disposiciones que se opongan a estas Reglas.
+
+CUARTA.- El saldo de los depósitos constituidos a favor de los "Trabajadores" hasta el 31 de diciembre de 1992, se aplicará como pago inicial junto con el saldo de la subcuenta de vivienda de la cuenta individual del "SAR", al momento del otorgamiento del crédito respectivo.
+
+QUINTA.- El porcentaje a que se hace referencia en la regla décima sexta, será el dos por ciento y estará sujeto a las resoluciones que al efecto emita la "Comisión Ejecutiva".
+
+SEXTA.- La tasa de interés a que se refiere la Regla vigésima séptima será del cuatro por ciento sobre el saldo ajustado y tendrá vigencia hasta el treinta y uno de diciembre de mil novecientos noventa y cuatro.
+
+SEPTIMA.- El porcentaje del enganche a que se refiere la Regla sexta no será superior al cincuenta por ciento del valor de la vivienda.
