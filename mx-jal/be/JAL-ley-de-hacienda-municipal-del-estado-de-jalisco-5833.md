@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1997-12-27"
+last_updated: "1998-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -112,6 +112,10 @@ Las normas de derecho tributario que establezcan cargas a los particulares y las
 ###### Art. 15.
 
 El Congreso del Estado expedirá las Leyes de Ingresos para todos los Municipios, en las que se determinarán las tarifas, cuotas y tasas con que deba afectarse cada una de las fuentes especificadas por esta Ley y, en su caso, las bases para su fijación.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1998)</small>
+
+Si por cualquier circunstancia el Congreso del Estado no aprobara la Ley de Ingresos respectiva, se tendrá como ley de ingresos aprobada para ese determinado ejercicio fiscal, la ley de ingresos que se hubiere aprobado para el ejercicio fiscal inmediato anterior.
 
 Para la elaboración de Presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Título Quinto de la Constitución Política del estado de Jalisco, y los Ordenamientos que rijan al Poder Legislativo.
 
@@ -2952,3 +2956,7 @@ Tercero.- Publíquese el texto íntegro de este decreto en el Periódico Oficial
 P.O. 27 DE DICIEMBRE DE 1997.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE FEBRERO DE 1998.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
