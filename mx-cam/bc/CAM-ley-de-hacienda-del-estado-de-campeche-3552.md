@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1994-12-21"
+last_updated: "1995-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -51,9 +51,11 @@ La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir l
 
 Los ingresos fiscales, que se establecen en este ordenamiento, se regularán por lo establecido en la presente Ley y en el Código Fiscal del Estado de Campeche.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 3.
 
-El pago de los impuestos de la presente Ley deberá hacerse dentro de los primeros quince días del mes siguiente a que correspondan, en las oficinas recaudadoras de la Secretaría de Finanzas del Gobierno del Estado, a excepción del impuesto del capítulo IV del presente ordenamiento.
+El pago de los impuestos de la presente Ley deberá hacerse dentro de los primeros quince días del mes siguiente a que correspondan, en las oficinas recaudadoras de la Secretaría de Finanzas y Administración del Gobierno del Estado, a excepción del impuesto del capítulo IV del presente ordenamiento.
 
 ###### ARTICULO 4.
 
@@ -211,13 +213,19 @@ En caso de que en una misma función se presenten dos o más espectáculos, el i
 
 Los contribuyentes de este impuesto tienen además, las siguientes obligaciones:
 
-I.- Presentar ante la Secretaría de Finanzas u oficina de recaudación respectiva; para su resello, el boletaje y el programa que corresponda a cada función cuando menos un día antes de que se verifiquen los espectáculos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1995)</small>
+
+I.- Presentar ante la Secretaría de Finanzas y Administración u oficina de recaudación respectiva; para su resello, el boletaje y el programa que corresponda a cada función cuando menos un día antes de que se verifiquen los espectáculos.
 
 II.- No vender boletos en tanto no estén resellados por las autoridades fiscales.
 
-III.- Permitir a los interventores que designe la Secretaría de Finanzas o sus oficinas de recaudación, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1995)</small>
 
-IV.- En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Secretaría de Finanzas, y
+III.- Permitir a los interventores que designe la Secretaría de Finanzas y Administración o sus oficinas de recaudación, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento.
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1995)</small>
+
+IV.- En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Secretaría de Finanzas y Administración, y
 
 V.- Los contribuyentes de este impuesto que exploten espectáculos en forma eventual o con carácter de ambulantes, tendrán además las siguientes obligaciones:
 
@@ -227,9 +235,11 @@ B) Dar el aviso correspondiente en los casos de ampliación del período de expl
 
 C) Previamente a la iniciación de actividades, otorgar garantía a satisfacción de la Secretaría de Finanzas, en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiere corresponder también estimativamente a tres días.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 26.
 
-Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción V, inciso C, del artículo anterior no hubieran cumplido con tal obligación, la Secretaría de Finanzas podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe podrá solicitar el auxilio de la fuerza pública.
+Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción V, inciso C, del artículo anterior no hubieran cumplido con tal obligación, la Secretaría de Finanzas y Administración podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe podrá solicitar el auxilio de la fuerza pública.
 
 ###### ARTICULO 27.
 
@@ -325,7 +335,7 @@ F) Trabajadores domésticos.
 
 ###### ARTICULO 35.
 
-La Secretaría de Finanzas podrá estimar las erogaciones en los siguientes casos:
+La Secretaría de Finanzas y Administración podrá estimar las erogaciones en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar, y
 
@@ -336,6 +346,8 @@ El procedimiento a seguir será el establecido en el Código Fiscal del Estado.
 ### CAPITULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
 
 #### SECCION OCTAVA. DE LA ESTIMACION DE EROGACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1995)</small>
 
 ### CAPITULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
@@ -351,7 +363,9 @@ Salarios Mínimos Diarios vigentes.
 
 I.- Papel sellado especial para certificados de actas por hoja .45
 
-II.- Por certificación de cualquier acto que conste en los libros del Registro Civil, además del papel .6
+II.- Por certificación de cualquier acto que conste en los libros
+
+del Registro Civil, además del papel .6
 
 III.- Registro de nacimientos en las oficinas del Registro Civil EXENTO
 
@@ -475,9 +489,9 @@ XVIII.- Por busca de datos, para la expedición de informes certificados, relati
 
 a) Del año en curso 1
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1995)</small>
 
-b) Por cada año anterior 2
+b) Por cada año anterior 0.2
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
 
@@ -761,9 +775,11 @@ Los bienes de las personas que mueran intestadas, sin dejar parientes de acuerdo
 
 Los servicios que presten los hospitales civiles en sus departamentos de distinción, no serán gratuitos. Se pagará la cuota señalada por adelantado, y las cuotas se causarán según el número de días que permanezca el interno. Si el asilado dejare de pagar será dado de baja, salvo que la naturaleza de la enfermedad no lo permita, entonces se le trasladará al departamento de los enfermos del orden común.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 66.
 
-La Secretaría de Finanzas del Estado, recaudará directamente las cuotas correspondientes.
+La Secretaría de Finanzas y Administración del Estado, recaudará directamente las cuotas correspondientes.
 
 ### CAPITULO II. RECARGOS
 
@@ -912,3 +928,9 @@ P.O. 21 DE DICIEMBRE DE 1994.
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y cinco.
+
+P.O. 5 DE JUNIO DE 1995.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente Decreto.
