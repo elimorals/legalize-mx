@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2003-09-26"
+last_updated: "2003-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2003.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -1614,7 +1614,7 @@ Nota de subpartida.
 
 1. En las subpartidas 4403.41 a 4403.49, 4407.24 a 4407.29, 4408.31 a 4408.39 y 4412.13 a 4412.99, se entiende por maderas tropicales los siguientes tipos de madera:
 
-“Abura, Acajou d'Afrique, Afrormosia, Ako, Alan, Andiroba, Aningré, Avodiré, Azobé, Balau, Balsa, Bossé clair, Bossé foncé, Cativo, Cedro, Dabema, Dark Red Meranti, Dibétou, Doussié, Framiré, Freijo, Fromager, Fuma, Geronggang, Ilomba, Imbuia, Ipé, Iroko, Jaboty, Jelutong, Jequitiba, Jongkong, Kapur, Kempas, Keruing, Kosipo, Kotibé, Koto, Light Red Meranti, Limba, Louro, Maçaranduba, Mahogany, Makoré, Mandioqueira, Mansonia, Mengkulang, Meranti Bakau, Merawan, Merbau, Merpauh, Mersawa, Moabi, Niangon, Nyatoh, Obeche, Okoumé, Onzabili, Orey, Ovengkol, Ozigo, Padauk, Paldao, Palissandre de Guatemala, Palissandre de Para, Palissandre de Rio, Palissandre de Rose, Pau Amarelo, Pau Marfim, Pulai, Punah, Quaruba, Ramin, Sapelli, Saqui-Saqui, Sepetir, Sipo, Sucupira, Suren, Tauari, Teak, Tiama, Tola, Virola, White Lauan, White Meranti, White Seraya, Yellow Meranti”.
+“Abura, Acajou d' Afrique, Afrormosia, Ako, Alan, Andiroba, Aningré, Avodiré, Azobé, Balau, Balsa, Bossé clair, Bossé foncé, Cativo, Cedro, Dabema, Dark Red Meranti, Dibétou, Doussié, Framiré, Freijo, Fromager, Fuma, Geronggang, Ilomba, Imbuia, Ipé, Iroko, Jaboty, Jelutong, Jequitiba, Jongkong, Kapur, Kempas, Keruing, Kosipo, Kotibé, Koto, Light Red Meranti, Limba, Louro, Maçaranduba, Mahogany, Makoré, Mandioqueira, Mansonia, Mengkulang, Meranti Bakau, Merawan, Merbau, Merpauh, Mersawa, Moabi, Niangon, Nyatoh, Obeche, Okoumé, Onzabili, Orey, Ovengkol, Ozigo, Padauk, Paldao, Palissandre de Guatemala, Palissandre de Para, Palissandre de Rio, Palissandre de Rose, Pau Amarelo, Pau Marfim, Pulai, Punah, Quaruba, Ramin, Sapelli, Saqui-Saqui, Sepetir, Sipo, Sucupira, Suren, Tauari, Teak, Tiama, Tola, Virola, White Lauan, White Meranti, White Seraya, Yellow Meranti”.
 
 (VEASE ARCHIVO ANEXO)
 
@@ -4655,3 +4655,11 @@ PRIMERO.- El presente decreto entrara en vigor el día de su publicación en el 
 SEGUNDO.- A partir del 1 de abril de 2004, el arancel ad valorem aplicable a la importacion de los productos comprendidos en las fracciones arancelarias 7304.59.01, 7304.59.02, 7304.59.06, 7304.59.07, 7304.59.08 y 7304.59.10, sera de 3.
 
 TERCERO.- El arancel-cupo que se establece en el articulo 2 del presente Decreto estara vigente hasta el 31 de diciembre de 2003.
+
+D.O.F. 1 DE OCTUBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El arancel establecido en el artículo único de este Decreto para la fracción arancelaria 0804.30.01, estará vigente hasta el 30 de septiembre de 2004. A partir del 1o. de octubre de 2004, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 30% y estará vigente hasta el 30 de septiembre de 2005. A partir del 1o. de octubre de 2005, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 25% y estará vigente hasta el 30 de septiembre de 2006. A partir del 1o. de octubre de 2006, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 20%.
+
+El arancel establecido en el artículo único de este Decreto para la fracción arancelaria 2008.20.01, estará vigente hasta el 30 de septiembre de 2004. A partir del 1o. de octubre de 2004, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 40% y estará vigente hasta el 30 de septiembre de 2005. A partir del 1o. de octubre de 2005, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 30% y estará vigente hasta el 30 de septiembre de 2006.A partir del 1o. de octubre de 2006, el arancel ad-valorem aplicable para la fracción arancelaria, a que se refiere este párrafo, será de 20%.
