@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-de-asistencia-privada-del-estado-de-11607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-16"
-last_updated: "1996-08-16"
+last_updated: "1997-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 16 de agosto de 1996.
 
@@ -457,9 +457,11 @@ Si del informe producido por el interventor o del acta a que este artículo se r
 
 La Junta Estatal de Asistencia Privada, es un órgano administrativo desconcentrado por función del Gobierno del Estado, por medio del cual el poder público ejerce la vigilancia y asesoría que le compete sobre las instituciones del ramo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 65.
 
-El Gobierno de la Junta estará a cargo de un Consejo de Vocales integrado por representantes del sector público y de las instituciones privadas conforme al orden siguiente:
+El gobierno de la Junta estará a cargo de un Consejo de Vocales integrado por representantes de los sectores público y privado, y de las propias instituciones de asistencia privada conforme al orden siguiente:
 
 I.- Un presidente, que será nombrado libremente por el Gobernador del Estado;
 
@@ -470,6 +472,14 @@ III.- El Secretario de Educación, Cultura y Deporte;
 IV.- El Secretario de Salud;
 
 V.- El Director General del Sistema Estatal para el Desarrollo Integral de la Familia; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 1997)</small>
+
+V-bis.- Un representante del Consejo Coordinador Empresarial de Campeche, A.C.;
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 1997)</small>
+
+V-ter.- Un representante del Consejo Coordinador Empresarial de Ciudad del Carmen, A.C.; y
 
 VI.- Seis personas que serán designadas por las propias instituciones, personas que deberán ser de reconocida honorabilidad, ciudadanos mexicanos por nacimiento, menores de setenta y cinco años de edad, no servidores públicos y que desempeñarán sus funciones personalmente.
 
@@ -489,9 +499,11 @@ f) Servicios de desarrollo social.
 
 La designación de estos vocales se hará por mayoría de votos, teniendo un voto cada institución. En caso de empate decidirá el presidente de la Junta, la que emitirá las reglas respectivas.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 66.
 
-El presidente de la Junta y los vocales designados por las instituciones durarán en su cargo tres años, pudiendo ser renovado su nombramiento. Las vacantes definitivas de entre los miembros de la Junta, o las faltas que excedan de un mes, serán cubiertas en la misma forma que indique el artículo anterior, dentro de un plazo de quince días.
+El presidente de la Junta y los vocales designados por el sector privado y las instituciones de asistencia durarán en su cargo tres años, pudiendo ser renovado su nombramiento. Las vacantes definitivas de entre los miembros de la Junta, o las faltas que excedan de un mes, serán cubiertas en la misma forma que indica el artículo anterior, dentro de un plazo de quince días.
 
 ###### ARTICULO 67.
 
@@ -960,3 +972,11 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 15 de Agosto de 19
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los quince días del mes de Agosto de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE MARZO DE 1997.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
