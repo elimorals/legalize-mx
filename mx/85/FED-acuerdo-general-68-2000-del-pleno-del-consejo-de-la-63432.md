@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-68-2000-del-pleno-del-consejo-de-la-63432"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-09-27"
-last_updated: "2000-09-27"
+last_updated: "2001-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63432&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-09-11"
 
 ACUERDO GENERAL 68/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES DEL CUARTO CONCURSO INTERNO DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de septiembre de 2000.
 
@@ -64,6 +64,8 @@ DECIMOTERCERO.- Que una vez designados, los vencedores serán adscritos por el C
 En consecuencia, con apoyo en los artículos constitucionales y legales invocados, este Pleno del Consejo de la Judicatura Federal, expide el siguiente
 
 ACUERDO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 5/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 31 DE ENERO DE 2001, SE MODIFICA EL PRESENTE PUNTO A EFECTO DE QUE VEINTE DE LAS PLAZAS ORIGINADAS SE CUBRAN EN LAS FECHAS A QUE SE HACE REFERENCIA EN EL PRESENTE ACUERDO.</small>
 
 PRIMERO.- Emítase Convocatoria para el Cuarto Concurso Interno de Oposición para la Designación de Jueces de Distrito, a fin de cubrir hasta sesenta plazas originadas por cambios de adscripción, creación de nuevos Juzgados de Distrito en el país y vacantes derivadas de las promociones de Jueces de Distrito a la categoría de Magistrado de Circuito.
 
@@ -144,3 +146,9 @@ DECIMO.- Las circunstancias no previstas en la Ley, en este Acuerdo o en la Conv
 UNICO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en uno de los diarios de mayor circulación nacional.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 68/2000, del Pleno del Consejo de la Judicatura Federal, que fija las bases del Cuarto Concurso Interno de Oposición para la Designación de Jueces de Distrito, fue aprobado por el propio Pleno, en sesión extraordinaria de once de septiembre de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a once de septiembre de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE ENERO DE 2001.
+
+UNICO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en uno de los diarios de mayor circulación nacional.
