@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1954-03-10"
+last_updated: "1956-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1956.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -293,15 +293,13 @@ Si por cualquier circunstancia no hubiere Comisión Permanente al instalarse el 
 
 El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse los días señalados por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley desige (sic), y en su caso llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1956)</small>
 
 ###### Art. 31.
 
-El Congreso tendrá cada año, dos períodos de sesiones ordinarias y durará tres meses cada uno, comenzando uno el día primero de diciembre y otro el día primero de junio.
+El Congreso tendrá cada año dos periodos ordinarios de sesiones y durarán tres mes (sic) cada uno. El primero se iniciará el día 1° de diciembre y terminará el último de febrero y el segundo comenzará el primero de junio para terminar el último de agosto.
 
-Al iniciarse el primero de diciembre de cada año el período de sesiones, el Presidente del H. Tribunal Superior de Justicia, rendirá ante el H. Congreso un informe del Estado que guarde la administración de justicia.
-
-Fuera de los períodos que señala el párrafo anterior, el Congreso solo celebrará sesiones extraordinarias cuando para ello fuere convocado por el Ejecutivo o por la Diputación Permanente, ocupándose entonces únicamente de los asuntos para los cuales se hizo la convocatoria.
+Fuera de los períodos señalados en el párrafo anterior, el Congreso solo celebrará sesiones extraordinarias cuando para tal objeto sea convocado por el Ejecutivo o por la Diputación Permanente, ocupándose únicamente de los asuntos para los cuales fue convocado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1946)</small>
 
@@ -333,11 +331,13 @@ Para que los Diputados puedan cumplir con lo dispuesto en las fracciones anterio
 
 Los Diputados, al abrirse el Período de Sesiones Ordinarias siguiente a la visita que hayan hecho a los pueblos que representan, presentarán al Congreso una Memoria que contenga las observaciones que hayan hecho, proponiendo a la vez las medidas que estimen conducentes para llenar el objeto que expresa la fracción IV de este artículo.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1956)</small>
 
 ###### Art. 33.
 
-El Gobernador rendirá al Congreso el día 15 de enero de cada año, un informe acerca del estado que guarden los asuntos de la administración pública. El Presidente del Congreso contestará en términos generales. Cuando corresponda la transmisión del Poder Ejecutivo, en este mismo acto rendirá la protesta el Gobernador Electo.
+Al iniciarse las labores del Congreso el primero de diciembre de cada año, el Gobernador del Estado y el Presidente del H. Tribunal de Justicia rendirán ante el mismo, un informe del estado que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará a ambos términos generales.
+
+El 15 de enero correspondiente al año de la transmisión de Poderes, el Gobernador Electo acudirá ante el H. Congreso a otorgar la protesta de acuerdo con las formalidades de rigor.
 
 ###### Art. 34.
 
@@ -1092,3 +1092,7 @@ La presente reforma surtirá sus efectos a partir del día de su publicación en
 P.O. 10 DE MARZO DE 1954.
 
 El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 1956.
+
+El presente Decreto surtirá sus efectos a partir de esta fecha.
