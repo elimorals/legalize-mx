@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "2000-10-29"
+last_updated: "2003-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2003.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -71,7 +71,7 @@ El sitio destinado a prisión preventiva deberá ser distinto del destinado para
 
 El Ejecutivo del Estado podrá celebrar con la Federación convenios de carácter general, a fin de que los reos sentenciados por delitos del orden común, extingan su condena en establecimientos dependientes del Ejecutivo Federal.
 
-## TITULO PRIMERO .
+## TITULO PRIMERO.
 
 DEL DEPARTAMENTO DE PREVENCION SOCIAL.
 
@@ -391,7 +391,7 @@ Cuando a juicio del Ejecutivo se demuestre la insolvencia económica del solicit
 
 VI.- Que el agraciado con la libertad preparatoria resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso del Departamento de Prevención Social. La designación se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo en el lugar que se le fije, como el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
 
-> <small>(N. DE E. POR DECRETO No. 307, PUBLICADO EN EL P.O. No. 35 DE FECHA 29 DE OCTUBRE DE 2000, SE REFORMA EL DECRETO No. 220 PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 1999, DEJANDO EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO EXCLUSIVAMENTE EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS SENTENCIADOS POR DICHO DELITO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2003, SIEMPRE Y CUANDO SE ENCUENTREN COMPURGANDO LA SANCION CORRESPONDIENTE)</small>
+> <small>N. DE E. POR DECRETO No. 275, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO EXCLUSIVAMENTE EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS SENTENCIADOS POR DICHO DELITO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2004, P.O. 19 DE OCTUBRE DE 2003.</small>
 
 ###### Artículo 55.
 
@@ -634,3 +634,13 @@ P.O. 23 DE DICIEMBRE DE 1999.
 P.O. 29 DE OCTUBRE DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2003.
+
+DECRETO NO. 275.
+
+###### ARTÍCULO PRIMERO.
+
+Se deja en suspenso la vigencia del artículo 55 de la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, única y exclusivamente en lo que se refiere al delito de robo calificado a favor de los internos que hayan sido condenados por sentencia irrevocable a sufrir pena de prisión, por la comisión de ese ilícito dictada en la fecha anterior al día 14 de septiembre de 2004.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
