@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-el-sistema-estatal-de-asistencia-social-10029"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-26"
-last_updated: "1987-09-28"
+last_updated: "1993-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE AGOSTO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 26 de junio de 1987.
 
@@ -43,7 +43,7 @@ LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
 ###### ARTICULO 1.
 
-Las disposiciones de la presente Ley son de orden público y de Interés social y tiene por objeto establecer las bases para:
+Las disposiciones de la presente Ley son de orden público y de interés social y tiene por objeto establecer las bases para:
 
 I.- La promoción y prestación de los servicios de salud en materia de asistencia social que señala la Ley General de Salud, y
 
@@ -73,7 +73,7 @@ V.- Ancianos en estado de desamparo, incapacidad, marginación o sujetos al mal 
 
 > <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 1987)</small>
 
-VI.- Inválidos por ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculoesquelético, deficiencia mental, problemas de lenguaje u otras deficiencias;
+VI.- Inválidos por ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-musculoesquelético, deficiencia mental, problemas de lenguaje u otras deficiencias;
 
 VII.- Indigentes;
 
@@ -269,7 +269,9 @@ VI.- El Procurador General de Justicia del Estado;
 
 VII.- El Coordinador General de Salud del Estado;
 
-VIII.- El Coordinador General de Planeación del Estado;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+VIII.- Secretaría de Desarrollo Social del Gobierno del Estado;
 
 IX.- El delegado del Instituto Mexicano del Seguro Social y el delegado del Instituto de Servicios Sociales de los Trabajadores al Servicio del Estado, y
 
@@ -499,7 +501,7 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 El Gobierno del Estado, con el objeto de ampliar la cobertura de los servicios de salud de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la entidad, a través del organismo, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares las que con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan.
 
-El Gobierno del Estado, a través del organismo, aplicará difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. El organismo les prestará la asesoría técnica necesaria y los apoyos conducentes.
+El Gobierno del Estado, a través del organismo, aplicará, difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. El organismo les prestará la asesoría técnica necesaria y los apoyos conducentes.
 
 ###### ARTICULO 42.
 
@@ -564,3 +566,11 @@ LIC. FRANCISCO LABASTIDA OCHOA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DIEGO VALADES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
