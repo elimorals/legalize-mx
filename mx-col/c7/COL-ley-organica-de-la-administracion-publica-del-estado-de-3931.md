@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "2003-10-31"
+last_updated: "2004-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -611,7 +611,9 @@ VII.- Asesorar y orientar a las Dependencias del Ejecutivo, a los organismos pú
 
 VIII.- Coordinar, promover y apoyar los programas de investigación, desarrollo y transferencia de tecnología.
 
-IX.- Promover el establecimiento de parques y zonas industriales así como la consolidación de los existentes.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2004)</small>
+
+IX.- Crear, fomentar, conservar y promover el establecimiento de parques, zonas industriales, empresas e industrias, así como crear y conservar reservas territoriales para el establecimientos (sic) de la misma;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2003)</small>
 
@@ -946,3 +948,7 @@ TERCERO.- Las menciones de otras leyes a la Oficialía Mayor y a la Secretaría 
 CUARTO.- La readscripción de los trabajadores de base de las Secretarías General de Gobierno, de Finanzas, de la Contraloría, de Fomento Económico y de Desarrollo Urbano a las dependencias que se crean de conformidad con el presente decreto, se hará con estricto apego a sus derechos laborales.
 
 QUINTO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Colima".
