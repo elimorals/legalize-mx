@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obras-publicas-para-el-estado-de-zacatecas-22302"
 country: "mx"
 rank: "ley"
 publication_date: "1984-10-03"
-last_updated: "1984-10-03"
+last_updated: "1986-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1986.
 
 Ley publicada en el Suplemento al Núm. 79 del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de octubre de 1984.
 
@@ -61,11 +61,13 @@ LEY DE OBRAS PUBLICAS PARA EL ESTADO DE ZACATECAS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 1.
 
 La presente Ley es de orden público e interés social, tiene por objeto regular el gasto y las acciones relativas a planeación, programación, presupuestación, ejecución, conservación, mantenimiento, demolición y control de la obra pública que realicen:
 
-I. El Gobierno del Estado por conducto de la Secretarías de Planeación y Desarrollo Urbano, su Dirección de Obras Públicas; la Secretaría de Programación y Presupuesto;
+I. El Gobierno del Estado por conducto de la Secretarías de Programación y Fomento Económico y Contraloría General del Estado;
 
 II. Los Ayuntamientos;
 
@@ -73,7 +75,7 @@ III. Los Organismos Descentralizados del Estado que, por sus funciones deban int
 
 IV. Las empresas de participación estatal en las que el Gobierno del Estado o los Ayuntamientos sean socios mayoritarios, y
 
-V. Los Fideicomisos en los que el Fideicomitente sea el Gobierno del Estado o los Ayuntamientos o cualquiera de las entidades a que se refieren las fracciones III y IV de este artículo.
+V. Los Fideicomisos en los que el fideicomitente sea el Gobierno del Estado o los Ayuntamientos o cualquiera de las entidades a que se refieren las fracciones III y IV de este artículo.
 
 ###### ARTICULO 2.
 
@@ -81,7 +83,7 @@ Para los efectos de esta Ley se considera obra pública todo trabajo que tenga p
 
 Quedan comprendidos en los conceptos anteriores:
 
-I. La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes a que se refiere este artículo, incluídos los que tiendan a mejorar y utilizar los recursos agropecuarios del Estado, así como los trabajos que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentren en el suelo;
+I. La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes a que se refiere este artículo, incluidos los que tiendan a mejorar y utilizar los recursos agropecuarios del Estado, así como los trabajos que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentren en el suelo;
 
 II. La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes inmuebles destinados a un servicio público o al uso común, y
 
@@ -89,19 +91,23 @@ III. Todos aquellos de naturaleza análoga.
 
 La incorporación de bienes muebles que deban destinarse a un inmueble, necesarios para la realización de obras públicas, se regirá por las disposiciones de esta Ley, sin perjuicio de que en adquisición se regule por el derecho aplicable a esa materia, en la inteligencia de que las consecuencias de la incorporación susodicha serán las que establece el Código Civil vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 3.
 
-El gasto de la obra pública se sujetará a lo previsto en el presupuesto de egresos del Estado y de los Ayuntamientos, a los contratos que deban celebrarse, a las disposiciones del Ejecutivo del Estado en cumplimiento de sus funciones, a lo que establezcan la Secretaría de Planeación y Desarrollo Urbano, la Secretaría de Programación y Presupuesto, la Secretaría de Contraloría y en general las Leyes a que se encuentren sujetas por su naturaleza.
+El gasto de la obra pública se ajustará a lo previsto en el presupuesto de egresos del Estado y de los Ayuntamientos, a los contratos que deban celebrarse, a las disposiciones del Ejecutivo del Estado en cumplimiento de sus funciones, a lo que establezcan la Secretaría Programación y Fomento Económico y la Secretaría de la Contraloría General del Estado y en general las leyes a que se encuentren sujetas por su naturaleza.
 
 ###### ARTICULO 4.
 
 Consecuentemente y de modo muy especial quedan sujetos a las disposiciones de esta Ley los contratos de servicios relacionados con la obra pública, que requieran celebrar las dependencias y entidades mencionadas en el artículo 1 del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 5.
 
-El Ejecutivo Estatal aplicará la presente Ley por conducto de la Secretaría de Planeación y Desarrollo Urbano, sin perjuicio de la intervención de otras dependencias del propio Ejecutivo conforme a ésta u otras disposiciones legales.
+El Ejecutivo Estatal aplicará la presente Ley por conducto de la Secretaría de Programación y Fomento Económico sin perjuicio de la intervención de otras dependencias del propio Ejecutivo conforme a ésta u otras disposiciones legales.
 
-La Secretaría de Planeación y Desarrollo Urbano y en su caso la de Programación y Presupuesto tienen facultad para interpretar las disposiciones de esta Ley para efectos administrativos, cada una en el ámbito de sus respectivas funciones. Cualquier discrepancia será resuelta por el Ejecutivo del Estado.
+La Secretaría de Programación y Fomento Económico y en su caso la Contraloría General del Estado, tienen la facultad para interpretar las disposiciones de esta Ley para efectos administrativos, cada una en el ámbito de sus respectivas funciones, cualquier discrepancia será resuelta por el Ejecutivo del Estado.
 
 ###### ARTICULO 6.
 
@@ -123,6 +129,8 @@ CAPlTULO II
 
 DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 9.
 
 La planeación de la obra pública que realicen las dependencias y entidades a que se refiere el Artículo 1 de esta Ley deberá:
@@ -133,7 +141,7 @@ II. Considerar de manera jerarquizada las necesidades estatales, regionales y de
 
 III. Respetar las disposiciones legales y reglamentarias y tomar en consideración los planes de desarrollo urbano, económico y social del Estado y Municipios;
 
-IV. Proveer los requerimientos de áreas para la obra pública, previa consulta con la Secretaría de Planeación y Desarrollo Urbano y la Dirección de Obras Públicas, para que éstas, en el ejercicio de sus atribuciones, determinen su conveniencia y su viabilidad. Asimismo, observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieren hecho conforme a lo dispuesto por las Leyes de la materia; lo anterior sin perjuicio de la intervención que se dé a la Secretaría de Programación Presupuesto, a la Secretaría de Finanzas, al Instituto Zacatecano de la Vivienda o a otros organismos o entidades estatales o municipales competentes;
+IV. Prever los requerimientos de áreas para la obra pública, previa consulta con la Secretaría de Programación y Fomento Económico, para que ésta, en el ejercicio de sus atribuciones, determine su conveniencia y su viabilidad. Asimismo, observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieren hechos (sic) conforme a los dispuesto por las Leyes de la materia; lo anterior sin perjuicio de la intervención que se dé a la Secretaría de Programación y Fomento Económico, a la Secretaría de Finanzas.(sic) Al Instituto Zacatecano de la Vivienda o a otros organismos o entidades estatales o municipales competentes;
 
 V. Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
 
@@ -197,19 +205,23 @@ En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá de
 
 ### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
+A(REFORMADO, P.O. 14 DE MAYO DE 1986)
+
 ###### ARTICULO 15.
 
-La Secretaría de Planeación y Desarrollo Urbano por sí o a través de la Dirección de Obras Públicas, llevará el Padrón de Contratistas de obra pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica.
+La Secretaría de Programación y Fomento Económico llevará el Padrón de Contratistas de obra pública y fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica.
 
 Las dependencias y entidades que menciona el Artículo 1 de esta Ley sólo podrán celebrar contratos de obra pública o de servicios relacionados con los mismos, con las personas inscritas en el padrón cuyo registro esté vigente.
 
 La clasificación a que se refiere el párrafo primero de este Artículo deberá de considerarse por las dependencias y entidades, en la convocatoria y contratación de la obra pública.
 
-La dependencia a que se refiere el párrafo primero de este Artículo, harán del conocimiento de las dependencias y entidades y del público en general, las personas registradas en el padrón.
+La Dependencia a que se refiere el párrafo primero de este artículo, harán del conocimiento de las dependencias y entidades y del público en general, las personas registradas en el Patrón (sic).
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 16.
 
-Las personas interesadas en inscribirse en el padrón de contratistas de obra pública, deberán solicitarlo por escrito ante las dependencias a que se refiere el artículo 15 de esta Ley, acompañado según su naturaleza jurídica y sus características, la siguiente información y documentos:
+Las personas interesadas en inscribirse en el Padrón de contratistas de obra pública, deberán solicitarlo por escrito ante la Dependencia a que se refiere el artículo 15 de esta Ley, acompañando según su naturaleza jurídica y características, la siguiente información y documentos:
 
 I. Datos generales de la interesada;
 
@@ -217,7 +229,7 @@ II. Señalamiento de domicilio en la capital del Estado;
 
 III. Escritura constitutiva y modificaciones en su caso;
 
-IV. Constancia de su registro en el padrón de contratos ante la Secretaría de Programación y Presupuesto;
+IV. Constancia de su registro en el padrón de contratos ante la Secretaría de Programación y Fomento Económico;
 
 V. Experiencia y especialidad;
 
@@ -235,17 +247,19 @@ XI. Registro en el Instituto del Fondo Nacional de la Vivienda para los Trabajad
 
 XII. Los demás documentos e información que las dependencias a que se refiere el artículo 15 de esta Ley, consideren pertinentes.
 
-Las dependencias a que se refiere el artículo 15 de esta Ley, podrán verificar en cualquier tiempo la información a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 17.
 
 El registro en el padrón de contratistas de obra pública tendrá vigencia de un año a partir del primero de enero al treinta y uno de diciembre.
 
-Los contratistas que tengan interés en continuar inscritos en el padrón de contratistas de obra pública presentarán ante las dependencias a que se refiere el artículo 15 de esta Ley, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de revalidación, acompañando la información y documentos que proceden en los términos del artículo anterior.
+Los contratistas que tengan interés en continuar inscritos en el Padrón de Contratistas de Obra Pública presentarán ante la Dependencia a que se refiere el artículo 15 de esta Ley, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de revalidación, acompañando la información y documentos que proceden en los términos del artículo anterior.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 18.
 
-Las dependencias a que se refiere el artículo 15 de esta Ley, dentro de un término que no excederá de treinta días contados a partir de la fecha de recepción de la solicitud resolverá sobre la inscripción o revalidación. Transcurrido este plazo sin que haya respuesta, se tendrá por registrado al solicitante o por revalidado el registro.
+La Dependencia a que se refiere el artículo 15 de esta Ley, dentro de un término que no excederá de treinta días contados a partir de la fecha de recepción de la solicitud resolverá sobre la inscripción o revalidación. Transcurrido este plazo sin que haya respuesta, se tendrá por registrado al solicitante o por revalidado el registro.
 
 ###### ARTICULO 19.
 
@@ -259,9 +273,11 @@ III. Hayan celebrado contratos en contravención a lo dispuesto por esta Ley, po
 
 IV. Se les declare incapacitados legalmente para contratar.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 20.
 
-Las dependencias a que se refiere el artículo 15 de esta Ley están facultadas para cancelar el registro de los contratistas cuando:
+La dependencia a que se refiere el artículo 15 de esta Ley está facultada para cancelar el registro de los contratistas cuando:
 
 I. La información que hubieren proporcionado para la inscripción o revalidación resultase falsa, o hayan actuado con dolo o mala fe, en una subasta o ejecución de una obra;
 
@@ -305,11 +321,13 @@ II. Se cuente con los estudios y proyectos, las normas y especificaciones de con
 
 III. Se cumplan los trámites o gestiones complementarias que se relacionen con la obra y los que deban realizarse conforme a las disposiciones estatales y municipales.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 26.
 
 Los contratos de obra pública se adjudicarán o llevarán a cabo a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado, que será abierto en junta pública, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
 
-Las dependencias y entidades enviarán a las dependencias a que se refiere el artículo 15 de la presente Ley la convocatoria en el momento en que aquella sea expedida y remitirán además los documentos de apoyo que se requieran.
+Las Dependencias y entidades enviarán a la Secretaría de Programación y Fomento Económico y a la Secretaría de la Contraloría General del Estado, la convocatoria en el momento en que aquella sea expedida y remitirán además los documentos de apoyo que se requieran.
 
 ###### ARTICULO 27.
 
@@ -405,17 +423,19 @@ La ejecución de la obra contratada deberá iniciarse en la fecha señalada y pa
 
 Dentro de los diez días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o administración directa, la contratante lo comunicará a las dependencias a que se refiere el artículo 15 de esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 38.
 
-La contratante podrá dentro del programa de inversión aprobado, bajo su responsabilidad y por razones fundadas y Explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios, siempre y cuando éstos considerados, conjunta o separadamente, no rebasen el 25 % del monto del plazo pactados en el contrato ni impliquen variaciones sustanciales en el proyecto original.
+La contratante podrá dentro del programa de inversión aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios, siempre y cuando éstos considerados, conjunta o separadamente, no rebasen el 25 % del monto o del plazo pactados en el contrato ni impliquen variaciones substanciales en el proyecto original.
 
-Las circunstancias a que se refiere el párrafo Anterior se informarán a las dependencias a que se refiere el Artículo 15 de esta Ley, en un plazo que no exceda de treinta días hábiles contados a partir de la fecha en que se hubiere formalizado a (sic) modificación.
+Las circunstancias a que se refiere el párrafo anterior se informarán a la Secretaría de Programación y Fomento Económico y a la Secretaría de la Contraloría del Gobierno del Estado.
 
-Si las modificaciones exceden del porcentaje indicado o varían sustancialmente el proyecto se deberá celebrar por una sola vez, convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del artículo 25 de esta Ley, las que no podrán en modo alguno afectar las que se refieren a la naturaleza y características esenciales de la obra, objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley. Este convenio adicional deberá ser autorizado por el titular de la dependencia o entidad de que se trate.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 39.
 
-La contratante podrá suspender temporalmente en todo o en parte de la obra contratada, por cualquier causa justificada, notificando de ello a las dependencias a que se refiere el artículo 15 de esta Ley.
+La Contratante podrá suspender temporalmente en todo o en parte de la obra contratada, por cualquier causa justificada, notificando de ello a la Secretaría de Programación y Fomento Económico y a la Secretaría de la Contraloría General del Estado.
 
 ###### ARTICULO 40.
 
@@ -463,15 +483,13 @@ Los contratos que con base en la presente Ley celebren las dependencias y entida
 
 Las controvercias (sic)que se susciten con motivo de la interpretación o aplicación de esta Ley o de los contratos celebrados serán resueltos por los tribunales estatales.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 49.
 
 Las dependencias y entidades podrán ejecutar obras por administración directa sin intervención de contratistas, siempre que posean la capacidad técnica y los elementos para el efecto.
 
-Previamente a la ejecución de estas obras, el titular de la dependencia o entidad emitirá el Acuerdo respectivo y lo hará del conocimiento de las dependencias a que se refiere el Artículo 15 de esta Ley a las que se comunicará periódicamente sobre el avance físico, los gastos efectuados y la terminación de las obras.
-
-Formarán parte integrante del acuerdo a que se refiere este artículo: la descripción pormenorizada de la obra que deba ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto corespondiente (sic)
-
-En la ejecución de estas obras son aplicables en lo conducente, las disposiciones contenidas en los artículos 38, 39, 43, 44 y 45.
+Previamente a la ejecución de estas obras, el titular de la dependencia o entidad emitirá el Acuerdo respectivo y lo hará del conocimiento de la Secretaría de Programación y Fomento Económico y de la Secretaría de la Contraloría del Gobierno del Estado.
 
 ###### ARTICULO 50.
 
@@ -513,57 +531,79 @@ El titular de la dependencia o entidad en un plazo que no excederá de diez día
 
 ### CAPITULO VI. DE LA INFORMACION Y VERIFICACION
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 55.
 
-Las dependencias deberán rendir a las que menciona el artículo 15 de esta Ley, en la forma y términos que ésta señale, la información relativa a las obras que realicen o contraten.
+Las dependencias deberán rendir a la Secretaría de Programación y Fomento Económico y a la Secretaría de la Contraloría General del Estado, la información relativa a las obras que realicen o contraten.
 
 Dichas dependencias podrán requerir en todo tiempo la documentación específica relativa a cualquier obra.
 
-Para tal efecto, las dependencias y entididades (sic) que menciona el artículo 15 de esta Ley, conservarán en forma ordenada y sistemática toda la documentación comprobatoria del gasto en dichas obras cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción.
+Para tal efecto, las dependencias que menciona el artículo 1 de esta Ley, conservarán en forma ordenada y sistemática toda la documentación comprobatoria del gasto en dichas obras cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción.
+
+La Secretaría de Programación y Fomento Económico y la Secretaría de la Contraloría General del Estado, establecerán los procedimientos que se requieran para el seguimiento y control del gasto que realicen las dependencias y entidades por concepto de adquisiciones de materiales, equipo y maquinaria o cualquier otro accesorio relacionado con la obra pública.
 
 ###### ARTICULO 56.
 
 Las dependencias a que se refiere el artículo 15 de esta Ley, establecerán los procedimientos de información que se requieran para el seguimiento y control del gasto que realicen las dependencias y entidades por concepto de adquisiciones de materiales, equipo y maquinaria o cualquier otro accesorio relacionado con la obra pública.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 57.
 
-Las dependencias y entidades controlarán todas las fases de la obra pública a su cargo. Para este efecto establecerán en consulta con las dependencias a que se refiere el artículo 15 de esta Ley, y de conformidad con los lineamientos que dicte el Ejecutivo del Estado, las normas y procedimientos de supervisión y control que se requieran.
+Las dependencias y entidades controlarán todas las fases de la obra pública a su cargo. Para tal efecto establecerán en consulta con la Secretaría de Programación y Fomento Económico y la Secretaría de la Secretaría de la Contraloría General del Estado, y de conformidad con los lineamientos que dicte el Ejecutivo del Estado, las normas y procedimientos de supervisión y control que se requieran.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 58.
 
-Las dependencias a que se refiere el artículo 15 de esta Ley, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que las obras y los servicios relacionados con ellas se realicen conforme a lo establecido en esta Ley y a los programas y presupuestos autorizados.
+La Secretaría de Programación y Fomento Económico y la Secretaría de la Contraloría General del Estado, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que las obras y los servicios relacionados con ellas se realicen conforme a lo establecido en esta Ley y a los programas y presupuestos autorizados.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 59.
 
-Las dependencias y entidades a que se refiere el artículo 1 de esta Ley, proporcionarán todas las facilidades necesarias a fin de que las dependencias a que se refiere el artículo 15 de esta Ley, pueda realizar el control de la obra pública.
+Las Dependencias y entidades a que se refiere el artículo 1 de esta Ley, proporcionarán todas las facilidades necesarias a fin de que las dependencias mencionadas en el artículo 5 de esta Ley, pueda (sic) realizar el control de la obra pública.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 60.
 
-Cuando las dependencias a que se refiere el artículo 15 de la presente Ley, tengan conocimiento de que una dependencia o entidad no se hubiere ajustado a las disposiciones de esta Ley y demás aplicables procederá como sigue:
+Cuando las dependencias a que se refiere el artículo 5 de esta Ley, tengan conocimiento de que una dependencia o entidad no se hubiere ajustado a las disposiciones de esta Ley y demás aplicables procederá como sigue:
 
-I. Las dependencias a que se refiere el artículo 15 de la presente Ley solicitarán las aclaraciones que estime pertinentes, o le comunicará la existencia de la violación, precisándole en qué consiste y podrá indicar las medidas que la dependencia o entidad deberá tomar para corregirla y fijará el plazo dentro del cual deberá subsanarla;
+I. Las dependencias a que se refiere el artículo 5 de esta Ley solicitarán las aclaraciones que estime pertinentes, o le comunicarpa (suc) la existencia de la violación, precisándole en qué consiste y podrá indicar las medidas que la dependencia o entidad deberá tomar para corregirla y fijará el plazo dentro del cual deberá subsanarla;
 
-II. Dentro del plazo que se hubiere señalado, la dependencia o entidad responsable dará cuenta a las dependencias a que se refiere el artículo 15 de la presente Ley, del cumplimiento que hubiere hecho.
+II. Dentro del plazo que se hubiere señalado, la dependencia o entidad dará cuenta a las dependencias a que se refiere el artículo 5 de la presente Ley, del cumplimiento que hubiere hecho.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 61.
 
-Las dependencias a que se refiere el artículo 15 de esta Ley, en el ejercicio de sus funciones que le otorga esta Ley, podrá realizar las visitas, inspecciones y verificaciones que estime pertinentes a la dependencia o entidad que realice la obra pública, así como solicitar de los funcionarios y empleados de las mismas y de los contratistas en su caso, todos los datos e informes relacionados con las obras.
+Las dependencias a que se refiere el artículo 5 de esta Ley, en el ejercicio de sus funciones que le otorga esta Ley, podrá realizar las visitas, inspecciones y verificaciones que estime pertinentes a la dependencia o entidad que realice la obra pública, así como solicitar de los funcionarios y empleados de las mismas y de los contratistas en su caso, todos los datos e informes relacionados con las obras.
 
 CAPlTULO VII
 
 DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 62.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, podrán ser sancionados por las dependencias a que se refiere el artículo 15 de esta Ley, con multa equivalente de diez a mil veces el salario mínimo diario vigente en el Estado en la fecha de la infracción.-
+A los contratistas que infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, podrán ser sancionados por la Secretaría de Programación y Fomento Económico, con multa equivalente de diez a mil veces el salario mínimo diario vigente en el Estado en la fecha de la infracción.
 
 Sin perjuicio de lo anterior los contratistas que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados con la suspensión o cancelación del registro en el Padrón de Contratistas de Obra Pública.
 
-A los funcionarios y empleados que infrinjan las disposiciones de esta Ley, las dependencias a que se refiere el artículo 15 de la presente Ley, los amonestará por escrito; y si la gravedad de la infracción lo amerita, el titular de la dependencia o entidad según el caso, con base en la información da (sic) las dependencias a que se refiere el artículo 15 de la presente Ley, podrá suspender o remover de su cargo al funcionario o empleado responsable.
+A los funcionarios y empleados que infrinjan las disposiciones de esta Ley, las dependencias a que se refiere el artículo 1 de la presente Ley, los amonestará por escrito; y si la gravedad de la infracción lo amerita, el titular de la dependencia o entidad, según el caso, con base en la información de las dependencias a que se refiere el artículo 1 de la presente Ley, podrán suspender o remover de su cargo al funcionario o empleado responsable.
+
+La Secretaría de la Contraloría General del Estado, cuando proceda podrá proponer a la dependencia o entidad contratante la rescisión administrativa del contrato en que incida la infracción.
+
+A los servidores públicos que infrinjan las disposiciones de esta Ley, la Secretaría de la Contraloría General del Estado aplicará conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos en el Estado de Zacatecas, las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 63.
 
-Tratándose de multas, las dependencias a que se refiere el artículo 15 de la presente Ley, las impondrá conforme a los siguientes criterios:
+Tratándose de multas, la Secretaría de Programación y Fomento Económico, las impondrá conforme a los siguientes criterios:
 
 I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de destruir prácticas tendientes a infringir, en cualquier forma las disposiciones de esta Ley o las que se dicten con base en ella;
 
@@ -571,7 +611,7 @@ II. Cuando sean varios los responsables, cada uno será sancionado con el total 
 
 III. Tratándose de reincidencia, se impondrá otra multa mayor, dentro de los límites señalados en el artículo 62 o se duplicará la multa inmediata anterior que se hubiere impuesto; y
 
-IV. En el caso en que persista la infracción, se impondrán multas como tratándose de reincidencia, por cada día que transcurra.
+IV. En el caso en que persista la infracción, se impondrpan (sic) multas como tratándose de reincidencia, por cada día que transcurra.
 
 ###### ARTICULO 64.
 
@@ -587,11 +627,11 @@ II. Transcurrido el término a que se refiere la fracción anterior, se resolver
 
 III. La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 66.
 
-Los funcionarios y empleados de las dependencias y entidades que, en el ejercicio de sus funciones, tengan conocimiento de infracciones a esta Ley o de las normas que de ella se deriven, deberán comunicarlo a las dependencias a que se refiere el artículo 15 de la presente Ley.
-
-La omisión a lo dispuesto en el párrafo anterior será sancionado administrativamente.
+Los servidores públicos de la dependencia y entidades que, en el ejercicio de sus funciones, tengan conocimiento de infracciones a esta Ley o de las normas que de ella se deriven, deberán comunicarlo a las dependencias a que se refiere el artículo 5 de esta Ley.
 
 ###### ARTICULO 67.
 
@@ -603,9 +643,11 @@ Los actos, convenios, contratos y negocios jurídicos que las dependencias y ent
 
 ### CAPITULO VIII. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 69.
 
-Cuando sea procedente la interposición del recurso de revocación en los términos de esta Ley, el interesado lo interpondrá ante la Secretaría de la Contraloría, dentro del término de quince días hábiles, contados a partir del día hábil siguiente al de la notificación de la resolución respectiva.
+En contra de las resoluciones que dicte la Secretaría de Programación y Fomento Económico, el interesado podrá interponer ante ésta, recurso de revocación en los términos de esta Ley, el interesado lo interpondrá ante la Secretaría de la Contraloría, dentro del término de quince días hábiles, contados a partir del día hábil siguiente al de la notificación de la resolución respectiva.
 
 La tramitación del recurso se sujetará a las normas siguientes:
 
@@ -617,13 +659,13 @@ III. Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de
 
 IV. Se tendrán por no ofrecidas las pruebas de documentos no se acompañan al escrito en que se interponga el recurso, salvo que obren en el expediente en que se haya originado la resolución recurrida;
 
-V. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente, De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta;
+V. La prueba pericial se desahogará con la presentación del dictamen dentro del plazo de Ley, la prueba será declarada desierta;
 
-VI. La Secretaría de la Contraloría podrá pedir que se le rindan los informes que estime convenientes por parte de quienes haya(sic) intervenido en el acto reclamado;
+VI. La Secretaría de Programación y Fomento Económico podrá pedir que se le rindan los informes que estime convenientes por parte de quienes hayan intervenido en el acto reclamado;
 
-VII. La Secretaría de la Contraloría acordará lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes o idóneas para dilucidar las cuestiones controvertidas. La Secretaría de la Controlaría ordenará el desahogo de las mismas dentro del plazo de quince días hábiles, el que será improrrogable; y
+VII. La Secretaría de Programación y Fomento Económico acordará lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberá ser pertinentes o idóneas para dilucidar las cuestiones controvertidas. La Secretaría de la Controlaría ordenará el desahogo de las mismas dentro del plazo de quince días hábiles, el que será improrrogable; y
 
-VIII. Vencido el plazo para la rendición de las pruebas la Secretaría de la Contraloría, dictará resolución en un término que no excederá de treinta días hábiles.
+VIII. Vencido el plazo para la rendición de las pruebas la Secretaría de Programación y Fomento Económico, dictará resolución en un término que no excederá de treinta días hábiles.
 
 TRANSITORIOS:
 
@@ -648,3 +690,9 @@ LIC. JOSE GUADALUPE CERVANTES CORONA.
 EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE MAYO DE 1986.
+
+UNICO.- El presente decreto entrará en vigor diez días siguientes a la fecha de su publicación en le periódico oficial, órgano de gobierno del estado.
