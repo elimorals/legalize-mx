@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1983-01-22"
+last_updated: "1983-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -245,11 +245,11 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 El ejercicio de las funciones propias del Poder Legislativo, se encomienda a una asamblea que se denominará: "Congreso del Estado libre y soberano de Tamaulipas."
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1983)</small>
 
 ###### Art. 26.
 
-El Congreso se integrará por catorce diputados electos según el principio de votación mayoritaria relativa, de cada uno de los distritos electorales uninominales existentes y hasta con cinco diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos votados en la circunscripción plurinominal, que constituye la entidad. Por cada Diputado propietario se elegirá un suplente.
+El Congreso se integrará por 15 Diputados electos según el principio de votación mayoritaria relativa, de cada uno de los Distritos Electorales uninominales existentes y hasta con 5 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos votados en la circunscripción plurinominal que constituye la entidad. Por cada Diputado Propietario se elegirá un Suplente.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1978)</small>
 
@@ -2020,3 +2020,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 22 DE ENERO DE 1983.
 
 UNICO.- El presente Decreto inicia su vigencia a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE AGOSTO DE 1983.
+
+1o.- Para los efectos de este decreto y por lo que se refiere al proceso electoral del año en curso, la Comisión Estatal Electoral instalará el Comité Distrital Electoral del Décimo Quinto Distrito, en un término que no exceda de tres días contados a partir de la vigencia del presente decreto.
+
+2o.- Para los efectos de este decreto y por lo que se refiere al proceso electoral del presente año, los partidos políticos podrán hacer la designación de sus comisionados y sus respectivos suplentes, ante la Comisión Estatal Electoral, para integrar el Comité Distrital Electoral del Décimo Quinto Distrito, en un término de quince días contados a partir de la vigencia del presente decreto.
+
+3o.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
