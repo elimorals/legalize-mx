@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "1997-01-30"
+last_updated: "1997-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -311,9 +311,9 @@ VIGESIMASEGUNDA ZONA REGISTRAL.- Que comprende los municipios de: Amatlán Tuxpa
 
 VIGESIMATERCERA ZONA REGISTRAL.- Que comprende los municipios de: Tlacotalpan (cabecera), Amatitlán, Angel R. Cabada, Lerdo de Tejada y Saltabarranca.
 
-> <small>(REFORMADO, G.O. 30 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-VIGESIMACUARTA ZONA REGISTRAL.- Que comprende los municipios de: Minatitlán (cabecera), Cosoleacaque, Chinameca, Hidalgotitlán, Jáltipan, Mecayapan, Oteapan, Soteapan, Uxpanapa y Zaragoza.
+VIGESIMACUARTA ZONA REGISTRAL.- Que comprende los municipios de: Minatitlán (cabecera), Cosoleacaque, Chinameca, Hidalgotitlán, Jáltipan, Mecayapan, Oteapan, Soteapan, Tatahuicapan de Juárez, Uxpanapa y Zaragoza.
 
 ###### ARTICULO 20.
 
@@ -756,3 +756,17 @@ Artículo Segundo. El Concejo de Administración Municipal, iniciará sus funcio
 Artículo Tercero. La cabecera municipal se determinará antes del nombramiento del Concejo municipal, o simultáneamente con él.
 
 Artículo Cuarto. Se derogan cualesquiera disposiciones que contravengan el presente Decreto.
+
+G.O. 20 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente DECRETO entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial". Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Concejo de Administración Municipal, iniciará sus funciones una vez que sus integrantes tomen la protesta de ley, y concluirá su período el 31 de diciembre de mil novecientos noventa y siete
+
+###### ARTICULO TERCERO.
+
+Se derogan cualesquiera disposiciones que contravengan el presente DECRETO.
