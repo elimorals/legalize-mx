@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-6914"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-12"
-last_updated: "1995-05-24"
+last_updated: "1995-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DE OAXACA (CIPPEO)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el miércoles 12 de febrero de 1992.
 
@@ -1895,35 +1895,45 @@ Los Consejos Distritales y Municipales, dentro de las 24 horas siguientes a su i
 
 Las autoridades estatales y municipales están obligadas a proporcionar a los organismos electorales, a petición de los presidentes respectivos, los informes, las certificaciones y el auxilio de las instituciones de seguridad pública para el cumplimiento de sus funciones y resoluciones.
 
-> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO CON EL TITULO Y ARTICULOS QUE LO INTEGRAN], P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
-# LIBRO CUARTO. DEL REGISTRO DE ELECTORES
+# LIBRO CUARTO. DE LA RENOVACION DE AYUNTAMIENTOS EN LOS MUNICIPIOS DE ELECCION POR USOS Y COSTUMBRES
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 109.
 
-(DEROGADO, P.O. 13 DE MAYO DE 1995)
+Las normas del presente libro rigen el procedimiento para la renovación de ayuntamientos en los municipios con comunidades que observan el régimen de usos y costumbres.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 110.
 
-(DEROGADO, P.O. 13 DE MAYO DE 1995)
+Para los efectos de este libro se entiende por comunidades de un municipio que observa el régimen de usos y costumbres, aquellas que desde tiempo inmemorial o cuando menos hace tres años, eligen a sus autoridades mediante mecanismos establecidos por su derecho consuetudinario.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 111.
 
-(DEROGADO, P.O. 13 DE MAYO DE 1995)
+Se reconocen los usos y costumbres de las comunidades a que se refiere el artículo anterior, en la elección de sus ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ### CAPITULO SEGUNDO. DEL CATALOGO GENERAL DE ELECTORES Y DEL PADRON ELECTORAL
 
 ###### ARTICULO 112.
 
-(DEROGADO, P.O. 13 DE MAYO DE 1995)
+Las comunidades a que se refiere este libro, respetando sus usos y costumbres, registrarán a sus candidatos directamente, sin intervención de partido político alguno, o bien a través de alguno de éstos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 113.
 
-(DEROGADO, P.O. 13 DE MAYO DE 1995)
+Para ser miembro de un ayuntamiento según el sistema de usos y costumbres, únicamente se requerirá ser reconocido y aceptado por la comunidad.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
 ### CAPITULO TERCERO. DE LA ACTUALIZACION DEL CATALOGO GENERAL DE ELECTORES Y PADRON ELECTORAL
 
@@ -2013,9 +2023,9 @@ Las autoridades estatales y municipales están obligadas a proporcionar a los or
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
 
-## TITULO PRIMERO. DE LA INSCRIPCION DE LOS CIUDADANOS EN EL REGISTRO FEDERAL DE ELECTORES
+## TITULO UNICO
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
@@ -2079,9 +2089,11 @@ d).- Calificación de las elecciones de Gobernador y Ayuntamientos.
 
 ### CAPITULO PRIMERO. DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 136.
 
-1.- Corresponde exclusivamente a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular.
+1.- Corresponde a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular.
 
 2.- Las candidaturas a diputados a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, se registrarán por fórmulas compuestas cada una por un propietario y un suplente, para los ayuntamientos las candidaturas se registrarán por planillas integradas por propietarios y suplentes. Ninguna persona podrá ser registrada como candidato a distintos cargos en el mismo proceso electoral.
 
@@ -4460,3 +4472,7 @@ Primero.- El presente decreto entrara en vigor el mismo día de su publicación 
 Segundo.- La designación de los Magistrados del Tribunal Estatal Electoral que deberán actuar en el proceso electoral de 1995, se efectuará a más tardar en julio de 1995. Hasta en tanto el Congreso del Estado no designe a los integrantes del Tribunal Estatal Electoral en términos de las fracciones 2 y 3 del artículo 246 seguirán en funciones los integrantes de dicho tribunal designados hasta antes de la entrada en vigor de este decreto.
 
 Tercero.- Las disposiciones contenidas en el inciso a) del artículo 63, entrarán en vigor a partir del proceso electoral de 1998; por lo que para el proceso electoral de 1995 el Presidente del Consejo General del Instituto Estatal Electoral, será electo por las dos terceras partes del Congreso, en base a una terna presentada por el Titular del Ejecutivo, hasta en tanto el Consejo General seguirá funcionando con el Presidente del Consejo y Consejeros Magistrados designados hasta antes de la entrada en vigor de este decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 1995.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
