@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2000-08-24"
+last_updated: "2000-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2000.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -2838,39 +2838,19 @@ VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcrip
 
 ### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 247.
 
-Además de la pena de prisión, se impondrá multa de cien a trescientos días multa:
+Comete el delito de falsedad en declaraciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+I. Quien, al declarar ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad en relación con los hechos que motivan la intervención de la autoridad, será sancionado con pena de 2 a 6 años de prisión y multa de 100 a 300 días.
 
-I.- Al que interrogado por alguna autoridad pública distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
+Si la falsedad en la declaración se refiere a las circunstancias o accidentes de los hechos que motivan la intervención de la autoridad, la pena será de uno a tres años de prisión, y de 50 a 150 días de multa.
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
+A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, simule pruebas o declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo, será sancionado con pena de 4 a 8 años de prisión si el delito, materia de la averiguación previa o del proceso no es grave, y con 5 a 10 años de prisión si el delito es grave.
 
-II.- Al que examinado por la autoridad judicial como testigo o perito, faltare a la verdad sobre el hecho que se trata de averiguar, o aspectos, cantidades, calidades u otras circunstancias que sean relevantes para establecer el sentido de una opinión o dictamen, ya sea afirmando, negando u ocultando maliciosamente la existencia de algún dato que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad, o que sirva para establecer la naturaleza o particularidades de orden técnico o científico que importen para que la autoridad pronuncie resolución sobre materia cuestionada en el asunto donde el testimonio o la opinión pericial se viertan. La sanción podrá ser hasta quince años de prisión para el testigo o perito falsos que fueran examinados en un procedimiento penal, cuando al reo se le imponga una pena de más de veinte años de prisión, por haber dado fuerza probatoria al testimonio o peritaje falsos;
-
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
-
-III.- Al que soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio o los obligue o comprometa a ello intimándolos o de otro modo;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado y faltare a la verdad en perjuicio de otro, negando ser suya la firma con que hubiere suscrito el documento o afirmando un hecho falso o alternando o negando uno verdadero, o sus circunstancias sustanciales.
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
-
-Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado;
-
-(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
-
-V. Al que rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad en todo o en parte.
-
-(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
-
-Al que incurra en las conductas previstas en las fracciones I y II de este artículo se le impondrá de cuatro a ocho años de prisión. Al que incurra en las conductas previstas en las fracciones III, IV y V, se le impondrá de dos a seis años de prisión.
+II. Al que examinado como perito por la autoridad judicial o administrativa faltare a la verdad dolosamente en su dictamen, se le impondrán de 4 a 8 años de prisión, y multa de 100 a 300 días así como inhabilitación para desempeñar profesión u oficio, empleo, cargo o comisión públicos, hasta por 6 años.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -5543,3 +5523,7 @@ DECRETO POR EL QUE SE ADICIONAN EL ARTICULO 281 SEXTUS AL CAPITULO UNICO DEL TIT
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 28 DE NOVIEMBRE DE 2000.
+
+ARTICULO TRANSITORIO.- La presente reforma entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
