@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1930-11-29"
+last_updated: "1931-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 1930.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 1931.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -99,6 +99,8 @@ El poder público del Estado se divide, para su ejercicio, en legislativo, ejecu
 
 Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se denominará Congreso del Estado de Campeche.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1931)</small>
+
 ### CAPITULO III.
 
 Del Poder Legislativo.
@@ -107,13 +109,13 @@ De su elección e instalación.
 
 ###### Art. 18.
 
-El Congreso del Estado se compondrá de representantes elegidos en su totalidad cada dos años, por los ciudadanos campechanos.
+El Congreso del Estado se compondrá de representantes elegidos en su totalidad cada tres años, por los ciudadanos campechanos.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1931)</small>
 
 ###### Art. 19.
 
-Se elegirá un Diputado Propietario y un suplente por cada quince mil habitantes o por una fracción que pase de siete mil. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra, elegirán sin embargo un Diputado propietario y un suplente pero siempre que cuenten cuando menos con tres mil quinientos habitantes, pues en caso contrario, quedará unido para los efectos de la elección al Municipio inmediatamente colindante que tenga menos número de habitantes, el que no reúna aquella condición.
+Se elegirá un Diputado Propietario y un Suplente por cada 12,000 habitantes o por cada fracción que pase de 6,000. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra elegirán sin embargo un Diputado Propietario y un Suplente.
 
 ###### Art. 20.
 
@@ -309,11 +311,11 @@ XXIII. Revisar y aprobar las cuentas de los ingresos y egresos de cada Municipio
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1931)</small>
 
 ###### Art. 44.
 
-Durante el receso del Congreso habrá una Diputación Permanente conpuesta (sic) de tres Diputados, nombrados por el Congreso la víspera de la clausura de sus sesiones a mayoría de votos de los Diputados presentes, se instalará el siguiente día y durará todo el tiempo del receso, aun cuando haya sesiones extraordinarias. Todos los demás Diputados serán suplentes de la Diputación Permanente y serán llamados al ser necesario de acuerdo con lo que sobre el particular disponga el Reglamento Interior del Congreso.
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco Diputados nombrados por el Congreso la víspera de la clausura de sus sesiones a mayoría de votos de los ciudadanos presentes, se instalará el siguiente día y durará todo el tiempo del receso, aun cuando haya sesiones extraordinarias. Todos los demás Diputados serán suplentes de la Diputación Permanente y podrán ser llamados, al ser necesario de acuerdo con lo que sobre el particular disponga el Reglamento Interior del Congreso.
 
 ###### Art. 45.
 
@@ -831,7 +833,7 @@ Art. segundo. Los componentes de los Ayuntamientos, los de las Juntas Municipale
 
 P.O. 30 DE AGOSTO DE 1921.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 15 DE OCTUBRE DE 1921.
 
@@ -923,19 +925,19 @@ III. Cuando siendo campechano por vecindad pierda ésta por avecindarse fuera de
 
 Los componentes de los Ayuntamientos, Juntas y Comisarios Municipales, durarán también un año en sus respectivos encargos y no podrán ser nuevamente electos sino dos años después de haber cesado en sus funciones.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 7 DE MARZO DE 1922.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 26 DE MAYO DE 1923.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 20 DE SEPTIEMBRE DE 1923.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 13 DE NOVIEMBRE DE 1924.
 
@@ -962,3 +964,11 @@ Unico. La presente reforma regirá en todo el territorio del Estado a partir del
 P.O. 29 DE NOVIEMBRE DE 1930.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 21 DE MARZO DE 1931.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS SEGUNDO Y TERCERO DEL DECRETO.</small>
+
+Artículo segundo: Las anteriores reformas surtirán sus efectos legales a partir de las próximas elecciones para Diputados al Congreso del Estado deberán efectuarse el siete de junio del año en curso.
+
+Artículo tercero: Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
