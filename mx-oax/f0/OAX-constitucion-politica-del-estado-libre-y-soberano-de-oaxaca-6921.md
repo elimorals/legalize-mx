@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1943-05-22"
+last_updated: "1944-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1944.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -257,17 +257,19 @@ El Poder público del Estado se divide, para el ejercicio de sus funciones, en L
 
 El Poder Legislativo se ejerce por una Asamblea que se denominará Legislatura del Estado y estará integrada por Diputados electos directa y popularmente.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
 ###### ARTICULO 32.
 
-Los Diputados durarán en su encargo cuatro años y no serán reelectos para el período inmediato. La Legislatura se renovará totalmente.
+La legislatura se renovará totalmente cada tres años, en los términos que dispone la Ley respectiva y de acuerdo con las bases que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
 ###### ARTICULO 33.
 
-Se elegirá un Diputado por cada cien mil habitantes o fracción mayor de cincuenta mil. Por cada Diputado Propietario se elegirá un suplente.
+Se elegirá un diputado por cada cien mil habitantes o fracción mayor de cincuenta mil. Por cada diputado propietario se elegirá un suplente.
+
+Los diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
 
 > <small>(REFORMADO, 29 DE OCTUBRE DE 1938)</small>
 
@@ -297,29 +299,29 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 ###### ARTICULO 39.
 
-Los presuntos Diputados, propietarios y suplentes presentarán sus credenciales a la Secretaría de la Legislatura, para que sean registradas y se pase lista de ellas en la primera junta previa que deberá efectuarse el día primero de septiembre. En esta junta se elegirá Mesa Directiva de las juntas previas, conforme a la fracción I del artículo 41 de esta Constitución.
+Los presuntos diputados, propietarios y suplentes presentarán sus credenciales a la Secretaría de la Legislatura, para que sean registradas y se pase lista de ellas en la primera Junta Previa que deberá efectuarse el día primero de septiembre. En esta o en una segunda Junta Previa, se elegirá Mesa Directiva de las Juntas Preparatorias, con forme a la Fracción I del Artículo 41 de esta Constitución.
 
-Si a la primera junta previa de renovación de la Legislatura, ninguno de los presuntos propietarios ni suplentes compareciere, los presentes, cualquiera que sea su número, compelerán, a los ausentes por documento público a concurrir dentro de un plazo que no excederá de siete días, apercibiéndolos de que si no lo hacen, se entenderá que no aceptan el cargo, y que se convocará a nuevas elecciones por sus respectivos distritos.
-
-En la segunda junta previa que con este motivo se efectúe, los presentes se declararán en junta permanente hasta completar el quórum necesario con los presuntos propietarios o suplentes. Pero si llegare el día quince de septiembre sin que ninguno de los presuntos se hubiere presentado, los presentes, si constituyeren quórum, harán la instalación de la Legislatura y convocarán en este mismo día a nuevas elecciones; y si no constituyeren quórum, llamarán a sus propios suplentes, sucesivamente y por el orden numérico de los distritos representados, hasta constituir quórum; y una vez constituido procederán a la instalación de la Legislatura y a la convocatoria respectiva de nuevos diputados.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
 ###### ARTICULO 40.
 
-Dentro de los cinco días siguientes a la celebración de la primera junta, o de la segunda en su caso, se efectuarán todas las que sean necesarias para la calificación de las credenciales, de manera que la Legislatura pueda instalarse el día quince del mismo mes de septiembre, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretarios, en los términos del Reglamento.
+Dentro de los cinco días siguientes a la celebración de la primera Junta Previa, o de la segunda, en su caso, se efectuarán todas las Juntas Preparatorias que sean necesarias para la calificación de las credenciales, de manera que la Lesgislatura (sic) pueda instalarse el día 15 del mismo mes de septiembre, en cuya fecha se hará la elección de Presidente y Vice-presidente y Secretarios, en los términos del Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1944)</small>
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
 ###### ARTICULO 41.
 
-Las Juntas Previas de la Legislatura se sujetarán a lo que disponga el Reglamento Interior el cual deberá comprender las bases siguientes:
+Las Juntas Previas y Preparatorias se sujetarán a lo que disponga el Reglamento Interior de la Legislatura, el cual deberá comprender las bases siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
 
-I. La instalación de las Juntas se hará por mayoría de los miembros que deben integrar la Legislatura, quienes asistirán a todas las Juntas eligiendo de entre ellos la Mesa Directiva que las presidirá;
+I. La Junta o Juntas Previas serán instaladas y dirigidas por la Comisión respectiva de la Legislatura, la que, una vez designada la Mesa Directiva de las Juntas Preparatorias hará entrega a ésta de todos los expedientes electorales.
+
+La elección de la Mesa Directiva de las Juntas Preparatorias se hará en escrutinio secreto y a mayoría absoluta de votos de los presuntos diputados;
 
 II. De los presuntos diputados, solamente asistirán quienes hayan registrado sus credenciales en la Secretaría de la Legislatura;
 
@@ -635,11 +637,11 @@ VII. Separarse del servicio activo con ciento ochenta días de anticipación al 
 
 VIII. Tener un modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
 ###### ARTICULO 69.
 
-El Gobernador rendirá la protesta de ley el primero de diciembre del año de su renovación, y en seguida tomará posesión de su encargo, que durará cuatro años. Nunca podrá ser reelecto para otro período constitucional.
+El Gobernador rendirá la protesta de Ley el primero de diciembre del año de su renovación y en seguida tomará posesión de su encargo, que durará seis años. Nunca podrá ser reelecto para otro período constitucional.
 
 ###### ARTICULO 70.
 
@@ -659,13 +661,13 @@ I. Si la falta ocurriere estando reunida la Legislatura en período ordinario o 
 
 II. Si la falta ocurriere estando la Legislatura en receso, se reunirá a más tardar dentro de los siete días siguientes, sin necesidad de convocatoria, y sólo para el efecto de hacer la elección en los términos de la fracción anterior; presidirá las sesiones el Presidente de la Diputación Permanente;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
 
-III. Si la falta ocurriere durante los dos primeros años del período constitucional del Gobernador, el substituto convocará a elecciones, de manera que el nuevamente electo, para completar el período del sustituido, tome posesión a más tardar a los tres meses de ocurrida la falta;
+III. Si la falta ocurriere durante los tres primeros años del período constitucional del Gobernador, el substituto convocará a elecciones, de manera que el nuevamente electo, para completar el período del substituido, tome posesión a más tardar a los tres meses de ocurrida la falta;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
 
-IV. Si la falta se presentara en los dos últimos años del periodo constitucional, el Gobernador sustituto elegido en los términos de la fracción l., que precede, terminará el período del Gobernador sustituido;
+IV. Si la falta se presentare en los tres últimos años del período constitucional, el Gobernador substituto elegido en los términos de la Fracción l que precede, terminará el período del Gobernador substituido;
 
 V. Si por cualquiera circunstancia, no pudieren reunirse la Legislatura o la Diputación Permanente y desaparecieren los Poderes Legislativo y Ejecutivo, el Presidente del Tribunal Superior de Justicia o el Magistrado que lo substituya, se hará cargo del Ejecutivo del Estado y convocará a elecciones de diputados y Gobernador, las cuales se efectuarán a los treinta días de que se haya producido la desaparición; los diputados electos instalarán la Legislatura a los quince días de efectuadas las elecciones, y el Gobernador tomará posesión a los quince días de instalada la Legislatura;
 
@@ -801,7 +803,7 @@ II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las fa
 
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
-IV. Impedir por motivo alguna, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
+IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
 V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de la persona de los reos.
 
@@ -1440,3 +1442,7 @@ UNICO.- El presente decreto comenzará a surtir sus efectos legales en la fecha 
 P.O. 22 DE MAYO DE 1943.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 17 DE JUNIO DE 1944.
+
+Unico.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
