@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2003-09-19"
+last_updated: "2004-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -100,15 +100,21 @@ Para el cumplimiento de sus funciones, el Estado se dividirá en Distritos, cual
 
 Garantías Individuales.
 
-#### SECCION II.
-
-El Ayuntamiento y el Concejo Municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
-
 #### SECCION I.
 
 La División Territorial.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+#### SECCION III.
+
+La Competencia Municipal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO PRIMERO.
+
+Bases Generales.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1068,15 +1074,15 @@ En el caso de que el Congrero (sic) del Estado se halle en receso, la Diputació
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 70.
 
-Durante los recesos del Congreso habrá una Diputación Permanente que se integrará con ocho diputados propietarios y ocho suplentes, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones o en el período de instalación de la legislatura, en la forma que determine la Ley.
+Durante los recesos del Congreso habrá una Diputación Permanente que se integrará con once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos secretarios y siete vocales, además de once suplentes, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones o en el período de instalación de la legislatura, en la forma que determina la Ley.
 
 ###### Artículo 71.
 
-Serán Presidente y Secretarios de esta Diputación el primero y los segundos de los nombrados para formarla, por el orden de su nombramiento. Las faltas de aquellos, se cubrirán por los suplentes respectivos.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2004)
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -1640,11 +1646,11 @@ De la Instrucción Pública.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
-#### SECCION III.
+#### SECCION II.
 
-La Competencia Municipal.
+El Ayuntamiento y el Concejo Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 108.
 
@@ -2040,11 +2046,11 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO III.
+### CAPITULO IV.
 
-De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
+La Justicia Constitucional Local.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 148.
 
@@ -2108,13 +2114,13 @@ Los Magistrados y Jueces recibirán una remuneración adecuada e irrenunciable, 
 
 Esta remuneración les será cubierta en los términos que establezcan las leyes, con todas las prestaciones y en igual cantidad como si estuviesen en activo, en los casos de pensión, jubilación, retiro obligatorio e incapacidad declarada. En caso de defunción, de ella disfrutarán sus beneficiarios.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-La Justicia Constitucional Local.
+De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
 ###### Artículo 154.
 
@@ -2160,13 +2166,13 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 Los daños causados por error judicial grave, así como los que sean consecuencia del funcionamiento anormal de la administración de justicia, darán derecho a una indemnización a cargo del Estado, conforme a las leyes.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
-
-### CAPITULO II.
-
-El Gobierno Municipal.
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+### CAPITULO I.
+
+Bases Fundamentales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158.
 
@@ -2244,7 +2250,7 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional se regirá en todos los casos por la jurisprudencia local.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
 
 ## TITULO SEXTO.
 
@@ -2252,11 +2258,9 @@ El Municipio Libre.
 
 > <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-Bases Fundamentales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+El Gobierno Municipal.
 
 ###### Artículo 158-A.
 
@@ -2352,13 +2356,7 @@ III. Si se trata de la creación de un nuevo Municipio deberán, por lo menos, s
 
 IV. Podrá crearse un nuevo Municipio mediante fusión o división de los existentes cuando así lo exija el interés público.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO SEGUNDO.
-
-La Hacienda Municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-K.
 
@@ -2448,7 +2446,13 @@ En la ley o en el convenio se preverá la correspondiente transferencia de medio
 
 Los supuestos contenidos en este artículo se fundamentarán en una interpretación funcional de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO SEGUNDO.
+
+La Hacienda Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-P.
 
@@ -2505,12 +2509,6 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO PRIMERO.
-
-Bases Generales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-U.
 
@@ -2709,6 +2707,8 @@ II. La resolución del Congreso podrá ser impugnada en los términos del artíc
 III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado o el equivalente al veinte por ciento de los integrantes de los Ayuntamientos o Concejos Municipales, podrán impugnar por vía de controversia constitucional, si procede o no que el Gobierno Estatal asuma la función o servicio público municipal de que se trate, en los términos del artículo 158 de esta Constitución.
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEPTIMO.
 
@@ -2946,7 +2946,7 @@ El Estado establecerá instituciones especiales para el tratamiento de menores i
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
 
-###### ARTICULO 175.
+###### Artículo 175.
 
 La Ley determinará las profesiones que necesitan título para que sean ejercitadas en el Estado, las condiciones que deban llenarse para obtenerlo y las autoridades que deban expedirlo; asimismo, regulará las peculiaridades propias del régimen jurídico de los colegios de profesionales cuya estructura interna y funcionamiento deberán ser democráticos.
 
@@ -2964,7 +2964,7 @@ Las autoridades municipales, se sujetarán estrictamente a las facultades que le
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
-###### ARTICULO 178.
+###### Artículo 178.
 
 El Estado promoverá la conservación y el enriquecimiento del patrimonio histórico, cultural y artístico de la entidad y de los bienes y valores que lo integran, cualquiera que sea su régimen jurídico y su titularidad. La ley determinará los instrumentos necesarios para el logro de estos objetivos.
 
@@ -3625,3 +3625,7 @@ En todo caso, la ley de la materia establecerá las modalidades temporales para 
 ###### ARTÍCULO TERCERO.
 
 En todo caso, el organismo público autónomo a que se refiere la fracción VII del artículo 7º de la Constitución, se regirá para su establecimiento a partir de principios de eficiencia, economía presupuestal, la no duplicidad innecesaria de funciones, así como el aprovechamiento de las estructuras actuales de la documentación pública en el estado.
+
+P.O. 27 DE FEBRERO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
