@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1989-11-18"
+last_updated: "1992-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -467,17 +467,17 @@ Si no hubiere la mayoría requerida para la instalación del Congreso, o para qu
 
 Para la discusión y votación de todo proyecto de ley o decreto, se requiere la concurrencia de más de la mitad del número total de diputados que integren la Legislatura.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
 
 ###### Art. 48.
 
-El Congreso se reunirá el día treinta de septiembre de cada año para celebrar sesiones ordinarias en las cuales se ocupará del estudio, discusión y aprobación de las iniciativas de ley que se le presenten y de la resolución de los demás asuntos que le corresponden conforme a esta Constitución.
+El Congreso se reunirá en dos períodos ordinarios de sesiones, el primero del 30 de septiembre al 31 de diciembre y el segundo del 15 de mayo al 30 de junio de cada año.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
 
 ###### Art. 49.
 
-El período ordinario concluirá el treinta y uno de diciembre del mismo año y no podrá prorrogarse sino en el caso previsto en el artículo 59.
+Los períodos ordinarios no podrán prorrogarse sino en el caso previsto en el Artículo 59.
 
 ###### Art. 50.
 
@@ -2154,3 +2154,7 @@ P.O. 18 DE NOVIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
