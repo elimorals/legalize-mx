@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1934-08-25"
+last_updated: "1934-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1934
+
+(DECRETO NUM. 86)
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -51,11 +53,9 @@ El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobier
 
 El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander, con las limitaciones que le hizo el Tratado de Guadalupe.
 
-AArt. 3o.- El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. Las leyes secundarias respectivas determinarán la extensión de cada Distrito y la organización del Municipio conforme a las bases que la Constitución General establece.
+###### Art. 3o.
 
-###### Art. 3º.
-
-El período constitucional para los Diputados electos el día siete de noviembre último, comenzará a contarse desde el día primero de enero de mil novecientos veintiuno.
+El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. Las leyes secundarias respectivas determinarán la extensión de cada Distrito y la organización del Municipio conforme a las bases que la Constitución General establece.
 
 ###### Art. 4o.
 
@@ -213,7 +213,7 @@ La soberanía del Estado reside en el pueblo, y a nombre de este la ejerce el Po
 
 ###### Art. 21.
 
-El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Constitución.
+El Estado adopta la forma de Gobierno establecida en el artículo 4° de esta Constitución.
 
 ###### Art. 22.
 
@@ -249,31 +249,37 @@ El Congreso se compondrá de siete Diputados propietarios, por cada Diputado Pro
 
 La elección de Diputados será directa y se verificará en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1934)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
 
 ART. 28.- Para ser Diputado Propietario o Suplente, se requiere:
 
-I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos, esto es, cuando no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos.
+I.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
-II.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años; y
+II.- Poseer suficiente instrucción.
 
-III.- Poseer suficiente instrucción.
+(REFORMADO, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1934)</small>
+ART. 29.- No podrán ser electos Diputados:
 
-ART. 29.- No pueden ser electos diputados:
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia y el Procurador de Justicia.
 
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal y el Procurador General de Justicia.
+II.- Los Diputados y Senadores al Congreso de la Unión, que hubieren estado en ejercicio, sí no han transcurrido por lo menos dos años, contados desde la fecha en que conforme a la Ley haya terminado el período para el cual fueron electos.
 
-II.- Los Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, los Magistrados, Jueces y Empleados de la Federación en el Estado.
+III.- Los Magistrados, Jueces y Empleados de la Federación en el Estado.
 
-III.- Los militares que hayan estado en servicio dentro de los cuatro meses anteriores a la fecha de le elección.
+IV.- Los Militares que hayan estado en servicio dentro de los diez meses anteriores a la fecha de la elección.
 
-IV.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión.
+V.- Los que hayan sido condenados por algún delito contra la propiedad o grave contra las personas.
 
-V.- Los ministros de cualquier culto, estén o no en ejercicio; y
+VI.- Los Ministros de cualquier culto, estén o no en ejercicio.
 
-VI.- Los Presidentes Municipales, los Munícipes, los Secretarios de Ayuntamiento y los Jueces, en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
+VII.- Los Presidentes Municipales si han estado desempeñando sus funciones dentro de los diez meses anteriores al día de la elección.
+
+VIII.- Los Secretarios de Ayuntamiento, los Jueces y empleados del Estado y Municipales, todos ellos en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
+
+IX.- Nunca podrán ser electos los que alguna vez hubieren desempeñado el cargo de Diputados al Congreso Local.
+
+Esta prohibición no comprende a los Suplentes.
 
 ###### Art. 28.
 
@@ -719,19 +725,19 @@ Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o
 
 El Poder Ejecutivo se deposita en un funcionario que se denominará "GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS" y que será electo el mismo día en que se verifiquen las elecciones de los Diputados. La elección de Gobernador será directa en los términos que señale la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1934)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1934)</small>
 
 ART. 79.- Para ser Gobernador, se requiere:
 
-I.- Que el candidato esté en pleno goce de los derechos de cuidadanía, de acuerdo con los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos, esto es, cuando no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de dichos derechos.
+I.- Ser mexicano por nacimiento.
 
-II.- Ser mexicano por nacimiento.
+II.- Ser ciudadano del Estado, en ejercicio de sus derechos con cinco años de residencia por lo menos en su territorio, o uno si fuere nacido en él.
 
-III.- Ser ciudadano del Estado, en ejercicio de sus derechos, con cinco años de residencia, por lo menos, en su territorio o uno si fuere nacido en él.
+III.- Ser mayor de veinticinco años de edad para el día de la elección.
 
-IV.- Ser mayor de veinticinco años de edad en el día de la elección; y
+IV.- Poseer suficiente instrucción.
 
-V.- Poseer suficiente instrucción.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1934)</small>
 
 ###### Art. 79.
 
@@ -747,25 +753,25 @@ IV. Poseer suficiente instrucción.
 
 ###### Art. 80.
 
-No pueden obtener el cargo de Gobernador del Estado por elección:
+No pueden obtener el cargo de Gobernador por elección:
 
-I. Los Ministros de cualquier culto, aun hayan renunciado su ministerio.
+I. Los Ministros de cualquier culto aún cuando hayan renunciado a su ministerio.
 
-II. Los que tengan mando de fuerza en el Estado, si lo han conservado dentro de los ciento ochenta días inmediatos a la elección.
+II. Los que tengan mando de fuerzas en el Estado si lo han conservado dentro del año inmediato a la elección.
 
-III. Los militares que no se hayan separado del servicio activo, por lo menos un año antes de la elección.
+III. Los militares que no se hayan separado del servicio por lo menos dos años antes de la elección.
 
-IV. Los que desempeñen algún cargo o comisión de otros Estados o de la Federación, a menos que se separen de ellos un año antes de la elección.
+IV. Los que desempeñen algún cargo o comisión de otros Estados, de la Federación o de esta última a menos que se separen de ella un año antes de la elección.
 
-V. Los Magistrados del Supremo Tribunal, Procurador General de Justicia, ni el Secretario General de Gobierno o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos noventa días antes de la elección.
+V. Los Magistrados del Supremo Tribunal de Justicia, el Secretario Gral. de Gobierno o quien haga sus veces, si no se encuentran separados de su cargo cuando menos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1934)</small>
+(REFORMADO, P.O. 29 DE AGOSTO DE 1934)(REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
 
 ###### Art. 81.
 
-El día cinco de febrero inmediato a la elección entrará el Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo ni por nueva elección ni con el carácter de provisional o interino.
+El día cinco de Febrero inmediato a la elección entrará el Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo ni por nueva elección ni con el carácter de provisional o interina.
 
-Tampoco podrá ser electo munca (sic) Diputado al Congreso del Estado.
+Tampoco podrá ser electo al Congreso del Estado.
 
 ###### Art. 82.
 
@@ -1189,11 +1195,11 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará, 
 
 IV. Los Ayuntamientos tendrán personalidad jurídica para contratar y obligarse. Los Síndicos serán los representantes de la personalidad jurídica de los Ayuntamientos.
 
-> <small>(ADICIONADA [N. DE E REFORMADA], P.O. 27 DE JUNIO DE 1934)</small>
+(REFORMADA, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
 
-V.- No podrá ser electo miembro de un Ayuntamiento el que hubiere desempeñado otro cargo de elección popular del mismo Municipio, si no ha transcurrido un año por lo menos contado desde la fecha en que conforme a la Ley feneció el período para el cual fue electo.
+V.- No podrá ser electo miembro de un Ayuntamiento el que hubiere desempeñado otro cargo de elección popular del mismo Municipio, si no ha transcurrido un año por lo menos, contado desde la fecha en que conforme a la Ley feneció el período para el cual fue electo.
 
-El que haya desempeñado las funciones de Presidente Municipal sufriendo faltas, no podrá desempeñar de ningún modo este puesto en el período siguiente;
+El que haya desempeñado las funciones de Presidente Municipal supliendo faltas, no podrá desempeñar de ningún modo este puesto en el período siguiente;
 
 VI. Por cada miembro propietario del Ayuntamiento se eligirá un suplente.
 
@@ -1387,7 +1393,7 @@ Esta Constitución podrá ser reformada y adicionada; pero para que las adicione
 
 ###### Art. 166.
 
-Esta Constitución no perderá su fuerza ni vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público; se establezca en el Estado un Gobierno contrario a los principios que ella preconiza, tan luego como el pueblo recobre su libertad, volverá a su observancia y con arreglo a las Leyes serán juzgados los que hubieren figurado en el Gobierno emanado de la rebelión.
+Esta Constitución no perderá su fuerza ni vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público, se establezca en el Estado un Gobierno contrario a los principios que ella preconiza, tan luego como el pueblo recobre su libertad, volverá a su observancia y con arreglo a las Leyes serán juzgados los que hubieren figurado en el Gobierno emanado de la rebelión.
 
 ###### Art. 167.
 
@@ -1506,3 +1512,17 @@ TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de su publica
 P.O. 25 DE AGOSTO DE 1934.
 
 TRANSITORIO.- Este Decreto en cuanto no tenga relación con los preceptos de la Constitución Política de la República, que en el mismo se invocan, principiará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 71)
+
+REPUBLICADO, P.O. 29 DE AGOSTO DE 1934.
+
+TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 72)
+
+TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 1934. (DECRETO NUM. 86)
+
+TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
