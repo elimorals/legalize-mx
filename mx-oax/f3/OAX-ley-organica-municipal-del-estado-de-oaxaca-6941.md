@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-6941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-11-20"
-last_updated: "1994-03-26"
+last_updated: "1995-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial, Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 20 de Noviembre de 1993.
 
@@ -317,7 +317,7 @@ Si tomadas las medidas que se mencionan en el artículo anterior, el ayuntamient
 
 ###### ARTICULO 34.
 
-Son atribuciones de los ayuntamientos:
+Son atribuciones de los Ayuntamientos:
 
 I.- Expedir y reformar las ordenanzas, bandos municipales así como reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, necesarias para su organización, la prestación de los servicios públicos y en general para el cumplimiento de sus fines;
 
@@ -405,7 +405,13 @@ XLII.- Vigilar que se envíen semestralmente al Congreso del Estado los document
 
 XLIII.- Solicitar al Congreso del Estado, por conducto del Ejecutivo, autorización para contratar créditos destinados a obras de beneficio general.
 
-XLIV.- Las demás que les señalen las Leyes y Reglamentos Municipales.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+
+XLIV.- Incorporar en sus proyectos de Leyes de Ingresos Municipales, descuentos sobre el cobro de derechos a favor de los Pensionados, Jubilados y Pensionistas, que tienen su domicilio físico en el ámbito de la jurisdicción del municipio respectivo; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+
+XLV.- Las demás que les señalen las Leyes y Reglamentos Municipales.
 
 ###### ARTICULO 35.
 
@@ -1822,3 +1828,7 @@ Y lo comunico a usted para su conocimiento y fines consiguientes. SUFRAGIO EFECT
 P.O. 26 DE MARZO DE 1994.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
