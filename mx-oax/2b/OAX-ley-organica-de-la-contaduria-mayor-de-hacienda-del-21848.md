@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-contaduria-mayor-de-hacienda-del-21848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-08-23"
-last_updated: "1995-08-23"
+last_updated: "2001-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el miércoles 23 de agosto de 1995.
 
@@ -98,7 +98,9 @@ Para ser Contador Mayor de Hacienda se requiere:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- Poseer título de Licenciado en Contaduría Pública, o de Economía o Administración de Empresas o Contador Público Auditor;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2001)</small>
+
+II.- Poseer Título de Licenciatura, Especialización, o Licenciatura afín a la materia de esta Ley;
 
 III.- Acreditar honradez y capacidad en el ejercicio de su profesión y en las funciones públicas desempeñadas y no haber sido condenado por sentencia ejecutoria por delito intencional que amerite pena privativa de libertad, ni juicio de responsabilidad por delito de carácter oficial;
 
@@ -411,3 +413,9 @@ DIPUTADO SECRETARIO
 EFRAIN ARTURO LOPEZ ALVARADO
 
 DIPUTADO SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico oficial del Gobierno del Estado.
