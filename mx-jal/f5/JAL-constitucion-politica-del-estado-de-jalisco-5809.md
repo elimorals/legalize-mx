@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2004-04-29"
+last_updated: "2004-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -257,7 +257,9 @@ La ley determinará las reglas para la organización, funcionamiento y jerarquí
 
 V. Los consejeros electorales serán electos sucesivamente, mediante el voto de las dos terceras partes de los integrantes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa consulta a la sociedad, de conformidad con lo que establezca la ley. Conforme al mismo procedimiento, por cada consejero electoral propietario, se elegirá a su suplente.
 
-Los consejeros electorales durarán en su cargo cuatro años, podrán ser reelectos para un período inmediato; no podrán tener ningún otro empleo, cargo o comisión, que implique subordinación, ya sea directa o indirecta, hacia alguna persona o entidad, pública o privada, que pueda lesionar el desempeño de su cargo, conforme a los principios rectores de la función electoral que establece esta Constitución y tendrán una remuneración igual a la de los magistrados del Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+Los consejeros electorales durarán en su cargo cuatro años, podrán ser reelectos para un período inmediato y no podrán tener ningún otro empleo, cargo o comisión, que implique subordinación, ya sea directa o indirecta, hacia alguna persona o entidad, pública o privada, que pueda lesionar el desempeño de su cargo, conforme a los principios rectores de la función electoral que establece esta Constitución.
 
 No podrán ser consejeros quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, dentro de los cinco años anteriores a la fecha en que deban ser electos por el Congreso.
 
@@ -379,7 +381,7 @@ VII. Las autoridades estatales y municipales para la preservación de los derech
 
 VIII. Los poderes del Estado, municipios y sus dependencias y entidades que ejerzan presupuesto público estatal, deberán publicar mensualmente en forma pormenorizada sus estados financieros.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ## TITULO CUARTO
 
@@ -523,7 +525,7 @@ Para obtener esta concurrencia, los diputados presentes deberán reunirse el dí
 
 No se necesita esta declaración para los diputados que no hayan rendido la protesta de ley.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
 ### CAPITULO II. De la iniciativa y formación de las leyes
 
@@ -1139,7 +1141,9 @@ III. Poseer el día de la elección, con antigüedad mínima de diez años, tít
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Vicepresidente Municipal o Regidor de ayuntamiento, durante el año previo al día de la elección;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento, durante el año previo al día de la elección; y
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día en que tenga verificativo la elección.
 
@@ -1259,7 +1263,7 @@ El pleno del Tribunal elegirá, de entre sus miembros, en los términos y bajo l
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO III. De la hacienda y del patrimonio municipal
+### CAPITULO I. Del gobierno municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1339,9 +1343,9 @@ Una vez decretada la conclusión de algún proceso electoral, el Tribunal Electo
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Del gobierno municipal
+### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 72.
 
@@ -1353,9 +1357,9 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 ## TITULO SEPTIMO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
+### CAPITULO III. De la hacienda y del patrimonio municipal
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 73.
 
@@ -1443,7 +1447,7 @@ Los concejos municipales y sus integrantes tendrán las mismas facultades y obli
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. Del juicio político
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1477,17 +1481,23 @@ IV. El procedimiento y condiciones para que el gobierno estatal asuma una funci�
 
 V. Las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de los incisos III y IV anteriores.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 78.
 
-Los reglamentos y demás disposiciones de carácter general, impersonal y abstracto que expida el Cabildo, que sean trascendentales para el orden público o el interés social, en los términos que establezca la ley, con excepción de los que tengan carácter contributivo, serán sometidos a referéndum municipal derogatorio, total o parcial, siempre y cuando, dentro de los treinta días siguientes a la fecha de su publicación lo solicite, ante el Consejo Electoral, un número de ciudadanos, debidamente identificados, que represente cuando menos a un cinco por ciento de los inscritos en el Registro Nacional de Ciudadanos en los municipios cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, bastará con que lo solicite un tres por ciento de los ciudadanos inscritos.
+Los reglamentos y demás disposiciones de carácter general, impersonal y abstracto que expida el Ayuntamiento, que sean trascendentales para el orden público o el interés social, en los términos que establezca la ley, con excepción de los que tengan carácter contributivo, serán sometidos a referéndum municipal derogatorio, total o parcial, siempre y cuando, dentro de los treinta días siguientes a la fecha de su publicación lo solicite, ante el Consejo Electoral, un número de ciudadanos, debidamente identificados, que represente cuando menos a un cinco por ciento de los inscritos en el Registro Nacional de Ciudadanos en los municipios cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, bastará con que lo solicite un tres pro (sic) ciento de los ciudadanos inscritos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Las disposiciones sometidas al proceso de referéndum municipal, sólo podrán ser derogadas si en dicho proceso participa cuando menos el cuarenta por ciento de los inscritos en el Registro Nacional de Ciudadanos correspondiente al municipio y, de los mismos, más del cincuenta por ciento emite su voto en contra.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
 Si dentro de los primeros treinta días no se solicita el proceso de referéndum, la disposición iniciará su vigencia.
 
-Si en dicho período se solicitare referéndum, la vigencia de las disposiciones materia del proceso deberá quedar en suspenso, salvo los casos de urgencia determinada por el Cabildo.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+Los reglamentos y demás disposiciones de carácter general, impersonal y abstracto que expida el Ayuntamiento.
 
 Cuando la solicitud a que se refiere el párrafo anterior posea efectos suspensivos, la vigencia de dichas disposiciones comenzará una vez concluido el proceso de referéndum, en caso de que éste no fuera derogatorio.
 
@@ -1653,7 +1663,7 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO II. Del juicio político
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1693,7 +1703,7 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 ## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1745,7 +1755,7 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 En los juicios del orden civil no hay fuero ni inmunidad.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ### CAPITULO IV. Del procedimiento administrativo
 
@@ -1857,7 +1867,7 @@ No se requerirá declaración de procedencia del Congreso, cuando alguno de los 
 
 Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO I. Prevenciones generales
 
@@ -1881,11 +1891,11 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. De las reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1983,13 +1993,13 @@ Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndu
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+
 ###### Art. 119.
 
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
-
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2474,3 +2484,13 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Con el objetivo de dar conocimiento de estas reformas a las comunidades indígenas, el titular del Poder Ejecutivo Estatal dispondrá que el texto íntegro de este decreto se traduzca a las lenguas de los pueblos indígenas radicados en el Estado, al igual que se establezcan los mecanismos para su plena difusión.
 
 CUARTO.- Los Poderes del Estado y sus ayuntamientos, deberán realizar las adecuaciones necesarias a las leyes y reglamentos para el cumplimiento de lo establecido en el presente decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Envíese el presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, junto con los debates que hubiere provocado, a los ayuntamientos del Estado, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
+
+SEGUNDO.- El presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO.- Lo dispuesto en el artículo 59, con relación a la prohibición para ser electo Magistrado a los que hayan sido vicepresidentes municipales, seguirá aplicando durante el año siguiente al término de las administraciones municipales del actual periodo Constitucional 2000-2003.
+
+CUARTO.- La prohibición contenida en el artículo 59, con relación a los síndicos, no aplicará para los síndicos que se desempeñen en el actual periodo Constitucional 2000-2003.
