@@ -4,7 +4,7 @@ identifier: "LCE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-27"
-last_updated: "1993-07-27"
+last_updated: "1993-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCE"
 
 LEY DE COMERCIO EXTERIOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 27 de julio de 1993.
 
@@ -544,9 +544,11 @@ III. Declarar concluida la investigación sin imponer cuota compensatoria.
 
 La resolución final deberá notificarse a las partes interesadas y publicarse en el Diario Oficial de la Federación.
 
-###### ARTICULO 60.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-Dictada una cuota compensatoria definitiva, las partes interesadas podrán solicitar a la Secretaría que resuelva si determinada mercancía está sujeta a dicha cuota compensatoria. En este caso se deberá dar respuesta al solicitante conforme al procedimiento establecido en el reglamento, la cual tendrá el carácter de resolución final y se publicará en el Diario Oficial de la Federación.
+###### Artículo 60.
+
+Dictada una cuota compensatoria definitiva, las partes interesadas podrán solicitar a la Secretaría que resuelva si determinada mercancía está sujeta a dicha cuota compensatoria. En el caso, la Secretaría dará participación a las demás partes interesadas y deberá dar respuesta al solicitante conforme al procedimiento establecido en el Reglamento, la cual tendrá el carácter de resolución final. La resolución se notificará a las partes interesadas y se publicará en el Diario Oficial de la Federación.
 
 #### Sección tercera. Audiencia conciliatoria
 
@@ -584,9 +586,11 @@ Los importadores de una mercancía idéntica o similar a aquélla por la que deb
 
 Las cuotas compensatorias definitivas estarán vigentes durante el tiempo y en la medida necesarios para contrarrestar la práctica desleal que esté causando daño o amenaza de daño a la producción nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 68.
 
-Las cuotas compensatorias definitivas deberán revisarse anualmente a petición de parte y podrán revisarse en cualquier tiempo de oficio por la Secretaría. En todo caso, las resoluciones que declaren el inicio y la conclusión de la revisión deberán publicarse en el Diario Oficial de la Federación. En el procedimiento de revisión las partes interesadas podrán asumir los compromisos a que se refiere el artículo 72 de esta Ley.
+Las cuotas compensatorias definitivas deberán revisarse anualmente a petición de parte interesada y podrán revisarse en cualquier tiempo de oficio por la Secretaría. En todo caso las resoluciones que declaren el inicio y la conclusión de la revisión deberán notificarse a las partes interesadas y publicarse en el Diario Oficial de la Federación. En el procedimiento de revisión las partes interesadas tendrán participación y podrán asumir los compromisos a que se refiere el artículo 72 de esta Ley.
 
 Las resoluciones correspondientes que confirmen, modifiquen o revoquen cuotas compensatorias definitivas tendrán también el carácter de resoluciones finales y se someterán previamente a la opinión de la Comisión.
 
@@ -654,9 +658,11 @@ Si llegaran a confirmarse o revocarse las medidas provisionales en la resolució
 
 ### CAPITULO IV. Otras disposiciones comunes a los procedimientos
 
-###### ARTICULO 80.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-La Secretaría otorgará a las partes interesadas acceso oportuno para examinar toda la información pertinente que obre en el expediente administrativo para la presentación de sus argumentos. La información confidencial sólo estará disponible a los representantes legales acreditados de las partes interesadas en la investigación administrativa, salvo la información comercial reservada cuya divulgación pudiera causar un daño sustancial e irreversible al propietario de dicha información, y la información gubernamental confidencial.
+###### Artículo 80.
+
+La Secretaría otorgará a las partes interesadas acceso oportuno para examinar toda la información que obre en el expediente administrativo para la presentación de sus argumentos. La información confidencial sólo estará disponible a los representantes legales acreditados de las partes interesadas en la investigación administrativa, salvo la información comercial reservada cuya divulgación pudiera causar un daño sustancial e irreversible al propietario de dicha información, y la información gubernamental confidencial.
 
 Los representantes legales de las partes interesadas que tengan acceso a la información confidencial no podrán utilizarla para beneficio personal ni difundirla. La contravención a este precepto será sancionada por las disposiciones de esta Ley, independientemente de las sanciones de orden civil y penal que procedieran.
 
@@ -820,23 +826,33 @@ III. Si se interponen recursos sucesivos contra la resolución que determinó la
 
 IV. Cuando se interponga el juicio ante la Sala Superior del Tribunal Fiscal de la Federación, impugnando la resolución dictada al resolver el recurso de revocación interpuesto contra la determinación de la cuota compensatoria definitiva, impugne posteriormente también la resolución que se dicte al resolver el recurso contra los actos de aplicación, deberá ampliar la demanda inicial dentro del término correspondiente para formular esta última impugnación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 97.
 
-En relación a las resoluciones y actos a que se refiere la fracción V del artículo 94, cualquier interesado podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados o convenios comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:
+En relación a las resoluciones y actos a que se refieren las fracciones IV, V, VI y VIII del Artículo 94, cualquier parte interesada podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:
 
-I. No procederá el recurso de revocación previsto en el artículo 94 ni el juicio ante la Sala Superior del Tribunal Fiscal de la Federación contra la resolución de la Secretaría que determina cuotas compensatorias definitivas o actos que las apliquen, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+I.- No procederá el recurso de revocación previsto en el Artículo 94 ni el juicio ante la Sala Superior del Tribunal Fiscal de la Federación contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
 
 II. Sólo se considerará como definitiva la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos, y
 
 III. Se observará lo establecido en el artículo 238 del Código Fiscal de la Federación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 98.
 
-Además de lo dispuesto en los artículos 96 y 97, los recursos relacionados con las resoluciones a que se alude en la fracción V del artículo 94, se sujetarán a las siguientes reglas:
+Además de lo dispuesto en los Artículos 96 y 97, los recursos relacionados con las resoluciones a que se alude en las fracciones IV, V, VI y VIII del Artículo 94, se sujetarán a las siguientes reglas:
 
-I. Tratándose de resoluciones que determinen cuotas compensatorias definitivas recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados o convenios internacionales, el plazo para interponer el recurso de revocación en contra de la resolución que determina la cuota compensatoria definitiva o los actos que las aplican, no empezará a correr sino hasta que haya transcurrido el plazo previsto en el tratado o convenio internacional de que se trate para interponer el mecanismo alternativo de solución de controversias;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-II. Trantándose de resoluciones que determinen cuotas compensatorias definitivas recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados o convenios internacionales, el recurrente que opte por el recurso de revocación deberá cumplir, además, con las formalidades previstas en el tratado o convenio internacional de que se trate, y
+I.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el plazo para interponer el recurso de revocación no empezará a correr sino hasta que haya transcurrido el previsto en el tratado internacional de que se trate para interponer el mecanismo alternativo de solución de controversias;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
+II.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el recurrente que opte por el recurso de revocación deberá cumplir, además, con las formalidades previstas en el tratado internacional de que se trate; y
 
 III. Las partes interesadas que acudan al recurso de revocación, al juicio de nulidad ante la Sala Superior del Tribunal Fiscal de la Federación o a los mecanismos alternativos de solución de controversias a que se refiere esta Ley, podrán garantizar el pago de las cuotas compensatorias definitivas, en los términos del Código Fiscal de la Federación, siempre que la forma de garantía correspondiente sea aceptada por la Secretaría de Hacienda y Crédito Público.
 
@@ -853,3 +869,11 @@ CUARTO.- Los procedimientos administrativos a que se refiere este ordenamiento q
 México, D. F., a 13 de julio de 1993.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Romeo Flores Leal, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Luis Moreno Bustamante, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS QUE REFORMAN A LA PRESENTE LEY.</small>
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMA QUE SE RELACIONA CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
