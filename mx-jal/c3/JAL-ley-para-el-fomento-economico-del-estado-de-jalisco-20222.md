@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-fomento-economico-del-estado-de-jalisco-20222"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-17"
-last_updated: "2001-02-17"
+last_updated: "2004-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL FOMENTO ECONOMICO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el sábado 17 de febrero del 2001.
 
@@ -43,75 +43,105 @@ LEY PARA EL FOMENTO ECONOMICO DEL ESTADO DE JALISCO
 
 Esta ley es de interés público y de observancia general en el Estado de Jalisco. Su aplicación corresponde a la Secretaría de Promoción Económica, al Consejo Estatal de Promoción Económica, al Sistema Estatal de Información Jalisco y demás autoridades administrativas, tanto de la Administración Pública Centralizada del Estado, como de los municipios, según sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 2.
 
-La presente ley tiene por objeto:
+La presente Ley tiene por objeto establecer las bases generales para:
 
-I. Fomentar y promover el desarrollo económico de la entidad, a fin de impulsar su crecimiento equilibrado sobre bases de desarrollo sustentable;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-II. Generar nuevas fuentes de empleo y consolidar las existentes;
+I. Fomentar y promover el desarrollo económico y el cooperativismo en la entidad, a fin de impulsar su crecimiento equilibrado sobre bases de desarrollo sustentable;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+II. Generar nuevas fuentes de empleo, consolidar las existentes y promover el autoempleo, el cooperativismo y cualquier otra forma de asociación cuyo objeto sea congruente con los fines de esta Ley;
 
 III. Promover la mejora regulatoria en el Estado de Jalisco, a través de las dependencias y organismos de las administraciones públicas estatal y municipales, en congruencia con las disposiciones jurídicas aplicables;
 
 IV. Promover el desarrollo industrial, comercial, turístico, agroindustrial y de servicios;
 
-V. La atracción de inversiones hacia el Estado;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+V. Atraer inversiones al Estado;
 
 VI. Impulsar la capacitación, investigación científica y desarrollo tecnológico, conforme a lo establecido en la Ley de Fomento a la Ciencia y Tecnología del Estado de Jalisco y demás ordenamientos aplicables;
 
 VII. Promover el aprovechamiento de los recursos y ventajas económicas de la entidad;
 
-VIII. Estimular el desarrollo económico en las actividades identificadas como estratégicas para la entidad, en razón del beneficio concreto que a mediano y largo plazo recibirá Jalisco;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-IX. Incrementar el bienestar y la calidad de vida de los jaliscienses;
+VIII. Estimular el desarrollo económico y de asociación en las actividades consideradas prioritarias de acuerdo con los instrumentos derivados de los Sistemas Nacional y Estatal de Planeación Democrática;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+IX. Incrementar el bienestar y la calidad de vida de los jaliscienses, propiciando su arraigo en la entidad;
 
 X. Apoyar a los sectores productivos para alcanzar mayores niveles de productividad y competitividad;
 
 XI. Impulsar el desarrollo de ciudades medias y pequeñas de la entidad, con base en la prioridad diferencial que se les otorgue de acuerdo a la necesidad o marginalidad en el desarrollo, a fin de promover su consolidación para atraer inversiones;
 
-XII. Impulsar la activación de las zonas económicamente deprimidas de Jalisco;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XII. Impulsar la activación de las zonas económicamente deprimidas de Jalisco, integrándolas en programas de desarrollo regional, basados preferentemente en la organización de cooperativas;
 
 XIII. Fijar lineamientos y criterios para promover la seguridad jurídica de los inversionistas de la entidad, y establecer atribuciones y obligaciones específicas a las dependencias gubernamentales;
 
 XIV. Establecer las políticas de fomento y desarrollo industrial del Consejo Estatal de Promoción Económica, de conformidad con los planes federales, estatales, regionales y municipales de desarrollo, así como a los ordenamientos jurídicos en materia económica y los acuerdos internacionales signados por el Ejecutivo Federal;
 
-XV. Promover el respeto a los lineamientos en materia ecológica;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XVI. Promover la infraestructura comercial, industrial y de servicios existente en el Estado;
+XV. Promover el desarrollo sustentable;
 
-XVII. Impulsar la operación de una bolsa de trabajo que proporcione información confiable y actualizada sobre recursos humanos disponibles en el Estado
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XVI. Promover y consolidar la infraestructura comercial, industrial y de servicios existentes en el Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XVII. Impulsar la operación de una bolsa de trabajo que proporcione información confiable y actualizada sobre recursos humanos disponibles en el Estado, y publicitarla por los medios idóneos, de acuerdo con las posibilidades de las entidades responsables;
 
 XVIII. Fomentar esquemas de asesoría, integración y asociación que fortalezcan la productividad y la posición competitiva de la micro, pequeña y mediana empresa;
 
-XIX. Alentar la participación y los sectores privado y social para comprometerse con el fomento de la inversión en el Estado, detectando oportunidades de desarrollo productivo en Jalisco;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XIX. Promover la participación de los sectores privado y social para el fomento de la inversión en el Estado, detectando y aprovechando oportunidades de desarrollo productivo;
 
 XX. Integrar un banco de datos que permita contar con información suficiente y oportuna como apoyo para las labores de planeación y promoción económica del Estado de Jalisco;
 
-XXI. Impulsar la formación de organismos financieros que puedan emitir bonos estatales u otros instrumentos encaminados a la obtención de recursos para promover el desarrollo económico de la entidad;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XXII. Promover sistemas de apoyo financiero acordes a las necesidades y condiciones de la micro, pequeña y mediana empresa;
+XXI. Impulsar la formación de organismos financieros que puedan emitir bonos estatales u otros instrumentos encaminados a la obtención de recursos para promover el desarrollo económico de la Entidad, que estarán al alcance de los sectores agrícola, industrial, comercial, turístico y de servicios;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXII. Promover sistemas de apoyo financiero acordes a las necesidades y condiciones de la micro, pequeña y mediana empresa, y gestionar ante las instituciones financieras el reconocimiento, como garantías, de sus contratos de maquila, subcontratación y compraventa de bienes a futuro;
 
 XXIII. Promover el comercio exterior de Jalisco; y
 
-XXIV. Promover la integración regional de las actividades productivas del Estado, en particular de la micro, pequeña y mediana empresa.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXIV. Promover la integración regional de las actividades productivas del Estado, en particular de la micro, pequeña y mediana empresa, e impulsar el fortalecimiento de cadenas productivas mediante el desarrollo de proveedores locales.
 
 ### CAPÍTULO II. De las Actividades Sujetas a Fomento
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 3.
 
-Podrán ser objeto de los incentivos previstos por esta ley, las actividades de las personas físicas o jurídicas establecidas o por establecerse en la Entidad, cuyas inversiones reúnan los siguientes requisitos:
+Las actividades económicas de las personas físicas o jurídicas establecidas o por establecerse en el Estado, podrán ser objeto de los incentivos previstos en esta Ley, cuando reúnan los siguientes requisitos:
 
-I. Se establezcan en las áreas y zonas Geográficas previstas en el artículo 7 de esta ley, de conformidad a los programas y acciones de promoción tendientes a mejorar la distribución regional de las actividades económicas en el territorio estatal;
+I. Se establezcan en las áreas y zonas geográficas previstas en el artículo 6° de esta Ley, de conformidad con las prioridades que señale el Plan Estatal de Desarrollo y sus programas respectivos;
 
-II. Generen nuevas fuentes de empleo directas o realicen inversiones en activos fijos en el área o zona Geográfica donde se establezcan, conforme a los rangos y cantidades que en forma general se determinen en el reglamento de esta ley o se precisen al autorizar los incentivos;
+II. Generen nuevas fuentes de empleo directas, conserven las ya existentes o realicen inversiones en activos fijos en el área o zona geográfica donde se establezcan, conforme a los rangos y cantidades que en forma general se determinen en el Reglamento de esta Ley;
 
-III. Realicen las acciones previstas en las fracciones anteriores en los plazos que en forma general se determinen en el reglamento de esta ley, se precisen al autorizar los incentivos o se acuerden al otorgarse a las personas beneficiarias; y
+III. Realicen las acciones previstas en las fracciones anteriores en los plazos, términos y condiciones que en forma general se determinen en el Reglamento de esta Ley; y
 
-IV. Otorgar fianza a favor del Consejo Estatal de Promoción Económica, que deberá depositarse en la Secretaría de Finanzas del Estado de Jalisco.
+IV. Otorgar cualquier tipo de garantía a favor del Consejo Estatal de Promoción Económica, en los términos del Reglamento de esta Ley.
 
-El término para que las personas beneficiarias de incentivos cumplan con sus obligaciones, contará a partir de la fecha cuando se notifique al inversionista la aprobación de su solicitud, por parte del Consejo Estatal de Promoción Económica, la Secretaría o de la dependencia u organismo municipal responsable de administrar el programa correspondiente.
+Dichas garantías podrán ser eximidas total o parcialmente cuando se trate de programas especiales derivados del Sistema Estatal de Planeación.
 
-El Consejo Estatal de Promoción Económico citará periódicamente a los representantes de las regiones municipales para rendirles un informe pormenorizado de las actividades que lleve a cabo, en los términos de la presente ley.
+El plazo concedido a los beneficiarios de incentivos para cumplir con sus obligaciones, iniciará a partir del día en que se entregue el incentivo.
 
 ###### Artículo 4.
 
@@ -139,7 +169,17 @@ X. Empresas que sustituyan importaciones mediante el consumo de insumos, compone
 
 XI. Empresas que participen en la conservación y mejoramiento del patrimonio cultural del Estado; y
 
-XII. Empresas que contraten a personas discapacitadas, jubilados o personas de la tercera edad, dentro de las actividades objeto de los incentivos.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XII. Empresas que contraten a personas que pertenezcan a grupos vulnerables en los términos del Código de Asistencia Social del Estado.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XIII. Empresas proveedoras de bienes y servicios que formen parte de cadenas productivas y favorezcan el asociacionismo.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XIV. Empresas que lleven a cabo acciones de mejoramiento en aspectos ecológicos o de planeación urbana y que representen un beneficio para la colectividad.
 
 ### CAPÍTULO III. De las Autoridades
 
@@ -175,11 +215,51 @@ III. Prioridad 3: Los municipios o zonas geográficas donde prevalezcan condicio
 
 En apoyo de la micro, pequeña y mediana empresa jalisciense, el Ejecutivo del Gobierno del Estado, emprenderá entre otras, las acciones siguientes:
 
-I. En igualdad de condiciones a través de la administración central y paraestatal, deberá adquirir cuando menos un veinte por ciento de todos los insumos de bienes y servicios que requieran sus actividades provenientes de la micro, pequeña y mediana empresa jalisciense;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+I. En igualdad de condiciones, a través de la administración central y paraestatal, deberá adquirir los insumos de bienes y servicios que requieran sus actividades provenientes de la micro, pequeña y mediana empresa jalisciense, en la proporción que establezca la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado;
 
 II. Promoverá ante los gobiernos municipales de la entidad se sumen permanentemente a este mismo compromiso; y
 
 III. Conjuntamente con los gobiernos municipales, prestará asesoría e información, para apoyar y orientar su establecimiento, así como sistemas simplificados para autorizar su localización, funcionamiento y desarrollo.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+IV. Promover junto con el Secretario de Promoción Económica y el Director del Consejo Estatal de Promoción Económica los mecanismos financieros adecuados, y crear y fortalecer los fondos de financiamiento que para tal efecto resulten convenientes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 7A.- El Gobierno del Estado apoyará la gestión de mecanismos crediticios que sean oportunos, suficientes y adecuados a la problemática de las micro, pequeñas y medianas empresas, y para este fin podrá constituir los fondos, fideicomisos u organismos financieros que estime necesarios para ello.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 7B.- Para apoyar el desarrollo de las micro, pequeñas y medianas empresas, la Secretaria de Promoción Económica, con sujeción al Plan Estatal de Desarrollo y demás instrumentos del Sistema Estatal de Planeación Democrática, promoverá las siguientes acciones:
+
+I. Estimular su operación en economías de escala para mejorar su productividad y eficiencia;
+
+II. Facilitar su integración a nuevos mercados y propiciar su mayor participación en las exportaciones;
+
+III. Brindar atención prioritaria a este tipo de empresas en las actividades de protección de la planta productiva y conservación de empleos;
+
+IV. Propiciar su vinculación con las instituciones educativas y de investigación tecnológica;
+
+V. Proporcionarles asesoría para el registro de patentes y marcas de acuerdo con sus capacidades productivas y requerimientos tecnológicos;
+
+VI. Apoyar sus proyectos de modernización, adecuación, asimilación y desarrollo tecnológico;
+
+VII. Brindarles asesoría y capacitación en temas de administración y gestión empresarial.
+
+VIII. Gestionar la creación de centros regionales u otros mecanismos para la comercialización de sus productos o servicios;
+
+IX. Instrumentar acciones que favorezcan el desarrollo de su competitividad;
+
+X. Promover y estimular su participación en ferias y exposiciones municipales, estatales, nacionales e internacionales; y
+
+XI. Impulsar su fortalecimiento en aspectos financieros, administrativos, comerciales y técnico industriales, mediante la aplicación especifica de estrategias regionales y sectoriales.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 7C. En concordancia con los objetivos y metas dimanados del Plan Estatal de Desarrollo y de los instrumentos de planeación que de él derivan, las dependencias de la Administración Pública Estatal y sus organismos auxiliares adoptarán las medidas y programas de apoyo que estimen convenientes para estimular la incorporación, en las actividades económicas formales, de aquellas personas o unidades productivas que operan al margen de éstas.
 
 ### CAPÍTULO VI. De los Incentivos
 
@@ -191,7 +271,9 @@ I. Programas especiales de capacitación;
 
 II. Otorgamiento de becas para capacitación y adiestramiento;
 
-III. Apoyo financiero para programas de capacitación y adiestramiento;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+III. Apoyo financiero para programas de capacitación y adiestramiento, ampliación de instalaciones, descentralización industrial, o reubicación de industrias o empresas agrícolas, comerciales o de servicio;
 
 IV. Aportación estatal para obras de infraestructura;
 
@@ -207,23 +289,61 @@ VIII. Todos aquellos programas, apoyos y aportaciones que realicen el Gobernador
 
 El Consejo Estatal de Promoción Económica suscribirá los actos jurídicos que sean necesarios para el cumplimiento de los objetivos de la presente ley, en la inteligencia que, en su caso y preferentemente, buscará conservar mediante la celebración de dichos actos la disposición legal, para sí o para los municipios, de aquellos bienes muebles o inmuebles que sean objeto de los mismos.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 10.
 
-Los incentivos previstos en las fracciones I, II, III, IV y V, del artículo anterior, sólo se otorgarán a aquellas empresas que generen nuevos empleos y realicen inversiones en los rangos y cantidades que, en forma general, se determinen en el reglamento de esta ley. En todo caso se deberán tomar en consideración los criterios señalados en el artículo 13 de esta ley.
+Los incentivos previstos en las fracciones I, II, III, IV y V del artículo 8 de esta Ley, sólo se otorgarán a aquellas empresas que generen nuevos empleos, conserven los ya existentes, realicen acciones para el mejoramiento de calidad y realicen inversiones en los rangos y cantidades que en forma general, se determinen en el Reglamento de esta Ley programas, teniendo prioridad las que se ubiquen en parque (sic) industriales reconocidos por esta ley. En todo caso se deberán tomar en consideración los criterios señalados en el artículo 13 de esta Ley.
 
 ###### Artículo 11.
 
 Los incentivos que sean otorgados a los inversionistas por cualquiera de los municipios del Estado, deberán ser aprobados en los términos de sus correspondientes leyes municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 12.
 
-Los incentivos contemplados en la presente ley no serán aplicables a aquellas empresas ya establecidas, que mediante un acto de simulación aparezcan como nueva empresa para gozar de dichos beneficios.
+Los incentivos contemplados en la presente ley no serán aplicables a aquellas empresas ya establecidas, que mediante actos de simulación reporten como nuevos empleos generados la sola ocupación de vacantes preexistentes o la recontratación de su propia plantilla laboral, o que aparezcan como empresa de nueva creación para gozar de dichos beneficios.
 
 No se considerarán como actos de simulación los casos de fusión, asociación, escisión y, en general, todo proceso de integración que tenga por objeto mejorar la productividad y la generación de nuevos empleos permanentes en el Estado de Jalisco.
 
-### CAPÍTULO VII. Del Otorgamiento y Ejecución de incentivos
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO I. Del Consejo Estatal de Promoción Económica
+En los casos de subcontratación de personal, los nuevos empleos se considerarán generados por la fuente primaria, entendiendo por ésta la unidad económica que ocupa en actividades productivas o de servicios a un número fijo o variable de empleados que le son proveídas por otra institución, llamada fuente secundaria, que suscribe por sí los contratos de prestación de servicios y asume las responsabilidades derivadas de la legislación en materia de trabajo y previsión social. En estos casos, las entidades responsables de la asignación de incentivos verificarán que los trabajadores subcontratados sean debidamente inscritos en la institución de seguridad social correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO VII. Del Fomento y Desarrollo Económico de las Comunidades Indígenas
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 12A.- El Estado y los municipios promoverán el desarrollo de las relaciones económicas entre las comunidades indígenas, entre éstas y las demás poblaciones de la comunidad.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 12B.- El criterio relativo a los municipios y zonas geográficas señaladas en la prioridad del artículo VI (sic), deberán incluir aquellos donde tengan asentamiento comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 12C.- El ejecutivo del Estado, a través de las instancias correspondientes, celebrará convenios con las comunidades indígenas de la entidad, para la implementación de programas y proyectos productivos conjuntos, que tengan como objetivo primordial el desarrollo económico de estas comunidades.
+
+En los programas y proyectos a que se refiere el párrafo anterior, se suprima el intermediarismo y se fomentará el aprovechamiento directo que genere la comercialización de sus recursos y productos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 12D.- Las autoridades estatales y municipales competentes, a petición de las comunidades indígenas, otorgarán a estas, asistencia técnica y financiera para el óptimo aprovechamiento de sus recursos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 12E.- El ejecutivo del Estado, en coordinación con las autoridades federales, coadyuvará con las autoridades indígenas tradicionales, a fin de ofrecerles capacitación para identificar formalmente las necesidades prioritarias de los programas comunitarios en la planeación e información presupuestal.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 12F.- El estado impulsará el establecimiento de industrias cuya propiedad corresponda a las propias comunidades indígenas, proporcionando los apoyos financieros y de capacitación para ello.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO VIII. Del Otorgamiento y Ejecución de incentivos
 
 ###### Artículo 13.
 
@@ -231,7 +351,9 @@ Para el otorgamiento de los incentivos a que se refiere el artículo 8 de este o
 
 I. Número de empleos que se generen y su nivel de remuneración;
 
-II. Monto de la inversión;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+II. Monto de la Inversión, en la que se incluirán los proyectos de ampliación o reubicación;
 
 III. Plazo en que se realiza la inversión;
 
@@ -239,7 +361,9 @@ IV. Programa de capacitación que realicen;
 
 V. Respeto al medio ambiente;
 
-VI. Consumo de agua;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+VI. Consumo y tratamiento de agua;
 
 VII. Desarrollo tecnológico;
 
@@ -249,15 +373,21 @@ IX. Fortalecimiento de las cadenas productivas; y
 
 X. Ubicación del proyecto de inversión.
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XI. Atención a las prioridades establecidas en el Plan Estatal de Desarrollo y sus programas.
+
 ###### Artículo 14.
 
 Los inversionistas que soliciten cualquiera de los incentivos previstos en esta ley, deberán presentar su petición al Consejo Estatal de Promoción Económica.
 
 ###### Artículo 15.
 
-El monto de los incentivos se autorizarán en:
+El monto de los incentivos se autorizará en:
 
-I. El Presupuesto de Egresos del Estado, cuando los promueva el Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+I. El Presupuesto de Egresos del Estado;
 
 II. Los presupuestos de egresos de los municipios, cuando se otorguen por los Ayuntamientos; y
 
@@ -265,15 +395,17 @@ III. El Presupuesto de Egresos del Consejo Estatal de Promoción Económica, cua
 
 El monto de los incentivos se determinará en forma anual y se podrá establecer por actividad, región, sector o en forma global.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 16.
 
-El Consejo Estatal de Promoción Económica, mediante resolución que emita, decidirá el monto, tipo, condiciones y plazo de incentivos que se otorgarán a cada inversionista que reúna los requisitos señalados en esta ley a cargo del propio organismo público descentralizado y propondrá los que correspondan a las dependencias y entidades del Ejecutivo del Gobierno del Estado y/o de los municipios.
+El Consejo Estatal de Promoción Económica, conforme a las posibilidades de su presupuesto y en los términos del Reglamento de esta Ley, resolverá en el ámbito de su competencia sobre los montos, tipos, condiciones, forma de garantía y plazos de los incentivos que se otorguen a cada beneficiario cuando se reúnan los requisitos previstos. También propondrá los incentivos susceptibles de aplicación por parte de otras dependencias y entidades del Poder Ejecutivo del Estado o de los municipios.
 
-Cuando los incentivos se otorguen para beneficiar dos o más programas, quedará a cargo del Consejo Estatal de Promoción Económica el determinar su distribución entre éstos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 17.
 
-Las disposiciones donde se otorguen incentivos, se expedirán conforme a las siguientes bases:
+Las resoluciones que otorguen incentivos se deberán expedir conforme a las siguientes bases:
 
 I. Indicarán en forma general los supuestos, requisitos y condiciones que deberán acreditar los inversionistas, para ser beneficiarios de los incentivos autorizados;
 
@@ -283,15 +415,35 @@ III. Fijarán los términos para solicitar los incentivos y la forma en que se a
 
 IV. Cuando los incentivos se autoricen por un monto determinado, el procedimiento para otorgarlos a través del Consejo Estatal de Promoción Económica a los inversionistas o empresas beneficiarias, será mediante asignación a las personas que cumplan con los requisitos y condiciones, en el orden que se determine por la fecha de presentación de la solicitud, por los montos que se acuerden en atención a las características de las actividades productivas a realizar y las áreas o zonas geográficas donde se aplicarán.
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+V. Fijar la garantía que se deba otorgar a favor del Consejo Estatal de Promoción Económica, o en su caso, la exención parcial o total conforme a lo previsto por esta Ley.
+
 ###### Artículo 18.
 
 Los incentivos se otorgarán conforme al siguiente procedimiento:
 
-I. Los inversionistas que soliciten cualquiera de (sic) incentivos previstos en esta ley, deberán presentar su petición al Consejo Estatal de Promoción Económica;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-II. Una vez aprobada la solicitud se procederá a emitir una resolución, en la cual se indicarán los incentivos que se conceden, así como los compromisos que deberá cumplir el inversionista para gozar de los mismos;
+I. Los interesados que soliciten cualquiera de los incentivos previstos en esta Ley deberán presentar por escrito su petición ante el Consejo Estatal de Promoción Económica junto con los documentos y demás requisitos que sean exigibles, de acuerdo con lo que disponga el reglamento de esta ley, que serán revisados conforme a las bases siguientes:
 
-III. Para mejor cumplimiento de los compromisos establecidos en la resolución, ésta deberá inscribirse en el Registro Público de la Propiedad o del Comercio, según corresponda, para que surta sus efectos contra terceros;
+a) El personal operativo del Consejo dispondrá del plazo improrrogable de diez días hábiles para revisar la solicitud y dictaminar sobre su aceptación, cuando se tengan por satisfechos todos los requisitos.
+
+b) En los casos omisiones o errores detectados sobre cualquiera de los documentos que deben acompañar la solicitud, esta circunstancia deberá ser notificada al interesado dentro de los cinco días hábiles siguientes a la fecha en que debería dictaminarse su aceptación.
+
+c) El interesado dispondrá del tiempo que juzgue necesario para subsanar las insuficiencias que le hubieran sido notificadas, y una vez satisfecho este requisito, el Consejo dispondrá de un nuevo plazo de diez días hábiles para dictaminar la aceptación de la solicitud.
+
+d) Las solicitudes aceptadas deberán ser sometidas a la consideración de la Junta de Gobierno en su sesión ordinaria inmediata siguiente, para que sean resueltas a través de los procedimientos que establezca el reglamento de esta ley.
+
+e) Toda solicitud de incentivos ya aceptada, deberá encontrarse resuelta y lista para su notificación a los cinco días hábiles siguientes a la fecha en que deba sesionar ordinariamente la Junta de Gobierno, y serán notificadas al interesado dentro de los cinco días hábiles siguientes a la conclusión de ese último plazo.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+II. Las resoluciones que autoricen el otorgamiento de incentivos indicarán los beneficios que se conceden al interesado, así como los compromisos que éste deberá cumplir. Se establecerá el término de un mes, contado a partir de la fecha en que se notifique la solicitud, para que el interesado suscriba los instrumentos jurídicos que formalicen los compromisos asumidos, operando la caducidad después de este término.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+III. El Consejo estatal de Promoción económica deberá inscribir en el registro público correspondiente, a costa del interesado, la garantía que éste ofrezca;
 
 IV. El Consejo deberá notificar lo conducente a las autoridades administrativas involucradas en el otorgamiento de los incentivos establecidos en cada resolución; y
 
@@ -299,7 +451,7 @@ V. En caso de no ser aceptada la solicitud del inversionista para ser considerad
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO II. De la Junta de Gobierno
+### CAPÍTULO I. Del Consejo Estatal de Promoción Económica
 
 ###### Artículo 19.
 
@@ -329,7 +481,7 @@ IX. Las multas impuestas en ejercicio de las facultades establecidas en esta Ley
 
 X. Los demás derechos y obligaciones no comprendidos en las fracciones anteriores, que adquiera por cualquier título legal.
 
-Los actos de enajenación, transmisión, cesión de derechos y en general los actos traslativos de dominio, de usos o disfrute, que sean realizados conforme al objeto del Consejo Estatal de Promoción Económica y que autorice la Junta de Gobierno de dicho Consejo, requerirán para su validez de la autorización del H. Congreso del Estado; sin embargo, tanto la autorización como la ejecución de los actos antes señalados deberán sujetarse a lo dispuesto por ésta ley, su reglamento y demás disposiciones que resulten aplicables.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 21.
 
@@ -387,65 +539,87 @@ En tratándose de cuestiones que involucren a los municipios de la entidad, se s
 
 En el Presupuesto de Egresos del Poder Ejecutivo del Estado, se deberá establecer una partida para el cumplimiento de los fines del Consejo Estatal de Promoción Económica.
 
-### CAPÍTULO III. Del Director General
+### CAPÍTULO II. De la Junta de Gobierno
 
 ###### Artículo 24.
 
 El Consejo Estatal de Promoción Económica contará con una Junta de Gobierno, que será su máximo órgano de gobierno; y contará además con un Director General, el cual será nombrado por el titular del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 25.
 
-La Junta de Gobierno se integrará por un Presidente que será el Gobernador del Estado o la persona que éste designe y además por los titulares o por sus respectivos representantes, debidamente acreditados, de cada una de las secretarías, dependencias y ayuntamientos siguientes:
+La Junta de Gobierno se integrará por un Presidente que será el Gobernador del Estado o la persona que éste designe, y;
 
-I. Secretaría de Promoción Económica;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-II. Secretaría de Finanzas del Gobierno del Estado;
+I. Los titulares, o sus respectivos representantes debidamente acreditados, de cada una de las secretarías, dependencias y ayuntamientos e siguientes:
 
-III. Secretaría de Desarrollo Urbano del Gobierno del Estado;
+1. Secretaría de Promoción Económica del Gobierno del Estado;
 
-IV. Secretaría de Turismo del Gobierno del Estado;
+2. Secretaría de Finanzas del Gobierno del Estado;
 
-V. Secretaría de Desarrollo Rural;
+3. Secretaría de Desarrollo Urbano del Gobierno del Estado;
 
-VI. Ayuntamiento de Guadalajara;
+4. Secretaría de Turismo del Gobierno del Estado;
 
-VII. Ayuntamiento de Tlaquepaque;
+5. Secretaría de Desarrollo Rural del Gobierno del Estado;
 
-VIII. Ayuntamiento de Tonalá
+6. Ayuntamiento de Guadalajara;
 
-IX. Ayuntamiento de Zapopan; y
+7 Ayuntamiento de Tlaquepaque;
 
-X. Cuando se traten asuntos relacionados con el resto de los municipios de la Entidad, se invitará al Ayuntamiento del municipio respectivo para que acredite un representante a la sesión correspondiente.
+8. Ayuntamiento de Tonalá;
 
-De igual forma, si la Junta de Gobierno lo estima procedente, se invitará a un representante especial de los sectores social o privado, como podrían ser:
+9. Ayuntamiento de Zapopan;
 
-I. Consejo de Cámaras Industriales de Jalisco;
+10. Cuando se traten asuntos relacionados con el resto de los municipios de la entidad, se invitará al Ayuntamiento del municipio respectivo para que acredite un representante a la sesión correspondiente.
 
-II. Cámara Nacional de Comercio de Guadalajara;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-III. Centro Empresarial de Jalisco;
+II. De igual forma, serán invitados con derecho a voz los siguientes representantes de los sectores privados y sociales:
 
-IV. Confederación de Trabajadores de Jalisco;
+a) Consejo de Cámaras Industriales de Jalisco;
 
-V. Federación Revolucionaria de Obreros y Campesinos del Estado de Jalisco; y
+b) Federación de Cámaras de Comercio de Jalisco;
 
-VI. Federación de Agrupaciones Obreras y Campesinas del Estado de Jalisco;
+c) Centro Empresarial de Jalisco;
+
+d) Confederación de Trabajadores de Jalisco;
+
+e) Federación Revolucionaria de Obreros y Campesinos del Estado de Jalisco;
+
+f) Federación de Agrupaciones Obreras y Campesinas del Estado de Jalisco, y
+
+g) Una representación de Sociedades Cooperativas designada por CEPE en función de la representatividad de los (sic) federaciones u organismos.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+La Junta de Gobierno podrá invitar además, con derecho a voz, a los representantes de los diversos sectores de la sociedad que considere oportuno.
 
 La Junta de Gobierno contará además con un Secretario Técnico que será el Director General del Consejo Estatal de Promoción Económica, quien tendrá derecho sólo al uso de la voz.
 
 Cada miembro de la Junta de Gobierno nombrará un suplente que lo sustituya en sus ausencias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 26.
 
-Son facultades de la Junta de Gobierno:
+A la Junta de Gobierno corresponde el ejercicio de las siguientes facultades:
 
 I. Definir estrategias para impulsar la actividad económica en Jalisco, en congruencia con las políticas establecidas por la Secretaría de Promoción Económica y el titular del Poder Ejecutivo del Estado;
 
-II. Aprobar o rechazar, las solicitudes de incentivos, emitiendo la resolución que a su juicio proceda, considerando lo establecido en el artículo 11 de la presente Ley, y revocar las resoluciones o el otorgamiento de incentivos, por la falta de interés jurídico del beneficiario, o por falta de cumplimiento de éste respecto de una o más obligaciones adquiridas, con motivo del otorgamiento de incentivos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-III. Determinar y particularizar los incentivos que se otorgarán a cada inversionista, así como sus plazos, términos y condiciones;
+II. Resolver sobre el otorgamiento de incentivos;
 
-IV. Supervisar que las personas físicas o jurídicas que gocen de incentivos, cumplan con los proyectos de inversión y compromisos contenidos en la resolución a que se refiere el artículo 16 de esta ley;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+III. Determinar los incentivos que se otorgarán a cada inversionista y en su caso, sus montos, tipos, condiciones, plazos y garantías;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+IV. Vigilar que los beneficiarios de incentivos cumplan con las disposiciones de la resolución a que se refieren los artículos 16 y 17 de esta Ley;
 
 V. Suspender o cancelar los incentivos otorgados y, en su caso, solicitar se apliquen las sanciones procedentes en los términos de la ley;
 
@@ -459,21 +633,53 @@ IX. Aprobar la contratación de servicios externos especializados de alta calida
 
 X. Proponer al titular del Poder Ejecutivo del Estado, fórmulas de carácter fiscal y financiero que le permitan contar con una base de ingresos suficientes para cubrir los presupuestos de la labor de promoción en el Estado;
 
-XI. Estimular la creación de empresas integradoras;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XII. Estructurar mecanismos adecuados para que el Gobierno del Estado defienda a los sectores productivos de la Entidad en contra de monopolios, prácticas monopólicas, prácticas desleales de comercio y, en general, las demás restricciones al funcionamiento eficiente de los mercados de bienes y servicios;
+XI. Estimular la creación de empresas integradoras y sociedades cooperativas;
 
-XIII. Expedir su reglamento interior, en el que se determinará su estructura orgánica, atribuciones y facultades específicas de sus servidores públicos y procedimientos de operación;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XIV. Autorizar la creación o cancelación de las plazas laborales del propio organismo, en términos de la legislación aplicable;
+XII. Estructurar mecanismos adecuados para que el Gobierno del Estado oriente y auxilie a los sectores productivos de la entidad en contra de prácticas monopólicas, prácticas desleales, y cualquier invasión o violación a derechos de propiedad industrial o intelectual;
 
-XV. Otorgar toda clase de mandatos a la persona o personas que considere conveniente, sin perjuicio de lo establecido en los artículos 34 y 35 de la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XVI. Aprobar la celebración y modificación, en su caso, de los convenios, contratos, acuerdos y, en general, cualquier acto jurídico que el Consejo Estatal de Promoción Económica celebre para el cumplimiento de sus objetivos;
+XIII. Notificar sus resoluciones al Consejo Económico y Social del Estado de Jalisco Para el Desarrollo y la Competitividad;
 
-XVII. Administrar la totalidad de sus bienes y derechos, con plenas facultades de gestión, representación y administración; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XVIII. Las demás que le otorgue la presente ley y demás disposiciones legales aplicables en la materia.
+XIV. Expedir su reglamento interior, en el que se determinará su estructura orgánica, atribuciones y facultades específicas de sus servidores públicos y procedimientos de operación;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XV. Autorizar la creación o cancelación de las plazas laborales del propio organismo, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XVI. Otorgar toda clase de mandatos a la persona que considere conveniente, sin perjuicio de lo establecido en los artículos 34 y 35 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XVII. Aprobar la celebración y modificación, en su caso, de los convenios, contratos, acuerdos y, en general, cualquier acto jurídico que el Consejo Estatal de Promoción Económica celebre para el cumplimiento de sus objetivos;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XVIII. Administrar la totalidad de sus bienes y derechos, con plenas facultades de gestión, representación y administración; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XIX. Gestionar que el Gobierno del Estado se constituya en aval de terceros, en los términos de la Ley de Deuda Pública del Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XX. Ordenar que se hagan exigibles las garantías otorgadas a favor del organismo por el incumplimiento de los beneficiarios;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXI. Tramitar y resolver los recursos administrativos de su competencia; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXII. Las demás que le otorgue la presente Ley y demás disposiciones legales.
 
 ###### Artículo 27.
 
@@ -485,13 +691,19 @@ La inobservancia de la obligación a cargo de los servidores públicos del Conse
 
 Los miembros de la Junta de Gobierno una vez designados por las instituciones correspondientes desempeñarán su cargo en forma personal, por lo que no podrán hacerse representar por terceros, que no sean sus suplentes debidamente acreditados.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 29.
 
-La Junta de Gobierno sesionará ordinariamente cuando menos una vez al mes, y extraordinariamente cuantas veces sea necesario, previa convocatoria formulada por el Director General. Las sesiones deberán realizarse en el lugar que señale la convocatoria.
+La Junta de Gobierno sesionará ordinariamente cuando menos una vez al mes, y extraordinariamente cuantas veces sea necesario, previa convocatoria formulada por el Director General. Las sesiones deberán realizarse en el lugar que señale la convocatoria, y el calendario de reuniones ordinarias se programará anualmente y será de acceso público.
 
-###### Artículo 30.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-Para que tengan validez los acuerdos tomados en las sesiones ordinarias y extraordinarias de la Junta de Gobierno, se requerirá la asistencia de la mitad más uno de sus miembros; sin perjuicio de la obligación que tiene cada uno de los representantes acreditados de las secretarías, dependencias y ayuntamientos a que se refiere el artículo 25 de la presente ley para estar presentes en todas las sesiones.
+###### Articulo 30.
+
+Para que tengan validez los acuerdos tomados en las sesiones ordinarias y extraordinarias de la Junta de Gobierno, se requerirá la asistencia de la mitad más uno de sus miembros.
+
+En caso de que no pueda celebrarse la sesión por falta de quórum, se deberá citar nuevamente para el día hábil siguiente y si en esa segunda convocatoria de nuevo no se reúne la mayoría requerida, se convocará para una hora más tarde y se sesionará con los miembros presentes.
 
 ###### Artículo 31.
 
@@ -521,15 +733,17 @@ II. Llevar el control del libro de actas; y
 
 III. Dejar constancia de los actos y acuerdos que emita la Junta de Gobierno.
 
-### CAPÍTULO IV. De la Administración
+### CAPÍTULO III. Del Director General
 
 ###### Artículo 34.
 
 El Director General del Consejo Estatal de Promoción Económica es su representante legal y administrador general, por lo que podrá representar al organismo ante toda clase de autoridades y terceros, sin perjuicio de los mandatos o poderes que la Junta de Gobierno otorgue a otras personas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 35.
 
-Son atribuciones y obligaciones del Director General, las siguientes:
+A la Dirección General corresponde el ejercicio de las siguientes facultades:
 
 I. Convocar a sesión ordinaria de la Junta de Gobierno en el plazo señalarlo (sic) por la ley, en el domicilio que para tal efecto tenga registrado proponiendo en la convocatoria el orden del día de dicha sesión, mismo que podrá ser modificado por los asistentes;
 
@@ -537,9 +751,13 @@ II. Citar a sesiones extraordinarias de la Junta de Gobierno cuando lo considere
 
 III. Ejecutar las resoluciones y estrategias de promoción económica propuestas por la Junta de Gobierno;
 
-IV. Recibir las solicitudes de incentivos por parte de los inversionistas o sus representantes, así como las que sean presentadas por la Secretaría de Promoción Económica o por el titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-V. Notificar las resoluciones de la Junta de Gobierno a los organismos gubernamentales correspondientes, en función de los incentivos otorgados;
+IV. Recibir las solicitudes de incentivos por parte de los interesados o sus representantes, así como las que sean presentadas por la Secretaría de Promoción Económica o por el titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+V. Notificar las resoluciones de la Junta de Gobierno a los organismos gubernamentales correspondientes, en función de los incentivos otorgados, así como a los interesados;
 
 VI. Designar al personal para ocupar las plazas autorizadas por la Junta de Gobierno, así como removerlos de su encargo, con apego a lo señalado por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
@@ -549,9 +767,19 @@ VIII. Celebrar los convenios, contratos, acuerdos y actos jurídicos en general 
 
 IX. Concertar las bases para la contratación de empréstitos y suscribir los contratos, títulos de crédito y demás documentos que se requieran para este fin o para el cumplimiento de su objeto; y
 
-X. Las demás que se deriven de esta ley y otras disposiciones legales aplicables en la materia.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO ÚNICO. Del Sistema Estatal de Información Jalisco
+X. Gestionar ante la Secretaría de finanzas la autorización del Congreso para que el Estado se constituya en Garante de Terceros;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XI. Ordenar y practicar visitas de verificación e inspección para comprobar el cumplimiento de las obligaciones contraídas por los beneficiarios de incentivos; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XII. Las demás que se deriven de esta Ley y otras disposiciones legales aplicables en la materia.
+
+### CAPÍTULO IV. De la Administración
 
 ###### Artículo 36.
 
@@ -561,13 +789,15 @@ El Director General y los servidores públicos del Consejo Estatal de Promoción
 
 Los sistemas y controles del patrimonio del Consejo Estatal de Promoción Económica deberán permitir que la Junta de Gobierno y el Director General verifiquen el cumplimiento de las disposiciones legales y administrativas que garanticen la conservación, custodia y debida administración de sus recursos.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 38.
 
-Las enajenaciones, transmisiones, cesiones de derechos y en general los actos traslativos de dominio, de uso o disfrute, respecto de los bienes inmuebles del Consejo Estatal de Promoción Económica que autorice la Junta de Gobierno, a favor de personas físicas o jurídicas, deberán sujetarse invariablemente deberá obtener la autorización del Congreso del Estado, sin perjuicio de lo que se establezca en el reglamento de esta ley.
+Los actos traslativos de dominio de inmuebles requerirán para su validez la autorización del Congreso del Estado.
 
 ## TÍTULO TERCERO. De la Información
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO ÚNICO. Del Sistema Estatal de Información Jalisco
 
 ###### Artículo 39.
 
@@ -705,7 +935,9 @@ III. Verificar el cumplimiento de los programas de trabajo;
 
 IV. Vigilar el cumplimiento de las disposiciones y acuerdos que normen la estructura y funcionamiento del Sistema Estatal de Información Jalisco; y
 
-V. Nombrar al Director General del Sistema Estatal de Información Jalisco, a quien corresponderá a la vez, el cargo de Secretario Técnico del Consejo Directivo.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+V. Nombrar al Director General del Sistema Estatal de Información Jalisco.
 
 ###### Artículo 53.
 
@@ -713,7 +945,7 @@ El Sistema Estatal de Información Jalisco, contará con el personal técnico y 
 
 ## TÍTULO CUARTO. De los Actos de Verificación e Inspección y Sanciones Administrativas
 
-### CAPÍTULO II. De la verificación e inspección
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 54.
 
@@ -723,7 +955,7 @@ Los actos emanados de las disposiciones de este título, deberán de sujetarse a
 
 Las autoridades del Consejo Estatal de Promoción Económica deberán coordinarse en los términos de las leyes correspondientes, con las demás dependencias y organismos de las administraciones públicas federal, estatal y municipales para el mejor desempeño de sus atribuciones, particularmente con la Secretaría de Promoción Económica con quien mantendrá su sectorización.
 
-### CAPÍTULO III. De las Infracciones y Sanciones Administrativas
+### CAPÍTULO II. De la verificación e inspección
 
 ###### Artículo 56.
 
@@ -769,7 +1001,7 @@ V. Precisar los alcances y objetivos de la visita, así como señalar los docume
 
 Si del resultado de la inspección se determina el incumplimiento de alguna de las obligaciones del particular, el Consejo Estatal de Promoción Económica podrá iniciar el procedimiento correspondiente para la imposición de las sanciones por infracciones a que haya lugar, conforme a esta ley y su reglamento.
 
-### CAPÍTULO IV. Del Recurso de Revisión
+### CAPÍTULO III. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 62.
 
@@ -847,7 +1079,7 @@ II. Las tesorerías municipales y sus dependencias recaudadoras.
 
 Cuando las dependencias a que se refiere la fracción I de este artículo, ejecuten una sanción económica, el fisco estatal percibirá los gastos de ejecución y hasta un máximo del quince por ciento de las multas y recargos, por concepto de gastos de administración.
 
-### CAPÍTULO V. Del Recurso de Inconformidad
+### CAPÍTULO IV. Del Recurso de Revisión
 
 ###### Artículo 70.
 
@@ -929,6 +1161,8 @@ En caso contrario, se abrirá un periodo probatorio de cinco días hábiles para
 
 En contra de la resolución que resuelve el recurso de revisión interpuesto, solo procederá juicio ante el Tribunal de lo Administrativo del Estado.
 
+### CAPÍTULO V. Del Recurso de Inconformidad
+
 ###### Artículo 79.
 
 El recurso de inconformidad procede en contra de multas impuestas por el Consejo Estatal de Fomento Económico y tiene como objeto confirmar o modificar el monto de la multa impuesta al particular al que se le hayan concedido alguno o algunos de los incentivos previstos en ésta ley.
@@ -1002,3 +1236,17 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2004.
+
+Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Los recursos administrativos que se encuentren en trámite o pendientes de resolver a la entrada en vigor de este Decreto, se resolverán conforme a la Ley para el Fomento Económico del Estado de Jalisco.
+
+Tercero.- Los procedimientos administrativos de verificación e inspección que se encuentren en trámite, continuarán conforme a las disposiciones vigentes durante la fecha de su iniciación.
+
+Cuarto.- El Reglamento de la Ley para el Fomento Económico de Jalisco deberá expedirse en un plazo de noventa días a partir de la entrada en vigor del presente Decreto.
+
+Quinto.- Se derogan todas las disposiciones que se opongan a este Decreto.
