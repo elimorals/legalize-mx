@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-xxx-91-del-tribunal-pleno-de-la-suprema-63936"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1991-10-04"
-last_updated: "1991-10-04"
+last_updated: "1991-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63936&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-09-24"
 
 ACUERDO No. XXX/91, DEL TRIBUNAL EN PLENO DEL DIA VEINTICUATRO DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y UNO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 1991.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 4 de octubre de 1991.
 
@@ -45,9 +45,9 @@ PRIMERO.- Se fija el dieciséis de octubre de mil novecientos noventa y uno como
 
 SEGUNDO.- A partir del dieciséis de octubre de mil novecientos noventa y uno, funcionará una Oficina de Correspondencia Común de los Tribunales Unitarios Primero y Segundo del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León, la que registrará y numerará rigurosamente en el libro correspondiente, por el orden de la fecha y hora de su presentación, todos los asuntos de nuevo ingreso.
 
-TERCERO.- Los nuevos asuntos en materia penal que del dieciséis de octubre al quince de noviembre de mil novecientos noventa y uno ingresen a la Oficina de Correspondencia Común de los Tribunales Unitarios Primero y Segundo del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León, serán turnados al Segundo de dichos tribunales.
+TERCERO.- (DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO No. XLII/91 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 18 DE NOVIEMBRE DE 1991)
 
-CUARTO.- A partir del dieciséis de noviembre de mil novecientos noventa y uno, los asuntos penales de nuevo ingreso que se reciban en la Oficina de Correspondencia Común de los Tribunales Unitarios Primero y Segundo del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León, serán turnados, los terminados en números nones al Primer Tribunal Unitario, y los terminados en números pares al Segundo Tribunal Unitario.
+CUARTO.- (DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO No. XLII/91 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 18 DE NOVIEMBRE DE 1991)
 
 QUINTO.- A partir del dieciséis de octubre de mil novecientos noventa y uno, los asuntos de nuevo ingreso en materia civil que reciba la Oficina de Correspondencia Común de los Tribunales Unitarios Primero y Segundo del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León, serán turnados, los terminados en números nones al Primer Tribunal Unitario, y los terminados en números pares al Segundo Tribunal Unitario.
 
@@ -64,3 +64,15 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que este Acuerdo número XXX/91, relativo a la determinación de la fecha de iniciación de funcionamiento del Segundo Tribunal Unitario del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León, y de las reglas de distribución de asuntos entre los Tribunales Unitarios Primero y Segundo del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León, fue emitido por el Tribunal Pleno en Sesión privada de veinticuatro de septiembre de mil novecientos noventa y uno, por unanimidad de veinte votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Mariano Azuela Güitrón, Samuel Alba Leyva, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, José Antonio Llanos Duarte, Victoria Adato Green, Santiago Rodríguez Roldán, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, José Trinidad Lanz Cárdenas, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez. México, Distrito Federal, a veinticinco de septiembre de mil novecientos noventa y uno.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE NOVIEMBRE DE 1991.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- A partir del doce de noviembre de mil novecientos noventa y uno, se derogan los puntos Tercero y Cuarto del Acuerdo Plenario número XXX/91 de veinticuatro de septiembre de mil novecientos noventa y uno.
+
+TERCERO.- La Comisión de Gobierno y Administración y el ministro inspector de los tribunales de Circuito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes tribunales colegiados y unitarios del Cuarto Circuito, con residencia en la ciudad de Monterrey, Nuevo León, para su cumplimiento, y de los juzgados de Distrito en dicha entidad federativa, para su conocimiento.
