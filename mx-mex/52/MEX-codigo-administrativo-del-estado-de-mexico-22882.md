@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2003-08-07"
+last_updated: "2003-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE SEPTIEMBRE DE 2003.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -41,7 +41,7 @@ CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
 # LIBRO PRIMERO. Parte general
 
-## TÍTULO PRIMERO. Del objeto
+## TITULO PRIMERO. Del objeto
 
 ###### Artículo 1.
 
@@ -3739,6 +3739,10 @@ d) En las zonas y construcciones declaradas del patrimonio histórico, artístic
 
 El patrimonio histórico, artístico y cultural estará constituido por los inmuebles vinculados a la historia local o nacional o que tengan valor arquitectónico, las plazas, parques y calles que contengan expresiones de arte o que constituyan apariencia tradicional, y las zonas arqueológicas y poblados típicos.
 
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 5.
 
 35.- La existencia de asentamientos humanos irregulares o la gestación de éstos, podrá ser denunciada por cualquier persona ante la autoridad estatal o municipal competente, a efecto de que se suspenda cualquier obra, división de predios o venta de lotes, sin perjuicio de que se presenten las denuncias penales correspondientes.
@@ -3751,6 +3755,10 @@ Para los efectos de este Libro, se considera asentamiento humano irregular al co
 
 36.- Las autorizaciones y licencias que emitan las autoridades de desarrollo urbano, se ajustarán a lo establecido por este Libro, su reglamentación y los planes de desarrollo urbano. Las que se expidan en contravención a esta disposición serán nulas y no producirán efecto jurídico alguno.
 
+#### SECCION SEGUNDA. De la licitación pública
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 5.
 
 37.- Los notarios al protocolizar escrituras públicas relativas a actos, convenios y contratos sobre propiedad, posesión o cualquier otro derecho, vigilarán que se cumpla con las disposiciones aplicables de los planes de desarrollo urbano y las autorizaciones correspondientes. En su caso, harán mención de las autorizaciones y licencias relativas.
@@ -3758,6 +3766,10 @@ Para los efectos de este Libro, se considera asentamiento humano irregular al co
 ###### Artículo 5.
 
 38.- Los registradores de la propiedad sólo inscribirán las escrituras públicas a que se refiere el artículo anterior, cuando contengan la mención de las autorizaciones y licencias correspondientes de desarrollo urbano.
+
+#### SECCION TERCERA. De las excepciones a la licitación pública
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -3778,6 +3790,10 @@ II. Industrial o agroindustrial;
 III. Abasto, comercio y servicios;
 
 IV. Mixto.
+
+#### SECCION CUARTA. De la invitación restringida
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -3850,6 +3866,10 @@ En consecuencia, queda prohibida la propaganda engañosa que ofrezca condiciones
 Cuando se lleve a cabo un conjunto urbano con el propósito de cumplir un fideicomiso, el fideicomitente, la fiduciaria en lo que corresponda y el fideicomisario, serán solidariamente responsables de todas y cada una de las obligaciones señaladas en este Libro.
 
 El comprador de lotes en bloque será solidariamente responsable con el titular de la autorización del conjunto urbano, respecto de las obligaciones establecidas en la autorización correspondiente.
+
+#### SECCION QUINTA. De la adjudicación directa
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -6371,6 +6391,10 @@ IV. Exportación.
 
 ## TITULO PRIMERO. Disposiciones generales
 
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 11.
 
 1.- Este Libro tiene por objeto regular los servicios y las acciones a cargo del Estado en favor de las personas con capacidades diferentes.
@@ -6384,6 +6408,10 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 ###### Artículo 11.
 
 3.- Los servicios que presten las instituciones para la rehabilitación de personas con capacidades diferentes, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
+
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6400,6 +6428,10 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 ###### Artículo 11.
 
 7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
+
+### CAPITULO TERCERO. De los procedimientos de adjudicación
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6431,6 +6463,10 @@ XII. Promover los derechos de las personas con capacidades diferentes, así como
 
 XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicción y en acciones legales, con particular atención de las personas con discapacidad mental.
 
+### CAPITULO CUARTO. De la contratación
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 11.
 
 9.- El Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social tendrá a su cargo las funciones de gestión, coordinación y promoción de programas que faciliten la incorporación a la sociedad de las personas con capacidades diferentes en condiciones de igualdad.
@@ -6454,6 +6490,10 @@ III. Promover la integración educativa, laboral, recreativa, cultural y deporti
 Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos consejos municipales.
 
 ## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
+
+### CAPITULO QUINTO. De la ejecución
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6484,6 +6524,10 @@ Será función de las comisiones de valoración, la calificación de la presunta
 De acuerdo con el resultado del diagnóstico que hayan emitido la o las comisiones de valoración, la persona con capacidades diferentes recibirá los servicios a que se refiere el presente Libro que le permitan integrarse al trabajo, la educación, la cultura y el deporte.
 
 La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
+
+### CAPITULO SEXTO. De la administración directa
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6529,6 +6573,10 @@ I. Procurar la extensión cuantitativa y cualitativa de los servicios de atenci�
 
 II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con capacidades diferentes.
 
+### CAPITULO SEPTIMO. De la información, verificación y control
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 11.
 
 19.- Las guarderías, jardines de niños y escuelas de educación básica regular, promoverán actividades de detección de discapacidad y los casos que detecten los harán del conocimiento de los padres o tutores para su atención.
@@ -6564,6 +6612,10 @@ IV. Lograr la incorporación de la persona con capacidades diferentes a la vida 
 ###### Artículo 11.
 
 25.- Los hijos de trabajadores con capacidades diferentes gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
+
+### CAPITULO OCTAVO. De los medios de defensa
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6710,6 +6762,848 @@ b) Las empresas o constructoras de conjuntos urbanos que no brinden las facilida
 c) Los propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas en este Libro.
 
 En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la clausura temporal o definitiva de acuerdo con la gravedad que determine la autoridad. En el caso del inciso a) de la fracción III, la clausura procederá en caso de incurrir el infractor en tres ocasiones en la misma falta.
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+# LIBRO DECIMO SEGUNDO. De la obra pública
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, adjudicación, contratación, ejecución y control de la obra pública, así como los servicios relacionados con la misma que, por sí o por conducto de terceros, realicen:
+
+I. Las secretarías y unidades administrativas del Poder Ejecutivo del Estado;
+
+II. La Procuraduría General de Justicia;
+
+III. Los ayuntamientos de los municipios del Estado;
+
+IV. Los organismos auxiliares y fideicomisos públicos del Estado y municipios;
+
+V. Los tribunales administrativos.
+
+Serán aplicables las disposiciones conducentes de este Libro, a los particulares que tengan el carácter de licitantes o contratistas.
+
+Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán los procedimientos previstos en este Libro en todo lo que no se oponga a los ordenamientos legales que los regulan.
+
+No se regirán por las disposiciones de este Libro, la obra pública o servicios relacionados con la misma, derivados de convenios celebrados entre dependencias, entidades, instituciones públicas y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando intervenga un particular con el carácter de licitante o contratista.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+2.- Las disposiciones de este Libro tienen como finalidad asegurar al Gobierno del Estado y a los municipios, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, en la contratación de la obra pública y servicios relacionados con la misma, en un marco de legalidad y transparencia.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+3.- Para los efectos de este Libro se entenderá por:
+
+I. Dependencias, a las señaladas en las fracciones I y II del artículo 12.1;
+
+II. Entidades, a las mencionadas en la fracción IV del artículo 12.1;
+
+III. Secretaría de Finanzas, a la Secretaría de Finanzas y Planeación;
+
+IV. Contraloría, a la Secretaría de la Contraloría y órganos de control interno de las dependencias, entidades estatales y de los municipios;
+
+V. Secretaría del Ramo, a la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo;
+
+VI. Licitante, a la persona que participe en un procedimiento de licitación de obra pública o de servicios relacionados con la misma;
+
+VII. Contratista, a la persona que celebre un contrato de obra pública o de servicios relacionados con la misma;
+
+VIII. Contratante, a la dependencia, entidad, ayuntamiento o tribunal administrativo, que celebre un contrato regulado por este Libro;
+
+IX. Propuesta solvente, a la proposición presentada por una persona en un procedimiento de licitación o de invitación restringida, que cumpla con las bases del concurso, garantice el cumplimiento del contrato y considere costos de mercado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+4.- Se considera obra pública todo trabajo que tenga por objeto construir, instalar, ampliar, adecuar, remodelar, restaurar, conservar, mantener, modificar o demoler bienes inmuebles, con cargo a recursos públicos estatales o municipales.
+
+Quedan comprendidos dentro de la obra pública:
+
+I. El mantenimiento, restauración, desmantelamiento o remoción de bienes muebles incorporados o adheridos a un inmueble;
+
+II. Los proyectos integrales o comúnmente denominados llave en mano, en los cuales el contratista se obliga desde el diseño de la obra hasta su terminación total, incluyéndose, cuando se requiera, la transferencia de tecnología;
+
+III. Los trabajos de exploración, localización y perforación; mejoramiento del suelo y/o subsuelo; desmontes y extracción y aquellos similares que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentran en el suelo y/o subsuelo;
+
+IV. Los trabajos de infraestructura agropecuaria e hidroagrícola:
+
+V. La instalación, montaje, colocación y/o aplicación, incluyendo las pruebas de operación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, siempre que dichos muebles sean proporcionados por la convocante al contratista o bien, cuando su adquisición esté incluida en los trabajos que se contraten y su precio sea menor al de estos últimos;
+
+VI. Los demás que tengan por objeto alguno de los conceptos a que se refiere el párrafo primero de este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+5.- Se consideran servicios relacionados con la obra pública, los trabajos que tengan por objeto concebir, diseñar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, asesorías y consultorías que se vinculen con los actos que regula este Libro; la dirección y supervisión de la ejecución de las obras y los estudios que tengan por objeto rehabilitar, corregir o incrementar la eficiencia de las instalaciones.
+
+Quedan comprendidos dentro de los servicios relacionados con la obra pública:
+
+I. La planeación, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural de instalaciones, de infraestructura, industrial, electromecánica y de cualquier otra especialidad de la ingeniería que se requiera para integrar un proyecto ejecutivo de obra pública;
+
+II. La planeación, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto urbanístico, arquitectónico, de diseño gráfico o artístico y de cualquier otra especialidad del diseño, la arquitectura y el urbanismo, que se requiera para integrar un proyecto ejecutivo de obra pública, así como los estudios inherentes al desarrollo urbano en el Estado;
+
+III. Los estudios técnicos de agrología y desarrollo pecuario, hidrología, mecánica de suelos, sismología, topografía, geología, geodesia, geofísica, geotermia, meteorología, aerofotogrametría, ambientales, ecológicos y de ingeniería de tránsito;
+
+IV. Los estudios económicos y de planeación de preinversión, factibilidad técnico económica, ecológica o social, de evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo y restitución de la eficiencia de las instalaciones;
+
+V. Los trabajos de coordinación, supervisión y control de obra; de laboratorio de análisis y control de calidad; de laboratorio de geotecnia, de resistencia de materiales y radiografías industriales; de preparación de especificaciones de construcción, presupuestación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente;
+
+VI. Los trabajos de organización, informática, comunicaciones, cibernética y sistemas aplicados a las materias que regulan este Libro;
+
+VII. Los dictámenes, peritajes, avalúos y auditorías técnico normativas, y estudios aplicables a la obra pública;
+
+VIII. Los estudios que tengan por objeto rehabilitar, corregir, sustituir o incrementar la eficiencia de las instalaciones en un bien inmueble;
+
+IX. Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, entre otros;
+
+X. Los demás que tengan por objeto alguno de los conceptos a que se refiere el párrafo primero de este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+6.- La aplicación del presente Libro corresponderá al Ejecutivo, a través de la Secretaría del Ramo, así como a las dependencias, entidades, ayuntamientos y tribunales administrativos, que celebren contratos de obra pública o servicios relacionados con la misma.
+
+Corresponde a la Secretaría del Ramo y a los ayuntamientos, en el ámbito de su respectiva competencia, la expedición de políticas, bases, lineamientos y criterios para la exacta observancia de este Libro y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+7.- La ejecución de la obra pública o servicios relacionados con la misma que realicen las dependencias, entidades o ayuntamientos con cargo total o parcial a fondos aportados por la Federación, estarán sujetas a las disposiciones de la ley federal de la materia, conforme a los convenios respectivos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+8.- Corresponde a la Secretaría del Ramo y a los ayuntamientos, en el ámbito de sus respectivas competencias, ejecutar la obra pública, mediante contrato con terceros o por administración directa.
+
+La Secretaría del Ramo podrá autorizar a las dependencias y entidades estatales, a ejecutar obras, por contrato o por administración directa, cuando a su juicio éstas cuenten con elementos propios y organización necesarios. El acuerdo de autorización deberá publicarse en la Gaceta del Gobierno.
+
+Lo dispuesto en el párrafo anterior será aplicable a los ayuntamientos, tratándose de la realización de obras con cargo a fondos estatales total o parcialmente.
+
+Para la mejor planeación de la obra pública en el Estado, las dependencias, entidades y ayuntamientos que ejecuten obra, deberán dar aviso a la Secretaría del Ramo, de sus proyectos y programación de ejecución, independientemente del origen de los recursos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+9.- Cuando por las condiciones especiales de la obra pública o de los servicios relacionados con la misma, se requiera la intervención de dos o más dependencias, entidades o ayuntamientos, quedará a cargo de cada una de ellas la responsabilidad sobre la ejecución de la parte de la obra o del servicio que le corresponda, sin perjuicio de la responsabilidad que, en razón de sus respectivas atribuciones, tenga la encargada de la planeación y programación del conjunto.
+
+En los casos a que se refiere el párrafo anterior, las dependencias y entidades deberán contar con autorización de la Secretaría del Ramo, en términos del artículo precedente.
+
+Previamente a la ejecución de las obras a que se refiere este artículo, se deberán establecer, con la participación de la Secretaría del Ramo, convenios mediante los que se especifiquen los términos para la coordinación de las acciones de las dependencias, entidades o ayuntamientos que intervengan.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+10.- Las dependencias y entidades que cuenten con autorización de la Secretaría del Ramo, y los ayuntamientos formularán un inventario de la maquinaria y equipo de construcción a su cuidado o de su propiedad, y lo mantendrán actualizado.
+
+Las dependencias, entidades o ayuntamientos, llevarán el catálogo y archivo de los estudios y proyectos que realicen sobre la obra pública o los servicios relacionados con la misma.
+
+Las dependencias y entidades estatales remitirán sus respectivos inventarios y catálogos a la Secretaría del Ramo.
+
+Lo anterior será sin perjuicio de las facultades que en materia de inventarios, correspondan a otras dependencias del Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+11.- Los contratos y convenios que se realicen en contravención a lo dispuesto por este Libro, serán nulos.
+
+La invalidez podrá ser declarada de oficio en sede administrativa por la dependencia, entidad o ayuntamiento. Los particulares afectados podrán ocurrir a demandar la invalidez ante el Tribunal de lo Contencioso Administrativo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+12.- En la planeación de la obra pública o de los servicios relacionados con la misma, las dependencias, entidades y ayuntamientos en lo que les corresponda, deberán:
+
+I. Ajustarse a las políticas, objetivos y prioridades señalados en los planes de desarrollo estatal y municipales. Los programas de obra municipales serán congruentes con los programas estatales;
+
+II. Jerarquizar las obras públicas en función de las necesidades del Estado o del municipio, considerando el beneficia económico, social y ambiental que representen;
+
+III. Sujetarse a lo establecido por las disposiciones legales;
+
+IV. Contar con inmuebles aptos para la obra pública que se pretenda ejecutar. Tratándose de obra con cargo a recursos estatales total o parcialmente, se requerirá dictamen de la Secretaría del Ramo;
+
+V. Considerar la disponibilidad de recursos financieros;
+
+VI. Prever las obras principales, de infraestructura, complementarias y accesorias, así como las acciones necesarias para poner aquellas en servicio, estableciendo las etapas que se requieran para su terminación;
+
+VII. Considerar la tecnología aplicable, en función de la naturaleza de las obras y la selección de materiales, productos, equipos y procedimientos de tecnología nacional preferentemente, que satisfagan los requerimientos técnicos y económicos del proyecto;
+
+VIII. Preferir el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras;
+
+IX. Cuando así se requiera, ajustarse a lo establecido en el dictamen de impacto regional que emita la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+13.- Las dependencias, entidades y ayuntamientos que requieran contratar o realizar estudios o proyectos, verificarán previamente en sus archivos o en los de la Secretaría del Ramo, si existen esos estudios o proyectos.
+
+En el supuesto de que existan estudios o proyectos que satisfagan los requerimientos de la dependencia, entidad o ayuntamiento, no procederá la contratación, con excepción de aquellos que sean necesarios para su adecuación, actualización o complemento.
+
+Los contratos de servicios relacionados con la obra pública sólo se podrán celebrar cuando las dependencias, entidades o ayuntamientos no dispongan cuantitativa o cualitativamente de los elementos, instalaciones y personal necesarios para llevarlos a cabo, lo que deberá justificarse a través del dictamen que para tal efecto emitan la Secretaría del Ramo o el ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+14.- Las dependencias, entidades y ayuntamientos que realicen obra pública o servicios relacionados con la misma, sea por contrato o por administración directa, consideraran los planes, políticas, normas oficiales y técnicas en materia de población, ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población, y de conservación ecológica y protección al ambiente.
+
+Las dependencias, entidades y ayuntamientos, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener la liberación de los derechos de vía y la expropiación de inmuebles sobre los cuales se ejecute obra pública. En este supuesto, en las bases de licitación se precisarán los trámites que corresponda realizar al contratista.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+15.- Las dependencias, entidades y ayuntamientos, según las características, complejidad y magnitud de los trabajos, formularán los programas de obra pública o de servicios relacionados con la misma, así como sus respectivos presupuestos, con base en las políticas, objetivos y prioridades de la planeación del desarrollo del Estado y municipios, considerando:
+
+I. Entre las obras prioritarias, aquéllas que se encuentren en proceso de ejecución;
+
+II. El resultado de los estudios que se requieran para definir la factibilidad técnica, económica, social, ecológica y ambiental de los trabajos;
+
+III. Los objetivos y metas a corto, mediano y largo plazo;
+
+IV. Las acciones previas, simultáneas y posteriores a la ejecución de la obra pública, incluyendo, cuando corresponda, las obras principales, de infraestructura, inducidas, complementarias y accesorias, así como las acciones para poner aquellas en servicio;
+
+V. Las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública, así como los resultados previsibles;
+
+VI. La coordinación que sea necesaria para resolver posibles interferencias y evitar duplicidad de trabajos o interrupción de servicios públicos;
+
+VII. La calendarización física y financiera de los recursos necesarios para la realización de estudios y proyectos, ejecución de los trabajos y cobertura de los gastos de operación;
+
+VIII. Las fechas de inicio y término de los trabajos;
+
+IX. Las investigaciones, asesorías, consultorías, y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios;
+
+X. La adquisición y regularización en su caso, de la tenencia de la tierra;
+
+XI. La ejecución, que deberá comprender el costo estimado, incluyendo probables ajustes; las condiciones de suministro de materiales, de maquinaria, de equipo o de cualquier otro accesorio relacionado con los trabajos; los cargos para pruebas de funcionamiento, así como los indirectos de la obra o servicios relacionados con la misma;
+
+XII. Los trabajos de mantenimiento preventivo y correctivo de los bienes inmuebles a su cargo;
+
+XIII. La accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas para todas las personas; y cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con capacidades diferentes;
+
+XIV. La forma de ejecución sea por contrato o por administración directa.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+16.- Las dependencias y entidades remitirán a la Secretaría de Finanzas, sus programas de obra pública o servicios relacionados con la misma.
+
+Lo dispuesto en el párrafo anterior será aplicable a los ayuntamientos, tratándose de obra pública o servicios relacionados con la misma que se ejecuten con cargo a recursos estatales, total o parcialmente.
+
+La información que se remita a la Secretaría de Finanzas, no implicará compromiso alguno de contratación y podrá ser adicionado, modificado, suspendido o cancelado sin responsabilidad alguna para la dependencia, entidad o ayuntamiento de que se trate.
+
+Para efectos informativos, la Secretaría del Ramo integrará y difundirá los programas anuales de obra pública o servicios relacionados con la misma, pudiendo requerir a las dependencias, entidades y ayuntamientos la información que sea necesaria respecto de las modificaciones a dichos programas.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+17.- En la obra pública o los servicios relacionados con la misma, cuya ejecución rebase un ejercicio presupuestal, las dependencias, entidades y ayuntamientos deberán determinar tanto el presupuesto total, como el relativo a los ejercicios subsecuentes, en los que además de considerar los costos que en su momento se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos.
+
+El presupuesto actualizado de la obra pública o servicios relacionados con la misma, será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente. La asignación presupuestal aprobada para cada ejercicio servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+18.- Las dependencias y entidades sólo podrán convocar, adjudicar o contratar obra pública o servicios relacionados con la misma, cuando cuenten con la autorización respectiva por parte de la Secretaría de Finanzas, del presupuesto de inversión o de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pago correspondientes.
+
+Para tal efecto, se requerirá contar con los estudios y proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente concluidos, o bien, con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su terminación.
+
+Lo dispuesto en este artículo será aplicable a los ayuntamientos, tratándose de obra pública o servicios relacionados con la misma que se ejecuten con cargo a recursos estatales, total o parcialmente.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+19.- Los titulares de las dependencias y los órganos de gobierno de las entidades, así como los ayuntamientos, atendiendo al volumen de obra pública o servicios relacionados con la misma que programen, podrán auxiliarse de comités internos de obra pública, que se integrarán conforme con el Reglamento de este Libro y desempeñaran las funciones siguientes:
+
+I. Revisar los proyectos de programas y presupuestos de obra pública o servicios relacionados con la misma, así como formular las observaciones y recomendaciones convenientes;
+
+II. Dictaminar sobre la procedencia de inicio de procedimientos de invitación restringida o de adjudicación directa;
+
+III. Elaborar y aprobar su manual de funcionamiento;
+
+IV. Las demás que establezca el Reglamento respectivo.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+20.- Los contratos a que se refiere este Libro, se adjudicarán a través de licitaciones públicas, mediante convocatoria pública.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+21.- Las dependencias, entidades y ayuntamientos podrán adjudicar contratos para la ejecución de obra pública o servicios relacionados con la misma, mediante las excepciones al procedimiento de licitación siguientes:
+
+I. Invitación restringida;
+
+II. Adjudicación directa.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+22.- En el procedimiento de licitación pública deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo las dependencias, entidades y ayuntamientos, proporcionarles igual acceso a la información relacionada con dicho procedimiento, a fin de evitar favorecer a algún participante.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+23.- Las licitaciones públicas podrán ser:
+
+I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana, o
+
+II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+24.- Solamente se podrán llevar a cabo licitaciones internacionales:
+
+I. Cuando resulte obligatorio conforme a lo establecido en los tratados de que México sea parte;
+
+II. Cuando la entidad, dependencia o ayuntamiento considere que existe la posibilidad de que empresas extranjeras pudieran presentar ofertas que convengan a sus intereses, previa investigación de mercado que realice la convocante.
+
+En las licitaciones públicas podrá requerirse la incorporación de materiales, maquinaria y equipo de instalación permanente de fabricación nacional por el porcentaje del valor de los trabajos que determine la convocante.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+25.- Las convocatorias públicas que podrán referirse a una o más obras públicas o servicios relacionados con las mismas, se publicarán cuando menos en uno de los diarios de mayor circulación en la capital del Estado y en uno de los diarios de mayor circulación nacional; así como a través de los medios electrónicos que para tal efecto disponga la Contraloría y contendrán:
+
+I. El nombre, denominación o razón social de la dependencia, entidad o ayuntamiento convocante;
+
+II. El nombre y la descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos;
+
+III. La indicación de si la licitación es nacional o internacional; y en caso de ser internacional, si se realizará o no bajo la cobertura del capítulo de compras del sector público de alguno de los Tratados de Libre Comercio celebrados por México con otras naciones y el idioma o idiomas, además del español, en que podrán presentarse las proposiciones;
+
+IV. El origen de los recursos para su ejecución;
+
+V. La forma en que los interesados deberán acreditar su existencia legal, experiencia, capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
+
+VI. La indicación de los lugares, fechas, horarios y medios electrónicos en que los interesados podrán obtener las bases de la licitación y en su caso, el costo y forma de pago de las mismas;
+
+VII. El lugar, fecha y hora de celebración de los actos relativos a la presentación y apertura de proposiciones y a la vista al sitio de realización de los trabajos;
+
+VIII. Plazo de ejecución de los trabajos, indicando la fecha estimada de inicio de los mismos, así como el importe de la primera asignación, en el caso de que dicho plazo comprenda más de un ejercicio;
+
+IX. Los porcentajes de los anticipos que, en su caso, se otorgarán;
+
+X. La indicación de las personas que estén impedidas a participar, conforme con las disposiciones de este Libro;
+
+XI. La garantía que deberá otorgarse para asegurar la seriedad de la propuesta;
+
+XII. Los ejercicios en que deberá pagarse la obra o servicio relacionados con la misma, cuando se trate de pago diferido;
+
+XIII. Los demás requisitos generales que deberán cumplir los interesados, según las características, complejidad y magnitud de los trabajos.
+
+La Contraloría hará pública la información referente a los procedimientos de adjudicación que determine, a través de los medios de difusión electrónica que establezca.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+26.- La evaluación de las proposiciones sólo podrá realizarse cuando éstas cumplan con los requisitos establecidos en las bases de licitación.
+
+El Reglamento de este Libro establecerá los procedimientos y criterios para la evaluación de las propuestas y los requisitos de las bases de licitación, las que en todo caso deberán garantizar el cumplimiento del contrato y considerar costas de mercado.
+
+Lo dispuesto en este artículo será aplicable para los procedimientos de invitación restringida.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+27.- Una vez hecha la evaluación de las proposiciones, la convocante emitirá un dictamen que servirá como base para el fallo, en el que se hará constar la reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+28.- El contrato se adjudicará de entre los licitantes, a aquel cuya propuesta cumpla con las bases de licitación y resulte idónea por asegurar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+29.- Siempre que no se contravenga lo pactado en los Tratados Internacionales en que México sea parte, dentro de los procedimientos de adjudicación relativos a la ejecución de obra pública o de servicios relacionados con la misma, las dependencias, entidades y ayuntamientos optarán por el empleo de los recursos humanos del país y por la utilización de bienes o servicios de procedencia nacional y los propios de la región si las ofertas están en igualdad de condiciones.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+30.- En junta pública la convocante dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, levantándose el acta respectiva, que firmarán los asistentes, a quienes se entregará copia de la misma. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para su conocimiento.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+31.- Las dependencias, entidades y ayuntamientos procederán a declarar desierta la licitación, cuando no se reciba propuesta alguna o las propuestas presentadas no reúnan los requisitos de las bases de la licitación.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+32.- Las convocantes podrán cancelar un procedimiento de adjudicación por caso fortuito o causa de fuerza mayor. De igual manera, podrán cancelarla cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad de contratar los trabajos y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia dependencia, entidad o ayuntamiento.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+33.- Las dependencias, entidades y ayuntamientos, bajo su responsabilidad, podrán celebrar contratos a través de las modalidades de invitación restringida y adjudicación directa.
+
+El acreditamiento de los criterios mencionados y la justificación para el ejercicio de la opción, deberán hacerse constar mediante acuerdo del titular de la dependencia o entidad convocante o del cabildo.
+
+En todo caso se invitará o adjudicará de manera directa a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
+
+El titular de la dependencia o entidad autorizada por la Secretaría del Ramo de la contratación de los trabajos, dentro de los cinco primeros días hábiles de cada mes, enviará a la Contraloría un informe relativo a los contratos formalizados durante el mes calendario inmediato anterior.
+
+Tendrán la misma obligación los ayuntamientos que contraten obra pública o servicios relacionados con la misma, con cargo total o parcial a recursos estatales.
+
+El procedimiento de invitación restringida se desarrollará en los términos de la licitación pública, a excepción de la publicación de la convocatoria pública.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+34.- Las dependencias, entidades y ayuntamientos podrán contratar obra pública o servicios relacionados con la misma, mediante el procedimiento de invitación restringida, cuando:
+
+I. Se hubiere declarado desierto un procedimiento de licitación; o
+
+II. Las obras o servicios a contratar, no rebasen los montos establecidos por el Presupuesto de Egresos del Gobierno del Estado del ejercicio correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+35.- El procedimiento a que se refiere el artículo anterior, comprende la invitación de tres personas, cuando menos, que serán seleccionadas de entre las que se inscriban en el catálogo de contratistas que para estos efectos opere la Secretaría del Ramo, en los términos que disponga la reglamentación de este Libro.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+36.- El procedimiento de invitación restringida se declarará desierto, cuando en el acto de apertura no se cuente con el mínimo de tres propuestas que cumplan con los requisitos establecidos en las bases.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+37.- Las dependencias, entidades y ayuntamientos podrán adjudicar obra pública o servicios relacionados con la misma, mediante el procedimiento de adjudicación directa, cuando:
+
+I. Se trate de restauración de monumentos arqueológicos, artísticos e históricos;
+
+II. Para la ejecución de la obra o servicios se requiera contratar al titular de una patente, derechos de autor u otros derechos exclusivos;
+
+III. Se requiera de experiencia, materiales, equipos o técnicas especiales;
+
+IV. Sea urgente la ejecución de la obra por estar en riesgo el orden social, la salubridad, la seguridad pública o el ambiente, de alguna zona o región del Estado; se paralicen los servicios públicos; se trate de programas de apoyo a la comunidad para atender necesidades apremiantes; o concurra alguna otra causa similar de interés público;
+
+V. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes al erario;
+
+VI. Pueda comprometerse información de naturaleza confidencial para el Estado o municipios, por razones de seguridad pública;
+
+VII. Existan circunstancias extraordinarias o imprevisibles que generen riesgo o desastre. En este supuesto, la contratación deberá limitarse a lo estrictamente necesario para enfrentar tal eventualidad;
+
+VIII. Se hubiere rescindido un contrato por causas imputables al contratista ganador en una licitación; o la persona que habiendo resultado ganadora no concurra a la celebración del contrato en el plazo que dispone este Libro.
+
+En estos casos la dependencia, entidad o ayuntamiento podrá adjudicar el contrato al licitante que haya presentado la propuesta solvente más cercana a la ganadora y así sucesivamente; en todo caso, la diferencia de precio no deberá ser superior al diez por ciento respecto de la propuesta ganadora;
+
+IX. Se hubiere declarado desierto un procedimiento de invitación restringida;
+
+X. Cuando se aseguren condiciones financieras que permitan al Estado o municipios cumplir con la obligación de pago de manera diferida, sin que ello implique un costo financiero adicional; o bien que habiendo un costo financiero adicional éste sea inferior al del mercado; o
+
+XI. Las obras o servicios a contratar, no rebasen los montos establecidos por el Presupuesto de Egresos del Gobierno del Estado del ejercicio correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+38.- La adjudicación de la obra o servicios relacionados con la misma obligará a la dependencia, entidad o ayuntamiento y a la persona en que hubiere recaído, a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo.
+
+Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plazo a que se refiere el párrafo anterior, el licitante ganador podrá exigir que se le cubran los gastos que realizo en preparar y elaborar su propuesta.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+39.- El contratista a quien se adjudique el contrato, no podrá subcontratar total o parcialmente los trabajos, salvo que cuente con la autorización previa y expresa de la dependencia, entidad o ayuntamiento contratante, caso en el cual el contratista será el único responsable de la ejecución de los trabajos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+40.- Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+41.- En los contratos se estipularan las diversas consecuencias de la suspensión, terminación anticipada o rescisión por causas imputables a la contratista.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+42.- Los contratos de obra pública o de servicios relacionados con la misma, podrán ser de tres tipos:
+
+I. Sobre la base de precios unitarios, en cuyo caso el pago que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado;
+
+II. A precio alzado, en cuyo caso el pago que deba cubrirse al contratista será por obra completa, desglosado en actividades principales terminadas;
+
+III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra, a precio alzado.
+
+Los contratos a precio alzado no podrán ser modificados en monto o plazo, ni estarán sujetos a ajustes de costos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+43.- Las obras cuya ejecución comprenda más de un ejercicio presupuestal, deberán ser materia de un sólo contrato, con cargo a la asignación presupuestal del ejercicio que corresponda.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+44.- El otorgamiento y amortización del anticipo se deberá pactar en los contratos, conforme a las reglas siguientes:
+
+I. El anticipo será entregado al contratista antes de la fecha pactada para el inicio de los trabajos; el atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado;
+
+II. El anticipo no podrá exceder del veinte por ciento del importe del contrato o de la asignación presupuestal aprobada, cuando la ejecución de las obras exceda de un ejercicio fiscal, para que el contratista, según sea el caso, realice en el sitio de los trabajos la construcción de sus oficinas, almacenes, bodegas e instalaciones, gastos de traslado de maquinaria y equipo de construcción e inicio de los trabajos. Adicionalmente deberá otorgarse un anticipo que no podrá exceder del treinta por ciento del importe del contrato o de la asignación presupuestal aprobada, para la compra y producción de materiales de construcción, adquisición de equipo que se instale permanentemente y demás insumos que se deban suministrar;
+
+III. Podrá otorgarse anticipo en la contratación de servicios, cuyo monto será determinado por la contratante, atendiendo a los gastos inherentes a las características, complejidad y magnitud del servicio, y no podrá exceder del cincuenta por ciento del importe del contrato o de la asignación presupuestal aprobada, cuando la ejecución de las obras exceda de un ejercicio fiscal;
+
+IV. Cuando las condiciones de los trabajos lo requieran, el porcentaje de anticipo podrá ser mayor, en cuyo caso será necesaria la autorización por escrito y explícita del titular de la dependencia, entidad o ayuntamiento o de la persona en quien este haya delegado tal facultad;
+
+V. Podrán otorgarse anticipos en los convenios que se celebren para modificar montos en los contratos, sin que el importe del anticipo pueda exceder del porcentaje originalmente pactado.
+
+En los contratos derivados de procedimientos de invitación restringida y adjudicación directa, las partes podrán dejar de pactar el otorgamiento del anticipo, quedando en estos casos la contratista liberada de la obligación de exhibir la garantía de anticipo.
+
+Lo dispuesto en el párrafo anterior, no exime a la contratante de establecer en la convocatoria de un procedimiento de invitación restringida, el anticipo correspondiente.
+
+VI. El anticipo otorgado se amortizará mediante la deducción de un porcentaje igual al porcentaje que sirvió de base para determinar el anticipo, la que se aplicará sobre el importe de cada una de las estimaciones, que por trabajos ejecutados presente para su pago el contratista;
+
+VII. En los casos de rescisión del contrato, el saldo del anticipo por amortizar se restituirá a la dependencia, entidad o ayuntamiento en un plazo no mayor de cinco días hábiles, contados a partir de la fecha en que le sea notificada la resolución correspondiente o de la en que se haya firmado el convenio de terminación anticipada.
+
+El contratista que no restituya el saldo por amortizar en el plazo señalado, cubrirá los intereses moratorios al tipo bancario que resulten a su cargo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+45.- Los contratistas deberán garantizar:
+
+I. Los anticipos que reciban. Esta garantía deberá constituirse por la totalidad del monto de los anticipos y otorgarse dentro de los cinco días hábiles siguientes al de la firma del contrato o convenio;
+
+II. El cumplimiento de los contratos. Esta garantía deberá constituirse por un diez por ciento del importe total contratado o convenido y otorgarse dentro de los cinco días hábiles siguientes al de la firma del contrato o convenio.
+
+La reglamentación de este Libro establecerá la naturaleza y requisitos a que se sujetarán las garantías que deban constituirse.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+46.- Las dependencias, entidades y ayuntamientos mediante convenios podrán, por razones justificadas, modificar plazos y montos en contratos a precios unitarios, siempre que cuenten con recursos autorizados y la suma del importe de los convenios no exceda del veinticinco por ciento del monto o plazo inicialmente pactados, ni impliquen variaciones sustanciales al proyecto original.
+
+Lo dispuesto en este artículo será aplicable a los contratos mixtos únicamente en la parte que se refiere a precios unitarios.
+
+En todo caso, si las modificaciones exceden el porcentaje indicado pero no varían el objeto del contrato, se podrá celebrar por una sola vez un convenio adicional.
+
+Tratándose de contratos cuyos trabajos se refieran al mantenimiento o restauración de inmuebles considerados como monumentos y zonas arqueológicos, artísticos e históricos, en los que no sea posible determinar el catalogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución, los convenios podrán exceder el porcentaje establecido en el párrafo primero de este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+47.- Los contratos a precio alzado no podrán ser modificados en cuanto a monto y plazo, ni estarán sujetos a ajustes de costos; sin embargo, cuando con posterioridad a la celebración de un contrato, se presenten circunstancias económicas de tipo general ajenas a la responsabilidad de las partes, las dependencias, entidades y ayuntamientos, podrán, dentro de su presupuesto autorizado, reconocer incrementos o requerir reducciones en monto e incluso en plazo, justificando su determinación.
+
+El titular del área responsable de la contratación de los trabajos, dentro de los cinco primeros días hábiles de cada mes, informará a la Contraloría y a la Secretaría de Finanzas de la celebración de los convenios.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+48.- Las dependencias, entidades y ayuntamientos se abstendrán de recibir propuestas o celebrar contratos de obra pública o servicios relacionados con la misma, con las siguientes personas físicas o jurídicas:
+
+I. Aquéllas con las que el servidor público que intervenga en cualquier etapa del procedimiento de adjudicación o de la contratación, tengan interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte, durante los dos años previos a la fecha de celebración del procedimiento de que se trate;
+
+II. Contratistas que por causas imputables a ellos tengan un atraso con respecto al programa de ejecución vigente igual o mayor al cincuenta por ciento;
+
+III. Contratistas a los que por causas imputables a ellas, se les hubiere rescindido un contrato de obra pública o de servicios relacionados con la misma, o tengan adeudos con alguna de las contratantes;
+
+IV. Las que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe en algún proceso de adjudicación de un contrato, en su celebración, durante la ejecución de los trabajos, o en el trámite de una inconformidad administrativa;
+
+V. Las que participen en un procedimiento de adjudicación, perteneciendo a un mismo grupo empresarial o se encuentren vinculadas entre sí por algún socio o socios comunes;
+
+VI. Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
+
+VII. Las que por cualquier causa se encuentren impedidas para ello por disposición de ley;
+
+VIII. Las demás que señale la reglamentación de este Libro.
+
+En los términos que se precisarán en el Reglamento de este Libro, la Contraloría llevará el registro de las personas físicas o jurídicas que se encuentren en cualquiera de los supuestos a que se refieren las fracciones III y IV de este artículo, dará a conocer a las dependencias y entidades y recibirá de éstas la información correspondiente para la integración y difusión de dicho registro.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+49.- Los contratos de obra pública o de servicios relacionados con la misma, pueden ser rescindidos:
+
+I. Sin responsabilidad para la contratante, cuando el contratista incumpla con alguna de las obligaciones a su cargo establecidas en este Libro y en el contrato correspondiente;
+
+II. Sin responsabilidad para el contratista, cuando la contratante incumpla con las obligaciones contractuales a su cargo.
+
+En el caso de la fracción I de este artículo, la contratante esta facultada para rescindir el contrato en forma administrativa, otorgando garantía de previa audiencia al contratista en términos del Código de Procedimientos Administrativos del Estado de México.
+
+En el supuesto de la fracción II, el contratista afectado podrá demandar la rescisión del contrato ante el Tribunal de lo Contencioso Administrativo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+50.- La ejecución de los trabajos contratados deberá iniciarse en la fecha señalada en el contrato. La dependencia, entidad o ayuntamiento contratante, proporcionará previamente al contratista el o los inmuebles en que deberán llevarse a cabo. El incumplimiento de la contratante diferirá en igual plazo la fecha originalmente pactada para la entrega de los trabajos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+51.- Las dependencias y entidades deberán informar a las secretarías del Ramo, de Finanzas y a la Contraloría, o al ayuntamiento en su caso, el inicio, avance y conclusión de las obras que se realizan ya sea que se ejecuten por contrato o por administración directa.
+
+Igual obligación tendrán los ayuntamientos para informar a la Secretaría del Ramo, independientemente del origen de los recursos; y respecto de las secretarías de Finanzas y de la Contraloría, sólo tendrá la obligación de proporcionar la información respectiva cuando se trate de trabajos que se ejecuten con cargo a recursos estatales, total o parcialmente.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+52.- Las dependencias, entidades y ayuntamientos contratantes, formularán y autorizarán, las estimaciones de los trabajos ejecutados.
+
+Las estimaciones serán pagadas por:
+
+I. La Secretaría de Finanzas, cuando sean autorizadas por las dependencias;
+
+II. Las entidades, cuando sean autorizadas por las mismas;
+
+III. La tesorería municipal, cuando sean autorizadas por los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+53.- Las dependencias, entidades y ayuntamientos podrán suspender temporalmente, en todo o en parte, los trabajos contratados por causa justificada, determinando la temporalidad de la suspensión, la que no podrá prorrogarse o ser indefinida.
+
+Las contratantes podrán en forma administrativa, dar por terminados anticipadamente los contratos cuando:
+
+I. No sea posible determinar la temporalidad de la suspensión;
+
+II. Existan causas justificadas que le impidan la continuación de los trabajos;
+
+III. Se demuestre que de continuar con los trabajos se ocasionaría un daño o perjuicio grave al Estado o municipio; o
+
+IV. Concurran otras razones de interés público.
+
+En estos casos, las contratantes otorgarán al contratista garantía de previa audiencia en términos del Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+54.- Notificada la resolución que determine la terminación anticipada o el inicio del procedimiento administrativo de rescisión del contrato, la dependencia, entidad o ayuntamiento, procederá a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+55.- Las dependencias y entidades, comunicarán a las secretarías del Ramo, de Finanzas y a la Contraloría, o al ayuntamiento en su caso, la suspensión, rescisión o terminación anticipada del contrato.
+
+Los ayuntamientos tendrán la misma obligación señalada en el párrafo anterior, respecto de aquellas obras que realicen con cargo total o parcial a fondos estatales.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+56.- Cuando a partir de la presentación de propuestas ocurran circunstancias de orden económico que determinen un aumento o reducción superior al cinco por ciento de los costos originalmente pactados, para aplicar los incrementos o decrementos a los trabajos no ejecutados a partir del momento de la variación económica, conforme al programa pactado.
+
+Dichos costos podrán ser revisados conforme al programa de obra, con arreglo a las disposiciones de la reglamentación de este Libro.
+
+El aumento o reducción resultante deberá constar por escrito y constituirá la base de comparación para determinar la procedencia de subsecuentes aumentos o reducciones.
+
+No darán lugar a ajuste de costos las cuotas compensatorias a las que de conformidad con la ley de la materia pudiera estar sujeta la importación de bienes afectos a la realización de los trabajos.
+
+Las dependencias y entidades informarán de lo anterior a las secretarías del Ramo, de Finanzas y a la Contraloría o a los ayuntamientos en su caso.
+
+Los ayuntamientos proporcionarán dicha información solamente sobre las obras que realicen con cargo total o parcial a fondos estatales.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+57.- El contratista comunicará por escrito a la dependencia, entidad o ayuntamiento contratante la conclusión de los trabajos que le fueron encomendados, para que ésta verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato.
+
+Al finalizar la verificación de los trabajos, la dependencia, entidad o ayuntamiento procederá a su recepción física, haciéndolo constar en el acta correspondiente. Las dependencias y entidades estatales, lo harán del conocimiento de las Secretarías del Ramo, de Finanzas y a la Contraloría.
+
+Los ayuntamientos están obligados a proporcionar dicha información, solamente de aquellas obras que realicen con cargo total o parcial a fondos estatales.
+
+En la fecha señalada para la recepción, la dependencia, entidad o ayuntamiento contratante y el contratista suscribirán el finiquito correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+58.- Entregados los trabajos el contratista quedará obligado a responder de los defectos y vicios ocultos de los mismos y de cualquier otra responsabilidad en que hubiere incurrido en términos del presente Libro.
+
+El cumplimiento de las obligaciones a que se refiere el párrafo anterior, será garantizado por el contratista previamente a la recepción de los trabajos. La garantía se constituirá hasta por el diez por ciento del monto total de los montos ejecutados.
+
+En caso de que el cumplimiento de las obligaciones establecidas en este artículo rebasen el importe de la garantía, las dependencias, entidades o ayuntamientos, además de hacer efectiva la garantía otorgada, podrán exigir el pago de la diferencia que resulte.
+
+Las diferencias que resulten a favor de las contratantes tendrán el carácter de créditos fiscales, por lo que su cumplimento podrá hacerse efectivo a través del procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+59.- Una vez concluida la obra o parte utilizable de la misma, las dependencias, entidades y ayuntamientos vigilarán que la unidad que deba operarla reciba oportunamente de la responsable de su ejecución el bien en condiciones de operación, los planos de construcción actualizados, las normas y especificaciones aplicadas en su ejecución, así como los manuales e instructivos de operación y mantenimiento correspondientes y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
+
+Las dependencias, entidades o ayuntamientos bajo cuya responsabilidad quede una obra pública concluida, estarán obligadas, por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento.
+
+Las dependencias y entidades deberán presentar a la Secretaría de Administración o a los ayuntamientos, una información detallada de las obras concluidas que se les entreguen para su operación, para los efectos de su asignación y registro en términos de la Ley de Bienes del Estado de México y sus Municipios.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+60.- Las dependencias, entidades y ayuntamientos podrán realizar obras por administración directa, siempre que posean la capacidad técnica y los elementos necesarios, consistentes en: maquinaria y equipo de construcción, personal técnico, trabajadores y materiales y podrán:
+
+I. Utilizar mano de obra local complementaria, la que necesariamente deberá contratarse por obra determinada;
+
+II. Alquilar equipo y maquinaria de construcción complementaria;
+
+III. Utilizar preferentemente los materiales de la región;
+
+IV. Contratar equipos, instrumentos, elementos prefabricados terminados y materiales u otros bienes que deban ser instalados, montados, colocados o aplicados;
+
+V. Utilizar servicios de fletes y acarreos complementarios.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+61.- En la ejecución de los trabajos por administración directa serán aplicables en lo conducente, las disposiciones de este Libro relativas a la obra pública contratada.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+62.- En la obra por administración directa bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las circunstancias particulares, naturaleza jurídica o modalidades que estos adopten.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+63.- La información que conforme a las presentes disposiciones, deban remitir las dependencias, entidades y ayuntamientos a la Contraloría y a la Secretaría de Finanzas, será en la forma y términos establecidos en la reglamentación de este Libro.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+64.- Las dependencias, entidades y ayuntamientos conservarán, archivando en forma ordenada la documentación comprobatoria de los actos y contratos materia de este Libro, cuando menos por el lapso de cinco años, contados a partir de la fecha de la recepción de los trabajos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+65.- La Contraloría llevará a cabo el seguimiento de la obra pública y servicios relacionados con la misma, desde su planeación y programación hasta su recepción en los términos que señale la reglamentación de este Libro.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+66.- La Contraloría podrá realizar las visitas e inspecciones que estime pertinentes a las dependencias, entidades y ayuntamientos en su caso, que ejecuten obra pública y servicios relacionados con la misma. Asimismo, podrá solicitar a los servidores públicos y a los contratistas los datos e informes relacionados con los actos objeto de la visita o inspección.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+67.- Los licitantes y los convocados en un procedimiento de invitación restringida, podrán promover inconformidad administrativa en contra del procedimiento de licitación o invitación, por contravención a las disposiciones de este Libro, siempre que se trate del mismo procedimiento en el que hayan participado como licitantes o convocados, respectivamente.
+
+La inconformidad administrativa se presentará ante la Contraloría, por escrito o por vía electrónica, dentro de los diez días hábiles siguientes a la fecha en que se de a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación, o en su defecto a la fecha en que haya sido notificado el fallo de adjudicación.
+
+Lo dispuesto en el párrafo anterior será aplicable tratándose de inconformidades que se promuevan en contra de actos provenientes de procedimientos de licitación, invitación restringida, para la contratación de obra o servicios relacionados con la misma, que se ejecuten o se pretendan ejecutar con recursos estatales total o parcialmente.
+
+Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos municipales, la inconformidad administrativa se presentará por escrito ante el ayuntamiento correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+68.- El escrito de inconformidad deberá contener los datos siguientes:
+
+I. Nombre del inconforme o de quien promueva en su representación;
+
+II. Domicilio en el Estado de México para recibir notificaciones;
+
+III. Número del concurso, nombre de la obra o servicio y el motivo de inconformidad;
+
+IV. La fecha de celebración del acto de adjudicación o de la notificación del fallo;
+
+V. Bajo protesta de decir verdad, los hechos que sustenten la inconformidad;
+
+VI. Las disposiciones legales violadas, de ser posible;
+
+VII. Las pruebas que ofrezca;
+
+VIII. La solicitud de suspensión del acto motivo de inconformidad, en su caso.
+
+El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no gestione a nombre propio, así como los documentos que ofrezca como prueba.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+69.- La inconformidad administrativa suspenderá la contratación o en su caso la ejecución de la obra o servicios relacionados con la misma, cuando:
+
+I. Lo solicite el inconforme, siempre que garantice a satisfacción de la Contraloría o el ayuntamiento, los daños o perjuicios que se puedan ocasionar a la hacienda pública o al licitante o convocado que haya resultado ganador;
+
+II. Lo solicite la convocante, por considerar que de no suspender la contratación o ejecución de la obra o servicio, se puedan ocasionar mayores daños o perjuicios al erario estatal o municipal;
+
+En todo caso, la suspensión se otorgará cuando no se siga perjuicio al interés social o se contravengan disposiciones de orden público.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+70.- La Contraloría o los ayuntamientos podrán requerir información a las convocantes, quienes deberán remitirla dentro del plazo de cinco días hábiles siguientes a la recepción del requerimiento correspondiente.
+
+La Contraloría o los ayuntamientos notificarán la interposición de la inconformidad administrativa a los licitantes o convocados que hayan resultado ganadores, para que dentro del plazo de cinco días hábiles, concurran a exponer lo que a sus intereses convenga.
+
+La inconformidad administrativa en lo no previsto por este Libro, se substanciará en los términos del recurso administrativo establecido en el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 12.
+
+71.- En las materias reguladas en el presente Libro no procederá el recurso administrativo de inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México.
+
+En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones derivados de los contratos y convenios regulados por este Libro, procede juicio ante el Tribunal de lo Contencioso Administrativo.
 
 T R A N S I T O R I O S
 
@@ -6858,3 +7752,17 @@ P.O. 7 DE AGOSTO DE 2003.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 2 DE SEPTIEMBRE DEL 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley de Obras Públicas del Estado de México, publicada en el periódico oficial "Gaceta del Gobierno", el 26 de septiembre de 1984.
+
+CUARTO.- Los procedimientos, contratos, convenios e inconformidades administrativas, iniciados al amparo de la ley que se abroga se substanciarán y resolverán conforme a las disposiciones del mismo ordenamiento.
+
+QUINTO.- El Ejecutivo del Estado, en las materias de su competencia, expedirá el reglamento de este Libro dentro de los sesenta días siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+SEXTO.- En tanto se expide la reglamentación a que se refiere el artículo anterior, se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones de este Libro.
