@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1973-09-09"
+last_updated: "1977-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -36,8 +36,6 @@ DOMINGO ARRIETA, Gobernador Constitucional del Estado Libre y Soberano de Durang
 Que la Legislatura del mismo ha tenido a bien dirigirme el siguiente decreto número 11:
 
 El XXVI H. Congreso del Estado de Durango, con el carácter de Constituyente, a nombre del pueblo, decreta la siguiente Constitución Política del mismo Estado.
-
-> <small>N. DE E. LA H. LII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO APROBO EL DECRETO No. 270, QUE REFORMA Y ADICIONA LOS ARTICULOS DE LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 9 DE SEPTIEMBRE DE 1973.</small>
 
 LA H. LII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
 
@@ -1133,7 +1131,9 @@ VIII.- Formular su Reglamento Interior;
 
 IX.- Dirimir los conflictos que surjan entre los Ayuntamientos y los Poderes del Estado;
 
-X.- Rendir, ante el Congreso, el día 30 de junio de cada año, por voz de su Presidente, un informe anual sobre el estado de la administración de la justicia; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 1977)</small>
+
+X.- Rendir, ante el Congreso el día 31 de Julio de cada año, por voz del Presidente, un informe anual sobre el estado de la administración de justicia;
 
 XI.- Las demás que le confieren esta Constitución y las leyes.
 
@@ -1173,7 +1173,7 @@ Los Jueces de Primera Instancia, Menores, Municipales y Auxiliares durarán en s
 
 ###### ARTICULO 102.
 
-Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
+Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la. administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1652,3 +1652,7 @@ El Congreso del Estado expedirá las reformas conducentes a la Ley Electoral; a 
 ###### ARTICULO QUINTO.
 
 Unicamente y por el presente año de 1973 mil novecientos setenta y tres, el Gobernador del Estado presentará el informe del estado que guarda la administración pública, el día 15 de septiembre, en lo sucesivo, se estará a lo dispuesto en la Fracción XII del Artículo 70 Constitucional.
+
+P.O. 13 DE ENERO DE 1977.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
