@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1996-05-24"
+last_updated: "1996-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -709,7 +709,9 @@ Para ser Gobernador se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con vecindad en el mismo, no menor de cinco años inmediatos anteriores al día de la elección.
 
-II.- Tener cuando menos treinta años cumplidos para el día de la elección y no más de sesenta y cinco.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1996)</small>
+
+II.- Tener cuando menos treinta años cumplidos para el día de la elección.
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -2212,3 +2214,9 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE MAYO DE 1996.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE JUNIO DE 1996.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
