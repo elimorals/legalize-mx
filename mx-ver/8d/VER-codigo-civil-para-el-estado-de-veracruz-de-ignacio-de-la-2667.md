@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1940-11-14"
+last_updated: "1942-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE DICIEMBRE DE 1942.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -665,7 +665,7 @@ La nulidad que se funde en la falta de formalidades esenciales para la validez d
 
 ARTICULO 124
 
-No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Encargado del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Encargado del Registro Civil, cuando a la existencia del acta se úna la posesión de estado matrimonial.
 
 ARTICULO 125
 
@@ -11431,9 +11431,13 @@ ARTICULO 2327
 
 El interés es legal o convencional.
 
+> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 1942)</small>
+
 ARTICULO 2328
 
-El interés legal será el que fije cada año el Ejecutivo del Estado, tomando en consideración las condiciones económicas de tiempo y lugar, la cotización del dinero y la tasa del interés. No fijando el Ejecutivo el interés legal, éste será el de nuueve (sic) por ciento anual. El interés convencional será el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+El interés legal será el que fije cada año el Ejecutivo del Estado, tomando en consideración las condiciones económicas de tiempo y lugar, la cotización del dinero y la tasa del interés. No fijando el Ejecutivo el interés legal, éste será el de nueve por ciento anual. El interés convencional será el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+
+No podrá cobrarse por concepto de interés una cantidad que exceda de la mitad de la que realmente se haya prestado. Cuando por el tiempo transcurrido el deudor haya liquidado intereses por una suma igual a la mitad del préstamo, o mayor que esa cantidad, quedará exonerado de los subsecuentes pagos por ese concepto, y el acreedor sólo tendrá derecho a exigir el importe del capital mutuado. Esta disposición tendrá el carácter de irrenunciable.
 
 ARTICULO 2329
 
@@ -12321,7 +12325,7 @@ El comodante podrá exigir la devolución de la cosa antes de que termine el pla
 
 ARTICULO 2446
 
-Si durante (sic) préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+Si durante préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
 
 ARTICULO 2447
 
@@ -14924,3 +14928,7 @@ La presente Ley comenzará a surtir sus efectos a partir de su publicación en l
 G.O. 14 DE NOVIEMBRE DE 1940.
 
 Unico.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 3 DE DICIEMBRE DE 1942.
+
+La presente Ley surtirá sus efectos a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
