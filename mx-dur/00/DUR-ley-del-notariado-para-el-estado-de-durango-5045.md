@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "1990-08-19"
+last_updated: "1993-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -112,6 +112,8 @@ VIII.- Patrocinar a los interesados en los procedimientos administrativos necesa
 ###### ARTICULO 7.
 
 El notario podrá recibir informaciones sobre construcciones o mejoras de fincas rústicas ó urbanas, a solicitud del propietario del predio ó de las obras, de tres testigos idóneos a juicio del notario, las que tendrán el mismo valor que las rendidas ante la autoridad judicial, siempre que no haya conflicto de intereses. Estas informaciones se inscribirán en el Registro Público de la Propiedad.
+
+> <small>(N. DE E. POR DECRETO No. 160 DE FECHA 8 DE AGOSTO DE 1993, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO UNICAMENTE PARA LOS EFECTOS DEL PROGRAMA DE CERTIFICACION DE DERECHOS EJIDALES Y TITULACION DE SOLARES URBANOS, DURANTE EL TIEMPO QUE EL MISMO DURE; FACULTANDOSE A LOS NOTARIO DEL ESTADO PARA REALIZAR SUS FUNCIONES FUERA DE LOS LIMITES DE SU DISTRITO JUDICIAL EXCLUSIVAMENTE PARA LA EJECUCION DE ESTE PROGRAMA)</small>
 
 ###### ARTICULO 8.
 
@@ -1178,3 +1180,9 @@ P.O. 19 DE AGOSTO DE 1990.
 PRIMERO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Notarios Públicos del Estado de Durango, darán cumplimiento a lo ordenado en el Artículo 19 reformado de esta Ley, en todos aquellos libros de su protocolo concluídos con posterioridad al día dos de Enero de mil novecientos ochenta y dos, concediéndoseles el término de tres meses contando a partir de la publicación de este Decreto para acreditar ante la Dirección General de Notarías del Estado el cumplimiento de este precepto, hecho lo cual el C. Director General de Notarías del Estado, procederá a certificar la razón de clausura de que se trata en los casos en que proceda.
+
+P.O. 8 DE AGOSTO DE 1993.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones jurídicas que se opongan al presente, quedan sin efecto en lo que respecta al contenido del mismo, mientras dure su vigencia, a cuyo término recobrarán aquellas su pleno vigor.
