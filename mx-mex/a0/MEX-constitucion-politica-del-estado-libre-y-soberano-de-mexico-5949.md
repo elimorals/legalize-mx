@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1944-08-26"
+last_updated: "1945-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 1944.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 1945.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -65,7 +65,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 G.G. 9 DE SEPTIEMBRE DE 1939.
 
-Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".
+Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publicación en la "Gaceta del Gobierno".vo período de cuatro años, comenzará a contarse desde el día 1° de enero de 1924.
 
 G.G. 27 DE DICIEMBRE DE 1939.
 
@@ -241,7 +241,7 @@ El Estado asume la representación jurídica del Municipio en todos los asuntos 
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS ALTOS FUNCIONARIOS PUBLICOS DEL ESTADO
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 126.
 
@@ -251,7 +251,7 @@ Los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior
 
 Tratándose de los delitos del orden común a que se refiere el artículo anterior, la Legislatura erigida en Gran Jurado declarará, por mayoría absoluta de votos del número total de sus miembros, si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, salvo el caso de prescripción de la acción penal conforme a las leyes. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales comunes. Si la decisión de éstos fuere condenatoria, el mismo acusado quedará separado definitivamente y en caso contrario, volverá al desempeño de sus funciones.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 128.
 
@@ -295,13 +295,13 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 38.
 
 Por cada 100,000 habitantes o fracción mayor de 50,000 se elegirán un Diputado Propietario y un Suplente.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 39.
 
@@ -313,7 +313,7 @@ No pueden ser Diputados a la Legislatura del Estado:
 
 I. Los ministros de cualquier culto;
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
 II. Los Diputados y Senadores propietarios y suplentes al Congreso de la Unión que estén en ejercicio;
 
@@ -325,9 +325,9 @@ V. Los Jefes de la Guardia Nacional que estuvieren en servicio activo durante el
 
 Para los efectos de esta fracción y de la anterior, se entenderá por período electoral el transcurrido desde los trabajos preparatorios o promulgación de la convocatoria, en su caso, hasta el día de la elección;
 
-> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1944)</small>
 
-VI. El Gobernador, el Secretario General de Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador de Justicia y el Director General de Hacienda del Estado, a menos de separarse de sus cargos respectivos, noventa días antes de la elección;
+VI.- El Gobernador, el Secretario General de Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador de Justicia y el Director General de Hacienda del Estado, a menos de separarse de sus cargos respectivos, noventa días antes de la elección;
 
 VII. Los Presidentes Municipales y los Secretarios de Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por los distritos donde ejerzan su autoridad, así como los Administradores de Rentas y Tesoreros Municipales, por los distritos donde desempeñen sus funciones, con la misma excepción a que se refiere la fracción anterior.
 
@@ -347,13 +347,13 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 Durante los ocho días a que se refiere el artículo anterior, se tendrán las juntas necesarias para la calificación de credenciales y su aprobación y se elegirán Presidente, Vicepresidente y Secretarios de la Legislatura en los términos que dispongan el mismo Reglamento interior.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 47.
 
 La legislatura se reunirá en sesiones ordinarias una vez al año.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 1944)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1944)</small>
 
 ###### Art. 48.
 
@@ -383,11 +383,11 @@ La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concu
 
 ###### Art. 54.
 
-(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 55.
 
-(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 56.
 
@@ -403,7 +403,7 @@ Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto,
 
 #### SECCION SEGUNDA. DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1929)</small>
 
 ###### Art. 44.
 
@@ -511,13 +511,13 @@ IX. Convocar a elecciones de Gobernador y Diputados en los períodos constitucio
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
-XI. Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución. Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado y de los Jueces de Primera Instancia serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará, dentro del término improrrogable de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrá por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado o Juez Provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados. En los casos de faltas temporales por más de tres de meses, de los Magistrados o Jueces, o en las definitivas por defunción, renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
+XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución. Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado y de los Jueces de Primera Instancia serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará, dentro del término improrrogable de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrá por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado o Juez Provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados. En los casos de faltas temporales por más de tres de meses, de los Magistrados o Jueces, o en las definitivas por defunción, renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
-XII. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, de los Jueces de Primera Instancia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
+XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, de los Jueces de Primera Instancia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -531,17 +531,17 @@ Uno de los Secretarios de la Legislatura interrogará:
 
 XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría General de Glosa;
 
-(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)(F. DE E., G.G. 27 DE DICIEMBRE DE 1941)
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
 
-XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y Jueces de Primera Instancia, cuando habiendo sido aprobadas previamente por el Ejecutivo, las de los Funcionarios Judiciales, les sean sometidas a su aprobación, y de los funcionarios y empleados que fueren, de su nombramiento.
+XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y Jueces de Primera Instancia, cuando habiendo sido aprobadas previamente por el Ejecutivo, las de los Funcionarios Judiciales, les sean sometidas a su aprobación, y de los funcionarios y empleados que fueren, de su nombramiento.
 
-(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)(F. DE E., G.G. 27 DE DICIEMBRE DE 1941)
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
 
-XV. Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
+XV.- Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
-> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 1943)</small>
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1943)</small>
 
-XVI. Revisar los expedientes relativos a elecciones municipales, cuando se solicite su intervención, haciendo la declaración que corresponda.
+XVI.- Revisar los expedientes relativos a elecciones municipales, cuando se solicite su intervención, haciendo la declaración que corresponda.
 
 XVII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración, y modo derecaudarlas (sic);
 
@@ -623,9 +623,9 @@ V. Conceder o negar las licencias a que se refiere la fracción XV del artículo
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
-> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 1943)</small>
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1943)</small>
 
-VII. Revisar los expedientes de elecciones municipales a que se refiere la fracción XVI del Artículo 70 de esta Constitución, en los casos de receso de la Legislatura.
+VII.- Revisar los expedientes de elecciones municipales a que se refiere la fracción XVI del Artículo 70 de esta Constitución, en los casos de receso de la Legislatura.
 
 VIII. Cumplir con las obligaciones que le impongan la Legislatura siempre que no fueren contrarias a las leyes.
 
@@ -639,23 +639,25 @@ El Poder Ejecutivo del Estado, se deposita en un solo individuo que se denominar
 
 La elección de Gobernador será directa en los términos que disponga la ley electoral.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1945)</small>
+
 ###### Art. 76.
 
-El Gobernador durará en su encargo cuatro años y nunca podrá ser reelecto ni electo para otro período Constitucional.
+El Gobernador durará en su encargo seis años, y nunca podrá ser reelecto ni electo para otro período constitucional.
 
 ###### Art. 77.
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1939)</small>
 
 I. Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento, nativo del Estado y con vecindad en él no menor de cinco años inmediatamente anteriores al día de la elección.
 
 II. Ser ciudadano del Estado en el pleno goce de sus derechos políticos;
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
-III. Tener treinta años cumplidos el día de la elección;
+III.- Tener treinta años cumplidos el día de la elección;
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
@@ -665,31 +667,31 @@ V. No ser funcionario civil en ejercicio de autoridad, ni militar en servicio ac
 
 El período constitucional del Gobernador del Estado comenzará el dieciséis de septiembre del año de su renovación.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 79.
 
 Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva para el día en que deba tener lugar la renovación o el nuevo Gobernador electo no se presentare a desempeñar sus funciones, cesará no obstante el saliente, y la Legislatura nombrará Gobernador interino si se hallare en funciones, supliendo inmediatamente la falta, el Secretario General de Gobierno, o, en su caso, el Oficial Mayor. En caso de que la Legislatura esté en receso, la Diputación Permanente hará la convocatoria respectiva para la designación del Gobernador interino.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
-###### Art. 80.
+###### Art. 80°.
 
 Las faltas temporales del Gobernador que no excedan de treinta días, las cubrirá, por ministerio de Ley, el Secretario General de Gobierno, o, en su caso, el Oficial Mayor, quien nombrará un Secretario General interino encargado del Despacho.
 
-> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1942)</small>
 
 ###### Art. 81.
 
 En las faltas temporales del Gobernador que excedan de treinta días, la falta se cubrirá en los términos que establece el artículo 79.
 
-> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1942)</small>
 
 ###### Art. 82.
 
 Si la falta del Gobernador fuere absoluta, la Legislatura se constituirá en Colegio Electoral y hará la designación de Gobernador Substituto, quien ejercerá sus funciones hasta terminar el período constitucional de que se trate.
 
-> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1942)</small>
 
 ###### Art. 83.
 
@@ -707,7 +709,7 @@ El ciudadano que substituyere al Gobernador Constitucional en sus faltas tempora
 
 El cargo de Gobernador del Estado es renunciable por causa grave calificada por la Legislatura ante la que se presentará la renuncia.
 
-> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1942)</small>
 
 ###### Art. 87.
 
@@ -727,9 +729,9 @@ III. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Dip
 
 IV. Enviar cada vez que lo crea conveniente, al Secretario General de Gobierno para que concurra a las discusiones de la Legislatura, tomando parte en ellas con voz pero sin voto;
 
-> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1944)</small>
 
-V. Nombrar y remover libremente al Secretario General de Gobierno, al Oficial Mayor, al Director General de Hacienda, a los Jefes de los Departamentos de Ingresos y Egresos de la citada Dirección y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven.
+V.- Nombrar y remover libremente al Secretario General de Gobierno, al Oficial Mayor, al Director General de Hacienda, a los Jefes de los Departamentos de Ingresos y Egresos de la citada Dirección y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven.
 
 VI. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos municipales, de acuerdo con el artículo 11 transitorio de dicha Constitución y ajustando sus procedimientos a las leyes que al efecto se dicten, tan pronto como sean expedidas;
 
@@ -741,11 +743,11 @@ IX. Conceder el indulto necesario y con arreglo a las leyes, conmutar la pena ca
 
 X. Mandar personalmente las fuerzas del Estado y movilizarlas según las necesidades públicas;
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
-XI. Solicitar de la Legislatura Local, o, en su caso, de la Diputación Permanente, la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 128.
+XI.- Solicitar de la Legislatura Local, o, en su caso, de la Diputación Permanente, la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 128.
 
-> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 XII. Todas las demás que sean propias de la autoridad pública del Gobierno del Estado, y que no estén expresamente asignadas por esta Constitución, a los Poderes del mismo Gobierno o a las autoridades de los Municipios.
 
@@ -761,13 +763,13 @@ III. Cuidar de que las elecciones constitucionales se hagan en el tiempo señala
 
 IV. Concurrir a la apertura de cada período de sesiones ordinarias y extraordinarias de la Legislatura, para informar en el primer caso, acerca del estado que guarda la administración pública, y en el segundo, acerca de los motivos en que se haya fundado la convocatoria a sesiones extraordinarias cuando él haya pedido la convocación. Si la convocatoria se ha hecho a iniciativa de la Comisión permanente, el Gobernador asistirá a la apertura de esas sesiones, para el solo efecto de hacer constar, que, por su parte, cumplió con el precepto Constitucional contenido en la fracción IX de este artículo;
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
-V. Presentar cada año a la Legislatura, antes del día quince del mes de diciembre, los proyectos del Presupuesto de Ingresos y Egresos Generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de gastos del año inmediato anterior.
+V.- Presentar cada año a la Legislatura, antes del día quince del mes de diciembre, los proyectos del Presupuesto de Ingresos y Egresos Generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de gastos del año inmediato anterior.
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
-VI. Presentar a la Legislatura, también antes del día quince del mes de diciembre, los proyectos de Presupuesto de Ingresos Municipales que le remitan los Municipios y que deberán regir en el año fiscal próximo.
+VI.- Presentar a la Legislatura, también antes del día quince del mes de diciembre, los proyectos de Presupuesto de Ingresos Municipales que le remitan los Municipios y que deberán regir en el año fiscal próximo.
 
 VII. Presentar a la Legislatura, al terminar su período Constitucional, una memoria sobre el estado de los negocios públicos, expresando cuales sean las deficiencias que note en la administración y cuales las medidas que en su concepto deban aplicarse, para subsanarlas;
 
@@ -797,13 +799,13 @@ XIX. Nombrar el representante que le concierne en las juntas de Conciliación y 
 
 XX. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular;
 
-> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1921)</small>
 
-XXI. Asumir por medio de la Dirección de Educación Pública que establece el artículo 223 de esta Constitución, la dirección técnica de todos los establecimientos oficiales de Educación Pública en el Estado, los que funcionarán con arreglo a las leyes respectivas.
+XXI.- Asumir por medio de la Dirección de Educación Pública que establece el artículo 223 de esta Constitución, la dirección técnica de todos los establecimientos oficiales de Educación Pública en el Estado, los que funcionarán con arreglo a las leyes respectivas.
 
-> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1944)</small>
 
-XXII. Asumir, por el mismo conducto, la Dirección Administrativa de los Establecimientos de Enseñanza que deben ser sostenidos por los fondos generales del Estado, con excepción del Instituto Científico y Literario, que funcionará de acuerdo con lo que disponga la Ley de Autonomía.
+XXII.- Asumir, por el mismo conducto, la Dirección Administrativa de los Establecimientos de Enseñanza que deben ser sostenidos por los fondos generales del Estado, con excepción del Instituto Científico y Literario, que funcionará de acuerdo con lo que disponga la Ley de Autonomía.
 
 XXIII. Asumir la representación política y civil del Municipio para los efectos de los artículos 12, 15 y 17 de esta Constitución;
 
@@ -813,13 +815,13 @@ XXV. Prestar al Poder Judicial los auxilios que necesite para el ejercicio exped
 
 XXVI. Hacer que las sentencias ejecutoriadas dictadas por los Tribunales en materia penal, sean debidamente ejecutadas, sin perjuicio de la facultad a que se refiere la fracción IX del artículo anterior.
 
-> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
-XXVII. Nombrar a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Comisión Permanente, en su caso.
+XXVII.- Nombrar a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Comisión Permanente, en su caso.
 
-> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
-XXVIII. Aceptar las renuncias de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia, sometiéndolas a la aprobación de la Legislatura o de la Comisión Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
+XXVIII.- Aceptar las renuncias de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia, sometiéndolas a la aprobación de la Legislatura o de la Comisión Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
 
 ###### Art. 90.
 
@@ -859,7 +861,7 @@ XIII. Conceder licencias para juegos de azar.
 
 Para el despacho de los negocios que la presente Constitución encomienda al Ejecutivo, habrá un Secretario General de Gobierno.
 
-> <small>(REFORMADO, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1939)</small>
 
 ###### Art. 92.
 
@@ -905,15 +907,15 @@ El Secretario General, mientras esté en ejercicio de sus funciones, no podrá d
 
 Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
-> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1939)</small>
 
-I. Ser ciudadano del Estado, mexicano por nacimiento e hijo de mexicanos por nacimiento, en el pleno goce de sus derechos civiles y políticos.
+I.- Ser ciudadano del Estado, mexicano por nacimiento e hijo de mexicanos por nacimiento, en el pleno goce de sus derechos civiles y políticos.
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 II. Tener más de treinta y menos de sesenta años de edad;
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 III. Poseer título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello; y haber ejercido cinco años cuando menos, dicha profesión;
 
@@ -925,7 +927,7 @@ V. Ser de una honradez y probidad notorias.
 
 No podrán reunirse en el Tribunal Superior de Justicia, dos o más Magistrados que sean parientes entre sí, en línea recta, o por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 104.
 
@@ -939,7 +941,7 @@ Los Magistrados electos para cubrir las faltas absolutas a que se refiere el art
 
 Aunque los Magistrados nuevamente electos no se presenten a tomar posesión de sus cargos en el tiempo en que deban hacerlo, cesarán sin embargo, los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de los otros, los suplentes respectivos con arreglo a las leyes relativas.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 #### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
 
@@ -971,21 +973,21 @@ VII. Formar el reglamento interior del Tribunal Superior, pasándolo a la Legisl
 
 VIII. Conceder licencia a los Jueces de primera Instancia, hasta por tres meses, nombrando, en su caso, los sustitutos respectivos;
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 a).- Remover a los Jueces, acordando su traslado a otro Distrito Judicial, cuando así lo exija el servicio público, a juicio del Tribunal o lo solicite el Gobernador del Estado.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 b).- Concederles licencias, en los términos de la Ley Orgánica respectiva.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 c).- Nombrar a todos los funcionarios y empleados del Ramo Judicial, a propuesta de los titulares de las oficinas correspondientes y removerlos cuando, a juicio del Tribunal, hubiere causa motivada.
 
 IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
 
-X. (DEROGADA, G.G. 2 DE OCTUBRE DE 1943)
+X.- (DEROGADA, P.O. 2 DE OCTUBRE DE 1943)
 
 ###### Art. 110.
 
@@ -995,7 +997,7 @@ I. Conocer en segunda Instancia de los negocios y causas que determinen las leye
 
 II. Hacer la revisión de todos los procesos del orden penal que determinen las leyes;
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 III. Declarar si ha lugar o no a formación de causa, por delitos o faltas oficiales, en contra de los Presidentes Municipales y Jueces Conciliadores, suspendiéndolos en el ejercicio de sus funciones, en caso afirmativo, y consignándolos al Juez de Primera Instancia, de su respectivo Distrito;
 
@@ -1003,7 +1005,7 @@ IV. Conocer del recurso de suspensión a que se refiere el artículo 113 de esta
 
 V. Conocer de los demás asuntos que les confieran las leyes.
 
-> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 1923)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1923)</small>
 
 ###### Art. 111.
 
@@ -1031,7 +1033,7 @@ Los Jueces de Primera Instancia serán nombrados en la forma prevista por esta C
 
 Los Jueces de primera Instancia deberán tener los mismos requisitos que los Magistrados, menos el relativo a la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años cumplidos y tener dos años de práctica forense.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 117.
 
@@ -1043,7 +1045,7 @@ Habrá Jueces de primera Instancia en todas las Cabeceras de Distrito Judicial.
 
 #### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
 #### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
@@ -1057,7 +1059,7 @@ El Ministerio Público será desempeñado por un funcionario que se denominará 
 
 ###### Art. 121.
 
-(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 122.
 
@@ -1069,7 +1071,7 @@ Para ser Procurador General, se requieren los mismos requisitos que para ser Mag
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 101.
 
@@ -1081,7 +1083,7 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo Colegiado q
 
 #### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 ## TITULO UNICO. DE LA ADMINISTRACION INTERIOR DE LOS MUNICIPIOS
 
@@ -1103,19 +1105,19 @@ En ningún caso podrán desempeñar los Ayuntamientos como cuerpos colectivos, l
 
 Los Ayuntamientos serán asambleas deliberantes, y, como cuerpos colegiados, tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los Presidentes Municipales; estarán formados en elección popular directa, debiendo durar en funciones dos años y no pudiendo ser electos, para el período inmediato siguiente, ninguno de sus miembros propietarios o suplentes que hayan funcionado.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 136.
 
 Los Ayuntamientos se compondrán de: un jefe de la Asamblea, que se denominará Presidente Municipal y de varios miembros llamados Síndicos y Regidores, cuyo número tatal (sic) será siempre impar y se determinará en razón directa de la importancia de la Municipalidad que representen, en la forma que lo disponga la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 137.
 
 Cuando el número de miembros de un Ayuntamiento sea menor de nueve, formará parte de él un síndico Procurador; y cuando conste de nueve o más, serán dos los Síndicos que se elijan.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 138.
 
@@ -1125,13 +1127,13 @@ Los miembros de un Ayuntamiento serán designados en una sola elección, disting
 
 Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1943)</small>
 
 ###### Art. 140.
 
 Para ser miembro de un Ayuntamiento, será indispensable ser originario del Estado, en pleno ejercicio de sus derechos civiles y políticos y con vecindad efectiva en el municipio para el que fuere electo, no menor de dos años antes de la fecha de la elección.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 141.
 
@@ -1149,7 +1151,7 @@ III. Los ministros de cualquier culto.
 
 Los Ayuntamientos desempeñarán dos series de funciones: las de legislación para el régimen, gobierno y administración del Municipio, y las de inspección concernientes al cumplimiento de las disposiciones legislativas que dicten.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 143.
 
@@ -1159,7 +1161,7 @@ I.- En el mes de enero, para expedir la Ley Municipal que deberá contener todas
 
 II. En el mes de agosto, para expedir la Ley Municipal del Presupuesto de Egresos que deberá regir en el año fiscal inmediato, y para formular la iniciativa del Presupuesto de sus Ingresos que deberá remitir a la Legislatura del Estado.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 144.
 
@@ -1229,7 +1231,7 @@ IV. Ejecutar con arreglo a las leyes las resoluciones dictadas por los Jueces Co
 
 #### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 156.
 
@@ -1251,7 +1253,7 @@ La administración de justicia en cada Municipio, estará a cargo de uno o más 
 
 Por cada juez Conciliador propietario, habrá dos suplentes que llevarán su respectivo número de orden.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 159.
 
@@ -1271,13 +1273,13 @@ Los Jueces Conciliadores aplicarán dentro de los Municipios a que pertenezcan y
 
 #### SECCION SEGUNDA. DIRECCION GENERAL DE HACIENDA
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 163.
 
 Los Presidentes Municipales y Jueces Conciliadores, son responsables por los delitos y faltas oficiales que cometan durante el tiempo de su encargo.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 164.
 
@@ -1331,7 +1333,7 @@ Los bienes raíces de beneficencia e instrucción pública que puedan conservan 
 
 ### CAPITULO PRIMERO. DE LA DIVISION GENERAL DE LAS CONTRIBUCIONES
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 176.
 
@@ -1357,7 +1359,7 @@ I. De los bienes que correspondan al Estado como persona civil;
 
 II. De las contribuciones de carácter general que decrete la Legislatura.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 1944)</small>
 
 #### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
 
@@ -1365,25 +1367,25 @@ II. De las contribuciones de carácter general que decrete la Legislatura.
 
 La defensa de la Hacienda Pública del Estado y de los Municipios; la recaudación de las contribuciones y el pago que demande el sostenimiento de los servicios públicos estará a cargo de una Oficina que se denominará "Dirección General de Hacienda en el Estado" y residirá en el mismo lugar que tenga asiento el Poder Ejecutivo.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 179.
 
 La Dirección General de Hacienda en el Estado estará a cargo de un Director General de Hacienda, que será nombrado libremente por el Ejecutivo del Estado.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 180.
 
 La Dirección General de Hacienda para su funcionamiento se dividirá en dos Departamentos o sean de Ingresos y Egresos y los demás servicios que fueren necesarios para su mejor organización.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 181.
 
 El Director General de Hacienda asumirá la dirección técnica y administrativa de los Departamentos de Ingresos, Egresos y demás oficinas de su dependencia.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 182.
 
@@ -1477,7 +1479,7 @@ No podrán dictarse leyes, decretos ni disposiciones que prohiban a los heredero
 
 No podrán dictarse leyes, decretos ni disposiciones que obliguen a los herederos, legatarios y demás interesados en un juicio de sucesión, a mantener los bienes hereditarios pro-indiviso, ni a continuar en el estado de comunidad respecto a la propiedad, a la posesión o a la simple tenencia de dichos bienes, fuera del tiempo estrictamente indispensable para promover, seguir y concluir el expresado juicio.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 200.
 
@@ -1499,7 +1501,7 @@ De acuerdo con lo prevenido en los párrafos tercero y undécimo del artículo 2
 
 ###### Art. 204.
 
-(DEROGADO, G.G. 26 DE OCTUBRE DE 1921)
+(DEROGADO, P.O. 26 DE OCTUBRE DE 1921)
 
 ###### Art. 205.
 
@@ -1519,19 +1521,19 @@ Los plazos de pago y los réditos de los precios, podrán ser los que determina 
 
 El Estado tendrá en todo tiempo derecho de rectificar los valores con que aparezcan inscriptas las propiedades raíces rústicas y urbanas, en los registros que se lleven para el pago de las contribuciones territoriales. Se concede acción popular para denunciar los fraudes que se cometan contra la Hacienda pública, por la ocultación del verdadero valor de las fincas rústicas y urbanas en los expresados registros; y en caso de que la diferencia entre el valor de la inscripción y el valor real de dichas fincas exceda de un treinta por ciento, se abonará al denunciante el cincuenta por ciento de los impuestos causados por esa diferencia, durante un año.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 209.
 
 De acuerdo con lo dispuesto en el párrafo segundo y en la parte segunda de la fracción VI del párrafo séptimo del artículo 27 de la Constitución Federal, el Gobierno del Estado sólo podrá expropiar por causa de utilidad pública y mediante indemnización; con ese objeto la Ley Reglamentaria respectiva determinará los casos en que sea de utilidad pública la ocupación de la propiedad privada y de acuerdo con esa Ley la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
-> <small>(ADICIONADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 210.
 
 En los casos del párrafo tercero del artículo 27 de la Constitución Federal, o del primer inciso del párrafo octavo del mismo artículo 27 y de acuerdo con lo dispuesto en el párrafo décimo del propio artículo, el Ejecutivo del Estado, hará la declaración motivada respectiva y la remitirá al Director General de Hacienda del Estado para que proceda a promover el respectivo juicio de expropiación, por medio del Agente que corresponda.
 
-> <small>(ADICIONADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 211.
 
@@ -1539,19 +1541,19 @@ El juicio a que se refiere el artículo anterior, se seguirá ante el Juez de Pr
 
 ###### Art. 212.
 
-(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 213.
 
-(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 214.
 
-(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 215.
 
-(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 1941)
 
 ###### Art. 216.
 
@@ -1591,19 +1593,19 @@ DISPOSICIONES FUNDAMENTALES DEL ENJUICIAMIENTO CIVIL DEL ESTADO.
 
 ###### Art. 221.
 
-(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
 
 ## TITULO QUINTO. DE LA LEGISLACION DE EDUCACION PUBLICA
 
 ### CAPITULO PRIMERO. DE LA EDUCACION PUBLICA EN GENERAL
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 222.
 
 La Educación Pública en el Estado de México, estará regida desde el primero de enero de mil novecientos vintidós (sic) por una "Dirección de Educación Pública."
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 223.
 
@@ -1613,13 +1615,13 @@ La Dirección de Educación Pública estará a cargo de un Director, nombrando y
 
 La educación popular estará a cargo del Estado y de los Municipios.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 225.
 
 La educación popular primaria obligatoria, se divide en dos grados: rudimentaria y elemental, quedando ambos grados de enseñanza, a cargo de los fondos generales del Estado teniendo por base que en todo poblado donde haya más de veinticinco niños, deberá establecerse una Escuela de grado rudimentario, salvo lo dispuesto en la fracción XII del artículo 123 de la Constitución Federal.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 226.
 
@@ -1655,7 +1657,7 @@ Las escuelas especiales de indígenas serán establecidas y sostenidas por el Es
 
 ### CAPITULO PRIMERO. DE LAS REFORMAS DE LA CONSTITUCION
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1939)</small>
 
 ###### Art. 233.
 
@@ -1793,19 +1795,19 @@ Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo sub
 
 Para la revisión de las cuentas de la inversión de los caudales públicos del Estado y Municipales, habrá en la residencia de la Legislatura del Estado y dependiente de ésta, una oficina que se llamará Contaduría General de Glosa, la que tendrá las atribuciones que determinen las leyes.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 192.
 
 Todos los pagos que efectúe el Director General de Hacienda se harán mediante orden escrita formada por el Gobernador y por el Secretario General de Gobierno, en la que se deberá expresar la partida del Presupuesto a cargo de la cual se hace el pago, pues las asignaciones respectivas se aplicarán únicamente al objeto a que están destinadas.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 193.
 
 El Director General de Hacienda será responsable de que las participaciones que la Federación otorgue al Estado, sean concentradas con toda oportunidad en la Caja de la Dirección General a su cargo.
 
-> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 194.
 
@@ -1914,3 +1916,9 @@ G.G. 26 DE AGOSTO DE 1944.
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 28 DE ABRIL DE 1945.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
