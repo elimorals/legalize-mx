@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-4-2002-del-pleno-del-consejo-de-la-50324"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-03-22"
-last_updated: "2002-03-22"
+last_updated: "2003-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-03-13"
 
 ACUERDO GENERAL 4/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ARTICULO 17, FRACCION III, DEL DIVERSO ACUERDO GENERAL 5/2000, EN LO RELATIVO A LA FACULTAD PARA NOMBRAR A LOS ADMINISTRADORES REGIONALES Y DELEGADOS ADMINISTRATIVOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO 5/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. 3 DE MARZO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de marzo de 2002.
 
@@ -66,3 +68,19 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en e
 TERCERO.- La Comisión de Administración, por conducto de la Secretaría Ejecutiva de Administración, recabará los datos curriculares así como los antecedentes del desempeño en el cargo de los administradores regionales y delegados administrativos que actualmente se encuentran en funciones y los pondrá a consideración del Pleno del Consejo de la Judicatura Federal en un término improrrogable de sesenta días, para que dicho Cuerpo Colegiado determine sobre su ratificación o conclusión de nombramiento.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 4/2002, del Pleno del Consejo de la Judicatura Federal, que Modifica el Artículo 17, fracción III, del Diverso Acuerdo General 5/2000, en lo Relativo a la Facultad para Nombrar a los Administradores Regionales y Delegados Administrativos, fue aprobado por el propio Pleno, en sesión de trece de marzo de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a trece de marzo de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS QUE REFORMAN EL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE MARZO DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- El Pleno del Consejo de la Judicatura Federal nombrará a los titulares de las Direcciones Generales de Gestión Administrativa, Servicios Médicos y Desarrollo Infantil; así como de Seguridad y Protección Civil, a partir de la aprobación de este acuerdo.
+
+TERCERO.- Las Direcciones Generales de Recursos Materiales y Servicios Generales; y de Inmuebles y Mantenimiento, continuarán realizando sus funciones conforme a las atribuciones conferidas en el Acuerdo General número 48/1998, con motivo de la realización de los programas que tienen a su cargo; asimismo la Dirección General de Contabilidad, para el adecuado ejercicio de sus funciones, continuará incorporada a la estructura de la Secretaría Ejecutiva de Finanzas, de conformidad con el Acuerdo del Pleno del Consejo de la Judicatura Federal, correspondiente a la sesión extraordinaria de veinticuatro de noviembre de dos mil; ambas situaciones hasta nuevo acuerdo de este Organo Colegiado.
+
+CUARTO.- Las Direcciones Generales que se crean contarán con los servidores públicos que autorice el Pleno del Consejo de la Judicatura Federal, de acuerdo con su presupuesto, para lo cual la Secretaría Ejecutiva de Administración deberá presentar a la brevedad, a la Comisión de Administración, un diseño de las plantillas de personal correspondientes.
+
+QUINTO.- Se abroga el Acuerdo General 4/2002, del Pleno del Consejo de la Judicatura Federal.
+
+SEXTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
