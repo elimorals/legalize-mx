@@ -4,7 +4,7 @@ identifier: "ZAC-ley-genenral-de-coordinacion-del-estado-de-zacatecas-y-8216"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "1989-12-27"
+last_updated: "1996-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY GENERAL DE COORDINACION DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial el 4 de febrero de 1984.
 
@@ -109,9 +109,11 @@ El Estado o los municipios podrán dar por terminados de mutuo acuerdo parcial o
 
 ### CAPITULO III. DE LAS PARTICIPACIONES
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO DECIMO SEGUNDO.
 
-Los municipios recibirán el 20% de las participaciones federales que reciba el Estado del Fondo General de Participaciones y el Fondo Financiero Complementario.
+Los municipios recibirán el 22% de las Participaciones Federales que reciba el Estado del Fondo General de Participaciones.
 
 ###### ARTICULO DECIMO TERCERO.
 
@@ -123,23 +125,27 @@ Los municipios recibirán íntegramente el Fondo de Fomento Municipal, así como
 
 Con la suma de los porcentajes a que se refieren los artículos décimo segundo y décimo tercero de esta Ley, se integrará el Fondo Único de Participaciones Federales a los Municipios.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO DECIMO QUINTO.
 
-La distribución a los municipios del fondo único de participaciones a los municipios se hará conforme a las siguientes reglas:
+La distribución a los municipios del fondo único de participaciones se hará conforme a las siguientes reglas:
 
-I. La cantidad que corresponde a cada municipio del 80% del Fondo Unico de Participaciones a los Municipios, se distribuirá conforme a lo siguiente:
+I. El 75% en base a la recaudación municipal, el cuál se determinará de acuerdo a lo siguiente:
 
-a).- El coeficiente de participación del fondo único de participación a los municipios del año inmediato anterior para el que se efectúa el cálculo se multiplica por la recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos del municipio en el año inmediato anterior; el resultado se dividirá entre la recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos del municipio del segundo año anterior.
+a) El coeficiente de participación por concepto de la recaudación de cada municipio del año inmediato anterior para el que se efectúa el cálculo, se multiplica por la recaudación de Impuestos, Derechos, Productos y Aprovechamientos del municipio en el segundo año anterior; el resultado se dividirá entre la recaudación de Impuestos, Derechos, Productos y Aprovechamientos del municipio del tercer año anterior.
 
-b).- La recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos de todos los municipios en el segundo año anterior para el que se efectúa el cálculo, se dividirá entre la recaudación de impuestos, derechos, contribución de mejoras, productos y aprovechamientos de todos los municipios en el año inmediato anterior.
+b) La recaudación de Impuestos, Derechos, Productos y Aprovechamientos de todos los municipios en el tercer año anterior para el que se efectúa el cálculo, se dividirá entre la recaudación de Impuestos, Derechos, Productos y Aprovechamientos de todos los municipios del segundo año anterior.
 
-c).- Se multiplicarán entre sí los cocientes obtenidos conforme a los incisos a) y b).
+c) Se multiplicarán entre sí los cocientes obtenidos conforme a los incisos a y b.
 
-Se sumarán los resultados que se obtengan de acuerdo con el inciso c) calculados para todos los municipios y se determinará el coeficiente de participación que corresponda a cada municipio del 80% del Fondo Unico de Participaciones a los Municipios.
+Se sumarán los resultados que se obtengan de acuerdo con el inciso c) calculados para todos los municipios y se determinará el coeficiente de participación que corresponda a cada municipio del 75% del fondo único de participaciones a los municipios.
 
-II.- El 20% en función a las características que cada municipio represente dentro del Plan Estatal de Desarrollo para el ejercicio de que se trate, cuya distribución será autorizada anualmente por la Legislatura en el Presupuesto de Egresos del Estado.
+II. El 20% en proporción directa al número de habitantes que tenga cada municipio en el ejercicio para el que se efectúa el cálculo.
+
+El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
+
+III. El 5% restante, se distribuirá en proporción inversa a las participaciones que por concepto de las variables de recaudación y de población obtenga cada municipio.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
 
@@ -147,11 +153,11 @@ II.- El 20% en función a las características que cada municipio represente den
 
 Las participaciones federales que correspondan a los municipios del fondo que establece la presente Ley, se calcularán para cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO DECIMO SEPTIMO.
 
-La entrega de las participaciones a los municipios a que se refieren los artículos anteriores, se hará por conducto de la Secretaría de Finanzas del Gobierno del Estado.
+La entrega de las participaciones a los municipios a que se refieren los artículos anteriores, se hará por conducto de la Secretaría de Planeación y Finanzas del Gobierno del Estado.
 
 ###### ARTICULO DECIMO OCTAVO.
 
@@ -187,9 +193,11 @@ La coordinación de las acciones entre el Estado y sus municipios a que se refie
 
 Los Ayuntamientos deberán ser integrantes del Comité a que se refiere el artículo anterior, por medio de los Presidentes Municipales.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO VIGESIMO SEXTO.
 
-Los convenios que celebren el Estado y sus municipios se suscribirán por el Gobernador Constitucional del Estado, el Director General de gobierno y el Titular de la Dependencia que conforme a la Ley Orgánica de la Administración Pública Estatal, tenga a su cargo las actividades por las que se convenga, así como por el Presidente Municipal y el Síndico del Ayuntamiento.
+Los convenios que celebren el Estado y sus municipios se suscribirán por el Gobernador Constitucional del Estado, el Secretario General de Gobierno y el titular de la dependencia que conforme a la Ley Orgánica de la Administración Pública Estatal, tenga a su cargo las actividades por las que se convenga, así como por el presidente municipal y el síndico del ayuntamiento.
 
 ## TRANSITORIOS
 
@@ -226,3 +234,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE DICIEMBRE DE 1989.
 
 UNICO.- La fórmula del artículo Décimo Quinto para el cálculo de la distribución a los municipios del Fondo Unico de Participación a los Municipios, entrará en vigor a partir del primero de enero de 1991.
+
+P.O. 28 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+Los ingresos adicionales producto del crecimiento del 2% al que se hace referencia en el Artículo Décimo Segundo, que corresponden al Fondo único de Participaciones a los Municipios, podrán destinarse preferentemente a los programas de obra pública; infraestructura productiva y desarrollo social, así como de seguridad pública que el municipio convenga, en el marco del Convenio de Desarrollo Social Municipal, con el Ejecutivo del Estado.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
