@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1983-05-18"
+last_updated: "1989-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1989.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -9135,7 +9135,9 @@ Las partes no pueden, bajo pena de nulidad, convenir de antemano que los interes
 
 Del arrendamiento.
 
-### CAPITULO IV. Del arrendamiento de fincas urbanas
+### CAPITULO IV. Del arrendamiento de fincas urbanas destinadas para habitación
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
 
 ###### Artículo 1770.
 
@@ -9371,31 +9373,147 @@ Si el arrendamiento debe ser inscrito en el Registro sólo vale el inscrito.
 
 En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 1676 y 1677.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
 ### CAPITULO VII
 
 Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado.
 
 ###### Artículo 1820.
 
-No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia.
+Las disposiciones relativas al Contrato de Arrendamiento sobre Casa Habitación, son de orden público y de interés social. Por tanto, son irrenunciables los derechos y beneficios que en este Capítulo se consignan y cualquier estipulación en contrario se tendrá por no puesta.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-A.
+
+No deberá darse en arrendamiento, una casa habitación que no reúna las condiciones de seguridad, higiene y salubridad exigidas por la Ley de la Materia.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-B.
+
+El arrendador que no haga las obras que ordenen las Dependencias Competentes, como necesarias para que una finca sea segura, habitable e higiénica, será responsable de los daños y perjuicios que sufran los inquilinos por esa causa.
+
+En tales casos, puede el inquilino, mediante autorización judicial ejecutar esas obras a cuenta de rentas.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-C.
+
+La duración mínima de todo Contrato de Arrendamiento de fincas urbanas destinadas a la habitación, será de un año forzoso para arrendador y opcional para el arrendatario quien podrá darlo por terminado, previo aviso que dé al arrendador con dos meses de anticipación que será prorrogable a voluntad del inquilino hasta por un año más, siempre y cuando se encuentre al corriente en el pago de las rentas. El derecho de prórroga a que se refiere este Artículo, se tendrá por ejercido con el sólo hecho de que el arrendatario continúe habitando la finca al vencimiento del Contrato.
+
+Si al concluir la prórroga continúa el arrendatario ocupando la finca sin oposición del arrendador, se estará a lo dispuesto en el Artículo 1858 en lo que no se oponga al presente Capítulo y en lo conducente por los artículos 1850 y 1851.
+
+En su caso, el arrendador, deberá manifestar su oposición dentro de los diez días siguientes al vencimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-D.
+
+Para los efectos de este Capítulo, la renta deberá estipularse en moneda nacional. La renta sólo podrá ser incrementada anualmente, en su caso, el aumento no podrá exceder del 80% respecto al incremento porcentual autorizado al salario mínimo general de la zona económica de la Entidad, aplicado al precio de la renta, en el año en que el Contrato se renueve o se prorrogue.
+
+Será nula de pleno derecho la estipulación de renta que rebase los límites señalados en este Artículo, por lo que en tal caso, el arrendatario sólo pagará el límite legal.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-E.
+
+La renta deberá pagarse en el lugar y plazos convenidos, y a falta de convenio, en el domicilio del arrendamiento y por meses vencidos.
+
+El arrendador está obligado a otorgar el recibo de pago de renta correspondiente. En caso de que se niegue éste a extender dicho recibo o a recibir la renta, el arrendatario deberá consignar su importe ante la Autoridad Judicial dentro de un término de diez días posteriores al en que debiera hacerlo, acompañando a su promoción el recibo inmediato anterior. En este caso, la copia de la promoción presentada en tiempo y sellada por el Juzgado, hará las veces de recibo.
+
+El arrendatario no está obligado a pagar la renta sino desde el día en que reciba el inmueble materia del Contrato.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-F.
+
+Para los efectos de este Capítulo, el Contrato de Arrendamiento debe otorgarse por escrito; la falta de esta formalidad se imputará al arrendador.
+
+El Contrato deberá contener, cuando menos las siguientes estipulaciones:
+
+I.- Nombre del arrendador y arrendatario;
+
+II.- La ubicación del inmueble;
+
+III.- La descripción detallada del inmueble objeto del Contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan;
+
+IV.- Del monto de la renta;
+
+V.- La garantía, en su caso;
+
+VI.- La mención expresa del destino habitacional del inmueble arrendado; y,
+
+VII.- El término del Contrato.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-G.
+
+El arrendamiento de fincas destinadas a la habitación, no termina con la muerte del arrendador ni por la del arrendatario, sino solo por los motivos establecidos en las Leyes.
+
+Con exclusión de cualquier otra persona, y por orden de sucesión el cónyuge, el concubinario o la concubina, los hijos, los ascendientes consanguíneos, por afinidad, o civiles del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los términos del Contrato siempre y cuando hubieren habitado el inmueble en vida del arrendatario durante los seis meses anteriores a su muerte.
+
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como sub-arrendatarios, cesionarios o por otro título semejante que no sea la situación prevista en este Artículo.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-H.
+
+El arrendatario tendrá derecho a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento del inmueble, siempre y cuando se encuentre al corriente en el pago de la renta. Su violación generará en el arrendador la obligación de pagar daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-I.
+
+En caso de que el propietario quiera vender la finca arrendada, el arrendatario tendrá derecho del tanto observándose las reglas siguientes:
+
+I.- En todos los casos, el propietario deberá dar aviso judicial o ante Notario al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades del Contrato que pretenda celebrar, debiendo mantener su oferta por el lapso de sesenta días naturales;
+
+II.- El arrendatario dispondrá de sesenta días para notificar en igual forma al arrendador, su voluntad de ejercer el derecho del tanto en las condiciones y modalidades de la oferta.
+
+En caso de que el arrendatario no haga la notificación a que se refiere esta fracción, precluirá su derecho.
+
+III.- Los Contratos celebrados en contravención de lo dispuesto en este Artículo serán anulables. La acción de nulidad a que se refiere esta Fracción prescribe a los seis meses contados a partir de que el arrendatario tuvo conocimiento de la realización del Contrato de Compraventa.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-J.
+
+El propietario no puede rehusar como fiador a una persona que reuna los requisitos exigidos por la Ley.
+
+El arrendador en todo caso, queda obligado a aceptar fianza de arrendamiento, expedida por Institución legalmente concesionada, supuesto en el cual exonerará al arrendatario de entregar depósito.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-K.
+
+La persona que dotando de muebles a una finca, pretenda celebrar Contrato de Hospedaje o prestar servicio de empresa de turismo, quedará sujeta a las disposiciones, según el caso, del contrato civil de hospedaje o al Código de Comercio, debiendo así mismo cumplir en ambos casos, con los requisitos que las Leyes de la materia establezcan.
+
+No cumplidos dichos requisitos, la finca quedará sujeta a las normas previstas en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 1820-L.
+
+En todo Contrato de Arrendamiento para habitación deberán transcribirse íntegras las disposiciones de este Capítulo.
 
 ###### Artículo 1821.
 
-El arrendador que no haga las obras que ordenen los Servicios Coordinados de Salud Pública en el Estado, o sus dependencias como necesarias para que una finca sea habitable o higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa. Puede en tales casos, el inquilino, mediante autorización judicial que obtenga en la vía sumaria, hacer esas obras a cuenta de rentas.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1989)
 
 ###### Artículo 1822.
 
-El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la Ley para que sea fiador.
-
-Si la renta no excede de cien pesos mensuales es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1989)
 
 ###### Artículo 1823.
 
-No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 1821.
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1989)
 
 ###### Artículo 1824.
 
-La renta debe pagarse en los plazos convenidos y a falta de convenio por meses vencidos
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1989)
 
 ### CAPITULO VIII
 
@@ -9567,11 +9685,13 @@ VIII.- Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 1850 y 1851.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 1857.
 
-Vencido el contrato de arrendamiento, el inquilino tendrá derecho a que se le prorrogue hasta por tres años ese contrato, siempre que se encuentre al corriente en el pago de las rentas .
+El inquilino tendrá derecho a que se le prorrogue hasta por un año el contrato celebrado por tiempo determinado, siempre que se encuentre al corriente en el pago de las rentas y lo solicite dentro de los diez días inmediatos anteriores al vencimiento.
 
-Quedan exceptuados de la obligación de prorrogar el contrato vencido, los arrendadores que tuvieren como única propiedad registrada la casa o la finca dada en arrendamiento, y tuvieren necesidad de habitar la primera o cultivar la segunda.
+Quedan exceptuados de la obligación de prorrogar el contrato los arrendadores que tuvieren como única propiedad registrada la casa o la finca dada en arrendamiento, y tuvieren necesidad de habitar la primera o cultivar la segunda.
 
 ###### Artículo 1858.
 
@@ -14960,3 +15080,11 @@ UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 P.O. 18 DE MAYO DE 1983.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 1989.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de Enero de mil novecientos noventa, previa su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que en materia de arrendamiento de fincas urbanas destinadas para habitación, se opongan a las normas contenidas en el presente Decreto.
+
+TERCERO.- Los Contratos celebrados con anterioridad a la iniciación de vigencia del presente Decreto, continuarán en vigor respecto al término pactado por las partes, estándose en cuanto a la prórroga legal y al incremento de la renta a lo previsto por los Artículos 1820-C y 1820-D del mismo.
