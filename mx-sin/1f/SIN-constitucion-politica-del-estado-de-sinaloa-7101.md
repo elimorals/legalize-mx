@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1939-12-21"
+last_updated: "1940-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1940.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -605,11 +605,11 @@ Si por cualquier motivo la elección ordinaria de Gobernador no estuviere hecha 
 
 El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1940)</small>
 
 ###### Art. 64.
 
-El Gobernador no podrá ausentarse por más de diez días, del Territorio del Estado, sin permiso del Congreso o de la Diputación Permanente en su caso.
+El Gobernador no podrá ausentarse del Territorio del Estado por más de quince días, sin permiso del Congreso o de la Diputación Permanente en su caso.
 
 ###### Art. 65.
 
@@ -1544,3 +1544,7 @@ UNICO.- El presente Decreto surte sus efectos legales a partir del día primero 
 P.O. 21 DE DICIEMBRE DE 1939.
 
 UNICO. Esta reforma empieza a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 1940.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
