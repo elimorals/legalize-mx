@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1953-03-21"
+last_updated: "1953-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1953.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1591,6 +1591,14 @@ P.O. 21 DE MARZO DE 1953.
 
 - Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1953)</small>
+
 ###### ARTICULO SEGUNDO
 
-- Los Diputados que actualmente forman la XXXVI Legislatura del Estado, terminarán su período el día treinta de septiembre del año de 1954, y por esta única vez, los próximos períodos para Diputados que integren la XXXVII Legislatura, comprenderán del primero de octubre de 1954 al día último de septiembre de 1955, y para los próximos Munícipes, del primero de enero de 1955 al último de diciembre del mismo año.
+- Los Diputados que integren la XXXVII Legislatura tomarán posesión de sus cargos el 16 de septiembre de 1954 y concluirán su ejercicio constitucional el día 30 de septiembre de 1955; los próximos Munícipes entrarán en funciones el 1o. de enero de 1955 y concluirán su ejercicio el último de diciembre del mismo año.
+
+Por esta única vez el C. Gobernador no rendirá su informe el día que se instale la XXXVII Legislatura sino que lo hará el 1ro. de Octubre de 1954, en Sesión Solemne que para tal efecto celebrará esta H. Cuerpo Colegiado.
+
+P.O. 24 DE OCTUBRE DE 1953.
+
+UNICO:- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
