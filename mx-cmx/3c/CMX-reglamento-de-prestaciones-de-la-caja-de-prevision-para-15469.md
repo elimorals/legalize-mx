@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "1997-10-20"
+last_updated: "1997-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,15 @@ issue_date: "1988-11-25"
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 1997.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
 Reglamento de Prestaciones de la Caja de Previsión para Trabajadores a Lista de Raya del Departamento del Distrito Federal.
 
 ### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 1°.
 
@@ -38,7 +40,7 @@ I. Pensión por riesgos de trabajo;
 
 II. Pensión por jubilación;
 
-III. Pensión de retiro por edad y tiempo de servicios;
+III. Pensión por retiro por edad y tiempo de servicios;
 
 IV. Pensión por invalidez;
 
@@ -46,19 +48,21 @@ V. Pensión por cesantía en edad avanzada;
 
 VI. Pensión por muerte;
 
-VII. Indemnización global;
+VII. Indemnización Global;
 
 VIII. Préstamos a corto plazo;
 
 IX. Préstamos a mediano plazo;
 
-X. Préstamos hipotecarios y financiamiento en general para la vivienda;
+X. Préstamos escolares;
 
-XI. Ayuda para cubrir gastos de sepelio;
+XI. Préstamos hipotecarios y financiamiento en general para la vivienda;
 
-XII. De bienestar social;
+XII. Ayuda para cubrir gastos de sepelio;
 
-XIII. Servicios médicos subrogados.
+XIII. De bienestar social; y
+
+XIV. Servicios médicos subrogados.
 
 ###### ARTICULO 2°.
 
@@ -166,7 +170,7 @@ IV. Los trabajadores a lista de raya del Departamento que hubieren prestado serv
 
 V. Cuando se hubieren prestado servicios con interrupciones con más de seis meses antes o después del 01 de enero de 1962, los trabajadores o al fallecer estos, sus familiares derechohabientes, podrán solicitar que la institución adicione el período de tiempo interrumpido al nuevo período cotizado, para así tener derecho a pensión, o correspondiendo ésta, para incrementar su antigüedad, pagando previamente las cuotas especiales relativas al preríodo (sic) de tiempo no cotizado.
 
-> <small>(F. DE E., G.O. 17 DE NOVIEMBRE DE 1997)</small>
+> <small>(F. DE E., G.O. 17 DE NOVIEMBRE DE1997)</small>
 
 El período de tiempo cotizado con anterioridad a la interrupción deberá reconocerse, independientemente del pago de cuotas especiales antes señalado.
 
@@ -758,45 +762,61 @@ I. Prepensionarios. Consistirán en la impartición de conocimientos elementales
 
 II. Postpensionarios. Consistentes en brindar la oportunidad a los pensionados de continuar participando en su beneficio y de los familiares dependientes económicamente de ellos, a través de actividades culturales y recreativas en talleres de acabados, de manufacturas diversas, de artesanías y otros, para la producción y comercialización de artículos, promoviendo así la Institución, la incorporación del grupo de pensionistas al aparato productivo.
 
-### CAPITULO XVI. Prestaciones Económicas de los Préstamos Personales a Corto y Mediano Plazo
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
-#### SECCION PRIMERA. Préstamos a Corto Plazo
+### CAPITULO XVI. Prestaciones Económicas de los Préstamos Personales a Corto, Mediano Plazo y Escolares
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
+#### SECCION PRIMERA. Préstamos a Corto Plazo y Escolares
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 104.
 
-La Institución otorgará préstamos personales a corto y mediano plazo a los trabajadores y pensionistas protegidos por este Reglamento, siempre y cuando tengan una antigüedad mínima de un año de servicios e igual de cotizaciones.
+La Institución otorgará préstamos personales a corto, mediano plazo y escolares a los trabajadores y pensionistas protegidos por este Reglamento, siempre y cuando tengan una antigüedad mínima de un año de servicios e igual de cotizaciones.
+
+Los préstamos escolares, se otorgarán a los hijos de los trabajadores y pensionistas al inicio del ciclo escolar, siempre y cuando acrediten cursar los niveles de instrucción pre-primaria, primaria, secundaria, preparatoria y profesional. A los trabajadores estudiantes, se les otorgará igualmente dichos préstamos con excepción del primer nivel.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 105.
 
-El Consejo Directivo de la Institución determinará anualmente el monto de la partida de su presupuesto que se destine para préstamos a corto plazo y el interés que éstos devenguen sobre saldos insolutos y tendrán 48 quincenas como plazo máximo para liquidarlo.
+El Consejo Directivo de la Institución determinará anualmente el monto de la partida de su presupuesto que se destine para préstamos a corto plazo y escolares el interés que éstos devenguen sobre saldos insolutos y tendrán 48 y 24 quincenas respectivamente como plazo para liquidarlos.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 106.
 
 El otorgamiento de los créditos que conceda la Institución al trabajador o pensionado, se sujetará a las siguientes normas:
 
-I. Podrá obtener préstamo a corto plazo y a la vez un crédito hipotecario el solicitante cuya capacidad de pago se lo permita.
+I. Podrá obtener préstamos a corto plazo y/o escolar y a la vez un crédito hipotecario el solicitante cuya capacidad de pago se lo permita.
 
-II. No podrán otorgarse simultáneamente préstamos a corto y mediano plazo, por ser incompatibles.
+II. No podrán otorgarse simultáneamente préstamos a corto, mediano plazo y escolares, por ser incompatibles.
 
 ###### ARTICULO 107.
 
 El monto de los descuentos al trabajador o pensionado por concepto de préstamos, no deberá rebasar el 50% de su sueldo básico o, en su caso, de la pensión concedida.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 108.
 
-El solicitante de un préstamo a corto plazo desde y para el inicio de su gestión deberá reunir los requisitos de forma que determine la Institución.
+El solicitante de un préstamo a corto plazo o escolar desde y para el inicio de su gestión deberá reunir los requisitos de forma que determine la Institución.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 109.
 
-El monto de los préstamos a corto plazo será determinado por el Consejo Directivo, mediante acuerdo general que emita para garantizar igualdad de tratamiento a los solicitantes.
+El monto de los préstamos a corto plazo y escolares será determinado por el Consejo Directivo, mediante acuerdo general que emita para garantizar igualdad de tratamiento a los solicitantes.
 
 En ningún caso el préstamo será superior a diez veces el sueldo mínimo mensual y su monto total lo constituirá el capital y los intereses calculados durante el lapso otorgado para su amortización.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 110.
 
-Los préstamos a corto plazo que la Institución otorgue, quedarán sujetos a las siguientes normas:
+Los préstamos a corto plazo y escolares que la Institución otorgue quedarán sujetos a las siguientes normas:
 
 I. El pago del capital e intereses que devenguen, se hará en abonos quincenales iguales mediante descuentos que se hagan a los salarios de los trabajadores.
 
@@ -810,27 +830,33 @@ III. Solamente podrá renovarse un préstamo a corto plazo, cuando se haya cubie
 
 IV. Si el trabajador cubre su adeudo con anticipación a la fecha de su vencimiento, tendrá derecho a la bonificación de interese no devengados.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, G.O 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 111.
 
-A los pensionados también se les concederán préstamos a corto plazo hasta el monto que determine el Consejo Directivo. El término máximo para liquidarlos será de 24 meses y, en lo aplicable, su trámite y renovación deberán ajustarse a lo preceptuado por el artículo 110 del presente Reglamento.
+A los pensionados también se les concederá préstamos a corto plazo y escolares hasta el monto que determine el Consejo Directivo. El término máximo para liquidarlos será de 24 meses y 12 meses respectivamente en lo aplicable, su trámite y renovación deberán ajustarse a lo preceptuado por el artículo 110 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 112.
 
-El trabajador que cause baja del servicio, sin tener derecho a pensión y tuviera adeudo con la Institución por préstamo a corto plazo, se le descontará de la indemnización global el importe de aquél.
+El trabajador que cause baja del servicio, sin tener derecho a pensión y tuviera adeudo con la Institución por préstamos a corto plazo y/o escolar, se le descontará de la indemnización global el importe de aquellos.
 
 ###### ARTICULO 113.
 
 Si a un trabajador se le concede alguna de las pensiones establecidas por este Reglamento y tuviera pendiente el pago de algún crédito que le hubiere sido otorgado por la Institución, se le descontará el adeudo absoluto del importe de su percepción mensual.
 
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 114.
 
-(DEROGADO, G.O. 13 DE MAYO DE 1991)
+Cuando el trabajador deudor de un préstamo a corto plazo y/o escolar fallezca, la Institución deducirá la suma que adeude a el importe de las pensiones o de la indemnización global que corresponda a quienes tengan derecho a ello. En el caso de pensionados, el adeudo se deducirá de las prestaciones económicas que hayan de percibir los familiares derechohabientes.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 115.
 
-El trabajador que obtenga un préstamo a corto plazo y a quien por error u omisión no se le hicieren los descuentos correspondientes, estará obligado a comunicarlo a la Institución y a liquidarle el importe de los adeudos anteriores.
+El trabajador que obtenga un préstamo a corto plazo y/o escolar y a quien por error u omisión no se le hicieren los descuentos correspondientes, estará obligado a comunicarlo a la Institución y a liquidarle el importe de los adeudos anteriores.
 
 #### SECCION SEGUNDA. Préstamos a Mediano Plazo
 
@@ -902,11 +928,15 @@ Para el caso de mora de los trabajadores y pensionados, la Institución podrá d
 
 ### CAPITULO XVIII. Fondo de Garantía
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 129.
 
-Para garantizar el monto de los préstamos a corto y mediano plazo y para redimir los créditos que quedan insolutos en los términos de este Reglamento, se constituirá un fondo especial denominado Fondo de Garantía, cuyas primas se cubrirán conforme a los siguientes porcentajes:
+Para garantizar el monto de los préstamos a corto, mediano plazo y escolares y para redimir los créditos que quedan insolutos en los términos de este Reglamento, se constituirá un fondo especial denominado Fondo de Garantía, cuyas primas se cubrirán conforme a los siguientes porcentajes:
 
-a) 1.0% sobre el importe del préstamo a los trabajadores que acrediten tener de seis meses a cinco años de aportaciones.
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
+a) 1.0% sobre el importe del préstamo a los trabajadores que acrediten tener de uno a cinco años de aportaciones.
 
 b) 0.8% sobre el importe del préstamo, a los servidores que comprueben tener más de cinco a diez años de aportaciones.
 
@@ -916,13 +946,17 @@ c) 0.6% sobre el importe del préstamo a los trabajadores y pensionados que teng
 
 En los créditos concedidos deberán consignarse invariablemente las condiciones y términos en que se aplicará el beneficio de la cancelación o redención en su caso.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 131.
 
-Todos los trabajadores y los pensionados, cuando obtengan créditos a corto plazo, quedarán protegidos por este Fondo de Garantía.
+Todos los trabajadores y los pensionados, cuando obtengan créditos a corto, mediano plazo y/o escolares, quedarán protegidos por este Fondo de Garantía.
+
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 132.
 
-Los créditos a corto y mediano plazo que se consideren insolutos, también se cargarán al Fondo de Garantía a partir del primer año de su vencimiento. La Institución queda facultada para emplear los medios legales de cobro que considere pertinentes, abonando al fondo, las cantidades que se recuperen.
+Los créditos a corto, mediano plazo y/o escolares, que se consideren insolutos, también se cargarán al Fondo de Garantía a partir del primer año de su vencimiento. La Institución queda facultada para emplear los medios legales de cobro que considere pertinentes, abonando al fondo, las cantidades que se recuperen.
 
 ###### ARTICULO 133.
 
@@ -1279,3 +1313,7 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal
 G.O. 20 DE OCTUBRE DE 1997.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+G.O. 17 DE NOVIEMBRE DE 1997.
+
+DEL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
