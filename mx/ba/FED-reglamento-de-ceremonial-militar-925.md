@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-ceremonial-militar-925"
 country: "mx"
 rank: "reglamento"
 publication_date: "1938-11-10"
-last_updated: "1938-11-10"
+last_updated: "1949-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1938-09-12"
 
 REGLAMENTO DE CEREMONIAL MILITAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1949.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 10 de noviembre de 1938.
 
@@ -1105,13 +1105,45 @@ El Jefe que reciba reunirá al Cuadro de Oficiales en la Comandancia, a fin de q
 
 La Secretaría de la Defensa Nacional mandará copia del oficio girado a los interesados, a la Comandancia de la Guarnición de la Plaza de México y a la de la Zona correspondiente, con objeto de que lo hagan conocer por medio de la Orden de la Plaza de su jurisdicción, fijando, si les corresponde, la fecha y lugar de la imposición.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 1949)</small>
+
 ###### ARTICULO 189.
 
-La imposición de condecoraciones corresponderá al C. Presidente de la República, quien podrá delegar sus facultades en el Secretario de la Defensa Nacional o en los Comandantes de Zona, de Guarnición o de Grandes Unidades.
+La imposición de condecoraciones corresponderá al C. Presidente de la República, quien podrá delegar sus facultades en el Secretario de la Defensa Nacional, en los Comandantes de Zona, de Guarnición o de Grandes Unidades.
 
-Para llevar a cabo este acto el Comandante de la Zona o Guarnición que corresponda, mandará formar las tropas disponiéndolas de modo que puedan presenciar la ceremonia. Esta consistirá en una corta alocución e imposición de las condecoraciones.
+Para llevar a cabo este acto, la tropa se formará de modo que pueda presenciar la ceremonia.
 
-Al final, dichas tropas desfilarán ante el Primer Magistrado o su representante, quien tendrá a su izquierda a los condecorados.
+El Presidente de la República o quien lo represente, impondrá la condecoración a quienes se hayan hecho acreedores a ella, que previamente se encontrarán colocados en el centro de las tropas.
+
+Al final, dichas tropas desfilarán ante el C. Presidente de la República o su representante, quien tendrá a su izquierda a los condecorados.
+
+En las fechas que se expresan se impodrán (sic) las condecoraciones siguientes
+
+5 de febrero
+
+MERITO DOCENTE.
+
+MERITO FACULTATIVO.
+
+MERITO TECNICO MILITAR.
+
+MERITO AERONAUTICO.
+
+13 de septiembre
+
+VALOR HEROICO.
+
+MERITO MILITAR.
+
+SEGUNDA INVASIÓN NORTEAMERICANA.
+
+20 de noviembre
+
+MERITO REVOLUCIONARIO.
+
+PERSEVERANCIA.
+
+MERITO DEPORTIVO MILITAR.
 
 ###### ARTICULO 190.
 
@@ -1250,3 +1282,11 @@ Si una de las Corporaciones o Institutos estuvieren a pie firme, su abanderado h
 En la misma forma saludará a los restos de los héroes.
 
 XIV.- Sólo para corresponder al saludo que el C. Presidente de la República haga a la Bandera, el abanderado la inclinará ligeramente al frente, cuando el Primer Magistrado llegue a su altura o cuando ella pase en igual circunstancia frente a él, volviéndola en seguida a su posición anterior.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 23 DE JULIO DE 1949.
+
+###### ARTICULO UNICO.
+
+El presente ordenamiento comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Diario Oficial" derogando todas las disposiciones que a él se opongan.
