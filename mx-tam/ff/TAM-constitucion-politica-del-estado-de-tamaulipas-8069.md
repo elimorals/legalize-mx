@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1943-11-03"
+last_updated: "1944-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1944.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1081,7 +1081,7 @@ Los delitos de cohecho, soborno o prevaricación, producen acción popular contr
 
 ###### Art. 107.
 
-El Supremo Tribunal de Justicia se compone de tres Magistrados, que funcionarán en acuerdo pleno o por Salas en la forma que determine la ley.
+El Supremo Tribunal de Justicia del Estado, se compone de tres Magistrados que funcionarán en Acuerdo Pleno o por Salas en la forma que determine la Ley, y además de un Magistrado Supernumerario que, con carácter permanente, funcionará con las facultades que la ley le señala.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1194,6 +1194,8 @@ Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, d
 Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Gran Jurado o Jurado de Acusación declare por la afirmativa, se reintegrará por los medios señalados en la presente Constitución el Supremo Tribunal de Justicia, y este sentenciará a los encausados, pero separadamente a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
 
 ### CAPITULO II. De Los Magistrados
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE FEBRERO DE 1944)</small>
 
 ###### Art. 117.
 
@@ -1710,3 +1712,7 @@ Este Decreto principiará a surtir sus efectos a partir de la fecha de su public
 P.O. 3 DE NOVIEMBRE DE 1943.
 
 UNICO.- Este Decreto comienza a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 1944.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
