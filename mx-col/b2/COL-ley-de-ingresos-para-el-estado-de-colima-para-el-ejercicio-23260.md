@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-para-el-estado-de-colima-para-el-ejercicio-2326
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2001-12-29"
-last_updated: "2001-12-29"
+last_updated: "2002-06-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS PARA EL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2002
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
 
 Ley Publicada en el Periódico Oficial "El Estado de Colima", el sábado 29 de diciembre del 2001.
 
@@ -108,3 +108,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 24 días del mes de Diciembre del año dos mil uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P. O. 22 DE JUNIO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima" l.
