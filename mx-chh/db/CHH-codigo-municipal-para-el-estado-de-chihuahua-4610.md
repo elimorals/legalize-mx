@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2000-05-06"
+last_updated: "2000-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2000.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1673,6 +1673,10 @@ Al otorgamiento, ejecución, terminación y en general al régimen jurídico de 
 
 La enajenación de bienes inmuebles del dominio público de los Municipios requiere su previa desafectación y autorización por Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
+
+Los Municipios al solicitar la autorización a que se refiere el párrafo anterior, deberán acreditar en su escrito la justificación que dió origen a la enajenación.
+
 ###### ARTICULO 111.
 
 Los bienes inmuebles del dominio privado del Municipio son imprescriptibles pero podrán ser enajenados.
@@ -1690,6 +1694,10 @@ Para el caso de establecimientos de centros industriales, agropecuarios, educati
 ###### ARTICULO 112.
 
 Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate; cuando su importe sea menor, bastará el acuerdo por escrito del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
+
+Queda estrictamente prohibido la enajenación de bienes muebles, durante los últimos seis meses de la Administración, salvo que los bienes tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual el Secretario deberá certificar el estado que guardan los bienes a enajenarse.
 
 ### CAPITULO UNICO
 
@@ -2918,3 +2926,7 @@ El presente decreto entrará en vigor el primero de enero del año dos mil.
 P.O. 6 DE MAYO DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
