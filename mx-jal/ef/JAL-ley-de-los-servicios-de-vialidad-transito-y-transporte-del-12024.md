@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2002-05-21"
+last_updated: "2002-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,409 +21,805 @@ state: "JAL"
 ---
 # LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-LEY NÚMERO 698 ESTATAL DE PARTICIPACIÓN CIUDADANA Y GOBIERNO ABIERTO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
-Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 29 de noviembre de 2018.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
-AL MARGEN UN SELLO QUE DICE: ESTADOS UNIDOS MEXICANOS.- PODER LEGISLATIVO.- ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-LA SEXAGÉSIMA CUARTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCION I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
 
-L E Y Número 698
+DECRETO
 
-ESTATAL DE PARTICIPACIÓN CIUDADANA Y GOBIERNO ABIERTO
+NÚMERO 17167. EL CONGRESO DEL ESTADO DECRETA:
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco
 
-### CAPÍTULO ÚNICO. DEL OBJETO, COMPETENCIA Y DEFINICIONES
+## TITULO PRIMERO. Disposiciones generales
 
-###### ARTÍCULO 1.
+### CAPITULO I. Del objeto de la Ley
 
-La presente Ley es de orden público, interés social y de observancia obligatoria en todo el régimen interior del Estado en materia de participación ciudadana y gobierno abierto.
+###### Artículo 1.
 
-###### ARTÍCULO 2.
+La presente Ley tiene por objeto:
 
-Las disposiciones de esta Ley tienen por objeto fomentar, promover, regular y establecer los instrumentos, herramientas y tecnologías que permitan la organización y participación de los habitantes del Estado en los procedimientos, funciones y decisiones de los órganos del Gobierno del Estado y de los Municipios.
+I. Regir el tránsito en el Estado de Jalisco para establecer el orden y control de la circulación vehicular y peatonal en las vías públicas abiertas a la circulación, que no sean de la competencia federal;
 
-Los mecanismos previstos en esta Ley no impedirán el desarrollo de otras formas de participación ciudadana en la vida política, económica, social y cultural del Estado o del Municipio, ni el ejercicio de otros derechos ciudadanos previstos en otros ordenamientos.
+II. Establecer las bases para programar, organizar, administrar y controlar la infraestructura vial, la infraestructura carretera y el equipamiento vial;
 
-###### ARTÍCULO 3.
+III. Determinar las bases para planear, establecer, regular, administrar, controlar y supervisar el servicio público de transporte; y
 
-Para efectos de esta Ley se entenderá por:
+IV. Establecer la coordinación del Estado y los municipios para integrar y administrar el sistema de vialidad, tránsito y transporte, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-I. Colaboración abierta: Herramienta a través de la cual se externaliza una función, servicio, ejecución de tarea, generación de contenido, o cualquier otra actividad a cargo de un Municipio, Dependencia y/o Entidad, a un grupo indefinido de personas mediante una convocatoria abierta;
+Las disposiciones de esta Ley y sus reglamentos son de orden público e interés social, debiéndose aplicar supletoriamente en lo conducente y no previsto, las disposiciones de la Ley que regule el procedimiento ante el Tribunal de lo Administrativo y las instancias que deriven del mismo.
 
-II. Consejo: Consejo Estatal de Gobierno Abierto;
+###### Artículo 2.
 
-III. Gobierno Abierto: Modelo de gobernanza colaborativa, que aprovecha la inteligencia de diferentes sectores de la sociedad para tomar mejores decisiones en los procesos de diseño, elaboración, implementación y evaluación de políticas públicas, servicios públicos y programas gubernamentales, de forma abierta y transparente;
+Para los efectos de la fracción I, del artículo anterior:
 
-IV. Ley: Ley Estatal de Participación Ciudadana y Gobierno Abierto;
+I. Son vías públicas: Las calles, calzadas, avenidas, viaductos, caminos y autopistas, así como las vialidades primarias y corredores de movilidad con prioridad al transporte público y, en general:
 
-V. Organismo: Organismo Público Local Electoral;
+a) Los predios destinados a los fines públicos del tránsito peatonal, vehicular y al transporte colectivo; y
 
-VI. Participación ciudadana: Es el derecho y la obligación de todas las personas para intervenir de manera individual o colectiva en las decisiones que afectan a la comunidad, con el objetivo de mejorar las políticas y acciones de gobierno, de acuerdo con principios de rendición de cuentas y plena transparencia; y
+b) Los caminos públicos de jurisdicción estatal, destinados temporal o permanentemente al tránsito de personas, semovientes y vehículos, incluyendo el área del derecho de vía de los mismos;
 
-VII. Rendición de cuentas: Es la obligación que tienen todas las autoridades de informar a la ciudadanía, de manera transparente, sobre las acciones que realiza, a responder acerca de los resultados de las mismas y asumir las consecuencias previstas en las leyes.
+II. No tienen el carácter de vías públicas los predios pertenecientes al dominio privado de la Federación, del Estado, de los municipios o de los particulares, para fines restringidos o aprovechamientos privados, así como los bienes de uso común de los condominios;
 
-###### ARTÍCULO 4.
+III. Se denominan vías públicas de comunicación local: Las vías públicas, incluyendo sus construcciones de ingeniería como puentes, alcantarillas, pasos a desnivel y demás elementos de protección, a excepción de aquéllas que comuniquen al Estado con otra u otras entidades federativas, o las construidas en su totalidad o en su mayor parte por la Federación, siempre que éstas no se hubieren cedido al Estado; y
 
-La participación ciudadana radicará en los principios de:
+IV. Se entiende por derecho de vía, a la zona afecta a una vía pública en ambos lados de ésta, con las medidas que determine el reglamento correspondiente.
 
-I. Democracia: Igualdad de oportunidades de las y los ciudadanos para ejercer influencia en la toma de decisiones públicas sin discriminaciones de carácter político, religioso, racial, ideológico, de género o de ninguna otra especie;
+###### Artículo 3.
 
-II. Corresponsabilidad: Compromiso compartido de la ciudadanía y el gobierno de acatar los resultados de las decisiones mutuamente convenidas; reconociendo y garantizando los derechos de los ciudadanos a proponer y decidir sobre los asuntos públicos; postulando que la participación ciudadana es condición indispensable para un buen gobierno y no sustitución de las responsabilidades del mismo;
+Las disposiciones de la presente Ley regularán:
 
-III. Inclusión: Fundamento de una gestión pública socialmente responsable, que englobe e incluya las opiniones de quienes desean participar; que reconoce desigualdades y promueve un desarrollo equitativo de la sociedad y de los individuos que la conforman;
+I. Las acciones tendientes a garantizar a las personas el acceso y aprovechamiento a los servicios de vialidad, tránsito y transporte, en condiciones de higiene, seguridad y continuidad;
 
-IV. Solidaridad: Disposición de toda persona de asumir los problemas de otros como propios, contrario a todo egoísmo o interés particular, que propicie el desarrollo de relaciones fraternales entre los vecinos, eleve la sensibilidad acerca de la naturaleza de las propias situaciones adversas y las de los demás, así como nutra y motive las acciones para enfrentar colectivamente los problemas comunes;
+II. Las acciones relativas a la construcción, administración y aprovechamiento de las obras de infraestructura afectas a los servicios de vialidad, tránsito y transporte;
 
-V. Pluralidad: Es el hecho que puedan existir y coexistir en el territorio minorías y mayorías de grupos étnicos culturales que se diferencian entre sí, pero que en cierto punto se unen en el hecho de vivir en el mismo lugar y será esta diferencia lo que enriquezca;
+III. Las características de los vehículos y sus condiciones operativas, necesarias para permitir su circulación, con base en las normas oficiales mexicanas aplicables;
 
-VI. Legalidad: Garantía de que las decisiones de gobierno serán siempre apegadas a Derecho; con seguridad para la ciudadanía en el acceso a la información y con la obligación expresa del gobierno de informar, difundir, capacitar y educar para una cultura democrática;
+IV. Los requisitos, condiciones y limitaciones para operar o conducir vehículos;
 
-VII. Respeto: Reconocimiento pleno a la diversidad de visiones y posturas, asumidas libremente en torno a los asuntos públicos. En este caso comienza incluso por la libertad de elegir cuándo y cómo se participa en la vida pública del Estado;
+V. Los requisitos, condiciones, términos y procedimientos para el otorgamiento de las concesiones y permisos destinados a la prestación del servicio público de transporte en sus distintas modalidades, y en la operación de servicios conexos en el área del derecho de vía; y
 
-VIII. Tolerancia: Garantía de reconocimiento y respeto a la diferencia y a la diversidad de quienes conforman la sociedad y como un elemento esencial en la construcción de consensos; y
+VI. Los requisitos y condiciones para establecer y operar servicios conexos.
 
-IX. Sustentabilidad: Responsabilidad de que las decisiones asumidas en el presente aseguren a las generaciones futuras el control y disfrute de los recursos naturales del entorno.
+###### Artículo 4.
 
-###### ARTÍCULO 5.
+El servicio público de transporte, por su cobertura se clasifica en:
 
-Los mecanismos de participación ciudadana objeto de esta Ley son:
+I. Urbano: El que se genera en las áreas que integran un centro de población;
 
-I. Audiencia pública;
+II. Conurbado o metropolitano: El que se proporciona entre las áreas de dos o más centros de población, localizados en distintos municipios, cuando por su crecimiento y relaciones socioeconómicas formen o tiendan a formar una unidad urbana y, para los efectos de las normas constitucionales que disponen su planeación conjunta y coordinada, se consideran como un sólo centro de población; y
 
-II. Cabildo en sesión abierta; y
+III. Suburbano: El que se presta entre las áreas de un centro de población y sus poblaciones aledañas alrededor de su zona de influencia; y
 
-III. Asamblea vecinal.
+IV. Foráneo:
 
-###### ARTÍCULO 6.
+a) Interurbano: El que se proporciona entre centros de población o lugares de áreas rurales, dentro del mismo Municipio; y
 
-Para efectos de esta Ley, los habitantes del Estado tienen los siguientes derechos:
+b) Intermunicipal: El que se presta entre centros de población localizados en diferentes municipios dentro del Estado.
 
-I. Exigir en sus términos el cumplimiento de la presente Ley;
+###### Artículo 5.
 
-II. Promover la participación ciudadana de conformidad con el marco legal del Estado;
+Las acciones relativas a los servicios de vialidad, tránsito y transporte, se regularán mediante los procedimientos administrativos que se establecen en esta Ley y en sus reglamentos. Para tal efecto, se entenderá por:
 
-III. Ejercer los mecanismos de participación ciudadana previstos en la presente Ley, sin perturbar el orden y la tranquilidad pública, ni afectar el desarrollo normal de las actividades de los demás habitantes; y
+I. Licencia: La autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
 
-IV. Presentar quejas y denuncias ante las autoridades competentes, en contra de servidores públicos que contravengan las disposiciones de la presente Ley.
+II. Concesión: El acto administrativo del Estado mediante el cual autoriza a las personas, físicas o jurídicas, a concurrir en la prestación del servicio público de transporte por el tiempo que establece esta Ley, en sus distintas modalidades, o en los servicios conexos a las vías públicas de comunicación local, independientemente del permiso o permisos para la explotación del servicio público de autos de alquiler, taxis o radiotaxis;
 
-### CAPÍTULO I. DE LOS PRINCIPIOS, MECANISMOS Y DERECHOS Y OBLIGACIONES DE LOS HABITANTES
+III. Permiso: Autorización que, sin crear derechos permanentes, concede la autoridad competente en atención a ciertos hechos o condiciones de carácter transitorio, para:
 
-###### ARTÍCULO 7.
+a) La circulación, conducción u operación de vehículos; o
 
-Para efectos de esta Ley, los habitantes del Estado tienen las siguientes obligaciones:
+b) La prestación del servicio público de transporte, en sus distintas modalidades, para atender por un tiempo determinado el incremento en la demanda por actividades derivadas de acontecimientos y festividades públicas o situaciones de emergencia.
 
-I. Ejercer sus derechos cívico-políticos;
+Esta definición no es aplicable al transporte público de alquiler, taxis o radiotaxis;
 
-II. Respetar y observar el orden jurídico estatal y nacional que reconoce a la República con una forma de gobierno representativa, democrática y federal, y a la entidad federativa de Veracruz de Ignacio de la Llave como Estado libre y soberano; y
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-III. Las demás que establezcan ésta y otras leyes.
+IV. Subrogación: Es un acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley;
 
-###### ARTÍCULO 8.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-Todo servidor público estatal o municipal tiene, en el ámbito de sus respectivas atribuciones, la obligación de cumplir y hacer cumplir la presente Ley, de facilitar la participación ciudadana y de abstenerse de utilizar cualquier medio que inhiba esa participación.
+V. Consejo Estatal: Consejo Consultivo de Vialidad, Tránsito y Transporte;
 
-###### ARTÍCULO 9.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-Las autoridades municipales y estatales, con base en la disposición presupuestal, están obligadas a promover entre los servidores públicos cursos de formación y sensibilización para dar a conocer los mecanismos de participación ciudadana y la cultura de la participación ciudadana en general.
+VI. Registro Estatal: Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
 
-###### ARTÍCULO 10.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-Las autoridades municipales y estatales, con base en la disposición presupuestal, promoverán entre los habitantes y ciudadanos del Estado, a través de campañas informativas y formativas, programas para la formación y la cultura de la participación ciudadana en general, así como la difusión de los mecanismos de participación ciudadana que establece esta Ley.
+VIII (sic). Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público; y
 
-###### ARTÍCULO 11.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-La audiencia pública es el acto que se realiza para que los gobernados de manera directa traten con los gobernantes asuntos públicos, previa convocatoria que emita la autoridad correspondiente.
+IX. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte.
 
-###### ARTÍCULO 12.
+###### Artículo 6.
 
-Las autoridades administrativas estatales y municipales, en el ámbito de su competencia, deberán celebrar audiencia pública, por lo menos, una vez cada tres meses, durante el periodo de su gobierno.
+El ordenamiento y regulación de la vialidad, el tránsito y el transporte, tienen como principal finalidad garantizar la integridad y el respeto a la persona, a sus bienes, a los del Estado y municipios, así como al medio natural y al patrimonio cultural del Estado, mediante:
 
-### CAPÍTULO II. DE LA APLICACIÓN DE LA LEY
+I. El respeto a los derechos de los peatones y usuarios del servicio público de transporte;
 
-###### ARTÍCULO 13.
+II. La determinación de los derechos, obligaciones y responsabilidades de los conductores de vehículos, así como de los operadores, concesionarios y permisionarios del servicio público de transporte y de los peatones;
 
-La audiencia será presidida a nivel Estatal por el Gobernador del Estado o el Secretario de Despacho que aquél designe. A nivel municipal la audiencia será presidida por el Presidente Municipal. En ambos casos, quien presida la audiencia será asistido por los servidores públicos que considere necesarios.
+III. El mejoramiento de la seguridad vial;
 
-###### ARTÍCULO 14.
+IV. La promoción del uso ordenado y racional del automóvil;
 
-La organización e implementación de todo lo conducente para la celebración de la audiencia pública será responsabilidad de la autoridad convocante. El incumplimiento de lo dispuesto en este artículo será sancionado conforme a lo que dispongan esta Ley y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
+V. La prestación del servicio público de transporte en forma regular, continua, segura y acorde a las necesidades de la población;
 
-###### ARTÍCULO 15.
+VI. El mejoramiento de las vías públicas y de los medios de transporte;
 
-La convocatoria a la audiencia deberá publicitarse por el Gobernador del Estado o el Presidente Municipal, según el ámbito de competencia, por lo menos quince días naturales previos a la celebración de la misma.
+VII. La protección, ampliación y promoción de vías y rutas para el desarrollo de actividades turísticas, deportivas y de esparcimiento; y
 
-###### ARTÍCULO 16.
+VIII. La aplicación al tránsito y transporte de criterios y normas ecológicos.
 
-La convocatoria que emita el Gobernador del Estado deberá publicarse, de manera inmediata, en la Gaceta Oficial del Estado, así como en el portal electrónico oficial del Gobierno del Estado.
+### CAPITULO II. De las personas en sus derechos y obligaciones
 
-###### ARTÍCULO 17.
+###### Artículo 7.
 
-La convocatoria que emita el Presidente Municipal deberá publicarse de manera inmediata por lo menos durante tres días, en los estrados del Palacio Municipal y por los medios que se acostumbren o se consideren pertinentes, para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría del Ayuntamiento. En los casos que sea factible, la convocatoria deberá difundirse a través del portal electrónico oficial del municipio.
+Todas las personas que, en su calidad de peatones, transiten por las vías públicas, están obligadas a cumplir en lo que a ellos concierne, con las disposiciones de esta Ley y sus reglamentos, acatando en lo que corresponda el señalamiento vial, así como las indicaciones que hagan los oficiales o agentes de vialidad y tránsito cuando dirijan el tránsito.
 
-## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN CIUDADANA
+###### Artículo 8.
 
-### CAPÍTULO III. DE LA AUDIENCIA PÚBLICA
+Los peatones tendrán siempre el derecho de paso preferencial en los lugares en donde se determine mediante el respectivo señalamiento, así como en aquellos lugares en donde la circulación sea controlada por los oficiales o agentes de vialidad y tránsito, quienes en todo tiempo deberán cuidar por su seguridad y respeto.
 
-###### ARTÍCULO 18.
+###### Artículo 9.
 
-La convocatoria a la audiencia deberá contener, por lo menos:
+Los escolares tendrán el derecho de paso preferencial en todas las intersecciones y zonas señaladas para esos fines, próximos a los centros escolares, y tendrán prioridad para el ascenso y descenso en los vehículos de servicio público de transporte en general; en consecuencia, las autoridades competentes deberán proteger, mediante dispositivos, señalamientos e indicaciones convenientes, el tránsito de los escolares en los horarios y lugares establecidos.
 
-I. Nombre y cargo de la autoridad convocante;
+###### Artículo 10.
 
-II. Objeto de la audiencia y temas a tratar en la misma;
+Los peatones no deberán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación vehicular, ni cruzar las vías rápidas por lugares no autorizados al efecto.
 
-III. Lugar, fecha y hora de la celebración de la audiencia;
+###### Artículo 11.
 
-IV. Requisitos para presenciar la audiencia;
+Las aceras de las vías públicas sólo deberán ser utilizadas para el tránsito de los peatones, con las excepciones que determinen las autoridades municipales dentro de la jurisdicción que les corresponda.
 
-V. Requisitos para presentar documentación en la audiencia; y
+###### Artículo 12.
 
-VI. Requisitos para registrarse como orador en la audiencia.
+Adicionalmente a los derechos que corresponden a los peatones en general, las personas con problemas de discapacidad tendrán preferencia de paso en todos los cruceros o zonas de paso peatonal; asimismo, deberán dárseles las facilidades necesarias para que puedan abordar las unidades de transporte público.
 
-### CAPÍTULO IV. DEL CABILDO EN SESIÓN ABIERTA
+### CAPITULO III. De los ámbitos de competencia del Estado y del Municipio
 
-###### ARTÍCULO 19.
+###### Artículo 13.
 
-La autoridad convocante habilitará, al día siguiente de la publicación de la convocatoria y hasta tres días antes de la celebración de la audiencia pública, un sistema de registro en el cual se inscribirán quienes tengan interés en participar en la audiencia, para lo cual deberán entregar, por escrito, un resumen del contenido de su participación; asimismo, se recibirán los documentos o elementos que los participantes inscritos deseen presentar en relación con el tema que motiva la audiencia.
+En la aplicación de esta Ley y sus normas reglamentarias, concurrirán el Ejecutivo del Gobierno del Estado y los ayuntamientos, en los ámbitos de sus respectivas competencias y conforme a las atribuciones que establece el presente Ordenamiento.
 
-###### ARTÍCULO 20.
+###### Artículo 14.
 
-Al inicio de la audiencia pública, quien la presida o el secretario asistente deberá dar a conocer el orden y las reglas que deberán observar los oradores participantes, así como las reglas generales que habrán de observar todos los asistentes, para el buen desarrollo de la audiencia.
+Las autoridades estatales y municipales deberán:
 
-### CAPÍTULO V. DE LA ASAMBLEA VECINAL
+I. Programar y organizar sus acciones conforme a lo previsto en esta Ley y en sus normas reglamentarias, observando las disposiciones del ordenamiento territorial y ecológico;
 
-###### ARTÍCULO 21.
+II. Promover la participación de la sociedad en los programas que tengan como objeto conservar, mejorar y optimizar los sistemas de vialidad, tránsito y transporte; y
 
-Serán oradores los ciudadanos habitantes del Estado y municipios que se inscriban en el registro y que cumplan con los requisitos que para tal efecto disponga la autoridad convocante, los cuales deberán incluir la comprobación de su ciudadanía o residencia. Los oradores participarán preferentemente en el orden en que fueron registrados.
+III. Coadyuvar con el Ministerio Público y con los órganos de administración de justicia en la prevención, averiguación y esclarecimiento de los delitos, así como dar cumplimiento a las sanciones que en su caso se determinen y apliquen, relacionadas con la regulación y administración de la vialidad, el tránsito y el transporte.
 
-###### ARTÍCULO 22.
+###### Artículo 15.
 
-Quien presida la audiencia tendrá las atribuciones siguientes:
+Los ámbitos de competencia del Estado y del municipio en materia de vialidad, tránsito y transporte, se integrarán y delimitarán conforme a las siguientes bases:
 
-I. Designar un secretario que lo asista en todo lo conducente para el buen desarrollo de la audiencia; y
+I. Corresponde al Estado:
 
-II. Ordenar, sólo por causas de orden y seguridad, la suspensión de la audiencia, así como su continuación, cuando lo estime conveniente.
+a) La formulación y conducción de la política estatal de comunicaciones y transportes terrestres;
 
-### CAPÍTULO ÚNICO. DE LA CULTURA DE PARTICIPACIÓN CIUDADANA
+b) La expedición de las normas generales de carácter técnico en las materias objeto de esta Ley;
 
-###### ARTÍCULO 23.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-Concluidas las intervenciones de los oradores participantes y agotado el tiempo de la audiencia, quien presida la misma la dará por finalizada y deberá levantarse un acta que contenga de manera sucinta lo expresado en la Audiencia, la que será suscrita por quien presida la audiencia, el secretario asistente, los servidores públicos participantes y en su caso por los participantes que quieran hacerlo. Las autoridades convocantes deberán, dentro de los quince días hábiles siguientes a la fecha de la audiencia, dar respuesta por escrito a las peticiones de los solicitantes.
+c) El registro de concesiones, permisos, subrogaciones, vehículos, conductores y operadores, para su identificación y la certificación de derechos;
 
-###### ARTÍCULO 24.
+d) La programación, construcción y administración de la infraestructura carretera y de la infraestructura y equipamiento vial, así como la reglamentación y control del tránsito en sus vías de comunicación;
 
-El cabildo en sesión abierta es la sesión que celebra el Ayuntamiento, en la cual los habitantes participan directamente con derecho a voz, pero sin voto, a fin de discutir asuntos de interés para la comunidad y con competencia sobre el mismo.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO I. OBLIGACIONES DE LOS MUNICIPIOS, DEPENDENCIAS Y ENTIDADES
+e) La regulación y administración del tránsito con la intervención de los ayuntamientos, cuando los programas y acciones afecten dos o más municipios de la Entidad;
 
-###### ARTÍCULO 25.
+f) La regulación y administración del transporte; y
 
-Los gobiernos municipales están obligados a celebrar públicamente todas sus sesiones de Cabildo, salvo en los casos previstos por la Ley Orgánica del Municipio Libre, para lo cual se instrumentarán mecanismos que permitan la más amplia difusión posible a través de los medios electrónicos remotos y de comunicación disponibles. Los Ayuntamientos están obligados a celebrar sesiones de Cabildo abierto al menos bimestralmente. En estas sesiones, los ciudadanos del municipio podrán expresar su opinión sobre los problemas que observen de competencia municipal así como apuntar posibles soluciones, participando directamente con voz pero sin voto.
+g) La coordinación para integrar el sistema de vialidad, tránsito y transporte del Estado, con el sistema nacional de comunicaciones;
 
-###### ARTÍCULO 26.
+II. Corresponde al Municipio:
 
-La organización e implementación de todo lo conducente para la celebración del Cabildo en sesión abierta, de conformidad con lo establecido en este Capítulo, será responsabilidad del Ayuntamiento. El incumplimiento de lo dispuesto en este artículo será sancionado conforme a lo que dispongan esta Ley y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL DE GOBIERNO ABIERTO
+a) Intervenir, conjuntamente con el Ejecutivo en la formulación y aplicación de programas de transporte público, cuando éstos afecten su ámbito territorial;
 
-###### ARTÍCULO 27.
+b) La autorización de los proyectos de infraestructura vial, infraestructura carretera, equipamiento vial y servicios conexos, en lo relativo a su territorio, a su localización y aprovechamiento de áreas, conforme a las normas aplicables de carácter técnico y de ordenamiento territorial;
 
-El Ayuntamiento deberá emitir una convocatoria pública quince días naturales previos a la celebración del Cabildo en sesión abierta y deberá publicitarse de manera inmediata, por lo menos durante tres días, en los estrados del Palacio Municipal y por los medios que se acostumbren o se consideren pertinentes, para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría del Ayuntamiento.
+c) La integración y administración de la infraestructura vial; y
 
-###### ARTÍCULO 28.
+d) La reglamentación y control del tránsito en los centros de población que se localicen en su territorio.
 
-La convocatoria deberá contener, por lo menos:
+###### Artículo 16.
 
-I. Identificación del Ayuntamiento convocante;
+El Titular del Poder Ejecutivo Estatal expedirá los reglamentos que resulten necesarios para proveer a la observancia de esta Ley, a excepción de aquéllos que correspondan a la competencia de los ayuntamientos.
 
-II. Temas que motivan la sesión de cabildo abierto;
+###### Artículo 17.
 
-III. Lugar, fecha y hora de la celebración de la sesión de cabildo abierto; y
+En el ejercicio de sus atribuciones, los municipios observarán las disposiciones de esta Ley, los ordenamientos que de ella se deriven y aplicarán las normas generales de carácter técnico.
 
-IV. Requisitos para registrarse como participante en el cabildo abierto.
+## TITULO SEGUNDO. De las atribuciones de las autoridades de vialidad, tránsito y transporte
+
+### CAPITULO I. De las autoridades estatales y municipales
+
+###### Artículo 18.
+
+Son autoridades responsables de la aplicación y de vigilar la observancia de la presente Ley, en el ámbito de sus respectivas competencias:
+
+I. En el Gobierno del Estado:
+
+a) El Gobernador del Estado;
+
+b) La dependencia del Ejecutivo del Gobierno del Estado competente en materia de vialidad, tránsito y transporte;
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+c) La dependencia municipal competente en materia de vialidad, tránsito y transporte;
+
+d) El Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+
+II. En los gobiernos municipales:
+
+a) El ayuntamiento;
+
+b) El presidente municipal;
+
+c) La dependencia municipal competente en materia de vialidad y tránsito;
+
+d) Los jueces municipales en materia de tránsito;
+
+e) La tesorería municipal; y
+
+f) Las autoridades ejecutoras y recaudadoras que de ellos dependan;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+III. En la zona metropolitana de Guadalajara u otras zonas conurbadas que se definan, aquellos organismos y dependencias que tengan facultades de mando y decisión en materia de vialidad, tránsito y transporte.
+
+### CAPITULO II. De las atribuciones del Ejecutivo del Estado
+
+###### Artículo 19.
+
+Son atribuciones del Ejecutivo del Estado:
+
+I. Administrar la estructura orgánica y funcional de la dependencia del Ejecutivo Estatal, competente en materia de vialidad, tránsito y transporte. Para ello, se elaborarán y autorizarán los manuales de organización, procedimientos y de servicios al público que sean necesarios;
+
+II. Establecer, ordenar, administrar y regular las comunicaciones terrestres y los transportes en el ámbito de competencia del Estado;
+
+III. Expedir las normas generales de carácter técnico relativas a las características de la infraestructura carretera, de la infraestructura y equipamiento vial, circulación, señalamiento y transporte;
+
+IV. Formular, aprobar, aplicar, evaluar y modificar el Programa Estatal de Comunicaciones Terrestres y Transporte, que incluirá las políticas, estrategias y acciones relativas a la construcción y mantenimiento de la infraestructura carretera y de la infraestructura y equipamiento vial;
+
+V. Formular, dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y mantenimiento de las obras de infraestructura carretera e infraestructura y equipamiento vial; evaluar los proyectos que se formulen para dictaminar su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+
+VI. Coordinar los proyectos y programas de construcción y ampliación de las obras del sistema de transporte eléctrico; autorizarlos en el ámbito de su competencia y vigilar aquéllos que directa o indirectamente sean operados por el Estado;
+
+VII. Establecer, impartir y administrar los programas de educación vial;
+
+VIII. Establecer, diseñar y administrar los programas de instrucción y capacitación para conductores y operadores de vehículos, así como señalar los requisitos y criterios para su evaluación;
+
+IX. Expedir las licencias y permisos para operar y conducir vehículos, con las modalidades y características que establece esta Ley y precise su reglamento;
+
+X. Registrar vehículos y expedir los elementos de identificación conforme a su tipo y características, como placas, calcomanías, hologramas y tarjetas de circulación;
+
+XI. Otorgar concesiones para la construcción, mantenimiento y operación de la infraestructura carretera y equipamiento de las vías de comunicación;
+
+XII. Otorgar concesiones para establecer y administrar servicios en las zonas que correspondan al derecho de vía en el ámbito local;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XIII. Otorgar concesiones y permisos con la intervención de los ayuntamientos que dentro de su ámbito territorial corresponda la prestación del servicio público de transporte;
+
+XIV. Autorizar las tarifas para el servicio público de transporte de pasajeros, con base en los estudios y propuestas que formulen el Consejo Consultivo, el CEIT y el Organismo Coordinador;
+
+XV. Autorizar las tarifas para el servicio público de transporte de carga que opere en las vías públicas de comunicación local;
+
+XVI. Reglamentar, organizar y controlar el funcionamiento del Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+
+XVII. Celebrar acuerdos y convenios de coordinación con los ayuntamientos, para la realización de acciones en las materias objeto de esta Ley que correspondan a éstos;
+
+XVIII. Coordinar las actividades en materia de vialidad, tránsito y transporte con las autoridades federales y municipales;
+
+XIX. Proponer los términos de coordinación con los municipios, a fin de establecer los modos de participación y consulta a efecto de autorizar, en su caso, las concesiones y permisos en materia del servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XX. Asesorar y apoyar a los municipios en materia de vialidad, tránsito y transporte, conforme a los convenios de coordinación que celebre con los ayuntamientos;
+
+XXI. Aplicar las sanciones a quienes incurran en infracciones a las disposiciones de esta Ley y a sus normas reglamentarias, en el ámbito de su competencia, y en la que en su caso asuma por la coordinación que establezca con los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta Ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, dando intervención a los ayuntamientos que por ámbito territorial deban participar y escuchando al Consejo Consultivo, al CEIT y al Organismo Coordinador;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXIII. Establecer en todo tiempo y con la participación del ayuntamiento que afecte su ámbito territorial, las condiciones técnicas conforme a las cuales se preste o pretenda prestar un servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXIV. Incorporar a las condiciones conforme a las cuales se lleva a cabo un servicio público, todas las modalidades que redunden en beneficio del interés público, para lo cual tomará en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta, así como la intervención de los ayuntamientos afectados;
+
+XXV. Determinar, señalar, ampliar o reducir en cada camino, ruta o tramo de vía pública de jurisdicción local, el número, capacidad y demás características de los vehículos que en ella deban de operar, según las necesidades del servicio de transporte y las exigencias de su mejoramiento, en los términos de la fracción precedente;
+
+XXVI. Ordenar se lleven a cabo en las vías de comunicación, en los medios de transporte y en los servicios auxiliares, las obras de construcción, reparación, conservación y adaptación que sean necesarias para la mayor seguridad del público;
+
+XXVII. Asegurar las condiciones de vigilancia y de dirección técnico administrativa, que sean convenientes para el mejor funcionamiento del servicio;
+
+XXVIII. Asegurar que los concesionarios y permisionarios cumplan con las condiciones de higiene, comodidad y seguridad que correspondan a la categoría del servicio, de acuerdo con los términos de su concesión o permiso;
+
+XXIX. Cuando se compruebe el deterioro en la prestación del servicio, obligar a los concesionarios a que mejoren su higiene, seguridad, calidad y eficiencia, dentro de los plazos razonables que se les fijen, de acuerdo con los términos de la concesión o permiso;
+
+XXX. Ordenar la suspensión temporal o total del servicio cuando no reúna las condiciones de seguridad, higiene, calidad y eficiencia;
+
+XXXI. Modificar los itinerarios, horarios y frecuencias previamente autorizadas en atención al interés público y a la demanda del transporte;
+
+XXXII. Autorizar y vigilar el cumplimiento de las tarifas para los servicios públicos de transporte; y
+
+XXXIII. Las demás que determine la presente Ley.
+
+###### Artículo 20.
+
+El Ejecutivo Estatal ejercerá las atribuciones que le otorga esta Ley, a través de las dependencias de la Administración Pública, en los términos que establezcan su Ley Orgánica y las disposiciones de este Ordenamiento.
+
+### CAPITULO III. De las atribuciones de los ayuntamientos
+
+###### Artículo 21.
+
+Son atribuciones de los ayuntamientos:
+
+I. Expedir reglamentos para ordenar, regular y administrar los servicios de vialidad y tránsito en los centros de población ubicados en su territorio y en las vías públicas de jurisdicción municipal, conforme a las disposiciones de esta Ley y su reglamento;
+
+II. Hacer los estudios necesarios para conservar y mejorar los servicios de vialidad y tránsito, conforme a las necesidades y propuestas de la sociedad;
+
+III. Dictar medidas tendientes al mejoramiento de los servicios de vialidad y tránsito;
+
+IV. Realizar las tareas relativas a la ingeniería de tránsito y al señalamiento de la vialidad en los centros de población;
+
+V. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, protección del ambiente, seguridad, comodidad y fluidez en la vialidad;
+
+VI. Indicar las características específicas y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito, conforme a las normas generales de carácter técnico;
+
+VII. Apoyar y participar en los programas de educación vial que establezca el Estado;
+
+VIII. Coordinarse con el Ejecutivo del Gobierno del Estado y con otros municipios de la entidad, para dar cumplimiento a las disposiciones de esta Ley;
+
+IX. Autorizar la localización y características de los elementos que integran la infraestructura y el equipamiento vial de los centros de población, a través de los planes y programas de desarrollo urbano que les corresponda sancionar y aplicar;
+
+X. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos y foráneos, y de carga; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+XI. Determinar la localización del equipamiento para el transporte público, tanto para la operación de las terminales de autobuses de pasajeros, como de las terminales de carga, a efecto de tramitar las respectivas concesiones y permisos;
+
+XII. Autorizar la ubicación de los lugares para el establecimiento de los sitios y matrices de éstos, a propuesta de los interesados;
+
+XIII. En coordinación con el Titular del Ejecutivo del Gobierno del Estado, autorizar la localización de las obras de infraestructura carretera; de la infraestructura y equipamiento vial; de los derechos de vía como destinos; de las zonas de restricción, así como las normas que regulen su uso;
+
+XIV. Solicitar, en su caso, al Ejecutivo del Gobierno del Estado, asesoría y apoyo para realizar los estudios técnicos y acciones en materia de vialidad y tránsito;
+
+XV. Vigilar el cumplimiento de esta Ley y de los reglamentos que de ella emanen;
+
+XVI. En el ámbito de su competencia determinar, aplicar y ejecutar las sanciones correspondientes, a quienes incurran en infracciones a esta Ley y a sus reglamentos; y
+
+XVII. Las demás que determine la presente Ley.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 22.
+
+El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materia de vialidad y tránsito, así como intervenir en la formulación y aplicación de los programas de transporte de pasajeros, a través de la dependencia que se determine en la legislación municipal y, en su caso, en el reglamento correspondiente.
+
+### CAPITULO IV. De la concurrencia y coordinación de las autoridades estatales y municipales
+
+###### Artículo 23.
+
+Los ayuntamientos, en atención a sus condiciones territoriales y socioeconómicas, así como a su capacidad financiera y administrativa, podrán celebrar convenios de coordinación para la prestación del servicio público de vialidad y tránsito con el Ejecutivo del Estado, a efecto de que:
+
+I. El Ejecutivo estatal asesore y apoye al municipio para realizar acciones y estudios técnicos;
+
+II. La dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, supla a la dependencia municipal, en la ejecución de acciones específicas que correspondan al municipio; o
+
+III. El ayuntamiento colabore con el Ejecutivo del Gobierno del Estado, ejerciendo funciones de administración y control del servicio público de tránsito y transporte, en programas y acciones que correspondan al ámbito de competencia estatal.
+
+###### Artículo 24.
+
+Los convenios de coordinación a que se refiere el artículo anterior precisarán, conforme a las atribuciones y procedimientos que establezcan las leyes hacendarias y de ingresos:
+
+I. Los medios para recaudar las contribuciones que tienen como objeto las actividades del servicio público de tránsito y transporte;
+
+II. Los procedimientos para ejecutar las sanciones económicas; y
+
+III. La participación que corresponda al Estado o a los municipios, respecto a las contribuciones que se recauden.
+
+### CAPITULO V. De las funciones de la Policía de Vialidad y Tránsito, estatal o municipal
+
+###### Artículo 25.
+
+Son funciones de la policía de vialidad y tránsito, estatal o municipal en su caso:
+
+I. La orientación, participación y colaboración con la población en general, tendiente a la prevención tanto de accidentes viales, como de infracciones a las normas de tránsito;
+
+II. Cuidar de la seguridad y respeto del peatón en las vías públicas, dando siempre preferencia a éste sobre los vehículos;
+
+III. Proteger y auxiliar a las personas, particularmente cuando sufran accidentes en las vías públicas;
+
+IV. Coadyuvar con otras autoridades en la conservación del orden público y la tranquilidad de la comunidad;
+
+V. Cuidar que se cumplan y apliquen las disposiciones de esta Ley y sus reglamentos en materia de vialidad, tránsito y transporte, así como informar y orientar a quienes transiten en las vías públicas;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+VI. Tomar conocimiento de las infracciones que cometan los conductores de los vehículos, concesionarios, permisionarios y subrogatarios, a esta Ley o sus reglamentos y, en su caso, levantar o hacer constar dichas infracciones, para los efectos de determinar y aplicar la sanción correspondiente; y
+
+VII. Las demás que les sean señaladas por esta Ley y sus reglamentos.
+
+###### Artículo 26.
+
+Los oficiales y agentes de vialidad y tránsito deberán, siempre, conducirse con el público en forma comedida y respetuosa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2000)</small>
+
+Los oficiales o agentes de tránsito en funciones deberán ubicarse en lugar visible para los conductores, salvo el tiempo estrictamente necesario que en cumplimiento de sus funciones implique separarse de aquel.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2000)</small>
+
+Los oficiales y agentes de tránsito encargados de la vialidad en horario nocturno deberán de conducir las unidades para este servicio con las farolas encendidas.
+
+### CAPITULO VI. De la concurrencia y coordinación de las autoridades estatales y municipales en las zonas conurbadas y las zonas metropolitanas
+
+###### Artículo 27.
+
+El Ejecutivo Estatal, conjuntamente con los ayuntamientos de los municipios que estén integrados en una zona conurbada, en los términos de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Jalisco, programarán, autorizarán y ejecutarán las acciones en materia de vialidad y tránsito, en forma conjunta y coordinada mediante las instancias que establezcan, conforme al régimen de zonas de conurbación.
+
+###### Artículo 28.
+
+Asimismo el Ejecutivo Estatal y los ayuntamientos atenderán, conforme a los convenios que celebren, los servicios de vialidad y tránsito, a efecto de integrar sistemas metropolitanos eficientes que garanticen la atención de la población.
 
 ### CAPITULO VII. De los organismos de participación social y consulta, y auxiliares
 
-###### ARTÍCULO 29.
+###### Artículo 29.
 
-La Secretaría del Ayuntamiento habilitará, al día siguiente de la publicación de la convocatoria y hasta tres días antes de la celebración del Cabildo en sesión abierta, un sistema de registro en el cual se inscribirán quienes tengan interés en participar y presentar los documentos o elementos, que los inscritos deseen socializar en relación con el tema que les interesa tratar.
+Son organismos de participación social y de consulta:
 
-###### ARTÍCULO 30.
+I. El Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte;
 
-Serán participantes del Cabildo en sesión abierta, únicamente con derecho a voz, los ciudadanos habitantes del municipio que se inscriban en el registro que para tal efecto disponga el Ayuntamiento, para lo cual deberán justificar la ciudadanía o residencia. Los ciudadanos participarán preferentemente en el orden en que fueron registrados.
+II. Las comisiones de las zonas conurbadas y zonas metropolitanas intermunicipales; y
 
-###### ARTÍCULO 31.
+III. Las asociaciones de vecinos, conforme a las disposiciones de la legislación municipal.
 
-Podrán participar en el Cabildo en sesión abierta, únicamente con derecho a voz, los servidores públicos federales, estatales y municipales que por la naturaleza de su cargo el ayuntamiento considere necesarios.
+###### Artículo 30.
+
+Los organismos y autoridades referidas en este capítulo tendrán la participación que determinen esta Ley, así como las normas estatales y municipales que regulen su integración y funcionamiento.
+
+###### Artículo 31.
+
+Son auxiliares en la aplicación de esta Ley y sus reglamentos:
+
+I. El Organismo Coordinador de la operación integral del servicio de transporte público del estado;
+
+II. El Centro Estatal de Investigación de la Vialidad y el Transporte;
+
+III. Las policías, cualquiera que sea su denominación y adscripción;
+
+IV. Las unidades, consejos consultivos y grupos de vigilancia y seguridad que integren las asociaciones de vecinos, conforme a las disposiciones estatales y municipales aplicables; y
+
+V. Los grupos de promotores voluntarios integrados en las escuelas de educación primaria y secundaria, coordinados por las propias autoridades escolares con la finalidad de promover y vigilar el respeto a las normas de esta Ley y su reglamento en materia de vialidad y tránsito.
 
 ### CAPITULO VIII. De la estructura institucional para la planeación y el control del servicio de transporte público
 
-###### ARTÍCULO 32.
+###### Artículo 32.
 
-Al término del Cabildo en sesión abierta se levantará el acta correspondiente.
+El Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte, es un organismo auxiliar de consulta, con funciones deliberativas y propositivas, donde participen los sectores público, privado y social, que se integrará en forma permanente por:
 
-###### ARTÍCULO 33.
+I. Un presidente, que será el Gobernador del Estado o la persona que éste designe;
 
-La Asamblea Vecinal es la instancia inmediata de representación ciudadana ante el Ayuntamiento, con capacidades decisorias en asuntos micro-locales. Los Jefes de Manzana y Comisarios Municipales deberán convocar a Asamblea Vecinal por lo menos una vez cada dos meses.
+II. El Titular de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, quien será el secretario técnico;
 
-###### ARTÍCULO 34.
+III. Un representante, en su caso, de la dependencia del Poder Ejecutivo Federal competente en materia de comunicaciones y transportes;
 
-Las Asambleas Vecinales serán presididas por los Jefes de Manzana y los Comisarios Municipales. En la Asamblea Vecinal los vecinos deliberarán sobre sus prioridades e integrarán sus demandas, evaluando la calidad de los servicios públicos provistos por el Municipio. Las exigencias, demandas, quejas o propuestas de la Asamblea Vecinal serán entregadas y gestionadas ante el Ayuntamiento por el Jefe de Manzana o el Comisario Municipal, respectivamente.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTÍCULO 35.
+IV. Los representantes de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público;
 
-A nombre de su Asamblea Vecinal los habitantes del municipio podrán presentar quejas o denuncias relativas a:
+V. Los representantes de los municipios que se integren como consejeros, en los supuestos siguientes:
 
-I. La deficiencia en la prestación de servicios públicos a cargo de las autoridades de los Municipios; y
+a) Un representante de cada uno de los municipios de la Zona Conurbada de Guadalajara; y
 
-II. La irregularidad, negligencia o causas de responsabilidad administrativa en que incurran los servidores públicos de los Ayuntamientos, mismas que se sujetarán a los trámites y procedimientos que establezca la ley de la materia.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 36.
+b) Un representante de los ayuntamientos cuando los asuntos a discutir en el Consejo, incidan en el ámbito territorial de éstos; y
 
-Los Jefes de Manzana y Comisarios Municipales deberán hacer los trámites correspondientes ante la Secretaría del Ayuntamiento para garantizar la participación de sus vecinos en las sesiones abiertas de Cabildo, cuando así lo determine la Asamblea Vecinal, además de promover en todo momento la cultura de participación ciudadana entre los habitantes.
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 37.
+c) Un representante de los ayuntamientos de cada región del Estado, según se defina en el ordenamiento territorial del Estado, designados conforme al procedimiento que determine su reglamento y convocados de acuerdo a los proyectos existentes para dicha región;
 
-A petición de la Asamblea Vecinal, será responsabilidad del Jefe de Manzana y el Comisario Municipal lo siguiente:
+VI. El director del Centro Estatal de Investigación de la Vialidad y el Transporte; y
 
-I. Ejecutar las resoluciones y acuerdos que le instruya la Asamblea Vecinal, dentro de la circunscripción territorial correspondiente a su nombramiento;
+VII. El director del organismo coordinador de la operación integral del servicio de transporte público en el Estado.
 
-II. Informar al Presidente Municipal de las exigencias, demandas, denuncias, quejas o propuestas de la Asamblea Vecinal;
+El Consejo además, deberá invitar a representantes de los diversos sectores de la población y de las organizaciones sociales y civiles, cuando se atiendan o discutan programas y proyectos que se refieran o afecten a alguno de dichos sectores o bien, cuando éstos manifiesten interés en participar en tales programas y proyectos.
 
-III. Gestionar ante el Ayuntamiento las peticiones de sus vecinos;
+###### Artículo 33.
 
-IV. Promover el establecimiento y mejoramiento de servicios públicos; y
+Corresponderá al Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte:
 
-V. Solicitar la implementación de programas de vigilancia, prevención, supervisión y de apoyo a la seguridad pública, así como de acciones de promoción de la cultura de la seguridad pública, seguridad vial, protección civil, prevención del delito y adicciones, entre otras.
+I. Recibir, analizar y emitir opinión por escrito ante las autoridades competentes, los comentarios, estudios, propuestas y demandas que en materia de vialidad, tránsito y transporte, le presente cualquier persona o grupo de la comunidad;
 
-## TÍTULO TERCERO
+II. Promover y apoyar la investigación académica que pueda dar soluciones a los problemas estatales, regionales y municipales en materia de vialidad y transporte;
+
+III. Proponer la creación, modificación o supresión de las modalidades del servicio público de transporte;
+
+IV. Proponer la creación, ampliación y supresión de rutas;
+
+V. Proponer criterios de coordinación para solucionar problemas del transporte entre el Estado y los municipios;
+
+VI. Formular, revisar y aprobar los procedimientos y criterios técnicos para que el Organismo Coordinador de la operación integral del servicio de transporte público del estado calcule las tarifas aplicables al servicio público de transporte en sus distintas modalidades; y
+
+VII. Formular su reglamento interno.
+
+###### Artículo 34.
+
+El Organismo Coordinador de la operación integral del servicio de transporte público del estado, es una entidad pública, descentralizada del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, cuyas principales características serán:
+
+a) Ser un organismo promotor del desarrollo y ejecución de acciones en la operación, supervisión y control del servicio de transporte público;
+
+b) Ser un agente de transformación y de obtención de resultados;
+
+c) Ser el responsable del desarrollo de los sistemas y de sus partes;
+
+Dicho Organismo se integrará en forma permanente por:
+
+I. Un presidente, que será el Gobernador del Estado o la persona que éste designe;
+
+II. El Titular de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte;
+
+III. El Director del Organismo Coordinador de la operación integral del servicio de transporte público del estado, quien será el Secretario Técnico;
+
+IV. El Director del Centro Estatal de Investigación de la Vialidad y el Transporte; y
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+V. Los representantes debidamente acreditados de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VI. Los municipios cuando se traten asuntos que afecten su ámbito territorial.
+
+###### Artículo 35.
+
+Corresponderán al Organismo Coordinador de la operación integral del servicio de transporte público del estado, las siguientes funciones:
+
+I. Planear, dimensionar y coordinar la ejecución de la operación del servicio de transporte público requerido en los corredores de movilidad con prioridad de este servicio, vialidades primarias, secundarias y alimentadoras definidas por el CEIT para el uso del transporte público;
+
+II. Recibir, estudiar y dictaminar en coordinación con el CEIT, las propuestas y demandas que en materia de operación del servicio de transporte público presenten personas, grupos e instituciones que, en su caso, modifiquen la operación del mismo;
+
+III. Instrumentar, en coordinación con el CEIT, las normas de calidad para el servicio de transporte público;
+
+IV. Con base en los procedimientos y criterios técnicos aprobados por el Consejo Consultivo de Vialidad Tránsito y Transporte y en coordinación con el CEIT, proponer las tarifas aplicables al servicio público de transporte en sus distintas modalidades, que deberán ser presentadas a la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte, para que a su vez gestione la autorización del Titular del Poder Ejecutivo del Estado;
+
+V. Mantener informada a la ciudadanía sobre el uso y alternativas de transporte público a través de elementos visuales, orales e impresos, para optimizar, facilitar y promover el uso del transporte público;
+
+VI. Llevar un registro de los principales indicadores y estadísticas en materia de servicio público de transporte, que permitan informar, apoyar y facilitar la toma de decisiones, con la finalidad de resolver la problemática existente; y
+
+VII. Formular su reglamento interno.
+
+###### Artículo 36.
+
+El Centro Estatal de Investigación de la Vialidad y el Transporte, es un organismo público, descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, que se integrará en forma permanente por:
+
+I. Un presidente, que será el Gobernador del Estado o la persona que éste designe;
+
+II. El Titular de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, quien será el secretario técnico;
+
+III. Un representante por cada una de las dependencias y organismos del Poder Ejecutivo Estatal en materia de:
+
+a) Finanzas;
+
+b) Desarrollo urbano, ordenamiento territorial y obras públicas;
+
+c) Planeación económica y social; y
+
+d) Equilibrio ecológico y protección del ambiente;
+
+> <small>(REFORMADA P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+IV. Dos representantes del transporte estatal; un representante de los subrogatarios; tres representantes de los permisionarios del servicio público de transporte de las agrupaciones que tengan mayor número de afiliados; un representante de la agrupación cuyo reconocimiento otorguen los integrantes del CEIT y un representante del Consejo Metropolitano de Desarrollo;
+
+V. El Director del Organismo Coordinador de la Operación Integral del Transporte Público; y
+
+VI. El Director del Centro Estatal de Investigación de la Vialidad y el Transporte.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VII. Un representante de los municipios cuando se discutan asuntos que afecten su ámbito territorial.
+
+###### Artículo 37.
+
+Corresponderá al Centro Estatal de Investigación de la Vialidad y el Transporte:
+
+I. Estudiar y dictaminar las demandas que en materia de vialidad y transporte reciba del Consejo Consultivo; del Organismo Coordinador de la Operación Integral del Transporte y de la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+II. Realizar los estudios técnico, económicos y sociales, que permitan desarrollar un sistema eficiente de vialidad y transporte, con la participación de los concesionarios, permisionarios, subrogatarios y de las instituciones de educación superior, así como determinar las vialidades dando prioridad al servicio colectivo del transporte público de pasajeros y la regularización de su operación;
+
+III. Realizar los estudios técnicos necesarios para la elaboración de los dictámenes que justifiquen, en su caso:
+
+a) La creación, modificación o supresión de las modalidades del servicio de transporte público;
+
+b) La creación, ampliación o supresión de rutas;
+
+c) La definición de la (sic) vías a utilizar por la Red Integral de Transporte Público; y
+
+d) Las propuestas de tarifas, aplicables al servicio de transporte público, en sus distintas modalidades;
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+Los ayuntamientos podrán participar en los supuestos de los incisos a), b) y c) que anteceden, cuando dichos estudios tengan interés particular para el municipio del que se trate;
+
+IV. Llevar un registro de los principales indicadores y estadísticas en materia de transporte público, que permitan apoyar los dictámenes emitidos;
+
+V. Proporcionar asesoría especializada en materia de transporte y vialidad a las autoridades estatales y municipales; y
+
+VI. Formular su reglamento interno.
+
+## TITULO TERCERO. Del servicio de tránsito
 
 ### CAPITULO I. De los reglamentos municipales de tránsito y de zonas conurbadas
 
-###### ARTÍCULO 38.
+###### Artículo 38.
 
-El Estado y los municipios deberán promover, fomentar e instrumentar de manera conjunta, permanente y eficaz una cultura de participación ciudadana.
+Serán objetivos del Reglamento de Tránsito que expedirán los ayuntamientos con fundamento en las disposiciones de esta Ley:
 
-###### ARTÍCULO 39.
+I. Definir las normas que establezcan el orden y control vial, para que la circulación de los peatones y vehículos sea segura y fluida, aplicando las normas técnicas de carácter general expedidas conforme a las bases establecidas en esta Ley;
 
-La cultura de participación ciudadana se basa en los principios siguientes:
+II. Definir la estructura orgánica y precisar la competencia de la dependencia municipal competente en materia de vialidad y tránsito;
 
-I. La educación democrática del ser humano;
+III. Desarrollar y promover condiciones de seguridad a los peatones y a los conductores de vehículos; y
 
-II. El respeto a los derechos fundamentales del ser humano;
+IV. Promover el respeto entre las personas que concurren en el aprovechamiento de las vías públicas, en particular, de los oficiales y agentes responsables de atender los problemas de vialidad y de vigilar el cumplimiento de las normas de tránsito;
 
-III. La cultura de la constitucionalidad y legalidad;
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-IV. El diálogo permanente, respetuoso, tolerante, constructivo y civilizado entre gobierno y comunidad;
+V. Definir las normas de aplicación y vigilancia en el cumplimiento de la prestación del servicio de transporte público dentro de su ámbito territorial.
 
-V. La colaboración corresponsable, constructiva y armónica entre gobierno y comunidad, para prevenir y resolver los problemas de interés público;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-VI. La libre asociación y organización de todos los sectores de la comunidad y su participación democrática, representativa y legal en la vida pública de los gobiernos estatal y municipal; y
+###### Artículo 39.
 
-VII. La gobernabilidad humanista, social y democrática.
+El Ejecutivo Estatal, conjuntamente con los ayuntamientos de los municipios que estén integrados en una zona conurbada, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Jalisco, mediante las instancias de coordinación que establezcan, autorizarán las normas reglamentarias que serán aplicables al tránsito y transporte público de pasajeros en el centro de población.
 
-###### ARTÍCULO 40.
+###### Artículo 40.
 
-Para fomentar la cultura de participación ciudadana en el Estado, el Organismo elaborará un Programa de la Cultura de Participación Ciudadana, conforme a las bases siguientes:
-
-I. Se definirá la participación que corresponderá a las dependencias o entidades del Estado, los municipios y a la comunidad en general;
-
-II. Este programa deberá propiciar la colaboración y participación activa del Organismo con las autoridades estatales, municipales y la comunidad en su conjunto, conforme a los lineamientos siguientes:
-
-a) Se instrumentarán cursos de capacitación, talleres, conferencias o cualquier otra forma de aprendizaje social, a fin de que las personas tengan la oportunidad real de ejercer los derechos que establece esta ley;
-
-b) El Organismo autorizará los formatos necesarios, a fin de que a los ciudadanos se les facilite el ejercicio de los instrumentos de participación y organización ciudadana.
-
-c) El Organismo certificará a las organizaciones o asociaciones que ofrezcan, en forma interdisciplinaria y profesional, la posibilidad de llevar a cabo cursos o talleres en materia de participación ciudadana;
-
-d) Las asociaciones, barras y colegios de abogados en el Estado podrán ofrecer una función social de asesoría y apoyo legal a las personas que pretendan ejercitar los instrumentos de participación y organización ciudadana;
-
-e) El Ejecutivo del Estado, por conducto de la dependencia o entidad a la que le corresponda la participación ciudadana, tendrá la obligación de prestar la asesoría, el apoyo o el auxilio necesario a las personas que pretendan ejercitar los instrumentos de participación y organización ciudadana. Para tal efecto, diseñará e instrumentará mecanismos que faciliten el ejercicio pleno de los derechos de los ciudadanos y habitantes; y
-
-f) Se evaluará objetiva, sistemática y periódicamente, el avance del programa y los resultados de su ejecución, así como su incidencia en la consecución de los objetivos previstos en esta ley.
+El Ejecutivo Estatal y los ayuntamientos correspondientes, para aplicar las normas de vialidad y tránsito en una zona conurbada o zona metropolitana, determinarán la participación que se convenga tanto para la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, como para el o los municipios involucrados, así como la coordinación entre las dependencias responsables de la seguridad pública.
 
 ### CAPITULO II. De la educación vial
 
-###### ARTÍCULO 41.
+###### Artículo 41.
 
-Los Municipios, Dependencias, Entidades y Órganos Desconcentrados tendrán las siguientes obligaciones en materia de Gobierno Abierto:
+Los programas de educación vial tendrán como objetivo:
 
-I. Implementar las resoluciones del Consejo Estatal de Gobierno Abierto mediante las cuales se determine el proceso de apertura de la información pública en el ámbito de su competencia;
+I. Fomentar el respeto en la sociedad, a partir de la educación básica, de los derechos y obligaciones del individuo como peatón, pasajero, conductor, y como responsable del cuidado del medio ambiente;
 
-II. Establecer objetivos, metas y estrategias, para avanzar progresivamente en el cumplimiento de las líneas de acción de Gobierno Abierto e informar cuatrimestralmente al Consejo Estatal de Gobierno Abierto de los avances en el cumplimiento las mismas;
+II. Divulgar las disposiciones en materia de vialidad, tránsito y transporte;
 
-III. Establecer mecanismos para facilitar la participación de la población en los asuntos de interés público, de acuerdo a los lineamientos que establezca el Consejo Estatal de Gobierno Abierto; y
+III. Promover el respeto por los señalamientos existentes en las vías públicas;
 
-IV. Dar prioridad a esquemas de Colaboración Abierta en el desarrollo de sitios y aplicaciones para dispositivos móviles y estrategias, así como en las campañas de comunicación social que tengan por objetivo dar cumplimiento a las obligaciones establecidas en esta Ley.
+IV. Divulgar y promover medidas para la prevención de accidentes viales;
 
-###### ARTÍCULO 42.
+V. Difundir los procedimientos para reaccionar ante condiciones de emergencia con motivo de la vialidad, para autoprotegerse y, en su caso, prestar ayuda y protección a las víctimas de accidentes o ilícitos, informando a los cuerpos de seguridad y unidades de protección civil;
 
-En todo lo no previsto en la presente Ley en materia de Gobierno Abierto, se aplicarán de manera supletoria la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Veracruz de Ignacio de la Llave.
+VI. Difundir entre las personas el conocimiento de sus garantías y derechos, así como de sus obligaciones en materia de vialidad y tránsito, para promover su ejercicio y cumplimiento; y
+
+VII. Llevar a cabo todas las acciones que redunden en beneficio y enriquecimiento de los principios de la educación vial.
+
+###### Artículo 42.
+
+Las autoridades estatales y municipales de vialidad y tránsito, establecerán programas a fin de:
+
+I. Divulgar los preceptos de esta Ley, sus reglamentos y demás disposiciones relacionadas con la materia;
+
+II. Promover en los servicios de vialidad, tránsito y transporte, el respeto a las personas y el aprovechamiento ordenado de la infraestructura y equipamiento vial y carretero;
+
+III. Orientar a los peatones y conductores sobre la forma de desplazarse en las vías públicas, para garantizar el tránsito seguro de peatones, pasajeros, ciclistas y automovilistas;
+
+IV. Aprovechar en forma segura y eficiente el servicio público de transporte;
+
+V. Evitar que quienes conducen vehículos, los manejen fuera de los límites de velocidad permitidos;
+
+VI. Evitar que las personas en estado de ebriedad o bajo el influjo de substancias que alteren la capacidad para conducir, manejen automotores; y
+
+VII. Promover una relación digna, honesta y respetuosa, entre la ciudadanía y los oficiales y agentes de vialidad y tránsito.
 
 ### CAPITULO III. De las clases de vehículos
 
-###### ARTÍCULO 43.
+###### Artículo 43.
 
-Se crea el Consejo Estatal de Gobierno Abierto, como un órgano colegiado, con carácter deliberativo y decisorio, que fungirá como instancia para el establecimiento de lineamientos, iniciativas, estrategias y políticas en materia de Gobierno Abierto para el Estado.
+Los vehículos, conforme a sus características propias, se clasifican:
 
-###### ARTÍCULO 44.
+I. Por su sistema de fuerza motriz, en:
 
-Para el cumplimiento de su objetivo, el Consejo tendrá las siguientes atribuciones:
+a) Automotores o automóviles de combustión;
 
-I. Establecer lineamientos, definir formatos estándar de la información y diseñar estrategias, instrumentos, programas, proyectos, y acciones para cumplir con los objetivos de la presente Ley y con lo establecido en los artículos 49, 50, 51, 52, 53, 54 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, de tal manera que éstos garanticen el cumplimiento en la forma más efectiva de los principios generales y objetivos de la misma;
+b) Automotores o automóviles de electricidad;
 
-II. Diseñar una Política Estatal de Gobierno Abierto e implementarla en coordinación con los Municipios, Dependencias, Entidades y Órganos Desconcentrados, para la consolidación del Gobierno Abierto en el Estado;
+c) Vehículos de propulsión humana (Bicicletas);
 
-III. Evaluar y certificar el progreso de los Municipios, Dependencias, Entidades y Órganos Desconcentrados según los lineamientos y especificaciones de la Política Estatal de Gobierno Abierto, y emitir recomendaciones o reconocimientos según sea el caso;
+d) Vehículos de tracción animal;
 
-IV. Emitir lineamientos para las técnicas o procedimientos que deberán observar los Municipios, Dependencias, Entidades y Órganos Desconcentrados en los procesos de apertura de datos;
+e) Otras formas de propulsión; y
 
-V. Emitir opinión en relación con los proyectos de reformas e iniciativas de ley en materia de Gobierno Abierto que sean presentadas ante el Congreso del Estado, cuando dicho Congreso así se lo solicite, así como los proyectos de reglamentos que elabore el Gobernador del Estado, cuando éste lo solicite;
+II. Por su rodamiento, en:
 
-VI. Realizar estudios sobre los ordenamientos jurídicos y administrativos vigentes en materia de Gobierno Abierto, y proponer, en su caso y de conformidad con las disposiciones aplicables, las modificaciones que correspondan;
+a) Neumático; y
 
-VII. Promover mecanismos de interacción como foros, eventos, y encuentros en materia de Gobierno Abierto;
+b) Metálico.
 
-VIII. Establecer relaciones de coordinación en materia de Gobierno Abierto con instituciones públicas, internacionales, federales y locales, así como con personas y organizaciones sociales y privadas; y
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
 
-IX. Proponer al Gobernador del Estado y a los Municipios, Dependencias, Entidades y Órganos Desconcentrados, la suscripción de convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales o internacionales en el ámbito de su competencia.
+La diversidad de vehículos que se deriven de la anterior clasificación, se regirán por el reglamento respectivo y la norma general de carácter técnico.
+
+###### Artículo 44.
+
+Los vehículos, atendiendo a las actividades en que se utilicen y para los efectos de esta Ley, se clasifican en:
+
+I. De uso privado: Los utilizados en el transporte de personas u objetos, para satisfacer las necesidades particulares de sus propietarios o poseedores legales, ya sean éstos personas físicas o jurídicas, sin que dicho transporte constituya de manera alguna actividad remunerada o profesional;
+
+II. De transporte público: Los destinados para el transporte de personas o cosas, cuando esta actividad constituya un servicio que administre el Estado u opere, salvo el de alquiler o taxi, en virtud de concesiones o de permisos; y se subclasifican en:
+
+a) De alquiler o taxi: Los empleados para el transporte de personas sin sujeción a itinerarios fijos, mediante el pago de un precio que se determinará según la tarifa de taxímetro correspondiente, y autorizados en sitios o asignados a centros de control o ruleteros;
+
+b) De pasajeros: Los destinados al transporte urbano, suburbano o foráneo de personas en general, en viajes regulares, con itinerarios y horarios; los dedicados al transporte urbano o suburbano de escolares o de trabajadores o turistas, en recorridos especiales, todos, mediante el pago de un precio que se determinará según la tarifa correspondiente;
+
+c) De carga: Los dedicados exclusivamente al transporte de materiales u objetos. Por su capacidad serán de carga pesada, mediana o ligera;
+
+d) De carga especial: Los autorizados para el transporte de materiales clasificados como peligrosos, por sus características explosivas, corrosivas, altamente combustibles o contaminantes, u otros que generen riesgo;
+
+e) Mixtos: Los autorizados para transportar pasajeros, carga ligera u objetos; y
+
+f) Equipo móvil especial: Los vehículos no comprendidos en las subclasificaciones anteriores, cualquiera que sea el servicio, uso o finalidad a que se les destine;
+
+III. De uso oficial: Los destinados a la prestación de servicios públicos estatales o municipales; y
+
+IV. De seguridad: Los adaptados para servicios de seguridad, protección civil y emergencia, operados tanto por entidades públicas como por particulares, plenamente identificables por colores, rótulos y las señales de seguridad reglamentarias.
 
 ### CAPITULO IV. Del registro y control de vehículos
 
-###### ARTICULO 45.
+###### Artículo 45.
 
-El Consejo estará integrado por siete Consejeros: dos Consejeros representantes del Gobierno del Estado; un representante del Congreso del Estado; un representante del Instituto Veracruzano de Acceso a la Información Pública y Protección de Datos Personales; un representante de la Comisión Estatal de Derechos Humanos de Veracruz de Ignacio de la Llave; y dos Consejeros Ciudadanos, representantes de la sociedad civil. Las o los integrantes del Consejo durarán en su encargo tres años. El encargo de todos los integrantes del Consejo tendrá carácter honorífico.
+Todo vehículo, para transitar u ocupar la vía pública, deberá reunir las condiciones requeridas de acuerdo con lo dispuesto en esta Ley y su reglamento; para ello deberá estar inscrito en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte y portar los elementos de identificación conforme a su tipo y características, tales como placas, calcomanías, hologramas, tarjetas de circulación, rótulos y colores, etc.
 
-Todas las sesiones del Consejo serán públicas, y se deberá garantizar el principio de máxima publicidad, haciendo uso de medios digitales para la transmisión en directo de las mismas y la promoción de la participación de la población en las discusiones. El Consejo deberá sesionar por lo menos tres veces al año, en sesión ordinaria convocada por el Presidente del mismo.
+###### Artículo 46.
 
-###### ARTÍCULO 46.
+La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, integrará y operará el Registro Estatal de los Servicios Públicos de Tránsito y Transporte a que se refiere esta Ley.
 
-Los Consejeros Ciudadanos serán designados por el Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes, a propuesta directa de las universidades y organizaciones de la sociedad civil. La comisión legislativa del ramo celebrará audiencias públicas donde se recibirán las propuestas de los perfiles para Consejeros Ciudadanos.
+###### Artículo 47.
 
-###### ARTÍCULO 47.
+El registro de los vehículos se acreditará mediante:
 
-Los Consejeros representantes del Gobierno del Estado serán los siguientes:
+I. La tarjeta de circulación; y
 
-I. El Secretario de Gobierno, en calidad de Presidente del Consejo; y
+II. Las placas y la calcomanía u holograma correspondientes.
 
-II. El Consejero Jurídico y de Derechos Ciudadanos de la Oficina del Gobernador.
+###### Artículo 48.
 
-###### ARTÍCULO 48.
+Las placas de circulación y las calcomanías para los vehículos serán expedidas por la dependencia competente del Ejecutivo del Estado, con los colores, emblemas y matrículas que permitan la identificación del vehículo, conforme a la clasificación establecida en esta Ley y, en su caso, con la advertencia de que es conducido por una persona con problemas de discapacidad.
 
-La o el representante del Congreso del Estado será el diputado o diputada que presida la Comisión Permanente de Transparencia, Acceso a la Información y Parlamento Abierto de dicho Órgano Legislativo.
+###### Artículo 49.
 
-###### ARTÍCULO 49.
+Cualquier vehículo registrado en el Estado o en otra entidad federativa, podrá circular libremente en el mismo; por tanto, los oficiales y agentes de vialidad y tránsito no deberán interrumpir o suspender la circulación a ningún vehículo, salvo en los casos de infracciones flagrantes o por la aplicación de alguna medida de seguridad, de las expresamente previstas en este Ordenamiento.
 
-La o el integrante del Consejo proveniente del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales será designado por el Pleno de este Instituto, de entre los Comisionados que lo integran.
+###### Artículo 50.
 
-###### ARTÍCULO 50.
-
-La o el integrante del Consejo proveniente de la Comisión Estatal de Derechos Humanos de Veracruz será la o el presidente de dicha Comisión.
+Los vehículos no registrados o que carezcan de la documentación a que se refiere esta Ley, podrán circular si sus propietarios o poseedores cuentan con permiso de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, en tanto concluyan los trámites necesarios para la obtención de dicha documentación. En caso contrario, el personal operativo de dicha dependencia podrá detener el vehículo y solicitar a su conductor que muestre la documentación correspondiente para poder circular.
 
 ###### Artículo 51.
 
@@ -466,6 +862,12 @@ I. La dependencia del Ejecutivo del Estado competente en materia de vialidad, tr
 II. Las autoridades competentes en materia de vialidad, tránsito y transporte de otras entidades y de la Federación, para operar o conducir vehículos por las vías públicas; y
 
 III. Por lo que se refiere a las licencias para conducir vehículos expedidas en el extranjero, su reconocimiento y validez quedarán sujetos a las disposiciones federales sobre la materia y a los convenios internacionales de los que México forme parte.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 55 Bis.
+
+El conductor de vehículos del Servicio de Transporte Público colectivo de pasajeros en el Estado de Jalisco, deberá contar con licencia de conductor de servicios de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
 
 ###### Artículo 56.
 
@@ -689,7 +1091,7 @@ Los vehículos no registrados en el Estado y que permanezcan por más de seis me
 
 Las autoridades estatales o municipales de vialidad y tránsito, no están facultadas y por tanto, no deberán requerir a quienes transiten en las vías públicas de comunicación local, el cumplimiento de requisitos diferentes o adicionales a los que deban cumplir en su lugar de procedencia, mismos que se comprobarán mediante los documentos que expidan las autoridades de su jurisdicción, tal como lo previene el artículo 52, de esta Ley.
 
-## TÍTULO CUARTO. DEL GOBIERNO ABIERTO
+## TITULO CUARTO. De las vías públicas de comunicación local y los servicios conexos
 
 ### CAPITULO UNICO. De las concesiones y permisos en las vías públicas de comunicación local
 
@@ -829,9 +1231,17 @@ El servicio colectivo de pasajeros, urbano, conurbado o metropolitano, suburbano
 
 El servicio colectivo de pasajeros urbano, conurbado, suburbano y foráneo, se prestará con itinerario fijo y el precio se determinará en las tarifas autorizadas.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 85.
 
-El servicio de autos de alquiler, taxis o radiotaxis, se prestará en vehículos cerrados, aprobados para el tipo de servicio, sin itinerario y sujeto a tarifa con taxímetro, el cual será de uso obligatorio; y podrá tener o no horario.
+El servicio de autos de alquiler, taxis o radiotaxis, se prestará en vehículos cerrados, aprobados para el tipo de servicio, sin itinerario; y podrá tener o no horario, además podrá presentarse en dos modalidades, según sea su forma de operar:
+
+I. Sujeto a tarifa con taxímetro de uso obligatorio; y
+
+II. Con tarifas establecidas previamente de acuerdo a la zonificación autorizada por conducto de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, tomando en cuenta las opiniones, estudios y datos de los organismos auxiliares y de consulta competentes.
+
+Los prestadores de servicio del transporte público de autos de alquiler o taxis que presten el servicio con la modalidad de sitios y que deseen operar en la modalidad establecida en la fracción II, deberán contar con una base que será su punto de partida.
 
 ###### Artículo 86.
 
@@ -941,7 +1351,7 @@ Los titulares de concesiones y permisos de autos de alquiler, taxi o radio taxi 
 
 I. Prestar el servicio público de transporte, acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su reglamento;
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
 II. En el caso del transporte público, deberán destinar al menos dos asientos debidamente identificados para el uso preferente de personas con discapacidad, embarazo o de la tercera edad;
 
@@ -1483,9 +1893,13 @@ La reducción de tarifas en un cincuenta por ciento de la cuota ordinaria, solam
 
 I. En los casos de calamidad pública;
 
-II. Para estudiantes y maestros en período de vacaciones;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
 
-III. Para servidores públicos en comisión de servicio, debidamente comprobada;
+II. Para estudiantes de educación secundaria, media superior y superior así como los equivalentes de estos niveles de instituciones pública (sic) o privadas, durante todo el año;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
+
+III. Para maestros en periodo escolar;
 
 IV. Para personas de edad avanzada;
 
@@ -1979,9 +2393,17 @@ La aplicación de las sanciones económicas se hará independientemente de la de
 
 Se sancionará con multa equivalente a diez días de salario mínimo general vigente en la zona económica donde se cometan las siguientes infracciones, en la operación de vehículos del servicio público de transporte por:
 
-I. No coincidir la rotulación con el número de placas; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-II. Abastecer combustible con pasaje a bordo o con motor encendido.
+I. No coincidir la rotulación con el número de placas;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+II. Abastecer combustible con pasaje a bordo o con motor encendido; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+III. Al conductor del servicio de transporte público colectivo de pasajeros por no contar con licencia de conductor de servicios de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2249,20 +2671,122 @@ En contra de la resolución dictada por la autoridad, para resolver la inconform
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor al siguiente día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+Artículo Primero.- Este decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+Artículo Segundo.- Los reglamentos de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco cuya formulación corresponda al Titular del Poder Ejecutivo, se deberán expedir en un plazo de seis meses contados a partir de su entrada en vigor.
 
-DADA EN EL SALÓN DE SESIONES DE LA LXIV LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS TREINTA Y UN DÍAS DEL MES DE JULIO DEL AÑO DOS MIL DIECIOCHO.
+Artículo Tercero.- El Reglamento de la Ley del Servicio de Tránsito publicado en el Periódico Oficial "El Estado de Jalisco" del 15 de enero de 1976, continuará vigente en lo que no contravenga a las disposiciones de esta Ley, en tanto no se expidan las normas reglamentarias que lo sustituyan.
 
-MARÍA ELISA MANTEROLA SAINZ
+Artículo Cuarto.- Se establece un plazo de seis meses a partir de la vigencia de esta Ley, para que los ayuntamientos por acuerdo de Cabildo, determinen e informen al Congreso del Estado y al Titular del Poder Ejecutivo, la fecha en que tomarán a su cargo las funciones que les corresponden en materia de vialidad y tránsito, o en su caso, su decisión de celebrar el convenio correspondiente con el Gobierno del Estado, para que la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, las realice, conforme las disposiciones de este ordenamiento.
 
-DIPUTADA PRESIDENTA
+Artículo Quinto.- Los convenios de colaboración en materia de vialidad y tránsito, celebrados por el Gobierno del Estado y los ayuntamientos de acuerdo con la Ley de Servicio de Tránsito que se deroga mediante este decreto, se darán por terminados a partir de la fecha que se determine conforme el artículo anterior.
 
-RÚBRICA.
+Artículo Sexto.- El Gobierno del Estado, de conformidad con las facultades que le otorga la Ley, celebrará con los ayuntamientos, los convenios de colaboración que resulten necesarios de acuerdo a las disposiciones de la Ley que se expide mediante este decreto.
 
-CARLOS ANTONIO MORALES GUEVARA
+Artículo Séptimo.- En tanto los ayuntamientos determinen la fecha de cuándo tomarán a su cargo las funciones que les corresponden en materia de vialidad y tránsito, o en su caso, celebren y entre en vigencia el convenio correspondiente con el Gobierno del Estado, la dependencia del Ejecutivo, competente en materia de vialidad, tránsito y transporte, ejercerá las atribuciones que se establecen en esta Ley para la dependencia Municipal.
 
-DIPUTADO SECRETARIO
+Artículo Octavo.- El Gobernador del Estado a través de la dependencia competente en materia de vialidad, tránsito y transporte, en un plazo de seis meses a partir de la vigencia de esta Ley, realizará las acciones necesarias a fin de integrar el Consejo Consultivo, y constituir el Organismo Coordinador de la operación integral del servicio de transporte público, el Centro Estatal de Investigación de la Vialidad y del Transporte, y el Registro Estatal de los Servicios Públicos de Tránsito y Transporte. Asimismo ordenará a la Secretaría de Finanzas y demás instancias correspondientes, que proporcionen al Registro Estatal de los Servicios Públicos de Tránsito y Transporte, toda la información relativa que obre en su poder.
 
-RÚBRICA.
+Artículo Noveno.- Las funciones asignadas al Consejo Consultivo de Vialidad y Tránsito previsto en la fracción VIII del Artículo 5 de la Ley del Servicio de Tránsito que se deroga mediante este decreto, se integrarán al nuevo Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte, de acuerdo a las disposiciones de las normas reglamentarias que expida el Titular del Poder Ejecutivo.
+
+Artículo Décimo.- Las funciones asignadas al Comité Técnico para la Racionalización del Transporte en la Zona Metropolitana de Guadalajara, que se prevé en la fracción IX del artículo 5 de la Ley del Servicio de Tránsito que se deroga mediante este decreto, se integrarán al Organismo Coordinador y al CEIT, de acuerdo a la propuesta que formule el Titular del Poder Ejecutivo y se apruebe en esta instancia de concertación social y coordinación gubernamental.
+
+Artículo Décimo Primero.- Se delega en forma temporal al Secretario de Vialidad y Transporte del Estado, la autorización, sanción y resolución de la tramitología relacionada con los diversos permisos de servicio de transporte público, al que se refiere el artículo 42 de la Ley del Servicio de tránsito del Estado que se deroga y siempre que hayan sido otorgados con anterioridad a la vigencia de la presente Ley, con el fin primordial de regularizar el rezago de solicitudes de prorroga y transmisiones, así como determinar la titularidad o la revocación de los permisos, en aquellos casos en que exista conflicto de derechos, por el tiempo necesario hasta la culminación de los trabajos que resuelvan el rezago.
+
+Artículo Décimo Segundo.- Los permisionarios o concesionarios del servicio de transporte público en cualquiera de sus modalidades, conservarán sus derechos que se encuentren vigentes y hayan sido adquiridos legalmente conforme a la Ley del Servicio de Tránsito que se deroga mediante este decreto, pudiendo permanecer prestando el servicio que tienen autorizado, sujetándose a la normatividad establecida en esta Ley y sus Reglamentos correspondientes. Los titulares de dichos permisos o concesiones, conforme vayan venciendo su vigencia, tendrán la obligación de sujetarse a las disposiciones vigentes de esta nueva Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco, teniendo un plazo de sesenta días para presentar su solicitud, ante la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte, para efecto de prorrogar su concesión, sin que sean necesarios otros requisitos, que los establecidos por la Ley vigente.
+
+Las personas que tengan hasta cinco permisos autorizados conforme a la Ley que se deroga, se extenderá su vigencia cinco años después de la publicación de la presente Ley, y transcurrido dicho término deberán someterse a su normatividad para efecto de no contar con más de tres permisos o concesiones.
+
+Los permisionarios o concesionarios del servicio de transporte público en la modalidad de autos de alquiler o taxis, podrán elegir prestar el servicio en sus sitios autorizados o pasar a la modalidad de radiotaxi y operar en forma independiente; debiendo en ambos casos sujetarse a la normatividad establecida por la presente Ley y sus Reglamentos correspondientes.
+
+En los casos que un concesionario tenga autorizadas más de cinco concesiones de acuerdo a la Ley que se deroga, e incurra en su ocultamiento por cualquier medio que sea comprobado, será motivo de cancelación de todas las concesiones que se encuentren a su nombre y/o a sus prestanombres.
+
+Artículo Décimo Tercero.- Las obligaciones de los propietarios de vehículos automotores, conductores y concesionarios de contratar y disponer de un seguro que cubra los posibles daños, en las condiciones y términos que establecen los artículos 67, 97, fracción V, y 105 de esta Ley, se hará efectiva a partir de la vigencia de las normas reglamentarias que expida el Titular del Poder Ejecutivo.
+
+Artículo Décimo Cuarto.- Se deroga la Ley del Servicio de Tránsito en el Estado de Jalisco, expedida mediante el Decreto No. 9180, publicado en el Periódico Oficial "El Estado de Jalisco", con fecha 1º de febrero de 1975.
+
+Artículo Décimo Quinto.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Salón de Sesiones del Congreso del Estado
+
+Guadalajara, Jalisco, 24 de enero de 1998
+
+Diputado Presidente
+
+Benito de Jesús Meza Pérez
+
+Diputado Secretario
+
+Francisco Javier Mora Hinojosa
+
+Diputado Secretario
+
+Carlos Flores de la Torre
+
+En mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.
+
+Emitido en Palacio del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los tres días del mes de febrero de mil novecientos noventa y ocho.
+
+El C. Gobernador Constitucional del Estado
+
+Ing. Alberto Cárdenas Jiménez
+
+El C. Secretario General de Gobierno
+
+Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", a excepción de lo dispuesto en la fracción V del artículo 162 del presente, que entrará en vigor a partir de los seis meses posteriores a su publicación.
+
+P.O. 15 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE JULIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor 30 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE NOVIEMBRE DE 1999.
+
+PRIMERO. Para la celebración de nuevos contratos de subrogación, con motivo de la presente reforma, el organismo público descentralizado deberá pedir opinión al representante de los subrogatarios.
+
+P.O. 7 DE MARZO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+UNICO: El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se abrogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. Los ayuntamientos tendrán 180 días a partir del 1º de enero del 2001, para revisar conjuntamente con la Secretaría de Vialidad, Tránsito y Transporte del Gobierno del Estado de Jalisco, los planes y programas de transporte público de pasajeros que incidan en su ámbito territorial.
+
+Cuarto. Los derechos y obligaciones adquiridos por los permisionarios, concesionarios y subrogatorios del transporte público de pasajeros deberán ser respetados en los términos y condiciones en que los adquirieron.
+
+P.O. 9 DE MARZO DE 2002.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE MAYO DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+Primero.- Este decreto entrará en vigor a los 20 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se otorga un plazo de 30 días hábiles posteriores a la entrada en vigor del presente decreto, a los conductores del servicio de transporte público colectivo de pasajeros que no cuenten con la licencia de conductor de servicio de transporte público expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte para obtener esta y así evitar el ser sancionados.
