@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2002-06-01"
+last_updated: "2004-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2004.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -235,9 +235,11 @@ IX. Suspensión y privación del derecho de conducir vehículos.
 
 ### CAPITULO II. PRISION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 21.
 
-La prisión consiste en la privación de la libertad y su duración será de un mes a cincuenta años y se compurgará en los establecimientos o lugares que el Ejecutivo señale, conforme a las disposiciones legales correspondientes.
+La prisión consiste en la privación de la libertad y su duración será de un mes a setenta años y se compurgará en los establecimientos o lugares que el Ejecutivo señale, conforme a las disposiciones legales correspondientes.
 
 En toda pena de prisión que se imponga se computará el tiempo que la persona haya permanecido privada de su libertad.
 
@@ -270,6 +272,10 @@ III. A falta de los anteriores, los demás descendientes y ascendientes que depe
 ###### ARTICULO 24.
 
 La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+El juzgador no podrá absolver al sentenciado de la reparación del daño, si ha emitido una sentencia condenatoria.
 
 ###### ARTICULO 25.
 
@@ -1125,6 +1131,8 @@ Este delito se sancionará con una pena de tres meses a un año de prisión y sa
 
 ### CAPITULO IV. SECUESTRO
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 134.
 
 Comete el delito de privación ilegal de la libertad quien:
@@ -1143,37 +1151,83 @@ Este delito se sancionará con una pena de uno a tres años de prisión y sanci�
 
 ###### ARTICULO 135.
 
-Comete el delito de secuestro quien por cualquier medio priva a otro de la libertad con el fin de:
+Comete el delito de secuestro, quien por cualquier medio priva a otro de la libertad con el fin de:
 
-I. Obtener rescate o causar daños o perjuicios al secuestrado o a cualquier otra persona relacionada con éste;
+I. Obtener rescate o causar daños o perjuicios al secuestrado, o a cualquier otra persona relacionada con éste;
 
-II. Obligar al secuestrado o cualquier otra persona relacionada con éste a hacer u omitir un acto de cualquier índole, o
+II. Obligar al secuestrado o cualquier otra persona relacionada con éste, a hacer u omitir un acto de cualquier índole, o
 
-III. Retener como rehén al secuestrado y amenazar con privarle de la vida o causarle un daño a éste o a un tercero, si la autoridad no realiza o deja de realizar un acto de cualquier naturaleza.
+III. Retener como rehén al secuestrado y amenazar con privarle de la vida, o causarle un daño a éste o a un tercero, si la autoridad no realiza o deja de realizar un acto de cualquier naturaleza.
 
-Este delito se sancionará con una pena de diez a cuarenta años de prisión y sanción pecuniaria de ochocientos a cuatro mil días de salario mínimo.
+Este delito se sancionará con una pena de quince a cuarenta y cinco años de prisión y sanción pecuniaria de mil quinientos a cinco mil días de salario mínimo.
 
-Si el secuestrador o secuestradores espontáneamente ponen en libertad al secuestrado dentro de los tres días siguientes a la privación de la libertad y sin causarle ningún daño, se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a seiscientos días de salario mínimo.
+Para efectos de lo establecido en la fracción I de este artículo, se entiende por rescate todo aquello que entrañe un provecho indebido y a cuya realización o cumplimiento se condiciona la libertad del secuestrado.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
-Es equiparable al secuestro y se castiga como tal, la retención transitoria o prolongada de una persona, para obligarla a retirar fondos monetarios en cajeros automáticos o ventanillas de instituciones de crédito; o utilizando violencia física o moral, forzarla para que adquiera bienes o servicios en establecimientos comerciales mediante el uso de tarjetas electrónicas o cheques bancarios.
+###### ARTICULO 135 Bis.
+
+A quien retenga a una persona con el único objeto de obligarla a retirar fondos monetarios de cajeros automáticos o ventanillas de instituciones de crédito, o a realizar otra operación o acción de cualquier tipo; o la obligue a adquirir bienes o servicios en establecimientos o centros comerciales mediante el uso de tarjetas electrónicas, cheques bancarios, o cualquier otro medio, obtenga o no el beneficio, se le impondrá una pena de diez a cuarenta años y sanción pecuniaria de cuatrocientos a mil días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 135 Ter.
+
+Al que simule hallarse privado de su libertad con el fin de obtener rescate, o con el propósito de que la autoridad o un particular realice o no un acto cualquiera en su beneficio, se le impondrá una pena de tres a quince años de prisión y sanción pecuniaria de cien a quinientos días de salario mínimo.
+
+Al que simule tener privada de su libertad a una persona, o amenace con secuestrarla para obligar a otra a entregar rescate, o a realizar operación u acción de cualquier tipo, se le impondrá la misma pena a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 136.
 
-La penalidad prevista en el artículo anterior se aumentará hasta en una cuarta parte en los casos siguientes:
+La pena a imponer será de treinta a cincuenta años de prisión y sanción pecuniaria de dos mil a seis mil días de salario mínimo, cuando concurra en la comisión del delito de secuestro previsto en el artículo 135 de este Código, cualquiera de las siguientes agravantes:
 
-I. Cuando el secuestro se realice en despoblado o en lugar desprotegido o solitario;
+I. Se viole, se mutile o se le extraigan órganos al secuestrado;
 
-II. Cuando se cometa con intervención de dos o más personas;
+II. Cuando el secuestro recaiga en persona menor de dieciséis o mayor de sesenta y cinco años, o en una persona con discapacidad, o que por su condición de salud física se encuentre incapacitada;
 
-III. Cuando el secuestro recaiga en persona menor de doce o mayor de setenta años o en una persona con discapacidad, o
+III. Cuando la víctima sea una mujer en estado de embarazo;
 
-IV. Cuando el o los autores sean o hayan sido servidores públicos en funciones de prevención, persecución o sanción de delitos o hayan sido integrantes de alguna institución de seguridad privada o se hagan pasar por ellos.
+IV. Que con motivo del secuestro se altere la salud del secuestrado o de los familiares de éste, de forma permanente o grave;
 
-En estos casos se inhabilitará al responsable para el desempeño de empleo, comisión o cargo público, por un tiempo igual a la pena de prisión impuesta.
+V. Que persona relacionada con el secuestrado por un vínculo de parentesco o afectivo, pierda la vida como consecuencia del delito;
 
-En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, la pena será de treinta a cincuenta años de prisión y sanción pecuniaria de tres mil a cinco mil días de salario mínimo.
+VI. Cuando se cometa con la intervención de tres o más secuestradores;
+
+VII. El secuestro se cometa simultáneamente en contra de más de una persona;
+
+VIII. Cuando el secuestrador tenga o haya tenido vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o persona relacionada con éste;
+
+IX. Que el secuestrador sea o haya sido servidor o miembro de una institución o corporación de seguridad pública o privada;
+
+X. Se cometa por persona que haya realizado o participado en secuestros con anterioridad;
+
+XI. El secuestro se prolongue por más de cinco días;
+
+XII. El secuestro se planee, prepare, ejecute o desarrolle en cualquiera de sus fases en diferentes Entidades Federativas;
+
+XIII. Se utilicen instalaciones dependientes de cualquier autoridad o instrumentos de trabajo oficiales, tales como frecuencias electrónicas, sistemas de cómputo, claves o códigos oficiales, o cualquier sistema de comunicación de uso exclusivo de la autoridad;
+
+XIV. Se obligue a terceros no relacionados con el secuestrado ni con los secuestradores, a colaborar de manera eventual o transitoria en cualquier etapa del delito mediante amagos, engaños o violencia, o
+
+XV. Cuando el secuestrado muera durante la comisión del delito o concluido éste, por causas directamente relacionadas con el mismo dentro de los sesenta días siguientes a aquél en que cesó la privación de su libertad.
+
+En el caso de la fracción IX de este artículo, además de la pena de prisión que corresponda, se le aplicará al responsable destitución e inhabilitación definitiva para desempeñar cualquier empleo, comisión o cargo público.
+
+En el caso de que el secuestrado sea privado de la vida por sus secuestradores, se impondrá la pena de treinta y cinco a sesenta años de prisión y multa por el importe de cuatro mil a seis mil días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 136 Bis.
+
+Si el secuestrador o secuestradores espontáneamente ponen en libertad al secuestrado, dentro de los tres días siguientes a la privación de la libertad y sin causarle ningún daño, ni obtener beneficio alguno, se impondrá una pena de cinco a quince años de prisión y sanción pecuniaria de cuarenta a seiscientos días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 136 Ter.
+
+En caso de que alguno de los partícipes en el secuestro, proporcione a la autoridad información que permita la identificación y localización de alguno o de todos los demás partícipes en la comisión del delito, y contribuya a la localización y rescate de la víctima con vida, la pena a imponer será de una tercera parte de la que le corresponda.
 
 ### CAPITULO VI. TRAFICO DE MENORES
 
@@ -2848,3 +2902,11 @@ P.O. 1 DE JUNIO DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. El Ejecutivo del Estado, a través de sus dependencias competentes, diseñará y llevará a cabo una campaña permanente y amplia de prevención en materia del delito de secuestro, en la que se difunda a través de los medios de comunicación masiva o de los que considere convenientes, las sanciones aplicables al mismo, así como las atenuantes y agravantes que establece el presente Decreto.
