@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-fondo-de-apoyo-a-la-administracion-de-justicia-en-9229"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "1996-12-20"
+last_updated: "2000-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9229&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1996-12-10"
 
 LEY DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2000.
 
-Ley publicada en el Gaceta Oficial del Distrito Federeral el viernes 20 de diciembre de 1996.
+Ley publicada en el Diario Oficial de la Federación el lunes 23 de diciembre de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -210,9 +210,11 @@ El Comité Técnico establecerá los mecanismos de control de gestión que estim
 
 Los recursos que integren el Fondo deberán ser invertidos por la Institución Fiduciaria en valores de renta fija del más alto rendimiento, siempre que éstos permitan la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 17.
 
-De toda exhibición o devolución de certificados de depósito de dinero y valores a que se refiere el artículo 6o., las Salas, Juzgados o las dependencias del Tribunal autorizadas para recibirlos, deberán reportarlas al Fondo, dentro del día hábil siguiente.
+De toda exhibición o devolución de certificados de depósito de dinero y valores a que se refiere el artículo 6°, las salas, juzgados o las dependencias del Tribunal autorizadas para recibirlos, deberán reportarlas al fondo, una vez por semana, para lo cual, el Comité Técnico expedirá las reglas de organización que estime pertinentes para que cada área cumpla con esta obligación.
 
 Lo dispuesto en el párrafo anterior será sin perjuicio de que en cada caso, se tomen las providencias necesarias por parte de las autoridades receptoras para la guarda y conservación de los certificados y valores a que se ha hecho referencia.
 
@@ -274,7 +276,9 @@ Una vez constituido el Fondo, el Comité Técnico deberá quedar integrado dentr
 
 TERCERO.- Hasta en tanto se designa Institución Fiduciaria diversa y a partir de la iniciación de vigencia de esta Ley, los depósitos en dinero o en valores ante las Salas, Juzgados o cualquiera de los órganos dependientes del Tribunal, se harán en la cuenta que indique Nacional Financiera, S. N. C.
 
-El importe de las cauciones que garanticen los conceptos previstos en las fracciones II y III del artículo 5o. de esta Ley y que sean hechas efectivas a partir de la iniciación de vigencia de la misma, pasará a formar parte del Fondo. En tanto se modifica el Código Financiero del Distrito Federal y se promueven las reformas conducentes a los demás ordenamientos aplicables, la Tesorería del Distrito Federal otorgará los poderes para actos de administración y pleitos y cobranzas que resulten necesarios en favor de quienes señale el Comité Técnico, a fin de que tales apoderados realicen los actos y gestiones que requiera el cobro judicial o extrajudicial de las aludidas garantías.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2000)</small>
+
+El importe de las cauciones que garanticen los conceptos previstos en las fracciones II y III del artículo 5o. de esta Ley y que sean hechos efectivos a partir de la iniciación de vigencia de la misma, pasará a formar parte del Fondo. Los actos y gestiones que requiera el cobro judicial o extrajudicial de las aludidas garantías, deberá continuar a cargo de la Tesorería del Distrito Federal.
 
 El Comité Técnico vigilará que los apoderados cumplan e informen del ejercicio de los poderes que se les otorguen.
 
@@ -289,3 +293,9 @@ SEXTO.- Las menciones que la presente Ley hace a la Asamblea Legislativa del Dis
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los catorce días del mes de octubre de mil novecientos noventa y seis.- Rep. David Jiménez González, Presidente.- Rep. Eric Moreno Mejía, Secretario.- Rep. Sandra Segura Rangel, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de diciembre del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 27 DE JUNIO DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese la misma en el Diario Oficial de la Federación.
