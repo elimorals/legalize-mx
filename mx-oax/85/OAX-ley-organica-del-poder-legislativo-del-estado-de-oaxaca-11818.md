@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2002-04-27"
+last_updated: "2004-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -135,7 +135,7 @@ El registro de las constancias de mayoría, validez y de asignación, emitidas p
 
 ###### ARTICULO 17.
 
-El Congreso del Estado, antes de clausurar el último período de sesiones de cada Legislatura, eligirá (sic) a la Diputación Permanente del Congreso, como Comisión Instaladora.
+El Congreso del Estado, antes de clausurar el último período de sesiones de cada Legislatura, eligirá a la Diputación Permanente del Congreso, como Comisión Instaladora.
 
 ###### ARTICULO 18.
 
@@ -165,11 +165,11 @@ IV.- El Presidente de la Mesa Directiva de la Legislatura entrante, protestará 
 
 ### CAPITULO II. DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 21.
 
-La Legislatura deberá quedar instalada el 13 de noviembre del año en que se efectúe su renovación, y empezará a fungir a partir del primer minuto del día 15 de noviembre de ese mismo año.
+La Legislatura deberá quedar instalada el 13 de noviembre del año en que se efectúe su renovación, en los términos que establezca el Reglamento Interior del Congreso.
 
 ## TITULO TERCERO. DE LA MESA DIRECTIVA
 
@@ -754,3 +754,7 @@ P.O. 27 DE ABRIL DE 2002.
 DECRETO No. 59, QUE REFORMA EL ART. 7
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MARZO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
