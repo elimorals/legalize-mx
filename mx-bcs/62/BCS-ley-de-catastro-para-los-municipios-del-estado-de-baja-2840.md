@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-catastro-para-los-municipios-del-estado-de-baja-2840"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-20"
-last_updated: "1991-12-31"
+last_updated: "1998-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 1983.
 
@@ -41,21 +41,37 @@ LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 La presente Ley es de observancia obligatoria, interés público y vigente en el Estado de Baja California Sur.
 
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1998)</small>
+
+Se aplicarán, supletoriamente a lo dispuesto por esta Ley y su Reglamento, las siguientes normas:
+
+a) La Ley de Hacienda para los Municipios del Estado de Baja California Sur.
+
+b) El Código Fiscal para el Estado y Municipios de Baja California Sur.
+
+c) Las demás Leyes Fiscales para el Estado y Municipios de Baja California Sur.
+
+d) El Código Civil y el Código de Procedimientos Civiles para el Estado de Baja California Sur.
+
+e) Las demás disposiciones legales que existan sobre la materia.
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 2o.
 
 Catastro es el inventario de la propiedad raíz estructurado por el conjunto de registros o padrones inherentes a las actividades relativas a la identificación, registro y valuación de los bienes inmuebles ubicados en territorio de los municipios de la entidad.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 3o.
 
-El Catastro tiene como objeto lograr el conocimiento de las características cualitativas y cuantitativas de la propiedad raíz, mediante la formación y conservación de los registros catastrales que permitan obtener los elementos técnicos, estadísticos, fiscales, económicos, jurídicos y sociales que lo integran.
+El objeto del Catastro es obtener el conocimiento de las características cualitativas y cuantitativas de la propiedad raíz, mediante la formación y conservación de las descripciones técnicas geográficas, estadísticas, económicas y sociales de las mismas, a fin de ser utilizadas para obtener valores catastrales, adecuar el Registro Público de la Propiedad, identificar y deslindar bienes inmuebles, y para considerarse en la forma en que las leyes lo determinen.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 4o.
 
-El catastro se integra con los siguientes registros técnicos y administrativos: gráficos, numérico, alfabético, de ubicación y estadístico.
+El Catastro de los Municipios del Estado se integrará y organizará en la forma que establezca esta Ley y su Reglamento, y estará a cargo de un Director nombrado por el Ayuntamiento, a propuesta del Presidente Municipal.
 
 ###### ARTICULO 5o.
 
@@ -167,37 +183,43 @@ XXXVI. CONSTRUCCION NUEVA.- La que se construya en terreno donde no exista const
 
 Son autoridades de catastro: El Gobernador del Estado, los Presidentes Municipales, los Tesoreros Municipales, los Directores Generales Municipales a quienes se encomienda lo relacionado con los asentamientos humanos, medio ambiente y obras públicas y los titulares de catastro.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 8o.
 
-Por convocatoria del Gobernador del Estado, se integrará una Comisión Técnica de Catastro, que conjuntamente con las autoridades del catastro, revisarán y aprobarán los valores catastrales a más tardar en la segunda quincena del mes de noviembre de cada año, que estarán vigentes para el ejercicio fiscal subsecuente.
+Por convocatoria del Presidente Municipal, se integrará en cada Municipio, una Comisión Técnica de Catastro que conjuntamente con las Autoridades de Catastro, revisarán y confirmarán las delimitaciones de colonias catastrales y avenidas especiales, y aprobarán los valores unitarios de terrenos y valores unitarios de construcción e industriales, a más tardar en la segunda quincena del mes de octubre de cada año, para su entrega en la primera semana de noviembre al Congreso del Estado, para su aprobación.
 
-La Comisión Técnica de Catastro tendrá las siguientes representaciones:
+Se entenderán por aprobados los valores catastrales citados, si el Congreso no los rechaza a más tardar en un plazo de treinta días hábiles posteriores a los de su recepción.
 
-a) El Gobernador del Estado.
+Aprobados que sean los valores catastrales éstos serán publicados en el Boletín Oficial del Gobierno del Estado, dentro de los diez días hábiles siguientes.
 
-b) Un representante del Congreso del Estado.
+La Comisión Técnica de Catastro Municipal, tendrá los siguientes miembros:
 
-c) Los Presidentes Municipales.
+a) El Presidente Municipal.
 
-d) El Secretario de Finanzas del Estado.
+b) Un Representante del Poder Ejecutivo del Estado.
 
-e) El Secretario de Asentamientos Humanos y Obras Públicas del Estado.
+c) Un Representante del Congreso del Estado.
 
-f) Los Directores de Catastro Municipales.
+d) El Tesorero Municipal.
 
-g) Un representante del Instituto Mexicano de Valuación del Estado.
+e) El Director de Obras Públicas, Asentamientos Humanos ó Ecología del Municipio.
 
-h) Un representante de la Cámara de la Construcción del Estado.
+f) El Director de Catastro del Municipio.
 
-i) Un representante del Colegio de Ingenieros del Estado.
+g) Un Representante del Instituto Mexicano de Valuación del Estado.
 
-j) Un representante del Colegio de Arquitectos del Estado.
+h) Un Representante de la Cámara Mexicana de la Industria de la Construcción del Estado.
 
-Dentro de la estructura orgánica de la Comisión Técnica de Catastro: El Gobernador del Estado la presidirá; el Secretario de Asentamientos Humanos y Obras Públicas tendrá el cargo de Secretario Técnico y el Secretario de Finanzas, fungirá como asesor en materia de interpretación y aplicación fiscal.
+i) Un Representante del Colegio de Ingenieros del Estado.
 
-Por cada representante habrá un suplente y los acuerdos se tomarán por mayoría de votos de los miembros que la integran.
+j) Un Representante del Colegio de Arquitectos del Estado.
+
+k) Un Representante de los Promotores Inmobiliarios o su similar.
+
+La estructura orgánica de la Comisión Técnica del Catastro, estará encabezada por el Presidente Municipal, quien tendrá voto de calidad; fungiendo el Tesorero Municipal como Secretario y el Director de Catastro como Vocal y Orador.
+
+Por cada representante habrá un suplente y los acuerdos se tomarán por mayoría de votos.
 
 ###### ARTICULO 9o.
 
@@ -241,11 +263,11 @@ El resultado de estas operaciones catastrales y en su caso, las observaciones de
 
 En caso de no obtenerse la conformidad plena de los propietarios o poseedores de los predios colindantes, se hará constar en el Acta y se dejarán a salvo los derechos de los interesados para que los ejerciten en la vía y forma que determinen las Leyes de la materia.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 12.
 
-Para determinar el valor catastral de cada predio se aplicarán los valores unitarios para el terreno y para los diferentes tipos de construcción, que al efecto se fijen en apego a las disposiciones de la presente Ley. Dichos valores deberán ser publicados en el Boletín Oficial del Gobierno del Estado de Baja California Sur, y en uno de los diarios de mayor circulación en la Entidad.
+Para determinar el valor catastral de cada predio se aplicarán los valores unitarios para el terreno y para los diferentes tipos de construcción que al efecto se fijen en apego a las disposiciones de la presente Ley.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1991)</small>
 
@@ -259,9 +281,11 @@ Los valores unitarios que aplique la Dependencia de Catastro, deberán ser los q
 
 Para fines económicos y estadísticos, la Dependencia de Catastro deberá tener al día el valor catastral de los predios. Dicho valor será, por lo tanto análogo al valor comercial que tenga el predio al momento de su avalúo conforme a las tablas de valores aprobados.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 15.
 
-Para las aplicaciones fiscales, el valor catastral de los predios será el valor técnicamente determinado que se convertirá en valor fiscal de los mismos, base del impuesto predial, el cual será modificado por las autoridades competentes en la cantidad y período que fijen las Leyes de la materia o esta Ley o cuando concurran las siguientes causas que den motivo a una revaluación o actualización de valores:
+Para las aplicaciones fiscales, el valor catastral de los predios será el valor técnicamente determinado que se convertirá en valor fiscal de los mismos, base del Impuesto Predial, el cual será modificado por las autoridades competentes, en la cantidad y período que fijen las Leyes de la materia o esta Ley o cuando concurran las siguientes causas que den motivo a una revaluación o actualización de valores:
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1989)</small>
 
@@ -283,6 +307,10 @@ VIII. Cuando se haya cancelado una exención fiscal de la que hubiere gozado el 
 
 La revaluación a que se refiere este Artículo comprenderá la totalidad del predio, es decir, tanto el terreno como las construcciones, reconstrucciones o ampliaciones de las ya existentes.
 
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1998)</small>
+
+El valor catastral determinado conforme a la presente Ley, será la base gravable del Impuesto Predial.
+
 ###### ARTICULO 16.
 
 En aquellos casos en que no se pueda determinar el valor catastral aplicable al predio, la Dependencia de Catastro, con base en los elementos de que disponga, determinará un valor provisional, asignando un valor al terreno y a las construcciones lo más aproximado al que sería su valor catastral, análogo éste al valor comercial.
@@ -301,9 +329,11 @@ La Dependencia de Catastro será directamente responsable de las consecuencias q
 
 Las Autoridades Hacendarias tendrán el derecho de solicitar y obtener, en un plazo que no exceda de quince días hábiles, todos aquellos datos o elementos contenidos en el catastro que requieran para los fines de aplicación, control y recaudación del impuesto predial.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 20.
 
-La publicación de los valores unitarios para terrenos y construcciones en el Boletín Oficial del Estado y en uno de los Diarios de mayor circulación en la Entidad, surte efectos de notificación de avalúo a los causantes del impuesto predial según las características de sus propiedades, y dichos valores aplicados servirán de base del impuesto a partir del bimestre siguiente a su publicación.
+La publicación de los valores unitarios para terrenos y construcciones en el Boletín Oficial del Gobierno del Estado, surte efectos de notificación de avalúo a los causantes del Impuesto Predial según las características de sus propiedades o posesiones y dichos valores aplicados servirán de base del impuesto a partir del bimestre siguiente a su publicación.
 
 ### CAPITULO V. DE LAS OBLIGACIONES
 
@@ -371,9 +401,13 @@ La Dependencia de Catastro, en vista de las razones expuestas y del resultado de
 
 El procedimiento del recurso de revocación, una vez intentado, se continuará a petición de la parte interesada, y si se dejare de promover por falta de pruebas dentro de los treinta días hábiles después de interpuesto se tendrá al promovente como desistido del mismo.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 32.
 
-Las resoluciones que dicte la Dependencia de Catastro confirmando o modificando el acuerdo recurrido, dentro de los términos y procedimientos que marca esta Ley, podrán ser impugnadas mediante el recurso de revisión ante el Ayuntamiento en los términos y forma que establece el Artículo 101 de la Ley Orgánica Municipal.
+Las resoluciones que dicte la Dirección de Catastro, podrán ser impugnadas mediante el Recurso Administrativo de Revisión previsto en la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política Local.
+
+Las resoluciones o acuerdos que emita el Ayuntamiento en relación a los Recursos de Revisión que sean presentados, no necesitarán para su validez de la aprobación del Congreso del Estado, ni de ninguna otra Autoridad.
 
 ###### ARTICULO 33.
 
@@ -460,3 +494,13 @@ Los valores catastrales vigentes para el ejercicio fiscal de 1992, se aprobarán
 ###### ARTICULO SEGUNDO.
 
 Las presentes reformas y adiciones, entrarán en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JUNIO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se contrapongan al presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
