@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "1988-05-17"
+last_updated: "1997-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -253,9 +253,11 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud y Asistencia del Estado:
+Corresponde al Ejecutivo del estado:
 
 A.- En materia de salubridad general.
 
@@ -289,13 +291,17 @@ VI.- Las demás que sean necesarias para hacer efectivas las facultades anterior
 
 Para los efectos de esta Ley se entiende por norma técnica el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud y Asistencia del Estado, que establezcan los requisitos que deben satisfacer en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
 
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 14.
 
-El Ejecutivo Estatal, a través de la Secretaría de Salud y Asistencia del Estado, podrá convenir con los Ayuntamientos, el ejercicio de funciones de salud y/o la prestación por parte de éstos de los servicios de salubridad general concurrente y salubridad local, cuando su desarrollo económico y social lo haga necesario.
+El Ejecutivo estatal podrá convenir con los ayuntamientos el ejercicio de funciones de salud y/o la prestación por parte de éstos, de los servicios de salubridad general concurrente y salubridad local, cuando su desarrollo económico y social lo haga necesario.
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 15.
 
-Corresponde al Ejecutivo del Estado, a través de la Secretaría de Salud y Asistencia del Estado, en coordinación con el Ejecutivo Federal, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el apartado "A" del artículo 3° de esta Ley.
+Corresponde al Ejecutivo del estado, en coordinación con el Ejecutivo federal, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el apartado "A" del artículo 3° de esta Ley.
 
 ###### ARTICULO 16.
 
@@ -1363,7 +1369,7 @@ De conformidad con la norma técnica que expida la Secretaría de Salud, la Secr
 
 Para los efectos de esta Ley se consideran bebidas alcohólicas aquellas que contengan alcohol etílico en una proporción mayor del 2% en volumen y se clasifican en:
 
-a).- De bajo contenido alcohólico, que son los productos con menos de 6º G. L.
+a).- De bajo contenido alcohólico, que son los productos con menos de 6º G. L.;
 
 b).- De medio contenido alcohólico, que son los productos entre 6.1º G. L. y 20º G. L.; y
 
@@ -2039,9 +2045,9 @@ III.- Arresto hasta por treinta y seis horas.
 
 Al imponer una sación (sic), se fundará y motivará la resolución, tomando en cuenta:
 
-I.- Los daños que se hayan producido o puedan producirse en la salud de las personas.
+I.- Los daños que se hayan producido o puedan producirse en la salud de las personas;
 
-II.- La gravedad de la infracción.
+II.- La gravedad de la infracción;
 
 III.- Las condiciones socio-económicas del infractor; y
 
@@ -2278,3 +2284,9 @@ En tanto se expidan los reglamentos y normas técnicas que se deriven de esta Le
 DADA en el Salón de Sesiones de la Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Veracruz Llave, en la ciudad de Xalapa-Enríquez, su capital, a los veintinueve días del mes de enero de mil novecientos ochenta y ocho.- Diputado Presidente, Lic. GUSTAVO ARRONIZ ZAMUDIO.- Rúbrica.- Diputada Secretaria, Lic. ROSA MARIA CAMPOS GUTIERREZ.- Rúbrica"
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los veintinueve días del mes de enero de mil novecientos ochenta y ocho.- FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario de Salud y Asistencia, PEDRO CORONEL PEREZ.- Rúbrica.- El Secretario de Educación y Cultura, GUILLERMO H. ZUÑIGA MARTINEZ.- Rúbrica.- El Secretario de Desarrollo Agropecuario y Pesquero, RICARDO GARCIA LAGOS.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, GUSTAVO NACHON AGUIRRE.- Rúbrica.- El Secretario de Desarrollo Económico, ARMANDO MENDEZ DE LA LUZ.- Rúbrica.- El Secretario de Finanzas y Planeación, RAUL OJEDA MESTRE.- Rúbrica.- El Secretario General de Gobierno, Lic. DANTE DELGADO RANNAURO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE MARZO DE 1997.
+
+UNICO. Esta ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
