@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-creacion-de-municipios-en-el-estado-de-mexico-6075"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-22"
-last_updated: "1996-01-22"
+last_updated: "2002-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA CREACION DE MUNICIPIOS EN EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JULIO DE 2002.
 
 Ley publicada en la Gaceta del Gobierno el 22 de enero de 1996.
 
@@ -57,7 +57,9 @@ La Legislatura del Estado podrá otorgar la categoría de municipio a los centro
 
 I. Que medie solicitud por escrito;
 
-II. Tener un censo de población no menor de 40,000 habitantes;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2002)</small>
+
+II. Tener un censo de población mayor de 40,000 habitantes, o menor de este número, cuando los centros de población compartan un pasado histórico y cultural común, o tengan una demarcación territorial que conforme una unidad geográfica continua, o que por otras causas políticas, sociales, económicas o administrativas, ya no respondan a las necesidades de asociación en vecindad con el municipio al que pertenecen;
 
 III. Disponer de los recursos económicos suficientes para cubrir las erogaciones que requiera la administración pública municipal;
 
@@ -162,3 +164,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HECTOR XIMENEZ GONZALEZ
 
 (Rúbrica)
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 29 DE JULIO DE 2002
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
