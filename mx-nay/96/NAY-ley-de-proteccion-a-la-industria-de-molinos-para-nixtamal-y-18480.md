@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-industria-de-molinos-para-nixtamal-y-184
 country: "mx"
 rank: "ley"
 publication_date: "1957-10-30"
-last_updated: "1957-10-30"
+last_updated: "1961-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCION A LA INDUSTRIA DE MOLINOS PARA NIXTAMAL Y SUS DERIVADOS, PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1961.
 
 Ley publicada en el Periódico Oficial el Miércoles 30 de Octubre de 1957
 
@@ -39,45 +39,51 @@ DECRETA
 
 LEY DE PROTECCIÓN A LA INDUSTRIA DE MOLINOS PARA NIXTAMAL Y SUS DERIVADOS, PARA EL ESTADO DE NAYARIT.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
+
 ###### ARTÍCULO 1o.
 
-No podrá abrirse al público ningún molino para nixtamal, expendio de masa o de tortillas, sin antes obtener la licencia otorgada por la Presidencia Municipal.
+No podrá abrirse al público ningún molino para nixtamal, fábrica de tortillas, tortillerías, expendios de masa o de tortillas, sin la previa autorización o licencia que otorgue la Presidencia Municipal.
+
+Se entenderá por fábrica de tortillas, su elaboración por medio de maquinaria; y por tortillería, su elaboración manual.
 
 ###### ARTÍCULO 2o.
 
 Las licencias no constituyen un derecho absoluto, pues siempre se entenderán otorgadas bajo el concepto de quedar sometido el establecimiento, persona u objeto de la licencia, a las disposiciones de esta Ley, y las demás que demande el interés general, mediante la substanciación del procedimiento que corresponda.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
+
 ###### ARTÍCULO 3o.
 
-La Presidencia Municipal respectiva, solamente otorgará licencias para la apertura de un molino para nixtamal, tortillería o expendio de masa y demás productos de molino, si se llenan los siguientes requisitos:
-
-I.- Presentar solicitud por escrito señalando nombre y domicilio de la persona o Sociedad propietaria del negocio que se desee establecer y ubicación exacta del mismo.
-
-II.- Acompañar constancia expedida por los Servicios Coordinados de Salubridad y Asistencia, para comprobar que el lugar que pretende utilizarse, satisface las condiciones higiénicas necesarias.
-
-III.- Exhibir constancia de haberse hecho la manifestación de apertura, a la Agencia de Economía.
-
-IV. Constancia de solicitud de inscripción a la Delegación de la Cámara Nacional de la Industria de Producción de Masa en esta Entidad, la que debe refrendarse anualmente, conforme lo establece el artículo 5º de la Ley de Cámaras de Comercio y de las de Industria.
-
-V.- Manifestación del Impuesto sobre la Renta.
-
-Una licencia durante su vigencia, puede ser cancelada por el Presidente Municipal respectivo, por dejar de cumplirse cualquiera de los requisitos que señala este Artículo.
+La Presidencia Municipal respectiva, otorgará licencia para la apertura de un establecimiento de los referidos en el Artículo primero si se llenan los siguientes requisitos: presentar solicitud por escrito que contenga nombre y domicilio del solicitante; ubicación del negocio; copia de la solicitud de ingreso a la Delegación en el Estado de la Cámara Nacional de la Industria de producción de masa, que deberá refrendarse en el mes de enero de cada año; y constancia de los Servicios Coordinados de Salubridad y Asistencia en el Estado, para comprobar que el local en que se instalará alguno de los establecimientos señalados en el Artículo primero, reúne las condiciones higiénicas requeridas.- La Presidencia Municipal clausurará cualquier negocio de los antes señalados, si deja de cumplirse con alguno de los requisitos que fija este precepto.
 
 ###### ARTÍCULO 4o.
 
 En cuanto se reciba una solicitud de apertura, se nombrará un Inspector para comprobar que el establecimiento destinado al molino para nixtamal, expendio de masa o tortillas, tiene acceso directo a la vía pública y no hay comunicación interior con otro local que esté destinado a negocio distinto o para habitación u otros fines cualesquiera.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
+
 ###### ARTÍCULO 5o.
 
-No se establecerán molinos para nixtamal, en el interior de los mercados, ni en predios que no tengan acceso a la vía pública.
+En los mercados queda prohibido el establecimiento de molinos para nixtamal, fábricas de tortillas y tortillerías, permitiéndose solamente los expendios de masa y tortillas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
 
 ###### ARTÍCULO 6o.
 
-En caso de que el propietario de un negocio ya establecido, desee efectuar un cambio a otro local, se exigirán los mismos requisitos que para la apertura.
+En caso de que el propietario o representante de un negocio ya establecido desee efectuar el cambio a otro local, deberá previamente recabar la autorización de la Presidencia Municipal, donde presentará la constancia de los Servicios Coordinados de Salubridad y Asistencia, sobre el nuevo local.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
 
 ###### ARTÍCULO 7o.
 
-No se autorizará en la Ciudad de Tepic, y demás Municipios del Estado de Nayarit, la apertura de molinos para nixtamal, expendio de masa y tortillas, si los locales no reúnen los requisitos de la presente Ley. Podrá autorizarse el número de los que sean necesarios, para que el público tenga un buen servicio, tomándose como base UN MOLINO DE NIXTAMAL PARA CADA MIL QUINIENTOS HABITANTES EN LA CAPITAL Y CABECERAS MUNICIPALES DEL ESTADO y en todos los demás lugares de la Entidad quedan a juicio de los Presidentes Municipales autorizar su establecimiento con menor densidad de población. Tratándose de tortillerías, se autorizará una por cada CIEN HABITANTES en la Capital del Estado y fuera, queda a juicio de los Presidentes Municipales autorizar su establecimiento con menor densidad de población.
+Se autorizará en las poblaciones de la Entidad un molino para nixtamal por cada dos mil habitantes, a una distancia uno de otro no menor de doscientos metros; una fábrica de tortillas con o sin molino para nixtamal por cada cinco mil habitantes a una distancia no menor de doscientos cincuenta metros cada una; una tortillería por cada quinientos habitantes a una distancia de las fábricas de tortillas de doscientos metros; y un expendio de masa o de tortillas por cada mil habitantes, cuando menos a doscientos metros de la fábrica de tortillas. Para determinar el número de habitantes se tomará como base el último Censo General de Población y los aumentos estimativos que considere la Dirección correspondiente de la Secretaría de Industria y Comercio.
+
+En los poblados o poblaciones que no llenen el número de habitantes señalado o bien que reuniéndolo exista otra fracción, quedará al prudente arbitrio del Presidente Municipal, autorizar la apertura de alguno de los negocios citados, escuchando la opinión de la Delegación en el Estado de la Cámara Nacional de la Industria de Producción de Masa.
+
+La licencia para el establecimiento de una fábrica de tortillas, solo ampara el funcionamiento de la maquinaria necesaria para transformar la masa y no de molinos anexos, acoplados o de cualquiera otra forma o tipo que en todo caso requerirán la expedición de la licencia correspondiente.
+
+Las personas, físicas o morales, solo podrán tener en explotación hasta 3 molinos de nixtamal, hasta 3 expendios de tortillas o de masa y hasta una fábrica de tortillas.
 
 ###### ARTÍCULO 8o.
 
@@ -139,45 +145,49 @@ El Consejo de Protección a la Industria de Molinos para Nixtamal y sus Derivado
 
 Para que las opiniones del Consejo de Protección a la Industria de Molinos para Nixtamal y sus Derivados sean tomadas en consideración, deberán ser suscritas por la mayoría de sus miembros.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
+
 ###### ARTÍCULO 18.
 
-Se les cancelará la licencia a los propietarios de molinos para nixtamal, expendios de masa y tortillerías, que sin causa justificada suspendan sus servicios para más de veinte días. Si la suspensión obedece a causas de fuerza mayor debidamente justificadas ante la Presidencia Municipal, se entenderá que la suspensión se prorrogará por todo el tiempo que subsistan dichas causas, y la hará del conocimiento del Consejo de Protección a la Industria de Molinos para Nixtamal y sus Derivados. En ambas circunstancias el propietario continuará cubriendo regularmente sus impuestos.
+Se cancelará la licencia de los negocios a que se refiere esta Ley, cuando sin causa justificada suspendan su servicio para más de veinte días. Si la suspensión obedece a causas de fuerza mayor, a juicio de la Presidencia Municipal, se prorrogará la misma por el tiempo que subsistan dichas causas, haciéndose del conocimiento del consejo de protección a la Industria de Molinos para Nixtamal y sus Derivados.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
 
 ###### ARTÍCULO 19.
 
-Los propietarios de molinos para nixtamal, expendios de masa y tortillerías, están obligados a comunicar por escrito a la Presidencia Municipal de su ubicación, con diez días de anticipación, la clausura de su establecimiento, la que a su vez lo hará del conocimiento del Consejo de Protección a la Industria de Molinos para Nixtamal y sus Derivados.
+Los propietarios o encargados de los negocios que rige esta Ley, comunicarán por escrito a la Presidencia Municipal respectiva, con diez días de anticipación, la clausura de sus establecimientos, con copia para el Consejo de Protección a la Industria de Molinos para Nixtamal y sus Derivados.
 
 ###### ARTÍCULO 20.
 
 Los precios de la maquila, masa y tortillas, serán fijados precisamente en un lugar adecuado y visible al público.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
+
 ###### ARTÍCULO 21.
 
-El horario que regirá a los molinos para nixtamal, expendios de masa y tortillerías será el siguiente:
+Los establecimientos anteriores se sujetarán al siguiente horario: los Molinos para Nixtamal en la Capital y Cabeceras Mpales. del Estado, de las 4 a las 8 horas y de las 9:30 a las 13 horas; y las Fábricas de Tortillas y Tortillerías de las 6 a las 10 horas y de las 11 a las 15 horas. En las demás poblaciones el horario será fijado por la Presidencia Municipal tomando en cuenta las necesidades del lugar.
 
-a) En la capital del Estado, los expendios de masa y los molinos dedicados a maquila y venta de masa, prestarán sus servicios al público, de las cuatro a los ocho horas y de las nueve y media a las trece horas.
-
-b) En los demás Municipios el horario será fijado de acuerdo con las necesidades propias de cada región.
-
-c) Las tortillerías prestarán sus servicios al público de las cinco a las veintiuna horas.
-
-d) En los demás Municipios, el horario será fijado de acuerdo con las necesidades propias de cada región.
+El Ayuntamiento respectivo podrá variar este horario tomando en consideración el interés social y la opinión de la Delegación de la Cámara Nacional de la Industria de Producción de Masa en el Estado.
 
 ###### ARTÍCULO 22.
 
 El día inmediato anterior al 21 de Marzo, 1o. de Mayo, 16 de Septiembre, 20 de Noviembre y 25 de Diciembre, que son considerados días de descanso obligatorio por la Ley Federal del Trabajo, los molinos para nixtamal, expendios de masa y tortillerías laborarán y prestarán servicio al público de las 4 a las 16 horas.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
+
 ###### ARTÍCULO 23.
 
-Los molinos para nixtamal, expendios de masa y tortillerías que se establezcan sin autorización de las autoridades o con violación de cualesquiera de los preceptos de esta Ley, serán clausurados sin perjuicio de exigir al infractor la responsabilidad en que haya incurrido.
+Los negocios a que se refiere esta Ley, que funcionen sin autorización de la Autoridad Mpal. o en contravención de cualquiera de los requisitos previstos en este Ordenamiento, serán clausurados sin perjuicio de exigir al infractor la responsabilidad en que haya incurrido.
 
 ###### ARTÍCULO 24.
 
 Todas las transacciones que se verifiquen por maquila, venta de masa y tortillerías, deberán sujetarse al sistema oficial de pesas y medidas.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1961)</small>
+
 ###### ARTÍCULO 25.
 
-Los propietarios de molinos para nixtamal, expendios de masa y tortillerías, fijarán un ejemplar de la presente Ley en un lugar visible de sus establecimientos y en cuanto a la documentación a que se refiere el artículo 3º será exhibida por los propietarios de molinos para nixtamal al requerirlo la Autoridad o los Inspectores.
+Los propietarios o encargados de estos establecimientos, fijarán en lugar visible de los mismos, la constancia de los servicios Coordinados de Salubridad y Asistencia en el Estado y la licencia otorgada por la Presidencia Municipal.
 
 TRANSITORIOS:
 
@@ -214,3 +224,9 @@ JOSE LIMON GUZMAN.- Rúbrica.
 EL SECRETARIO GRAL. DE GOBIERNO
 
 Lic. MIGUEL DURÁN PÉREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE JULIO DE 1961.
+
+ÚNICO.- Los molinos para nixtamal, fábricas de tortillas, tortillerías, expendios de masa o de tortillas, que a la fecha estén funcionando, deberán sujetarse a lo previsto en el presente Decreto en un plazo de treinta días hábiles, a partir del siguiente en que sea publicado en el Periódico Oficial del Estado.
