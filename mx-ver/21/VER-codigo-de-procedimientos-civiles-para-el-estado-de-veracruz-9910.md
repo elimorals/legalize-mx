@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1992-02-01"
+last_updated: "1995-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 1995.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -379,7 +379,9 @@ II.- El auxilio de la fuerza pública;
 
 III.- El cateo por orden escrita; y
 
-IV.- La privación de libertad hasta por quince días.
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 1995)</small>
+
+IV.- La privación de la libertad hasta por treinta y seis horas.
 
 Si el caso exige mayor sanción se dará parte a la autoridad competente.
 
@@ -1985,11 +1987,11 @@ ARTICULO 281
 
 Los que tengan conocimiento de los hechos que las partes quieran probar, están obligados a declarar como testigos. No podrán pasar de tres por cada hecho que exija distinto interrogatorio.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE NOVIEMBRE DE 1995)</small>
 
 ARTICULO 282
 
-Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta quince días o multa hasta por el equivalente a treinta días del salario mínimo general vigente en la capital del Estado durante el mes de enero del año de que se trate, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa por el equivalente de treinta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año de que se trate, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -5544,6 +5546,16 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 ###### ARTICULO TERCERO.
 
 En los Distritos Judiciales donde no se hayan creado los Juzgados de lo Familiar, conocerán de esta materia, los Jueces de Primera Instancia de lo Civil o Mixtos. Los asuntos familiares que se hayan promovido a la fecha en que inicien sus funciones los Juzgados Familiares, continuarán conociendo de ellos los Juzgados donde estén radicados.
+
+G.O. 21 DE NOVIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del estado de Veracruz-Llave.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
