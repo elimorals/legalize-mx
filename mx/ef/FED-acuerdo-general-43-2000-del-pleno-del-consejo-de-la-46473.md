@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-43-2000-del-pleno-del-consejo-de-la-46473"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-08-09"
-last_updated: "2000-08-09"
+last_updated: "2000-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46473&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-08-02"
 
 ACUERDO GENERAL 43/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINA LA CREACION DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS, OBRAS Y SERVICIOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 75/2000, PUBLICADO EN EL D.O.F. EL 17 DE NOVIEMBRE DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de agosto de 2000.
 
@@ -202,3 +204,25 @@ PRIMERO.- El presente Acuerdo entrará en vigor en la fecha de su aprobación y 
 SEGUNDO.- Se derogan en lo conducente, los acuerdos emitidos por el Consejo de la Judicatura Federal que se opongan a las disposiciones del presente Acuerdo.
 
 EL LICENCIADO ARTURO ITURBE RIVAS, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 43/2000, por el que se determina la creación del Comité de Adquisiciones, Arrendamientos, Obras y Servicios del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de dos de agosto de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a dos de agosto de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el dos de enero de dos mil uno, debiéndose publicar previamente en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO.- Se abrogan los Acuerdos Generales 32/1998 y 43/2000, publicados respectivamente, en el Diario Oficial de la Federación, el dieciocho de septiembre de mil novecientos noventa y ocho y el nueve de agosto de dos mil.
+
+Se derogan los demás acuerdos emitidos por el Consejo de la Judicatura Federal que se opongan a lo dispuesto en el presente Acuerdo General.
+
+TERCERO.- Las áreas operativas correspondientes propondrán al Comité, por conducto del Secretario Ejecutivo de Administración, la actualización de los instrumentos normativos que se hayan expedido con motivo del Acuerdo General 32/1998, que se abroga, dentro de un plazo que no excederá los treinta días naturales contados a partir de la entrada en vigor del presente Acuerdo.
+
+CUARTO.- Hasta en tanto se fusionen las Direcciones Generales de Recursos Materiales y Servicios Generales y de Inmuebles y Mantenimiento, según se estableció en el Acuerdo General 5/2000, del Pleno del Consejo de la Judicatura Federal, publicado en el Diario Oficial de la Federación el dieciséis de febrero de dos mil, la Dirección General de Inmuebles y Mantenimiento continuará realizando sus funciones conforme a las atribuciones que tiene conferidas en el Acuerdo General 48/1998 del propio Pleno del Consejo.
+
+La referencia que en el presente Acuerdo General se hace de la Dirección General de Recursos Materiales y Servicios Generales, se entenderá que se trata, según sea el caso, de la propia Dirección o de la Dirección General de Inmuebles y Mantenimiento.
+
+QUINTO.- El ejercicio de las atribuciones que se confieren a Administración Regional en los términos del presente Acuerdo, quedará sujeto a que el Consejo así lo determine, por haber concluido el proceso de fortalecimiento de sus estructuras y la desconcentración de facultades en su favor, por lo que serán las Direcciones Generales de Recursos Materiales y Servicios Generales e Inmuebles y Mantenimiento, las que continuarán ejerciéndolas hasta que se actualice el supuesto señalado.
+
+SEXTO.- La Contraloría del Poder Judicial de la Federación deberá establecer o actualizar, en su caso, las medidas necesarias para contar con los sistemas de información que le permitan conocer a las personas físicas o morales que se encuentran impedidas para celebrar contratos con el Consejo de la Judicatura Federal, por encontrarse en alguno de los supuestos establecidos en el presente Acuerdo.
+
+SEPTIMO.- Los procedimientos de adjudicación en la materia objeto del presente Acuerdo que hayan iniciado con anterioridad a su entrada en vigor, se regirán por la normatividad que se venía aplicando, salvo aquellos en que la Comisión de Administración determine lo contrario, salvaguardándose en todo caso los derechos que correspondan.
