@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1997-12-29"
+last_updated: "1998-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -83,15 +83,13 @@ Las contribuciones se clasifican en impuestos, derechos y contribuciones especia
 
 I.- Impuestos son las prestaciones establecidas en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Derechos son las contribuciones establecidas en Ley por recibir servicios que presta el Estado en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes de dominio público del Estado.
+II.- Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público.
 
 III.- Contribuciones especiales son las prestaciones cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de tareas estatales o municipales provocadas por las actividades del contribuyente. Su rendimiento no debe tener un destino ajeno al financiamiento de las obras o actividades correspondientes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-Cuando sean organismos descentralizados quienes presten los servicios u otorgue el uso o aprovechamiento de los bienes señalados en la fracción II del mismo, las contribuciones correspondientes tendrán la naturaleza de derechos.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -285,15 +283,21 @@ Se considerará empresa la persona física o moral que realice las actividades a
 
 Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 18 Bis.
 
-El monto de las contribuciones o de las devoluciones a cargo del fisco se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones y en su caso el monto de las devoluciones no se actualizarán por fracciones de mes.
+El monto de las contribuciones, los aprovechamientos o de las devoluciones a cargo del fisco se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones, los aprovechamientos y en su caso el monto de las devoluciones, no se actualizarán por fracciones de mes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en las declaraciones mensuales, no será deducible ni acreditable.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Para los efectos de este artículo se aplicará el Indice Nacional de Precios al Consumidor, calculado por el Banco de México, que se publica en el Diario Oficial de la Federación.
 
@@ -337,9 +341,9 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará de acuerdo al valor en que se haya adquirido ésta y de no haber existido tal adquisición, conforme al valor que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados únicamente se aceptarán cuando así lo autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente, al procedimiento de remate previsto en el presente Código.
+Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán cuando exista identidad entre el titular del crédito fiscal y el de la forma de pago, y en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
@@ -355,11 +359,11 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pesos, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 22.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago hasta que el mismo se efectúe; además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -429,6 +433,18 @@ II.- Las personas que estén obligadas a efectuar pagos provisionales por cuenta
 
 III.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión. No será aplicable lo dispuesto en esta fracción, cuando la sociedad en liquidación garantice el interés fiscal por las contribuciones mencionadas en los términos del Artículo 12 de este Código.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la sociedad que dirigen, cuando dicha sociedad incurra en cualesquiera de los siguientes supuestos:
+
+A).- No solicite su inscripción en el registro estatal de contribuyentes.
+
+B).- Cambie su domicilio sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+
+C).- No lleve contabilidad o la lleve en forma incompleta, la oculte o la destruya, parcial o totalmente.
+
+D).- No cubra los créditos fiscales dentro de los términos legales, tratándose de sociedades que no tengan las obligaciones a que se refieren los incisos A), B) y C), respecto del crédito que se adeuda.
+
 IV.- Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
 
 V.- Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades en el Estado, por las que deban pagarse contribuciones hasta por el monto de dichas contribuciones.
@@ -441,7 +457,13 @@ VIII.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
 
 IX.- Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
 
-La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+X.- Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capitales transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
 
 ###### ARTICULO 28.
 
@@ -1469,7 +1491,7 @@ I.- El de revocación.
 
 II.- El de oposición al procedimiento administrativo de ejecución.
 
-III.- El de nulidad de notificaciones.
+III.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 116.
 
@@ -1489,9 +1511,11 @@ II.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegu
 
 III.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 127 de este código.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 118.
 
-El recurso de nulidad de notificaciones procederá en contra de las que se hagan en contravención de las disposiciones legales.
+La impugnación de notificaciones se hará valer mediante la interposición de los recursos administrativos previstos en el artículo 115 de este Código y de conformidad con lo dispuesto en el artículo 128.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1551,11 +1575,31 @@ I.- Que no afecten el interés jurídico del recurrente.
 
 II.- Que sean resoluciones dictadas en recursos administrativos o en cumplimiento de éstos o de sentencias.
 
-III.- Que hayan sido impugnados ante el juzgado fiscal del Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+III.- Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado.
 
 IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
 
 V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+VI.- Si son revocados los actos por la autoridad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 123 Bis.
+
+Procede el sobreseimiento del recurso en los casos siguientes:
+
+I.- Cuando el promovente se desista expresamente de su recurso.
+
+II.- Cuando durante el procedimiento en que se substancie el recurso administrativo, sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 123 de este Código.
+
+III.- Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución impugnada.
+
+IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 #### SECCION SEGUNDA. Del Recurso de Revocación
 
@@ -1581,17 +1625,29 @@ Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria
 
 El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera del remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
 
-#### SECCION CUARTA. Del Recurso de Nulidad de Notificaciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+#### SECCION CUARTA. De la Impugnación de Notificaciones
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 128.
 
-La interposición del recurso de nulidad de notificaciones suspenderá los plazos para el ejercicio tanto de las facultades de las autoridades fiscales, como de los derechos de los particulares, hasta en tanto se resuelva el recurso.
+Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme a los artículos 116 y 117, se estará a las reglas siguientes:
 
-La declaratoria de nulidad de la notificación, traerá como consecuencia la nulidad de las actuaciones hechas con base en la notificación anulada y que tengan relación con ella.
+I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
-En tanto se resuelve este recurso, quedará en suspenso el término legal para impugnar la resolución de fondo.
+En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
 
-Cuando ya se haya iniciado juicio contencioso, será improcedente este recurso y se hará valer mediante ampliación de la demanda respectiva.
+II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
+
+El particular tendrá un plazo de 30 días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+
+III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
+
+A).- Si resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado con base en aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
+
+B).- Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
 
 #### SECCION QUINTA. Del Trámite y Resolución de los Recursos
 
@@ -1671,6 +1727,10 @@ Toda notificación personal, realizada con quien deba entenderse, será legalmen
 
 Las notificaciones personales por correo certificado con acuse de recibo, podrán realizarse aún cuando el domicilio del contribuyente se encuentre fuera de la circunscripción territorial de la autoridad.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Tratándose de procedimientos instaurados por las Autoridades Fiscales de los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, cuando el domicilio del interesado se encuentre en cualesquiera de los citados Municipios, la diligencia se practicará directamente por la Autoridad Instructora. En los demás casos, tratándose del resto de los municipios del Estado, las diligencias se practicarán vía exhorto, y en el caso de Municipios de otro Estado, el exhorto se remitirá previa certificación de firmas por parte de la Secretaría General de Gobierno.
+
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 136.
@@ -1712,6 +1772,10 @@ V.- Embargo en la vía administrativa.
 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes y así sucesivamente.
 
 La Secretaría de Finanzas y Tesorería General del Estado vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Para garantizar el interés fiscal en cualesquiera de las formas a que se refiere este artículo, se requerirá autorización de la Secretaría de Finanzas y Tesorería General del Estado, previo el cumplimiento de los requisitos que señale la propia Secretaría.
 
 ###### ARTICULO 140.
 
@@ -1795,7 +1859,9 @@ Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a l
 
 Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, tratándose de adeudos provenientes de créditos fiscales sobre bienes inmuebles, el requerimiento se hará a quien aparezca como propietario o detentador del mismo.
 
-Si el contribuyente no cubre lo que se le reclama y sus accesorios legales dentro de los cinco días siguientes a que se le haya requerido para ello, se procederá como sigue:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Si el contribuyente no cubre lo que se le reclama y sus accesorios legales en el acto del requerimiento, se procederá como sigue:
 
 I.- A embargar bienes suficientes para, en su caso, rematarlos enajenarlos fuera de subasta o adjudicarlos en favor del fisco.
 
@@ -1838,6 +1904,10 @@ II.- Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créd
 III.- Bienes muebles no comprendidos en las fracciones anteriores.
 
 IV.- Bienes inmuebles.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+La persona con quien se entienda la diligencia de embargo, podrá designar dos testigos y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
 
 ###### ARTICULO 151.
 
@@ -2580,3 +2650,9 @@ P.O. 29 DE DICIEMBRE DE 1997.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día primero de Enero de 1998.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 1o. de Enero de 1999.
