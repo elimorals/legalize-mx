@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-a-victimas-de-delitos-para-el-estado-de-12487
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-16"
-last_updated: "1998-10-16"
+last_updated: "1999-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROTECCION A VICTIMAS DE DELITOS PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 16 de octubre de 1998.
 
@@ -133,7 +133,9 @@ Las víctimas u ofendidos por algún delito tendrán derecho a:
 
 I.- Recibir asesoría jurídica gratuita, cuando no cuenten con abogado particular;
 
-II.- Coadyuvar con el Ministerio Público en el procedimiento penal, para lograr la acreditación de los elementos del tipo penal, la responsabilidad del inculpado y la reparación del daño;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+II.- Coadyuvar con el Ministerio Público en el procedimiento penal, para lograr la acreditación del cuerpo del delito, la comprobación de la existencia del delito y la probable o plena responsabilidad del indiciado, según el caso, así como la reparación del daño;
 
 III.- Recibir atención médica y psicológica de urgencia, así como después de cometido el delito cuando careciere de recursos para obtenerlo y carezca de acceso a los servicios de seguridad social;
 
@@ -276,3 +278,11 @@ RENATO VEGA ALVARADO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN LUIS TORRES VEGA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JULIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado d Sinaloa".
