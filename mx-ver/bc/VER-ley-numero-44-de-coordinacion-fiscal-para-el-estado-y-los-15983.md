@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2002-12-25"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ-LLAVE
+LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -37,7 +37,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 "La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68, fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ-LLAVE.
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -59,13 +61,19 @@ V. Regular los procedimientos que permitan cubrir oportunamente las obligaciones
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Ley: La Ley de Coordinación Fiscal para el Estado y los Municipios de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+I. Ley: La Ley de Coordinación Fiscal para el Estado y los Municipios de Veracruz de Ignacio de la Llave;
 
 II. Municipio o municipios: El o los municipios que se encuentran dentro del territorio de la entidad;
 
-III. Legislatura: La H. Legislatura del Estado de Veracruz-Llave, y
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
-IV. Secretaría: La Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz-Llave.
+III. Legislatura: La H. Legislatura del Estado de Veracruz de Ignacio de la Llave, y
+
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+IV. Secretaría: La Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 3.
 
@@ -143,7 +151,7 @@ d) Población que habita en viviendas particulares sin disponibilidad de electri
 
 Para calcular las participaciones que conforme al Índice Municipal de Pobreza (IMP) correspondan a cada municipio se desarrollará la siguiente fórmula:
 
-IMP¡= Ri1B1+Ri2B2+Ri3B3+Ri4B4
+IMP¡= Ri1B1+R12B2+R13B3+R14B4
 
 Donde:
 
@@ -824,3 +832,21 @@ G.O. 3 DE ENERO DE 2002.
 G.O. 25 DE DICIEMBRE DE 2002.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
