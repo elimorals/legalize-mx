@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "1997-09-17"
+last_updated: "1999-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -2923,9 +2923,13 @@ REPRESENTACION DEL PATRIMONIO FAMILIAR. Los beneficiarios de los bienes afectos 
 
 El representante tendrá también la administración de dichos bienes.
 
+> <small>(REFORMADO P.O. 3 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 445.
 
-VALOR MAXIMO DEL PATRIMONIO FAMILIAR. El valor máximo de los bienes afectados al patrimonio de familia, será la cantidad que resulte de multiplicar por tres mil seiscientos cincuenta el importe del salario mínimo general diario vigente en el Estado en la época en que se constituya el patrimonio.
+El valor máximo de los bienes afectados al patrimonio de familia será la cantidad que resulte de multiplicar por 17,000 el importe de salario mínimo general diario vigente en el Estado, en la época en que se constituya el patrimonio. La revisión y actualización del patrimonio familiar deberá hacerse en un término de tres años.
+
+Los bienes que hayan quedado afectos al patrimonio de familia gozarán de los privilegios que establece este capítulo, aún cuando aumenten de valor por el solo transcurso del tiempo o por mejoras útiles o necesarias.
 
 ###### ARTICULO 446.
 
@@ -2942,6 +2946,10 @@ III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio.
 IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes fuera de las servidumbres; y
 
 V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo anterior, según avalúo que al efecto se practique.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1999)</small>
+
+Las anotaciones e inscripciones que hagan las oficinas del Registro Público de la Propiedad y del Comercio con motivo del patrimonio familiar serán hechas sin costo alguno para los interesados.
 
 ###### ARTICULO 447.
 
@@ -15184,3 +15192,17 @@ Las presentes reformas y adiciones, no se aplicarán a los contratos celebrados 
 ###### ARTICULO TERCERO.
 
 Remítase al Titular del Poder Ejecutivo del Estado, para los efectos a que se refiere el artículo 47 de la Constitución Política del Estado.
+
+P.O. 3 DE FEBRERO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El patrimonio familiar constituido formalmente con anterioridad a la entrada en vigor del presente decreto podrá adecuarse en los términos señalados por el mismo.
+
+###### ARTICULO TERCERO.
+
+Aprobado que sea el presente decreto, túrnese al Titular del Poder Ejecutivo para los efectos de los artículos 44 y 70 fracción XVII de la Constitución Política del Estado de Morelos.
