@@ -4,7 +4,7 @@ identifier: "YUC-ley-ganadera-del-estado-de-yucatan-8244"
 country: "mx"
 rank: "ley"
 publication_date: "1972-10-16"
-last_updated: "1993-04-23"
+last_updated: "2004-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GANADERA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2004.
 
 Ley publicada en el Diario Oficial el Lunes 16 de Octubre de 1972.
 
@@ -53,7 +53,9 @@ Se declaran de interés público la organización, fomento, mejoramiento, desarr
 
 Para los efectos de esta Ley se entienden por actividades pecuarias: la cría, reproducción, mejoramiento y explotación de especies animales, así como el aprovechamiento de sus productos y subproductos.
 
-Las especies animales a que esta Ley se refiere son, entre otras: ganado bovino, equino, caprino, ovino y porcino; conejos, aves de corral, palmípedas y abejas. El término genérico que se usa en esta Ley para designar a las personas físicas y morales que se dediquen al aprovechamiento de estas especies, es el de ganadero.
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
+
+Las especies animales a que esta Ley se refiere son, entre otras: ganado bovino, equino, caprino, ovino y porcino; conejos, aves de corral y palmípedas. El término genérico que se usa en esta Ley para designar a las personas físicas y morales que se dediquen al aprovechamiento de estas especies, es el de ganadero.
 
 ###### ARTICULO 4.
 
@@ -87,7 +89,9 @@ V.- Las autoridades judiciales.
 
 Dichas autoridades tendrán las facultades y atribuciones previstas en la presente Ley.
 
-Se consideran auxiliares de dichas autoridades las Asociaciones Locales y Uniones Regionales de Ganaderos, Avicultores y Apicultores.
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
+
+Se consideran auxiliares de dichas autoridades las Asociaciones Locales y Uniones Regionales de Ganaderos y Avicultores.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE ABRIL DE 1993)</small>
 
@@ -141,15 +145,17 @@ XXI.- Expedir las credenciales de registro para los ganaderos en el Estado, las 
 
 XXII.- Llevar el registro de las Uniones Regionales y de las Asociaciones Ganaderas Locales y grupos ejidales.
 
-XXIII.- Llevar el Registro de Asociaciones, Uniones o grupos de porcicultores, avicultores y apicultores.
+> <small>(REFORMADA, D.O. 6 DE JULIO DE 2004)</small>
+
+XXIII.- Llevar el Registro de Asociaciones, Uniones o grupos de porcicultores y avicultores.
 
 XXIV.- Llevar al corriente los libros: "Registro General Ganadero", "Registro General de Marcas, Fierros y Señales", "Registro de Animales Pura Sangre", "Registro de Sementales del Estado o de los Ayuntamientos" y demás libros requeridos por esta Ley y sus Reglamentos.
 
 XXV.- Publicar y distribuir en todo el Estado las marcas, fierros y señales registradas y las que en el futuro se registren o cambien.
 
-XXVI.- Promover y encauzar investigaciones y adoptar medidas para el mejoramiento de la apicultura y la calidad de la miel.
+XXVI.- (DEROGADA, D.O. 6 DE JULIO DE 2004)
 
-XXVII.- Vigilar el almacenamiento, maquila, refinamiento o purificación de la miel.
+XXVII.- (DEROGADA, D.O. 6 DE JULIO DE 2004)
 
 XXVIII.- Organizar y fomentar la avicultura en el Estado.
 
@@ -159,7 +165,9 @@ XXX.- Autorizar el funcionamiento de establos para la producción lechera cuando
 
 XXXI.- Vigilar la pasteurización de la leche que se consuma en el Estado, a fin de preservar la salud pública.
 
-XXXII.- Organizar ferias, exposiciones, concursos y demás eventos para dar a conocer dentro y fuera del Estado los productos de la ganadería, avicultura y apicultura.
+> <small>(REFORMADA, D.O. 6 DE JULIO DE 2004)</small>
+
+XXXII.- Organizar ferias, exposiciones, concursos y demás eventos para dar a conocer dentro y fuera del Estado los productos de la ganadería y avicultura.
 
 XXXIII.- Las demás atribuciones y obligaciones conferidas por esta Ley y sus Reglamentos.
 
@@ -235,9 +243,9 @@ XII.- Hacer investigaciones inmediatas respecto a casos de abigeato, en auxilio 
 
 XIII.- Vigilar el estricto cumplimiento de esta ley, dando cuenta inmediatamente a las autoridades competentes de las irregularidades que observen y las infracciones que se cometan.
 
-XIV.- Inspeccionar los colmenares en el lugar donde se encuentren, así como las bodegas, plantas de maquila, de refinamiento o purificación de los productos apícolas.
+XIV.- (DEROGADA, D.O. 6 DE JULIO DE 2004)
 
-XV.- Revisar la documentación de los productos apícolas en tránsito y de aquellos que vayan a ser movilizados fuera del Estado, comprobando su origen, marca, propiedad y pago de impuestos.
+XV.- (DEROGADA, D.O. 6 DE JULIO DE 2004)
 
 XVI.- Ejecutar las instrucciones que reciba del Ejecutivo y cumplir con esta Ley y sus Reglamentos.
 
@@ -311,11 +319,11 @@ El Gobierno del Estado podrá en cualquier tiempo retener los subsidios otorgado
 
 La Secretaría de Desarrollo Rural llevará un registro de las personas físicas o morales que directa o indirecta, permanente o transitoriamente, se dediquen a la cría, reproducción, mejoramiento o explotación de especies animales; y de quienes comercien, transporten, industrialicen o transformen sus productos y subproductos.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 18.
 
-Los ganaderos están obligados a manifestar por escrito el inicio de sus actividades pecuarias al Ayuntamiento de la jurisdicción en que tengan su negociación. En dicha manifestación se especificará el nombre y datos generales del ganadero, nombre y ubicación del predio que ocupe su negocio, fierro y marca de sangre de su uso, clase de explotación a que se dedique o se dedicará, y número y especie de sus animales o apiarios de su propiedad. Asimismo, expresará el número de la credencial y del registro que le corresponda de la Asociación Ganadera Local a que pertenezca. La manifestación deberá presentarse por sextuplicado, y una vez sellada por el Ayuntamiento será distribuida en la forma siguiente: original para el Ayuntamiento; dos copias a la Secretaría de Desarrollo Rural; una copia a la Unión Ganadera Regional a que pertenezca; una copia a la Asociación Ganadera Local a que pertenezca: una copia para el interesado.
+Los ganaderos están obligados a manifestar por escrito el inicio de sus actividades pecuarias al Ayuntamiento de la jurisdicción en que tengan su negociación. En dicha manifestación se especificará el nombre y datos generales del ganadero, nombre y ubicación del predio que ocupe su negocio, fierro y marca de sangre de su uso, clase de explotación a que se dedique o se dedicará, y número y especie de sus animales de su propiedad. Asimismo, expresará el número de la credencial y del registro que le corresponda de la Asociación Ganadera Local a que pertenezca. La manifestación deberá presentarse por sextuplicado, y una vez sellada por el Ayuntamiento será distribuida en la forma siguiente: original para el Ayuntamiento; dos copias a la Secretaría de Desarrollo Rural y Pesca; una copia a la Unión Ganadera Regional a que pertenezca; una copia a la Asociación Ganadera Local a que pertenezca; una copia para el interesado.
 
 > <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
@@ -433,7 +441,7 @@ a) Con el fierro criador o la marea de herrar, registrados conforme lo estableci
 
 b) Con la señal de sangre, para el ganado mayor o menor.
 
-c) Con las marcas con hierro candente que se pongan en costados de las cajas de abejas.
+c) (DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 d) Con el bozal o marca que se pone al ganado, en la paleta, en su primer año.
 
@@ -625,13 +633,17 @@ El producto del remate de los animales mostrencos, deducidos de los gastos, se d
 
 ### CAPITULO I
 
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 62.
 
-El Ejecutivo organizará periódicamente concursos de ejemplares y productos de ganadería, avicultura y apicultura, para estimular a los productores y apreciar el progreso conseguido en la organización de la explotación y mejoramiento de las especies pecuarias.
+El Ejecutivo organizará periódicamente concursos de ejemplares y productos de ganadería y avicultura, para estimular a los productores y apreciar el progreso conseguido en la organización de la explotación y mejoramiento de las especies pecuarias.
+
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 63.
 
-El propio Ejecutivo fomentará la realización de exposiciones ganaderas, avícolas y apícolas regionales, estatales e interestatales, en el lugar y época que juzgue pertinente, concediendo franquicias y premios que estimulen a los expositores.
+El propio Ejecutivo fomentará la realización de exposiciones ganaderas y avícolas regionales, estatales e interestatales, en el lugar y época que juzgue pertinente, concediendo franquicias y premios que estimulen a los expositores.
 
 ###### ARTICULO 64.
 
@@ -1031,9 +1043,11 @@ El Ejecutivo del Estado regulará la salida de ganado al mercado nacional o extr
 
 Las Uniones Regionales Ganaderas colaborarán con las autoridades competentes en la solución de los problemas originados por la escasez de ganado que se destine al consumo humano.
 
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 114.
 
-Las Uniones Regionales Ganaderas, Asociaciones Ganaderas Locales y Asociaciones de Avicultores y Apicultores colaborarán con el Ejecutivo del Estado en las medidas que se tomen para regularizar los precios de las especies pecuarias y evitar especulaciones perjudiciales a la economía del Estado y al consumo popular. Asimismo, colaborarán en las medidas que se dicten para evitar intermediarios innecesarios que traigan como consecuencia el encarecimiento de los productos y subproductos pecuarios.
+Las Uniones Regionales Ganaderas, Asociaciones Ganaderas Locales y Asociaciones de Avicultores colaborarán con el Ejecutivo del Estado en las medidas que se tomen para regularizar los precios de las especies pecuarias y evitar especulaciones perjudiciales a la economía del Estado y al consumo popular. Asimismo, colaborarán en las medidas que se dicten para evitar intermediarios innecesarios que traigan como consecuencia el encarecimiento de los productos y subproductos pecuarios.
 
 ### CAPITULO II. Del sacrificio de ganado
 
@@ -1209,113 +1223,73 @@ II.- Proporcionar ayuda y protección a sus asociados para obtener a bajo precio
 
 III.- Asesorar a sus miembros sobre la mejor forma de incrementar su productividad.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 6 DE JULIO DE 2004)</small>
+
 ### CAPITULO II. De la apicultura
 
 ###### ARTICULO 149.
 
-Para los efectos de esta Ley, se considerarán actividades apícolas las relativas a la producción, explotación, decantación y semi-industrialización de los productos derivados de la apicultura, así como su envase, conservación, empaque y presentación.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 150.
 
-Se considera apicultor a la persona que se dedique a la producción de miel de abeja y posea más de cinco colonias.
-
-Se considera decantador a quien se dedique a la purificación, refinación o exportación de miel de abeja.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 151.
 
-Todos los apicultores están obligados a inscribirse en la Dirección General de Ganadería y en el ayuntamiento del municipio donde se localice su apiario. Los que tengan varios apiarios, deberán registrar cada uno de ellos. Se utilizarán las formas que autorice la Dirección General de Ganadería, las que deberán expresar la filiación del interesado, número total de colmenares que posea, número de colmenas de cada colmenar, ubicación de éstos y su distancia de la población más próxima.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 152.
 
-Los apicultores del Estado deberán organizarse en Asociaciones Locales y de acuerdo con la Ley de Asociaciones Ganaderas y su Reglamento, afiliarse a la Unión Regional Ganadera que corresponda.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 153.
 
-Las Asociaciones de Apicultores tendrán las siguientes atribuciones:
-
-a)- Pugnar por el mejoramiento y desarrollo de la apicultura.
-
-b)- Pugnar por la implantación de métodos técnicos más adecuados que permitan organizar y orientar la producción, a fin de aumentarla y mejorarla.
-
-c)- Hacer una distribución conveniente para el abastecimiento de los mercados, local, nacional y extranjero.
-
-d)- Organizarse económicamente para que los productores obtengan, por sus productos, un precio remunerador.
-
-e)- Encauzar y satisfacer, dentro de sus posibilidades, las necesidades de crédito de los asociados y darles, en su caso, facilidades para que obtengan esos créditos de otras instituciones.
-
-f)- Ayudar a combatir las plagas y pestes que afecten a la apicultura.
-
-g)- Coadyuvar con el Instituto Apícola de Yucatán a efecto de que continúe su labor de planeación e investigación.
-
-h- Proporcionar a las dependencias oficiales todos los datos que le sean requeridos.
-
-i- Representar ante las autoridades administrativas y judiciales y ante las personas físicas y morales los intereses gremiales de los asociados.
-
-j)- Respetar y cumplir los acuerdos del Consejo Apícola.
-
-k)- Auxiliar a la Dirección General de Ganadería en todos los casos en que para ello fueren requeridos.
-
-l)- Actuar en colaboración con las autoridades competentes para vigilar el cumplimiento de esta Ley en el área de su jurisdicción.
-
-m)- Promover en general las medidas mas adecuadas para la protección y defensa de sus intereses, de los de sus asociados y de la apicultura en general.
-
-n)- Las demás que le confiere esta Ley y que fueren aplicables.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 154.
 
-La propiedad de los apiarios se acreditará en el Estado:
-
-a)- Con documentos fehacientes, conforme a derecho, según la naturaleza del acto o contrato que acredite la transferencia de dominio en favor de quien se ostente como propietario.
-
-b)- Con el Registro correspondiente en la Dirección General de Ganadería y en los ayuntamientos de los municipios respectivos.
-
-c)- Con las marcas registradas como se ordena en Artículo 18o. de la presente Ley, debidamente registradas ante la Dirección General de Ganadería y ante el ayuntamiento del municipio donde se localicen sus apiarios.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 155.
 
-La inspección de colmenares y sus productos, instalaciones y predios donde se ubiquen, será obligatoria para los propietarios, poseedores, arrendatarios o encargados de los bienes objeto de la inspección.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 156.
 
-La inspección tendrá lugar:
-
-a)- En el lugar de asiento de los colmenares.
-
-b)- En el producto que esté en tránsito.
-
-c)- En las bodegas, plantas decantadoras, de refinamiento o purificación.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 157.
 
-Se declara de interés público la instalación de colmenares a distancias prudentes unos de otros para evitar que la proximidad o saturación excesiva dentro de una zona determinada, ocasione los perjuicios provenientes de una población excesiva.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 158.
 
-No deben instalarse apiarios de sesenta colmenares a menos de tres kilómetros de distancia entre sí. Solamente el estudio de la región correspondiente hecho por la Dirección General de Ganadería podrá autorizar la instalación de apiarios a distancias menores, teniendo en cuenta la extensión y capacidad floral del terreno del solicitante y de los terrenos aledaños.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 159.
 
-Para instalar un apiario será necesaria la autorización previa de la Dirección General de Ganadería. Al efecto, el interesado hará la solicitud correspondiente ante dicha Dirección, expresando el número de colmenas que tendrá el apiario, apiarios colindantes, distancia de los mismos, municipalidad donde quedará el nuevo apiario, su distancia de la cabecera o población más próxima y extensión de terrenos donde quedará ubicado el apiario. Toda solicitud deberá ser resuelta en el término de quince días, comunicando al presidente municipal este registro.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 160.
 
-La Dirección General de Ganadería hará una investigación de la vegetación apícola para determinar la riqueza de cada zona y fijará, en vista de la extensión de los terrenos, el número de colmenas que en cada zona puede instalarse.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 161.
 
-Serán clausurados los apiarios que se instalen en contravención a las disposiciones de esta Ley.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 162.
 
-Para el transporte de miel y la cera de abejas de un municipio a otro, se recabará una guía de tránsito en la presidencia municipal de su jurisdicción, previa comprobación de la legal procedencia del producto y del pago de los impuestos correspondientes.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 163.
 
-La Dirección General de Ganadería y los apicultores colaborarán con el Instituto Apícola de Yucatán, con el objeto de que éste siga dedicándose al estudio y planeación de los asuntos relacionados con la apicultura, sobre bases técnicas que permitan el fomento y mejoramiento de esta actividad pecuaria. Asimismo, continuará expidiendo los certificados de calidad de la miel de exportación.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ###### ARTICULO 164.
 
-El Consejo Apícola del Estado de Yucatán continuará funcionando como colaborador de la Dirección General de Ganadería para el fomento y protección de la apicultura, coordinando sus actividades con los diversos sectores que tengan interés en ella y especialmente para la obtención de un mejor precio para los productos apícolas.
+(DEROGADO, D.O. 6 DE JULIO DE 2004)
 
 ## TITULO OCTAVO. De las Sanciones y del Recurso Administrativo
 
@@ -1532,3 +1506,7 @@ Se actualizan los nombres de las diferentes dependencias que aparecen en los art
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 6 DE JULIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
