@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1983-01-01"
+last_updated: "1983-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -158,6 +158,10 @@ III.- El Sub-Tesorero General del Estado.
 IV.- Los Jefes de las Direcciones o Departamentos de la Tesorería.
 
 V.- Los Jefes de las Oficinas Fiscales.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+VI.- Los Tesoreros Municipales y quienes, conforme a las disposiciones municipales, tengan facultades para administrar contribuciones.
 
 ###### ARTICULO 20o.
 
@@ -1769,6 +1773,14 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 ### CAPITULO I. DEL JUICIO DE NULIDAD
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 194.
+
+Los actos de las autoridades fiscales que afecten los intereses jurídicos de los particulares son impugnables mediante el juicio de nulidad.
+
+Las resoluciones favorables a los particulares sólo podrán ser revocadas mediante juicio de nulidad que promuevan el Tesorero General del Estado o los Tesoreros Municipales.
+
 ###### ARTICULO 194o.
 
 Los actos de las autoridades fiscales que afecten los intereses jurídicos de los particulares son impugnables mediante el juicio de nulidad.
@@ -1781,7 +1793,9 @@ Las resoluciones favorables a los particulares sólo podrán ser revocadas media
 
 El juicio de nulidad procede en los siguientes casos:
 
-I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación, siempre que:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+I.- Contra las resoluciones y liquidaciones de las autoridades fiscales, estatales o municipales, que determinen la existencia de un crédito fiscal, lo fijen en cantidad liquida o den las bases para su liquidación, siempre que:
 
 1.- El crédito que se le exige se ha extinguido legalmente.
 
@@ -1793,7 +1807,9 @@ I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que dete
 
 5.- Se pretenda cobrar dos veces el mismo adeudo.
 
-II.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento indebidamente percibido por el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+II.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento percibido por el Estado o Municipio.
 
 III.- Contra la determinación o exigibilidad de un crédito fiscal por autoridad incompetente.
 
@@ -1826,6 +1842,12 @@ Concluida la audiencia de pruebas y alegatos, deberá dictarse resolución en un
 ## TITULO CUARTO. DEL PROCEDIMIENTO CONTENCIOSO JURÍDICO
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 198.
+
+Conocerá del juicio de nulidad, el Tribunal Fiscal del Estado, el que dictará sus fallos en representación del Ejecutivo del Estado o de los Ayuntamientos, pero será independiente de cualquier otra autoridad administrativa y tendrá su residencia en la capital del Estado.
 
 ###### ARTICULO 198o.
 
@@ -1885,15 +1907,25 @@ II.- El demandado. Tendrán ese carácter:
 
 a) La autoridad fiscal que dicte u ordene, ejecute o trate de ejecutar la resolución, o tramite el procedimiento impugnado, o la que legalmente la sustituya.
 
-b) El particular que tenga un interés patrimonial directo, en el caso que la Tesorería General del Estado haya solicitado la nulidad de una resolución que le haya favorecido.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-III.- El tercero, que dentro del procedimiento administrativo ante la Tesorería General o la autoridad fiscal, aparezca como titular de un derecho incompatible con el que pretenda el actor.
+b) El particular que tenga un interés patrimonial directo en el caso que la Tesorería General del Estado o la Tesorería Municipal haya solicitado la nulidad de una resolución que lo haya favorecido.
 
-IV.- La Tesorería General del Estado, aunque no sean actora ni demandada.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+III.- El tercero, que dentro del procedimiento administrativo ante la Tesorería General Estatal o la Tesorería Municipal o la autoridad fiscal, aparezca como titular de un derecho incompatible con el que pretende el actor.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+IV.- La Tesorería General del Estado o la Tesorería Municipal, dentro de sus respectivas competencias, aunque no sean actoras ni demandadas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 209.
 
-La Tesorería General del Estado estará representada por el agente hacendario que designe por medio de oficio dirigido al Tribunal Fiscal, que servirá para acreditar la personalidad del agente. El agente hacendario representará a la propia Tesorería General y a las demás autoridades fiscales que figuren como parte en los juicios de nulidad y tendrá facultades para promover demandas, para contestarlas, para rendir pruebas y para alegar.
+La Tesorería General del Estado estará representada por el Agente Hacendario que designe por medio de oficio dirigido al Tribunal Fiscal que servirá para acreditar la personalidad del Agente. El Agente Hacendario representará a la propia Tesorería General y a las demás autoridades fiscales estatales que figuren como parte en los juicios de nulidad y tendrá facultades para promover demandas, para contestarlas, para rendir pruebas y para alegar.
+
+La Tesorería Municipal estará representada por la persona que tenga facultades para hacerlo conforme a la Legislación Municipal o a quien se le otorgue el poder correspondiente.
 
 ###### ARTICULO 210.
 
@@ -2153,7 +2185,9 @@ Decretada la acumulación se integrarán los autos del juicio más reciente a lo
 
 Si la autoridad niega la suspensión del procedimiento de ejecución o rechaza la garantía ofrecida, podrá promoverse, hasta antes de notificarse la resolución que ponga fin al juicio, el incidente respectivo ante el Tribunal Fiscal del Estado.
 
-La Tesorería General del Estado podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+La Tesorería General del Estado o la Tesorería Municipal podrán promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
 
 ###### ARTICULO 242.
 
@@ -2295,7 +2329,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- ENRIQUE CARDENAS GONZALEZ.- Secretario General de Gobierno, Lic. Homero Pérez Alvarez.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE DICIEMBRE DE 1978.
 
@@ -2318,3 +2352,7 @@ TERCERO.-El presente decreto surtirá sus efectos a partir del 1º. de enero de 
 P.O. 1 DE ENERO DE 1983.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor a partir del 1o. de Enero de 1984.
