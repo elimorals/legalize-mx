@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1995-09-25"
+last_updated: "1996-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1169,7 +1169,7 @@ VII.- Las demás que señale la Ley Orgánica de la Administración Pública Mun
 
 ###### ARTICULO 86.
 
-En las poblaciones que no sean cabeceras de municipalidad, según la importancia del poblado, los Ayuntamientos correspondientes nombrarán Delegado o Subdelegados, con las facultades y obligaciones que se determinarán en la Ley Orgánica Municipal.
+En las poblaciones que no sean cabeceras de municipalidad, según la importancia del poblado, los Ayuntamientos correspondientes nombrarán Delegado o Subd-elegados (sic), con las facultades y obligaciones que se determinarán en la Ley Orgánica Municipal.
 
 ###### ARTICULO 87.
 
@@ -1281,11 +1281,11 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 ###### ARTICULO 95.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
 
-Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 El procedimiento de juicio político solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
@@ -1319,9 +1319,25 @@ III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias
 
 IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los de base.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+
+La Ley del Servicio Civil determinará cual es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 100.
 
-La Ley del Servicio Civil determinará cuál es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Estado y sus trabajadores.
+Los recursos económicos de que disponga el Gobierno del Estado y los Municipios así como sus respectivas administraciones públicas descentralizadas, se administrarán con eficiencia, eficacia y honradez, de acuerdo a las metas que estén destinados dentro de sus respectivos Presupuestos de Egresos.
+
+Las adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas y convocatorias públicas, para que se presenten libremente proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, garantías, formas de pago, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos, y demás elementos para acreditar la economía, eficiencia, eficacia y honradez que garanticen las mejores condiciones financieras, comerciales y de servicio.
+
+Respecto a los bienes muebles del Estado deben implementarse y ejercerse estrictos sistemas de control para garantizar su uso racional y esmerada conservación, así como para operar las bajas, venta, permuta o donación de los mismos, cuando por su estado físico o cualidades técnicas ya no sean útiles o funcionales. Así también, cuando se hubieren extraviado, robado, accidentado o destruido, deberá darse debido cumplimiento a las disposiciones legales que resulten aplicables.
+
+El manejo de los recursos económicos del Estado se sujetará a las bases de este Artículo.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Octavo de la Constitución Política del Estado.
 
 ###### ARTICULO 101.
 
@@ -1728,3 +1744,9 @@ SEXTO.- El Tribunal Superior de Justicia continuará encargado de los asuntos ad
 SEPTIMO.- Los derechos laborales de los Servidores Públicos del Poder Judicial del Estado, serán respetados íntegramente.
 
 OCTAVO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+P.O. 20 DE DICIEMBRE DE 1996.
+
+PRIMERO.- Remítase al Ejecutivo del Estado el Proyecto de Decreto que reforma los artículos 99 y 100 de la Constitución Política del Estado, para efectos de su promulgación en los términos del último párrafo del artículo 34 de la misma.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación el Periódico Oficial del Estado.
