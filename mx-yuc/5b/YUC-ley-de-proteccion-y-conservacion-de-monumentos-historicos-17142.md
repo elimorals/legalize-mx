@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-y-conservacion-de-monumentos-historicos-17142
 country: "mx"
 rank: "ley"
 publication_date: "1948-07-23"
-last_updated: "1948-07-23"
+last_updated: "1965-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCION Y CONSERVACION DE MONUMENTOS HISTORICOS EN EL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 1965.
 
 Ley publicada en el Diario Oficial el Viernes 23 de Julio de 1948.
 
@@ -77,21 +77,29 @@ La declaración de un inmueble de propiedad nacional o municipal se notificará 
 
 El Gobierno del Estado será la autoridad administrativa encargado de la aplicación de esta Ley, y como órgano consultivo existirá una comisión de monumentos, cuya organización y facultades se determinarán en el Reglamento.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 1965)</small>
+
 ###### ARTICULO SEPTIMO.
 
-El Gobierno del Estado procurará también la conservacin (sic) de los inmuebles que tengan valor histórico, pero que no ameriten ser declarados monumentos. En estos casos, el mismo Gobierno notificará al propietario que no podrá efectuar obra alguna sin el consentimiento del Gobierno.
+El Ejecutivo del Estado deberá también cuidar la conservación de los inmuebles que tengan valor histórico o artístico, que no ameriten ser declarados monumentos históricos, considerándose como tales las edificaciones correspondientes al lapso comprendido desde principios de la época colonial hasta la conclusión del siglo XIX, así como sus elementos integrantes cuando hayan sido separados de las mismas. Los propietarios de esos bienes para demolerlos, modificarlos, hacer cualquier obra en ellos o para disponer de sus partes, necesitarán autorización del Gobernador del Estado, quien para resolver lo que corresponda, oirá la opinión de la Comisión de Monumentos Históricos.
 
 ###### ARTICULO OCTAVO.
 
 Se podrán expropiar por causa de utilidad pública los monumentos históricos siempre que haya sido hecha la declaración correspondiente y publicada en el Diario Oficial.
 
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 1965)</small>
+
+ARTICULO OCTAVO BIS.- Se prohibe el envío fuera del Estado de Monumentos Históricos o partes de los mismos o de los que se encuentren comprendidos en las disposiciones del artículo séptimo de esta Ley, sin autorización escrita del Ejecutivo del Estado, quien para otorgarla deberá oír a la Comisión de Monumentos Históricos.
+
 ###### ARTICULO NOVENO.
 
 La destrucción, el deterioro o daño intencional de los monumentos históricos, constituye un delito sancionado con pena de tres días a cinco años de prisión y multas de cien a cinco mil pesos a juicio del Juez correspondiente, según la gravedad de la falta.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 1965)</small>
+
 ###### ARTICULO DECIMO.
 
-Por las infracciones a la presente Ley y su Reglamento que no constituyan un delito, se impondrá administrativamente una multa de diez a mil pesos, según la gravedad de la falta. Para imponer esta multa, el Gobernador del Estado señalará al presunto responsable un término no mayor de treinta días para escuchar su defensa y recibir las pruebas que desee aportar. Después de transcurrido este tiempo, se dictará la resolución.
+Por las infracciones a la presente Ley y su Reglamento, que no constituyan delito, el Gobernador del Estado impondrá al culpable multa de diez a cinco mil pesos, según la gravedad de la falta. En caso de disconformidad, el presunto responsable podrá interponer el recurso de revocación ante el mismo Gobernador, dentro del término de quince días de notificado ofreciendo las pruebas que tuviere, en su caso, el recurso deberá ser resuelto dentro de los quince días siguientes al de su interposición.
 
 ## TRANSITORIO
 
@@ -108,3 +116,9 @@ Profr. José González Beytia.
 El Secretario General,
 
 Lic. Mauro Cetina Ferráez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 23 DE JULIO DE 1965.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en le "Diario Oficial" del Gobierno del Estado.
