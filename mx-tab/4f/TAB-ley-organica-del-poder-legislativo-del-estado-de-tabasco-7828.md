@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1998-03-04"
+last_updated: "1998-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -293,9 +293,11 @@ Quiénes habiendo sido electos Diputados no se presenten, sin causa justificada 
 
 ### CAPITULO VI. DE LOS PERIODOS DE SESIONES
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 35.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias; el primero del dos de enero al treinta de abril y el segundo del día uno de septiembre al treinta y uno de diciembre, excepto el periodo de inicio del ejercicio constitucional de cada Legislatura, que será a partir del día uno de enero siguiente a las elecciones.
+El Congreso del Estado, tendrá dos períodos ordinarios de sesiones al año, el primero del dos de enero al treinta y uno de mayo y el segundo del uno de agosto al treinta y uno de diciembre del mismo año, excepto en los casos a que ese refieren los artículos 19 y 45, primer párrafo de la Constitución Política del Estado.
 
 ###### ARTICULO 36.
 
@@ -305,11 +307,11 @@ El Congreso sesionará con la asistencia de la mitad más uno del total de sus c
 
 A la apertura y clausura de los períodos ordinarios de sesiones, se invitarán a los ciudadanos: Gobernador del Estado y Presidente del H. Tribunal Superior de Justicia del Estado, así como a los servidores públicos Federales, Estatales y Municipales.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 38.
 
-Durante el Primer Período de Sesiones, el Congreso se ocupará preferentemente de expedir, reformar y derogar Leyes y Decretos para la mejor administración del Estado, así como de revisar y calificar la cuenta pública el año anterior.
+En los períodos ordinarios de sesiones, el Congreso se ocupará preferentemente de expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, así como revisar y calificar la cuenta pública.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 1995)</small>
 
@@ -317,9 +319,29 @@ Durante el Primer Período de Sesiones, el Congreso se ocupará preferentemente 
 
 Durante el Segundo Período el Congreso se ocupará preferentemente de estudiar, discutir y votar las leyes de ingresos de los municipios y del Estado y el Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
 
-El Congreso al examinar y calificar la Cuenta Pública del año anterior, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están comprobados o ha lugar a exigir responsabilidades o en su caso, dejar en suspenso su dictamen, hasta que existan elementos suficientes para que pueda emitirse la declaración correspondiente.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
-Para tales efectos, el Congreso podrá practicar las investigaciones que considere pertinente (sic).
+El Congreso al examinar y calificar la cuenta pública, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están comprobados o ha lugar a exigir responsabilidades o en su caso, dejar en suspenso su dictamen, hasta que existan elementos suficientes para que pueda emitirse la declaración correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Para tales efectos, el Congreso podrá practicar las investigaciones que considere procedentes.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Aprobadas por el Congreso las cuentas de la Hacienda Pública del Estado y de los Ayuntamientos o Concejos Municipales, de conformidad con lo dispuesto por el artículo 26 de la Constitución Política Local, ello no exime de responsabilidad, en caso de irregularidades, a quien o quienes hubieren tenido el manejo directo de los fondos.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+El Ejecutivo del Estado, a través de la dependencia correspondiente, informará a la Contaduría Mayor de Hacienda, en los términos de esta ley, respecto de los datos contenidos en registros y documentos justificativos, comprobatorios del ingreso y del gasto público, así como la información financiera y el resultado de los programas y subprogramas.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Las dependencias del Poder Ejecutivo y las unidades de los Poderes Legislativo y Judicial del Estado, deberán conservar bajo custodia, en los términos que dispongan los ordenamientos y disposiciones de carácter técnico reglamentario la documentación a que se refiere el párrafo anterior. La Contaduría Mayor de Hacienda, podrá practicar las compulsas que requiera en forma directa o por los conductos establecidos en las leyes.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+
+Para los efectos de la cuenta pública, las dependencias del Poder Ejecutivo, los organismos desconcentrados, descentralizados de participación estatal mayoritaria y los fideicomisos públicos, remitirán a la Contaduría Mayor de Hacienda, los informes de las auditorías internas y externas practicadas a los mismos. Los Ayuntamientos o Concejos Municipales, enviarán a la Contaduría Mayor de Hacienda, los resultados de las auditorías internas y externas que realicen a sus dependencias y organismos paramunicipales.
 
 SESIONES EXTRAORDINARIAS
 
@@ -403,7 +425,9 @@ Son facultades del Presidente de la Gran Comisión:
 
 I. Coordinar y organizar las actividades político-legislativas del Congreso, así como la ejecución de las tareas administrativas y laborales conforme a la Ley;
 
-II. Administrar los recursos financieros del Congreso;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
+
+II. Administrar los recursos financieros del Congreso, así como enviar mensualmente a la Contaduría Mayor de Hacienda, dentro del mes siguiente al que corresponda, los informes del avance financiero y presupuestal. Asimismo, emitir trimestralmente a la mencionada contaduría, dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Poder Legislativo, para su revisión y calificación trimestral;
 
 III. Coadyuvar con la Mesa Directiva en la conducción de los trabajos parlamentarios;
 
@@ -1098,3 +1122,9 @@ P.O. 4 DE MARZO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 SEGUNDO.- Se derogan las disposiciones del Decreto número 203 del 9 de enero de 1997 publicado en el Periódico Oficial del Gobierno del Estado de Tabasco, número 5681 del 15 de febrero de ese mismo año, que se opongan a las del presente Decreto; así como cualquier otra disposición legal contraria al mismo.
+
+P.O. 8 DE AGOSTO DE 1998.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
