@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-para-el-estado-y-los-municipios-de-10506"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-22"
-last_updated: "1997-10-14"
+last_updated: "2004-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE OBRA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1997.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL DE 25 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 22 de noviembre de 1996.
 
@@ -980,3 +982,5 @@ P.O. 14 DE OCTUBRE DE 1997.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE MAYO DE 2004.
