@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1989-01-03"
+last_updated: "1989-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989.
-
-(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989).
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 1989.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1037,15 +1035,23 @@ No podrá concederse de la inhabilitación para ejercer una profesión o alguno 
 
 Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos previstos por el Código de Procedimientos Penales aplicable y se estará a lo dispuesto en el artículo 49 de este Código.
 
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+
 ###### ARTICULO 97.
 
-Podrá concederse indulto cuando el reo haya prestado importantes servicios a la Nación, tratándose de delitos del orden común, o en el caso a que se refiere el artículo 57. En los delitos políticos queda a la prudencia y discreción del Ejecutivo otorgarlo.
+Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad públicas, conforme al dictamen del órgano ejecutor de la sanción y no se trate de sentenciado por traición a la Patria, espionaje, terrorismo, sabotaje, genocidio, delitos contra la salud, violación, delito intencional contra la vida y secuestro, ni de reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo Federal, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+I. Por los delitos de carácter político a que alude el artículo 144 de este Código;
+
+II. Por otros delitos cuando la conducta de los responsables haya sido determinada por motivaciones de carácter político o social, y
+
+III. Por delitos de orden federal o común en el Distrito Federal, cuando el sentenciado haya prestado importantes servicios a la Nación, y previa solicitud.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
 ###### ARTICULO 98.
 
-El indulto en ningún caso extinguirá la obligación de reparar el daño causado.
+El indulto en ningún caso extinguirá la obligación de reparar el daño causado. El reconocimiento de la inocencia del sentenciado extingue la obligación de reparar el daño.
 
 ### CAPITULO VI. Prescripción
 
@@ -4652,3 +4658,13 @@ D.O.F. 3 DE ENERO DE 1989.
 REPUBLICADO, D.O.F. 4 DE ENERO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de febrero de 1989.
+
+D.O.F. 31 DE OCTUBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el artículo 611 del Código de Procedimientos Penales para el Distrito Federal y las demás disposiciones que se opongan al presente Decreto.
