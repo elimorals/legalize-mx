@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-ecologia-21267"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-30"
-last_updated: "2001-03-30"
+last_updated: "2004-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE ECOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de marzo de 2001.
 
@@ -229,9 +229,11 @@ XII. Coordinar el desarrollo de sus funciones con aquellas que lleven a cabo ins
 
 XIII. Las demás que fueren necesarias para el adecuado funcionamiento del Instituto o que le confiera esta ley u otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 8.
 
-El Consejo celebrará sesiones ordinarias de manera trimestral y las extraordinarias que sean necesarias en cualquier tiempo para la eficaz marcha del Instituto, previa convocatoria de su Presidente.
+El Consejo celebrará sesión ordinaria cada trimestre y las extraordinarias que sean necesarias en cualquier tiempo para la eficaz marcha del Instituto, previa convocatoria de su Presidente.
 
 Las sesiones se sujetarán a las bases siguientes:
 
@@ -548,3 +550,9 @@ PROFR. HUMBERTO MOREIRA VALDEZ
 EL SECRETARIO DE FOMENTO AGROPECUARIO
 
 DR. ENRIQUE SALINAS AGUILERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE AGOSTO DE 2004.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
