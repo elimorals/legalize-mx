@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1987-07-02"
+last_updated: "1988-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 1988.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -695,6 +695,10 @@ XLI.- Expedir la convocatoria respectiva para elecciones de Diputados suplentes,
 
 XLII.- Expedir todas las leyes que sean necesarias y propias para hacer efectivas las facultades antecedentes y todas las que por esta Constitución y la Federal se le concedan.
 
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 1988)</small>
+
+XLII-BIS.-Legislar en materia de preservación y restauración del equilibrio ecológico y protección al ambiente en esfera de la competencia estatal, estableciendo las bases normativas de concurrencia entre Estado y Municipios y los criterios y mecanismos conforme los cuales se hará efectiva la participación social.
+
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 XLIII.- Las demás que les encomienden las leyes.
@@ -1093,9 +1097,9 @@ Los Ayuntamientos poseen facultades para expedir sus Reglamentos de Policía y G
 
 Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse entre sí y con el Estado, para la más eficaz prestación de los servicios públicos que les corresponda.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 1988)</small>
 
-Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administratrivas quue fueren necesarias.
+Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcción; participar en la creación y administración de zonas de reservas ecológicas y aprobar y ejercer sus atribuciones en materia de preservación y restauración del equilibrio ecológico y protección al ambiente. Para tal efecto y de conformidad con los fines señalados en el Párrafo Tercero del Artículo 27 de la Constitución General de la República, expedirán los Reglamentos y Disposiciones Administrativas que fueren necesarios.
 
 ###### Art. 142.
 
@@ -2033,7 +2037,7 @@ P.O. 19 DE DICIEMBRE DE 1985
 
 Artículo Primero.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga" y en los cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos de lo previsto en el Artículo 163 de la Ley Suprema invocada.
 
-Artículo Primero.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
+Artículo Segundo.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
 
 P.O. 26 DE DICIEMBRE DE 1985
 
@@ -2064,3 +2068,13 @@ P.O. 2 DE JULIO DE 1987
 > <small>(F. DE E. P.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga" y las reformas a los artículos 41 y 42 surtirán sus efectos a partir del 16 de septiembre de 1989.
+
+P.O. 14 DE ABRIL DE 1988
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en los Cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos previstos en el Artículo 163 de la Ley Suprema invocada.
+
+###### ARTICULO SEGUNDO.
+
+Aprobadas, en su caso las Reformas y Adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la Declaratoria que al respecto emita el Congreso.
