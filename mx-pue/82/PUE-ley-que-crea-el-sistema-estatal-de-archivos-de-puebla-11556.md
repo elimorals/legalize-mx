@@ -1,0 +1,114 @@
+---
+title: "LEY QUE CREA EL SISTEMA ESTATAL DE ARCHIVOS DE PUEBLA"
+identifier: "PUE-ley-que-crea-el-sistema-estatal-de-archivos-de-puebla-11556"
+country: "mx"
+rank: "ley"
+publication_date: "1985-11-05"
+last_updated: "1985-11-05"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11556&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-pue"
+scjn_id: "11556"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "37"
+reform_count: "1"
+scjn_last_update: "2009-12-16"
+issue_date: "1985-10-31"
+state: "PUE"
+---
+# LEY QUE CREA EL SISTEMA ESTATAL DE ARCHIVOS DE PUEBLA
+
+LEY QUE CREA EL SISTEMA ESTATAL DE ARCHIVOS DE PUEBLA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1985.
+
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+
+GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
+
+Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
+
+EL HONORABLE CUADRAGESIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+CONSIDERANDO.
+
+Que por oficio número 6136 de fecha 23 de Septiembre de 1985 el Ciudadano Licenciado Guillermo Jiménez Morales, Gobernador del Estado, sometió a la consideración de este Honorable Cuerpo Colegiado, la Iniciativa de LEY QUE CREA EL SISTEMA ESTATAL DE ARCHIVOS DE PUEBLA.
+
+Que para cumplir con los trámites que establecen los artículos 64 fracción I de la Constitución Política Estatal en relación con los 99, 105 y 141 fracción VI de la Ley Orgánica y Reglamentaria del Poder Legislativo, se turnó la Iniciativa de referencia a las Comisiones Conjuntas de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones; y de Educación, Ciencia y Tecnología, las que en Sesión Pública celebrada en este día presentaron su Dictamen, que fue aprobado en favor de la misma Iniciativa.
+
+Que la Ley Orgánica de la Administración Pública Estatal establece las bases de organización y funcionamiento de la Administración y ordena las políticas generales de funcionamiento para el mejor aprovechamiento de los recursos con que cuenta.
+
+Que el funcionamiento de las Dependencias de la Administración Pública Estatal, depende en gran medida de la adecuada toma de decisiones, la cual se sustenta en la información contenida en los diversos documentos generados por el propio aparato gubernamental, en su diario acontecer.
+
+Que la administración documental, debe ser óptima para la debida atención de los asuntos derivados de las funciones que tienen a su cargo las diferentes Dependencias del Gobierno Estatal y Municipal, para lo cual es necesario el establecimiento de lineamientos comunes para el fortalecimiento operativo de los Archivos Públicos.
+
+Que ha sido preocupación constante del Gobierno del Estado, la conservación y mejor utilización de los documentos históricos que forman el acervo documental de la Entidad, como de aquéllos otros que apoyan diariamente el ejercicio de sus atribuciones.
+
+Que el volumen creciente de los asuntos responsabilidad de los Gobiernos Estatal y Municipales, y la documentación que éstos producen, plantea la necesidad de crear un Sistema Estatal de Archivos, cuyo propósito principal es inducir el mejoramiento integral de los servicios documentales y archivísticos de la Administración Pública Estatal.
+
+Que desde 1978 se definió una estrategia de coordinación y solución integral de los problemas documentales de la Nación, a través del Sistema Nacional de Archivos, con la perspectiva de la creación de Sistemas Estatales de Archivos para hacer más eficientes los servicios documentales y archivísticos en cada una de las Entidades de la Federación.
+
+Que en el Estado de Puebla existen condiciones favorables para desarrollar el Sistema Estatal de Archivos, con el fin de coordinar la circulación, uso y selección de los documentos que las dependencias producen en la instrumentación de sus procesos administrativos, y conservan como testimonio de ellos.
+
+Que estando satisfechos además los requisitos de los artículos 57 fracción I, 63 fracción I y 79 fracción VI de la Constitución Política Local; 1o., 183, 184 y 185 de la Ley Orgánica y Reglamentaria de este Poder Legislativo,
+
+DECRETA:
+
+"LEY QUE CREA EL SISTEMA ESTATAL DE ARCHIVOS DE PUEBLA".
+
+###### ARTICULO PRIMERO.
+
+Se crea el Sistema Estatal de Archivos de Puebla, vinculado al Sistema Nacional de Archivos para garantizar el uniforme e integral manejo de los Archivos Administrativos e Históricos de la Administración Pública de los Gobiernos Estatal y Municipales.
+
+###### ARTICULO SEGUNDO.
+
+La vinculación del Sistema Estatal de Archivos de Puebla al Sistema Nacional de Archivos, deberá garantizar la centralización normativa y la descentralización operativa que los fundamenta.
+
+###### ARTICULO TERCERO.
+
+El Sistema Estatal de Archivos de Puebla estará integrado de la siguiente forma:
+
+I.- Por un Consejo Estatal de Archivos, formado por los representantes de los Tres Poderes del Estado.
+
+II.- Por un órgano coordinador y promotor del Sistema Estatal de Archivos, quien mantendrá relaciones permanentes con los Archivos Administrativos e Históricos de cada uno de los Tres Poderes del Gobierno Estatal, con los Archivos Municipales y con los Archivos Privados que se incorporen al Sistema. El Archivo General del Estado funcionará como coordinador del Sistema Estatal que dependerá del Poder Ejecutivo, por lo que para asegurar la eficacia de su acción deberá promover el establecimiento de convenios de cooperación y colaboración con los Archivos de los Poderes Legislativo y Judicial y con los Gobiernos Municipales y deberá fortalecerse de tal manera que pueda asumir dichas funciones.
+
+III.- Por un Comité Técnico de Documentación y Archivos que estará formado por los responsables del Archivo General del Estado, del Archivo de Concentración del Poder Ejecutivo y de los Archivos Administrativos e Históricos de los Poderes Legislativo y Judicial, así como de los Archivos Municipales y por el Secretario de Cultura del Estado como Coordinador General.
+
+IV.- Por todas las unidades archivísticas de los Gobiernos Estatal y Municipales, así como aquellos Archivos Privados que por su importancia histórica lo ameriten y lo soliciten.
+
+###### ARTICULO CUARTO.
+
+El Sistema Estatal de Archivos tendrá los siguientes objetivos:
+
+I.- Regular, coordinar, homogeneizar y dinamizar los servicios documentales y archivísticos del Estado a fin de convertirlos en fuentes esenciales de información acerca del pasado y del presente de la vida institucional.
+
+II.- Contribuir a reforzar la unidad nacional a través de la concentración, preservación y difusión de la memoria colectiva constituida por el acervo documental del Estado.
+
+###### ARTICULO QUINTO.
+
+Para los efectos del Artículo anterior, el Consejo Estatal de Archivos deberá implementar las siguientes acciones:
+
+I.- Proponer las reformas legislativas correspondientes.
+
+II.- Fortalecer las facultades y ampliar la estructura del Archivo General del Estado para que pueda cumpir (sic) con sus atribuciones, como Órgano Coordinador del Sistema Estatal de Archivos.
+
+III.- Dotar al Archivo General del Estado de un local adecuado para la preservación del patrimonio documental del Estado.
+
+###### ARTICULO SEXTO.
+
+El Ejecutivo del Estado expedirá el Reglamento del Archivo General del Estado.
+
+## TRANSITORIOS.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza a los 31 días del mes de Octubre de 1985.- Diputado Presidente.- Lic. Lucero Saldaña Pérez.- Rúbrica.- Diputado Secretario.- Profr. Javier Steffanoni Dossetti.- Rúbrica.- Diputado Secretario.- Profr. Jorge Othón Chávez Palma.- Rúbrica.
+
+Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los dos días del mes de Noviembre de mil novecientos ochenta y cinco.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Fernando García Rosas.- Rúbrica.
