@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-03-08"
+last_updated: "2003-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -1421,11 +1421,11 @@ Las votaciones serán nominales y por cédula.
 
 Por regla general las votaciones serán nominales, salvo aquellas que tengan por objeto nombrar o remover personas, las relativas a responsabilidad de servidores públicos y las que determine el Congreso, que lo serán por cédula.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2003)</small>
 
 ###### Art. 135.
 
-En la votación nominal, los diputados declararán de viva voz si aprueban o no el dictamen; primero se pronunciarán los que estén a favor y, enseguida, los que estén en contra. Los secretarios efectuarán el cómputo y el Presidente, enterado del resultado, hará la respectiva declaratoria.
+En la votación nominal, los Diputados declararán de viva voz o levantarán su mano en señal del sentido de su voto, indicando si aprueban o no el dictamen; primero se pronunciarán los que estén en favor, enseguida, los que estén en contra y, finalmente, quienes se abstengan. Los Secretarios efectuarán, el cómputo y el Presidente enterado del resultado hará la respectiva declaratoria la que se hará constar de manera íntegra en el Diario de los Debates.
 
 ###### Art. 136.
 
@@ -1880,3 +1880,7 @@ P.O. 8 DE MARZO DE 2003.
 DECRETO No. 587/03 VI P.E.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2003.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
