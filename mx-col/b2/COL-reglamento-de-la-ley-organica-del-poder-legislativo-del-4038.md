@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-4038"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-27"
-last_updated: "2003-10-31"
+last_updated: "2004-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA, PUBLICADO EN EL PERIODICO OFICIAL EL 19 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial "El Estado de Colima" el sábado 27 de agosto de 1988.
 
@@ -247,7 +249,7 @@ IV.- Dar lectura a la propuesta de orden del día;
 
 V.- Registrar y computar las votaciones dando a conocer sus resultados, cuando así lo disponga el Presidente;
 
-VI.- Cuidar que se levanten las actas de las sesiones por la Oficialía Mayor del Congreso, excepción hecha de las relativas a sesiones secretas, que deberán redactar personalmente; ambas contendrán una relación clara y sencilla de cuanto en aquellas se trate y resuelva, sin comentar los discursos y exposiciones que se hagan, vigilando que se asienten en el libro respectivo y firmarlas después de ser aprobadas por la Asamblea. Las actas deberán cubrir las formalidades que prevee este Reglamento.
+VI.- Cuidar que se levanten las actas de las sesiones por la Oficialía Mayor del Congreso, excepción hecha de las relativas a sesiones secretas, que deberán redactar personalmente; ambas contendrán una relación clara y sencilla de cuanto en aquellas se trate y resuelva, sin comentar los discursos y exposiciones que se hagan, vigilando que se asienten en el libro respectivo y firmarlas después de ser aprobadas por la Asamblea. Las actas deberán cubrir las formalidades que prevee (sic) este Reglamento.
 
 Siempre que se hubiese citado a una sesión y que no fuere celebrada por falta de quórum, deberá levantarse constancia en acta, especificando los Diputados que asistieron y aquellos que hubiesen comunicado al Presidente, con oportunidad, la causa de su inasistencia;
 
@@ -1407,7 +1409,7 @@ IV.- De todas las diligencias que se practique, se levantará acta circunstancia
 
 ###### Artículo 183.
 
-Las resolcuiones (sic) por las que se impongan las sanciones administrativas, previstas en la fracciones II, III y IV, del artículo 181 de este Reglamento, podrán ser impugnadas por el servidor público, ante el Tribunal de Arbitraje y Escalafón.
+Las resolcuiones (sic) por las que se impongan las sanciones administrativas, previstas en las fracciones II, III y IV, del artículo 181 de este Reglamento, podrán ser impugnadas por el servidor público, ante el Tribunal de Arbitraje y Escalafón.
 
 ###### Artículo 184.
 
@@ -1541,7 +1543,7 @@ Los tres Diputados electos para integrar la Comisión Permanente tendrán el car
 
 ###### Artículo 200.
 
-Los asuntos que hayan quedado pendientes de dictaminar en el período inmediato anterior y los que se reciban durante el receso, deberán ser dictaminados por la Diputación Permanente, la que dará cuenta con ellos al Congreso, en el período ordinario (sic) siguiente ó en el extraordinario que se celebre, si fuere el caso de estar incluidos en la agenda de este último, pero de ninguna manera podrá la Diputación Permanente dictaminar sobre asuntos que correspondan a la Comisión de Responsabilidades, ni al manejo de fondos.
+Los asuntos que hayan quedado pendientes de dictaminar en el período inmediato anterior y los que se reciban durante el receso, deberán ser dictaminados por la Diputación Permanente, la que dará cuenta con ellos al Congreso, en el período ordianrio (sic) siguiente ó en el extraordinario que se celebre, si fuere el caso de estar incluidos en la agenda de este último, pero de ninguna manera podrá la Diputación Permanente dictaminar sobre asuntos que correspondan a la Comisión de Responsabilidades, ni al manejo de fondos.
 
 ###### Artículo 201.
 
@@ -1584,3 +1586,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE OCTUBRE DE 2003.
 
 UNICO.- El Presente Decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO:
+
+P.O. 19 DE JUNIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Colima de fecha 31 de mayo de 1988, expedido mediante decreto número 153, publicado en el Periódico Oficial "El Estado de Colima" el 27 de agosto de 1988.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
