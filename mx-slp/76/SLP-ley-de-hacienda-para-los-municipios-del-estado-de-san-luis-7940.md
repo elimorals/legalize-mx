@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1997-05-02"
+last_updated: "1998-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1998.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -41,9 +41,11 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 1.
 
-Es objeto de la presente Ley establecer las características generales que tendrán los ingresos de los 56 Ayuntamientos del Estado, tales como objeto, sujeto y base, y las obligaciones de los contribuyentes; las infracciones a las Leyes Fiscales, así como sus respectivas sanciones y las formas de extinción de los Créditos y Obligaciones Fiscales.
+Es objeto de la presente ley establecer las características generales que tendrán los ingresos de los 58 Ayuntamientos del Estado, tales como objeto, sujeto y base, y las obligaciones de los contribuyentes; las infracciones a las leyes fiscales, así como sus respectivas sanciones y las formas de extinción de los créditos y obligaciones fiscales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -65,9 +67,11 @@ Son Impuestos las prestaciones en dinero o especie que el Congreso del Estado fi
 
 Son Derechos las contraprestaciones establecidas por el Poder Público mediante Ley, en pago de los servicios de carácter administrativo que presten los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 5.
 
-Son Productos los ingresos que perciba el Estado por actividades que no correspondan al desempeño de sus funciones propias de Entidad de Derecho Público o por convenios, contratos o cualesquiera otros actos relacionados con la explotación de bienes patrimoniales.
+Son productos los ingresos que perciban los Municipios por actividades que no correspondan al desempeño de sus funciones propias de Entidad de Derecho Público o por convenios, contratos o cualesquiera otros actos relacionados con la explotación de bienes patrimoniales.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1994)</small>
 
@@ -183,7 +187,9 @@ La interpretación que haga la Legislatura o la Diputación Permanente, es oblig
 
 La determinación, liquidación, recaudación y cobro de los ingresos municipales estarán a cargo de los Ayuntamientos, quienes lo efectuarán por conducto de sus respectivas Tesorerías y bajo la vigilancia de los Presidentes Municipales, con sujeción a las disposiciones aplicables.
 
-Los Municipios podrán celebrar convenios con el Ejecutivo Estatal para la administración de alguno o algunos de los ingresos, en los términos de las Fracciones Cuartas de los Artículos 115 de la Constitución General de la Republica y 83 de la Constitución local respectivamente.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
+Los Municipios podrán celebrar convenios con el Ejecutivo Estatal para la administración de alguno o algunos de los ingresos, en los términos de las fracciones cuartas de los artículos 115 de la Constitución General de la Republica y 114 de la Constitución local respectivamente.
 
 ###### ARTICULO 16.
 
@@ -995,9 +1001,7 @@ El entero de estas contribuciones podrá hacerse directamente ante los organismo
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO DECIMO QUINTO. SERVICIOS PRESTADOS POR LA DIRECCIÓN
-
-DE TRANSITO MUNICIPAL
+### CAPITULO DECIMO QUINTO. SERVICIOS PRESTADOS POR LA DIRECCIÓN DE TRANSITO MUNICIPAL
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1147,7 +1151,7 @@ Además causarán recargos de conformidad con el mismo precepto.
 
 Las multas y los productos no causan recargos.
 
-## TITULO SEPTIMO. CONTRIBUCIONES DE MEJORAS
+## TITULO SEXTO (SIC). CONTRIBUCIONES DE MEJORAS
 
 ###### ARTICULO 137.
 
@@ -1518,3 +1522,9 @@ P.O. 2 DE MAYO DE 1997.
 PRIMERO.- Las disposiciones contenidas en el presente decreto, entrarán en vigor el primero de enero de mil novecientos noventa y ocho.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 1998.
+
+PRIMERO.- El presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
