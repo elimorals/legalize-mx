@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1999-02-08"
+last_updated: "2000-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -141,11 +141,19 @@ Las personas morales oficiales podrán ocurrir en demanda de amparo, por conduct
 
 Las personas morales oficiales estarán exentas de prestar las garantías que en esta ley se exige a las partes.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 10.
 
-El ofendido o las personas que conforme a la ley tengan derecho a la reparación del daño o a exigir la responsabilidad civil proveniente de la comisión de un delito, sólo podrán promover juicio de amparo contra actos que emanen del incidente de reparación o de responsabilidad civil. También podrán promover el juicio de amparo contra los actos surgidos dentro del procedimiento penal, relacionados inmediata y directamente con el aseguramiento del objeto del delito y de los bienes que estén afectos a la reparación o a la responsabilidad civil.
+La víctima y el ofendido, titulares del derecho de exigir la reparación del daño o la responsabilidad civil proveniente de la comisión de un delito, podrán promover amparo:
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+I.- Contra actos que emanen del incidente de reparación o de responsabilidad civil;
+
+II.- Contra los actos surgidos dentro del procedimiento penal y relacionados inmediata y directamente con el aseguramiento del objeto del delito y de los bienes que estén afectos a la reparación o a la responsabilidad civil; y,
+
+III.- Contra las resoluciones del Ministerio Público que confirmen el no ejercicio o el desistimiento de la acción penal, en los términos de lo dispuesto por el párrafo cuarto del artículo 21 Constitucional.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 ###### ARTICULO 11.
 
@@ -291,7 +299,7 @@ Se exceptúan de lo previsto en el párrafo anterior, los términos relativos al
 
 Las resoluciones deben ser notificadas a más tardar dentro del día siguiente al en que se hubiesen pronunciado, y se asentará la razón que corresponda inmediatamente después de dicha resolución.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE. E., D.O.F. 22 DE FEBRERO DE 1988)
 
 El agraviado y el tercero perjudicado podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento, pedir se dicte sentencia para evitar la consumación del término de caducidad o sobreseimiento por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. En las materias civil, mercantil o administrativa, la persona autorizada conforme a la primera parte de este párrafo, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de abogado, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización; pero las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere este párrafo.
 
@@ -355,7 +363,7 @@ No obstante lo dispuesto en los artículos anteriores, la autoridad que conozca 
 
 Las notificaciones personales se harán conforme a las reglas siguientes:
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 I.- Cuando deban hacerse al quejoso, tercero perjudicado o persona extraña al juicio, con domicilio o casa señalados para oír notificaciones en el lugar de la residencia del juez o tribunal que conozca del asunto, el notificador respectivo buscará a la persona a quien deba hacerse, para que la diligencia se entienda directamente con ella; si no la encontrare, le dejará citatorio para hora fija, dentro de las veinticuatro horas siguientes; y si no se espera, se hará la notificación por lista.
 
@@ -1349,7 +1357,7 @@ I.- Contra leyes federales o locales, tratados internacionales, reglamentos expe
 
 II.- Contra actos que no provengan de tribunales judiciales, administrativos o del trabajo.
 
-En estos casos, cuando el acto reclamado emane de un procedimiento seguido en forma de juicio, el amparo sólo podrá promoverse contra la resolución definitiva por violaciones cometidas en la misma resolución o durante el procedimiento, si por virtud de estas últimas hubiere quedado sin defensa el quejoso o privado de los derechos que la ley de la materia le conceda, a no ser que el amparo sea promovido por persona extraña a la controversia.
+En estos casos, cuando el acto reclamado emane de un procedimiento seguido en forma de juicio, el amparo sólo podrá promoverse contra la resolución definitiva por violaciones cometidas en la misma resolución o durante el procedimiento, si por virtud de estas últimas hubiere quedado sin defensa el quejoso o privado de los derechos que la ley de la materia le conceda, a no ser que el amparo sea promovido por persona extraña a la controversia;
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1968)</small>
 
@@ -1357,13 +1365,17 @@ III.- Contra actos de tribunales judiciales, administrativos o del trabajo ejecu
 
 Si se trata de actos de ejecución de sentencia, sólo podrá promoverse el amparo contra la última resolución dictada en el procedimiento respectivo, pudiendo reclamarse en la misma demanda las demás violaciones cometidas durante ese procedimiento, que hubieren dejado sin defensa al quejoso.
 
-Tratándose de remates, sólo podrá promoverse el juicio contra la resolución definitiva en que se aprueben o desaprueben.
+Tratándose de remates, sólo podrá promoverse el juicio contra la resolución definitiva en que se aprueben o desaprueben;
 
 IV.- Contra actos en el juicio que tengan sobre las personas o las cosas una ejecución que sea de imposible reparación;
 
 V.- Contra actos ejecutados dentro o fuera de juicio, que afecten a personas extrañas a él, cuando la ley no establezca a favor del afectado algún recurso ordinario o medio de defensa que pueda tener por efecto modificarlos o revocarlos, siempre que no se trate del juicio de tercería;
 
-VI.- Contra leyes o actos de la autoridad federal o de los Estados, en los casos de las fracciones II y III del artículo 1° de esta ley.
+VI.- Contra leyes o actos de la autoridad federal o de los Estados, en los casos de las fracciones II y III del artículo 1° de esta ley;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 2000)</small>
+
+VII.- Contra las resoluciones del Ministerio Público que confirmen el no ejercicio o el desistimiento de la acción penal, en los términos de lo dispuesto por el párrafo cuarto del artículo 21 Constitucional.
 
 ###### ARTICULO 115.
 
@@ -2149,7 +2161,9 @@ Concluída la audiencia del día en cada una de las Salas, el secretario de Acue
 
 La jurisprudencia que establezca la Suprema Corte de Justicia, funcionando en Pleno o en Salas, es obligatoria para éstas en tratándose de la que decrete el Pleno, y además para los Tribunales Unitarios y Colegiados de Circuito, los juzgados de Distrito, los tribunales militares y judiciales del orden común de los Estados y del Distrito Federal, y tribunales administrativos y del trabajo, locales o federales.
 
-Las resoluciones constituirán jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco sentencias no interrumpidas por otra en contrario, y que hayan sido aprobadas por lo menos por catorce ministros, si se trata de jurisprudencia del Pleno, o por cuatro ministros en los casos de jurisprudencia de las Salas.
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2000)</small>
+
+Las resoluciones constituirán jurisprudencia, siempre que lo resuelto en ellas se sustenten en cinco sentencias ejecutorias ininterrumpidas por otra en contrario, que hayan sido aprobadas por lo menos por ocho ministros si se tratara de jurisprudencia del pleno, o por cuatro ministros, en los casos de jurisprudencia de las salas.
 
 También constituyen jurisprudencia las resoluciones que diluciden las contradicciones de tesis de Salas y de Tribunales Colegiados.
 
@@ -2165,13 +2179,17 @@ Las resoluciones de los Tribunales Colegiados de Circuito constituyen jurisprude
 
 (DEROGADO, D.O.F. 16 DE ENERO DE 1984)
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 194.
 
-La jurisprudencia se interrumpe dejando de tener carácter obligatorio, siempre que se pronuncie ejecutoria en contrario por catorce ministros, si se trata de la sustentada por el pleno; por cuatro, si es de una sala, y por unanimidad de votos tratándose de la de un Tribunal Colegiado de Circuito.
+La jurisprudencia se interrumpe dejando de tener carácter obligatorio, siempre que se pronuncie ejecutoria en contrario por ocho ministros, si se trata de la sustentada por el pleno; por cuatro, si es de una sala, y por unanimidad de votos tratándose de la de un Tribunal Colegiado de Circuito.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
 En todo caso, en la ejecutoria respectiva deberán expresarse las razones en que se apoye la interrupción, las cuales se referirán a las que se tuvieron en consideración para establecer la jurisprudencia relativa.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
 
 Para la modificación de la jurisprudencia se observarán las mismas reglas establecidas por esta ley, para su formación.
 
@@ -2852,3 +2870,7 @@ SEGUNDO.- A las personas que a la fecha de entrada en vigor del presente Decreto
 Los procedimientos penales y de amparo no concluidos en la fecha señalada en el transitorio anterior, seguirán tramitándose conforme a las disposiciones del Código Federal de Procedimientos Penales y de la Ley de Amparo vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto.
 
 TERCERO.- La (sic) resoluciones de la autoridad judicial en las que se hubiere prorrogado el arraigo domiciliario decretado originalmente seguirán subsistiendo por todo el término que se hubiere señalado en la prórroga.
+
+D.O.F. 9 DE JUNIO DE 2000.
+
+UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
