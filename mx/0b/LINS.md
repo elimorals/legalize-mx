@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2000-05-26"
+last_updated: "2004-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -98,6 +98,10 @@ IV. Instituto Nacional de Enfermedades Respiratorias, para los padecimientos del
 
 V. Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez, para las afecciones del sistema nervioso;
 
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2004)</small>
+
+V bis.- Instituto Nacional de Medicina Genómica, para la regulación, promoción, fomento y práctica de la investigación y aplicación médica del conocimiento sobre del genoma humano;
+
 VI. Instituto Nacional de Pediatría, para los padecimientos de la población infantil hasta la adolescencia;
 
 VII. Instituto Nacional de Perinatología, para la salud reproductiva y perinatal;
@@ -155,6 +159,22 @@ III. Coadyuvar a la vigilancia epidemiológica de las enfermedades infecciosas y
 IV. Contribuir al desarrollo de la tecnología diagnóstica apropiada a las necesidades nacionales, en materia de enfermedades transmisibles, y
 
 V. Servir como centro de referencia para el diagnóstico de las enfermedades infecciosas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2004)</small>
+
+ARTÍCULO 7 bis.- El Instituto Nacional de Medicina Genómica tendrá las siguientes atribuciones:
+
+I. Realizar estudios e investigaciones clínicas, epidemiológicas, experimentales, de desarrollo tecnológico y básicas en las áreas de su especialidad, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades, rehabilitación de los afectados, así como para promover medidas de salud;
+
+II. Realizar las actividades a que se refieren las fracciones II, III, IV, V, VI, IX, X, XI, XII, XIII y XIV del artículo 6 del presente ordenamiento;
+
+III. Las actividades a que se refieren las fracciones VII y VIII del artículo 6 de esta Ley se realizarán a través de otras instituciones de salud;
+
+IV. Impulsar en forma decidida la vinculación con instituciones nacionales para conformar una red de investigación y desarrollo en el campo de la medicina genómica y disciplinas afines, con la participación de instituciones internacionales; de conformidad con lo dispuesto en la presente Ley;
+
+V. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico, fármaco-genómica y terapia génica, y
+
+VI. Ser el Centro Nacional de Referencia para asuntos relacionados con estudios sobre el genoma humano y sus aplicaciones.
 
 ###### ARTÍCULO 8.
 
@@ -591,3 +611,13 @@ QUINTO. En la ejecución de la presente ley se respetarán los derechos laborale
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 20 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las Secretarías de Hacienda y Crédito Público y de Salud, así como el Consejo Nacional para la Ciencia y Tecnología realizarán lo necesario para otorgar las previsiones de recursos necesarias para el establecimiento, desarrollo y operación del Instituto Nacional de Medicina Genómica.
+
+TERCERO.- Una vez constituida la Junta de Gobierno del Instituto Nacional de Medicina Genómica, expedirá su Estatuto Orgánico en un plazo de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
