@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-los-cuerpos-de-seguridad-publica-para-el-7634"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-01-19"
-last_updated: "1997-04-21"
+last_updated: "1998-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LOS CUERPOS DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1998.
 
 Ley publicada en el Periódico Oficial, el miércoles 19 de enero de 1983.
 
@@ -659,7 +659,13 @@ v).- Respetar los derechos humanos de los detenidos, no conducirlos para interro
 
 w).- Usar el uniforme, armamento y equipo, únicamente cuando se encuentre desempeñando actos del servicio.
 
-x).- Las demás que establece esta Ley.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+x) Informar de inmediato a sus superiores, cuando sean de su conocimiento, hechos o actos en que participen sujetos que se ostenten como policías sin serlo; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+y) Las demás que establece esta Ley.
 
 PROHIBICIONES.
 
@@ -712,6 +718,10 @@ t).- Salvar conductos al tratar asuntos de servicio.
 u).- Realizar o participar, por propia causa o por solidaridad con causa ajena, cualquier movimiento o huelga, paro o actividad similar que implique o tienda a la suspensión o entorpecimiento del servicio.
 
 v).- Expedir órdenes cuya ejecución constituya un delito; el subalterno que las cumpla y el superior que las expida serán responsables conforme a la Ley Penal.
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1998)</small>
+
+w)Permitir la participación de personas que se ostenten como policías sin serlo, en actividades que deben ser desempeñadas por, miembros de los Cuerpos de Seguridad Pública.
 
 XIV.- CORRECTIVOS DISCIPLINARIOS Y SANCIONES.
 
@@ -1104,3 +1114,7 @@ P.O. 24 DE MAYO DE 1996.
 P.O. 21 DE ABRIL DE 1997.
 
 UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ABRIL DE 1998
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
