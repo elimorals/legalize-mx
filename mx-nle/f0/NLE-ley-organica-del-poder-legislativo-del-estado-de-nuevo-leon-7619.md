@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1997-06-18"
+last_updated: "1997-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -71,17 +71,27 @@ El Congreso sesionará en el Recinto Oficial, pudiendo cambiar de lugar por acue
 
 En la sesión en que se someta a consideración dicho cambio, el Presidente de la Directiva constatará y así lo hará saber al Pleno que los Coordinadores de los Grupos Legislativos fueron informados con antelación del tema a tratar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
+
 ###### Artículo 7o.
 
-Para la instalación del Congreso y la Apertura de Sesiones de cada año de ejercicio constitucional asistirá el Gobernador del Estado y el Tribunal Superior de Justicia.
+A la instalación del Congreso y a la Apertura de Sesiones de cada año de Ejercicio Constitucional, asistirá el Gobernador del Estado y el Presidente del Tribunal Superior de Justicia.
 
 Para la Apertura de Sesiones podrá el Congreso del Estado convocar a invitados especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1997)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1997)</small>
+
+Una vez hecha, por el Presidente de la nueva legislatura, la declaración Solemne de Apertura que establece el artículo 36 de esta Ley; el Presidente del Congreso podrá hacer uso de la palabra y conceder el uso a un Diputado de cada Partido representado en el Congreso, con el límite de tiempo que el Pleno del Congreso estime conveniente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1997)</small>
 
 ###### Artículo 8o.
 
-Durante la primera quincena del mes de Junio, dentro del Segundo Período Ordinario de Sesiones, concurrirá al Congreso el Gobernador, así como los Magistrados del Tribunal Superior de Justicia, para que en sesión solemne a la que convocará el propio Congreso, el Ejecutivo presente por escrito un informe sobre la situación y perspectivas generales que guarda el Estado y la Administración Pública.
+En la primera quincena del mes de Mayo de los primeros cinco años de Ejercicio Constitucional del Gobernador del Estado, durante el Segundo Período Ordinario de Sesiones, el Congreso celebrará Sesión Solemne el día y hora que se señale a propuesta del Ejecutivo, a la que deberá asistir el Presidente del Tribunal Superior de Justicia, a fin de que el Gobernador Constitucional presente un informe por escrito en el que manifieste al pueblo de Nuevo León, a través del Congreso del Estado, la situación y perspectivas generales de la entidad y de la administración pública. En el sexto año se hará también como lo dispone el Artículo 57 de la Constitución Política del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1997)</small>
+
+Previo a la presentación del Informe por parte del Gobernador, el Presidente del Congreso concederá el uso de la palabra al Coordinador de cada Grupo Legislativo, o a quien éste designe, con el límite de tiempo que los Grupos Legislativos acuerden previamente.
 
 El Presidente del Congreso contestará el Informe de Gobierno en términos generales con las formalidades que requiere la Sesión Solemne.
 
@@ -754,3 +764,9 @@ SEGUNDO:- Cuando en una Ley, Reglamento o cualquier otra disposición este expre
 P.O. 18 DE JUNIO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
