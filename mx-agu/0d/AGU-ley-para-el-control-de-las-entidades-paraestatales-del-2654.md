@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "1988-03-20"
+last_updated: "1989-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1989.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -95,7 +95,15 @@ I.- La denominación del organismo,
 
 II.- El domicilio legal,
 
-III.- El objeto del organismo conforme a lo señalado en el Artículo 9o. de esta Ley,
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1989)</small>
+
+III.- El objeto del organismo conforme a las siguientes reglas:
+
+a).- Que sus actividades estén relacionadas con la producción de bienes y servicios socialmente necesarios, particularmente los tendientes a la satisfacción de los intereses y necesidades populares,
+
+b).- La prestación de un servicio público o social, o
+
+c).- La obtención o aplicación de recursos para fines de asistencia o seguridad social.
 
 IV.- Las aportaciones y fuentes de recursos para integrar su patrimonio así como aquellas que se determinen para su incremento,
 
@@ -516,3 +524,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 Lic. Héctor Valdivia Carreón.
 
 (Rúbricas)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MARZO DE 1989.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
