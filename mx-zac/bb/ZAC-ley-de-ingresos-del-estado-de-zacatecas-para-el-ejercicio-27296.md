@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-27296
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-01-01"
-last_updated: "2003-07-12"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DE 2003
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS, PARA EL EJERCICIO FISCAL DEL AÑO 2004 PUBLICADA EN EL PERIODICO OFICIAL EL 31 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada el Suplemento al Periódico Oficial el 1° enero de 2003.
 
@@ -262,3 +264,13 @@ P.O. 12 DE JULIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto deberá publicarse en el Periódico Oficial, Organo del Gobierno del Estado, e iniciará su vigencia el día quince de julio de 2003.
+
+P.O. 31 DE DICIEMBRE DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+Previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, el presente decreto, entrará en vigor el día 1°. de enero de 2004.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ingresos del Estado para el ejercicio fiscal 2003 contenida en el Decreto No. 192, publicada en el tomo CXIII suplemento número 1 al 1 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 1° de Enero del año 2003.
