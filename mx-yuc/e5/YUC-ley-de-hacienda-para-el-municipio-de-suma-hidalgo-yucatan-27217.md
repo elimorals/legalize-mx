@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-suma-hidalgo-yucatan-27217
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SUMA DE HIDALGO, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -307,7 +307,7 @@ Los predios que sean actualizados y cuyo valor catastral sea reconsiderado, qued
 
 Estarán exentos de pago de impuesto predial, los bienes del dominio público de la federación, estado o municipio salvo que tales bienes sean utilizados por entidades paraestatales, por organismos descentralizados o particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público. En este caso, el impuesto predial se pagará en la forma, términos y conforme a la tasa establecida en la presente ley.
 
-Cuando en un mismo inmueble se realicen simultáneamente actividades propias del objeto público de la (sic) entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la tesorería municipal esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier título inmuebles de dominio público de la federación, estado o municipio, deberán declarar, durante los primeros quince días del mes de diciembre de cada año, ante la propia tesorería municipal, la superficie ocupada efectivamente para la realización de su objeto principal de beneficio público. Para ello propondrán a la autoridad el deslinde catastral del bien afecto a su objeto principal señalando claramente a la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objetivo público.
+Cuando en un mismo inmueble se realicen simultáneamente actividades propias del objeto público de la (sic) entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la tesorería municipal esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier titulo inmuebles de dominio público de la federación, estado o municipio, deberán declarar, durante los primeros quince días del mes de diciembre de cada año, ante la propia tesorería municipal, la superficie ocupada efectivamente para la realización de su objeto principal de beneficio público. Para ello propondrán a la autoridad el deslinde catastral del bien afecto a su objeto principal señalando claramente a la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objetivo público.
 
 La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación de la declaratoria de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo se procederá al cobro del impuesto predial sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de los (sic) dispuesto en la Ley Orgánica de lo (sic) Municipios del Estado de Yucatán.
 
@@ -587,7 +587,7 @@ Las personas físicas y morales pagarán los derechos que se establecen en esta 
 
 El pago de los derechos deberán hacerse previamente a la prestación del servicio, salvo en los casos expresamente señalados en esta ley.
 
-###### ARTÍCULO 69.
+###### ARTICULO 69.
 
 Los derechos que establece esta ley se pagarán por los servicios que presta el municipio en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del mismo.
 
@@ -753,7 +753,7 @@ Los usuarios de este servicio están obligados a permitir que las autoridades fi
 
 Son objeto de este derecho, la autorización, transporte, matanza, guarda en corrales, peso en básculas propiedad del municipio e inspección de animales por parte de la autoridad municipal.
 
-El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de las (sic) rastros públicos del municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
+El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de las rastros públicos del municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
 
 En todo caso se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
@@ -830,6 +830,30 @@ El pago de estos derechos deberá realizarse mensualmente por los comerciantes c
 ###### ARTÍCULO 108.
 
 Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con las tarifas establecidas en la Ley de Ingreso (sic) del Municipio de Suma de Hidalgo tarifa:
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 108-A.
+
+Son objeto de este Derecho, los diversos servicios mortuorios prestados por el municipio.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 108-B.
+
+Son sujetos de este Derecho, las personas físicas o morales que directa o indirectamente reciban alguno o algunos de los servicios mortuorios, que preste el municipio.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 108-C.
+
+Estos Derechos se causarán conforme a la tarifa que al efecto establezca la Ley de Ingresos municipal correspondiente.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 108-D.
+
+El pago de los derechos se hará por anticipado o al solicitar el servicio, en las oficinas de la Tesorería Municipal.
 
 ### CAPÍTULO DÉCIMO. DERECHOS NO ESPECIFICADOS
 
@@ -1190,3 +1214,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
