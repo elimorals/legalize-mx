@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-seguro-de-vida-para-los-servidores-del-gobierno-del-119
 country: "mx"
 rank: "ley"
 publication_date: "1952-03-14"
-last_updated: "1952-03-14"
+last_updated: "1955-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1955.
 
 Ley publicada en el periódico oficial del Estado de Puebla, el viernes 14 de marzo de 1952.
 
@@ -39,6 +39,10 @@ El H. XXXVIII Congreso Constitucional del Estado Libre y Soberano de Puebla, exp
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
+###### ARTICULO 3.
+
+El importe de la cuota individual, por cada caso de defunción, será de $5.00 CINCO PESOS.
+
 ###### ARTICULO 6o.
 
 La Junta de Administración se organizará y funcionará de acuerdo con el Reglamento respectivo.
@@ -47,9 +51,11 @@ La Junta de Administración se organizará y funcionará de acuerdo con el Regla
 
 La Tesorería General del Estado, queda facultada para descontar de los sueldos de los servidores del Gobierno del Estado, el importe de sus aportaciones en cada caso de fallecimiento, debiendo entregar la suma recaudada dentro de los diez días siguientes, al Tesorero de la Junta de Administración del "SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA" para que éste a más tardar dentro de las veinticuatro horas siguientes, deposite dicha suma en una institución bancaria.
 
-###### ARTICULO 8o.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1955)</small>
 
-En cada caso de defunción de algún servidor del Gobierno del Estado de Puebla deberá pagarse al beneficiario o beneficiarios la cantidad de $12,000.00 DOCE MIL PESOS; aportados en la forma siguiente: $2,000.00 DOS MIL PESOS por el Gobierno del Estado; y el resto, por las cuotas de los asegurados a razón de $4.00 CUATRO PESOS por cada defunción, destinándose el excedente, si lo hubiere, a la formación del fondo de reserva. Este fondo de reserva será depositado en una Institución Bancaria y destinado a lo que especifique expresamente el Reglamento relativo, buscando siempre en su aplicación el beneficio de los asegurados.
+###### ARTICULO 8.
+
+En cada caso de defunción de algún servidor del Gobierno del Estado de Puebla deberá pagarse al beneficiario o beneficiarios la cantidad de $20,000.00 VEINTE MIL PESOS; aportados en la forma siguiente: con el importe de las cuotas descontadas a los asegurados, en términos del artículo 3o y la cantidad que resultare faltante, por el Gobierno del Estado, por concepto de la Caja de la Tesorería General del mismo.
 
 ###### ARTICULO 9o.
 
@@ -105,10 +111,6 @@ La presente ley entrará en vigor desde el día de su publicación en el Periód
 
 Se deroga la Ley "DEL SEGURO DEL MAESTRO", de fecha 18 dieciocho de abril de 1935 mil novecientos treinta y cinco y todas las disposiciones que se opongan a la presente ley; los fondos de reserva existentes serán devueltos por la Junta de Administración a quienes hicieron aportaciones para constituirlo.
 
-###### ARTICULO 3º.
-
-Para los efectos del artículo cuarto de la presente ley, la designación de los representantes se hará dentro de los primeros quince días contados a partir de la vigencia de esta Ley.
-
 ###### ARTICULO 1o.
 
 Se instituye en esta entidad con carácter obligatorio, el SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA.
@@ -119,9 +121,11 @@ El Seguro que se crea tiene como único fin la de ayuda económica para los fami
 
 Se entiende por Servidores del Gobierno del Estado de Puebla, los funcionarios electos o nombrados, maestros y empleados en general, a quienes para el desempeño de sus labores, se les expide nombramiento.
 
-###### ARTICULO 3o.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1955)</small>
 
-El importe de la cuota individual por cada caso de defunción, será de $4.00 CUATRO PESOS.
+###### ARTICULO 3º.
+
+Para los efectos del artículo cuarto de la presente ley, la designación de los representantes se hará dentro de los primeros quince días contados a partir de la vigencia de esta Ley.
 
 ###### ARTICULO 4º.
 
@@ -132,6 +136,14 @@ El Gobernador hará publicar y cumplir la presente disposición.- Dada en el Pal
 Por tanto mando se imprima, publique y circule para sus efectos.
 
 Palacio del Departamento Ejecutivo; en la Heroica puebla de Zaragoza, a los doce días del mes de marzo de mil novecientos cincuenta y dos.- El Gobernador constitucional del Estado, General Rafael Avila Camacho.- El Secretario General de Gobierno, Lic. Roberto T. Bonilla.- Rubricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE FEBRERO DE 1955.
+
+PRIMERO.- Se abrogan los artículos 3°. y 8° de la Ley que se reforma, para quedar en la forma que se especifica.
+
+SEGUNDO.- Este Decreto comenzará a surtir sus efectos a partir del día 1° de febrero de 1955.
 
 ###### ARTICULO 4o.
 
