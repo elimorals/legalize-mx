@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1996-06-28"
+last_updated: "1996-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1996.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -273,9 +273,11 @@ c) De las acciones de nulidad, rescisión y evicción de la partición hereditar
 
 VI.- En los actos de jurisdicción voluntaria, salva disposición contraria de la ley, es juez competente el del domicilio del que promueve, pero si se trata de bienes raíces, lo será el del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+
 ###### Art. 31.
 
-En los negocios relativos a la tutela de los menores incapacitados es juez competente el de la residencia del menor o incapacitado.
+En los procedimientos relativos a adopción y tutela de los menores o incapacitados es Juez competente el de la residencia del menor o incapacitado.
 
 ###### Art. 32.
 
@@ -1795,8 +1797,6 @@ Si una diligencia se inició en día y hora hábiles, puede llevarse hasta su fi
 
 Siempre que deba tener lugar un acto judicial en día y hora señalados, y, por cualquier circunstancia, no se efectuare, el secretario hará constar, en los autos, la razón por la cual no se practicó.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
-
 ###### Art. 290.
 
 Los términos judiciales, salvo disposición, diversa de la Ley, empezarán a correr el día siguiente al en que surta efectos el emplazamiento, citación o notificación, y se contará en ellos el día de su vencimiento.
@@ -1804,6 +1804,8 @@ Los términos judiciales, salvo disposición, diversa de la Ley, empezarán a co
 ###### Art. 291.
 
 Cuando fueren varias las partes, el término se contará desde el día siguiente a aquél en que todas hayan quedado notificadas, si el término fuere común a todas ellas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 292.
 
@@ -4361,6 +4363,8 @@ La substanciación de las apelaciones en jurisdicción voluntaria se ajustará a
 
 Adopción.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+
 ###### Art. 711.
 
 Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella. Lo dispuesto sobre tutela es aplicable, en lo conducente, a la curatela.
@@ -4477,13 +4481,27 @@ Apeo y deslinde.
 
 ###### Art. 728.
 
-El que pretenda adoptar a alguna persona deberá acreditar los requisitos exigidos por la Ley Civil.
+El que pretenda adoptar a alguna persona deberá acreditar las exigencias de los artículos 448 y 451 del Código Civil.
 
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de las personas o institución de beneficencia que lo hayan acogido.
+En la promoción inicial deberá manifestar el tipo de adopción que se promueva, el nombre, edad y domicilio del menor o incapacitado, y el nombre, edad y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, así como, el nombre y domicilio de la institución de asistencia o beneficencia que lo haya acogido.
+
+En caso de querer variar el nombre del adoptado, en los términos del artículo 462 del Código Civil, se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
+
+Presentada la promoción y dentro de los tres días siguientes, se citara a quien ejerce la patria potestad o tutela sobre el menor o incapacitado, a fin de que otorguen su consentimiento en los términos del artículo 452 del Código Civil, así como para que manifieste la situación jurídica del menor o incapacitado que se pretende adoptar.
+
+Dentro del mismo plazo se señalará día y hora para que tenga verificativo el desahogo de la prueba testimonial, en que habrá de acreditarse la solvencia moral y económica, así la reconocida probidad del o los adoptantes.
+
+Cuando el menor hubiere sido acogido por una institución de asistencia o beneficencia, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos de la fracción IV del artículo 497 del Código Civil.
+
+Se solicitará a la Procuraduría en Materia de Asistencia Social haga las investigaciones correspondientes a efecto de constatar si la adopción solicitada por los adoptantes es benéfica para el menor o incapacitado, debiendo rendir un informe al Juez en el término de tres días; en caso de no rendirlo se le tendrá por conforme con la adopción.
+
+En caso de oposición se estará a lo dispuesto por el artículo 708 del Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
 ###### Art. 729.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme al Código Civil, el tribunal resolverá dentro de tercero (sic) día.
+Rendidas las justificaciones que se exigen en el artículo anterior, el Tribunal resolverá dentro del tercer día, debiendo remitir la resolución judicial y el duplicado del expediente relativo al Oficial del Registro Civil para los efectos correspondientes de los artículos 88, 458 y 464 del Código Civil.
 
 ###### Art. 730.
 
@@ -4968,3 +4986,23 @@ P.O. 28 DE JUNIO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE JULIO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente Decreto, siempre y cuando le soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
+
+Para los efectos del artículo 458, en la declaratoria el Juez ordenará al Oficial del Registro Civil, la cancelación de las actas de nacimiento y adopción, así como para que levante el acta de nacimiento correspondiente.
+
+###### ARTICULO TERCERO.
+
+En los procedimientos de adopción en trámite, a la entrada en vigor del presente Decreto, los adoptantes podrán optar por la adopción plena, bastando para ello, la promoción correspondiente ante el Juez de la causa.
+
+###### ARTICULO CUARTO.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los ayuntamientos de la entidad, a efecto de que la Procuraduría en Materia de Asistencia Social, tenga la intervención que le señala este Decreto en los procedimientos de adopción.
