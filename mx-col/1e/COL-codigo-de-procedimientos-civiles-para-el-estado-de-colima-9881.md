@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1962-12-29"
+last_updated: "1970-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1970.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3933,17 +3933,15 @@ ART. 936.- Los gastos generales del apeo se harán por el que lo promueva. Los q
 
 ### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
+
 ART. 937.- Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-I.- La habilitación para comparecer en juicio que solicite el menor de más de dieciocho años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobare buena conducta y aptitud para el manejo de sus negocios;
+I.- La autorización judicial que soliciten los emancipados por razón del matrimonio, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
 
-II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de dieciocho años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
+II.- El permiso para contraer con su marido o para obligarse solidariamente a ser su fiadora, que solicite la mujer casada; y
 
-III.- La autorización judicial que soliciten los emancipados o habilitados de edad para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
-
-IV.- El permiso que para contratar con su marido o para obligarse solidariamente a ser su fiadora, solicite la mujer casada;
-
-V.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
+III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
 
 ART. 938.- Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
@@ -4168,3 +4166,9 @@ Este Decreto surtirá efectos a partir de la fecha de su publicación en el Peri
 P.O. 29 DE DICIEMBRE DE 1962.
 
 Este Decreto empezará a surtir sus efectos legales a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 1970.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el Periódico Oficial del Estado.
