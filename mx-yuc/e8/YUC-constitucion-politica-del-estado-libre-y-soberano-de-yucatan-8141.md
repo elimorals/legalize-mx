@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1925-05-28"
+last_updated: "1925-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MAYO DE 1925.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 1925.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -301,7 +301,7 @@ XV.- expedir las Leyes sobre Instrucción Pública, que serán uniformes en todo
 
 (D) La Enseñanza Superior y la profesional serán o no gratuitas, según lo determinen las leyes.
 
-XVI.- prorrogar el periodo de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
+XVI.- prorrogar el período de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
 
 XVII.- formar su Reglamento interior;
 
@@ -359,7 +359,7 @@ XLII.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas 
 
 > <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 1923)</small>
 
-XLIII.- confirmar la revocación del mandato público confiado al Gobernador, Diputados y Presidentes Municipales, y revocar el confiado a los Magistrados del Tribunal Superior de Justicia.
+XLIII.- confirmar la revocación del mandato público confiado al Gobernador, Diputados y Presidentes Municipales, y revocar el confiado a los Magistrados del Tribunal Superior de Justicia;
 
 XLIV.- las demás que le confiere esta Constitución.
 
@@ -511,13 +511,11 @@ El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o an
 
 Si al comenzar un período constitucional, no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará, sin embargo, el Gobernador cuyo período hubiese concluído y se encargará desde luego del Poder Ejecutivo, con el carácter de interino, el ciudadano que designe el Congreso, y si éste no estuviese reunido, el Secretario General de Gobierno, y se convocará a elección de Gobernador en los términos del artículo cincuenta y dos. Si la ausencia del Gobernador electo se debiere a fuerza, coacción o cualquier otro impedimento que le impida materialmente llenar sus funciones, deberá comprobarse este hecho, y en tal caso, el Gobernador interino deberá entregarle el Gobierno al legalmente electo.
 
-> <small>(REFORMADO, D.O. 30 DE NOVIEMBRE DE 1921)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 1925)</small>
 
 ###### Artículo 51.
 
-En las faltas absolutas y en las temporales del Gobernador, el Congreso, por mayoría absoluta del número total de Diputados, elegirá al Ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con este carácter desempeñe el Poder Ejecutivo.
-
-Cuando la ausencia o falta temporal del Gobernador no exceda de treinta días, el Secretario General de Gobierno, quedará encargado del despacho del Poder Ejecutivo.
+En las faltas absolutas y en las temporales del Gobernador, el Congreso, o la Comisión Permanente del mismo, por mayoría absoluta del número total de Diputados o de los que compongan la Comisión Permanente, elegirá al Ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con este carácter desempeñe el Poder Ejecutivo.
 
 ###### Artículo 52.
 
@@ -561,7 +559,7 @@ XI.- hacer uso del derecho de iniciar leyes que le concede el artículo treinta 
 
 XII.- cumplir con lo dispuesto en el artículo veinte y ocho de esta Constitución;
 
-XIII.- expedir la convocatoria para las elecciones públicas;
+XIII.- expedir la convocatoria para las elecciones públicas:
 
 XIV.- presentar en el segundo período de sesiones ordinarias del Congreso, los presupuestos de los ingresos y egresos que han de regir en el año siguiente;
 
@@ -583,9 +581,9 @@ XXI.- las demás que le confiere esta Constitución.
 
 No puede el Gobernador:
 
-> <small>(REFORMADA, D.O. 30 DE NOVIEMBRE DE 1921)</small>
+(NUEVAMENTE EN VIGOR POR DEROGACION DE DECRETO 359, D.O. 31 DE JULIO DE 1925)
 
-I.- renunciar a su cargo, ni ausentarse del Territorio del Estado o separarse del ejercicio de sus funciones, por más de treinta días, sin causa grave calificada por el Congreso. El Secretario General de Gobierno, suplirá al Gobernador, en las separaciones o ausencias temporales que no excedan de treinta días.
+I.- renunciar a su cargo, ni ausentarse del Territorio del Estado ni separarse del ejercicio de sus funciones, sin causa grave calificada por el Congreso;
 
 II.- imponer contribución alguna a menos que el Congreso le hubiese concedido facultades extraordinarias;
 
@@ -1010,6 +1008,10 @@ D.O. 2 DE OCTUBRE DE 1924.
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
 D.O. 28 DE MAYO DE 1925.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 31 DE JULIO DE 1925.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
