@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2002-08-16"
+last_updated: "2003-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2003.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -105,19 +105,69 @@ En el Estado de San Luis Potosí todos los habitantes son libres e iguales en di
 
 El varón y la mujer son iguales ante la ley. El Estado promoverá la igualdad de oportunidades de los varones y las mujeres potosinos en la vida pública, económica, social y cultural.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 9o.
 
-El Estado de San Luis Potosí, tiene una composición pluricultural y reconoce el derecho a preservar la forma de vida de sus pueblos indígenas. La ley promoverá el respeto y desarrollo de sus lenguas, culturas, usos, costumbres, recursos, medicina tradicional y modos específicos de organización comunitaria.
+El Estado de San Luis Potosí tiene una composición pluriétnica, pluricultural y multilingüística sustentada originalmente en sus pueblos indígenas. Reconoce la existencia histórica y vigente en su territorio de los pueblos Nahuas, Teének o Huastecos, y Xi'oi o Pames, así como la presencia regular de los Wirrarika o Huicholes.
 
-El Estado garantizará a los indígenas el efectivo acceso a la jurisdicción del mismo. En los juicios y procedimientos en que aquéllos sean parte, deberán tomarse en cuenta sus prácticas y costumbres jurídicas. Las personas indígenas que no hablen español tendrán derecho a contar durante todo el procedimiento con el auxilio de un traductor.
+Asegurando la unidad de la Nación la ley establecerá sus derechos y obligaciones conforme a las bases siguientes:
 
-El Estado promoverá la integración de Consejos Indígenas para cada etnia, como coadyuvantes y auxiliares de la acción del Estado de acuerdo a las formas específicas de organización que determine cada una de ellas.
+I.- Queda prohibida toda discriminación por origen étnico, o que por cualquier otro motivo atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-La educación que se imparta en las comunidades indígenas deberá darse en la lengua de la etnia de que se trate y en el idioma español.
+II.- El Estado reconoce a sus pueblos indígenas su unidad, lenguas y derechos históricos, manifiestos éstos en sus comunidades indígenas a través de sus instituciones políticas, culturales, sociales y económicas, así como su actual jurisdicción territorial, formas autonómicas de gestión y capacidad de organización y desarrollo internos;
 
-La ley reglamentaria de este artículo y las demás que expida el Congreso del Estado, relacionadas con los derechos y la protección de los grupos indígenas, deberán ser traducidas, impresas y publicadas en las diversas lenguas de los grupos étnicos que habitan en el Estado.
+III.- Las comunidades integrantes de un pueblo indígena son aquellas que forman una unidad política, social, económica y cultural; asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres. La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta además de los anteriores, los criterios etnolingüísticos;
+
+IV.- La conciencia de su identidad étnica deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán en ultima instancia a este reconocimiento;
+
+V.- El Estado reconoce el derecho de los pueblos indígenas y sus comunidades a la libre determinación, misma que se expresa en el ámbito de su autonomía; ella bajo el principio de la subsidiariedad y complementariedad en correspondencia con el marco del orden jurídico vigente.
+
+VI.- El Estado otorga a las comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios;
+
+VII.- Se reconoce la estructura interna de las comunidades indígenas, concebida como un sistema que comprende una asamblea general, diversos cargos y jerarquías;
+
+VIII.- En el ámbito de su autonomía las comunidades indígenas podrán preservar y enriquecer sus lenguas, conocimientos y todos los elementos que formen parte de su cultura e identidad. El Estado coadyuvará en la preservación, enriquecimiento de sus lenguas, conocimientos y todos los elementos que conformen su identidad cultural;
+
+IX.- Las comunidades indígenas, dentro del ámbito municipal podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley;
+
+X.- En los términos que establece la Constitución federal y las demás leyes de la materia, y dentro de los ámbitos de competencia del Estado y municipios, los pueblos y comunidades indígenas tendrán derecho a la preservación de la naturaleza, y de los recursos que se encuentran ubicados en sus tierras o en la totalidad del hábitat que ocupan o disfrutan, así como preferencia en el uso y disfrute de los mismos;
+
+XI.- La jurisdicción indígena y sus competencias se corresponden con la organización social y el espacio geográfico o territorios donde se asientan las comunidades. Las comunidades indígenas elegirán y designarán a sus representantes y órganos de autoridad internos, y ante los ayuntamientos, en correspondencia con sus sistemas normativos y formas de organización comunitaria. La ley reglamentaria establecerá las bases al respecto, garantizando la participación de las mujeres en condiciones de equidad;
+
+XII.- Mediante acciones coordinadas entre los distintos órdenes de gobierno, las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades indígenas administrarán directamente para fines específicos;
+
+XIII.- El Estado garantizará a los indígenas el efectivo acceso a la jurisdicción del mismo. Para garantizar este derecho, en los juicios y procedimientos en que aquéllos sean parte, individual o colectivamente, deberán tomarse en cuenta sus costumbres y especificidades culturales;
+
+XIV.- La ley establecerá los casos y procedimientos para que los sistemas normativos que las comunidades indígenas utilizan para la solución y regulación de sus conflictos internos, sean validados por los jueces y tribunales correspondientes. Las personas indígenas tendrán derecho a contar durante todo el procedimiento, con el auxilio de un traductor y un defensor que tengan conocimiento de su lengua y cultura;
+
+XV.- La ley reconocerá y protegerá a los indígenas pertenecientes a otro pueblo, o que procedentes de otra Entidad federativa residan temporal o permanentemente dentro del territorio del Estado, y
+
+XVI.- Al tenor de lo dispuesto en el Apartado B del artículo 2º de la Constitución federal, el Estado y los municipios con la participación de las comunidades establecerán las instituciones, el sistema y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución federal refiere, y establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
+
+a) Impulso al desarrollo regional.
+
+b) Incremento en todos los ámbitos a los niveles de educación con uso del idioma indígena correspondiente, además del español, incorporando las características interculturales específicas.
+
+c) Acceso efectivo a todos los servicios de salud con aprovechamiento de la medicina tradicional.
+
+d) Mejoramiento de la vivienda, y ampliación de cobertura de todos los servicios sociales básicos.
+
+e) Incorporación de las mujeres al desarrollo.
+
+f) Ampliación de la red de comunicaciones, y posibilidad para los pueblos y comunidades indígenas para adquirir y operar sus propios medios de comunicación.
+
+g) Impulso a las actividades productivas y al desarrollo sustentable de las comunidades.
+
+h) Establecimiento de políticas para la protección de los migrantes indígenas y sus familias.
+
+i) Consulta a los pueblos indígenas para la elaboración de los planes Estatal y municipales sobre el desarrollo integral.
+
+El Congreso del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, establecerán equitativamente las partidas específicas en los presupuestos de egresos que aprueben, para cumplir con las disposiciones de este artículo, así como las formas y procedimientos para que las comunidades participen en su ejercicio y vigilancia.
+
+El Estado reconoce los mismos derechos a las comunidades que sean equiparables a las descritas en el contenido de este artículo.
+
+Es responsabilidad del Congreso del Estado vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en las lenguas propias de los pueblos indígenas de la Entidad para su aplicación y entrada en vigor.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2182,3 +2232,7 @@ P.O. 16 DE AGOSTO DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2003.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación de los ayuntamientos de la Entidad, de conformidad con lo dispuesto por el artículo 138 de la propia Constitución.
