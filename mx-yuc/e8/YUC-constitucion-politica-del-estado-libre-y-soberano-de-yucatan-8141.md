@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1923-12-03"
+last_updated: "1924-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE DICIEMBRE DE 1923.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE SEPTIEMBRE DE 1924.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -525,9 +525,11 @@ Si la falta del Gobernador fuere absoluta y faltaren dos años o más para termi
 
 El Gobernador interino estará impedido para ser electo Gobernador del Estado en las elecciones que se verifiquen para el período inmediato, estando en funciones o cuando no hayan transcurrido noventa días en su separación del Poder Ejecutivo.
 
+> <small>(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1924)</small>
+
 ###### Artículo 54.
 
-Siempre que ocurra una falta absoluta de Gobernador y mientras se reúne el Congreso y designa al Gobernador interino, se hará cargo del despacho del Poder Ejecutivo, el Secretario General, quien entregará el Gobierno al Gobernador interino nombrado, inmediatamente que éste se presente a recibirlo.
+Siempre que ocurra una falta absoluta del Gobernador y mientras se reúne el Congreso y designa al Gobernador Interino, se hará cargo del Despacho del Poder Ejecutivo, el Secretario General de Gobierno; por falta absoluta o temporal de este Funcionario, en los casos en que conforme a la primera parte de esta disposición legal; deba asumir el Ejecutivo del Estado, se encargará de éste el Oficial Mayor de Gobierno.- En uno otro caso, el Encargado del Poder Ejecutivo hará entrega al Gobernador nombrado por el Congreso, inmediatamente que se presente a recibirle.
 
 ###### Artículo 55.
 
@@ -996,3 +998,7 @@ D.O. 3 DE DICIEMBRE DE 1923.
 ###### ARTICULO SEGUNDO.
 
 Este decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el "Diario Oficial" del Estado.
+
+D.O. 27 DE SEPTIEMBRE DE 1924.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
