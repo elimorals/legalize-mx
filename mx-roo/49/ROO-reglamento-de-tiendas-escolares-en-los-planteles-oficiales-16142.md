@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-tiendas-escolares-en-los-planteles-oficiales-1614
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "1999-10-15"
+last_updated: "2000-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TIENDAS ESCOLARES EN LOS PLANTELES OFICIALES DE EDUCACION DEPENDIENTES DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 15 de octubre de 1999.
 
@@ -99,9 +99,13 @@ VII.- Evitar la distracción y el dispendio de tiempo del alumno con tareas y re
 
 La Tienda Escolar operará bajo la modalidad de concesión a particulares; para tal fin el Organismo, con sesenta días de anticipación al inicio de cada ciclo escolar, publicará la convocatoria correspondiente, con apego al presente reglamento.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 8.
 
-Los particulares que deseen prestar el servicio referido en el artículo anterior, deberán participar al fin del año escolar en un concurso convocado por el Organismo, presentando sus proyectos ante los Consejos, quienes elegirán el proyecto que garantice las mejores condiciones, de acuerdo con este reglamento, y la remitirá para su aprobación, registro y expedición del documento que los acredite como concesionario a la oficina de Tiendas Escolares.
+Los particulares que deseen prestar el servicio referido en el artículo anterior, deberán participar al fin del año escolar en un concurso convocado por el Organismo, presentando sus propuestas ante los Consejos, quienes elegirán la propuesta que garantice las mejores condiciones, de acuerdo con este reglamento, y la remitirá para su aprobación, registro y expedición del documento que los acredite como concesionario a la oficina de Tiendas Escolares.
+
+El director del Plantel Escolar como parte integrante del Consejo, deberá guardar bajo su custodia las propuestas recibidas que no fueron seleccionadas, así como la documentación generada en el proceso de concesión.
 
 ###### Artículo 9.
 
@@ -121,7 +125,9 @@ VI.- Garantizar el cumplimiento en la prestación del servicio, respecto de las 
 
 VII.- Firmar solicitud de concesión, que operará bajo el régimen legal respectivo.
 
-El solicitante firmará ante la oficina de Tiendas Escolares del Organismo la solicitud para su registro.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
+El solicitante seleccionado firmará ante la oficina de Tiendas Escolares del Organismo la solicitud para su registro.
 
 ###### Artículo 10.
 
@@ -129,25 +135,39 @@ La concesión tendrá vigencia de un ciclo escolar, pero las partes podrán anti
 
 No podrá renovarse u otorgarse una nueva concesión al particular que haya sido retirado por incumplimiento de sus obligaciones como concesionario.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
+Durante el ciclo escolar no podrán los particulares obtener o gozar de más de una concesión de Tiendas Escolares en los Planteles Escolares dependientes del Organismo.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 11.
 
-La concesión no podrá otorgarse al personal directivo, docente, administrativo, de apoyo y de asistencia educativa, ni a personas que tengan con alguno de éstos, relación de parentesco en línea recta hasta en primero, segundo o tercer y colateral en segundo grado; de igual manera no podrá otorgarse a ningún órgano escolar, ni a supervisores, alumnos y padres de familia que tengan relación con el plantel educativo de que se trate.
+La concesión no podrá otorgarse al personal directivo, docente, administrativo, de apoyo y de asistencia educativa, ni a personas que tengan con alguno de éstos, relación de parentesco en línea recta hasta el segundo grado; de igual manera no podrá otorgarse a ningún órgano escolar, ni a supervisores, alumnos y padres de familia que tengan relación con el Plantel Escolar de que se trate.
 
 ###### Artículo 12.
 
 Sólo los concesionarios podrán prestar los servicios de venta de alimentos y material didáctico. Los apoyos directos de proveedores, en especie o efectivo, serán destinado en beneficio de los Planteles Escolares; estas aportaciones deberán ser registradas en los libros de ingreso de los mismos.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
+El director del Plantel Escolar expedirá el recibo de ingresos correspondiente a favor del donante.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 13.
 
-La función de los Consejos se sujetará específicamente a; la recepción de solicitud, propuesta y selección de los particulares que deseen obtener la concesión a través de la oficina de tiendas escolares del Organismo.
+La función de los Consejos se sujetará específicamente a; la recepción de solicitud, propuesta y selección de los particulares que deseen obtener la concesión a través de la oficina de Tiendas Escolares del Organismo, así como coordinarse con la autoridad educativa del Plantel Escolar en la elaboración del Proyecto Anual de Necesidades de Inversión para el Plantel Escolar.
 
 La Oficina de Tiendas Escolares recibirá, integrará y turnará al Jurídico el expediente del seleccionado para su dictaminación y, en su caso, la expedición del documento que lo acredite como concesionario.
 
 En los casos de incumplimiento en tiempo o en forma de la presentación de los expedientes por parte de los particulares, se procederá a adjudicar en directo la concesión correspondiente por parte del Jurídico del Organismo.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 14.
 
-El acondicionamiento del local donde se preste el servicio concesionado, estará a cargo del concesionario; las mejoras que realice quedarán a favor del Plantel Escolar. El concesionario recibirá por inventario los bienes, muebles o inmuebles disponibles para tal fin y se comprometerá a cuidarlos, conservarlos y reponerlos en caso de pérdida o daño. Al momento de concluir o cancelarse la concesión deberá devolverlos en el estado recibido.
+El acondicionamiento del local donde se preste el servicio concesionado, estará a cargo del concesionario; las mejoras que realice quedarán a beneficio del Plantel Escolar. El concesionario recibirá por inventario los bienes, muebles o inmuebles disponibles para tal fin y se comprometerá a cuidarlos, conservarlos y reponerlos en caso de pérdida o daño. Al momento de concluir o cancelarse la concesión deberá devolverlos en el estado recibido. El concesionario podrá retirar los bienes muebles de su propiedad que haya utilizado durante la concesión, al término de la misma.
 
 ###### Artículo 15.
 
@@ -159,7 +179,9 @@ II.- La cuota podrá ser modificada sólo por acuerdo del concesionario y el Con
 
 III.- En ningún caso el concesionario está obligado a entregar cantidades mayores o extraordinarias que la fijada en la concesión. Los funcionarios que pretendan obligarlo a pagar cuotas extraordinarias quedarán sujetos a las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo y demás normatividad aplicable.
 
-IV.- La cuota deberá ser entregada al director del Plantel Escolar en la fecha acordada por el Consejo, contra un recibo oficial con la antefirma del contralor del Plantel Escolar o, en el caso de no haberlo, del secretario del Consejo Técnico Escolar. Los comprobantes de pago tienen calidad de recibo oficial que otorgue el director del Plantel Escolar tienen calidad de recibo oficial. Asimismo el director de cada Plantel Escolar registrará sus libros de control, mediante la firma y sello de la Contraloría del Organismo.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2000)</small>
+
+IV.- La cuota deberá ser entregada al director del Plantel Escolar en la fecha acordada por el Consejo, contra un recibo oficial con la antefirma del contralor del Plantel Escolar o, en el caso de no haberlo, del secretario del consejo técnico escolar. Los comprobantes de pago que otorgue el director del Plantel Escolar tienen calidad de recibo oficial. El director de cada Plantel Escolar registrará sus libros de ingresos y egresos de la Tienda Escolar ante la Dirección de Finanzas del Organismo, quien los autorizará con el sello y firma que para ese efecto disponga.
 
 V.- El manejo de estos ingresos está sujeto a revisión periódica por ser fondos del Estado. En caso de incumplimiento, el director se hará acreedor a las sanciones previstas en las leyes fiscales y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
 
@@ -236,3 +258,11 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. CECILIA R. LORÍA MARÍN
 
 SECRETARIA DE EDUCACION Y CULTURA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- El presente Decreto de reforma y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Quedan derogadas todas aquellas disposiciones que se opongan al presente Decreto de reforma.
