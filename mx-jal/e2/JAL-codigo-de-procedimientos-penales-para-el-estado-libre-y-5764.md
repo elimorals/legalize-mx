@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1999-03-18"
+last_updated: "2000-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2225,9 +2225,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1999)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2000)</small>
 
-I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; extorsión agravada, artículo 189 bis; asalto, artículo 192; secuestro y delitos relacionados previstos en el artículo 194, primer párrafo y sus fracciones I, II y V; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción II; robo agravado, artículo 235 bis; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II, III; y Abigeato y robo de animales, artículo 240, párrafo primero y segundo, 241 bis, 242, 243, cuando se cometa en dos o más cabezas de ganado mayor o se trate de reincidentes, en cualquiera de estas modalidades; la fracción IV del artículo 262; y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en el párrafo anterior, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis, también se califican como delitos graves;
+I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; extorsión agravada, artículo 189 bis; asalto, artículo 192; secuestro y delitos relacionados previstos en el artículo 194, primer párrafo y sus fracciones I, II y V; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción II; robo agravado, artículo 235 bis; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II, III; y abigeato y robo de animales, artículos 240 y 242 cuando el producto del delito exceda del importe de trescientos cincuenta salarios mínimos o se trate de reincidentes de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; la fracción IV del artículo 262; y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en el párrafo anterior, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis, también se califican como delitos graves;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura artículo 3º; y
 
@@ -3198,5 +3198,9 @@ TERCERO. Para los efectos de adecuación del orden jurídico, se deberán realiz
 CUARTO. Se ordena dar profusa difusión periódica al presente decreto en los medios de comunicación electrónicos y escritos de mayor cobertura, difusión y circulación en el Estado.
 
 P.O. 18 DE MARZO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE JUNIO DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
