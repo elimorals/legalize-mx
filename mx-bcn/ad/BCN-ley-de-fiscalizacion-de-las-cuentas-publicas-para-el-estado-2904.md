@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-de-las-cuentas-publicas-para-el-estado-290
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2001-11-09"
+last_updated: "2002-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION DE LAS CUENTAS PUBLICAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de septiembre de 1992.
 
@@ -369,6 +369,10 @@ b) Verificar la capacidad de pago de las Entidades y la estructura financiera de
 
 c) Comprobar el cumplimiento oportuno de las amortizaciones de capital y pago de intereses de los créditos contratados.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2002)</small>
+
+d) Comprobar el cumplimiento del Presupuesto de Egresos en lo relativo a las obligaciones financieras o crediticias derivadas de la deuda pública, de conformidad con las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
+
 ###### ARTICULO 24.
 
 La Contaduría Mayor de Hacienda del Congreso del Estado para el ejercicio de las atribuciones que le confieren los Artículos 7 fracción I, y 23 de esta Ley, está facultada para practicar visitas, inspecciones y auditorías, revisar toda clase de libros, documentos, bodegas, almacenes, plantas industriales, laboratorios, oficinas, escritorios, cajas fuertes, vehículos y otros bienes muebles e inmuebles, inspeccionar obras y, en general, recabar todos los elementos de información y documentación que se consideren necesarios para la revisión de las Cuentas Públicas de las Entidades.
@@ -638,3 +642,7 @@ P.O. 9 DE NOVIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor el día primero del mes de diciembre del año dos mil uno.
+
+P.O. 8 DE NOVIEMBRE DE 2002.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
