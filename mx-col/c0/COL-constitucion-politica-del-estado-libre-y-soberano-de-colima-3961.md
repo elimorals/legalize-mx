@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1951-06-02"
+last_updated: "1951-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1951.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -295,9 +295,9 @@ XXIII.- Interpelar, a moción de alguno o varios Diputados, al Ejecutivo, a los 
 
 XXIV.- Aprobar o reprobar la suspensión de los Ayuntamientos o de sus miembros, y la de los miembros de las Juntas Municipales que hubiere acordado el Ejecutivo.
 
-(REFORMADA, P.O. 6 DE JULIO DE 1935) (REPUBLICADA, P.O. 12 DE DICIEMBRE DE 1936)
+> <small>(REFORMADA, P. O. 10 DE NOVIEMBRE DE 1951)</small>
 
-XXV.- Nombrar a los Magistrados del Supremo Tribunal de Justicia, en la forma establecida en el artículo 70 de esta Constitución.
+25 (sic).- Nombrar y remover libremente a los Magistrados del Supremo Tribunal de Justicia, en la forma establecida por el Artículo 70 de esta Constitución.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -719,11 +719,11 @@ V.- Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 Los magistrados del Supremo Tribunal de Justicia, serán nombrados por la Legislatura en funciones de Colegio Electoral y por mayoría de votos. La elección se hará en escrutinio secreto y en caso de empate, se repetirá la votación hasta que se obtenga la mayoría indicada.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P. O. 10 DE NOVIEMBRE DE 1951)</small>
 
 ###### Artículo 71.
 
-Los Jueces de Primera Instancia y demás autoridades que designe la Ley Orgánica del Poder Judicial, serán nombrados por el Supremo Tribunal de Justicia y tendrán, estas últimas los requisitos que fija el artículo 69 de esta Constitución, a excepción del Título de Abogado que será dispensado cuando las circunstancias lo requieran.
+Los Jueces de Primera Instancia y los Menores serán nombrados y removidos libremente por el Supremo Tribunal de Justicia y tendrán los requisitos que fija el artículo 69 de esta Constitución, a excepción del título de abogado para los jueces menores que será dispensado cuando las circunstancias lo requieran.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
@@ -767,11 +767,11 @@ IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en s
 
 X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, y Tomarles la protesta respectiva en los términos de Ley.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P. O. 10 DE NOVIEMBRE DE 1951)</small>
 
 ###### Artículo 75.
 
-Los Magistrados y los Jueces sólo podrán ser removidos cuando incurran en responsabilidades oficiales y observaren mala conducta, previo el juicio de responsabilidad respectiva, salvo que la remoción tenga por objeto promoverlos a un grado superior.
+Los Magistrados y los Jueces serán removidos en los términos de los Artículos 33, fracción 25 (sic) y 71 de esta Constitución, sin perjuicio de que serán consignados a las Autoridades respectivas cuando incurran en responsabilidades oficiales u observaren mala conducta.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1924)</small>
 
@@ -1552,3 +1552,7 @@ Las presentes reformas entrarán en vigor el día de su pablicación (sic) en el
 P.O. 2 DE JUNIO DE 1951.
 
 Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE NOVIEMBRE DE 1951.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Colima".
