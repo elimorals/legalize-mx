@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2000-01-05"
+last_updated: "2000-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -147,15 +147,21 @@ IV.- El Oficial Mayor del Supremo Tribunal;
 
 V.- Los Secretarios del Supremo Tribunal y de los Juzgados;
 
-VI.- Los notificadores. Y
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-VII.- Los que tengan a su cargo la dirección o coordinación de las dependencias a que alude el artículo 42 de esta Ley.
+VI.- El Contralor General;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+VII.- Los notificadores; y
+
+VIII.- Los que tengan a su cargo la dirección o coordinación de las dependencias a que alude el artículo 42 de esta Ley.
 
 ###### ARTICULO 17.
 
 Con excepción de los Magistrados y Jueces que hayan adquirido inamovilidad, los funcionarios a que alude el artículo precedente, serán considerados como empleados de confianza para los efectos de su relación laboral con el Gobierno del Estado y al igual que los que se mencionan en el siguiente artículo, podrán ser removidos libremente por la autoridad que los designó.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 18.
 
@@ -163,9 +169,15 @@ Son empleados de confianza:
 
 I.- Los defensores de oficio;
 
-II.- Los que desempeñan sus funciones de conformidad con el artículo 42 de esta ley;
+II.- Los que desempeñan sus funciones de conformidad con el artículo 42 de esta Ley;
 
-III.- Los que, sin tener el carácter de funcionarios, presten servicios al Poder Judicial de manera provisional o eventual.
+III.- Los psicólogos y los trabajadores sociales del Departamento de Estudios Psicológicos y Socioeconómicos;
+
+IV.- El personal subalterno de los Departamentos del Fondo Auxiliar para la Administración de Justicia y de Control Presupuestario;
+
+V.- Aquéllos que al expedirse su nombramiento se especifique que son designados con ese carácter; y
+
+VI.- Los que, sin tener el carácter de funcionarios, presten servicios al Poder Judicial de manera provisional o eventual.
 
 ###### ARTICULO 19.
 
@@ -659,7 +671,9 @@ XXI.- Resolver las quejas presentadas contra los funcionarios y empleados que le
 
 XXII.- Tramitar y resolver todos aquellos asuntos que siendo meramente administrativos, no sean de la competencia del pleno o de las salas. Igualmente dictar todas aquellas providencias que sean necesarias para dejar los asuntos competencia del pleno, en estado de resolución;
 
-XXIII.- Manejar, con la aprobación del Pleno, los recursos que obtenga el Poder Judicial por cualquier concepto;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+XXIII.- Manejar, con la aprobación del Pleno, los recursos que obtenga el Poder Judicial por cualquier concepto, así como representarlo en la celebración de los acuerdos, contratos y actos jurídicos en los que intervenga;
 
 XXIV.- Aprobar los nombramientos que de escribientes o conserjes realicen los Jueces del Estado;
 
@@ -687,9 +701,11 @@ XXXIV.- Todas las demás que le confieran las leyes.
 
 El Presidente podrá someter al Tribunal Pleno la decisión de cualquier asunto de su competencia cuando así lo juzgue conveniente.
 
+(REFORMADO, P.O. 11 DE OCTUBRE DE 2000
+
 ###### ARTICULO 57.
 
-El Presidente del Tribunal rendirá ante el Pleno en sesión extraordinaria, un informe anual, en el mes de agosto, sobre el estado que guarde la administración de justicia en los Tribunales del Estado.
+El Presidente del Supremo Tribunal rendirá en el mes de enero, ante el Pleno en sesión extraordinaria, un informe anual sobre el estado que guarde la administración de justicia en los Tribunales del Estado.
 
 ###### ARTICULO 58.
 
@@ -725,7 +741,9 @@ III.- Dirimir en su ramo las cuestiones de competencia que se susciten entre los
 
 IV.- Calificar cada uno en su ramo, las recusaciones de los Jueces de Primera Instancia y las recusaciones y excusas de los Secretarios de la Sala de su adscripción;
 
-V.- Remitir al Tribunal Pleno, dentro de los cinco primeros días de cada mes, una noticia sobre el movimiento de negocios habidos en la Sala durante el mes anterior, especificando el estado que guarden los negocios existentes en ellas y la naturaleza de las resoluciones pronunciadas y una anual dentro de los primeros cinco días del mes de julio;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+V.- Remitir al Tribunal Pleno, dentro de los cinco primeros días de cada mes, una noticia sobre el movimiento de negocios habidos en la Sala durante el mes anterior, especificando el estado que guarden los negocios existentes en ellas y la naturaleza de las resoluciones pronunciadas y una anual dentro de los primeros cinco días del mes de enero de cada año;
 
 VI.- Constituirse, los, de las Salas Penales, como únicos superiores jerárquicos de los Jueces del Estado, para conocer, por riguroso turno, de los amparos a que alude el artículo 107 de la Constitución Federal. La tramitación de dichos asuntos se sujetará a los procedimientos fijados en la Ley Federal relativa;
 
@@ -1113,15 +1131,23 @@ III.- El Archivo Histórico.
 
 El Archivo General se ubicará en el mismo edificio que ocupa el Supremo Tribunal de Justicia y los de los Tribunales y demás Dependencias en los locales en donde éstos se ubiquen.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+Cuando resulte necesario, se habilitarán lugares distintos a los mencionados adecuándolos con las medidas de seguridad pertinentes.
+
 ###### ARTICULO 91.
 
 El Archivo General estará bajo la vigilancia del Presidente y del Secretario General y el cuidado de un Encargado que además de tener conocimientos de la materia, deberá reunir los requisitos que esta Ley señala para los funcionarios y empleados en general; contará además con el número de empleados que determine el Pleno y admita el Presupuesto. El sueldo del Encargado del Archivo General se equiparará al de un Secretario de Juzgado de Primera Instancia de la ciudad de Chihuahua.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
 ###### ARTICULO 92.
 
-Se depositarán en el Archivo General;
+Se depositarán en el archivo general:
 
-I.- Los tocas, expedientes y libros concluidos del Supremo Tribunal;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+I.- Los expedientes, cuadernos o cuadernillos, libros y tocas de los asuntos concluidos o caducos de los Juzgados y Salas del Supremo Tribunal de Justicia, así como los expedientes en los que no opere la caducidad, pero que no hayan tenido promoción de las partes en más de un año, en cuyo caso se remitirán para su guarda;
 
 II.- Los expedientes, libros, documentos y objetos que por acuerdo del Pleno del Tribunal, deban enviar los Juzgados del Estado y las Dependencias Administrativas;
 
@@ -1129,7 +1155,9 @@ III.- Los que así determine el Pleno o el Presidente del Tribunal; y
 
 IV.- Cualquier otro expediente o documento que conforme a la ley deba remitirse al Supremo Tribunal de Justicia.
 
-También serán archivados todos aquellos documentos provenientes de los Tribunales y Dependencias del Poder Judicial que tengan valor por referirse a hechos históricos del Poder Judicial, del Estado o de la Nación, lo que conformará el Archivo Histórico del Poder Judicial.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+El Reglamento determinará la forma y tiempo en que deban conservarse los expedientes y documentos que se encuentren en el archivo, de conformidad con lo dispuesto por las leyes aplicables en la materia.
 
 ###### ARTICULO 93.
 
@@ -1145,7 +1173,9 @@ IV.- Distribuir las labores entre él y los demás empleados para el mejor funci
 
 V.- Dar cuenta al Presidente de cualquier novedad que se suscite en el funcionamiento del Archivo;
 
-VI.- Rendir al Presidente del Tribunal, en los primeros cinco días del mes de julio, un informe estadístico anual que refleje el movimiento de la oficina a su cargo; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+VI.- Rendir al Presidente del Tribunal, en los primeros cinco días del mes de enero, un informe estadístico anual que refleje el movimiento de la oficina a su cargo; y
 
 VII.- Todas las demás que prescriban las leyes.
 
@@ -1199,7 +1229,9 @@ VIII.- Cumplir con las instrucciones que reciba tanto del Presidente como del Se
 
 IX.- Dar cuenta al Presidente de cualquier novedad que se suscite en el funcionamiento de la Biblioteca.
 
-X.- Rendir, en los primeros cinco días del mes de julio, un informe anual al Presidente del Tribunal, sobre la prestación del servicio; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+X.- Rendir, en los primeros cinco días del mes de enero, un informe anual al Presidente del Tribunal, sobre la prestación del servicio; y,
 
 XI.- Las demás que prescriban las leyes.
 
@@ -1293,7 +1325,9 @@ III.- Imponer correcciones disciplinarias a los Defensores del Estado y a los em
 
 IV.- Informar al Presidente de cualquier irregularidad que advierta en el desempeño de la función encomendada a los Defensores de Oficio;
 
-V.- Rendir al Presidente del Tribunal, dentro de los primeros cinco días de cada mes una noticia sobre el movimiento de asuntos y estado que guarden los expedientes relativos y una anual, dentro de los primeros cinco días del mes de julio de cada año;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+V.- Rendir al Presidente del Tribunal, dentro de los primeros cinco días de cada mes, una noticia sobre el movimiento de asuntos y estado que guarden los expedientes relativos y una anual, dentro de los primeros cinco días del mes de enero de cada año;
 
 VI.- Visitar a los reclusos de la Penitenciaria del Estado cuando menos una vez por semana, informando al Presidente de las deficiencias que encuentre perjudiciales para aquéllos;
 
@@ -1407,7 +1441,9 @@ V.- Distribuir las labores entre él y los demás empleados, para el mejor funci
 
 VI.- Dar a conocer al Presidente del Tribunal, cualquier novedad o irregularidad que advierta y que juzgue conveniente su comunicación;
 
-VII.- Rendir al Presidente del Tribunal, dentro de los primeros cinco días del mes de julio, un informe estadístico anual sobre la prestación del servicio; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+VII.- Rendir al Presidente del Tribunal, dentro de los primeros cinco días del mes de enero, un informe estadístico anual sobre la prestación del servicio; y
 
 VIII.- Todas las demás que prescriban las leyes.
 
@@ -1467,7 +1503,9 @@ IV.- Informar oportunamente a los Jueces sobre el estado físico o sicológico d
 
 V.- Asistir a las diligencias de prueba cuando así sea requerido, auxiliando al Juez en los aspectos de su función;
 
-VI.- Rendir al Presidente del Tribunal un informe mensual de sus actividades en los primeros cinco días de cada mes y uno anual en los primeros cinco días del mes de julio; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+VI.- Rendir al Presidente del Tribunal un informe mensual de sus actividades en los primeros cinco días de cada mes y uno anual en los primeros cinco días del mes de enero de cada año;
 
 VII.- Todas las demás que la ley, el Pleno o el Presidente del Tribunal determinen.
 
@@ -1553,7 +1591,9 @@ El Encargado del Departamento tendrá las siguientes funciones:
 
 I.- Coordinar todo lo relativo al Fondo en los términos de esta Ley, su Reglamento o las directrices que reciba del Pleno o el Presidente del Tribunal;
 
-II.- Rendir un informe mensual al Presidente y cada vez que le solicite, sobre el estado que guarde la administración del Fondo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+II.- Rendir informe al Presidente mensualmente o cada vez que se le solicite sobre el estado que guarde la administración del Fondo y uno anual dentro de los primeros cinco días del mes de enero;
 
 III.- Llevar la contabilidad del Fondo;
 
@@ -1877,77 +1917,93 @@ En caso de excusa o recusación de un Juez Menor, conocerá del negocio el Menor
 
 Corresponde a los jueces menores:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-I.- Conocer de juicios civiles cuya cuantía supere cien pero no quinientas veces el salario mínimo, al momento de iniciar el procedimiento. En lugares donde no hubiere jueces de paz no valdrá el límite inferior;
+I.- Conocer de juicios civiles cuya cuantía supere cien pero no mil quinientas veces el salario mínimo, al momento de iniciar el procedimiento. En lugares donde no hubiere jueces de paz no valdrá el límite inferior;
 
 II.- Conocer de los negocios civiles que versen sobre arrendamiento o cualquier otra prestación periódica, cuyo importe anual se encuentre dentro del límite establecido en la fracción anterior;
 
 III.- Conocer de las providencias que sean competencia de los Jueces de Primera Instancia en los lugares donde no existan éstos y la ley así lo autorice;
 
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+IV.- En materia familiar conocerán de todos aquellos asuntos en los que las prestaciones reclamadas puedan determinarse económicamente, aplicando la regla establecida por la fracción I de este precepto;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+
+V.- Conocer de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
+
+a).- Variación u ocultación del nombre o domicilio;
+
+b).- Desobediencia y resistencia de particulares;
+
+c).- Oposición a que se ejecute alguna obra o trabajo público;
+
+d).- Quebrantamiento de sellos;
+
+e).- Falsedad ante la autoridad;
+
+f).- Imputaciones falsas;
+
+g).- Quebrantamiento de sanciones;
+
+h).- Violación de correspondencia;
+
+i).- Ultrajes a la moral pública;
+
+j).- Delitos contra la filiación y el estado civil;
+
+k).- Lesiones, excepto las previstas en los artículos 200 y 201 del Código Penal;
+
+l).- Delitos de peligro para la vida y la salud corporal en los términos en que lo establece el Título X del Código Penal;
+
+m).- Allanamiento de morada;
+
+n).- Coacción y amenazas;
+
+o).- Adulterio;
+
+p).- Estupro;
+
+q).- Abusos sexuales, salvo que merecieren penalidad agravada;
+
+r).- Robo, fraude y abuso de confianza si su monto no excede de mil veces el salario mínimo al momento de la comisión del delito;
+
+s).- Daños intencionales y preterintencionales cuyo monto no exceda de mil veces el salario mínimo y daños por imprudencia cualquiera que fuere su cuantía;
+
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)</small>
+
+t).- Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción;
+
+> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 2000)</small>
+
+u).- Delitos que tengan pena alternativa o solo pecuniaria.
+
+VI.- Practicar, cuando haya detenido, las primeras diligencias en los procesos por delitos de la competencia de los Jueces de Primera Instancia, donde no los hubiere, hasta resolver la situación jurídica;
+
+VII.- Nombrar con la aprobación del Pleno del Supremo Tribunal, al Secretario de Acuerdos y, con la aprobación del Presidente, a los demás empleados, escribientes y conserje, tomándoles la protesta de ley en ambos casos;
+
+VIII.- Imponer correcciones disciplinarias con arreglo a las facultades que la ley les concede;
+
+IX.- Resolver las quejas interpuestas en contra de sus subalternos en los casos en que la ley les otorgue tal facultad;
+
+X.- Vigilar y controlar al personal subalterno de su Juzgado;
+
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-IV.- Conocer de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
+XI.- Conceder licencias al personal del juzgado hasta por diez días, y comunicar su otorgamiento a la Secretaría General del Tribunal;
 
-a).- Desobediencia y resistencia de particulares;
+XII.- Practicar las diligencias que les encomienden sus superiores;
 
-b).- Oposición a obra o trabajos públicos;
+XIII.- Decidir las cuestiones de competencia que se entablen entre los Jueces del Paz de sus respectivas municipalidades;
 
-c).- Quebrantamiento de sellos;
+XIV.- Conocer de las excusas y recusaciones de sus Secretarios;
 
-d).- Quebrantamiento de sanciones;
+XV.- Asesorar a los Jueces de Paz en los términos que esta Ley establece para la asesoría que presten los de Primera Instancia;
 
-e).- Ultrajes a la moral pública;
+XVI.- Tomar la protesta de ley a los Jueces de Paz de su adscripción; y
 
-f).- Lesiones que no pongan en peligro la vida y no dejen consecuencias médicos (sic) legales;
-
-g).- Incumplimiento de las obligaciones de asistencia familiar;
-
-h).- Omisión de cuidado o de auxilio a personas en peligro o a lesionados;
-
-i).- Disparo de arma de fuego y ataque peligroso;
-
-j).- Coacción y amenazas;
-
-k).- Adulterio;
-
-l).- Estupro;
-
-m).- Abusos sexuales, salvo que merecieren penalidad agravada;
-
-n).- Robo, fraude, abuso de confianza y administración fraudulenta, si su monto fuere inferior a quinientas veces el salario mínimo, al momento de la comisión del delito;
-
-ñ).- Daños intencionales, si su monto fuere inferior a quinientas veces el salario mínimo, al momento de la comisión del delito, y daños por imprudencia, cualquiera que fuere su cuantía;
-
-o).- Encubrimiento por favorecimiento o receptación, si el delito principal es de los reservados a su jurisdicción. Y
-
-p).- De los delitos que tengan pena alternativa o sólo pecuniaria.
-
-V.- Practicar, cuando haya detenido, las primeras diligencias en los procesos por delitos de la competencia de los Jueces de Primera Instancia, donde no los hubiere, hasta resolver la situación jurídica;
-
-VI.- Nombrar con la aprobación del Pleno del Supremo Tribunal, al Secretario de Acuerdos y, con la aprobación del Presidente, a los demás empleados, escribientes y conserje, tomándoles la protesta de ley en ambos casos;
-
-VII.- Imponer correcciones disciplinarias con arreglo a las facultades que la ley les concede;
-
-VIII.- Resolver las quejas interpuestas en contra de sus subalternos en los casos en que la ley les otorgue tal facultad;
-
-IX.- Vigilar y controlar al personal subalterno de su Juzgado;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-X.- Conceder licencias al personal del juzgado hasta por diez días, y comunicar su otorgamiento a la Secretaría General del Tribunal;
-
-XI.- Practicar las diligencias que les encomienden sus superiores;
-
-XII.- Decidir las cuestiones de competencia que se entablen entre los Jueces del Paz de sus respectivas municipalidades;
-
-XIII.- Conocer de las excusas y recusaciones de sus Secretarios;
-
-XIV.- Asesorar a los Jueces de Paz en los términos que esta Ley establece para la asesoría que presten los de Primera Instancia;
-
-XV.- Tomar la protesta de ley a los Jueces de Paz de su adscripción; y
-
-XVI.- Conocer de los demás asuntos que les faculten las leyes.
+XVII.- Conocer de los demás asuntos que les faculten las leyes.
 
 ### CAPITULO I. DE LAS FALTAS
 
@@ -1993,7 +2049,7 @@ Cuando un Juez de Paz se inhiba del conocimiento de un asunto, pasará al Juez d
 
 ### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 169.
 
@@ -2007,11 +2063,11 @@ En los Juzgados del Estado, el Juez será el jefe de oficina en el orden adminis
 
 Los Jueces proveerán en la esfera administrativa, todas las medidas necesarias para la buena marcha de la oficina a su cargo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 171.
 
-Los jueces deberán remitir a la Presidencia del Supremo Tribunal una noticia estadística anual y otra mensual sobre el movimiento de negocios habido en el juzgado. La primera la enviarán dentro de los primeros cinco días de julio y la segunda en los primeros cinco días de cada mes.
+Los jueces deberán remitir a la Presidencia del Supremo Tribunal una noticia estadística anual y otra mensual sobre el movimiento de negocios habidos en el Juzgado, la primera dentro de los primeros cinco días de enero y la segunda en los primeros cinco días de cada mes.
 
 La omisión de esos deberes será sancionada con multa hasta de veinte veces el salario mínimo por el Presidente del Tribunal.
 
@@ -2215,9 +2271,9 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO I. DE LAS BASES Y PROCEDIMIENTO
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 195.
 
@@ -2391,11 +2447,15 @@ El Pleno determinará si la comisión de delitos imprudenciales o la privación 
 
 ### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 204.
 
-El procedimiento de queja para sancionar las faltas se iniciará a petición de parte. La autoridad que deba conocer y resolver las quejas, las desechará de plano cuando se refieran específicamente a cuestiones procedimentales que deban combatirse a través de los recursos impugnatorios que establezca la ley.
+El procedimiento de queja para sancionar las faltas se iniciará a petición de parte.
+
+La autoridad que deba conocer y resolver las quejas, las desechará de plano cuando se refieran específicamente a cuestiones procedimentales que deban combatirse a través de los recursos impugnatorios que establezca la Ley.
+
+El escrito de queja deberá presentarse dentro de diez días hábiles contados a partir de la consumación de los hechos que la fundamenten o en caso de hechos continuos, a partir del día siguiente en que cese su ejecución, salvo que la ley señale plazo distinto. Transcurrido el plazo, caducará el derecho del interesado.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
@@ -2473,75 +2533,99 @@ Si la persona en contra de quien se interpuso la queja no resulta responsable de
 
 Cuando una queja se interponga sin fundamento y así se declare por la autoridad que conozca de ella o ninguna prueba se desahogue para justificar los hechos en que se fundamenta, se impondrá al quejoso y a su abogado, si está demostrada su intervención, una multa hasta de veinte veces el salario mínimo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTCULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL PODER JUDICIAL
+## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIO Y OBRA PUBLICA DEL PODER JUDICIAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO III. DE LAS INCONFORMIDADES
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 211.
 
-El gasto de las adquisiciones, arrendamientos y servicios, así como de obra pública, se sujetará a lo previsto en la Constitución Política del Estado y: A) a la Ley de presupuesto de egresos, contabilidad y gasto público, cuando se trate de erogaciones contra el presupuesto del Poder Judicial aprobado por el Congreso. B) los acuerdos del Pleno del Supremo Tribunal de Justicia, cuando deban ser cubiertas por el Fondo Auxiliar para la Administración de Justicia.
+El gasto que el Poder Judicial realice con motivo de las adquisiciones, arrendamientos, contratación de servicios y obra pública, se ajustará, en cuanto a su ejercicio, a las reglas establecidas por la Constitución Política del Estado, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público, así como a las demás leyes aplicables en la materia.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+Cuando el gasto deba ser cubierto por el Fondo Auxiliar para la Administración de Justicia, el Pleno emitirá el acuerdo respectivo.
+
+Cuando se trate de la realización de la obra pública, el Pleno, por conducto de su Presidente, podrá celebrar convenio con el Poder Ejecutivo para que la Secretaría de Comunicaciones y Obras Públicas auxilie al Poder Judicial en la ejecución, ajustándose para ello a lo que al respecto señale la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 212.
 
-El Pleno establecerá las bases para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice con recursos del Fondo Auxiliar para la Administración de Justicia.
+Cada año se elaborará un programa de contratación de servicios, arrendamientos y adquisición de aquellos bienes que satisfagan las necesidades detectadas de manera directa por el Tribunal o hechas notar por los Titulares de las diversas oficinas del Poder Judicial, y de realización de obra pública que estime deba cubrirse con recursos del Fondo Auxiliar para la Administración de Justicia.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+El presupuesto aprobado por el Pleno se ejercerá durante el año presupuestal inmediato siguiente.
+
+El Pleno, previa solicitud del Presidente, podrá acordar el pago de gastos a que se refiere la fracción XXX del artículo 50.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 213.
 
-El Pleno, elaborará los programas respectivos, conforme a las necesidades detectadas de manera directa o hechas notar por los titulares de los juzgados y demás dependencias, considerando la disponibilidad de sus recursos propios y presupuestales y aplicará sus disposiciones por conducto de una comisión.
+Los acuerdos del Pleno en cuanto a adquisiciones, arrendamientos, contratación de servicios y obra pública se ejecutarán por una Comisión integrada por un Magistrado que designe el Pleno; el Secretario General y el Oficial Mayor del Supremo Tribunal de Justicia del Estado y que se denominará "La Comisión de Compras".
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 214.
 
-La comisión se integrará por un Magistrado designado por el Pleno; el Secretario General y el Oficial Mayor del Supremo Tribunal de Justicia.
+La Comisión ejercerá las atribuciones necesarias para el cumplimiento de su cometido, bajo la supervisión y vigilancia de los órganos superiores.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+En todo caso, recabará por los medios que estime conducentes todos aquellos elementos necesarios para la legal celebración de los actos y contratos a que se refiere este Capítulo, cuidando siempre de verificar la solvencia económica y seriedad de la propuesta de aquellos que concurran a las licitaciones que se celebren.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 215.
 
-La comisión ejercerá las atribuciones necesarias para el cumplimiento de su (sic) cometidos, bajo la supervisión y vigilancia de los órganos superiores.
+El Reglamento establecerá las bases para las adquisiciones, arrendamientos, contratación y prestación de servicios y obra pública, así como para la enajenación de todo tipo de bienes que se realice con recursos del Fondo Auxiliar para la Administración de Justicia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 216.
 
-Los contratos a que se refiere este título, podrán ser:
+La celebración de actos o contratos para la adquisición de bienes, arrendamientos de servicios y construcción de obra pública a que se refiere este Título, podrá efectuarse por:
 
-I.- Por licitación pública, en los términos que establece el Presupuesto de Egresos para el ejercicio fiscal correspondiente;
+I.- Licitación pública; o
 
-II.- Por licitación restringida, que comprenderá:
+II.- Licitación restringida que comprenderá:
 
-A).- La invitación a cuando menos tres proveedores o contratistas según sea el caso y
+a).- La invitación a cuando menos tres proveedores o contratistas, según sea el caso; y
 
-B).- La adjudicación directa.
+b).- La adjudicación directa.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+El Reglamento de esta Ley señalará las bases y forma de desarrollo de los diversos procedimientos de adjudicación.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 217.
 
-Quienes concurran a la licitación pública o restringida deberán proporcionar los datos necesarios para verificar su solvencia económica y la seriedad de sus propuestas. El Pleno, libremente podrá realizar las investigaciones pertinentes para conformar esos informes.
+En todo caso, La Comisión de Compras recabará, por los medios que estime pertinentes, los datos necesarios para verificar la solvencia económica y la seriedad de las propuestas de aquellos que concurran a la licitación.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 218.
 
-No se celebrarán contratos con personas que tengan parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, alguno de los Magistrados o miembros de la comisión. En casos excepcionalmente favorables al Poder Judicial, el Pleno podrá dispensar esta limitante.
+No se celebrarán contratos:
+
+I.- Con las personas morales cuyos representantes legales y/o socios mayoritarios o las personas físicas, que tengan parentesco en línea directa sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los Magistrados o Miembros de la Comisión;
+
+II.- Con aquellos proveedores o contratistas que por causas imputables a ellos mismos, se les hubiere rescindido en la vía administrativa un contrato o se encuentre pendiente de resolución o ejecución un litigio derivado del mismo, dentro de un lapso de cinco años contados a partir de la rescisión o el inicio del litigio;
+
+III.- Con aquellas personas físicas o morales que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien en la promoción o medio de defensa legal;
+
+IV.- Con los proveedores que se encuentren en situación de atraso en la entrega de bienes o servicios por causas imputables a ellos, y por las mismas razones, con los contratistas en la ejecución de las obras públicas contratadas;
+
+V.- Con las personas a las que se declare en estado de quiebra o suspensión de pagos o sujeta a concurso de acreedores;
+
+VI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 219.
 
-En caso de inconformidad, el interesado, bajo protesta de decir verdad, planteará por escrito las impugnaciones correspondientes dentro de las cuarenta y ocho horas siguientes a la emisión del fallo de adjudicación del contrato.
+En caso de inconformidad con el fallo adjudicatorio, el interesado planteará por escrito las impugnaciones correspondientes dentro de los dos días siguientes al de la fecha de emisión del fallo.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -2557,15 +2641,21 @@ Sólo podrán impugnarse cuestiones relativas a:
 
 1).- La existencia de algún impedimento para contratar con el favorecido conforme a lo dispuesto por el artículo 218 de esta Ley.
 
-2).- Errores de apreciación vinculados a aspectos fundamentales del objeto del contrato, su monto u otro económico de las propuestas.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
-3).- Se desecharán de plano las promociones que carezcan de los requisitos señalados en los apartados precedentes.
+2).- Errores de apreciación vinculados a aspectos esenciales del objeto del contrato, su número o al aspecto económico de las propuestas.
 
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
+Se desecharán de plano las promociones que carezcan de los requisitos señalados en los apartados precedentes.
+
+3).- (DEROGADO, P.O. 11 DE OCTUBRE DE 2000)
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 222.
 
-El Pleno resolverá las inconformidades dentro de las setenta y dos horas siguientes a su presentación. Podrá recabar oficiosamente los datos necesarios para decidir sobre las cuestiones planteadas. En su caso, la inconformidad podrá ser resuelta mediante arbitraje.
+El Pleno resolverá las inconformidades dentro de los tres días siguientes a su presentación pudiendo recabar oficiosamente los datos necesarios para decidir sobre las cuestiones planteadas.
+
+En lo relativo a los términos y plazos que se establecen en este Capítulo, se aplicará lo que al respecto señala el Código de Procedimientos Civiles del Estado.
 
 A R T I C U L O S T R A N S I T O R I O S:
 
@@ -2688,3 +2778,9 @@ P.O. 5 DE ENERO DE 2000.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procedimientos que se encuentren en trámite a la entrada en vigor de las reformas y adiciones que el Decreto contiene, se ajustarán a la nueva tramitación en cuanto el estado procesal de los mismos lo permita.
+
+P.O. 11 DE OCTUBRE DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos que se encuentren en trámite a la entrada en vigor de las reformas que el Decreto contiene, desde luego se ajustarán a la nueva tramitación, en cuanto su estado lo permita.
