@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1974-05-18"
+last_updated: "1975-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE MAYO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE MARZO DE 1975.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -87,7 +87,15 @@ I.- Seguro de enfermedades no profesionales y de maternidad;
 
 II.- Seguro de accidentes del trabajo y enfermedades profesionales;
 
+> <small>(ADICIONADA, B.O. 19 DE MARZO DE 1975)</small>
+
+II bis.- Servicio de reeducación y readaptación de inválidos.
+
 III.- Créditos para la adquisición en propiedad de casas o terrenos para la construcción de las mismas, destinados a la habitación familiar del trabajador;
+
+> <small>(ADICIONADA, B.O. 19 DE MARZO DE 1975)</small>
+
+III bis.- Actividades que eleven el nivel cultural del servidor público y su familia.
 
 IV.- Arrendamiento de habitaciones económicas pertenecientes al Instituto;
 
@@ -245,13 +253,17 @@ SEGURO DE ENFERMEDADES NO PROFESIONALES
 
 En caso de enfermedad no profesional, el trabajador y el pensionista tendrán derecho a las siguientes prestaciones:
 
-I.- Asistencia médica, quirúrgica, farmacéutica y hospitalaria que sean necesarias, desde el comienzo de la enfermedad y durante el plazo máximo de veintiséis semanas para la misma enfermedad. El Reglamento de Servicios Médicos determinará que se entiende por este último concepto.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE MARZO DE 1975)</small>
+
+I.- Asistencia médica, quirúrgica, farmacéutica, y hospitalaria que sean necesarias, desde el comienzo de la enfermedad y durante el plazo máximo de cincuenta y dos semanas para la misma enfermedad. El Reglamento de Servicios Médicos determinará qué se entiende por este último concepto.
 
 El Instituto no estará obligado a proporcionar servicios de Cirugía Cosmética, ni a proveer dentífricos, cosméticos, lentes para corrección de defectos visuales, aparatos de Prótesis de Odontología o aparatos de Prótesis de Ortopedia.
 
 En caso de enfermos ambulantes, cuyo tratamiento médico no les impida trabajar, el tratamiento de una misma enfermedad se continuará hasta su curación.
 
-II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trabajo, tendrá derecho a licencia con goce de sueldo, o con medio sueldo, de acuerdo con las disposiciones legales vigentes que reglamenten las relaciones laborales entre el Estado y los organismos públicos incorporados, por una parte, y sus servidores, por la otra. Si al vencer la licencia con medio sueldo continua la incapacidad, el trabajador tendrá derecho a disfrutar de licencia sin goce de sueldo mientras dure la incapacidad, hasta completar con las licencias anteriores y a partir de la fecha en que se inició aquella, el término de veintiséis semanas, no obstante cualquiera disposición en contrario contenida en las expresadas leyes reglamentarias. Durante la licencia sin goce de sueldo a que acaba de aludirse. El Instituto cubrirá al asegurado un subsidio en dinero equivalente al cincuenta por ciento del sueldo que percibía el trabajador.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE MARZO DE 1975)</small>
+
+II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trabajo, tendrá derecho a licencia con goce de sueldo, o con medio sueldo, de acuerdo con las disposiciones legales vigentes que reglamenten las relaciones laborales entre el Estado y los organismos públicos incorporados, por una parte, y sus servidores, por la otra. Si al vencer la licencia con medio sueldo continua la incapacidad, el trabajador tendrá derecho a disfrutar licencia sin goce de sueldo mientras dure la incapacidad, hasta completar con las licencias anteriores y a partir de la fecha en que se inició aquélla, el término de cincuenta y dos semanas, no obstante cualquiera disposición en contrario contenida en las expresadas leyes reglamentarias. Durante la licencia sin goce de sueldo a que acaba de aludirse, el Instituto cubrirá al asegurado un subsidio en dinero equivalente al cincuenta por ciento del sueldo que percibía el trabajador.
 
 Al principiar la enfermedad, tanto el trabajador como el Estado u organismo público incorporado en que labore, deberán dar el aviso correspondiente al Instituto.
 
@@ -272,6 +284,16 @@ a).- Que dependan económicamente del trabajador o del pensionista;
 b).- Que el trabajador o el pensionista tengan derecho a las prestaciones señaladas en la Fracción I del Artículo 23;
 
 c).- Que dichos familiares no tengan por sí mismos derechos propios a las prestaciones otorgadas por esta Ley o por la Ley del Seguro Social o la Ley que Crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado dependientes de la Federación.
+
+> <small>(ADICIONADA, B.O. 19 DE MARZO DE 1975)</small>
+
+III.- Los hijos mayores de 18 y hasta 25 años.
+
+Los familiares que se mencionan en esta fracción, tendrán el derecho antes establecido si reúnen además de los requisitos que se señalan en los incisos a, b y c de la fracción anterior, lo siguiente:
+
+a).- Que esté cursando estudios de nivel medio superior o subsecuentes.
+
+b).- Que a satisfacción del Instituto compruebe periódicamente tanto la inscripción como el promedio de calificación aprobatoria.
 
 ###### Artículo 25.
 
@@ -323,13 +345,15 @@ Se establece el seguro de accidentes del trabajo y enfermedades profesionales en
 
 ###### Artículo 31.
 
-La profesionalidad de los accidentes y enfermedades será calificada técnicamente por el Instituto. El afectado inconforme con la calificación podrá designar un perito técnico o médico para que dictamine a su vez. Es (sic) caso de desacuerdo entre la calificación del Instituto y el dictamen del perito del afectado, el Instituto le proporcionará una terna preferentemente de especialistas de notorio prestigio profesional para que entre ellos elija uno, quien resolverá en forma definitiva. En la inteligencia de que una vez hecha la elección por el afectado del tercero en discordia, el dictamen de éste será inapelable y por lo tanto obligatorio para el interesado y para el Instituto.
+La profesionalidad de los accidentes y enfermedades será calificada técnicamente por el Instituto. El afectado inconforme con la calificación podrá designar un perito técnico o médico para que dictamine a su vez. Es (sic) caso de desacuerdo entre la calificación del Instituto y el dictamen del perito del afectado, el Instituto le proporcionará una terna preferentemente de especialistas de notorio prestigio profesional para que entre ellos elija uno, quien resolverá en forma definitiva, en la inteligencia de que una vez hecha la elección por el afectado del tercero en discordia, el dictamen de éste será inapelable y por lo tanto obligatorio para el interesado y para el Instituto.
 
 ###### Artículo 32.
 
 En caso de accidente o enfermedad profesional, el trabajador tendrá derecho a las siguientes prestaciones:
 
-I.- Asistencia médica, quirúrgica o farmacéutica, así como a hospitalización si es necesaria.
+> <small>(REFORMADA, B.O. 19 DE MARZO DE 1975)</small>
+
+I.- Asistencia médica, quirúrgica, farmacéutica, así como aparatos de prótesis de ortopedia y hospitalización que sea necesaria.
 
 II.- Licencia con goce de sueldo íntegro cuando el accidente o enfermedad profesional incapaciten al trabajador para desempeñar sus labores. El pago del sueldo se hará desde el primer día de incapacidad y será cubierto en la siguiente forma:
 
@@ -405,9 +429,9 @@ III.- En caso de que el Instituto exigiere el pago forzoso del saldo que se adeu
 
 IV.- En caso de rescisión del contrato o de recuperación del inmueble por el Instituto en virtud de la reserva de dominio, el trabajador será considerado como arrendatario durante el tiempo que hubiere ocupado la finca, estando obligado a cubrir el importe de la renta y de los daños y deterioros que por su culpa o negligencia o la de sus familiares o dependientes hubiere sufrido el inmueble. Si existiere alguna diferencia a favor del trabajador entre lo que hubiere abonado a cuenta del precio o del importe de las rentas y la indemnización por daños y deterioros en su caso, se le hará entrega de aquella una vez hechas las anteriores deducciones. Para los efectos de este artículo se fijará desde el otorgamiento de la escritura la renta mensual que se asigne al inmueble:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE MARZO DE 1975)</small>
 
-V.- Honorarios notariales para el otorgamiento de las escrituras, así como el pago de los impuestos y gastos adicionales serán por cuenta exclusiva de los trabajadores.
+V.- Los honorarios notariales para el otorgamiento de las escrituras, serán cubiertos por mitad entre el Instituto y los trabajadores. El pago de impuestos y gastos adicionales serán por cuenta exclusiva de estos.
 
 Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta ley fije la Junta Directiva por medio de acuerdos generales.
 
@@ -601,6 +625,10 @@ El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de q
 
 Todas las pensiones que se concedan, se otorgarán por cuota diaria.
 
+> <small>(ADICIONADO, B.O. 19 DE MARZO DE 1975)</small>
+
+Para el otorgamiento de las pensiones directas por vejez o invalidez, si el sueldo regulador fuere inferior al salario mínimo vigente, se tomará éste para los efectos de la aplicación de la tabla de porcentajes contenida en el artículo 71 de ésta ley.
+
 ###### Artículo 61.
 
 Cuando un trabajador a quien se haya otorgado una pensión siga en servicio, sin haberla disfrutado, podrá renunciar a ella y obtener otra, de acuerdo con las cuotas aportadas y el tiempo de servicios prestados con posterioridad.
@@ -611,11 +639,11 @@ En ningún caso un pensionista podrá regresar a servicio activo, salvo el de in
 
 ###### Artículo 62.
 
-Es incompatible la percepción de una pensión, otorgada por el Instituto con la percepción de cualquiera otra pensión concedida por el propio Instituto y organismos públicos a que se refieren los artículos 1º y 3º de esta Ley y que están incorporados al régimen de la misma. Es igualmente incompatible la percepción de una pensión ganada por derecho propio con el desempeño de cualquier cargo, empleo o comisión remunerados por el Estado y organismos públicos, siempre que tales cargos y empleos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión, cuando desaparezca la incompatibilidad. Tal incompatibilidad no existirá entre la percepción de una pensión concedida por el Instituto por servicios prestados al Gobierno del Estado y el desempeño de la docencia en el Universidad de Sonora o en otro organismo público descentralizado de fines educativos, y entre aquella y la pensión por servicios docentes en otros organismos.
+Es incompatible la percepción de una pensión, otorgada por el Instituto con la percepción de cualquiera otra pensión concedida por el propio Instituto y organismos públicos a que se refieren los artículos 1º y 3º de esta Ley y que están incorporados al régimen de la misma. Es igualmente incompatible la percepción de una pensión ganada por derecho propio con el desempeño de cualquier cargo, empleo o comisión remunerados por el Estado y organismos públicos, siempre que tales cargos y empleos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión, cuando desaparezca la incompatibilidad. Tal incompatibilidad no existirá entre la percepción de una pensión concedida por el Instituto por servicios prestados al Gobierno del Estado y el desempeño de la docencia en la Universidad de Sonora o en otro organismo público descentralizado de fines educativos, ni entre aquella y la pensión por servicios docentes en otros organismos.
 
 El Infractor a la disposición antes expresada estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por el Instituto, pero que nunca será menor al tiempo en que las hubiera recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciese el reintegro en los términos de este artículo, perderá todo derecho a la pensión.
 
-Los pensionistas quedan obligados a dar aviso inmediato el Instituto cuando acepten cualesquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente quedan obligados a dar aviso en caso de otorgamiento de alguna pensión. En todo caso, el Instituto ordenará la suspensión de la pensión otorgada.
+Los pensionistas quedan obligados a dar aviso inmediato al Instituto cuando acepten cualesquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente quedan obligados a dar aviso en caso de otorgamiento de alguna pensión. En todo caso, el Instituto ordenará la suspensión de la pensión otorgada.
 
 ###### Artículo 63.
 
@@ -669,53 +697,59 @@ Tienen derecho a pensión por vejez, los trabajadores que habiendo cumplido 55 a
 
 El cómputo de los años de servicios se hará considerando uno solo de los empleos, en los casos en que el trabajador hubiese desempeñado simultáneamente varios, cualesquiera que fuesen; en consecuencia, para dicho cómputo se considerará por una sola vez el tiempo durante el cual haya tenido o tenga el interesado el carácter de trabajador.
 
+> <small>(REFORMADO, B.O. 19 DE MARZO DE 1975)</small>
+
 ###### Artículo 71.
 
-En el cómputo final toda fracción de más de seis meses de servicios, se considerará como año completo, para los efectos del otorgamiento de la pensión.
+Para los efectos del otorgamiento de las pensiones directas, por vejez o invalidez, cuando el trabajador haya cumplido 55 años de edad y prestado servicios al Gobierno del Estado y organismos incorporados durante 15 años por lo menos y contribuido al Instituto por el mismo período, aquella se calculará aplicando el sueldo regulador a que se refiere el artículo 73, de acuerdo con los porcentajes que especifica la tabla siguiente:
 
-Cuando el trabajador que cumpla cincuenta y cinco años de edad haya prestado servicios al Gobierno del Estado y organismos incorporados durante quince años por lo menos y contribuido al Instituto por el mismo período, la pensión, en caso de jubilación, se calculará aplicando el sueldo regulador a que se refiere el artículo 73, los porcentajes que especifica la tabla siguiente:
+15 años de servicios: 50%
 
-15 años de servicios……………………………40%
+16 años de servicios: 52.5%
 
-16 años de servicios……………………………42.5%
+17 años de servicios: 55%
 
-17 años de servicios……………………………45%
+18 años de servicios: 57.5%
 
-18 años de servicios……………………………47.5%
+19 años de servicios: 60%
 
-19 años de servicios……………………………50%
+20 años de servicios: 62.5%
 
-20 años de servicios……………………………52.5%
+21 años de servicios: 65%
 
-21 años de servicios…………………………….55%
+22 años de servicios: 67.5%
 
-22 años de servicios…………………………….60%
+23 años de servicios: 70%
 
-23 años de servicios……………………………..65%
+24 años de servicios: 72.5 %
 
-24 años de servicios……………………………..70%
+25 años de servicios: 75%
 
-25 años de servicios……………………………..75%
+26 años de servicios: 80%
 
-26 años de servicios……………………………..80%
+27 años de servicios: 85%
 
-27 años de servicios……………………………...85%
+28 años de servicios: 90%
 
-28 años de servicios………………………………90%
+29 años de servicios: 95%
 
-29 años de servicios………………………………95%
+30 años de servicios: 100%
 
-30 años de servicios……………………………….100%
+En el cómputo final, toda fracción de más de seis meses se considerará como año completo.
+
+> <small>(REFORMADO B.O. 19 DE MARZO DE 1975)</small>
 
 ###### Artículo 72.
 
-La pensión total por vejez que se conceda con cargo al Instituto, en ningún caso podrá ser inferior a ocho pesos cincuenta centavos diarios.
+La pensión total por vejez que se concedan con cargo al Instituto, en ningún caso podrá ser inferior a veintiocho pesos con treinta y tres centavos diarios.
 
 ###### Artículo 73.
 
 Para calcular el monto de la pensión a que tengan derecho los trabajadores, se tomarán en cuenta exclusivamente el sueldo o sueldos percibidos, y, a partir del 1 de enero de 1949, sólo se considerarán aquellos sobre los cuales se hubiesen cubierto las aportaciones correspondientes.
 
-Asimismo, para calcular el monto de las cantidades que correspondan por jubilación o por pensión en los términos de los artículos 67 y 71 respectivamente, se tomará el promedio de los sueldos percibidos en cada uno de los cinco años inmediatos anteriores a la fecha del acuerdo por el que se conceda, sobre los que hubiesen cubierto las aportaciones respectivas. Dicho promedio se denominará sueldo regulador.
+> <small>(REFORMADO B.O. 19 DE MARZO DE 1975)</small>
+
+Asimismo, para calcular el monto de las cantidades que correspondan por pensión en los términos de los artículos 67 y 71 respectivamente, se tomará el promedio de sueldos percibidos en cada uno de los cinco años inmediatos anteriores a la fecha del acuerdo por el que se conceda, sobre los que hubiesen cubierto las aportaciones respectivas. Dicho promedio se denominará sueldo regulador.
 
 ###### Artículo 74.
 
@@ -733,7 +767,9 @@ PENSION POR INVALIDEZ
 
 La pensión por invalidez se otorgará a los trabajadores que se inhabiliten física o mentalmente por causas ajenas al desempeño de su cargo o empleo, si hubiesen contribuido al Instituto cuando menos durante quince años. El derecho al pago de esta pensión comienza a partir de la fecha en que el trabajador cause baja motivada por la inhabilitación.
 
-Para calcular el monto de esta pensión, se aplicará la tabla contenida en el artículo 71 en relación con el artículo 73.
+> <small>(REFORMADO, B.O. 19 DE MARZO DE 1975)</small>
+
+Para calcular el monto de esta pensión, se aplicará la tabla contenida en el artículo 71 en relación con el artículo 73, la que en ningún caso podrá ser inferior a veintiocho pesos con treinta y tres centavos diarios.
 
 ###### Artículo 77.
 
@@ -761,7 +797,7 @@ La pensión por invalidez y la tramitación de la misma se suspenderá:
 
 I.- Cuando el pensionista o solicitante esté desempeñando cargo o empleo en el Estado o en los organismos públicos incorporados o acogidos al régimen de esta ley, de conformidad con los artículos 1o. y 3o. de la misma.
 
-II.- En el caso de que el pensionista o solicitante se niegue injustificadamente a someterse a las investigaciones que en cualquier tiempo ordene el Instituto se practiquen, o se resista a las medidas preventivas o curativas a que deba sujetares. El pago de la pensión o la tramitación de la solicitud se reanudará a partir de la fecha en que el pensionado se someta al tratamiento médico, sin que haya lugar, en el primer caso, al reintegro de las prestaciones que dejó de percibir durante el tiempo que duró la suspensión.
+II.- En el caso de que el pensionista o solicitante se niegue injustificadamente a someterse a las investigaciones que en cualquier tiempo ordene el Instituto se practiquen, o se resista a las medidas preventivas o curativas a que deba sujetarse. El pago de la pensión o la tramitación de la solicitud se reanudará a partir de la fecha en que el pensionado se someta al tratamiento médico, sin que haya lugar, en el primer caso, al reintegro de las prestaciones que dejó de percibir durante el tiempo que duró la suspensión.
 
 ###### Artículo 81.
 
@@ -827,57 +863,41 @@ Si no existiesen parientes o personas que se encarguen de la inhumación, el Ins
 
 ### CAPITULO SEPTIMO BIS.. DEL PAGO POSTUMO
 
-> <small>(ADICIONADO, B.O. 17 DE AGOSTO DE 1966)</small>
+> <small>(REFORMADO, B.O. 19 DE MARZO DE 1975)</small>
 
 ###### Artículo 88 Bis.
 
-El Instituto tendrá a su cargo el Pago Póstumo de la cantidad de…$30,000.00, que con independencia de la prestación establecida en el Capítulo Noveno de la Ley del Servicio Civil, se entregará, a la muerte de los trabajadores incorporados al propio Instituto, a los beneficiarios que éstos designen y a la falta de designación de sus herederos legítimos, para el cumplimiento de esta prestación el Gobierno del Estado aportará una cuota mensual de $10.00 por cada trabajador e igual cantidad aportará cada uno de los trabajadores, sin que exista derecho a la devolución de tales cuotas.- En iguales términos podrá proporcionarse el pago póstumo a los trabajadores de otras instituciones u organizaciones que se incorporen al Instituto.- Los trabajadores que se pensionen y los pensionados a partir del primero de enero de 1966 podrán disfrutar del mismo derecho, mediante una cuota mensual de $20.00 previa manifestación de su interés que hagan al Instituto, sin que en este caso exista obligación de parte del Gobierno del Estado de aportar alguna cuota adicional.- El pago póstumo a que se refiere este Capítulo quedará sujeto a las siguientes bases:
+El Instituto se obliga a cubrir el pago póstumo, que podrá ser ordinario o extraordinario.
 
-PRIMERA.- El Gobierno del Estado, por conducto de la Tesorería General, hará los descuentos a los trabajadores, el día primero de cada mes y entregará de inmediato al Instituto las cuotas correspondientes, tanto del Gobierno como de cada trabajador. Los remanentes que arrojare la operación, se incorporarán al fondo de pensiones. Así como en caso de insuficiencia, el fondo de pensiones proporcionará el faltante para el cumplimiento oportuno de los pagos póstumos.
+a).- Es pago póstumo ordinario el que se fija en favor de los beneficiarios de quien, conforme a esta Ley, tiene la calidad de derechohabiente. Consistirá en el pago de $100,000.00, que el Instituto entregará, a la muerte de los trabajadores incorporados al propio Instituto, a los beneficiarios que éstos designen y a la falta de designación, a sus herederos legítimos. Para el cumplimiento de esta prestación el Gobierno del Estado aportará una cuota mensual de $37.50 por cada trabajador, e igual cantidad aportará cada uno de los trabajadores, sin que exista el derecho a la devolución de tales cuotas. En iguales términos podrá proporcionarse el pago póstumo a los trabajadores de otras instituciones u organizaciones que se incorporen al Instituto. Los trabajadores que se pensionen a partir de la fecha de vigencia de esta reforma, podrán disfrutar del mismo derecho, mediante una cuota mensual de ... $ 75.00, previa manifestación de su interés que hagan al Instituto, sin que en este caso exista obligación de parte del Gobierno del Estado de aportar alguna cuota adicional. El pago póstumo a que se refiere este capítulo quedará sujeto a las siguientes bases:
 
-SEGUNDO.- El Instituto deberá expedir un certificado individual a cada uno de los trabajadores, por lo que, previamente, cada trabajador firmará una solicitud, proporcionando los datos necesarios y designará a sus beneficiarios.
+PRIMERA:- El Gobierno del Estado, por conducto de la Tesorería General, hará los descuentos a los trabajadores el día 1ro. de cada mes y entregará de inmediato al Instituto las cuotas correspondientes, tanto del Gobierno como de cada trabajador. Los remanentes que arroje la operación, se incorporarán al fondo de pensiones. Así como en caso de insuficiencia, el fondo de pensiones proporcionará el faltante para el cumplimiento oportuno de los pagos póstumos.
 
-TERCERA.- El trabajador que tenga derecho al pago póstumo podrá en cualquier tiempo hacer una nueva designación del beneficiario, notificándolo al Instituto.
+SEGUNDA:- El Instituto deberá expedir un certificado individual a cada uno de los trabajadores, por lo que, previamente, cada trabajador firmará una solicitud, proporcionando los datos necesarios y designará a sus beneficiarios.
 
-CUARTA.- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del Instituto y presentar el acta de defunción del trabajador fallecido.
+TERCERA:- El trabajador que tenga derecho al pago póstumo podrá en cualquier tiempo hacer una nueva designación del beneficiario, notificándolo al Instituto.
 
-QUINTO.- Cuando el trabajador no haya designado beneficiario, el importe del pago póstumo se pagará a los herederos de acuerdo con el orden que establece el Código Civil del Estado, en lo relativo a la sucesión legítima.
+CUARTA:- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del instituto y presentar el acta de defunción del trabajador fallecido.
 
-SEXTA.- Al fallecimiento del trabajador y cuando éste no haya designado beneficiario, el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con la Ley, a declarar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponde entregar el beneficio.- Para acreditar el derecho a percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará a lo dispuesto en la legislación civil.
+QUINTA:- Cuando el trabajador no haya designado beneficiario, el importe del pago póstumo se pagará a los herederos de acuerdo con el orden que establece el Código Civil del Estado, en lo relativo a la sucesión legítima.
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 1969)</small>
+SEXTA:- Al fallecimiento del trabajador y cuando este no haya designado beneficiario el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con la Ley, a reclamar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponde entregar el beneficio. Para acreditar el derecho de percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará a lo dispuesto en la legislación civil.
 
-Artículo 88 A.- El Instituto se obliga a cubrir el pago póstumo que podrá ser ordinario o extraordinario. Es pago póstumo ordinario el que se fija a favor de los beneficiarios de quien, conforme a esta ley, tiene la calidad de derechohabiente. Es pago póstumo extraordinario el que prescribe el Capítulo IX de la Ley del Servicio Civil.
+b).- Es pago póstumo extraordinario el que se establece a favor de los beneficiarios, del derechohabiente, su pago quedará sujeto a las siguientes bases:
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 1969)</small>
+PRIMERA:- En caso de fallecimiento de un trabajador al servicio del Gobierno del Estado, jubilado o pensionado, tendrán derecho los beneficiarios a percibir como pago póstumo extraordinario la cantidad de $10,000.00, que no estará sujeto a descuento alguno. Este pago se hará a la persona o personas que el propio empleado en servicio o jubilado haya designado expresamente para tal fin; los intresados (sic) hará (sic) la designación, llenando y autorizando con su firma y huella digital la forma correspondiente que les será proporcionada, por duplicado, quedando uno de los ejemplares en poder el interesado y el otro depositado en las oficinas del Instituto.
 
-Artículo 88 B.- El pago póstumo ordinario será de $30,000.00 que el Instituto entregará con independencia del extraordinario, a la muerte de los trabajadores incorporados al propio Instituto, a los beneficiarios que éstos designen y a falta de designación, a sus herederos legítimos. Para el cumplimiento de esta prestación el Gobierno del Estado aportará una cuota mensual de $10.00 por cada trabajador, sin que exista derecho a la devolución de tales cuotas. En iguales términos podrá proporcionarse el pago póstumo a los trabajadores sin que exista derecho a la devolución de tales cuotas. En iguales términos podrá proporcionarse el pago póstumo a los trabajadores de otras instituciones u organizaciones que se incorporen al Instituto. Los trabajadores que se pensionen y los pensionados a partir del primero de enero de 1966 podrán disfrutar del mismo derecho, mediante una cuota mensual de $20.00 previa manifestación de su interés que hagan al Instituto, sin que en este caso exista obligación de parte del Gobierno del Estado de aportar alguna cuota adicional. El pago póstumo a que se refiere este Capítulo quedará sujeto a las siguientes bases:
-
-PRIMERA.- El Gobierno del Estado, por conducto de la Tesorería General, hará los descuentos a los trabajadores el día primero de cada mes y entregará de inmediato al Instituto las cuotas correspondientes, tanto del Gobierno como de cada trabajador. Los remanentes que arrojare la operación, se incorporarán al fondo de pensiones. Así como en caso de insuficiencia, el fondo de pensiones proporcionará el faltante para el cumplimiento oportuno de los pagos póstumos.
-
-SEGUNDA.- El Instituto deberá expedir un certificado individual a cada uno de los trabajadores, por lo que, previamente, cada trabajador firmará una solicitud, proporcionando los datos necesarios y designará a sus beneficiarios.
-
-TERCERA.- El trabajador que tenga derecho al pago póstumo podrá en cualquier tiempo hacer una nueva designación del beneficiario, notificándolo al Instituto.
-
-CUARTA.- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del Instituto y presentar el acta de defunción del trabajador fallecido.
-
-QUINTA.- Cuando el trabajador no haya designado beneficiario, el importe del pago póstumo se pagará a los herederos de acuerdo con el orden que establece el Código Civil del Estado, en lo relativo a la sucesión legítima.
-
-SEXTA.- Al fallecimiento del trabajador y cuando éste no haya designado beneficiario el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con al ley, a declarar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponda entregar el beneficio. Para acreditar el derecho de percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará lo dispuesto en la legislación civil.
-
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 1969)</small>
-
-Artículo 88 C.- El pago póstumo extraordinario quedará sujeto a las siguientes Bases:
-
-PRIMERA.- Al fallecimiento de un trabajador al servicio del Gobierno del Estado o de un trabajador jubilado o pensionado, el Instituto pagará de inmediato la cantidad de $10,000.00, que no estará sujeto a descuento alguno, a la persona o personas que el propio empleado en servicio o jubilado haya designado expresamente para tal fin, sin necesidad de que se demuestre la dependencia económica del o de los beneficiarios; los interesados harán la designación, llenando y autorizando con su firma y huella digital la forma correspondiente, que les será proporcionada, por duplicado, quedando uno de los ejemplares en poder del interesado y el otro depositado en las oficinas del Instituto.
-
-SEGUNDA.- En defecto de la manifestación expresa a que se refiere el párrafo anterior, para decir qué persona o personas tienen derecho a recibir el pago póstumo, se seguirá el siguiente orden:
+SEGUNDA:- En defecto de la manifestación expresa a que se refiere el párrafo anterior, para decidir qué persona o personas tienen derecho a recibir el pago póstumo, se seguirá el siguiente orden:
 
 I.- La esposa y los hijos legítimos o naturales que sean menores de dieciocho años y los ascendientes, a menos que se pruebe que no dependían económicamente del empleado;
 
-II.- A falta de esposa, hijos y ascendientes en los términos de la fracción anterior el pago póstumo se entregará a las personas que, económicamente, dependían parcial o totalmente del empleado, según lo decida el Instituto, en vista de las pruebas rendidas;
+II.- A falta de esposa, hijos y ascendientes en los términos de la fracción anterior el pago póstumo se entregará a las personas que, económicamente, dependían parcial o totalmente del empleado, según lo decida el Instituto, en vista de las pruebas rendidas.
 
-TERCERA.- El pago póstumo beneficia a los deudos de todos los funcionarios, empleados, jubilados o pensionados, aunque en otros aspectos no sean beneficiarios del Instituto ni pertenezcan al Servicio Civil.
+Artículo 88 A.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
+
+Artículo 88 B.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
+
+Artículo 88 C.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
 
 ### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
 
@@ -949,9 +969,9 @@ VIII.- Organizar sus dependencias y fijar la estructura y funcionamiento de las 
 
 IX.- Expedir los reglamentos para la debida prestación de sus servicios y de su organización interna; y
 
-(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
-X.- Obtener prestamos, créditos financiamientos para aplicarlos a sus propios fines y para gravar en garantía de esas operaciones, su patrimonio, previa sanción del Ejecutivo del Estado.
+X.- Obtener prestamos, créditos o financiamientos para aplicarlos a sus propios fines y para gravar en garantía de esas operaciones, su patrimonio, previa sanción del Ejecutivo del Estado.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
@@ -1205,6 +1225,10 @@ Se reputará como fraude y se sancionará como tal, en los términos del Código
 
 Cuando se establezca una responsabilidad pecuniaria a cargo del trabajador y a favor del Instituto por la imposición de las sanciones establecidas en este capítulo o por haber recibido servicios indebidamente, el Estado u organismos públicos incorporados de quienes dependa el trabajador, le harán a petición del Instituto los descuentos correspondientes hasta por el importe de su responsabilidad, con la limitación establecida en el artículo 20 de esta ley.
 
+> <small>(ADICIONADO, B.O. 19 DE MARZO DE 1975)</small>
+
+Artículo 127 bis.- Los médicos del servicio que expidan incapacidad que resulten improcedentes, conforme a la investigación que practique la autoridad médica del Instituto, por contravenir lo dispuesto en el artículo 31 del Reglamento para los servicios médicos, serán denunciados al Ministerio Público por la responsabilidad que conforme al Código Penal pueda resultar.
+
 ### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
 
 ###### Artículo 128.
@@ -1370,3 +1394,7 @@ B.O. 18 DE MAYO DE 1974.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 19 DE MARZO DE 1975.
+
+UNICO.- Esta ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
