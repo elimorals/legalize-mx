@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1995-11-13"
+last_updated: "1998-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -41,9 +41,15 @@ PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O.30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley tiene por objeto organizar y regular el funcionamiento de la Administración Pública del Estado de Nuevo León, que se integra por las dependencias de la Administración Central y por las entidades y organismos del sector paraestatal.
+La presente Ley tiene por objeto organizar y regular el funcionamiento de la Administración Pública del Estado de Nuevo León, que se integra por la Administración Pública Central y la Paraestatal.
+
+La Administración Pública Central está conformada por las Secretarías de Estado, la Procuraduría General de Justicia y las unidades administrativas de coordinación, asesoría o consulta, cualquiera que sea su denominación, cuyo objetivo será la atención de programas o asuntos específicos.
+
+La Administración Pública Paraestatal está conformada por los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y, para efectos de administración y ejecución de programas especiales, los fideicomisos públicos.
 
 ###### ARTICULO 2o.
 
@@ -63,9 +69,13 @@ Asimismo, nombrar y remover libremente a los titulares de las Dependencias a que
 
 Para el despacho de los asuntos que competan al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las dependencias, organismos y entidades que señalan la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones jurídicas vigentes en el Estado; asimismo, podrá delegar las facultades que sean necesarias para el cumplimiento de los fines de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 5o.
 
-El. Gobernador del Estado podrá contar además, con las unidades administrativas necesarias para administrar programas prioritarios, de apoyo a los municipios, atender los aspectos de comunicación social, practicar auditorías y coordinar los servicios de asesoría y apoyo técnico que requiera el titular del Ejecutivo.
+El Gobernador del Estado podrá contar con unidades administrativas cualquiera que sea su denominación u organización, para coordinar, planear, administrar o ejecutar programas especiales o prioritarios a cargo de la Administración Pública, proporcionar asesoría y apoyo técnico al Titular del Poder Ejecutivo del Estado y, en su caso, a los municipios, a solicitud de los mismos; atender los asuntos relativos a la comunicación social y las relaciones públicas del Gobierno del Estado.
+
+De igual manera, podrá acordar el funcionamiento de Comités, Comisiones, Consejos o Juntas de carácter interinstitucional, en los que se integre, por invitación, a entidades y dependencias de la Administración Pública del Estado, de otros órdenes de Gobierno, o a personas físicas y morales que por razón de sus respectivas atribuciones y actividades sea conveniente convocar, para fomentar la participación ciudadana en los asuntos de interés público.
 
 ###### ARTICULO 6o.
 
@@ -95,9 +105,13 @@ Los. Titulares de las dependencias a que se refiere esta ley, no podrán desempe
 
 Las dependencias del Ejecutivo y los organismos paraestatales a que se refiere el Título Cuarto deberán conducir sus actividades en forma planeada y programada, con base en los objetivos, políticas y prioridades que establezca el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 12o.
 
-Las dependencias del Ejecutivo y los organismos paraestatales a que se refiere el Título Cuarto deberán coordinar entre si sus actividades y proporcionarse la información necesaria cuando el ejercicio de las funciones así lo requiera y para facilitar el seguimiento del cumplimiento de sus programas.
+Las dependencias y entidades de la Administración Pública del Estado deberán coordinarse en la ejecución de sus respectivas atribuciones, con la finalidad de facilitar la realización de los programas de gobierno.
+
+Para tal efecto, el Gobernador del Estado podrá determinar la conformación de comisiones o comités integrados por dependencias o entidades.
 
 ###### ARTICULO 13o.
 
@@ -107,9 +121,13 @@ Los titulares de las dependencias a que se refiere esta Ley podrán delegar en s
 
 Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las dependencias del Ejecutivo podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 15o.
 
-La. estructura organizacional interna de cada una de las dependencias y de los organismos desconcentrados será materia de acuerdo del Titular del Ejecutivo.
+La estructura orgánica de cada dependencia será determinada por el Titular del Poder Ejecutivo en el reglamento interior correspondiente. Cada dependencia deberá contar con manuales de organización y de procedimientos administrativos.
+
+Una Ley Orgánica y su reglamento, determinarán la organización y funcionamiento de la Procuraduría General de Justicia del Estado.
 
 ## TITULO TERCERO. DE LA COMPETENCIA DE LAS DEPENDENCIAS DEL EJECUTIVO
 
@@ -135,7 +153,9 @@ V.- Secretaría de Desarrollo Económico;
 
 VI.- Secretaría de Desarrollo Urbano y Obras Públicas;
 
-VII.- Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+VII.- Secretaría de Desarrollo Humano;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
 
@@ -145,7 +165,9 @@ VIII.- Secretaría de la Contraloría General; y
 
 IX.- Secretaría del Trabajo.
 
-X.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 1995)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+X.- Secretaría de Salud.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE JUNIO DE 1995)</small>
 
@@ -185,15 +207,17 @@ XV.- Llevar el calendario oficial y el registro de autógrafos de los servidores
 
 XVI.- Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-XVII.- Informar a la comunidad de los planes, proyectos y acciones del Gobierno; reforzar a través de la comunicación los vínculos entre la sociedad civil y el Gobierno del Estado; recopilar la información que generen los medios de comunicación, elaborando compilaciones y análisis de la misma, para mantener informados oportunamente a los funcionarios; definir y coordinar las políticas de comunicación y editorial de la Administración Estatal y evaluar los procesos correspondientes.
+XVII.- Coordinar el programa estatal de la mujer por conducto de la unidad administrativa correspondiente;
 
-XVIII.- Mantener la relación institucional con la Comisión Agraria Mixta y atender los asuntos relacionados con las copropiedades rurales, en los términos de la Ley Reglamentaria;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+XVIII.- Tramitar los asuntos que en materia agraria competen al Estado en los términos de la Ley de la Materia, así como atender los asuntos relacionados con las copropiedades rurales;
 
 XIX.- Coordinar y vigilar las Juntas de Mejoramiento Moral, Cívico y Material;
 
-XX.- Coordinar la elaboración del informe anual que el Gobernador debe presentar al Congreso sobre el estado que guarde la administración pública;
+XX.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
 
@@ -207,7 +231,9 @@ XXIV.- Apoyar administrativamente las funciones del Tribunal de Arbitraje;
 
 XXV.- Remitir a los Tribunales los exhortos para su debida diligenciación, previa legalización, en aquellas materias que la Ley lo exija;
 
-XXVI.- Estudiar, organizar, coordinar y vigilar las funciones relativas a los asuntos jurídicos de las diversas dependencias del Poder Ejecutivo y la administración paraestatal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+XXVI.- Asesorar en materia jurídica al Titular del Poder Ejecutivo, y estudiar, organizar, coordinar y vigilar las funciones relativas a los asuntos jurídicos de las diversas dependencias y entidades de la Administración Pública;
 
 XXVII.- Administrar el Archivo Histórico y el General del Poder Ejecutivo del Estado;
 
@@ -217,17 +243,11 @@ XXVIII.- Coordinar los eventos y actos cívicos del Gobierno del Estado, llevand
 
 XXIX.- Organizar y controlar la Oficialía de Partes;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 1995)</small>
+XXX.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
-XXX.- Promover, realizar estudios y proyectos tendientes a fortalecer el desarrollo municipal y la participación comunitaria, así como mejorar la capacidad de gestión de las administraciones municipales; participar en los comités, consejos y demás órganos de coordinación de la Administración Publica, vinculados con la promoción del desarrollo municipales;
+XXXI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
-
-XXXI.- Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los municipios, para fortalecer el desarrollo económico y social de estos;
-
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
-
-XXXII.- Fomentar y apoyar la realización de programas de colaboración intermunicipal, para emprender proyectos prioritarios que incidan en la solución de problemas comunes a mas de un municipio; y
+XXXII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
 > <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
 
@@ -333,9 +353,11 @@ XXXIII.- Llevar el registro de proveedores de bienes y servicios de la Administr
 
 XXXIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 19o.
 
-La Procuraduría General de Justicia estará a cargo de un Procurador General que es el titular del Ministerio Público y Consejero Jurídico del Gobernador y de los demás servidores de la administración pública estatal.
+La Procuraduría General de Justicia estará a cargo de un Procurador General, que es el titular del Ministerio Público.
 
 Además de las atribuciones que específicamente le concede la Constitución Política del Estado, la Ley Orgánica de la Procuraduría General de Justicia y demás leyes vigentes, le corresponde el despacho de los siguientes asuntos:
 
@@ -349,7 +371,9 @@ IV.- Perseguir ante los tribunales todos los delitos de orden local y solicitar 
 
 V.- Intervenir en los asuntos del orden criminal, civil y familiar, en los cuales el ministerio público deba ser oído, así como en todos los juicios en que el Estado fuere parte;
 
-VI.- Dirigir y coordinar las actividades de la Policía Judicial del Estado y los cuerpos de seguridad y sus agentes cuando actúen en función de policía judicial;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+VI.- Dirigir y coordinar las actividades de la Policía Ministerial, y de los demás cuerpos de seguridad y sus agentes, cuando actúen en función de auxiliares de esa Institución;
 
 VII.- Designar y remover, por acuerdo del Gobernador, a los agentes del ministerio público y libremente cambiarlos de adscripción según convenga al mejor servicio;
 
@@ -485,21 +509,27 @@ XXIV.- Apoyar los programas de cuidado del medio ambiente en el ámbito de su co
 
 XXV.- Las que le señalen las demás leyes y reglamentos.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-###### ARTICULO 23o.
+###### ARTICULO 23.
 
-A la Secretaría de Desarrollo Social (SIC) corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Humano le corresponde el despacho de los siguientes asuntos:
 
-I.- Coordinar el Sistema Estatal de Salud;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Ejercer las funciones que a las entidades federativas señale la Ley Federal de Salud, así como las que en virtud de convenios, sean descentralizadas por la Secretaria de Salud al Gobierno de Salud al Gobierno del Estado;
+I.- Promover, la celebración de convenios con los municipios para la coordinación que se requiera en la realización de estudios y proyectos tendientes a fortalecer el desarrollo social en los municipios, fomentando la participación ciudadana, así como mejorar la capacidad de gestión de las administraciones municipales; participar en los comités, consejos y demás órganos de coordinación de la administración Pública, vinculados con la promoción del desarrollo municipal;
 
-III.- Proponer al Ejecutivo del Estado, las políticas y los programas de coordinación con las autoridades federales y municipales en materia de salud, prevención especifica y atención medica social;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-IV.- Organizar, controlar y mantener los Centros de Salud que se establezcan en el Estado;
+II.- Proponer al Ejecutivo los métodos, formas y acciones de coordinación entre el Estado y los municipios, para fortalecer el desarrollo económico y social de éstos;
 
-V.- Realizar campañas tendientes a prevenir y erradicar enfermedades y epidemias en territorio del Estado, coordinándose al efecto con los municipios del mismo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+III.- Fomentar y apoyar la realización de programas de colaboración intermunicipal, para ejecutar proyectos de obras o servicios que incidan en la prevención o solución de problemas comunes a más de un municipio, o que faciliten la convivencia de los habitantes de los mismos;
+
+IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
+
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
 VI.- Proponer, programar, difundir, promover y fomentar las políticas y programas relativos a la beneficiencia privada, así como evaluar las acciones y programas de esas instituciones;
 
@@ -531,9 +561,9 @@ XIX.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VI
 
 XX.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-XXI.- Operar los Sistemas de Radio Nuevo León y Televisión Estatal, supervisando su apego a las políticas generales y programas que se fijen en la materia, así como impulsar, implementar y determinar su preservación como modelos culturales, consolidando su misión y vocación de medios electrónicos de comunicación comprometidos en el bienestar social, la calidad de vida, la integración familiar de los nuevoleoneses, la cultura y las artes.
+XXI.- Operar el Sistema de Radio Nuevo León supervisando su apego a las políticas generales y programas que se fijen en la materia, así como impulsar, implementar y determinar su preservación como modelo cultural, consolidando su misión y vocación de medio electrónico de comunicación comprometido en el bienestar social, la calidad de vida, la integración familiar de los nuevoleoneses, la cultura y las artes; y
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -625,9 +655,57 @@ V.- Por acuerdo del Ejecutivo, llevar la política laboral del Estado, y
 
 VI.- Las demás que señalen las Leyes y Reglamentos.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 25o.
 
-(DEROGADO, P.O. 13 DE NOVIEMBRE DE 1995)
+A la Secretaría de Salud le corresponde el despacho de los siguientes asuntos:
+
+I.- Coordinar el Sistema Estatal de Salud;
+
+II.- Ejercer las funciones que a las entidades federativas señale la Ley General de Salud y las relativas a la salubridad local, así como las que en virtud de convenios sean descentralizadas por la Secretaría de Salud del Gobierno Federal al Estado;
+
+III.- Proponer al Ejecutivo del Estado, las políticas y los programas de coordinación con las autoridades federales y municipales en materia de salud, prevención específica y atención médica social;
+
+IV.- Organizar y controlar los centros y demás instituciones públicas de salud del Estado;
+
+V.- Programar y realizar las campañas sanitarias tendientes a prevenir y erradicar enfermedades y epidemias en el territorio del Estado, en coordinación con las autoridades federales y municipales competentes,
+
+VI.- Planear, desarrollar, dirigir y vigilar los servicios de salud que se proporcionen en el Estado en los términos de la legislación correspondiente;
+
+VII.- Impulsar la desconcentración y descentralización a los Municipios de los servicios de salud, mediante los convenios que al efecto se suscriban en el marco de la ley Estatal de Salud;
+
+VIII.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Gobernador del Estado;
+
+IX.- Determinar la periocidad y características de la información que deberán proporcionar las dependencias, entidades e instituciones de salud del Estado, con sujeción a las disposiciones generales aplicables;
+
+X.- Coordinar la programación de las actividades de salud en el Estado, acorde con las leyes aplicables;
+
+XI.- Impulsar las actividades científicas y tecnológicas en el campo de la salud;
+
+XII.- Coadyuvar, en el ámbito de sus atribuciones, con las dependencias federales competentes en lo relativo a la transferencia de tecnología en el área de la salud;
+
+XIII.- Promover el establecimiento de un sistema estatal de información básica en materia de salud;
+
+XIV.- Apoyar la coordinación entre las instituciones de salud y las educativas, para formar y capacitar recursos humanos para la salud;
+
+XV.- Coadyuvar en la formación y capacitación de recursos humanos para la prestación de los servicios de salud en el Estado;
+
+XVI.- Promover e impulsar la participación de la comunidad en la relación de programas orientados al cuidado de la salud;
+
+XVII.- Vigilar, en el ámbito de sus atribuciones, la aplicación de las normas oficiales mexicanas que emitan las autoridades competentes, en materia de salud;
+
+XVIII.- Vigilar que el ejercicio de los profesionales, técnicos auxiliares y de los demás prestadores de servicios de salud, se ajuste a las prescripciones de la Ley, en el ámbito de sus atribuciones como autoridad local; así como apoyar su capacitación y actualización;
+
+XIX.- En coordinación con las demás dependencias y entidades competentes, realizar acciones de prevención y control para el cuidado del medio ambiente, cuando pueda resultar afectada la salud de la población;
+
+XX.- Dictar, en los términos de las disposiciones jurídicas aplicables, las medidas de seguridad sanitaria que sean necesarias para proteger la salud de la población;
+
+XXI.- Imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y demás disposiciones legales en la materia, a los prestadores de servicios de salud que no observen dichos ordenamientos;
+
+XXII.- Conocer y resolver en el ámbito de su competencia, de los recursos administrativos que interpongan los particulares en contra de los actos emanados de esta Secretaría; y
+
+XXIII.- Los demás que le señalen las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en la materia.
 
 ###### ARTICULO 26o.
 
@@ -856,3 +934,37 @@ P.O. 13 DE NOVIEMBRE DE 1995.
 ###### ARTICULO TERCERO
 
 - Los recursos humanos, financieros y materiales de la Oficialía Mayor de Gobierno y sus unidades administrativas, se transferirán, en cumplimiento de este Decreto, a las dependencias que asumen sus atribuciones.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1999 debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto
+
+###### ARTÍCULO TERCERO.
+
+La transferencia de unidades administrativas de una dependencia a otra, con motivo de las reformas materia de este Decreto, se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa respectiva haya utilizado para la atención de los asuntos que conoció.
+
+###### ARTÍCULO CUARTO.
+
+Las menciones contenidas en otras Leyes, Reglamentos y en general en cualquier otra disposición, respecto de las dependencias cuyas funciones se asignen a otras por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, absorben tales funciones.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+El ejecutivo del Estado deberá proveer lo necesario para que la transferencia de unidades administrativas que deberá realizarse con motivo de las reformas materia de este Decreto, se realice sin detrimento de la oportunidad y eficiencia del servicio que prestan.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá proveer lo necesario para que los reglamentos interiores de las Secretarías General de Gobierno, de Desarrollo Humano, y de salud, sean expedidos dentro de un plazo de ciento veinte días contados a partir de la fecha de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Con motivo de las reformas al artículo 23 fracción XXI, materia de este Decreto, Televisión Estatal quedará adscrita a la Oficina del C. Gobernador del Estado. En tal virtud, su transferencia se sujetará a las disposiciones contenidas en los artículos precedentes.
