@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "1996-10-09"
+last_updated: "1997-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2783,6 +2783,8 @@ Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de 
 
 ## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LOS DERECHOS ELECTORALES DE LOS CIUDADANOS
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 297.
 
 Son delitos contra la administración de justicia, los cometidos por los servidores públicos que incurran en algunas de las conductas siguientes:
@@ -2951,79 +2953,171 @@ La excusa no favorecerá a quien obre por motivos reprobables o emplee medios de
 
 ###### ARTICULO 314.
 
-Se impondrá reclusión hasta de un año o suspensión de derechos políticos por igual término o ambas a juicio del juez, a quien:
+Para los efectos de este Título se entiende por:
 
-I. Se niegue a desempeñar sin justa causa las funciones electorales que le sean encomendadas;
+I. Funcionarios electorales, quienes en los términos de la legislación federal electoral integren los órganos que cumplen funciones públicas electorales;
 
-II. Se presente a una casilla electoral portando armas;
+II. Funcionarios partidistas, los dirigentes de los partidos políticos nacionales o estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales, distritales o municipales, los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación estatal electoral;
 
-III. Vote más de una vez, suplante y obligue a otro a votar por determinado candidato;
+III. Funcionarios públicos, los servidores públicos a que se refiere el título séptimo de la Constitución Política Local;
 
-IV. Ejecute actos de lucro con el voto o presente boletas electorales falsas;
+IV. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales, municipales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
 
-V. Impida la instalación oportuna de la casilla electoral u obstaculice su funcionamiento o su clausura;
-
-VI. Impida a un tercero la emisión de su voto o el desempeño de sus funciones electorales;
-
-VII. Estando impedido por la ley vote o intente votar;
-
-VIII. En el lapso de tres días antes de la elección o durante éste se realicen mítines, reuniones públicas, o cualquier otro acto de propaganda en favor de candidato o partido;
-
-IX. Sin llenar los requisitos establecidos por la ley use para una organización el nombre de partido o continue usándolo después de haber sido cancelado; y
-
-X. Instale ilegalmente una casilla o usurpe funciones electorales.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 315.
 
-Se impondrá multa hasta de cincuenta días de salario mínimo general vigente en el Estado y suspensión del cargo de seis meses a tres años a los notarios públicos en ejercicio, funcionarios que actúen por receptoría, Agentes del Ministerio Público o quienes hagan sus veces, que sin causa justificada, no mantengan abiertas sus oficinas el día de la elección o no atiendan las solicitudes de los funcionarios electorales, de los representantes de partidos políticos y coaliciones o de los ciudadanos para dar fe de hechos concernientes a la elección.
+Por la comisión de cualquiera de los delitos comprendidos en el presente Título se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 316.
 
-Se impondrá multa por el equivalente de hasta cincuenta días de salario mínimo general vigente en el Estado al momento de cometer el delito o prisión hasta de tres años o ambas sanciones a juicio del juez y destitución del cargo o empleo en su caso o suspensión de derechos políticos hasta por tres años a los funcionarios electorales que:
+Se impondrá de diez a cien días multa y prisión de seis meses a tres años, a quien:
 
-I. No hagan constar oportunamente las violaciones de que hayan tenido conocimiento en el desarrollo del proceso electoral;
+I. Vote a sabiendas de que no cumple con los requisitos de ley;
 
-II. Retengan o no entreguen injustificadamente al organismo electoral correspondiente el paquete electoral;
+II. Vote más de una vez en una misma elección;
 
-III. No proporcionen oportunamente la documentación electoral a los presidentes de las mesas directivas de casilla;
+III. Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
 
-IV. Siendo funcionarios de las mesas directivas de casillas, consientan que la votación se lleve a cabo en forma ilegal o rehuse admitir el voto a quien conforme a esta ley tenga derecho a sufragio;
+IV. Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
 
-V. Sin causa justificada se nieguen a reconocer la personalidad de los representantes de los partidos políticos o bien se les impidan el ejercicio de las atribuciones que les corresponden; y
+V. Recoja sin causa prevista por la ley, credenciales de elector para votar;
 
-VI. Teniendo las obligaciones de hacerlo se nieguen sin causa justificada a registrar los nombramientos de los representantes de los partidos políticos.
+VI. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+VII. Viole de cualquier manera el secreto del voto;
+
+VIII. Vote o pretenda votar con una credencial de elector de la que no sea titular;
+
+IX. El día de la elección organice la reunión y traslado de votantes, con el objeto de llevarlos a votar y de influir en el sentido de su voto;
+
+X. Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales; destruya o altere boletas o documentos electorales;
+
+XI. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
+
+XII. Impida en forma violenta la instalación de una casilla;
+
+XIII. Se niegue a desempeñar sin causa justificada las funciones electorales que le sean encomendadas;
+
+XIV. Se presente a una casilla electoral portando armas, salvo lo dispuesto por la ley electoral;
+
+XV. Ejecute actos de lucro con el voto o presente boletas electorales falsas;
+
+XVI. En el lapso de 3 días antes de la elección o durante ésta realice mítines, reuniones públicas o cualquier otro acto de propaganda en favor de un candidato o partido determinado; y
+
+XVII. Use para una organización el nombre de Partido sin llenar los requisitos establecidos en la Ley, o continúe usándolo después de haber sido cancelado su registro.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 317.
 
-Se impondrá multa de hasta cincuenta días de salario mínimo general vigente en el Estado al momento de cometer el delito o prisión hasta de tres años y destitución en su caso del cargo o empleo que desempeñe e inhabilitación para obtener algún cargo público hasta por cinco años al servidos público que:
+Se impondrá hasta cincuenta días multa y suspensión del cargo de seis meses a tres años a los Notarios Públicos en ejercicio, funcionarios que actúen por receptoría, Agentes del Ministerio Público o quienes hagan sus veces, que sin causa justificada, no mantengan abiertas sus oficinas el día de la elección o no atiendan las solicitudes de los funcionarios electorales, de los representantes de partidos políticos y coaliciones o de los ciudadanos para dar fe de hechos concernientes a la elección.
 
-I. Abusando de sus funciones obligue o induzca a los electores para votar en favor o en contra de algún candidato;
-
-II. Prive de la libertad a los candidatos o a los representantes de los partidos políticos pretextando delitos o faltas inexistentes;
-
-III. Impida la reunión de una asamblea, manifestación pública o cualquier otro acto legal de propaganda electoral; y
-
-IV. Que desvíe fondos públicos con fines electorales.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 318.
 
-Se hará del conocimiento de la autoridad competente al extranjero que se inmiscuya en los asuntos políticos del Estado, independientemente de las sanciones a que se haga acreedor conforme a esta ley.
+Se impondrá hasta 500 días multa a los ministros de cultos religiosos, que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan al electorado a votar en favor o en contra de un candidato, partido político, o favorezcan la abstención.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 319.
 
-Se impondrá multa hasta de cien días de salario mínimo general vigente en el Estado, al momento de cometerse el delito a los ministros de culto religioso que por cualquier medio induzcan al electorado a votar en favor de un determinado partido o candidato o en contra de un partido o candidato, fomenten la abstención o ejerzan presión sobre el electorado.
+Se impondrá de cincuenta a doscientos días multa y prisión de dos a siete años, al funcionario electoral que:
+
+I. Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos relativos al Registro de Electores;
+
+II. Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+
+III. Obstruya el desarrollo normal de la votación sin mediar causa legal justificada;
+
+IV. Altere los resultados electorales, sustraiga o destruya boletas o documentos electorales;
+
+V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por el Código Electoral, la instale en lugar distinto al legalmente señalado, o impida su instalación;
+
+VIII. Al que expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la ley le concede;
+
+IX. Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+
+X. Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley; o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
+
+XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a sus resultados; y
+
+XII. No hagan constar oportunamente las violaciones de que hayan tenido conocimiento en el desarrollo del proceso electoral.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 320.
 
-Se suspenderá en sus derechos políticos hasta por tres años a los presuntos diputados que debiendo integrar el colegio electoral no se presenten sin justa causa a desempeñar las funciones que les correspondan en ese cuerpo colegiado.
+Se hará del conocimiento de la autoridad competente al extranjero que se inmiscuya en los asuntos políticos del Estado, independientemente de las sanciones a que se haga acreedor conforme a este Código.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 321.
 
-Se impondrá la suspensión de derechos políticos hasta por seis años, a quienes habiendo sido designados diputados en virtud de principio de mayoría relativa o de representación proporcional, no se presenten sin causa justificada a juicio de la cámara, a desempeñar el cargo dentro del plazo señalado en la Constitución Política del Estado. Igual sanción se aplicará a los regidores electos, que sin causa justificada a juicio del Congreso del Estado, no se presenten a desempeñar el cargo.
+Se impondrá de cien a doscientos días multa y prisión de dos a seis años, al funcionario partidista que:
+
+I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III. Sustraiga, destruya, altere o haga uso indebido de documentos oficiales o de índole electoral;
+
+IV. Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; y
+
+VI. Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por el Código Electoral.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 322.
 
-Cuando algunos de los actos señalados en el presente Capítulo entrañe en la comisión de cualesquiera de los delitos previstos en la leyes penales, independientemente de las sanciones establecidas en este Título los organismos electorales podrán formular su denuncia o querella ante autoridad competente, a fin de que se ejercite la acción penal respectiva.
+Se impondrá de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al funcionario público que:
+
+I. Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato determinado;
+
+II. Prive de la libertad a los candidatos o a los representantes de los partidos políticos, pretextando delitos inexistentes;
+
+III. Impida la reunión de una asamblea, manifestación pública o cualquier otro acto legal de propaganda electoral;
+
+IV. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio en favor de un partido político o candidato determinado; y
+
+V. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponderle por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando el tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 323.
+
+Se impondrá la suspensión de derechos políticos hasta por seis años, a quienes habiendo sido designados diputados, no se presenten sin causa justificada a juicio de la cámara, a desempeñar el cargo dentro del plazo señalado en la Constitución Política del Estado. Igual sanción se aplicará a los regidores electos, que sin causa justificada a juicio del Congreso del Estado, no se presenten a desempeñar el cargo.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 324.
+
+Se impondrá de doscientos a cuatrocientos días multa y prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de lo dispuesto en la fracción V del artículo 322 de este Código.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 325.
+
+Se impondrá de veinte a cien días multa y prisión de tres meses a cinco años, a quien;
+
+I. Proporcione documentos o información falsa al Registro de Electores, para obtener la credencial para votar con fotografía;
+
+II. Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la credencial para votar con fotografía.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 326.
+
+Se impondrá de setenta a doscientos días de multa y prisión de tres a siete años, a quien por cualquier medio participe en la alteración del registro de electores, el padrón electoral y los listados nominales o en la expedición ilícita de credenciales para votar.
 
 ## TRANSITORIOS
 
@@ -3054,3 +3148,15 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 19 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Remítase el presente decreto al Titular del Poder Ejecutivo para los efectos Constitucionales a que haya lugar.
