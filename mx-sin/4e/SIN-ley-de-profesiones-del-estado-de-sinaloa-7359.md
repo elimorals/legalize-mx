@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "1975-04-30"
+last_updated: "1995-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1995.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -43,9 +43,11 @@ LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
 Se entiende por título profesional el documento expedido por una de las Instituciones autorizadas al efecto y mediante los requisitos que se exigen en esta Ley y en las demás relativas a favor de la persona que ha comprobado haber cursado y aprobado los estudios comprendidos en los planes respectivos de las profesiones a que se refiere el artículo siguiente:
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 2o.
 
-Las profesiones que en el Estado de Sinaloa necesitan título para su ejercicio son las siguientes: Arquitecto, Cirujano Dentista, Contador Público, Corredor, Enfermera, (en todas sus actividades, práctica de curaciones, aplicación de inyecciones, etc.), Partera, Ingeniero en sus diversas ramas, Civil, Electricista, Forestal, Minería, Municipal, Danitaria (sic), Petrolera, Química e Ingeniero de otras designaciones, Licenciado en Derecho o Abogado, Licenciado en Economía, Economista, Médico en sus diversas ramas profesionales y especialidades, Médico Homeópata, Médico Veterinario, Notario, Profesor de Educación Pre-Escolar, Primaria y de Segunda Enseñanza y Normal no Superior, Químico en sus diversas ramas profesionales: Farmacia, Químico Bacteriólogo y Parasitólogo.
+Las profesiones que en el Estado de Sinaloa necesitan título para su ejercicio son las siguientes: Arquitecto, Cirujano, Dentista, Contador Público, Corredor, Trabajador Social, Enfermera en todas sus actividades, Partero, Ingeniero en sus diversas ramas, Civil, Electricista, Forestal, Minería, Municipal, Sanitaria, Petrolera, Química e Ingeniero de otras designaciones, Licenciado en Derecho o Abogado, Licenciado en Economía, Economista, Médico en sus diversas ramas profesionales y especialidades, Médico Homeópata, Médico Veterinario, Notario, Profesor de Educación Pre-Escolar, Primaria y de Segunda Enseñanza y Normal no Superior, Químico en sus diversas ramas profesionales: Farmacia, Químico Bacteriólogo y Parasitólogo.
 
 ###### ARTICULO 3o.
 
@@ -674,3 +676,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 En tanto se mantenga en vigor el convenio que celebren el Ejecutivo del Estado y la Secretaría de Educación Pública, quedan derogadas todas las disposiciones de la Ley de Profesiones del Estado que se opongan al presente Decreto.
+
+P.O. 4 DE AGOSTO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
