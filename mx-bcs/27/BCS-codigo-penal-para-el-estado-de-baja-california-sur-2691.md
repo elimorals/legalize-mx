@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "1998-06-19"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -485,7 +485,9 @@ El importe de la sanción pecuniaria se distribuirá: entre el Estado y la parte
 
 Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño, y en su caso, a prorrata entre los ofendidos.
 
-Si la parte ofendida renunciare a la reparación, el importe de ésta se aplicará al Estado. Los depósitos que garanticen la libertad caucional se aplicarán al pago de la sanción pecuniaria cuando el inculpado se substraiga a la acción de la justicia.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Cuando el inculpado se sustraiga a la acción de la justicia, los depósitos que garanticen su libertad caucional se aplicarán en primer término al pago de la reparación del daño y el remanente al Estado. En los casos en que la parte ofendida renunciare al pago de la reparación del daño, el importe de éste se aplicará al Estado.
 
 ###### ARTICULO 43.
 
@@ -3380,3 +3382,7 @@ QUINTO.- Para el proceso electoral ordinario 1998-1999, los Consejeros Electoral
 SEXTO.- El Convenio que se haya celebrado con el organismo electoral federal, con anterioridad a la entrada en vigor del presente Decreto, para la utilización del catálogo general de electores, padrón electoral, listado nominal y credencial con fotografía para votar, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo de los procesos electorales del Estado, tendrá plena validez, hasta en tanto no se otorgue otro convenio con el mismo objeto.
 
 SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
