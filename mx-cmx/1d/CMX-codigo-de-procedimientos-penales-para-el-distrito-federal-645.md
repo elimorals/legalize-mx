@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2004-09-10"
+last_updated: "2004-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -252,7 +252,7 @@ VI.- Expedir gratuitamente, a solicitud de los denunciantes o querellantes, copi
 
 VII.- Trasladarse al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y a tomar los datos de las personas que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas en caso contrario para que dentro del término de veinticuatro horas comparezcan a rendir su declaración, y a realizar todas las diligencias inmediatas a que hace referencia este Código y las demás conducentes para la integración debida de la averiguación;
 
-VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos(sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
+VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos (sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
 
 IX.- Proponer el no ejercicio de la acción penal cuando de las declaraciones iniciales y de los elementos aportados no se desprenda la comisión de conductas delictivas o elemento alguno para su investigación;
 
@@ -1606,6 +1606,10 @@ Durante la instrucción, el juez no podrá dejar de examinar a los testigos pres
 
 Toda persona, cualquiera que sea su edad, sexo, condición social o antecedentes, deberá ser examinada como testigo, siempre que pueda aportar algún dato para la averiguación del delito y el Ministerio Público o el juez estimen necesario su examen. En estos casos, el funcionario ante quien se realice la diligencia podrá desechar las preguntas que a su juicio o por objeción fundada de parte sean inconducentes; y demás podrá interrogar al testigo sobre los puntos que estime convenientes.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Cuando se examine a un menor de edad las preguntas deberán ser concretas, en lenguaje sencillo y de forma tal que al abordar el tema se haga de manera que no impacte en su conciencia y estabilidad emocional, respetando siempre el interés superior del mismo.
+
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 192.
@@ -1618,9 +1622,11 @@ No se obligará a declarar al tutor, curador, pupilo o cónyuge del acusado, ni 
 
 En materia penal no puede oponerse tacha a los testigos; pero de oficio o a petición de parte, el Ministerio Público o el juez, harán constar en el expediente todas las circunstancias que influyan en el valor probatorio de los testimonios.
 
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 194.
 
-Los testigos darán siempre la razón de su dicho, que se hará constar en la diligencia.
+Los testigos darán siempre la razón de su dicho, que se hará constar en la diligencia. Para el caso de los menores de edad bastará con que por otros elementos que obren en autos se acredite la razón de su dicho.
 
 ###### ARTICULO 195.
 
@@ -1686,9 +1692,17 @@ Los testigos deben ser examinados separadamente por el Ministerio Público o por
 
 I. Cuando el testigo sea ciego;
 
-II. Cuando sea sordo o mudo; y
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-III. Cuando ignore el idioma castellano.
+II. Cuando sea sordo o mudo;
+
+> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+III. Cuando ignore el idioma castellano, y
+
+> <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+IV. Cuando el testigo sea menor de edad, el cual deberá estar en todo caso acompañado de quien legalmente lo represente.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1708,6 +1722,10 @@ Antes de que los testigos comiencen a declarar, el Ministerio Público o el Juez
 
 Después de tomada la protesta, se preguntará a cada testigo su nombre, apellido, edad, nacionalidad, vecindad, habitación, estado, profesión o ejercicio, si se halla ligado al inculpado, o a la víctima, al ofendido del delito o al querellante por vínculos de parentesco, amistad o cualquier otro, y si tiene motivo de odio o de rencor contra alguno de ellos.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Tratándose de testigos menores de edad, se tomarán los datos, a que hace referencia el párrafo anterior, que su representante legal bajo protesta de decir verdad declare.
+
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 207.
@@ -1715,6 +1733,10 @@ Después de tomada la protesta, se preguntará a cada testigo su nombre, apellid
 Los testigos declararán de viva voz, sin que les sea permitido leer las respuestas que lleven escritas. Sin embargo, podrán ver algunas notas o documentos que llevaren, según la naturaleza de la causa, a juicio del Ministerio Público o del juez.
 
 El Ministerio Público y el defensor pueden examinar a los testigos, haciéndoles las preguntas que estimen convenientes.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Los menores de edad deberán estar asistidos en todo momento de su representante legal en los términos del artículo 203 de éste Código, sin que dicho representante legal o en su caso persona de su confianza no pueda intervenir al momento del interrogatorio ni tener comunicación con el menor relativa a las preguntas que se le hagan.
 
 ###### ARTICULO 208.
 
@@ -1724,9 +1746,11 @@ Las declaraciones se redactarán con claridad y usando, hasta donde sea posible,
 
 Si la declaración se refiere a algún objeto puesto en depósito, después de interrogar al testigo acerca de las señales que caracterizan dicho objeto, se le mostrará para que lo reconozca y firme sobre él, si fuere posible.
 
-###### ARTICULO 210.
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-Si la declaración se refiere a un hecho que hubiere dejado vestigios permanentes en algún lugar, el testigo podrá ser conducido a él para que haga las explicaciones convenientes.
+###### ARTÍCULO 210.
+
+Si la declaración se refiere a un hecho que hubiere dejado vestigios permanentes en algún lugar, el testigo podrá ser conducido a él para qua (sic) haga las explicaciones convenientes. Tratándose de menores de edad, la diligencia se llevará a cabo en el lugar siempre y cuando sea acompañado de su representante legal o persona de su confianza y no afecte su integridad física y/o psicológica.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1742,11 +1766,11 @@ Si no supiere o no quisiere firmar, se hará constar esta circunstancia.
 
 Siempre que se tome declaración a un menor de edad, a un pariente del inculpado, o a cualquiera otra persona que por circunstancias especiales sea sospechosa de falta de veracidad o de exactitud en su dicho, se hará constar esto en el acta.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 213.
 
-A los menores de dieciocho años, en vez de exigírseles protesta de decir verdad, se les exhortará para que la digan.
+A los menores de edad se les exhortará para que digan la verdad, explicándoles claramente de manera que puedan entender el alcance de la misma y el objetivo de la diligencia.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2026,6 +2050,10 @@ V. Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre l
 
 VI. Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio no se reputará fuerza.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Tratándose de menores de edad, deberán tomar en cuenta su edad, el delito que se trate, su situación física y mental y los resultados de los estudios que en su caso se le hayan practicado al respecto.
+
 ###### ARTICULO 256.
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
@@ -2101,6 +2129,14 @@ Para las querellas presentadas por personas físicas, será suficiente un poder 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 La Administración Pública del Distrito Federal podrá actuar por conducto de personas autorizadas mediante acuerdo delegatorio emitido por la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+En los casos en los que el delito sea perseguible de oficio, no será necesario que el menor se encuentre representado por alguna persona en términos del artículo 262 del mismo Código.
+
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Cuando por la edad del menor no sea posible determinar el lugar, tiempo y circunstancias de ejecución del hecho, pero su dicho se encuentre acreditado con cualquier otro elemento de prueba que obre en autos, no será necesario que el menor acredite dichas circunstancias, sólo cuando se encuentren acreditados el cuerpo del delito de que se trate y la probable responsabilidad en términos de los artículos 122 y 124 de éste Código.
 
 ###### ARTICULO 265.
 
@@ -5541,3 +5577,9 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 G.O. 10 DE SEPTIEMBRE DE 2004.
 
 Único.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
