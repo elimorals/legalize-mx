@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-3486"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-10-19"
-last_updated: "1990-10-19"
+last_updated: "1993-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de octubre de 1990.
 
@@ -503,11 +503,13 @@ II.- La omisión haya sido corregida por el contribuyente después de que las au
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de éstos.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 50.
 
-No se otorgará condonación total ni parcial de impuestos, derechos, contribuciones especiales, productos o recargos a favor de una o más personas determinadas.
+Sólo mediante acuerdo del Gobernador del Estado podrán condonarse, de manera general y en beneficio de una o varias categorías de contribuyentes, los impuestos, derechos, contribuciones especiales, productos o recargos previstos en las disposiciones fiscales, cuando concurran circunstancias de orden público o interés social, que a juicio del titular del Ejecutivo, así lo ameriten.
 
-Quien incumpla con esta disposición cubrirá de su peculio el importe de lo condonado, independientemente de que se le apliquen las sanciones previstas en la Ley.
+No se otorgará condonación total ni parcial de impuestos, derechos, contribuciones especiales, productos o recargos a favor de una o más personas determinadas. Quien incumpla con esta disposición cubrirá de su peculio el importe de lo condonado, independientemente de que se apliquen las sanciones previstas en la ley.
 
 ###### ARTICULO 51.
 
@@ -1776,3 +1778,13 @@ LIC. ELISEO MENDOZA BERRUETO
 EL SECRETARIO DE GOBIERNO EL SECRETARIO DE FINANZAS
 
 LIC. JOSE FUENTES GARCIA LIC. JESUS GARCIA LOPEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE AGOSTO DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
