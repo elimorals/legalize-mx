@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-104-de-agua-potable-y-alcantarillado-para-el-8477"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-07"
-last_updated: "1992-05-07"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Boletín Oficial Organo Oficial del Gobierno del Estado de Sonora, el jueves 7 de mayo de 1992.
 
@@ -857,7 +857,7 @@ II.- Conocer las circunstancias que el Organismo Operador considere necesarias p
 
 III.- Estimar el presupuesto que comprenderá el importe del material necesario y la mano de obra, ruptura y reposición de banqueta, guarnición y pavimento si lo hubiese, así como cualquier otro trabajo que se requiera para estar en condiciones de prestar los servicios solicitados.
 
-Las conexiones e instalaciones de tomas solicitadas se autorizarán en base al resultado de la inspección practicada de acuerdo a esta ley, en un término de seis días computables a partir al (sic)de la recepción del informe.
+Las conexiones e instalaciones de tomas solicitadas se autorizarán en base al resultado de la inspección practicada de acuerdo a esta ley, en un término de seis días computables a partir al (sic) de la recepción del informe.
 
 ###### ARTICULO 62.
 
@@ -1341,11 +1341,11 @@ Los asuntos que con motivo de esta ley deben pasar a la Comisión de Agua Potabl
 
 Durante 1992 se seguirán cobrando por los organismos Operadores las cuotas o tarifas autorizadas por el Congreso del Estado, con las normas que para su actualización autorizó el mismo. Dichas cuotas o tarifas dejarán de cobrarse al momento en que la Junta de Gobierno del Organismo Operador autorice las cuotas en los términos de esta ley.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO SEXTO.
 
-Dentro de un plazo de seis meses contados a partir de la entrada en vigor de la presente Ley, quedarán instalados en los términos de la misma, por lo menos los Organismos Operadores Municipales de: Hermosillo, Cajeme, Navojoa, Caborca, Magdalena, Agua Prieta, San Luis Río Colorado y los que celebren el convenio con la Comisión de Agua Potable y Alcantarillado del Estado de Sonora para su incorporación al Sistema Estatal de Agua Potable y Alcantarillado, en los términos de la presente Ley.
-
-A los Organismos Operadores Municipales citados y a los que se instalen les serán aplicables las disposiciones de esta ley.
+En el transcurso del año de 1993, quedarán instalados los organismos Operadores Municipales de Hermosillo, Cajeme, Navojoa, Caborca, Magdalena, Agua Prieta, San Luis Río Colorado y los que celebran convenio con la Comisión de Agua Potable y Alcantarillado del Estado de Sonora, para su incorporación al Sistema de Agua Potable y Alcantarillado del Estado, en los términos de la presente Ley.
 
 ###### ARTICULO SEPTIMO.
 
@@ -1400,3 +1400,15 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO,
 
 LIC. ROBERTO SÁNCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todas aquellas atribuciones que no pueden ser asumidas por los organismos operadores municipales, en los términos de la Ley de Agua Potable y Alcantarillado para el Estado de Sonora, serán ejecutadas por la Comisión de Agua Potable y Alcantarillado del Estado de Sonora.
