@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1928-08-31"
+last_updated: "1932-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1o. DE SEPTIEMBRE DE 1932.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -4532,7 +4532,7 @@ Se considera capturado el animal que ha sido muerto por el cazador durante el ac
 
 ###### ARTICULO 861.
 
-Si la pieza herida muriese en terrenos ajenos, el propietario de éstos o quien lo represente, deberá entregarla al cazador o permitir que éntre (sic) a buscarla.
+Si la pieza herida muriese en terrenos ajenos, el propietario de éstos o quien lo represente, deberá entregarla al cazador o permitir que éntre a buscarla.
 
 ###### ARTICULO 862.
 
@@ -7364,7 +7364,7 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del consentimiento
 
-ARTICULO 1,803.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlos, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+ARTICULO 1,803.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
 
 ARTICULO 1,804.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
@@ -11096,9 +11096,11 @@ ARTICULO 3,044.- Las inscripciones preventivas se cancelarán no solamente cuand
 
 ## ARTICULOS TRANSITORIOS
 
+> <small>(REFORMADO, D.O.F. 1o. DE SEPTIEMBRE DE 1932)</small>
+
 ###### ARTICULO 1o.
 
-Este Código entrará en vigor, en la fecha que fije el Ejecutivo.
+Este Código comenzará a regir el 1o. de octubre de 1932.
 
 ###### ARTICULO 2o.
 
@@ -11143,3 +11145,9 @@ Lo comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 1 DE SEPTIEMBRE DE 1932.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
