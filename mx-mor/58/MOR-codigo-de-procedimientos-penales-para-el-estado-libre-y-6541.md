@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-para-el-estado-libre-y-6541"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "1999-07-14"
+last_updated: "2000-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2000.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1213,6 +1213,38 @@ La atención de quienes sufran lesiones provenientes de delito se hará en hospi
 
 Los informes que expidan médicos particulares, serán revisados y ratificados, en su caso, por peritos oficiales, quienes harán el dictamen definitivo.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 141 Bis.
+
+El Ministerio Público autorizará la interrupción del embarazo, en un plazo de veinticuatro horas contadas a partir del momento en que se le haga la solicitud, cuando:
+
+A.- En el caso de ser resultado de una violación:
+
+a) Exista denuncia previa del delito;
+
+b) La víctima declare la existencia del embarazo;
+
+c) Se compruebe la existencia de este en instituciones de salud;
+
+d) Exista dictamen emitido por dos médicos especialistas, en el que se precise el estado clínico de la mujer embarazada y el producto;
+
+e) Existan elementos que permitan al Ministerio Público presumir que el embarazo es producto de una violación; y
+
+f) Exista solicitud libremente expresada por la mujer embarazada.
+
+B.- En el caso de que exista peligro para la vida de la mujer, el embarazo sea resultado de una inseminación artificial no consentida por la mujer o se diagnostiquen alteraciones genéticas o malformaciones congénitas con pronóstico de muerte inminente o alto índice de letalidad en el período posnatal inmediato o con posibilidades de vida más prolongada pero sujeta a medicación perenne:
+
+a) Exista dictamen emitido por dos médicos especialistas, uno de ellos genetista y el otro neonatólogo en el que se precise el estado clínico de la mujer embarazada y el producto; y
+
+b) La mujer interesada haga la solicitud con entera libertad de decisión.
+
+Las instituciones públicas de salud estarán obligadas a practicar el examen de embarazo, así como a realizar su interrupción a petición de la mujer interesada y previa autorización por escrito del Ministerio Público, debidamente fundada y motivada.
+
+Los médicos que practiquen la interrupción del embarazo deberán proporcionar información amplia sobre los riesgos de la práctica del aborto, debiendo presentar alternativas para evitar abortos subsecuentes, pero de manera alguna podrán inducir a la mujer embarazada a evitar la interrupción.
+
+A los productos o restos feto-placentarios extraídos según las reglas anteriores, las instituciones públicas de salud darán el tratamiento y destino que señalen las disposiciones sanitarias aplicables.
+
 ###### ARTICULO 142.
 
 La responsiva que otorguen médicos particulares incluirá las siguientes obligaciones, además del deber de suministrar a las autoridades toda la información que éstas requieran acerca del tratamiento del sujeto:
@@ -2266,3 +2298,13 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para cumplir con lo previsto por los artículo 44 y 70 fracción XVII, de la Constitución Política del Estado de Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto tendrá vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
