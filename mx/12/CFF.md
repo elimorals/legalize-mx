@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1987-03-02"
+last_updated: "1987-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1987.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 2 DE MARZO DE 1987.
 
@@ -133,6 +133,10 @@ En el caso de contribuciones que se deben pagar mediante retención, aún cuando
 Cuando los retenedores deban hacer un pago en bienes, solamente harán la entrega del bien de que se trate si quien debe recibir los provee de los fondos necesarios para efectuar la retención en moneda nacional.
 
 Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, el recibo oficial o la forma valorada expedidos y controlados exclusivamente por la Secretaría de Hacienda y Crédito Público o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+Cuando las disposiciones fiscales establezcan opciones a los contribuyentes para el cumplimiento de sus obligaciones fiscales o para determinar las contribuciones a su cargo, la elegida por el contribuyente no podrá variarla respecto al mismo ejercicio.
 
 ###### Artículo 7o.
 
@@ -498,9 +502,9 @@ II. Las personas que estén obligadas a efectuar pagos provisionales por cuenta 
 
 III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación garantice el interés fiscal por las contribuciones mencionadas en los términos del artículo 11 de este Código.
+No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación garantice respecto de dichas contribuciones el interés fiscal en los términos del artículo 11 de este Código, y siempre que cumpla con las obligaciones de presentar avisos y de proporcionar informes, a que se refiere este Código y su Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -1126,6 +1130,10 @@ f). No solicitar la inscripción en el registro federal de contribuyentes cuando
 
 g). Proporcionar en forma equivocada u omitir la información correspondiente al valor de los actos o actividades realizadas en cada entidad federativa cuando tengan establecimientos en dos o más entidades, siempre que la omisión o alteración exceda en más del 5% de la (sic) cantidades que debieron proporcionarse de acuerdo con las actividades realizadas.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+h). Consignar información o datos falsos en los estados de resultados reales del ejercicio que se presenten para solicitar reducción de los pagos provisionales, o en los informes acerca del movimiento de efectivo en caja y bancos, cuando se solicite el pago a plazos ya sea diferido o en parcialidades.
+
 Siempre se podrá volver a determinar contribuciones omitidas correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
 
 Si se incurre en alguna de las irregularidades señaladas en esta fracción, se podrá incluso, determinar contribuciones omitidas distintas a aquellas en que se cometió la irregularidad, aún cuando correspondan a ejercicios anteriores.
@@ -1144,9 +1152,9 @@ VI. Si en el período a que se refiere la fracción I, el contribuyente hubiera 
 
 VII. No obstante lo dispuesto en la fracción I de este artículo, las autoridades fiscales siempre podrán determinar contribuciones por un período menor del que se señala en dicha fracción.
 
-(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-Lo dispuesto en este artículo no es aplicable a aportaciones de seguridad social, contribuciones sobre ingresos provenientes del extranjero, al impuesto sobre tenencia o uso de vehículos; ni respecto de las deducciones por creación o incremento de reservas de pasivo cuando los pagos correspondientes se efectúen en ejercicios posteriores a aquél en que se hizo la deducción, así como de los ejercicios en que se incurrió en pérdidas para efectos del impuesto sobre la renta, cuando dichas pérdidas se disminuyan, total o parcialmente, en el ejercicio respecto del cual se ejercen las facultades de comprobación; tampoco es aplicable en el ejercicio inmediato anterior a aquél en que se incurrió en pérdida, cuando ésta se disminuya en dicho ejercicio.
+Lo dispuesto en este artículo no es aplicable a la determinación de contribuciones realizadas por las autoridades fiscales, que derive de la revisión de la cuenta pública federal efectuada por la Contaduría Mayor de Hacienda o de observaciones de la Comisión Nacional Bancaria y de Seguros, a aportaciones de seguridad social, contribuciones sobre ingresos provenientes del extranjero o que se causen por la importación de bienes, al impuesto sobre tenencia o uso de vehículos; ni respecto de las deducciones por creación o incremento de reservas de pasivo cuando los pagos correspondientes se efectúen en ejercicios posteriores a aquél en que se hizo la deducción, así como de los ejercicios en que se incurrió en pérdidas para efectos del impuesto sobre la renta, cuando dichas pérdidas se disminuyan, total o parcialmente, en el ejercicio respecto del cual se ejercen las facultades de comprobación; tampoco es aplicable en el ejercicio inmediato anterior a aquél en que se incurrió en pérdida, cuando ésta se disminuya en dicho ejercicio.
 
 No se impondrán multas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse en virtud de lo dispuesto por este artículo.
 
@@ -1440,6 +1448,10 @@ II. Presentar las declaraciones, solicitudes, avisos o expedir constancias, inco
 
 III. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo cuando el pago se efectúe espontáneamente.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+IV. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución.
+
 ###### Artículo 82.
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
@@ -1485,6 +1497,10 @@ d). De $6,700.00 en los demás casos.
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $13,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectuado.
 
 ###### Artículo 83.
 
@@ -2212,11 +2228,11 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 144.
 
-No se ejecutarán los actos administrativos cuando se solicite la suspensión ante la autoridad ejecutora y se acompañen los documentos que acrediten que se ha garantizado el interés fiscal. Dentro de los cuarenta y cinco días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, se deberá presentar copia sellada del escrito con el que se hubiera intentado recurso administrativo o juicio. En caso contrario, la autoridad estará facultada para hacer efectiva la garantía, aun cuando se trate de fianza otorgada por compañía autorizada.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días siguientes a la fecha en que surta efectos su notificación, siempre que el interesado manifieste ante la autoridad ejecutora, bajo protesta de decir verdad y dentro del mes siguiente a dicha fecha, que interpondrá recurso administrativo o juicio de nulidad y que garantizará el interés fiscal. Si a más tardar al vencimiento del citado plazo de cuarenta y cinco días, se acredita la impugnación y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución hasta que se haga saber la resolución definitiva que recaiga en el recurso o juicio.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -2230,11 +2246,13 @@ Si se controvierten sólo determinados conceptos de la resolución administrativ
 
 En el supuesto del párrafo anterior, si el particular no presenta declaración complementaria, la autoridad exigirá la cantidad que corresponda a la parte consentida, sin necesidad de emitir otra resolución. Si se confirma en forma definitiva la validez de la resolución impugnada, la autoridad procederá a exigir la diferencia no cubierta, con los recargos causados.
 
-El procedimiento administrativo quedará suspendido hasta que se haga saber la resolución definitiva que hubiera recaído en el recurso o juicio.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el antepenúltimo párrafo del artículo 141 de este Código.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante la sala del Tribunal Fiscal que conozca del juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o la sala ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal Fiscal de la Federación que conozca del juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
 
 ### CAPITULO II. De la Improcedencia y del Sobreseimiento
 
@@ -2328,9 +2346,9 @@ Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferio
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al año.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41 fracción II y 141 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatorias y edictos, de inscripción o cancelación de gravámenes en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41 fracción II y 141 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
 
@@ -2610,9 +2628,11 @@ Mientras no se finque el remate, el embargado puede proponer comprador que ofrez
 
 Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 180.
 
-En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente para cubrir el interés fiscal; si éste es superado por la base fijada para el remate, la diferencia podrá reconocerse en favor del ejecutado de acuerdo con las condiciones que pacten este último y el postor.
+En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente para cubrir el interés fiscal; si éste es superado por la base fijada para el remate, se procederá en los términos del artículo 196 de este Código.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -3701,3 +3721,21 @@ La presente Ley entrará en vigor el día 1o. de enero de 1987.
 D.O.F. 2 DE MARZO DE 1987.
 
 LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 1987.
+
+Disposiciones de vigencia anual
+
+###### ARTICULO SEGUNDO.
+
+Durante el año de 1988 la cantidad que conforme al primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación, puedan hacer efectiva las autoridades fiscales como pago provisional a cargo de los obligados, se incrementará a la que resulte de aplicarle el factor de 2.2.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1988, para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, se establece el factor de 2.6 que se aplicará a partir del 1o. de marzo de 1988, sobre las cantidades en vigor.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1988.
