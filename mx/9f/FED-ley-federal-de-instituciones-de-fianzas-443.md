@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1997-05-07"
+last_updated: "1999-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -1839,11 +1839,11 @@ Para todos los efectos legales, los recibos expedidos en papelería oficial de l
 
 (DEROGADO, D.O.F. 14 DE JULIO DE 1993)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA DEL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 93.
 
-Los beneficiarios de fianzas deberán presentar sus reclamaciones por responsabilidades derivadas de los derechos y obligaciones que consten en la póliza respectiva, directamente ante la institución de fianzas. En caso que ésta no le dé contestación dentro del término legal o que exista inconformidad respecto de la resolución emitida por la misma, el reclamante podrá, a su elección, hacer valer sus derechos ante la Comisión Nacional de Seguros y Fianzas; o bien, ante los tribunales competentes en los términos previstos por el artículo 94 de esta Ley. En el primer caso, las instituciones afianzadoras estarán obligadas a someterse al procedimiento de conciliación a que se refiere el artículo 93 Bis de la misma.
+Los beneficiarios de fianzas deberán presentar sus reclamaciones por responsabilidades derivadas de los derechos y obligaciones que consten en la póliza respectiva, directamente ante la institución de fianzas. En caso que ésta no le dé contestación dentro del término legal o que exista inconformidad respecto de la resolución emitida por la misma, el reclamante podrá, a su elección, hacer valer sus derechos ante la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros; o bien, ante los tribunales competentes en los términos previstos por el artículo 94 de esta Ley. En el primer caso, las instituciones afianzadoras estarán obligadas a someterse al procedimiento de conciliación a que se refiere el artículo 93 Bis de la misma.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -1863,9 +1863,9 @@ Una vez integrada la reclamación en los términos de los dos párrafos anterior
 
 II.- Si a juicio de la institución procede parcialmente la reclamación podrá hacer el pago de lo que reconozca dentro del plazo que corresponda, conforme a lo establecido en la fracción anterior y el beneficiario estará obligado a recibirlo, sin perjuicio de que haga valer sus derechos por la diferencia, en los términos de la siguiente fracción. Si el pago se hace después del plazo referido, la institución deberá cubrir los intereses mencionados en el artículo 95 Bis de esta Ley, en el lapso que dicho artículo establece, contado a partir de la fecha en que debió hacerse el pago, teniendo el beneficiario acción en los términos de los artículos 93 Bis y 94 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA DEL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)</small>
 
-III.- Cuando el beneficiario no esté conforme con la resolución que le hubiere comunicado la institución, podrá a su elección, acudir ante la Comisión Nacional de Seguros y Fianzas a efecto de que su reclamación se lleve a través de un procedimiento conciliatorio, o hacer valer sus derechos ante los Tribunales competentes, conforme a lo establecido en los términos de los artículos 93 bis y 94 de esta Ley; y
+III.- Cuando el beneficiario no esté conforme con la resolución que le hubiere comunicado la institución, podrá a su elección, acudir ante la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros a efecto de que su reclamación se lleve a través de un procedimiento conciliatorio, o hacer valer sus derechos ante los Tribunales competentes, conforme a lo establecido en los términos de los artículos 93 bis y 94 de esta Ley; y
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -1979,13 +1979,13 @@ III.- El Tribunal o juez dictará sentencia en el plazo de cinco días;
 
 IV.- Contra las sentencias dictadas en los juicios a que se refiere este artículo, procederá el recurso de apelación en ambos efectos. Contra las demás resoluciones, procederán los recursos que establece el Código de Comercio;
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA DEL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)</small>
 
-V.- Las sentencias y mandamientos de embargo dictados en contra de las instituciones de fianzas, se ejecutarán exclusivamente por conducto de la Comisión Nacional de Seguros y Fianzas, conforme a las siguientes reglas:
+V.- Las sentencias y mandamientos de embargo dictados en contra de las instituciones de fianzas, se ejecutarán exclusivamente por conducto de la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros, conforme a las siguientes reglas:
 
-a).- Tratándose de sentencia que condene a pagar a la institución, la Comisión Nacional de Seguros y Fianzas, dentro de los diez días siguientes al recibo de la ejecutoria, la requerirá para que cumpla. Si dentro de las setenta y dos horas siguientes la institución no comprueba haberlo hecho, la Comisión Nacional de Seguros y Fianzas ordenará el remate en bolsa, de valores propiedad de la institución y pondrá la cantidad que corresponda a disposición de la autoridad que conozca el juicio.
+a).- Tratándose de sentencia que condene a pagar a la institución, la Comisión Nacional de Seguros y Fianzas, dentro de los diez días siguientes al recibo de la ejecutoria, la requerirá para que cumpla. Si dentro de las setenta y dos horas siguientes la institución no comprueba haberlo hecho, la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros ordenará el remate en bolsa, de valores propiedad de la institución y pondrá la cantidad que corresponda a disposición de la autoridad que conozca el juicio.
 
-b).- Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la Comisión Nacional de Seguros y Fianzas determinará los bienes de la institución que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La misma Comisión dictará las reglas sobre el depósito de dichos bienes;
+b).- Tratándose de mandamientos de embargo dictados por la autoridad judicial o administrativa, la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros determinará los bienes de la institución que deban afectarse en garantía exclusiva del cumplimiento de las obligaciones por las que se ordenó el embargo. La misma Comisión dictará las reglas sobre el depósito de dichos bienes;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
 
@@ -3316,3 +3316,17 @@ D.O.F. 7 DE MAYO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
+
+D.O.F. 18 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones a la Comisión Nacional de Seguros y Fianzas en los artículos 135 y 136 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 93 y 94 de la Ley Federal de Instituciones de Fianzas, se deberán entender referidas a la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros.
+
+...
+
+DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
