@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-9-1995-del-pleno-de-la-suprema-corte-de-41053"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-06-26"
-last_updated: "1995-06-26"
+last_updated: "2002-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1995-06-19"
 ---
 # ACUERDO NUMERO 9/1995 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA DETERMINACION DE LAS BASES DE LA NOVENA EPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACION]
 
-ACUERDO 9/1995 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE FECHA DIECINUEVE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CINCO, RELATIVO A LA DETERMINACION DE LAS BASES DE LA NOVENA EPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACION
+ACUERDO 9/1995 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE FECHA DIECINUEVE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CINCO, RELATIVO A LA DETERMINACION DE LAS BASES DE LA NOVENA EPOCA DEL SEMANARIO JUDICIAL DE LA FEDERACION.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2002.
 
 Acuerdo publicado en el Diario Oficial de la Federacion, el lunes 26 de junio de 1995 y en el Semanario Judicial de la Federación y su Gaceta, Tomo I, Junio de 1995, página 583.
 
@@ -55,7 +55,9 @@ Asimismo, se incluirán los acuerdos generales del Pleno de la Suprema Corte de 
 
 TERCERO.- El Semanario Judicial de la Federación se publicará mensualmente, y dicha publicación se compondrá de tres partes. La primera contendrá las tesis y ejecutorias del Pleno y Salas de la Suprema Corte; la segunda las tesis y ejecutorias correspondientes a los Tribunales Colegiados de Circuito; y la tercera los acuerdos del Tribunal Pleno y del Consejo de la Judicatura Federal. Al final se incluirán los índices de la publicación, que comprenderán las secciones necesarias para facilitar la localización de las tesis y las ejecutorias respectivas.
 
-Las publicaciones mensuales integrarán un volumen cada semestre, el cual contendrá además un índice general por orden alfabético y por materia de las tesis que comprenda dicho período y una sección especial en donde se citen todos los acuerdos emitidos por el Pleno de la Suprema Corte y por el Consejo de la Judicatura Federal, en orden onomástico.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO 3/2002 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. DE 15 DE ABRIL DE 20002)</small>
+
+El tomo del Semanario correspondiente al mes de junio de cada año contendrá, además, un apartado dividido en secciones que comprendan un índice general alfabético de tesis, de ejecutorias y de los acuerdos emitidos por la Suprema Corte de Justicia de la Nación, por el Consejo de la Judicatura Federal o de manera conjunta por estos dos órganos y el Tribunal Electoral del Poder Judicial de la Federación, en su caso, durante el semestre correspondiente; mientras que el tomo del mes de diciembre de cada año incluirá igual apartado, con las tesis, las ejecutorias y los acuerdos emitidos durante el año de que se trate.
 
 CUARTO.- Las tesis que publique el Semanario Judicial de la Federación se colocarán por orden alfabético, de acuerdo con los títulos o rubros que por su tema les sean asignados.
 
@@ -78,3 +80,11 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que este Acuerdo 9/1995, relativo a la determinación de las bases de la Novena Epoca del Semanario Judicial de la Federación, fue aprobado por el Tribunal Pleno en sesión privada de diecinueve de junio de mil novecientos noventa y cinco, por unanimidad de diez votos de los señores Ministros: Presidente en funciones Juventino V. Castro y Castro, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga M. Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a diecinueve de junio de mil novecientos noventa y cinco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE ABRIL DE 2002.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación y hágase del conocimiento de los órganos del Poder Judicial de la Federación.
