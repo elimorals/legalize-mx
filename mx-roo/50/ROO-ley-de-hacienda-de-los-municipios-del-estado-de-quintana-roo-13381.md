@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "1998-12-15"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -143,7 +143,9 @@ El Impuesto Predial se determinará, liquidará y recaudará de acuerdo con la s
 
 TARIFA
 
-I.- En los municipios de Othón P. Blanco, Cozumel, Isla Mujeres y Solidaridad se aplicarán las siguientes tasas por cada año:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- En los municipios de Othón P. Blanco, Cozumel e Isla Mujeres, se Aplicarán las siguientes tasas por cada año:
 
 a).- En predios edificados en zonas urbanas, cuando el valor no exceda de $ 5,000.00 2.3 S.M.G.
 
@@ -183,7 +185,9 @@ d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten
 
 5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 30.9 al millar
 
-III.- En el municipio de Benito Juárez, se aplicarán las siguientes tasas por cada año:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- En los municipios de Benito Juárez y Solidaridad, se aplicarán las siguientes tasas por cada año:
 
 a).- Predios urbanos 6.9 al millar
 
@@ -265,15 +269,19 @@ La base del impuesto serán los ingresos globales que se obtengan con motivo de 
 
 Este impuesto se causará de acuerdo con la siguiente tarifa:
 
-I.- Cinematógrafos 4%
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-II.- Dramas, zarzuelas, comedia y ópera 4%
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+II.- Dramas, zarzuelas, comedia y opera 8%
 
 III.- Variedades y similares, aún cuando se realicen en lugares como restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos, siempre que no estén gravados por la Ley del I.V.A. del 5% al 30%
 
 Cuando no se expidan boletos o comprobantes, la Tesorería Municipal, respectiva fijará cuota diaria de 5 a 30 s.m.g.
 
-IV.- Circos 4%
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Circos 8%
 
 O en su caso la Tesorería fijará, una cuota diaria de 5 a 7 s.m.g.
 
@@ -418,6 +426,18 @@ VIII.- Copia del certificado de no adeudo de cooperación por obras;
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
 IX.- Tratándose de compra-venta de inmuebles, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTÍCULO 34 La vivienda de interés social y popular tendrá un deducible equivalente para la Zona 1 a 15 días de S.M.G. y para la Zona 2 a 10 días de S.M.G. vigente en el estado elevado al año, mismo que será aplicable a la base para el calculo del impuesto.
+
+Para los efectos de este artículo se considera:
+
+I.- Vivienda de interés social, aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar para la Zona 1 por quince y para la Zona 2 por diez el salario mínimo general elevado al año, vigente en el estado; y
+
+II.- Vivienda popular; aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar para la Zona 1 por veinticinco y para la Zona 2 por veinte el salario mínimo general elevado al año, vigente en el estado.
+
+Para efectos de la (sic) este artículo se consideran dentro de la Zona 1 los Municipios de: Benito Juárez, Solidaridad, Cozumel e Isla Mujeres, y dentro de la Zona 2, los municipios de: Othón P. Blanco, Lázaro Cárdenas, José Ma. Morelos y Felipe Carrillo Puerto.
 
 ###### ARTÍCULO 34.
 
@@ -857,7 +877,9 @@ b).- En las oficinas del registro civil en días y horas inhábiles 3.5 S.M.G.
 
 c).- Fuera de las oficinas del registro civil en días y horas hábiles 5.5 S.M.G.
 
-d).- Fuera de las oficinas del registro civil en días y horas inhábiles 9.0 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+d).- Fuera de las oficinas del registro civil en sábados y domingos y días festivos 18.5 S.M.G.
 
 e).- Registro de matrimonios contraídos por mexicanos fuera de la República 7.5 S.M.G.
 
@@ -865,7 +887,9 @@ f).- Rectificación de actas de matrimonio 1.0 S.M.G.
 
 g).- Matrimonio entre extranjeros en la oficina del Registro Civil 65.0 S.M.G.
 
-h).- Matrimonio entre extranjeros fuera de la oficina del Registro Civil 150.0 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+h).- Matrimonio entre extranjeros fuera de la oficina del Registro Civil 125 S.M.G.
 
 i).- Matrimonio entre extranjeros y mexicanos en las oficinas del Registro Civil 10.0 S.M.G.
 
@@ -927,6 +951,10 @@ n).- Búsqueda de documentos 10.0 S.M.G.
 
 o).- Otros no especificados 10.0 S.M.G.
 
+> <small>(ADICIONADO P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Las oficinas del Registro Civil deberán mantener a la vista de los usuarios una relación que contenga los servicios que prestan, con sus respectivas tarifas.
+
 ###### ARTÍCULO 68.
 
 En los casos de desastres, ciclones, sismos o campañas de regularización como matrimonios colectivos o solicitudes de oficios de las autoridades, los Ayuntamientos respectivos, a través de sus autoridades fiscales enunciadas en el capítulo de Disposiciones Generales de esta Ley, podrán subsidiar hasta el 100% de los derechos que causen las actas del Registro Civil.
@@ -962,6 +990,38 @@ c).- Residencial, se pagará por m2 de construcción 0.08 S.M.G.
 II.- Cuando se trate de construcciones destinadas a fines comerciales, industriales o de cualquier otra índole distinta a la establecida en la fracción anterior, se pagará por m2 de construcción: 0.08 S.M.G.
 
 Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período hasta de 180 días y las comprendidas en la II, por los plazos que fijen los ayuntamientos del estado, los que no serán menores que el anterior.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- FRACCIONAMIENTO DE TERRENO; sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
+
+El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1% en los mismos términos del párrafo anterior.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Para la autorización del régimen de propiedad en condominio por tipo de construcción:
+
+a).- Interés social 1 S.M.G. por unidad privada
+
+b).- Medio 2 S.M.G. por unidad privada
+
+c).- Residencial 4 S.M.G. por unidad privada
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+V.- Por la subdivisión de tipo general:
+
+a).- Cuando resulten 2 lotes 4.60 S.M.G.
+
+b).- Cuando resulten más de 2 lotes, por cada lote excedente 4.03 S.M.G.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VI.- Por la fusión de predios en general:
+
+a).- Por la fusión de 2 lotes 4.60 S.M.G.
+
+b).- Por cada lote que exceda de 2 4.03 S.M.G.
 
 ###### ARTÍCULO 72.
 
@@ -1019,9 +1079,11 @@ IV.- Las de supervivencia de pensionistas de la Federación y los estados y las 
 
 ### CAPITULO VI. PANTEONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 79.
 
-Se entiende por este derecho la prestación de los servicios de vigilancia, administración, limpieza, reglamentación y otros, de los predios propiedad del Ayuntamiento destinados a la inhumación de cadáveres, así como la autorización para efectuar las inhumaciones.
+Se entiende por este derecho la prestación de los servicios de vigilancia, administración, limpieza, reglamentación y otros de los predios propiedad del Ayuntamiento destinados a la inhumación de cadáveres, así como la autorización para efectuar las exhumaciones.
 
 ###### ARTICULO 80.
 
@@ -1031,51 +1093,79 @@ TARIFA
 
 I.- La concesión temporal o la adquisición a perpetuidad de terrenos en los panteones:
 
-a).- Primer patio, concesión o refrendos por siete años de 0.7 S.M.G. a 6.5 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Segundo patio, concesión o refrendo por siete años de 0.05 S.M.G. a 4.5 S.M.G.
+a).- Primer patio, concesión o refrendos por seis años de 0.7 S.M.G. a 6.5 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+b).- Segundo patio, concesión o refrendos por seis años de 0.05 S.M.G. a 4.5 S.M.G.
 
 c).- Primer patio, perpetuidad de 1.3 S.M.G. a 13.0 S.M.G.
 
 d).- Segundo patio, perpetuidad de 0.6 S.M.G. a 6.0 S.M.G.
 
-e).- Zona de restos áridos, perpetuidad de 0.7 S.M.G. a 6.5 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+e).- Zona de restos áridos, osarios a perpetuidad de 0.7 S.M.G. a 6.5 S.M.G.
 
 f).- Las inhumaciones en el tercer patio (fosa común) serán gratuitas.
 
 II.- Traslado de cadáveres o restos áridos:
 
-a).- Traslado de un cadáver de un municipio a otro, previo permiso sanitario de 0.6 S.M.G. a 1.2 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b).- Traslado de un cadáver de un municipio del estado a otra entidad de la República, previo permiso sanitario de 1.2 S.M.G. a 2.0 S.M.G.
+a).- Traslado de un cadáver de un municipio a otro, previo permiso sanitario y del Registro Civil de 0.6 S.M.G. a 1.2 S.M.G.
 
-c).- Traslado de un cadáver de un municipio del estado al extranjero, previo permiso sanitario de 3.5 S.M.G. a 7.0 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-d).- Traslado de restos áridos fuera de un municipio del estado al extranjero, previo permiso sanitario de 0.6 S.M.G. a 1.2 S.M.G.
+b).- Traslado de un cadáver de un municipio del estado a otra entidad de la República, previo permiso sanitario y del Registro Civil de 1.2 S.M.G. a 2.0 S.M.G.
 
-e).- Traslado de restos áridos de un municipio a otro, previo permiso sanitario de 0.3 S.M.G. a 0.7 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-f).- Traslado de restos áridos de un municipio del estado al extranjero, previo permiso sanitario de 0.3 S.M.G. a 7.0 S.M.G.
+c).- Traslado de un cadáver de un municipio del estado al extranjero previo permiso sanitario y del registro civil de 1.2 S.M.G. a 2.0 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+d).- Traslado de restos áridos fuera de un municipio del estado al extranjero, previo permiso sanitario y del Registro Civil de 0.6 S.M.G. a 1.2 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+e).- Traslado de restos áridos de un municipio a otro, previo permiso sanitario y del Registro Civil de 0.3 S.M.G. a 0.7 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+f).- Traslado de restos áridos de un municipio del estado al extranjero, previo permiso sanitario y del Registro Civil de 0.3 S.M.G. a 7.0 S.M.G.
 
 g).- Traslado de restos áridos de un municipio del estado a otro estado de la República de 0.4 S.M.G. a 0.8 S.M.G.
 
-h).- Permisos para construir dentro del panteón municipal, a cargo de empleados no municipales 0.5 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-i).- Titulación de predios 3.0 S.M.G.
+h).- Permisos para construir dentro del panteón municipal, a cargo de empleados no municipales, previo pago y entrega de la copia del documento que acredite la propiedad 0.5 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+i).- Titulación o reposición de títulos, mediante previo pago de la regularización, así como el pago anual del resello 3.0 S.M.G.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 81.
 
-El pago de los derechos a que se refiere el Artículo anterior se hará al solicitarse las concesiones temporales o adquisiciones a perpetuidad, las exhumaciones, los permisos para construcción de monumentos o el traslado de cadáveres o restos.
+El pago de los derechos a que se refiere el Artículo anterior se hará al solicitarse las concesiones temporales o adquisiciones a perpetuidad, las exhumaciones, los permisos para construcción de monumentos o el traslado de cadáveres o restos áridos y osarios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 82.
 
-Cuando se solicite la perpetuidad de una fosa, dentro del primer año de verificada una exhumación, se abonará al importe de dicha perpetuidad, la suma enterada por temporalidad.
+En los panteones o cementerios municipales, las inhumaciones serán por seis años con derecho a refrendos o bien a perpetuidad, debiendo cubrirse las tarifas señaladas por la Ley de Hacienda Municipal.
 
 ###### ARTÍCULO 83.
 
 Si dentro del primer año de hecho un refrendo de temporalidad se solicita la perpetuidad de la fosa, se deducirá al importe de ésta la suma enterada por el refrendo.
 
-Las personas que poseen fosas a perpetuidad en los panteones municipales, podrán inhumar en ellas otros cadáveres, siempre que se haya vencido el término que señalan las Leyes y Reglamentos para la inhumación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Las personas que poseen fosas a perpetuidad en los panteones municipales, podrán inhumar en ellas otros cadáveres, siempre que se haya vencido el término que señalan las Leyes y Reglamentos respectivos para la inhumación.
 
 ###### ARTÍCULO 84.
 
@@ -1593,7 +1683,9 @@ Simultáneamente al requerimiento, la autoridad impondrá la sanción que corres
 
 La autorización para el funcionamiento de establecimientos comerciales fuera del horario normal que fijen los reglamentos, causarán diariamente derechos por cada hora extraordinaria, como sigue:
 
-I.- Clubes, restaurantes, loncherías y demás en que se expendan bebidas alcohólicas de 0.7 S.M.G. a 1.5 S.M.G.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- Clubes, restaurantes, loncherías y demás en que se expendan bebidas alcohólicas de 2.5 S.M.G. a 6.5 S.M.G.
 
 II.- Otros establecimientos que vendan alimentos sin bebidas alcohólicas excepto cerveza de 0.6 S.M.G. a 1.2 S.M.G.
 
@@ -2286,3 +2378,9 @@ P.O. 15 DE DICIEMBRE DE 1998.
 PRIMERO.- El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del primero del mes de Enero del año previa publicación el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
