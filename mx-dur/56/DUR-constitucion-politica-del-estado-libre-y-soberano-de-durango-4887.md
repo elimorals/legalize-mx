@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2004-02-22"
+last_updated: "2004-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -185,9 +185,9 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 Toda resolución de autoridad administrativa será de acuerdo a la letra de la Ley y en su caso conforme a la interpretación jurídica de la misma.
 
-En el Estado de Durango se instituye un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía; que tendrá a su cargo dirimir las controversias que se susciten entre la Administración Pública y los particulares.
+En el Estado de Durango se instituye un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía; que tendrá a su encargo dirimir las controversias que se susciten entre la Administración Pública y los particulares.
 
-Los requisitos para ser Magistrado del Tribunal de lo Contencioso Administrativo, la forma de elección y el período de ejercicio en el encargo, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia.
+Los requisitos para ser Magistrado del Tribunal de lo Contencioso Administrativo, la forma de elección y el período de ejercicio en el cargo, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -587,6 +587,10 @@ Los fallos del Tribunal Estatal Electoral serán definitivos y firmes. La ley es
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -683,9 +687,9 @@ A efecto de garantizar la libre expresión de las corrientes ideológicas, repre
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+SECCION E.- DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ## TITULO TERCERO
 
@@ -943,10 +947,6 @@ XXXIX.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION E.- DE LA COMISION PERMANENTE
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
-
 ###### ARTICULO 56.
 
 Durante los recesos del Congreso, habrá una Comisión Permanente que se compondrá de cinco Diputados Propietarios y cinco Suplentes. En la víspera de la clausura de cualquiera de los períodos de sesiones, será nombrada por la Legislatura, instalándose al día siguiente.
@@ -981,7 +981,11 @@ VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen, a la
 
 VII.- Las demás que le confiere esta Constitución.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 58.
 
@@ -1007,11 +1011,7 @@ Los poderes del Estado y los sujetos de fiscalización, facilitarán los auxilio
 
 El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la ley.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -1491,7 +1491,9 @@ La Comisión Estatal de Derechos Humanos estará integrada por un presidente y u
 
 El Presidente de la Comisión durará 6 años en su cargo y podrá ser reelecto una sola vez. Los Consejeros tendrán un periodo de desempeño de 6 años.
 
-El Presidente de la Comisión deberá presentar un informe anual de su gestión, en los términos que determine la ley.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+El Presidente de la Comisión deberá comparecer ante el Congreso del Estado a rendir un informe anual de su gestión.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -2135,7 +2137,7 @@ Los Municipios de Lerdo y Gómez Palacio subsisten como independientes con sus d
 
 ###### Artículo 5º.
 
-Esta Constitución será promulgada por bando solemne. Rendirán la protesta de la misma Constitución ante el Congreso del Estado al día siguiente útil de su promulgación, El Poder Ejecutivo, El Legislativo, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y Defensores de Oficio, que se encuentren en esta Capital. Los miembros y empleados del Ayuntamiento de la Capital la otorgarán eI mismo día ante esta Corporación; y al día siguiente, ante el Superior respectivo, los demás empleados de la Administración Pública.
+Esta Constitución será promulgada por bando solemne. Rendirán la protesta de la misma Constitución ante el Congreso del Estado al día siguiente útil de su promulgación, El Poder Ejecutivo, El Legislativo, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y Defensores de Oficio, que se encuentren en esta Capital. Los miembros y empleados del Ayuntamiento de la Capital la otorgarán el mismo día ante esta Corporación; y al día siguiente, ante el Superior respectivo, los demás empleados de la Administración Pública.
 
 Los Jueces de Primera Instancia y Jueces Municipales foraneos rendirán por esta vez dicha protesta, al día siguiente de la promulgación de esta Constitución en el lugar de su residencia ante el Ayuntamiento respectivo; y ante el Superior que corresponda, los demás empleados de la Administración Pública.
 
@@ -2664,3 +2666,7 @@ P.O. 22 DE FEBRERO DE 2004.
 PRIMERO: El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
