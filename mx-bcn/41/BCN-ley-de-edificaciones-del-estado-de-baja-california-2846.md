@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "1994-06-24"
+last_updated: "2000-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -799,6 +799,14 @@ ORDENES DE REPARACION O DEMOLICION.
 
 Cuando las Autoridades Municipales tengan conocimiento de que una edificación, estructura o instalación, represente algún peligro para las personas o bienes, ordenará al Propietario o Poseedor que efectúen las reparaciones, obras o demoliciones, necesarias conforme al dictamen técnico que elabore o avale la Autoridad Municipal. En caso de no ser atendido, ordenará su clausura parcial o total, según sea el caso y a cuenta del propietario o poseedor realizará las obras o demoliciones necesarias para garantizar la seguridad de personas y bienes.
 
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+Cuando un predio con construcción se encuentre en estado de abandono que posibilite ser utilizado reiteradamente por terceras personas para ejecutar actividades que puedan ser constitutivas de delitos o infracciones a los Bandos o Reglamentos de Policía y Buen Gobierno, la Autoridad Municipal requerirá al Propietario o Poseedor, previo dictamen que para tal efecto se emita, realice las obras o medidas que eviten estas actividades; en caso de no ser atendido el requerimiento, y con la finalidad de salvaguardar el orden público, se ejecutarán las obras o medidas necesarias y en su caso la demolición, a costa del propietario o poseedor; previa sujeción del procedimiento previsto en la Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+Para los efectos de la disposición anterior, se entiende que una construcción se encuentra en estado de abandono, cuando no sea habitada por sus propietarios o poseedores por más de un año y existan reportes policiacos, administrativos, o testimonios de vecinos que así lo indiquen.
+
 ## TITULO SEPTIMO. Trámites Administrativos
 
 ### CAPITULO I. Licencias y Autorizaciones
@@ -1192,3 +1200,11 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de tres meses a partir del día en que inicie su vigencia la presente reforma, los Ayuntamientos Municipales deberán adecuar su marco jurídico reglamentario que permita a sus dependencias, ejercer las atribuciones conferidas.
