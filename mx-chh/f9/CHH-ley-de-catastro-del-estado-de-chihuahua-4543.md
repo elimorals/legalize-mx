@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2003-01-11"
+last_updated: "2003-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -317,15 +317,17 @@ El valor catastral será el que resulte de sumar el valor del terreno y el de la
 
 El valor catastral deberá reflejar el valor real del inmueble.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### Artículo 25.
 
-La asignación y actualización del valor catastral se efectuará por los municipios, y se aplicará el que resulte mayor, de acuerdo a lo siguiente:
+La asignación y actualización del valor catastral se efectuará por los Municipios, mediante cualquiera de los siguientes procedimientos:
 
 I. Por declaración del contribuyente, sujeta a la aprobación de la autoridad municipal;
 
-II. Por avalúo directo realizado por perito valuador, autorizado por la Comisión Nacional Bancaria y de Valores o por la autoridad municipal correspondiente, a solicitud del contribuyente;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2003)</small>
+
+II. Por avalúo directo realizado por un valuador. Este deberá ser autorizado por la Comisión Nacional Bancaria y de Valores, o estar debidamente acreditado ante el Departamento Estatal de Profesiones o contar con la autorización de la autoridad municipal correspondiente, a solicitud del contribuyente;
 
 III. Valuación directa conforme a los instructivos que se aprueben; y (sic)
 
@@ -500,3 +502,13 @@ A partir del segundo semestre del ejercicio 2003, quienes efectúen el pago del 
 ###### ARTÍCULO TERCERO.
 
 A partir de la aplicación de las disposiciones que establece el presente Decreto, entendida esta a partir del segundo semestre del año dos mil tres, el monto el monto (sic) del incremento en su caso del impuesto predial a pagar por los sujetos obligados de la relación tributaria, no podrá exceder en un diez por ciento, respecto al monto enterado, por el mismo bien, en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar sin perjuicio de la actualización que pueda corresponder.
+
+P.O. 8 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
