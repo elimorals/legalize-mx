@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1971-04-27"
+last_updated: "1975-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1975.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -5457,7 +5457,7 @@ La junta se verificará dentro de los ocho días siguientes a la citación, si l
 
 ###### Art. 1105.
 
-Si la mayoría residiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
+Si la mayoría recidiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
 
 ###### Art. 1106.
 
@@ -6105,9 +6105,11 @@ De la jurisdicción voluntaria
 
 La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1975)</small>
+
 ###### Art. 1243.
 
-Las solicitudes relativas a jurisdicción voluntaria se formularán por escrito ante los jueces de primera instancia.
+Las solicitudes relativas a jurisdicción voluntaria se formularán por escrito ante los jueces de primera instancia o de paz correspondientes.
 
 ###### Art. 1244.
 
@@ -6619,9 +6621,11 @@ Si antes de celebrarse éste se presentare el ascendiente o tutor, el juez revoc
 
 ## TITULO VIGESIMO. De los juicios verbales ante los jueces de paz
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1975)</small>
+
 ###### Art. 1346.
 
-Conocerán los jueces de paz de los juicios cuya cuantía no exceda de quinientos pesos. Para estimar el interés del negocio se tendrá en cuenta lo dispuesto en el artículo 175.
+Conocerán los jueces de paz de los juicios cuya cuantía no exceda de cinco mil pesos, de las solicitudes de alimentos provisionales en jurisdicción voluntaria y de las consignaciones por concepto de pensiones alimenticias. Para estimar el interés del negocio se estará a lo dispuesto en el artículo 175.
 
 ###### Art. 1347.
 
@@ -6691,9 +6695,11 @@ El procedimiento para la ejecución de las resoluciones en los juicios a que se 
 
 Si se necesitare enajenar bienes del deudor, hecho el embargo, se mandarán apreciar por peritos y se sacarán a remate, pregonándose por tres días consecutivos, si fueren muebles; y por tres veces, de tres en tres días, si fueren raíces. El remate se verificará al cuarto día en el primer caso, y el décimo día en el segundo. Los pregones se fijarán en la puerta del juzgado.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1975)</small>
+
 ###### Art. 1364.
 
-Si el interés del pleito no excediere de cien pesos, después de presentada la demanda y hecho el emplazamiento, se levantará acta en que se hará constar la contestación del demandado, las excepciones, las pruebas, lo que las partes aleguen sobre ellas y la sentencia. Todas las diligencias se practicarán a continuación unas de las otras en la misma audiencia, y en caso de no poderse practicar todas en un solo día, se suspenderá aquélla para continuarla al día siguiente. Si el demandado no comparece sin justa causa, se dará por contestada la demanda en sentido afirmativo y se pronunciará el fallo.
+Si el interés del pleito no excediere de mil pesos, después de presentada la demanda y hecho el emplazamiento, se levantará acta en que se hará constar la contestación del demandado, las excepciones, las pruebas, lo que las partes aleguen sobre ellas y la sentencia. Todas las diligencias se practicarán a continuación unas de las otras en la misma audiencia, y en caso de no poderse practicar todas en un solo día, se suspenderá aquélla para continuarla al día siguiente. Si el demandado no comparece sin justa causa, se dará por contestada la demanda en sentido afirmativo y se pronunciará el fallo.
 
 ###### Art. 1365.
 
@@ -6806,3 +6812,11 @@ Se derogan todas las disposiciones que se opongan a las presentes reformas.
 P.O. 27 DE ABRIL DE 1971.
 
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE JUNIO DE 1975.
+
+PRIMERO.- El presente decreto iniciará su vigencia quince días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite ante los juzgados de Primera Instancia de lo Civil y que de acuerdo con las presentes reformas, su conocimiento sea de la competencia de los juzgados de paz, continuarán tramitándose ante aquéllos hasta su terminación.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan a las presentes reformas.
