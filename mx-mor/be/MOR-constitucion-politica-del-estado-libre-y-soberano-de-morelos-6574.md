@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1933-11-12"
+last_updated: "1936-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,43 +20,27 @@ state: "MOR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1936.
 
-Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 3 de diciembre de 1997.
+Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+VICENTE ESTRADA CAJIGAL, Gobernador Constitucional del Estado Libre y Soberano de Morelos, a sus habitantes, sabed:
 
-ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confieren la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y el artículo quinto transitorio del Decreto que reforma, deroga y adiciona diversos artículos de la propia Constitución, publicado en el Diario Oficial de la Federación el 25 de octubre de 1993, he tenido a bien expedir el siguiente
+Que el H. Congreso Constituyente del Estado, se ha servido enviarme para su promulgación, la siguiente
 
-REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS,
 
-## TÍTULO I. DISPOSICIONES GENERALES
+que reforma la del año de 1888.
 
-### CAPÍTULO I. NORMAS COMUNES
+## TITULO PRIMERO.
 
-###### Artículo 1o.
+DISPOSICIONES PRELIMINARES.
 
-El presente tiene por objeto reglamentar las disposiciones de la Ley Ambiental del Distrito Federal.
+### CAPITULO I.
 
-###### Artículo 2o.
-
-Para los efectos de este Reglamento además de las definiciones de la Ley Ambiental del Distrito Federal, se entenderá por:
-
-I.- Delegaciones, a las Delegaciones del Distrito Federal;
-
-II.- Dirección, a la Dirección General de Prevención y Control de la Contaminación de la Administración Pública del Distrito Federal;
-
-III.- Ley, a la Ley Ambiental del Distrito Federal;
-
-IV.- Ley Orgánica, a la Ley Orgánica de la Administración Pública del Distrito Federal, y
-
-V.- Residuo, cualquier material o sustancia no peligrosa de acuerdo con las disposiciones legales y reglamentarias aplicables, generada en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
-
-###### Artículo 3o.
-
-La aplicación de este Reglamento compete a la Secretaría, a la Dirección, a la Dirección General de Proyectos Ambientales, a la Comisión de Recursos Naturales y a las Delegaciones, en los términos de las disposiciones jurídicas aplicables.
+DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO Y FORMA DE GOBIERNO DEL ESTADO.
 
 ###### Artículo 1.
 
@@ -66,27 +50,9 @@ El Estado de Morelos, es libre, Soberano e Independiente. Con los límites geogr
 
 Las autoridades del Estado de Morelos, vigilarán el exacto cumplimiento del Artículo 27 de la Constitución Federal de 1917, y el de la Ley Constitucional de 6 de enero de 1915, como reconocimiento de la declaración primera del Estatuto preconstitucional de Ayala de 28 de Noviembre de 1911, reformado en San Pablo Oxtotepec el 19 de julio de 1914.
 
-### CAPÍTULO II. DE LOS ESCRITOS Y SOLICITUDES
+### CAPITULO II.
 
-###### Artículo 4o.
-
-La autoridad ante la que se presente el escrito o solicitud deberá acordar dentro de los dos días hábiles siguientes a su presentación si lo desecha o previene al interesado, de lo contrario o de no notificarse en los términos de ley, se entenderá admitido.
-
-###### Artículo 5o.
-
-Si el escrito o solicitud no reúne los requisitos respectivos se prevendrá por escrito y por una sola vez al interesado para que dentro de los cinco días hábiles siguientes a partir de la notificación de la prevención subsane la falta, apercibiéndolo de que de no ser así se le tendrá por no presentado.
-
-###### Artículo 6o.
-
-Cuando se prevenga conforme al artículo que antecede, los plazos establecidos en la Ley o este Reglamento se suspenderán hasta que se subsane la falta o transcurra el plazo concedido para ello.
-
-###### Artículo 7o.
-
-Salvo disposición en contrario de la Ley o este Reglamento, admitido a trámite el escrito o solicitud, la autoridad competente deberá, dentro de los quince días hábiles siguientes, resolver si otorga la autorización, la otorga en forma condicionada o si la niega.
-
-###### Artículo 8o.
-
-Si la autoridad competente no resuelve dentro de los plazos determinados conforme al artículo anterior o si la notificación no se realiza en los términos de ley, operará la afirmativa ficta, salvo disposición en contrario de la Ley o del presente Reglamento.
+DE LAS PERSONAS EN EL ESTADO.
 
 ###### Artículo 3.
 
@@ -122,469 +88,653 @@ IV.- Recibir la educación primaria en la forma prescrita por las leyes y obliga
 
 V.- Inscribirse en el Departamento de Identificación para obtener cédula personal de acuerdo con la ley reglamentaria respectiva.
 
-### CAPÍTULO III. DEL DICTAMEN TÉCNICO
+### CAPITULO III.
 
-###### Artículo 9o.
-
-Cuando por infracciones a las disposiciones de la Ley se hubieren ocasionado lesiones, daños o perjuicios a personas, los interesados podrán solicitar a la Secretaría la formulación de un dictamen técnico, mismo que deberá prepararse dentro de los treinta días hábiles siguientes a la recepción de la solicitud.
+DE LOS MORELENSES.
 
 ###### Artículo 9.
 
 Los morelenses se clasifican en: morelenses por nacimiento y morelenses por residencia.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1936)</small>
+
 ###### Artículo 10.
 
-El dictamen técnico tiene por objeto determinar la relación de causalidad entre las infracciones a la Ley o al presente Reglamento y los daños ambientales o lesiones, daños y perjuicios ocasionados a las personas.
+Son morelenses por nacimiento, los nacidos dentro del territorio del Estado.
 
 ###### Artículo 11.
 
-Los interesados, previo pago de los derechos fijados en el Código Financiero del Distrito Federal, presentarán su solicitud de dictamen técnico ante la Dirección si la infracción se cometió en suelo urbano o ante la Comisión de Recursos Naturales si lo fue en suelo de conservación.
+Son morelenses por residencia los originarios de otras Entidades Federativas Mexicanas que residan habitualmente en el Estado por más de cinco años, a no ser que manifiesten ante la autoridad municipal sus deseos de conservar su calidad de origen.
+
+Lo dispuesto en este artículo y en la fracción segunda del Artículo anterior, se observará siempre que no existan disposiciones contrarias en la legislación de otros Estados, de donde sean originarios los interesados en el primer caso, y sus padres en el segundo.
 
 ###### Artículo 12.
 
-La solicitud de dictamen técnico deberá cumplir con los requisitos determinados en el artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal y con los siguientes:
+Los morelenses en igualdad de circunstancias serán preferidos a quienes no lo sean para toda clase de concesiones, empleos o comisiones públicas del Estado y de los Municipios.
 
-I.- Identificación de la infracción materia de la solicitud, acompañando, en su caso, las pruebas respectivas;
-
-II.- Datos que permitan identificar al infractor y la fuente generadora de la lesión, daño o perjuicio, y
-
-III.- Descripción de las lesiones, daños o perjuicios ocasionados, acompañando las pruebas correspondientes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 13.
 
-El dictamen técnico deberá, con bases científicas y técnicas, determinar la relación entre la infracción a la Ley o a este Reglamento y las lesiones, daños o perjuicios ocasionados, así como las medidas y los plazos necesarios para la reparación de los daños ambientales respectivos. Dicho dictamen podrá servir de base para la emisión de la resolución administrativa que corresponda.
+Son ciudadanos Morelenses los que además de tener la calidad de ciudadanos mexicanos, residan habitualmente en el territorio del Estado.
+
+I.- Haber cumplido 18 años siendo casados y 21 si no lo son.
+
+II.- Tener un modo honesto de vivir.
+
+III.- Residir habitualmente en el territorio del Estado.
 
 ###### Artículo 14.
 
-El sistema permanente de información y vigilancia ambiental que establezca la Secretaría para el público, tendrá por objeto registrar, organizar, actualizar y difundir la información ecológica relevante del Distrito Federal, relativa a los recursos naturales, los instrumentos de política ambiental, las emisiones y niveles de contaminantes, así como al sistema de información de impacto ambiental.
+Son derechos de los ciudadanos Morelense:
 
-El sistema de información de impacto ambiental contendrá los datos relativos a los expedientes en trámite o resueltos para consulta del público, así como al seguimiento, en su caso, de las condiciones impuestas en las autorizaciones respectivas.
+I.- Votar en las elecciones populares.
+
+II.- Poder ser electo o nombrado para cualquier empleo o comisión, siempre que reúna los demás requisitos exigidos por la Ley.
 
 ###### Artículo 15.
 
-La Secretaría difundirá información veraz, oportuna y actualizada respecto de los niveles de contaminación y los programas y medidas para el cuidado y la recuperación ambiental del Distrito Federal.
+Son obligaciones del Ciudadano Morelense:
+
+I.- Votar en las elecciones.
+
+II.- Desempeñar cargos de elección popular.
+
+III.- Servir los cargos concejiles del Municipio en donde tenga su domicilio fijo, los de jurado y desempeñar gratuitamente las funciones electorales.
+
+IV.- Congregarse en los lugares, días y horas establecida por la Autoridad Municipal, para recibir instrucción cívica y social; practicar los ejercicios militares, los actos civiles, y guardar el orden público en los lugares en donde no haya servicio de policía oficial.
+
+V.- Preocuparse por las obras de mejoramiento público y social y prestar su contingente personal para extinguir incendios que destruyan bienes de la Comunidad o de particulares y los provocados en los bosques y montes. Combatir y prevenir cualquiera otra calamidad o plaga que perjudique a la colectividad, para lo cual sean necesarios el concurso y cooperación de los ciudadanos de lugar.
 
 ###### Artículo 16.
 
-El informe público anual que emita la Secretaría sobre la situación ambiental del Distrito Federal deberá publicarse en la Gaceta Oficial.
+Pierde su calidad de ciudadano morelense:
+
+I.- El que ha perdido la de mexicano.
+
+II.- El que por sentencia ejecutoria haya sido condenado a inhabilitación para obtener empleos o cargos públicos, aunque dicha inhabilitación comprenda determinado ramo de la Administración.
+
+III.- El que solicitare y obtuviere carta de ciudadanía en otro Estado.
+
+IV.- (DEROGADA, P.O. 16 DE OCTUBRE DE 1932)
 
 ###### Artículo 17.
 
-El ordenamiento ecológico del Distrito Federal, que deberá integrarse al programa de desarrollo urbano del Distrito Federal, se formulará considerando lo dispuesto en el ordenamiento ecológico general del territorio nacional y el regional correspondiente, así como el local de los municipios respectivos, a fin de integrar y coordinar la política ambiental metropolitana.
+Los derechos y prerrogativas del ciudadano se suspenden:
+
+I.- Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que esta Constitución impone al Ciudadano morelense. Esta suspensión durará un año sin perjuicio de las otras penas que por el mismo hecho u omisión le señale la Ley.
+
+II.- Por estar sujeto a proceso un funcionario público, por delito común u oficial, desde que se le declare culpable o con lugar a formación de causa, hasta que fuere absuelto o extinga la pena.
+
+III.- Por encontrarse procesado criminalmente por delito que merezca pena corporal, desde la fecha del auto de formal prisión, o el que lo declare sujeto a proceso, hasta que conforme a la Ley se le libre de pena.
+
+IV.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta que prescriba la acción penal.
+
+V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la forma que prevengan las leyes.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
 ###### Artículo 18.
 
-El ordenamiento ecológico del Distrito Federal tendrá por objeto:
+Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de (sic) ciudadano a quien los hubiere perdido; pero es requisito indispensable para conceder esta gracia, que la persona objeto de ella, goce de los derechos de ciudadano mexicano.
 
-I.- Determinar las distintas zonas ecológicas que se localizan en el Distrito Federal, describiendo sus características físicas, bióticas y socioeconómicas, así como el diagnóstico de sus condiciones ambientales y de las tecnologías utilizadas por sus habitantes;
-
-II.- Regular los usos y destinos del suelo de conservación, y
-
-III.- Establecer los criterios de regulación para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales en el Distrito Federal.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 19.
 
-El ordenamiento ecológico del Distrito Federal se formulará, aprobará, expedirá, evaluará o modificará conforme a los procedimientos aplicables a los programas de desarrollo urbano de los que forme parte, en los términos de la Ley y de la Ley de Desarrollo Urbano del Distrito Federal.
+La calidad de ciudadano Morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
 
-### CAPÍTULO I. SISTEMA DE INFORMACIÓN
+### CAPITULO UNICO.
 
-## TÍTULO II. DE LA POLÍTICA AMBIENTAL
+DIVISION DE PODERES.
 
-### CAPÍTULO II. DEL ORDENAMIENTO ECOLÓGICO
+## TITULO SEGUNDO.
+
+DE LOS PODERES PUBLICOS.
+
+### CAPITULO I.
+
+DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1933)</small>
 
 ###### Artículo 20.
 
-Para los efectos de los artículos 26 y 27 de la Ley, se consideran actividades que pueden dañar al ambiente, de acuerdo con las normas oficiales, las propuestas de modificación a los programas delegacionales y parciales de desarrollo urbano respecto del uso del suelo de conservación o el uso del suelo urbano, cuando en éste se pretendan permitir actividades industriales que emitan contaminantes.
+El poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
 ###### Artículo 21.
 
-En los términos de la Ley, el informe, la manifestación o estudio en materia de impacto ambiental o de riesgo, así como el procedimiento para su evaluación comprenderán la obra que, en su caso, pretenda ejecutarse y las actividades que se realizarán en la misma.
+No podrán reunirse dos o más poderes en una sola persona o corporación ni encomendarse el Legislativo a un Congreso formado por menos de siete Diputados.
 
 ###### Artículo 22.
 
-Se consideran pruebas, elementos y razones que justifican la solicitud de modificación de los listados que expida la Secretaría, respecto de las obras o actividades que requieren autorización de impacto ambiental, los siguientes:
+Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas graves podrán translardarse (sic) temporalmente a otro lugar.
 
-I.- El certificado de zonificación o la descripción de los usos de suelo permitidos en el área en la que pretenda llevarse a cabo la obra o actividad;
+### CAPITULO II.
 
-II.- El croquis de localización del predio en el que pretenda realizarse la obra o actividad;
-
-III.- La descripción de las actividades que se lleven a cabo en los predios colindantes, y
-
-IV.- Las demás que el promovente estime convenientes.
-
-#### Sección II. Del Procedimiento de Evaluación de Impacto Ambiental
-
-### CAPÍTULO III. DEL IMPACTO AMBIENTAL
-
-#### Sección I. Disposiciones Generales
+DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
 ###### Artículo 23.
 
-El informe, la manifestación o estudio en materia de impacto ambiental o de riesgo se presentará en original y dos copias, una de las cuales deberá contener la leyenda “para consulta del público”, la que únicamente omitirá la información que deba mantenerse en reserva para la legítima protección de derechos de propiedad industrial o intelectual.
+El Poder Legislativo se deposita en una asamblea denominada "CONGRESO DEL ESTADO DE MORELOS", compuesto de representantes designados en su totalidad cada tres años, en elección popular directa en los términos que disponga la Ley, y no podrán ser reelectos para el período inmediato ni aún por distinto distrito. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-### CAPÍTULO I. DEL AGUA Y DE LAS BARRANCAS
+### CAPITULO III.
 
-## TÍTULO III. DE LA PROTECCIÓN Y RESTAURACIÓN DE LOS RECURSOS NATURALES
+DE LAS FACULTADES DEL CONGRESO.
 
-### CAPÍTULO II. DEL SUELO Y DE LAS ÁREAS VERDES
+## TITULO TERCERO.
+
+DEL PODER LEGISLATIVO.
+
+### CAPITULO IV.
+
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 24.
 
-El expediente de impacto ambiental para consulta del público se integrará con copia de los documentos siguientes:
-
-I.- Informe, manifestación o estudio en materia de impacto ambiental o de riesgo elaborado conforme al artículo 35 de la Ley, y
-
-II.- En su momento, la resolución correspondiente.
+Se elegirá un Diputado propietario y un suplente por cada Distrito Electoral. La ley determinará el número de Distritos electorales en que deba dividirse el Estado y la circunscripción de cada uno de ellos, de manera que el Congreso quede integrado por siete Diputados por los menos.
 
 ###### Artículo 25.
 
-La consulta de expedientes de impacto ambiental se llevará a cabo en días y horas hábiles en el local que destine para el efecto la Dirección. Dicha consulta se hará mediante solicitud por escrito del interesado, que contenga su nombre, domicilio para oír y recibir notificaciones, fecha, firma y, en su caso, el nombre de su representante legal, acompañando el documento que acredite su personalidad y copia de la identificación oficial de éste y del interesado. Las solicitudes se integrarán al expediente para consulta del público.
+Para ser Diputado propietario o suplente, se requiere:
+
+I.- Ser morelense por nacimiento.
+
+II.- Ser ciudadano del Estado en ejercicio de sus derechos.
+
+III.- Haber cumplido veinticinco años de edad.
 
 ###### Artículo 26.
 
-La publicación en un diario de circulación nacional del resumen del proyecto de obra o actividad sujeto a evaluación de impacto ambiental a que se refiere el artículo 40 de la Ley deberá llevarse a cabo dentro de los cuatro días hábiles siguientes a la presentación del informe, manifestación o estudio en materia de impacto ambiental o de riesgo.
+No pueden ser Diputados:
+
+I.- El Gobernador del Estado, el Secretario General de Gobierno y el funcionario o empleado que, conforme a la Ley, cubra las faltas accidentales de éste, siempre que la suplencia se efectúe durante el período electoral.
+
+II.- Los Magistrados del Tribunal Superior y el Procurador General de Justicia.
+
+III.- El Director General de Rentas.
+
+IV.- Los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Administradores de Rentas y los Presidentes Municipales, por los Distritos Electorales en que ejerzan sus funciones.
+
+V.- Los empleados de la Federación en cualquier Ramo.
+
+VI.- Los Jefes Militares con mando de tropa, sean de la Federación o del Estado, así como los Jefes de Policía y Seguridad Pública.
+
+VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, motín o cuartelazo.
+
+VIII.- Los Ministros de cualquier culto.
 
 ###### Artículo 27.
 
-Cualquier persona podrá presentar por escrito, observaciones al proyecto de obra o actividad ante la Dirección dentro de los cinco días hábiles siguientes a la publicación del mismo. Dicho escrito deberá reunir los requisitos fijados en el artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal, así como los siguientes:
-
-I.- Identificación del proyecto de obra o actividad objeto del escrito;
-
-II.- Observaciones y propuestas respecto del proyecto de obra o actividad respectivo, y
-
-III.- Las pruebas que se acompañen al escrito, así como los elementos y razones que justifiquen las observaciones y propuestas formuladas.
+Los individuos comprendidos en las fracciones I a la VI del artículo anterior, dejarán de tener la prohibición que en ellas se establece, siempre que se separen de sus respectivos encargos noventa días antes del señalado para la elección.
 
 ###### Artículo 28.
 
-La Dirección dictará la resolución en materia de impacto ambiental dentro de los plazos establecidos en el artículo 46 de la Ley.
+Nadie puede excusarse de servir el cargo de Diputado sino por causa bastante, calificada por el Congreso. Mientras se hace la calificación, no podrá dejar de asistir a las sesiones el Diputado electo, bajo la pena que establece el artículo 17 fracción I, sin perjuicio de lo que dispone el artículo 31 de esta Constitución.
 
 ###### Artículo 29.
 
-En los términos de la Ley, este Reglamento, el Reglamento del Servicio de Agua y Drenaje para el Distrito Federal y las normas oficiales, la Secretaría participará con la Dirección General de Construcción y Operación Hidráulica, la Comisión de Aguas del Distrito Federal y la Delegación respectiva, en el establecimiento y ejecución de programas para el uso eficiente del agua, a fin de promover:
+El cargo de Diputado es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, con sueldo o sin él; pero el Congreso podrá dar licencia a sus miembros para desempeñar el empleo o comisión para que hayan sido nombrados, llamando a los suplentes. Se exceptúan de está prohibición los empleos o comisiones de educación y beneficencia públicas.
 
-I.- El uso de equipos, prácticas y medidas para minimizar el consumo y la contaminación del agua potable en las actividades industriales, comerciales, de servicios y domésticas;
+### CAPITULO V.
 
-II.- La incorporación de sistemas para el debido reuso, tratamiento y reciclamiento del agua en las industrias, establecimientos comerciales y de servicios, así como en las unidades habitacionales;
-
-III.- La detección y reparación oportuna de fugas en la red hidráulica;
-
-IV.- El establecimiento de sistemas separados de drenaje y alcantarillado en el Distrito Federal, a fin de evitar que el agua de lluvia captada se mezcle y contamine con aguas residuales industriales, comerciales, de servicios o domésticas, y
-
-V.- El aprovechamiento racional de las corrientes superficiales de agua en el suelo de conservación, así como la recuperación y preservación de los acuíferos del Distrito Federal.
-
-### CAPÍTULO III. DE LAS ÁREAS NATURALES PROTEGIDAS
+DE LA DIPUTACION PERMANENTE.
 
 ###### Artículo 30.
 
-El establecimiento y aplicación de los programas para el uso eficiente del agua se sujetará a las disposiciones jurídicas aplicables.
+Sólo el Congreso del Estado puede calificar la validez o nulidad de las elecciones de los Diputados electos, y sus resoluciones son definitivas e irrevocables.
 
 ###### Artículo 31.
 
-Quedan prohibidos la urbanización, los asentamientos humanos o el depósito de basura o residuos en las barrancas, cauces de ríos y arroyos sujetos a protección, preservación o restauración ecológica en los términos de la Ley.
+El Congreso no puede abrir sus sesiones sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley y compeler a los ausentes para que se presenten, a más tardar dentro del término de diez días.
 
-Para los efectos de este artículo se entiende por barranca, la hendedura formada en el terreno por el flujo natural del agua o por las condiciones topográficas o geológicas, cuya profundidad es mayor a cinco metros y a dos veces su anchura y su longitud es superior a cuarenta metros.
+Si transcurriera el término señalado, sin haberse presentado, se llamara al suplente o suplentes respectivos, quienes ejercerán sus funciones, y si tampoco se presentaren dentro del término de diez días, se procederá a hacer nueva elección en ambos casos, sin perjuicio de la sanción que establece el artículo 28 de esta Constitución.
 
 ###### Artículo 32.
 
-La Dirección General de Construcción y Operación Hidráulica, en coordinación con la Delegación respectiva tratándose de suelo urbano o con la Comisión de Recursos Naturales en caso de suelo de conservación y áreas naturales protegidas, deberá sanear, preservar y restaurar ecológicamente las barrancas y cauces de ríos o arroyos, en los asuntos no reservados a la Federación conforme a la Ley de Aguas Nacionales y demás disposiciones jurídicas aplicables.
+El Congreso tendrá cada año dos períodos de sesiones ordinarias. El primero comenzará el 4 de mayo y concluirá el 14 de julio; y el segundo empezará el 5 de octubre para terminar el 31 de diciembre. Ambos períodos podrán prorrogarse hasta por treinta días, por acuerdo del Congreso.
 
 ###### Artículo 33.
 
-El saneamiento, conservación y recuperación de las barrancas, cauces de ríos y arroyos localizados en áreas naturales protegidas se sujetará a lo dispuesto en esta materia por la Ley y el presente Reglamento.
+A la apertura de las sesiones ordinarias del Congreso, concurrirá el Gobernador del Estado, y en la apertura del primer período rendirá un informe acerca de la situación que aguarden los diversos Ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
 
 ###### Artículo 34.
 
-Para los efectos del artículo 56 de la Ley y en los términos de las normas oficiales y demás disposiciones jurídicas aplicables, las personas que realicen obras o actividades de exploración o manejo de depósitos del subsuelo similares a los componentes de los terrenos y que no estén reservados a la Federación, están obligadas a:
-
-I.- Prevenir y minimizar la generación de residuos, reusar o reciclar los que se generen y, en su caso, minimizar su peligrosidad y volumen, previamente a su debida disposición final;
-
-II.- Restaurar la cubierta vegetal y reforestar el área de exploración o manejo, así como la superficie de acceso al sitio, para evitar o minimizar la erosión del suelo y la afectación de los cuerpos de agua superficiales y subterráneos, y
-
-III.- Realizar las demás medidas establecidas en las disposiciones jurídicas aplicables para prevenir, evitar, minimizar y, en su caso, reparar los daños ambientales.
+El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por la Diputación Permanente, por sí o a solicitud del Ejecutivo del Estado; pero en tales casos no podrá ocuparse más que del asunto o asuntos que fueron sometidos a su conocimiento y resolución, los cuales se expresarán en la convocatoria respectiva.
 
 ###### Artículo 35.
 
-Quien pretenda podar, trasplantar o derribar un árbol público en el suelo urbano o afectar áreas verdes o jardineras públicas, deberá contar previamente con la autorización de la Delegación respectiva.
+Las sesiones del Congreso tendrán el carácter de públicas o secretas, de acuerdo con lo que disponga el Reglamento Interior del mismo.
 
 ###### Artículo 36.
 
-En caso de poda, trasplante o derribo de un árbol público en el suelo de conservación o de derribo de un árbol particular, ejidal o comunal ubicado en éste, en áreas naturales protegidas o zonas colindantes con ellos, se requerirá autorización previa de la Comisión de Recursos Naturales.
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas en ningún tiempo, ni por ninguna autoridad.
 
 ###### Artículo 37.
 
-La autorización de impacto ambiental de una obra o actividad que comprenda el derribo, poda, trasplante o afectación de árboles y jardineras públicas, áreas verdes o árboles privados, surtirá los efectos de la autorización señalada en los dos artículos anteriores.
+Los Diputados que sin la licencia respectiva dejen de asistir hasta por el término de ocho sesiones consecutivas, no tendrán derecho de percibir las dietas correspondientes. Si la falta se prolongare por más tiempo sin justificarla, se llamará al suplente respectivo, quien deberá concurrir a las sesiones hasta la terminación del período en que ocurra la falta.
 
 ###### Artículo 38.
 
-Para obtener la autorización referida en los artículos 35 y 36 anteriores, el interesado deberá presentar la solicitud respectiva, misma que deberá cumplir los requisitos señalados en el artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal, así como los siguientes:
-
-I.- Cantidad y calidad de árboles, áreas verdes o jardineras públicas objeto de la solicitud, indicando su ubicación, especie, dimensión y superficie aproximada, así como el tipo y alcance de la afectación;
-
-II.- Material fotográfico o de video que muestre las características, localización y superficie de las áreas verdes, jardineras públicas, árboles y predios respectivos;
-
-III.- Motivo de la afectación, poda, trasplante o derribo, según corresponda;
-
-IV.- Cantidad y calidad de árboles o especies vegetales propuestos para restituir los árboles o restaurar las áreas verdes o jardineras públicas cuya afectación se solicita, señalando su especie, dimensión, superficie y, en su caso, peso y edad aproximada, de acuerdo con los artículos 61 y 65 de la Ley;
-
-V.- En su caso, croquis del proyecto de obra que ubique los árboles, áreas verdes o jardineras públicas respectivas, cuando para el debido uso, edificación o conservación del predio particular de que se trate se solicite la afectación correspondiente, y
-
-VI.- En su caso, certificado de zonificación de uso del suelo del predio particular respectivo, cuando no se puede precisar de otra forma si éste se ubica en suelo urbano o de conservación, en área natural protegida o en zona colindante con estos dos últimos.
+Las resoluciones del Congreso, tendrán el carácter de leyes, decretos o acuerdos económicos. Las leyes y decretos se remitirán al Ejecutivo firmados por el Presidente y los Secretarios, y los acuerdos económicos sólo por los Secretarios.
 
 ###### Artículo 39.
 
-Dentro de los cinco días hábiles siguientes a la admisión de la solicitud, la autoridad resolverá sobre su procedencia, en cuyo defecto operará la negativa ficta tratándose de árboles, áreas verdes o jardineras públicas, o bien la afirmativa ficta en caso de árboles particulares que requieran autorización.
+Cuando al llegar el día en que deba cerrarse alguno de los períodos de sesiones, el Congreso estuviere funcionando como Gran Jurado, prorrogará aquéllas hasta pronunciar su veredicto, sin ocuparse, entretanto, de ningún otro asunto.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO I.
+
+DEL GOBERNADOR.
 
 ###### Artículo 40.
 
-Resuelta la procedencia de la solicitud de afectación, se otorgará la autorización dentro de los tres días hábiles siguientes a aquél en el que el interesado acredite la reparación del daño mediante la entrega a la Comisión de Recursos Naturales o a la Delegación respectiva, según corresponda, de los árboles o especies vegetales que restituyan a los árboles que se derribarán o que restauren las afectaciones que se ocasionarán a las áreas verdes o jardineras públicas, conforme a la solicitud presentada y a la resolución de procedencia.
+Son facultades del Congreso:
+
+I.- Decidir de manera definitiva e irrevocable sobre la validez o nulidad de las elecciones de sus miembros, y resolver las dudas que ocurran respecto de ellas, de acuerdo con el artículo 30.
+
+II.- Expedir, aclarar, reformar, derogar o abrogar las leyes, decretos y acuerdos para el Gobierno y Administración interior del Estado.
+
+III.- Iniciar ante el Congreso de la Unión las leyes que estime convenientes, así como la reforma o derogación de las leyes Federales existentes.
+
+IV.- Crear o suprimir comisiones, empleos o cargos públicos en el Estado y señalar dotaciones.
+
+V.- Fijar los gastos del Estado y establecer las contribuciones necesarias para cubrirlos.
+
+VI.- Legislar sobre todo aquello que la Constitución General de la República no encomiende expresamente al Congreso de la Unión.
+
+VII.- Transladar temporalmente en caso necesario y a iniciativa del Ejecutivo, la residencia de los Poderes del Estado.
+
+VIII.- Facultar al Ejecutivo del Estado para que, por sí o por medio de una comisión, ajuste arreglos con los Estados vecinos sobre límites territoriales, reservándose el mismo Congreso la facultad de aprobar o no dichos arreglos, los que, en el primer caso, serán sometidos al Congreso de la Unión, para los efectos del artículo 116 de la Constitución Federal.
+
+IX.- Conceder al Ejecutivo facultades extraordinarias en alguno o algunos de los Ramos de la Administración, en los casos de grande peligro o de trastorno grave, calificados por el Congreso, o cuando éste lo estime conveniente.
+
+La concesión de facultades extraordinarias al Ejecutivo se hará sólo por el tiempo limitado y determinándose con absoluta precisión cuáles son esas facultades.
+
+X.- Fijar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos, en los casos no prohibidos por el artículo 117, fracción VIII, de la Constitución Federal, aprobar los contratos respectivos, reconocer la deuda del Estado y decretar el modo de cubrirla.
+
+XI.- Crear nuevos Municipios dentro de los límites de los existentes, previos los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+A.- Que la fracción o fracciones que pretendan erigirse en Municipio cuenten con una población de más de dos mil habitantes.
+
+B.- Que se compruebe ante el Congreso que la fracción o fracciones que pretendan formar Municipios, tienen los elementos bastantes para proveer por sí mismos a su existencia política, así como que el Municipio del cual traten de segregarse, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno.
+
+C.- Que se oiga al Ayuntamiento del Municipio que se trata de desmembrar, sobre la conveniencia o inconveniencia de la creación de la nueva Entidad Municipal; quedando obligado a dar un informe dentro de los treinta días siguientes a aquél en que le fuere pedido.
+
+D.- Que igualmente se oiga al Ejecutivo del Estado, quien enviará su informe dentro del término de diez días, contados desde la fecha en que se le remita la comunicación relativa.
+
+E.- Que la erección del nuevo Municipio sea aprobada por las dos terceras partes de los Diputados presentes.
+
+XII.- Suprimir alguno o algunos de los Municipios existentes, incorporándolos a los más inmediatos, siempre que se demuestre plenamente ante el Congreso que no llenan los requisitos a que se refieren los incisos A y B de la fracción anterior, previo informe del Ayuntamiento o Ayuntamientos de los Municipios que se trate de suprimir, y del Ejecutivo del Estado, dentro de los términos señalados en los incisos C y D, y observándose lo dispuestos (sic) en el inciso E de la misma fracción.
+
+XIII.- Decretar las contribuciones que deben formar la Hacienda Municipal, las que deben ser bastantes para cubrir las necesidades de los Municipios.
+
+XIV.- Autorizar la venta, hipoteca o cualquiera otro gravamen de bienes raíces del Estado o de los Municipios.
+
+XV.- Fijar, según las necesidades locales, el número máximo de Ministros de los cultos que puede permitirse en el Estado.
+
+XVI.- Organizar el patrimonio de familia, determinando los bienes que deben constituírlo.
+
+XVII.- Crear la deuda agraria del Estado, con arreglo a la Constitución Federal.
+
+XVIII.- Organizar la pequeña propiedad rural, fijando la extensión máxima de tierras de que pueda ser dueño un solo individuo o sociedad legalmente constituída.
+
+XIX.- Expedir leyes sobre trabajo, de acuerdo con la Constitución Federal.
+
+XX.- Dictar las leyes que estimen pertinentes para combatir el alcoholismo y el uso de hierbas y substancias enervantes.
+
+XXI.- Conceder premios por servicios hechos a la Nación, al Estado o a la Humanidad.
+
+XXII.- Rehabilitar en sus derechos de ciudadano del Estado.
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+XXIII.- Expedir la Ley relativa a la expropiación de la Propiedad Privada por causas de utilidad pública.
+
+XXIV.- Excitar a los Poderes de la Nación para que presten protección al Estado, en el caso previsto por el artículo 122 de la Constitución Federal.
+
+XXV.- Nombrar y remover libremente a los empleados de su Secretaría y de la Contaduría Mayor de Hacienda.
+
+XXVI.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el artículo 133 de esta Constitución.
+
+XXVII.- Examinar y calificar en el primer período de sus sesiones anuales, la cuenta general de gastos del año anterior, que oportunamente deberá presentarle el Ejecutivo.
+
+XXVIII.- Aprobar los Presupuestos de Ingresos Municipales, de acuerdo con los de Egresos, y que cada año deben remitirle con toda oportunidad los Ayuntamientos, para el año fiscal siguiente.
+
+XXIX.- Conceder licencias para separarse de sus respectivos cargos, a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda.
+
+XXX.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, salvo lo dispuesto en el artículo 72, fracción II de esta Constitución.
+
+XXXI.- Admitir la renuncia de sus cargos al Gobernador y a los Magistrados del Tribunal Superior de Justicia.
+
+XXXII.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia, siempre que la duración de ellas exceda de treinta días.
+
+XXXIII.- Convocar a elecciones de Gobernador y de Congreso del Estado, salvo lo dispuesto en el artículo 56, fracción IX de esta Constitución.
+
+XXXIV.- Declarar Gobernador del Estado al que haya obtenido mayoría de votos.
+
+XXXV.- Nombrar Gobernador Interino o substituto en los casos que determina esta Constitución.
+
+XXXVI.- Nombrar a los Magistrados del Tribunal Superior de Justicia, a propuesta en terna del Ejecutivo.
+
+XXXVII.- Nombrar a los Diputados que deben integrar la Diputación Permanente, conforme al artículo 53 de esta Constitución.
+
+XXXVIII.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al Estado ante la Suprema Corte de Justicia, cuando se suscite alguna controversia con otro Estado o con la Nación.
+
+XXXIX.- Decidir sobre la legalidad de las elecciones municipales, cuando se reclame en contra de ellas, y resolver en cada caso lo conveniente.
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+XL.- Declarar que ha o no lugar a formación de causa por delitos comunes contra los Diputados, el Gobernador, Secretario de Gobierno y Magistrados del Tribunal Superior.
+
+XLI.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delitos que cometan en ejercicio de sus funciones.
+
+XLII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado, y que no tengan el carácter de controversias de que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
+
+XLIII.- Formar su Reglamento Interior y expedir el del Tribunal Superior de Justicia, a iniciativa del mismo.
+
+XLIV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
+
+XLV.- Las demás que expresamente le confiere esta Constitución.
 
 ###### Artículo 41.
 
-Si la Comisión de Recursos Naturales o la Delegación, según corresponda, no otorgan la autorización referida en el artículo anterior dentro del plazo señalado en éste o no se notifica en los términos de ley, se entenderá autorizada la afectación de los árboles, áreas verdes o jardineras públicas objeto de la solicitud respectiva.
+En el segundo período de sesiones ordinarias, el Congreso se ocupará de preferencia de discutir y votar los Presupuestos de Ingresos y Egresos; y en el primero, del examen y calificación de las cuentas de los caudales públicos del año anterior.
 
-### CAPÍTULO II. DE LA CONTAMINACIÓN GENERADA POR FUENTES FIJAS
+### CAPITULO II.
 
-#### Sección I. De las Emisiones Contaminantes a la Atmósfera y de las Descargas de Aguas Residuales
+DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
 ###### Artículo 42.
 
-Para el establecimiento o modificación de áreas naturales protegidas, la Comisión de Recursos Naturales realizará la justificación y los estudios previos necesarios, así como la propuesta respectiva al Jefe de Gobierno del Distrito Federal.
+El derecho de iniciar leyes o decretos compete:
+
+I.- Al Gobernador del Estado.
+
+II.- A los Diputados al Congreso del mismo.
+
+III.- Al Tribunal Superior de Justicia.
+
+IV.- A los Ayuntamientos.
+
+V.- A los ciudadanos del Estado.
 
 ###### Artículo 43.
 
-Las áreas naturales protegidas estarán sometidas a los usos, destinos y aprovechamientos específicos establecidos en la Ley, este Reglamento, el Decreto que las establezca y el programa de manejo respectivo, a fin de conservar y restaurar los ecosistemas.
+Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, o signadas por tres o más Diputados, pasarán desde luego a la Comisión del Ramo a que correspondan. Las presentadas por los Ayuntamientos y los ciudadanos, se sujetarán a los tramites que establezca el Reglamento Interior del Congreso.
 
 ###### Artículo 44.
 
-La Secretaría, a través de la Comisión de Recursos Naturales, participará con la intervención que corresponda a las Delegaciones, en la administración, conservación, desarrollo y vigilancia de los parques nacionales y demás áreas naturales protegidas federales, en los términos de las disposiciones jurídicas aplicables y de los convenios de coordinación que para tal efecto se celebren.
+Para que un proyecto o iniciativa tenga el carácter de Ley o Decreto, necesita la aprobación de las dos terceras partes de los Diputados presentes, en votación nominal: la sanción del Ejecutivo y su publicación en el órgano Oficial del Estado.
 
 ###### Artículo 45.
 
-Para facilitar el logro de los objetivos de las áreas naturales protegidas, se promoverá la participación de sus habitantes, propietarios o poseedores, así como del sector privado y social, de acuerdo con el artículo 87 de la Ley y las demás disposiciones jurídicas aplicables, en su manejo, administración, conservación y desarrollo.
+El Congreso o la Diputación Permanente podrán llamar al Secretario General de Gobierno a cualquiera de sus sesiones secretas o públicas, para pedirle los informes verbales que necesiten sobre asuntos de la Administración, y este funcionario deberá presentarse a ministrarlos.
 
 ###### Artículo 46.
 
-Los programas de manejo de las áreas naturales protegidas serán formulados, expedidos y ejecutados por la Comisión de Recursos Naturales, conforme a la Ley, este Reglamento y el Decreto que las establezca.
+También podrán llamar a uno o dos Magistrados del Tribunal Superior de Justicia, al discutirse los dictámenes sobre iniciativas de leyes, para ilustrar la materia de que se trate.
 
 ###### Artículo 47.
 
-El programa de manejo de las áreas naturales protegidas deberá expedirse dentro de un año contado a partir de la publicación del Decreto que las establezca.
+Los Proyectos de Leyes o Decretos aprobados por el Congreso se remitirán al Ejecutivo, quien si no tuviera observaciones que hacer, los publicará inmediatamente. Se reputará aprobado por el Ejecutivo todo Proyecto no devuelto al Congreso, con observaciones, dentro de diez días útiles.
 
 ###### Artículo 48.
 
-Para su difusión, los programas de manejo deberán publicarse en la Gaceta Oficial.
+Si al concluir el período de sesiones, el Ejecutivo manifestare tener que hacer observaciones a algún proyecto de ley o decreto, el Congreso prorrogará aquéllas por los días que fueren necesarios para ocuparse exclusivamente del asunto de que se trate. Si corriendo el término a que se refiere el artículo anterior, el Congreso clausurare sus sesiones, sin recibir manifestación alguna del Ejecutivo, la devolución del Proyecto de Ley o Decreto, con sus observaciones, se hará el primer día útil en que aquél esté reunido.
 
 ###### Artículo 49.
 
-Los programas de manejo deberán cubrir los requisitos señalados en el artículo 76 de la Ley y los siguientes:
-
-I.- Las características ecológicas y socioeconómicas del área, y
-
-II.- Determinar la zonificación general y específica del área natural protegida e incluir los planos respectivos.
+El Proyecto de Ley o Decreto observado en todo o en parte por el Ejecutivo, será devuelto por éste y deberá ser discutido de nuevo; y si fuese confirmado por el voto de las dos terceras partes de la totalidad de los miembros del Congreso, volverá al Ejecutivo para su publicación.
 
 ###### Artículo 50.
 
-En las áreas naturales protegidas queda prohibido:
-
-I.- El establecimiento de cualquier asentamiento humano irregular, de nuevos asentamientos humanos regulares o su expansión territorial;
-
-II.- La ejecución de actividades que afecten los ecosistemas o recursos naturales del área de acuerdo con la Ley, este Reglamento, las normas oficiales, el Decreto que establezca el área, su programa de manejo o la evaluación de impacto ambiental respectiva;
-
-III.- La realización de nuevas actividades riesgosas;
-
-IV.- Las emisiones contaminantes al aire, agua, suelo y subsuelo, así como el depósito o disposición de residuos;
-
-V.- La extracción de suelo o de materiales del subsuelo con fines distintos a los estrictamente científicos;
-
-VI.- La interrupción o afectación del sistema hidrológico de la zona o a su equilibrio, y
-
-VII.- La realización de actividades cinegéticas o de explotación ilícitas de especies de flora o fauna silvestres.
+En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites que para su formación.
 
 ###### Artículo 51.
 
-En las áreas naturales protegidas podrán llevarse a cabo, en los términos de la Ley General, la Ley, este Reglamento, las normas oficiales, el Decreto que establezca el área, su programa de manejo, la evaluación de impacto ambiental respectiva y las demás disposiciones legales y reglamentarias aplicables, las actividades siguientes:
-
-I.- Manejo, restauración, protección, poblamiento, repoblamiento, control y saneamiento de especies de flora y fauna;
-
-II.- Investigación científica;
-
-III.- Turismo ecológico, entendiéndose por tal el que no implica la afectación o deterioro de los recursos naturales existentes en la zona;
-
-IV.- Actividades culturales, deportivas, de recreación, educación y capacitación ecológica;
-
-V.- Aprovechamiento sustentable de los recursos naturales, y
-
-VI.- Las señaladas en el Decreto que la establezca y las demás que sean compatibles con los fines del área de acuerdo con las disposiciones jurídicas aplicables y la evaluación de impacto ambiental correspondiente.
+Todo Proyecto de Ley o Decreto que fuese desechado por el Congreso, no podrá volver a presentarse en las sesiones del año.
 
 ###### Artículo 52.
 
-Para los efectos de este Título se entiende por ambiente, el espacio exterior a la fuente fija o móvil generadora de emisiones contaminantes.
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de cuerpo electoral o de Jurado, o cuando declare que debe acusarse a alguno de los altos funcionarios de la Administración Pública, por delitos oficiales.
 
-### CAPÍTULO III. DE LA CONTAMINACIÓN GENERADA POR FUENTES MÓVILES
+Tampoco podrán hacerlas al Decreto de convocatoria que expida la Diputación Permanente, en los casos del artículo 66 de esta Constitución.
 
-#### Sección I. De la Limitación para Circular y sus Excepciones
+### CAPITULO III.
+
+DE LA SECRETARIA GENERAL.
 
 ###### Artículo 53.
 
-En el Distrito Federal queda prohibido, en los términos de la Ley, este Reglamento, las normas oficiales y las demás disposiciones legales y reglamentarias aplicables:
-
-I.- Quemar, depositar, descargar o infiltrar al aire libre materiales o residuos. Para los efectos de este artículo se considera que la quema o el depósito se lleva a cabo al aire libre si se realiza fuera de las instalaciones diseñadas para ello, sin los equipos requeridos para prevenir y controlar las emisiones contaminantes respectivas y, en caso de quema, sin canalizarse a través de ductos o chimeneas de descarga;
-
-II.- Diluir las emisiones de las fuentes fijas o móviles para disminuir su verdadera concentración de contaminantes;
-
-III.- Derramar inútilmente agua potable o verter agua residual al arroyo de la calle, coladeras pluviales o pozos de visita del sistema de drenaje y alcantarillado;
-
-IV.- Verter, sin autorización de la Dirección en coordinación con la Dirección General de Construcción y Operación Hidráulica, agua residual en cuerpos receptores del Distrito Federal distintos al sistema de drenaje y alcantarillado;
-
-V.- Descargar o arrojar al sistema de drenaje y alcantarillado y demás cuerpos receptores del Distrito Federal, materiales o residuos que contaminen u obstruyan el flujo de dichos cuerpos receptores;
-
-VI.- Realizar, sin la autorización previa de la Dirección en coordinación con la Dirección General de Construcción y Operación Hidráulica, conexiones interiores entre predios para descargar aguas residuales por un albañal de la red de drenaje y alcantarillado distinto al que les corresponda, y
-
-VII.- Mezclar o juntar residuos con distintas categorías de manejo.
+Durante el receso del Congreso, habrá una Diputación Permanente compuesta de tres Diputados, nombrados por el Congreso la víspera de la clausura de sus sesiones; se instalará el día siguiente y durará todo el tiempo de receso, aun cuando haya sesiones extraordinarias.
 
 ###### Artículo 54.
 
-Las personas, conforme a los programas que emita la Administración Pública, están obligadas a manejar separadamente los residuos que generen, depositarlos en contenedores separados y permitir su recolección oportuna por parte del servicio de limpia del Distrito Federal.
+Las resoluciones de la Diputación Permanente se tomarán por mayoría de votos.
 
 ###### Artículo 55.
 
-En los términos de las normas oficiales, los propietarios o poseedores de fuentes fijas industriales están obligados a que las emisiones contaminantes a la atmósfera generadas por los equipos de combustión de sus procesos productivos se descarguen a través de chimeneas o ductos provistos de plataformas o puertos de muestreo.
+En caso de falta de alguno o algunos de los Diputados que integran la Diputación Permanente, los restantes podrán llamar a los demás Diputados, como suplentes, por orden numérico de su respectivos Distritos Electorales.
 
 ###### Artículo 56.
 
-La Dirección, en coordinación con la Dirección General de Construcción y Operación Hidráulica, podrá autorizar previa solicitud de los interesados, la conexión interior entre distintas fuentes fijas para descargar las aguas residuales de una o más de ellas por el albañal de otra, en los casos siguientes:
+Son atribuciones de la Diputación Permanente:
 
-I.- Cuando previamente a la descarga de agua residual a la red de drenaje y alcantarillado u otros cuerpos receptores del Distrito Federal, ésta requiera ser conducida a otro predio para su reuso o para su debido tratamiento, o
+I.- Vigilar sobre la observancia de la Constitución y de las leyes y dar cuenta al Congreso en su próxima reunión ordinaria de las infracciones que notare.
 
-II.- Cuando se demuestre la inviabilidad o inconveniencia de que cada una de las fuentes fijas respectivas tenga un albañal independiente hacia la red de drenaje y alcantarillado u otros cuerpos receptores del Distrito Federal.
+II.- Tramitar todos lo asuntos que quedaren pendientes al cerrarse las sesiones del Congreso y los que se reciban durante el receso, hasta dejarlos en estado de resolución.
 
-## TÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN AMBIENTAL
+III.- Conceder licencia al Gobernador para separase de sus funciones o salir del territorio del Estado por un término que no exceda de dos meses.
 
-### CAPÍTULO I. DE LA VIGILANCIA Y LA DENUNCIA POPULAR
+IV.- Nombrar Gobernador Interino en el caso de la fracción anterior.
+
+V.- Convocar al Congreso a sesiones extraordinarias en los casos siguientes:
+
+A.- Cuando a su juicio lo exija el interés público.
+
+B.- Cuando sea necesario para el cumplimiento de alguna ley general.
+
+C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
+
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
+
+E.- Cuando lo pida el Ejecutivo del Estado.
+
+F.- Para conocer la legalidad de elecciones en todos los casos.
+
+VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
+
+VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el "quórum" legal, y llamar a los suplentes respectivos.
+
+VIII.- Recibir los testimonios de las actas de elecciones de Diputados y de Gobernador del Estado, para entregarlos al Congreso, en sus respectivos casos.
+
+IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXVI, XXIX, XXXII, XXXV y XLIV del artículo 40 de esta Constitución.
+
+X.- Las demás que le confiere expresamente esta misma Constitución.
+
+## TITULO CUARTO.
+
+DEL PODER EJECUTIVO.
+
+### CAPITULO IV.
+
+DE LA HACIENDA PUBLICA.
 
 ###### Artículo 57.
 
-La solicitud a que alude el artículo precedente deberá cumplir los requisitos determinados en el artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal, así como los siguientes:
-
-I.- Distribución porcentual de caudales y emisiones contaminantes generados por cada fuente fija;
-
-II.- En su caso, designación del representante común ante la Dirección;
-
-III.- Nombre, firma, domicilio y teléfono de los propietarios o poseedores de las fuentes fijas correspondientes y, en su caso, de sus representantes legales, acompañando los documentos que acrediten su personalidad jurídica, y
-
-IV.- Declaración de que todos los propietarios o poseedores de las fuentes fijas respectivas asumen en forma solidaria la responsabilidad del cumplimiento de lo dispuesto por la Ley, este Reglamento y las normas oficiales correspondientes.
+Se deposita el ejercicio del Poder Ejecutivo en un solo individuo, que se denominará Gobernador Constitucional del Estado.
 
 ###### Artículo 58.
 
-De acuerdo con las normas oficiales, los propietarios o poseedores de fuentes fijas industriales y las incluidas en el listado a que se refiere el artículo 72 de este Reglamento, deberán muestrear y aforar las descargas de agua residual de sus procesos productivos y contar, en su caso, con plataformas y puertos de muestreo.
+Para ser Gobernador se requiere:
+
+I.- Ser ciudadano morelense por nacimiento, en el ejercicio de sus derechos.
+
+II.- Haber cumplido treinta años de edad.
+
+III.- Residir habitualmente en el territorio del Estado dos años inmediatamente anteriores a la elección.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1933)</small>
 
 ###### Artículo 59.
 
-Los propietarios o poseedores de fuentes fijas cuyas aguas residuales se descarguen al sistema de drenaje y alcantarillado o demás cuerpos receptores del Distrito Federal mediante drenajes separados para el agua pluvial, para el agua residual de tipo doméstico y de sus procesos productivos, podrán solicitar a la Dirección ser eximidos del muestreo y aforo del agua residual de tipo doméstico y pluvial, mediante escrito que cumpla los requisitos del artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal, así como los siguientes:
-
-I.- Ubicación precisa de la fuente fija y de su instalación hidráulica, detallando la red separada de drenaje con que cuente y acompañando croquis de localización;
-
-II.- Caudales de las descargas de sus procesos productivos y de tipo doméstico, determinando la concentración de contaminantes de cada una de ellas;
-
-III.- Tipo de proceso productivo y uso que se le da al agua, y
-
-IV.- Último inventario de emisiones contaminantes en la parte relativa a las descargas de aguas residuales conforme a la Ley y el presente Reglamento.
+La elección de Gobernador será popular directa, en los términos que disponga la Ley; entrará a ejercer sus funciones el día 18 de mayo posterior a las elecciones y durará en su encargo cuatro años.
 
 ###### Artículo 60.
 
-En caso de que la Dirección no emita la resolución que deba recaer a la solicitud mencionada en el artículo anterior dentro del plazo establecido en el artículo 7 de este Reglamento, operará la negativa ficta.
+No pueden ser Gobernador del Estado:
+
+I.- Los que pertenezcan o hayan pertenecido al estado eclesiástico, o sean o hayan sido ministros de algún culto.
+
+II.- Los miembros del Ejército Nacional y quienes tengan mando de fuerza en el Estado, que no se hayan separado del servicio activo con dos años de anticipación inmediatamente anteriores a las elecciones.
+
+III.- Los que tengan algún cargo o comisión civil del Gobierno Federal, si no se han separado noventa días inmediatamente anteriores a la elección.
+
+IV.- El Secretario General de Gobierno, el Procurador General de Justicia, los Magistrados del Tribunal Superior y el Director General de Rentas, si no se separan de sus respectivas funciones noventa días antes del señalado para la elección.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
+
+V.- Los Gobernadores del Estado cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo, ni aún con carácter de interinos, provisionales, substitutos o encargados del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a). El Gobernador Substituto constitucional o el designado para concluir el período, en caso de falta absoluta del constitucional, aún cuando sea con distinta denominación.
+
+b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Artículo 61.
 
-En el Distrito Federal sólo se permitirá la infiltración al subsuelo o la inyección al acuífero de agua residual o residual tratada, cuando se acredite fehacientemente el cumplimiento de los requisitos establecidos en las leyes, reglamentos o normas oficiales aplicables.
+Si el día señalado no se presentare el Gobernador electo a otorgar la protesta, entrará la persona que deba suplirlo en sus faltas accidentales, conforme al artículo 63 de está Constitución.
 
 ###### Artículo 62.
 
-Cuando con base en los resultados del análisis de una muestra compuesta diaria se acredite a la Dirección que el agua de abastecimiento de la fuente fija contiene uno o más de los contaminantes señalados en las normas oficiales o las condiciones particulares de descarga, los límites máximos fijados se incrementarán sumando la concentración del contaminante contenido en el agua de abastecimiento.
+El cargo de Gobernador sólo es renunciable por causa grave calificada por el Congreso, ante quien se presentará la renuncia.
 
 ###### Artículo 63.
 
-Para los efectos del artículo anterior se entiende por muestra compuesta diaria de agua residual, la resultante de mezclar en forma ponderada respecto al caudal varias muestras instantáneas tomadas en un periodo no mayor a 24 horas, conforme a la siguiente tabla:
-
-> <small>N. DE E. VEASE TABLA EN LA G.O. DEL 3 DE DICIEMBRE DE 1997, PAGINA 210.</small>
-
-Se entiende por muestra instantánea de agua residual, la realizada ininterrumpidamente durante el periodo necesario para completar un volumen representativo del caudal de la descarga de agua residual, medida en el sitio y en el momento del muestreo.
+Las faltas accidentales del Gobernador, que no excedan de veinte días, serán cubiertas por el Secretario General del Gobierno del Estado. Si la falta fuere por mayor tiempo, será cubierta por un Gobernador Interino que nombrará el Congreso, o en los recesos de éste, la Diputación Permanente, siempre que la falta no exceda de dos meses. Si excediere de este término y el Congreso no estuviere reunido, la Diputación Permanente lo convocará a sesiones extraordinarias.
 
 ###### Artículo 64.
 
-Para los efectos del artículo 97 de la Ley, las condiciones particulares de descarga que fije la Secretaría podrán establecer límites de contaminantes más estrictos que los previstos en las normas oficiales, cuando se demuestre técnicamente que a pesar del cumplimiento de las normas oficiales, los contaminantes de las descargas respectivas afectan negativamente los cuerpos receptores, la red de drenaje o la operación de las plantas de tratamiento de aguas residuales.
+En caso de falta absoluta del Gobernador, ocurrida durante los dos primeros años de su ejercicio, el Congreso, con asistencia de las dos terceras partes de sus miembros, por lo menos, procederá al nombramiento de un Gobernador Interino, en escrutinio secreto y por mayoría absoluta de votos, y expedirá desde luego la convocatoria respectiva para la elección del nuevo Gobernador que deba terminar el período constitucional.
 
 ###### Artículo 65.
 
-Los propietarios o poseedores de fuentes fijas deberán notificar de inmediato a la Dirección en caso de descargas que pongan en peligro la salud de las personas, al ambiente o la operación del sistema de drenaje y alcantarillado o de tratamiento de aguas residuales.
+Cuando la falta absoluta ocurra en los dos últimos años del período respectivo, el Congreso elegirá un Gobernador substituto, quien ejercerá sus funciones hasta la terminación del mismo.
 
-#### Sección II. De la Generación y Manejo de Residuos
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 66.
 
-La recolección y transporte de residuos, así como la construcción, equipamiento y operación de las estaciones para su transferencia, de las plantas para su tratamiento y de los sitios e instalaciones para su disposición final, deberán llevarse a cabo con los métodos, frecuencia, condiciones y equipo necesarios para evitar o minimizar la contaminación ambiental y prevenir la mezcla entre residuos de distintas categorías de manejo, en los términos de las normas oficiales y demás disposiciones jurídicas aplicables.
+Si el Congreso no estuviere reunido al ocurrir cualquiera de los casos a que se refieren los dos artículos anteriores, la Diputación Permanente nombrará un Gobernador Provisional y convocará a aquel a sesiones extraordinarias para que haga el nombramiento del Gobernador Interino o sustituto conforme a los mismos artículos. El Gobernador Provisional podrá ser electo por el Congreso como substituto o como interino.
 
 ###### Artículo 67.
 
-De acuerdo con las leyes, reglamentos y normas oficiales aplicables, durante la construcción y operación de los rellenos sanitarios y demás sitios destinados a la disposición final de residuos, deberán monitorearse periódicamente los lixiviados, la calidad de las aguas superficiales y subterráneas y la emisión de gases en la zona de que se trate.
+Los ciudadanos nombrados por el Congreso, conforme al artículo 65 de esta Constitución, no podrán ser electos para Gobernador Constitucional del Estado, para el período inmediato.
 
 ###### Artículo 68.
 
-Las actividades de manejo de residuos se llevarán a cabo directamente por la Dirección General de Servicios Urbanos, las Delegaciones respectivas o las personas a las que la Administración Pública otorgue la respectiva concesión o autorización conforme a las disposiciones jurídicas correspondientes.
+Cuando la falta absoluta del Gobernador ocurra sin estar integrado el Congreso para que pueda proceder con arreglo a los artículos 64 y 65, será cubierta por el Presidente del Tribunal Superior de Justicia, y en defecto de éste, por el Presidente Municipal del Municipio que, en el orden numérico que establece la Ley Orgánica Municipal, se encuentre en funciones por elección directa.
+
+En este caso, el funcionario que asuma el Poder Ejecutivo, lo hará con el carácter de Gobernador Provisional y procederá en el término improrrogable de sesenta días, a expedir la convocatoria que corresponda, para la elección de nuevo Congreso del Estado; y hecha la elección, éste procederá a hacer la designación de Gobernador conforme a dichos artículos, en sus respectivos casos.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 69.
 
-Las personas que realicen actividades de manejo de residuos están obligadas a:
+Cuando por circunstancias anormales no pueda integrarse el Poder Ejecutivo conforme al artículo anterior, y se llegue el caso de que el Senado nombre un Gobernador Provisional de acuerdo con el artículo 76 fracción V de la Constitución General de la República, el nombrado deberá expedir la convocatoria respectiva para la elección de Congreso del Estado, dentro del término improrrogable de sesenta días.
 
-I.- Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en la Ley, este Reglamento y las normas legales y reglamentarias aplicables;
+Integrado el Congreso del Estado, procederá a hacer la designación de Gobernador, con arreglo a los artículos 64 y 65 de esta Constitución, expidiendo en su caso la convocatoria que corresponda.
 
-II.- Que el personal que lleve a cabo el manejo de residuos esté debidamente capacitado, para cuyo efecto deberá aprobar el examen que para tal efecto realice la Dirección en coordinación con la Dirección General de Servicios Urbanos;
+En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la Permanente en su caso, rendirá la protesta ante un Notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado.
 
-III.- Mantener sus instalaciones y equipos en condiciones adecuadas de funcionamiento de acuerdo con las normas oficiales respectivas;
+### CAPITULO I.
 
-IV.- Llevar un registro con la información de las actividades de manejo de residuos que realicen de acuerdo con las disposiciones legales y reglamentarias aplicables y remitir a la Dirección General de Servicios Urbanos la documentación necesaria para su supervisión y control;
-
-V.- Dar aviso inmediato a la Dirección General de Servicios Urbanos cuando por cualquier causa imprevista se suspenda el manejo de residuos de que se trate o los equipos e instalaciones no funcionen debidamente, o con treinta días hábiles de anticipación en caso de suspensión programada;
-
-VI.- Cobrar, como máximo, las tarifas autorizadas por la Dirección General de Servicios Urbanos en coordinación con la Dirección o la Comisión de Recursos Naturales, según corresponda, y
-
-VII.- Garantizar en los términos de las disposiciones legales y reglamentarias aplicables la debida realización de las actividades de manejo de residuos correspondientes.
-
-#### Sección III. De las Gasolineras y Estaciones para Autoconsumo de Combustibles
-
-### CAPÍTULO II. DE LAS SANCIONES Y DEL RECURSO DE INCONFORMIDAD
+DISPOSICIONES PRELIMINARES.
 
 ###### Artículo 70.
 
-Los propietarios o poseedores de fuentes fijas que funcionen como gasolineras para suministro al público o para autoconsumo que cuenten con una capacidad total de almacenaje de cinco mil a un millón quinientos ochenta y nueve mil litros de combustible, tendrán conforme a este Reglamento y las normas oficiales, las obligaciones siguientes:
+Son facultades del Gobernador del Estado:
 
-I.- Contar en sus instalaciones con tanques de almacenamiento de doble pared alojados en fosas de concreto armado impermeabilizadas en su interior, con pozos de observación, instalaciones y dispositivos para su monitoreo permanente y detección de fugas;
+I.- Presentar al Congreso las iniciativas de leyes o decretos que estime convenientes en todos los Ramos de la Administración Pública.
 
-II.- Realizar pruebas de hermeticidad a los tanques de almacenamiento y tuberías de distribución;
+II.- Hacer las observaciones que estime oportunas a los proyectos de leyes o decretos que le remita el mismo Congreso.
 
-III.- Habilitar al menos cuatro pozos de observación en cada una de las fosas que contengan los tanques de almacenamiento de combustibles, provistos de tubería con un diámetro mínimo de 50.8 milímetros y con ranuras en toda su longitud de tamaño inferior al de las partículas sueltas del material de relleno de la fosa;
+III.- Pedir a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias, expresando el objeto de la runión (sic).
 
-IV.- Habilitar pozos de monitoreo del área provistos de tubería de 50.8 milímetros de diámetro como mínimo y de ranuras de un milímetro en toda su longitud, cuando menos a un metro de profundidad respecto del nivel de desplante de la fosa o, en su caso, del nivel freático, así como un pozo por cada 15 metros del perímetro del área en que se ubiquen los tanques de almacenamiento, las líneas de distribución y dispensarios, y
+IV.- Nombrar y remover libremente a los funcionarios y empleados del Estado, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución.
 
-V.- Contar con el sistema de recuperación de vapores de gasolina.
+V.- Nombrar al Director General de Rentas con aprobación del Congreso.
+
+VI.- Proponer ternas al Congreso del Estado, para la designación de Magistrados del Tribunal Superior de Justicia.
+
+VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
+
+VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; y en defecto de ésta, el arresto correspondiente, que no podrá exceder de quince días, de acuerdo con el artículo 21 de la Constitución Federal.
+
+IX.- Visitar todo el Estado o cualquiera de sus Municipios ya sea personalmente o por medio de Delegados del Gobierno, para la buena marcha de la Administración.
+
+X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de esta Constitución.
+
+XI.- Conceder licencia a los funcionarios y empleados cuyo nombramiento y remoción dependen del Ejecutivo, para separarse de sus respectivos encargos.
+
+XII.- Excitar a los Poderes de la Unión para que presten protección al Estado, conforme al artículo 122 de la Constitución Federal.
+
+XIII.- Todas las demás que expresamente le conceden las leyes, como Jefe de la Administración, de la Fuerza Pública y de la Hacienda del Estado.
+
+XIV.- Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquélla incurriere.
+
+XV.- Expedir títulos profesionales de acuerdo con los requisitos que establezcan las leyes respectivas.
 
 ###### Artículo 71.
 
-Los daños ambientales ocasionados por las fuentes fijas referidas en esta Sección deberán ser reparados en los términos de la Ley y las normas oficiales.
+Son obligaciones del Gobernador:
 
-#### Sección IV. Del Registro de Fuentes Fijas y Descargas de Aguas Residuales y del Inventario de Emisiones
+I.- Promulgar, cumplir, hacer cumplir y ejecutar las leyes, decretos y acuerdos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
+
+II.- Publicar y hacer cumplir las leyes federales.
+
+III.- Expedir los reglamentos que fueren necesarios, para la observancia y ejecución de las Leyes del Estado.
+
+IV.- Presentar al Congreso, en los primeros quince días del segundo período de sus sesiones ordinarias, el proyecto de presupuestos de ingresos y egresos para el año fiscal siguiente.
+
+V.- Presentar dentro de igual término, en el primer período de sesiones del Congreso, la cuenta general de gastos del año fiscal anterior.
+
+VI.- Velar por la conservación del orden público en el interior y por la seguridad exterior del Estado.
+
+VII.- Cuidar de la legal recaudación e inversión de las caudales públicos.
+
+VIII.- Cuidar de la disciplina de la Guardia Nacional.
+
+IX.- Visitar una vez, en el primer año de su ejercicio, todos los Municipios del Estado, sin perjuicio de la facultad que le confiere la fracción, IX del artículo anterior. Esta visita sólo podrá hacerse durante el receso del Congreso.
+
+X.- Fomentar la Educación Pública, procurando de preferencia la difusión de la instrucción primaria y el establecimiento de escuelas rurales y nocturnas en todo el Estado.
+
+XI.- Facilitar a los Tribunales el auxilio que necesiten para el expedito ejercicio de sus funciones.
+
+XII.- Impedir que las Autoridades Administrativas subalternas, se arroguen el conocimiento de asuntos o negocios judiciales de carácter civil o penal, salvo la excepción establecida por el artículo 16 de la Constitución General de la República.
 
 ###### Artículo 72.
 
-Para los efectos de los artículos 101, fracción III, y 104 de la Ley y 58 de este Reglamento, la Secretaría publicará en la Gaceta Oficial el listado de fuentes fijas que requieren inscribirse en el registro de fuentes fijas y de descargas de aguas residuales y que deben muestrear y aforar éstas.
+El Gobernador no puede:
 
-Los propietarios o poseedores de fuentes fijas nuevas que no requieran autorización de impacto ambiental y deban inscribirse en el citado registro conforme a dicho listado, deberán solicitar a la Dirección la inscripción respectiva dentro de los treinta días hábiles siguientes al inicio de las actividades de la fuente fija de que se trate.
+I.- Impedir que las elecciones se efectúen en los días fijados por la Ley.
+
+II.- Salir de (sic) territorio del Estado ni separarse del ejercicio de sus funciones, sin la licencia del Congreso, o en los recesos de éste, de la Diputación Permanente, sino por el término de cinco días.
+
+III.- Salir de la Capital del Estado, ni por un solo día, cuando falten ocho o menos para la apertura o clausura de cualquier período de sesiones ordinarias o extraordinarias del Congreso, sin licencia de éste o de la Diputación Permanente.
+
+IV.- Impedir la reunión o suspender las sesiones del Congreso, ni coartar en manera alguna la libertad de sus deliberaciones.
+
+V.- Ingerirse en las causas o negocios judiciales, sean civiles o criminales, ni disponer de las personas de los reos, sino cuando sean puestos a su disposición, únicamente para la ejecución de las sentencias.
 
 ###### Artículo 73.
 
-De acuerdo con la Ley, la Dirección coordinará el registro de fuentes fijas y de descargas de aguas residuales, el cual deberá ser compatible con los registros e inventarios correlativos establecidos por la Federación conforme a la Ley General.
+El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de esta Constitución, ejercerá las facultades, tendrá las atribuciones y quedará sujeto a las restricciones a que se refieren los tres artículos anteriores, en cuanto fueren aplicables e indispensables para la conservación del orden, la continuación de los servicios públicos, hasta donde lo permita la normalidad de la situación, y para restablecer el orden constitucional en el Estado.
 
 ### CAPITULO II.
 
@@ -592,51 +742,31 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-La solicitud de inscripción en el registro de fuentes fijas y de descargas de aguas residuales deberá incluir la información establecida en los artículos 104 de la Ley y 44 de la Ley de Procedimiento Administrativo del Distrito Federal.
+Para el despacho de los negocios encomendados al Ejecutivo, habrá un "Secretario General de Gobierno" y un "Oficial Mayor".
 
 ###### Artículo 75.
 
-Para los efectos del artículo 106 de la Ley, en caso de que las normas oficiales no determinen la periodicidad en la que deba presentarse el inventario de emisiones, éste se deberá presentar en el mes de febrero de cada año.
+Para ser Secretario General y Oficial Mayor, se requiere:
+
+I.- Ser ciudadano morelense por nacimiento y en ejercicio de sus derechos.
+
+II.- Haber cumplido veinticinco años de edad.
 
 ###### Artículo 76.
 
-Si los propietarios o poseedores de fuentes fijas generadoras de agua residual demuestran que ésta no contiene algún contaminante de los previstos en las normas oficiales por las características del proceso productivo o el uso dado al agua, podrán solicitar a la Dirección ser eximidos de analizar dicho contaminante para los efectos del inventario de emisiones.
+Todos los decretos, reglamentos, órdenes y acuerdos del Gobernador, serán firmados por el Secretario General o por el funcionario o empleado que lo substituya legalmente, sin cuyo requisito no serán obedecidos.
 
 ###### Artículo 77.
 
-La solicitud señalada en el artículo anterior deberá cumplir los requisitos fijados en el artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal, así como los siguientes:
-
-I.- Ubicación precisa de la fuente fija y de la instalación hidráulica, acompañando croquis de localización;
-
-II.- Caudales de descarga y su concentración de contaminantes;
-
-III.- Tipo de proceso productivo y el uso que se le da al agua, y
-
-IV.- Último inventario de emisiones contaminantes en la parte relativa a las descargas de aguas residuales conforme a la Ley y el presente Reglamento.
+El Secretario General de Gobierno, o quien haga sus veces, será el órgano preciso e indispensable de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones. El mismo Secretario llevará la voz de éste ante el Congreso, cuando el Gobernador o la Cámara lo juzguen oportuno.
 
 ###### Artículo 78.
 
-La limitación a la circulación de los vehículos establecida en el artículo 116 de la Ley, será aplicable de las cinco a las veintidós horas, con base al último dígito de sus placas, color de engomado y al tipo de calcomanía según sus niveles de emisiones contaminantes, en los términos que determine el Jefe de Gobierno del Distrito Federal mediante el acuerdo publicado con tal fin en la Gaceta Oficial.
+El Secretario General será responsable de las resoluciones del Gobernador, que autorice con su firma, contrarias a la Constitución y Leyes Federales, o a la Constitución y Leyes del Estado, sin perjuicio de la responsabilidad que corresponde al mismo Gobernador.
 
 ###### Artículo 79.
 
-La limitación para la circulación de los automotores en el Distrito Federal, no será aplicable a los vehículos destinados a:
-
-I.- Servicios médicos;
-
-II.- Seguridad Pública;
-
-III.- Bomberos y rescate;
-
-IV.- Servicio público local y federal de transporte de pasajeros;
-
-V.- Servicio local o federal de transporte de carga, cuando los vehículos utilicen las fuentes de energía, sistemas y equipos determinados por la Administración Pública del Distrito Federal y cumplan los límites de emisiones contaminantes establecidos por las normas oficiales respectivas;
-
-VI.- Cualquier servicio, tratándose de vehículos que no emitan contaminantes o que usen para su locomoción energía solar o eléctrica, gas, gasolina, diesel o cualquier otra fuente de energía, siempre que cumplan los límites especiales de emisiones contaminantes fijados en las normas oficiales o las condiciones establecidas en el acuerdo a que se refiere el artículo anterior;
-
-VII.- Servicio particular en los casos en que sea manifiesto o se acredite una emergencia médica, y
-
-VIII.- Transporte de una o más personas con discapacidad permanente, cuando se dificulte su traslado normal en un medio de transporte diverso.
+Mientras el Secretario funcione como tal, no podrá ejercer las funciones de Abogado o Procurador ante los Tribunales del Estado.
 
 ### CAPITULO III.
 
@@ -648,29 +778,27 @@ DEL MINISTERIO PUBLICO.
 
 ###### Artículo 80.
 
-Los interesados en obtener las exenciones señaladas en las fracciones V y VI del artículo anterior deberán acreditar encontrarse en los supuestos señalados en éstas, mediante la presentación del vehículo respectivo ante el verificador ambiental en los términos de la Ley, este Reglamento, el programa de verificación y las demás disposiciones jurídicas aplicables.
+La Hacienda Pública del Estado se formará de las contribuciones decretadas por el Congreso y de los demás bienes que pertenezcan a aquél.
 
 ###### Artículo 81.
 
-La exención a la limitación para circular en el caso de la fracción VIII del artículo 79 de este Reglamento, estará referida a la persona discapacitada de que se trate, por lo que el vehículo respectivo estará sujeto a la limitación correspondiente cuando ésta no vaya a bordo del mismo.
+La recaudación e inversión de los fondos públicos estarán a cargo de un Director General de Rentas, quien deberá reunir los mismos requisitos que para ser Secretario General de Gobierno establece el artículo 75, y de los demás empleados que determine la Ley Orgánica de Hacienda.
 
 ###### Artículo 82.
 
-Para la obtención de la exención señalada en el artículo precedente, el interesado o su representante legal deberá presentar solicitud ante la Dirección, que cumpla los requisitos del artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal, la cual deberá describir la clase y características de la discapacidad que dificulte su traslado en un medio de transporte diverso, acompañando el certificado médico con fotografía expedido por una institución pública de salud, así como dos fotografías del discapacitado.
+El pago de los sueldos señalados en el Presupuesto se hará con estricta equidad a todos los funcionarios y servidores del Estado. Es caso de responsabilidad para el Director General de Rentas cualquier infracción a este precepto.
 
 ###### Artículo 83.
 
-Presentada la solicitud de exención conforme al artículo que antecede, la Dirección dictará la resolución correspondiente dentro de los cinco días hábiles siguientes.
+No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de este artículo constituye responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
 
 ###### Artículo 84.
 
-La autorización que acredite la exención en caso de discapacidad tendrá una vigencia indefinida y deberá contener la fotografía y los datos generales del interesado, incluyendo la descripción de la discapacidad correspondiente.
-
-#### Sección II. De la Verificación de Emisiones Contaminantes
+Las cuentas de recaudación e inversión de toda clase de fondos públicos, serán glosadas definitivamente por la Contaduría Mayor de Hacienda, que dependerá del Congreso, la cual exigirá las responsabilidades a que aquellas dieren lugar.
 
 ###### Artículo 85.
 
-En caso de que un vehículo no haya sido verificado dentro del periodo que le corresponda conforme al programa de verificación, se le aplicará la multa respectiva a su propietario o poseedor y se le otorgará un plazo de treinta días naturales a partir de su imposición para aprobar la verificación, durante el cual el vehículo de que se trate podrá circular únicamente para trasladarse al taller o ante el verificador ambiental, previo pago de la multa impuesta.
+Ningún empleado de Hacienda que deba tener a su cargo algún manejo de fondos del Estado podrá tomar posesión de su encargo, sin que afiance su manejo suficientemente, en los términos que establezcan las leyes.
 
 ### CAPITULO V.
 
@@ -684,139 +812,163 @@ DE LA ORGANIZACION DE LOS MUNICIPIOS.
 
 PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
-## TÍTULO V. VIGILANCIA, SANCIONES Y RECURSO DE INCONFORMIDAD
+## TITULO QUINTO.
+
+DEL PODER JUDICIAL.
 
 ###### Artículo 86.
 
-Si transcurre el plazo otorgado sin aprobar la verificación respectiva de acuerdo con el artículo anterior, se impondrá la multa que corresponda conforme a lo establecido en la Ley y, una vez pagada ésta, se contará con un nuevo plazo de treinta días naturales para aprobar la verificación.
+El ejercicio del Poder Judicial se deposita en el Tribunal superior de Justicia del Estado y en los Tribunales o Juzgados inferiores que establezca la Ley; pero su representación corresponderá siempre al Tribunal Superior.
 
 ###### Artículo 87.
 
-Para la reposición de la calcomanía de aprobación de la verificación en caso de destrucción, extravío o robo, el interesado deberá presentar a la Dirección una solicitud que cumpla con los requisitos fijados en el artículo 44 de la Ley de Procedimiento Administrativo del Distrito Federal, acompañada de los documentos siguientes:
-
-I.- Tarjeta de circulación;
-
-II.- Acta de extravío o robo levantada ante la autoridad competente;
-
-III.- En su caso, los que acrediten el cambio o reposición de placas de circulación del vehículo correspondiente;
-
-IV.- En su caso, copia de los documentos objeto de la solicitud, y
-
-V.- Comprobante de pago de los derechos fijados en el Código Financiero del Distrito Federal.
-
-Recibida la documentación antes señalada, la Dirección expedirá la reposición respectiva dentro de los quince días hábiles siguientes.
+La Ley establecerá y organizará los Tribunales, determinará sus atribuciones y marcará los procedimientos a que deban sujetarse los Magistrados y Jueces en el ejercicio de sus funciones.
 
 ###### Artículo 88.
 
-Cuando se pretenda reponer la constancia de aprobación de la verificación más no la calcomanía respectiva, el interesado hará la solicitud directamente ante el verificador ambiental que la hubiere expedido, para cuyo efecto deberá presentar a éste los documentos señalados en las fracciones I a IV del artículo anterior y cubrir la cantidad fijada por ese concepto en el programa de verificación vigente.
+Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y sus respectivos Secretarios, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de Educación Pública o de Beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo de Magistrado, Juez o Secretario.
 
 ###### Artículo 89.
 
-Recibidos los documentos indicados en el artículo que antecede, el verificador ambiental expedirá la reposición respectiva dentro de los dos días hábiles siguientes.
+El Tribunal superior de Justicia del Estado se compondrá de tres Magistrados Propietarios y tres Suplentes. Cada uno de ellos será electo por el Congreso, a propuesta en terna del Ejecutivo, por mayoría de votos, en escrutinio secreto, y durará cuatro años en el ejercicio de su encargo; pero el que se elija por falta absoluta de algún Magistrado, sólo durará en su encargo hasta terminar el período constitucional del faltante.
 
-#### Sección III. De los Vehículos Contaminantes
+El período constitucional del Tribunal Superior, coincidirá con el que esta Constitución designa al Gobernador.
 
 ###### Artículo 90.
 
-Se consideran vehículos contaminantes los que se encuentren en circulación y se les acredite de conformidad con la Ley y este Reglamento que rebasan los límites de emisiones establecidos en las normas oficiales.
+Para ser Magistrado, propietario o suplente, del Tribunal Superior de Justicia, se requiere:
+
+I.- Ser ciudadano morelense, por nacimiento, en ejercicio de sus derechos.
+
+II.- Ser Abogado con título expedido por Autoridad o corporación legalmente facultada para ello.
+
+III.- Haber cumplido treinta años de edad.
+
+IV.- Tener seis años de ejercicio profesional por lo menos, o tres en la Judicatura.
+
+V.- Gozar de buena reputación y no haber sido condenado por delito que amerita pena corporal de más de un año de prisión, ni en juicio de responsabilidad a la destitución o suspensión de empleo; pero si se tratare de robo, fraude, falsificación, abuso de confianza o cualquier otro que lastime seriamente la reputación en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
 ###### Artículo 91.
 
-Para los efectos de este Reglamento se presume que son vehículos contaminantes, los automotores que emitan por el escape humo negro o azul en forma continua y notoria, aun cuando porten los documentos de aprobación de la verificación vigente.
+Los Magistrados Propietarios integrarán el Tribunal Superior; y los suplentes entrarán a ejercer sus funciones en las faltas temporales o absolutas de aquéllos, en los términos que disponga la Ley. También suplirán a los Magistrados Propietarios en el conocimiento de determinados negocios, por excusa o recusación de los mismos, cuando no puedan ser suplidos por otro Magistrado Propietario.
 
 ###### Artículo 92.
 
-Sólo podrán detener la marcha de los vehículos que se presuman contaminantes los agentes de tránsito que tripulen las patrullas ecológicas de la Secretaría de Seguridad Pública, los cuales podrán ser acompañados por personal de la Dirección.
-
-Dichos servidores públicos, conforme a los lineamientos e instrumentos que fije la Secretaría, determinarán si el vehículo cumple o no con los límites de emisiones contaminantes previstos en las normas oficiales.
-
-Los lineamientos a que se refiere el párrafo anterior deberán ser publicados por la Secretaría en la Gaceta Oficial.
+Los Magistrados suplentes sólo disfrutarán de emolumentos durante el tiempo en que ejerzan sus funciones, y percibirán los que les correspondan con arreglo a las leyes, cuando sólo intervengan en el conocimiento de determinados negocios, en los casos de excusa y recusación de los propietarios.
 
 ###### Artículo 93.
 
-En caso de que se acredite el incumplimiento de los límites de emisiones contaminantes fijados por las normas oficiales, los servidores públicos a que se refiere el artículo precedente deberán proceder de la manera siguiente:
+El Tribunal Superior de Justicia funcionará en pleno.
 
-I.- Retirarán la calcomanía y retendrán la constancia de aprobación de la verificación, y
-
-II.- Entregarán al conductor la constancia de incumplimiento respectiva, en la cual se hará constar, además, el retiro y la retención de los documentos a que se refiere la fracción anterior.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 94.
 
-El conductor del vehículo podrá solicitar que éste sea sometido a su costa, a una nueva verificación ante el verificador ambiental de su elección, en cuyo caso los servidores públicos a que se refiere el artículo 92 lo remitirán inmediatamente a éste para que se realice la verificación correspondiente, la cual prevalecerá sobre la practicada por ellos.
-
-De aprobarse la nueva verificación, la constancia y calcomanía respectivas ampararán el semestre en que aquélla se hubiere efectuado.
+El Tribunal Superior designará a uno de sus miembros como Presidente, en los términos de la Ley Orgánica respectiva no pudiendo éste ser electo Presidente para el período inmediato.
 
 ###### Artículo 95.
 
-Los documentos retenidos conforme al artículo 93 de este Reglamento deberán ser remitidos a la Dirección al día hábil siguiente a su retención.
+El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia; y en los recesos de éste, ante la Diputación Permanente, quien hará la calificación.
 
 ###### Artículo 96.
 
-Los propietarios o poseedores de los vehículos a los que se les haya acreditado el incumplimiento de las normas oficiales conforme a los artículos precedentes tendrán un plazo de treinta días naturales para realizar las reparaciones necesarias y aprobar la verificación.
-
-En este caso, el vehículo sólo podrá circular para trasladarse al taller o ante el verificador ambiental respectivo.
+Las licencias de los Magistrados que no excedan de treinta días, serán concedidas por el Tribunal Superior, el que llamará al suplente que corresponda, para cubrir la vacante. Las que excedan de este término, serán concedidas por el Congreso y en sus recesos por la Diputación Permanente.
 
 ###### Artículo 97.
 
-Para los efectos del artículo que antecede, el vehículo deberá ser sometido a la verificación ante un verificador ambiental, acompañando:
-
-I.- La constancia de incumplimiento referida en el artículo 93;
-
-II.- Los documentos citados en el artículo 120 de la Ley, salvo la constancia de aprobación de la verificación del periodo inmediato anterior que le hubiere sido retenida, y
-
-III.- En su caso, el comprobante de pago de la multa aplicable si en los treinta días siguientes a la fecha de la constancia de incumplimiento no se aprobó la verificación respectiva de acuerdo a lo señalado en el artículo precedente.
+Las faltas absolutas de los Magistrados serán cubiertas por el Suplente respectivo, en el orden de su elección, hasta la terminación del período constitucional; procediendo el Congreso a la elección de nuevo Magistrado suplente, si la falta ocurriere durante los tres primeros años de su ejercicio.
 
 ###### Artículo 98.
 
-Una vez verificado el vehículo, el verificador ambiental entregará al conductor la constancia respectiva y adherirá inmediatamente al medallón, de ser aprobatoria, la calcomanía correspondiente.
+Los Magistrados y Jueces no podrán ser removidos de sus respectivos encargos sino cuando observen mala conducta y previo juicio de responsabilidad; a menos que los Jueces sean promovidos a grado superior y sin perjuicio de la facultad que concede al Tribunal Superior la fracción XIII del artículos (sic) siguiente.
 
 ###### Artículo 99.
 
-Cuando no se acredite el cumplimiento de las normas oficiales dentro del plazo citado en el artículo 96 de este Reglamento o si durante el mismo el vehículo respectivo circula hacia un lugar distinto al taller o verificador ambiental correspondiente, se aplicará la multa establecida en la fracción VI del artículo 162 de la Ley.
+Corresponde al Tribunal Superior:
 
-En el primer supuesto, el propietario o poseedor del vehículo de que se trate contará con un nuevo plazo de treinta días a partir de su imposición para acreditar dicho cumplimiento, de lo contrario, se aplicará la sanción respectiva conforme a lo dispuesto en la Ley.
+I.- Iniciar ante el Congreso del Estado las Leyes y Decretos que tiendan a mejorar la organización de los Tribunales del mismo, la legislación civil y penal y los procedimientos judiciales.
+
+II.- Conocer de los juicios que hayan de formarse a los funcionarios del Estado, a quienes el Congreso haya declarado con lugar a formación de causa por delitos de orden común.
+
+III.- Conocer como jurado de sentencia en las causas instruidas contra los mismos funcionarios por delitos oficiales, integrado también con los Magistrados Suplentes.
+
+IV.- Conocer de las causas por delitos comunes u oficiales de los Presidentes Municipales y Jueces de Primera Instancia, y de quienes hagan sus veces.
+
+V.- Decidir las competencias que se susciten entre los Jueces de Primera Instancia y entre éstos y los de inferior categoría.
+
+VI.- Decidir las controversias que ocurran sobre pactos o negociaciones que celebre el Ejecutivo por sí o por medio de sus agentes, con individuos o corporaciones civiles del Estado, y de los demás negocios de Hacienda, siempre que el Gobierno fuere demandado. Si fuere actor, seguirá el fuero del reo.
+
+VII.- Conocer de la segunda instancia en los negocios que la tengan para ante él conforme a las Leyes.
+
+VIII.- Consultar al Congreso las dudas de Ley que ocurran al mismo Tribunal Superior y a los Jueces inferiores, si estimare que éstas son fundadas.
+
+IX.- Nombrar a los Jueces de Primera Instancia a propuesta en terna del Ejecutivo.
+
+X.- Nombrar y remover libremente a los Secretarios y empleados del Tribunal de acuerdo con la Ley Orgánica respectiva.
+
+XI.- Conceder licencias a los Magistrados del Tribunal Superior que no excedan de treinta días, llamando al suplente respectivo.
+
+XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y Ejecutivo, por Leyes o actos de aquél que este último considere contrarias a la Constitución del Estado.
+
+XIII.- Suspender hasta por tres meses a los Jueces de Primera Instancia y a los de inferior categoría, por causas graves justificadas a juicio del Tribunal y que no constituyan motivo de responsabilidad penal.
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1936)</small>
+
+XIV.- Nombrar a los Jueces Menores y de Paz, a propuesta de terna de los Ayuntamientos.
+
+XV.- Ejercer las demás atribuciones que les señalen las Leyes.
 
 ###### Artículo 100.
 
-La Dirección, la Comisión de Recursos Naturales y las Delegaciones, en el ámbito de sus respectivas competencias y de acuerdo con la Ley de Procedimiento Administrativo del Distrito Federal y sus Reglamentos, efectuarán las visitas de verificación administrativa necesarias para asegurar el cumplimiento del presente Reglamento.
+Para dirimir las controversias a que se refiere la fracción XII del artículo anterior, se observarán las reglas siguientes:
+
+I.- El Ejecutivo deberá ocurrir al Tribunal Superior dentro del término de cinco días, contando desde el momento en que haya llegado a su conocimiento la Ley o acto de que se trate. Pasado este término, la reclamación no será admitida.
+
+II.- Al intentar el Ejecutivo la controversia, deberá señalar el precepto Constitucional que creyere violado por la Ley o acto que reclame, sin cuyo requisito no será oído por el Tribunal.
+
+III.- Antes de resolver sobre la controversia, en cuanto al fondo, el Tribunal calificará dentro del término de dos días, oyendo previamente al Congreso, si la Ley o acto de que se trate es controvertible.
+
+IV.- El Tribunal resolverá las controversias que se le sometan como puntos de mero hecho; se limitará a decidir si el precepto que contiene la resolución de que se trate pugna o no con el artículo constitucional que reclame el Ejecutivo, desentendiéndose de la conveniencia o inconveniencia política o administrativa de la Ley o acto reclamado y de los trámites que haya observado el Congreso al ser presentados y discutidos.
+
+V.- El Tribunal deberá resolver, a mas tardar dentro del termino, de cinco días, contados desde la fecha en que se le hubiere promovido la controversia, atendiendo únicamente al texto expreso de la Constitución, sin interpretar en ningún caso ni usar del arbitrio judicial. La consecuencia única de la declaración del Tribunal, será la subsistencia o nulidad de la Ley o acto reclamado, cuyos efectos estarán suspensos entre tanto. El Procurador General de Justicia tendrá voz en las discusiones.
+
+VI.- Si transcurriere el término a que se refiere la fracción anterior, sin que el Tribunal haga la declaración que corresponda, subsistirán definitivamente la Ley o acto reclamado, sin perjuicio de exigir la responsabilidad en que hubieren incurrido los Magistrados por la omisión del fallo.
+
+VII.- No podrán ser objeto de estas controversias los actos de Congreso como Jurado o como Colegio Electoral, ni las reformas que se hagan a esta Constitución.
 
 ###### Artículo 101.
 
-Con base en los resultados de la visita de verificación referida en el artículo precedente, las autoridades competentes aplicarán las medidas de seguridad, preventivas o correctivas que procedan en los términos de la Ley y el Reglamento de Verificación Administrativa para el Distrito Federal.
+La Ley determinará los demás procedimientos que deban seguirse para el uso del recurso a que se refiere el artículo 99 fracción XII, sobre las bases contenidas en el anterior.
 
 ###### Artículo 102.
 
-Toda persona podrá denunciar ante la Secretaría cualquier hecho, acto u omisión que contravenga lo establecido en la Ley, en este Reglamento y en las demás disposiciones jurídicas aplicables.
+Habrá el número de Jueces de Primera Instancia que ejercerán sus funciones en los ramos civil y penal en los Distritos Judiciales que determine la Ley.
 
 ###### Artículo 103.
 
-Las denuncias populares presentadas ante la Secretaría serán tramitadas por la Dirección cuando el hecho, acto u omisión respectivo se haya realizado en el suelo urbano, o por la Comisión de Recursos Naturales, si se llevó a cabo en el suelo de conservación.
+Los Jueces de Primera Instancia, serán nombrados por el Tribunal Superior, a propuesta en terna del Ejecutivo, tendrán los requisitos que determine la Ley y durarán cuatro años en el ejercicio de sus funciones.
 
 ###### Artículo 104.
 
-Cuando se reciban dos o más denuncias populares referentes a los mismos hechos, actos u omisiones, se acumularán todas al expediente más antiguo.
+Habrá también el número de Jueces de categoría inferior que establezca la Ley Orgánica de los Tribunales de Justicia del Estado.
 
 ###### Artículo 105.
 
-Las violaciones a los preceptos del presente ordenamiento o las disposiciones que emanen de éste serán sancionadas por la Dirección, la Comisión de Recursos Naturales o las Delegaciones, en el ámbito de sus competencias, en los términos de la Ley.
+La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
 ###### Artículo 106.
 
-En contra de los actos o resoluciones ordenados, dictados o ejecutados por la Administración Pública para la aplicación de este Reglamento y las disposiciones que de él se deriven, procederá el recurso de inconformidad en los términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+El Ministerio Público es una institución que tiene por objeto auxiliar la administración de justicia en el Estado y ejercer las funciones fundamentales siguientes:
 
-## TRANSITORIOS
+I.- Procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley.
 
-PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+II.- Perseguir ante los Tribunales los delitos; en consecuencia, a él corresponderá recibir las denuncias, acusaciones, o querellas, tanto de las Autoridades como de los particulares; practicar desde luego las diligencias previas de carácter urgente y que no fueren de la exclusiva competencia de las Autoridades Judiciales, para promover, en su caso, lo que fuere procedente, ante las mismas Autoridades; buscar y presentar las pruebas que acrediten el cuerpo de delito y la responsabilidad de los culpables; solicitar las órdenes de aprehensión; hacer que los juicios se sigan con toda regularidad y determinar sobre la procedencia o improcedencia del ejercicio de la acción penal, pidiendo las penas que fueren procedentes o la absolución del inculpado, en sus respectivos casos.
 
-SEGUNDO.- El artículo 54 del presente Reglamento entrará en vigor a los quince días naturales siguientes a la publicación de los programas a que se refiere dicho artículo.
+III.- Intervenir en los asuntos judiciales que interesen a las personas a quienes la Ley conceda especial protección, en la forma y términos que la misma determine.
 
-TERCERO.- El listado y los lineamientos a que se refieren los artículos 72 y 92 de este Reglamento serán expedidos dentro de los noventa días naturales siguientes a la publicación del presente Reglamento.
+IV.- Defender ante los Tribunales los intereses del Estado.
 
-CUARTO.- Se abrogan las disposiciones que se opongan al presente Reglamento.
-
-QUINTO.- Las menciones hechas en el presente ordenamiento al Jefe de Gobierno del Distrito Federal se entenderán referidas al Jefe del Departamento del Distrito Federal hasta en tanto entre en funciones aquél.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de noviembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
+V.- Ejercer las demás atribuciones que le encomienden las Leyes.
 
 ###### Artículo 107.
 
@@ -897,6 +1049,10 @@ I.- Ser ciudadano morelense por nacimiento, en pleno goce de sus derechos.
 II.- Tener dos años de residencia en el Municipio o en la población en que deban ejercer su encargo, respectivamente.
 
 III.- Saber leer y escribir.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
+
+IV.- Los Presidentes Municipales regidores y síndicos del Ayuntamiento, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 ###### Artículo 117.
 
@@ -1127,5 +1283,13 @@ LUIS G. CAMPO.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS A LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.</small>
 
 P.O. 16 DE OCTUBRE DE 1932.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 12 DE NOVIEMBRE DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 13 DE DICIEMBRE DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
