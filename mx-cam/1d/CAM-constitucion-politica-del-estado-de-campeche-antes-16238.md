@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1955-09-17"
+last_updated: "1956-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:17 DE SEPTIEMBRE DE 1955.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 1956.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -117,11 +117,11 @@ De su elección e instalación.
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1943)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1956)</small>
 
 ###### Art. 19.
 
-Se elegirá un Diputado Propietario y un Suplente por cada 20,000 habitantes o por cada fracción que pase de 10,000. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra, elegirán sin embargo un Diputado Propietario y un Suplente, pero siempre que cuenten cuando menos con 4,500 habitantes, pues, en caso contrario, quedarán unidos para los efectos de la elección, al Municipio inmediatamente colindante que tenga menos número de habitantes.
+Se eligirá (sic) un Diputado propietario por cada 20,000 habitantes. Los Municipios libres que en toda su circunscripción no alcancen esta última cifra, eligirán (sic) sin embargo un Diputado propietario y un Suplente, pero siempre que, cuenten cuando menos con 6,000 habitantes, pues en caso contrario quedarán unidos para los efectos de la elección al Municipio inmediatamente colindante que tenga menos número de habitantes.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
@@ -657,7 +657,7 @@ Los Municipios Libres que integran el Estado, se regirán por la Ley Orgánica d
 
 (REFORMADA, P.O. 29 DE MAYO DE 1954) (REPUBLICADA, P.O. 3 DE JUNIO DE 1954)
 
-I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre ésta y el Gobierno del Estado;
+I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado;
 
 II. Cuando su extensión o densidad de población lo exija, los Municipios podrán subdividirse en Secciones Municipales y Comisarías. La Ley Orgánica establecerá las relaciones y dependencias que deberán existir entre unas y otras;
 
@@ -997,7 +997,7 @@ Unico. Las presentes reformas regirán en todo el territorio del Estado a partir
 
 P.O. 26 DE NOVIEMBRE DE 1929.
 
-Unico. La presente reforma regirá en todo el territorio del Estado a partir del próximo período de receso que conforme a la ley deberá tener el H. XXXII Congreso del Estado.
+Unico. La presente reforma regirá en todo el territorio del Estado a partir del próximo periodo de receso que conforme a la ley deberá tener el H. XXXII Congreso del Estado.
 
 P.O. 29 DE NOVIEMBRE DE 1930.
 
@@ -1066,3 +1066,7 @@ REPUBLICADO, P.O. 3 DE JUNIO DE 1954.
 P.O. 17 DE SEPTIEMBRE DE 1955.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
+
+P.O. 27 DE MARZO DE 1956.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en "El Espíritu Público", órgano oficial del Gobierno del Estado.
