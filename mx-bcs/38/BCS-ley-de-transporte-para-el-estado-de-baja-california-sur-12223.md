@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "1998-07-31"
+last_updated: "1998-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -409,7 +409,9 @@ III. Con posterioridad a la "Declaratoria de Necesidad Pública de Transporte", 
 
 IV. Recibidas las solicitudes, la Dirección de Transporte informará sobre la relación de los solicitantes al Consejo Municipal de Transporte y procederá a realizar su estudio, tomando en cuenta lo dispuesto por los Artículos 19, 20, 21 y 23 de esta Ley, y en un plazo que no excederá de 30 días hábiles presentará al Gobernador del Estado su dictamen sobre las mismas; y
 
-V. Cumplido lo anterior, el Gobernador del Estado emitirá la resolución sobre el otorgamiento de la concesión en un plazo que no excederá de 30 días hábiles.
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 1998)</small>
+
+V. Cumplido lo anterior, el Gobernador del Estado emitirá la resolución sobre el otorgamiento de concesión en un plazo que no excederá de 10 días hábiles.
 
 ###### Artículo 23.
 
@@ -509,9 +511,11 @@ Los titulares de los permisos eventuales a que se hace referencia en el Artícul
 
 Los concesionarios del servicio público de transporte, están obligados a evitar que el manejo y control de sus vehículos quede encomendado a conductores que no posean licencia de chofer y que cuenten con antecedentes penales por delitos cometidos con motivo de la conducción de vehículos o aquellos calificados como graves por la legislación penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE NOVIEMBRE DE 1998)</small>
+
 ###### Artículo 35.
 
-Los titulares de las concesiones para explotar el servicio público de transporte, están obligados, además a:
+Los Titulares de las Concesiones para explotar el Servicio Público de Transporte, están obligados, además a:
 
 I. Prestar el servicio sujetándose estrictamente a los términos de su concesión;
 
@@ -525,7 +529,9 @@ V. Otorgar a los estudiantes que se identifiquen con tarjeta credencial expedida
 
 VI. Que las unidades destinadas a la prestación del servicio público de transporte, satisfagan los requisitos y demás condiciones señaladas en la presente Ley y su Reglamento;
 
-VII. Contar con póliza de seguro del viajero y daños a terceros;
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 1998)</small>
+
+VII. Contar con Póliza de Seguro del viajero;
 
 VIII. Prestar gratuitamente servicios de emergencia, cuando así se requiera, en los casos de catástrofes y calamidades que afecten poblaciones situadas dentro de las localidades o regiones donde los concesionarios presten sus servicios;
 
@@ -1020,3 +1026,13 @@ B.O. 31 DE JULIO DE 1998.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Las presentes reformas y adiciones deberán reflejarse en modificaciones al reglamento de la Ley de Transporte para el Estado de Baja California Sur, a efecto de ser consecuente con los cambios aprobados por esta soberanía popular.
+
+B.O. 10 DE NOVIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma. Entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma deberá reflejarse en modificaciones al Reglamento de la Ley de Transporte para el Estado de Baja California Sur, a efecto de ser consecuente con el cambio aprobado por esta Soberanía Popular.
