@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-notariado-del-estado-de-baja-california-sur-3322"
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-31"
-last_updated: "2002-02-06"
+last_updated: "2003-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL NOTARIADO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 2003.
 
 Ley publicada en Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1977.
 
@@ -125,6 +125,12 @@ VI. Solicitar ante el Ejecutivo del Estado, por conducto de la Secretaría Gener
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
+ARTICULO 11 B. El que pretenda ingresar al ejercicio del Notariado en calidad de aspirante, deberá presentar solicitud al Gobernador del Estado acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes. Hecho por el Gobernador del Estado el estudio de la documentación del solicitante y aprobada que fuere, se inscribirá al solicitante en el Registro único de Aspirantes al Notariado. Para tal efecto el Gobernador del Estado llevará un Libro Oficial de Registros de Aspirantes del ejercicio del Notariado, en donde hará los registros correspondiente (sic) en orden de aparición y expedirá la constancia de registro correspondiente en un término no mayor de diez días después de presentada la solicitud.
+
+Dicha constancia acreditará a su poseedor como aspirante al Ejercicio del Notariado, debiendo publicarse en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+
 ARTICULO 11 A. Los requisitos al que se refiere el artículo anterior se acreditarán en los siguientes términos.
 
 I. Con copia certificada del Acta de Nacimiento.
@@ -145,12 +151,6 @@ En este caso, no podrá presentarse nueva solicitud hasta que transcurra un año
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-ARTICULO 11 B. El que pretenda ingresar al ejercicio del Notariado en calidad de aspirante, deberá presentar solicitud al Gobernador del Estado acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los artículos precedentes. Hecho por el Gobernador del Estado el estudio de la documentación del solicitante y aprobada que fuere, se inscribirá al solicitante en el Registro único de Aspirantes al Notariado. Para tal efecto el Gobernador del Estado llevará un Libro Oficial de Registros de Aspirantes del ejercicio del Notariado, en donde hará los registros correspondiente (sic) en orden de aparición y expedirá la constancia de registro correspondiente en un término no mayor de diez días después de presentada la solicitud.
-
-Dicha constancia acreditará a su poseedor como aspirante al Ejercicio del Notariado, debiendo publicarse en el Boletín Oficial del Gobierno del Estado.
-
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
-
 ARTICULO 11 D. Si después de extendida la Constancia de Aspirante resulta que por causa superveniente el favorecido con ella estuviera sujeto a impedimento o incapacidad para el desempeño de las funciones de Notario, quedará privado del derecho que le dio la constancia para ocupar la vacante del Notario que llegue a presentarse y el Gobernador cancelará la citada Constancia y ordenará se haga lo mismo con las inscripciones de ella. La Constancia de Aspirante es revocable por las mismas causas que lo es el nombramiento del Notario y en todos los casos se seguirá el mismo procedimiento para su cancelación
 
 No podrán considerarse como Aspirantes al Notariado, los jueces que por ministerio de Ley hayan sido autorizados para ejercer como Notario en los términos del artículo veinticuatro de esta Ley.
@@ -161,33 +161,39 @@ No podrán considerarse como Aspirantes al Notariado, los jueces que por ministe
 
 De los Notarios.
 
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 12.
 
 Para obtener Patente de Notario se requiere:
 
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+
 I. Tener Constancia de Aspirante al Ejercicio del Notariado debidamente expedida;
+
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
 II. Acreditar no tener impedimento alguno de los señalados en esta Ley.;
 
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+
 III. Existir vacante alguna Notaría de las ya establecidas o de las que se crearen en el futuro.
+
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
 IV. Haber aprobado con la calificación mínima de ocho el curso teórico-práctico que para tal efecto imparta la Universidad Autónoma de Baja California Sur, y el examen que practicará el Ejecutivo del Estado en términos del reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2003)</small>
+
+A juicio del Ejecutivo del Estado podrá sustituirse el curso teórico-práctico señalado en el párrafo anterior por prácticas notariales realizadas durante un lapso de tres meses ininterrumpidos en la notaria pública y en el horario que para tal efecto señale el propio Ejecutivo del Estado. Del inicio y terminación de las prácticas notariales, el notario bajo cuya dirección se hubieren realizado, dará aviso al Gobernador del Estado, lo que hará las veces de constancia para justificar este requisito.
+
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+
 V. Tener una residencia efectiva en el Estado de Baja California Sur por un término no menor de cinco años.
-
-El requisito señalado en la fracción I del artículo anterior se justificará con la original de la constancia respectiva, debidamente expedida. El requisito señalado en la fracción II con los certificados médicos correspondientes. El requisito señalado en la fracción IV con copia certificada de la constancia expedida por la Universidad Autónoma de Baja California Sur, de haber aprobado el curso de 170 horas divididas en un lapso de tres meses, que para tal efecto se realizare. El requisito exigido por la fracción V con la copia de su inscripción en el Registro Federal de Contribuyentes, Carta de Residencia expedida por el Ayuntamiento respectivo o documento idóneo.
-
-ARTICULO 12 C. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
-ARTICULO 12 B. Llenados los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado expedirá la patente de Notario correspondiente al aspirante, siguiendo estrictamente el orden del registro para aspirantes llevado ante la Secretaría General de Gobierno, en un término no mayor de quince días.
-
-El interesado deberá registrarla en el Gobierno del Estado, en el Archivo General de Notarías, en el Registro Público de la Propiedad y de Comercio de la Capital del Estado. El interesado deberá firmar en la parte correspondiente a los registros de su patente, en los libros destinados para ello, así como en su propia patente y adherirá su fotografía en unos y otras.
-
-Dicha patente de Notario se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado, sin costo alguno para el interesado y en uno de los periódicos locales del lugar en que se encuentre ubicada la Notaría que va a ocupar, esto último sí a su costo.
+El requisito señalado en la fracción I del artículo anterior se justificará con la original de la constancia respectiva, debidamente expedida. El requisito señalado en la fracción II con los certificados médicos correspondientes. El requisito señalado en la fracción IV con copia certificada de la constancia expedida por la Universidad Autónoma de Baja California Sur, de haber aprobado el curso de 170 horas divididas en un lapso de tres meses, que para tal efecto se realizare. El requisito exigido por la fracción V con la copia de su inscripción en el Registro Federal de Contribuyentes, Carta de Residencia expedida por el Ayuntamiento respectivo o documento idóneo.
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
@@ -199,7 +205,17 @@ Queda prohibido a los Notarios titulares de una Notaría ubicada en demarcación
 
 El Gobierno del Estado señalará el día y la hora para la celebración del curso, dando a conocer a los candidatos, cuando menos con anticipación de ocho días, por medio de comunicación certificada con acuse de recibo dirigida al domicilio indicado en la petición, la fecha y la hora correspondiente de inicio del curso.
 
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+
+ARTICULO 12 B. Llenados los requisitos a que se refieren los artículos anteriores, el Gobernador del Estado expedirá la patente de Notario correspondiente al aspirante, siguiendo estrictamente el orden del registro para aspirantes llevado ante la Secretaría General de Gobierno, en un término no mayor de quince días.
+
+El interesado deberá registrarla en el Gobierno del Estado, en el Archivo General de Notarías, en el Registro Público de la Propiedad y de Comercio de la Capital del Estado. El interesado deberá firmar en la parte correspondiente a los registros de su patente, en los libros destinados para ello, así como en su propia patente y adherirá su fotografía en unos y otras.
+
+Dicha patente de Notario se publicará por una sola vez en el Boletín Oficial del Gobierno del Estado, sin costo alguno para el interesado y en uno de los periódicos locales del lugar en que se encuentre ubicada la Notaría que va a ocupar, esto último sí a su costo.
+
 ARTICULO 12 D. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
+
+ARTICULO 12 C. (DEROGADO, B.O. 6 DE FEBRERO DE 2002)
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1985)</small>
 
@@ -1280,3 +1296,9 @@ TERCERO.- Cuando se expida una patente para una población, en donde el profesio
 CUARTO.- Quedan derogadas las disposiciones que se opongan al presente decreto.
 
 QUINTO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días, expedirá el Reglamento a que se refiere el artículo 12 fracción IV de este Decreto.
+
+B.O. 10 DE MAYO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
