@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-petroleos-mexicanos-y-organismos-100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-16"
-last_updated: "1992-07-16"
+last_updated: "1993-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-07-15"
 
 LEY ORGANICA DE PETROLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 16 de julio de 1992.
 
@@ -157,9 +157,13 @@ IV. Resolver conflictos que se susciten entre los organismos sobre sus ámbitos 
 
 V. Las demás que le confieran las leyes y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 14.
 
-En todos los actos, convenios y contratos en que intervengan los organismos descentralizados a que esta Ley se refiere, serán aplicables las leyes federales; las controversias nacionales en que sean parte, cualquiera que sea su naturaleza serán de la competencia exclusiva de los Tribunales de la Federación, quedando exceptuados de otorgar las garantías que los ordenamientos legales exijan a las partes, aún en los casos de controversias judiciales.
+Los actos jurídicos que celebren Petróleos Mexicanos o cualquiera de sus Organismos Subsidiarios se regirán por las Leyes Federales aplicables y las controversias nacionales en que sea parte, cualquiera que sea su naturaleza, serán de la competencia de los tribunales de la Federación, salvo acuerdo arbitral, quedando exceptuados de otorgar las garantías que los ordenamientos legales exijan a las partes, aun en los casos de controversias judiciales.
+
+Tratándose de actos jurídicos de carácter internacional, Petróleos Mexicanos o sus Organismos Subsidiarios podrán convenir la aplicación de derecho extranjero, la jurisdicción de tribunales extranjeros en asuntos mercantiles y celebrar acuerdos arbitrales cuando así convenga al mejor cumplimiento de su objeto.
 
 ###### Artículo 15.
 
@@ -194,3 +198,11 @@ Décimo Primero: Las menciones que leyes o reglamentos vigentes hacen de Petról
 México, D.F., 13 de julio de 1992.- Dip. Gustavo Carvajal Moreno, Presidente.- Sen. Manuel Aguilera Goméz, Presidente.- Dip. Julieta Mendívil Blanco, Secretario.- Sen. Oscar Ramírez Mijares, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de julio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 22 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
