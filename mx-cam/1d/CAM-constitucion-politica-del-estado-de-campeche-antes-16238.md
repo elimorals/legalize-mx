@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1961-10-05"
+last_updated: "1961-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
-CONSTITUCIÓN POLÍTICO-SOCIAL DEL ESTADO DE CAMPECHE
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 1961.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1961.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -33,17 +33,17 @@ Que el H. Congreso del Estado ha decretado lo siguiente:
 
 El XXVI Congreso Constitucional del Estado de Campeche, con su carácter de Constituyente, ha tenido a bien expedir la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 1961)</small>
 
-CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE
+CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
 ### CAPITULO I. De las garantías individuales y sociales
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1961)</small>
 
-### CAPITULO II. De los Campechanos
+### CAPITULO II. De los campechanos
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -1019,7 +1019,7 @@ Esta Constitución puede ser adicionada o reformada; pero para que las adiciones
 
 El Congreso del Estado hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
 ### CAPITULO XVI. De la inviolabilidad de la Constitución
 
@@ -1111,25 +1111,13 @@ La vecindad se pierde por trasladarse a otros puntos fuera del Estado, por más 
 
 ###### Art. 1.
 
-En el Estado de Campeche gozarán de las garantías individuales y sociales consignadas en las Constituciones de la República y del Estado, tanto las personas físicas como las morales, asociaciones, sindicatos, comisariados ejidales o cooperativas, que en él existan.
+En el Estado de Campeche todo individuo gozará de las garantías que otorga la Constitución General de la República y la Constitución Política del Estado, las que no podrán restringirse ni suspenderse sino en los casos y con las condiciones que ella misma establece.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1961)</small>
 
 ###### Art. 2.
 
-El Estado reconoce además las garantías sociales siguientes:
-
-A).- Los campesinos y agricultores tienen derecho a los terrenos que sean necesarios para intensificar sus cultivos y a los elementos de mecanización agrícola complementarios.
-
-B).- Las personas económicamente débiles tienen derecho a protección asistencial, hospitalización y alimentos, así como los incapacitados y ancianos que carezcan de parientes que deban proveerla.
-
-C).- La familia gozará de protección para su integridad, especialmente cuando sea abandonada por el padre o la madre. Los niños serán vigilados y tutelados para su mejor desarrollo.
-
-D).- La juventud disfrutará de estímulos deportivos y de distracciones lícitas, para su elevación física, moral e intelectual.
-
-E).- Los estudiantes indigentes que se hayan distinguido por su aprovechamiento, obtendrán becas para continuar sus estudios y para perfeccionarse en algún arte o ciencia.
-
-F).- Todas las personas tienen derecho a una existencia digna, a la cultura y al trabajo. El Gobierno promoverá el mejoramiento moral, intelectual y socio-económico del pueblo, debiendo proporcionar empleo a los desocupados en las obras públicas.
+El Estado reconoce las garantías sociales consignadas en la Constitución Federal.
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -1302,3 +1290,7 @@ El próximo día 7 de agosto serán nombrados los magistrados del Tribunal Super
 P.O. 5 DE OCTUBRE DE 1961.
 
 ART. UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1961.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
