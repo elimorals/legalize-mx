@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-43-2004-del-pleno-del-consejo-de-la-59509"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-07-16"
-last_updated: "2004-07-16"
+last_updated: "2004-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59509&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-07-07"
 
 ACUERDO GENERAL 43/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL, DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DE LOS JUZGADOS DECIMOPRIMERO DE DISTRITO "A" Y DECIMOPRIMERO DE DISTRITO "B", AMBOS EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN POZA RICA; ESTABLECE LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA MENCIONADOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ACUERDO GENERAL 48/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE AGOSTO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2004.
 
@@ -94,3 +96,13 @@ PRIMERO.- Este acuerdo entrará en vigor el dieciséis de agosto de dos mil cuat
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 43/2004, del Pleno del Consejo de la Judicatura Federal, que Determina la Creación Temporal, Denominación, Competencia, Jurisdicción Territorial y Fecha de Inicio de Funcionamiento de los Juzgados Decimoprimero de Distrito "A" y Decimoprimero de Distrito "B", Ambos en el Estado de Veracruz, con Residencia en Poza Rica; Establece las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos Entre los Juzgados de Distrito en el Estado y Residencia mencionados, fue aprobado por el Pleno del propio Consejo, en sesión de siete de julio de dos mil cuatro, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio A. Valls Hernández.- México, Distrito Federal, a siete de julio de dos mil cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 13 DE AGOSTO DE 2004.
+
+PRIMERO.- Se abroga el Acuerdo General 43/2004 del Pleno del Consejo de la Judicatura Federal.
+
+SEGUNDO.- Este acuerdo entrará en vigor el dieciséis de agosto de dos mil cuatro.
+
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
