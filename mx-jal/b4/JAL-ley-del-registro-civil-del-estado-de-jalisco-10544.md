@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2000-10-05"
+last_updated: "2001-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -769,9 +769,11 @@ Extendida el acta de divorcio se anotarán las actas de NACIMIENTO Y matrimonio 
 
 ### CAPITULO XIII. De las actas de defunción
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Artículo 101.
 
-Ninguna inhumación o cremación se hará sin autorización escrita del oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento con el certificado de defunción expedido por médico o persona legalmente autorizada. La inhumación o cremación se efectuará en un lapso de 12 a 48 horas después del fallecimiento, salvo lo que se ordene por la autoridad que corresponda.
+Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento con el certificado de defunción expedido por médico o persona legalmente autorizada. La inhumación o cremación se efectuará en un lapso de 12 a 48 horas después del fallecimiento, salvo lo que se ordene por la autoridad que corresponda o en los casos en que la persona (sic) falleció sea donador de órganos, el lapso podrá extenderse hasta las 72 horas.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1174,3 +1176,7 @@ P.O. 8 DE JULIO DE 1999.
 P.O. 5 DE OCTUBRE DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
