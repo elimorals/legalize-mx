@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-defensoria-publica-del-estado-3817"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1944-06-01"
-last_updated: "1944-06-01"
+last_updated: "1986-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
 
 Ley Publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 1 de junio de 1944.
 
@@ -53,9 +53,11 @@ El nombramiento y remoción del Jefe del Cuerpo de Defensores de Oficio, será h
 
 El nombramiento de los Defensores de Oficio será hecho por el Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Art. 5o.
 
-La Defensoría Pública en el Estado de Campeche se compondrá de un jefe del Cuerpo de Defensores, y de un Defensor de Oficio pondrá de un Jefe del Cuerpo de Defensores y de un Defensor de Oficio adscrito a cada Juzgado del Ramo Penal en el Estado. Cuando las labores de un Juzgado no ameriten el nombramiento de un Defensor de Oficio adscrito a él, la Defensa de Oficio se llenará en la forma siguiente:
+La Defensoría Pública en el Estado de Campeche se compondrá de un jefe del cuerpo de defensores, y de uno o varios defensores de oficio adscritos a cada una de las agencias del Ministerio Público investigadoras en el Estado, de uno o varios defensores de oficio adscritos a cada Juzgado de Primera Instancia del Ramo Penal y menores en esta propia Entidad.
 
 I.- Cuando hubiere en la misma población otro Juzgado con Defensor de Oficio adscrito, se encomendará la defensa a dicho Defensor; y
 
@@ -63,9 +65,11 @@ II.- Cuando no hubiere otro Juzgado con Defensor de Oficio adscrito, se encomend
 
 Los Defensores designados en los casos de la fracción II que antecede, tendrán derecho a ser retribuidos de acuerdo con el arancel para Asuntos Judiciales y Administrativos del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Art. 6o.
 
-El Jefe del Cuerpo de Defensores y sus Auxiliares inmediatos, residirán en la Capital del Estado. Los demás defensores de oficio residirán en los lugares donde funcionen los Juzgados a los cuales estén adscritos.
+El Jefe del Cuerpo de Defensores y sus Auxiliares inmediatos, residirán en la Capital del Estado. Los demás defensores de oficio residirán en los lugares donde funcionen las agencias del Ministerio Público investigadoras y los juzgados a los cuales estén adscritos. Los demás defensores de oficio residirán en los lugares donde funcionen las agencias del Ministerio Público investigadoras y los juzgados a los cuales estén adscritos.
 
 ###### Art. 7o.
 
@@ -115,7 +119,11 @@ Cuando el Jefe del Cuerpo de Defensores imponga alguna de las correcciones a que
 
 Son obligaciones de los Defensores de Oficio:
 
-I.- Defender a los reos que no tengan defensor particular, cuando ellos mismos o el Tribunal de su adscripción los designe con ese fin. Tal defensa se prestará sin distinción de persona o categoría.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+I.- Comparecer, sin excusa alguna, en la recepción de las declaraciones de los inculpados, ante el agente del Ministerio Público investigador, en las averiguaciones previas que éste practique, diligencias en las que, además de las facultades y obligaciones que entraña su cargo, tendrán las que específicamente se les atribuyen en el Artículo 288 del Código de Procedimientos Penales del Estado.
+
+Asimismo, deberán defender a los inculpados que no tengan defensor particular, cuando ellos mismos, o el tribunal de su adscripción los designe con ese fin. La defensa siempre se prestará sin distinción de persona o categoría;
 
 II.- Promover las pruebas y demás diligencias necesarias para que sea más eficaz la defensa;
 
@@ -131,9 +139,11 @@ VII.- Todas las demás obligaciones que en general les impusiere una defensa com
 
 VIII.- Las demás que el Reglamento respectivo les señale.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Art. 12.
 
-Queda estrictamente prohibido al Jefe del Cuerpo, Defensores de Oficio y demás personal de la Defensoría Pública del Estado, litigar en toda clase de asuntos judiciales y administrativos.
+Queda estrictamente prohibido al jefe del cuerpo, defensores de oficio y demás personal de la Defensoría Pública del Estado, litigar por sí o por interpósita persona en toda clase de asuntos judiciales y administrativos, ajenos a sus funciones.
 
 ###### Art. 13.
 
@@ -167,9 +177,11 @@ Los Defensores de Oficio, actuando con carácter de Procuradores de Pobres, en e
 
 Los defensores de Oficio quedan facultados para pedir al Tribunal Superior de Justicia, Juzgados, Notaría, Registro Público de la Propiedad, Registro Civil, Tesorería General del Estado y sus Dependencias, Oficinas del Trabajo y sus Dependencias, y en general a todas las Oficinas Públicas del Estado o de los Municipios, los expedientes, procesos, libros y demás documentos que necesitaren consultar para la obtención de datos o informes relacionados con el desempeño de sus funciones. Los Jefes, encargados y demás empleados de dichas oficinas quedan obligados a suministrarlos una vez que se les hubiere enterado, verbalmente o por escrito, de la causa que lo motivare. Igualmente las mencionadas Oficinas quedan obligadas a otorgar a la Defensoría Pública del Estado, sin costo alguno, las copias simples o certificadas que les fueren solicitadas. Tal solicitud será hecha por escrito y con expresión de la causa que motivare la solicitud de las mismas.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Art. 19.
 
-Los Defensores de Oficio, al ser designados por los reos o por los Juzgados, entrarán inmediatamente al desempeño de su cargo.
+Los defensores de oficio, al ser designados por los inculpados o por los juzgados, entrarán inmediatamente al desempeño de su cargo. Los defensores de oficio en turno en las agencias del Ministerio Público investigadoras, también entrarán desde luego al desempeño de su cargo tan pronto reciban el aviso de ingreso a las oficinas respectivas de un detenido, para los fines que se precisan en el Artículo 288 del Código de Procedimientos Penales.
 
 ###### Art. 20.
 
@@ -179,7 +191,9 @@ Los Defensores de Oficio cesarán ipso-facto en el desempeño de sus funciones, 
 
 Los Defensores de Oficio serán responsables por los delitos y faltas en que incurrieren durante el ejercicio de su encargo, debiendo reputarse causas de responsabilidad las siguientes:
 
-I.- Faltar sin causa justificada a sus respectivas oficinas o a las prisiones u hospitales, cuando debieran de hacerlo de conformidad con las obligaciones respectivas que les imponen la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+I.- Faltar sin causa justificada a sus respectivas oficinas o a las agencias del Ministerio Público, prisiones u hospitales, cuando debieran de hacerlo de conformidad con las obligaciones respectivas que les imponen la presente Ley y su Reglamento;
 
 II.- Demorar o contribuir a la demora de las defensas o asuntos civiles que le estuvieren encomendadas, por incuria, descuido o mala inetnción (sic);
 
@@ -201,9 +215,13 @@ IX.- Dejar de cumplir cualquiera de las demás obligaciones que les están impue
 
 En los casos de responsabilidad a que se refiere el artículo anterior, se aplicarán las siguientes sanciones:
 
-I.- En los casos de las fracciones I, II, III y IV del artículo anterior, multa de $5.00 cinco a $25.00 veinticinco pesos, o suspensión de empleo o de sueldo de uno a quince días. En caso de reincidencia, se duplicará la sanción impuesta la primera vez, y al incurrirse por tercera vez en la falta, destitución de empleo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
-II.- En los casos de las fracciones V, VI, VII y VIII del propio artículo que antecede, suspensión de empleo y sueldo de 30 treinta a 60 sesenta días, por la primera vez y destitución de empleo por la segunda; y
+I.- En los casos de las fracciones II, III y IV del artículo anterior, multa por la cantidad de uno a treinta días de salario mínimo diario vigente en el Estado. En caso de reincidencia, la destitución de empleo;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+II.- En los casos de las fracciones I, V, VI, VII y VIII del propio Artículo que antecede, suspensión de empleo y sueldo de treinta a sesenta días, por la primera vez, y destitución de empleo en caso de reincidencia; y
 
 III.- En los casos de la fracción IX, extrañamiento, amonestación o apercibimiento, en los casos leves y en los casos de gravedad las sanciones señaladas en las fracciones que anteceden, según la gravedad de la falta.
 
@@ -220,3 +238,11 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los veinte y
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los veinticinco días del mes de mayo del año de mil novecientos cuarenta y cuatro.- El Secretario General de Gobierno Encargado del Despacho del Poder Ejecutivo del Estado, Lic. Fernando Berrón Ramos.- El Oficial Mayor en funciones de Secretario General de Gobierno, Lic. Celso García Alvarez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 1986.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
