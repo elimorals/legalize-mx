@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ganaderia-del-estado-de-tabasco-8068"
 country: "mx"
 rank: "ley"
 publication_date: "1959-01-28"
-last_updated: "1972-12-27"
+last_updated: "2000-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE GANADERIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1972.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GANADERIA DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el 28 de enero de 1959.
 
@@ -528,3 +530,17 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 P.O. 27 DE DICIEMBRE DE 1972.
 
 UNICO.- Estas reformas tendrán vigencia a partir del primero de enero del año de mil novecientos setenta y tres.
+
+P.O. 27 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ganadería del Estado de Tabasco, publicada en el Suplemento al Periódico Oficial del Estado No. 1707 de fecha 28 de enero de 1959 y todas las disposiciones que se opongan al presente.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría en un plazo no mayor de 120 días a la entrada en vigor de la presente Ley, emitirá los Reglamentos necesarios para su aplicación y en un plazo no mayor de 30 días procederá a la integración e instalación del Comité de Enajenación.
