@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "1990-01-04"
+last_updated: "1996-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -261,7 +261,7 @@ I.- Ordenar la baja de establecimientos comerciales, industriales o de prestaci�
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
 
-II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular,
+II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular;
 
 III.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fé ni intención de eludir las obligaciones correspondientes;
 
@@ -557,11 +557,15 @@ La obligación fiscal municipal nace en el momento en que se realizan las situac
 
 La obligación fiscal municipal se determinará y liquidará conforme a las disposiciones vigentes en el momento de su nacimiento, pero le serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 47o.
 
-El crédito fiscal municipal es la obligación fiscal determinada en cantidad liquida y que debe de pagarse en la fecha o dentro del plazo que esta Ley señale.
+Son créditos fiscales municipales las obligaciones fiscales determinadas en cantidad líquida y que deben pagarse en la fecha o dentro del plazo que esta Ley señale y los que tenga derecho a percibir el municipio o sus organismos descentralizados, que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Municipio tenga derecho a exigir de sus servidores públicos o de los particulares, así como a los que las leyes les de ese carácter y el Municipio tenga derecho a percibir por cuenta ajena.
 
-Cuando no hubiere disposición expresa el pago deberá hacerse:
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando no hubiere disposición expresa, el pago deberá hacerse:
 
 I.- Si la determinación o liquidación corresponde ser formulada por las autoridades municipales, dentro de los quince días siguientes a la fecha de notificación.
 
@@ -2116,3 +2120,7 @@ El presente Decreto entrará en vigor el 1o. de Enero de 1990.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
