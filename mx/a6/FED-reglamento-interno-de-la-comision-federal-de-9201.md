@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-federal-de-9201"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-09"
-last_updated: "2002-02-22"
+last_updated: "2002-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9201&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-12-05"
 
 REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 9 de diciembre de 1996.
 
@@ -1123,6 +1123,18 @@ En el Consejo Consultivo podrán participar, a invitación del Secretario de Com
 
 Cada Comisionado estará impedido de conocer cualquier asunto o caso en el que tenga interés directo o indirecto, de conformidad con la legislación aplicable en materia de responsabilidad de los servidores públicos, para lo cual estará obligado a excusarse del conocimiento de los asuntos o casos en que se presente algún impedimento, en cuyo caso el Pleno calificará la excusa.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE MAYO DE 2002)</small>
+
+## TITULO CUARTO. DE LA SUPLENCIA DE LA AUSENCIA DE SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2002)</small>
+
+###### Artículo 36.
+
+El Presidente será suplido en sus ausencias por los coordinadores generales y por los coordinadores en los asuntos de sus respectivas competencias.
+
+Los comisionados y los coordinadores generales, tratándose de juicios de amparo, serán suplidos en sus ausencias por los directores generales que de ellos dependan, en los asuntos de sus respectivas competencias.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1146,3 +1158,9 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 D.O.F. 22 DE FEBRERO DE 2002.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL.
+
+D.O.F. 14 DE MAYO DE 2002.
+
+PRIMERO.- Para efectos de la publicidad del presente Acuerdo, se instruye a la Dirección General de Consulta Jurídica y Normatividad del Area General de Asuntos Jurídicos para que inicie el procedimiento necesario para su publicación en el Diario Oficial de la Federación, y una vez publicado, la Coordinación de Comunicación Social lo deberá hacer en la página de Internet de la Comisión Federal de Telecomunicaciones.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
