@@ -4,7 +4,7 @@ identifier: "LACP"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-04"
-last_updated: "2003-01-27"
+last_updated: "2004-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21346&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LACP"
 
 LEY DE AHORRO Y CREDITO POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de junio de 2001.
 
@@ -1694,15 +1694,45 @@ Las resoluciones de la Comisión a que se refiere este artículo podrán ser rec
 
 En los términos de la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, el Gobierno Federal, por conducto de la Secretaría y de la Comisión, celebrará convenios con las Entidades Federativas, a efecto de que éstas ejerzan las funciones que se acuerde para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
 ###### Artículo 124.
 
-La Secretaría dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las Entidades, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 Bis del Código Penal Federal, incluyendo la obligación de dichas Entidades de presentar a esa Secretaría, reportes sobre las operaciones y servicios que realicen con sus Socios o Clientes, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
+Las Cooperativas y Sociedades Financieras Populares, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional Bancaria y de Valores, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-Dichas disposiciones deberán considerar, entre otros aspectos, criterios para la adecuada identificación de los Socios o Clientes, de las operaciones y servicios de las Entidades mencionadas, que tomen en cuenta sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones y los instrumentos monetarios con que las realicen, y su relación con las actividades de los Socios o Clientes; las plazas en que operen, y los usos y prácticas prevalecientes en el mercado; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias Entidades. El cumplimiento de la obligación de presentar reportes previstos en tales disposiciones, no implicará transgresión a lo establecido en el artículo 34 de esta Ley.
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
-Las disposiciones señaladas deberán ser observadas oportunamente por los miembros de los consejos de administración, consejos de vigilancia o comisarios, del Comité de Supervisión, auditores externos, funcionarios y empleados de las Entidades. La violación de las mismas, será sancionada por la Comisión de conformidad con lo establecido en el presente Título.
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Valores, reportes sobre:
 
-Tanto los servidores públicos de la Secretaría y de la Comisión, como los miembros de los consejos de administración, consejos de vigilancia o comisarios, del Comité de Supervisión, auditores externos, funcionarios y empleados de las Entidades y, en su caso, de los Organismos de Integración, deberán abstenerse de dar noticia o información de las operaciones previstas en el presente artículo, a personas, Dependencias o Entidades distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+a. Los actos, operaciones y servicios que realicen con sus Socios y Clientes, relativos a la fracción anterior, y
+
+b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso pudiese contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, comisario, directivo, funcionario, empleado, apoderado o algún miembro del Comité de Supervisión.
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las Cooperativas y Sociedades Financieras Populares deberán observar respecto de:
+
+a. El adecuado conocimiento de sus Socios y Clientes, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas Cooperativas y Sociedades deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus Socios y Clientes;
+
+c. La forma en que las mismas Cooperativas y Sociedades deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus Socios y Clientes o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las Cooperativas y Sociedades Financieras Populares sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+Las Cooperativas y Sociedades Financieras Populares deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión Nacional Bancaria y de Valores, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las Cooperativas y Sociedades Financieras Populares estarán obligadas a proporcionar dicha información y documentación.
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el artículo 34 de esta Ley.
+
+Las reglas y los lineamientos que de ellas deriven a que se refiere este artículo deberán ser observadas por las Cooperativas y Sociedades Financieras Populares, así como por los miembros del consejo de administración, administradores, comisarios, directivos, funcionarios, empleados y apoderados respectivos, así como por los miembros del Comité de Supervisión, por lo cual, tanto las Cooperativas y Sociedades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional Bancaria y de Valores conforme al procedimiento previsto en el artículo 126 de la presente Ley, con la multa establecida por el artículo 130 fracción XVI de esta Ley.
+
+Las mencionadas multas podrán ser impuestas, a las Cooperativas y Sociedades Financieras Populares, como a los miembros del consejo de administración, administradores, miembros del Comité de Supervisión, comisarios, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión Nacional Bancaria y de Valores, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 122 de esta Ley.
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, las Cooperativas y Sociedades Financieras Populares, los miembros de sus consejos de administración, administradores, comisarios, directivos, funcionarios, empleados y apoderados, así como los miembros del Comité de Supervisión, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ###### Artículo 125.
 
@@ -1778,11 +1808,21 @@ XIV. De 1,000 a 5,000 días de salario al contralor normativo de Federaciones o 
 
 Igual sanción se impondrá a la Federación o Confederación que por cualquier medio impida que el contralor normativo realice sus funciones de conformidad a lo previsto en esta Ley, y
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Igual sanción se impondrá a la Federación o Confederación que por cualquier medio impida que el contralor normativo realice sus funciones de conformidad a lo previsto en esta Ley
+
 > <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2003)</small>
 
 XV. De 1,000 a 5,000 días de salario al consejero independiente de Entidades, Federaciones o Confederaciones, que actúe en las sesiones del consejo de administración en contravención a la presente Ley y a las disposiciones que emanen de ella.
 
-Igual sanción se impondrá a las Entidades que no cumplan con lo dispuesto en el último párrafo del artículo 105, estableciendo de forma clara y visible en sus sucursales, oficinas, en su publicidad y en toda la documentación que utilicen para instrumentar sus operaciones, que no contarán con la protección de dicho Fondo, hasta en tanto no hayan realizado las aportaciones al mismo durante el plazo a que se refiere dicho párrafo.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Igual sanción se impondrá a las Entidades que no cumplan con lo dispuesto en el último párrafo del artículo 105, estableciendo de forma clara y visible en sus sucursales, oficinas, en su publicidad y en toda la documentación que utilicen para instrumentar sus operaciones, que no contarán con la protección de dicho Fondo, hasta en tanto no hayan realizado las aportaciones al mismo durante el plazo a que se refiere dicho párrafo, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+XVI. De 1,000 a 5,000 días de salario a la Entidad que incumpla con las disposiciones de carácter general a que se refiere el artículo 124 de esta Ley.
 
 ###### Artículo 131.
 
@@ -1951,3 +1991,7 @@ DÉCIMO.- El plazo a que se refiere el segundo párrafo del artículo Noveno Tra
 DÉCIMO PRIMERO.- El plazo a que se refiere el artículo Décimo Cuarto Transitorio del Decreto del 4 de junio de 2001 por el que se expide la Ley de Ahorro y Crédito Popular será de cuatro años.
 
 DÉCIMO SEGUNDO.- El plazo a que se refiere el artículo Décimo Quinto Transitorio del Decreto del 4 de junio de 2001 por el que se expide la Ley de Ahorro y Crédito Popular será de dos años.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
