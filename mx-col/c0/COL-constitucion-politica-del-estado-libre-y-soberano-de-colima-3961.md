@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1948-06-05"
+last_updated: "1949-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1949.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -349,11 +349,11 @@ XXXIX.- Autorizar, cuando lo juzgue conveniente las enagenaciones (sic) que debe
 
 De la Diputación permanente.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1949)</small>
 
 ###### Artículo 34.
 
-En los recesos del Congreso, funcionará una Diputación Permanente formada de cinco Diputados, que serán electos en la forma y términos que señala el Reglamento Interior, tres días antes de la clausura del período ordinario de sesiones. Las faltas de los miembros de la Diputación Permanente, serán cubiertas por el Suplente de cada uno de ellos, y en caso de que falte el Suplente respectivo será llamado cualquiera de los demás representantes que integran dicha Cámara.
+En los recesos del Congreso, funcionará una Diputación Permanente formada de tres Diputados, que serán electos en la forma y términos que señala el Reglamento Interior, tres días antes de la clausura del período ordinario de sesiones. Las faltas de los miembros de la Diputación Permanente, serán cubiertas por el Suplente de cada uno de ellos, y en caso de que falte el Suplente respectivo será llamado cualquiera de los demás representantes que integran dicha Cámara.
 
 ###### Artículo 35.
 
@@ -1526,3 +1526,9 @@ Este Decreto surtirá efectos a partir de la fecha de su publicación en el peri
 P.O. 5 DE JUNIO DE 1948.
 
 Este Decreto surtirá sus efectos a partir de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 8 DE ENERO DE 1949.
+
+###### Artículo 2°.
+
+Este Decreto surtirá sus efectos a partir del día de su publicación en el periódico oficial.
