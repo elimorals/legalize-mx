@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-para-la-escuela-de-jurisprudencia-del-3883
 country: "mx"
 rank: "reglamento"
 publication_date: "1929-12-05"
-last_updated: "1929-12-05"
+last_updated: "1936-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA LEY PARA LA ESCUELA DE JURISPRUDENCIA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1936
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 5 de diciembre de 1929.
 
@@ -33,13 +33,15 @@ Que en uso de la facultad que me confiere el artículo 4, Transitorio, de la Ley
 
 REGLAMENTO de la Ley para la Escuela de Jurisprudencia del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1936)</small>
+
 ###### Art. 1o.
 
-El presente Reglamento tiene por objeto determinar las facultades y obligaciones del Director, Secretario, Tesorero, y Profesores de la Escuela de Jurisprudencia del Estado; así como también fijar los días, forma y duración de las clases y de los exámenes, condiciones necesarias para inscripción de los alumnos, sus derechos y deberes y aprobación de los mismos en los exámenes y todos los demás puntos no previstos en la Ley pero que deban prevenirse para la buena organización y regular marcha de la Escuela.
+La presente Ley tiene por objeto el establecimiento de la Escuela de Jurisprudencia en el Estado.
 
 ###### Art. 2o.
 
-Fungirá como Director de la Escuela el que ejerza igual cargo en el Instituto Campechano siempre que sea Abogado. En caso contrario la designación será hecha por el Gobernador debiendo el nombrado reunir los requisitos que exige el artículo 4 de la Ley.
+(DEROGADO, P.O. 25 DE JUNIO DE 1936)
 
 ###### Art. 3o.
 
@@ -73,9 +75,11 @@ m). Conceder los exámenes especiales que le fueren solicitados en los términos
 
 n). Cumplir y hacer cumplir este Reglamento, las disposiciones legales y administrativas referentes a la Escuela y los acuerdos del Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1936)</small>
+
 ###### Art. 4o.
 
-Fungiría como Secretario-Tesorero de la Escuela el que ejerza igual cargo en el Instituto Campechano, siendo sus facultades y obligaciones las siguientes:
+Son facultades y obligaciones del Secretario-Tesorero de la Escuela, las siguientes:
 
 a). Recibir por inventario los muebles y útiles de la Secretaría y Tesorería de la Escuela y entregarlos de igual manera, en su caso.
 
@@ -330,3 +334,9 @@ Quedan derogadas todas las Leyes y Decretos que se opongan al presente Reglament
 Publíquese para su cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los veinte y ocho días del mes de noviembre de mil novecientos veinte nueve años (sic).- El Gobernador Substituto Constitucional del Estado, Lic. Bojórquez.- El Oficial Mayor en funciones de Secretario General del Despecho. Pedro Tello Andueza.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE JUNIO DE 1936.
+
+Unico. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
