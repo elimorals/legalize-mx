@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1988-01-19"
+last_updated: "1989-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 1989.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -363,7 +363,13 @@ El Gobernador del Estado, será electo popularmente en forma directa por el sist
 
 No podrán ser reelectos para el período inmediato siguiente, los funcionarios de elección popular que hayan ejercido su cargo, excepción hecha de los casos previstos por los artículos 86 y 89 de esta Constitución. La misma regla será aplicable al caso de los integrantes de los Concejos Municipales.
 
-Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal del Estado, serán designados por el Gobernador y los nombramientos sometidos para su aprobación a la Legislatura.
+> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 1989)</small>
+
+Los Magistrados del Tribunal Superior de Justicia y los del Tribunal de lo Contencioso Administrativo del Estado, serán designados por el Gobernador y los nombramientos respectivos se someterán para su aprobación a la Legislatura o la Diputación Permanente en su caso.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 1989)</small>
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo durarán en su cargo tres años, al término de los cuales si fueren ratificados sólo podrán ser privados de sus puestos en los términos del Título Sexto de esta Constitución.
 
 > <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
@@ -835,9 +841,13 @@ LIII. Llevar el registro de la situación patrimonial de los servidores público
 
 LIV. Nombrar inspectores, interventores o auditores, con el objeto de examinar las funciones, los servicios públicos, la contabilidad y demás actos que realicen los ayuntamientos;
 
-> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 1989)</small>
 
-LV. Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución, la Federal y las leyes que de ellas emanen a los poderes del Estado y a los municipios de la Entidad.
+LV. Instituir el Tribunal de lo Contencioso Administrativo, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y Municipal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 1989)</small>
+
+LVI. Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución, la Federal y las leyes que de ellas emanen a los poderes del Estado y a los municipios de la Entidad.
 
 ###### Artículo 69.
 
@@ -1295,11 +1305,11 @@ Los procedimientos para la aplicación de las sanciones mencionadas, se desarrol
 
 La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa del enriquecimiento ilícito a los servidores públicos, señalando las bases para el Registro Patrimonial de éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE FEBRERO DE 1989)</small>
 
 ###### Artículo 123.
 
-Podrán ser sujetos de juicio político, los Diputados, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, los Agentes del Ministerio Público, los Directores, Subdirectores, Jefes de Departamento, del Poder Ejecutivo, el Magistrado del Tribunal Fiscal del Estado, los Directores, Gerentes o Encargados de organismos descentralizados o desconcentrados, empresas de participación estatal, sociedades, asociaciones o fideicomisos constituídos por el Estado.
+Podrán ser sujetos de juicio político, los Diputados, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, los Agentes del Ministerio Público, los Directores, Subdirectores, Jefes de Departamento, del Poder Ejecutivo, los Magistrados del Tribunal de lo Contencioso Administrativo, los Directores, Gerentes o Encargados de organismos descentralizados o desconcentrados, empresas de participación estatal, sociedades, asociaciones o fideicomisos constituídos por el Estado.
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1321,11 +1331,11 @@ Conociendo de la acusación, el Pleno del Tribunal Superior de Justicia erigido 
 
 Las declaraciones de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE FEBRERO DE 1989)</small>
 
 ###### Artículo 124.
 
-Para proceder penalmente contra los Diputados, los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia o los Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder contra el inculpado. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
+Para proceder penalmente en contra de los Diputados, los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo o los Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder contra el inculpado. En el procedimietno (sic) que se siga, se respetarán las garantías de audiencia y legalidad.
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1739,9 +1749,9 @@ XIV. Nombrar y remover libremente a los Secretarios del Despacho y a los emplead
 
 XV. Nombrar y remover libremente al Procurador General de Justicia y a todos los funcionarios y empleados dependientes del poder ejecutivo;
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 1989)</small>
 
-XVI. Hacer la designación de Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal del Estado, sometiendo los nombramientos para su aprobación a la Legislatura o a la Diputación Permanente en su caso;
+XVI. Hacer la designación de Magistrados del Tribunal Superior de Justicia y del Tribunal Contencioso Administrativo del Estado, sometiendo los nombramientos para su aprobación a la Legislatura o a la Diputación Permanente en su caso;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
@@ -2072,3 +2082,13 @@ La presente Ley entrará en vigor, al día siguiente de su publicación en la 'G
 ###### ARTICULO SEGUNDO.
 
 Se deroga cualquier disposición legal que se oponga a la presente.
+
+G.O. 11 DE FEBRERO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a (sic) día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Magistrados integrantes del Tribunal de lo Contencioso Administrativo, que designen antes del día 30 de noviembre de 1992, en esa fecha concluirán sus funciones.
