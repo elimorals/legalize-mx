@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-educacion-para-los-adultos-14
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "2000-12-23"
+last_updated: "2005-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACION PARA LOS ADULTOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -157,11 +157,11 @@ DE LOS ÓRGANOS DE ADMINISTRACIÓN Y CONTROL DEL INSTITUTO.
 
 La administración del Instituto estará a cargo de la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### Artículo 9.
 
-La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por el Secretario de Educación y Cultura, quien la presidirá; los titulares de la Secretaría General de Gobierno y de la Secretaría de Finanzas y Administración, o quienes estos designen para suplirlos; un representante del sector educativo estatal; un representante del organismo; un representante de la Secretaría de Educación Pública en el Estado; el Presidente del Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C. y un representante de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Unico de Trabajadores del Instituto Nacional para la Educación de los Adultos.
+La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por el Secretario de Educación y Cultura, quien la presidirá; los titulares de la Secretaría General de Gobierno y de la Secretaría de Finanzas, o quienes éstos designen para suplirlos; un representante del sector educativo estatal; un representante del organismo; un representante de la Secretaría de Educación Pública en el Estado; el Presidente del Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C. y un representante de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Único de Trabajadores del Instituto Nacional para la Educación de los Adultos.
 
 ###### Artículo 10.
 
@@ -321,7 +321,9 @@ I.- Cuando deje de cumplir sus fines u objeto; o
 
 II.- Cuando su funcionamiento no resulte ya conveniente desde el punto de las finanzas públicas del Estado o del interés público.
 
-En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opinión de la Secretaría de Educación y Cultura y de la Contraloría del Estado, propondrá al Ejecutivo la disolución o extinción del Instituto.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+En todo caso, la Secretaría de Finanzas, atendiendo a la opinión de las Secretarías de Educación y Cultura y de la Contraloría del Estado, propondrá al Ejecutivo la disolución o extinción del Instituto.
 
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
@@ -394,3 +396,27 @@ P.O. 23 DE DICIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2005,
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
