@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2001-09-15"
+last_updated: "2004-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -373,13 +373,13 @@ Cuando de la pérdida aparecieren indicios sobre la probable comisión de un del
 
 Los formatos del Registro Civil serán autorizados y distribuidos anualmente por el Director del Registro Civil. Los Oficiales del Registro Civil remitirán mensualmente dos ejemplares de los legajos de actas levantadas a la Dirección del Registro Civil adjuntando el apéndice respectivo; otro tanto quedará en el archivo de la Oficialía.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
 ###### Artículo 52.
 
-Toda persona puede solicitar certificación de datos y/o fotocopia certificada de las actas del Registro Civil. El Director, los Oficiales del Registro Civil y el Jefe del Archivo están obligados a expedirlas, así como aquéllas relativas a los documentos del Apéndice.
+Toda persona puede solicitar certificación de datos y/o fotocopia certificada de las actas del Registro Civil. El Director, los Oficiales del Registro Civil y el Jefe del Archivo Central están obligados a expedirlas, así como aquellas relativas a los documentos del apéndice, pudiéndose utilizar para tal efecto la firma autógrafa de los servidores públicos o la firma facsimilar digitalizada. El Estado garantizará la certeza de los actos que se validen con el uso de la firma facsimilar digitalizada.
 
-Ninguna otra autoridad, podrá expedir certificaciones de las actas del Registro Civil, salvo lo dispuesto en el reglamento interior.
+Ninguna otra autoridad, podrá expedir certificaciones de las actas del Registro Civil, salvo lo dispuesto por el Reglamento Interior.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -15724,3 +15724,9 @@ P.O. 15 DE SEPTIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 24 DE JULIO DE 2004.
+
+PRIMERO.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado, del Reglamento Interior Reformado de la Dirección del Registro Civil. Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se concede al Titular del Poder Ejecutivo el plazo de ciento veinte días naturales para reformar el Reglamento Interior de la Dirección del Registro Civil, en el que deberá establecer los lineamientos legales y técnicos para otorgar plena certidumbre a los actos validados por la firma facsimilar digitalizada.
