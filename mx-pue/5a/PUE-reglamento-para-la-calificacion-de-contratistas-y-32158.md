@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-calificacion-de-contratistas-y-32158"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-30"
-last_updated: "2004-04-14"
+last_updated: "2004-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO PARA LA CALIFICACION DE CONTRATISTAS Y LABORATORIOS DE PRUEBAS Y CONTROL DE CALIDAD EN EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2004.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 30 de mayo de 2003.
 
@@ -433,7 +433,9 @@ Todos estos documentos deberán estar firmados por el contador de la empresa o c
 
 14.- Original para su cotejo y copia de la inscripción y último pago de la cuota correspondiente al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, del año en que se solicita. En caso de ser empresas de nueva creación o personas físicas con reciente inicio de actividades, deberán presentar el documento que avale que han iniciado los trámites ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores. En este supuesto el Comité requerirá en 90 días naturales la constancia de inscripción y pago. En caso de no presentarla el Comité cancelará la inscripción, sin perjuicio de los derechos y obligaciones que se tengan al momento de la cancelación.
 
-15.- Acreditación de la capacitación anual que el personal técnico en su área específica de especialización haya recibido, en los siguientes términos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2004)</small>
+
+15.- Acreditación de la capacitación anual que el solicitante a través de su personal en cualquier área relacionada con la rama de la construcción y/o elaboración de propuestas, haya recibido, en los siguientes términos:
 
 a. Empresas micro 50 horas hombre.
 
@@ -447,9 +449,21 @@ d. Empresas macro 200 horas hombre.
 
 e. Personas físicas con 20 horas hombre.
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2004)</small>
 
-La acreditación de la capacitación será con las constancias que emitan las Cámaras, Colegios, Universidades o instituciones públicas. Para efecto de definición de las empresas indicadas en los incisos a) al d) de este punto, se estará a lo previsto en la legislación federal aplicable.
+La acreditación de la capacitación será con las constancias que emitan las Cámaras, Colegios, Universidades, instituciones públicas o privadas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2004)</small>
+
+En el caso de instituciones privadas, éstas deberán contar con el reconocimiento de las Cámaras, Colegios, Universidades o instituciones públicas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2004)</small>
+
+Para efecto de definición de las empresas indicadas en los incisos a) al d) de este punto, se estará a lo previsto en la legislación federal aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2004)</small>
+
+Asimismo, la acreditación del requisito que el solicitante presente en relación a la capacitación, sólo significa el cumplimiento a este punto. La acreditación de los requisitos por especialidad deberá apegarse a lo mencionado en la fracción II, apartado A, del artículo 6 del presente Reglamento.
 
 II. Requisitos por especialidad.
 
@@ -575,21 +589,15 @@ En el caso de los aspirantes a obtener la calificación, no podrán celebrar con
 
 CANCELACIÓN DE LA CALIFICACIÓN.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2004)</small>
 
 ###### ARTÍCULO 13.
 
 Para los efectos del artículo 60 y 61 de la Ley, relativas a la suspensión y cancelación de una calificación, serán aplicables las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2004)</small>
-
 I.- Para los efectos de la fracción IV del articulo 60 y la fracción I del artículo 61 de la Ley, será responsabilidad de las dependencias y entidades informar oportunamente al Comité sobre el incumplimiento de los contratistas en la celebración o ejecución de los contratos que hayan suscrito con las mismas o de la información que en el proceso de la obra se detecte que fue falseada en la licitación. El Comité establecerá los mecanismos necesarios para obtener información de los municipios sobre el incumplimiento en la ejecución del contrato o de la información que en el proceso de la obra se detecte que fue falseada en el procedimiento de adjudicación;
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2004)</small>
-
 II.- Para los efectos de la fracción IV del artículo 61 de la Ley, el Comité podrá solicitar por cualquier medio legal la información sobre la naturaleza inevitable y definitiva de una suspensión de pago, sin perjuicio de que será responsabilidad del contratista proporcionar por sí mismo esa información al Comité.
-
-La omisión de proporcionar al Comité la información a que se refiere la última parte del párrafo anterior será sancionable en los términos del artículo 94 de la Ley.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -618,3 +626,9 @@ SEGUNDO.- En el caso del requisito previsto en el punto 15 de la fracción I del
 En el supuesto que el solicitante al momento de iniciar con los trámites de revalidación, cuente con la documentación para acreditar el requisito previsto en el punto 15 de la fracción I del apartado A, del artículo 6, podrá presentarla y no será aplicable el primer párrafo del presente artículo.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 21 DE JULIO DE 2004.
+
+Primero. El presente Acuerdo entrará en vigor el día de publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
