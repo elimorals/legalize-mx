@@ -4,7 +4,7 @@ identifier: "GRO-codigo-electoral-del-estado-de-guerrero-numero-264-5115"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-05-01"
-last_updated: "1992-05-01"
+last_updated: "1992-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO ELECTORAL DEL ESTADO DE GUERRERO NUMERO 264
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1 de mayo de 1992.
 
@@ -62,6 +62,10 @@ f). El sistema de medios de impugnación, para garantizar la legalidad de los ac
 ###### ARTICULO 2.
 
 Para el desempeño de sus funciones, las Autoridades Electorales establecidas por la Constitución y este Código, contarán con el apoyo y colaboración de las Autoridades Estatales y Municipales.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+El Gobierno del Estado, pondrá a disposición del Consejo Estatal Electoral, equipo de cómputo para que el Consejo lo facilite a los Partidos Políticos para el establecimiento de sus Centros Estatales de Cómputo, en ocasión del Proceso Electoral de que se trate; debiendo los Partidos Políticos, establecer una terminal en las oficinas centrales del Consejo Estatal Electoral.
 
 ###### ARTICULO 3.
 
@@ -587,9 +591,11 @@ El Consejo Estatal Electoral, tomará los acuerdos pertinentes a fin de que el e
 
 ### CAPITULO II. DEL FINANCIAMIENTO PUBLICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 49.
 
-Los Partidos Políticos, adicionalmente a los ingresos que perciban por las aportaciones de sus afiliados y organizaciones, tendrán derecho al financiamiento de sus actividades, independientemente de las demás Prerrogativas otorgadas en este Código, en función de los resultados electorales de las elecciones de Diputados Locales Uninominales y conforme a las disposiciones siguientes:
+Los Partidos Políticos, adicionalmente a los ingresos que perciban por las aportaciones de sus afiliados, obtendrán financiamiento para sus actividades, sin perjuicio de las demás prerrogativas otorgadas por este Código; conforme a las disposiciones siguientes:
 
 a). Por actividad electoral:
 
@@ -616,6 +622,26 @@ I. Un monto adicional equivalente al 10% de la cantidad total que resulte según
 La cantidad a repartir conforme a la fracción anterior, será entregada en ministraciones conforme al calendario presupuestal que se aprueba anualmente; y
 
 II. El Consejo Estatal Electoral, asignará una aportación económica mensual, a los Partidos Políticos registrados, para el pago de renta del inmueble sede del Partido, la cual será equivalente hasta tres veces el salario mínimo mensual, entratándose de los Partidos que hayan obtenido por lo menos el 2.5% de la votación de Diputados Uninominales en el Proceso Electoral Estatal inmediato anterior; y hasta dos veces el salario mínimo mensual, entratándose de los Partidos que hayan obtenido el 1.5% a 2.4% de los sufragios emitidos.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+d). Recursos financieros para apoyar el desarrollo de la campaña de candidatos a Gobernador.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+I.- En la misma proporción de los votos obtenidos en la campaña inmediata anterior para Gobernador, el Consejo Estatal Electoral otorgará apoyos financieros para lo cual se tomará como valor unitario por sufragio el que se utilice para las prerrogativas financieras que se otorguen a los Partidos permanentemente;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+II.- De la cifra total obtenida según la fracción anterior, el 50% se distribuirá por partes iguales entre los Partidos Políticos que registren Candidato a Gobernador;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+III.- El otro 50% de la cifra total obtenida según la fracción I, se dividirá entre la votación estatal emitida en la elección inmediata anterior para Gobernador; determinándose así el valor unitario por voto. A cada Partido se le asignará la cantidad que resulte de multiplicar el valor unitario obtenido, por el número de votos válidos que hayan logrado en la elección para Gobernador;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+IV.- Los Partidos Políticos recibirán el monto de la cantidad a que tuvieran derecho, en ministraciones, conforme al calendario presupuestal que apruebe el Consejo Estatal Electoral.
 
 El Consejo Estatal Electoral, dentro de las posibilidades presupuestales, fijará las bases de mecanismos financieros para que progresivamente puedan los Partidos, adquirir en propiedad, inmuebles para sus respectivas sedes.
 
@@ -1261,7 +1287,7 @@ XI. Resolver sobre las peticiones y consultas que le hagan los ciudadanos, candi
 
 XII. Hacer el cómputo municipal de la elección de Ayuntamientos y Diputados Plurinominales del Municipio cabecera del Distrito;
 
-XIII. Hacer el cómputo de los Municipios que comprende el Distrito, de la elección de Gobernador;
+XIII. (DEROGADA, P.O. 8 DE DICIEMBRE DE 1992)
 
 XIV. Hacer el cómputo municipal de la elección de Diputados Uninominales;
 
@@ -1581,6 +1607,8 @@ h). Concluidas las labores de la Casilla, turnar oportunamente al Consejo Munici
 
 i). Fijar en un lugar visible al exterior de la Casilla, los resultados del cómputo de cada una de las elecciones.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 96.
 
 Son atribuciones de los Secretarios de las Mesas Directivas de Casilla:
@@ -1593,7 +1621,9 @@ c). Comprobar que el nombre del elector figure en la lista nominal correspondien
 
 d). Recibir los escritos de Protesta que presenten los Representantes de los Partidos Políticos, firmando para constancia;
 
-e). Inutilizar las boletas sobrantes, de conformidad con lo dispuesto en el inciso a) del artículo 201 de este Código; y
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+e). Inutilizar las boletas sobrantes, de conformidad con lo dispuesto en el inciso a) del artículo 202 de este Código; y
 
 f). Las demás que les confiera este Código.
 
@@ -1659,9 +1689,11 @@ d). Solicitar el auxilio de la fuerza pública, para restablecer el orden y expu
 
 En las Mesas de sesiones de los Consejos, sólo ocuparán lugar y tomarán parte en las deliberaciones, los Consejeros y los Representantes.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 104.
 
-Las Autoridades Estatales y Municipales están obligadas a proporcionar a los Organos Electorales, a petición de los Presidentes respectivos, los informes, las certificaciones y el auxilio de la fuerza pública, necesarios para el cumplimiento de sus funciones y resoluciones.
+Las Autoridades Estatales y Municipales están obligadas a proporcionar a los Organos Electorales, a petición de los Presidentes respectivos, los informes y las certificaciones necesarios para el cumplimiento de sus funciones y resoluciones. Para el mejor cumplimiento de las atribuciones que les señale este Código, el Consejo Estatal Electoral solicitará al Gobierno del Estado, y, en su caso, a los Ayuntamientos, que pongan a su disposición elementos de los cuerpos de seguridad pública, mismos que quedarán bajo el mando exclusivo de dicho Consejo y de más Organismos Electorales, y, por tanto, sustraídos temporalmente de la relación jerárquica del propio Gobierno del Estado y de los referidos Ayuntamientos hasta en tanto dure la comisión.
 
 ###### ARTICULO 105.
 
@@ -2405,7 +2437,9 @@ a). Durante el mes de julio del año de la elección, tratándose de la elecció
 
 b). Elaboradas las listas, los Consejos examinarán que los lugares cumplan con los requisitos fijados por el artículo anterior y, en su caso, harán los cambios necesarios;
 
-c). Los Consejos Distritales, en sesión que celebren a más tardar durante la segunda semana de agosto, aprobarán la lista en que se contenga la ubicación de las Casillas; y
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+c). Los Consejos Distritales, en Sesión que celebren a más tardar durante la segunda semana de agosto, tratándose de la elección de Ayuntamientos y Diputados y en la segunda semana de diciembre cuando sea elección de Gobernador, aprobarán la lista en que se contenga la ubicación de las Casillas; y
 
 d). El Presidente del Consejo Distrital, ordenará la publicación de la lista de ubicación de Casillas a más tardar la primera semana de septiembre, cuando sea elección de Ayuntamientos y Diputados y la primera semana de enero cuando sea elección de Gobernador.
 
@@ -2737,6 +2771,10 @@ b). Impregnar con tinta indeleble el dedo pulgar derecho del elector; y
 
 c). Devolver al elector su credencial para votar.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+Los Representantes de los Partidos Políticos ante las Mesas Directivas, podrán ejercer su derecho de voto en la Casilla en la que estén acreditados, para lo cual se seguirá el procedimiento señalado en éste y el anterior, anotando el nombre completo y la clave de la credencial para votar de los Representantes al final de la Lista Nominal de Electores.
+
 ###### ARTICULO 192.
 
 Corresponde al Presidente de la Mesa Directiva, en el lugar en que se haya instalado la Casilla, el ejercicio de la autoridad para preservar el orden, asegurar el libre acceso de los electores, garantizar en todo tiempo el secreto del voto y mantener la estricta observancia de este Código.
@@ -2927,6 +2965,8 @@ Cumplidas las acciones a que se refiere el artículo anterior, los Presidentes d
 
 ### CAPITULO IV. DE LOS COMPUTOS DISTRITALES
 
+> <small>N. DE E. CONFORME AL DECRETO DE REFORMAS PUBLICADO EN EL PERIODICO OFICIAL DE 8 DE DICIEMBRE DE 1992, SE SUPRIME LO RELACIONADO CON LA ELECCION DE GOBERNADOR.</small>
+
 ###### ARTICULO 210.
 
 Concluídas por la Mesa Directiva las operaciones establecidas en los artículos anteriores, el Secretario levantará un acta que deberán firmar los Funcionarios de la Mesa y los Representantes de los Partidos Políticos que desearan hacerlo.
@@ -2960,6 +3000,8 @@ Se considerará que existe causa justificada, para que los paquetes con los expe
 El Consejo Municipal o Distrital, hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 215 de este Código, las causas que se invoquen para el retraso en la entrega de los paquetes.
 
 ### CAPITULO V. DEL COMPUTO ESTATAL
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 212.
 
@@ -3006,6 +3048,10 @@ c). El Presidente del Consejo Municipal o Distrital, dispondrá su depósito, en
 d). El Presidente del Consejo Municipal o Distrital, bajo su responsabilidad, los salvaguardará y al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados en presencia de los Representantes de los Partidos.
 
 De la Recepción de los paquetes que contengan los expedientes de Casilla, se levantará acta circunstanciada, en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
+
+Por lo que hace a los paquetes que contengan los expedientes de casilla, tratándose de la elección de Gobernador, los Consejos Distritales actuarán como receptores y los enviarán al Consejo Estatal Electoral para el cómputo de Ley, trasladando dichos paquetes los miembros del Consejo Distrital correspondiente, o una comisión del mismo integrada por Representantes de los Partidos Políticos y miembros ciudadanos.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -3147,7 +3193,9 @@ a). En su caso el de la votación para Ayuntamientos y Diputados del Municipio C
 
 b). El de la votación del Distrito para Diputados Uninominales; y
 
-c). El de la votación de las casillas que comprende el Distrito para Gobernador del Estado.
+c). (DEROGADO, P.O. 8 DE DICIEMBRE DE 1992)
+
+> <small>N. DE E. CONFORME AL DECRETO DE REFORMAS PUBLICADO EN EL PERIODICO OFICIAL DE 8 DE DICIEMBRE DE 1992, SE SUPRIME LO RELACIONADO CON LA ELECCION DE GOBERNADOR.</small>
 
 ###### ARTICULO 232.
 
@@ -3173,15 +3221,7 @@ Concluido el cómputo para la elección de Diputados Uninominales, el Presidente
 
 ###### ARTICULO 235.
 
-El cómputo de la votación del o los Municipios que comprende el Distrito para la elección de Gobernador, se sujetará al procedimiento siguiente:
-
-a). Se harán las operaciones señaladas en los incisos a), b), c) y d) del artículo 220 de este Código;
-
-b). Acto seguido, se procederá a extraer los expedientes de las Casillas Especiales relativos a la elección de Gobernador y se realizarán las operaciones referidas en el inciso anterior;
-
-c). El cómputo distrital de la elección de Gobernador será el resultado de sumar las cifras obtenidas según los dos incisos anteriores y se asentará en el acta correspondiente a esta elección; y
-
-d). Se harán constar en el acta circunstanciada de las sesión, los resultados del cómputo y los incidentes que ocurrieren durante la misma.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 236.
 
@@ -3193,7 +3233,7 @@ El Presidente del Consejo Distrital deberá:
 
 a). Integrar el expediente del cómputo distrital de la elección de Diputados Uninominales, con el original o copias certificadas de las actas de Casilla, el original o copias certificadas de las actas de los cómputos municipales, el original o copia certificada del acta de cómputo distrital, el original o copia certificada del acta circunstanciada de la sesión de cómputo distrital y el informe original o copia certificada del propio Presidente sobre el desarrollo del Proceso Electoral; y
 
-b). Integrar el expediente del cómputo distrital de la elección de Gobernador, con las correspondientes actas originales o copias certificadas de las Casillas, el original o copia certificada del acta de cómputo distrital, original o copia certificada del acta circunstanciada de la sesión de cómputo y original o copia certificada del informe del propio Presidente sobre el desarrollo del Proceso Electoral.
+b). (DEROGADA, P.O. 8 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 238.
 
@@ -3203,7 +3243,7 @@ a). Remitir al Tribunal Electoral del Estado cuando se hubiere interpuesto el Re
 
 b). Remitir, una vez cumplido el plazo para la interposición del Recurso de Inconformidad, a la Oficialía Mayor de la Cámara de Diputados, el expediente del cómputo distrital que contiene las actas originales, copias certificadas y cualquier otra documentación de la elección de Diputados Uninominales. De la documentación contenida en el expediente de cómputo distrital, enviará copia certificada al Presidente del Consejo Estatal Electoral. Cuando se interponga el Recurso de Inconformidad, se enviará copia del mismo a sendas instancias; y
 
-c). Remitir al Consejo Estatal Electoral, el expediente de cómputo distrital que contiene las actas originales, copias certificadas y demás documentos de la elección de Gobernador.
+c). (DEROGADO, P.O. 8 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 239.
 
@@ -3215,19 +3255,21 @@ Asimismo, los Presidentes tomarán las medidas necesarias, para que dentro de lo
 
 ###### ARTICULO 240.
 
-El Consejo Estatal Electoral, celebrará sesión el domingo siguiente al día de la jornada electoral, para hacer el cómputo estatal de la elección de Gobernador.
+El Consejo Estatal Electoral, celebrará sesión el jueves siguiente al día de la jornada electoral, para hacer el cómputo estatal de la elección de Gobernador.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 241.
 
-El cómputo estatal, es el procedimiento por el cual el Consejo Estatal Electoral determina, mediante la suma de los resultados anotados en las actas de cómputo distrital de la elección de Gobernador, la votación obtenida en esta elección, en la Entidad. Este cómputo se sujetará a las reglas siguientes:
+El cómputo Estatal en la elección de Gobernador, se sujetará al procedimiento siguiente:
 
-a). Se tomará nota de los resultados que consten en cada una de las actas de cómputo distrital;
+a). Se harán las operaciones señaladas en los incisos a), b), c) y d) del artículo 220 de este Código;
 
-b). La suma de esos resultados, constituirá el cómputo estatal de la elección de Gobernador; y
+b). Acto seguido se procederá a extraer los expedientes de las casillas especiales relativas a la elección de Gobernador y se realizarán las operaciones referidas en el inciso anterior;
 
-c). Se harán constar en el acta circunstanciada de la sesión, los resultados del cómputo y los incidentes que ocurrieren durante la misma.
+c). El cómputo de la elección de Gobernador, será el resultado de sumar las cifras obtenidas según los dos incisos anteriores y se asentará en el acta correspondiente a esta elección; y
 
-El cómputo a que se refieren los incisos anteriores, se realizará ininterrumpidamente hasta su conclusión.
+d). Se harán constar en el acta circunstanciada de la sesión, los resultados del cómputo y los incidentes que ocurrieron durante la misma.
 
 ###### ARTICULO 242.
 
@@ -3236,6 +3278,8 @@ Concluido el cómputo para la elección de Gobernador, el Presidente del Consejo
 ###### ARTICULO 243.
 
 El Presidente del Consejo Estatal Electoral, fijará en el exterior de su local, al término de la sesión de cómputo estatal, el resultado de la elección.
+
+> <small>N. DE E. CONFORME AL DECRETO DE REFORMAS PUBLICADO EN EL PERIODICO OFICIAL DE 8 DE DICIEMBRE DE 1992, SE SUPRIME LO RELACIONADO CON LAS ACTAS DE LOS COMPUTOS DISTRITALES.</small>
 
 ###### ARTICULO 244.
 
@@ -4276,3 +4320,9 @@ Rúbrica.
 El Secretario General de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 8 DE DICIEMBRE DE 1992.
+
+UNICO.- EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
