@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2004-02-12"
+last_updated: "2004-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # CODIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2004.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1079,11 +1077,11 @@ IV.- Los que según los Artículos 372, 373 y 374, pueden continuar o intentar o
 
 V.- El Ministerio Público.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### Artículo 133.
 
-No será permitido a persona alguna cambiar su nombre modificando el registro de su nacimiento, pero si alguien hubiere sido conocido con nombre diferente al que aparece en su registro, declarando este hecho mediante información testimonial en diligencias de jurisdicción voluntaria con intervención del Ministerio Público, se modificará el referido registro en tal sentido.
+No será permitido a persona alguna cambiar su nombre, modificando el registro de su nacimiento, pero si alguien hubiere sido conocido con nombre diferente al que aparece en su registro, declarando este hecho mediante información testimonial en diligencias de jurisdicción voluntaria con intervención del Ministerio Público, se asentará la anotación marginal correspondiente en el referido registro en tal sentido.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -2061,9 +2059,13 @@ El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie 
 
 Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
 
-I.- Separar a los cónyuges en todo caso;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
-II.- Depositar en casa de persona de buenas costumbres a la mujer, si se dice que ésta ha dado causa al divorcio y el marido pidiere el depósito. La casa que para ésto se destine será designada por el juez. Si la causa por la que se pide el divorcio no supone culpa en la mujer, ésta no se depositará sino a solicitud suya;
+I.- Separar a los cónyuges;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
+
+II.- El Juez determinará con audiencia de partes, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará habitando el domicilio conyugal y asimismo, previo inventario, los bienes y enseres que continúen en éste y lo que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que estén dedicados, debiendo informar éste el lugar de su residencia;
 
 III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
@@ -12461,7 +12463,7 @@ No podrá darse en arrendamiento una localidad que no reúna las condiciones de 
 
 ###### Artículo 2320.
 
-El arrendador que no haga las obras que ordena la autoridad correspondiente con apoyo de esas leyes, como necesarias para que el local sea habitable e higiénico, es responsable de los daños y perjuicios que los inquilinos sufran por esta causa.
+El arrendador que no haga las obras que ordene la autoridad correspondiente con apoyo de esas leyes, como necesarias para que el local sea habitable e higiénico, es responsable de los daños y perjuicios que los inquilinos sufran por esta causa.
 
 Cuando las obras a que se refiere el párrafo anterior sean de urgente ejecución, a juicio de la autoridad correspondiente, podrán hacerlas los inquilinos en cuyo caso tendrán derecho de exigir al arrendador el pago del importe de aquellas.
 
@@ -15675,7 +15677,7 @@ Cuando se registre una sentencia que declare haber cesado los efectos de otra qu
 
 ###### Artículo 2911.
 
-Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
 
 ###### Artículo 2912.
 
@@ -15862,5 +15864,17 @@ P.O. 5 DE NOVIEMBRE DE 2001.
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2004.
+
+DECRETO No. 175.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2004.
+
+DECRETO No. 176.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
