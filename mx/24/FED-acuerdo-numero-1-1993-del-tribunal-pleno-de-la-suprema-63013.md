@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1997-03-28"
+last_updated: "1997-04-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 1997.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -165,9 +165,9 @@ X.- DECIMO CIRCUITO:
 
 2.- Juzgados Primero, Segundo y Tercero de Distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa;
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 11/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE ABRIL DE 1997)</small>
 
-3.- Juzgado Octavo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
+3.- Juzgados Octavo y Noveno de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos.
 
 XI.- DECIMO PRIMER CIRCUITO:
 
@@ -429,9 +429,9 @@ XI.- Los Juzgados Tercero, Cuarto y Quinto de Distrito en el Estado de Veracruz,
 
 XII.- Los Juzgados Sexto y Séptimo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Tuxpan, ejercerán jurisdicción en los municipios de: Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Moloacán, Oteapán, Pajapan, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Acayucan, Minatitlán y Texistepec;
 
-> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 10/1996 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 1996)</small>
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL NUMERO 11/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE ABRIL DE 1997)</small>
 
-XIII.- El Juzgado Octavo de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción en los municipios de Amatlán de Tuxpan, Castillo de Teayo, Chinampa de Gorostiza, Tamiahua, Tantoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Pueblo Viejo, Tamalín, Tampico Alto, Tantima, Chiconamel, Chontla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, Amatlán de los Reyes, Ixhuatlán de Madero, Benito Juárez, Tlachichilco, Zacualpan, Zontecomatlán de López y Fuentes, Texcatepec, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Espinal, Gutiérrez Zamora, Mecatlán, Filomeno Mata, Ozuluama de Mascareñas, Tecolutla, Zozocolco de Hidalgo, Tantoyuca, Chicontepec, Tuxpan y Papantla, del estado de Veracruz;
+XIII.- Los Juzgados Octavo y Noveno de Distrito en el Estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerán jurisdicción en los municipios de Amatlán de Tuxpan, Castillo de Teayo, Chinampa de Gorostiza, Tamiahua, Tantoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Pueblo Viejo, Tamalín, Tampico Alto, Tantima, Chiconamel, Chontla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, Amatlán de los Reyes, Ixhuatlán de Madero, Benito Juárez, Tlachichilco, Zacualpan, Zontecomatlán de López y Fuentes, Texcatepec, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Espinal, Gutiérrez Zamora, Mecatlán, Filomeno Mata, Ozuluama de Mascareñas, Tecolutla, Zozocolco de Hidalgo, Tantoyuca, Chicontepec, Tuxpan y Papantla, del estado de Veracruz;
 
 XIV.- Los Juzgados Primero y Segundo de Distrito en el estado de Coahuila, con residencia en la ciudad de Saltillo, ejercerán jurisdicción en los municipios de Saltillo, Ramos Arizpe, General Cepeda, Arteaga y Parras;
 
@@ -680,6 +680,16 @@ D.O.F. 28 DE MARZO DE 1997.
 PRIMERO.- Este Acuerdo entrará en vigor el día catorce de abril de mil novecientos noventa y siete.
 
 SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE ABRIL DE 1997.
+
+PRIMERO.- Este Acuerdo entrará en vigor el veintiuno de abril de mil novecientos noventa y siete.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, así como el Acuerdo General número 10/1996 del Pleno del Consejo de la Judicatura Federal, de nueve de mayo de mil novecientos noventa y seis, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
