@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2003-08-13"
+last_updated: "2003-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2945,21 +2945,29 @@ III. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pue
 
 IV. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentra bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
 
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+V. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones y objetos, o pérdida o substracción de objeto (sic) que se encuentren bajo su cuidado;
+
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-V. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones y objetos, o pérdida o substracción de objeto (sic) que se encuentren bajo su cuidado; o
+VI. Autorice el cobro de sueldos a algún servidor público sin que éste ejerza las funciones del empleo, cargo, comisión o contrato de prestación de servicios profesionales para el que fue designado; comete la misma conducta el servidor público que reciba el pago en las circunstancias anteriores;
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-VI. Autorice el cobro de sueldos a algún servidor público sin que éste ejerza las funciones del empleo, cargo, comisión o contrato de prestación de servicios profesionales para el que fue designado; comete la misma conducta el servidor público que reciba el pago en las circunstancias anteriores.
+VII. Al que permita, autorice y expida permisos de construcción de proyectos de edificación o autorice licencias de cambio de uso de suelo contrarias a las normas urbanísticas, ambientales y a los planes de desarrollo urbano; o
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+VIII. Al que sabiendo que existe la construcción, edificación o lotificación de un bien inmueble, sin la autorización respectiva y negligentemente no proceda conforme a las normas reglamentarias y legales correspondientes, una vez agotado el procedimiento administrativo;
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II se le impondrán de uno a tres años de prisión, multa de treinta a trescientos días-multa y destitución en su caso e inhabilitación de uno a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-Al responsable de las conductas previstas en las fracciones III, IV, V y VI se le impondrán de tres a ocho años de prisión, multa de treinta a trescientos días-multa, y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
+Al responsable de las conductas previstas en las fracciones III, IV, V, VI y VII se le impondrán de tres a ocho años de prisión, multa de treinta a trescientos días multa, y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTICULO 272.
 
@@ -3642,6 +3650,12 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de informativo del Gobierno del Estado de Morelos.
 
 P.O. 13 DE AGOSTO DE 2003.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 3 DE SEPTIEMBRE DE 2003.
 
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
