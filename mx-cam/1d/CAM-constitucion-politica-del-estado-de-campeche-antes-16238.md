@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1933-10-10"
+last_updated: "1934-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 1933.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 1934.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -79,9 +79,11 @@ El Estado de Campeche es parte integrante de la Federación Mexicana.
 
 La base de la organización política y de la división territorial del Estado de Campeche es el Municipio Libre.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1934)</small>
+
 ###### Art. 14.
 
-El territorio del Estado de Campeche lo forman los Municipios Libres de Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada y Tenabo, constituyendo todos ellos los del antiguo Distrito de Campeche, del Estado de Yucatán, con más el litoral que comprende las salinas denominadas El Real, La Herradura y las Desconocidas y cuya línea divisoria es la acordada en el artículo 1º. de los convenios celebrados entre el Gobierno de Yucatán y la Junta Gubernativa del Distrito de Campeche, el 3 de mayo de 1,858, ratificados, respectivamente, por ambos Gobiernos el 15 y el 17 del mismo mes y año.
+El territorio del Estado de Campeche lo forman los Municipios Libres de Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada, Quintana Roo y Tenabo, constituyendo todos ellos, con excepción del penúltimo, lo que fue el antiguo Distrito de Campeche, del Estado de Yucatán, con más el litoral que comprende las salinas denominadas El Real, La Herradura y Las Desconocidas, cuya línea divisoria es la acordada en el artículo 1º de los convenios celebrados el 3 de mayo de mil ochocientos cincuenta y ocho entre el Gobierno de Yucatán y la Junta Gubernativa del Distrito de Campeche y ratificados, respectivamente, por ambos Gobiernos el 15 y el 17 del mismo mes y año, y correspondiendo el Municipio de Quintana Roo a la parte que al quedar suprimido el Territorio del mismo nombre por decreto de fecha 14 de diciembre de 1931, que reformó el artículo 43 y adicionó el 45, ambos de la Constitución General de la República, quedó anexada al territorio del Estado con los límites establecidos en el mismo decreto, con más los islotes y cayos adyacentes situados desde la Bahía de la Ascención hacia el Sur del Mar Caribe, partiendo del paralelo 19 grados 35 minutos, de acuerdo con lo establecido en el decreto de fecha 10 de enero de 1934 que adicionó el artículo 45 de la expresada Constitución General de la República.
 
 ### CAPITULO II.
 
@@ -175,7 +177,7 @@ Para desempeñar una comisión o empleo del Ejecutivo del Estado por el cual se 
 
 El Congreso no podrá instalarse sin la presencia de más de la mitad del número total de Diputados que deban integrarlo, pero los presentes deberán reunirse el día señalado por la Ley, y compeler a los ausentes a que concurran dentro de los quince días siguientes, con la advertencia de que si no lo hiciesen, se entenderá por ese sólo hecho que no aceptan su encargo, se llamará luego a los suplentes, que deberán presentarse en un plazo igual, y si no lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-En la misma forma se procederá cuando durante diez días seguidos no pudieran celebrarse sesiones por falta de quórum, instalado ya el Congreso.
+En la misma forma se procederá cuando durante diez días seguidos no pudieran celebrarse sesiones por falta de quorum, instalado ya el Congreso.
 
 ###### Art. 29.
 
@@ -403,7 +405,7 @@ Si al comenzar un período constitucional no se presentase el Gobernador electo 
 
 ###### Art. 55.
 
-Cuando la falta de Gobernador fuese temporal, el Congreso del Estado si estuviese reunido o, en su defecto la Diputación Permanente, designará un Gobernador Interino, para que funcione durante el tiempo que dure dicha falta. Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores.
+Cuando la falta de Gobernador fuese temporal, el Congreso del Estado si estuviese reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino, para que funcione durante el tiempo que dure dicha falta. Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
 En caso de licencia del Gobernador del Estado, quedará impedido el interino para ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
 
@@ -853,7 +855,7 @@ Art. segundo. Los componentes de los Ayuntamientos, los de las Juntas Municipale
 
 P.O. 30 DE AGOSTO DE 1921.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 15 DE OCTUBRE DE 1921.
 
@@ -945,19 +947,19 @@ III. Cuando siendo campechano por vecindad pierda ésta por avecindarse fuera de
 
 Los componentes de los Ayuntamientos, Juntas y Comisarios Municipales, durarán también un año en sus respectivos encargos y no podrán ser nuevamente electos sino dos años después de haber cesado en sus funciones.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 7 DE MARZO DE 1922.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 26 DE MAYO DE 1923.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 20 DE SEPTIEMBRE DE 1923.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 13 DE NOVIEMBRE DE 1924.
 
@@ -983,11 +985,13 @@ Unico. La presente reforma regirá en todo el territorio del Estado a partir del
 
 P.O. 29 DE NOVIEMBRE DE 1930.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 21 DE MARZO DE 1931.
 
-Artículo segundo: Las anteriores reformas surtirán sus efectos legales a partir de las próximas elecciones para diputados al Congreso del Estado deberán efectuarse el siete de junio del año en curso.
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS SEGUNDO Y TERCERO DEL DECRETO.</small>
+
+Artículo segundo: Las anteriores reformas surtirán sus efectos legales a partir de las próximas elecciones para Diputados al Congreso del Estado deberán efectuarse el siete de junio del año en curso.
 
 Artículo tercero: Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
 
@@ -996,5 +1000,9 @@ P.O. 19 DE NOVIEMBRE DE 1931.
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 10 DE OCTUBRE DE 1933.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 21 DE JULIO DE 1934.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
