@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-supremo-tribunal-de-justicia-del-9703"
 country: "mx"
 rank: "reglamento"
 publication_date: "1948-12-18"
-last_updated: "1948-12-18"
+last_updated: "1952-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE ABRIL DE 1952.
 
 Reglamento publicado en el Boletín Oficial del Estado de Sonora, el sábado 18 de diciembre de 1948.
 
@@ -117,13 +117,17 @@ El turno para los asuntos de la competencia de las Salas Unitarias, se hará en 
 
 ### CAPITULO IV.. DEL PRESIDENTE
 
+> <small>(REFORMADO, B.O. 23 DE ABRIL DE 1952)</small>
+
 ###### ARTICULO 21.
 
-De conformidad con las disposiciones relativas de la Constitución Política del Estado y de la Ley Orgánica del Poder Judicial, el Supremo Tribunal de justicia tendrá un Presidente, y lo será, por turno, el Magistrado de cada Sala, comenzando por la Primer, el primer de noviembre de cada año.
+De conformidad con las disposiciones relativas de la Constitución Política del Estado y de la Ley Orgánica del Poder Judicial, el Supremo Tribunal de Justicia tendrá un Presidente, y lo será el Magistrado electo por mayoría de votos de sus miembros.
+
+> <small>(REFORMADO, B.O. 23 DE ABRIL DE 1952)</small>
 
 ###### ARTICULO 22.
 
-El Presidente durará cuatro meses en el ejercicio de sus funciones, y en sus faltas temporales y absolutas, ejercerá sus funciones, y en sus faltas temporales y absolutas, ejercerá sus funciones el Magistrado que lo substituya con arreglo a la Ley.
+El Presidente durará un año en el ejercicio de sus funciones y debera ser electo en escrutinio secreto en el pleno que se efectue el día dieciséis del mes de septiembre de cada año.
 
 ###### ARTICULO 23.
 
@@ -367,6 +371,10 @@ SEGUNDO.- Se deroga el Reglamento de fecha diez de noviembre de mil novecientos 
 
 TERCERO.- Los asuntos que estén tramitándose en Sala Colegiada y que por disposición de este Reglamento correspondan a Sala Unitaria, seguirán tramitándose hasta su terminación en la forma establecida en el Reglamento anterior.
 
+> <small>(ADICIONADO, B.O. 23 DE ABRIL DE 1952)</small>
+
+CUARTO.- Aprobadas las presentes reformas y una vez nombrados los dos Magistrados faltantes para integrar la Sala Colegiada que deberá quedar compuesta de cinco Magistrados Propietarios, inmediatamente se eligirá (sic) entre sus miembros al Presidente del Supremo Tribunal de Justicia, que desempeñará su cargo hasta el momento de designarse nuevo Presidente el dieciséis de septiembre del presente año.
+
 Sala de Acuerdos del Supremo Tribunal de Justicia del Estado.
 
 Hermosillo, Sonora, a dieciocho de diciembre de mil novecientos cuarenta y ocho.
@@ -386,3 +394,9 @@ LIC. ENRIQUE E. MICHEL.
 El Secretario Administrativo.
 
 JESUS CAMPO H.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 23 DE ABRIL DE 1952.
+
+Unico.- Esta Ley entrará en vigor a partir del día de su publicación en el Boletín Oficial del Estado.
