@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1993-01-27"
+last_updated: "1994-02-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 1994.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -53,17 +53,27 @@ I.- Cuatro tribunales colegiados en materia penal, seis tribunales colegiados en
 
 II.- SEGUNDO CIRCUITO:
 
-I.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+1.- Cuatro tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
 
 2.- Un tribunal unitario con residencia en Ciudad Nezahualcóyotl, México;
 
-3.- Juzgados Primero, Segundo y Octavo de Distrito en el Estado de México, con residencia en la ciudad de Toluca;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-4.- Juzgados Tercero, Cuarto y Noveno de Distrito en el Estado de México, con residencia en el municipio de Naucalpan de Juárez;
+3.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en la ciudad de Toluca;
 
-5.- Juzgado Quinto de Distrito en el Estado de México, con residencia en Tlalnepantla;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-6.- Juzgados Sexto y Séptimo de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
+4.- Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de México, con residencia en el Municipio de Naucalpan de Juárez;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+5.- Juzgado Séptimo de Distrito en el Estado de México, con residencia en Tlalnepantla;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+6.- Juzgados Octavo y Noveno de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -81,13 +91,21 @@ IV.- CUARTO CIRCUITO:
 
 V.- QUINTO CIRCUITO:
 
-1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Hermosillo, Sonora;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-2.- Juzgados Primero, Segundo y Tercero de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo;
+1.- Dos tribunales colegiados y tres tribunales unitarios, con residencia en la ciudad de Hermosillo, Sonora;
 
-3.- Juzgados Cuarto, Quinto y Sexto de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-4.- Juzgados Séptimo y Octavo de Distrito en el estado de Sonora, con residencia en Ciudad Obregón.
+2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Sonora, con residencia en la ciudad de Hermosillo;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+3.- Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Sonora, con residencia en la ciudad de Nogales;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+4.- Juzgados Séptimo y Octavo de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón.
 
 VI.- SEXTO CIRCUITO:
 
@@ -149,15 +167,25 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 1.- Tres tribunales colegiados y tres tribunales unitarios, con residencia en la ciudad de Mazatlán, Sinaloa;
 
-2.- Juzgados Primero y Segundo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-3.- Juzgados Tercero, Cuarto y Séptimo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis;
+2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Culiacán;
 
-4.- Juzgados Quinto, Sexto y Octavo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-5.- Juzgado de Distrito en el estado de Baja California Sur, con residencia en la ciudad de La Paz;
+3.- Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Los Mochis;
 
-6.- Juzgados Primero y Segundo de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+4.- Juzgados Séptimo, Octavo y Noveno de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+5.- Juzgado de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+6.- Juzgados Primero y Segundo de Distrito en el Estado de Nayarit, con residencia en la ciudad de Tepic.
 
 XIII.- DECIMO TERCER CIRCUITO:
 
@@ -169,31 +197,51 @@ XIII.- DECIMO TERCER CIRCUITO:
 
 XIV.- DECIMO CUARTO CIRCUITO:
 
-1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Mérida, Yucatán;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-2.- Juzgados Primero y Segundo de Distrito en el estado de Yucatán, con residencia en la ciudad de Mérida;
+1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Mérida, Yucatán;
 
-3.- Juzgado de Distrito en el estado de Quintana Roo, con residencia en la ciudad de Chetumal;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-4.- Juzgados Primero y Segundo de Distrito en el estado de Campeche, con residencia en la ciudad de Campeche.
+2.- Juzgados Primero y Segundo de Distrito en el Estado de Yucatán, con residencia en la ciudad de Mérida;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+3.- Juzgado de Distrito en el Estado de Quintana Roo, con residencia en la ciudad de Chetumal;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+4.- Juzgados Primero y Segundo de Distrito en el Estado de Campeche, con residencia en la ciudad de Campeche.
 
 XV.- DECIMO QUINTO CIRCUITO:
 
-1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Mexicali, Baja California;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-2.- Juzgados Primero, Segundo y Séptimo de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali;
+1.- Dos tribunales colegiados y tres tribunales unitarios con residencia en la ciudad de Mexicali, Baja California;
 
-3.- Juzgados Tercero, Cuarto, Quinto y Sexto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-4.- Juzgado Octavo de Distrito en el estado de Baja California, con residencia en la ciudad de Ensenada.
+2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Baja California, con residencia en la ciudad de Mexicali;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+3.- Juzgados Cuarto, Quinto, Sexto y Séptimo de Distrito en el Estado de Baja California, con residencia en la ciudad de Tijuana;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+4.- Juzgado Octavo de Distrito en el Estado de Baja California, con residencia en la ciudad de Ensenada.
 
 XVI.- DECIMO SEXTO CIRCUITO:
 
 1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Guanajuato, Guanajuato;
 
-2.- Juzgados Primero y Segundo de Distrito en el estado de Guanajuato, con residencia en la ciudad de Guanajuato;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-3.- Juzgado Tercero de Distrito en el estado de Guanajuato, con residencia en la ciudad de Léon.
+2.- Juzgados Primero y Segundo de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Guanajuato;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+3.- Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León.
 
 XVII.- DECIMO SEPTIMO CIRCUITO:
 
@@ -205,9 +253,13 @@ XVII.- DECIMO SEPTIMO CIRCUITO:
 
 XVIII.- DECIMO OCTAVO CIRCUITO:
 
-1.- Un tribunal colegiado y un tribunal unitario con residencia en la ciudad de Cuernavaca, Morelos;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-2.- Juzgados Primero, Segundo, Tercero, y Cuarto de Distrito en el estado de Morelos, con residencia en la ciudad de Cuernavaca.
+1.- Dos tribunales colegiados y un tribunal unitario con residencia en la ciudad de Cuernavaca, Morelos;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+2.- Juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el Estado de Morelos, con residencia en la ciudad de Cuernavaca.
 
 XIX.- DECIMO NOVENO CIRCUITO:
 
@@ -219,15 +271,25 @@ XIX.- DECIMO NOVENO CIRCUITO:
 
 4.- Un tribunal unitario con residencia en la ciudad de Nuevo Laredo, Tamaulipas;
 
-5.- Juzgados Primero y Décimo de Distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-6.- Juzgados Segundo y Tercero de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo;
+5.- Juzgados Primero y Segundo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria;
 
-7.- Juzgados Cuarto y Quinto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-8.- Juzgados Sexto y Séptimo de Distrito en el estado de Tamaulipas, con residencia en Ciudad Reynosa;
+6.- Juzgados Tercero y Cuarto de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo;
 
-9.- Juzgados Octavo y Noveno de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Tampico.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+7.- Juzgados Quinto y Sexto de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Matamoros;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+8.- Juzgados Séptimo y Octavo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Reynosa;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+9.- Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Tampico.
 
 XX.- VIGESIMO CIRCUITO:
 
@@ -241,11 +303,17 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Chilpancingo, Guerrero;
 
-2.- Juzgado Primero de Distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo;
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-3.- Juzgados Segundo y Tercero de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco;
+2.- Juzgado Primero de Distrito en el Estado de Guerrero, con residencia en la ciudad de Chilpancingo;
 
-4.- Juzgado Cuarto de Distrito en el estado de Guerrero, con residencia en la ciudad de Iguala.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+3.- Juzgados Segundo, Tercero y Cuarto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Acapulco;
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+4.- Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Iguala.
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
@@ -271,11 +339,17 @@ II.- Los Juzgados de Distrito en los estados de Aguascalientes, Baja California 
 
 III.- Los Juzgados Primero y Segundo de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic, además de ejercer jurisdicción en el territorio del mismo, la ejercerán en las Islas Marías;
 
-IV.- Los Juzgados Primero, Segundo y Octavo de Distrito en el Estado de México, con residencia en Toluca, ejercerán jurisdicción en los municipios de: Acambay, Temascalcingo, El Oro, Atlacomulco, Jocotitlán, San Felipe del Progreso, Ixtlahuaca, Jiquipilco, Morelos, Otzolotepec, Xonacatlán, Lerma, San Mateo Atenco, Ocoyoacac, Amatepec, Tlataya, Sultlepec, Zacualpan, Almoloya de Alquisiras, Texcaltitlán, Tejupilco, San Simón de Guerrero, Temascaltepec, Tonatico, Zumpahuacán, Malinalco, Ocuilán, Tenancingo, Villa Guerrero, Coatepec Harinas, Ixtapan de la Sal, Calimaya, Mexicalcingo, Chapultepec, San Antonio la Isla, Atizapán, Almoloya del Río, Rayón, Jalatlaco, Capulhuac, Tianguistengo, Tenango del Valle, Joquicingo, Texcalyacac, Villa Victoria, Almoloya de Juárez, Metepec, Zinacatepec, Temoaya, Toluca, Villa de Allende, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Zacazonapan, Valle de Bravo y Amanalco;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-V.- Los Juzgados Tercero, Cuarto y Noveno de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, y el Quinto con sede en Tlalnepantla, en el propio estado, ejercerán jurisdicción en los municipios de: Huehuetoca, Coyotepec, Teoloyucan, Melchor Ocampo, Tultepec, Tultitlán, Cuautitlán, Tepotzotlán, Cuautitlán Izcalli, Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco, Polotitlán, Nicolás Romero, Atizapán de Zaragoza, Tlalnepantla de Baz, Coacalco, Ecatepec, Naucalpan de Juárez, Huixquilucan, Jilotzingo, Isidro Fabela, Apaxco, Hueypoxtla, Tequixquiac, Zumpango, Jaltenco y Nextlalpan;
+IV.- Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en Toluca, ejercerán jurisdicción en los municipios de: Acambay, Temascalcingo, El Oro, Atlacomulco, Jocotitlán, San Felipe del Progreso, Ixtlahuaca, Jiquipilco, Morelos, Otzolotepec, Xonacatlán, Lerma, San Mateo Atenco, Ocoyoacac, Amatepec, Tlataya, Sultepec, Zacualpan, Almoloya de Alquisiras, Texcaltitlán, Tejupilco, San Simón de Guerrero, Temascaltepec, Tonatico, Zumpahuacán, Malinalco, Ocuilán, Tenancingo, Villa Guerrero, Coatepec Harinas, Ixtapan de la Sal, Calimaya, Mexicalcingo, Chapultepec, San Antonio la Isla, Atizapán, Almoloya del Río, Rayón, Jalatlaco, Capulhuac, Tianguistengo, Tenango del Valle, Joquicingo, Texcalyacac, Villa Victoria, Almoloya de Juárez, Metepec, Zinacatepec, Temoaya, Toluca, Villa de Allende, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Zacazonapan, Valle de Bravo y Amanalco;
 
-VI.- Los Juzgados Sexto y Séptimo de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl, ejercerán jurisdicción en los municipios de: Ixtapaluca, Tlalmanalco, Amecameca, Atlautla, Ecatzingo, Ozumba, Tepetlixpa, Juchitepec, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Otumba, Axapusco, Nopaltepec, Temascalapa, Tecámac, San Martín de las Pirámides, Teotihuacán, Tepetlaoxtoc, Papalotla, Tezcoco, Chicoloapan, La Paz, Chimalhuacán, Nezahualcóyotl, Atenco, Chiconcuac, Chiautla, Tezoyuca y Acolman;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+V.- Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, y el Séptimo con sede en Tlalnepantla, en el propio estado, ejercerán jurisdicción en los municipios de: Huehuetoca, Coyotepec, Teoloyucan, Melchor Ocampo, Tultepec, Tultitlán, Cuautitlán, Tepotzotlán, Cuautitlán Izcalli, Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco, Polotitlán, Nicolás Romero, Atizapán de Zaragoza, Tlalnepantla de Baz, Coacalco, Ecatepec, Naucalpan de Juárez, Huixquilucan, Jilotzingo, Isidro Fabela, Apaxco, Hueypoxtla, Tequixquiac, Zumpango, Jaltenco y Nextlalpan;
+
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+VI.- Los Juzgados Octavo y Noveno de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl, ejercerán jurisdicción en los municipios de: Ixtapaluca, Tlalmanalco, Amecameca, Atlautla, Ecatzingo, Ozumba, Tepetlixpa, Juchitepec, Tenango del Aire, Temamatla, Cocotitlán, Chalco, Otumba, Axapusco, Nopaltepec, Temascalapa, Tecámac, San Martín de las Piramides, Teotihuacán, Tepetlaoxtoc, Papalotla, Texcoco, Chicoloapan, La Paz, Chimalhuacán, Nezahualcóyotl, Atenco, Chiconcuac, Chiautla, Tezoyuca y Acolman;
 
 VII.- Los Juzgados Primero, Segundo y Tercero de Distrito en el estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción en el territorio que sigue;
 
@@ -335,39 +409,61 @@ XIX.- Los Juzgados Primero, Segundo y Tercero de Distrito en el estado de Michoa
 
 XX.- Los Juzgados Cuarto y Quinto de Distrito en el estado de Michoacán, con residencia en la ciudad de Uruapan, ejercerán jurisdicción en los municipios de Uruapan, Charapan, Gabriel Zamora, Nahuatzen, Paracho, Nuevo Parangaricutiro, Tancítaro, Taretan, Tingambato, Ziracuaretiro, Apatzingán, Aguililla, Buenavista, Múgica, Parácuaro, Tepalcatepec, Arteaga, Tumbiscatío, Coahuayana, Aquila, Coalcomán de Vázquez Pallares, Chinicuila, Lázaro Cárdenas, Tanhuato, Vista Hermosa, Yurécuaro, Zamora, Cherán, Chilchota, Ecuandureo, Ixtlán, Jacona, Purépero, Tangamandapio y Tangancícuaro;
 
-XXI.- Los Juzgados Primero y Segundo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán, ejercerán jurisdicción en el municipio del mismo nombre, y en el de Navolato;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-XXII.- Los Juzgados Tercero, Cuarto y Séptimo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerán jurisdicción en el territorio que comprende los municipios de Ahome, El Fuerte, Choix, Sinaloa de Leyva, Guasave, Angostura, Salvador Alvarado, Mocorito y Badiraguato;
+XXI.- Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Culiacán, ejercerán jurisdicción en el municipio del mismo nombre, y en el de Navolato;
 
-XXIII.- Los Juzgados Quinto, Sexto y Octavo de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción en el territorio que comprende los municipios de Mazatlán, Cosalá, Elota, San Ignacio, Concordia, El Rosario y Escuinapa;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XXII.- Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerán jurisdicción en el territorio que comprende los municipios de Ahome, El Fuerte, Choix, Sinaloa de Leyva, Guasave, Angostura, Salvador Alvarado, Mocorito y Badiraguato;
+
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XXIII.- Los Juzgados Séptimo, Octavo y Noveno de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción en el territorio que comprende los municipios de Mazatlán, Cosalá, Elota, San Ignacio, Concordia, El Rosario y Escuinapa;
 
 XXIV.- Los Juzgados Primero, Segundo, Tercero, Cuarto y Quinto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca, ejercerán jurisdicción en el territorio del estado, excepto en los municipios del Distrito de Tehuantepec: 1.- Guevea de Humboldt, 2.- Magdalena Tequisistlán, 3.- Magdalena Tlacotepec, 4.- Salina Cruz, 5.- San Blas Atempa, 6.- San Matero del Mar, 7.- San Miguel Tenango, 8.- San Pedro Comitancillo, 9.- San Pedro Huamelula, 10.- San Pedro Huilotepec, 11.- Santa María Guienagati, 12.- Santa María Jalapa del Marquéz, 13.- Santa María Mixtequilla, 14.- Santa María Totolapilla, 15.- Santiago Astata, 16.- Santiago Lachiguiri, 17.- Santiago Laollaga, 18.- Santo Domingo Chihuitán, 19.- Santo Domingo Tehuantepec; del Distrito de Juchitán, 20.- Asunción Ixtaltepec, 21.- Ciudad Ixtepec, 22.- Chahuites, 23.- El Barrio de la Soledad, 24.- El Espinal, 25.- Juchitán de Zaragoza, 26.- Matías Romero, 27.- Reforma de Pineda, 28.- San Dionisio del Mar, 29.- San Francisco del Mar, 30.- San Francisco Ixhuatán, 31.- San Juan Guichicovi, 32.- San Miguel Chimalapa, 33.- San Pedro Tapanatepec, 34.- Santa María Chimalapa, 35.- Santa María Petapa, 36.- Santa María Xadani, 37.- Santiago Miltepec, 38.- Santo Domingo Ingenio, 39.- Santo Domingo Petapa, 40.- Santo Domingo Zanatepec, 41.- Unión Hidalgo; y del Distrito de Tuxtepec: 42.- Acatlán de Pérez Figueroa, 43.- Ayotzintepec, 44.- Cosolapa, 45.- Loma Bonita, 46.- Nuevo Soyaltepec, 47.- San Felipe Jalapa de Díaz, 48.- San Felipe Usila, 49.- San José Chiltepec, 50.- San José Independencia, 51.- San Juan Bautista Tuxtepec, 52.- San Juan Bautista Valle Nacional, 53.- San Lucas Ojitlán, 54.- San Pedro Ixcatlán, 55.- Santa María Jacatepec;
 
 XXV.- Los Juzgados Sexto y Séptimo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz, ejercerán jurisdicción en los municipios mencionados en la fracción XXIV;
 
-XXVI.- Los Juzgados Primero, Segundo y Séptimo de Distrito en el estado de Baja California, con residencia en la ciudad de Mexicali, ejercerán jurisdicción en el municipio de ese mismo nombre, del estado de Baja California, y en el de San Luis Río Colorado y en la comisaría Luis B. Sánchez del estado de Sonora;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-XXVII.- Los Juzgados Tercero, Cuarto, Quinto y Sexto de Distrito en el estado de Baja California, con residencia en la ciudad de Tijuana, ejercerán jurisdicción en el municipio del mismo nombre, y en el de Tecate, del estado de Baja California;
+XXVI.- Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Baja California, con residencia en la ciudad de Mexicali, ejercerán jurisdicción en el municipio de ese mismo nombre, del Estado de Baja California, y en el de San Luis Río Colorado y en la Comisaría Luis B. Sánchez del Estado de Sonora;
+
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XXVII.- Los Juzgados Cuarto, Quinto, Sexto y Séptimo de Distrito en el Estado de Baja California, con residencia en la ciudad de Tijuana, ejercerán jurisdicción en el municipio del mismo nombre, y en el de Tecate, del Estado de Baja California;
 
 XXVII Bis.- El Juzgado octavo de distrito en el estado de Baja California, con residencia en la ciudad de Ensenada, ejercerá jurisdicción en el municipio del mismo nombre;
 
 XXVIII.- Los Juzgados Primero y Segundo de Distrito en el estado de Guanajuato, con residencia en la ciudad de Guanajuato, ejercerán jurisdicción en el territorio del estado, excepto en los municipios de León, ciudad Manuel Doblado, San Francisco del Rincón, Purísima de Bustos, San Felipe y Ocampo;
 
-XXIX.- El Juzgado Tercero de Distrito en el estado de Guanajuato, con residencia en la ciudad de León, ejercerá jurisdicción en los municipios mencionados en la fracción XXVIII;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerán jurisdicción en los municipios mencionados en la fracción XXVIII;
 
 XXX.- Los Juzgados Primero, Segundo y Tercero de Distrito en el estado de Chihuahua, con residencia en la ciudad de Chihuahua, ejercerán jurisdicción en los municipios de Chihuahua, Aldama, Allende, Aquiles Serdán, Bachíniva, Balleza, Batopilas, Bocoyna, Camargo, Caprichi, Coronado, Coyame, Cuauhtémoc, Cosihuiriachi, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, General Trías, Gómez Farías, Gran Morelos, Guadalupe y Calvo, Guachochi, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Satevó, Saucillo, Temósachi, Urique, Uruachi, Valle Zaragoza;
 
 XXXI.- Los Juzgados Cuarto, Quinto y Sexto de Distrito en el estado de Chihuahua, con residencia en Ciudad Juárez, ejercerán jurisdicción en los municipios de Juárez, Ahumada, Ascención, Buenaventura, Casas Grandes, Galeana, Guadalupe Distrito Bravos, Ignacio Zaragoza, Janos, Nuevo Casas Grandes, Praxedis G. Guerrero;
 
-XXXII.- Los Juzgados Primero y Décimo de Distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción en los municipios de Victoria, Güemes, Padilla, Villagrán, Casas, Hidalgo, Llera, Jiménez, Mainero, Mante, Antiguo Morelos, Nuevo Morelos, Xicoténcatl, Gómez Farías, Ocampo, Tula, Palmillas, Bustamante, Miquihuana, Jaumave, San Carlos, San Nicolás, Soto La Marina y Abasolo;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-XXXIII.- Los Juzgados Segundo y Tercero de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo, ejercerán jurisdicción en el municipio de Nuevo Laredo;
+XXXII.- Los Juzgados Primero y Segundo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción en los municipios de Victoria, Güemes, Padilla, Villagrán, Casas, Hidalgo, Llera, Jiménez, Mainero, Mante, Antiguo Morelos, Nuevo Morelos, Xicoténcatl, Gómez Farías, Ocampo, Tula, Palmillas, Bustamante, Miquihuana, Jaumave, San Carlos, San Nicolás, Soto La Marina y Abasolo;
 
-XXXIV.- Los Juzgados Cuarto y Quinto de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros, ejercerán jurisdicción en los municipios de Matamoros, Valle Hermoso, San Fernando, Méndez, Burgos y Cruillas;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-XXXV.- Los Juzgados Sexto y Séptimo de Distrito en el estado de Tamaulipas, con residencia en Ciudad Reynosa, ejercerán jurisdicción en los municipios de Reynosa, Río Bravo, Gustavo Díaz Ordaz, Camargo, Miguel Alemán, Mier y Guerrero;
+XXXIII.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo, ejercerán jurisdicción en el municipio de Nuevo Laredo;
 
-XXXVI.- Los Juzgados Octavo y Noveno de Distrito en el estado de Tamaulipas, con residencia en la ciudad de Tampico, ejercerán jurisdicción en los municipios de Tampico, Ciudad Madero, Altamira, González y Aldama;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XXXIV.- Los Juzgados Quinto y Sexto de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Matamoros, ejercerán jurisdicción en los municipios de Matamoros, Valle Hermoso, San Fernando, Méndez, Burgos y Cruillás;
+
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XXXV.- Los Juzgados Séptimo y Octavo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Reynosa, ejercerán jurisdicción en los municipios de Reynosa, Río Bravo, Gustavo Díaz Ordaz, Camargo, Miguel Alemán, Mier y Guerrero;
+
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XXXVI.- Los Juzgados Noveno y Décimo de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Tampico, ejercerán jurisdicción en los municipios de Tampico, Ciudad Madero, Altamira, González y Aldama;
 
 XXXVII.- Los Juzgados Primero y Segundo de Distrito en el estado de Chiapas, con residencia en la ciudad de Tuxtla Gutiérrez, ejercerán jurisdicción en el territorio que comprende los distritos judiciales locales de: Alvaro Obregón, Catazajá, Cintalapa, Chiapa, Comitán, Las Casas, La Libertad, Mezcalapa, Pichucalco, Salto de Agua, Simojovel, Tuxtla Villaflores y Yajalón, del estado de Chiapas;
 
@@ -375,9 +471,13 @@ XXXVIII.- Los Juzgados Tercero y Cuarto de Distrito en el estado de Chiapas, con
 
 XXXIX.- El Juzgado Primero de Distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo de Los Bravo, ejercerá jurisdicción en los municipios de: Ahuacuotzingo, Ajuchitlán del Progreso, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monge, Atlixtac, Copanatoyac, Coyuca de Catalán, Cualac, Chilapa de Alvarez, Chilpancingo de Los Bravo, General Heliodoro Castillo, Leonardo Bravo, Malinaltepec, Metlatonoc, Mochitlán Olinalá, Quechultenango, San Marcos, San Miguel Totolapan, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatlahuac, Xochihuehuetlán, Zapotitlán Tablas, Zirándaro y Zitlala;
 
-XL.- Los Juzgados Segundo y Tercero de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco, ejercerán jurisdicción en los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de Guerrero, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, Ometepec, Petatlán, San Luis Acatlán, Tecoanapa, Tecpan de Galeana, Tepecoacuilco de Trujano, Tlacoachistlahuaca, La Unión y Xochistlahuaca;
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
 
-XL Bis.- El Juzgado Cuarto de Distrito en el estado de Guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción en el territorio del estado, excepto en los municipios comprendidos en las fracciones XXXIX y XL.
+XL.- Los Juzgados Segundo, Tercero y Cuarto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Acapulco, ejercerán jurisdicción en los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de Guerrero, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, Ometepec, Petatlán, San Luis Acatlán, Tecoanapa, Tecpan de Galeana, Tepecoacuilco de Trujano, Tlacoachistlahuaca, La Unión y Xochistlahuaca;
+
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 25 DE FEBRERO DE 1994)</small>
+
+XL Bis.- El Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción en el territorio del Estado, excepto en los municipios comprendidos en las fracciones XXXIX y XL.
 
 CUARTO.- Los treinta juzgados de Distrito con residencia en el Distrito Federal serán especializados: doce en materia penal, diez en materia administrativa, seis en materia civil y dos en materia de trabajo.
 
@@ -398,3 +498,17 @@ Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la
 CERTIFICA:
 
 Que este acuerdo 1/1993, para actualizar el diverso 1/88, fue emitido por el Tribunal Pleno en sesión privada de trece de enero de mil novecientos noventa y tres, por unanimidad de diecisiete votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, José Trinidad Lanz Cárdenas, Miguel Montes García, José Antonio Llanos Duarte, Victoria Adato Green, Samuel Alba Leyva, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Mariano Azuela Güitrón, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez. México, Distrito Federal, a trece de enero de mil novecientos noventa y tres.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE FEBRERO DE 1994.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Los nuevos tribunales colegiados y unitarios de Circuito y Juzgados de Distrito iniciarán su funcionamiento en las fechas que, de conformidad con las circunstancias específicas de cada caso, determine oportunamente este Tribunal Pleno.
+
+TERCERO.- La nueva numeración ordinal de los órganos jurisdiccionales señalados en los puntos Segundo y Tercero de este Acuerdo, así como la jurisdicción territorial que les corresponde a cada uno de ellos, entrará en vigor cuando lo determine el Tribunal Pleno de esta Suprema Corte de Justicia.
+
+CUARTO.- La Comisión de Gobierno y Administración y los ministros Inspectores de los tribunales de Circuito y de los juzgados de Distrito comprendidos en este Acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país para su cumplimiento.
