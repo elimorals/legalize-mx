@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1992-del-tribunal-pleno-de-la-suprema-63965"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1992-03-16"
-last_updated: "1992-06-08"
+last_updated: "1992-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63965&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1992-03-10"
 
 ACUERDO No. 1/1992 DEL TRIBUNAL EN PLENO DEL DIA DIEZ DE MARZO DE MIL NOVECIENTOS NOVENTA Y DOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 1992.
+
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 16 de marzo de 1992.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
 
@@ -71,99 +73,169 @@ OCTAVO.- Los Tribunales Colegiados Primero y Segundo y el tribunal unitario del 
 
 NOVENO.- Se reforman, modifican y adicionan los puntos Primero y Segundo, fracciones I, III, VII, X, XII, XIII y XIX, apartados 1; 2 y 3; 1; 1; 6; 3; 1, 2, 3, 4, 5 y 6, del Acuerdo 1/88, actualizado por el diverso 2/1991, de nueve de abril de mil novecientos noventa y uno, emitido por el Tribunal en Pleno, para quedar como sigue:
 
-"PRIMERO.- El territorio de la República se divide en veintitrés Circuitos”.
+"PRIMERO.- El territorio de la República se divide en veintitrés Circuitos."
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO NO. 4/1992 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 13 DE NOVIEMBRE DE 1992)</small>
 
 "SEGUNDO.- ..."
 
-"I.- ...
+"II.- ...
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NO. 2/1992 DEL TRIBUNAL EN PLENO DEL DIA DOS DE JUNIO DE MIL NOVECIENTOS NOVENTA Y DOS, D.O.F. 8 DE JUNIO DE 1992)</small>
+1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
 
-1.- Cuatro tribunales colegiados en materia penal, seis tribunales colegiados en materia administrativa, nueve tribunales colegiados en materia de trabajo y cuatro tribunales unitarios, con residencia en la ciudad de México;
+2.- Un tribunal unitario con residencia en Ciudad Nezahualcóyotl, México;
 
-2.- ...”
+3.- Juzgados primero, segundo y octavo de distrito en el Estado de México, con residencia en la ciudad de Toluca;
 
-"III.- ...
+4.- Juzgados tercero, cuarto y noveno de distrito en el Estado de México, con residencia en el municipio de Naucalpan de Juárez;
 
-1.- ...
+5.- Juzgado quinto de distrito en el Estado de México, con residencia en Tlalnepantla;
 
-2.- Catorce juzgados de Distrito en el estado de Jalisco, con residencia en la ciudad de Guadalajara;
+6.- Juzgado sexto y séptimo de distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
 
-3.- Juzgados Primero y Segundo de Distrito en el estado de Colima, con residencia en la ciudad de Colima."
+"V.- ...
+
+1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Hermosillo, Sonora;
+
+2.- Juzgados primero, segundo y tercero de distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo;
+
+3.- Juzgados cuarto, quinto y sexto de distrito en el estado de Sonora, con residencia en la ciudad de Nogales;
+
+4.- Juzgados séptimo y octavo de distrito en el estado de Sonora, con residencia en Ciudad Obregón".
+
+"VI.- ...
+
+1.- Cuatro tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Puebla, Puebla;
+
+2.- Cinco juzgados de distrito en el estado de Puebla, con residencia en la ciudad de Puebla;
+
+3.- Juzgado de distrito en el estado de Tlaxcala, con residencia en la ciudad de Tlaxcala".
 
 "VII.- ...
 
-1.- Dos tribunales colegiados en materia administrativa y de trabajo, y dos tribunales unitarios, con residencia en la ciudad de Veracruz, Veracruz;
+1.- Un tribunal colegiado en materias administrativa y de trabajo, un tribunal colegiado en materia penal, y dos tribunales unitarios con residencia en la ciudad de Veracruz, Veracruz;
 
-2.- Un tribunal colegiado en materia penal y un tribunal colegiado en materia civil, con residencia en la ciudad de Xalapa, Veracruz;
+2.- Dos tribunales colegiados en materia civil, con residencia en la ciudad de Xalapa, Veracruz;
 
-3.- ...
+3.- Juzgado primero de distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa;
 
-4.- ...
+4.- Juzgados segundo, tercero y cuarto de distrito en el estado de Veracruz, con residencia en la ciudad de Veracruz;
 
-5.- ..."
+5.- Juzgados quinto y sexto de distrito en estado de Veracruz, con residencia en la ciudad de Tuxpan".
 
 "X.- ...
 
 1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Villahermosa, Tabasco;
 
-2.- ...
+2.- Juzgados primero, segundo y tercero de distrito en el estado de Tabasco, con residencia en la ciudad de Villahermosa;
 
-3.- ..."
+3.- Juzgado séptimo de distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos".
 
 "XII.- ...
 
-1.- ...
+1.- Tres tribunales colegiados y tres tribunales unitarios, con residencia en la ciudad de Mazatlán, Sinaloa;
 
-2.- ...
+2.- Juzgados primero y segundo de distrito en el estado de Sinaloa, con residencia en la ciudad de Culiacán;
 
-3.- ...
+3.- Juzgados tercero, cuarto y séptimo de distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis;
 
-4.- ...
+4.- Juzgados quinto, sexto y octavo de distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán;
 
-5.- ...
+5.- Juzgado de distrito en el estado de Baja California Sur, con residencia en la ciudad de La Paz;
 
-6.- Juzgados Primero y Segundo de Distrito en el estado de Nayarit, con residencia en la ciudad de Tepic".
+6.- Juzgados primero y segundo de distrito en el estado de Nayarit, con residencia en la ciudad de Tepic".
 
-"XIII.- …
+"XV.- ...
 
-1.- ...
+1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Mexicali, Baja California;
 
-2.- ...
+2.- Juzgados primero, segundo y séptimo de distrito en el estado de Baja California, con residencia en la ciudad de Mexicali;
 
-3.- Juzgados Sexto y Séptimo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz".
+3.- Juzgados tercero, cuarto, quinto y sexto de distrito en el estado de Baja California, con residencia en la ciudad de Tijuana;
+
+4.- Juzgado octavo de distrito en el estado de Baja California, con residencia en la ciudad de Ensenada".
 
 "XIX.- ...
 
-1.- Dos tribunales colegiados y un tribunal unitario, con residencia en Ciudad Victoria, Tamaulipas;
+1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en Ciudad Victoria, Tamaulipas;
 
-2.- Un tribunal unitario con residencia en la ciudad de Nuevo Laredo, Tamaulipas;
+2.- Un tribunal unitario con residencia en la ciudad de Matamoros, Tamaulipas;
 
-3.- Un tribunal unitario con residencia en la ciudad de Matamoros, Tamaulipas;
+3.- Un tribunal unitario con residencia en Ciudad Reynosa, Tamaulipas;
 
-4.- Un tribunal unitario con residencia en Ciudad Reynosa, Tamaulipas;
+4.- Un tribunal unitario con residencia en la ciudad de Nuevo Laredo, Tamaulipas;
 
-5.- ...
+5.- Juzgados primero y décimo de distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria;
 
-6.- ...
+6.- Juzgados segundo y tercero de distrito en el estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo;
 
-7.- ...
+7.- Juzgados cuarto y quinto de distrito en el estado de Tamaulipas, con residencia en la ciudad de Matamoros;
 
-8.- ...
+8.- Juzgados sexto y séptimo de distrito en el estado de Tamaulipas, con residencia en la ciudad de Reynosa;
 
-9.- ...
+9.- Juzgados octavo y noveno de distrito en el estado de Tamaulipas, con residencia en la cuidad de Tampico".
 
-"XXIII.- VIGESIMO TERCER CIRCUITO:
+"XXI.- ...
+
+1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Chilpancingo, Guerrero;
+
+2.- Juzgado primero de distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo;
+
+3.- Juzgados segundo y tercero de distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco;
+
+4.- Juzgado cuarto de distrito en el estado de Guerrero, con residencia en la ciudad de Iguala".
+
+"XXIII.- ...
 
 1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Zacatecas, Zacatecas;
 
-2.- Juzgados Primero y Segundo de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas;
+2.- Juzgados primero y segundo de distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas;
 
-3.- Juzgado de Distrito en el estado de Aguascalientes, con residencia en la ciudad de Aguascalientes".
+3.- Juzgados primero y segundo de distrito del estado de Aguascalientes, con residencia en la ciudad de Aguascalientes".
 
 DECIMO.- Se modifican y adicionan los puntos Tercero, fracción XXV, y Quinto del Acuerdo Plenario 1/88, actualizado por el diverso 2/1991, de nueve de abril de mil novecientos noventa y uno, para quedar como sigue:
 
-"TERCERO.- ..." XXV.- Los Juzgados Sexto y Séptimo de Distrito en el estado de Oaxaca, con residencia en la ciudad de Salina Cruz, ejercerán jurisdicción en los municipios mencionados en la fracción XXIV;"
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO 4/1992 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 13 DE NOVIEMBRE DE 1992)</small>
+
+"TERCERO.- ...
+
+IV.- Los juzgados primero, segundo y octavo de distrito en el Estado de México, con residencia en Toluca, ejercerán jurisdicción en los municipios de: Acambay, Tamascalcingo, El Oro, Atlacomulco, Jocotitlán, San Felipe del Progreso, Ixtlahuaca, Jiquipilco, Morelos, Otzolotepec, Xonacatlán, Lerma, San Mateo Atenco, Ocoyoacac, Amatepec, Tlataya, Sultepec, Zacualpan, Almoloya de Alquisiras, Texcaltitlán, Tejupilco, San Simón de Guerrero, Temascaltepec, Tonatico, Zumpahuacán, Malinalco, Ocuilán, Tenancingo, Villa Guerrero, Coatepec Harinas, Ixtapan de la Sal, Calimaya, Mexicalcingo, Chapultepec, San Antonio la Isla, Atizapán, Almoloya del Río, Rayón, Jalatlaco, Capulhuac, Tianguistengo, Tenango del Valle, Joquicingo, Texcalyacac, Villa Victoria, Almoloya de Juárez, Metepec, Zinancatepec, Temoaya, Toluca, Villa de Allende, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Zacazonapan, Valle de Bravo y Amanalco;"
+
+"V.- Los juzgados tercero, cuarto y noveno de distrito en el Estado de México, con residencia en Naucalpan de Juárez, y el quinto con sede en Tlalnepantla, en el propio estado, ejercerán jurisdicción en los municipios de: Huhuetoca, Coyotepec, Teoloyucan, Melchor Ocampo, Tultepec, Tultitlán, Cuautitlán, Tepotzotlan, Cuautitlán Izcalli, Villa del Carbón, Chapa de Mota, Timilpan, Jilotepec, Soyaniquilpan de Juárez, Aculco, Polotitlán, Nicolás Romero, Atizapán de Zaragoza, Tlalnepantla de Baz, Coacalco, Ecatepec, Naucalpan de Juárez, Huixquilucan, Jilotzingo, Isidro Fabela, Apaxco, Hueypoxtla, Tequixquiac, Zumpango, Jaltengo y Nextlalpan;"
+
+"IX.- Los juzgados séptimo y octavo del distrito en el estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción en el territorio que sigue:
+
+1.- Distrito de Cajeme, que comprende las siguientes municipalidades: Cajeme, con las comisarías de Cócorit, Esperanza, Providencia y pueblo Yaqui; Bacum y Rosario, con las comisarías de Cedros, Nuri, La Dura, Movas; las comisarías de Vícam, Pótam, Torin y San Ignacio Río muerto de la municipalidad de Guaymas. Cabecera: Ciudad Obregón;
+
+2.- Distrito de Alamos, que comprende la municipalidad de Alamos, con las comisarías de Tapizuelas, Basiroa, Geracoa, Minas Nuevas, Los Tanques, Macoyahui, San Bernardo, Los Camotes, Maquipo, Potrero de Reuter, Potrero de Alcántar, El Limón, El Cupis, La Laborcita, Conicárit, Los Muertos, Cochibampo, El Chinal, Palos Chinos, Guirocoba y El Tábelo. Cabecera: Alamos;
+
+3.- Distrito de Huatabampo, que comprende las siguientes municipalidades: Huatabampo, con las comisarías de Citavaro, La Galera, Júrape, Etchoropo, Yavaros, Moroncarit y Agiabampo; y Etchojoa, con las comisarías de La Villa, Basconcobe, Bacobampo, Chucarit, San Pedro y Villa Juárez. Cabecera: Huatabampo;
+
+4.- Distrito de Navajoa, que comprende las siguientes municipalidades: Navajoa, con las comisarías de Rosales, Tesia, Camoa, San Ignacio, Bacabachi, Fundición y Masiaca; y Quiriego, con la comisaría de Batacosa. Cabecera: Navojoa";
+
+"XI.- Los juzgados segundo, tercero y cuarto de distrito en el estado de Veracruz, con residencia en la ciudad de Veracruz, ejercerán jurisdicción en el territorio del estado, excepto en los distritos judiciales locales comprendidos en las fracciones X, XII y XIII";
+
+"XII.- El juzgado séptimo de distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción en los municipios de: Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jaltipan, Moloacán, Oteapan, Pajapan, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Acuyacan, Minatitlán y Texistepec";
+
+"XXII.- Los juzgados tercero, cuarto y séptimo de distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerán jurisdicción en el territorio que comprende los municipios de Ahome, El Fuerte, Choix, Sinaloa de Leyva, Guasave, Angostura, Salvador Alvarado, Mocorito y Badiraguato";
+
+"XXIII.- Los juzgados quinto, sexto y octavo de distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción en el territorio que comprende los municipios de Mazatlán, Cosalá, Elota, San Ignacio, Concordia, El Rosario y Escuinapa;
+
+"XXVI.- Los juzgados primero, segundo y séptimo de distrito en el estado de Baja California, con residencia en la ciudad de Mexicali, ejercerán jurisdicción en el municipio de ese mismo nombre, del estado de Baja California, y en el de San Luis Río Colorado y en la comisaría Luis B. Sánchez, del estado de Sonora";
+
+"XXVII.- Los juzgados tercero, cuarto, quinto y sexto de distrito en el estado de Baja California, con residencia en la ciudad de Tijuana, ejercerán jurisdicción en el municipio del mismo nombre, en el de Tecate, del estado de Baja California;
+
+"XXVII Bis.- El juzgado octavo del distrito en el estado de Baja California, con residencia en la ciudad de Ensenada ejercerá jurisdicción en el municipio del mismo nombre";
+
+"XXXIII.- Los juzgados primero y décimo de distrito en el estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerá jurisdicción en los municipios de Victoria, Güemes, Padiulla, Villagrán, Casas, Hidalgo, Llera, Jiménez, Mainero, Mante, Antiguo Morelos, Nuevo Morelos, Xicoténcatl, Gómez Farías, Ocampo, Tula, Palmillas, Bustamante, Miquihuana, Jaumave, San Carlos, San Nicolás, Soto La Marina y Abasolo";
+
+"XXXVI.- Los juzgados octavo y noveno de distrito en el estado de Tamaulipas, con residencia en la ciudad de Tampico, ejercerán jurisdicción en los municipios de Tampico, Ciudad Madero, Altamira, González y Aldama";
+
+"XXXIX.- El juzgado primero de distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo de los Bravo, ejercerá jurisdicción en los municipios de: Ahuacuotzingo, Ajuchitlán del Progreso, Alcozuaca de Guerrero, Alpoyeca, Atlamajalcingo del Monge, Atlixtac, Copanatoyac, Coyuca de Catalán, Cualac, Chilapa de Alvarez, Chilpancingo de los Bravo, General Heliodoro Castillo, Leonardo Bravo, Malinaltepec, Metlatonoc, Mochitlán, Olinala, Quechultenango, San Marcos, San Miguel Totolapan, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatlahuac, Xochihuehuetlán, Zapotitlán Tablas, Zirándaro, Zitlala";
+
+"XL.- Los juzgados segundo y tercero de distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco, ejercerán jurisdicción en los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de Guerrero, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, Ometepec, Petatlán, San Luis Acatlán, Tecoanapa, Tecpan de Galeana, Tepecoacuilco de Trujano, Tlacoachistlahuaca, La Unión y Xochistlahuaca";
+
+"XL Bis.- El juzgado cuarto de distrito en el estado de guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción en el territorio del estado, excepto en los municipios comprendidos en la fracciones XXXIX y XL";
 
 "QUINTO.- Los catorce juzgados de Distrito en el estado de Jalisco serán especializados: nueve en materia penal, tres en materia administrativa y dos en materia civil."
 
@@ -194,3 +266,13 @@ SEGUNDO.- El nuevo Cuarto Tribunal Colegiado en materia penal, iniciará su func
 TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
 
 CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país, para su cumplimiento.
+
+D.O.F. 13 DE NOVIEMBRE DE 1992.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Los nuevos tribunales colegiados y unitarios de circuito y juzgados de distrito iniciarán su funcionamiento en las fechas que, de conformidad con las circunstancias específicas de cada caso, determine la Comisión de Gobierno y Administración.
+
+TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de circuito y de los juzgados de distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el semanario judicial de la Federación, y hágase del conocimiento de todos los tribunales de circuito y juzgados de distrito del país, para su cumplimiento.
