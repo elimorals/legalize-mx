@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1960-12-29"
+last_updated: "1961-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 1961 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1960.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 7 DE ENERO DE 1961.</small>
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -244,8 +244,6 @@ La correspondencia que bajo cubierta circule por las estafetas, estará libre de
 
 En tiempo de paz, ningún miembro del Ejército podrá alojarse en casa particular, contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra, los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE ENERO DE 1961 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1934)</small>
 
 ###### Art. 27.
@@ -268,9 +266,9 @@ Son propiedad de la Nación las aguas de los mares territoriales en la extensió
 
 En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible y la explotación, el uso o el aprovechamiento de los recursos de que se trata, por los particulares o por sociedades constituídas conforme a las leyes mexicanas, no podrá realizarse sino mediante concesiones, otorgadas por el Ejecutivo Federal, de acuerdo con las reglas y condiciones que establezcan las leyes. Las normas legales relativas a obras o trabajos de explotación de los minerales y substancias a que se refiere el párrafo cuarto; regularán la ejecución y comprobación de los que se efectúen o deban efectuarse a partir de su vigencia, independientemente de la fecha de otorgamiento de las concesiones y su inobservancia dará lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad de establecer reservas nacionales y suprimirlas. Las declaratorias correspondientes se harán por el Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose del petróleo y de los carburos de hidrógeno sólido, líquidos o gaseosos, no se otorgarán concesiones ni contratos, ni subsistirán los que se hayan otorgado y la nación llevará a cabo la explotación de esos productos, en los términos que señale la ley reglamentaria respectiva.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1960)</small>
+(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1960) (F. DE E., D.O.F. 7 DE ENERO DE 1961)
 
-Corresponde exclusivamente a la Nación general, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
+Corresponde exclusivamente a la Nación, generar, conducir, transformar, distribuir y abastecer energía eléctrica que tenga por objeto la prestación de servicio público. En esta materia no se otorgarán concesiones a los particulares y la Nación aprovechará los bienes y recursos naturales que se requieran para dichos fines.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1960)</small>
 
