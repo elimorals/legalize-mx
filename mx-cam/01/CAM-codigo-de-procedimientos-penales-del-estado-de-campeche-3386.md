@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1999-06-04"
+last_updated: "1999-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -903,9 +903,9 @@ IX.- Secuestro previsto en el artículo 331, exceptuándose las modalidades prev
 
 X.- Robo previsto en la fracción IV del artículo 335, cuando se realice en la circunstancia señalada en el artículo 337, y en el artículo 347 todos del Código Penal;
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1999)</small>
 
-X Bis.- Abigeato previsto en los artículos 349, 350, 351, 352, 353, 354 y 355 del Código Penal del Estado;
+X Bis.- Abigeato previsto en los artículos 349 y 350, cuando las sanciones aplicables correspondan a las previstas en los segundos párrafos de las fracciones I, II y III del mencionado artículo 349; 352, 353 y 354, en los casos de reincidencia; y 351 y 355 del Código Penal del Estado;
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1996)</small>
 
@@ -3346,3 +3346,9 @@ P.O. 4 DE JUNIO DE 1999.
 Primero.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 1999.
+
+Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo: Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
