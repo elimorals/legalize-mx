@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "1998-09-28"
+last_updated: "1998-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -76,19 +76,27 @@ VIII. Proveedor: La persona física o moral que celebre contratos en su carácte
 
 IX. Proveedor nacional: Persona física o moral constituida conforme a las Leyes mexicanos (sic), residente en el país o en el extranjero pero que tiene un establecimiento o una base fija en el país y que proporciona bienes o servicios al Distrito Federal;
 
-X. Proveedor extranjero: Persona física o moral residente en el extranjero y que proporciona bienes o servicios al Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+X. Proveedor extranjero: La persona física, o moral constituida conforme a leyes extranjeras que proporciona bienes o servicios a la Administración Pública del Distrito Federal;
 
 XI. Licitación pública: Procedimiento público por virtud del cual se adjudica a los licitantes los contratos relativos a adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
 
 XII. Licitante: Persona física o moral que participa con una propuesta cierta en cualquier procedimiento de Licitación pública en el marco de la presente Ley;
 
-XIII. Adquisición: La compra de cualquier bien mueble, derecho de uso o servicio;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-XIV. Arrendamiento: Adquisición del derecho de uso y goce temporal de bienes muebles a plazo forzoso y precio cierto, por las Dependencias, Organos Desconcentrados y Entidades mencionadas en esta Ley;
+XIII. Adquisición: La compra de cualquier bien mueble;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XIV. Arrendamiento: Contrato por el cual se obtiene el derecho de uso y goce temporal de bienes muebles a plazo forzoso y precio cierto;
 
 XV. Arrendamiento financiero: Aquél por virtud del cual la arrendadora financiera se obliga a financiar la adquisición de determinados bienes y a conceder su uso o goce temporal, a plazo forzoso, a una dependencia, órgano desconcentrado o entidad, obligándose éstas a pagar como contraprestación, que se liquidará en pagos parciales, según se convenga, una cantidad de dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios;
 
-XVI. Servicio: La actividad organizada que se adquiere para ser prestado y realizado en favor de las Dependencias, Organos Desconcentrados y Entidades, con el fin de satisfacer las necesidades de éstas en un plazo convenido y a un precio cierto;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XVI. Servicio: La actividad organizada que se presta y realiza con el fin de satisfacer determinadas necesidades;
 
 XVII. Contrato: Es el acto jurídico bilateral y formal que se constituye por la manifestación de voluntades entre las Dependencias, Organos Desconcentrados y Entidades, y los Proveedores en las Adquisiciones, Arrendamientos o Servicios adquiridos por aquellas;
 
@@ -98,9 +106,17 @@ XIX. Comité: El Comité de Adquisiciones, Arrendamientos y prestación de Servi
 
 XX. Tratados: Los definidos como tales en la fracción I, artículo 2 de la Ley Sobre Celebración de Tratados y que sean aplicables a los actos del Distrito Federal;
 
-XXI. Ley: La Ley de Adquisiciones para el Distrito Federal; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-XXII. Gobierno Federal: El Gobierno de los Estados Unidos Mexicanos.
+XXI. Ley: La Ley de Adquisiciones para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XXII. Gobierno Federal: El Gobierno de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XXIII. Subcomités: Los Subcomités de Adquisiciones, Arrendamientos y Prestación de Servicios;
 
 ###### ARTICULO 3o.
 
@@ -134,9 +150,11 @@ El gasto de las Adquisiciones, Arrendamientos y Servicios se sujetará a las dis
 
 La Contraloría, la Secretaría de Desarrollo Económico y la Oficialía, en el ámbito de sus respectivas competencias, estarán facultadas para la interpretación de esta Ley para efectos administrativos, atendiendo los criterios gramatical, sistémico (sic) y funcional.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 7o.
 
-La Oficialía dictará las disposiciones administrativas necesarias para el adecuado cumplimiento de esta Ley, las cuales deberán ser publicadas en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación.
+La Oficialía dictará las disposiciones administrativas necesarias para el adecuado cumplimiento de esta Ley y su Reglamento, debiendo publicarlas en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión cuando sean de interés y observancia para los licitantes.
 
 ###### ARTICULO 8o.
 
@@ -180,6 +198,8 @@ Tratándose de contratos que celebre el Gobierno del Distrito Federal, fuera del
 
 ### Capítulo I. Del Comité de Adquisiciones, Arrendamiento y prestación de Servicios
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 15.
 
 En la planeación de las Adquisiciones, Arrendamientos y Servicios, las Dependencias, Organos Desconcentrados y Entidades deberán sujetarse a:
@@ -202,7 +222,9 @@ III. La calendarización física y financiera de la utilización de los recursos
 
 IV. Las unidades responsables de su instrumentación;
 
-V. Los programas sustantivos, de apoyo administrativo y de inversiones, así como, en su caso aquellos relativos a la Adquisición, Arrendamiento de Bienes o prestación de Servicios para su posterior comercialización incluyendo los que habrán de sujetarse a procesos productivos;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+V. Los programas sustantivos, de apoyo administrativo y de inversiones, así como en su caso aquellos relativos a la Adquisición de Bienes para su posterior comercialización incluyendo los que habrán de sujetarse a procesos productivos;
 
 VI. La existencia en cantidad suficiente de los bienes;
 
@@ -230,11 +252,13 @@ Las Dependencias, Organos Desconcentrados y Entidades que requieran contratar o 
 
 Las Entidades que en adición a su presupuesto reciban transferencias de recursos federales o locales, remitirán a la Secretaría sus programas y presupuestos de Adquisiciones, Arrendamientos y prestación de Servicios en la fecha que ésta determine para su examen y aprobación correspondiente.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 19.
 
-Las Dependencias, Organos Desconcentrados y Entidades, enviarán a la Secretaría su Programa Anual de Adquisiciones, Arrendamientos y prestación de Servicios, para su validación presupuestal con apego al Decreto de Presupuesto de Egresos del Distrito Federal del ejercicio fiscal correspondiente; asimismo, las Dependencias, Organos Desconcentrados y las Entidades lo enviarán a la Oficialía para su debida revisión e integración, a más tardar, el segundo mes de cada año, para que sea sometido a la aprobación del Comité.
+Las Dependencias, Organos Desconcentrados y Entidades, enviarán a la Secretaría su Programa Anual de Adquisiciones, Arrendamientos y prestación de Servicios, para su validación presupuestal con apego al Decreto de Presupuesto de Egresos del Distrito Federal del ejercicio presupuestal correspondiente.
 
-Las Dependencias, Organos Desconcentrados y Entidades a más tardar el 31 de marzo de cada año, pondrán a disposición de los interesados por escrito, sus programas anuales de Adquisiciones, Arrendamientos y prestación de Servicios salvo que medie causa debidamente justificada y aprobada por la Oficialía para no hacerlo en dicho plazo. El documento que contenga los programas será de carácter informativo; no implicará compromiso alguno de contratación y podrá ser adicionado, modificado, suspendido o cancelado, sin responsabilidad alguna para la Dependencia, Organo Desconcentrado o Entidad de que se trate.
+Las Dependencias, Organos Desconcentrados y Entidades a más tardar el 31 de marzo de cada año, pondrán a disposición de los interesados por escrito, sus programas anuales de Adquisiciones, Arrendamientos y prestación de Servicios. El documento que contenga los programas será de carácter informativo; no implicará compromiso alguno de contratación y podrá ser adicionado, modificado, suspendido o cancelado, sin responsabilidad alguna para la Dependencia, Organo Desconcentrado o Entidad de que se trate.
 
 TlTULO TERCERO
 
@@ -242,11 +266,13 @@ DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 ### Capítulo II. Del Consejo Consultivo de Abastecimiento
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 20.
 
-El Jefe de Gobierno establecerá un Comité de Adquisiciones, Arrendamientos y prestación de Servicios que se integrará con representantes de cada una de las secretarías, la Oficialía y la Contraloría.
+El Jefe de Gobierno del Distrito Federal establecerá un Comité de Adquisiciones, Arrendamientos y prestación de Servicios que se integrará con representantes de cada una de las dependencias de la Administración Pública Centralizada y la Procuraduría General de Justicia del Distrito Federal.
 
-En auxilio de las funciones del Comité se establecerán subcomités en cada una de las Dependencias, Organos Desconcentrados y Entidades. Asimismo, cuando sea necesario, el Comité aprobará la creación de subcomités técnicos de especialidad para la atención de áreas específicas.
+En auxilio de las funciones del Comité se establecerán Subcomités en cada una de las Dependencias, Organos Desconcentrados y Entidades, que podrán contar, en el ámbito de sus respectivas competencias, con las mismas funciones que se señalan para el Comité. Asimismo, cuando sea necesario, el Comité aprobará la creación de Subcomités técnicos de especialidad para la atención de áreas específicas, que estarán vinculados al Comité o Subcomité respectivo, en los términos que al efecto determine el Reglamento de esta Ley.
 
 ###### ARTICULO 21.
 
@@ -260,7 +286,7 @@ III. Fijar las políticas para la verificación de precios, especificación de i
 
 IV. Revisar los programas y presupuestos de Adquisiciones, Arrendamiento y prestación de Servicios de las Dependencias, Organos Desconcentrados y Entidades, así como formular observaciones y recomendaciones;
 
-V. Dictaminar, conforme a sus atribuciones, los procedimientos legales para las Adquisiciones, Arrendamientos y prestación de Servicios;
+V.- (DEROGADA, G.O. 24 DE DICIEMBRE DE 1998)
 
 VI. Dictaminar sobre la procedencia de celebrar Licitaciones públicas, así como los casos en que no se celebren por encontrarse en alguno de los supuestos de excepción previstos en la presente ley;
 
@@ -268,15 +294,31 @@ VII. Proponer las políticas internas, bases y lineamientos en materia de Adquis
 
 VIII. Analizar y resolver sobre los supuestos no previstos en las políticas internas, bases y lineamientos a que se refiere la fracción anterior, debiendo informar al titular de la Dependencia, Organo Desconcentrado, o al órgano de gobierno de la Entidad, según corresponda, su resolución;
 
-IX. Analizar trimestralmente el informe de la conclusión de los casos autorizados conforme a las fracciones IV y V de este artículo, así como los resultados generales de las Adquisiciones, Arrendamientos y prestación de Servicios, y en su caso, disponer las medidas necesarias para su atención;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-X.- Emitir su opinión cuando se le solicite sobre dictámenes y fallos dictados por las Dependencias, Organos Desconcentrados y Entidades; y
+IX. Analizar trimestralmente el informe de los casos dictaminados conforme a la fracción VI de este artículo, así como los resultados generales de las Adquisiciones, Arrendamientos y prestación de Servicios, y en su caso, disponer las medidas necesarias para su atención;
 
-XI. Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+X. Emitir su opinión cuando se le solicite sobre dictámenes y fallos dictados por las Dependencias, Organos Desconcentrados y Entidades;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XI. Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XII. Supervisar la actuación de los Subcomités y los Subcomités técnicos por especialidad, con la periodicidad y en los términos que al efecto establezca el Reglamento de esta Ley.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 22.
 
-Las Entidades deberán establecer un subcomité, excepto que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifique su creación ante el Comité.
+Las Dependencias y Organos Desconcentrados podrán establecer Subcomités y Subcomités técnicos por especialidad, en los términos y condiciones que al efecto establezca el Reglamento de esta Ley.
+
+Las Entidades podrán establecer Comités y Subcomités de Adquisiciones y Arrendamientos y Prestación de Servicios.
+
+La integración y funcionamiento de los Comités y Subcomités a que se refiere la presente Ley, se sujetarán a las disposiciones que al efecto establezca el Reglamento de la Ley.
 
 ###### ARTICULO 23.
 
@@ -286,7 +328,7 @@ La Oficialía mediante disposiciones de carácter general, tomando en cuenta la 
 
 ###### ARTICULO 24.
 
-El Jefe de Gobierno del Distrito Federal instalará el Consejo Consultivo de Abastecimiento, que estará integrado por un representante de la Oficialía, de la Contraloría, de cada una de las secretarías y de las confederaciones, cámaras o asociaciones de industriales, comerciantes y prestadores de servicios.
+El Jefe de Gobierno del Distrito Federal instalará el Consejo Consultivo de Abastecimiento, que estará integrado por un representante de la Oficialía, de la Contraloría, de cada una de las Secretarías, de la Procuraduría General de Justicia del Distrito Federal y de las confederaciones, cámaras o asociaciones de industriales, comerciantes y prestadores de servicios.
 
 ###### ARTICULO 25.
 
@@ -303,6 +345,8 @@ IV. Proponer la elaboración de programas para la óptima utilización y aprovec
 V. Proponer políticas de financiamiento, estímulos y fomento para la participación de los sectores industriales, comerciales y prestadores de servicios, orientándolos al desarrollo de la micro, pequeña y mediana empresa.
 
 ### Capítulo IV. Del Procedimiento de Contratación de Adquisiciones, Arrendamientos y Prestación de Servicios
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 26.
 
@@ -330,15 +374,33 @@ Los servidores públicos que autoricen actos en contravención a lo dispuesto en
 
 Las Adquisiciones, Arrendamientos y prestación de Servicios que rebasen un ejercicio presupuestal, deberán determinarse tanto en el presupuesto total como en el relativo a los ejercicios de que se trate; en la formulación de presupuestos para los ejercicios subsecuentes se atenderá a los costos que, en su momento, se encuentren vigentes. Para los efectos de este artículo las Dependencias, Organos Desconcentrados y Entidades, observarán lo dispuesto en los artículos 402 y 413, respectivamente, del Código Financiero del Distrito Federal.
 
-ARTlCULO 30.- Las Licitaciones públicas podrán ser:
+###### ARTICULO 30.
 
-I. Nacionales: Cuando únicamente puedan participar Proveedores nacionales establecidos en la República Mexicana y constituidos conforme a las Leyes nacionales, y los bienes a adquirir cuenten por lo menos con un 40% de contenido de integración nacional, el que será determinado tomando en cuenta el costo neto de manufactura del bien que significa todos los costos menos la promoción de ventas, comercialización y de servicio posterior a la venta, regalías, embarque y empaque, así como los costos financieros.
+Las Licitaciones públicas podrán ser:
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+I. Nacionales: Cuando únicamente pueden participar proveedores nacionales y los bienes a adquirir cuenten por lo menos con un 50% de contenido de integración nacional, el que será determinado tomando en cuenta el costo neto de manufactura del bien que significa todos los costos menos la promoción de ventas, comercialización y de servicio posterior a la venta, regalías, embarque y empaque, así como los costos financieros.
 
 La Secretaría de Desarrollo Económico, dictará reglas de carácter general, para la determinación del grado de integración nacional;
 
 II. Internacionales: Cuando participen tanto Proveedores nacionales como extranjeros o sólo estos últimos, por tratarse de bienes a adquirir o servicios a contratar que no se produzcan o se realicen por Proveedores Nacionales.
 
-Los Proveedores extranjeros deberán contar con un contenido de integración nacional mínimo del 35%, el que será determinado tomando en cuenta el costo neto de manufactura del bien que significa todos los costos menos la promoción de ventas, comercialización y de servicio posterior a la venta, regalías, embarque y empaque, así como los costos financieros.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+En los bienes o servicios de proveedores extranjeros se procurará contar con un contenido de integración nacional mínimo del 35%, el que será determinado tomando en cuenta el costo neto de manufactura del bien que significa considerar todos los costos menos la promoción de ventas, comercialización y de servicio posterior a la venta, regalías, embarque, así como los costos financieros.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+El licitante bajo protesta de decir verdad, manifestará que los bienes que oferta y entrega, son producidos en México y contienen el grado de integración nacional mencionado.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+La Secretaría de Desarrollo Económico tomando en cuenta la opinión de la Oficialía Mayor, emitirá los lineamientos para determinar el grado de integración de los bienes o servicios de importación a que se sujetarán los convocantes, y los criterios para la disminución u omisión del porcentaje de integración a que se refiere el párrafo anterior, tomando en cuenta la normatividad federal y los tratados internacionales.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+La Secretaría de Desarrollo Económico conforme a dichos lineamientos y criterios ya establecidos, dictaminará el porcentaje de integración nacional de bienes o servicios importados. Esta dictaminación será previa a la que efectúe el Comité o Subcomité respectivo, para el procedimiento de adquisición.
 
 Podrá negarse la participación de Proveedores extranjeros en Licitaciones internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un Tratado y/o ese país no conceda un trato recíproco a los Proveedores o a los bienes o Servicios mexicanos.
 
@@ -348,13 +410,23 @@ La Secretaría de Desarrollo Económico tomando en cuenta la opinión de la Secr
 
 Solamente se convocará a Licitaciones de carácter internacional en los siguientes casos:
 
-I. Cuando resulte obligatorio conforme a lo establecido en los Tratados; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-II. Cuando previa investigación de mercado que realice la Dependencia, Organo Desconcentrado o Entidad convocante, no exista oferta en cantidad o calidad de Proveedores nacionales.
+I. Cuando resulte obligatorio conforme a lo establecido en los tratados;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+II. Cuando previa investigación de mercado que realice la dependencia, órgano desconcentrado o entidad convocante, no exista oferta en cantidad o calidad de proveedores nacionales, o
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+III. Cuando previa investigación de mercado se trate de garantizar las mejores condiciones de calidad, oportunidad, precio, financiamiento y servicio en las adquisiciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 32.
 
-Las convocatorias podrán referirse a uno o más bienes y Servicios, las cuales se publicarán simultáneamente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, y contendrán:
+Las convocatorias podrán referirse a uno o mas bienes y Servicios, las cuales se publicarán en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación, y contendrán:
 
 I. La denominación o razón social de la Dependencia, Organo Desconcentrado o Entidad convocante;
 
@@ -378,9 +450,11 @@ IX. Lugar, plazo de entrega y condiciones de pago; y
 
 X. En el caso de arrendamiento, la indicación de si éste es con o sin opción a compra.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 33.
 
-Las bases que emitan las Dependencias, Organos Desconcentrados y Entidades para las Licitaciones públicas se pondrán a disposición de los interesados para consulta y venta a partir de la fecha de publicación de la convocatoria y hasta siete días hábiles previos al primer acto de aclaración de las bases, y contendrán como mínimo lo siguiente:
+Las bases que emitan las Dependencias, Organos Desconcentrados y Entidades para las Licitaciones públicas se pondrán a disposición de los interesados para consulta y venta a partir de la fecha de publicación de la convocatoria y contendrán como mínimo lo siguiente:
 
 I. La denominación o razón social de la Dependencia, Organo Desconcentrado o Entidad convocante;
 
@@ -394,13 +468,19 @@ V. Requisitos legales y administrativos que deberán cumplir los participantes;
 
 VI. Descripción completa de los bienes o Servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato, especificaciones y normas que, en su caso, sean aplicables, dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas, y periodo de garantía y, en su caso, otras opciones de cotización;
 
-VII. La indicación de si la totalidad de los bienes o Servicios objeto de la Licitación o bien de cada partida o concepto de los mismos, serán adjudicados a un solo Proveedor o si la adjudicación se hará mediante la figura del abastecimiento simultáneo a que se refiere el artículo 58 de esta Ley, en cuyo caso deberá precisarse el número de fuentes de abastecimiento requeridas, los porcentajes que se asignarán a cada una, y el porcentaje diferencial en precio que no podrá ser superior al 10% con relación al precio más bajo que se haya ofrecido;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-VIII. En el caso de los contratos abiertos, la información que corresponda del artículo 64 de esta Ley;
+VII. La indicación de si la totalidad de los bienes o Servicios objeto de la Licitación o bien de cada partida o concepto de los mismos, serán adjudicados a un solo Proveedor o si la adjudicación se hará mediante la figura del abastecimiento simultáneo a que se refiere el artículo 58 de esta Ley, en cuyo caso deberá precisarse el número de fuentes de abastecimiento requeridas, los porcentajes que se asignarán a cada una, y el porcentaje diferencial en precio que no podrá ser superior al 5% con relación al precio más bajo que se haya ofrecido;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+VIII. En el caso de los contratos abiertos, la información que corresponda del artículo 63 de esta Ley;
 
 IX. Plazo, lugar y condiciones de entrega;
 
-X. Penas convencionales por atraso en las entregas;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+X. Penas convencionales por incumplimiento en las condiciones contratadas;
 
 XI. Condiciones de precio y fecha o fechas de pago;
 
@@ -412,15 +492,25 @@ XIV. Instrucciones para elaborar y entregar las propuestas y garantías;
 
 XV. La indicación de que en la evaluación de las propuestas en ningún caso podrán utilizarse mecanismos de puntos o porcentajes, salvo en lo que se refiere a la preferencia de bienes o Servicios que contengan mayor grado de integración nacional;
 
-XVI. Señalamiento de que será causa de descalificación el incumplimiento de algunos de los requisitos de los establecidos en las bases de la Licitación;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XVI. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos de los establecidos en las bases de la Licitación;
 
 XVII. Criterios claros y detallados para la adjudicación de los contratos;
 
 XVIII. La indicación de que ninguna de las condiciones contenidas en las bases de la Licitación, así como las propuestas presentadas por los Proveedores podrán ser negociadas;
 
-XIX. Señalamiento de que será causa de descalificación la comprobación de que algún Proveedor haya acordado con otro u otros elevar los precios de los bienes o Servicios; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-XX. La manifestación del Proveedor, bajo protesta de decir verdad, que tiene la plena capacidad para proporcionar capacitación a operadores; la existencia necesaria de refacciones; instalaciones y equipo adecuados y personal competente para brindar el servicio de mantenimiento preventivo y correctivo a los bienes adquiridos.
+XIX. Señalamiento de que será causa de descalificación la comprobación de que algún Proveedor haya acordado con otro u otros elevar los precios de los bienes o servicios;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XX. La manifestación del proveedor, bajo protesta de decir verdad, que tiene la plena capacidad para proporcionar capacitación a operadores; la existencia necesaria de refacciones; instalaciones y equipo adecuados y personal competente para brindar el servicio de mantenimiento preventivo y correctivo a los bienes adquiridos, y
+
+> <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+XXI. La manifestación por escrito, bajo protesta de decir verdad por parte del proveedor, de no encontrarse en ninguno de los supuestos del artículo 39 de esta Ley.
 
 ###### ARTICULO 34.
 
@@ -434,15 +524,17 @@ La Contraloría podrá intervenir en cualquier acto que contravenga las disposic
 
 Todo interesado que satisfaga los requisitos de la convocatoria y las bases de la Licitación, tendrá derecho a presentar su propuesta. Para tal efecto, la convocante no podrá exigir requisitos adicionales a los previstos por esta Ley, salvo autorización previa del Comité. Asimismo, la convocante proporcionará a todos los interesados igual acceso a la información relacionada con la Licitación, a fin de evitar con ello, favorecer a algún participante.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 37.
 
-Las Dependencias, Organos Desconcentrados y Entidades no podrán modificar la convocatoria y las bases de la Licitación, salvo por causas de fuerza mayor y con previa autorización del Comité.
+Las Dependencias, Organos Desconcentrados y Entidades podrán modificar los aspectos establecidos en la convocatoria y las bases de la licitación, siempre que no implique la sustitución o variación substancial de los bienes o servicios requeridos originalmente y se realice cuando menos con siete días naturales de anticipación a la fecha señalada para la presentación y apertura de propuestas. En cuyo caso se deberá seguir el siguiente procedimiento:
 
-I. Tratándose de la convocatoria, las modificaciones se harán del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
+I. Tratándose de modificaciones a la convocatoria, hacerse del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
 
-II. En el caso de las bases de la Licitación, las Dependencias, Organos Desconcentrados y Entidades lo notificarán mediante comunicación dirigida a todos los participantes con acuse de recibo, así como publicarán un aviso a través de la Gaceta Oficial del Distrito Federal y del Diario Oficial de la Federación, a fin de que los interesados concurran, en su caso, ante la propia Dependencia, Organo Desconcentrado o Entidad para conocer de manera especifica la o las modificaciones respectivas
+II. En el caso de modificaciones a las bases de la Licitación, las Dependencias, Organos Desconcentrados y Entidades lo notificarán mediante comunicación escrita dirigida a todos los participantes con acuse de recibo.
 
-Las modificaciones de que trata este artículo no podrán consistir en la sustitución o variación sustancial de los bienes o Servicios convocados originalmente, o bien en la adición o disminución de otros distintos.
+La notificación mediante comunicación escrita no será necesaria, si las modificaciones derivan de las juntas de aclaraciones y se entrega copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la licitación.
 
 ###### ARTICULO 38.
 
@@ -456,9 +548,13 @@ I. Aquellas en que el servidor público que intervenga en cualquier forma en la 
 
 II. Las que desempeñen un empleo, cargo o comisión en el servicio público Federal o del Distrito Federal, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y por escrito de la Contraloría conforme a la Ley Federal de Responsabilidades de los Servidores Públicos, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-III. Las que por causas imputables a ellas, las Dependencias, Organos Desconcentrados o Entidades les hubiere rescindido administrativamente un contrato en más de una ocasión en un lapso de dos años. Dicho impedimento prevalecerá desde seis meses hasta por dos años contados a partir de la fecha de rescisión del último contrato rescindido, a juicio de la Contraloría;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-IV. Las que no hubieren cumplido sus obligaciones contractuales, por causas imputables a ellas y que, como consecuencia de ello, la Dependencia, Organo Desconcentrado y Entidad respectiva sufra un detrimento en su patrimonio, según lo establezca la sentencia o resolución definitiva, previo dictamen del Comité;
+III. Las que por causas imputables a ellas, las Dependencias, Organos Desconcentrados o Entidades de la Administración Publica en cualesquiera de sus niveles les hubieren rescindido administrativamente algún contrato. Dicho impedimento prevalecerá desde seis meses hasta por dos años contados a partir de la fecha de rescisión del contrato, a juicio de la Contraloría;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+IV. Las que por causas imputables a ellas no hubieren cumplido sus obligaciones contractuales derivadas de un contrato anterior y que, como consecuencia de ello, la Dependencia, Organo Desconcentrado o Entidad respectiva, haya sufrido un detrimento en su patrimonio, según se establezca en la sentencia o resolución definitiva;
 
 V. Las que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en alguna etapa del procedimiento de Licitación o en el proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien durante la presentación o desahogo de una inconformidad;
 
@@ -468,9 +564,13 @@ VII. Las que se encuentren en situación de atraso en la entrega de bienes o Ser
 
 VIII. Aquellas a las que se les declare en estado de quiebra, que estén sujetas a un proceso de quiebra o, en su caso, sujetas a concurso de acreedores;
 
-IX. Las que por sí, o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y la Dependencia, Organos Desconcentrados y Entidad;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-X. Las que se encuentran sancionadas por la Secretaría de Contraloría y Desarrollo Administrativo y por la Contraloría, y cuya sanción haya sido publicada en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, siempre y cuando se encuentren en el período de ejecución de la sanción que se le impuso; y
+IX. Las que por sí, o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, que se requieran para dirimir controversias entre tales personas y las Dependencias, Organos Desconcentrados y Entidades;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+X. Las que se encuentran sancionadas por la Secretaría de Contraloría y Desarrollo Administrativo o por la Contraloría, y
 
 XI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición legal.
 
@@ -494,57 +594,97 @@ Asimismo, podrán suspender administrativamente o dar por terminados anticipadam
 
 ###### ARTICULO 43.
 
-El procedimiento para la Adquisición de bienes, el Arrendamiento o la contratación de Servicios por Licitación pública, se llevará a cabo conforme a las siguientes etapas y plazos que se computarán en días hábiles a partir de aquel en que se publique la convocatoria:
+El procedimiento para la Adquisición de bienes, el Arrendamiento o la contratación de Servicios por Licitación pública, se llevará a cabo conforme a los siguientes plazos que se computarán en días hábiles y en forma subsecuente. El primer plazo comenzará a correr a partir de aquél en que se publique la convocatoria.
 
-I. Consulta y venta de bases 8 días
+En el caso de Licitaciones Nacionales:
 
-II. Sesión de aclaración de bases 10 días
+Consulta y venta de bases 5 días
 
-III. Acto de presentación de propuestas, revisión de documentación legal y administrativa y apertura de ofertas técnicas 12 días
+Sesión de aclaración de bases 1 día
 
-IV. Acto de apertura de ofertas Económicas 14 días
+Acto de presentación de propuestas, revisión
 
-V. Dictamen de ofertas económicas y emisión de fallo 15 días
+de documentación legal y administrativa y apertura
 
-VI. Publicación de fallo 17 días
+de ofertas técnicas 5 días
 
-Todos los plazos a que se refiere el párrafo primero de este artículo se computarán a partir de la publicación de la convocatoria.
+Acto de apertura de ofertas económicas 5 días
 
-Los participantes que hubieran sido descalificados no podrán acudir, por ningún motivo, a etapas posteriores a aquella que dieron origen a su descalificación dentro del procedimiento de Licitación.
+Emisión del fallo 5 días
 
-Respecto de la formalización del contrato respectivo, se estará a lo dispuesto en los artículos 59 y siguientes de ésta Ley.
+Publicación de fallo 15 días
 
-El plazo para la presentación y apertura de propuestas no podrá ser inferior a doce días hábiles contados a partir de la fecha de publicación de la convocatoria, salvo que, por razones de urgencia justificada y siempre que ello no tenga por objeto limitar el número de participantes, no pueda observarse dicho plazo, en cuyo caso este no podrá ser menor a cinco días hábiles contados a partir de la fecha de publicación de la convocatoria, y dicha reducción deberá ser autorizada por el Comité.
+En el caso de Licitaciones Internacionales:
 
-El plazo para la presentación y apertura de propuestas así como para el fallo de la Licitación podrá prorrogarse hasta por 5 días hábiles contados a partir del término mínimo establecido en este artículo, siempre que dicha prórroga se base en razones justificadas, esté autorizada por el Comité y se cumpla con lo dispuesto en el artículo 37 de la Ley.
+Consulta y venta de bases 10 días
+
+Sesión de aclaración de bases 1 día
+
+Acto de presentación de propuestas, revisión
+
+de documentación legal y administrativa y apertura
+
+de ofertas técnicas 5 días
+
+Acto de apertura de ofertas economicas 5 días
+
+Emisión de fallo 5 días
+
+Publicación del fallo 15 días
+
+En el caso de que se requiera la realización de varias juntas de aclaración de bases, el plazo para el acto de presentación de propuestas y apertura de ofertas técnicas, comenzará a correr a partir de la última junta de aclaración.
+
+Cuando por motivos de urgencia justificados se tenga que reducir el plazo para el acto de presentación de propuestas y apertura de ofertas técnicas, esto se podrá llevar a cabo, siempre y cuando, no tenga por objeto limitar el número de participantes, y se autorice por el Comité o Subcomité correspondiente. Dicho plazo no podrá ser inferior a tres días hábiles. Para los demás eventos de las licitaciones nacionales o internacionales, los plazos señalados en este artículo se podrán reducir sin necesidad de autorización.
+
+El acto de presentación y apertura de propuestas en el que podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, se llevará a cabo en dos etapas, conforme a lo siguiente:
+
+I. En la primera etapa, los licitantes entregarán sus proposiciones en sobres cerrados en forma inviolable, se procederá a la revisión de la documentación legal y administrativa, a la apertura de la propuesta técnica y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por la Dependencia, Organo Desconcentrado o Entidad, transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
+
+Los participantes rubricarán todas las propuestas técnicas presentadas y la convocante hará el análisis detallado de dichas propuestas, mismo que será dado a conocer en ese momento o hasta la segunda etapa que se detalla en la fracción siguiente. En caso de que la apertura de las proposiciones económicas no se realice en la misma fecha del acto de apertura de ofertas técnicas, los sobres que contengan las propuestas económicas serán firmados por el representante de la Contraloría, los licitantes y la convocante, y quedarán en custodia de ésta última, para salvaguardar su confidencialidad. La convocante informará la fecha, lugar y hora en que se llevará acabo la segunda etapa.
+
+II. En la segunda etapa, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubiesen sido desechadas en la primera etapa o en el análisis detallado de las mismas, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos.
+
+El plazo para la emisión del fallo podrá diferirse por una sola vez, siempre y cuando no exceda de diez días hábiles contados a partir del plazo establecido originalmente.
+
+En junta pública se dará a conocer el fallo de la licitación a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, la convocante podrá optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes.
+
+En el mismo acto de fallo o adjunta a la comunicación referida en el párrafo anterior, la convocante dará a conocer a cada uno de los licitantes no descalificados en etapas anteriores, el análisis de aquellas propuestas que fueron aceptadas, así como las que fueron desechadas, las causas de descalificación con sus circunstancias particulares y, en su caso, el nombre del licitante ganador. En cada caso se señalarán detalladamente los motivos de descalificación, levantándose el acta respectiva y entregándose copia de la misma a cada uno de los asistentes al acto del fallo.
+
+Será obligatorio para la convocante publicar el resultado del fallo de la licitación que corresponda, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación. Esta publicación podrá diferirse por una sola vez, por un plazo que no excederá de dos veces el señalado en este artículo.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 44.
 
-Todos los actos que forman parte del procedimiento de Licitación pública, se deberán efectuar en el día, la hora y en el lugar señalado en la convocatoria y en las bases de la Licitación, levantándose en cada uno de ellos, acta circunstanciada, que será rubricada y firmada por todos los participantes que hubieren adquirido las bases y no se encuentren descalificados.
+Todos los actos que forman parte del procedimiento de Licitación pública, se deberán efectuar el día, hora y lugar señalado en la convocatoria y en las bases de Licitación, levantándose en cada uno de ellos, acta circunstanciada, que será rubricada y firmada por todos los participantes que hubieren adquirido las bases y no se encuentren descalificados, debiendo entregar a cada uno de ellos copia de la misma.
 
-Será obligatorio para la convocante publicar el fallo de la Licitación que corresponda, a más tardar a los dos días hábiles siguientes al día en que lo dio a conocer a los participantes, en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación. La publicación del fallo podrá diferirse por una sola vez por un plazo que no excederá de dos veces el plazo establecido originalmente.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 45.
 
-En la junta de aclaración de bases, se presentarán, según lo requiera la convocante, por escrito o de manera verbal las dudas o cuestionamientos relativos a las propias bases.
+Previo a la celebración de la junta de aclaración de bases o durante el desarrollo de la misma se presentarán, según lo requiera la convocante, por escrito o de manera verbal la dudas o cuestionamientos relativos a las propias bases.
+
+En la junta o juntas de aclaración de bases se dará respuesta a las dudas o cuestionamientos recibidos.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 46.
 
-En la fecha en la que se proceda a la apertura de los sobres que contienen los documentos legales y administrativos, así como las propuestas técnica y económica, se efectuará la revisión de la documentación ante Notario o Corredor Público, ante los representantes de las Dependencias, Organos Desconcentrados y Entidades y ante los participantes que hubiesen presentado propuestas, procediéndose a descalificar a los licitantes que no hubiesen cumplido con alguno de los requisitos señalados en las bases.
+En la fecha en la que se proceda ala apertura de los sobres que contienen los documentos legales y administrativos, así como las propuestas técnica y económica, se efectuará la revisión de la documentación ante el representante de la Contraloría, ante los representantes de las Dependencias, Organos Desconcentrados y Entidades y ante los participantes que hubiesen presentado propuestas, procediéndose a descalificar a los licitantes que no hubiesen cumplido con alguno de los requisitos señalados en las bases.
 
-En caso de efectuarse los actos de apertura de propuestas técnicas y económicas en fechas distintas, los sobres que contienen la oferta económica deberán ser rubricados por el Notario o Corredor Público, por los participantes y permanecerán en custodia de la convocante para salvaguardar su confidencialidad.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 47.
 
-Los licitantes entregarán sus propuestas en sobres cerrados en forma inviolable; se procederá a la apertura de la propuesta técnica exclusivamente y se desecharán las que hubieran omitido alguno de los requisitos exigidos, las que serán devueltas por la convocante, transcurridos diez días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la Licitación. Previo al acto de apertura de las propuestas económicas, la convocante emitirá un dictamen técnico antes del acto de apertura de ofertas económicas establecida en esta Ley.
+Previo al acto de apertura de las propuestas económicas, la convocante emitirá un dictamen técnico antes del acto de apertura de ofertas económicas establecida en esta Ley.
 
-En este dictamen se señalarán los participantes que cumplieron o incumplieron con la documentación legal y administrativa solicitada, las ofertas técnicas aceptadas, las desechadas, los motivos concretos para su desechamiento, y los participantes que no cumplieron con la totalidad de lo solicitado en las bases. Lo anterior deberá constar por escrito en el acta que al efecto se levante y que será firmada por la totalidad de los participantes que hubieren presentado propuestas, por la convocante y por el Notario o Corredor Público presente en el acto.
+En este dictamen se señalarán los participantes que cumplieron o incumplieron con la documentación legal y administrativa solicitada, las ofertas técnicas aceptadas, las desechadas, los motivos concretos para su desechamiento y los participantes que no cumplieron con la totalidad de los solicitado en las bases. Lo anterior deberá constar por escrito en el acta que al efecto se levante y que será firmada por la totalidad de los participantes que hubieren presentado propuestas, por la convocante y por el representante de la Contraloría General presente en el acto.
 
-Los sobres que contienen las propuestas económicas se presentarán en la misma fecha en que se entreguen las propuestas técnicas, se rubricarán por el Notario o Corredor Público presente en el acto y permanecerán cerrados en custodia de la convocante para salvaguardar la confidencialidad de los mismos hasta el momento de apertura según lo previsto en esta Ley.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 48.
 
-En el acto de apertura de ofertas económicas, se dará lectura detallada a cada una de las propuestas presentadas ante los licitantes que no hayan sido descalificados, y se elaborará un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las propuestas admitidas y se hará mención de aquellas que fueron desechadas levantándose el acta respectiva, que será firmada por los participantes al acto, por el Fedatario Público y las convocantes.
+Posterior al acto de apertura de ofertas económicas se elaborará un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las propuestas admitidas y se hará mención de aquéllas que fueron desechadas, levantándose el acta respectiva, que será firmada por los participantes al acto, por el representante de la Contraloría General y las convocantes.
 
 ###### ARTICULO 49.
 
@@ -554,15 +694,15 @@ Si resultara que dos o más propuestas son solventes y, por lo tanto, satisfacen
 
 ###### ARTICULO 50.
 
-En el acto de fallo, la convocante dará a conocer a cada uno de los licitantes no descalificados en etapas anteriores, el análisis de aquellas propuestas que fueron aceptadas, así como las que fueron desechadas, las causas de descalificación con sus circunstancias particulares y, en su caso, el nombre del licitante ganador. En cada caso se señalarán detalladamente los motivos de descalificación, levantándose el acta respectiva y entregándose copia de la misma a cada uno de los asistentes al acto del fallo.
+(DEROGADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)
 
-En caso de que el fallo de la Licitación no se realice en la fecha establecida inicialmente, dos Proveedores, por lo menos, la convocante y el Fedatario Público, firmarán las propuestas económicas aceptadas. La convocante señalará fecha, lugar y hora en que se dará a conocer el fallo de la Licitación, el que deberá quedar comprendido dentro del plazo señalado para tal efecto conforme a lo dispuesto en la presente Ley.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-El fallo sólo será dado a conocer en junta pública. En el caso de que algún participante no asistiera a dicho acto se le notificará por escrito el contenido del fallo a través de correo certificado con acuse de recibo.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-Será obligatorio para la convocante publicar el fallo de la Licitación que corresponda, a más tardar a los dos días hábiles al día en que se dio a conocer a los participantes, en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-La publicación del fallo podrá diferirse por una sola vez en un plazo que no excederá de dos veces el plazo establecido originalmente.
+> <small>(DEROGADO QUINTO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 Contra la resolución que contenga el fallo, se estará a lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal.
 
@@ -580,7 +720,7 @@ En los supuestos y con sujeción a las formalidades que prevén los artículos 5
 
 La opción que las Dependencias, Organos Desconcentrados y Entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren para el Gobierno del Distrito Federal las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y demás circunstancias pertinentes.
 
-No se requerirá la presencia de Notario o Corredor Público en cualquiera de los actos o etapas de las excepciones a la licitación pública mencionadas en el primer párrafo de este artículo.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 53.
 
@@ -632,7 +772,9 @@ En casos excepcionales, las operaciones previstas en este artículo podrán exce
 
 El procedimiento de invitación a cuando menos tres Proveedores, a que se refieren los artículos 54 y 55 de esta Ley, se realizarán atendiendo a lo previsto en la presente Ley. Para tal efecto se deberá observar lo siguiente:
 
-I. La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la convocante;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+I. La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente se invitará a un representante de la Contraloría;
 
 II. Para llevar a cabo la evaluación se debe contar con un mínimo de tres propuestas;
 
@@ -640,9 +782,13 @@ III. En las solicitudes de cotización, se indicarán, como mínimo la cantidad 
 
 IV. Los plazos para la presentación de las propuestas se fijarán en cada operación atendiendo al tipo de bienes o Servicios requeridos, así como a la complejidad para elaborar la propuesta y llevar a cabo su evaluación.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 57.
 
-El Jefe de Gobierno del Distrito Federal podrá autorizar la contratación directa de Adquisiciones, Arrendamientos y prestación de Servicios, cuando se trate de casos de desastre o peligre la seguridad e integridad de los habitantes del Distrito Federal, estableciendo para tal efecto, los medios de control y supervisión necesarios para lo cual deberá dar aviso por escrito a la Contraloría.
+El Jefe de Gobierno del Distrito Federal podrá autorizar a las dependencias, órganos desconcentrados y entidades la contratación directa de las Adquisiciones, Arrendamientos y prestación de Servicios, cuando se trate de casos de desastre o peligre la seguridad e integridad de los habitantes del Distrito Federal, estableciendo para tal efecto, los medios de control y supervisión necesarios para lo cual deberá dar aviso por escrito a la Contraloría.
+
+Así mismo, en casos de desastre o peligro para la seguridad e integridad de los habitantes del Distrito Federal, así como aquellos de caso fortuito o fuerza mayor, debidamente justificadas, los titulares de las dependencias, órganos desconcentrados y entidades, bajo su estricta responsabilidad, podrán autorizar contrataciones directas, las cuales deberán ser informadas en el plazo que establece el artículo 53 de esta Ley.
 
 ### Capítulo VII. De las Garantías
 
@@ -650,7 +796,9 @@ El Jefe de Gobierno del Distrito Federal podrá autorizar la contratación direc
 
 Las Dependencias, Organos Desconcentrados y Entidades, previa justificación y aprobación del Comité de la conveniencia de distribuir la adjudicación de un mismo bien o la prestación de un Servicio a dos o más Proveedores, podrán hacerlo siempre que así se haya establecido en las bases de la Licitación la figura de abastecimiento simultáneo.
 
-En este caso, el porcentaje diferencial en precio que se considerará para determinar los Proveedores susceptibles de adjudicación no podrá ser superior al 10% respecto de la propuesta solvente más baja y se concederá de manera preferente un 60% a la primera propuesta que reúna las condiciones técnicas y económicas más benéficas a las Dependencias, Organos Desconcentrados y Entidades, y un 40% a la segunda propuesta.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+En este caso, el porcentaje diferencial en precio que se considerará para determinar los proveedores susceptibles de adjudicación no podrá ser superior al 5% respecto de la propuesta solvente más baja y se concederá un porcentaje mayor de adjudicación para la primera propuesta que reúna las condiciones técnicas y económicas más benéficas a las Dependencias, Organos Desconcentrados y Entidades, y en un menor porcentaje a las siguientes propuestas.
 
 ###### ARTICULO 59.
 
@@ -658,7 +806,9 @@ Los contratos que deban formalizarse como resultado de su adjudicación, deberá
 
 El Proveedor a quien se hubiere adjudicado el contrato como resultado de una Licitación, invitación a cuando menos tres Proveedores o adjudicación directa perderá en favor de la convocante la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo establecido en el párrafo anterior.
 
-En los casos citados en los artículos 59 y 60 de esta Ley la convocante podrá adjudicar el contrato o al participante que haya presentado la segunda y demás propuestas económicas que sigan en orden descendente, de conformidad con lo asentado en el dictamen a que se refieren los artículos 48 y 49 de esta Ley, hasta que el requerimiento de abastecimiento esté satisfecho y cuyos diferenciales de precio no rebasen el 10% de la oferta que hubiere resultado ganadora.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+En estos casos la convocante podrá adjudicar el contrato al participante que haya presentado la segunda y demás propuestas económicas que sigan en orden descendente, de conformidad con lo asentado en el dictamen a que se refieren los artículos 48 y 49 de la Ley, hasta que el requerimiento de abastecimiento esté satisfecho y cuyos diferenciales de precio no rebasen el 5% de la oferta que hubiere resultado ganadora.
 
 ###### ARTICULO 60.
 
@@ -676,7 +826,9 @@ En las Adquisiciones, Arrendamiento y prestación de Servicios, deberá señalar
 
 Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
-En casos justificados, se podrá convenir en el contrato incrementos o decrementos a los precios, previa autorización de la Contraloría y la Oficialía, de acuerdo con la fórmula que determine previamente la convocante en las bases de la Licitación. En ningún caso procederán ajustes que no hubieren sido considerados en las propias bases de la Licitación.
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+En casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula que determine previamente la convocante en las bases de la licitación. En ningún caso procederán ajustes que no hubieren sido considerados en las propias bases de la licitación.
 
 ###### ARTICULO 63.
 
@@ -700,29 +852,35 @@ Las Dependencias, Organos Desconcentrados y Entidades deberán pagar al Proveedo
 
 En caso de incumplimiento en los pagos a que se refiere el párrafo anterior y sin perjuicio de la responsabilidad en que pudiera incurrir el servidor público que corresponda a la convocante, ésta deberá pagar cargos financieros conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Distrito Federal en los casos de prórroga para el pago de créditos fiscales, dichos cargos se calcularán sobre las cantidades no pagadas, y se computarán por días calendario contados a partir del décimo primer día hábil de la fecha en que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del Proveedor.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 65.
 
-Dentro de su presupuesto aprobado y disponible las Dependencias, Organos Desconcentrados y Entidades, bajo su responsabilidad y por razones fundadas, podrán acordar el incremento en la cantidad de bienes solicitados o servicios requeridos mediante modificaciones a sus contratos vigentes dentro de los seis meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el 15% de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes o Servicios sea igual al inicialmente pactado.
+Dentro de su presupuesto aprobado y disponible las Dependencias, Organos Desconcentrados y Entidades, bajo su responsabilidad y por razones fundadas, podrán acordar el incremento en la cantidad de bienes solicitados o servicios requeridos mediante modificaciones a sus contratos vigentes dentro de los nueve meses posteriores a su firma, siempre y cuando se encuentren en el mismo ejercicio presupuestal y que el monto total de las modificaciones no rebase, en conjunto, el 15% de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes o servicios sea igual al inicialmente pactado.
 
-Igual porcentaje se aplicará a las modificaciones o prórrogas que se hagan respecto de la vigencia de los contratos.
+En los contratos de servicios se podrá prorrogar o modificar la vigencia de los mismos en igual porcentaje al señalado en el párrafo anterior, siempre y cuando no se haya modificado por concepto y volumen en este porcentaje. Si se ha modificado un contrato por concepto y volumen en un porcentaje inferior al 15% de lo originalmente pactado, la prórroga podrá operar por el porcentaje restante sin rebasar el 15% mencionado.
 
-En el caso de contratos que abarquen dos o más ejercicios fiscales, las modificaciones a que se refiere el primer párrafo de este artículo, podrán solicitarse hasta en una tercera parte más del contrato original, así como la prórroga para el cumplimiento del mismo.
+En el caso de contratos que abarquen dos o más ejercicio (sic) presupuestales, las modificaciones a que se refiere el primer párrafo de este artículo, podrán ampliarse hasta en una tercera parte más del contrato original, de igual manera podrá prorrogarse el plazo para el cumplimiento del mismo.
 
 ###### ARTICULO 66.
 
 Tratándose de contratos en los que se incluyan bienes o Servicios de diferentes características, el porcentaje de incremento se aplicará para cada partida o concepto de los bienes o Servicios de que se trate, en igual forma se ajustarán las garantías respecto de los anticipos y el cumplimiento, y los términos de contrato correspondiente.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 67.
 
-Cualquier modificación a los contratos deberá constar por escrito. Por parte de las Dependencias, Organos Desconcentrados y Entidades; los instrumentos legales respectivos serán suscritos una vez que hayan sido sancionados y validados por la Contraloría.
+Cualquier modificación a los contratos deberá constar por escrito. Los instrumentos legales en donde consten dichas modificaciones serán suscritos por los servidores públicos que las hayan hecho o por quienes los sustituyan.
 
 ###### ARTICULO 68.
 
 Las Dependencias, Organos Desconcentrados y Entidades se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar mejores condiciones para el Proveedor comparadas con las establecidas originalmente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 69.
 
-Las Dependencias, Organos Desconcentrados y Entidades deberán pactar penas convencionales a cargo del Proveedor por atraso imputable al mismo, en el cumplimiento de los contratos. Cuando se pacte ajuste de precios la penalización se calculará sobre el precio ajustado.
+Las Dependencias, Organos Desconcentrados y Entidades podrán pactar penas convencionales a cargo del Proveedor por incumplimiento de los contratos. Cuando se pacte ajuste de precios la penalización se calculará sobre el precio ajustado.
 
 Una vez concluido el plazo para el cobro de las penas convencionales y, en su caso, habiéndose dado la rescisión del contrato correspondiente, el Proveedor deberá reintegrar los anticipas (sic) más los intereses correspondientes, conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Distrito Federal para los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días calendario desde la fecha de su entrega hasta la fecha en que se paguen efectivamente las cantidades a la Dependencia, Organo Descentralizado y Entidad.
 
@@ -746,21 +904,43 @@ Las Dependencias, Organos Desconcentrados y Entidades podrán rescindir administ
 
 Quienes participen en las licitaciones o celebren los contratos a que se refiere esta Ley, deberán garantizar:
 
-I. La seriedad de las propuestas en los procedimientos de Licitación, con un mínimo del 10% del total de su oferta económica;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+I. La seriedad de las propuestas en los procedimientos de Licitación, con un mínimo del 5% del total de su oferta económica, salvo lo previsto en el Reglamento de esta Ley.
 
 La convocante conservará en custodia las garantías de que se trate hasta la fecha del fallo, en que serán devueltas a los licitantes, salvo la de aquella a quien se hubiere adjudicado el contrato, la que se retendrá hasta el momento en que el Proveedor constituya la garantía de cumplimiento del contrato correspondiente;
 
 II. Los anticipos que, en su caso reciban, se entregarán a más tardar, dentro de los quince días naturales siguientes a la presentación de la garantía. Esta garantía deberá constituirse por la totalidad del monto del anticipo; y
 
-III. El cumplimiento de los contratos, con un importe mínimo del 15% del total del importe.
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+III. El cumplimiento de los contratos, con un importe máximo del 10% del total del importe salvo lo previsto en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 74.
 
-Cuando las Dependencias, Organos Desconcentrados y Entidades celebren contratos en los casos señalados en los artículos 54, fracciones VIII y XII, y 55 de esta Ley, podrán exceptuar, bajo la entera responsabilidad de las Dependencias, Organos Desconcentrados y Entidades, al Proveedor de presentar la garantía de cumplimiento del contrato respectivo. Para tal efecto deberán escuchar previamente la opinión de la Secretaría, en términos del artículo 344 del Código Financiero del Distrito Federal.
+Cuando las Dependencias, Organos Desconcentrados y Entidades celebren contratos en los casos señalados en los artículos 54, fracciones VIII y XII, y 55 de esta Ley, podrán, bajo su entera responsabilidad, eximir al proveedor de presentar la garantía de cumplimiento del contrato respectivo.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 75.
 
-Las garantías que deban otorgarse conforme a esta Ley por contratos que se celebren con las Dependencias se constituirán en favor de la Secretaria, y cuando se trate de contratos que se celebren con las Entidades las garantías se constituirán en favor de éstas, de conformidad con el Libro Segundo, Título Cuarto del Código Financiero del Distrito Federal, mismas garantías que se otorgarán dentro de un plazo de 10 días hábiles contados a partir de la firma del contrato respectivo.
+Las garantías que deban otorgarse conforme a esta Ley por contratos que se celebran con las Dependencias y Organos Desconcentrados, se constituirán en favor de la Secretaría y cuando se trate de contratos que se celebren con las Entidades, las garantías se constituirán en favor de éstas, de conformidad con el Libro Segundo, Título Cuarto del Código Financiero del Distrito Federal, mismas garantías que se otorgarán en la firma del contrato respectivo.
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 75 bis.- Para efectos del artículo 73, fracción I la seriedad de las propuestas se podrá sostener con:
+
+I. Fianza;
+
+II. Cheque de caja;
+
+III. Cheque certificado, y
+
+IV. Los que se establezcan en los demás ordenamientos jurídicos aplicables.
+
+Los cheques a que se refieren las fracciones II y III de este artículo, deberán ser nominativos, no negociables y a favor de la Secretaría.
 
 ## TITULO CUARTO
 
@@ -792,63 +972,81 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Unico. De las Inconformidades
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 79.
 
 Los servidores públicos que infrinjan las disposiciones contenidas en esta Ley serán sancionados en términos de lo dispuesto por la Ley Federal de Responsabilidad de los Servidores Públicos.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 80.
 
-Los Proveedores que se encuentren en los supuestos de las fracciones III a IX del artículo 39, no podrán presentar propuestas ni celebrar contratos sobre las materias objeto de esta Ley, durante el plazo que establezca la Contraloría, el cual no será menor de seis meses ni mayor de dos años, contados a partir de la fecha en que ésta haya impuesto la sanción correspondiente.
+Los proveedores que se encuentren en los supuestos a que se refiere el artículo 39 de la Ley no podrán presentar propuestas en un plazo de seis meses a dos años, a juicio de la Contraloría, contados a partir de la fecha en que hayan cometido dicho supuesto. Las propuestas que sean presentadas por estos proveedores se desecharán.
+
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 81.
 
-Las Dependencias, Organos Desconcentrados y Entidades remitirán a la Contraloría la documentación comprobatoria de la sanción impuesta al Proveedor que se encuentre en el supuesto previsto en la fracción III del artículo 39 de esta Ley, a más tardar dentro de los quince días naturales siguientes a la fecha en que se le notifique la rescisión, o en su caso, la segunda rescisión, al propio Proveedor.
+Las Dependencias, Organos Desconcentrados y Entidades remitirán a la Contraloría un listado de los proveedores que incurran en alguno de los supuestos a que se refiere el artículo 39, a fin de que sean publicados en la Gaceta Oficial del Distrito Federal.
 
 ###### ARTICULO 82.
 
-La Contraloría impondrá las sanciones a que se refiere este capítulo a los Proveedores que se encuentren en los supuestos indicados en el artículo 39 de esta Ley y podrá imponer a la Dependencia, Organo Desconcentrado y Entidad adquiriente (sic), la suspensión del suministro de la prestación del Servicio en que incida la infracción cuando el caso así lo amerite.
+(DEROGADO, G.O. 24 DE DICIEMBRE DE 1998)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 83.
 
-La Contraloría impondrá las multas conforme a los siguientes criterios:
+La Contraloría impondrá a los servidores públicos que incumplan con las disposiciones de esta Ley una multa equivalente a la cantidad de cincuenta a trescientas veces el salario mínimo general vigente en el Distrito Federal, conforme a los siguientes criterios:
 
 I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
 
 II. Cuando sean varios los responsables, cada uno será sancionado con el total de la multa que se imponga;
 
-III. Tratándose de reincidencia, se duplicará el monto de la sanción señalada en el artículo 79; y
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+III. Tratándose de reincidencia, se duplicará el monto de la sanción original, y
 
 IV. En el caso de que persista la infracción, se impondrán multas por cada día que transcurra.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 84.
 
-No se impondrán sanciones o multas cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
+No se impondrán sanciones o multas cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por la Contraloría.
 
 ###### ARTICULO 85.
 
 En el procedimiento para la aplicación de las multas a que se refiere este capítulo, se observarán las siguientes reglas:
 
-I. Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción para que dentro del plazo de diez días hábiles siguientes al día en que se le notifique, exponga lo que a su derecho convenga. Asimismo, se le hará saber, dentro de los tres días hábiles siguientes al de presentación de su manifestación, el lugar, día y hora en que tendrá verificativo la audiencia donde podrá ofrecer pruebas y ofrecer alegatos por sí o por medio de un defensor designado para tal efecto;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+I. Se comunicarán por escrito al servidor público los hechos constitutivos de la presunta infracción para que dentro del plazo de diez días hábiles siguientes al día en que se le notifique, exponga lo que a su derecho convenga y ofrezca pruebas. Asimismo, se le hará saber, dentro de los tres días hábiles siguientes al de presentación de su manifestación, el lugar, día y hora en que tendrá verificativo la audiencia donde se recibirán y desahogarán las pruebas ofrecidas y expresará alegatos por sí o por medio de un defensor designado para tal efecto;
 
 II. Transcurrido el término a que se refiere la fracción anterior, y desahogadas las pruebas, si las hubiere, la Contraloría resolverá dentro de los tres días hábiles siguientes, sobre la existencia o no de los hechos constitutivos de la infracción; y
 
 III. La resolución será debidamente fundada, motivada y notificada personalmente al afectado dentro del término de tres días hábiles contados a partir del momento que se pronuncie la misma.
 
-En lo conducente, este artículo será aplicable en las rescisiones administrativas que lleven a cabo las Dependencias, Organos Desconcentrados y Entidades por causas imputables a los Proveedores.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 86.
 
 Los servidores públicos de las Dependencias, Organos Desconcentrados y Entidades que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la Ley.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 87.
 
-Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos; una vez determinadas las causas, soportadas legal y administrativamente con la documentación que así lo avale, serán puestas, por parte de la Contraloría, a disposición de as autoridades correspondientes para iniciar los procedimientos que el caso amerite.
+Las responsabilidades administrativas que deriven de violación a las disposiciones de la presente Ley serán independientes de las de orden civil o penal.
 
 ## TITULO SEXTO. DE LAS INCONFORMIDADES
 
 ###### ARTICULO 88.
 
-Será aplicable la Ley de Procedimiento Administrativo del Distrito Federal las disposiciones jurídicas que se deriven de ella, en materia del recurso de inconformidad en contra de los actos de la Administración Pública del Distrito Federal ordenados o dictados con motivo de la aplicación de la presente Ley y normas jurídicas que de ella emanen.
+En contra de los actos y resoluciones de la Administración Pública del Distrito Federal ordenados o dictados con motivo de la aplicación de la presente Ley y normas jurídicas que de ella emanen, se podrá interponer el recurso de inconformidad, en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
+
+En estos casos el recurso de inconformidad se tramitará y resolverá por la Contraloría.
 
 TRANSITORlOS
 
@@ -860,14 +1058,36 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la Gac
 
 En un plazo que no excederá de los 180 días naturales contados a partir de la fecha de la entrada en vigor de la presente Ley, se emitirá el Reglamento de la Ley de Adquisiciones para el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO TERCERO.
 
-Los procedimientos de Licitación pública que se encuentren en proceso y los contratos adjudicados a la entrada en vigor de esta Ley, serán llevados a cabo de conformidad con la Ley de Adquisiciones y Obras Públicas hasta su terminación.
+Los procedimientos de Licitación pública, de invitación restringida a cuando menos tres proveedores y de adjudicación directa, que se hayan dictaminado por el Comité o Subcomité respectivo, a la entrada en vigor de esta Ley, continuarán rigiéndose por lo previsto en la Ley de Adquisiciones y Obras Públicas hasta su terminación.
 
 ###### ARTICULO CUARTO.
 
 Publíquese en el Diario Oficial de la Federación para su mayor difusión.
 
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO QUINTO.
+
+En cumplimiento a lo dispuesto por el artículo 20 de esta Ley, el Jefe de Gobierno el (sic) Distrito Federal, deberá establecer el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios, en un plazo no mayor de 90 días hábiles contados a partir de la publicación de la presente Ley.
+
+Hasta en tanto el Jefe de Gobierno del Distrito Federal no establezca el Comité a que se refiere el párrafo anterior, el Comité de Adquisiciones, Arrendamientos y Prestación de Servicios, así como los Subcomités existentes antes de la entrada en vigor de esta Ley, continuarán su operación, debiendo en su caso aplicar las disposiciones de la presente Ley.
+
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, I Legislatura a treinta de abril de mil novecientos noventa y ocho.- Por la Mesa Directiva, Dip. Sara Isabel Castellanos Cortes.- Presidenta.- Dip. Alejandro Rojas Díaz Duran, Secretario.- Dip. Guillermina Martínez Parra, Secretaria.- Rúbricas.
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal y para su debida publicación y observancia, expido el presente Decreto en la residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de septiembre de mil novecientos noventa y ocho.- El Jefe de Gobierno del Distrito Federal, Cuauhtémoc Cárdenas Solorzano.- Rúbrica.- La Secretaria de Gobierno, Rosario Robles Berlanga.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 24 DE DICIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto de reformas y adiciones de la Ley de Adquisiciones para el Distrito Federal, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Diario Oficial de la Federación, para su mayor difusión.
