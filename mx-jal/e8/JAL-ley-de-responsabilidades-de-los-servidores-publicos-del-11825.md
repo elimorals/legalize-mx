@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2004-05-18"
+last_updated: "2004-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,29 @@ state: "JAL"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
+REGLAMENTO INTERNO DE LA OFICIALIA MAYOR DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2008.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de diciembre de 2006.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+EUGENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE, EL ARTÍCULO 49, FRACCIONES I Y XVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; Y CON FUNDAMENTO EN LOS ARTÍCULOS 3 Y 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
+CONSIDERANDO
 
-DECRETO
+.
 
-Número 16962. El Congreso del Estado Decreta:
+SÉPTIMO.- Que es necesario dar cumplimiento a los compromisos asumidos por la Oficialía Mayor de Gobierno en materia de modernización y actualización de su marco normativo, por lo que he tenido a bien expedir el siguiente:
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
+REGLAMENTO INTERNO DE LA OFICIALÍA MAYOR DE GOBIERNO
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO PRIMERO. DEL OBJETO Y ORGANIZACIÓN
 
-### Capítulo Único. DE LAS PREVENCIONES Y AUTORIDADES COMPETENTES
+###### ARTÍCULO 1.
+
+El presente reglamento tiene por objeto regular la organización y funcionamiento de la Oficialía Mayor de Gobierno, así como establecer las unidades administrativas que la integran, sus atribuciones, las facultades de sus titulares y definir el sistema suplencia de los servidores públicos.
+
+### CAPÍTULO I. DE LAS FACULTADES DE LOS DIRECTORES
 
 ###### Artículo 1º.
 
@@ -62,6 +66,18 @@ VII. El registro patrimonial de los servidores públicos.
 ###### Artículo 2º.
 
 Para los efectos de esta ley, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en la Constitución Política del Estado de Jalisco; a los miembros del Consejo Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+
+###### ARTÍCULO 2.
+
+La Oficialía Mayor de Gobierno como dependencia del Poder Ejecutivo, tiene a su cargo el despacho de los asuntos a que se refiere la Ley Orgánica de la Administración Pública del Estado de Baja California y demás normatividad aplicable.
+
+###### ARTÍCULO 3.
+
+Para los efectos del presente reglamento se entenderá por:
+
+I.- Oficialía: A la Oficialía Mayor de Gobierno; y
+
+II.- Oficial Mayor: Al Oficial Mayor de Gobierno.
 
 ###### Artículo 3º.
 
@@ -95,15 +111,199 @@ Cuando los actos y omisiones materia de las acusaciones queden comprendidos en m
 
 No podrán imponerse dos veces, por una sola conducta, sanciones de la misma naturaleza.
 
-## TÍTULO SEGUNDO. DEL JUICIO POLÍTICO
+###### ARTÍCULO 4.
 
-### Capítulo I. SUJETOS Y CAUSAS DE JUICIO POLÍTICO
+Para el ejercicio de las atribuciones de su competencia, la Oficialía contará con las siguientes unidades administrativas:
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+I.- Oficina del Titular
+
+A. Unidad Concentradora de Transparencia
+
+II.- Subsecretaría de Administración
+
+i) Departamento Administrativo
+
+A. Dirección de Recursos Humanos
+
+i) Departamento de Administración de Personal
+
+ii) Departamento de Profesionalización y Desarrollo
+
+iii) Departamento de Relaciones Laborales
+
+B. Dirección de Adquisiciones
+
+i) Departamento de Invitaciones y Licitaciones
+
+ii) Departamento de Compras
+
+C. Dirección de Bienes Patrimoniales
+
+i) Departamento de Control de Inventarios y Almacenes Generales
+
+ii) Departamento de Control de Bienes Inmuebles y Arrendamientos
+
+D. Dirección de Servicios Generales
+
+i) Departamento de Archivo General
+
+ii) Departamento de Archivo Histórico
+
+iii) Departamento de Administración de Servicios
+
+iv) Departamento de Talleres Gráficos
+
+v) Departamento de Taller Mecánico Automotriz
+
+1.- Subdirección de Ingeniería y Mantenimiento
+
+i) Departamento de Proyectos, Control y Seguimiento de Obras
+
+ii) Departamento de Servicios Especializados y Eventos
+
+iii) Departamento de Ingeniería y Conservación
+
+E. Dirección de Normatividad y Políticas Administrativas
+
+i) Departamento de Normatividad
+
+ii) Departamento de Desarrollo Organizacional
+
+iii) Departamento de Coordinación del Sector Paraestatal
+
+F. Dirección de Desarrollo de Proyectos
+
+i) Departamento de Gestión de Calidad
+
+ii) Departamento de Sistemas de Información
+
+G. Delegación Tijuana
+
+i) Departamento de Servicios Administrativos
+
+ii) Departamento de Recursos Humanos
+
+iii) Departamento de Compras y Servicios
+
+iv) Departamento de Control de Bienes Inmuebles y Arrendamientos
+
+v) Departamento de Ingeniería y Mantenimiento
+
+H. Delegación Ensenada
+
+i) Departamento de Administración de Recursos Humanos
+
+ii) Departamento de Servicios Administrativos
+
+iii) Departamento de Recursos Materiales
+
+I. Delegación Tecate
+
+J. Delegación Playas de Rosarito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2008)</small>
+
+K. Delegación San Quintín.
+
+## TÍTULO SEGUNDO. DE LAS FACULTADES DEL OFICIAL MAYOR
+
+###### ARTÍCULO 8.
+
+La representación, trámite y resolución de los asuntos competencia de la Oficialía corresponde originalmente al Oficial Mayor, quien para la mejor distribución y desarrollo del trabajo, podrá conferir las facultades delegables en servidores públicos subalternos, sin perjuicio de ejercerlas directamente, cuando así lo estime pertinente.
+
+###### ARTÍCULO 9.
+
+El Oficial Mayor tendrá las siguientes facultades:
+
+I.- Establecer y controlar la política de la Oficialía, así como planear, coordinar y evaluar en los términos de la legislación aplicable, las funciones que le corresponden; procediendo para tal efecto, conforme a las políticas, objetivos y prioridades que establezca el Gobernador del Estado;
+
+II.- Someter al acuerdo del Gobernador del Estado los asuntos que por su importancia requieran de su conformidad, así como los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones sobre asuntos de su competencia;
+
+III.- Designar y remover a los servidores públicos responsables de las diversas unidades administrativas que componen la Oficialía;
+
+IV.- Firmar de conocimiento los reglamentos, decretos y acuerdos expedidos o promulgados por el Gobernador del Estado, cuando sean de su competencia;
+
+V.- Aprobar el anteproyecto de presupuesto de egresos de las materias que competen a la Oficialía;
+
+VI.- Dar cuenta al Congreso del Estado de la situación que guarda su ramo, cuando así se le requiera;
+
+VII.- Tener bajo su mando la oficina encargada de recibir y despachar las solicitudes de la información pública que se formulen a las dependencias y entidades de la administración pública estatal;
+
+VIII.- Intervenir en la celebración de convenios entre el Estado, la Federación y los Municipios que incluyan materias de su competencia;
+
+IX.- Autorizar las erogaciones de su competencia de conformidad con el presupuesto de egresos del Gobierno del Estado;
+
+X.- Orientar a las entidades paraestatales en la aplicación de normas y políticas en materia de administración y desarrollo de recursos humanos, materiales y de servicios;
+
+XI.- Formar parte de las comisiones intersecretariales, en las que se incluya a la Oficialía;
+
+XII.- Nombrar mediante oficio apoderados para ser representado ante cualquier autoridad, cuando la dependencia, sus unidades o el titular tengan el carácter de parte en algún procedimiento; el poder será limitado al asunto de que se trate y en él se señalarán las facultades que se otorgan;
+
+XIII.- Declarar administrativamente la cancelación, caducidad, nulidad, suspensión, rescisión y/o revocación de autorizaciones, permisos, concesiones o asignaciones que correspondan;
+
+XIV.- Aprobar la organización y funcionamiento de las Direcciones y adscribir orgánicamente las unidades administrativas de la dependencia;
+
+XV.- Establecer unidades de apoyo para la adecuada aplicación de las normas y políticas de administración interna y organización, para las dependencias del Poder Ejecutivo;
+
+XVI.- Proponer la creación, modificación o supresión de sus delegaciones, con la circunscripción que considere conveniente; así como revisar, reformar y nulificar en su caso, las resoluciones dictadas por las mismas;
+
+XVII.- Expedir los manuales de organización, procedimientos y servicios al público de la Oficialía;
+
+XVIII.- Establecer las normas y políticas que regulen la adquisición, suministro y control de bienes y servicios que requieran las dependencias de la Administración Pública Central;
+
+XIX.- Establecer las normas y políticas que regulen los servicios de conservación, mantenimiento y control de los bienes muebles e inmuebles y las adaptaciones de las instalaciones que se requieran;
+
+XX.- Celebrar todos los convenios y contratos referentes a bienes y servicios que se requieran por parte de la administración pública centralizada;
+
+XXI.- Presidir los comités y subcomités de adquisiciones en que la Oficialía sea parte y autorizar los de las entidades paraestatales;
+
+XXII.- Administrar y autorizar la baja de los bienes muebles de los inventarios oficiales y cuando proceda proponer al Gobernador su venta o destrucción, así como realizar los actos jurídicos y administrativos que sean necesarios para transferir el uso, la posesión o la propiedad, con las limitaciones que fije la normatividad aplicable;
+
+XXIII.- Recibir, gestionar, tramitar y controlar las donaciones de bienes muebles e inmuebles, que por cualquier medio o disposición se hagan al Gobierno del Estado;
+
+XXIV.- Administrar, custodiar y conservar los bienes inmuebles del Gobierno del Estado y proponer al Ejecutivo su adquisición, venta, permuta, asignación o donación;
+
+XXV.- Establecer los programas relacionados con la innovación de procesos, uso eficiente de recursos, ahorro y establecimiento de sistemas de calidad en la Administración Pública Estatal;
+
+XXVI.- Establecer las normas y políticas de planeación y desarrollo de los recursos humanos, de selección, contratación y capacitación del personal, así como administrar y conducir la bolsa de trabajo y la prestación del servicio social;
+
+XXVII.- Conducir las relaciones laborales conforme a los ordenamientos legales y a los lineamientos establecidos por el Ejecutivo del Estado, así como atender y negociar las solicitudes presentadas por los sindicatos;
+
+XXVIII.- Resolver en el ámbito de su competencia sobre las proposiciones que los titulares de las dependencias del Ejecutivo hagan para la creación de plazas de su personal de confianza;
+
+XXIX.- Expedir los nombramientos de los servidores públicos, declarar administrativamente el reconocimiento de antigüedad, autorizar los movimientos de personal, resolver sobre los casos de terminación de los efectos del nombramiento y emitir los lineamientos relativos a la aplicación, modificación y revocación de las sanciones administrativas a que se haga acreedor el personal y expedir copias certificadas de los nombramientos de los servidores públicos;
+
+XXIX.- Autorizar el sistema de escalafón y ascensos, el tabulador general de sueldos y establecer y administrar el servicio civil de carrera de los trabajadores al servicio del Poder Ejecutivo;
+
+XXX.- Autorizar, conjuntamente con la Secretaría de Planeación y Finanzas del Estado, previo acuerdo expreso del Gobernador, la remuneración que corresponda a dos o más cargos a la persona interesada, de conformidad con la Ley de Compatibilidad de Funciones, Empleos y Comisiones del Estado y demás normatividad aplicable;
+
+XXXI.- Dirigir y coordinar el Periódico Oficial del Estado, así como la emisión de publicaciones oficiales e impresos;
+
+XXXII.- Establecer las normas y políticas tendientes a regular la actividad de los archivos de las dependencias del Poder Ejecutivo;
+
+XXXIII.- Resolver en definitiva las dudas que se susciten con motivo de la interpretación y aplicación del presente reglamento;
+
+XXXIV.- Dictaminar los Reglamentos Internos y manuales administrativos de las dependencias y entidades en lo relativo a las materias competencia de la Oficialía; y
+
+XXXV.- Las demás que le confiera el Gobernador del Estado y otras disposiciones aplicables, así como las necesarias para hacer efectivas las facultades anteriores.
+
+### CAPÍTULO II. DE LAS FACULTADES DE LOS SUBDIRECTORES
 
 ###### Artículo 5º.
 
 Podrán ser sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Ejecutivo del Estado, el Procurador General de Justicia, el Procurador Social y el Contralor del Estado; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los presidentes, síndicos, regidores o concejales; y los funcionarios encargados de la hacienda municipal; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria.
+
+###### ARTÍCULO 5.
+
+Cada unidad administrativa tendrá un titular, mismo que actuará bajo las disposiciones de carácter general, lineamientos, políticas, manuales, circulares y criterios administrativos que emita el Oficial Mayor, así como, conforme a la normatividad aplicable.
+
+###### ARTÍCULO 6.
+
+La Oficialía a través de sus unidades administrativas, realizará sus actividades en forma programada y con base en los objetivos, políticas, prioridades y restricciones que establezcan el Gobernador del Estado y el Oficial Mayor.
+
+###### ARTÍCULO 7.
+
+El Oficial Mayor designará y removerá libremente a los titulares de cada unidad administrativa, quienes tendrán las facultades que las leyes, este reglamento y demás normatividad aplicable les establecen y supeditarán su actuación a los reglamentos, normas, manuales, circulares, instrucciones y criterios que rigen el funcionamiento y el ejercicio de los programas, sistemas y atribuciones relativos a su encargo.
 
 ###### Artículo 6º.
 
@@ -137,7 +337,7 @@ En todos los casos, para establecer los criterios que determinen la gravedad de 
 
 El gobernador, los diputados del Congreso del Estado y los magistrados del Poder Judicial del Estado serán responsables ante el Congreso de la Unión por violaciones graves a la Constitución federal y a las leyes que de ella emanen, así como por el indebido manejo de fondos y recursos federales. En estos casos, una vez recibida la declaración correspondiente en el Congreso del Estado, éste procederá conforme a lo previsto en la presente ley.
 
-### Capítulo II. DEL PROCEDIMIENTO DE JUICIO POLÍTICO
+### CAPÍTULO III. DE LAS FACULTADES DE LOS JEFES DE DEPARTAMENTO
 
 ###### Artículo 8º.
 
@@ -159,553 +359,1041 @@ III. La Comisión de Responsabilidades desde que formula conclusiones acusatoria
 
 En ningún momento y por ninguna circunstancia el Pleno de la Asamblea del Congreso del Estado puede ser parte en el procedimiento.
 
-###### Artículo 10.
+###### ARTÍCULO 10.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad, podrá formular por escrito, denuncia ante el Congreso del Estado contra alguno de los servidores públicos contemplados en el artículo 5º del presente ordenamiento, y sólo por las conductas previstas en el artículo 7º de esta ley.
-
-La denuncia deberá estar apoyada en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y estar en condiciones de presumir la responsabilidad del denunciado. En caso de que no pudiera aportar dichas pruebas por encontrarse éstas en posesión de una autoridad, la Comisión de Responsabilidades, ante el señalamiento del denunciante, podrá solicitarlas para los efectos conducentes, cuando el mismo denunciante señale la relación que tienen dichos medios de prueba solicitados con los hechos denunciados y manifieste, bajo protesta de decir verdad, su imposibilidad de aportarlas.
-
-No se aceptarán denuncias anónimas.
-
-El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones.
+Son facultades no delegables del Oficial Mayor las establecidas en las fracciones I, II, III, IV, VI, VII, VIII, X, XIII, XIV, XVII, XVIII, XIX, XXIV, XXX, XXXII y XXXIII del Artículo anterior.
 
 #### Sección Primera. De los requisitos que debe contener la denuncia de juicio político
 
-###### Artículo 11.
+###### ARTÍCULO 11.
 
-El escrito de denuncia de juicio político deberá contener:
-
-I. Nombre del o los denunciantes;
-
-II. Domicilio que señalen para recibir notificaciones;
-
-III. Nombre del servidor público denunciado e indicación del cargo que desempeña o desempeñó;
-
-IV. Bajo protesta de decir verdad, una relación clara de las acciones u omisiones que contemplen las condiciones de modo, tiempo y lugar y que, a consideración del denunciante, encuadren en las conductas establecidas en el artículo 7º de este ordenamiento;
-
-V. Las pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y, en su caso, la solicitud de que la Comisión de Responsabilidades recabe las pruebas a las que el denunciante no tiene acceso;
-
-VI. Firma autógrafa del denunciante o los denunciantes.
+Se encuentran directamente adscritas a la oficina del titular, la Subsecretaría de Administración, la Unidad Concentradora de Transparencia y las Delegaciones circunscritas en los municipios de Tijuana, Ensenada, Tecate y Playas de Rosarito.
 
 #### Sección Segunda. Del examen previo
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
 
-###### Artículo 12.
+###### ARTÍCULO 12.
 
-El Escrito de denuncia deberá presentarse ante la Oficialía de Partes del Congreso del Estado y ratificarse en forma personal dentro de los tres días hábiles siguientes a su presentación, ante el órgano técnico de Responsabilidades de la Comisión de Responsabilidades.
+Corresponde al Subsecretario de Administración, el ejercicio de las siguientes facultades:
 
-Cuando la denuncia no sea ratificada dentro del plazo previsto, se tendrá como no interpuesta.
+I.- Acordar con el Oficial Mayor la atención de los asuntos de las unidades administrativas adscritas a su responsabilidad, informando oportunamente sobre los mismos;
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+II.- Desempeñar las facultades y comisiones que el Oficial Mayor le indique, representarlo en los comités, juntas y demás órganos de dirección en los que se incluya a la Oficialía e informarlo sobre el ejercicio y desarrollo de las mismas;
 
-Una vez ratificada la denuncia, no procede el desistimiento. El órgano técnico de Responsabilidades la remitirá al Pleno de la Asamblea para su conocimiento y para que, previo acuerdo, sea turnada a la Comisión de Responsabilidades.
+III.- Acordar con los directores, delegados y demás servidores públicos el despacho de los asuntos competencia de la Oficialía;
 
-###### Artículo 13.
+IV.- Coordinar y evaluar las actividades de las unidades administrativas adscritas a la Oficialía, vigilando que se realicen conforme a las normas y políticas aplicables;
 
-La Comisión de responsabilidades deberá, en un plazo de treinta días hábiles contados a partir de que le sea turnada la denuncia, emitir un dictamen en el que determine si es procedente la incoación del procedimiento o si debe desecharse de plano la denuncia.
+V.- Supervisar la elaboración del anteproyecto de presupuesto de egresos de la Oficialía, así como presentar la información necesaria para su aprobación, vigilar su ejercicio y aplicación;
 
-Para que se declare la incoación del procedimiento de juicio político, se deberán reunir todas y cada una de las siguientes condiciones:
+VI.- Verificar que los directores, delegados y demás responsables de las unidades administrativas cumplan con las disposiciones administrativas, normas y políticas que el Oficial Mayor establezca al interior de la dependencia;
 
-I. Que la denuncia contenga todos los requisitos establecidos en el artículo 11 del presente ordenamiento;
+VII.- Recibir a los directores, delegados, subdirectores, jefes de departamento o responsables de las unidades administrativas de otras dependencias y a cualquier otro servidor público subalterno y en audiencia a las personas que así lo soliciten;
 
-II. Que el denunciado se encuentre entre los sujetos de juicio político que contempla la Constitución Política del Estado de Jalisco y el artículo 5º de la presente ley;
+VIII.- Establecer previa aprobación del Oficial Mayor, los criterios y lineamientos administrativos, operativos y de coordinación para el despacho de los asuntos de la Oficialía;
 
-III. Que la denuncia fue presentada en el tiempo y forma que establecen los artículos 10 y 11 del presente ordenamiento.
+IX.- Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
-Si no se reúnen todos los requisitos y condiciones anteriores, el dictamen que se presente al pleno del Congreso del Estado por parte de la Comisión de Responsabilidades deberá proponer invariablemente desechar de plano la denuncia.
+X.- Coordinar la elaboración de reportes ejecutivos y proporcionar la información, datos y cooperación que le sean requeridos por otras dependencias, sobre materias que competan a la Oficialía;
 
-###### Artículo 14.
+XI.- Desarrollar y proponer proyectos de reforma y modernización, uso eficiente de recursos y procesos de administración por calidad total en la prestación de servicios de la Oficialía;
 
-Si del análisis de la denuncia, la Comisión de Responsabilidades determina que la misma adolece de alguno de los requisitos formales o la narración de los hechos denunciados es obscura y confusa, se prevendrá al denunciante para que en un plazo de cinco días hábiles contados a partir de que surta efectos la notificación, aporte los requisitos omitidos o aclare los hechos denunciados.
+XII.- Someter a la aprobación del Oficial Mayor la actualización o modificación de la estructura organizacional y denominación de las unidades administrativas, tabuladores y salarios, manuales administrativos y operativos, catálogo de puestos y demás sistemas de carácter organizacional;
 
-Si en el plazo otorgado el denunciante no cumple con las prevenciones que se le formulen, la Comisión de Responsabilidades presentará al Pleno del Congreso del Estado un dictamen en el que se deseche de plano la denuncia planteada.
+XIII.- Proponer y ejecutar los estudios, programas o proyectos, así como los lineamientos y criterios relacionados con las funciones de administración y desarrollo de personal, recursos materiales, servicios, inventarios y patrimonio inmobiliario de la Administración Pública Estatal;
 
-###### Artículo 15.
+XIV.- Proponer los principios normativos y metodológicos para la operación y funcionamiento del servicio civil de carrera;
 
-En todo momento, la Comisión de Responsabilidades mediante acuerdo interno, tendrá la facultad de solicitar los informes que juzgue oportunos a toda clase de autoridades, así como copias certificadas de los documentos que obren en oficinas y archivos públicos, pudiendo además apersonarse en dichas oficinas, de manera colegiada o individual, para examinar expedientes, libros o constancias de cualquier especie, siempre y cuando tengan relación directa con los hechos controvertidos.
+XV.- Propiciar la integración, unidad, participación, comunicación y cooperación entre las diferentes áreas de la Oficialía; y
 
-###### Artículo 16.
+XVI.- Las demás que le sean conferidas por circulares, manuales, acuerdos y órdenes emitidas por el Oficial Mayor y las que correspondan a las unidades administrativas que le sean adscritas.
 
-Cuando por el cúmulo de diligencias que la Comisión de Responsabilidades deba practicar, para abrir un período de investigación o por falta de datos, no pudiere emitir el dictamen en el plazo señalado en el artículo 13 del presente ordenamiento, lo podrá ampliar mediante acuerdo interno y por el tiempo que estime necesario, sin que pueda exceder de noventa días contados a partir de la ratificación de la denuncia. De este trámite se dará aviso a la Asamblea del Congreso en Pleno.
+###### ARTÍCULO 13.
 
-###### Artículo 17.
+Corresponde a los Directores y al titular de la Unidad Concentradora de Transparencia, el ejercicio de las siguientes facultades:
 
-Todas las resoluciones que emita el pleno de la Asamblea deberán ser notificadas a las partes.
+I.- Planear, organizar, dirigir, controlar y evaluar los programas, sistemas, servicios y procedimientos de las unidades administrativas que sean de su competencia;
 
-Cuando la resolución deseche de plano la denuncia, el denunciante podrá solicitar el recurso de revisión dentro de los cinco días hábiles siguientes a la fecha en que surta efectos la notificación, mediante escrito dirigido al Congreso del Estado en el que deberá expresar los motivos por los que considera que se debe revisar la resolución emitida.
+II.- Acordar la resolución de los asuntos de las unidades administrativas a su cargo y, en su caso, requerir la aprobación y conocimiento del superior inmediato o del Oficial Mayor;
 
-Una vez recibido el escrito de recurso de revisión, la Asamblea lo turnará a la Comisión de Responsabilidades para que lo analice y emita dictamen en un plazo no mayor de diez días hábiles, en el cual podrá proponer a la Asamblea la confirmación o modificación de la resolución sujeta a este procedimiento.
+III.- Desempeñar las tareas y comisiones que le encomienden e informar al superior inmediato sobre el desarrollo de las mismas;
 
-Si no se presenta el escrito de recurso de revisión dentro del término previsto o, una vez presentado, la Asamblea lo considera improcedente, el expediente deberá archivarse como asunto concluido, sin que pueda solicitarse con posterioridad el recurso de revisión.
+IV.- Formular y suscribir dictámenes, constancias, resoluciones, opiniones, informes, certificación de documentos oficiales y demás relativos al ejercicio de sus funciones;
 
-###### Artículo 18.
+V.- Proponer la contratación de asesorías, estudios y proyectos de investigación para la adecuada operación de las unidades administrativas a su cargo, así como controlar y evaluar sus resultados;
 
-Dentro de los siguientes cinco días hábiles a aquel en que la Asamblea del Congreso del Estado en pleno declare la incoación del procedimiento de juicio político, se notificará personalmente al denunciado con las siguientes prevenciones:
+VI.- Representar al Oficial Mayor en los actos, eventos, juntas y demás asuntos de su competencia que se le encomienden e informarlo sobre el desarrollo de los mismos;
 
-I. La notificación se realizará en el domicilio de la dependencia en la que el servidor público preste sus servicios o realice sus funciones o en su defecto, el lugar donde se le encuentre;
+VII.- Proponer las acciones que tiendan a lograr el mejor funcionamiento de las unidades administrativas a su cargo, así como apoyar y desarrollar los programas de modernización y eficiencia de los recursos asignados;
 
-II. Se le extenderá copia de la denuncia, de sus documentos anexos y del dictamen de incoación del procedimiento aprobado por la Asamblea;
+VIII.- Participar en la elaboración del anteproyecto de presupuesto de egresos de la dependencia e integrar aquel que corresponda a las unidades administrativas a su cargo;
 
-III. Se le hará saber que para su garantía de audiencia y defensa puede comparecer o informar por escrito y ofrecer pruebas que desvirtúen los hechos o lo exoneren de responsabilidad dentro de los siguientes siete días hábiles a aquel en que surta efectos la notificación;
+IX.- Administrar y ejercer el presupuesto autorizado para las unidades administrativas a su cargo y verificar el avance físico-financiero de los programas;
 
-IV. Se hará de su conocimiento que tiene derecho a nombrar personas de su confianza para que lo defiendan; y
+X.- Formular, controlar y evaluar los programas de trabajo de las unidades administrativas a su cargo;
 
-V. Se le prevendrá para que señale domicilio para recibir y oír todo tipo de notificaciones.
+XI.- Aplicar y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones generales aplicables al área de su competencia;
 
-Una vez que se tenga la certeza de que se han cumplido todas y cada una de las prevenciones contempladas en el presente artículo y transcurridos los siete días de plazo, independientemente de que el denunciado comparezca o no, se continuará con el procedimiento.
+XII.- Vigilar y procurar el óptimo aprovechamiento de los recursos de que disponen las áreas de su adscripción, para cumplir con los programas y acciones asignadas;
+
+XIII.- Administrar los bienes muebles, equipos de oficina y de transporte asignados, así como vigilar el buen uso de los mismos;
+
+XIV.- Proporcionar la información, asesoría y cooperación que les sean requeridas por las unidades administrativas de la Oficialía, dependencias, entidades o autoridades en la materia de su competencia, de acuerdo con las políticas establecidas;
+
+XV.- Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales administrativos de organización, procedimientos y servicios correspondientes a las unidades administrativas adscritas;
+
+XVI.- Coordinarse con Directores y Delegados para el mejor cumplimiento de los programas de la Oficialía, conforme a las políticas establecidas; y
+
+XVII.- Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y la normatividad aplicable.
+
+###### ARTÍCULO 14.
+
+Corresponde a los Subdirectores, el ejercicio de las siguientes facultades:
+
+I.- Desempeñar las funciones y comisiones, así como resolver los asuntos que le encomiende el Director que corresponda;
+
+II.- Coordinar y supervisar los programas, sistemas y servicios de las jefaturas departamentales de su adscripción;
+
+III.- Verificar que los titulares de las áreas o departamentos adscritos, cumplan con las disposiciones legales y administrativas aplicables;
+
+IV.- Participar en la formulación del anteproyecto de presupuesto de egresos de la Subdirección a su cargo;
+
+V.- Administrar el presupuesto autorizado para las unidades administrativas a su cargo y verificar el avance físico-financiero de los programas;
+
+VI.- Suscribir los documentos relativos al ejercicio de sus funciones;
+
+VII.- Solicitar y presentar los reportes e informes sobre las materias de su competencia; y
+
+VIII.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 15.
+
+Corresponde a los Jefes de Departamento, el ejercicio de las siguientes facultades:
+
+I.- Proponer y ejecutar los programas de trabajo, prestar los servicios, operar los sistemas y aplicar los procedimientos de su competencia, informando periódicamente de los avances y resultados alcanzados;
+
+II.- Acordar con el superior inmediato el despacho y resolución de los asuntos que sean de su competencia;
+
+III.- Participar en la formulación del programa operativo anual, así como del anteproyecto de presupuesto de egresos del Departamento respectivo;
+
+IV.- Coadyuvar en el ámbito de su competencia, en la elaboración y actualización de proyectos de reglamentos, normas y políticas, manuales administrativos de organización, procedimientos y servicios;
+
+V.- Proporcionar el apoyo y asistencia técnica requerida por las unidades administrativas de la Oficialía, dependencias y entidades en la materia de su competencia, conforme a las políticas establecidas;
+
+VI.- Vigilar y optimizar el aprovechamiento de los recursos asignados;
+
+VII.- Cumplir y hacer cumplir las disposiciones jurídicas y administrativas aplicables en la ejecución y operación de las funciones de su departamento;
+
+VIII.- Planear, programar, organizar, dirigir, controlar y evaluar las actividades encomendadas a las unidades operativas adscritas, de acuerdo con los requerimientos técnicos y administrativos de la función;
+
+IX.- Someter a la aprobación del superior inmediato, los estudios, proyectos e informes elaborados bajo su responsabilidad;
+
+X.- Organizar, supervisar y evaluar el desempeño de las actividades encomendadas al personal subordinado;
+
+XII.- Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+
+XIII.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 16.
+
+Se adscriben a la Subsecretaría de Administración, las Direcciones de Recursos Humanos, Adquisiciones, Bienes Patrimoniales, Servicios Generales, Normatividad y Políticas Administrativas y Desarrollo de Proyectos, así como el departamento administrativo de la dependencia.
+
+###### ARTÍCULO 17.
+
+Corresponde a la Unidad Concentradora de Transparencia, el ejercicio de las siguientes atribuciones:
+
+I.- Recibir las solicitudes de acceso a la información pública, así como de corrección de datos personales en el Estado, que formulen a las dependencias y entidades de la administración pública del Poder Ejecutivo;
+
+II.- Orientar a los particulares en la elaboración de solicitudes a efecto de suplir cualquier deficiencia y brindar asesoría para dar seguimiento a las mismas en medios electrónicos;
+
+III.- Dirigir y coordinar los procesos de trámite y seguimiento de información y corrección de datos con las dependencias y entidades;
+
+IV.- Recibir del titular o sujeto obligado la información pública solicitada o en su caso el acuerdo o contestación que recaiga a la solicitud;
+
+V.- Entregar a los interesados la información pública que remitan las dependencias y entidades del Poder Ejecutivo, que den respuesta a cada solicitud y tramitar la corrección de datos personales en los términos de los ordenamientos legales aplicables;
+
+VI.- Realizar las notificaciones relacionadas con resoluciones, acuerdos, requerimientos, avisos y demás situaciones que el solicitante deba conocer;
+
+VII.- Recibir los recursos de inconformidad que interpongan los solicitantes y turnarlos al Tribunal de lo Contencioso Administrativo del Estado en los términos de la normatividad aplicable;
+
+VIII.- Elaborar los informes de acceso a la información pública en el Poder Ejecutivo de conformidad con los ordenamientos legales aplicables;
+
+IX.- Emitir los formatos de solicitud y demás instrumentos que la ley y su reglamento prevén, para facilitar el acceso a la información pública, así como el material de difusión que se requiera;
+
+X.- Difundir y promover la cultura de acceso a la información pública en el Estado;
+
+XI.- Fungir como enlace entre los titulares o sujetos obligados y el Consejo Ciudadano de Transparencia y Acceso a la Información Pública;
+
+XII.- Mantener actualizado el índice de información reservada, con base en los acuerdos de reserva que emitan los titulares o sujetos obligados; y
+
+XIII.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 18.
+
+Corresponde a la Dirección de Recursos Humanos, las siguientes atribuciones:
+
+I.- Planear, programar, organizar, dirigir, controlar y evaluar los sistemas de administración y desarrollo de los recursos humanos del Poder Ejecutivo;
+
+II.- Implementar y controlar los procedimientos de reclutamiento, selección, contratación, capacitación, remuneración, reconocimiento de antigüedad, terminación y rescisión de la relación laboral del personal del Poder Ejecutivo;
+
+III.- Planear, promover, ejecutar y mantener el servicio civil de carrera y la profesionalización del servicio público en las Dependencias del Poder Ejecutivo;
+
+IV.- Autorizar nombramientos, ascensos, cambios de adscripción, licencias, vacaciones, permisos, bajas y demás movimientos de personal, de conformidad con las políticas y disposiciones aplicables;
+
+V.- Autorizar y controlar incapacidades, así como los descuentos y deducciones salariales a que se haga acreedor el, personal de las dependencias del Poder Ejecutivo;
+
+VI.- Formular programas que orienten la política salarial del Poder Ejecutivo;
+
+VII.- Definir y dirigir los programas de capacitación, adiestramiento y desarrollo de personal, de acuerdo a las necesidades y exigencias de las diferentes dependencias del Poder Ejecutivo;
+
+VIII.- Autorizar la emisión de credenciales de identificación y certificación de nombramientos a los empleados del Poder Ejecutivo; así como, otorgar las constancias, reconocimientos y demás documentos de trabajo, de conformidad con las políticas y disposiciones generales que se establezcan para tal efecto;
+
+IX.- Suscribir las hojas de servicio de los trabajadores del Poder Ejecutivo;
+
+X.- Vigilar el cumplimiento de las leyes, reglamentos, políticas, normas, lineamientos, acuerdos y demás disposiciones aplicables en materia laboral y administrativa, así como, de los convenios y contratos que rigen las relaciones de trabajo con los servidores públicos adscritos al Poder Ejecutivo, en coordinación con la dependencia que corresponda;
+
+XI.- Aplicar y vigilar el cumplimiento de las Condiciones Generales de Trabajo y proponer las modificaciones a las mismas, que considere pertinentes;
+
+XII.- Proponer y aplicar los reglamentos de trabajo, de escalafón, seguridad e higiene laboral de las dependencias del Poder Ejecutivo, así como, de prestación de servicios de los cuerpos de seguridad pública;
+
+XIII.- Aplicar las políticas de estímulos y recompensas por méritos, aportaciones valiosas y útiles para el Poder Ejecutivo, a que se hagan acreedores sus trabajadores;
+
+XIV.- Proponer la normatividad en materia de catálogo de puestos, tabuladores de sueldos, sistemas escalafonarios, pago de remuneraciones, prestaciones, servicios personales, estructuras ocupacionales y en general sobre administración y desarrollo del personal;
+
+XV.- Proponer las normas y metodologías a que deba sujetarse la formulación del presupuesto de servicios personales para su posterior integración al presupuesto de egresos;
+
+XVI.- Aplicar las sanciones administrativas a que se haga acreedor el personal del Poder Ejecutivo de conformidad con la normatividad correspondiente;
+
+XVII.- Autorizar la práctica de exámenes toxicológicos al personal administrativo conforme a las normas, políticas y procedimientos aplicables y vigilar en la esfera de su competencia la aplicación en el personal de seguridad pública conforme la normatividad aplicable;
+
+XVIII.- Establecer los procesos administrativos y jurídicos en materia de Seguridad Social, dentro de las Dependencias del Poder Ejecutivo; y
+
+XIX.- Las demás que expresamente le confiera la normatividad aplicable.
 
 #### Sección Cuarta (sic). Del sobreseimiento
 
-###### Artículo 19.
+###### ARTÍCULO 19.
 
-Incoado el procedimiento de juicio político, la Asamblea en Pleno, a petición de la Comisión de Responsabilidades o de cualquiera de las partes, deberá decretar, en cualquier momento, el sobreseimiento del procedimiento del juicio político, cuando exista alguna de las causas contenidas en el siguiente artículo.
+Corresponde al Departamento de Administración de Personal, las siguientes atribuciones:
 
-###### Artículo 20.
+I.- Operar y supervisar los sistemas de administración de personal en la administración pública centralizada;
 
-Son causas de sobreseimiento del procedimiento de juicio político:
+II.- Evaluar los requerimientos de personal de las dependencias del Poder Ejecutivo e intervenir en su contratación, nombramiento, reingreso, promoción, cambio de adscripción y bajas en el padrón de empleados, así como llevar un control del registro de los mismos;
 
-I. La muerte del denunciado acaecida durante el procedimiento;
+III.- Tramitar y controlar las licencias, incapacidades, permisos, reincorporaciones, vacaciones y demás movimientos que genere el personal de las dependencias del Poder Ejecutivo;
 
-II. La imposibilidad material de aplicar la pena;
+IV.- Administrar el sistema de control de asistencia y puntualidad del personal de las dependencias del Poder Ejecutivo;
 
-III. Que la aplicación de la pena se haga innecesaria;
+V.- Expedir las credenciales oficiales, constancias de trabajo y hojas de servicio, de los servidores públicos que laboran en la administración pública centralizada;
 
-IV. Que la Comisión de Responsabilidades determine no acusar; y
+V.- Supervisar y tramitar los pagos de sueldos, liquidaciones y prestaciones económicas, así como los descuentos y retenciones a que se haga acreedor el servidor público;
 
-V. Cuando el pleno de la Asamblea, erigida en jurado de acusación, declare la improcedencia de la acusación presentada por la Comisión de Responsabilidades.
+VI.- Controlar los procesos de evaluación psicométrica, técnica y administrativa que permiten el reclutamiento y selección de personal en las Dependencias del Poder Ejecutivo;
+
+VII.- Formular, proponer y controlar los procesos que determinen la aplicación de la seguridad social, sujetándose a las normas administrativas aplicables;
+
+VIII.- Generar las estimaciones económico presupuestales para la asignación de recursos destinados a sueldos y salarios derivados de los estudios técnicos correspondientes; y
+
+IX.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 20.
+
+Corresponde al Departamento de Profesionalización y Desarrollo, las siguientes atribuciones:
+
+I.- Proponer y ejecutar los programas de capacitación, adiestramiento y desarrollo de personal, en las dependencias del Poder Ejecutivo, de acuerdo a un diagnóstico de requerimientos;
+
+II.- Diseñar y proponer los planes y programas de integración del personal a la organización, así como de carrera administrativa que contengan las trayectorias de ascenso y promoción;
+
+III.- Promover la vinculación con instituciones educativas, que permitan la ejecución de programas de capacitación y mejora en la prestación de servicios públicos;
+
+IV.- Expedir los reconocimientos o constancias por asistencia y participación en cursos o eventos de capacitación, así como generar los mecanismos de certificación respecto a las habilidades y conocimientos adquiridos;
+
+V.- Operar el servicio civil de carrera en la administración pública centralizada, así como los programas de profesionalización de los servidores públicos;
+
+VI.- Mantener actualizado el catálogo de puestos de la administración pública centralizada a través de estudios de carácter técnico que permitan la valuación de los mismos, así como el inventario de recursos humanos;
+
+VII.- Operar el sistema de evaluación del desempeño, productividad y competencias de los servidores públicos que laboran en las dependencias del Poder Ejecutivo;
+
+VIII.- Supervisar y validar la programación, ejecución y evaluación que en materia de capacitación y desarrollo de personal lleven acabo otras dependencias, centros e institutos de la administración pública central;
+
+IX.- Controlar y dar seguimiento a los programas de servicio social que instrumenten las dependencias del Poder Ejecutivo, de conformidad a los convenios y acuerdos con las diversas instituciones educativas; y
+
+X.- Las demás que expresamente le confiera la normatividad aplicable.
 
 #### Sección Quinta. De las Pruebas
 
-###### Artículo 21.
+###### ARTÍCULO 21.
 
-Una vez cerrado el plazo para que el denunciado comparezca personalmente o por escrito y ofrezca las pruebas que considere pertinentes para desvirtuar los hechos o su presunta responsabilidad, la Comisión de Responsabilidades se abocará a recibir y calificar todas y cada una de las pruebas aportadas, notificando al denunciante y al servidor público denunciado el respectivo acuerdo. Realizado el estudio de la procedencia de las pruebas, la Comisión de Responsabilidades abrirá un período de veinte días hábiles para el desahogo de las pruebas admitidas al denunciante y al servidor público denunciado, así como las que la propia Comisión estime necesarias para lograr esclarecer la verdad histórica de los hechos.
+Corresponde al Departamento de Relaciones Laborales, las siguientes atribuciones:
 
-###### Artículo 22.
+I.- Tramitar los asuntos relacionados con la reubicación, comisión, terminación y rescisión de la relación laboral del personal de las dependencias del Poder Ejecutivo;
 
-La Comisión de Responsabilidades calificará la idoneidad de las pruebas, desechando las que a su juicio no sean procedentes.
+II.- Proponer y aplicar los procedimientos y normatividad en materia laboral, que sean de la competencia de la Oficialía;
 
-Se admitirán todo tipo de medios probatorios, con excepción de la confesional y la testimonial, siempre y cuando tengan relación directa con lo (sic) hechos controvertidos y no sean contrarias a derecho.
+III.- Aplicar las sanciones administrativas a que se haga acreedor el personal del Poder Ejecutivo de conformidad con la normatividad correspondiente;
 
-Cuando la Comisión de Responsabilidades lo estime pertinente, podrá por cualquier medio legal, investigar la autenticidad de las pruebas.
+IV.- Coadyuvar en la modificación de las condiciones generales de trabajo, así como en la elaboración de convenios y contratos de materia laboral;
 
-Si al concluir el plazo señalado no hubiese sido posible desahogar todas y cada una de las pruebas admitidas o es preciso allegarse de otras, la Comisión podrá ampliar dicho plazo por el término que resulte estrictamente necesario.
+V.- Intervenir en el trámite y cumplimiento de las resoluciones definitivas, en materia laboral y administrativa en las que intervenga el personal del Poder Ejecutivo;
 
-###### Artículo 23.
+VI.- Programar y coordinar la aplicación de exámenes toxicológicos al personal administrativo de las dependencias del Poder Ejecutivo;
 
-Terminada la instrucción del procedimiento, se pondrá el expediente a la vista del denunciante por un plazo de tres días hábiles, después de los cuales, se pondrá por otros tantos a la vista del servidor público denunciado y de su defensor, a fin de que las partes tomen los datos que requieran para formular sus alegatos.
+VII.- Emitir opinión jurídica sobre solicitudes de reconocimiento de antigüedad, licencias y compatibilidad de funciones y empleos;
 
-Dentro de los tres días hábiles siguientes a la conclusión de los plazos que establece el párrafo anterior, las partes deberán entregar a la Comisión de Responsabilidades sus alegatos por escrito.
+VIII.- Planear y aplicar los programas de seguridad e higiene para la prevención de accidentes y enfermedades de trabajo; y
 
-###### Artículo 24.
+IX.- Las demás que expresamente le confiera la normatividad aplicable.
 
-Una vez cerrado el término para la presentación de los alegatos, se hayan o no presentado éstos, la Comisión de Responsabilidades elaborará sus conclusiones, para lo cual se basará en las constancias del procedimiento que obren en el expediente. Para este efecto, analizará los hechos imputados, valorará las pruebas desahogadas y, en su caso, los alegatos, y hará las consideraciones jurídicas que procedan para fundar la terminación o continuación del procedimiento.
+###### ARTÍCULO 22.
 
-###### Artículo 25.
+Corresponde a la Dirección de Adquisiciones, las siguientes atribuciones:
 
-Si de las constancias procesales se desprende la inocencia del indiciado, la Comisión de Responsabilidades propondrá en sus conclusiones que no ha lugar a acusar. De dicho dictamen deberá darse cuenta a la Asamblea en pleno para su discusión y, en su caso, aprobación.
+I.- Planear, organizar, dirigir, controlar y evaluar los sistemas para el manejo y control de adquisiciones;
 
-###### Artículo 26.
+II.- Integrar, ejecutar, controlar y evaluar el programa anual de adquisiciones, que requieran las dependencias del Poder Ejecutivo;
 
-En el caso de que de las constancias procesales se advierta la veracidad de los hechos denunciados y la responsabilidad del denunciado, la Comisión de Responsabilidades deberá emitir conclusiones acusatorias con las siguientes consideraciones:
+III.- Convocar a la instalación del Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo, así como orientar e intervenir en la integración, organización y funcionamiento de subcomités creados para las entidades paraestatales;
 
-I. Se incluirá una descripción exacta de los hechos, con sus circunstancias de modo, tiempo y lugar, y se establecerá en cual de las hipótesis previstas en el artículo 7º del presente ordenamiento encuadran;
+IV.- Ejecutar los procedimientos de adquisición de acuerdo a la normatividad aplicable, con la correspondiente intervención del Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo;
 
-II. Se determinará si existe la certeza de que los hechos están legalmente comprobados y se detallarán los elementos de convicción que así lo acreditan;
+V.- Tramitar la publicación de convocatorias para la adquisición de bienes y servicios de las dependencias del Poder Ejecutivo;
 
-III. Se expresará si quedó demostrada la presunta responsabilidad del denunciado, precisando los elementos de convicción que llevaron a la Comisión de Responsabilidades a esta conclusión; y
+VI.- Administrar el padrón de proveedores del Poder Ejecutivo y llevar el historial estadístico y administrativo sobre el incumplimiento y sanciones aplicadas a los mismos;
 
-IV. La sanción que a juicio de la Comisión de Responsabilidades deba imponerse en caso de que se declare culpable al denunciado.
+VII.- Recibir y validar las solicitudes de adquisición que gestionen las dependencias, de acuerdo a la normatividad aplicable;
 
-###### Artículo 27.
+VIII.- Supervisar la elaboración de proyectos de contratos sobre la adquisición de bienes y servicios generales de acuerdo a las Leyes y disposiciones aplicables en la materia, así como cualquier convenio que los modifique;
 
-Si se determina que los hechos encuadran en la fracción IV del artículo 7º del presente ordenamiento, se deberá precisar además:
+IX.- Proponer y aplicar las normas, políticas y procedimientos en materia de adquisiciones, arrendamientos y servicios;
 
-I. Los artículos de la Constitución del Estado o de las leyes o reglamentos que se hubieren contravenido;
+X.- Autorizar las solicitudes de pago de anticipos, finiquitos y gastos a comprobar derivados de los procesos de adquisición o suministro, para su trámite correspondiente;
 
-II. Una descripción completa de los daños o trastornos causados;
+XI.- Remitir los informes, así como la documentación solicitada por la Dirección de Control y Evaluación Gubernamental, en los casos de impugnación; y
 
-III. Las consideraciones de hecho y de derecho por las cuales se considera que el daño o trastorno causado es grave;
+XII.- Las demás que expresamente le confiera la normatividad aplicable.
 
-IV. La relación causal directa entre el acto u omisión del servidor público y el daño o trastorno causados; y
+###### ARTÍCULO 23.
 
-V. Las pruebas y su valoración que permitió a la Comisión de Responsabilidades acreditar los incisos anteriores.
+Corresponde al Departamento de Invitaciones y Licitaciones, las siguientes atribuciones:
 
-###### Artículo 28.
+I.- Programar y calendarizar la adquisición de bienes y servicios mediante la aplicación de los procedimientos de licitación pública e invitación contenidos en la normatividad aplicable;
 
-Cuando la Comisión de Responsabilidades resuelva en su dictamen que procede acusar al servidor público denunciado, el pleno de la Asamblea del Congreso del Estado, que para tal efecto se erigirá en jurado de acusación, se abocará a estudiar la procedencia o improcedencia de la acusación, sin entrar al estudio del fondo del asunto; determinará, por mayoría de votos de los diputados presentes, la admisión o rechazo de la misma, especificando si se cumplen todos y cada uno de los requisitos contemplados en los dos artículos anteriores.
+II.- Coadyuvar al Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo, en la elaboración de proyectos de bases, convocatorias, actas de juntas de aclaración, presentación de proposiciones, dictámenes, fallos, cuadros comparativos, así como aquellas actas que difieren o declaran desierto un procedimiento y demás documentos necesarios para adjudicar;
+
+III.- Conservar en forma ordenada y sistemática la documentación generada como resultado de la aplicación de los procedimientos de licitación pública e invitación, de conformidad con la normatividad aplicable;
+
+IV.- Elaborar los proyectos de contratos y convenios sobre bienes y servicios adquiridos mediante los procedimientos de licitación pública e invitación de conformidad con la normatividad aplicable;
+
+V.- Proponer la rescisión de contratos por incumplimiento de obligaciones, así como hacer efectivas las cláusulas de penalización económica;
+
+VI.- Vigilar que la entrega de los bienes y servicios contratados se lleve acabo en las condiciones y plazos estipulados;
+
+VII.- Realizar los trámites necesarios, para el pago a licitantes por bienes entregados y/o servicios prestados; y
+
+VIII.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 24.
+
+Corresponde al Departamento de Compras, las siguientes atribuciones:
+
+I.- Programar la adquisición de bienes y servicios mediante el procedimiento de adjudicación directa de conformidad con la normatividad aplicable;
+
+II.- Elaborar los proyectos de contratos y convenios sobre bienes y servicios adquiridos de conformidad con las disposiciones normativas aplicables en los casos de adjudicación directa;
+
+III.- Proponer la rescisión de contratos por incumplimiento de obligaciones, así como hacer efectivas las cláusulas de penalización que correspondan;
+
+IV.- Vigilar que la entrega de los bienes y servicios contratados se lleve acabo en las condiciones y plazos estipulados;
+
+V.- Adjudicar directamente la contratación de bienes y servicios a través de cotizaciones de acuerdo a los montos establecidos por la Secretaría de Planeación y Finanzas del Estado, así como por causas de excepción al procedimiento de licitación pública o invitación, desahogando el procedimiento respectivo ante el Comité de Adquisiciones Arrendamientos y Servicios del Poder Ejecutivo, de conformidad con la normatividad aplicable;
+
+VI.- Conservar en forma ordenada y sistemática la documentación generada como resultado de la aplicación de los procedimientos de adjudicación directa, de conformidad con las disposiciones legales aplicables;
+
+VII.- Autorizar la reservación de hospedaje y pasaje de avión, así como órdenes de trabajo que sobre combustible requieren las dependencias de la administración pública centralizada;
+
+VIII.- Realizar los trámites necesarios para el pago a proveedores de bienes entregados y/o servicios prestados; y
+
+IX.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 25.
+
+Corresponde a la Dirección de Bienes Patrimoniales, las siguientes atribuciones:
+
+I.- Planear, organizar y dirigir los sistemas para el manejo y control de bienes muebles, inmuebles, arrendamientos, almacén y suministro de artículos de consumo;
+
+II.- Controlar y vigilar los inventarios, avalúos, resguardos, altas y bajas de bienes muebles de la Administración Pública;
+
+III.- Proponer la aceptación, asignación y uso de los bienes muebles, que por cualquier medio o disposición se hagan al Gobierno del Estado, así como, controlar su destino;
+
+IV.- Proponer el destino final de los bienes muebles dados de baja del sistema de inventario del Poder Ejecutivo y en su caso, organizar, convocar y adjudicar públicamente su venta;
+
+V.- Orientar a las entidades paraestatales en la realización de los trámites de alta, baja y destino final de bienes muebles de conformidad con las disposiciones normativas, procurando la homologación de sistemas establecidos en el nivel central;
+
+VI.- Administrar los artículos de consumo que las dependencias del Poder Ejecutivo requieran;
+
+VII.- Supervisar las condiciones de uso y conservación de los bienes muebles de las dependencias del Poder Ejecutivo;
+
+VIII.- Establecer y vigilar la operación de los sistemas para el registro en el padrón vehicular del Poder Ejecutivo de los vehículos propiedad del Poder Ejecutivo, verificando que se realicen oportunamente los movimientos de alta, baja o cambio en términos de la normatividad aplicable;
+
+IX.- Aplicar los procedimientos de adquisición, contratación, enajenación, arrendamiento, uso y conservación, concesión, incorporación, desincorporación, afectación y mantenimiento del patrimonio inmobiliario del Gobierno del Estado, de conformidad con la normatividad aplicable;
+
+X.- Elaborar y tramitar convocatorias, licitaciones públicas y concursos para la enajenación y concesión de bienes inmuebles del Gobierno del Estado, de conformidad con la normatividad aplicable;
+
+XI.- Coordinar el Comité de Compras y Ventas de bienes inmuebles de la Oficialía Mayor y participar en la verificación y aplicación del proceso de licitación y enajenación;
+
+XII.- Concentrar, verificar y actualizar la información relativa a los movimientos de alta, baja, asignación, reasignación y transferencia de bienes inmuebles;
+
+XIII.- Coordinar los programas de regularización de bienes inmuebles patrimonio del Gobierno del Estado;
+
+XIV.- Supervisar que se cumplan las normas de entrega y recepción de oficinas de las dependencias del Poder Ejecutivo, en lo relativo a bienes muebles e inmuebles; y
+
+XV.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 26.
+
+Corresponde al Departamento de Control de Inventarios y Almacenes Generales, las siguientes atribuciones:
+
+I.- Planear, dirigir y controlar las actividades que realicen las áreas de Almacenes;
+
+II.- Controlar y ejecutar las actividades de inventario de los bienes muebles que requieran las Dependencias del Poder Ejecutivo;
+
+III.- Organizar, administrar y supervisar el sistema de bienes muebles que formen parte del patrimonio de las Dependencias del Poder Ejecutivo, así como las afectaciones al sistema integral de bienes de consumo y transitorios;
+
+IV.- Recibir equipos y artículos que cubran con oportunidad las necesidades de consumo de las Dependencias;
+
+V.- Mantener en existencia los artículos que cubran con oportunidad las necesidades de consumo de las Dependencias;
+
+VI.- Autorizar las actas de liberación de bienes de los servidores públicos que se encuentran en trámite de finiquito;
+
+VII.- Autorizar los movimientos que se generen de altas, bajas, cambios y traspasos de bienes de activo fijo de las Dependencias del Poder Ejecutivo;
+
+VIII.- Recibir y administrar los bienes de activo fijo que son adquiridos a través de donaciones;
+
+IX.- Mantener coordinación con cada uno de los responsables de los Almacenes de las Delegaciones de Oficialía, con el objeto de unificar criterios de operación para el manejo y control de los sistemas y técnicas administrativas utilizadas;
+
+X.- Implementar y proponer sistemas de seguridad para el manejo y conservación de los artículos y materiales en existencia;
+
+XI.- Programar y ejecutar la realización de inventarios físicos, así como la actualización de los resguardos, así como tramitar, proponer altas y bajas de maquinaria, vehículos, mobiliario y equipo propiedad de Gobierno del Estado;
+
+XII.- Administrar el registro de altas y bajas del padrón vehicular del Poder Ejecutivo; y
+
+XIII.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 27.
+
+Corresponde al Departamento de Control de Bienes Inmuebles y Arrendamientos, las siguientes atribuciones:
+
+I.- Mantener actualizado el inventario de los bienes inmuebles propiedad del Gobierno del Estado, a través de sistemas de digitalización de información e imagen;
+
+II.- Desarrollar programas permanentes de regularización de bienes inmuebles, que por cualquier medio pasen a formar parte del patrimonio del Gobierno del Estado;
+
+III.- Inspeccionar en coordinación con la Secretaría de Infraestructura y Desarrollo Urbano del Estado, los inmuebles que por concepto de donación o expropiación deban ser entregados al Gobierno del Estado;
+
+IV.- Elaborar los proyectos de contrato de arrendamiento, comodato, compra, venta, donación y demás instrumentos jurídicos que generen derechos u obligaciones para el Gobierno del Estado en materia de bienes inmuebles;
+
+V.- Tramitar y registrar la asignación de bienes inmuebles propiedad del Gobierno del Estado;
+
+VI.- Gestionar la compra de bienes inmuebles que vayan a ser destinados a un servicio público, al uso común, a un fin de utilidad general o para el desarrollo de atribuciones propias del Gobierno del Estado;
+
+VII.- Proponer la enajenación de bienes inmuebles a título oneroso que no sean adecuados o aprovechables por el Estado para brindar un servicio público;
+
+VIII.- Tramitar la inscripción en el Registro Público de la Propiedad y de Comercio de bienes inmuebles que por cualquier medio pasen a formar parte del patrimonio del Gobierno del Estado;
+
+IX.- Gestionar los levantamientos topográficos para su debida certificación ante la Autoridad Municipal correspondiente de los inmuebles propiedad de Gobierno del Estado que así se requieran; y
+
+X.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 28.
+
+Corresponde a la Dirección de Servicios Generales, las siguientes atribuciones:
+
+I.- Planear, programar, organizar, dirigir, controlar y evaluar la prestación de los servicios generales consistentes en Ingeniería y Mantenimiento, Archivo General, Archivo Histórico, Servicios Básicos, Talleres Gráficos y Taller Mecánico, de conformidad con la normatividad aplicable;
+
+II.- Supervisar y controlar los trabajados relativos a ingeniería, limpieza, mantenimiento, proyectos de remodelación y conservación de edificios públicos de las dependencias del Poder Ejecutivo y los necesarios para los eventos y actos cívicos que se lleven a cabo;
+
+III.- Expedir la certificación de documentos que se encuentren bajo custodia de los archivos de las dependencias del Poder Ejecutivo y encomendados a la Oficialía;
+
+IV.- Administrar los servicios de correspondencia, archivo y mensajería que presta la Oficialía;
+
+V.- Supervisar la integración, edición y publicación del Periódico Oficial del Estado;
+
+VI.- Tramitar el suministro y pago de los servicios de agua potable, energía eléctrica, combustible, telefonía en general, mensajería por satélite y fotocopiado, de las dependencias del Poder Ejecutivo;
+
+VII.- Tramitar y controlar el canje de placas y tarjetas de circulación de vehículos oficiales;
+
+VIII.- Tramitar en caso de siniestro, el pago de pólizas por concepto de bienes muebles e inmuebles asegurados;
+
+IX.- Programar y coordinar la producción de impresos y publicaciones, fijando los criterios generales aplicables;
+
+X.- Autorizar, supervisar y controlar la ejecución de los trabajos y el gasto en materia de servicios de mantenimiento preventivo y correctivo de los vehículos oficiales de las dependencias del Poder Ejecutivo;
+
+XI.- Solicitar para custodia y mantenimiento archivos, libros y acervos documentales, piezas arqueológicas, obras de arte y demás bienes que por Ley se consideren bienes de dominio público o de valor histórico-cultural;
+
+XII.- Promover actividades culturales e históricas de interés general en coordinación con el Archivo General de la Nación y demás instituciones públicas o privadas;
+
+XIII.- Dirigir y controlar el sistema de vigilancia y seguridad de los bienes inmuebles e instalaciones donde se encuentran las oficinas de las dependencias del Poder Ejecutivo, así como administrar los estacionamientos de conformidad con las políticas establecidas; y
+
+XIV.- Las demás que expresamente le confiera la normatividad aplicable.
 
 #### Sección Sexta. De la Etapa de Sentencia
 
-###### Artículo 29.
+###### ARTÍCULO 29.
 
-Una vez aprobada la procedencia de la acusación, la Asamblea se erigirá en jurado de sentencia y citará a la Comisión de Responsabilidades, al acusado y a su defensor a una sesión extraordinaria en un término que no exceda de cinco días hábiles y que tendrá el siguiente desarrollo:
+Corresponde al Departamento de Archivo General, las siguientes atribuciones:
 
-I. La Secretaría dará lectura a las constancias procesales o a una síntesis que contenga los puntos substanciales de éstas, así como a las conclusiones acusatorias formuladas por la Comisión de Responsabilidades, la cual deberá hacer las aclaraciones que le soliciten el acusado, su defensor o cualquier diputado integrante de la Asamblea;
+I.- Recibir, clasificar, registrar y archivar la correspondencia oficial generada por la Oficialía;
 
-II. Se otorgará el uso de la palabra al acusado o a su defensor para que expresen lo que a su derecho convenga;
+II.- Dar apoyo en materia archivística a las dependencias del Poder Ejecutivo, de conformidad con la normatividad establecida;
 
-III. Una vez escuchadas las partes, la Asamblea en pleno, discutirá los hechos vertidos y la existencia de responsabilidad del servidor público denunciado;
+III.- Controlar y distribuir la correspondencia mediante el sistema de valija y mensajería de la Administración Pública Central;
 
-IV. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni a ningún diputado integrante de la Comisión de Responsabilidades, con la excepción de que cualquier integrante de la asamblea solicite nuevas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos históricos;
+IV.- Llevar un control de inventarios de expedientes semiactivos de las dependencias del Poder Ejecutivo, que se encuentren en el Archivo de Concentración;
 
-V. Cerrada la etapa de discusión, se retirarán el acusado y su defensor. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea en pleno resolverá lo procedente, por cuando menos el voto del sesenta por ciento de los diputados que la integran, con excepción de los diputados que forman parte de la Comisión de Responsabilidades;
+V.- Certificar los documentos que estén bajo custodia del Archivo General de conformidad con los lineamientos que para tal efecto establezca la Oficialía;
 
-VI. La resolución podrá ser absolutoria o condenatoria, en cuyo caso, deberá establecer la sanción o sanciones pertinentes, correspondiendo al presidente del pleno hacer la declaratoria respectiva.
+VI.- Coordinar la suscripción, edición, venta, consulta y distribución del Periódico Oficial del Estado, de acuerdo a la normatividad establecida por la Oficialía;
+
+VII.- Efectuar la depuración de documentos y materiales que estén bajo custodia del Archivo General, dando cumplimiento a los programas de trabajo y la normatividad establecida; y
+
+VIII.- Las demás que expresamente le confiera la normatividad aplicable.
 
 #### Sección Séptima. Disposiciones para la aplicación de las sanciones
 
-###### Artículo 30.
+###### ARTÍCULO 30.
 
-Si la resolución de juicio político que emita el Congreso del Estado es condenatoria, se sancionará al servidor público con la destitución, en caso de encontrarse en funciones, y con la inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público de uno a diez años.
+Corresponde al Departamento de Archivo Histórico, las siguientes atribuciones:
 
-Las sanciones deben aplicarse en un plazo no mayor de un año, contado a partir de la fecha en que se hubiere incoado el procedimiento.
+I.- Llevar el resguardo, clasificación, control, mantenimiento y conservación del acervo documental del Archivo Histórico del Estado;
 
-Para determinar la sanción que se aplicará al servidor público se deberá tomar en consideración:
+II.- Recibir, clasificar y registrar la documentación histórica que en definitiva haya sido transferida al Archivo Histórico del Estado;
 
-I. La jerarquía del empleo, cargo o comisión del servidor público;
+III.- Proporcionar y controlar la consulta de documentación de carácter histórico, de conformidad con los procedimientos que se fijen para tal efecto;
 
-II. La gravedad de la infracción;
+IV.- Reproducir todos los documentos que se consideren necesarios de acuerdo a la importancia de los mismos y a su estado de conservación;
 
-III. El monto del daño de la infracción cometida, en su caso; y
+V.- Difundir el acervo documental, a través de eventos tales como exhibiciones, conferencias y publicaciones que contribuyan al conocimiento de la historia del Estado de Baja California;
 
-IV. El grado de intervención por parte del servidor público en el acto u omisión que dieron motivo al procedimiento.
+VI.- Expedir la certificación de documentos que se encuentren bajo custodia en el Archivo Histórico, de conformidad con las disposiciones administrativas vigentes;
 
-## TÍTULO TERCERO. DE LA DECLARACIÓN DE PROCEDENCIA DE JUICIO PENAL
+VII.- Participar en las acciones derivadas del Sistema Estatal de Documentación, el Consejo Estatal de Archivos y la Comisión de Valoración Documental para dar cumplimiento a lo señalado en la Ley General de la Administración Documental para el Estado de Baja California y demás normatividad aplicable;
 
-### Capítulo I. DISPOSICIONES GENERALES
+VIII.- Las demás que expresamente le confiera la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+## TÍTULO TERCERO. DE LAS FACULTADES DEL SUBSECRETARIO DE ADMINISTRACIÓN
 
-###### Artículo 31.
+### CAPÍTULO I. DE LA UNIDAD CONCENTRADORA DE TRANSPARENCIA
 
-Para proceder penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el procurador general de justicia y el procurador social; los magistrados del Poder Judicial del Estado; el presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales con derecho a voz y voto del Consejo Electoral del Estado; los presidentes municipales, síndicos, regidores y concejales de los ayuntamientos o concejos municipales, será necesario que se declare por parte del Congreso que ha lugar a proceder contra el inculpado, siguiendo el procedimiento que se establece en el presente capítulo.
+###### ARTÍCULO 31.
 
-Contra los jueces de primera instancia, menores y de paz, sólo podrá procederse penalmente, previa declaración del Consejo General del Poder Judicial del Estado, de conformidad con lo previsto en la Ley Orgánica del Poder Judicial.
+Corresponde al Departamento de Administración de Servicios, las siguientes atribuciones:
 
-###### Artículo 32.
+I.- Gestionar, suministrar y controlar los servicios de agua potable, energía eléctrica, telefonía, mensaje vía satélite y fotocopiado que requieran las dependencias del Gobierno del Estado, generando el histórico de consumos por cada uno de ellos; así como la aprobación de la facturación correspondiente para gestionar su pago, aplicando la normatividad en la materia;
 
-No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos, a que se refiere el artículo anterior, cometa un delito durante el tiempo en que se encuentre separado de su encargo o no haya asumido el ejercicio del mismo. Tampoco se requerirá la declaración de procedencia en caso de que el servidor público tenga el carácter de suplente y no se encuentre en el ejercicio del cargo.
+II.- Programar, emitir, distribuir y controlar la dotación de combustible autorizada en el presupuesto de egresos para las dependencias del Poder Ejecutivo; así como revisar y aprobar las facturas de combustible, cuyo pago se realice a través del reembolso de sus fondos de operación;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+III.- Aprobar y controlar los seguros de los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como hacer efectivas las garantías otorgadas, de conformidad con las normas, políticas y procedimientos establecidos;
 
-###### Artículo 33.
+IV.- Efectuar los trámites de alta, baja, canje y cambios de placas y tarjeta de circulación de las unidades de transporte requeridos por las dependencias del Poder Ejecutivo, para el registro y control del padrón vehicular propiedad del Gobierno del Estado;
 
-Para declarar que ha lugar a ejercitar la acción penal, es necesario que existan elementos suficientes para comprobar el cuerpo del delito y que estos hagan probable la responsabilidad del servidor público.
+V.- Gestionar en coordinación con las áreas técnicas correspondientes, los servicios de reparación y mantenimiento del mobiliario de oficina, equipos de radiocomunicación y equipos de cómputo propiedad del Gobierno del Estado, así como dar la aprobación de la facturación correspondiente para gestionar su pago, aplicando la normatividad que corresponda;
 
-### Capítulo II. DEL PROCEDIMIENTO
+VI.- Elaborar e instrumentar los programas y proyectos necesarios para el mejor aprovechamiento y ahorro en los servicios básicos administrados por el Departamento; y
 
-###### Artículo 34.
+VII.- Las demás que expresamente le confiera la normatividad aplicable.
 
-Cuando el ministerio público concluya una averiguación previa y determine ejercitar la acción penal en contra de alguno de los servidores públicos contemplados en el primer párrafo del artículo 31 del presente ordenamiento, como requisito de procedibilidad del ejercicio de la acción penal correspondiente, el procurador general de justicia del Estado deberá solicitar, ante el Congreso del Estado, la declaración de procedencia de juicio penal.
+###### ARTÍCULO 32.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
+Corresponde al Departamento de Talleres Gráficos, las siguientes atribuciones:
 
-###### Artículo 35.
+I.- Establecer la programación para la realización de trabajos de impresión y publicaciones que soliciten las dependencias del Poder Ejecutivo;
 
-El escrito de solicitud de declaración de procedencia de juicio penal se presentará por duplicado en la Secretaría General del Congreso del Estado y deberá reunir los siguientes requisitos:
+II.- Vigilar que la impresión del Periódico Oficial del Estado; se efectúe oportunamente;
 
-I. Deberá estar firmado por el procurador general de justicia en el Estado; y
+III.- Establecer y vigilar el cumplimiento de las medidas de uso, conservación y seguridad de las instalaciones de Talleres Gráficos;
 
-II. Deberá estar acompañado con copias certificadas del expediente completo que contenga la averiguación previa, incluyendo la determinación del ejercicio de la acción penal.
+IV.- Mantener el control de la existencia de materiales para cubrir los requerimientos de los trabajos de impresión, a fin de satisfacer las necesidades de las dependencias de la Administración Pública; y
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+V.- Las demás que expresamente le confiera la normatividad aplicable.
 
-###### Artículo 36.
+###### ARTÍCULO 33.
 
-Una vez presentado el escrito, el Secretario General del Congreso, lo remitirá al Pleno de la Asamblea para que éste la turne a la Comisión de Responsabilidades.
+Corresponde al Departamento de Taller Mecánico Automotriz, las siguientes atribuciones:
 
-###### Artículo 37.
+I.- Programar y atender las unidades oficiales para aplicar el mantenimiento preventivo y correctivo;
 
-La Comisión de Responsabilidades, dentro de los tres días hábiles siguientes a aquel en que haya recibido la solicitud, notificará al denunciado la apertura del procedimiento de declaración de procedencia de juicio penal, observando en todo momento las siguientes prevenciones:
+II.- Recibir las unidades vehiculares para el diagnóstico y reparación de los desperfectos observados en sus sistemas mecánicos;
 
-I. La notificación se realizará en el domicilio de la dependencia en la que el servidor público preste sus servicios o realice sus funciones o en su defecto, el lugar donde se le encuentre;
+III.- Canalizar los trabajos de reparación mayor de las unidades oficiales a los talleres externos autorizados por la Oficialía;
 
-II. Se le extenderá un juego de copias del escrito de solicitud presentado por el procurador general de justicia del estado y del expediente que contenga la averiguación previa;
+IV.- Verificar que la calidad del servicio mecánico tanto interno como externo, cumpla con las políticas y procedimientos establecidos;
 
-III. Se le hará saber que puede comparecer o presentar sus alegatos por escrito, dentro de los siguientes cinco días hábiles a aquel en que surta efectos la notificación;
+V.- Realizar inventarios con la periodicidad requerida a fin de conservar su congruencia entre la existencia de refacciones y los montos registrados;
 
-IV. Se hará de su conocimiento que tiene derecho a nombrar una persona de su confianza para que lo defienda; y
+VI.- Aprobar las facturas de trabajos efectuados por talleres externos, así como las órdenes de servicio de movimientos de almacén de refacciones, aplicando las afectaciones al presupuesto respectivo;
 
-V. Se le prevendrá para que señale domicilio para oír todo tipo de notificaciones.
+VII.- Tramitar las afectaciones presupuestales por los trabajos realizados, así como dar cumplimiento al pago de proveedores;
 
-Una vez que se tenga la certeza de que se han cumplido todas y cada una de las prevenciones contempladas en el presente artículo y transcurridos los cinco días de plazo, independientemente de que el denunciado comparezca o no, se continuará con el procedimiento.
+VIII.- Realizar dictamen de las condiciones requeridas para adquisición de nuevas unidades vehiculares, así como para el mantenimiento de motores, transmisiones, suspensiones y adquisición de neumáticos;
 
-###### Artículo 38.
+IX.- Vigilar el cumplimiento de las medidas de seguridad necesarias en el Taller Mecánico; y
 
-La Comisión de Responsabilidades analizará la averiguación previa y la determinación que le haga llegar el procurador general de justicia del Estado, así como los alegatos y argumentos esgrimidos por el denunciado. Deberá emitir un dictamen dentro de un plazo no mayor de treinta días hábiles, por medio del cual determinará si ha lugar o no a la procedencia del juicio penal en contra del servidor público denunciado.
+X.- Las demás que expresamente le confieran la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+### CAPÍTULO II. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
-###### Artículo 39.
+###### ARTÍCULO 34.
 
-Dada la cuenta del dictamen, el presidente del Congreso del Estado anunciará a la Asamblea que debe erigirse en jurado de procedencia que deberá verificarse al día siguiente y mandará citar para la audiencia, al Procurador General de Justicia, al servidor público denunciado y a su defensor.
+Corresponde a la Subdirección de Ingeniería y Mantenimiento, las siguientes atribuciones:
 
-Si el Procurador General de Justicia lo considera conveniente, podrá ser acompañado para el desahogo de la audiencia del servidor público que llevó a cabo la averiguación previa.
+I.- Planear, programar y supervisar la ejecución de proyectos de remodelación, conservación, limpieza y mantenimiento preventivo de instalaciones y edificios públicos del Poder Ejecutivo, así como los trabajos encaminados a cubrir eventos oficiales y actos cívicos;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+II.- Elaborar, controlar y supervisar los programas de mantenimiento correctivo y preventivo a los sistemas de equipo técnico de infraestructura;
 
-###### Artículo 40.
+III.- Establecer y difundir medidas de seguridad para el uso correcto de los equipos, herramientas y materiales, conservándolos en óptimas condiciones; y
 
-El día designado para la audiencia, se observará el siguiente desarrollo:
+IV.- Las demás que expresamente le confieran la normatividad aplicable.
 
-I. La Secretaría dará lectura a las constancias procesales, las cuales se integran por:
+###### ARTÍCULO 35.
 
-a) Las conclusiones de la averiguación previa y la determinación del ejercicio de la acción penal presentadas por el procurador general de justicia en el Estado; y
+Corresponde al Departamento de Proyectos, Control y Seguimiento de Obras, las siguientes atribuciones:
 
-b) Los alegatos presentados por el servidor público denunciado o por su defensor;
+I.- Elaborar expedientes técnicos de las obras por ejecutar a cargo de la Oficialía, estableciendo los catálogos de conceptos, cantidades y precios unitarios, así como las especificaciones para la autorización y aprobación de recursos de inversión;
 
-II. Se otorgará el uso de la palabra en primer término al Procurador General de Justicia o en su caso, al servidor público que le acompañe y, posteriormente al acusado o a su defensor para que expresen lo que a su derecho convenga;
+II.- Integrar los presupuestos de obra, realizando estudios de mercado para determinar los costos y el rendimiento de insumos de mano de obra, materiales y equipos requeridos en su ejecución;
 
-III. Una vez escuchadas las partes, la Asamblea en pleno, discutirá los hechos vertidos y la existencia de la probable responsabilidad del servidor público denunciado;
+III.- Analizar y emitir opinión, previa emisión de los dictámenes que fundamenten el fallo de adjudicación de las propuestas presentadas durante el proceso de licitación, en la que se determine la factibilidad de realización del programa de ejecución, así como verificar el cálculo e integración de precios unitarios prestados y su congruencia con el presupuesto base;
 
-IV. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni al Procurador General de Justicia en el Estado o al servidor público que le acompañe, con la excepción de que cualquier integrante de la Asamblea solicite algunas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos históricos;
+IV.- Elaborar reportes de los avances físicos y financieros de las obras de remodelación solicitadas por las Dependencias del Poder Ejecutivo; y
 
-V. Cerrada la etapa de discusión, se retirarán el acusado y su defensor, así como el procurador de justicia así como el servidor público que le acompañe. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de votos de sus integrantes, si ha lugar o no a proceder contra el inculpado.
+V.- Las demás que expresamente le confiera la normatividad aplicable.
 
-###### Artículo 41.
+###### ARTÍCULO 36.
 
-Si el pleno de la Asamblea declara que ha lugar a proceder penalmente en contra del servidor público denunciado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista la inmunidad penal por el desempeño del empleo cargo o comisión, y se declarará que el término para el ejercicio de la acción penal queda en suspenso en tanto el servidor público continúe en funciones; la resolución en la que se niegue la declaración de procedencia de juicio penal no será obstáculo para que el procedimiento continúe su curso a partir del momento en que el servidor público denunciado deje de estar en funciones.
+Corresponde al Departamento de Servicios Especializados y Eventos, las siguientes atribuciones:
 
-La declaratoria del Congreso de ninguna manera prejuzga sobre los fundamentos de la imputación.
+I.- Diseñar y construir escenarios para cubrir los actos y eventos oficiales del Poder Ejecutivo, en coordinación con las dependencias organizadoras de los mismos;
 
-Por ningún motivo, las resoluciones de declaración de procedencia de juicio penal podrán tener trascendencia jurídica en el juicio penal seguido ante las autoridades jurisdiccionales ordinarias.
+II.- Ejecutar, dar seguimiento y evaluar los programas de acondicionamiento de espacios, mobiliario y remodelación requeridas por las dependencias de Gobierno del Estado;
 
-###### Artículo 42.
+III.- Mantener y controlar en óptimas condiciones los bienes y equipos requeridos para la ejecución de los servicios y eventos; y
 
-No podrá seguirse proceso penal a alguno de los servidores públicos de los que hace referencia el artículo 31 de esta ley sin que se hayan satisfecho todos y cada uno de los requisitos que contiene el presente capítulo.
+IV.- Las demás que expresamente le confiera la normatividad aplicable.
 
-En caso de que se haya ejercitado la acción penal en contra de algún servidor público con inmunidad, el Congreso del Estado, a través de la Secretaría, librará oficio al juez que conozca de la causa a fin de que suspenda el procedimiento, en tanto se plantea y resuelve si ha lugar a proceder, ordenando deje sin efecto cualquier acto procesal que se hubiere dictado.
+###### ARTÍCULO 37.
 
-###### Artículo 43.
+Corresponde al Departamento de Ingeniería y Conservación, las siguientes atribuciones:
 
-Si una vez procesado el servidor público resultare absuelto, se le repondrá en su empleo, cargo o comisión, enterándole los sueldos que hubiere dejado de percibir.
+I.- Atender y ejecutar los trabajos y proyectos de conservación, limpieza y mantenimiento de instalaciones y edificios públicos del Poder Ejecutivo;
 
-### Capítulo III. DE LA DECLARACIÓN DE PROCEDENCIA DE JUICIO PENAL POR LA COMISIÓN DE DELITOS FEDERALES
+II.- Administrar y supervisar el servicio de intendencia y limpieza de las instalaciones de áreas comunes y verdes del edificio del Poder Ejecutivo;
 
-###### Artículo 44.
+III.- Participar en la planeación y evaluación de proyectos integrales de ingeniería y conservación de acuerdo a las necesidades y factibilidades de ejecución;
 
-El gobernador, los diputados del Congreso del Estado, los magistrados del Poder Judicial del Estado y los miembros del Consejo General del Poder Judicial, gozan de inmunidad constitucional por la comisión de delitos federales en los términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
+IV.- Supervisar en las Dependencias del Ejecutivo, instalaciones eléctricas, hidráulicas y de aire acondicionado; y
 
-###### Artículo 45.
+V.- Las demás que expresamente le confiera la normatividad aplicable.
 
-Cuando alguno de los servidores públicos mencionados en el artículo anterior hubiere sido sujeto de Declaración de Procedencia por el Congreso de la Unión, en los términos del título IV de la Constitución Federal, una vez recibida la declaración correspondiente en el Congreso del Estado, éste procederá en lo pertinente conforme a lo previsto en la presente ley.
+###### ARTÍCULO 38.
 
-## TÍTULO CUARTO. DISPOSICIONES COMUNES PARA LOS PROCEDIMIENTOS DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA
+Corresponde a la Dirección de Normatividad y Políticas Administrativas, las siguientes atribuciones:
 
-### Capítulo Único
+I.- Elaborar y dictaminar en su caso, las normas, políticas y procedimientos para la administración y racionalización de los recursos humanos, materiales y servicios de la Administración Pública Central;
 
-###### Artículo 46.
+II.- Fijar, sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las disposiciones aplicables que normen el funcionamiento de la Oficialía;
 
-Las declaraciones y resoluciones definitivas del Congreso del Estado en materia de juicio político y declaración de procedencia de juicio penal, son inatacables.
+III.- Dictaminar y elaborar las normas, políticas y lineamientos para las adquisiciones, arrendamientos, enajenaciones, desincorporación, permutas, transferencia o donación, conservación y mantenimiento de bienes muebles e inmuebles, contratación y manejo de personal y de servicios básicos que requiera la Administración Pública Centralizada;
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+IV.- Desarrollar y proponer las políticas de administración y ejecución de programas de regulación y simplificación de procesos y procedimientos que compete desarrollar a la Oficialía;
 
-###### Artículo 47.
+V.- Participar en los procesos de modernización y adecuación del orden normativo, jurídico y administrativo que rige el funcionamiento de la Oficialía y las entidades del sector paraestatal;
 
-La Secretaría General del Congreso del Estado enviará a la Asamblea, por riguroso turno, las denuncias o acusaciones que se presenten.
+VI.- Asesorar a las dependencias de la Administración Pública en la aplicación de normas y políticas para el manejo de los recursos competencia de la Oficialía;
 
-###### Artículo 48.
+VII.- Emitir opinión o dictamen jurídico sobre los proyectos de Ley, reglamentos, decretos, acuerdos, contratos, convenios y demás actos jurídicos de los que se deriven derechos y obligaciones para la Oficialía;
 
-Todas las sesiones en que se desahogue alguno de los trámites previstos en la presente ley relativos al juicio político o a la declaración de procedencia de juicio penal, tendrán el carácter de extraordinarias.
+VIII.- Asesorar y dar orientación jurídica a las unidades administrativas de la Oficialía y a sus delegaciones así como, actuar como órgano de consulta para apoyar y sustentar el ejercicio de las facultades de los titulares que la integran;
 
-###### Artículo 49.
+IX.- Conocer y tramitar las solicitudes de contratación de servicios profesionales de asesorías, consultorías, estudios e investigaciones que requieran las dependencias de la administración pública centralizada, con la participación que se requiera del Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo, de conformidad con la normatividad aplicable;
 
-Por ningún motivo y bajo ninguna circunstancia podrá dispensarse trámite alguno de los establecidos en el presente ordenamiento, para los procedimientos de juicio político y declaración de procedencia de juicio penal.
+X.- Participar en la instrumentación de los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad que promueva la Oficialía;
 
-###### Artículo 50.
+XI.- Dirigir y evaluar los estudios de factibilidad para la adecuación de la estructura y sistemas de la Oficialía;
 
-Cuando la Comisión de Responsabilidades o la Asamblea deba practicar una diligencia de pruebas que requiera la presencia del denunciado, se notificará personalmente a este último para que concurra a ella.
+XII.- Dirigir el proceso de elaboración y actualización en su caso, del Reglamento Interno y los manuales administrativos de la Oficialía;
 
-###### Artículo 51.
+XIII.- Proponer las normas y políticas de coordinación que deberán aplicarse en el sector paraestatal en materia de administración y desarrollo de personal, adquisiciones, conservación de bienes y servicios;
 
-Se podrá encomendar al juez de primera instancia que corresponda, al ministerio público o a la autoridad municipal del lugar, la práctica de aquellas diligencias que deban desahogarse fuera del lugar de residencia del Congreso del Estado, por medio de despacho firmado por el Presidente de la Comisión de Responsabilidades o por los diputados secretarios del Congreso, al que se acompañará testimonio de las constancias necesarias.
+XIV.- Hacer del conocimiento de la Dirección de Control y Evaluación Gubernamental sobre las supuestas irregularidades cometidas por el personal de la Oficialía;
 
-El juez de primera instancia, el ministerio público o la autoridad municipal respectiva, practicarán las diligencias que se les encomienden, con estricta sujeción a las indicaciones que contenga el despacho correspondiente.
+XV.- Orientar a las entidades paraestatales en la aplicación de la normatividad que regula los procesos de administración de recursos humanos, recursos materiales y de servicios y programas de modernización y racionalización de recursos; y
 
-Para la práctica de las diligencias, todas las comunicaciones se entregarán personalmente o, en su defecto, se enviarán por correo, en pieza certificada y con acuse de recibo.
+XVI.- Las demás que expresamente le confiera la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
+###### ARTÍCULO 39.
 
-###### Artículo 52.
+Corresponde al Departamento de Normatividad, las siguientes atribuciones:
 
-Los Diputados miembros del Congreso y los empleados integrantes del Órgano Técnico de responsabilidades, que hayan de intervenir en algún acto del procedimiento, deberán excusarse y en su caso ser recusados, sólo cuando tuvieren con el denunciado o con el denunciante alguno de los siguientes vínculos:
+I.- Formular y dictaminar las normas, políticas y lineamientos para la administración y manejo de los recursos humanos, materiales, adquisiciones, enajenaciones, arrendamientos y servicios administrativos que requiera la Administración Pública Central;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+II.- Diseñar y dictaminar las normas y políticas para el cumplimiento de programas de modernización y racionalización de recursos de la Administración Pública Central;
 
-I. Parentesco hasta el cuarto grado en cualquier línea;
+III.- Ejecutar los Acuerdos y disposiciones del Oficial Mayor en materia de normatividad y políticas administrativas, verificando el cumplimiento por parte de las dependencias de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+IV. Elaborar los dictámenes jurídicos de los contratos laborales, de prestación de servicios profesionales, de seguros, compraventa, donaciones y demás actos que deriven derechos y obligaciones para la Oficialía;
 
-II. Amistad estrecha;
+V.- Elaborar dictámenes jurídicos de los proyectos de concesión, asignación, permisos, autorizaciones, expedientes técnicos de desincorporación de bienes muebles e inmuebles, entre otros;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+VI.- Dar seguimiento y evaluar el desarrollo de los programas instrumentados con el fin de actualizar y/o elaborar la normatividad administrativa;
 
-III. Enemistad manifiesta;
+VII.- Elaborar los estudios y proyectos jurídicos que contribuyan al mejor funcionamiento de la dependencia;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+VIII.- Presentar los proyectos de normas y políticas que sean necesarios para la óptima operación del sistema de administración de personal, de los recursos materiales y servicios;
 
-IV. Ser denunciante o defensor en el procedimiento de que se trate;
+IX.- Elaborar los criterios de interpretación jurídica del marco legal aplicable y de la normatividad vigente que norman el funcionamiento de la Oficialía; y
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+X.- Las demás que expresamente le confiera la normatividad aplicable.
 
-V. Relación laboral de subordinación;
+###### ARTÍCULO 40.
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+Corresponde al Departamento de Desarrollo Organizacional, las siguientes atribuciones:
 
-VI. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal, de alguno de los interesados;
+I.- Participar en la instrumentación de los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad que promueva la Oficialía;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+II.- Realizar, dar seguimiento y evaluar los estudios, proyectos y diversas investigaciones en materia de desarrollo organizacional de los sistemas de la Oficialía, proponiendo las adecuaciones necesarias en su estructura, funciones, procesos y procedimientos;
 
-VII. Ser o haber sido tutor o curador de alguno de los interesados, o administrador de sus bienes por cualquier título; o
+III.- Generar modelos de vanguardia en apoyo a la mejora continua y desarrollo organizacional de la Oficialía, mediante la consulta, recopilación y análisis de información existente en los diversos medios disponibles;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+IV.- Diseñar y aplicar los métodos y técnicas de investigación para la evaluación de los servicios que proporciona la Oficialía, proponiendo las medidas de mejoramiento que correspondan;
 
-VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el funcionario ha aceptado la herencia o el legado o ha hecho alguna manifestación en ese sentido;
+V.- Analizar y formular opinión técnica de los proyectos de organización de la Oficialía y proponer las modificaciones a su estructura orgánica, ocupacional y funcional, que fundamenten el proceso de reestructuración que en su caso corresponda instrumentar;
 
-(REFORMADO, P.O. 12 DE OCTUBRE DE 2002) (F. DE E. P.O. 19 DE NOVIEMBRE DE 2002)
+VI.- Operar y mantener actualizado el sistema de información para el registro y administración de los proyectos de integración, desconcentración, simplificación y mejora continua de la Oficialía;
 
-Sólo con expresión de causa podrá recusarse a cualquiera de los diputados o a los miembros del órgano técnico jurídico de estudio y cuenta del Congreso del Estado que deban participar en actos del procedimiento.
+VII.- Elaborar y actualizar en su caso, el Reglamento Interno y los manuales de organización, procedimientos y servicios, con la participación que corresponda a las unidades administrativas de la Oficialía;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
+VIII.- Analizar y emitir opinión técnica de los proyectos de reglamentos internos y manuales administrativos relativos a la competencia de la Oficialía; y
 
-La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, cualquier miembro de la Comisión de Responsabilidades o por el denunciante, desde el momento en que el denunciado es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político, o en jurado de procedencia, en los casos de declaración de procedencia de juicio penal.
+IX.- Las demás que expresamente le confiera la normatividad aplicable.
 
-###### Artículo 53.
+###### ARTÍCULO 41.
 
-Presentada la excusa o recusación, la Comisión de Responsabilidades o la Asamblea en Pleno, en su caso, sin intervención del recusado, la calificará dentro de los tres días hábiles siguientes a la presentación del escrito correspondiente.
+Corresponde al Departamento de Coordinación del Sector Paraestatal, las siguientes atribuciones:
 
-Declarada procedente la excusa o recusación, tratándose de algún miembro de la Comisión de Responsabilidades, se llamará a otro diputado para que lo supla.
+I.- Participar en las sesiones de los órganos de gobierno que convoquen las entidades paraestatales, en las que esta dependencia forme parte, así como en las comisiones técnicas consultivas que se establezcan para tal efecto;
 
-###### Artículo 54.
+II.- Instrumentar mecanismos de coordinación con las dependencias normativas del Poder Ejecutivo para homologar los criterios que garanticen la eficiencia del sector paraestatal, en materias competencia de la Oficialía;
 
-La Asamblea, la Comisión de Responsabilidades, el denunciante, así como el servidor público denunciado y su defensor, podrán solicitar a las oficinas o establecimientos públicos, copias certificadas de los documentos y expedientes originales que pretendan ofrecer como prueba ante la Comisión o la Asamblea y que se relacionen con los hechos motivos del procedimiento de que se trate.
+III.- Participar en los consejos, mesas de trabajo y demás órganos de dirección del sector paraestatal, para el establecimiento de una gestión homogénea que permita la adecuada administración de los recursos humanos, recursos materiales y de servicios;
 
-Las autoridades estarán obligadas a entregar las constancias señaladas; si no lo hicieren, la Comisión de Responsabilidades o la Asamblea, les fijará un plazo máximo de cinco días hábiles para que las expida, apercibida de que, en caso de no cumplir con su obligación, se le fincarán por medio de su superior jerárquico, responsabilidades administrativas.
+IV.- Orientar a las entidades paraestatales en la aplicación de la normatividad que regula los procesos de administración de recursos humanos, recursos materiales y de servicios, cuando lo soliciten; y
 
-###### Artículo 55.
+V.- Las demás que expresamente le confieran la normatividad aplicable.
 
-La Asamblea del Congreso del Estado no podrá erigirse en jurado de acusación, de sentencia o de procedencia sin que antes se haya comprobado fehacientemente que las partes han sido debidamente notificadas y citadas.
+###### ARTÍCULO 42.
 
-###### Artículo 56.
+Corresponde a la Dirección de Desarrollo de Proyectos, las siguientes atribuciones:
 
-Cuando en el curso del procedimiento seguido a algún servidor público se presentare nueva denuncia o requerimiento en su contra, se procederá respecto de ella con arreglo al presente título, hasta agotar la instrucción de los diversos procedimientos.
+I.- Planear, programar, organizar, dirigir, controlar y evaluar los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad;
 
-Si la acumulación fuere procedente, la Comisión de Responsabilidades formulará sus conclusiones en un solo documento o dictamen, que comprenderá el resultado que se obtenga de los diversos procedimientos.
+II.- Establecer los lineamientos y políticas generales para la definición, planeación y administración de los proyectos de la Oficialía y las Dependencias del Poder Ejecutivo, coordinados en su área de competencia;
 
-###### Artículo 57.
+III.- Coordinar la definición, desarrollo y seguimiento a los proyectos de innovación, uso eficiente de recursos y ahorro, estableciendo las metodologías y sistemas que permitan optimizar los recursos humanos, materiales y servicios, con la participación que corresponda a las unidades administrativas de la Oficialía;
 
-Tanto la Comisión de Responsabilidades como la Asamblea del Congreso podrán disponer las medidas de apercibimiento que consideren necesarias, mediante acuerdo de la mayoría de sus miembros presentes en la sesión o junta interna donde se tome la determinación.
+IV.- Definir y desarrollar en coordinación con las Dependencias del Poder Ejecutivo la instrumentación de sistemas de calidad que aseguren la consistencia y estandarización de los procedimientos en la prestación de servicios a la ciudadanía;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
+V.- Participar en coordinación con las demás Direcciones de la dependencia en la elaboración del Plan Estatal de Desarrollo, en materia de eficiencia de procesos;
 
-###### Artículo 58.
+VI.- Coordinar el uso de las tecnologías de información, que permitan su óptima utilización para el mejoramiento de los procesos y servicios de la Oficialía; y
 
-En ningún caso tendrán derecho de voto los diputados que hubieren presentado la denuncia contra el servidor público sujeto a proceso; tampoco podrán hacerlo los diputados que hayan aceptado el cargo de defensor, aún cuando renuncien a éste después de haberlo ejercido, ni aquellos cuya excusa o recusación haya sido declarada procedente.
+VII.- Las demás que expresamente le confiera la normatividad aplicable.
 
-###### Artículo 59.
+###### ARTÍCULO 43.
 
-En todos los casos no previstos en el presente ordenamiento, para las discusiones y votaciones se observarán, en lo aplicable, las reglas que establece la Ley Orgánica del Poder Legislativo para la discusión, votación y aprobación de las leyes. En todos los casos las votaciones deberán realizarse de manera nominal para formular, aprobar o rechazar las conclusiones o dictámenes que para tales efectos formule la Comisión de Responsabilidades.
+Corresponde al Departamento de Gestión de Calidad, las siguientes atribuciones:
 
-###### Artículo 60.
+I.- Coordinar conjuntamente con las unidades administrativas de la Oficialía, así como con las Dependencias de la Administración Pública Estatal, los proyectos de certificación de estándares de calidad para el mejor funcionamiento de las áreas de acuerdo a los planes de trabajo definidos;
 
-Las declaraciones de procedencia o las sentencias de juicio político aprobadas por la Asamblea con arreglo a esta ley, se comunicarán a los tribunales del Poder Judicial del Estado, al ayuntamiento correspondiente, si se tratare de alguno de sus integrantes; y al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales, así como para su publicación en el periódico oficial "El Estado de Jalisco".
+II.- Vigilar que se cumplan los objetivos plasmados en los procesos del sistema de calidad de la Oficialía, así como en las demás dependencias de la Administración Pública Estatal;
 
-En todos los casos relativos a la materia sustantiva o adjetiva no previstos en la presente ley, se aplicarán, en lo conducente, las disposiciones aplicables del Código Penal y Código de Procedimientos Penales del Estado.
+III.- Implementarlas estrategias de prevención, verificación y evaluación de los sistemas de calidad para su mejor desarrollo y logro de los objetivos, emitiendo dictámenes de resultados de las evaluaciones practicadas y dar seguimiento a las recomendaciones generadas;
 
-## TÍTULO QUINTO. RESPONSABILIDADES ADMINISTRATIVAS
+IV.- Programar reuniones para la definición y seguimiento de avances de los proyectos de las unidades administrativas de la Oficialía, aplicando los criterios y demás disposiciones establecidas por la Dirección;
 
-### Capítulo I. DE LAS OBLIGACIONES
+V.- Elaborar informes ejecutivos del estado que presentan cada uno de los proyectos, así como de los asuntos encomendados a la Dirección y someterlos a su aprobación; y
 
-###### Artículo 61.
+VI.- Las demás que expresamente le confieran la normatividad aplicable.
 
-Todo servidor público, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, y sin perjuicio de sus derechos y obligaciones laborales, tendrá las siguientes obligaciones:
+### CAPÍTULO III. DE LA DIRECCIÓN DE ADQUISICIONES
 
-I. Cumplir con la máxima diligencia el servicio que le sea encomendado, y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
+###### ARTÍCULO 44.
 
-II. Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y normas que determinen el manejo de los recursos económicos públicos;
+Corresponde al Departamento de Sistemas de Información, las siguientes atribuciones:
 
-III. Utilizar los recursos que tenga asignados y las facultades que le sean atribuidas, o la información reservada a que tenga acceso por su función, exclusivamente para los fines a que estén afectos;
+I.- Aplicar las políticas y procedimientos en materia de informática que permitan la optimización de los recursos disponibles en el equipo de cómputo de la Oficialía;
 
-IV. Conservar y custodiar los bienes, valores, documentos e información que tenga bajo su cuidado, o a la que tuviere acceso impidiendo o evitando el uso, la sustracción, ocultamiento o utilización indebida de aquella;
+II.- Analizar, diagnosticar, diseñar, desarrollar, instrumentar y actualizar los sistemas de información acorde a las necesidades de la Oficialía;
 
-V. Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
+III.- Evaluar técnicamente el equipo informático existente en las diferentes unidades administrativas de Oficialía y presenta (sic) soluciones informáticas a requerimientos específicos, proponiendo la adquisición y/o sustitución de equipos o sistemas que considere conveniente;
 
-VI. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato, y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+IV.- Operar y administrar los sistemas de la red de cómputo, base de datos, herramientas de desarrollo de sistemas, sistemas operativos y demás programas informáticos que requieran las unidades administrativas de la Oficialía, vigilando su adecuada operación y proporcionando la asesoría necesaria;
 
-VII. Observar respeto y subordinación con sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones;
+V.- Apoyar a las unidades administrativas de la Oficialía que requieran de la elaboración de estudios, proyectos, análisis y desarrollo de sistemas en materia informática;
 
-VIII. Excusarse de intervenir de cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos en los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor o las personas antes referidas formen o hayan formado parte;
+VI.- Programar y proporcionar la capacitación al personal de la Oficialía sobre los sistemas informáticos institucionales que operan en la Administración Pública Estatal;
 
-IX. Informar por escrito a su superior jerárquico inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento, debiendo observar las instrucciones que por escrito le sean giradas por su superior sobre su atención, tramitación o resolución;
+VII.- Establecer los mecanismos de enlace y coordinación con los sistemas institucionales relativos a la administración de los recursos humanos, materiales y servicios de la competencia de la Oficialía;
 
-X. Abstenerse de ejercer sus funciones, después de concluido el período para el cual se le designó, o de haber cesado, por cualquier otra causa, en sus funciones;
+VIII.- Cumplir con las disposiciones y normatividad establecidas por la Dirección General de Informática para el uso, conservación y administración de los sistemas de información a cargo de la Oficialía;
 
-XI. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores más de quince días continuos o treinta discontinuos, en un año, así como otorgar licencias, permisos o comisiones con goce parcial o total de sueldos y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+IX.- Llevar el inventario actualizado del equipo de cómputo, usuarios y sus accesos, sistemas informáticos y demás servicios disponibles en la red de cómputo;
 
-XII. Abstenerse de desempeñar otro empleo, cargo o comisión oficial, o particular, que la ley le prohiba;
+X.- Mantener el registro, custodia y control de las licencias de uso de sistemas y programas informáticos;
 
-XIII. Abstenerse de autorizar la selección, contratación, nombramiento o designación, de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
+XI.- Verificar que los servicios de mantenimiento preventivo y correctivo del equipo de cómputo, se realicen conforme a la programación establecida, llevando el registro y control de los servicios proporcionados;
 
-XIV. Abstenerse de intervenir en el nombramiento, contratación o promoción como servidores públicos a personas con quienes tenga parentesco consanguíneo o por afinidad hasta el cuarto grado. Cuando al momento en que el servidor público asumió el cargo o comisión de que se trate, ya se encontrare en ejercicio de una función o responsabilidad pública el familiar comprendido dentro de esta restricción, no existirá responsabilidad;
+XII.- Custodiar y administrar las bases de datos y asegurar la integridad de la información a través del control de accesos y respaldos correspondientes;
 
-XV. Abstenerse de solicitar, aceptar, recibir u obtener por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio, para sí o para un tercero u ofrecer una promesa para hacer, dejar de hacer o promover algo legal o ilegal relacionado con sus funciones. Esta prevención es aplicable hasta por un año después de que haya cumplido el ejercicio de sus funciones;
+XIII.- Conservar y asegurar la confidencialidad y el acceso a la información de los diferentes sistemas de cómputo;
 
-XVI. Atender las instrucciones, requerimientos y resoluciones que reciba de los órganos de control con base en la presente ley y en las normas que los rijan;
+XIV.- Integrar los manuales técnicos y de operación que contengan el análisis, programación y operación de todos los sistemas desarrollados, manteniéndolos actualizados; y
 
-XVII. Abstenerse de cualquier acto u omisión que implique incumplimiento de las disposiciones jurídicas relacionadas con el servicio público;
+XV.- Las demás que expresamente le confiera la normatividad aplicable.
 
-XVIII. Abstenerse de realizar violaciones a los planes, programas, y presupuesto de la administración pública estatal o municipal o a las leyes que determinan el manejo de los recursos económicos de dichas entidades;
+###### ARTÍCULO 45.
 
-XIX. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere esta ley y evitar que, con motivo de éstas, se causen molestias indebidas al quejoso;
+Corresponde al Departamento Administrativo, las siguientes atribuciones:
 
-XX. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones del presente artículo y denunciar por escrito, ante el superior jerárquico o autoridad administrativa interna, los actos y omisiones que en ejercicio de sus funciones llegue a advertir respecto de cualquier servidor público, que pueda ser causa de responsabilidad administrativa en los términos de esta ley.
+I.- Revisar e integrar la formulación del anteproyecto de Presupuesto de Egresos de la dependencia, así como controlar y evaluar su adecuada aplicación, atendiendo a las políticas y lineamientos que al efecto se establezcan;
 
-Cuando el planteamiento que por escrito formule el servidor público a su superior jerárquico deba ser comunicado al órgano de control competente, el superior procederá a hacerlo sin demora bajo su estricta responsabilidad y debe hacer del conocimiento del trámite al subalterno interesado;
+II.- Analizar y verificar los reportes presupuestales informando a las unidades administrativas de la Oficialía, la disponibilidad de recursos;
 
-XXI. Entregar formalmente a quien le sustituya en el cargo, o a la persona que para tal efecto designe el superior jerárquico, los recursos patrimoniales que haya tenido a su disposición, así como los documentos y una relación de los asuntos relacionados con sus funciones. Esta entrega deberá realizarse a más tardar a los cinco días hábiles contados a partir de la fecha en que renuncie o se le notifique su separación del cargo, debiendo elaborar una acta circunstanciada;
+III.- Aplicar las sanciones y medidas disciplinarias al personal de la Oficialía que se haga acreedor a ellas, de acuerdo a la legislación y normatividad aplicable;
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+IV.- Revisar periódicamente la plantilla de personal para disponer de información veraz y oportuna relacionada con los empleados de la Oficialía;
 
-Cuando se trate del cambio de la administración pública municipal, el ayuntamiento saliente hará entrega al nuevo gobierno municipal de los conceptos relacionados en el párrafo anterior, al día siguiente de la instalación del nuevo Ayuntamiento; además, en el mismo plazo, cada uno de los responsables de las dependencias municipales deberá entregar al nuevo titular los efectos patrimoniales de referencia y solo en el caso de que la conclusión de la entrega ameritare más tiempo, se tomará el estrictamente necesario.
+V.- Tramitar el pago de sueldos, salarios y demás remuneraciones de los trabajadores de la Oficialía;
 
-XXII. Recibir, al entrar en posesión del cargo, los recursos y documentos a que se refiere la fracción anterior, verificar que correspondan al contenido del acta circunstanciada, verificar los inventarios, informes y demás documentación anexa. Debe de solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega y recepción;
+VI.- Elaborar los proyectos de contratos de servicios del personal adscrito a la Oficialía;
 
-XXIII. Abstenerse en el ejercicio de su cargo o funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público o bien con las sociedades de las que dichas personas formen parte sin la autorización previa y específica de quien de acuerdo a la ley deba hacerlo;
+VII.- Registrar y controlar la puntualidad y asistencia del personal adscrito a la dependencia conforme a la legislación vigente;
 
-XXIV. Respetar el derecho de petición de los particulares en los términos del artículo 8º de la Constitución Política de los Estados Unidos Mexicanos.
+VIII.- Integrar y mantener actualizados los expedientes del personal de la Oficialía;
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+IX.- Asesorar y en su caso recibir y tramitar las solicitudes de adquisición de recursos materiales, requisiciones de artículos de oficina y limpieza, solicitudes de pago de viáticos, pasajes, hospedaje y fondos revolventes provenientes de las unidades administrativas adscritas a la Oficialía;
 
-Recibir las promociones de carácter administrativo, que les sean presentadas a los servidores públicos de la administración pública estatal y municipal, en forma escrita por los administrados;
+X.- Supervisar la limpieza e higiene en todas las áreas, así como vigilar y proteger los bienes patrimonio de la Oficialía;
 
-XXV. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en las leyes o reglamentos;
+XI.- Mantener actualizados los resguardos de los bienes muebles de las áreas de Oficialía;
 
-XXVI. Presentar con oportunidad y veracidad la declaración de situación patrimonial ante los organismos competentes, quienes estén obligados a ello en los términos que señala esta ley; y
+XII.- Asistir a las reuniones convocadas por el Presidente del Comité de Adquisiciones del Poder Ejecutivo del Gobierno del Estado;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+XIII.- Participar en el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo;
 
-XXVII. Los funcionarios encargados de la Hacienda Pública Estatal y Municipal, que no realicen la presentación y entrega de las cuentas públicas dentro de los plazos establecidos, se harán acreedores a las sanciones previstas por la ley; y
+XIV.- Mantener actualizados los sistemas de informática destinados a la captura de movimientos e incidencias del personal de la Oficialía;
 
-XXVII. Las demás que le impongan las leyes y reglamentos.
+XV.- Proponer formas de control para la optimización de recursos destinados al cumplimiento de las tareas y atribuciones de la Oficialía;
 
-###### Artículo 62.
+XVI.- Administrar el combustible de acuerdo a las dotaciones autorizadas para la Oficialía; y
 
-Incurren en responsabilidad administrativa, los servidores públicos por el incumplimiento de cualquiera de las obligaciones a que se refiere el artículo anterior.
+XVII.- Las demás que expresamente le confieran la normatividad aplicable.
 
-Cualquier persona, mediante la presentación de elementos de prueba, podrá denunciar actos y omisiones que impliquen responsabilidad de los servidores públicos. No se dará trámite alguno a denuncias o quejas anónimas.
+## TÍTULO SÉPTIMO
 
-En las dependencias y organismos de la administración pública estatal, así como en los ayuntamientos, se establecerán unidades específicas a las que el público en general tenga fácil acceso, para que cualquier interesado pueda presentar quejas y denuncias por el incumplimiento de las obligaciones establecidas en el artículo anterior, con las que se podrán iniciar, en su caso, los procedimientos disciplinarios correspondientes.
+## TÍTULO CUARTO. DE LAS FACULTADES DE LOS DIRECTORES, SUBDIRECTORES Y JEFES DE DEPARTAMENTO
 
-En el ámbito de sus atribuciones, las autoridades señaladas en el artículo 3º de esta ley estarán facultadas para establecer las normas y procedimientos para los efectos de que las instancias públicas sean atendidas y resueltas de manera pronta y expedita; quedando obligadas a turnar a la autoridad correspondiente aquellas que no sean de su competencia, orientando al particular la instancia y el seguimiento que corresponda.
+### CAPÍTULO IV. DE LA DIRECCIÓN DE BIENES PATRIMONIALES
 
-No se dará trámite a denuncias anónimas.
+###### ARTÍCULO 46.
 
-###### Artículo 63.
+Para la atención y despacho de los asuntos de la Oficialía en el Estado, el titular de la Dependencia contará con delegaciones bajo su mando en los Municipios de Tecate, Tijuana, Playas de Rosarito y Ensenada, así como en la localidad de San Quintín, las cuales funcionarán de acuerdo al presupuesto, estructura orgánica y personal autorizado.
 
-La contraloría del Estado, el superior jerárquico y todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas y denuncias a las que se refiere el artículo anterior y de evitar que con motivo de éstas se causen molestias indebidas al quejoso.
+###### ARTÍCULO 47.
 
-Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la presentación de quejas y denuncias, o que, con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses legítimos de quienes las presenten.
+Los delegados actuarán como representantes de la Oficialía en la región territorial que se les asigne y coordinarán sus labores a través del Oficial Mayor, Subsecretario de Administración y de las Direcciones.
+
+###### ARTÍCULO 48.
+
+Las Delegaciones ejercerán dentro de la circunscripción territorial que les corresponda, las atribuciones que sean competencia de la Oficialía.
+
+### CAPÍTULO II. DE LAS FACULTADES DE LOS DELEGADOS
+
+###### ARTÍCULO 49.
+
+Corresponde a los delegados, dentro del ámbito territorial de su competencia, el ejercicio de las siguientes facultades:
+
+I.- Representar a la Oficialía en la circunscripción territorial de su adscripción, ejerciendo las atribuciones de su competencia, así como en los actos y comisiones que por acuerdo expreso le encomiende el Oficial Mayor;
+
+II.- Acordar con el Oficial Mayor y/o Subsecretario de Administración, la atención de los asuntos encomendados a la responsabilidad de la Delegación a su cargo e informar oportunamente sobre los mismos;
+
+III.- Presidir el Subcomité de Adquisiciones, Arrendamientos y Servicios que por acuerdo sea creado en el ámbito territorial de competencia;
+
+IV.- Planear, programar, organizar, dirigir, controlar y evaluar las actividades de las unidades administrativas adscritas, conforme a los lineamientos que al efecto se determinen;
+
+V.- Ejercer los planes, programas y presupuestos aprobados, aplicando las normas, políticas, lineamientos y demás disposiciones legales y administrativas que al efecto se expidan;
+
+VI.- Recibir a los responsables de las unidades administrativas de la Delegación y a cualquier servidor público subalterno, así como de las demás dependencias; y en audiencia a las personas que así lo soliciten;
+
+VII.- Formular y suscribir dictámenes, constancias, resoluciones, opiniones, informes, certificación de documentos oficiales y demás relativos al ejercicio de sus atribuciones y facultades, en razón de las materias de su competencia;
+
+VIII.- Celebrar los contratos relacionados con adquisiciones, arrendamientos y servicios adquiridos dentro de la circunscripción territorial que corresponda, de conformidad con las disposiciones aplicables;
+
+IX.- Celebrar convenios en materia de prestación de servicio social y prácticas profesionales con instituciones educativas;
+
+X.- Vigilar el cumplimiento de los programas de regularización, desincorporación e incorporación y control permanente de bienes inmuebles propiedad de Gobierno del Estado;
+
+XI.- Recibir, gestionar, tramitar y controlar las donaciones de bienes inmuebles que por cualquier medio o disposición se hagan a favor de Gobierno del Estado, en la delegación correspondiente;
+
+XII.- Autorizar y supervisar las acciones tendientes a la conservación, mantenimiento y acondicionamiento de edificios, oficinas, instalaciones y equipos de las dependencias del Poder Ejecutivo;
+
+XIII.- Autorizar licencias sin goce de sueldo a los empleados del Poder Ejecutivo adscritos en la localidad, de conformidad con la normatividad aplicable;
+
+XIV.- Recibir las solicitudes de acceso a la información pública y de corrección de datos personales, y entregar la respuesta que corresponda a cada una de ellas, en coordinación con la Unidad Concentradora de Transparencia;
+
+XV.- Aplicar y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones inherentes a la Delegación a su cargo;
+
+XVI.- Proponer y desarrollar los programas de modernización y eficiencia de la Delegación a su cargo;
+
+XVII.- Proponer para su aprobación, los anteproyectos de presupuesto anual de egresos e ingresos con base en los programas de la esfera de su competencia;
+
+XVIII.- Administrar y ejercer el presupuesto autorizado a la Delegación a su cargo y verificar el avance físico-financiero de los programas;
+
+XIX.- Coadyuvar en la elaboración y actualización de reglamentos, normas y políticas generales, manuales administrativos de organización, procedimientos y servicios que regulen la operación y orienten la toma de decisiones de los programas a su cargo;
+
+XX.- Coordinarse con la Subsecretaría de Administración, las Direcciones y demás Delegaciones, para apoyar la ejecución de programas de la Oficialía, de conformidad con las políticas establecidas;
+
+XXI.- Proporcionar la información, asesoría y cooperación que les sean requeridas, de acuerdo con las políticas establecidas por el Oficial Mayor; y
+
+XXII.- Las demás que expresamente les confiera el Oficial Mayor, el Subsecretario de Administración y las disposiciones aplicables.
+
+### CAPÍTULO III. UNIDADES ADMINISTRATIVAS DE LA DELEGACIÓN TIJUANA
+
+###### ARTÍCULO 50.
+
+Se adscriben a la Delegación de Oficialía en Tijuana, el Departamento de Servicios Administrativos, el Departamento de Recursos Humanos, el Departamento de Compras y Servicios, el Departamento de Bienes Inmuebles y Arrendamientos y el Departamento de Ingeniería y Mantenimiento.
+
+###### ARTÍCULO 51.
+
+Corresponden al Departamento de Servicios Administrativos, las atribuciones previstas en el artículo 45 que le sean aplicables y las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 52.
+
+Corresponden al Departamento de Recursos Humanos, las atribuciones previstas en el artículo 19 del presente Reglamento que le sean aplicables en la esfera de su competencia, además de las siguientes:
+
+I.- Proponer y ejecutar los programas de capacitación, adiestramiento y desarrollo de personal de acuerdo a un diagnóstico de requerimientos;
+
+II.- Expedir los reconocimientos o constancias por asistencia y participación en cursos o eventos de capacitación;
+
+III.- Controlar y dar seguimiento a los programas de servicio social, derivados de convenios y acuerdos celebrados con instituciones educativas;
+
+IV.- Intervenir en la aplicación de exámenes toxicológicos aplicados al personal; y
+
+V.- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 53.
+
+Corresponden al Departamento de Compras y Servicios, las atribuciones previstas en los artículos 23, 24 y 26 del presente Reglamento que le sean aplicables en la esfera de su competencia, además de las siguientes:
+
+I.- Gestionar el suministro de los servicios de agua potable, energía eléctrica, telefonía, mensaje vía satélite y fotocopiado;
+
+II.- Tramitar la dotación de combustible, así como la contratación de seguros sobre bienes muebles e inmuebles; y
+
+IV (sic).- Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 54.
+
+Corresponden al Departamento de Bienes Inmuebles y Arrendamientos, las atribuciones previstas en el artículo 27 del presente Reglamento que le sean aplicables en la esfera de su competencia y las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 55.
+
+Corresponde al Departamento de Ingeniería y Mantenimiento, las atribuciones previstas en los artículos 36 y 37 del presente Reglamento que le sean aplicables en la esfera de su competencia y las que expresamente le confiera la normatividad aplicable.
+
+### CAPÍTULO IV. UNIDADES ADMINISTRATIVAS DE LA DELEGACIÓN ENSENADA
+
+###### ARTÍCULO 56.
+
+Se adscriben a la Delegación de la Oficialía en Ensenada, el Departamento de Administración de Recursos Humanos, el Departamento de Servicios Administrativos y el Departamento de Recursos Materiales.
+
+###### ARTÍCULO 57.
+
+Corresponden al Departamento de Administración de Recursos Humanos, las atribuciones previstas en el artículo 19 del presente Reglamento que le sean aplicables en la esfera de su competencia, además de las siguientes:
+
+I.- Proponer y ejecutar los programas de capacitación, adiestramiento y desarrollo de personal de acuerdo a un diagnóstico de requerimientos;
+
+II.- Expedir los reconocimientos o constancias por asistencia y participación en cursos o eventos de capacitación;
+
+III.- Controlar y dar seguimiento a los programas de servicio social, derivados de convenios, y acuerdos celebrados con instituciones educativas;
+
+IV.- Intervenir en la aplicación de exámenes toxicológicos aplicados al personal; y
+
+V.- Las demás que expresamente le confieran las leyes, reglamentos, acuerdos, circulares, manuales y órdenes establecidas por el superior jerárquico.
+
+###### ARTÍCULO 58.
+
+Corresponden al Departamento de Servicios Administrativos, las atribuciones previstas en los artículos 26 y 45 del presente Reglamento que le sean aplicables en la esfera de su competencia, además de las siguientes:
+
+I.- Gestionar el suministro de los servicios de agua potable, energía eléctrica, telefonía, mensaje vía satélite y fotocopiado;
+
+II.- Tramitar la dotación de combustible, así como la contratación de seguros sobre bienes muebles e inmuebles; y
+
+III. Las demás que expresamente le confiera la normatividad aplicable.
+
+###### ARTÍCULO 59.
+
+Corresponden al Departamento de Recursos Materiales, las atribuciones previstas por los artículos 23, 24, 27, 36 y 37 del presente Reglamento que le sean aplicables en la esfera de su competencia y las que expresamente le confiera la normatividad aplicable.
+
+## TÍTULO OCTAVO. DE LA SUPLENCIA DE LOS FUNCIONARIOS
+
+###### ARTÍCULO 60.
+
+Durante la ausencia del Oficial Mayor, el despacho y resolución de los asuntos correspondientes a la dependencia quedarán a cargo del Subsecretario de Administración.
+
+## TÍTULO QUINTO. DE LAS ATRIBUCIONES DE LAS UNIDADES ADMINISTRATIVAS
+
+### CAPÍTULO V. DE LA DIRECCIÓN DE SERVICIOS GENERALES
+
+###### ARTÍCULO 61.
+
+Durante la ausencia del Subsecretario de Administración, el despacho de los asuntos quedará a cargo del Director que éste designe, informando de lo anterior al Oficial Mayor:
+
+###### ARTÍCULO 62.
+
+Las ausencias de los Directores, serán suplidas por el subdirector o jefe de departamento que designe el Director, y las ausencias de los subdirectores y jefes de departamento por el personal o funcionario que el Director correspondiente autorice.
+
+###### ARTÍCULO 63.
+
+Durante las ausencias de los Delegados, el despacho de los asuntos de su competencia quedará a cargo del servidor público que para tal efecto designe cada uno de ellos, informando de lo anterior al Oficial Mayor.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Oficialía Mayor de Gobierno del Estado de Baja California de fecha 13 de marzo del 2001, publicado en el Periódico Oficial del Estado de fecha 16 de marzo del mismo año.
+
+TERCERO.- Las unidades administrativas que conforme al presente ordenamiento deban transferirse a otra, pasarán conjuntamente con el personal, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos, equipo y demás recursos asignados a la unidad administrativa que se traslada.
+
+CUARTO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente ordenamiento, serán resueltos por la unidad administrativa que corresponda, conforme a las atribuciones que este reglamento le confiere.
+
+De conformidad con lo dispuesto por la fracción I, del artículo 49 de la Constitución Política del Estado Libre y Soberano de Baja California, imprímase y publíquese el presente Reglamento Interno para su debido cumplimiento y observancia.
+
+DADO en el Poder Ejecutivo del Estado, en la ciudad de Mexicali, Baja California, a los veinticuatro días del mes de noviembre de dos mil seis.
+
+GOBERNADOR DEL ESTADO
+
+EUGENIO ELORDUY WALTHER
+
+SECRETARIO GENERAL DE GOBIERNO
+
+BERNARDO H. MARTÍNEZ AGUIRRE.
+
+OFICIAL MAYOR DE GOBIERNO
+
+JOSÉ MARÍA VALDEZ MORALES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ABRIL DE 2008.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
 
 ###### Artículo 64.
 
@@ -853,7 +1541,7 @@ Si el servidor público suspendido provisionalmente no resultare responsable de 
 
 Se requerirá autorización del gobernador del Estado para la suspensión provisional a que se refiere el artículo anterior, si el nombramiento del servidor público de que se trate incumbe directamente a éste. Asimismo, se requerirá de autorización del Congreso del Estado, si el nombramiento requirió ratificación de éste en los términos de la Constitución Política del Estado.
 
-### Capítulo II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO VI. DE LA DIRECCIÓN DE NORMATIVIDAD Y POLÍTICAS ADMINISTRATIVAS
 
 ###### Artículo 72.
 
@@ -987,9 +1675,7 @@ II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese m
 
 III. La final, dentro de los treinta días naturales siguientes a la conclusión del encargo.
 
-### Capítulo III. AUTORIDADES COMPETENTES PARA IMPONER SANCIONES ADMINISTRATIVAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+### CAPÍTULO VII. DIRECCIÓN DE DESARROLLO DE PROYECTOS
 
 ###### Artículo 82.
 
@@ -1035,7 +1721,7 @@ Los formatos bajo los cuales se deba rendir la información a que se refiere est
 
 En el caso de que exista compatibilidad de funciones en el sector público, la declaración de situación patrimonial deberá ser presentada en ambas partes.
 
-### Capítulo IV. PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DEL DEPARTAMENTO ADMINISTRATIVO
 
 ###### Artículo 87.
 
@@ -1051,9 +1737,11 @@ Si como resultado de las acciones de verificación o investigación a que se ref
 
 T R A N S I T O R I O S
 
-## TÍTULO SEXTO. DE LA SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
+## TÍTULO SEXTO. ÓRGANOS DE APOYO INTERNO A LA DEPENDENCIA
 
-### Capítulo Único. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2008)</small>
 
 ###### ARTÍCULO PRIMERO.
 
