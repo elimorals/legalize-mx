@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1981-01-23"
+last_updated: "1982-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -702,21 +702,27 @@ Para acreditar la participación a que se refiere el artículo anterior, se expe
 
 Los bonos de fundador no se computarán en el capital social, ni autorizarán a sus tenedores para participar en él a la disolución de la sociedad, ni para intervenir en su administración. Sólo confieren el derecho de percibir la participación en las utilidades que el bono exprese y por el tiempo que en el mismo se indique.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 108.
 
-Los bonos de fundador podrán ser nominativos o al portador y deberán contener:
+Los bonos de fundador deberán contener:
 
-I.- La expresión "bono de fundador" con caracteres visibles;
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
-II.- La denominación, domicilio, duración, capital de la sociedad y fecha de constitución;
+I.- Nombre, nacionalidad y domicilio del fundador;
 
-III.- El número ordinal del bono y la indicación del número total de los bonos emitidos;
+II.- La expresión "bono de fundador" con caracteres visibles;
 
-IV.- La participación que corresponda al bono en las utilidades y el tiempo durante el cual deba ser pagada;
+III.- La denominación, domicilio, duración, capital de la sociedad y fecha de constitución;
 
-V.- Las indicaciones que conforme a las leyes deben contener las acciones por lo que hace a la nacionalidad de cualquier adquirente del bono;
+IV.- El número ordinal del bono y la indicación del número total de los bonos emitidos;
 
-VI.- La firma autógrafa de los administradores que deben suscribir el documento conforme a los estatutos.
+V.- La participación que corresponda al bono en las utilidades y el tiempo durante el cual deba ser pagada;
+
+VI.- Las indicaciones que conforme a las leyes deben contener las acciones por lo que hace a la nacionalidad de cualquier adquirente del bono;
+
+VII.- La firma autógrafa de los administradores que deben suscribir el documento conforme a los estatutos.
 
 ###### ARTICULO 109.
 
@@ -728,9 +734,11 @@ Son aplicables a los bonos de fundador, en cuanto sea compatible con su naturale
 
 #### SECCION SEGUNDA. De las acciones
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 111.
 
-Las acciones en que se divide el capital social de una sociedad anónima estarán representadas por títulos que servirán para acreditar y trasmitir la calidad y los derechos de socio, y se regirán por las disposiciones relativas a valores literales, en lo que sea compatible con su naturaleza y no esté modificado por la presente ley.
+Las acciones en que se divide el capital social de una sociedad anónima estarán representadas por títulos nominativos que servirán para acreditar y transmitir la calidad y los derechos de socio, y se regirán por las disposiciones relativas a valores literales, en lo que sea compatible con su naturaleza y no sea modificado por la presente Ley.
 
 ###### ARTICULO 112.
 
@@ -770,13 +778,13 @@ Tratándose de reservas de valuación o de revaluación, éstas deberán estar a
 
 ###### ARTICULO 117.
 
-Las acciones cuyo valor no esté íntegramente pagado serán siempre nominativas.
+(DEROGADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)
 
 La distribución de las utilidades y del capital social se hará en proporción al importe exhibido de las acciones.
 
 Los suscriptores y adquirentes de acciones pagadoras (sic) serán responsables por el importe insoluto de la acción durante cinco años, contados desde la fecha del registro de traspaso; pero no podrá reclamarse el pago al enajenante sin que antes se haga excusión en los bienes del adquirente.
 
-Las acciones a que se refiere este artículo podrán canjearse por acciones al portador, tan pronto como queden íntegramente pagadas, salvo disposición en contrario de los estatutos.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 118.
 
@@ -818,7 +826,9 @@ Los duplicados del programa en que se hayan verificado las suscripciones, se can
 
 Los títulos de las acciones y los certificados provisionales deberán expresar:
 
-I.- El nombre, nacionalidad y domicilio del accionista, en el caso de que sean nominativos;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+I.- El nombre, nacionalidad y domicilio del accionista;
 
 II.- La denominación, domicilio y duración de la sociedad;
 
@@ -846,13 +856,17 @@ VIII.- La firma autógrafa de los administradores que conforme al contrato socia
 
 Los títulos de las acciones y los certificados provisionales podrán amparar una o varias acciones.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 127.
 
-Los títulos de las acciones llevarán adheridos cupones, que se desprenderán del título y que se entregarán a la sociedad contra el pago de dividendos o intereses. Los cupones podrán ser al portador, aun cuando el título sea nominativo. Los certificados provisionales podrán también tener cupones.
+Los títulos de las acciones llevarán adheridos cupones, que se desprenderán del título y que se entregarán a la sociedad contra el pago de dividendos o intereses. Los cupones serán siempre nominativos. Los certificados provisionales podrán tener también cupones.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 128.
 
-Las sociedades anónimas tendrán un registro de acciones nominativas que contendrá:
+Las sociedades anónimas tendrán un registro de acciones que contendrá:
 
 I.- El nombre, la nacionalidad y el domicilio del accionista, y la indicación de las acciones que le pertenezcan, expresándose los números, series, clases y demás particularidades;
 
@@ -860,19 +874,25 @@ II.- La indicación de las exhibiciones que se efectúen;
 
 III.- Las transmisiones que se realicen en los términos que prescribe el artículo 129;
 
-IV.- La conversión de las acciones nominativas en acciones al portador.
+IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1982)
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 129.
 
-La sociedad considerará como dueño de las acciones nominativas a quien aparezca inscrito como tal en el registro a que se refiere el artículo anterior. A este efecto, la sociedad deberá inscribir en dicho registro, a petición de cualquier tenedor, las transmisiones que se efectúen.
+La sociedad considerará como dueño de las acciones a quien aparezca inscrito como tal en el registro a que se refiere el artículo anterior. A este efecto, la sociedad deberá inscribir en dicho registro, a petición de cualquier titular, las transmisiones que se efectúen.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 130.
 
-En el contrato social podrá pactarse que la transmisión de las acciones nominativas sólo se haga con la autorización del Consejo de Administración. El Consejo podrá negar la autorización designando un comprador de las acciones al precio corriente en el mercado.
+En el contrato social podrá pactarse que la transmisión de las acciones sólo se haga con la autorización del consejo de administración. El consejo podrá negar la autorización designando un comprador de las acciones al precio corriente en el mercado.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 131.
 
-La transmisión de una acción nominativa que se efectúe por medio diverso del endoso, deberá anotarse en el título de la acción.
+La transmisión de una acción que se efectúe por medio diverso del endoso deberá anotarse en el título de la acción.
 
 ###### ARTICULO 132.
 
@@ -1392,9 +1412,11 @@ Sociedad en comandita por acciones, es la que se compone de uno o varios socios 
 
 La sociedad en comandita por acciones se regirá por las reglas relativas a la sociedad anónima, salvo lo dispuesto en los artículos siguientes.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 209.
 
-El capital social estará dividido en acciones, pero las pertenecientes a los comanditados siempre serán nominativas y no podrán cederse sin el consentimiento de la totalidad de los comanditados y el de las dos terceras partes de los comanditarios.
+El capital social estará dividido en acciones y no podrán cederse sin el consentimiento de la totalidad de los comanditados y el de las dos terceras partes de los comanditarios.
 
 ###### ARTICULO 210.
 
@@ -1438,7 +1460,7 @@ Queda prohibido a las sociedades por acciones, anunciar el capital cuyo aumento 
 
 ###### ARTICULO 218.
 
-En las sociedades de capital variable por acciones, éstas siempre serán nominativas.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 219.
 
@@ -1632,9 +1654,11 @@ III.- Transcurrido dicho plazo, los liquidadores convocarán a una Asamblea Gene
 
 Aprobado el balance general, los liquidadores procederán a hacer a los accionistas los pagos que correspondan, contra la entrega de los títulos de las acciones.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 249.
 
-Las sumas que pertenezcan a los accionistas y que no fueren cobradas en el transcurso de dos meses, contados desde la aprobación del balance final, se depositarán en una institución de crédito con la indicación del accionista, si la acción fuere nominativa, o del número de la acción, si ésta fuere al portador. Dichas sumas se pagarán por la institución de crédito en que se hubiese constituído el depósito.
+Las sumas que pertenezcan a los accionistas y que no fueran cobradas en el transcurso de dos meses, contados desde la aprobación del balance final, se depositarán en una institución de crédito con la indicación del accionista. Dichas sumas se pagarán por la institución de crédito en que se hubiese constituido el depósito.
 
 ### CAPITULO XII. De las sociedades extranjeras
 
@@ -1769,3 +1793,27 @@ D.O.F. 23 DE ENERO DE 1981.
 A partir de la vigencia de este decreto, todas las expresiones de las leyes mercantiles en que se hable del Balance General, o cualquier otra expresión equivalente, como documento de información financiera, se entenderán en el sentido de que dichas expresiones incluyen los estados y notas establecidos en los incisos C) al G) del artículo 172 de la Ley General de Sociedades Mercantiles.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de enero de 1981.
+
+D.O.F. 30 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor en toda la República el día 1o. de enero de 1983.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+En todos aquellos ordenamientos legales distintos a éste, en donde se mencionan las acciones, los bonos de fundador, las obligaciones y los certificados de depósito, como títulos valor al portador, deberá entenderse como referidos a nominativos.
+
+###### ARTICULO TERCERO.
+
+Las sociedades podrán emitir acciones y obligaciones al portador hasta el 31 de marzo de 1983, siempre que dichas acciones y obligaciones se hubieran emitido en virtud de acuerdo de asamblea general de accionistas de la emisora, tomado antes del 10 de diciembre de 1982. Lo dispuesto en este artículo no es aplicable tratándose de sociedades mercantiles de capital variable.
+
+###### ARTICULO CUARTO.
+
+Las acciones, los bonos de fundador, las obligaciones, los certificados de depósito y los certificados de participación, emitidos al portador con anterioridad a la fecha de entrada en vigor del presente Decreto, deberán ser convertidos en nominativos por las emisoras cuando los titulares de los mismos así se lo soliciten, sin necesidad de acuerdo de asamblea.
+
+A partir del 1o. de enero de 1984 los títulos de crédito al portador a que se refiere este artículo, no podrán seguir circulando o ejercerse los derechos que los mismos lleven incorporados sino se convierten en nominativos. Cuando las emisoras de dichos títulos se nieguen a convertirlos en nominativos, para ejercer los derechos que llevan incorporados deberán depositarse en el Instituto Nacional para el Depósito de Valores, quedando autorizado dicho instituto para expedir certificados de depósito nominativos que amparen los títulos de crédito al portador depositados, dichos certificados tendrán el carácter de títulos de crédito no negociable y se regirán por las disposiciones del Capítulo VI del Título I de la Ley General de Títulos y Operaciones de Crédito. Los títulos de crédito al portador depositados en los términos de este párrafo se canjearán por títulos nominativos emitidos por la sociedad emisora. Asimismo los titulares de los títulos que se depositen en los términos de este párrafo, deberán presentar aviso ante la Dirección General de Fiscalización de la Secretaría de Hacienda y Crédito Público, manifestando la negativa de la emisora de convertir a nominativos los títulos expedidos al portador.
+
+A partir del 1o. de enero de 1984 las emisoras de títulos de crédito al portador a que se refiere este artículo, no podrán pagar los intereses o dividendos o permitir el ejercicio de los demás derechos derivados de dichos títulos, mientras no se cumpla respecto de los mismos con lo dispuesto en el párrafo anterior.
