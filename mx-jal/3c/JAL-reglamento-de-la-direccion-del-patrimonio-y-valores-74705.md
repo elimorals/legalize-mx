@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-direccion-del-patrimonio-y-valores-74705"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-04-03"
-last_updated: "1983-07-26"
+last_updated: "1983-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA DIRECCION DEL PATRIMONIO Y VALORES ARTISTICOS E HISTORICOS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1983.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1979.
 
@@ -106,6 +106,10 @@ XXI.- Promover la titulación de los bienes del Estado, manteniendo en coordinac
 
 XXII.- Inventariar los vehículos del Estado y demás bienes muebles de su propiedad, archivar copia de las facturas de esos vehículos y de los demás bienes muebles del Estado para los efectos legales consiguientes cuyo original se encuentra depositado en la Tesorería General del Estado.
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+
+XXIII.- El control, registro y cuidado de los bienes y valores de la Casa de Jalisco.
+
 ###### ARTICULO 4o.
 
 Son Dependencias de la Dirección del Patrimonio y Valores Artísticos e Históricos del Estado:
@@ -183,3 +187,7 @@ LIC. ALFONSO DE ALBA MARTÍN
 P.O. 26 DE JULIO DE 1983.
 
 Unico. Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 22 DE NOVIEMBRE DE 1983.
+
+Unico. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
