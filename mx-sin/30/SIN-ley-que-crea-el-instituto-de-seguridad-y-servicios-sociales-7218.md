@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-crea-el-instituto-de-seguridad-y-servicios-sociales-721
 country: "mx"
 rank: "ley"
 publication_date: "1974-03-11"
-last_updated: "1974-03-11"
+last_updated: "1978-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1978.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 11 de marzo de 1974.
 
@@ -353,13 +353,31 @@ I.- La esposa o en su defecto, la mujer con quien ha vivido en calidad de tal, d
 
 II.- Los hijos menores de 18 años; y,
 
-III.- El padre y la madre.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1978)</small>
 
-Los familiares a que se refiere este artículo tendrán el derecho establecido por esta disposición, siempre que reúna los siguientes requisitos:
+III.- Los hijos solteros mayores de 18 años, hasta la edad de 25, previa comprobación de que están realizando estudios a nivel medio o superior de cualquier rama del conocimiento, en planteles oficiales o reconocidos;
 
-a).- Que dependan económicamente del trabajador o pensionista; y
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1978)</small>
 
-b).- Que no tengan por sí mismo, derechos propios a las prestaciones otorgadas por esta Ley.
+IV.- Los hijos mayores de 18 años, incapacitados física o psíquicamente que no puedan trabajar para obtener su subsistencia, lo que se comprobará mediante certificado médico expedido por el Instituto y por los medios legales precedentes;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1978)</small>
+
+V.- El esposo de la trabajadora o pensionista que se encuentre incapacitado física o psíquicamente o que sea mayor de 55 años y que, en ambos casos, dependa económicamente de ella; y
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1978)</small>
+
+VI.- El padre y la madre del trabajador pensionista que originó la pensión.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1978)</small>
+
+Las personas a que se refiere este Artículo tendrán el derecho establecido por esta disposición, si reúnen los requisitos siguientes:
+
+a).- Que dependan económicamente en forma total del trabajador o pensionista;
+
+b).- Que el trabajador o el pensionista tengan derecho a las prestaciones señaladas en la Fracción I del Artículo 31;
+
+c).- Que dichas personas no tengan por sí mismos derechos propios a las prestaciones otorgadas por esta Ley.
 
 ###### ARTICULO 33.
 
@@ -487,7 +505,7 @@ IV.- Los que sean debido a caso fortuito o de fuerza mayor, extraños al trabajo
 
 ### CAPITULO SEXTO. De las Habitaciones de los Trabajadores y de los Préstamos Hipotecarios
 
-#### SECCION PRIMERA
+#### SECCION PRIMERA.
 
 ###### ARTICULO 47.
 
@@ -533,9 +551,11 @@ Los pensionistas gozarán de los beneficios que establece este Artículo en los 
 
 Los préstamos hipotecarios a que se refiere el artículo anterior se sujetarán en lo conducente a lo establecido por el Artículo 47 y se cubrirán mediante amortizaciones quincenales que incluirán capital e intereses.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1978)</small>
+
 ###### ARTICULO 51.
 
-El Instituto formulará las tablas correspondientes para determinar las cantidades máximas que puedan ser prestadas a los trabajadores según su sueldo, tomando como base que las amortizaciones mensuales no deban sobrepasar el 25 por ciento del sueldo o sueldos de que el trabajador disfrute y por los cuales le practique descuentos el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo básico en forma proporcional. En todo caso, el límite máximo para los créditos hipotecarios será de cien mil pesos.
+El Instituto formulará las tablas correspondientes para determinar las cantidades máximas que pueden ser prestadas a los trabajadores según su sueldo, tomando como base que las amortizaciones mensuales no deban sobrepasar el cincuenta por ciento del sueldo o sueldos de que el trabajador disfrute y por los cuales le practique descuentos el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse en la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional. En todo caso, el límite máximo para los créditos hipotecarios será de doscientos mil pesos.
 
 ###### ARTICULO 52.
 
@@ -659,13 +679,13 @@ El derecho a la jubilación y a la pensión por vejez, invalidez y muerte, nace 
 
 Todas las pensiones que se concedan, se otorgarán por cuota diaria.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1978)</small>
+
 ###### ARTICULO 69.
 
-Es incompatible la percepción de una pensión otorgada por el Instituto con el ingreso derivado de otra pensión concedida por el propio Instituto. Igualmente es incompatible la percepción de una pensión con el desempeño de cualquier cargo, empleo o comisión remunerados por el Estado, siempre que tales cargos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión cuando desaparezca la incompatibilidad.
+Es compatible el disfrute de dos pensiones, cuando una de ellas se otorgue en base al derecho directo del trabajador y la otra se derive del carácter familiar de esposa o concubina del derechohabiente en los términos de esta Ley. Con esta salvedad, es incompatible el disfrute de toda pensión con el desempeño de cualquier otro cargo o empleo remunerado por el Estado, si tales cargos o empleos implican la incorporación a régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión cuando desaparezca la incompatibilidad.
 
-El infractor a la disposición indicada en el párrafo anterior, estará obligado a reintegrar las cantidades percibidas indebidamente, en el plazo que fije el Instituto, pero que en ningún caso será menor al tiempo en que las hubiere recibido. Desaparecida la incompatibilidad y reintegradas las cantidades percibidas incorrectamente, el pensionista podrá volver a disfrutar de la pensión otorgada. Si no hiciese el reintegro en los términos de este artículo, perderá todo derecho a la pensión.
-
-Los pensionistas quedan obligados a dar aviso inmediato al Instituto cuando acepten cualquiera de los empleos, cargos o comisiones a que se ha hecho referencia. Igualmente quedan obligados a dar aviso en caso de otorgamiento de alguna otra pensión. En todo caso, el Instituto ordenará la suspensión de la pensión otorgada por él.
+El que percibiere pensiones no obstante la incompatibilidad indicada, estará obligado a reintegrar las cantidades relativas, en el plazo que fije el Instituto, pero que en ningún caso será menor al tiempo en que las hubiere recibido. Desaparecida la incompatibilidad y reintegradas las cantidades percibidas incorrectamente, el pensionista podrá volver a disfrutar de la pensión otorgada. Si no hiciese el reintegro en los términos de este Artículo, perderá todo el derecho a la pensión.
 
 ###### ARTICULO 70.
 
@@ -753,9 +773,11 @@ Cuando el trabajador haya cumplido 55 años de edad, hubiese prestado servicios 
 
 30 años de servicios, 100 por ciento.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1978)</small>
+
 ###### ARTICULO 80.
 
-Para calcular el monto de las cantidades que correspondan por jubilación o por pensión, en los términos de los Artículos 75 y 79, respectivamente, se tomará el promedio de los sueldos percibidos durante los cinco años inmediatos anteriores a la fecha del acuerdo por el que se conceda. Dicho promedio se denominará sueldo regulador.
+Para calcular el monto de las cantidades que correspondan por jubilación o por pensión, en los términos de los Artículos 75 y 79, respectivamente, se tomará el promedio de los sueldos básicos percibidos durante los tres años inmediatos anteriores a la fecha del acuerdo por el que se conceda. Dicho promedio se denominará sueldo regulador.
 
 ###### ARTICULO 81.
 
@@ -879,11 +901,11 @@ a).- A los herederos testamentarios o en su defecto, a los herederos legítimos 
 
 b).- A falta de herederos, el importe del pago póstumo se aplicará al patrimonio del Instituto;
 
-IV.- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del Instituto y presentar el acta de defunción del trabajador o del pensionista fallecido; y,
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1978)</small>
 
-V.- Al fallecimiento del trabajador o pensionista y cuando no hayan designado beneficiarios, el Instituto convocará por medio de edictos que se publicarán por tres veces con intervalos de tres días, en el Periódico Oficial "El Estado de Sinaloa" y en uno de los de mayor circulación donde aquellos hayan tenido su domicilio, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con esta Ley, a solicitar el pago póstumo.
+IV.- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del Instituto y presentar el acta de defunción del trabajador o del pensionista fallecido.
 
-Transcurrido el término anterior y estudiadas las reclamaciones y pruebas presentadas, el Instituto resolverá dentro de los 15 días siguientes, a quien corresponde entregar el importe de la prestación. Para acreditar el derecho a recibir el pago póstumo y en lo relativo a la valuación de las pruebas que se ofrezcan, se estará a lo dispuesto por el Código Civil del Estado.
+V.- (DEROGADA, P.O. 27 DE ENERO DE 1978)
 
 ### CAPITULO DECIMO PRIMERO
 
@@ -1124,3 +1146,11 @@ Lic. Alfredo Valdés Montoya.
 El Oficial Mayor en funciones de Secretario General de Gobierno
 
 Lic. Eduardo Niebla Alvarez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ENERO DE 1978.
+
+PRIMERO.- El Estado y los Trabajadores incrementarán sus aportaciones proporcionalmente, en la medida que resulte de los estudios actuariales correspondientes, en caso de que el ISSSTESIN no pudiere absorber, con las aportaciones actuales, el monto de las jubilaciones, pensiones y demás prestaciones o derechos motivados por el presente Decreto.
+
+SEGUNDO.- El presente Decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
