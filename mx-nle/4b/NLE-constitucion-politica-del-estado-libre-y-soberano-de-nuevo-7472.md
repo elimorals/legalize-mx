@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2002-08-14"
+last_updated: "2003-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -983,7 +983,7 @@ Si la licencia fuere por más de treinta días o en caso de impedimento del Gobe
 
 ###### Art. 90.
 
-En caso de falta absoluta o imposibilidad perpetua del gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este Cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador Substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a la Cámara Local siempre que estén próximas. Pero, si el Legislativo estuviere en receso, la Diputación Permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+En caso de falta absoluta o imposibilidad perpetua del gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este Cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador Substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a la Cámara Local siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación Permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -1237,19 +1237,37 @@ Los ciudadanos que conformen los organismos electorales y los que fueren designa
 
 El Gobernador del Estado sólo podrá ser acusado por traición a la Patria y delitos graves del orden común durante el ejercicio de su cargo.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
 
 ###### Art. 107.
 
-El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y Patrimonial de la Administración Pública, y las demás normas conducentes para sancionar a quienes, teniendo éste carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 I.- No procede el juicio político por la mera expresión de ideas,
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
 II.- La Comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos del Código Penal; y
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que sin constituir delito, puedan afectar la eficiencia y buena marcha de los asuntos públicos.
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente por el órgano correspondiente.
+
+(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2003)</small>
+
+IV.- La jurisdicción administrativa conocerá de las controversias en que se reclame a la Administración Pública estatal o municipal el pago de indemnización por los daños y perjuicios que ocasionen a las personas en sus bienes y derechos.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1313,7 +1331,7 @@ Si el delito que se impute a algún funcionario se hubiere cometido antes de que
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
-Art.- 114.-No se requerirá declaración de procedencia de la Cámara de Diputados, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+Art.- 114.-No se requerirá declaración de procedencia de la Cámara de Diputados, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su cargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 112, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
@@ -1484,6 +1502,14 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 ###### Art. 131.
 
 El Congreso del Estado deberá expedir las normas que establezcan los procedimientos mediante los cuales resolverá los conflictos que se presenten entre uno o varios municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) del artículo anterior.
+
+(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
+
+Los Municipios indemnizarán, por los daños y perjuicios que su actividad ocasione a las personas en sus bienes y derechos, conforme a las Leyes que expida el Congreso del Estado. Dicha responsabilidad será directa.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -1837,6 +1863,10 @@ Las Leyes Orgánicas dictarán cuantas disposiciones sean necesarias para evitar
 
 Es inviolable el derecho de petición ejercido por escrito de una manera pacífica y respetuosa; pero en materias políticas sólo pueden ejercerlo los ciudadanos del Estado. A toda petición debe recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, y ésta tiene la obligación de hacer saber en breve término el resultado al peticionario.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
+
+Toda persona tiene derecho al acceso a la información pública, en los términos previstos por la ley reglamentaria. Un Órgano Autónomo, con personalidad jurídica y patrimonio propio, será el encargado de conocer y resolver las controversias que se susciten en la materia; la Ley establecerá las atribuciones, integración, forma de organización y funcionamiento de este Órgano, que estará conformado por ciudadanos designados por el Congreso del Estado.
+
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
 ###### Art. 9o.
@@ -1892,6 +1922,14 @@ En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y que se
 Las comunicaciones privadas son inviolables, salvo en los casos y con los requisitos que establezcan las leyes federales.
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para probar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
+
+(NOTA: EL 14 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 88/2010, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE ADECUACIÓN DE LA LEGISLACIÓN QUE ESTABLEZCA LAS BASES, LÍMITES Y PROCEDIMIENTOS PARA HACER FRENTE A LA RESPONSABILIDAD PATRIMONIAL DE LOS PODERES Y ÓRGANOS DEL ESTADO DE NUEVO LEÓN Y DE LOS MUNICIPIOS DE ESA ENTIDAD FEDERATIVA, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, QUE INICIA EN EL MES DE SEPTIEMBRE DE DOS MIL DOCE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2003)</small>
+
+Cuando el Estado o sus Municipios, con motivo de su actividad administrativa pública, causen un daño o perjuicio en los bienes de los particulares o afecten sus derechos, su responsabilidad será objetiva y directa, por lo que la persona afectada tendrá derecho a recibir una indemnización, la cual se establecerá conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2694,3 +2732,21 @@ P.O. 14 DE AGOSTO DE 2002.
 DECRETO NUMERO 242, QUE REFORMA LOS RATICULOS 16 Y 19.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2003.
+
+DECRETO NUMERO 329, QUE REFORMA EL ARTICULO 8.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE FEBRERO DE 2003.
+
+DECRETO NUMERO 330, QUE REFORMA LOS ARTICULOS15, 107 Y 131.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Congreso, el Ejecutivo y los Ayuntamientos del Estado deberán adecuar el marco jurídico de la entidad, modificando o emitiendo los ordenamientos jurídicos necesarios para efecto de proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos una partida para hacer frente a su Responsabilidad Patrimonial, conforme a los siguientes criterios:
+
+a) El pago de la indemnización se efectuará después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización; y
+
+b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del Ejercicio Fiscal de que se trate.
