@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-municipal-tecate-baja-california-3854"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-09-10"
-last_updated: "1989-07-31"
+last_updated: "1994-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO MUNICIPAL TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1994.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 10 de septiembre de 1973.
 
@@ -505,9 +505,15 @@ f).- Queda prohibido usar frenos de motor en la ciudad.
 
 ### CAPITULO XII. DE LA VIGILANCIA Y ACCIDENTES
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 74.
 
-La vigilancia del tránsito en el municipio de Tecate y la aplicación del presente Reglamento queda a cargo del personal del Departamento de Tránsito Municipal exclusivamente.
+La vigilancia del Tránsito en el Municipio de Tecate, y la aplicación del presente reglamento queda a cargo del personal del Departamento de Tránsito Municipal exclusivamente.
+
+Todo infractor por violaciones a este ordenamiento, tendrá el derecho de inconformarse por la sanción impuesta, ante el juez calificador quien tendrá la facultad de modificar, confirmar o nulificar el acto impugnado, debiendo para ello sujetarse a los procedimientos del Reglamento de Justicia Municipal de Tecate, Baja California.
+
+En caso de que el motivo de la infracción sea imputable a una falla mecánica, el infractor tendrá derecho a corregirla en un plazo de cinco días naturales, y solo entonces podrá recoger el documento garantía de la infracción sin cargo alguno; en caso contrario la infracción constituída en crédito fiscal se turnará a la Tesorería Municipal a efectos de que se haga el cobro de la misma a través del procedimiento administrativo de ejecución.
 
 ###### ARTICULO 75.
 
@@ -603,9 +609,11 @@ Los propietarios de los vehículos son responsables por las infracciones y daño
 
 ### CAPITULO XV. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 87.
 
-Las sanciones que se aplicarán por las violaciones al presente Reglamento serán las siguientes:
+Las sanciones que se aplican por las violaciones al presente Reglamento serán las siguientes:
 
 a).- Aplicación de multas según la infracción que se cometa de acuerdo con la clasificación que contiene el Tabulador de multas que se anexa.
 
@@ -613,7 +621,9 @@ b).- El Departamento de Tránsito Municipal podrá solicitar a Tránsito y Trans
 
 c).- Igualmente se podrá solicitar a Tránsito y Transportes del Estado la cancelación definitiva de la licencia de manejar de algún conductor cuando el caso lo amerite.
 
-d).- Arresto que en ningún caso podrá exceder de 15 días, ésto si el infractor se negare a pagar la multa correspondiente.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
+
+d).- Arresto que en ningún caso podrá exceder de 36 horas, esto sí el infractor se negare a pagar la multa correspondiente.
 
 ###### ARTICULO 88.
 
@@ -651,417 +661,429 @@ d).- Por reincidir en manejar en estado de ebriedad o bajo el efecto de estupefa
 
 El Honorable Ayuntamiento Constitucional de Tecate, Baja California, resolverá en todo lo no previsto en el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 94.
 
-El Tabulador a que se ajustarán las violaciones al presente Reglamento será el siguiente:
+La imposición de sanciones económicas así como la calificación de las mismas, se harán de conformidad al siguiente tabulador:
 
-INFRACCIONES TIPO ''A'' COSTO 2 SMG-VIGENTE
+INFRACCIONES DE TIPO ''A''
 
-1.- ADELANTAR O REBASAR POR LA DERECHA O EN UN CRUCERO.
+Serán sancionadas con un costo de uno a tres salarios mínimos, las siguientes infracciones:
 
-02.- CAMBIAR INTEMPESTIVAMENTE DE CARRIL.
+01.- Adelantar o rebasar por la derecha o en un crucero.
 
-03.- CAMIONES DE CARGA, HACER CARGA O DESCARGA FUERA DEL LUGAR Y HORA.
+02.- Cambiar intempestivamente de carril.
 
-4.- CIRCULAR CON EL PARABRISAS ESTRELLADO.
+03.- Camiones de carga, hacer carga o descarga fuera del lugar y hora.
 
-5.- CIRCULAR CON EXCESO DE HUMO.
+04.- Circular con el parabrisas estrellado.
 
-6.- CIRCULAR CON FALTA DE LUZ EN EL PORTA PLACAS.
+05.- Circular con exceso de humo.
 
-7.- CIRCULAR CON FALTA DE REFLEJANTES ROJOS EN REMOLQUE.
+06.- Circular con falta de luz en el porta placas.
 
-8.- CIRCULAR CON FALTA DE UNO O AMBOS FAROS DELANTEROS.
+07.- Circular con falta de reflejantes rojos en remolque.
 
-9.- CIRCULAR CON LA VISIBILIDAD LATERAL OBSTRUIDA CON ROTULOS O CARTELERAS.
+08.- Circular con falta de uno o ambos faros delanteros.
 
-10.- CIRCULAR CON LUCES DELANTERAS APAGADAS.
+09.- Circular con la visibilidad lateral obstruida con rótulos o carteleras.
 
-11.- CIRCULAR CON LUCES DIRECCIONALES EN MAL ESTADO.
+10.- Circular con luces delanteras apagadas.
 
-12.- CIRCULAR CON LUCES LATERALES EN MAL ESTADO.
+11.- Circular con luces direccionales en mal estado.
 
-13.- CIRCULAR CON LUCES POSTERIORES EN MAL ESTADO.
+12.- Circular con luces laterales en mal estado.
 
-14.- EFECTUAR MANIOBRAS FUERA DEL HORARIO ESTABLECIDO.
+13.- Circular con luces posteriores en mal estado.
 
-15.- EFECTUAR MANIOBRAS MAS DEL TIEMPO PERMITIDO.
+14.- Efectuar maniobras fuera del horario establecido.
 
-16.- EFECTUAR MANIOBRAS OBSTRUYENDO LA BANQUETA O ZONA DE SEGURIDAD.
+15.- Efectuar maniobras más del tiempo permitido.
 
-17.- EFECTUAR MANIOBRAS SOBRE EL ARROYO DE CIRCULACION.
+16.- Efectuar maniobras obstruyendo la banqueta o zona de seguridad.
 
-18.- EMPUJARLO MOVER (SIC) VEHICULOS DEBIDAMENTE ESTACIONADOS.
+17.- Efectuar maniobras sobre el arroyo de circulación.
 
-19.- FALTA DE ABANDERAMIENTO EN LA CARGA.
+18.- Empujar o mover vehículos debidamente estacionados.
 
-20.- FALTA DE DEFENSA (S).
+19.- Falta de abanderamiento en la carga.
 
-21.- FALTA DE ESPEJO LATERAL.
+20.- Falta de defensa (s).
 
-22.- FALTA DE LIMPIADORES PARA LA LLUVIA.
+21.- Falta de espejo lateral.
 
-23.- FALTA DE RAZON SOCIAL, EN VEHICULOS DE CARGA O PASAJEROS.
+22.- Falta de limpiadores para la lluvia.
 
-24.- FALTA DE SEGURIDAD EN LA CARGA.
+23.- Falta de razón social, en vehículos de carga o pasajeros.
 
-25.- INICIAR MOVIMIENTO CON LUZ AMBAR.
+24.- Falta de seguridad en la carga.
 
-26.- INVADIR DOS CARRILES DE CIRCULACION.
+25.- Iniciar movimiento con luz ambar.
 
-27.- NO CEDER CAMBIO DE LUCES.
+26.- Invadir dos carriles de circulación.
 
-28.- NO CEDER EL DERECHO DE CARRIL A CICLISTAS Y MOTOCICLISTAS.
+27.- No ceder cambio de luces.
 
-29.- NO CONSERVAR SU CARRIL AL SER REBASADO O ADELANTADO.
+28.- No ceder el derecho de carril a ciclistas y motociclistas.
 
-30.- NO LLEVAR CUBIERTA LA CARGA.
+29.- No conservar su carril al ser rebasado o adelantado.
 
-31.- NO PAGAR LA CUOTA DE ESTACIONOMETROS.
+30.- No llevar cubierta la carga.
 
-32.- NO TOMAR DEBIDAS PRECAUCIONES AL ESTACIONARSE EN PENDIENTE ASCENDIENTE O DESCENDIENTE.
+31.- No pagar la cuota de estacionómetros.
 
-33.- NO GUARDAR LA DISTANCIA REGLAMENTARIA A SU CIRCULACION.
+32.- No tomar debidas precauciones al estacionarse en pendiente ascendiente o descendiente.
 
-34.- NO TOMAR LAS MEDIDAS PREVENTIVAS PARA EVITAR UN ACCIDENTE.
+33.- No guardar la distancia reglamentaria a su circulación.
 
-35.- OLVIDO DE LICENCIA O TARJETA DE CIRCULACION.
+34.- No tomar las medidas preventivas para evitar un accidente.
 
-36.- PERMITIR ABRIR LAS PUERTAS DEL VEHICULO POR EL LADO DE LA CIRCULACION.
+35.- Olvido de licencia o tarjeta de circulación.
 
-37.- PERMITIR A OTRA PERSONA EL CONTROL DE LA DIRECCION DEL VEHICULO.
+36.- Permitir abrir las puertas del vehículo por el lado de la circulación.
 
-38.- PERMITIR EL ASCENSO O DESCENSO DE ESCOLARES SIN LUZ INTERMITENTE.
+37.- Permitir a otra persona el control de la dirección del vehículo.
 
-39.- POR NO DAR AVISO A LA AUTORIDAD CORRESPONDIENTE EN CASO DE ACCIDENTE.
+38.- Permitir el ascenso o descenso de escolares sin luz intermitente.
 
-40.- POR NO PONER DIRECCIONALES AL CAMBIO DE DIRECCION.
+39.- Por no dar aviso a la autoridad correspondiente en caso de accidente.
 
-41.- POR PASAR SOBRE UNA MANGUERA O EQUIPO DE BOMBEROS.
+40.- Por no poner direccionales al cambio de dirección.
 
-42.- POR RETROCEDER MAS DE LO PERMITIDO (6 METROS).
+41.- Por pasar sobre una manguera o equipo de bomberos.
 
-43.- SEGUIR A UN VEHICULO DE EMERGENCIA. (AMBULANCIA, PATRULLA, ETC.)
+42.- Por retroceder más de lo permitido (6 metros).
 
-44.- TRANSITAR CON LUCES ALTAS PROVOCANDO DESLUMBRAMIENTO.
+43.- Seguir a un vehículo de emergencia. (Ambulancia, patrulla, etc.)
 
-45.- TRANSITAR CON ROTULOS O CARTELES EN EL PARABRISAS DELANTERO.
+44.- Transitar con luces altas provocando deslumbramiento.
 
-46.- TRANSITAR SOBRE RAYAS O BORDES DE LIMITES CARRILES DE CIRCULACION.
+45.- Transitar con rótulos o carteles en el parabrisas delantero.
 
-47.- TRANSPORTAR ESPARCIENDO LA CARGA.
+46.- Transitar sobre rayas o bordes de límites carriles de circulación.
 
-INFRACCIONES DE TIPO ''B'' COSTO 4 SMG-VIGENTE
+47.- Transportar esparciendo la carga.
 
-48.- ADELANTAR O REBASAR EN SENTIDO CONTRARIO A SU CIRCULACION.
+INFRACCIONES DE TIPO "B"
 
-49.- CIRCULAR A MENOS DE LA VELOCIDAD PERMITIDA, OBSTRUYENDO LA CIRCULACION.
+Serán sancionadas con un costo de dos a seis salarios mínimos, las siguientes infracciones:
 
-50.- CIRCULAR CON EXCESO DE PASAJE.
+48.- Adelantar o rebasar en sentido contrario a su circulación.
 
-51.- CIRCULAR CON LA PRUEBAS ABIERTAS.
+49.- Circular a menos de la velocidad permitida, obstruyendo la circulación.
 
-52.- CIRCULAR INVADIENDO SENTIDO CONTRARIO A SU CIRCULACION.
+50.- Circular con exceso de pasaje.
 
-53.- CIRCULAR CON LUZ ROJA DELANTERA SIN AUTORIZACION.
+51.- Circular con las puertas abiertas.
 
-54.- CIRCULAR CON LA VALVULA DE ESCAPE ABIERTA O DEFECTUOSA.
+52.- Circular invadiendo sentido contrario a su circulación.
 
-55.- CONDUCIR AMPARANDOSE CON LICENCIA O PERMISO VENCIDO.
+53.- Circular con luz roja delantera sin autorización.
 
-56.- CONDUCIR SIN LICENCIA O PERMISO PARA CONDUCIR.
+54.- Circular con la válvula de escape abierta o defectuosa.
 
-57.- DAR VUELTA EN ''U'' A MEDIA CUADRA O INTERSECCION.
+55.- Conducir amparándose con licencia o permiso vencido.
 
-58.- DAR VUELTA EN ''U'' AL ENTRAR O SALIR A UNA CURVA.
+56.- Conducir sin licencia o permiso para conducir.
 
-59.- DAR VUELTA EN ''U'' EN PENDIENTE ASCENDIENTE O DESCENDIENTE.
+57.- Dar vuelta en "U" a media cuadra o intersección.
 
-60.- DEJAR UN VEHICULO ABANDONADO EN LA VIA PUBLICA MAS DE 72 HORAS.
+58.- Dar vuelta en "U" al entrar o salir de una curva.
 
-61.- DETENER LA MARCHA DEL VEHICULO EN ARROYO DE CIRCULACION.
+59.- Dar vuelta en "U" en pendiente ascendente o descendente.
 
-62.- EFECTUAR CARAVANAS O DESFILES DE VEHICULOS EN LA VIA PUBLICA SIN PERMISO CORRESPONDIENTE (A CADA VEHICULO).
+60.- Dejar un vehículo abandonado en la vía pública más de 72 horas.
 
-63.- EFECTUAR MANIOBRAS INNECESARIAS EN REVERSA.
+61.- Detener la marcha del vehículo en arroyo de circulación.
 
-64.- EFECTUAR REPARACIONES EN LA VIA PUBLICA.
+62.- Efectuar caravanas o desfiles de vehículos en la vía pública sin permiso correspondiente (a cada vehículo).
 
-65.- ESTACIONARSE A MAS DE 50 CENTIMETROS DE LA BANQUETA.
+63.- Efectuar maniobras innecesarias en reversa.
 
-66.- ESTACIONARSE A MENOS DE 5 METROS DE LA ENTRADA A LA ESTACION DE BOMBEROS.
+64.- Efectuar reparaciones en la vía pública.
 
-67.- ESTACIONARSE EN BATERIA EN ZONA DE CORDON O VICEVERSA.
+65.- Estacionarse a más de 50 centímetros de la banqueta.
 
-68.- ESTACIONARSE EN DOBLE O TERCERA FILA.
+66.- Estacionarse a menos de 5 metros de la entrada a la Estación de Bomberos.
 
-69.- ESTACIONARSE EN SENTIDO CONTRARIO.
+67.- Estacionarse en batería en zona de cordón o viceversa.
 
-70.- ESTACIONARSE EN CURVA.
+68.- Estacionarse en doble o tercera fila.
 
-71.- ESTACIONARSE EN ZONA DE ASCENSO O DESCENSO DE PASAJEROS.
+69.- Estacionarse en sentido contrario.
 
-72.- ESTACIONARSE EN ZONA PROHIBIDA.
+70.- Estacionarse en curva.
 
-73.- ESTACIONARSE OBSTRUYENDO LA VISIBILIDAD DE SEÑALES DE TRANSITO.
+71.- Estacionarse en zona de ascenso o descenso de pasajeros.
 
-74.- ESTACIONARSE SOBRE O ENFRENTE A UNA ENTRADA O SALIDA DE VEHICULOS.
+72.- Estacionarse en zona prohibida.
 
-75.- ESTACIONARSE SOBRE LA ACERA, CAMELLON, ETC.
+73.- Estacionarse obstruyendo la visibilidad de señales de tránsito.
 
-76.- ESTACIONARSE SOBRE PUENTE O ESTRUCTURA DE UNA VIA.
+74.- Estacionarse sobre o enfrente a una entrada o salida de vehículos.
 
-77.- ESTACIONARSE SOBRE LA SUPERFICIE DE RODAMIENTO.
+75.- Estacionarse sobre la acera, camellón, etc.
 
-78.- ESTACIONARSE SOBRE LA ZONA DE SEGURIDAD DE LOS PEATONES.
+76.- Estacionarse sobre puente o estructura de una vía.
 
-79.- FALTA DE LUCES REGLAMENTARIAS ROJAS ATRAS DEL VEHICULO.
+77.- Estacionarse sobre la superficie de rodamiento.
 
-80.- FALTA DE TARJETA DE CIRCULACION.
+78.- Estacionarse sobre la zona de seguridad de los peatones.
 
-81.- INSULTAR CON EL ESCAPE O CLAXON A OTRAS PERSONAS.
+79.- Falta de luces reglamentarias rojas atrás del vehículo.
 
-82.- NO DISMINUIR VELOCIDAD AL ENTRAR CRUCERO EN LUZ AMBAR AMARILLA.
+80.- Falta de tarjeta de circulación.
 
-83.- NO DISMINUIR VELOCIDAD ANTE CONCENTRACION DE PEATONES.
+81.- Insultar con el escape o claxon a otras personas.
 
-84.- NO DISMINUIR VELOCIDAD ANTE VEHICULO DE EMERGENCIA.
+82.- No disminuir velocidad al entrar crucero en luz ambar amarilla.
 
-85.- NO CEDER PREFERENCIA DE PASO AL ENTRAR A GLORIETA.
+83.- No disminuir velocidad ante concentración de peatones.
 
-86.- NO CEDER PREFERENCIA DE PASO AL PEATON.
+84.- No disminuir velocidad ante vehículo de emergencia.
 
-87.- NO CEDER PREFERENCIA DE PASO A VEHICULO (SIC) O PEATONES AL SALIR DE UNA COCHERA.
+85.- No ceder preferencia de paso al entrar a glorieta.
 
-88.- NO CEDER PREFERENCIA DE PASO EN UN CRUCERO A UN VEHICULO.
+86.- No ceder preferencia de paso al peatón.
 
-89.- NO HACER ALTO DE LUZ INTERMITENTE DE SEMAFORO.
+87.- No ceder preferencia de paso a vehículos o peatones al salir de una cochera.
 
-90.- NO INSTALAR DISPOSITIVOS DE SEGURIDAD EN OBRAS EN LA VIA PUBLICA.
+88.- No ceder preferencia de paso en un crucero a un vehículo.
 
-91.- NO OBEDECER INDICACIONES DE AGENTES DE TRANSITO.
+89.- No hacer alto de luz intermitente de semáforo.
 
-92.- NO PORTAR LICENCIA ADECUADA PARA EL VEHICULO QUE CONDUCE.
+90.- No instalar dispositivos de seguridad en obras en la vía pública.
 
-93.- NO RESPETAR LOS ALTOS OBLIGATORIOS.
+91.- No obedecer indicaciones de Agentes de Tránsito.
 
-94.- NO RESPETAR LOS SEMAFOROS DE GLORIETA.
+92.- No portar licencia adecuada para el vehículo que conduce.
 
-95.- NO RESPETAR ALTO DE AGENTE DE TRANSITO.
+93.- No respetar los altos obligatorios.
 
-96.- NO RESPETAR LUZ PREVENTIVA DE ALTO.
+94.- No respetar los semáforos de glorieta.
 
-97.- NO RESPETAR LUZ ROJA DE SEMAFORO.
+95.- No respetar alto de Agente de Tránsito.
 
-98.- NO TOMAR SU CARRIL CORRESPONDIENTE DE CIRCULACION.
+96.- No respetar luz preventiva de alto.
 
-99.- OBSTRUIR LA CIRCULACION DE PEATONES.
+97.- No respetar luz roja de semáforo.
 
-100.- OBSTRUIR LA VISIBILIDAD DEL CONDUCTOR DE LA CARGA.
+98.- No tomar su carril correspondiente de circulación.
 
-101.- PERMITIR ASCENSO Y DESCENSO DEL PASAJE EN CARRIL DE CIRCULACION.
+99.- Obstruir la circulación de peatones.
 
-102.- PERMITIR ASCENSO Y DESCENSO DEL PASAJE FUERA DEL LUGAR DESTINADO.
+100.- Obstruir la visibilidad del conductor de la carga.
 
-103.- PERMANECER MAS DEL TIEMPO INDISPENSABLE PARA EL ASCENSO Y DESCENSO.
+101.- Permitir ascenso y descenso del pasaje en carril de circulación.
 
-104.- PERMITIR MANEJAR A MENOR SIN LICENCIA.
+102.- Permitir ascenso y descenso del pasaje fuera del lugar destinado.
 
-105.- PERMITIR VIAJAR A PERSONAS EN LAS SALPICADERAS, O DEFENSAS.
+103.- Permanecer más del tiempo indispensable para el ascenso y descenso.
 
-106.- PERMITIR VIAJAR A PERSONAS EN LUGAR DESTINADO A LA CARGA.
+104.- Permitir manejar a menor sin licencia.
 
-107.- PERNOCTAR DENTRO DE UN VEHICULO EN LA VIA PUBLICA.
+105.- Permitir viajar a personas en las salpicaderas, o defensas.
 
-108.- POR NO COLOCAR REFLEJANTES EN CASO DE ACCIDENTE O DESPERFECTO.
+106.- Permitir viajar a personas en lugar destinado a la carga.
 
-109.- PORTAR PLACAS DE CIRCULACION EN LUGARES NO VISIBLES.
+107.- Pernoctar dentro de un vehículo en la vía pública.
 
-110.- REBASAR ZONA DE SEGURIDAD DE PEATONES AL HACER ALTO.
+108.- Por no colocar reflejantes en caso de accidente o desperfecto.
 
-111.- TRANSITAR CON FRENOS EN MAL ESTADO.
+109.- Portar placas de circulación en lugares no visibles.
 
-112.- TRANSITAR CON UNA O MAS LLANTAS EN MAL ESTADO.
+110.- Rebasar zona de seguridad de peatones al hacer alto.
 
-113.- TRANSITAR CON SILENCIADOR ROTO O EN MAL ESTADO.
+111.- Transitar con frenos en mal estado.
 
-114.- TRANSITAR IRREGULARMENTE EN ZIG-ZAG INVADIENDO DOS O MAS CARRILES DE CIRCULACION.
+112.- Transitar con una o más llantas en mal estado.
 
-115.- TRANSITAR VEHICULOS CON BANDAS DE ORUGA EN LA VIA PUBLICA CAUSANDO DAÑO AL PAVIMENTO.
+113.- Transitar con silenciador roto o en mal estado.
 
-116.- USAR INDEBIDAMENTE EL CLAXON.
+114.- Transitar irregularmente en zigzag invadiendo dos o mas carriles de circulación.
 
-117.- VIAJAR MAS DE TRES PERSONAS EN EL ASIENTO DELANTERO DE CUALQUIER VEHICULO.
+115.- Transitar vehículos con bandas de oruga en la vía pública causando daño al pavimento.
 
-118.- VUELTA A LA IZQUIERDA O A LA DERECHA EN LUGARES PROHIBIDOS.
+116.- Usar indebidamente el claxón.
 
-INFRACCIONES DE TIPO "C" COSTO 5 SMG-VIGENTE
+117.- Viajar mas de tres personas en el asiento delantero de cualquier vehículo.
 
-119.- ADELANTAR O REBASAR, EN PENDIENTE ASCENDENTE O DESCENDENTE EN SENTIDO CONTRARIO.
+118.- Vuelta a la izquierda o a la derecha en lugares prohibidos.
 
-120.- AUMENTAR LA VELOCIDAD PARA EVITAR SER ADELANTADO O REBASADO.
+INFRACCIONES DE TIPO "C"
 
-121.- CIRCULAR CON EXCESO DE VELOCIDAD.
+Serán sancionadas con un costo de tres a siete salarios mínimos, las siguientes:
 
-122.- CIRCULAR CON PLACAS DEMOSTRADORAS FUERA DE PERIMETRO PERMITIDO.
+119.- Adelantar o rebasar, en pendiente ascendente o descendente en sentido contrario.
 
-123.- CIRCULAR CON PLACAS EXTEMPORANEAS.
+120.- Aumentar la velocidad para evitar ser adelantado o rebasado.
 
-124.- CIRCULAR CON PLACAS SOBREPUESTAS.
+121.- Circular con exceso de velocidad.
 
-125.- CIRCULAR CON UNA SOLA PLACA.
+122.- Circular con placas demostradoras fuera de perímetro permitido.
 
-126.- CIRCULAR EN FORMA PERMANENTE, SIN PLACAS DEL ESTADO DE BAJA CALIFORNIA.
+123.- Circular con placas extemporáneas.
 
-127.- CIRCULAR SOBRE LA BANQUETA, CAMELLON O MARCAS DE APROXIMACION.
+124.- Circular con placas sobrepuestas.
 
-128.- ENTORPECER DE COLUMNAS ESCOLARES, MILITARES O CORTEJOS.
+125.- Circular con una sola placa.
 
-129.- ESTABLECER SITIO EN ZONA NO AUTORIZADA.
+126.- Circular en forma permanente, sin placas del Estado de Baja California.
 
-130.- ESTACIONAR UN REMOLQUE SIN EL TRACTOR EN VIA PUBLICA.
+127.- Circular sobre la banqueta, camellón o marcas de aproximación.
 
-131.- FALTA DE PRECAUCION AL CONDUCIR (CHOCANDO).
+128.- Entorpecer de columnas escolares, militares o cortejos.
 
-132.- NO CEDER PREFERENCIA DE PASO AL PEATON EN ZONA ESCOLAR.
+129.- Establecer sitio en zona no autorizada.
 
-133.- NO CEDER PREFERENCIA DE PASO A VEHICULOS DE EMERGENCIA.
+130.- Estacionar un remolque sin el tractor en vía pública.
 
-134.- NO HACER ALTO OBLIGATORIO EN VIAS DE FERROCARRIL.
+131.- Falta de precaución al conducir (chocando).
 
-135.- POR TRAER EL RADIO O TOCACINTAS A TODO VOLUMEN EN VEHICULOS.
+132.- No ceder preferencia de paso al peatón en zona escolar.
 
-INFRACCIONES DE TIPO "D" COSTO 6 SMG-VIGENTE
+133.- No ceder preferencia de paso a vehículos de emergencia.
 
-136.- ABASTECER COMBUSTIBLE CON PASAJE A BORDO, (SERVICIO PUBLICO).
+134.- No hacer alto obligatorio en vías de ferrocarril.
 
-137.- ATROPELLAR A UNA PERSONA.
+135.- Por traer el radio o tocacintas a todo volumen en vehículos.
 
-138.- CAMIONES DE PASAJEROS, PASARSE EN LUZ ROJA EL SEMAFORO.
+INFRACCIONES DE TIPO "D"
 
-139.- CAMIONES DE PASAJEROS, REBASAR A OTROS EN LUGARES NO PERMITIDOS.
+Serán sancionadas con un costo de tres a ocho salarios mínimos, las siguientes infracciones:
 
-140.- CONDUCIR CON ALIENTO ALCOHOLICO, SEGUN CERTIFICADO MEDICO.
+136.- Abastecer combustible con pasaje a bordo, (servicio público).
 
-141.- CHOCANDO Y DARSE A LA FUGA.
+137.- Atropellar a una persona.
 
-142.- DESTRUIR SEÑALES DE TRANSITO.
+138.- Camiones de pasajeros, pasarse en luz roja el semáforo.
 
-143.- FALTA ABSOLUTA DE FRENOS.
+139.- Camiones de pasajeros, rebasar a otros en lugares no permitidos.
 
-144.- HACER SERVICIO DE GRUA SIN AUTORIZACION.
+140.- Conducir con aliento alcohólico, según certificado médico.
 
-145.- INSULTAR AL PASAJE (CHOFERES DE TAXIS O CAMIONES).
+141.- Chocando y darse a la fuga.
 
-146.- JUGAR CARRERAS CON OTROS VEHICULOS, (A CADA UNO).
+142.- Destruir señales de tránsito.
 
-147.- TRANSITAR CON LOS VIDRIOS AHUMADOS, O PINTADOS SIN PERMITIR LA VISIBILIDAD.
+143.- Falta absoluta de frenos.
 
-148.- TRANSPORTAR EXPLOSIVOS SIN EL PERMISO CORRESPONDIENTE.
+144.- Hacer servicio de grúa sin autorización.
 
-INFRACCIONES DE TIPO "E" COSTO 20 SMG-VIGENTE
+145.- Insultar al pasaje (choferes de taxi o camiones).
 
-149.- CAMIONES DE PASAJEROS, JUGAR CARRERAS CON OTRO VEHICULO, (A CADA UNO).
+146.- Jugar carreras con otros vehículos, (a cada uno).
 
-150.- CONDUCIR EN ESTADO DE EBRIEDAD, SEGUN CERTIFICADO MEDICO.
+147.- Transitar con los vidrios ahumados, o pintados sin permitir la visibilidad.
 
-151.- INGERIR BEBIDAS EMBRIAGANTES DENTRO DEL VEHICULO.
+148.- Transportar explosivos sin el permiso correspondiente.
 
-152.- PERMITIR INGERIR BEBIDAS EMBRIAGANTES DENTRO DEL VEHICULO, (AL CONDUCIR).
+INFRACCIONES DE TIPO "E"
 
-153.- CIRCULAR CON EXCESO DE VELOCIDAD EN ZONA ESCOLAR.
+Serán sancionadas con un costo de diez a veinte salarios mínimos, las siguientes infracciones:
 
-INFRACCIONES DE TIPO "F":
+149.- Camiones de pasajeros, jugar carreras con otro vehículo, (a cada uno).
+
+150.- Conducir en Estado de ebriedad, según certificado médico.
+
+151.- Ingerir bebidas embriagantes dentro del vehículo.
+
+152.- Permitir ingerir bebidas embriagantes dentro del vehículo, (al conducir).
+
+153.- Circular con exceso de velocidad en zona escolar.
+
+INFRACCIONES DE TIPO "F"
+
+Serán sancionadas con un costo de uno a tres salarios mínimos las siguientes infracciones:
 
 BICICLETAS.
 
-154.- ADELANTAR, REBASAR SOBRE EL MISMO CARRIL POR (SIC) ENTRE VEHICULOS.
+154.- Adelantar, rebasar sobre el mismo carril por entre vehículos.
 
-155.- ASIRSE A UN VEHICULO PARA SER REMOLCADO.
+155.- Asirse a un vehículo para ser remolcado.
 
-156.- ATROPELLAR Y ABANDONAR EL LUGAR DEL ACCIDENTE.
+156.- Atropellar y abandonar el lugar del accidente.
 
-157.- CIRCULAR DOS O MAS PARALELAMENTE.
+157.- Circular dos o más paralelamente.
 
-158.- CIRCULAR EN CONTRA DEL TRANSITO.
+158.- Circular en contra del tránsito.
 
-159.- CIRCULAR EN ZIG-ZAG.
+159.- Circular en zig-zag.
 
-160.- CIRCULAR SIN LUCES.
+160.- Circular sin luces.
 
-161.- CIRCULAR SIN PLACAS.
+161.- Circular sin placas.
 
-162.- CHOCAR.
+162.- Chocar.
 
-163.- CHOCAR Y ABANDONAR EL LUGAR.
+163.- Chocar y abandonar el lugar.
 
-164.- FALTA DE FARO REFLEJANTE.
+164.- Falta de faro reflejante.
 
-165.- FALTA DE LAMPARA REFLEJANTE POSTERIOR.
+165.- Falta de lámpara reflejante posterior.
 
-166.- LLEVAR BULTOS EN LA CABEZA.
+166.- Llevar bultos en la cabeza.
 
-167.- MANEJAR CON ALIENTO ALCOHOLICO O EN ESTADO DE EBRIEDAD.
+167.- Manejar con aliento alcohólico o en estado de ebriedad.
 
-168.- NO CIRCULAR POR SU EXTREMA DERECHA.
+168.- No circular por su extrema derecha.
 
-169.- NO RESPETAR SEÑALES DE ALTO.
+169.- No respetar señales de alto.
 
-170.- PASARSE EN LUZ ROJA EL SEMAFORO.
+170.- Pasarse en luz roja el semáforo.
 
-171.- TRANSITAR SOBRE LAS ACERAS.
+171.- Transitar sobre las aceras.
 
-172.- VIAJAR MAS DE UNA PERSONA CUANDO NO SE DISPONGA DE ASIENTO EXTRA.
+172.- Viajar más de una persona cuando no se disponga de asiento extra.
 
-INFRACCIONES DE TIPO "G" COSTO 3 SMG-VIGENTE
+INFRACCIONES DE TIPO "G"
+
+Serán sancionadas con un costo de uno a cinco salarios mínimos las siguientes infracciones:
 
 VEHICULOS INDIVIDUALES DE MOTOR DE DOS, TRES Y CUATRO RUEDAS.
 
-173.- ADELANTAR, REBASAR SOBRE EL MISMO CARRIL POR (SIC) ENTRE VEHICULOS.
+173.- Adelantar, rebasar sobre el mismo carril por entre vehículos.
 
-174.- ASIRSE A UN VEHICULO PARA SER REMOLCADO.
+174.- Asirse a un vehículo para ser remolcado.
 
-175.- ATROPELLAR Y ABANDONAR EL LUGAR DEL ACCIDENTE.
+175.- Atropellar y abandonar el lugar del accidente.
 
-176.- CIRCULAR DOS O MAS PARALELAMENTE.
+176.- Circular dos o más paralelamente.
 
-177.- CIRCULAR EN CONTRA DEL TRANSITO.
+177.- Circular en contra del tránsito.
 
-178.- CIRCULAR EN ZIG-ZAG.
+178.- Circular en zig-zag.
 
-179.- CIRCULAR SIN LUCES.
+179.- Circular sin luces.
 
-180.- CIRCULAR SIN PLACAS.
+180.- Circular sin placas.
 
-181.- CHOCAR.
+181.- Chocar.
 
-182.- CHOCAR Y ABANDONAR EL LUGAR.
+182.- Chocar y abandonar el lugar.
 
-183.- FALTA DE FARO REFLEJANTE.
+183.- Falta de faro reflejante.
 
-184.- FALTA DE LAMPARA REFLEJANTE POSTERIOR.
+184.- Falta de lámpara reflejante posterior.
 
-185.- LLEVAR BULTOS EN LA CABEZA.
+185.- Llevar bultos en la cabeza.
 
-186.- MANEJAR CON ALIENTO ALCOHOLICO O EN ESTADO DE EBRIEDAD.
+186.- Manejar con aliento alcohólico o en estado de ebriedad.
 
-187.- MANEJAR SIN LICENCIA.
+187.- Manejar sin licencia.
 
-188.- NO PORTAR ANTEOJOS PROTECTORES.
+188.- No portar anteojos protectores.
 
-189.- NO RESPETAR SEÑALES DE ALTO.
+189.- No respetar señales de alto.
 
-190.- PASARSE EN LUZ ROJA EL SEMAFORO.
+190.- Pasarse en luz roja el semáforo.
 
-191.- POR NO PORTAR CASCO PROTECTOR.
+191.- Por no portar casco protector.
 
-192.- TRANSITAR SOBRE LAS ESCALERAS.
+192.- Transitar sobre las escaleras.
 
-193.- VIAJAR MAS DE UNA PERSONA CUANDO NO SE DISPONGA DE ASIENTO EXTRA.
-
-EN CASO DE QUE EL MOTIVO DE LA INFRACCION SEA IMPUTABLE A FALLA MECANICA, EL INFRACTOR TENDRA DERECHO A CORREGIRLA EN UN PLAZO RAZONABLE Y PRESENTARSE A RECOGER EL DOCUMENTO GARANTIA DE LA INFRACCION SIN CARGO ALGUNO. DE NO HACERLO ASI, LA INFRACCION SE HARA EFECTIVA AL CANJE DE PLACAS.
+193.- Viajar más de una persona cuando no se disponga de asiento extra.
 
 T R A N S I T O R I O S
 
@@ -1108,3 +1130,15 @@ P.O. 31 DE JULIO DE 1989.
 ACUERDO TOMADO POR EL H. XII AYUNTAMIENTO CONSTITUCIONAL DE TECATE, B. C. EN SU SESION ORDINARIA No. 97 DEL DIA 27 DE JUNIO DE 1989.
 
 CON LO CUAL SE DEROGA CUALQUIER OTRO TABULADOR PARA INFRACCIONES AL REGLAMENTO DE TRANSITO MUNICIPAL, EXISTENTE. ENTRANDO EN VIGOR EL PRESENTE AL DIA SIGUIINTE (SIC) DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 24 DE JUNIO DE 1994.
+
+PRIMERO.- Se modifican los Artículos 74, 87 Fracción d) y 94 del Reglamento de Tránsito Municipal en vigor en el Municipio de Tecate, para quedar en los términos y formas de las modificaciones que planteó el C. Presidente Municipal en su propuesta de punto de acuerdo presentada a Cabildo del XIV Ayuntamiento de Tecate en la Sesión Ordinaria del día 9 de junio de 1994.
+
+SEGUNDO.- Las presentes reformas, adiciones y modificaciones al Reglamento de Tránsito entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+TERCERO.- Las presentes modificaciones dejan sin efecto el contenido de los Artículos 74 y 87 Fracción d) del Reglamento de Tránsito Municipal Tecate publicado en el Periódico Oficial del Estado en fecha 10 de septiembre de 1973, así como también el Artículo 94 del mismo Ordenamiento que había sido modificado por acuerdo del H. XII Ayuntamiento de Tecate en Sesión Ordinaria No. 97 del día 27 de junio de 1989.
+
+CUARTO.- Publíquese en el Periódico Oficial, Orgáno Oficial de Publicaciones del Gobierno del Estado.
+
+QUINTO.- Cumplase.
