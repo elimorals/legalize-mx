@@ -4,7 +4,7 @@ identifier: "SON-ley-de-expropiacion-por-causa-de-utilidad-publica-8439"
 country: "mx"
 rank: "ley"
 publication_date: "1972-07-15"
-last_updated: "1972-07-15"
+last_updated: "1986-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EXPROPIACION POR CAUSA DE UTILIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 15 de julio de 1972.
 
@@ -91,13 +91,49 @@ Cuando se proceda de oficio a la expropiación, se formará expediente en el que
 
 La declaratoria de expropiación se hará, en cada caso, mediante acuerdo que se publicará en el Boletín Oficial del Estado y será notificado personalmente a los interesados si se conocieren sus domicilios y en caso de ignorarse surtirá efectos de notificación personal una segunda publicación del acuerdo en el Boletín Oficial, que se hará quince días después de la primera.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 7o.
 
-Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, el recurso administrativo de revocación contra la declaratoria correspondiente.
+Los propietarios afectados podrán interponer, ante la Secretaría de Gobierno, el recurso administrativo de revocación contra la declaratoria correspondiente, en los siguientes términos.
+
+I.- Si fueren notificados en sus domicilios dentro, de los quince días hábiles siguientes al de la notificación del acuerdo.
+
+II.- Si fueren notificados mediante una segunda publicación del Acuerdo respectivo en el Boletín Oficial, dentro de los treinta días hábiles siguientes, contados a partir de la fecha de esta segunda publicación.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 8o.
 
-El recurso administrativo de revocación se interpondrá ante la Secretaría de Gobierno, si se trata de la Capital del Estado o ante las Agencias Fiscales correspondientes, cuando se trate de otra población.
+La tramitación del recurso administrativo de revocación contra la declaratoria de expropiación, se sujetará a las normas siguientes:
+
+I.- En el escrito de interposición del recurso, el recurrente deberá señalar domicilio en la Capital del Estado, para oír notificaciones y designar, en su caso, a una o varias personas para que reciban las mismas.
+
+Cuando el promovente del recurso no cumpla con lo previsto en cuanto al señalamiento de domicilio, las notificaciones, aún las que conforme a este artículo deban hacerse personalmente, se harán por cédula fijada en el local que ocupa la Secretaria de Gobierno.
+
+Además, en el escrito de interposición del recurso, el recurrente deberá señalar el acto impugnado y la expresión de hechos que corresponda; los agravios que le cause el acto impugnado y los fundamentos legales precedentes, así como las pruebas que ofrezca.
+
+Cuando no se ofrezcan las pruebas en el escrito a que se refiere esta fracción, se declarará perdido el derecho del recurrente para hacerlo. Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+
+II.- Se admitirá todo tipo de prueba, salvo la confesional. Las probanzas que se ofrezcan deberán relacionarse con cada uno de los hechos controvertidos; las pruebas documentales deberán acompañarse al escrito de interposición del recurso; la prueba pericial se ofrecerá exhibiendo el cuestionario que deba desahogar el perito, y la testimonial se deberá ofrecer indicando los nombres de las personas que deban interrogarse y acompañando los interrogatorios sobre los cuales versará la misma.
+
+El incumplimiento de lo previsto en esta fracción, traerá como consecuencia que se tengan por no ofrecidas las pruebas respectivas.
+
+III.- Admitido el recurso, se abrirá un período probatorio por el término de quince días hábiles. Este período comenzará a correr, el día siguiente a aquél en que se notifique personalmente al recurrente la admisión del recurso.
+
+Todas las pruebas deberán practicarse dentro del período probatorio.
+
+IV.- Para el desahogo de la prueba pericial, se requerirá al promovente del recurso, para que dentro del plazo de tres días presente al perito propuesto, para efectos de la aceptación y protesta del cargo. Se fijará lugar, día y hora para el desahogo de la probanza, pudiéndose pedir, por parte de la Secretaría de Gobierno, en el momento de la diligencia respectiva o en fecha posterior, todas las aclaraciones que se estimen conducentes.
+
+V.- Para desahogar la prueba testimonial, se requerirá al recurrente para que presente a los testigos en el lugar, fecha y hora que para tal efecto se señale.
+
+De los testimonios se levantará acta pormenorizada y podrán serles formuladas a los testigos aquellas preguntas que estén en relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Las autoridades rendirán su testimonio por escrito.
+
+VI.- La Secretaría de Gobierno podrá mandar practicar, de oficio, los estudios y diligencias que estime oportunos y solicitar los informes que considere pertinentes de parte de quienes hayan intervenido en el acto reclamado.
+
+VII.- Vencido el plazo para el desahogo de pruebas, se remitirá el expediente al Gobernador del Estado para que en el término de diez días hábiles resuelva si confirma, modifica o revoca el acuerdo correspondiente.
+
+VIII.- Las resoluciones se notificarán a los interesados personalmente.
 
 ###### ARTICULO 9o.
 
@@ -107,9 +143,11 @@ Cuando no se haya hecho valer la revocación, o en caso de que haya sido resuelt
 
 En los casos de emergencia que surgieren a causa de guerra interior o exterior, propagación de epidemias, epizootias, plagas, incendios, o otras calamidades públicas, abastecimiento de ciudades o protección de las riquezas naturales, hecha la declaratoria, podrá el Ejecutivo del Estado ordenar la ocupación, de los bienes objeto de la expropiación, o de la ocupación temporal, o imponer la ejecución inmediata de las disposiciones sobre limitación de derechos sin que la interposición del recurso de revocación, suspenda la ocupación del bien o la ejecución de las disposiciones de limitación.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 11.
 
-Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de derechos, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de tres años el propietario afectado podrá reclamar la devolución del bien de que se trate o la insubsistencia del acuerdo sobre ocupación temporal o limitación de derechos. La reclamación se interpondrá ante el Ejecutivo del Estado.
+Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de derechos, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá reclamar la devolución del bien de que se trate, o la insubsistencia del acuerdo sobre ocupación temporal o limitación de derechos. La reclamación se interpondrá ante el Ejecutivo del Estado.
 
 ###### ARTICULO 12.
 
@@ -159,9 +197,11 @@ Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa
 
 Estas disposiciones se aplicarán, en lo conducente a los casos de ocupación temporal, o de limitación al derecho de dominio.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 23.
 
-En los casos de controversia, el Estado será representado en la capital por el Secretario de Gobierno y en los demás lugares por los Agentes Fiscales; los beneficiarios de la expropiación tendrán derecho a designar a un coadyuvante.
+En los casos de controversia, el Estado será representado por el Secretario de Gobierno, los beneficiarios de la expropiación tendrán derecho a designar a un coadyuvante
 
 ## TRANSITORIOS
 
@@ -200,3 +240,11 @@ Faustino Felix Serna
 EL SECRETARIO GRAL. DE GOBIERNO,
 
 Angel López Gutiérrez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 29 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
