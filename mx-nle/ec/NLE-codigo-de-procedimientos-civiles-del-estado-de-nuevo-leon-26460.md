@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1999-02-10"
+last_updated: "2000-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1299,27 +1299,37 @@ No serán procedentes conforme a la fracción I del artículo 154, las declaraci
 
 ### CAPITULO II BIS
 
-DEL DEPOSITO DE MENORES.
+DE LA SEPARACIÓN CAUTELAR DE PERSONAS Y DEL DEPOSITO DE MENORES.
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
 
-Artículo 180 Bis I.- Los menores que sean maltratados por parte de quienes ejerzan sobre ellos la patria potestad, tutela o los tengan bajo su custodia, podrán ser depositados provisionalmente a juicio del Juez, en el domicilio de un familiar o en una institución idónea, por resolución que él dicte.
+Artículo 180 Bis I.- Toda persona que vaya a presentar demanda, denuncia o querella, por conductas que constituyan violencia familiar, puede pedir al juez que lo separe cautelarmente del presunto agresor a quien demandará o acusará.
 
-El ejercicio de tal acción corresponde indistintamente a quienes se señalan en el artículo 414 del Código Civil vigente en el Estado, quienes deberán de aportar los medios de prueba idóneos, y solo a falta o negativa de éstos por el Ministerio Público.
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
 
-Una vez presentada la solicitud de depósito del menor se trasladará el Juez al domicilio donde habita, previa citación de quien lo haya tenido bajo su custodia; hará comparecer a quien haya solicitado el depósito del menor, sin que se encuentre presente el maltratador, para que manifieste si ratifica o no su solicitud, excepto cuando se trate del maltratador y el Ministerio en su caso el Juez decretará el depósito del menor en el lugar mas conveniente a su juicio.
+Artículo 180 Bis II.- La separación cautelar de personas y el depósito de menores, tiene por objeto tutelar la seguridad de las personas sujetas a violencia familiar. Toda separación cautelar decretada con fundamento en este Capítulo, tendrá un carácter prejudicial y provisional, en los siguientes términos:
 
-En el mismo acto de la diligencia el Juez mandará intimar a quien lo hubiere solicitado, de que si en el término de treinta días no acredita haber intentado la demanda, acusación o querella, el depósito quedará sin efecto así como a quien haya tenido la custodia para que no moleste al menor ni a quien hubiere solicitado su depósito, apercibiéndolo de procederse en su contra a lo que hubiere lugar.
+I.- Será autorizada para tutelar la seguridad de las personas receptoras de violencia familiar, en tanto preparan y presentan las acciones legales que correspondan en contra de su agresor;
 
-Independientemente de lo anterior, el Juez puede decretar las medidas que estime procedentes a efecto de evitar molestias al solicitante y en su caso a los habitantes del domicilio o institución que se haya señalado para el depósito del menor.
+II.- Se autorizará por un período que no excederá de 30 días, plazo dentro del cual se deberá acreditar al juez que autorizó la separación, el haber presentado demanda, denuncia o querella en contra del agresor. Los efectos de la separación autorizada cesarán si al vencimiento del referido plazo no se hubiere acreditado la realización de cualquiera de las acciones legales citadas;
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+III.- En todo caso, el juez remitirá el expediente de la separación cautelar al juez ante el que se hubiere demandado. El juez que conozca del juicio principal, resolverá la continuación o terminación de la separación cautelar.
 
-Artículo 180 Bis II.- Los menores que hayan sido sustraídos o retenidos ilícitamente en un lugar distinto de su domicilio legal, si fueren mayores de siete años, previamente se oirá su parecer para ser depositados provisionalmente en el domicilio de sus abuelos maternos o paternos indistintamente, de un familiar o en una institución idónea.
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
 
-En los casos señalados en este artículo se seguirá el mismo procedimiento previsto en el artículo que antecede.
+Artículo 180 Bis III.- Durante la separación cautelar todos los derechos y obligaciones familiares entre las personas separadas continuarán vigentes y deberán cumplirse en los términos que el juez precise, excepto los derechos de convivencia familiar que, en su caso, podrán ser suspendidos o limitados en los términos que el juez determine.
 
-Contra el acuerdo que conceda el depósito de menores conforme al artículo anterior y éste, no procede ningún recurso, contra el que lo deniegue procede el recurso de apelación en ambos efectos.
+En caso de necesidad de salvaguardar la integridad física o psicológica de una persona, el juez podrá dictar provisionalmente las siguientes medidas:
+
+I.- Prohibición de ir a lugar determinado.
+
+II.- Prohibición de acercarse al agredido.
+
+III.- Caución de no ofender.
+
+IV.- Todas aquellas que considere necesarias para el efecto.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
 
 ###### Artículo 166.
 
@@ -1421,11 +1431,45 @@ Si el juez que decretó la separación provisional no fuera el que deba conocer 
 
 Lo dispuesto por los artículos que preceden se aplicará igualmente a las personas que vivan juntas y hayan procreado hijos que sean menores de edad o mayores incapacitados.
 
-> <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DEL 2000)</small>
 
 ### CAPITULO III
 
 DE LOS PRELIMINARES DE LA CONSIGNACION.
+
+###### Artículo 180 Bis.
+
+IV.- La solicitud de separación podrá ser escrita o verbal, sin requerirse ninguna formalidad especial, precisándose en ella, bajo protesta de decir verdad, las causas que la motivan, el domicilio que se solicita sea designado para la habitación de quien se separa y, en su caso, las demás condiciones que se piden sean decretadas para la separación cautelar. De existir menores o incapaces bajo la patria potestad, custodia o tutela del presunto agresor, se hará del conocimiento del juez a efecto de que sean decretadas las medidas necesarias para su protección y cuidado incluidas las del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+
+Artículo 180 Bis V.- Presentada la solicitud de separación cautelar, el juez, sin más trámite, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso. En los casos regulados por los artículos 180 Bis VI, 180 Bis VII y 180 Bis VIII, deberán cumplirse los requisitos adicionales que los citados preceptos establecen.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+
+Artículo 180 Bis VI.- Toda persona que ejerza la patria potestad, la tutela o tenga la custodia, de un menor u otro incapaz sujeto a violencia familiar de parte de la otra persona que también ejerce sobre éste la patria potestad, la tutela o custodia, podrá solicitar que el menor o incapaz sea separado del presunto agresor y depositado bajo el cuidado del solicitante, en el mismo domicilio en el que éste habitará y que será diverso al del presunto agresor. Con la solicitud de separación del menor deberá presentarse dictamen técnico, que respalde la separación solicitada. Presentada la solicitud de separación cautelar, acompañada del dictamen técnico, el juez, sin más trámite, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+
+Artículo 180 Bis VII.- Los menores u otros incapaces que sean sujetos de violencia familiar por quienes ejercen sobre ellos la patria potestad, tutela o los tengan bajo su custodia, o por una sola de tales personas pero con la tolerancia de la otra, podrán ser separados cautelarmente de sus agresores y depositados en el domicilio de un familiar o en una institución idónea, por resolución que dicte el juez.
+
+Esta medida cautelar podrá ser solicitada al juez, indistintamente, por institución pública dedicada a la atención de asuntos relacionados con la violencia familiar, o por el Ministerio Público. En la solicitud de separación, que deberá ser motivada, se precisará el nombre y domicilio del familiar o de la institución pública que acepta constituirse en depositario del menor o incapaz, así como las demás condiciones que se piden sean decretadas para la separación cautelar y salvaguarda de la integridad y derechos del menor o incapaz.
+
+Una vez radicada la solicitud, el juez se trasladará al domicilio del menor o incapaz, previa citación de quienes ejercen sobre éste la patria potestad, tutela o custodia, así como del Ministerio Público o del representante de la institución pública promovente. Asimismo deberá citarse al familiar o al representante de la institución pública que haya aceptado constituirse en depositario del menor o incapaz y a quien el juez preguntará en privado si ratifica o no su disposición a ser depositario.
+
+En la misma diligencia el juez escuchará a las personas citadas en el párrafo anterior y decretará, en su caso, el depósito del menor o incapaz en el lugar más conveniente, para lo cual podrá tomar en consideración la declaración de los menores mayores de siete años.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+
+Artículo 180 Bis VIII.- Cuando una persona, sin el consentimiento de quien conjuntamente ejerce con ella la patria potestad o tutela sobre un menor o incapaz, lo desplaza del control de quien tenga materialmente la custodia el juez, a petición del Ministerio Público o de institución pública dedicada a la atención de asuntos relacionados con la violencia familiar, podrá ordenar que el menor o incapaz sea cautelarmente depositado en el domicilio de un familiar o en una institución idónea, en apego al procedimiento establecido en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+
+Artículo 180 Bis IX.- En toda resolución que autorice la separación cautelar de personas o depósito de menores, el Juez ordenará la notificación de la misma a la persona o personas respecto de las cuales se autorizó la separación, decretando también los apercibimientos que sean necesarios a efecto de que tales personas se abstengan de molestar a los sujetos separados así como a sus depositarios o dependientes.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+
+Artículo 180 Bis X.- En contra de toda resolución que conceda o niegue la medida cautelar de separación de personas o depósito de menores solicitada, procede el recurso de apelación.
 
 ### CAPITULO IV
 
@@ -6575,17 +6619,25 @@ Todos los problemas inherentes a la familia se consideran de orden público, por
 
 Los Jueces de lo Familiar conocerán con los procedimientos, reglas y términos de este Código de Procedimientos Civiles, de los asuntos de su competencia previstos en la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
 
 ###### Artículo 954.
 
-En los asuntos de su competencia, los Jueces de lo Familiar siempre podrán exhortar a los interesados a la conciliación y a resolver sus diferencias mediante convenio.
+En los asuntos de su competencia los jueces de lo familiar siempre podrán exhortar a los interesados a la conciliación y a resolver sus diferencias mediante convenio. El juez de lo familiar está facultado para decretar, en cualquier momento del trámite de un asunto del orden familiar, las medidas cautelares que sean necesarias para preservar la familia y proteger a sus miembros, particularmente tratándose de menores u otros incapaces.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 955.
 
 En los negocios de que conozcan los Jueces de lo Familiar, será optativo para las partes acudir asesoradas. El asesoramiento deberá recaer siempre en Licenciados en Derecho con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando para ello de un término que no podrá exceder de tres días, en cuyo caso se prorrogará, el término que se hubiese concedido para el ejercicio de algún derecho.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
+
+###### Artículo 955 Bis.
+
+En las sentencias que resuelvan las controversias familiares, además de las condenas de suspensión, limitación o pérdida de los derechos familiares que en cada caso procedan, el juez podrá imponer las medidas necesarias para preservar los derechos y la seguridad de los miembros de la familia, particularmente de los menores e incapaces.
+
+En las sentencias definitivas que condenen conductas de violencia familiar, el juez podrá declarar, dejando a salvo los derechos de terceros, que el derecho de habitar el domicilio corresponde a quien sufrió la agresión, debiendo el agresor desocupar dicho domicilio cuando éste sea el padre o la madre del menor de edad o incapaz sujeto de violencia.
 
 > <small>(ADICIONADO, P.O. 1º. DE ENERO DE 1982)</small>
 
@@ -7450,3 +7502,7 @@ P.O. 10 DE FEBRERO DE 1999.
 ###### ARTÍCULO PRIMERO
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE ENERO DEL 2000.
+
+Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
