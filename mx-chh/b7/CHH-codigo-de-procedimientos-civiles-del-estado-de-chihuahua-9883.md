@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-03-13"
+last_updated: "2004-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1907,7 +1907,11 @@ El juez, de oficio o a petición de cualquiera de las partes, mandará recibir e
 
 Tratándose del divorcio que se realice ante el Oficial del Registro Civil, al momento de ratificar la solicitud de divorcio, los consortes presentarán los requisitos para que una vez disuelto el vínculo matrimonial, sea publicada el acta que los declare divorciados.
 
-421.- Ejecutoriada la sentencia, el juez remitirá directamente a la Oficina del Periódico Oficial la solicitud prevenida por el artículo anterior con la copia certificada de la parte resolutiva de aquella para que se haga la publicación correspondiente. Cumplido lo anterior se procederá en los términos del artículo 110 del Código Civil.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2004)</small>
+
+421.- Ejecutoriada la sentencia, el juez remitirá directamente a la Oficina del Periódico Oficial la solicitud prevenida por el artículo anterior con la copia certificada de la parte resolutiva de aquélla para que se haga la publicación correspondiente.
+
+Efectuado lo anterior y, previa comprobación que se haga ante el Tribunal del cumplimiento de los requisitos necesarios para el levantamiento del acta correspondiente, se procederá en los términos del artículo 110 del Código Civil.
 
 ### CAPITULO III. Del juicio ejecutivo
 
@@ -4620,3 +4624,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE MARZO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
