@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-de-asistencia-privada-del-estado-de-11607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-16"
-last_updated: "1997-03-19"
+last_updated: "2000-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 16 de agosto de 1996.
 
@@ -47,7 +47,9 @@ LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE CAMPECHE
 
 Las instituciones de asistencia, que por voluntad de los particulares, sin propósito de lucro, en favor de los individuos o de la sociedad, se constituyan en el Estado de Campeche, deberán sujetarse a las disposiciones de esta ley. Se considerarán instituciones de asistencia privada las que:
 
-I.- Tengan por objeto la ayuda al débil o al marginado; y/o
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2000)</small>
+
+I.- Tengan por objeto la ayuda a la población vulnerable y en pobreza extrema; y/o
 
 II.- Promuevan la superación del hombre, independientemente de su condición económica o social; y/o,
 
@@ -101,11 +103,17 @@ III.- La clase de actos que deseen ejecutar, determinando de manera precisa, en 
 
 IV.- El patrimonio que se dedique a crear y sostener la institución, inventariando los bienes que lo constituyan y, en su caso, la forma y términos en que hayan que (sic) exhibirse o recaudarse los fondos destinados a ella;
 
-V.- La designación de las personas que vayan a fungir como patronos y la manera de sustituirlas;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2000)</small>
+
+V.- La designación de personas que vayan a fungir como patronos y la manera de sustituirlas. El Patronato siempre deberá estar integrado por un mínimo de cinco miembros, salvo cuando sea ejercido por el propio fundador;
 
 VI.- La mención del carácter permanente o transitorio de la institución;
 
 VII.- Las bases generales de la administración y los demás datos que los fundadores consideren pertinentes para precisar su voluntad y la forma de acatarla.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+Las personas morales constituidas con arreglo a otras leyes y cuyo objeto corresponda a los señalados en el artículo 1º de esta Ley, podrán transformarse en Instituciones de Asistencia Privada, para lo cual darán a conocer a la Junta del ramo la información que se indica en este artículo y le proporcionarán copia certificada del Acta de Asamblea de Asociados que haga constar el acuerdo de transformación, y la Junta podrá, en todo caso, verificar la citada documentación.
 
 ###### ARTICULO 9º.
 
@@ -343,7 +351,11 @@ X.- No hacer castigo de cuentas incobrables, sin la previa autorización de la J
 
 XI.- No comprar o arrendar en almoneda o fuera de ella, los bienes de las instituciones que administren, ni hacer contrato alguno respecto de ellos, para sí, para su cónyuge, concubinario o concubina, hijos y demás parientes, por consanguinidad o afinidad dentro de cualquier grado;
 
-XII.- Obedecer las instrucciones de la Junta, cuando estas tiendan a corregir un error o una práctica viciosa;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2000)</small>
+
+XII.- Obedecer las instrucciones de la Junta, cuando éstas tiendan a corregir un error o una práctica viciosa, previa audiencia que, en su caso, soliciten los interesados.
+
+Los patronos deberán protocolizar, ante Notario Público todos los asuntos que deban tener esta formalidad. En los casos que se requiera protocolizar algún acto ante un Notario Público cuya circunscripción se encuentre fuera del Estado, se deberá contar con la autorización expresa de la Junta.
 
 XIII.- Remitir a la Junta un duplicado de los contratos de arrendamiento que celebren y dar aviso de la desocupación de los inmuebles. Los contratos y avisos deberán remitirse dentro de los cinco días siguientes a la fecha en que se celebre el contrato o se consume la desocupación; y
 
@@ -391,9 +403,11 @@ La Junta determinará los libros de contabilidad que llevarán las instituciones
 
 Los libros a que se refiere el artículo anterior, así como el de actas, serán autorizados sin costo alguno por el presidente y secretario de actas de la Junta, sin perjuicio de la autorización que corresponda otorgar a las autoridades en materia hacendaria o fiscal conforme a la legislación respectiva. Los libros citados serán presentados a la Junta dentro de los quince días siguientes a la fecha en que se protocolicen los estatutos de las nuevas instituciones y dentro del mismo término, contados a partir de la fecha de la última operación registrada en los libros concluidos, cuando se trate de instituciones ya establecidas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 52.
 
-Los libros principales, registros, auxiliares y de actas, en su caso, archivos y documentos que formen un conjunto del que pueda inferirse el movimiento de las instituciones, deberán ser conservados por los patronatos en el domicilio de las mismas o en el despacho que oportunamente darán ellos a conocer a la Junta, y estarán en todo tiempo a disposición de ésta para la práctica de las visitas ordinarias o extraordinarias que acuerde; salvo los libros de actas que deberán conservarse permanentemente, los demás se conservarán por un mínimo de diez años.
+Los libros principales, registros, auxiliares y de actas, en su caso, archivos y documentos que formen un conjunto del que pueda inferirse el movimiento de las instituciones, deberán ser conservados por los patronatos en el domicilio de las mismas o en el despacho que oportunamente darán ellos a conocer a la Junta, y estarán en todo tiempo a disposición de ésta para la práctica de las visitas ordinarias o extraordinarias que acuerde; salvo los libros de actas que deberán conservarse permanentemente, los demás se conservarán por un mínimo de diez años, a menos que la Junta autorice un plazo menor.
 
 Los fondos de las instituciones deberán ser depositados en una institución bancaria. En ningún caso podrán estar los fondos y documentos en el domicilio particular de alguno de los patronos, colaboradores o empleados de las instituciones, excepto en el caso de que ése sea la sede de la institución.
 
@@ -441,9 +455,11 @@ Los patronatos de las instituciones podrán, bajo la respectiva autorización de
 
 Los patronos no podrán delegar las facultades que les concede este precepto ni otorgar comisiones o porcentajes sobre las cantidades recaudadas, salvo con aprobación previa de la Junta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 63.
 
-Cuando se trate de colectas, festivales, rifas o espectáculos o cualquier otro evento con el propósito de recaudar fondos, la Junta dictará las reglas conforme a las cuales se llevarán al cabo.
+Independientemente del cumplimiento de otras disposiciones legales aplicables y de las facultades de cualquiera otra autoridad, cuando se trate de colectas, festivales, rifas o espectáculos o cualquier otro evento con el propósito de recaudar fondos, la Junta dictará las reglas conforme a las cuales se llevarán a cabo.
 
 La Junta designará un interventor, con el propósito de que verifique el cumplimiento de las reglas que la misma dicte. El interventor informará por escrito sobre el ejercicio de su función.
 
@@ -456,6 +472,10 @@ Si del informe producido por el interventor o del acta a que este artículo se r
 ###### ARTICULO 64.
 
 La Junta Estatal de Asistencia Privada, es un órgano administrativo desconcentrado por función del Gobierno del Estado, por medio del cual el poder público ejerce la vigilancia y asesoría que le compete sobre las instituciones del ramo.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+La Junta contará con las áreas financiera, jurídica y asistencial para el mejor desarrollo de sus actividades.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 1997)</small>
 
@@ -483,27 +503,41 @@ V-ter.- Un representante del Consejo Coordinador Empresarial de Ciudad del Carme
 
 VI.- Seis personas que serán designadas por las propias instituciones, personas que deberán ser de reconocida honorabilidad, ciudadanos mexicanos por nacimiento, menores de setenta y cinco años de edad, no servidores públicos y que desempeñarán sus funciones personalmente.
 
-Los vocales designados por las instituciones podrán ser o no patronos de éstas y se designarán de acuerdo a la función predominante prestada por las instituciones de acuerdo a los siguientes rubros:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2000)</small>
 
-a) Atención a niños y adolescentes;
+Los vocales del sector público y privado, serán suplidos por los representantes que al efecto designen cada uno de ellos. Los vocales designados por las instituciones podrán ser o no patronos de éstas y se designarán de acuerdo a la función predominante prestada por las Instituciones de acuerdo a los siguientes rubros:
 
-b) Atención a ancianos;
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
 
-c) Atención médica;
+a) Hogar para niños y adolescentes;
 
-d) Asistencia en la educación;
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+b) Hogar para senectos;
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+c) Atención a la salud;
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+d) Establecimientos educativos;
 
 e) Servicios de promoción humana; y
 
 f) Servicios de desarrollo social.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+g) Atención a personas con discapacidad.
+
 La designación de estos vocales se hará por mayoría de votos, teniendo un voto cada institución. En caso de empate decidirá el presidente de la Junta, la que emitirá las reglas respectivas.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 66.
 
-El presidente de la Junta y los vocales designados por el sector privado y las instituciones de asistencia durarán en su cargo tres años, pudiendo ser renovado su nombramiento. Las vacantes definitivas de entre los miembros de la Junta, o las faltas que excedan de un mes, serán cubiertas en la misma forma que indica el artículo anterior, dentro de un plazo de quince días.
+Los vocales designados por el sector privado y las instituciones de asistencia durarán en su cargo tres años, pudiendo ser renovado o ratificado su nombramiento. Las vacantes definitivas de entre los miembros de la Junta, o las faltas que excedan de un mes, serán cubiertas en la misma forma que indica el artículo anterior, dentro de un plazo de quince días.
 
 ###### ARTICULO 67.
 
@@ -535,7 +569,9 @@ Para el cumplimiento de sus fines la Junta tendrá las siguientes funciones:
 
 I.- Elaborar las normas internas de operación del consejo de vocales;
 
-II.- Autorizar la creación, modificación o extinción de las instituciones;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2000)</small>
+
+II.- Autorizar la creación, fusión, escisión, transformación, reforma de los estatutos de las instituciones de Asistencia Privada, modificación o extinción de las mismas;
 
 III.- Autorizar los estatutos de las instituciones y en caso de no haber sido formulados por éstas, elaborarlos;
 
@@ -575,6 +611,12 @@ XX.- Autorizar a las instituciones todos los demás actos que se deriven de la p
 
 XXI.- Las demás que le confieran esta ley, el Gobernador del Estado y otras disposiciones legales y reglamentarias aplicables en la materia.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+###### ARTICULO 72
+
+bis.- El Presidente de la Junta, deberá ser ciudadano mexicano por nacimiento, tener más de 30 años de edad, con amplia y reconocida calidad y solvencia moral, con experiencia en materia de asistencia social, pública y privada, administración pública, y no haber sido condenado por delito intencional.
+
 ###### ARTICULO 73.
 
 Serán facultades y obligaciones del presidente de la Junta:
@@ -601,23 +643,55 @@ X.- Resolver y despachar bajo su responsabilidad, en los casos urgentes, los asu
 
 XI.- Despachar todos los asuntos de trámite; firmar la correspondencia de la Junta y autorizar los pagos previstos en el presupuesto de egresos de la misma;
 
-XII.- Autorizar con el secretario de actas, las de las sesiones que se celebren;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2000)</small>
 
-XIII.- Certificar, en unión del secretario de actas, las constancias que se soliciten a la Junta;
+XII.- Autorizar con el Secretario del Consejo, las actas de las sesiones que se celebren;
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
+
+XIII.- Certificar, en unión del Secretario Ejecutivo, las constancias que se soliciten a la Junta;
 
 XIV.- Desempeñar las comisiones que le confiera la Junta y cuidar de la debida ejecución de las disposiciones y de los acuerdos de ésta; y
 
 XV.- Todas las demás que le asignen esta ley y los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 74.
 
-La Junta, a propuesta de su presidente, designará al secretario de actas.
+La Junta, a propuesta de su presidente, someterá a la aprobación del Consejo de Vocales, la designación de un Secretario Ejecutivo, quien tendrá las siguientes atribuciones:
+
+I.- Desempeñar las funciones que en forma expresa le encomiende el Presidente de la Junta por su Consejo de Vocales;
+
+II.- Asumir el carácter de Secretario del Consejo, para lo cual participará en las sesiones de la Junta con voz pero sin voto;
+
+III.- Notificar las convocatorias a las sesiones ordinarias y extraordinarias del Consejo de Vocales, por instrucciones del Presidente, elaborar y someter a consideración del Presidente el orden del día y preparar la sesión del Consejo;
+
+IV.- Verificar la existencia del quórum legal y levantar las actas correspondientes de las sesiones del Consejo de Vocales, así como dar seguimiento a los acuerdos tomados;
+
+V.- Ordenar y dirigir la inspección y vigilancia de las instituciones, así como las investigaciones que se relacionen con los servicios asistenciales. Ejercerá sus funciones por medio de delegados especiales, visitadores, auditores, inspectores, trabajadores sociales y demás personal de la Junta;
+
+VI.- Ordenar y dirigir la práctica de los arqueos, corte de caja y demás comprobaciones o verificaciones de contabilidad de las Instituciones;
+
+VII.- Nombrar y remover al personal que preste sus servicios a la Junta, previo acuerdo con el Presidente de la misma;
+
+VIII.- Dirigir y acordar los asuntos de su competencia con el personal de la Junta;
+
+IX.- Elaborar y proponer oportunamente al Consejo de Vocales, previo acuerdo con el Presidente de la Junta, la estimación de ingresos y el presupuesto de egresos del siguiente ejercicio;
+
+X.- Firmar la correspondencia relativa a sus facultades y ejercer el presupuesto de egresos de la Junta, debiendo acordar con el Presidente del Consejo de Vocales dicho ejercicio;
+
+XI.- Asistir a las sesiones del Consejo de la Junta para informar del cumplimiento de sus funciones; y
+
+XII.- Las demás que le confiera esta Ley, el Presidente de la Junta y demás disposiciones aplicables.
 
 ### CAPITULO II. DE LAS FUNCIONES DE LA JUNTA
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2000)</small>
+
 ###### ARTICULO 75.
 
-La Junta podrá proponer al Gobernador la celebración de acuerdos de coordinación con los gobiernos federal, municipales y de otras entidades federativas tendientes a favorecer la creación y desarrollo de instituciones del ramo.
+La Junta podrá proponer al Gobernador del Estado, la celebración de acuerdos de coordinación, con los gobiernos federal, municipales y de otras Entidades Federativas, así como con asociaciones civiles, tendientes a favorecer la creación y desarrollo de las instituciones del ramo.
 
 ###### ARTICULO 76.
 
@@ -976,6 +1050,12 @@ Dado en el Palacio de Gobierno del Estado, en Campeche, a los quince días del m
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE MARZO DE 1997.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE ABRIL DE 2000.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
