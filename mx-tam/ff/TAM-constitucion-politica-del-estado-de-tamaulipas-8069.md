@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1968-03-13"
+last_updated: "1970-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -963,9 +963,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 1967)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1970)</small>
 
-XXXIII.- Concurrir a la apertura de los periodos de Sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los Ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un informe completo sobre ésta, en Sesión Pública Extraordinaria del Congreso el último domingo de enero de cada año.
+XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los ramos de la Administración Pública cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un informe completo sobre ésta en sesión pública extraordinaria del Congreso, el día 4 de febrero de cada año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1910,3 +1910,7 @@ P.O. 13 DE MARZO DE 1968.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 1970.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
