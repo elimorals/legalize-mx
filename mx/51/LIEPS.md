@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1993-12-03"
+last_updated: "1994-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -68,13 +68,15 @@ A).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 B).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-C).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER FRACCION V DEL ARTICULO DECIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY QUE ARMONIZA DIVERSAS DISPOSICIONES ...... Y PARA SIMPLIFICACION FISCAL D.O.F. 20 DE JULIO DE 1992.</small>
+C).- Alcohol desnaturalizado que se enajene en ventas al menudeo con el público en general .......... 0%
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER FRACCION V DEL ARTICULO DECIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS DE FECHA 20 DE JULIO DE 1992.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
-D).- Cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6º G.L..... 19%
+D).- Cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6º G.L. .......... 19%
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -84,19 +86,23 @@ E).- Bebidas alcohólicas:
 
 2.- Con una graduación de más de 13.5º y hasta 20º G.L. .......... 30%
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-F).- El alcohol, aguardiente y bebidas alcohólicas no comprendidas en el inciso anterior, así como sus concentrados ......... 44.5%
+F).- Aguardiente y bebidas alcohólicas con una graduación de más de 20º G.L. y hasta 55º G.L., así como sus concentrados ........... 44.5%
 
-G).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+G).- Alcohol y bebidas alcohólicas con una graduación de más de 55º G.L., así como sus concentrados ............ 60%
 
 H).- Tabacos labrados:
 
-1.- Cigarros ........... 139.3%
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+1.- Cigarros ........... 85%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
+2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados ........... 20.9%
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -120,9 +126,9 @@ a).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 b).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-C).- Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenaión (sic) de los bienes señalados en la fracción I de este artículo; en estos casos la tasa aplicable será la que corresponda al bien de que se trate. No se pagará el impuesto cuando se trate de las enajenaciones a que se refiere el artículo 8o. de esta Ley.
+C).- Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en la fracción I de este artículo, excepto los bienes señalados en los incisos I), J) y K). En estos casos la tasa aplicable será la que corresponda al bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando se trate de las enajenaciones a que se refiere el artículo 8o. de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -134,11 +140,17 @@ III.- En la exportación definitiva en los términos de la legislación aduanera
 
 La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será la que resulte para cada agencia de ventas de Petróleos Mexicanos conforme a lo siguiente:
 
-I.- El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con la fracción VI de este artículo, se adicionará con el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquel por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-II.- Se multiplicará por el factor de 0.8741 para gasolinas, diesel automotriz y diesel sin, por 0.9615 para diesel industrial y por 0.9434 para diesel marino, el monto que se obtenga de adicionar a la comisión que haya pagado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos de transporte del combustible de la agencia de ventas de que trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
+I.- El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con la fracción VI de este artículo, se adicionará con el costo de manejo y el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
 
-III.- Se multiplicará por el factor de 0.7947 para gasolinas, diesel automotriz y diesel sin, por 0.8741 para el diesel industrial y por 0.8576 para el diesel marino, el precio de venta al público del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+II.- Se multiplicará por el factor 0.9302 para gasolinas, diesel automotriz y diesel sin y por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino, el monto que se obtenga de adicionar a la comisión que haya pagado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos del transporte del combustible de la agencia de ventas de que trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+III.- Se multiplicará por el factor de 0.8457 para gasolinas, diesel automotriz y diesel sin y por 0.9091 para el diesel industrial de alto y bajo azufre y el diesel marino, el precio de venta al público del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado.
 
 IV.- El monto que resulte conforme a la fracción III se disminuirá con las cantidades obtenidas conforme a las fracciones I y II de este artículo.
 
@@ -148,19 +160,31 @@ VI.- El precio de referencia para cada uno de los combustibles a que se refiere 
 
 a).- Gasolinas: el promedio del precio spot de la gasolina regular sin plomo vigente en la Costa del Golfo de los Estados Unidos de América.
 
-b).- Diesel automotriz: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-c).- Diesel sin: el promedio del precio spot "fuel oil" número 2, 0.05% de azufre, vigente en la Costa del Golfo o en la Costa Oeste, Los Angeles, California, de los Estados Unidos de América.
+b).- Diesel automotriz: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-d).- Diesel industrial en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-e).- Diesel industrial en la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2, 0.5% de azufre, vigente en la Costa Oeste, Los Angeles, California, de los Estados Unidos de América.
+c).- Diesel sin y diesel industrial de bajo azufre: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-f).- Diesel marino en la Costa del Golfo: el promedio del precio spot del "marine diesel", vigente en Houston, Texas, de los Estados Unidos de América.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-g).- Diesel marino en la Costa del Pacífico: el promedio del precio spot del "marine diesel", vigente en Los Angeles, California, de los Estados Unidos de América.
+d).- Diesel industrial de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte y la comisión a los expendios autorizados a que se refiere este artículo. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular las tasas aplicables para cada combustible y en cada agencia de ventas de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación.
+e).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+f).- Diesel marino en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en Houston, Texas, de los Estados Unidos de América.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+g).- Diesel marino de la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en Los Angeles, California, de los Estados Unidos de América.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte, la comisión y el costo de manejo a los expendios autorizados a que se refiere este artículo. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular las tasas aplicables para cada combustible y en cada agencia de ventas de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -190,21 +214,19 @@ V.- Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan u
 
 VI.- Gas natural para combustión automotriz, el gas natural extraído del subsuelo o de cualquier otra fuente, que se destine a la carburación automotriz.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-VII.- Diesel industrial, el combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión que no se utilice para la carburación automotriz.
+VIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII.- Diesel marino, el combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión que se utilice exclusivamente como combustible en los vehículos marinos.
-
-IX.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
+IX.- Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, obtenida por destilación de mostos fermentados provenientes de carbohidratos, con una graduación mayor de 55º G.L., a una temperatura de 15º, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 X.- Bebidas alcohólicas a granel las que se encuentren envasadas en recipientes cuya capacidad sea de más de 5,000 mililitros y tratándose de vinos de mesa cuando excedan de 18,000 mililitros.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 XI.- Tabacos labrados, los cigarros, los puros y los tabacos cernidos, picados, de hebra, de mascar, así como el rapé.
 
@@ -236,7 +258,9 @@ El acreditamiento consiste en restar el impuesto acreditable de la cantidad que 
 
 Para que sea acreditable el impuesto especial sobre producción y servicios deberán reunirse los siguientes requisitos:
 
-I.- Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, con motivo de la enajenación o exportación de bienes.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+I.- Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, con motivo de la enajenación o exportación de bienes y la prestación de servicios.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -250,9 +274,9 @@ Petróleos Mexicanos y sus organismos subsidiarios podrán acreditar el impuesto
 
 III.- Que el impuesto haya sido trasladado expresamente al contribuyente y conste por separado en los comprobantes a que se refiere la fracción II del artículo 19 de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-IV.- Que tratándose del impuesto trasladado por la enajenación de alcohol, el contribuyente al que se le hubiera efectuado dicho traslado, se dedique a la producción de los bienes señalados en los incisos D), E) y F) de la fracción I del artículo 2o. de esta Ley, o se utilice como insumo dentro de un proceso industrial, siempre que en estos casos se cumplan con los requisitos de control que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
+IV.- Que tratándose del impuesto trasladado por la enajenación de alcohol, el contribuyente al que se le hubiera efectuado dicho traslado, se dedique a la producción o enajenación de los bienes señalados en los incisos C), D), E), F) y G) de la fracción I del artículo 2o. de esta Ley, o se utilice como insumo dentro de un proceso industrial, siempre que en estos casos se cumpla con los requisitos de control que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -260,15 +284,45 @@ Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente de
 
 El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 4o.-A.
 
-Las personas que adquieran diesel industrial o marino para su consumo final podrán acreditar el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de estos combustibles. Para estos efectos, el monto que dichas personas podrán acreditar será el que se señale expresamente y por separado en el comprobante correspondiente.
+Las personas que adquieran diesel para su consumo final y siempre que dicho combustible no se utilice para la carburación automotriz en vehículos que se destinen al transporte de personas o efectos a través de carreteras o caminos, podrán acreditar el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de este combustible, siempre que se utilice exclusivamente como combustible:
 
-En los casos en que los combustibles citados se adquieran de agencias o distribuidores autorizados, el impuesto que las personas antes mencionadas podrán acreditar, será el que se señale en forma expresa y por separado en el comprobante que les expidan dichas agencias o distribuidores y que deberá ser igual al que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación a dichas agencias o distribuidores del combustible de que se trate, en la parte que corresponda al combustible que las mencionadas agencias o distribuidores comercialicen a esas personas.
+I.- En maquinaria fija de combustión interna, maquinaria de flama abierta y locomotoras.
 
-El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere este artículo.
+II.- En vehículos marinos y en maquinaria utilizada en las actividades de acuacultura.
+
+III.- En tractores, motocultores, combinadas, empacadoras de forraje, revolvedoras, desgranadoras, molinos, cosechadoras o máquinas de combustión interna para aserrío, bombeo de agua o generación de energía eléctrica, que se utilicen en actividades de siembra, cultivo y cosecha de productos agrícolas; cría y engorda de ganado, aves de corral y animales; cultivo de los bosques o montes, así como en la cría, conservación, restauración, fomento y aprovechamiento de la vegetación de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 4o-B.
+
+Las personas que adquieran diesel para su consumo final en los términos del artículo 4o-A de esta Ley, estarán a lo siguiente:
+
+I.- Podrán acreditar únicamente el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación del diesel. Para estos efectos, el monto que dichas personas podrán acreditar será el que se señale expresamente y por separado en el comprobante correspondiente.
+
+En los casos en que el diesel se adquiera de agencias o distribuidores autorizados, el impuesto que las personas antes mencionadas podrán acreditar, será el que se señale en forma expresa y por separado en el comprobante que les expidan dichas agencias o distribuidores y que deberá ser igual al que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación a dichas agencias o distribuidores del diesel, en la parte que corresponda al combustible que las mencionadas agencias o distribuidores comercialicen a esas personas. En ningún caso procederá la devolución de las cantidades a que se refiere esta fracción.
+
+II.- Las personas que utilicen el diesel en las actividades agropecuarias o silvícolas señaladas en la fracción III del artículo 4o-A de esta Ley, podrán acreditar un monto equivalente a la cantidad que resulte de multiplicar el precio de adquisición del diesel en las estaciones del servicio y que conste en el comprobante correspondiente, incluido el impuesto al valor agregado, por el factor de 0.355, en lugar de aplicar lo dispuesto en la fracción anterior.
+
+El acreditamiento señalado en este artículo podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 4o-C.
+
+Las personas que adquieran diesel para su consumo final en las actividades agropecuarias o silvícolas a que se refiere la fracción III del artículo 4o-A de esta Ley, podrán solicitar la devolución del monto del impuesto especial sobre producción y servicios que tuvieran derecho a acreditar en términos del artículo 4º-B anterior, en lugar de efectuar el acreditamiento a que el mismo se refiere, siempre que cumplan con lo dispuesto en el presente artículo.
+
+Las personas a que se refiere el párrafo anterior que podrán solicitar la devolución, serán únicamente aquéllas cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. En ningún caso el monto de la devolución podrá ser superior a N$ 225.00 mensuales por cada persona física, salvo que se trate de personas físicas que registren sus operaciones en el cuaderno de entradas y salidas previsto para el régimen simplificado en la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta N$ 450.00 mensuales.
+
+Las personas morales que podrán solicitar la devolución serán aquéllas cuyos ingresos en el ejercicio inmediato anterior, no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año, por cada uno de los socios o asociados, sin exceder de doscientas veces dicho salario mínimo. El monto de la devolución no podrá ser superior a N$ 225.00 mensuales, por cada uno de sus socios o asociados sin que exceda en su totalidad de N$ 2,250.00 mensuales, salvo que se trate de personas morales que registren sus operaciones en el cuaderno de entradas y salidas previsto para el régimen simplificado en la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta N$ 450.00 mensuales, por cada uno de sus socios o asociados, sin que en este último caso exceda en su totalidad de N$ 4,500.00 mensuales.
+
+La devolución correspondiente se solicitará trimestralmente en los meses de abril, junio y octubre del mismo año y enero del siguiente. En caso de que el contribuyente no solicite en tiempo la devolución que le corresponda, la podrá solicitar posteriormente.
+
+Las personas a que se refiere el primer párrafo de este artículo, deberán llevar un registro de control de consumo diesel, en el que se asienten mensualmente la totalidad del diesel que utilicen para sus actividades agropecuarias o silvícolas en los términos de la fracción III del artículo 4o-A de esta Ley distinguiendo entre el diesel que se hubiera destinado para los fines a que se refiere dicha fracción, del diesel utilizado para otros fines. Dicho registro deberá estar a disposición de las autoridades fiscales por el plazo a que se esté obligado a conservar la contabilidad en los términos de las disposiciones fiscales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -276,15 +330,15 @@ El acreditamiento antes mencionado podrá efectuarse contra las contribuciones f
 
 El impuesto se calculará por ejercicios fiscales, excepto en el caso de importaciones ocasionales de bienes en el que se estará a lo dispuesto en el artículo 16 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas en los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta. El pago provisional será la diferencia entre el impuesto que corresponda al total de actividades realizadas en el periodo por el cual se efectúa el pago, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
+Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta, excepto en los casos del ejercicio de iniciación de operaciones, en el que efectuarán pagos provisionales trimestrales y en el ejercicio de liquidación, en el que los pagos provisionales se efectuarán por los mismos periodos y en las mismas fechas en que se venían realizando con anterioridad al inicio del ejercicio de liquidación. El pago provisional será la diferencia entre el impuesto que corresponda al total de actividades realizadas en el periodo por el cual se efectúa el pago, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
 
 Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlos contra el impuesto a su cargo que le corresponda en los pagos provisionales siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración de pago provisional de su ejercicio no se podrán acreditar en declaraciones posteriores.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se le solicite en las declaraciones del impuesto sobre la renta.
+El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Las sociedades que tengan el carácter de controladoras en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, presentarán la declaración anual dentro de los cuatro meses siguientes al cierre del ejercicio y las personas físicas lo harán durante el periodo comprendido entre los meses de febrero a abril del año siguiente al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
 
 Tratándose de importación de bienes el pago se hará conforme lo establece el artículo 15.
 
@@ -292,11 +346,11 @@ Si en la declaración del ejercicio el contribuyente tuviera cantidades a su fav
 
 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 5o.
 
-A.- Los productores, envasadores o importadores, que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refiere el Artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración en las oficinas autorizadas, en los plazos establecidos por el segundo párrafo el artículo 5o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
+A.- Los productores, envasadores o importadores que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores enajenen los bienes a que se refiere el artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración en las oficinas autorizadas, en los plazos establecidos por el segundo párrafo del artículo 5o. de esta Ley, salvo que se trate de los bienes a que se refieren los incisos I), J), y K) de la fracción I del artículo 2o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -307,6 +361,12 @@ Los contribuyentes a los que les sea retenido el impuesto sobre las contrapresta
 ###### ARTICULO 6o.
 
 El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos o actividades por los que se tenga que pagar el impuesto en los términos de esta Ley, deducirá en la siguiente o siguientes declaraciones de pagos provisionales el monto de dichos conceptos, del valor de los actos o actividades por los que se deba pagar el impuesto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 6o-A.
+
+Las cantidades en moneda nacional que se establezcan en esta Ley, se actualizarán en los meses de enero y julio con el factor de actualización correspondiente al periodo comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este artículo y publicará los resultados de la actualización en el Diario Oficial de la Federación a más tardar el día 10 de los meses citados.
 
 ### CAPITULO II. De la Enajenación
 
@@ -374,17 +434,19 @@ II.- Se pague parcial o totalmente el precio.
 
 III.- Se expida el documento que ampare la enajenación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 11.
 
-Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, incluyendo el de los envases y empaques, no retornables, necesarios para contener los bienes que se enajenan, así como las cantidades que además se carguen o cobren al adquirente por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
+Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, incluyendo el de los envases y empaques, no retornables, necesarios para contener los bienes que se enajenan, así como las cantidades que además se carguen o cobren al adquirente por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo. En la enajenación de los bienes a que se refieren los incisos I), J), y K) de la fracción I del artículo 2o. de esta Ley, en ningún caso se considerarán dentro del valor del precio pactado las cantidades que en su caso se carguen o cobren al adquirente por los conceptos a que se refiere el inciso C) de la fracción II del artículo 2o. de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado.
+Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado, salvo que se trate de los bienes a los que se refieren los incisos I), J), y K) de la fracción I del artículo 2o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio de venta al detallista. Tratándose de la enajenación de los combustibles a que se refieren los incisos I) y J) de la fracción I del artículo 2o. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2o-A de esta Ley, multiplicado por el factor de 1.144 para gasolinas, diesel automotriz y diesel sin, por 1.04 para el diesel industrial y por 1.06 para el diesel marino.
+Los productores o importadores de tabacos labrados para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos, el precio de venta al detallista. En el caso de exportación definitiva de dichos bienes en los términos de la legislación aduanera, así como en la enajenación de bienes que la citada legislación aduanera establece como importación temporal realizada por personas residentes en el país a empresas de comercio exterior, considerarán el valor que se utilice para los fines del impuesto general de exportación. Tratándose de la enajenación de los combustibles a que se refieren los incisos I) y J) de la fracción I del artículo 2o. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2o-A de esta Ley, multiplicado por el factor de 1.075 para gasolinas, diesel automotriz y diesel sin y por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino.
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -412,9 +474,9 @@ I.- Las que en los términos de la legislación aduanera no lleguen a consumarse
 
 II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y por las misiones diplomáticas acreditadas en México, con los controles y limitaciones que mediante disposiciones de carácter general, en su caso, establezca la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III.- La de los bienes señalados en las fracciones II y VII del artículo 8o. de esta Ley.
+III.- La de los bienes señalados en la fracción II del artículo 8o. de esta Ley.
 
 IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
@@ -478,9 +540,9 @@ II.- Expedir comprobantes trasladando en los mismos expresamente y por separado,
 
 Los comerciantes que la mayor parte del importe de sus enajenaciones proviene de las que realiza al público en general, en el comprobante que expidan no trasladarán expresamente y por separado el impuesto establecido en esta Ley, salvo que así lo solicite el adquirente; asimismo, deberán ofrecer los bienes incluyendo el impuesto en el precio.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando se trate de enajenación de gasolinas, gas natural y del diesel a que se refiere la fracción XVII del artículo 3o. así como de la prestación de servicios gravados por esta Ley, en el comprobante que se expida, en ningún caso se hará la separación expresa del monto de este impuesto debiendo ofrecerse estos bienes o servicios incluyendo el impuesto en el precio o contraprestación. Tratándose de la enajenación de diesel industrial y marino a que se refieren las fracciones VII y VIII, del artículo 3o. de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios o sus agencias o distribuidores autorizados, deberán desglosar expresamente y por separado en el comprobante correspondiente el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hubieran causado por la enajenación de que se trate.
+Cuando se trate de la enajenación de gasolinas, gas natural y diesel que se utilice para carburación automotriz en vehículos que se destinen a transporte de personas o efectos a través de carreteras o caminos, así como de la prestación de servicios gravados por esta Ley en relación con dichos bienes, en el comprobante que se expida, en ningún caso se hará la separación expresa del monto de este impuesto debiendo ofrecerse estos bienes o servicios incluyendo el impuesto en el precio o contraprestación. Tratándose de la enajenación de diesel que se utilice para consumo final en los términos de las fracciones I y II del artículo 4o-A de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios o sus agencias o distribuidores autorizados, deberán desglosar expresamente y por separado en el comprobante correspondiente el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hubieran causado por la enajenación de que se trate.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -504,9 +566,9 @@ Para determinar el pago provisional a que se refiere el párrafo anterior, los c
 
 VI.- Tener la información que corresponda de los bienes que enajenen o importen respecto de su consumo por entidad federativa e impuesto correspondiente, conforme a lo dispuesto en el reglamento, así como de los servicios prestados por establecimiento en cada entidad federativa.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Los contribuyentes presentarán en el mes de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen la información sobre la distribución de sus ventas realizadas por la Entidad Federativa a que se refiere el párrafo anterior.
+Los contribuyentes presentarán en el mes de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen la información sobre la distribución de sus ventas realizadas por la Entidad Federativa a que se refiere el párrafo anterior, excepto en el caso de Petróleos Mexicanos y sus organismos subsidiarios, el cual presentará sus declaraciones en los términos dispuestos por el artículo 21 de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -529,6 +591,10 @@ IX.- Los productores e importadores de cigarros, deberán proporcionar a la Secr
 ###### ARTICULO 21.
 
 Petróleos Mexicanos presentará declaración semestral a más tardar el día 20 del mes de septiembre informando sobre los volúmenes y tipos de gasolina y diesel que en el primer semestre del año de calendario haya enajenado a cada uno de los expendios autorizados y directamente a los consumidores, así como los consumidos por dicho organismo descentralizado; y por el volumen y tipo de gasolinas y diesel enajenados o consumidos en el segundo semestre, el día 20 del mes de marzo del siguiente año de calendario. Estas declaraciones se presentarán además de las que señala el artículo 5o. de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+Las declaraciones a que se refiere el párrafo anterior deberán proporcionarse en dispositivos electromagnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 ### CAPITULO VI. De las Facultades de las Autoridades
 
@@ -564,9 +630,11 @@ IV.- Tratándose de productos sujetos a precio máximo al público, el que resul
 
 Si de la aplicación de cualquiera de los métodos antes mencionados, se determina que el contribuyente enajenó sus productos a precios superiores a los declarados, las autoridades fiscales podrán considerar que la producción del último ejercicio se enajenó a ese precio.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 25.
 
-Las autoridades fiscales podrán determinar presuntivamente que se enajenaron los bienes que el contribuyente declara como mermas en los procesos de producción, envasamiento o comercialización, cuando éstas excedan de los siguientes porcientos:
+Las autoridades fiscales podrán determinar presuntivamente que se enajenaron los bienes que el contribuyente declara como mermas en los procesos de producción o envasamiento, cuando éstas excedan de los siguientes porcientos:
 
 I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
@@ -1200,4 +1268,22 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
+D.O.F. 28 DE DICIEMBRE DE 1994.
+
+DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTICULO DECIMO.
+
+Durante el año de 1995 y para efectos del artículo 2o., fracción I inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1995 tengan un precio máximo al público que no exceda de 10 centavos de nuevos pesos por cigarro.
+
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTICULO DECIMO PRIMERO.
+
+Las cantidades establecidas en el artículo 4o-C de esta Ley, se entienden actualizadas por el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establece el artículo 6o-A de esta Ley, a partir de la actualización prevista para el mes de julio de 1995.
+
 ## TRANSITORIO
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
