@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-seguro-de-vida-para-los-servidores-del-gobierno-del-119
 country: "mx"
 rank: "ley"
 publication_date: "1952-03-14"
-last_updated: "1965-06-25"
+last_updated: "1965-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1965.
 
 Ley publicada en el periódico oficial del Estado de Puebla, el viernes 14 de marzo de 1952.
 
@@ -109,9 +109,13 @@ Los Servidores del Gobierno del Estado que dejen de prestar sus servicios, pero 
 
 Los funcionarios que hayan sido electos popularmente podrán conservar sus derechos al SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA, si así lo manifiestan al concluir el período para el que fueron electos dentro de los 30 días siguientes siempre y cuando hayan desempeñado las funciones del puesto para el que fueron electos por lo menos durante un año y que continúen, pagando las cuotas correspondientes a cada fallecimiento. Perderán este derecho cuando adeuden las cuotas correspondientes a tres fallecimientos.
 
-###### ARTICULO 17o.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE SEPTIEMBRE DE 1965)</small>
 
-Es optativo para los pensionistas a cargo del Gobierno del Estado, pertenecer o no al "SEGUNDO (SIC) DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA ", en el primero de los casos previstos formularán manifestación escrita, la que harán en un plazo no mayor de sesenta días a partir de la fecha de la promulgación de la presente ley.
+###### ARTICULO 17.
+
+Es optativo para los pensionistas a cargo del Gobierno del Estado, pertenecer o no al "SEGURO DE VIDA DE LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA ", en el primero de los casos previstos formularán manifestación escrita, la que harán en un plazo no mayor de sesenta días a partir de la fecha de la promulgación de la presente ley.
+
+El seguro de los pensionistas no amparará puntualidad que la de la muerte.
 
 ###### ARTICULO 18o.
 
@@ -121,11 +125,13 @@ Para el eficaz funcionamiento del Seguro, la Tesorería General del Estado está
 
 Los gastos de administración, escritorio, y publicidad, serán cubiertos por el Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1956)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1965)</small>
 
 ###### ARTICULO 20.
 
-Cuando el Asegurado sufra incapacidad total y permanente o sea la pérdida absoluta de facultades o de aptitudes que lo imposibiliten para poder desempeñar cualquier trabajo por el resto de su vida, se le entregará al propio Asegurado, la cantidad de $ 25.000.00 (VEINTICINCO MIL DE PESOS) que se aportará en la forma prescrita en el artículo 8° de esta Ley.
+Cuando el asegurado sufra incapacidad total y permanente o sea la pérdida absoluta de facultades o de aptitudes que lo imposibiliten para poder desempeñar cualquier trabajo por el resto de su vida, se le entregará al propio asegurado, la cantidad de $ 35.000.00 que se aportará en la forma prescrita en el artículo 8o de esta Ley.
+
+No quedan comprendidas en esta disposición los pensionistas.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 1956)</small>
 
@@ -206,3 +212,9 @@ P.O. 25 DE JUNIO DE 1965.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado y regirá respecto de las defunciones acaecidas y de las incapacidades declaradas con posterioridad a su entrada en vigor.
 
 SEGUNDO.- El fondo del Seguro de Vida actualmente existente, se invertirá en términos de lo establecido por el Artículo 8° reformado de la Ley del Seguro de Vida para los Servidores del Gobierno del Estado de Puebla.
+
+P.O. 14 DE SEPTIEMBRE DE 1965.
+
+PRIMERO.- El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En las incapacidades que fueren sido acordadas en beneficio de pensionistas, se estará a lo dispuesto en el primer párrafo del artículo 3 del Gobierno del Estado.
