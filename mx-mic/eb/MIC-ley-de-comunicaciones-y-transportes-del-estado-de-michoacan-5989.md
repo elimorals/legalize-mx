@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-comunicaciones-y-transportes-del-estado-de-michoacan-598
 country: "mx"
 rank: "ley"
 publication_date: "1982-07-19"
-last_updated: "1982-07-19"
+last_updated: "1998-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MIC"
 
 LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1998.
 
 Publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 19 de julio de 1982.
 
@@ -54,17 +54,23 @@ Las vías estatales de comunicación y sus servicios conexos son de utilidad pú
 
 En ningún caso se otorgarán concesiones o permisos a personas que hayan sido condenadas por delito doloso o preterintencional, ni a sociedades cuyo capital esté total o parcialmente representado por acciones al portador.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 4o.
 
-En el Estado de Michoacán son autoridades en materia de comunicaciones y transportes las siguientes:
+En el Estado son autoridades en materia de comunicaciones y transportes, en el ámbito de sus respectivas competencias, las siguientes:
 
-I. El Gobernador del Estado;
+I. El Gobernador;
 
-II. El Secretario de Urbanismo y Obras Públicas;
+II. El Secretario de Comunicaciones y Obras Públicas;
 
-III. El Director de Comunicaciones y Transportes y,
+III. La Comisión Coordinadora del Transporte Público de Michoacán; y,
 
-IV. En quien el Ejecutivo delegue facultades.
+IV. Los titulares de aquellas dependencias y entidades que la legislación de la materia así lo determine.
+
+La Comisión Coordinadora del Transporte Público de Michoacán, será un organismo público desconcentrado sectorizado a la Secretaría de Comunicaciones y Obras Públicas.
+
+La integración, competencia, y demás atribuciones de la Comisión se determinarán en el reglamento de esta Ley.
 
 ###### ARTICULO 5o.
 
@@ -134,9 +140,11 @@ A las personas físicas no se les concederá más de una concesión o permiso, n
 
 El Ejecutivo del Estado, cuando el interés público lo requiera, determinará el número de concesiones o permisos que se otorguen a organismos públicos descentralizados, sociedades, cooperativas, ayuntamientos, ejidos, comunidades o a uniones de ejidos y comunidades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 19.
 
-El Ejecutivo del Estado, a través de la Secretaría de Urbanismo y Obras Públicas, podrá autorizar permisos provisionales según la necesidad por satisfacer y se regirán en todo por lo establecido para las concesiones del mismo tipo de servicio. Estos permisos se otorgarán cuando:
+El titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, podrá autorizar permisos provisionales según la necesidad por satisfacer y se regirán en todo por lo establecido para las concesiones del mismo tipo de servicio. Estos permisos se otorgarán cuando:
 
 I. Por motivo de festividades, ferias, excursiones o por cualquier otra causa, los servicios concesionados para el transporte de personas no sean suficientes para atender la demanda;
 
@@ -144,13 +152,17 @@ II. Por el volumen de obras o durante la época de cosechas se requiere mayor n�
 
 III. No exista servicio de turismo establecido o habiéndolo, resulte insuficiente.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 20.
 
-El Ejecutivo del Estado, a través de la Secretaría de Urbanismo y Obras Públicas, por cualquier causa imprevista, podrá autorizar permisos de emergencia, los que se regirán por lo establecido para las concesiones del mismo tipo de servicio. Además estos permisos se otorgarán para habilitar un vehículo particular en substitución de un vehículo de servicio público, cuando la unidad autorizada no se encuentre en condiciones de prestar el servicio.
+El titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, por cualquier causa imprevista, podrá autorizar permisos de emergencia, los que se regirán por lo establecido para las concesiones del mismo tipo de servicio. Además estos permisos se otorgarán para habilitar un vehículo particular en substitución de un vehículo de servicio público, cuando la unidad autorizada no se encuentre en condiciones de prestar el servicio.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 21.
 
-El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Urbanismo y Obras Públicas, podrá establecer modalidades a las concesiones y permisos, fijando itinerarios, tarifas, honorarios, sitios, terminales, tipos de vehículos y cualquier otra especificación del servicio, atendiendo al interés público. Asimismo el Ejecutivo, en todo tiempo, podrá hacerse cargo, temporal o definitivamente, del servicio público de autotransporte, cuando así lo requiera el interés social.
+El titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, podrá establecer modalidades a las concesiones y permisos, fijando itinerarios, tarifas, horarios, sitios, terminales, tipos de vehículos y cualquier otra especificación del servicio, atendiendo al interés público. Asimismo, el Ejecutivo, en todo tiempo, podrá hacerse cargo, temporal o definitivamente, del servicio público de autotransporte, cuando así lo requiera el interés social.
 
 ###### ARTICULO 22.
 
@@ -228,9 +240,11 @@ Servicio de express urbano, suburbano y foráneo será el que se preste en vehí
 
 Servicio de grúas y remolques será aquel que tenga como finalidad transportar o remolcar otros vehículos, ya sea por arrastre o en plataforma y no estará sujeto a itinerario, tarifa ni horario determinados.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 34.
 
-Servicio de carga especial será el que requiera equipo adicional al vehículo, en virtud de las precauciones que, según el tipo de carga, deberán tomarse a juicio de la Secretaría de Urbanismo y Obras Públicas. Este servicio no tendrá itinerario, tarifa no horario determinados.
+El servicio de carga especial será el que requiera equipo adicional al vehículo, en virtud de las precauciones que, según el tipo de carga, deberán tomarse a juicio de la Secretaría de Comunicaciones y Obras Públicas y de la Comisión Coordinadora del Transporte Público de Michoacán. Este servicio no tendrá itinerario, tarifa ni horario determinados.
 
 ###### ARTICULO 35.
 
@@ -238,17 +252,23 @@ Servicio de autotransporte mixto será el que se preste para transportar persona
 
 ### CAPITULO IV. ITINERARIOS, TARIFAS Y HORARIOS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 36.
 
-Toda autorización de la Secretaría de Urbanismo y Obras Públicas para la implantación de itinerarios, tarifas y horarios, se establecerá al otorgar la concesión o permiso correspondiente, debiendo regirse por las disposiciones de esta Ley y su reglamento. Cuando el servicio sea foráneo se tomarán como bases: la distancia entre los puntos del itinerario autorizado, las velocidades máximas permitidas, el estado del camino y la importancia de los centros de población.
+Toda autorización de la Comisión Coordinadora del Transporte Público de Michoacán, para la implantación de itinerarios, tarifas y horarios, se establecerá al otorgar la concesión o permiso correspondiente, debiendo regirse por las disposiciones de esta Ley y su reglamento. Cuando el servicio sea foráneo se tomarán como bases: la distancia entre los puntos del itinerario autorizado, las velocidades máximas permitidas, el estado del camino y la importancia de los centros de población.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 37.
 
-El Ejecutivo del Estado a través de la Secretaría de Urbanismo y Obras Públicas podrá, en cualquier tiempo, modificar los itinerarios, tarifas y horarios, por razón de interés público. Los interesados harán las manifestaciones que estimen pertinentes dentro del término de tres días hábiles contados a partir del día en que se les notifiquen las modificaciones.
+El titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, podrá en cualquier tiempo modificar los itinerarios, tarifas y horarios, por razón de interés público. Los interesados harán las manifestaciones que estimen pertinentes dentro del término de tres días hábiles contados a partir del día en que se les notifiquen las modificaciones.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 38.
 
-En las clases de servicio no previstas por esta Ley, el Ejecutivo del Estado, a través de la Secretaría de Urbanismo y Obras Públicas, podrá fijar los itinerarios, tarifas y horarios que estime convenientes, de conformidad con los principios generales de esta Ley y su Reglamento.
+En las clases de servicio no previstas por esta Ley, o su reglamento, el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, podrá fijar los itinerarios, tarifas y horarios que estime convenientes, de conformidad con los principios de esta Ley.
 
 ### CAPITULO V. OBLIGACIONES DEL CONCESIONARIO Y DEL PERMISIONARIO
 
@@ -256,7 +276,9 @@ En las clases de servicio no previstas por esta Ley, el Ejecutivo del Estado, a 
 
 Los concesionarios y permisionarios del servicio público de autotransporte tendrán las obligaciones siguientes:
 
-I. Cumplir fielmente con la prestación de los servicios públicos que fije la concesión respectiva, con las disposiciones que imponga la Secretaría de Urbanismo y Obras Públicas y la estricta observancia de la presente Ley, de su Reglamento, y de la Ley de Policía y Tránsito del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+I. Cumplir fielmente con la prestación de los servicios públicos que fije la concesión respectiva, con las normas que impongan la Secretaría de Comunicaciones y Obras Públicas y la Comisión Coordinadora del Transporte Público de Michoacán, acatar la presente Ley, su reglamento, las disposiciones en materia de policía y tránsito, y las demás legislación de la materia.
 
 II. Coadyuvar con el Estado en el mantenimiento y conservación de las vías de comunicación por las que transiten;
 
@@ -264,21 +286,33 @@ III. Prestar servicios gratuitos en los casos de catástrofe o aparición de epi
 
 IV. Adquirir seguro de viajero para la unidad en que preste un servicio público concesionado;
 
-V. Mantener los vehículos en buen estado general mecánico, eléctrico, de pintura y presentación, que fije para cada caso la Secretaría de Urbanismo y Obras Públicas. El concesionario será responsable además, de la higiénica y correcta presentación del operador y del aseo del vehículo, en el caso del autotransporte de pasajeros y mixto;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+V. Mantener los vehículos en buen estado general mecánico, eléctrico, de pintura y presentación, que fije para cada caso la Comisión Coordinadora del Transporte Público de Michoacán. El concesionario será responsable además, de la higiénica y correcta presentación del operador y del aseo del vehículo, en el caso del autotransporte de pasajeros y mixto;
 
 VI. Inscribir en lugar visible y en el exterior del vehículo autorizado, el nombre completo y domicilio del concesionario, así como el número de la concesión respectiva;
 
-VII. Llevar en el interior del vehículo autorizado, fotocopia de la concesión debidamente certificada por la Secretaría de Urbanismo y Obras Públicas, cuyos datos deberán coincidir con el rótulo que ostente el vehículo, así como la póliza de seguro de viajero;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
-VIII. Prestar el servicio, salvo que exista causa justificada para no darlo. En este caso, deberá avisar de inmediato a la Secretaría de Urbanismo y Obras Públicas.
+VII. Llevar en el interior del vehículo autorizado, fotocopia de la concesión debidamente certificada por la Comisión Coordinadora del Transporte Público de Michoacán, cuyos datos deberán coincidir con el rótulo que ostente el vehículo, así como la póliza de seguro del viajero;
 
-IX. Notificar a la Secretaría de Urbanismo y Obras Públicas, dentro del término de 72 horas, en caso de haber sufrido algún accidente el vehículo autorizado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
-X. Dar aviso a la Secretaría de Urbanismo y Obras Públicas, dentro del término de 15 días en caso de haber cambiado de domicilio;
+VIII. Prestar el servicio, salvo que exista causa justificada para no darlo. En este caso, deberá comunicar del inmediato lo procedente a la Comisión Coordinadora del Transporte Público de Michoacán;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+IX. Notificar a la Comisión Coordinadora del Transporte Público de Michoacán, dentro del término de 72 horas, el en caso de haber sufrido algún accidente;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+X. Dar aviso a la Comisión Coordinadora del Transporte Público de Michoacán, dentro del término de 15 días en caso de haber cambiado de domicilio;
 
 XI. Renovar la concesión en los primeros sesenta días del año fiscal, en los términos que marca la Ley de Ingresos del Estado;
 
-XII. Usar en los vehículos autorizados los colores, letreros e identificación que determine la Secretaría de Urbanismo y Obras Públicas, obligándose a no agregar ningún otro distintivo, calcomanía o letrero ni particular ni gremial en el exterior del vehículo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+XII. Usar en los vehículos autorizados los colores, letreros e identificación que determine la Comisión Coordinadora del Transporte Público de Michoacán, obligándose a no agregar ningún otro distintivo, calcomanía o letrero ni particular ni gremial en el exterior del vehículo;
 
 XIII. Sujetarse a las tarifas autorizadas y respetar los horarios e itinerarios, en su caso;
 
@@ -288,9 +322,13 @@ XV. Cuidar bajo su estricta responsabilidad, que los vehículos autorizados sean
 
 XVI. No transportar bebidas alcohólicas sin la autorización del Ejecutivo del Estado, siendo obligatorio que el operador porte el original de dicha autorización mientras efectúa este servicio;
 
-XVII. Observar esta Ley y su Reglamento en lo relativo a las condiciones y características de las terminales y sitios, así como los señalamientos determinados por la Secretaría de Urbanismo y Obras Públicas y,
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
 
-XVIII. Proporcionar a la Secretaría de Urbanismo y Obras Públicas, la información técnica, administrativa y de cualquier otra índole que solicite.
+XVII. Observar esta Ley y su Reglamento, así como los señalamientos que en la materia determine la Comisión Coordinadora del Transporte Público de Michoacán; y,
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
+XVIII. Proporcionar a la Secretaría de Comunicaciones y Obras Públicas y a la Comisión Coordinadora del Transporte Público de Michoacán, la información técnica, administrativa y de cualquier otra índole que soliciten.
 
 ###### ARTICULO 40.
 
@@ -302,9 +340,11 @@ En caso de que los concesionarios y permisionarios no cumplan con las obligacion
 
 La inobservancia de lo estipulado en esta Ley y su Reglamento, traerá como consecuencia la aplicación de sanciones que tiendan a proteger al público usuario y a normar el servicio que se presta, y que consistirán en multa, suspensión o cancelación de concesión o del permiso.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 42.
 
-La Dirección de Seguridad Pública está facultada para imponer multas a los concesionarios y permisionarios que violen esta Ley y su reglamento, lo que deberá hacer del conocimiento de la Secretaría de Urbanismo y Obras Públicas.
+La Dirección de Seguridad Pública está facultada para imponer multas a los concesionarios y permisionarios que violen esta Ley y su reglamento, lo que deberá hacer del conocimiento de la Comisión Coordinadora del Transporte Público de Michoacán.
 
 ###### ARTICULO 43.
 
@@ -354,11 +394,11 @@ XVII. Transportar ganado de procedencia ilegal y,
 
 XVIII. Exigirlo así el interés público.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 45.
 
-Contra las resoluciones que se dicten por la Secretaría de Urbanismo y Obras Públicas con motivo de la aplicación de esta Ley, procederá el recurso de revocación, ante el Secretario de la dependencia citada. El recurso deberá presentarse por escrito acompañando las pruebas que se estimen necesarias y dentro de los tres días siguientes al en que se haga el conocimiento del interesado la resolución recurrida.
-
-El Secretario de Urbanismo y Obras Públicas resolverá dentro de los diez días siguientes al de su interposición; su resolución será definitiva y no procederá recurso en su contra.
+Contra las resoluciones que se dicten por la Secretaría de Comunicaciones y Obras Públicas y/o la Comisión Coordinadora del Transporte Público de Michoacán con motivo de la aplicación de esta Ley o de su reglamento, procederá el recurso de revocación, ante la propia autoridad que emita el acto. La admisión y substanciación del recurso de revocación se llevará en los términos del reglamento de la presente Ley.
 
 ## TITULO TERCERO. RED ESTATAL DE COMUNICACIONES ELECTRICAS
 
@@ -415,3 +455,15 @@ PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán de Ocampo, a 15 de junio de 1
 Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Michoacán, a 12 de julio de 1982.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO.- DR. ROBERTO ROBLES GARNICA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+El titular del Poder Ejecutivo del Estado expedirá el reglamento de la Ley de Comunicaciones y Transportes del Estado de Michoacán.
