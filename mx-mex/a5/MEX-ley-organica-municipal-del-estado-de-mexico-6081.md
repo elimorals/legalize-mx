@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2003-07-29"
+last_updated: "2003-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -645,7 +645,17 @@ XXXVI. Nombrar al cronista municipal para el registro escrito del acontecer hist
 
 XXXVII. Promover en la esfera de su competencia lo necesario para el mejor desempeño de sus funciones;
 
-XXXVIII. Las demás que le señalen otras disposiciones legales.
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+XXXVIII. Los municipios de manera libre decidirán si tienen oficialías mediadoras-conciliadoras en funciones separadas o en conjunto;
+
+> <small>(ADICIONADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+XXXIX.- Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
+
+> <small>(ADICIONADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+XL. Las demás que le señalen otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -911,9 +921,9 @@ VIII. Regularizar la propiedad de los bienes inmuebles municipales;
 
 IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad;
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-X. Practicar, a falta del agente del Ministerio Público, las primeras Diligencias de averiguación previa o aquellas que sean de notoria urgencia, remitiéndolas al agente del Ministerio Público del Distrito Judicial correspondiente, dentro del término de 24 horas y vigilar que los Oficiales Conciliadores y Calificadores, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
+X. Practicar, a falta del agente del Ministerio Público, las primeras Diligencias de averiguación previa o aquellas que sean de notoria urgencia remitiéndolas al agente del Ministerio Público del Distrito Judicial correspondiente, dentro del término de veinticuatro horas y vigilar que los Oficiales Calificadores, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
 
 XI. Participar en los remates públicos en los que tenga interés el municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones prevenidos en las leyes respectivas;
 
@@ -981,7 +991,9 @@ e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, c
 
 II. Corresponde a los jefes de sector o de sección y de manzana:
 
-a). Colaborar para mantener el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad pública o a los oficiales conciliadores y calificadores, las conductas que requieran de su intervención;
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+a). Colaborar para mantener el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad pública, a los oficiales calificadores las conductas que requieran de su intervención;
 
 b). Elaborar y mantener actualizado el censo de vecinos de la demarcación correspondiente;
 
@@ -1829,6 +1841,8 @@ Artículo 147 D.- El Coordinador Municipal de Derechos Humanos, en todo caso, de
 
 Artículo 147 E.- El Coordinador Municipal de Derechos Humanos, rendirá un informe semestral de actividades al ayuntamiento reunido en sesión solemne de cabildo, debiendo remitir copia del mismo al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 142.
 
 En cada municipio se integrarán cuerpos de seguridad pública, de bomberos y, en su caso, de tránsito, de los cuales el presidente municipal será el jefe inmediato.
@@ -1843,7 +1857,9 @@ En el municipio donde residan permanentemente los Poderes del Estado, el mando d
 
 Los cuerpos de seguridad pública, bomberos y tránsito municipales se coordinarán en lo relativo a su organización, función y aspectos técnicos con la Dirección General de Seguridad Pública y Tránsito del Estado.
 
-### CAPITULO PRIMERO. De las Oficialías Conciliadoras y Calificadoras Municipales
+### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 145.
 
@@ -1901,45 +1917,93 @@ VII. Las que el ayuntamiento le asigne.
 
 ### CAPITULO PRIMERO. Del Bando y los Reglamentos
 
-## TITULO V. De la Función Conciliadora y Calificadora de los Ayuntamientos
+## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO SEGUNDO. De las Sanciones
 
 ###### Artículo 148.
 
-En cada municipio el ayuntamiento designará, a propuesta del presidente municipal, al menos a un Oficial Conciliador y Calificador con sede en la cabecera municipal y en las poblaciones que el ayuntamiento determine en cada caso, quienes tendrán las atribuciones a las que se refiere el artículo 150.
+En cada municipio el ayuntamiento designará, a propuesta del presidente municipal, al menos a un Oficial Calificador con sede en la cabecera municipal y en las poblaciones que el ayuntamiento determine en cada caso, quienes tendrán las atribuciones a las que se refiere el artículo 150.
+
+Así mismo podrá nombrar a los oficiales mediadores-conciliadores en materia comunitaria que requiera, los cuales durarán en su cargo tres años con posibilidad a ser nombrados para otros periodos.
+
+La forma de concluir la mediación y la conciliación, será por convenios suscritos o por acuerdo de las oficialías en caso de advertir simulación en el trámite.
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 149.
 
-Para ser Oficial Conciliador y Calificador se requiere:
+Las oficialías se dividirán en mediadoras-conciliadoras y calificadoras.
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, con residencia efectiva en el municipio de que se trate, de por lo menos 3 años anteriores al día de su designación;
+I. Para ser Oficial Mediador-Conciliador, se requiere:
 
-II. No haber sido condenado en sentencia ejecutoria por delito intencional;
+a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
-III. Gozar públicamente de buena reputación y ser persona proba, de buena conducta, de reconocida honorabilidad y con ascendiente entre sus vecinos;
+b) No haber sido condenado por delito intencional;
 
-IV. Tener escolaridad mínima de nivel primaria y ser mayor de 21 años.
+c) Ser de reconocida buena conducta y solvencia moral;
+
+d) Tener cuando menos treinta años al día de su designación; y
+
+e) Ser licenciado en Derecho, en Psicología, en Sociología, en Antropología, en Trabajo Social, o en Comunicación y tener acreditados estudios en materia de Mediación.
+
+II.- Para ser Oficial Calificador, se requiere:
+
+a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+b) No haber sido condenado por delito intencional;
+
+c) Ser de reconocida buena conducta y solvencia moral;
+
+d) Tener cuando menos veintiocho años al día de la designación; y
+
+e) Ser licenciado en Derecho.
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 150.
 
-Son atribuciones de los oficiales conciliadores y calificadores:
+Son facultades y obligaciones de:
 
-I. Conciliar a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades;
+I.- Los Oficiales Mediadores-Conciliadores:
 
-II. Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al Bando Municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, excepto las de carácter fiscal;
+a) Evaluar las solicitudes de los interesados con el fin de determinar el medio alternativo idóneo para el tratamiento del asunto de que se trate;
 
-III. Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
+b) Implementar y substanciar procedimientos de mediación o conciliación vecinal, comunitaria, familiar, escolar, social o política en su municipio, en todos los casos en que sean requeridos por la ciudadanía o por las autoridades municipales;
 
-IV. Expedir recibo oficial y enterar en la tesorería municipal los ingresos derivados por concepto de las multas impuestas en términos de ley;
+c) Cambiar el medio alterno de solución de controversias, cuando de acuerdo con los participantes resulte conveniente emplear uno distinto al inicialmente elegido;
 
-V. Llevar un libro en donde se asiente todo lo actuado;
+d) Llevar por lo menos un libro de registro de expedientes de mediación o conciliación;
 
-VI. Expedir a petición de parte, certificaciones de hechos de las actuaciones que realicen;
+e) Redactar, revisar y en su caso aprobar, los acuerdos o convenios a que lleguen los participantes a través de la mediación o de la conciliación, los cuales deberán ser firmados por ellos y autorizados por el Oficial mediador-conciliador;
 
-VII. Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de este la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
+f) Negar el servicio en las materias que son competencia del Poder Judicial del Estado de México o en donde se pueda perjudicar a la hacienda pública, a las autoridades municipales o a terceros;
 
-VIII. Las demás que les atribuyan los ordenamientos municipales aplicables.
+g) Dar por concluido el procedimiento de mediación o conciliación en caso de advertir alguna simulación en su trámite;
+
+h) Asistir a los cursos anuales de actualización y aprobar los exámenes anuales en materia de mediación y conciliación; y
+
+i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial del Estado de México.
+
+II.- De los Oficiales Calificadores:
+
+a) Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades;
+
+b) Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al bando municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, excepto las de carácter fiscal;
+
+c) Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
+
+d) Expedir recibo oficial y enterar en la tesorería municipal los ingresos derivados por concepto de las multas impuestas en términos de Ley.
+
+e) Llevar un libro en donde se asiente todo lo actuado;
+
+f) Expedir a petición de parte, certificaciones de hechos de las actuaciones que realicen;
+
+g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de este la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
+
+h) Las demás que les atribuyan los ordenamientos municipales aplicables.
 
 ###### Artículo 151.
 
@@ -2218,3 +2282,11 @@ G.G. 29 DE JULIO DE 2003.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el tres de diciembre de dos mil tres.
+
+G.G. 4 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Mientras los ayuntamientos instalan oficialías mediadoras-conciliadoras, podrán remitir al Centro de Mediación y Conciliacióndel Poder Judicial del Estado de México los asuntos susceptibles de mediación o conciliación.
