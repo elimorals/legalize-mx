@@ -4,7 +4,7 @@ identifier: "YUC-codigo-del-registro-civil-8140"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-03-17"
-last_updated: "1999-12-13"
+last_updated: "2003-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DEL REGISTRO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2003.
 
 Código publicado en el Diario Oficial el Lunes 17 de Marzo de 1986.
 
@@ -421,15 +421,65 @@ V.- La declaración que el Oficial del Registro Civil haga de que ha quedado dis
 
 El Oficial del Registro Civil que reciba copia de la sentencia ejecutoria de divorcio a que se refiere el artículo 199, Fracción II, del Código Civil, levantará acta en que consten los puntos resolutivos del fallo, la autoridad que lo dictó y la fecha del mismo, con los datos a que se refieren las fracciones I y II del artículo anterior. Se cumplirá además lo dispuesto en el artículo 57 de este Código, respecto a la anotación en el acta de matrimonio.
 
-### CAPITULO X. DE LAS ACTAS DE DEFUNCION
+> <small>(REFORMADA SU DENOMINACION, D.O. 23 DE ENERO DE 2003)</small>
+
+### CAPITULO X
+
+DE LAS ACTAS DE DEFUNCIÓN, DE LAS INHUMACIONES, EXHUMACIONES Y CREMACIONES.
 
 ###### ARTICULO 60.
 
 La noticia del fallecimiento deberá darse al Oficial del Registro Civil, dentro de las veinticuatro horas de ocurrido, por los parientes del finado, por los vecinos o por la persona o autoridad, que tuviese conocimiento del mismo.
 
-###### ARTICULO 61.
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2003)</small>
 
-Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento, por certificado expedido por Médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran 24 horas del fallecimiento, excepto los casos en que se ordene otra cosa por la Autoridad correspondiente.
+###### ARTÍCULO 61.
+
+En ningún cementerio o panteón en el Estado se recibirá cadáver alguno en depósito, ni se inhumarán, exhumarán o cremarán restos, sin orden o autorización escrita del Oficial del Registro Civil correspondiente, quien se asegurará suficientemente del fallecimiento, por certificado expedido por médico legalmente autorizado.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 61-A.
+
+No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene lo contrario por la autoridad correspondiente.
+
+En caso de ausencia del Oficial del Registro Civil adscrito al Municipio y de extrema urgencia, dicha orden podrá ser autorizada en forma provisional por el Presidente Municipal del Ayuntamiento de que se trate, a reserva de ser ratificada en forma posterior por el Oficial del Registro Civil.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 61-B.
+
+Las inhumaciones y cremaciones se harán únicamente en los cementerios o panteones habilitados por la autoridad competente. La infracción a esta regla se castigará conforme a lo establecido en el artículo 231 del Código Penal del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 61-C.
+
+Los cadáveres se inhumarán o cremarán en los cementerios o panteones del lugar en que ocurra el fallecimiento. El Oficial del Registro Civil del lugar en donde ocurrió el fallecimiento podrá otorgar el permiso para llevar a cabo la inhumación en el cementerio o panteón de otra población, asegurándose prudentemente del estado del cadáver, para lo cual exigirá certificación de las autoridades de Salud del Estado y presentación del recibo correspondiente del pago de los derechos determinados en la Ley de Hacienda aplicable al Municipio en donde se efectúe la inhumación o cremación de cadáveres.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 61-D.
+
+En los casos previstos en el artículo anterior, se observará lo establecido en el artículo 63 de este Código.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 61-E.
+
+Toda inhumación o cremación deberá realizarse en presencia del administrador o encargado del cementerio o panteón, quien dará a los interesados constancia que acredite el lugar en que se practicó.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 61-F.
+
+Ninguna exhumación se practicará antes de dos años de ocurrido el fallecimiento, a menos que exista mandamiento de autoridad competente. De la misma manera, éste término será prorrogado, abreviado o no se llevará a cabo la exhumación si existe mandamiento de autoridad competente. En todos los casos, la copia del acta de exhumación se inscribirá en el libro correspondiente de la Oficina del Registro Civil del lugar de la inhumación.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 61-G.
+
+La acción para reclamar los restos de un cadáver se presentará ante las autoridades del Municipio correspondiente, y prescribe a los tres meses para los residentes en el Estado, y a los seis meses para los demás, contados desde el día de la exhumación. Se concederá a los interesados un plazo de quince días improrrogables para realizar la exhumación de un cadáver cuyo término de exhumación estuviere vencido.
 
 ###### ARTICULO 62.
 
@@ -696,3 +746,25 @@ D.O. 13 DE DICIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 23 DE ENERO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios que decidan administrar cementerios o panteones que se encuentren dentro de sus circunscripciones territoriales, deberán formular su Reglamento Municipal de Cementerios y Panteones y solicitar la transferencia de este servicio al Gobierno del Estado, con el fin de celebrar los Convenios de Coordinación respectivos. Tanto el Reglamento Municipal de Cementerios y Panteones como los Convenios de Coordinación que se celebren deberán ser publicados simultáneamente en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá de apoyar a los Ayuntamientos de la entidad en la redacción de los Reglamentos que regulen la administración y funcionamiento de los cementerios y panteones de cada Municipio, así como en la organización de las oficinas correspondientes, cuando las autoridades municipales así se lo soliciten.
+
+###### ARTÍCULO CUARTO.
+
+Corresponderá al Ejecutivo del Estado, la aplicación de las disposiciones legales relativas a cementerios y panteones en los Municipios a los que no se haya transferido dicho servicio público.
+
+###### ARTÍCULO QUINTO.
+
+Las concesiones de lotes y bóvedas en cementerios o panteones del Estado, que todavía se encuentren en trámite serán resueltas por la autoridad ante la cual estén siendo tramitadas.
