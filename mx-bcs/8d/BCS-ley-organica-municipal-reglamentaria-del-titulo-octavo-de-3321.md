@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1992-06-20"
+last_updated: "1992-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -47,11 +47,11 @@ El Municipio Libre es la base de la organización política y administrativa, as
 
 Los Municipios del Estado estarán organizados y regularán su funcionamiento de acuerdo con lo dispuesto por la presente Ley, en lo interno se regirán por sus propios bandos y reglamentos municipales, que se ajustarán a los principios establecidos en la Constitución Federal, en la del Estado y en esta Ley. Tendrán para el cumplimiento de sus fines, todas las competencias que no estén expresamente atribuidas por las leyes a la Federación o al Estado.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 1992)</small>
 
 ###### Artículo 3o.
 
-El Estado de Baja California Sur, se divide en cuatro municipios que son: La Paz, Comondú, Mulegé y Los Cabos, cuyos límites de su circunscripción territorial y cabecera señala, el Artículo 120 de la Constitución Política del Estado, quedando comprendidas además las Islas, Islotes, Cayos y Arrecifes ubicadas dentro de sus respectivas jurisdicciones.
+El Estado de Baja California Sur, se divide en cinco Municipios que son: La Paz, Comondú, Mulegé, Los Cabos y Loreto, cuyos límites de su circunscripción territorial y cabecera señala el artículo 120 de la Constitución Política del Estado, quedando comprendidas además islas, islotes, cayos y arrecifes, dentro de la soberanía y jurisdicción que determinen las Leyes del Congreso de la Unión.
 
 ###### Artículo 4o.
 
@@ -1386,5 +1386,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 20 DE JUNIO DE 1992.
 
 ###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE AGOSTO DE 1992.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
