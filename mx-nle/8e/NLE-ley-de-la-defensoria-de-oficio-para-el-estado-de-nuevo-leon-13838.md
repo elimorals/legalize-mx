@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-defensoria-de-oficio-para-el-estado-de-nuevo-leon-138
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-18"
-last_updated: "1997-06-18"
+last_updated: "1999-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,605 +21,1603 @@ state: "NLE"
 ---
 # LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
 
-LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
+ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de junio de 1997.
+Estatuto publicado en la Tercera Sección del Número 23 del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de junio de 2023.
 
-BENJAMIN CLARIOND REYES-RETANA, GOBERNADOR SUBSTITUTO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES
 
-DECRETO
+## TÍTULO I. GENERALIDADES
 
-NUM. 443
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
-LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
+###### Artículo 1.
 
-### CAPITULO PRIMERO. Disposiciones Generales
+El presente Estatuto es de orden público y tiene por objeto establecer las bases de organización de la estructura interna y funcionamiento del órgano descentralizado denominado Instituto de Ciencia y Tecnología del Estado de Aguascalientes.
 
-###### ARTICULO 1.
+###### Artículo 2.
 
-Las disposiciones de la presente Ley son de orden público y de interés social, y tienen por objeto regular la constitución, organización y funcionamiento de la Defensoría de Oficio del Estado de Nuevo León.
+Para los efectos del presente Estatuto, se entenderá por:
 
-###### ARTICULO 2.
+I. CONAC: Al Consejo Nacional de Armonización Contable;
 
-La Defensoría de Oficio del Estado de Nuevo León es una institución adscrita a la Secretaría General de Gobierno, que tiene como finalidad la de proporcionar, obligatoria y gratuitamente, los servicios jurídicos de defensa, patrocinio y asesoría en materia penal a los acusados, así como en los asuntos no penales que establezca el Reglamento de esta Ley a personas de escasos recursos económicos que lo soliciten.
+II. CONACYT: Al Consejo Nacional de Ciencia y Tecnología;
 
-###### ARTICULO 3.
+III. Director General: Al Director General del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
 
-El Defensor de Oficio es el servidor público que, con tal nombramiento, tiene a su cargo la asistencia jurídica de las personas que carecen de defensa, patrocinio o asesoría particular, en los casos y circunstancias establecidos en la presente ley.
+IV. Estatuto: Al Estatuto Interno del Instituto Ciencia y Tecnología del Estado de Aguascalientes;
 
-###### ARTICULO 4.
+V. INCyTEA: Al Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
 
-La Defensoría de Oficio estará integrada por:
+VI. Junta de Gobierno: A la Junta de Gobierno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
 
-I. El Director;
+VII. Ley: A la Ley de Ciencia, Tecnología, Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento para el Estado de Aguascalientes;
 
-II. El Coordinador General;
+VIII. Ley de Responsabilidades: A la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-III. Los Coordinadores de Area;
+IX. Ley para el Control de las Entidades Paraestatales: A la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
 
-IV. Los Defensores de Oficio y sus auxiliares, y
+X. Museo: Al Museo Interactivo de Ciencias y Tecnología;
 
-V. El Consejo de Colaboración.
+XI. Presidente: Al Presidente de la Junta de Gobierno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
 
-Contará, además, con el personal técnico y administrativo que sea necesario para el eficaz cumplimiento de sus funciones.
+XII. RED: A la red científica y tecnológica de instituciones, investigadores y demás integrantes de la comunidad científica; y
 
-###### ARTICULO 5.
+XIII. REICyTEA: Al Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes.
 
-El Director, los Coordinadores, los Defensores de Oficio, y los auxiliares de éstos serán nombrados y removidos en los términos previstos en la Constitución Política del Estado, y la Ley Orgánica de la Administración Pública del Estado de Nuevo León.
+###### Artículo 3.
 
-###### ARTICULO 6.
+Para el cumplimiento de la Ley y del presente Estatuto, así como para formular, ejecutar y evaluar sus políticas y acciones en materia de ciencia, tecnología, emprendimiento para el desarrollo de la sociedad del conocimiento en los Municipios, el INCyTEA podrá, a solicitud de los Ayuntamientos, convenir en apoyos y asesoría relativa a la Ciencia, Tecnología, Innovación y Emprendimiento.
 
-En los Distritos Judiciales del primero al cuarto serán designados tantos Defensores de Oficio como Juzgados Penales ejerzan su jurisdicción en los mismos; así como uno para cada uno de los juzgados en las materias no penales en las que legalmente deba prestar sus servicios la Defensoría de Oficio. Igualmente, deberá haber un defensor en cada una de las Salas del Tribunal Superior de Justicia.
+###### Artículo 4.
 
-En el resto de los Distritos Judiciales del Estado, habrá un Defensor de Oficio adscrito al Juzgado Mixto de Primera Instancia, que conocerá de los asuntos en las materias mencionadas en el párrafo anterior.
+El director general del INCyTEA es el depositario y administrador legal del patrimonio y fomentará su conservación e incremento, pudiendo delegar esta obligación cuando fuere necesario, en los funcionarios a que se refiere el presente Estatuto, así como a los mandatarios especiales.
 
-También deberá haber un Defensor de Oficio adscrito a cada uno de los Juzgados Menores y Alcaldías Judiciales del Estado.
+En todo caso, dicho patrimonio quedará bajo la responsabilidad directa de la Dirección General.
 
-###### ARTICULO 7.
+###### Artículo 5.
 
-Con el propósito de que toda persona detenida por causas de orden criminal cuente de inmediato con asistencia legal, habrá Defensores de Oficio adscritos a las Agencias del Ministerio Público Investigadoras y Auxiliares de Defensores de Oficio en las Delegaciones Ministeriales, en todo el Estado, en cualquier día y hora que se les requiera.
+El patrimonio del INCyTEA es inembargable e imprescriptible y gozará de las exenciones y prerrogativas otorgadas al Estado.
 
-###### ARTICULO 8.
+Para las enajenaciones de los bienes inmuebles, así como de contratos relacionados con los mismos se estará a lo que disponga la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios y la Ley de Bienes del Estado de Aguascalientes.
 
-Será obligatoria la prestación del servicio de la Defensoría en los casos en que, con base en las disposiciones de la legislación local correspondiente a materias diversas de las mencionadas en el Artículo 2o. de esta Ley, la Ley ordene los servicios de un Defensor de Oficio para la parte que carezca de defensor.
+## TÍTULO II. ORGANIZACIÓN
 
-###### ARTICULO 9.
+###### Artículo 6.
 
-Para los efectos de esta Ley, cuando en la misma se hable de defensores se entenderá por tales los Defensores de Oficio, por director el Director de la Defensoría de Oficio, por coordinadores los Coordinadores de las diversas Areas, por auxiliares los Auxiliares de los Defensores de Oficio, por defensoría la Defensoría de Oficio, y por Ley y Reglamento la Ley y el Reglamento de la Defensoría de Oficio, respectivamente.
+Para el cumplimiento de sus atribuciones y el despacho de los asuntos que le competen, el Instituto contará con la siguiente estructura orgánica:
 
-###### ARTICULO 10.
+I. Órganos de Gobierno y Administración. Responsables del gobierno, administración y operación en general del INCyTEA respectivamente, y son los siguientes:
 
-Las dependencias oficiales encargadas de archivos, libros y registros, proporcionarán la información y expedirán gratuitamente las certificaciones o constancias que sean solicitadas por la Defensoría de Oficio, y que estén relacionadas con las asesorías y defensas encomendadas a esta entidad.
+a) Junta de Gobierno; y
 
-###### ARTICULO 11.
+b) Dirección General;
 
-El Plan Anual de Capacitación de la Defensoría procurará recoger las orientaciones del Consejo de Colaboración, fomentar la amplia participación de los defensores y personal técnico y administrativo de la institución, establecer estímulos para el personal con merecimientos y convocar a especialistas prestigiados para la imparticipación (sic) de los programas académicos que dicho plan comprenda.
+II. Órgano de Consulta. Responsable de asesorar permanentemente a la Junta de Gobierno, al Director General y en general al INCyTEA, sobre las consultas que estos le realicen, ello para el mejor cumplimiento del objeto del último, siendo el siguiente:
 
-###### ARTICULO 12.
+a).- Consejo Consultivo de Ciencia, Tecnología, Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento.
 
-La Defensoría de Oficio promoverá la celebración de convenios con instituciones de educación superior para la prestación, en las diversas Areas de la Defensoría, del servicio social de estudiantes de las especialidades de derecho, criminología, trabajo social y otras disciplinas relacionadas, en los términos y condiciones que establezca el Reglamento.
+III.- Unidades Administrativas. Dependientes de la Dirección General, y responsables de la ejecución de las políticas públicas y del auxilio y operación de las atribuciones del INCyTEA para el debido cumplimiento de su objeto, mismas que se encuentran jerarquizadas de la siguiente manera:
 
-Igualmente, promoverá la concertación de convenios con colegios y asociaciones de abogados para su colaboración gratuita y desinteresada, en la atención de casos encomendados a la Defensoría.
+a) Coordinación de Desarrollo Tecnológico:
 
-### CAPITULO SEGUNDO. Del Director
+1. Jefatura del Departamento de Atención Educativa;
 
-###### ARTICULO 13.
+2. Jefatura del Departamento de Comunicación y Mercadotecnia;
 
-El Ejecutivo del Estado será la máxima autoridad de la Defensoría de Oficio y la ejercerá a través del Director, quien será su titular y tendrá las siguientes atribuciones:
+3. Jefatura del Departamento Museístico;
 
-I. Tener bajo su mando al Coordinador General, a los Coordinadores de Area, a los Defensores de Oficio, a los auxiliares de éstos y al personal técnico y administrativo de la institución;
+4. Jefe del Departamento de Visualización Científica; y
 
-II. Dirigir, controlar, planear y evaluar el funcionamiento de la Defensoría;
+5. Jefe de Departamento de Reservación de Grupos y Gestión de Recursos;
 
-III. Presidir el Consejo de Colaboración;
+b) Coordinación de Vinculación e Investigación:
 
-IV. Participar en la aplicación de las sanciones al personal de la dependencia, por las faltas que cometan en el ejercicio de sus funciones, en los términos que le correspondan conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
+1. Jefe del Departamento de Servicios Educativos;
 
-V. Informar mensualmente al Secretario General de Gobierno y al Subsecretario del ramo sobre las actividades desarrolladas por la Defensoría;
+2. Jefe del Departamento de Proyectos; y
 
-VI. Delegar en el Coordinador General y en los Coordinadores las funciones que estime pertinentes;
+3. Jefe de Departamento de Becas.
 
-VII. Encomendar a los Defensores y a los auxiliares la atención de casos especiales, aún cuando no correspondan a su área o adscripción;
+d) Coordinación de Transferencia Tecnológica y de Propiedad Intelectual.
 
-VIII. Decidir los cambios de adscripción del personal;
+1. Jefe del Departamento de Investigación e Innovación;
 
-IX. Elaborar, con el auxilio del Coordinador del Area Administrativa, el Plan Anual de Capacitación del personal de la Defensoría;
+2. Jefe del Departamento de Propiedad Intelectual;
 
-X. Vigilar la estricta observancia de esta Ley y su Reglamento; y
+e) Coordinación Administrativa:
 
-XI. Todas las demás relativas a su cargo que esta Ley, el Reglamento u otras disposiciones legales le confieran.
+1. Jefe del Departamento de Servicios Generales;
 
-###### ARTICULO 14.
+2. Jefe del Departamento de Contabilidad;
 
-Para ser Director se requiere:
+3. Jefe del Departamento de Presupuesto;
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+4. Jefe de Departamento de Capital Humano;
 
-II. Tener treinta años cumplidos el día de su designación;
+f) Coordinación Jurídica.
 
-III. Ser Licenciado en Derecho, con título registrado y práctica profesional mínima de cinco años; y
+1. Jefe del Departamento de Asesoría y Patrocinio Jurídicos.
 
-IV. Tener reconocida solvencia moral y prestigio profesional.
+IV.- Órganos de Control y Evaluación;
 
-### CAPITULO TERCERO. Del Coordinador General y los Coordinadores de Area
+a) Órgano de Vigilancia; y
 
-###### ARTICULO 15.
+b) Órgano Interno de Control;
 
-Habrá en la Defensoría de Oficio un Coordinador General, quien dependerá directamente del Director y que tendrá las siguientes atribuciones:
+Además, contará con la estructura orgánica y el personal profesional, técnico y administrativo que requieran para el mejor desempeño de sus actividades, el cual será nombrado en términos de la Ley de Entidades Paraestatales, la Ley, el Estatuto y las demás disposiciones aplicables, atendiendo en todo momento al presupuesto asignado para tal efecto.
 
-I. Coordinar las distintas Areas que integran la Defensoría;
+Cada uno de los órganos y unidades administrativas referidas en el presente artículo cuentan con las atribuciones que se establecen en la Ley y en el Estatuto, y deben desarrollar sus actividades con estricto respeto a sus respectivas competencias y de forma coordinada.
 
-II. Supervisar, vigilar y evaluar el desempeño de los Coordinadores de las diversas Areas, debiendo dar cuenta al Director de las actividades que aquellos desarrollen y, en su caso, de las faltas en que incurran;
+###### Artículo 7.
 
-III. Servir de enlace entre los Coordinadores y el Director, acordando con aquellos los asuntos respectivos que correspondan, sin perjuicio de que los Coordinadores acuerden directamente con el Director cuando la importancia del asunto o cuando este funcionario lo requiera;
+Los titulares de las Unidades Administrativas, deberán coordinarse en el desarrollo de los programas, actividades y eventos del INCyTEA para el cumplimiento de su objeto, teniendo las facultades y atribuciones que les confiera la Ley, el presente Estatuto, y las que les confiera expresamente la Dirección General.
 
-IV. Diseñar y acordar con el Director las políticas de atención a los usuarios y de despacho de los asuntos, observando siempre las disposiciones de la Ley; su Reglamento y las previstas por otras disposiciones legales aplicables;
+###### Artículo 8.
 
-V. Suplir al Director en sus ausencias temporales no mayores de treinta días;
+La Junta de Gobierno, es el órgano máximo de Gobierno del Instituto, y se integrará de la siguiente manera:
 
-VI. Integrar los informes mensual, trimestral y anual de actividades de la Defensoría;
+a. La persona titular del Poder Ejecutivo del Estado de Aguascalientes, quién será suplido en sus ausencias, por la persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-VII. Ejecutar y dar seguimiento a los acuerdos y disposiciones que dicte el Director en ejercicio de sus facultades;
+I. La persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-VIII. Atender los asuntos específicos que le asigne o delegue el Director;
+II. La persona titular de la Secretaría de Finanzas;
 
-IX. Resolver, previo acuerdo con el Director, los casos de excusas y retiro del servicio a que se refiere esta Ley;
+III. La persona titular de la Secretaría de Desarrollo Rural y Agroempresarial;
 
-X. Coadyuvar con el Director a la estricta observancia de la Ley y el Reglamento; y
+IV. La persona titular de la Secretaría de Planeación, Participación y Desarrollo;
 
-XI. Las demás que le confieran la Ley, el Reglamento y demás disposiciones legales.
+V. La persona titular de la Secretaría de Innovación y Gobierno Digital;
 
-###### ARTICULO 16.
+VI. La persona titular de la Dirección General del Instituto de Educación de Aguascalientes;
 
-Además del Coordinador General, la Defensoría de Oficio contará con los siguientes Coordinadores de Area:
+VII. La persona titular de la Dirección General del Fideicomiso Público denominado Sistema de Financiamiento de Aguascalientes;
 
-I. Coordinador de Area Administrativa;
+VIII. La persona que presida la Comisión de Ciencia y Tecnología del H. Congreso del Estado;
 
-II. Coordinador del Area Penal de Averiguaciones Previas;
+IX. Dos personas representantes de las Cámaras Empresariales en el Estado, designadas por la persona titular del Poder Ejecutivo del Estado.
 
-III. Coordinador del Area Penal de Control de Procesos;
+Por cada miembro propietario se deberá nombrar una persona suplente, quien sustituirá las faltas temporales en términos del Reglamento y gozará de los mismos derechos y obligaciones que los titulares.
 
-IV. Coordinador del Area de Asuntos No Penales;
+Los cargos como integrantes de la Junta de Gobierno serán honoríficos, por lo que no gozarán de alguna compensación económica o gratificación en especie por parte del Instituto por su desempeño dentro de la misma.
 
-V. Coordinador del Area Foránea;
+Los integrantes de la Junta de Gobierno a que se refieren durarán en su encargo durante el tiempo en que se desempeñen en las funciones del cargo por el cual la integran.
 
-VI. Coordinador del Area de Segunda Instancia y Amparos; y
+###### Artículo 9.
 
-VII. Coordinador del Area de Apoyo Técnico.
+La Junta de Gobierno se reunirá en sesión ordinaria por lo menos cuatro veces al año trimestralmente de conformidad al calendario aprobado en la última sesión celebrada en el año anterior, pudiendo convocar por conducto del Presidente a reuniones extraordinarias cuantas veces sea necesario.
 
-###### ARTICULO 17.
+Las sesiones de la Junta de Gobierno podrán ser presenciales o virtuales debiendo sujetarse a las formalidades que establezca el Estatuto.
 
-Los Coordinadores supervisarán las actividades que realicen los defensores, auxiliares y personal técnico y administrativo de su área y tendrán las atribuciones generales y especiales que les asignen esta Ley y demás disposiciones aplicables, así como las que expresamente les confiera el Director.
+###### Artículo 10.
 
-###### ARTICULO 18.
+Los miembros de la Junta de Gobierno tendrán derecho a voz y voto, en los asuntos que se sometan a su consideración; sus decisiones se tomarán por mayoría de votos de quienes concurran y, en caso de empate en la deliberación de algún asunto, la persona que presida la Junta de Gobierno tendrá voto de calidad.
 
-Para ser Coordinador General y de Area se requiere:
+###### Artículo 11.
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+La convocatoria y el desarrollo de las sesiones de la Junta de Gobierno se llevarán a cabo de conformidad con las siguientes disposiciones:
 
-II. Ser Licenciado en Derecho, con título registrado y práctica profesional mínima de tres años y en el caso del Artículo 21, con conocimientos contables;
+I. Las sesiones que celebre la Junta de Gobierno serán convocadas por el Presidente por conducto del Director General del INCyTEA, debiendo hacer llegar la notificación por escrito a todos sus integrantes con cinco días hábiles de anticipación a la reunión, debiendo acompañar a la notificación, la propuesta de orden del día y los documentos que lo acompañen, cuando se convoque a sesión extraordinaria, la notificación deberá enviarse por lo menos con 24 horas de anticipación;
 
-III. No haber sido condenado por delito intencional alguno; y
+II. La Junta de Gobierno sesionará válidamente con la mitad más uno de sus miembros debiendo estar presente el Presidente o su Suplente;
 
-IV. Aprobar el examen de oposición.
+III. Se podrá invitar a sesión de la Junta de Gobierno, con voz, pero sin voto, a alguna persona del sector público, social o privado que tenga relación con uno o varios de los puntos a tratar;
 
-###### ARTICULO 19.
+IV. La sesión dará inicio el día y hora fijados para tal efecto. Dando un máximo de tolerancia de 20 minutos. Si el quórum legal no se reúne se señalará nueva fecha y hora para que la sesión tenga lugar, quedando debidamente notificados los miembros presentes y debiendo ser notificados vía oficio los miembros faltantes. En esta segunda convocatoria, podrá llevarse a cabo la sesión con los integrantes de la Junta de Gobierno que asistan;
 
-Los Coordinadores de Area tendrán bajo su mando los defensores, auxiliares, el personal administrativo y, en su caso, el personal técnico necesario para el cumplimiento de sus funciones.
+V. Las sesiones se efectuarán con sujeción al orden del día que elaborará el Director General del INCyTEA, mismo que el Presidente someterá a la aprobación de la Junta de Gobierno, el que podrá variar a solicitud de algún integrante con la aprobación de la mayoría de los miembros presentes;
 
-###### ARTICULO 20.
+VI. En las sesiones ordinarias, el orden del día contendrá un último punto de asuntos generales;
 
-Los Coordinadores de Area tendrán las siguientes atribuciones generales:
+VII. Los asuntos generales y aquellos que se incluyan en el orden del día que no hayan sido expresamente señalados y documentados con la anticipación debida en la convocatoria respectiva, no podrán tener el carácter de resolutivos sino de meramente informativos;
 
-I. Coordinar las acciones de asesoría y representación legal prestadas por los defensores y auxiliares adscritos a su área respectiva;
+VIII. El Presidente de la Junta de Gobierno conducirá las sesiones, dirigirá los debates y propondrá el trámite de los asuntos que sean analizados; otorgando el uso de la voz a los integrantes cuando se desee debatir alguno de los puntos del orden del día. A efecto de procurar la agilidad y economía de las sesiones, podrá limitar la participación de los miembros en frecuencia y tiempo;
 
-II. Cuidar que el personal a su cargo mantenga entre sí, y con el resto de los servidores de la dependencia, la armonía necesaria para la comunicación y desempeño eficientes en el cumplimiento de su trabajo;
+IX. Las intervenciones de los miembros dentro de las sesiones no tendrán requisito alguno, sin embargo, deberán proceder con orden y respeto. El Presidente podrá declarar un asunto suficientemente discutido y proceder a su votación;
 
-III. Vigilar que los asuntos de su competencia se conduzcan conforme a lo dispuesto por la Ley y el Reglamento, con el celo, ética y profesionalismo debidos;
+X. Tanto el Director General del INCyTEA, como el Comisario Público podrán participar con voz, pero sin voto;
 
-IV. Proponer al Director iniciativas para mejorar la distribución y cumplimiento del trabajo, con el propósito de perfeccionar permanentemente la prestación del servicio al público;
+XI. Los acuerdos de la Junta de Gobierno serán tomados por mayoría de sus integrantes que se encuentren presentes;
 
-V. Elaborar el informe mensual de las actividades de la coordinación a su cargo y turnarlo al Coordinador General;
+XII. La votación se emitirá en forma económica, a menos que la Junta de Gobierno determine que se realice en forma nominal o secreta;
 
-VI. Verificar periódicamente la veracidad de los datos asentados por los defensores en los libros de registro, así como la de los correspondientes a las tarjetas de visitas a reos;
+XIII. De todas las sesiones de la Junta de Gobierno se levantará acta, que deberá ser firmada por los miembros presentes, así como por el Director General del INCyTEA;
 
-VII. Vigilar el debido y estricto cumplimiento de las funciones del personal a su cargo, comunicando por escrito al Coordinador General, al Coordinador Administrativo y al Director, mediante reporte o acta administrativa, las irregularidades en que incurran sus subalternos;
+###### Artículo 12.
 
-VIII. Ejercer una estricta vigilancia en el cumplimiento de la gratuidad de los servicios legales prestados por la Defensoría;
+La Junta de Gobierno, ejercerá las atribuciones establecidas en la Ley, la Ley para el Control de las Entidades Paraestatales y demás disposiciones relativas y aplicables.
 
-IX. Efectuar visitas periódicas a las dependencias relacionadas con su adscripción, para evaluar las acciones y promociones realizadas por los defensores y auxiliares, informando con detalle al Coordinador General de los resultados de las mismas;
+### CAPÍTULO I
 
-X. Elaborar, en su caso, el calendario de turnos de los defensores y auxiliares del Area;
+###### Artículo 13.
 
-XI. Proponer y acordar con el Coordinador General y el del Area Administrativa el calendario de vacaciones del personal de su adscripción, de acuerdo a las cargas de trabajo y las necesidades de su Area;
+El Presidente, además de las atribuciones establecidas en la Ley, la Ley para el Control de las Entidades Paraestatales y demás disposiciones aplicables, tendrá las siguientes atribuciones y obligaciones:
 
-XII. Celebrar reuniones de trabajo con los defensores y auxiliares de su adscripción, cada quince días o cuando sea necesario, informando de las mismas al Coordinador General y al Director;
+I. Presidir las sesiones de la Junta de Gobierno;
 
-XIII. Resolver, en su caso, con base en el estudio socioeconómico elaborado por la Coordinación de Apoyo Técnico, sobre la procedencia del servicio en asuntos no penales;
+II. Convocar, a través del Secretario Técnico, a las sesiones;
 
-XIV. Canalizar a la Coordinación de Apoyo Técnico, en su caso, las solicitudes de fianzas de interés social y los recibos de multa por conversión de pena;
+III. Dar a conocer a los integrantes de la Junta de Gobierno el orden del día para cada sesión;
 
-XV. Apoyar a los defensores y auxiliares de su Area en los asuntos que, por razones de urgencia o importancia, lo requieren;
+IV. Vigilar que los acuerdos y disposiciones de la Junta de Gobierno se ejecuten en términos aprobados;
 
-XVI. Proponer al Director los estímulos y reconocimientos para el personal que sea merecedor por su buen desempeño; y
+V. Procurar que se desarrollen las sesiones de la Junta de Gobierno con orden y respeto;
 
-XVII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+VI. Otorgar el uso de la voz a cualquiera de los Integrantes de la Junta de Gobierno cuando lo solicite;
 
-###### ARTICULO 21.
+VII. Determinar la inclusión de nuevos puntos al orden del día, cuando así lo solicite alguno de los miembros y con la aprobación de la mayoría de los integrantes presentes de la Junta de Gobierno;
 
-Corresponde al Coordinador del Area Administrativa el despacho de las siguientes atribuciones especiales:
+VIII. Determinar si ya fue suficientemente discutido un punto de la orden del día y someterlo a votación de la Junta de Gobierno;
 
-I. Administrar eficientemente los recursos materiales y financieros de la Defensoría;
+IX. Proponer que la votación de alguno de los puntos se realice en forma secreta o nominal, cuando así lo considere necesario;
 
-II. Formular y acordar con el Director el presupuesto anual de la Defensoría que deberá proponerse a la Secretaría de Finanzas y Tesorería General del Estado;
+X. Vigilar que los acuerdos de la Junta de Gobierno se ejecuten en los términos aprobados; y
 
-III. Coadyuvar con los Coordinadores a que el personal cumpla con las obligaciones de trabajo que establezcan las Leyes y el Reglamento;
+XI. Las demás señaladas en el presente Estatuto, y las que le confieran otras disposiciones legales aplicables.
 
-IV. Ejecutar las resoluciones del Director, en ejercicio de las facultades disciplinarias que le otorga el Artículo 13, fracción IV, de la Ley;
+###### Artículo 14.
 
-V. Apoyar al Director y a los Coordinadores de Area proporcionándoles los recursos materiales y financieros que requieran, conforme al presupuesto autorizado, así como realizar las gestiones necesarias para su utilización eficiente;
+El cargo de Secretario Técnico será el titular de la Dirección General del Instituto y tendrá las siguientes facultades y obligaciones:
 
-VI. Realizar los trámites de altas y bajas del personal de la institución;
+I. Elaborar y proponer el orden del día de las sesiones ordinarias y extraordinarias, y las convocatorias respectivas;
 
-VII. Ser responsable de la nómina de sueldos y hacer los pagos correspondientes al personal de la dependencia;
+II. Entregar con toda oportunidad, a los miembros, la convocatoria de cada sesión, así como obtener y entregar los documentos y anexos necesarios, para el estudio y discusión de los asuntos contenidos en el orden del día y recabar la constancia de recibido;
 
-VIII. Controlar y supervisar al personal asignado a funciones específicas de operación, control y mantenimiento de procesos informáticos;
+III. Organizar las sesiones, basándose en las instrucciones de logística de la Presidencia de la Junta de Gobierno;
 
-IX. Controlar y supervisar al personal de prácticas profesionales y a los prestadores del servicio social;
+IV. Elaborar las actas correspondientes de cada sesión y remitirlas a revisión de sus miembros para su firma;
 
-X. Participar en la programación del Plan Anual de Capacitación del personal de la Defensoría y brindar el apoyo administrativo que se solicite; y
+V. Elaborar el acta de sesión por duplicado, la cual deberá contener la firma autógrafa de los miembros presentes, dejando un ejemplar para el INCyTEA y otro para la Secretaría Técnica;
 
-XI. Las demás que le confieran esta Ley y otras disposiciones aplicables.
+VI. Someter a la aprobación de los integrantes de la Junta de Gobierno los acuerdos que sean propuestos por los integrantes de esta;
 
-El Titular de esta Area deberá mantener una permanente coordinación con el Consejo de Colaboración, para el efecto del cumplimiento de la atribución a que se refiere la fracción X de este Artículo.
+VII. Comunicar los acuerdos que emita la Junta de Gobierno inmediatamente después de que ésta sesione, para su seguimiento y ejecución;
 
-###### ARTICULO 22.
+VIII. Informar a la Junta de Gobierno sobre el cumplimiento de los acuerdos tomados por ésta; y
 
-La Coordinación del Area Penal de Averiguaciones Previas se integrará por un Coordinador, los Defensores y los auxiliares que se requieran, quienes prestarán sus servicios en las Agencias y Delegaciones del Ministerio Público Investigadoras del fuero común, con jurisdicción del primero al cuarto Distritos Judiciales.
+IX. Las demás funciones técnicas y administrativas que deba realizar para atender los acuerdos y trabajos que se le deleguen.
 
-###### ARTICULO 23.
+### CAPÍTULO II. Junta de Gobierno
 
-Corresponderá a la Coordinación del Area Penal de Averiguaciones Previas el despacho de las siguientes atribuciones especiales:
+###### Artículo 15.
 
-I. Brindar asistencia legal a los indiciados en el acto de rendición de declaraciones ministeriales, conforme a lo dispuesto en el Artículo 20 de la Constitución General de la República;
+Los miembros de la Junta de Gobierno, además de las atribuciones establecidas en la Ley, la Ley para el Control de las Entidades Paraestatales y demás disposiciones aplicables, tendrán las siguientes atribuciones y obligaciones:
 
-II. Intervenir en la rendición de declaraciones informativas a cargo de testigos y en la práctica de diligencias;
+I. Asistir con voz y voto a las sesiones que celebre la Junta de Gobierno;
 
-III. Solicitar la libertad caucional o por falta de elementos a quienes se esté proporcionando el servicio de defensoría;
+II. Proponer a la Junta de Gobierno el análisis de los asuntos que estime necesarios;
 
-IV. Cumplir celosamente con el seguimiento de las averiguaciones hasta su resolución.
+III. Formar parte de las comisiones que se determinen convenientes en el seno de la propia Junta de Gobierno, que serán por objeto y tiempo determinado;
 
-V. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+IV. Participar con orden y respeto en el desarrollo de las sesiones;
 
-###### ARTICULO 24.
+V. Emitir las opiniones que les sean solicitadas, así como proporcionar la información necesaria para el cumplimiento del objeto del INCyTEA;
 
-La Coordinación del Area Penal de Control de Procesos estará constituida por un coordinador, los defensores y los auxiliares que se requieran, quienes prestarán sus servicios en los juzgados de lo penal, con jurisdicción del primero al cuarto distritos judiciales.
+VI. Respetar las determinaciones tomadas por el Presidente de la Junta de Gobierno en relación con el desarrollo de las sesiones; y
 
-###### ARTICULO 25.
+VII. Las demás señaladas en el presente Estatuto, y las que le confieran las disposiciones legales aplicables establecidas.
 
-Corresponderá a la Coordinación del Area Penal del Control de Procesos el despacho de las siguientes atribuciones especiales:
+###### Artículo 16.
 
-I. Prestar asesoría legal a los procesados en el acto de rendición de la declaración preparatoria, de acuerdo con lo dispuesto en el Artículo 20 de la Constitución General de la República;
+El INCyTEA estará a cargo de un Director General, designado por el Titular del Poder Ejecutivo del Estado, quien además de las atribuciones y facultades establecidas en la Ley, la Ley para el Control de las Entidades Paraestatales, en este ordenamiento y demás disposiciones aplicables, tendrá las siguientes:
 
-II. Hacer el seguimiento de los procesos mientras se esté participando hasta su conclusión en primera instancia, desarrollando todas las acciones que correspondan al ejercicio de una defensa conforme a la Ley;
+I. Cumplir y vigilar la aplicación de las disposiciones contenidas en la Ley, el presente Estatuto y los demás ordenamientos que rijan al INCyTEA;
 
-III. Solicitar la libertad caucional o por falta de elementos para procesar de los inculpados a quienes se esté proporcionando el servicio de Defensoría;
+II. Representar legalmente al INCyTEA;
 
-IV. Promover, en su caso, los incidentes y recursos que procedan y darles el seguimiento correspondiente en la primera instancia;
+III. Dirigir, programar, conducir, coordinar y evaluar las acciones que el INCyTEA realice;
 
-V. Promover el juicio de amparo indirecto en los casos a que haya lugar;
+IV. Designar y remover libremente al personal del INCyTEA que no esté dentro de la potestad de nombramiento de la Junta de Gobierno, efectuando los nombramientos y estableciendo las relaciones laborales de acuerdo con las disposiciones legales vigentes;
 
-VI. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+V. Formular los proyectos de reglamentos, manuales y lineamientos requeridos para la organización y funcionamiento del Instituto y someterlos a la aprobación de la Junta de Gobierno;
 
-###### ARTICULO 26.
+VI. Administrar, destinar y ejercer los recursos humanos, materiales y financieros del INCyTEA;
 
-El Coordinador del Area de Asuntos No Penales tendrá bajo su responsabilidad los servicios de asesoría y representación legales en materia civil y familiar y en otras materias en los casos a que se refiere el Artículo 8o. de esta Ley.
+VII. Suscribir convenios de coordinación y concertación con los gobiernos Federal, Estatal y Municipales, así como con organismos sociales y privados, nacionales e internacionales, en materia de su competencia;
 
-###### ARTICULO 27.
+VIII. Ejecutar y celebrar los actos y contratos relacionados con su objeto;
 
-La Coordinación del Area de Asuntos No Penales estará constituida por un Coordinador y los Defensores que se requieran, quienes prestarán sus servicios en los Juzgados Civiles y Familiares con jurisdicción del primero al cuarto Distritos Judiciales y en los juzgados menores de la misma jurisdicción, sin perjuicio de lo dispuesto en la parte final del Artículo anterior.
+IX. Otorgar y revocar poderes generales para pleitos y cobranzas, para actos de administración y dominio, así como especiales a favor de terceras personas, conforme a la autorización y lineamientos de la Junta de Gobierno;
 
-El Coordinador de esta Area podrá contar con responsables de cada una de las materias no penales en las que se proporcione el servicio de Defensoría, a quienes podrá conferir las funciones operativas cuya delegación sea posible conforme a esta Ley y su Reglamento, y quienes deberán acreditar los mismos requisitos que se exigen para ser coordinador.
+X. Proponer a la Junta de Gobierno las políticas generales del INCyTEA;
 
-###### ARTICULO 28.
+XI. Someter a la consideración de la Junta de Gobierno el Plan Estatal de Ciencia, Tecnología, Innovación y Sociedad del Conocimiento y los planes y programas de trabajo del INCyTEA, a efecto de obtener, en su caso, la aprobación correspondiente;
 
-El Coordinador del Area de Asuntos No Penales deberá de vigilar, en coordinación con el Titular del Area de Apoyo Técnico, si las personas a quienes se preste el servicio de Defensoría pueden recibirlo, de conformidad con lo dispuesto en esta Ley y su Reglamento.
+XII. Presentar a la Junta de Gobierno, los planes de trabajo, propuestas de presupuesto, informes de actividades y de estados financieros del organismo acompañados por los informes respectivos que se le requieran;
 
-###### ARTICULO 29.
+XIII. Promover la participación económica de organismos y agencias estatales, nacionales e instituciones extranjeras, tendientes a apoyar acciones y programas en beneficio del INCyTEA;
 
-La Coordinación del Area Foránea se integrará por un Coordinador y los Defensores que se requieran, quienes atenderán los asuntos que les correspondan en las agencias del ministerio público, en los Juzgados Mixtos y en las Alcaldías Judiciales del quinto al decimosegundo Distritos Judiciales del Estado.
+XIV. Ejecutar los acuerdos tomados por la Junta de Gobierno e informarle de su cumplimiento;
 
-###### ARTICULO 30.
+XV. Recabar la información pertinente y los elementos estadísticos sobre las funciones del INCyTEA, para mejorar su desempeño;
 
-En los términos de esta Ley y su Reglamento, la prestación de los servicios de la Defensoría en el Area foránea en asuntos no penales, se realizará previo el estudio socioeconómico del solicitante; sin embargo, en los casos en que no sea posible practicar dicho estudio, corresponderá a los defensores adscritos a esta coordinación decidir sobre la procedencia del servicio, tomando como base las reglas establecidas en la propia Ley o en su Reglamento.
+XVI. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
 
-En caso de duda, o cuando la personalidad de las partes, la naturaleza especial del asunto o su complejidad lo amerite, los defensores foráneos deberán turnar el caso al Coordinador del Area, quien resolverá sobre la procedencia del servicio, previo acuerdo con el Director.
+XVII. Auxiliar al Presidente emitiendo la convocatoria a sesión ordinaria o extraordinaria de la Junta de Gobierno, previo acuerdo y autorización del Presidente de la Junta de Gobierno;
 
-###### ARTICULO 31.
+XVIII. Realizar las tareas editoriales, de difusión y de promoción, relacionadas con el objeto, programas y acciones del INCyTEA;
 
-La Coordinación del Area de Segunda Instancia y Amparos se integrará por un coordinador y los defensores que se requieran, quienes atenderán los asuntos que les correspondan en las diversas Salas del Tribunal Superior de Justicia del Estado y ante los Tribunales del Poder Judicial Federal.
+XIX. Elaborar, a más tardar el último día hábil de agosto de cada año, el anteproyecto de ingresos y presupuesto anual de egresos del INCyTEA para el siguiente año;
 
-###### ARTICULO 32.
+XX. Presentar el informe anual de labores del INCyTEA;
 
-Corresponderá a la Coordinación del Area de Segunda Instancia y Amparos el despacho de las siguientes atribuciones especiales:
+XXI. Vigilar el cumplimiento de los objetivos del INCyTEA;
 
-I. Prestar apoyo legal a los procesados y usuarios antes y después de celebrarse la audiencia de vista;
+XXII. Coordinar sus actividades con el CONACYT, así como con instituciones públicas o privadas, nacionales e internacionales relacionados con la ciencia y tecnología;
 
-II. Presentar los agravios y, en su caso, contestarlos en los asuntos de su competencia;
+XXIII. Promover la constitución y coordinar la operación de la RED;
 
-III. Tramitar a los procesados los beneficios de la libertad caucional, condena condicional o multa por conversión de pena;
+XXIV. Promover la conformación del REICYTEA de conformidad con la Ley;
 
-IV. Promover el juicio de amparo en los casos a que haya lugar; y
+XXV. Proveer los mecanismos e instrumentos necesarios, para la transparencia y acceso a la información pública gubernamental, de acuerdo con la legislación aplicable;
 
-V. Las demás que establezacn (sic) esta Ley y otras disposiciones aplicables.
+XXVI. Formular denuncias y querellas y proponer a la Junta de Gobierno el perdón legal, cuando a su juicio proceda, así como comparecer por oficio, al igual que los Directores de Área, a absolver posiciones en términos de la ley procesal que corresponda;
 
-###### ARTICULO 33.
+XXVII. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
 
-La Coordinación del Area de Apoyo Técnico estará constituida por un coordinador, los trabajadores sociales y los peritos que se requieran, quienes prestarán sus servicios en las Areas penales y de asuntos no penales en apoyo a las funciones de los defensores adscritos a las mismas.
+XXVIII. Suscribir y negociar títulos de crédito, así como tramitar y obtener cartas de crédito, previa autorización de la Junta de Gobierno;
 
-El Coordinador de esta Area podrá contar con responsables de las labores de los trabajadores sociales y de los peritos, respectivamente, a quienes podrá conferir las funciones operativas cuya delegación sea posible conforme a esta Ley y su Reglamento.
+XXIX. Delegar su representación en todos aquellos procesos, actos, procedimientos, incidencias, recursos y actuaciones jurídicas y administrativas, en términos de la legislación aplicable;
 
-###### ARTICULO 34.
+XXX. Establecer programas de capacitación y mejoramiento profesional del personal del INCyTEA;
 
-Los auxiliares del Coordinador del Area de Apoyo Técnico a que se refiere el último párrafo de la disposición anterior, deberán reunir los requisitos exigidos para ser Coordinador; sin embargo, el requisito del título de Licenciado en Derecho podrá ser cubierto con título profesional, según sea su materia, de acuerdo al sector técnico en que habrán de desempeñarse.
+XXXI. Supervisar y vigilar la debida observancia de la Ley y demás ordenamientos que rigen al INCyTEA; y
 
-### CAPITULO CUARTO. De los Defensores de Oficio
+XXXII. Las demás que le confieren la Ley, la Junta de Gobierno y otras disposiciones en la materia.
 
-#### Sección Primera. Del Ingreso y Condiciones de Trabajo
+###### Artículo 17.
 
-###### ARTICULO 35.
+El ejercicio de las facultades del INCyTEA, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente a la Dirección General, quien para su mejor ejecución podrá delegarlas en los titulares de las Unidades Administrativas, salvo aquellas, que, en los términos de este Estatuto, otra norma jurídica o por disposición de la Junta de Gobierno deban ser ejercidas directamente por ella.
 
-Para ser Defensor de Oficio se requiere:
+###### Artículo 18.
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+El INCyTEA contará con un Consejo Consultivo en Ciencia, Tecnología, Innovación y Sociedad del Conocimiento.
 
-II. Ser Licenciado en Derecho, con título registrado y práctica profesional mínima de dos años;
+###### Artículo 19.
 
-III. No haber sido condenado por delito intencional alguno; y
+El Presidente del Consejo Consultivo será el Director General y se integrará por los miembros propietarios que señala el artículo 40, Fracción I de la Ley.
 
-IV. Aprobar el examen de oposición.
+###### Artículo 20.
 
-###### ARTICULO 36.
+El Consejo Consultivo, tendrá por función emitir recomendaciones para la Junta de Gobierno y/o el Instituto, debido a lo siguiente:
 
-Para los efectos del examen a que aluden la fracción IV de los Artículos 18 y 35 de esta Ley, se integrará un jurado con representantes, entre otros, de las escuelas de derecho y de los colegios de abogados. El Reglamento establecerá el procedimiento para la aplicación de dicho examen.
+I. Proponer mejoras sobres las políticas públicas y programas de apoyo al desarrollo del ecosistema emprendedor, la investigación científica, el desarrollo tecnológico, la innovación y el emprendimiento; así como coadyuvar con la Junta de Gobierno;
 
-###### ARTICULO 37.
+II. Las demás que le solicite la Junta de Gobierno o el Instituto.
 
-Los Defensores de Oficio y auxiliares tendrán una jornada de trabajo de tiempo completo, en los días y horas hábiles que establezca el calendario oficial de labores del Gobierno del Estado, pero deberán prestar sus servicios cuando las necesidades extraordinarias de la Defensoría a juicio de su Director lo requieran.
+###### Artículo 21.
 
-###### ARTICULO 38.
+El Consejo Consultivo celebrará sesiones ordinarias en forma trimestral, de conformidad al calendario aprobado internamente en la última sesión celebrada en el año anterior, pudiendo convocar por conducto del Presidente a reuniones extraordinarias cuantas veces sea necesario.
 
-La remuneración de los Defensores de Oficio será equivalente a la que perciban los Agentes del Ministerio Público del Fuero Común, y la de los auxiliares equivalente a la de los Delegados del Ministerio Público.
+###### Artículo 22.
 
-#### Sección Segunda. De las Obligaciones y Prohibiciones
+Cada Coordinación de Área estará a cargo de un Coordinador, quien se auxiliará de los Jefes de Departamento y personal técnico y administrativo que las necesidades del servicio requieran y que se establezcan en el organigrama, manual de organización y se autoricen en el presupuesto de egresos del ejercicio correspondiente.
 
-###### ARTICULO 39.
+###### Artículo 23.
 
-Son obligaciones de los Defensores de Oficio:
+Corresponden a los Coordinadores de Área las siguientes facultades y obligaciones comunes:
 
-I. Prestar el servicio de defensa en materia penal, en los términos prescritos por la fracción IX del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y su correlativo de la Constitución Política del Estado de Nuevo León;
+I. Auxiliar al Director General, dentro de la esfera de su competencia;
 
-II. Prestar los servicios en materias no penales a que se refieren los Artículos 2o. y 8o. de esta Ley y en los términos que señale el Reglamento;
+II. Ejecutar, organizar, dirigir, controlar y evaluar las disposiciones del Plan Sexenal de Gobierno del Estado en materia de Gestión del Conocimiento, Innovación, Ciencia y Tecnología y Emprendimiento, del Plan de Trabajo Anual, así como los programas y acciones encomendadas a cada una de sus áreas;
 
-III. Asistir diaria y puntualmente a su Area de trabajo, así como al Juzgado, Sala del Tribunal, Agencia del Ministerio Público o dependencia en la que deban ejercer sus servicios profesionales;
+III. Acordar con el Director General el despacho de los asuntos relevantes de su competencia;
 
-IV. Realizar visitas periódicas a los reos que asesoren, patrocinen o defiendan, informándoles sobre su situación jurídica y demás circunstancias de su proceso, recabando cada vez la firma del reo, o de quien lo haga a su ruego, en la tarjeta de visitas correspondiente;
+IV. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
 
-V. Comparecer en todas las audiencias y diligencias en las que la Ley establezca que debe estar presente el defensor;
+V. Elaborar el Plan de Trabajo Anual y presentarlo a la Dirección General para su posterior aprobación por la Junta de Gobierno;
 
-VI. Presentar en tiempo y forma las demandas y contestaciones, ofrecer pruebas, formular alegatos, conclusiones, promover incidentes, interponer recursos, formular agravios, promover juicios de amparo y, en general, hacer todo lo que se requiera a fin de cumplir eficazmente con la defensa, asesoría o patrocinio encomendados;
+VI. Formular los proyectos de planes, programas que le correspondan;
 
-VII. Cerciorarse de que los detenidos o internos no hayan sido torturados, golpeados, incomunicados o se les hayan violado sus derechos, en cuyo caso deberán turnar los hechos al conocimiento inmediato de su superior jerárquico para su canalización inmediata a la Comisión Estatal de Derechos Humanos;
+VII. Formular los anteproyectos del presupuesto de la Coordinación a su cargo, así como gestionar los recursos que sean necesarios para el eficaz desarrollo de las facultades que tengan encomendadas;
 
-VIII. Turnar al Area de Apoyo Técnico las solicitudes de fianzas de interés social y los recibos de multa por conversión de pena, a efecto de obtener, cuando proceda, la libertad provisional o definitiva de los inculpados;
+VIII. Llevar registro necesario de las actividades e indicadores para mantener actualizada la información estadística relativa a la gestión del conocimiento, innovación, ciencia y tecnología en el Estado;
 
-IX. Patrocinar a los reos en sus gestiones para obtener los beneficios que les otorgan las Leyes penales, tales como la libertad caucional, condena condicional, conversión de pena y otros;
+IX. Ejercer el presupuesto autorizado a su cargo, supervisando el desarrollo de los programas, proyectos, convenios, contratos y acuerdos que se relacionen con los asuntos de su competencia;
 
-X. Llevar un estricto control y relación de sus actividades por medio del registro cotidiano de las mismas en un libro de registro personal;
+X. Desempeñar las facultades o comisiones que el Director General les delegue y encomiende, manteniéndolo informado sobre su ejercicio, así como realizar las actividades necesarias para el cumplimiento de las facultades a su cargo;
 
-XI. Formar un expediente de cada uno de los asuntos que les sean encomendados, en el cual obren las promociones, documentos y resoluciones que correspondan a los mismos;
+XI. Formular dictámenes, opiniones e informes que le sean encomendados por el Director General en aquellos asuntos que sean propios de su competencia;
 
-XII. Rendir al coordinador del Area un informe mensual de los asuntos manejados, en el que se expresará el estado en que se encuentre cada asunto, la resolución recaída en su caso, y cualquiera otra circunstancia u observación pertinentes;
+XII. Suscribir los documentos relativos al ejercicio de sus facultades, conferidas de origen, que le sean otorgadas por delegación o bien conforme al régimen de suplencia o sustitución;
 
-XIII. Asistir y participar en los programas de capacitación y actualización de la Defensoría;
+XIII. Auxiliar al Director General en la rendición de informes a la Junta de Gobierno;
 
-XIV. Representar con el debido profesionalismo a quien se defienda, patrocine o asesore, atender con cortesía a los usuarios y prestar los servicios con diligencia y responsabilidad; y
+XIV. Mantener actualizado al Director General de las actividades realizadas por el área que coordina;
 
-XV. Las demás que establezcan esta Ley y su Reglamento.
+XV. Coordinarse con las diferentes dependencias de los tres niveles de gobierno y con los diversos organismos públicos y privados del país que manejen programas afines a su Coordinación;
 
-El Reglamento determinará los libros de registro y los elementos que contendrán, para el efecto del cumplimiento de la obligación establecida en la fracción X de este Artículo.
+XVI. Asistir a las sesiones a las que sean citados en asuntos de su competencia;
 
-###### ARTICULO 40.
+XVII. Solicitar y rendir a las Dependencias, Jefaturas de Departamento, Unidades de Apoyo y entidades del Poder Ejecutivo la información y documentación que se requiera para el cabal cumplimiento de sus obligaciones, respetando en todo momento la legislación que en materia de Transparencia y Acceso a la Información Pública rija en el Estado de Aguascalientes;
 
-Está prohibido a los Defensores de Oficio:
+XVIII. Auxiliar al Director General en la vigilancia y cumplimiento por parte de los servidores públicos adscritos al INCyTEA, de los reglamentos, decretos, acuerdos, lineamientos, órdenes, circulares y demás disposiciones que emita el Poder Ejecutivo por sí mismo o por conducto de la Secretaría de Fiscalización y Rendición de Cuentas del Estado o cualquier otra dependencia u organismo;
 
-I. El libre ejercicio de la profesión de Abogado. Sólo podrán ejercer en cumplimiento de su cargo, así como en causa propia, de su cónyuge o concubina y de parientes hasta el cuarto grado, por consanguinidad o afinidad;
+XIX. Autorizar por escrito a los servidores públicos subalternos para que firmen la correspondencia y documentación relacionada con los asuntos de su competencia;
 
-II. Actuar como apoderados judiciales, tutores, curadores o albaceas, a menos que sean herederos o legatarios, ni podrán ser depositarios judiciales, síndicos, administradores, interventores en quiebra o concurso, ni corredores, comisionistas, árbitros o arbitradores, ni fiadores en los asuntos en que intervengan o hubieren intervenido, oficialmente;
+XX. Establecer y conducir procesos de evaluación externa y de rendición de cuentas de los programas del INCyTEA;
 
-III. Cobrar honorarios, solicitar o recibir beneficio alguno, por sí mismos o por interpósita persona, como compensación por los servicios oficiales que presten; y
+XXI. Colaborar con la Unidad de Enlace de Transparencia en el establecimiento y cumplimiento de los mecanismos e instrumentos regulados en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
 
-IV. Desempeñar funciones que fuesen incompatibles con las que les corresponden conforme a esta Ley y su Reglamento.
+XXII. Expedir las certificaciones de documentos que obren en sus archivos;
 
-#### Sección Tercera. De las Excusas, de las Causas de Negación y el Retiro del Servicio
+XXIII. Formular, conforme a los lineamientos establecidos por el Director General, los proyectos de manuales de organización, procedimiento y servicios correspondientes a la Coordinación a su cargo;
 
-###### ARTICULO 41.
+XXIV. Elaborar proyectos sobre la creación, modificación, organización, fusión o desaparición de las unidades a su cargo;
 
-Los defensores adscritos a las Areas Penales deberán excusarse de aceptar o continuar la defensa de un acusado en los casos y en los términos previstos en el Título Octavo, Capítulo Segundo, del Código de Procedimientos Penales del Estado de Nuevo León, sin perjuicio de lo que al respecto dispongan esta Ley y su Reglamento.
+XXV. Proponer al Director General el ingreso, promoción, sanción, remoción, baja y licencias del personal de la Coordinación a su cargo; y
 
-###### ARTICULO 42.
+XXVI. Las demás facultades que les sean asignadas por el Director General y las que le confieran las disposiciones legales y administrativas vigentes.
 
-Los Defensores adscritos al Area de Asuntos No Penales deberán excusarse de aceptar o continuar la asesoría o el patrocinio de un asunto cuando:
+###### Artículo 24.
 
-I. Tengan interés directo o indirecto en el asunto de que se trate;
+Al frente de la Coordinación de Desarrollo Tecnológico, habrá un Coordinador a quien le corresponde el despacho, atención y resolución de los asuntos de su competencia, en ejercicio de las facultades siguientes:
 
-II. Tengan relaciones familiares, de afecto o amistad con la parte contraria al solicitante del servicio;
+I. Vigilar y promover que el personal del Museo se conduzca de acuerdo con la misión, visión y estrategia planteada en cada uno de sus servicios prestados;
 
-III. Sean deudor, socio, arrendatario, heredero, tutor o curador de la parte contraria al solicitante del servicio.
+II. Desarrollar y promover los programas estratégicos del Museo;
 
-###### ARTICULO 43.
+III. Generar los vínculos interinstitucionales a fin de mantener actualizados los contenidos museísticos y con ello cumplir con el fomento de los avances tecnológicos;
 
-No se proporcionará el servicio de Defensoría en asuntos no penales en los casos siguientes:
+IV. Promover actividades con la finalidad de crear públicos interesados en la ciencia, tecnología, innovación y emprendimiento y mantener el interés en los públicos cautivos;
 
-I. Cuando las condiciones socioeconómicas del solicitante o la cuantía del asunto no estén dentro de los extremos previstos para la prestación del servicio, conforme al Reglamento;
+V. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
 
-II. Cuando la finalidad del solicitante sea obtener un lucro;
+VI. Impulsar el adiestramiento en la investigación científico-técnica estimulando a los visitantes al acceso de los conocimientos básicos de la cultura científica;
 
-III. Cuando el solicitante haya sido previamente contraparte de la Defensoría de Oficio en el asunto en el que se solicita el servicio.
+VII. Gestionar elementos museísticos y didácticos orientados al conocimiento para la divulgación de la ciencia, tecnología, innovación y emprendimiento;
 
-###### ARTICULO 44.
+VIII. Administrar los recursos que le sean asignados para la operación de la Coordinación de Desarrollo Tecnológico;
 
-La Defensoría de Oficio podrá retirar el servicio en los asuntos no penales, cuando:
+IX. Elaborar el anteproyecto de presupuesto del Museo;
 
-I. Desaparezcan las causas socioeconómicas que dieron origen a la prestación del servicio;
+X. Elaborar el informe anual de actividades del Museo que habrá de presentar el Director General ante la Junta de Gobierno;
 
-II. El usuario manifieste en forma fehaciente que no tiene interés en que se le siga prestando el servicio;
+XI. Solicitar el apoyo del Departamento Jurídico en la elaboración de los convenios y contratos que sean necesarios para el cumplimiento de los objetivos del Museo;
 
-III. El solicitante del servicio incurra en falsedad en los datos proporcionados, o él o sus familiares cometan actos de violencia física o verbal, amenazas o injurias en contra del defensor o el personal de la Defensoría.
+XII. Revisar y consensuar con las diversas áreas del INCyTEA los programas, actividades y acciones que directamente involucran las funciones del Museo y su vocación de divulgación de la cultura científica;
 
-#### Sección Cuarta. De las Responsabilidades
+XIII. Coordinar las acciones que involucren el uso y mantenimiento de las instalaciones del Museo;
 
-###### ARTICULO 45.
+XIV. Llevar el registro de las actividades e indicadores para mantener actualizada la información estadística relativa a la gestión del conocimiento y la ciencia y la tecnología en el ámbito que corresponde a las actividades del Museo;
 
-Serán causa de responsabilidad oficial de los defensores, las siguientes:
+XV. Formular conforme a los lineamientos administrativos establecidos, los proyectos de manuales de organización, procedimiento y servicios correspondientes a la Coordinación a su cargo;
 
-I. Incurrir en las conductas prohibidas señaladas en el Artículo 40 de esta Ley;
+XVI. Establecer mecanismos para la evaluación de las acciones emprendidas en relación con el Plan Estatal de Ciencia y Tecnología, el Programa Operativo Anual y los diversos programas del Museo;
 
-II. Negar, sin causa justificada, la defensa, asesoría y patrocinio que deban prestar conforme a la Ley;
+XVII. Aprobar y promover el plan de difusión y promoción del Museo; y
 
-III. Demorar, sin justificación, la atención de los asuntos que se les hubieren encomendado;
+XVIII. Las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
 
-IV. No promover oportunamente los recursos legales que procedan o incurrir en negligencia en la presentación de pruebas que favorezcan a su defenso o patrocinado; y
+###### Artículo 25.
 
-V. No cumplir las demás obligaciones que les correspondan conforme a esta u otras leyes y demás disposiciones aplicables.
+Al frente de la Coordinación de Vinculación e Investigación habrá un Coordinador a quien le corresponde el despacho, atención y resolución de los asuntos de su competencia, en ejercicio de las facultades siguientes:
 
-Las responsabilidades a que este Artículo se refiere darán lugar a la remoción del cargo, sin perjuicio de lo que proceda conforme al Código Penal, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y demás ordenamientos aplicables.
+I. Dar cumplimiento a las disposiciones del Plan de Gobierno del Estado;
 
-#### Sección Quinta. De los Auxiliares de los Defensores
+II. Proponer al Director General el proyecto del Plan Estatal de Ciencia y Tecnología, coordinando las acciones a emprender para su conformación, organización, control, evaluación, conducción y coordinación;
 
-###### ARTICULO 46.
+III. Coordinar, supervisar, continuar, informar y concertar programas de vinculación, investigación, formación y capacitación entre las instituciones de investigación, el sector productivo y las instituciones de educación en el Estado;
 
-Los Auxiliares de los Defensores se desempeñarán en las áreas penales de Averiguaciones Previas y de Control de Procesos o en las que puedan prestar el servicio de Defensoría conforme a las Leyes, tendrán las mismas obligaciones y prohibiciones de los Defensores de Oficio y estarán sujetos a las causales de responsabilidad señaladas en el Artículo anterior.
+IV. Emprender acciones concretas para fomentar la vinculación con el sector académico y la comunidad científica y tecnológica del Estado;
 
-###### ARTICULO 47.
+V. Coadyuvar al fortalecimiento de la infraestructura de investigación, desarrollo e innovación tecnológica, que promuevan la creación tanto de Centros de Investigación como de Empresas de Base Tecnológica;
 
-Para ser Auxiliar de Defensor de Oficio se requiere:
+VI. Ejecutar las acciones relativas al cumplimiento de los planes y programas del INCyTEA;
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+VII. Establecer mecanismos para la evaluación de las acciones emprendidas en relación con el Plan Estatal de Ciencia y Tecnología, el Programa Operativo Anual y los diversos programas del INCyTEA;
 
-II. Ser Licenciado en Derecho o Pasante; y
+VIII. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
 
-III. Tener un año de experiencia profesional, como mínimo.
+IX. Dar seguimiento y verificar el cumplimiento de las condiciones establecidas en las convocatorias y convenios realizados en virtud del otorgamiento de apoyos, solicitando informes sobre la aplicación de los recursos y resultados obtenidos;
 
-El requisito establecido en la fracción tercera de este Artículo podrá acreditarse computando el tiempo que el aspirante a auxiliar haya ejercido como meritorio o en servicio social en la Defensoría, en juzgados o agencias del Ministerio Público.
+X. Procurar el cumplimiento de las obligaciones establecidas en los convenios celebrados por beneficiarios de los recursos públicos e informar de su incumplimiento al Coordinador Administrativo para la realización de las acciones que procedan;
 
-### CAPITULO QUINTO. Del Apoyo Técnico a los Defensores
+XI. Participar en la elaboración de planes y programas de estudios que tengan por objeto la creación, fomento y desarrollo de la cultura científica y tecnológica entre los alumnos de los distintos niveles y modalidades del sistema educativo estatal;
 
-###### ARTICULO 48.
+XII. Reportar resultados de actividades, en base a indicadores establecidos en el proceso correspondiente, así como realizar propuestas de mejora en el mismo;
 
-La Coordinación de Apoyo Técnico proporcionará a los defensores, para el mejor desempeño de sus funciones, los siguientes servicios técnicos:
+XIII. Auxiliar al Director General en sus facultades como órgano de consulta para las dependencias del Poder Ejecutivo, Organismos Públicos Descentralizados y Municipios del Estado, en materia de Gestión del Conocimiento y Ciencia y Tecnología;
 
-I. El informe socioeconómico del solicitante de los servicios de la Defensoría en asuntos no penales;
+XIV. En materia de vinculación sobre Gestión del Conocimiento, Innovación, Ciencia y Tecnología:
 
-II. El trámite de las fianzas de interés social y de los recibos de multa por conversión de pena, para la obtención de la libertad de los acusados carentes de recursos económicos; y
+a) Proponer la celebración de convenios, enlaces, intercambios, trabajo en equipo con la Federación, Estados, Municipios, Organismos Regionales e Internacionales, Personas Físicas o Morales, Públicas o Privadas, Institutos de Educación Superior Locales, Nacionales e Internacionales, para el cumplimiento de su objeto y al ejercicio de sus facultades;
 
-III. El auxilio y asesoría de peritos en las especialidades requeridas por la Defensoría.
+b) Proponer la constitución, dirigir y coordinar la operación, funcionamiento, control y evaluación, de los fondos regulados en la Ley;
 
-###### ARTICULO 49.
+c) Coordinar, supervisar, continuar, informar y concertar programas de vinculación, investigación, formación y capacitación entre las instituciones de investigación, el sector productivo y las instituciones de educación superior;
 
-La Coordinación de Apoyo Técnico contará con los servicios de trabajadores sociales para los casos a que se refieren las fracciones I y II del Artículo anterior y demás que establezcan esta Ley y su Reglamento, y con los peritos necesarios para el caso de la fracción III de la misma disposición. El Reglamento establecerá las especialidades de los peritos, la organización y el funcionamiento de los servicios de apoyo técnico.
+d) Realizar acciones concretas y establecer contacto permanente con los sectores productivos del Estado, convocarlos y recibir sus solicitudes a fin de identificar necesidades y soluciones de proyectos de investigación, desarrollo tecnológico y formación de recursos humanos, a financiar con recursos del INCyTEA, o de los Fondos constituidos de conformidad con la Ley, o en coordinación con el INCyTEA para la generación y ejecución de proyectos de investigación científica y desarrollo tecnológico a desarrollar con apoyos del INCyTEA;
 
-En caso necesario, cuando carezca de peritos propios, la Defensoría podrá contratar los servicios de especialistas externos, a solicitud y por cuenta del usuario.
+e) Coadyuvar al fortalecimiento de la infraestructura de investigación y desarrollo tecnológico a través del apoyo a proyectos de investigación, desarrollo e innovación tecnológica, que promuevan la creación de centros e institutos de investigación y desarrollo tecnológico, así como la constitución y desarrollo de empresas que empleen tecnología;
 
-###### ARTICULO 50.
+f) Manejar una red de enlace con los centros de investigación, instituciones de educación media y superior, organismos públicos y privados y las empresas y comercios con la finalidad de facilitar la vinculación entre los diversos sectores en materia de investigación científica, desarrollo tecnológico, divulgación y formación de capital humano;
 
-El estudio socioeconómico, señalado en la fracción I del Artículo 48 de este ordenamiento, tendrá por objeto determinar si el solicitante de los servicios de Defensoría en asuntos no penales reúne los requisitos establecidos en esta Ley y el Reglamento para recibir el servicio.
+g) Emprender acciones concretas para fomentar la vinculación con el sector académico y la comunidad científica y tecnológica del Estado;
 
-###### ARTICULO 51.
+h) Vincularse con las instituciones de educación media y superior, así como con el Instituto de Educación de Aguascalientes para la implementación y ejecución de diversos programas relacionados con el objeto, facultades y fines del INCyTEA;
 
-La Defensoría de Oficio será la única entidad autorizada para la realización del trámite de las fianzas de interés social y de los recibos de multa por conversión de pena a que alude la fracción II del Artículo 48 de esta Ley.
+i) Promover la constitución y coordinar la operación del Registro Estatal de Investigación Científica y Tecnológica del Estado de Aguascalientes de conformidad con la Ley;
 
-### CAPITULO SEXTO. Del Consejo de Colaboración
+j) Ejecutar los programas de vinculación que se incluyan en el Programa Operativo Anual;
 
-###### ARTICULO 52.
+k) Dar seguimiento a los convenios que en materia de vinculación se celebraron por parte del INCyTEA; y
 
-El Consejo de Colaboración será un órgano de consulta y asesoría, sin facultades decisorias, que presidirá el Director y deberá integrarse, entre otros, con representantes de las facultades de derecho de la localidad, de los colegios y asociaciones de abogados de la entidad y de las organizaciones no gubernamentales de defensa de los derechos humanos. El Reglamento determinará su funcionamiento.
+l) Informar del incumplimiento a los convenios de apoyo de vinculación a la Coordinación Administrativa para el ejercicio de las acciones que procedan;
 
-###### ARTICULO 53.
+XVIII. En materia de Divulgación de Gestión del Conocimiento, Innovación, Ciencia y Tecnología y Emprendimiento:
 
-El Consejo de Colaboración se integrará con un presidente que será el Director de la Defensoría de oficio, y con doce consejeros designados por el Secretario General de Gobierno y que deberán ser:
+a) Coordinar la realización de la Semana Nacional de Ciencia y Tecnología, del Simposio de Investigación y cualquier otro evento de divulgación que proponga el INCyTEA y/o el Gobierno del Estado de Aguascalientes;
 
-I. Los Directores de cinco Facultades de Derecho de la localidad;
+b) Coordinar las actividades permanentes de divulgación de la gestión del conocimiento, científica y tecnológica en el Estado y en los Municipios a través de los vagones de la ciencia, las casas de la ciencia en los Municipios o cualquier otra que se incluya en los programas operativos anuales;
 
-II. Los Presidentes de cinco Colegios de Abogados de la Entidad; y
+XIX. En materia de Formación de Capital Humano Especializado:
 
-III. Dos representantes de organizaciones no gubernamentales de defensa de los derechos humanos en el Estado.
+a) Proponer acciones concretas y establecer programas relacionados con la formación de capital humano especializado en el Estado;
 
-Para la determinación de las facultades de derecho y colegios de abogados que integrarán el consejo, se tomará en cuenta el prestigio de la institución y el número de alumnos o miembros de unas y otros. Los mismos criterios se aplicarán, en lo que procedan, en el caso de las organizaciones de defensa de los derechos humanos.
+b) Identificar necesidades de capital humano científico y tecnológico, de manera conjunta con el sector productivo, así como académico y de investigación;
 
-###### ARTICULO 54.
+c) Proponer la celebración de convenios con instituciones públicas y privadas, nacionales o internacionales con el objeto de establecer programas y alianzas estratégicas para el financiamiento dirigido a la formación y el desarrollo de la capacidad científica y tecnológica del Estado;
 
-Corresponde al Consejo de Colaboración:
+d) Formular programas de becas y en general de apoyo a la formación de capital humano científico y tecnológico, en sus diversas modalidades, así como integrar la información de los programas de becas que ofrezcan otras instituciones nacionales, organismos internacionales y gobiernos extranjeros, a fin de optimizar los recursos en esta materia y establecer esquemas eficientes de coordinación, en los términos de las convocatorias que para el efecto se emitan;
 
-I. Emitir recomendaciones sobre políticas y acciones a seguir para el mejoramiento de los servicios y la imagen de la Defensoría;
+e) Fomentar, difundir e informar programas de intercambio de profesores, investigadores y técnicos nacionales y extranjeros, para el desarrollo de proyectos estatales de investigación y desarrollo tecnológico;
 
-II. Dar respuesta a las consultas que sobre las materias citadas en la fracción anterior le sean planteadas;
+f) Establecer mecanismos de evaluación de resultados de los diversos programas de apoyo para la formación de recursos humanos realizados con recursos del INCyTEA, o por gestión de éste;
 
-III. Promover la colaboración de instituciones y organismos públicos y privados, que puedan brindar asesoría técnica a la Defensoría, apoyar la consecución de becas y patrocinios académicos para los defensores y fomentar la participación de éstos en actividades que tiendan a elevar su calidad profesional;
+g) Coordinarse con las diversas instituciones del Estado para la promoción de la integración de una bolsa de trabajo en relación con los recursos humanos formados con recursos del INCyTEA;
 
-IV. Promover la participación de las entidades mencionadas en la fracción anterior con iniciativas que apoyen los programas estatales de libertad provisional bajo caución a personas de bajos recursos económicos, como el señalado en la fracción II del Artículo 48 de esta Ley;
+h) Realizar acciones tendientes a la elaboración y actualización del inventario de capital humano científico y tecnológico;
 
-V. Fomentar y auspiciar la realización de estudios relacionados con el perfeccionamiento del sistema de asistencia legal;
+XX. Las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
 
-VI. Formular y poner a consideración del Ejecutivo del Estado el Reglamento de esta Ley; y
+###### Artículo 26.
 
-VII. Todas las demás facultades que esta Ley y su Reglamento le confieran.
+Al frente de la Coordinación de Transferencia Tecnológica y de Propiedad Intelectual habrá un Coordinador a quien le corresponde el despacho, atención y resolución de los asuntos de su competencia, en ejercicio de las facultades siguientes:
 
-###### ARTICULO 55.
+I. Definir, diseñar, desarrollar e implementar los diversos programas y políticas de apoyo, incluyendo el otorgamiento de premios y reconocimientos por logros en ciencia y tecnología orientados a promover y fortalecer el Desarrollo de la Investigación Científica;
 
-El Consejo celebrará, en la forma y términos que establezca el Reglamento de esta Ley, por lo menos una sesión ordinaria cada noventa días, y las sesiones extraordinarias que se requieran en todos los casos las sesiones deberán ser convocadas por su presidente.
+II. Definir acciones específicas a incluir en el Programa Operativo Anual de las áreas de investigación, vinculación, divulgación, formación de recursos humanos y estadística;
 
-Para que las sesiones sean válidas, se requerirá la asistencia de cuando menos la mitad más uno de los integrantes del Consejo.
+III. Auxiliar al Director General en sus facultades como órgano de consulta para las dependencias del Poder Ejecutivo, Organismos Públicos Descentralizados y Municipios del Estado, en materia de Gestión del Conocimiento y Ciencia y Tecnología;
 
-###### ARTICULO 56.
+IV. Proponer para su revisión a la Coordinación Jurídica y su posterior trámite, los términos de las convocatorias y convenios a realizar a fin de otorgar los diversos apoyos, premios y becas, así como coordinar y supervisar la recepción de solicitudes de cada convocatoria;
 
-Para la aprobación de los asuntos planteados al Consejo, se requiere el voto de la mitad más uno de los asistentes a la sesión.
+V. Vigilar que dentro de los instrumentos de apoyo que celebre el INCyTEA se regule adecuadamente la protección de la información, las reglas y porcentajes para la participación de regalías, la transferencia de tecnología y en coordinación con la Coordinación Jurídica, lo relativo a la protección de la Propiedad Intelectual;
 
-En todos los casos el presidente del Consejo contará con voto de calidad para el caso de empate.
+VI. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
 
-###### ARTICULO 57.
+VII. Reportar resultados de actividades, en base a indicadores establecidos en el proceso correspondiente, así como realizar propuestas de mejora en el mismo;
 
-Las convocatorias para las sesiones contendrán referencia expresa de la fecha y lugar en que se celebrarán, naturaleza de la sesión y el orden del día que contendrá, por lo menos, los siguientes puntos:
+VIII. Promover la difusión y publicación de las actividades y resultados de las investigaciones y desarrollos tecnológicos realizados por los investigadores del Estado;
 
-I. Verificación del quórum para declarar la apertura de la sesión;
+XI (SIC). Las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
 
-II. Lectura y en su caso, aprobación del acta de la sesión anterior; y
+###### Artículo 27.
 
-III. Los asuntos determinados a tratar.
+Al frente de la Coordinación Administrativa habrá un Coordinador a quien le corresponde el despacho, atención y resolución de los asuntos de su competencia, en ejercicio de las facultades siguientes:
 
-De cada sesión se levantará un acta que contenga las resoluciones y acuerdos tomados.
+I. Administrar los recursos humanos, financieros, materiales y servicios del INCyTEA;
+
+II. Cumplir y vigilar el cumplimiento de las disposiciones legales, lineamientos, órdenes y circulares en materia de administración de recursos;
+
+III. Difundir y vigilar el cumplimiento de las políticas, normas, criterios, sistemas y procedimientos en materia administrativa y presupuestal establecidos en el INCyTEA;
+
+IV. Gestionar, supervisar y controlar el ejercicio de las erogaciones con base en el presupuesto asignado;
+
+V. Elaborar el anteproyecto del presupuesto de egresos del INCyTEA;
+
+VI. Enviar mensual y anualmente la cuenta pública, los estados financieros y la balanza de comprobación para su conocimiento y firma, así como toda la información que muestre el avance financiero de los proyectos estratégicos y de los programas establecidos por el INCyTEA, a las instancias correspondientes;
+
+VII. Gestionar los trámites necesarios ante las diversas Secretarías para el manejo de los recursos;
+
+VIII. Vigilar la aplicación transparente de los recursos institucionales de acuerdo a las leyes que en materia de transparencia y rendición de cuentas sean aplicables al INCyTEA;
+
+IX. Establecer los controles que permitan identificar la correcta aplicación y el adecuado aprovechamiento de los recursos del INCyTEA, dar cumplimiento a las disposiciones legales en materia fiscal y de seguridad social;
+
+X. Mantener actualizados los registros patrimoniales, a través de inventarios de mobiliario y equipo, padrón vehicular, maquinaria pesada y de bienes inmuebles, así como vigilar el buen uso y cuidado de ellos;
+
+XI. Elaborar y coordinar el flujo de información solicitada y proporcionada por otras dependencias del Ejecutivo del Estado en materia de desarrollo de personal, mobiliario y equipo;
+
+XII. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
+
+XIII. Asistir al Director General en el seguimiento de acuerdos emitidos por la Junta de Gobierno, así como de los diversos Comités de los que el INCyTEA forme parte;
+
+XIV. Coordinar e instrumentar con las instancias de los sectores público, privado y social, que realicen actividades de ciencia y tecnología y que se relacionen con el objeto del INCyTEA, los apoyos complementarios en el ámbito de sus facultades, de conformidad con las disposiciones normativas que para el efecto se emitan, sin menoscabo de lo que en el ámbito de su competencia le corresponda al Director General;
+
+XV. Coordinar la cobranza de los pasivos del INCyTEA, sea que se realice por el propio personal del INCyTEA o por despacho externo;
+
+XVI. Supervisar la continua actualización de la información publicada en la página web del INCyTEA, a fin de cumplir con las disposiciones emanadas de la Ley de Transparencia y Acceso a la Información Pública en el Estado;
+
+XVII. Realizar las acciones necesarias para el mantenimiento general de las instalaciones, equipo de cómputo y flotilla vehicular del INCyTEA;
+
+XVIII. Asesorar al personal del INCyTEA en relación con la presentación de las diversas declaraciones patrimoniales que deben efectuar según la Ley de Responsabilidades;
+
+XIX. Supervisar y controlar al personal del INCyTEA en materia de cumplimiento de normas disciplinarias, incluidas las relativas a la Ley de Responsabilidades;
+
+XX. Promover el desarrollo y capacitación del personal del INCyTEA;
+
+XXI. Atender las peticiones del personal del INCyTEA relativas a los recursos necesarios para la realización de sus actividades;
+
+XXII. Vigilar que el mantenimiento de las instalaciones del INCyTEA estén en buen estado;
+
+XXIII. Fomentar la celebración de convenios con instituciones de educación media y superior a fin de establecer programas de servicio social y prácticas profesionales, para que jóvenes estudiantes participen en las actividades desarrolladas por el INCyTEA;
+
+XXIV. Reportar resultados de actividades, en base a indicadores establecidos en el proceso correspondiente, así como realizar propuestas de mejora en el mismo;
+
+XXV. Apoyar a todas las áreas del INCyTEA en el desarrollo de sus facultades de carácter administrativo; y
+
+XXVI. Las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 28.
+
+Al frente de la Coordinación Jurídica habrá un Coordinador a quien le corresponde el despacho, atención y resolución de los asuntos de su competencia, en ejercicio de las facultades siguientes:
+
+I. Auxiliar al Director General en el cumplimiento de sus facultades;
+
+II. Asistir al Director General en sus obligaciones para el correcto funcionamiento de las sesiones de la Junta de Gobierno, así como en los demás comités o consejos en los que como representante del INCyTEA presida o forme parte de conformidad con la ley o el documento público respectivo;
+
+III. Revisar las convocatorias, informes, documentos, proyectos o solicitudes previos a su presentación a la Junta de Gobierno;
+
+IV. Asistir al Director General en el seguimiento de acuerdos emitidos por la Junta de Gobierno;
+
+V. Elaborar o, en su caso, proponer los términos y revisar los contratos, convenios, acuerdos, circulares, actas administrativas y laborales, poderes y otros instrumentos jurídicos en que intervenga el INCyTEA de conformidad con las leyes en el Estado de Aguascalientes;
+
+VI. Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que le sean formuladas por el titular del INCyTEA, por las otras Direcciones de Área o por los responsables de las unidades administrativas de la dependencia;
+
+VII. Asesorar al Director General en los procedimientos judiciales y administrativos en que el INCyTEA tenga injerencia;
+
+VIII. Proponer los términos de las demandas, denuncias o querellas que procedan de conformidad con la legislación aplicable, así como la contestación de estas que lleguen a formularse en los que intervenga el INCyTEA;
+
+IX. Elaborar los informes previos y justificados a cargo del INCyTEA, e intervenir en el cumplimiento de las resoluciones respectivas;
+
+X. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos;
+
+XI. Coadyuvar en la elaboración y revisión, en su caso, de los proyectos de iniciativas de leyes, reglamentos y decretos de competencia del INCyTEA de conformidad con los lineamientos específicos que determine el titular de esta;
+
+XII. Proporcionar consultoría jurídica a las empresas, clúster, asociaciones civiles, centros de investigación, instituciones de educación media y superior que lo soliciten dentro del ámbito de competencia del INCyTEA;
+
+XIII. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
+
+XIV. Cotejar documentos y emitir certificaciones en relación con las facultades, documentos, actas y archivos que obren en el INCyTEA; y
+
+XV. Las demás que le confieran las disposiciones legales aplicables y las que delegue el titular del INCyTEA, dentro de la esfera de sus facultades.
+
+### CAPÍTULO VI. Jefaturas de Departamento
+
+###### Artículo 29.
+
+Los Coordinadores de Área se apoyarán en el ejercicio de sus facultades de diversas Jefaturas de Departamento, las cuales tendrán al frente a un titular que será un Jefe de Departamento, quien tendrá a su cargo el personal técnico y administrativo que las necesidades del servicio requieran y se establezcan en el presupuesto de egresos, organigrama y manual de organización del INCyTEA.
+
+###### Artículo 30.
+
+Para los efectos de este Estatuto, los titulares de las Jefaturas de Departamento tendrán el mismo rango, no existiendo relación jerárquica entre sí, y deberán coordinarse para el mejor cumplimiento de sus facultades.
+
+###### Artículo 31.
+
+Corresponden a los Jefes de Departamento las siguientes facultades y atribuciones generales:
+
+I. Auxiliar al Director General y al Coordinador del Área correspondiente dentro de la esfera de su competencia;
+
+II. Ejecutar las acciones comprendidas en los planes y programas que se relacionen con los asuntos de su competencia, así como las facultades o comisiones que el Director General o el Coordinador del Área correspondiente les delegue y encomiende, manteniéndolos informados sobre su ejercicio y realización;
+
+III. Colaborar y auxiliar a los Coordinadores de Área en la integración de los planes y programas del INCyTEA, incluyendo el Plan Estatal de Ciencia y Tecnología, el Programa Operativo Anual y el anteproyecto del presupuesto de egresos en relación con su ámbito de competencia;
+
+IV. Llevar a cabo registro de sus actividades con la finalidad de integrar el informe que deberá ser rendido por el Director General a la Junta de Gobierno;
+
+V. Actualizar la página de internet y, mantener actualizada la información estadística relativa a la gestión del conocimiento, así como la de la ciencia y la tecnología en el Estado;
+
+VI. Proponer la celebración de convenios, enlaces, intercambios, trabajo en equipo con la Federación, Estados, Municipios, Organismos Regionales e Internacionales, Personas Físicas o Morales, Públicas o Privadas, Institutos de Educación Superior Nacionales e Internacionales, para el cumplimiento de su objeto y al ejercicio de sus facultades;
+
+VII. Coordinarse con las diferentes dependencias de los tres niveles de gobierno y con los diversos organismos públicos y privados del país que manejen programas afines a su área para el mejor cumplimiento de sus facultades;
+
+VIII. Asistir a las sesiones a las que sean citados en asuntos de su competencia;
+
+IX. Acordar con su superior inmediato, o la jefatura del departamento afín, los asuntos que tengan asignados;
+
+X. Participar y llevar a cabo toda clase de eventos, foros, convenciones, cursos, congresos, exposiciones y demás eventos relacionados con los sectores público, privado y académico para el cumplimiento de sus objetivos;
+
+XI. Coordinarse y prestar apoyo a los demás departamentos que integran el INCyTEA, para el mejor cumplimiento de su objeto y fines;
+
+XII. Colaborar con la Unidad de Enlace y el área Jurídica en el cumplimiento de las obligaciones reguladas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y en la Ley del Procedimiento Administrativo del Estado de Aguascalientes;
+
+XIII. Ofrecer asesoría, información y atención profesional, a los ciudadanos que soliciten sus servicios en relación con las actividades de su departamento;
+
+XIV. Formular dictámenes y opiniones que le sean solicitados por sus superiores jerárquicos;
+
+XV. Proponer los términos de las convocatorias que el INCyTEA emita para la realización de los programas asignados al departamento correspondiente;
+
+XVI. Asesorar y apoyar técnicamente, en asuntos de su especialidad a los demás departamentos y áreas del INCyTEA; y
+
+XVII. Las demás facultades que le sean asignadas por el Director General y el Coordinador de la Coordinación de Área correspondiente, y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+#### Sección Primera. Jefaturas de Departamento adscritas a la Dirección General
+
+###### Artículo 32.
+
+La Dirección General será auxiliada en sus facultades por la siguiente Jefatura de Departamento:
+
+I. Jefatura del Departamento de Promoción y Difusión.
+
+###### Artículo 33.
+
+El Jefe de Promoción y Difusión tendrá las facultades y atribuciones siguientes:
+
+I. Difundir, organizar, y dirigir todas aquellas actividades relacionadas con la difusión institucional;
+
+II. Monitorear la información que de forma cotidiana emiten los medios de comunicación masiva en materia de ciencia, tecnología e innovación que tenga una repercusión en las actividades institucionales;
+
+III. Encargarse de la vinculación institucional con los medios de comunicación masiva;
+
+IV. Promover las actividades, atractivos y servicios que ofrece la institución;
+
+V. Supervisar la imagen institucional en medios de comunicación;
+
+VI. Proponer la información a difundir por los diferentes medios de comunicación y público en general;
+
+VII. Planear, controlar y evaluar el plan de trabajo de promoción y difusión con las áreas involucradas;
+
+VIII. Generar las pautas para los medios de comunicación que asisten a los eventos del INCYTEA;
+
+IX. Crear estrategias innovadoras para tener una comunicación efectiva y de impacto al ciudadano sobre los proyectos a promocionar;
+
+X. Analizar y autorizar el contenido del material impreso: revistas, folletos, boletines informativos y convocatorias de ciencia y tecnología, para promover el conocimiento científico y tecnológico;
+
+XI. Supervisar la búsqueda efectiva para transmitir la información a la ciudadanía mediante medios impresos, radio, televisión, prensa, medios digitales y redes sociales;
+
+XII. Autorizar las incidencias y evaluar el desempeño del personal a su cargo;
+
+XIII. Mantener enlace con la Dirección General del INCYTEA para autorización de información a difundir de todas las áreas;
+
+XIV. Dar seguimiento al programa anual de actividades para su cumplimiento;
+
+XV. Contribuir en la colaboración y planeación de la Ley de Ingresos, así como el presupuesto anual; y
+
+XVI. Las demás facultades que le sean asignadas por el Director General y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+#### Sección Segunda. Jefaturas de Departamento adscritas a la Coordinación de Desarrollo Tecnológico
+
+###### Artículo 34.
+
+La Coordinación de Desarrollo Tecnológico, será auxiliada en sus facultades por las siguientes Jefaturas de Departamento:
+
+I. Jefatura del Departamento de Atención Educativa;
+
+II. Jefatura del Departamento de Comunicación y Mercadotecnia;
+
+III. Jefatura del Departamento Museístico;
+
+IV. Jefatura del Departamento de Reservación de Grupos y Gestión de Recursos; y
+
+V. Jefatura del Departamento de Visualización Científica.
+
+### CAPÍTULO III. Dirección General
+
+#### Sección Primera. Coordinación de Desarrollo Tecnológico
+
+###### Artículo 35.
+
+El Jefe de Departamento de Atención Educativa tendrá las facultades y atribuciones siguientes:
+
+I. Planear, organizar, supervisar y controlar todas aquellas actividades relacionadas con los servicios educativos y atención a los visitantes;
+
+II. Proponer y desarrollar los contenidos temáticos de las actividades educativas del Museo;
+
+III. Supervisar el desarrollo de los programas asignados a sus áreas y gestionar los recursos establecidos para su cumplimiento;
+
+IV. Analizar y proponer el contenido educativo informativo que se genera para la divulgación en los diferentes medios de comunicación;
+
+V. Elaborar y dar seguimiento al Programa Anual de Actividades Educativas;
+
+VI. Autorizar las incidencias del departamento y evaluar el desempeño del personal a su cargo;
+
+VII. Promover la formación del personal a su cargo en contenido temático de las salas, exposiciones del Museo, así como lo relacionado con el desarrollo humano y la atención de calidad;
+
+VIII. Coordinar los guiones temáticos de las exposiciones temporales, así como aportar mejoras en las salas interactivas del Museo;
+
+IX. Promover un servicio de calidad por medio de un programa de evaluación y retroalimentación tanto de los contenidos como de atención al público; y
+
+X. Las demás facultades que le sean asignadas por la Coordinación de Desarrollo Tecnológico y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 36.
+
+El Jefe de Departamento de Comunicación y Mercadotecnia tendrá las facultades y atribuciones siguientes:
+
+I. Mantener una comunicación directa con instituciones públicas y privadas para ofrecer los servicios que oferta el Museo;
+
+II. Comercializar y coordinar la agenda de los espacios ofertados por el Museo para eventos ligados a temas relacionados con la divulgación de la cultura científica (conferencias, eventos sociales, exposiciones);
+
+III. Dar seguimiento a la estrategia de comercialización que defina la Coordinación de Desarrollo Tecnológico;
+
+IV. Revisar anualmente el anteproyecto de ingresos relacionado con el Museo;
+
+V. Diseñar las campañas de promoción de servicios ofertados por la institución;
+
+VI. Elaborar y dar seguimiento al Programa Anual de actividades de comunicación y mercadotecnia;
+
+VII. Apoyar al Coordinador de Desarrollo Tecnológico para cumplimiento de los objetivos establecidos;
+
+VIII. Coordinar la vinculación de relaciones públicas del Museo y coordinarse con el encargado del área para (sic) elaboración de proyectos de imagen y publicidad; y
+
+IX. Las demás facultades que le sean asignadas por la Coordinación de Desarrollo Tecnológico y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 37.
+
+El Jefe del Departamento Museístico tendrá las facultades y atribuciones siguientes:
+
+I. Desarrollar el programa de exposiciones museográficas, servicios digitales, proyecciones audiovisuales y actividades que integrarán la oferta educativa y recreativa del Museo;
+
+II. Coordinar la planeación de los proyectos de exposiciones museográficas y de actividades con las otras áreas de la institución relacionadas con el Museo;
+
+III. Supervisar el desarrollo de los proyectos expositivos creados en el Museo;
+
+IV. Coordinar el proceso de instalación, mantenimiento y capacitación para la operación de las exposiciones museográficas;
+
+V. Gestionar y proponer la oferta museográfica que se integrará a las acciones de divulgación y formación de la cultura científica del Museo;
+
+VI. Autorizar las incidencias del departamento y evaluar el desempeño del personal a su cargo;
+
+VII. Elaborar y dar seguimiento al Programa Anual de actividades museísticas;
+
+VIII. Realizar la investigación y análisis para el mejoramiento de la infraestructura museística que incluye a las áreas de proyección audio visual del Museo;
+
+IX. Asegurar el buen funcionamiento de los equipos museográficos y los servicios de proyecciones audiovisuales;
+
+X. Coordinar, supervisar y garantizar el seguimiento de vinculación integral de las áreas que conforman la Coordinación de Desarrollo Tecnológico.
+
+XI. Las demás facultades que le sean asignadas por la Coordinación de Desarrollo Tecnológico y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 38.
+
+El Jefe de Departamento de Reservación de Grupos y Gestión de Recursos tendrá las facultades y atribuciones siguientes:
+
+I. Crear estrategias para que el área de reservaciones mejore los indicadores de afluencia de grupos al Museo;
+
+II. Gestionar patrocinios con todo tipo de instituciones para impulsar que la población de escasos recursos se acerque a la experiencia de aprendizaje científico–tecnológico que oferta el Museo;
+
+III. Coordinar las acciones interinstitucionales del Museo con las instituciones de educación privadas y las autoridades educativas del Estado; y
+
+IV. Las demás facultades que le sean asignadas por la Coordinación de Desarrollo Tecnologico.
+
+#### Sección Segunda. Coordinación de Vinculación e Investigación
+
+###### Artículo 39.
+
+Jefe del Departamento de Visualización Científica tendrá las facultades y atribuciones siguientes:
+
+I. Planear, organizar, supervisar y coordinar todas aquellas actividades relacionadas con los servicios educativos y atención a los visitantes;
+
+II. Proponer y desarrollar los contenidos temáticos de las actividades de visualización científica;
+
+III. Supervisar el desarrollo de los programas asignados a sus áreas y gestionar los recursos establecidos para su cumplimiento;
+
+IV. Analizar y proponer el contenido de visualización científica que se genera para la divulgación en los diferentes medios de comunicación;
+
+V. Elaborar y dar seguimiento al programa anual de actividades científicas;
+
+VI. Autorizar las incidencias del departamento y evaluar el desempeño del personal a su cargo;
+
+VII. Coordinar las actividades del Planetario, Observatorio y Casa de la Tierra; y
+
+VIII. Las demás facultades que le sean asignadas por la Dirección del Museo Descubre y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+#### Sección Tercera. Jefaturas de Departamento adscritas a la Coordinación de Vinculación e Investigación
+
+###### Artículo 40.
+
+La Coordinación de Vinculación e Investigación será auxiliada en sus facultades por las siguientes Jefaturas de Departamento:
+
+I. Jefatura del Departamento de Servicios Educativos;
+
+II. Jefatura del Departamento de Proyectos;
+
+III. Jefatura del Departamento de Becas.
+
+#### Sección Tercera. Coordinación de Transferencia Tecnológica y de Propiedad Intelectual
+
+###### Artículo 41.
+
+El Jefe del Departamento de Servicios Educativos tendrá las facultades y atribuciones siguientes:
+
+I. Realizar las acciones tendientes a la ejecución del Plan Estatal de Ciencia y Tecnología, del Programa Operativo Anual y de los diversos planes y programas del INCyTEA, que correspondan a la Coordinación de Vinculación e Investigación en materia de Servicios Educativos;
+
+II. Proponer las acciones que deberán contener los planes y programas del INCyTEA en materia de servicios educativos y divulgación de ciencia, tecnología e innovación dentro de las casas y vagones de la ciencia y otras actividades de la Coordinación de Vinculación e Investigación;
+
+III. Coordinar la logística de los programas de divulgación de ciencia y tecnología (conferencias, talleres, pláticas, cursos, concursos y eventos especiales);
+
+IV. Propiciar la divulgación de la gestión del conocimiento, la ciencia y desarrollo tecnológico a través de publicaciones, revistas, artículos, periódicos, libros, en medios de comunicación masiva, a fin de contribuir a la formación de una cultura que valore la aportación de la ciencia y la tecnología a la sociedad;
+
+V. Establecer alianzas con instituciones y dependencias municipales, estatales y federales para fortalecer los programas de divulgación de ciencia y tecnología de la Coordinación de Vinculación e Investigación;
+
+VI. Coordinar las acciones ante las instituciones de educación y media superiores para que sus estudiantes mediante prácticas profesionales o servicio social puedan integrarse a las actividades que en materia de divulgación de la ciencia y la tecnología desarrolla la Coordinación de Vinculación e Investigación;
+
+VII. Actualizar la base de datos de experimentos de ciencias naturales, física, química, cálculo mental, matemáticas que se realizan en los programas de divulgación de la ciencia, tecnología e innovación;
+
+VIII. Actualizar y supervisar la página web y de redes sociales del INCyTEA que tengan relación con la divulgación de la ciencia y tecnología que desarrolla la Coordinación de Vinculación e Investigación;
+
+IX. Constituirse como enlace ante diversas instancias públicas, sociales y privadas, para coordinar actividades encaminadas a la divulgación y fortalecimiento de conocimientos científicos y tecnológicos, desarrollados en las Casas y Vagones de la Ciencia;
+
+X. Promover las publicaciones científicas, facilitar el acceso a bancos de datos especializados, bibliotecas, servicios hemerográficos, y demás que resulten adecuados para el desarrollo de la gestión del conocimiento, dentro de las Casas y Vagones de la Ciencia, así como en las Bibliotecas públicas donde medie convenio de colaboración con el INCyTEA;
+
+XI. Coordinar las actividades permanentes de divulgación de la Gestión del Conocimiento, Ciencia y Tecnología en el Estado y en los Municipios a través de los Vagones, Casas y unidades móviles ubicados en los Municipios o cualquier otra que se incluya en los Programas Operativos Anuales;
+
+XII. Gestionar los programas de capacitación para el personal de las casas y vagones de ciencia;
+
+XIII. Supervisar, evaluar y mejorar los resultados de los programas de divulgación de ciencia y tecnología de la Coordinación de Vinculación e Investigación; y
+
+XIV. Las demás facultades que le sean asignadas por la Coordinación de Vinculación e Investigación y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 42.
+
+El Jefe del Departamento de Proyectos tendrá las facultades y atribuciones siguientes:
+
+I. Actualizar la página web del INCyTEA;
+
+II. Subir a la página web del INCyTEA las estadísticas y los indicadores en materia de ciencia y tecnología de conformidad con la información que al efecto le sea suministrada por la Dirección General y las Coordinaciones de Área;
+
+III. Mantener actualizada la información relativa al cumplimiento de los planes y programas del Programa Operativo Anual de INCyTEA;
+
+IV. Coordinar la conformación y operación del software del REICyTEA;
+
+V. Proporcionar los servicios informáticos disponibles a todas las áreas del INCyTEA;
+
+VI. Proporcionar mantenimiento a todos los equipos de cómputo del INCyTEA;
+
+VII. Asesorar a los usuarios de programas y equipos de cómputo que laboren en el INCyTEA;
+
+VIII. Vigilar que se haga un uso adecuado de los equipos y programas de cómputo del INCyTEA;
+
+IX. Administrar los servidores de datos y el respaldo de la información electrónica en el INCyTEA;
+
+X. Revisar periódicamente el estado físico–lógico de los equipos de cómputo e instalaciones informáticas del INCyTEA;
+
+XI. Elaborar, en colaboración con la Coordinación Administrativa el anteproyecto para la adquisición de equipos y programas de cómputo para el INCyTEA;
+
+XII. Ser el enlace del INCyTEA con el área respectiva de Gobierno del Estado para el desarrollo de aplicaciones informáticas institucionales;
+
+XIII. Investigar, analizar y proponer al Director General nuevas tecnologías de información que mejoren los procesos informáticos del INCyTEA;
+
+XIV. Analizar, revisar y proponer al Director General servicios externos para dar mantenimiento preventivo y correctivo al equipo de cómputo del INCyTEA en coordinación con la Coordinación Administrativa;
+
+XV. Representar al INCyTEA ante diferentes instancias en el ámbito informático;
+
+XVI. Realizar las presentaciones en programas de cómputo que le sean solicitadas por las diversas áreas y departamentos del INCyTEA;
+
+XVII. Integrar, promover y difundir estudios sobre ciencia y tecnología e información de estadística para ser publicados en la página web;
+
+XVIII. Cumplir con las políticas, normas, criterios, sistemas y procedimientos establecidos por el INCyTEA;
+
+XIX. Reportar resultados de actividades en base a los indicadores establecidos en el proceso correspondiente, así como informar de cualquier propuesta de mejora en el mismo; y
+
+XX. Las demás facultades que le sean asignadas por la Coordinación de Vinculación e Investigación y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 43.
+
+El Jefe del Departamento de Becas tendrá las facultades y atribuciones siguientes:
+
+I. Proponer las acciones que deberán contener los planes y programas del INCyTEA en materia de Desarrollo de Capital Humano de alto nivel particularmente a nivel Posgrado;
+
+II. Realizar dentro de su ámbito de competencia las acciones tendientes a la ejecución del Plan Estatal de Ciencia y Tecnología, del Programa Operativo Anual y de los diversos planes y programas del INCyTEA;
+
+III. Proponer la celebración de convenios con instituciones públicas y privadas, nacionales o internacionales con el objeto de establecer programas de becas y alianzas estratégicas para el financiamiento dirigido a la formación y el desarrollo de la capacidad científica y tecnológica del Estado;
+
+IV. Formular programas de becas y en general de apoyo a la formación de capital humano científico y tecnológico, en sus diversas modalidades, así como integrar la información de los programas de becas que ofrezcan otras instituciones nacionales, organismos internacionales y gobiernos extranjeros, a fin de optimizar los recursos en esta materia y establecer esquemas eficientes de coordinación, en los términos de las convocatorias que para el efecto se emitan;
+
+V. Establecer acciones para dar seguimiento a los beneficiarios de los programas de formación de recursos humanos que permita recabar y proporcionar información suficiente, oportuna y transparente, que permita la evaluación de su impacto en el Estado;
+
+VI. Establecer, estrechar y mantener comunicación con los beneficiarios de los programas de formación de recursos humanos que se encuentren en el extranjero, a fin de procurar el cumplimiento a los compromisos que se establezcan en el convenio correspondiente;
+
+VII. Proponer para su revisión a la Coordinación de Vinculación e Investigación y su posterior trámite, los términos de las convocatorias y convenios a realizar a fin de otorgar los diversos apoyos económicos y becas en relación con su ámbito de competencia; así como coordinar, supervisar, recibir y resguardar las solicitudes presentadas por los aspirantes dentro de cada convocatoria;
+
+VIII. Dar seguimiento y verificar el cumplimiento de las condiciones establecidas en las convocatorias y convenios realizados en virtud del otorgamiento de apoyos, solicitando informes sobre la aplicación de los recursos y resultados obtenidos;
+
+IX. Procurar el cumplimiento de las obligaciones establecidas en los convenios celebrados por beneficiarios de los recursos públicos e informar de su incumplimiento al Coordinador Administrativo para la realización de las acciones que procedan;
+
+X. Establecer mecanismos de evaluación de resultados de los diversos programas de apoyo para la formación de recursos humanos realizados con recursos del INCyTEA, o por gestión de éste;
+
+XI. Coordinarse con las diversas instituciones del Estado para la promoción de la integración de una bolsa de trabajo en relación con los recursos humanos formados con recursos del INCyTEA;
+
+XII. Coordinar y ejecutar acciones de promoción y fomento de jóvenes estudiantes de educación media con vocación para la investigación científica y el desarrollo tecnológico del País, así como incentivar la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos;
+
+XIII. Operar y coordinar las acciones derivadas de los diversos instrumentos de cooperación tecnológica regionales, nacionales o internacionales;
+
+XIV. Promover la difusión y publicación de las actividades y resultados de las investigaciones y desarrollos tecnológicos realizados por investigadores pertenecientes a la Academia Mexicana de la Ciencia;
+
+XV. Vincularse con el sector académico y la comunidad científica y tecnológica de México para la realización de eventos de divulgación científica y tecnológica;
+
+XVI. Vincularse con las instituciones de educación media y superior, así como con el Instituto de Educación de Aguascalientes para la implementación y ejecución de diversos programas relacionados con el objeto, facultades y fines del INCyTEA;
+
+XVII. Dar a conocer los resultados de las convocatorias, actividades, en base a los términos de su ejecución a la población, a los organismos e instituciones públicas o privadas en el Estado de Aguascalientes;
+
+XVIII. Colaborar en las actividades de divulgación científica y tecnológica entre los organismos e instituciones públicas o privadas en el Estado de Aguascalientes; y
+
+XIX. Las demás facultades que le sean asignadas por la Coordinación de Vinculación e Investigación y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+#### Sección Cuarta. Jefaturas de Departamento adscritas a la Coordinación de Transferencia Tecnológica y de Propiedad Intelectual
+
+###### Artículo 44.
+
+La Coordinación de Transferencia Tecnológica y de Propiedad Intelectual será auxiliada en sus facultades por las siguientes Jefaturas de Departamento:
+
+I. Jefatura del Departamento de Investigación e Innovación;
+
+II. Jefatura del Departamento de Propiedad Intelectual;
+
+#### Sección Cuarta. Coordinación Administrativa
+
+###### Artículo 45.
+
+El Jefe de Departamento de Investigación e Innovación tendrá las facultades y atribuciones siguientes:
+
+I. Auxiliar en sus facultades al Coordinador de Transferencia Tecnológica y de Propiedad Intelectual, en materia de Gestión del Conocimiento, Investigación e Innovación Científica y Tecnológica;
+
+II. Proponer las acciones que deberán contener los planes y programas del INCyTEA en materia de Gestión del Conocimiento, Investigación e Innovación;
+
+III. Realizar dentro de su ámbito de competencia las acciones tendientes a la ejecución del Plan Estatal de Ciencia y Tecnología, del Programa Operativo Anual y de los diversos planes, estrategias, fondos mixtos constituidos y programas de estímulo a la innovación del INCyTEA y los que en coordinación con otras instituciones en esta materia realice la institución;
+
+IV. Ejecutar los programas de vinculación que se incluyan en el Programa Operativo Anual;
+
+V. Realizar acciones concretas y establecer contacto permanente con los sectores productivos del Estado, convocarlos y recibir sus solicitudes a fin de identificar necesidades y soluciones de proyectos de investigación, desarrollo tecnológico y formación de recursos humanos, a financiar con recursos del INCyTEA, o de los Fondos constituidos de conformidad con la Ley, o en coordinación con el CONACYT para la generación y ejecución de proyectos de investigación científica e innovación a desarrollar con apoyos del INCyTEA;
+
+VI. Coordinar, evaluar, dar seguimiento a los proyectos de investigación y desarrollo tecnológico financiados;
+
+VII. Fomentar la investigación, el desarrollo y la innovación tecnológica de las empresas que conforman los distintos sectores productivos del Estado y facilitar la vinculación de éstos con el sector académico y de investigación;
+
+VIII. Mantener una red de enlace con los Centros de Investigación, Instituciones de Educación Media y Superior, organismos públicos y privados y las empresas con la facilidad de facilitar la vinculación entre los sectores económicos en materia de investigación científica, desarrollo tecnológico, divulgación y formación de capital humano;
+
+IX. Definir los términos de las convocatorias y convenios a realizar con el fin de otorgar apoyos económicos, premios y reconocimientos en materia de Gestión del Conocimiento, Innovación, Ciencia y Tecnología, así como coordinar y supervisar las recepciones de solicitudes de cada convocatoria;
+
+X. Coordinar actividades con el CONACYT, así como con otras instituciones en materia de Gestión del Conocimiento, Innovación, Ciencia, Tecnología y Emprendimiento;
+
+XI. Revisar que dentro de los instrumentos de apoyo que celebre el INCyTEA se regule adecuadamente la protección de la información, las reglas y porcentajes para la participación de regalías, la transferencia de tecnología y en coordinación con la Jefatura del Departamento Jurídico, lo relativo a la protección de la Propiedad Intelectual;
+
+XII. Dar seguimiento y verificar el cumplimiento de las condiciones establecidas en las convocatorias y convenios realizados en virtud del otorgamiento de apoyos, solicitando informes sobre la aplicación de los recursos y resultados obtenidos;
+
+XIII. Procurar el cumplimiento de las obligaciones establecidas en los convenios celebrados por beneficiarios de los recursos públicos otorgados e informar de su incumplimiento al Coordinador Administrativo para la realización de las acciones que procedan;
+
+XIV. Elaborar y mantener actualizado el directorio de investigadores, académicos, tecnólogos, empresas, instituciones educativas, centros de investigación, organismos públicos y privados, y entidades con las que el INCyTEA requiera establecer comunicación para el mejor desempeño de sus facultades;
+
+XV. Mantener comunicación efectiva con los sectores productivos del Estado, convocarlos y recibir sus solicitudes a fin de identificar necesidades y soluciones de proyectos de investigación, desarrollo tecnológico a financiar con recursos del INCyTEA, o de los Fondos Constituidos de conformidad con la Ley, o en coordinación con el CONACYT para la generación y ejecución de proyectos de investigación científica e innovación a desarrollar con apoyos del INCyTEA;
+
+XVI. Realizar acciones y programas de estímulos a la innovación para fomentar la vinculación con el sector académico, social, empresarial y la comunidad científica y tecnológica del Estado;
+
+XVII. Realizar las acciones necesarias que garanticen la continuidad de los proyectos de investigación e innovación tecnológicas financiados con programas del INCyTEA, realizando un registro con los datos necesarios para tal efecto;
+
+XVIII. Mantener actualizada la información relativa a los proyectos de investigación y desarrollo tecnológico realizados con la intervención del INCyTEA, en expedientes y archivos físicos, así como medios electrónicos;
+
+XIX. Participar y coordinar sus actividades con el CONACYT, así como con instituciones, organismos públicos y privados, nacionales e internacionales en materia de Gestión del Conocimiento, Innovación, Ciencia, Tecnología y Emprendimiento;
+
+XX. Coordinar la operación de la Red de Divulgación Científica y Tecnología del Estado de Aguascalientes, de conformidad con la Ley;
+
+XXI. Promover la constitución y coordinación del REICyTEA de conformidad con la Ley;
+
+XXII. Proponer mecanismos para vincular y desarrollar proyectos de investigación aplicada y desarrollo tecnológico enfocados a resolver problemas de los sectores estratégicos del Estado;
+
+XXIII. Coordinar la realización de la Semana Nacional de Ciencia y Tecnología, del Simposio de Investigación y cualquier otro evento de divulgación que proponga el INCyTEA y/o el Gobierno del Estado de Aguascalientes en materia de Ciencia, Tecnología, Innovación y Emprendimiento;
+
+XXIV. Reportar los resultados de actividades, en base a indicadores establecidos en el proceso correspondiente, así como realizar propuestas de mejora en el mismo; y
+
+XXV. Las demás facultades que le sean asignadas por la Coordinación de Vinculación e Investigación y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+#### Sección Quinta. Coordinación Jurídica
+
+###### Artículo 46.
+
+El Jefe de Departamento de Propiedad Intelectual tendrá las facultades y atribuciones siguientes:
+
+I. Definir, diseñar, desarrollar e implementar los diversos programas y políticas de apoyo, incluyendo el otorgamiento de premios y reconocimientos por logros en ciencia y tecnología orientados a promover y fortalecer el Desarrollo de la Investigación Científica;
+
+II. Definir acciones específicas a incluir en el Programa Operativo Anual de las áreas de investigación, vinculación, divulgación, formación de recursos humanos y estadística;
+
+III. Vigilar que dentro de los instrumentos de apoyo que celebre el INCyTEA se regule adecuadamente la protección de la información, las reglas y porcentajes para la participación de regalías, la transferencia de tecnología y en coordinación con el Departamento Jurídico, lo relativo a la protección de la Propiedad Intelectual;
+
+IV. Coordinar, evaluar, dar seguimiento a los proyectos de investigación y desarrollo tecnológico financiados por el INCyTEA;
+
+V. Coordinarse con el Consejo Nacional de Ciencia y Tecnología a fin de procurar que los investigadores mexicanos, principalmente originarios de Aguascalientes, se incorporen a los sectores público, privado, social y académico del Estado, a través de los apoyos y disposiciones normativas que para el efecto se emitan;
+
+VI. Operar y coordinar las acciones derivadas de los diversos instrumentos de cooperación tecnológica regionales, nacionales o internacionales;
+
+VII. Promover la difusión y publicación de las actividades y resultados de las investigaciones y desarrollos tecnológicos realizados por los investigadores del Estado; y
+
+VIII. Las demás facultades que le sean asignadas por la Coordinación de Vinculación e Investigación y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+#### Sección Quinta. Jefaturas de Departamento adscritas a la Coordinación Administrativa
+
+###### Artículo 47.
+
+La Coordinación Administrativa será auxiliada en sus facultades por las siguientes Jefaturas de Departamento:
+
+I. Jefatura de Departamento de Servicios Generales;
+
+II. Jefatura del Departamento de Contabilidad;
+
+III. Jefatura de (sic) Departamento de Presupuesto; y
+
+IV. Jefatura del Departamento de Capital Humano.
+
+### CAPÍTULO IV. Consejo Consultivo en Ciencia, Tecnología, Innovación y Sociedad del Conocimiento
+
+###### Artículo 48.
+
+El Jefe de Departamento de Servicios Generales tendrá las facultades y atribuciones siguientes:
+
+I. Auxiliar en sus facultades al Coordinador de Transferencia Tecnológica y de Propiedad Intelectual, en materia de Gestión del Conocimiento, Investigación e Innovación Científica y Tecnológica;
+
+###### Artículo 49.
+
+El Jefe del Departamento de Contabilidad tendrá las facultades y atribuciones siguientes:
+
+I. Asistir al Coordinador Administrativo en la realización de sus obligaciones contables y financieras; así como en los procedimientos contables en que el INCyTEA tenga injerencia;
+
+II. Analizar, revisar y proponer el Plan de Trabajo Anual del área contable del INCyTEA;
+
+III. Coordinarse con la Jefatura del Departamento de Control Presupuestal para elaborar el anteproyecto de presupuesto de la Coordinación Administrativa del INCyTEA;
+
+IV. Elaborar y emitir el análisis de la información financiera y contable del INCyTEA, para el conocimiento de la Coordinación Administrativa y para el envío a instancias correspondientes;
+
+V. Efectuar el control y registro de la contabilidad del INCyTEA;
+
+VI. Supervisar las actividades de personal de apoyo, en cuanto a la elaboración (sic) actividades desarrolladas por el área de Recursos Humanos y de Control Patrimonial relativos al deterioro de inmuebles y muebles, realización de cheques, control de archivo, entre otras actividades de estas áreas;
+
+VII. Reportar resultados de actividades, en base a indicadores establecidos en el proceso correspondiente a las actividades contables, así como realizar propuestas de mejora en éstas; y
+
+VIII. Las demás facultades que le sean asignadas por la Coordinación Administrativa y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 50.
+
+El Jefe del Departamento de Contabilidad tendrá las facultades y atribuciones siguientes:
+
+I. Realizar el seguimiento de la Armonización Contable en el INCyTEA conforme a la normatividad emitida por el CONAC;
+
+II. Elaborar y dar seguimiento a la integración de la propuesta de Ley de Ingresos y presupuesto de egresos conforme a la normatividad aplicable;
+
+III. Revisar los anteproyectos de presupuesto que remitan las diversas áreas del INCYTEA a la Coordinación Administrativa, previo a su integración y remisión a la Junta de Gobierno del proyecto de presupuesto del INCyTEA;
+
+IV. Coadyuvar con la Coordinación Administrativa en el control del ejercicio presupuestal dentro de la esfera de su competencia;
+
+V. Asistir a la Coordinación Administrativa la relación de sus obligaciones financieras;
+
+VI. Elaborar cortes de caja a taquilla;
+
+VII. Supervisar los depósitos bancarios;
+
+VIII. Elaborar corte diario de entradas, así como su registro contable;
+
+IX. Elaborar facturas digitales por la renta de espacios;
+
+X. Llevar el control de la cartera de proveedores;
+
+XI. Elaborar los cheques para pago a proveedores;
+
+XII. Llevar el control de fondo revolvente;
+
+XIII. Llevar el control de pago a proveedores;
+
+XIV. Registrar las pólizas de egresos, ingresos y diario;
+
+XV. Elaborar las conciliaciones bancarias;
+
+XVI. Elaborar de manera mensual y anual la cuenta pública, estados financieros y la balanza de comprobación;
+
+XVII. Apoyar en las demás actividades contables y financieras que requiera su jefe inmediato; y
+
+XVIII. Las demás facultades que le sean asignadas por la Coordinación Administrativa y que sean afines o complementarias a las mencionadas en las fracciones anteriores.
+
+###### Artículo 51.
+
+El Jefe de Departamento de Capital Humano tendrá las facultades y atribuciones siguientes:
+
+I. Administrar los recursos humanos;
+
+II. Cumplir y vigilar el cumplimiento de las disposiciones legales, lineamientos, órdenes y circulares en materia de administración de recursos;
+
+III. Establecer los controles que permitan identificar la correcta aplicación y el adecuado aprovechamiento de los recursos del INCyTEA;
+
+IV. Dar cumplimiento a las disposiciones legales en materia fiscal y de seguridad social;
+
+V. Elaborar y coordinar el flujo de información solicitada y proporcionada por otras dependencias del ejecutivo del Estado en materia de desarrollo de personal;
+
+VI. Asesorar al personal del INCyTEA en relación con la presentación de las diversas declaraciones patrimoniales que deben efectuar según la Ley de Responsabilidades,
+
+VII. Supervisar y controlar al personal del INCyTEA en materia de cumplimiento de normas disciplinarias, incluidas (sic) a la Ley de Responsabilidades,
+
+VIII. Promover el desarrollo y capacitación del personal del INCyTEA,
+
+IX. Atender las peticiones del personal del INCyTEA relativas a los recursos necesarios para la realización de sus actividades;
+
+X. Autorizar las incidencias y evaluar el desempeño del personal a su cargo.
+
+#### Sección Sexta. Jefaturas de Departamento adscritas a la Coordinación Jurídica
+
+### CAPÍTULO V. UNIDADES ADMINISTRATIVAS
+
+Coordinaciones de Área
+
+###### Artículo 52.
+
+La Coordinación Jurídica será auxiliada en sus facultades por la siguiente Jefatura de Departamento:
+
+I. Jefe del Departamento Asesoría y Patrocinio Jurídicos.
+
+###### Artículo 53.
+
+El Jefe del Departamento Asesoría y Patrocinio Jurídicos tendrá las facultades y atribuciones siguientes:
+
+I. Asistir al Coordinador Jurídico en el seguimiento de acuerdos emitidos por la Junta de Gobierno;
+
+II. Proponer los términos y revisar los contratos, convenios, acuerdos, circulares, actas administrativas y laborales, poderes y otros instrumentos jurídicos en que intervenga el INCyTEA de conformidad con las leyes en el Estado de Aguascalientes;
+
+III. Emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que le sean formuladas por el Coordinador Jurídico;
+
+IV. Asesorar al Coordinador Jurídico en los procedimientos judiciales y administrativos en que el INCyTEA tenga injerencia;
+
+V. Proponer los términos de las demandas, denuncias o querellas que procedan de conformidad con la legislación aplicable, así como la contestación de estas que lleguen a formularse en los que intervenga el INCyTEA;
+
+VI. Elaborar los proyectos de informes previos y justificados a cargo del INCyTEA, e intervenir en el cumplimiento de las resoluciones respectivas;
+
+VII. Tramitar y proponer la resolución de los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos;
+
+VIII. Coadyuvar en la elaboración y revisión, en su caso, de los proyectos de iniciativas de leyes, reglamentos y decretos de competencia del INCyTEA de conformidad con los lineamientos específicos que determine el Coordinador Jurídico;
+
+IX. Proporcionar consultoría jurídica a las empresas, clúster, asociaciones civiles, centros de investigación, instituciones de educación media y superior que lo soliciten dentro del ámbito de competencia del INCyTEA;
+
+X. Cotejar documentos, actas y archivos que obren en el INCyTEA; y
+
+XI. Las demás que le confieran las disposiciones legales aplicables y las que delegue el Coordinador Jurídico, dentro de la esfera de sus facultades.
+
+### CAPÍTULO VII. Órgano de Vigilancia
+
+###### Artículo 54.
+
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades del Instituto; estará integrado por un Comisario Público Propietario y un Suplente, designados por la persona titular del Poder Ejecutivo del Estado, quien escuchará las propuestas que le formulen las personas titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley correspondiente.
+
+Para el cumplimiento de las funciones citadas, la Junta de Gobierno y la persona titular de la Dirección General del Instituto deberán proporcionar la información que solicite la o el Comisario Público del Instituto y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+
+### CAPÍTULO VIII. Órgano Interno de Control
+
+###### Artículo 55.
+
+El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno del Instituto, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+###### Artículo 56.
+
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes Unidades:
+
+I. Unidad Auditora;
+
+II. Unidad Investigadora; y
+
+III. Unidad Substanciadora y Resolutora.
+
+Las personas titulares de dichas Unidades serán designadas por la persona titular del Poder Ejecutivo del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y la Contraloría del Estado, para tal efecto.
+
+La persona servidora pública que ejerza la función de autoridad Substanciadora y Resolutora, será distinta de aquella que ejerza la de autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades.
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+#### Sección Primera. Unidad Auditora
+
+###### Artículo 57.
+
+La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
+
+I. Elaborar y ejecutar, con aprobación de la Junta de Gobierno, el programa anual de auditorías a las diversas áreas que conforman el Instituto;
+
+II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del Instituto;
+
+III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman el Instituto;
+
+IV. Coordinar las acciones a fin de verificar que las áreas que conformen el Instituto cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y emitidos por lo (sic) Contraloría del Estado;
+
+V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+
+VI. Comprobar mediante revisiones o inspecciones directa y selectiva, el cumplimiento por parte del Instituto sobre el correcto ejercicio del gasto público;
+
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+
+VIII. Rendir informe trimestral a la Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+
+IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
+
+X. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos de su competencia; y
+
+XI. Las demás atribuciones previstas en otras disposiciones legales y reglamentarias aplicables.
+
+#### Sección Segunda. Unidad Investigadora
+
+###### Artículo 58.
+
+La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades, y tiene las siguientes funciones:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos al Instituto y de particulares, conforme a lo previsto en la Ley de Responsabilidades y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al Instituto, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades;
+
+III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos del Instituto o bien, referidas a faltas de particulares en relación con ésta;
+
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos al Instituto o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos del Instituto o de los particulares, habilitando para ello al personal del área correspondiente;
+
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita al Instituto;
+
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades;
+
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades;
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
+
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XVI. Rendir informes trimestrales a la Junta de Gobierno, sobre el estado que guardan los asuntos de su competencia;
+
+XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+XIX. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+
+#### Sección Tercera. Unidad Substanciadora y Resolutora
+
+###### Artículo 59.
+
+La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades, y tiene las siguientes funciones:
+
+I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Instituto, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+
+Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos del Instituto.
+
+Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+
+III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
+
+IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades;
+
+VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+VII. Rendir informes trimestrales a la Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+
+VIII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+IX. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+
+XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+XII. Resolver las inconformidades previstas en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, así como los demás recursos administrativos procedentes y que resulten de su competencia en la materia; y
+
+XIII. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+
+## TÍTULO III. AUSENCIAS Y SUPLENCIAS
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+###### Artículo 60.
+
+Durante las ausencias temporales del Director General, el despacho y la resolución de los asuntos urgentes del INCyTEA estarán a cargo del titular de la Unidad Administrativa que corresponda atendiendo la materia de que se trate.
+
+Cuando la ausencia de éste exceda de treinta días, el suplente será designado por el Gobernador del Estado, en términos de la Ley para el Control de las Entidades Paraestatales.
+
+###### Artículo 61.
+
+Las ausencias temporales de los titulares de las Direcciones de Área que conforman el INCyTEA, serán suplidas por los funcionarios que designe el Director General.
+
+En el caso de ausencias definitivas, consistiendo éstas en más de treinta días, serán suplidos por el servidor público que el Director General crea conveniente hasta en tanto el Gobernador del Estado designe a uno nuevo.
+
+###### Artículo 62.
+
+Las ausencias temporales de los titulares de las Jefaturas de Departamento que conforman el INCyTEA, serán suplidas por los funcionarios que designe el Director General.
+
+En el caso de ausencias definitivas, consistiendo éstas en más de treinta días, serán suplidos por el servidor público que el Director General crea conveniente hasta en tanto la Junta de Gobierno nombre a uno nuevo, a través de la propuesta que realice el propio Director General.
+
+###### Artículo 63.
+
+En caso de ausencia de alguno de los titulares de las Unidades que integran al Órgano Interno de Control, se estará a lo dispuesto por la Ley para el Control de las Entidades Paraestatales y demás disposiciones normativas aplicables en la materia.
+
+###### Artículo 64.
+
+Los servidores públicos que cubran las ausencias, actuarán como encargados del despacho, con todas las facultades que correspondan al titular, independientemente de las de su propio cargo.
+
+## TÍTULO IV. VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
+
+### CAPÍTULO I. Relaciones entre la Investigación y el Sector Productivo
+
+###### Artículo 65.
+
+Las dependencias y entidades de la Administración Pública Estatal, instituciones públicas de educación superior, así como centros de investigación, promoverán la innovación y el desarrollo tecnológico, para tal efecto establecerán mecanismos eficientes y funcionales para vincularse con el sector productivo.
+
+El personal de dependencia y entidades de la Administración Pública Estatal, Instituciones públicas de educación superior, así como centros de investigación que tengan la calidad de servidores públicos e incurran en conflicto de interés, serán sancionados conforme a la (sic) establecido por la Ley de Responsabilidades Administrativas independientemente de las responsabilidades en que incurran conforme a los ordenamientos legales vigentes.
+
+###### Artículo 66.
+
+El proceso de vinculación deberá ser multidisciplinario e interinstitucional; en él se buscará la coordinación de esfuerzos conjuntos en materia de emprendimiento, innovación, ciencia y tecnología.
+
+Para tal efecto se promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con el sector productivo del Estado, bajo diversos mecanismos y acciones que sean pertinentes, a través de figuras como las Unidades de Vinculación, Transferencia de Tecnología, Conocimiento y Emprendimiento.
+
+###### Artículo 67.
+
+Las Unidades de Vinculación, y Transferencia de Tecnología y Conocimiento o a las que se hace referencia al párrafo que antecede, podrán constituirse mediante la figura jurídica que mejor convenga a sus objetivos y en ningún caso podrán pagar su gasto operativo con recurso (sic) públicos dedicados al fortalecimiento del ecosistema emprendedor, desarrollo tecnológico, investigación, innovación y emprendimiento.
+
+Los recursos que le sean asignados presupuestariamente deberán de destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo emprendedor, tecnológico, investigación e innovación, así como a promover su vinculación con los sectores productivos del Estado.
+
+###### Artículo 68.
+
+Las instituciones de educación, los Centros Públicos de Investigación, las entidades de la administración pública y la (sic) organizaciones de la sociedad civil que realicen actividades de fortalecimiento al ecosistema emprendedor, investigación científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
+
+Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones de educación, Centros, entidades u organizaciones de la sociedad civil aprobarán y establecerán lo siguiente:
+
+Los lineamientos y condiciones básicas de las asociaciones estratégicas, convenios de colaboración, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas de base tecnológica o redes de innovación, que conlleven la participación de instituciones de educación, Centros, entidades u organizaciones de la sociedad civil, con o sin aportación en el capital social en las empresas de que se trate.
+
+###### Artículo 69.
+
+Los apoyos a que se refiere el artículo anterior se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del proyecto; y se mantendrán mientras se demuestre la viabilidad técnica y económica del proyecto.
+
+### CAPÍTULO II. Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
+
+###### Artículo 70.
+
+El REICyTEA estará integrado con la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia y la tecnología en general, como instrumento para desarrollar de manera armónica y sustentable las capacidades científicas y tecnológicas del Estado.
+
+El REICyTEA permitirá establecer el Sistema Estatal de Investigación, el Sistema de Información sobre Investigación Científica y Tecnológica y el Registro Estatal de Instituciones y Empresas de Innovación, Científicas y Tecnológicas en Aguascalientes.
+
+El Instituto a través del REICyTEA, en el ámbito de su competencia coadyuvará con el Gobierno Federal a la estrategia nacional para democratizar la información Científica, Tecnológica y de Innovación, con el fin de fortalecer las capacidades del Estado y del país para que el conocimiento universal esté disponible a los educandos, a las personas dedicadas a la enseñanza, la academia, la investigación, la ciencia, la tecnología y a la población en general, a través de un acceso abierto.
+
+Asimismo, el Instituto a través del REICyTEA establecerá los lineamientos para garantizar el Acceso Abierto a la información científica, tecnológica y de innovación generada con recursos públicos estatales a texto completo, en formatos digitales, en los términos de la presente Ley.
+
+###### Artículo 71.
+
+Corresponde al Instituto integrar, administrar, continuar y actualizar el REICyTEA.
+
+En el REICyTEA podrá incluirse cualquier otra información en relación con la actividad de investigación en ciencia y tecnología realizada en el Estado, debiéndose incluir en todo caso la fuente de la información proporcionada.
+
+El personal académico, de investigación de tecnología y estudiantes de maestría, doctorado y posdoctorado, cuya actividad de investigación sea financiada con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, por decisión personal podrán, autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso Abierto, comprobando que ha cumplido con el proceso de aprobación respectivo, lo anterior bajo los términos que al efecto establezca el Instituto.
+
+###### Artículo 72.
+
+El Instituto formulará las bases de organización y funcionamiento del REICyTEA, mismas que deberán ser aprobadas por la Junta de Gobierno.
+
+Las bases proveerán lo necesario para que el REICyTEA favorezca la vinculación entre la investigación y sus formas de aplicación y generación.
+
+### CAPÍTULO III. Relaciones entre el Emprendimiento, la Investigación y la Educación
+
+###### Artículo 73.
+
+El emprendimiento, la innovación y la investigación científica y tecnológica que el Gobierno del Estado apoye buscará contribuir significativamente a desarrollar la economía local, así como a fortalecer el sistema de educación y de capacitación de alta calidad.
+
+###### Artículo 74.
+
+Con el objeto de integrar el emprendimiento, investigación y educación, los centros de investigación, organizaciones e instituciones especializadas y las instituciones de educación superior promoverán, a través de las herramientas que consideren pertinentes, la actualización de los conocimientos y habilidades que respondan a la innovación, los cambios científicos y tecnológicos de nuestro tiempo.
+
+###### Artículo 75.
+
+El Gobierno del Estado, a través del Instituto reconocerá los logros sobresalientes de quienes realicen proyectos de emprendimiento o investigación científica y tecnológica, además procurará apoyos para que su actividad contribuya a mantener y fortalecer el desarrollo económico.
+
+###### Artículo 76.
+
+El Gobierno del Estado, a través del Instituto, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento del ecosistema emprendedor e innovador, de la investigación científica y tecnológica y la solución de problemas en el sector productivo.
+
+### CAPÍTULO III (SIC). Coordinación y Desconcentración
+
+###### Artículo 77.
+
+El Ejecutivo del Estado, a través del Instituto, podrá suscribir convenios de coordinación, integración, cooperación y colaboración con los Municipios, con el Gobierno Federal y con los Gobiernos de otros Estados, o con Instituciones Públicas o Privadas de Investigación y Enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar el emprendimiento y la innovación, así como la desconcentración de la investigación científica y tecnológica.
+
+En los convenios a que se refiere el párrafo anterior se determinarán los objetivos comunes y las obligaciones de las partes y, en su caso, además, los compromisos concretos de financiamiento.
+
+###### Artículo 78.
+
+El Instituto convendrá con las entidades y dependencias de la administración pública federal, estatal o municipal a efecto de lograr acciones coordinadas que fomenten las actividades en materia de emprendimiento, innovación, ciencia y tecnología.
+
+## TÍTULO V. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO ÚNICO. Responsabilidades Administrativas
+
+###### Artículo 79.
+
+Las responsabilidades de los servidores públicos estarán sujetas a las disposiciones contenidas en la Constitución Política del Estado de Aguascalientes y en la Ley de Responsabilidades Administrativas.
+
+En su caso, las personas físicas o morales, centros de investigación, instituciones de educación básica y superior, estarán sujetos a su propia normatividad y a las responsabilidades legales correspondientes.
+
+###### Artículo 80.
+
+Las relaciones de trabajo entre el INCyTEA y sus trabajadores se regirán por lo dispuesto en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, y en su caso, por las leyes que son supletorias del mismo.
+
+###### Artículo 81.
+
+El personal del INCyTEA estará incorporado en los términos de la legislación aplicable a las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado de Aguascalientes.
+
+T R A N S I T O R I O S
 
 ## ARTICULOS TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Estatuto Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley de la Defensoría de Oficio para el Estado de Nuevo León, del 23 de diciembre de 1992, publicada en el Periódico Oficial del Estado el día 28 del propio mes y año.
+Se abroga el Estatuto Interno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, publicado el día 6 de marzo del 2023 en el Periódico Oficial del Estado de Aguascalientes.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
-Se derogan todas las demás disposiciones, de igual o menor rango, que contravengan lo establecido en la presente ley.
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Estatuto Interno.
 
-###### ARTICULO CUARTO.
+###### ARTÍCULO CUARTO.
 
-Dentro de los noventa días siguientes a la iniciación de la vigencia de esta ley, el Secretario General de Gobierno designará a las personas que deben comparecer como Consejeros de acuerdo a lo previsto por esta Ley, y por esta única ocasión, convocará a la sesión de instalación del Consejo de Colaboración.
+La Junta de Gobierno del Organismo Público Descentralizado en cuestión deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable al referido Organismo, con motivo de la entrada en vigor del presente Estatuto.
+
+Dado en las instalaciones que albergan al Instituto de Ciencia y Tecnología del Estado de Aguascalientes, a dieciséis del mes de mayo año dos mil veintitrés.
+
+A T E N T A M E N T E
+
+LOS MIEMBROS DE LA H. JUNTA DE GOBIERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES
+
+LIC. MANUEL ALEJANDRO GONZÁLEZ MARTÍNEZ
+
+SECRETARIO DE DESARROLLO ECONÓMICO, CIENCIA Y TECNOLOGÍA Y PRESIDENTE SUPLENTE DE LA JUNTA DE GOBIERNO.
+
+LIC. CLAUDIA ZAMIRA CAMPOS GIL
+
+DIRECTORA GENERAL DE ADMINISTRACIÓN FINANCIERA DE LA SECRETARIA DE FINANZAS DEL ESTADO DE AGUASCALIENTES.
+
+LIC. ANA LAURA GOMÉZ CALZADA
+
+DIPUTADA PRESIDENTA DE LA COMISIÓN DE CIENCIA Y TECNOLOGÍA DEL H. CONGRESO DEL ESTADO.
+
+LIC. ISIDORO ARMENDÁRIZ GARCÍA
+
+SECRETARIO DE DESARROLLO RURAL Y AGROEMPRESARIAL.
+
+LIC. CECILIA MIGUELINA RUÍZ ROBLES
+
+DIRECTORA GENERAL DE EVALUACIÓN Y SEGUIMIENTO INSTITUCIONAL DE LA SECRETARIA DE PLANEACIÓN, PARTICIPACIÓN Y DESARROLLO.
+
+LIC. MARÍA FERNANDA MARTÍNEZ MARTÍNEZ
+
+DIRECTORA GENERAL DE INNOVACIÓN Y MEJORA REGULATORIA.
+
+LIC. ERNESTO DÍAZ ROMERO
+
+SUBDIRECTOR DE INVESTIGACIÓN DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES.
+
+MTRO. JOSÉ JUAN SÁNCHEZ BARBA
+
+FIDEICOMISO PÚBLICO DEMONINADO SISTEMA DE FINACIAMIENTO DE AGUASCALIENTES.
+
+ING. RAÚL GONZÁLEZ ALONSO
+
+PRESIDENTE DEL CONSEJO COORDINADOR EMPRESARIAL DE AGUASCALIENTES.
+
+LIC. SARA IMELDA MIRANDA RODRÍGUEZ
+
+PRESIDENTE DE LA COMISIÓN DE INNOVACIÓN EMPRESARIAL DE COPARMEX
+
+M.C. ANA CLAUDIA MORALES DUEÑA
+
+DIRECTORA GENERAL DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTICULO QUINTO.
 
