@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1973-03-14"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,11 @@ issue_date: "1932-08-29"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL- ANTES CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS-
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
+CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
-
-> <small>N. DE E. DE ACUERDO CON LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE FECHA 26 DE FEBRERO DE 1973 Y PUBLICADO EN EL D.O.F. EN LA FECHA QUE SE SEÑALA SE DEROGAN: LOS RUBROS DE LOS CAPITULOS V, DE SU SECCION I Y CAPITULO VI DEL TITULO SEXTO; LA FRACCION VII DEL ARTICULO 137 BIS; ARTICULO 302; 303; 304; 305; 306; 307; 384; 396; 401; CAPITULO VIII DEL TITULO SEXTO; ARTICULO 425, CAPITULO I DEL TITULO SEPTIMO; ARTICULOS 430; 431; 432; 433; 434; 435; 437; 438; 439; 440; 441; 442; 477 Y 687. PERO SEGUIRAN VIGENTES PARA LOS ASUNTOS YA EN TRAMITE, HASTA SU TOTAL TERMINACION; PARA LO CUAL REMITASE AL ARCHIVO ANTERIOR.</small>
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -36,7 +34,9 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades extraordinarias que me fueron concedidas por Decreto del H. Congreso de la Unión de 31 de diciembre de 1931, he tenido a bien expedir el siguiente
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS (SIC)
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
 ## TITULO PRIMERO. De las acciones y excepciones
 
@@ -664,9 +664,11 @@ Se exceptúan de esta disposición los escritos de demanda principal o incidenta
 
 ### CAPITULO IV. De los exhortos y despachos
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ARTICULO 104
 
-Los exhortos y despachos que reciban las autoridades judiciales del Distrito y Territorios Federales, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo.
+Los exhortos y despachos que reciban las autoridades judiciales del Distrito Federal, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija, necesariamente, mayor tiempo.
 
 ARTICULO 105
 
@@ -682,7 +684,9 @@ ARTICULO 107
 
 En los despachos y exhortos no se requiere la legalización de las firmas del tribunal que los expida, a menos que la exija el tribunal requerido, por ordenarla la Ley de su jurisdicción, como requisito para obsequiarlos.
 
-Para que los exhortos de los tribunales de los Estados de la Federación y de los Territorios sean diligenciados por los del Distrito y Territorios no será necesaria la legalización de las firmas de los funcionarios que los expidan.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Para que los exhortos de los tribunales de los Estados de la Federación sean diligenciados por los del Distrito Federal, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
 
 ARTICULO 108
 
@@ -694,11 +698,13 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 ### CAPITULO V. De las notificaciones
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
 ARTICULO 110
 
-Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia del Distrito y Territorios Federales, previa audiencia de defensa ante el Juez o Magistrado correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Las notificaciones citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia del Fuero Común del Distrito Federal, previa audiencia de defensa ante el Juez o Magistrado correspondiente.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
 
@@ -796,7 +802,9 @@ II.- Cuando se trate de personas cuyo domicilio se ignora; en este caso el juici
 
 En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y otros periódicos de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a 15 días ni excederá de 60 días.
 
-III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad conforme al Art. 3023 del Código Civli (sic), para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de los de mayor circulación, si se tratare de inmuebles urbanos situados en el Distrito Federal. Si los predios fueren rústicos se publicarán además en el "Diario Oficial" de la Federación en la misma forma y en términos indicados. Igualmente se publicarán en los periódicos locales y además en todo caso en el "Diario Oficial" de la Federación las peticiones de información de los bienes raíces ubicados en los Territorios Federales. Tanto en el Distrito como en los Territorios Federales los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquella si fuere conocido; la ubicación precisa del bien y sus colindancias; un plano autorizado por ingeniero titulado si fuere predio rústico o urbano sin construir; el nombre y domicilio de los colindantes. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad por el término de 9 días. Contesten o no y sin necesidad de acuse de rebeldía, el juez al vencerse el último término del traslado, abrirá una dilación probatoria por 30 días. Además de las pruebas que tuviere, el solicitante está en obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos que tengan bienes raíces en el lugar de la ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días. En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso se substancia como en los juicios ordinarios.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 3023 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de los de mayor circulación si se tratare de inmuebles urbanos situados en el Distrito Federal. Si los predios fueren rústicos se publicarán además en el "Diario Oficial" de la Federación en la misma forma y términos indicados. Los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien y sus colindancias, un plano autorizado por ingeniero titulado si fuere predio rústico o urbano sin construir; el nombre y domicilio de los colindantes. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público a los colindantes, al registrador de la propiedad por el término de nueve días. Contesten o no y sin necesidad de acuse de rebeldía, el juez, al vencerse el término del traslado, abrirá una dilación probatoria de treinta días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días. En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso de substancia como en los juicios ordinarios.
 
 ARTICULO 123
 
@@ -2018,11 +2026,13 @@ El juez, al admitir las pruebas ofrecidas procederá a la recepción y desahogo 
 
 La audiencia se celebrará con las pruebas que estén preparadas, dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes, y para el efecto se señalará la fecha para su continuación la que tendrá verificativo dentro de los quince días siguientes. En este caso no hay que seguir el orden establecido para la recepción de las pruebas.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
 ARTICULO 300
 
-Cuando las pruebas hubieren de practicarse fuera del Distrito o Territorio Federal o del país, se recibirán a petición de parte dentro de un término de sesenta y noventa días respectivamente siempre que llenen los siguientes requisitos: 1o.- Que se solicite durante el ofrecimiento de pruebas; 2o.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testifical; 3o.- Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse, o presentarse originales.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Cuando las pruebas hubieren de practicarse fuera del Distrito Federal o del país, se recibirán a petición de parte dentro de un término de sesenta y noventa días, respectivamente, siempre que se llenen los siguientes requisitos: 1o.- Que se solicite durante el ofrecimiento de pruebas; 2o.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testifical; 3o.- Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse, o presentarse originales.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 El juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
 
@@ -2162,7 +2172,9 @@ I.- Los testimonios de las escrituras públicas otorgadas con arreglo a derecho 
 
 II.- Los documentos auténticos expedidos por funcionarios que desempeñan cargo público en lo que se refiere al ejercicio de sus funciones;
 
-III.- Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos, o dependientes del Gobierno Federal, o de los Estados, de los ayuntamientos y delegaciones del distrito o territorios federales;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+III.- Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos, o los dependientes del Gobierno Federal, de los Estados o del Distrito Federal;
 
 > <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -2180,13 +2192,17 @@ IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autoriz
 
 X.- Los demás a los que se les reconozca ese carácter por la ley.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ARTICULO 328
 
-Los documentos públicos expedidos por autoridades federales o funcionarios de los Estados, harán fe en el Distrito y Territorio Federal sin necesidad de legalización.
+Los documentos públicos expedidos por autoridades federales o funcionarios de los Estados, harán fe en el Distrito Federal sin necesidad de legalización.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ARTICULO 329
 
-Para que hagan fe en el Distrito y Territorios Federales los documentos públicos procedentes del extranjero, deberán llenar los requisitos que fija el Código Federal de Procedimientos Civiles.
+Para que hagan fe en el Distrito Federal los documentos públicos procedentes del extranjero, deberán llenar los requisitos que fija el Código Federal de Procedimientos Civiles.
 
 ARTICULO 330
 
@@ -2374,9 +2390,11 @@ ARTICULO 358
 
 A los ancianos de más de sesenta años y a los enfermos podrá el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ARTICULO 359
 
-Al Presidente de la República, a los Secretarios de Estado, Senadores, Diputados, Magistrados, Jueces, Generales con mando, a las primeras autoridades políticas del Distrito y de la California, se pedirá su declaración por oficio, y en esta forma la rendirán. En casos urgentes podrán rendir su declaración personalmente.
+Al Presidente de la República, a los Secretarios de Estado, Senadores, Diputados, Magistrados, Jueces, Generales con mando, a las primeras autoridades políticas del Distrito Federal, se pedirá su declaración por oficio, y en esta forma la rendirán. En casos urgentes podrán rendir su declaración personalmente.
 
 ARTICULO 360
 
@@ -2526,7 +2544,7 @@ V.- A exhortar al juez que corresponda para que reciba la información de testig
 
 VI.- A mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes, ordenando las compulsas que fueren necesarias.
 
-(REUBICADO, D.O.F. 14 DE MARZO DE 1973)
+(REUBICADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 ARTICULO 386
 
@@ -2998,13 +3016,9 @@ Terminada la sección de ejecución se agregará al cuaderno principal del juici
 
 ARTICULO 458 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-ARTICULO 459
+ARTICULO 459 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
-
-ARTICULO 460
-
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
+ARTICULO 460 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -3530,7 +3544,9 @@ I.- El embargo de dinero o de créditos fácilmente realizables que se efectúa 
 
 II.- El secuestro de bienes que han sido objeto de embargo judicial anterior en cuyo caso el depositario anterior en tiempo lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el reembargo sea por virtud de cédula hipotecaria, derecho de prenda u otro privilegio real; porque entonces este prevalecerá si el crédito de que procede es de fecha anterior al primer secuestro;
 
-III.- El secuestro de alhajas y demás muebles preciosos que se hará depositándolos en la institución autorizada al efecto por la ley o en Monte de Piedad. En la Baja California en casa de comercio de crédito reconocido.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+III.- El secuestro de alhajas y demás muebles preciosos que se hará depositándolos en la institución autorizada al efecto por la ley o en Monte de Piedad.
 
 ARTICULO 544
 
@@ -3904,7 +3920,9 @@ Los jueces requeridos no ejecutarán las sentencias más que cuando reunieren la
 
 I.- Que versen sobre cantidad líquida o cosa determinada individualmente;
 
-II.- Que si trataren de derechos reales sobre inmuebles o de bienes inmuebles ubicados en el Distrito o Territorio fueren conformes a las leyes del Distrito y Territorio;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Que si trataren de derechos reales sobre inmuebles o de bienes inmuebles ubicados en el Distrito Federal, fueren conforme a las leyes del lugar;
 
 III.- Si tratándose de derechos personales o del estado civil, la persona condenada se sometió expresamente o por razón de domicilio a la justicia que la pronunció;
 
@@ -6098,9 +6116,11 @@ TITULO ESPECIAL
 
 De la Justicia de Paz
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ARTICULO 1
 
-Se establecen en la ciudad de México juzgados de paz en cada delegación o demarcación de policía; en el resto del Distrito Federal y en los Territorios, en las circunscripciones determinadas por la ley orgánica.
+En el Distrito Federal habrá los juzgados de paz que determine la Ley Orgánica de los Tribunales de Justicia del Fuero Común.
 
 > <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
@@ -6128,13 +6148,15 @@ ARTICULO 5
 
 Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de ella cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido también en la demarcación.
 
-En caso de duda será competente por razón del territorio el juez de paz que haya prevenido y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras demarcaciones, será motivo de corrección disciplinaria que impondrá en la ciudad de México el Presidente del Tribunal Superior; en el resto del Distrito y en el Territorio, el juez de primera instancia, mediante queja del agraviado.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+En caso de duda será competente, por razón del territorio, el juez de paz que haya prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras demarcaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia, mediante queja del agraviado.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ARTICULO 6
 
-Cuando el juez de paz recibiere inhibitoria de otro juzgado del Distrito Federal o Territorio en que se promueva competencia por razón de la cuantía y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio sin necesidad de informe especial al Tribunal Superior si se tratare de la ciudad de México, o al juez de primera instancia del lugar si el juzgado de paz radicara en el resto del Distrito Federal o en el Territorio.
-
-El Tribunal o el juez de primera instancia, sin otro trámite, decidirá la competencia en una audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes al recibo de los documentos y a la cual será citado el Ministerio Público sin que sea necesaria su asistencia para que se verifique la vista.
+Cuando el juez de paz recibiere inhibitoria de otro juzgado en que se promueva competencia por razón de la cuantía y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio sin necesidad de informe especial al Tribunal Superior.
 
 Emplazamiento y citaciones
 
@@ -6559,3 +6581,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO QUINTO.
 
 Este Decreto entrará en vigor quince días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
