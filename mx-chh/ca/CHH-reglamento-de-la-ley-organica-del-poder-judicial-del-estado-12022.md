@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-120
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-03-31"
-last_updated: "2001-11-10"
+last_updated: "2003-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2003.
 
 Reglamento publicado en el Folleto Anexo al No. 26 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 1990.
 
@@ -279,7 +279,7 @@ h).- De correspondencia recibida;
 
 XI.- Expedir credenciales de identificación a los funcionarios y empleados del Poder Judicial, las que contendrán lo siguiente:
 
-a).- Fotografía del interesado al margen;
+a).- Fotografía del interesado, al margen;
 
 b).- Descripción del puesto que desempeña y oficina de adscripción; y
 
@@ -289,7 +289,13 @@ Quienes reciban credencial del Poder Judicial, tienen obligación de restituirla
 
 XII.- Guardar y tener a su cargo los expedientes y documentos de la competencia del Tribunal Pleno y del Presidente, y los libros que conforme a la ley deba llevar; y
 
-XIII.- Cumplir los acuerdos e indicaciones del Presidente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ENERO DE 2003)</small>
+
+XIII.- Expedir las constancias y copias certificadas que sean autorizadas legalmente, en los términos que establece este propio reglamento; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE ENERO DE 2003)</small>
+
+XV (SIC).- Cumplir los acuerdos e indicaciones del Presidente.
 
 ###### ARTICULO 28.
 
@@ -683,7 +689,17 @@ VIII.- Guardar en el secreto del juzgado los valores, pliegos, escritos o docume
 
 IX.- Autorizar con su firma y con los sellos del juzgado, los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez, una vez firmadas por éste;
 
-X.- Expedir las constancias y copias certificadas que la ley determine o deban darse a los interesados en virtud de resolución judicial, cotejándolas, sellándolas y firmándolas;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2003)</small>
+
+X.- Expedir las constancias y copias certificadas que la ley determine o deban darse a los interesados en virtud de resolución judicial, cotejándolas, sellándolas y firmándolas.
+
+Las copias certificadas que se expidan, tanto por el Secretario como por quien debe sustituirlo conforme a la ley, deberán satisfacer los siguientes requisitos:
+
+1.- Llevarán una leyenda al principio indicando el nombre y cargo de quien certifica la clase de juicio, el nombre de las partes y el número del expediente en el que obran las constancias que ella contiene.
+
+2.- Al final del documento, deberá asentarse el motivo por el cual se expide, el número de fojas de que consta tanto el expediente del que se deriva, como la copia que se expide, el estado que guarde el proceso y los recursos pendientes de resolución, lugar y fecha de expedición y firma, nombre, y cargo de quien certifica.
+
+3.- Las fojas que formen la copia irán cosidas o grapadas en tres puntos, llevarán el sello de la oficina que las autoriza estampado en el margen superior izquierdo de cada una de ellas, y en la parte central de las hojas abarcando dos páginas interiores y al final al lado de la firma del autorizante.
 
 XI.- Asentar en los expedientes las certificaciones relativas a publicaciones y términos de pruebas y las demás razones que la ley previene o el Juez le ordene;
 
@@ -1053,13 +1069,173 @@ A más tardar dentro del tercer día siguiente, el Visitador remitirá el origin
 
 Queda estrictamente prohibido al Visitador aceptar hospedaje, obsequios o cualquier clase de servicios de parte de los funcionarios o empleados de las dependencias que visita, bajo pena de incurrir en responsabilidad.
 
-## TITULO DECIMO. DE LAS REFORMAS A ESTE REGLAMENTO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
+
+## TITULO DECIMO. DEL PROCEDIMIENTO DE ADQUISICION DE BIENES Y CELEBRACION DE CONTRATOS DE ARRENDAMIENTO Y SERVICIOS
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 124.
 
-Las reformas a este reglamento serán aprobadas por el Pleno del Supremo Tribunal. El acuerdo relativo se publicará por una sola vez en el Periódico Oficial del Estado, señalándose con precisión la fecha de su entrada en vigor.
+Cuando se trate de adquisición de bienes, se podrá realizar:
+
+I.- Por licitación pública, mediante concurso que se convocará a través de publicación que se haga en el diario que tenga mayor circulación en el Estado de Chihuahua, y aquellos medios de comunicación que estime pertinentes la Comisión de Compras.
+
+En la publicación, que se hará por una sola vez, se señalarán las Bases que se establezcan para la licitación y deberán contener como mínimo los requisitos siguientes:
+
+a).- El nombre de la convocante;
+
+b).- Si la adjudicación de los contratos será en forma total o parcial;
+
+c).- El destino de los bienes que se pretenden adquirir;
+
+d).- Las (sic) descripción y especificaciones técnicas de los bienes licitados;
+
+e).- El lugar, fecha y condiciones de transportación y entrega de los bienes licitados;
+
+f).- La descripción de los servicios que se van a licitar;
+
+g).- El lugar, forma y condiciones de prestación del servicio;
+
+h).- Las instrucciones para elaborar las propuestas;
+
+i).- La forma, lugar y condiciones de pago a los licitadores que obtengan el contrato y la especificación de entrega de anticipo, si lo hay;
+
+j).- Los requisitos que deben satisfacer los concursantes para justificar su personalidad y capacidad para contratar y obligar a su representada, en el caso de personas morales;
+
+k).- La fecha de:
+
+a´).- Celebración de la junta de aclaraciones;
+
+b´).- Presentación de muestras, si es el caso;
+
+c´).- Entrega de las ofertas tanto técnicas como económicas, en sobre cerrado por separado, relacionándolas debidamente para su oportuna identificación;
+
+d').- Entrega de la documentación comprobatoria de personalidad y de garantía de seriedad de las propuestas;
+
+e´).- La emisión del fallo adjudicatorio, que podrá prorrogarse por una sola vez.
+
+l).- Las garantías que deben otorgar los convocados tanto para el cumplimiento de los términos señalados en el contrato que se celebre, como para garantizar el anticipo cuando se otorgue, así como la seriedad de la propuesta;
+
+m).- El plazo por el que se dará garantía tanto de bienes como de servicios;
+
+n).- El costo de las Bases y el plazo para adquirirse;
+
+Para la fijación de las fechas a que alude este inciso, la Comisión de Compras tomará en cuenta la naturaleza de los bienes que se pretenden adquirir o el servicio que se pretenda contratar.
+
+II.- Por licitación restringida: En este caso, la Comisión de Compras podrá ordenar, según sea el caso, que se realice por invitación o por adjudicación directa; en la primera hipótesis, se invitará cuando menos a tres proveedores, y en el segundo, resolverá a quién se hace la adjudicación del contrato respectivo.
+
+En ambos casos, la Comisión de Compras deberá procurar, hasta donde sea posible, que los licitadores invitados satisfagan los requisitos que se mencionan en la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 125.
+
+La Comisión de Compras lanzará la convocatoria de compra de bienes o contratación de servicios con la debida oportunidad, incluyendo en ella la descripción de los bienes por adquirir o los servicios por contratar, indicando que los convocados, para participar en la licitación, deberán adquirir las Bases de la misma y satisfacer los requisitos que se mencionan en el artículo 127.
+
+Los interesados en participar en la Licitación deberán satisfacer tales requisitos cuando menos con 24 horas de anticipación a la fecha de la celebración de la junta de aclaraciones, exhibiendo las documentales a que dicho precepto alude.
+
+La Secretaría del Tribunal entregará a quien haga la exhibición, constancia en la que describa la documentación exhibida, anexando copia autorizada de dicha constancia al paquete documental presentado.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 126.
+
+Durante la celebración de la Junta de Aclaraciones, la Comisión de Compras hará saber a los comparecientes los nombres de quiénes satisficieron los requisitos a que alude el artículo 127.
+
+En dicha junta sólo podrán plantearse dudas sobre el contenido de las Bases, las que en ningún momento podrán modificarse, aún cuando exista el consentimiento expreso de los concursantes asistentes. Cualquier cuestión que se suscite en esta Junta, será resuelta por la Comisión de Compras sin ulterior recurso.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 127.
+
+Las personas físicas o morales que deseen participar en la licitación, deberán acreditar:
+
+I.- Que se encuentran debidamente registradas en el Sistema de Administración Tributario, para lo cual exhibirán la cédula del Registro Federal de Contribuyentes, así como las últimas dos declaraciones anuales y las parciales que correspondan.
+
+II.- Su permanencia en el mercado, sea local o nacional en el ramo de bienes o servicios sobre los que verse la convocatoria, por un mínimo de tres años anteriores a la fecha de la misma;
+
+III.- Que su estado financiero les permite asumir las responsabilidades del contrato que se firme para la adquisición de bienes o prestación de servicio, según el caso, exhibiendo para ello los estados financieros consolidados y todos los documentos contables que lo justifiquen, de cuando menos dos años anteriores a la fecha de la Convocatoria.
+
+Las documentales que exhiban los concursantes podrán ser originales o copias certificadas por funcionario con fé pública. Si desean su devolución, deberán acompañar copia simple para ser dejadas en lugar de sus originales.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 128.
+
+La junta de apertura de ofertas, se celebrará con la presencia de aquellos concursantes que presentaron ofertas técnicas y económicas, y se desarrollará con el siguiente orden:
+
+I.- Se hará saber a los comparecientes el nombre de los concursantes que la Comisión de Compras resolvió hayan acreditado los requisitos a que alude el artículo que antecede y el de aquellos que descalificó por no haber cumplido con los requisitos señalados;
+
+II.- Se procederá a la apertura de las ofertas técnicas procediendo a calificarlas y a desechar las que no satisfagan los requisitos legales.
+
+No se abrirán las propuestas económicas relacionadas con las propuestas técnicas que hayan sido desechadas;
+
+III.- Se abrirán las ofertas económicas y se notificará a los concursantes que en la fecha señalada en las Bases, se les hará saber el nombre del concursante ganador.
+
+Tanto las ofertas técnicas que se abran, como las económicas, serán rubricadas en todas sus hojas por los concursantes, que habiendo sido admitidos, se encuentres (sic) presentes.
+
+Durante la celebración de la junta de evaluación de las propuestas, la Comisión de Compras y sus asesores técnicos, contables y legales examinarán en primer lugar la oferta técnica que hagan los licitadores a fin de comprobar que se ajustan a los requerimientos exigidos en la Convocatoria, si estiman que no satisfacen tales requisitos, desecharán la propuesta y se omitirá pasar a la evaluación de la oferta económica de esos concursantes.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 129.
+
+En las Bases se precisarán las responsabilidades que los proveedores a quienes se les adjudiquen los contratos adquirirán.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 130.
+
+La Comisión de Compras descalificará aquellos concursantes que no satisfagan los requisitos establecidos por las Bases; o en el caso que entre ellos se haya celebrado un acuerdo tácito o expreso para elevar los precios de los bienes, o incurran en alguna violación a la Ley Orgánica del Poder Judicial, al Reglamento de Adquisiciones o alguna disposición legal aplicable a este procedimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 131.
+
+La Comisión de Compras podrá suspender temporal o definitivamente la licitación si presume que existen arreglos entre los proveedores para elevar los precios de los bienes que se licitan, o encuentra irregularidades graves dentro del procedimiento de licitación.
+
+Si desaparecen las causas que motivaron la suspensión temporal del procedimiento, la Comisión de Compras podrá acordar su reanudación.
+
+En ambos casos notificará a los concursantes por el medio que considere mas idóneo.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 132.
+
+La Comisión de Compras podrá declarar desierta la licitación cuando:
+
+I.- Ningún proveedor se hubiere inscrito para participar en ella;
+
+II.- Las propuestas presentadas no reúnan los requisitos establecidos en las Bases o en la Ley;
+
+III.- La oferta de los participantes rebase los límites del presupuesto autorizado para la adquisición de los bienes o servicios licitados; o
+
+IV.- Por alguna razón los precios ofrecidos no sean aceptables.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
+
+###### ARTICULO 133.
+
+Cuando se trate de contratar servicios o arrendamiento de bienes, su adjudicación se ajustará, en lo pertinente, a las reglas establecidas anteriormente.
+
+En todo caso deberá consignarse por escrito el contrato que se celebre para la prestación del servicio o para el arrendamiento de bienes, en los que se consigne el objeto, precio y condiciones de pago, garantías que deberá otorgar el concursante para el cumplimiento de las obligaciones que contraiga y todo aquello atingente a la naturaleza del contrato que deba celebrarse.
+
+Cuando se trate de la realización de obra pública, el Pleno por conducto de su Presidente celebrará convenio con el Poder Ejecutivo para que la Secretaría de Obras Públicas auxilie al Poder Judicial en la ejecución de la obra, ajustándose para ello a lo que al respecto previene la Ley de Obra Pública del Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE ENERO DE 2003)</small>
+
+## TITULO UNDECIMO. DE LAS REFORMAS A ESTE REGLAMENTO
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 15 DE ENERO DE 2003)
+
+###### ARTICULO 134.
+
+Las reformas a este reglamento serán aprobadas por el Pleno del Supremo Tribunal. El acuerdo relativo se publicará por una sola vez en el Periódico Oficial del Estado, señalándose con precisión la fecha de su entrada en vigor.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 15 DE ENERO DE 2003)
+
+###### ARTICULO 135.
 
 Sólo los magistrados podrán proponer al Pleno iniciativas de reforma a este Reglamento. Se presentarán al Presidente por escrito, razonando sus fundamentos e incluyendo el texto de reforma propuesto. El Presidente dará cuenta al Pleno en el Acuerdo siguiente a la fecha de su recepción.
 
@@ -1092,3 +1268,15 @@ P.O. 10 DE NOVIEMBRE DE 2001.
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO NÚMERO 5 TOMADO EN SESIÓN PLENARIA EL 14 DE AGOSTO DE 2000, SE ACORDÓ EL PROYECTO DE REFORMA AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL, ADICIONANDO EL ARTÍCULO 40 BIS".]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.]</small>
+
+P.O. 15 DE ENERO DE 2003.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NO. 15 POR MEDIO DEL CUAL SE AGREGA UN TÍTULO UNDÉCIMO AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+TRANSITORIO UNICO: Esta reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2003.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NO. 16 POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 27 Y 82 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+TRANSITORIO UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
