@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1977-05-20"
+last_updated: "1978-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1978.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -223,6 +223,10 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 36.- La soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituídos en los términos de esta ley fundamental.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1978)</small>
+
+Los Partidos Políticos Nacionales y Estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir a la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstas al ejercicio del Poder Público en las esferas Estatal y Municipal y de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 
 38.- Baja California Sur es un Estado democrático, considerando a la democracia, no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
@@ -241,21 +245,35 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-41.- El Congreso del Estado de Baja California Sur se integra con siete diputados electos en su totalidad cada tres años por votación directa, secreta, complementada con diputados de partido, apegándose, en ambos casos, a lo dispuesto por la Ley Electoral del Estado. En cuando (sic) a los diputados de partido regirán, además, las siguientes reglas:
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
-I.- Todo partido político registrado, conforme a lo dispuesto en la Ley Electoral, al obtener el 6% de la votación total en la elección respectiva, tendrá derecho a que se acredite, de sus candidatos, a un diputado;
+41.- El Congreso del Estado de Baja California Sur se integrará con ocho diputados de mayoría relativa electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales uninominales y hasta con dos diputados electos mediante el principio de representación proporcional, apegándose, en ambos casos, a las reglas siguientes:
 
-II.- Si logra mayoría en uno o más distritos electorales, no tendrá derecho a diputado de partido; y
+I.- La base para realizar la demarcación territorial de los ocho Distritos Electorales, será la resultante de dividir la población total del Estado conforme al último censo general de población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socio-económico.
 
-III.- Será acreditado diputado de partido, aquél que obtenga el mayor número de sufragios, en relación a los demás candidatos del mismo partido en la entidad.
+II.- La elección de diputados por el principio de representación proporcional se efectuará mediante el sistema de listas de candidatos que presenten los partidos políticos y se sujetará a las siguientes bases:
 
-42.- Los diputados de mayoría y de partido, son representantes del pueblo sudcaliforniano, tienen la misma categoría e iguales derechos y obligaciones.
+a).- Se constituirá una sola circunscripción plurinominal, que comprenderá todo el Estado.
 
-Por cada diputado propietario se elegirá un suplente. La elección se hará por fórmula.
+b).- Los partidos políticos tendrán derecho a postular candidatos por el principio de representación proporcional, siempre y cuando hayan registrado candidatos por lo menos en tres Distritos Electorales uninominales.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 1977)</small>
+c).- Para que un partido político tenga derecho a que le sean acreditados, de entre sus candidatos, diputados de representación proporcional, deberán alcanzar por lo menos el tres por ciento del total de la votación emitida en el Estado para todas las listas y siempre que no haya logrado ningún diputado de mayoría relativa; se tomará en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
 
-43.- El Congreso del Estado que se instale cada tres años calificará las elecciones de sus miembros y de Gobernador, en su caso, y resolverá las dudas, que hubiere sobre ellas. Sus resoluciones serán definitivas e inapelables.
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
+
+III.- Si un partido político logra mayoría relativa en la elección directa, en uno o más Distritos Electorales mediante el sistema electoral uninominal, no tendrá derecho a diputado de representación proporcional.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+
+42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+
+43.- El Congreso del Estado que se instale cada tres años en los términos de la Ley Electoral del Estado, calificará las elecciones de sus miembros y la de Gobernador, en su caso, resolverá las dudas que hubiere sobre ellas.
+
+Asimismo se constituirá en Colegio Electoral, compuesto de cinco presuntos diputados de mayoría relativa, de acuerdo con las constancias que registre la Comisión Estatal Electoral que hayan obtenido el mayor número de votos en su Distrito y un presunto diputado de representación proporcional del partido que haya obtenido el porcentaje más alto de votación en la Entidad. El Colegio Electoral efectuará las Juntas Preparatorias para el examen y calificación de sus respectivas elecciones.
+
+Ambas resoluciones serán definitivas e inapelables.
 
 44.- Para ser diputado al Congreso del Estado se requiere:
 
@@ -263,7 +281,9 @@ I.- Ser sudcaliforniano y ciudadano del Estado en ejercicio de sus derechos;
 
 II.- Tener 21 años cumplidos el día de la elección; y
 
-III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el distrito correspondiente.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1978)</small>
+
+III.- Tener residencia efectiva no menor de un año anterior al día de la elección, en el Distrito o en la circunscripción del Estado.
 
 45.- No podrá ser diputado:
 
@@ -985,9 +1005,23 @@ CONCEPTO E INTEGRACION
 
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 21 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
-135.- Los Ayuntamientos se integran con un Presidente, un Síndico, cinco Regidores y los Suplentes de éstos, electos por sufragio directo, libre y secreto de los ciudadanos sudcalifornianos en ejercicio de sus derechos. Los miembros de los Ayuntamientos durarán en su encargo tres años, a partir de la fecha en que tomen posesión del mismo.
+135.- Los Ayuntamientos se integran con un Presidente, un Síndico y cinco Regidores, electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa, con excepción de el de la Capital del Estado, donde los Ayuntamientos se complementarán con dos Regidores electos por el principio de representación proporcional en los términos que señala la Ley Electoral del Estado. Por cada miembro del Ayuntamiento habrá un suplente.
+
+El partido político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique un Regidor, siempre y cuando satisfaga los siguientes requisitos:
+
+a).- Que hubiere registrado candidatos propietarios y suplentes, en la elección municipal respectiva.
+
+b).- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
+
+c).- Que alcance, por lo menos, el tres por ciento del total de la votación emitida en el Municipio respectivo.
+
+Un segundo Regidor podrá ser adjudicado al partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos la mitad de los sufragios que el partido triunfador minoritario haya alcanzado. De no darse este mínimo de proporción, se le adjudicará este segundo Regidor al partido triunfador minoritario.
+
+La Ley Reglamentaria determinará los procedimientos que se observarán en dicha asignación.
+
+Los miembros de los Ayuntamientos durarán en su encargo tres años a partir de la fecha en que tomen posesión del mismo.
 
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 
@@ -1336,6 +1370,22 @@ B.O. 20 DE ABRIL DE 1977.
 Artículo Unico: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 20 DE MAYO DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE JULIO DE 1978.
+
+DECRETO NUMERO 111.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE JULIO DE 1978.
+
+DECRETO NUMERO 112.
 
 ###### ARTICULO UNICO.
 
