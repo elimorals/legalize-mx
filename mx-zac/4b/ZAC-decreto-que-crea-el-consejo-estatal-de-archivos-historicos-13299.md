@@ -4,7 +4,7 @@ identifier: "ZAC-decreto-que-crea-el-consejo-estatal-de-archivos-historicos-1329
 country: "mx"
 rank: "decreto"
 publication_date: "1975-02-26"
-last_updated: "1975-02-26"
+last_updated: "1987-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 DECRETO NUMERO 20 POR EL QUE SE CREA EL CONSEJO ESTATAL DE ARCHIVOS HISTORICOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE ARCHIVOS HISTORICOS DE ZACATECAS, PUBLICADA EN EL P.O. DE 7 DE NOVIEMBRE DE 1987, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Zacatecas, el 26 de febrero de 1975.
 
@@ -122,3 +124,19 @@ FERNANDO PAMANES ESCOBEDO.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. URIEL MÁRQUEZ VALERIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 7 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+Se deroga el Decreto número 20 que se publicó el 26 de febrero de 1975 en el Periódico Oficial número 17, relativo a la creación del Consejo Estatal de Archivos Históricos.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo del Estado deberá expedir, dentro de los siguientes 60 días, los reglamentos correspondientes al Sistema Estatal de Archivos y al Archivo General del Estado.
