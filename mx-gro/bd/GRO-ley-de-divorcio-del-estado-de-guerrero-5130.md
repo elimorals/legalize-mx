@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-divorcio-del-estado-de-guerrero-5130"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-13"
-last_updated: "1990-03-13"
+last_updated: "1999-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE DIVORCIO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 1990.
 
@@ -215,9 +215,13 @@ VIII.- El abandono del domicilio conyugal por más de seis meses sin causa justi
 
 IX.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción, en que no se necesita para que se haga ésta que preceda la declaración de ausencia;
 
-X.- La sevicia, las amenazas o las injurias graves de un cónyuge para otro;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
-XI.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el artículo 164 del Código Civil sin que sea necesario agotar previamente los procedimientos, sin justa causa, por alguno de los cónyuges de la sentencia ejecutoriada en el caso del artículo 167 del Código Civil;
+X.- Las conductas de violencia intrafamiliar en los términos de lo dispuesto por el artículo 27 bis del Código Civil para el Estado de Guerrero, así como el incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales tendientes a corregir las conductas de violencia intrafamiliar realizadas contra el cónyuge o los hijos.
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+
+XI.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el artículo 425 del Código Civil sin que sea necesario agotar previamente los procedimientos, sin justa causa, por alguno de los cónyuges de la sentencia ejecutoriada en el caso del artículo 428 del Código Civil;
 
 XII.- La acusación calumniosa hecha por un cónyuge contra el otro, por el delito que merezca pena corporal o alternativa;
 
@@ -366,3 +370,9 @@ Rúbrica.
 El Secretario General de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente despues de su publicación en el Periódico Oficial del Gobierno del Estado.
