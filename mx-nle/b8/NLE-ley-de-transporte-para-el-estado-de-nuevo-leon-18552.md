@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-el-estado-de-nuevo-leon-18552"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-25"
-last_updated: "2002-07-15"
+last_updated: "2002-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de octubre de 2000.
 
@@ -423,7 +423,9 @@ III. Regional: Quince años;
 
 IV. Especializado: Veinte años;
 
-V. De Alquiler: Cinco años.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
+V. De Alquiler: Siete años.
 
 Estos plazos podrán variar en función de que los vehículos tengan longitud mayor a trece metros y que incluyan una mayor comodidad y seguridad para los pasajeros, según se indique en el Reglamento respectivo.
 
@@ -1006,3 +1008,7 @@ ARQ. OSCAR BULNES VALERO
 P.O. 15 DE JULIO DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor noventa días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
