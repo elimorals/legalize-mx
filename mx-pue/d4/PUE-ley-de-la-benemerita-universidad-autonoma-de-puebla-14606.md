@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-benemerita-universidad-autonoma-de-puebla-14606"
 country: "mx"
 rank: "ley"
 publication_date: "1991-04-23"
-last_updated: "1991-04-23"
+last_updated: "1998-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA BENEMERITA UNIVERSIDAD AUTONOMA DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el martes 23 de abril de 1991.
 
@@ -75,9 +75,11 @@ La Universidad tendrá su domicilio en el Municipio de Puebla, pero podrá estab
 
 La inviolabilidad de los recintos universitarios se normará por las disposiciones de orden constitucional y de derecho público procedentes.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 3°.
 
-La Universidad tiene autonomía y libertad para organizarse y gobernarse a sí misma, definir su estructura y funciones académicas, así como sus planes y programas, fijar los términos de ingresos, promoción y permanencia de su personal académico y administrar su patrimonio.
+La Universidad como organismo constitucionalmente autónomo tiene libertad para organizarse y gobernarse a sí misma, definir su estructura y funciones académicas, así como sus planes y programas, fijar los términos de ingreso, promoción y permanencia de su personal académico y administrar su patrimonio.
 
 ###### Artículo 4°.
 
@@ -111,11 +113,13 @@ La Universidad es una Institución Académica Libre y Democrática integrada por
 
 Los trabajadores no académicos tendrán la participación que determine el Estatuto.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
 ### CAPITULO II. DEL PATRIMONIO
 
 ###### Artículo 7°.
 
-El Estado proveerá a la Universidad con suficiencia y oportunidad para el desempeño de sus actividades conforme la partida presupuestal que apruebe anualmente el Congreso. La Universidad tiene la obligación de aplicar todos sus recursos con probidad, eficiencia, eficacia y exclusivamente a los fines que le son propios.
+El Estado proveerá recursos a la Universidad con suficiencia y oportunidad para el desempeño de sus actividades conforme la partida presupuestal que apruebe anualmente el Congreso. La Universidad tiene la obligación de aplicar sus recursos en la consecución de su objeto; administrándolos con probidad, transparencia, eficiencia y eficacia.
 
 ###### Artículo 8°.
 
@@ -123,7 +127,9 @@ El patrimonio de la Universidad se constituye con los bienes y valores siguiente
 
 I.- Los que son actualmente de su propiedad y los que en el futuro adquiera por cualquier título.
 
-II.- Las herencias, legados y donaciones que reciba y los fideicomisos que se constituyan a su favor.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
+II.- Las herencias, legados y donaciones, otros ingresos que reciba directamente o por conducto de la fundación universitaria y los recursos obtenidos de los fideicomisos que se constituyan a su favor.
 
 III.- Los ingresos que se recauden por los derechos que señalen las leyes, el Estatuto y los Reglamentos.
 
@@ -135,9 +141,11 @@ VI.- Las partidas y subsidios anuales, ordinarios y extraordinarios que otorguen
 
 VII.- Los productos y aprovechamientos derivados de sus bienes y valores patrimoniales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 9°.
 
-Los bienes inmuebles que forman parte del patrimonio universitario, tendrán el carácter de inalienables e imprescriptibles y sobre los mismos no podrá constituirse gravamen alguno.
+Los bienes que forman parte del patrimonio universitario, se equiparan al dominio público del Estado, por tal motivo, tienen el carácter de inalienables e imprescriptibles y sobre los mismo (sic) no podrá constituirse gravamen alguno.
 
 Cuando alguno de estos inmuebles deje de ser utilizado para los fines de la Institución, el Consejo Universitario podrá emitir la declaratoria de afectabilidad, a propuesta del Rector, la que protocolizada se inscribirá en el Registro Público de la Propiedad, quedando dicho bien sujeto a las disposiciones del derecho común.
 
@@ -225,11 +233,17 @@ f).- Las demás que establezca el Estatuto.
 
 En los casos previstos por los incisos b), d), e) y f), se requiere el voto de las dos terceras partes de los miembros del Consejo Universitario.
 
-VI.- Designar a propuesta en terna del Rector; Abogado General al Tesorero, y al Auditor y proceder a removerlos por causa grave, conforme a lo dispuesto en la fracción anterior y en los términos que señale el Estatuto.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
 
-VII.- Conocer y aprobar el informe y los Dictámenes que rindan los auditores internos y el externo designado por el Consejo.
+VI.- Designar a propuesta en terna del Rector; al Tesorero, al Contralor y al Abogado General y proceder a removerlos por causa grave, conforme a lo dispuesto en la fracción anterior y en los términos que señale el Estatuto.
 
-VIII.- Conocer y aprobar los informes anuales del Rector, el Tesorero y el Abogado General, y los estados financieros debidamente auditados. Una vez aprobados, se harán del conocimiento público y estarán a disposición de cualquier entidad que solicite consultarlos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
+VII.- Conocer y aprobar los informes anuales del Rector; el Tesorero, el Contralor y el Abogado General.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
+VIII.- Conocer y aprobar los estados financieros debidamente auditados por el Contralor General y por el Despacho Externo que se designe conforme a las normas aplicables; una vez aprobados, se harán del conocimiento público y estarán a disposición de cualquier entidad pública o privada que solicite su consulta, de manera fundada y motivada.
 
 IX.- Conocer y aprobar el proyecto anual de ingresos y el presupuesto de egresos que presente el Rector.
 
@@ -241,9 +255,11 @@ XII.- Las demás que esta Ley, el Estatuto y los Reglamentos le señalen; y cono
 
 DEL RECTOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 15.
 
-El Rector es el Representante Legal de la Institución y Presidente del Consejo Universitario. Durará en su cargo cuatro años y no podrá ser reelecto.
+El Rector es el representante legal de la Institución y Presidente del Consejo Universitario. Durará en su cargo cuatro años; podrá ser nombrado para un segundo periodo.
 
 En asuntos judiciales, la representación legal corresponderá al Abogado General.
 
@@ -255,19 +271,25 @@ Para ser Rector se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos.
 
-> <small>(F. DE E. P.O. 7 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
 
-II.- Tener grado académico de Licenciatura o superior, antigüedad académica en la Institución no menor de cinco años y poseer nombramiento como Profesor o Investigador Titular Definitivo.
+II.- Tener grado académico de maestría o superior expedido por Universidad reconocida, antigüedad en la Institución no menor de cinco años y poseer nombramiento como Profesor o Investigador Titular Definitivo.
 
-III.- Ser mayor de treinta años el día de la elección.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
 
-IV.- Haberse distinguido en su especialidad.
+III.- Ser mayor de treinta y cinco años y menor de sesenta y cinco el día de la elección.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
+IV.- Haberse distinguido en su actividad profesional y gozar de reconocimiento como persona prudente y honorable.
 
 V.- Haberse destacado en el cumplimiento de sus obligaciones y responsabilidades académicas e institucionales, y contribuido fehaciente y significativamente al mejoramiento de la vida universitaria.
 
 VI.- Gozar del respeto y estimación universitaria.
 
-VII.- No ser funcionario público ni dirigente de partido político el día de la elección.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
+VIII.- No ser Ministro de culto religioso.
 
 ###### Artículo 17.
 
@@ -277,7 +299,9 @@ I.- Conducir las relaciones de la Universidad con los poderes públicos, institu
 
 II.- Proponer al Consejo cada año el proyecto de ingresos y el presupuesto de egresos que correspondan.
 
-III.- Proponer al Consejo las ternas para el nombramiento del Abogado General, Tesorero y Auditores Interno y Externo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
+III.- Proponer al Consejo las ternas para el nombramiento del Abogado, Contralor y Tesorero Generales, así como del Auditor Externo.
 
 IV.- Nombrar y remover libremente al Secretario General, al personal de rectoría y a los trabajadores de confianza.
 
@@ -295,11 +319,13 @@ Las Autoridades Académicas Colegiadas por función, tienen a su cargo la planea
 
 Las Autoridades Académicas Colegiadas de Unidades Académicas, son la autoridad superior de la misma.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1998)</small>
+
 ###### Artículo 19.
 
-Las Autoridades Personales tendrán a su cargo la Dirección y Representación de sus respectivas Unidades Académicas. Durarán en su cargo cuatro años y no podrán ser reelectas para el período inmediato.
+Las Autoridades Personales tendrán a su cargo la Dirección y representación de sus respectivas Unidades Académicas. Durarán en su cargo cuatro años; podrán ser nombradas para un segundo período.
 
-Para ser Autoridad Personal se requiere ser Profesor de Carrera definitivo, asociado o Titular y tener los demás requisitos que se señalan en el Estatuto Orgánico.
+Para ser Autoridad Personal se requiere ser Profesor de Carrera definitivo, asociado o Titular y tener los demás requisitos que se señalen en el Estatuto Orgánico.
 
 ###### Artículo 20.
 
@@ -320,6 +346,10 @@ El Estatuto determinará las sanciones y las formas de aplicación a los integra
 ###### Artículo 22.
 
 Las organizaciones culturales, sociales y políticas de los profesores, investigadores, estudiantes y trabajadores no académicos, serán independientes de la Universidad y sus miembros, tanto individual como colectivamente; tendrán la obligación, al igual que todos los miembros de la comunidad universitaria, de respetar la autonomía, el patrimonio y las disposiciones que rijan la vida universitaria.
+
+(ADIONADO, P.O. 28 DE DICIEMBRE DE 1998)
+
+La fundación universitaria no se considera incluida en las organizaciones que se refiere el párrafo primero de este artículo.
 
 ###### Artículo 23.
 
@@ -368,3 +398,15 @@ Las autoridades personales en funciones al momento de entrar en vigor esta Ley, 
 EL GOBERNADOR hará publicar y cumplir la presente Ley. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los 19 días del mes de Abril de 1991.- Diputado Presidente.- Lic. Eduardo Cué Morán.- Rúbrica.- Diputado Vicepresidente.- Lic. Rafael Cañedo Benítez.- Rúbrica.- Diputado Secretario.- Lic. Jorge Jiménez Alonso.- Rúbrica.- Diputado Secretario.- Lic. Federico López Huerta.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los 19 días de mes de Abril de 1991.- El Gobernador del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Héctor Jiménez y Meneses.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
