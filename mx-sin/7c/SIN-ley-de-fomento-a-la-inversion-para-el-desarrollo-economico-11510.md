@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-a-la-inversion-para-el-desarrollo-economico-1151
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-27"
-last_updated: "1996-11-27"
+last_updated: "2001-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO A LA INVERSION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 1996.
 
@@ -584,6 +584,10 @@ El Codesin podrá proponer el otorgamiento de apoyos a través de la prestación
 ###### ARTICULO 35.
 
 Las empresas, sectores o personas que deseen acogerse a los beneficios y estímulos señalados en la Ley, deberán presentar solicitud de incentivos fiscales por escrito a la Secretaría en los formatos que para tal efecto se aprueben y que en su oportunidad se publicarán en el Periódico Oficial "El Estado de Sinaloa" y otros medios de difusión que se consideren necesarios.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Se dará trámite a la solicitud de incentivos fiscales siempre y cuando el peticionario acredite, estar al corriente en el pago de las contribuciones y en el cumplimiento de sus obligaciones fiscales tanto Estatales como Federales y Municipales convenidas. Tratándose de personas morales, también los socios que la integran, deberán cumplir con lo señalado anteriormente.
 
 ###### ARTICULO 36.
 
@@ -1262,3 +1266,19 @@ Francisco C. Frías Castro
 EL SECRETARIO DE DESARROLLO ECONOMICO
 
 Alberto López Vargas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción del Artículo Sexto, relativo a la Ley de Coordinación Fiscal del Estado de Sinaloa, cuya vigencia será a partir del 1° de enero de 2002, en el entendido de que para el ejercicio fiscal de 2002 los factores provisionales que entrarán en vigor el 1 de enero de ese año se calcularán conforme lo establecido en el artículo 4 de la Ley, con las siguientes bases:
+
+a) Para los efectos de la Fracción II se tomarán en cuenta el factor definitivo de distribución de participaciones de 2001, calculado en base al anterior procedimiento y los ingresos municipales propios y por captación de cuotas por el servicio de agua potable de 1999 y 2000.
+
+b) El factor provisional resultante estará en vigor hasta que se calcule el factor definitivo de 2002 con base en el factor definitivo de distribución de participaciones de 2001, calculado con la anterior metodología así como en los ingresos propios de 2001, consignados en las cuentas públicas municipales aprobadas de 2001 y los informes sobre ingresos por cuotas de agua potable de las Juntas Municipales de Agua Potable y Alcantarillado correspondientes a 2001.
+
+Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Secretaría de Hacienda Pública y Tesorería, se entenderán hechas a la Secretaría de Administración y Finanzas.
+
+Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
+
+Artículo Cuarto.- En todas las leyes y reglamentos en los que se menciones al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
