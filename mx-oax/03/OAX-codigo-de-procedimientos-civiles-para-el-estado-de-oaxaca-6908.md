@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1978-12-23"
+last_updated: "1984-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1984.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -671,9 +671,13 @@ III. En todos los demás casos previstos por la ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces, con intervalos no menores de siete días en el Periódico Oficial y otro periódico de los de mayor circulación, haciéndose saber al citado que deberá presentarse dentro de un término que no bajará de quince ni excederá de treinta días, si se trata de citaciones.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1984)</small>
+
 ###### Artículo 116.
 
-La segunda y ulteriores notificaciones se harán personalmente por los secretarios o notificadores a los interesados o sus procuradores, si ocurren a horas de audiencia al juzgado o tribunal respectivo, en el mismo día en que se dicten las resoluciones que hayan de notificarse. Si no lo verifican y tuvieren casa señalada, la notificación se les hará al día siguiente en dicha casa, o por medio de instructivo que se les dejará, entregándose éste a cualquiera de las personas designadas en el artículo 112. Cuando los interesados concurran al juzgado o tribunal con cualquier otro motivo y rehusen ser notificados alegando tener casa señalada, la notificación se hará en los estrados del tribunal, con lo que surtirá sus efectos y el juez o tribunal les aplicará de plano una multa de uno a cincuenta pesos. Si no hubieren señalado casa, el instructivo se fijará en la puerta del juzgado por el término de veinticuatro horas, después de las cuales se agregará a sus autos, asentándose la razón correspondiente.
+La segunda y ulteriores notificaciones se harán por medio de lista que se fijara en lugar visible y de fácil acceso del juzgado. La lista se fijará a primera hora de despacho del día siguiente al de la fecha de la resolución. Si alguna de las partes no se presentará a oír notificaciones hasta las 14:30 horas del mismo día se tendrá por hecha, poniendo el notificador la razón correspondiente.
+
+En la lista a que se refiere el párrafo anterior, se expresaran el número del juicio de que se trate, el nombre del actor y del demandado, y síntesis de la resolución que se notifique.
 
 ###### Artículo 117.
 
@@ -728,6 +732,34 @@ II. Tres días para apelar de autos;
 III. Tres días para la celebración de juntas, reconocimiento de firmas, exhibición de documentos, dictámenes de peritos; a no ser que por circunstancias especiales creyere justo el juez ampliar el término, lo cual podrá hacer por tres días más, salvo cuando se trate del dictamen pericial, pues en este caso la ampliación queda al prudente arbitrio del juez, pero no podrá exceder de quince días;
 
 IV. Tres días para los demás casos.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1984)</small>
+
+###### Artículo 127 Bis.
+
+La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio, desde el emplazamiento hasta antes de la citación para sentencia, si transcurridos 180 días, incluyendo los inhábiles, contados a partir del día siguiente al de la notificación del último acuerdo judicial, no hubiere promoción por escrito de cualquiera de las partes, necesaria para impulsar el procedimiento, los efectos y formas de su declaración se sujetarán a las siguientes normas:
+
+I. La caducidad de la instancia es de orden público irrenunciable y no puede ser materia de convenios entre las partes. El juez la declarará de oficio o a petición de cualquiera de las partes, cuando concurran las circunstancias a que se refiere el presente artículo.
+
+II. La caducidad extingue el proceso, pero no la acción; en consecuencia se puede iniciar un nuevo juicio sin perjuicio de lo dispuesto en la fracción V de este artículo.
+
+III. La caducidad de la primera instancia convierte en ineficaces las acusaciones del juicio y las cosas deben volver al estado que tenían antes de la presentación de la demanda y se levantarán los embargos preventivos y cautelares. Se exceptúan de la ineficacia susodicha las resoluciones firmes sobre competencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere. Las pruebas rendidas en el proceso extinguido por caducidad podrán ser invocados (sic) en el nuevo si se promoviere, siempre que se ofrezcan y precisen en la forma legal.
+
+IV. La caducidad de la segunda instancia, deja firmes las resoluciones apeladas. Así lo declarará el tribunal de apelación.
+
+V. La caducidad de los incidentes, se causa por el transcurso de 180 días, incluyendo los inhábiles, contados a partir de la notificación de la última determinación judicial, sin promoción; la declaración respectiva sólo afectará a las actuaciones del incidente, sin abarcar las de la primera instancia principal aunque haya quedado en suspenso ésta, por la aprobación de aquél.
+
+VI. El término de la caducidad solo se interrumpirá por promociones de las partes o por actos de las mismas, realizados ante autoridad judicial diversa, siempre que tengan relación inmediata y directa con la instancia.
+
+VII. Para los efectos del Artículo 1170, fracción II, del Código Civil, se equiparará la declaración de caducidad de la instancia a la desestimación de la demanda.
+
+VIII. No tiene lugar la declaración de caducidad: a).- En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramitaran independientemente o, que de aquellos surjan o por ellos se motiven; b).- En las actuaciones de jurisdicción voluntaria; c).- En los juicios de alimentos y en los previstos por los artículos 334 y 335 del Código Civil; y, d).- En Los juicios seguidis (sic) ante los alcaldes constitucionales ya (sic) que se refiere el titulo Décimo Sexto de (sic) Código de Procedimientos Civiles.
+
+IX. La suspensión del procedimiento produce la interrupción del término de caducidad y tiene lugar: a).- Cuando por fuerza mayor el juez o las partes no puedan actuar; b).- En los casos en que es necesario esperar, la resolución de una cuestión previa o conexa por el mismo juez o por otras autoridades; c).- Cuando se apruebe ante el juez en incidente que se consumó la caducidad por maquinaciones dolosas de una de las partes en perjuicio de la otra; y, d).- En los demás casos previstos por la Ley.
+
+X. Contra la declaración de caducidad se da solo el recurso de revocación en los juicios que no admiten apelación. Se substanciará con un escrito de cada parte en que se propongan pruebas y la audiencia de recepción de éstas, de alegatos y sentencia. En los juicios que admiten la alzada cabe la apelación en ambos efectos. Si la declaratoria se hace en segunda instancia se admitirá la reposición tanto en la apelación, como en la reposición, la substanciación se reducirá a un escrito de cada parte en que se ofrezcan pruebas y una audiencia en que se reciben, se alegue y se pronuncie resolución, contra la negativa a la declaración de caducidad en los juicios que igualmente admitan la alzada, cabe la apelación en el efecto devolutivo con igual substanciación.
+
+XI. Las costas serán a cargo del actor; pero serán compensables con las que corran a cargo del demandado, en los casos previstos por la Ley y además en aquellos en que se opusiere reconvención, compensación, nulidad y en general, las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 
 ### CAPITULO VIII. De las costas
 
@@ -1535,9 +1567,11 @@ IV. Producir todas las consecuencias de la interpelación judicial, si por otros
 
 V. Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1984)</small>
+
 ###### Artículo 261.
 
-El demandado formulará su contestación respecto de cada uno de los puntos contenidos en la demanda, en los términos prevenidos para aquélla, incluso lo relativo a las pruebas.
+El demandado formulará la contestación en los términos prevenidos para la demanda.
 
 Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes.
 
@@ -1567,31 +1601,25 @@ Cuando en la sentencia definitiva se declare procedente alguna excepción dilato
 
 ###### Artículo 266.
 
-De la contestación a la demanda se dará traslado al actor, para réplica, por el término de seis días; de la réplica, por igual término, al demandado, para dúplica, en sus casos.
+(DEROGADO, P.O. 9 DE JUNIO DE 1984)
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1984)</small>
 
 ###### Artículo 267.
 
-En los escritos de contestación, réplica y dúplica, cada parte deberá referirse a cada uno de los hechos aducidos por la contraria, confesándolos o negándolos; expresando los que ignore por no ser propios. El silencio y las evasivas harán que se tengan por confesados o admitidos los hechos sobre los que no se suscitó controversia.
+En el escrito de contestación, el demandado deberá referirse a cada uno de los hechos aducidos por la contraria, confesándolos o negándolos; expresando los que ignore por no ser propios. El silencio y las evasivas harán que se tengan por confesados o admitidos los hechos sobre los que no se suscitó controversia.
 
 ###### Artículo 268.
 
-En los escritos de réplica y dúplica, tanto el actor como el demandado deberán fijar definitivamente los puntos de hecho y de derecho objeto del debate.
-
-Pueden, sin embargo, modificar o adicionar los que hayan consignado en la demanda y contestación, con tal de que a ello dé mérito un hecho o dicho en la respuesta del colitigante y no se cambie el objeto principal del juicio.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
+(DEROGADO, P.O. 9 DE JUNIO DE 1984)
 
 ###### Artículo 269.
 
-Dentro de las veinticuatro horas que sigan a la presentación de la dúplica si la hubiere, o el día en que se extinguió el término para presentarla, el juez hará constar en autos, extracto conteniendo los puntos cuestionados clara y sucintamente enunciados y enumerados. Tratándose de controversias dimanadas de contratos de arrendamiento de fincas urbanas destinadas para habitación, deben fijar los jueces, los principios de orden público, que las partes están obligadas a respetar, aún cuando éstas no las hayan mencionado en sus cuestiones.
-
-Si no hubiera réplica el extracto se hará dentro de las veinticuatro horas que sigan al día en que expiró el término para presentar aquélla.
-
-En caso de confesión expresa o tácita del demandado; no se requiere dicho extracto.
+(DEROGADO, P.O. 9 DE JUNIO DE 1984)
 
 ###### Artículo 270.
 
-Las partes por una sola vez y sin substanciar artículo y dentro de tercero día, pueden hacer observaciones sobre el extracto que contenga los puntos debatidos.
+(DEROGADO, P.O. 9 DE JUNIO DE 1984)
 
 ###### Artículo 271.
 
@@ -1599,13 +1627,15 @@ Transcurrido el término del emplazamiento sin haber sido contestada la demanda,
 
 Para hacer la declaración de rebeldía, el juez examinará escrupulosamente si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal.
 
-En la misma forma establecida en los dos párrafos anteriores se procederá en el caso en que se dejen de contestar la réplica y la dúplica.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 9 DE JUNIO DE 1984)</small>
 
 Se presumen confesados los hechos de la demanda que se dejen de contestar.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1984)</small>
+
 ###### Artículo 272.
 
-El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de seis días, observándose, respecto de esto y del demandado, las mismas reglas que quedan establecidas en los artículos 266 y siguientes.
+El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de seis días, debiéndose fijar definitivamente los puntos de hecho y de derecho objeto del debate.
 
 ###### Artículo 273.
 
@@ -1705,9 +1735,11 @@ X. Y demás medios que produzcan convicción en el juzgador.
 
 #### Sección Primera. Del término probatorio
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1984)</small>
+
 ###### Artículo 287.
 
-Transcurridos los términos para la contestación de la demanda, la réplica y la dúplica, y fijados por el juez los puntos de la litis, mandará abrir el negocio a prueba por el término de cuarenta días improrrogables.
+Transcurridos los términos para la contestación de la demanda, o de la reconvención o compensación si las hubiere, se mandará abrir el negocio a prueba por el término de cuarenta días improrrogables.
 
 ###### Artículo 288.
 
@@ -2135,7 +2167,7 @@ La declaración una vez firmada no puede variarse ni en la substancia ni en la r
 
 ###### Artículo 365.
 
-En el acto del examen de un testigo, o dentro de los tres días siguientes, pueden las partes atacar el dicho de aquél por cualquier circunstancia que en su concepto afecte su veracidad, cuando esa circunstancia no haya sido ya expresada en sus declaraciones. La petición de tachas se substanciará en incidente por cuaderno separado y su resolución se reservará para la definitiva.
+En el acto del examen de un testigo, o dentro de los tres días siguientes, pueden la partes atacar el dicho de aquél por cualquier circunstancia que en su concepto afecte su veracidad, cuando esa circunstancia no haya sido ya expresada en sus declaraciones. La petición de tachas se substanciará en incidente por cuaderno separado y su resolución se reservará para la definitiva.
 
 ###### Artículo 366.
 
@@ -2521,15 +2553,19 @@ El juicio sumario se inicia, por lo general, con el escrito de demanda en que se
 
 Si la demanda versa sobre cuestiones derivadas del contrato de arrendamiento de fincas urbanas destinadas para habitación, el actor deberá presentar el contrato debidamente registrado.
 
-Del escrito de demanda se correrá traslado al demandado por un término no mayor de cinco días para que produzca la contestación. De ésta se dará traslado al actor para réplica por tres días; de la réplica por igual término al demandado para dúplica.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1984)</small>
+
+Del escrito de demanda se correrá traslado al demandado por un término no mayor de cinco días para que produzca la contestación.
 
 ###### Artículo 426.
 
 En los escritos que fijan la controversia las partes ofrecerán las pruebas y señalarán los archivos para la compulsa de aquellos documentos que no tuvieren en su poder.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1984)</small>
+
 ###### Artículo 427.
 
-Fijada la litis por el juez y solicitada prueba, se concederá dilación hasta por quince días para rendir aquélla.
+Transcurrido el término para la contestación de la demanda, se mandará abrir el negocio a prueba por el término de 15 días improrrogables.
 
 ###### Artículo 428.
 
@@ -5848,3 +5884,9 @@ CUARTO.- Se derogan las Fracciones I, V, VI y VII del Artículo 424 del Código 
 QUINTO.- La creación de los Juzgados de los Familiar se hace, además con una contribución al "Año Internacional del Niño", declarado para 1979, por la O.N.U., en los (sic) 106 Asamblea General realizada en Diciembre de 1976, en la Ciudad de Nueva York.
 
 SEXTO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1984.
+
+PRIMERO.- Las modificaciones, adiciones, derogaciones y agregado a que se contrae el presente decreto, comenzará (sic) a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La tramitación de los negocios que estén pendientes al entrar en vigor las presentes modificaciones, adiciones, derogaciones y agregado, se sujetarán al Código anterior hasta pronunciarse sentencia definitiva.
