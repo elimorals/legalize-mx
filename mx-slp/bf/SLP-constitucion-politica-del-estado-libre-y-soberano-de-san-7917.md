@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2002-02-11"
+last_updated: "2002-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2002.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -531,7 +531,9 @@ Los partidos políticos con derecho a participar en las elecciones locales podr�
 
 La ley reglamentará la forma y procedimientos relativos a la elección de Diputados de mayoría y a la asignación de Diputados de representación proporcional.
 
-Ningún partido podrá obtener más de dieciséis Diputados del total del Congreso del Estado.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2002)</small>
+
+El máximo de Diputados por ambos principios, que pueda alcanzar un partido político, será igual al número de distritos uninominales del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2174,3 +2176,9 @@ En caso de que las partes no acepten conciliar sus intereses, el Juez iniciará 
 Las resoluciones de los Jueces Menores en asuntos de justicia indígena no admiten recurso alguno.
 
 QUINTO. Las relaciones laborales que en su caso se vean afectadas como consecuencia de este Decreto, se resolverán en los términos de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios, vigente.
+
+P.O. 16 DE AGOSTO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
