@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1983-02-21"
+last_updated: "1984-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -66,9 +66,37 @@ Son trabajadores de confianza:
 
 I. Los que integran la planta de la Presidencia de la República y aquéllos cuyo nombramiento o ejercicio requiera la aprobación expresa del Presidente de la República;
 
-> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 1984)</small>
 
-II. En el Poder Ejecutivo, los de las dependencias y los de las entidades comprendidas dentro del régimen del Apartado "B" del Artículo 123 Constitucional que desempeñen funciones que conforme a los catálogos a que alude el Artículo 20 de esta Ley, sean de dirección, inspección, vigilancia, fiscalización, manejo de fondos o valores, auditoría, control directo de adquisiciones, responsables de los almacenes e inventarios, investigación científica, asesoría o consultoría, así como el personal que quede adscrito en forma directa e inmediata a quienes desempeñen los puestos mencionados, secretarios particulares en todas sus categorías y los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción anterior; los agentes del Ministerio Público Federal y del Distrito Federal, los agentes de las policías judiciales y los miembros de las policías preventivas. Han de considerarse de base todas las categorías que con aquella clasificación consigne el catálogo de empleos de la Federación para el personal docente de la Secretaría de Educación Pública.
+II.- En el Poder Ejecutivo, los de las dependencias y los de las entidades comprendidas dentro del régimen del apartado "B" del artículo 123 Constitucional, que desempeñan funciones que conforme a los catálogos a que alude el artículo 20 de esta Ley sean de:
+
+a).- Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando a nivel directores generales, directores de área, adjuntos, sub-directores y jefes de departamento.
+
+b).- Inspección, vigilancia y fiscalización: exclusivamente a nivel de las jefaturas y sub-jefaturas, cuando estén considerados en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que en forma exclusiva y permanente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza.
+
+c).- Manejo de fondos o valores, cuando se implique la facultad legal de disponer de éstos, determinando su aplicación o destino. El personal de apoyo queda excluido.
+
+d).- Auditoría: a nivel de auditores y sub-auditores generales, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de las Contralorías o de las Areas de Auditoría.
+
+e).- Control directo de adquisiciones: cuando tengan la representación de la dependencia o entidad de que se trate, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de las dependencias y entidades con tales características.
+
+f).- En almacenes e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios.
+
+g).- Investigación científica, siempre que implique facultades para determinar el sentido y la forma de la investigación que se lleve a cabo.
+
+h).- Asesoría o Consultoría, únicamente cuando se proporcione a los siguientes servidores públicos superiores; Secretario, Sub-secretario, Oficial Mayor, Coordinador General y Director General en las dependencias del Gobierno Federal o sus equivalentes en las Entidades.
+
+i).- El personal adscrito presupuestalmente a las Secretarías particulares o Ayudantías.
+
+j).- Los Secretarios particulares de: Secretario, Sub-Secretario, Oficial Mayor y Director General de las dependencias del Ejecutivo Federal o sus equivalentes en las entidades, así como los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción I de este artículo.
+
+k).- Los Agentes del Ministerio Público Federal y del Distrito Federal.
+
+l).- Los Agentes de las Policías Judiciales y los miembros de las Policías Preventivas.
+
+Han de considerarse de base todas las categorías que con aquella clasificación consigne el Catálogo de Empleos de la Federación, para el personal docente de la Secretaría de Educación Pública.
+
+La clasificación de los puestos de confianza en cada una de las dependencias o entidades, formará parte de su catálogo de puestos.
 
 III.- En el Poder Legislativo: en la Cámara de Diputados: el Oficial Mayor, el Director General de Departamentos y Oficinas, el Tesorero General, los Cajeros de la Tesorería, Director General de Administración, el Oficial Mayor de la Gran Comisión, el Director Industrial de la Imprenta y Encuadernación y el Director de la Biblioteca del Congreso.
 
@@ -244,11 +272,15 @@ Durante las horas de jornada legal, los trabajadores tendrán obligación de des
 
 ### CAPITULO III
 
-> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 32.
 
-El sueldo o salario que se asigna en el catálogo General de Puestos del Gobierno Federal, constituye la retribución básica presupuestal que debe pagarse al trabajador a cambio de los servicios prestados.
+El sueldo o salario que se asigna en el CATALOGO GENERAL DE PUESTOS DEL GOBIERNO FEDERAL, constituye la retribución básica presupuestal que debe pagarse al trabajador a cambio de los servicios prestados.
+
+Los niveles de sueldo base presupuestal del tabulador que consignen sueldos equivalentes al salario mínimo deberán incrementarse en el mismo porcentaje en que se aumente éste.
+
+La Secretaría de Programación y Presupuesto, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los caso de alcances en los niveles de tabuIador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
 
 ###### ARTICULO 33.
 
@@ -376,9 +408,19 @@ Las aportaciones que se hagan a dicho fondo serán enteradas al Instituto de Seg
 
 VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las prestaciones sociales a que tengan derecho de acuerdo con la ley y los reglamentos en vigor;
 
-VIII.- Conceder licencias sin goce de sueldo a sus trabajadores, para el desempeño de las comisiones sindicales que se les confieran o cuando sean promovidos temporalmente al ejercicio de otras comisiones en dependencia diferente a la de su plaza o como funcionario de elección popular.
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 1984)</small>
 
-Las licencias que se concedan en los términos del párrafo anterior, se computarán como tiempo efectivo de servicios dentro del escalafón, y
+VIII.- Conceder licencias a sus trabajadores, sin menoscabo de sus derechos y antigüedad y en los términos de las Condiciones Generales de Trabajo, en los siguientes casos:
+
+a).- Para el desempeño de comisiones sindicales.
+
+b).- Cuando sean promovidos temporalmente al ejercicio de otras comisiones, en dependencia diferente a la de su adscripción.
+
+c).- Para desempeñar cargos de elección popular.
+
+d).- A trabajadores que sufran enfermedades no profesionales, en los términos del artículo 111 de la presente Ley, y
+
+e).- Por razones de carácter personal del trabajador.
 
 IX.- Hacer las deducciones, en los salarios, que soliciten los sindicatos respectivos, siempre que se ajusten a los términos de esta ley.
 
@@ -586,9 +628,11 @@ Cuando se trate de vacantes temporales que no excedan de seis meses no se mover�
 
 Las vacantes temporales mayores de seis meses serán ocupadas por riguroso escalafón; pero los trabajadores ascendidos serán nombrados en todo caso con el carácter de provisionales, de tal modo que si quien disfrute de la licencia reingresare al servicio, automáticamente se correrá en forma inversa el escalafón y el trabajador provisional de la ultima categoría correspondiente, dejará de prestar sus servicios sin responsabilidad para el titular.
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 65.
 
-Las vacantes temporales mayores de seis meses serán las que se originen por licencias sin sueldo otorgadas a un trabajador de base para desempeñar puestos de confianza, comisiones sindicales o cargos de elección popular.
+Las vacantes temporales mayores de seis meses serán las que se originen por licencias otorgadas a un trabajador de base en los términos del artículo 43 fracción VIII de esta Ley.
 
 ###### ARTICULO 66.
 
@@ -930,27 +974,95 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ### CAPITULO I
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 118.
 
-El Tribunal Federal de Conciliación y Arbitraje será colegiado y lo integrarán un magistrado representante del Gobierno Federal que será designado por éste, un magistrado representante de los trabajadores, designado por la Federación de Sindicatos de Trabajadores al Servicio del Estado; y un magistrado tercer árbitro que nombrarán los dos representantes citados. Este último fungirá como presidente.
+El Tribunal Federal de Conciliación y Arbitraje será colegiado, funcionará en Pleno y en Salas, se integrará cuando menos con tres Salas, las que podrán aumentarse cuando así se requiera. Cada Sala estará integrada por un Magistrado designado por el Gobierno Federal, un Magistrado representante de los trabajadores, designado por la Federación de Sindicatos de Trabajadores al Servicio del Estado y un Magistrado tercer árbitro, que nombrarán los dos primeros y que fungirá como Presidente de Sala.
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+Además de las Salas a que se refiere el párrafo anterior, en las capitales de las entidades federativas podrán funcionar las Salas Auxiliares del Tribunal Federal de Conciliación y Arbitraje que el Pleno considere necesarias, integradas en igual forma que las Salas.
+
+El Pleno se integrará con la totalidad de los Magistrados de las Salas y un Magistrado adicional, designado por el Presidente de la República, que fungirá como Presidente del propio Tribunal.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 119.
 
-Para la designación de nuevos magistrados, por vacantes, se seguirá el procedimiento indicado en el Artículo anterior.
+Para la designación de nuevos Magistrados si quedan vacantes, se seguirá el procedimiento indicado en el artículo anterior.
 
-Las faltas temporales del presidente del Tribunal, serán cubiertas por el Secretario General de Acuerdos y las de los demás Magistrados por la persona que designe el Organismo que cada uno representa.
+El Presidente del Tribunal será sustituido en sus faltas temporales, y en las definitivas en tanto se expide nuevo nombramiento, por el Secretario General de Acuerdos del Tribunal. Las faltas temporales de los Presidentes de las Salas serán cubiertas por el Secretario General Auxiliar de la Sala o Sala Auxiliar correspondiente y las de los demás Magistrados por la persona que señale quien haya hecho la designación original.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 120.
 
-El Presidente del Tribunal durará en su cargo seis años y disfrutará de emolumentos iguales a los de los ministros de la Suprema Corte de Justicia de la Nación, y sólo podrá ser removido por haber cometido delitos graves del orden común o federal.
+El Presidente del Tribunal y los Presidentes de Sala y Sala Auxiliar, durarán en su encargo seis años. Los Magistrados representantes del Gobierno Federal y de los Trabajadores al Servicio del Estado, podrán ser removidos libremente por quienes los designaron.
 
-Los magistrados del tribunal, representantes de la organización de trabajadores y del Estado, podrán ser removidos libremente por quienes los designaron.
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+###### ARTICULO 120-A.
+
+El Presidente del Tribunal Federal de Conciliación y Arbitraje tendrá las facultades y obligaciones siguientes:
+
+I.- Ejercer la representación del Tribunal;
+
+II.- Dirigir la administración del mismo;
+
+III.- Presidir las sesiones del Pleno;
+
+IV.- Cuidar el orden y la disciplina del personal del Tribunal y conceder las licencias que, de acuerdo con la Ley, le sean solicitadas;
+
+V.- Asignar los expedientes a cada una de las salas, conforme a las normas que establezca el Reglamento Interior;
+
+VI.- Vigilar que se cumplan los laudos dictados por el Pleno;
+
+VII.- Vigilar el correcto funcionamiento de las Salas y de las Salas Auxiliares;
+
+VIII.- Rendir los informes relativos a los amparos que se interpongan en contra de los laudos y de las resoluciones dictadas por el Pleno;
+
+IX.- Llevar la correspondencia oficial del Tribunal salvo las reservadas a los Presidentes de las Salas, y
+
+X.- Las demás que le confieran las Leyes.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+###### ARTICULO 120-B.
+
+El Presidente de cada una de las Salas, tiene las facultades y obligaciones siguientes:
+
+I.- Cuidar el orden y la disciplina del personal de la Sala;
+
+II.- Vigilar que se cumplan los laudos dictados por la Sala;
+
+III.- Rendir los informes en los amparos, cuando las Salas tengan el carácter de autoridad responsable;
+
+IV.- Informar al Presidente del Tribunal de las deficiencias que observe en el funcionamiento de la Sala y sugerir las medidas convenientes para corregirlas;
+
+V.- Tramitar la correspondencia relacionada con los asuntos de la competencia de la Sala, y
+
+VI.- Las demás que le confieran las Leyes.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+###### ARTICULO 120-C.
+
+Los Presidentes de las Salas Auxiliares, tendrán las facultades y obligaciones siguientes:
+
+I.- Cuidar el orden y la disciplina del personal de la Sala;
+
+II.- Remitir al Tribunal los expedientes, dentro del término fijado en la fracción II del artículo 124-C de esta Ley;
+
+III.- Rendir los informes en los amparos, cuando las Salas Auxiliares tengan el carácter de autoridad responsable;
+
+IV.- Tramitar la correspondencia relacionada con los asuntos de la competencia de la Sala, y
+
+V.- Las demás que le confieran las Leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 121.
 
-Para ser magistrado del Tribunal Federal de Conciliación y Arbitraje, se requiere:
+Para ser Magistrado del Tribunal Federal de Conciliación y Arbitraje se requiere:
 
 I.- Ser mexicano en pleno goce de sus derechos civiles;
 
@@ -958,19 +1070,51 @@ II.- Ser mayor de veinticinco años, y
 
 III.- No haber sido condenado, por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales.
 
-El Presidente deberá ser Licenciado en Derecho.
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
-El magistrado representante de los trabajadores, deberá haber servido al Estado como empleado de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
+El Presidente del Tribunal y los Presidentes de Sala y de Sala Auxiliar, así como el Magistrado nombrado por el Gobierno Federal, deberán poseer título profesional de Licenciado en Derecho, legalmente expedido cuando menos cinco años antes de la designación, y tener un mínimo de tres años de experiencia acreditable en materia laboral.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+El Magistrado representante de los trabajadores, deberá haber servido al Estado como empleado de base, por un período no menor de cinco años, precisamente anterior a la fecha de la designación.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+###### ARTICULO 121-A.
+
+El Presidente del Tribunal Federal de Conciliación y Arbitraje disfrutará de emolumentos iguales a los de los Ministros de la Suprema Corte de Justicia de la Nación, y los Presidentes de las Salas y Salas Auxiliares, así como los magistrados de las mismas disfrutarán de los que correspondan a los que perciben los Jueces de Distrito.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 122.
 
-El Tribunal contará con un Secretario General de Acuerdos, los secretarios, actuarios y el personal que sea necesario. Los secretarios, actuarios y empleados del Tribunal estarán sujetos a la presente Ley; pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por las autoridades federales del trabajo. Los secretarios deben ser Licenciados en Derecho.
+El Tribunal Federal de Conciliación y Arbitraje contará con un Secretario General de Acuerdos. El Pleno contará con el personal que sea necesario para atender los asuntos de su competencia. En cada Sala y Sala Auxiliar, habrá un Secretario General Auxiliar y el número de Secretarios de Acuerdos, Actuarios y personal administrativo, que sean necesarios para atender el volumen de asuntos.
+
+El Tribunal tendrá también el número de Conciliadores que sean necesarios para prestar el servicio público de conciliación en los asuntos de la competencia del Tribunal o que les encomiende el Presidente de éste, interviniendo y dando fe pública de los convenios que las partes celebren con su intervención. El nombramiento de los Conciliadores será hecho por el Presidente del Tribunal.
+
+Contará asimismo con una Procuraduría de la Defensa de los Trabajadores al Servicio del Estado integrada por un Procurador y el número de Procuradores Auxiliares que se juzgue necesario para la defensa de los intereses de los trabajadores y que, en forma gratuita, representará o asesorará a los trabajadores, siempre que lo soliciten, en las cuestiones que se relacionen con la aplicación de esta Ley, interponiendo los recursos ordinarios y el juicio de amparo, cuando procedan, para la defensa del trabajador y proponiendo a las partes interesadas soluciones conciliatorias para el arreglo de sus conflictos haciendo constar los resultados en actas autorizadas.
+
+Los nombramientos del Procurador y de los Procuradores Auxiliares los hará el Presidente del Tribunal, con el acuerdo del Pleno. Las autoridades están obligadas a proporcionar a la Procuraduría los datos e informes que solicite para el mejor desempeño de sus funciones. El Reglamento determinará las atribuciones y obligaciones de la Procuraduría.
+
+Los Secretarios de Acuerdos, Actuarios y el personal administrativo del Tribunal son de base y estarán sujetos a la presente Ley; pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por las autoridades federales del trabajo.
+
+El Secretario General de Acuerdos, los Secretarios Generales Auxiliares, los Secretarios de Acuerdos y el Jefe de Actuarios, deberán satisfacer los siguientes requisitos:
+
+I.- Ser mexicanos, mayores de edad y estar en pleno ejercicio de sus derechos;
+
+II.- Tener título legalmente expedido de Licenciado en Derecho, y
+
+III.- No haber sido condenados por delito intencional sancionado con pena corporal.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 123.
 
-El Tribunal nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley.
+El Tribunal, por conducto del Pleno, nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley.
 
-Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado consignándose en el Presupuesto de la Secretaria de Hacienda y Crédito Público.
+Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado, consignándose en el presupuesto de la Secretaría de Gobernación.
+
+El personal jurídico y administrativo del Tribunal Federal de Conciliación y Arbitraje, tendrá las facultades y atribuciones específicas que determinen esta Ley y el Reglamento Interior del Tribunal.
 
 ### CAPITULO II
 
@@ -978,7 +1122,9 @@ Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Es
 
 El Tribunal Federal de Conciliación y Arbitraje será competente para:
 
-I.- Conocer de los conflictos individuales que se susciten entre titulares de una dependencia y sus trabajadores;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 1984)</small>
+
+I.- Conocer de los conflictos individuales que se susciten entre titulares de una dependencia o entidad y sus trabajadores.
 
 II.- Conocer de los conflictos colectivos que surjan entre el Estado y las organizaciones de trabajadores a su servicio;
 
@@ -986,7 +1132,47 @@ III.- Conceder el registro de los sindicatos o, en su caso, dictar la cancelaci�
 
 IV.- Conocer de los conflictos sindicales e intersindicales, y
 
-V.- Efectuar el registro de las condiciones generales de trabajo.
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 1984)</small>
+
+V.- Efectuar el registro de las Condiciones Generales de Trabajo, Reglamentos de Escalafón, Reglamentos de las Comisiones Mixtas de Seguridad e Higiene y de los Estatutos de los Sindicatos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+###### ARTICULO 124-A.
+
+Al Pleno del Tribunal Federal de Conciliación y Arbitraje corresponde:
+
+I.- Expedir el Reglamento Interior y los manuales de organización del Tribunal;
+
+II.- Uniformar los criterios de carácter procesal de las diversas Salas, procurando evitar sustenten tesis contradictorias;
+
+III.- Tramitar y resolver los asuntos a que se refieren las fracciones II, III, IV y V del artículo anterior;
+
+IV.- Determinar, en función de las necesidades del servicio, la ampliación de número de Salas y de Salas Auxiliares que requiera la operación del Tribunal, y
+
+V.- Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+###### ARTICULO 124-B.
+
+A cada una de las Salas corresponde:
+
+I.- Conocer, tramitar y resolver los conflictos individuales que se susciten entre los titulares de las dependencias o entidades y sus trabajadores, y que le sean asignados, de conformidad con lo establecido en el Reglamento Interior, y
+
+II.- Las demás que les confieren las Leyes.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1984)</small>
+
+###### ARTICULO 124-C.
+
+A las Salas Auxiliares corresponde:
+
+I.- Conocer de los conflictos individuales que se susciten entre las dependencias o entidades a que se refiere el Artículo Primero de esta Ley y sus trabajadores, cuando éstos presten sus servicios en las entidades federativas de su jurisdicción;
+
+II.- Tramitar todos los conflictos a que se refiere la fracción anterior hasta agotar el procedimiento, sin emitir laudo, debiendo turnar el expediente al Presidente del Tribunal Federal de Conciliación y Arbitraje, dentro de los diez días siguientes a aquél en que se declare cerrada la instrucción, para que éste lo turne a la sala correspondiente que dictará el laudo, y
+
+III.- Las demás que les confieran las Leyes.
 
 ### CAPITULO III
 
@@ -1012,11 +1198,25 @@ II.- Dentro de los tres días siguientes a la presentación de la demanda se cor
 
 III.- Fijados los términos de la controversia y reunidas las pruebas que se hubiesen presentado con la demanda y la contestación, el Tribunal citará a una audiencia que se celebrará dentro de los quince días siguientes de recibida la contestación, en la que se desahogarán pruebas, se escucharán los alegatos de las partes y se dictarán los puntos resolutivos del laudo, que se engrosará dentro de los cinco días siguientes a la fecha de la celebración de la audiencia, salvo cuando a juicio del Tribunal se requiera la práctica de otras diligencias para mejor proveer, en cuyo caso se ordenará que se lleven a cabo y una vez desahogadas se dictará el laudo dentro de quince días.
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 128.
 
-Las audiencias estarán a cargo de los Secretarios de Audiencias del Tribunal. El Secretario General de Acuerdos resolverá todas las cuestiones que en ellas se susciten. Estas resoluciones serán revisadas por el Tribunal a petición de parte, la que deberá formularla por escrito dentro de las 24 horas siguientes. Las demás actuaciones se efectuarán con la asistencia de los Magistrados que integran el Tribunal y serán válidas con la concurrencia de dos de ellos. Sus resoluciones se dictarán por mayoría de votos.
+Las audiencias, según corresponda, estarán a cargo de lo (sic) Secretarios de Audiencias, del Pleno o de las Salas y Salas Auxiliares. El Secretario General de Acuerdos del Tribunal o los Secretarios Generales Auxiliares de las Salas y Salas Auxiliares, resolverán todas las cuestiones que en ellas se susciten. A petición de parte, formulada dentro de las veinticuatro horas siguientes, estas resoluciones serán revisadas por el Pleno o por las Salas respectivas.
+
+Para el funcionamiento del Pleno se requerirá la presencia del Presidente del Tribunal y de la mayoría de los Magistrados que lo integran. Los acuerdos del Pleno se tomarán por mayoría de votos de los Magistrados presentes. Para el funcionamiento de las Salas y Salas Auxiliares, bastará la presencia del Presidente de la misma, pero los tres Magistrados que la integran deberán conocer necesariamente de las resoluciones siguientes:
+
+I.- Las que versen sobre personalidad;
+
+II.- Las que versen sobre competencia;
+
+III.- Las que versen sobre admisión de pruebas;
+
+IV.- Las que versen sobre nulidad de actuaciones;
+
+V.- El laudo, en el caso de las Salas, y
+
+VI.- Las que versen sobre el desistimiento de la acción de los trabajadores, en los términos del artículo 140 de esta Ley.
 
 ###### ARTICULO 129.
 
@@ -1345,3 +1545,27 @@ Aquellos trabajadores que tengan puesto de base al implantarse el catálogo de p
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ENERO DE 1984.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+
+PRIMERO.- Las reformas y adiciones a la Ley Federal de los Trabajadores al Servicio del Estado que establece este Decreto, entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Todos los asuntos pendientes se resolverán conforme a lo establecido por el presente Decreto.
+
+TERCERO.- La modificación a la estructura del Tribunal Federal de Conciliación y Arbitraje no afectará al personal a su servicio, en cuanto a su calidad de trabajadores de base y a sus percepciones.
+
+CUARTO.- El Pleno del Tribunal deberá expedir su Reglamento Interior dentro de quince días a partir de su integración, conforme a lo dispuesto por el presente Decreto.
+
+D.O.F. 12 DE ENERO DE 1984.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 5, 32, 43 Y 65 A LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO "B" DEL ARTICULO 123 CONSTITUCIONAL.
+
+###### ARTICULO PRIMERO.
+
+Aquellos trabajadores que tengan puesto de base al entrar en vigor las presentes reformas conservarán para todos los efectos legales su calidad de trabajadores con puesto de base, sin perjuicio de lo dispuesto en el artículo primero transitorio del Decreto de Reformas de esta Ley, de fecha 28 de diciembre de 1982, publicado en el Diario Oficial de la Federación de fecha 21 de febrero de 1983.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
