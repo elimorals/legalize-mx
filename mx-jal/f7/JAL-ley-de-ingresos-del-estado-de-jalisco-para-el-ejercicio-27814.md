@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-27814"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-12-24"
-last_updated: "2003-11-08"
+last_updated: "2003-11-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2003
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial el martes 24 de Diciembre de 2003.
 
@@ -743,7 +743,11 @@ e) En los juicios de alimentos cuando sean solicitados por el acreedor alimentis
 
 III. Las certificaciones que asienten en los expedientes los Secretarios de los Tribunales, sobre hechos o actos ocurridos en la tramitación de los juicios;
 
-IV. Los servicios a que se refiere el capítulo primero del presente Título, cuando se deriven de actos, contratos y operaciones celebrados con la participación directa en los mismos, de organismos públicos de seguridad social, del trabajo o de la Comisión para la regularización de la Tenencia de la Tierra y de la Federación, Estado o Municipios; exceptuándose de lo anterior los trámites que sean para el procedimiento administrativo de ejecución.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2003)</small>
+
+IV. Los servicios a que se refiere el capitulo primero del presente Título, cuando se trate de actos, contratos y operaciones celebrados con la participación directa de organismos públicos de Seguridad Social; Autoridades del Trabajo; Comisión para la Regularización de la Tenencia de la Tierra; la Federación, Estado o Municipios; exceptuándose de lo anterior los trámites que sean para el procedimiento administrativo de ejecución.
+
+La misma exención aplicará para los servicios que se deriven de actos, contratos y operaciones celebrados por las Sociedades Financieras de Objeto Limitado, autorizados por la Secretaría de Hacienda y Crédito Público, para la promoción, adquisición y financiamiento de vivienda de interés social, en ejecución de los programas de organismos de seguridad social, de la Federación o del Estado.
 
 ### CAPÍTULO VI. De los Servicios Diversos
 
@@ -1032,5 +1036,9 @@ P.O. 19 DE AGOSTO DE 2003.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 8 DE NOVIEMBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE NOVIEMBRE DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
