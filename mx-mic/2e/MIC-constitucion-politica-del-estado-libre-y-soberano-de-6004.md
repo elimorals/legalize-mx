@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1982-03-29"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1982.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -243,21 +243,13 @@ Por cada diputado propietario, se elegirá un suplente.
 
 Estará integrado por dieciocho diputados electos según el principio de votación mayoría relativa mediante el sistema de distritos electorales uninominales y hasta seis diputados más que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos, votadas en una circunscripción plurinominal que comprenderá la totalidad de los distritos electorales del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 21.
 
-Para la elección de los diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales uninominales, cuya denominación y demarcación territorial señalará la Ley, teniendo en cuenta el último censo general de población.
+Para la elección de los Diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales uninominales, cuya denominación y demarcación territorial señalará la Ley, teniendo en cuenta el último censo general de población.
 
-En la elección de los seis diputados, según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal integrada por la totalidad de los distritos electorales uninominales del Estado, sujetándose a las bases generales siguientes y a lo que en particular disponga la Ley:
-
-I. Para obtener el registro de su lista el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la tercera parte de los dieciocho distritos uninominales.
-
-II. Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que: A) No haya obtenido cuatro o más constancias de mayoría y B) Que alcance por lo menos el 1.5% del total de la votación emitida para las listas de candidatos en la circunscripción plurinominal.
-
-III. Al partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista de diputados que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal. La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-IV. En el caso de que dos o más partidos con derecho a participar en la distribución de las listas de candidatos obtengan en su conjunto cinco o más constancias de mayoría, sólo serán objeto de reparto el 50% de los curules que deben asignarse por el principio de representación proporcional.
+En relación con los seis Diputados, según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal, integrada por la totalidad de los distritos electorales uninominales del Estado, sujetándose a las bases que establezca la Ley Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -537,9 +529,13 @@ XVII.- Conceder honores, premios y recompensas a las personas que presten servic
 
 XVIII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
 
-XIX.- Separar de su cargo a los miembros de los ayuntamientos o declarar desaparecidos éstos, en su caso, a petición del Ejecutivo, cuando se llene cualquiera de los requisitos siguientes:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-a).- Cuando alguno de los regidores cometa un delito oficial o del orden común;
+XIX.- Separar de sus cargos a los miembros de los Ayuntamientos o declarar desaparecidos éstos, en su caso, a petición del Ejecutivo, cuando se llene cualquiera de los requisitos siguientes:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+a) Cuando alguno de los integrantes del Ayuntamiento cometa un delito oficial o del orden común;
 
 b).- Cuando el cuerpo edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
 
@@ -1169,7 +1165,7 @@ El Ministerio Público es la institución encargada de velar por la exacta obser
 
 #### SECCION I. De la Tesorería General
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 98.
 
@@ -1291,33 +1287,23 @@ Cada Municipio será representado y administrado por un Ayuntamiento de elecció
 
 El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 114.
 
-Los Ayuntamientos del Estado se integrarán con un presidente, un síndico y los regidores que determine la Ley Orgánica Municipal, los que no podrán ser menos de cinco. El síndico será electo por el Ayuntamiento de entre los individuos que lo formen.
+Los Ayuntamientos se integrarán por un Presidente, un Síndico y de tantos regidores como determine la Ley pero éstos no podrán ser menos de cinco.
 
-La elección de los Ayuntamientos del Estado, se efectuará bajo el principio de representación proporcional, de conformidad con las bases siguientes:
+Se introducirá el principio de representación proporcional en los Ayuntamientos del Estado conforme a los procedimientos que establezca la Ley Electoral.
 
-I. Los partidos políticos para tener derecho a participar en la asignación de presidentes y regidores, por le principio de representación proporcional, deberán postular candidatos en un mínimo de 38 municipios y obtener por lo menos el 1.5% de la votación total en el Estado.
-
-II. El partido político cuya plantilla hubiere obtenido el mayor número de votos, tendrá derecho a que se le acredite el presidente municipal;
-
-III. Para la asignación de regidurías, la votación total emitida para todas las plantillas, se dividirá entre el número de regidores que deban integrar el Ayuntamiento, a fin de obtener un cociente electoral, debiéndose establecer en la Ley Electoral íntegro el procedimiento a seguir.
-
-Sólo en las elecciones de los Ayuntamientos donde participen por lo menos dos partidos políticos, de conformidad con los requisitos señalados en l fracción I de este artículo, podrá aplicarse al principio de representación proporcional; en caso contrario, se observará lo que al efecto señale la Ley Electoral para las elecciones que se celebren conforme al principio de mayoría relativa.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 115.
 
-El Presidente del Ayuntamiento y los regidores serán electos directamente por el pueblo. Las atribuciones y obligaciones del Presidente, del Síndico y de los regidores, y la manera de suplir sus faltas absolutas o temporales, serán determinados por la ley.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+El Presidente, el Síndico y los Regidores de los Ayuntamientos serán electos directamente por el pueblo; sus facultades, obligaciones y la manera de suplir sus faltas absolutas o temporales, serán determinados por la Ley.
 
 ###### Artículo 116.
 
-Cada Municipio se dividirá en tantas circunscripciones electorales, cuantos sean los regidores que deban integrar la corporación municipal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1333,23 +1319,33 @@ Todos los funcionarios municipales antes mencionados, cuando tengan el carácter
 
 El Ayuntamiento electo, calificará la validez de las elecciones de sus miembros y resolverá las dudas que se susciten sobre ella.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 119.
 
-Para ser electo Presidente Municipal o Regidor se requiere:
+Para ser electo Presidente Municipal, Síndico o Regidor se requiere:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no haber sido condenado por algún delito;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
 II.- Ser originario del Estado o tener un año de residencia en el Municipio donde debe ejercer su encargo;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 III.- Saber leer y escribir;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
 IV.- No ser funcionario de la Federación, del Estado o Municipal, ni tener mando de fuerza en el Municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquélla se celebre; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentas;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 V.- No ser, ni haber sido ministro o delegado de algún culto, y
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+(REFORMADA, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 VI.- No estar comprendido en ninguno de los casos que señala el artículo 117.
 
@@ -1383,7 +1379,9 @@ II.- Administrar libremente su hacienda;
 
 III.- Someter sus presupuestos de Ingresos y Egresos a la aprobación del Congreso;
 
-IV.- Expedir, previa aprobación del Congreso, los reglamentos para la buena administración y funcionamiento de los servicios municipales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+IV.- Expedir los Reglamentos de los servicios municipales;
 
 V.- Vigilar las escuelas públicas y las particulares;
 
@@ -1409,17 +1407,17 @@ XIV.- Colaborar ampliamente con los organismos electorales, en los términos de 
 
 XV.- Las demás que les señalen las leyes.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 124.
 
-La administración pública en las poblaciones fuera de la cabecera municipal estará a cargo de jefes de tenencia y encargados del orden que nombrará el ayuntamiento, el que designará también suplentes. Las facultades y obligaciones de esas personas se determinarán por la ley.
+La administración Pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia y encargados del orden; sus facultades y obligaciones serán determinadas por la Ley. Por cada propietario habrá un suplente y serán nombrado en plebiscito.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 125.
 
-El cargo de Presidente Municipal y Regidor es obligatorio, y sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
+El cargo de Presidente, Síndico o Regidores es obligatorio y, sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1465,7 +1463,7 @@ El presupuesto formará siempre un solo cuerpo distribuido en partidas, según l
 
 ###### Artículo 132.
 
-Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos según el Presupuesto de Egresos, y será responsable personal por los gastos que efectúe sin que estén comprendidos en aquél o autorizados por la ley. Cuando la cantidad señalada para cubrir una partida del presupuesto esté próxima a agotarse, el Tesorero avisará al Ejecutivo, a fin de que éste pida al Congreso la ampliación correspondiente.
+Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos según el Presupuesto de Egresos. Cuando haya necesidad de exceder las cantidades señaladas en aquel, se solicitará la ampliación correspondiente al Congreso.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1755,6 +1753,10 @@ VI.- Cualquiera adición o reforma que no fuere ratificada por el segundo Congre
 
 Si la proposición de adiciones o reformas no proviene del Gobernador del Estado, antes de discutirse y votarse se pasará al Ejecutivo para que dentro de un mes emita su opinión sobre ellas.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+VII.- Cuando se trate de adecuar esta Constitución a las reformas y adiciones de la Constitución Federal, bastará con la aprobación de una sola Legislatura.
+
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 165.
@@ -1930,3 +1932,11 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación 
 SEGUNDO. Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura, para los efectos del artículo 164, fracciones III y IV de la Constitución Particular del Estado de Michoacán.
+
+P.O. 31 DE DICIEMBRE DE 1982.
+
+PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La honorable Sexagésima Segunda Legislatura Constitucional del Estado, aprueba el proyecto de reformas y adiciones a la Constitución Política de la Entidad.
+
+TERCERO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Particular del Estado de Michoacán.
