@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1988-01-07"
+last_updated: "1988-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1988.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2834,9 +2834,7 @@ ARTICULO 405
 
 La reclamación de nulidad de la confesión por error o violencia, se tramitará incidentalmente y se decidirá en la definitiva.
 
-ARTICULO 406
-
-> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
+ARTICULO 406 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
 ARTICULO 407 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
@@ -3006,9 +3004,11 @@ VII.- Las pólizas originales de contratos celebrados con intervención de corre
 
 VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente se hubieren sujetado a él expresamente o lo hubieren aprobado.
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ARTICULO 444
 
-Las sentencias que causen ejecutoria y los convenios judiciales, laudos o juicio de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
+Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita la propia Procuraduría y los laudos o juicios de contadores, motivarán ejecución, si el interesado no intentare la vía de apremio.
 
 ARTICULO 445
 
@@ -3452,171 +3452,15 @@ IV.- Ni el tribunal de primera instancia ni el de apelación podrán examinar ni
 
 V.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
 
-Reglas generales
-
-ARTICULO 609
-
-Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
-
-ARTICULO 610
-
-El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado sea cual fuere el estado en que se encuentre.
-
-El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
-
-ARTICULO 611
-
-El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez cualquiera que sea la cuantía.
-
-ARTICULO 612
-
-Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
-
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con la intervención judicial como se previno en los medios preparatorios a juicio arbitral.
-
-ARTICULO 613
-
-Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
-
-ARTICULO 614
-
-Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
-
-ARTICULO 615
-
-No se pueden comprometer en árbitros los siguientes negocios:
-
-I.- El derecho de recibir alimentos;
-
-II.- Los divorcios excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
-
-III.- Las acciones de nulidad de matrimonio;
-
-IV.- Los concernientes al estado civil de las personas con la excepción contenida en el artículo 339 del Código Civil;
-
-V.- Los demás en que lo prohiba expresamente la Ley.
-
-ARTICULO 616
-
-El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
-
-Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial como se previene en los medios preparatorios.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-ARTICULO 617
-
-El compromiso será válido aunque no se fije término del juicio arbitral y, en este caso la misión de los árbitros durará 60 días. El plazo se cuenta desde que se acepte el nombramiento.
-
-ARTICULO 618
-
-Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
-
-ARTICULO 619
-
-Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidos para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuere el pacto en contrario los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
-
-Las partes podrán renunciar a la apelación.
-
-Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
-
-ARTICULO 620
-
-El compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
-
-ARTICULO 621
-
-Cuando hay árbitro único, las partes son libres de nombrarle un secretario y si dentro del tercer día empezando desde aquél en que deba de actuar no se han puesto de acuerdo, el árbitro lo designará y a costa de los mismos interesados desempeñará sus funciones.
-
-Cuando fueren varios los árbitros entre ellos mismos elegirán al que funja como secretario sin que por esto tenga derecho a mayores emolumentos.
-
-ARTICULO 622
-
-El compromiso termina:
-
-I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
-
-II.- Por excusa del árbitro o árbitros que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
-
-III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
-
-IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
-
-V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 617.
-
-ARTICULO 623
-
-Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
-
-ARTICULO 624
-
-Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
-
-ARTICULO 625
-
-El laudo será firmado por cada uno de los árbitros y en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
-
-ARTICULO 626
-
-En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo acudirán al juez de primera instancia.
-
-ARTICULO 627
-
-Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
-
-ARTICULO 628
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Los árbitros decidirán según las reglas del derecho a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
-
-ARTICULO 629
-
-De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
-
-ARTICULO 630
-
-Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. Ttambién (sic) pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda o cuando así se haya pactado expresamente.
-
-ARTICULO 631
-
-Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aun imponer multas; pero para emplear los medios de apremio deben ocurrir al juez ordinario.
-
-ARTICULO 632
-
-Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
-
-Para la ejecución de autos y decretos, se acudirá también al juez de primera instancia.
-
-Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-ARTICULO 633
-
-Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro; y para la ejecución de la sentencia y admisión de recursos, el Juez designado en el compromiso, a falta de este el que esté en turno.
-
-ARTICULO 634
-
-Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
-
-ARTICULO 635
-
-La apelación sólo será admisible conforme a las reglas del derecho común.
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Contra las resoluciones del árbitro designado por el juez cabe el amparo de garantías conforme a las leyes respectivas.
-
-ARTICULO 636
-
-El juez debe compeler a los árbitros a cumplir con sus obligaciones.
-
 #### SECCION I. De la ejecución de sentencia
 
 ARTICULO 500
 
 Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y de laudos emitidos por dicha Procuraduría.
 
 ARTICULO 501
 
@@ -3634,9 +3478,11 @@ ARTICULO 503
 
 El tribunal que haya dictado en segunda instancia sentencia ejecutoria, dentro de los tres días siguientes a la notificación, devolverá los autos al inferior acompañándole la ejecutoria y constancia de las notificaciones.
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
 ARTICULO 504
 
-La ejecución de las sentencias arbitrales, se hará por el juez competente designado por las partes y en su defecto por el juez del lugar del juicio, y si hubiere varios, por el de número más bajo.
+La ejecución de las sentencias arbitrales, de los convenios celebrados ante la Procuraduría Federal del Consumidor y de los laudos dictados por ésta, se hará por el juez competente designado por las partes o, en su defecto, por el juez del lugar del juicio.
 
 ARTICULO 505
 
@@ -4324,6 +4170,166 @@ En el caso en que el emplazamiento se hubiera hecho por edictos, la sentencia no
 
 ## TITULO OCTAVO. Del juicio arbitral
 
+Reglas generales
+
+ARTICULO 609
+
+Las partes tienen el derecho de sujetar sus diferencias al juicio arbitral.
+
+ARTICULO 610
+
+El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado sea cual fuere el estado en que se encuentre.
+
+El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
+
+ARTICULO 611
+
+El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez cualquiera que sea la cuantía.
+
+ARTICULO 612
+
+Todo el que esté en el pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
+
+Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sino con aprobación judicial, salvo el caso en que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros se hará siempre con la intervención judicial como se previno en los medios preparatorios a juicio arbitral.
+
+ARTICULO 613
+
+Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo el caso en que se tratara de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado se hará necesariamente con intervención judicial.
+
+ARTICULO 614
+
+Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
+
+ARTICULO 615
+
+No se pueden comprometer en árbitros los siguientes negocios:
+
+I.- El derecho de recibir alimentos;
+
+II.- Los divorcios excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
+
+III.- Las acciones de nulidad de matrimonio;
+
+IV.- Los concernientes al estado civil de las personas con la excepción contenida en el artículo 339 del Código Civil;
+
+V.- Los demás en que lo prohiba expresamente la Ley.
+
+ARTICULO 616
+
+El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
+
+Cuando no se hayan designado los árbitros se entiende que se reservan hacerlo con intervención judicial como se previene en los medios preparatorios.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
+ARTICULO 617
+
+El compromiso será válido aunque no se fije término del juicio arbitral y, en este caso la misión de los árbitros durará 60 días. El plazo se cuenta desde que se acepte el nombramiento.
+
+ARTICULO 618
+
+Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
+
+ARTICULO 619
+
+Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidos para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuere el pacto en contrario los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
+
+Las partes podrán renunciar a la apelación.
+
+Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
+
+ARTICULO 620
+
+El compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
+
+ARTICULO 621
+
+Cuando hay árbitro único, las partes son libres de nombrarle un secretario y si dentro del tercer día empezando desde aquél en que deba de actuar no se han puesto de acuerdo, el árbitro lo designará y a costa de los mismos interesados desempeñará sus funciones.
+
+Cuando fueren varios los árbitros entre ellos mismos elegirán al que funja como secretario sin que por esto tenga derecho a mayores emolumentos.
+
+ARTICULO 622
+
+El compromiso termina:
+
+I.- Por muerte del árbitro elegido en el compromiso o en cláusula compromisoria si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
+
+II.- Por excusa del árbitro o árbitros que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
+
+III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
+
+IV.- Por nombramiento recaído en el árbitro de magistrado, juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
+
+V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 617.
+
+ARTICULO 623
+
+Los árbitros sólo son recusables por las mismas causas que lo fueren los demás jueces.
+
+ARTICULO 624
+
+Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
+
+ARTICULO 625
+
+El laudo será firmado por cada uno de los árbitros y en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
+
+ARTICULO 626
+
+En caso de que los árbitros estuvieren autorizados a nombrar un tercero en discordia y no lograren ponerse de acuerdo acudirán al juez de primera instancia.
+
+ARTICULO 627
+
+Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más que se sumarán a dicho término para que pueda pronunciar el laudo.
+
+ARTICULO 628
+
+> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+
+Los árbitros decidirán según las reglas del derecho a menos que en el compromiso o en la cláusula se les encomendara la amigable composición o el fallo en conciencia.
+
+ARTICULO 629
+
+De las recusaciones y excusas de los árbitros conocerá el juez ordinario conforme a las leyes y sin ulterior recurso.
+
+ARTICULO 630
+
+Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. Ttambién (sic) pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso en que se oponga como compensación hasta la cantidad que importe la demanda o cuando así se haya pactado expresamente.
+
+ARTICULO 631
+
+Los árbitros pueden condenar en costas, daños y perjuicios a las partes y aun imponer multas; pero para emplear los medios de apremio deben ocurrir al juez ordinario.
+
+ARTICULO 632
+
+Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
+
+Para la ejecución de autos y decretos, se acudirá también al juez de primera instancia.
+
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 633
+
+Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro; y para la ejecución de la sentencia y admisión de recursos, el Juez designado en el compromiso, a falta de este el que esté en turno.
+
+ARTICULO 634
+
+Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
+
+ARTICULO 635
+
+La apelación sólo será admisible conforme a las reglas del derecho común.
+
+> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+
+Contra las resoluciones del árbitro designado por el juez cabe el amparo de garantías conforme a las leyes respectivas.
+
+ARTICULO 636
+
+El juez debe compeler a los árbitros a cumplir con sus obligaciones.
+
 ## TITULO NOVENO. De los juicios en rebeldía
 
 ### CAPITULO II. Procedimiento estando presente el rebelde
@@ -4781,6 +4787,10 @@ Si una de las partes no concurre sin causa justificada, el juez la sancionará c
 Si asistieren las dos partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado.
 
 El conciliador escuchará las pretensiones de las partes y propondrá alternativas de solución al litigio, procurando una amigable composición. Si se obtiene el acuerdo entre las partes, se celebrará el convenio respectivo, que si reúne los requisitos de ley, será aprobado por el juez y tendrá fuerza de cosa juzgada, dándose con ello, por terminado el juicio.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+La audiencia a que se refiere la presente disposición, no tendrá lugar cuando se hubiese tramitado el procedimiento conciliatorio ante la Procuraduría Federal del Consumidor.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
@@ -7049,3 +7059,9 @@ D.O.F. 7 DE ENERO DE 1988.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los procedimientos relativos a las materias a que se refiere el presente Decreto, que se encuentren en trámite al momento de su entrada en vigor, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 12 DE ENERO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
