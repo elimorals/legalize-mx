@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-enajenaciones-arrendamientos-y-7438"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-19"
-last_updated: "1997-04-23"
+last_updated: "1997-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 19 de enero de 1987.
 
@@ -439,6 +439,10 @@ TERCERO.- Para los efectos de esta Ley se entenderá como cuota el salario míni
 
 CUARTO.- Se faculta al Ejecutivo del Estado para contratar en forma directa, con una o varias compañías en forma simultánea, el servicio de telefonía de larga distancia, con empresas de nueva creación o ya constituidas, debiendo informar del ejercicio de esta facultad al Congreso del Estado, al rendir la Cuenta Pública correspondiente.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 1997)</small>
+
+QUINTO.- Se faculta al Ejecutivo del Estado para enajenar en forma directa, sin sujetarse a licitación pública, los bienes muebles que integran la infraestructura de la Planta Termoeléctrica, destinando el producto de su venta al pago de la deuda del Gobierno del Estado, en los términos del Decreto y al contrato de donación respectivo, debiendo informar del ejercicio de esta facultad al Congreso del Estado, al Rendir la Cuenta Pública correspondiente.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey su Capital, a los catorce días del mes de Enero de mil novecientos ochenta y siete.- PRESIDENTE: POR M. DE LEY DIP. DR. MENTOR TIJERINA DE LA GARZA; DIP. SECRETARIO: NESTOR MOLINA MARTINEZ; DIP. SECRETARIO: BERNARDINO ALVARADO GONZALEZ.- RUBRICAS.
@@ -460,3 +464,7 @@ LIC. LUCAS DE LA GARZA GONZALEZ
 P.O. 23 DE ABRIL DE 1997.
 
 UNICO.- El Presente Decreto tiene aplicación a partir del 1° de Enero de 1997.
+
+P.O. 25 DE ABRIL DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
