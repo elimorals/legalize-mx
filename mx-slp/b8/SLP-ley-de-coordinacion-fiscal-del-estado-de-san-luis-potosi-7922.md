@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "1994-12-29"
+last_updated: "1995-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -63,61 +63,63 @@ La Legislatura del Estado determina anualmente las bases, montos y plazos en que
 
 Los Municipios percibirán los recursos del Fondo de Fomento Municipal constituído por las cantidades que ministra el Gobierno Federal al Estado en los términos de la Ley de Coordinación Fiscal Federal.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 3-A.
+
+Al quedar establecido a favor del Estado las participaciones federales en el Impuesto Especial Sobre Producción y Servicios, los municipios participarán del 100% de su rendimiento.
+
 ### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES A LOS MUNICIPIOS EN INGRESOS FEDERALES
 
 ###### ARTICULO 4o.
 
 La cantidad que a cada Municipio corresponda del Fondo Generel (sic), será calculado conforme a la siguiente mecánica:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-I.- Del veinte por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo conformado con un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuenten, de acuerdo al último Censo General de Población publicado por el Instituto Nacional de Estadística, Geografía e Informática; y el segundo fondo constituido con un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro.
+I.- Del veinte por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo conformado con un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuenten, de acuerdo al último Censo General de Población o Conteo publicados por el Instituto Nacional de Estadística, Geografía e Informática; y el segundo fondo constituido con un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-II.- Si al finalizar el año resultara un excedente del segundo fondo, éste se distribuirá entre los municipios en proporción al índice de población, conforme al último Censo General de Población, exclusivamente entre los municipios que hicieron uso de ese fondo.
+II.- Si al finalizar el año resultara un excedente del segundo fondo, éste se distribuirá entre los municipios en proporción al índice de población, conforme al último Censo General de Población o Conteo, exclusivamente entre los municipios que hicieron uso de ese fondo; y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregó el área que integrará al nuevo municipio.
+III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregó el área que integrará al nuevo municipio.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 5o.
 
-El Estado constituirá el fondo de incentivo a la recaudación fiscal en materia de contribuciones municipales con el 1% del fondo general de participaciones que percibe el Gobierno Federal.
-
-Los municipios de la Entidad, coordinados o que se coordinen con el Estado para la administración de las contribuciones, recibirán como incentivo a sus ingresos la cantidad que resulte de distribuir el 1% entre los municipios coordinados.
-
-El fondo de incentivo a la recaudación se distribuirá entre los municipios coordinados mediante la aplicación del coeficiente de participación que se determinará a cada uno de ellos conforme al número de predios que hasta el 15 de diciembre del año inmediato anterior hayan estado registrados en su Padrón Catastral.
+Los municipios participarán en la distribución del fondo de participaciones en impuestos especiales sobre producción y servicios en un 100% de su monto, en proporción al número de habitantes conforme al último Censo General de Población o Conteo del Instituto Nacional de Estadística, Geografía e Informática.
 
 ###### ARTICULO 6o.
 
 Los Municipios participarán en la distribución del Fondo de Fomento Municipal, conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-I.- Del cien por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo integrado con un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuente, conforme al último Censo General de Población publicado por el Instituto Nacional de Estadística, Geografía e Informática; el segundo fondo, constituido por un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro.
+I.- Del cien por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo integrado con un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuente, conforme al último Censo General de Población o Conteo publicados por el Instituto Nacional de Estadística, Geografía e Informática; el segundo fondo, constituido por un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-II.- Si al finalizar el año resultara un excedente del segundo fondo, éste se repartirá en proporción al índice de población conforme al último Censo General de Población exclusivamente entre los municipios que hicieron uso de ese fondo.
+II.- Si al finalizar el año resultara un excedente del segundo fondo, éste se repartirá en proporción al índice de población conforme al último Censo General de Población o Conteo exclusivamente entre los municipios que hicieron uso de ese fondo; y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregó el área que integrará al nuevo municipio.
+III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al Municipio o municipios de donde se segregó el área que integrará al nuevo Municipio.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 6-A.
 
-La cantidad que a cada municipio corresponda de la recaudación federal participable por concepto del Impuesto Federal Sobre Tenencia o Uso de Vehículos será calculada de la siguiente forma:
+La cantidad que a cada Municipio corresponda de la recaudación federal participable por concepto del Impuesto Federal Sobre Tenencia o Uso de Vehículos será calculada de la siguiente forma:
 
-I.- Del veinte por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo, integrado por un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuenten, conforme al último Censo General de Población publicado por el Instituto Nacional de Estadística, Geografía e Informática; el segundo fondo, constituido por un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro.
+I.- Del veinte por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo, integrado por un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuenten, conforme al último Censo General de Población o Conteo publicados por el Instituto Nacional de Estadística, Geografía e Informática; el segundo fondo, constituido por un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro;
 
-II.- Si del segundo fondo resultara un excedente al finalizar el año, éste se repartirá en proporción al índice de población conforme al último Censo General de Población exclusivamente entre los municipios que hicieron uso de ese fondo.
+II.- Si del segundo fondo resultara un excedente al finalizar el año, éste se repartirá en proporción al índice de población conforme al último Censo General de Población o Conteo, exclusivamente entre los municipios que hicieron uso de ese fondo; y
 
-III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregó el área que integrará al nuevo municipio.
+III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al Municipio o municipios de donde se segregue el área que integrará al nuevo Municipio.
 
 ###### ARTICULO 7o.
 
@@ -324,3 +326,7 @@ PRIMERO.- La presente Ley entrará en vigor el primero de enero de mil novecient
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en esta Ley.
 
 TERCERO.- Publíquese en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
