@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "1978-01-12"
+last_updated: "1983-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXPROPIACION DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -61,9 +61,13 @@ VI. La creación, fomento o conservación de empresas para beneficio de la colec
 
 VII. También hay utilidad pública en la consecución de los medios y elementos necesarios para la realización de las obras de interés social, en los casos a que se refieren las fracciones anteriores de este artículo y las enumeradas en el artículo 43 de la Ley de Asentamientos Humanos del Estado, por medio de la sub-utilización de las obras construidas con fines productivos o por medio de la venta de parte de los bienes expropiados. En este caso, la indemnización será el valor de la cosa tasada conforme avalúo técnico; en los términos del artículo 7o. Fracción XXIV de la Ley de Asentamientos Humanos del Estado de Jalisco, las resoluciones expropiatorias fijarán los términos y modalidades de las operaciones de venta y sub-utilización.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1983)</small>
+
 ###### Art. 3.
 
-Corresponde al Ejecutivo declarar la utilidad pública, ya sea de oficio o ya aceptando las iniciativas que le dirijan los Ayuntamientos o a las solicitudes que le presenten los particulares.
+Corresponde al Ejecutivo del Estado declarar la utilidad pública ya sea de oficio o por iniciativa que le dirijan los Ayuntamientos o los particulares cuando se cumplan los objetivos y los procedimientos establecidos en esta Ley.
+
+Si los bienes que han originado una Declaratoria de expropiación no fueren destinados al fin que dio origen a ella o las obras programadas no se inician dentro del plazo de un año a partir de la declaración expropiatoria, ni se concluyen en un término razonable atentas las circunstancias de tiempo y lugar, el propietario afectado podrá reclamar ante el propio Ejecutivo la reversión del bien de que se trate y la insubsistencia de la expropiación, el cual deberá resolver en un plazo de 15 días y, en caso de que proceda la petición volverán las cosas al estado anterior a la expropiación.
 
 ###### Art. 4.
 
@@ -206,3 +210,7 @@ P.O. 12 DE ENERO DE 1978.
 PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO.- Esta edición entrará en vigor a los tres días de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE ENERO DE 1983.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
