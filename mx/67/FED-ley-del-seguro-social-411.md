@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1981-12-31"
+last_updated: "1982-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -670,21 +670,19 @@ Cuando se reúnan dos o más incapacidades parciales, el Instituto no cubrirá a
 
 #### SECCION CUARTA. Del Incremento Periódico de las Pensiones
 
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 75.
 
-Las pensiones por incapacidad permanente total o parcial con un mínimo del cincuenta por ciento de incapacidad, serán revisadas cada cinco años, a partir de su otorgamiento, para incrementarlas en la forma siguiente:
-
-I.- Si en la fecha de su revisión la cuantía diaria de las pensiones es igual o inferior al salario mínimo general que rija en el Distrito Federal, se incrementará en un diez por ciento;
-
-II.- Si en la fecha de su revisión la cuantía diaria de las pensiones es superior al salario mínimo general que rija en el Distrito Federal, se incrementará en un cinco por ciento. En ningún caso el incremento absoluto de las pensiones comprendidas en esta fracción, será inferior al incremento máximo de las pensiones de la fracción anterior.
+Las pensiones por incapacidad permanente total o parcial, con un mínimo del 50% de incapacidad, serán revisadas e incrementadas anualmente. El Consejo Técnico determinará en el mes de enero de cada año, las modificaciones que deban hacerse a la cuantía de dichas pensiones. Para tal efecto, tomará en cuenta los incrementos al salario mínimo y la capacidad económica del Instituto y se apoyará en sus estudios técnicos y actuariales.
 
 Para aplicar el porcentaje en los casos de incapacidad permanente parcial, se tomará en cuenta la cuantía que le hubiere correspondido al asegurado por incapacidad permanente total.
 
-Para calcular la cuantía diaria de las pensiones a que se refiere este artículo, se dividirá la pensión mensual entre treinta.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 76.
 
-Las pensiones de viudez, orfandad y ascendientes, otorgadas con motivo de la muerte del asegurado por riesgo de trabajo, también serán revisables cada cinco años, incrementándose en la proporción que les corresponda, con base en lo dispuesto en el artículo anterior y considerando, para aplicar el porcentaje del incremento, la cuantía de la pensión que le hubiere correspondido al asegurado por incapacidad permanente total.
+Las pensiones de viudez, orfandad y ascendientes, otorgadas con motivo de la muerte del asegurado por riesgos de trabajo, serán revisadas e incrementadas anualmente en la proporción que les corresponda, con base en lo dispuesto en el artículo anterior y considerando, para aplicar el porcentaje del incremento, la cuantía de la pensión que le hubiere correspondido al asegurado por la incapacidad permanente total.
 
 #### SECCION QUINTA. Del Régimen Financiero
 
@@ -1556,19 +1554,19 @@ Se aumentará un año a los cumplidos cuando la edad los exceda en seis meses.
 
 #### SECCION NOVENA. Del Incremento Periódico de las Pensiones
 
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
 ###### ARTICULO 172.
 
-Las pensiones que por invalidez, vejez o cesantía en edad avanzada otorgue el Instituto a los asegurados, serán revisables cada cinco años, a partir de su otorgamiento, para incrementarlas en la forma siguiente:
+Las pensiones por invalidez, vejez o cesantía en edad avanzada, serán revisadas e incrementadas anualmente.
 
-I.- Si en la fecha de su revisión la cuantía diaria de las pensiones es igual o inferior al salario mínimo general que rija en el Distrito Federal, se incrementarán en un diez por ciento; y
+El Consejo Técnico determinará en el mes de enero de cada año, las modificaciones que deban hacerse a la cuantía de dichas pensiones. Para tal efecto tomará en cuenta los incrementos al salario mínimo y la capacidad económica del Instituto y se apoyará en sus estudios técnicos y actuariales.
 
-II.- Si en la fecha de su revisión la cuantía diaria de las pensiones es superior al salario mínimo general que rija en el Distrito Federal, se incrementarán en un cinco por ciento. En ningún caso el incremento absoluto de las pensiones comprendidas en esta fracción, será inferior al incremento máximo de las pensiones de la fracción anterior.
-
-Para calcular la cuantía diaria de las pensiones a que se refiere este artículo, se dividirá la pensión mensual entre treinta.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 173.
 
-Las pensiones otorgadas a la muerte del asegurado o pensionado por invalidez, vejez o cesantía, a sus beneficiarios, también serán revisables cada cinco años, incrementándose en la proporción que les corresponda con base en lo dispuesto en el artículo anterior y considerando, para determinar el porcentaje de incremento, la cuantía de la pensión que disfrutaba el asegurado al fallecer, o bien de la que le hubiere correspondido por invalidez.
+Las pensiones otorgadas a la muerte del asegurado o pensionado por invalidez, vejez y cesantía en edad avanzada a sus beneficiarios, serán revisadas e incrementadas anualmente de acuerdo con lo dispuesto en el artículo anterior.
 
 > <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
 
@@ -2659,3 +2657,13 @@ Los trabajadores que se encuentren prestando sus servicios en las Oficinas Feder
 En cualquier caso, no se afectarán sus percepciones económicas ni los derechos de antigüedad que hubieren adquirido.
 
 Las Oficinas Federales de Hacienda para Cobros del Seguro Social que se encuentren funcionando a la entrada en vigor de esta Ley, pasarán a depender del Instituto como Oficinas para Cobros del Seguro Social y continuarán ejecutando la cobranza que tienen encomendada. La Secretaría de Hacienda y Crédito Público y el Instituto tomarán las medidas necesarias para hacer dicha transferencia.
+
+D.O.F. 11 DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El Instituto Mexicano del Seguro Social al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, iniciará los estudios técnicos y actuariales que concluirá al 31 de mayo de 1982. En su caso, las modificaciones que procedan tendrán efectos retroactivos al 1o. de enero de 1982.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor en toda la República el día. 1o. de junio de 1982.
