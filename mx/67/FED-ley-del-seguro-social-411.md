@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1989-01-04"
+last_updated: "1990-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -676,287 +676,293 @@ Las pensiones de viudez, orfandad y ascendientes del asegurado por riesgos de tr
 
 Las prestaciones del Seguro de Riesgos de Trabajo, inclusive los capitales constitutivos de las rentas líquidas al fin del año y los gastos administrativos, serán cubiertos íntegramente por las cuotas que para este efecto aporten los patrones y demás sujetos obligados.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 78.
 
-Las cuotas que por el seguro de Riesgos de Trabajo deban pagar los patrones, se determinarán en relación con la cuantía de la cuota obreropatronal que la propia empresa entere por el mismo período, en el ramo de Invalidez, vejez, cesantía en edad avanzada y muerte, y con los riesgos inherentes a la actividad de la negociación de que se trate, en los términos que establezca el reglamento relativo.
+Las cuotas que por el seguro de riesgos de trabajo deban pagar los patrones, se determinarán en relación con la cuantía del salario base de cotización, y con los riesgos inherentes a la actividad de la negociación de que se trate, en los términos que establezca el reglamento relativo.
 
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 79.
 
 Para los efectos de la fijación de las primas a cubrir por el seguro de riesgos de trabajo, las empresas serán clasificadas y agrupadas de acuerdo con su actividad, en clases, cuyos grados de riesgo se señalan para cada una de las clases que a continuación también se relacionan:
 
-Producto de
+GRADO PRODUCTO DE PRIMAS EN POR CIENTO SOBRE EL
 
-los índices de Primas en por cientos
+DE LOS ÍNDICES SALARIO BASE DE COTIZACIÓN
 
-Grado frecuencia y grave
+RIESGO DE FRECUENCIA
 
-de dad por un Inferiores Grado Superiores
+Y GRAVEDAD POR INFERIORES GRADO SUPERI
 
-riesgo millón al medio medio al medio
+UN MILLÓN AL MEDIO MEDIO ORES AL
+
+MEDIO
+
+% % -
 
 CLASE I
 
-1 454 1.538
+1 454 0.0875
 
-2 770 3.067
+2 770 0.1750
 
-3 1 086 4.605
+3 1 086 0.2625
 
-4 1 368 6.143
+4 1 368 0.3500
 
-5 1 757 7.672
+5 1 757 0.4375
 
 CLASE II
 
-4 1 368 6.143
+4 1 368 0.3500
 
-5 1 757 7.672
+5 1 757 0.4375
 
-6 2 146 9.210
+6 2 146 0.5250
 
-7 2 535 10.748
+7 2 535 0.6125
 
-8 2 924 12.277
+8 2 924 0.7000
 
-9 3 302 13.815
+9 3 302 0.7875
 
-10 3 667 15.353
+10 3 667 0.8750
 
-11 4 032 16.882
+11 4 032 0.9625
 
-12 4 397 18.420
+12 4 397 1.0500
 
-13 4 762 19.958
+13 4 762 1.1375
 
-14 5 127 21.487
+14 5 127 1.2250
 
 CLASE III
 
-11 4 032 16.882
+11 4 032 0.9625
 
-12 4 397 18.420
+12 4 397 1.0500
 
-13 4 762 19.958
+13 4 762 1.1375
 
-14 5 127 21.487
+14 5 127 1.2250
 
-15 5 676 23.025
+15 5 676 1.3125
 
-16 6 073 24.563
+16 6 073 1.4000
 
-17 6 470 26.092
+17 6 470 1.4875
 
-18 6 867 27.630
+18 6 867 1.5750
 
-19 7 264 29.168
+19 7 264 1.6625
 
-20 7 661 30. 697
+20 7 661 1.7500
 
-21 8 058 32. 235
+21 8 058 1.8375
 
-22 8 455 33.773
+22 8 455 1.9250
 
-23 8 852 35.302
+23 8 852 2.0125
 
-24 9 226 36.840
+24 9 226 2.100
 
-25 9 583 38.378
+25 9 583 2.1875
 
-26 9 940 39.907
+26 9 940 2.2750
 
-27 10 297 41.445
+27 10 297 2.3625
 
-28 10 654 42.983
+28 10 654 2.4500
 
-29 11 011 44.512
+29 11 011 2.5375
 
-30 11 368 46.050
+30 11 368 2.6250
 
-31 11 725 47.588
+31 11 725 2.7125
 
-32 12 082 49.117
+32 12 082 2.8000
 
-33 12 439 50.655
+33 12 439 2.8875
 
-34 12 796 52.193
+34 12 796 2.9750
 
-35 13 153 53.722
+35 13 153 3.0625
 
-36 13 510 55.260
+36 13 510 3.1500
 
-37 13 867 56.798
+37 13 867 3.2375
 
 CLASE IV
 
-30 11 368 46.050
+30 11 368 2,6250
 
-31 11 725 47.588
+31 11 725 2.7125
 
-32 12 082 49.117
+32 12 082 2.8000
 
-33 12 439 50. 655
+33 12 439 2.8875
 
-34 12 796 52.193
+34 12 796 2.9750
 
-35 13 153 53.722
+35 13 153 3.0625
 
-36 13 510 55.260
+36 13 510 3.1500
 
-37 13 867 56.978
+37 13 867 3.2375
 
-38 14 204 58 327
+38 14 204 3.3250
 
-39 14 540 59 865
+39 14 540 3.4125
 
-40 14 876 61 403
+40 14 876 3.5000
 
-41 15 212 62.932
+41 15 212 3.5875
 
-42 15 548 64.470
+42 15 548 3.6750
 
-43 15 884 66.008
+43 15 884 3.7625
 
-44 16 220 67.537
+44 16 220 3.8500
 
-45 16 552 69.075
+45 16 552 3.9375
 
-46 16 940 70.613
+46 16 940 4.0250
 
-47 17 328 72.142
+47 17 328 4.1125
 
-48 17 716 73.680
+48 17 716 4.2000
 
-49 18 104 75.218
+49 18 104 4.2875
 
-50 18 207 76.747
+50 18 207 4.3750
 
-51 18 565 78.285
+51 18 565 4.4625
 
-52 18 923 79.823
+52 18 923 4.5500
 
-53 19 281 81.352
+53 19 281 4.6375
 
-54 19 639 82.890
+54 19 639 4.7250
 
-55 19 997 84.428
+55 19 997 4.8125
 
-56 20 355 85.957
+56 20 355 4.9000
 
-57 20 713 87.495
+57 20 713 4.9875
 
-58 21 071 89.033
+58 21 071 5.0750
 
-59 21 429 90.562
+59 21 429 5.1625
 
-60 21 787 92.100
+60 21 787 5.2500
 
 CLASE V
 
-50 18 207 76.747
+50 18 207 4.3750
 
-51 18 565 78.285
+51 18 565 4.4625
 
-52 18 923 79.823
+52 18 923 4.5500
 
-53 19 281 81.352
+53 19 281 4.6375
 
-54 19 639 82.890
+54 19 639 4.7250
 
-55 19 997 84.428
+55 19 997 4.8125
 
-56 20 355 85.957
+56 20 355 4.9000
 
-57 20 713 87.495
+57 20 713 4.9875
 
-58 21 071 89.033
+58 21 071 5.0750
 
-59 21 429 90.562
+59 21 429 5.1625
 
-60 21 787 92.100
+60 21 787 5.2500
 
-61 22 145 93.638
+61 22 145 5.3375
 
-62 22 503 95.167
+62 22 503 5 4250
 
-63 22 861 96.705
+63 22 861 5.5125
 
-64 23 219 98.243
+64 23 219 5.6000
 
-65 23 577 99.772
+65 23 577 5.6875
 
-66 23 935 101.310
+66 23 935 5.7750
 
-67 24 293 102.848
+67 24 293 5.8625
 
-68 24 651 104.377
+68 24 659 5.9500
 
-69 25 009 105.915
+69 25 009 6.0375
 
-70 25 367 107.453
+70 25 367 6.1250
 
-71 25 725 108.982
+71 25 725 6.2125
 
-72 26 083 110.520
+72 26 083 6.3000
 
-73 26 441 112.058
+73 26 441 6.3875
 
-74 26 799 113.587
+74 26 799 6.4750
 
-75 26 810 115.25
+75 26 810 6.5625
 
-76 26 870 116.663
+76 26 870 6.6500
 
-77 27 278 118.192
+77 27 278 6.7375
 
-78 27 686 119.730
+78 27 686 6.8250
 
-79 28 094 121.268
+79 28 094 6.9125
 
-80 28 502 122.797
+80 28 502 7.0000
 
-81 28 910 124.335
+81 28 910 7.0875
 
-82 29 318 125.873
+82 29 318 7.1750
 
-83 29 726 127.402
+83 29 726 7.2625
 
-84 30 134 128.940
+84 30 134 7.3500
 
-85 30 542 130.478
+85 30 542 7.4375
 
-86 30 950 132.007
+86 30 950 7.5250
 
-87 31 358 133.545
+87 31 358 7.6125
 
-88 31 766 135.083
+88 31 766 7.7000
 
-89 32 174 136.612
+89 32 174 7.7875
 
-90 32 582 138.150
+90 32 582 7.8750
 
-91 32 990 139.688
+91 32 990 7.9625
 
-92 33 398 141.217
+92 33 398 8.0500
 
-93 33 806 142.755
+93 33 806 8.1375
 
-94 34 214 144.293
+94 34 214 8.2250
 
-95 34 622 145.822
+95 34 622 8.3125
 
-96 35 030 147.360
+96 35 030 8.4000
 
-97 35 438 148.898
+97 35 438 8.4875
 
-98 35 846 150.427
+98 35 846 8.5750
 
-99 36 254 151.965
+99 36 254 8.6625
 
-100 36 662 153.503
+100 36 662 8.7500
 
-Al inscribirse por primera vez en el instituto o al cambiar de clase por modificación en sus actividades, las empresas invariablemente serán colocadas en el grado medio de la clase que les corresponda y con apego a dicho grado pagarán la prima del seguro de riesgos de trabajo.
+Al inscribirse por primera vez en el Instituto o al cambiar de clase por modificación en sus actividades, las empresas invariablemente serán colocadas en el grado medio de la clase que les corresponda y con apego a dicho grado pagarán la prima del seguro de riesgos de trabajo.
 
 ###### ARTICULO 80.
 
@@ -1030,7 +1036,7 @@ XI.- Valor actual de la pensión, que es la cantidad calculada a la fecha de sin
 
 ###### ARTICULO 87.
 
-Los ingresos y egresos del seguro de Riesgos de Trabajo se registrarán contablemente por separado de los correspondientes a los demás ramos del seguro.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1990)
 
 #### SECCION SEXTA. De la Prevención de Riesgos de Trabajo
 
@@ -1662,101 +1668,97 @@ El Instituto concederá ayuda asistencial al pensionado por invalidez, vejez o c
 
 #### SECCION OCTAVA. De la Cuantía de las Pensiones
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 167.
 
 Las pensiones anuales de invalidez y de vejez se compondrán de una cuantía básica y de incrementos anuales computados de acuerdo con el número de cotizaciones semanales reconocidas al asegurado con posterioridad a las primeras quinientas semanas de cotización.
 
 La cuantía básica y los incrementos serán calculados conforme a la siguiente tabla:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+GRUPO DE SALARIO EN VECES PORCENTAJE DE LOS SALARIOS
 
-Salario Cuantía Incremento
+EL SALARIO MINIMO GENERAL CUANTIA INCREMENTO
 
-Diario Básica Anual a la
+PARA EL D.F. BASICA ANUAL
 
-Grupo Más de Promedio Hasta Anual Cuantía
+Hasta 1 % %
 
-M $-.- $ 45.00 $ 50.00 $7 371.00 $ 245.70
+de 1.01 a 1.25 80.00 0.563
 
-N 50.00 60.00 70.00 9 828.00 327.60
+de 1.26 al 1.50 77.11 0.814
 
-O 70.00 75.00 80.00 12 285.00 409.50
+de 1.51 a 1.75 58.18 1.178
 
-P 80.00 90.00 100.00 13 104.00 491.40
+de 1.76 a 2.00 49.23 1.430
 
-R 100.00 115.00 130.00 16 744.00 627.90
+de 2.01 a 2.25 42.67 1.615
 
-S 130.00 150.00 170.00 21 840.00 819.00
+de 2.26 a 2.50 37.65 1.756
 
-T 170.00 $195.00 220.00 26 972.40 958.23
+de 2.51 a 2.75 33.68 1.868
 
-U 220.00 250.00 280.00 34 580.00 1 228.50
+de 2.76 a 3.00 30.48 1.958
 
-W 280.00 35% 1.25%
+de 3.01 a 3.25 27.83 2.033
 
-Hasta el límite superior Del salario Del salario
+de 3.26 a 3.50 25.60 2.096
 
-establecido. de de
+de 3.51 a 3.75 23.70 2.149
 
-cotización. cotización.
+de 3.76 a 4.00 22.07 2.195
 
-Para efectos de determinar la cuantía básica anual de la pensión y sus incrementos, se considera como salario diario, el promedio correspondiente a las últimas doscientas cincuenta semanas de cotización. Si el asegurado no tuviere reconocidas las doscientas cincuenta semanas señaladas, se tomarán las que tuviere acreditadas, siempre que sean suficientes para el otorgamiento de una pensión por invalidez o por muerte.
+de 4.01 a 4.25 20.65 2.235
 
-El derecho al incremento anual se adquiere por cada cincuenta y dos semanas más de cotización.
+de 4.26 a 4.50 19.39 2.271
 
-Los incrementos a la cuantía básica, tratándose de fracciones de año, se calcularán en la siguiente forma:
+de 4.51 a 4.75 18.29 2.302
 
-a).- Con trece a veintiséis semanas reconocidas se tiene derecho al cincuenta por ciento del incremento anual.
+de 4.76 a 5.00 17.30 2.330
 
-b).- Con más de veintiséis semanas reconocidas se tiene derecho al cien por ciento del incremento anual.
+de 5.01 a 5.25 16.41 2.355
 
-Los trabajadores incorporados al sistema de porcentaje a que se refiere al artículo 47 de esta Ley, percibirán pensión sobre su salario diario base de cálculo, en los siguientes términos:
+de 5.26 a 5.50 15.61 2.377
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+de 5.51 a 5.75 14.88 2.398
 
-1).- Cuando sea hasta de $80.00, la cuantía básica será del cuarenta y cinco por ciento y los incrementos anuales del uno y medio por ciento del salario diario.
+de 5.76 a 6.00 14.22 2.416
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+de 6.01 LÍMITE 13.62 2.433
 
-2).- Si es superior a $80.00 y hasta $170.00, la cuantía básica será del cuarenta por ciento y los incrementos anuales del uno y medio por ciento de dicho salario.
+SUPERIOR ESTABLECIDO. 13.00 2.450
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+Para los etectos (sic) de determinar la cuantía básica anual de la pensión y sus incrementos, se considera como salario diario el promedio correspondiente a las últimas doscientas cincuenta semanas de cotización. Si el asegurado no tuviere reconocidas las doscientas cincuenta semanas señaladas se tomarán las que tuviere acreditadas, siempre que sean suficientes para el otorgamiento de una pensión por invalidez o por muerte.
 
-3).- Cuando sea superior a $170.00 y hasta $280.00, la cuantía básica será del treinta y ocho por ciento y los incrementos anuales del 1.35% del referido salario.
+El salario diario que resulte se expresará en veces el Salario Mínimo General para el Distrito Federal vigente en la fecha en que el asegurado se pensione, a fin de determinar el grupo de la tabla que antecede en que el propio asegurado se encuentre. Los porcentajes para calcular la cuantía básica, así como los incrementos anuales se aplicarán al salario promedio diario mencionado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+El derecho al incremento anual se adquiere por cado cincuenta y dos semanas más de cotización.
 
-4).- De ser superior a $280.00, la cuantía básica será del treinta y cinco por ciento y los incrementos anuales del 1.25% del propio salario.
+Los incrementos a la cuantía básica, tratándose de fracciones del año, se calcularán en la siguiente forma:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+a) Con trece a veintiséis semanas reconocidas se tiene derecho al cincuenta por ciento del incremento anual.
 
-El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
+b) Con más de veintiséis semanas reconocidas se tiene derecho al cien por ciento del incremento anual.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a una mensualidad del importe de la pensión que perciban.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 168.
 
-La suma de la pensión de invalidez, de vejez o cesantía en edad avanzada, mas las asignaciones familiares y ayudas asistenciales que en su caso correspondan, no podrá ser inferior al setenta por ciento del Salado Mínimo General que rija para el Distrito Federal.
+La pensión de invalidez, vejez o cesantía en edad avanzada, incluyendo las asignaciones familiares y ayudas asistenciales que en su caso correspondan no podrá ser inferior al ochenta por ciento del Salario Mínimo General que rija para el Distrito Federal.
 
-El monto determinado conforme al párrafo anterior, servirá de base para calcular las pensiones que se deriven de la muerte tanto del pensionado, como del asegurado, al igual que para fijar la cuantía de aguinaldo anual.
+El monto determinado conforme al párrafo anterior, servirá de base para calcular las pensiones que se deriven de la muerte tanto del pensionado, como del asegurado, al igual que para fijar la cuantía del aguinaldo anual.
 
-En todo caso, el monto del aguinaldo a que se refiere el párrafo anterior, no será inferior a treinta días.
+La cuantía mínima de las pensiones derivadas de incorporaciones generados por decreto del Ejecutivo Federal o convenios celebrados por el Instituto en los términos de esta Ley, que contengan modalidades de aseguramiento en el ramo de los seguros de invalidez, vejez, cesantía en edad avanzada y muerte, se sujetará lo (sic) establecido en el segundo párrafo del Artículo 172.
 
-La cuantía mínima de las pensiones derivadas de incorporaciones generadas por decreto del Ejecutivo Federal o convenios celebrados por el Instituto en los términos de esta Ley, que contengan modalidades de aseguramiento en el ramo de los seguros de invalidez, vejez, cesantía en edad avanzada y muerte, se sujetará a lo establecido en el segundo párrafo del artículo 172.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 169.
 
-La suma de la pensión que se otorgue por invalidez, vejez o cesantía en edad avanzada y del importe de las asignaciones familiares y ayudas asistenciales que se concedan, no excederá del ochenta y cinco por ciento del salario promedio que sirvió de base para fijar la cuantía de la pensión, si ésta se generó con menos de mil quinientas semanas de cotización acreditadas. Si fueran entre mil quinientas y dos mil, el límite de la cuantía de la pensión más las asignaciones y la ayuda asistencial será del noventa por ciento y del cien por ciento como máximo si las semanas reconocidas fueran dos mil o más.
+La pensión que se otorgue por invalidez, vejez o cesantía en edad avanzada, incluyendo el importe de las asignaciones familiares y ayudas asistenciales que se concedan, no excederá del cien por ciento del salario promedio que sirvió de base para fijar la cuantía de la pensión. Este límite se elevará únicamente por derechos derivados de semanas de cotización reconocidas, cuando el monto que se obtenga por concepto de la pensión sea superior al mismo.
 
-Las anteriores limitaciones no regirán:
-
-I.- Para las pensiones con el monto mínimo establecido en el artículo 168;
-
-II.- En el caso de la ayuda asistencial a que se refiere el artículo 166;
-
-III.- Si la suma de la pensión, de las asignaciones familiares y de la ayuda asistencial que se concedan, ajustada al porcentaje límite resulta inferior a la que correspondería de aplicar como base de cálculo el monto mínimo a que se refiere la fracción I; y
-
-IV.- Cuando por derechos derivados de semanas de cotización reconocidas y de mejora por edad avanzada, la cuantía de la pensión exceda del límite fijado.
+Las anteriores limitaciones no regirán para las pensiones con el monto mínimo establecido en el artículo 168.
 
 ###### ARTICULO 170.
 
@@ -1870,11 +1872,11 @@ Del Régimen Financiero
 
 Los recursos necesario para cubrir las prestaciones y los gastos administrativos del seguro de invalidez, de vejez de cesantía en edad avanzada y por muerte, así como para la constitución de las reservas técnicas, se obtendrán de las cuotas que están obligados a cubrir las (sic) patrones, los trabajadores y demás sujetos y de la contribución que corresponda al Estado.
 
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 177.
 
-A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas del 4.20% y 1.50% sobre el salario base de cotización, respectivamente.
+A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas del 5.6 por ciento y 2 por ciento sobre el salario base de cotización, respectivamente.
 
 > <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
 
@@ -2564,43 +2566,39 @@ Al concurrir similitud de circunstancias sobre seguridad y rendimiento, se prefe
 
 Las reservas deberán invertirse de manera que su rendimiento medio no sea inferior a la tasa de interés que sirva de base para los cálculos actuariales.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 262.
 
-El Instituto depositará en instituciones nacionales de crédito las cantidades necesarias para hacer frente a sus obligaciones inmediatas.
+El Instituto depositará en instituciones de crédito del país las cantidades necesarias para hacer frente a sus obligaciones inmediatas.
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 263.
 
-Las reservas se invertirán:
+Los ingresos y egresos de cada uno de los ramos a que se refiere el Artículo 11 de esta ley, se registrarán contablemente por separado de los correspondientes o los demás ramos, en las cifras consolidadas.
 
-I.- Hasta un ochenta y cinco por ciento en la adquisición, construcción o financiamiento de hospitales, sanatorios, clínicas, guarderías infantiles, almacenes, farmacias, laboratorios, centros de convalecencia, centros de seguridad social y demás muebles e inmuebles propios para los fines de la Institución;
+Los recursos citados sólo podrán utilizarse para cubrir las prestaciones y reservas que correspondan o cada uno de los respectivos ramos.
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+En todos los casos, la diferencia del importe de las cuotas del seguro de invalidez, vejez, cesantía en edad avanzada y muerte y demás ingresos de dicho ramo, por un lado, y el pago de las prestaciones y demás egresos del mismo, por el otro, se aplicará a incrementar la reservo respectiva en términos de este Capítulo.
 
-II.- Hasta un diez por ciento en bonos o títulos emitidos por el Gobierno Federal, Estados, Distrito Federal, Municipios, instituciones nacionales de crédito o entidades encargadas del manejo de servicios públicos, siempre que se sujete a lo dispuesto en el artículo siguiente.
-
-Los remanentes disponibles para inversión, podrán destinarse a préstamos hipotecarios, que se sujetarán a los requisitos establecidos en el artículo 265, en anticipos de pensiones y en acciones, bonos o títulos de instituciones nacionales de crédito o sociedades mexicanas, en los términos del artículo 266 y sin que en ningún caso esta última inversión exceda del cinco por ciento del total de las reservas.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 264.
 
-Los bonos o títulos a que se refiere el artículo anterior, deberán estar garantizados con la afectación en fideicomiso de alguna contribución suficiente para el servicio de sus intereses y amortización o por participación en impuestos federales. En los emitidos por el Gobierno Federal o por instituciones nacionales de crédito, bastará con que se hallen al corriente en sus servicios.
+Las reservas del seguro de invalidez, vejez, cesantía en edad avanzada y muerte, deberán invertirse en activos financieros y el producto que se obtenga de su inversión se destinará exclusivamente para cubrir las prestaciones del mencionado ramo del seguro.
 
 ###### ARTICULO 265.
 
-Las inversiones en préstamos hipotecarios se sujetarán a los siguientes requisitos:
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1990)
 
-a) El monto de los préstamos hipotecarios no excederá del sesenta y cinco por ciento del valor de los inmuebles dados en garantía, según avalúo de la institución, excepto en los casos en que los sujetos de crédito otorguen garantías colaterales de fideicomiso o de fianza, en los que el importe del crédito podrá ser hasta del setenta y cinco por ciento del valor del inmueble dado en garantía principal.
-
-b) El importe del préstamo no excederá de cien mil pesos.
-
-c) El plazo de los préstamos no excederá de quince años y deberán cubrirse mediante pagos mensuales que comprendan los intereses devengados y abonos a cuenta de amortización de capital.
-
-d) Los inmuebles dados en garantía deberán estar asegurados contra incendio y otros desastres por cantidad suficiente para cubrir su valor destructible.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 266.
 
-Las acciones y valores emitidos por sociedades mexicanas deberán ser de las autorizadas por la Comisión Nacional de Valores para inversiones de instituciones de crédito, de seguros y de fianzas.
+Las inversiones en acciones y valores emitidas por sociedades mexicanas deberán ser de las autorizadas por la Comisión Nacional de Valores para inversiones de Instituciones de crédito, de seguros y de fianzas y en ningún caso excederán del 5% del total de las reservas.
 
-Por excepción podrá invertirse en acciones de sociedades cuyo objeto tenga íntima relación con los fines del Instituto, sin sujetarse a los requisitos señalados en el párrafo anterior, caso en el cual se requerirá aprobación unánime del Consejo Técnico y que los Consejeros del Sector Estatal tengan autorización por escrito del Presidente de la República para votar afirmativamente en el caso concreto.
+Por excepción podrá invertirse en acciones de sociedades cuyo objeto tenga íntima relación con los fines del Instituto, sin sujetarse a los requisitos señalados en el párrafo anterior, caso en el cual se requerirá aprobación unánime del Consejo Técnico y que los consejeros del sector estatal tengan autorización por escrito del Presidente de la República paro votar afirmativamente en el caso concreto.
 
 ## TITULO SEXTO. De los Procedimientos y de la Prescripción
 
@@ -3033,3 +3031,41 @@ En términos del penúltimo párrafo de los considerandos, se obliga al Institut
 ###### ARTICULO TERCERO.
 
 Se dejan sin efecto las disposiciones que contravengan lo establecido en estas Reformas.
+
+D.O.F. 27 DE DICIEMBRE DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1991, salvo lo señalado en los artículos siguientes:
+
+SEGUNDO.- Las reformas al Artículo 177 de la Ley entrarán en vigor el 1o. de enero de 1996.
+
+Durante los años de 1991 a 1995, a los patrones y a los trabajadores les corresponderá cubrir, para los seguros a que se refiere el Capítulo V del Título segundo de la Ley, las cuotas sobre el salario base de cotización que a continuación se indican:
+
+Porcentaje sobre el salario base de cotización
+
+Año Patrones Trabajadores
+
+1991 4.90 1.75
+
+1992 5.04 1.80
+
+1993 5.18 1.85
+
+1994 5.32 1.90
+
+1995 5.46 1.95
+
+La cuantía de la contribución del Estado para los referidos seguros será igual al resultado de aplicar el porcentaje indicado en el artículo 178 de la ley, al total de las cuotas patronales determinadas conforme al presente artículo.
+
+TERCERO.- La Asamblea General del Instituto podrá determinar qué parte de la reserva correspondiente al ramo de invalidez, vejez, cesantía en edad avanzada y muerte, que se constituya a partir de la entrada en vigor del presente Decreto, pueda invertirse en activos distintos a los señalados en el Artículo 264, conforme a las bases siguientes:
+
+l.- Las Inversiones en activos distintos a los señalados en el Artículo 264, en ningún caso podrán ser superiores al 50% del total de la propia reserva.
+
+II.- La Asamblea General del Instituto determinará anualmente la reducción en el porcentaje que pueda estar invertido en activos no financieros.
+
+III.- En todo caso, a más tardar dentro de los diez años contados a partir de la entrada en vigor del presente Decreto, la reserva deberá estar totalmente invertida en términos del Artículo 264.
+
+CUARTO.- El Instituto deberá adecuar en un plazo que no exceda de diez años a partir de la entrada en vigor del presente Decreto, la Inversión de su reserva acumulada al 31 de diciembre de 1990, correspondiente al seguro de invalidez, vejez, cesantía en edad avanzada y muerte, al régimen previsto en el Artículo 264.
+
+Al efecto, la Asamblea General del Instituto, a propuesta del Director General, determinará cada año el programa de ajuste relativo para dar cumplimiento a lo dispuesto en el párrafo inmediato anterior.
+
+QUINTO.- A los asegurados que a la fecha en que entre en vigor el presente Decreto, ya hubiesen computado los tiempos de espera requeridos por la ley para el otorgamiento de las prestaciones en ella previstas, sólo se les aplicará la nueva tabla contenida en el Artículo 167 reformado en caso de que ésta resultare más favorable para ellos.
