@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-540"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1956-12-31"
-last_updated: "1956-12-31"
+last_updated: "1963-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=540&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "1956-12-29"
 ---
 # LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 1964 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+> <small>[N. DE E. EL DECRETO EXPEDIDO POR LA XLV LEGISLATURA, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 1963, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 1963.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 31 de diciembre de 1956.
 
@@ -39,307 +43,463 @@ DECRETO:
 
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 ### CAPITULO I. Del Derecho de Autor
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 1o.
 
-El autor de una obra literaria, didáctica, científica o artística, tiene la facultad exclusiva de usarla y explotarla y de autorizar el uso o explotación de ella, en todo o en parte; de disponer de esos derechos a cualquier título, total o parcialmente y de transmitirlos por causa de muerte. La utilización y explotación de la obra podrá hacerse, según su naturaleza, por medios tales como los siguientes, o por los que en lo sucesivo se conozcan:
+La presente Ley es reglamentaria del artículo 28 Constitucional; sus disposiicones (sic) son de orden público y se reputan de interés social; tiene por objeto la protección de los derechos que la misma establece en beneficio del autor de toda obra intelectual o artística y la salvaguarda del acervo cultural de la nación.
 
-a).- Publicarla, ya sea mediante la impresión o en cualquiera otra forma;
-
-b).- Representarla, recitarla, exponerla o ejecutarla públicamente;
-
-c).- Reproducirla, adaptarla o presentarla por medio de la cinematografía, televisión, micropelículas, fotografía, grabación de discos fonográficos y cualquier otro medio apto para ello;
-
-d).- Adaptarla y autorizar adaptaciones generales o especiales a instrumentos que sirvan para reproducirla mecánica o eléctricamente y ejecutarla en público por medio de dichos instrumentos;
-
-e).- Difundirla por medio de la fotografía, telefotografía, televisión, radiodifusión o por cualquier otro medio actualmente conocido o que se invente en lo sucesivo y que sirva para la reproducción de los signos, los sonidos o las imágenes;
-
-f).- Traducirla, transportarla, arreglarla, instrumentarla, dramatizarla, adaptarla y, en general, transformarla o modificarla de cualquier otra manera;
-
-g).- Reproducirla en cualquier forma, total o parcialmente.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 2o.
 
-Las obras literarias, científicas, didácticas y artísticas, protegidas por esta Ley, comprenden los libros, folletos y otros escritos cualquiera que sea su extensión; las conferencias, discursos, lecciones, sermones y otras obras de la misma naturaleza, cuando consten en versiones escritas o grabadas; las obras dramáticas o dramático-musicales, las coreográficas y las pantomímicas cuya escena sea fijada por escrito o en otra forma; las composiciones musicales con o sin letra, los dibujos, las ilustraciones; las pinturas, las esculturas, los grabados, las litografías, las obras fotográficas y cinematográficas; las esferas astronómicas o geográficas; los mapas, planos, croquis trabajos plásticos relativo a geografía, geología, topografía, arquitectura o cualquiera ciencia; y, en fin, toda producción literaria, científica, didáctica o artística apta para ser publicada y reproducida.
+Son derechos que la Ley reconoce y protege en favor del autor de cualquiera de las obras que se señalan en el artículo 1o. los siguientes:
+
+I.- El reconocimiento de su calidad de autor;
+
+II.- El de oponerse a toda deformación, mutilación o modificación de su obra, que se lleve a cabo sin su autorización, así como a toda acción que redunde en demérito de la misma o mengua del honor, del prestigio o de la reputación del autor No es causa de la acción de oposición la libre crítica científica, literaria o artística de las obras que ampara esta ley, y
+
+III.- El usar y explotar temporalmente la obra por sí mismo o por terceros, con propósitos de lucro y de acuerdo con las condiciones establecidas por la Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 3o.
 
-Las obras a que se refiere el artículo anterior, quedarán protegidas aun cuando sean inéditas o no publicadas. Las obras de arte serán protegidas, como tales, independientemente del fin a que puedan destinarse. El derecho de autor no ampara el aprovechamiento industrial de ideas contenidas en obras científicas.
+Los derechos que las fracciones I y II del artículo anterior conceden al autor de una obra, se consideran unidos a su persona y son perpetuos, inalienables, imprescriptibles e irrenunciables; se trasmite el ejercicio de los derechos a los herederos legítimos o a cualquier persona por virtud de disposición testamentaria.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 4o.
 
-Las traducciones, adaptaciones, compilaciones, arreglos, compendios, dramatizaciones, las reproducciones fonéticas de ejecutantes, cantantes y declamadores; las reproducciones fotográficas; las producciones cinematográficas y cualesquiera otras versiones de obras científicas, literarias o artísticas que contengan por sí mismas alguna originalidad, serán protegidas en lo que tengan de originales, pero sólo podrán ser publicadas cuando hayan sido autorizadas por el titular del derecho de autor sobre la obra primigenia.
+Los derechos que el artículo 2o. concede en su fracción III al autor de una obra, comprenden la reproducción, ejecución y adaptación de la misma, las que podrán efectuarse por cualquier medio según la naturaleza de la obra y de manera particular por los medios señalados en los Tratados y Convenios Internacionales vigentes en que México sea parte. Tales derechos son transmisibles por cualquier medio legal.
 
-Cuando las versiones previstas en el párrafo precedente sean de obras del dominio público, aquéllas serán protegidas en lo que tengan de originales; pero tal protección no comprenderá el derecho al uso exclusivo de la obra primigenia ni dará derecho a impedir que se hagan otras versiones de la misma.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 5o.
 
-Se considerará como simple reproducción de una traducción anterior y, por lo tanto, no será protegida, la que presente tan escasas o pequeñas diferencias con ella que hagan presumir, a juicio de la Secretaría de Educación Pública, que no se trata de una nueva obra de creación, sin perjuicio del derecho de impugnación que corresponde al autor de la primera traducción.
+La enajenación de la obra; la facultad de editarla, reproducirla, representarla, ejecutarla, exhibirla, usarla o explotarla, no dan derecho a alterar su título, forma o contenido.
+
+Sin consentimiento del autor no podrán publicarse, difundirse, representarse ni exponerse públicamente las traducciones, compendios, adaptaciones, transportaciones, arreglos, instrumentaciones, dramatizaciones o transformaciones, ni totales ni parciales de su obra.
+
+Independientemente del consentimiento previo, estos actos deben ejecutarse sin menoscabo de la reputación de su autor y, en su caso, de la del traductor, compilador, adaptador o autor de cualquier otra versión.
+
+El autor podrá en todo tiempo realizar y autorizar modificaciones a su obra.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 6o.
 
-Los documentos existentes en los archivos oficiales no podrán ser publicados por los particulares sin permiso de las autoridades de que dependan, a no ser que hayan sido publicados con anterioridad.
+Los derechos de autor son preferentes a los de los intérpretes y de los ejecutantes de una obra, y en caso de conflicto se estará siempre a lo que más favorezca el (sic) autor.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 7o.
 
-Las obras científicas, literarias, didácticas o artísticas, publicadas en periódicos y revistas, no pierden por este hecho la protección legal.
+La protección a los derechos de autor se confiere con respecto de sus obras, cuyas características correspondan a cualquiera de las ramas siguientes:
 
-Los artículos de actualidad publicados en periódicos y revistas podrán ser reproducidos por la prensa, a menos que la reproducción se haya prohibido mediante una reserva especial o general hecha al ser publicados. Pero al ser reproducidos deberá citarse de manera inconfundible la fuente de donde se hubiera tomado.
+a) Literarias.
 
-Puede ser reproducido libremente el contenido informativo de las noticias periodísticas del día.
+b) Científicas, técnicas y jurídicas.
+
+c) Pedagógicas y didácticas.
+
+d) Musicales, con letra o sin ella.
+
+e) De danza, coreográficas y pantomímicas.
+
+f) Pictóricas, de dibujo, grabado y litografía.
+
+g) Escultóricas y de carácter plástico.
+
+h) De arquitectura.
+
+i) De fotografía, cinematografía, radio y televisión.
+
+j) Todas las demás que por analogía pudieran considerarse comprendidas dentro de los tipos genéricos de obras artísticas e intelectuales antes mencionadas.
+
+La protección de los derechos que esta Ley establece surtirá legítimos efectos cuando las obras consten por escrito, en grabaciones o en cualquier otra forma de objetivación perdurable y que sea susceptible de reproducirse o hacerse del conocimiento público por cualquier medio.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 8o.
 
-Los colaboradores de periódicos y revistas, salvo pacto contrario, conservan el derecho de editar sus artículos en forma de colección después de haber sido publicados en el periódico o revista en que colaboren.
+Las obras a que se refiere le (sic) artículo anterior quedarán protegidas, aun cuando no sean registradas ni se hagan del conocimiento público, o cuando sean inéditas, independientemente del fin a que puedan destinarse.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 9o.
 
-En caso de una obra hecha por varios autores, sin que pueda señalarse la parte de que cada uno de ellos es autor, los derechos otorgados por esta Ley corresponderán, salvo convenio en contrario, a todos por partes iguales.
+Los arreglos, compendios, ampliaciones, traducciones, adaptaciones, compilaciones y transformaciones de obras intelectuales o artísticas que contengan por sí mismas alguna originalidad, serán protegidos en lo que tengan de originales, pero sólo podrán ser publicados cuando hayan sido autorizados por el titular del derecho de autor sobre la obra de cuya versión se trate.
 
-Para ejercitar cualquiera de las facultades a que se refiere el artículo 1o. se necesita el consentimiento de la mayoría; los disidentes no están obligados a contribuir a los gastos que se originen sino con cargo a los beneficios que se obtengan.
+Cuando las versiones previstas en el párrafo precedente sean de obras del dominio público, aquéllas serán protegidas en lo que tengan de originales, pero tal protección no comprenderá el derecho al uso exclusivo de la obra de cuya versión se trate, ni dará derecho a impedir que se hagan otras versiones de la misma.
 
-Quienes realicen el uso o explotación de la obra, podrán deducir de los beneficios que correspondan a los disidentes, el interés legal sobre la parte de los gastos correspondientes a cada uno de ellos.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 10.
 
-Cuando una obra fuere hecha por varios autores y pueda precisarse quién lo es de cada parte determinada, cada una disfrutará de los derechos de autor sobre su parte, pero la obra completa sólo podrá publicarse o reproducirse de acuerdo con lo dispuesto en el artículo anterior.
+Las obras intelectuales o artísticas publicadas en periódicos o revistas o transmitidas por radio, televisión u otros medios de difusión no pierden por ese echo (sic) la protección legal.
+
+Los artículos de actualidad publicados en periódicos, revistas u otros medios de difusión, podrán ser reproducidos, a menos de que su reproducción haya sido objeto de prohibición o reserva especial o general. En todo caso al ser reproducidos, deberá citarse la fuente de donde se hubieran (sic) tomado. El contenido informativo de la noticia del día puede ser reproducido libremente.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 11.
 
-Muerto uno de los colaboradores de una obra o su cesionario, sin herederos, su derecho no entrará al dominio público, sino que acrecerá el de los demás titulares.
+Los colaboradores de periódicos o revistas o de radio, televisión y otros medios de difusión, salvo pacto en contrario, conservan el derecho de editar sus artículos en forma de colección después de haber sido transmitidos o publicados en la estación, periódico o revista en que colaboren.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 12.
 
-Salvo pacto en contrario, el derecho de autor sobre una obra con música y letra, pertenecerá, por mitad, al autor de la parte literaria y al autor de la parte musical; cada uno de ellos podrá libremente publicar, reproducir y explotar la parte que le corresponde.
+Los derechos otorgados por esta Ley cuando se trate de una obra creada por varios autores corresponderán a todos por partes iguales, salvo convenio en contrario o que se demuestre la titularidad de cada uno.
 
-Lo mismo se observará respecto de las obras dramático-musicales, coreográficas y, en general, de toda obra compuesta de dos o más elementos pertenecientes a ramas artísticas diferentes.
+En este caso, para ejercitar los derechos establecidos por esta Ley, se requiere el consentimiento de la mayoría; los disidentes no están obligados a contribuir a los gastos que se acuerden, sino con cargo a los beneficios que se obtengan.
+
+Cuando la mayoría haga uso o explote la obra, deducirá de la percepción total, el importe de los gastos efectuados y entregará a los disidentes la participación que les corresponda.
+
+Cuando se identifique la parte de cada uno de los autores, éstos podrán libremente reproducir, publicar y explotar la parte que les corresponda.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 13.
 
-El retrato de una persona no puede ser publicado sin su consentimiento expreso y, después de su muerte, del de su cónyuge, de sus ascendientes, de sus hijos y otros descendientes hasta el segundo grado.
+Cuando una obra fuere hecha por varios autores y pueda precisarse quién lo es de cada parte determinada, cada uno disfrutará de los derechos de autor sobre su parte, pero la obra sólo podrá publicarse o reproducirse de acuerdo con lo dispuesto en el artículo anterior, debiéndose mencionar los nombres de todos los coautores de la obra.
 
-La persona que haya dado su consentimiento en alguno de los casos a que se refiere el párrafo anterior puede revocarlo antes de cada publicación, pero queda obligado al resarcimiento de los daños y perjuicios que ello ocasione.
-
-Puede publicarse el retrato de una persona cuando la publicación tenga un fin educativo, científico o cultural o de interés general, o si se refiere a un acontecimiento de actualidad u ocurrido en público, siempre que no sea infamante.
-
-Los fotógrafos profesionales pueden exhibir las fotografías de sus clientes, como muestra de trabajo, si no se opone alguno de los interesados a que se refiere el primer párrafo de este artículo.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 14.
 
-La persona cuyo nombre o seudónimo conocido o registrado está indicado como autor en una obra protegida, será considerada como tal salvo prueba en contrario. En consecuencia, se admitirán por los tribunales competentes las acciones que entable por trasgresiones de su derecho.
+Muerto alguno de los coautores, o sucesionario, (sic) sin herederos, su derecho acrecerá el de los demás titulares.
 
-Respecto de las obras anónimas o de las seudónimas cuyos autores no se hayan dado a conocer, dicha acción corresponderá al editor de ellas, pero cesará en cuanto el autor o el titular de los derechos se apersone en el juicio respectivo. Se entenderá que el editor actúa en estos casos como titular del derecho de autor y con las responsabilidades de un mandatario.
-
-Es libre el uso de la obra anónima, mientras su autor no se dé a conocer, para lo cual dispondrá del plazo de 30 años contados desde la primera publicación de la obra. En todo caso, transcurrido este lapso, la obra pasará al dominio público.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 15.
 
-El derecho de autor no ampara contra los siguientes actos.
+Salvo pacto en contrario, el derecho de autor sobre una obra con música y letra pertenecerá por mitad al autor de la parte literaria y al de la parte musical. Cada uno de ellos, podrá libremente publicar, reproducir y explotar la parte que le corresponda o la obra completa, y en este último caso, deberá dar aviso en forma indubitable al coautor, mencionando su nombre en la publicación o edición, además de abonarle la parte que le corresponda cuando lo haga con fines lucrativos.
 
-a).- El empleo incidental e inevitable de una obra protegida, en la reproducción o representación contemporáneas de un acontecimiento de actualidad por medio de la fotografía, películas cinematográficas, radiodifusión, televisión u otros métodos similares, siempre que no sea para anuncios y siempre que no se hubiere podido obtener anticipadamente el permiso del autor o titular del derecho, después, de razonable diligencia.
+Cuando la letra de una obra musical se traduzca o adapte a otro idioma, los traductores o adaptadores no adquirirán el derecho de titular en la parte literaria, pues dicho carácter lo conservará para todos los efectos legales, el autor de la letra original.
 
-b).- La publicación mediante la fotografía, televisión o en películas cinematográficas, de obras de arte o de arquitectura que sean visibles desde lugares públicos;
-
-c).- La publicación, traducción o reproducción, por cualquier medio, de breves fragmentos de obras científicas, literarias o artísticas en publicaciones hechas con fines didácticos o científicos o en crestomatías, o con fines de crítica literaria o de investigación científica, siempre que se indique, de manera inconfundible, la fuente de donde se hubieren tomado y que los textos reproducidos no sean alterados;
-
-d).- La copia manuscrita, a máquina, fotográfica, fotostática, pintada, dibujada o en micropelícula de una obra publicada, siempre que sea para el uso exclusivo de quien la haga, sin mostrarla o exhibirla en público y sin lucrar o comerciar con ella en ninguna forma.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 16.
 
-La Secretaría de Educación Pública no podrá negar ni suspender el registro de una obra literaria, científica, didáctica o artística, bajo la afirmación de que contraría la moral, el respeto a la vida privada o al orden público, pero si juzga que la misma es contraria a las disposiciones del Código Penal o a las contenidas en la Convención para la Represión del Tráfico y Circulación de Publicaciones obscenas, lo hará del conocimiento del Ministerio Público para que obre de acuerdo con sus facultades legales.
+La publicación de la obra fotográfica puede realizarse libremente con fines educativos, científicos, culturales o de interés general, pero en su reproducción deberá mencionarse la fuente o el nombre del autor.
+
+El retrato de una persona sólo puede ser usado o publicado, con fines lucrativos, con su consentimiento expreso, el de sus representantes o causahabientes, o en caso de muerte, el de sus herederos en el orden de sucesión que establecen las leyes civiles. La autorización podrá revocarse por quien la otorgó, quien responderá de los daños y perjuicios que ocasionare con la revocación.
+
+Los fotógrafos profesionales pueden exhibir los retratos de sus clientes como muestra de su trabajo si no hay oposición de su parte o de sus representantes.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 17.
 
-El título de una obra científica, didáctica, literaria o artística que se encuentre protegida, o el título registrado de una publicación periódica no podrá ser utilizado por un tercero. Tampoco podrá utilizarse un título de tal naturaleza que pueda ocasionar confusiones con otra obra o títulos protegidos.
+La persona cuyo nombre o seudónimo conocido o registrado esté indicado como autor en una obra, será considerada como tal, salvo prueba en contrario, y en consecuencia, se admitirán por los tribunales competentes las acciones que se entablen por transgresiones a su derecho.
 
-Estas prohibiciones no se aplican al uso del título en obras o publicaciones periódicas de índole tan diversa que excluya toda posibilidad de confusión.
+Respecto de las obras firmadas bajo seudónimo o cuyos autores no se hayan dado a conocer, dichas acciones corresponderán al editor de ellas, quien tendrá las responsabilidades de un gestor, pero cesará la representación cuando el autor o el titular de los derechos comparezca en el juicio respectivo.
 
-En el caso de obras, tradiciones, leyendas o sucedidos, que hayan llegado a individualizarse o sean generalmente conocidos bajo un nombre que les sea característico, no podrá invocarse protección alguna sobre su título en los arreglos que de ellos se hagan. Los títulos genéricos y los nombres propios no tienen protección.
+Es libre el uso de la obra de autor anónimo mientras el mismo no se dé a conocer, para lo cual dispondrá del plazo de treinta años contados a partir desde la primera publicación de la obra. En todo caso, transcurrido ese lapso, la obra pasará al dominio público.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 18.
 
-Las leyes, reglamentos, circulares y demás disposiciones generales, podrán ser publicadas por los particulares después de que lo hayan sido oficialmente, a no ser que se obtenga autorización expresa de la autoridad respectiva para hacerlo antes. En todo caso las publicaciones deberán apegarse al texto oficial y no conferirán derecho exclusivo de edición. No se requiere autorización para publicar las sentencias dictadas por los tribunales judiciales y los administrativos, salvo disposición legal en contrario o cuando se refieren a delitos de querella necesaria, atentados al pudor, violación, incesto o contra la moral pública; divorcio, patria potestad e interdicción.
+El derecho de autor no ampara los siguientes casos:
+
+a) El aprovechamiento industrial de ideas contenidas en sus obras.
+
+b) El empleo de una obra mediante su reproducción o representación en un acontecimiento de actualidad, a menos de que se haga con fines de lucro.
+
+c) La publicación de obras de arte o de arquitectura que sean visibles desde lugares públicos.
+
+d) La traducción o reproducción, por cualquier medio, de breves fragmentos de obras científicas, literarias o artísticas, en publicaciones hechas con fines didácticos o científicos o en crestomatías, o con fines de crítica literaria o de investigación científica, siempre que se indique la fuente de donde se hubieren tomado, y que los textos reproducidos no sean alterados.
+
+e) La copia manuscrita, mecanográfica, fotográfica, fotostática, pintada, dibujada o en micropelícula de una obra publicada, siempre que sea para el uso exclusivo de quien la haga.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 19.
 
-Se entenderá por publicación, para los efectos de esta Ley, el dar a conocer una obra al público por cualquiera de los medios susceptibles de ello, de acuerdo con la naturaleza de la obra.
+El registro de una obra intelectual o artística no podrá negarse ni suspenderse bajo el supuesto de ser contraria a la moral, al respeto a la vida privada o al orden público, sino por sentencia judicial, pero si la obra contraviene las disposiciones del Código Penal o las contenidas en la Convención para la Represión del Tráfico y Circulación de Publicaciones Obscenas, la Dirección General del Derecho de Autor, lo hará del conocimiento del Ministerio Público para que proceda conforme a la Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 20.
 
-El derecho de autor durará la vida del autor y 25 años después de su muerte; pasados los cuales o cuando el titular del derecho muera sin herederos, la facultad de usar y explotar la obra pasará al dominio público, pero serán respetados los derechos adquiridos por terceros con anterioridad.
+El título de una obra intelectual o artística que se encuentre protegida, o el de una publicación periódica, sólo podrán ser utilizados por el titular del derecho de autor.
 
-El derecho de autor sobre las obras póstumas durará 30 años a contar de la fecha de la muerte del autor.
+Esta limitación no abarca al uso del título en obras o publicaciones periódicas que por su índole excluyan toda posibilidad de confusión.
 
-El derecho de autor de una obra anónima o seudónima cuyo autor no se dé a conocer en el término de 30 años a partir de la fecha de su primera publicación, pasará al dominio público.
+En el caso de obras que recojan tradiciones, leyendas o sucedidos que hayan llegado a individualizarse, o sean generalmente conocidos bajo un nombre que les sea característico, no podrá invocarse protección sobre su título en los arreglos que de ellos se hagan. Los títulos genéricos y los nombres propios no tienen protección.
 
-La duración del derecho de autor que pertenezca en común a los colaboradores de una obra estará determinada por la muerte del último superviviente de ellos.
-
-Quedan protegidos por 30 años los derechos de autor en favor de la Federación, de los Estados y de los Municipios, sobre las obras hechas en el servicio oficial distintas de las leyes, reglamentos, circulares y demás disposiciones generales a que se refiere el artículo 18.
-
-La misma protección se concede a las obras a que se refiere el párrafo segundo del artículo 29.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 21.
 
-El título o cabeza de un periódico, revista, noticiero cinematográfico, programa de radio o televisión y, en general, de toda publicación o difusión periódica, ya sea que ampare la publicación o difusión total o que se refiera solamente a una parte de la misma, es susceptible de reserva de derecho, la cual conferirá a quien la hubiere obtenido, el derecho exclusivo al uso del título o cabeza durante todo el tiempo de la publicación o difusión y un año más.
+La publicación de leyes y reglamentos no requiere autorización especial, pero sólo podrá realizarse cuando tales leyes y reglamentos hayan sido publicados o promulgados oficialmente y con el único requisito de citarse la fuente oficial.
 
-La publicación o difusión deberán iniciarse dentro de un año de la fecha a partir de la cual fuere reservado el derecho en el certificado respectivo.
+Tratándose de circulares y demás disposiciones generales podrán publicarse cuando previamente se obtenga el acuerdo de la autoridad respectiva. En todo caso las publicaciones deberán apegarse al texto oficial y no conferirán derecho exclusivo de edición.
 
-Para la subsistencia de esta reserva de derechos, el titular de ella deberá comprobar anualmente en la Dirección del Derecho de Autor, que está haciendo uso del título o cabeza de publicación que se reservó.
+Serán objeto de protección las compilaciones, concordancias, interpretaciones, estudios comparativos, anotaciones, comentarios y demás trabajos similares que entrañen, por parte de su autor, la creación de una obra original.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 22.
 
-Los editores de obras científicas, didácticas, literarias o artísticas, de periódicos o revistas y los productores de películas o medios de publicación semejantes, podrán obtener, sujetándose a las disposiciones de esta Ley y de su Reglamento, el derecho exclusivo al uso de las características gráficas originales que sean distintivas de la obra o colección de ellas.
+Cuando el titular de los derechos de autor muera sin haber transmitido el ejercicio de los derechos a que se refieren las fracciones I y II del artículo 2o. de esta Ley, la Secretaría de Educación Pública será Titular de estos derechos.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 23.
 
-Las obras protegidas por esta Ley que se publiquen, deberán ostentar la expresión “Derechos Reservados”, o su abreviatura “D. R.”, seguida del símbolo (c) del nombre completo y dirección del titular del derecho de autor y de la indicación del año de la primera publicación. Las menciones anteriores deberán ponerse de manera y en sitio tales que sean fácilmente visibles y muestren claramente que el derecho de autor está reservado. Sin embargo, la indicación de reserva del derecho en ésta o cualquiera otra forma, no será condición necesaria para la protección de la obra, pero sujeta al editor que la omita, a las sanciones establecidas en esta Ley.
+La vigencia del derecho a que se refiere la fracción III del artículo 2o., se establece en los siguientes términos:
+
+I.- Durará tanto como la vida del autor y 30 años después de su muerte. Transcurrido ese término, o antes si el titular del derecho muere sin herederos, la facultad de usar y explotar la obra pasará al dominio público, pero serán respetados los derechos adquiridos por terceros con anterioridad;
+
+II.- En el caso de obras póstumas durará treinta años a contar de la fecha de la primera edición;
+
+III.- La titularidad de los derechos sobre una obra de autor anónimo, cuyo autor no se dé a conocer en el término de 30 años a partir de la fecha de su primera publicación, pasar+ al dominio público;
+
+IV.- Cuando la obra pertenezca en común a varios coautores, la duración se determinará por la muerte del último superviviente, y
+
+V.- Durará treinta años contados a partir de la fecha de la publicación en favor de la Federación, de los Estados y de los Municipios, respectivamente, cuando se trate de obras hechas al servicio oficial de dichas entidades y que sean distintas de las leyes, reglamentos, circulares y demás disposiciones oficiales
+
+La misma protección se concede a las obras a que se refiere el párrafo segundo del artículo 31.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 24.
 
-La enajenación de una obra no incluye por sí sola, la transmisión del derecho de autor, salvo convenio en contrario. Tampoco lo transmite la enajenación de uno o más ejemplares de la obra.
+El título o cabeza de un periódico, revista, noticiero cinematográfico, y, en general de toda publicación o difusión periódica, ya sea total o parcial será materia de reserva de derechos. Esta reserva implica el uso exclusivo del título o cabeza durante el tiempo de la publicación o difusión y un año más, a partir de la fecha en que se hizo la última publicación.
 
-Ni la enajenación de la obra, ni la facultad de editarla, reproducirla, representarla, ejecutarla, exhibirla, usarla o explotarla, dan derecho a alterar su título, forma o contenido, salvo convenio en contrario.
+La publicación o difusión deberá iniciarse dentro de un año a partir de la fecha del certificado de reserva.
 
-Toda persona que lleve a cabo la reproducción, representación, exhibición, ejecución o difusión por cualquier medio de una obra, está obligada a hacerlo sin menoscabo de la reputación del autor como tal y, en su caso, de la del traductor, compilador, adaptador o autor de cualquiera otra versión.
-
-La enajenación de dibujos, grabados, pinturas, esculturas, y otras obras de arte análogas, no da derecho a su reproducción, salvo convenio en contrario.
-
-La cesión del derecho de autor de las obras musicales y dramáticas no incluye los derechos de ejecución o representación, salvo pacto en contrario.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 25.
 
-La protección del derecho de autor se confiere por la simple creación de la obra, sin que sea necesario depósito o registro previos para su tutela, salvo el caso exceptuado en el artículo siguiente.
+Son materia de reserva el uso y explotación exclusivos de los personajes ficticios o simbólicos en obras literarias, historietas gráficas o en cualquier publicación periódica, cuando los mismos tengan una señalada originalidad y sean utilizados habitual o periódicamente. Lo son también los personajes humanos de caracterización empleados en actuaciones artísticas.
+
+Esta protección se adquiere mediante el correspondiente certificado de reserva de derechos, y durara cinco años que empezarán a contar desde la fecha del certificado, pudiendo prorrogarse por períodos sucesivos, iguales, previa comprobación de que el interesado está usando o explotando habitualmente esos derechos, ante la Dirección General del Derecho de Autor.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 26.
 
-Cuando el autor de una obra no sea nacional de un Estado con el que México tenga celebrado tratado o convención vigente sobre derecho de autor, o la obra no haya sido publicada por primera vez en un Estado en que por ese hecho goce de protección conforme a un convenio internacional vigente para México y hayan transcurrido 7 años de la fecha de su primera publicación, deberá registrarse en la Dirección del Derecho de Autor, para su protección; en su defecto, cualquier persona podrá editarla en la lengua original en que fue publicada, inclusive el castellano, cumpliendo los requisitos establecidos por el artículo 31 fracciones I, VI, VIII y IX y cubriendo la compensación económica que prevé y regula el artículo 32.
+Los editores de obras intelectuales o artísticas, los de periódicos o revistas, los productores de películas o publicaciones semejantes, podrán obtener la reserva de derecho al uso exclusivo de las características gráficas originales que sean distintivas de la obra o colección en su caso.
 
-En cualquier tiempo, dentro del de duración del derecho de autor, en que se registre la obra ésta quedará protegida en los términos de esta Ley, sin perjuicio de las ediciones ya autorizadas por la Secretaría de Educación Pública en los términos del párrafo anterior de este artículo.
+Igualmente se podrá obtener esa reserva al uso exclusivo de las características de promociones publicitarias, cuando presenten señalada originalidad. Se exceptúa el caso de anuncios comerciales.
+
+Dicha protección durará dos años a partir de la fecha del certificado, pudiendo renovarse por un plazo igual si se comprueba el uso habitual de los derechos reservados.
+
+Las características originales deben usarse tal, como han sido registradas. Toda modificación de sus elementos constitutivos será motivo de nuevo registro.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 27.
 
-Los extranjeros domiciliados en la República Mexicana gozarán, respecto de sus obras, de los mismos derechos que los autores nacionales.
+Las obras protegidas por esta ley que se publiquen, deberán ostentar la expresión "Derechos Reservados", o su abreviatura "D. R.", seguida del símbolo "C"; el nombre completo y dirección del titular del derecho de autor y el año de la primera publicación. Estas menciones deberán aparecer en sitio visible. En el caso de los fonogramos (sic) se estará a lo dispuesto en el artículo 92. La omisión de estos requisitos no implica la pérdida de los derechos de autor, pero sujeta al editor responsable, a las sanciones establecidas por esta Ley.
 
-ARTCULO 28.- Las obras de los nacionales de un Estado con el que México tenga celebrado tratado o convención vigente sobre el derecho de autor, gozarán de la protección prevista en estos instrumentos.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 28.
+
+Cuando el autor de una obra sea nacional de un Estado con el que México no tenga Tratado o Convención, o cuando la obra haya sido publicada por primera vez en un país que se encuentre en esas mismas condiciones respecto de México, el derecho de autor será protegido únicamente durante siete años a partir de la fecha de la primera publicación de la obra, siempre que exista reciprocidad. Transcurrido ese plazo, si no se registra en la Dirección del Derecho de Autor, cualquier persona podrá editarla previo permiso de la Secretaría de Educación Pública de acuerdo con esta Ley.
+
+Si después de transcurridos los siete años a que se refiere el párrafo anterior, el autor registra su obra de acuerdo con esta Ley, gozará de toda su protección, excepto en lo relativo a las ediciones autorizadas por la Secretaría de Educación Pública, con antelación al registro.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 29.
 
-Las sociedades mercantiles o civiles, los institutos, las academias y, en general, las personas morales solamente pueden ser titulares de los derechos de autor como causahabiente de las personas físicas de los autores, salvo los casos en que esta Ley dispone expresamente otra cosa.
+Los extranjeros que se encuentren permanente, temporal o transitoriamente en la República Mexicana, gozarán respecto de sus obras, de los mismos derechos que los autores nacionales.
 
-Las obras publicadas por primera vez por las Naciones Unidas, por los institutos ligados a ellas o por la Organización de Estados Americanos gozarán de la protección de esta Ley.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 30.
 
-La Secretaría de Educación Pública concederá a cualquier nacional, o extranjero, domiciliado en la República Mexicana, que se lo solicite, una licencia no exclusiva, para traducir y publicar en castellano las obras escritas en idioma extranjero, si a la expiración de un plazo de 7 años a contar de la primera publicación de la obra, no ha sido publicada su traducción al castellano por el titular del derecho de traducción, o con su autorización.
+Las obras de los nacionales de un Estado con el que México tenga celebrado Tratado o Convención vigente sobre el derecho de autor, gozarán de la protección prevista en esta Ley, en lo que no sea incompatible con dichos instrumentos.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 31.
 
-Para el otorgamiento de la licencia prevista en el artículo anterior, el solicitante deberá satisfacer los siguientes requisitos:
+Las sociedades mercantiles o civiles, los institutos y academias y, en general, las personas morales, solamente pueden representar los derechos de autor como causahabientes de las personas físicas de los autores, salvo los casos en que esta Ley dispone expresamente otra cosa.
 
-I.- Formular solicitud con apego a las disposiciones de esta Ley y su Reglamento.
+Las obras publicadas por primera vez por cualquiera (sic) Organización de Naciones en las que México sea parte, gozarán de la protección de esta Ley.
 
-II.- Comprobar que la obra se encuentra comprendida en las disposiciones del artículo 30.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
-III.- Comprobar que ha pedido al titular del derecho la autorización para hacer y publicar la traducción, y que después de haber hecho las diligencias pertinentes no pudo localizarlo u obtener su autorización.
+### CAPITULO II. Del derecho y de la licencia del traductor
 
-IV.- En caso de que no hubiera localizado al titular del derecho de traducción, también deberá comprobar que transmitió copias de la petición al editor, cuyo nombre aparezca en los ejemplares de la obra y al representante diplomático y consular del Estado, del cual sea nacional el titular del derecho de traducción, cuando la nacionalidad de éste sea conocida. En este caso no podrá concederse la licencia antes de la expiración de un plazo de dos meses desde la fecha del envío de la copia.
-
-V.- Encomendar la traducción de la obra a persona competente a juicio de una comisión especial que será integrada por un representante de la Secretaría de Educación Pública, uno de la Universidad Nacional de México y uno de la organización representativa del mayor interés profesional de los editores. Esta comisión se organizará y funcionará de acuerdo con lo que establezca el reglamento de esta Ley.
-
-VI.- Manifestar el número de ejemplares que serán publicados y el precio de venta al público de cada ejemplar a la rústica.
-
-VII.- Depositar en la institución nacional de crédito señalada para recibir los depósitos que tengan que hacerse ante las autoridades administrativas, a disposición de la Secretaría de Educación Pública, para ser entregada al autor, una cantidad igual a la tercera parte del 10% del valor de venta al público de cada ejemplar a la rústica de los que se vayan a publicar, de acuerdo con la declaración a que se refiere la fracción VI y otorgar fianza por el 67% restante, el que deberá entregarse en el término de dos años a partir de la fecha de la solicitud.
-
-VIII.- Cumplir con las disposiciones de los artículos 54, 55, 56, 57 y 58.
-
-IX.- Cubrir los derechos que legalmente causen la tramitación y concesión de la licencia.
-
-### CAPITULO II. Del derecho y de la licencia de traducción
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 32.
 
-Si el titular del derecho no es nacional de un Estado con el que México tenga celebrado tratado o convención vigente sobre derechos de autor, o la obra no ha sido publicada por primera vez en un Estado en el que por ese hecho goce de protección conforme a un convenio internacional vigente para México, y ella no ha sido registrada en los términos del artículo 26, el solicitante de la licencia deberá cumplir con lo que dispone el artículo anterior, quedando exceptuado de llenar los requisitos que exigen las fracciones III y IV de dicho artículo. El depósito a que se refiere la fracción VII será calculado sobre el 5% del valor de venta al público de cada ejemplar a la rústica de los que se vayan a publicar.
+El traductor de una obra que acredite haber obtenido la autorización del autor, gozará con respecto a la obra de que se trate, de la protección que la presente Ley le otorga, y por lo tanto, dicha traducción no podrá ser reproducida, modificada, publicada o alterada, sin consentimiento del traductor.
+
+Cuando una traducción se realice en tales términos que presente escasas o pequeñas diferencias con otra traducción anterior, se considerará como simple reproducción, y no gozará de la protección de la Ley, a menos de que se trate de una obra de nueva creación, a juicio de la Secretaría de Educación Pública. En todo caso, quedará a salvo el derecho de impugnación que corresponda al autor de la primera traducción.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 33.
 
-Sujetándose a las disposiciones de los dos artículos anteriores la Secretaría de Educación Pública puede conceder licencia para hacer y publicar en la República Mexicana traducciones de las obras a que se refiere el artículo 30 cuando estén agotadas las ediciones de traducción ya publicadas en castellano.
+La Secretaría de Educación Pública concederá a cualquier nacional o extranjero que se encuentre permanente, temporal o transitoriamente en la República Mexicana, una licencia no exclusiva para traducir y publicar en español las obras escritas en idioma extranjero, si a la expiracion de un plazo de siete años, a contar de la primera publicación de la obra, no ha sido publicada su traducción por el titular del derecho de traducción o con su autorización.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 34.
 
-Para el solo efecto de los artículos 30, 31, 32 y 33 de esta Ley, se entenderá por publicación, la reproducción de las obras en forma tangible, a la vez que el poner a disposición del público ejemplares de la obra que permitan leerla o conocerla visualmente.
+Para el otorgamiento de la licencia prevista en le (sic) artículo anterior, se deberán satisfacer los siguientes requisitos:
+
+I.- Formular solicitud con apego a las disposiciones de esta Ley y su reglamento;
+
+II.- Comprobar que la obra se encuentra comprendida en las disposiciones de los artículos anteriores;
+
+III.- Comprobar que ha pedido al titular del derecho su autorización para hacer y publicar la traducción y que no pudo obtenerla;
+
+IV.- En caso de que no hubiese obtenido la conformidad del titular del derecho de traducción, también deberá comprobar que transmitió copias de la petición al editor cuyo nombre aparezca en los ejemplares de la obra y al representante diplomático o consular del país del cual sea nacional el titular del derecho de traducción, cuando la nacionalidad de éste sea conocida. En tal caso, no podrá concederse la licencia antes de la expiración de un plazo de dos meses desde la fecha del envío de las copias;
+
+V.- Cumplir con las disposiciones de los artículos 55, 56 y 57 y
+
+VI.- Cubrir los derechos que legalmente causen la tramitación y concesión de la licencia.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 35.
 
-Las licencias que concede la Secretaría de Educación Pública de acuerdo con los artículos anteriores, son intransferibles y toda cesión de ellas, además de ser nula de pleno derecho, será causa de que se revoque la licencia de oficio.
+El editor que se proponga publicar la traducción de una obra, para obtener la licencia respectiva, además de los requisitos señalados en el artículo anterior, deberá satisfacer los siguientes:
+
+I.- Que la traducción se encargue a persona competente, a juicio de una comisión especial integrada por un representante de la Secretaría de Educación Pública, uno de la Universidad Nacional Autónoma de México, o de institución especializada en idiomas, y uno de la Organización representativa del mayor interés profesional de los editores. Esta Comisión se organizará y funcionará de acuerdo con lo que establezca el Reglamento de la presente ley;
+
+II.- Manifestar el número de ejemplares que serán publicados y el precio de venta al público por ejemplar;
+
+III.- Depositar en la Institución Nacional de Crédito autorizada, a disposición de la Secretaría de Educación Pública, para ser entregada al autor, una cantidad igual a la tercera parte del diez por ciento del valor de venta al público de cada ejemplar a la rústica de los que se vayan a publicar, de acuerdo con la declaración a que se refiere la fracción anterior, y otorgar fianza de que entregará las dos terceras partes restantes, en el término de dos años a partir de la fecha de la solicitud, y
+
+IV.- Cumplir con las disposiciones de los artículos 53 y 54.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 36.
 
-La Secretaría de Educación Pública negará la solicitud de licencia cuando tenga conocimiento de que el autor ha retirado de la circulación los ejemplares de la obra que se pretenda traducir o editar.
+Para los editores y traductores rigen las disposiciones contenidas en el artículo 28.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 37.
 
-Hay contrato de edición cuando el titular del derecho de autor sobre una obra literaria, científica, didáctica o artística, se obliga a entregarla a un editor, y éste a su vez, se obliga a reproducirla y a distribuir y vender los ejemplare por su propia cuenta, y a cubrir el importe del derecho de autor convenido.
+En los casos de los tres artículos anteriores, la Secretaría de Educación Pública puede conceder licencias para hacer y publicar en la República Mexicana traducciones de las obras a que se refiere el artículo 33, cuando estén agotadas las ediciones de traducción ya publicadas en español.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 38.
 
-El titular del derecho de autor lo conserva siempre en este contrato y el editor no tendrá más derechos que aquéllos que, dentro de los límites del contrato, sean necesarios para su cumplimiento durante el tiempo que la ejecución del contrato lo exija.
+Las licencias que conceda la Secretaría de Educación Pública de acuerdo con los artículos anteriores, son intransferibles. La cesión de dichas licencias será nula y se revocarán de oficio cuando se intente cederlas.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 39.
 
-Si el titular del derecho de autor ha celebrado con anterioridad contrato de edición sobre la misma obra, o si ésta ha sido publicada con su autorización o conocimiento, dicho titular deberá dar a conocer esas circunstancias al editor antes de la celebración del contrato. De no hacerlo así, responderá de los daños y perjuicios que ocasione.
+La Secretaría de Educación Pública negará la licencia cuando tenga conocimiento de que el autor ha retirado de la circulación los ejemplares de la obra que se pretenda traducir o editar.
 
-En todo caso, el titular del derecho de autor se obliga a responder de la legitimidad de su derecho.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ### CAPITULO III. Del contrato de edición o reproducción
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 40.
 
-Sin el consentimiento del titular del derecho de autor, el editor no podrá publicar la obra con abreviaturas, adiciones, supresiones o cualesquiera otras modificaciones.
+Hay contrato de edición cuando el autor de una obra intelectual o artística, o su causahabiente, se obliga a etregarla (sic) a un editor, y éste se obliga a reproducirla, distribuirla y venderla por su propia cuenta, cubriendo las prestaciones convenidas.
+
+Las partes podrán pactar libremente el contenido del contrato de edición, salvo los derechos irrenunciables establecidos por esta ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 41.
 
-El autor conservará el derecho de hacer a su obra las correcciones, enmiendas, adiciones o mejoras que estime convenientes antes de que la obra entre en prensa.
+El contrato de edición de una obra no implica la enajenación de los derechos patrimoniales del titular de la misma. El editor no tendrá más derechos que aquellos que, dentro de los límites del contrato, sean conducentes a su mejor cumplimiento durante el tiempo que su ejecución lo requiera.
 
-Sin embargo, cuando las modificaciones hagan más onerosas las obligaciones del editor, el autor estará obligado a resarcirlo de los gastos que por este motivo se originen.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 42.
 
-Quedan prohibidas las estipulaciones en que los autores comprometen su producción futura salvo el caso de que lo hagan sobre obra u obras determinadas
+Si el autor o su causahabiente han celebrado con anterioridad contrato de edición sobre la misma obra, o si ésta ha sido publicada con su autorización o conocimiento, deberán dar a conocer esas circunstancias al editor antes de la celebración del contrato. De no hacerlo así, responderán de los daños y perjuicios que ocasionen.
 
-Por lo que se refiere a obras musicales con o sin letra, los autores podrán comprometer su producción futura siempre y cuando los contratos respectivos se celebren por un plazo no mayor de dos años, y quede en beneficio del autor cuando menos, el 50% del producto neto de los derechos de ejecución que se recaude. El autor sin obligación ninguna de su parte, recobrará la totalidad del derecho de autor sobre la obra producida, y no publicada por el cesionario durante la vigencia del contrato.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 43.
 
-Cuando no se especifique en el contrato el número de ediciones que se harán de la obra, se entenderá que el editor solamente puede hacer una. Cuando no se especifique el número de ejemplares de que constará cada edición, el editor estará facultado para hacer los que estime convenientes, pero no puede hacer un nuevo tiraje u otra edición sin la autorización del autor y deberá comunicarle, por escrito, el número total de ejemplares tirados, en cada caso.
+El editor no podrá publicar la obra con abreviaturas, adiciones, supresiones o cualesquiera otras modificaciones, sin consentimiento escrito del autor.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 44.
 
-Salvo pacto en contrario el editor no puede hacer una nueva edición o un nuevo tiraje sin ponerlo previamente en conocimiento del autor con la anticipación necesaria para que éste pueda conceder o negar su autorización y corregir, suprimir o aumentar al texto y, en general, hacer a la obra las modificaciones que estime convenientes.
+El autor conservará el derecho de hacer a su obra las correcciones, enmiendas, adiciones o mejoras que estime convenientes antes de que la obra entre en prensa.
+
+Cuando las modificaciones hagan más onerosa la edición, le (sic) autor estará obligado a resarcir los gastos que por ese motivo se originen, salvo convenio en contrario.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 45.
 
-El editor está obligado a hacer la propaganda usual para la venta de la obra, salvo que se haya convenido lo contrario en el contrato.
+El contrato de edición se sujetará a las siguientes normas:
+
+I.- El contrato deberá señalar la cantidad de ejemplares de que conste la edición y cada uno de éstos será numerado;
+
+II.- Los gastos de edición, distribución, promoción, publicidad, propaganda o de cualquier otro concepto, serán por cuenta del editor;
+
+III.- Cada edición deberá ser objeto de convenio expreso. El editor que hubiese hecho la edición anterior tendrá derecho preferente, en igualdad de condiciones, a contratar la siguiente, para cuyo efecto el autor o su causahabiente deberán aprobar los términos de las ofertas recibidas, a fin de dejar garantizados los derechos del editor preferente. La Dirección del Derecho de Autor notificará al editor para que ejerza su derecho de preferencia en un plazo de quince días, apercibido de que de no hacerlo se entenderá renunciado su derecho;
+
+IV.- La producción intelectual futura sólo podrá ser objeto de contrato cuando se trate de obra u obras determinadas, cuyas características deben quedar perfectamente establecidas en el contrato, y
+
+V.- Los contratos de edición de obra producida u obra futura determinada, deberán registrarse en la Dirección Geenral (sic) del Derecho de Autor.
+
+El editor está obligado a la inscripción, sin perjuicio de que, en su caso, lo haga el titular del derecho de autor.
+
+Antes de la inscripción, el editor está obligado a enviar un tanto del contrato a la Sociedad de Autores correspondiente.
+
+Los derechos consagrados en este artículo en favor del autor son irrenunciables.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 46.
 
-Cuando en el contrato de edición no se haya estipulado el término dentro del cual la edición deba quedar concluída y los ejemplares puestos a la venta, se entenderá que ese término es de un año, transcurrido el cual sin que el editor haya hecho la edición, el titular de los derechos de autor podrá dar por rescindido el contrato mediante simple aviso por escrito, quedando a su favor las cantidades que hubiere recibido del editor, en virtud del contrato; o exigir el cumplimiento del contrato; y en ambos casos, el pago de daños y perjuicios.
+Cuando en el contrato de edición no se haya estipulado el término dentro del cual deba quedar concluida la edición y ser puestos a la venta los ejemplares, se entenderá que este término es de un año. Una vez transcurrido el año sin que el editor haya hecho la edición, el autor podrá optar entre exigir el cumplimiento del contrato o darlo por terminado mediante aviso escrito al editor, pero en uno y otro casos, éste resarcirá a aquél de los daños y perjuicios causados, los que en ningún modo serán menores de las cantidades recibidas por el autor en virtud del contrato.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 47.
 
-El término a que se refiere el artículo anterior se reducirá a la mitad cuando se trate de la edición de obras musicales de género popular.
+El término a que se refiere el artículo anterior, se reducirá a la mitad cuando se trate de la edición de obras musciales (sic) de género popular.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 48.
 
-Las reglas establecidas en los dos artículos que anteceden, se aplicarán en los casos en que el editor esté autorizado para hacer más de una edición de la obra de acuerdo con el contrato y, habiéndose agotado los ejemplares de una edición, no haga otra nuevo en el término de un año, o de seis meses, respectivamente.
+Cuando no se establezca en el contrato la calidad de la edición, el editor cumplirá haciéndola de calidad media.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 49.
 
-Cuando no se establezca en el contrato cuál debe ser la calidad de la edición o ediciones, el editor cumple haciéndolas de calidad media.
+Si no existe convenio respecto al precio que los ejemplares deben tener para su venta, ya sea al público o (sic) las librerías, el editor estará facultado para fijarlo, sin que exista tal desproporción entre la calidad de la edición y el precio, que dificulte la venta de la obra.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 50.
 
-Si no existe convenio respecto al precio que los ejemplares deben tener para su venta, ya sea al público o a las librerías, el editor estará facultado para fijarlo, pero sin que en ningún caso exista tal desproporción entre la calidad de la edición y el precio, que por este motivo se dificulte la venta de la obra.
+Si el contrato de edición tuviese plazo fijo para su terminación, y al expirar éste, el editor conservare ejemplares no vendidos de la obra, el titular del derecho de autor podrá comprarlos a precio de costo, más el diez por ciento. El término para ejercitar este derecho será de un mes, contado a partir de la expiración del plazo, transcurrido el cual el editor podrá continuar vendiéndolos en las mismas condiciones.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+ARTICULO ARTICULO (SIC) 51.- El contrato de edición terminará, cualquiera que sea el plazo estipulado para su duración, si la edición objeto del mismo se agotare, sin perjuicio de las acciones derivadas del propio contrato. Se entenderá agotada una edición, cuando el editor carezca de los ejemplares de la misma para atender la demanda del público.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 51.
 
@@ -347,649 +507,1005 @@ Si en el contrato de edición se hubiere fijado plazo para su terminación y al 
 
 ###### ARTICULO 52.
 
-El contrato de edición terminará cualquiera que sea el plazo estipulado para su duración, si la edición o ediciones objeto de él se agotaren; sin perjuicio de las acciones derivadas del propio contrato. Se entenderá agotada una edición, cuando el editor carezca de los ejemplares de la misma para atender la demanda del público.
+El derecho de editar separadamente una o varias obras del mismo autor no confiere al editor el derecho paraeditarlas (sic) en conjunto. El derecho de editar en conjunto las obras de un autor no confiere al editor la facultad de editarlas separadamente.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 53.
 
-El derecho de editar separadamente una o varias obras del mismo autor no faculta al editor para hacer una edición del conjunto de sus obras. El derecho de editar en conjunto las obras de un autor no confiere la facultad de editarlas separadamente.
+Los editores están obligados a hacer constar en forma y lugar visibles de las obras que publiquen, los siguientes datos;
+
+I.- Nombre o razón social y dirección del editor;
+
+II.- Año de la edición;
+
+III.- Número ordinal que corresponde a la edición, a partir de la segunda, y
+
+IV.- Número del ejemplar en su serie.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 54.
 
-Los editores están obligados a hacer constar en forma y en lugar fácilmente visibles de las obras que publiquen los siguientes datos:
+Los impresores están obligados a hacer constar en forma y lugar visible de las obras que impriman, lo siguiente:
 
-I.- Nombre o razón social y dirección de la persona física o moral que haga la edición;
+I.- Su nombre o razón social y su dirección;
 
-II.- Fecha de la edición;
-
-III.- Número ordinal de la edición.
-
-###### ARTICULO 55.
-
-Los impresores están obligados a hacer constar en forma y en lugar fácilmente visibles de las obras que impriman:
-
-I.- El nombre o razón social y dirección del impresor;
-
-II.- El número de ejemplares impresos;
+II.- El número de ejemplares impresos, y
 
 III.- La fecha en que se terminó la impresión.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 55.
+
+En toda tradución (sic) deben figurar, debajo del título de la obra, su título en el idioma original.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 56.
 
-Quien publique una traducción al castellano, deberá poner debajo del título que corresponda a la obra en la traducción, el título de ella en el idioma original.
+Toda persona física o moral que publique una obra está obligada a mencionar el nombre del autor o seudónimo en su caso. Si la obra fuere anónima se hará constar. Cuando se trate de traduciones, (sic) compilaciones, adaptaciones y otras versiones, además del nombre del autor de la obra original o su seudónimo, se hará constar el nombre del traductor, compilador, adaptador o autor de la versión.
+
+Queda prohibida la supresión o sustitución del nombre del autor.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 57.
 
-Toda persona física o moral que publique una obra está obligada a mencionar en los ejemplares de ella el nombre del autor, salvo que se trate de obras anónimas o escritas bajo seudónimo, pero en este último caso debe mencionarse el seudónimo, pero en este último caso debe mencionarse el seudónimo. Cuando se trate de traducciones, compilaciones, adaptaciones u otras versiones, además del nombre del autor de la obra primigenia o su seudónimo, se hará constar el nombre del traductor, compilador, adaptador o autor de la versión.
+Quienes publiquen obras comprendidas (sic) adaptadas o modificadas en alguna otra forma, deberán mencionar esta circunstancia y su finalidad.
 
-La protección que este artículo otorga cesará cuando los interesados hubieren consentido la supresión de su nombre.
-
-Queda prohibida la sustitución de nombre en toda clase de obras, aun cuando hayan consentido en ella el autor, el traductor, el compilador o el adaptador o el autor de la versión, según el caso.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 58.
 
-Quienes publiquen obras compendiadas, adaptadas o modificadas en alguna otra forma, deberán mencionar esta circunstancia y su finalidad, además de cumplir con las obligaciones que imponen los cuatro artículos anteriores.
+Salvo reserva expresa en contrario, las sociedades acaderias, (sic) institutos, colegios de profesionistas y asociaciones en materia científica, didáctica, literaria, filosófica, o artistica, se presumen autorizados para publicar las obras que en ellos se den a conocer dentro de sus fines o conforme a su organización interna, debiendo en todo caso mencionar el nombre del autor.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 59.
 
-Salvo reserva expresa en contrario, las Sociedades, Academias, Institutos, Colegios de Profesionistas y Asociaciones en materia científica, didáctica, literaria o artística, se presumen autorizados para publicar las obras que en ellos se den a conocer dentro de sus fines o conforme a su organización interna.
+Las personas físicas o morales que produzcan una obra con la participación o colaboración especial y remunerada de una o varias personas, gozarán, respecto de ellas, del derecho de autor, pero deberán mencionar el nombre de sus colaboradores.
+
+Cuando la colaboración sea gratuita, el derecho de autor sobre la obra corresponderá a todos los colaboradores, por partes iguales. Cada colaborador conservará su derecho de autor sobre su propio trabajo, cuando sea posible determinar la parte que le corresponda, y podrá reproducirla separadamente indicando la obra o colección de donde proceda, pero no podrá utilizar el título de la obra.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 60.
 
-Quien haga una obra con la participación o colaboración especial y remunerada de uno o varios autores, goza respecto de ella del derecho de autor, pero deberá mencionar el nombre de todos los colaboradores.
+El contrato de reproducción de cualquier clase de obras intelectuales o artísticas, para lo cual se empleen medios distintos al de la imprenta, se regirá por las normas de este capítulo en todo aquello que no se oponga a la naturaleza del medio de reproducción de que se trate.
 
-Cuando la colaboración sea gratuita, el derecho de autor sobre la obra corresponderá a todos los colaboradores, por partes iguales. Cada colaborador conservará su derecho de autor sobre su propio trabajo, cuando sea posible determinar la parte que le corresponde y podrá reproducirla separadamente indicando la obra o colección de donde procede, pero no podrá utilizar el título de la obra.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 61.
 
-La reproducción mediante contrato, de cualquiera clase de obras por medios distintos al de la imprenta, se regirá por las normas de este capítulo en todo aquello que no se oponga a la naturaleza del medio de reproducción de que se trate.
+La posesión de un modelo o matriz de escultura, da a quien lo tiene, la presunción del derecho de reproducir la obra, mientras no se pruebe lo contrario.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ### CAPITULO IV. De la limitación del derecho de autor
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 62.
 
-La posesión de un modelo o matriz de escultura da a quien lo tiene, la presunción del derecho de reproducir la obra, mientras no se pruebe lo contrario.
+Es de utilidad pública la publicación de las obras literarias, científicas, filosóficas, didácticas y en general de toda obra intelectual o artística, necesaria o convenientes (sic) para el adelanto, difusión o mejoramiento de la ciencia de la cultura o de la educación nacionales. El Ejecutivo Federal podrá de oficio o a solicitud de parte declarar la limitación del derecho de autor, para el efecto de permitir que se haga la publicación de las obras a que se refiere el párrafo anterior, en cualquiera de los casos siguientes:
+
+I.- Cuando no haya ejemplares de ellas en la capital de la República y en tres de las principales ciudades del país, durante un año, y la obra no se encuentre en proceso de impresión o encuadernación, y
+
+II - Cuando se vendan, a un precio tal que impida o restrinja su utilización general, en detrimento de la cultura o la enseñanza. En todo caso, se estará a lo dispuesto en la fracción V del artículo siguiente.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 63.
 
-En el caso de que las estaciones radiodifusoras o de televisión, por razones técnicas o de horario y para el efecto de una sola emisión posterior, tengan que grabar o fijar la imagen y el sonido, en sus estudios, de selecciones musicales o partes de ellas, trabajos, conferencias o estudios científicos, obras literarias, dramáticas, coreográficas, dramático-musicales, programas completos y, en general, cualquiera obra apta para ser difundida por medio de ellas, lo harán siempre que sea sin emisión concomitante y para los efectos de una emisión posterior, hecha por la misma estación, en un plazo no mayor de veinticuatro horas. Esta grabación o fijación de la imagen y el sonido no obligará a ningún pago adicional, al que corresponde por el uso de las obras.
+En el caso del artículo anterior, la Secretaría de Educación Pública tramitará un expediente que se integrará con los siguientes elementos:
 
-La grabación o la fijación de la imagen y el sonido a que se alude deberá ser destruída o neutralizada inmediatamente después de la emisión.
+I.- Dictamen oficial respecto a que la obra es conveniente para el adelanto, difusión o mejoramiento de la cultura nacional;
 
-Las disposiciones de este artículo no se aplicarán en caso de que los autores y ejecutantes tengan celebrado convenio remunerado que autorice las emiciones (sic) posteriores.
+II.- Constancia indubitable de que la obra de que se trata no ha estodo (sic) a la venta, desde un año atrás en las principales librerías de la capital y en tres de las principales ciudades del país;
+
+III.- Constancia de haberse publicado en el "Diario Oficial" de la Federación, y en el Boletín del Derecho de Autor, los datos principales de la solicitud de limitación del derecho o de la resolución de la Secretaría declarándola de oficio, así como de habérsele notificado al titular del derecho de autor, concediéndole un plazo de veinte días, si reside en la República, o de treinta si en el extranjero, para que exponga lo que a sus intereses convenga, y aporte las pruebas de su intención;
+
+IV.- Certificado de Depósito de Institución Nacional de Crédito autorizada, equivalente al diez por ciento del valor de venta al público de la edición total, a favor de la Secretaría de Educación Pública y a disposición del autor;
+
+V.- Constancia del resultado del concurso a que se deberá convocar en requerimiento del precio más bajo y mejores condiciones para la edición, cuando la limitación del derecho se declare de oficio, o cuando tenga por causa la fracción II del artículo anterior.
+
+Si el concurso resultare desierto, la Secretaría podrá editar la obra, constituyendo el depósito a que se refiere la fracción IV anterior a favor del titular del derecho de autor, y
+
+VI.- Declaratoria de limitación del derecho de autor. Cuando se trate de obras que por su naturaleza no admitan ser publicadas por medio de la imprenta, se normará el procedimiento conforme a lo establecido en el presente capítulo en lo que sea aplicable, de tal manera que previa audiencia, queden garantizados los derechos del autor y los intereses de la colectividad.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 64.
 
-Salvo pacto en contrario, las obras dramáticas, musicales, dramático-musicales, coreográficas, pantomímicas y, en general, las obras aptas para ser ejecutadas, escenificadas o representadas, deberán de llevarse a la escena o ejecutarse dentro de los seis meses siguientes a la fecha del contrato celebrado para ello; en caso contrario, el titular del derecho de autor está facultado para darlo por terminado mediante simple aviso por escrito, quedando a su favor las cantidades que hubiere recibido en virtud del contrato.
+Si fuere a distribuirse gratuitamente la edición, el precio del ejemplar, para los efectos de la fracción IV del artículo anterior, será igual al precio de costo de la edición.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 65.
 
-La autorización para difundir una obra protegida por medio de la televisión, de la radiodifusión o de cualquier otro medio semejante no comprende el de redifundirla ni explotarla públicamente, salvo pacto en contrario.
+Cuando la causa de la limitación del derecho de autor sea la prevista en la fracción II del artículo 62, se comprobará el precio de venta al público del ejemplar en las principales librerías del ramo, en la capital y en tres de las principales ciudades del país.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 66.
 
-La autorización para grabar discos no incluye la facultad de emplearlos o explotarlos públicamente. Las empresas grabadoras de discos deberán mencionarlo así en las etiquetas adheridas a ellos.
+En los casos a que se refiere el artículo anterior, el contrato de edición se otorgará al concursante que ofrezca mejores condiciones de precio al público.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 67.
 
-Cuando en un contrato sobre utilización sobre derechos de autor se fije una regalía por unidad de ejemplares, las empresas productoras deberán llevar sistemas de registro que permitan comprobar en cualquier tiempo las liquidaciones correspondientes.
+El procedimiento de limitación de derecho de autor cesará si el editor demuestra tener en prensa una edición de dicha obra, o ejemplares suficientes disponibles a precios accesibles.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 68.
 
-Los ejecutantes, cantantes, declamadores, y, en general, todos los intérpretes de obras difundidas mediante el radio, la televisión, el cinematógrafo, el disco fonográfico o cualquier otro medio apto a la reprodución (sic) sonora o visual, tendrán derecho a recibir una retribución económica por la explotación de esas interpretaciones.
+Una vez que quede firme la declaratoria de limitación del derecho de autor, y nunca antes de que la obra sea puesta a la venta, el titular del derecho podrá retirar el depósito constituido a su favor.
 
-A falta de convenio expreso, esta remuneración será regulada por las tarifas que expida la Secretaría de Educación Pública.
-
-Cuando en la interpretación intervengan varias personas, la remuneración se distribuirá de acuerdo con lo que ellas convengan; en su defecto, por lo que disponga el Reglamento de esta Ley.
-
-Sin perjuicio del derecho de autor, cualquier obra que se presente al público en un teatro o centro de espectáculo, puede ser difundida por radio o televisión con el solo consentimiento del empresario del espectáculo.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 69.
 
-La explotación de obras que estén en el dominio público, cubrirá un 2% de su ingreso total, el que se entregará a la Sociedad General Mexicana de Autores para que, bajo el control de la Secretaría de Educación Pública, se destine a satisfacer los fines a que se refiere la fracción V del artículo 84 de esta Ley. Este artículo será reglamentado para su aplicación por el Ejecutivo Federal, quien tomará en cuenta la naturaleza de las diversas actividades objeto de la explotación de obras que estén en el dominio público; la circunstancia de que se exploten en unión de obras protegidas, y los lugares del país donde se efectúe esa explotación. Queda facultado el Ejecutivo Federal para determinar los casos de exención de pago, a fin de fomentar actividades encaminadas a la difusión de la cultura general.
+La Secretaría de Educación Pública tomará las medidas necesarias para que la edición se limite al número de ejemplares autorizados y para que, en cada ejemplar, se haga constar que la edición está autorizada por la propia Secretaría; que el monto del derecho de autor fue depositado a disposición de su titular; el número de ejemplares de la edición y el precio autorizado de venta al público de cada ejemplar.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 70.
 
-Es de utilidad pública la publicación de las obras literaria, científicas, didácticas o artísticas necesarias o convenientes para el adelanto, difusión o mejoramiento de la ciencia, de la cultura o de la educación nacionales.
+Toda edición deberá ser reproducción fiel de la obra, en su idioma original, o una traducción al español que no haya sido objetada por el titular del derecho.
 
-El Ejecutivo Federal podrá, de oficio o a solicitud de parte, declarar la limitación del derecho de autor para el efecto de permitir que se haga la publicación de las obras a que se refiere el párrafo anterior, en los casos siguientes:
-
-I.- Cuando no haya ejemplares de ellas en la capital de la República y en tres de las principales ciudades del país, durante un año;
-
-II.- Cuando se vendan a un precio tal que impida o restrinja considerablemente su utilización general, en detrimento de la cultura o la enseñanza.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 71.
 
-En el caso del artículo anterior, la Secretaría de Educación Pública tramitará un expediente que se integrará con los siguientes elementos:
+La declaratoria de limitación del derecho de autor se publicará en el "Diario Oficial" de la Federación y en el Boletín del Derecho de Autor.
 
-I.- Dictamen oficial respecto a que la obra es de texto o conveniente al adelanto, difusión o mejoramiento de la cultura nacional;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
-II.- Certificación por dos corredores públicos titulados, de que la obra de que se trata no ha estado a la venta, desde un año antes, en las principales librerías que la hayan vendido en la capital de la República y en tres de las principales ciudades del país;
+### CAPITULO V. De los derechos provenientes de la utilización y ejecución públicas
 
-III.- Constancia de haberse publicado en el "Diario Oficial" o en el Boletín del Derecho de Autor los datos principales de la solicitud de limitación del derecho o de la resolución de la Secretaría declarándola de oficio, así como de habérsele comunicado al titular del derecho de autor para que exponga, en un plazo de veinte días, si reside en la República y de treinta si en el extranjero, lo que a sus intereses convenga;
-
-IV.- Certificado de depósito de institución nacional de crédito autorizada para recibir depósitos a disposición de autoridad administrativa, a favor de la Secretaría de Educación Pública, para ser entregado al titular del derecho de autor, por una cantidad igual al diez por ciento del precio de venta al público de cada ejemplar, multiplicado por el número de ejemplares de la edición;
-
-V.- Cuando la limitación del derecho se declare de oficio, o cuando tenga por causa la fracción II del artículo anterior, constancia del resultado del concurso a que se deberá convocar en solicitud del precio más bajo y de las mejores condiciones para la edición.
-
-Si el concurso resultare desierto, la Secretaría podrá editar la obra, constituyendo el depósito a que se refiere la fracción anterior, a favor del titular del derecho de autor;
-
-VI.- Declaratoria de limitación del derecho de autor.
-
-### CAPITULO V. De las sociedades de autores
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 72.
 
-Si fuere a distribuirse gratuitamente la edición, el precio del ejemplar, para los efectos de la fracción IV del artículo anterior, será igual a su precio de costo.
+El derecho de publicar una obra por cualquier medio no comprende, por sí mismo, el de su explotación en representaciones o ejecuciones públicas.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 73.
 
-Cuando la causa de la limitación del derecho sea la prevista en la fracción II del artículo 70, la certificación de los corredores públicos titulados hará constar el precio de venta al público del ejemplar en las principales librerías del ramo, en la capital de la República y en tres de las principales ciudades del país.
+La autorización para difundir una obra protegida, por televisión, radiodifusión o cualquier otro medio semejante, no comprende el de redifundirla ni explotarla públicamente, salvo pacto en contrario.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 74.
 
-En los casos a que se refiere la fracción V del artículo 71, los concursantes deberán comprometerse a vender al público los ejemplares de la obra que vaya a editarse, cuando más en el sesenta por ciento del precio causa de la limitación del derecho y siempre que las ediciones sean de calidad equiparable.
+En el caso de que las estaciones radiodifusoras o de televisión, por razones técnicas o de horario y para el efecto de una sola emisión posterior, tengan que grabar o fijar la imagen y el sonido anticipadamente en sus estudios, de selecciones musicales o partes de ellas, trabajos, conferencias o estudios científicos, obras literarias, dramáticas, coreográficas, dramático-musicales; programas completos y, en general, cualquier obra apta para ser difundida, podrán llevar al cabo dicha grabación sujetándose a las siguientes condiciones:
+
+a).- La transmisión deberá efectuarse dentro del plazo que al efecto se convenga.
+
+b).- No debe realizarse con motivo de la grabación, ninguna emisión o difusión concomitante o simultánea.
+
+c).- La grabación sólo dará derecho a una sola emisión. La grabación o fijación de la imagen y el sonido realizada en las condiciones que antes se mencionan, no obligará a ningún pago adicional distinto del que corresponde por el uso de las obras.
+
+Las disposiciones de este artículo no se aplicarán en caso de que los autores, intérpretes o ejecutantes tengan celebrado convenio remunerado que autorice las emisiones posteriores.
+
+Los "anuncios comerciales" grabados para su reproducción al (sic) través de la radio, la televisión o los noticieros cinematográficos, podrán ser reproducidos hasta por un período de seis meses después de la fecha de su grabación; pasado este término, la reproducción deberá retribuirse por cada periodo adicional con una cantidad proporcional a la contratada originalmente, a quienes corresponda por haber participado en las mencionadas grabaciones, y en su caso, a los autores cuando no existiere cesión de sus derechos.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 75.
 
-El procedimiento de limitación de derecho de autor cesará si algún editor demuestra tener en prensa una edición de dicha obra, o ejemplares suficientes disponibles. En el caso de la fracción II del artículo 70, el editor deberá, además, obligarse a que el precio de los ejemplares al público esté de acuerdo con lo previsto en el artículo anterior.
+Cuando al hacerse una transmisión por radio o televisión vaya a grabarse simultáneamente deberá contarse con el consentimiento previo de los autores, intérpretes y ejecutantes que intervengan en la misma, a efecto de poder ser reproducida con posterioridad con fines lucrativos.
+
+Para los efectos de esta ley, se entiende que hay fines de lucro cuando quien utiliza una obra pretende obtener un aprovechamiento económico directa o indirectamente de la utilización.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 76.
 
-Una vez que quede firme la declaratoria de limitación del derecho de autor y nunca antes de que la obra sea puesta a la venta, el titular del derecho podrá retirar el depósito constituido a su favor.
+Salvo pacto en contrario, las obras dramáticas, musicales, dramático-musicales, coreográficas, pantomímicas y, en general, las obras aptas para ser ejecutadas, escenificadas o representadas, deberán llevarse a la escena y ejecutarse, reproducirse o promoverse, dentro de los seis meses siguientes a la techa del contrato celebrado; en caso contrario, el titular del derecho de autor está facultado para darlo por terminado, mediante aviso por escrito, quedando a su favor las cantidades que hubiese recibido en virtud del contrato.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 77.
 
-La Secretaría de Educación Pública tomará las medidas necesarias para que la edición se limite al número de ejemplares autorizados y para que, en cada ejemplar, se haga constar que la edición está autorizada por la Secretaría de Educación Pública; que el monto del derecho de autor fué depositado a disposición del titular; el número de ejemplares de la edición y el precio autorizado de venta al público de cada ejemplar.
+La autorización para grabar discos o fonogramas no incluye la facultad de usarlos con fines de lucro. Las empresas grabadoras de discos o fonogramas deberán mencionarlo así en las etiquetas adheridas a ellos.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 78.
 
-Toda edición deberá ser una reproducción fiel de la obra, en su idioma original o una traducción al castellano que no haya sido objetada por el titular del derecho.
+Cuando en un contrato sobre utilización de derechos de autor se fije una regalía por unidad de ejemplares, las empresas productoras y las importadoras, en su caso, deberán llevar sistemas de registro que permitan realizar, en cualquier tiempo, las liquidaciones correspondientes.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 79.
 
-La declaratoria de limitación del derecho de autor se publicará en el "Diario Oficial de la Federación o en el Boletín del Derecho de Autor.
+Les derechos por el uso o explotación de obras protegidas por esta ley, se causarán cuando se realicen ejecuciones, representaciones o proyecciones con fines de lucho (sic) obtenido directa o indirectamente. Estos derechos se establecerán en los convenios que celebren los autores o sociedades de autores con los usufructuarios, a falta de convenio, se regularán por las tarifas que expida la Secretaría de Educación Pública, la que al fijarlas procurará ajustar los intereses de unos y otros, integrando las comisiones mixtas convenientes.
+
+En el caso de la cinematografía, serán determinados por las tarifas que expida la Secretaría de Educación Pública y los usufructuarios los cubrirán por intermedio de los distribuidores.
+
+Las disposiciones de este artículo son aplicables en lo conducente a los derechos de los intérpretes y ejecutantes.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 80.
 
-La Sociedad General Mexicana de Autores y las sociedades de autores de las diversas ramas que se constituyan de acuerdo con esta ley y para los fines que ella señala, son autónomas, de interés público y con personalidad jurídica distinta de la de sus socios.
+Los fonogramas o discos utilizados en ejecución pública con fines de lucro directo o indirecto mediante sinfonolas o aparatos similares, causaran derechos a favor de los autores, intérpretes o ejecutantes.
+
+El monto de estos derechos se regirá por las tarifas que fije la Secretaría de Educación Pública oyendo a los interesados sin perjuicio de que las sociedades de autores, intérpretes o ejecutantes, o sus miembros, o individualmente cada autor, intérprete o ejecutante, celebren convenios con las empresas productoras o importadoras que mejoren las percepciones establecidas por las tarifas y que en todo caso serán autorizadas por la Dirección General de Derechos de Autor.
+
+Los derechos a que se refiere este precepto se recaudarán en el momento en que se realice la venta de primera mano de los fonogramas o discos, y las liquidaciones se efectuarán por las casas grabadoras a los titulares de los derechos respectivos o a sus representantes debidamente acreditados, en los términos establecidos en las propias tarifas o en el Reglamento de esta Ley.
+
+En cualquier caso, la edición o importación de los discos o fonogramas destinados a la ejecución pública, se ajustará a los siguientes requisitos:
+
+I.- Se fijará el número de discos de cada edición o importación;
+
+II.- Se imprimirá la etiqueta, sello o calcomanía que los distinga y que consigne pagado en el precio del disco o fonograma el importe de los derechos a que se refiere la presente disposición; y
+
+III.- La impresión en forma y color destacados en el disco o fonograma de la sigiuente (sic) leyenda: "PAGADA LA EJECUCION PUBLICA EN MEXICO".
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 81.
 
-Las denominaciones "Sociedad General Mexicana de Autores" y la de "Sociedad" seguido del término que indique la rama de autores asociados, sólo pueden ser usadas por las personas morales regidas por esta ley, previa su inscripción en el Registro del Derecho de Autor.
+Del ingreso total que produzca la explotación de obras del dominio público, se entregará un dos por ciento a la Secretaría de Educación Pública, para los fines a que se refiere la fracción III del artículo 118 de esta ley.
+
+Queda facultada la Secretaría de Educación Pública para determinar los casos de exención, a fin de fomentar actividades encaminadas a la difusión de la cultura general.
+
+La ejecución con fines de lucro de discos o fonogramas del dominio público, se regirá por lo dispuesto en el artículo 80.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 82.
 
-Los miembros de las Sociedades de Autores serán los mexicanos y los extranjeros domiciliados en la República Mexicana, que sean autores de obras científicas, didácticas, literarias o artísticas y las personas titulares del derecho de autor por causa de herencia o de donación entre parientes dentro del cuarto grado.
+Es intérprete quien, actuando personalmente, exterioriza en forma individual las manifestaciones intelectuales o artísticas necesarias para representar una obra.
 
-Las Sociedades de Autores de las diversas ramas deberán constituir la Sociedad General Mexicana de Autores.
+Se entiende por ejecutantes a los conjuntos orquestales o corales cuya actuación constituya una unidad definida, tenga valor artístico por sí misma y no se trate, de simple acompañamiento.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 83.
 
-Los fines de la Sociedad General Mexicana de Autores y de las diversas Sociedades de Autores, son:
+Para los efectos legales, se considerará interpretación, no sólo el recitado y el trabajo representativo o una ejecución de una obra literaria o artística, sino también toda actividad de naturaleza similar a las anteriores, aun cuando no exista un texto previo que norme su desarrollo.
 
-I.- Unir a sus miembros para el fomento de su producción intelectual y para el mejoramiento de la cultura nacional;
-
-II.- Difundir las obras de su (sic) asociados;
-
-III.- Procurar para sus socios los mejores beneficios en el orden económico.
-
-Las Sociedades de Autores a que se refiere este articulo serán ajenas a toda actividad de carácter político o religioso.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 84.
 
-La Sociedad General Mexicana de Autores se regirá por lo que dispongan sus estatutos y tendrá las siguientes atribuciones:
+Los intérpretes y los ejecutantes que participen en cualquier actuación, tendrán derecho a recibir la retribución económica por la explotación de sus interpretaciones, de acuerdo con los artículos 79 y 80. Cuando en la ejecución intervengan varias personas, la remuneración se distribuirá entre ellas, según convengan. A falta de convención, las percepciones se distribuirán en proporción a las que se hubiesen obtenido al realizar la ejecución.
 
-I.- Procurar la mayor protección del derecho de autor dentro de los términos de la legislación nacional y de los convenios o tratados internacionales;
-
-II.- Representar, en materia de derechos de autor, frente a los usuarios de las obras, a las sociedades extranjeras de autores o a los socios de ellas, ya sea en virtud de mandato o de pacto de reciprocidad;
-
-III.- Representar en materia de derechos de autor a las sociedades mexicanas de autores, cuando su representación le fuere encomendada;
-
-IV.- Intervenir, como amigable componedora o como árbitro, cuando las partes le den alguno de estos dos caracteres en los conflictos que se susciten:
-
-a).- Entre las Sociedades de Autores entre sí;
-
-b).- Entre las Sociedades de Autores y sus miembros;
-
-c) .- Entre las Sociedades de Autores o sus miembros y las sociedades extranjeras de autores o los miembros de éstas;
-
-d).- Entre las Sociedades de Autores o sus miembros y los usuarios de las obras;
-
-e).- Entre autores;
-
-V.- Fomentar y patrocinar las instituciones que beneficien a los autores, tales como de seguro, cooperativas, mutualistas y otras similares;
-
-VI.- Aprobar los pactos, convenios o contratos que celebren las sociedades mexicanas de autores con las sociedades de autores extranjeros o con sus miembros.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 85.
 
-La administración de la Sociedad General Mexicana de Autores estará a cargo de un Consejo de Administración formado por un Presidente, un Secretario y un Tesorero y por un representante de cada una de las Sociedades de Autores miembros de ella. El Presidente, el Secretario y el Tesorero, en ningún caso podrán ser reelectos, ni desempeñar ningún cargo en la Directiva inmediata posterior.
+Los intérpretes y los ejecutantes tendrán la facultad exclusiva de disponer, a cualquier título, total o parcialmente, de sus derechos patrimoniales derivados de las actuaciones en que intervengan.
 
-Sólo los representantes de las diversas Sociedades de Autores tendrán derecho a voto. Disfrutarán de un voto por cada sociedad representada y los acuerdos se tomarán par mayoría absoluta. En caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 86.
 
-No podrán desempeñar el puesto de Presidente, Secretario o Tesorero de la Sociedad General Mexicana de Autores, quienes ocupen algún puesto de dirección o administración en las diversas Sociedades de Autores.
+Será necesaria la autorización expresa de los intérpretes o los ejecutantes para llevar a cabo la reemisión, la fijación para radiodifusión y la reproducción de dicha fijación.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 87.
 
-Los representantes de las Sociedades de Autores en el seno de la Sociedad General Mexicana de Autores, serán designados por la Asamblea General de la Sociedad respectiva.
+Los intérpretes y los ejecutantes tendrán la facultad de oponerse a:
+
+I.- La fijación sobre una base material, la radiodifusión y cualquiera otra forma de comunicación al público, de sus actuaciones y ejecuciones directas;
+
+II.- La fijación sobre una base material de sus actuaciones y ejecuciones directamente radiodifundidas o televisadas, y
+
+III.- La reproducción, cuando se aparte de los fines por ellos autorizados.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 88.
 
-Las diversas Sociedades de Autores sólo tendrán las siguientes atribuciones:
+El derecho de oposición se ejercerá ante la autoridad judicial:
 
-I.- Representar a sus socios ante las autoridades judiciales y administrativas, mientras no puedan apersonarse directamente o en los casos de interés general para ellas;
+I.- Por cualquiera de los intérpretes, cuando varios participen en una misma ejecución, y
 
-II.- Recaudar y distribuir los derechos de ejecución, representación o exhibición, en su caso;
+II.- Por los intérpretes individualmente y los ejecutantes en forma colectiva, previo acuerdo de la mayoría, cuando intervengan en una ejecución unas y otros.
 
-III.- Celebrar convenios en representación de sus socios con los usuarios o asociaciones de usuarios en materias de interés general para los autores de su rama;
+La oposición a la utilización secundaria de una ejecución dará acción a reclamar la indemnización correspondiente al abuso del derecho, en los términos del artículo 1912 del Código Civil del Distrito y Territorios Federales.
 
-IV.- Celebrar pactos sobre base de reciprocidad, con las sociedades extranjeras de autores de su rama;
-
-V.- Contratar en representación de sus socios y sólo en materia de derechos de autor, en los términos de los mandatos que éstos les confieran;
-
-VI.- Las demás que les confieren esta ley y su Reglamento.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 89.
 
-Los estatutos de las diversas Sociedades de Autores contendrán, en todo caso, las disposiciones siguientes:
+Los intérpretes o ejecutantes, podrán solicitar de la autoridad judicial competente las providencias expresas en los artículos 384 y 385 del Código Federal de Procedimientos Civiles, para impedir las fijaciones o reproducciones a que se refiere el artículo 87 de esta Ley.
 
-I.- Admitirán como socios a todos los mexicanos o extranjeros domiciliados en la República Mexicana que, teniendo la calidad de autores en su rama, soliciten su ingreso a la sociedad. El ingreso a las sociedades será gratuito;
+En lo conducente, serán aplicables las disposiciones de los artículos 388, 398 y demás relativos del mismo ordenamiento, sin que tenga que acreditarse la necesidad de la medida.
 
-II.- La Asamblea integrada, cuando menos, por el cincuenta por ciento de socios, será el órgano supremo de la sociedad, la cual estará administrada por un Consejo Directivo que tendrá las facultades que le confieran los estatutos y las que le otorgue la Asamblea de Socios. Los miembros del Consejo Directivo en ningún caso podrán ser reelectos, ni desempeñar ningún cargo en el Consejo Directivo inmediato posterior;
-
-III.- En las elecciones del Consejo Directivo, la minoría que represente por lo menos el 20 por ciento de los socios, tendrán derecho a nombrar un Consejero;
-
-IV.- Los socios podrán oponerse judicialmente a las resoluciones de la Asamblea, cuando sean contrarias a esta ley o a los estatutos;
-
-V.- Los socios gozarán de votos suplementarios en los asuntos de orden económico general, en proporción con las percepciones que por concepto del Derecho de Autor hayan obtenido por conducto de la sociedad, en el último ejercicio social.
-
-Los estatutos fijarán la cantidad que dé derecho a un voto suplementario, la que no será inferior a tres mil pesos ni superior a diez mil pesos, percibida en el ejercicio social inmediato anterior;
-
-VI.- Las Sociedades de Autores deberán contribuir, en proporción a sus ingresos, al sostenimiento de la Sociedad General Mexicana de Autores;
-
-VII.- Estarán obligadas a proporcionar a la Sociedad General Mexicana de Autores, todas las informaciones que ésta solicite;
-
-VIII.- Sólo podrán percibir los ingresos provenientes del Derecho de Autor, en su propia rama, correspondientes a sus socios y a los autores residentes en México. También los provenientes de autores extranjeros cuya representación les haya sido conferida.
-
-IX.- Estarán obligadas a someter a la aprobación de la Sociedad General Mexicana de Autores, los pactos, convenios y contratos que celebren con otras sociedades o asociaciones extranjeras, sin cuyo requisito no tendrán validez;
-
-X.- Las Sociedades de Autores no podrán, en ningún caso, expulsar a sus socios. Los estatutos determinarán los casos de suspensión de derechos sociales. Para la imposición de la suspensión de derechos sociales se requiere la conformidad del 75% de los socios asistentes a la sesión en que se tome el acuerdo. La suspensión no podrá ser mayor de dos años, y no implicará la privación o retención de derechos económicos;
-
-XI.- Fijar en cada caso la garantía que deben otorgar los administradores.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 90.
 
-Las Sociedades de Autores, por medio de su órgano de vigilancia, rendirán semestralmente a la Sociedad General Mexicana de Autores y a la Dirección del Derecho de Autor, informe sobre:
+La duración de la protección concedida a intérpretes y ejecutantes, será de veinte años contados a partir:
 
-a).- Las cantidades recibidas del extranjero por concepto de derechos de autor de obras de autores mexicanos;
+a).- De la fecha de la fijación de fonogramas o discos.
 
-b) .- Las cantidades enviadas al extranjero en pago del Derecho de Autor por obras extranjeras;
+b).- De la fecha de ejecución de obras no grabadas en fonogramas.
 
-c).- Las cantidades que se encuentren en poder de la Sociedad pendientes de ser entregadas a los autores mexicanos, o enviadas para ser entregadas a los autores extranjeros.
+c).- De la fecha de la transmisión por televisión o radiodifusión.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 91.
 
-Las personas que formen parte del Consejo Directivo de cualquiera de las sociedades de autores, no podrán formar parte del consejo directivo de ninguna otra sociedad de autores, asociación de usuarios o agrupación relacionada con esta materia.
+Quedan exceptuados de las anteriores disposiciones los siguientes casos:
+
+I.- La utilización sin fines de lucro en los términos establecidos por el artículo 75;
+
+II.- La utilización de breves fragmentos en informaciones sobre sucesos de actualidad; y
+
+III.- La fijación realizada en los términos del párrafo relativo al inciso "c" del artículo 74.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 92.
 
-Los autores podrán pertenecer a diversas sociedades de autores, si lo son de obras pertenecientes a diversas ramas.
+Los fonogramas de las ejecuciones protegidas, deberán ostentar el símbolo (P) acompañado de la indicación del año en que se haya realizado la primera publicación.
 
-### CAPITULO VI. Del registro del derecho de autor
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+### CAPITULO VI. De las sociedades de autores
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 93.
 
-Las diversas Sociedades de Autores formarán sus presupuestos de gastos, anualmente, pero su monto no excederá del 25% de las cantidades recaudadas de sus miembros y del 30% de las cantidades que perciban por utilización de obras de autores extranjeros o que no sean miembros de las sociedades. Son nulos los acuerdos de asamblea que autoricen la disposición de fondos repartibles de cualquier índole, para fines diversos de su distribución entre los legítimos derechohabientes. Los administradores serán responsables solidariamente para con la sociedad por la infracción a esta disposición.
+Las sociedades de autores de las diversas ramas que se constituyan de acuerdo con esta Ley, serán de interés público, tendrán personalidad jurídica y patrimonios propios, y las finalidades que la misma establece.
+
+El reglamento determinará las distintas ramas en que puedan organizarse sociedades de autores; el número mínimo de socios con que puedan formarse; los casos en que pueden (sic) constituirse por autores de ramas similares, y la forma; condiciones de su registro, y demás requisitos para su funcionamiento conforme a las disposiciones de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 94.
 
-El presupuesto de la Sociedad General Mexicana de Autores, será aprobado por los representantes de las diversas sociedades de autores miembros de ella constituidos en asamblea de socios; en la misma forma se elegirán y renovarán el Presidente, Secretario y Tesorero y se aprobarán o rechazarán las cuentas del ejercicio anual anterior.
+Solamente podrán ostentarse como sociedades de autores, y ejercer las atribuciones que esta Ley señala, las constituidas y registradas conforme a las disposiciones de la misma.
 
-El proyecto de presupuesto y las cuentas del ejercicio serán dados a conocer con treinta días de anticipación a las sociedades de autores miembros, las cuales podrán presentar sus observaciones por conducto de sus representantes en el seno del Consejo de Administración.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 95.
 
-Los derechos de ejecución, representación, exhibición, proyección y, en general, por el uso o explotación de obras protegidas por esta ley, se regularán por los convenios celebrados por los autores o sociedades de autores con los usuarios o con las asociaciones de usuarios o con los distribuidores, en el caso de la cinematografía, y, en su defecto, por las tarifas que expida la Secretaría de Educación Pública de conformidad con los precedentes que existan y con la equidad, procurando ajustar los intereses de los autores y de los usuarios; a cuyo efecto la Secretaría de Educación Pública integrará comisiones mixtas de autores, usuarios y representantes de ella para su estudio. La resolución definitiva será dictada Por el titular de la Secretaría de Educación Pública.
+Las sociedades de autores estarán constituidas exclusivamente por mexicanos o extranjeros domiciliados en la República Mexicana.
 
-Estos derechos se causarán cuando las ejecuciones, representaciones, exhibiciones, proyecciones, uso o explotación de las obras sean publicos o con fines de lucro. Se considerarán publicas aun cuando sean gratuitas las que se lleven a cabo fuera del círculo de una familia, de una fiesta o acto de carácter familiar, escolar, da beneficencia, religioso o cívico.
+Podrán formar parte de ellas los causahabientes físicos del derecho patrimonal (sic) de autor, siempre y cuando las obras, respecto de las cuales tengan derechos, se estén usando y explotando en los términos de la presente Ley.
 
-Las disposiciones de este artículo son aplicables en lo conducente a los derechos de los ejecutantes o intérpretes.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 96.
 
-Los convenios celebrados entre las Sociedades de Autores y los usuarios o asociaciones de usuarios, sólo obligan a los autores si son socios de la sociedad contratante o han dado a ésta poder que sea bastante para obligarlos en los términos de tales convenios. Si los convenios van más allá de las facultades que esta ley confiere a las sociedades o de los poderes otorgados a ellas por los autores, no obligarán a éstos en todo lo que se excedan de dichas facultades o poderes, a menos que los ratifiquen.
+Los autores podrán pertenecer a varias sociedades de autores, según la diversidad de sus obras.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 97.
 
-Toda persona física o moral que con fines de lucro o de publicidad utilice habitual o accidentalmente obras protegidas por esta ley, deberá enviar a la sociedad o sociedades de autores correspondientes y a la Sociedad General Mexicana de Autores, una lista mensual que contenga el nombre del autor y el número de ejecuciones, representaciones o exhibiciones de sus obras ocurridas en el mes.
+Las sociedades de autores tendrán las siguientes finalidades:
+
+I.- Fomentar la producción intelectual de sus socios y el mejoramiento de la cultura nacional;
+
+II.- Difundir las obras de sus socios, y
+
+III.- Procurar los mejores beneficios económicos y de seguridad social para sus socios.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 98.
 
-La vigilancia de la Sociedad General Mexicana de Autores y de las Sociedades de Autores, estará cargo de la institución fiduciaria que respectivamente designen dentro de los treinta días siguientes a su constitución, y en caso de que por cualquier circunstancia cese en sus funciones la institución fiduciaria, se procederá a la nueva designación dentro del término señalado. En el caso de que las Sociedades de Autores no hagan tal designación en el plazo señalado, la elección será hecha por la Sociedad General Mexicana de Autores, y, en su defecto, por la Dirección del Derecho de Autor, dependiente de la Secretaría de Educación Pública. Dicha Dirección hará la designación del órgano de vigilancia de la Sociedad General Mexicana de Autores en el caso de que ella no lo haga.
+Son atribuciones de las sociedades de autores:
+
+I.- Representar a sus socios ante las autoridades judiciales y administrativas en todos los asuntos de interés general para los mismos. Ante las autoridades judiciales, los socios podrán coadyuvar personalmente con los representantes de su sociedad, en las gestiones que éstos lleven a cabo y que les afecten.
+
+II.- Recaudar y entregar a sus socios, así como a los autores extranjeros de su rama, las percepciones pecuniarias provenientes de los derechos de autor que les correspondan. Para el ejercicio de esta atribución se requiere que los socios, individualmente, otorguen mandato a la sociedad y, en el caso de autores extranjeros, que la asociación a que pertenezcan otorgue la autorización correspondiente, o que el autor extranjero, directamente, otorgue mandato a la sociedad;
+
+III.- Contratar o convenir, en representación de sus socios, respecto de los asuntos de interés general;
+
+IV.- Celebrar convenios con las sociedades extranjeras de autores de al (sic) misma rama, o su correspondiente, con base en la reciprocidad;
+
+V.- Representar en el país a las sociedades extranjeras de autores o a sus socios, sea por virtud de mandato específico o de pacto de reciprocidad;
+
+VI.- Velar por la salvaguarda de la tradición intelectual y artística nacional, que corresponda a todas y cada una de las ramas protegidas en el artículo 7o., y
+
+VII.- Las demás que esta Ley y los reglamentos les otorguen.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 99.
 
-La institución fiduciaria a que se refiere el artículo anterior, tendrá el Carácter de comisario y las siguientes facultades y obligaciones:
+Las sociedades de autores se organizarán y funcionarán conforme a las siguientes normas:
 
-I.- Cerciorarse de la constitución y subsistencia de la garantía que, de acuerdo con los estatutos de la Sociedad, deben prestar los administradores, dando cuenta, sin demora, de cualquier irregularidad a la asamblea general;
+I.- Admitirán como socios a los autores que lo soliciten y que acrediten debidamente su calidad de autores en la rama de la sociedad, o que sus obras se explotan o utilizan en los términos de la presente Ley.
 
-II.- Exigir a los administradores una balanza mensual de comprobación de las operaciones efectuadas;
+Dejarán de formar parte de una sociedad las personas que sean titulares de obras fuera de uso o explotación. Los estatutos determinarán la forma y condiciones de su retiro de la sociedad.
 
-III.- Inspeccionar, por lo menos, cada tres meses, los libros y papeles de la Sociedad, así como la existencia en caja;
+Los socios no podrán, en ningún caso, ser expulsados. Los estatutos determinarán los casos de suspensión de derechos sociales. Para acordar la suspenión (sic) de tales derechos se requiere el setenta y cinco por ciento de los votos representados en la sesión en que se tome el acuerdo. La suspensión podrá ser hasta por dos años, y no implicará privación o retención de derechos económicos o percepciones;
 
-IV.- Intervenir en la formación y revisión del balance anual que deberá practicarse durante el mes de enero de cada año;
+II.- La sociedad tendrá los siguientes órganos: La Asamblea General, un Consejo Directivo y un Comité de Vigilancia.
 
-V.- Informar a la asamblea general y a la Dirección del Derecho de Autor de la Secretaría de Educación Pública, respecto al balance anual y a las irregularidades que observe en la administración;
+La Asamblea será el órgano supremo de la sociedad y designará a los miembros del Consejo Directivo y del Comité de Vigilancia; se reunirá conforme a los estatutos y recibirá los informes de administración y vigilancia que aprobará o rechazará.
 
-VI.- Hacer que se inserte en el orden del día de las sesiones del consejo de administración o directivo, según sea el caso, y de las asambleas generales, los puntos que crea pertinentes;
+La convocatoria para la celebración de las Asambleas deberá publicarse por una sola vez en el "Diario Oficial" de la Federación y por dos veces consecutivas en dos de los periódicos de mayor circulación, con anticipación no mayor de quince días a la fecha en que deberán celebrarse.
 
-VII.- Convocar a asambleas generales, ordinarias y extraordinarias
+Para que una asamblea se considere legalmente constituida, contará con la asistencia, por lo menos, del cincuenta por ciento del total de votos, computados conforme a esta Ley.
 
-en caso de omisión de los administradores y en cualquier otro caso en que lo juzgue conveniente;
+Si el día señalado para su reunión la asamblea no pudiere celebrarse por falta de quórum, se expedirá y publicará en la misma forma una segunda convocatoria, con expresión de esta circunstancia, y la asamblea se realizará cualquiera que sea el número de votos representados.
 
-VIII.- Asistir con voz pero sin voto, a todas las sesiones del Consejo de Administración o Directivo, a las cuales deberá ser citada;
+Las resoluciones legalmente adoptadas por la asamblea son obligatorias para todos los socios, aun para los ausentes o disidentes, salvo el derecho individual de impugnación en los términos de esta Ley.
 
-IX.- Asistir con voz pero sin voto, a las asambleas generales;
+Los votos se computarán en proporción a las percepciones que hayan recibido los socios, por conducto de la sociedad, durante el ejercicio social anterior. A este efecto, la asamblea estudiará, en su última reunión, el proyecto de distribución de votos para la siguiente asamblea, al cual deberán ceñirse los escrutadores. La distribución de votos aprobada en una asamblea anterior, podrá ser modificada al principiar la siguiente, si existiere una sensible diferencia en las percepciones de los socios, según los datos correspondientes al último semestre;
 
-X.- Rendir un informe trimestral a la Secretaría de Educación Pública y, en general vigilar ilimitadamente y en cualquier tiempo, las operaciones de la Sociedad.
+III.- En el Consejo Directivo y en el Comité de Vigilancia la minoría que represente por lo menos el 20% de los votos tendrá derecho a designar un miembro.
+
+Los estatutos determinarán el número de miembros del Consejo Directivo y del Comité de Vigilancia, así como sus demás atribuciones.
+
+El Consejo Directivo y el Comité de Vigilancia proporcionarán a la Dirección General del Derecho de Autor los informes que se les soliciten.
+
+IV.- Cuando los ingresos anuales globales de sus socios sean mayores de cien mil pesos, serán manejados al (sic) través de un fideicomiso de administración, sujeto a las siguientes reglas:
+
+a).- El fiduciario deberá recabar los ingresos correspondientes; realizará los pagos y erogaciones fijadas en el presupuesto y entregará las percepciones que correspondan a los socios, con base en la liquidación que formule la sociedad.
+
+b).- El Consejo Directivo, bajo su responsabilidad, celebrará el contrato de fideicomiso en un plazo de treinta días, a partir de la fecha de la constitución o reorganización de la sociedad o de la fecha en que los ingresos hayan alcanzado la suma fijada.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 100.
 
-Cualquier socio podrá denunciar por escrito ante la institución fiduciaria, los hechos que estime irregulares en la administración y aquélla deberá mencionar las denuncias en sus informes a la Secretaría y a la asamblea general y formular acerca de ellas las consideraciones y proposiciones que estime pertinentes.
+Los socios podrán impugnar judicialmente las resoluciones de la asamblea, cuando sean contrarias a esta Ley o a los estatutos, en un término de treinta días a partir de la fecha de la Asamblea.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 101.
 
-La institución fiduciaria será responsable para con la Sociedad que vigile por el cumplimiento de las obligaciones que esta ley y los estatutos le imponen.
+Los pactos, convenios o contratos que celebren las sociedades mexicanas de autores con las sociedades extranjeras sólo surtirán efectos si son inscritos en el Registro del Derecho de Autor.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 102.
 
-Los administradores de la Sociedad General Mexicana de Autores y de las diversas Sociedades de Autores, serán solidariamente responsables con los que les hayan precedido, por las irregularidades en que éstos últimos hubieran incurrido si, conociéndolas, no las denuncian por escrito a la institución fiduciaria que ejerza las funciones de Comisaria y a la Secretaría de Educación Pública.
+Las sociedades de autores rendirán, semestralmente, a la iDrección (sic) del Derecho de Autor, informes sobre:
+
+I.- Las cantidades que sus cocios (sic) reciban por su conducto;
+
+II.- Las cantidades que por su conducto se hubiesen enviado al extranjero en pago de derechos de autor, y
+
+III.- Las cantidades que se encuentren en su poder, pendientes de ser entregadas a los autores mexicanos o de ser enviadas a los autores extranjeros.
+
+En su caso, los informes serán tomados del fideicomiso.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 103.
 
-Cuando la institución fiduciaria deba cesar en el desempeño del cargo de Comisario, continuará en sus funciones mientras no se haga nueva designación.
+Las personas que formen parte del Consejo Directivo o del Comité de Vigilancia de una sociedad de autores, no podrán figurar en órganos similares de otra sociedad de autores o asociación relacionada con esta materia.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 104.
 
-Los administradores removidos por causa de responsabilidad, sólo podrán ser nombrados nuevamente en el caso de que la autoridad judicial declare infundada la acción ejercida en su contra.
+Las sociedades de autores formularán anualmente sus presupuestos de gastos, cuyo monto no excederá del 20% de las cantidades recaudadas por su conducto para sus socios radicados en el país, y del 25% de las cantidades que perciban por la utilización, en el país, de obras de autores del extranjero.
 
-Los administradores cesarán en el desempeño de sus funciones inmediatamente que la asamblea general pronuncie resolución en el sentido de que se les exija la responsabilidad en que hayan incurrido.
+Salvo lo anterior, son nulos los acuerdos que autoricen la disposición de fondos. Los directivos de la sociedad y el fiduciario, en su caso, serán responsables solidariamente por la infracción de esta disposición.
+
+Los directivos de una sociedad de autores que dispongan, para fines de inversión, de cantidades superiores a las señaladas, estarán obligados a reintegrarlas en efectivo, quedando a beneficio de la sociedad la inversión hecha.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 105.
 
-Los estatutos de la Sociedad General Mexicana de Autores y de las diversas sociedades de autores se harán constar en escritura pública y deberán inscribirse en el libro respectivo del registro en la Dirección del Derecho de Autor.
+No prescriben, en favor de las sociedades de autores y en contra de los socios, los derechos o las percepciones cobradas por ellas. En el caso de percepciones o derechos para autores del extranjero se estará al principio de la reciprocidad.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 106.
 
-La Sociedad General Mexicana de Autores y las diversas sociedades de autores, no podrán restringir en ninguna forma la libertad de contratación de sus miembros y socios, respectivamente, ni la de los demás autores.
+Los convenios celebrados por las sociedades de autores sólo obligan a los socios de la sociedad contratante, cuando sean en asuntos de interés general o medio (sic) poder bastante para obligarlos.
 
-Es nulo cualquier acto, acuerdo o convenio por el cual se impida o restrinja en alguna forma la libertad de los autores para dirigir, representar o interpretar sus propias obras.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 107.
 
-Los representantes de las sociedades de autores no tienen el carácter de autoridad ni están facultados para clausurar locales o establecimientos, sellar aparatos musicales de reproducción fonomecánica, suspender o impedir la representación, ejecución o explotación de obras, todo lo cual no puede ser llevado a cabo sino por las autoridades competentes, en los casos en qué las leyes lo autorizan, ya sea a petición de dichas sociedades o de los autores mismos.
+Toda persona física o moral que con fines de lucro o de publicidad utilice, habitual o accidentalmente, obras protegidas por esta Ley, deberá enviar a la sociedad correspondiente una lista mensual que contenga: el nombre de la obra y de su autor, y el número de ejecuciones, representaciones o exibiciones (sic) de la obra, ocurridas en el mes.
+
+Quedan exceptuados de esta obligación quienes utilicen los fonogramas a que se refiere el artículo 80.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 108.
 
-La Sociedad General Mexicana de Autores y las diversas sociedades de autores deberán publicar anualmente, en el Boletín del Derecho de Autor y en uno de los periódicos de mayor circulación, el balance que corresponda al ejercicio social terminado. Esta publicación deberá efectuarse dentro de los quince días siguientes a la terminación del balance correspondiente.
+La vigilancia de las sociedades de autores estará a cargo del Comité de Vigilancia. En el contrato de fideicomiso, en su caso, se dará a dicho Comité la participación que le corresponda.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 109.
 
-La Secretaría de Educación Pública tomará las medidas legales conducentes a corregir las irregularidades que ocurran en la administración de la Sociedad General Mexicana de Autores y de las diversas sociedades de autores y a que se exijan las responsabilidades consiguientes.
+El Comité de Vigilancia tendrá las siguientes facultades y obligaciones:
+
+I.- Inspeccionar, por lo menos cada tres meses, los libros y papeles de la sociedad, así como la existencia en caja;
+
+II.- Cerciorarse de la constitución, subsistencia y correcto desempeño de (sic) fideicomiso de administración a que se refiere esta Ley;
+
+III.- Estudiar el balance anual que deberá practicarse durante el mes de enero de cada año y dictaminar sobre él ante la Asamblea General;
+
+IV.- Informar a la Asamblea General y a la Dirección del Derecho de Autor respecto al balance anual y las irregularidades que observe en la administración de la sociedad;
+
+V.- Convocar a asambleas generales, ordinarias y extraordinarias, en caso de omisión del Consejo Directivo y en los demás que establezcan los estatutos.
+
+VI.- Asistir con voz, pero sin voto, a las sesiones del Consejo Directivo;
+
+VII.- Responder solidariamente con los miembros del Consejo Directivo, por las cantidades erogadas con violación a lo dispuesto en el artículo 104 cuando no se hubiese opuesto a la erogación, y
+
+VIII.- En general, vigilar ilimitadamente y en cualquier tiempo las operaciones de la sociedad.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 110.
 
-Las disposiciones de este Capítulo son aplicables a las sociedades que organicen los intérpretes de las obras a que se refiere el artículo 68, encaminadas a hacer efectivos los derechos que les reconoce esta ley.
+Cualquier socio podrá denunciar por escrito ante el Comité de Vigilancia, los hechos que estime irregulares en la administración de la sociedad, y el (sic) aquél deberá mencionar las denuncias en sus informes a la Secretaría de Educación Pública, y a la Asamblea General y formular, acerca de ellas, las consideraciones y proposiciones que estime pertinentes.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 111.
 
-La Secretaría de Educación Pública tendrá una dependencia denominada Dirección General del Derecho de Autor, encargada de la aplicación de esta ley y de sus reglamentos, en el orden administrativo.
+Los funcionarios de las sociedades de autores serán conjuntamente responsables, civil y penalmente, con los que los hayan precedido, de las irregularidades en que estos últimos hubiesen incurrido si, conociéndolas, no las hubiesen denunciado a la Asamblea General, a la Secretaría de Educación Jública (sic) o a la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 112.
 
-Dicha Dirección tendrá a su cargo el Registro del Derecho de Autor en el cual se inscribirán, en libros separados:
+Los miembros del Consejo Directivo y del Comité de Vigilancia cesarán en el desempeño de sus funciones inmediatamente que la Asamblea General decida que se les exijan responsabilidades.
 
-I.- Las obras objeto del derecho de autor y toda clase de documentos y constancias que en alguna forma confieran, modifiquen, transmitan, graven o extingan ese derecho;
+Los directivos removidos por esa causa sólo podrán ser restituidos o nombrados nuevamente para el cargo, en el caso de que la autoridad judicial declare improcedente o infundada la acción ejercida en su contra.
 
-II.- Las escrituras públicas en que se constituyan, reformen o de cualquier otra manera se modifiquen, la Sociedad General Mexicana de Autores y las diversas sociedades de autores;
-
-III.- Los pactos y convenios que celebren la Sociedad General Mexicana de Autores y las diversas sociedades de autores con las sociedades extranjeras de autores;
-
-IV.- Los poderes otorgados a personas físicas o morales para gestionar ante la Dirección del Derecho de Autor, cuando la representación conferida abarque todos los asuntos del mandante que hayan de tramitarse en la Dirección y no esté limitada a la gestión de un solo asunto o una obra determinada;
-
-V.- Los emblemas o sellos distintivos de las editoriales, así como las razones sociales o nombres y domicilios de las empresas y personas dedicadas a actividades editoriales o de impresión en la República Mexicana.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 113.
 
-La Dirección del Derecho de Autor inscribirá en el registro las traducciones, adaptaciones, compendios, arreglos u otras modificaciones de obras científicas, didácticas, literarias o artísticas, que gocen de protección conforme a esta ley, aun cuando no se compruebe la autorización concedida por el titular del derecho de autor, para el solo efecto de la protección que corresponde a aquellos actos. Esta inscripción no faculta de ninguna manera para publicar en México la obra inscrita, lo cual requiere el consentimiento expreso del titular de la obra primigenia. Así se hará constar, en cada caso, tanto en la inscripción como en las certificaciones, que de ella se expidan.
+Los estatutos de las diversas sociedades de autores se harán constar en escritura pública y deberán inscribirse en el Registro del Derecho de Autor. Se negará el registro cuando los estatutos no se ajusten a las disposiciones de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 114.
 
-Cuando dos o más personas soliciten una misma inscripción, la Dirección del Derecho de Autor inscribirá la que haya sido solicitada primero, sin perjuicio del derecho que corresponda sobre impugnación del registro. Si surge controversia, se suspenderá la tramitación en tanto no se pronuncie resolución firme por la autoridad judicial competente.
+La contratación que los autores formalicen y que de alguna manera modifique, trasmita, grave o extinga los derecho (sic) patrimoniales que les confiere esta ley, surtirá efectos a partir de su inscripción en el Registro del Derecho de Autor.
+
+Es nulo cualquier acto, acuerdo o convenio por el cual se impida o restrinja en alguna forma la libertad de los autores para dirigir, representar o interpretar sus propias obras.
+
+Las sociedades de autores no podrán restringir en ninguna forma la libertad de contratación de sus socios.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 115.
 
-Las inscripciones en el registro establecen una presunción de ser ciertos los actos que en ella consten, salvo prueba en contrario. Las autoridades reconocerán las certificaciones de las constancias de dicho registro y les otorgarán plena eficacia probatoria, mientras no se pruebe lo contrario. Toda inscripción en el registro se hará sin perjuicio de tercero.
+Las sociedades de autores o los autores individualmente podrán solicitar la clausura de locales o establecimientos, el sello de aparatos musicales de reproducción fonomecánica y la suspensión o impedimento de la reproducción, ejecución o explotación de las obras, ante las autoridades competentes y en los casos previstos por la Ley
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 116.
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el registro aparezcan con derecho para ello, no se invalidarán, en perjuicio de un tercero de buena fe, una vez inscritos, aunque después se anule la inscripción preexistente.
+Las sociedades de autores deberán publicar anualmente, en el Boletín del Derecho de Autor y en uno de los periódicos de mayor circulación, el balance que corresponda al ejercicio social terminado, dentro de los quince días siguientes a la fecha en que fue practicado.
 
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos ni a los actos o contratos que se otorguen o ejecuten violando una ley prohibitiva o de interés público.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 117.
 
-Las inscripciones a que se refieren los artículos anteriores, pueden pedirse por todo el que tenga interés legítimo en ellos.
+Las disposiciones de este capítulo son aplicables a las sociedades que organicen los artistas intérpretes o ejecutantes, encaminadas a hacer efectivos los derechos que les reconoce esta Ley.
 
-### CAPITULO VII. De las sanciones
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+### CAPITULO VII. De la Dirección General del Derecho de Autor
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 118.
 
-Salvo pacto en contrario, cada uno de los colaboradores en una obra, podrá solicitar la inscripción de la obra completa.
+La Dirección General del Derecho de Autor de la Secretaría de Educación Pública, tendrá las siguientes atribuciones:
+
+I.- Proteger el derecho de autor dentro de los términos de la legislación nacional de los convenios o tratados internacionales;
+
+II.- Intervenir en los conflictos que se susciten:
+
+a).- Entre autores.
+
+b).- Entre las sociedades de autores.
+
+c).- Entre las sociedades le autores y sus miembros.
+
+d).- Entre las sociedades nacionales de autores o sus miembros y las sociedades extranjeras de autores o los miembros de éstas.
+
+e).- Entre las sociedades de autores o sus miembros y los usufrutuarios (sic) y utilizadores de las obras;
+
+III.- Fomentar las instituciones que beneficien a los autores, tales como cooperativas, mutualistas u otras similares;
+
+IV.- Llevar, vigilar y conservar el registro público del Derecho de Autor, y
+
+V.- Las demás que le señalen las leyes y sus reglamentos.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 119.
 
-Cuando se trate del registro de cualquier acto de transmisión del derecho de autor, la Dirección hará de oficio la inscripción de la obra en favor del autor, en caso de que no esté hecha y, al margen de la inscripción, se anotará el acto traslativo. Para que pueda efectuarse esta inscripción de oficio, el solicitante deberá cumplir con lo que dispone el artículo 124.
+La Dirección General del Derecho de Autor tendrá a su cargo el Registro del Derecho de Autor, en el cual se inscribirán:
+
+I.- Las obras que presenten sus autores para ser protegidas;
+
+II.- Los convenios o contratos que en cualquier forma confieran, modifiquen, transmitan, graven o extingan derechos patrimoniales de autor o por los que se autoricen modificaciones a una obra;
+
+III.- Las escrituras y estatutos de las diversas sociedades de autores y las que los reformen o modifiquen;
+
+IV.- Los pactos o convenios que celebren las sociedades mexicanas de autores con las sociedades extranjeras;
+
+V.- Los poderes otorgados a personas físicas o morales para gestionar ante la Dirección General del Derecho de Autor, cuando la representación conferida abarque todos los asuntos que el mandante haya de tramitar en la Dirección y no esté limitado a la gestión de un solo asunto;
+
+VI.- Los poderes que se otorguen para el cobro de percepciones derivadas de los derechos de autor, intérprete o ejecutante;
+
+VII.- Los emblemas o sellos, distintivos de las editoriales, así como las razones sociales o nombres y domicilios de las empresas y personas dedicadas a actividades editoriales o de impresión.
+
+El Encargado del Registro Público del Derecho de Autor negará el registro de los actos y documentos que en su contenido o en su forma contravengan o sean ajenos a las disposiciones de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 120.
 
-Para registrar el derecho de autor sobre una obra escrita bajo seudónimo, se acompañará a la solicitud respectiva un sobre cerrado dentro del cual, el autor deberá expresar los datos que para su identificación exija el reglamento; en la cubierta se asentarán los datos necesarios para relacionar, el sobre y su contenido con la obra de que se trate.
+Se inscribirán en el registro, para el solo efecto de su protección, los compendios, arreglos, traducciones, adaptaciones u otras modificaciones de obras intelectuales o artísticas, aun cuando no se compruebe la autorización concedida por el titular del derecho de autor.
 
-Para hacer valer los derechos y garantías que otorga el registro, es necesario que previamente la Secretaría de Educación Pública proceda a la apertura del sobre y que el pliego respectivo contenga los datos necesarios para la identificación del autor en relación con la obra.
+Esta inspripción (sic) no faculta para publicar o usar en forma alguna la obra registrada, a menos de que se acredie (sic) la autorización correspondiente. Este hecho se hará constar tanto en la inscripción como en las certificaciones que se expidan.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 121.
 
-El carácter de apoderado para gestionar ante la Dirección del Derecho de Autor, se podrá comprobar por medio de una simple carta poder suscrita ante dos testigos, sin que se requiera legalización alguna, aún cuando el documento haya sido otorgado en el extranjero.
+Cuando dos o más personas soliciten la inscripción de una misma obra, ésta se inscribirá en los términos de la primera solicitud, sin perjuicio del derecho de impugnación del registro. Si surge controversia, los efectos de la inscripción quedarán suspendidos en tanto se pronuncie resolución firme por la autoridad competente.
 
-Cuando se presenten para su inscripción documentos redactados en idioma extranjero, se acompañará también una traducción de ellos al castellano con la constancia de que es correcta, firmada por quien la presente y la cual servirá de base para la inscripción.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 122.
 
-Los documentos procedentes del extranjero exhibidos ante la Dirección del Derecho de Autor para comprobar la calidad del titular del derecho de quien solicite una inscripción, podrán presentarse sin legalización de firmas para el sólo efecto del registro.
+Las inscripciones en el registro establecen la presunción de ser ciertos los hechos y actos que en ellas consten, salvo prueba en contrario. Toda inscripción deja a salvo los derechos de tercero.
 
-Tanto los poderes como los documentos a que se refieren los dos artículos antes mencionados, harán directamente responsables a quien los exhiba, de los daños y perjuicios que ocasione por los vicios o falsedades que contengan.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 123.
 
-Cuando a dos o más personas se les hubieren cedido los mismos derechos, respecto a una obra determinada, prevalecerá la cesión primeramente inscrita, sin perjuicio del derecho sobre impugnación del registro y de la acción penal correspondiente.
+No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas con derecho para ello y que sean inscritos en el Registro, no e (sic) invalidarán en perjuicio de tercero de buena fue, (sic) aunque posteriormente sea anulada dicha inscripción.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 124.
 
-Quien produzca, edite o reproduzca dentro de la República Mexicana, obras científicas, literarias, didácticas o artísticas, por cualquier medio o procedimiento conocido o que en lo sucesivo se conozca, deberán enviar a la Dirección del Derecho de Autor tres ejemplares de la obra producida, editada o reproducida, conteniendo las menciones que ordenan los artículos 54, 55, 56, 57 y 58.
+Salvo pacto en contrario, cada uno de los coautores de una obra podrán solicitar la inscripción de la obra completa.
 
-La presentación de los ejemplares a que se refiere el párrafo anterior, deberá hacerse dentro de los tres meses siguientes a la producción, edición o reproducción.
-
-Uno de los ejemplares será devuelto al interesado con la anotación de haber cumplido con la obligación que impone este artículo.
-
-La Dirección del Derecho de Autor hará constar en libros especiales o en los expedientes respectivos, la entrega del ejemplar anotado.
-
-Para cumplir la obligación prevista en este artículo, podrán entregarse solamente los ejemplares del argumento y de la adaptación técnico-cinematográfica, cuando se trate de películas, y cuando se trate de pinturas, esculturas y obras de carácter análogo, podrán presentarse coplas fotográficas de ellas.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 125.
 
-Para que se de curso a la solicitud de cualquiera inscripción en el registro, en relación con la obra, el interesado deberá cumplir con lo que dispone el artículo anterior, a no ser que se le haya dado cumplimiento al hacerse alguna inscripción anterior. Se negará la inscripción en el registro de toda obra editada o reproducida que carezca de cualquiera de las menciones que ordenan los artículos 54, 55, 56, 57 y 58.
+Cuando se trate de registro de cualquier documento en que conste la transmisión del derecho de autor de una obra no registrada, se hará de oficio la inscripción de la obra, mediante la exhibición de un ejemplar de la misma. Si la obra hubiese sido ya editada, el ejemplar que se presente deberá contener las menciones a que se refieren los artículos 27, 53, 54, 55, 56 y 57. Al margen de la inscripción de la obra se anotará la transmisión del derecho de autor.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 126.
 
-Toda persona, empresa o sociedad dedicada a actividades editoriales o de impresión, deberá registrar en la Dirección del Derecho de Autor, su emblema o sello, el nombre o domicilio del propietario, editor, gerente o administrador responsable de los cambios de estas personas, cada vez que ocurran.
+Para registrar una obra escrita bajo seudónimo, se acompañarán a la solicitud en sobre cerrado los datos de identificación del autor, bajo la responsabilidad del solicitante del registro.
+
+El encargado del Registro abrirá el sobre, con asistencia de testigos, cuando lo pidan el solicitante del registro, el editor de la obra o sus causahabientes, o por resolución judicial. La apertura del sobre tendrá por objeto comprobar la identidad del autor y su relación con la obra. Se levantará acta de la apertura y el Encargado expedirá las certificaciones que correspondan.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 127.
 
-El encargado del registro tiene las siguientes obligaciones:
+La cartas poder, para fines de gestionar ante la Dirección del Derecho de Autor y ante el Registro, otorgadas en el extranjero, no requerirán legalización.
 
-I.- Inscribir las obras y documentos que le sean presentados previstos en el artículo 112, que llenen los requisitos que esta ley exige.
+Cuando se presenten para su inscripción documentos redactados en idiomia (sic) extranjero, se acompañará su traducción al español, bajo la responsabilidad del solicitante.
 
-II.- Permitir que las personas que lo soliciten, se enteren de inscripciones que consten en los libros correspondientes, y de los documentos que obren en el mismo registro, relacionados con éstas.
-
-III.- Expedir a quien lo solicite por escrito copias certificadas o simples de las inscripciones que figuren en los libros del registro y de las constancias de los expedientes relacionados con ellas.
-
-IV.- Expedir, con los requisitos de la fracción que antecede, certificados de no existir asientos o constancias determinados.
-
-V.- Expedir los documentos que fueren necesarios para el pago de los derechos que estuvieren establecidos por los servicios anteriormente mencionados.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 128.
 
-En caso de que surja alguna controversia que sólo afecte intereses particulares, respecto al derecho de autor en obras literarias, didácticas, científicas o artísticas. cualquiera de las partes podrá ocurrir a la Dirección del Derecho de Autor solicitando sus buenos oficios para el arreglo de las dificultades surgidas. En caso de que el otro interesado no admita la mediación o en el de que no se llegue a ningún acuerdo, quedarán expeditos los derechos de ambos para ocurrir a los Tribunales.
+Para el solo efecto de su registro, los ducumentos (sic) procedentes del extranjero que se presenten ante la Dirección del Derecho de Autor para comprobar a (sic) calidad de (sic) titular del derecho del solicitante, no requerirán legalización.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 129.
 
-La Dirección del Derecho de Autor publicará trimestralmente en el Boletín del Derecho de Autor, una lista de las inscripciones efectuadas durante los tres meses anteriores, que contenga los datos necesarios para la identificación de las obras respectivas. Las omisiones en esa lista no afectarán la validez de las inscripciones ni perjudicarán la presunción legal a que se refiere el artículo 115, ni impedirán la deducción ante los Tribunales de las acciones y excepciones a que hubiere lugar.
+Cuando dos o más personas hubiesen adquirido los mismos derechos respecto a una misma obra, prevalecerá la sesión (sic) inscrita en primer término, sin perjuicio del derecho de impugnación del registro.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 130.
 
-Se impondrá multa de 500 a 5,000 pesos y prisión de seis meses a seis años:
+Quien solicite el registro de una obra entregará al Encargado del Registro tres ejemplares de la obra producida, editada o reproducida. Uno de los ejemplares será devuelto al interesado con las anotaciones procedentes. Para el cumplimiento de la obligación prevista en este artículo, cuando se trate de películas, se entregarán solamente los ejemplares del argumento, de la adaptación técnica y fotografías de las principales escenas. Cuando se trate de pinturas, esculturas y obras de carácter análogo, se presentarán copias fotográficas de ellas.
 
-I.- Al que use, explote o aproveche, por cualquiera de los medios señalados en el artículo 1o., en todo o en parte, una obra literaria, didáctica, científica o artística protegida por esta ley, sin autorización del titular del derecho de autor o sin las licencias obligatorias previstas en los artículos 26, 30, 33 y 70;
-
-II.- Al que publique una obra sustituyendo el nombre del autor por otro nombre, a no ser que se trate de seudónimo autorizado por el mismo autor;
-
-III.- Al que publique obras compendiadas, adaptadas o modificadas de alguna otra manera, sin autorización del titular del derecho de autor sobre la obra primigenia;
-
-IV.- Al que publique obras compendiadas, adaptadas o modificadas de alguna otra manera, sin mencionar aquellas circunstancias y su finalidad;
-
-V.- Al que dolosamente emplee en una obra un título que induzca a confusión con otra obra publicada con anterioridad;
-
-VI.- Al que use el título o cabeza de un periódico, revista, noticiero cinematográfico, programa de radio o televisión y, en general, de cualquiera publicación o difusión periódica protegido;
-
-VII.- Al que use las características gráficas originales que sean distintivos de la cabeza de un periódico o revista, de una obra o colección de obras, sin autorización de quien hubiere obtenido la reserva para su uso;
-
-VIII.- Al que especule con libros de texto respecto de los cuales se haya declarado la limitación del derecho de autor, ya sea ocultándolos, acaparándolos o expendiéndolos a precios superiores al autorizado.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 131.
 
-No se aplicará la pena que establece el artículo anterior a quienes sin obtener el consentimiento previo del titular del derecho de autor, representen, ejecuten, exhiban, difundan, usen o exploten obras musicales, dramáticas, dramático-musicales, coreográficas, pantomímicas u otras semejantes, cuando en cualquier estado del proceso consignen, al juez penal, en favor del autor, los derechos por representación, ejecución, exhibición o difusión, de acuerdo, con las tarifas que expida la Secretaría de Educación Pública o, en su defecto, a juicio de peritos.
+Toda personas física o moral dedicada habitual y comercialmente a actividades editoriales o de impresión, tendrá las siguientes obligaciones:
 
-Se entenderá que el titular del derecho de autor ha dado su consentimiento para la ejecución pública de sus obras, cuando el usuario pague previamente el monto de los derechos que fijan las tarifas a que se refiere el artículo 95, a la Sociedad de Autores correspondiente. Esta autorización sólo comprende los casos, periodos de tiempo y demás circunstancias previstas para cada cuota en dichas tarifas.
+a).- Registrar su emblema o sello.
+
+b).- Registrar su nombre y domicilio.
+
+c).- Comunicar los cambios de los datos anteriores.
+
+d).- Informar anualmente a la Dirección de todas las obras que hayan editado o impreso.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 132.
 
-Se impondrán (sic) dos meses a dos años de prisión y multa de 200 a 5,000 pesos, al que a sabiendas comercie con obras publicadas con violación del derecho de autor.
+El Encargado del Registro tiene las siguientes obligaciones:
+
+I.- Inscribir cuando proceda las obras y documentos que le sean presentados;
+
+II.- Permitir que las personas que lo soliciten se enteren de las inscripciones y de los documentos que obran en el Registro;
+
+III.- Expedir las copias certificadas de las constancias que se le soliciten, y
+
+IV.- Epedir (sic) certificados de no existir asientos o constancias determinados.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 133.
 
-Se aplicará multa de 50 a 500 pesos y prisión de dos meses a dos años:
+En caso de que surja alguna controversia sobre derechos protegidos por esta Ley, se observarán las siguientes reglas:
 
-I.- Al que publique antes que el Estado y sin su autorización las obras hechas en el servicio oficial;
+I.- La Dirección General del Derecho de Autor invitará a la partes interesadas a una junta con el objeto de avenirlas, y
 
-II.- Al que publique documentos de los archivos oficiales sin permiso de la autoridad de la que dependen, a no 1er que hayan sido publicados con anterioridad;
+II.- Si en un plazo de treinta días contados desde la fecha de la primera junta no se llegare a ningún acuerdo conciliatorio, la Dirección General del Derecho de Autor exhortará a las partes para que la designen árbitro. El compromiso arbitral se hará constar por escrito y el procedimiento arbitral preferente será el convenio (sic) por las partes.
 
-III.- Al que publique una obra registrada con la limitación que establece el artículo 113.
+El laudo arbitral dictado por la Dirección del Derecho de Autor, tendrá efectos de resolución definitiva y contra él procederá únicamente el amparo. Las resoluciones de trámite o incidentales que el árbitro dicte durante el procedimiento, admitarán (sic) solamente el recurso de revocación ante el mismo árbitro.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 134.
 
-Se aplicará la pena de prisión hasta de un año o multa de 50 a 1,000 pesos o ambas sanciones a juicio del juez, a quienes estando autorizados para publicar una obra, dolosamente lo hicieren:
+La Dirección General del Derecho de Autor publicará un Boletín del Derecho de Autor, donde se incluirá periódicamente una lista de las inscripciones efectuadas. Las omisiones de esa lista no afectarán la validez de las inscripciones, ni perjudicarán la presunción legal a que se refiere el artículo 122, ni impedirán la deducción ante los tribunales de las acciones y excepciones a que hubiere lugar.
 
-I.- Sin mencionar en los ejemplares de ella el nombre del autor, traductor, compilador, adaptador o arreglista, a1n haber obtenido el consentimiento de éstos para hacer la supresión;
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
-II.- Con menoscabo de la reputación del autor como tal y, en su caso, del traductor, compilador, arreglista o adaptador, si estos no hubieren aceptado expresa o tácitamente la manera de hacer las ejecuciones, representaciones, exhibiciones o las adaptaciones, mutilaciones o modificaciones que se hubieren hecho a la obra;
+### CAPITULO VIII. De las sanciones
 
-III.- Con infracción de lo dispuesto en los artículos 40 y 53.
-
-### CAPITULO VIII. De las competencias y procedimientos
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 135.
 
-Se aplicará multa de 50 a 5,000 pesos o prisión de dos meses a un año, a quien de a conocer a cualquiera persona extraña una obra inédita o no publicada que haya recibido del titular del derecho de autor o de alguien en su nombre, sin el consentimiento de dicho titular.
+Se impondrá prisión de treinta días a seis años y multa de $100.00 a $10,000.00 en los casos siguientes:
+
+I.- Al que sin consetimiento (sic) del titular del derecho de autor explote con fines de lucro una obra protegida;
+
+II.- Al editor o grabador que edite o grabe para ser publicada una obra protegida, y al que la explote o utilice con fines de lucro, sin consentimiento del autor o del titular del derecho patrimonial;
+
+III.- Al editor o grabador que produzca mayor número de ejemplares que los autorizados por el autor o sus causababientes; (sic)
+
+IV.- Al que sin las licencias previstas como obligatorias en esta Ley, a falta del consentimiento del titular del derecho de autor, edite, grabe, explote o utilice con fines de lucro una obra protegida;
+
+V.- Al que publique una o (sic) obra substituyendo el nombre del autor por otro nombre, a no ser que se trate de seudónimo autorizado por el mismo autor;
+
+VI.- Al que sin derecho use el título o cabeza de un periódico, revista, noticiero cinematográfico, programas de radio o televisión, y en general de cualquier publicación o difusión periodística protegida;
+
+VII.- Al que especule con libros de texto respecto de los cuales se haya declarado la limitación del derecho de autor, ya sea ocultándolos, acaparándolos o expendiéndolos a precios superires (sic) al autorizado, y
+
+VIII.- Al que especule en cualquier forma con los libros de texto gratuitos que distribuye la Secretaría de Educación Pública en las escuelas de la República Mexicana.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 136.
 
-Se impondrá la pena de prisión de quince días a seis meses o multa de 100 a 1,000 pesos, o ambas sanciones a juicio del juez, al que fuera de los casos autorizados por la ley, publique, exhiba o ponga en el comercio el retrato de una persona.
+Se impondrá de dos meses a tres años de prisión y multa de $50.00 a $5,000.00 en los casos siguientes:
+
+I.- Al que a sabiendas comercie con obras publicadas con violación de los derechos de autor;
+
+II.- Al que publique antes que la Fedaración, (sic) los Estados o los Municipios y sin autorización las obras hechas en el servicio oficial,
+
+III.- Al que publique obras comprendidas, (sic) adaptadas, traducidas o modificadas de alguna otra manera, sin la autorización del titular del derecho de autor sobre la obra original;
+
+IV.- Al que dolosamente emplee en una obra un título que induzca a confusión con otra publicada con anteterioridad, (sic) y
+
+V.- Al que use las características gráficas originales que sean distintivos de la cabeza de un periódico o revista, de una obra, o colección de obras, sin autorización de quien hubiese obtenido la reserva para su uso.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 137.
 
-A los editores o impresores responsables, que dolosamente inserten en las obras una o varias menciones falsas de aquellas a las que se refieren los artículos 23, 54, 55, 56, 57 y 58, se les impondrá prisión de seis meses a tres años y multa de 200 a 2,000 pesos.
+Se aplicará la pena de prisión de treinta días a un año o multa de $50.00 a $5,000.00 o ambas sanciones a juicio del Juez, al que sin consentimiento del intérprete o del titular de sus derechos explote con fines de lucro una interpretación.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 138.
 
-Se aplicará administrativamente por la Secretaría de Educación Pública, multa de 500 a 10,000 pesos:
+Se aplicará la pena de prisión de treinta días a un año o multa de $50.00 a $5,000.00 o ambas sanciones a juicio del Juez, a quienes estando autorizados para publicar una obra, dolosamente lo hicieren en la siguiente forma:
 
-I.- A quienes omitan las menciones que ordenan los artículos 23, 54, 55, 56, 57 y 58;
+I.- Sin mencionar en los ejemplares de ella el nombre del autor, traductor, compilador, adaptador o arreglista;
 
-II.- A quienes dejen de cumplir las obligaciones que imponen los artículos 63, párrafo segundo, 97, 124 y 126;
+II.- Con menoscabo de la reputación del autor como tal y; en su caso, del traductor, compilador, arreglista o adaptador, y
 
-III.- A los administradores de las sociedades de autores que omitan publicar el balance de ellas como ordena el artículo 108.
+III.- Con infracción de lo dispuesto en los artículos 43 y 52
 
-Si dentro del plazo que prudentemente fije la Secretaría al efecto, no se subsana la omisión, se impondrán a los responsables, por las autoridades judiciales, las sanciones establecidas en el artículo 132.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 139.
 
-Los Tribunales federales conocerán de las controversias que se susciten con motivo de la aplicación de esta ley; pero cuando dichas controversias sólo afecten intereses particulares, podrán conocer de ellas, a elección del actor, los tribunales del orden común correspondientes. Son competentes los tribunales de la federación para conocer de los delitos previstos y sancionados por esta ley.
+Se impondrá prisión de dos meses a un año o multa de $50.00 a $5,000.00 a quien dé a conocer a cualqier (sic) persona una obra inédita o no publicada que haya recibido en confianza del titular del derecho de autor o de alguien en su nombre, sin el consentimiento de dicho titular.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 140.
 
-Las acciones civiles que se ejerciten con fundamento en esta ley, se tramitarán y decidirán sumariamente conforme a los procedimientos establecidos en los Códigos de Procedimientos Civiles, federal o locales, según el caso.
+A los editores o impresores responsables, que dolosamente inseten (sic) en las obras una o varias menciones falsas de aquellas a las que se refieren los artículos 27, 53, 55, 56 y 57, se les impondrá prisión de seis meses a tres años o multa de $50.00 a $10,000.00. En los casos de reincidencia dichas penas no serán alternativas, sino acumulativas.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 141.
 
-No podrá ejercitarse ninguna acción contradictoria respecto a los derechos de autor sobre una obra u obras que se encuentren inscritos a nombre de persona física o moral determinada, sin que previa o simultáneamente se entable demanda de nulidad o cancelación de la inscripción correspondiente.
+Se impondrá a los funcionarios de las sociedades de autores que dispongan para gastos de administración, de cantidades superiores a as (sic) señaladas en el presupuesto a que se refiere el artículo 104, siempre que no concurra el caso de que trata el párrafo tercero del mismo precepto citado, las sanciones siguientes:
 
-Deberá sobreseerse en todo juicio sobre derechos de autor cuando el procedimiento se siga contra persona distinta de quien aparezca como titular de él en los libros del registro, a no ser que hubiere dirigido la acción contra ella, como causahabiente de quien aparezca como titular en el registro.
+I.- Prisión de seis meses a tres años y multa de $50.00 a $500.00, cuando la suma erogada no exceda de $3,000.00, y
+
+II.- Prisión de tres a seis años y multa de $500.00 hasta $10,000.00, si la suma erogada fuera mayor de $3,000.00.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 142.
 
-Las autoridades judiciales y el Ministerio Público darán a conocer a la Dirección del Derecho de Autor, la iniciación de cualquier juicio o averiguación en materia de derechos de autor por medio de una copia de la demanda o denuncia, según el caso. Enviarán asimismo a dicha Dirección una copia autorizada de todas las resoluciones firmes que en cualquier forma modifiquen, graven, extingan o confirmen los derechos de autor en relación con una obra u obras determinadas. En vista de estos documentos, se harán en los libros del registro las anotaciones provisionales o definitivas que correspondan.
+Se impondrá prisión de dos meses a un año y multa de $50.00 a $10,000.00 a quien explote o utilice con fines de lucro discos o fonogramas destinados a ejecución privada.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 143.
 
-En todo juicio de nulidad de una constancia, anotación o inscripción en el registro, será parte de la Secretaría de Educación Pública y sólo podrán conocer de ellos los tribunales federales.
+Las infracciones a esta Ley y a sus reglamentos, que no constituyen delito, serán sancionadas por la Dirección General del Derecho de Autor, previa audiencia del infractor, con multa de $50.00 a $10,000.00. Al efecto, al tenerse conocimiento de la infracción, se notificará debidamente al presunto responsable, emplazándolo para que dentro de un término de quince días, que pueda (sic) ampliarse a juicio de la autoridad ofrezca las pruemas (sic) para su defensa. El monto de la multa será fijado teniendo en cuenta la naturaleza de los hechos y las condiciones económicas del infractor. En caso de reincidencia, que se considerará como tal la repetición de un acto de la misma naturaleza en un lapso de seis meses, la autoridad podrá imponer el doble de las multas.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 144.
 
-Los titulares del derecho de autor o quienes los representen legalmente, podrán solicitar del Ministerio Público Federal que se practiquen las diligencias necesarias para impedir la utilización o explotación de sus obras por cualquiera de los medios a que se refiere el artículo 1o., cuando esa utilización o explotación se esté llevando a cabo contra la voluntad del titular del derecho de autor o sin autorización del Ejecutivo Federal en los casos de limitación de dicho derecho, o en aquellos en que se requiera licencia.
+Se perseguirán de oficio los delitos previstos en las fracciones III, VI y VII del artículo 135. Así como el de la fracción II del artículo 136 y los consignados en el artículo 139.
+
+Los demás delitos previstos en esta Ley, sólo serán perseguidos por querella de parte ofendida, bajo el concepto de que cuando se trate del caso en que los derechos hayan entrado al dominio público de conformidad con a (sic) fracción III del artículo 23, la querella la formulará la Secretaría de Educación Pública, considerándose como parte ofendida.
+
+Las sanciones establecidas en esta Ley se aplicarán tomando en cuenta la situación económica del infractor, el perjuicio causado, el hecho de que (sic) infractor haya cometido una o varias veces infracciones a esta Ley, con anterioridad, y el provecho económico obtenido o que se proponga obtener. Se considerará excluyente de responsabilidad el hecho de que el infractor haya obrado al ejecutar o representar una obra, con el propósito de satisfacer sus más elementales necesidades de subsistencia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+### CAPITULO IX. De las competencias y procedimientos
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 145.
 
-Los ejemplares de las obras, moldes, clisés, placas y, en general, los instrumentos y las cosas objeto o efecto de la reproducción ilegal, serán aseguradas en los términos establecidos por el Código Federal de Procedimientos Penales, para los instrumentos y objetos del delito.
+Los tribunales federales conocerán de las controversias que se susciten con motivo de la aplicación de esta Ley; pero cuando dichas controversias sólo afecten intereses particulares, de orden exclusivamente patrimonial, podrán conocer de ellas, a alección (sic) del actor, los tribunales del orden común correspondientes. Son competentes los tribunales de la Federación para conocer de los delitos previstos y sancionados por esta Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 146.
 
-El juez que conozca de la causa, a petición de cualquiera de las partes o del Ministerio Público, podrá ordenar la venta parcial o total de las cosas a que se refiere el artículo anterior, ya sea en su forma original o con las modificaciones necesarias según la naturaleza de la violación, cuando el titular del derecho diere su conocimiento.
+Las acciones civiles que se ejerciten se fundarán, trimitarán (sic) y resolverán conforme a lo establecido en esta Ley y en sus reglamentos, siendo supletoria la Legislación común, cuando la Federación no sea parte. Los titulares del derecho de autor, sus representantes o las sociedades de autores, intérpretes o ejecutantes en su caso, legalmente constituidas, podrán solicitar de las autoridades judiciales federales o locales, en su caso, cuando no se hayan cubierto los derechos a que se refiere el artículo 79, las siguientes precautorias:
+
+I.- Embargo de las entradas o ingresos obtenidos de la representación, antes de celebrarse, durante ella o después.
+
+II.- Embargo de aparatos electromecánicos, y
+
+III.- Intervención de negociaciones mercantiles.
+
+Estas providencias serán acordadas por la autoridad judicial, sin que sea menester acreditar la necesidad de la medida, pero deberá otorgarse, en todo caso, la suficiente garantía correspondiente.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 147.
 
-La declaración de venta se sustanciará en los términos señalados por el Código Federal de Procedimientos Penales para la tramitación de incidentes no especificados.
+Cuando la acción contradictoria se relacione con los efectos del Registro Público de Derechos de Autor, sólo podrá ejercitarse si previa o simultáneamente se entabla demanda de nulidad o cancelación de la inscripción de la obra, del nombre de su autor o de la declaración de reserva.
+
+Deberá sobreseerse todo juicio sobre derechos de autor cuando el procedimiento se siga contra persona distinta de quen (sic) aparezca como titular en el registro, a no ser que se hubiere dirigido la acción contra ella, como causahabiente de quien aparezca como titular en el registro.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 148.
 
-Al quedar firme la resolución, el juez ordenará que se haga entrega de los bienes a un banco fiduciario para que los venda por medio de corredores públicos titulados, al mejor precio del mercado. Cuando sea necesaria la modificación de esos bienes, el banco vigilará que se lleve a cabo antes de ser puestos en venta
+Las autoridades judiciales y el Ministerio Público darán a conocer a la Dirección General del Derecho de Autor, la iniciación de cualquier juicio o averiguación en materia de derechos de autor, por medio de una copia de la demanda, denuncia o querella según el caso. Enviarán asimismo a dicha Dirección una copia autorizada de todas las resoluciones firmes que en cualquier forma modifiquen, graven, extingan o confirmen los derechos de autor en relación con una obra u obras determinadas. En vista de estos documentos, se harán en los libros del registro las anotaciones provisionales o definitivas que correspondan.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 149.
 
-Del producto serán pagados, en primer término, la reparación del daño al titular del derecho infringido; en seguida las multas a que se hubiere condenado y el saldo quedará a beneficio del infractor.
+En todo juicio en que se impugne una constancia, anotación o inscripción en el registro, será parte de la Secretaría de Educación Pública y sólo podrán conocer de él los tribunales federales.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 150.
 
-Cuando las cosas objeto o efecto del delito no puedan ponerse en el comercio por ser incompatibles con el derecho de autor, o pudiendo ser puestas, el titular del derecho lesionado se opone a ello, serán destruídas.
+Los ejemplares de las obras, moldes, clisés, placas y en general, los instrumentos y las cosas objeto o efecto de la reproducción ilegal que sean materia de un juicio penal, serán asegurados en los términos establecidos por el Código Federal de Procedimientos Penales, para los instrumentos y objetos del delito.
 
-Se entenderá que existe oposición del titular del derecho, cuando notificado en el incidente de venta a que se refiere el artículo 147, no manifieste su conformidad expresa dentro de los términos que la ley señala.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 151.
 
-La reparación del daño material en ningún caso será inferior al cuarenta por ciento del precio de venta al público de cada ejemplar, multiplicado por el número de ejemplares de la reproducción ilegal que se hayan hecho. Si el número de ejemplares no puede saberse con exactitud, la reparación del daño será fijada por el juez con audiencia de peritos.
+El juez que conozca de la causa, a petición de cualquiera de las partes o del Ministerio Público, podrá ordenar la venta parcial o total de las cosas a que se refiere el artículo anterior, ya sea (sic) forma original o con las modificaciones necesarias según la naturaleza de la violación, cuando el titular del derecho diere su consentimiento.
 
-Es daño moral el que ocasionan las violaciones previstas en las fracciones I y II del artículo 134.
+En los juicios civiles el juez tendrá la misma facultad, la que ejercerá a petición de parte.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 152.
+
+La declaración de venta se sustanciará en forma de incidente conforme al Código Federal aplicable en materia procesal.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 153.
+
+Al quedar firme la resolución, el juez ordenará que se haga entrega de los bienes a un banco fiduciario para que los venda por medio de corredores públicos titulados, al mejor precio del mercado. Cuando sea necesaria la modificación de estos bienes, el banco vigilará que se lleve al cabo antes de ser puestos en venta.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 154.
+
+Del producto serán pagados, en primer término el monto de lo demandado o, en su caso, la reparación del daño al titular del derecho infringido; en seguida las multas a que se hubiere condenado y, el saldo, quedará a beneficio del demandado o infractor.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 155.
+
+Cuando las cosas u objetos a que se refieren los artículos anteriores no puedan ponerse en el comercio por ser incompatibles con el derecho de autor, serán destruidos. También serán destruidos cuando, pudiendo ser puestos en el comercio, el titular del derecho lesionado se oponga expresamente a su venta.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 156.
+
+La reparación del daño material en ningún caso será inferior al 40% (cuarenta por ciento) del precio de venta al público de cada ejemplar, multiplicado por el número de ejemplares que se hayan hecho de la reproducción ilegal. Si el número de ejemplares o reproducciones no puede saberse con exactitud, la reparación del daño será fijada por el juez con audiencia de peritos.
+
+Para los efectos de la reparación se entiende por daño moral el que ocasionen la (sic) violaciones previstas en las fracciones I y II del artículo 137.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+### CAPITULO X. Recurso Administrativo de Reconsideración
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 157.
+
+Si alguna persona se ve afectada en sus derechos e intereses por resoluciones emanadas de la Dirección General del Derecho de Autor, podrá interponer por escrito y solicitar su reconsideración ante el Secretario de Educación Pública, dentro de un término de quince días hábiles contados a partir del día siguiente a aquel en que notifique la resolución. La notificación se hará por correo certificado o por otra forma fehaciente.
+
+Transcurrido el término a que se refiere el párrafo precedente, sin que el afectado interponga el recurso, la resolución de que se trate quedará firme o (sic) por ministerio de Ley.
+
+Con el escrito de inconformidad que contendrá nombre y domicilio del inconforme o de su representante legal, resolución o resoluciones impuganadas (sic) y puntos concretos de hecho y de derecho en que funde el recurso, deberán presentarse las pruebes que se juzguen pertinentes. El Secretario de Educación Pública podrá allegarse cuantos elementos de prueba estime necesarios y estará obligado a comunicar oportunamente, mediante correo certificado o en otra forma fehaciente si revoca, modifica, anula o confirma la resolución o resoluciones impugnadas.
+
+Cuando se trate de impugnación de multas impuestas, el interesado deberá comprobar ante la Dirección General del Derecho de Autor, haber garantizado su importe, mas los accesorios legales, ante las autoridades hacendarias correspondientes, conforme a los ordenamientos aplicables. La Dirección dará (sic) aviso correspondiente al titular de la Secretaría de Educación Pública.
+
+No procede el recurso de reconsideración tratándose de laudos arbitrales a que se refiere el artículo 133 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+### CAPITULO XI. Generalidades
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 158.
+
+Las empresas que mantengan centros o estabecimientos (sic) de cualquier género donde se usen o exploten obras protegidas, deben acreditar ante la Dirección General del Derecho de Autor o las autoridades auxiliares que determinen el Reglamento de esta Ley, la autorización de los titulares de los derechos de ejecución, representación o exhibición, en su caso, en las condiciones que el propio Reglamento fije.
+
+El Reglamento que al efecto se expida, determinará los requisitos que deben satisfacer los interesados ante las autoridades competentes.
+
+Lo dispuesto en este artículo no se aplicará cuando se trate del uso o explotación de disco o fonogramas que hayan cubierto los derechos de ejecución pública conforme a esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 159.
+
+Es nulo cualquier acto por el cual se transmitan o afecten derechos patrimoniales de autor intérpretes y ejecutantes, o por el que se autoricen modificaciones a una obra cuando se estipulen condiciones inferiores a las que señalen como mínimas las tarifas que expida la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
+###### ARTICULO 160.
+
+Las tarifas expedidas por la Secretaría de Educación Pública, en los términos de esta Ley, serán revisadas cuando, a juicio de la propia Secretaría, hayan variado substancialmente las circunstancias o condiciones económicas que hayan servido de base para su expedición.
 
 TRANSITORIOS:
 
@@ -1013,9 +1529,11 @@ La Sociedad General Mexicana de Autores deberá quedar constituida de acuerdo co
 
 Lo dispuesto por el artículo 69 de esta ley, se hará efectivo a partir del primero de enero de mil novecientos sesenta.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO SEXTO.
 
-La Secretaría de Educación Pública deberá de expedir las tarifas a que se refiere el artículo 95, dentro del término de seis meses a partir de la fecha en que entre en vigor esta ley.
+Los autores cuyas obras hubieren caído en el dominio público por no haberse registrado o preservado el derecho en los términos del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en Materia Federal, podrán obtener los beneficios de la protección que establecen las reformas, si solicitan el registro de sus obras en la Dirección General del Derecho de Autor, dentro del término de un año contado a partir de la fecha en que entren en vigor. Esta protección podrá ser solicitada por los autores o por sus causahabientes y no afectará en forma alguna los derechos legalmente adquiridos por terceros con anterioridad. Los herederos o causahabientes de autores fallecidos, deberán comprobar el hecho del fallecimiento, y que éste ocurrió dentro del término de los 30 años inmediatos anteriores a la fecha en que entren en vigor dichas reformas.
 
 ###### ARTICULO SEPTIMO.
 
@@ -1024,3 +1542,37 @@ En tanto no se publique el Boletín del Derecho de Autor, las publicaciones que 
 Juan Fernández Albarrán, S. P.- Carlos Ramírez Guerrero, D. P.- Manuel González Cosío, S. S.- Roberto del Real Carranza.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientas cincuenta y seis.- Adolfo Ruiz Cortines.- Rúbrica.- El Secretario de Educación Pública, José Angel Ceniceros.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE DICIEMBRE DE 1963.
+
+> <small>[N. DE E. EL “DECRETO QUE ADICIONA LA LEY FEDERAL DE DERECHOS DE AUTOR DE 29 DE DICIEMBRE DE 1956”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.]</small>
+
+D.O.F. 21 DE DICIEMBRE DE 1963.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY FEDERAL DE DERECHOS DE AUTOR”.]
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todos los artículos de la Ley Federal de Derechos de Autor, de 29 de diciembre de 1956, que no se encuentren incorporados en estas reformas, así como todas las disposiciones que se opongan a las mismas.
+
+###### ARTICULO TERCERO.
+
+Dentro de los noventa días siguientes al que entren en vigor estas reformas, las sociedades de autores de las diversas ramas deberán estar organizadas en los términos de las propias reformas, ajustando sus estatutos a las disposiciones del Capítulo VI, y tanto en lo que ve al quórum de las asambleas que deberán resolver acerca de la reorganización de aquéllas, cuanto en lo que toca al cómputo de los votos de los asociados, se tomará en cuenta lo estatuido en el artículo 99 fracción II, último párrafo.
+
+Los (sic) sociedades de autores que en el término señalado no queden regularizadas conforme a lo dispuesto por el párrafo anterior, dejaran de funcionar desde luego como tales. La Dirección General del Derecho de Autor cancelará los registros respectivos y solicitará ante el juez de Distrito competente en materia administrativa, a (sic) disolución de ellas y las medidas necesarias para su liquidación. Además, la Dirección General del Derecho de Autor, previa audiencia de los interesados, aplicará una multa de un mil pesos sin ulteriores recursos, a cada uno de los directivos que hayan estado en funciones durante dicho término de noventa días y que no hayan tomado las medidas necesarias para la reorganización y pretendan seguir actuando como tales.
+
+###### ARTICULO CUARTO.
+
+En tanto se expida el Reglamento a que se refiere el párrafo segundo del artículo 93 de la Ley seguirán funcionando las sociedades de autores reconocidas con tal carácter, en la misma rama en que se encuentran constituidas, sin perjuicio de que efectúen la reorgannzaciói (sic) interna en los términos del anterior artículo segundo de estos transitorios.
+
+###### ARTICULO QUINTO.
+
+Se aplicará el artículo 158 conforme es (sic) expidan y publiquen las tarifas previstas el mismo.
+
+En un plazo de seis meses, a partir de la vigencia de esta Ley, se revisarán las tarifas actualmente en vigor, para ajustarse a las disposiciones de la presente Ley.
