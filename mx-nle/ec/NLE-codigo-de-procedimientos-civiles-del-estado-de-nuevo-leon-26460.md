@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2003-09-12"
+last_updated: "2004-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
+CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1239,7 +1239,7 @@ ACTOS PREJUDICIALES.
 
 ### CAPITULO II. DE LA SEPARACION PROVISIONAL DE LOS CONYUGES
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 154.
 
@@ -1315,9 +1315,9 @@ No serán procedentes conforme a la fracción I del artículo 154, las declaraci
 
 DE LA SEPARACIÓN CAUTELAR DE PERSONAS Y DEL DEPOSITO DE MENORES.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-Artículo 180 Bis I.- Toda persona que vaya a presentar demanda, denuncia o querella, por conductas que constituyan violencia familiar, puede pedir al juez que lo separe cautelarmente del presunto agresor a quien demandará o acusará.
+Artículo 180 Bis I.- Toda persona que vaya a promover demanda por conductas que constituyan violencia familiar, puede pedir al Juez la separación cautelar del agredido y el presunto agresor a quien demandará.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DEL 2000)</small>
 
@@ -1347,13 +1347,15 @@ IV.- Todas aquellas que considere necesarias para el efecto.
 
 ###### Artículo 166.
 
-La persona que viviendo al lado de su cónyuge lo intente demandar, denunciar o pretenda presentar querella en su contra, puede pedir su separación provisional.
+La persona que intente demandar a su cónyuge, puede solicitar su separación provisional al Juez competente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 167.
 
-El domicilio conyugal será preferentemente, el que continúe habitando la persona que haya solicitado su separación provisional, pudiendo escoger en su derecho un lugar diferente.
+La mujer continuará habitando el domicilio conyugal, preferentemente; pero podrá escoger en su derecho, un lugar diferente, debiendo el juez vigilar que ello sea sin perjuicio de los hijos menores si los hubiera.
+
+Sin embargo, si el solicitante fuere el varón, el Juez tomará en cuenta siempre el interés superior de los menores, si los hubiere, y las circunstancias de cada caso; por lo que procurará que el cónyuge que conserve a su cuidado a los hijos siga habitando, si así lo desea, el domicilio conyugal. Esta resolución no admitirá recurso alguno.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -1361,51 +1363,45 @@ El domicilio conyugal será preferentemente, el que continúe habitando la perso
 
 Sólo los Jueces de lo Familiar o Mixtos, en su caso, pueden decretar la separación provisional de que hablan los artículos anteriores, a no ser que por circunstancias especiales, no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre, podrá decretar la separación provisional, remitiendo las diligencias al competente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 169.
 
-La solicitud de los cónyuges puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+En la solicitud, que puede ser escrita o verbal, se señalarán las causas en que se funda, el domicilio en donde habitará el cónyuge que solicita la separación, la existencia de hijos menores y se expondrán las demás circunstancias del caso. Si la urgencia del caso lo amerita, el Juez debe proceder de inmediato.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 170.
 
-Presentada la solicitud se trasladará el Juez al domicilio conyugal o lugar donde habiten los cónyuges con previa citación del otro cónyuge; si fuere la mujer quien hubiere solicitado la separación provisional, se le hará comparecer sin que se encuentre presente el marido, para que manifieste si ratifica o no su solicitud; hecha la ratificación y en presencia de ambos cónyuges, el Juez decretará la separación provisional, y en caso de no haber sido escogido el domicilio conyugal para dicha separación, dispondrá que en el acto, según las circunstancias del caso, se entreguen los muebles y efectos personales que estimen necesarios.
+Admitida la solicitud y previa citación del otro cónyuge; el Juez dictará las medidas conducentes a efecto de llevar a cabo la separación pudiendo trasladarse al domicilio conyugal o lugar donde habiten los cónyuges para tal efecto, resolviendo en el acto, y acorde a las circunstancias de las personas, cuáles bienes deban entregarse al cónyuge que salga del domicilio conyugal, quien deberá señalar el domicilio donde habitará o en su defecto un domicilio convencional para los efectos de esta medida. Apercibido que en caso de no hacerlo así, las posteriores notificaciones se le practicarán en términos del artículo 68 último párrafo de este Código. En ese mismo acto, el Juez deberá decretar todas las diligencias que sean necesarias para proteger a los hijos menores, si los hubiere, escuchando la opinión de los que sean mayores de doce años.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 171.
 
-Practicado todo lo que queda prevenido en los Artículos anteriores y en caso de no haberse señalado el domicilio conyugal para la separación, el juez personalmente extraerá al cónyuge de dicho domicilio y le llevará al señalado.
+El Juez resolverá de inmediato sobre la solicitud y dictará las medidas necesarias para que se realice la separación provisional, pudiendo modificar esas medidas según las circunstancias de cada caso, previo trámite incidental.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 172.
 
-En el mismo acto de la diligencia intimará el juez al otro cónyuge para que no moleste al que hubiere solicitado su separación provisional, ni a los menores o habitantes del domicilio señalado para que ésta se efectúe en caso de no ser el domicilio conyugal, apercibiéndolo de procederse en su contra a lo que hubiere lugar.
-
-Independientemente de lo anterior, el juez puede decretar las medidas que estime procedentes a efecto de evitar molestias al solicitante y a los habitantes del domicilio señalado para la separación provisional.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+En la resolución, el Juez fijará el término que tiene la persona que solicitó su separación para intentar la acción correspondiente, no pudiendo exceder de treinta días. Dicho término podrá ser prorrogado por una sola vez, a criterio del Juez que lo decretó, y previa petición del interesado, hasta por treinta días adicionales, contados a partir de que cause efectos el auto que se dicte para dicha prórroga.
 
 ###### Artículo 173.
 
-La casa donde se encuentra el cónyuge que haya pedido su separación provisional, será preferente escogida por éste y en su defecto, el juez la designará, cuidando que si la mujer fue quien lo solicitó, continúe en el domicilio conyugal y de no ser posible esto, señalar la casa de personas de notoria honorabilidad y buenas costumbres, pudiendo inclusive designarse para dicho efecto a una institución de beneficencia o asistencia social.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+(DEROGADO, P.O. 28 DE ABRIL DE 2004)
 
 ###### Artículo 174.
 
-Si los consortes tuvieren hijos, menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo el juez resolverá provisionalmente, debiendo en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
+(DEROGADO, P.O. 28 DE ABRIL DE 2004)
 
-Cualquiera reclamación de los consortes sobre el cuidado de los hijos se substanciará incidentalmente.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 175.
 
-Al mismo tiempo de decretada la separación provisional mandará el Juez prevenir al cónyuge que la hubiere solicitado, de que si dentro de 30 días no acredita haber intentado la demanda o la acusación, queda apercibido que la separación provisional queda sin efectos, pudiendo en ese caso el cónyuge que no la hubiere solicitado, hacer valer sus derechos correspondientes. Esta providencia se notificará a ambos cónyuges.
+Al mismo tiempo de decretada la separación provisional mandará el Juez prevenir al cónyuge que la hubiere solicitado, que si dentro de la vigencia de la separación, no acredita haber intentado la demanda, quedará sin efectos, informándose al cónyuge que no la hubiere solicitado, la autorización para su inmediata reincorporación al domicilio conyugal, pudiendo en ese caso, hacer valer sus derechos correspondientes. Estas providencias se notificarán a ambos cónyuges.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 Para presentar la demanda respectiva a que alude este artículo, el cónyuge que hubiera solicitado su separación provisional, deberá interponerla directamente ante el mismo juzgado que haya conocido del acto prejudicial, salvo lo dispuesto en el artículo 180.
 
@@ -1415,17 +1411,15 @@ Para presentar la demanda respectiva a que alude este artículo, el cónyuge que
 
 Al responsable de la casa donde se encuentre el cónyuge que hubiere solicitado su separación provisional, se le hará entrega de las copias certificadas que contengan los proveídos en los que se decretó la separación provisional y el domicilio en donde ésta se lleve a efecto.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
-
 ###### Artículo 177.
 
-El término señalado para la duración de la separación provisional podrá prorrogarse si se acredita que por causa no imputable al solicitante, ha sido imposible intentar la acción contra su cónyuge.
+(DEROGADO, P.O. 28 DE ABRIL DE 2004)
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 178.
 
-Las pretensiones que puedan formular los cónyuges, sobre variación del domicilio en que se lleve a efecto la separación provisional, o cualquiera otra cuestión que pueda dar lugar, se substanciarán incidentalmente.
+Si transcurridos treinta días contados a partir de que cause efectos el auto que otorgó la medida, no se gestiona la materialización de la misma, se ordenará de plano el archivo definitivo del asunto.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
@@ -4915,9 +4909,9 @@ JUICIO ESPECIAL SOBRE PÉRDIDA DE LA PATRIA POTESTAD.
 
 Artículo 732 BIS.- Se tramitará el procedimiento a que se refiere este capítulo tratándose de menores acogidos por una Institución pública de Asistencia Social para el efecto de que se decrete la pérdida de la patria potestad, en los casos previstos por el artículo 444 fracciones II, III y IV del Código Civil, correspondiendo la acción al Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-Artículo 732 BIS I. - Admitida que sea la demanda, se correrá traslado de ella a quienes ejerzan la patria potestad y a las personas a que se refiere el artículo 414 del Código Civil a fin de que en el plazo de cinco días produzcan su contestación.
+Artículo 732 BIS I.- Admitida que sea la demanda, se correrá traslado de ella a los padres y se dará vista a los abuelos a fin de que en el plazo de cinco días produzcan su contestación.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
@@ -6291,7 +6285,9 @@ Ninguna tutela puede conferirse sin que previamente se declare el estado de mino
 
 La declaración de estado de minoridad o incapacidad puede pedirse:
 
-I.- Por el mismo menor si ha cumplido dieciséis años;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+
+I.- Por el mismo menor si ha cumplido catorce años;
 
 II.- Por su cónyuge;
 
@@ -6325,7 +6321,9 @@ I.- Mientras no se pronuncie sentencia irrevocable la tutela interina debe limit
 
 Si ocurriere urgente necesidad de otros actos el tutor interino podrá obrar prudentemente previa autorización judicial;
 
-II.- El estado de demencia puede probarse con testigos o documentos, pero en todo caso se requiere la certificación de tres médicos cuando menos, sobre el estado de demencia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+
+II.- El estado de demencia puede probarse con testigos o documentos, pero en todo caso se requiere la certificación de tres médicos cuando menos, que hayan realizado un examen físico para verificar el estado de demencia, retraso mental moderado, grave o profundo, alguna otra enfermedad o trastorno mental cuya gravedad impida un adecuado funcionamiento de sus facultades;
 
 El tutor puede nombrar un médico para que tome parte en la audiencia y se oiga su dictamen;
 
@@ -6427,7 +6425,9 @@ Para decretar la venta de los bienes se necesita que al pedirse se expresen el m
 
 Si fuere el tutor quien solicitare la venta, debe proponer al hacer la promoción las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
 
-La solicitud del tutor se substanciará en forma de incidente con el curador y el Ministerio Público. La sentencia que se dictare es apelable en ambos efectos.
+> <small>(REFORMADO, P.O.28 DE ABRIL DE 2004)</small>
+
+La solicitud del tutor se substanciará con el curador y el Ministerio Público. La sentencia que se dicte es apelable en ambos efectos.
 
 Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
 
@@ -6435,7 +6435,9 @@ Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
 
 Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta atendiendo en todo a la utilidad que resulte al menor; si se decreta se hará por conducto de un comisionista o casa de comercio que expenda artículos similares, observándose en lo conducente lo dispuesto por el artículo 560.
 
-El remate de los inmuebles, se hará conforme a los artículos 531 y sguientes (sic) y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo pericial ni la que no se ajuste a los términos de la autorización judicial.
+> <small>(REFORMADO, P.O.28 DE ABRIL DE 2004)</small>
+
+La venta de los inmuebles que se ordene en remate, se realizará conforme a lo dispuesto en el Capítulo II, Título Décimo, Libro Primero del presente Código, y en ella no podrá admitirse postura inferior de las dos terceras partes del avalúo pericial o que no se ajuste a los términos de la autorización judicial.
 
 Si en la primera almoneda no hubiere postor el juez convocará a solicitud del tutor, curador o del Consejo de Tutelas a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
@@ -6511,7 +6513,9 @@ Cuando el adoptante o adoptantes soliciten la conversión de la adopción semipl
 
 Cuando el adoptante y el adoptado pidan que la adopción semiplena sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el primer párrafo del artículo 407 del Código Civil.
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin oír al representante del Ministerio Público y sin recabar la opinión del Consejo Estatal de Adopciones.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+Si el adoptado fuere menor de edad, no se decretará la revocación sin oír al representante del Ministerio Público y de la Procuraduría de la Defensa del Menor y la Familia.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo 936, pueden rendirse toda clase de pruebas.
 
@@ -6583,7 +6587,7 @@ En ningún caso se admitirá en jurisdicción voluntaria, la información de tes
 
 ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Artículo 944.
 
@@ -6681,7 +6685,7 @@ DEL ACUERDO DE ARBITRAJE.
 
 ###### Artículo 952.
 
-Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquélla la base de la integración de la sociedad.
+Todos los problemas inherentes a la familia se consideran de orden público, por constituir ésta la base de la integración de la sociedad. Tratándose de menores y de obligaciones alimentarias, el Juez está obligado a suplir la deficiencia de los planteamientos de hecho y a velar por el interés superior de menores o incapacitados.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
 
@@ -7483,17 +7487,17 @@ DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE FEBRERO DE 1985.
-
-###### ARTICULO UNICO
-
-- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
 P.O. 21 DE ENERO DE 1987.
 
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 2 DE AGOSTO DE 1991.
 
@@ -7585,7 +7589,7 @@ P.O. 10 DE FEBRERO DE 1999.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-P.O. 3 DE ENERO DEL 2000.
+P.O. 3 DE ENERO DEL 2000
 
 Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -7606,3 +7610,11 @@ P.O. 30 DE NOVIEMBRE DE 2001.
 P.O. 12 DE SEPTIEMBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
