@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "1987-01-10"
+last_updated: "1987-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1987.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -95,7 +95,11 @@ V.- Cuando el último día sea feriado, se tendrá por completo el plazo hasta q
 
 ### CAPÍTULO I. DE LAS PERSONAS FISICAS
 
-ART. 18.- La personalidad jurídica se adquiere por el nacimiento y se extingue por la muerte; pero desde el momento en que un ser humano es concebido entra bajo la protección de la ley y se le tiene por nacido para los efectos declarados en este Código.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 18.- Son personas físicas los individuos de la especie humana, desde que nacen hasta que mueren.
+
+La personalidad jurídica se adquiere por el nacimiento y se extingue por la muerte; pero desde el momento en que un ser humano es concebido entra bajo la protección de la Ley y se le tiene por nacido para los efectos declarados en este Código.
 
 ART. 19.- La minoría de edad, el estado de interdicción y cualquiera otra incapacidad establecida por la ley, constituyen restricción a la capacidad jurídica; pero los incapaces pueden ejercer derechos y contraer obligaciones por medio de sus representantes.
 
@@ -167,9 +171,11 @@ ART. 32.- El estado civil de las personas sólo se comprueba con las copias cert
 
 ART. 33.- La titularidad de las Oficialías del Registro Civil estará a cargo de funcionarios estatales denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-Los Oficiales sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren y lo que está expresamente previsto en la ley.
+Los Oficiales sólo asentarán en las actas lo que deba ser declarado el en acto preciso a que ellas se refieren y lo que está expresamente previsto en la ley.
 
-ART. 34.- Serán objeto de inscripción en el Registro Civil, el nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes. Las inscripciones se harán mecanográficamente y por quintuplicado.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 34.- Serán objeto de inscripción en el Registro Civil, el nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento. Las inscripciones se harán mecanográficamente y por quintuplicado.
 
 ART. 35.- En el asentamiento de las actas del Registro Civil intervendrán: El Oficial del Registro Civil que autoriza y da fe, los particulares que solicitan el servicio o sus representantes legales y, en su caso, los testigos y personas que intervengan en las mismas, quienes deberán firmarlas en el espacio correspondiente, imprimiéndose además el sello de la Oficialía. Si alguno de los testigos o personas que intervengan no saben firmar, se hará constar dicha circunstancia y se estamparán sus huellas digitales de ambos pulgares.
 
@@ -187,11 +193,13 @@ ART. 41.- Correlativamente a las actas del Registro Civil, se integrará un Apé
 
 ART. 42.- Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del Apéndice. El Director y los Oficiales del Registro Civil están obligados a expedirlas o mostrarlas, en su caso.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
 ART. 43.- Si se perdiere o destruyere alguna acta o algún libro del Registro Civil, se obtendrá inmediatamente copia de los otros ejemplares bajo la responsabilidad del Director u Oficial del Registro Civil, en su caso. Para ese efecto, el funcionario titular de la dependencia donde falte un documento, solicitará el ejemplar correspondiente para proceder a la reposición.
 
-Sólo para el caso de que no existan duplicados o cuando no hayan existido registros, se podrá recibir prueba del acto, la que consistirá en los elementos que prevé la Legislación Procesal, y previo el trámite judicial correspondiente, se hará la inscripción del hecho o acto.
+Sólo para el caso de que no existan duplicados o cuando no hayan existido registros, se podrá recibir prueba del acto, la que consistirá en los elementos que prevé la Legislación Procesal y previo el trámite judicial correspondiente, se hará la inscripción del hecho o acto.
 
-Tratándose de nacimientos no registrados, el Oficial del Registro Civil hará la inscripción si el menor no excede de siete años, debiendo al efecto exhibirse el certificado médico legal. Si excede de esta edad deberá observarse el requisito señalado en el párrafo anterior.
+Tratándose de nacimientos no registrados, el Oficial del Registro Civil hará la inscripción si el menor no excede de siete años, debiendo al efecto exhibirse el certificado médico legal. Si excede de esta edad deberá observarse el requisito señalado en el párrafo anterior con la salvedad de que por motivos graves o causa de fuerza mayor o en campañas de beneficio social el Titular del Ejecutivo del Estado por medio de la Dirección Estatal del Registro Civil podrá autorizar la inscripción de nacimientos hasta la edad de catorce años. Además de lo anteriormente señalado, así como tratándose de personas mayores de esa edad se regirán de conformidad con las disposiciones contenidas en la Ley Reglamentaria del Registro Civil del Estado.
 
 ART. 44.- Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena sin perjuicio de que el acta pueda ser redargüida judicialmente de falsa.
 
@@ -203,7 +211,11 @@ ART. 47.- Para acreditar el estado civil adquirido por los mexicanos fuera de la
 
 ART. 48.- En las actas del Registro Civil se harán las anotaciones que relacionen el acto con los demás que estén inscritos de la misma persona; y las otras que establezca la ley.
 
-ART. 49.- Las actas relativas a los hechos y actos del estado civil del propio oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio oficial. Se asentarán en las formas correspondientes, autorizándose por el Director del Registro Civil.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 49.- Las actas relativas a los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Oficial. Se asentarán en las formas correspondientes, autorizándose por el Presidente Municipal de su adscripción
+
+En el caso del Director del Registro Civil, serán autorizados por el Secretario General de Gobierno.
 
 ART. 50.- La Dirección del Registro Civil supervisará las actuaciones de los oficiales adscritos a esa Dependencia, ejerciendo las facultades que le señale el reglamento respectivo.
 
@@ -639,7 +651,7 @@ ART. 168.- Todo pacto que importe cesión de una parte de los bienes propios de 
 
 ART. 169.- Las capitulaciones matrimoniales en que se constituye la sociedad convencional, se otorgarán por escrito. Constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
-ART. 170.- Las capitulaciones mediante las cuales se constituya la sociedad convencional, deberán inscribirse en el Registro Público de la Propiedad del lugar en que se celebró el matrimonio y, además, se harán constar al margen de las inscripciones relativas a los inmuebles comunes, independientemente de su ubicación.
+ART. 170.- Las capitulaciones mediante las cuales se constituya la sociedad convencional, deberán inscribirse en el Registro Público de la Propiedad del lugar en que se celebró el matrimonio y, además, se harán constar al margen de las inscripciones relativas o los inmuebles comunes, independientemente de su ubicación.
 
 ART. 171.- Los terceros que no hubieren tenido conocimiento de los términos en que estuviere constituida la sociedad convencional, por no haberse registrado, podrán ejercitar sus acciones conforme a las reglas de la legal; pero el consorte que en virtud de las capitulaciones no deba responder de aquella deuda, conservará a salvo sus derechos para cobrar la parte que le corresponda, de los gananciales del otro consorte, y si éstos no alcanzaren, de los bienes propios de éste.
 
@@ -655,7 +667,7 @@ ART. 173.- En la sociedad legal son propios de cada cónyuge:
 
 I.- Los bienes que le pertenezcan al tiempo de celebrarse el matrimonio, y los que posea antes de éste, aunque no fuere dueño de ellos. Si los adquiere por usucapión durante la sociedad;
 
-II.- Los bienes que durante la sociedad adquiera cada cónyuge por donación de cualquiera especie, por herencia o por legado, constituido a favor de uno solo de ellos. Si las donaciones fueren onerosas, se deducirá del capital del que las reciba el importe de las cargas de aquéllas, siempre que hayan sido reportadas por la sociedad;
+II.- Los bienes que durante la sociedad adquiera cada cónyuge por donación de cualquiera especie, por herencia o por legado, constituido a favor de uno solo de ellos si las donaciones fueren onerosas, se deducirá del capital del que las reciba el importe de las cargas de aquéllas, siempre que hayan sido reportadas por la sociedad;
 
 III.- Los bienes adquiridos por cualquier título propio que sea anterior al matrimonio, aunque la prestación se haya hecho después de la celebración de él. Los gastos que se hubieren causado para hacer efectivo el título, serán a cargo del dueño de éste;
 
@@ -831,7 +843,7 @@ ART. 223.- La nulidad por falta de consentimiento del tutor podrá pedirse por �
 
 La nulidad por falta de consentimiento del juez corresponde demandarla al Ministerio Público.
 
-En los dos casos a que se refiere este artículo, la acción debe ejercutarse (sic) dentro de los treinta días siguientes contados a partir de la fecha en que tengan conocimiento de la celebración del matrimonio, pero se extingue la acción si antes de dictarse sentencia ejecutoriada se obtiene la ratificación del tutor o la autorización judicial.
+En los dos casos a que se refiere este artículo, la acción debe ejercutarse (sic) dentro de los treinta días siguientes contados a partir de la fecha en que se tengan conocimiento de la celebración del matrimonio, pero se extingue la acción si antes de dictarse sentencia ejecutoriada se obtiene la ratificación del tutor o la autorización judicial.
 
 ART. 224.- El parentesco de consanguinidad no dispensado anula el matrimonio. La acción que nace de esta causa de nulidad puede deducirse por los ascendientes de los cónyuges y por el Ministerio Público, pero si antes de declararse ejecutoriamente la nulidad se obtuviese la dispensa quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que se contrajo.
 
@@ -1029,7 +1041,11 @@ ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos
 
 ART. 262.- El cónyuge culpable del divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
-ART. 263.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 263.- Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente.
+
+Habiendo causado ejecutoria el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos.
 
 ART. 264.- En los casos de divorcio necesario, el Juez, tomando en cuenta las circunstancias del caso y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, podrá sentenciar al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
@@ -1039,7 +1055,7 @@ ART. 266.- El cónyuge culpable sólo podrá volver a casarse hasta que hayan tr
 
 ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-ART. 268.- Ejecutoriada una sentencia de divorcio, el juez remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente.
+ART. 268.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
 ### CAPITULO I. DEL PARENTESCO
 
@@ -2331,7 +2347,9 @@ ART. 642.- Sólo puede constituirse el patrimonio de la familia con bienes, sito
 
 ART. 643.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-ART. 644.- El valor máximo de los bienes afectos al patrimonio de familia será el equivalente a siete mil días de salario mínimo general, fijado para la zona económica donde se encuentra el domicilio de la familia.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 644.- El valor máximo de los bienes afectos al patrimonio de familia será el equivalente a diez mil días de salario mínimo general, fijado para la zona económica donde se encuentra el domicilio de la familia.
 
 ART. 645.- Cuando por cualquier causa el valor de los bienes afectos al patrimonio de la familia es inferior al máximo fijado en el artículo anterior, podrá ampliarse el patrimonio hasta el límite legal.
 
@@ -5777,7 +5795,9 @@ ART. 1721.- Si durante la vigencia del contrato de arrendamiento, por cualquier 
 
 ART. 1722.- Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá; pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
 
-ART. 1723.- Si el mismo bien se ha dado en arrendamiento separadamente a dos o más personas y por el mismo tiempo, prevalecerá el arrendamiento del que tiene en su poder el bien arrendado y si el bien no está en poder de ninguno de los arrendatarios prevalece al arrendamiento primero en fecha; pero si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito. Si conforme a las anteriores reglas no puede resolverse qué arrendamiento prevalece, ninguno surtirá efectos y el arrendador será responsable de daños y perjuicios.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 1723.- Si el mismo bien se ha dado en arrendamiento separadamente a dos o más personas y por el mismo tiempo, prevalecerá el arrendamiento del que tiene en su poder el bien arrendado y si el bien no está en poder de ninguno de los arrendatarios prevalece al arrendamiento primero en fecha. Si conforme a las anteriores reglas no puede resolverse qué arrendamiento prevalece, ninguno surtirá efectos y el arrendador será responsable de daños y perjuicios.
 
 ## TITULO TERCERO. DE LA PERMUTA
 
@@ -5959,11 +5979,9 @@ ART. 1772.- El propietario no puede rehusar como fiador a una persona que reúna
 
 Tratándose del arrendamiento de viviendas de interés social es potestativo para el arrendatario dar fianza o sustituir esa garantía con el depósito de un mes de renta.
 
-ART. 1773.- El arrendador deberá inscribir el contrato de arrendamiento en el registro Público de la Propiedad y entregará el arrendatario una copia registrada del contrato.
+ART. 1773.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
-El arrendatario tendrá acción para demandar la entrega de la copia del contrato ya registrado.
-
-ART. 1774.- No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo anterior.
+ART. 1774.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
 ART. 1775.- En todo contrato de arrendamiento para habitación deberán transcribirse integras las disposiciones de este capítulo.
 
@@ -6209,7 +6227,7 @@ ART. 1867.- El depositario no puede retener el bien, aun cuando al pedírsele no
 
 ART. 1868.- Tampoco puede retener el bien como prenda que garantice otro crédito que tenga contra el depositante.
 
-ART. 1869.- Los dueños de establecimientos en donde se reciben huéspedes son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, o sus acompañantes, a sus servidores o quienes los visiten, o que provienen de caso fortuito, fuerza mayor o vicios de los mismos efectos.
+ART. 1869.- Los dueños de establecimientos en donde se reciben huéspedes son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, o sus acompañantes, a sus servidores o a quienes los visiten, o que provienen de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
 ART. 1870.- Para que las personas a que se refiere el artículo anterior sean responsables del dinero, valores u objetos de precio notoriamente elevado que introduzcan en tales establecimientos las personas que allí se alojen, es necesario que sean entregados en depósito a ellos o a sus empleados debidamente autorizados.
 
@@ -6257,7 +6275,9 @@ ART. 1887.- El mandato escrito puede otorgarse:
 
 I.- En escritura pública;
 
-II.- En carta poder firmada por el otorgante y dos testigos y ratificadas las firmas ante notario público; y,
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+II.- En carta poder firmada por el otorgante y dos testigos y ratificadas las firmas ante Notario Público o el Presidente Municipal en los lugares donde exista Notario; y,
 
 III.- En carta poder firmada por el mandante y dos testigos sin ratificación de firmas.
 
@@ -7809,9 +7829,15 @@ ART. 2345.- El Registro será público. Los encargados de la oficina tienen la o
 
 ART. 2346.- La Oficina del Registro Público dependerá directamente del Ejecutivo del Estado, el cual tendrá facultades para reglamentar lo referente a la eficacia del servicio.
 
-ART. 2347.- El presupuesto de egresos, de acuerdo con las necesidades del servicio, determinará el personal asignado a la Oficina del Registro Público de la Propiedad, no pudiendo faltar un Director del Registro, Jefe de la Oficina, y un Secretario, con atribuciones de refrendo.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
-ART. 2348.- Para ser Director del Registro Público de la Propiedad, se requiere:
+ART. 2347.- El presupuesto de egresos, de acuerdo con las necesidades del servicio, determinará el personal asignado a la Oficina del Registro Público de la Propiedad, no pudiendo faltar un Director , un Subdirector y un Secretario.
+
+Las atribuciones y obligaciones de los servidores públicos a que se refiere el párrafo anterior, estarán determinadas en la Ley del Registro Público de la Propiedad sin perjuicio de las señaladas en este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 2348.- Para ser Director y Subdirector, se requiere:
 
 I.- Ser abogado con cinco años de práctica por lo menos;
 
@@ -7821,9 +7847,13 @@ II.- Tener reconocida probidad y buenas costumbres;
 
 III.- No haber sido sentenciado en proceso contra la propiedad;
 
-ART. 2349.- Las faltas del Director del Registro Público serán suplidas por el Procurador General de Justicia.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
-ART. 2350.- Las faltas temporales del Secretario del Registro Público de la Propiedad serán suplidas por la persona que designe el Ejecutivo del Estado.
+ART. 2349.- Las faltas del Director del Registro Público de la Propiedad serán suplidas por el Subdirector, quien ejercerá las atribuciones señaladas para aquél.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 2350.- Las faltas temporales del Secretario del Registro Público de la Propiedad serán suplidas por la persona que designe el Director.
 
 ART. 2351.- Son atribuciones del Director del Registro Público de la Propiedad:
 
@@ -7843,17 +7873,11 @@ VI.- Imponer al personal de su dependencia, previo acuerdo del Ejecutivo, correc
 
 VII.- Las demás que se deriven de la ley.
 
-ART. 2352.-Son atribuciones del Secretario del registro Público:
+ART. 2352.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
-I.- Refrendar la firma del Director;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
-II.- Tener bajo su guarda el sello de la oficina;
-
-III.- Vigilar los distintos servicios encomendado al personal subalterno, informando al Director sobre las faltas en que se incurra;
-
-IV.- Tener bajo su guarda las llaves de la oficina, tomando las medidas necesarias para asegurar la integridad de los documentos depositados y de los índices respectivos.
-
-ART. 2353.- El Director y el Secretario del Registro Público de la Propiedad serán solidariamente responsables de los daños y perjuicios que ocasione cualquier acto u omisión indebidos al servicio.
+ART. 2353.- El Director y el Subdirector del Registro Público de la Propiedad serán responsables de los daños y perjuicios que ocasione cualquier acto u omisión indebidos al servicio.
 
 ART. 2354.- En caso de negativa de registro, podrán ocurrir los interesados ante el Juez de Primera Instancia de su vecindad, quien resolverá en juicio lo que corresponda. En dicho juicio figurará como demandado el Director del Registro Público de la Propiedad, y como terceros interesados las personas a quienes pueda afectar el registro. Si el acto se realizó fuera del territorio del Estado, el juicio a que se refiere este artículo se promoverá en el Primer Distrito Judicial.
 
@@ -7867,7 +7891,7 @@ I.- Los títulos por las cuales se adquiere, transmite, modifica, grava o exting
 
 II.- La constitución del patrimonio de familia;
 
-III.- Los contratos de arrendamiento de bienes inmuebles de casa habitación y en general, cuando el plazo exceda de tres años;
+III.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 1987)
 
 IV.- Las capitulaciones o convenios que celebren los cónyuges en relación con sus bienes matrimoniales;
 
@@ -8749,7 +8773,9 @@ ART. 2621.- Por la infracción del artículo anterior no se anulará el testamen
 
 ART. 2622.- El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza o depositarlo en el Registro Público de la Propiedad.
 
-El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento público cerrado depositado en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los notarios cuando ante ellos se tramite alguna sucesión.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+Los servidores públicos del Registro de la Propiedad no proporcionarán informes acerca del testamento publico cerrado depositado en la oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los Notarios cuando ante ellos se tramite alguna sucesión.
 
 ART. 2623.- El testador que quiera depositar su testamento en el Registro Público de la Propiedad, se presentará con él ante el director de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario, y el testador, a quien se dará copia autorizada.
 
@@ -8809,7 +8835,9 @@ ART. 2646.- Sólo cuando el original depositado haya sido destruido, robado o ex
 
 ART. 2647.- El testamento ológrafo quedará sin efecto siempre que se encuentre roto el pliego interior de modo que sea posible sospechar alteración; o rota la cubierta, de manera que sea posible cambiar el pliego interior; o borradas, raspadas, o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
 
-ART. 2648.- El encargado del Registro Público de la Propiedad no proporcionarán informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los notarios cuando ante ellos se tramite alguna sucesión.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+
+ART. 2648.- Los servidores públicos del Registro de la Propiedad, no proporcionarán informes acerca del testamento ológrafo depositado en la oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los Notarios cuando ante ellos se tramite alguna sucesión.
 
 ### CAPITULO V. DEL TESTAMENTO PRIVADO
 
@@ -9526,3 +9554,11 @@ DR. EMILIO MARTINEZ MANAUTOU.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ROBERTO PERALES MELENDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 23 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
