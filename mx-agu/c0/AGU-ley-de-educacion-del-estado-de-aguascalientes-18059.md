@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-18059"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-26"
-last_updated: "1997-03-26"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACION DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Alcance al Número 12 al Periódico Oficial del Estado de Aguascalientes, el miércoles 26 de marzo de 1997.
 
@@ -225,7 +225,9 @@ Para cumplir con lo anterior, las autoridades educativas en el ámbito de sus re
 
 I.- Atender de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos;
 
-II.- Evitar que requisitos o cuotas fijadas por autoridades escolares o asociaciones de padres de familia condicionen la inscripción y asistencia a clases, a quien no pueda cumplirlas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+II.- Prohibir que requisitos, aportaciones o cuotas fijadas por autoridades escolares o asociaciones de padres de familia condicionen la inscripción, reinscripción o asistencia a clases, en las escuelas públicas de los niveles preescolar, primaria y secundaria;
 
 III.- Desarrollar programas de apoyo a los maestros que realicen su labor en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
@@ -252,6 +254,10 @@ XIII.- Conceder reconocimientos y distinciones a quienes contribuyan a la consec
 XIV.- Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos y fines de la educación.
 
 El Gobierno del Estado, en concurrencia con la Federación, llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+El incumplimiento de las obligaciones establecidas en el presente artículo será sancionado en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
 ###### ARTICULO 18.
 
@@ -1198,3 +1204,9 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
