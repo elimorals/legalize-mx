@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "1995-05-09"
+last_updated: "2005-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -156,7 +156,7 @@ Aniversario de la Proclamación del Plan de Ayutla.
 
 > <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
 
-15 de marzo.
+15 de marzo:
 
 Apertura del segundo período de sesiones ordinarias del Congreso de la Unión.
 
@@ -258,7 +258,7 @@ Aniversario del inicio de la Revolución Mexicana en 1910.
 
 23 de noviembre.
 
-“Día de la Armada de México”
+"Día de la Armada de México"
 
 > <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1991)</small>
 
@@ -285,6 +285,18 @@ Aniversario de la muerte de Cuauhtémoc en 1525.
 10 de abril:
 
 Aniversario de la muerte de Emiliano Zapata en 1919.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+21 de abril:
+
+Aniversario de la gesta heroica de la Defensa del Puerto de Veracruz.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
+
+2 de mayo:
+
+Conmemoración de la muerte de los pilotos de la Fuerza Aérea Expedicionaria Mexicana, Escuadrón 201 en 1945.
 
 21 de mayo:
 
@@ -348,7 +360,7 @@ I.- Si la entrega tiene lugar a campo abierto, formará en línea de tres filas 
 
 II.- Si la ceremonia se efectúa en un salón, patio o cualquier otro sitio que no reúna las condiciones necesarias para las formaciones antes indicadas, el personal de la organización o instituto podrá adaptarse a las características del lugar.
 
-III.- Si hay banda de guerra, se mandará tocar "Atención", a cuyo toque, el abanderado, escoltado por cuatro miembros designados con anterioridad, se colocará frente al encargado de entregar la Bandera, quien será recibido por una comisión especial presidida por el director o representante de la organización o institución. Si no hubiere banda de guerra, los toques serán sustituídos por las órdenes de "Atención" y "Escolta": "Paso Redoblado";
+III.- Si hay banda de guerra, se mandará tocar "Atención", a cuyo toque, el abanderado, escoltado por cuatro miembros designados con anterioridad, se colocará frente al encargado de entregar la Bandera, quien será recibido por una comisión especial presidida por el director o representante de la organización o institución. Si no hubiere banda de guerra, los toques serán sustituidos por las órdenes de "Atención" y "Escolta": "Paso Redoblado";
 
 IV.- Enseguida, el encargado tomará la Bandera de manos de uno de sus ayudantes, la desplegará y se dirigirá al personal de la organización o instituto, en los siguientes términos:
 
@@ -665,3 +677,15 @@ SEGUNDO.- Las réplicas de la Bandera Nacional que existan actualmente en las de
 A partir de la fecha en que entran en vigor las presentes reformas, la elaboración de réplicas de la Bandera Nacional se apegará fielmente a lo preceptuado en esta Ley.
 
 TERCERO.- El Ejecutivo Federal expedirá el reglamento de esta Ley, en el que determinará las atribuciones que corresponden a cada dependencia del gobierno Federal y la coordinación entre éste y los gobiernos del Distrito Federal, los estados y los municipios.
+
+D.O.F. 3 DE ENERO DE 2005.
+
+DECRETO QUE ADICIONA LA FECHA DEL 21 DE ABRIL.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ENERO DE 2005.
+
+DECRETO QUE ADICIONA LA FECHA DEL 2 DE MAYO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
