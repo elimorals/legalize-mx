@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-navegacion-12534"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-16"
-last_updated: "1998-11-16"
+last_updated: "2000-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-10"
 
 REGLAMENTO DE LA LEY DE NAVEGACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento Publicado en la Primera Sección del Diario Oficial de la Federación el lunes 16 de noviembre de 1998.
 
@@ -45,9 +45,11 @@ Además de las definiciones a que se refiere el artículo 2o. de la Ley de Naveg
 
 I. Empresas, a las navieras mexicanas constituidas por personas físicas o morales;
 
-II. Ley, a la Ley de Navegación;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-III. Programa, al programa de abanderamiento de embarcaciones extranjeras, y
+II. Ley, a la Ley de Navegación, y
+
+III. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
 
 IV. Registro, al Registro Público Marítimo Nacional.
 
@@ -77,9 +79,15 @@ En los casos de las fracciones II a V del artículo 12 de la Ley, las embarcacio
 
 Los certificados de matrícula deberán contener:
 
-I. El nombre, matrícula, puerto de matrícula, nacionalidad, señal distintiva y unidades de arqueo bruto de la embarcación o artefacto naval, y
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+I. El nombre, matrícula, puerto de matrícula, nacionalidad, señal distintiva características de la embarcación o artefacto naval, y
 
 II. El nombre del propietario o, en su caso, del poseedor mediante contrato de fletamento a casco desnudo, y el domicilio de uno u otro, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Son características de las embarcaciones o artefactos navales: eslora, manga, puntal, unidades de arqueo bruto y neto, peso muerto, uso al que se destinará y tipo de navegación que realizará.
 
 ###### Artículo 8o.
 
@@ -99,51 +107,71 @@ a) Testimonio de la escritura pública de constitución y, en su caso, de reform
 
 b) Instrumento con que el representante legal acredite su personalidad, si el solicitante no actúa por sí mismo;
 
-c) Contrato, factura o documento con que se acredite la propiedad de la embarcación, o contrato de fletamento a casco desnudo, otorgado ante notario o corredor públicos, que demuestre la legítima posesión de la misma;
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+c) Contrato, factura o documento con que se acredite la propiedad de la embarcación o artefacto naval, o contrato de arrendamiento financiero, otorgado ante fedatario público, que demuestre su legítima posesión;
 
 d) Documento que acredite, en su caso, la dimisión de la bandera del país de procedencia y la baja de su registro, y
 
-e) Certificados vigentes que garanticen la seguridad para la navegación, de acuerdo con el tipo de embarcación;
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+e) Certificados vigentes que garanticen la seguridad para la navegación. En caso de que el interesado presente certificados extranjeros, éstos deberán sustituirse por los certificados mexicanos correspondientes;
 
 III. Declaración, bajo protesta de decir verdad, de que el solicitante es mexicano;
 
-IV. Nombre de la embarcación y sus características, así como un juego de fotografías, tomadas a cuarenta y cinco y noventa grados de la proa y de la popa, que tengan como fondo el agua;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-V. Copia del documento en que conste la aprobación del libro y cálculos de estabilidad que hubiere otorgado la autoridad marítima, cuando se trate de embarcaciones nuevas o que hayan sufrido modificaciones significativas de las que se indican en el artículo 15 del presente Reglamento, y
+IV. Nombre de la embarcación o artefacto naval y sus características;
+
+V. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
 
 VI. Copia del documento con que se acredite el pago de los derechos correspondientes.
 
-Si los documentos antes indicados se encuentran inscritos en el Registro, bastará con que los interesados entreguen una copia simple del que acredite dicha inscripción. La autoridad, dentro de los diez días hábiles siguientes a la presentación de la solicitud, devolverá al promovente los documentos que éste deba conservar.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Cuando los documentos indicados en la fracción II, incisos a) y c), sean de los que deben estar inscritos en el Registro, bastará con que los interesados indiquen el número de folio de inscripción. La autoridad, dentro de los diez días hábiles siguientes a la presentación de la solicitud, devolverá al promovente los documentos que éste deba conservar.
 
 Las embarcaciones propiedad del Estado Mexicano sólo cubrirán los requisitos previstos en las fracciones II, inciso e), IV y V de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Al solicitar la matrícula de la embarcación, se podrá pedir la señal distintiva de llamada para la misma, así como el abanderamiento de ésta o del artefacto naval, señalando en este último caso el puerto en que desea ser abanderado. En embarcaciones ya matriculadas mexicanas, bastará con que en su solicitud el interesado proporcione copia de su certificado de matricula, para que le sea asignada la señal distintiva de llamada.
 
 ###### Artículo 10.
 
 Al recibir las solicitudes de matrícula, la autoridad dispondrá lo necesario para que se efectúen las inspecciones de cubierta y máquinas y, en caso de que, a su juicio, el certificado de arqueo vigente de la embarcación no sea satisfactorio, ordenará su verificación. Mientras se realizan las inspecciones y verificaciones mencionadas, la capitanía de puerto otorgará el pasavante a que se refiere el artículo 22 de este Reglamento.
 
-Las inspecciones de cubierta y máquinas y, en su caso, la verificación del arqueo de la embarcación, se harán dentro de los veinte días hábiles siguientes a la fecha en que el interesado cubra su costo y, dentro del mismo plazo, deberán expedirse los certificados respectivos.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Las inspecciones de cubierta y máquinas y, en su caso, la verificación del arqueo de la embarcación, se harán dentro de los veinte días hábiles siguientes a la fecha en que el interesado cubra su costo y, dentro del mismo plazo, deberán expedirse los certificados respectivos. El interesado efectuará el correspondiente pago de derechos dentro de cinco días hábiles, a partir de que se le requiera y, en caso de no hacerlo se cancelará su trámite de matrícula.
 
 Las inspecciones y, en su caso, la verificación del arqueo, se harán por la autoridad, pero también podrán ser realizadas por personas físicas o morales mexicanas o sociedades clasificadoras de embarcaciones debidamente autorizadas para ello, las cuales serán responsables de los certificados que expidan.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 11.
 
-Una vez que se realicen las inspecciones y la verificación del arqueo, y después de pagados los derechos correspondientes, se expedirá el certificado de matrícula dentro de los cinco días hábiles siguientes, pudiendo portar la embarcación la bandera mexicana.
+La autoridad marítima deberá emitir el certificado de matrícula dentro de un plazo que no excederá de cinco días hábiles, contados a partir de la presentación de la solicitud y de que cuente con los certificados mexicanos de seguridad aplicables a la embarcación o artefacto naval.
 
 Si el interesado lo solicita, el capitán de puerto se trasladará a bordo de la embarcación y, en presencia de los propietarios o de los navieros o armadores o sus legítimos representantes y de la tripulación, hará la declaración de que aquélla es mexicana.
 
 En seguida se izará la bandera nacional y se levantará un acta que suscribirán la autoridad y el propietario o su representante. El original de la misma se enviará a la Secretaría y una copia se agregará al expediente que debe formarse en la capitanía de puerto de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 12.
 
-Las solicitudes de matrícula para embarcaciones menores o las de recreo o deportivas para uso particular, deberán cubrir los requisitos mencionados en el artículo 9o. de este Reglamento, salvo los señalados en la fracción V.
+Las solicitudes de matrícula para embarcaciones menores o las de recreo o deportivas para uso particular, deberán cubrir los requisitos mencionados en el artículo 9o. de este Reglamento.
 
 En estos casos, la capitanía de puerto efectuará, dentro de los diez días hábiles siguientes a la presentación de la solicitud a que se refiere el artículo 9o. de este Reglamento, una visita a tales embarcaciones para comprobar su buen estado de navegabilidad; y, si procede, las matriculará y expedirá los certificados respectivos dentro de los cinco días hábiles siguientes a la realización de la visita. En tanto se efectúa la visita señalada, la capitanía de puerto otorgará el pasavante a que se refiere el artículo 22 del presente Reglamento.
 
 De no haberse efectuado oportunamente la aludida visita, la Secretaría matriculará la embarcación y expedirá los certificados correspondientes dentro de los cinco días hábiles siguientes al vencimiento de los plazos a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 13.
 
-Expedido el certificado de matrícula, el propietario de la embarcación contará con cinco días hábiles para pintar en ella, en forma claramente visible, el nombre, el del puerto y el número de matrícula en las amuras y a popa de ésta, en color que contraste con el de la embarcación.
+Expedido el certificado de matrícula, el propietario de la embarcación o artefacto naval contará con cinco días hábiles para pintarle, en forma claramente visible, el nombre, el del puerto y el número de matrícula en las amuras y a popa, en color que contraste con el de la embarcación o artefacto naval, y dentro de los diez días posteriores, remitirá a la autoridad marítima dos fotografías, una de frente y otra de costado, que tengan como fondo el agua.
 
 En las embarcaciones mayores, la escala que indique el calado se grabará en cada lado de la roda y del codaste con números de ciento cincuenta y dos milímetros o seis pulgadas de altura, que serán romanos en una banda y arábigos en la otra, estarán separados entre sí por una distancia igual, se ubicarán de manera que sus extremos inferiores coincidan con la línea de agua, y serán pintados en color que contraste con el de la embarcación.
 
@@ -153,17 +181,21 @@ Las embarcaciones y artefactos navales que se adquieran en el extranjero podrán
 
 El cónsul que expida un pasavante de navegación tiene la obligación de dar aviso a la Secretaría inmediatamente después de hacerlo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 15.
 
-Cuando, previa aprobación de la Secretaría, se hagan modificaciones significativas a las embarcaciones o artefactos navales, que conlleven la alteración de sus dimensiones o su capacidad de transporte, o que tiendan a cambiar su clasificación o a prolongar su vida útil, los certificados de matrícula, seguridad, cubierta y máquinas serán reemplazados; el libro y los cálculos de estabilidad serán modificados, y unos y otros serán sometidos a la aprobación de la capitanía de puerto.
+Cuando, previa aprobación de la Secretaría, se hagan modificaciones significativas a las embarcaciones o artefactos navales, los certificados de matrícula, seguridad, cubierta y máquinas serán reemplazados; el libro y los cálculos de estabilidad serán sometidos a la aprobación de la capitanía de puerto.
 
 En tanto el capitán de puerto otorga la aprobación a que se refiere el párrafo anterior, deberá extender un pasavante en la forma que establece el artículo 22 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 16.
 
-Cuando una embarcación o artefacto naval cambie de propietario, el vendedor está obligado a dar aviso de ello a la capitanía de puerto de su matrícula, dentro de los veinte días hábiles siguientes al de la operación. El nuevo propietario deberá comprobar su capacidad legal para poseer embarcaciones nacionales, y presentar la solicitud de modificación de la matrícula con los datos y documentos a que se refiere el artículo 9o. de este Reglamento, salvo los indicados en sus fracciones II, incisos d) y e), y V. Tratándose de embarcaciones menores, deberán presentarse solamente los datos y documentos a que se refieren las fracciones I, II, incisos a), b) y c), y VI del mismo artículo.
+Cuando una embarcación o artefacto naval cambie de propietario, el vendedor está obligado a dar aviso de ello a la capitanía de puerto de su matrícula, dentro de los veinte días hábiles siguientes al de la operación. El nuevo propietario deberá comprobar su capacidad legal para poseer embarcaciones nacionales, y presentar la solicitud de modificación de la matrícula con los datos y documentos a que se refiere el artículo 9o. de este Reglamento, salvo los indicados en sus fracciones II, incisos d) y e), III, y IV, por lo que se refiere a las características de la embarcación. Tratándose de embarcaciones menores, deberá presentarse adicionalmente lo previsto en la fracción III del artículo 9o.
 
-Cumplidos estos requisitos, dentro de los cinco días hábiles siguientes al pago de los derechos correspondientes, el capitán de puerto expedirá el certificado de matrícula a nombre del nuevo propietario. Si no hubiere respuesta a la solicitud del interesado, la copia sellada de ella substituirá al certificado hasta que el mismo se expida.
+Dentro de los cinco días hábiles siguientes a la recepción de la solicitud, el capitán de puerto expedirá el certificado de matrícula a nombre del nuevo propietario. Si no hubiere dado respuesta a la solicitud del interesado, la copia sellada de ella sustituirá al certificado hasta que el mismo se expida.
 
 ###### Artículo 17.
 
@@ -171,9 +203,17 @@ Cuando el propietario o legítimo poseedor de una embarcación o artefacto naval
 
 Recibido el expediente, se expedirá el nuevo certificado de matrícula dentro del plazo que señala el artículo anterior. Si no hubiere respuesta a la solicitud del interesado, la copia sellada de ella substituirá al certificado hasta que el mismo se expida.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 18.
 
-Cuando el propietario o legítimo poseedor desee cambiar el nombre de una embarcación o artefacto naval, dará aviso a la capitanía de puerto de su matrícula mediante escrito que contenga los requisitos que se señalan en las fracciones I, II, inciso b), IV y VI del artículo 9o. del presente Reglamento. La capitanía de puerto expedirá el certificado de matrícula correspondiente cinco días hábiles después de que se hubiera presentado dicho escrito; y, de no haber respuesta, la copia sellada de la solicitud substituirá al certificado hasta que el mismo se expida.
+Cuando el propietario o legítimo poseedor desee cambiar el nombre de una embarcación o artefacto naval, lo solicitará a la capitanía de puerto de su matrícula mediante escrito que contenga los requisitos que se señalan en las fracciones I, II, inciso b), IV y VI del artículo 9 del presente Reglamento. La capitanía de puerto expedirá el certificado de matrícula correspondiente cinco días hábiles después de que se hubiera presentado dicho escrito y, de no haber respuesta, la copia sellada de la solicitud substituirá al certificado hasta que el mismo se expida.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 18-A.
+
+Cuando el propietario o legítimo poseedor de una embarcación o artefacto naval desee cambiar el tipo de navegación o uso de una embarcación deberá solicitarlo por escrito a la capitanía de puerto de su matrícula, proporcionando los requisitos a que se refieren las fracciones I, II, inciso b), en su caso, y IV, así como el número de matrícula, el nuevo tipo de navegación o uso, señalando las modificaciones que en su caso se hayan realizado a la embarcación o artefacto naval.
 
 ###### Artículo 19.
 
@@ -193,9 +233,11 @@ Todas las embarcaciones que no hayan tocado el puerto de su matrícula durante u
 
 ### Capítulo III. De los pasavantes
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 22.
 
-La capitanía de puerto que haya sido elegida para matricular una embarcación o artefacto naval, para permitir que el interesado cumpla con los requisitos que señala este Reglamento, expedirá un pasavante de navegación válido hasta por ciento ochenta días naturales, dentro de los cuales se deberá emitir el certificado de matrícula correspondiente. Los pasavantes se expedirán, a más tardar, cinco días hábiles después de presentada la solicitud correspondiente.
+La capitanía de puerto que haya sido elegida para matricular una embarcación o artefacto naval, para permitir que el interesado cumpla con los requisitos que señala este Reglamento, expedirá un pasavante de navegación válido hasta por veinticinco días hábiles, dentro de los cuales se deberá emitir el certificado de matrícula correspondiente. Los pasavantes se expedirán, a más tardar, cinco días hábiles después de presentada la solicitud de matrícula.
 
 Si, por causas imputables directa o indirectamente al interesado, no se expide el certificado de matrícula dentro del plazo señalado en el párrafo anterior, la embarcación quedará imposibilitada para navegar.
 
@@ -207,47 +249,47 @@ Una vez que la capitanía de puerto reciba el aviso de venta de una embarcación
 
 ### Capítulo IV. De la dimisión de bandera
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 24.
 
-La dimisión de bandera se autorizará si está garantizado el interés del fisco y el pago de salarios y prestaciones de la tripulación, incluidos los gastos de su repatriación hasta el puerto nacional en que haya sido contratada, y siempre que la embarcación esté libre de gravámenes y de cualquier otra responsabilidad, salvo pacto en contrario entre las partes. La Secretaría deberá emitir la resolución que corresponda en un plazo no mayor de diez días hábiles posteriores a la fecha de cumplimiento de estos requisitos y, si no lo hace, se entenderá que ha dado respuesta afirmativa.
+La dimisión de bandera se autorizará si está garantizado el interés del fisco y el pago de salarios y prestaciones de la tripulación, incluidos los gastos de su repatriación hasta el puerto nacional en que haya sido contratada, y siempre que la embarcación esté libre de gravámenes y de cualquier otra responsabilidad, salvo pacto en contrario entre las partes. La Secretaría deberá emitir la resolución que corresponda en un plazo no mayor de cinco días hábiles posteriores a la fecha de cumplimiento de estos requisitos y, si no lo hace, se entenderá que ha dado respuesta afirmativa.
 
 La dimisión de bandera de la embarcación llevará consigo la cancelación del certificado de matrícula.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ## Título tercero. Del programa de abanderamiento
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ### Capítulo I. De la inscripción en el programa de abanderamiento
 
 ###### Artículo 25.
 
-Las Empresas podrán inscribir en el Registro Público Marítimo Nacional dentro de un programa de abanderamiento a las embarcaciones extranjeras de su propiedad o que legítimamente posean en los términos de la Ley, las cuales gozarán del mismo trato que las embarcaciones mexicanas.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### Artículo 26.
 
-Corresponde a la Secretaría la organización y administración del Programa.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000).
 
 ###### Artículo 27.
 
-La Secretaría inscribirá embarcaciones y artefactos navales extranjeros en el Programa cuando las Empresas cumplan los siguientes requisitos:
-
-I. Comprueben estar inscritas en el Registro mediante la certificación o copia del asiento relativo;
-
-II. Presenten el documento que acredite la propiedad o legítima posesión de la embarcación o artefacto naval, que garantice su uso y le permita contar parcial o totalmente con tripulación mexicana a partir de su inscripción en el Programa. Cualquier modificación a dicho documento que afecte las condiciones de inscripción en el Programa, requerirá de la previa autorización de la Secretaría y deberá asentarse en el Registro;
-
-III. Exhiban los certificados de seguridad marítima, de prevención de la contaminación y de arqueo de la embarcación; un juego de fotografías tomadas a cuarenta y cinco y noventa grados de la proa y de la popa, que tenga como fondo el agua; copia del documento en que conste la descripción de las características de la embarcación y de los planos de construcción que requiera la autoridad, y copia certificada de la matrícula y del registro del país de procedencia, y
-
-IV. Presenten un calendario detallado del programa de substitución paulatina de la tripulación extranjera por nacional, la categoría que requiera tener cada uno de los tripulantes y la fecha propuesta para el abanderamiento definitivo. El calendario del programa de substitución no excederá de cinco años.
-
-Para apoyar el Programa, la Secretaría mantendrá actualizadas las listas e información del personal egresado de las escuelas náuticas a fin de que las embarcaciones cuenten con tripulación mexicana.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### Artículo 28.
 
-El plazo para el abanderamiento definitivo de las embarcaciones será autorizado por la Secretaría conforme a lo establecido en este título y con base en la disponibilidad de oficiales y subalternos mexicanos. El plazo original para el abanderamiento no será mayor de diez años.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### Artículo 29.
 
-La Secretaría, previa solicitud de la Empresa formulada dentro de los seis meses anteriores al vencimiento del plazo del compromiso de abanderamiento de las embarcaciones inscritas en el Programa, podrá prorrogarlo hasta por un lapso equivalente a la mitad del otorgado originalmente. Al hacer su solicitud, la Empresa deberá comprobar las causas que justifiquen que no se cumpla con el compromiso primeramente asumido. La resolución de la Secretaría se dictará en un plazo no mayor de treinta días hábiles contados a partir de la presentación de la solicitud. De no haber respuesta, se considerará otorgada la prórroga.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ### Capítulo II. De las obligaciones y de los derechos de las Empresas
+
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 30.
 
@@ -255,19 +297,29 @@ En la aplicación de sus respectivos programas y de conformidad con el calendari
 
 Al término del plazo autorizado para proceder al abanderamiento de la embarcación, toda la tripulación deberá ser mexicana.
 
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+
 ###### Artículo 31.
 
 Las Empresas que cuenten con embarcaciones inscritas en el Programa deberán informar a la Secretaría, semestralmente, sobre el cumplimiento que hayan dado a los compromisos asumidos por ellas.
+
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 32.
 
 Una Empresa podrá transferir la embarcación inscrita en el Programa, con todos sus derechos y obligaciones, a otra que reúna los requisitos señalados en las fracciones I y II del artículo 27 del presente Reglamento. Una vez cubiertos estos requisitos, la Secretaría procederá a inscribir la transferencia previo el pago de los derechos correspondientes.
 
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+
 ###### Artículo 33.
 
 En caso de que una Empresa tuviere opción de compra de una embarcación inscrita en el Programa y no la ejerciere, podrá substituirla por otra de características similares conforme a los criterios establecidos en este Reglamento, y abanderarla como mexicana dentro del plazo aprobado por la Secretaría para la embarcación original. Para estos efectos, la Empresa dará el aviso respectivo a la Secretaría, y exhibirá los documentos a que se refieren las fracciones II y III del artículo 27 de este Reglamento. Una vez cumplidos estos requisitos, la Secretaría procederá a inscribir la embarcación en el Registro, previo pago de los derechos correspondientes.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ### Capítulo III. Del incumplimiento del programa de abanderamiento y de las infracciones
+
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 34.
 
@@ -283,13 +335,15 @@ IV. La Empresa retire voluntariamente su embarcación del Programa.
 
 En los casos de las fracciones I a III, la Secretaría concederá a la Empresa un plazo de quince días hábiles para que manifieste lo que a su derecho convenga y presente sus pruebas y defensas. Con base en éstas, dictará la resolución correspondiente dentro de los siguientes quince días hábiles.
 
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+
 ###### Artículo 35.
 
 La Empresa que haya sido beneficiada con la inscripción de embarcaciones en el Programa deberá, cuando la misma se cancele por cualquiera de las causas señaladas en el artículo anterior, restituir al Estado los beneficios y exenciones de que hubiere disfrutado durante el tiempo de vigencia de la inscripción, incluyendo los derechos por los permisos temporales de navegación que hubiera debido obtener como embarcación extranjera en los términos de la Ley y de este Reglamento.
 
 ###### Artículo 36.
 
-Si la Empresa beneficiada no cumple con las obligaciones derivadas de su inscripción en el Programa será sancionada por la Secretaría de conformidad con lo establecido en el artículo 139, fracción I, de la Ley, independientemente de lo dispuesto en el artículo anterior.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ## Título cuarto. Del Registro Público Marítimo Nacional
 
@@ -357,11 +411,17 @@ En el Registro se manejará un sistema de secciones y folios para hacer las insc
 
 Los documentos en que consten los actos objeto de registro se inscribirán en los folios siguientes:
 
-I. En el folio marítimo, todos los relativos a embarcaciones o artefactos navales que precisen de registro en los términos de la Ley;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-II. En el folio de empresas, los relativos a navieros, sean personas físicas o morales, a la constitución y reformas de empresas navieras, armadores y agentes navieros;
+I. En el folio marítimo, todos los relativos a embarcaciones o artefactos navales.
 
-III. En el folio de programa de abanderamiento, los relativos a las embarcaciones extranjeras que sean propiedad o estén en posesión legal de navieros o Empresas y que hayan sido autorizadas por la Secretaría para incorporarse al Programa a que se refiere el artículo 15 de la Ley, así como la autorización expedida por la Secretaría y el contrato de adquisición, o aquél del que derive la posesión legal de la embarcación, y
+Sólo requerirán inscribirse los documentos de las embarcaciones o artefactos navales de quinientas unidades de arqueo bruto o más, y las que se destinen a la presentación de servicios sujetos a permiso en los términos de la Ley de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+II. En el folio de empresas, los relativos a navieros, sean personas físicas o morales, a la constitución y reformas de empresas navieras, armadores y agentes navieros, y
+
+III. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
 
 IV. En el folio especial para embarcaciones en tráficos internacionales, las autorizaciones que expida la Secretaría para que las mexicanas se dediquen exclusivamente al transporte marítimo internacional.
 
@@ -393,17 +453,29 @@ Los documentos que requieran de inscripción deberán presentarse por los intere
 
 Cuando en una oficina que no sea la competente se presente una solicitud de registro o algún documento que deba inscribirse en un folio que ya esté abierto en otra oficina, la receptora remitirá la solicitud a la que sea competente. La presentación surtirá efectos a partir del momento en que la última lo reciba.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 45.
 
-Recibido un documento, se procederá a su calificación integral, en un plazo de cinco días hábiles, para determinar si procede su inscripción de acuerdo con las disposiciones aplicables.
+El registrador procederá a realizar la inscripción correspondiente dentro de los siguientes plazos:
+
+I. Un día hábil, en caso de inscripción de empresas navieras en su modalidad de persona física, de inscripción y cancelación de matrícula;
+
+II. Diez días hábiles, en caso de agente naviero general o consignatario de buque;
+
+III. Quince días hábiles, tratándose de inscripción de empresa naviera en su modalidad de persona moral, y
+
+IV. Dos días hábiles, en los demás casos.
 
 Procederá la suspensión del trámite en los casos de omisiones o defectos subsanables y la denegación cuando éstos sean insubsanables.
 
-Si el registrador suspende o deniega la inscripción, lo notificará al interesado, quien contará con diez días hábiles para subsanar las irregularidades o recurrir la resolución.
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Si el registrador suspende o deniega la inscripción, lo notificará al interesado, quien contará con cinco días hábiles para recurrir la resolución.
 
 Si en el plazo mencionado el interesado no cumple con los requisitos exigidos, ni interpone el recurso que proceda, el documento respectivo se le devolverá o se pondrá a su disposición.
 
-Cuando el interesado subsane las omisiones o defectos, la oficina hará la inscripción dentro de los siguientes cinco días hábiles.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 Los documentos que no sean retirados dentro de los treinta días hábiles siguientes a la notificación serán remitidos al archivo general del Registro.
 
@@ -523,13 +595,107 @@ Los propietarios u operadores de embarcaciones pesqueras recabarán los boletine
 
 Para practicar la navegación interior o de cabotaje, las embarcaciones que transporten mercancías peligrosas a granel o en bulto, o cuyos cargamentos, en caso de avería, puedan contaminar el medio ambiente, deberán cumplir con lo establecido en las disposiciones jurídicas y en las normas oficiales mexicanas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 65-A.
+
+Para extraer, remover o reflotar una embarcación, aeronave, artefacto naval o su carga, que se encuentre a la deriva, en peligro de hundimiento, hundido o varado, y que, a juicio de la autoridad marítima, no constituya un peligro o un obstáculo para la navegación, la operación portuaria, la pesca u otras actividades marítimas relacionadas con las vías navegables o para la preservación del medio ambiente, el propietario o la persona que acredite su derecho sobre éstos o su carga, deberá solicitar a la Secretaría la autorización correspondiente, previo el cumplimiento de los siguientes requisitos:
+
+I. Acreditar la propiedad o derechos sobre la embarcación, aeronave, artefacto naval o su carga, según el caso;
+
+II. Presentar el certificado libre de gases inflamables;
+
+III. En caso de desguace, presentar, además de lo señalado en las dos fracciones anteriores la cancelación del certificado de matrícula o registro de la embarcación a desmantelar (nacional o extranjera), y
+
+IV. Proporcionar los siguientes datos:
+
+a) Nombre de la embarcación que se pretende desguazar o remover, bandera;
+
+b) Unidades de arqueo bruto;
+
+c) Nombre, dirección y teléfono de la persona que se hará cargo de vigilar la realización de los trabajos de desguace o remoción;
+
+d) Lugar del hundimiento o desguace;
+
+e) Fecha de inicio y término de los trabajos de desguace o remoción, y
+
+f) Además de lo anterior, en caso de remoción de embarcaciones o derrelictos marítimos, se deberá proporcionar:
+
+i. Fecha del hundimiento, en su caso;
+
+ii. Destino de la remoción, y
+
+iii. Compromiso de no utilizar explosivos o dinamita, y
+
+Recibida la solicitud y de ser procedente la autorización, el interesado deberá constituir ante la autoridad marítima fianza, cuyo monto será calculado con base en el daño que causaría el abandono, por el plazo que se requiera para realizar los trabajos.
+
+La Secretaría deberá resolver la solicitud en un plazo que no excederá de diez días hábiles.
+
 ### Capítulo II. Del arribo y despacho de embarcaciones
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 66.
 
-Para el arribo y despacho de embarcaciones mayores se estará a lo previsto en los artículos 39 y 41 de la Ley y, en uno y otro casos, se exhibirá la lista de tripulantes y la de pasajeros, si los hubiere.
+Para autorizar el arribo de embarcaciones mayores a puerto, la autoridad marítima exigirá:
 
-Cuando el despacho implicare peligro para las embarcaciones mayores según el informe meteorológico oficial, la autoridad marítima podrá otorgarlo si los capitanes de aquéllas lo solicitan mediante carta responsiva redactada en español y ratificada ante la propia autoridad, en la cual manifiesten que tienen pleno conocimiento de los informes meteorológicos; que, dadas las características de seguridad y navegabilidad de sus embarcaciones, las condiciones de la zona en que navegarán y sus planes de navegación, garantizan que no existe peligro para las embarcaciones y sus bienes, ni para sus tripulaciones y pasajeros; y que asumen, bajo su exclusivo riesgo, la absoluta responsabilidad por cualquier daño que pudiere sobrevenir.
+I. En navegación de cabotaje:
+
+a) Despacho de salida del puerto de origen;
+
+b) Manifiesto de carga y declaración de mercancías peligrosas;
+
+c) Lista de tripulantes y, en su caso, de pasajeros, y
+
+d) Diario de navegación, y
+
+II. En navegación de altura, además de los documentos señalados en la fracción anterior:
+
+a) Autorización de la libre plática;
+
+b) Patente de sanidad;
+
+c) En su caso, lista de pasajeros que habrán de internarse en el país y de los que volverán a embarcar;
+
+d) Certificado de arqueo;
+
+e) Declaración general;
+
+f) Declaración de provisiones a bordo, y
+
+g) Declaración de efectos y mercancías de la tripulación.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 66-A.
+
+Para hacerse a la mar, las embarcaciones mayores requerirán de un despacho del puerto que expedirá la autoridad marítima, para lo cual se les exigirá:
+
+I. Patente de sanidad, salvo en el caso de navegación de cabotaje;
+
+II. Certificado de no adeudo o garantía de pago, por el uso de infraestructura o daños causados a ésta;
+
+III. Certificados de seguridad que demuestren el buen estado de la embarcación;
+
+IV. Cálculo y plan de estiba de la carga, y
+
+V. Lista de tripulantes y pasajeros, si los hubiere.
+
+Los despachos quedarán sin efecto si no se hiciere uso de ellos, dentro de las cuarenta y ocho horas siguientes a su expedición.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 66-B.
+
+Las embarcaciones pesqueras que efectúen navegación vía la pesca, para obtener el despacho correspondiente deberán exhibir ante la autoridad marítima la concesión, permiso o autorización expedida por la dependencia federal competente en materia pesquera, y la vigencia del despacho no deberá exceder los noventa días naturales, siempre y cuando esté dentro de la vigencia del documento que autorice la actividad pesquera.
+
+El naviero estará obligado a dar el aviso de entrada y salida, cada vez que lo hagan al amparo del despacho vigente, debiendo informar por escrito a la autoridad marítima de su tripulación, personal pesquero, rumbo y áreas probables donde vaya a efectuar la pesca.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 66-C.
+
+Cuando el despacho implicare peligro para las embarcaciones mayores según el informe meteorológico oficial, la autoridad marítima podrá permitir que se hagan a la mar si los capitanes de aquéllas lo solicitan mediante carta responsiva redactada en español y ratificada ante la propia autoridad, en la cual manifiesten que tienen pleno conocimiento de los informes meteorológicos; que, dadas las características de seguridad y navegabilidad de sus embarcaciones, las condiciones de la zona en que navegarán y sus planes de navegación, garantizan que no existe peligro para las embarcaciones y sus bienes, ni para sus tripulaciones y pasajeros; y que asumen, bajo su exclusivo riesgo, la absoluta responsabilidad por cualquier daño que pudiere sobrevenir.
 
 ###### Artículo 67.
 
@@ -599,9 +765,11 @@ III. Establecer contacto físico, fuera de puerto, con otra embarcación que efe
 
 ### Capítulo III. De los servicios en navegación interior o de cabotaje
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 73.
 
-Los navieros mexicanos podrán practicar la navegación interior o la de cabotaje sin necesidad de permiso, cuando operen embarcaciones que sean mexicanas o que estén inscritas en el Programa, y siempre que no presten alguno de los servicios mencionados en la fracción l del artículo 35 de la Ley. Asimismo, quedan comprendidos en esta disposición los servicios de remolque maniobra y los de lanchaje de que se trata en el artículo 83 del presente Reglamento.
+Los navieros mexicanos podrán practicar la navegación interior o la de cabotaje sin necesidad de permiso, cuando operen embarcaciones que sean mexicanas y siempre que no presten alguno de los servicios mencionados en la fracción l del artículo 35 de la Ley. Asimismo, quedan comprendidos en esta disposición los servicios de remolque maniobra y los de lanchaje de que se trata en el artículo 83 del presente Reglamento.
 
 Tampoco se requerirá de permiso, cualquiera que sea la nacionalidad de los navieros o de las embarcaciones, cuando la navegación interior o de cabotaje se practique en embarcaciones de recreo o deportivas de uso particular.
 
@@ -611,37 +779,31 @@ Los navieros mexicanos o extranjeros podrán prestar, en navegación interior y 
 
 Para los efectos de este Reglamento, por crucero turístico se entiende la navegación, con itinerario preestablecido, de una embarcación de pasajeros equipada para brindar servicios de pernocta, descanso y recreativos a bordo y en puerto.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 75.
 
-El servicio de turismo náutico en navegación interior o de cabotaje de que se trata en la fracción I, inciso b), del artículo 35 de la Ley podrá prestarse, previo permiso de la Secretaría, por navieros mexicanos que utilicen embarcaciones que sean mexicanas, o que se hallen registradas en el Programa, o que, siendo extranjeras, estén depositadas en una marina autorizada.
+El servicio de turismo náutico en navegación interior o de cabotaje de que se trata en la fracción I, inciso b), del artículo 35 de la Ley podrá prestarse, previo permiso de la Secretaría, por navieros mexicanos que utilicen embarcaciones que sean mexicanas, o que, siendo extranjeras, estén depositadas en una marina autorizada.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 76.
 
-Para prestar los servicios que se mencionan en la fracción I del artículo 35 de la Ley, en navegación interior, se requieren permisos de la Secretaría, los cuales, a menos que se trate de los servicios regulados en los dos artículos precedentes, se concederán a navieros mexicanos que se comprometan a brindar los servicios con embarcaciones mexicanas o inscritas en el Programa. De no existir estas embarcaciones, los permisos se otorgarán a navieros mexicanos que exploten embarcaciones extranjeras. De no haber interés de éstos, dichos permisos se podrán otorgar a navieros extranjeros que operen embarcaciones extranjeras.
+Para prestar los servicios que se mencionan en la fracción I del artículo 35 de la Ley, en navegación interior, se requieren permisos de la Secretaría, los cuales, a menos que se trate de los servicios regulados en los dos artículos precedentes, se concederán a navieros mexicanos que se comprometan a brindar los servicios con embarcaciones. De no existir estas embarcaciones, los permisos se otorgarán a navieros mexicanos que exploten embarcaciones extranjeras. De no haber interés de éstos, dichos permisos se podrán otorgar a navieros extranjeros que operen embarcaciones extranjeras.
 
 ###### Artículo 77.
 
-Para prestar los servicios que se mencionan en la fracción I del artículo 35 de la Ley, en navegación de cabotaje, se requieren permisos de la Secretaría, los cuáles, a menos de que se trate de los servicios regulados en los artículos 74 y 75 de este Reglamento, se otorgarán a navieros mexicanos con embarcaciones mexicanas o inscritas en el Programa y a los navieros extranjeros con embarcaciones extranjeras, si el gobierno mexicano ha convenido condiciones de reciprocidad y equivalencia con los países de que aquéllos o éstas sean nacionales.
-
-Con objeto de garantizar la continuidad en la prestación de los servicios de transporte marítimo de cabotaje a que se refiere al artículo 35 de la Ley, si las embarcaciones mexicanas o inscritas en el Programa no estuvieren disponibles o no fueren adecuadas para prestar el servicio de que se trate, o si así lo requiere el interés público, la autoridad marítima otorgará permisos a navieros mexicanos que operen embarcaciones extranjeras de su propiedad o bajo su legítima posesión. En el caso a que se refiere este párrafo, se preferirán, en el riguroso orden siguiente, a las embarcaciones que estén sujetas a un contrato:
-
-I. De fletamento o arrendamiento, a casco desnudo;
-
-II. De cualquier naturaleza siempre que el interesado tenga registrada a su nombre, por lo menos, otra embarcación mayor de las descritas en el artículo 9, fracción II, inciso a), de la Ley, o bien posea legalmente otra de más de mil quinientos caballos de fuerza, y con tal de que estas otras embarcaciones se hallen matriculadas como mexicanas o estén inscritas en el Programa, y
-
-III. De fletamento por tiempo.
-
-De no existir navieros mexicanos interesados, la autoridad marítima podrá otorgar permisos a navieros extranjeros con embarcaciones extranjeras.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### Artículo 78.
 
-Para los efectos del artículo anterior, reciprocidad es la acción por la cual México otorga a embarcaciones, empresas y navieros extranjeros derechos y tratamientos análogos a los que sus respectivos países otorgan a los mexicanos.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
-Por su parte, equivalencia significa que los servicios se prestan en condiciones de competencia y libre concurrencia, sin que su remuneración se desvirtúe por subvenciones a los nacionales de otro Estado o por la existencia de discriminación de precios que constituyan prácticas desleales en el comercio internacional.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 79.
 
-Si los permisos a que se refiere el artículo 77 del presente Reglamento pretenden otorgarse por ausencia de navieros mexicanos interesados o por indisponibilidad o inadecuación de embarcaciones que sean mexicanas o que se hallen inscritas en el Programa, la Secretaría, antes de concederlos, consultará con las cámaras u organizaciones empresariales de navieros, dentro de los tres días hábiles siguientes a la presentación de la solicitud, si en efecto se dan las circunstancias apuntadas. Si la consulta no fuere desahogada dentro de los cinco días hábiles posteriores a su formulación, la Secretaría resolverá lo conducente.
+Si los permisos a que se refiere el artículo 34 de la Ley, pretenden otorgarse por no existir embarcaciones mexicanas disponibles y en igualdad de condiciones técnicas y precio, o porque el interés público lo exija, la Secretaría, antes de concederlos, consultará con las cámaras u organizaciones empresariales de navieros, dentro de los tres días hábiles siguientes a la presentación de la solicitud, si en efecto se dan las circunstancias apuntadas. Si la consulta no fuere desahogada dentro de los cinco días hábiles posteriores a su formulación, la Secretaría resolverá lo conducente.
 
 Para los efectos del párrafo precedente, las cámaras u organizaciones empresariales de navieros tendrán la obligación de hacer del conocimiento de los posibles interesados, las consultas que les formule la Secretaría.
 
@@ -651,25 +813,37 @@ Cuando se requiera permiso para la explotación de embarcaciones, deberá formul
 
 I. Por lo que toca a los navieros:
 
-a) Si son mexicanos, la constancia de inscripción en el Registro, y
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+a) Si son mexicanos, acreditar estar inscritos en el Registro, y
 
 b) Si son extranjeros, la certificación de su carácter de navieros en el lugar en que tengan su domicilio social o su sede real y efectiva de negocios;
 
 II. En lo que respecta a las embarcaciones:
 
-a) Los instrumentos que acrediten la propiedad o legítima posesión;
+> <small>N. DE E. EL CONTENIDO DEL INCISO D) QUEDO SUBSUMIDO EN EL PRESENTE APARTADO, AÚN Y CUANDO EL LEGISLADOR NO HACE UNA REFERENCIA CLARA Y PRECISA.</small>
 
-b) Las certificaciones que garanticen la navegabilidad y operación segura; las pólizas de seguros de tripulantes, y viajeros, en su caso, así como los de daños a terceros;
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-c) Si son mexicanas o si deben ser consideradas como tales, el certificado de inscripción de la matrícula en el Registro, o de su inscripción en el Programa, y
+a) Si son extranjeras, los instrumentos que acrediten la propiedad o legítima posesión, y la constancia de que están registradas en su país de origen;
 
-d) Si son extranjeras, la constancia de que están registradas en su país de origen, y
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+b) Los certificados de seguridad aplicables al tipo de embarcación y al servicio de que se trate; las pólizas de seguros de tripulantes o comprobante de afiliación al Instituto Mexicano del Seguro Social, y viajeros, en su caso, así como los de daños a terceros, y
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+c) Si son mexicanas el certificado de inscripción de la matrícula, y
 
 III. En tratándose de los servicios mencionados en los tres primeros incisos de la fracción I del artículo 35 de la Ley, en adición a los anteriores y según sea el caso:
 
-a) La indicación de los puertos o puntos entre los cuales se prestarán servicios de cabotaje, inclusive cuando se trate de cruceros turísticos;
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+a) Ruta indicando los puertos o puntos entre los cuales se prestarán dichos servicios;
 
 b) El plano del área en que se brindarán servicios de recorridos turísticos o turismo náutico, la cual deberá reunir condiciones de seguridad en cuanto a sus dimensiones y conformación natural y en lo que respecta al número de embarcaciones que operen en ella;
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 c) El contrato de depósito en una marina autorizada y el correspondiente permiso de importación, si se han de proporcionar servicios de turismo náutico en una embarcación extranjera;
 
@@ -679,9 +853,27 @@ e) El permiso de la autoridad federal competente en materia ambiental, cuando cu
 
 Cuando los documentos a que se refiere este artículo estén redactados en algún idioma que no sea el español, deberá acompañarse su traducción a éste, hecha por perito autorizado; y, si provienen del extranjero, se exhibirán debidamente apostillados o legalizados y protocolizados ante fedatario público, según proceda. El requisito de traducción no será exigible respecto de los certificados de la embarcación si éstos se hallan expedidos en inglés o francés.
 
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 80-A.
+
+En caso de permisos de navegación interior y de cabotaje a embarcación extranjera, o de autorización de permanencia en aguas nacionales a artefacto naval extranjero, además de lo previsto en los tratados internacionales vigentes suscritos por el gobierno mexicano y lo señalado en las fracciones I, inciso a, y II del artículo anterior, el interesado deberá presentar:
+
+I. Contrato de servicio celebrado entre la naviera solicitante del permiso y la empresa que requiere el citado servicio;
+
+II. Seguros para cubrir cualquier siniestro, daños a instalaciones marinas y contaminación del mar, y
+
+III. En su caso, permiso de pesca expedido por la autoridad federal competente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 81.
 
-Cumplidos los requisitos, la Secretaría otorgará el permiso correspondiente dentro de un plazo no mayor de cuarenta y cinco días naturales, salvo cuando concurran circunstancias especiales cuyo análisis requiera de más tiempo, caso en el cual, dentro de los cinco días hábiles siguientes a la recepción de la solicitud, deberá notificar al peticionante los motivos y fundamentos que determinen la necesidad de un lapso mayor, mismo que no excederá de noventa días naturales.
+La Secretaría resolverá las solicitudes de permiso, dentro de los siguientes plazos:
+
+I. En diez días hábiles, los de navegación para embarcaciones extranjeras cuando no las haya de bandera mexicana, y
+
+II. En quince días hábiles, para la prestación de servicios de crucero turístico, pasajeros, turismo náutico y seguridad, salvamento o auxilio a la navegación.
 
 Si transcurrieren los lapsos señalados en el párrafo anterior sin que la Secretaría resuelva lo procedente, el permiso solicitado se entenderá conferido.
 
@@ -699,7 +891,9 @@ Los permisos antes mencionados podrán renovarse por plazos iguales al original 
 
 La Secretaría podrá revocar los permisos otorgados cuando, por cualquier circunstancia y en cualquier tiempo, dejen de darse las condiciones de seguridad que se mencionan en el artículo 80, fracción III, inciso b), de este Reglamento.
 
-Los permisos de navegación que se otorguen a embarcaciones extrajeras cuando no las haya de bandera mexicana disponibles tendrán una duración de noventa días naturales.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+Los permisos de navegación as que se refiere el artículo 34 de la Ley, que se otorguen a embarcaciones extrajeras cuando no las haya de bandera mexicana disponibles, tendrán una duración de noventa días naturales. Los interesados podrán solicitar la prórroga de estos permisos, siempre y cuando persistan las mismas circunstancias que dieron origen a su otorgamiento, debiendo presentar únicamente los certificados , contratos y seguros que hayan perdido vigencia.
 
 ###### Artículo 83.
 
@@ -747,15 +941,17 @@ Las personas morales prestarán el servicio por conducto de pilotos de puerto qu
 
 Para obtener permiso para prestar el servicio de pilotaje, el interesado deberá presentar solicitud por escrito a la Secretaría y proporcionar los datos y documentos siguientes:
 
-I. Lugar donde pretenda prestarse el servicio;
+I. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
 
-II. Nombre, nacionalidad y domicilio del solicitante, así como copias certificadas del acta de nacimiento y del certificado de competencia, si se trata de persona física; o del acta constitutiva y sus reformas, así como de los certificados de competencia de los pilotos que la integran, si se trata de persona moral;
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+II. Nombre, nacionalidad y domicilio del solicitante, así como del certificado de competencia, si se trata de persona física; o del acta constitutiva y sus reformas, si se trata de persona moral;
 
 III. Poder suficiente si el solicitante actúa a través de representante;
 
 IV. Si se trata de persona moral, relación de los pilotos con certificado de competencia por cuyo conducto prestará el servicio, y copia de los contratos celebrados con ellos;
 
-V. Documentos que acrediten que cuenta con capacidad técnica y financiera, y
+V. (DEROGADA, D.O.F. 8 DE AGOSTO DE 2000)
 
 VI. Los demás que el solicitante considere conveniente.
 
@@ -799,9 +995,19 @@ II. Copia certificada del acta de nacimiento, con la que acreditará tener menos
 
 III. Copia del título profesional que acredite el grado respectivo;
 
-IV. Constancia, expedida por la Secretaría, de que aprobó el examen de aptitud psicofísica, la cual tendrá una vigencia de treinta días hábiles, y
+> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-V. Certificado vigente de observador de radar.
+IV. Constancia, expedida por la Secretaría o por tercero autorizado por ésta, de que aprobó el examen de aptitud psicofísica;
+
+V. Certificado vigente de observador de radar;
+
+> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+VI. Certificado vigente del curso de técnicas de supervivencia de la vida humana en el mar, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+VII. Dos fotografías, de acuerdo al formato que emita la Secretaría.
 
 ###### Artículo 96.
 
@@ -841,17 +1047,17 @@ Para la evaluación del examen práctico, el capitán de la embarcación en que 
 
 Terminados los exámenes teórico y práctico, se levantarán en la capitanía de puerto las actas correspondientes, las cuales indicarán si los mismos fueron aprobados y consignarán las calificaciones del jurado y el promedio general. Las actas se firmarán por el jurado y por el examinado, quien recibirá un ejemplar de ellas.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 101.
 
-Si los resultados de los exámenes fueren aprobatorios, la Secretaría expedirá el certificado de competencia dentro de los veinte días hábiles siguientes. De no hacerlo, el acta a que se refiere el artículo 100 de este Reglamento, suplirá al certificado de competencia hasta que el mismo se expida.
+Si los resultados de los exámenes fueren aprobatorios, la Secretaría expedirá el certificado de competencia dentro de los quince días hábiles siguientes. De no hacerlo, el acta a que se refiere el artículo 100 de este Reglamento, suplirá al certificado de competencia hasta que el mismo se expida.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 102.
 
-El certificado de competencia estará en vigor hasta que el piloto de puerto cumpla sesenta y cinco años de edad, siempre que presente a la Secretaría, cada cinco años:
-
-I. Certificado médico expedido por personal acreditado de la Secretaría que lo declare apto para desempeñar la función de piloto de puerto, conforme a estándares internacionales; y
-
-II. Certificado vigente de observador de radar.
+El certificado de competencia estará en vigor hasta que el piloto de puerto cumpla sesenta y cinco años de edad, siempre que presente a la Secretaría, cada cinco años los documentos indicados en las fracciones IV y VI del artículo 95 de este Reglamento, así como el certificado que actualiza.
 
 ###### Artículo 103.
 
@@ -1045,9 +1251,11 @@ Para ser miembro del Resguardo Marítimo Federal se deberán aprobar los exámen
 
 ### Capítulo único. De las bases tarifarias del transporte de pasajeros
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 131.
 
-Cuando no exista competencia efectiva en la prestación del servicio regular de transporte de cabotaje de pasajeros, la Secretaría, previa opinión favorable de la Comisión Federal de Competencia, establecerá las bases tarifarias aplicables, para lo cual se sujetará al procedimiento siguiente:
+Cuando no exista competencia efectiva en la prestación del servicio regular de transporte de cabotaje de pasajeros o en la de otros servicios de transporte por agua mediante conocimiento de embarque o contrato de fletamento, la Secretaría, previa opinión favorable de la Comisión Federal de Competencia, establecerá las bases tarifarias aplicables, para lo cual se sujetará al procedimiento siguiente:
 
 I. Requerirá a los prestadores del servicio que presenten, en un plazo de treinta días naturales, la información necesaria para elaborar la base tarifaria;
 
@@ -1094,3 +1302,13 @@ TERCERO. Los certificados de competencia y los nombramientos de los pilotos de p
 CUARTO. Las solicitudes que se encuentren en trámite al momento de la entrada en vigor del presente Reglamento, se sujetarán al mismo en lo que beneficie a los solicitantes.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen.
+
+TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den incumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación.
