@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2003-09-11"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -513,7 +513,9 @@ La Secretaría cuidará de la exacta aplicación y ejecución del presupuesto ap
 
 Artículo 58 bis.- El Titular del Poder Ejecutivo, por conducto de la Secretaría, formulará mensualmente el estado de origen y aplicación de los recursos financieros y tributarios, mismo que se publicará cada mes en el Periódico Oficial "El Estado de Jalisco" y de manera bimestral en uno de los periódicos de mayor circulación en la entidad.
 
-Los Poderes del Estado, municipios y sus dependencias y entidades que ejerzan recursos provenientes del presupuesto estatal, deberán publicar en estrados o por cualquier medio electrónico que consideren pertinente, dentro de los veinte días siguientes al cierre de la contabilidad mensual sus estados financieros, por un término de treinta días. La misma información será remitida a la Contaduría Mayor de Hacienda del Congreso del Estado, dentro de ese mismo plazo, para su consulta pública y demás efectos legales.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Los Poderes del Estado, municipios y sus dependencias y entidades que ejerzan recursos provenientes del presupuesto estatal, deberán publicar en estrados y por cualquier medio electrónico que consideren pertinente, dentro de los veinte días siguientes al cierre de la contabilidad mensual sus estados financieros, por un término de treinta días. La misma información será remitida al Congreso del Estado a través de la Auditoría Superior del Estado, dentro de ese mismo plazo, para su consulta pública y demás efectos legales.
 
 Los egresos publicados conforme al párrafo anterior deberán desglosarse conteniendo el concepto y finalidad del gasto, nombre y domicilio del destinatario, así como fecha del pago y cantidad.
 
@@ -727,11 +729,11 @@ El archivo contable gubernamental consta de registros contables y documentación
 
 La Secretaría será la responsable del archivo contable gubernamental, debiendo mantenerlo actualizado en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 93.
 
-El Poder Ejecutivo a través de la Secretaría, los Poderes Legislativo y Judicial, así como las Entidades, están obligadas a conservar documentación comprobatoria de su contabilidad de archivos físicos por seis años. El Congreso del Estado, a través de la Contaduría Mayor de Hacienda, podrá autorizar la destrucción de la documentación del primer año de la administración saliente, al inicio de una nueva, siempre y cuando se haya emitido la aprobación de la última cuenta pública anual de la que concluye su ejercicio constitucional.
+El Poder Ejecutivo a través de la Secretaría, los Poderes Legislativo y Judicial, así como las Entidades, están obligadas a conservar documentación comprobatoria de su contabilidad de archivos físicos por seis años. El Congreso del Estado, a través de la Auditoría Superior del Estado, podrá autorizar la destrucción de la documentación del primer año de la administración saliente, al inicio de una nueva, siempre y cuando se haya emitido la aprobación de la última cuenta pública anual de la que concluye su ejercicio constitucional.
 
 Al rendir la aprobación de la cuenta anual correspondiente al segundo ejercicio fiscal de la administración en funciones, podrá autorizar la destrucción de la documentación correspondiente al segundo año de la administración anterior, y así sucesivamente para las cuentas anuales subsiguientes.
 
@@ -753,15 +755,43 @@ La formulación de la cuenta pública se realizará por la Secretaría y en part
 
 Las Entidades que no estén incluidas en el Presupuesto de Egresos, pero que estén obligadas a presentar su propia cuenta pública a la revisión y glosa del Congreso Estatal, se sujetarán para tal efecto a las disposiciones contenidas en este Capítulo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Los organismos públicos descentralizados, fideicomisos públicos y empresas de participación estatal, están obligados a:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Remitir sus estados financieros dictaminados, cada anualidad por contador público externo autorizado por la Contraloría del Estado, en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, a la Contraloría y a la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Los resultados de la revisión a los estados financieros que formulen los auditores autorizados, deberán emitirse conforme los lineamientos establecidos en la Ley de Fiscalización Superior del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+La Auditoría Superior del Estado emitirá opinión técnica sobre los resultados a la revisión de los estados financieros y remitirlos al Congreso del Estado para su revisión.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos externos que se rindan al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+La Auditoría Superior del Estado, por derecho propio, podrá realizar auditoría a las entidades señaladas en este artículo, no obstante éstas hayan rendido los resultados sobre sus estados financieros.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 97.
 
-La revisión, glosa y control de la cuenta pública, será realizada por el Congreso del Estado, a través de la Contaduría Mayor de Hacienda, la cual se sujetará para tal efecto a la legislación aplicable, así como a los procedimientos que expida el Congreso del Estado.
+La revisión, glosa y control de la cuenta pública, será realizada por el Congreso del Estado, a través de la Auditoría Superior del Estado, la cual se sujetará para tal efecto a la legislación aplicable, así como a los procedimientos que expida el Congreso del Estado.
 
 La revisión, glosa y control de la cuenta pública comprenderá una revisión legal, económica y contable del ingreso y del gasto público, verificando la exactitud y la justificación de dichos aspectos, de acuerdo con los conceptos autorizados para uno y otro rubro, así como su impacto en el cumplimento de la programación oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 98.
 
-Si del examen que en los términos del artículo anterior realice la Contaduría Mayor de Hacienda, aparecieran discrepancias entre las cantidades autorizadas al gasto con las realizadas, o bien, no existiera exactitud ni justificación tanto en los gastos que se efectuaron, como en los ingresos que se recibieron o debieron exigir, además de cualquier otra irregularidad que a juicio del citado órgano de revisión y control del Congreso del Estado, y de acuerdo a la ley se justifique, se determinarán las responsabilidades conducentes, mismas que fincarán ante la autoridad que conforme a las leyes y en atención a cada caso en particular sea competente para hacerlo.
+Si del examen que en los términos del artículo anterior realice la Auditoría Superior del Estado, aparecieran discrepancias entre las cantidades autorizadas al gasto con las realizadas, o bien, no existiera exactitud ni justificación tanto en los gastos que se efectuaron, como en los ingresos que se recibieron o debieron exigir, además de cualquier otra irregularidad que a juicio del citado órgano de revisión y control del Congreso del Estado, y de acuerdo a la ley se justifique, se determinarán las responsabilidades conducentes, mismas que fincarán ante la autoridad que conforme a las leyes y en atención a cada caso en particular sea competente para hacerlo.
 
 ## TÍTULO QUINTO. DEL CONTROL VIGILANCIA Y EVALUACIÓN DEL GASTO PÚBLICO
 
@@ -912,3 +942,23 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
 
 CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
+
+CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
+
+QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderán referido al Auditor Superior.
+
+SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoria Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+
+OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
