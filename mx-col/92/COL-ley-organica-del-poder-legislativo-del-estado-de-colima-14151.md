@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2000-11-04"
+last_updated: "2001-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -559,6 +559,10 @@ La Comisión de Gobierno, será una comisión permanente, de integración plural
 
 La Comisión de Gobierno se integrará por los Coordinadores de los grupos parlamentarios acreditados y se formará con un Presidente, dos Secretarios y vocales, en su caso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2001)</small>
+
+El Diputado único de un partido político, que por esa razón no integre grupo parlamentario, formará parte de la Comisión de Gobierno Interno y Acuerdos Parlamentarios en calidad de vocal.
+
 La Presidencia de la Comisión de Gobierno, será electa por voto ponderado de los Coordinadores, de conformidad con el artículo siguiente. En caso de que ningún Coordinador de grupo parlamentario, por sí sólo, represente la mayoría absoluta, la presidencia será rotativa trimestralmente, correspondiéndole presidir al Coordinador de cada grupo parlamentario, tantas veces como corresponda el número de Diputados que los integren con el porcentaje que representen en relación al total que formen el Congreso. La primera presidencia recaerá en el grupo parlamentario que tenga el mayor número de Diputados. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que haya obtenido mayor número de votos en la elección de Diputados.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
@@ -715,9 +719,9 @@ Corresponde a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda el 
 
 Ningún Diputado podrá formar parte de más de cuatro comisiones ni ser Presidente de más de una.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2001)</small>
 
-El grupo parlamentario que presida una Comisión tendrá mayoría al interior de la misma. El grupo parlamentario que tenga mayor número de Diputados será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y si varios coinciden en éste, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada.
+El Grupo Parlamentario que presida una Comisión tendrá mayoría al interior de la misma y en el caso de que quien presida la Comisión sea Diputado único de un partido político, aquella se integrará en forma plural sin preeminencia alguna. El grupo parlamentario que tenga mayor número de Diputados será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y si varios coinciden en éste, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada.
 
 ###### ARTICULO 59.
 
@@ -792,6 +796,10 @@ Los grupos parlamentarios dispondrán de locales adecuados, así como de los rec
 La partida global determinada en el presupuesto del Congreso destinada al apoyo financiero de los grupos parlamentarios, se dividirá entre el número de Diputados integrantes del Congreso y se asignarán a cada grupo parlamentario en proporción al número que los integren.
 
 Los recursos financieros serán suministrados a los grupos parlamentarios conforme al calendario aprobado en el presupuesto de egresos del Congreso, mismos que deberán comprobarse.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2001)</small>
+
+Cuando un Diputado sea el único acreditado por un partido político y, por tanto, no integre grupo parlamentario, tendrá derecho a recibir la parte proporcional que corresponda de la partida de apoyo financiero a que se refiere el primer párrafo de este artículo, así como a los demás apoyos de ley.
 
 ###### ARTICULO 70.
 
@@ -1152,3 +1160,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE NOVIEMBRE DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE SEPTIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
