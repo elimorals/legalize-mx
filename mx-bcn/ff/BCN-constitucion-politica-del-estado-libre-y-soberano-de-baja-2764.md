@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1989-09-30"
+last_updated: "1992-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -73,11 +73,25 @@ Los partidos políticos son entidades de interés público; la ley determinará 
 
 La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en todo el Estado, pero éste tendrá además su propio escudo. No habrá otras banderas, otros himnos ni escudos de carácter oficial. El uso de los símbolos nacionales se sujetará a lo dispuesto por los ordenamientos federales.
 
-### CAPITULO IV.. DE LAS GARANTIAS INDIVIDUALES Y SOCIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 1992)</small>
+
+### CAPITULO IV.. DE LAS GARANTIAS INDIVIDUALES, SOCIALES Y DE LA PROTECCION DE LOS DERECHOS HUMANOS
 
 ###### ARTICULO 7.
 
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+
+Se establecerá por medio de una Ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo administrativo, autónomo de participación ciudadana para vigilar y exigir de los servidores públicos un actuar apegado a la legalidad y asegurar el respeto de los derechos humanos en la entidad, sus resoluciones consistirán en solicitarles fundando y motivando ante las autoridades competentes, la aplicación de las sanciones previstas en la Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+
+La Ley garantizará al Procurador su independencia y autonomía en el desempeño de su cargo, asimismo determinará los procedimientos para su nombramiento, la duración del cargo, sus funciones y facultades así como las demás condiciones necesarias para garantizar su eficacia.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
+
+La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
@@ -805,7 +819,7 @@ Los Ayuntamientos se compondrán de Munícipes electos por votación popular dir
 
 ###### ARTICULO 78.
 
-Los Ayuntamientos estarán formados por un Presidente Municipal y los demás Munícipes que determine la Ley, los que tendrán sus respectivos suplentes.
+Los Ayuntamientos estarán formados por un Presidente Municipal, y los demás Munícipes que determine la Ley, los que tendrán sus respectivos suplentes.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1986)</small>
 
@@ -983,7 +997,7 @@ I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Art�
 
 No procede el juicio político por la mera expresión de ideas.
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal;
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
 
 III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
@@ -1011,7 +1025,7 @@ El Congreso del Estado concurriendo cuando menos las dos terceras partes del nú
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Secretario General de Gobierno, Procurador General de Justicia del Estado y Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de sus miembros presentes en sesión cuando se refiera a los demás servidores públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Secretario General de Gobierno, Procurador General de Justicia del Estado y Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de sus miembros presentes en sesión cuando se refiera a los demás servidores públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
 
 Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
@@ -1155,10 +1169,6 @@ Esta Constitución entrará en vigor el mismo día de su publicación.
 
 Dentro del término de 15 días, contados a partir de su vigencia, el Gobernador Provisional convocará a elecciones para Diputados a la Legislatura del Estado y para Gobernador Constitucional del mismo, las cuales tendrán verificativo el día 25 de octubre del presente año.
 
-###### ARTICULO CUARTO.
-
-Dichas elecciones se regirán por las disposiciones de esta Constitución y se sujetarán a las bases siguientes:
-
 I.- Se crea la Comisión Electoral del Estado que tendrá, para la Jurisdicción de la Entidad; las facultades que a la Comisión Federal Electoral y a las Comisiones Locales Electorales señala la Ley Electoral Federal, aplicando, en lo conducente, sus disposiciones.
 
 II.- La Comisión Electoral del Estado estará integrada por un presidente, un secretario y un vocal, que serán designados por el Gobernador Provisional, y por dos representantes de Partidos Políticos de los comprendidos en la Base IX que se designarán en los términos que señala el artículo 11 de la misma Ley Electoral Federal, aplicada en lo conducente. Por cada miembro propietario se designará un suplente. Los nombramientos de los miembros que debe designar el Gobernador recaerán en personas que reúnan los requisitos del artículo 16 de la propia Ley.
@@ -1171,7 +1181,7 @@ V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo
 
 VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
+VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal;
 
 En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
 
@@ -1198,6 +1208,14 @@ XVII.- El siguiente domingo, después de la elección el Comité Electoral Distr
 XVIII.- Las constancias a que se refiere la base anterior deberán ser registradas ante la Comisión Electoral del Estado, la que otorgará registro si no encontrare que se hayan cometido durante el proceso electoral o en la elección actos capaces de viciar su validez. Esta facultad concedida a la Comisión Electoral del Estado no impedirá que la Legislatura del Estado haga la calificación de la elección de sus miembros en los términos del artículo 20 de esta Constitución.
 
 XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que hayan obtenido el registro, podrán nombrar representantes ante todos los organismos electorales que funcionen en el Estado, si tienen interés jurídico.
+
+###### ARTICULO CUARTO.
+
+Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
+
+P.O. 30 DE SEPTIEMBRE DE 1989.
+
+DECRETO No. 193
 
 ###### ARTICULO QUINTO.
 
@@ -1414,3 +1432,9 @@ DECRETO No. 195.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE MARZO DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente modificación y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
