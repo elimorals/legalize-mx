@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas-21673"
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-11"
-last_updated: "1969-04-11"
+last_updated: "1971-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL IMPUESTO SOBRE ALCOHOLES Y BEBIDAS ALCOHOLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1971.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 11 de abril de 1969.
 
@@ -209,13 +209,11 @@ Están exentos del pago de este Impuesto, los productores de bebidas alcohólica
 
 DEL OBJETO, SUJETO, UNIDAD FISCAL Y TASA
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 17o.
 
-Son objeto de este Impuesto, la operación de compra- venta, adquisición de alcohol y bebidas alcohólicas que por primera vez se realiza y surta sus efectos dentro del Estado.
-
-Se considera también como compra-venta de primera mano en el Estado, la adquisición e introducción de alcohol y bebidas alcohólicas, hecha por cualquier persona física o moral que reciba tales productos procedentes de otros Estados, Distritos, Territorios Federales o el extranjero.
-
-Son almacenistas o distribuidores, las personas físicas o morales que, por cuenta propia o ajena, reciban, almacenes (sic), distribuyan, vendan o negocien alcohol o bebidas alcohólicas de primera mano, en los términos de este Artículo.
+Son objeto de este Impuesto, la operación de compra-venta o adquisición de alcohol y bebidas alcohólicas que por primera vez se realicen y surta sus efectos dentro del Etado (sic).
 
 ###### ARTICULO 18o.
 
@@ -261,17 +259,19 @@ El envase con capacidad efectiva inferior 75 Cms. cúbicos, se equiparará a la 
 
 La equiparación de los envases con capacidad hasta de 5,050 centímetros cúbicos a la unidad fiscal de envase con capacidad oficial hasta de 5,000 centímetros cúbicos, es operante en todos los casos en que esta Ley haga referencia a envases con capacidad máxima de 5,000 centímetros cúbicos.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 21o.
 
-Para los efectos de esta Ley, las bebidas alcohólicas se dividen en las siguientes cuatro categorías fiscales:
+Para efectos de esta Ley, las bebidas alcohólicas se dividen en cuatro categorías fiscales:
 
-I.- Categoría "A".- Comprende los vinos denominados generosos o de mesa cuya graduación alcohólica no exceda de 20° G.L., a la temperatura de 15° centígrados.
+I.- CATEGORIA "A".- Comprende los vinos denominados generosos o de mesa cuya graduación alcohólica no exceda de 20° G.L., a la temperatura de 15° centígrafos (sic).
 
-II.- Categoría "B".- Comprende todos los licores, como aguardientes, tequilas, rones, mezcales, ginebras, cremas, vodkas, habaneros, aperitivos amargos, brandis, anises, wiskeys (sic) y productos similares que tengan una graduación alcohólica superior a 20° G. L., a la temperatura de 15° centígrados.
+II.- CATEGORIA "B".- Comprende todos los licores, como Aguardientes, Tequilas, Rones, Mezcales, Ginebras, Cremas, Vodkas, Habaneros, Aperitivos Amargos, Brandis, Anises, Wiskys y productos similares que tengan una graduación alcohólica superior a 20° G.L., a la temperatura de 15° centígrados y cuyo precio al público al menudeo por botella cerrada no exceda del 80% del precio del de la misma clase que se cotice al más alto precio, por botella de la misma cantidad de contenido.
 
-III.- Categoría "C".- Comprende los vinos y licores de cualquier graduación alcohólica incluyendo los coñacs (sic), wiskeys (sic), champañas, cremas y cualquier vino o licor que haya sido elaborado en otro país.
+III.- CATEGORIA "C".- Comprende los vinos y licores de cualquier graduación alcohólica cuyos precios al público, al menudeo, en botella cerrada, alcance los máximos de su categoría dentro de su clase o su diferencia de precio con los de su clase, se aproxime en un 80% o más, al máximo correspondiente a botella de igual cantidad de contenido.
 
-IV.- Categoría "D".- Comprende todas las bebidas alcohólicas elaborados y producidos 100% en el Estado de Baja California a base 100% de uva fresca o sus derivados.
+IV.- CATEGORIA "D".- Comprende las bebidas alcohólicas elaboradas y producidos 100% con uva fresca y cuya elaboración sea revisada y comprobada por la Tesorería General del Estado y su clasificación dentro de esta Categoría sea autorizada por escrito por la propia Tesorería General del Estado.
 
 ###### ARTICULO 22o.
 
@@ -351,25 +351,23 @@ ALCOHOL Por Litro $ 2.00
 
 ### CAPITULO SEGUNDO. DECLARACION Y PAGO DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 23o.
 
 Al efectuarse el pago del Impuesto que establece esta Ley se observarán las reglas siguientes:
 
-I.- El pago se hará en la Recaudación de Rentas del Estado, de la jurisdicción del causante, dentro de los cinco días hábiles siguientes a la recepción de los productos gravados.
+I.- El pago se hará en la Recaudación de Rentas del Estado de la jurisdicción del causante, dentro de los cinco días hábiles siguientes a la recepción de los productos gravados.
 
-II.- Los importadores deberán presentar copia del permiso otorgado por la Secretaría de Industria y Comercio, para la importación.
+II.- El causante hará en formas aprobadas la declaración de la mercancía recibida presentando las facturas o documentación que legalmente compruebe la cantidad y clase de productos adquiridos.
 
-III.- El causante hará en las formas aprobadas, la declaración de la mercancía recibida, cuyo importe se va a liquidar, presentando las facturas o documentación que legalmente compruebe la cantidad de productos adquiridos e introducidos al Estado, entre tanto se presente la factura.
+III.- Los (sic) Oficinas Recaudadoras al recibir el pago, entregarán al causante además del recibo oficial correspondiente, los marbetes necesarios para el control del pago del impuesto a los productos gravados.
 
-IV.- Las oficinas recaudadoras al recibir el pago entregarán al causante:
-
-a) Recibo de entero del impuesto pagado.
-
-b) Marbetes oficiales para el control de sus productos mencionados.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
 
 ###### ARTICULO 24o.
 
-A las bebidas alcohólicas, elaboradas y producidas 100% en el Estado de Baja California, a base exclusivamente de uva fresca o sus derivados, el fabricante deberá poner una etiqueta en cada botella, en que establezca que están exentas, de acuerdo con el Artículo 22 de esta Ley.
+Las bebidas alcohólicas producidas exclusivamente con 100% uva fresca deberán llevar una etiqueta en cada botella en que se establezca el número de oficio de la Tesorería General por medio del cual se reconoció tal circunstancia.
 
 ###### ARTICULO 25o.
 
@@ -379,9 +377,11 @@ En caso de que se envíe el marbete a la fábrica, ésta tendrá obligación de 
 
 Los causantes al recibir la mercancía marbetada, deberán dar aviso en su plazo no mayor de diez días al recibo de la misma, entregando copia de la factura que la ampara.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 26o.
 
-Los causantes obligados al pago por compra-venta o introducción de alcohol al Estado, deberán cubrir el impuesto respectivo el día 20 de cada mes, por la cantidad de litros recibida el mes anterior, en las formas aprobadas para tal efecto por la Tesorería General del Estado.
+Los causantes obligados al pago del impuesto que establece esta Ley, deberán cubrirlos a más tardar el día 20 de cada mes, por las cantidades de productos recibidos el mes anterior, presentando la declaración correspondiente en las formas aprobadas por la Tesorería General del Estado.
 
 ### CAPITULO TERCERO. OBLIGACIONES DE LOS CAUSANTES
 
@@ -700,3 +700,11 @@ EL OFICIAL MAYOR DE GOBIERNO ENC. DE LA SECRETARIA GENERAL P. M. L.
 LIC. CAYETANO SOLANA BULLE.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 1971.
+
+###### ARTICULO 2o.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
