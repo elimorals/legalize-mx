@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-8-1996-del-pleno-del-consejo-de-la-51827
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-05-03"
-last_updated: "1996-05-03"
+last_updated: "2000-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51827&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-04-25"
 
 ACUERDO GENERAL NUMERO 8/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE ESTABLECEN LOS TERMINOS Y LINEAMIENTOS PARA LA DECLARACION DE SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LOS PERTENECIENTES A LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ACUERDO GENERAL NUMERO 25/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE ABRIL DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 3 de mayo de 1996.
 
@@ -162,3 +164,15 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, C E R T I F I C A : Que este Acuerdo General número 8/1996, por el que se establecen los términos y lineamientos para la declaración de situación patrimonial de los servidores públicos del Poder Judicial de la Federación, con excepción de los pertenecientes a la Suprema Corte de Justicia de la Nación, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de veinticinco de abril de mil novecientos noventa y seis, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Hilda Cecilia Martínez González, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a veintiséis de abril de mil novecientos noventa y seis.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+D.O.F. 26 DE ABRIL DE 2000.
+
+PRIMERO.-Se abroga el Acuerdo General del Pleno Número 8/1996, emitido el veinticinco de abril de mil novecientos noventa y seis.
+
+SEGUNDO.-Los procedimientos administrativos de responsabilidad que se encuentren en trámite, se resolverán en los términos del Acuerdo General del Pleno Número 8/1996 que se abroga.
+
+TERCERO.-El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
