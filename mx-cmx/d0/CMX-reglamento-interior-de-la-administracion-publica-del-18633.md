@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2002-05-21"
+last_updated: "2002-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JULIO DE 2002.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -138,7 +138,7 @@ III. A la Secretaría de Desarrollo Económico:
 
 2. Dirección General de Abasto, Comercio y Distribución; y
 
-3. Dirección General de la Central de Abasto.
+3. Dirección General de la Central de Abasto;
 
 IV. A la Secretaría del Medio Ambiente:
 
@@ -998,7 +998,7 @@ XXVII. Representar los intereses de las Dependencias, Unidades Administrativas, 
 
 XXVIII. Recibir, analizar y resolver las solicitudes de reconocimiento de enteros realizados por los contribuyentes, conforme a las disposiciones legales aplicables; y
 
-XXVIII. Las demás facultades que le señalen las disposiciones legales y reglamentarias; las que le sean conferidas por sus superiores jerárquicos, así como las que correspondan a las Unidades Administrativas que le sean adscritas.
+XXIX. Las demás facultades que le señalen las disposiciones legales y reglamentarias; las que le sean conferidas por sus superiores jerárquicos, así como las que correspondan a las Unidades Administrativas que le sean adscritas.
 
 ###### Artículo 36.
 
@@ -1106,7 +1106,7 @@ XII. Promover programas de excelencia y calidad, tendientes a incrementar la pro
 
 XIII. Formular los planes y programas de trabajo de Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, considerando en ellos las necesidades y expectativas de los ciudadanos, así como mejorar los sistemas de atención al público;
 
-XIV. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las Unidades Administrativas y Unidades Administrativas de Apoyo Tecnico-Operativo a su cargo;
+XIV. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo;
 
 XV. Ejercer sus atribuciones coordinadamente con las demás Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Unidades Administrativas de Apoyo Técnico-Operativo de la Administración Pública para el mejor despacho de los asuntos de su competencia;
 
@@ -2548,7 +2548,7 @@ XV. Analizar el entero de las participaciones en ingresos federales, evaluando l
 
 XVI. Coordinar la participación de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en los distintos organismos del Sistema Nacional de Coordinación Fiscal;
 
-XVII. Coordinar el cumplimiento oportuno de las obligaciones fiscales del Distrito Federal, en Materia de Impuesto al Valor Agregado, causado por la prestación de los servicios de suministro de agua potable y de recolección de residuos sólidos;
+XVII. (DEROGADA, G.O. 11 DE JULIO DE 2002)
 
 XVIII. Participar en la definición de propuestas de adecuaciones concernientes a las disposiciones legales que rigen la coordinación fiscal y la colaboración administrativa;
 
@@ -3168,9 +3168,9 @@ VI. Dictar y ejecutar los acuerdos necesarios para la conservación, mantenimien
 
 VII. Actualizar permanentemente el Registro Público del Transporte, en lo que se refiere a la prestación del servicio público de transporte de pasajeros, privado y de carga;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-VIII. Realizar los estudios técnicos que justifiquen la necesidad de incrementar concesiones para la prestación de los servicios públicos de transportación de sistemas de peaje multimodal; regular, autorizar e inspeccionar la publicidad en el servicio de transporte, así como imponer las sanciones en caso de incumplimiento, de acuerdo con las normas jurídicas y administrativas correspondientes;
+VIII. Realizar los estudios técnicos que justifiquen la necesidad de incrementar concesiones para la prestación de los servicios públicos de transportación de sistemas de peaje multimodal;
 
 > <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -3302,7 +3302,9 @@ Corresponde a la Dirección Jurídica de la Secretaría de Transportes y Vialida
 
 I. Autorizar y dirigir las diligencias de notificación en cumplimiento de las normas jurídicas y administrativas aplicables;
 
-II. Sustanciar los procedimientos administrativos y dictar las resoluciones que correspondan en los casos de revocación, caducidad, cancelación y rescisión de los permisos, concesiones, licencias y autorizaciones cuando proceda, de conformidad con las disposiciones legales aplicables y proceder legalmente en caso de comisión de delitos;
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
+
+II. Sustanciar los procedimientos administrativos, imponer las sanciones establecidas en la normatividad y dictar las resoluciones que correspondan en los casos de revocación, caducidad, cancelación y rescisión de los permisos, concesiones, licencias y autorizaciones cuando proceda, de conformidad con las disposiciones legales aplicables y proceder legalmente en caso de comisión de delitos;
 
 III. Sustanciar los recursos de inconformidad, interpuestos en contra de actos y resoluciones administrativas emitidos por las unidades administrativas de la Secretaría de Transportes y Vialidad;
 
@@ -3479,8 +3481,6 @@ XIV. Establecer los lineamientos para la contratación de grupos y artistas en a
 XV. Autorizar contrataciones y órdenes de actuación que se acuerden con personas físicas o morales, que reúnan la documentación fiscal correspondiente; y
 
 XVI. Autorizar los pagos que se generen con motivo de las órdenes de actuación por servicios externos prestados a la Secretaría.
-
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
 
 ###### Artículo 97-C.
 
@@ -3724,7 +3724,7 @@ XVIII. Intervenir en la entrega-recepción de los inmuebles que incidan en el pa
 
 XIX. Determinar e imponer las sanciones contenidas en la ley de Régimen Patrimonial y del Servicio Público;
 
-XX. Analizar y, en su caso promover la utilización de sistemas de información georeferencial (sic) para la administración de los bienes inmuebles propiedad del Gobierno del Distrito Federal, así como de aquellos bienes inmuebles en los que el Gobierno del Distrito Federal tenga el carácter de poseedor;
+XX. Analizar y, en su caso promover la utilización de sistemas de información georeferencial para la administración de los bienes inmuebles propiedad del Gobierno del Distrito Federal, así como de aquellos bienes inmuebles en los que el Gobierno del Distrito Federal tenga el carácter de poseedor;
 
 XXI. Practicar el avalúo de los inmuebles que adquieran, graven o enajenen las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y entidades de la Administración Pública;
 
@@ -5808,7 +5808,7 @@ La Dirección General de Obras y Desarrollo Urbano tendrá además de las señal
 
 I. Proporcionar apoyo con estructuras e instalaciones provisionales para la realización de eventos sociales, culturales, tradicionales, cívicos y deportivos en la demarcación territorial; y
 
-II. Recolectar el cascajo, escombro y materiales diversos en la demarcación territorial;
+II. Recolectar el cascajo, escombro y materiales diversos en la demarcación territorial.
 
 > <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
 
@@ -5872,49 +5872,43 @@ III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su
 
 IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
 
-V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias;
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
+
+VI. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
+
+VII. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambienta, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
+
+VIII. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
+
+IX. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
+
+X. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente; y
+
+> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
+
+XI. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de preservación y mejoramiento del medio ambiente.
+
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
 ###### Artículo 150.
 
-Corresponde a la Dirección General de Desarrollo Delegacional:
+La Dirección General de Administración tendrá además de las señaladas en el artículo 125, las siguientes atribuciones:
 
 I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
 
-II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+II. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor; y
 
-III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
-
-IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
-
-V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
-
-VI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
-
-VII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
-
-VIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
-
-IX. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-X Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-XI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
-
-XII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
-
-XIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
-
-XIV. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
-
-XV. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
-
-XVI. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
-
-XVII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
-
-XVIII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+III. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de modernización administrativa.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -6814,7 +6808,7 @@ XII. Las demás que le atribuyen expresamente las leyes y reglamentos.
 
 ADSCRITOS A LA SECRETARIA DE OBRAS Y SERVICIOS.
 
-(REUBICADO [N. DE E. ANTES ARTICULO137], G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTICULO 137], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 189.
 
@@ -7466,8 +7460,16 @@ Cuarto.- Las referencias hechas al Instituto del Taxi del Distrito Federal en ot
 
 Quinto.- En tanto se expidan las Bases, normas políticas y lineamientos y reglas de operación a que se refiere los artículos 103, fracciones XXX y XXXII, 110, fracción I; 112, fracciones XIII y XXI; 113, fracción XV, 113 Bis, fracción II, del presente Decreto, seguirán aplicándose las normas institucionales en materia de información y evaluación, así como los sistemas de seguimiento de observaciones y recomendaciones institucionales, al igual que los criterios de evaluación de personal ya establecidos.
 
-Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en trámite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
+Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en tramite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
 
 Séptimo.- La Dirección General de Auditoria deberá dar seguimiento al Programa General de Auditoría de Legalidad, para el año 2002, sin perjuicio de que este sea modificado conforme a las disposiciones jurídicas y administrativas aplicables.
 
 Octavo.- Hasta en tanto se emita el Programa a que alude el artículo 103, fracción XXVIII del presente Reglamento, la Dirección General de Legalidad y Responsabilidades deberá realizar la vigilancia y supervisión de los procedimientos administrativos disciplinarios a cargo de las contralorías internas, de acuerdo con los recursos humanos y financieros disponibles, así como los que se le asignen para tal efecto.
+
+G.O. 11 DE JULIO DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Los recursos humanos, materiales, técnicos y financieros de la Unidad Administrativa y Unidades Técnico Operativas que por virtud de este Decreto desaparecen o dejan de tener algunas atribuciones, deberán transferirse a las Unidades Administrativas y Unidades Técnico Operativas que se crean o que adquieren nuevas atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
+
+Tercero.- Los asuntos que hasta antes de la entrada del presente Decreto, se encontraban en trámite, se continuarán atendiendo, en la media que sea posible, por la misma Unidad Administrativa hasta su conclusión.
