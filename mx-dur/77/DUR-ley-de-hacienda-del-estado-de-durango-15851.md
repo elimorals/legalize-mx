@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "1999-12-23"
+last_updated: "2001-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -141,7 +141,7 @@ Tratándose de contribuyentes cuyo impuesto causado o el que se hubiere causado 
 
 ###### ARTICULO 8.
 
-El entero de este Impuesto se hará mediante declaración que se presentará en la oficina recaudadora que corresponda al lugar en que se efectuó el pago por concepto de remuneraciones al trabajo personal subordinado, o bien, en las oficinas autorizadas que correspondan, en las formas oficiales que apruebe la Secretaría de Finanzas y de Administración.
+El entero de este impuesto se hará mediante declaración que se presentará en la oficina recaudadora que corresponda al lugar en que se efectuó el pago por concepto de remuneraciones al trabajo personal subordinado, o bien, en las oficinas autorizadas que correspondan, en las formas oficiales que apruebe la Secretaría de Finanzas y de Administración.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora correspondiente a su domicilio fiscal, acumulando en la misma el importe de las erogaciones efectuadas por concepto de remuneraciones al trabajo personal subordinado.
 
@@ -595,49 +595,59 @@ El importe de los derechos no pagados en los plazos establecidos en el Artículo
 
 Para efectos de la aplicación de la tarifa a que se refiere el inciso B) del Artículo 60 de esta Ley, los conductores se clasificarán en las categorías que establece el Artículo 39 de la Ley de Tránsito de los Municipios del Estado de Durango.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 66.
 
-Los derechos por la expedición de concesiones, permisos o autorizaciones, se causarán en base a días de salario conforme a lo siguiente:
+Los derechos por expedición de concesiones, permisos o autorizaciones, se causarán en base a días de salario conforme a lo siguiente:
 
 I. Por el otorgamiento de concesiones:
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
 1. Para la prestación dentro del Estado, del servicio público
 
 de transporte urbano o sub - urbano de personas:
 
-A) Automóviles hasta de 5 pasajeros 80
+A) Automóviles hasta de 5 pasajeros 850
 
-B) Autobuses de los llamados combis 90
+B) Autobuses de los llamados combis 850
 
-C) Autobuses hasta de 24 asientos 100
+C) Autobuses hasta de 24 asientos 900
 
-D) Autobuses hasta de más de 24 asientos 110
+D) Autobuses hasta de más de 24 asientos 950
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
 2. Para la prestación, dentro del Estado, del servicio público
 
 de transporte foráneo de personas:
 
-A) Autobuses hasta de 24 asientos 110
+A) Autobuses hasta de 24 asientos 950
 
-B) Autobuses de más de 24 asientos 120
+B) Autobuses de más de 24 asientos 1000
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
 3. Para la prestación de servicios públicos de transporte de
 
 carga en vehículos de cualquier característica:
 
-A) Vehículos de capacidad hasta 3 tons. 80
+A) Vehículos de capacidad hasta 3 tons. 500
 
-B) Vehículos de más de 3 tons. Hasta 5 tons. 90
+B) Vehículos de más de 3 tons. Hasta 5 tons. 550
 
-C) Vehículos de más de 5 tons. Hasta 10 tons. 100
+C) Vehículos de más de 5 tons. Hasta 10 tons. 575
 
-D) Vehículos de más de 10 tons. Hasta 15 tons. 110
+D) Vehículos de más de 10 tons. Hasta 15 tons. 600
 
-E) Vehículos de más de 15 tons. 120
+E) Vehículos de más de 15 tons. 650
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
 4. La ratificación de concesiones a que se refiere esta
 
-fracción, causará anualmente el 30% del importe del derecho
+fracción, causará anualmente el 5% del importe del derecho
 
 que corresponda.
 
@@ -665,11 +675,13 @@ con exención de las actividades agropecuarias
 
 y forestales. 20
 
-III. Por la autorización de traspaso o cesión de cada concesión,
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2001)</small>
+
+III. Por la autorización de traspaso de cada concesión,
 
 permiso o autorización a que se refieren las fracciones
 
-anteriores: 80
+anteriores: 400
 
 IV. Por la explotación de permisos de ruta cada año:
 
@@ -806,3 +818,11 @@ LIC. ANGEL SERGIO GUERRERO MIER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
