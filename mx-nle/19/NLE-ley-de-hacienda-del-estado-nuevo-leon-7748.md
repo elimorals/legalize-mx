@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2000-12-29"
+last_updated: "2001-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1191,9 +1191,9 @@ Es objeto de este Impuesto la realización de pagos en efectivo o en especie por
 
 Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con el que se les designe, ya sea ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, fondo de ahorro, donativos, primas, aguinaldo, tiempo extra, despensas, alimentación y otros conceptos de naturaleza semejante, aún cuando se eroguen en favor de personas que, teniendo su domicilio en Nuevo León, por motivo de su trabajo, presten trabajo personal subordinado fuera del Estado. Son también objeto de este impuesto los pagos realizados a los Directores, Gerentes, Administradores, Comisarios, Miembros del (sic) los Consejos Directivos o de Vigilancia de Sociedades o Asociaciones.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas que presten servicios preponderantemente a un prestatario.
+También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que por dichos servicios no se pague el Impuesto al Valor Agregado.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1275,6 +1275,10 @@ f).- Gastos de representación y viáticos efectivamente erogados por cuenta del
 
 g) Fondos de ahorro, despensas y alimentación.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+h).- Remuneraciones a personas discapacitadas invidentes, con deficiencia total auditiva, deficiencia total para hablar o con incapacidad motriz permanente, que les impida moverse sin ayuda de silla de ruedas, andador o muletas, según certificación del Centro de Evaluación de Habilidades y Actitudes Laborales del Sistema Estatal para el Desarrollo Integral de la Familia.
+
 II.- Las erogaciones que efectúen:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
@@ -1315,13 +1319,15 @@ a) Las erogaciones realizadas, declaradas en los últimos doce meses.
 
 b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobre Productos del Trabajo en los últimos doce meses.
 
-c) Las actividades realizadas por el causante, y otros datos que puedan utilizarse, a través de prácticas de visitas domiciliarias.
+> <small>(REFORMADO, P.O. DE 26 DE DICIEMBRE DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+c).- Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 160 Bis
 
-1. - Las personas físicas con actividades empresariales y las morales a que se refiere el artículo 155, podrán dictaminar por contador público registrado sus estados financieros, con relación al Impuesto Sobre Nóminas.
+1. - Las personas físicas con actividades empresariales y las morales a que se refiere el Artículo 155, podrán dictaminar por contador público registrado sus estados financieros, con relación al Impuesto Sobre Nóminas, de acuerdo a las Reglas Generales que emita la Secretaría de Finanzas y Tesorería General del Estado.
 
 > <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2101,21 +2107,21 @@ T A R I F A
 
 Concepto:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción .64 cuotas
+I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción 1 cuota
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-II.- Inscripción de actas de matrimonio 2.95 cuotas
+II.- Inscripción de actas de matrimonio 3.5 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-III.- Inscripción de sentencias de divorcio 6.05 cuotas
+III.- Inscripción de sentencias de divorcio 7 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada una .55 cuotas
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una 0.60 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2249,9 +2255,9 @@ C.- Cementerios… .23 cuotas
 
 En ningún caso la cantidad a pagar será inferior a ….. 4 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-IX.- Por certificado de no inscripción de inmuebles… 1.43 cuotas
+IX.- Por certificado de no inscripción de inmuebles ........... 0.50 cuotas
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -2423,9 +2429,9 @@ a) Exhortos 4 cuotas
 
 b) Cartas de no antecedentes penales 2 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-III.- Actas del Registro Civil 2 cuotas
+III.- Actas del Registro Civil 1 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2436,6 +2442,18 @@ IV.- Notariales 5 cuotas
 V.- Otros 1 cuota
 
 En caso de que se hayan cubierto los derechos previstos en el artículo 275 bis, fracción I, de esta Ley, no se pagarán los derechos establecidos en la fracción I de este artículo, correspondientes al mismo trámite.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 273 Bis.
+
+Por los derechos de publicación en el Periódico Oficial del Estado, por cada renglón:
+
+I.- Edictos, Avisos y Convocatorias 0.20 cuotas.
+
+II.- Balances de Empresas 7.50 cuotas.
+
+La publicación de Leyes, Decretos, Reglamentos, Acuerdos, Resoluciones y Circulares de carácter general y demás disposiciones a que se refiere el Artículo 10 de la Ley del Periódico Oficial del Estado, emitidos por las autoridades, estará exenta de los derechos previstos en este Artículo.
 
 > <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
@@ -2497,9 +2515,9 @@ I.- Constancias de Estudios:
 
 1. Educación Básica:
 
-a) Constancias, Certificaciones o Revalidaciones de Estudios de Primaria
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-y Secundaria, por cada una ….. 1 cuota
+a) Constancias, Certificaciones o Revalidaciones de Estudios de Primaria y Secundaria, por cada un 0.50 cuotas
 
 2. Escuelas Técnicas y Comerciales:
 
@@ -2669,25 +2687,13 @@ Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 
 
 II. - (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-III.- Por expedición de certificado de valor actual real, según el valor determinado en el avalúo, se pagarán por cada millar o fracción N$2.00
+III.- Por la expedición de avalúos informativos 2.5 cuotas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-En ningún caso la cantidad a pagar será inferior a ….. 2.5 cuotas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-Tratándose de consulta de valor actual real ….. 2.5 cuotas
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-Por la expedición de avalúos informativos para efecto de contribuciones previstas en la Ley de Desarrollo Urbano del Estado...… 2.5 cuotas
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-IV.- Por expedición de certificado de no inscripción catastral...… 1.43 cuotas
+IV.- Por expedición de certificado de no inscripción catastral 0.50 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2709,9 +2715,7 @@ VIII.- Por información y ubicación de predios 1 cuota
 
 Por baja de construcción por demolición u otras causas…… 1 cuota
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-IX.- Por duplicados de certificado de valor actual real, por cada millar o fracción N$2.00
+IX.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2789,9 +2793,13 @@ XV.- Por expedición de licencia de manejar:
 
 a) Con vigencia de un año 2.9 cuotas
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+b) Con vigencia de dos años, 4.5 cuotas
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b) Con vigencia de tres años 6 cuotas
+c) Con vigencia de tres años 6 cuotas
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2799,7 +2807,9 @@ Por duplicado de licencia de manejar:
 
 a) La expedida con vigencia de un año ….. 1.45 cuotas
 
-b) La expedida con vigencia de tres años ….. 3 cuotas
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+b) La expedida con vigencia de dos años 2.25 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2833,11 +2843,13 @@ El Estado y los Municipios podrán coordinarse en materia de control vehicular, 
 
 Quienes se encuentren obligados legalmente a solicitar los servicios a que se refiere la fracción XIII de este artículo, deberán hacerlo a más tardar el último día del mes de marzo. De no ser así, se les aplicará una multa hasta del 100% de los derechos omitidos. El plazo a que se refiere este párrafo, podrá ser prorrogado por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-La vigencia de las licencias de manejar expirará en el término de un año o de tres años según corresponda, contados a partir del día de su emisión.
+La vigencia de las licencias de manejar expirará en el término de un año, dos años o tres años según corresponda, contados a partir del día de su emisión.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+En el caso de licencias de conducir especiales para transporte público, se sujetarán a los lineamientos de la Ley Estatal de Transporte y su Reglamento. En los demás casos se sujetarán a las disposiciones del Reglamento de Tránsito Municipal que corresponda.
 
 (REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
 
@@ -2987,8 +2999,6 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ## TITULO CUARTO. De los Productos
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
-
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
@@ -3017,23 +3027,39 @@ VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
+
 ###### ARTICULO 278.
 
 El Estado recibirá los siguientes Productos:
 
-I.- Venta de muebles o inmuebles;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-II.- Arrendamiento de muebles o inmuebles del dominio privado;
+I. Enajenación de bienes muebles o inmuebles;
 
-III.- Explotación o enajenación de bienes del dominio privado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-IV.- Capitales y valores;
+II. Arrendamiento o explotación de bienes muebles o inmuebles del dominio privado;
 
-V.- Establecimientos y empresas del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-VI.- Venta de impresos y papel especial; y,
+III. Los procedentes de los medios de comunicación social del Estado;
 
-VII.- Diversos.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IV. Intereses;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+V. Venta de impresos y papel especial;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VI. Ingresos de organismos desconcentrados y diversas entidades; y,
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+VII. No especificados.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -3053,37 +3079,71 @@ Los productos se cobrarán de acuerdo con los contratos, o en los términos de l
 
 El Estado recibirá los siguientes Aprovechamientos.
 
-I.- Reintegros e indemnizaciones;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-II.- Subsidios;
+I.- Participaciones Federales;
 
-III.- Multas;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-IV- Cauciones cuya pérdida se declare por resolución firme, a favor del Estado;
+II. Aportaciones Federales;
 
-V.- Bienes y herencias vacantes, tesoros ocultos, herencias, legados, donaciones y otros conceptos en favor del Estado;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-VI.- Honorarios;
+III. Recargos;
 
-VII.- Participaciones;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-VIII.- Aportaciones del Gobierno Federal y de terceros para obras y servicios públicos;
+IV. Donativos;
 
-IX.- Bienes de Beneficencia;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-X.- Provenientes de los Talleres Gráficos del Estado, Periódico Oficial del Gobierno del Estado y demás publicaciones editadas;
+V. Multas;
 
-XI.- Accesorios y Rezagos; y,
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-XII.- Otros no especificados.
+VI. Aportaciones de entidades paraestatales;
 
-> <small>N. DE E. LOS INGRESOS PREVISTOS POR EL ARTICULO 281 NO SE COBRARAN DURANTE EL AÑO 2000, SEGUN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO 245 P.O. 31 DE DICIEMBRE DE 1999</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+VII. Administración de ingresos municipales;
 
-## TITULO SEXTO. Tasas Adicionales
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO UNICO
+VIII. Financiamiento a través del crédito público;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+IX. Expropiaciones;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+X. Aportaciones extraordinarias de los entes públicos;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XI. Cauciones cuya pérdida se declare a favor del Estado;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XII. Reintegros e indemnizaciones;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XIII. Bienes vacantes, herencias, tesoros ocultos y legados;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XIV. Accesorios y rezagos de contribuciones y aprovechamientos; y,
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+XV. Diversos.
+
+> <small>(N. DE E., CON FUNDAMENTO EN EL ARTICULO UNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TITULO OCTAVO PASA A SER EL CONTENIDO DEL PRESENTE TITULO)</small>
+
+## TITULO SEXTO. Facultades del Ejecutivo
+
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ### CAPITULO UNICO
 
@@ -3091,71 +3151,41 @@ XII.- Otros no especificados.
 
 ###### ARTICULO 281.
 
-Los organismos descentralizados del Estado y los fideicomisos en los que el Estado sea fideicomitente único, cubrirán el 10% de los ingresos que obtengan, excluyendo los que deriven del otorgamiento de créditos y transferencias.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-Dicha aportación la realizarán a más tardar el día 7 del mes siguiente a aquél al que se hayan percibido los ingresos.
-
-> <small>N. DE E. LOS INGRESOS PREVISTOS POR EL ARTICULO 282 NO SE COBRARAN DURANTE EL AÑO 2000, SEGUN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO 245 P.O. 31 DE DICIEMBRE DE 1999</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-###### ARTICULO 282.
-
-Los Organismos Paraestatales del Gobierno del Estado, que se les haya otorgado el aval del Estado para la contratación de créditos y mantengan saldos ejercidos, están obligados al pago anual del 2% sobre el promedio diario de los pasivos adeudados durante el año, incluyendo intereses.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-Las personas a que se refiere el párrafo anterior, efectuarán pagos provisionales, los cuales se obtendrán aplicando la tasa del 2% al resultado que se obtenga de sumar los saldos diarios de los pasivos del mes respecto del cual se calcula, dividiéndolo entre los días del año.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-El pago provisional será enterado a más tardar el día siete del mes siguiente a aquél respecto del cual se calcula el pago.
-
-###### ARTICULO 283.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
-
-###### ARTICULO 284.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
-
-## TITULO SEPTIMO. De los Ingresos Extraordinarios
-
-###### ARTICULO 285.
-
-Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
-
-I.- Empréstitos;
-
-II.- Expropiaciones;
-
-III.- Aportaciones Extraordinarias de los entes públicos, y;
-
-IV.- No especificados.
-
-## TITULO OCTAVO. Facultades del Ejecutivo
-
-###### ARTICULO 286.
-
 El Ejecutivo del Estado queda facultado para:
 
 a) Dictar las disposiciones reglamentarias para la aplicación de la presente Ley y demás disposiciones fiscales.
 
-b) Suprimir, modificar o adicionar en las leyes tributarias, a través de disposiciones generales, los preceptos relativos a la administración, control y forma de pago, sin variar los relativos a los procedimientos, sujetos, objeto, cuota, tasa o tarifa, del gravamen, infracciones o sanciones.
+b) Suprimir, modificar o adicionar en las leyes tributarias, a través de disposiciones generales, los preceptos relativos a la administración, control y forma de pago, sin variar los relativos a los procedimientos, sujetos, objeto, cuota, tasas o tarifa, del gravamen, infracciones o sanciones.
 
 c) Otorgar concesiones y celebrar contratos en los que se establezcan cuotas, tasas o tarifas de los productos que, por tales actos, debe recibir el Estado.
 
 d) Celebrar los actos necesarios para obtener los ingresos denominados aprovechamientos.
 
-###### ARTICULO 287.
+(REUBICADO [N. DE E. ANTES ARTICULO 287], P.O. DE 26 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 282.
 
 El Ejecutivo del Estado fijará las cuotas que deban cubrirse por la instalación, ampliación o incorporación de redes de agua y drenaje. Queda asimismo facultado el Ejecutivo, para formular, modificar, adicionar o reformar las tarifas para el cobro de Derechos por servicios públicos.
 
-###### ARTICULO 288.
+(REUBICADO [N. DE E. ANTES ARTICULO 288], P.O. DE 26 DE DICIEMBRE DE 2001)
+
+###### ARTICULO 283.
 
 Es facultad del Ejecutivo el descentralizar fondos de las partidas del gasto público, para inversión en obras y servicios.
+
+###### ARTICULO 284.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+
+## TITULO SEPTIMO. De los Ingresos Extraordinarios
+
+###### ARTICULO 285.
+
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2001)
+
+> <small>(N. DE E., CON FUNDAMENTO EN EL ARTICULO UNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TITULO OCTAVO PASA A SER EL CONTENIDO DEL TITULO SEXTO)</small>
 
 T R A N S I T O R I O S :
 
@@ -3510,3 +3540,9 @@ Artículo Segundo.- Durante el año 2001 no se cubrirán los ingresos previstos 
 Artículo Tercero.- En caso de que durante el año 2001, se autoricen libros de protocolo, a los que hacen referencia los artículos 272 fracción I y 272 bis, fracción I, de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre del 2000, los derechos se causarán y pagarán conforme a los citados artículos.
 
 Artículo Cuarto.- Durante el año 2001, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 60 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Bancarias o Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+P.O. 26 DE DICIEMBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero de 2002.
+
+Artículo Segundo.- Para los efectos de lo dispuesto en el artículo 276, fracción XVI, de esta Ley, las placas de circulación identificadas en fondo blanco y franja color arena con caracteres en color verde, con emblema de la Entidad (Cerro de la Silla) en la parte superior izquierda, escudo del Estado centrado en la parte inferior para el servicio privado y fondo blanco con caracteres y línea perimetral negra y franja naranja, tratándose del servicio público, tendrán una vigencia hasta el último día del mes de agosto del 2002, por lo que el canje respectivo deberá realizarse antes de que concluya dicha vigencia, de acuerdo a lo establecido por la Norma Oficial Mexicana NOM-001-SCT-2-2000 publicada en fecha 26 de Enero del 2001 en el Diario Oficial de la Federación.
