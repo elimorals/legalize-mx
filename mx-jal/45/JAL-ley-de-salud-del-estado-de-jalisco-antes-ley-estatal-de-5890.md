@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "1999-06-17"
+last_updated: "1999-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -735,15 +735,23 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1999)</small>
+
+Para los efectos del párrafo anterior se consideran como factores y causas que afectan la salud mental entre otros, los biológicos, psicológicos y socio culturales.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 73.
 
 Para la promoción de la salud mental, la Secretaría de Salud y Bienestar Social del Estado, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia social y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas, que contribuyan a la salud mental, preferentemente, de la infancia, y de la juventud;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1999)</small>
 
-II. La difusión de las orientaciones para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y
+I. El desarrollo de actividades educativas, socioculturales y recreativas, que contribuyan a la salud mental, preferentemente de la infancia, sin menoscabo de la atención que amerite la población adulta y senescente;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1999)</small>
+
+II. La difusión de las orientaciones para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras que puedan causar alteraciones mentales o dependencia, incrementando las campañas en el ámbito de la población de mayor riesgo; y
 
 III. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
 
@@ -751,9 +759,15 @@ III. Las demás acciones que, directa o indirectamente, contribuyan al fomento d
 
 La atención de las enfermedades mentales comprende:
 
-I. La atención de personas con padecimientos mentales; la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos, y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1999)</small>
+
+I. La atención de personas con padecimientos mentales; el tratamiento y la rehabilitación psicológica, neurológica y psiquiátrica entre otras, de enfermos mentales crónicos, deficientes mentales y adictos;
 
 II. La organización, operación y supervisión de instituciones públicas, sociales o privadas dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1999)</small>
+
+La realización de las acciones a que se refiere el presente capítulo, estarán a cargo del Instituto Jalisciense de Salud Mental.
 
 ###### Art. 75.
 
@@ -2412,3 +2426,21 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se autoriza al Titular del Poder Ejecutivo del Estado para que conforme con las disposiciones legales aplicables realice todas las gestiones y actos necesarios, para lograr la integración de la estructura y funcionamiento del Consejo Estatal de Transplantes de Organos y Tejidos.
 
 TERCERO.- El Consejo Estatal de Transplantes de Organos y Tejidos, aprobará su reglamento interior a más tardar dentro de los noventa días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 12 DE AGOSTO DE 1999.
+
+DECRETO NUMERO 17975.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan al presente.
+
+P.O. 12 DE AGOSTO DE 1999.
+
+DECRETO NUMERO 17974.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se insta al Ejecutivo para que conforme a las disposiciones legales aplicables, realice todos los actos necesarios para la debida integración y funcionamiento del Instituto Jalisciense de Salud Mental.
+
+TERCERO.- Se derogan las disposiciones legales y administrativas que se opongan al presente.
