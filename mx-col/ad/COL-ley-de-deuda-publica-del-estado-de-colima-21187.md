@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-21187"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-28"
-last_updated: "2001-04-28"
+last_updated: "2003-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de abril del 2001.
 
@@ -145,7 +145,9 @@ I.- Remitir anualmente al Congreso las iniciativas de Ley de Ingresos y Presupue
 
 II.- Suscribir los contratos o cualesquiera otro instrumento jurídico para contraer obligaciones de deuda pública directa o indirecta, así como autorizar las garantías necesarias para su pago;
 
-III.- Suscribir los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir y afectar los recursos que sirvan como garantías de pago de la deuda directa y, en caso necesario, de la indirecta de incumbencia del Gobierno del Estado;
+(REFORMADA, P.O. 22 DE MARZO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+III.- Suscribir los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir y afectar los recursos que sirvan como garantías o como fuente de pago de la deuda directa y, en caso contrario, de la indirecta de incumbencia del Gobierno del Estado;
 
 IV.- Suscribir las reestructuraciones de la deuda pública directa del Gobierno del Estado y, cuando sea justificado, la indirecta correspondiente;
 
@@ -159,7 +161,9 @@ Corresponde a los Ayuntamientos:
 
 I.- Remitir anualmente al Congreso la iniciativa de ley general de ingresos de cada municipio, en la que se señalen los montos de endeudamiento público a contratar así como su aplicación en el presupuesto de egresos correspondiente;
 
-II.- Aprobar la suscripción de los contratos o cualesquier otro instrumento jurídico para contraer obligaciones de deuda pública directa o indirecta, así como autorizar las garantías necesarias para su pago;
+(REFORMADA, P.O. 22 DE MARZO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+II.- Aprobar la suscripción de los contratos o cualesquier otro instrumento jurídico para contraer obligaciones de deuda pública directa o indirecta, así como autorizar las garantías o fuentes de pago directo necesarias para su seguridad o cumplimiento;
 
 III.- Aprobar la reestructuración de los créditos municipales directos o indirectos;
 
@@ -167,9 +171,13 @@ IV.- Informar trimestralmente al Congreso y al Registro, dentro de los treinta d
 
 V.- Proporcionar oportunamente la información que le requiera la Secretaría en materia de deuda pública, así como inscribir en tiempo y forma en el Registro, las operaciones crediticias correspondientes, tanto de su deuda directa como indirecta;
 
-VI.- Aprobar la constitución de los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir y afectar los recursos que sirvan como garantías de pago de la deuda pública directa o indirecta municipal;
+(REFORMADA, P.O. 22 DE MARZO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
-VII.- Aprobar los lineamientos para la operación de los fideicomisos o instrumentos jurídicos y garantías procedentes del ámbito municipal y, en su caso, del paramunicipal;
+VI.- Aprobar la constitución de los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir y afectar los recursos que sirvan como garantías o como fuente de pago directo de la deuda pública directa o indirecta municipal;
+
+(REFORMADA, P.O. 22 DE MARZO DE 2003) (F. DE E., P.O. 15 DE MAYO DE 2006)
+
+VII.- Aprobar los lineamientos para la operación de los fideicomisos o instrumentos jurídicos y garantías o fuentes de pago procedentes del ámbito municipal y, en su caso, del paramunicipal;
 
 VIII.- Aprobar los convenios para que el Gobierno suscriba obligaciones financieras por cuenta del Ayuntamiento y opere los fideicomisos o instrumentos jurídicos a que se refiere la fracción anterior; y
 
@@ -189,9 +197,13 @@ II.- Analizar los contratos, convenios o cualesquier otro instrumento jurídico 
 
 III.- Tramitar la reestructuración de la deuda directa y, en caso requerido, la indirecta respectiva;
 
-IV.- Afectar en garantía de pago los ingresos propios y/o las participaciones que en ingresos federales correspondan, por las obligaciones contraídas directamente, como avalista o deudor solidario;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
 
-V.- Intervenir en la constitución de los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir y afectar las garantías de pago de la deuda pública estatal y, de requerirse, en lo concerniente a la municipal;
+IV.- Afectar en garantía o como fuente de pago directo, los ingresos propios y/o las participaciones que en ingresos federales correspondan, por las obligaciones contraídas directamente, como avalista o deudor solidario;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+
+V.- Intervenir en la constitución de los fideicomisos o instrumentos jurídicos procedentes que operen como la instancia o conducto legal para recibir las participaciones que le correspondan al Estado en los ingresos federales o sus propios ingresos y afectarlos en garantía o como fuente de pago directo de la deuda pública estatal y, de requerirse, en lo concerniente a la municipal;
 
 VI.- Asesorar a los Ayuntamientos, así como a sus organismos, empresas y fideicomisos que lo soliciten, en la contratación y reestructuración de financiamientos;
 
@@ -229,9 +241,11 @@ Las operaciones de endeudamiento autorizadas, así como su inscripción en el Re
 
 ### CAPÍTULO IV. DE LAS GARANTÍAS Y AVALES
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 18.
 
-El Gobierno del Estado podrá otorgar como garantía para el pago de préstamos o financiamientos referidos en esta Ley, las participaciones que le correspondan de los ingresos federales o sus propios ingresos, previa aprobación del Congreso en la ley de ingresos y presupuesto de egresos del Gobierno del Estado. Lo mismo podrán hacer los Ayuntamientos con la aprobación de por lo menos las dos terceras partes de los integrantes del Cabildo.
+El Gobierno del Estado podrá afectar en garantía o como fuente de pago directo de préstamos o financiamientos referidos en esta Ley, las participaciones que le correspondan de los ingresos federales o sus propios ingresos, previa aprobación del Congreso en la ley de ingresos y presupuesto de egresos del Gobierno del Estado. Lo mismo podrán hacer los Ayuntamientos con la aprobación de por lo menos las dos terceras partes de los integrantes del Cabildo.
 
 ###### ARTICULO 19.
 
@@ -282,3 +296,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 27 días del mes de Abril del año dos mil uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.- EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MARZO DE 2003.
+
+UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
