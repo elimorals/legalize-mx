@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1997-12-29"
+last_updated: "1999-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -261,7 +261,7 @@ Cuando por cualquier causa se cambie el uso del predio a propósito distinto del
 
 Las tasas del Impuesto Predial se modificarán cuando:
 
-> <small>(REFORMADOA, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
 I. Se realice alguna de las causas que establece la Ley de Catastro para practicar nuevo avalúo.
 
@@ -385,7 +385,7 @@ Cuando en las manifestaciones o avisos exigidos, no se expresen los datos o no s
 
 Si transcurre dicho plazo y no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería Municipal no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 30.
 
@@ -769,15 +769,17 @@ El Impuesto Adicional para Fomento Educativo, se determinará conforme a la tasa
 
 #### Sección Primera. Del Objeto y de los Sujetos
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 59.
 
-Es objeto del Impuesto sobre Espectáculos públicos, el ingreso que obtengan las personas físicas y morales que celebren espectáculos públicos de: teatro, conciertos culturales, funciones de cine, circo, lucha libre, corridas de toros, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, torneos de gallos, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza y cualquier otro evento no especificado a los que se condicione el acceso al público en general mediante en pago de cuotas de admisión.
+Es objeto del Impuesto sobre Espectáculos Públicos, el ingreso que obtengan las personas físicas y morales que celebren espectáculos públicos de: teatro, conciertos culturales, circo, lucha libre, corridas de toros, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, torneos de gallos, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza y cualquier otro evento no especificado a los que se condicione el acceso al público en general mediante en pago de cuotas de admisión.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 Se exceptúa de lo dispuesto en el párrafo anterior, el ingreso que se obtenga por el acceso a ferias y exposiciones que realicen los gobiernos estatal y municipales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 Las personas físicas y morales que realicen actividades empresariales a que se refiere el Código Fiscal de la Federación, cuando celebren en sus establecimientos eventualmente espectáculos a que se refiere este artículo, estarán afectas al pago de este impuesto, si condicionan el acceso al pago de cuotas de admisión.
 
@@ -1133,9 +1135,11 @@ Es objeto de este derecho el consumo de energía eléctrica en calles, plazas, j
 
 #### Sección Tercera. De los Sujetos
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 102.
 
-Son sujetos de este derecho las personas físicas o morales, que han contratado o contraten servicio de energía eléctrica con la Comisión Federal de Electricidad o cualquier otra compañía de luz y fuerza.
+Son sujetos de este derecho las personas físicas o morales que hagan uso de la energía eléctrica que suministre la entidades (sic) o entidades competentes para la distribución o comercialización de la misma en el país, de acuerdo con la ley.
 
 #### Sección Cuarta. De las Excepciones
 
@@ -1145,15 +1149,19 @@ No son sujetos de este derecho, las personas físicas o morales que han contrata
 
 #### Sección Quinta. De la Base
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 104.
 
-Es base gravable de este derecho, el importe del consumo mensual o bimestral que se cubra a la Compañía o Empresa suministradora del servicio, aplicándose la tasa que determine la Ley de Ingresos Municipal.
+Es base gravable de este derecho, el importe del consumo mensual o bimestral que se cubra a la entidad o entidades a que se refiere el artículo 102 de esta ley, aplicándose las tasas que determinen la Ley de Ingresos para los Municipios del Estado.
 
 #### Sección Sexta. Del Pago del Derecho
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 105.
 
-El pago de este derecho, se hará a través de las Empresas suministradoras de energía eléctrica, quienes harán la retención correspondiente, consignando el cargo en los recibos que expidan por el consumo ordinario e informarán al Ayuntamiento de las recaudaciones respectivas.
+El pago de este derecho, se hará a través de la entidad o entidades a que se refiere el artículo 102, quienes harán la retención correspondiente, consignando el cargo en los recibos que expidan por el consumo y enterarán al ayuntamiento respectivo el importe de la recaudación efectuada.
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -1699,7 +1707,7 @@ Son sujetos de la contribución de aportación por mejoras, los propietarios o p
 
 La contribución a que se refiere este Capítulo se pagará al terminarse las obras que la generaron, conforme a las cuotas que apruebe el Ayuntamiento, tomando en cuenta el costo de los materiales y de la mano de obra.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 175.
 
@@ -1781,9 +1789,15 @@ Los demás ingresos por actividades que no correspondan a funciones de derecho p
 
 Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Michoacán, de conformidad con la Ley de Coordinación Fiscal Federal y con las disposiciones legales del Estado, en materia de ingresos Federales y Estatales.
 
-## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+## TÍTULO SEXTO BIS. DE LOS FONDOS DE APORTACIONES FEDERALES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 187 BIS. Los ingresos de los municipios provenientes de los Fondos de Aportaciones Federales, para la Infraestructura Social Municipal y para EL Fortalecimiento de los Municipios, se percibirán por conducto del Estado, de conformidad a lo que disponga la Ley de Coordinación Fiscal y en su caso el Presupuesto de Egresos de la Federación para el año de que se trate, debiéndose observar las normas correspondientes de dicha Ley en cuanto a la aplicación de los mismos.
+
+## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO I. Recargos
 
@@ -1815,7 +1829,7 @@ Se aplicarán a este ramo de aprovechamientos, los donativos a favor del Municip
 
 Al ramo de aprovechamientos se aplicarán los ingresos no previstos en las denominaciones anteriores, que sean indemnizaciones por daños en bienes municipales.
 
-## TITULO NOVENO. GENERALIDADES
+## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ### CAPITULO UNICO
 
@@ -1832,6 +1846,8 @@ III.- Los créditos otorgados por el Estado;
 IV.- Los créditos otorgados por particulares, y
 
 V.- Los créditos otorgados por otra fuente de financiamiento.
+
+## TITULO NOVENO. GENERALIDADES
 
 ### CAPITULO UNICO
 
@@ -1962,3 +1978,13 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 29 DE DICIEMBRE DE 1997.
 
 UNICO.- El presente decreto entrará en vigor, el 1º de enero de 1998, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan aquellas disposiciones en lo que se opongan al presente Decreto.
