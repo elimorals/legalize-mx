@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1998-05-27"
+last_updated: "2002-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2002.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -345,7 +345,9 @@ X.- Vigilar que todos los ingresos que se recauden se inviertan en los objetivos
 
 XI.- Aplicar las sanciones que establece esta Ley por las infracciones que se cometan;
 
-XII.- Formular los proyectos de tarifas para el cobro de los servicios;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2002)</small>
+
+XII.- Proponer al Congreso del Estado, para su aprobación, los proyectos de tarifas y cuotas para el cobro de los servicios, los que estarán sustentados en criterios técnicos y en los estudios correspondientes;
 
 XIII.- Solicitar ante las autoridades correspondientes, las expropiaciones, ocupaciones temporales, totales o parciales de obras hidráulicas y bienes de propiedad privada para el logro de sus atribuciones;
 
@@ -393,9 +395,9 @@ I.- Nombrar y remover libremente en cada una de las Juntas en (sic) Gerente Gene
 
 II.- Resolver los recursos que se interpongan en contra de la actuación y resoluciones de los Gerentes Generales de las Juntas;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2002)</small>
 
-III.- Analizar, discutir y autorizar las tarifas y cuotas para el cobro de los servicios;
+III.- Analizar, discutir y determinar los proyectos de tarifas y cuotas para el cobro de los servicios, los que estarán sustentados en criterios técnicos y en los estudios correspondientes;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 1987)</small>
 
@@ -439,9 +441,13 @@ VI.- Someter a la consideración y aprobación del Consejo Directivo que corresp
 
 VII.- Formular los programas de trabajo y operación, así como los estados financieros, balances e informes generales y especiales, para someterlos a la consideración y aprobación de los Consejos Directivos; y
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2002)</small>
 
-VIII.- Las demás que le señalen sus (sic) Consejo Directivo y las disposiciones aplicables.
+VIII.- Formular los proyectos de tarifas y cuotas para el cobro de los servicios y someterlos a la consideración del Consejo Directivo respectivo; y
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2002)</small>
+
+IX.- Las demás que les señale su Consejo Directivo y las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
@@ -763,17 +769,19 @@ Los Notarios, Corredores Públicos y Oficiales del Registro Público de la Propi
 
 ### CAPITULO QUINTO. DE LAS TARIFAS
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 59.
 
-El Consejo Directivo de cada Junta, aprobará anualmente las tarifas y cuotas de conexión que servirán de base para el cobro por la prestación de los servicios de agua potable, alcantarillado y saneamiento. Las tarifas y cuotas aprobadas se publicarán en el Periódico Oficial "El Estado de Sinaloa".
+El Congreso del Estado aprobará las tarifas y cuotas conforme a las cuales se cobrará la prestación de los servicios de agua potable, alcantarillado, y saneamiento, así como los derechos de conexión, en sus respectivas jurisdicciones, los cuales estarán sustentados en criterios técnicos y en los estudios correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+Las tarifas y cuotas se actualizarán anualmente aplicando el factor que resulte de dividir el Índice Nacional de Precios al Consumidor, publicado por el Banco de México, o sus equivalentes en el Diario Oficial de la Federación del penúltimo mes del año de calendario que se actualiza, entre el citado índice correspondiente al penúltimo mes del año de calendario anterior al de esa fecha.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 60.
 
-Las tarifas y cuotas deberán establecerse tomando en cuenta los gastos de administración, operación, mantenimiento y constitución de fondos de reservas para la rehabilitación y el mejoramiento de los sistemas y servicios. Las tarifas serán diferenciales ascendentes de acuerdo al consumo efectuado, al uso autorizado en los términos del artículo 4 de la presente Ley y a la capacidad económica del centro poblado, zona o región de que se trate.
+Las tarifas y cuotas que fije el Congreso del Estado deberán establecerse tomando en cuenta los criterios técnicos y los estudios correspondientes que las sustenten, que incluirán los gastos de administración, operación, mantenimiento y constitución de fondos de reservas para la rehabilitación y el mejoramiento de los sistemas y servicios. Las tarifas serán diferenciales ascendentes de acuerdo al consumo efectuado, al uso autorizado en los términos del artículo 4 de la presente Ley y a la capacidad económica del centro poblado, zona o región de que se trate.
 
 ### CAPITULO SEXTO. DE LA INSPECCION Y VERIFICACION DE LOS SERVICIOS
 
@@ -829,7 +837,7 @@ Si por segunda vez se encuentra cerrado el predio, giro o establecimiento, sin q
 
 ###### ARTICULO 68.
 
-Las visitas se limitarán exclusivamente al objeto indicado en la orden respectiva y por ningún motivo podrán extenderse a objetos distintos, aún cuando se relacionen con los servicios de agua potable, alcantarillado y saneamiento, salvo que en el momento de la visita se descubra accidentalmente, una infracción a las disposiciones de esta Ley, en cuyo caso el inspector la hará constar en el acta respectiva.
+Las visitas se limitarán exclusivamente al objeto indicado en la orden respectiva y por ningún motivo podrán extenderse a objetos distintos, aún cuando se relacionen con los servicios de agua potable, alcantarillado y saneamiento, salvo que en el momento de la visita se descubra, accidentalmente, una infracción a las disposiciones de esta Ley, en cuyo caso el inspector la hará constar en el acta respectiva.
 
 ###### ARTICULO 69.
 
@@ -1188,3 +1196,9 @@ Las situaciones jurídicas nacidas con anterioridad de que entre en vigor este D
 ###### ARTICULO CUARTO.
 
 Las Juntas no podrán cobrar ninguna tarifa o cuota por concepto de saneamiento mientras no se construyan y entren en operación las plantas de tratamiento.
+
+P.O. 6 DE MAYO DE 2002.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- En tanto el Congreso del Estado de Sinaloa aprueba las tarifas y cuotas para el cobro de los servicios que prestan las Juntas, de acuerdo a lo dispuesto en este Decreto, continuarán aplicándose las que se encuentran vigentes.
