@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1977-12-20"
+last_updated: "1980-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 1980.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -259,7 +259,13 @@ XXXVII. Autorizar las transferencias y partida que reclamen los servicios munici
 
 XXXVIII. Conceder licencias y autorizaciones municipales para el funcionamiento de empresas comerciales, industriales, o de servicios, así como cancelarías temporal o definitivamente por mal uso de ellas o por violar las disposiciones reglamentarias. Señalar horarios en los establecimientos abiertos al público.
 
-XXXIX. Las demás que le asignen otras leyes y reglamentos.
+> <small>(ADICIONADA, B.O. 10 DE MAYO DE 1980)</small>
+
+XXXIX. Integrar en el mes de enero de cada año un Consejo Local de Tutela, de acuerdo con lo establecido en los artículos 631 y 632 del Código Civil vigente en el Estado.
+
+> <small>(REFORMADA, B.O. 10 DE MAYO DE 1980)</small>
+
+XL. Las demás que le asignen otras Leyes y Reglamentos.
 
 ### CAPITULO CUARTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -1018,3 +1024,9 @@ B.O. 20 DE DICIEMBRE DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE MAYO DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
