@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1997-04-23"
+last_updated: "1997-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -131,49 +131,55 @@ LABORES DEL CONGRESO
 
 Con base en la Constitución Federal, el Gobierno del Estado y los Municipios promoverán dentro de sus respectivas esferas de competencia, el equilibrio dinámico entre la democracia política y la económica que dé como resultado el establecimiento de la justicia social.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 10.
 
-Los Partidos Políticos son entidades de interés público que tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal; libre, secreto y directo.
+Los procesos electorales del Estado, se efectuarán conforme a las bases que establece la presente Constitución, la Federal y las demás Leyes de la materia y se sujetarán a los principios de certeza, legalidad, imparcialidad, equidad, objetividad y profesionalismo.
 
-Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones Estatales y Municipales y la Ley reglamentaria determinará las formas específicas de su intervención en el proceso electoral.
+I.- Los Partidos Políticos son entidades de interés público; el Código Electoral del Estado determinará las formas específicas de su intervención en los procesos electorales del Estado.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+Los Partidos Políticos tienen como fin, promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos en forma libre e individual podrán afiliarse a los Partidos Políticos.
 
-En los procesos electorales del Estado, los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+Los Partidos Políticos, que no obtengan el 1% de la votación en dos elecciones consecutivas para Diputados, computados individualmente, perderán su registro como tal.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+Los Partidos Políticos con registro nacional o estatal tendrán derecho a participar en las elecciones estatales y municipales, conforme a las disposiciones de la presente Constitución y la Ley de la materia.
 
-La organización de las elecciones de la Entidad es una función estatal que se ejerce a través del Instituto Electoral de Tlaxcala, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurren el Poder Ejecutivo, el Legislativo, el Municipal, los Partidos Políticos y los ciudadanos según lo disponga el Código Electoral del Estado. En el ejercicio de esa función estatal la certeza, la legalidad, la independencia, la imparcialidad y la objetividad serán principios rectores.
+Los Partidos Políticos dentro del Estado de Tlaxcala, debidamente registrados, podrán coaligarse, constituir frentes y fusionarse, en términos de lo establecido en la Ley respectiva.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+II.- En los Procesos Electorales del Estado, los Partidos Políticos deberán contar con los elementos necesarios para sus actividades tendientes a su consolidación orgánica y a la obtención del voto popular; por tanto, tendrán derecho al uso permanente de los medios de comunicación social, de acuerdo con la forma y procedimientos que determine la Ley, la que además señalará las reglas a que se sujetará el financiamiento de los Partidos Políticos y sus campañas electorales, los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten, así como las sanciones por incumplimiento a las disposiciones que se expidan en la materia.
 
-El Instituto Electoral de Tlaxcala, será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El órgano superior de dirección se integrará por: un Presidente que será Director General del Instituto; tres Consejeros Diputados, dos de la mayoría y uno de la primera minoría; dos Consejeros por los Presidentes Municipales; ocho Consejeros Ciudadanos que serán seleccionados y acreditados por el Congreso del Estado; un Secretario y un representante por cada Partido Político; todos ellos designados conforme al Código Electoral del Estado de Tlaxcala. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio electoral profesional. Las mesas directivas de casilla estarán integradas por ciudadanos Tlaxcaltecas.
+III.- El financiamiento público para los Partidos Políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo que disponga esta Constitución y el Código Electoral del Estado; de conformidad con las siguientes bases:
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+a).- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, conforme a los montos y términos que para tal efecto determine el Consejo General del Instituto Electoral de Tlaxcala, y que será sometido como parte del Presupuesto General del Instituto Electoral de Tlaxcala a la consideración del Congreso del Estado, para que se incluya en el Presupuesto General del Estado, el treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los Partidos Políticos con registro en forma igualitaria y el setenta por ciento restante se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior.
 
-El Instituto Electoral de Tlaxcala, llevará a cabo en forma integral y directa, además de lo que determine el Código Electoral, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral, educación cívica e impresión de material electoral. Así mismo, atenderá lo relativo a los derechos y prerrogativas de los Partidos Políticos. Las sesiones de sus órganos colegiados serán públicas en los términos que disponga la Ley.
+b).- El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales del Estado, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada Partido Político por actividades ordinarias en ese año.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+c).- Se reintegrará un porcentaje de los gastos anuales que eroguen los Partidos Políticos, por concepto de las actividades relativas a la Educación, Capacitación, Investigación Socioeconómica y Política, así como a las tareas editoriales; conforme a las bases que establezca el Consejo General del Instituto Electoral de Tlaxcala.
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerá el Consejo General o el Tribunal Electoral de Tlaxcala, según se determine por la propia Ley.
+IV.- La Organización, Dirección y Vigilancia de las elecciones en el Estado, estarán a cargo del Instituto Electoral de Tlaxcala; autoridad en la materia, dotado de independencia funcional en su relación con los Poderes del Estado, de carácter permanente, y con personalidad jurídica y patrimonio propios, que tendrá las facultades que le señale la presente Constitución y el Código Electoral del Estado, y contará con los Organos que éstos dispongan en los Distritos y Municipios en que se divida la Entidad, los que estarán bajo su dirección. Además tendrá a su cargo en los términos de la presente Constitución y en la Ley respectiva, la organización de los procesos plebiscitarios y de referéndum.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+El Instituto Electoral de Tlaxcala, contará en su estructura con Organos de Dirección, Ejecutivos, Técnicos y de Vigilancia. El Organo Superior de Dirección, se denominará Consejo General y estará integrado por: un Presidente, seis Concejales Electorales, que serán elegidos y acreditados por el Congreso del Estado; un Secretario Ejecutivo y un Representante por cada Partido Político que participe en el proceso electoral, todos ellos designados conforme al Código Electoral del Estado de Tlaxcala. Por cada integrante se elegirá un Suplente y en el caso de los Concejales Electorales se elegirán dos Supernumerarios. Los Concejales Electorales durarán en su cargo siete años.
 
-La interposición de los recursos no suspende en ningún caso los efectos del acto o resolución impugnada.
+Los integrantes del Consejo General tendrán derecho a voz y sólo los Concejales Electorales tendrán derecho a voto y en caso de empate, el Concejal Presidente tendrá voto de calidad.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+V.- El Instituto Electoral de Tlaxcala, a través de su Organo Superior y de conformidad con lo que disponga el Código Electoral, declarará la validez de las Elecciones de Gobernador, Diputados, Ayuntamientos y Presidentes Municipales Auxiliares. Otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos en elección directa, y hará la asignación de Diputados y Regidores de Representación Proporcional. Además de las que determine el Código Electoral, tendrá a su cargo las actividades relativas a la integración al Padrón Electoral, preparación de la jornada electoral, cómputos y otorgamientos de constancias, capacitación electoral, educación cívica e impresión de material electoral, geografía electoral, padrón, lista nominal de electores, regulación de la observancia electoral, de las encuestas y sondeos de opinión con fines electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los Partidos Políticos.
 
-El Tribunal Electoral de Tlaxcala, será órgano autónomo y máxima autoridad jurisdiccional electoral, tendrá competencia para resolver en forma definitiva e inatacable, en los términos del Código Electoral del Estado, las impugnaciones que se presenten en materia electoral. Dicho organismo expedirá su Reglamento Interior y realizará las demás atribuciones que le confiera el Código Electoral.
+El Instituto Electoral de Tlaxcala, dispondrá del personal calificado necesario para prestar el servicios electoral profesional.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+Las sesiones de los Organos Colegiados del Instituto Electoral de Tlaxcala, serán públicas y sus resoluciones recurribles conforme lo disponga el Código Electoral de Estado.
 
-El Tribunal Electoral de Tlaxcala, se organizará en los términos que señale el Código Electoral. Para el ejercicio de su competencia contará con Magistrados y Jueces Instructores, los cuales serán independientes y responderán sólo al mandato de la Ley. Los Magistrados del Tribunal y Jueces Instructores deberán satisfacer los requisitos que establezca la Ley y no podrán ser menores a los que señala esta Constitución para ser Magistrados del Tribunal Superior de Justicia.
+VI.- El Tribunal Electoral de Tlaxcala, es un Organo investido de legalidad y dependerá jurisdiccional y administrativamente del Tribunal Superior de Justicia, tendrá competencia para conocer y resolver en única instancia y de manera definitiva las impugnaciones que se presenten en materia electoral, las que se sustanciarán en términos de lo establecido en el Código Electoral y para el conocimiento de los delitos electorales, se sujetará a lo previsto en la Ley Orgánica del Poder Judicial, al Código Penal y de Procedimientos Penales.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+El Código Electoral del Estado, establecerá un sistema de medios de impugnación de los que conocerá el Consejo Electoral de Tlaxcala o el Tribunal Electoral en su caso.
 
-El personal profesional técnico y administrativo, se hará bajo contrato de prestación de servicios profesionales.
+La interposición de los recursos, no suspende en ningún caso los efectos del acto o resolución impugnada.
+
+El Tribunal Electoral de Tlaxcala, se organizará en los términos que señale el Código Electoral. Para el ejercicio de su competencia, se integrará por tres Magistrados Numerarios y un Supernumerario y Jueces instructores, los cuales serán independientes y responderán sólo al mandato de la Ley, los Magistrados del Tribunal y Jueces Instructores, deberán satisfacer los requisitos que establece la Constitución para ser Magistrado del Tribunal Superior de Justicia.
+
+Además de lo anterior, los Magistrados y Jueces Instructores, no deberán ser militantes de Partido Político alguno, y no haber sido servidor público de la Federación, del Estado o de los Ayuntamientos con funciones de dirección y atribuciones de mando durante el año previo al día de su designación.
+
+Los Magistrados del Tribunal Electoral de Tlaxcala, permanecerán en su cargo durante dos procesos electorales ordinarios, pudiendo ser reelectos bajo el mismo procedimiento establecido para su elección.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -191,15 +197,29 @@ II.- Tener un modo honesto de vivir.
 
 Son prerrogativas del ciudadano tlaxcalteca:
 
-I.- Votar en las elecciones populares.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+I.- Votar en las elecciones populares del Estado.
 
 II.- Poder ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, si reúne las cualidades que la Ley establezca.
 
-III.- Asociarse para tratar los asuntos políticos del Estado.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-IV.- Ejercer, con motivo de éstos, el derecho de petición.
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos del Estado.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+IV.- Ejercer ante las autoridades Estatales y Municipales, el derecho de petición; en los términos y condiciones establecidas en el Artículo 8 de la Constitución Política de los Estados Unidos Mexicanos.
 
 V.- Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+VI.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley Orgánica del Poder Legislativo y su Reglamento Interior y que se considerará en el siguiente período ordinario de Sesiones.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+VII.- Participar en las consultas populares, plebiscitarias y de referéndum.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -209,13 +229,17 @@ Son obligaciones del ciudadano tlaxcalteca:
 
 I.- Tomar las armas para la defensa del Estado o sus Instituciones, conforme lo prevenga la Ley.
 
-II.- Inscribirse en el padrón electoral.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-III.- Votar en las elecciones populares de carácter federal, estatal y municipal que le corresponda.
+II.- Inscribirse en el Padrón Electoral del Estado y en el Registro Nacional de Ciudadanos, en los términos que determine la Ley correspondiente.
 
-IV.- Desempeñar los cargos de elección popular de la Federación o del Estado, y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-V.- Desempeñar los cargos del Ayuntamiento donde resida, las funciones electorales y las de jurado.
+III.- Desempeñar las funciones electorales, para las que fuere designado, en los términos y condiciones que fije la Ley de la materia.
+
+IV.- (DEROGADA, P.O. 25 DE JUNIO DE 1997)
+
+V.- (DEROGADA, P.O. 25 DE JUNIO DE 1997)
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -305,9 +329,9 @@ Las Leyes Orgánicas de los Poderes determinarán los casos en que los órganos 
 
 Los Municipios integrantes del Estado son: Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Altzayanca, Calpulalpan, Cuapiaxtla, Cuaxomulco, Chiautempan, Muñoz de Domingo Arenas, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Mazatecochco de José María Morelos, Contla de Juan Cuamatzi, Tepetitla de Lardizábal, Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Acuamanala de Miguel Hidalgo, Nativitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, El Carmen Tequexquitla, Terrenate, Tetla de la Solidaridad, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Zitlaltepec de Trinidad Sánchez Santos, Tzompantepec, Xaloztoc, Xaltocan, Papalotla de Xicohténcatl, Xicohtzinco, Yauhquemecan, Zacatelco, Santa Apolonia Teacalco, Santa Cruz Quilehtla, San Juan Huactzinco, Santa Catarina Ayometla, Santa Isabel Xiloxoxtla, San José Teacalco, San Francisco Tetlanohcan, La Magdalena Tlaltelulco, San Damián Texoloc, Emiliano Zapata, Lázaro Cárdenas, San Jerónimo Zacualpan, San Lucas Tecopilco, Santa Ana Nopalucan, San Lorenzo Axocomanitla y Benito Juárez.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
 
-Para constituir un Municipio, se requieren las cualidades siguientes:
+Para constituir un Municipio, se requiere del cumplimiento de los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 1995)</small>
 
@@ -349,9 +373,11 @@ IX.- Que cuando menos las dos terceras partes de los contribuyentes, cumplan y h
 
 X.- Que presenten los proyectos de convenios para la transferencia y cumplimiento de obligaciones crediticias, contraídas en su régimen de Gobierno anterior a la petición.
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-XI.- Que, cuando menos las dos terceras partes de los ciudadanos de la unidad demográfica, expresen su libre voluntad de aprobar la solicitud.
+XI.- Que mediante consulta popular muestren su aprobación a la solicitud cuando menos las dos terceras partes de los ciudadanos que participen en el plebiscito y que tengan residencia en el Municipio o Municipios involucrados.
+
+El Instituto Electoral de Tlaxcala, organizará el plebiscito de que se trate.
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
 
@@ -423,7 +449,9 @@ I.- Los nacidos en el territorio del Estado.
 
 II.- Los mexicanos nacidos fuera del territorio del Estado, de padre o madre tlaxcalteca.
 
-III.- (DEROGADA, P.O. 3 DE MAYO DE 1995)
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+III.- La ciudadanía por naturalización se adquiere por el hecho de residir en el Estado ocho años, de conformidad a lo que establezca la Ley de Ciudadanía que al efecto se expida.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -521,27 +549,63 @@ Por cada Diputado propietario se elegirá un suplente.
 
 La elección de los trece Diputados según el Principio de Representación Proporcional, se sujetará a lo que disponga la Ley y a las siguientes bases:
 
-I.- Un partido político, para obtener el registro de sus listas de candidatos, deberá acreditar que participa con candidatos a Diputados por Mayoría Relativa en por lo menos trece Distritos Uninominales;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-II.- Todo Partido Político que alcance por lo menos el uno y medio por ciento del total de la votación efectiva, tendrá derecho a que le sean atribuidos Diputados según el principio de representación proporcional;
+I.- Un Partido Político, para obtener el registro de sus listas de candidatos, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en por lo menos trece Distritos Uninominales;
 
-III.- Al Partido Político que cumpla con lo dispuesto en las dos fracciones anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán asignados por el principio de representación proporcional, el número de diputados de la lista que le corresponda, de acuerdo con su votación emitida: En la asignación se seguirá el orden que tengan los candidatos en las listas correspondientes;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-IV.- En ningún caso un partido político podrá contar con más de veinte Diputados por ambos principios;
+II.- Todo Partido Político que alcance por lo menos el 3% del total de la votación efectiva, tendrá derecho a que le sean atribuidos Diputados según el principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-V. El Partido Político que haya obtenido más del sesenta por ciento de la votación emitida, tendrá derecho a que se le asignen Diputados por el principio de Representación Proporcional, hasta que el número de Diputados sea igual al porcentaje de la votación emitida, sin rebasar el límite señalado en la fracción anterior.
+III.- Al Partido que cumpla con lo dispuesto en las dos fracciones anteriores y que obtenga el mayor número de constancias de mayoría relativa en la elección de Diputados y cuando menos el 42% del total de la votación efectiva en el Estado, tendrá derecho a que se le asignen Diputados por el principio de representación proporcional, hasta acreditar la mitad más uno del total de Diputados que integren la Legislatura.
 
-VI.- Ningún partido político que obtenga menos del sesenta por ciento de la votación emitida podrá constar con más de diecinueve Diputados por ambos principios; y,
+La asignación de Diputados de representación proporcional se sujetará a las siguientes reglas:
 
-VII.- En los términos de lo establecido en las fracciones III, IV, V y VI anteriores, las Diputaciones de representación proporcional que resten después de asignar las que correspondan al Partido Político que se halle en los supuestos de las fracciones V o VI, se adjudicarán a los demás partidos políticos con derecho a ello, en proporción directa con las respectivas votaciones de éstos últimos. La Ley desarrollará las reglas y fórmulas necesarias para estos efectos.
+a).- El cómputo se concretará a la suma de los resultados consignados en las actas de cómputo parciales, realizados por los Comités Distritales Electorales.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
+b).- Se determinará el total de la votación emitida para todas las listas registradas en la circunscripción plurinominal, para estar en condiciones de hacer la declaratoria de los Partidos Políticos que no obtuvieron el 3% de la votación efectiva en la circunscripción.
+
+Es votación efectiva, la que resulte de restar a la votación total emitida los votos nulos, y la de los sufragados en favor de los Partidos Políticos que no obtengan el 3% de la votación efectiva.
+
+c).- Concluido el cómputo se procederá a levantar el acta correspondiente, haciendo constar en ella los incidentes que se presentaren, podrá darse copia del acta a los representantes de los Partidos Políticos o a los candidatos que la soliciten.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+IV.- En ningún caso un Partido Político podrá contar con más de diecinueve Diputados.
+
+V.- (DEROGADA, P.O. 25 DE JUNIO DE 1997)
+
+VI.- (DEROGADA, P.O. 25 DE JUNIO DE 1997)
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+VII.- En los términos de lo establecido en las Fracciones III y IV anteriores, las diputaciones de representación proporcional que resten, se adjudicarán a los demás Partidos Políticos con derecho a ello, en proporción directa con las respectivas votaciones de éstos últimos. La Ley desarrollará las reglas y fórmulas necesarias para estos efectos.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+VIII.- Los Partidos Políticos que no queden comprendidos dentro del supuesto de la Fracción III de este Artículo; participarán en la asignación de diputados por el Principio de Representación Proporcional, tomando en cuenta el cociente natural y hasta agotar las diputaciones.
+
+Por este principio, ningún Partido podrá tener más de diecisiete Diputados por ambos principios.
+
+Para la aplicación de la fórmula de representatividad mínima, se observará el siguiente procedimiento:
+
+a).- Se procederá a obtener el cociente natural y resto mayor, en los términos de lo establecido en el Artículo 217 del Código Electoral del Estado.
+
+b).- Obtenido el cociente natural, se asignarán a cada Partido Político tantas diputaciones como número de veces contenga su votación dicho cociente natural.
+
+c).- Si quedaran diputaciones por asignar después de haberse aplicado el cociente natural, las restantes se asignarán a los Partidos Políticos, aplicando el resto mayor y hasta que no quede ninguna diputación por asignar.
+
+Los Partidos que obtengan el triunfo por el Principio de Mayoría Relativa, se les adjudicarán las constancias de mayoría en todos los Distritos en que hayan triunfado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 34.
 
-La demarcación de los diecinueve Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado, según el último censo entre tales distritos. El Código Electoral del Estado de Tlaxcala, señalará la demarcación territorial de estos distritos.
+La demarcación de los diecinueve Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado, según el último censo entre tales Distritos, los que comprenderán un número de habitantes que no podrá diferir más o menos del 10% del cociente resultante. El Consejo General del Instituto Electoral de Tlaxcala, señalará la demarcación territorial de estos Distritos; los que deberán tener continuidad geográfica, incluir íntegro el territorio de cada uno de los Municipios que comprenda, sólo se exceptúan de este requisito los Municipios cuya población sea superior al cociente natural, y la demarcación de las Secciones Locales Electorales que correspondan a la de las Secciones Electorales Federales.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
 
 Para la elección de los Diputados según el principio de representación proporcional, se constituirá una circunscripción electoral plurinominal que corresponderá a la totalidad del territorio del Estado.
 
@@ -603,17 +667,17 @@ Del Poder Ejecutivo.
 
 El Congreso se renovará en su totalidad cada tres años, y comenzará a funcionar el día 15 de enero del año inmediato posterior a la elección.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 39.
 
-Calificada de legal la elección, se declarará integrada la Legislatura por el órgano electoral competente, ésta será instalada por la Legislatura saliente o en su caso procederá a instalarse por sí misma, la nueva Legislatura.
+Resuelta por el Tribunal Electoral de Tlaxcala la última impugnación relativa a la asignación de Diputados por ambos principios, éste lo hará del conocimiento del Consejo General del Instituto Electoral, Organo que hará la declaratoria de estar integrada la Legislatura y mandará publicar su declaración en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 40.
 
-Si por cualquier circunstancia no se instalare la nueva Legislatura de conformidad con el artículo anterior, procederá a su propia instalación conforme a los (sic) dispuesto por la Ley Orgánica del Poder Legislativo.
+La nueva Legislatura será instalada por la Legislatura saliente, si por cualquier circunstancia no la instalare, la nueva procederá a su propia instalación, conforme a lo dispuesto por la Ley Orgánica del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -687,6 +751,20 @@ Todo proyecto de Ley o Decreto, así como los asuntos en que deba recaer resoluc
 
 Los proyectos o iniciativas adquirirán el carácter de Ley o Decreto, cuando sean aprobados por la mayoría de los Diputados presentes.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1997)</small>
+
+ARTICULO 48 BIS.- Los Organos de Gobierno podrán auscultar la opinión de la población, mediante la consulta popular, el referéndum y el plebiscito.
+
+La Consulta Popular será un proceso permanente y procurarán realizarla todos los Organos de Gobierno.
+
+El Referéndum se llevará a cabo en aquellas Leyes y Decretos, con excepción de las de carácter tributario, que dentro del término de cuarenta días naturales siguientes a su vigencia, sean solicitadas cuando menos por el 5% de los ciudadanos inscritos en el Padrón Electoral del Estado.
+
+El plebiscito es facultad del Poder Público Estatal, y mediante él, se podrá someter a consulta de los ciudadanos tlaxcaltecas, los actos que la Ley de la materia determine.
+
+El Referéndum y el Plebiscito, los realizará el Instituto Electoral de Tlaxcala, en los términos que señale la Ley que para tal efecto se expida.
+
+La Ley respectiva determinará el procedimiento a seguir, para cada caso.
+
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 49.
@@ -737,11 +815,21 @@ IV.- Legislar en aquellas materias en que la Constitución Federal prevea facult
 
 V.- Iniciar leyes o decretos ante el Congreso de la Unión.
 
-VI.- Fijar la división territorial política, administrativa y judicial del Estado.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+VI.- Fijar la División territorial, administrativa y judicial del Estado.
 
 VII.- Revocar los acuerdos de los Ayuntamientos cuando sean contrarios a la Constitución Federal, a la del Estado, a cualquiera otra Ley o bien lesionen los intereses Municipales.
 
-VIII.- Convocar a elecciones de Ayuntamiento cuando fuere necesario, y resolver las reclamaciones que con motivo de ellas se presenten.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+VIII.- Convocar a elecciones extraordinarias.
+
+Convocar a elecciones extraordinarias de Ayuntamientos, cuando se hubiesen declarado nulas las elecciones respectivas o declarado la inelegibilidad de la planilla triunfadora.
+
+En el caso al que se refiere el párrafo anterior, se nombrará un Concejo Municipal provisional, hasta en tanto se elijan nuevas autoridades.
+
+La convocatoria a nuevas elecciones, se hará dentro de los cuarenta y cinco días siguientes a la resolución del Tribunal Electoral de Tlaxcala que nulifique las elecciones en el Municipio de que se trate o declare inelegible a la planilla que hubiere obtenido la mayoría de votos.
 
 IX.- Autorizar y dar bases al ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la forma de pago.
 
@@ -791,7 +879,9 @@ XXI.- Integrar a solicitud de las dos terceras partes de sus miembros comisiones
 
 XXII.- Autorizar al Ejecutivo y a los Ayuntamientos para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado y a los Municipios respectivamente.
 
-XXIII.- Convocar a elecciones ordinarias.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+XXIII.- Conocer en los términos que la Ley respectiva señale, de las Iniciativas de los ciudadanos, que se considerará en el siguiente período ordinario de Sesiones.
 
 XXIV.- Convocar a elecciones extraordinarias de Diputados cuando, por cualquiera circunstancia, falten de una manera absoluta el propietario y el suplente.
 
@@ -799,17 +889,17 @@ XXV.- Convocar a elecciones extraordinarias de Gobernador en los casos previstos
 
 XXVI.- (DEROGADA, P.O. 25 DE JULIO DE 1994) (REPUBLICADA, P.O. 25 DE AGOSTO DE 1995)
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-XXVII.- Erigirse en Colegio Electoral, para hacer la calificación y declaratoria, respecto a las elecciones de Gobernador, Ayuntamientos y Presidentes Municipales Auxiliares.
+XXVII.- Elegir a los Magistrados Numerarios y Supernumerarios del Tribunal Electoral, de una lista propuesta por las Fracciones Parlamentarias que integren la Legislatura y conforme a los demás requisitos que establezca esta Constitución y el Código Electoral del Estado, y a propuesta del Gobernador a los Magistrados, Propietarios y Suplentes del Tribunal Superior de Justicia, de acuerdo con la Legislación respectiva y cuando menos por las dos terceras partes de los Diputados presentes en la Sesión correspondiente.
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-XXVIII.- Nombrar al Presidente del Instituto Electoral de Tlaxcala, a los Magistrados propietarios y suplentes del Tribunal Superior de Justicia a propuesta del Ejecutivo y del Tribunal Electoral de Tlaxcala, como lo señale la legislación respectiva.
+XXVIII.- Nombrar al Presidente, a los Concejales Electorales y al Secretario Ejecutivo del Instituto Electoral de Tlaxcala, por el voto aprobatorio, cuando menos de las dos terceras partes de los Diputados presentes en la Sesión correspondiente.
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
 
-XXIX.- Recibir la protesta de Ley a los Diputados, Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral de Tlaxcala, así como a los servidores públicos que el Congreso designe en pleno en los términos de la Ley Orgánica del Poder Legislativo del Estado.
+XXIX.- Recibir la protesta de Ley a los Servidores Públicos que el Congreso designe en Pleno, en los términos de la Ley Orgánica del Poder Legislativo del Estado.
 
 XXX.- Conceder licencia a sus miembros, al Gobernador, en los términos que dispone esta Constitución y a los Magistrados cuando su separación sea por más de seis meses.
 
@@ -847,9 +937,7 @@ XLIV.- Nombrar el día anterior al de la clausura de cada período de sesiones o
 
 XLV.- Expedir las Leyes que regulen su estructura y funcionamiento internos.
 
-(REFORMADA, P.O. 25 DE AGOSTO DE 1995) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1995)
-
-XLVI.- Recibir los expedientes relativos a la elección de Gobernador, de Ayuntamientos y de Presidentes Municipales Auxiliares.
+XLVI.- (DEROGADA, P.O. 25 DE JUNIO DE 1997)
 
 XLVII.- Instalar la Junta Preparatoria del nuevo Congreso.
 
@@ -905,11 +993,13 @@ VII.- Las demás que le confieran esta Constitución y la Ley.
 
 El ejercicio del Poder Ejecutivo del Estado se deposita en un solo ciudadano que se denominará "Gobernador del Estado de Tlaxcala" y que residirá en la Capital del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 58.
 
-La elección de Gobernador, será popular, directa y se realizará en los términos que disponga el Código Electoral del Estado de Tlaxcala.
+La elección de Gobernador será universal, popular, directa y se realizará en los términos que disponga el Código Electoral del Estado de Tlaxcala.
+
+La Legislatura del Estado expedirá el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador electo que hubiere hecho el Instituto Electoral de Tlaxcala.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1996)</small>
 
@@ -1251,7 +1341,9 @@ Para ser Juez de Primera Instancia son necesarios los mismos requisitos que para
 
 Corresponde al Poder Judicial:
 
-I.- Conocer de los juicios civiles, familiares y penales en todas sus instancias, así como de los recursos que sean de su competencia conforme a las leyes de la materia.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1997)</small>
+
+I.- Conocer de los juicios civiles, familiares, penales y electorales en todas sus instancias, así como de los recursos que sean de su competencia, conforme a las Leyes de la materia.
 
 II.- Conocer de las controversias a que se refiere el artículo 104 de la Constitución Federal en su fracción primera.
 
@@ -1557,7 +1649,9 @@ El año fiscal para la aplicación de la Ley de Ingresos y el ejercicio del Pres
 
 Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial del Estado y en general, a toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza en la administración pública centralizada y parestatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Gozan de fuero el Gobernador, los Diputados y los Magistrados; pero son responsables por los delitos del orden común que cometan durante su encargo y por los delitos y faltas oficiales en que incurran en el ejercicio del mismo.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1997)</small>
+
+Gozan de fuero constitucional, el Gobernador del Estado, los Diputados del Congreso Local, los Magistrados del Tribunal Superior de Justicia, los Concejales Electorales, el Secretario Ejecutivo y los Magistrados del Tribunal Electoral de Tlaxcala; pero son responsables por los delitos del orden común que cometan durante su encargo y por los delitos y faltas oficiales en que incurran en el ejercicio del mismo.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1995)</small>
 
@@ -1968,3 +2062,13 @@ P.O. 23 DE ABRIL DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE JUNIO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de la integración del Consejo General del Instituto Electoral de Tlaxcala, se estará a lo dispuesto en el Artículo 78 del Código Electoral del Estado de Tlaxcala.
