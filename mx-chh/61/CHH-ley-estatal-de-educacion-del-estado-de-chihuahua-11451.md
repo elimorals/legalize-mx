@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2002-12-21"
+last_updated: "2003-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -153,7 +153,9 @@ XIII.- Impulsar el desarrollo armónico del educando para la formación de sus c
 
 XIV.- Crear conciencia de la preservación de la salud a través del ejercicio físico y estimular la disciplina de la práctica del deporte;
 
-XV.- Concientizar a los educandos sobre los perjuicios que ocasionan los narcóticos, estupefacientes, psicotrópicos y demás sustancias nocivas que determine la Ley General de Salud;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2003)</small>
+
+XV.- Desarrollar e implementar las estrategias preventivas para la sensibilización y toma de conciencia a los educandos sobre los perjuicios que ocasionan las sustancias nocivas y tóxicas como los narcóticos, estupefacientes, psicotrópicos, alcohol, tabaco, entre otras que determina la Ley General de Salud;
 
 XVI.- Promover el trabajo de equipo, el espíritu creativo y la asociación para emprender;
 
@@ -997,9 +999,11 @@ IV.- Desarrollar actitudes, conocimientos, aptitudes, habilidades y destrezas en
 
 V.- Brindar orientación a padres o tutores de educandos, así como a los educadores y personal de apoyo en las escuelas de educación básica regular, que integren en sus planteles a alumnos con necesidades educativas especiales, con o sin discapacidad, o con aptitudes sobresalientes.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 71.
 
-El Gobierno del Estado destinará recursos crecientes a fin de ampliar y mejorar la cobertura y calidad de la educación especial así como para la adecuación de espacios físicos en los centros educativos tal como lo establece la Ley para las Personas con Discapacidad en el Estado de Chihuahua.
+El Gobierno del Estado destinará recursos crecientes a fin de ampliar y mejorar la cobertura y calidad de la educación especial así como para la adecuación de espacios físicos en los centros educativos y dotación del material didáctico necesario, tal como lo establece la Ley para las Personas con Discapacidad en el Estado de Chihuahua.
 
 #### SECCIÓN I. DE LOS PADRES DE FAMILIA Y SUS ORGANISMOS
 
@@ -2072,5 +2076,23 @@ P.O. 22 DE MAYO DE 2002.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE DICIEMBRE DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2003.
+
+DECRETO No. 448-02 I P.O.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil tres, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2003.
+
+DECRETO No. 847-03 I P.O.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
