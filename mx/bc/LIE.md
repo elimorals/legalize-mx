@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "1995-06-07"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -80,7 +80,17 @@ La inversión extranjera podrá participar en cualquier proporción en el capita
 
 Las reglas sobre la participación de la inversión extranjera en las actividades del sector financiero contempladas en esta Ley, se aplicarán sin perjuicio de lo que establezcan las leyes específicas para esas actividades.
 
-## TITULO SEGUNDO. DE LA ADQUISICION DE BIENES INMUEBLES Y DE LOS FIDEICOMISOS
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Para efectos de determinar el porcentaje de inversión extranjera en las actividades económicas sujetas a límites máximos de participación, no se computará la inversión extranjera que, de manera indirecta, sea realizada en dichas actividades a través de sociedades mexicanas con mayoría de capital mexicano, siempre que éstas últimas no se encuentren controladas por la inversión extranjera.
+
+## TITULO SEGUNDO
+
+DE LA ADQUISICION DE BIENES INMUEBLES, LA EXPLOTACION DE MINAS Y AGUAS,
+
+Y DE LOS FIDEICOMISOS
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ### Capítulo II. De las Actividades Reservadas
 
@@ -152,59 +162,61 @@ b) Transporte en aerotaxi; y
 
 c) Transporte aéreo especializado;
 
-III.- Hasta el 30% en:
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-a) Sociedades controladoras de agrupaciones financieras;
+III.- Hasta el 49% en:
 
-b) Instituciones de crédito de banca múltiple;
+a) Sociedades controladoras de grupos financieros;
 
-c) Casas de bolsa; y
+b) Instituciones de banca múltiple;
+
+c) Casas de bolsa;
 
 d) Especialistas bursátiles;
 
-IV.- Hasta el 49% en:
+e) Instituciones de seguros;
 
-a) Instituciones de seguros;
+f) Instituciones de fianzas;
 
-b) Instituciones de fianzas;
+g) Casas de cambio;
 
-c) Casas de cambio;
+h) Almacenes generales de depósito;
 
-d) Almacenes generales de depósito;
+i) Arrendadoras financieras;
 
-e) Arrendadoras financieras;
+j) Empresas de factoraje financiero;
 
-f) Empresas de factoraje financiero;
+k) Sociedades financieras de objeto limitado;
 
-g) Sociedades financieras de objeto limitado a las que se refiere el artículo 103 fracción IV, de la Ley de Instituciones de Crédito;
+l) Sociedades a las que se refiere el artículo 12-Bis de la Ley del Mercado de Valores;
 
-h) Sociedades a las que se refiere el artículo 12 Bis de la Ley del Mercado de Valores;
+m) Acciones representativas del capital fijo de sociedades de inversión;
 
-i) Acciones representativas del capital fijo de sociedades de inversión y sociedades operadoras de sociedades de inversión;
+n) Sociedades operadoras de sociedades de inversión;
 
-j) Fabricación y comercialización de explosivos, armas de fuego, cartuchos, municiones y fuegos artificiales, sin incluir la adquisición y utilización de explosivos para actividades industriales y extractivas, ni la elaboración de mezclas explosivas para el consumo de dichas actividades;
+o) Administradoras de fondos para el retiro;
 
-k) Impresión y publicación de periódicos para circulación exclusiva en territorio nacional;
+p) Fabricación y comercialización de explosivos, armas de fuego, cartuchos, municiones y fuegos artificiales, sin incluir la adquisición y utilización de explosivos para actividades industriales y extractivas, ni la elaboración de mezclas explosivas para el consumo de dichas actividades;
 
-l) Acciones serie "T" de sociedades que tengan en propiedad tierras agrícolas, ganaderas y forestales;
+q) Impresión y publicación de periódicos para circulación exclusiva en territorio nacional;
 
-m) Televisión por cable;
+r) Acciones serie "T" de sociedades que tengan en propiedad tierras agrícolas, ganaderas y forestales;
 
-n) Servicios de telefonía básica;
+s) Pesca en agua dulce, costera y en la zona económica exclusiva, sin incluir acuacultura;
 
-o) Pesca en agua dulce, costera y en la zona económica exclusiva, sin incluir acuacultura;
+t) Administración portuaria integral;
 
-p) Administración portuaria integral;
+u) Servicios portuarios de pilotaje a las embarcaciones para realizar operaciones de navegación interior en los términos de la Ley de la materia;
 
-q) Servicios portuarios de pilotaje a las embarcaciones para realizar operaciones de navegación interior, en los términos de la Ley de la materia.
+v) Sociedades navieras dedicadas a la explotación comercial de embarcaciones para la navegación interior y de cabotaje, con excepción de cruceros turísticos y la explotación de dragas y artefactos navales para la construcción, conservación y operación portuaria;
 
-r) Sociedades navieras dedicadas a la explotación comercial de embarcaciones para la navegación interior y de cabotaje, con excepción de cruceros turísticos y la explotación de dragas y artefactos navales para la construcción, conservación y operación portuaria;
+w) Suministro de combustibles y lubricantes para embarcaciones y aeronaves y equipos ferroviarios, y
 
-s) (DEROGADO POR LA FRACCION II DEL ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
+x) Sociedades concesionarias en los términos de los artículos 11 y 12 de la Ley Federal de Telecomunicaciones.
 
-t) Suministro de combustible y lubricantes para embarcaciones, aeronaves y equipo ferroviario.
+IV.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
-Los límites para la participación de inversión extranjera señalados en este artículo, no podrán ser rebasados directamente, ni a través de fideicomisos, convenios, pactos sociales o estatutarios, esquemas de piramidación, o cualquier otro mecanismo que otorgue control o una participación mayor a la que se establece, salvo por lo dispuesto en el Título Quinto de esta Ley.
+Los límites para la participación de inversión extranjera señalados en este artículo no podrán ser rebasados directamente, ni a través de fideicomisos, convenios, pactos sociales o estatutarios, esquemas de piramidación, o cualquier otro mecanismo que otorgue control o una participación mayor a la que se establece, salvo por lo dispuesto en el Título Quinto de esta Ley.
 
 ###### ARTICULO 8o.
 
@@ -214,7 +226,9 @@ I.- Servicios portuarios a las embarcaciones para realizar sus operaciones de na
 
 II.- Sociedades navieras dedicadas a la explotación de embarcaciones exclusivamente en tráfico de altura;
 
-III.- Administración de terminales aéreas;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+III.- Sociedades concesionarias o permisionarias de aeródromos de servicio al público;
 
 IV.- Servicios privados de educación preescolar, primaria, secundaria, media superior, superior y combinados;
 
@@ -228,17 +242,25 @@ VIII.- Agentes de seguros;
 
 IX.- Telefonía celular;
 
-X.- Construcción de ductos para la transportación de petróleo y sus derivados; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-XI.- Perforación de pozos petroleros y de gas.
+X.- Construcción de ductos para la transportación de petróleo y sus derivados;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+XI.- Perforación de pozos petroleros y de gas, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+XII.- Construcción, operación y explotación de vías férreas que sean vía general de comunicación, y prestación del servicio público de transporte ferroviario.
 
 ###### ARTICULO 9o.
 
 Se requiere resolución favorable de la Comisión para que en las sociedades mexicanas donde la inversión extranjera pretenda participar, directa o indirectamente, en una proporción mayor al 49% de su capital social, únicamente cuando el valor total de activos de las sociedades de que se trate, al momento de someter la solicitud de adquisición, rebase el monto que determine anualmente la propia Comisión.
 
-### Capítulo I
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-De la Adquisición de Bienes Inmuebles.
+### Capítulo I. De la adquisición de bienes inmuebles y explotación de minas y aguas
 
 ### Capítulo II. De los Fideicomisos sobre Bienes Inmuebles en Zona Restringida
 
@@ -248,9 +270,25 @@ De conformidad con lo dispuesto por la fracción I del artículo 27 de la Consti
 
 En el caso de las sociedades en cuyos estatutos se incluya el convenio previsto en la fracción I del artículo 27 Constitucional, se estará a lo siguiente:
 
-I.- Podrán adquirir el dominio de bienes inmuebles ubicados en la zona restringida, destinados a la realización de actividades no residenciales, debiendo registrar dicha adquisición ante la Secretaría de Relaciones Exteriores; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+I.- Podrán adquirir el dominio de bienes inmuebles ubicados en la zona restringida, destinados a la realización de actividades no residenciales, debiendo dar aviso de dicha adquisición a la Secretaría de Relaciones Exteriores, dentro de los sesenta días hábiles siguientes a aquél en el que se realice la adquisición, y
 
 II.- Podrán adquirir derechos sobre bienes inmuebles en la zona restringida, que sean destinados a fines residenciales, de conformidad con las disposiciones del capítulo siguiente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 10-A.
+
+Los extranjeros que pretendan adquirir bienes inmuebles fuera de la zona restringida, u obtener concesiones para la exploración y explotación de minas y aguas en el territorio nacional, deberán presentar previamente ante la Secretaría de Relaciones Exteriores un escrito en el que convengan lo dispuesto en la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y obtener el permiso correspondiente de dicha dependencia.
+
+Cuando el bien inmueble que se pretenda adquirir esté en un municipio totalmente ubicado fuera de la zona restringida o cuando se pretenda obtener una concesión para la explotación de minas y aguas en territorio nacional, el permiso se entenderá otorgado si no se publica en el Diario Oficial de la Federación la negativa de la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de la presentación de la solicitud.
+
+Cuando el bien inmueble que se pretenda adquirir esté en un municipio parcialmente ubicado dentro de la zona restringida, la Secretaría de Relaciones Exteriores resolverá la petición dentro de los treinta días hábiles siguientes a la fecha de su presentación.
+
+El Instituto Nacional de Estadística, Geografía e Informática publicará en el Diario Oficial de la Federación y mantendrá actualizada una lista de los municipios mencionados, así como de los que estén totalmente ubicados en la zona restringida.
+
+La Secretaría de Relaciones Exteriores podrá determinar, mediante acuerdos generales que se publicarán en el Diario Oficial de la Federación, supuestos en los que los extranjeros, para tener el derecho a que se refiere este artículo, sólo deberán presentar ante dicha dependencia un escrito en el que convengan lo dispuesto en la fracción I del artículo 27 constitucional, sin requerir el permiso correspondiente de dicha dependencia.
 
 ### Capítulo I. Del Concepto de Inversión Neutra
 
@@ -276,27 +314,63 @@ De la Constitución y Modificación de Sociedades
 
 La duración de los fideicomisos a que este capítulo se refiere, será por un periodo máximo de cincuenta años, mismo que podrá prorrogarse a solicitud del interesado.
 
-La Secretaría de Relaciones Exteriores se reserva la facultad de verificar en cualquier tiempo el cumplimiento de las condiciones bajo las cuales se otorguen los permisos e inscripciones a que este título se refiere.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Secretaría de Relaciones Exteriores podrá verificar en cualquier tiempo el cumplimiento de las condiciones bajo las cuales se otorguen los permisos previstos en el presente Título, así como la presentación y veracidad del contenido de los avisos dispuestos en el mismo.
 
 ###### ARTICULO 14.
 
 La Secretaría de Relaciones Exteriores resolverá sobre los permisos a que se refiere el presente capítulo, considerando el beneficio económico y social que la realización de estas operaciones implique para la Nación.
 
-Toda solicitud de permiso que cumpla con los requisitos señalados, deberá ser otorgada por la Secretaría de Relaciones Exteriores dentro de los treinta días hábiles siguientes a la fecha de su presentación. Las inscripciones ante el registro a que se refiere la fracción I del artículo 10, deberán resolverse dentro de un plazo máximo de quince días hábiles siguientes a la presentación de la solicitud. En caso contrario, el permiso o el registro correspondiente se considerará otorgado.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Toda solicitud de permiso deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación ante la unidad administrativa central competente, o dentro de los treinta días hábiles siguientes, si se presenta en las delegaciones estatales de dicha dependencia. Concluidos dichos plazos sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 
 ###### ARTICULO 15.
 
 Se requiere permiso de la Secretaría de Relaciones Exteriores para la constitución de sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 16.
 
-Se requiere permiso de la Secretaría de Relaciones Exteriores para que las sociedades constituidas cambien su denominación o razón social, o para que modifiquen su cláusula de exclusión de extranjeros por la de admisión de extranjeros.
+Se requiere permiso de la Secretaría de Relaciones Exteriores para que las sociedades constituidas cambien su denominación o razón social.
+
+Las sociedades que modifiquen su cláusula de exclusión de extranjeros por la de admisión, deberán notificarlo a la Secretaría de Relaciones Exteriores, dentro de los treinta días hábiles siguientes a dicha modificación.
+
+Si estas sociedades son propietarias de bienes inmuebles ubicados en la zona restringida destinados a fines no residenciales, deberán dar el aviso a que se refiere la fracción I del artículo 10 de esta Ley, dentro del plazo previsto en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 16-A.
+
+Toda solicitud de permiso a que se refieren los artículos 15 y 16 de esta Ley deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 
 ###### ARTICULO 17.
 
-Sin perjuicio de lo establecido en los tratados y convenios internacionales de los que México sea parte, para que personas morales extranjeras puedan realizar habitualmente actos de comercio en la República Mexicana, se deberá obtener autorización de la Secretaría para su consecuente inscripción en el Registro Público de Comercio, de conformidad con los artículos 250 y 251 de la Ley General de Sociedades Mercantiles.
+Sin perjuicio de lo establecido en los tratados y convenios internacionales de los que México sea parte, deberán obtener autorización de la Secretaría:
 
-Toda solicitud para obtener la autorización a que se refiere el párrafo anterior, que cumpla con los requisitos correspondientes, deberá otorgarse por la Secretaría dentro de los 15 días hábiles siguientes a la fecha de su presentación.
+I.- Las personas morales extranjeras que pretendan realizar habitualmente actos de comercio en la República, y
+
+II.- Las personas a que se refiere el artículo 2,736 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, que pretendan establecerse en la República y que no estén reguladas por leyes distintas a dicho Código.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 17-A.
+
+La autorización a que se refiere el artículo anterior, se otorgará cuando se cumplan los siguientes requisitos:
+
+a) Que dichas personas comprueben que están constituidas de acuerdo con las leyes de su país;
+
+b) Que el contrato social y demás documentos constitutivos de dichas personas no sean contrarios a los preceptos de orden público establecidos en las leyes mexicanas, y
+
+c) En el caso de las personas a que se refiere la fracción I del artículo anterior, que se establezcan en la República o tengan en ella alguna agencia o sucursal; o, en el caso de las personas a que se refiere la fracción II del artículo anterior, que tengan representante domiciliado en el lugar donde van a operar, autorizado para responder de las obligaciones que contraigan.
+
+Toda solicitud que cumpla con los requisitos mencionados, deberá otorgarse dentro de los quince días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada.
+
+La Secretaría deberá remitir a la Secretaría de Relaciones Exteriores una copia de las
+
+solicitudes y de las autorizaciones que otorgue con base en este artículo.
 
 ###### ARTICULO 18.
 
@@ -306,15 +380,23 @@ La inversión neutra es aquella realizada en sociedades mexicanas o en fideicomi
 
 La Secretaría podrá autorizar a las instituciones fiduciarias para que expidan instrumentos de inversión neutra que únicamente otorgarán, respecto de sociedades, derechos pecuniarios a sus tenedores y, en su caso, derechos corporativos limitados, sin que concedan a sus tenedores derecho de voto en sus Asambleas Generales Ordinarias.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+
 ###### ARTICULO 20.
 
-Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la Secretaría, y cuando resulte aplicable, de la Comisión Nacional de Valores.
+Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la Secretaría y, cuando resulte aplicable, de la Comisión Nacional Bancaria y de Valores.
+
+La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 
 ###### ARTICULO 21.
 
-Previa opinión de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Valores, la Secretaría podrá resolver sobre la inversión neutra mediante la adquisición de certificados de participación ordinarios emitidos por instituciones fiduciarias autorizadas para tal efecto, cuyo patrimonio esté constituido por acciones representativas de la serie "B" del capital social de sociedades controladoras de grupos financieros, de instituciones de banca múltiple, o acciones representativas de la serie "A" del capital social de casas de bolsa.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 ### Capítulo III. De la Inversión Neutra Representada por Series Especiales de Acciones
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 22.
 
@@ -324,7 +406,9 @@ La Comisión podrá resolver sobre la inversión neutra que pretendan realizar s
 
 ###### ARTICULO 23.
 
-La Comisión estará integrada por los Secretarios de Gobernación, de Relaciones Exteriores, de Hacienda y Crédito Público, de Desarrollo Social, de Energía, Minas e Industria Paraestatal, de Comercio y Fomento Industrial, de Comunicaciones y Transportes, del Trabajo y Previsión Social y de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades que tengan competencia en los asuntos a tratar.
+La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Desarrollo Social; de Medio Ambiente, Recursos Naturales y Pesca; de Energía; de Comercio y Fomento Industrial; de Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz pero no voto.
+
+La Comisión se reunirá semestralmente, cuando menos, y decidirá sobre los asuntos de su competencia por mayoría de votos, teniendo su presidente voto de calidad, en caso de empate.
 
 ### Capítulo V. De la Inversión Neutra realizada por Sociedades Financieras Internacionales para el Desarrollo
 
@@ -332,11 +416,15 @@ La Comisión estará integrada por los Secretarios de Gobernación, de Relacione
 
 La Comisión será presidida por el Secretario de Comercio y Fomento Industrial y para su funcionamiento contará con un Secretario Ejecutivo y un Comité de Representantes.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 ### Capítulo I. De la Estructura de la Comisión
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 25.
 
-El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la Comisión y tendrá las facultades que le delegue la propia Comisión.
+El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la Comisión, se reunirá cuatrimestralmente, cuando menos, y tendrá las facultades que le delegue la propia Comisión.
 
 ### Capítulo II. De las Atribuciones de la Comisión
 
@@ -366,7 +454,9 @@ II.- Notificar las resoluciones de la Comisión, a través de la Secretaría;
 
 III.- Realizar los estudios que le encomiende la Comisión;
 
-IV.- Presentar al Congreso de la Unión un informe estadístico anual sobre el comportamiento de la inversión extranjera en el país, que incluya los sectores económicos y las regiones en las que ésta se ubica; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+IV.- Presentar al Congreso de la Unión un informe estadístico cuatrimestral sobre el comportamiento de la inversión extranjera en el país, que incluya los sectores económicos y las regiones en las que ésta se ubica; y
 
 V.- Las demás que le correspondan conforme a esta Ley.
 
@@ -402,7 +492,9 @@ El Registro no tendrá carácter público, y se dividirá en las secciones que e
 
 Deberán inscribirse en el Registro:
 
-I.- Las sociedades mexicanas en las que participe la inversión extranjera;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+I.- Las sociedades mexicanas en las que participe la inversión extranjera, incluso aquéllas en las que ésta participe a través de fideicomiso, y la inversión neutra;
 
 II.- Las personas físicas o morales extranjeras que realicen habitualmente actos de comercio en la República Mexicana, y sucursales de inversionistas extranjeros establecidas en el país; y
 
@@ -568,7 +660,15 @@ II. La fracción VI del artículo 5o. de la Ley de Inversión Extranjera, y
 
 III. Todas aquellas disposiciones que se opongan a la presente Ley.
 
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+
+SEGUNDO. El segundo párrafo del artículo 10-A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
+
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO QUINTO. DE LA INVERSION NEUTRA
 
