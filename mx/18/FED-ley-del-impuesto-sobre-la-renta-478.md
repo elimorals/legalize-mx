@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2001-07-30"
+last_updated: "2001-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -1402,7 +1402,7 @@ XII.- Las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes
 
 XIII.- El crédito comercial aun cuando sea adquirido de terceros.
 
-> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2001)</small>
 
 XIV. Los pagos por el uso o goce temporal de aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Tratándose de aviones, sólo será deducible el equivalente a $ 7,806.00 por día de uso o goce del avión de que se trate. No será deducible ningún gasto adicional relacionado con dicho uso o goce. Las casas de recreo, en ningún caso serán deducibles.
 
@@ -4102,9 +4102,9 @@ El impuesto marginal mencionado en esta tabla es el que resulte de aplicar la ta
 
 Las cantidades establecidas en las columnas correspondientes al límite inferior, límite superior y cuota fija de cada renglón de la tabla se actualizarán en los meses de enero, abril, julio y octubre en los términos del artículo 7o.-C de esta Ley. La Secretaría de Hacienda y Crédito Público hará las operaciones aritméticas previstas en este párrafo y publicará la tabla actualizada en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2001)</small>
 
-Para determinar el monto del subsidio acreditable contra el impuesto que se deriva de los ingresos por los conceptos a que se refiere este Capítulo, se tomará el subsidio que resulte conforme a la tabla, disminuido en el monto que se obtenga de multiplicar dicho subsidio por el doble de la diferencia que exista entre la unidad y la proporción que determinen las personas que hagan los pagos por dichos conceptos. La proporción mencionada se calculará para todos los trabajadores del empleador dividiendo el monto total de los pagos efectuados en el ejercicio inmediato anterior que sirva de base para determinar el impuesto en los términos de este Capítulo, entre el total de las erogaciones efectuadas en el mismo por cualquier concepto relacionado con la prestación de servicios personales subordinados, incluyendo, entre otras, a las inversiones y gastos efectuados en relación con previsión social, servicios de comedor, comida y transporte proporcionados a los trabajadores, aun cuando no sean deducibles para el empleador, ni el trabajador esté sujeto al pago del impuesto por el ingreso derivado de las mismas, sin incluir los útiles, instrumentos y materiales necesarios para la ejecución del trabajo a que se refiere la Ley Federal del Trabajo. Cuando la proporción determinada sea inferior al 50% no se tendrá derecho al subsidio.
+Para determinar el monto del subsidio acreditable contra el impuesto que se deriva de los ingresos por los conceptos a que se refiere este Capítulo, se tomará el subsidio que resulte conforme a la tabla, disminuido con el monto que se obtenga de multiplicar dicho subsidio por el doble de la diferencia que exista entre la unidad y la proporción que determinen las personas que hagan los pagos por dichos conceptos. La proporción mencionada se calculará para todos los trabajadores del empleador, dividiendo el monto total de los pagos efectuados en el ejercicio inmediato anterior que sirva de base para determinar el impuesto en los términos de este Capítulo, entre el monto que se obtenga de restar al total de las erogaciones efectuadas en el mismo por cualquier concepto relacionado con la prestación de servicios personales subordinados, incluyendo, entre otras, a las inversiones y gastos efectuados en relación con previsión social, servicios de comedor, comida y transporte proporcionados a los trabajadores, aun cuando no sean deducibles para el empleador, ni el trabajador esté sujeto al pago del impuesto por el ingreso derivado de las mismas, sin incluir los útiles, instrumentos y materiales necesarios para la ejecución del trabajo a que se refiere la Ley Federal del Trabajo, las cuotas patronales pagadas al Instituto Mexicano del Seguro Social y las aportaciones efectuadas por el patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado y al Sistema de Ahorro para el Retiro. Cuando la proporción determinada sea inferior al 50% no se tendrá derecho al subsidio.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -12054,6 +12054,70 @@ Los contribuyentes que ejerzan la opción prevista en el ARTICULO SEGUNDO de est
 
 UNICO.- La presente Ley entrará en vigor el día 1o. de abril de 1995.
 
+D.O.F. 27 DE MARZO DE 1995.
+
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTICULO PRIMERO.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los contribuyentes del impuesto sobre la renta podrán optar por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo que realicen durante el periodo comprendido entre el 1o. de enero y el 31 de diciembre de 1995, a que tengan derecho en los términos de lo dispuesto por el artículo 51 de la Ley del Impuesto sobre la Renta, utilizando en lugar de los porcientos previstos en el referido artículo 51, los que a continuación se señalan:
+
+I.- Los porcientos por tipo de bien serán:
+
+a) Tratándose de construcciones:
+
+1.- 85% en el caso de inmuebles declarados o catalogados como monumentos arqueológicos, artísticos, históricos o patrimoniales por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes, que cuenten con el certificado de restauración expedido por la autoridad competente y siempre que dichos bienes se encuentren dentro de las zonas que la Secretaría de Hacienda y Crédito Público determine para tal efecto, mediante reglas de carácter general.
+
+2.- 74% en los demás casos.
+
+b) 78% para ferrocarriles, carros de ferrocarril, locomotoras y embarcaciones.
+
+c) 93% tratándose de aviones dedicados a la aerofumigación agrícola.
+
+d) 94.4% tratándose de dados, troqueles, moldes, matrices y herramental, así como equipo destinado directamente a la investigación de nuevos productos de desarrollo de tecnología en el país.
+
+e) 97% para semovientes, vegetales y máquinas registradoras de comprobación fiscal, así como equipo destinado a prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas, y equipo destinado para la conversión a consumo de gas natural.
+
+f) 94% para equipo de cómputo electrónico, consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente, así como para el equipo periférico de dicho equipo de cómputo, tal como, unidades de discos ópticos, impresoras, lectores ópticos, graficadores, unidades de respaldo, lectores de código de barras, digitalizadores, unidades de almacenamiento externo, así como monitores y teclados conectados a un equipo de cómputo.
+
+II.- Los porcientos aplicables para maquinaria y equipo distintos de los señalados en la fracción anterior son los siguientes:
+
+a) 85% para producción de energía eléctrica y su distribución, y para transportes eléctricos.
+
+b) 74% para molienda de grano; producción de azúcar y derivados; de aceites comestibles; transportación marítima; fluvial y lacustre.
+
+c) 78% para producción de metal, obtenido en primer proceso; productos de tabaco y derivados de carbón natural.
+
+d) 80% para fabricación de pulpa, papel y productos similares; petróleo y gas natural.
+
+e) 82% para fabricación de vehículos de motor y sus partes; construcción de ferrocarriles y navíos; fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; producción de alimentos y bebidas; excepto granos, azúcar, aceites comestibles y derivados.
+
+f) 84% para curtido de piel y fabricación de artículos de piel; de productos químicos, petroquímicos y farmacobiológicos; de productos de caucho y de productos plásticos; impresión y publicación.
+
+g) 86% para la fabricación de ropa, fabricación de productos textiles, acabado, teñido y estampado.
+
+h) 87% para la construcción de aeronaves.
+
+i) 90% para compañías de transmisión por radio y televisión.
+
+j) 93% para la industria de la construcción.
+
+k) 93% para actividades de agricultura, ganadería, de pesca o silvicultura.
+
+l) 85% para otras actividades no especificadas en esta fracción.
+
+m) 92% para el destinado a restaurantes.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTICULO TERCERO.
+
+Los contribuyentes que ejerzan la opción prevista en el ARTICULO SEGUNDO de esta Ley, cuando enajenen los bienes a los que la aplicaron, los pierdan o dejen de ser útiles, podrán calcular la deducción que por los mismos les corresponde en los términos de la fracción III del artículo 51-A de la Ley del Impuesto sobre la Renta, aplicando, en lugar de los porcientos contenidos en la tabla establecida en la fracción III del artículo 51-A de referencia, los contenidos en la siguiente tabla:
+
 (VEASE TABLA ANEXA)
 
 D.O.F. 1 DE ABRIL DE 1995.
@@ -12095,10 +12159,6 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en nuevos pesos y su abreviatura N, a partir del 1o. de enero de 1996 deberán entenderse como pesos y su símbolo $.
 
 D.O.F. 15 DE ENERO DE 1996.
-
-###### ARTICULO PRIMERO.
-
-La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEGUNDO.
 
@@ -13399,3 +13459,29 @@ Unico. La presente Resolución entrará en vigor el día siguiente al de su publ
 D.O.F. 30 DE JULIO DE 2001.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 29 DE NOVIEMBRE DE 2001.
+
+Primero. Lo dispuesto en el presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, pudiendo aplicarse para el cálculo del subsidio acreditable a partir del 1o. de octubre del ejercicio de 2001.
+
+Segundo. Para el cálculo del subsidio acreditable anual correspondiente al ejercicio de 2001, se procederá como sigue:
+
+I. Se determinará la proporción a que se refiere el quinto párrafo del artículo 80-A de la Ley del Impuesto sobre la Renta, considerando las cuotas patronales pagadas al Instituto Mexicano del Seguro Social y las aportaciones efectuadas por el patrón al Instituto del Fondo Nacional de la Vivienda para los Trabajadores o al Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado y al Sistema de Ahorro para el Retiro, dentro de las erogaciones efectuadas por conceptos relacionados con la prestación
+
+de servicios personales subordinados;
+
+II. Se determinará la proporción a que se refiere el quinto párrafo del artículo 80-A de la Ley del Impuesto sobre la Renta, sin incluir las cuotas y aportaciones señaladas en la fracción anterior;
+
+III. El subsidio acreditable determinado aplicando lo dispuesto de la fracción I anterior se dividirá entre doce y se multiplicará por nueve;
+
+IV. El subsidio acreditable determinado aplicando lo dispuesto en la fracción II anterior se dividirá entre doce y se multiplicará por tres, y
+
+V. El subsidio acreditable del ejercicio se obtendrá sumando los montos resultantes de las fracciones III y IV anteriores.
+
+Tercero. Los patrones que en su calidad de responsables solidarios enteren el impuesto sobre la renta correspondiente a las retenciones no efectuadas a sus trabajadores por no haber considerado para la determinación del subsidio acreditable a que se refiere el artículo 80-A de la Ley del Impuesto sobre la Renta vigente con anterioridad a la entrada en vigor de este artículo, las cuotas al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y al Sistema de Ahorro para el Retiro, quedarán liberados de la responsabilidad solidaria por la retención del impuesto sobre la renta que resulte por la diferencia a que haya dado lugar la no inclusión de las cuotas y aportaciones antes señaladas, determinado conforme a este artículo, siempre que:
+
+a) Los pagos que se tengan que efectuar en los términos del párrafo anterior, sean los que correspondan al periodo comprendido del 1o. de enero al 30 de septiembre de 2001;
+
+b) El impuesto sobre la renta correspondiente a las retenciones no efectuadas a que se refiere el inciso anterior, se pague a más tardar el último día del mes de noviembre de 2001, con actualización y recargos, y
+
+c) Los patrones quedarán liberados de la responsabilidad solidaria a que se refiere el artículo 26, fracción I, del Código Fiscal de la Federación y se entenderá por satisfecho el requisito establecido en el artículo 24, fracción V, de la Ley del Impuesto sobre la Renta, por las diferencias de impuesto a que se refiere este artículo, siempre que se cumpla con los requisitos señalados en los incisos a) y b) anteriores.
