@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2003-06-19"
+last_updated: "2003-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2003.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -718,11 +718,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
-### CAPITULO VII. Salud Mental
-
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+
+### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -776,7 +776,7 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias establec
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -800,7 +800,7 @@ La Secretaría de Salud coordinará las acciones de los Regímenes Estatales de 
 
 Para efectos de este Título se entenderá por Regímenes Estatales, a las acciones de protección social en salud de los Estados de la República y del Distrito Federal.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -808,7 +808,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 Las familias y personas que no sean derechohabientes de las instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud, se incorporarán al Sistema de Protección Social en Salud que les corresponda en razón de su domicilio, con lo cual gozarán de las acciones de protección en salud a que se refiere este Título.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -853,10 +853,6 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 ###### ARTICULO 71.
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
@@ -928,7 +924,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
+### CAPITULO I. Disposiciones Generales
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1016,6 +1012,10 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
@@ -1046,7 +1046,7 @@ A las personas de dieciocho años o más se les aplicarán los mismos criterios 
 
 El núcleo familiar será representado para los efectos de este Título por cualquiera de las personas enunciadas en las fracciones I a III de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1202,7 +1202,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
+### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1220,7 +1220,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1294,7 +1294,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1316,7 +1316,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1464,10 +1464,6 @@ X. Hacer uso responsable de los servicios de salud, y
 
 XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
 
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
-
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
 ###### ARTICULO 77 Bis 39.
@@ -1503,6 +1499,10 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL
 ###### ARTICULO 77 Bis 41.
 
 En los casos en que se materialicen los supuestos a que se refiere este Capítulo, los interesados conservarán los beneficios del Sistema de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -3648,13 +3648,13 @@ XI.- Establecimientos destinados al proceso de medicamentos para uso veterinario
 
 XII.- Los demás que determine el Consejo de Salubridad General.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 258.
 
-Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y los relativos a las demás fracciones cuando utilicen o suministren los productos señalados en la fracción I del artículo 198 de esta ley, deberán contar con la licencia sanitaria correspondiente expedida por la Secretaría de Salud. Dichos establecimientos deberán poseer y utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales elaborados por la propia Secretaría.
+Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y los relativos a las demás fracciones cuando se dediquen al proceso de los productos señalados en la fracción I del artículo 198 de esta Ley, deben contar con la licencia sanitaria correspondiente expedida por la Secretaría de Salud. Los establecimientos diversos a los referidos en el presente párrafo sólo requieren presentar aviso de funcionamiento ante la Secretaría de Salud.
 
-Los establecimientos diversos a los referidos en el párrafo anterior sólo requerirán presentar aviso de funcionamiento ante la Secretaría de Salud y contar con los suplementos de la Farmacopea de los Estados Unidos Mexicanos relativos a la venta y suministro de medicamentos.
+Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y las relativas a las demás fracciones cuando se dediquen a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado y manipulación de los productos señalados en la fracción I del artículo 198 de esta Ley, deben poseer y cumplir con lo establecido en la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales elaborados por la propia Secretaría. Los diversos establecimientos a los contemplados en el presente párrafo únicamente deben poseer y cumplir con lo establecido en los suplementos de la Farmacopea de los Estados Unidos Mexicanos relativos a la venta y suministro de medicamentos.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5907,3 +5907,7 @@ Primero. El presente Decreto iniciará su vigencia al día siguiente después de
 Segundo. Las autoridades en su respectivo ámbito de competencia, contarán con un plazo de dos años contados a partir de la vigencia del presente Decreto, para modificar las disposiciones reglamentarias, de las Normas Oficiales Mexicanas y cualquier otro ordenamiento aplicable, a fin de lograr el cabal cumplimiento y objetivo del presente Decreto.
 
 Tercero. Una vez que las autoridades modifiquen las disposiciones reglamentarias, los usuarios contarán con un año para regularizarse.
+
+D.O.F. 25 DE JUNIO DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
