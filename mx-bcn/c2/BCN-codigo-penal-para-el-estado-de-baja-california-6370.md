@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2002-09-27"
+last_updated: "2002-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1897,35 +1897,61 @@ BIS.- Robo de Vehículo. Al que se apodere de un vehículo de motor, sin derecho
 
 Si el robo del vehículo se ejecutare con violencia, a la pena impuesta se le agregarán de uno a tres años de prisión.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 208
 
-TER.- Se impondrá prisión de dos a diez años y de doscientos hasta mil días multa, a quien SIN HABER TOMADO LAS PRECAUCIONES NECESARIAS PARA CERCIORARSE DE SU LEGITIMA PROCEDENCIA y con independencia de las penas que le correspondan por la comisión de otros delitos:
+TER.- Robo equiparado de vehículo de motor.- Se impondrá prisión de dos a ocho años y de cien hasta quinientos días multa, a quien:
 
-I.- Venda, compre, suministre, custodie, trafique o transporte aún gratuitamente, vehículos de motor robados;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
 
-II.- Destruya total o parcialmente un vehículo de motor robado, lo desmantele o le sustraiga sus partes;
+I.- Venda, suministre o trafique, vehículo de motor robado;
 
-III.- Posea, compre, venda, custodie, suministre, trafique o de cualquier otra manera adquiera o reciba partes de algún o algunos vehículos de motor robados;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
 
-IV.- Posea, use, altere, falsifique o modifique de cualquier manera, la documentación que acredite la propiedad o posesión de un vehículo de motor robado;
+II.- Destruya total o parcialmente vehículo de motor robado, lo desmantele o le sustraiga cualquiera de sus partes;
 
-V.- Altere, falsifique o modifique cualquiera de las series o numeración que identifique un vehículo de motor robado, o de cualquiera de sus partes;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
 
-VI.- Utilice vehículo de motor robado, en la comisión de otro u otros delitos;
+III.- Venda, suministre o trafique parte o partes de algún o algunos vehículos de motor robados;
 
-VII.- Aporte recursos económicos o de cualquier especie para posibilitar la ejecución de alguno de los delitos a que se refiere este artículo y
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
 
-VIII.- Posea o use, vehículos de motor robados.
+IV.- Altere, falsifique, gestione, tramite o modifique de cualquier manera, la documentación que acredite la propiedad o posesión de un vehículo de motor robado;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+V.- Altere, falsifique, modifique o sustituya cualquiera de las series o numeración que identifique vehículo de motor robado, o de cualquiera de sus partes;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+VI.- Posea, compre, use o de cualquier manera adquiera o reciba la documentación que acredite la propiedad o posesión de un vehículo de motor robado;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+VII.- Posea, use, compre, custodie o transporte aún gratuitamente vehículo de motor robado; y
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+VIII.- Posea, use, compre, custodie o de cualquier otra manera adquiera o reciba parte o partes de algún o algunos vehículos de motor robados.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de las penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 208
 
-QUARTER.- Excluyente de pretensión punitiva.- Será causa excluyente de pretensión punitiva el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste.
+QUARTER.- Excluyente de pretensión punitiva.- Será causa excluyente de pretensión punitiva el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
+
+Será también excluyente de delito, acreditar con la documentación correspondiente:
+
+I.- Haber adquirido el vehículo o cualquiera de sus partes en subasta pública;
+
+II.- Haber comprado el vehículo, parte o partes del mismo en una negociación legalmente establecida, o directamente de un particular respecto de un vehículo de su propiedad; y
+
+III.- Haber recibido en custodia el vehículo de motor o cualquiera de sus partes, para su reparación o mejora, siempre que se trate de una negociación legalmente establecida y dedicado al ramo correspondiente a la actividad a realizar sobre el vehículo o sus partes.
 
 > <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -3624,3 +3650,7 @@ P.O. 27 DE SEPTIEMBRE DE 2002.
 DECRETO NUMERO 93.
 
 UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE OCTUBRE DE 2002.
+
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
