@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-8989
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-06"
-last_updated: "1998-12-21"
+last_updated: "2002-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2002.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 6 de junio de 1996.
 
@@ -561,7 +561,7 @@ Los estímulos y reconocimientos para el personal de las corporaciones de polic�
 
 ## TITULO NOVENO. DEL REGIMEN DISCIPLINARIO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
 
 ###### ARTICULO 68.
 
@@ -603,7 +603,7 @@ La resolución que declare improcedente un cambio de adscripción, tendrá por o
 
 No procederá el recurso de revisión contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
 
-### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 63.
 
@@ -797,99 +797,53 @@ El Consejo Estatal de Seguridad Pública y los Consejos Municipales darán ampli
 
 La comunidad podrá participar en la instrumentación y ejecución de medidas para la vigilancia y seguridad de la propia población, a través de la organización vecinal, con la aprobación de las autoridades competentes y siempre que ello no ponga en riesgo el buen desempeño de la función de seguridad pública.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)</small>
+
 ## TITULO DECIMO SEGUNDO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 94.
 
-Corresponde al Ejecutivo del Estado el control y normatividad de los servicios privados de seguridad, cuando este servicio se preste únicamente en el territorio del Estado de Baja California Sur.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 95.
 
-Para los efectos de la presente Ley, los servicios privados de seguridad solamente podrán prestarse en las siguientes modalidades:
-
-I.- Protección y vigilancia de personas o bienes fuera de las vías o áreas públicas;
-
-II.- Traslado y custodia de fondos y valores;
-
-III.- La investigación dirigida a proporcionar informes sobre los antecedentes, solvencia, localización o actividades de personas; y
-
-IV.- La asesoría en materia de prevención de riesgos, investigaciones y la realización de actividades análogas a las señaladas en las fracciones anteriores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 96.
 
-Los particulares que se dediquen a la prestación del servicio privado de seguridad deberán sujetarse a los siguientes lineamientos:
-
-I.- Sólo podrán prestar este servicio las personas físicas o jurídicas de nacionalidad mexicana que hayan obtenido la autorización o el registro correspondiente ante el Ejecutivo del Estado;
-
-II.- Queda estrictamente prohibida la realización de funciones que constitucional o legalmente sean competencia exclusiva de las instituciones de seguridad pública;
-
-III.- Cuando en el desempeño de sus labores conocieren de hechos que presumiblemente sean constitutivos de un delito o de pruebas que acrediten la presunta responsabilidad penal de un individuo, lo harán inmediatamente del conocimiento de la autoridad competente;
-
-IV.- Queda prohibido usar en su denominación, razón social o nombre; papelería; identificaciones; documentación y demás bienes de la negociación, las palabras de "policía", "agentes", "investigadores" o cualquier otra que derive de los anteriores o que pueda dar a entender una relación con las autoridades o con las corporaciones e instituciones de seguridad pública. El término "seguridad" solamente podrá utilizarse acompañado del adjetivo "privada";
-
-V.- En sus documentos, bienes, insignias e identificaciones conforme a lo dispuesto en la legislación federal aplicable, no podrán usar logotipos oficiales ni el escudo o los colores nacionales, tampoco podrán utilizar escudos o banderas oficiales de otros países. Queda prohibido, asimismo, el uso de todo tipo de placas metálicas de identidad;
-
-VI.- Sólo podrán utilizar uniformes, insignias, divisas o equipo diferenciables de los que reglamentariamente corresponde usar a las instituciones o corporaciones de seguridad pública, en tal forma que a simple vista no exista la posibilidad de confusión;
-
-VII.- Las personas que intervengan en la prestación del servicio de seguridad privada deberán cumplir con los requisitos de selección, capacitación y adiestramiento que al efecto señala esta Ley; exceptuándose aquellas personas que desempeñen labores de carácter estrictamente administrativo o ajenas a los servicios privados de seguridad;
-
-VIII.- Llevarán un registro de su personal y equipo debidamente autorizado por la Coordinación de Seguridad Pública del Estado, que contendrá los datos relativos a las altas y bajas del personal, para su notificación al Registro Nacional del Personal de Seguridad Pública;
-
-IX.- Proporcionarán a la Coordinación de Seguridad Pública del Estado la información sobre delincuencia de que tengan conocimiento, para hacerse llegar al Sistema Nacional de Información Sobre Seguridad Pública;
-
-X.- Deberán cumplir todas y cada una de las obligaciones que les imponga la autorización correspondiente y el reglamento respectivo; y
-
-XI.- Responderán solidariamente de los daños y perjuicios que cause su personal al prestar los servicios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 97.
 
-Corresponde al Gobernador del Estado, por conducto de la Coordinación de Seguridad Pública del Estado, en materia de seguridad privada:
-
-I.- Autorizar el funcionamiento de las empresas que presten servicios privados de seguridad y llevar su registro;
-
-II.- Evaluar, previo pago de los derechos respectivos, el funcionamiento de los servicios privados de seguridad;
-
-III.- Fijar los requisitos para obtener la autorización e inscripción en el registro;
-
-IV.- Supervisar y evaluar permanentemente al personal y la operación de las empresas que presten servicios privados de seguridad. Para ello, éstas tendrán la obligación de proporcionar la información que se les solicite, para lo que se podrá ordenar la realización de las visitas de inspección que se estimen necesarias;
-
-V.- Autorizar y evaluar los programas de profesionalización del personal dedicado a prestar servicios privados de seguridad; y
-
-VI.- Sancionar conforme a lo dispuesto en el artículo 103 de este ordenamiento, a los particulares que presten servicios de seguridad privada, cuando dejen de cumplir con los requisitos establecidos en esta Ley o en otras disposiciones aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 98.
 
-El personal de las empresas que se dediquen al servicio de seguridad privada observarán los principios de actuación y desempeño que esta Ley señala para los integrantes de las corporaciones de seguridad pública.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 99.
 
-Ningún elemento en activo de las corporaciones de seguridad pública del Estado y de los Municipios, podrá ser socio o propietario por sí o por interpósita persona de una empresa que brinde servicios privados de seguridad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 100.
 
-Los casos, condiciones, requisitos y lugares, para la portación de armas por parte de quienes presten sus servicios en las empresas a que se refiere este Título, se ajustarán a lo dispuesto por la ley federal de la materia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 101.
 
-Los servicios privados de seguridad diseñarán e instrumentarán un programa permanente de capacitación y adiestramiento de su personal. Dicho programa deberá presentarse para su aprobación a la Coordinación de Seguridad Pública del Estado, la cual podrá revisarlo periódicamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 102.
 
-Los servicios privados de seguridad son auxiliares de la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado o de los Municipios, de conformidad a los requisitos y condiciones que establezca la autorización respectiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 ###### ARTICULO 103.
 
-El incumplimiento, por parte de los prestadores de servicio de seguridad privada, a las obligaciones a que se refiere este Título y demás disposiciones aplicables, dará lugar a las siguientes sanciones:
-
-I.- Amonestación, con difusión pública de la misma;
-
-II.- Multa de hasta el equivalente a tres mil veces el salario diario mínimo general vigente en el Estado;
-
-III.- Suspensión temporal del registro hasta que se corrija su incumplimiento, con difusión pública de dicha suspensión; o
-
-IV.- Cancelación del registro con difusión pública de la misma. En este último caso, la Coordinación de Seguridad Pública en el Estado notificará esta determinación a las autoridades correspondientes a efecto de que realicen, en los términos de sus competencias, los actos que legalmente procedan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR, B.O. 20 DE MARZO DE 2002)
 
 TRANSITORIOS:
 
@@ -934,3 +888,13 @@ PRIMERO.- Se derogan las disposiciones que se opongan al presente decreto.
 SEGUNDO.- En lo conducente actualícense las disposiciones que deriven del presente decreto así como de su Reglamento.
 
 TERCERO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MARZO DE 2002.
+
+LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deroga el Título Décimo Segundo, Capítulo Unico de la Ley de Seguridad Pública del Estado de Baja California Sur, así como todos los ordenamientos y disposiciones que se opongan a la presente Ley.
