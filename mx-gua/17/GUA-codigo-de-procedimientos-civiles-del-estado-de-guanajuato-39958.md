@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1934-03-08"
+last_updated: "1952-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1952.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -175,9 +175,11 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1952)</small>
+
 ###### Art. 23.
 
-Los jueces Municipales son competentes para conocer exclusivamente de los negocios, valuables en dinero, cuya cuantía no exceda de $500.00 quinientos pesos, hecha excepción de los casos que interesen al Estado o a una Entidad de Derecho Público.
+Los Jueces Municipales son competentes para conocer exclusivamente de los negocios, valuables en dinero, cuya cuantía no exceda de $1,000.00 UN MIL PESOS, hecha excepción de los casos que interesen al Estado o a una entidad de derecho público.
 
 ###### Art. 24.
 
@@ -4458,3 +4460,15 @@ Melchor ORTEGA.
 El Secretario Gral. del Gobierno,
 
 Lic. Ramón Santoyo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 19 DE JUNIO DE 1952.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios civiles en tramitación antes de la fecha a que se refiere el artículo que antecede, no quedarán afectos a la presente reforma.
