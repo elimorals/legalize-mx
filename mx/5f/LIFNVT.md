@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2000-12-31"
+last_updated: "2001-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -706,6 +706,10 @@ El Consejo de Administración expedirá las reglas conforme a las cuales se otor
 
 Las reglas antes citadas tomarán en cuenta entre otros factores, la oferta y demanda regional de vivienda, el número de miembros de la familia de los trabajadores, los saldos de la subcuenta de vivienda del trabajador de que se trate y el tiempo durante el cual se han efectuado aportaciones a la misma, si el trabajador es propietario o no de su vivienda, así como su salario o el ingreso conyugal si hay acuerdo de los interesados.
 
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2001)</small>
+
+Asimismo, el Consejo de Administración expedirá reglas que permitan tomar en cuenta, para la determinación del monto de crédito, ingresos adicionales de los trabajadores que no estén considerados como parte integrante de su salario base, siempre y cuando la cuantía, periodicidad y permanencia de tales ingresos sean acreditables plenamente y se garantice la recuperabilidad de dichos créditos.
+
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 Los trabajadores podrán recibir crédito del Instituto por una sola vez.
@@ -1167,3 +1171,7 @@ D.O.F. 31 DE DICIEMBRE DE 2000.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+D.O.F. 25 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
