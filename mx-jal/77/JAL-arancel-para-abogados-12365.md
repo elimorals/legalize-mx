@@ -4,7 +4,7 @@ identifier: "JAL-arancel-para-abogados-12365"
 country: "mx"
 rank: "otro"
 publication_date: "1955-01-01"
-last_updated: "1955-01-01"
+last_updated: "1983-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 ARANCEL PARA ABOGADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1983.
 
 Arancel publicado en el Periódico Oficial del Estado de Jalisco, el sábado 1 de enero de 1955.
 
@@ -47,17 +47,21 @@ Los honorarios de los Abogados serán fijados por convenio que celebren con sus 
 
 Los servicios profesionales que no estén comprendidos en este Arancel pero que tengan analogía con alguno de los especificados en el mismo, causarán las cuotas del que presente mayor semejanza.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 3.
 
-Por todo juicio contencioso por cantidad determinada, desde su principio hasta su conclusión, por pago, convenio o sentencia definitiva, incluyéndose consultas, conferencias, juntas vistas de autos y documentos, escritos, informes y cuanto trabajo se relacione con el asunto, cobrarán un 25% veinticinco por ciento del valor del negocio, si no pasa de $1,000.00 un mli (sic) pesos, un 15% quince por ciento, de lo que exceda sino pasa de $10,000.00 diez mil pesos; un 10% diez por ciento de lo que exceda, no pasando de $100,000.00 cien mil pesos; y un 5% cinco por ciento de lo que exceda sea cual fuere la cantidad.
+Por todo juicio contencioso, por cantidad determinada desde su principio hasta su conclusión por pago, convenio o sentencia definitiva, incluyéndose consultas, conferencias, juntas, vistas de autos y documentos, escritos, informes y cuanto trabajo se relacione con el asunto, cobrarán un 25% del valor del negocio si no pasa de $15,000.00; un 15% de lo que exceda hasta la cantidad de $60,000.00; un 10% de lo que exceda de la anterior cantidad hasta $300,000.00 y un 5% de lo que rebase esta cifra, sea cual fuere la cantidad.
 
 ###### ARTICULO 4.
 
 Cuando el Abogado se encargare de un negocio ya comenzado, o no concluyere el que hubiere principiado, cobrará la parte proporcional, considerando para el efecto; que a la primera instancia corresponden dos terceras partes, de las cuales a la demanda o contestación con las que se plantea la litis, le corresponde la mitad de dichos honorarios; a las actuaciones siguientes hasta antes de presentar alegatos un 40% cuarenta por ciento de los mismos; y 10% diez por ciento para el escrito de alegatos. La otra tercera parte se causará por la segunda instancia. En caso de que sea más reducida la intervención del Abogado, se estará a lo dispuesto por el artículo 11 de este Arancel.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 5.
 
-En los juicios civiles, criminales, de trabajo, de amparo, u otros semejantes que no tengan valor pecuniario o que no se puede determinar, se regularán los honorarios con la estimación de $100.00 a $100,000.00, según la importancia del derecho que se ventile, los trabajos que se presenten, el éxito que se obtenga, las circunstancia personales del cliente y, todas aquellas que se pueden tener presentes para hacer una justa regulación.
+En los juicios civiles, penales, laborales, administrativos, de amparo u otros semejantes que no tengan valor pecuniario o que no se pueda determinar, se regularán los honorarios con la estimación de $1,000.00 a $100,000.00 según la importancia del derecho y el asunto que se ventile, los trabajos que se presenten, el éxito que se obtenga, las circunstancia personales del cliente y todo aquello que sirva para hacer una justa regulación de los honorarios.
 
 ###### ARTICULO 6.
 
@@ -87,27 +91,29 @@ Cuando el Abogado sea interventor o albacea judicial, percibirá además de sus 
 
 En los amparos directos, cobrarán una cantidad equivalente al 25% veinticinco por ciento de los honorarios correspondientes al juicio en que se dictó la sentencia objeto del amparo.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 11.
 
-A falta de otra disposición de este Arancel, los Abogados cobrarán:
+A falta de otra disposición de este Arancel, los abogados cobrarán:
 
-I.- Por vista o lectura de documentos, papeles o expedientes de cualquier clase, siempre que no pasen de veinticinco hojas, cobrarán de $25.00 veinticinco pesos a $100.00 cien pesos.
+I.- Por vista, lectura de documentos, papeles o expedientes de cualquier clase, siempre que no pasen de 25 horas, cobrarán de $100.00 a $1,000.00.
 
-II.- Si excediere de veinticinco hojas, por cada una de exceso de $1.00 un peso a $5.00 cinco pesos.
+II.- Si excediere de 25 hojas, por cada una de exceso cobrarán de $10.00 a $50.00 pesos.
 
 III.- Si la vista de documentos tiene lugar fuera del despacho del Abogado, se duplicarán las cuotas anteriores.
 
-IV.- Por cada consulta verbal en su despacho, cada hora o fracción, de $25.00 veinticinco pesos a $50.00 cincuenta pesos.
+IV.- Por cada consulta verbal en su despacho, cada hora o fracción se cobrará de $300.00 a $1,000.00.
 
-V.- Por cada consulta por escrito, de $50.00 cincuenta pesos a $100.00 cien pesos.
+V.- Por cada consulta por escrito de $500.00 a $1,500.00.
 
-VI.- Por cada asistencia a las audiencias, juntas o cualquiera otra diligencia judicial o administrativa, o ante cualquier funcionario o autoridad, por cada hora o fracción, de $25.00 veinticinco pesos a $100.00 cien pesos.
+VI.- Por cada asistencia a las audiencias, juntas o cualquiera otra diligencia judicial o administrativa o ante cualquier funcionario o autoridad, por cada hora o fracción de $300.00 a $1,500.00.
 
-VII.- Por cada promoción que hagan por escrito o por comparecencia de $10.00 diez pesos a $25.00 veinticinco pesos.
+VII.- Por cada promoción que hagan por escrito o por comparecencia de $300.00 a $500.00.
 
-VIII.- Por cada notificación o vista de autos, de $5.00 cinco pesos a $25.00 veinticinco pesos.
+VIII.- Por cada notificación o vista de autos, de $100.00 a $300.00.
 
-IX.- Cuando un Abogado saliere del lugar de su residencia, devengará, además de los honorarios que le correspondan conforme a las disposiciones del Arancel, de $50.00 cincuenta a $150.00 ciento cincuenta pesos diarios, desde el día de su salida hasta el de su regreso, ambos inclusive. Los gastos de transporte y estancia del Abogado serán de cuenta del cliente.
+IX.- Cuando un abogado saliere del lugar de su residencia, devengará además de los honorarios que le correspondan conforme a las disposiciones del Arancel, de $500.00 a $1,500.00 diarios, desde el día de su salida hasta el de su regreso, ambos inclusive. Los gastos de transporte y estancia del abogado serán por cuenta del cliente.
 
 ###### ARTICULO 12.
 
@@ -117,25 +123,29 @@ El Abogado que litigue en causa propia tiene derecho a cobrar costas como Abogad
 
 En los juicios mercantiles ejecutivos cobrarán dos terceras partes de los honorarios que fija el artículo 3º., si se llegara hasta sentencia; en caso contrario solamente podrá cobrarse una tercera parte.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 14.
 
-Los Abogados que intervengan como defensores o por parte del ofendido o querellante, en las causas criminales, tendrán derecho a cobrar los honorarios del artículo 5º. y además los siguientes:
+Los abogados que intervengan como defensores o por parte del ofendido o querellantes, en las causas penales, tendrán derecho a cobrar los honorarios del Art. 5 y además los siguientes:
 
-I. Por solicitar y obtener la libertad bajo caución de $50.00 cincuenta pesos a $200.00 doscientos pesos, si la pena corporal que corresponda al delito por el que se encuentra detenido el inculpado no excede de un año. En caso contrario, por cada año de exceso, tendrán derecho a cobrar cincuenta pesos más.
+I. Por solicitar y obtener la libertad bajo caución de $500.00 a $1,500.00, si la pena corporal que corresponda al delito por el que se encuentra detenido el inculpado no excede de un año. En caso contrario por cada año de exceso tendrá derecho a cobrar $150.00 pesos más.
 
-II. Por solicitar y obtener la libertad por desvanecimiento de datos, y bajo protesta, tendrán derecho a cobrar las cuotas de la fracción anterior, si la pena corporal señalada al delito no excede de un año. En caso contrario, tendrán derecho a percibir $50.00 cincuenta pesos más por cada año de exceso.
+II. Por solicitar y obtener la libertad por desvanecimiento de datos y bajo protesta, tendrán derecho a cobrar las cuotas de la fracción anterior, si la pena corporal señalada al delito no excede de un año. En caso contrario tendrán derecho a percibir $150.00 pesos más por cada año de exceso.
 
-III. Por solicitar y obtener la libertad preparatoria, o indulto necesario o por gracia, cobrarán de $50.00 cincuenta pesos a $300.00 trescientos pesos.
+III. Por solicitar y obtener la libertad preparatoria o indulto necesario o por gracia, cobrarán de $1,000.00 a $4,000.00.
 
-IV. Por la defensa ante el Jurado Popular, $300.00 trescientos pesos si la pena que corresponda al delito no excede de tres años de prisión. En caso contrario, por cada año de exceso, $100.00 cien pesos, sin que los honrarios (sic) puedan exceder de $1,000.00 un mil pesos.
+IV. Por la defensa ante el Jurado Popular, $5,000.00 si la pena que corresponda al delito no excede de tres años de prisión. En caso contrario por cada año de exceso $1,500.00.
 
-V. Por la defensa ante los Jueces de Derecho de $25.00 veinticinco pesos a $100.00 cien pesos si se celebra en una sola audiencia. En caso contrario de $25.00 veinticinco pesos a $50.00 cincuenta pesos por cada nueva audiencia.
+V. Por la defensa ante los jueces menores y de paz de $1,000.00 a $2,000.00 si se celebra en una sola audiencia. En caso contrario de $200.00 a $350.00 por cada nueva audiencia en que se participe.
 
-VI. Por formular el pliego de conclusiones, de $50.00 cincuenta pesos a $200.00 doscientos pesos, si la pena corporal no excede de tres años, en caso contrario de $100.00 cien pesos a $400.00 cuatrocientos pesos.
+VI. Por formular el pliego de conclusiones de $500.00 a $2,000.00 si la pena corporal no excede de tres año (sic), en caso contrario de $1,000.00 a $5,000.00.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 15.
 
-Por la defensa del procesado en la segunda instancia en lo principal, hasta $200.00 doscientos pesos si la pena correspondiente al delito no excede de un año; y por cada año de exceso hasta $50.00 cincuenta pesos más, tomando como base el término medio aritmético de la pena correspondiente a los delitos objeto de la alzada, independientemente de la pena impuesta en el fallo de primera instancia.
+Por la defensa del procesado en la Segunda Instancia en lo principal, hasta $3,000.00 si la pena correspondiente al delito no excede de un año; y por cada año de exceso hasta $1,000.00 pesos más, tomando como base el término medio aritmético de la pena correspondiente a los delitos objeto de la alzada, independientemente de la pena impuesta en el fallo de Primera Instancia.
 
 ###### ARTICULO 16.
 
@@ -145,13 +155,15 @@ En los asuntos administrativos se aplicarán las normas del artículo 5.
 
 Por la redacción de cualquier contrato o convenio que por voluntad de las partes o disposición de la Ley haya de celebrarse, el Abogado cobrará el 2% dos por ciento del valor del negocio, si su cuantía no pasa de $10,000.00 diez mil pesos; el 1% uno por ciento además del anterior, por la cantidad que excediere hasta $50,000.00 cincuenta mil pesos, y el medio por ciento por el exceso, sea cual fuere.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 18.
 
-En las informaciones de dominio, el Abogado cobrará las tasas previstas en el artículo 3o., tomándose como cuantía el valor fiscal del inmueble, o en su defecto la justipreciación pericial.
+En las informaciones de dominio, el abogado cobrará las tasas previstas en el Art. 3, tomando como cuantía el valor fiscal del inmueble, o en su defecto el valor de peritos.
 
-Cuando se trate de obtener autorización judicial, para enajenar bienes de menores, incapacitados o ausentes, cobrará el 20% veinte por ciento de las cuotas señaladas por el artículo 5o. tomando como base la misma que se indica en el párrafo anterior y lo mismo se aplicará en caso de autorización para gravar bienes, pero sobre la cuantía del gravamen.
+Cuando se trate de obtener autorización judicial para enajenar bienes de menores, incapacitados o ausentes, cobrará el 20% de las cuotas señaladas por el Art. 5. Tomando como base la misma que se indica en el párrafo anterior y lo mismo se aplicará en caso de autorización para gravar bienes, pero sobre la cuantía del gravamen.
 
-En los demás casos de jurisdicción voluntaria y en los divorcios por mutuo consentimiento, se cobrarán de $50.00 cincuenta pesos a $2,000.00 dos mil pesos tomando en consideración las circunstancias a que se alude en el artículo 5o. del Arancel.
+En los demás casos de jurisdicción voluntaria y en los divorcios por mutuo consentimiento, se cobrarán de $3,000.00 a $25,000.00 tomando en consideración las circunstancias a que se alude en el Art. 5 del arancel.
 
 ###### ARTICULO 19.
 
@@ -178,3 +190,11 @@ AGUSTIN YAÑEZ.
 El Srio. Gral. de Gobierno.
 
 LIC. ALBERTO FERNANDEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ARANCEL.</small>
+
+P.O. 22 DE ENERO DE 1983.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Segundo. La aplicación de este arancel será para los negocios que se inicien con posterioridad a la vigencia del presente Decreto.
