@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2002-01-14"
+last_updated: "2004-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2004.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2669,7 +2669,7 @@ Hay conspiración siempre que dos o más personas resuelvan de concierto previo 
 
 ### CAPITULO VIII. PECULADO
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 283.
 
@@ -2797,6 +2797,10 @@ Si el responsable de estos delitos es servidor público, la punibilidad se aumen
 
 Los servidores públicos que cometan alguno de los delitos previstos en el presente título, además de las penas de prisión y de multa que en cada caso se señalen, serán privados de su cargo o comisión y quedarán inhabilitados para desempeñar otro, hasta por el mismo tiempo señalado en las penas privativas de libertad.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+Para los efectos de este Código, se entiende por servidor público, a los funcionarios y empleados de los Poderes Ejecutivo, Legislativo y Judicial y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal o que maneje o aplique recursos del Erario Público.
+
 ### CAPITULO VII. ULTRAJES A LA AUTORIDAD
 
 ###### ARTICULO 299.
@@ -2887,13 +2891,13 @@ Se impondrá de tres meses a cinco años de prisión y de 20 a 150 días multa, 
 
 ###### ARTICULO 308.
 
-Al servidor público que para sí o para otro, se apropie de dinero, valores o cualquier otro bien perteneciente a los Poderes, Dependencias o Entidades de la Administración Pública del Estado o de los Municipios, o a un particular, si por razón de su cargo, los hubiere recibido en administración, en depósito o por cualesquiera otra causa, se le aplicará la siguiente punibilidad:
+Al servidor público que para si o para otro, se apropie, utilice o distraiga de su objeto, dinero, valores o cualquier otro bien perteneciente a los Poderes del Estado, Dependencias o Entidades de la Administración Pública del Estado o de los Municipios o a un particular, si por razón de su cargo, los hubiere recibido en administración, en depósito o por cualesquiera otra causa, se le aplicará la siguiente punibilidad:
 
-I.- Prisión de uno a cinco años y multa de 20 a 300 días, cuando el valor de lo apropiado ilícitamente sea de hasta mil veces el salario mínimo;
+I.- Prisión de uno a cinco años y multa de 20 a 300 días, cuando el valor de lo apropiado, utilizado o distraído de su objeto ilícitamente, sea de hasta mil veces el salario mínimo;
 
-II.- Prisión de tres a ocho años y multa de 30 a 400 días, cuando el valor de lo apropiado ilícitamente sea de mil uno a cinco mil veces el salario mínimo; o
+II.- Prisión de tres a ocho años y multa de 30 a 400 días, cuando el valor de lo apropiado, utilizado o distraído de su objeto ilícitamente, sea de mil uno a cinco mil veces el salario mínimo o
 
-III.- Prisión de cinco a doce años y multa de 30 a 500 días, cuando el valor de lo apropiado ilícitamente exceda de cinco mil veces el salario mínimo.
+III.- Prisión de cinco a doce años y multa de 30 a 500 días, cuando el valor de lo apropiado, utilizado o distraído de su objeto ilícitamente, exceda de cinco mil veces el salario mínimo.
 
 ### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
@@ -3404,3 +3408,7 @@ Artículo Tercero.- Las conductas típicas o disposiciones de la parte general d
 P.O. 14 DE ENERO DE 2002.
 
 UNICO.- El presente Decreto, entrará en vigor a los quince días naturales siguientes al día de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 19 DE ABRIL DE 2004.
+
+UNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
