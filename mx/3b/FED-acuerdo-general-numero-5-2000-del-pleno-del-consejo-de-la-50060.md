@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2004-06-25"
+last_updated: "2004-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -1215,7 +1215,9 @@ VII. Dirigir y coordinar la compilación de leyes, reglamentos, decretos, acuerd
 
 VIII. Representar en los asuntos jurídicos que se le encomienden, al Pleno y a la Comisión de Administración;
 
-IX. Intervenir, previo acuerdo del consejo y en su representación, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, secretarías ejecutivas y órganos, en todas las controversias jurídicas en que éste sea parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del consejo transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar Jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan a los derechos del Consejo de la Judicatura Federal. Por virtud de esta disposición, se entenderá ratificado por dicho órgano colegiado todo lo que se haga, en los términos de ley, por la Dirección General de Asuntos Jurídicos y los representantes o delegados que designe, quienes gozarán de todas las facultades antes enunciadas;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 46/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2004)</small>
+
+IX. Intervenir, en representación del consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, secretarías ejecutivas y órganos, en todas las controversias jurídicas en que éste sea parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del consejo, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar Jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan a los derechos del Consejo de la Judicatura Federal. Por virtud de esta disposición, se entenderá ratificado por dicho órgano colegiado todo lo que se haga, en los términos de ley, por la Dirección General de Asuntos Jurídicos y los representantes o delegados que designe, quienes gozarán de todas las facultades antes enunciadas, debiendo, en todo caso, informar al Pleno de las actuaciones realizadas de manera cuatrimestral;
 
 X. Proporcionar la información o cooperación técnico-jurídica que le sea requerida por las diversas áreas que integran el Consejo de la Judicatura Federal, así como emitir opinión respecto de las consultas que para la eficaz observancia de la normativa se le formulen;
 
@@ -1346,3 +1348,13 @@ PRIMERO.-El presente acuerdo entrará en vigor el día de su publicación en el 
 SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
+
+D.O.F. 23 DE JULIO DE 2004.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
+
+CUARTO.-El primer informe al que alude la parte final de la fracción IX del artículo 38 del Acuerdo General 5/2000, deberá rendirse a los cuatro meses posteriores al día de la aprobación del presente acuerdo.
