@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2004-05-18"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -43,9 +43,11 @@ LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
+
 ###### Art. 1°.
 
-La presente ley es obligatoria y de observancia general para los titulares y servidores públicos de los poderes Legislativo, Ejecutivo y Judicial y sus dependencias respectivas; de los Ayuntamientos; de los organismos descentralizados del Estado y sus Municipios, así como de aquellas empresas o asociaciones de participación Estatal o Municipal mayoritaria, en que por leyes, decretos, reglamentos o convenios, llegue a establecerse su aplicación.
+La presente ley es de orden público, de observancia general y obligatoria para los titulares y servidores públicos de los poderes Legislativo, Ejecutivo y Judicial, organismos constitucionales autónomos, ayuntamientos y sus dependencias, así como para los organismos públicos descentralizados del Poder Ejecutivo del Estado y de los Municipios, empresas o asociaciones de participación estatal o municipal mayoritaria, en que por leyes, decretos, reglamentos o convenios llegue a establecerse su aplicación.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -337,7 +339,7 @@ Todo Servidor Público antes de tomar posesión de su cargo, rendirá la protest
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
-La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿ protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? el interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
+La protesta de los servidores públicos se rendirá en los términos siguientes: El que tome la protesta interrogará como sigue: ¿protesta usted desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se le confirió, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado? el interesado responderá: "Si protesto", la autoridad que tome la protesta añadirá: "Si no lo hiciere así que la Nación y el Estado se lo demanden".
 
 ###### Art. 19.
 
@@ -611,37 +613,57 @@ Los cómputos deberán hacerse por servicios continuos o cuando, de existir una 
 
 Sueldo es la remuneración que debe pagarse al servidor público por los servicios prestados.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 ###### Art. 46.
 
-El sueldo para los servidores públicos será acorde a las funciones y responsabilidades de sus cargos y se fijará en base a los presupuestos de egresos respectivos, tomando en cuenta las recomendaciones del Comité Técnico de valoración Salarial del Estado de Jalisco y sus Municipios de acuerdo a la capacidad económica de la entidad pública, sin que puedan ser disminuidos, y de conformidad con las disposiciones legales aplicables en la materia.
+El sueldo para los servidores públicos se regirá por las disposiciones siguientes:
 
-Los servidores públicos no podrán percibir por sus servicios ningún tipo de pago, prestación, compensación o bono alguno que no esté expresamente asignado en el presupuesto de egresos correspondiente.
+I. Debe estar previsto en el presupuesto de egresos respectivo, mismo que debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación;
 
-La violación a lo dispuesto por el presente artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+II. Debe ser racional, en cuanto esté basado en una adecuada fundamentación del derecho que lo sustenta;
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+III. Debe ser proporcional en razón de que su cuantía debe guardar conformidad con la capacidad pecuniaria de la entidad, las necesidades de la misma, así como la responsabilidad y funciones inherentes al cargo; y
 
-Art. 46 bis. Para efectos del artículo anterior, se conformará un Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, el cual deberá realizar los estudios necesarios para la actualización de los montos máximos de las percepciones anualmente y emitir recomendaciones sobre la percepción salarial de los servidores públicos. Este Comité Técnico estará integrado por:
+IV. Debe fijarse cumpliendo con los requisitos establecidos en la ley.
 
-I. El Gobernador del Estado o la persona que éste designe;
+Las modificaciones a los presupuestos de egresos que resuelvan aumentos salariales deben estar fundadas y motivadas.
 
-II. El Presidente del Supremo Tribunal de Justicia del Estado o quien designe el Pleno de éste;
+El sueldo y demás prestaciones de los servidores públicos, en ningún caso pueden ser disminuidas, pero si pueden permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo.
 
-III. Dos representantes del Congreso del Estado, que serán designados por las Comisiones de Hacienda y Presupuestos y de la Comisión de Administración; y
+Es causal de responsabilidad administrativa en los términos de la ley de la materia, establecer en los presupuestos de egresos o autorizar el pago de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación. En igual responsabilidad incurre el servidor que reciba este tipo de percepciones.
 
-IV. Un académico especialista en Gestión y Administración Pública o en Ciencias Políticas y de Gobierno, designado por el rector de las siguientes universidades: Universidad de Guadalajara, Universidad del Valle de Atemajac, Universidad Autónoma de Guadalajara, Instituto Tecnológico y de Estudios Superiores de Occidente, Universidad Panamericana e Instituto Tecnológico de Estudios Superiores de Monterrey.
+Las sanciones que se apliquen de conformidad con el párrafo anterior son independientes de las que procedan en caso de configurarse responsabilidad política, penal o civil.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 46 bis. Para efectos del artículo anterior, se conforma el Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, como un órgano auxiliar de las autoridades estatales, no vinculativo, integrado por representantes de los sectores público y privado del Estado, el cual debe realizar estudios sobre los montos máximos de las percepciones anuales de los servidores públicos del Estado de Jalisco y sus Municipios y emitir recomendaciones sobre éstas.
+
+Estas recomendaciones deberán ser consideradas y analizadas por las autoridades que de conformidad con la ley gocen de autonomía presupuestaria, durante el proceso de aprobación de sus presupuestos de egresos respectivos.
+
+Dichas autoridades deberán notificar al Congreso del Estado el resultado del análisis que sobre las citadas recomendaciones hayan realizado, fundando y motivando en su caso, la no incorporación de las mismas en los presupuestos de egresos respectivos.
+
+El Comité Técnico de Transparencia y Valoración Salarial se integra por:
+
+I. El Gobernador del Estado o la persona que éste designe en su representación;
+
+II. El Presidente del Supremo Tribunal de Justicia del Estado o quien designe el Pleno del mismo para comparecer en su lugar;
+
+III. Dos representantes del Poder Legislativo nombrados por la Asamblea;
+
+IV. El Consejero Presidente de la Comisión Estatal de Derechos Humanos;
+
+V. El Presidente del Consejo Electoral del Estado de Jalisco; y
+
+VI. El académico especialista en gestión y administración pública o en ciencias políticas y de gobierno, designado por el rector de las siguientes universidades: Universidad de Guadalajara, Universidad del Valle de Atemajac, Universidad Autónoma de Guadalajara, Instituto Tecnológico y de Estudios Superiores de Occidente, Universidad Panamericana e Instituto Tecnológico de Estudios Superiores de Monterrey.
 
 El Comité a petición de cualquiera de sus miembros, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias, para el mejor cumplimiento de sus actividades.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+El Comité Técnico de Transparencia y Valoración Salarial sesionará, de manera ordinaria previa convocatoria por parte del Titular del Poder Ejecutivo, durante los meses de mayo, junio y julio, para formular las recomendaciones respectivas a más tardar el día quince de julio, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de Presupuesto de Egresos del Estado de Jalisco, así como en el de los organismos públicos descentralizados del Poder Ejecutivo y en el de los Municipios. Fuera de este tiempo, dicho Comité podrá sesionar de manera extraordinaria a petición fundamentada de cualquiera de sus miembros presentada al representante del Poder Ejecutivo del Estado.
 
-El Comité Técnico sesionará, de manera ordinaria previa convocatoria por parte del Titular del Poder Ejecutivo, durante los meses de mayo, junio y julio, para formular las recomendaciones respectivas a más tardar el día quince de julio, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de Presupuesto de Egresos del Gobierno del Estado y de los municipios. Fuera de éste tiempo, dicho Comité podrá sesionar de manera extraordinaria a petición fundamentada de cualquiera de sus miembros presentada al representante del Poder Ejecutivo del Estado.
+El cargo de integrante del Comité Técnico de Transparencia y Valoración Salarial del Estado de Jalisco y sus Municipios, es honorífico y por tanto no remunerado y en el caso de los servidores públicos que participan en él, este encargo se entiende inherente a su función pública. Los particulares que participan en el Comité, carecen de la calidad de servidores públicos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-Los integrantes del Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, no percibirán remuneración económica alguna, por las actividades inherentes a este nombramiento.
+El Comité, bajo ninguna circunstancia puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
 
@@ -709,23 +731,73 @@ El aguinaldo se cubrirá proporcionalmente tomando en cuenta las faltas de asist
 
 Los servidores públicos que no hayan cumplido un año de labores tendrán derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Art. 54 bis. Los titulares y servidores públicos de las entidades y dependencias señaladas en el artículo 1º de esta Ley, podrán recibir incentivos, bonos o compensaciones los que deberán sujetarse a lo previsto en el Presupuesto de Egresos que corresponda. Dichos incentivos, o bonos o compensaciones, deberán ser equitativos conforme a las categorías y niveles existentes en las plantillas de servidores públicos de cada dependencia o entidad.
+Art. 54 bis. Los servidores públicos que integran los entes públicos a que se refiere el artículo 1 de esta ley, con excepción de sus titulares, mandos superiores y directores pueden recibir estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en el Presupuesto de Egresos respectivo.
 
-El otorgamiento de estos beneficios se sujetará a lo siguiente:
+El otorgamiento de los estímulos o compensaciones debe sujetarse estrictamente a lo siguiente:
 
-I. Los incentivos, bonos o compensaciones que se entreguen a los servidores públicos, en ningún caso podrán ser superiores al salario mensual que perciban;
+I. Los estímulos o compensaciones deben ser equitativos a las categorías y niveles existentes en las plantillas de servidores públicos de cada dependencia o entidad;
 
-II. Las entidades y dependencias deberán tomar en cuenta la puntualidad, asistencia y productividad, además de otros criterios y condiciones que establezcan claramente en sus respectivos ordenamientos internos, para que los servidores públicos puedan ser merecedores de los incentivos, bonos o compensaciones, los cuales se otorgarán una sola vez por año; y,
+II. Los estímulos o compensaciones que se entreguen a los servidores públicos, en ningún caso pueden ser superiores al salario mensual que perciban;
 
-III. El pago de estos beneficios deberá registrarse en el recibo de nómina del servidor público que corresponda.
+III. Las autoridades deben sujetar la entrega de los estímulos o compensaciones, exclusivamente como incentivo a la puntualidad, asistencia, productividad y eficiencia o cualquier otro criterio o condición de similar naturaleza establecido expresamente en los reglamentos aplicables;
 
-Los servidores públicos que otorguen o reciban estos beneficios en contravención al presente artículo será (sic) sancionado de conformidad a lo establecido en la Ley de Responsabilidades para los Servidores Públicos en el Estado de Jalisco.
+IV. La entrega de los estímulos o compensaciones se realiza exclusivamente una vez por año;
 
-### CAPITULO V. De las obligaciones de los servidores públicos
+V. El pago de estos beneficios debe registrarse en el recibo de nómina del servidor público que corresponda; y
 
-### CAPITULO I. De las obligaciones de las entidades públicas
+VI. La información relativa a los criterios y procedimientos para la asignación de estímulos o compensaciones, así como los nombres de los servidores públicos merecedores de ellos, deben publicarse en los medios de divulgación correspondientes a cada autoridad.
+
+Los servidores públicos que otorguen o reciban estímulos o compensaciones en contravención al presente artículo y demás disposiciones legales y reglamentarias aplicables incurren en responsabilidad, misma que se sanciona de conformidad con la legislación vigente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE AGOSTO DE 2004)</small>
+
+### CAPITULO V. Disposiciones Comunes para el Sueldo y demás Prestaciones de los Servidores Públicos
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 54 bis 1. Son irrenunciables los salarios devengados, indemnizaciones y demás prestaciones otorgados en los términos de la ley que se deriven de los servicios prestados.
+
+Queda prohibido para todo servidor público, otorgar o recibir prestaciones distintas a las establecidas en esta ley y demás disposiciones legales aplicables.
+
+Se consideran acordes a la ley, las prestaciones otorgadas a los servidores públicos en los términos de las condiciones generales de trabajo o contratos colectivos celebrados de conformidad con la ley.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 54 bis 2. La remuneración de los servidores públicos se tasará en salarios mínimos y será conforme a los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, debiendo fijarse anualmente en los presupuestos de egresos respectivos.
+
+Al determinarse la remuneración de los servidores públicos, con excepción de los titulares de las autoridades a que se refiere esta ley, se tomará en cuenta su antigüedad, capacidad, nivel académico, productividad y responsabilidad, a la par de cumplir con los otros principios que establece la presente ley así como la demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 54 bis 3. Los servidores públicos tendrán derecho a los servicios asistenciales que otorga la Dirección de Pensiones del Estado, en los términos establecidos en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 54 bis 4. A los servidores públicos se les garantizará su acceso a los servicios necesarios para preservar su salud. Para tal efecto los entes públicos podrán optar por la afiliación de sus trabajadores a los servicios públicos de salud o cualquier otro medio que consideren conveniente y se encuentre acorde a la normatividad aplicable.
+
+Los servicios de salud otorgados en los términos de la presente ley, deberán permanecer vigentes hasta dos meses después de que el servidor público haya dejado el cargo y los montos asegurados se ajustarán a lo dispuesto por este ordenamiento.
+
+Los gastos del otorgamiento de los servicios de salud, sea cual fuere la forma que se elija, correrán a cargo del erario público, pero por ningún motivo se contratarán pólizas con pacto de reembolso a favor de los servidores públicos asegurados.
+
+Cuando deba operar un reembolso con motivo de la suscripción de un contrato de seguro, aquel siempre será en beneficio del erario público.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 54 bis 5. Los servidores públicos pagarán las contribuciones fiscales que se originen con motivo del recibo de la remuneración y demás prestaciones gravables y para ese efecto las instancias correspondientes harán las retenciones debidas.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 54 bis 6. Las licencias para separarse del cargo de manera voluntaria y temporal deberán ser autorizadas por el superior jerárquico del solicitante, con excepción de los casos en que conforme a esta ley se requiera procedimiento distinto, y una vez en vigencia suspenderán el goce del sueldo y demás prestaciones establecidas por el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Art. 54 bis 7. Quedan prohibidas las subvenciones en efectivo o en especie destinadas al disfrute privado del servidor público, así como bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, distintas a las establecidas en la presente ley, ya sea enunciadas como compensaciones, ayudas, bonos o cualquiera otra denominación.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+### CAPITULO VI. De las Obligaciones de los Servidores Públicos
 
 ###### Art. 55.
 
@@ -775,15 +847,25 @@ XXI. Excusarse de intervenir en cualquier forma en la atención, tramitación o 
 
 XXII. Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir por interpósita persona, dinero, objetos o servicios;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
 XXIII. Presentar con oportunidad la declaración patrimonial ante el órgano del poder público que le corresponda de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
 
-XXIV. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Contraloría, conforme a la competencia de ésta.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XXIV. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Contraloría, conforme a la competencia de ésta;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XXV. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XXVI. No desviar los recursos económicos y en especie que reciba como apoyo para el desempeño de sus funciones, a un fin diverso a éste.
 
 ## TITULO TERCERO
 
-### CAPITULO II. Del escalafón
+### CAPITULO I. De las obligaciones de las entidades públicas
 
 ###### Art. 56.
 
@@ -827,7 +909,7 @@ II.- Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embar
 
 III.- Provocar el despido o la renuncia de las mujeres trabajadoras por cualquier causa distinta a las mencionadas en el numeral 22 de este ordenamiento, y las demás leyes aplicables.
 
-### CAPITULO III. De la seguridad social
+### CAPITULO II. Del escalafón
 
 ###### Art. 57.
 
@@ -873,7 +955,7 @@ II. Dar a conocer a la Comisión, la existencia de vacantes, dentro de los diez 
 
 III. Hacer la proposición de nombramientos definitivos, en favor de la persona que hubiese logrado la más alta calificación para el empleo, en concurso, una vez conocido el fallo de la Comisión Mixta de Escalafón.
 
-### CAPITULO I. De los sindicatos
+### CAPITULO III. De la seguridad social
 
 ###### Art. 63.
 
@@ -903,7 +985,7 @@ Las Entidades Públicas, en caso de muerte del servidor público, pagarán a la 
 
 ## TITULO CUARTO. De la organización colectiva de los servidores públicos y de las condiciones generales de trabajo
 
-### CAPITULO II. De las condiciones generales de trabajo
+### CAPITULO I. De los sindicatos
 
 ###### Art. 69.
 
@@ -1053,7 +1135,7 @@ Las remuneraciones que se paguen a los Directivos y a los empleados de los sindi
 
 Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cuotas sindicales, pero éstas no podrán ser descontadas a los servidores públicos, cuando excedan del 1% de sus sueldos.
 
-### CAPITULO III. De la huelga
+### CAPITULO II. De las condiciones generales de trabajo
 
 ###### Art. 89.
 
@@ -1101,7 +1183,7 @@ IV. Un sueldo inferior al mínimo establecido para zona económica de que se tra
 
 V. Un plazo mayor de quince días para el pago de los sueldos y demás prestaciones económicas.
 
-### CAPITULO IV. De las prescripciones
+### CAPITULO III. De la huelga
 
 ###### Art. 94.
 
@@ -1169,13 +1251,11 @@ IV. Por sobrevenir el estado previsto por el Art. 29 de la Constitución Políti
 
 V. Por desistimiento.
 
-### CAPITULO I. Del tribunal de arbitraje y escalafón
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
+### CAPITULO IV. De las prescripciones
 
 ###### Art. 105.
 
-Las acciones que nazcan de esa ley, o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
+Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1249,7 +1329,9 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 ## TITULO QUINTO
 
-### CAPITULO II. Del procedimiento
+### CAPITULO I. Del tribunal de arbitraje y escalafón
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2002)</small>
 
 ###### Art. 112.
 
@@ -1325,9 +1407,7 @@ VI. Invalidar las resoluciones de las comisiones mixtas de escalafón, a instanc
 
 Dicho Tribunal queda exceptuado para conocer y resolver las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los servidores públicos que presten sus servicios en los tribunales y Consejo General del Poder Judicial a que se refiere el primer párrafo del artículo 56 de la Constitución Política del Estado. También queda exceptuado de conocer y resolver las controversias o conflictos de carácter colectivo que abarquen más de una entidad federativa y en que sean parte sindicatos nacionales o federales reconocidos por el Gobierno del Estado.
 
-### CAPITULO III. Del Procedimiento ante el Tribunal de Arbitraje y Escalafón
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+### CAPITULO II. Del procedimiento
 
 ###### Art. 115.
 
@@ -1451,7 +1531,9 @@ IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designar�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 27 DE JUNIO DE 2002)</small>
 
-### CAPITULO IV. Del Procedimiento de Ejecución
+### CAPITULO III. Del Procedimiento ante el Tribunal de Arbitraje y Escalafón
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 128.
 
@@ -1543,9 +1625,7 @@ Las resoluciones dictadas por el Tribunal de Arbitraje y Escalafón serán inape
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2002)</small>
 
-### CAPITULO I. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+### CAPITULO IV. Del Procedimiento de Ejecución
 
 ###### Art. 140.
 
@@ -1613,7 +1693,7 @@ En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelg
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO II. De la comisión de evaluación
+### CAPITULO I. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1695,7 +1775,7 @@ Quienes desempeñen algún puesto del Servicio, tendrán los mismos derechos y o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO III. Del sistema administrativo
+### CAPITULO II. De la comisión de evaluación
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1801,7 +1881,7 @@ VI. Las demás que le otorgue la presente Ley, el Reglamento Interno y los acuer
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO IV. Del desarrollo y profesionalización
+### CAPITULO III. Del sistema administrativo
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1921,7 +2001,7 @@ Cuando un servidor público de base sea promovido para ocupar otra plaza deberá
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
-### CAPITULO V. De la separación y reincorporación
+### CAPITULO IV. Del desarrollo y profesionalización
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1974,6 +2054,10 @@ III. Pago de inscripciones.
 En el Reglamento Interno de las Entidades Públicas, se establecerán los requisitos que se deban cubrir para participar en los programas de formación y desarrollo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+
+### CAPITULO V. De la separación y reincorporación
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 188.
 
@@ -2164,3 +2248,9 @@ P.O. 10 DE FEBRERO DE 2004.
 P.O. 18 DE MAYO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
