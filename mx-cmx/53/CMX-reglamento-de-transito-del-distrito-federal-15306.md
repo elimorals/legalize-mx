@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-15306"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2002-10-31"
+last_updated: "2003-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de noviembre de 1999.
 
@@ -1450,6 +1450,10 @@ Las personas que contravengan las disposiciones del presente Reglamento se hará
 
 Procederá el arresto administrativo inconmutable de 12 a 36 horas, al conductor que conduzca con una cantidad de alcohol en la sangre superior a los gramos y miligramos señalados en el primer y segundo párrafos del artículo 100 de este Reglamento o bajo la influencia, médicamente comprobada, de enervantes, estupefacientes, o sustancias tóxicas o psicotrópicas, de conformidad con lo dispuesto en el primer párrafo del artículo 99 de este Reglamento.
 
+> <small>(ADICIONADO, G.O. 15 DE JULIO DE 2003)</small>
+
+También se sancionará con arresto administrativo inconmutable de 25 a 36 horas a quienes organicen o participen en competencias vehiculares de alta velocidad en las vías públicas.
+
 ###### ARTÍCULO 103.
 
 Las sanciones previstas en este Reglamento podrán aplicarse cuando al conductor se le sorprenda en flagrancia, sin perjuicio de las penas que correspondan por delito que pueda tipificarse debido a las conductas en que incurran los infractores.
@@ -1543,3 +1547,7 @@ SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Feder
 G.O. 31 DE OCTUBRE DE 2002.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de Distrito Federal.
+
+G.O. 15 DE JULIO DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
