@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-informacion-estadistica-y-geografica-52
 country: "mx"
 rank: "reglamento"
 publication_date: "1982-11-03"
-last_updated: "1982-11-03"
+last_updated: "2004-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=521&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1982-10-25"
 
 REGLAMENTO DE LA LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 3 de noviembre de 1982.
 
@@ -113,9 +113,11 @@ Se entenderá como censo la enumeración general de todas las unidades que corre
 
 La preparación, organización, levantamiento, tabulación y publicación de los censos nacionales, deberá realizarse de acuerdo con las necesidades de información, que se determinen en los servicios nacionales.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 15.
 
-El Censo General de Población y Vivienda se llevará a cabo cada diez años, en los terminados en cero; los Censos Económicos se llevarán a cabo cada cinco años, en los terminados en uno y en seis.
+El Censo General de Población y Vivienda se llevará a cabo cada diez años, en los terminados en cero; los Censos Económicos se llevarán a cabo cada cinco años, en los terminados en cuatro y en nueve, y los Censos Agropecuarios se llevarán a cabo cada diez años en los terminados en uno.
 
 Lo anterior sin perjuicio de que las autoridades competentes, atendiendo a los requerimientos de información para el desarrollo, determinen cambios en la periodicidad del levantamiento y conceptualización de los censos correspondientes.
 
@@ -672,3 +674,9 @@ Se abroga el Reglamento de la Ley Federal de Estadística publicado en el Diario
 Para efectos de la inscripción a que se refiere el Artículo 45 de este Reglamento, el registro de la cartografía respectiva, deberá hacerse dentro de los 60 días siguientes a la fecha de entrada en vigor de este mismo ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veinticinco días del mes de octubre de mil novecientos ochenta y dos.- José López Portillo.- Rúbrica.- El Secretario de Programación y Presupuesto, Ramón Aguirre Velázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 24 DE MARZO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
