@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-17897"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-30"
-last_updated: "2001-07-20"
+last_updated: "2002-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 30 de agosto de 2000.
 
@@ -217,21 +217,31 @@ VII.- De los ingresos extraordinarios que le participe la Federación al Gobiern
 
 (DEROGADO, P.O. 20 DE JULIO DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 9.
 
-El coeficiente que a cada municipio corresponda para participar del total de las participaciones estatales y federales, se determinará de conformidad con los factores obtenidos de aplicar la fórmula que considere las siguientes bases:
+La distribución que corresponda a cada municipio para participar de la recaudación federal de ingresos que pertenezca al Estado, se determinará de conformidad con los factores que se obtengan de aplicar la fórmula que considere las bases siguientes:
 
-I. 50% en razón directa del número de habitantes que registre el municipio, de acuerdo a los últimos datos oficiales de población emitidos por el INEGI;
+I. El 60% en razón directa al número de habitantes que registre el municipio, de acuerdo a los últimos datos oficiales de población emitidos por el Instituto Nacional de Estadística, Geografía e Informática (INEGI), a mayor número de habitantes mayor monto;
 
-II. 25% En relación directa al estrato de marginalidad municipal proporcionado por el último informe oficial del Instituto Nacional de Estadística, Geografía e Informática (INEGI); o por el Consejo Nacional de Población (CONAPO), de acuerdo con los siguientes criterios:
+II. El 20% en relación directa al grado de mayor marginalidad que registre cada Municipio, de acuerdo a los índices de marginación emitidos en el último informe oficial del Consejo Estatal de Población (COESPO MORELOS), considerando hasta 9 decimales, conforme al siguiente criterio:
 
-El coeficiente de participación efectiva será el que resulte de dividir las participaciones efectivamente recibidas por cada Municipio, de acuerdo a los estratos de marginalidad del Estado entre el total de las participaciones pagadas en el ejercicio de que se trate. En el caso de que INEGI o CONAPO, no proporcionen los estratos de marginalidad por Municipio, el Congreso del Estado decidirá la forma de hacer el cálculo.
+Los índices de marginación de los Municipios se convierten a números positivos, sumándole a todos ellos el entero inmediato superior al índice del Municipio que tenga menor marginación, una vez que se tienen números positivos, el resultado de cada uno se divide entre la suma del total de estos indicadores, el nuevo resultado se multiplica por el monto a distribuir por este concepto.
 
-III. 15% en razón directa al esfuerzo de recaudación en puntos porcentuales que se refleje en lngresos Propios del Municipio, en el ejercicio inmediato anterior al que se realiza el cálculo.
+III. El 9% del Fondo se distribuirá en forma proporcional directa a la recaudación de ingresos propios, con relación a la recaudación total de todos los Municipios considerando el total de Ingresos Propios, el ejercicio inmediato anterior al año en que se efectúe el cálculo, información que deberá proporcionar el Órgano de Fiscalización Superior del Congreso del Estado a más tardar el primer día hábil del mes de octubre de cada año.
 
-IV. 10% en razón directa al número de localidades por municipio.
+Para determinar el monto a distribuir por Municipio, se divide el monto de ingresos propios de cada uno entre la suma total de la recaudación por todos ellos, el factor obtenido se multiplica por el monto a distribuir por este concepto.
+
+IV. El 11%, se distribuirá de modo Inverso Proporcional, a la suma de los montos que obtenga cada Municipio por las tres fracciones anteriores, comparado con los demás; conforme a lo siguiente:
+
+a) Se suman los montos que le correspondan a cada Municipio por las tres fracciones anteriores;
+
+b) Para invertir el resultado se divide la unidad (1) entre la suma de los montos anteriores que obtenga cada Municipio;
+
+c) El resultado se divide entre la suma total de los montos invertidos;
+
+d) El factor obtenido se multiplica en cada Municipio por el monto a distribuir por este concepto.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
 
@@ -656,3 +666,13 @@ QUINTO.- En la sesión constitutiva se convocará a una reunión extraordinaria 
 SEXTO.- A través de su presidencia, la Asamblea Estatal de Funcionarios Hacendarios solicitará al Titular del Poder Ejecutivo disponer de lo necesario para que de inmediato y conforme al calendario aprobado se liberen, al Instituto de Finanzas Públicas y Federalismo Hacendario, los recursos necesarios para su equipamiento y funcionamiento. Los recursos deberán liberarse al representante del Instituto, quien dispondrá lo necesario para el buen uso de los recursos, apegándose a las normas aplicables en su ejecución.
 
 SEPTIMO.- En un plazo que no excederá de 90 días naturales a partir de la publicación de este Decreto, se deberán expedir los Reglamentos Interiores de la Comisión Permanente Estatal de Funcionarios Hacendarios y del Instituto de Finanzas Públicas y Federalismo Hacendario.
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
