@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-pensiones-a-empleados-municipales-18902"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-02-09"
-last_updated: "2000-12-11"
+last_updated: "2003-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE PENSIONES A EMPLEADOS MUNICIPALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Puebla, el martes 9 de febrero de 1993.
 
@@ -67,83 +67,17 @@ b).- Los nombramientos expedidos a su favor: Funcionario, Empleado, o Trabajador
 
 c).- Su acta de nacimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2003)</small>
 
-###### ARTICULO 5.
+###### ARTICULO 5°.
 
-Tienen derecho a pensión, los trabajadores que habiendo cumplido 55 años de edad, tuvieran 15años de servicio como mínimo, dentro del Honorable Ayuntamiento del Municipio de Puebla, de acuerdo con las tablas siguientes:
-
-> <small>(REFORMADA TABLA, P.O. 13 DE NOVIEMBRE DE 2000)</small>
-
-VARONES
-
-Por 15 años de servicio 50.00% del salario
-
-16 " " " " 52.50% del salario
-
-17 " " " " 55.00 % del salario
-
-18 " " " " 57.50 % del salario
-
-19 " " " " 60.00 % del salario
-
-20 " " " " 62.50 % del salario
-
-21 " " " " 65.00 % del salario
-
-22 " " " " 67.50 % del salario
-
-23 " " " " 70.00 % del salario
-
-24 " " " " 72.50 % del salario
-
-25 " " " " 75.00 % del salario
-
-26 " " " " 80.00 % del salario
-
-27 " " " " 85.00 % del salario
-
-28 " " " " 90.00 % del salario
-
-29 " " " " 95.00 % del salario
-
-30 " " " " 100.00 % del salario
-
-MUJERES
-
-Por 15 años de servicio 57.50% del salario
-
-16 " " " " 60.00% del salario
-
-17 " " " " 62.50% del salario
-
-18 " " " " 65.00% del salario
-
-19 " " " " 67.50% del salario
-
-20 " " " " 70.00% del salario
-
-21 " " " " 72.50% del salario
-
-22 " " " " 75.00% del salario
-
-23 " " " " 80.00% del salario
-
-24 " " " " 85.00% del salario
-
-25 " " " " 90.00% del salario
-
-26 " " " " 95.00% del salario
-
-27 " " " " 100.00 % del salario
-
-> <small>(REFORMAD [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2000)</small>
+Podrá ser pensionado por el H. Ayuntamiento del Municipio de Puebla, el empleado que cumpla 30 años de servicio a favor del mismo, que así lo solicite; de igual manera, será sujeto a pensionarse el trabajador que cumpla 65 años de edad y cuente con 10 años de servicio prestados de manera ininterrumpida.
 
 Para los efectos de cómputo a que se refiere este artículo, se considerará un año, cuando el trabajador haya laborado seis meses y un día.
 
 Para probar la edad, no se admitirá más prueba que la correspondiente acta de nacimiento autorizada por el Juez del Registro del Estado Civil.
 
-Para los efectos de la jubilación, se tomará en cuenta el tiempo durante el cual el Funcionario, Empleado o Trabajador dejó de prestar sus servicios por enfermedad o por accidente de trabajo debida y oportunamente justificados.
+Para los efectos de jubilación, se tomará en cuenta el tiempo durante el cual el funcionario, empleado o trabajador dejó de prestar sus servicios por enfermedad o por accidente de trabajo debida y oportunamente justificados.
 
 ###### ARTICULO 6º.
 
@@ -217,6 +151,10 @@ T R A N S I T O R I O S
 
 2º.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2003)</small>
+
+3°.- La reforma al artículo 5 del presente Reglamento, aprobada en Sesión de Cabildo el día treinta del mes de octubre de 2002, no será retroactiva a los empleados que hayan dejado de prestar su servicio al Ayuntamiento con fecha anterior a la publicación en el Periódico Oficial del Estado de Puebla de la mencionada reforma.
+
 "Sufragio Efectivo. No Reelección".
 
 H. Puebla de Z., a 14 de Julio de 1992.- El Presidente Municipal Constitucional - Lic. Marco Antonio Rojas Flores.- El Secretario General del H. Ayuntamiento.- Lic. Germán Escobar Arrona.-Rúbrica.
@@ -242,3 +180,13 @@ P.O. 11 DE DICIEMBRE DE 2000.
 SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 TERCERO.- Se mande publicar el presente Dictamen en el Periódico Oficial del Estado de Puebla.
+
+P.O. 7 DE FEBRERO DE 2003.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+CUARTO.- Que se deroguen todas las disposiciones reglamentarias que se opongan al presente Dictamen, el cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+QUINTO.- Se instruye a la Secretaría General del H. Ayuntamiento de Puebla para que gire los oficios que sean necesarios para su publicación en el Periódico Oficial del Estado, para los efectos legales conducentes.
+
+SEXTO.- Notifíquese al Sindicato Único de Empleados y Trabajadores del H. Ayuntamiento de Puebla e Instituciones Paramunicipales.
