@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1986-01-08"
+last_updated: "1986-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1986.
 
-Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
+Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -145,6 +145,10 @@ Este tipo de cambio se determinará conforme a las disposiciones que para esos e
 > <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1986)</small>
 
 Los pagos en moneda extranjera originados en situaciones o transferencias de fondos desde el exterior, que se lleven a cabo a través del Banco de México o de Instituciones de Crédito, deberán ser cumplidos entregando la moneda, objeto de dicha transferencia o situación. Ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de Control de Cambios en vigor.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1986)</small>
+
+Las obligaciones a que se refiere el primer párrafo de este artículo, originadas en depósitos bancarios irregulares constituidos en moneda extranjera, se solventarán conforme a lo previsto en dicho párrafo, a menos que el deudor se haya obligado en forma expresa a efectuar el pago precisamente en moneda extranjera, en cuyo caso deberá entregar esta moneda. Esta última forma de pago sólo podrá establecerse en los casos en que las autoridades bancarias competentes lo autoricen, mediante reglas de carácter general que deberán publicarse en el Diario Oficial de la Federación; ello sin perjuicio del cumplimiento de las obligaciones que imponga el régimen de control de cambios en vigor.
 
 ###### ARTICULO 9°.
 
@@ -743,3 +747,9 @@ D.O.F. 8 DE ENERO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MAYO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
