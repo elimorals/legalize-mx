@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-patronato-del-teatro-principal-11473"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-31"
-last_updated: "1990-07-31"
+last_updated: "1996-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL PATRONATO DEL TEATRO PRINCIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1996.
 
 Ley Publicada en el Periódico Oficial del Estado de Puebla, el martes 31 de julio de 1990.
 
@@ -49,9 +49,11 @@ DECRETA:
 
 LEY QUE CREA EL PATRONATO DEL TEATRO PRINCIPAL
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 1º.
 
-El edificio conocido con el nombre de TEATRO PRINCIPAL, ubicado en la Plazuela de San Francisco, en la Capital del Estado, se considerará como "Teatro de la Ciudad" y se destina a actividades culturales, principalmente de arte teatral.
+El Inmueble ubicado en la Avenida Ocho Oriente, entre las calles Seis y Ocho Norte de la Ciudad de Puebla, conocido con el nombre de Teatro Principal, se considerará como "Teatro del Estado" y se destinará a la promoción y difusión de actividades culturales.
 
 ###### ARTICULO 2°.
 
@@ -67,9 +69,13 @@ EL PATRONATO DEL TEATRO PRINCIPAL, estará integrado por:
 
 Un Presidente Honorario, que será el Ejecutivo del Estado.
 
-Un Presidente que será el Presidente Municipal de Puebla.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
 
-Un Vice-Presidente que será el Secretario de Cultura del Gobierno del Estado.
+Un Presidente que será el Secretario de Cultura.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+Un Vicepresidente.
 
 Cinco Vocales.
 
@@ -97,9 +103,11 @@ Los miembros del PATRONATO durarán en su encargo tres años, pudiendo ser reele
 
 Designados los miembros del PATRONATO sesionarán por lo menos una vez al mes, y los acuerdos serán tomados por mayoría de votos y en caso de empate será de calidad el del Presidente.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 8º.
 
-Los vocales serán nombrados y removidos libremente por el Ejecutivo del Estado; el Administrador y Director Artístico serán nombrados por el Patronato.
+El Vicepresidente y los Vocales, serán nombrados y removidos por el Ejecutivo del Estado, el Administrador y Director Artístico serán nombrados por el Patronato.
 
 ###### ARTICULO 9º.
 
@@ -167,6 +175,14 @@ El edificio del TEATRO PRINCIPAL y los ingresos que formen su patrimonio, estar�
 
 El Gobernador del Estado tendrá en todo tiempo el derecho de ordenar la práctica de visitas o auditorías que estime necesarias, en relación con las actividades del PATRONATO.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1996)</small>
+
+###### ARTICULO 16.
+
+Para la vigilancia, control y evaluación de las funciones del Patronato, la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública del Estado, designará un Comisario Público, que tendrá las atribuciones que la misma Secretaría le otorgue, la Ley Orgánica de la Administración Pública del Estado y las demás disposiciones legales aplicables.
+
+El Comisario Público, que tendrá un suplente, asistirá a las sesiones del Patronato, con voz pero sin voto.
+
 ## TRANSITORIOS.
 
 ###### ARTICULO PRIMERO.
@@ -188,3 +204,19 @@ Los derechos laborales del personal del TEATRO PRINCIPAL, serán respetados, con
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los 26 días del mes de Julio de 1990.- Diputada Presidenta.- Lic. Enoé González Cabrera.- Rúbrica.- Diputado Secretario.- Lic. Juan Miguel Madera López.- Rúbrica.- Diputado Secretario.- Lic. Eduardo Cué Morán.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de mil novecientos noventa.- El Gobernador del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Héctor Jiménez y Meneses.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JUNIO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Titular del Poder Ejecutivo Estatal proveerá lo necesario para la integración del Patronato.
+
+###### ARTICULO TERCERO.
+
+Los integrantes del actual Patronato del Teatro Principal, informarán a los miembros del nuevo Patronato que integre el Titular del Poder Ejecutivo Estatal, sus actividades realizadas, entregando los fondos, cuentas de cheques, valores e inversiones bancarias obtenidas durante su gestión, así como los recursos materiales que integren el patrimonio del Teatro Principal; la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública del Estado, intervendrá y fiscalizará estas acciones para que se apeguen conforme a derecho.
