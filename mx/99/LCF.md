@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2003-12-30"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE AGOSTO DE 2004.
 
-Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
+Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -206,7 +206,7 @@ Las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal,
 
 I.- El 20% de la recaudación si se trata de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas y bebidas alcohólicas.
 
-II. El 8% de la recaudación si se trata de tabacos labrados.
+II.- El 8% de la recaudación si se trata de tabacos labrados.
 
 Esta participación se distribuirá en función del porcentaje que represente la enajenación de cada uno de los bienes a que se refiere este artículo en cada entidad federativa, de la enajenación nacional, y se liquidará conforme a lo establecido en el artículo 7o. de esta Ley.
 
@@ -348,7 +348,7 @@ Lo señalado en el presente artículo no será aplicable tratándose de los puen
 
 ### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 10.
 
@@ -398,11 +398,11 @@ e).- Expedición de placas y tarjeta para la circulación de vehículos.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-f) Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+f).- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-g) Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+g).- Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -414,7 +414,7 @@ b).- Registro de la Propiedad y del Comercio.
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-III. Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1080,7 +1080,9 @@ El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrit
 
 En el Presupuesto de Egresos de la Federación de cada ejercicio fiscal se hará la distribución de los recursos federales que integran este Fondo entre los distintos rubros de gasto del Sistema Nacional de Seguridad Pública aprobados por el Consejo Nacional de Seguridad Pública.
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública, a propuesta de la Secretaría de Gobernación, determine, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar el 31 de enero del ejercicio fiscal de que se trate.
+> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2004)</small>
+
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública determine, a propuesta de la Secretaría de Gobernación, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar el 31 de enero del ejercicio fiscal de que se trate. Los convenios celebrados entre las partes integrantes del Sistema Nacional, deberán firmarse en un término no mayor a sesenta días contados a partir de la publicación antes mencionada.
 
 Este Fondo se enterará mensualmente por la Secretaría de Hacienda y Crédito Público durante los primeros diez meses del año a los Estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo.
 
@@ -1188,13 +1190,13 @@ El incremento en el Fondo Financiero Complementario de Participaciones de 0.37% 
 
 ###### ARTICULO DECIMO.
 
-Los porcentajes de participación sobre el impuesto adicional de 1% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, a que se refiere el artículo 2o.- A de la Ley de Coordinación Fiscal, se sustituirán, durante los años de 1981 y 1982, por los siguientes:
+Los porcentajes de participación sobre el impuesto adicional de 1% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, a que se refiere el artículo 2o.-A de la Ley de Coordinación Fiscal, se sustituirán, durante los años de 1981 y 1982, por los siguientes:
 
 I.- Durante 1981 el porcentaje a que se refiere la fracción I del artículo citado, será el 50% y el mencionado en la fracción II del mismo precepto será de 50%.
 
 II.- Durante 1982, el porcentaje a que se refiere la fracción I será de 30% y el mencionado en la fracción II, será de 70%.
 
-Las participaciones señaladas en el párrafo inicial y en la fracción I del artículo 2o.- A de la Ley de Coordinación Fiscal, no se pagarán a los Municipios que no se hagan cargo de los servicios prestados por las Juntas Federales de Mejoras Materiales. Cuando se hagan cargo parcialmente, dichas participaciones les corresponderán proporcionalmente.
+Las participaciones señaladas en el párrafo inicial y en la fracción I del artículo 2o.-A de la Ley de Coordinación Fiscal, no se pagarán a los Municipios que no se hagan cargo de los servicios prestados por las Juntas Federales de Mejoras Materiales. Cuando se hagan cargo parcialmente, dichas participaciones les corresponderán proporcionalmente.
 
 D.O.F. 31 DE DICIEMBRE DE 1981.
 
@@ -1416,7 +1418,7 @@ III.- A partir de 1991, el Distrito Federal participará del Fondo de Fomento Mu
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991. ...
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991.
 
 D.O.F. 20 DE DICIEMBRE DE 1991.
 
@@ -1458,7 +1460,7 @@ D.O.F. 20 DE JULIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-D.O.F. 3 DICIEMBRE DE 1993.
+D.O.F. 3 DE DICIEMBRE DE 1993.
 
 DISPOSICION TRANSITORIA
 
@@ -1625,3 +1627,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Por el ejercicio de 2003, la Federación, por conducto de la Secretaría de Hacienda y Crédito Público, continuará efectuando las aportaciones que le correspondan de conformidad con los convenios que se hubieren celebrado con los estados y municipios, con fundamento en lo dispuesto en el artículo 9-A de la Ley de Coordinación Fiscal vigente hasta el 14 de julio de 2003, relativos a puentes de peaje operados por la Federación.
 
 Tercero.- Los convenios a que se refiere el artículo 9-A, que se reforma por medio de este Decreto, podrán ser celebrados a partir del 1 de enero de 2004 y para su suscripción se tomará como base de recaudación del impuesto predial la correspondiente al año inmediato anterior a la firma del mismo.
+
+D.O.F. 26 DE AGOSTO DE 2004.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
