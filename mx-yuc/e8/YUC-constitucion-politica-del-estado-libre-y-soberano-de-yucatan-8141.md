@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1921-08-04"
+last_updated: "1921-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE AGOSTO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE NOVIEMBRE DE 1921.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -311,7 +311,9 @@ XIX.- resolver acerca de la venta de los bienes del Estado, que deberá ser siem
 
 XX.- donar a las Instituciones de interés público o de beneficencia, cualquiera clase de bienes de la propiedad del Estado;
 
-XXI.- conceder licencias al Gobernador del Estado;
+> <small>(REFORMADA, D.O. 30 DE NOVIEMBRE DE 1921)</small>
+
+XXI.- conceder licencia al Gobernador del Estado cuando excedan de treinta días;
 
 XXII.- conceder licencias a los Magistrados del Tribunal Superior de Justicia, cuando excedieren de un mes;
 
@@ -447,7 +449,7 @@ IX.- las demás que le confiere esta Constitución.
 
 ### CAPITULO TERCERO. RESTRICCIONES A LAS FACULTADES DEL GOBERNADOR
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 26 DE FEBRERO DE 1920)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE NOVIEMBRE DE 1921)</small>
 
 ## TITULO QUINTO. DEL PODER EJECUTIVO
 
@@ -505,9 +507,13 @@ El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o an
 
 Si al comenzar un período constitucional, no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará, sin embargo, el Gobernador cuyo período hubiese concluído y se encargará desde luego del Poder Ejecutivo, con el carácter de interino, el ciudadano que designe el Congreso, y si éste no estuviese reunido, el Secretario General de Gobierno, y se convocará a elección de Gobernador en los términos del artículo cincuenta y dos. Si la ausencia del Gobernador electo se debiere a fuerza, coacción o cualquier otro impedimento que le impida materialmente llenar sus funciones, deberá comprobarse este hecho, y en tal caso, el Gobernador interino deberá entregarle el Gobierno al legalmente electo.
 
+> <small>(REFORMADO, D.O. 30 DE NOVIEMBRE DE 1921)</small>
+
 ###### Artículo 51.
 
-En las faltas absolutas y en las temporales del Gobernador, el Congreso, por mayoría absoluta del número total de Diputados, elegirá al ciudadano en quien concurran las condiciones necesarias para ser Gobernador interino, a fin de que con este carácter desempeñe el Poder Ejecutivo.
+En las faltas absolutas y en las temporales del Gobernador, el Congreso, por mayoría absoluta del número total de Diputados, elegirá al Ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con este carácter desempeñe el Poder Ejecutivo.
+
+Cuando la ausencia o falta temporal del Gobernador no exceda de treinta días, el Secretario General de Gobierno, quedará encargado del despacho del Poder Ejecutivo.
 
 ###### Artículo 52.
 
@@ -569,9 +575,11 @@ XXI.- las demás que le confiere esta Constitución.
 
 ###### Artículo 56.
 
-No puede el Gobernador del Estado:
+No puede el Gobernador:
 
-I.- renunciar a su cargo, ni ausentarse del Territorio del Estado ni separarse del ejercicio de sus funciones, sin causa grave calificada por el Congreso;
+> <small>(REFORMADA, D.O. 30 DE NOVIEMBRE DE 1921)</small>
+
+I.- renunciar a su cargo, ni ausentarse del Territorio del Estado o separarse del ejercicio de sus funciones, por más de treinta días, sin causa grave calificada por el Congreso. El Secretario General de Gobierno, suplirá al Gobernador, en las separaciones o ausencias temporales que no excedan de treinta días.
 
 II.- imponer contribución alguna a menos que el Congreso le hubiese concedido facultades extraordinarias;
 
@@ -968,3 +976,9 @@ D.O. 4 DE AGOSTO DE 1921.
 ###### ARTICULO SEGUNDO
 
 Este decreto entrará en vigor el mismo día de su promulgación.
+
+D.O. 30 DE NOVIEMBRE DE 1921.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto surtirá sus efectos el mismo día de su promulgación.
