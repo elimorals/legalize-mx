@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1992-03-25"
+last_updated: "1994-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1994.
 
 Constitución Publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -681,7 +681,7 @@ IV.- No tener empleo, cargo o comisión de la Federación o del Estado, y de ser
 
 V.- No esta (sic) comprendido en alguna de las causas establecidas en el Artículo 36 en su párrafo segundo.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1994)</small>
 
 ## TITULO SEXTO. DEL PODER JUDICIAL
 
@@ -689,7 +689,9 @@ V.- No esta (sic) comprendido en alguna de las causas establecidas en el Artícu
 
 ###### ARTICULO 36.
 
-El Gobernador electo por sufragio popular en elecciones ordinarias entrará a ejercer su cargo el dieciséis de diciembre y durará en él seis años.
+El Gobernador electo por sufragio popular en elecciones ordinarias entrará a ejercer su cargo el 8 de diciembre y durará en él 6 años.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 Quien haya sido electo o desempeñado el cargo de Gobernador, en cualquier caso o modalidad, no podrá volver a desempeñar el cargo.
 
@@ -717,15 +719,21 @@ Si el Congreso estuviere en receso, la Comisión Permanente nombrará por mayor�
 
 Cuando la falta absoluta del Gobernador ocurriere en los últimos cuatro años del período respectivo, si el Congreso se encontrare en sesiones, se elegirá con la concurrencia de cuando menos las dos terceras partes del numero total de sus miembros y por mayoría simple de los presentes, en escrutinio secreto, al Gobernador Substituto, quien deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará, en un plazo de cinco días naturales al Congreso a sesión extraordinaria, para que, erigido en Colegio Electoral, haga la designación del Gobernador Substituto.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, 7 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 39.
 
-Si al comenzar el período constitucional no se presentara el Gobernador electo a ejercer su cargo o la elección no estuviere hecha o declarada el 8 de diciembre, cesará en sus funciones el Gobernador cuyo período hubiere concluido, y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino el que designe el Congreso, y si estuviere en receso el que designe la Comisión Permanente procediéndose conforme a lo dispuesto en el Artículo anterior.
+Si al comenzar el período constitucional no se presentara el Gobernador electo a ejercer su cargo o la elección no estuviere hecha o declarada el 8 de diciembre, cesará en sus funciones el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino el que designe el Congreso, y si estuviere en receso, el que designe la Comisión Permanente procediéndose conforme a lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 Cuando la falta del Gobernador sea temporal el Congreso, si estuviere en período de sesiones, o en su defecto la Comisión Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure la falta.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 Cuando la ausencia del Gobernador sea por más de 30 días y el Congreso estuviere en receso, la Comisión Permanente convocará a sesiones extraordinarias del Congreso, para que éste resuelva sobre la licencia y en su caso, designe al Gobernador.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 Si la falta temporal se convirtiera en absoluta, se procederá en los términos del artículo anterior.
 
@@ -1555,7 +1563,7 @@ Esta Constitución comenzará a regir el cinco de febrero del año en curso, fec
 
 ###### Artículo III.
 
-El actual período constitucional terminará para el Gobernador y los Magistrados al Superior Tribunal de Justicia el último de noviembre de mil novecientos veinticuatro, y para la Legislatura el último de octubre de mil novecientos veintidós.
+(DEROGADO, P.O. 7 DE ENERO DE 1994)
 
 ###### Artículo IV.
 
@@ -1573,7 +1581,7 @@ Para la renovación del H. Congreso del Estado que entró en funciones el 1° de
 
 ###### Artículo VII.
 
-En las Delegaciones Municipales funcionarán solamente por este año los Ayuntamientos y Alcaldes ya electos; y, mientras se expide la ley de la materia, estos últimos podrán presentar sus solicitudes de licencia o renuncia, cuando fuere procedente, ante los Ayuntamientos de su jurisdicción.
+(DEROGADO, P.O. 7 DE ENERO DE 1994)
 
 ###### Artículo VIII.
 
@@ -1781,7 +1789,7 @@ I.- Respetar y cumplir las Leyes;
 
 II.- Acrecentar el espíritu de solidaridad humana, respetar los valores cívicos y culturales y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
 
-III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes;
+III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
@@ -1985,13 +1993,11 @@ Esta Constitución se publicará en el Periódico Oficial, y con la mayor solemn
 
 ###### ARTICULO SEGUNDO.
 
-(DEROGADO, P.O. 9 DE OCTUBRE DE 1990)
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+(DEROGADO, P.O. 9 DE OCTUBRE DE 1990) (REPUBLICADO, P.O. 7 DE ENERO DE 1994)
 
 ###### ARTICULO TERCERO.
 
-Para los efectos del artículo 36, el Congreso del Estado designará la persona que ocupará el cargo de Gobernador, con el carácter de interino, quien durará en sus funciones del día ocho de diciembre de 1994 al día quince de diciembre de 1995.
+(DEROGADO, P.O. 7 DE ENERO DE 1994)
 
 ###### ARTICULO CUARTO.
 
@@ -2011,11 +2017,9 @@ Para la renovación del H. Congreso del Estado que entró en funciones el 1o. de
 
 Los Diputados que resulten electos durarán en sus funciones del primero de noviembre de 1991 al quince de noviembre de 1995 y los Ayuntamientos que designen los comicios referidos ejercerán su encargo del primero de enero de 1992 al treinta y uno de diciembre de 1995.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
-
 ###### ARTICULO SEPTIMO.
 
-A partir de 1995, las elecciones constitucionales para elegir Gobernador del Estado, y los Diputados al H. Congreso del Estado y de Ayuntamientos, se celebrarán el segundo domingo de octubre del año que corresponda, el Gobernador del Estado durará en su encargo del dieciséis de diciembre del año de los comicios al quince de diciembre del sexto año posterior a su elección. Los Diputados ejercerán su mandato del dieciséis de noviembre del año de los comicios al quince de noviembre del tercer año posterior al de su elección, los Ayuntamientos durarán en sus funciones durante tres años, con todos (sic) a partir del primero de enero posterior al día de los comicios.
+(DEROGADO, P.O. 7 DE ENERO DE 1994)
 
 P.O. 21 DE DICIEMBRE DE 1983.
 
@@ -2053,7 +2057,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-La reforma del artículo 36 constitucional, entrará en vigor el 9 de diciembre de 1994.
+(DEROGADO, P.O. 7 DE ENERO DE 1994)
 
 ###### ARTICULO TERCERO.
 
@@ -2078,3 +2082,13 @@ P.O. 25 DE MARZO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto de reformas y adiciones a la Constitución Política del Estado de Chiapas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por esta única ocasión, el Congreso del Estado o la Comisión Permanente en su caso, nombrará a los Magistrados Numerarios y Supernumerarios que integrarán el Tribunal Administrativo en materia electoral a que se refiere el Artículo 19 de la Constitución Política del Estado, a más tardar el día 10 de febrero de 1994.
