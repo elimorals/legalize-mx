@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1956-03-03"
+last_updated: "1959-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 1959.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -6077,6 +6077,8 @@ Los gastos de apeo se harán a prorrata por el que lo promueva y los propietario
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 1959)</small>
+
 ###### Artículo 996.
 
 Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
@@ -6105,7 +6107,7 @@ Del Procedimiento en los Negocios de la Competencia de los Jueces Menores.
 
 ###### Artículo 998.
 
-Los jueces menores en los negocios de su competencia o sean aquellos cuyo interés no exceda de cien pesos, procederán con sujeción a las disposiciones especiales de este título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código, para el juicio ordinario.
+Los Jueces Menores en los negocios de su competencia o sean aquellos cuyo interés no exceda de $500.00 en las Cabeceras de los Distritos Judiciales y de $200.00 en el resto, procederán con sujeción a las disposiciones especiales de este título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código, para el juicio ordinario.
 
 ###### Artículo 999.
 
@@ -6440,3 +6442,7 @@ P.O. 3 DE MARZO DE 1956.
 DECRETO NO. 311, QUE REFORMA LOS ARTICULOS 110, 113, 114, 118 Y 119.
 
 UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE JULIO DE 1959.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
