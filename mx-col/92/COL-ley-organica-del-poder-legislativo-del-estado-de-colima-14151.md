@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2004-01-17"
+last_updated: "2004-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2004.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -655,9 +655,13 @@ Durante el primer mes de la nueva Legislatura, a propuesta de la Comisión de Go
 
 I.- Gobernación y Poderes;
 
-II.- Desarrollo Rural y Fomento Pesquero;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
 
-III.- Educación, Cultura y Deporte;
+II.- Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
+
+III.- Educación, Cultura, Ciencia y Tecnología;
 
 IV.- Estudios Legislativos y Puntos Constitucionales;
 
@@ -701,7 +705,19 @@ XXI.- Protección Civil;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2004)</small>
 
-XXII.- De Innovación Gubernamental.
+XXII.- De Innovación Gubernamental;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2004)</small>
+
+XXIII.- Fomento pesquero;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2004)</small>
+
+XXIV.- Deporte y Actividades recreativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2004)</small>
+
+XXV.- Atención al Migrante.
 
 Estas comisiones permanentes serán por todo el ejercicio constitucional; excepcionalmente, a petición de uno de sus miembros o de un grupo parlamentario y con la conformidad de los integrantes de las mismas, podrán proponerse cambios.
 
@@ -1184,3 +1200,7 @@ P.O. 10 DE MAYO DE 2003.
 P.O. 17 DE ENERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE MARZO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
