@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1953-08-16"
+last_updated: "1956-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-CONSTITUCÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 1956.
 
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el 16 de agosto de 1953.
 
 Alfonso García González,
 
@@ -541,9 +541,11 @@ IV.- No tener empleo, cargo o comisión de otros Estados o de la Federación, sa
 
 V.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1956)</small>
+
 ###### ARTICULO 59.
 
-El Tribunal Superior del Justicia se renovará cada seis años pudiendo los que se encuentren en el cargo ser reelectos. Si por cualquier motivo no se hace el nombramiento o los designados no se presentan al desempeño de sus funciones continuarán en su puesto las personas que lo formen hasta que tomen posesión quienes deban substituirlos.
+El Tribunal Superior de Justicia se renovará en su totalidad cada tres años, contados desde el día primero de noviembre de mil novecientos cincuenta y tres, pudiendo los que se encuentren en el cargo ser reelectos. Si por cualquier motivo no se hace el nombramiento o los designados no se presentan al desempeño de sus funciones, continuarán en su puesto las personas que lo formen hasta que tomen posesión los que deban sustituirlos.
 
 ###### ARTICULO 60.
 
@@ -567,9 +569,11 @@ El Magistrado Supernumerario tendrá el carácter de visitador de los Juzgados y
 
 Los Magistrados Suplentes cubrirán las faltas temporales de los propietarios en defecto del Supernumerario o por encontrarse éste supliendo a su vez a un propietario.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1956)</small>
+
 ###### ARTICULO 64.
 
-Los Jueces de Primera Instancia, los Menores y los de Paz que autorice la Ley Orgánica del Poder Judicial durarán seis años en el cargo, y sólo podrán ser removidos por causa justificada. Los Jueces de Primera Instancia deberán tener título de licenciado en Derecho, debidamente registrado y cuando menos dos años en el ejercicio de la profesión.
+Los Jueces de Primera Instancia, los Menores y los de Paz que autorice la Ley Orgánica del Poder Judicial durarán tres años en el cargo contados desde el día primero de noviembre de mil novecientos cincuenta y tres y sólo podrán ser reelectos siempre que se distingan en el ejercicio de sus funciones y por medio de una labor ecuánime y efectiva, para el mejoramiento de la administración de justicia. Podrán ser removidos cuando lo estime conveniente el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley. Los Jueces de Primera Instancia deberán tener título de Licenciado en Derecho, debidamente registrado y cuando menos dos años en el ejercicio de la profesión.
 
 ###### ARTICULO 65.
 
@@ -825,7 +829,7 @@ El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comis
 
 Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
 
-El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?" El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
+El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
 
 ###### ARTICULO 110.
 
@@ -879,7 +883,7 @@ IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del
 
 V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
 
-VI.- En cada una de las cabeceras, de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
 VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
 
@@ -1006,3 +1010,11 @@ LIC. ALFONSO GARCIA GONZALEZ
 El Secretario General de Gobierno
 
 LIC. JOSE ELIAS CASTRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JUNIO DE 1956.
+
+PRIMERO.- El presente Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Por esta única vez los nombramientos de los Magistrados y Jueces actualmente en funciones, cesarán en sus efectos legales a partir del día en que este Decreto entre en vigor y las nuevas designaciones al tiempo señalado por los artículos 59 y 64 Reformados por este Decreto, ésto es, hasta el treinta y uno de octubre de mil novecientos cincuenta y seis.
