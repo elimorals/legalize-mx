@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-27814"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-12-24"
-last_updated: "2003-08-19"
+last_updated: "2003-11-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2003
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial el martes 24 de Diciembre de 2003.
 
@@ -491,11 +491,9 @@ b) Expedición de permiso de manejo para menores de edad, hasta por seis meses d
 
 VIII. Por el servicio de curso, a petición de parte, para obtener licencia de manejo: $50.00
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2003)</small>
 
-IX. Otorgamiento de permisos provisionales o definitivos, autorizaciones y concesiones par (sic) explotar el servicio de transporte de pasajeros, mixto o de carga, ya sea foráneo, urbano y suburbano, incluyendo los vehículos del servicio subrogado o concesionado por el Estado, vehículos con características especiales, alquiler; de servicio exclusivo de turismo, de transporte escolar, transporte de materiales de construcción y transporte de grúas: $ 380.00
-
-Por la transmisión de derechos de los permisos, autorizaciones y concesiones de transporte, se cobrará una cantidad igual a la aplicable por el otorgamiento del permiso.
+IX. Otorgamiento de permisos provisionales o definitivos, autorizaciones y concesiones para explotar el servicio de transporte de pasajeros, mixto o de carga, ya sea foráneo, urbano y suburbano, incluyendo los vehículos del servicio subrogado o concesionado por el Estado, vehículos con características especiales, alquiler; de servicio exclusivo de turismo, de transporte escolar, transporte de materiales de construcción y transporte de grúas: $ 380.00
 
 X. Por la prórroga de permisos, concesiones y autorizaciones para prestar el servicio público de transporte en cualquiera de sus modalidades: $195.00
 
@@ -813,7 +811,17 @@ VI. Por los servicios de guarda y custodia de mercancías u objeto varios, en lo
 
 VII. Por la transmisión de derechos de las concesiones y/o contratos de subrogación a que se refiere la fracción X del artículo 149 bis, de la Ley de Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco: $5,960.00
 
-VIII. Otros derechos no especificados.
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2003)</small>
+
+VIII. Por la transmisión de derechos del servicio público de transporte colectivo de pasajeros que establece la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco: $8,940.00
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2003)</small>
+
+IX. Por la transmisión de derechos de la concesión o permiso del servicio público de transporte de autos de alquiler o taxis, transporte de carga, incluyendo el de carga liviana con sitio que señala la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco: $2,980.00
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2003)</small>
+
+X. Otros servicios no especificados.
 
 Los derechos por la prestación de servicios de conformidad a la Ley Transparencia de Información Pública del Estado de Jalisco, se determinarán en base al costo que represente el servicio solicitado de acuerdo a la presente Ley de Ingresos.
 
@@ -1020,5 +1028,9 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE AGOSTO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE NOVIEMBRE DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
