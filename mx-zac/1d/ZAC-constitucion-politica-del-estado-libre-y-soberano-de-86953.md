@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2001-08-01"
+last_updated: "2001-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2001.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1403,27 +1403,29 @@ VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 ###### Artículo 102.
 
-El Tribunal Estatal Electoral es la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Se integra con dos Salas, una de Primera Instancia compuesta por cinco Magistrados electorales y otra de Segunda Instancia integrada por tres Magistrados electorales. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+El Tribunal Estatal Electoral es la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Se integra con una Sala, compuesta por cinco Magistrados electorales. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento. A los Magistrados electorales y al personal bajo su mando, se les podrán asignar, mediante acuerdo general, además de las que ya realizan, tareas jurisdiccionales o administrativas propias del Poder Judicial del Estado, según requieran las necesidades del servicio.
 
-Los Magistrados del Tribunal Estatal Electoral serán designados por la Legislatura del Estado con voto de los dos tercios de sus miembros presentes, a propuesta del pleno del Tribunal Superior de Justicia, el cual tendrá la obligación de realizar consulta previa con los partidos políticos representados en la Legislatura. Durarán en su cargo cuatro años y podrán ser ratificados. La ley determinará los casos en que tal encargo pueda suspenderse. Para ser Magistrado electoral se deberán satisfacer los requisitos exigidos para los del Tribunal Superior de Justicia.
+Los Magistrados del Tribunal Estatal Electoral serán designados por la Legislatura del Estado con voto de los dos tercios de sus miembros presentes, a propuesta que por ternas para cada magistratura formule el Pleno del Tribunal Superior de Justicia. Durarán en su cargo cuatro años y podrán ser ratificados. La ley determinará los casos en que tal encargo pueda suspenderse. Para ser Magistrado electoral se deberán satisfacer los requisitos exigidos para los del Tribunal Superior de Justicia.
 
 En caso de falta definitiva de algún Magistrado del Tribunal Estatal Electoral, la Legislatura procederá a nombrarlo, en los términos de esta Constitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2001)</small>
+
 ###### Artículo 103.
 
-La ley determinará la organización, competencia y funcionamiento del Tribunal Estatal Electoral. Corresponde al mismo resolver, en forma definitiva e inatacable:
+La ley determinará la organización, competencia y funcionamiento del Tribunal Estatal Electoral. Corresponde al mismo resolver, a través de su Sala en forma definitiva e inatacable:
 
 I. Las impugnaciones en las elecciones para Diputados locales y de Ayuntamientos;
 
-II. Las impugnaciones que se presenten sobre la elección de Gobernador del Estado, que serán resueltas en única instancia por la Sala de Segunda Instancia.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2001)</small>
 
-La Sala de Segunda Instancia realizará el cómputo final de la elección de Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos;
+II. Las impugnaciones que se presenten sobre la elección de Gobernador del Estado;
+
+La realización del cómputo final de la elección de Gobernador del Estado; una vez resueltas las impugnaciones que se hubiesen interpuesto, en su caso, procederá a formular la declaración de validez de la elección y la de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos;
 
 III. Las impugnaciones de actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
-
-III-A. Las impugnaciones de actos y resoluciones de la autoridad electoral en los procesos de plebiscito y referéndum, por la Sala de Segunda Instancia;
+III-A. (DEROGADA, P.O. 24 DE OCTUBRE DE 2001)
 
 IV. Los conflictos o diferencias laborales entre el Tribunal Estatal Electoral, los demás órganos electorales y sus respectivos servidores;
 
@@ -1432,6 +1434,8 @@ V. La determinación e imposición de sanciones en la materia; y
 VI. Las demás que señale la ley.
 
 #### SECCIÓN TERCERA. DEL TRIBUNAL ESTATAL ELECTORAL
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 104.
 
@@ -2436,3 +2440,15 @@ Antes del inicio del año fiscal del 2002, la Legislatura del Estado, en coordin
 ###### ARTICULO SEXTO.
 
 En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+P.O. 24 DE OCTUBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Los expedientes que existiesen en trámite en las Salas de Primera y Segunda Instancia al inicio de vigencia de este Decreto, se turnarán para substanciación, a la Sala uniinstancial del Tribunal Estatal Electoral.
+
+TERCERO.- Dentro de los treinta días siguientes al inicio de vigencia de este Decreto, la Sala del Tribunal Estatal Electoral procederá a realizar los ajustes necesarios a la plantilla de personal. En su caso, las indemnizaciones que procedieren por terminación de la relación laboral, se harán con estricto apego a la Legislación aplicable en materia del trabajo.
+
+CUARTO.- Dentro de los quince días siguientes al inicio de vigencia de este Decreto, se harán los ajustes correspondientes a los inventarios, para que el mobiliario y equipo que tenía asignado la Sala de Primera Instancia, se reubique a donde corresponda.
+
+QUINTO.- Dentro de los noventa días siguientes al inicio de vigencia de este Decreto, se harán las reformas pertinentes al Código Electoral y a la Ley Orgánica del Poder Judicial del Estado. En tanto ello ocurre, una vez integrada la Sala Electoral, los recursos que se presentaren antes de que entre en vigor la reforma a las leyes, se tramitarán en única instancia ante dicha Sala.
