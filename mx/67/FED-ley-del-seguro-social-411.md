@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1979-11-26"
+last_updated: "1979-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -404,15 +404,13 @@ El patrón será depositario de las cuotas que descuente a sus trabajadores y de
 
 Si el patrón no cumple con la obligación de comunicar los avisos de alta, reingresos y cambios de grupos de salarios de cotización, en los términos previstos por esta Ley y sus reglamentos, el Instituto al formular la liquidación de adeudo está facultado para aplicar los datos que tuviere en su poder sobre esos movimientos, o los que de acuerdo con sus experiencias considera como probables.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 46.
 
-En el caso de mora en la entrega de las cuotas o de los capitales constitutivos, el patrón cubrirá a partir de la fecha en que los créditos se hicieron exigibles, el dos por ciento mensual de recargo sobre las cantidades insolutas, incurriendo además en las sanciones que prescribe esta Ley. Los procedimientos respectivos serán establecidos por el reglamento.
+Cuando no se entreguen las cuotas o los capitales constitutivos dentro del plazo señalado en las disposiciones respectivas, el patrón cubrirá a partir de la fecha en que los créditos se hicieren exigibles, los recargos correspondientes en los términos del artículo 22 del Código Fiscal de la Federación, sin perjuicio de las sanciones que procedan.
 
-Los recargos a que se refiere el párrafo anterior no excederán del importe del crédito de que se trate.
-
-El Instituto podrá conceder prórroga para el pago de los créditos derivados de cuotas o de capitales constitutivos.
-
-Durante los plazos concedidos se causarán recargos del uno por ciento mensual sobre saldos insolutos.
+El Instituto podrá conceder prorroga para el pago de los créditos derivados de cuotas o de capitales constitutivos. Durante los plazos concedidos se causaran recargos conforme a lo establecido en el artículo 20 del Código Fiscal de la Federación.
 
 ###### ARTICULO 47.
 
@@ -2605,3 +2603,13 @@ EI Instituto Mexicano del Seguro Social hará efectivas las mejorías derivadas 
 ###### ARTICULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1979.
+
+SE TRANSCRIBE EL ARTICULO TRANSITORIO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
+
+...
