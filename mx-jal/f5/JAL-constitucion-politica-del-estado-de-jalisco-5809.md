@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1972-11-07"
+last_updated: "1978-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -101,13 +101,19 @@ Los individuos a quienes el Consejo Electoral expida credenciales, declarando qu
 
 La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1972)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1978)</small>
 
 ###### Art. 9º.
 
-La base para la elección será el número actual de habitantes del Estado, eligiéndose por cada 180,000 habitantes o fracción que exceda de 90,000, un Diputado Propietario y un Suplente, teniendo en cuenta el último censo de la Nación.
+La Cámara de Diputados estará integrada por veinte Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de veinte distritos electorales uninominales y hasta seis Diputados de Partido. La determinación de los distritos electorales será la que resulte de dividir la población total del Estado entre los distritos señalados y su circunscripción será fijada por los órganos electorales que establezca la Ley. La elección de Diputados será directa de acuerdo con lo que regule la Ley Electoral. Los Diputados de Partido serán asignados de acuerdo con las siguientes reglas:
 
-El Ejecutivo fijará la circunscripción de los Distritos Electorales y su cabecera.
+I. Los Partidos Políticos con registro Nacional que además hubiesen obtenido su registro conforme a la Ley Electoral del Estado tendrán derecho a que se les acredite un Diputado de Partido con su respectivo suplente si obtienen cuando menos el 3.5 por ciento de la votación total en el Estado correspondiente a la elección de Diputados, hasta agotar las seis curules autorizadas.
+
+Si hubiere curules sobrantes de las seis autorizadas, se asignarán a los Partidos que hubieren alcanzado el 9 por ciento de la votación total en el Estado, por orden decreciente de sufragios,
+
+II. Serán asignadas las diputaciones de Partido a los que en la elección hubieren tenido el mayor número de sufragios aunque sin haber triunfado como Diputados de mayoría. El Partido que hubiere obtenido el triunfo para uno o más Diputados de mayoría no tendrá derecho a que se le asignen Diputados de Partido, salvo el caso de la parte final de la fracción anterior, en el cual podrá atribuirse un Diputado de Partido si habiendo obtenido uno de mayoría, se reúnen los demás requisitos ahí señalados.
+
+III. Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguales derechos y obligaciones.
 
 ### CAPITULO UNICO. De la División del Poder Público
 
@@ -231,9 +237,11 @@ Todo proyecto de Ley al que no hubiere hecho observaciones el Ejecutivo dentro d
 
 Los proyectos de Ley que hubieran sido objetados por el Ejecutivo, conforme a esta Constitución y que hayan sido ratificados por el Congreso, deben ser promulgados en un término que no exceda de ocho días, a contar de la fecha en que le hayan sido remitidos nuevamente al Ejecutivo.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1978)</small>
+
 ###### Art. 21.
 
-La facultad que establece el artículo anterior no podrá comprender las resoluciones que dicte el Congreso como Colegio Electoral o como Jurado, ni las en que abra o cierre sus sesiones.
+La facultad que establece el artículo anterior no podrá comprender las resoluciones que dicte el Congreso como Colegio Electoral o como Jurado, las en que abra o cierre sus sesiones, ni el voto que tenga que emitir en los términos del Artículo 135 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Art. 22.
 
@@ -481,17 +489,11 @@ XVII. Celebrar convenios con los Gobiernos Federal y de los Estados, para que lo
 
 La Administración Municipal, se ejerce por los Ayuntamientos que residirán en las Cabeceras de las Municipalidades.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1978)</small>
 
 ###### Art. 37.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa, calificada por el Consejo Electoral o por el Tribunal Electoral, en los términos de la Ley de la materia.
-
-Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiere de funcionar, cuando menos desde dos años antes del día de la elección.
-
-Los Munícipes durarán en su encargo tres años y se renovarán en su totalidad al final de cada período.
-
-Los Ayuntamientos admitirán las renuncias y concederán las licencias que soliciten sus miembros.
+Los Ayuntamientos se integrarán con munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 1972)</small>
 
@@ -814,3 +816,11 @@ P.O. 7 DE NOVIEMBRE DE 1972.
 DECRETO NUMERO 8890.
 
 Artículo Unico.- Se declara que forman parte de la Constitución Política del Estado de Jalisco, las Reformas a sus Artículos 9, 10, 23 y 25, publicados en el Periódico Oficial "El Estado de Jalisco", el día 5 de Agosto de 1972, en virtud de haber sido aprobadas por unanimidad de votos, por los Ayuntamiento de la Entidad.
+
+P.O. 24 DE OCTUBRE DE 1978.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
+
+TERCERO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
