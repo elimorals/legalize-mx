@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1999-07-08"
+last_updated: "2000-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -271,9 +271,9 @@ La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios
 
 El órgano de dirección, jerárquicamente superior, se integrará por Consejeros Electorales, representantes de los partidos políticos, un Secretario y un representante del Registro Federal de Electores. Todos tendrán derecho a voz, pero solo los Consejeros Electorales derecho a voto. Los órganos ejecutivos y técnicos dispondrán del personal calificado, estrictamente necesario, para prestar el servicio profesional electoral. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral.
 
-> <small>(REFORMADO, P.O.25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-Los Consejeros Electorales del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los partidos políticos representados en la Legislatura. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
+Los Consejos Electorales del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los partidos políticos nacionales o estatales con registro vigente. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
 
 El Organismo Público Autónomo encargado de la organización de los procesos electorales, podrá celebrar convenios con la autoridad federal competente, para disponer de la infraestructura y apoyos necesarios para el cumplimiento de sus funciones, en los términos que determine la Ley.
 
@@ -301,9 +301,9 @@ d).- Declarará Gobernador electo al ciudadano que hubiese obtenido el mayor nú
 
 III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-IV.- El Tribunal Estatal Electoral es el Organo Autónomo en su funcionamiento, con independencia en sus decisiones, y máxima autoridad jurisdiccional electoral, conformado por salas unitarias y una presidencia; se integrará con 4 Magistrados numerarios y uno supernumerario, mismos que serán designados por los (sic) dos terceras partes de los Diputados, a propuesta de los partidos políticos representados en el Congreso del Estado, y del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley.
+IV.- El Tribunal Estatal Electoral es el Organo Autónomo en su funcionamiento, con independencia en sus decisiones, y máxima autoridad jurisdiccional electoral, conformado por salas unitarias numerarias y una presidencia; se integrará con 4 Magistrados numerarios y uno supernumerario, mismos que serán designados por las dos terceras partes de los Diputados, a propuesta de los partidos políticos representados en el Congreso del Estado, y del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley.
 
 > <small>(REFORMADO, P.O.25 DE OCTUBRE DE 1997)</small>
 
@@ -313,13 +313,13 @@ Para el ejercicio de su competencia, el Tribunal Estatal Electoral contará con 
 
 Los Magistrados del Tribunal Estatal Electoral, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia en el Estado.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-El Pleno del Tribunal Estatal Electoral será competente para resolver en única Instancia el recurso de inconformidad que se interponga contra la elección de Gobernador. En esta misma vía, ante las Salas Unitarias, se interpondrá también recurso de inconformidad contra la declaratoria de validez de las elecciones de Diputados y Ayuntamientos y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las autoridades electorales competentes en los términos de la Ley.
+El Pleno del Tribunal Estatal Electoral será competente para resolver en única Instancia el recurso de inconformidad que se interponga contra la elección de Gobernador. En esta misma vía, ante las salas unitarias numerarias, se interpondrá también recurso de inconformidad contra la declaratoria de validez de las elecciones de Diputados y Ayuntamientos y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las autoridades electorales competentes en los términos de la Ley.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-La Ley garantizará que los Consejeros Electorales que integrarán el Organismo Público Autónomo, a que se refiere este Artículo, y los Magistrados del Tribunal Estatal Electoral, no tengan antecedentes de dirigencia partidaria.
+La Ley garantizará que los Consejeros Electorales que integrarán el Organismo Público Autónomo, a que se refiere este Artículo, y los Magistrados del Tribunal Estatal Electoral, no tengan antecedentes de dirigencia partidaria, en los 3 años inmediatos anteriores a la designación.
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
@@ -379,23 +379,21 @@ La asignación de los 13 Diputados Electos según el principio de Representació
 
 I.- Un partido político, para obtener el registro de sus listas estatales, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
+II.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2000)
 
-II.- Al partido político que haya obtenido las dos terceras partes o más de las Constancias de Mayoría Relativa, se le asignarán Diputaciones según el principio de Representación Proporcional, hasta que el número de Diputaciones por ambos principios sea igual al número máximo de Diputados con que puede contar un partido político en la integración del Congreso.
-
-Al partido político que no estando en el supuesto anterior, pero hubiere obtenido la mitad o más de las constancias de mayoría relativa, se le asignarán Diputaciones según el principio de representación proporcional hasta que el número de Diputaciones por ambos principios sea igual a la mayoría absoluta de los integrantes del Congreso.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
 III.- A todos los partidos políticos que hayan obtenido por lo menos el 1.5% del total de la votación estatal emitida, se les asignará una Diputación; y
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-IV.- Para la asignación de las Diputaciones de Representación Proporcional que resten, después de deducidas las utilizadas en los casos de las fracciones I y III, se estará a las reglas y fórmulas que la Ley establezca para tales efectos.
+IV.- Para la asignación de las Diputaciones de Representación Proporcional que resten, después de deducidas las utilizadas en el caso de la fracción III, se estará a las reglas y fórmulas que la Ley establezca para tales efectos.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-En ningún caso un partido político podrá contar con más de 20 Diputados por ambos principios.
+En ningún caso un partido político podrá contar con más de 19 Diputados por ambos principios.
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
 
@@ -453,9 +451,9 @@ IV.- Los Servidores Públicos del Estado y los Municipios, y los Jueces en su ci
 
 V.- Los Diputados Propietarios al Congreso local y los Suplentes que hayan estado en ejercicio para el período inmediato.
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-VI.- Los miembros de los Consejos Estatal, Distritales y Municipales Electorales, a menos que se separen de su cargo un año antes de la elección.
+VI.- Los miembros de los Consejos Estatal, Distritales y Municipales Electorales, o Magistrado, Secretario General, el Juez Instructor o Actuario del Tribunal Estatal Electoral, a menos que se separen de su cargo un año antes de la elección.
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 1989)</small>
 
@@ -667,7 +665,7 @@ X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva;
+XI.- Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva;
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
@@ -743,7 +741,7 @@ XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo;
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, a sus substitutos, a los Magistrados de Supremo Tribunal de Justicia y a todos los empleados de su nombramiento que conforme las leyes no deban otorgar la protesta de otro modo;.
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -827,13 +825,13 @@ VII. Hacer lo demás que prohibe esta Constitución.
 
 ### CAPITULO IV. De la Diputación Permanente
 
-(REUBICADO, P.O. 5 DE JULIO DE 1986)
+(REFORMADO, P.O. 23 DE JUNIO DE 1928) (REUBICADO, P.O. 5 DE JULIO DE 1986)
 
 ###### Art. 60.
 
 El día anterior al de la clausura de cada período de sesiones ordinarias el Congreso nombrará una Comisión que se denominará Diputación Permanente compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un suplente.
 
-(REFORMADO, P.O. 23 DE JUNIO DE 1928) (REUBICADO, P.O. 5 DE JULIO DE 1986)
+(REUBICADO, P.O. 5 DE JULIO DE 1986)
 
 ###### Art. 61.
 
@@ -1053,9 +1051,9 @@ IV.- Los que desempeñen algún cargo o comisión de otro Estado o de la Federac
 
 V.- Los Magistrados del Supremo Tribunal, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 90 días antes de la elección;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
 
-VI.- Los Magistrados del Tribunal Estatal Electoral y los Consejeros Electorales del Consejo Estatal Electoral, si no se encuentran separados de su cargo un año antes de la elección;
+VI.- Los Magistrados, Secretario General, Juez Instructor o Actuario del Tribunal Estatal Electoral y los miembros de los Consejos Estatal, Distritales o Municipales Electorales, si no se encuentran separados de su cargo un año antes de la elección.
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -2947,11 +2945,11 @@ Las controversias de particulares con Ayuntamientos o el Estado, o de éstos con
 
 Se deroga toda disposición que se oponga al presente Decreto.
 
+P.O. 20 DE OCTUBRE DE 2000.
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 8 DE FEBRERO DE 1985.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
