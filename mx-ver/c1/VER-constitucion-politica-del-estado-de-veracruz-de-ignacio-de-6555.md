@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1997-03-20"
+last_updated: "1997-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,141 +21,99 @@ state: "VER"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE-
 
-CÓDIGO CIVIL FEDERAL
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 1997.
 
-Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
+Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
-El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
+MAURO LOYO,
 
-"PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+Gobernador Provisional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed: que la H. Legislatura me ha dirigido, para su promulgación, la Constitución Política que sigue:
 
-Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
+La XXVI Legislatura del Estado Libre y Soberano de Veracruz-Llave, en funciones de Constituyente, a que fué convocada por decreto de 7 de abril del corriente año, reforma la Constitución Política de 29 de septiembre de 1902, en los términos siguientes:
 
-(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
-
-Código Civil Federal
-
-Disposiciones preliminares
-
-(REFORMADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
 
 # LIBRO PRIMERO. De las personas
 
-## TITULO PRIMERO. De las personas físicas
+## TITULO PRIMERO.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO I.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+DEL ESTADO Y SU TERRITORIO.
 
-###### ARTICULO 1º.
+###### Artículo 1o.
 
-Las disposiciones de este Código regirán en toda la República en asuntos del orden federal.
+El Estado de Veracruz-Llave es parte integrante de la Federación Mexicana.
 
 ###### Artículo 1°.
 
 Estas reformas comenzarán a surtir sus efectos desde el momento de su publicación en la "Gaceta Oficial", y se publicarán por Bando solemne en todas las poblaciones del Estado, para conocimiento general.
 
-###### ARTICULO 2o.
+###### Artículo 2º.
 
-Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
+El actual Procurador General del Estado, cesará en sus funciones inmediatamente que otorgue la protesta legal el que nombre el Ejecutivo conforme a las facultades que se le conceden en estas reformas.
 
-###### ARTICULO 3o.
+G.O. 8 DE NOVIEMBRE DE 1924.
 
-La capacidad jurídica de las personas se rige por lo dispuesto en este Código, aun cuando modifique o quite la que antes gozaban; pero los actos consumados por personas capaces quedan firmes, aun cuando se vuelvan incapaces conforme a la presente ley.
+La presente Ley entrará en vigor, tan luego como sea publicada en la "Gaceta Oficial".
 
-###### ARTICULO 4o.
+El período de funcionamiento de los Magistrados del H. Tribunal, comenzará el día primero de diciembre próximo y el del Procurador General de Justicia el primero de enero del año entrante. A este efecto, las próximas elecciones de dichos funcionarios se efectuarán cuando lo estime conveniente la H. Legislatura, la que deberá procurar verificarlas con la oportunidad necesaria para que, en las fechas antes expresadas tomen posesión de sus puestos los nuevos Magistrados y Procurador General electos ya de acuerdo con esta Ley.
 
-Los bienes adquiridos antes de la vigencia de la Ley de Relaciones Familiares, por matrimonios celebrados bajo el régimen de sociedad legal, constituyen una copropiedad de los cónyuges, si la sociedad no se liquidó conforme a lo dispuesto en el artículo 4o. transitorio de la citada ley; cesando la sociedad de producir sus efectos desde que esa ley entró en vigor.
+G.O. 30 DE OCTUBRE DE 1926.
 
-###### ARTICULO 5o.
+UNICO.- Esta reforma comenzará a surtir sus efectos, desde el momento de su publicación en la Gaceta Oficial del Estado, y se publicará por Bando Solemne en todas las poblaciones del Estado.
 
-Los tutores y los albaceas ya nombrados, garantizarán su manejo de acuerdo con las disposiciones de este Código, dentro del plazo de seis meses contados desde que entre en vigor, so pena de que sean removidos de su cargo, si no lo hacen.
+G.O. 10 DE NOVIEMBRE DE 1931.
 
-###### ARTICULO 6o.
+La presente Ley entrará en vigor tan luego como sea publicada en la "Gaceta Oficial" del Estado.
 
-Las disposiciones de este Código se aplicarán a los plazos que estén corriendo para prescribir, hacer declaraciones de ausencia, presunciones de muerte o para cualquiera otro acto jurídico, pero el tiempo transcurrido se computará aumentándolo o disminuyéndolo en la misma proporción en que se haya aumentado o disminuído el nuevo término fijado por la presente ley.
+G.O. 13 DE AGOSTO DE 1932.
 
-###### ARTICULO 7o.
+UNICO.- Estas reformas comenzarán a regir desde la fecha en que sean publicadas, por Bando Solemne, en las poblaciones del Estado.
 
-Las disposiciones del Código Civil anterior sobre Registro Público y su Reglamento, seguirán aplicándose en todo lo que no sean contrarias a las prevenciones del presente Código, mientras no se expida el nuevo Reglamento del Registro Público.
+G.O. 10 DE DICIEMBRE DE 1932.
 
-###### ARTICULO 8o.
+Estas reformas comenzarán a regir desde la fecha de su publicación, por Bando Solemne, en las poblaciones del Estado.
 
-Los contratos de censo y de anticresis celebrados bajo el imperio de la legislación anterior, continuarán regidos por las disposiciones de esa legislación.
+G.O. 1 DE NOVIEMBRE DE 1938.
 
-La dote ya constituída será regida por las disposiciones de la ley bajo la que se constituyó y por las estipulaciones del contrato relativo.
+SE REFORMAN LOS ARTICULOS 38, 68, 82, 87, 97, 98, 99, 101, 102, 103 Y 105 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
-###### ARTICULO 9o.
+Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado.
 
-Queda derogada la legislación civil anterior; pero continuarán aplicándose las leyes especiales federales que reglamenten materia civil y las disposiciones del Código Civil anterior que la presente ley expresamente ordene que continúen en vigor.
+G.O. 1 DE NOVIEMBRE DE 1938.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+SE REFORMA EL ARTICULO 91 DE LA CONSTITUCION POLITICA LOCAL.
 
-Dado en el Palacio del Poder Ejecutivo Federal, en México, a los treinta días del mes de agosto de mil novecientos veintiocho.- P. Elías Calles.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.- Al C. Lic. Emilio Portes Gil, Secretario de Estado y del Despacho de Gobernación.- Presente.
+Esta reforma surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
 
-Lo comunico a usted para su publicación y demás fines.
+G.O. 1 DE DICIEMBRE DE 1938.
 
-Sufragio Efectivo. No Reelección.
+Las presentes reformas surtirán sus efectos a partir de la fecha de su publicación por BANDO SOLEMNE en todas las poblaciones del Estado.
 
-México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
+G.O. 28 DE ENERO DE 1943.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 
-D.O.F. 1 DE SEPTIEMBRE DE 1932.
+La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+G.O. 21 Y 23 DE NOVIEMBRE DE 1944.
 
-D.O.F. 31 DE MARZO DE 1938.
+I.- Esta Ley entrará en vigor a partir de la fecha en que se dé a conocer al público por Bando Solemne.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+II.- Al concluir el 30 de noviembre de 1946 el período para el cual fueron designados los Magistrados pares del actual Tribunal Superior de Justicia, el Gobernador hará, con aprobación de la Legislatura, la designación de los Magistrados que deberán cubrir esas vacantes, por el término de cuatro años, hasta finalizar el sexenio respectivo, de manera que pueda renovarse totalmente el Tribunal a partir del período que comenzará el 1° de diciembre de 1950.
 
-D.O.F. 20 DE ENERO DE 1940.
+III.- Los actuales Jueces de Primera Instancia cesarán en sus funciones el 30 de noviembre de 1944, siempre que no hubieren sido removidos antes por el Tribunal Superior, de acuerdo con sus facultades.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+IV.- Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado, señalándose al efecto para tal acto el día 26 del mes en curso.
 
-D.O.F. 11 DE NOVIEMBRE DE 1943.
+G.O. 13 DE DICIEMBRE DE 1947.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAÍS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACIÓN VIGENTES
+UNICO. La presente Ley surtirá sus efectos a partir de la fecha de su publicación por Bando Solemne.
 
-###### ARTICULO 1o.
-
-El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO 2o.
-
-Los juicios de desocupación por terminación del contrato de arrendamiento que estén pendientes al entrar en vigor el presente, se sobrescerán (sic).
-
-###### ARTICULO 3o.
-
-Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoles su voluntad de dar por terminado el arrendamiento.
-
-D.O.F. 9 DE JUNIO DE 1944.
-
-DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACIÓN EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA.
-
-###### ARTICULO 1o.
-
-El presente Decreto entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO 2o.
-
-Los juicios de desocupación por terminación del contrato de arrendamiento que estén pendientes al entrar en vigor el presente, se sobreseerán.
-
-###### ARTICULO 3o.
-
-Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoseles su voluntad de dar por terminado el arrendamiento.
-
-D.O.F. 23 DE FEBRERO DE 1946.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 14 DE ENERO DE 1948.
-
-ARTÍCULOS TRANSITORIOS DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+G.O. 7 DE NOVIEMBRE DE 1950.
 
 ###### ARTICULO 2°.
 
@@ -165,233 +123,241 @@ ECONOMICO.- Publíquese la presente Ley en la "Gaceta Oficial" del Estado, y por
 
 G.O. 6 DE NOVIEMBRE DE 1956.
 
-### CAPITULO II. De las actas de nacimiento
+### CAPITULO II.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES.
 
-###### ARTICULO 4º.
+###### Artículo 4o.
 
-Si la ley, reglamento, circular o disposición de observancia general, fija el día en que debe comenzar a regir, obliga desde ese día, con tal de que su publicación haya sido anterior.
+Todos los habitantes del Estado, además de las garantías individuales que otorga la Constitución Federal de 5 de febrero de 1917, gozarán de los derechos que establece la presente.
 
-###### ARTICULO 5º.
+###### Artículo 5o.
 
-A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna.
+La libertad del hombre no tiene más límite que la prohibición de la ley. La soberanía dimana del pueblo, el que la ejerce por medio de sus representantes con arreglo a la ley. De esta emana la autoridad de los que gobiernan y ella regula las obligaciones de los gobernados. En consecuencia, el ejercicio de la autoridad debe limitarse a las atribuciones determinadas en las leyes.
 
-###### ARTICULO 6º.
+###### Artículo 6o.
 
-La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Sólo pueden renunciarse los derechos privados que no afecten directamente al interés público, cuando la renuncia no perjudique derechos de tercero.
+Todo hombre tiene el deber de acatar las leyes, disposiciones y reglamentos expedidos por autoridad legítima, con arreglo a sus facultades legales.
 
-###### ARTICULO 7º.
+> <small>(ADICIONADO, G.O. 5 DE ENERO DE 1993)</small>
 
-La renuncia autorizada en el artículo anterior no produce efecto alguno si no se hace en términos claros y precisos, de tal suerte que no quede duda del derecho que se renuncia.
+El Estado de Veracruz tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. La Ley protegerá y promoverá el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. En los juicios y procedimientos en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezca la Ley.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley ordene lo contrario.
+###### Artículo 7o.
 
-###### ARTICULO 9º.
+Todos los habitantes del Estado, tienen derecho, en la forma y términos establecidos por esta Constitución y la Ley, a resolver sus diferencias mediante la conciliación o el arbitraje que podrán tener lugar antes de iniciarse un juicio o durante su tramitación. Cuando los interesados así lo determinen, habrá lugar a la conciliación en la fase de ejecución.
 
-La ley sólo queda abrogada o derogada por otra posterior que así lo declare expresamente, o que contenga disposiciones total o parcialmente incompatibles con la ley anterior.
+###### Artículo 8o.
+
+A nadie se exigirá promesa o protesta de decir verdad, cuando declare contra hechos propios en materia criminal.
+
+###### Artículo 9o.
+
+Las detenciones impuestas gubernativamente por las autoridades administrativas, según sus facultades, se comunicarán por escrito a los alcaides, y para su defensa, a los detenidos, indicando el motivo de la detención. La ley reglamentará el ejercicio de dichas facultades.
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
 > <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario.
+Queda abolida en el Estado, para toda clase de delitos, la pena capital. La Legislatura, en los casos de grave peligro público, podrá suspender esta garantía respecto de los delitos del orden común, por iniciativa del Ejecutivo y mediante el voto de las dos terceras partes de los Diputados presentes, sin que esta suspensión implique la derogación de las leyes del procedimiento común.
 
-### CAPITULO III. De las Actas de Reconocimiento
+### CAPITULO III.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+DE LOS VERACRUZANOS, DE LOS VECINOS, DE LOS CIUDADANOS DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES.
 
-###### ARTICULO 11.
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
-Las leyes que establecen excepción a las reglas generales, no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
+###### Artículo 11.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+Cuando conforme a la ley, deba ponerse a un acusado o a un reo en libertad bajo fianza, ésta no será carcelera, sino pecuniaria, por cantidad determinada y en los términos fijados por la fracción I del artículo 20 de la Constitución Federal.
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-Las leyes mexicanas rigen a todas las personas que se encuentren en la República, así como los actos y hechos ocurridos en su territorio o jurisdicción y aquéllos que se sometan a dichas leyes, salvo cuando éstas prevean la aplicación de un derecho extranjero y salvo, además, lo previsto en los tratados y convenciones de que México sea parte.
+Nadie está obligado al pago de una contribución que no haya sido decretada previamente por la representación nacional o la del Estado. Los Ayuntamientos están facultados únicamente para fijar cuotas sobre los ramos que la ley designe para formar los arbitrios municipales, con la aprobación de la Legislatura.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+###### Artículo 13.
 
-###### ARTICULO 13.
+Son veracruzanos por nacimiento:
 
-La determinación del derecho aplicable se hará conforme a las siguientes reglas:
+I. Los nacidos en el territorio del Estado;
 
-I.- Las situaciones jurídicas válidamente creadas en las entidades de la República o en un Estado extranjero conforme a su derecho, deberán ser reconocidas;
+II. Los hijos de padres o madre veracruzanos, nativos del Estado que nazcan dentro del territorio nacional; y
 
-II.- El estado y capacidad de las personas físicas se rige (sic) por el derecho del lugar de su domicilio;
+III. Los nacidos accidentalmente fuera del Estado, de padres avecindados en alguna de sus localidades, dentro del territorio nacional.
 
-III.- La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
+###### Artículo 14.
 
-IV.- La forma de los actos jurídicos se regirá por el derecho del lugar en que se celebren. Sin embargo, podrán sujetarse a las formas prescritas en este Código cuando el acto haya de tener efectos en el Distrito Federal o en la República tratándose de materia federal; y
+Son vecinos del Estado los que residen habitualmente dentro de su territorio, sean mexicanos o extranjeros.
 
-V.- Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos se regirán por el derecho del lugar en donde deban ejecutarse, a menos de que las partes hubieran designado válidamente la aplicabilidad de otro derecho.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+###### Artículo 15.
 
-###### ARTICULO 14.
+Es obligación de los vecinos inscribirse en el padrón de su respectiva municipalidad, lo que deberán hacer los recién avecindados en el preciso término de tres meses después de su llegada. No se permite la inscripción de vecindad en el Municipio al que resida habitualmente en otro. También se prohibe ser vecino de dos o más lugares o no serlo de ninguno.
 
-En la aplicación del derecho extranjero se observará lo siguiente:
+###### Artículo 16.
 
-I.- Se aplicará como lo haría el juez extranjero correspondiente, para lo cual el juez podrá allegarse la información necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
+Los vecinos, además de la obligación que tienen de pagar los impuestos legales a la Federación y al Estado, deben contribuir para los gastos del Municipio, salvo el requisito que fija para el pago de todo tributo, el artículo 12 de esta Constitución.
 
-II.- Se aplicará el derecho sustantivo extranjero, salvo cuando dadas las especiales circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas mexicanas o de un tercer estado;
+## TITULO SEGUNDO.
 
-III.- No será impedimento para la aplicación del derecho extranjero, que el derecho mexicano no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
+### CAPITULO I.
 
-IV.- Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y
+DE LA FORMA DE GOBIERNO Y DE LA MANERA DE ELEGIR A LOS FUNCIONARIOS PÚBLICOS.
 
-V.- Cuando diversos aspectos de una misma relación jurídica estén regulados por diversos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de tales derechos. Las dificultades causadas por la aplicación simultánea de tales derechos se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
+###### Artículo 17.
 
-Lo dispuesto en el presente artículo se observará cuando resultare aplicable el derecho de otra entidad de la Federación.
+Todos los vecinos de un Municipio y los transeuntes que se hallen en él, están obligados a prestar sus servicios, según las facultades de cada uno, en casos de calamidad pública, siempre que los medios de que pueda disponer la autoridad resulten insuficientes.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
-###### ARTICULO 15.
+###### Artículo 18.
 
-No se aplicará el derecho extranjero:
+Solamente serán obligatorios en los términos que dispongan las leyes relativas, los siguientes servicios públicos: el de las armas, los cargos de elección popular, directa o indirecta por los que se disfrute sueldo; y obligatorios los cargos concejiles, aunque fueren gratuitos y de elección popular, los de jurado y las funciones electorales.
 
-I.- Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión; y
+###### Artículo 19.
 
-II.- Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
+Los individuos que desempeñen algún cargo concejil quedarán exentos, durante el tiempo de sus funciones, del servicio de Guardia Nacional.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 16.
+### CAPITULO II.
 
-Los habitantes del Distrito Federal tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
+DE LOS PARTIDOS POLÍTICOS Y ORGANISMOS ELECTORALES.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-## TITULO SEGUNDO. De las personas morales
+###### Artículo 20.
 
-### CAPITULO IV. De las actas de adopción
+La vecindad se pierde por:
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+I. Ausencia legalmente declarada;
 
-###### ARTICULO 17.
+II. Ausencia, por más de seis meses, del territorio del Estado; y
 
-Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro; obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a elegir entre pedir la nulidad del contrato o la reducción equitativa de su obligación, más el pago de los correspondientes daños y perjuicios.
+III. Manifestación expresa de residir en otro lugar.
 
-El derecho concedido en este artículo dura un año.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 18.
+###### Artículo 21.
 
-El silencio, obscuridad o insuficiencia de la ley, no autorizan a los jueces o tribunales para dejar de resolver una controversia.
+La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular, de comisión que tenga el carácter de permanente o la reclamada con motivo del cumplimiento del deber de defender la patria y sus instituciones, siempre que se comunique a la autoridad municipal respectiva, la voluntad expresa de no perderla.
 
-###### ARTICULO 19.
+###### Artículo 22.
 
-Las controversias judiciales del orden civil deberán resolverse conforme a la letra de la ley o a su interpretación jurídica. A falta de ley se resolverán conforme a los principios generales de derecho.
+Los empleados y funcionarios públicos, los militares en servicio activo, los estudiantes, los confinados y los reos sentenciados a prisión o a presidio, tienen domicilio y no vecindad en el lugar en que residan sólo por sus destinos o comisiones, por los estudios, o por estar extinguiendo sus condenas.
 
-### CAPITULO V. De las actas de tutela
+###### Artículo 23.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+El domicilio no dá derechos políticos, pero sí produce obligaciones civiles.
 
-###### ARTICULO 20.
+> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
-Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá observando la mayor igualdad posible entre los interesados.
+###### Artículo 24.
 
-###### ARTICULO 21.
+Los domiciliados que no tengan suspensos o perdidos los derechos de ciudadanos, están en el deber de cumplir sus respectivas obligaciones, sujetándose, en cuanto al derecho electoral, a lo que dispone el artículo 27 de esta Constitución.
 
-La ignorancia de las leyes no excusa su cumplimiento; pero los jueces teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan; siempre que no se trate de leyes que afecten directamente al interés público.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1971)</small>
 
-###### ARTICULO 22.
+###### Artículo 25.
 
-La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código.
+Son ciudadanos los mexicanos por nacimiento o por naturalización, que reúnan las siguientes cualidades:
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 1956)</small>
 
-###### ARTICULO 23.
+I. Vecindad en el Estado, con un año de residencia, por lo menos, dentro de su territorio;
 
-La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1971)</small>
 
-###### ARTICULO 24.
+II. Haber cumplido la edad de 18 años, independientemente de su estado civil;
 
-El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
+> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 1956)</small>
 
-###### ARTICULO 25.
+III. Tener un modo honesto de vivir.
 
-Son personas morales:
+###### Artículo 26.
 
-I.- La Nación, los Estados y los Municipios;
+También lo serán los que del Poder Legislativo obtengan carta de ciudadanía; mas este título, si los agraciados no fueren vecinos del Estado, será puramente honorífico.
 
-II.- Las demás corporaciones de carácter público reconocidas por la ley;
+###### Artículo 27.
 
-III.- Las sociedades civiles o mercantiles;
+Son derechos del ciudadano veracruzano:
 
-IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-V.- Las sociedades cooperativas y mutualistas;
+I. Votar en las elecciones populares. El sufragio será universal, libre, secreto y directo. Sólo podrán votar los ciudadanos que posean credencial de elector. Los padrones electorales se obtendrán en términos de la Ley respectiva;
 
-VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
+> <small>(REFORMADA, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 1988)</small>
+II. Poder ser votado en dichas elecciones y nombrado para cualquier cargo o comisión, siempre que reúna los requisitos que exijan las leyes. El ciudadano que resulte electo popularmente para dos o más cargos, estará en libertad de optar por el que estime conveniente;
 
-VII.- Las personas morales extranjeras de naturaleza privada, en los términos del artículo 2736.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 26.
+III. Ejercer en toda clase de negocios el derecho de petición;
 
-Las personas morales pueden ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 27.
+IV. Asociarse o reunirse pacíficamente para tratar los asuntos públicos del Estado, y
 
-Las personas morales obran y se obligan por medio de los órganos que las representan sea por disposición de la ley o conforme a las disposiciones relativas de sus escrituras constitutivas y de sus estatutos.
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 28.
+V. Afiliarse libre e individualmente a los partidos políticos.
 
-Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos.
+###### Artículo 28.
 
-###### ARTICULO 28 Bis.
+Son obligaciones del ciudadano veracruzano:
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
+I. Inscribirse en el Catastro de la Municipalidad, manifestando la propiedad que tenga, la industria, profesión o trabajo de que subsista, así como también inscribirse en los padrones electorales, en los términos que determinen las leyes;
 
-###### ARTICULO 29.
+II. Alistarse en la Guardia Nacional;
 
-El domicilio de las personas físicas es el lugar donde residen habitualmente, y a falta de éste, el lugar del centro principal de sus negocios; en ausencia de éstos, el lugar donde simplemente residan y, en su defecto, el lugar donde se encontraren.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-Se presume que una persona reside habitualmente en un lugar, cuando permanezca en él por más de seis meses.
+III. Votar en las elecciones populares en los términos que señale la Ley;
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+IV. Desempeñar los cargos de elección popular del Estado, siempre que tenga los requisitos que la Ley determina para cada uno de ellos, y
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+V. Desempeñar las funciones electorales para las que fueren designados, en los términos y condiciones que fije la Ley.
+
+###### Artículo 29.
+
+La calidad del ciudadano veracruzano se pierde:
+
+I. Por sentencia condenatoria en los delitos por los cuales deba imponerse esa pena; y
+
+II. En los casos en que se pierde la ciudadanía mexicana, según la Constitución General de la República.
 
 #### SECCIÓN SEGUNDA
 
-###### ARTICULO 30.
+###### Artículo 30.
 
-El domicilio legal de una persona física es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
+Los derechos de ciudadano veracruzano se suspenden:
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo 28. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la ley;
 
-###### ARTICULO 31.
+II. Por enajenación mental;
 
-Se reputa domicilio legal:
+III. Por estar procesado. La suspensión en este caso tiene efecto desde el momento en que se notifique el auto de formal prisión o la providencia que a él equivalga, o desde aquel en que se declare que hay lugar a formación de causa, tratándose de funcionarios que gocen de fuero constitucional;
 
-I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
+IV. Por pasar al servicio de otro Estado o del ejército permanente; y
 
-II.- Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+V. Por conducta viciosa. La suspensión en este caso debe ser declarada por la autoridad judicial.
 
-III.- En el caso de menores o incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 29;
+###### Artículo 31.
 
-IV.- De los cónyuges, aquél en el cual éstos vivan de consuno, sin perjuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 29;
+La cualidad de ciudadano se recobra por haber cesado la causa que dió motivo a la suspensión.
 
-V.- De los militares en servicio activo, el lugar en que están destinados;
+###### Artículo 32.
 
-VI.- De los servidores públicos, el lugar donde desempeñan sus funciones por más de seis meses;
-
-VII.- De los funcionarios diplomáticos, el último que hayan tenido en el territorio del estado acreditante, salvo con respecto a las obligaciones contraídas localmente;
-
-VIII.- De las personas que residan temporalmente en el país en el desempeño de una comisión o empleo de su gobierno o de un organismo internacional, será el del estado que los haya designado o el que hubieren tenido antes de dicha designación respectivamente, salvo con respecto a obligaciones contraídas localmente; y
-
-IX.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-###### ARTICULO 32.
-
-Cuando una persona tenga dos o más domicilios se le considerará domiciliada en el lugar en que simplemente resida, y si viviere en varios, aquél en que se encontrare.
+Sólo el Poder Legislativo puede rehabilitar en los derechos de ciudadano al que los haya perdido. La rehabilitación se hará de conformidad con los preceptos de la ley relativa.
 
 #### SECCIÓN TERCERA. De la Adopción Plena
 
@@ -421,15 +387,9 @@ ARTICULO 410 D.- No pueden adoptar mediante adopción plena, las personas que te
 
 > <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
 
-###### ARTICULO 33.
+###### Artículo 33.
 
-Las personas morales tienen su domicilio en el lugar donde se halle establecida su administración.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-Las que tengan su administración fuera del Distrito Federal pero que ejecuten actos jurídicos dentro de su circunscripción, se considerarán domiciliadas en este lugar, en cuanto a todo lo que a esos actos se refiera.
-
-Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
+El Gobierno del Estado, es representativo, popular y democrático, teniendo como base de su división territorial y de su organización política, el Municipio Libre. El Poder Supremo se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
 # LIBRO SEGUNDO. De los bienes
 
@@ -548,142 +508,6 @@ ARTICULO 2,103.- Si el ofrecimiento y la consignación se han hecho legalmente, 
 Incumplimiento de las obligaciones
 
 ## TITULO CUARTO. De las donaciones
-
-### CAPITULO I. De las donaciones en general
-
-ARTICULO 2,332.- Donación es un contrato por el que una persona transfiere a otra, gratuitamente, una parte o la totalidad de sus bienes presentes.
-
-ARTICULO 2,333.- La donación no puede comprender los bienes futuros.
-
-ARTICULO 2,334.- La donación puede ser pura, condicional, onerosa o remuneratoria.
-
-ARTICULO 2,335.- Pura es la donación que se otorga en términos absolutos, y condicional la que depende de algún acontecimiento incierto.
-
-ARTICULO 2,336.- Es onerosa la donación que se hace imponiendo algunos gravámenes, y remuneratoria la que se hace en atención a servicios recibidos por el donante y que éste no tenga obligación de pagar.
-
-ARTICULO 2,337.- Cuando la donación sea onerosa, sólo se considera donado el exceso que hubiere en el precio de la cosa, deducidas de él las cargas.
-
-ARTICULO 2,338.- Las donaciones sólo pueden tener lugar entre vivos y no pueden revocarse sino en los casos declarados en la ley.
-
-ARTICULO 2,339.- Las donaciones que se hagan para después de la muerte del donante, se regirán por las disposiciones relativas del Libro Tercero; y las que se hagan entre consortes, por lo dispuesto en el Capítulo VIII, Título V del Libro Primero.
-
-ARTICULO 2,340.- La donación es perfecta desde que el donatario la acepta y hace saber la aceptación al donador.
-
-ARTICULO 2,341.- La donación puede hacerse verbalmente o por escrito.
-
-ARTICULO 2,342.- No puede hacerse donación verbal más que de bienes muebles.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-ARTICULO 2,343.- La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de doscientos pesos.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-ARTICULO 2,344.- Si el valor de los muebles excede de doscientos pesos, pero no de cinco mil, la donación debe hacerse por escrito.
-
-Si excede de cinco mil pesos, la donación se reducirá a escritura pública.
-
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
-
-ARTICULO 2,345.- La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
-
-ARTICULO 2,346.- La aceptación de las donaciones se hará en la misma forma en que éstas deban hacerse; pero no surtirá efecto si no se hiciere en vida del donante.
-
-ARTICULO 2,347.- Es nula la donación que comprenda la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo lo necesario para vivir según sus circunstancias.
-
-ARTICULO 2,348.- Las donaciones serán inoficiosas en cuanto perjudiquen la obligación del donante de ministrar alimentos a aquellas personas a quienes los debe conforme a la ley.
-
-ARTICULO 2,349.- Si el que hace donación general de todos sus bienes, se reserva algunos para testar, sin otra declaración, se entenderá reservada la mitad de los bienes donados.
-
-ARTICULO 2,350.- La donación hecha a varias personas conjuntamente, no produce a favor de éstas el derecho de acrecer, si no es que el donante lo haya establecido de un modo expreso.
-
-ARTICULO 2,351.- El donante sólo es responsable de la evicción de la cosa donada si expresamente se obligó a prestarla.
-
-ARTICULO 2,352.- No obstante lo dispuesto en el artículo que precede, el donatario queda subrogado en todos los derechos del donante si se verifica la evicción.
-
-ARTICULO 2,353.- Si la donación se hace con la carga de pagar las deudas del donante, sólo se entenderán comprendidas las que existan con fecha auténtica al tiempo de la donación.
-
-ARTICULO 2,354.- Si la donación fuere de ciertos y determinados bienes, el donatario no responderá de las deudas del donante, sino cuando sobre los bienes donados estuviere constituída alguna hipoteca o prenda, o en caso de fraude, en perjuicio de los acreedores.
-
-ARTICULO 2,355.- Si la donación fuere de todos los bienes, el donatario será responsable de todas las deudas del donante anteriormente contraídas; pero sólo hasta la cantidad concurrente con los bienes donados y siempre que las deudas tengan fecha auténtica.
-
-ARTICULO 2,356.- Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
-
-### CAPITULO II. De las personas que pueden recibir donaciones
-
-ARTICULO 2,357.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 337.
-
-ARTICULO 2,358.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
-
-### CAPITULO III. De la revocación y reducción de las donaciones
-
-ARTICULO 2,359.- Las donaciones legalmente hechas por una persona que al tiempo de otorgarlas no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido con todas las condiciones que sobre viabilidad exige el artículo 337.
-
-Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se volverá irrevocable. Lo mismo sucede si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
-
-Si dentro del mencionado plazo naciere un hijo póstumo del donante, la donación se tendrá por revocada en su totalidad.
-
-ARTICULO 2,360.- Si en el primer caso del artículo anterior el padre no hubiere revocado la donación, ésta deberá reducirse cuando se encuentre comprendida en la disposición del artículo 2,348, a no ser que el donatario tome sobre sí la obligación de ministrar alimentos y la garantice debidamente.
-
-ARTICULO 2,361.- La donación no podrá ser revocada por superveniencia de hijos:
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-I.- Cuando sea menor de doscientos pesos;
-
-II.- Cuando sea antenupcial;
-
-III.- Cuando sea entre consortes;
-
-IV.- Cuando sea puramente remuneratoria.
-
-ARTICULO 2,362.- Rescindida la donación por superveniencia de hijos, serán restituídos al donante los bienes donados, o su valor si han sido enajenados antes del nacimiento de los hijos.
-
-ARTICULO 2,363.- Si el donatario hubiere hipotecado los bienes donados, subsistirá la hipoteca; pero tendrá derecho el donante de exigir que aquél la redima. Esto mismo tendrá lugar tratándose de usufructo o servidumbre impuestos por el donatario.
-
-ARTICULO 2,364.- Cuando los bienes no puedan ser restituídos en especie, el valor exigible será el que tenían aquéllos al tiempo de la donación.
-
-ARTICULO 2,365.- El donatario hace suyos los frutos de los bienes donados hasta el día en que se le notifique la revocación o hasta el día del nacimiento del hijo póstumo, en su caso.
-
-ARTICULO 2,366.- El donante no puede renunciar anticipadamente el derecho de revocación por superveniencia de hijos.
-
-ARTICULO 2,367.- La acción de revocación por superveniencia de hijos corresponde exclusivamente al donante y al hijo póstumo; pero la reducción por razón de alimentos tienen derecho de pedirla todos los que sean acreedores alimentistas.
-
-ARTICULO 2,368.- El donatario responde sólo del cumplimiento de las cargas que se le imponen con la cosa donada, y no está obligado personalmente con sus bienes. Puede sustraerse a la ejecución de las cargas, abandonando la cosa donada, y si ésta perece por caso fortuito, queda libre de toda obligación.
-
-ARTICULO 2,369.- En cualquier caso de rescisión o de revocación del contrato de donación, se observará lo dispuesto en los artículos 2,362 y 2,363.
-
-ARTICULO 2,370.- La donación puede ser revocada por ingratitud:
-
-I.- Si el donatario comete algún delito contra la persona, la honra o los bienes del donante o de los ascendientes, descendientes o cónyuge de éste;
-
-II.- Si el donatario rehusa socorrer, según el valor de la donación, al donante que ha venido a pobreza.
-
-ARTICULO 2,371.- Es aplicable a la revocación de las donaciones hechas por ingratitud lo dispuesto en los artículos del 2,361 al 2,364.
-
-ARTICULO 2,372.- La acción de revocación por causa de ingratitud no puede ser renunciada anticipadamente, y prescribe dentro de un año, contado desde que tuvo conocimiento del hecho el donador.
-
-ARTICULO 2,373.- Esta acción no podrá ejercitarse contra los herederos del donatario, a no ser que en vida de éste hubiese sido intentada.
-
-ARTICULO 2,374.- Tampoco puede esta acción ejercitarse por los herederos del donante si éste, pudiendo, no la hubiese intentado.
-
-ARTICULO 2,375.- Las donaciones inoficiosas no serán revocadas ni reducidas, cuando muerto el donante, el donatario tome sobre sí la obligación de ministrar los alimentos debidos y la garantice conforme a derecho.
-
-ARTICULO 2,376.- La reducción de las donaciones comenzará por la última en fecha, que será totalmente suprimida si la reducción no bastare a completar los alimentos.
-
-ARTICULO 2,377.- Si el importe de la donación menos antigua no alcanzare, se procederá respecto de la anterior, en los términos establecidos en el artículo que precede, siguiéndose el mismo orden hasta llegar a la más antigua.
-
-ARTICULO 2,378.- Habiendo diversas donaciones otorgadas en el mismo acto o en la misma fecha, se hará la reducción entre ellas a prorrata.
-
-ARTICULO 2,379.- Si la donación consiste en bienes muebles, se tendrá presente para la reducción el valor que tenían al tiempo de ser donados.
-
-ARTICULO 2,380.- Cuando la donación consiste en bienes raíces que fueren cómodamente divisibles, la reducción se hará en especie.
-
-ARTICULO 2,381.- Cuando el inmueble no pueda ser dividido y el importe de la reducción exceda de la mitad del valor de aquél, recibirá el donatario el resto en dinero.
-
-ARTICULO 2,382.- Cuando la reducción no exceda de la mitad del valor del inmueble, el donatario pagará el resto.
-
-ARTICULO 2,383.- Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
 ### CAPITULO I. Consecuencias del incumplimiento de las obligaciones
 
@@ -973,2724 +797,6 @@ ARTICULO 2,208.- Mientras se hace la partición de una herencia, no hay confusi�
 
 ## TITULO QUINTO. Del mutuo
 
-### CAPITULO I. Del mutuo simple
-
-ARTICULO 2,384.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuario, quien se obliga a devolver otro tanto de la misma especie y calidad.
-
-ARTICULO 2,385.- Si en el contrato no se ha fijado plazo para la devolución de lo prestado, se observarán las reglas siguientes:
-
-I.- Si el mutuario fuere labrador y el préstamo consistiere en cereales u otros productos del campo, la restitución se hará en la siguiente cosecha de los mismos o semejantes frutos o productos;
-
-II.- Lo mismo se observará respecto de los mutuarios que, no siendo labradores, hayan de percibir frutos semejantes por otro título;
-
-III.- En los demás casos, la obligación de restituir se rige por lo dispuesto en el artículo 2,080.
-
-ARTICULO 2,386.- La entrega de la cosa prestada y la restitución de lo prestado se harán en lugar convenido.
-
-ARTICULO 2,387.- Cuando no se ha señalado lugar, se observarán las reglas siguientes:
-
-I.- La cosa prestada se entregará en el lugar donde se encuentre;
-
-II.- La restitución se hará, si el préstamo consiste en efectos, en el lugar donde se recibieron. Si consiste en dinero, en el domicilio del deudor, observándose lo dispuesto en el artículo 2,085.
-
-ARTICULO 2,388.- Si no fuere posible al mutuario restituir en género, satisfará pagando el valor que la cosa prestada tenía en el tiempo y lugar en que se hizo el préstamo, a juicio de peritos, si no hubiere estipulación en contrario.
-
-ARTICULO 2,389.- Consistiendo el préstamo en dinero, pagará el deudor devolviendo una cantidad igual a la recibida conforme a la ley monetaria vigente al tiempo de hacerse el pago, sin que esta prescripción sea renunciable. Si se pacta que el pago debe hacerse en moneda extranjera, la alteración que ésta experimente en valor, será en daño o beneficio del mutuario.
-
-ARTICULO 2,390.- El mutuante es responsable de los perjuicios que sufra el mutuario por la mala calidad o vicios ocultos de la cosa prestada, si conoció los defectos y no dio aviso oportuno al mutuario.
-
-ARTICULO 2,391.- En el caso de haberse pactado que la restitución se hará cuando pueda o tenga medios el deudor, se observará lo dispuesto en el artículo 2,080.
-
-ARTICULO 2,392.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
-
-### CAPITULO II. Del mutuo con interés
-
-ARTICULO 2,393.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
-
-ARTICULO 2,394.- El interés es legal o convencional.
-
-ARTICULO 2,395.- El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
-
-ARTICULO 2,396.- Si se ha convenido un interés más alto que el legal, el deudor, después de seis meses contados desde que se celebró el contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con dos meses de anticipación y pagando los intereses vencidos.
-
-ARTICULO 2,397.- Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
-
-## TITULO SEXTO. Del arrendamiento
-
-### CAPITULO I. Disposiciones generales
-
-ARTICULO 2,398.- Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación y de veinte años para las fincas destinadas al comercio o a la industria.
-
-ARTICULO 2,399.- La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
-
-ARTICULO 2,400.- Son susceptibles de arrendamiento todos los bienes que pueden usarse sin consumirse; excepto aquellos que la ley prohibe arrendar y los derechos estrictamente personales.
-
-ARTICULO 2,401.- El que no fuere dueño de la cosa podrá arrendarla si tiene facultad para celebrar ese contrato, ya en virtud de autorización del dueño, ya por disposición de la ley.
-
-ARTICULO 2,402.- En el primer caso del artículo anterior, la constitución del arrendamiento se sujetará a los límites fijados en la autorización, y en el segundo, a los que la ley haya fijado a los administradores de bienes ajenos.
-
-ARTICULO 2,403.- No puede arrendar el copropietario de cosa indivisa sin consentimiento de los otros copropietarios.
-
-ARTICULO 2,404.- Se prohibe a los Magistrados, a los Jueces y a cualesquiera otros empleados públicos, tomar en arrendamiento, por sí o por interpósita persona, los bienes que deban arrendarse en los negocios en que intervengan.
-
-ARTICULO 2,405.- Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,406.- El contrato de arrendamiento debe otorgarse por escrito. La falta de esta formalidad se imputará al arrendador.
-
-ARTICULO 2,407.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,408.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
-
-ARTICULO 2,409.- Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la trasmisión de la propiedad del predio arrendado, el arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicialmente o extrajudicialmente ante notario o ante dos testigos haberse otorgado el correspondiente título de propiedad, aun cuando alegue haber pagado al primer propietario; a no ser que el adelanto de rentas aparezca expresamente estipulado en el mismo contrato de arrendamiento.
-
-ARTICULO 2,410.- Si la trasmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá, pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
-
-ARTICULO 2,411.- Los arrendamientos de bienes nacionales, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este título.
-
-### CAPITULO II. De los derechos y obligaciones del arrendador
-
-ARTICULO 2,412.- El arrendador está obligado, aunque no haya pacto expreso:
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
-
-I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; y si no hubo convenio expreso, para aquél a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble;
-
-II.- A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
-
-III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables;
-
-IV.- A garantir el uso o goce pacífico de la cosa por todo el tiempo del contrato;
-
-V.- A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa, anteriores al arrendamiento.
-
-ARTICULO 2,413.- La entrega de la cosa se hará en el tiempo convenido; y si no hubiere convenio, luego que el arrendador fuere requerido por el arrendatario.
-
-ARTICULO 2,414.- El arrendador no puede, durante el arrendamiento, mudar la forma de la cosa arrendada, ni intervenir en el uso legítimo de ella, salvo el caso designado en la fracción III, del artículo 2,412.
-
-ARTICULO 2,415.- El arrendatario está obligado a poner en conocimiento del arrendador, a la brevedad posible, la necesidad de las reparaciones, bajo pena de pagar los daños y perjuicios que su omisión cause.
-
-ARTICULO 2,416.- Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código de Procedimientos Civiles.
-
-ARTICULO 2,417.- El juez, según las circunstancias del caso, decidirá sobre el pago de los daños y perjuicios que se causen al arrendatario por falta de oportunidad en las reparaciones.
-
-ARTICULO 2,418.- Lo dispuesto en la fracción IV del artículo 2,412 no comprende las vías de hecho de terceros que no aleguen derechos sobre la cosa arrendada que impidan su uso o goce. El arrendatario, en esos casos, sólo tiene acción contra los autores de los hechos, y aunque fueren insolventes no tendrá acción contra el arrendador. Tampoco comprende los abusos de fuerza.
-
-ARTICULO 2,419.- El arrendatario está obligado a poner en conocimiento del propietario, en el más breve término posible, toda usurpación o novedad dañosa que otro haya hecho o abiertamente prepare en la cosa arrendada, so pena de pagar los daños y perjuicios que cause con su omisión. Lo dispuesto en este artículo no priva al arrendatario del derecho de defender, como poseedor, la cosa dada en arrendamiento.
-
-ARTICULO 2,420.- Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, puede el arrendatario reclamar una diminución en la renta o la rescisión del contrato y el pago de los daños y perjuicios que sufra.
-
-ARTICULO 2,421.- El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la diminución de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
-
-ARTICULO 2,422.- Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, a no ser que tenga algún derecho que ejercitar contra aquél; en este caso depositará judicialmente el saldo referido.
-
-ARTICULO 2,423.- Corresponde al arrendador pagar las mejoras hechas por el arrendatario:
-
-I.- Si en el contrato, o posteriormente, lo autorizó para hacerlas y se obligó a pagarlas;
-
-II.- Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el contrato;
-
-III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
-
-ARTICULO 2,424.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
-
-### CAPITULO III. De los derechos y obligaciones del arrendatario
-
-ARTICULO 2,425.- El arrendatario está obligado:
-
-I.- A satisfacer la renta en la forma y tiempo convenidos;
-
-II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
-
-III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
-
-ARTICULO 2,426.- El arrendatario no está obligado a pagar la renta sino desde el día en que reciba la cosa arrendada, salvo pacto en contrario.
-
-ARTICULO 2,427.- La renta será pagada en el lugar convenido; y a falta de convenio, en la casa, habitación o despacho del arrendatario.
-
-ARTICULO 2,428.- Lo dispuesto en el artículo 2,422 respecto del arrendador, regirá en su caso respecto del arrendatario.
-
-ARTICULO 2,429.- El arrendatario está obligado a pagar la renta que se venza hasta el día que entregue la cosa arrendada.
-
-ARTICULO 2,430.- Si el precio del arrendamiento debiere pagarse en frutos, y el arrendatario no los entregare en el tiempo debido, está obligado a pagar en dinero el mayor precio que tuvieren los frutos dentro del tiempo convenido.
-
-ARTICULO 2,431.- Si por caso fortuito o fuerza mayor se impide totalmente al arrendatario el uso de la cosa arrendada, no se causará renta mientras dure el impedimento, y si éste dura más de dos meses podrá pedir la rescisión del contrato.
-
-ARTICULO 2,432.- Si sólo se impide en parte el uso de la cosa, podrá el arrendatario pedir la reducción parcial de la renta, a juicio de peritos, a no ser que las partes opten por la rescisión del contrato, si el impedimento dura el tiempo fijado en el artículo anterior.
-
-ARTICULO 2,433.- Lo dispuesto en los dos artículos anteriores no es renunciable.
-
-ARTICULO 2,434.- Si la privación del uso proviene de la evicción del predio, se observará lo dispuesto en al artículo 2,431, y si el arrendador procedió con mala fe, responderá también de los daños y perjuicios.
-
-ARTICULO 2,435.- El arrendatario es responsable del incendio, a no ser que provenga de caso fortuito, fuerza mayor o vicio de construcción.
-
-ARTICULO 2,436.- El arrendatario no responde del incendio que se haya comunicado de otra parte, si tomó las precauciones necesarias para evitar que el fuego se propagara.
-
-ARTICULO 2,437.- Cuando son varios los arrendatarios y no se sabe dónde comenzó el incendio, todos son responsables proporcionalmente a la renta que paguen, y si el arrendador ocupa parte de la finca, también responderá proporcionalmente a la renta que a esa parte fijen peritos. Si se prueba que el incendio comenzó en la habitación de uno de los inquilinos, solamente éste será el responsable.
-
-ARTICULO 2,438.- Si alguno de los arrendatarios prueba que el fuego no pudo comenzar en la parte que ocupa, quedará libre de responsabilidad.
-
-ARTICULO 2,439.- La responsabilidad en los casos de que tratan los artículos anteriores, comprende no solamente el pago de los daños y perjuicios sufridos por el propietario, sino el de los que se hayan causado a otras personas, siempre que provengan directamente del incendio.
-
-ARTICULO 2,440.- El arrendatario que va a establecer en la finca arrendada una industria peligrosa, tiene obligación de asegurar dicha finca contra el riesgo probable que origine el ejercicio de esa industria.
-
-ARTICULO 2,441.- El arrendatario no puede, sin consentimiento expreso del arrendador, variar la forma de la cosa arrendada; y si lo hace debe, cuando la devuelva, restablecerla al estado en que la reciba, siendo, además, responsable de los daños y perjuicios.
-
-ARTICULO 2,442.- Si el arrendatario ha recibido la finca con expresa descripción de las partes de que se compone, debe devolverla, al concluir el arrendamiento, tal como la recibió, salvo lo que hubiere perecido o se hubiere menoscabado por el tiempo o por causa inevitable.
-
-ARTICULO 2,443.- La ley presume que el arrendatario que admitió la cosa arrendada sin la descripción expresada en el artículo anterior, la recibió en buen estado, salvo la prueba en contrario.
-
-ARTICULO 2,444.- El arrendatario debe hacer las reparaciones de aquellos deterioros de poca importancia, que regularmente son causados por las personas que habitan el edificio.
-
-ARTICULO 2,445.- El arrendatario que por causa de reparaciones pierda el uso total o parcial de la cosa, tiene derecho a no pagar el precio del arrendamiento, a pedir la reducción de ese precio o a la rescisión del contrato, si la pérdida del uso dura más de dos meses, en sus respectivos casos.
-
-ARTICULO 2,446.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o más personas y por el mismo tiempo, prevalecerá el arrendamiento primero en fecha; si no fuere posible verificar la prioridad de ésta, valdrá el arrendamiento del que tiene en su poder la cosa arrendada.
-
-Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea preferido en los términos del artículo 2448-J de este Código.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-### CAPITULO IV. Del arrendamiento de fincas urbanas destinadas a la Habitación
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,448.- Las disposiciones contenidas en los artículos 2448-A, 2448-B, 2448-G y 2448-H son de orden público e interés social, por tanto son irrenunciables y en consecuencia cualquier estipulación en contrario se tendrá por no puesta.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-ARTICULO 2,448 A.- No deberá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,448 B.- El arrendador que no haga las obras que ordene la autoridad correspondiente como necesarias para que una localidad sea habitable, higiénica y segura es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario, salvo convenio en contrario.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-ARTICULO 2,448 D.- Para los efectos de este Capítulo la renta deberá estipularse en moneda nacional.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-ARTICULO 2,448 E.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos.
-
-El arrendatario no está obligado a pagar la renta sino desde el día en que reciba el inmueble objeto del contrato.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-ARTICULO 2,448 F.- Para los efectos de este Capítulo el contrato de arrendamiento debe otorgarse por escrito, la falta de esta formalidad se imputará al arrendador.
-
-El contrato deberá contener, cuando menos las siguientes estipulaciones:
-
-I.- Nombres del arrendador y arrendatario.
-
-II.- La ubicación del inmueble.
-
-III.- Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan.
-
-IV.- El monto de la renta.
-
-V.- La garantía, en su caso.
-
-VI.- La mención expresa del destino habitacional del inmueble arrendado.
-
-VII.- El término del contrato.
-
-VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-ARTICULO 2,448 G.- El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-Igualmente el arrendatario tendrá derecho para registrar su copia de contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-ARTICULO 2,448 H.- El arrendamiento de fincas urbanas destinadas a la habitación no termina por la muerte del arrendador ni por la del arrendatario, sino sólo por los motivos establecidos en las leyes.
-
-Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
-
-No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
-
-ARTICULO 2,448 I.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,448 J.- En el caso de que el propietario del inmueble arrendado decida enajenarlo, el o los arrendatarios tendrán derecho a ser preferidos a cualquier tercero en los siguientes términos:
-
-I.- En todos los casos el propietario deberá dar aviso por escrito al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades de la compra-venta;
-
-II.- El o los arrendatarios dispondrán de quince días para dar aviso por escrito al arrendador de su voluntad de ejercitar el derecho de preferencia que se consigna en este artículo en los términos y condiciones de la oferta, exhibiendo para ello las cantidades exigibles al momento de la aceptación de la oferta, conforme a las condiciones señaladas en ésta;
-
-III.- En caso de que el arrendador cambie cualquiera de los términos de la oferta inicial estará obligado a dar un nuevo aviso por escrito al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de quince días. Si el cambio se refiere al precio, el arrendador sólo estará obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de un diez por ciento;
-
-IV.- Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la ley de la materia; y
-
-V.- La compra-venta realizada en contravención de lo dispuesto en este artículo otorgará al arrendatario el derecho de demandar daños y perjuicios, sin que la indemnización por dichos conceptos pueda ser menor a un 50% de las rentas pagadas por el arrendatario en los últimos doce meses. La acción antes mencionada prescribirá sesenta días después de que tenga conocimiento el arrendatario de la realización de la compraventa respectiva.
-
-En caso de que el arrendatario no cumpla con las condiciones establecidas en las fracciones II o III de este artículo, precluirá su derecho.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,448 K.- Si varios arrendatarios hicieren uso del derecho de preferencia a que se refiere el artículo anterior, será preferido el que tenga mayor antigüedad arrendando parte del inmueble y, en caso de ser igual, el que primero exhiba la cantidad exigible en los términos de la fracción II del artículo anterior, salvo convenio en contrario.
-
-ARTICULO 2,448 L.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,449.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,450.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,451.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,452.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-### CAPITULO V. Del arrendamiento de fincas rústicas
-
-ARTICULO 2,453.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,454.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres vencidos.
-
-ARTICULO 2,455.- El arrendatario no tendrá derecho a la rebaja de la renta por esterilidad de la tierra arrendada o por pérdida de frutos proveniente de casos fortuitos ordinarios; pero sí en caso de pérdida de más de la mitad de los frutos, por casos fortuitos extraordinarios.
-
-Entiéndese por casos fortuitos extraordinarios: el incendio, guerra, peste, inundación insólita, langosta, terremoto u otro acontecimiento igualmente desacostumbrado y que los contratantes no hayan podido razonablemente prever.
-
-En estos casos el precio del arrendamiento se rebajará proporcionalmente al monto de las pérdidas sufridas.
-
-Las disposiciones de este artículo no son renunciables.
-
-ARTICULO 2,456.- En el arrendamiento de predios rústicos por plazo determinado, debe el arrendatario, en el último año que permanezca en el fundo, permitir a su sucesor o al dueño, en su caso, el barbecho de las tierras que tengan desocupadas y en las que él no pueda verificar la nueva siembra, así como el uso de los edificios y demás medios que fueren necesarios para las labores preparatorias del año siguiente.
-
-ARTICULO 2,457.- El permiso a que se refiere el artículo que precede, no será obligatorio sino en el período y por el tiempo rigurosamente indispensable, conforme a las costumbres locales, salvo convenio en contrario.
-
-ARTICULO 2,458.- Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
-
-### CAPITULO VI. Del arrendamiento de bienes muebles
-
-ARTICULO 2,459.- Son aplicables al arrendamiento de bienes muebles las disposiciones de este Título que sean compatibles con la naturaleza de esos bienes.
-
-ARTICULO 2,460.- Si en el contrato no se hubiere fijado plazo, ni se hubiere expresado el uso a que la cosa se destina, el arrendatario será libre para devolverla cuando quiera, y el arrendador no podrá pedirla sino después de cinco días de celebrado el contrato.
-
-ARTICULO 2,461.- Si la cosa se arrendó por años, meses, semanas o días, la renta se pagará al vencimiento de cada uno de esos términos, salvo convenio en contrario.
-
-ARTICULO 2,462.- Si el contrato se celebra por un término fijo, la renta se pagará al vencerse el plazo, salvo convenio en contrario.
-
-ARTICULO 2,463.- Si el arrendatario devuelve la cosa antes del tiempo convenido, cuando se ajuste por un solo precio, está obligado a pagarlo íntegro; pero si el arrendamiento se ajusta por períodos de tiempo, sólo está obligado a pagar los períodos corridos hasta la entrega.
-
-ARTICULO 2,464.- El arrendatario está obligado a pagar la totalidad del precio, cuando se hizo el arrendamiento por tiempo fijo y los períodos sólo se pusieron como plazos para el pago.
-
-ARTICULO 2,465.- Si se arriendan un edificio o aposento amueblados, se entenderá que el arrendamiento de los muebles es por el mismo tiempo que el del edificio o aposento, a menos de estipulación en contrario.
-
-ARTICULO 2,466.- Cuando los muebles se alquilaren con separación del edificio, su alquiler se regirá por lo dispuesto en este Capítulo.
-
-ARTICULO 2,467.- El arrendatario está obligado a hacer las pequeñas reparaciones que exija el uso de la cosa dada en arrendamiento.
-
-ARTICULO 2,468.- La pérdida o deterioro de la cosa alquilada, se presume siempre a cargo del arrendatario, a menos que él pruebe que sobrevino sin culpa suya, en cuyo caso será a cargo del arrendador.
-
-ARTICULO 2,469.- Aun cuando la pérdida o deterioro sobrevengan por caso fortuito, serán a cargo del arrendatario, si éste usó la cosa de un modo no conforme con el contrato, y sin cuyo uso no habría sobrevenido el caso fortuito.
-
-ARTICULO 2,470.- El arrendatario está obligado a dar de comer y beber al animal durante el tiempo en que lo tiene en su poder, de modo que no se desmejore, y a curarle las enfermedades ligeras, sin poder cobrar nada al dueño.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,471.- Los frutos del animal alquilado pertenecen al dueño, salvo convenio en contrario.
-
-ARTICULO 2,472.- En caso de muerte de algún animal alquilado, sus despojos serán entregados por el arrentario (sic) al dueño, si son de alguna utilidad y es posible el transporte.
-
-ARTICULO 2,473.- Cuando se arrienden dos o más animales que forman un todo, como una yunta o un tiro, y uno de ellos se inutiliza, se rescinde el arrendamiento, a no ser que el dueño quiera dar otro que forme un todo con el que sobrevivió.
-
-ARTICULO 2,474.- El que contrate uno o más animales especificados individualmente, que antes de ser entregados al arrendatario se inutilizaren sin culpa del arrendador, quedará enteramente libre de la obligación si ha avisado al arrendatario inmediatamente después que se inutilizó al animal; pero si éste se ha inutilizado por culpa del arrendador o si no se ha dado el aviso, estará sujeto al pago de daños y perjuicios, o a reemplazar el animal, a elección del arrendatario.
-
-ARTICULO 2,475.- En el caso del artículo anterior, si en el contrato de alquiler no se trató de animal individualmente determinado, sino de un género y número determinados, el arrendador está obligado a los daños y perjuicios, siempre que se falte a la entrega.
-
-ARTICULO 2,476.- Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza o de cría existente en él, el arrendatario tendrá, respecto del ganado, los mismos derechos y obligaciones que el usufructuario, pero no está obligado a dar fianza.
-
-ARTICULO 2,477.- Lo dispuesto en el artículo 2,465 es aplicable a los aperos de la finca arrendada.
-
-### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,478.- Todos los arrendamientos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso por escrito dado a la otra parte con quince días de anticipación, si el predio es urbano, y con un año si es rústico.
-
-ARTICULO 2,479.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
-
-### CAPITULO VIII. Del subarriendo
-
-ARTICULO 2,480.- El arrendatario no puede subarrendar la cosa arrendada en todo, ni en parte, ni ceder sus derechos sin consentimiento del arrendador; si lo hiciere, responderá solidariamente con el subarrendatario, de los daños y perjuicios.
-
-ARTICULO 2,481.- Si el subarriendo se hiciere en virtud de la autorización general concedida en el contrato, el arrendatario será responsable al arrendador, como si él mismo continuara en el uso o goce de la cosa.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,482.- Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
-
-### CAPITULO IX. Del modo de terminar el arrendamiento
-
-ARTICULO 2,483.- El arrendamiento puede terminar:
-
-I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fue arrendada;
-
-II.- Por convenio expreso;
-
-III.- Por nulidad;
-
-IV.- Por rescisión;
-
-V.- Por confusión;
-
-VI.- Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o fuerza mayor;
-
-VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
-
-VIII.- Por evicción de la cosa dada en arrendamiento.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,484.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2478 y 2479.
-
-ARTICULO 2,485.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,486.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,487.- Si después de terminado el plazo por el que se celebró el arrendamiento, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato; pudiendo cualquiera de las partes solicitar la terminación del contrato en los términos del artículo 2478. Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
-
-ARTICULO 2,488.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,489.- El arrendador puede exigir la rescisión del contrato:
-
-> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
-
-I.- Por falta de pago de la renta en los términos previstos en la fracción I del artículo 2425;
-
-II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2,425;
-
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2,480;
-
-> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
-
-IV.- Por daños graves a la cosa arrendada imputables al arrendatario; y
-
-> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
-
-V.- Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2441.
-
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-ARTICULO 2,490.- El arrendatario puede exigir la rescisión del contrato:
-
-I.- Por contravenir el arrendador la obligación a que se refiere la fracción II del artículo 2412 de este ordenamiento;
-
-II.- Por la pérdida total o parcial de la cosa arrendada en los términos de los artículos 2431, 2434 y 2445; y
-
-III.- Por la existencia de defectos o vicios ocultos de la cosa, anteriores al arrendamiento y desconocidos por el arrendatario.
-
-ARTICULO 2,491.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,492.- Si el arrendador, sin motivo fundado, se opone al subarriendo que con derecho pretenda hacer al (sic) arrendatario, podrá éste pedir la rescisión del contrato.
-
-ARTICULO 2,493.- Si el usufructuario no manifestó su calidad de tal al hacer el arrendamiento, y por haberse consolidado la propiedad con el usufructo, exige el propietario la desocupación de la finca, tiene el arrendatario derecho para demandar al arrendador la indemnización de daños y perjuicios.
-
-ARTICULO 2,494.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
-
-ARTICULO 2,495.- Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de arrendamiento subsistirá, a menos que aparezca que se celebró dentro de los sesenta días anteriores al secuestro de la finca, en cuyo caso el arrendamiento podrá darse por concluído.
-
-ARTICULO 2,496.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
-
-## TITULO SEPTIMO. Del comodato
-
-ARTICULO 2,497.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ARTICULO 2,498.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
-
-ARTICULO 2,499.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ARTICULO 2,500.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ARTICULO 2,501.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ARTICULO 2,502.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ARTICULO 2,503.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ARTICULO 2,504.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-ARTICULO 2,505.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ARTICULO 2,506.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
-
-ARTICULO 2,507.- Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ARTICULO 2,508.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ARTICULO 2,509.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ARTICULO 2,510.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ARTICULO 2,511.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-ARTICULO 2,512.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ARTICULO 2,513.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ARTICULO 2,514.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-## TITULO OCTAVO. Del depósito y del secuestro
-
-### CAPITULO I. Del depósito
-
-ARTICULO 2,516.- El depósito es un contrato por el cual el depositario se obliga hacia el depositante a recibir una cosa, mueble o inmueble que aquél le confía, y a guardarla para restituírla cuando la pida el depositante.
-
-ARTICULO 2,517.- Salvo pacto en contrario, el depositario tiene derecho a exigir retribución por el depósito, la cual se arreglará a los términos del contrato y, en su defecto, a los usos del lugar en que se constituya el depósito.
-
-ARTICULO 2,518.- Los depositarios de títulos, valores, efectos o documentos que devenguen intereses, quedan obligados a realizar el cobro de éstos en las épocas de su vencimiento, así como también a practicar cuantos actos sean necesarios para que los efectos depositados conserven el valor y los derechos que les correspondan con arreglo a las leyes.
-
-ARTICULO 2,519.- La incapacidad de uno de los contratantes no exime al otro de las obligaciones a que están sujetos el que deposita y el depositario.
-
-ARTICULO 2,520.- El incapaz que acepte el depósito, puede, si se le demanda por daños y perjuicios, oponer como excepción la nulidad del contrato; mas no podrá eximirse de restituir la cosa depositada si se conserva aún en su poder, o el provecho que hubiere recibido de su enajenación.
-
-ARTICULO 2,521.- Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
-
-ARTICULO 2,522.- El depositario está obligado a conservar la cosa objeto del depósito, según la reciba y a devolverla cuando el depositario (sic) se lo pida, aunque al constituirse el depósito se hubiere fijado plazo y éste no hubiere llegado.
-
-En la conservación del depósito responderá el depositario de los menoscabos, daños y perjuicios que las cosas depositadas sufrieren por su malicia o negligencia.
-
-ARTICULO 2,523.- Si después de constituído el depósito tiene conocimiento el depositario de que la cosa es robada y de quién es el verdadero dueño, debe dar aviso a éste o a la autoridad competente, con la reserva debida.
-
-ARTICULO 2,524.- Si dentro de ocho días no se le manda judicial ente (sic) retener o entregar la cosa, puede devolverla al que la depositó, sin que por ello quede sujeto a responsabilidad alguna.
-
-ARTICULO 2,525.- Siendo varios los que den una sola cosa o cantidad en depósito, no podrá el depositario entregarla sino con previo consentimiento de la mayoría de los depositantes, computado por cantidades y no por personas, a no ser que al constituirse el depósito se haya convenido que la entrega se haga a cualquiera de los depositantes.
-
-ARTICULO 2,526.- El depositario entregará a cada depositante una parte de la cosa, si al constituirse el depósito se señaló la que a cada uno correspondía.
-
-ARTICULO 2,527.- Si no hubiere lugar designado para la entrega del depósito, la devolución se hará en el lugar donde se halla la cosa depositada. Los gastos de entrega serán de cuenta del depositante.
-
-ARTICULO 2,528.- El depositario no está obligado a entregar la cosa cuando judicialmente se haya mandado retener o embargar.
-
-ARTICULO 2,529.- El depositario puede, por justa causa, devolver la cosa antes del plazo convenido.
-
-ARTICULO 2,530.- Cuando el depositario descubra o pruebe que es suya la cosa depositada, y el depositante insista en sostener sus derechos, debe ocurrir al juez pidiéndole orden para retenerla o para depositarla judicialmente.
-
-ARTICULO 2,531.- Cuando no se ha estipulado tiempo, el depositario puede devolver el depósito al depositante cuando quiera, siempre que le avise con una prudente anticipación, si se necesita preparar algo para la guarda de la cosa.
-
-ARTICULO 2,532.- El depositante está obligado a indemnizar al depositario de todos los gastos que haya hecho en la conservación del depósito y de los perjuicios que por él haya sufrido.
-
-ARTICULO 2,533.- El depositario no puede retener la cosa, aun cuando al pedírsela no haya recibido el importe de las expensas a que se refiere el artículo anterior; pero sí podrá, en este caso, si el pago no se le asegura, pedir judicialmente la retención del depósito.
-
-ARTICULO 2,534.- Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga contra el depositante.
-
-ARTICULO 2,535.- Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-La responsabilidad de que habla este artículo, no excederá de la suma de doscientos cincuenta pesos, cuando no se pueda imputar culpa al hostelero o a su personal.
-
-ARTICULO 2,536.- Para que los dueños de establecimientos donde se reciben huéspedes sean responsables del dinero, valores u objetos de precio notoriamente elevado que introduzcan en esos establecimientos las personas que allí se alojan, es necesario que sean entregados en depósito a ellos o a sus empleados debidamente autorizados.
-
-ARTICULO 2,537.- El posadero no se exime de la responsabilidad que le imponen los dos artículos anteriores por avisos que ponga en su establecimiento para eludirla. Cualquier pacto que celebre, limitando o modificando esa responsabilidad, será nulo.
-
-ARTICULO 2,538.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
-
-### CAPITULO II. Del secuestro
-
-ARTICULO 2,539.- El secuestro es el depósito de una cosa litigiosa en poder de un tercero, hasta que se decida a quién debe entregarse.
-
-ARTICULO 2,540.- El secuestro es convencional o judicial.
-
-ARTICULO 2,541.- El secuestro convencional se verifica cuando los litigantes depositan la cosa litigiosa en poder de un tercero que se obliga a entregarla, concluído el pleito, al que conforme a la sentencia tenga derecho a ella.
-
-ARTICULO 2,542.- El encargado del secuestro convencional no puede libertarse de él antes de la terminación del pleito, sino consintiendo en ello todas las partes interesadas, o por una causa que el juez declare legítima.
-
-ARTICULO 2,543.- Fuera de las excepciones acabadas de mencionar, rigen para el secuestro convencional las mismas disposiciones que para el depósito.
-
-ARTICULO 2,544.- Secuestro judicial es el que se constituye por decreto del juez.
-
-ARTICULO 2,545.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
-
-## TITULO NOVENO. Del mandato
-
-### CAPITULO I. Disposiciones generales
-
-ARTICULO 2,546.- El mandato es un contrato por el que el mandatario se obliga a ejecutar por cuenta del mandante los actos jurídicos que éste le encarga.
-
-ARTICULO 2,547.- El contrato de mandato se reputa perfecto por la aceptación del mandatario.
-
-El mandato que implica el ejercicio de una profesión se presume aceptado cuando es conferido a personas que ofrecen al público el ejercicio de su profesión, por el solo hecho de que no lo rehusen dentro de los tres días siguientes.
-
-La aceptación puede ser expresa o tácita. Aceptación tácita es todo acto en ejecución de un mandato.
-
-ARTICULO 2,548.- Pueden ser objeto del mandato todos los actos lícitos para los que la ley no exige la intervención personal del interesado.
-
-ARTICULO 2,549.- Solamente será gratuito el mandato cuando así se haya convenido expresamente.
-
-ARTICULO 2,550.- El mandato puede ser escrito o verbal.
-
-ARTICULO 2,551.- El mandato escrito puede otorgarse:
-
-I.- En escritura pública;
-
-II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Jueces Menores o de Paz, o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
-
-III.- En carta poder sin ratificación de firmas.
-
-ARTICULO 2,552.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
-
-Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dió.
-
-ARTICULO 2,553.- El mandato puede ser general o especial. Son generales los contenidos en los tres primeros párrafos del artículo 2,554. Cualquier otro mandato tendrá el carácter de especial.
-
-ARTICULO 2,554.- En todos los poderes generales para pleitos y cobranzas, bastará que se diga que se otorga con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para que se entiendan conferidos sin limitación alguna.
-
-En los poderes generales para administrar bienes, bastará expresar que se dan con ese carácter, para que el apoderado tenga toda clase de facultades administrativas.
-
-En los poderes generales, para ejercer actos de dominio, bastará que se den con ese carácter para que el apoderado tenga todas las facultades de dueño, tanto en lo relativo a los bienes, como para hacer toda clase de gestiones a fin de defenderlos.
-
-Cuando se quisieren limitar, en los tres casos antes mencionados, las facultades de los apoderados, se consignarán las limitaciones, o los poderes serán especiales.
-
-Los notarios insertarán este artículo en los testimonios de los poderes que otorguen.
-
-ARTICULO 2,555.- El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario, ante los jueces o autoridades administrativas correspondientes:
-
-I.- Cuando sea general;
-
-> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1994)</small>
-
-II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse; o
-
-III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
-
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
-
-ARTICULO 2,556.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse.
-
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse.
-
-ARTICULO 2,557.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiese obrado en negocio propio.
-
-ARTICULO 2,558.- Si el mandante, el mandatario y el que haya tratado con éste, proceden de mala fe, ninguno de ellos tendrá derecho de hacer valer la falta de forma del mandato.
-
-ARTICULO 2,559.- En el caso del artículo 2,557, podrá el mandante exigir del mandatario la devolución de las sumas que le haya entregado, y respecto de las cuales será considerado el último como simple depositario.
-
-ARTICULO 2,560.- El mandatario, salvo convenio celebrado entre él y el mandante, podrá desempeñar el mandato tratando en su propio nombre o en el del mandante.
-
-ARTICULO 2,561.- Cuando el mandatario obra en su propio nombre, el mandante no tiene acción contra las personas con quienes el mandatario ha contratado, ni éstas tampoco contra el mandante.
-
-En este caso, el mandatario es el obligado directamente en favor de la persona con quien ha contratado, como si el asunto fuere personal suyo. Exceptúase el caso en que se trate de cosas propias del mandante.
-
-Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
-
-### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
-
-ARTICULO 2,562.- El mandatario, en el desempeño de su encargo, se sujetará a las instrucciones recibidas del mandante y en ningún caso podrá proceder contra disposiciones expresas del mismo.
-
-ARTICULO 2,563.- En lo no previsto y prescrito expresamente por el mandante, deberá el mandatario consultarle, siempre que lo permita la naturaleza del negocio. Si no fuere posible la consulta o estuviere el mandatario autorizado para obrar a su arbitrio, hará lo que la prudencia dicte, cuidando del negocio como propio.
-
-ARTICULO 2,564.- Si un accidente imprevisto hiciere, a juicio del mandatario, perjudicial la ejecución de las instrucciones recibidas, podrá suspender el cumplimiento del mandato, comunicándolo así al mandante por el medio más rápido posible.
-
-ARTICULO 2,565.- En las operaciones hechas por el mandatario, con violación o con exceso del encargo recibido, además de la indemnización a favor del mandante, de daños y perjuicios, quedará a opción de éste ratificarlas o dejarlas a cargo del mandatario.
-
-ARTICULO 2,566.- El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho encargo.
-
-ARTICULO 2,567.- El mandatario no puede compensar los perjuicios que cause con los provechos que por otro motivo haya procurado al mandante.
-
-ARTICULO 2,568.- El mandatario que se exceda de sus facultades, es responsable de los daños y perjuicios que cause al mandante y al tercero con quien contrató, si éste ignoraba que aquél traspasaba los límites del mandato.
-
-ARTICULO 2,569.- El mandatario está obligado a dar al mandante cuentas exactas de su administración, conforme al convenio, si lo hubiere; no habiéndolo, cuando el mandante lo pida, y en todo caso al fin del contrato.
-
-ARTICULO 2,570.- El mandatario tiene obligación de entregar al mandante todo lo que haya recibido en virtud del poder.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,571.- Lo dispuesto en el artículo anterior, se observará aun cuando lo que el mandatario recibió no fuere debido al mandante.
-
-ARTICULO 2,572.- El mandatario debe pagar los intereses de las sumas que pertenezcan al mandante y que haya distraído de su objeto e invertido en provecho propio, desde la fecha de inversión; así como los de las cantidades en que resulte alcanzado, desde la fecha en que se constituyó en mora.
-
-ARTICULO 2,573.- Si se confiere un mandato a diversas personas respecto de un mismo negocio, aunque sea en un solo acto, no quedarán solidariamente obligados si no se convino así expresamente.
-
-ARTICULO 2,574.- El mandatario puede encomendar a un tercero el desempeño del mandato si tiene facultades expresas para ello.
-
-ARTICULO 2,575.- Si se le designó la persona del substituto, no podrá nombrar a otro; si no se le designó persona, podrá nombrar a la que quiera, y en éste último caso solamente será responsable cuando la persona elegida fuere de mala fe o se hallare en notoria insolvencia.
-
-ARTICULO 2,576.- El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
-
-### CAPITULO III. De las obligaciones del mandante con relación al mandatario
-
-ARTICULO 2,577.- El mandante debe anticipar al mandatario, si éste lo pide, las cantidades necesarias para la ejecución del mandato.
-
-Si el mandatario las hubiere anticipado, debe reembolsarlas al mandante, aunque el negocio no haya salido bien, con tal que esté exento de culpa el mandatario.
-
-El reembolso comprenderá los intereses de la cantidad anticipada, a contar desde el día en que se hizo el anticipo.
-
-ARTICULO 2,578.- Debe también el mandante indemnizar al mandatario de todos los daños y perjuicios que le haya causado el cumplimiento del mandato, sin culpa ni imprudencia del mismo mandatario.
-
-ARTICULO 2,579.- El mandatario podrá retener en prenda las cosas que son objeto del mandato hasta que el mandante haga la indemnización y reembolso de que tratan los dos artículos anteriores.
-
-ARTICULO 2,580.- Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
-
-### CAPITULO IV. De las obligaciones y derechos del mandante y del mandatario con relación a tercero
-
-ARTICULO 2,581.- El mandante debe cumplir todas las obligaciones que el mandatario haya contraído dentro de los límites del mandato.
-
-ARTICULO 2,582.- El mandatario no tendrá acción para exigir el cumplimiento de las obligaciones contraídas a nombre del mandante, a no ser que esta facultad se haya incluído también en el poder.
-
-ARTICULO 2,583.- Los actos que el mandatario practique a nombre del mandante, pero traspasando los límites expresos del mandato, serán nulos, con relación al mismo mandante, si no los ratifica tácita o expresamente.
-
-ARTICULO 2,584.- El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra de éste, si le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente por el mandante.
-
-### CAPITULO V. Del mandato judicial
-
-ARTICULO 2,585.- No pueden ser procuradores en juicio:
-
-I.- Los incapacitados;
-
-II.- Los jueces, magistrados y demás funcionarios y empleados de la administración de justicia, en ejercicio, dentro de los límites de su jurisdicción;
-
-III.- Los empleados de la Hacienda Pública, en cualquiera causa en que puedan intervenir de oficio, dentro de los límites de sus respectivos distritos.
-
-ARTICULO 2,586.- El mandato judicial será otorgado en escritura pública, o en escrito presentado y ratificado por el otorgante ante el juez de los autos. Si el juez no conoce al otorgante, exigirá testigos de identificación.
-
-La substitución del mandato judicial se hará en la misma for- (sic) que su otorgamiento.
-
-ARTICULO 2,587.- El procurador no necesita poder o cláusula especial sino en los casos siguientes:
-
-I.- Para desistirse;
-
-II.- Para transigir;
-
-III.- Para comprometer en árbitros;
-
-IV.- Para absolver y articular posiciones;
-
-V.- Para hacer cesión de bienes;
-
-VI.- Para recusar;
-
-VII.- Para recibir pagos;
-
-VIII.- Para los demás actos que expresamente determine la ley.
-
-Cuando en los poderes generales se desee conferir alguna o algunas de las facultades acabadas de enumerar, se observará lo dispuesto en el párrafo primero del artículo 2,554.
-
-ARTICULO 2,588.- El procurador, aceptado el poder, está obligado:
-
-I.- A seguir el juicio por todas sus instancias mientras no haya cesado en su encargo por alguna de las causas expresadas en el artículo 2,595;
-
-II.- A pagar los gastos que se causen a su instancia, salvo el derecho que tiene de que el mandante se los reembolse;
-
-III.- A practicar, bajo la responsabilidad que este Código impone al mandatario, cuanto sea necesario para la defensa de su poderdante, arreglándose al efecto a las instrucciones que éste le hubiere dado, y si no las tuviere, a lo que exija la naturaleza e índole del litigio.
-
-ARTICULO 2,589.- El procurador o abogado que acepte el mandato de una de las partes, no puede admitir el del contrario, en el mismo juicio, aunque renuncie el primero.
-
-ARTICULO 2,590.- El procurador o abogado que revele a la parte contraria los secretos de su poderdante o cliente, o le suministre documentos o datos que lo perjudiquen, será responsable de todos los daños y perjuicios, quedando, además, sujeto a lo que para estos casos dispone el Código Penal.
-
-ARTICULO 2,591.- El procurador que tuviere justo impedimento para desempeñar su encargo, no podrá abandonarlo sin substituir el mandato, teniendo facultades para ello o sin avisar a su mandante, para que nombre a otra persona.
-
-ARTICULO 2,592.- La representación del procurador, cesa además de los casos expresados en el artículo 2,595:
-
-I.- Por separarse el poderdante de la acción u oposición que haya formulado;
-
-II.- Por haber terminado la personalidad del poderdante;
-
-III.- Por haber transmitido el mandante a otro sus derechos sobre la cosa litigiosa, luego que la transmisión o cesión sea debidamente notificada y se haga constar en autos;
-
-IV.- Por hacer el dueño del negocio alguna gestión en el juicio, manifestando que revoca el mandato;
-
-V.- Por nombrar el mandante otro procurador para el mismo negocio.
-
-ARTICULO 2,593.- El procurador que ha substituído un poder, puede revocar la substitución si tiene facultades para hacerlo, rigiendo también en este caso, respecto del substituto, lo dispuesto en la fracción IV del artículo anterior.
-
-ARTICULO 2,594.- La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
-
-### CAPITULO VI. De los diversos modos de terminar el mandato
-
-ARTICULO 2,595.- El mandato termina:
-
-I.- Por la revocación;
-
-II.- Por la renuncia del mandatario;
-
-III.- Por la muerte del mandante o del mandatario;
-
-IV.- Por la interdicción de uno u otro;
-
-V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
-
-VI.- En los casos previstos por los artículos 670, 671 y 672.
-
-ARTICULO 2,596.- El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como una condición en un contrato bilateral, o como un medio para cumplir una obligación contraída.
-
-En estos casos tampoco puede el mandatario renunciar el poder.
-
-La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
-
-ARTICULO 2,597.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
-
-ARTICULO 2,598.- El mandante puede exigir la devolución del instrumento o escrito en que conste el mandato, y todos los documentos relativos al negocio o negocios que tuvo a su cargo el mandatario.
-
-El mandante que descuide exigir los documentos que acrediten los poderes del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
-
-ARTICULO 2,599.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a éste el nuevo nombramiento.
-
-ARTICULO 2,600.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entretanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
-
-ARTICULO 2,601.- En el caso del artículo anterior, tiene derecho el mandatario para pedir al juez que señale un término corto a los herederos a fin de que se presenten a encargarse de sus negocios.
-
-ARTICULO 2,602.- Si el mandato termina por muerte del mandatario, deben sus herederos dar aviso al mandante y practicar, mientras éste resuelve, solamente las diligencias que sean indispensables para evitar cualquier perjuicio.
-
-ARTICULO 2,603.- El mandatario que renuncie tiene obligación de seguir el negocio mientras el mandante no provee a la procuración, si de lo contrario se sigue algún perjuicio.
-
-ARTICULO 2,604.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2,597.
-
-## TITULO DECIMO. Del contrato de prestación de servicios
-
-### CAPITULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado en el que el operario sólo pone su trabajo y del contrato de aprendizaje
-
-ARTICULO 2,605.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Reglamentaria que debe expedir el Congreso de la Unión, de acuerdo con lo ordenado en el párrafo 1o. del artículo 123 de la Constitución Federal.
-
-Mientras que esa ley no se expida, se observarán las disposiciones contenidas en los capítulos I, II, V y parte relativa del III, del Título XIII, del Libro Tercero del Código Civil para el Distrito y Territorios Federales, que comenzó a estar en vigor el 1o. de junio de 1884, en lo que no contradigan las bases fijadas en el citado artículo 123 constitucional, y lo dispuesto en los artículos 4 y 5 del mismo Código Fundamental.
-
-### CAPITULO II. De la prestación de servicios profesionales
-
-ARTICULO 2,606.- El que presta y el que recibe los servicios profesionales, pueden fijar, de común acuerdo, retribución debida por ellos.
-
-Cuando se trate de profesionistas que estuvieren sindicalizados, se observarán las disposiciones relativas establecidas en el respectivo contrato colectivo de trabajo.
-
-ARTICULO 2,607.- Cuando no hubiere habido convenio, los honorarios se regularán atendiendo juntamente a las costumbre del lugar, a la importancia de los trabajos prestados, a la del asunto o caso en que se prestaren, a las facultades pecuniarias del que recibe el servicio y a la reputación profesional que tenga adquirida el que lo ha prestado. Si los servicios prestados estuvieren regulados por arancel, éste servirá de norma para fijar el importe de los honorarios reclamados.
-
-ARTICULO 2,608.- Los que sin tener el título correspondiente ejerzan profesiones para cuyo ejercicio la ley exija título, además de incurrir en las penas respectivas, no tendrán derecho de cobrar retribución por los servicios profesionales que hayan prestado.
-
-ARTICULO 2,609.- En la prestación de servicios profesionales pueden incluirse las expensas que hayan de hacerse en el negocio en que aquéllos se presten. A falta de convenio sobre su reembolso, los anticipos serán pagados en los términos del artículo siguiente, con el rédito legal, desde el día en que fueren hechos, sin perjuicio de la responsabilidad por daños y perjuicios cuando hubiere lugar a ella.
-
-ARTICULO 2,610.- El pago de los honorarios y de las expensas, cuando las haya, se hará en el lugar de la residencia del que ha prestado los servicios profesionales, inmediatamente que preste cada servicio o al fin de todos, cuando se separe el profesor o haya concluído el negocio o trabajo que se le confió.
-
-ARTICULO 2,611.- Si varias personas encomendaren un negocio, todas ellas serán solidariamente responsables de los honorarios del profesor y de los anticipos que hubiere hecho.
-
-ARTICULO 2,612.- Cuando varios profesores en la misma ciencia presten sus servicios en un negocio o asunto, podrán cobrar los servicios que individualmente haya prestado cada uno.
-
-ARTICULO 2,613.- Los profesores tienen derecho de exigir sus honorarios, cualquiera que sea el éxito del negocio o trabajo que se les encomiende, salvo convenio en contrario.
-
-ARTICULO 2,614.- Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que lo ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen, cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2,589.
-
-ARTICULO 2,615.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
-
-### CAPITULO III. Del contrato de obras a precio alzado
-
-ARTICULO 2,616.- El contrato de obras a precio alzado, cuando el empresario dirige la obra y pone los materiales, se sujetará a las reglas siguientes.
-
-ARTICULO 2,617.- Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-ARTICULO 2,618.- Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de cien pesos, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
-
-ARTICULO 2,619.- Si no hay plano, diseño o presupuesto para la ejecución de la obra y surgen dificultades entre el empresario y el dueño, serán resueltas teniendo en cuenta la naturaleza de la obra, el precio de ella y la costumbre del lugar; oyéndose el dictamen de peritos.
-
-ARTICULO 2,620.- El perito que forme el plano, diseño o presupuesto de una obra, y la ejecute, no puede cobrar el plano, diseño o presupuesto fuera del honorario de la obra; mas si ésta no se ha ejecutado por causa del dueño, podrá cobrarlo, a no ser que al encargárselo se haya pactado que el dueño no lo paga si no le conviniere aceptarlo.
-
-ARTICULO 2,621.- Cuando se haya invitado a varios peritos para hacer planos, diseños o presupuestos, con el objeto de escoger entre ellos el que parezca mejor, y los peritos han tenido conocimiento de esta circunstancia, ninguno puede cobrar honorarios, salvo convenio expreso.
-
-ARTICULO 2,622.- En el caso del artículo anterior, podrá el autor del plano, diseño o presupuesto aceptado, cobrar su valor cuando la obra se ejecutare conforme a él por otra persona.
-
-ARTICULO 2,623.- El autor de un plano, diseño o presupuesto que no hubiere sido aceptado, podrá también cobrar su valor si la obra se ejecutare conforme a él por otra persona, aun cuando se hayan hecho modificaciones en los detalles.
-
-ARTICULO 2,624.- Cuando al encargarse una obra no se ha fijado precio, se tendrá por tal, si los contratantes no estuviesen de acuerdo después, el que designen los aranceles, o a falta de ellos el que tasen peritos.
-
-ARTICULO 2,625.- El precio de la obra se pagará al entregarse ésta, salvo convenio en contrario.
-
-ARTICULO 2,626.- El empresario que se encargue de ejecutar alguna obra por precio determinado, no tiene derecho de exigir después ningún aumento, aunque lo haya tenido el precio de los materiales o el de los jornales.
-
-ARTICULO 2,627.- Lo dispuesto en el artículo anterior, se observará también cuando haya habido algún cambio o aumento en el plano o diseño, a no ser que sean autorizados por escrito por el dueño y con expresa designación del precio.
-
-ARTICULO 2,628.- Una vez pagado y recibido el precio, no ha lugar a reclamación sobre él, a menos que al pagar o recibir, las partes se hayan reservado expresamente el derecho de reclamar.
-
-ARTICULO 2,629.- El que se obliga a hacer una obra por ajuste cerrado, debe comenzar y concluir en los términos designados en el contrato, y en caso contrario, en los que sean suficientes, a juicio de peritos.
-
-ARTICULO 2,630.- El que se obligue a hacer una obra por piezas o por medida, puede exigir que el dueño la reciba en partes y se la pague en proporción de las que reciba.
-
-ARTICULO 2,631.- La parte pagada se presume aprobada y recibida por el dueño; pero no habrá lugar a esa presunción solamente porque el dueño haya hecho adelantos a buena cuenta del precio de la obra, si no se expresa que el pago se aplique a la parte ya entregada.
-
-ARTICULO 2,632.- Lo dispuesto en los dos artículos anteriores, no se observará cuando las piezas que se manden construir no puedan ser útiles, sino formando reunidas un todo.
-
-ARTICULO 2,633.- El empresario que se encargue de ejecutar alguna obra, no puede hacerla ejecutar por otro, a menos que se haya pactado lo contrario, o el dueño lo consienta; en estos casos, la obra se hará siempre bajo la responsabilidad del empresario.
-
-ARTICULO 2,634.- Recibida y aprobada la obra por el que la encargó, el empresario es responsable de los defectos que después aparezcan y que procedan de vicios en su construcción y hechura, mala calidad de los materiales empleados o vicios del suelo en que se fabricó; a no ser que por disposición expresa del dueño se hayan empleado materiales defectuosos, después que el empresario le haya dado a conocer sus defectos, o que se haya edificado en terreno inapropiado elegido por el dueño, a pesar de las observaciones del empresario.
-
-ARTICULO 2,635.- El dueño de una obra ajustada por un precio fijo, puede desistir de la empresa comenzada, con tal que indemnice al empresario de todos los gastos y trabajos y de la utilidad que pudiera haber sacado de la obra.
-
-ARTICULO 2,636.- Cuando la obra fue ajustada por peso o medida, sin designación del número de piezas o de la medida total, el contrato puede resolverse por una y otra parte, concluídas que sean las partes designadas, pagándose la parte concluída.
-
-ARTICULO 2,637.- Pagado el empresario de lo que le corresponde, según los dos artículos anteriores, el dueño queda en libertad de continuar la obra, empleando a otras personas, aun cuando aquélla siga conforme al mismo plano, diseño o presupuesto.
-
-ARTICULO 2,638.- Si el empresario muere antes de terminar la obra, podrá rescindirse el contrato; pero el dueño indemnizará a los herederos de aquél, del trabajo y gastos hechos.
-
-ARTICULO 2,639.- La misma disposición tendrá lugar si el empresario no puede concluir la obra por alguna causa independiente de su voluntad.
-
-ARTICULO 2,640.- Si muere el dueño de la obra, no se rescindirá el contrato, y sus herederos serán responsables del cumplimiento para con el empresario.
-
-ARTICULO 2,641.- Los que trabajen por cuenta del empresario o le suministren material para la obra, no tendrán acción contra el dueño de ella, sino hasta la cantidad que alcance el empresario.
-
-ARTICULO 2,642.- El empresario es responsable del trabajo ejecutado por las personas que ocupe en la obra.
-
-ARTICULO 2,643.- Cuando se conviniere en que la obra deba hacerse a satisfacción del propietario o de otra persona, se entiende reservada la aprobación, a juicio de peritos.
-
-ARTICULO 2,644.- El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no se le pague, y su crédito será cubierto preferentemente con el precio de dicha obra.
-
-ARTICULO 2,645.- Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
-
-### CAPITULO IV. De los porteadores y alquiladores
-
-ARTICULO 2,646.- El contrato por el cual alguno se obliga a transportar, bajo su inmediata dirección o la de sus dependientes, por tierra, por agua o por el aire, a personas, animales, mercaderías o cualesquiera otros objetos; si no constituye un contrato mercantil, se regirá por las reglas siguientes.
-
-ARTICULO 2,647.- Los porteadores responden del daño causado a las personas por defecto de los conductores y medios de transporte que empleen; y este defecto se presume siempre que el empresario no pruebe que el mal aconteció por fuerza mayor o por caso fortuito que no le puede ser imputado.
-
-ARTICULO 2,648.- Responden, igualmente, de la pérdida y de las averías de las cosas que reciban, a no ser que prueben que la pérdida o la avería ha provenido de caso fortuito, de fuerza mayor o de vicio de las mismas cosas.
-
-ARTICULO 2,649.- Responden también de las omisiones o equivocación que haya en la remisión de efectos, ya sea que no los envíen en el viaje estipulado, ya sea que los envíen a parte distinta de la convenida.
-
-ARTICULO 2,650.- Responden, igualmente, de los daños causados por retardo en el viaje, ya sea al comenzarlo o durante su curso, o por mutación de ruta, a menos que prueben que caso fortuito o fuerza mayor los obligó a ello.
-
-ARTICULO 2,651.- Los porteadores no son responsables de las cosas que no se les entreguen a ellos, sino a sus cocheros, marineros, remeros o dependientes, que no estén autorizados para recibirlas.
-
-ARTICULO 2,652.- En el caso del artículo anterior, la responsabilidad es exclusiva de la persona a quien se entregó la cosa.
-
-ARTICULO 2,653.- La responsabilidad de todas las infracciones que durante el transporte se cometa, de leyes o reglamentos fiscales o de policía, será del conductor y no de los pasajeros ni de los dueños de las cosas conducidas, a no ser que la falta haya sido cometida por estas personas.
-
-ARTICULO 2,654.- El porteador no será responsable de las faltas de que trata el artículo que precede, en cuanto a las penas, sino cuando tuviere culpa; pero lo será siempre de la indemnización de los daños y perjuicios, conforme a las prescripciones relativas.
-
-ARTICULO 2,655.- Las personas transportadas no tienen derecho para exigir aceleración o retardo en el viaje, ni alteración alguna en la ruta, ni en las detenciones o paradas, cuando estos actos estén marcados por el reglamento respectivo o por el contrato.
-
-ARTICULO 2,656.- El porteador de efectos deberá extender al cargador una carta de porte de la que éste podrá pedir una copia. En dicha carta se expresarán:
-
-I.- El nombre, apellido y domicilio del cargador;
-
-II.- El nombre, apellido y domicilio del porteador;
-
-III.- El nombre, apellido y domicilio de la persona a quien o a cuya orden van dirigidos los efectos, o si han de entregarse al portador de la misma carta;
-
-IV.- La designación de los efectos, con expresión de su calidad genérica, de su peso y de las marcas o signos exteriores de los bultos en que se contengan;
-
-V.- El precio del transporte;
-
-VI.- La fecha en que se hace la expedición;
-
-VII.- El lugar de la entrega al porteador;
-
-VIII.- El lugar y el plazo en que habrá de hacerse la entrega al consignatario;
-
-IX.- La indemnización que haya de abonar el porteador en caso de retardo, si sobre este punto mediare algún pacto.
-
-ARTICULO 2,657.- Las acciones que nacen del transporte, sean en pro o en contra de los porteadores, no duran más de seis meses, después de concluído el viaje.
-
-ARTICULO 2,658.- Si la cosa transportada fuere de naturaleza peligrosa, de mala calidad o no estuviere convenientemente empacada o envasada, y el daño proviniere de alguna de esas circunstancias, la responsabilidad será del dueño del transporte, si tuvo conocimiento de ellas; en caso contrario, la responsabilidad será del que contrató con el porteador, tanto por el daño que se cause en la cosa, como por el que reciban el medio de transporte u otras personas u objetos.
-
-ARTICULO 2,659.- El alquilador debe declarar los defectos de la cabalgadura o de cualquier otro medio de transporte, y es responsable de los daños y perjuicios que resulten de la falta de esta declaración.
-
-ARTICULO 2,660.- Si la cabalgadura muere o se enferma, o si en general se inutiliza el medio de transporte, la pérdida será de cuenta del alquilador, si no prueba que el daño sobrevino por culpa del otro contratante.
-
-ARTICULO 2,661.- A falta de convenio expreso, se observará la costumbre del lugar, ya sobre el importe del precio y de los gastos, ya sobre el tiempo en que haya de hacerse el pago.
-
-ARTICULO 2,662.- El crédito por fletes que se adeudaren al porteador, serán pagados preferentemente con el precio de los efectos transportados, si se encuentran en poder del acreedor.
-
-ARTICULO 2,663.- El contrato de transporte es rescindible a voluntad del cargador, antes o después de comenzarse el viaje, pagando en el primer caso al porteador la mitad, y en el segundo la totalidad del porte, y siendo obligación suya recibir los efectos en el punto y en el día en que la rescisión se verifique. Si no cumpliere con esta obligación, o no pagare el porte al contado, el contrato no quedará rescindido.
-
-ARTICULO 2,664.- El contrato de transporte se rescindirá de hecho antes de emprenderse el viaje, o durante su curso, si sobreviniere algún suceso de fuerza mayor que impida verificarlo o continuarlo.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,665.- En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho si el viaje no se ha verificado; y si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los efectos, para su depósito, a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deben quedar.
-
-### CAPITULO V. Del Contrato de Hospedaje
-
-ARTICULO 2,666.- El contrato de hospedaje tiene lugar cuando alguno presta a otro albergue, mediante la retribución convenida, comprendiéndose o no, según se estipule, los alimentos y demás gastos que origine el hospedaje.
-
-ARTICULO 2,667.- Este contrato se celebrará tácitamente, si el que presta el hospedaje tiene casa pública destinada a ese objeto.
-
-ARTICULO 2,668.- El hospedaje expreso se rige por las condiciones estipuladas y el tácito por el reglamento que expedirá la autoridad competente y que el dueño del establecimiento deberá tener siempre por escrito en lugar visible.
-
-ARTICULO 2,669.- Los equipajes de los pasajeros responden preferentemente del importe del hospedaje; a ese efecto, los dueños de los establecimientos donde se hospeden podrán retenerlos en prenda hasta que obtengan el pago de lo adeudado.
-
-TITULO DECIMOPRIMERO
-
-De las asociaciones y de las sociedades
-
-I
-
-De las asociaciones
-
-ARTICULO 2,670.- Cuando varios individuos convienen en reunirse, de manera que no sea enteramente transitoria, para realizar un fin común que no esté prohibido por la ley y que no tenga carácter preponderantemente económico, constituyen una asociación.
-
-ARTICULO 2,671.- El contrato por el que se constituya una asociación, debe constar por escrito.
-
-ARTICULO 2,672.- La asociación puede admitir y excluir asociados.
-
-ARTICULO 2,673.- Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Registro Público para que produzcan efectos contra tercero.
-
-ARTICULO 2,674.- El poder supremo de las asociaciones reside en la asamblea general. El director o directores de ellas tendrán las facultades que les conceden los estatutos y la asamblea general, con sujeción a estos documentos.
-
-ARTICULO 2,675.- La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por lo menos por el cinco por ciento de los asociados, o si no lo hiciere, en su lugar lo hará el juez de lo civil a petición de dichos asociados.
-
-ARTICULO 2,676.- La asamblea general resolverá:
-
-I.- Sobre la admisión y exclusión de los asociados;
-
-II.- Sobre la disolución anticipada de la asociación o sobre su prórroga por más tiempo del fijado en los estatutos;
-
-III.- Sobre el nombramiento de director o directores cuando no hayan sido nombrados en la escritura constitutiva;
-
-IV.- Sobre la revocación de los nombramientos hechos;
-
-V.- Sobre los demás asuntos que le encomienden los estatutos.
-
-ARTICULO 2,677.- Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día.
-
-Sus decisiones serán tomadas a mayoría de votos de los miembros presentes.
-
-ARTICULO 2,678.- Cada asociado gozará de un voto en las asambleas generales.
-
-ARTICULO 2,679.- El asociado no votará las decisiones en que se encuentren directamente interesados él, su cónyuge, sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
-
-ARTICULO 2,680.- Los miembros de la asociación tendrán derecho de separarse de ella, previo aviso dado con dos meses de anticipación.
-
-ARTICULO 2,681.- Los asociados sólo podrán ser excluídos de la sociedad por las causas que señalen los estatutos.
-
-ARTICULO 2,682.- Los asociados que voluntariamente se separen o que fueren excluídos, perderán todo derecho al haber social.
-
-ARTICULO 2,683.- Los socios tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de contabilidad y demás papeles de ésta.
-
-ARTICULO 2,684.- La calidad de socio es intransferible.
-
-ARTICULO 2,685.- Las asociaciones, además de las causas previstas en los estatutos, se extinguen:
-
-I.- Por consentimiento de la asamblea general;
-
-II.- Por haber concluído el término fijado para su duración o por haber conseguido totalmente el objeto de su fundación;
-
-III.- Por haberse vuelto incapaces de realizar el fin para que fueron fundadas;
-
-IV.- Por resolución dictada por autoridad competente.
-
-ARTICULO 2,686.- En caso de disolución, los bienes de la asociación se aplicarán conforme a lo que determinen los estatutos y a falta de disposición de éstos, según lo que determine la asamblea general. En este caso la asamblea sólo podrá atribuir a los asociados la parte del activo social que equivalga a sus aportaciones. Los demás bienes se aplicarán a otra asociación o fundación de objeto similar a la extinguida.
-
-ARTICULO 2,687.- Las asociaciones de beneficencia se regirán por las leyes especiales correspondientes.
-
-II
-
-De las sociedades
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-### CAPITULO I. Disposiciones generales
-
-ARTICULO 2,688.- Por el contrato de sociedad los socios se obligan mutuamente a combinar sus recursos o sus esfuerzos para la realización de un fin común, de carácter preponderantemente económico, pero que no constituya una especulación comercial.
-
-ARTICULO 2,689.- La aportación de los socios puede consistir en una cantidad de dinero u otros bienes, o en su industria. La aportación de bienes implica la transmisión de su dominio a la sociedad, salvo que expresamente se pacte otra cosa.
-
-ARTICULO 2,690.- El contrato de sociedad debe constar por escrito; pero se hará constar en escritura pública, cuando algún socio transfiera a la sociedad bienes cuya enajenación deba hacerse en escritura pública.
-
-ARTICULO 2,691.- La falta de forma prescrita para el contrato de sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo, que se haga la liquidación de la sociedad conforme a lo convenido, y a falta de convenio, conforme al Capítulo V de esta Sección; pero mientras que esa liquidación no se pida, el contrato produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con la sociedad, la falta de forma.
-
-ARTICULO 2,692.- Si se formare una sociedad para un objeto ilícito, a solicitud de cualquiera de los socios o de un tercero interesado, se declarará la nulidad de la sociedad, la cual se pondrá en liquidación.
-
-Después de pagadas las deudas sociales conforme a la ley, a los socios se les reembolsará lo que hubieren llevado a la sociedad.
-
-Las utilidades se destinarán a los establecimientos de beneficencia pública del lugar del domicilio de la sociedad.
-
-ARTICULO 2,693.- El contrato de sociedad debe contener:
-
-I.- Los nombres y apellidos de los otorgantes que son capaces de obligarse;
-
-II.- La razón social;
-
-III.- El objeto de la sociedad;
-
-IV.- El importe del capital social y la aportación con que cada socio debe contribuir;
-
-Si falta alguno de estos requisitos se aplicará lo que dispone el artículo 2,691.
-
-ARTICULO 2,694.- El contrato de sociedad debe inscribirse en el Registro de Sociedades Civiles para que produzca efectos contra tercero.
-
-ARTICULO 2,695.- Las sociedades de naturaleza civil, que tomen la forma de las sociedades mercantiles, quedan sujetas al Código de Comercio.
-
-ARTICULO 2,696.- Será nula la sociedad en que se estipule que los provechos pertenezcan exclusivamente a alguno o algunos de los socios y todas las pérdidas a otro u otros.
-
-ARTICULO 2,697.- No puede estipularse que a los socios capitalistas se les restituya su aporte con una cantidad adicional, haya o no ganancias.
-
-ARTICULO 2,698.- El contrato de sociedad no puede modificarse sino por consentimiento unánime de los socios.
-
-ARTICULO 2,699.- Después de la razón social, se agregarán estas palabras "Sociedad Civil."
-
-ARTICULO 2,700.- La capacidad para que las sociedades adquieran bienes raíces, se regirá por lo dispuesto en el artículo 27 de la Constitución Federal y en sus leyes reglamentarias.
-
-ARTICULO 2,701.- No quedan comprendidas en este título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
-
-### CAPITULO II. De los socios
-
-ARTICULO 2,702.- Cada socio estará obligado al saneamiento para el caso de evicción de las cosas que aporte a la sociedad como corresponde a todo enajenante, y a indemnizar por los defectos de esas cosas como lo está el vendedor respecto del comprador; mas si lo que prometió fue el aprovechamiento de bienes determinados, responderá por ellos según los principios que rigen las obligaciones entre el arrendador y el arrendatario.
-
-ARTICULO 2,703.- A menos que se haya pactado en el contrato de sociedad, no puede obligarse a los socios a hacer una nueva aportación para ensanchar los negocios sociales. Cuando el aumento del capital social sea acordado por la mayoría, los socios que no estén conformes pueden separarse de la sociedad.
-
-ARTICULO 2,704.- Las obligaciones sociales estarán garantizadas subsidiariamente por la responsabilidad ilimitada y solidaria de los socios que administren; los demás socios, salvo convenio en contrario, sólo estarán obligados con su aportación.
-
-ARTICULO 2,705.- Los socios no pueden ceder sus derechos sin el consentimiento previo y unánime de los demás coasociados; y sin él tampoco pueden admitirse otros nuevos socios, salvo pacto en contrario, en uno y en otro caso.
-
-ARTICULO 2,706.- Los socios gozarán del derecho del tanto. Si varios socios quieren hacer uso del tanto, les competerá éste en la proporción que representen. El término para hacer uso del derecho del tanto, será el de ocho días, contados desde que reciban aviso del que pretende enajenar.
-
-ARTICULO 2,707.- Ningún socio puede ser excluído de la sociedad sino por el acuerdo unánime de los demás socios y por causa grave prevista en los estatutos.
-
-ARTICULO 2,708.- El socio excluido es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
-
-### CAPITULO III. De la administración de la sociedad
-
-ARTICULO 2,709.- La administración de la sociedad puede conferirse a uno o más socios. Habiendo socios especialmente encargados de la administración, los demás no podrán contrariar ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiese limitado a alguno de los socios, se observará lo dispuesto en el artículo 2,719.
-
-ARTICULO 2,710.- El nombramiento de los socios administradores, no priva a los demás socios del derecho de examinar el estado de los negocios sociales y de exigir a este fin la presentación de libros, documentos y papeles, con el objeto de que puedan hacerse las reclamaciones que estimen convenientes. No es válida la renuncia del derecho consignado en este artículo.
-
-ARTICULO 2,711.- El nombramiento de los socios administradores, hecho en la escritura de sociedad, no podrá revocarse sin el consentimiento de todos los socios, a no ser judicialmente, por dolo, culpa o inhabilidad.
-
-El nombramiento de administradores, hecho después de constituída la sociedad, es revocable por mayoría de votos.
-
-ARTICULO 2,712.- Los socios administradores ejercerán las facultades que fueren necesarias al giro y desarrollo de los negocios que formen el objeto de la sociedad; pero salvo convenio en contrario necesitan autorización expresa de los otros socios:
-
-I.- Para enajenar las cosas de la sociedad, si ésta no se ha constituído con ese objeto;
-
-II.- Para empeñarlas, hipotecarlas o gravarlas con cualquier otro derecho real;
-
-III.- Para tomar capitales prestados.
-
-ARTICULO 2,713.- Las facultades que no se hayan concedido a los administradores, serán ejercitadas por todos los socios, resolviéndose los asuntos por mayoría de votos. La mayoría se computará por cantidades, pero cuando una sola persona represente el mayor interés y se trate de sociedades de más de tres socios, se necesita por lo menos el voto de la tercera parte de los socios.
-
-ARTICULO 2,714.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de éllos practicar separadamente los actos administrativos que crea oportunos.
-
-ARTICULO 2,715.- Si se ha convenido en que un administrador nada pueda practicar sin concurso de otro, solamente podrá proceder de otra manera, en caso de que pueda resultar perjuicio grave e irreparable a la sociedad.
-
-ARTICULO 2,716.- Los compromisos contraídos por los socios administradores en nombre de la sociedad, excediéndose de sus facultades, si no son ratificados por ésta, sólo obligan a la sociedad en razón del beneficio recibido.
-
-ARTICULO 2,717.- Las obligaciones que se contraigan por la mayoría de los socios encargados de la administración, sin conocimiento de la minoría, o contra su voluntad expresa, serán válidas; pero los que las hayan contraído serán personalmente responsables a la sociedad de los perjuicios que por ellas se cause.
-
-ARTICULO 2,718.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pida la mayoría de los socios, aun cuando no sea la época fijada en el contrato de sociedad.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,719.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose, respecto de ésta lo dispuesto en el artículo 2,713.
-
-### CAPITULO IV. De la disolución de las sociedades
-
-ARTICULO 2,720.- La sociedad se disuelve:
-
-I.- Por consentimiento unánime de los socios;
-
-II.- Por haberse cumplido el término prefijado en el contrato de sociedad;
-
-III.- Por la realización completa del fin social, o por haberse vuelto imposible la consecución del objeto de la sociedad;
-
-IV.- Por la muerte o incapacidad de uno de los socios que tengan responsabilidad ilimitada por los compromisos sociales, salvo que en la escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
-
-V.- Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad;
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-VI.- Por la renuncia de uno de los socios, cuando se trate de sociedades de duración indeterminada y los otros socios no deseen continuar asociados, siempre que esa renuncia no sea maliciosa ni extemporánea;
-
-VII.- Por resolución judicial.
-
-Para que la disolución de la sociedad surta efecto contra tercero, es necesario que se haga constar en el Registro de Sociedades.
-
-ARTICULO 2,721.- Pasado el término por el cual fue constituída la sociedad, si ésta continúa funcionando, se entenderá prorrogada su duración por tiempo indeterminado, sin necesidad de nueva escritura social, y su existencia puede demostrarse por todos los medios de prueba.
-
-ARTICULO 2,722.- En el caso de que a la muerte de un socio, la sociedad hubiere de continuar con los supervivientes, se procederá a la liquidación de la parte que corresponda al socio difunto, para entregarla a su sucesión. Los herederos del que murió tendrán derecho al capital y utilidades que al finado correspondan en el momento en que murió y, en lo sucesivo, sólo tendrán parte en lo que dependa necesariamente de los derechos adquiridos o de las obligaciones contraídas por el socio que murió.
-
-ARTICULO 2,723.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios o evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al convenio.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,724.- Se dice extemporánea la renuncia, si al hacerla, las cosas no se hallan en su estado íntegro y la sociedad puede ser perjudicada con la disolución que originaría la renuncia.
-
-ARTICULO 2,725.- La disolución de la sociedad no modifica los compromisos contraídos con terceros.
-
-### CAPITULO V. De la liquidación de la sociedad
-
-ARTICULO 2,726.- Disuelta la sociedad, se pondrá inmediatamente en liquidación, la cual se practicará dentro del plazo de seis meses, salvo pacto en contrario.
-
-Cuando la sociedad se ponga en liquidación, debe agregarse a su nombre las palabras: "en liquidación."
-
-ARTICULO 2,727.- La liquidación debe hacerse por todos los socios, salvo que convengan en nombrar liquidadores o que ya estuvieren nombrados en la escritura social.
-
-ARTICULO 2,728.- Si cubiertos los compromisos sociales y devueltos los aportes de los socios, quedaren algunos bienes, se considerarán utilidades, y se repartirán entre los socios en la forma convenida. Si no hubo convenio, se repartirán proporcionalmente a sus aportes.
-
-ARTICULO 2,729.- Ni el capital social ni las utilidades pueden repartirse sino después de la disolución de la sociedad y previa la liquidación respectiva, salvo pacto en contrario.
-
-ARTICULO 2,730.- Si al liquidarse la sociedad no quedaren bienes suficientes para cubrir los compromisos sociales y devolver sus aportes a los socios, el déficit se considerará pérdida y se repartirá entre los asociados en la forma establecida en el artículo anterior.
-
-ARTICULO 2,731.- Si sólo se hubiere pactado lo que debe corresponder a los socios por utilidades, en la misma proporción responderán de las pérdidas.
-
-ARTICULO 2,732.- Si alguno de los socios contribuye sólo con su industria, sin que ésta se hubiere estimado, ni se hubiere designado cuota que por ella debiera recibir, se observarán las reglas siguientes:
-
-I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que corresponda por razón de sueldos u honorarios y esto mismo se observará si son varios los socios industriales;
-
-II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más;
-
-III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias;
-
-IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio y, a falta de éste, por decisión arbitral.
-
-ARTICULO 2,733.- Si el socio industrial hubiere contribuído también con cierto capital, se considerarán éste y la industria separadamente.
-
-ARTICULO 2,734.- Si al terminar la sociedad en que hubiere socios capitalistas e industriales, resultare que no hubo ganancias, todo el capital se distribuirá entre los socios capitalistas.
-
-ARTICULO 2,735.- Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1988)</small>
-
-### CAPITULO VI. De las Personas Morales Extranjeras de Naturaleza Privada
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 2,736.- La existencia, capacidad para ser titular de derechos y obligaciones, funcionamiento, transformación, disolución, liquidación y fusión de la (sic) personas morales extranjeras de naturaleza privada se regirán por el derecho de su constitución, entendiéndose por tal, aquél del estado en que se cumplan los requisitos de forma y fondo requeridos para la creación de dichas personas.
-
-En ningún caso el reconocimiento de la capacidad de una persona moral extranjera excederá a la que le otorgue el derecho conforme al cual se constituyó.
-
-Cuando alguna persona extranjera de naturaleza privada actúe por medio de algún representante, se considerará que tal representante, o quien lo substituya, está autorizado para responder a las reclamaciones y demandas que se intenten en contra de dicha persona con motivo de los actos en cuestión.
-
-ARTICULO 2,737.- (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
-
-ARTICULO 2,738.- (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
-
-### CAPITULO VII. De la aparcería rural
-
-ARTICULO 2,739.- La aparcería rural comprende la aparcería agrícola y la de ganados.
-
-ARTICULO 2,740.- El contrato de aparcería deberá otorgarse por escrito, formándose dos ejemplares, uno para cada contratante.
-
-ARTICULO 2,741.- Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan, o a falta de convenio, conforme a las costumbres del lugar; en el concepto de que al aparcero nunca podrá corresponderle por sólo su trabajo menos del 40% de la cosecha.
-
-ARTICULO 2,742.- Si durante el término del contrato falleciere el dueño del predio dado en aparcería, o éste fuere enajenado, la aparcería subsistirá.
-
-Si es el aparcero el que muere, el contrato puede darse por terminado, salvo pacto en contrario.
-
-Cuando a la muerte del aparcero ya se hubieren hecho algunos trabajos, tales como el barbecho del terreno, la poda de los árboles, o cualquiera otra obra necesaria para el cultivo, si el propietario dá por terminado el contrato, tiene obligación de pagar a los herederos del aparcero el importe de esos trabajos, en cuanto se aproveche de ellos.
-
-ARTICULO 2,743.- El labrador que tuviere heredades en aparcería, no podrá levantar las mieses o cosechar los frutos en que deba tener parte, sin dar aviso al propietario o a quien haga sus veces, estando en el lugar o dentro de la municipalidad a que corresponda el predio.
-
-ARTICULO 2,744.- Si ni en el lugar, ni dentro de la municipalidad se encuentran el propietario o su representante, podrá el aparcero hacer la cosecha, midiendo, contando o pesando los frutos a presencia de dos testigos mayores de toda excepción.
-
-ARTICULO 2,745.- Si el aparcero no cumple lo dispuesto en los dos artículos anteriores, tendrá obligación de entregar al propietario la cantidad de frutos que, de acuerdo con el contrato, fijen peritos nombrados uno por cada parte contratante. Los honorarios de los peritos serán cubiertos por el aparcero.
-
-ARTICULO 2,746.- El propietario del terreno no podrá levantar la cosecha sino cuando el aparcero abandone la siembra.
-
-En este caso, se observará lo dispuesto en la parte final del artículo 2,744, y si no lo hace, se aplicará por analogía lo dispuesto en el artículo 2,745.
-
-ARTICULO 2,747.- El propietario del terreno no tiene derecho de retener de propia autoridad, todos o parte de los frutos que correspondan al aparcero, para garantizar lo que éste le deba por razón del contrato de aparcería.
-
-ARTICULO 2,748.- Si la cosecha se pierde por completo, el aparcero no tiene obligación de pagar las semillas que le haya proporcionado para la siembra el dueño del terreno; si la pérdida de la cosecha es parcial, en proporción a esa pérdida quedará libre el aparcero de pagar las semillas de que se trata.
-
-ARTICULO 2,749.- Cuando el aparcero establezca su habitación en el campo que va a cultivar, tiene obligación el propietario de permitirle que construya su casa y de que tome el agua potable y la leña que necesite para satisfacer sus necesidades y las de su familia, así como que consuma el pasto indispensable para alimentar los animales que emplee en el cultivo.
-
-ARTICULO 2,750.- Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielmente sus compromisos, goza del derecho del tanto, si la tierra que estuvo cultivando va a ser dada en nueva aparcería.
-
-ARTICULO 2,751.- El propietario no tiene derecho de dejar sus tierras ociosas, sino el tiempo que sea necesario para que recobren sus propiedades fertilizantes. En consecuencia, pasada la época que en cada región fije la autoridad municipal, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar por sí o por medio de otros, tiene obligación de darlas en aparcería conforme a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
-
-ARTICULO 2,752.- Tiene lugar la aparcería de ganados cuando una persona da a otra cierto número de animales a fin de que los cuide y alimente, con el objeto de repartirse los frutos en la proporción que convenga.
-
-ARTICULO 2,753.- Constituyen el objeto de esta aparcería las crías de los animales y sus productos, como pieles, crines, lanas, leche, etc.
-
-ARTICULO 2,754.- Las condiciones de este contrato se regularán por la voluntad de los interesados; pero a falta de convenio se observará la costumbre general del lugar, salvas (sic) las siguientes disposiciones.
-
-ARTICULO 2,755.- El aparcero de ganados está obligado a emplear en la guarda y tratamiento de los animales, el cuidado que ordinariamente emplee en sus cosas; y si así no lo hiciere, será responsable de los daños y perjuicios.
-
-ARTICULO 2,756.- El propietario está obligado a garantizar a su aparcero la posesión y el uso del ganado y a substituir por otros, en caso de evicción, los animales perdidos; de lo contrario, es responsable de los daños y perjuicios a que diere lugar por la falta de cumplimiento del contrato.
-
-ARTICULO 2,757.- Será nulo el convenio de que todas las pérdidas que resultaren por caso fortuito, sean de cuenta del aparcero de ganados.
-
-ARTICULO 2,758.- El aparcero de ganados no podrá disponer de ninguna cabeza, ni de las crías, sin consentimiento del propietario, ni éste sin el de aquél.
-
-ARTICULO 2,759.- El aparcero de ganados no podrá hacer el esquileo sin dar aviso al propietario, y si omite darlo, se aplicará lo dispuesto en el artículo 2,745.
-
-ARTICULO 2,760.- La aparcería de ganados dura el tiempo convenido, y a falta de convenio, el tiempo que fuere costumbre en el lugar.
-
-ARTICULO 2,761.- El propietario cuyo ganado se enajena indebidamente por el aparcero, tiene derecho para reivindicarlo, menos cuando se haya rematado en pública subasta; pero conservará a salvo el que le corresponda contra el aparcero, para cobrarle los daños y perjuicios ocasionados por la falta de aviso.
-
-ARTICULO 2,762.- Si el propietario no exige su parte dentro de los sesenta días después de fenecido el tiempo del contrato, se entenderá prorrogado éste por un año.
-
-ARTICULO 2,763.- En el caso de venta de los animales, antes de que termine el contrato de aparcería, disfrutarán los contratantes del derecho del tanto.
-
-TITULO DECIMOSEGUNDO
-
-De los contratos aleatorios
-
-### CAPITULO I. Del juego y de la apuesta
-
-ARTICULO 2,764.- La ley no concede acción para reclamar lo que se gana en juego prohibido.
-
-El Código Penal señalará cuáles son los juegos prohibidos.
-
-ARTICULO 2,765.- El que paga voluntariamente una deuda procedente del juego prohibido, o sus herederos, tienen derecho de reclamar la devolución del 50% de lo que se pagó. El otro cincuenta por ciento no quedará en poder del ganancioso, sino que se entregará a la Beneficencia Pública.
-
-ARTICULO 2,766.- Lo dispuesto en los dos artículos anteriores se aplicará a las apuestas que deban tenerse como prohibidas porque tengan analogía con los juegos prohibidos.
-
-ARTICULO 2,767.- El que pierde en un juego o apuesta que no estén prohibidos, queda obligado civilmente, con tal que la pérdida no exceda de la vigésima parte de su fortuna. Prescribe en treinta días el derecho para exigir la deuda de juego a que este artículo se refiere.
-
-ARTICULO 2,768.- La deuda de juego o de apuesta prohibidos no puede compensarse, ni ser convertida por novación en una obligación civilmente eficaz.
-
-ARTICULO 2,769.- El que hubiere firmado una obligación que en realidad tenía por causa una deuda de juego o de apuesta prohibidos, conserva, aunque se atribuya a la obligación una causa civilmente eficaz, la excepción que nace del artículo anterior, y se puede probar por todos los medios la causa real de la obligación.
-
-ARTICULO 2,770.- Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor debe pagarla al portador de buena fe; pero tendrá el derecho que le concede el artículo 2,765.
-
-ARTICULO 2,771.- Cuando las personas se sirvieren del medio de la suerte, no como apuesta o juego, sino para dividir cosas comunes o terminar cuestiones, producirá, en el primer caso, los efectos de una participación legítima, y en el segundo, los de una transacción.
-
-ARTICULO 2,772.- Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las leyes especiales que las autoricen, y las segundas, por los reglamentos de policía.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-ARTICULO 2,773.- El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Distrito Federal a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
-
-### CAPITULO II. De la renta vitalicia
-
-ARTICULO 2,774.- La renta vitalicia es un contrato aleatorio por el cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas, mediante la entrega de una cantidad de dinero o de una cosa mueble o raíz estimadas, cuyo dominio se le transfiere desde luego.
-
-ARTICULO 2,775.- La renta vitalicia puede también constituirse a título puramente gratuito, sea por donación o por testamento.
-
-ARTICULO 2,776.- El contrato de renta vitalicia debe hacerse por escrito, y en escritura pública, cuando los bienes cuya propiedad se transfiere deban enajenarse con esa solemnidad.
-
-ARTICULO 2,777.- El contrato de renta vitalicia puede constituirse sobre la vida del que da el capital, sobre la del deudor o sobre la de un tercero. También puede constituirse a favor de aquella o de aquellas personas sobre cuya vida se otorga o a favor de otra u otras personas distintas.
-
-ARTICULO 2,778.- Aunque cuando la renta se constituya a favor de una persona que no ha puesto el capital, debe considerarse como una donación, no se sujeta a los preceptos que arreglan ese contrato, salvo los casos en que deba ser reducida por inoficiosa o anulada por incapacidad del que debe recibirla.
-
-ARTICULO 2,779.- El contrato de renta vitalicia es nulo si la persona sobre cuya vida se constituye ha muerto antes de su otorgamiento.
-
-ARTICULO 2,780.- También es nulo el contrato si la persona a cuyo favor se constituye la renta, muere dentro del plazo que en él se señale y que no podrá bajar de treinta días, contados desde el del otorgamiento.
-
-ARTICULO 2,781.- Aquél a cuyo favor se ha constituído la renta, mediante un precio, puede demandar la rescisión del contrato, si el constituyente no le da o conserva las seguridades estipuladas para su ejecución.
-
-ARTICULO 2,782.- La sola falta de pago de las pensiones no autoriza al pensionista para demandar el reembolso del capital o la devolución de la cosa dada para constituir la renta.
-
-ARTICULO 2,783.- El pensionista, en el caso del artículo anterior, sólo tiene derecho de ejecutar judicialmente al deudor, por el pago de las rentas vencidas, y para pedir el aseguramiento de las futuras.
-
-ARTICULO 2,784.- La renta correspondiente al año en que muere el que la disfruta, se pagará en proporción a los días que éste vivió; pero si debía pagarse por plazos anticipados, se pagará el importe total del plazo que durante la vida del rentista se hubiere comenzado a cumplir.
-
-ARTICULO 2,785.- Solamente el que constituye a título gratuito una renta sobre sus bienes, puede disponer, al tiempo del otorgamiento, que no estará sujeta a embargo por derecho de un tercero.
-
-ARTICULO 2,786.- Lo dispuesto en el artículo anterior no comprende las contribuciones.
-
-ARTICULO 2,787.- Si la renta se ha constituído para alimentos, no podrá ser embargada sino en la parte que a juicio del juez exceda de la cantidad que sea necesaria para cubrir aquéllos, según las circunstancias de la persona.
-
-ARTICULO 2,788.- La renta vitalicia constituída sobre la vida del mismo pensionista, no se extingue sino con la muerte de éste.
-
-ARTICULO 2,789.- Si la renta se constituye sobre la vida de un tercero, no cesará con la muerte del pensionista, sino que se transmitirá a sus herederos, y sólo cesará con la muerte de la persona sobre cuya vida se constituyó.
-
-ARTICULO 2,790.- El pensionista sólo puede demandar las pensiones, justificando su supervivencia o la de la persona sobre cuya vida se constituyó la renta.
-
-ARTICULO 2,791.- Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquel sobre cuya vida había sido constituída, debe devolver el capital al que la constituyó o a sus herederos.
-
-### CAPITULO III. De la compra de esperanza
-
-ARTICULO 2,792.- Se llama compra de esperanza al contrato que tiene por objeto adquirir por una cantidad determinada, los frutos que una cosa produzca en el tiempo fijado, tomando el comprador para sí el riesgo de que esos frutos no lleguen a existir; o bien, los productos inciertos de un hecho, que puedan estimarse en dinero.
-
-El vendedor tiene derecho al precio aunque no lleguen a existir los frutos o productos comprados.
-
-ARTICULO 2,793.- Los demás derechos y obligaciones de las partes, en la compra de esperanza, serán los que se determinan en el título de compra-venta.
-
-TITULO DECIMOTERCERO
-
-De la fianza
-
-### CAPITULO I. De la fianza en general
-
-ARTICULO 2,794.- La fianza es un contrato por el cual una persona se compromete con el acreedor a pagar por el deudor, si éste no lo hace.
-
-ARTICULO 2,795.- La fianza puede ser legal, judicial, convencional, gratuita o a título oneroso.
-
-ARTICULO 2,796.- La fianza puede constituirse no sólo en favor del deudor principal, sino en el del fiador, ya sea que uno u otro, en su respectivo caso, consienta en la garantía, ya sea que la ignore, ya sea que la contradiga.
-
-ARTICULO 2,797.- La fianza no puede existir sin una obligación válida.
-
-Puede, no obstante, recaer sobre una obligación cuya nulidad pueda ser reclamada a virtud de una excepción puramente personal del obligado.
-
-ARTICULO 2,798.- Puede también prestarse fianza en garantía de deudas futuras, cuyo importe no sea aún conocido; pero no se podrá reclamar contra el fiador hasta que la deuda sea líquida.
-
-ARTICULO 2,799.- El fiador puede obligarse a menos y no a más que el deudor principal. Si se hubiere obligado a más, se reducirá su obligación a los límites de la del deudor. En caso de duda sobre si se obligó por menos o por otro tanto de la obligación principal, se presume que se obligó por otro tanto.
-
-ARTICULO 2,800.- Puede también obligarse el fiador a pagar una cantidad en dinero, si el deudor principal no presta una cosa o un hecho determinado.
-
-ARTICULO 2,801.- La responsabilidad de los herederos del fiador se rige por lo dispuesto en el artículo 1,998.
-
-ARTICULO 2,802.- El obligado a dar fiador debe presentar persona que tenga capacidad para obligarse y bienes suficientes para responder de la obligación que garantiza. El fiador se entenderá sometido a la jurisdicción del juez del lugar donde ésta obligación deba cumplirse.
-
-ARTICULO 2,803.- En las obligaciones a plazo o de prestación periódica, el acreedor podrá exigir fianza, aun cuando en el contrato no se haya constituído, si después de celebrado, el deudor sufre menoscabo en sus bienes, o pretende ausentarse del lugar en que debe hacerse el pago.
-
-ARTICULO 2,804.- Si el fiador viniere a estado de insolvencia, puede el acreedor pedir otro que reúna las cualidades exigidas por el artículo 2,802.
-
-ARTICULO 2,805.- El que debiendo dar o reemplazar el fiador, no lo presenta dentro del término que el juez le señale, a petición de parte legítima, queda obligado al pago inmediato de la deuda, aunque no se haya vencido el plazo de ésta.
-
-ARTICULO 2,806.- Si la fianza fuere para garantir la administración de bienes, cesará ésta si aquélla no se da en el término convenido o señalado por la ley, o por el juez, salvo los casos en que la ley disponga otra cosa.
-
-ARTICULO 2,807.- Si la fianza importa garantía de cantidad que el deudor debe recibir, la suma se depositará mientras se dé la fianza.
-
-ARTICULO 2,808.- Las cartas de recomendación en que se asegure la probidad y solvencia de alguien, no constituyen fianza.
-
-ARTICULO 2,809.- Si las cartas de recomendación fuesen dadas de mala fe, afirmando falsamente la solvencia del recomendado, el que las suscriba será responsable del daño que sobreviniese a las personas a quienes se dirigen, por la insolvencia del recomendado.
-
-ARTICULO 2,810.- No tendrá lugar la responsabilidad del artículo anterior, si el que dió la carta probase que no fue su recomendación la que condujo a tratar con su recomendado.
-
-ARTICULO 2,811.- Quedan sujetas a las disposiciones de este Título, las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquiera otro medio, y que no empleen agentes que las ofrezcan.
-
-### CAPITULO II. De los efectos de la fianza entre el fiador y el acreedor
-
-ARTICULO 2,812.- El fiador tiene derecho de oponer todas las excepciones que sean inherentes a la obligación principal, mas no las que sean personales del deudor.
-
-ARTICULO 2,813.- La renuncia voluntaria que hiciese el deudor de la prescripción de la deuda, o de toda otra causa de liberación, o de la nulidad o rescisión de la obligación, no impide que el fiador haga valer esas excepciones.
-
-ARTICULO 2,814.- El fiador no puede ser compelido a pagar al acreedor, sin que previamente sea reconvenido el deudor y se haga la excusión de sus bienes.
-
-ARTICULO 2,815.- La excusión consiste en aplicar todo el valor libre de los bienes del deudor al pago de la obligación, que quedará extinguida o reducida a la parte que no se ha cubierto.
-
-ARTICULO 2,816.- La excusión no tendrá lugar:
-
-I.- Cuando el fiador renunció expresamente a ella;
-
-II.- En los casos de concurso o de insolvencia probada del deudor;
-
-III.- Cuando el deudor no puede ser judicialmente demandado dentro del territorio de la República;
-
-IV.- Cuando el negocio para que se prestó la fianza sea propio del fiador;
-
-V.- Cuando se ignore el paradero del deudor, siempre que llamado éste por edictos, no comparezca, ni tenga bienes embargables en el lugar donde deba cumplirse la obligación.
-
-ARTICULO 2,817.- Para que el beneficio de excusión aproveche al fiador, son indispensables los requisitos siguientes:
-
-I.- Que el fiador alegue el beneficio luego que se le requiera de pago;
-
-II.- Que designe bienes del deudor que basten para cubrir el crédito y que se hallen dentro del distrito judicial en que deba hacerse el pago;
-
-III.- Que anticipe o asegure competentemente los gastos de excusión.
-
-ARTICULO 2,818.- Si el deudor adquiere bienes después del requerimiento, o si se descubren los que hubiese ocultado, el fiador puede pedir la excusión, aunque antes no la haya pedido.
-
-ARTICULO 2,819.- El acreedor puede obligar al fiador a que haga la excusión en los bienes del deudor.
-
-ARTICULO 2,820.- Si el fiador, voluntariamente u obligado por el acreedor, hace por sí mismo la excusión y pide plazo, el juez puede concederle el que crea conveniente, atendidas las circunstancias de las personas y las calidades de la obligación.
-
-ARTICULO 2,821.- El acreedor que, cumplidos los requisitos del artículo 2,817, hubiere sido negligente en promover la excusión, queda responsable de los perjuicios que pueda causar al fiador, y éste libre de la obligación hasta la cantidad a que alcancen los bienes que hubiere designado para la excusión.
-
-ARTICULO 2,822.- Cuando el fiador haya renunciado el beneficio de orden, pero no el de excusión, el acreedor puede perseguir en un mismo juicio al deudor principal y al fiador; más éste conservará el beneficio de excusión, aun cuando se dé sentencia contra los dos.
-
-ARTICULO 2,823.- Si hubiere renunciado a los beneficios de orden y excusión, el fiador, al ser demandado por el acreedor, puede denunciar el pleito al deudor principal, para que éste rinda las pruebas que crea conveniente; y en caso de que no salga al juicio para el indicado objeto, le perjudicará la sentencia que se pronuncie contra el fiador.
-
-ARTICULO 2,824.- El que fía al fiador goza del beneficio de excusión, tanto contra el fiador como contra el deudor principal.
-
-ARTICULO 2,825.- No fían a un fiador los testigos que declaren de ciencia cierta en favor de su idoneidad; pero, por analogía se les aplicará lo dispuesto en el artículo 2,809.
-
-ARTICULO 2,826.- La transacción entre el acreedor y el deudor principal, aprovecha al fiador, pero no le perjudica. La celebrada entre el fiador y el acreedor, aprovecha, pero no perjudica al deudor principal.
-
-ARTICULO 2,827.- Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
-
-### CAPITULO III. De los efectos de la fianza entre el fiador y el deudor
-
-ARTICULO 2,828.- El fiador que paga debe ser indemnizado por el deudor, aunque éste no haya prestado su consentimiento para la constitución de la fianza. Si ésta se hubiere otorgado contra la voluntad del deudor, no tendrá derecho alguno el fiador para cobrar lo que pagó, sino en cuanto hubiere beneficiado el pago al deudor.
-
-ARTICULO 2,829.- El fiador que paga por el deudor, debe ser indemnizado por éste:
-
-I.- De la deuda principal;
-
-II.- De los intereses respectivos, desde que haya noticiado el pago al deudor, aun cuando éste no estuviere obligado por razón del contrato a pagarlos al acreedor;
-
-III.- De los gastos que haya hecho desde que dió noticia al deudor de haber sido requerido de pago;
-
-IV.- De los daños y perjuicios que haya sufrido por causa del deudor.
-
-ARTICULO 2,830.- El fiador que paga, se subroga en todos los derechos que el acreedor tenía contra el deudor.
-
-ARTICULO 2,831.- Si el fiador hubiese transigido con el acreedor, no podrá exigir del deudor sino lo que en realidad haya pagado.
-
-ARTICULO 2,832.- Si el fiador hace el pago sin ponerlo en conocimiento del deudor, podrá éste oponerle todas las excepciones que podría oponer al acreedor al tiempo de hacer el pago.
-
-ARTICULO 2,833.- Si el deudor, ignorando el pago por falta de aviso del fiador, paga de nuevo, no podrá éste repetir contra aquél, sino sólo contra el acreedor.
-
-ARTICULO 2,834.- Si el fiador ha pagado en virtud de fallo judicial, y por motivo fundado no pudo hacer saber el pago al deudor, éste quedará obligado a indemnizar a aquél y no podrá oponerle más excepciones que las que sean inherentes a la obligación y que no hubieren sido opuestas por el fiador, teniendo conocimiento de ellas.
-
-ARTICULO 2,835.- Si la deuda fuere a plazo o bajo condición, y el fiador la pagare antes de que aquél o ésta se cumplan, no podrá cobrarla del deudor sino cuando fuere legalmente exigible.
-
-ARTICULO 2,836.- El fiador puede, aun antes de haber pagado, exigir que el deudor asegure el pago o lo releve de la fianza:
-
-I.- Si fue demandado judicialmente por el pago;
-
-II.- Si el deudor sufre menoscabo en sus bienes, de modo que se halle en riesgo de quedar insolvente;
-
-III.- Si pretende ausentarse de la República;
-
-IV.- Si se obligó a relevarlo de la fianza en tiempo determinado, y éste ha transcurrido;
-
-V.- Si la deuda se hace exigible por el vencimiento del plazo.
-
-### CAPITULO IV. De los efectos de la fianza entre los cofiadores
-
-ARTICULO 2,837.- Cuando son dos o más los fiadores de un mismo deudor y por una misma deuda, el que de ellos la haya pagado podrá reclamar de cada uno de los otros la parte que proporcionalmente le corresponda satisfacer.
-
-Si alguno de ellos resultare insolvente, la parte de éste recaerá sobre todos en la misma proporción.
-
-Para que pueda tener lugar lo dispuesto en este artículo, es preciso que se haya hecho el pago en virtud de demanda judicial, o hallándose el deudor principal en estado de concurso.
-
-ARTICULO 2,838.- En el caso del artículo anterior, podrán los cofiadores oponer al que pagó las mismas excepciones que habrían correspondido al deudor principal contra el acreedor y que no fueren puramente personales del mismo deudor o del fiador que hizo el pago.
-
-ARTICULO 2,839.- El beneficio de división no tiene lugar entre los fiadores:
-
-I.- Cuando se renuncia expresamente;
-
-II.- Cuando cada uno se ha obligado mancomunadamente con el deudor;
-
-III.- Cuando alguno o algunos de los fiadores son concursados o se hallan insolventes, en cuyo caso se procederá conforme a lo dispuesto en los párrafos 2o. y 3o. del artículo 2,837;
-
-IV.- En el caso de la fracción IV del artículo 2,816;
-
-V.- Cuando alguno o algunos de los fiadores se encuentren en alguno de los casos señalados para el deudor en las fracciones III y V del mencionado artículo 2,816.
-
-ARTICULO 2,840.- El fiador que pide el beneficio de división, sólo responde por la parte del fiador o fiadores insolventes, si la insolvencia es anterior a la petición; y ni aun por esa misma insolvencia, si el acreedor voluntariamente hace el cobro a prorrata sin que el fiador lo reclame.
-
-ARTICULO 2,841.- El que fía al fiador, en el caso de insolvencia de éste, es responsable para con los otros fiadores, en los mismos términos en que lo sería el fiador fiado.
-
-### CAPITULO V. De la extinción de la fianza
-
-ARTICULO 2,842.- La obligación del fiador se extingue al mismo tiempo que la del deudor y por las mismas causas que las demás obligaciones.
-
-ARTICULO 2,843.- Si la obligación del deudor y la del fiador se confunden, porque uno herede al otro, no se extingue la obligación del que fió al fiador.
-
-ARTICULO 2,844.- La liberación hecha por el acreedor a uno de los fiadores, sin el consentimiento de los otros, aprovecha a todos hasta donde alcance la parte del fiador a quien se ha otorgado.
-
-ARTICULO 2,845.- Los fiadores, aun cuando sean solidarios, quedan libres de su obligación, si por culpa o negligencia del acreedor no pueden subrogarse en los derechos, privilegios o hipotecas del mismo acreedor.
-
-ARTICULO 2,846.- La prórroga o espera concedida al deudor por el acreedor, sin consentimiento del fiador, extingue la fianza.
-
-ARTICULO 2,847.- La quita reduce la fianza en la misma proporción que la deuda principal, y la extingue en el caso de que, en virtud de ella, quede sujeta la obligación principal a nuevos gravámenes o condiciones.
-
-ARTICULO 2,848.- El fiador que se ha obligado por tiempo determinado, queda libre de su obligación, si el acreedor no requiere judicialmente al deudor por el cumplimiento de la obligación principal, dentro del mes siguiente a la expiración del plazo. También quedará libre de su obligación el fiador, cuando el acreedor, sin causa justificada, deje de promover por más de tres meses, en el juicio entablado contra el deudor.
-
-ARTICULO 2,849.- Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
-
-### CAPITULO VI. De la fianza legal o judicial
-
-ARTICULO 2,850.- El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de mil pesos no se exigirá que el fiador tenga bienes raíces.
-
-La fianza puede substituirse con prenda o hipoteca.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-ARTICULO 2,851.- Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 2,852.- La persona ante quien se otorgue la fianza, dentro del término de tres días, dará aviso del otorgamiento al Registro Público, para que en el folio correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se haga una anotación preventiva relativa al otorgamiento de la fianza. Extinguida ésta, dentro del mismo término de tres días se dará aviso al Registro Público, para que haga la cancelación de la anotación preventiva.
-
-La falta de avisos hace responsable al que deba darlos, de los daños y perjuicios que su omisión origine.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 2,853.- En los certificados de gravamen que expida el Registro Público se harán figurar las anotaciones preventivas de que habla el artículo anterior.
-
-ARTICULO 2,854.- Si el fiador enajena o grava los bienes raíces cuyas inscripciones de propiedad están anotadas conforme a lo dispuesto en el artículo 2,852, y de la operación resulta la insolvencia del fiador, aquélla se presumirá fraudulenta.
-
-ARTICULO 2,855.- El fiador legal o judicial no puede pedir la excusión de los bienes del deudor principal; ni los que fían a esos fiadores, pueden pedir la excusión de éstos, así como tampoco la del deudor.
-
-TITULO DECIMOCUARTO
-
-De la prenda
-
-ARTICULO 2,856.- La prenda es un derecho real constituído sobre un bien mueble enajenable para garantizar el cumplimiento de una obligación y su preferencia en el pago.
-
-ARTICULO 2,857.- También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Registro Público a que corresponda la finca respectiva.
-
-El que dé los frutos en prenda se considerará como depositario de ellos, salvo convenio en contrario.
-
-ARTICULO 2,858.- Para que se tenga por constituída la prenda, deberá ser entregada al acreedor, real o jurídicamente.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
-
-ARTICULO 2,859.- Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien cuando quede en poder del mismo deudor porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley.
-
-Cuando la prenda quede en poder del deudor, para que surta efectos contra tercero debe inscribirse en el Registro Público. La inscripción sólo podrá efectuarse si se trata de bienes que sean susceptibles de identificarse de manera indubitable y si conforme al Reglamento del Registro pueden ser materia de inscripción.
-
-El deudor puede usar de la prenda que quede en su poder en los términos que convengan las partes.
-
-ARTICULO 2,860.- El contrato de prenda debe constar por escrito. Si se otorga en documento privado, se formarán dos ejemplares, uno para cada contratante.
-
-No surtirá efecto la prenda contra tercero si no consta la certeza de la fecha por el registro, escritura pública o de alguna otra manera fehaciente.
-
-ARTICULO 2,861.- Cuando la cosa dada en prenda sea un título de crédito que legalmente deba constar en el Registro Público, no surtirá efecto contra tercero el derecho de prenda sino desde que se inscriba en el Registro.
-
-ARTICULO 2,862.- A voluntad de los interesados podrá suplirse la entrega del título al acreedor, con el depósito de aquél en una institución de crédito.
-
-ARTICULO 2,863.- Si llega el caso de que los títulos dados en prenda sean amortizados por quien los haya emitido, podrá el deudor, salvo pacto en contrario, substituirlos con otros de igual valor.
-
-ARTICULO 2,864.- El acreedor a quien se haya dado en prenda un título de crédito, no tiene derecho, aun cuando se venza el plazo del crédito empeñado, para cobrarle ni para recibir su importe, aun cuando voluntariamente se le ofrezca por el que lo debe; pero podrá en ambos casos exigir que el importe del crédito se deposite.
-
-ARTICULO 2,865.- Si el objeto dado en prenda fuese un crédito o acciones que no sean al portador o negociables por endoso, para que la prenda quede legalmente constituída, debe ser notificado el deudor del crédito dado en prenda.
-
-ARTICULO 2,866.- Siempre que la prenda fuere un crédito, el acreedor que tuviere en su poder el título, estará obligado a hacer todo lo que sea necesario para que no se altere o menoscabe el derecho que aquél representa.
-
-ARTICULO 2,867.- Se puede constituir prenda para garantizar una deuda, aun sin consentimiento del deudor.
-
-ARTICULO 2,868.- Nadie puede dar en prenda las cosas ajenas sin estar autorizado por su dueño.
-
-ARTICULO 2,869.- Si se prueba debidamente que el dueño prestó su cosa a otro con el objeto de que éste la empeñara, valdrá la prenda como si la hubiere constituído el mismo dueño.
-
-ARTICULO 2,870.- Puede darse prenda para garantir obligaciones futuras, pero en este caso no puede venderse ni adjudicarse la cosa empeñada, sin que se pruebe que la obligación principal fue legalmente exigible.
-
-ARTICULO 2,871.- Si alguno hubiere prometido dar cierta cosa en prenda y no la hubiere entregado, sea con culpa suya o sin ella, el acreedor puede pedir que se le entregue la cosa, que se dé por vencido el plazo de la obligación o que ésta se rescinda.
-
-ARTICULO 2,872.- En el caso del artículo anterior, el acreedor no podrá pedir que se le entregue la cosa, si ha pasado a poder de un tercero en virtud de cualquier título legal.
-
-ARTICULO 2,873.- El acreedor adquiere por el empeño:
-
-I.- El derecho de ser pagado de su deuda con el precio de la cosa empeñada, con la preferencia que establece el artículo 2,981;
-
-II.- El derecho de recobrar la prenda de cualquier detentador, sin exceptuar al mismo deudor;
-
-III.- El derecho de ser indemnizado de los gastos necesarios y útiles que hiciere para conservar la cosa empeñada, a no ser que use de ella por convenio;
-
-IV.- El de exigir del deudor otra prenda o el pago de la deuda aun antes del plazo convenido, si la cosa empeñada se pierde o se deteriora sin su culpa.
-
-ARTICULO 2,874.- Si el acreedor es turbado en la posesión de la prenda, debe avisarlo al dueño para que la defienda; si el deudor no cumpliere con esta obligación, será responsable de todos los daños y perjuicios.
-
-ARTICULO 2,875.- Si perdida la prenda el deudor ofreciere otra o alguna caución, queda al arbitrio del acreedor aceptarlas o rescindir el contrato.
-
-ARTICULO 2,876.- El acreedor está obligado:
-
-I.- A conservar la cosa empeñada como si fuera propia, y a responder de los deterioros y perjuicios que sufra por su culpa o negligencia;
-
-II.- A restituir la prenda luego que estén pagados íntegramente la deuda, sus intereses y los gastos de conservación de la cosa, si se han estipulado los primeros y hecho los segundos.
-
-ARTICULO 2,877.- Si el acreedor abusa de la cosa empeñada, el deudor puede exigir que ésta se deposite o que aquél dé fianza de restituirla en el estado en que la recibió.
-
-ARTICULO 2,878.- El acreedor abusa de la cosa empeñada, cuando usa de ella sin estar autorizado por convenio, o cuando estándolo, la deteriora o aplica a objeto diverso de aquel a que está destinada.
-
-ARTICULO 2,879.- Si el deudor enajenare la cosa empeñada o concediere su uso o posesión, el adquirente no podrá exigir su entrega sino pagando el importe de la obligación garantizada, con los intereses y gastos en sus respectivos casos.
-
-ARTICULO 2,880.- Los frutos de la cosa empeñada pertenecen al deudor; mas si por convenio los percibe el acreedor, su importe se imputará primero a los gastos, después a los intereses y el sobrante al capital.
-
-ARTICULO 2,881.- Si el deudor no paga en el plazo estipulado, y no habiéndolo, cuando tenga obligación de hacerlo conforme al artículo 2,080, el acreedor podrá pedir y el juez decretará la venta en pública almoneda de la cosa empeñada, previa citación del deudor o del que hubiere constituído la prenda.
-
-ARTICULO 2,882.- La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código de Procedimientos Civiles.
-
-ARTICULO 2,883.- El deudor, sin embargo, puede convenir con el acreedor en que éste se quede con la prenda en el precio que se le fije al vencimiento de la deuda, pero no al tiempo de celebrarse el contrato. Este convenio no puede perjudicar los derechos de tercero.
-
-ARTICULO 2,884.- Puede por convenio expreso venderse la prenda extrajudicialmente.
-
-ARTICULO 2,885.- En cualquiera de los casos mencionados en los tres artículos anteriores, podrá el deudor hacer suspender la enajenación de la prenda, pagando dentro de las veinticuatro horas, contadas desde la suspensión.
-
-ARTICULO 2,886.- Si el producto de la venta excede a la deuda, se entregará el exceso al deudor; pero si el precio no cubre todo el crédito, tiene derecho el acreedor de demandar al deudor por lo que falte.
-
-ARTICULO 2,887.- Es nula toda cláusula que autoriza al acreedor a apropiarse la prenda, aunque ésta sea de menor valor que la deuda, o a disponer de ella fuera de la manera establecida en los artículos que preceden. Es igualmente nula la cláusula que prohiba al acreedor solicitar la venta de la cosa dada en prenda.
-
-ARTICULO 2,888.- El derecho que da la prenda al acreedor se extiende a todos los accesorios de la cosa, y a todos los aumentos de ella.
-
-ARTICULO 2,889.- El acreedor no responde por la evicción de la prenda vendida, a no ser que intervenga dolo de su parte o que se hubiere sujetado a aquella responsabilidad expresamente.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,890.- El derecho y la obligación que resultan de la prenda son indivisibles, salvo el caso en que haya estipulación en contrario; sin embargo, cuando el deudor esté facultado para hacer pagos parciales y se hayan dado en prenda varios objetos, o uno que sea cómodamente divisible, ésta se irá reduciendo proporcionalmente a los pagos hechos, con tal que los derechos del acreedor siempre queden eficazmente garantizados.
-
-ARTICULO 2,891.- Extinguida la obligación principal, sea por el pago, sea por cualquiera otra causa legal, queda extinguido el derecho de prenda.
-
-ARTICULO 2,892.- Respecto de los montes de piedad, que con autorización legal prestan dinero sobre prenda, se observarán las leyes y reglamentos que les conciernen, y supletoriamente las disposiciones de este título.
-
-TITULO DECIMOQUINTO
-
-De la hipoteca
-
-### CAPITULO I. De la hipoteca en general
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,893.- La hipoteca es una garantía real constituída sobre bienes que no se entregan al acreedor, y que da derecho a éste, en caso de incumplimiento de la obligación garantizada, a ser pagado con el valor de los bienes, en el grado de preferencia establecido por la ley.
-
-ARTICULO 2,894.- Los bienes hipotecados quedan sujetos al gravamen impuesto, aunque pasen a poder de tercero.
-
-ARTICULO 2,895.- La hipoteca sólo puede recaer sobre bienes especialmente determinados.
-
-ARTICULO 2,896.- La hipoteca se extiende aunque no se exprese:
-
-I.- A las accesiones naturales del bien hipotecado;
-
-II.- A las mejoras hechas por el propietario en los bienes gravados;
-
-III.- A los objetos muebles incorporados permanentemente por el propietario a la finca y que no puedan separarse sin menoscabo de ésta o deterioro de esos objetos;
-
-IV.- A los nuevos edificios que el propietario construya sobre el terreno hipotecado, y a los nuevos pisos que levante sobre los edificios hipotecados.
-
-ARTICULO 2,897.- Salvo pacto en contrario la hipoteca no comprenderá:
-
-I.- Los frutos industriales de los bienes hipotecados, siempre que esos frutos se hayan producido antes de que el acreedor exija el pago de su crédito;
-
-II.- Las rentas vencidas y no satisfechas al tiempo de exigirse el cumplimiento de la obligación garantizada.
-
-ARTICULO 2,898.- No se podrán hipotecar:
-
-I.- Los frutos y rentas pendientes con separación del predio que los produzca;
-
-II.- Los objetos muebles colocados permanentemente en los edificios, bien para su adorno o comodidad, o bien para el servicio de alguna industria, a no ser que se hipotequen juntamente con dichos edificios;
-
-III.- Las servidumbres, a no ser que se hipotequen juntamente con el predio dominante;
-
-IV.- El derecho de percibir los frutos en el usufructo concedido por este Código a los ascendientes sobre los bienes de sus descendientes;
-
-V.- El uso y la habitación;
-
-VI.- Los bienes litigiosos, a no ser que la demanda origen del pleito se haya registrado preventivamente, o si se hace constar en el Título Constitutivo de la hipoteca que el acreedor tiene conocimiento del litigio; pero en cualquiera de los casos, la hipoteca quedará pendiente de la resolución del pleito.
-
-ARTICULO 2,899.- La hipoteca de una construcción levantada en terreno ajeno no comprende la (sic) área.
-
-ARTICULO 2,900.- Puede hipotecarse la nuda propiedad, en cuyo caso si el usufructo se consolidare con ella en la persona del propietario, la hipoteca se extenderá al mismo usufructo si así se hubiere pactado.
-
-ARTICULO 2,901.- Pueden también ser hipotecados los bienes que ya lo estén anteriormente, aunque sea con el pacto de no volverlos a hipotecar, salvo en todo caso los derechos de prelación que establece este Código. El pacto de no volver a hipotecar es nulo.
-
-ARTICULO 2,902.- El predio común no puede ser hipotecado sino con consentimiento de todos los propietarios. El copropietario puede hipotecar su porción indivisa, y al dividirse la cosa común la hipoteca gravará la parte que le corresponde en la división. El acreedor tiene derecho de intervenir en la división para impedir que a su deudor se le aplique una parte de la finca con valor inferior al que le corresponda.
-
-ARTICULO 2,903.- La hipoteca constituída sobre derechos reales, sólo durará mientras éstos subsistan; pero si los derechos en que aquélla se hubiere constituído se han extinguido por culpa del que los disfrutaba, éste tiene obligación de constituir una nueva hipoteca a satisfacción del acreedor y, en caso contrario, a pagarle todos los daños y perjuicios. Si el derecho hipotecado fuere el de usufructo y éste concluyere por voluntad del usufructuario, la hipoteca subsistirá hasta que venza el tiempo en que el usufructo hubiera concluído, al no haber mediado el hecho voluntario que le puso fin.
-
-ARTICULO 2,904.- La hipoteca puede ser constituída tanto por el deudor como por otro a su favor.
-
-ARTICULO 2,905.- El propietario cuyo derecho sea condicional o de cualquiera otra manera limitado, deberá declarar en el contrato la naturaleza de su propiedad, si la conoce.
-
-ARTICULO 2,906.- Sólo puede hipotecar el que puede enajenar, y solamente pueden ser hipotecados los bienes que pueden ser enajenados.
-
-ARTICULO 2,907.- Si el inmueble hipotecado se hiciere, con o sin culpa del deudor, insuficiente para la seguridad de la deuda, podrá el acreedor exigir que se mejore la hipoteca hasta que a juicio de peritos garantice debidamente la obligación principal.
-
-ARTICULO 2,908.- En el caso del artículo anterior, se sujetará a juicio de peritos la circunstancia de haber disminuído el valor de la finca hipotecada hasta hacerla insuficiente para responder de la obligación principal.
-
-ARTICULO 2,909.- Si quedare comprobada la insuficiencia de la finca y el deudor no mejorare la hipoteca en los términos del artículo 2,907, dentro de los ocho días siguientes a la declaración judicial correspondiente, procederá el cobro del crédito hipotecario, dándose por vencida la hipoteca para todos los efectos legales.
-
-ARTICULO 2,910.- Si la finca estuviere asegurada y se destruyere por incendio u otro caso fortuito, subsistirá la hipoteca en los restos de la finca, y además el valor del seguro quedará afecto al pago. Si el crédito fuere de plazo cumplido, podrá el acreedor pedir la retención del seguro, y si no lo fuere, podrá pedir que dicho valor se imponga a su satisfacción, para que se verifique el pago al vencimiento del plazo. Lo mismo se observará con el precio que se obtuviere en el caso de ocupación por causa de utilidad pública o de venta judicial.
-
-ARTICULO 2,911.- La hipoteca subsistirá íntegra aunque se reduzca la obligación garantida, y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
-
-ARTICULO 2,912.- Cuando se hipotequen varias fincas para la seguridad de un crédito, es forzoso determinar por qué porción del crédito responde cada finca, y puede cada una de ellas ser redimida del gravamen, pagándose la parte de crédito que garantiza.
-
-ARTICULO 2,913.- Cuando una finca hipotecada susceptible de ser fraccionada convenientemente se divida, se repartirá equitativamente el gravamen hipotecario entre las fracciones. Al efecto, se pondrán de acuerdo el dueño de la finca y el acreedor hipotecario; y si no se consiguiere ese acuerdo, la distribución del gravamen se hará por decisión judicial, previa audiencia de peritos.
-
-ARTICULO 2,914.- Sin consentimiento del acreedor, el propietario del predio hipotecado no puede darlo en arrendamiento, ni pactar pago anticipado de rentas, por un término que exceda a la duración de la hipoteca; bajo la pena de nulidad del contrato en la parte que exceda de la expresada duración.
-
-Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, ni arrendamiento, por más de un año, si se trata de finca rústica, ni por más de dos meses, si se trata de finca urbana.
-
-ARTICULO 2,915.- La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses, y de que se haya tomado razón de esta estipulación en el Registro Público.
-
-ARTICULO 2,916.- El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código de Procedimientos Civiles.
-
-Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1966)</small>
-
-ARTICULO 2,917.- Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Gobierno del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
-
-ARTICULO 2,918.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,919.- La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
-
-### CAPITULO II. De la hipoteca voluntaria
-
-ARTICULO 2,920.- Son hipotecas voluntarias las convenidas entre partes o impuestas por disposición del dueño de los bienes sobre que se constituyen.
-
-ARTICULO 2,921.- La hipoteca constituída para la seguridad de una obligación futura o sujeta a condiciones suspensivas inscritas, surtirá efecto contra tercero desde su inscripción, si la obligación llega a realizarse o la condición a cumplirse.
-
-ARTICULO 2,922.- Si la obligación asegurada estuviese sujeta a condición resolutoria inscrita, la hipoteca no dejará de surtir su efecto respecto de tercero, sino desde que se haga constar en el registro el cumplimiento de la condición.
-
-ARTICULO 2,923.- Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así, por medio de una nota al margen de la inscripción hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituída.
-
-ARTICULO 2,924.- Para hacer constar en el registro el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
-
-Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro a la autoridad judicial para que, previo el procedimiento correspondiente, dicte la resolución que proceda.
-
-ARTICULO 2,925.- Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
-
-ARTICULO 2,926.- El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2,917, se dé conocimiento al deudor y sea inscrita en el Registro.
-
-Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
-
-ARTICULO 2,927.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
-
-Los contratantes pueden señalar a la hipoteca una duración menor que la de la obligación principal.
-
-ARTICULO 2,928.- Cuando se prorrogue el plazo de la obligación garantizada con la hipoteca, ésta se entenderá prorrogada por el mismo término, a no ser que expresamente se asigne menor tiempo a la prórroga de la hipoteca.
-
-ARTICULO 2,929.- Si antes de que expire el plazo se prorrogare por primera vez, durante la prórroga y el término señalado para la prescripción, la hipoteca conservará la prelación que le corresponda desde su origen.
-
-ARTICULO 2,930.- La hipoteca prorrogada segunda o más veces sólo conservará la preferencia derivada del registro de su constitución por el tiempo a que se refiere el artículo anterior; por el demás tiempo, o sea el de la segunda o ulterior prórroga, sólo tendrá la prelación que le corresponda por la fecha del último registro.
-
-Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague su crédito.
-
-### CAPITULO III. De la hipoteca necesaria
-
-ARTICULO 2,931.- Llámase necesaria a la hipoteca especial y expresa que por disposición de la ley están obligadas a constituir ciertas personas para asegurar los bienes que administran, o para garantizar los créditos de determinados acreedores.
-
-ARTICULO 2,932.- La constitución de la hipoteca necesaria podrá exigirse en cualquier tiempo, aunque haya cesado la causa que le diere fundamento, siempre que esté pendiente de cumplimiento la obligación que se debiera haber asegurado.
-
-ARTICULO 2,933.- Si para la constitución de alguna hipoteca necesaria se ofrecieren diferentes bienes y no convinieren los interesados en la parte de responsabilidad que haya de pesar sobre cada uno, conforme a lo dispuesto en el artículo 2,912, decidirá la autoridad judicial, previo dictamen de peritos.
-
-Del mismo modo decidirá el Juez las cuestiones que se susciten entre los interesados, sobre la calificación de suficiencia de los bienes ofrecidos para la constitución de cualquiera hipoteca necesaria.
-
-ARTICULO 2,934.- La hipoteca necesaria durará el mismo tiempo que la obligación que con ella se garantiza.
-
-ARTICULO 2,935.- Tienen derecho de pedir la hipoteca necesaria para seguridad de sus créditos:
-
-I.- El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto importen los respectivos saneamientos o el exceso de los bienes que hayan recibido;
-
-II.- Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo 520;
-
-III.- Los menores y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
-
-IV.- Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador;
-
-V.- El Estado, los pueblos y los establecimientos públicos, sobre los bienes de sus administradores o recaudadores, para asegurar las rentas de sus respectivos cargos.
-
-ARTICULO 2,936.- La constitución de la hipoteca en los casos a que se refieren las fracciones II y III del artículo anterior, puede ser pedida:
-
-I.- En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor;
-
-II.- En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador del incapacitado, así como por el Consejo Local de Tutelas;
-
-III.- Por el Ministerio Público, si no la pidieren las personas enumeradas en las fracciones anteriores.
-
-ARTICULO 2,937.- La constitución de la hipoteca por los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones contenidas en el título VIII, capítulo II; título IX, capítulo IX y título XI, capítulo (sic) I y III del libro primero.
-
-ARTICULO 2,938.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantir el crédito; en ambos casos resolverá el Juez.
-
-ARTICULO 2,939.- Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2,935 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2,995, fracción I, salvo lo dispuesto en el capítulo IX, del título IX, del libro primero.
-
-### CAPITULO IV. De la extinción de las hipotecas
-
-ARTICULO 2,940.- La hipoteca produce todos sus efectos jurídicos contra tercero mientras no sea cancelada su inscripción.
-
-ARTICULO 2,941.- Podrá pedirse y deberá ordenarse en su caso la extinción de la hipoteca:
-
-I.- Cuando se extinga el bien hipotecado;
-
-II.- Cuando se extinga la obligación a que sirvió de garantía;
-
-III.- Cuando se resuelva o extinga el derecho del deudor sobre el bien hipotecado;
-
-IV.- Cuando se expropie por causa de utilidad pública el bien hipotecado, observándose lo dispuesto en el artículo 2,910;
-
-V.- Cuando se remate judicialmente la finca hipotecada, teniendo aplicación lo prevenido en el artículo 2,325;
-
-VI.- Por la remisión expresa del acreedor;
-
-VII.- Por la declaración de estar prescrita la acción hipotecaria.
-
-ARTICULO 2,942.- La hipoteca extinguida por dación en pago, revivirá si el pago queda sin efecto, ya sea porque la cosa dada en pago se pierda por culpa del deudor y estando todavía en su poder, ya sea porque el acreedor la pierda en virtud de la evicción.
-
-ARTICULO 2,943.- En los casos del artículo anterior, si el registro hubiere sido ya cancelado, revivirá solamente desde la fecha de la nueva inscripción; quedando siempre a salvo al acreedor el derecho para ser indemnizado por el deudor, de los daños y perjuicios que se le hayan seguido.
-
-TITULO DECIMOSEXTO
-
-De las transacciones
-
-ARTICULO 2,944.- La transacción es un contrato por el cual las partes haciéndose recíprocas concesiones, terminan una controversia presente o previenen una futura.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-ARTICULO 2,945.- La transacción que previene controversias futuras, debe constar por escrito si el interés pasa de doscientos pesos.
-
-ARTICULO 2,946.- Los ascendientes y los tutores no pueden transigir en nombre de las personas que tienen bajo su potestad o bajo su guarda, a no ser que la transacción sea necesaria o útil para los intereses de los incapacitados y previa autorización judicial.
-
-ARTICULO 2,947.- Se puede transigir sobre la acción civil proveniente de un delito, pero no por eso se extingue la acción pública para la imposición de la pena, ni se da por probado el delito.
-
-ARTICULO 2,948.- No se puede transigir sobre el estado civil de las personas, ni sobre la validez del matrimonio.
-
-ARTICULO 2,949.- Es válida la transacción sobre los derechos pecuniarios que de la declaración del estado civil pudieran deducirse a favor de una persona; pero la transacción, en tal caso, no importa la adquisición del estado.
-
-ARTICULO 2,950.- Será nula la transacción que verse:
-
-I.- Sobre delito, dolo y culpa futuros;
-
-II.- Sobre la acción civil que nazca de un delito o culpa futuros;
-
-III.- Sobre sucesión futura;
-
-IV.- Sobre una herencia, antes de visto el testamento, si lo hay;
-
-V.- Sobre el derecho de recibir alimentos.
-
-ARTICULO 2,951.- Podrá haber transacción sobre las cantidades que ya sean debidas por alimentos.
-
-ARTICULO 2,952.- El fiador sólo queda obligado por la transacción cuando consiente en ella.
-
-ARTICULO 2,953.- La transacción tiene, respecto de las partes, la misma eficacia y autoridad que la cosa juzgada; pero podrá pedirse la nulidad o la rescisión de aquella en los casos autorizados por la ley.
-
-ARTICULO 2,954.- Puede anularse la transacción cuando se hace en razón de un título nulo, a no ser que las partes hayan tratado expresamente de la nulidad.
-
-ARTICULO 2,955.- Cuando las partes están instruídas de la nulidad del título, o la disputa es sobre esa misma nulidad, pueden transigir válidamente, siempre que los derechos a que se refiere el título sean renunciables.
-
-ARTICULO 2,956.- La transacción celebrada teniéndose en cuenta documentos que después han resultado falsos por sentencia judicial, es nula.
-
-ARTICULO 2,957.- El descubrimiento de nuevos títulos o documentos, no es causa para anular o rescindir la transacción, si no ha habido mala fe.
-
-ARTICULO 2,958.- Es nula la transacción sobre cualquier negocio que esté decidido judicialmente por sentencia irrevocable, ignorada por los interesados.
-
-ARTICULO 2,959.- En las transacciones sólo hay lugar a la evicción cuando en virtud de ellas da una de las partes a la otra alguna cosa que no era objeto de la disputa y que, conforme a derecho, pierde el que la recibió.
-
-ARTICULO 2,960.- Cuando la cosa dada tiene vicios o gravámenes ignorados del que la recibió, ha lugar a pedir la diferencia que resulte del vicio o gravamen, en los mismos términos que respecto de la cosa vendida.
-
-ARTICULO 2,961.- Por la transacción no se transmiten sino que se declaran o reconocen los derechos que son el objeto de las diferencias sobre que ella recae.
-
-La declaración o reconocimiento de esos derechos no obliga al que lo hace, a garantirlos, ni le impone responsabilidad alguna en caso de evicción, ni importa un título propio en que fundar la prescripción.
-
-ARTICULO 2,962.- Las transacciones deben interpretarse estrictamente y sus cláusulas son indivisibles a menos que otra cosa convengan las partes.
-
-ARTICULO 2,963.- No podrá intentarse demanda contra el valor o subsistencia de una transacción, sin que previamente se haya asegurado la devolución de todo lo recibido, a virtud del convenio que se quiera impugnar.
-
-TERCERA PARTE
-
-## TITULO PRIMERO. De la concurrencia y prelación de los créditos
-
-### CAPITULO I. Disposiciones generales
-
-ARTICULO 2,964.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquellos que, conforme a la ley, son inalienables o no embargables.
-
-ARTICULO 2,965.- Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código de Procedimientos Civiles.
-
-ARTICULO 2,966.- La declaración de concurso incapacita al deudor para seguir administrando sus bienes, así como para cualquiera otra administración que por la ley le corresponda, y hace que se venza el plazo de todas sus deudas.
-
-Esa declaración produce también el efecto de que dejen de devengar intereses las deudas del concursado, salvo los créditos hipotecarios y pignoraticios, que seguirán devengando los intereses correspondientes hasta donde alcance el valor de los bienes que los garanticen.
-
-ARTICULO 2,967.- Los capitales debidos serán pagados en el orden establecido en este título, y si después de satisfechos quedaren fondos pertenecientes al concurso, se pagarán los réditos correspondientes, en el mismo orden en que se pagaron los capitales, pero reducidos los intereses al tipo legal, a no ser que se hubiere pactado un tipo menor. Sólo que hubiere bienes suficientes para que todos los acreedores queden pagados, se cubrirán los réditos al tipo convenido que sea superior al legal.
-
-ARTICULO 2,968.- El deudor puede celebrar con sus acreedores los convenios que estime oportunos; pero esos convenios se harán precisamente en junta de acreedores debidamente constituída.
-
-Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nulos.
-
-ARTICULO 2,969.- La proposición de convenios se discutirá y pondrá a votación, formando resolución el voto de un número de acreedores que compongan la mitad y uno más de los concurrentes, siempre que su interés en el concurso cubra las tres quintas partes del pasivo, deducido el importe de los créditos de los acreedores hipotecarios y pignoraticios que hubieren optado por no ir al concurso.
-
-ARTICULO 2,970.- Dentro de los ocho días siguientes a la celebración de la junta en que se hubiere aprobado el convenio, los acreedores disidentes y los que no hubieren concurrido a la junta podrán oponerse a la aprobación del mismo.
-
-ARTICULO 2,971.- Las únicas causas en que podrá fundarse la oposición al convenio serán:
-
-I.- Defectos en las formas prescritas para la convocación, celebración y deliberación de la junta;
-
-II.- Falta de personalidad o representación en alguno de los votantes, siempre que su voto decida la mayoría en número o en cantidad;
-
-III.- Inteligencias fraudulentas entre el deudor y uno o más acreedores, o de los acreedores entre sí, para votar a favor del convenio;
-
-IV.- Exageración fraudulenta de créditos para procurar la mayoría de cantidad;
-
-V.- La inexactitud fraudulenta en el inventario de los bienes del deudor o en los informes de los síndicos, para facilitar la admisión de las proposiciones del deudor.
-
-ARTICULO 2,972.- Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código de Procedimientos Civiles, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.
-
-ARTICULO 2,973.- Los acreedores hipotecarios y los pignoraticios, podrán abstenerse de tomar parte en la junta de acreedores en la que haga proposiciones el deudor, y, en tal caso, las resoluciones de la junta no perjudicarán sus respectivos derechos.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-Si por el contrario, prefieren tener voz y voto en la mencionada junta, serán comprendidos en las esperas o quitas que la junta acuerde, sin perjuicio del lugar y grado que corresponda al título de su crédito.
-
-ARTICULO 2,974.- Si el deudor cumpliere el convenio, quedarán extinguidas sus obligaciones en los términos estipulados en el mismo; pero si dejare de cumplirlo en todo o en parte, renacerá el derecho de los acreedores por las cantidades que no hubiesen percibido de su crédito primitivo, y podrá cualquiera de ellos pedir la declaración o continuación del concurso.
-
-ARTICULO 2,975.- No mediando pacto expreso en contrario entre deudor y acreedores, conservarán éstos su derecho, terminado el concurso, para cobrar, de los bienes que el deudor adquiera posteriormente, la parte de crédito que no le hubiere sido satisfecha.
-
-ARTICULO 2,976.- Los créditos se graduarán en el orden que se clasifican en los capítulos siguientes, con la prelación que para cada clase se establezca en ellos.
-
-ARTICULO 2,977.- Concurriendo diversos acreedores de la misma clase y número, serán pagados según la fecha de sus títulos, si aquélla constare de una manera indubitable. En cualquier otro caso serán pagados a prorrata.
-
-ARTICULO 2,978.- Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados en el lugar en que deba serlo el crédito que los haya causado.
-
-ARTICULO 2,979.- El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
-
-### CAPITULO II. De los créditos hipotecarios y pignoraticios y de algunos otros privilegiados
-
-ARTICULO 2,980.- Preferentemente se pagarán los adeudos fiscales provenientes de impuestos, con el valor de los bienes que los hayan causado.
-
-ARTICULO 2,981.- Los acreedores hipotecarios y los pignoraticios, no necesitan entrar en concurso para hacer el cobro de sus créditos. Pueden deducir las acciones que les competan en virtud de la hipoteca o de la prenda, en los juicios respectivos, a fin de ser pagados con el valor de los bienes que garanticen sus créditos.
-
-ARTICULO 2,982.- Si hubiere varios acreedores hipotecarios garantizados con los mismos bienes, pueden formar un concurso especial con ellos, y serán pagados por el orden de fechas en que se otorgaron las hipotecas, si éstas se registraron dentro del término legal, o según el orden en que se hayan registrado los gravámenes, si la inscripción se hizo fuera del término de la ley.
-
-ARTICULO 2,983.- Cuando el valor de los bienes hipotecados o dados en prenda no alcanzare a cubrir los créditos que garantizan, por el saldo deudor entrarán al concurso los acreedores de que se trata, y serán pagados como acreedores de tercera clase.
-
-ARTICULO 2,984.- Para que el acreedor pignoraticio goce del derecho que le concede el artículo 2,981, es necesario que cuando la prenda le hubiere sido entregada en la primera de las formas establecidas en el artículo 2,859, la conserve en su poder o que sin culpa suya haya perdido su posesión; y que cuando le hubiere sido entregada en la segunda de las formas previstas en el artículo citado, no haya consentido en que el deudor depositario o el tercero que la conserva en su poder, la entregue a otra persona.
-
-ARTICULO 2,985.- Del precio de los bienes hipotecados o dados en prenda, se pagará en el orden siguiente:
-
-I.- Los gastos del juicio respectivo y los que causen las ventas de esos bienes;
-
-II.- Los gastos de conservación y administración de los mencionados bienes;
-
-III.- La deuda de seguros de los propios bienes;
-
-IV.- Los créditos hipotecarios de acuerdo con lo dispuesto en el artículo 2,982, comprendiéndose en el pago los réditos de los últimos tres años, o los créditos pignoraticios, según su fecha, así como sus réditos, durante los últimos seis meses.
-
-ARTICULO 2,986.- Para que se paguen con la preferencia señalada los créditos comprendidos en las fracciones II y III del artículo anterior, son requisitos indispensables que los primeros hayan sido necesarios, y que los segundos consten auténticamente.
-
-ARTICULO 2,987.- Si el concurso llega al período en que deba pronunciarse sentencia de graduación, sin que los acreedores hipotecarios o pignoraticios hagan uso de los derechos que les concede el artículo 2,981, el concurso hará vender los bienes y depositará el importe del crédito y de los réditos correspondientes, observándose, en su caso, las disposiciones relativas a los ausentes.
-
-ARTICULO 2,988.- El concurso tiene derecho para redimir los gravámenes hipotecarios y pignoraticios que pesen sobre los bienes del deudor, o de pagar las deudas de que especialmente responden algunos de éstos, y, entonces, esos bienes entrarán a formar parte del fondo del concurso.
-
-ARTICULO 2,989.- Los trabajadores no necesitan entrar al concurso para que se les paguen los créditos que tengan por salarios o sueldos devengados en el último año y por indemnizaciones. Deducirán su reclamación ante la autoridad que corresponda y en cumplimiento de la resolución que se dicte, se enajenarán los bienes que sean necesarios para que los créditos de que se trata se paguen preferentemente a cualesquiera otros.
-
-ARTICULO 2,990.- Si entre los bienes del deudor se hallaren comprendidos bienes muebles o raíces adquiridos por sucesión y obligados por el autor de la herencia a ciertos acreedores, podrán éstos pedir que aquéllos sean separados y formar concurso especial con exclusión de los demás acreedores propios del deudor.
-
-ARTICULO 2,991.- El derecho reconocido en el artículo anterior no tendrá lugar:
-
-I.- Si la separación de los bienes no fuere pedida dentro de tres meses, contados desde que se inició el concurso o desde la aceptación de la herencia;
-
-II.- Si los acreedores hubieren hecho novación de la deuda o de cualquir (sic) otro modo hubieren aceptado la responsabilidad personal del heredero.
-
-ARTICULO 2,992.- Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
-
-### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
-
-ARTICULO 2,993.- Con el valor de los bienes que se mencionan serán pagados preferentemente:
-
-I.- La deuda por gastos de salvamento, con el valor de la cosa salvada;
-
-II.- La deuda contraída antes del concurso, expresamente para ejecutar obras de rigurosa conservación de algunos bienes, con el valor de éstos; siempre que se pruebe que la cantidad prestada se empleó en esas obras;
-
-III.- Los créditos a que se refiere el artículo 2,644, con el precio de la obra construída;
-
-IV.- Los créditos por semillas, gastos de cultivo y recolección, con el precio de la cosecha para que sirvieron y que se halle en poder del deudor;
-
-V.- El crédito por fletes, con el precio de los efectos transportados, si se encuentran en poder del acreedor;
-
-VI.- El crédito por hospedaje, con el precio de los muebles del deudor que se encuentren en la casa o establecimiento donde está hospedado;
-
-VII.- El crédito del arrendador, con el precio de los bienes muebles embargables que se hallen dentro de la finca arrendada o con el precio de los frutos de la cosecha respectiva si el predio fuere rústico;
-
-VIII.- El crédito que provenga del precio de los bienes vendidos y no pagados, con el valor de ellos, si el acreedor hace su reclamación dentro de los sesenta días siguientes a la venta, si se hizo al contado, o del vencimiento, si la venta fue a plazo.
-
-Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados;
-
-IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
-
-### CAPITULO IV. Acreedores de primera clase
-
-ARTICULO 2,994.- Pagados los acreedores mencionados en los dos capítulos anteriores y con el valor de todos los bienes que queden, se pagarán:
-
-I.- Los gastos judiciales comunes, en los términos que establezca el Código de Procedimientos;
-
-II.- Los gastos de rigurosa conservación y administración de los bienes concursados;
-
-III.- Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su mujer e hijos que estén bajo su patria potestad y no tuviesen bienes propios;
-
-IV.- Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento;
-
-V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su familia, en los seis meses anteriores a la formación del concurso;
-
-VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
-
-### CAPITULO V. Acreedores de segunda clase
-
-ARTICULO 2,995.- Pagados los créditos antes mencionados, se pagarán:
-
-I.- Los créditos de las personas comprendidas en las fracciones II, III y IV del artículo 2,935, que no hubieren exigido la hipoteca necesaria;
-
-II.- Los créditos del erario que no estén comprendidos en el artículo 2,980 y los créditos a que se refiere la fracción V del artículo 2,935, que no hayan sido garantizados en la forma allí prevenida;
-
-III.- Los créditos de los establecimientos de beneficencia pública o privada.
-
-### CAPITULO VI. Acreedores de tercera clase
-
-ARTICULO 2,996.- Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
-
-### CAPITULO VII. Acreedores de cuarta clase
-
-ARTICULO 2,997.- Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
-
-ARTICULO 2,998.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
-
-## TITULO SEGUNDO. Del registro público
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
-
-### CAPITULO I. De su organización
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-ARTICULO 2,999.- Las oficinas del Registro Público se establecerán en el Distrito Federal y estarán ubicadas en el lugar que determine el Jefe de Gobierno del Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,000.- El Registro Público funcionará conforme al sistema y métodos que determine el Reglamento.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,001.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los folios del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,002.- El reglamento establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,003.- Los encargados y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar, cuando:
-
-I.- Rehusen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 3016;
-
-II.- Practiquen algún asiento indebidamente o rehusen practicarlo sin motivo fundado;
-
-III.- Retarden, sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
-
-IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los certificados que expidan; y
-
-V.- No expidan los certificados en el término reglamentario.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,004.- Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
-
-### CAPITULO II. Disposiciones comunes de los documentos registrables
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,005.- Sólo se registrarán:
-
-I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos;
-
-II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
-
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1988)</small>
-
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el registrador, el corredor público o el Juez competente se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar impreso el sello respectivo.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,006.- Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero, sólo se inscribirán si dichos actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público.
-
-Si los documentos respectivos apareciesen redactados en idioma extranjero y se encuentran debidamente legalizados, deberán ser previamente traducidos por perito oficial y protocolizados ante Notario.
-
-Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con leyes mexicanas y si ordena su ejecución la autoridad judicial competente.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,007.- Los documentos que conforme a este Código sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,008.- La inscripción de los actos o contratos en el Registro Público tiene efectos declarativos.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,009.- El Registro protege los derechos adquiridos por tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante, excepto cuando la causa de la nulidad resulta claramente del mismo registro. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando la Ley.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,010.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión, tiene la posesión del inmueble inscrito.
-
-No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que, previamente a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
-
-En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro Público.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,011.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el folio de la finca sobre que recaigan, en la forma que determine el Reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que, en su caso, comprendan: La hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares; la hipoteca sobre los sistemas de las empresas, a que se refiere la Ley de Vías Generales de Comunicación; y los casos similares previstos en otras leyes.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,012.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el Registro Público.
-
-Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y estén inscritos a nombre de uno solo de aquellos.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-De la prelación
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,013.- La preferencia entre derechos reales sobre una misma finca u otros derechos, se determinará por la prioridad de su inscripción en el Registro Público, cualquiera que sea la fecha de su constitución.
-
-El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente, aun cuando su inscripción sea posterior, siempre que se dé el aviso que previene el artículo 3016.
-
-Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste será preferente, aun cuando tal aviso se hubiese dado extemporáneamente.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,014.- Los asientos del Registro Público, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,015.- La prelación entre los diversos documentos ingresados al Registro Público se determinará por la prioridad en cuanto a la fecha y número ordinal que les corresponda al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,016.- Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el Notario o autoridad ante quien se haga el otorgamiento, deberán solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso preventivo deberá mencionar la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud y sin cobro de derechos por este concepto practicará inmediatamente la nota de presentación en la parte respectiva del folio correspondiente, nota que tendrá vigencia por un término de 30 días naturales a partir de la fecha de presentación de la solicitud.
-
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate, al Registro Público dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno, practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
-
-Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo, con vigencia por noventa días, el notario, o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,017.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-De quiénes pueden solicitar el registro y de la calificación registral
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,018.- La inscripción o anotación de los títulos en el Registro Público pueden pedirse por quien tenga interés legítimo en el derecho que se va a inscribir o anotar, o por el Notario que haya autorizado la escritura de que se trate.
-
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,019.- Para inscribir o anotar cualquier título deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquel o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,020.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
-
-Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada, mientras el asiento esté vigente.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,021.- Los Registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
-
-I.- Cuando el título presentado no sea de los que deben inscribirse o anotarse;
-
-II.- Cuando el documento no revista las formas extrínsecas que establezca la Ley;
-
-III.- Cuando los funcionarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
-
-IV.- Cuando el contenido del documento sea contrario a las Leyes prohibitivas o de interés público;
-
-V.- Cuando haya incompatibilidad entre el texto del documento y los asientos del registro;
-
-VI.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 3011, cuando se den las bases para determinar el monto de la obligación garantizada; y
-
-VII.- Cuando falte algún otro requisito que deba llenar el documento de acuerdo con el Código u otras leyes aplicables.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,022.- La calificación hecha por el Registrador podrá recurrirse ante el Director del Registro Público. Si éste confirma la calificación el perjudicado por ella podrá reclamarla en juicio.
-
-Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos, desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 3043.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-De la rectificación de asiento
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,023.- La rectificación de los asientos por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el título y la inscripción.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,024.- Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de alguno de sus conceptos.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,025.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el Registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en el consignado o por cualquiera otra circunstancia.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,026.- Cuando se trate de errores de concepto los asientos practicados en los folios del Registro Público sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
-
-A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
-
-En caso de que el Registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 3022.
-
-En el caso previsto por el segundo párrafo del artículo 3012 el que solicite la rectificación deberá acompañar a la solicitud que presente al Registro, los documentos con los que pruebe el régimen matrimonial.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,027.- El concepto rectificado surtirá efectos desde la fecha de su rectificación.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-De la extinción de asientos
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,028.- Las inscripciones no se extinguen en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a favor de otra persona.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,029.- Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en inscripción.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,030.- Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte, sin dichos requisitos, cuando el derecho inscrito o anotado quede extinguido por disposición de la Ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación, debido a hecho que no requiera la intervención de la voluntad.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,031.- Para que el asiento pueda cancelarse por consentimiento de las partes, éste deberá constar en escritura pública.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,032.- La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,033.- Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
-
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II.- Cuando se extinga, también por completo, el derecho inscrito o anotado;
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
-
-IV.- Cuando se declare la nulidad del asiento;
-
-V.- Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2325; y
-
-VI.- Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,034.- Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
-
-I.- Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y
-
-II.- Cuando se reduzca el derecho inscrito o anotado.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,035.- Las anotaciones preventivas, cualquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquellas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
-
-La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,036.- Cancelado un asiento, se presume extinguido el derecho a que dicho asiento se refiere.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,037.- Los padres como administradores de los bienes de sus hijos, los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho en favor de sus representados, en el caso de pagos o por sentencia judicial.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,038.- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, pueden hacerse.
-
-I.- Presentándose la escritura otorgada por la que se hayan cobrado los créditos, en la cual debe constar haberse inutilizado los títulos endosables en el acto de su otorgamiento; y
-
-II.- Por ofrecimiento del pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,039.- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.
-
-Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,040.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, presentando acta notarial que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,041.- Podrá también cancelarse, total o parcialmente la hipoteca que garantice, tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que se cancela.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
-
-(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 1985)(F. DE E., D.O.F. 29 DE MARZO DE 1985)
-
-ARTICULO 3,042.- En el Registro Público de la Propiedad Inmueble se inscribirán:
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
-
-I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
-
-II.- La constitución del patrimonio familiar;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
-
-III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
-
-IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,043.- Se anotarán preventivamente en el Registro Público:
-
-I.- Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
-
-II.- El mandamiento y el acta de embargo, que se haya hecho efectivo en bienes inmuebles del deudor;
-
-III.- Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
-
-IV.- Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales;
-
-V.- Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el Registrador;
-
-VI.- Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2852;
-
-VII.- El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio, de bienes inmuebles;
-
-VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público; y
-
-IX.- Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
-
-De los efectos de las anotaciones
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,044.- La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquella, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
-
-En los casos de las fracciones IV y VIII del artículo 3043 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2854.
-
-En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración, pero bastará la publicación del decreto relativo en el "Diario Oficial" de la Federación para que queden sujetos a las resultas del mismo, tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna Ley en que se establezca que no es necesario este requisito.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,045.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse o gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-De la inmatriculación
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,046.- La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad, que carece de antecedentes registrales. Para cualquiera de los procedimientos de inmatriculación a que se refieren los artículos siguientes, es requisito previo que el Registro Público emita un certificado que acredite que el bien de que se trate no está inscrito, en los términos que se precisen en las disposiciones administrativas que para el efecto se expidan.
-
-El Director del Registro Público podrá allegarse información de otras autoridades administrativas.
-
-El interesado en la inmatriculación de la propiedad o posesión de un inmueble podrá optar por obtenerla mediante resolución judicial o mediante resolución administrativa, en los términos de las disposiciones siguientes:
-
-I.- La inmatriculación por resolución judicial se obtiene:
-
-a) Mediante información de dominio, y
-
-b) Mediante información posesoria.
-
-II.- La inmatriculación por resolución administrativa se obtiene:
-
-a) Mediante la inscripción del decreto por el que se incorpora al dominio público federal o local un inmueble;
-
-b) Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto;
-
-c) Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo 3051 de este Código;
-
-d) Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 3052 del presente Código, y
-
-e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo 3053 de este Código.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 1988)</small>
-
-Inmatriculación por resolución judicial
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,047.- En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el Juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código de Procedimientos Civiles.
-
-Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,048.- En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.
-
-Para lo anterior, se deberá seguir el procedimiento que establece el Código de Procedimientos Civiles para las informaciones a que se refiere el artículo 3047.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.
-
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,049.- Cualquiera que se considere con derecho a los bienes cuya propiedad o posesión se solicite inscribir por resolución judicial, podrá hacerlo valer ante el juez competente.
-
-La presentación del escrito de oposición suspenderá el curso del procedimiento de información; si éste estuviese ya concluido y aprobado, deberá el Juez poner la demanda en conocimiento del Director del Registro Público de la Propiedad para que suspenda la inscripción, y si ya estuviese hecha, para que anote dicha demanda.
-
-Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición quedará éste sin efecto, asentándose en su caso, la cancelación que proceda.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 1988)</small>
-
-Inmatriculación por resolución administrativa
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,050.- La inmatriculación administrativa se realizará por resolución del Director del Registro Público de la Propiedad, quien la ordenará de plano en los casos previstos por los incisos a) y b) de la fracción II del artículo 3046.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,051.- Quien se encuentre en el caso previsto por el inciso c) de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para solicitar la inmatriculación, la cual será ordenada si se satisfacen los siguientes requisitos:
-
-I.- Que acredite la propiedad del inmueble mediante un título fehaciente y suficiente para adquirirla;
-
-II.- Que acredite que su título tiene una antigüedad mayor de cinco años anteriores a la fecha de su solicitud, o que exhiba el o los títulos de sus causantes con la antigüedad citada, títulos que deberán ser fehacientes y suficientes para adquirir la propiedad;
-
-III.- Que manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso; y
-
-IV.- Que acompañe las constancias relativas al estado catastral y predial del inmueble, si las hubiere.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,052.- Quien se encuentre en el caso del inciso d), de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar que ha operado la prescripción conforme al siguiente procedimiento:
-
-I.- El interesado presentará solicitud que exprese:
-
-a) Su nombre completo y domicilio;
-
-b) La ubicación precisa del bien, su superficie, colindancias y medidas;
-
-c) La fecha y causa de su posesión, que consiste en el hecho o acto generador de la misma;
-
-d) Que la posesión que invoca es de buena fe;
-
-e) El nombre y domicilio de la persona de quien la obtuvo el peticionario, en su caso, y los del causante de aquélla si fuere conocido; y
-
-f) El nombre y domicilio de los colindantes.
-
-II.- A la solicitud a que se refiere la fracción anterior, el interesado deberá acompañar:
-
-a) El documento con el que se acredita el origen de la posesión, si tal documento existe;
-
-b) Un plano autorizado por ingeniero titulado en el que se identifique en forma indubitable el inmueble; y
-
-c) Constancias relativas al estado catastral y predial del inmueble, si existieren.
-
-III.- Recibida la solicitud el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Gobierno del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación;
-
-IV.- Si existiere oposición de las personas mencionadas en la fracción anterior, el Director del Registro Público dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente;
-
-V.- Si no existiere oposición, el Director del Registro Público señalará día y hora para una audiencia, en la cual el solicitante deberá probar su posesión, en concepto de propietario y por el tiempo exigido por este Código para prescribir, por medios que le produzcan convicción, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
-
-El Director del Registro Público podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho; y
-
-VI.- La resolución administrativa del Director del Registro Público de la Propiedad será dictada dentro de los ocho días siguientes a la celebración de la audiencia a que se refiere la fracción anterior, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a éste Código se requieren para adquirir por virtud de la prescripción; dicha resolución deberá expresar los fundamentos en que se apoya.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,053.- Quien se encuentre en el caso del inciso e) de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar la posesión de un inmueble, apta para prescribirlo, conforme al procedimiento establecido en el artículo anterior, con excepción de que en la audiencia a que se refiere su fracción V, el solicitante deberá probar su posesión presente, por los medios que produzcan convicción al Director del Registro Público, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,054.- Si la oposición a que se refiere la fracción IV del artículo 3052 se presentara una vez concluido el procedimiento y aprobada la inmatriculación, el Director del Registro Público de la Propiedad suspenderá la inscripción, si aún no la hubiese practicado, y si ya estuviese hecha, anotará la citada oposición en la inscripción respectiva.
-
-Si el opositor deja transcurrir seis meses sin promover el juicio que en su caso proceda, la oposición quedará sin efecto y se cancelará la anotación relativa.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 1988)</small>
-
-Disposiciones comunes
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,055.- Quien haya obtenido judicial o administrativamente la inscripción de la posesión de un inmueble, una vez que hayan transcurrido cinco años, si la posesión es de buena fe, podrá ocurrir ante el Director del Registro Público de la Propiedad para que ordene la inscripción de la propiedad adquirida por prescripción positiva, en el folio correspondiente a la inscripción de la posesión, quien la ordenará siempre y cuando el interesado acredite fehacientemente haber continuado en la posesión del inmueble con las condiciones para prescribir, sin que exista asiento alguno que contradiga la poesesión (sic) inscrita.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,056.- Una vez ordenada judicial o administrativamente la inmatriculación de la propiedad o posesión de un inmueble y cubirta (sic) el pago de los derechos respectivos, se hará la inscripción en el folio correspondiente.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,057.- La inmatriculación realizada mediante resolución judicial o mediante resolución administrativa, no podrá modificarse o cancelarse, sino en virtud de mandato judicial contenido en sentencia irrevocable, dictada en juicio en que haya sido parte el Director del Registro Público de la Propiedad.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 3,058.- No se inscribirán las informaciones judiciales o administrativas de posesión, ni las de dominio cuando se violen los programas de desarrollo urbano o las declaratorias de usos, destinos o reservas de predios, expedidos por la autoridad competente, o no se hayan satisfecho las disposiciones legales aplicables en materia de división y ocupación de predios, a menos que se trate de programas de regularización de la tenencia de la tierra aprobados por la autoridad.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE ENERO DE 1979)</small>
-
-Del sistema registral
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,059.- El Reglamento establecerá el sistema conforme al cual deberán llevarse los folios del Registro Público y practicarse los asientos.
-
-La primera inscripción de cada finca será de dominio o de posesión.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,060.- Los asientos y notas de presentación expresarán:
-
-I.- La fecha y número de entrada;
-
-II.- La naturaleza del documento y el funcionario que lo haya autorizado;
-
-III.- La naturaleza del acto o negocio de que se trate;
-
-IV.- Los bienes o derechos objeto del título presentado, expresando su cuantía, si constare; y
-
-V.- Los nombres y apellidos de los interesados.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,061.- Los asientos de inscripción deberán expresar las circunstancias siguientes:
-
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento;
-
-II.- La naturaleza, extensión y condiciones del derecho de que se trate;
-
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título.
-
-IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; y los réditos, si se causaren, y la fecha desde que deban correr;
-
-V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción.
-
-VI.- La naturaleza del hecho o negocio jurídico; y
-
-VII.- La fecha del título, número si lo tuviere, y el funcionario que lo haya autorizado.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,062.- Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior, en cuanto resulten de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
-
-Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquellas y el importe de la obligación que los hubiere originado.
-
-Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionaran la fecha del decreto respectivo, la de su publicación en el "Diario Oficial" de la Federación y el fin de utilidad pública que sirva de causa a la declaración.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,063.- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
-
-I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice;
-
-II.- La causa por la que se hace la cancelación;
-
-III.- El nombre y apellidos de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación;
-
-IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se trate; y
-
-V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca el derecho y la que subsista.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,064.- Las anotaciones deberán contener las indicaciones para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho que se trate de acreditar; y el documento en cuya virtud se extienda.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,065.- Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,066.- Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practiquen, así como el día y número del asiento de presentación.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,067.- Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
-
-Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando substancialmente se hubieren alterado dichos asientos, así como en el caso de que se hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de lo establecido respecto a la rectificación de errores, inexactitudes u omisiones.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,068.- La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 3009.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, D.O.F. 3 DE ENERO DE 1979)</small>
-
-### CAPITULO IV. Del registro de operaciones sobre bienes muebles
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,069.- Se inscribirán en los folios de operaciones sobre bienes muebles:
-
-I.- Los contratos de compraventa de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2310;
-
-II.- Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2312; y
-
-III.- Los contratos de prenda que menciona el artículo 2859.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,070.- Toda inscripción que se haga en los folios de bienes muebles deberá expresar los datos siguientes:
-
-I.- Los nombres de los contratantes;
-
-II.- La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
-
-III.- El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda;
-
-IV.- La fecha en que se practique y la firma del registrador.
-
-(REUBICADO, D.O.F. 3 DE ENERO DE 1979)
-
-### CAPITULO V. Del registro de personas morales
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,071.- En los folios de las personas morales se inscribirán:
-
-I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
-
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
-
-II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, previa autorización en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera; y
-
-III.- Las fundaciones y asociaciones de beneficiencia (sic) privada.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,072.- Las inscripciones referentes a la constitución de personas morales, deberán contener los datos siguientes:
-
-I.- El nombre de los otorgantes;
-
-II.- La razón social o denominación;
-
-III.- El objeto, duración y domicilio;
-
-IV.- El capital social, si lo hubiere y la aportación con que cada socio deba contribuir;
-
-V.- La manera de distribuirse las utilidades y pérdidas, en su caso;
-
-VI.- El nombre de los administradores y las facultades que se les otorguen;
-
-VII.- El carácter de los socios y de su responsabilidad ilimitada cuando la tuvieren; y
-
-VIII.- La fecha y la firma del registrador.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,073.- Las demás inscripciones que se practiquen en los folios de las personas morales, expresarán los datos esenciales del acto o contrato, según resulten del título respectivo.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-ARTICULO 3,074.- Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 2310, fracción II; 2312, 2673, 2694 y 2859 de este Código, y les serán aplicables a los registros las disposicoines (sic) relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
-
 ### CAPITULO III. De la remisión de la deuda
 
 ARTICULO 2,209.- Cualquiera puede renunciar su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohibe.
@@ -3771,603 +877,967 @@ ARTICULO 2,267.- Son nulas las ventas que produzcan la concentración o acaparam
 
 ARTICULO 2,268.- Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
-### CAPITULO II. De la materia de la compra-venta
+###### Artículo 34.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+El Poder Legislativo, se deposita en una Asamblea denominada: "Legislatura del Estado."
 
-ARTICULO 2,269.- Ninguno puede vender sino lo que es de su propiedad.
+###### Artículo 35.
 
-ARTICULO 2,270.- La venta de cosa ajena es nula, y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe; debiendo tenerse en cuenta lo que se dispone en el título relativo al Registro Público para los adquirentes de buena fe.
+El Poder Ejecutivo es ejercido por una sola persona, bajo la denominación de: "Gobernador del Estado."
 
-ARTICULO 2,271.- El contrato quedará revalidado, si antes de que tenga lugar la evicción, adquiere el vendedor, por cualquier título legítimo, la propiedad de la cosa vendida.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-ARTICULO 2,272.- La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando además, sujeto a las penas respectivas.
+###### Artículo 36.
 
-ARTICULO 2,273.- Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
+El ejercicio del Poder Judicial se deposita en los órganos siguientes:
 
-### CAPITULO III. De los que pueden vender y comprar
+I. El Tribunal Superior de Justicia, que se integrará con: los Tribunales colegiados en materia penal, los Tribunales colegiados en materia civil, los Tribunales Regionales, el Tribunal de lo Contencioso Administrativo y el Tribunal de conciliación y Arbitraje;
 
-ARTICULO 2,274.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
+II. El Tribunal Estatal de Elecciones;
 
-ARTICULO 2,275.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
+II. Los Juzgados de Primera Instancia;
 
-ARTICULO 2,276.- Los magistrados, los jueces, el ministerio público, los defensores oficiales, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
+IV. Los Juzgados Menores;
 
-ARTICULO 2,277.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
+V. Los Juzgados Auxiliares de los de Primera Instancia y los Menores;
 
-ARTICULO 2,278.- Los hijos sujetos a patria potestad solamente pueden vender a sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 428.
+VI. Los Juzgados de Paz;
 
-ARTICULO 2,279.- Los propietarios de cosa indivisa no pueden vender su parte respectiva a extraños, sino cumpliendo lo dispuesto en los artículos 973 y 974.
+VII. Los Juzgados de Comunidad;
 
-ARTICULO 2,280.- No pueden comprar los bienes de cuya venta o administración se hallen encargados:
+VIII. La Comisión Jurisdiccional de Menores Infractores;
 
-I.- Los tutores y curadores;
+IX. El Consejo de la Judicatura; y,
 
-II.- Los mandatarios;
+X. Los demás que cree la ley.
 
-III.- Los ejecutores testamentarios y los que fueren nombrados en caso de intestado;
+###### Artículo 37.
 
-IV.- Los interventores nombrados por el testador o por los herederos;
+No pueden reunirse dos o más de esos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. La observancia de este precepto podrá suspenderse en los casos de la fracción XXII del artículo 68.
 
-V.- Los representantes, administradores e interventores en caso de ausencia;
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
-VI.- Los empleados públicos.
+###### Artículo 38.
 
-ARTICULO 2,281.- Los peritos y los corredores no pueden comprar los bienes en cuya venta han intervenido.
+El Gobernador del Estado, será electo popularmente en forma directa por el sistema de mayoría relativa. Serán electos popularmente en forma directa los miembros de la Legislatura y de los Ayuntamientos de todos los municipios, de acuerdo con el sistema de mayoría relativa y el principio de representación proporcional.
 
-ARTICULO 2,282.- Las compras hechas en contravención a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
+No podrán ser reelectos para el período inmediato siguiente, los funcionarios de elección popular que hayan ejercido su cargo, excepción hecha de los casos previstos por los artículos 86 y 89 de esta Constitución. La misma regla será aplicable al caso de los integrantes de los Concejos Municipales.
 
-### CAPITULO IV. De las obligaciones del vendedor
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-ARTICULO 2,283.- El vendedor está obligado:
+Los Magistrados del Tribunal Superior serán propuestos por el Consejo de la Judicatura y serán nombrados por la Legislatura del Estado, requiriéndose el voto favorable de las dos terceras partes de los diputados presentes.
 
-I.- A entregar al comprador la cosa vendida;
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-II.- A garantir las calidades de la cosa;
+Los Jueces de Primera Instancia, los Jueces Menores, Los Jueces Auxiliares de los de Primera Instancia y los Menores, y los Jueces de Paz, así como los integrantes de la Comisión Jurisdiccional de Menores Infractores serán designados por el Consejo de la Judicatura.
 
-III.- A prestar la evicción.
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
 
-### CAPITULO V. De la entrega de la cosa vendida
+Los integrantes del Consejo de la Judicatura serán designados en los términos establecidos en el Artículo 95, fracción V de esta Constitución.
 
-ARTICULO 2,284.- La entrega puede ser real, jurídica o virtual.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-La entrega real consiste en la entrega material de la cosa vendida, o en la entrega del título si se trata de un derecho.
+###### Artículo 39.
 
-Hay entrega jurídica cuando aún sin estar entregada materialmente la cosa, la ley considera recibida por el comprador.
+Para las elecciones de Diputados se dividirá al Estado en veinticuatro Distritos Electorales Uninominales y toda la entidad constituirá una Circunscripción Plurinominal, en la que serán electos hasta veintiún Diputados, según el principio de representación proporcional mediante el sistema de listas.
 
-Desde el momento en que el comprador acepte que la cosa vendida quede a su disposición, se tendrá por virtualmente recibido de ella, y el vendedor que la conserve en su poder sólo tendrá los derechos y obligaciones de un depositario.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
-ARTICULO 2,285.- Los gastos de la entrega de la cosa vendida son de cuenta del vendedor, y los de su transporte o traslación, de cargo del comprador, salvo convenio en contrario.
+###### Artículo 40.
 
-ARTICULO 2,286.- El vendedor no está obligado a entregar la cosa vendida, si el comprador no ha pagado el precio, salvo que en el contrato se haya señalado un plazo para el pago.
+La demarcación de cada uno de los veinticuatro Distritos Electorales Uninominales, se señalará en la Ley respectiva.
 
-ARTICULO 2,287.- Tampoco está obligado a la entrega, aunque haya concedido un término para el pago, si después de la venta se descubre que el comprador se halla en estado de insolvencia, de suerte que el vendedor corra inminente riesgo de perder el precio, a no ser que el comprador le dé fianza de pagar al plazo convenido.
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE MARZO DE 1997)</small>
 
-ARTICULO 2,288.- El vendedor debe entregar la cosa vendida en el estado en que se hallaba al perfeccionarse el contrato.
+###### Artículo 41.
 
-ARTICULO 2,289.- Debe también el vendedor entregar todos los frutos producidos desde que se perfeccione la venta, y los rendimientos, acciones y títulos de la cosa.
+Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de la representación municipal y estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
-ARTICULO 2,290.- Si en la venta de un inmueble se han designado los linderos, el vendedor estará obligado a entregar todo lo que dentro de ellos se comprenda, aunque haya exceso o disminución en las medidas expresadas en el contrato.
+Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-ARTICULO 2,291.- La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubiere lugar designado en el contrato, en el lugar en que se encontraba la cosa en la época en que se vendió.
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones municipales y estatales.
 
-ARTICULO 2,292.- Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
+Los partidos políticos recibirán en forma equitativa financiamiento público para su sostenimiento y contarán durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del sufragio universal. Tendrán además acceso permanente a los medios de comunicación social en condiciones de equidad, de acuerdo con las formas y procedimientos que establezca la Ley.
 
-### CAPITULO VI. De las obligaciones del comprador
+El financiamiento a los partidos políticos se sujetará a las siguientes bases:
 
-ARTICULO 2,293.- El comprador debe cumplir todo aquello a que se haya obligado, y especialmente pagar el precio de la cosa en el tiempo, lugar y forma convenidos.
+I. El financiamiento público ordinario para el sostenimiento de sus actividades permanentes se fijará cada año por la Comisión Estatal Electoral al elaborar su presupuesto. El monto total se determinará multiplicando una quinta parte del salario mínimo vigente en la capital del estado por el número de ciudadanos inscritos en la lista nominal de electores de la entidad;
 
-ARTICULO 2,294.- Si no se han fijado tiempo y lugar, el pago se hará en el tiempo y lugar en que se entregue la cosa.
+II. El financiamiento público extraordinario para las actividades de los partidos tendientes a la obtención del voto se otorgará durante el año en que se celebren elecciones locales y consistirá en una cantidad igual a la que corresponda por concepto de financiamiento ordinario;
 
-ARTICULO 2,295.- Si ocurre duda sobre cuál de los contratantes deberá hacer primero la entrega, uno y otro harán el depósito en manos de un tercero.
+III. El financiamiento público, ordinario y extraordinario, se distribuirá entre los partidos políticos que hubiesen obtenido al menos el dos por ciento de la votación total emitida en la elección anterior de Diputados, de acuerdo con las siguientes bases:
 
-ARTICULO 2,296.- El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los tres casos siguientes:
+a) Un treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales, y
 
-I.- Si así se hubiere convenido;
+b) Un sesenta por ciento se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos en la elección mencionada;
 
-II.- Si la cosa vendida y entregada produce fruto o renta;
+IV. Los partidos políticos que hubiesen obtenido su registro con fecha posterior a la última elección, o los que no hubieren alcanzado el dos por ciento de la votación total emitida en el Estado en la elección anterior de Diputados, recibirán financiamiento público de carácter especial, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, y una cantidad igual adicional para gastos de campaña en año de elecciones, y
 
-III.- Si se hubiere constituído en mora con arreglo a los artículos 2,104 y 2,105.
+V. El financiamiento público prevalecerá sobre el privado; por lo tanto, las aportaciones que los partidos políticos reciban de sus militantes y simpatizantes no podrán exceder del equivalente al diez por ciento del monto total de recursos que reciban por concepto de financiamiento público ordinario.
 
-ARTICULO 2,297.- En las ventas a plazo, sin estipular intereses, no los debe el comprador por razón de aquél, aunque entretanto perciba los frutos de la cosa, pues el plazo hizo parte del mismo contrato, y debe presumirse que en esta consideración, se aumentó el precio de la venta.
+La Ley establecerá los criterios para fijar límites a los gastos de campaña y precisará los mecanismos y procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos y demás organizaciones políticas, así como las sanciones por el incumplimiento de las disposiciones que se expidan en la materia.
 
-ARTICULO 2,298.- Si la concesión del plazo fue posterior al contrato, el comprador estará obligado a prestar los intereses, salvo convenio en contrario.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-ARTICULO 2,299.- Cuando el comprador a plazo o con espera del precio, fuere perturbado en su posesión o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
+### CAPITULO I.
 
-ARTICULO 2,300.- La falta de pago del precio da derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1,950 y 1,951.
+DEL PODER LEGISLATIVO.
 
-### CAPITULO VII. De algunas modalidades del contrato de compra-venta
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-ARTICULO 2,301.- Puede pactarse que la cosa comprada no se venda a determinada persona; pero es nula la cláusula en que se estipule que no puede venderse a persona alguna.
+###### Artículo 42.
 
-ARTICULO 2,302.- Queda prohibida la venta con pacto de retroventa, así como la promesa de venta de un bien raíz que haya sido objeto de una compra-venta entre los mismos contratantes.
+La organización, vigilancia y desarrollo de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, de carácter permanente, dotado de personalidad jurídica y patrimonio propio, denominado Comisión Estatal Electoral.
 
-ARTICULO 2,303.- Puede estipularse que el vendedor goce del derecho de preferencia por el tanto, para el caso de que el comprador quisiere vender la cosa que fue objeto del contrato de compra-venta.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-ARTICULO 2,304.- El vendedor está obligado a ejercer su derecho de preferencia, dentro de tres días, si la cosa fuere mueble, después que el comprador le hubiese hecho saber la oferta que tenga por ella, bajo pena de perder su derecho si en ese tiempo no lo ejerciere. Si la cosa fuere inmueble, tendrá el término de diez días para ejercer el derecho, bajo la misma pena. En ambos casos está obligado a pagar el precio que el comprador ofreciere, y si no lo pudiere satisfacer, quedará sin efecto el pacto de preferencia.
+###### Artículo 43.
 
-ARTICULO 2,305.- Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferencia, lo que ofrezcan por la cosa, y si ésta se vendiere sin dar ese aviso, la venta es válida; pero el vendedor responderá de los daños y perjuicios causados.
+La Comisión Estatal Electoral tendrá a su cargo las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la Ley, la declaración de validez y el otorgamiento de constancias en las elecciones de Diputados y Ayuntamientos, así como la regulación de la observación electoral y de las encuestas y sondeos de opinión con fines electorales.
 
-ARTICULO 2,306.- Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término si no da las seguridades necesarias de que pagará el precio al expirar el plazo.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-ARTICULO 2,307.- Cuando el objeto sobre que se tiene derecho de preferencia se venda en subasta pública, debe hacerse saber al que goza de ese derecho, el día, hora y el lugar en que se verificará el remate.
+###### Artículo 44.
 
-ARTICULO 2,308.- El derecho adquirido por el pacto de preferencia no puede cederse, ni pasa a los herederos del que los disfrute.
+La Comisión Estatal Electoral se regirá por los principios de certeza, legalidad, independencia, imparcialidad, equidad y objetividad.
 
-ARTICULO 2,309.- Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el capítulo relativo a la compra de esperanza.
+Contará en su estructura con órganos de dirección, ejecutivos y desconcentrados.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+El órgano superior de dirección se denominará Consejo General y estará conformado por Comisionados de los partidos políticos y por Comisionados Electorales, de acuerdo con las siguientes bases;
 
-ARTICULO 2,310.- La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
+I. Cada partido político que participe en el proceso electoral respectivo contará con un Comisionado, que tendrá derecho a voz y voto en las sesiones del Consejo General, salvo que el partido correspondiente no hubiere obtenido al menos el dos por ciento de la votación total emitida a nivel estatal en la elección inmediata anterior, en cuyo caso su Comisionado sólo tendrá derecho a voz, y
 
-I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público.
+II. La Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes y a propuesta de los partidos políticos, designará en los términos de la Ley respectiva a los Comisionados Electorales, eligiendo entre los mismos al Presidente del Consejo General de la Comisión Estatal electoral. Estos tendrán derecho a voz y voto en las sesiones del Consejo General.
 
-II.- Si se trata de bienes muebles que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria, de que habla contra terceros si se inscribió en el Registro Público.
+Los Comisionados Electorales del Consejo General no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de este organismo y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. Tendrán asignada una retribución en el presupuesto de la Comisión Estatal Electoral que será igual a la de los Magistrados del Tribunal Estatal de elecciones.
 
-III.- Si se trata de bienes muebles que no sean susceptibles de identificarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio, pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
+Los órganos ejecutivos de la Comisión Estatal electoral serán la Dirección General, La Secretaría General y las Coordinaciones Ejecutivas, mismas que conformarán la Junta General Ejecutiva, que será presidida por el Presidente del Consejo General, con las atribuciones y facultades que determine la Ley de la materia. Dichos órganos serán profesionales en su desempeño y dispondrán del personal calificado necesario para desarrollar el servicio electoral.
 
-ARTICULO 2,311.- Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
+Los órganos electorales desconcentrados serán las Comisiones Distritales Electorales y las Comisiones Municipales Electorales; en su conformación y funcionamiento participarán representantes de los partidos políticos y Comisionados Electorales, en los términos que fije la Ley.
 
-El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó.
+Las mesas directivas de casillas estarán integradas por ciudadanos que serán seleccionados y capacitados conforme a las disposiciones de Ley.
 
-Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas.
+Las sesiones de todos los órganos electorales colegiados serán públicas.
 
-ARTICULO 2,312.- Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2,310, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
+###### Artículo 45.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Para garantizar los principios de legalidad, imparcialidad, objetividad, certeza e independencia de las resoluciones y actos electorales, se establecerá un sistema de medios de impugnación de los que conocerán la Comisión Estatal Electoral y el Tribunal Estatal de Elecciones, en los términos que señale esta Constitución y la Ley respectiva.
 
-ARTICULO 2,313.- El vendedor a que se refiere el artículo anterior, mientras no se venza el plazo para pagar el precio, no podrá enajenar la cosa vendida con reserva de propiedad. Esta limitación de dominio se anotará en la parte correspondiente.
+La Comisión Estatal Electoral y el Tribunal Estatal de Elecciones gozarán de autonomía en su funcionamiento e independencia en sus decisiones. El sistema de medios de impugnación dará definitividad a las distintas etapas en los procesos electorales y garantizará los derechos políticos de los ciudadanos de votar, ser votado y de libre asociación.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+En el ámbito electoral, la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
-ARTICULO 2,314.- Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, se aplicará lo que dispone el artículo 2,311.
+La Ley de la materia establecerá los delitos, procedimientos y sanciones en materia electoral.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+###### Artículo 46.
 
-ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
+La Legislatura del Estado se compondrá de veinticuatro miembros nombrados popularmente en elección directa, por el principio de mayoría relativa, en los Distritos Electorales Uninominales que establece la Ley, y hasta con veintiún Diputados que serán electos por el principio de representación proporcional, mediante el sistema de listas votadas en la Circunscripción Plurinominal, conforme a las bases generales siguientes y a lo que en particular disponga la Ley:
 
-### CAPITULO VIII. De la forma del contrato de compra-venta
+I. Para obtener el registro de su lista regional, el partido político que lo solicite deberá acreditar que participa con candidatos a Diputados por el principio de mayoría relativa en por lo menos quince de los veinticuatro distritos electorales uninominales;
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+II. Tendrán derecho a ser considerados en el cálculo para la asignación de Diputados electos por el principio de representación proporcional únicamente los partidos que alcancen por lo menos el dos por ciento del total de la votación emitida en la Circunscripción Plurinominal;
 
-ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
+III. A los partidos que cumplan con los supuestos señalados en las fracciones I y II de este artículo, de corresponderles, les serán asignados por el principio de representación proporcional el número de Diputados de su lista regional que alcancen conforme al porcentaje de votos obtenidos en la Circunscripción Plurinominal, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+IV. La Ley determinará la fórmula electoral y los procedimientos que se observarán en la asignación de Diputados por el principio de representación proporcional.
 
-ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor de avalúo no exceda al equivalente a trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación y la constitución o trasmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez competente o Registro Público de la Propiedad.
+Ningún partido político podrá contar con más de veintisiete Diputados en la Legislatura del Estado, sumando los electos por mayoría relativa y los que conforme a su votación tenga derecho a obtener por el principio de representación proporcional.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
-Los contratos por los que el Gobierno del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
+###### Artículo 47.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+Los diputados no podrán ser reelectos para el período inmediato a aquél en que estén en funciones, los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Distrito Federal sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el artículo 730 de este Código, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+###### Artículo 48.
 
-Los contratos a que se refiere el párrafo segundo, así como los que se otorguen con motivo de los programas de regularización de la tenencia de la tierra que realice el Gobierno del Distrito Federal sobre inmuebles de propiedad particular, podrán también otorgarse en el protocolo abierto especial a cargo de los notarios del Distrito Federal, quienes en esos casos reducirán en un cincuenta por ciento las cuotas que correspondan conforme al arancel respectivo.
+Por cada Diputado propietario se elegirá a un suplente. En ambos casos se requiere:
 
-ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del art. 1,834.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
 
-ARTICULO 2,319.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
+I. Ser ciudadano veracruzano, nativo del Estado, o con residencia efectiva en el mismo no menor de cinco años inmediatamente anteriores al día de la elección en caso de no ser natural del mismo; en ambos casos en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+II. Saber leer y escribir;
 
-ARTICULO 2,320.- Si el valor de avalúo del inmueble excede de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación, su venta se hará en escritura pública, salvo lo dispuesto por el artículo 2317.
+III. (DEROGADA, G.O. 17 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
 
-ARTICULO 2,321.- Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación, cuando la venta sea al contado podrá formalizarse, haciéndola constar por escrito en el certificado de inscripción de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+IV. No ser ministro de ningún culto religioso;
 
-La constancia de la venta será ratificada ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
+> <small>(REFORMADA, G.O. 19 DE ENERO 1988)</small>
 
-ARTICULO 2,322.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
+V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos cuando menos noventa días antes de la elección, únicamente por lo que hace a los propietarios; y
 
-### CAPITULO IX. De las ventas judiciales
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 1991)</small>
 
-ARTICULO 2,323.- Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
+VI. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquéllos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
-ARTICULO 2,324.- No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a los incapacitados, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
+###### Artículo 49.
 
-ARTICULO 2,325.- Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles.
+No pueden ser electos Diputados:
 
-ARTICULO 2,326.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 34.
+I. El Gobernador, los Secretarios de Despacho, los Magistrados del Poder Judicial, los Consejeros de la Judicatura y el Procurador General de Justicia del Estado;
 
-Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
+II. Los Diputados al Congreso General, estén o no en ejercicio;
 
-###### ARTICULO 35.
+III. Los ministros de cualquier culto;
 
-En el Distrito Federal, estará a cargo de los Jueces del Registro Civil autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y muerte de los mexicanos y extranjeros residentes en los perímetros de las Delegaciones del Distrito Federal, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
+IV. Los militares en servicio activo o en cuartel;
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+V. Los Presidentes Municipales por los Distritos en que ejerzan autoridad; y
 
-###### ARTICULO 36.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-Los Jueces del Registro Civil, asentarán en formas especiales que se denominarán "Formas del Registro Civil", las actas a que se refiere el artículo anterior.
+VI. Los Jefes de las Rentas Federales y los Administradores de Rentas por los Distritos en donde ejerzan sus funciones.
 
-Las inscripciones se harán mecanográficamente y por triplicado.
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+###### Artículo 50.
 
-###### ARTICULO 37.
+Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
 
-Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla el artículo anterior.
+###### Artículo 51.
 
-La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Juez del Registro Civil.
+La Legislatura se renovará en su totalidad cada tres años y comenzará a funcionar, en cada trienio, el día 1º de diciembre inmediato posterior a las elecciones.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 1997)</small>
 
-###### ARTICULO 38.
+###### Artículo 52.
 
-Si se perdiere o destruyere alguna de las Formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su artículo 41.
+En cada año tendrá un periodo de sesiones ordinarias, prorrogable por treinta días, que principiará en la fecha expresada en el artículo precedente y concluirá el último día de febrero del año siguiente.
 
-La Procuraduría General de Justicia del Distrito Federal, cuidará de que se cumpla esta disposición y a este efecto, el Juez del Registro Civil o el encargado del Archivo Judicial, le darán aviso de la pérdida.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+###### Artículo 53.
 
-###### ARTICULO 39.
+En el período de sesiones ordinarias la Legislatura se ocupará de preferencia, en examinar, discutir y aprobar los presupuestos que, con relación a los ingresos y egresos del año siguiente, le serán presentados por el C. Gobernador; en examinar y aprobar los planes de arbitrios de los municipios; en examinar y aprobar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por el Gobernador y los Ayuntamientos, en las fechas que indiquen las Leyes Orgánicas respectivas. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el Presupuesto del Gobierno del Estado, las que empleará el Secretario General de Gobierno por acuerdo escrito del Gobernador.
 
-El estado civil sólo se comprueba con las constancias relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la ley.
+###### Artículo 54.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Se reunirá la Legislatura en sesiones extraordinarias cada vez que fuere convocada por la Diputación permanente, ya lo hiciere ésta por sí o de acuerdo con el Ejecutivo, y, durante ellas, se ocupará exclusivamente en los asuntos comprendidos en la convocatoria y en los que se califiquen de urgentes por el voto de dos terceras partes de los Diputados presentes.
 
-###### ARTICULO 40.
+### CAPITULO II.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las formas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumento o testigos.
+DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 41.
+###### Artículo 55.
 
-Las Formas del Registro Civil serán expedidas por el Jefe de Gobierno del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil, otro al Archivo del Tribunal Superior de Justicia del Distrito Federal y el otro, con los documentos que le correspondan quedará en el archivo de la oficina en que hayan actuado.
+Si las sesiones extraordinarias se prolongan hasta el tiempo en que deban comenzar las ordinarias, cesarán aquéllas; y, durante éstas, se despacharán, de preferencia, los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
-### CAPITULO VI. De las actas de emancipación
+###### Artículo 56.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+La Legislatura, ni el Colegio Electoral cuando se constituya conforme al Artículo 86 de esta Constitución, pueden ejercer sus funciones sin la concurrencia de más de la mitad del número total de diputados; pero los presentes, cualquiera que sea el número, deberán reunirse los días señalados por el reglamento para compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren, se entenderá por ese solo hecho, excepto caso justificado, que no aceptan el cargo llamándose luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren se declarará vacante el puesto y se convocará a nuevas elecciones en tratándose de diputados electos por mayoría relativa. Se llamará al que sigue en el orden de la lista regional votada en la circunscripción plurinominal cuando se trate de diputados electos según el principio de representación proporcional.
 
-###### ARTICULO 42.
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
-El Juez del Registro Civil que no cumpla con las prevenciones del artículo anterior, será destituido de su cargo.
+Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente de la Legislatura -con la cual se dará conocimiento a ésta- renuncian a concurrir durante ese período llamándose desde luego a los suplentes. Si no hubiere quórum para instalar la Legislatura o para que ejerza sus funciones, una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entretanto transcurren los ocho días de que antes se habla.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
-No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+## TITULO SEPTIMO.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+DEL TRABAJO Y DE LA PREVISIÓN SOCIAL.
 
-###### ARTICULO 44.
+###### Artículo 57.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de lo Familiar, Menor o de Paz.
+El lugar de sesiones de la H. Legislatura, será la ciudad de Jalapa, en donde residirán los Poderes del Estado, los que sólo podrán transladarse a otro lugar, provisionalmente, por decreto de la Legislatura o de la Diputación Permanente.
 
-###### ARTICULO 45.
+> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 1994)</small>
 
-Los testigos que intervengan en las actas del Registro Civil, serán mayores de edad, prefiriéndose los que designen los interesados, aun cuando sean sus parientes.
+###### Artículo 58.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Los trabajos para la instalación de la Legislatura, en su primer período de sesiones ordinarias, se iniciarán diez días antes del fijado para la apertura de las mismas.
 
-###### ARTICULO 46.
+###### Artículo 59.
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Juez del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 47.
+###### Artículo 60.
 
-Los vicios o defectos que haya en las actas, sujetan al Juez del Registro Civil a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+El Gobernador del Estado presentará ante la Legislatura el día 1º de diciembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente, excepto en el último año de su mandato, en que dicho documento deberá presentarse el día 31 de octubre. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que deberán concurrir los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social, para ampliar o detallar aspectos relacionados con sus ramos.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
-###### ARTICULO 48.
+###### Artículo 61.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los Jueces Registradores estarán obligados a darlo.
+A la apertura de los períodos de sesiones extraordinarias precederá solamente una reunión preparatoria.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
-###### ARTICULO 49.
+###### Artículo 62.
 
-Los actos y actas del estado civil del propio Juez, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el mismo Juez, pero se asentarán en las formas correspondientes y se autorizarán por el Juez de la adscripción más próxima.
+Cada tres años, el Gobernador enviará a la Cámara una memoria, a la cual expondrá la situación que guarde el Estado en todos los ramos administrativos. La memoria contendrá, además de la parte meramente informativa, los documentos y cuadros sinópticos necesarios para la completa inteligencia de los asuntos.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+###### Artículo 63.
 
-###### ARTICULO 50.
+Las sesiones, tanto en los períodos ordinarios como en los extraordinarios, serán públicas; pero cuando se trate de negocios que exijan reserva, las habrá secretas, de conformidad con lo que establezca el Reglamento interior.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Juez del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+###### Artículo 64.
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la Ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+Los diputados son inviolables por las opiniones manifestadas en el ejercicio de su encargo.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+El Presidente de la Legislatura velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
-###### ARTICULO 51.
+###### Artículo 65.
 
-Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Federal de Procedimientos Civiles, y siempre que se registren en la Oficina que corresponda del Distrito Federal o de los Estados.
+No podrán ser procesados por delitos comunes, sin que preceda la declaración de la Legislatura de haber lugar a formación de causa.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+### CAPITULO III.
 
-###### ARTICULO 52.
+DE LAS PRERROGATIVAS DE LOS DIPUTADOS, DE LAS FACULTADES DE LA LEGISLATURA Y RESTRICCIONES DE ELLAS.
 
-Los Jueces del Registro Civil se suplirán en sus faltas temporales por el más próximo de la Delegación en que actúen. A falta de éste, por el más próximo de la Delegación colindante.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE OCTUBRE DE 1978)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+###### Artículo 66.
 
-###### ARTICULO 53.
-
-El Ministerio Público, cuidará que las actuaciones e inscripciones que se hagan en las Formas del Registro Civil, sean conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como consignar a los Jueces registradores que hubieren cometido delito en el ejercicio de su cargo, o dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados.
-
-###### ARTICULO 54.
-
-Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil en su oficina o en el lugar donde aquél hubiere nacido.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-### CAPITULO VII. De las actas de matrimonio
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-###### ARTICULO 55.
-
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
-
-Los médicos cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Juez del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
-
-Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
-
-Recibido el aviso, el Juez del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
-
-###### ARTICULO 56.
-
-(DEROGADO, D.O.F. 3 DE ENERO DE 1979)
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-## TITULO SEPTIMO. De la paternidad y filiación
-
-###### ARTICULO 57.
-
-En las poblaciones en que no haya Juez del Registro Civil, el niño será presentado a la persona que ejerza la autoridad delegacional o municipal en su caso, y éste dará la constancia respectiva que los interesados llevarán al Juez del Registro que corresponda, para que asiente el acta.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-###### ARTICULO 58.
-
-El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que le correspondan; asimismo, la razón de si se ha presentado vivo o muerto; la impresión digital del presentado. Si éste se presenta como hijo de padres desconocidos, el Juez del Registro Civil le pondrá el nombre y apellidos, haciéndose constar esta circunstancia en el acta.
-
-Si el nacimiento ocurriere en un establecimiento de reclusión, el Juez del Registro Civil deberá asentar como domicilio del nacido, el Distrito Federal.
-
-En los casos de los artículos 60 y 77 de este Código el Juez pondrá el apellido paterno de los progenitores o los dos apellidos del que lo reconozca.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-###### ARTICULO 59.
-
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres, los nombres y domicilios de los abuelos y los de las personas que hubieren hecho la presentación.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-###### ARTICULO 60.
-
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo fuera del matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 44, haciéndose constar la petición.
-
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacer la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
-
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio.
-
-En las actas de nacimiento no se expresará que se trata en su caso de hijo natural.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-###### ARTICULO 61.
-
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Juez del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
-
-###### ARTICULO 62.
-
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-###### ARTICULO 63.
-
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Juez del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
-
-###### ARTICULO 64.
-
-Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-###### ARTICULO 65.
-
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Juez del Registro Civil con los vestidos, valores o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, dándose además intervención al Ministerio Público.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-### CAPITULO VIII. De las actas de divorcio
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-###### ARTICULO 66.
-
-La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión, y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas y en caso de incumplimiento, la autoridad Delegacional impondrá al infractor una multa de diez a cincuenta días del importe del salario mínimo legal fijado en el lugar correspondiente.
+Los Diputados, durante el período de su encargo, no podrán desempeñar, sin permiso de la Legislatura, ninguna comisión pública, o empleo dependiente de la Federación, o de la Administración del Estado o de la Municipal; pero concedido el permiso, cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los suplentes cuando estuvieren en ejercicio. La infracción de esa disposición será castigada con la pérdida del carácter de Diputado.
 
 ### CAPITULO VII. De las donaciones antenupciales
 
-### CAPITULO IX. De las actas de defunción
+### CAPITULO IV.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+DE LA FORMACIÓN Y PUBLICACIÓN DE LAS LEYES.
 
-###### ARTICULO 67.
+###### Artículo 67.
 
-En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
+En ningún caso podrán alegar ocupaciones particulares para excusarse del cumplimiento de los deberes de su encargo.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+### CAPITULO V.
 
-### CAPITULO X. De las Inscripciones de las Ejecutorias que Declaran o Modifican el Estado Civil
+DE LA DIPUTACIÓN PERMANENTE.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-## TITULO TERCERO. Del domicilio
+## TITULO TERCERO.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
+### CAPITULO VI.
 
-### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
+DEL GOBERNADOR DEL ESTADO, DE SUS FACULTADES Y OBLIGACIONES.
 
-###### ARTICULO 68.
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, el Juez del Registro Civil, ordenará su depósito ante el Ministerio Público respectivo; mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+###### Artículo 68.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Son facultades y obligaciones de la Legislatura:
 
-###### ARTICULO 69.
+I. Dar, interpretar y derogar las leyes;
 
-Se prohibe absolutamente al Juez del Registro Civil y a los testigos que conforme al artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+II. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como la reforma o derogación de unas y de otros; y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de los otros Estados;
+
+III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya un ataque a la soberanía o independencia del Estado o de la Constitución General;
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+IV. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Tribunal Estatal de elecciones;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+V. Conceder al Gobernador y a los Diputados licencia temporal para separase de su cargo; concederla al Gobernador para salir del Estado, licencia que puede ser global hasta por un año, y otorgar o negar su aprobación a las solicitudes de licencia de los Magistrados del Poder Judicial que les someta el Consejo de la Judicatura, así como, en los mismos términos, al Consejero que hubiera designado;
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+VI. Designar, a propuesta de los partidos políticos y con el voto aprobatorio de las dos terceras partes de los diputados presentes, a los Comisionados Electorales y, de entre éstos, al Presidente del Consejo General de la Comisión Estatal Electoral, en los términos que fije la Ley;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a uno o más de sus miembros, por algunas de las causas previstas por las leyes, siempre y cuando sus miembros hayan tenido oportunidad para rendir pruebas y formular alegatos;
+
+VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+IX. Resolver sobre la renuncia que presente el Gobernador del Estado; sobre las renuncias de los Magistrados del Poder Judicial que les someta el Consejo de la Judicatura; y sobre la renuncia del Consejero que hubiera designado la Legislatura;
+
+X. Recibir a los mismos funcionarios la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XI. Declarar, en los términos del artículo 124 de esta Constitución, si ha o no lugar a proceder penalmente, contra los servidores públicos que hubieren sido acusados de la comisión de algún delito;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XII. Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 123 de esta Constitución e instituirse en órgano de acusación, en los juicios políticos que contra éstos se instauren;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XIII. En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes, por acuerdo de las dos terceras partes de sus integrantes, la Legislatura designará de entre los vecinos el Concejo Municipal que concluirá el período respectivo;
+
+XIV. Fijar anualmente los gastos públicos y decretar las contribuciones con que hayan de ser cubiertos, en vista del Presupuesto que el Ejecutivo presente.
+
+La Legislatura, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el Presupuesto anterior o en la ley que estableció el empleo;
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
+
+Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de la Comisión Estatal Electoral, debiendo ésta rendir cuentas anualmente a la Legislatura del Estado acerca de su ejercicio.
+
+XV. Tomar cuentas al Gobierno, cada año, o cuando le parezca oportuno, de la recaudación o inversión de los caudales públicos;
+
+XVI. Contraer deudas sobre el crédito del Estado y señalar fondos para pagarlas;
+
+XVII. Crear, suprimir y dotar competentemente los empleos del Estado;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XVIII. Dar, a iniciativa del Ejecutivo, la Ley de Planeación que reglamentará la formulación, instrumentación, control, evaluación y actualización de los planes, programas y proyectos de la Administración Pública Estatal. La Planeación del desarrollo económico y social del Estado, será democrática y obligatoria para el poder público;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIX. Proteger la libertad de cultos sin consentir preferencia alguna en favor de determinada religión;
+
+XX. Dar reglas de colonización conforme a las bases que establezca el Congreso General;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXI. Por acuerdo de las dos terceras partes de sus integrantes, oyendo previamente al Ayuntamiento o a los Ayuntamientos interesados y al Gobernador del Estado;
+
+a). Fijar el territorio, límites y extensión que corresponda a cada municipio;
+
+b). Modificar la extensión de los municipios;
+
+c). Suprimir uno o más municipios;
+
+ch). Fusionar dos o más municipios y crear otro nuevo;
+
+d). Crear nuevos municipios; y
+
+e). Resolver las cuestiones que surjan entre los municipios por límites territoriales, competencias o de cualquier otra especie.
+
+XXII. Conceder al Ejecutivo, por un tiempo limitado y por el mismo número de votos, las facultades extraordinarias que necesite para salvar la situación, en casos de invasión, alteración del orden o peligro público;
+
+XXIII. Cambiar provisionalmente la residencia de los Poderes del Estado, por la misma mayoría que exigen las dos fracciones anteriores;
+
+XXIV. Conceder amnistía en circunstancias extraordinarias y siempre que sea acordada por una mayoría de dos tercios de los Diputados presentes, por delitos cuyo conocimiento pertenezca a los Tribunales del Estado;
+
+XXV. Decretar el modo de cubrir el contingente de hombres que toque dar al Estado para el Ejército de la Nación, y expedir reglamentos para la instrucción de la Guardia Nacional, con sujeción a la fracción XV del artículo 73 de la Constitución General;
+
+XXVI. Autorizar al Ejecutivo para poner sobre las armas la Guardia Nacional;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+XXVII. Dirimir los conflictos que se susciten entre los Poderes Ejecutivo y Judicial;
+
+XXVIII. Conceder dispensas de ley por causas justificadas o por razones de conveniencia y utilidad pública;
+
+XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren acreedores a ello por sus méritos; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado;
+
+XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+XXXI. Nombrar por el voto de las dos terceras partes de los Diputados presentes; a los Magistrados del Poder Judicial, a propuesta del Consejo de la Judicatura;
+
+XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
+
+XXXIII. Cuando falte a la vez un Diputado propietario y el suplente respectivo, la Legislatura convocará a elecciones extraordinarias, siempre que hayan de transcurrir más de seis meses para que las ordinarias se efectúen;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXXIV. Señalar los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones y demás ingresos fiscales que deban formar la Hacienda de los municipios, y aprobar las leyes de ingresos de los ayuntamientos;
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
+
+XXXV. Por acuerdo de las dos terceras partes de sus integrantes, designar de entre los vecinos de un Municipio, a los que integrarán el Concejo Municipal, cuando el día último del mes de diciembre inmediato a la elección de los Ayuntamientos, no se hubiere hecho la calificación correspondiente;
+
+XXXVI. Dictar las leyes a que se refiere la fracción VII (párrafo segundo) del artículo 27 de la Constitución General y los incisos (A) y (F) del mismo artículo;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXXVII. Revisar las cuentas, actas, inventarios, avalúos, recibos y demás documentos que presenten o se soliciten a los ayuntamientos, en los términos señalados por las leyes respectivas;
+
+XXXVIII. Organizar en el territorio del Estado el sistema penal por Colonias, Penitenciarías o Presidios sobre la base del trabajo como medio de regeneración;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XXXIX. Establecer las bases normativas para que los ayuntamientos expidan los bandos de policía y buen Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XL. Discutir y aprobar, en su caso, la legislación que proponga la Secretaría de Salud y Asistencia, por medio del Ejecutivo del Estado sobre esta materia, y dictar las disposiciones conducentes a la lucha contra el alcoholismo;
+
+XLI. Aprobar las disposiciones que dicte el Ejecutivo con relación a la organización, disciplina y funciones de la Guardia Civil o de Seguridad del Estado y el número de plazas que deba tener;
+
+XLII. Conceder la gracia de indulto, del todo o de una parte de la pena impuesta por los Tribunales, previo informe del que haya pronunciado la sentencia;
+
+XLIII. Conceder pensiones o auxilios a los empleados públicos que, por enfermedad o edad avanzada, estén inútiles para servir, siempre que tengan veinticinco años de buenos servicios; y
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+XLIV. Cumplir la función social de legislar en materia educativa, conforme a las siguientes bases:
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+a). El proceso educativo tenderá a desarrollar armónicamente todas las facultades del ser humano y a fomentar en él, a la vez, el amor a la patria, a Veracruz, y a la conciencia de la solidaridad internacional, en la independencia y en la justicia;
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+b). El Estado impartirá la educación preescolar, primaria y secundaria; promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación superior; apoyará la investigación científica y tecnológica; y alentará el fortalecimiento y difusión de nuestra cultura;
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+c). El Estado impulsará la educación formal e informal orientadas hacia la producción y la productividad y la productividad, para el desarrollo social, apoyado en los aportes de la tecnología;
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+d). La educación que imparte el estado será laica y por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+e). La educación primaria y la secundaria son obligatorias y se impartirán gratuitamente por el Estado y los Municipios;
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 1996)</small>
+
+f). La Universidad Veracruzana será autónoma; tendrá la facultad y la responsabilidad de gobernarse a sí misma y realizará sus fines de conservar, crear y transmitir la cultura, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación y de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico, y administrará su patrimonio;
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+g). En el estado funcionarán las instituciones educativas particulares de cualquier nivel que, en su finalidad, organización y programas de trabajo, se ajusten a las disposiciones legales respectivas. Tales instituciones quedarán sometidas al reconocimiento y vigilancia oficiales;
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
+
+h). La retención indebida del salario de los trabajadores de la educación, será causa de responsabilidad para los servidores públicos a quienes sea imputable aquélla y motivo de separación del puesto que desempeñen, en la forma que determine la Ley;
+
+XLV. Formar su Reglamento interior, tomar las providencias necesarias para hacer concurrir o los Diputados ausentes y corregir las faltas u omisiones de los presentes;
+
+XLVI. Nombrar y remover libremente a los empleados y dependientes de su Secretaría; y
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XLVII. Señalar las bases normativas conforme a las cuales los ayuntamientos elaborarán y aprobarán sus presupuestos de egresos;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XLVIII. Modificar el nombre de los municipios a solicitud de los ayuntamientos respectivos, cuando previamente éstos lo hayan acordado así, por las dos terceras partes de sus ediles y hayan escuchado la opinión de los agentes municipales y jefes de Manzana;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XLIX. Crear y suprimir congregaciones; autorizar el traslado de un Ayuntamiento a otra cabecera cuando así lo requiera el interés público y autorizar categorías y denominaciones políticas de los centros de población o sus cambios, en los términos establecidos por las leyes;
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
+
+L. Determinar el número de Ediles de los Ayuntamientos y sancionar los procedimientos de elección de los Agentes Municipales;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LI. Calificar las causas graves para que los ediles se separen o renuncien a sus cargos; y las faltas temporales cuando excedan de sesenta días, definitivas o indefinidas para llamar, en su caso, a los suplentes, en los términos previstos por las leyes;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LII. Aprobar o autorizar en su caso a los ayuntamientos, si procede:
+
+a). La contratación de obras y servicios públicos que hagan los ayuntamientos, cuando produzcan obligaciones que excedan la duración del ayuntamiento contratante;
+
+b). La celebración de contratos y de obras públicas cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
+
+c). La contratación de empréstitos;
+
+ch). La enajenación, gravamen, transmisión de la posesión o dominio de bienes, participaciones, impuestos, derechos, aprovechamientos, contribuciones o cualquier otro tipo de ingreso fiscal que formen la Hacienda Municipal;
+
+d). La transmisión en forma gratuita o donación de la propiedad, uso o usufructo de los bienes propiedad del municipio;
+
+e). Las concesiones de prestación de servicios públicos que les corresponda a los municipios, sus prórrogas y cancelaciones;
+
+f). La celebración de convenios con la Federación, Estado, personas físicas y morales, y de coordinación con otros municipios.
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LIII. Llevar el registro de la situación patrimonial de los servidores públicos municipales, en los términos establecidos por las leyes respectivas;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+LIV. Nombrar inspectores, interventores o auditores, con el objeto de examinar las funciones, los servicios públicos, la contabilidad y demás actos que realicen los ayuntamientos;
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 1990)</small>
+
+LV. Expedir las leyes que regulen el ámbito de competencia del Gobierno del Estado y de los Municipios en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+LVI. Designar, con la aprobación de las dos terceras partes de los Diputados presentes; a los Magistrados del Poder Judicial, a propuesta del Consejo de la Judicatura;
+
+> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 1989)</small>
+
+LVII. Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución, la Federal y las leyes que de ellas emanen a los poderes del Estado y a los municipios de la Entidad.
+
+###### Artículo 69.
+
+No puede la Legislatura:
+
+I. Atentar contra el sistema representativo, popular, federal;
+
+II. Consentir en que funcionen como autoridades las que debiendo ser electas popularmente, según esta Constitución, no tengan tal origen o no sean nombradas por el Ejecutivo cuando se halle investido con facultades extraordinarias;
+
+III. Imponer préstamos forzosos de cualquier especie o naturaleza que sean;
+
+IV. Decretar penas por actos ya ejecutados;
+
+V. Mandar a hacer cortes de cuentas con los acreedores del Estado, a fin de dejar sus créditos insolutos;
+
+VI. Usurpar las facultades de los Poderes Ejecutivo y Judicial, y mezclarse en el ejercicio de las funciones que a ellos competen; y
+
+VII. Otorgar dispensas por revalidación en los estudios que determinen las leyes sobre enseñanza pública, para el efecto de obtener títulos profesionales;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+
+VIII. Establecer exenciones o subsidios respecto de los impuestos, derechos, productos, aprovechamientos, contribuciones o cualesquiera otro tipo de ingreso fiscal municipal en favor de personas físicas o morales, ni de instituciones oficiales o privadas.
 
 ### CAPITULO VIII. De las donaciones entre consortes
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-###### ARTICULO 70.
+###### Artículo 70.
 
-Si el nacimiento ocurriere a bordo de un buque nacional, los interesados harán extender una constancia del acto, en que aparezcan las circunstancias a que se refieren los artículos del 58 al 65, en su caso, y solicitarán que la autorice el capitán o patrono de la embarcación y dos testigos de los que se encuentren a bordo, expresándose, si no los hay, esta circunstancia.
+Son iniciativas de ley o decreto:
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 1996)</small>
 
-###### ARTICULO 71.
+I. Las proposiciones que dirigen a la Legislatura, el Gobernador del Estado, las Legislaturas de otros Estados de la Federación y el Tribunal Superior de Justicia;
 
-En el primer puerto nacional a que arribe la embarcación, los interesados entregarán el documento de que habla el artículo anterior, al Juez del Registro Civil, para que a su tenor asiente el acta.
+II. Las proposiciones de los miembros de la Legislatura admitidas a discusión, conforme al Reglamento; y
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+III. Las que sean hechas por los Ayuntamientos del Estado, en lo relativo a sus localidades y sobre los ramos que administren.
 
-## TITULO CUARTO. Del Registro Civil
+###### Artículo 71.
 
-### CAPITULO I. De los Esponsales
+Las iniciativas de ley o de decreto deberán sujetarse a los trámites siguientes:
 
-###### ARTICULO 72.
+I. Dictamen de comisiones;
 
-Si en el puerto no hubiere funcionario de esta clase, se entregará la constancia antes dicha a la autoridad local, la que la remitirá inmediatamente al Juez del Registro Civil del domicilio de los padres.
+II. Una o dos discusiones, en los términos que se expresan en seguida:
 
-###### ARTICULO 73.
+La primera discusión se verificará el día que designe el Presidente de la Legislatura, conforme al Reglamento.
 
-Si el nacimiento ocurriere en un buque extranjero se observará por lo que toca a las solemnidades del Registro, lo prescrito en el artículo 15.
+Concluída esta discusión se pasará al Ejecutivo copia del expediente, para que en el término de siete días manifieste su opinión, o exprese que no usa de esa facultad.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Si la opinión del Ejecutivo fuere conforme, se procederá sin más dilación, a la votación de la ley. Si dicha opinión discrepare, en todo o en parte, volverá el expediente a la comisión, para que en presencia de las observaciones del Ejecutivo examine de nuevo el asunto. El segundo dictamen será también discutido y puesto a votación, pero no podrá ser ley o decreto si no es aprobado por dos tercios de votos de los miembros presentes, en los puntos en que estuviere la discrepancia; y
+
+III. Aprobación por la mayoría que, en cada caso, exija la ley.
+
+## TITULO CUARTO.
+
+DE LOS MUNICIPIOS.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+### CAPITULO VII.
+
+DE LOS SECRETARIOS.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+###### Artículo 72.
+
+En el caso de urgencia notoria calificada por el voto de los dos tercios de los Diputados presentes, o cuando esté para terminar algún período de sesiones, la Legislatura puede dispensar los trámites meramente reglamentarios, sin que se omita, en ningún caso, oír la opinión del Ejecutivo, a quien puede reducirse a dos días el término para hacer observaciones.
+
+###### Artículo 73.
+
+Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Legislatura, dentro de siete días útiles; a no ser que corriendo ese término hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que vuelva a reunirse.
 
 ### CAPITULO IX. De los matrimonios nulos e ilícitos
 
-### CAPITULO II. De los requisitos para contraer matrimonio
+### CAPITULO VIII.
 
-###### ARTICULO 74.
+DEL PODER JUDICIAL.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Juez del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+###### Artículo 74.
 
-###### ARTICULO 75.
+Cuando haya dictamen en un todo conforme a iniciativa correspondiente del Ejecutivo, no se le pasará el expediente, como previene la fracción II del artículo 71.
 
-Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción, en las Formas del Registro Civil que correspondan.
+Las votaciones de ley o decreto serán nominales.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+###### Artículo 75.
 
-## TITULO QUINTO. Del matrimonio
+Aprobado el proyecto en los términos que disponen los artículos anteriores, es ley, y se remitirá al Ejecutivo para que la publique inmediatamente.
 
-### CAPITULO III. De los derechos y obligaciones que nacen del matrimonio
+## TITULO QUINTO.
 
-###### ARTICULO 76.
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 58 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la matrona o las personas que hayan asistido el parto y, además, se imprimirán las huellas digitales de los presentados. El Juez del Registro Civil relacionará las actas.
+### CAPITULO IX.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
+DE LA PROTECCIÓN DE LOS DERECHOS HUMANOS.
 
-###### ARTICULO 77.
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
-Si el padre o la madre de un hijo natural, o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
+###### Artículo 76.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+Desechado algún proyecto de ley o decreto, no podrá ser propuesto de nuevo en las mismas sesiones, pero ésto no impedirá que alguno o algunos de sus artículos formen parte de otro proyecto.
+
+###### Artículo 77.
+
+Al promulgarse una disposición legislativa que adopte, modifique o derogue uno o varios artículos de otra ley, serán reproducidos textualmente al pie de la nueva, los artículos a que ella se refiera.
 
 ### CAPITULO X. Del divorcio
 
-###### ARTICULO 78.
+###### Artículo 78.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada.
+Ninguna resolución de la Legislatura tendrá otro carácter que el de ley, decreto o acuerdo económico. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y el Secretario de la Legislatura y los acuerdos económicos sólo por el Secretario.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+###### Artículo 79.
 
-###### ARTICULO 79.
+El Ejecutivo no puede hacer observaciones a las resoluciones de la Legislatura cuando ejerza funciones de Cuerpo Electoral o de Jurado, lo mismo que cuando declare que debe acusarse a algún funcionario del Estado por delitos oficiales.
 
-El reconocimiento del hijo natural mayor de edad requiere el consentimiento expreso de éste en el acta relativa.
+Tampoco podrá hacerlas al decreto de convocatoria que expida la Diputación permanente, en el caso del artículo 82, fracción I, ni en el de la fracción V del artículo 68.
 
 ### CAPITULO I. Del parentesco
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
 
-## TITULO SEXTO. Del parentesco, de los alimentos y de la violencia familiar
+## TITULO SEXTO.
 
-### CAPITULO IV. Del contrato de matrimonio con relación a los bienes
+DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS.
 
-Disposiciones generales
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 80.
+### CAPITULO X.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del Título séptimo de este Libro.
+DEL MINISTERIO PÚBLICO.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
-### CAPITULO V. De la sociedad conyugal
+###### Artículo 80.
 
-###### ARTICULO 81.
+La víspera del día en que deben terminar las sesiones ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta por dieciocho Diputados en ejercicio, de los cuales nueve funcionarán como propietarios y nueve quedarán como suplentes.
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
+### CAPITULO I.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+DE LA HACIENDA Y CRÉDITO DEL ESTADO.
 
-###### ARTICULO 82.
+###### Artículo 81.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación correspondiente.
+La Diputación permanente durará hasta la siguiente reunión ordinaria de la Legislatura.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE AGOSTO DE 1932)</small>
 
-###### ARTICULO 83.
+###### Artículo 82.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Juez del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que haga la anotación en el acta respectiva.
+Son atribuciones de la Diputación Permanente:
+
+I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la misma Diputación estime urgente, o a moción del Ejecutivo, conforme al artículo 54, pudiendo hacer la convocatoria para lugar distinto de la capital del Estado, cuando las circunstancias así lo exijan;
+
+II. Llamar a los Diputados suplentes de la misma Diputación, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falte alguno de los propietarios;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+III. Nombrar provisionalmente a los Magistrados del Tribunal Superior, así como conceder o negar las solicitudes de licencia o renuncia de los mismos que les someta el Consejo de la Judicatura y ejercer las mismas facultades de la Legislatura en los casos de las fracciones V y X, del Artículo 68;
+
+IV. Emitir su opinión en todos los asuntos que se presenten en el tiempo de su período y sobre los que quedaren pendientes al clausurarse las sesiones. Cuando se trate de asuntos de la competencia de la Legislatura, se reservarán los dictámenes para que sean discutidos por ésta;
+
+V. Acordar el llamamiento de los suplentes, en caso de muerte, separación o impedimento que no fuere transitorio, de los Diputados que hubieren de funcionar en las sesiones próximas;
+
+VI. (DEROGADA, G.O. 20 DE MARZO DE 1997)
+
+VII. (DEROGADA, G.O. 20 DE MARZO DE 1997)
+
+VIII. Convocar a elecciones extraordinarias, cuando falten, a la vez, un Diputado propietario y el suplente respectivo, y siempre que hayan de transcurrir más de seis meses para que concluya el período;
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+IX. Designar provisionalmente a un miembro del Consejo de la Judicatura y resolver sobre la solicitud de licencia o renuncia que presente dicho funcionario;
+
+X. Autorizar al Ejecutivo para poner sobre las armas la Guardia Nacional; y
+
+XI. Nombrar Gobernador Provisional, en el caso que se refiere el párrafo segundo del artículo 86;
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
+
+XII. Conocer de los asuntos relacionados con la hacienda de los Municipios, revisar y aprobar sus cuentas y sancionar los procedimientos de elección de los Agentes Municipales.
+
+###### Artículo 83.
+
+Para ser Gobernador del Estado, se requiere:
+
+I. Ser ciudadano veracruzano, nativo del Estado y en ejercicio de sus derechos, con residencia efectiva en el mismo no menor de cinco años, inmediatamente anteriores al día de la elección;
+
+II. Saber leer y escribir;
+
+III. Tener treinta años cumplidos;
+
+IV. No ser ministro de ningún culto religioso;
+
+V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios; o estar separado de ellos, cuando menos noventa días antes de la elección; y
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 1991)</small>
+
+VI. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquéllos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
 ### CAPITULO II. De los alimentos
 
 ### CAPITULO VI. De la separación de bienes
 
-###### ARTICULO 84.
+###### Artículo 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de ocho días, remitirá copia certificada de las diligencias al Juez del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
+El Gobernador, en cada período constitucional, tomará posesión de su encargo el día 1o de diciembre y hará previamente, ante la Legislatura, formal protesta de guardar y hacer guardar esta Constitución y la General de la República, así como las leyes que de ambas emanen, y cumplir bien y fielmente las obligaciones de su encargo.
 
-###### ARTICULO 85.
+(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
 
-La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
+###### Artículo 85.
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN EL D.O.F. DE 24 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR DEL ARTÍCULO CONSTABA DE DOS PÁRRAFOS.</small>
+El Gobernador durará seis años en su cargo y en ningún caso, ni por ningún motivo podrá volver a ocupar ese puesto, ni aun con el carácter de Interino, Provisional, Substituto o Encargado del Despacho.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE DICIEMBRE DE 1947)</small>
 
-###### ARTICULO 86.
+###### Artículo 86.
 
-En la adopción plena se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el artículo siguiente.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si la Legislatura estuviere en funciones, se constituirá en Colegio Electoral inmediatamente; y concurriendo, cuando menos, las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador; la misma Legislatura expedirá la convocatoria a elecciones, procurando que la fecha señalada, coincida si es posible, con la de las próximas elecciones a Diputados.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+Si la Legislatura no estuviere en sesiones, la Diputación permanente, nombrará, desde luego, un Gobernador Provisional, y convocará a sesiones extraordinarias, para que la Legislatura expida la convocatoria a elecciones de Gobernador, en los mismos términos del párrafo anterior.
 
-###### ARTICULO 87.
+> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 1947)</small>
 
-En la adopción plena, a partir del levantamiento del acta a que se refiere el artículo anterior se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si la Legislatura se encontrase en sesiones, elegirá al Gobernador substituto, que deberá concluir el período; si la Legislatura no estuviere reunida, la Diputación Permanente nombrará un Gobernador provisional y convocará a la Legislatura a sesiones extraordinarias, para que, erigida en Colegio Electoral, haga la elección de Gobernador substituto.
 
-###### ARTICULO 88.
+El Gobernador Provisional podrá ser electo por la Legislatura como substituto.
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
+El ciudadano que hubiere sido designado Gobernador Provisional para convocar a elecciones, en el caso de falta del Gobernador, en los dos primeros años del período respectivo, no podrá ser electo en las elecciones que se celebren con motivo de la falta de Gobernador, para cubrir la cual fué designado.
 
-## TITULO OCTAVO. De la patria potestad
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 1984)</small>
+
+El Gobernador substituto, el interino, el provisional o el ciudadano, que bajo cualquier denominación, hubiere sido designado Gobernador para concluir el período en caso de falta absoluta del Constitucional o que supla las faltas temporales de éste, no podrá ser electo para el período inmediato siempre que desempeñe el cargo los dos últimos años del período.
+
+###### Artículo 87.
+
+Son facultades y obligaciones del Gobernador:
+
+I. Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo, Federal y Local, y formar en la parte administrativa, los reglamentos necesarios para la exacta observancia de los segundos;
+
+II. Velar por la conservación del orden, tranquilidad y seguridad del Estado;
+
+III. Iniciar, ante la Legislatura, las leyes y decretos que juzgue convenientes para el mejoramiento de la Administración pública;
+
+IV. Presentar a la Legislatura, al principio de su primer período de sesiones ordinarias, el Presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo;
+
+V. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la ley;
+
+VI. Fomentar, por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad;
+
+VII. Convocar, de acuerdo con la Diputación permanente, a la Legislatura a sesiones extraordinarias;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+VIII. Visitar a los municipios del Estado cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y comunicar a la Legislatura o al Consejo de la Judicatura, las faltas que notare y cuya corrección corresponda a los Poderes Legislativo o Judicial;
+
+IX. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones;
+
+> <small>(REFORMADA, G.O. 29 DE OCTUBRE DE 1981)</small>
+
+X. Ocurrir anualmente al acto de apertura de Sesiones Ordinarias de la H. Legislatura;
+
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1996)</small>
+
+XI. Acordar que concurran los Secretarios del Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social a las sesiones de la Legislatura, para que den a ésta, los informes que pida o para apoyar en los debates las observaciones que haga el Ejecutivo a los proyectos de ley o decreto, o bien a las iniciativas que presentare;
+
+> <small>(REFORMADA, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
+
+XII. Pasar al Procurador los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su Ministerio. Podrá sin embargo el Ejecutivo nombrar algún abogado que lo represente en determinado asunto, cuando así lo crea conveniente;
+
+XIII. Impedir los abusos de la fuerza armada, contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que aquélla incurriere;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XIV. Nombrar y remover libremente a los Secretarios del Despacho y a los empleados de las Secretarías; concederles sin sueldo, las licencias que soliciten y suspender a los empleados hasta por tres meses, por faltas comprobadas en el desempeño de sus obligaciones y que no den motivo a que se les instruya causa o a que se les destituya;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XV. Nombrar y remover libremente al Procurador General de Justicia y a todos los funcionarios y empleados dependientes del poder ejecutivo;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+XVI. Designar al miembro del Consejo de la Judicatura que le corresponda, y resolver sobre la solicitud de licencia o renuncia, que presente dicho funcionario;
+
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
+XVII. Nombrar los jueces especiales del Estado Civil y fijar la demarcación en que deban ejercer sus funciones;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XVIII. Proponer a la Legislatura, la suspensión o revocación del mandato de uno o más integrantes de un Ayuntamiento o la suspensión o desaparición de uno o más ayuntamientos;
+
+XIX. Proponer a la Legislatura, o en su receso, a la Diputación permanente, la suspensión de los miembros de los Ayuntamientos que abusaren de sus facultades;
+
+XX. Castigar correccionalmente a los que le falten al respeto, o desobedezcan sus disposiciones como gobernante, con una pena que no exceda de 36 horas de arresto, o multa hasta de $300.00, sujetándose, en todo caso, a lo dispuesto en la parte final del artículo 21 de la Constitución General de la República. Si la multa no fuese pagada, se permutará ésta por el arresto correspondiente que nunca excederá de quince días;
+
+XXI. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de unas y otras, el mando y las demás atribuciones que le concede la Constitución General;
+
+XXII. Poner sobre las armas la Guardia Nacional con aprobación de la Legislatura, o de la Diputación permanente, en los recesos de aquélla;
+
+XXIII. Disponer de las fuerzas de Seguridad Pública y movilizar la Guardia Nacional, dentro de los límites del Estado, según lo exijan las necesidades públicas, y ordenar que pase la Guardia a otros Estados, en los términos que disponga la Constitución General;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 1996)</small>
+
+XXIV. Expedir los títulos profesionales de las instituciones de educación superior con arreglo a las leyes y reconocer la validez de los que se expidan en otras entidades, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución Federal;
+
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 1932)</small>
+
+XXV. Expedir los títulos profesionales con arreglo a las Leyes, reconocer la validez de los que se expidan en otras Entidades, observando la fracción V del artículo 121 de la Constitución Federal, presidir el Consejo Universitario y nombrar al Rector del mismo;
+
+> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+
+XXVI. Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible, a la aprobación de la Legislatura si estuviere reunida; si no lo estuviere, convocará, de acuerdo con la Diputación permanente, a sesiones extraordinarias;
+
+XXVII. Tener bajo su inmediata dependencia la policía, donde residan los Poderes del Estado;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXVIII. Fomentar, que los recursos naturales sean utilizados en forma racional, estableciendo políticas adecuadas y las normas tendientes a su cuidado, conservación y óptimo aprovechamiento;
+
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXIX. Opinar ante la Legislatura sobre la creación, supresión y fusión de municipios;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXX. Convenir con los municipios para que el Estado se haga cargo de alguna o algunas de las funciones relacionadas con la administración y recaudación de los impuestos, derechos, aprovechamientos, participaciones, contribuciones o cualquier otro tipo de ingresos fiscales que deban recibir los municipios o para la ejecución y operación de obras y la prestación de servicios públicos que deban suministrar los ayuntamientos y convenir para que éstos se hagan cargo de alguna o algunas de las funciones o de la ejecución y operación de obras y la prestación de servicios públicos correspondan al Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 1984)</small>
+
+XXXI. Las demás que le conceda expresamente esta Constitución.
+
+###### Artículo 88.
+
+No puede el Gobernador:
+
+I. Negarse a sancionar y publicar las leyes, decretos y acuerdos de la Legislatura;
+
+II. Distraer los caudales públicos de los objetos a que estén destinados por la ley;
+
+III. Imponer contribución alguna, a no ser que esté extraordinariamente facultado para ello;
+
+IV. Impedir ni retardar las elecciones populares o la instalación de la Legislatura;
+
+V. Intervenir en las elecciones para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo ésto motivo de nulidad de la elección y causa de responsabilidad;
+
+VI. Salir del Territorio del Estado sin licencia de la Legislatura o de la Diputación permanente, ni separarse de la Capital por más de cinco días sin dar aviso a la Legislatura o a la Diputación;
+
+VII. Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia;
+
+VIII. Mandar inmediata y personalmente en campaña, la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso de la Legislatura o de la Diputación permanente;
+
+IX. Decretar la prisión de alguna persona ni privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aún entonces deberá ponerla libre o a disposición de la autoridad competente, en el preciso término de treinta y seis horas, salvo el caso de la fracción XIX del artículo anterior;
+
+X. Ocupar la propiedad de ninguna persona, ni perturbar a nadie en la posesión, uso o aprovechamiento de ella, sino por causa de necesidad pública y en los términos que prevenga la ley; y
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+XI. Sancionar leyes o expedir reglamentos u órdenes generales o de pago, sin que vayan autorizadas por el Secretario General de Gobierno, salvo las que se refieren a los fondos de la enseñanza, que se autorizarán de acuerdo con las leyes relativas.
+
+## TITULO OCTAVO.
+
+DE LA INVIOLABILIDAD Y REFORMA DE LA CONSTITUCIÓN.
 
 ### CAPITULO III. De la Violencia Familiar
 
@@ -4381,391 +1851,937 @@ ARTICULO 323 ter.- Los integrantes de la familia están obligados a evitar condu
 
 Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
 
-###### ARTICULO 89.
+###### Artículo 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.
+Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de diciembre, cesará, sin embargo, el Gobernador cuyo período hubiere concluído y se encargará, desde luego, del Poder Ejecutivo, en calidad de Gobernador Provisional, el que designe la Legislatura, o en su receso, la Diputación permanente, y se procederá conforme a lo dispuesto en el artículo 86 de esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Cuando la falta del Gobernador fuese temporal, la Legislatura, si estuviere reunida, o en su defecto la Diputación permanente, designará un Gobernador interino para que funcione durante el tiempo que dure dicha falta. Si la falta, de temporal se convirtiere en absoluta, se procederá como lo dispone el artículo 86.
 
-###### ARTICULO 90.
+En caso de licencia del Gobernador del Estado, no quedará impedido el interino para ser electo en el período inmediato, siempre que no estuviere en funciones al celebrarse las elecciones.
 
-La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él.
+###### Artículo 90.
 
-###### ARTICULO 91.
+El cargo de Gobernador del Estado, sólo es renunciable por causa grave que calificará la Legislatura, ante la que se presentará la renuncia.
 
-El acta de tutela contendrá:
+> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-I.- El nombre, apellido y edad del incapacitado;
+###### Artículo 91.
 
-II.- La clase de incapacidad por la que se haya diferido la tutela;
+Para el despacho de los asuntos encomendados al Ejecutivo, habrá tantas Secretarías, dependencias y organismos públicos como la Administración Pública de la Entidad lo requiera, conforme a la Ley Orgánica de la Administración Pública del Estado.
 
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
+Habrá un Secretario General de Gobierno, quien sustituirá al Gobernador en sus faltas que no excedan de un mes y estarán a su cargo, todos los negocios del Ejecutivo, sean cuales fueren.
 
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1990)</small>
 
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía, consiste en hipoteca o prenda;
+Los Secretarios del Despacho serán sustituidos en sus faltas temporales por el funcionario de mayor jerarquía que de ellos dependa. Al Secretario General de Gobierno lo sustituirá el Subsecretario de Gobierno.
 
-VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-###### ARTICULO 92.
+###### Artículo 92.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 83.
+Para ser Secretario del Despacho se requiere:
 
-###### ARTICULO 93.
+I. Ser ciudadano veracruzano, nativo del Estado y en ejercicio de sus derechos, o ciudadano mexicano por nacimiento, debiendo en este último caso, tener un mínimo de 5 años de residencia en el Estado.
 
-En los casos de emancipación por efecto del matrimonio, no se extenderá acta por separado; será suficiente para acreditarla, el acta de matrimonio.
+II. Ser mayor de 25 años.
 
-###### ARTICULO 94.
+III. No haber sido condenado por sentencia ejecutoria, por la comisión de delitos de naturaleza intencional.
 
-(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
+Para ocupar el puesto de Secretario General de Gobierno, son necesarios los mismos requisitos que para ser electo Gobernador, siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho. El Subsecretario de Gobierno deberá reunir los mismos requisito que el Secretario General de Gobierno.
 
-###### ARTICULO 95.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
+###### Artículo 93.
 
-###### ARTICULO 96.
+Todos los reglamentos, decretos y acuerdos que el Gobernador expida en ejercicio de sus funciones constitucionales, deberán ser refrendados por el Secretario General de Gobierno, y por el o los titulares del ramo a que el asunto corresponda. Sin este requisito no serán obedecidos.
 
-(DEROGADO, D.O.F. 28 DE ENERO DE 1970)
+Los Secretarios del Despacho serán responsables de las resoluciones del Gobernador, que autoricen con su firma, contrarias a la Constitución y Leyes del Estado, sin perjuicio de las responsabilidades que correspondan al Gobernador.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+###### Artículo 94.
+
+El Gobernador podrá dar a conocer sus resoluciones a través de los Secretarios del Despacho, cuando así lo estime pertinente.
+
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1996)</small>
+
+En cualquier tiempo, la Legislatura del Estado o la Diputación Permanente, podrá citar a los Secretarios del Despacho, al Procurador General de Justicia, al Contralor General del Estado y al Coordinador General de Comunicación Social para que informen del estado que guarda la administración de sus respectivos ramos o cuando se vaya a discutir un proyecto de Ley o estudiar un asunto relacionado con el ramo de que están encargados.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 5 DE ABRIL DE 1984)</small>
+
+###### Artículo 95.
+
+El ejercicio del Poder Judicial del Estado se deposita en los órganos a que se refiere el Artículo 36 de esta Constitución.
+
+I. El Tribunal Superior de Justicia funcionará en pleno, en Tribunales Colegiados que residirán en la capital del Estado, así como en Tribunales Regionales, según lo determine la Ley Orgánica.
+
+Se integrará por los Tribunales Colegiados en materia penal, los Tribunales Colegiados en materia civil, el Tribunal de lo Contencioso Administrativo, el Tribunal Estatal de Conciliación y Arbitraje, y los Tribunales Regionales.
+
+Los Tribunales a que se refiere el párrafo anterior podrán tener el carácter de mixtos, de acuerdo con lo que disponga la Ley.
+
+El Tribunal Superior de Justicia se compondrá por el número de Magistrados Numerarios, Supernumerarios e Interino que determine el Consejo de la Judicatura, de acuerdo con el presupuesto autorizado por la Legislatura y será presidido por un Magistrado que no integrará ninguno de los Tribunales que lo constituyan, sino en los casos expresamente establecidos en la propia Ley y electo por el Tribunal en Pleno, en la primera semana de diciembre de cada tres años pudiendo ser reelecto; en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno.
+
+Los Magistrados Supernumerarios podrán suplir en sus ausencias a los Numerarios y, tendrán el carácter de visitadores judiciales.
+
+Los Tribunales Colegiados en materia penal, civil y mercantil, contará con un Presidente, que designará, los Plenos de cada Tribunal.
+
+Los Tribunales Regionales Colegiados, contarán con un Presidente, que designen sus propios Plenos.
+
+El Tribunal de lo Contencioso Administrativo se integrará por tres y lo presidirá uno de sus integrantes, elegido por el Pleno de dicho Tribunal.
+
+El Tribunal Estatal de Conciliación y Arbitraje se integrará por Magistrados designados a propuesta del Consejo de la Judicatura, de acuerdo con las modalidades siguientes:
+
+A) El que fungirá como Presidente será propuesto en forma directa por el Consejo de la Judicatura.
+
+B) El Gobernador del Estado, enviará al Consejo de la Judicatura, el nombre y antecedentes de las personas que representen a las entidades públicas para que lo proponga a la Legislatura.
+
+C) La Federación mayoritaria de los sindicatos de trabajadores al servicio del Estado que se halle debidamente registrada en el Estado, enviará el nombre y antecedentes de la persona que los represente para que los proponga a la Legislatura.
+
+Si la Federación mayoritaria de los sindicatos de los trabajadores al servicio del Estado, no ejerciere el derecho señalado en el párrafo anterior, en el término que establezca la Ley, el Consejo de la Judicatura propondrá a la Legislatura, el nombramiento correspondiente.
+
+Los candidatos propuestos deberán cumplir los requisitos establecidos en el Artículo 97 de esta Constitución.
+
+II. El Tribunal Estatal de Elecciones, es un órgano autónomo especializado del Poder Judicial del Estado y máxima autoridad jurisdiccional en el ámbito de su competencia. Se instalará en la fecha en que de acuerdo con la Ley deba iniciarse el proceso electoral respectivo, o antes cuando así se requiera, debiendo concluir sus funciones cuando termine el proceso electoral de que se trate, sus sesiones serán públicas o secretas, en los términos que señale la ley respectiva y contará con el personal necesario para su adecuado funcionamiento.
+
+El Tribunal Estatal de Elecciones se integrará por tres Magistrados Numerarios y dos Supernumerarios, quienes al entrar a ejercer su cargo protestarán ante la Legislatura o Diputación Permanente en la forma y términos establecidos en la fracción VII del Artículo 99 de esta Constitución.
+
+Fungirá como Presidente del Tribunal, el Magistrado Numerario que designe el Pleno del mismo, durará en el cargo el período correspondiente al proceso electoral para el cual se instale dicho órgano y podrá ser reelecto.
+
+La organización del Tribunal y los procedimientos para resolver los asuntos de su competencia, serán los que determinen esta Constitución y las Leyes respectivas.
+
+La disciplina de Tribunal Estatal de Elecciones corresponderá, en los términos que señale la Ley, a un Comité que se integrará por el Presidente del Tribunal Estatal de Elecciones, quien la presidirá; un Magistrado Electoral y un miembro del Consejo de la Judicatura designados por la insaculación. Dicho Comité también tendrá facultades para substanciar y resolver en forma definitiva las diferencias o conflictos laborales que se presenten entre el organismo público encargado de la función electoral y sus servidores, así como también las que se presente entre el propio Tribunal Estatal de Elecciones y sus servidores.
+
+El Tribunal propondrá oportunamente sus presupuestos al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto del presupuesto del Poder Judicial del estado.
+
+Los Magistrados Electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado, a propuesta del Consejo de la Judicatura.
+
+Las propuestas serán presentadas al Pleno de la Legislatura, para que expida el nombramiento en un plazo no mayor de quince días. Si no se objetaren las propuestas dentro de dicho término, se tendrá por hecho el nombramiento; si se rechazaren se seguirá el procedimiento a que se refiere el Artículo 98 fracción I, de esta Constitución.
+
+Los Magistrados Electorales durarán en su encargo tres años, pudiendo ser reelectos, pero sólo actuarán en el ejercicio de estas atribuciones durante los procesos electorales.
+
+El personal del Tribunal regirá sus relaciones de trabajo conforme a las reglas especiales y de excepción dispuestas por la Ley Estatal del Servicio Civil en el Título correspondiente;
+
+III. Los Juzgados de Primera Instancia, Menores, Auxiliares, de Paz y de Comunidad, se integrarán por Jueces, Secretarios, funcionarios y empleados que requiera la prestación del servicio. Su número se determinará atendiendo alas necesidades sociales y a las disposiciones presupuestales;
+
+IV. La Comisión Jurisdiccional de Menores Infractores, se integrará y funcionará de acuerdo con lo que disponga la Ley;
+
+V. El Consejo de la Judicatura será el órgano encargado de conducir la administración, vigilancia y disciplina del Poder Judicial y estará integrado por los cinco miembros siguientes: El Presidente del Tribunal Superior de Justicia quien lo presidirá, un Magistrado y un Juez de Primera Instancia, ambos designados por el Pleno del Tribunal Superior mediante la insaculación del total de Magistrados y Jueces de Primera Instancia respectivamente, un Consejero designado por el Gobernador del Estado y un consejero designado por la Legislatura. Los tres últimos deberán satisfacer los mismos requisitos que se exigen para ser Magistrados y que se hayan distinguido por su capacidad y honestidad en el ejercicio de las actividades jurídicas.
+
+Los Consejeros, durarán en su cargo tres años y no podrán ser designados para otro período inmediato a excepción del Presidente;
+
+VI. La Ley establecerá las bases para la formación y actualización de los funcionarios del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
+
+###### Artículo 96.
+
+El Poder Judicial del Estado tendrá las atribuciones y competencia siguientes:
+
+I. Aplicar las Leyes en asuntos civiles, así como penales del fuero común y mercantiles en jurisdicción concurrente, por medio de los Juzgados y Tribunales correspondientes.
+
+En los asuntos civiles y penales, habrá dos instancias, cuando se impugne la resolución de la primera instancia o la Ley exija la revisión de ella;
+
+II. Resolver, mediante el Tribunal Estatal de Elecciones, las impugnaciones que se presenten en las elecciones de Gobernador, de Diputados a la Legislatura del Estado y de los Ayuntamientos, así como los demás recursos que señale la Ley de la materia, teniendo sus resoluciones el carácter de definitivas:
+
+III. Dirimir, a través del Tribunal de lo Contencioso Administrativo, las controversias que se susciten entre la administración pública estatal y municipal y los particulares.
+
+IV. Conocer a través del Tribunal Estatal de Conciliación y Arbitraje, de los asuntos laborales de la administración pública y sus trabajadores, sean de base o de confianza, en los términos que fije la Ley Estatal del Servicio Civil;
+
+V. Resolver las controversias laborales que se susciten entre el Poder Judicial y sus trabajadores, sean de base o de confianza, las que se regirán por las reglas especiales y de excepción que disponga la Ley Estatal del Servicio Civil en el título correspondiente, de acuerdo con lo dispuesto por el Artículo 116, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos;
+
+VI. Tramitar y resolver mediante los procedimientos que señale la Ley, los asuntos de menores infractores.
+
+La representación legal del Poder Judicial la tendrán el Pleno del Tribunal Superior y el Pleno del Tribunal Estatal de elecciones, que se ejercerán por conducto de sus presidentes, respectivamente en la materia de su competencia y tendrán facultades para celebrar todo tipo de actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo.
+
+A. Al Pleno del Tribunal Superior le corresponde:
+
+I. Erigirse en Jurado de Sentencia conforme a lo dispuesto en el Artículo 123 de esta Constitución, para conocer en juicio político, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;
+
+II. Conocer, en los términos que fije la Ley respectiva, de los juicios de responsabilidad civil derivada del ejercicio del cargo respectivo, que se instauren a instancia de parte agraviada o de sus causahabientes en contra de Magistrados, Consejeros, Procurador General de Justicia, Secretarios de Despacho, y demás funcionarios subalternos de los Poderes Ejecutivo y Judicial. Esta disposición no rige para los Magistrados del Tribunal Estatal de Elecciones;
+
+III. Dictaminar sobre la probable responsabilidad administrativa de los Consejeros de la Judicatura;
+
+IV. Dirimir conflictos que surjan entre los Municipios y cualquiera de los Poderes del Estado, y de los Poderes entre sí, siempre que tales conflictos no sean de la competencia de la Suprema Corte de Justicia de la Nación, conforme al Artículo 105, fracción I de la Constitución General de la República;
+
+V. Procurar la unificación del criterio sustentando en las resoluciones en materia penal, civil, mercantil, administrativa o laboral, cuando las mismas sean contradictorias;
+
+VI. Resolver los conflictos de competencia que surjan entre los Tribunales;
+
+VII. Iniciar ante la Legislatura las Leyes que tengan por objeto mejorar la legislación civil, penal, administrativa, laboral y procesal, así como la organización de los tribunales;
+
+VIII. Expedir la reglamentación interior del Poder Judicial;
+
+IX. Designar, mediante insaculación, a un Magistrado y aun Juez de Primera Instancia para que se integren el consejo de la Judicatura y, en su caso, resolver sobre la solicitud de licencia o renuncia que presenten dichos funcionarios; y
+
+X. Las demás atribuciones que les señalen esta Constitución y las Leyes.
+
+A. 1. A los Tribunales en materia penal les corresponde conocer de los asuntos siguientes:
+
+I. En última instancia, de los recursos que se interpongan en contra de las resoluciones dictadas por los Jueces de Primera y auxiliares en asuntos del orden penal;
+
+II. De, conflictos de competencia que se susciten, en la materia, entre los diversos Juzgados del Estado;
+
+III. De la calificación de las excusas y recusaciones de los Jueces de Primera Instancia en materia penal; y
+
+IV. Las demás atribuciones que le confiera esta Constitución y las Leyes.
+
+A.2. A los Tribunales en materia Civil les corresponde conocer de los asuntos siguientes:
+
+I. De los recursos de apelación que se interpongan en contra de las resoluciones dictadas por los Jueces de Primera Instancia y Auxiliares en materia civil y mercantil en jurisdicción concurrente;
+
+II. Del recurso de queja y del juicio de responsabilidad civil, de acuerdo con lo que disponga la Ley;
+
+III. De los conflictos de competencia que se susciten, en la materia, entre los diversos Juzgados del Estado;
+
+IV. De la calificación de las excusas y de las recusaciones de los Jueces de Primera Instancia y Auxiliares en materia civil y mercantil en jurisdicción concurrente;
+
+V. De la revisión de oficio en los juicios donde está proceda; y
+
+VI. Las demás atribuciones que les confiera esta Constitución y las Leyes.
+
+A.3. Los Tribunales Regionales Colegiados, ejercerán las facultades a que se refieren los apartados A1, A2, A5 y A6, de este Artículo. Residirán en la cabecera del distrito judicial y tendrán competencia en la circunscripción territorial que señale el acuerdo de su creación y en los términos que disponga la Ley.
+
+A.4. A los Tribunales Regionales Unitarios les corresponde conocer de los asuntos siguientes:
+
+I. De la materia administrativa en primera instancia, en los términos establecidos en la Ley de la materia;
+
+II. De los recursos que se interpongan en materia civil, mercantil o penal, contra resoluciones distintas de las sentencias, cuando el Consejo de la Judicatura los autorice para ello, y
+
+III. Las demás atribuciones que le confieran esta Constitución y las Leyes.
+
+A.5. Al Tribunal Contencioso Administrativo le corresponde conocer de los asuntos siguientes:
+
+I. De los recursos de revisión que se interpongan en contra de las resoluciones de los Tribunales Regionales Unitarios en esta materia;
+
+II. De los recursos de reclamación que se interpongan en contra de los acuerdos de trámite dictados por el Presidente del Tribunal de lo Contencioso Administrativo; y
+
+III. De las demás que le confiera esta Constitución y las Leyes.
+
+A.6. Al Tribunal Estatal de Conciliación y arbitraje le corresponde conocer de los asuntos siguientes:
+
+I. De los conflictos individuales que se susciten entre las entidades públicas y sus trabajadores, sean de base o de confianza;
+
+II. De los conflictos colectivos que surjan entre las organizaciones de trabajadores de las entidades públicas y éstas; y
+
+III. De las demás que le confiera ésta Constitución y las Leyes.
+
+A.7. Los Tribunales mencionados en los apartados anteriores y los Juzgados del Estado, por acuerdo del Consejo de la Judicatura, en base a lo dispuesto por la Ley, podrán conocer en razón de su competencia en las materias correspondientes, con el carácter de mixtos.
+
+A.8. Los Tribunales a que se refieren los apartados anteriores, gozarán de plena autonomía para dictar sus fallos en la esfera de su competencia y ente ellos existirá igual jerarquía.
+
+B. Al Tribunal Estatal de Elecciones le corresponde en forma exclusiva:
+
+I. Conocer de las impugnaciones
+
+II. Realizar el cómputo final de la elección de Gobernador y una vez resueltas, las impugnaciones que se hubieren interpuesto, procederá a formular la declaración de validez de la elección y la de Gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos; y
+
+III. Substanciar y resolver en forma definitiva, los recursos que se interpongan;
+
+a) Durante el proceso electoral en contra de los actos o resoluciones de los órganos electorales;
+
+b) En procesos electorales extraordinarios;
+
+c) Durante el tiempo que transcurra entre dos procesos electorales ordinarios, por actos o resoluciones de los órganos electorales.
+
+IV. Expedir su reglamento interior y los acuerdos generales para su adecuado funcionamiento;
+
+V. Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral;
+
+VI. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades; y
+
+VII. Conocer de los demás asuntos que determine la Ley.
+
+C. Al Consejo de la Judicatura le corresponde:
+
+I. Conducir las Administración, vigilancia y disciplina del Poder Judicial y sus integrantes;
+
+II. Formar y actualizar a los funcionarios del Poder Judicial, así como el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia, de acuerdo con lo que disponga la Ley;
+
+III. Erigir, de acuerdo con la Ley de Egresos, los Tribunales y Juzgados en las materias que se requieran, pudiendo haber Tribunales o Juzgados Mixtos o Auxiliares; determinar la cabecera de distrito o ciudad donde deban residir, y adscribir a los Magistrados y Jueces que deban integrar cada uno de ellos;
+
+IV. Nombrar y cambiar de adscripción a los Jueces de primera Instancia, Menores y Auxiliares de ambos y a los de Paz, a los Secretarios de dichos Juzgados; así como resolver sobre las renuncias que le presenten estos servidores y demás funcionarios y empleados del Poder Judicial;
+
+V. Disponer que los Magistrados del Tribunal Estatal de Elecciones, en los períodos en que no esté instalado se integren al Tribunal Superior, de acuerdo con lo que disponga la Ley;
+
+VI. Tramitar las denuncias o quejas en contra de Magistrados del Tribunal Superior; investigar las mismas, respetando la garantía de audiencia, desahogar probanzas y dictaminar si hay o no responsabilidad y, en su caso, turnar el asunto al Poder Legislativo para la resolución definitiva;
+
+VII. Resolver los instructivos de responsabilidad por quejas o denuncias presentadas en contra de Jueces, Secretarios, actuarios y demás funcionarios y empleados del Poder Judicial, cuando incurran en el incumplimiento de obligaciones o en las faltas administrativas, previa garantía, fundando y motivando su resolución:
+
+VIII. Firmar y llevar al cabo convenios con las Instituciones de Educación superior a efecto de que la carrera judicial se desarrolle a nivel de excelencia y practicar los exámenes de oposición.
+
+IX. Elaborar el proyecto de presupuesto de egresos del Poder Judicial y someterlo a la aprobación del Pleno del Tribunal superior. Una vez acordado, el Presidente del Tribunal, lo enviará, junto con el del Tribunal Estatal de Elecciones, al Gobernador del Estado para su inclusión en el proyecto de presupuesto de Egresos del Estado.
+
+El presupuesto del tribunal Superior de Justicia y demás órganos del Poder Judicial, así como el del Tribunal Estatal de elecciones, se manejarán en renglones separados, pero bajo una sola unidad administrativa que será la del Poder Judicial, debiendo éste rendir cuentas anualmente a la Legislatura del estado, acerca de su ejercicio.
+
+El Poder Judicial administrará con autonomía su presupuesto.
+
+X. Administrar el fondo auxiliar para la impartición de justicia, que se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales judiciales, y además con los ingresos por el pago de multas, cauciones o por cualquier otra prestación autorización autorizada por la Ley, en ejercicio de las atribuciones del Poder Judicial, que serán aplicados íntegramente al mejoramiento de la impartición de justicia;
+
+XI. Conocer de los avisos que los Magistrados le den de sus ausencias hasta por cinco días; y otorgar permisos económicos por el mismo término, a los Jueces del Estado. Asimismo, podrá delegar esa facultad en los Presidentes de los Tribunales y Jueces para que la ejerzan respecto de las solicitudes que presenten los secretarios y empleados de dichos órganos jurisdiccionales;
+
+XII. Nombrar, respetando el principio de la carrera judicial, y de preferencia por el sistema de oposición, a los Secretarios de los Tribunales y de los Juzgados, a los Defensores de Oficio, y demás funcionarios y empleados del Poder Judicial;
+
+XIII. Conceder a jueces, Secretarios, Defensores de Oficio, licencias con goce o sin goce de sueldo, de acuerdo a lo que disponga la Ley. Las licencias de los demás funcionarios y empleados del Poder Judicial se otorgarán por la autoridad y en los términos que disponga la Ley;
+
+XIV. Expedir los reglamentos en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario; así como dictar acuerdos de carácter general, obligatorios para el ejercicio de sus atribuciones.
+
+XV. Las resoluciones del Consejo serán definitivas e inatacables y el ejercicio de las atribuciones a que se refieren las fracciones III, VI y VII de este Artículo son formalmente jurisdiccionales y materialmente administrativas; y
+
+XVI. Las demás atribuciones que les señalen las Leyes.
+
+D. Al Presidente del Tribunal Superior de Justicia le corresponde:
+
+I. Ejercer la representación legal de acuerdo con lo dispuesto en el segundo párrafo del Artículo 96 de esta Constitución. Podrá designar como su representante para asuntos concretos a otro Magistrado o funcionario del Poder Judicial;
+
+II. Presentar ante el Pleno del Tribunal Superior y demás integrantes del Poder Judicial, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por este Tribunal en el año correspondiente. Este informe se entregará a la Legislatura del Estado;
+
+III. Turnar a los Tribunales los asuntos de su competencia, conforme al sistema aleatorio determinado en la ley, con excepción de las controversias electorales;
+
+IV. Acordar en materia penal, la prórroga de jurisdicción, conjuntamente con los Presidentes de los Tribunales Colegiados de la materia, con residencia en la capital del Estado;
+
+V. Acordar sobre la sustitución de los Magistrados que se excusen de conocer de los asuntos turnados a los Tribunales correspondientes, cuidando de nivelar los llamados con el número de las excusas; y dar cuenta al consejo de la Judicatura de los casos en que se encuentren impedidos, o en los que se excusen sin motivo legal, a efecto de que, verificada la irregularidad, se proceda conforme a la Ley;
+
+VI. Imponer correcciones disciplinarias a los promoventes, litigantes o particulares, que en sus escritos falten al respecto a los Presidentes, Magistrados o Consejeros, o cuando de viva voz incurran en la misma falta, o interrumpan cualquier Sesión del Pleno del Tribunal Superior, de los Plenos de los Tribunales o del Pleno del Consejo de la Judicatura. También podrá imponer medios de apremios a cualquier funcionario o empleado, que no atienda los requerimientos que por escrito le formulen los Presidentes, Magistrados o Consejeros, con motivo del ejercicio de sus atribuciones;
+
+VII. Vigilar que los servidores públicos del Poder Judicial, cumplan con sus deberes oficiales, exhortándolos para que administren pronta y cumplida justicia. Si sus exhortaciones resultaren ineficaces, dará cuenta al Consejo de la Judicatura para que acuerde lo procedente;
+
+VIII. Disponer, en casos urgentes, lo necesario para el funcionamiento normal de la impartición de justicia, informando de las medidas adoptadas en la próxima sesión el Pleno del Tribunal Superior o del Consejo de la Judicatura, según corresponda, para los efectos procedentes; y
+
+IX. Las demás atribuciones que determinen esta Constitución y otras Leyes.
+
+E. A los jueces de primera Instancia les corresponde:
+
+I. El ejercicio de las facultades que les señales las Leyes;
+
+II. Efectuar concursos de oposición para ocupar los puestos vacantes de empleados y, en vista del resultado y de los antecedentes de carrera judicial de los aspirantes, hacer la propuesta respectiva al consejo de la Judicatura, para que se expida el nombramiento correspondiente; y
+
+III. Tramitar o en su caso resolver de acuerdo a lo que disponga la Ley, las solicitudes de licencias.
+
+F. A los Jueces Menores les corresponde:
+
+I. El ejercicio de las facultades que les señalen las leyes;
+
+II. Efectuar concursos de oposición para ocupar los puestos vacantes de empleados y, en vista del resultado y de los antecedentes de carrera judicial de los aspirantes, hacer la propuesta respectiva al consejo de la Judicatura, para que se expida el nombramiento correspondiente; y
+
+III. Tramitar o en su caso resolver de acuerdo a lo que disponga la Ley, las solicitudes de licencias.
+
+G. A los Jueces Auxiliares de los de Primera Instancia de los Menores, les corresponderá:
+
+I. Constituirse legalmente, por acuerdo del consejo de la Judicatura y en base a lo que disponga la ley, en cualquier localidad del Distrito Judicial correspondiente y conocer a plenitud de jurisdicción de los asuntos judiciales de los integrantes de los pueblos indígenas, tomando en cuenta sus prácticas y costumbres jurídicas y de los demás asuntos que disponga la Ley;
+
+II. Actuar dentro de un mismo juzgado, por acuerdo del consejo de la Judicatura, en base a lo que disponga la Ley, de conformidad con las siguientes reglas;
+
+1. Conocer como instructores, sentenciadores y ejecutores en la jurisdicción y competencia del Juez del Juzgado en que se encuentren temporalmente adscritos.
+
+2. La distribución de asuntos entre el juez titular y el Juez Auxiliar se realizará de acuerdo a lo que disponga la Ley tomando en consideración en lo aplicable, el orden numérico, fecha de radicación o la materia de los asuntos.
+
+III. Los demás asuntos que señalen las leyes.
+
+H. A los Jueces de Paz les corresponde:
+
+I. El ejercicio de las facultades que les señales las leyes;
+
+II. Efectuar concursos de oposición para ocupar los puestos vacantes de empleados y, en vista del resultado y de los antecedentes de carrera judicial de los aspirantes, hacer la propuesta respectiva al Consejo de la Judicatura, para que se expida el nombramiento correspondiente; y
+
+III. Tramitar o en su caso resolver de acuerdo a lo que dispongan la Ley, las solicitudes de licencias.
+
+I. A los Jueces de la Comunidad les corresponde el ejercicio de las atribuciones que les señalen las Leyes.
+
+J. A la Comisión Jurisdiccional de Menores Infractores le corresponde el ejercicio de las atribuciones que les señalen las leyes.
+
+K. Todos los jueces tienen obligación de ejecutar sus sentencias y laudos, de cuyo cumplimiento deban conocer o cuidar de que se ejecuten por las autoridades a quienes corresponda.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ### CAPITULO I. De los hijos de matrimonio
 
-###### ARTICULO 97.
+###### Artículo 97.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Juez del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+Para ser Magistrado se requiere:
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+I. Ser veracruzano conforme lo determina el artículo 13 de esta Constitución y haber residido en la Entidad durante los dos años anteriores al día de la designación, o mexicano por nacimiento con vecindad mínima de cinco años en el Estado, en pleno uso de sus derechos políticos y civiles;
 
-II.- Que no tienen impedimento legal para casarse, y
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-III.- Que es su voluntad unirse en matrimonio.
+III. Poseer título de licenciado en Derecho, expedido por autoridad o institución legalmente facultada, con antigüedad mínima de diez años anteriores al día de la designación, y tener una práctica profesional no menor de ese lapso;
 
-Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-###### ARTICULO 98.
+No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario del Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento; y
 
-Al escrito a que se refiere el artículo anterior, se acompañará:
+Tampoco podrán ser Magistrados los ministros de cultos religiosos.
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+Los Magistrados que integren el Tribunal Estatal de elecciones, deberán además, cumplir los requisitos que señale el Código de la materia.
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
+Nunca habrá dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado. Si hubiere Magistrados ligados entre sí por parentesco de afinidad deberán estar en Tribunales distintos.
 
-III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
+###### Artículo 98.
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial.
+Los nombramientos de los Magistrados del Tribunal Superior serán hechos por la Legislatura del estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del consejo de la Judicatura. En los recesos de la Legislatura, la Diputación Permanente hará el nombramiento con el carácter de provisional, mientras se reúne la Legislatura y da la aprobación definitiva, o en su caso, se observará lo dispuesto en la fracción I, siguiente:
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
+I. Las propuestas del Consejo de la Judicatura serán analizadas por la Legislatura del Estado, la que nombrará como Magistrado a la persona de que se trate o rechazará la propuesta, dentro del improrrogable término de diez días. Si no se objetare dentro de dicho término, se tendrá por hecho el nombramiento. En el caso de que se rechacen dos propuestas sucesivas respecto de la misma vacante, la Legislatura hará un nombramiento, que surtirá efectos desde luego como provisional. Dentro de los primeros diez días del siguiente período ordinario de sesiones, el Consejo de la Judicatura podrá proponer al designado provisionalmente o a otro; en el primer caso, el Magistrado nombrado provisionalmente seguirá en sus funciones con el carácter de definitivo; en el segundo caso, si el Consejo de la Judicatura hace una propuesta, el nombrado provisionalmente cesará en sus funciones como Magistrado, una vez que la Legislatura del Estado resuelva sobre la misma en los términos señalados en esta Constitución; y
 
-Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
+II. Los jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos establecidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones serán preferidos a cualquier otro para tal cargo.
 
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-VII.- Copia de la dispensa de impedimentos, si los hubo.
+###### Artículo 99.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Jueces Menores durarán en su cargo tres años, al término de los cuales si fueren ratificados por la Legislatura en el caso de los Magistrados, o por el Consejo de la Judicatura, en lo que se refiere a los Jueces, sólo podrán ser privados de sus cargos, en base a lo dispuesto en el Título Cuarto de la Constitución Federal, y con fundamento en este Capítulo y en el Título Sexto de esta Constitución.
 
-###### ARTICULO 99.
+I. Los Magistrados del Tribunal Estatal de elecciones, durarán en su cargo el término que establece el Artículo 95 fracción II, párrafo noveno, de esta Constitución;
 
-En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Juez del Registro Civil, con los datos que los mismos pretendientes le suministren.
+II. Los Jueces de Primera Instancia y los Jueces Menores, serán nombrados por el consejo de la Judicatura mediante concurso de oposición. Será requisito previo para concursar en el citado examen de oposición, acreditar las materias del plan de estudios del Instituto de Capacitación y de especialización del Poder Judicial y satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y, en su caso, buenos antecedentes dentro del Poder Judicial;
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+III. Podrán quedar exentos de examen de oposición, a juicio del Consejo de la Judicatura, quienes hayan fungido en el estado como Magistrados o Procurador General de Justicia, en el supuesto de que reúnan las cualidades antes señaladas;
 
-###### ARTICULO 100.
+IV. El Consejo de la Judicatura podrá designar con el carácter de interino a Jueces de Primera Instancia, Jueces Menores o Jueces Auxiliares de Primera Instancia y de los Menores, hasta por el término de un año improrrogable para ocupar las vacantes que dejen los titulares en los casos que señale la Ley respectiva;
 
-El Juez del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Juez del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+V. Los Jueces de Paz serán nombrados por el Consejo de la Judicatura, a propuesta, en terna del Juez de Primera Instancia del Distrito Judicial respectivo, a quien el citado Consejo haya solicitado dicha propuesta. Durarán indefinidamente en sus funciones y sólo podrán ser destituidos cuando incurran en falta, de acuerdo con el Artículo 100 de esta Constitución o Leyes aplicables;
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+VI. Los Jueces de Comunidad serán designados por el Juez de Paz de su jurisdicción o por el Juez Menor, en su caso, oyendo a la comunidad y en donde existan etnias se nombrará a un integrante de ellas. Durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente, pero sin exceder de este término; y
 
-###### ARTICULO 101.
+VII. Todos los Magistrados del Tribunal Superior, antes de ejercer su cargo, protestarán ante la Legislatura y, en los recesos de ésta, ante la Diputación Permanente, en la forma siguiente:
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Juez del Registro Civil.
+Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como la (sic) leyes que de ambas emanen, y cumplir bien y fielmente las obligaciones de su encargo?".
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Magistrado: "Sí protesto".
 
-###### ARTICULO 102.
+Presidente: "Si no lo hiciereis así, que esta Representación Popular os lo demande".
 
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Juez del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 44 y dos testigos por cada uno de ellos, que acrediten su identidad.
+Los Jueces de Primera Instancia, los Menores y los Auxiliares, protestarán en los mismos términos ante el Consejo de la Judicatura o ante la autoridad judicial que el mismo Consejo designe.
 
-Acto continuo, el Juez del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+Los Jueces de Paz protestarán ante los Jueces Menores o de Primera Instancia, y los Jueces de Comunidad ante los jueces que los designaron.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Todos los integrantes del Consejo de la Judicatura antes de tomar posesión de su cargo protestarán en los términos establecidos en este artículo.
 
-###### ARTICULO 103.
+Los miembros de la Comisión Jurisdiccional de Menores Infractores rendirán su protesta ante el Consejo de la Judicatura, en los términos de este Artículo.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+###### Artículo 100.
 
-II.- Si son mayores o menores de edad;
+De acuerdo con lo dispuesto en este capítulo y en el Título Sexto de esta Constitución se expedirá la ley reglamentaria en materia de responsabilidades de los Servidores Públicos del Poder Judicial en que se considere el juicio político para Magistrados, Consejeros, y Jueces de Primera Instancia; la declaración para proceder penalmente en contra de Magistrados y Consejeros y el procedimiento para aplicar las sanciones en los casos de faltas administrativas, cometidas por Magistrados, Consejeros, Jueces, Secretarios y demás funcionarios y empleados de dicho Poder.
 
-III.- Los nombres, apellidos, ocupación y domicilio de los padres;
+I. En el juicio político y en la declaración de procedencia en contra de servidores públicos del Poder Judicial se aplicarán los Artículos respectivos del Título Sexto de esta Constitución;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o de las autoridades que deban suplirlo;
+II. Podrán ser privados de sus cargos los Magistrados del Poder Judicial, en los términos que señale la Ley, por actos u omisiones, contrarios a la legalidad, honradez, lealtad, imparcialidad y eficacia que caracteriza el ejercicio de las funciones del alto cargo que desempeñan;
 
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
+III. A petición del Gobernador del Estado, del Procurador General de Justicia, de persona agraviada o de su causahabiente, el Consejo de la Judicatura o el Comité iniciará en forma directa la investigación correspondiente, cuando se presente alguno de los supuestos a que se refiere el párrafo anterior;
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Juez en nombre de la Ley y de la sociedad;
+IV. El Consejo de la Judicatura y el Comité al que hacer referencia el quinto párrafo de la fracción II del artículo 95 de esta Constitución según sea el caso, otorgarán la garantía de audiencia al Magistrado; desahogará las probanzas, y dictaminará sobre si hay o no responsabilidad. En el primer supuesto, enviará el dictamen y el expediente completo ala Legislatura del Estado o a la Diputación Permanente, con objeto de que dicho Poder resuelva si ha lugar o no a la destitución del o los Magistrados, y en el segundo mandará archivar el expediente;
 
-VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
+V. Cuando los integrantes del Consejo de la Judicatura incurran en responsabilidad administrativa podrán ser privados de sus cargos de acuerdo a lo dispuesto en esta Constitución. El Pleno del Tribunal Superior dictaminará sobre si hay o no responsabilidad y, en su caso, turnará el expediente y el dictamen al Gobernador del Estado o al Poder Legislativo, según corresponda, para que emita la resolución definitiva, según corresponda, para que emita la resolución definitiva. En el caso de los Consejeros designados por el Pleno, éste emitirá la resolución definitiva.
 
-VIII.- Los nombres, apellidos, edad, estado civil, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea.
+VI. Los Jueces, Secretarios, Actuarios y demás funcionarios y empleados del Poder Judicial, que incurran en incumplimiento de sus obligaciones o en las faltas a que se refieren los supuestos señalados en esta Constitución, Códigos, Leyes y reglamentos, podrán ser destituidos por el consejo de la Judicatura, cuando el caso lo amerite, mediante el procedimiento que señale la Ley, previa garantía de audiencia fundando y motivando su resolución;
 
-IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
+VII. La ley de la materia señalará los premios, estímulos y recompensas a los servidores públicos del Poder Judicial, que se hagan acreedores a ellos, por su buen desempeño.
 
-El acta será firmada por el Juez del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-En el acta se imprimirán las huellas digitales de los contrayentes.
+###### Artículo 101.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
+El Pleno del Tribunal Superior, el Consejo de la Judicatura, el Tribunal Estatal de Elecciones y los Tribunales Colegiados en materia Penal, Civil, Administrativa y Laboral residirán en la capital del Estado.
 
-###### ARTICULO 103
+Los Magistrados de los Tribunales Colegiados que residan en la capital del Estado, integrarán el Pleno del Tribunal Superior, el que no podrá ejercer sus funciones sin la concurrencia de las dos terceras partes de sus integrantes.
 
-Bis.- La celebración conjunta de matrimonios no exime al Juez del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 104.
+###### Artículo 102.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+El Poder Judicial deberá cubrir todos los salarios de sus servidores. Los Magistrados, los Consejeros de la Judicatura y los Jueces, percibirán un sueldo presupuestal básico e irrenunciable, el cual no podrá ser disminuido durante su encargo. Los Magistrados, cuando tengan que retirarse por alcanzar el tiempo que fije la Ley para jubilarse, recibirán una pensión de acuerdo con lo que disponga la Ley. Esta última disposición también rige, para los Magistrados del Tribunal Estatal de Elecciones, que hayan acumulado la antigüedad en el servicio, de acuerdo con la Ley aplicable a los demás Magistrados.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 105.
+###### Artículo 103.
 
-El Juez del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al juez de primera instancia que corresponda, para que haga la calificación del impedimento.
+Las renuncias de los Magistrados solamente procederán por causas graves; serán presentadas al Consejo de la Judicatura, al que las someterá a la consideración de la Legislatura del Estado o de la Diputación Permanente.
 
-###### ARTICULO 106.
+Las renuncias de los Consejeros de la Judicatura, sólo procederá por causas graves y será sometida para su consideración al Gobernador del Estado, a la Legislatura o Diputación Permanente, o al Pleno del Poder Judicial, de acuerdo con el origen de su designación.
 
-Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+###### Artículo 104.
 
-###### ARTICULO 107.
+Los Magistrados numerarios del Tribunal Superior de Justicia en sus faltas temporales que excedieren de cinco días y no pasaren de dos meses, serán sustituidos por los supernumerarios en el orden de la designación de éstos, pero una vez que haya entrado a ejercer la función alguno de ellos, continuará haciéndolo durante todo el término de la licencia del numerario a quien sustituya. En sus excusas o impedimentos su sustituirán recíprocamente en el orden que determine la Ley; pero los supernumerarios deberán ser llamados a integrar el Tribunal que corresponda cuando así lo acordare el Consejo de la Judicatura o cuando la mayoría de los Magistrados numerarios estuviere impedida. En las faltas de los Magistrados que no excedan de dos meses, si no es posible que entren a funcionar los Supernumerarios, serán sustituidos por el Secretario de Acuerdos del Tribunal correspondiente, a excepción del Tribunal Estatal de Elecciones. El Secretario al entrar a ejercer las funciones de Magistrados rendirá la protesta de Ley ante el Consejo de la Judicatura.
 
-Antes de remitir el acta al juez de primera instancia, el Juez del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+I. Si faltare algún Magistrado numerario por defunción, renuncia, destitución, incapacidad o por cualquier otra circunstancia dentro de los seis meses restantes para cumplir su período, la falta será suplida por el supernumerario que corresponda, y en caso contrario, se hará nuevo nombramiento en los términos previstos por esta Constitución;
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+II. En caso de faltas temporales de los Magistrados numerarios del Tribunal Estatal de Elecciones, que no excedan de dos meses, el Consejo de la Judicatura llamará al supernumerario de dicho Tribunal en el orden de elección de éstos y cuando la falta sea definitiva lo comunicará a la Legislatura o Diputación Permanente para que resuelva lo procedente;
 
-###### ARTICULO 108.
+III. Las licencias de los Magistrados del Poder Judicial, cuando no excedan de dos meses serán concedidas por el Consejo de la Judicatura; las que excedan de este tiempo, se someterán a la consideración de la Legislatura o la Diputación Permanente
 
-Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Juez del Registro Civil dará cuenta a la autoridad judicial de primera instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+IV. En el caso que se acepte la licencia a que se refiere la última parte del párrafo anterior, el Consejo de la Judicatura propondrá a la Legislatura designe, un Magistrado Supernumerario interino, para cubrir temporalmente la ausencia del propietario, o en su caso, la Diputación Permanente hará la designación con el carácter de provisional;
 
-###### ARTICULO 109.
+V. Las licencias de los Consejeros de la Judicatura, a excepción del Presidente, que no excedan de quince días, serán concedidas por el Presidente del Tribunal superior; en el caso de que excedan de dicho término o se produzca ausencia definitiva por retiro, defunción o destitución, lo resolverá, según sea el caso, el Gobernador del Estado, la Legislatura, o el Pleno del Tribunal Superior, para que se designe a la persona que lo sustituya.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+###### Artículo 105.
 
-###### ARTICULO 110.
+Los Magistrados Numerarios y Supernumerarios del Poder Judicial del Estado, el Procurador General de Justicia del Estado, Los Consejeros de la Judicatura, los Jueces de Primera Instancia, Menores y los Jueces Auxiliares de ambos; Los Jueces de Paz, así como los respectivos Secretarios de cada Tribunal o Juzgado, no podrán servir o desempeñar al mismo tiempo otro empleo, cargo o comisión de la Federación, del Estado, del Municipio o de particulares, salvo los cargos honoríficos en las instituciones públicas o privadas, asociaciones o sociedades científicas, literarias o de beneficencia y lo señalado en el Artículo 133 de esta Constitución. La infracción a lo dispuesto en este Artículo, implicará la pérdida del cargo.
 
-El Juez del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+###### Artículo 106.
 
-###### ARTICULO 111.
+En cumplimiento a lo dispuesto en el artículo 7º de esta Constitución, la Ley establecerá sistemas alternativos de solución de controversias, a través de conciliadores, mediadores o árbitros, cuyos convenios o laudos tendrán la calidad de sentencia con autoridad de cosa juzgada, siempre que no sean contrarios al derecho, a la moral o al orden público y sean aprobados judicialmente.
 
-Los Jueces del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+###### Artículo 107.
 
-###### ARTICULO 112.
+La protección de los Derechos Humanos que otorga el orden jurídico mexicano, estará a cargo de un organismo que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, que violen estos derechos; así mismo, formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
 
-El Juez del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado la primera vez con multa de $1,000.00 y en caso de reincidencia con destitución del cargo.
+Este Organismo no será competente, tratándose de asuntos electorales, laborales o jurisdiccionales.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 113.
+###### Artículo 108.
 
-El Juez del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+El Ministerio Público a cuyo cargo está velar por la exacta observancia de las leyes de interés general, será desempeñado en el Estado por el Procurador General y los Agentes de dicho Ministerio.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que subscriban el certificado exigido por la fracción IV del artículo 98.
+El Procurador General del Estado será el Jefe de la Institución, nombrará y removerá libremente a sus empleados y a los Agentes del Ministerio Público y reunirá las mismas condiciones exigidas para poder ser Magistrado.
 
-###### ARTICULO 114.
+La Ley Orgánica del Ministerio Público determinará las atribuciones de los funcionarios que lo formen y los requisitos necesarios para ser Agente.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Juez del Registro Civil para que levante el acta correspondiente.
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+###### Artículo 109.
 
-###### ARTICULO 115.
+Las faltas temporales del Procurador General de Justicia, que no excedan de cinco días, serán suplidas por el Agente que él designe las de mayor tiempo y las absolutas, se suplirán por la persona que al efecto designe el Gobernador.
 
-El acta de divorcio administrativo se levantará en los términos prescritos por el artículo 272 de este ordenamiento, previa solicitud por escrito que presenten los cónyuges y en ella se expresará el nombre y apellidos, edad, ocupación y domicilio de los solicitantes, la fecha y lugar de la Oficina en que celebraron su matrimonio y el número de partida del acta correspondiente.
+###### Artículo 110.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+El municipio libre es la base de la división territorial y de la organización política del Estado. Cada municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-## TITULO NOVENO. De la tutela
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
+
+###### Artículo 111.
+
+En la elección de los Ayuntamientos del Estado, el partido político que alcance el mayor número de votos obtendrá la Presidencia Municipal y la Sindicatura. Las regidurías serán asignadas a cada partido, incluyendo a aquel que obtuvo la mayor votación, de acuerdo al principio de representación proporcional, tomando como base las fórmulas electorales y procedimientos que establezcan las leyes de la materia.
+
+La Legislatura del Estado, antes de cada elección de Ayuntamientos, decretará el número de ediles que deben integrarlos, con base en los datos del último censo de población y lo dispuesto por la Ley de la materia.
+
+No podrán crearse ni suprimirse cargos edilicios después de celebradas las elecciones respectivas.
+
+Los Agentes Municipales se elegirán de acuerdo al procedimiento que señala la Ley Orgánica del Municipio Libre.
+
+###### Artículo 112.
+
+Para ser miembro de un Ayuntamiento se requiere:
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
+
+I. Ser ciudadano veracruzano, nativo del Estado, o con residencia efectiva en el municipio, no menor de cinco años inmediatamente anteriores al día de la elección en caso de no ser nativo del Estado; en ambos casos en pleno ejercicio de sus derechos.
+
+II. Saber leer y escribir;
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+
+III. No ser ministro de ningún culto religioso;
+
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
+
+IV. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos cuando menos sesenta días antes de la elección únicamente por lo que hace a los propietarios; y
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 1991)</small>
+
+V. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquéllos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 1991)</small>
+
+###### Artículo 113.
+
+Los miembros de los Ayuntamientos durarán en su cargo tres años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será substituido por el suplente, o se procederá según lo disponga la Ley.
+
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+
+Los miembros de los Ayuntamientos, no podrán ser electos para integrar el del período siguiente; la misma prohibición se aplicará a los integrantes de los Concejos Municipales;
+
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+
+Los Funcionarios públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 114.
+
+Las leyes reglamentarias municipales se sujetarán a las bases siguientes:
+
+I. Los municipios estarán investidos de personalidad jurídica y administrarán libremente su patrimonio conforme a la Ley;
+
+II. Los municipios administrarán libremente su Hacienda, la cual se formará de los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones y todos los demás ingresos fiscales que la Legislatura establezca a su favor;
+
+III. Los municipios percibirán los impuestos, derechos, productos, contribuciones y demás ingresos fiscales, incluso las tasas adicionales que decrete el Estado sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, así como aquellos que tengan por base el cambio de valor de los inmuebles;
+
+IV. Los municipios percibirán todos aquellos ingresos provenientes de la prestación de servicios públicos a su cargo;
+
+V. Las participaciones federales serán cubiertas a los municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura;
+
+VI. Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones previstas en las fracciones III y IV de este artículo, cuando su desarrollo económico y social lo haga necesario;
+
+VII. Cuando el desarrollo económico y social de los municipios o de uno de ellos lo hagan necesario, podrán convenir con el Estado para asumir la ejecución, la operación de obras y la prestación de servicios que otorgue éste;
+
+VIII. La Legislatura analizará y aprobará la Ley de Ingresos de los ayuntamientos y revisará sus cuentas públicas, cuando menos una vez al año;
+
+IX. Los presupuestos de egresos serán aprobados por los ayuntamientos, según los ingresos disponibles y conforme a las bases normativas que para tal efecto expida la Legislatura;
+
+X. Los municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+a). Agua potable y alcantarillado;
+
+b). Alumbrado público;
+
+c). Limpia pública;
+
+ch). Mercados y centrales de abasto;
+
+d). Panteones;
+
+e). Rastros;
+
+f). Calles, parques y jardines;
+
+g). Policía Municipal;
+
+h). Tránsito Municipal; e
+
+i). Los demás que la Legislatura determine según las condiciones territoriales, socio-económicas y la capacidad administrativa y financiera de los municipios;
+
+XI. Previo acuerdo entre sus ayuntamientos y con sujeción a la Ley, los municipios podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan;
+
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 1990)</small>
+
+XII. Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencia y permisos para construcciones, y participar en materia de protección al ambiente y de preservación y restauración al equilibrio ecológico, así como en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fuesen necesarios; y
+
+XIII. Los municipios poseerán facultades para expedir, de acuerdo con las bases normativas que establezca la Legislatura, los bandos de policía, buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+###### Artículo 115.
+
+La hacienda del Estado se compone de los edificios públicos del mismo; de las herencias y bienes vacantes que estén dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las rentas que deba percibir y de las contribuciones decretadas por la Legislatura.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+Sólo los bienes del dominio público de la Federación, del Estado o de los municipios, estarán exentos del pago de los impuestos, derechos, aprovechamiento contribuciones, tasas adicionales y demás gravámenes económicos fiscales sobre la propiedad inmobiliaria, sus fraccionamientos, divisiones, consolidaciones, traslación y mejoras, así como las que tengan por base el cambio del precio del inmueble y, de los servicios públicos que reciban.
+
+## TITULO NOVENO.
+
+PREVENCIONES GENERALES.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO II. De las pruebas de la filiación de los hijos nacidos de matrimonio
 
-###### ARTICULO 116.
+###### Artículo 116.
 
-Extendida el acta se mandará anotar la de matrimonio de los divorciados y la copia de la declaración administrativa de divorcio se archivará con el mismo número del acta.
+Las contribuciones serán decretadas en cantidad suficiente para cubrir los gastos públicos, así ordinarios como extraordinarios, y para que el Gobernador pueda cumplir la obligación que le impone la fracción VI del artículo 87.
 
-###### ARTICULO 117.
+###### Artículo 117.
 
-Ninguna inhumación o cremación se hará sin autorización escrita dada por el Juez del Registro Civil, quien se asegurará suficientemente del fallecimiento, con certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+Para cubrir un déficit imprevisto en el tesoro, reprimir insurrecciones, o para la defensa, en caso de guerra, podrá hacerse uso del crédito del Estado, pero jamás se delegará esta facultad en un individuo o corporación.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-###### ARTICULO 118.
+###### Artículo 118.
 
-En el acta de fallecimiento se asentarán los datos que el Juez del Registro Civil requiera o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso, los parientes si los hay, o los vecinos.
+Todos los caudales públicos pertenecientes al Estado, ingresarán a la Secretaría de Finanzas y Planeación o a las Oficinas de Hacienda que determine la Ley. El Secretario del Ramo hará la distribución de ellos, según el presupuesto y será responsable, personal y pecuniariamente, por los pagos que efectúe sin que estén comprendidos en aquél o autorizados por la Ley.
 
-###### ARTICULO 119.
+###### Artículo 119.
 
-El acta de fallecimiento contendrá:
+El pago de sueldos a los empleados y funcionarios del Estado, se efectuará con entera igualdad, sin establecer preferencia alguna entre ellos.
 
-I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
+###### Artículo 120.
 
-II.- El estado civil de éste, y si era casado o viudo, el nombre y apellido de su cónyuge;
+Todo empleado de hacienda que tuviere manejo de caudales públicos, lo afianzará competentemente.
 
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
+###### Artículo 121.
 
-IV.- Los nombres de los padres del difunto si se supieren;
+La ley determinará la organización, planta y dotación de las oficinas de hacienda y la manera de recaudar y distribuir los fondos públicos.
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE FEBRERO DE 1984)</small>
 
-VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
+###### Artículo 122.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+Todo servidor público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de las faltas, violaciones u omisiones en que incurra en el ejercicio del mismo.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+El Gobernador del Estado, sólo será responsable de delitos graves, en los que no proceda el beneficio de la libertad provisional.
 
-###### ARTICULO 120.
+Se expedirá la Ley Reglamentaria, de conformidad con las siguientes prevenciones:
 
-Los que habiten la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes de los hoteles, mesones o las casas de vecindad tienen obligación de dar aviso al Juez del Registro Civil, dentro de las veinticuatro horas siguientes del fallecimiento y en caso de incumplimiento se sancionarán con una multa de quinientos a cinco mil pesos.
+I. Se impondrán mediante juicio político, sanciones a los servidores públicos que adelante se señalan, cuando incurran en actos u omisiones, que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+No procede el juicio político por la mera expresión de las ideas;
 
-###### ARTICULO 121.
+II. La comisión de delitos por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal; y
 
-Si el fallecimiento ocurriera en un lugar o población en donde no exista Oficina del Registro Civil, la autoridad municipal extenderá la constancia respectiva que remitirá al Juez del Registro Civil que corresponda, para que levante el acta correspondiente.
+III. Se aplicarán sanciones administrativas, a los servidores públicos, por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus empleos, cargos o comisiones.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-###### ARTICULO 122.
+La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa del enriquecimiento ilícito a los servidores públicos, señalando las bases para el Registro Patrimonial de éstos.
 
-Cuando el Juez del Registro Civil, sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote en el acta.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 123.
+###### Artículo 123.
 
-En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
+Podrán ser sujetos de juicio político los Diputados, los Magistrados del Poder Judicial, los Consejeros de la Judicatura, los Jueces de Primera Instancia, los Secretarios del Despacho y Subsecretarios, el Procurador General de Justicia y los Subprocuradores, los Directores, Subdirectores y Jefes de Departamento del Poder Ejecutivo, los Directores, Gerentes o encargados de Organismos descentralizados o desconcentrados, empresas de participación estatal, sociedades, asociaciones o fideicomisos constituidos por el Estado, así como los Comisionados Electorales del Consejo General de la comisión Estatal electoral, el Director General, el Secretario General y los Coordinadores Ejecutivos de este organismo.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 124.
+Por lo que hace a los miembros de los Ayuntamientos, se estará a lo dispuesto en sus Leyes respectivas.
 
-Si no aparece el cadáver pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparece y las demás noticias que sobre el suceso puedan adquirirse.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Las sanciones consistirán, en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-###### ARTICULO 125.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-En el caso de muerte en el mar a bordo de un buque nacional, o en el espacio aéreo nacional, el acta se formará en la manera prescrita en el artículo 119, en cuanto fuere posible, y la autorizará el capitán o patrono de la nave, practicándose, además, lo dispuesto para los nacimientos en los artículos 71 y 72.
+Para la aplicación de las sanciones antes mencionadas, la Legislatura del Estado procederá a la acusación respectiva ante el Pleno del Tribunal Superior de Justicia del Estado, previa declaración de las dos terceras partes del total de los integrantes de la Legislatura, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 126.
+Conociendo de la acusación, el Pleno del Tribunal Superior de Justicia erigido en Jurado de Sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de la totalidad de sus integrantes.
 
-Cuando alguno falleciere en lugar que no sea el de su domicilio se remitirá al Juez del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+Las declaraciones de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
 
-###### ARTICULO 127.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
-El jefe de cualquier cuerpo o destacamento militar, tiene obligación de dar parte al Juez del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación.
+###### Artículo 124.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Para Proceder penalmente en contra de los Diputados, los Magistrados del Poder Judicial, los Consejeros de la Judicatura, el Gobernador del Estado, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, el Contralor General del Estado o los Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha ligar a proceder contra el inculpado. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
 
-###### ARTICULO 128.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-Los tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Juez del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 129.
+Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior ante la misma por los mismos hechos.
 
-En todos los casos de muerte violenta en los establecimientos de reclusión, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-###### ARTICULO 130.
+Las declaraciones y resoluciones de la Legislatura, son inimpugnables,
 
-(DEROGADO, D.O.F. 3 DE ENERO DE 1979)
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
+El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-###### ARTICULO 131.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela, el divorcio o que se ha perdido o limitado la capacidad para administrar bienes, dentro del término de ocho días remitirán al Juez del Registro Civil correspondiente, copia certificada de la ejecutoria respectiva.
+###### Artículo 125.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-###### ARTICULO 132.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-El Juez del Registro Civil hará la anotación correspondiente en las actas de nacimiento y de matrimonio, en su caso, e insertará los datos esenciales de la resolución judicial que se le haya comunicado.
+###### Artículo 126.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2013)</small>
+Se aplicarán sanciones consistentes en suspensión, destitución e inhabilitación, así como de carácter económico en los términos que establezca la Ley, a los servidores públicos que incurran en actos u omisiones contrarios a la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben caracterizar al desempeño de sus funciones, empleos, cargos o comisiones.
+
+La Ley determinará las obligaciones de los servidores públicos, procedimientos, sanciones, autoridades competentes y límites de la responsabilidad administrativa de los servidores públicos.
+
+Las sanciones económicas que señale la Ley, deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios causados por sus actos u omisiones, pero no podrán ser mayores a tres tantos de los beneficios obtenidos o los daños y perjuicios causados.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+
+###### Artículo 127.
+
+La responsabilidad política, sólo podrá exigirse durante el período en que el servidor ejerza su cargo, empleo o comisión y dentro de un año después, y la sentencia se dictará dentro de los seis meses de iniciado el procedimiento.
+
+La responsabilidad por los delitos cometidos en contra de la función pública, prescribirá en tres años.
+
+La responsabilidad administrativa nunca prescribirá en un término menor a tres años.
+
+###### Artículo 128.
+
+La Legislatura del Estado deberá expedir leyes sobre el trabajo, fundadas en las necesidades de la región, sin contravenir a las bases siguientes, las cuales regirán el trabajo de los obreros, jornaleros, empleados, domésticos y artesanos y de una manera general todo contrato de trabajo:
+
+I. La duración de la jornada máxima será de ocho horas. La jornada máxima de trabajo nocturno será de siete horas, y el salario correspondiente será superior al de la jornada diurna en una proporción no inferior al cincuenta por ciento. Para los efectos correspondientes, se entiende por trabajo diurno el que se ejecute dentro del tiempo comprendido entre las 6 a.m. y las 6 p.m.; y por trabajo nocturno el que se ejecute dentro del tiempo comprendido entre las 6 p.m. y las 6 a.m.;
+
+II. Quedan prohibidas las labores insalubres o peligrosas para las mujeres en general y para los jóvenes menores de diez y seis años. Queda también prohibido a unas y otros el trabajo nocturno industrial; y en los establecimientos comerciales no podrán trabajar después de las diez de la noche;
+
+III. Los jóvenes mayores de doce años y menores de diez y seis, tendrán, como jornada máxima, la de seis horas. El trabajo de los niños menores de doce años no podrá ser objeto de contrato;
+
+IV. Por cada seis días de trabajo, deberá disfrutar el operario de un día de descanso cuando menos;
+
+V. Las mujeres, durante los tres meses anteriores al parto, no desempeñarán trabajos físicos que exijan esfuerzo material considerable. En el mes siguiente al parto disfrutarán forzosamente de descanso, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por su contrato. En el período de la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos;
+
+VI. El salario mínimo que deberá disfrutar el trabajador, será el que se considere suficiente, atendiendo a las condiciones de cada región, para satisfacer las necesidades normales de la vida del obrero, su educación y sus placeres honestos, considerándolo como jefe de familia. En toda empresa agrícola, comercial, fabril o minera, los trabajadores tendrán derecho a una participación en las utilidades, que será regulada como indica la fracción IX;
+
+VII. Para trabajo igual debe corresponder salario igual, sin tener en cuenta sexo ni nacionalidad;
+
+VIII. El salario mínimo quedará exceptuado de embargo, compensación o descuento;
+
+IX. La fijación del tipo de salario mínimo y de la participación en las utilidades a que se refiere la fracción sexta, se hará por comisiones especiales que se formarán en cada Municipio, subordinadas a la Junta Central de Conciliación que se establecerá en el Estado;
+
+X. El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo, con mercancías ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda;
+
+XI. Cuando por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario, por tiempo excedente, un ciento por ciento más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
+
+Los hombres menores de diez y seis años y las mujeres de cualquiera edad, no serán admitidos en esta clase de trabajo;
+
+XII. En toda negociación agrícola, industrial, minera o cualquiera otra clase de trabajo, los patrones estarán obligados a proporcionar a los trabajadores habitaciones cómodas e higiénicas, por las que podrán cobrar rentas que no excederán del medio por ciento mensual del valor catastral de las fincas.
+
+Igualmente deberán establecer escuelas, enfermerías y demás servicios necesarios a la comunidad. Si las negociaciones estuvieren situadas dentro de las poblaciones, y ocuparen un número de trabajadores mayor de cien, tendrán la primera de las obligaciones mencionadas;
+
+XIII. Además, en estos mismos centros de trabajo, cuando su población exceda de doscientos habitantes, deberá reservarse un espacio de terreno, que no será menor de cinco mil metros cuadrados, para el establecimiento de mercados públicos, instalación de edificios destinados a los servicios municipales y centros recreativos. Queda prohibido, en todo centro de trabajo, el establecimiento de expendios de bebidas embriagantes y casas de juego de azar;
+
+XIV. Los empresarios serán responsables de los accidentes del trabajo y de las enfermedades profesionales de los trabajadores, sufridas con motivo o en ejercicio de la profesión o trabajo que ejecuten; por lo tanto, los patrones deberán pagar la indemnización correspondiente, según que haya traído como consecuencia la muerte o simplemente incapacidad temporal o permanente para trabajar, de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el patrón contrate el trabajo por un intermediario;
+
+XV. El patrón estará obligado a observar, en la instalación de sus establecimientos, los preceptos legales sobre higiene y salubridad y adoptar las medidas adecuadas para prevenir accidentes en el uso de las máquinas, instrumentos y materiales de trabajo, así como organizar de tal manera éste, que resulte, para la salud y la vida de los trabajadores, la mayor garantía compatible con la naturaleza de la negociación, bajo las penas que al efecto establezcan las leyes;
+
+XVI. Tanto los obreros como los empresarios tendrán derecho para coaligarse en defensa de sus respectivos intereses, formando sindicatos, asociaciones profesionales, etc;
+
+XVII. Las leyes reconocerán, como un derecho de los obreros y de los patrones, las huelgas y los paros;
+
+XVIII. Las huelgas serán lícitas cuando tengan por objeto conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital. En los servicios públicos, será obligatorio, para los trabajadores, dar aviso, con diez días de anticipación, a la Junta de Conciliación y Arbitraje del Estado, de la fecha señalada para la suspensión del trabajo. Las huelgas serán consideradas como ilícitas únicamente cuando la mayoría de los huelguistas ejercieren actos violentos contra las personas o las propiedades, o en caso de guerra, cuando aquéllos pertenezcan a los establecimientos y servicios que dependan del Gobierno. Los obreros de los establecimientos fabriles militares del Gobierno de la República, no estarán comprendidos en las disposiciones de esta fracción, por ser asimilados al Ejército Nacional;
+
+XIX. Los paros serán lícitos únicamente cuando el exceso de producción haga necesario suspender el trabajo, para mantener los precios en un límite costeable, previa aprobación de la Junta de Conciliación y Arbitraje del Estado;
+
+XX. Las diferencias o los conflictos entre el capital y el trabajo, se sujetarán a la decisión de una Junta de Conciliación y Arbitraje, formada por igual número de representantes de los obreros y de los patrones y uno del Gobierno;
+
+XXI. Si el patrón se negare a someter sus diferencias al arbitraje o a aceptar el laudo pronunciado por la Junta, se dará por terminado el contrato de trabajo, y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo;
+
+XXII. El patrón que despida a un obrero, sin causa justificada, o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección de (sic) trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. Igualmente tendrá esta obligación cuando el obrero se retire del servicio, por falta de probidad de parte del patrón o por recibir de él malos tratamientos, ya sea en su persona, o en la de su cónyuge, padres, hijos o hermanos. El patrón no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimiento o tolerancia de él;
+
+XXIII. Los créditos en favor de los trabajadores por salario o sueldos devengados en el último año y por indemnizaciones, tendrán preferencia sobre cualesquiera otros en los casos de concurso o de quiebra;
+
+XXIV. De las deudas contraídas por los trabajadores a favor de sus patrones, de sus asociados, familiares o dependientes, sólo será responsable el mismo trabajador, y, en ningún caso, y por ningún motivo, se podrá exigir a los miembros de su familia, ni serán exigibles dichas deudas por la cantidad excedente del sueldo del trabajador en un mes;
+
+XXV. El servicio para la colocación de los trabajadores, será gratuito para éstos, ya se efectúe por oficinas municipales, Bolsas del Trabajo o por cualquiera otra institución oficial o particular;
+
+XXVI. Todo contrato de trabajo celebrado entre un mexicano y un empresario extranjero, deberá ser legalizado por la autoridad municipal competente y visado por el Cónsul de la nación a donde el trabajador tenga que ir, en el concepto de que además de las cláusulas ordinarias se especificará claramente que los gastos de repatriación quedan a cargo del empresario contratante;
+
+XXVII. Serán condiciones nulas y no obligarán a los contrayentes aunque se expresen en el contrato:
+
+A. Las que estipulen una jornada inhumana por lo notoriamente excesiva dada la índole del trabajo;
+
+B. Las que fijen un salario que no sea remunerador a juicio de las Juntas de Conciliación y Arbitraje del Estado;
+
+C. Las que estipulen un plazo mayor de una semana para la percepción del jornal;
+
+D. Las que señalen un lugar de recreo, fonda, café, taberna, cantina o tienda para efectuar el pago del salario, cuando no se trate de empleados en esos establecimientos;
+
+E. Las que entrañen obligación directa o indirecta de adquirir los artículos de consumo en tiendas o lugares determinados;
+
+F. Las que permitan retener el salario en concepto de multa;
+
+G. Las que constituyan renuncia hecha por el obrero, de las indemnizaciones a que tenga derecho por accidente del trabajo y enfermedades profesionales, perjuicios ocasionados por el incumplimiento del contrato o despedírsele de la obra; y
+
+H. Todas las demás estipulaciones que impliquen renuncia de algún derecho consagrado a favor del obrero en las leyes de protección y auxilio a los trabajadores.
+
+XXVIII. Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales, ni embargos y serán transmisibles, a título de herencia, con simplificación de las formalidades de los juicios sucesorios;
+
+XXIX. Se consideran de utilidad social el establecimiento de cajas de seguros populares, de invalidez, de vida, de cesación involuntaria de trabajo, de accidentes, y otros con fines análogos, por lo cual el Gobierno del Estado deberá fomentar la organización de instituciones de esta índole, para infundir e inculcar la previsión popular; y
+
+XXX. Así mismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores, en plazos determinados.
+
+###### Artículo 129.
+
+Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia.
+
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 1996)</small>
+
+###### Artículo 130.
+
+La presente Constitución puede ser adicionada o reformada a iniciativa del Gobernador del estado, de los diputados de la Legislatura estatal, de los diputados y senadores ante el Congreso de la Unión electos en la entidad; así como del Tribunal Superior de Justicia y de los ayuntamientos, en lo tocante a sus respectivos ramos.
+
+Para que el proyecto de adiciones o reformas llegue a formar parte de la Constitución se requiere el voto aprobatorio de las dos tercera partes de los integrantes de la Legislatura y de la mayoría de los ayuntamientos de la entidad.
+
+La Legislatura, o la Diputación Permanente en su caso, hará el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
+Si el proyecto no fuese aprobado por la mayoría de los ayuntamientos, volverá a ser examinado por la Legislatura en el siguiente periodo ordinario de sesiones y, de resultar aprobado por las dos terceras partes de sus integrantes, se hará la declaratoria correspondiente y se enviará al Gobernador del estado para los efectos del Artículo 131 de esta Constitución.
+
+> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 1996)</small>
+
+###### Artículo 131.
+
+Las adiciones o reformas aprobadas deberán enviarse al Gobernador del estado para su promulgación.
+
+###### Artículo 132.
+
+Los recursos económicos de que dispongan los gobiernos estatal y municipal, así como sus respectivas administraciones públicas, paraestatales y paramunicipales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios públicos de cualquier naturaleza y la contratación de obra se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado y a los municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los municipios y a ellos se sujetarán cuando las licitaciones no sean idóneas.
+
+El manejo de recursos económicos estatales y municipales se sujetará a las bases de este artículo.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Sexto de esta Constitución.
+
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ### CAPITULO III. De la legitimación
 
-###### ARTICULO 133.
+###### Artículo 133.
 
-Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
+Los empleos o cargos públicos del Estado, durarán el tiempo señalado por las leyes, y los que los obtengan no tendrán derecho alguno para conservarlos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
+Sólo podrán reunirse en una sola persona dos o más empleos del Estado y del Municipio, o de éstos y de la Federación, previa autorización de la Legislatura o de la Diputación Permanente, que la concederá atendiendo a la conveniencia pública. No se consideran dentro de esta disposición, las consejerías o representaciones ante cuerpos colegiados de organismos descentralizados, desconcentrados, asociaciones o sociedades, que desempeñe el servidor público por razón de su capacidad. Quedan exceptuados de tal reglamento los empleos del ramo de enseñanza, que se sujetarán, sobre el particular a lo dispuesto por la Ley de la materia.
 
-###### ARTICULO 134.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+###### Artículo 134.
 
-###### ARTICULO 135.
+Los servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en la Ley de Egresos del Estado o en los presupuestos de las entidades paraestatales o municipales, según corresponda.
 
-Ha lugar a pedir la rectificación:
+La disposición que aumente o disminuya la remuneración que perciben los servidores públicos de elección popular, no podrá tener efecto durante el período en que el funcionario ejerza el cargo, salvo el caso de los incrementos salariales.
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
+###### Artículo 135.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+Todos los funcionarios y empleados del Estado y del Municipio, al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución General de la República, la particular del Estado y todas las leyes que de ambas emanen.
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 136.
+###### Artículo 136.
 
-Pueden pedir la rectificación de un acta del estado civil:
+El Gobernador, Los Magistrados del Poder Judicial, los Consejeros de la Judicatura, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia, Menores, Auxiliares y de Paz, Los Presidentes Municipales, Los Secretarios del Tribunal, los Visitadores Judiciales y los Secretarios de los Juzgados, no podrán intervenir como árbitros ni conciliadores ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios intereses o los correspondientes a su cónyuge, concubina o concubinario, pariente por consanguinidad en línea recta sin límite de grado, colateral consanguíneo hasta el cuarto grado y por afinidad hasta el segundo, así como el civil y cuando exista relación de tutela o curatela. La infracción de este Artículo causa de responsabilidad.
 
-I.- Las personas de cuyo estado se trata;
+> <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
-II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
+Esta prohibición comprende a los funcionarios o empleados que no estén en el ejercicio de sus funciones, por hallarse disfrutando de licencia.
 
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
+###### Artículo 137.
 
-IV.- Los que según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata.
+(DEROGADO, G.O. 20 DE MARZO DE 1997)
 
-###### ARTICULO 137.
+###### Artículo 138.
 
-El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-###### ARTICULO 138.
-
-La sentencia que cause ejecutoria se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1979)</small>
-
-###### ARTICULO 138 Bis.
-
-La aclaración de las actas del estado civil, procede cuando en el Registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas, y deberán tramitarse ante la Oficina Central del Registro Civil.
+(DEROGADO, G.O. 20 DE MARZO DE 1997)
 
 ### CAPITULO IV. Del reconocimiento de los hijos nacidos fuera del matrimonio
 
-###### ARTICULO 139.
+###### Artículo 139.
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
+Es servicio altamente meritorio para la humanidad y honorífico en el Estado, dedicarse a la enseñanza primaria. La ley general de enseñanza designará los premios y recompensas a que se hagan acreedores los que desempeñan satisfactoriamente tan importante magisterio.
 
-###### ARTICULO 140.
+###### Artículo 140.
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
+Cuando por circunstancias imprevistas no pueda instalarse la Legislatura, ni el Gobernador tomar posesión de su cargo el día prefijado por esta Constitución, la Legislatura que esté funcionando, o la Diputación permanente, señalará el nuevo día en que deban verificarse dichos actos.
 
-###### ARTICULO 141.
+###### Artículo 141.
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2013)
+En el caso de la fracción V del artículo 76 de la Constitución General, asumirá el Poder Ejecutivo, cualquiera de los funcionarios siguientes por el orden de su designación:
+
+I. El Presidente de la última Legislatura o el de la Diputación permanente si la desaparición de los Poderes ocurriere estando ésta en funciones;
+
+II. El Vicepresidente de la Legislatura;
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+III. El último Secretario General de Gobierno, y
+
+IV. El último Presidente del Tribunal Superior.
+
+La persona que asuma el Poder Ejecutivo, convocará, desde luego, a elecciones sujetándose, en lo posible, a la forma y términos prescritos por esta Constitución.
 
 ###### ARTICULO 142.
 
@@ -5330,10 +3346,6 @@ La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dent
 ###### ARTICULO 241.
 
 El parentesco de consanguinidad no dispensado anula el matrimonio, pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Juez del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
-
-###### ARTICULO 242.
-
-La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
 ### CAPITULO VIII. De las excusas para el desempeño de la tutela
 
@@ -12563,195 +10575,171 @@ ARTICULO 2,060.- No habrá subrogación parcial en deudas de solución indivisib
 
 ARTICULO 2,061.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
 
-## ARTICULOS TRANSITORIOS
+## TRANSITORIOS.
 
-> <small>(REFORMADO, D.O.F. 1o. DE SEPTIEMBRE DE 1932)</small>
+1o. Esta Constitución se publicará, desde luego, por Bando solemne en todas las poblaciones del Estado y entrará inmediatamente en vigor.
 
-###### ARTICULO 1o.
+2o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 
-Este Código comenzará a regir el 1o. de octubre de 1932.
+3o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
+
+4o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
+
+5o. Si tuviere dificultad el Ejecutivo para establecer desde luego la Universidad, la enseñanza que deba dirigir ella, quedará a cargo de un Departamento especial del Ejecutivo, llamado "Departamento Universitario", organizado conforme a la ley especial y cuyo Jefe, nombrado por el C. Gobernador, acordará directamente con el mismo funcionario.
+
+6o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
+
+7o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
+
+Dada en la H. Ciudad de Córdoba, a veinticuatro de agosto de mil novecientos diez y siete.- C. Méndez Alcalde, Diputado por el 14o Distrito Electoral, Presidente.- Desiderio R. Pavón, Diputado por el 1er. Distrito Electoral.- Isaac Velázquez, Diputado por el 3er. Distrito Electoral.- Efrén A. Bauza, Diputado por el 5o Distrito Electoral.- Celerino Murrieta, Diputado por el 6o Distrito Electoral.- Gustavo Bello, Diputado por el 7o Distrito Electoral. D. Victoria, Diputado por el 8o Distrito Electoral.- Elías Pérez, Diputado por el 9o Distrito Electoral.- Miguel B. Fernández, Diputado por el 10o Distrito Electoral.- M. Limón Uriarte, Diputado por el 11o Distrito Electoral.- S. L. Herrera, Diputado por el 12o Distrito Electoral.- Pánfilo Méndez, Diputado por el 13o Distrito Electoral.- M. Loyo, Diputado por el 15o Distrito Electoral.- Rodolfo Cancela Nogueira, Diputado por el 16o Distrito Electoral.- Gaspar Méndez, Diputado por el 17o Distrito Electoral.- Luis G. Carrión, Diputado el 18o Distrito Electoral.- A. Ortíz Ríos, Diputado por el 19o Distrito Electoral.- A. Nava, Diputado por el 4o Distrito Electoral, Secretario.
+
+Por tanto, mando se imprima, publique por Bando solemne en todo el Estado y circule para general conocimiento.
+
+CONSTITUCION Y REFORMAS.
+
+H. Córdoba, a 16 de septiembre de 1917.-M. Loyo.-Carlos I. Meléndez, Secretario.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+G.O. 28 DE DICIEMBRE DE 1920.
+
+1º.- Las presentes reformas se publicarán por bando solemne en todas las poblaciones del Estado y principiarán a regir desde luego.
+
+2º.- Los actuales Magistrados del Tribunal Superior y el Procurador General del Estado funcionarán únicamente hasta el 31 de diciembre del corriente año, en cuya fecha tomarán posesión los nuevos funcionarios que la Legislatura deberá haber electo, así como a los supernumerarios y al Procurador General para que funjan en el próximo período.
+
+3º.- Los Jueces de Primera Instancia nombrados por el actual Tribunal con el carácter de inamovibles, dejarán de tener ese carácter.
+
+4º.- La Legislatura procederá al nombramiento del Jefe de la Dirección General de Educación, a cuyo efecto el Ejecutivo le remitirá la terna respectiva dejando de funcionar la persona que actualmente desempeña ese encargo, de no ser ella nuevamente nombrada.
+
+G.O. 21 DE SEPTIEMBRE DE 1922.
 
 ###### ARTICULO 1°.
 
 La Legislatura que esté en funciones al entrar en vigor la presente Ley, prorrogará su período hasta el 30 de septiembre del año en que aquél deba concluir.
 
-###### ARTICULO 2º.
+###### Artículo 2o.
 
-La capacidad jurídica es igual para el hombre y la mujer; en consecuencia, la mujer no queda sometida, por razón de su sexo, a restricción alguna en la adquisición y ejercicio de sus derechos civiles.
+Es libre, independiente y soberano en su administración y gobierno interiores.
 
-###### ARTICULO 3º.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-Las leyes, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos tres días después de su publicación en el Periódico Oficial.
+###### Artículo 3o.
 
-En los lugares distintos del en que se publique el Periódico Oficial, para que las leyes, reglamentos, etc., se reputen publicados y sean obligatorios, se necesita que además del plazo que fija el párrafo anterior, transcurra un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
-
-###### ARTICULO UNICO.
-
-La presente reforma entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 28 DE ENERO DE 1970.
+El territorio del Estado se dividirá en municipios, sin perjuicio de las divisiones que, por razones de orden, establezcan las leyes orgánicas y reglamentarias de los distintos ramos de la administración. La Ley fijará el mínimo de la población y los demás requisitos necesarios para erigir nuevos municipios.
 
 ###### ARTICULO UNICO.
 
-El presente decreto surtirá sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
+Las reformas mencionadas al principio, entrarán en vigor desde la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
 
-D.O.F. 24 DE MARZO DE 1971.
+G.O. 13 DE OCTUBRE DE 1959.
+
+###### ARTICULO UNICO.
+
+Las reformas mencionadas al principio, entrarán en vigor desde la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
+
+G.O. 1 DE JULIO DE 1971.
+
+UNICO.- Resérvese esta reforma para conocimiento de la próxima XLIX Legislatura del Estado, para los efectos del artículo 130 de la Constitución Política Local.
+
+G.O. 27 DE NOVIEMBRE DE 1971.
 
 ###### ARTICULO PRIMERO.
 
-Esta ley entrará en vigor a los quince días de su publicación en el "Diario Oficial" de la Federación.
+Esta Ley entrará en vigor el día 1°. de enero de 1972.
 
 ###### ARTICULO SEGUNDO.
 
-Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley, excepto para regir las violaciones ocurridas antes de la vigencia de ésta.
+Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial" del Estado.
 
-D.O.F. 27 DE FEBRERO DE 1951.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1952.
-
-###### ARTICULO 1o.
-
-El presente decreto entrará en vigor al mismo tiempo que el nuevo Reglamento del Registro Público que se expida, en la fecha que fije el Ejecutivo.
-
-###### ARTICULO 2o.
-
-Sus disposiciones se aplicarán a los actos y contratos y a los títulos y documentos de fecha anterior a su vigencia, siempre que su aplicación no resulte retrospectiva.
-
-###### ARTICULO 3o.
-
-Al entrar en vigor el presente decreto, el Director del Registro Público de la Propiedad del Distrito Federal y los registradores de los Territorios, harán entrega a los encargados de los Archivos de Notarías de sus respectivas jurisdicciones, de los testamentos ológrafos depositados en el Registro, mediante relación detallada de los mismos, entregándoles igualmente los libros de registro y los índices en donde se encuentren anotados dichos testamentos, para su guarda y depósito.
-
-###### ARTICULO 4o.
-
-Las personas casadas bajo el régimen de sociedad conyugal, tendrán un plazo de seis meses a partir de la fecha en que este decreto entre en vigor para inscribir en el registro relativo a los inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, esta circunstancia. Pasado este plazo se aplicará a toda inscripción hecha en el registro lo dispuesto en el artículo 3012.
-
-###### ARTICULO 5o.
-
-Quedan derogadas las disposiciones del Código Civil de 1932, que se opongan al presente decreto.
-
-D.O.F. 9 DE ENERO DE 1954.
-
-El presente decreto entrará en vigor diez días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 15 DE DICIEMBRE DE 1954.
-
-EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 31 DE DICIEMBRE DE 1954.
-
-EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1966.
-
-Primero.- El presente Decreto entrará en vigos (sic) tres días después de su publicación en el "Diario Oficial" de la Federación.
-
-Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
-
-D.O.F. 17 DE ENERO DE 1970.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCIÓN III, 398, 403, 405 FRACCIÓN I Y 406 FRACCIONES I Y II DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
-
-UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 17 DE ENERO DE 1970.
-
-DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 511 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+G.O. 28 DE DICIEMBRE DE 1971.
 
 ###### ARTICULO PRIMERO.
 
-El presente decreto, por lo que hace al Registro Público entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación y, por lo que hace al sistema que habrá de seguirse en la Oficina Central y en los Juzgados del Registro Civil, treinta días después de su publicación en el propio "Diario Oficial".
+Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial".
 
 ###### ARTICULO SEGUNDO.
 
-Quedan derogadas las disposiciones legales que se opongan al presente Decreto y se abroga el que reforma varios artículos del Código Civil para el Distrito Federal, en Materia Común, y para toda la República, en Materia Federal, así como el Título II de la Tercera Parte del Libro Cuarto de este mismo Código, de fecha 31 de diciembre de 1951 publicado en el "Diario Oficial" de la Federación el 18 de enero de 1952.
+La presente Ley comenzará a surtir sus efectos legales a partir de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 30 DE DICIEMBRE DE 1976.
 
 ###### ARTICULO PRIMERO.
 
-El presente Ordenamiento entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 27 DE DICIEMBRE DE 1983.
-
-DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL (ARTÍCULO 17); DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, DE LA LEY ORGÁNICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMÚN DEL DISTRITO FEDERAL; Y DEL CÓDIGO DE COMERCIO.
+Esta ley entrará en vigor el día primero de enero de 1977.
 
 ###### ARTICULO SEGUNDO.
 
-El Ejecutivo Federal y el Jefe del Departamento del Distrito Federal dictarán las disposiciones administrativas para cumplimentar lo dispuesto en el presente Decreto.
+Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial" órgano del Gobierno de la Entidad.
+
+G.O. 22 DE DICIEMBRE DE 1977.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 10 DE OCTUBRE DE 1978.
+
+LEY No. 318.
 
 ###### ARTICULO UNICO.
 
-Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
+Publíquese en la 'Gaceta Oficial', órgano del Gobierno del Estado, surtiendo sus efectos al día siguiente de su publicación.
 
-D.O.F. 4 DE ENERO DE 1973.
+G.O. 10 DE OCTUBRE DE 1978.
 
-###### ARTICULO UNICO.
+LEY No. 326.
 
-Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+UNICO.- Esta Ley entrará en vigor al día siguiente al de su publicación en la 'Gaceta Oficial' del Estado.
 
-D.O.F. 14 DE MARZO DE 1973.
-
-###### ARTICULO UNICO.
-
-Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE DICIEMBRE DE 1973.
-
-PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
-
-SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le corresponda.
-
-TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
-
-D.O.F. 23 DE DICIEMBRE DE 1974.
+G.O. 18 DE ENERO DE 1979.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+Esta Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
 
-D.O.F. 31 DE DICIEMBRE DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 22 DE DICIEMBRE DE 1975.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 30 DE DICIEMBRE DE 1975.
-
-UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 29 DE JUNIO DE 1976.
+G.O. 24 DE JUNIO DE 1980.
 
 ###### ARTICULO UNICO.
 
-Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+La presente Ley entrará en vigor, al día siguiente de su publicación en la "Gaceta Oficial" órgano del Gobierno del Estado.
 
-D.O.F. 29 DE DICIEMBRE DE 1976.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 3 DE ENERO DE 1979.
+G.O. 30 DE SEPTIEMBRE DE 1980.
 
 ###### ARTICULO UNICO.
 
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+La presente reforma Constitucional entrará en vigor el día siguiente de su publicación en la 'Gaceta Oficial' del Gobierno del Estado.
 
-D.O.F. 27 DE DICIEMBRE DE 1983.
-
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
-
-DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, Y EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+G.O. 29 DE OCTUBRE DE 1981.
 
 ###### ARTICULO UNICO.
 
-Las presentes reformas al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+La presente Ley entrará en vigor, al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
 
-D.O.F. 7 DE ENERO DE 1988.
+G.O. 30 DE DICIEMBRE DE 1982.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL
+LEY No. 403.
+
+###### ARTICULO UNICO.
+
+Esta Ley surtirá sus efectos a partir del día de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 30 DE DICIEMBRE DE 1982.
+
+LEY No. 404.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 10 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 31 DE DICIEMBRE DE 1983.
+
+UNICO. La presente Ley entrará en vigor al siguiente día de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+G.O. 21 DE ENERO DE 1984.
 
 ###### ARTICULO UNICO.
 
@@ -12777,19 +10765,7 @@ G.O. 5 DE ABRIL DE 1984.
 
 ###### ARTICULO PRIMERO.
 
-El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
-
-D.O.F. 7 DE FEBRERO DE 1985.
-
-DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
-
-TRANSITORIO PRIMERO.- Los contratos celebrados con anterioridad a la promulgación del presente decreto continuarán en vigor respecto al término pactado por las partes.
-
-DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 10 DE ENERO DE 1986.
+Las funciones de los Magistrados integrantes del actual Tribunal Superior de Justicia, concluirán el día treinta de noviembre de 1986.
 
 ###### ARTICULO SEGUNDO.
 
@@ -12805,7 +10781,7 @@ G.O. 6 DE SEPTIEMBRE DE 1986.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+Se derogan las disposiciones que se opongan a esta Ley.
 
 ###### ARTICULO SEGUNDO.
 
@@ -12823,13 +10799,13 @@ Los Jueces de Primera Instancia que se encuentren en ejercicio, concluirán su e
 
 ###### ARTICULO TERCERO.
 
-Las disposiciones de este decreto se aplicarán a los actos, contratos, títulos y documentos de fecha anterior a su vigencia, siempre que no sean en perjuicio de los interesados.
+Los Jueces de Primera Instancia que se encuentren en ejercicio y que hayan sido designados con posterioridad al 6 de abril de 1984, concluirán su encargo el día en que se cumplan tres años de ejercicio, a partir de la fecha de su designación, a cuyo término, si son ratificados, adquirirán la inamovilidad.
 
 ###### ARTICULO CUARTO.
 
-Al entrar en vigor el presente decreto en el Distrito Federal, el Director del Registro Público hará entrega al encargado del Archivo General de Notarías de los testamentos ológrafos depositados en el citado Registro Público, mediante acta que contenga la relación detallada de los mismos y de los libros e índices en que consten anotados.
+La reforma del primer párrafo del artículo 98, entrará en vigor a partir del día 7 de abril de 1987; pero no será aplicable para los casos a que se refiere el Artículo Tercero Transitorio anterior.
 
-D.O.F. 31 DE DICIEMBRE DE 1982.
+G.O. 19 DE ENERO DE 1988.
 
 ###### ARTICULO PRIMERO.
 
@@ -12881,7 +10857,9 @@ Los Ayuntamientos y Concejos Municipales que estén en funciones concluirá su g
 
 ###### ARTICULO TERCERO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 23 DE JULIO DE 1991.
 
 ###### ARTICULO PRIMERO.
 
@@ -12997,187 +10975,173 @@ DECRETO No. 30.
 
 LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN LA 'GACETA OFICIAL' DEL ESTADO.
 
+G.O. 20 DE MARZO DE 1997.
+
+DECRETO No. 57.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Presidente del Tribunal Superior, continuará en funciones y ejercerá las atribuciones que esta Constitución le otorga hasta en tanto se elige al Presidente de acuerdo con lo dispuesto en el artículo décimo tercero transitorio.
+
+###### ARTICULO TERCERO.
+
+Los Magistrados adscritos antes de esta reforma a la Primera, Tercera y Quinta Salas en Materia Penal y a la Segunda y Cuarta Salas en Materia Civil, del tribunal superior de Justicia, quedan adscritos en la misma forma, en el Primero, Tercero y Quinto Tribunales Colegiados en Materia Penal y Segundo y Cuarto Tribunales Colegiados en Materia Civil, hasta en tanto el Consejo de la Judicatura, ratifica o modifica dicha adscripción.
+
 ###### ARTICULO CUARTO.
 
-En las inmatriculaciones de inmuebles por resolución del Director del Registro Público de la Propiedad que se hayan realizado en un plazo mayor a cinco años de anterioridad a la entrada en vigor de las presentes reformas y adiciones, los interesados podrán solicitar la inscripción de dominio correspondiente, con sujeción a lo dispuesto por el artículo 3055 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
-
-En aquellas en que aún no se cumpla el término establecido, los interesados podrán hacer la solicitud respectiva en el momento en que se satisfaga este requisito.
+El Presidente de la Sala Superior del Tribunal de lo contencioso Administrativo, así como los Magistrados que integran dicha Sala, continuarán adscritos en el Tribunal de lo Contencioso Administrativo, hasta en tanto el consejo de la Judicatura resuelva lo procedente, respecto a su integración y adscripción.
 
 ###### ARTICULO QUINTO.
 
-Las solicitudes de inmatriculación por resolución del Director del Registro Público de la Propiedad que se encuentren en trámite a la entrada en vigor de estas reformas y adiciones, deberán ajustarse al procedimiento que establecen los artículos 3052 y 3053 que se reforman.
+Los Magistrados adscritos antes de esta reforma, a las Salas Regionales del Tribunal de lo Contencioso Administrativo, serán adscritos a los Tribunales Regionales Unitarios, hasta en tanto el Consejo de la Judicatura resuelva lo procedente.
 
-D.O.F. 7 DE ENERO DE 1988.
+###### ARTICULO SEXTO.
 
-DECRETO POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL
+Los Magistrados adscritos al Tribunal Estatal de Conciliación y Arbitraje, incluido el Presidente del mismo, continuarán con la misma adscripción y si el Consejo de la Judicatura lo determina, podrá asumir dicho Tribunal el carácter de Mixto.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO SEPTIMO.
 
-D.O.F. 23 DE JULIO DE 1992.
+Los Magistrados del Tribunal Estatal de Conciliación y Arbitraje que actualmente se encuentran en funciones, si tienen más de tres años de servicio y son ratificados por la Legislatura del Estado o la Diputación Permanente, a propuesta del Consejo de la Judicatura, del titular del Poder Ejecutivo y por la Federación Mayoritaria de Sindicatos registrada o, en su caso, por el Poder Legislativo, sólo podrán ser privados de sus cargos por la violación de lo dispuesto en los artículos 99, 100 y 105 de esta Constitución. Los Magistrados que no sean ratificados, continuarán en ejercicio hasta el término para el que fueron designados, que vence el día último de diciembre de 1998.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO OCTAVO.
 
-SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra (sic) en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
+El Gobernador del Estado y la Legislatura o la Diputación Permanente, en su caso, designarán dentro de los primeros cinco días a partir de la vigencia de esta Ley, a un Consejero de la Judicatura, respectivamente.
 
-D.O.F. 21 DE JULIO DE 1993.
+###### ARTICULO NOVENO.
 
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
+El Pleno del Tribunal Superior se reunirá dentro de los cinco primeros días a partir de la vigencia de esta Ley, a efecto de que insaculen a un Magistrado y a un Juez de Primera Instancia del total de ellos como integrantes del Consejo de la Judicatura.
 
-PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
+###### ARTICULO DECIMO.
 
-> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
+Los integrantes del Consejo de la Judicatura, durarán en su encargo, por esta única vez, hasta el 30 de noviembre de 1998.
 
-SEGUNDO.- Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
+###### ARTICULO DECIMO PRIMERO.
 
-I.- No se encuentren arrendados al 19 de octubre de 1993;
+El Consejo de la Judicatura expedirá el acuerdo correspondiente para erigir e integrar los Tribunales y determinar su competencia territorial, así como la adscripción de los Magistrados que integrarán cada uno de ellos, con excepción de los Tribunales Electorales y Laboral, dentro de los treinta días siguientes a la entrada en vigor de esta ley.
 
-II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para uso distinto del habitacional, o
+###### ARTICULO DECIMO SEGUNDO.
 
-III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
+Una vez que el Consejo de la Judicatura determine la adscripción de los Magistrados a los distintos Tribunales, los integrantes de cada uno de ellos procederán a la elección de su Presidente, que estará en funciones hasta que se publique la Ley Orgánica del Poder Judicial, en donde se determinen las reglas de elección y duración de dichos Presidentes, a excepción de los que presidan el Tribunal Estatal de Elecciones y el Tribunal Estatal de Conciliación y Arbitraje.
 
-> <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
+###### ARTICULO DECIMO TERCERO.
 
-TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de abril de 1999 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas, que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
+El Pleno del Tribunal Superior del Estado, se reunirá a los treinta días siguientes, a la entrada en vigor de este Decreto, para elegir al Presidente de dicho Tribunal. que durará en su cargo hasta el 2 de diciembre de 1998, fecha en la que deberá rendir el informe respectivo.
 
-D.O.F. 23 DE SEPTIEMBRE DE 1993.
+###### ARTICULO DECIMO CUARTO.
 
-UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
+El Presupuesto de Egresos del Estado, se reformará a electo de que los recursos asignados a los Tribunales de lo Contencioso Administrativo, de Conciliación y Arbitraje, Estatal de Elecciones y las partidas destinadas al Consejo Tutelar de Menores, en lo que corresponde a la función jurisdiccional, pasen a formar parte del Presupuesto de Egresos del Poder Judicial y asimismo, para señalar las ampliaciones a las partidas correspondientes para instrumentar la reforma del Poder Judicial a que se refiere esta Ley.
 
-D.O.F. 6 DE ENERO DE 1994.
+###### ARTICULO DECIMO QUINTO.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Las partidas contempladas en los planes de arbitrios del ejercicio 1997 para el pago de los empleados de los Juzgados Menores y de los Jueces, Secretarios y Empleados de los Juzgados Municipales, que mediante esta reforma se transforman en Juzgados de Paz, se transferirán al Presupuesto de Egresos del Poder Judicial, para que las ejerza de manera directa, conforme a los fines a que están destinadas.
 
-SEGUNDO.- Todas las referencias en la Ley del Notariado para el Distrito Federal, al Departamento del Distrito Federal se entenderán hechas a las autoridades del Distrito Federal; las relativas a libro autorizado y fojas, se tendrán hechas a folios, y cuando se haga alusión a notas marginales se entenderán notas complementarias.
+###### ARTICULO DECIMO SEXTO.
 
-TERCERO.- Los notarios deberán empezar a formar el protocolo bajo el nuevo sistema de folios, a más tardar el día 1o. de mayo de 1994. Dentro de ese plazo, se podrán autorizar a los notarios los libros necesarios. Transcurrido dicho plazo, los notarios asentarán la razón de terminación de cada libro después de la última escritura pasada y cancelarán las hojas no utilizadas, si las hubiere.
+La Secretaría de Finanzas y Planeación entregará al Consejo de la Judicatura, en el término de los treinta días posteriores a la iniciación de la vigencia de este Decreto, el monto que corresponda hasta la fecha de los depósitos en dinero o valores que se hayan efectuado ante los tribunales judiciales, por concepto de multas, cauciones o por cualquier otra prestación autorizada por la Ley, con objeto de que se constituya de inmediato el fondo auxiliar para la impartición de justicia.
 
-CUARTO.- La numeración de los instrumentos con la que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejarán de usarse.
+###### ARTICULO DECIMO SEPTIMO.
 
-QUINTO.- Los folios del Protocolo Abierto Especial actualmente en uso, serán utilizados por los notarios hasta que se terminen.
+La legislación vigente sobre materia penal, civil, administrativa, laboral, electoral, de menores infractores y de organización de Tribunales, deberá ser reformada en un plazo no mayor de nueve meses a partir de la entrada en vigor de este Decreto, para hacerla concordante con las nuevas disposiciones constitucionales. En tanto entran en vigor las citadas reformas, los Tribunales y Juzgados tendrán las atribuciones que a continuación se determinan.
 
-SEXTO.- En los casos en que con anterioridad a la entrada en vigor del presente Decreto, se hubieren otorgado escrituras de adquisición de los inmuebles a que se refiere el artículo 1549-Bis del Código Civil, los propietarios podrán instituir uno o más legatarios en los términos establecidos por dicho artículo.
+I. El Tribunal de lo Contencioso Administrativo seguirá conociendo de dicha materia de acuerdo con las disposiciones vigentes aplicables y también tendrá competencia para conocer de materia civil o penal en los términos que señalen los acuerdos que expida el Consejo de la Judicatura, sobre el particular, en cuyo caso, aplicarán los Códigos y Leyes de la materia;
 
-D.O.F. 10 DE ENERO DE 1994.
+II. El Tribunal Estatal de Conciliación y Arbitraje, seguirá conociendo de la materia laboral, de acuerdo a las disposiciones vigentes y tendrá competencia para conocer de la materia civil o penal en los términos que señalen los acuerdos que expida el Consejo de la Judicatura, sobre el particular, en cuyo caso, aplicarán los Códigos y Leyes de la materia.
 
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
+Las demandas laborales planteadas con anterioridad a la vigencia de esta reforma por los trabajadores, en contra de los Tribunales que integran el Tribunal Superior de Justicia y los Juzgados del Estado, continuarán su trámite en el Tribunal Estatal de Conciliación y Arbitraje, hasta su resolución definitiva y el laudo correspondiente cause estado.
 
-PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+Las demandas y asuntos en materia laboral entre el Tribunal Estatal de Elecciones y sus empleados, que se encuentran en trámite, continuarán desahogándose en el propio Tribunal hasta su resolución final.
 
-CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+Las demandas y asuntos en materia laboral que presenten los trabajadores en forma individual o su Sindicato en contra del Poder Judicial, o en contra del Tribunal Estatal de Elecciones, que se inicien después de la entrada en vigor de esta Reforma y hasta antes de la instalación del nuevo órgano jurisdiccional que le competa resolver estos asuntos, se tramitarán en el Tribunal Estatal de Conciliación y Arbitraje, o en el Tribunal Estatal de Elecciones, según corresponda, hasta su resolución final;
 
-D.O.F. 24 DE MAYO DE 1996.
+III. Los Tribunales o Juzgados de competencia civil, penal o mixta que actualmente funcionan, seguirán conociendo de sus respectivas materias y podrán conocer de asuntos administrativos, según lo resuelva el Consejo de la Judicatura, en cuyo caso, aplicarán los códigos y leyes de la materia; y
 
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
+IV. Los Tribunales Unitarios Regionales continuarán conociendo de los asuntos de su materia y podrán también conocer de los recursos interpuestos contra las resoluciones interlocutorias en materia penal, civil y mercantil dictadas por los Jueces de Primera Instancia, según lo resuelva el Consejo de la Judicatura, de acuerdo a las necesidades del servicio y al número de asuntos radicados.
 
-CUARTO.- Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO DECIMO OCTAVO.
 
-D.O.F. 24 DE DICIEMBRE DE 1996.
+El apartado A.3 del Artículo 96 de esta Constitución, entrará en vigor en la fecha que disponga la Ley. Los Tribunales Regionales Colegiados se establecerán en forma gradual, en una circunscripción territorial determinada por las necesidades del servicio y en base a la disponibilidad presupuestaria.
 
-SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
+###### ARTICULO DECIMO NOVENO.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+En relación a las facultades del Pleno del Poder Judicial para propiciar la unificación de criterios, por lo que se refiere a la materia laboral esta disposición entrará en vigor hasta que se constituyan los Tribunales Regionales en materia laboral.
 
-D.O.F. 30 DE DICIEMBRE DE 1997.
+###### ARTICULO VIGESIMO.
 
-PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+Toda referencia en las disposiciones legales que atribuyen competencia al Tribunal de lo Contencioso Administrativo o al Tribunal Estatal de Conciliación y Arbitraje, se entenderá referida dicha competencia al Tribunal de lo Contencioso Administrativo o al Tribunal Estatal de Conciliación y Arbitraje, integrantes del Tribunal Superior de Justicia, hasta en tanto se expidan las reformas correspondientes en las Leyes que reglamenten dichas materias.
 
-SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+###### ARTICULO VIGESIMO PRIMERO.
 
-D.O.F. 28 DE MAYO DE 1998.
+El desahogo de los asuntos administrativos, laborales, penales, civiles, mercantiles y electorales que se encuentran en trámite continuarán con su desarrollo en términos de los Códigos y Leyes aplicables, en los Tribunales competentes, en donde se encuentren.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO VIGESIMO SEGUNDO.
 
-SEGUNDO.- Las adopciones que se encuentren en trámite a la fecha de publicación de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+Hasta que entren en vigor las Leyes o reformas, que reglamenten las nuevas disposiciones constitucionales, se continuarán aplicando la Ley Orgánica del Poder Judicial, el Reglamento Interior del Poder Judicial, la Ley de Justicia Administrativa, la Ley del Servicio Civil, el Código de Elecciones y Derechos de los Ciudadanos y las Organizaciones Políticas del Estado, y demás ordenamientos legales aplicables, en lo que no se opongan a las presentes reformas.
 
-No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto.
+###### ARTICULO VIGESIMO TERCERO.
 
-Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+Las quejas en contra de Servidores Públicos Judiciales que a la fecha de la entrada en vigor de la presente reforma, se encuentren en trámite, serán resueltas aplicando las disposiciones que se encontraban vigentes en el momento de la presentación de la queja y por el Pleno de Magistrados integrado de acuerdo con las mencionadas disposiciones legales.
 
-D.O.F. 19 DE OCTUBRE DE 1998.
+###### ARTICULO VIGESIMO CUARTO.
 
-UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+Los recursos humanos y materiales de los Tribunales Contencioso Administrativo, Estatal de Elecciones y Estatal de Conciliación y Arbitraje, pasarán al Poder Judicial. La entrega y recepción de dichos recursos se hará con todas las formalidades del caso, levantando las actas correspondientes. Los Tribunales en materia Electoral, Administrativa y Laboral, continuarán funcionando en los inmuebles destinados a dichos órganos jurisdiccionales.
 
-D.O.F. 29 DE MAYO DE 2000.
+###### ARTICULO VIGESIMO QUINTO.
 
-(REPUBLICADO G.O. 30 DE MAYO DE 2000)
+Los derechos laborales de los trabajadores de base de dichos Tribunales, no sufrirán ninguna afectación.
 
-Primero.- El presente Decreto entrará en vigor a los nueve días siguientes de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO VIGESIMO SEXTO.
 
-Segundo.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, se entenderán referidas al Código Civil Federal.
+Los Jueces municipales que se encuentran en ejercicio quedan designa dos provisionalmente Jueces de Paz, y cualquier referencia en las Leyes aplicables a las atribuciones de los primeros se entenderán ahora referidas a los segundos.
 
-Las presentes reformas no implican modificación alguna a las disposiciones legales aplicables en materia civil para el Distrito Federal, por lo que siguen vigentes para el ámbito local de dicha entidad todas y cada una de las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, vigentes a la entrada en vigor del presente Decreto.
+###### ARTICULO VIGESIMO SEPTIMO.
 
-Tercero.- La operación automatizada del Registro Público de Comercio conforme a lo dispuesto en el presente Decreto deberá iniciarse a más tardar el 30 de noviembre del año 2000.
+Los Juzgados de Paz, funcionarán en los locales que ocupan los Juzgados Municipales. El Consejo de la Judicatura, llevará al cabo (sic) los trámites necesarios para que los Juzgados de Paz cuenten con locales propios.
 
-Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará a cada uno de los responsables de las oficinas del Registro Público de Comercio, a partir de la entrada en vigor del presente Decreto y a más tardar el 31 de agosto del año 2000, el programa informático del sistema registral automatizado a que se refiere el presente Decreto, la asistencia y capacitación técnica, así como las estrategias para su instrumentación, de conformidad con los convenios correspondientes.
+###### ARTICULO VIGESIMO OCTAVO.
 
-Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
+Los Jueces de Paz o los Jueces Menores procederán a designar a los Jueces de Comunidad en base a lo dispuesto en esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+###### ARTICULO VIGESIMO NOVENO.
 
-Quinto: La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004."
+Los actuales integrantes del Consejo Tutelar de Menores, a partir de la entrada en vigor de esta reforma, quedan designados como miembros de la Comisión Jurisdiccional de Menores Infractores, que ejercerán únicamente las facultades relativas al procedimiento jurisdiccional que prevé la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores, respecto de las demás prevenciones sobre tratamiento y adaptación social, la autoridad competente continuará aplicando lo que dispone la Ley antes citada.
 
-Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+G.O. 20 DE MARZO DE 1997.
 
-Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
+DECRETO No. 59.
 
-Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-D.O.F. 13 DE JUNIO DE 2003.
+SEGUNDO. A efecto de garantizar el desahogo de los medios de impugnación previstos en la Constitución local y en la federal, los Ayuntamientos del Estado que iniciarán su período constitucional el día 1º de enero de 1998 serán electos el domingo 19 de octubre de 1997, debiendo ajustarse en este sentido el calendario y los términos electorales correspondientes, dentro del marco de la Ley de la materia.
 
-UNICO. El Presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+TERCERO. A partir del año 2000, las elecciones de Diputados y de Ayuntamientos, así como, cuando corresponda, la de Gobernador del Estado, se realizarán en la misma jornada electoral, el primer domingo de septiembre del año electoral respectivo. Para este efecto, se establecen las siguientes bases:
 
-D.O.F. 31 DE DICIEMBRE DE 2004.
+I. Por única vez, y en relación con lo dispuesto por el artículo 51 de esta Constitución, los Diputados que integrarán la LVIII Legislatura del Estado durarán en su encargo dos años y dos meses, debiendo dicha Legislatura comenzar sus funciones el día 1º de octubre de 1998, para concluirlas el día 30 de noviembre del año 2000.
 
-PRIMERO.- La presente Ley entrará en vigor el 1o. de enero del año 2005.
+Los Diputados que integrarán la LVIII Legislatura serán electos el domingo 2 de agosto de 1998, en la misma jornada electoral en que se realizarán elecciones de Gobernador del Estado para el período constitucional comprendido del día 1º de diciembre de 1998 al día 30 de noviembre del año 2004;
 
-SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+II. Por única vez, y en relación con lo dispuesto por el artículo 51 de esta Constitución, los Diputados que integrarán la LIX Legislatura del Estado durarán en su encargo cuatro años, debiendo esta misma Legislatura comenzar sus funciones el día 1º de diciembre del año 2000, para concluirlas el día 30 de noviembre del año 2004. Al efecto, las elecciones se desarrollarán el domingo 3 de septiembre del año 2000;
 
-D.O.F. 13 DE ABRIL DE 2007.
+III. Por única vez, y en relación con lo dispuesto por el artículo 113 de esta Constitución, los Ayuntamientos cuyo período constitucional se inicia el día 1º de enero del año 2001 serán electos el domingo 3 de septiembre del año 2000 y durarán en su encargo cuatro años, concluyendo su período el día 31 de diciembre del año 2004, y
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+IV. El domingo 5 de septiembre del año 2004 se elegirán en la misma jornada electoral Gobernador, Diputados y Ayuntamientos del Estado, que iniciarán sus funciones en las fechas establecidas en la presente Constitución.
 
-D.O.F. 28 DE ENERO DE 2010.
+CUARTO. En relación con lo dispuesto por el artículo 41 reformado de esta Constitución, el financiamiento público a los partidos políticos en los procesos electorales que tendrán lugar para la renovación de los Ayuntamientos del estado, en 1997, y para las elecciones de Gobernador y Diputados, en 1998, se sujetarán a lo siguiente:
 
-Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+I. En el año electoral de 1997, el financiamiento público ordinario y extraordinario a los partidos políticos que tengan derecho a ello se calculará mediante la división entre doce del monto total anual que les corresponda conforme a las disposiciones del artículo mencionado, otorgando mensualmente a cada partido, a partir de abril, la cantidad resultante de dicha operación.
 
-D.O.F. 30 DE AGOSTO DE 2011.
+La misma regla se seguirá para calcular y otorgar el financiamiento público que corresponda a los partidos que hubiesen obtenido su registro con fecha posterior a la última elección de Diputados o los que no hubieren alcanzado en la misma el dos por ciento de la votación total emitida en el estado; y,
 
-PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+II. En el año electoral de 1998, se tomará como base para el cálculo del financiamiento público que corresponda a cada partido político el resultado de las elecciones de Ayuntamientos que se celebrarán en el año de 1997.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+G.O. 29 DE SEPTIEMBRE DE 1997.
 
-TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+Primero. Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, órgano del Gobierno del Estado.
 
-CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
-
-QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
-
-SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
-
-D.O.F. 9 DE ABRIL DE 2012.
-
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
-
-D.O.F. 8 DE ABRIL DE 2013.
-
-Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE DICIEMBRE DE 2013.
-
-DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 86, 87, 133, 292, 395 Y 1612 Y SE DEROGAN LOS ARTÍCULOS 88,157, 295, 394, 1613 Y 1620, DEL CÓDIGO CIVIL FEDERAL.
-
-ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE DICIEMBRE DE 2013.
-
-DECRETO POR EL QUE SE DEROGAN LOS ARTÍCULOS 139, 140, 141, 142, 143, 144 Y 145 DEL CÓDIGO CIVIL FEDERAL.
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 19 DE ENERO DE 2018.
+Segundo. La LVII Legislatura del Estado mantendrá su periodo de sesiones ordinarias entre el 1º de octubre y el 31 de diciembre, prorrogable por treinta días, conforme a la Legislación en vigor al momento de su instalación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
