@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "1998-09-26"
+last_updated: "2001-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -211,7 +211,9 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+VII.- Apoyar la práctica de la medicina tradicional indígena, de acuerdo a sus características específicas en cada Región del Estado.
 
 ###### ARTICULO 7o.
 
@@ -2806,3 +2808,11 @@ SEGUNDO.- Los Servicios de Salud de Oaxaca serán los receptores de los recursos
 TERCERO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo los términos anteriores al presente decreto, se continuarán sustanciando conforme las disposiciones vigentes al momento de su inicio.
 
 CUARTO.- En tanto se expidan las disposiciones administrativas que se deriven del presente decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravenga.
+
+P.O. 15 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado a través de la Secretaría de Asuntos Indígenas y de la Secretaría de Salud, hará la traducción de estas reformas a las lenguas de los pueblos indígenas a que se refiere el párrafo segundo del artículo 2° de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca; hará del conocimiento de la población del Estado el contenido de estas reformas y sus traducciones, difundiéndola en los pueblos y comunidades indígenas, dependencias y Organismos de los Gobiernos Federal, Estatal y Municipal, especialmente en instituciones educativas y, en general en las organizaciones representativas de la sociedad civil oaxaqueña; asimismo expedirá el Reglamento respectivo a más tardar en un plazo de tres meses a partir de la aprobación del presente dictamen.
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan estas reformas.
