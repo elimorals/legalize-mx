@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "1999-05-24"
+last_updated: "2001-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -227,7 +227,7 @@ IV.- Proveer, en la esfera administrativa, el respeto de las garantías individu
 
 V.- Organizar y ejercer en la capital del Estado y, de manera delegada, el mando de las fuerzas de seguridad, así como dirigir, vigilar y conservar el sistema de control de tráfico vehicular en las carreteras y caminos de jurisdicción estatal;
 
-VI.- Regular y vigilar la prestación de los servicios de autotransporte público, así como sus servicios auxiliares y conexos; y acordar, transferir, modificar o cancelar las concesiones y permisos para la prestación de servicios públicos estatales por vías terrestres, aéreas y en terminales;
+VI.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 VII.- Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y el Tribunal Electoral de Estado, así como registrar y mantener al corriente la información sobre los atributos personales, técnicos y académicos de dichos servidores;
 
@@ -843,7 +843,7 @@ Son organismos descentralizados las entidades creadas por ley o decreto del Cong
 
 Son empresas de participación estatal mayoritaria las sociedades de cualquier naturaleza en que se den uno o varios de los siguientes supuestos:
 
-a) Que el Gobierno del Estado o una o más entidades paraestatales, conjunta o separadamente, aporten o sean propietarios de mas del cincuenta por ciento del capital social;
+a) Que el Gobierno del Estado o una o mas entidades paraestatales, conjunta o separadamente, aporten o sean propietarios de más del cincuenta por ciento del capital social;
 
 b) Que en la constitución de su capital se hagan figurar títulos representativos de capital social de serie especial, que sólo puedan ser suscritos por el Gobierno del Estado; o
 
@@ -920,3 +920,11 @@ Cuarto.- Cuando por virtud de la presente reforma se dé una denominación nueva
 Quinto.- Por lo que hace a las facultades correspondientes al desarrollo urbano, vivienda y asentamientos humanos suprimidos a la Secretaría de Obras Públicas en el presente decreto, estarán provisionalmente a cargo del Instituto de Vivienda y Desarrollo Urbano del Estado de Hidalgo, hasta en tanto se emita el decreto que determine la ubicación correspondiente.
 
 Sexto.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan la fracción VI del Artículo 24 de la Ley Orgánica de la Administración Pública del Estado y el Artículo 17 del Reglamento Interior de la Secretaría de Gobierno.
