@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-consejo-tutelar-para-menores-del-estado-de-714
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-09-17"
-last_updated: "1981-04-27"
+last_updated: "2004-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONSEJO TUTELAR PARA MENORES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 17 de septiembre de 1980.
 
@@ -127,9 +127,11 @@ III.- Poseer amplios conocimientos e indiscutible interés en el problema de los
 
 IV.- Tener título en cualquiera de las especialidades que se señalen en el Artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 17.
 
-El Consejo tendrá un Presidente, quien durará cuatro meses en su cargo y será substituido rotativamente por los demás Consejeros; tendrá además un Secretario de Acuerdos y los empleados que le señale la Ley de Ingresos y Presupuesto de Egresos del Estado.
+El Consejo tendrá un Presidente, quien durará dos años en su cargo y será substituido rotativamente por los demás Consejeros, tendrá además un Secretario de Acuerdos y los servidores públicos que le señale la Ley de Ingresos y Presupuesto de Egresos del Estado.
 
 Las faltas del Presidente que no excedan de tres meses serán suplidas por el Consejero de más antigüedad y las de los Consejeros por sus respectivos suplentes.
 
@@ -503,9 +505,11 @@ La colocación del menor en hogar substituto, sólo se llevará a cabo cuando el
 
 Se procurará siempre, con solicitud y diligencia, que cuando un menor sea colocado en el seno de una familia, ésta ofrezca seguridades bastantes en el sentido de que el menor, al ser incorporado a la misma, no correrá riesgos en su salud física y moral, ni será víctima de explotación abusiva.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 57.
 
-Las medidas tendrán duración indeterminada, pero el Consejo practicará una revisión de oficio cada dos meses o antes si existen circunstancias que lo exijan, a efecto de modificarlas o hacerlas cesar, tomando siempre en cuenta los resultados obtenidos mediante el tratamiento y escuchando la opinión del Director o Sub-Director del Centro de Internamiento o Tratamiento correspondiente, del Procurador de Menores y de los Jefes de las Secciones Técnicas, que constituirán para este efecto un cuerpo consultivo interdisciplinario.
+Las medidas tendrán duración indeterminada, excepto la de internamiento, la cual no podrá ser inferior a un mes ni superior a seis años. El Consejo practicará una revisión de oficio cada dos meses o antes, si existen circunstancias que lo exijan con el fin de modificar o hacer cesar la medida impuesta, tomando siempre en cuenta los resultados obtenidos mediante el tratamiento y escuchando la opinión del Director del Centro de Observación y Readaptación correspondiente, del Procurador de Menores y de los Jefes de Secciones Técnicas que constituirán, para este efecto, un cuerpo consultivo interdisciplinario.
 
 ###### ARTICULO 58.
 
@@ -712,3 +716,13 @@ P.O. 27 DE ABRIL DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE FEBRERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El primer Presidente se elegirá por votación, quien será substituido por aquél de los otros dos que elijan los mismos Consejeros; el tercer Presidente lo será el Consejero restante, siguiéndose en lo sucesivo el mismo orden de selección.
