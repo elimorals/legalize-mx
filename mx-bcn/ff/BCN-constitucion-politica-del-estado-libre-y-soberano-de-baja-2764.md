@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2001-04-13"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -995,19 +995,21 @@ La remuneración de los Magistrados del Poder Judicial a excepción de los Magis
 
 El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en su cargo, pudiendo ser reelecto.
 
-Los Magistrados del Tribunal Superior de Justicia, serán electos por el Congreso del Estado por mayoría calificada de entre quienes integran la lista que le presente el Presidente del Tribunal Superior de Justicia del Estado de Baja California, que deberá incluir a todos los aspirantes que hayan resultado aprobados en el examen que practique el Consejo de la Judicatura conforme al reglamento respectivo.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
 
-Los Magistrados del Tribunal Superior de Justicia, durarán en su cargo seis años a partir de su nombramiento, pudiendo ser ratificados por otro periodo de seis años.
+Los Magistrados del Tribunal Superior de Justicia del Estado, durarán en su cargo seis años y en ningún caso podrán ser ratificados.
 
-Seis meses antes de que concluya el período para el que fue nombrado un Magistrado, el Congreso del Estado, previa opinión del Consejo de la Judicatura del Estado, podrá ratificarlo. Al efecto resolverá en definitiva, oyendo al Magistrado en su defensa, fundando y motivando su resolución, la que se dictará en un término no mayor de treinta días.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
 
-Si el Congreso del Estado resuelve la no ratificación, el Magistrado cesará en sus funciones a la conclusión del período para el que fue designado, y se procederá a realizar un nuevo nombramiento en los términos de este Artículo.
+Seis meses antes de que concluya el período de los Magistrados del Tribunal Superior de Justicia, el Congreso del Estado, por el voto de las dos terceras partes de sus integrantes, procederá a realizar los nuevos nombramientos entre los aspirantes que integren la lista que le presente el Presidente del Tribunal Superior de Justicia del Estado de Baja California, la cual deberá contener únicamente a los profesionistas que hayan resultado aprobados en el examen que practique el Consejo de la Judicatura conforme al reglamento respectivo.
 
-De no existir oposición del Congreso del Estado, expresada en los términos antes señalados, el Magistrado se considerará, al cumplirse los seis años en el cargo, automáticamente ratificado.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
 
-El Tribunal de Justicia Electoral se integrará con tres Magistrados Numerarios y hasta dos Supernumerarios, que desempeñarán su encargo por tres años, pudiendo ser ratificados, eligiéndose de entre ellos al Presidente, en sesión de Pleno.
+El Tribunal de Justicia Electoral se integrará con tres magistrados Numerarios y hasta dos Supernumerarios, que desempeñarán su cargo por tres años, eligiéndose de entre ellos al Presidente, en sesión de Pleno. Los Magistrados de Justicia Electoral en ningún caso podrán ser ratificados.
 
-Los Magistrados Electorales serán electos por el voto de las dos terceras partes de los integrantes el (sic) Congreso del Estado, previa convocatoria que éste emita; en la forma que determine su Ley Orgánica.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
+
+Los Magistrados Electorales serán nombrados por el voto de las dos terceras partes de los integrantes del Congreso del Estado, previa convocatoria que éste emita, en la forma que determine su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -2408,3 +2410,11 @@ Las presentes reformas iniciarán su vigencia una vez que se realicen las adecua
 ###### ARTICULO QUINTO.
 
 El Gobierno del Estado deberá realizar las acciones necesarias, a efecto de transferir en ejercicio de plenitud, la prestación de los servicios y funciones de naturaleza municipal, que esta Constitución atribuye a favor de los ayuntamientos, dentro del término de un año, contado a partir de la entrada en vigor de las presentes reformas.
+
+P.O. 22 DE JUNIO DEL 2001.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2001, el nombramiento de los Magistrados que iniciarán su cargo a partir del primero de noviembre del 2001.
