@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-128
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-22"
-last_updated: "1989-06-19"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE JUNIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Diario Oficial el día Martes 22 de Marzo de 1988.
 
@@ -255,9 +255,11 @@ El Gobernador del Estado, por conducto de la Tesorería General del Estado, esta
 
 La Tesorería General del Estado, será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno del Estado, en los casos de las fracciones de la I a la IV del artículo 2 de esta Ley, y a ella le corresponderá conservar la documentación respectiva, y, en su caso, ejercitar los derechos que le correspondan al Gobierno del Estado, a cuyo efecto se les habrá de remitir con toda oportunidad las informaciones y los documentos necesarios.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO, D.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 29.
 
-El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago.
+El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago, salvo el caso de garantizar con sus participaciones, obligaciones contraídas en los términos y con los requisitos previstos en el Artículo 9 de la Ley de Coordinación Fiscal, así como en el Reglamento del artículo invocado.
 
 ###### ARTICULO 30.
 
@@ -281,19 +283,17 @@ Para la ejecución del gasto público estatal, las entidades deberán sujetarse 
 
 ### CAPITULO IV. DE LA CONTABILIDAD
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 33.
 
-Cada Entidad llevará su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+Cada Entidad llevará su propia contabilidad, la cual dará como resultado los Estados Financieros, comprendiéndose bajo este rubro: a) Situación financiera; b) Resultados; c) Origen y aplicación de recursos; ch) Movimientos del patrimonio; d) Ingresos y egresos; e) Comparativo presupuesto y ejercicio real, así como anexos, notas y relaciones de los mismos, que reflejen razonablemente sus operaciones y patrimonio para lograr objetividad, control y evidencia suficiente de la Entidad.
 
-Los catálogos de cuentas que utilizarán las entidades, serán autorizados expresamente por la Tesorería General del Estado.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 34.
 
-La contabilidad de las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y programas con objetivos, metas y unidades encargadas de su ejecución.
-
-Los sistemas de contabilidad deberán diseñarse en forma que facilite la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas, de manera que permitan medir la eficacia del gasto público.
+Los sistemas de contabilidad deberán diseñarse en forma que faciliten la formulación, ejercicio y evaluación de los presupuestos y programas con objetivos. Asimismo deberán diseñarse con un control interno eficaz que permita la fiscalización de las operaciones y avances en la ejecución del presupuesto y programas que conlleven a evaluar la eficacia del gasto público.
 
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 1989)</small>
 
@@ -348,3 +348,11 @@ D.O. 19 DE JUNIO DE 1989.
 PRIMERO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 SEGUNDO.- El presente Decreto entrara en vigor el da siguiente al de su publicación en el Diario Oficial del Gobierno Del Estado.
+
+D.O. 31 DE DICIEMBRE DE 1992.
+
+DECRETO NUMERO 531 QUE ADICIONA EL ARTICULO 29 Y REFORMA LOS ARTICULOS 33 Y 34.
+
+PRIMERO.- Los actos y contratos celebrados por el Gobierno del Estado con anterioridad a la vigencia del presente Decreto serán válidos en los términos pactados en los mismos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
