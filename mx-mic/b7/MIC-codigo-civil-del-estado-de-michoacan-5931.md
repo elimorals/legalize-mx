@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1956-01-16"
+last_updated: "1964-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1964.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -5313,6 +5313,8 @@ El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera qu
 
 ## TITULO OCTAVO. De la expropiación por causa de utilidad pública
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)</small>
+
 ### CAPITULO VI. De la manera de contar el tiempo para la prescripción
 
 ###### Artículo 1052.
@@ -5479,7 +5481,7 @@ Respecto de las obligaciones con pensión o renta, el tiempo de la prescripción
 
 Prescribe en cinco años la obligación de dar cuentas. En igual término se prescriben las obligaciones liquidas que resulten de la rendición de cuentas. En el primer caso la prescripción comienza a correr desde el día en que el obligado termina su administración; en el segundo caso, desde el día en que la liquidación es aprobada por los interesados o por sentencia que cause ejecutoria.
 
-### CAPITULO III. De los casos de utilidad pública
+### CAPITULO III. De los casos de utilidad publica
 
 ###### Artículo 1082.
 
@@ -5567,247 +5569,215 @@ El día en que comienza la prescripción se cuenta siempre entero, aunque no lo 
 
 Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)</small>
+
 ## TITULO PRIMERO. Disposiciones preliminares
 
 ### CAPITULO VI. De la ejecución de la sentencia
 
 ###### Artículo 1098.
 
-La expropiación por causa de utilidad pública a que se refiere el artículo 27 de la Constitución General de la República se regirá en el Estado de Michoacán por lo que se dispone en este Titulo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1099.
 
-La autoridad competente para conocer, fundar y declarar la utilidad pública, así como para decretar la expropiación, es el Ejecutivo del Estado, quien lo hará a petición de los interesados. Cuando se trate de expropiación a favor del Gobierno del Estado, la solicitud deberá hacerse al Ayuntamiento en cuya jurisdicción esté ubicado el bien y ante esta autoridad deberá seguirse todo el procedimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1100.
 
-La expropiación por causa de utilidad pública puede decretarse en favor de la Federación, del Estado, de los Municipios o de las personas físicas y morales que constituyan sujetos en los que se refleje o concrete el interés colectivo, según los términos de este Título.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1101.
 
-Ninguna expropiación podrá decretarse cuando los bienes sobre los que deba recaer estén ya destinados a alguna otra obra de utilidad pública.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1102.
 
-Los bienes cuya expropiación por causa de utilidad pública se haya decretado, no podrán destinarse a objeto diverso del que motivó la expropiación. La infracción a ésta disposición será causa suficiente para que el propietario de los bienes expropiados pida la devolución de ellos, reintegrando las cantidades que se le hayan entregado por concepto de indemnización y quedando a su favor las mejoras hechas a dichos bienes. También podrá pedirse le devolución del bien expropiado en los términos anteriores si pasado un año desde la fecha de la expropiación no se ha iniciado la obra de utilidad pública que motivó la expropiación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)</small>
 
 ### CAPITULO I. De los testamentos en general
 
 ###### Artículo 1103.
 
-Son susceptibles de expropiación, por causa de utilidad pública, los bienes de propiedad privada y los que puedan reducirse a ella, ya sean:
-
-I. Inmuebles;
-
-II. Muebles;
-
-III. Patentes o derechos;
-
-III. (sic) Negociaciones industriales o agrícolas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1104.
 
-La expropiación de tierras para la creación, fomento y protección de la pequeña propiedad, para el sostenimiento y desarrollo de los poblados, así como la expropiación de aguas, se regirá por las disposiciones de la Ley número 45, número 110 y demás especiales; pero en los casos que aquéllas no prevean, se aplicará lo dispuesto en este Título.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)</small>
 
 ### CAPITULO II. De la capacidad para testar
 
 ###### Artículo 1105.
 
-Hay utilidad pública, en las expropiaciones que se pidan de bienes para destinarlos a:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
-I. Fundos legales de los poblados y de los nuevos centros de población; ampliación de los mismos cuando el aumento de población lo demande;
-
-II. Colonias para obreros, campesinos, profesores de Educación Pública o empleados;
-
-III. Oficinas de los Ayuntamientos, hospitales, cementerios, rastros, mercados, jardines, calles o paseos, edificios públicos, edificios escolares y campos para actividades agro-pecuarias de Instituciones Educativas; bibliotecas públicas, teatros de propiedad pública, centros y campos deportivos, para el pueblo. Museos públicos, gabinetes de ciencias dependientes de una Institución Pública;
-
-IV. Caminos, ampliación de los mismos; ferrocarriles, tranvías, telégrafos, teléfonos, estaciones telefónicas, telegráficas, radio-telegráficas, tranviarias o ferrocarrileras, campos para aterrizar o construcción de hangares y, en general obras de servicio público;
-
-V. Obras de irrigación para aprovechamiento de aguas del Estado o de particulares; captación o distribución de aguas potables para los centros de población, canales, saneamientos de terrenos, rectificación de ríos, drenajes urbanos, granjas;
-
-VI. Fomento de la agricultura urbana y rural;
-
-VII. Plantas de generación y distribución de energía eléctrica;
-
-VIII. Cualquiera otra obra de evidente utilidad pública o colectiva, a juicio de la autoridad administrativa.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)</small>
 
 ### CAPITULO III. De la capacidad para heredar
 
 ###### Artículo 1106.
 
-El que, conforme a este Código, sea sujeto en cuyo favor pueda decretarse la expropiación por causa de utilidad pública, presentará ante el Ejecutivo del Estado una solicitud en que se diga:
-
-I. Nombre, domicilio, nacionalidad y demás generales del solicitante;
-
-II. Nombre y domicilio de la persona o personas que sean propietarias del bien o bienes cuya expropiación se pide o tengan algún derecho sobre él;
-
-III. Descripción precisa del bien o bienes cuya expropiación se solicite, especificando extensión, linderos, ubicación; si fueren varios los propietarios se especificará la porción que a cada uno corresponda y demás datos que faciliten su determinación. Cuando se trate de inmuebles se acompañará un plano o croquis, los cuales se formularán, gratuitamente, por el Departamento respectivo de la Comisión Local Agraria, a los ejidatarios, obreros, etc.;
-
-IV. Plan de la obra de utilidad pública a la cual deba destinarse el bien en cuestión;
-
-V. Datos que comprueben la posibilidad en que los solicitantes estén de llevar a cabo la obra proyectada;
-
-VI. Nombre del representante común de los solicitantes cuando fueren varios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1107.
 
-Recibida la solicitud, el Ejecutivo del Estado, o el Ayuntamiento en su caso, dentro de veinticuatro horas mandará emplazar al propietario o al poseedor actual del bien cuya expropiación se pida, quienes podrán concurrir por sí o por representante, para que dentro del término de cinco días siguientes a la fecha de la notificación, se presenten a exponer lo que a sus derechos convenga. A la notificación se acompañará un extracto de la solicitud.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1108.
 
-La notificación a que se refiere el artículo anterior se hará personalmente por la autoridad que designe el Ejecutivo, o el Ayuntamiento en su caso. Cuando se ignore el lugar donde radica el propietario, el poseedor o su representante, esta notificación se hará mediante tres publicaciones durante un mes en el Periódico Oficial. En la misma forma se procederá cuando se ignore quien sea el propietario del bien o bienes en cuestión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1109.
 
-Cuando el bien, cuya expropiación se pida, sea de los que deben estar registrados en el Registro Público de la Propiedad Raíz, se pasará aviso de la solicitud para los efectos legales a que haya lugar.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1110.
 
-Si fueren dos o más los propietarios del bien o bienes cuya expropiación se solicite, se emplazará a todos, pero en la secuela del procedimiento podrán nombrar un representante común que con amplio poder ejercite los derechos de los emplazados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1111.
 
-Hecha la notificación como lo disponen los artículos anteriores, ya sea que el demandado no se presente o que presentándose deje de ejercitar sus derechos, se proseguirá el asunto en rebeldía, teniéndose por ciertos y con pleno valor los hechos o actos verificados conforme a este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1112.
 
-Si el o los que hayan pedido una expropiación por causa de utilidad pública no se presentaren a proseguir la acción por el término de tres meses se entenderá que han desistido de su petición y se mandará archivar el expediente, a menos que una causa justificada y no imputable a los actores haya determinado la causa.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1113.
 
-En el término a que se refiere el artículo 1107 las partes podrán presentar toda clase de pruebas, alegatos y cuanto a sus derechos convenga, para, dilucidar, la causa de utilidad pública que haya de fundar la expropiación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1114.
 
-Pasado el término a que se refiere el artículo anterior, ya sea que los interesados se hayan presentado o no, el Ejecutivo o el Ayuntamiento en su caso, señalará tres días, para que dentro de ellos se puntualice el precio que deberá servir de base para la indemnización en caso de decretarse la expropiación por causa de utilidad pública.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1115.
 
-El precio que debe servir de base para la indemnización del bien expropiado, será el valor fiscal conque el mismo figure en las oficinas catastrales o recaudadoras, al tiempo de iniciarse la gestión de expropiación, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito, por haber cubierto, las contribuciones sobre dicha base, aumentándolo con un diez por ciento. Para esto hará prueba el certificado catastral respectivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1116.
 
-Tratándose de la expropiación parcial o de una fracción de algún bien, el precio se fijará mediante avalúo pericial basándose en los datos de que habla el artículo anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1117.
 
-Unicamente quedará sujeto a resolución judicial, mediante juicio pericial, el precio total de bienes cuyo valor no esté fijado en las oficinas rentísticas, ya sean predios rústicos o urbanos, u otra clase de bienes como muebles, patentes, derechos reales o personales, negociaciones agrícolas o industriales, etc.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1118.
 
-Para el efecto del artículo anterior, pasado el término que señala el artículo 1114 el Ejecutivo o el Ayuntamiento en su caso mandará notificar a las partes para que, en el término de cinco días, deduzcan sus derechos ante la autoridad judicial competente, la que deberá sustanciar el procedimiento en la forma señalada para los incidentes. En este caso no se admitirán más, pruebas que las relacionadas con el avalúo; la resolución versará exclusivamente sobre el bien o bienes de que se trate y los términos de pruebas y alegatos serán de tres a ocho días.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1119.
 
-En el caso del artículo 1116 y dentro del término del artículo 1114 se mandará notificar a las partes para que dentro de las veinticuatro horas siguientes, cada una nombre un perito y, si es posible, de común acuerdo nombren tercer perito en discordia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1120.
 
-Transcurridas las veinticuatro horas después de la notificación a que se refiere el artículo anterior sin que las partes o una de ellas, hiciere uso del derecho que le concede sobre la designación de peritos, el Ejecutivo o el Ayuntamiento en su caso, los designará en rebeldía.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1121.
 
-Los peritos aludidos en los artículos anteriores, deberán rendir su dictamen dentro del plazo que al efecto se les señale, en atención a la distancia en que se encuentre el bien y a las vías de comunicación de que disponga, pero en ningún caso podrá ser menor de cinco ni mayor de quince días, y empezará a contarse desde la fecha en que los peritos acepten su designación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1122.
 
-Si alguno de los peritos o los dos en su caso habiendo aceptado su designación, no rindieren dentro del término señalado su dictamen, se le impondrá administrativamente una multa hasta de $50.00 a menos que una causa justificadísima y no imputable a él, haya motivado la falta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1123.
 
-Si uno solo de los peritos no rindiere su dictamen, el peritaje del que lo rinde surtirá los efectos legales; si ninguno de los dos peritos dictaminaran oportunamente, el Ejecutivo hará una nueva designación para que desde luego se cubra la falta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1124.
 
-Si los dos peritos estuvieren conformes, se tendrá como precio de la cosa valuada el que fijen los dictámenes; si no estuvieren conformes pero la diferencia fuere de un cinco por ciento, el precio se fijará tomando el promedio de los dos dictámenes; si la diferencia fuere mayor, se practicará un nuevo avalúo por el tercer perito en discordia y el precio definitivo se fijará tomando el promedio de las tres tasaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1125.
 
-Hecho el avalúo, o fijado el precio conforme a las disposiciones anteriores en su caso, el Ejecutivo mandará poner el expediente a disposición de las partes por el término improrrogable de cinco días para ambas, con el objeto de que formulen los alegatos convenientes a sus derechos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1126.
 
-Pasado el término de que habla el artículo anterior, dentro del plazo de cinco días, el Ejecutivo hará la declaración definitiva que proceda, y si conforme a este Código es de decretarse la expropiación por causa de utilidad pública, así lo declarará fijando, además, el monto de la indemnización y especificando los plazos en que habrá de pagarse.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1127.
 
-De la declaración definitiva se compulsará un tanto para quien haya obtenido la expropiación o parte actora a fin de que sirva de título de dominio o posesión, otro para el Registro Público de la Propiedad Raíz, otro para el Catastro del Estado, otro para el Archivo, otro para la parte demandada si fuere uno o si los diferentes propietarios hubiesen designado representante común, o uno para cada demandado en el caso de ser varios y de que no hubieren nombrado representante.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1128.
 
-Las notificaciones a que se refieren los artículos 1114, 1118, 1119 y 1125 se harán por oficio y en los tableros del Palacio del Gobierno.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)</small>
 
 ### CAPITULO IV. De las condiciones que pueden ponerse en los testamentos
 
 ###### Artículo 1129.
 
-El pago de la indemnización deberá hacerse por quien haya obtenido la expropiación, en la moneda de curso legal al tiempo de verificarse.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1130.
 
-El pago se hará inmediatamente al entrar en posesión del bien expropiado, excepto en los casos siguientes:
-
-I. En cinco exhibiciones anuales iguales, debiendo verificarse la primera exhibición al entrar en posesión del bien de que se trate, cuando la expropiación se decrete:
-
-a) En el caso de la fracción III del artículo 1105;
-
-b) En el caso de las fracciones IV y V del mismo artículo y sólo cuando las obras a que ellas se refieren deban ser ejecutadas por una persona de derecho público o administrativo.
-
-II. En diez exhibiciones iguales, debiendo verificarse la primera al entrar en posesión del bien de que se trate, en los casos de las fracciones I, II, VI y VII del artículo 1105.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1131.
 
-El expropiante y el expropiado, en beneficio de sus intereses, podrán celebrar sobre la forma y plazos del pago, convenios que sancionará el Ejecutivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1132.
 
-Sobre las cantidades insolutas se causará un interés que no excederá del cinco por ciento anual, pagadero por anualidades vencidas en la misma especie de moneda que la suerte principal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1133.
 
-El bien expropiado quedará en garantía hipotecaria o prendaria en favor de aquél a quien se haya expropiado hasta que quede cubierto íntegramente el valor, de la indemnización, desde cuya fecha pasarán en favor de quien obtuvo la expropiación, todos los atributos del derecho de propiedad sobre el mismo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1134.
 
-Entre tanto no se cubra el precio de la indemnización de un bien expropiado no podrá celebrarse ninguna operación de censo, hipoteca o gravamen sobre el mismo, bajo pena de nulidad absoluta en caso de violación de este precepto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1135.
 
-Cualquier censo, hipoteca o gravamen que con anterioridad a la declaratoria de expropiación por causa de utilidad pública se hubiere impuesto sobre el bien expropiado, correrá la suerte de pago establecida en los artículos 1129 y siguientes de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1136.
 
-El Ejecutivo del Estado, cuando alguna persona de derecho público o administrativo haya obtenido en su favor la expropiación, podrá señalar el ramo o ramos de impuestos o contribuciones que queden como garantía del pago de la indemnización.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1137.
 
-En caso de que el propietario del bien expropiado no acepte recibir el pago de la indemnización conforme lo dispuesto en los artículos anteriores, se hará la consignación en su favor depositándose las cantidades correspondientes en la Institución de Crédito de mayor garantía.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)</small>
 
 ### CAPITULO V. De los bienes de que se puede disponer por testamento y de los testamentos inoficiosos
 
 ###### Artículo 1138.
 
-La declaratoria de expropiación dada conforme a lo dispuesto en este Código, surtirá todos los efectos legales desde la fecha de su notificación o de su publicación en el Periódico Oficial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1139.
 
-La declaratoria de expropiación será cumplimentada por el Ejecutivo del Estado, valiéndose del conducto de las secciones de Expropiación y Fraccionamiento y Técnica pertenecientes a la Comisión Agraria Mixta, de la Tesorería General del Estado, de las Oficinas Rentísticas con asistencia del Agente del Ministerio Público de la jurisdicción donde esté el bien.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1140.
 
-Para los efectos del artículo anterior, el Ejecutivo mandará se dé posesión del bien expropiado a quien lo haya obtenido, y hasta entre tanto no se cumplan las disposiciones de pago de conformidad con el artículo 1133, no se hará la propiación definitiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1141.
 
-Cuando deje de cumplirse la obligación de pago de la indemnización decretada, sin haber causa justificada, caso fortuito o causa mayor comprobada ante el Ejecutivo, él mismo hará que se cumpla la obligación, dictando las medidas enérgicas y urgentes que el caso requiera. De igual manera se procederá en cualquiera otro caso en que se retarde el cumplimiento de las obligaciones, hasta la expropiación definitiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1142.
 
-Cuando sean varios los que hubieren obtenido la expropiación, la posesión se hará al representante común o al Comité encargado de realizar la obra mediante la aplicación de los bienes para no retardar su provecho ni defraudar el interés colectivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 1143.
 
-Podrán exigirse responsabilidades al representante o a los miembros del Comité, si contravienen lo dispuesto en la parte final del artículo anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 # LIBRO TERCERO. De las sucesiones
 
@@ -11149,7 +11119,7 @@ Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se ve
 
 ###### Artículo 2262.
 
-Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá, pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EXPROPIACION DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 2 DE ABRIL DE 1964)
 
 ###### Artículo 2263.
 
@@ -14446,3 +14416,21 @@ b).- Si en el término de 6 meses, contado también a partir de la publicación 
 c).- Si la autorización para explotar se otorga a un tercero.
 
 TERCERO.- Estas reformas entrarán en vigor diez días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 1964.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones del Título Octavo, Capítulo I, II, III, IV, V y VI y artículos 2262 y demás relativos del Código Civil del Estado y las de cualquiera otra Ley que modifiquen o contradigan las de la presente.
+
+###### ARTICULO TERCERO.
+
+Al entrar en vigor esta Ley, las solicitudes de expropiación formuladas por particulares que se encuentren admitidas y en trámite, es decir, no concluídas, se mandarán archivar en acatamiento a lo dispuesto en el artículo 28 de esta propia Ley.
+
+###### ARTICULO CUARTO.
+
+En todo expediente de expropiación en que haya dejado de actuarse por un término que exceda de noventa días naturales a partir del último proveído tendiente a continuar el procedimiento, se entenderá que al interesado o interesados han desistido de su petición y se mandará archivar el expediente, aun cuando se insista en su tramitación con posterioridad al transcurso de ese lapso.
