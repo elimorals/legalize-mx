@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-universidad-autonoma-del-estado-de-baja-3885
 country: "mx"
 rank: "ley_organica"
 publication_date: "1957-02-28"
-last_updated: "1966-04-20"
+last_updated: "1983-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1983.
 
 Ley Orgánica publicada en el Alcance al Periódico Oficial de Baja California, el 28 de febrero de 1957.
 
@@ -271,21 +271,25 @@ VI.- Elaborar y expedir su propio reglamento.
 
 Para la validez de los acuerdos a que se refieren las fracciones I y V de este artículo, se requerirá cuando menos el voto aprobatorio de siete de los miembros de esta junta.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+
 ###### Artículo 23.
 
 El Consejo Universitario estará formado por:
 
 I.- Rector.
 
-II.- Directores de Facultades, Escuelas e Institutos.
+II.- Secretario General que será también Secretario del Consejo.
 
-III.- Representantes profesores y representantes alumnos de cada una de las Facultades, Escuelas e Institutos en la forma que determine el Estatuto.
+III.- Vicerectores.
 
-IV.- Por un Profesor representante de los Departamentos; y
+IV.- Directores de Facultades, Escuelas e Institutos.
 
-V.- Representantes de los empleados de la Universidad.
+V.- Representantes profesores y representantes alumnos de cada una de las Facultades, Escuelas e Institutos en la forma que determine el Estatuto.
 
-El Secretario General de la Universidad lo será también del Consejo.
+VI.- Por un profesor representante de los Departamentos; y
+
+VII.- Representantes de los empleados de la Universidad.
 
 ###### Artículo 24.
 
@@ -349,11 +353,13 @@ Los Directores de las Facultades, Escuelas e Institutos serán nombrados por la 
 
 Los Directores deberán ser mexicanos por nacimiento y llenarán los requisitos que fije el Estatuto para que las designaciones recaigan en las personas competentes y merecedoras de ejercer tales cargos.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1983)</small>
+
 ###### Artículo 29.
 
-En las Facultades, Escuelas e Institutos se constituirán Consejos Técnicos integrados por un representante profesor y dos representantes de todos los alumnos. Las designaciones, de conformidad con lo que al respecto disponga el Estatuto, se harán cada tres años. Los Institutos serán representados por un Consejo Técnico que recibe el nombre de Consejo Técnico de Investigación.
+En cada Facultad o Escuela funcionará un Consejo Técnico, integrado por el Director, quien lo presidirá; y por un número igual de Consejeros, Profesores y Alumnos que se designarán en la forma y con los requisitos que determine el Estatuto General.
 
-Los Consejos Técnicos y el Consejo de Investigación serán órganos de consulta en los casos que señale el Estatuto.
+En los Institutos funcionará un Consejo Técnico de Investigación, integrado con los investigadores de acuerdo con el Estatuto General, y serán presididos por el Director.
 
 > <small>(F. DE E., P.O. 28 DE FEBRERO DE 1957)</small>
 
@@ -572,3 +578,17 @@ Esta Reforma entrará en vigor el día siguiente al de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Por esta sola vez, dos de los miembros del Patronato Universitario durarán en su cargo solamente tres años, elegidos por medio de insaculación que efectúen los miembros del Patronato en su primera reunión.
+
+P.O. 30 DE JUNIO DE 1983.
+
+DECRETO No. 185
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 1983.
+
+DECRETO No. 186
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
