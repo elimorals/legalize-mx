@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-3841"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-10"
-last_updated: "2000-11-03"
+last_updated: "2003-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 10 de febrero de 1979.
 
@@ -203,6 +203,10 @@ VII.- Asignar a los Sub-Directores, las funciones que les correspondan, y delega
 
 VIII.- Designar al Sub-Director que lo substituya en sus ausencias temporales.
 
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2003)</small>
+
+IX.- Celebrar convenios de pago a plazos para regularizar los adeudos de los usuarios del servicio de uso doméstico; instituciones públicas de educación, deportivas, hospitalarias y de salud, así como las de asistencia social. Lo anterior conforme a las bases y lineamientos que al efecto establezcan las disposiciones aplicables.
+
 ###### ARTICULO 18.
 
 El cargo de miembro de los Consejos de Administración, será honorario.
@@ -310,3 +314,7 @@ P.O. 3 DE NOVIEMBRE DE 2000.
 ###### ARTICULO UNICO.
 
 La presente Reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE MAYO DE 2003.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de Baja California.
