@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2001-12-21"
+last_updated: "2004-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1479,9 +1479,11 @@ El Tribunal es un órgano autónomo e independiente de cualquier autoridad y dot
 
 El Tribunal tiene por objeto dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública del Estado, municipios y organismos auxiliares con funciones de autoridad y los particulares.
 
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 203.
 
-El Tribunal se compondrá de una sala superior y de cinco salas regionales. El pleno de la sala superior podrá determinar la creación de más salas regionales, cuando el servicio lo requiera.
+El Tribunal se integrará por una Sala Superior, y las Salas Regionales que se requieran para el cumplimiento de su objetivo.
 
 ###### Artículo 204.
 
@@ -1495,7 +1497,9 @@ I. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civile
 
 II. Tener más de 35 años el día de su designación como magistrado de sala superior y de 30 años para magistrado de sala regional;
 
-III. Estar en ejercicio de su capacidad física o mental para el desempeño del cargo;
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+III. No padecer enfermedad física o mental, que lo inhabilite para el desempeño del encargo;
 
 IV. Ser licenciado en derecho con título profesional, con cinco años de antigüedad, al día de su designación;
 
@@ -1505,7 +1509,9 @@ VI. Ser de notoria buena conducta y honorabilidad manifiesta;
 
 VII. No ser ministro de algún culto religioso, a menos que se separe formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de su designación; y
 
-VIII. No haber sido condenado en sentencia ejecutoria por delito intencional.
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+VIII. No haber sido condenado en sentencia ejecutoria, por delito intencional, ni estar inhabilitado para ejercer un cargo público.
 
 ###### Artículo 206.
 
@@ -1515,17 +1521,21 @@ El nombramiento de los magistrados se hará con apego al procedimiento constituc
 
 Los magistrados durarán en su encargo 10 años y serán sustituidos cada 5 años en una mitad. Sólo podrán ser privados de su cargo por la Legislatura del Estado, en los casos y de acuerdo con el procedimiento que marca la Constitución Política del Estado Libre y Soberano de México y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 208.
 
-Las faltas temporales de los magistrados de la sala superior serán cubiertas por los magistrados de las salas regionales que aquélla designe; las definitivas se comunicarán al Gobernador del Estado para que proceda al nombramiento de los magistrados para que las cubran, por el tiempo que falte para concluir el período. Las faltas temporales de los magistrados de las salas regionales se suplirán por los magistrados que señale la sala superior o, en su caso, por el secretario de acuerdos de la propia sala regional; las definitivas se cubrirán con nueva designación, por el período faltante.
+Las faltas temporales de los magistrados de la Sala Superior serán cubiertas por los magistrados de las Salas Regionales o supernumerarios que aquélla designe; las definitivas se comunicarán al Gobernador del Estado por el Presidente del Tribunal, para que proceda al nombramiento de los magistrados que las cubrirán, por el tiempo que falte para concluir el período. Las faltas temporales de los magistrados de las Salas Regionales se suplirán por los magistrados que señale la Sala Superior o, en su caso, por el secretario de acuerdos de la propia Sala Regional; las definitivas se cubrirán con nueva designación, por el período faltante.
 
 ###### Artículo 209.
 
 Las licencias a los magistrados serán concedidas por la Sala Superior hasta por 15 días. Las que excedan del plazo anterior, pero no de 60 días, sólo podrá concederlas el Gobernador del Estado, con la aprobación de la Legislatura o la Diputación Permanente, en los términos previstos por la Constitución Política del Estado Libre y Soberano de México.
 
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 210.
 
-El Tribunal tendrá un presidente, quien durará en su encargo dos años, pudiendo ser reelecto por otro período igual.
+El Tribunal tendrá un Presidente, quien durará en su encargo tres años, pudiendo ser reelecto por otro período igual.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
@@ -1559,19 +1569,23 @@ Los servidores públicos del Tribunal tendrán cada año dos períodos vacaciona
 
 #### SECCION SEGUNDA. De la Sala Superior
 
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 216.
 
-La sala superior se compondrá de siete magistrados específicamente nombrados para integrarla, de entre los cuales se elegirá al presidente del Tribunal.
+La Sala Superior se integrará con los magistrados nombrados para conformarla, de entre los cuales será electo el presidente del Tribunal.
 
-La sala superior actuará en pleno y en dos secciones, que tendrán su sede, respectivamente, en Toluca y en Tlalnepantla. Las secciones tendrán la jurisdicción que señale el reglamento interior del Tribunal.
+La Sala Superior actuará en pleno y en tres secciones, que tendrán su sede, en los municipios de Toluca, Tlalnepantla y Ecatepec, cuya jurisdicción será establecida en el Reglamento Interior del Tribunal.
 
-El pleno se compondrá de los magistrados de la sala superior y del presidente del Tribunal, bastando la presencia de cinco de sus integrantes para que pueda sesionar.
+El pleno estará integrado por los magistrados de las secciones de Sala Superior y el Presidente del Tribunal; para sesionar será necesaria la presencia del Presidente del Tribunal y cuando menos seis Magistrados.
+
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 217.
 
-Las resoluciones del pleno se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
+Las resoluciones del pleno se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate el Presidente del Tribunal tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 218.
 
@@ -1589,7 +1603,7 @@ V. Conceder licencias a los magistrados del Tribunal, hasta por 15 días;
 
 VI. Designar a quienes suplan las ausencias temporales de los magistrados del Tribunal;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 VII. Nombrar al Secretario General del Pleno, a los Secretarios Generales de Acuerdos y Jefes de Unidad del Tribunal;
 
@@ -1597,7 +1611,9 @@ VIII. Formular anualmente el presupuesto de egresos del Tribunal;
 
 IX. Expedir y reformar el reglamento interior del Tribunal, así como las demás disposiciones necesarias para su buen funcionamiento;
 
-X. Conocer el resultado de las visitas reglamentarias practicadas a las secciones de la sala superior y salas regionales;
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+X. Conocer el resultado de las visitas reglamentarias practicadas a las secciones de la Sala Superior, Salas Regionales y Magistraturas Supernumerarias;
 
 XI. Presentar ante las autoridades administrativas competentes propuestas de reformas de la legislación administrativa y fiscal del Estado y municipios; y
 
@@ -1647,7 +1663,9 @@ VI. Tramitar los asuntos de la competencia de la sección, hasta ponerlos en est
 
 VII. Firmar, conjuntamente con el secretario general de acuerdos, los engroses de las resoluciones de la sección;
 
-VIII. Formular los informes en los juicios de amparo que se promuevan en contra de las resoluciones de la sección;
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+VIII. Rendir a nombre de la Sección los informes en los juicios de amparo que se promuevan en contra de las resoluciones de la Sección; así como interponer los recursos correspondientes ante los Tribunales Federales y designar delegados;
 
 IX. Imponer correcciones disciplinarias al personal de la sección, que no impliquen sanciones administrativas;
 
@@ -1689,7 +1707,9 @@ IX. Imponer las sanciones administrativas que procedan a los integrantes del per
 
 X. Administrar el presupuesto del Tribunal;
 
-XI. Autorizar, en unión del secretario general de acuerdos, las actas en que se hagan constar las deliberaciones y acuerdos del pleno de la sala superior;
+> <small>(REFORMADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+XI. Autorizar, en unión del secretario general del pleno, las actas en que se hagan constar las deliberaciones y acuerdos del pleno de la Sala Superior;
 
 XII. Rendir al Tribunal, en el último mes de cada año, un informe de las actividades;
 
@@ -1723,7 +1743,11 @@ VI. Imponer correcciones disciplinarias al personal de la sala, que no impliquen
 
 VII. Informar, semanalmente, al presidente del Tribunal, el estado de las labores de la sala; y
 
-VIII. Las demás que se señalen en este Código.
+> <small>(ADICIONADA, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+VIII. Rendir los informes en los juicios de amparo que se promuevan en contra de las resoluciones de la Sala; así como interponer los recursos correspondientes ante los Tribunales Federales y designar delegados; y
+
+IX. Las demás que se señalen en este Código.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
@@ -1734,6 +1758,8 @@ La competencia de las salas regionales por razón de territorio se determina por
 ### CAPITULO TERCERO. Del Juicio Contencioso Administrativo
 
 #### SECCION SEGUNDA. De la Demanda
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 229.
 
@@ -1801,7 +1827,9 @@ Las partes podrán autorizar para oír notificaciones en su nombre a cualquier p
 
 Las diligencias que deban practicarse fuera del recinto de las salas del Tribunal, se encomendarán a los secretarios de acuerdos o actuarios de la propia sala.
 
-Las diligencias que deban realizarse fuera del territorio del Estado, se encomendarán por medio de exhorto al Tribunal de lo Contencioso Administrativo o Tribunal Judicial de la entidad federativa correspondiente. El Tribunal, a solicitud de parte, podrá entregar el exhorto al particular interesado, quien bajo su más estricta responsabilidad lo hará llegar al Tribunal exhortado para su diligenciamiento; pudiéndose devolver el documento diligenciado por conducto del mismo particular. Los exhortos que reciba el Tribunal se diligenciarán dentro de los tres días siguientes a su recepción.
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+Las diligencias que deban realizarse fuera del territorio del Estado, se encomendarán por medio de exhorto al Tribunal de lo Contencioso Administrativo o Tribunal Judicial de la entidad federativa correspondiente. El Tribunal, a solicitud de parte, podrá entregar el exhorto al particular interesado, quien bajo su más estricta responsabilidad lo hará llegar al Tribunal exhortado para su diligenciamiento; pudiéndose devolver el documento diligenciado por conducto del mismo particular. Los exhortos que reciba el Tribunal se diligenciarán dentro de los tres días siguientes a su recepción, por conducto de la Sala Regional con jurisdicción en el lugar en donde deba practicarse la diligencia solicitada por la autoridad exhortante.
 
 ###### Artículo 236.
 
@@ -1815,7 +1843,7 @@ Las resoluciones del Tribunal tendrán el carácter de acuerdos, sentencias inte
 
 ###### Artículo 238.
 
-La demanda deberá formularse por escrito y presentarse directamente ante la sala regional correspondiente al domicilio de la autoridad demandada, dentro de los 15 días siguientes al en que surta efectos la notificación del acto que se impugna o al en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
+La demanda deberá formularse por escrito y presentarse directamente ante la Sala Regional correspondiente al domicilio de la parte actora, dentro de los 15 días al en que surta efectos la notificación del acto que se impugna o al en que haya tenido conocimiento del mismo, con las excepciones siguientes:
 
 I. Tratándose de la resolución negativa ficta, así como de omisiones para dar respuesta a peticiones de los particulares, la demanda podrá presentarse en cualquier tiempo, mientras no se notifique la resolución expresa;
 
@@ -1929,9 +1957,11 @@ III. El pliego de posiciones y el cuestionario para los peritos o su correspondi
 
 Se dictará acuerdo sobre la contestación de demanda a más tardar al día siguiente de su presentación. En el mismo acuerdo se tendrán por admitidas o desechadas las pruebas ofrecidas y se emitirán, en su caso, las providencias necesarias para su desahogo.
 
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 251.
 
-El tercero interesado podrá apersonarse a juicio a más tardar en la audiencia, formulando alegatos y aportando las pruebas que considere pertinentes.
+El tercero interesado podrá apersonarse a juicio a más tardar en la audiencia de Ley, formulando alegatos de manera verbal o por escrito y aportando las pruebas que considere pertinentes.
 
 ###### Artículo 252.
 
@@ -1942,6 +1972,8 @@ Si la parte demandada no contesta dentro del término legal respectivo, el Tribu
 En los juicios en que no exista tercero interesado, las autoridades u organismos demandados podrán allanarse a la demanda, en cuyo caso se dictará de inmediato la resolución favorable a la parte actora.
 
 #### SECCION QUINTA. De las Cuestiones Previas
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 254.
 
@@ -1991,7 +2023,7 @@ Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el i
 
 ###### Artículo 261.
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto en esta ley, serán nulas. En este caso la parte perjudicada podrá pedir que se declare la nulidad dentro de los tres días siguientes a aquél a que conoció el hecho, ofreciendo pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
+Las notificaciones que no fueren hechas conforme a lo dispuesto en este Código, serán nulas. En este caso la parte perjudicada podrá pedir que se declare la nulidad dentro de los tres días siguientes a aquél a que conoció el hecho, ofreciendo pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
 
 Si se admite la promoción de nulidad, el magistrado resolverá en un plazo de tres días. En el caso de que se declarara la nulidad, la sala ordenará reponer el procedimiento a partir de la notificación anulada.
 
@@ -2145,7 +2177,7 @@ Si dentro de los tres días siguientes a la notificación a los demandados, la s
 
 La sala regional resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado; de lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa hasta por la cantidad equivalente de 50 a 1,000 días de salario mínimo vigente en la jurisdicción correspondiente. Cuando la naturaleza del acto lo permita, el magistrado comisionará al secretario de acuerdos o actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
 
-(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001) (F.DE E., P.O. 28 DE ENERO DE 2002)
+(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2001) (F. DE E., G.G. 28 DE ENERO DE 2002)
 
 En los casos en que por la naturaleza del asunto no sea materialmente posible dar cumplimiento a la sentencia o iniciar su cumplimiento dentro del plazo establecido en el primer párrafo de este artículo, el magistrado podrá ampliarlo hasta por diez días, contados a partir del día siguiente al en que se notifique a los demandados el requerimiento correspondiente.
 
@@ -2217,6 +2249,14 @@ IV. Sólo se tomarán en consideración las pruebas que se hubiesen aportado en 
 
 V. Se suplirá la deficiencia de los agravios del particular demandante, cuando el caso lo requiera, pero sin cambiar los hechos planteados.
 
+### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Justicia Administrativa
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO PRIMERO. Del Consejo de la Justicia Administrativa
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 289.
 
 Las sentencias de las secciones de la sala superior constituirán jurisprudencia que será obligatoria para ellas y las salas regionales del Tribunal, siempre que lo resuelto se sustente en tres ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por mayoría de votos. El texto de cada jurisprudencia será aprobado por el pleno de la sala superior, a propuesta del presidente del Tribunal.
@@ -2240,6 +2280,90 @@ Las jurisprudencias que sustente la sala superior, se publicarán en la «Gaceta
 ###### Artículo 293.
 
 Cuando las partes invoquen la jurisprudencia del Tribunal, lo harán por escrito, expresando el número, el texto y las tesis que la integran.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+## TITULO CUARTO. De los Organismos Administrativos del Tribunal
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO TERCERO. Del Instituto de Formación Profesional
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 294.
+
+El Consejo de la Justicia Administrativa del Tribunal, es un órgano que tiene por objeto la administración de su patrimonio, así como la vigilancia, supervisión y control disciplinario del personal jurídico y administrativo.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 295.
+
+Para el cumplimiento de su objeto, el Consejo de la Justicia Administrativa se integrará por el presidente del Tribunal, un magistrado de Sala Superior y un magistrado de Sala Regional, los magistrados serán designados por el pleno de la Sala Superior; durarán en este encargo cinco años, al término del cual serán sustituidos de manera escalonada.
+
+El Secretario General del Pleno lo será también del Consejo.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 296.
+
+Las funciones y atribuciones de los integrantes del Consejo de la Justicia Administrativa, se establecerán en el Reglamento Interior del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 297.
+
+El Fondo Auxiliar para la Justicia Administrativa tendrá por objeto obtener recursos económicos, para apoyar al personal del Tribunal en su formación profesional, mejorar las instalaciones en las que se imparte justicia administrativa y desarrollar todas aquellas actividades tendentes a obtener recursos destinados a elevar la calidad de la prestación del servicio de la justicia administrativa.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 298.
+
+El Fondo auxiliar para la Justicia Administrativa, se integrará con:
+
+A. Fondo propio, constituido por:
+
+I. El importe de las multas, fianzas, contrafianzas y garantías que se hagan efectivas por mandato de las Secciones de la Sala Superior o Salas Regionales del Tribunal;
+
+II. Las donaciones o aportaciones que se hagan a favor del Fondo;
+
+III. Las cantidades que se le asignen por disposición del Presupuesto de Egresos o por acuerdo del Gobernador del Estado;
+
+IV. Los remanentes del Presupuesto de Egresos asignado a este Tribunal que resulten al término del ejercicio fiscal anual;
+
+V. Los intereses provenientes de inversiones y depósitos que, de recursos propios o ajenos, realice el Fondo;
+
+VI. El importe de los derechos que conforme al Código Financiero del Estado de México y Municipios, se causen por expedición de copias simples o certificadas y demás servicios que proporcione el Tribunal; y
+
+VII. Los demás bienes que el Fondo adquiera.
+
+B. Fondo ajeno, constituido por:
+
+I. Depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante el Tribunal.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 299.
+
+Las sumas o valores que se reciban en el reglón (sic) de fondo ajeno, serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito de la Sección o Sala Regional, ante la que se haya otorgado el depósito, en el término máximo de cinco días hábiles.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 300.
+
+El Consejo de la Justicia Administrativa, atenderá la administración y manejo del Fondo, mediante un coordinador administrativo que en todo tiempo informará al Consejo y cumplirá las instrucciones del Presidente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 301.
+
+El Instituto de Formación Profesional, es un órgano que tiene por objeto la aplicación del Plan General en el que se contemplen los programas específicos de ingreso al Tribunal, la inducción al puesto, la capacitación y la profesionalización del personal jurídico y administrativo y todo aquello que le señale el Reglamento Interior del Tribunal.
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 302.
+
+El Instituto de Formación Profesional estará a cargo de un Director General, quien será designado por el pleno de la Sala Superior a propuesta del Presidente del Tribunal.
 
 T R A N S I T O R I O S
 
@@ -2286,3 +2410,13 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Los procedimientos y procesos administrativos que se encuentren en trámite al entrar en vigor este decreto, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+G.G. 25 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Una vez determinada en el Reglamento Interior del Tribunal la jurisdicción territorial e instalada la Tercera Sección de la Sala Superior en Ecatepec, México, ésta conocerá de los recursos de revisión que se le presenten; en tanto, la Segunda Sección de la Sala Superior, con sede en Tlalnepantla de Baz, México, continuará conociendo del trámite de los asuntos.
+
+CUARTO.- Se dejan sin efectos las disposiciones de igual o menor jerarquía que se opongan a los preceptos contenidos en el presente Decreto.
