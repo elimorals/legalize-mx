@@ -4,7 +4,7 @@ identifier: "BCS-ley-apicola-del-estado-de-baja-california-sur-2710"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-07"
-last_updated: "1991-06-07"
+last_updated: "2004-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY APICOLA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO APICOLA PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 10 DE AGOSTO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el 7 de junio de 1991.
 
@@ -306,3 +308,27 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS A. RONDERO SAVIN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE AGOSTO DE 2004.
+
+###### ARTÍCULO PRIMERO
+
+- La presente Ley entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+- Se abroga la Ley Apícola del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado, mediante Decreto número 813 en fecha 06 de Junio de 1991.
+
+###### ARTÍCULO TERCERO.
+
+Los trámites administrativos que se hayan iniciado de conformidad con la Ley Apícola del Estado que se abroga, se desahogarán de acuerdo a sus disposiciones.
+
+###### ARTÍCULO CUARTO.
+
+Los apicultores en lo individual así como sus organizaciones, contarán con noventa días a partir de la vigencia de esta Ley, para cumplir con sus disposiciones.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal dentro del término de 120 días de entrar en vigor la presente Ley, deberá integrar la Comisión Estatal Reguladora de los Productos y Subproductos apícolas.
