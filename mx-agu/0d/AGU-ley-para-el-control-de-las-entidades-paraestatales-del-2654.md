@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "1992-12-13"
+last_updated: "2002-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2002.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -69,9 +69,11 @@ a).- Aquellos en los que el fideicomitente sea el Gobierno Estatal, algunas de s
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 4o.
 
-Las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten así como los que les requiera la Contraloría General del Gobierno del Estado.
+Las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten, así como los que les requiera la Contraloría General del Gobierno del Estado y la Contaduría Mayor de Hacienda del Congreso del estado, respecto de las cuentas públicas que les sean presentadas.
 
 ###### ARTICULO 5o.
 
@@ -293,9 +295,11 @@ III.- Los efectos que causen sus actividades en el ámbito sectorial, así como 
 
 IV.- Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 31.
 
-Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación, al Plan Estatal de Desarrollo, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas. Dentro de tales directrices las entidades formularán sus programas institucionales a corto, mediano y largo plazo.
+Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación, al Plan Estatal de Desarrollo, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas en la Ley de Ingresos y en el Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal de que se trate. Dentro de tales directrices las entidades formularán sus programas institucionales a corto, mediano y largo plazo.
 
 ###### ARTICULO 32.
 
@@ -305,11 +309,11 @@ El programa institucional constituye la asunción de compromisos en términos de
 
 Los presupuestos de las entidades se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 34.
 
-En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca la Secretaría de Finanzas. En el caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca el Presupuesto de Egresos del Gobierno del Estado. En caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
@@ -319,17 +323,17 @@ La entidad paraestatal manejará y erogará sus recursos propios por medio de su
 
 Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas, en los términos que se fijen en los presupuestos de egresos anuales, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 36.
 
-Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Finanzas y deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que se establezca en la Ley de Ingresos del Gobierno del Estado en la que deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios de suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 37.
 
-El Director de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo con la salvedad a que se refiere la fracción II del Artículo 41 de esta Ley; una vez aprobado remitirá a la Secretaría de Finanzas la parte correspondiente a la suscripción de créditos externos para su autorización y registro en los términos de la Ley correspondiente.
+El Director de la entidad paraestatal someterá el programa financiero a la Secretaría de Finanzas del Estado para que sea incluido en el proyecto de Ley de Ingresos del Gobierno del Estado.
 
 ###### ARTICULO 38.
 
@@ -351,7 +355,9 @@ I.- Establecer en congruencia con los programas sectoriales, las políticas gene
 
 II.- Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable.
 
-En lo tocante a los presupuestos y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos, bastará con la aprobación del Organo de Gobierno respectivo,
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+
+En lo tocante a los presupuestos y a los programas financieros, remitirlos a la Secretaría de Finanzas del Estado, para que sean incluidos en el Proyecto de Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado.
 
 III.- Fijar y ajustar los precios de bienes y servicios que produzca o preste la entidad paraestatal con excepción de los de aquéllos que se determinen por acuerdo del Ejecutivo,
 
@@ -359,7 +365,9 @@ IV.- Aprobar la concertación de los préstamos para el financiamiento de la ent
 
 V.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma,
 
-VI.- Aprobar anualmente previo informe de los comisarios y dictamen de los auditores externos, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos,
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2002)</small>
+
+VI.- Aprobar previo informe de los comisarios, los estados financieros de la entidad paraestatal y remitirlos al Congreso del Estado mediante la presentación de la Cuenta Pública,
 
 VII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles. El Director General de la entidad y en su caso, los servidores públicos que deban intervenir de conformidad a las normas orgánicas de la misma, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por el Organo de Gobierno,
 
@@ -417,11 +425,13 @@ XIV.- Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás
 
 ### CAPITULO VII. Del Control y Evaluación
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 43.
 
 El Organo de Vigilancia de las entidades paraestatales estará integrado por un Comisario Público Propietario y un Suplente, designados por la Contraloría General del Estado.
 
-Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Organo de Gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
+Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General les asigne específicamente conforme la ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos, y la Contaduría Mayor de Hacienda del Congreso del Estado, esta última será sólo respecto de las cuentas públicas que le sean presentadas.
 
 ###### ARTICULO 44.
 
@@ -449,9 +459,11 @@ Las empresas de participación estatal mayoritaria, sin perjuicio de lo establec
 
 Los fideicomisos públicos a que se refiere esta Ley, se ajustarán en lo que sea compatible con lo dispuesto por ella.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+
 ###### ARTICULO 47.
 
-La Contraloría General del Gobierno del Estado, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
+La Contraloría General del Gobierno del Estado, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, todo lo anterior sin detrimento de las facultades legales que correspondan a la Contaduría Mayor de Hacienda del Congreso del Estado.
 
 ###### ARTICULO 48.
 
@@ -542,5 +554,9 @@ P.O. 26 DE MARZO DE 1989.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 22 DE ABRIL DE 2002.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
