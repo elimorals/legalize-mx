@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "1984-11-30"
+last_updated: "1986-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1986.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -59,13 +59,19 @@ III.- La pavimentación, empedrado, banquetas, guarniciones y drenaje pluvial, d
 
 IV.- Las Instalaciones necesarias para dotar a los centros de población de alumbrado público o para mejorar el ya existente; y
 
-V.- Cualquier otro tipo de obras y servicios tendientes a la integración y mejoramiento de las poblaciones de la Entidad.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1986)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+V.- Previo Convenio con la Comisión Federal de Electricidad, las de electrificación necesarias para dotar a los Centros de Población de fluido eléctrico o para mejorar las ya existentes;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1986)</small>
+
+VI.- Cualquier otro tipo de obras y servicios tendientes a la integración y mejoramiento de las poblaciones de la Entidad.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1986)</small>
 
 ###### ARTICULO 4o.
 
-Una vez concluídas las obras de urbanización que realicen los Consejos de Urbanización Municipales, y la Junta de Urbanización del Estado, se entregarán a los Ayuntamientos a cuyo cargo estará su mantenimiento, el que se considerará como un servicio Municipal, con excepción de las Obras de drenaje de Aguas Negras, Pluvial, así como las líneas y redes para Agua Potable, que serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, de acuerdo a lo que establece la Fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 81 de la Constitución Política local.
+Una vez concluídas las obras de urbanización que realicen los Consejos de Urbanización Municipales y la Junta de Urbanización del Estado, se entregarán a los Ayuntamientos a cuyo cargo estará su mantenimiento, el que se considerará como un servicio municipal, con excepción de las obras de drenaje de aguas negras, pluvial, así como las líneas y redes para agua potable, que serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, las de electrificación que se entregarán a la Comisión Federal de Electricidad, para su mantenimiento, las que se considerarán como Servicios Federales de acuerdo a lo que establece la Fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 81 de la Constitución Política Local.
 
 ###### ARTICULO 5o.
 
@@ -120,6 +126,10 @@ V.- Ocho años en pavimento de concreto asfáltico;
 VI.- Diez años en banquetas y guarniciones de concreto; y
 
 VII.- Diez años en alumbrado público.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1986)</small>
+
+VIII.- Veinte años en electrificación.
 
 ###### ARTICULO 11.
 
@@ -631,11 +641,15 @@ En los predios con los frentes a dos vías públicas opuestas, se harán dos hom
 
 En las manzanas que por pertenecer a un mismo propietario constituyen un mismo predio, la homogeneización se realizará dividiéndolas en cuatro fracciones mediante el trazo de una línea media entre los frentes opuestos.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1986)</small>
+
 #### SECCION CUARTA. BASES PARA EL PAGO Y RECAUDACION DEL IMPUESTO DE PLUSVALIA
 
 ###### ARTICULO 72.
 
-A fin de lograr la máxima equidad y proporcionalidad en la derrama del Impuesto en los casos de los Artículos 66 al 71, los predios en esquina sufrirán incremento en la superficie homogénea que sirva de base al cálculo del Impuesto, en un treinta por ciento, en un veinte por ciento, o en un diez por ciento, según que la esquina sea considerada como comercial de primer orden, comercial de segundo orden, o no comercial.
+A fin de lograr la máxima equidad y proporcionalidad en la derrama del Impuesto en los casos de los Artículos 66 al 71, los predios en esquina sufrirán incremento en la superficie homogénea que sirva de base al cálculo del Impuesto, en un treinta por ciento, en un veinte por ciento o en un diez por ciento, según, que la esquina sea considerada como comercial de primer orden, comercial de segundo orden, o no comercial.
+
+Cuando se trate de obras de electrificación normadas por la Fracción V del Artículo 3o. de esta Ley, el Impuesto se calculará en base al número de lotes beneficiados, sin tomar en consideración las construcciones que puedan existir sobre ellos, o cualquier otra circunstancia.
 
 ###### ARTICULO 73.
 
@@ -928,3 +942,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 30 DE NOVIEMBRE DE 1984.
 
 UNICO.- Las presentes reformas entrarán en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE OCTUBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
