@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1974-12-23"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -266,9 +266,7 @@ A los extranjeros sólo se les podrá autorizar la portación de armas cuando, a
 
 ###### ARTICULO 28.
 
-Las licencias particulares se expedirán previo el pago de los derechos de portación correspondientes, los cuales se establecerán en proporción a las características de las armas.
-
-Los ejidatarios, comuneros y jornaleros del campo están exentos de este pago.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -775,3 +773,13 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos;.
