@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2001-11-19"
+last_updated: "2003-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -143,13 +143,19 @@ II.- La Directora General.
 
 #### SECCION I. De la Junta de Gobierno
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 9º.
 
 La Junta de Gobierno es el órgano de administración de mayor jerarquía del Instituto y se integrará con quince miembros propietarios que serán los siguientes:
 
-I.- El titular del Poder Ejecutivo, quien será el Presidente del mismo o en su caso a quien él nombre como su representante;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
 
-II.- El o la titular de las siguientes dependencias de la Administración Pública Estatal:
+I.- El titular del Poder Ejecutivo, quien será el Presidente del mismo o en su caso a quien él nombre como su representante, sin que dicha representación pueda coincidir con ningún otro de los miembros de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
+
+II.- Una representante de las siguientes dependencias de la Administración Pública Estatal:
 
 a).- Secretaría General de Gobierno;
 
@@ -169,19 +175,27 @@ h).- Secretaría de Planeación;
 
 i).- Procuraduría General de Justicia del Estado de Aguascalientes;
 
-III.- La Directora General del Instituto; y
+III.- (DEROGADA, P.O. 10 DE FEBRERO DE 2003)
 
 IV.- Cuatro mujeres ciudadanas mexicanas en pleno ejercicio de sus derechos, que provengan de organizaciones sindicales, campesinas, no gubernamentales, empresariales, asociaciones o sociedades civiles o mercantiles, o bien, profesoras e investigadoras, representativas en la docencia, investigación, de instituciones públicas, profesionistas, empleadas y en general, mujeres representativas de los diferentes sectores de la sociedad que hayan realizado trabajos a favor de las mujeres y que garanticen la pluralidad de ideas.
 
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2003)</small>
+
+V.- Un integrante de la Comisión de Equidad entre Hombres y Mujeres del H. Congreso del Estado, el cual será designado por la propia Comisión y aprobado por el Pleno;
+
 Salvo el titular del Poder Ejecutivo, los demás integrantes actuarán como vocales.
 
-Por cada miembro propietario se deberá nombrar un suplente, cuyo nivel jerárquico no sea mayor a dos niveles inferiores que el del titular, quien lo sustituirá en sus faltas temporales en términos del Reglamento respectivo y gozará de los mismos derechos y obligaciones que los titulares.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2003)</small>
+
+Por cada miembro propietario se deberá nombrar una suplente, quien lo sustituirá en sus faltas temporales en términos del Reglamento respectivo y gozará de los mismos derechos y obligaciones que los titulares.
 
 Los integrantes de la Junta de Gobierno no gozarán de alguna compensación económica o gratificación en especie por parte del Instituto por su desempeño dentro de la misma.
 
-La Junta de Gobierno, con la aprobación de la mayoría de sus asistentes, podrá invitar a representantes de otras dependencias e instituciones públicas federales, estatales o municipales, así como a organizaciones privadas y sociales, no comprendidas en este artículo, con el fin de tratar temas específicos que requieren de conocimientos más precisos. Estos invitados podrán participar con voz pero sin voto.
+La Junta de Gobierno, con la aprobación de la mayoría de sus asistentes, podrá invitar a representantes de otras dependencias e instituciones públicas federales, estatales o municipales, así como organizaciones privadas y sociales, no comprendidas en este artículo, con el fin de tratar temas específicos que requieren de conocimientos más precisos. Estos invitados podrán participar con voz pero sin voto.
 
-En la primera reunión de la Junta de Gobierno se establecerán los lineamientos para designar a las mujeres vocales propietarias señaladas en la fracción V de este artículo, para lo cual se deberá garantizar la pluralidad de ideas; asimismo, se definirá la duración de su encargo y los casos en que podrán ser reelectas.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2003)</small>
+
+Las mujeres vocales propietarias señaladas en la fracción IV de este artículo se elegirán por mayoría calificada de los miembros del H. Congreso del Estado, previa convocatoria publicada por parte de la Comisión de Equidad entre Hombres y Mujeres del Congreso del Estado, con aquellas propuestas presentadas por sus integrantes y por organismos sociales, científicos, culturales, empresariales y académicos. Por cada propietaria se nombrará su respectiva suplente. Durarán en su encargo tres años, y en su caso, podrán ser reelectas para un período más.
 
 ###### ARTICULO 10.
 
@@ -193,7 +207,9 @@ Podrá convocarse a sesión extraordinaria por acuerdo de su Presidente o a peti
 
 La Junta de Gobierno tendrá las siguientes facultades indelegables:
 
-I.- Integrar por mayoría simple de la totalidad de sus integrantes, una terna que someterá a la consideración del Gobernador del Estado, a efecto de que designe a la Directora General del Instituto;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
+
+I.- Designar a la Directora General del Instituto;
 
 II.- Establecer, en congruencia con el Plan Estatal de Desarrollo y los programas sectoriales, las políticas generales, los planes estratégicos de mediano y largo plazo, los planes operativos anuales, los lineamientos y prioridades a las que deberá sujetarse el Instituto;
 
@@ -205,7 +221,7 @@ V.- Establecer, con sujeción a las disposiciones legales, las normas necesarias
 
 VI.- Autorizar la creación de comités de apoyo y grupos de trabajo temporales;
 
-VII.- Nombrar a las vocales propietarias a que se refiere el Artículo 9º, fracción IV de esta Ley;
+VII.- (DEROGADA, P.O. 10 DE FEBRERO DE 2003)
 
 VIII.- Designar y remover, a propuesta de la Directora General, a las y los servidores públicos de los dos niveles inferiores al de aquélla;
 
@@ -221,9 +237,11 @@ XIII.- Las demás que le señale ésta y otros ordenamientos legales.
 
 #### SECCION II. De la Directora General
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 12.
 
-La Directora General del Instituto, será nombrada por el titular del Poder Ejecutivo de una terna que le presente la Junta de Gobierno, durará en su encargo tres años y podrá ser reelecta por una sola vez.
+La Directora General del Instituto será nombrada por mayoría calificada del Pleno de la Junta de Gobierno; durará en su encargo tres años y podrá ser reelecta por una sola vez.
 
 ###### ARTICULO 13.
 
@@ -243,7 +261,9 @@ La Directora General del Instituto tendrá las siguientes atribuciones:
 
 I.- Administrar y representar legalmente al Instituto;
 
-II.- Formar parte de la Junta de Gobierno con derecho a voz y voto. No podrá votar, pero sí emitir su opinión, en los asuntos a que se refieren las fracciones I, III, IV, V, VIII y X del Artículo 11 de la presente Ley, así como en los casos previstos en las fracciones II, III, IV, VI, VII, XI, XII, XIII, XIV, XV, XVI y XVII del Artículo 41 de la Ley del Control de Entidades Paraestatales del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
+
+II.- Acudir a las sesiones de la Junta de Gobierno con derecho a voz pero sin voto en términos del artículo 12 fracción I de la Ley del Control de Entidades Paraestatales;
 
 III.- Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes bastará la comunicación oficial que se expida al mandatario por la Directora General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Entidades Paraestatales;
 
@@ -259,7 +279,9 @@ VIII.- Administrar, dirigir y coordinar las actividades del Instituto, así como
 
 IX.- Establecer los sistemas de control necesarios para alcanzar los objetivos y metas propuestos por el Instituto.
 
-Para tal efecto, presentará a la Junta de Gobierno los criterios de evaluación para medir la eficacia y eficiencia del funcionamiento del Instituto, debiendo presentar, por lo menos, semestralmente la evaluación de gestión que requiera la Junta;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2003)</small>
+
+Para tal efecto, presentará a la Junta de Gobierno los criterios de evaluación para medir la eficiencia del funcionamiento del Instituto, debiendo presentar, por lo menos, semestralmente la evaluación de gestión que requiera la Junta;
 
 X.- Recopilar, estudiar y sintetizar los estudios que tengan por objeto las (sic) materia de esta Ley, con el fin de mejorar su desempeño;
 
@@ -285,7 +307,11 @@ XX.- Proporcionar la información solicitada por los órganos de la Contraloría
 
 XXI.- Suscribir los contratos que regulen las relaciones laborales de la entidad con sus trabajadores; y
 
-XXII.- Las demás establecidas en esta Ley y en otras disposiciones jurídicas.
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2003)</small>
+
+XXII.- Presentar un informe anual de las actividades del Instituto al Congreso del Estado; y
+
+XXIII.- Las demás establecidas en esta Ley y en otras disposiciones jurídicas.
 
 ###### ARTICULO 15.
 
@@ -609,7 +635,9 @@ No podrá ser Comisario:
 
 I.- Los servidores públicos que presten sus servicios en el Instituto; y
 
-II.- Los parientes consanguíneos de la Directora General en línea recta sin limitaciones de grado, los colaterales dentro del cuarto y los afines dentro del segundo.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
+
+II.- Los parientes consanguíneos de la Directora General y demás servidores públicos que presten sus servicios en el Instituto, en línea recta sin limitaciones de grado, los colaterales dentro del cuarto y los afines dentro del segundo.
 
 ###### ARTICULO 37.
 
@@ -640,6 +668,22 @@ El personal del Instituto se regirá por las disposiciones del Estatuto de los T
 ###### ARTICULO 39.
 
 El personal del Instituto estará incorporado en los términos de la Ley de Seguridad y Servicios Sociales para los Trabajadores Públicos del Estado de Aguascalientes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2003)</small>
+
+### CAPITULO DECIMO. De las Responsabilidades
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 40.
+
+Los servidores públicos que presten sus servicios en el Instituto responderán administrativamente por el incumplimiento a las obligaciones contenidas en esta Ley, teniéndose a lo establecido por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 41.
+
+Las responsabilidades administrativas que se generen y a que se refiere el artículo anterior serán independientes de las demás responsabilidades legales que resulten procedentes.
 
 TRANSITORIOS:
 
@@ -700,3 +744,13 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las vocales miembros de la Junta de Gobierno en funciones, continuarán en el ejercicio de su cargo hasta concluir el período para el que fueron designadas.
+
+TERCERO.- El integrante de la Comisión de Equidad entre Hombres y Mujeres del H. Congreso del Estado, que debe formar parte de la Junta de Gobierno, se incorporará en la sesión inmediata siguiente a que sea citada la Junta de Gobierno, a partir de la entrada en vigencia del presente Decreto.
