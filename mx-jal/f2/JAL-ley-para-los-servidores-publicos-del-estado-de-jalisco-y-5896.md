@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2001-01-20"
+last_updated: "2001-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -103,7 +103,9 @@ j) Supervisión, cuando se trate de actividades específicamente que requieren r
 
 Además de los anteriores, tendrán tal carácter los siguientes:
 
-I. En el Poder Legislativo, el Secretario Particular, Oficial Mayor, Directores, Subdirectores, Jefes, Contador Mayor de Hacienda, Coordinadores, Supervisores y Auditores.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+I. En el Poder Legislativo, el Secretario Particular, Oficial Mayor, directores, subdirectores, jefes, Contador Mayor de Hacienda, coordinadores, supervisores y auditores, así como el personal que se encuentra al servicio directo de los diputados cuando sean designados por ellos mismos;
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -119,7 +121,9 @@ b) Secretarios de Gobierno, Subsecretarios, Contralor General, Procurador, Tesor
 
 c) Todos los elementos operativos de los servicios policiacos y de vialidad y tránsito, así como los de la Policía Investigadora del Estado, exceptuando los que desempeñen funciones administrativas, que no considere la presente Ley con la clasificación de confianza; y
 
-III. En los Ayuntamientos de la Entidad y sus organismos descentralizados; el Secretario General del Ayuntamiento y/o Síndico, Oficiales Mayores, Tesorero, Subtesorero, Directores, Subdirectores, Contralores, Delegados, Jefes y Subjefes de Departamento, Jefes y Subjefes de Oficina, Jefes de Sección, Oficiales del Registro Civil, Auditores, Subauditores Generales, Contadores y Subcontadores en general, Cajeros Generales, Cajeros Pagadores e Inspectores.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+III. En los ayuntamientos de la entidad y sus organismos descentralizados; el funcionario encargado de la Secretaría General del Ayuntamiento, oficiales mayores, el funcionario encargado de la Hacienda Municipal o Tesorero, Subtesorero, directores, subdirectores, contralores, delegados, jefes y subjefes de departamento, jefes y subjefes de oficina, jefes de sección, oficiales del Registro Civil, auditores, subauditores generales, contadores y subcontadores en general, cajeros generales, cajeros pagadores, los inspectores, así como el personal que se encuentra al servicio directo del Presidente Municipal, los Regidores y del Síndico cuando sean designados por ellos mismos;
 
 IV. En el Poder Judicial:
 
@@ -185,7 +189,9 @@ Los elementos de las instituciones policiales del Estado y municipios, podrán s
 
 Para los efectos de esta ley, se entenderán como Titulares:
 
-I. En el Poder Legislativo, el Congreso del Estado, representado por la Comisión de Tesorería;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+I. En el Poder Legislativo, el Congreso del Estado, representado por la Comisión de Administración;
 
 II. En el Poder Ejecutivo, el Gobernador del Estado y, en sus dependencias, los servidores públicos de mayor jerarquía, conforme lo disponga la Ley Orgánica de este Poder;
 
@@ -657,7 +663,7 @@ XVI. Comunicar por escrito al titular de la Dependencia o Entidad de la que pres
 
 XVII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontínuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XIX. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
 
@@ -771,13 +777,11 @@ III. Hacer la proposición de nombramientos definitivos, en favor de la persona 
 
 La seguridad social tiene por finalidad garantizar el derecho humano a la salud; a la asistencia médica, a la protección de los medios de subsistencia y a los servicios sociales necesarios, para el bienestar individual y colectivo.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Art. 64.
 
-Es obligación de las entidades públicas otorgar la seguridad social a los servidores públicos y sus familiares, en los términos de la ley aplicable.
-
-Para este propósito los servidores públicos del Estado y los municipios serán afiliados al Instituto Mexicano del Seguro Social y a Pensiones del Estado.
+La seguridad social será proporcionada por las entidades públicas, a los trabajadores y sus beneficiarios, a través de convenios de incorporación que celebren preferentemente con el Instituto Mexicano del Seguro Social, o con las instituciones a que se refiere la fracción XI del artículo 56 de esta Ley, siempre que aseguren cuando menos el mismo nivel de atención y cobertura territorial que el Instituto Mexicano del Seguro Social, para que sean éstas las que proporcionen a los servidores públicos los servicios médicos, quirúrgicos, farmacéuticos, hospitalarios y asistenciales; así mismo, tendrán la obligación de afiliar a todos los servidores públicos a la Dirección de Pensiones del Estado para el otorgamiento de las pensiones y jubilaciones correspondientes.
 
 ###### Art. 65.
 
@@ -803,13 +807,17 @@ Las Entidades Públicas, en caso de muerte del servidor público, pagarán a la 
 
 Sindicato es la asociación de servidores públicos, constituída para la defensa de sus intereses y su mejoramiento social y cultural.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+
 ###### Art. 70.
 
-Todos los servidores públicos de base tendrán derecho a sindicalizarse libremente. En los Poderes Legislativo y Judicial habrá un Sindicato por cada Poder. En el Ejecutivo, podrá haber un Sindicato por cada Dependencia de las que establece su Ley Orgánica. En los Municipios y en los Organismos descentralizados, empresas o asociaciones de participación mayoritaria Estatal o Municipal, podrá haber un Sindicato por cada Entidad Jurídica.
+Todos los servidores públicos de base de los Poderes del Estado, así como de los municipios y de los organismos descentralizados, empresas o asociaciones de participación mayoritaria estatal o municipal, tendrán derecho a sindicalizarse libremente.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Art. 71.
 
-Todos los servidores de base tendrán derecho a formar parte del Sindicato correspondiente; pero, una vez obtenido su ingreso, no dejarán de formar parte de él, salvo que fueren expulsados.
+Todos los servidores de base tendrán derecho a pertenecer, libremente, a un sindicato, y tendrán la libertad en todo tiempo de separarse o renunciar de formar parte de dicha asociación o incorporarse a otra.
 
 ###### Art. 72.
 
@@ -849,7 +857,7 @@ Los sindicatos nacionales o federales sólo podrán ser reconocidos por el Gobie
 
 ###### Art. 76.
 
-En cada Poder, Dependencia del Poder Ejecutivo, Municipal u organismo descentralizado, y empresas o asociaciones de participación mayoritaria, Estatal o Municipal, no podrá existir más de un sindicato.
+(DEROGADO, P.O. 28 DE JULIO DE 2001)
 
 ###### Art. 77.
 
@@ -1475,11 +1483,11 @@ VIII. Promoción: Los ascensos, mejorías laborales o cualesquier cambio de cate
 
 El Servicio procurará el desarrollo profesional de los servidores públicos, su estabilidad laboral, la calificación de sus habilidades, capacidades y desempeño.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Art. 155.
 
-Serán incorporados al servicio civil de carrera todos los trabajadores a partir de su ingreso al servicio público, siempre y cuando no se encuentren en alguno de los supuestos a que se refiere el artículo siguiente.
+Serán incorporados al servicio civil de carrera los servidores públicos que cumplan con los requisitos señalados por la presente Ley y por los demás ordenamientos dictados por las propias entidades públicas.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1495,11 +1503,11 @@ III. Los servidores públicos cuyo nombramiento tenga por disposición legal un 
 
 IV. Los demás que su Reglamento Interno señale.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Art. 157.
 
-La Comisión de cada una de las entidades a que se refiere el artículo primero de esta Ley elaborará su propio Reglamento Interno, donde se establecerá, entre otros aspectos, la organización, funcionamiento y operación del Servicio. En el Poder Ejecutivo Estatal, existirá un solo Reglamento Interior aplicable para todas sus dependencias, con excepción de lo dispuesto en el artículo siguiente.
+El titular de cada una de las entidades a que se refiere el artículo primero de esta Ley elaborará su propio Reglamento Interno, donde se establecerá, entre otros aspectos, la organización, funcionamiento y operación del Servicio. En el Poder Ejecutivo Estatal, existirá un solo Reglamento Interior aplicable para todas sus dependencias, con excepción de lo dispuesto en el artículo siguiente.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1537,11 +1545,17 @@ La Comisión estará integrada por:
 
 I. El Presidente, que tendrá voto de calidad para caso de empate;
 
-II. El Secretario Técnico de la Comisión, que será designado por el Presidente;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-III. Dos representantes de los servidores públicos de base, designados por el Sindicato, cuando lo hubiere; y
+II. El Titular del Órgano de Administración Interna, quien fungirá además como Secretario Técnico de la Comisión;
 
-IV. Un representante de los servidores públicos de confianza, designado por insaculación.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+III. Dos miembros que representen a los servidores públicos de confianza que ocupen puestos considerados del Servicio, los cuales serán designados por el sistema de insaculación; y
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+IV. Dos miembros que representen a los servidores públicos de base, designados en los términos del Reglamento Interno, quienes participarán exclusivamente en procedimientos de promoción de servidores públicos de base a puestos de confianza.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1567,15 +1581,11 @@ El titular de cada una de las Entidades Públicas deberá designar la dependenci
 
 La Comisión sesionará ordinariamente por lo menos cada dos meses y extraordinariamente cuantas veces sea necesario.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Art. 165.
 
-Para que las sesiones de la Comisión tengan validez se requiere la asistencia de cuando menos tres comisionados. Cuando la Comisión se integre con tan solo tres de sus miembros, los acuerdos que se tomen deberán ser aprobados por unanimidad de los presentes.
-
-Las decisiones de la Comisión en materia de promoción de los servidores y las que tengan como objeto crear o modificar dispositivos del Reglamento Interno deberán ser votadas a favor por cuando menos cuatro de sus integrantes, si no hubiere mayoría calificada el asunto deberá presentarse nuevamente para su votación dentro de las 72 horas siguientes, si de nueva cuenta no se lograra la votación necesaria el asunto deberá remitirse al Tribunal de Arbitraje y Escalafón para su resolución.
-
-Con excepción de los casos que se señalan en los párrafos anteriores los acuerdos de la Comisión serán tomados por mayoría de votos.
+Para que las sesiones de la Comisión tengan validez, se requiere que exista "quórum" con la asistencia de la mitad más uno de sus miembros, y sus acuerdos serán tomados por mayoría de votos de los asistentes.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1657,13 +1667,25 @@ El órgano de administración interna encargado de operar el Sistema, proporcion
 
 Para acceder a los beneficios del Servicio tales como promociones, becas y demás, el servidor público deberá acreditar los mínimos de capacidad y adiestramiento necesarios, debiéndose contemplar preferentemente en caso de igualdad entre diversos aspirantes, los siguientes criterios de selección:
 
-I. Antigüedad, que se tomará en cuenta la fecha de ingreso a la dependencia;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-II. Carta de servicios; y
+I. El grado mínimo de escolaridad de acuerdo al puesto;
 
-III. Escolaridad.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-La carta de servicios es el historial donde conste el grado de eficiencia del trabajador y las faltas administrativas en que hubiere incurrido durante el desempeño de su cargo.
+II. La antigüedad, que se tomará en cuenta desde la fecha de ingreso a la Entidad Pública;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+III. La experiencia laboral;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2001)</small>
+
+IV. Carta de no antecedentes penales por delito doloso; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2001)</small>
+
+V. Carta de Servicio, que es el historial donde consta el grado de eficiencia del trabajador, la capacitación recibida en el servicio público y en su caso, las faltas administrativas en que hubiere incurrido durante el desempeño de su cargo.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1793,11 +1815,11 @@ II. El cese del servicio público por causa justificada o si fuere sancionado en
 
 Si al servidor público le fuera aplicada diversa sanción de las previstas en el artículo 64 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, su incorporación al Servicio quedará condicionado al dictamen de la Comisión, considerando la gravedad de la falta y la afectación a la administración pública.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Art. 190.
 
-Podrán reingresar los servidores públicos al Servicio cuando reúnan de nueva cuenta los requisitos previstos en el artículo 175. Su reingreso les faculta para concursar en igualdad de condiciones sin que su separación temporal al Servicio importe descalificación alguna, salvo aquellas que se desprendan de su carta de servicios.
+Podrán reingresar los servidores públicos al Servicio cuando reúnan de nueva cuenta los requisitos previstos en el artículo 172. Su reingreso les faculta para concursar en igualdad de condiciones sin que su separación temporal al Servicio importe descalificación alguna.
 
 ## TRANSITORIOS
 
@@ -1891,6 +1913,16 @@ SEGUNDO. Las disposiciones contenidas en el Título Sexto que se adiciona a esta
 
 TERCERO. Los Poderes del Estado, Ayuntamientos, así como sus organismos descentralizados y desconcentrados, empresas paraestatales o asociaciones de participación estatal o municipal mayoritaria, deberán definir el área que se encargue de administrar el Sistema Administrativo del Servicio Civil de Carrera e integrar las respectivas Comisiones de Evaluación dentro del término de 120 días naturales contados a partir de que entre en vigor el Título Sexto de esta Ley.
 
-CUARTO. Las comisiones de evaluación formularán sus respectivos reglamentos internos dentro de los noventa días a partir de su integración.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+
+CUARTO. Las Comisiones de Evaluación de las Entidades, presentarán en un término de treinta días a partir de su integración, sus proyectos de reglamento interno al Titular de la Entidad, quien emitirá el reglamento, en un término igual a partir de su recepción.
 
 QUINTO. Los servidores públicos que reciban la seguridad social a través del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado seguirán afiliados a dicha entidad.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
+
+SEXTO. Para los efectos del artículo 4, de esta Ley, son servidores públicos de confianza los Síndicos que se desempeñan en el actual periodo constitucional de los Ayuntamientos 2001-2003.
+
+P.O. 28 DE JULIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
