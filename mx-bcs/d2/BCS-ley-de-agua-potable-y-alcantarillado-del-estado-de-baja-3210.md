@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-agua-potable-y-alcantarillado-del-estado-de-baja-3210"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1999-12-20"
+last_updated: "2001-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1999.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA NUEVA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. EL 31 DE JULIO DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de diciembre de 1980.
 
@@ -1288,3 +1290,25 @@ Las presentes reformas y adiciones entrarán en vigor al día siguiente de su pu
 B.O. 20 DE DICIEMBRE DE 1999.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE JULIO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor tres meses después de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Agua Potable y Alcantarillado de Baja California Sur expedida por el H. Congreso del Estado mediante Decreto 228 de fecha 24 de diciembre de 1980.
+
+###### ARTICULO TERCERO.
+
+El Reglamento de la presente Ley se publicará en un plazo no mayor a seis meses. Contados a partir de la publicación de esta Ley en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO CUARTO.
+
+Para efecto de los dispuesto en el artículo 39 de la presente Ley, las disposiciones relativas a la Junta de Gobierno se entenderán referidas al Consejo de Administración actual.
+
+###### ARTICULO QUINTO.
+
+Los trabajadores que actualmente presten sus servicios en la Comisión Estatal del Agua, así como en los organismos operadores municipales de los sistemas de agua potable y alcantarillado y que en virtud del presente decreto deban integrarse a los organismos operadores municipales que en su caso se creen, conservarán inalterables sus derechos laborales de conformidad con la ley de la materia.
