@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "1999-12-16"
+last_updated: "1999-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -2377,11 +2377,11 @@ I. Coordinarse con la Procuraduría General de Justicia para la atención de los
 
 II. Instaurar cursos de formación y capacitación sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO. DE LOS ESTIMULOS
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De los Conciliadores
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2409,9 +2409,9 @@ Las unidades de atención deberán conocer, tramitar y resolver a través del pr
 
 Todo el personal de las instituciones involucradas en la prevención y atención de la violencia intrafamiliar, deberán dar trato confidencial a la información o documentación de las personas atendidas. Lo anterior implica que el expediente en el que se integren las constancias relativas al planteamiento y a la resolución del problema, sólo podrán ser consultados por quienes intervengan en ellos, sus apoderados, y el Consejo, al que se le deberán mandar los informes a que se refiere este Libro.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO II. De los Conciliadores
+### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2481,7 +2481,7 @@ VI. Integrar los expedientes relativos a los casos puestos a su consideración, 
 
 VII. Enviar copias de los convenios al Consejo, en los términos del presente Libro.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO PRIMERO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE REVOCACION
 
@@ -2495,33 +2495,385 @@ El Presidente del Consejo rendirá el informe anual de actividades al cual corre
 
 El dictamen de evaluación deberá rendirse dentro de los quince días siguientes a la presentación del informe, y sus puntos resolutivos deberán de proponer las medidas que se consideren necesarias para mejorar las estrategias de prevención y atención de la violencia intrafamiliar, las cuales, si fueren aprobadas por la mayoría de los integrantes de la Junta de Gobierno del Organismo Estatal, serán incorporadas al Programa para su aplicación.
 
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+# LIBRO SEPTIMO. DE LOS ADULTOS MAYORES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 229.
+
+Las disposiciones contenidas en este Libro son reglamentarias de la fracción II del artículo 15 de la Constitución Política del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 230.
+
+Los objetivos de este ordenamiento son los siguientes:
+
+I. Reconocer los derechos de los adultos mayores y los medios para su ejercicio;
+
+II. Fomentar una mayor calidad de vida de los adultos mayores, en los aspectos de participación social y económica y recreación;
+
+III. Establecer las responsabilidades de la familia, la sociedad y el estado en cuanto a atención, promoción y apoyo a los adultos mayores;
+
+IV. Propiciar una cultura de reconocimiento y aprecio por los adultos mayores;
+
+V. Impulsar las políticas de salud para los adultos mayores; y
+
+VI. Los demás que se establezcan en el presente Código.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 231.
+
+Para los efectos de la presente ley, se consideran adultos mayores a las personas de sesenta o más años de edad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
+###### Artículo 232.
+
+Son derechos de los adultos mayores, además de los establecidos por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Jalisco y demás disposiciones jurídicas aplicables, los siguientes:
+
+I. Acceder a los servicios médicos y asistenciales que prestan las instituciones del Sistema Estatal de Salud;
+
+II. Recibir una atención médica integral a través de acciones de prevención, atención y rehabilitación;
+
+III. Recibir los medicamentos, prótesis y demás dispositivos necesarios para mantener su salud;
+
+IV. Obtener una alimentación nutritiva y adecuada;
+
+V. Disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sea judicialmente declarado incapaz;
+
+VI. Contar con una cartilla médica para el control de su salud;
+
+VII. Disponer de una estancia digna y poder elegir su lugar de residencia;
+
+VIII. Contar con espacios libres de barreras arquitectónicas para el fácil acceso y desplazamiento;
+
+IX. Tener acceso a los servicios que preste el Sistema Estatal de Educación, en sus diversas modalidades y niveles, de conformidad con la legislación aplicable;
+
+X. Tener libre acceso a actividades artísticas y programas culturales administrados por el sector público;
+
+XI. Recibir un trato digno y no discriminatorio, así como vivir con seguridad, libre de explotación y maltrato físico y mental;
+
+XII. Decidir libremente sobre la continuidad de su actividad laboral; salvo que medie incapacidad física o mental declarada por autoridad competente;
+
+XIII. Recibir capacitación para desempeñarse en actividades laborales acordes a su edad y capacidad;
+
+XIV. Acceder a las oportunidades de empleo que promuevan las instituciones oficiales o particulares;
+
+XV. Participar activamente en el diseño de las políticas públicas que los afecten directamente;
+
+XVI. Recibir asesoría jurídica para proteger y promover sus derechos;
+
+XVII. Recibir apoyos institucionales en materia alimentaria, siempre y cuando carezca de los recursos suficientes y no se encuentre pensionado;
+
+XVIII. Acceder a información gerontológica y geriátrica para contribuir a la prevención y el autocuidado;
+
+XIX. Recibir reconocimientos o distinciones por su labor, trayectoria o aportaciones al estado;
+
+XX. Formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento;
+
+XXI. Recibir descuentos en el consumo de bienes y servicios en las negociaciones y organismos afiliados a los programas de apoyo a la senectud;
+
+XXII. Las demás que establezcan los diversos ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 233.
+
+En la medida en que su salud y circunstancias personales lo permitan, los adultos mayores procurarán:
+
+I. Permanecer activos y productivos;
+
+II. Aprender y aplicar principios de salud física y mental a su propia vida;
+
+III. Aprovechar los programas de educación, actualización y capacitación;
+
+IV. Participar en actividades comunitarias y docentes, compartiendo con las nuevas generaciones su experiencia, valores y conocimiento; y
+
+V. Los demás que establezcan los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
 ## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 234.
+
+La familia responsable de los adultos mayores tendrá a su cargo las siguientes obligaciones:
+
+I. Otorgar una estancia digna, adecuada a sus necesidades y de preferencia en el propio domicilio, a menos de que obre decisión contraria del adulto mayor o exista prescripción médica que lo desaconseje;
+
+II. Fomentar su independencia, respetar sus decisiones y mantener su privacidad;
+
+III. Gestionar ante las instancias públicas y privadas el reconocimiento y respeto a los derechos de los adultos mayores;
+
+IV. Contribuir a que se mantengan productivos y socialmente integrados;
+
+V. Allegarse de elementos de información y orientación gerontológica;
+
+I (sic). Proporcionarles asistencia permanente y oportuna;
+
+II. Evitar conductas que supongan discriminación, aislamiento y malos tratos;
+
+III. Abstenerse de fomentar prácticas de indigencia y mendicidad en los adultos mayores;
+
+IV. Gestionar lo conducente ante las autoridades judiciales o administrativas competentes para la realización de actos jurídicos que beneficien los intereses del adulto mayor; y
+
+V. Los demás que establezcan a su cargo las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 235.
+
+Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO CUARTO. DEL PROGRAMA PERMANENTE
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
+###### Artículo 236.
+
+Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adultos mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 237.
+
+Corresponde a la sociedad formar grupos de apoyo y asistencia social que, en coordinación con las autoridades o de manera independiente, colaboren en el mejoramiento de las condiciones de vida de la población de adultos mayores.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 238.
+
+Es un deber de la sociedad propiciar la participación de los adultos mayores en la vida social, reconociendo y estimulando la formación de asociaciones, consejos y organismos, con funciones de apoyo, asesoría y gestión en cuestiones comunitarias, particularmente en las relacionadas con el envejecimiento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 239.
+
+Los organismos públicos y los privados no lucrativos dedicados a la atención de adultos mayores, tendrán derecho a recibir apoyo, asesoría y capacitación por parte de las autoridades competentes a las que el presente ordenamiento se refiere. Además, gozarán de los incentivos fiscales que se fijen anualmente en las leyes de ingresos del estado y los municipios.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 240.
+
+Corresponde a los grupos de la sociedad civil organizada de adultos mayores, participar de manera coordinada y concertada con el Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco a través de sus diversos organismos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 241.
+
+Los establecimientos que presten servicio a los adultos mayores deberán habilitar personal capacitado y espacios adecuados para proporcionar al senescente un trato digno y estancia cómoda, dándole preferencia en su atención.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
 ## TITULO QUINTO. DE LAS UNIDADES DE ATENCION
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 242.
+
+Los programas a favor de los adultos mayores, comprenderán, entre otras, las siguientes acciones:
+
+I. Integración de clubes de la tercera edad;
+
+II. Bolsa de Trabajo;
+
+III. Asistencia legal;
+
+IV. Albergues permanentes y provisionales;
+
+V. Asistencia médica integral;
+
+VI. Capacitación para el trabajo;
+
+VII. Turismo, recreación y deporte;
+
+VIII. Investigación gerontológica;
+
+IX. Orientación familiar;
+
+X. Servicios culturales; y
+
+XI. Programas de descuentos de bienes, servicios y cargas hacendarias.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 243.
+
+Los asilos, estancias o centros de rehabilitación, públicos o privados, velarán por el mejoramiento físico y moral de los senescentes a su cuidado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 244.
+
+Los adultos mayores tendrán derecho a todas aquellas acciones respectivas que sobre asistencia social lleve a cabo el Estado para fomentar en ellos y en la sociedad en general una cultura de integración, dignidad y respeto.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 245.
+
+Tendrán derecho a una capacitación equitativa, en la cual se desarrollen sus aptitudes intelectuales, afectivas, sociales y físicas, dirigidas a continuar con su realización personal, que los oriente a continuar con su vida digna, logrando al mismo tiempo un pleno conocimiento de sí mismo y mantener su propio desarrollo de conciencia, en el cual considere su estado social y lo asimile de una manera propositiva.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 246.
+
+Para la salvaguarda de los intereses patrimoniales de los adultos mayores, son incapaces de adquirir por testamento otorgado por el adulto mayor, el dueño, administrador, representante, o cualquier persona física vinculada laboralmente con el asilo donde habite, si durante su estancia en dicho lugar hizo su disposición testamentaria; así como el cónyuge, ascendientes, descendientes y hermanos del beneficiario, a no ser que los herederos instituidos sean también herederos legítimos.
+
+Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán heredar de los adultos mayores asilados aunque su disposición testamentaria la hubiere hecho durante su estancia en el lugar a su cargo, siempre y cuando dos representante (sic) del Organismos Estatal den testimonio del acto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEXTO. DE LOS PROCEDIMIENTOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
+###### Artículo 247.
+
+En materia de atención a los adultos mayores, el órgano rector del estado será el Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, quien deberá coordinarse con las diversas instituciones de los niveles federal, estatal y municipal cuya línea de acción sea la asistencia de los senescentes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 248.
+
+El Organismo Estatal tendrá las siguientes atribuciones y obligaciones:
+
+I. Elaborar, ejecutar y evaluar el Programa Estatal para la Atención de los Adultos Mayores;
+
+II. Coordinar las acciones en materia de atención a adultos mayores;
+
+III. Proponer y, en su caso, operar los programas de asistencia, asesoría y atención médica orientados a los adultos mayores;
+
+IV. Diseñar y ejecutar programas de asesoría en materia de alimentación y nutrición adecuados para los adultos mayores;
+
+V. Establecer las estrategias para la procuración de apoyos subsidiarios en materia de alimentos para los adultos mayores abandonados de escasos recursos;
+
+VI. Expedir la cartilla de salud para adultos mayores, derivando a las instituciones públicas del sector salud a quienes requieran atención médica especializada y carezcan de recursos para sufragarla;
+
+VII. Promover dentro del Sistema Estatal de Educación la integración y el desarrollo de programas docentes, de investigación y extensión en geriatría y gerontología;
+
+VIII. Generar mecanismos de difusión, apoyo y estímulo económico para promover la escolarización entre la población de adultos mayores;
+
+IX. Promover y llevar a cabo programas permanentes en materia de deporte, cultura y recreación;
+
+X. Impulsar la creación de estancias diurnas, casas de retiro y demás establecimientos de asistencia y atención médica, rehabilitación, esparcimiento y recreación;
+
+XI. Fomentar y asesorar la construcción de espacios libres de barreras arquitectónicas y con facilidad de acceso para adultos mayores;
+
+XII. Fomentar la creación de oportunidades de empleo para adultos mayores, a través de bolsas de trabajo, impulso a proyectos productivos y convenios con el sector empresarial de la entidad;
+
+XIII. Ofrecer capacitación para el trabajo y adiestramiento, de acuerdo a sus condiciones físicas y mentales;
+
+XIV. Brindar orientación, información y capacitación a las familias, con el objeto de que brinden la adecuada atención a los adultos mayores;
+
+XV. Otorgar apoyo, asesoría y supervisión a grupos y organismos del sector privado y social que tengan entre sus fines la atención de los adultos mayores, o que estén en vías de constituirse;
+
+XVI. Proporcionar orientación y apoyo técnico a los Ayuntamientos en materia de planes y programas relacionados con el envejecimiento;
+
+XVII. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento productivo;
+
+XVIII. Promover, a través de convenios, el otorgamiento de beneficios, prestaciones, descuentos, condonaciones y exenciones en el pago de tarifas por bienes y servicios públicos y privados;
+
+XIX. Otorgar asesoría jurídica a los adultos mayores que lo soliciten, con el objeto de promover y defender sus derechos;
+
+XX. Establecer una base de información sobre las condiciones socio-económicas y demográficas de la población en edad avanzada, que contribuya al mejor diseño y planeación de los programas de atención a los adultos mayores;
+
+XXI. Derivar a los adultos mayores en estado de abandono a los organismos asistenciales integrados al Sistema Estatal de Asistencia Social;
+
+XXII. Otorgar los premios y reconocimientos a los adultos mayores que se destaquen por su labor, trayectoria y aportaciones;
+
+XXIII. Difundir los contenidos, programas y servicios establecidos en la presente ley y demás disposiciones; y
+
+XXIV. Las demás que le otorguen los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 249.
+
+El Organismo Estatal, para la debida asistencia de los adultos mayores integrará las Unidades Técnicas que su Junta de Gobierno determine, las cuales tendrán las facultades y atribuciones que señale el reglamento respectivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
 ## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 250.
+
+Serán consideradas como causas de responsabilidad y ameritarán las sanciones aplicables las establecidas por el Código Penal del Estado y demás leyes especiales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 251.
+
+Aquellas personas físicas o jurídicas que hubieren recibido fondos o bienes destinados a la pensión o ayuda alimenticia serán sancionadas con una multa equivalente al monto de la pensión o ayuda de un mes, sin perjuicio de la responsabilidad penal o administrativa que les sea imputable, cuando los deriven a fines distintos a los establecidos sin autorización del Organismo Estatal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 252.
+
+Las autoridades consideradas en la presente ley serán sujetos de responsabilidad, de conformidad con lo dispuesto por la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, cuando exijan requisitos distintos o adicionales a los establecidos en la presente ley para otorgar apoyos o pensiones a los adultos mayores.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 253.
+
+Cualquier persona que tenga conocimiento de maltrato o violencia contra los adultos mayores deberá informarlo ante las autoridades competentes; de no hacerlo, se harán acreedores a una multa por el importe de hasta cinco días de salario mínimo general vigente en la zona Metropolitana de Guadalajara.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 254.
+
+La falta de decoro o respeto en el trato con los adultos mayores, por parte de instituciones privadas será sancionada con apercibimiento de no hacerlo, en caso de reincidencia se le aplicará multa por el importe de hasta cinco días de salario mínimo general vigente en la zona metropolitana de Guadalajara.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 255.
+
+El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la violación a sus derechos por parte de sus familiares, ciudadanos en general o instituciones lucrativas o no, públicas o privadas, se sancionará conforme a la ley respectiva.
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TRANSITORIOS
 
@@ -2604,5 +2956,9 @@ TERCERO. El reglamento del Consejo Estatal para la Prevención y Atención de la
 CUARTO. El Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar deberá aprobarse dentro de los 60 días siguientes a la integración del Consejo.
 
 P.O. 16 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE DICIEMBRE DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
