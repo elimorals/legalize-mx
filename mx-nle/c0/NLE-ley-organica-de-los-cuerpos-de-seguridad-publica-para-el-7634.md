@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-los-cuerpos-de-seguridad-publica-para-el-7634"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-01-19"
-last_updated: "1983-01-19"
+last_updated: "1983-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LOS CUERPOS DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial, el miércoles 19 de enero de 1983.
 
@@ -51,21 +51,27 @@ El personal que integra los diversos cuerpos de seguridad pública en el Estado,
 
 La estructura y el funcionamiento de la Dirección de Seguridad Pública en el Estado, así como la relación entre el Gobierno del Estado de Nuevo León y los miembros adscritos a los cuerpos de seguridad, se regirán por las disposiciones de la presente ley y los demás ordenamientos que en lo sucesivo se expidan. Su finalidad es determinar la estructura de la dirección y las condiciones a que debe sujetarse el desarrollo de los servicios de los elementos pertenecientes a los mencionados cuerpos de policía.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 3o.
 
-En los términos de la presente ley, se entenderá que son autoridades de Seguridad Pública y miembros de los Cuerpos de Policía, los siguientes:
+En los términos de la presente Ley, se entenderá que son autoridades de Seguridad Pública y miembros de los Cuerpos de Policía, los siguientes:
 
 a).- Son Autoridades de Seguridad Pública del Estado de Nuevo León:
 
-El Gobernador del Estado,
+El Gobernador del Estado.
 
-El Secretario General de Gobierno,
+El Secretario General de Gobierno.
 
-El Procurador General de Justicia,
+El Procurador General de Justicia.
 
-El Director de Seguridad Pública en el Estado,
+El Director de Seguridad Pública en el Estado.
 
-Los Directores y funcionarios de los diversos cuerpos de policía del Estado.
+Los Presidentes Municipales.
+
+Los Directores y Funcionarios de los diversos Cuerpos de
+
+Policía del Estado.
 
 b). Es miembro de los cuerpos de Policía toda persona física que preste sus servicios personales y subordinados a las autoridades mencionadas en la fracción anterior, de manera permanente o transitoria, en virtud del nombramiento que le fuera expedido, para estar adscrito a los cuerpos de Policía Preventiva del Estado.
 
@@ -1060,3 +1066,15 @@ ALFONSO MARTINEZ DOMINGUEZ.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 GRACIANO BORTONI URTEAGA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1984; el cual será publicado en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Municipios podrán convenir con el Estado, independientemente de la existencia de sus propios cuerpos de prevención, que la prestación de los servicios de Seguridad Pública, se presenten en los municipios por conducto de la autoridad Municipal y bajo el mando de la Autoridad Estatal.
