@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1934-07-21"
+last_updated: "1935-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 1934.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 1935.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -79,11 +79,11 @@ El Estado de Campeche es parte integrante de la Federación Mexicana.
 
 La base de la organización política y de la división territorial del Estado de Campeche es el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1934)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1935)</small>
 
 ###### Art. 14.
 
-El territorio del Estado de Campeche lo forman los Municipios Libres de Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada, Quintana Roo y Tenabo, constituyendo todos ellos, con excepción del penúltimo, lo que fue el antiguo Distrito de Campeche, del Estado de Yucatán, con más el litoral que comprende las salinas denominadas El Real, La Herradura y Las Desconocidas, cuya línea divisoria es la acordada en el artículo 1º de los convenios celebrados el 3 de mayo de mil ochocientos cincuenta y ocho entre el Gobierno de Yucatán y la Junta Gubernativa del Distrito de Campeche y ratificados, respectivamente, por ambos Gobiernos el 15 y el 17 del mismo mes y año, y correspondiendo el Municipio de Quintana Roo a la parte que al quedar suprimido el Territorio del mismo nombre por decreto de fecha 14 de diciembre de 1931, que reformó el artículo 43 y adicionó el 45, ambos de la Constitución General de la República, quedó anexada al territorio del Estado con los límites establecidos en el mismo decreto, con más los islotes y cayos adyacentes situados desde la Bahía de la Ascención hacia el Sur del Mar Caribe, partiendo del paralelo 19 grados 35 minutos, de acuerdo con lo establecido en el decreto de fecha 10 de enero de 1934 que adicionó el artículo 45 de la expresada Constitución General de la República.
+El Territorio del Estado de Campeche lo forman los Municipios Libres de Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada y Tenabo, constituyendo todos ellos lo que fue el antiguo Distrito de Campeche, del Estado de Yucatán, con más el litoral que comprende las salinas denominadas El Real, La Herradura y Las Desconocidas y cuya línea divisoria es la acordada en el artículo 1º de los convenios celebrados entre el Gobierno de Yucatán y la Junta Gubernativa del Distrito de Campeche, el 3 de mayo de 1858, ratificados, respectivamente, por ambos Gobiernos el 15 y el 17 del mismo mes y año.
 
 ### CAPITULO II.
 
@@ -1006,3 +1006,7 @@ P.O. 10 DE OCTUBRE DE 1933.
 P.O. 21 DE JULIO DE 1934.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 17 DE ENERO DE 1935.
+
+Unico.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
