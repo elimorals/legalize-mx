@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-seguridad-publica-11848"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "2002-08-10"
+last_updated: "2002-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de junio de 1998.
 
@@ -171,9 +171,11 @@ Las políticas, lineamientos y acciones de coordinación se llevarán a cabo med
 
 #### SECCION PRIMERA. CLASIFICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 13.
 
-Los Cuerpos de Seguridad Pública en el Estado son:
+Los cuerpos de seguridad pública en el Estado son:
 
 I.- La Coordinadora Estatal de Seguridad Pública;
 
@@ -189,15 +191,23 @@ VI.- Los Cuerpos de Bomberos Municipales, sólo con el carácter de auxiliares;
 
 VII.- La Policía de Tránsito Estatal o Municipal, en su caso, como auxiliares, y
 
-VIII.- Los demás que en el futuro se constituyan con estricto respeto a La Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+VIII.- La Policía Comunitaria, la cual podrá establecer unidades en los municipios de la Entidad, con el carácter exclusivo de organismos auxiliares; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+IX.- Las demás que en el futuro se constituyan.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 14.
 
-Se consideran como elementos de los Cuerpos de Seguridad Pública, aquéllos a quienes expresamente se les atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente expedido por autoridad competente.
+Se consideran como elementos de los cuerpos de seguridad pública, aquellos a quienes expresamente se les atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente expedido por autoridad competente.
 
-No forman parte de los Cuerpos de Seguridad Pública aquellas personas que desempeñen funciones de carácter administrativo o ajenas a la Seguridad Pública, aun cuando laboren en las dependencias encargadas de prestar ese servicio.
+No forman parte de los cuerpos de seguridad pública aquellas personas que desempeñen funciones de carácter administrativo o ajenas a la seguridad pública, aún cuando laboren en las dependencias encargadas de prestar ese servicio.
 
-Queda prohibido que un elemento de seguridad preste simultáneamente su servicio con tal carácter, en un Cuerpo de Seguridad Pública y otro de Seguridad Privada.
+Queda prohibido que un elemento de seguridad preste simultáneamente su servicio con tal carácter en un cuerpo de seguridad pública y otro de seguridad privada, con excepción de los miembros de la Policía Comunitaria, quienes también podrán formar parte de grupos o empresas de seguridad privada.
 
 ###### Artículo 15.
 
@@ -210,6 +220,132 @@ II.- Los Cuerpos Municipales de Seguridad Pública, cuyos miembros se denominan 
 ###### Artículo 16.
 
 A los Cuerpos Municipales de Seguridad Pública corresponden aquellas acciones dirigidas a prevenir la comisión de todo tipo de delitos y faltas administrativas, así como mantener el orden, la paz y la tranquilidad pública dentro de la jurisdicción municipal que les corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-A.
+
+La Policía Comunitaria es un organismo auxiliar de seguridad pública, cuya dirección estará a cargo de la Coordinadora Estatal de Seguridad Pública, para realizar acciones de vigilancia, ordenamiento vial, auxilio a la población, inspección y, en general, todo cuanto implique prevención de delitos y faltas, así como salvaguardar y mantener la seguridad colectiva.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-B.
+
+Los elementos de la Policía Comunitaria tendrán el carácter de miembros honorarios del Sistema Estatal de Seguridad Pública, motivo por el cual su actividad no generará derechos ni engendrará relaciones de carácter laboral entre éstos y el Estado o los Municipios, considerándose su actuación como servicio social comunitario. Los estímulos que se otorguen de ninguna manera serán considerados como salario o retribución.
+
+Los ciudadanos que acudan a la convocatoria expedida para formar parte de la policía comunitaria, deberán cumplir con los requisitos que para ello se establecen en la presente Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-C.
+
+Para ser miembro de la Policía comunitaria se requerirá:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Ser mayor de 18 años de edad;
+
+III.- Acreditar no tener antecedentes penales o policiales; y,
+
+IV.- Cumplir con el ordenamiento básico.
+
+Se podrán admitir como miembros de la Policía Comunitaria a jóvenes menores de 18 años de edad, siempre que sean mayores de 16 años y no se les asigne actividades que sean en sí mismas consideradas como de riesgo, ni porten armas. En todo caso se requerirá autorización escrita de quien ejerce la patria potestad.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-D.
+
+Los aspirantes a la Policía Comunitaria, deberán cumplir con el ordenamiento básico, el cual comprenderá, cuando menos, de instrucción en primeros auxilios, control de tráfico, tópicos legales, sistemas de comunicación y procedimientos para-policiales. Para acreditar dicha instrucción, deberá estarse a lo dispuesto por el Reglamento de la Policía Comunitaria.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-E.
+
+A las personas que hayan cumplido con los requisitos establecidos en los dos artículos anteriores, no se les podrá negar su nombramiento como miembros voluntarios de la Policía Comunitaria; no obstante lo anterior, la Coordinadora Estatal de Seguridad Pública queda facultada, en casos debidamente justificados, para negar o retirar los nombramientos.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-F.
+
+La Policía Comunitaria podrá suscribir convenios con las autoridades y organismos responsables de la seguridad pública para establecer Unidades de la Policía Comunitaria en la jurisdicción territorial correspondiente.
+
+Las unidades de la Policía Comunitaria tendrán en todo momento, la obligación de presentar semestralmente a la Coordinadora Estatal de Seguridad Pública los programas operativos, líneas de acción y estrategias que pretendan llevar a cabo, para su validación y registro.
+
+Sin perjuicio de lo anterior, la organización, funcionamiento y atribuciones de las unidades, se regirán por lo dispuesto en el Reglamento de la Policía comunitaria.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-G.
+
+La Policía Comunitaria, directamente o a través de las unidades que se constituyan, realizará acciones de apoyo y auxilio a los Cuerpos de Seguridad Pública en el Estado, en los términos de la presente Ley y sus Reglamentos, así como de los Convenios que para tal efecto se suscriban entre la Coordinadora Estatal de Seguridad Pública y los Ayuntamientos o el Poder Ejecutivo del Estado, según sea el caso.
+
+La Coordinadora Estatal de Seguridad Pública también podrá suscribir Convenios de Colaboración con instituciones, personas físicas o morales, públicas o privadas, para el mejor desempeño de la Policía Comunitaria.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-H.
+
+La Policía Comunitaria contará con un Comité Permanente de Consulta por cada Unidad, el cual se encargará de proponer las estrategias y acciones para la implementación de los planes operativos, mismos que serán revisados, como mínimo cada año.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-I.
+
+Los Comités Permanentes de Consulta estarán integrados de la siguiente forma:
+
+I.- Un representante de la Coordinadora Estatal de Seguridad Pública;
+
+II.- Un representante de las siguientes áreas de la Administración Municipal:
+
+a).- Dirección de Seguridad Pública.
+
+b).- Coordinación del Sistema Municipal de Protección Civil.
+
+c).- Comisiones de Seguridad Pública del Ayuntamiento.
+
+d).- Departamento de Bomberos.
+
+III.- Un representante de la autoridad encargada del área de Tránsito y Vialidad;
+
+IV.- Un representante de la Asociación Municipal de Padres de Familia;
+
+V.- Un representante de la Asociación Comercial que opere en la zona correspondiente;
+
+VI.- Un representante de las Asociaciones de Alumnos que deseen formar parte del Comité Permanente;
+
+VII.- Un representante de las Agrupaciones Sindicales constituidas legalmente;
+
+VIII.- Los representantes de las organizaciones sociales que sean convocadas por la Coordinadora Estatal de Seguridad Pública.
+
+Los ayuntamientos podrán optar por la constitución de los Comités Permanentes de Consulta, a que este artículo se refiere, o bien, decidir que las atribuciones que esta Ley concede a los mencionados comités sean ejercidas por los Consejos de Coordinación Municipales, a que se refiere el artículo 20.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-J.
+
+Para los efectos de la organización, funcionamiento y atribuciones del Comité Permanente de Consulta, se estará a lo dispuesto por el Reglamento de la Policía Comunitaria.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-K.
+
+Para asegurar la eficiencia y continuidad de las operaciones de la Policía Comunitaria, se buscará en todo tiempo evaluar los resultados de sus Unidades, mediante el método de objetivos cumplidos, a efecto de determinar los apoyos o estímulos económicos que les correspondan a dichas áreas.
+
+Los apoyos o estímulos económicos serán aplicados exclusivamente a las Unidades de Policía Comunitaria, como institución, y no a sus miembros voluntarios.
+
+Como excepción a lo dispuesto en el párrafo anterior, se podrán otorgar estímulos económicos a los miembros voluntarios integrantes de la Policía Comunitaria por los servicios sobresalientes rendidos a su comunidad, así como los apoyos que se requieran para su capacitación.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-L.
+
+La Coordinadora del Sistema Estatal de Seguridad Pública destinará una partida económica especial a efecto de mantener, de manera permanente, la Oficina del Sistema Integral de Información, así como el Programa Continuo de Difusión de la Policía Comunitaria.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 16-M.
+
+Las actuaciones que realice la Policía Comunitaria en materia de vigilancia, ordenamiento vial, auxilio a la población, salvaguarda de la seguridad colectiva y prevención de delitos y faltas, tendrán la misma validez que la Ley reconoce a los cuerpos policíacos en estos renglones, cuando se ajusten a la ley.
 
 #### SECCION SEGUNDA. ORGANIZACION Y ATRIBUCIONES
 
@@ -1448,3 +1584,13 @@ P.O. 10 DE AGOSTO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los 120 días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá formular el Reglamento de la Policía Comunitaria en un plazo que no exceda de 60 días a partir de la publicación de este Decreto.
