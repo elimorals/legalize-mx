@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2000-12-22"
+last_updated: "2004-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -1073,7 +1073,7 @@ Las señales de servicio son las siguientes:
 
 SI - 26 - Servicio telefónico.
 
-SI - 27- Servicio Mecánico.
+SI - 27 -Servicio Mecánico.
 
 SI - 28 - Servicio de Combustible.
 
@@ -2151,8 +2151,54 @@ El procedimiento ante el juez calificador será sumarísimo, oral y público, sa
 
 El Juez dictará acuerdo de radicación debiendo señalar día y hora para que tenga verificativo la audiencia que señala el primer párrafo de este artículo, dentro de las 24 horas siguientes a la imposición de la multa o sanción respectiva, el cual contendrá la admisión de las pruebas que fueron ofrecidas así como el desahogo de las mismas, por lo que se pasará al desahogo de la audiencia, y una vez desahogada la audiencia, el Juez resolverá lo que en derecho proceda, notificando personalmente en dicho acto al recurrente de la resolución emitida.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE AGOSTO DE 2004)</small>
+
+## TITULO DECIMO PRIMERO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE AGOSTO DE 2004)</small>
+
+### CAPITULO UNICO. DE LA (SIC) INFRACCIONES DE LOS EXTRANJEROS
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 246.
+
+Los elementos de policía y tránsito cuando se trate de levantamiento de boletas de infracción a personas con licencia de manejo extranjera o documento en el que se acredite que reside en el extranjero, deberán levantar una boleta de infracción en idioma en (sic) inglés y español.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 247.
+
+La boleta de infracción a que se refiere el artículo anterior, deberá indicar la multa en salarios mínimos vigentes en el Estado de conformidad con el tabulador de multas del presente reglamento, asimismo el elemento de policía y tránsito que levante la infracción, deberá expresar el monto en moneda americana al tipo de cambio aplicable al momento de levantar la infracción.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 248.
+
+Las autoridades municipales deberá contar con Apartado Postal en los Estados Unidos de Norte América para efectos de que los infractores extranjeros realicen el pago de las multas, independientemente de que se puedan realizar en las cajas recaudadoras del Ayuntamiento.
+
+El Apartado Postal a que se refiere el párrafo anterior se deberá indicar en la boleta de infracción.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 249.
+
+La boleta de infracción deberá llevar una leyenda en la cual se hará del conocimiento del infractor extranjero, que cuenta con un plazo de quince días contados a partir del día siguiente al levantamiento de la boleta de infracción, para cubrir la multa impuesta, y que el pago se podrá realizar en las cajas recaudadores del Ayuntamiento o en el Apartado Postal a que se refiere el artículo que antecede, asimismo que en caso de que esté inconforme con la multa impuesta, podrá recurrir ante el Juez Calificador a manifestar lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 250.
+
+En los casos en que el infractor pague la multa por medio de apartado postal, la autoridad municipal una vez que reciba el importe de la multa enviará en un breve lapso un comprobante de pago al domicilio del infractor.
+
 A R T I C U L O S T R A N S I T O R I O S :
 
 PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
 
 SEGUNDO.- Se derogan los Reglamentos y demás disposiciones de Tránsito que se encuentren en vigor, así como todas las disposiciones dictadas sobre la materia, en cuanto se opongan a lo que ordene el presente Reglamento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE AGOSTO DE 2004.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
