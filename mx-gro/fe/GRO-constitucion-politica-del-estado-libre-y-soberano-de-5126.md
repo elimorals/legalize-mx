@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1988-02-05"
+last_updated: "1988-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1988.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1589,6 +1589,14 @@ La Administración Pública del Estado se compone de la Administración Pública
 
 El Ejecutivo del Estado ejercerá el control de las entidades paraestataes (sic) de conformidad con lo que disponga la Ley.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 1988)</small>
+
+El Plan Estatal de Desarrollo, con sujeción a las Leyes, definirá las áreas prioritarias en las cuales podrán establecerse y operar Entidades de la Administración Pública Paraestatal, así como los programas que les serán confiados, con sujeción a las prioridades sociales y productivas y a las disponibilidades presupuestales.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 1988)</small>
+
+En los términos de Ley, el Poder Ejecutivo definirá el régimen financiero de las Entidades Paraestatales.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 118.
@@ -2312,3 +2320,9 @@ P.O. 5 DE FEBRERO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 1988.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hacer llegar a cada uno de los Municipios del Estado un ejemplar del presente Decreto, para dar cumplimiento al Artículo 125 Fracción III de la Constitución Política Local.
