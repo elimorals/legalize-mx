@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1996-11-14"
+last_updated: "1996-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -7379,9 +7379,11 @@ En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondr�
 
 Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquel se encontrare, para cumplir las formalidades del depósito.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTÍCULO 1434.
 
-Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+Hecho el depósito, el encargado del Registro tomará en razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
 
 ###### ARTÍCULO 1435.
 
@@ -14623,31 +14625,59 @@ XIV. Los demás títulos que la ley ordene expresamente que sean registrados.
 
 Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharse en cuanto le fueren favorables.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTÍCULO 2886.
 
-Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
+Se inscribirá preventivamente en el Registro Público de la Propiedad:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+I. Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
 
-###### ARTÍCULO 2887.
+II. El mandamiento y el acta de embargo, que se haya hecho efectivo en bienes inmuebles el deudor;
 
-Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero u otra Entidad Federativa, sólo se inscribirán concurriendo las circunstancias siguientes:
+III. Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
 
-I. Que tengan el carácter de inscribibles conforme a las disposiciones de este Código y del reglamento del Registro, y requieren necesariamente de su inscripción en el Estado o País de que se trate;
+IV. Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales;
 
-II. Que estén debidamente legalizados, y en su caso traducidos por perito oficial, y
+V. Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el registrador;
 
-III. Si fueran resoluciones judiciales que se ordene su inscripción por la autoridad que corresponda, y tratándose de las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con las leyes mexicanas y si ordena su ejecución la autoridad judicial competente.
+VI. Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2734;
+
+VII. Las cédulas hipotecarias;
+
+VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con los bienes inscritos en el Registro Público, y
+
+IX. Cualquier otro título que sea inscribible, de acuerdo con este Código u otras leyes.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 2887.
+
+La inscripción preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+
+En los casos de las fracciones IV y VIII del artículo anterior podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI la anotación no producirá otro efecto que el fijado por el artículo 2734.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 2888.
 
-La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+Los actos ejecutables, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero u otra Entidad Federativa, sólo se inscribirán concurriendo las circunstancias siguientes:
+
+I. Que tengan el carácter de inscribíbles conforme a las disposiciones de este Código y del Reglamento del Registro, y requieren necesariamente de su inscripción en el Estado o País de que se trate;
+
+II. Que estén debidamente legalizados, y en su caso, traducidos por perito oficial; y
+
+III. Si fueran resoluciones judiciales que se ordene su inscripción por la autoridad que corresponda, y tratándose de las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con las leyes mexicanas y se ordena su ejecución la autoridad judicial competente.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 2889.
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ellos no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
 
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+No obstante lo dispuesto en el párrafo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ellos no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+
+Lo dispuesto en el párrafo anterior no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -14683,23 +14713,31 @@ III. Los documentos privados que en esta forma fueren válidos con arreglo a la 
 
 El interesado presentará el título que va a ser registrado, y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un croquis de esas fincas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 2895.
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley o contiene los datos conducentes a que se refiere el artículo 2897. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+Los registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
 
-El registrador no podrá rechazar la inscripción por discrepancia de superficies, medidas o colindancias entre el título que se presente y el que le sirve de antecedente, si esta circunstancia fue objeto de deslinde catastral o se entregue copia del plano o lámina catastral respectiva o levantamiento topográfico suscrito por perito autorizado en la materia y firmado por las partes. En estos supuestos, siempre que en la Escritura Pública de origen, las partes se hubieren obligado expresa y solidariamente a responder por los daños y perjuicios que se pudieren generar a terceros con motivo de la aclaración o corrección de las superficies, medidas o linderos.
+I. Cuando el título presentado no sea de los que deben inscribirse o anotarse;
 
-Tampoco podrá negarse la inscripción por cuestiones de fondo de los actos o títulos que pretendan registrarse.
+II. Cuando el documento no revista las formas extrínsecas que establece la ley;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+III. Cuando los Fedatarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
+
+IV. Cuando el contenido del documento sea contrario a las leyes prohibitivas o de interés público.
+
+V. Cuando haya incompatibilidad entre el texto del documento y los asientos del registro; salvo los casos en que se demuestre la inexactitud registral;
+
+VI. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, excepto en los casos en que por la naturaleza de los bienes o del crédito otorgado no sea factible la individualización o la determinación correspondiente, siempre y cuando se fijen las bases para una u otra, y
+
+VII. Cuando falte algún otro requisito de forma que deba llenar el documento de acuerdo con el Código y otras leyes aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 2896.
 
-En el caso a que se refiere la parte final del primer párrafo del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
-
-Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
+En caso de que el registrador devuelva un documento sin registrar tiene la obligación de hacer una inscripción preventiva, siempre y cuando el solicitante de la inscripción se inconforme con la negativa a su registro, en los términos establecidos en el Reglamento. Lo anterior, con la finalidad de que si la autoridad competente ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
 ###### ARTÍCULO 2897.
 
@@ -14723,13 +14761,11 @@ VII. La fecha del titulo y el funcionario que lo haya autorizado; y
 
 VIII. El día y la hora de la presentación del titulo en el Registro.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 2898.
 
-El Registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados y sufrirá suspensión de empleo hasta por tres meses, salvo en los casos previstos en el segundo párrafo del artículo 2895.
-
-Bajo ningún concepto, el Registrador podrá exigir mayores requisitos, documentos o formalidades que los establecidos en éste Título, la Ley Reglamentaria o las demás leyes aplicables a los actos inscribibles.
+El registrador que haga una inscripción sin cumplir con lo dispuesto en los artículos 2895, 2896 y 2897, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá suspensión de empleo hasta por tres meses.
 
 ###### ARTÍCULO 2899.
 
@@ -14833,6 +14869,8 @@ Las inscripciones pueden cancelarse por consentimiento de las partes o por decis
 
 La cancelación de las inscripciones podrá ser total o parcial.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTÍCULO 2914.
 
 Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
@@ -14843,13 +14881,9 @@ II. Cuando se extinga también por completo el derecho inscrito;
 
 III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
 
-IV. Cuando se declare la nulidad de la inscripción;
+IV. Cuando se declare la nulidad de la inscripción, y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
-
-V. Cuando sea enajenado judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2193; y
-
-VI. Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+V. Cuando sea enajenado judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2193.
 
 ###### ARTÍCULO 2915.
 
@@ -14907,9 +14941,13 @@ Podrán cancelarse parcialmente las inscripciones hipotecarias de que trata, pre
 
 Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por que se hace la cancelación y su fecha.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTÍCULO 2926.
 
-Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+Las inscripciones preventivas, cualquiera que sea su origen caducarán a los tres años de su fecha, salvo aquéllas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que los decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
+
+La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo, en este supuesto, cualquier interesado podrá solicitar al Director del Registro Público de la Propiedad que se registre la cancelación de dicho asiento.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -15154,3 +15192,9 @@ Las presente Ley se publicará en el Periódico Oficial "La Sombra de Arteaga" y
 ###### ARTICULO TERCERO.
 
 Las disposiciones jurídicas que se opongan a la presente, quedan suspendidas mientras dura la vigencia de ésta, a cuyo término recobrarán aquéllas su pleno vigor.
+
+P.O. 26 DE DICIEMBRE DE 1996
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente.
