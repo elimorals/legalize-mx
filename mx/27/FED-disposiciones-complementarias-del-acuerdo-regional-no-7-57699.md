@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-regional-no-7-57699"
 country: "mx"
 rank: "otro"
 publication_date: "1990-08-14"
-last_updated: "1990-08-14"
+last_updated: "1991-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,21 +19,25 @@ issue_date: "1990-08-09"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO REGIONAL NO. 7 (MULTILATERAL, 1988)
 
-DECRETO POR EL QUE SE DISPONE QUE LAS MERCANCIAS QUE SE CITAN, QUE SE IMPORTEN AL AMPARO DEL ACUERDO DE ALCANCE PARCIAL DE COOPERACION DE INTERCAMBIO DE BIENES EN LAS AREAS CULTURAL EDUCACIONAL Y CIENTIFICA, SUSCRITO POR LOS ESTADOS UNIDOS MEXICANOS Y LAS REPUBLICAS DE ARGENTINA, FEDERATIVA DEL BRASIL, COLOMBIA, DEL PERU, ORIENTAL DEL URUGUAY Y VENEZUELA, ESTARAN EXENTAS DEL PAGO DEL IMPUESTO AD-VALOREM ESTABLECIDO EN LA TARIFA DEL IMPUESTO GENERAL DE IMPORTACION
+DECRETO QUE CONTIENE LA ADHESION DE CHILE, ECUADOR Y PARAGUAY AL ACUERDO DE ALCANCE PARCIAL DE COOPERACCION DE INTERCAMBIO DE BIENES ERALAS AREAS CULTURAL, EDUCACIONAL Y CIENTIFICA, DE CONFORMIDAD CON LOS LINEAMIENTOS PREVISTOS EN EL TRATADO DE MONTEVIDEO1980
 
-Decreto publicado en el Diario Oficial de la Federación, el martes 14 de agosto de 1990.
+Decreto publicado en el Diario Oficial de la Federación, el miércoles 25 de septiembre de 1991.
 
-Al margen un sello con el Escudo Nacional, que dice Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un seno con el Escudo Nacional, que dice: Estados Unidos Mexicanos,- Presidencia de la República.
 
-CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en ejercicio de la facultad que confiere al Ejecutivo Federal la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y con fundamento en los artículos 1o. fracción I y 2o. fracción I de la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, a fin de dar cumplimiento a las negociaciones celebradas conforme al Tratado de Montevideo 1980 y atento a lo dispuesto por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, he tenido a bien expedir el siguiente
+CARLOS SAUNAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en ejercicio de la facultad que al Ejecutivo Federal confiere la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 1o., fracción I y 2o., fracción I de la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, a fin de dar cumplimiento a las negociaciones celebradas conforme al Tratado de Montevideo 1980, y
+
+CONSIDERANDO
+
+Que con fechas 31 de agosto, 5 y 22 de noviembre de 1990, los Gobiernos de los Estados Unidos Mexicanos y de las Repúblicas Argentina, Federativa del Brasil, de Colombia, del Perú, Oriental del Uruguay y de Venezuela, suscribieron con los Gobiernos de las Repúblicas del Paraguay, Ecuador y de Chile, respectivamente, los Protocolos de Adhesión de dichas Repúblicas al Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultual, Educacional y Científica, he tenido a bien expedir el siguiente
 
 DECRETO
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. El trato preferencial a que se refiere el ARTICULO PRIMERO de este Decreto podrá aplicarse a las importaciones que se hubiesen efectuado entre el primero de enero de mil novecientos ochenta y nueve y la entrada en vigor del presente Decreto y por un lapso de cinco años, contados a partir del primero de enero de mil novecientos ochenta y nueve.
+Se reforma el primer párrafo del Artículo Primero del Decreto publicado en el Diario Oficial de la Federación el 14 de agosto de 1990, por el que se dispone que las mercancías que se citan en dicho artículo y que se importen al amparo del Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Arcas Cultural, Educacional y Científica, suscrito por los Estados Unidos Mexicanos y las Repúblicas de Argentina, Federativa del Brasil, Colombia, del Perú, Oriental del Uruguay y Venezuela, estarán exentas del pago del impuesto ad-valórem establecido en la Tarifa del Impuesto General de Importación, para quedar como sigue:
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de agosto de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica
+“ARTICULO PRIMERO.- Las mercancías que se citan en la siguiente tabla y que se importen al amparo del Acuerdo de Alcance Parcial de Cooperación de Intercambio de Bienes en las Areas Cultural, Educacional y Científica, suscrito por los Estados Unidos Mexicanos y las Repúblicas Argentina, Federativa del Brasil, de Colombia, de Chile, del Ecuador, del Paraguay, del Perú, Oriental del Uruguay y de Venezuela, Cuando sean originarias y procedentes de dichos países, estarán exentas del pago de impuesto ad-valórem establecido en la Tarifa de la Ley del Impuesto General de Importación:
 
 ###### ARTICULO PRIMERO.
 
@@ -429,4 +433,10 @@ sus partes.
 
 Las mercancías que se citan en el ARTICULO PRIMERO, de este Decreto, estarán exoneradas totalmente de restricciones no arancelarias aplicadas a la importación, siempre y cuando estén certificadas por las autoridades competentes del país de origen, de que se trata de material y elementos culturales, educativos y científicos, obras de arte, objetos de colección o antigüedades.
 
-## TRANSITORIO
+## TRANSITORIOS
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La exención del pago del impuesto ad-valórem a que hace referencia el Artículo Primero del Decreto que se reforma, podrá aplicarse a las mercancías originarias y procedentes de las Repúblicas del Paraguay, Ecuador y de Chile, que se hubiesen importado de dichas Repúblicas a partir del 31 de agosto, 5 y 22 de noviembre de 1990, respectivamente, cuando el importador opte por dicha preferencia.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de septiembre de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.
