@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2002-02-21"
+last_updated: "2003-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 2002.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -859,9 +859,13 @@ Generalidades
 
 (DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE FEBRERO DE 2000)
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 2/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE FEBRERO DE 2003)</small>
+
 ###### Artículo 69.
 
-Los Secretarios Ejecutivos deberán ser mayores de treinta y cinco años de edad; tener experiencia mínima de cinco años en la carrera judicial, excepto en el caso del Secretario Ejecutivo de Administración; tener título profesional, expedido legalmente, afín a las funciones que deban desempeñar; gozar de buena reputación; y, no haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año. La afinidad a que se refiere el párrafo anterior, en el caso de los Secretarios Ejecutivos del Pleno y Carrera Judicial y de Disciplina consistirá en tener título profesional de Licenciado en Derecho y en el caso del Secretario Ejecutivo de Administración, de licenciado en Derecho, Contador Público, Administrador de Empresas, Financiero, Economista, Arquitecto, Ingeniero Civil, o algún otro inherente a sus funciones.
+Los Titulares de las Secretarías Ejecutivas deberán ser mayores de treinta y cinco años; tener experiencia profesional mínima de cinco años; tener título profesional, expedido legalmente, afín a las funciones que deban desempeñar; gozar de buena reputación; y, no haber sido condenados por delito doloso con sanción privativa de libertad mayor de un año.
+
+La afinidad a que se refiere el párrafo anterior, en el caso de los Titulares de las Secretarías Ejecutivas del Pleno, de Carrera Judicial, Adscripción y Creación de Nuevos Organos y de Disciplina, consistirá en tener título profesional de licenciado en Derecho; y en el caso de los Titulares de las Secretarías Ejecutivas de Administración, de Finanzas y de Vigilancia, Información y Evaluación, el título deberá ser de Licenciatura en Derecho, Contaduría Pública, Administración de Empresas, Finanzas Públicas, Economía, Arquitectura, Ingeniería Civil, o algún otro inherente a sus funciones.
 
 ###### Artículo 70.
 
@@ -1583,7 +1587,7 @@ El Pleno podrá acordar la publicación de una memoria de la labor desempeñada 
 
 ### Capítulo III. De los Secretarios y Actuarios
 
-> <small>(REFORMADO POR EL ACUERDO GENERAL 1/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO POR EL ACUERDO GENERAL 1/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
 
 ###### Artículo 135.
 
@@ -2435,6 +2439,12 @@ CUARTO.- Se derogan, en lo conducente, los Acuerdos y Circulares emitidos por el
 
 QUINTO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
+D.O.F. 29 DE MARZO DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
 D.O.F. 6 DE JULIO DE 2000.
 
 ACUERDO GENERAL 36/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMA EL ARTICULO 144.
@@ -2442,12 +2452,6 @@ ACUERDO GENERAL 36/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL Q
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
-
-D.O.F. 29 DE MARZO DE 2000.
-
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 6 DE JULIO DE 2000.
 
@@ -2470,6 +2474,12 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 21 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE FEBRERO DE 2003.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
