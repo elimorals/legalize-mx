@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-21977"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2003-12-31"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el viernes 29 de junio de 2001.
 
@@ -1285,6 +1285,14 @@ V. Incentivos por Derechos Derivados del Uso o Goce de la Zona Federal Marítimo
 
 VI. Incentivos por Convenios Administrativos Federales.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+VII. Multas Administrativas Federales no Fiscales.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+
+VIII. Impuesto Sobre la renta por Enajenación de Bienes Muebles e Inmuebles.
+
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ## TÍTULO OCTAVO
@@ -1486,3 +1494,13 @@ B.O. 31 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día 01 de enero del año 2004, a excepción del artículo séptimo transitorio a que se refiere el Artículo Primero de este Decreto, mismo que entrará en vigor a partir del día primero de abril de dos mil cinco.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+La Ley de Ingresos del Gobierno del Estado de Baja California Sur, estará en vigor del periodo comprendido del primero de Enero al treinta y uno de Diciembre del 2005, previa publicación en el Boletín Oficial del Gobierno del estado de Baja California Sur.
