@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "1997-01-29"
+last_updated: "2000-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:18 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -99,9 +99,11 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 Cuando la Comisión Estatal de Derechos Humanos detecte actos u omisiones que ameriten ser sancionados en los términos de esta Ley, lo hará del conocimiento de las Autoridades Competentes, para la aplicación de las sanciones correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 6°.
 
-El Consejo Estatal para la Coordinación de Seguridad Pública promoverá la creación, en el ámbito de su competencia, de los órganos y sistemas correspondientes para substanciar el procedimiento de responsabilidad administrativa y para la aplicación de sanciones a los miembros de las instituciones policiacas y de tránsito, en los términos de esta Ley.
+En la Ley del Sistema de Seguridad Pública del Estado de Nuevo León, se establecerán los órganos estatales y municipales competentes para substanciar el procedimiento de responsabilidad administrativa y para la aplicación de sanciones a los miembros de las instituciones policiacas y de tránsito, en los términos de esta Ley.
 
 Los órganos previstos en el párrafo anterior remitirán a la Secretaría copia de las resoluciones mediante las cuales se impongan sanciones por responsabilidad administrativa, a efecto de inscribirlas en el registro de Servidores Públicos Sancionados e Inhabilitados.
 
@@ -1152,3 +1154,19 @@ JUAN FRANCISCO RIVERA BEDOYA
 EL C. SECRETARIO DE LA CONTRALORIA GENERAL DEL ESTADO
 
 OSCAR ADAME GARZA
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 18 DE OCTUBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor 30-treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 19 de enero de 1983 y sus reformas, así como cualquiera otras disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley, dentro de un plazo no mayor a ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de este Decreto.
