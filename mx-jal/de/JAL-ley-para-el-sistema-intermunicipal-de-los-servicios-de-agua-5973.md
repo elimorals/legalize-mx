@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-sistema-intermunicipal-de-los-servicios-de-agua-597
 country: "mx"
 rank: "ley"
 publication_date: "1978-04-20"
-last_updated: "1981-01-06"
+last_updated: "1981-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA ZONA METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 20 de abril de 1978.
 
@@ -139,67 +139,71 @@ Artículo 8° Los ingresos que perciba "El Sistema", se destinarán, en primer l
 
 ### CAPITULO TERCERO. DE LA ADMINISTRACION DEL "SISTEMA"
 
-Artículo 9° El Presidente del Consejo de Administración del "Sistema", será el ejecutor de los acuerdos del Consejo y el superior jerárquico de las Gerencias Especiales, con las funciones que le asignen esta Ley y el Reglamento Interior, así como las que le sean delegadas en los términos de los artículos 2474 y 2475 del Código Civil del Estado, las que podrán ser desempeñadas por sí o través de la persona que estime conveniente.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1981)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
-
-Artículo 9° El Presidente del Consejo de Administración del "Sistema", será el ejecutor de los acuerdos del Consejo y el superior jerárquico del Director General, y de las Gerencias Especiales. El Director General que será nopmbrado por el Gobernador del Estado, tendrá las siguientes obligaciones y atribuciones:
+Artículo 9° El Presidente del Consejo de Administración del "Sistema", será el ejecutor de los acuerdos del Consejo y el superior jerárquico del Director General, y de las Gerencias Especiales. Podrá auxiliarse de los servicios del Control General para ejercer su supervisión. Será atribución del Presidente nombrar a los Gerentes, Contralor, Superintendentes, Jefes y Subjetes de Oficinas y Secciones, Auditores, Contadores y Ayudantes y demás personal de confianza. El Director General, que será nombrado por el Gobernador del Estado, tendrá las siguientes obligaciones y atribuciones:
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
 
-I. Ejecutar los acuerdos del Consejo, bajo el control de su Presidente.
+I. Ejecutar los acuerdos del Consejo, bajo el control de su Presidente;
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
 
-II. Representar al "Sistema" ante las autoridades Administrativas, Judiciales y del Trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley. Estará investido de poder general para pleitos y cobranzas y para actos de administración; podrá otorgar y suscribir títulos de créditos a nombre del "Sistema" con firma mancomunada del Presidente del Consejo, salvo en el caso de los créditos a que se refiere el Articulo 6°. Fracción XIII, y celebrar y firmar los contratos que apruebe el Consejo, ejerciendo aquellas facultades de dominio que expresa y específicamente autorice el Consejo. Podrá otorgar poderes generales o especiales para pleitos y cobranzas y revocarlos.
+II. Representar al "Sistema" ante las autoridades Administrativas, Judiciales y del Trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley. Estará investido de poder general para pleitos y cobranzas y para actos de administración; podrá otorgar y suscribir títulos de créditos a nombre del "Sistema" con firma mancomunada del Presidente del Consejo, salvo en el caso de los créditos a que se refiere el Articulo 6°. Fracción XIII, y celebrar y firmar los contratos que apruebe el Consejo, ejerciendo aquellas facultades de dominio que expresa y específicamente autorice el Consejo. Podrá otorgar poderes generales o especiales para pleitos y cobranzas y revocarlos;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1981)</small>
+
+III. Formular el balance anual con intervención del Contralor General y presentarlo a la consideración del Consejo de Administración;
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
 
-III. Formular el balance anual y presentarlo a la consideración del Consejo de Administración.
+IV. Informar al Consejo el estado de la contabilidad y el movimiento financiero;
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
 
-IV. Informar al Consejo el estado de la contabilidad y el movimiento financiero.
+V. Someter a la decisión del Consejo todos aquellos asuntos que sean de la exclusiva competencia de éste;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1981)</small>
 
-V. Someter a la decisión del Consejo todos aquellos asuntos que sean de la exclusiva competencia de éste.
+VI. Nombrar y remover al personal de base en los términos de Ley, exigiendo cuando lo estime conveniente que el mismo caucione su manejo. Los nombramientos deberán ser sometidos a la aprobación del Presidente previa la certificación de su procedencia por el Contralor General.
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
-
-VI. Nombrar y remover al personal en los términos de Ley, exigiendo cuando lo estime conveniente que el mismo caucione su manejo.
-
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1981)</small>
 
 Las relaciones de trabajo entre el "Sistema" y sus trabajadores de base se regirán por la Ley para los Servidores Públicos del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1981)</small>
 
-Las relaciones de trabajo entre el "Sistema" y sus trabajadores de confianza se regirán por el Reglamento del Artículo 69 de la Ley Orgánica del Poder Ejecutivo y para tales efectos se tendrá como funcionarios y empleados de confianza a los siguientes: el Presidente y Director, los Titulares de las Gerencias Especiales, los Superintendentes, Jefes y Sub-Jefes de Departamento, los Jefes y Sub-Jefes de Oficinas y Secciones, los Auditores y Contadores y Ayudantes, Secretarias y Choferes al servicio directo del Director, Gerentes y Jefes de Departamento, así como aquellos que tengan a su cargo labores de inspección, vigilancia y manejo de dinero.
+Los sueldos del personal del "Sistema" guardarán el justo y debido equilibrio con los sueldos del personal del resto del Sector Público.
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1981)</small>
 
-VII. Realizar todos los actos encaminados directa o indirectamente al mejor funcionamiento de los servicios públicos cuya administración y manejo correspondan al "Sistema" de conformidad con esta Ley y las disposiciones que establezcan los Reglamentos respectivos.
+Las relaciones de trabajo entre el "Sistema" y sus trabajadores de confianza se regirán por el Reglamento del Artículo 69 de la Ley Orgánica del Poder Ejecutivo y para tales efectos se tendrá como funcionarios y empleados de confianza a los siguientes: el Presidente y Director, Contralor General, los titulares de las Gerencias Especiales, los superintendentes, Jefes y Subjefes de Departamento, los Jefes y Sub-Jefes de Oficinas y Secciones, los Auditores, Contadores y Ayudantes, Secretarias y Choferes al servicio directo del Presidente y del Director, Gerentes y Jefes del Departamento así como aquellos que tengan a su cargo labores de inspección, vigilancia y manejo de dinero;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1981)</small>
 
-VIII. Expedir los instructivos y manuales a los que deberán sujetarse los usuarios para la obtención de los servicios prestados por el "Sistema".
-
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
-
-IX. Someter a la consideración del Consejo los anteproyectos de reglamentos referentes a las modalidades del servicio.
+VII. Realizar todos los actos encaminados directa o indirectamente al mejor funcionamiento de los servicios públicos cuya administración y manejo correspondan al "Sistema", de conformidad con esta Ley y las disposiciones que establezcan los Reglamentos respectivos. Sólo podrá tramitar las adquisiciones a través de la Proveeduría General del Estado y los contratos de obras con los contratistas registrados en el Departamento de Obras Públicas del Estado, debiendo obtener cotizaciones previas. No podrán ser proveedores ni contratistas del "Sistema" las empresas administradas por o en las que tengan cualquier clase de interés los funcionarios del Consejo, el director, los gerentes o los funcionarios y empleados del "Sistema", sus cónyuges, ascendientes, descendientes sin limitación de grado, los colaterales y afines hasta el cuarto grado, siendo causa de responsabilidad la violación de esta norma;
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
 
-X. Dentro de sus facultades, realizar los actos de administración que le encomienden el Consejo o el Presidente.
+VIII. Expedir los instructivos y manuales a los que deberán sujetarse los usuarios para la obtención de los servicios prestados por el "Sistema";
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
+
+IX. Someter a la consideración del Consejo los anteproyectos de reglamentos referentes a las modalidades del servicio;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
+
+X. Dentro de sus facultades, realizar los actos de administración que le encomienden el Consejo o el Presidente; y
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 1981)</small>
 
 XI. Las demás que le correspondan de acuerdo con esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 10.
 
-Para la mejor Administración del Organismo, serán designados: Tres Gerentes Especiales con la siguiente denominación:
+Para la mejor administración del Organismo, serán designados: Un contralor general, y tres gerentes especiales con la siguiente denominación:
 
 a).Gerente Técnico;
 
@@ -254,6 +258,36 @@ III. Las que específicamente se le atribuyan en el Reglamento o reglamentos que
 IV. Además, todas aquellas que desde el punto de vista administrativo le correspondan y las que le sean
 
 delegadas por el Consejo de Administración "Del Sistema" por su Presidente.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1981)</small>
+
+###### Artículo 13 Bis.
+
+El contralor general tendrá las siguientes obligaciones y atribuciones:
+
+I. Coordinar las funciones de carácter contable y administrativas del Organismo, así como las de Tesorería y Auditoría Interna del mismo;
+
+II. Implantar y supervisar todos los registros y procedimientos contables del "Sistema" así como los métodos, informes, registros y procedimientos de oficinas y de personal;
+
+III. Librar cheques mancomunadamente con el Director General y/o gerente administrativo;
+
+IV. Intervenir, conjuntamente con los gerentes, en la elaboración del anteproyecto de egresos y entregarlo al Presidente del H. Consejo de Administración para los efectos del Artículo 6°., Fracción I de esta Ley;
+
+V. Formular e interpretar conjuntamente con el Departamento de Contabilidad los estados financieros e informes estadísticos del Organismo, analizarlos y presentarlos a la consideración del H. Consejo de Administración por conducto de su Presidente;
+
+VI. Recopilar los costos de distribución de agua y medidores;
+
+VII. Realizar y valorar los inventarios físicos;
+
+VIII. Ver que todas las prioridades del "Sistema" estén debidamente registradas;
+
+IX. Vigilar que las transacciones financieras asentadas en las actas del Consejo de Administración, se hayan realizado en los términos ordenados y se hayan registrado de manera adecuada;
+
+X. Mantener el registro de todos los contratos del "Sistema";
+
+XI. Aprobar el pago o refrendo de todos los cheques, pagarés y otros documentos negociables del "Sistema" que hayan sido firmados por aquellos Funcionarios autorizados para ello o por los que designe el consejo de Administración; y
+
+XII. Comparecer ante las Autoridades gubernamentales cuando le sea ordenado por el Presidente del Consejo y supervisar todos los asuntos concernientes al cumplimiento de las obligaciones fiscales del Organismo.
 
 ### CAPITULO CUARTO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -348,3 +382,9 @@ P.O. 6 DE ENERO DE 1981
 Primero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Segundo.- Este Decreto comenzará a surtir sus efectos el día siguiente de su publicación enel Periódico Oficial El Estados de Jalisco.
+
+P.O. 17 DE DICIEMBRE DE 1981
+
+Artículo Primero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Segundo.- Este Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
