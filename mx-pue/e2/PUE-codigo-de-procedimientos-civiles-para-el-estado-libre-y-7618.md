@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1991-07-26"
+last_updated: "1992-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1992.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -6339,7 +6339,9 @@ I.- El Juez oirá a los interesados en una junta en la que recibirá las pruebas
 
 II.- Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación al Juez del Registro del Estado Civil;
 
-III.- Si la resolución niega suplir el consentimiento, el Juez remitirá de oficio, el expediente a la Sala de lo Familiar del Tribunal Superior de Justicia, la que oyendo a los interesados dentro de tres días, resolverá confirmando, modificando o revocando esa resolución.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1992)</small>
+
+III.- Si la resolución niega suplir el consentimiento, el Juez remitirá de oficio, el Expediente a la Sala Civil correspondiente, del Tribunal Superior de Justicia, la que oyendo a los interesados dentro de tres días, resolverá confirmando, modificando o revocando esa resolución.
 
 ###### Artículo 1112.
 
@@ -8560,5 +8562,9 @@ P.O. 4 DE DICIEMBRE DE 1990.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE JULIO DE 1991.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 1992.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
