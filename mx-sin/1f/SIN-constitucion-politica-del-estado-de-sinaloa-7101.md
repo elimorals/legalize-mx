@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1994-04-20"
+last_updated: "1994-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -213,9 +213,9 @@ El territorio del Estado, se divide política y administrativamente como sigue:
 
 I. En 18 Municipalidades autónomas a saber: Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-II. En los Distritos Judiciales que determine la Ley Orgánica del Poder Judicial del Estado.
+II. En los Circuitos y Distritos Judiciales que determine la Ley Orgánica del Poder Judicial del Estado;
 
 III. En los Distritos fiscales que la Ley General de Hacienda del Estado determine, pudiendo comprender cada uno de ellos, una o más Municipalidades enteras.
 
@@ -1027,7 +1027,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 90.
 
@@ -1049,53 +1049,61 @@ El Estado y los particulares podrán impartir la educación en todos sus tipos y
 
 ### CAPITULO IV. PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 93.
 
-El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia, los Juzgados de Primera Instancia y los Juzgados Menores. Los Tribunales gozarán de independencia en el ejercicio de sus funciones.
+El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia, las Salas de Circuito, los Juzgados de Primera Instancia y los Juzgados Menores.
 
-Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+Esta Constitución garantiza la independencia e inamovilidad de los Magistrados del Supremo Tribunal de Justicia, Magistrados de Circuito y Jueces en el ejercicio de sus funciones. La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, capacitación, actualización y permanencia de quienes sirvan al Poder Judicial del Estado, su capacitación será permanente y se desarrollará a través de un organismo encargado para ello.
 
-#### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
+Los Magistrados del Supremo Tribunal de Justicia, los Magistrados de Circuito y los Jueces percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante sus encargos.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+#### SECCION II. DE LAS SALAS DE CIRCUITO
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se compondrá de once Magistrados Propietarios y funcionará en Pleno y dividido en cuatro Salas. Una de las Salas será unitaria, y las otras se integrarán por tres Magistrados cada una. Uno de los Magistrados, quien no integrará las Salas será el Presidente del Supremo Tribunal. Habrá además cinco Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario.
+El Supremo Tribunal de Justicia se integrará de once Magistrados Propietarios y funcionará en Pleno o en Salas. Las Salas serán competentes para conocer de los recursos que procedan en contra de sentencias definitivas y de los demás asuntos que establezca la ley.
 
-Los Magistrados del Supremo Tribunal serán electos por el Congreso o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
+Uno de los Magistrados será el Presidente del Supremo Tribunal de Justicia, quien será nombrado en los términos que establezca la ley para el efecto, no integrando Sala durante su encargo.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+Habrá además cinco Magistrados Suplentes quienes sólo integrarán el Pleno o las Salas cuando sustituyan a un Magistrado Propietario.
+
+Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 95.
 
-Los Magistrados del Supremo Tribunal de Justicia sólo podrán ser privados de sus cargos conforme a las causas y procedimientos contenidos en esta Constitución.
+Los Magistrados del Supremo Tribunal de Justicia, sólo podrán ser privados de sus cargos conforme a las causas y con sujeción a los procedimientos previstos en esta Constitución.
+
+Los Magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria.
 
 Son causas de retiro forzoso:
 
-I.- Haber cumplido 75 años de edad.
+I. Haber cumplido 70 años de edad, y
 
-II.- Padecer incapacidad física incurable o mental, incluso cuando ésta fuese parcial o transitoria.
+II. Padecer incapacidad física o mental incurables, incluso cuando ésta fuere parcial o transitoria.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario, los beneficios que tendrá el Magistrado que se retire forzosa o voluntariamente y el procedimiento que deberá seguirse para la formulación del dictamen, el cual se pondrá en conocimiento del Congreso del Estado o de la Diputación Permanente, para los efectos de su aprobación.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 96.
 
-Para ser Magistrado del Supremo Tribunal de Justicia, se requiere:
+Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; debiendo reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento y sinaloense, en el pleno ejercicio de sus derechos.
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-II. No tener más de 65 años de edad, ni menos de 35 al día de la elección.
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco al día de su nombramiento;
 
-III. Contar con título profesional de Licenciado en Derecho y 5 años cuando menos de práctica profesional.
+III. Poseer con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello;
 
-IV. Ser de notoria buena conducta.
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad por más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-V. No haber sido condenado por la comisión de un delito intencional que hubiera merecido pena corporal, y
-
-VI. Haber residido en el Estado durante los últimos 5 años, salvo el caso de ausencia en servicio de la República o el Estado, por un tiempo menor de 6 meses.
+V. Haber residido en el Estado de Sinaloa durante los últimos cinco años, salvo en caso de ausencia en servicio de la República o del Gobierno del Estado, por un tiempo menor de seis meses.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
@@ -1103,29 +1111,37 @@ VI. Haber residido en el Estado durante los últimos 5 años, salvo el caso de a
 
 Se instituye el Consejo de la Judicatura. La Ley Orgánica establecerá su organización, el régimen de incompatibilidadades (sic) de sus miembros y sus funciones, en particular en materia de capacitación, nombramientos, ascensos, inspección y régimen disciplinario, con el objeto de asegurar la independencia, eficacia, disciplina y decoro de los Tribunales y de garantizar a los Magistrados y Jueces, los beneficios de la carrera Judicial.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 98.
 
-Los Magistrados del Supremo Tribunal de Justicia podrán obtener licencia sin goce de sueldo por una sola vez, hasta por el término de 6 meses. De igual derecho gozarán los Jueces de Primera Instancia que sean llamados para substituirlos.
+Los Magistrados del Supremo Tribunal de Justicia podrán obtener licencia, sin goce de sueldo, por una sola vez, hasta por el término de seis meses. De igual derecho gozarán los Magistrados de Circuito y los Jueces de Primera Instancia que sean llamados para substituirlos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 99.
 
-Las faltas absolutas de los Magistrados Propietarios se cubrirán provisionalmente por los Suplentes, según lo determine el Supremo Tribunal de Justicia, mientras el Congreso del Estado hace una nueva elección y toma posesión el electo. Si el Congreso no estuviere reunido, la Diputación Permanente hará en cada caso un nombramiento provisional, en tanto se reúne aquél y hace la elección correspondiente.
+Las faltas absolutas de los Magistrados Propietarios del Supremo Tribunal de Justicia se cubrirán provisionalmente por los Suplentes, según lo determine el propio Tribunal, mientras que se hace una nueva elección en la forma que establece esta constitución y toma posesión el electo.
 
-Los magistrados propietarios serán sustituidos en sus faltas temporales que excedan de quince días por los Magistrados suplentes en los términos del párrafo anterior. Si las faltas no exceden de este término, o en los casos de recusación o excusa, serán cubiertos en una Sala por los Magistrados de las otras, según el turno que corresponda y en el pleno, sólo serán constituidos por los Magistrados suplentes, cuando por motivo de la falta o del impedimento no se obtenga mayoría de votos por lo menos, en la resolución de un determinado negocio.
+Dichos Magistrados serán sustituidos en sus faltas temporales que excedan de quince días por los Magistrados Suplentes en los términos del párrafo anterior. Si las faltas no exceden de ese término, o en los casos de recusación o excusa, serán cubiertos en una Sala por los Magistrados de otra, según el turno que corresponda, y en el Pleno sólo serán sustituidos por los Magistrados Suplentes cuando por motivo de la falta o del impedimento no se obtenga mayoría de votos, por lo menos, en la resolución de un determinado negocio.
 
-Si no fuera posible integrar el pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados llamados conforme a los párrafos anteriores de este artículo el Congreso del Estado, o la Diputación Permanente en su caso, nombrará los Magistrados Interinos que sean necesarios.
+Si no fuera posible integrar el Pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados Suplentes llamados conforme a los párrafos anteriores de este artículo, el Congreso del Estado o la Diputación Permanente, en su caso, nombrará los Magistrados Interinos que sean necesarios.
+
+Las ausencias de cualquier índole de los Magistrados de Circuito serán cubiertas por el Secretario de la Sala de Circuito que corresponda, en tanto que el Supremo Tribunal de Justicia hace el nombramiento conducente.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 100.
 
-El cargo de Magistrado del Supremo Tribunal de Justicia del Estado, sólo es renunciable por causa grave, calificada por el Congreso ante el que se presentará la renuncia. En los recesos de éste, la calificación se hará por la Diputación Permanente.
+El cargo de Magistrado del Supremo Tribunal de Justicia será renunciable, en cualquier tiempo, por causa grave que calificará el Congreso, ante el que se presentará la renuncia. En los recesos de éste, la calificación se hará por la Diputación Permanente.
+
+Igualmente será renunciable el cargo de Magistrado de Circuito ante el Supremo Tribunal de Justicia, quien resolverá lo procedente.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 101.
 
-Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Supremo Tribunal de Justicia; pero las que excedan de ese tiempo, las concederá el Congreso, o en su defecto, la Diputación Permanente.
+Las licencias de los Magistrados del Supremo Tribunal de Justicia serán concedidas por el propio Tribunal cuando no excedan de un mes, en tanto que las que excedan de ese tiempo las concederá el Congreso, o en su defecto, la Diputación Permanente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1151,31 +1167,49 @@ III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Prime
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 104.
 
-La Ley Orgánica del Poder Judicial reglamentará el funcionamiento del Pleno y de las Salas del Supremo Tribunal de Justicia y de los Juzgados, conforme a las bases fijadas en esta Constitución, correspondiendo exclusivamente al Supremo Tribunal en PLENO:
+La Ley Orgánica del Poder Judicial reglamentará la integración y el funcionamiento del Pleno, de las Salas del Supremo Tribunal de Justicia, de las Salas de Circuito y de los Juzgados conforme a las bases fijadas en esta Constitución, correspondiendo exclusivamente al Supremo Tribunal de Justicia en Pleno:
 
-I. Conocer como jurado de sentencia en el juicio politico instaurado contra los servidores públicos señalados en el Título VI de esta Constitución.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+
+I. Conocer como jurado de sentencia en el juicio político instaurado contra los servidores públicos señalados en el Título VI de esta Constitución.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 II. Resolver, como jurado de sentencia, de las acusaciones penales formuladas por la Legislatura Local en contra del Gobernador del Estado, por la comisión de delitos.
 
-III. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+
+III. Conocer y resolver las controversias de cualquier orden que se susciten, entre los Poderes del Estado, entre uno o más Poderes del Estado, y los Ayuntamientos, o entre éstos entre sí.
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 IV. Conocer de las competencias que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos distritos judiciales;
 
-V. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sean absolutas, temporales o relativas a determinado negocio, conforme al Artículo 94;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+V. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sean absolutas, temporales o relativas a determinado negocio conforme al Artículo 94;
 
-VI. Nombrar a los Jueces, Secretarios, Actuarios y demás servidores públicos subalternos del Supremo Tribunal, de las Salas y de los Juzgados;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-VII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial;
+VI. Nombrar a los Magistrados de Circuito, Jueces, Secretarios, Actuarios y demás servidores públicos integrantes del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+VII. Determinar el número de Salas de Circuito que deberá haber en el Estado, el lugar de su residencia, las materias que conozcan y el límite de su competencia territorial, así como determinar el número de Juzgados de Primera Instancia y las materias de que estos conozcan de conformidad con la Ley Orgánica del Poder Judicial del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 VIII. Nombrar cuando lo estime conveniente, Visitadores de Juzgados;
 
-IX. Expedir los Reglamentos Internos del Supremo Tribunal y de los Juzgados, y,
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IX. Expedir los reglamentos internos del Supremo Tribunal, de las Salas de Circuito y de los Juzgados;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 X. Las demás que le confieran las leyes.
 
@@ -1183,9 +1217,33 @@ X. Las demás que le confieran las leyes.
 
 El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen, de preferencia a las leyes secundarias aunque éstas sean posteriores.
 
-#### SECCION III. DEL JURADO DE RESPONSABILIDADES
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+#### SECCION III. DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
+###### Art. 105 Bis.
+
+Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de resoluciones distintas de sentencias definitivas, así como de los demás asuntos que prevenga la ley.
+
+Los Magistrados de Circuito serán nombrados por el Pleno del Supremo Tribunal de Justicia, preferentemente entre quienes hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que así lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, debiendo reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+II. No tener más de cincuenta y cinco años de edad, ni menos de treinta al día de su nombramiento;
+
+III. Poseer con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello y cuatro años cuando menos, de práctica profesional;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad por más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+V. Haber residido en el Estado de Sinaloa durante los últimos cinco años, salvo en caso de ausencia en servicio de la República o del Gobierno del Estado, por un tiempo menor de seis meses.
+
+Los Magistrados de Circuito sólo podrán ser privados de sus cargos conforme a las causas y procedimientos contenidos en esta Constitución.
+
+Las Salas del Supremo Tribunal de Justicia de oficio, o a petición fundada de las Salas de Circuito o del Procurador General de Justicia podrán conocer de los asuntos de competencia de las Salas de Circuito cuando por sus características especiales, su trascendencia o importancia así lo ameriten.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 106.
 
@@ -1215,7 +1273,7 @@ En cada una de las Cabaceras (sic) de los Distritos Judiciales, a que se refiere
 
 En el Distrito Judicial en que esté ubicada la Penitenciaría del Estado, el Juzgado o los Juzgados de Primera Instancia con jurisdicción en el Ramo Penal del Propio Distrito, residirán en el mismo lugar en que se encuentre dicho establecimiento penitenciario.
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
 
 ###### Art. 109.
 
@@ -1243,7 +1301,7 @@ Se instituye la Jurisdicción Administrativa para conocer de las controversias q
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
@@ -1511,7 +1569,7 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 ###### Art. 132.
 
-Podrán ser sujetos de juicio Político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del Artículo 130, así como los Presidentes Municipales y Regidores de los Ayuntamientos.
+Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del Artículo 130, así como los Presidentes Municipales y Regidores de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1639,9 +1697,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes servido
 
 (3).- A los titulares de las Entidades de la Administración Pública Estatal y Paraestatal, al Procurador General de Justicia y al Recaudador de Rentas con residencia en la Capital del Estado, les tomará la protesta el Ciudadano Gobernador y ellos a su vez, a los demás servidores públicos de sus dependencias que residen en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-(4).- A los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas, así como a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto cuerpo, ante el Tribunal en Pleno. A los Jueces Menores les tomará la protesta el de Primera Instancia de su Jurisdicción.
+(4).- A los Magistrados, los Secretarios y demás servidores públicos de las Salas de Circuito; a los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas; así como a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto cuerpo, ante el Tribunal en Pleno. A los Jueces Menores les tomará la protesta el de Primera Instancia de su Jurisdicción.
 
 > <small>(REFORMADO, P.O. 01 DE ABRIL DE 1992)</small>
 
@@ -2512,3 +2570,13 @@ DECRETO No. 316 POR EL QUE SE REFORMAN LOS ARTICULOS 43 FRACCION XXIII, 65 FRACC
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicaciónn (sic) en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE SEPTIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Dentro de los seis meses siguientes a partir de la vigencia de estas reformas y adiciones, se expedirá una Ley Orgánica del Poder Judicial que reglamente integralmente sus disposiciones constitucionales; mientras tanto, se seguirán aplicando las disposiciones legales de la actual Ley Orgánica vigente.
