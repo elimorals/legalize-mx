@@ -4,7 +4,7 @@ identifier: "ZAC-ley-genenral-de-coordinacion-del-estado-de-zacatecas-y-8216"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "1996-12-28"
+last_updated: "2005-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY GENERAL DE COORDINACION DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION HACENDARIA PARA EL ESTADO DE ZACATECAS, PUBLICADA EN EL PERIODICO OFICIAL EL 1 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial el 4 de febrero de 1984.
 
@@ -242,3 +244,19 @@ P.O. 28 DE DICIEMBRE DE 1996
 Los ingresos adicionales producto del crecimiento del 2% al que se hace referencia en el Artículo Décimo Segundo, que corresponden al Fondo único de Participaciones a los Municipios, podrán destinarse preferentemente a los programas de obra pública; infraestructura productiva y desarrollo social, así como de seguridad pública que el municipio convenga, en el marco del Convenio de Desarrollo Social Municipal, con el Ejecutivo del Estado.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 1 DE ENERO DE 2005.
+
+PRIMERO.- Esta ley entrará en vigor el día primero de enero del año dos mil cinco.
+
+SEGUNDO.- Se abroga la Ley General de Coordinación del Estado de Zacatecas y sus Municipios, contenida en el Decreto número 58, expedido por la LI Legislatura y publicado en el Periódico Oficial, Órgano del Gobierno del Estado número 10 de fecha primero de enero de 1984, así como las demás disposiciones legales que se opongan al contenido de la presente Ley.
+
+TERCERO.- Aplicada la fórmula para el ejercicio fiscal 2005 en los términos de la presente Ley, aquellos Municipios que les corresponda en términos nominales un importe menor al que les hubiere correspondido para el presupuesto de egresos del ejercicio fiscal 2004 se les otorgará, por única vez, un apoyo compensatorio conformado de la siguiente manera:
+
+1.- Se aplicarán los 7.5 millones de pesos establecidos en el Fondo de Erogaciones Contingentes, previstos en la fracción V y párrafo primero del artículo 31 del Decreto que autoriza el Presupuesto de Egresos del Estado de Zacatecas, para el ejercicio fiscal del año 2005;
+
+2.- Los Municipios que con motivo de la aplicación de la presente Ley, resulten con incremento en sus participaciones, aportarán de manera proporcional a su ingreso adicional, la cantidad necesaria para cubrir el 50% del importe total nominal de los decrementos, una vez aplicados los recursos señalados en el punto inmediato anterior; y el resto lo asumirán los municipios afectados.
+
+CUARTO.- En cuanto al Municipio de Santa María de la Paz, le serán aplicables las disposiciones contenidas en la presente Ley a partir del ejercicio que genere su propia estadística de ingresos propios. Para el ejercicio fiscal 2005 se tomarán en cuenta la proporción directa que corresponda a los habitantes que lo conforman con respecto del Municipio del que formaba parte, así como la superficie territorial y el número de comunidades, con respecto a los ingresos, esto se determinará con la ponderación de la población, el territorio y las localidades.
+
+QUINTO.- El Ejecutivo del Estado emitirá el Reglamento de la Ley, en un término máximo de 90 días naturales, contados a partir de la fecha en que entre en vigor el presente ordenamiento legal.
