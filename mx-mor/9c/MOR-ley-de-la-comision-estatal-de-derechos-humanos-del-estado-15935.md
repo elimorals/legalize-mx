@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-15935
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-09"
-last_updated: "2000-02-09"
+last_updated: "2004-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de febrero de 2000.
 
@@ -35,7 +35,7 @@ Que el H: Congreso del Estado, se ha servido enviarme para su promulgación lo s
 
 LA HONORABLE CUADRAGÉSIMA SÉPTIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULO (SIC) 40 FRACCIÓN II Y 85-C DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, Y
 
-CONSIDERACIONES
+C O N S I D E R A C I O N E S
 
 1.- La actualización de nuestro marco jurídico no obedeció a conductas protagónicas ni responde a ejercer el derecho de iniciación sólo por imagen y promoción política; se sustentó en la responsabilidad que adquirimos desde el inicio de esta Legislatura y como respuesta formal al voto de confianza que la ciudadanía nos depositó.
 
@@ -135,9 +135,11 @@ IV.- Consultas por autoridades, particulares u otras entidades, sobre la interpr
 
 ### CAPÍTULO SEGUNDO. DEL NOMBRAMIENTO Y FACULTADES DEL CONSEJO DE LA COMISIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+
 ###### ARTÍCULO 8.
 
-Para apoyar y orientar al Presidente en el ejercicio de sus funciones y responsabilidades, la Comisión contará con un Consejo Consultivo integrado por diez ciudadanos que gocen de reconocido prestigio en la sociedad, siendo parte del mismo el Presidente de la Comisión, quien lo será además del Consejo.
+Para apoyar y orientar al Presidente en el ejercicio de sus funciones y responsabilidades, la Comisión contará con un Consejo Consultivo integrado por once ciudadanos que gocen de reconocido prestigio en la sociedad, siendo parte del mismo el Presidente de la Comisión, quien lo será además del Consejo.
 
 Los miembros del Consejo no podrán desempeñar ningún cargo o comisión como servidores públicos.
 
@@ -191,9 +193,11 @@ El nombramiento de los miembros del Consejo será hecho por el Congreso del Esta
 
 El registro de las propuestas se realizará ante la Comisión de Justicia y Derechos Humanos del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+
 ###### ARTÍCULO 13.
 
-Anualmente se renovarán dos Consejeros, substituyéndose a los de mayor antigüedad en su designación, pudiendo ser reelectos por única vez para un segundo período.
+Anualmente se renovarán dos Consejeros, salvo en el año en que corresponda la sustitución de tres, substituyéndose a los de mayor antigüedad en su designación, pudiendo ser reelectos por única vez para un segundo período.
 
 Al aprobar su nombramiento el Congreso del Estado le asignará a los Consejeros un número ordinal progresivo que servirá de base para determinar su antigüedad.
 
@@ -532,3 +536,13 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JULIO DE 2004.
+
+PRIMERO.- Una vez aprobada la presente reforma, deberá remitirse al Titular del Poder Ejecutivo para efectos de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Para dar cumplimiento con la nueva integración del Consejo Consultivo de la Comisión Estatal de Derechos Humanos, deberá llevarse a cabo por conducto de este Congreso, la designación del Consejero de conformidad a los lineamientos ya establecidos en la ley de la materia.
