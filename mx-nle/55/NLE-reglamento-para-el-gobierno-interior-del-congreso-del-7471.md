@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2003-10-01"
+last_updated: "2003-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1691,9 +1691,15 @@ La Diputación Permanente de acuerdo al Artículo 87 de la Ley Orgánica del Pod
 
 El día que se instalen los trabajos para Período Ordinario, la Diputación Permanente tendrá su última Sesión Ordinaria. Antes de instalados los trabajos pasará lista de presentes a la Diputación Permanente, aprobará el acta de su sesión anterior y tratará los asuntos pendientes si los hubiera. Acto seguido, el Presidente ordenará a la Secretaría el pase de lista para constituir al Pleno del Congreso, verificado el quórum legal se elegirá a la Directiva en los términos del Artículo 52 de la Ley Orgánica del Poder Legislativo. Electa la Directiva esta procederá a dirigir los trabajos del Pleno, en cuyo orden del día el Presidente de la Diputación Permanente rendirá un Informe de las Actividades de ésta.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+Lo anterior con excepción del informe a que hace referencia el segundo párrafo del mencionado Artículo 87, en cuyo caso, se reunirá la Diputación Permanente con el primordial objeto de escuchar el informe que rinda su Presidente.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 164.
 
-La Diputación Permanente cesará en sus funciones al momento de elegir la Directiva del Período Ordinario de Sesiones.
+La Diputación Permanente cesará en sus funciones al momento de elegir a la Directiva del Período Ordinario de Sesiones, con excepción del día 19 de septiembre del año de la elección.
 
 TRANSITORIOS:
 
@@ -1926,3 +1932,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de
 P.O. 1 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
