@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "2000-06-07"
+last_updated: "2000-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -257,7 +257,9 @@ Son objeto de este impuesto, las erogaciones en efectivo o en especie por concep
 
 Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquéllas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo comisiones a trabajadores, premios, gratificaciones, rendimientos, indemnizaciones derivadas de la rescisión de las relaciones laborales, primas vacacionales, dominicales, por antigüedad y previsión social, así como cualquier otra erogación en beneficio de los trabajadores en forma personal.
 
-Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones, así como los honorarios asimilables a salarios por la prestación de servicios personales independientes que se realicen preponderantemente a un patrón.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
@@ -279,9 +281,11 @@ El presente impuesto se causará y pagará a razón del 2% sobre la base señala
 
 DEL PAGO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 32.
 
-El pago del impuesto deberá efectuarse a más tardar el día veinte del mes siguiente a aquél en que se efectuó la erogación, mediante declaración en la oficina recaudadora correspondiente, en los formatos que para esos efectos expida la Secretaría de Finanzas.
+El pago del impuesto, que tiene carácter de definitivo, deberá efectuarse a más tardar el día veinte del mes siguiente a aquel en que se efectuó la erogación, mediante declaración que se presentará en las oficinas recaudadoras o instituciones de crédito autorizadas, en los formatos que para esos efectos expida la Secretaría de Finanzas y Administración.
 
 La obligación de presentar la declaración subsistirá, aun cuando no se hayan efectuado erogaciones gravadas.
 
@@ -301,11 +305,15 @@ II.- Presentar el aviso correspondiente, ante las autoridades señaladas en la f
 
 III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
-IV.- Las sucursales, bodegas, agencias u otras dependencias de la matriz, deberán empadronarse por separado. En el caso de que dos, o más establecimientos se encuentren ubicados en la misma localidad, uno deberá registrarse, para efectos de pago y los demás para efectos de control.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+IV.- La matriz, sus sucursales, bodegas, agencias u otras dependencias, establecidas dentro del territorio del Estado, deberán empadronarse por separado, la matriz para efectuar el pago y las demás para efectos de control.
 
 V.- Conservar la documentación comprobatoria del pago de las remuneraciones objeto de este impuesto.
 
-VI.- Las sucursales, bodegas, agencias u otras dependencias cuya matriz, no se encuentre dentro del territorio del Estado, deberán efectuar su pago en el estado, dentro de los plazos y lugares señalados al efecto.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+VI.- Las sucursales, bodegas, agencias u otras dependencias cuya matriz, no se encuentre dentro del territorio del Estado, deberán efectuar su pago en el Estado, dentro de los plazos y lugares señalados al efecto. En caso de que dos ó más establecimientos de una misma matriz se encuentren ubicados dentro del territorio del Estado, uno deberá registrarse para efectuar el pago y los otros para efectos de control.
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
@@ -337,17 +345,11 @@ F) Trabajadores domésticos.
 
 #### SECCION OCTAVA. DE LA ESTIMACION DE EROGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría de Finanzas y Administración podrá estimar las erogaciones en los siguientes casos:
-
-I.- Cuando no presenten sus declaraciones o no lleven los libros o registros que legalmente están obligados a llevar, y
-
-II.- Cuando, por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada y la que debió enterarse, existe discrepancia mayor a un 3%.
-
-El procedimiento a seguir será el establecido en el Código Fiscal del Estado.
+La Secretaría de Finanzas y Administración podrá determinar presuntivamente las erogaciones a que se refiere este capítulo, por las que deba pagarse el impuesto sobre nóminas, de conformidad con lo establecido en el artículo 51 del Código Fiscal del Estado de Campeche.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -385,7 +387,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -399,7 +401,7 @@ En dicha contraprestación quedan incluidos los depósitos, anticipos, gastos de
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -409,7 +411,7 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION QUINTA. DEL PAGO
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -637,6 +639,10 @@ XXII.- Por expedición de Certificados de inscripción de propiedad, positivos o
 
 XXIII.- Por inscripción de reestructuración, en cualquiera de sus modalidades 2
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+XXIV.- Por el registro de sello, firma, rúbrica o media firma 10
+
 ### CAPITULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PUBLICOS NOTARIALES
 
 ###### ARTICULO 39.
@@ -748,6 +754,18 @@ I.- Los fiats que expida el Ejecutivo para el ejercicio del notariado.
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
 
 a) Expedición de fiats 100
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+b) Expedición de nombramiento de titular de Notaría 100
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+c) Exámenes para obtener el fiat de Notario Público o para la titularidad de una Notaría Pública:
+
+1) Examen de prueba teórica 50
+
+2) Examen de prueba práctica 50
 
 II.- Los títulos o diplomas de especialidades técnicas que sean registrados o reconocidos por alguna dependencia oficial.
 
@@ -1075,7 +1093,7 @@ II.- Por el ingreso que perciban por los servicios que prestan los organismos, d
 
 a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)</small>
 
 b) INSTITUTO CAMPECHANO
 
@@ -1087,19 +1105,19 @@ Preparatoria Licenciatura Postgrado
 
 Inscripciones
 
-$135.00 $140.00 $1000.00
+$145.00 $150.00 $1100.00
 
 Examen de Admisión
 
-200.00 200.00 300.00
+220.00 220.00 440.00
 
 Curso de Introducción
 
-100.00 130.00
+110.00 140.00
 
 Colegiaturas Mensuales
 
-95.00 105.00
+105.00 115.00
 
 Maestría en Metodología de la Investigación
 
@@ -1115,113 +1133,101 @@ Por materia
 
 Elaboración de Credenciales
 
-30.00 30.00 35.00
+35.00 35.00 40.00
 
 Seguro de Vida
 
-25.00 25.00
+30.00 30.00
 
 Expedición de Certificados
 
-140.00 150.00 400.00
+150.00 160.00 450.00
 
 Expedición de Constancias de Estudios
 
-100.00 105.00 150.00
+110.00 115.00 165.00
 
 Expedición de Carta de Buena Conducta
 
-100.00 105.00 150.00
+110.00 115.00 165.00
 
 Cotejo de Planes y Revalidaciones
 
 Alumnos Foráneos
 
-175.00 175.00
+190.00 190.00
 
 Alumnos del Instituto Campechano
 
-65.00 70.00
+70.00 80.00
 
 Examen a Título de Suficiencia
 
-120.00 130.00 300.00
+130.00 140.00 1000.00
 
 Examen Extraordinario
 
-110.00 120.00 200.00
-
-Cotejo de Documentos
-
-30.00 30.00
+120.00 130.00 1000.00
 
 Asesoría en sistema semiescolarizado
 
-30.00
+35.00
 
 Carta de Liberación de Servicio Social
 
-100.00 300.00
+110.00 330.00
 
 Expedición de Carta de Pasante
 
-140.00 250.00
+140.00 440.00
 
 Examen Profesional
 
-500.00 800.00
+550.00 1000.00
 
 Acta de Grado
 
-120.00 200.00
+150.00 275.00
 
 Trámite de firmas de Título Profesional
 
-150.00 300.00
+165.00 330.00
 
 Hoja de Piel
 
-150.00 160.00
+165.00 175.00
 
 Servicios Deportivos
 
-50.00
+55.00
 
 Material de Apoyo
 
-50.00
+55.00
 
 Constancia Provisional
 
-20.00 20.00
-
-Servicio Fotográfico 6T. Inf o Cred.
-
-15.00 15.00 15.00
-
-Servicio Fotográfico 6 Profesional
-
-30.00 30.00
+25.00 25.00
 
 Examen en sistema semiescolariado
 
-100.00
+110.00
 
 Expedición de Diploma
 
-100.00 1495.00
+120.00 120.00
 
 Elaboración de Título
 
-230.00 300.00
+250.00 330.00
 
 Seminarios Inscripción
 
-750.00
+825.00
 
 Seminarios costo por materia (por 3)
 
-750.00
+825.00
 
 OTROS CURSOS
 
@@ -1235,15 +1241,15 @@ Inglés (Laboratorio)
 
 Inscripción
 
-60.00 120.00
+70.00 140.00
 
 Colegiatura Mensual
 
-40.00 80.00
+50.00 100.00
 
 Credencial (opcional)
 
-30.00 30.00
+35.00 35.00
 
 Iniciación al Arte
 
@@ -1251,103 +1257,103 @@ Cursos talleres
 
 Inscripción
 
-35.00 70.00
+50.00 100.00
 
 Colegiatura Mensual
 
-30.00 60.00
-
-Servicio Fotográfico
-
-15.00 15.00
+40.00 80.00
 
 Credencial
 
-30.00 30.00
+35.00 35.00
 
 Seguro de Vida
 
-25.00 25.00
+30.00 30.00
 
 Cómputo
 
 Diseño de Pág. HTML
 
-350.00 700.00
+400.00 800.00
 
 Herramientas Internet
 
-300.00 600.00
+350.00 700.00
 
 Power Point
 
-250.00 500.00
+300.00 600.00
 
 Excel
 
-275.00 550.00
+300.00 600.00
 
 Word
 
-275.00 550.00
+300.00 600.00
 
 Corel Draw
 
-300.00 600.00
+350.00 700.00
 
-Renta de Equipo de Cómputo
+Windows
+
+275.00 550.00
+
+RENTA DE EQUIPO DE COMPUTO
 
 Por hora Por hora
 
 Casos Administrativos y Docentes
 
-7.50
+9.00
 
 Alquiler de Sala para capacidad instalada
 
-15.00
+18.00
 
 Impresiones por Hoja
 
 Matriz
 
-1.50 3.00
+2.00 4.00
 
 Láser
 
-3.00 6.00
+3.50 7.00
 
 Color
 
-4.00 8.00
+4.50 9.00
 
 OTROS INGRESOS COSTO
 
 Escuelas Incorporadas
 
-Incorporación 2200.00
+Incorporación 2420.00
 
-Reg. De Inscripción por alumno 80.00
+Reg. De Inscripción por alumno 90.00
 
-Legalización de Firmas en certificado 165.00
+Legalización de Firmas en certificado 180.00
 
-Legalización de firmas en carta de Buena Conducta 110.00
+Legalización de firmas en carta de Buena Conducta 120.00
 
-Nevería Central $3,850.00
+Arrendamiento de la Nevería Central $4,000.00
 
-Nevería de la Preparatoria 3520.00
+Arrendamiento Nevería Preparatoria Area de Gdpe. 3,600.00
 
-Constancia de Pago 25.00
+Arrendamiento de la Nevería de Educación Artística 800.00
 
-Fotocopias 0.35
+Constancia de Pago 30.00
 
-Duplicado de Credencial 35.00
+Duplicado de Credencial 40.00
 
-Recargos 0.10%
+Recargos 10%
 
-Certificado Médico y Dental 60.00
+Certificado Médico y Dental 65.00
 
-Mantenimiento de Equipo de Cómputo 55.00
+Mantenimiento de Equipo de Cómputo 60.00
 
 ARRENDAMIENTO
 
@@ -1357,19 +1363,19 @@ Renta Base Hora adicional
 
 Teatro "Ricardo Hernández"
 
-700.00 140.00
+1000.00 200.00
 
 Sala de Arte "Domingo Pérez Piña" todas las Salas
 
-700.00 140.00
+1000.00 200.00
 
 Ser. elect. de entrada y 1 Sala
 
-350.00 70.00
+500.00 100.00
 
 Aula Magna "Benito Juárez" usando todo el servicio eléctrico
 
-400.00 80.00
+500.00 100.00
 
 > <small>(REFORMADO, P.O. 16 DICIEMBRE DE 1998)</small>
 
@@ -1862,3 +1868,11 @@ P.O. 7 DE JUNIO DE 2000.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2000.
+
+Primero.- El presente decreto entrará en vigor el día 1 enero del año 2001.
+
+Segundo.- Las cuotas que han quedado establecidas en el inciso b), de la fracción II del Apartado M del artículo 52 de la Ley de Hacienda del Estado de Campeche que son objeto de la presente reforma, relativas a cursos de cómputo, renta de equipo de cómputo y arrendamientos en general, entrarán en vigor el 1 de enero de 2001, las restantes cuotas entrarán el 1 de agosto de 2001.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
