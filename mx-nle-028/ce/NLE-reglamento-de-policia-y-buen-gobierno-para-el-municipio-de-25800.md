@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-para-el-municipio-de-2580
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-30"
-last_updated: "1998-10-30"
+last_updated: "2002-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO PARA EL MUNICIPIO DE HIGUERAS, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2002.
 
-Reglamento publicado en el periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 1998.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 1998.
 
 EL C. SIXTO RAMIREZ GARCIA, PRESIDENTE MUNICIPAL DE HIGUERAS, NUEVO LEON, A TODOS LOS HABITANTES DE ESTE MUNICIPIO, HACE SABER:
 
@@ -553,6 +553,14 @@ En la medida que se modifiquen las condiciones socio-económicas del Municipio, 
 
 El C. Secretario del R. Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en Sesión Ordinaria del R. Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
 
+> <small>(ADICIONADO CON EL TABULADOR QUE LO INTEGRA, P.O. 28 DE AGOSTO DE 2002)</small>
+
+### CAPITULO OCTAVO. TABULADOR
+
+TABULADOR
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 28 DE AGOSTO DE 2002, PÁGINAS DE LA 39 A LA 44.]</small>
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -568,3 +576,9 @@ PRESIDENTE MUNICIPAL.
 C RAMIRO GONZALEZ GONZALEZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2002.
+
+> <small>[N. DE E. LAS "REFORMAS AL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO, ADICIÓN DE TABULADOR", CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.]</small>
