@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-los-trabajadores-de-la-musica-del-municipio-15750
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-20"
-last_updated: "2000-01-20"
+last_updated: "2004-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 REGLAMENTO DE LOS TRABAJADORES DE LA MUSICA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE NOVIEMBRE DE 2004.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de enero de 2000.
 
@@ -203,11 +203,85 @@ B) Denunciar ante la autoridad Municipal competentes, sean o no de su agrupació
 
 C) Colaborar con las Autoridades Municipales cuando así se les requiera.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO VI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 13o.
+
+BIS.- Por las violaciones a las disposiciones contenidas en el presente Reglamento se impondrán las siguientes sanciones:
+
+I.- AMONESTACION. Que es la reconvención privada que la Autoridad Municipal hace por escrito o en forma verbal al infractor y de la que la Autoridad Municipal conserva antecedentes.
+
+II.- MULTA. Que es el pago de una cantidad de dinero que el infractor hace al Municipio y que tratándose de jornaleros, obreros o trabajadores, no excederá del importte (sic) de su jornal o salario de 1 (un) día, si el infractor es un trabajador no asalariado, dicho pago no será mayor del equivalente a un día de su ingreso igual si el infractor no pagase la sanción económica que le (sic) hubiese impuesto, se permutará esta por arresto administrativo, que en ningún caso excederá de 36 (treinta y seis) horas. En cualquier caso, la multa que se imponga como sanción a una infracción no excederá del equivalente a 100 veces el salario mínimo general para la zona económica en que se encuentre ubicado el Municipio.
+
+III.- ARRESTO. Que es la privación de la libertad del infractor por un período de 6 (seis) a 36 (treinta y seis) horas, que se cumplirá únicamente en la cárcel municipal, en lugares separados de los destinados a personas detenidas con relación a la comisión de un delito. Los infractores bajo arresto administrativo, estarán a su vez separados por sexo. Se podrá conmutar el arresto administrativo por el pago de una multa valorando la infracción cometida.
+
+IV.- TRABAJO COMUNITARIO. Son los que consisten en actividad física, intelectual o de ambos tipos propios del servicio público que desarrollará el infractor en beneficio de instituciones públicas o de asistencia social, la cual se impondrá al infractor dependiendo de la gravedad de la infracción que califique a criterio de la Autoridad Fiscal, no excediendo la misma de 8 (ocho) horas jornales, tomando en cuenta que una jornada equivale a 8 (ocho) horas.
+
+Se prohíbe el trabajo comunitario que tenga el carácter de humillación o degradante para el infractor.
+
+V.- CLAUSURA. Que es el cierre temporal o definitivo del establecimiento inmueble o lugar en donde tiene lugar la contravención a los ordenamientos municipales y cuyos accesos se aseguran mediante la colocación de sellos oficiales a fín de impedir que la infracción que se persigue se continúe cometiendo.
+
+VI.- SUSPENSION. DE EVENTOS SOCIALES O ESPECTÁCULO PÚBLICO. Que es la Determinación de la Autoridad Fiscal Municipal para que un evento social o espectáculo público no se realice o se siga realizando.
+
+VII.- CANCELACION DE LICENCIA O RENOVACION DE PERMISO. Que es la Resolución Administrativa que establece la pérdida del derecho contenido en la licencia o permiso previamente obtenido de la Autoridad Fiscal Municipal para realizar la actividad que en dichos documentos se establezcan.
+
+VIII.- APERCIBIMIENTO. Que es la advertencia verbal o escrita que hace la Autoridad Fiscal Municipal en diligencias (sic) formal exhortando al infractor a corregir su conducta y previniéndolo de las consecuencias de infringir los ordenamientos municipales.
+
+La Autoridad Fiscal Municipal a través de los Inspectores Fiscales Municipales, podrán imponer las siguientes medidas preventivas:
+
+I.- ASEGURAMIENTO. Que es la retención por parte de la Autoridad Fiscal Municipal de los bienes, productos e instrumentos directamente relacionados con una infracción, mismos que podrán ser regresados a quien justifique los derechos sobre ellos y cumpla en su caso, con la sanción correspondiente, y;
+
+II.- DECOMISO. Que es el secuestro por parte de la Autoridad Fiscal Municipal de los bienes o parte de ellos, propiedad del infractor, estrictamente relacionados con la falta que se persigue y cundo esto es necesario para interrumpir la contravención.
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 13o.
+
+BIS (A).- Cuando (sic) una o varias conductas del infractor se transgredan diversos preceptos, la Autoridad Fiscal Municipal, podrá acumular las sanciones sin exceder de los límites máximos previstos en la fracción dos del artículo anterior.
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 13o.
+
+BIS (B).- Cuando una falta se ejecute con la intervención de dos o más personas a cada una de ellas se le aplicará la sanción correspondiente, tomando en cuenta su grado de participación.
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 13o.
+
+BIS (C).- Las sanciones se aplicarán sin orden progresivo, según las circunstancias de cada caso, procurando que existan proporción y equilibrio entre la naturaleza de la falta y demás elementos de juicio que permitan a la Autoridad Fiscal Municipal, preservar el orden, la paz y la tranquilidad social.
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 13o.
+
+BIS (D).- Al resolver respecto de la imposición de cualquiera de las sanciones la Autoridad Fiscal Municipal, exhortará al infractor para que no reincida, apercibiéndolo y explicándole las consecuencias legales.
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 13o.
+
+BIS (E).- La prevención y vigilancia sobre la comisión de las conductas infractoras que se señalan en el presente Reglamento, corresponde a la Autoridad Fiscal Municipal, que es la encargada de prestar el servicio de Seguridad Pública.
+
 DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 14o.
 
-Cuando los clientes ocasionales se nieguen a cubrir el importe de su trabajo a los músicos, cantantes y trovadores o grupos de música en general, la Dirección de Seguridad Pública Municipal, a través de sus elementos, les prestará el auxilio y proporcionará las garantías necesarias, obligando a estos patrones eventuales a pagar el adeudo correspondiente y/o coadyuvando en la formulación de la denuncia respectiva ante otra instancia de justicia.
+Cuando los clientes ocasionales se nieguen a cubrir el importe de su trabajo a los músicos, cantantes y trovadores o grupos de música en general, la Dirección de Seguridad Pública Municipal, a través de sus elementos, les prestará el auxilio y proporcionará las garantías necesarias, procurando que una vez esclarecida la situación, estos clientes eventuales cubran el adeudo correspondiente y derivado del conocimiento de los hechos controvertidos, turnarán el asunto ante la autoridad de justicia que corresponda según sea el caso, prestrando (sic) el auxilio u orientación que requieran los sujetos a que se refiere el artículo del presente Reglamento.
+
+Asímismo, el cao (sic) de divergencias entre los trabajadores de la música y los clientes ocasionales, se permitirá igualmente la intervención conciliatoria del establecimiento.
+
+> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 14o.
+
+BIS.- Contra los Acuerdos o Resoluciones que se deriven de la aplicación del presente Reglamento, procederá el Recurso de Reconsideración previsto en la Ley Orgánica Municipal, Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
 
 ###### ARTICULO 15o.
 
@@ -382,3 +456,13 @@ SECRETARIO GENERAL
 LUIS ARMANDO DIAZ
 
 SECRETARIA GENERAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 20 DE NOVIEMBRE DE 2004.
+
+SE TRANSCRIBEN EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+.
+
+SEGUNDO: EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
