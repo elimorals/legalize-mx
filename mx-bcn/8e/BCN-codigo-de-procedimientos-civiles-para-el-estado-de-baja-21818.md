@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1975-06-20"
+last_updated: "1977-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1977.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -3889,7 +3889,7 @@ Los recursos que estén ya legalmente interpuestos serán admitidos aunque no de
 
 ###### ARTICULO TERCERO.
 
-Para la regulación y liquidación de las costas en los negocios pendientes al entrar en vigor éste Código y los que en lo futuro se tramiten, se observarán las disposiciones del arancel respectivo de la Ley Orgánica de los Tribunales Comunes del Distrito y Territorios Federales, en tanto se expiden los aranceles del Estado de Baja California.
+(DEROGADO , P.O. 10 DE MARZO DE 1977)
 
 ###### ARTICULO CUARTO.
 
@@ -3930,3 +3930,17 @@ Francisco Santana Peralta.
 P.O. 20 DE JUNIO DE 1975.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno de Estado.
+
+P.O. 10 DE MARZO DE 1977.
+
+###### ARTICULO PRIMERO.
+
+El presente Arancel entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los actos ejecutados hasta antes de la promulgación del presente Arancel, deberán regirse por el anterior y los de realización posterior quedarán sujetos necesariamente a éste.
+
+###### ARTICULO TERCERO.
+
+El presente Arancel deja sin efecto el Artículo Transitorio Tercero del Código de Procedimientos Civiles del Estado.
