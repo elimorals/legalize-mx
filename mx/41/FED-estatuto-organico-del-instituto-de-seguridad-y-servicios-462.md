@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2000-10-04"
+last_updated: "2001-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE FEBRERO DE 2001.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -1006,7 +1006,9 @@ II.- Planear, organizar, normar, coordinar y controlar las funciones de administ
 
 III.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en los concursos relacionados con la adquisición de bienes y en los contratos o convenios de suministros respectivos;
 
-IV.- Almacenar, custodiar y proporcionar a las diversas áreas del Instituto, los bienes y servicios que requieran para su funcionamiento, así como para establecer normas y control de inventarios de almacenamiento, conforme a las disposiciones relativas;
+> <small>(REFORMADA, D.O.F. 22 DE FEBRERO DE 2001)</small>
+
+IV. Normar, coordinar y evaluar la operación de los almacenes regionales; almacenar, custodiar y proporcionar a los diversos centros de trabajo y unidades médicas del Instituto, los bienes, servicios e insumos médicos que requieran para su funcionamiento, así como establecer el control de inventarios, conforme a las disposiciones relativas.
 
 V.- Prestar los servicios de limpieza interior y exterior de los inmuebles del Instituto, así como formular y operar el programa de conservación de áreas verdes y plantas de ornato de los citados inmuebles, con base en la legislación aplicable;
 
@@ -1725,3 +1727,17 @@ D.O.F. 4 DE OCTUBRE DE 2000.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En su oportunidad, inscríbase la presente reforma en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 22 DE FEBRERO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO TERCERO.
+
+En su oportunidad, inscríbase la presente reforma en el Registro Público de Organismos Descentralizados.
