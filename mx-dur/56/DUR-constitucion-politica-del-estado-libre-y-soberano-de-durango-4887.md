@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1943-12-23"
+last_updated: "1944-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1944.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -613,7 +613,9 @@ IX. Velar sobre la observancia de esta Constitución dando cuanta (sic) a la Leg
 
 ###### Artículo 70.
 
-El Ejercicio del Poder Ejecutivo se depositará en una sola persona que se denominará Gobernador del Estado, siendo su duración de cuatro años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aun con el carácter de interino, Provisional, Substituto o Encargado del Despacho. El Gobernador entrará a ejercer sus funciones el 16 de septiembre.
+El ejercicio del Poder Ejecutivo se depositará en una sola persona que se denominará Gobernador del Estado, siendo su duración de seis años y en ningún caso y por ningún motivo podrá volver a ocupar este cargo ni aún con el carácter de interino, provisional sustituto, o encargado del despacho. El Gobernador entrará a ejercer sus funciones el 16 de septiembre.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
 
 Nunca podrá ser electo para el período inmediato:
 
@@ -621,7 +623,11 @@ Nunca podrá ser electo para el período inmediato:
 
 a). El Gobernador Substituto que concluya el período Constitucional.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+
 b). El Gobernador Provisional en los casos de los artículos 72 y 74 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
 
 c). El Gobernador Interino, siempre que desempeñe el cargo en los dos últimos años del período.
 
@@ -669,13 +675,11 @@ El Gobernador no podrá salir del Estado sin permiso de la Legislatura o de la D
 
 El cargo de Gobernador no es renunciable y sólo por causa justificada el Congreso podrá conocer de licencia hasta la terminación del período de su encargo, ya sea que esté en período de sesiones la H. Legislatura o en su defecto la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1937)</small>
-
-Rrtículo (sic) 77.- En las faltas temporales del C. Gobernador que no excedan de treinta días, lo suplirá por Ministerio de la Ley, el Secretario General de Gobierno en los términos que señala la propia Constitución. Cuando las faltas temporales sean de más de 30 días, el nombramiento de Gobernador Interino será hecho por la Legislatura en sesiones ordinarias; y si estuviere éste en receso, por su Diputación Permanente.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1944)</small>
 
 ###### Artículo 77.
 
-Las faltas temporales del Gobernador nunca podrán ser de un año seguido; y las causas graves que podrán ser de un año seguido; y las causas graves que pudieran justificarlas, se considerarán suficientes por la Legislatura del Estado, para proceder a elección de nuevo Gobernador, conforme a lo dispuesto en el artículo 74.
+Las faltas temporales del Gobernador que no excedan de tres meses, se cubrirán por nombramiento que haga la Legislatura, o en su caso la Diputación Permanente. Cuando las faltas temporales sean de más de tres meses, el nombramiento será hecho por la Legislatura en sesiones ordinarias; y si estuviere en receso lo hará en sesiones extraordinarias a que será convocada por la Diputación Permanente.
 
 ###### Artículo 78.
 
@@ -1027,7 +1031,7 @@ En ningún caso perderá esta Constitución su fuerza y vigor; y siempre que hub
 
 DEL PODER EJECUTIVO.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 1944)</small>
 
 ## TITULO VII.
 
@@ -1246,3 +1250,15 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 23 DE DICIEMBRE DE 1943.
 
 UNICO.- Estas reformas surtirán sus efectos desde la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 1944.
+
+DECRETO No. 275.
+
+Artículo Unico.- En virtud de haber sido aprobada esta reforma por los Poderes Ejecutivo y Judicial y por más de la mitad de los Ayuntamientos, la misma formará parte de la Constitución Política del Estado, desde el día de su publicación en el Periódico Oficial, del mismo.
+
+P.O. 30 DE MARZO DE 1944.
+
+DECRETO No. 276.
+
+Artículo Unico.- En virtud de haber sido aprobada esta reforma por los Poderes Ejecutivo y Judicial y por más de la mitad de los Ayuntamientos del Estado, la misma formará parte de la Constitución Política Local, desde el día de su publicación en el Periódico Oficial del Estado.
