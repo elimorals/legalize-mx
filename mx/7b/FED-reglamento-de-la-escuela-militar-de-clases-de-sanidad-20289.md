@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-clases-de-sanidad-20289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-04-02"
-last_updated: "2001-04-02"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20289&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-03-26"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE CLASES DE SANIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 2 de abril de 2001.
 
@@ -815,11 +815,21 @@ El personal de alumnos que cause baja del curso respectivo podrá reingresar sie
 
 ## TÍTULO SÉPTIMO. De los Reconocimientos Académicos, Premios y Recompensas
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, D.O.F. 16 DE AGOSTO DE 2004)</small>
+
+### CAPÍTULO ÚNICO. De los Certificados y Nombramientos
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 64.
 
-El personal de alumnos que termine satisfactoriamente sus estudios en la Escuela Militar de Clases de Sanidad recibirá el nombramiento correspondiente y certificado de estudios.
+El personal de alumnos que termine satisfactoriamente sus estudios en la Escuela Militar de Clases de Sanidad recibirá:
+
+I. Certificado de Estudios;
+
+II. Grado de Sargento Primero o Sargento Segundo, de Sanidad o Asistente en la Especialidad Paramédica, según corresponda, y
+
+III. Nombramiento.
 
 ###### ARTÍCULO 65.
 
@@ -856,3 +866,11 @@ PRIMERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto a est
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de marzo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
