@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-expropiacion-de-ocupacion-temporal-y-de-limitacion-5349"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-03"
-last_updated: "1996-02-06"
+last_updated: "2002-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EXPROPIACION, DE OCUPACION TEMPORAL Y DE LIMITACION DE DOMINIO PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2002.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 3 de julio de 1992.
 
@@ -159,9 +159,17 @@ Recibida la solicitud acompañada por los estudios técnicos en que se funde la 
 
 Integrado el expediente, el Ejecutivo del Estado procederá, en su caso, a emitir la Declaratoria de Expropiación, de Ocupación Temporal o de Limitación de Dominio, determinando la causa de utilidad pública por la que se afecta; el destino del bien y el monto de la indemnización, así como la Cláusula de Reversión, la que establecerá el tiempo máximo para que la cosa afectada se destine al objeto de la expropiación y los datos necesarios para la identificación de la cosa afectada.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 21.
 
-La Declaratoria deberá publicarse en el Periódico Oficial del Gobierno del Estado y en el periódico de mayor circulación en la localidad donde se encuentre el bien afectado, o, en su caso, en el Tablero de Avisos de la Presidencia Municipal, y deberá notificarse personalmente al propietario o poseedor de la cosa afectada. En caso de que se ignore el domicilio del afectado, se procederá a realizar una segunda publicación de la Declaratoria en los términos de la primera, la cual surtirá efectos de una notificación personal.
+La Declaratoria deberá publicarse en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación en la localidad en donde se encuentre el bien afectado o, en su caso, en el tablero de avisos de la Presidencia Municipal.
+
+Se deberá notificar en forma personal al propietario o poseedor de la cosa afectada en su domicilio, por conducto del personal que para tal efecto designe el Secretario de Gobierno. En caso de que la persona a notificar no se encuentre, se le dejará citatorio para que espere en hora y día determinados. Si no espera, la notificación podrá practicarse con la persona jurídicamente capaz que atienda la diligencia. Si no se encontrare persona alguna en el día y hora señalado en el citatorio, se procederá a fijar la notificación correspondiente en la puerta del domicilio por parte del empleado que practique la diligencia. En caso de que el domicilio se ubique en zonas rurales, o bien sea imposible dejar citatorio, la notificación podrá efectuarse con el vecino más próximo.
+
+En los supuestos contemplados en el párrafo que antecede, el notificador deberá cerciorarse por cualquier medio, que la persona que deba ser notificada vive en el domicilio designado y, después de ello, practicará la diligencia, asentando razón de lo anterior en el acta que al efecto se levante. En caso de no poder cerciorarse el notificador de que la persona que debe ser notificada vive en el domicilio indicado, se abstendrá de practicar la notificación y lo hará constar para dar cuenta al Secretario de Gobierno.
+
+Cuando se ignore el domicilio del afectado y sea imposible para la autoridad precisarlo, se realizará una segunda publicación de la Declaratoria en los mismos términos de la primera, la cual surtirá efectos de notificación personal.
 
 ### CAPITULO II. DEL RECURSO DE REVOCACION
 
@@ -169,9 +177,11 @@ La Declaratoria deberá publicarse en el Periódico Oficial del Gobierno del Est
 
 Contra la Declaratoria de Expropiación, Ocupación Temporal o Limitación de Dominio de un bien de propiedad particular, procederá el Recurso de Revocación.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 23.
 
-El Recurso de Revocación deberá interponerse ante el Ejecutivo del Estado, a través de la Secretaría de Gobierno, dentro de los diez días hábiles siguientes a la fecha de la segunda publicación de la Declaratoria.
+El Recurso de Revocación deberá interponerse ante el Ejecutivo del Estado, a través de la Secretaría de Gobierno, dentro de los diez días hábiles siguientes al en que se haya practicado la notificación personal al propietario o poseedor de la cosa afectada.
 
 ###### ARTICULO 24.
 
@@ -294,3 +304,7 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACIO
 ###### ARTICULO SEGUNDO.
 
 EL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS DE LA ENTIDAD, EN SU CASO, Y LOS PARTICULARES AFECTADOS MEDIANTE DECLARATORIA DE EXPROPIACION, DENTRO DE LOS DOS AÑOS SIGUIENTES A LA FECHA DE ENTRADA EN VIGENCIA DEL PRESENTE DECRETO, PODRAN CELEBRAR CONVENIOS SOBRE LA FORMA Y TERMINOS DE LA INDEMNIZACION; CUANDO LA EXPROPIACION TENGA COMO CAUSA DE UTILIDAD PUBLICA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA DE PEQUEÑA PROPIEDAD, DESTINADO A LA EXPLOTACION AGROPECUARIA.
+
+P.O. 14 DE JUNIO DE 2002.
+
+Artículo Único.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
