@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-archivo-general-del-estado-y-la-biblioteca-1083
 country: "mx"
 rank: "ley"
 publication_date: "1978-09-08"
-last_updated: "1980-12-23"
+last_updated: "1985-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY QUE CREA EL ARCHIVO GENERAL DEL ESTADO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA -ANTES LEY QUE CREA EL ARCHIVO ADMINISTRATIVO E HISTORICO Y LA BIBLIOTECA PUBLICA DEL ESTADO-
 
-LEY QUE CREA EL ARCHIVO ADMINISTRATIVO E HISTORICO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA
+LEY QUE CREA EL ARCHIVO GENERAL DEL ESTADO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1985.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el viernes 8 de septiembre de 1978.
 
@@ -39,7 +39,9 @@ EL H. XLVII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
 
 D E C R E T A :
 
-LEY QUE CREA EL ARCHIVO ADMINISTRATIVO E HISTORICO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA.
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE NOVIEMBRE DE 1985)</small>
+
+LEY QUE CREA EL ARCHIVO GENERAL DEL ESTADO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA.
 
 ### CAPITULO I
 
@@ -47,9 +49,11 @@ LEY QUE CREA EL ARCHIVO ADMINISTRATIVO E HISTORICO Y LA BIBLIOTECA PUBLICA DEL E
 
 Se crea el Archivo Administrativo e Histórico del Estado de Puebla, cuyos objetivos fundamentales serán los de recibir, revisar, clasificar, archivar, conservar y depurar el acervo documental y bibliográfico de la Entidad, así como proporcionar los servicios relativos a su consulta y certificación.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 2o.
 
-El Archivo Administrativo e Histórico será una dependencia del Ejecutivo y tendrá las secciones que sean necesarias para cumplir sus objetivos.
+El Archivo Administrativo e Histórico será una Dependencia de la Secretaría de Cultura y tendrá las secciones que sean necesarias para cumplir sus objetivos.
 
 ###### ARTICULO 3o.
 
@@ -93,9 +97,11 @@ IX.- Establecer los órganos de información que se estimen convenientes.
 
 X.- Las demás que deriven de este ordenamiento y de su correspondiente Reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 7o.
 
-El Archivo Administrativo e Histórico estará bajo la responsabilidad de un Director General nombrado por el Gobernador del Estado y contará con el personal que determine el propio Ejecutivo en función de las necesidades que el propio Archivo demande.
+El Archivo Administrativo e Histórico estará bajo la responsabilidad de un Director General nombrado por el Secretario de Cultura y contará con el personal que determine el propio Secretario en función de las necesidades que el referido Archivo demande.
 
 ### CAPITULO II. De la Biblioteca
 
@@ -147,7 +153,7 @@ El Gobernador expedirá los Reglamentos del Archivo Administrativo e Histórico 
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
 
-###### ARTICULO 15o.
+###### ARTICULO 15.
 
 El Archivo Administrativo e Histórico y la Biblioteca Pública del Estado de Puebla, tendrá como domicilio el antiguo Hospital de San Pedro que se encuentra ubicado en la casa marcada con el número 203 de la Calle 4 Norte de esta Ciudad, y que actualmente es conocida con el nombre de "Cancha de San Pedro".
 
@@ -168,3 +174,9 @@ Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Pala
 P.O. 23 DE DICIEMBRE DE 1980.
 
 UNICO.- Este artículo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
