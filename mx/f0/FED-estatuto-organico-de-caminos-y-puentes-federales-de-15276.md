@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-15276"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-12-31"
-last_updated: "1999-12-31"
+last_updated: "2002-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15276&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-12-09"
 
 ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2002.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1999.
 
@@ -466,6 +466,10 @@ XIX. Atender en su caso, según corresponda, los asuntos que les sean presentado
 XX. Operar, en su caso, el Sistema de Orientación e Información al Público, y
 
 XXI. Llevar a cabo las demás facultades que las disposiciones legales y el Director General les confieran, afines a las anteriores.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2002)</small>
+
+Además de lo previsto en el presente artículo, y sin perjuicio de la facultad que la fracción I del artículo 17o. del presente instrumento confiere al Director General, corresponde a los directores Técnico y Jurídico, en forma mancomunada, la representación del organismo en los procedimientos de rescisión administrativa de los contratos de obras públicas y servicios relacionados con las mismas, en los casos de incumplimiento de los contratistas; asimismo, corresponde a los directores de Administración y Finanzas y Jurídico, en forma conjunta, la representación del organismo en los procedimientos de rescisión administrativa de los contratos de adquisiciones, arrendamientos y servicios del sector público en los casos de incumplimiento de los proveedores, en los términos de las leyes aplicables.
 
 ### CAPITULO QUINTO. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -1204,3 +1208,11 @@ CUARTO.- Se abroga el Estatuto Orgánico de Caminos y Puentes Federales de Ingre
 QUINTO.- El presente Estatuto Orgánico, así como las reformas y adiciones al mismo deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
 
 Dado en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos noventa y nueve, previa aprobación del mismo en la sesión CLVIII ordinaria del Consejo de Administración, celebrada el mismo día, mes y año.- El Secretario de Comunicaciones y Transportes, y Presidente del Consejo de Administración, Carlos Ruiz Sacristán.- Rúbrica.- El Director General de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Gustavo Carvajal Moreno.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 17 DE ABRIL DE 2002.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En su oportunidad, inscríbase, en su caso, en el Registro Público de Organismos Descentralizados.
