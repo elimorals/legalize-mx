@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2001-12-06"
+last_updated: "2002-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
+CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -5799,7 +5799,7 @@ ART. 1652.- En las enajenaciones judiciales que hayan de verificarse para dividi
 
 ART. 1653.- El contrato de compraventa no requiere para su validez formalidad alguna especial.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1998)</small>
 
 Deben constar en escritura pública los contratos por los cuales se transfiera o modifique el dominio de bienes inmuebles o se constituya un derecho real sobre ellos.
 
@@ -7431,7 +7431,7 @@ ART. 2086.- Si el propietario no exige su parte dentro de los sesenta días desp
 
 ART. 2087.- En el caso de venta de los animales, antes de que termine el contrato de aparcería, disfrutarán los contratantes del derecho del tanto.
 
-ART. 2088.- Las disposiciones de los artículo s precedentes se aplicarán sin perjuicio de lo que dispongan las leyes sobre cultivo y aprovechamiento de tierras propias para la ganadería y la agricultura, que se hayan expedido o se expidieren en el Estado.
+ART. 2088.- Las disposiciones de los artículos precedentes se aplicarán sin perjuicio de lo que dispongan las leyes sobre cultivo y aprovechamiento de tierras propias para la ganadería y la agricultura, que se hayan expedido o se expidieren en el Estado.
 
 ## TITULO DECIMO SEPTIMO. DEL JUEGO Y DE LA APUESTA
 
@@ -7898,6 +7898,14 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 ART. 2305.- Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
 ART. 2306.- El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en escritura pública, se dé conocimiento al deudor y sea inscrita en el Registro.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
+
+La instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarios, las demás entidades finacieras y las instituciones de seguridad social, podran ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni de escritura pública o de inscripción en el Registro Público de la Propiedad y del Comercio, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario debrerá únicamente hacer la notificación por escrito de la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2002)</small>
+
+La inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o de los cesionarios referidos en el párrafo anterior, quienes tedrán todos los derechos y acciones derivadas de esta.
 
 ART. 2307.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca continuará vigente hasta en tanto no prescriba la obligación principal o se extinga por alguna otra causa. Los contratantes pueden señalar a la hipoteca una duración menor que la de la obligación.
 
@@ -9932,3 +9940,7 @@ P.O. 6 DE DICIEMBRE DE 2001
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2002.
+
+Único.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Périódico Oficial del Estado.
