@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1980-12-04"
+last_updated: "1980-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1980.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -345,7 +345,7 @@ XVIII.- Someter a la consideración del Tribunal Pleno el informe anual que debe
 
 XIX.- Dar cuenta al Pleno con las denuncias o quejas presentadas en contra de los magistrados, jueces y demás funcionarios del Poder Judicial;
 
-XX.- Visitar los juzgados periódicamente para cerciorarse de la asistencia del personal, de sí el despacho de los procesos y juicios es equitativo y oportuno, y dictar todas las providencias económicas que le parezcan convenientes para la buena administración de justicia;
+XX.- Visitar los juzgados periódicamente para cerciorarse de la asistencia del personal, de si el despacho de los procesos y juicios es equitativo y oportuno, y dictar todas las providencias económicas que le parezcan convenientes para la buena administración de justicia;
 
 XXI.- Desempeñar las demás atribuciones que le confieren las leyes y el reglamento interior del Tribunal Superior de Justicia.
 
@@ -1379,8 +1379,26 @@ OCTAVO.- Se faculta al Tribunal Superior de Justicia en Pleno para reubicar, dá
 
 NOVENO.- Las funciones que le atribuye el Código de Procedimientos Civiles del Estado al ministro ejecutor, serán ejercidas en los términos de esta ley por los actuarios de los juzgados de primera instancia del ramo civil, mixtos y menores, por los secretarios de los juzgados de paz o por dos testigos de asistencia.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
+
+DECIMO.- Hasta que inicien sus labores los Juzgados Familiares del Primero y Segundo Distrito Judicial del Estado, los Juzgados de Primera Instancia de lo Civil, conservarán jurisdicción en las controversias de naturaleza familiar.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
+
+DECIMO PRIMERO.- Hasta que inicien sus labores los juzgados mixtos de primera instancia del tercero, cuarto y quinto distritos judiciales del Estado, los juzgados de lo civil, de lo familiar y penales del primer distrito judicial, conocerán de las controversias que se susciten en el territorio correspondiente al tercer y cuatro distrito.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1980)</small>
+
+DECIMO SEGUNDO.- Hasta que inicien sus labores los Juzgados Menores previstos en esta Ley, los Juzgados Civiles, Penales y Mixtos de Primera Instancia, conservarán jurisdicción en los negocios y causas de la competencia de aquellos.
+
 Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los veintiocho días del mes de noviembre del año de mil novecientos ochenta.- PROFR. GUILLERMO DEL RIO ORTEGON, D. P.- ELDA LILY SUAREZ ALFARO, D. S.- JOSE DE LA ROSA ACOSTA CALDERON, D. S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiocho días del mes de noviembre del año de mil novecientos ochenta.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 1980.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
