@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "1999-12-21"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -1055,55 +1055,7 @@ XII.- Traficar ilegalmente con los documentos o comprobantes de pago de prestaci
 
 XIII.- Infringir otras disposiciones fiscales en forma no prevista en las precedentes; multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
-
-ARTICULO 88 BIS I.- Son infracciones y sanciones cuya responsabilidad recae en los peritos valuadores, cuando de las supervisiones realizadas a los trabajos de valuación, se detecten deficiencias por la incorrecta aplicación de los criterios de valuación que afecten notablemente las bases de tributación, al efecto las autoridades fiscales municipales podrán solicitar a la Secretaría de Finanzas y Administración del Estado aplicar las siguientes sanciones:
-
-I.- Amonestación por escrito:
-
-a).- Cuando en la revisión de los avalúos se determine que los datos no corresponden a la realidad o los valores asentados se determinaron con base a un incremento porcentual de los valores catastrales aplicados por el Ayuntamiento;
-
-b).- Por cambiar de domicilio fiscal sin dar el aviso correspondiente a las autoridades fiscales municipales y a la Secretaría de Finanzas y Administración;
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
-
-c).- Por cualquier otro incumplimiento a las disposiciones normativas que establecen las Leyes de Catastro Municipal, de Hacienda Municipal, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
-
-d).- Por la incorrecta aplicación de los parámetros valuatorios y deficiente empleo de los factores de eficiencia por abajo de lo establecido en el Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero.
-
-II.- Suspensión de seis a doce meses, en caso de reincidir en alguna de las situaciones señaladas en la fracción que antecede de este artículo.
-
-III.- Cancelación por:
-
-a).- Haber obtenido, el registro con información y/o documentación falsa.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
-
-b).- Por violaciones graves y reiteradas a las disposiciones del apartado de los Avalúos, en la práctica y formulación de éstos, contenidas en la Ley de Catastro Municipal, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código.
-
-c).- Cancelación definitiva del registro, o inhabilitación como perito valuador por la Comisión Nacional Bancaria y de Valores, conforme a ordenamientos legales y administrativos aplicables, en relación con la actividad valuatoria.
-
-d).- Ser condenado mediante sentencia ejecutoriada que amerite pena corporal.
-
-Al perito valuador que se le suspenda temporalmente, no podrá realizar avalúos con fines fiscales durante ese período, sujetándose su reinscripción a los requisitos mencionados en el Artículo 65 de la Ley de Catastro Municipal. En el momento de la suspensión el perito valuador, reportará los avalúos hechos hasta esta fecha, así como los pendientes, quedando apercibido de que los no reportados no tendrán validez.
-
-El nombre y el número que les corresponderá a los Peritos Valuadores registrados, así como de los que se les aplique la suspención (sic) o cancelación del registro se hará del conocimiento de las siguientes instituciones:
-
-a) Comisión Nacional Bancaria y de Seguros.
-
-b) Colegio de Ingenieros.
-
-c) Colegio de Arquitectos.
-
-d) Sociedades Nacionales de Crédito que respalden los avalúos.
-
-e) Notarios Públicos.
-
-f) Tesoreros Municipales.
-
-Cuando los Peritos Valuadores cometan alguna infracción distinta a las previstas en el presente capítulo, se hará del conocimiento a la autoridad competente, independientemente de la imposición de las sanciones previstas en el Código Fiscal Municipal.
+ARTICULO 88 BIS I.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 ### CAPITULO II. DE LOS DELITOS FISCALES
 
@@ -1625,9 +1577,9 @@ II.- El deudor deberá ponerse de acuerdo con la Tesorería sobre el nombramient
 
 III.- Si el deudor no se pone de acuerdo para los efectos de la fracción que antecede, con la Tesorería Municipal, ésta nombrará perito tercero, escogiéndolo dentro de los de institución bancaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-IV.- En caso de detectarse deficiencias, alteraciones, u omisiones en la valuación del bien embargado, para efectos del remate, a los peritos valuadores responsables que se encuentren inscritos en el Registro Estatal se les aplicarán las sanciones que se establecen en el artículo 88-Bis I de este Código; sin perjuicio de las sanciones penales o fiscales a que sean acreedores.
+IV.- En caso de detectarse deficiencias u omisiones en la valuación del bien embargado, para efectos del remate, a los peritos valuadores responsables que se encuentren inscritos en el Registro Estatal, las autoridades municipales lo harán del conocimiento de la Secretaría de Finanzas y Administración del Gobierno del Estado, sin perjuicio de las sanciones penales o fiscales a que sean acreedores, para efectos de que ésta aplique las sanciones siguientes (sic):
 
 a).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
@@ -2160,3 +2112,13 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero del año 2000.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2001.
