@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-fomento-economico-12561
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-15"
-last_updated: "1997-11-15"
+last_updated: "2001-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de noviembre de 1997.
 
@@ -54,6 +54,8 @@ Dirección de Fomento.
 Dirección de Empleo.
 
 Dirección de Financiamiento y de Estudios Estratégicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2001)</small>
 
 Dirección Jurídica.
 
@@ -209,7 +211,7 @@ VII.- Celebrar convenios de coordinación con las entidades para el otorgamiento
 
 VIII.- Promover proyectos de inversión para la micro, pequeña y mediana empresa en los diferentes municipios del Estado;
 
-IX.- Realizar un proceso permanente de obtención de información a través de la aplicación de diferentes metodología (sic) para la elaboración de proyectos de inversión específicos;
+XI.- Realizar un proceso permanente de obtención de información a través de la aplicación de diferentes metodología (sic) para la elaboración de proyectos de inversión específicos;
 
 X.- Promover estudios en temas estratégicos que incidan en el fomento económico del Estado;
 
@@ -225,9 +227,37 @@ XV.- Evaluar el impacto económico de las inversiones en el Estado; y
 
 XVI.- Las demás que le señalen las leyes y reglamentos o que determine el Secretario.
 
-###### ARTICULO 10°.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2001)</small>
 
-Las ausencias y faltas temporales del Secretario serán suplidas por el Director de Fomento Económico; a falta de éste, por el Director de Financiamiento y Estudios Estratégicos. Asimismo, dichos funcionarios en el orden mencionado, estarán autorizados para firmar, por acuerdo, la correspondencia oficial del titular de la dependencia que sea necesaria.
+###### ARTICULO 10o.
+
+Las ausencias y faltas temporales del Secretario serán suplidas por el Director de Fomento Económico; a falta de éste, por el Director de Financiamiento y Estudios Estratégicos; en caso de no encontrarse alguno de los funcionarios anteriores, por el Director Jurídico; y a falta de cualquiera de ellos, lo hará el Director de Empleo. Asimismo, dichos funcionarios en el orden mencionado, estarán autorizados para firmar, por acuerdo, la correspondencia oficial del titular de la dependencia que sea necesaria.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2001)</small>
+
+###### ARTICULO 11o.
+
+La Dirección Jurídica tendrá las siguientes atribuciones:
+
+I. Llevar a cabo la realización y coordinación de los programas de apoyo a la regulación jurídica en el ámbito del fomento económico del Estado, la desregulación económica y la simplificación administrativa;
+
+II. Participar y coordinarse con las demás dependencias federales, estatales y municipales para la realización de los programas relativos a la ventanilla única de gestión para la constitución de empresas;
+
+III. Formular y presentar las denuncias y querellas que la Secretaría deba llevar a cabo;
+
+IV. En coordinación con la Dirección de Asuntos Jurídicos y Consultoría de la Secretaría General de Gobierno:
+
+a).- Resolver los asuntos de carácter legal en los que tenga injerencia la Secretaría, así como opinar y emitir dictamen sobre las consultas que en materia jurídica se formulen a la Secretaría;
+
+b).- Establecer las bases y los requisitos legales para las actividades de fomento económico del Estado;
+
+c).- Formular proyectos de leyes, decretos y acuerdos necesarios de la Secretaría;
+
+d).- Intervenir en los trámites judiciales y en los juicios de amparo en los que se señale al Secretario como autoridad responsable.
+
+V. Intervenir en los acuerdos y convenios que firme el Secretario, en coordinación con la Dirección General de Gobierno; y
+
+VI. Las demás que le señalen las leyes y reglamentos o que determine el Secretario.
 
 TRANSITORIOS (SIC)
 
@@ -238,3 +268,17 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo estatal, en la ciudad de Colima, a primero de noviembre de mil novecientos noventa y siete.
 
 A t e n t a m e n t e.- ''SUFRAGIO EFECTIVO. NO REELECCIÓN''.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.- EL SECRETARIO DE FOMENTO ECONÓMICO, ING. CARLOS GUILLERMO AGUIRRE CEBALLOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE ABRIL DE 2001.
+
+ARTICULO PRIMERO,- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se autoriza a la Secretaría de Finanzas para que provea los recursos indispensables a la Secretaría de Fomento Económico para incorporación de la Dirección creada mediante el presente Decreto, con las provisiones presupuestales existentes hasta que se estructure el presupuesto del 2002.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones reglamentarias que se opongan al presente Decreto.
