@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1986-10-01"
+last_updated: "1987-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1987.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -7209,639 +7209,471 @@ SALUBRIDAD Y ASISTENCIA
 
 ###### ARTICULO 956.
 
-Se declara de interés público la unificación, coordinación y cooperación en materia de salud pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 957.
 
-Compete la acción sanitaria en materia de salud en el Estado:
-
-a).- Al Gobernador del Estado.
-
-b).- A los Servicios Coordinados de Salud Pública en el Estado mientras persista el convenio de coordinación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 958.
 
-Corresponde al Poder Ejecutivo del Estado, todas las atribuciones que en materia de salud pública no estén reservadas expresamente a la Federación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 959.
 
-El Poder Ejecutivo del Estado ejercerá su acción sanitaria en los términos de este Código y sus reglamentos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 960.
 
-El Gobernador del Estado queda facultado para celebrar convenios con la Federación, los Gobiernos de otras Entidades, Ayuntamientos del Estado, sociedades y particulares, a fin de lograr la ampliación de servicios, incrementar la coordinación y cooperación en materia de salud.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 961.
 
-Si desapareciera la coordinación de los servicios con la Federación, el Gobernador determinará la creación y organización del servicio de salud pública en el Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO III. DE LA PREVENCION Y CONTROL DE LAS ENFERMEDADES
 
 ###### ARTICULO 962.
 
-Los Servicios Coordinados de Salud Pública en el Estado de Chihuahua, tienen como función velar por la salud e higiene de sus habitantes y de su medio ambiente, dictando normas y ejerciendo acciones que en la materia determinen los estudios técnicos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 963.
 
-Son auxiliares de los Servicios Coordinados de Salud Pública:
-
-I.- Las Dependencias del Ejecutivo del Estado, que directa o indirectamente estén en relación con problemas de salud:
-
-a).- Patronato de Asistencia Pública del Estado.
-
-b).- Procuraduría General de Justicia del Estado y Agentes del Ministerio Público.
-
-c).- Autoridades Municipales y Comisariados Ejidales.
-
-d).- Dirección de Educación del Estado.
-
-e).- Autoridades de policía y tránsito.
-
-f).- Jueces de Registro Civil.
-
-g).- Instituciones de salud pública o privadas.
-
-h).- Profesionistas y Pasantes de las carreras de Medicina, Enfermería, Medicina Veterinaria y Zootecnia y otras conexas, Arquitectura e Ingeniería;
-
-II.- Dependencias de la Federación y descentralizadas que conforme a las leyes relativas les corresponda intervenir en cuestiones o problemas sanitarios y de salud pública;
-
-III.- Todos los habitantes en caso de epidemia o emergencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 964.
 
-Los Servicios Coordinados de Salud Pública tendrán la más amplia facultad de ejecutar todos los actos que conformes a este Código, reglamentos, instructivos y demás disposiciones relativas competan al ejercicio de sus funciones y para organizar técnica y administrativamente sus servicios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 965.
 
-El presupuesto de ingresos de los Servicios Coordinados de Salud Pública se integrará con las aportaciones que otorgue el Gobierno del Estado, de acuerdo con la partida del presupuesto de egresos del Gobierno del Estado, más los subsidios convenidos con las Presidencias Municipales y las aportaciones de la Federación y por las cuotas de recuperación de que habla el artículo siguiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 966.
 
-La percepción por cuotas de recuperación como son: certificaciones médicas, tarjetas de salud, autorizaciones de planos para construcción de edificios, fraccionamientos, panteones, así como la expedición o revalidación de licencias sanitarias para toda clase de establecimientos comerciales, industriales y de servicio y las cuotas de recuperación por servicios prestados corresponden señalarlas y recabarlas a la Jefatura de los Servicios Coordinados de Salud Pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 967.
 
-Los ingresos que se deriven de la aplicación de este Código en lo relativo a sanciones económicas, serán recaudados por las autoridades fiscales del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 968.
 
-El territorio del Estado se dividirá en jurisdicciones, procurando que coincidan éstas con el territorio de un Municipio o de un grupo de Municipios, atendiendo a las necesidades de la geografía sanitaria del Estado. Cada jurisdicción contará por lo menos con una oficina de salud pública jefaturada por un médico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 969.
 
-El Jefe de los Servicios tendrá la obligación de formular los presupuestos anuales, los que se sujetarán a la aprobación de las partes contratantes en los términos del convenio. El ejercicio de los presupuestos se vigilará por representantes de los fiscos Federales, del Estado o de los Municipios contratantes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 970.
 
-Para ser empleado de los Servicios Coordinados de Salud Pública se requiere:
-
-a).- Para el personal profesional, poseer un título legalmente autorizado por la Dirección General de Profesiones, por la Oficina Estatal de Profesiones y por los Servicios Coordinados de Salud Pública.
-
-b).- Para el personal técnico, tener cursos de adiestramiento sobre su especialidad.
-
-c).- Para las demás personas que desempeñan cargos de responsabilidad, se requiere ser mayor de edad, alfabetizados, de buena conducta y acreditada su aptitud para el trabajo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 971.
 
-Para ser Jefe de los Servicios Coordinados de Salud Pública se requiere que sea Médico graduado en Salud Pública con una experiencia no menor de cinco años y su nombramiento estará sujeto a los convenios celebrados entre la Federación y el Gobierno del Estado.
-
-Para el nombramiento de los demás puestos directivos, el Jefe de los Servicios deberá dar preferencia a profesionistas con adiestramiento en salud pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 972.
 
-Son facultades y atribuciones de los Servicios Coordinados de Salud Pública en el Estado las siguientes:
-
-a).- Conocer todo lo que se relacione con la salud pública en el Estado, siendo el cuerpo consultor del Gobierno en asuntos de esa naturaleza.
-
-b).- Promover el mejoramiento sanitario asistencial en el Estado dirigiendo todos los programas que con este fin se ejecuten.
-
-c).- Promover la ampliación de servicios sanitarios-asistenciales conforme a la real necesidad del Estado, procurando que por lo menos asista un servicio aplicativo en cada Municipio.
-
-d).- Formular los reglamentos necesarios para la aplicación de los preceptos de este Código y los ordenamientos administrativos indispensables para el funcionamiento interno de los Servicios.
-
-e).- Solicitar al Gobernador del Estado la aprobación de los reglamentos sanitarios.
-
-f).- Proponer las reformas necesarias al presente Código por los conductos legales en todos los capítulos que requieran cambios de procedimientos, de acuerdo con los adelantos técnicos y administrativos en materia de salud pública.
-
-g).- Vigilar que las instituciones y los individuos que se dedican a las actividades de salud pública queden sujetos a la autorización y dirección técnica de los Servicios Coordinados de Salud Pública en el Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 973.
 
-En materia de salud pública los Servicios Coordinados realizarán las actividades siguientes:
-
-a).- Prevención y control de las enfermedades y accidentes que afecten la salud pública.
-
-b).- Educación y promoción para la salud.
-
-c).- Saneamiento del medio ambiente y control sanitario de los alimentos, bebidas y medicamentos.
-
-d).- Lucha contra el alcoholismo y toxicomanía.
-
-e).- Del ejercicio de las ciencias médicas y actividades conexas.
-
-f).- Control de la bioestadística médica.
-
-g).- Promociones de nuevos servicios médicos-sanitarios.
-
-h).- Instrucción y adiestramiento en materia sanitaria.
-
-i).- Acción extraordinaria en materia de salud pública.
-
-j).- Control de los problemas de salud pública en los límites de los Estados colindantes del país y Estados Unidos de Norteamérica.
-
-k).- Participación en el desarrollo socio-económico y cultural de las comunidades.
-
-l).- Las demás que puedan afectar a la salud y bienestar de sus habitantes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO IV. EDUCACION Y PROMOCION PARA LA SALUD
 
 ###### ARTICULO 974.
 
-Por ser de interés público, las autoridades civiles y militares, las instituciones y las personas responsables de servicios médicos o para-médicos en el Estado y los particulares están obligados a informar por la vía más rápida a los Servicios de Salud Pública de todos aquellos casos o defunciones por enfermedades sospechosas o confirmadas que puedan constituir un peligro para la salud de la comunidad, siendo éstas las siguientes:
-
-Son enfermedades de notificación obligatoria: cólera, fiebre tifoidea, fiebre paratifoidea, otras salmonelosis, disentería bacilar, intoxicación alimentaria bacteriana, amibiasis y otras enfermedades diarréicas; influenza epidémica, neumonías, bronconeumonías y las demás infecciones agudas del aparato respiratorio; tuberculosis, en todas sus formas; peste, tularemia, carbunco, brucelosis, muermo, y fiebre transmitida por mordedura de rata; lepra, difteria, tosferina, angina estreptococcica y escarlatina, erisipela, infecciones meningococcicas y tétanos; poliomelitis y otras enfermedades del sistema nervioso central debidas a enterovirus; viruela, varicela, sarampión y rubeóla; fiebre amarilla, dengue, encefalitis vírica transmitida por mosquitos, encefalitis vírica transmitida por garrapatas, encefalitis vírica transmitida por otros artrópodos y fiebres hemorrágicas transmitidas por artrópodos; hepatitis infecciosa, rabia, parotiditis epidémica, psitacosis mononucleosis infecciosa y tracoma activo; tifo epidémico transmitido por piojos, otros tifos, rickettsiosis transmitidos por garrapatas, otros rickettsiosis, paludismo, leishmaniasis, tripanosomiasis y fiebre recurrente; sífilis todas formas, infecciones gonococcicas y otras enfermedades venéreas; leptospirosis y mal de pinto; dermatofitosis, moniliasis actinomicosis, esporotricosis, coccidiodomicosis, histoplasmosis, blastomicosis, micetomas y otras micosis generalizadas; helmintiasis, esquistosomiasis, hidatidosis, triquinosis, oncocercosis, anquilostomiasis y otras helmintiasis intestinales; toxoplasmosis, tricomoniasis-urogenital, acariasis, escabilosis; y las demás que determinen los Servicios Coordinados de Salud Pública en el Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 975.
 
-Es obligatoria la notificación de las enfermedades que se mencionan en el artículo anterior, a la oficina más cercana de los Servicios Coordinados de Salud Pública, o en su defecto, a las autoridades sanitarias auxiliares en los términos que a continuación se especifican:
-
-a).- Inmediatamente de los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: viruela, fiebre amarilla, peste y cólera;
-
-b).- En un plazo no mayor de veinticuatro horas de los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis meningococcica, tifo epidémico, fiebre recurrente, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina de Venezuela; y
-
-c).- En un plazo no mayor de veinticuatro horas, de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 976.
 
-Las medidas de control que determinen las autoridades sanitarias, de acuerdo con el padecimiento de que se trate, serán de observancia obligatoria para todos los enfermos y sus contactos sin distinción de ninguna especie.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 977.
 
-Las instituciones y establecimientos oficiales o particulares, como son: escuelas, hoteles, centros de trabajo, iglesias y lugares de reunión pública, deberán acatar las medidas de control sanitario que se dicten de acuerdo con los problemas epidémicos que aparezcan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 978.
 
-Los hospitales y sanatorios no podrán dar de alta ni autorizar el traslado a su domicilio u otro hospital a enfermos con padecimientos transmisibles sin la previa autorización de la autoridad sanitaria correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 979.
 
-Cuando los Servicios Coordinados de Salud Pública lo estimen conveniente, podrán ordenar, en caso de epidemia, la clausura temporal de cualquier clase de establecimientos o centros de reunión pública que se mencionan en el artículo 977.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 980.
 
-El que padeciere alguna de las enfermedades comprendidas en el artículo 974 tendrá la obligación de sujetarse a tratamiento de un médico titulado y registrado en la Secretaría de Salubridad y Asistencia. Las personas que ejercieren la patria potestad, la tutela o la guarda de menores, tendrán la obligación de proveer lo necesario para que las personas a su cuidado, que padecieran dichas enfermedades, sean atendidas por un médico que reúna las características señaladas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 981.
 
-El traslado de enfermos de afecciones transmisibles sólo podrá realizarse en vehículos acondicionados al efecto y que sean convenientemente desinfectados después de su uso. En consecuencia, no podrán utilizarse en el traslado de enfermos, vehículos destinados a pasajeros o carga ni poner nuevamente al servicio público los que lo hubieren conducido en contravención a lo dispuesto en este artículo, si no han sido desinfectados por o a satisfacción de los Servicios Coordinados de Salud Pública y por cuenta de los interesados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 982.
 
-En los vehículos y otros medios de transportes, privados o públicos, bajo la responsabilidad de sus propietarios y conductores deberán cumplirse estrictamente las medidas de control que se dicten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 983.
 
-Las autoridades municipales y los particulares deberán vigilar el exacto cumplimiento de las disposiciones que en materia sanitaria y como medida de control se dicten en relación con los servicios públicos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 984.
 
-Las medidas preventivas que dicten los Servicios Coordinados de Salud Pública para proteger la salud de sus habitantes serán de observación obligatoria para todos ellos, sin distinción de nacionalidad, religión, sexo, edad, estado civil, consistiendo esta obligatoriedad en:
-
-a).- La vacunación contra la poliomielitis de todos los niños desde las veinticuatro horas de nacidos hasta los tres años de edad.
-
-b).- La vacunación contra la tosferina, difteria, tétanos y las revacunaciones correspondientes cada tres años, a partir de los dos meses de edad.
-
-c).- La vacunación contra la viruela al recién nacido y la revacunación de las mismas personas por lo menos cada cinco años o cuando lo estime pertinente la autoridad sanitaria.
-
-d).- La vacunación contra la tuberculosis de todas las personas menores de quince años.
-
-e).- La vacunación antirrábica de todas las personas mordidas por perros y otros animales sospechosos de rabia.
-
-f).- La aplicación de cualquiera otra vacuna que aconseje la autoridad sanitaria.
-
-g).- La eliminación adecuada de excretas humanas a través de letrinas, fosas sépticas o sistemas de alcantarillado.
-
-h).- La observancia de las medidas de educación higiénica personal y colectiva que se dicten en relación con las diversas enfermedades transmisibles.
-
-i).- Es obligatorio que los enfermos usen medicamentos específicos en las siguientes enfermedades: tuberculosis, enfermedades venéreas, paludismo y lepra.
-
-j).- Las medidas de desinfección y desinsectización que se dicten para combatir o prevenir los padecimientos transmisibles.
-
-k).- Acatar las medidas de control epidemiológico que dicten las autoridades sanitarias para los animales considerados como vectores y reservorios de padecimientos transmisibles al hombre, pudiendo llegarse a su eliminación cuando así convenga a la salud pública.
-
-l).- Es obligatoria la vacunación de los perros contra la rabia, bajo la responsabilidad de sus dueños, con la periodicidad que las autoridades sanitarias señalen y tomen la precaución necesaria para evitar que muerdan a las personas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 985.
 
-Es obligación de los Oficiales del Registro Civil enviar a los recién nacidos a las oficinas aplicativas de salud pública para recibir las vacunas que recomiendan las autoridades sanitarias, sin que esto interfiera con las funciones del Registro Civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 986.
 
-Es obligación de los Oficiales del Registro Civil y los miembros de cultos no autorizar la celebración de los matrimonios que pretendan contraerse, si los interesados no acreditan que no padecen ninguna enfermedad transmisible, así como que se les han hecho las reacciones de laboratorio y exámenes de gabinete que fueren necesarios a juicio de los Servicios Coordinados de Salud Pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 987.
 
-En las maternidades, sanatorios y demás lugares en que se atienden partos, los médicos y parteras, o quienes los substituyan, están obligados a vacunar con los productos que la autoridad sanitaria les proporcione o enviarlos a las oficinas aplicativas de salud pública para su vacunación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 988.
 
-Los Directores de los centros de enseñanza de pre-primaria y primaria solicitarán a los alumnos de nuevo ingreso presenten certificado de vacunación antipoliomielítica, difteria, tosferina, tétanos y contra la tuberculosis, informando a las autoridades sanitarias de los que no cubran este requisito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 989.
 
-Será obligatorio para todos los alumnos de segunda enseñanza, preparatoria y similares, presentar en sus escuelas respectivas el certificado de salud expedido por los centros aplicativos de salud pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 990.
 
-Es obligación de las escuelas primarias, secundarias y profesionales colaborar en los programas de salud pública; para que las escuelas puedan colaborar eficientemente deberán dárseles a maestros y alumnos orientaciones sobre educación para la salud.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 991.
 
-Los maestros de escuela, los manejadores de alimentos, los choferes, los empleados públicos y de establecimientos comerciales, industriales y de servicio, están obligados a someterse a exámenes de salud al inicio de sus actividades y semestralmente cuando la autoridad sanitaria lo estime necesario, para detectar padecimientos infecciosos y obtener, quienes resulten sanos, el certificado de salud correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 992.
 
-Queda estrictamente prohibido trabajar en servicios públicos a las personas que padezcan una de las enfermedades siguientes: tuberculosis pulmonar activa, lepra lepromatosa, sífilis de la piel, tricofitosis de la piel y dermatitis no alérgica.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 993.
 
-Las personas que tengan bajo su control y cuidado animales vacunos y equinos están obligadas a vacunarse contra el tétano.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 994.
 
-En los lugares donde se realicen espectáculos públicos queda prohibida la entrada de menores de dos años de edad y de enfermos notoriamente manifiestos de padecimientos transmisibles, bajo la responsabilidad de los empresarios, encargados y sus empleados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 995.
 
-Para evitar la difusión de las enfermedades venéreas y como lucha contra los vicios del alcoholismo y la degeneración del medio social que actúan perturbando la salud mental y física de las personas, se reprimirá el ejercicio de la prostitución en cualquier aspecto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 996.
 
-Las personas fallecidas, con diagnóstico médico o de presunción a causa de las enfermedades consideradas en el artículo 974 deben ser inhumadas dentro de las veinticuatro horas siguientes a la defunción, evitándose las aglomeraciones humanas en torno a estos cadáveres.
-
-Los cadáveres podrán ser trasladados fuera de la localidad en cajas de madera con forro interno de zinc o en cajas metálicas herméticamente cerradas, dentro de las veinticuatro horas posteriores al fallecimiento.
-
-La prórroga del tiempo requerirá la inyección conservadora del cadáver o su embalsamiento a satisfacción de la autoridad sanitaria.
-
-Los vehículos, capillas y locales de funerarias donde se transporten o velen los cadáveres serán desinfectados a satisfacción de la autoridad sanitaria.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO V. SANEAMIENTO DEL MEDIO AMBIENTE Y CONTROL SANITARIO DE ALIMENTOS, BEBIDAS Y MEDICAMENTOS
 
 ###### ARTICULO 997.
 
-Para los efectos de este Código, son actividades de educación para la salud, aquéllas que tiendan a cambiar la actitud de la población hacia la prevención de las enfermedades, asistencia médica y el mejoramiento de las condiciones del medio ambiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 998.
 
-Los Servicios Coordinados de Salud Pública divulgarán en todo el Estado, los procedimientos y las prácticas de higiene social e individual. Los propios Servicios Coordinados de Salud Pública harán llegar por medio de su personal y la comunidad, empleando recursos técnicos adecuados, los conocimientos esenciales que sean accesibles al público para que éste mejore sus condiciones físicas, mentales y sociales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 999.
 
-Los Servicios Coordinados de Salud Pública en el Estado desarrollarán una labor constante de Educación y Promoción para la Salud.
-
-a).- Con relación a los principios de higiene y en materia de alimentación en todo el Estado.
-
-b).- Para lograr que los habitantes del campo y de las ciudades alcancen condiciones mejores de saneamiento ambiental.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1000.
 
-Para alcanzar el fin enunciado en los artículos anteriores, los Servicios Coordinados de Salud Pública utilizarán los medios de publicación y difusión existentes en el Estado, así como los que puedan promover o crear.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1001.
 
-Los Servicios Coordinados de Salud Pública dictarán las medidas necesarias para evitar la propaganda que se haga por medio de toda clase de publicaciones, impresos, avisos, rótulos, radiodifusión, televisión, cinematógrafo y otros medios publicitarios, que a juicio de los mismos Servicios:
-
-a).- Se engañe al público sobre calidad, pureza, conservación, propiedad, uso de comestibles y bebidas, medicinas, aparatos y útiles e instalaciones sanitarias, procedimientos diversos de embellecimiento, prevención de enfermedades o curación de las mismas.
-
-b).- Se desvirtúen o contraríen en alguna forma las disposiciones que dicten los Servicios Coordinados de Salud Pública en el Estado en materia de Educación Higiénica o de profilaxis de las enfermedades.
-
-c).- Se aconsejen prácticas contrarias para la salud individual o general.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO VI. CEMENTERIOS, INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 1002.
 
-Los Servicios Coordinados de Salud Pública en el Estado dictarán las medidas necesarias para sanear el medio ambiente, tendientes a prevenir o controlar las enfermedades que se mencionan en el artículo 974.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1003.
 
-Serán actividades de Saneamiento las siguientes:
-
-a).- Vigilar la construcción, remodelación y ampliación de edificios, ciudades, poblados, fraccionamientos y panteones.
-
-b).- Promover y ejecutar obras de abastecimiento de agua potable, alcantarillado y pavimentación de ciudades y poblados; la modificación y ampliación de los sistemas ya establecidos que se efectúen por autoridades federales, locales o particulares.
-
-c).- Ejecutar obras relacionadas con el alejamiento, tratamiento y disposición final de los desechos, sean o no conducidos por sistemas de alcantarillado.
-
-d).- Proteger ríos, manantiales, pozos, depósitos y en general, todas las fuentes de abastecimiento de agua para el servicio de los poblados.
-
-e).- Controlar la potabilidad de las aguas destinadas al uso de los habitantes.
-
-f).- Mejorar la vivienda en la zona rural y urbana.
-
-g).- Controlar los locales destinados a fines industriales, comerciales y de servicio, o de explotación agrícola, ganadera y sus anexos.
-
-h).- Controlar los establecimientos dedicados a combatir la fauna nociva.
-
-i).- Prevenir y controlar la contaminación ambiental.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1004.
 
-Los Ayuntamientos y demás autoridades del Estado vigilarán que en sus respectivas jurisdicciones no existan estancamientos de agua, basureros y pantanos que puedan constituir un peligro para la salud. Los Servicios Coordinados de Salud Pública darán la asesoría técnica sobre las medidas que estimen necesarias para el acondicionamiento de dichos lugares.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1005.
 
-Queda prohibido que en los ríos, lagos, lagunas o en cualquier otra fuente de abastecimiento de alguna población, descarguen albañales, desechos y toda clase de conductos, cuyas aguas no estén depuradas convenientemente, a juicio de los Servicios Coordinados de Salud Pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1006.
 
-Los trabajos que puedan provocar estancamientos de aguas o modificar desfavorablemente las condiciones sanitarias del medio, deberán efectuarse sólo con el permiso y bajo la vigilancia de las autoridades sanitarias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1007.
 
-Desde el punto de vista químico y bacteriológico, los Servicios Coordinados de Salud Pública del Estado determinarán sobre la potabilidad de las aguas destinadas al uso de la población.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1008.
 
-Las autoridades, empresas o particulares no podrán suspender o disminuir los servicios de agua potable, desagüe o atarjeas de los edificios o poblaciones; sólo podrán reducirse en los términos del artículo 38 de la Ley Federal de Aguas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1009.
 
-Toda persona, corporación o autoridad que desee obtener una concesión para el servicio de agua de los habitantes de una población deberá solicitarlo a los Servicios Coordinados de Salud Pública en el Estado, que expedirán el permiso correspondiente, previo análisis bacteriológico que practiquen del producto, sin menoscabo de vigilar periódicamente su calidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1010.
 
-Cuando se trata de realizar obras de planificación, urbanismo y planos reguladores de comunidades u otra construcción, el propietario o su representante y el perito constructor de la obra deberán cumplir con los requisitos establecidos en el Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1011.
 
-Para los efectos de este Código se comprenden con el nombre de edificio las construcciones destinadas para habitaciones, comercios, escuelas, oficinas públicas o privadas, hospitales, templos, salones de espectáculos, locales destinados a fábricas, talleres o industrias y demás lugares de reunión, así como todo local, cualquiera que sea el uso a que se destine.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1012.
 
-Cuando se trate de construir, ampliar o reconstruir total o parcialmente un edificio, el propietario o su representante y el perito constructor de la obra deberán cumplir con los requisitos que establece el Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1013.
 
-Todo edificio destinado a usos industrial, comercial o de servicio deberá reunir los requisitos que para cada caso señale el reglamento respectivo, siendo atribución de las autoridades sanitarias el dictar los ordenamientos que sean necesarios para llenar dichos requisitos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1014.
 
-Los locales destinados a establecimientos comerciales, industriales o de servicio no podrán funcionar si no cuentan con la respectiva licencia que para su funcionamiento expidan los Servicios Coordinados de Salud Pública.
-
-El personal que labore en toda esta clase de negocios deberá contar con la tarjeta de salud expedida por los Servicios Coordinados de Salud Publica, quien a la vez podrá dictar las medidas que estime convenientes para la protección de la vida y la salud de los obreros que trabajen en dichos negocios, de acuerdo a las disposiciones establecidas por el Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1015.
 
-Los edificios destinados a mercados, rastros y establos, para su funcionamiento deberán contar con la autorización escrita de los Servicios Coordinados de Salud Pública, cumpliendo con los requisitos que para cada caso señale el reglamento respectivo, y el personal que preste sus servicios en los mismos deberá, asimismo, cumplir con los requisitos de higiene y demás condiciones señalados por el propio Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1016.
 
-Los edificios o predios que se utilicen para terminales de camiones de carga y pasajeros, para su funcionamiento deberán contar con la licencia expedida por los Servicios Coordinados de Salud Pública, y el personal que labore en los mismos deberá contar con tarjetas de salud, de acuerdo a los requisitos que establece el Reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1017.
 
-Será responsabilidad de la autoridad municipal de cada lugar, el tratamiento, recolección y disposición final de las basuras, quien dictará las medidas que considere convenientes en cada caso, atento a lo dispuesto por el reglamento respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO VII. TRASLACION DE CADAVERES
 
 ###### ARTICULO 1018.
 
-Las inhumaciones solamente se efectuarán en los cementerios autorizados por la ley y que reúnan los requisitos que señalen este Código y los reglamentos respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1019.
 
-Para establecer un cementerio en cualquier lugar del Estado se requiere el permiso previo de los Servicios Coordinados de Salud Publica.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1020.
 
-Todo nuevo cementerio estará sujeto a las condiciones que fije el reglamento de la materia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1021.
 
-Los Servicios Coordinados de Salud Pública están autorizados para ordenar la ejecución de toda clase de obras o trabajos que conceptúen necesarios para el mejoramiento higiénico de los cementerios ya existentes y aun para ordenar su clausura temporal o definitiva cuando estimen que constituyen una amenaza para la salud pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1022.
 
-Todo cementerio, aun cuando pertenezca a empresa particular, estará sujeto a la inspección de los Servicios Coordinados de Salud Pública y de los agentes que de él dependan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1023.
 
-Las inhumaciones se harán siempre por orden escrita del oficial o juez del Registro Civil, previa presentación del certificado facultativo, expedido en los términos de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1024.
 
-Las autopsias de los cadáveres no podrán practicarse fuera de los hospitales, sino con autorización del Gobierno local y previa opinión de los Servicios Coordinados de Salud Pública en vista del certificado médico de defunción. Las autopsias podrán también practicarse por mandato judicial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1025.
 
-En los hospitales, las autopsias se practicarán sujetándose a las disposiciones de los reglamentos respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1026.
 
-Ninguna inhumación podrá hacerse antes de que transcurran veinticuatro horas del fallecimiento, salvo que el médico que expida el certificado de defunción exprese en él que es urgente que se inhume cuanto antes el cadáver, o que las autoridades sanitarias así lo determinen por igual causa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1027.
 
-Los cadáveres no podrán permanecer sin inhumarse más de cuarenta y ocho horas, salvo que lo exijan investigaciones judiciales o que se autorice por los Servicios Coordinados de Salud Pública su embalsamiento o conservación en las condiciones que fije la misma autoridad.
-
-Los administradores de los cementerios están obligados a dar aviso a la autoridad sanitaria del lugar, y si no existiere ésta, a la más inmediata, de los casos en que se haya violado esta disposición, para que, previa investigación, se sancione a los que resulten responsables de la demora.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1028.
 
-Los reglamentos a que se refieren los artículos anteriores o, en su defecto, los Servicios Coordinados de Salud Pública, determinarán el tiempo mínimo que han de permanecer los restos en las fosas. Mientras este plazo no termine, las exhumaciones serán prematuras y sólo podrán verificarse en los términos del artículo siguiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1029.
 
-Las exhumaciones prematuras y las ordenadas por la autoridad judicial sólo podrán hacerse mediante los requisitos que fijen en cada caso los Servicios Coordinados de Salud Pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1030.
 
-Las exhumaciones de los restos que hayan cumplido ya el tiempo señalado para su permanencia en cada cementerio y que no sean reclamados por sus deudos, se harán conforme lo determine el reglamento respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO VIII. LUCHA CONTRA EL ALCOHOLISMO Y TOXICOMANIA
 
 ###### ARTICULO 1031.
 
-La entrada y salida de cadáveres humanos y su traslado de un lugar a otro, sólo podrán hacerse mediante el permiso que previamente expidan en cada caso los Servicios Coordinados de Salud Pública y siempre que se llenen todos los requisitos que establezca el reglamento especial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1032.
 
-Los permisos a que se refiere el artículo anterior podrán solicitarse directamente o por conducto de los delegados de cada zona o población.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1033.
 
-Los Servicios Coordinados de Salud Pública podrán negar el permiso para la entrada, salida o transporte de cadáveres, cuando, no obstante que se llenen los requisitos señalados por el respectivo reglamento, estimen que existe peligro para la salud pública, y dictarán las medidas que juzguen necesarias para evitar dicho peligro.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO IX. DEL EJERCICIO DE LAS CIENCIAS MEDICAS Y ACTIVIDADES CONEXAS
 
 ###### ARTICULO 1034.
 
-Para los efectos de este Código se consideran como bebidas alcohólicas aquéllas que contengan más de dos por ciento de alcohol.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1035.
 
-Las bebidas alcohólicas sólo podrán expenderse al público y consumirse por éste en establecimientos autorizados para tales fines.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1036.
 
-No se autorizará la apertura de nuevos establecimientos para el consumo en ellos de bebidas cuyo contenido alcohólico exceda del cinco por ciento, salvo la excepción contenida en el artículo 242 del Código Sanitario de los Estados Unidos Mexicanos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1037.
 
-En armonía a lo que establece el artículo 244 del Código Sanitario de los Estados Unidos Mexicanos, los expendios para consumo de bebidas alcohólicas sólo podrán funcionar con los horarios que establece el propio Código y atendiendo las características de cada zona del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1038.
 
-Los establecimientos a que se refiere el artículo anterior no podrán funcionar en proximidad de escuelas, centros de trabajo, centros deportivos u otros centros de reunión para niños y jóvenes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1039.
 
-La propaganda y publicidad para bebidas alcohólicas y del tabaco, y las empresas dedicadas a esta actividad estarán sujetas a las restricciones reglamentarias acordes a los artículos 247 al 252 del Código Sanitario de los Estados Unidos Mexicanos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1040.
 
-En el Estado se aplicarán con toda severidad los ordenamientos legales que impidan el comercio, importación, exportación, transporte, siembra, cultivo, preparación, uso o consumo y, en general, todo acto relacionado con el tráfico o suministro ilegal de estupefacientes o de cualquier producto reputado como tal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1041.
 
-Se promoverá la readaptación de drogadictos y toxicómanos utilizando los recursos que existan en el Estado o en el país.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO X. DE LA BIOESTADISTICA MEDICA
 
 ###### ARTICULO 1042.
 
-Para ejercer en el Estado la medicina, cirugía, obstetricia, homeopatía, enfermería, farmacia, ciencias químicas y biológicas, veterinaria, odontología, ingeniería sanitaria y cualquiera otra profesión en relación con la salud pública, se requiere:
-
-I.- Poseer título profesional oficialmente reconocido y registrado en los términos de este Código, así como en la Secretaría de Salubridad y Asistencia; o,
-
-II.- Tener o recibir permiso de la autoridad sanitaria para el ejercicio empírico de alguna de ellas en las circunstancias que este Código establece y únicamente en los lugares en donde no haya profesionista titulado:
-
-III.- Registrarse como profesionista o práctico ante los Servicios Estatales de Salud Publica.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1043.
 
-Queda estrictamente prohibido a quienes no posean título profesional oficialmente reconocido y registrado en los términos de este Código, hacerse llamar o enumerar, anteponiendo o posponiendo a su nombre propio la palabra doctor, médico, cirujano, partera, enfermera, farmacéutico, químico bacteriólogo, veterinario, dentista, ingeniero sanitario o cualquiera otra palabra, signo o conjunto de términos que den a comprender que quienes lo usan se dedican como profesionistas el (sic) ejercicio de las ciencias médicas o sus afines.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1044.
 
-Comete usurpación de profesión todo aquel que, sin título profesional legalmente reconocido y registrado en los términos de este Código, recete, practique intervenciones quirúrgicas, curaciones o anestesias y, en general, ejerza cualquiera actividad médica, sus conexas y similares y cualquiera otra relacionada con la salud pública. Se dejan a salvo los derechos de los perjudicados para demandar la acción penal en cualquier caso en que resulte dañada su salud o puesta en peligro su vida.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1045.
 
-En los lugares donde no haya profesionistas titulados legalmente, y de acuerdo con las necesidades requeridas, los Servicios Coordinados de Salud Pública podrán autorizar el ejercicio de algunas actividades médicas especificadas a personas que carezcan de título, siempre que éstas llenen los siguientes requisitos:
-
-I.- Haber cursado la enseñanza secundaria o cuando menos la instrucción primaria;
-
-II.- Tener mayoría de edad;
-
-III.- Haber hecho un curso de adiestramiento de alguna Dependencia de la Secretaría de Salubridad y Asistencia u otras instituciones afines reconocidas, en cuyo caso podría dispensarse el requisito anterior;
-
-IV.- Resultar aprobado en un examen teórico-práctico sobre la actividad para profesional que pretende ejercer, ante un jurado no menor de tres profesionistas designados al efecto por los Servicios Coordinados de Salud Pública;
-
-V.- Obtener la autorización oficial legalizada del Jefe de los Servicios Coordinados de Salud Pública como resultado de haber llenado los requisitos anteriores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1046.
 
-Las personas autorizadas para el ejercicio empírico, sólo podrán iniciar actividades en los lugares o en las poblaciones donde no existan profesionistas legalmente autorizados y que radiquen en dichos lugares, quedando exceptuadas las personas que desempeñen una actividad oficial de salud pública bajo la vigilancia de profesionistas titulados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1047.
 
-Las autorizaciones para el ejercicio empírico sólo serán válidas para el lugar para el que se expidan. Cualquier cambio de radicación deberá ser motivo de nueva autorización.
-
-También se cancelarán al llegar a radicarse en ese lugar el profesionista respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1048.
 
-Los prácticos autorizados, en sus comunicaciones oficiales, deberán anotar claramente su carácter "no titulado" y no podrán expedir certificados de orden médico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1049.
 
-Solamente los médicos titulados, legalmente autorizados para ejercer, pueden expedir certificados de salud, prenupciales, de enfermedad y de defunción. El cumplimiento de este ordenamiento será recomendación especial a los oficiales del Registro Civil para la depuración de los datos estadísticos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1050.
 
-Los médicos y los prácticos autorizados están obligados a colaborar en todos los ordenamientos de los Servicios Coordinados de Salud Pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO XI. PROMOCIONES DE NUEVOS SERVICIOS MEDICO-SANITARIOS
 
 ###### ARTICULO 1051.
 
-Los Servicios Coordinados de Salud Pública realizarán las labores de estadística necesarias, de acuerdo con las normas o instructivos que esa propia autoridad dicte al respecto o señalen los reglamentos para la formación de la geografía y estadística médicas. Para esta labor contarán con la cooperación de las demás Dependencias del Ejecutivo del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO XII. DEL ADIESTRAMIENTO EN SALUD PUBLICA
 
 ###### ARTICULO 1052.
 
-Los Servicios Coordinados de Salud Pública en el Estado, en conocimiento de las situaciones que en materia de salud confrontan sus habitantes, promoverán la instalación de nuevos servicios médico-sanitarios, tanto en la ciudad como en el campo y de acuerdo a la solicitud de grupos organizados o de población que lo demande, tomando en cuenta la participación activa de los solicitantes, tanto para la construcción como para el funcionamiento, quedando la ubicación condicionada a beneficiar el mayor núcleo de población. Será el Gobernador del Estado quien autorice las obras a construir.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO XIII. ACCION EXTRAORDINARIA EN MATERIA DE SALUD PUBLICA
 
 ###### ARTICULO 1053.
 
-Los Servicios Coordinados de Salud Pública, tomando en consideración los antecedentes de instrucción secundaria y superior y el empeño en las actividades que le corresponden, podrá gestionar el adiestramiento en salud pública que en cada caso corresponda, para que su personal asista a cursos formales en el país o en el extranjero conforme a las bases que los propios Servicios o la superioridad determinen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1054.
 
-Es responsabilidad de los Servicios Coordinados de Salud Pública en el Estado la organización periódica de cursos de adiestramiento en base a los requerimientos de los programas que se realizan y los recursos con que se cuenten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1055.
 
-Los Servicios Coordinados de Salud Pública en el Estado participarán en los eventos científicos regionales, estatales, nacionales o internacionales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO XIV. CONTROL DE LOS PROBLEMAS DE SALUD PUBLICA CON ESTADOS LIMITROFES
 
 ###### ARTICULO 1056.
 
-En caso de epidemias causadas por enfermedades exóticas, la Secretaría de Salubridad y Asistencia y los Servicios Coordinados de Salud Pública en el Estado, dictarán de inmediato las medidas preventivas de emergencia que sean necesarias a reserva que después sean sancionadas por el Gobernador.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1057.
 
-Las autoridades locales prestarán la más amplia colaboración cuando las autoridades sanitarias ejerciten dentro del Estado una acción extraordinaria.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1058.
 
-El Gobierno del Estado, a través de los Servicios Coordinados de Salud Pública, hará del conocimiento de la población, la región o regiones amenazadas que queden sujetas durante el tiempo que se refiera a las acciones extraordinarias en materia de salud pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1059.
 
-Las acciones extraordinarias en materia de salud pública se ejercerán por medio de grupos de profesionales y técnicos que aseguren la operación que cada caso requiera, quedando el nombramiento del jefe responsable de estos grupos a cargo del Gobernador del Estado, a propuesta del Jefe de los Servicios Coordinados de Salud Pública, y tendrá las siguientes atribuciones:
-
-I.- Dictar todas las medidas que en materia de salud pública se requieran para el desempeño de las acciones relacionadas a las situaciones de urgencia o de emergencia y que aseguren la protección y restauración de la salud, consumo de alimentos, disponibilidad de agua, abrigo, transporte y todas las demás que garanticen la protección de la población afectada;
-
-II.- Disponer libremente de todos los medios de transporte de propiedad pública y la utilización de los medios de comunicación existentes, pudiendo, en su caso, restringir o paralizar estos recursos cuando la situación de emergencia así lo demande;
-
-III.- Encomendar a las autoridades locales de los lugares sujetos a esta acción, el desempeño de las funciones que estime necesarias;
-
-IV.- Las demás que determinen los Servicios Coordinados de Salud Pública en el Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1060.
 
-Si las autoridades a que se refiere el artículo anterior se negaran al desempeño de las acciones que se les encomienden, serán acreedoras a las sanciones que para el caso establece este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1061.
 
-Cuando hubieren desaparecido las causas motivo de la declaración de quedar sujeta una región a la acción extraordinaria, el Gobernador lo declarará así utilizando los medios que a su criterio considere apropiados y por medio de un acuerdo que publicará en el Periódico Oficial del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO XV. DESARROLLO SOCIO-ECONOMICO Y CULTURAL
 
 ###### ARTICULO 1062.
 
-Para el control de las situaciones de salud que pudieren afectar a las localidades limítrofes del Estado, se ejercerá la vigilancia epidemiológica correspondiente, a través de las oficinas dependientes de los Servicios Coordinados de Salud Pública, que coordinarán esta acción con otras dependencias oficiales, descentralizadas o privadas, a través del conocimiento de cada caso en particular y dictando las medidas correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 1063.
 
-Los Servicios Coordinados de Salud Pública en el Estado participarán en todas las actividades para el desarrollo socio-económico y cultural de la comunidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1064.
 
-La acción preventiva, curativa y social se hará extensiva para beneficio de los grupos cuya condición social es limitada, utilizando en forma racional los recursos humanos y materiales existentes y aquéllos que puedan obtenerse como resultado de la coordinación entre instituciones y dependencias afines.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1065.
 
-El personal adscrito a los Servicios Coordinados de Salud Pública tiene la obligación de aceptar las comisiones que se le confieran, aportando en consecuencia, sus conocimientos y experiencia con este propósito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ## TITULO SEGUNDO. SANCIONES ADMINISTRATIVAS
 
@@ -7849,79 +7681,61 @@ El personal adscrito a los Servicios Coordinados de Salud Pública tiene la obli
 
 ###### ARTICULO 1066.
 
-Toda infracción a las prevenciones de este Código y sus reglamentos, así como a las disposiciones que dicten las autoridades sanitarias, será considerada como falta administrativa, salvo que constituya una infracción antisocial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1067.
 
-Los reglamentos de este Código no podrán establecer correcciones mayores de treinta y seis horas, como pena directa, o multas superiores a las fijadas en el Capítulo siguiente, ni permutar las mismas multas por arrestos que excedan de quince días.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1068.
 
-Tratándose de infractores que comprueben su calidad de jornaleros u obreros, la multa que se les imponga nunca podrá ser mayor del importe de sus jornales o sueldos de una semana.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1069.
 
-En los casos en que se haya permutado una multa por el arresto correspondiente y el infractor no deseare cumplir totalmente el arresto que le hubiere sido impuesto, se le pondrá en libertad previo pago de la suma que corresponde a los días que le faltaren, calculados proporcionalmente, dividiendo el total de la multa que le haya sido impuesta entre el número de días por que se le haya permutado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1070.
 
-La aplicación de las sanciones por las faltas a que se refieren los artículos anteriores se entiende sin perjuicio de las demás medidas de salubridad que conforme a este Código y sus reglamentos puedan dictar las autoridades sanitarias, tales como clausuras, desocupaciones, demoliciones, suspensión de trabajos, etc.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1071.
 
-Son responsables de las infracciones a este Código y sus reglamentos todos los que tomen parte en la concepción, preparación o ejecución del hecho que constituye la falta o presten auxilio o cooperación de cualquier especie, o induzcan directamente a alguno a cometerla.
-
-Las autoridades sanitarias podrán aumentar o disminuir la sanción respectiva, dentro de los límites fijados por la ley, según la participación de cada infractor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1072.
 
-Cuando la multa sea de cantidad fija e invariable, se impondrá en todo caso; pero si la ley señala un máximo y un mínimo, siempre se tendrá en cuenta para fijar la sanción:
-
-I.- La naturaleza de la acción u omisión y de las medidas empleadas para ejecutarla y la extensión del daño causado o del peligro corrido;
-
-II.- La edad, educación, ilustración y costumbres y la conducta procedente del infractor, los motivos que lo impulsaron o determinaron a infringir la ley y sus condiciones económicas;
-
-III.- Las condiciones especiales en que se encontraba en el momento de la comisión de la falta, y los demás antecedentes y condiciones personales que puedan comprobarse.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1073.
 
-Las cantidades que se adeuden por concepto de multas impuestas, de conformidad con este Código y sus reglamentos, tendrán preferencia sobre cualquier otra especie de obligaciones del penado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1074.
 
-Todas las penas que en este Código y en sus reglamentos se establezcan, se entienden sin perjuicio de la responsabilidad civil que en cada caso estarán en posibilidad de hacer valer las personas que hayan resentido perjuicios por los actos correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1075.
 
-El Gobernador podrá conceder a los infractores las facilidades de pago o la suspensión de ejecución que estime pertinente, respecto de las multas que se les hayan impuesto por contravenir las disposiciones de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1076.
 
-Las multas establecidas en el Capítulo siguiente no se aplicarán cuando los hechos, motivo de la infracción, constituyan la comisión de una infracción de la competencia y jurisdicción de las autoridades judiciales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ### CAPITULO UNICO. DEL PROCEDIMIENTO
 
 ###### ARTICULO 1077.
 
-Se impondrá multa de un peso a cinco mil pesos a los funcionarios, autoridades y agentes auxiliares del servicio sanitario local, por faltas en que incurran por violación a las disposiciones de este Código y sus reglamentos; por desobediencia a las disposiciones de los Servicios Coordinados de Salud o del Consejo Superior de Salubridad, por morosidad o negligencia en el cumplimiento de las mismas o en el desempeño de las funciones que con relación a este mismo Código y sus reglamentos les están encomendadas, sin perjuicio de la aplicación de las sanciones que corresponda cuando sean constructivas de delitos y a lo previsto en el Código Sanitario de los Estados Unidos Mexicanos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1078.
 
-Será castigada con multa de un peso a cincuenta mil pesos toda persona, empresa o negociación, sociedad o corporación que se oponga, impida o estorbe en cualquier forma:
-
-I.- La práctica de las medidas profilácticas o disposiciones que dicten los Servicios Coordinados de Salud Pública, el Consejo Superior de Salubridad, los delegados sanitarios y demás agentes, en observancia o para el cumplimiento de las disposiciones de este Código y sus reglamentos;
-
-II.- La práctica de inspecciones o visitas en todos los edificios, establecimientos y demás lugares a que se refiere el artículo 1086.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1079.
 
-Las infracciones no comprendidas en los artículos anteriores serán castigadas de acuerdo con las prevenciones siguientes:
-
-I.- Con multa de un pesos a cincuenta mil pesos, las infracciones que se cometan a lo dispuesto por el Capítulo III del Título Primero;
-
-II.- Con multa de un peso a diez mil pesos, las infracciones que se cometan a lo previsto por el Capítulo IV del Título Primero;
-
-III.- Con multa de un peso a cinco mil pesos, en todos los demás casos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ## TITULO TERCERO
 
@@ -7929,57 +7743,47 @@ III.- Con multa de un peso a cinco mil pesos, en todos los demás casos.
 
 ###### ARTICULO 1080.
 
-Los Tribunales del Estado conocerán de los delitos que se cometan en contra de las disposiciones contenidas en el presente Código, cuya observancia corresponda exigir a la autoridad sanitaria local.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1081.
 
-Los hechos delictuosos que sorprendan o de que tengan conocimiento las autoridades sanitarias, sus funcionarios o agentes, en ejercicio de sus funciones, deberán ser consignados a las autoridades judiciales competentes por los conductos que las leyes establezcan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1082.
 
-Las faltas que se cometan por infracción a las disposiciones contenidas en el presente Código, cuya observancia corresponde exigir a la autoridad sanitaria local, serán castigadas:
-
-I.- Por el Jefe o Director de los Servicios Coordinados de Salud Pública;
-
-II.- Por los delegados de los Servicios Coordinados de Salud Pública en las zonas o Municipios;
-
-III.- Por los jefes de brigadas o de servicios especiales, dependientes de los Servicios Coordinados de Salud Pública;
-
-IV.- Por los demás funcionarios y agentes sanitarios facultados expresamente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1083.
 
-Para hacer efectivas las multas se aplicará la facultad económica-coactiva, de acuerdo con este Código y con las leyes y disposiciones respectivas, por la Tesorería General y sus dependencias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1084.
 
-Toda multa que se recaude por infracción a los artículos de este Código e impuesta por las autoridades sanitarias, deberá ingresar a la Tesorería General del Estado, directamente, o por los conductos que establezcan las leyes y reglamentos respectivos, con excepción de lo previsto en el Código Sanitario de los Estados Unidos Mexicanos y sus reglamentos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1085.
 
-Los infractores estarán facultados para impugnar las sanciones que se les impongan con arreglo a este Libro por alguno de los medios de impugnación y en los términos previstos en los artículo 394 al 434 del Código Fiscal del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1086.
 
-Los funcionarios o agentes del ramo de salubridad pueden penetrar a todos los edificios, establecimientos mercantiles, industriales o fabriles y, en general, a todos los lugares a que se hace referencia en este Código y sus reglamentos, para el cumplimiento de sus respectivos encargos oficiales, a cuyo efecto estarán provistos de credencial expedida por el Jefe de los Servicios Coordinados de Salud Pública en el Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1087.
 
-Los Servicios Coordinados de Salud Pública y los funcionarios que de él dependan harán uso de los medios que sean necesarios, incluyendo el auxilio de la fuerza pública, para hacer que se cumplan las disposiciones de este Código y sus reglamentos, así como las determinaciones que de ellos se deriven.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1088.
 
-El Gobernador del Estado, en el reglamento de los Servicios Coordinados de Salud Pública determinará que asuntos administrativos sanitarios deben ser sometidos a su acuerdo directamente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1089.
 
-Salvo disposición expresa en contrario de este Código y sus reglamentos, o imposibilidad física manifiesta, serán siempre destruidos los objetos, útiles, aparatos o substancias con que se haya cometido o se intente cometer una falta contra la salud pública, para cuyo efecto serán recogidos por las autoridades.
-
-Las autoridades judiciales pondrán a disposición de los Servicios Coordinados de Salud Pública para los mismos efectos señalados en el párrafo anterior, los objetos, útiles, aparatos o substancias con que se haya cometido o intentado cometer un delito o falta contra la salud pública, tan pronto como ya no sean necesarios en el proceso o juicio penal correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 ###### ARTICULO 1090.
 
-Además de los casos de clausura que consignen los reglamentos, y sin perjuicio de la imposición de las multas a que se refiere este Código, las autoridades sanitarias, en los casos de su competencia, quedan facultadas para clausurar edificios, construcciones, fábricas o establecimientos públicos o particulares; para ordenar su desocupación, suspender sus trabajos e impedir todo acto del uso a que se destinen, cuando no se llenen los requisitos que las mismas autoridades juzguen indispensables y que señalen este Código y sus reglamentos. Dichas clausuras persistirán en tanto no se satisfagan los mencionados requisitos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD, P.O. 11 DE MARZO DE 1987)
 
 # LIBRO SEGUNDO
 
@@ -10925,15 +10729,15 @@ f) Participar en la creación y administración de zonas de reserva ecológica; 
 
 IX.- Las demás que les otorguen las disposiciones legales relativas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
 ### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1489.
 
@@ -11057,9 +10861,11 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1502.
 
@@ -11073,9 +10879,9 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1504.
 
@@ -11171,11 +10977,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1515.
 
@@ -11225,7 +11029,7 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11271,7 +11075,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11315,7 +11119,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11367,7 +11171,7 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
@@ -11385,7 +11189,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO VII. DE LAS CONURBACIONES
 
@@ -11439,7 +11243,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -13250,3 +13054,25 @@ ESTA LEY ENTRARÁ EN VIGOR EL DÍA CUATRO DE OCTUBRE DE MIL NOVECIENTOS OCHENTA 
 ###### ARTICULO 2o.
 
 SE DEROGAN LOS ARTÍCULOS DEL 1o. AL 72 Y DEL 1466 AL 1473 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO.
+
+P.O. 11 DE MARZO DE 1987.
+
+LEY ESTATAL DE SALUD
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor treinta días después de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+En la misma fecha se derogan los artículos del 956 al 1090 del Código Administrativo del Estado.
+
+###### ARTICULO TERCERO.
+
+Todos los actos, procedimientos y recursos administrativos relacionados con esta Ley, que se hubieren iniciado bajo la vigencia del Código Administrativo del Estado, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+
+###### ARTICULO SEPTIMO.
+
+En tanto se expide la Ley que regule la Junta de Asistencia Privada a que se refiere el Artículo 138 de este Ordenamiento seguirán en vigor los artículos respectivos del Código Administrativo del Estado y las facultades que a tal Institución correspondan, en tanto se concluya su organización, la realizará la Dirección General de Desarrollo Social.
