@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-obras-publicas-del-estado-de-baja-california-sur-2981"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-12"
-last_updated: "2004-08-10"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 31 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 12 de septiembre de 1984.
 
@@ -660,3 +662,15 @@ B.O. 10 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan en su letra o en su espíritu a esta Ley.
+
+B.O. 31 DE FEBRERO DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur
+
+SEGUNDO.- Se abroga la Ley de Obras Públicas del Estado de Baja California sur publicada en el Boletín Oficial del Gobierno del Estado el día 12 de septiembre de 1984.
+
+TERCERO.- El Ejecutivo del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a 180 días naturales, contados a partir del día siguiente en que entre en vigor el presente ordenamiento.
+
+CUARTO.- Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente de resolución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+QUINTO.- Los contratos de obra pública y servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
