@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2002-10-10"
+last_updated: "2002-10-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE OCTUBRE DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -337,7 +337,9 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 2.- Un tribunal unitario con sede en Zacatecas.
 
-3.- Dos juzgados de distrito en el Estado de Zacatecas, con sede en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 48/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2002)</small>
+
+3.- Dos juzgados de distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y uno con sede en Guadalupe.
 
 4.- Tres juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
@@ -643,7 +645,9 @@ Los juzgados de distrito en el Estado de Hidalgo, con residencia en Pachuca, eje
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
-Los juzgados de distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 48/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2002)</small>
+
+Los juzgados de distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y otro con sede en Guadalupe, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
 
 Los juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
 
@@ -936,3 +940,9 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- El Pleno del Consejo de la Judicatura Federal, determinará en su oportunidad lo relativo a las readscripciones de quienes se desempeñarán como titulares de los juzgados de Distrito especializados en el Estado de Nuevo León, con residencia en Monterrey.
+
+D.O.F. 15 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
