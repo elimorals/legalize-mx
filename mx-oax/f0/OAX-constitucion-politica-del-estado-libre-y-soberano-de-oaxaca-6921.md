@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1958-12-27"
+last_updated: "1959-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1959.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -921,7 +921,7 @@ Los ayuntamientos serán asambleas formadas por elección popular directa, se co
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1959)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -1171,11 +1171,7 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-El Tribunal Superior de Justicia del Estado se compondrá de cinco Magistrados numerarios y dos supernumerarios, que serán nombrados por el Gobernador con la ratificación de la Legislatura.
-
-El Ejecutivo del Estado, con la ratificación de la Legislatura y con causa justificada, podrá separar de sus cargos a los Magistrados del Tribunal Superior de Justicia.
-
-El Tribunal Superior de Justicia, a petición del Ejecutivo, podrá separar de sus cargos con causa justificada, a los Jueces de Primera Instancia.
+El Tribunal Superior de Justicia del Estado se compondrá de siete Magistrados Numerarios y el número de Supernumerarios que determine la Ley Orgánica respectiva. Dichos funcionarios serán nombrados por el Gobernador del Estado con la ratificación de la Legislatura.
 
 ###### ARTICULO 122.
 
@@ -1189,9 +1185,11 @@ No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes ent
 
 El cargo de Magistrado del Tribunal es renunciable, por causa justificada que calificará el Ejecutivo, ante quien presentará la renuncia.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1959)</small>
+
 ###### ARTICULO 124.
 
-El Tribunal Superior de Justicia funcionará siempre en pleno; será presidido por el Magistrado que elija la corporación; el Presidente durará en su encargo un año y podrá ser reelecto.
+El Tribunal Superior de Justicia del Estado funcionará en Pleno y en Salas o solamente en Pleno, según lo determine la Ley Orgánica respectiva, y será presidido por el Magistrado que elija la Corporación. El Presidente durará en su encargo un año y podrá ser reelecto.
 
 ###### ARTICULO 125.
 
@@ -1556,3 +1554,7 @@ P.O. 27 DE DICIEMBRE DE 1958.
 DECRETO No. 94, QUE ADICIONA EL ARTICULO 22 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 Unico.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 1959.
+
+UNICO.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial, de acuerdo con lo dispuesto por el Artículo 164 de la Constitución Particular del Estado.
