@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-de-bienes-y-servicios-para-la-21281
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-02"
-last_updated: "2001-05-02"
+last_updated: "2004-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACION MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2004.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el miércoles 2 de mayo de 2001.
 
@@ -415,9 +415,11 @@ Lo establecido en este Artículo se aplicará también a los contratos de servic
 
 La contratación directa, de adquisiciones de bienes o servicios debe fundarse atendiendo las circunstancias que concurran para cada caso, debiéndose observar criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Administración Pública Municipal.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 42.
 
-El procedimiento de Adquisición de bienes o servicios en forma directa, se efectuará, cuando el monto de la adquisición se encuentre entre el rango inferior a una cuota hasta 280 cuotas, pudiendo la Secretaría de Finanzas y Tesorería Municipal disponer la contratación para la adquisición del bien o servicios de que se trate.
+El procedimiento de Adquisición de bienes o servicios en forma directa, se efectuará, cuando el monto de la adquisición se encuentre entre el rango inferior a una cuota hasta 1,500 cuotas, pudiendo la Secretaría de Finanzas y Tesorería Municipal disponer la contratación para la adquisición del bien o servicios de que se trate.
 
 ###### ARTICULO 43.
 
@@ -530,3 +532,9 @@ PRESIDENTE MUNICIPAL
 C. PROFR. JORGE LUIS PEDRAZA OBREGÓN
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE MAYO DE 2004.
+
+ÚNICO: La presente modificación entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
