@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1993-12-22"
+last_updated: "1994-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1994.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1011,9 +1011,9 @@ Tratándose de adquisición de casa-habitación tipo interés social de nueva co
 
 No se pagará este impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan la Federación, las Entidades Federativas y los Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1994)</small>
 
-Tampoco se pagará el impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosos constituídas en los términos de la Ley de la materia, siempre que, en este ultimo caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+Tampoco se pagará el impuesto establecido en este Capítulo en las Adquisiciones de Inmuebles que hagan los Arrendatarios Financieros al ejercer la opción de compra en los términos del Contrato de Arrendamiento Financiero.
 
 ###### ARTICULO 60.
 
@@ -2389,7 +2389,7 @@ En tratándose del Impuesto Predial, se causará únicamente un Impuesto Adicion
 
 Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los Convenios que se celebren para su otorgamiento y previa autorización del Congreso del Estado, cuando su plazo rebase el período constitucional del Ayuntamiento en funciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 145.
 
@@ -2425,11 +2425,7 @@ II.- Ninguna Autoridad podrá si no existe precepto legal que la faculte para el
 
 III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las leyes fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que las mismas disposiciones legales propongan, con arreglo a los principios de igualdad y equidad, sin crear indebidos privilegios o discriminaciones.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
-
-REMATES
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO UNICO
 
@@ -2493,7 +2489,7 @@ Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos auto
 
 Queda prohibida la celebración de igualas o convenios para el pago o cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo Municipal y expresamente los autorice.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 219.
 
@@ -2635,7 +2631,7 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 160.
 
@@ -2907,23 +2903,15 @@ III.- Por edictos, únicamente en caso de que la persona a quien deba notificars
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-6.- Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal; será necesario hacerle notificación, en la que se expresará:
+ARTICULO 191 BIS-3.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
 
-I.- El nombre del causante;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- La resolución de la que se derive el crédito fiscal y el monto de éste;
-
-III.- Los motivos y fundamentos por lo que se le considera responsable del crédito; y,
-
-IV.- El plazo para el pago que será de quince días, salvo que la Ley señale otro.
+ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2939,11 +2927,19 @@ De las diligencias en que conste la notificación o cita, el ejecutor notificado
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
+ARTICULO 191 BIS-6.- Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal; será necesario hacerle notificación, en la que se expresará:
+
+I.- El nombre del causante;
+
+II.- La resolución de la que se derive el crédito fiscal y el monto de éste;
+
+III.- Los motivos y fundamentos por lo que se le considera responsable del crédito; y,
+
+IV.- El plazo para el pago que será de quince días, salvo que la Ley señale otro.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-3.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
+ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3019,7 +3015,11 @@ Las autoridades, cuando sean requeridas para ello por los ejecutores, prestarán
 
 Para hacer gestiones en nombre ajeno ante las Oficinas Fiscales Municipales, bastará carta poder suscrita por el mandante y dos testigos, o con carta poder suscrita por el mandante y ratificada la firma ante el jefe de la Oficina Fiscal respectiva, este funcionario podrá ordenar la ratificación del poder cuando lo estime conveniente, antes de admitir al procurador y aún después de haberlo admitido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+
+EMBARGOS
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 200.
 
@@ -3053,17 +3053,13 @@ Los escritos y las promociones de los causantes no suspenderán el procedimiento
 
 Los honorarios de los ejecutores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
-
-EMBARGOS
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO V. DISPOSICIONES DIVERSAS
 
 (ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
 
-### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3089,7 +3085,11 @@ VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la per
 
 VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+
+REMATES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
@@ -3319,7 +3319,7 @@ Las tercerías excluyentes de dominio o de preferencia en el pago, se harán val
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3686,3 +3686,17 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO QUINTO.
 
 El presente Decreto entrará en vigor el día 1° de enero de 1994, debiendo ser publicado en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE MARZO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Para el ejercicio fiscal de 1994, las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el Impuesto sobre Adquisición de inmuebles a que se refiere el Artículo 58 de la Ley de Hacienda Municipal vigente.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1994 el Impuesto sobre Adquisición de Inmuebles que resulte a cargo del Contribuyente en dicho año, en ningún caso será mayor a aquel que se hubiere determinado en los términos de las disposiciones vigentes al 30 de Junio de 1991.
