@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2004-07-23"
+last_updated: "2004-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1402,39 +1402,75 @@ XVIII. Verificar el cumplimiento de la Ley, Reglamento, Términos de Referencia 
 
 Corresponde a la Dirección General de Programas Delegacionales y Reordenamiento de la Vía Pública:
 
-I. Acordar con el Secretario de Gobierno, el despacho de los asuntos relacionados con el cumplimiento de los programas delegacionales de desarrollo de las demarcaciones del Distrito Federal;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-II. Proponer al Titular de la Subsecretaría de Gobierno los proyectos de iniciativas de leyes, reglamentos o disposiciones administrativas; planes y programas para la regulación y reordenamiento de las actividades que se realizan en la vía pública, salvo que por ley correspondan a otras Dependencias o Unidades Administrativas;
+I. Acordar con el Secretario de Gobierno, el despacho de los asuntos relacionados con el seguimiento de las funciones desconcentradas de las Delegaciones del Distrito Federal;
 
-III. Proponer, evaluar y aprobar los programas de trabajo y las acciones específicas que realice la Administración Pública Centralizada, en materia de programas delegacionales y reordenamiento de las actividades que se realizan en vía pública que no correspondan a otra Dependencia o Unidad Administrativa y participar en el diseño e instrumentación de la planeación delegacional;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-IV. Planear, organizar y realizar acciones tendientes a reordenar las actividades que se realicen en vía pública, que no estén encomendadas a otra Dependencia o Unidad Administrativa;
+II. Proponer e integrar los proyecto de iniciativas de leyes, reglamentos o disposiciones administrativas; planes y programas delegacionales, así como para la regulación y reordenamiento de las actividades que se realizan en la vía pública, los establecimientos mercantiles, videojuegos y los espectáculos públicos;
 
-V. Establecer y mantener actualizado los estudios, proyectos y análisis de las actividades que se realicen en la en (sic) vía pública, en los términos de la fracción anterior, con la participación que corresponde a las demás autoridades competentes;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-VI. Recopilar y mantener al corriente la información sobre las actividades que se realicen en la vía pública salvo que competa a otra Dependencia o Unidad Administrativa;
+III. Proponer, dar seguimiento y evaluar los programas de trabajo y las acciones específicas que realice la Administración Pública Centralizada y de los Órganos Político-Administrativos, en materia de programas delegacionales, establecimientos mercantiles, espectáculos públicos, videojuegos y reordenamiento de las actividades que se realizan en vía pública que no correspondan a otra Dependencia o Unidad Administrativa y participar en el diseño e instrumentación de la planeación delegacional;
 
-VII. Concertar acciones con representantes de las organizaciones de todas aquellas personas que realicen actividades en la vía pública, con otros sectores para conciliar los intereses de ambos en la solución de problemas específicos; salvo que competa a otra Dependencia o Unidad Administrativa;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-VIII. Realizar los estudios técnicos necesarios para determinar la viabilidad de las actividades que se realicen en la vía pública, salvo que correspondan a otra Dependencia o Unidad Administrativa;
+IV. Planear, organizar y realizar acciones tendientes a reordenar las actividades que se realicen en vía pública, así como de los establecimientos mercantiles, videojuegos y espectáculos públicos, que no estén encomendadas a otra Dependencia o Unidad Administrativa;
+
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+V. Proponer, coordinar y mantener actualizados los estudios técnicos, proyectos y análisis de la viabilidad de las actividades que se realicen en la vía pública, así como de los establecimientos mercantiles, videojuegos y espectáculos públicos, en los términos de la fracción anterior, con la participación que corresponde a las demás autoridades competentes;
+
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+VI. Recopilar, concentrar y mantener actualizada la información sobre los establecimientos mercantiles, espectáculos públicos, videojuegos y las actividades que se realicen en la vía pública salvo que competa a otra Dependencia o Unidad Administrativa;
+
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+VII. Concertar acciones con particulares y representantes de las organizaciones que realicen espectáculos públicos, así como actividades en establecimientos mercantiles y en la vía pública, y en general, con lo relacionado a los programas delegacionales, para conciliar los intereses de diversos sectores; salvo que competa a otra Dependencia o Unidad Administrativa;
+
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+VIII. Operar, integrar y autorizar el registro de videojuegos.
 
 IX. Participar en el diseño e instrumentación de la planeación delegacional; así como participar en la elaboración del Programa General de Desarrollo del Distrito Federal, de los Programas Delegacionales y Parciales de los Órganos Político-Administrativos, y de todos aquellos programas que contribuyan al desarrollo integral de la Ciudad de México, como unidad metropolitana, en coordinación con las Unidades Administrativas competentes del Gobierno del Distrito Federal;
 
 X. Apoyar la organización de las giras y visitas de trabajo que realice el Jefe de Gobierno a las demarcaciones territoriales de los Órganos Político Administrativos;
 
-XI. Auxiliar en la vigilancia del cumplimiento de las disposiciones jurídicas y administrativas que emita el Jefe de Gobierno, en el ámbito territorial de los Órganos Político Administrativo e informar de su cumplimiento al Secretario de Gobierno;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-XII. Elaborar proyectos para la reorganización territorial del Distrito Federal y la determinación de las funciones y la estructura orgánica de los Órganos Político-Administrativos encargados de la acción gubernamental;
+XI. Auxiliar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emita el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal, en el ámbito territorial de los Órganos Político Administrativos e informar de su cumplimiento al Secretario de Gobierno.
 
-XIII. Promover la organización de foros y eventos que contribuyan al desarrollo de los Órganos Político-Administrativos;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+XII. Coordinar y proponer proyectos para la reorganización territorial del Distrito Federal y la determinación de las funciones y la estructura orgánica, ocupacional y de organización de los Órganos Político-Administrativos;
+
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+XIII. Promover la organización de foros y eventos que contribuyan al desarrollo integral de los Órganos Político-Administrativos;
 
 XIV. Apoyar las tareas del Consejo de Población del Distrito Federal, en los términos de las disposiciones aplicables a la materia;
 
-XV. Llevar un registro de las personas que ejerzan actividades en la vía pública y sus organizaciones;
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-XVI. Realizar los estudios técnicos necesarios para determinar la viabilidad del establecimiento de empresas y unidades productivas, como una alternativa para las personas que realizan actividades en la vía pública, con el fin de proponer los planes y programas que resulten a las autoridades competentes; y
+XV. Llevar un registro de las personas que ejerzan actividades en la vía pública y sus organizaciones; así como de los establecimientos mercantiles y espectáculos públicos;
 
-XVII. Asesorar a las personas que realicen actividades en la vía pública, salvo la excepción indicada en la fracción II del presente artículo para el mejoramiento de sus condiciones de vida, tanto a través de formas de organización interna como de formas alternativas de organización y producción.
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+XVI. Coordinar y proponer la realización de estudios técnicos para determinar la viabilidad del establecimiento de empresas y unidades productivas, como una alternativa para las personas que realizan actividades en la vía pública, con el fin de proponer los planes y programas que resulten a las autoridades competentes;
+
+> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+XVII. Proporcionar asesoría técnica, jurídica y administrativa a las personas que realicen sus actividades en la vía pública;
+
+> <small>(ADICIONADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+XVIII. Impulsar mecanismos de coordinación entre los Órganos Político-Administrativos y las Unidades Administrativas del Gobierno del Distrito Federal, para mejorar el desempeño de los programas delegacionales y de las funciones desconcentradas; y
+
+> <small>(ADICIONADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+XIX. Establecer un sistema permanente de información, coordinación y apoyo para el cumplimiento de las funciones desconcentradas y los programas delegacionales en los Órganos Político-Administrativos.
 
 ###### Artículo 45.
 
@@ -5458,11 +5494,13 @@ Además, los Órganos Políticos-Administrativos podrán contar con las Direccio
 
 Los titulares de los Órganos Político-Administrativos, tendrán la facultad de delegar en las Direcciones Generales y demás Unidades Administrativas de apoyo técnico-operativo, las facultades que expresamente les otorguen los ordenamientos jurídicos correspondientes; dichas facultades, se ejercerán mediante disposición expresa, misma que se publicará en la Gaceta Oficial del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 122 Bis.
 
-Para el despacho de los asuntos que competen a los Órganos Político-Administrativos, se les adscriben las siguientes Unidades Administrativas:
+Para el despacho de los asuntos que competen a los órganos políticos-administrativos, se les adscriben las siguientes Unidades Administrativas:
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 I. Al Órgano Político-Administrativo en Álvaro Obregón;
 
@@ -5477,6 +5515,8 @@ D) Dirección General de Servicios Urbanos;
 E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Delegacional.
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 II. Al Órgano Político-Administrativo en Azcapotzalco;
 
@@ -5494,17 +5534,31 @@ F) Dirección General de Desarrollo Económico; y
 
 G) Dirección General de Participación Ciudadana.
 
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 III. Al Órgano Político-Administrativo en Benito Juárez;
 
 A) Dirección General Jurídica y de Gobierno;
 
 B) Dirección General de Administración;
 
+> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
 C) Dirección General de Obras y Desarrollo Urbano;
 
-E) (SIC) Dirección General de Desarrollo Social; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-F) (SIC) Dirección General de Desarrollo Delegacional.
+D) Dirección General de Desarrollo Social;
+
+> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+E) Dirección General de Desarrollo Delegacional; y
+
+> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+F) Dirección General de Desarrollo de Infraestructura.
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 IV. Al Órgano Político-Administrativo en Coyoacán;
 
@@ -5522,6 +5576,8 @@ F) Dirección General de Desarrollo Delegacional; y
 
 G) Dirección General de Cultura.
 
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 V. Al Órgano Político-Administrativo en Cuajimalpa de Morelos;
 
 A) Dirección General Jurídica y de Gobierno;
@@ -5535,6 +5591,8 @@ D) Dirección General de Servicios Urbanos;
 E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Recursos Naturales y Áreas Protegidas.
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 VI. Al Órgano Político-Administrativo en Cuauhtémoc;
 
@@ -5552,6 +5610,8 @@ F) Dirección General de Participación Ciudadana y Gestión Social; y
 
 G) Dirección General de Seguridad Pública.
 
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 VII. Al Órgano Político-Administrativo en Gustavo A. Madero;
 
 A) Dirección General Jurídica y de Gobierno;
@@ -5566,6 +5626,8 @@ E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Delegacional.
 
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 VIII. Al Órgano Político-Administrativo en Iztacalco;
 
 A) Dirección General Jurídica y de Gobierno;
@@ -5577,6 +5639,8 @@ C) Dirección General de Obras, Servicios y Desarrollo Urbano;
 E) (SIC) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Participación Ciudadana.
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 IX. Al Órgano Político-Administrativo en Iztapalapa;
 
@@ -5591,6 +5655,8 @@ D) Dirección General de Servicios Urbanos;
 E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Delegacional.
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 X. Al Órgano Político-Administrativo en La Magdalena Contreras;
 
@@ -5610,6 +5676,8 @@ G) Dirección General de Participación Ciudadana; y
 
 H) Dirección General de Colonia y Tenencia de la Tierra.
 
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 XI. Al Órgano Político-Administrativo en Miguel Hidalgo;
 
 A) Dirección General Jurídica y de Gobierno;
@@ -5623,6 +5691,12 @@ D) Dirección General de Servicios Urbanos;
 E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Delegacional.
+
+> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+G) Dirección General de Gerencia Delegacional
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 XII. Al Órgano Político-Administrativo en Milpa Alta;
 
@@ -5640,6 +5714,8 @@ F) Dirección General de Desarrollo Delegacional; y
 
 G) Dirección General de Ecología.
 
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 XIII. Al Órgano Político-Administrativo en Tláhuac;
 
 A) Dirección General Jurídica y de Gobierno;
@@ -5653,6 +5729,8 @@ D) Dirección General de Servicios Urbanos;
 E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Económico y Rural.
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 XIV. Al Órgano Político-Administrativo en Tlalpan;
 
@@ -5670,6 +5748,8 @@ F) Dirección General de Ecología y Desarrollo Sustentable; y
 
 G) Dirección General de Enlace Territorial.
 
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+
 XV. Al Órgano Político-Administrativo en Venustiano Carranza, y
 
 A) Dirección General Jurídica y de Gobierno;
@@ -5683,6 +5763,8 @@ D) Dirección General de Servicios Urbanos;
 E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Desarrollo Delegacional.
+
+> <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 XVI. Al Órgano Político-Administrativo en Xochimilco.
 
@@ -7304,6 +7386,44 @@ XVIII. Realizar acciones tendientes a la promoción turística de la demarcació
 
 XIX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
+> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
+
+###### Artículo 172 Bis.
+
+Corresponde a la Dirección General de Gerencia Delegacional las siguientes atribuciones:
+
+I. Coordinar y dar seguimiento a los programas que se implementen al interior del órgano político-administrativo;
+
+II. Promover y conducir los programas de gobierno a ejecutar por el órgano político-administrativo;
+
+III. Promover acciones de desarrollo de los programas de gobierno encaminados a la mejora del servicio dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IV. Vigilar el cumplimiento y ejecución de los programas de gobierno de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+V. Participar en la elaboración, promoción, fomento y ejecución de los proyectos productivos, que en el ámbito de la jurisdicción del órgano político-administrativo, se den de acuerdo a los programas, lineamientos y políticas establecidas;
+
+VI. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político-administrativo o en los cuales participe, en materia de gestión delegacional;
+
+VII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del órgano político-administrativo;
+
+VIII. Organizar, supervisar y controlar las acciones en materia de administración financiera y de desarrollo urbano a efecto de que sean congruentes con el programa de trabajo delegacional;
+
+IX. Coordinar y dar seguimiento a los programas que lleve a cabo el órgano político administrativo o en los cuales participe, en materia de transparencias y acceso a la información;
+
+X. Formular proyectos que promuevan la gestión delegacional, para ser presentadas a las instancias correspondientes;
+
+XI. Brindar asesoría y apoyo para la planeación, dirección y control de estrategias en procedimientos para las Direcciones Generales de acuerdo a las instrucciones del Jefe Delegacional, a efecto de definir el marco técnico y normativo necesario para el ejercicio de sus facultades;
+
+XII. Coadyuvar en la revisión o formulación de lineamientos, medidas administrativas, manuales y disposiciones que emitan las diferentes áreas de la Delegación;
+
+XIII. Coadyuvar en la definición de acciones preventivas en áreas de riesgo, con el fin de evitar responsabilidades administrativas de los servidores públicos de la Delegación;
+
+XIV. Dirigir los estudios e investigaciones sobre los temas de interés que determine el Jefe Delegacional;
+
+XV. Participar en el análisis de las disposiciones jurídicas que deba aplicar el Jefe Delegacional dentro del marco de sus atribuciones legales, a efecto de cumplir el marco de la legalidad de los actos administrativos; y
+
+XVI. Las demás que de manera directa le asigne el titular del órgano político-administrativo, así como las que se establezcan en los Manuales Administrativos.
+
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION I
@@ -8178,7 +8298,7 @@ Cuarto.- Las referencias hechas al Instituto del Taxi del Distrito Federal en ot
 
 Quinto.- En tanto se expidan las Bases, normas políticas y lineamientos y reglas de operación a que se refiere los artículos 103, fracciones XXX y XXXII, 110, fracción I; 112, fracciones XIII y XXI; 113, fracción XV, 113 Bis, fracción II, del presente Decreto, seguirán aplicándose las normas institucionales en materia de información y evaluación, así como los sistemas de seguimiento de observaciones y recomendaciones institucionales, al igual que los criterios de evaluación de personal ya establecidos.
 
-Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en tramite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
+Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en trámite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
 
 Séptimo.- La Dirección General de Auditoria deberá dar seguimiento al Programa General de Auditoría de Legalidad, para el año 2002, sin perjuicio de que este sea modificado conforme a las disposiciones jurídicas y administrativas aplicables.
 
@@ -8245,5 +8365,9 @@ G.O. 2 DE JUNIO DE 2004.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 23 DE JULIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
