@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1991-07-31"
+last_updated: "1991-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -109,9 +109,11 @@ La. estructura organizacional interna de cada una de las dependencias y de los o
 
 ## TITULO TERCERO. DE LA COMPETENCIA DE LAS DEPENDENCIAS DEL EJECUTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 16o.
 
-Para el estudio y despacho de los asuntos en los diversos ramos de la administración pública estatal auxiliarán al titular del Ejecutivo las siguientes dependencias:
+Para el Estudio y Despacho de los asuntos en los diversos ramos de la Administración Pública Estatal auxiliarán al Titular del Ejecutivo las siguientes dependencias:
 
 I.- Secretaría General de Gobierno;
 
@@ -129,15 +131,23 @@ VI.- Secretaría de Desarrollo Urbano y Obras Públicas;
 
 VII.- Secretaría de Desarrollo Social;
 
-Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
 
-Contraloría General del Estado;
+VIII.- Secretaría de la Contraloría General; y
 
-Coordinación de Planeación y Control de Gestión;
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
 
-Coordinación para el Desarrollo Municipal y
+IX.- Secretaría del Trabajo.
 
-Coordinación de Comunicación Social.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
+Adscritas directamente al Ejecutivo existirán las Unidades de apoyo y asesoría:
+
+COORDINACIÓN DE PLANEACIÓN Y CONTROL DE GESTIÓN;
+
+COORDINACIÓN PARA EL DESARROLLO MUNICIPAL Y
+
+COORDINACIÓN DE COMUNICACIÓN SOCIAL;
 
 ###### ARTICULO 17o.
 
@@ -199,7 +209,13 @@ XXVII.- Administrar el Archivo Histórico y el General del Poder Ejecutivo del E
 
 XXVIII.- Coordinar los eventos y actos cívicos del Gobierno del Estado, llevando un calendario de los mismos;
 
-XXIX.- las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
+XXIX.- Organizar y controlar la Oficialía de Partes;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
+XXX.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 18o.
 
@@ -319,7 +335,7 @@ XV.- intervenir en los términos de las leyes de la materia, en la celebración 
 
 XVI.- Dirigir y organizar los Talleres Gráficos del Gobierno del Estado;
 
-XVII.- Organizar y controlar la Oficialía de Partes;
+XVII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1991) (F. DE E., 25 DE DICIEMBRE DE 1991)
 
 XVIII.- Presidir el Comité de Adquisiciones de la Administración Pública Estatal;
 
@@ -331,23 +347,33 @@ XXI.- Llevar el registro del Padrón de contratistas, proveedores y prestadores 
 
 XXII.- Las demás que señalen las leyes y reglamentos.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
+XXIII.- Integrar los programas estatales de inversión y someterlos al Ejecutivo para su aprobación, observando su congruencia con los planes y estrategias de Gobierno;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
+XXIV.- Las demás que señalen las Leyes y Reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 21o.
 
-A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asunto:
+A la Secretaría de Desarrollo Económico le corresponde:
 
 I.- Formular y promover políticas y programas para estimular la cultura de la calidad total en los sectores y actividades productivas, para lograr una capacidad competitiva a nivel internacional;
 
 II.- Promover y apoyar programas de investigación para el desarrollo tecnológico en los sectores productivos y crear sistemas de información y asesoría técnica;
 
-III.-Diseñar y promover programas de capacitación, seguridad e higiene para los trabajadores, por sí misma y en coordinación con las autoridades federales;
+III.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1991)
 
-IV.- Intervenir conciliatoriamente en los conflictos obrero-patronales que se presenten con motivo de la aplicación de la Ley de la materia, sus reglamentos o contratos colectivos de trabajo;
+IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1991)
 
-V.- Vigilar, en lo administrativo, que los centros de trabajo cumplan con las disposiciones de la Ley Federal del Trabajo y sus reglamentos y calificar, en representación del Ejecutivo, las sanciones administrativas en los términos de las leyes de la materia;
+V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1991)
 
-VI.- Representar o asesorar a los trabajadores y a sus sindicatos, cuando lo soliciten, en cuestiones relacionadas con la aplicación de las normas de trabajo;
+VI.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1991)
 
-VII.- Por acuerdo del Ejecutivo, llevar la política laboral del Estado;
+VII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1991)
 
 VIII.- Promover las actividades comerciales, industriales, mineras, turísticas, artesanales y agropecuarias, a través de ferias, exposiciones, convenciones y demás eventos promocionales;
 
@@ -489,9 +515,11 @@ XXVI.- Promover y gestionar ante los tribunales competentes, el despacho de los 
 
 XXVII.- Las demás que señalen las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 24o.
 
-A la Contraloría General le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de la Contraloría General le corresponde el despacho de los siguientes asuntos.
 
 I.- Planear, organizar y coordinar los sistemas de control y evaluación de la Administración Pública del Estado;
 
@@ -521,15 +549,37 @@ XIII.- Recibir la declaración patrimonial de los servidores públicos en los t�
 
 XIV.- Las demás que señalen las leyes y reglamentos.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 24o.
+
+BIS:- A la Secretaría del Trabajo le corresponde el despacho de los siguientes asuntos:
+
+I.- Diseñar y promover programas de capacitación, calidad, seguridad e higiene para los trabajadores; por sí misma y en coordinación con las autoridades federales;
+
+II.- Intervenir conciliatoriamente en los conductos de obrero patronales que se presenten con motivo de la aplicación de la Ley de la materia, sus reglamentos o contratos colectivos de trabajo;
+
+III.- Vigilar, en lo administrativo, que los centros de trabajo cumplan con las disposiciones de la Ley Federal del Trabajo y sus reglamentos y calificar, en representación del Ejecutivo, las sanciones administrativas en los términos de las Leyes de la materia;
+
+IV.- Representar o asesorar a los trabajadores y a sus sindicatos, cuando lo soliciten, en cuestiones relacionadas con la aplicación de las normas de trabajo;
+
+V.- Por acuerdo del Ejecutivo, llevar la política laboral del Estado, y
+
+VI.- Las demás que señalen las Leyes y Reglamentos.
+
 ###### ARTICULO 25o.
 
 A la Coordinación de Planeación y Control de Gestión corresponde el despacho de los siguientes asuntos:
 
-I.- Formular la planeación estratégica del desarrollo del Estado; elaborar, en coordinación con las dependencias del Ejecutivo, el Plan Estatal de Desarrollo, y evaluar su cumplimiento;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
 
-II.- Elaborar los planes regionales y sectoriales de desarrollo y los programas estatales de inversión;
+I.- Formular en coordinación con las dependencias del Ejecutivo las estrategias de Gobierno para el Desarrollo del Estado, proponer al Ejecutivo los criterios de asignación de recursos y evaluar su cumplimiento;
 
-III.- Analizar y someter al Ejecutivo para su aprobación, los programas de inversión que formulen las dependencias y entidades de la Administración Pública Estatal, observando su congruencia con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
+II.- Elaborar los planes regionales y sectoriales de desarrollo;
+
+III.- (DEROGADA, P.O. 16 DE DICIEBRE DE 1991)
 
 IV.- Coordinar el Sistema Estatal de Planeación del Desarrollo;
 
@@ -655,9 +705,11 @@ El nombramiento y remoción del Presidente de la Junta y de los presidentes de l
 
 El Tribunal de lo Contencioso Administrativo y el Tribunal de Arbitraje se regirán por la legislación correspondiente.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 38o.
 
-Para el ejercicio de sus funciones, estos tribunales contarán con el apoyo administrativo del Poder Ejecutivo del Estado: la Secretaría General de Gobierno apoyará la operación del Tribunal de Arbitraje, la Secretaría de Desarrollo Económico apoyará las Juntas de Conciliación y Arbitraje, correspondiendo a la Secretaría de Finanzas y Tesorería General del Estado la obligación de prestar el apoyo que requiera el Tribunal de lo Contencioso Administrativo.
+Para el ejercicio de sus funciones, estos tribunales contarán con el apoyo administrativo del Poder Ejecutivo del Estado; la Secretaría del Trabajo apoyará la operación del Tribunal de Arbitraje y las Juntas de Conciliación y Arbitraje, correspondiendo a la Secretaría de Finanzas y Tesorería General del Estado la obligación de prestar el apoyo que requiera el Tribunal de lo Contencioso Administrativo.
 
 ARTICULOS TRANSITORIOS:
 
@@ -710,3 +762,15 @@ EL C. SECRETARIO GENERAL
 DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO
+
+- Las facultades y atribuciones de la Contraloría General del Estado, contempladas en otras Leyes, Reglamentos, Acuerdos o Disposiciones, se entienden conferidas a la Secretaría de la Contraloría General.
+
+###### ARTICULO SEGUNDO
+
+- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
