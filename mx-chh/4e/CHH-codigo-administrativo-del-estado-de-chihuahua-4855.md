@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1992-01-15"
+last_updated: "1992-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1992.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -415,17 +415,15 @@ a).- Son trabajadores de base los no incluidos dentro del grupo de funcionarios 
 
 Asimismo se considerarán trabajadores de base los empleados que reuniendo los requisitos anteriores perciban sueldo con cargo a una partida de presupuesto y los de lista de raya con antigüedad mayor de seis meses.
 
-b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: el Secretario General de Gobierno, el Tesorero General del Estado, el Oficial Mayor de Gobierno, el Procurador General de Justicia, el Secretario Particular del Gobernador, los Directores y Subdirectores de Dependencia, los Jefes y Subjefes de Departamento, el Jefe del Departamento de Enseñanza Media y Superior, los integrantes de la Junta Central de Catastro, los Agentes y Subagentes del Ministerio Público adscritos a la Procuraduría General de Justicia y de la Policía Judicial dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo, los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas Centrales del Registro Público de la Propiedad y del Registro Civil, el Jefe de la Oficina Estatal de Profesiones, los Recaudadores, Contadores y Cajeros de las Oficinas Receptoras, el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado, el Director o Encargado del Periódico Oficial del Estado, el Director de los Teléfonos del Estado, los miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada, los Directores de los Hospitales y demás centros asistenciales, los Jueces del Tribunal Central para Menores, los Celadores y las Trabajadoras Sociales a su servicio, el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal, los Inspectores Fiscales y Jefes de Oficina de la Tesorería General, los miembros de la Agencia Fiscal del Estado en la Ciudad de México, los miembros de la Policía Especial del Gobernador y de la Policía del Estado, los Inspectores de Ganadería, el Intendente del Palacio de Gobierno, el Inspector General de Policía, los Agentes Confidenciales, los Jefes de Tránsito, los Agentes de la Policía de Tránsito del Estado, los comisionados especiales y empleados al servicio personal del Gobernador, los Inspectores Escolares de Pre-Primaria, Primaria y Enseñanza Media Superior, los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría y de la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1992)</small>
 
-También serán considerados como empleados de confianza, en todas las Dependencias del Ejecutivo, las secretarias y secretarios, los miembros de comisiones de estudios y consultores y las personas que presten servicios mediante contrato.
+b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: El Secretario de Gobierno, El Procurador General de Justicia, los Directores Generales y Coordinadores, el Secretario Particular del Gobernador, los Jefes de Departamento, Oficina y División; los Agentes y Sub-agentes del Ministerio Público, adscritos a la Procuraduría General de Justicia y de la Policía Judicial dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo; los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas del Registro Público de la Propiedad y del Registro Civil; el Jefe de la Oficina Estatal de Profesiones; los Recaudadores; Contadores y Cajeros de las Oficinas Receptoras; el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado; el Director y Encargado del Periódico Oficial del Estado, el Director de los Teléfonos del Estado; los Miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada; los Directores de los Hospitales y demás Centros Asistenciales, los Celadores y las Trabajadoras Sociales a su servicio; el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal; los Inspectores Fiscales; los Inspectores de Ganadería; el Intendente del Palacio de Gobierno, los Jefes de Tránsito; los Agentes de Policía de Tránsito del Estado; los comisionados especiales y empleados al servicio personal del Gobernador; los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría.
 
-Son funcionarios y empleados de confianza del Poder Legislativo: el Oficial Mayor y el Contador General de Hacienda.
+También serán considerados como empleados de confianza en todas las Dependencias del Ejecutivo, las secretarias y los secretarios, los miembros de comisiones de estudios y consultores y las personas que presten servicio mediante contrato.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+Son funcionarios y empleados de confianza del Poder Legislativo, el Oficial Mayor y el Contador General de Hacienda. Son funcionarios y empleados de confianza del Poder Judicial; El Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los visitadores judiciales, los Jueces de Primera Instancia o de lo Familiar, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores.
 
-Son funcionarios y empleados de confianza del Poder Judicial: el Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los Visitadores Judiciales, los Jueces de Primera Instancia o de lo Familiar, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores.
-
-Son funcionarios y empleados de confianza de los organismos descentralizados los que se determinan conforme a sus propias disposiciones normativas.
+Son funcionarios y empleados de confianza de los Organismos Descentralizados los que se determinen conforme a sus propias disposiciones normativas.
 
 c).- Son trabajadores eventuales y extraordinarios aquéllos cuyos servicios se contratan transitoriamente, cuyos sueldos se pagan por lista de raya o por nombramiento en que se especifique tal carácter, y los interinos que cubran vacantes temporales de trabajadores de base.
 
@@ -9213,7 +9211,7 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
@@ -9267,7 +9265,11 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
@@ -9387,11 +9389,7 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -11252,3 +11250,7 @@ SEGUNDO.- SE DEROGAN LOS ARTÍCULOS DEL 339 AL 470, INCLUSIVE DEL CÓDIGO ADMINI
 P.O. 15 DE ENERO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 1992.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
