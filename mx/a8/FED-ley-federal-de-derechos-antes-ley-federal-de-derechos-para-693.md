@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1995-12-15"
+last_updated: "1996-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -2695,9 +2695,9 @@ II.- Por la certificación fitosanitaria de viveros, invernaderos, laboratorios 
 
 III.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
-IV.- Por cada certificado fitosanitario para la movilización nacional de productos y subproductos vegetales sujetos a regulación fitosanitaria.............. $ 50.00
+IV.- Por cada certificado fitosanitario para la movilización nacional de productos y subproductos vegetales sujetos a regulación fitosanitaria............. $ 20.00
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2707,9 +2707,13 @@ V.- Por cada certificado fitosanitario internacional para la exportación de pro
 
 VI.- Expedición del certificado fitosanitario para la importación de vegetales, sus productos y subproductos............... $ 171.00
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
-VII.- Expedición del certificado fitosanitario y zoosanitario para la importación de animales sus productos y sus subproductos.............. $ 342.00
+VII.- Expedición del certificado zoosanitario para la importación de animales, sus productos y sus subproductos............. $ 390.66
+
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+VIII.- Por la expedición del formato de Requisitos Técnico-Fitosanitarios para la importación y exportación de productos y subproductos vegetales............. $ 90.00
 
 > <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -2721,7 +2725,9 @@ No se pagarán los derechos a que se refiere este artículo por los animales y v
 
 Por la certificación de empresas que realicen actividades en materia de plaguicidas agrícolas, se pagará por cada establecimiento el derecho de sanidad fitopecuaria, conforme a las siguientes cuotas:
 
-I.- Por la certificación fitosanitaria de empresas dedicadas a la fabricación, formulación o maquila, formulación por maquila e importación de plaguicida agrícola............... $ 3,491.00
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+I.- Por la certificación fitosanitaria de empresas dedicadas a la explotación, fabricación, elaboración, formulación o maquila, formulación por maquila, mezclado, acondicionamiento, envasado e importado de plaguicida agrícola............. $ 3,987.76
 
 II.- Por la certificación fitosanitaria de empresas dedicadas a la comercialización, aplicación y distribución de plaguicidas agrícolas............... $ 1,255.00
 
@@ -2875,13 +2881,9 @@ Por la renovación del registro único de los productos a que este artículo se 
 
 Por el registro y autorización de empresas que realicen las actividades que a continuación se señalan, se pagará el derecho de registro y autorización de empresas, por establecimiento, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
-I.- Explotación, elaboración, fabricación, formulación, mezclado, acondicionamiento, envasado o importación de plaguicidas.............. $ 3,079.74
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Almacenamiento, comercialización, distribución y aplicación de plaguicidas............. $ 1,026.56
+II.- (DEROGADA, D.O.F 10 DE MAYO DE 1996)
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2933,7 +2935,7 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 #### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 90-F.
 
@@ -3215,27 +3217,19 @@ V.- Por la expedición de cada permiso para traslado de fauna silvestre dentro d
 
 ###### ARTICULO 120.
 
-Por el otorgamiento del permiso para el establecimiento y explotación de comercializadoras de servicios de telecomunicaciones y por el registro para la prestación de servicios de valor agregado, así como para modificaciones a permisos otorgados con anterioridad a la publicación de la Ley Federal de Telecomunicaciones se pagará conforme a las siguientes cuotas:
+Por autorización de modificaciones a permisos de servicios de telecomunicaciones de valor agregado como de otros servicios de telecomunicaciones, que se presten a terceros, que hayan sido otorgados con anterioridad a la publicación de la Ley Federal de Telecomunicaciones, se pagará conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
-I.- Por el estudio de la solicitud para el otorgamiento del permiso a comercializadoras................... $ 1,026.59
+II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Por el otorgamiento del permiso............. $ 4,106.39
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- Por el registro de servicios de valor agregado....... $ 6,000.00
+III.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 IV.- Por cada modificación o ampliación de servicios sujetos a permiso o registro....... $ 2,053.20
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V.- Por el registro de servicios de facsímil, por cada equipo terminal............. $ 129.96
+V.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 120-A.
 
@@ -3269,9 +3263,7 @@ b).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 c).- Por aumento de capital social y modificaciones a la estructura de la escritura o acta constitutiva........... $ 2'500,000.00
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-d).- Por modificaciones o ampliaciones de la red autorizada en la concesión............ N$ 3,800.00
+d).- (DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -3319,7 +3311,7 @@ h).- Por la expedición del refrendo de concesiones.............. $ 3'000.000.00
 
 Por el otorgamiento de concesiones para el uso, aprovechamiento o explotación de una banda de frecuencias en el territorio nacional, salvo el espectro de uso libre y el de uso oficial, independientemente de las contraprestaciones ofrecidas conforme el artículo 14 de la Ley Federal de Telecomunicaciones, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
 
-I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 2,000.00
+I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 3,000.00
 
@@ -3337,13 +3329,17 @@ d).- Por el estudio de la solicitud del refrendo de la concesión............. $
 
 e).- Por la expedición del título de refrendo de la concesión............. $ 2,500.00
 
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+f).- Modificación a la red............. $ 1,142.30
+
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 123-B.
 
 Por el otorgamiento de concesiones para instalar, operar o explotar redes públicas de telecomunicaciones, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
 
-I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 3,000.00
+I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 5,000.00
 
@@ -3369,7 +3365,7 @@ f).- Por la expedición del título de refrendo de la concesión............. $ 
 
 Por el otorgamiento de concesiones para ocupar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país y explotar sus respectivas bandas de frecuencia, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
 
-I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 2,000.00
+I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 3,000.00
 
@@ -3385,13 +3381,17 @@ c).- Por cada estudio de la solicitud del refrendo de la concesión.............
 
 d).- Por la expedición del título de refrendo de la concesión............. $ 2,500.00
 
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+e).- Modificación a la red............. $ 1,142.30
+
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 123-D.
 
 Por el otorgamiento de concesiones para explotar los derechos de emisión y recepción de señales de bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
 
-I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 3,000.00
+I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 5,000.00
 
@@ -3407,6 +3407,10 @@ c).- Por cada estudio de la solicitud del refrendo de la concesión.............
 
 d).- Por la expedición del título de refrendo de la concesión............. $ 5,000.00
 
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+e).- Modificación a la red............. $ 1,142.30
+
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 123-E.
@@ -3415,7 +3419,7 @@ Por el otorgamiento de permisos para establecer y operar o explotar una comercia
 
 I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 2,500.00
 
-II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite del permiso............. $ 2,500.00
+II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 III.- Por la expedición del título de permiso............. $ 5,000.00
 
@@ -3429,15 +3433,19 @@ c).- Por el estudio de la solicitud del refrendo del permiso............... $ 2,
 
 d).- Por la expedición del título de refrendo de la concesión............. $ 2,500.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+e).- Modificación a la red............. $ 1,142.30
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 123-F.
 
-Por el otorgamiento de permisos para instalar, operar o explotar estaciones terrenas transmisoras, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
+Por el otorgamiento de permisos para instalar, operar o explotar estaciones terrenas transmisoras o transreceptoras, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
 
 I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 1,000.00
 
-II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite del permiso.............. $ 2,000.00
+II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 III.- Por la expedición del título de permiso............. $ 2,000.00
 
@@ -3450,6 +3458,10 @@ b).- Cambio en la titularidad de los permisos............. $ 5,000.00
 c).- Por cada estudio de la solicitud del refrendo del permiso............. $ 2,500.00
 
 d).- Por la expedición del título de refrendo del permiso............. $ 2,500.00
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+e).- Modificación a la red............. $ 1,142.30
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -3649,19 +3661,9 @@ III.- Por la autorización de modificaciones al permiso de redes o sistemas con 
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 128-C.
 
-Por el otorgamiento de permisos para instalar, operar o explotar estaciones terrenas transmisoras o transreceptoras, se pagará el derecho de estaciones terrenas transmisoras o transreceptoras, conforme a las siguientes cuotas:
-
-I.- Por el estudio de la solicitud............ $ 1'000,000.00
-
-II.- Por el otorgamiento del permiso.............. $ 2'000,000.00
-
-III.- Por modificaciones del permiso............. $ 500,000.00
-
-IV.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -3673,9 +3675,7 @@ I.- Por el estudio técnico de la solicitud........... $ 250,000.00
 
 II.- Por el otorgamiento de la autorización o modificación........... $ 500,000.00
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-III.- En los circuitos o canales telefónicos con cruce fronterizo para transmisión de voz o datos y sin enlace a la red telefónica de servicio público, se pagará anualmente por el permiso de cruce fronterizo………… N$ 917.00
+III.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 IV.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
 
@@ -3791,11 +3791,11 @@ IV.- Subportadoras de radiodifusión y de televisión................ $ 1'000,00
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 138.
 
-Por la expedición de certificados de homologación temporal para equipos, aparatos, dispositivos y accesorios de telecomunicación, se pagará el derecho por homologación en materia de telecomunicaciones, conforme a las siguientes cuotas:
+Por la expedición de certificados de homologación provisionales y definitivos para equipos, aparatos, dispositivos y accesorios de telecomunicación, se pagará el derecho por homologación en materia de telecomunicaciones, conforme a las siguientes cuotas:
 
 I.- Por el estudio técnico previo a la expedición del certificado de homologación… $ 620,000.00
 
@@ -3814,6 +3814,14 @@ Los porcientos a que se refiere este artículo se aplicarán al precio de venta 
 III.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 Solamente se homologarán los equipos ligados con las telecomunicaciones, así como aquéllos que incidan o afecten directamente el funcionamiento de los equipos de telecomunicaciones.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+En solicitudes de "Certificados de homologación definitiva", que se expidan a solicitud del interesado, después de los certificados provisionales, siempre que no hayan modificado las características técnicas y operativas autorizadas, se cobrará el 100% de la cuota establecida en la fracción I y el 40% de la señalada en la fracción II de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+El solicitante podrá optar por solicitar directamente un certificado de homologación definitivo sin contar con el certificado provisional, si presenta constancia o dictamen de que el equipo cumple con las normas técnicas nacionales y recomendaciones internacionales aceptadas por la Secretaría de Comunicaciones y Transportes, debiendo pagarse en este caso el 100% de las cuotas señaladas en las fracciones I y II de este artículo.
 
 ###### ARTICULO 139.
 
@@ -4361,9 +4369,7 @@ VIII.- Permiso para el transporte de materiales peligrosos y sus residuos.......
 
 Por los servicios relativos al Registro Aeronáutico Mexicano, se pagará el derecho de registro aeronáutico de acuerdo con las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Por el estudio y trámite de inscripciones al Registro......... $ 382.00
+I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -4757,7 +4763,9 @@ Por la reexpedición del anexo o la parte de identificación de la licencia, se 
 
 Por la expedición del certificado de aeronavegabilidad y matrícula, se pagara el derecho de aeronáutica civil, conforme a las siguientes cuotas:
 
-I.- Certificado de aeronavegabilidad por periodo de vigencia:
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+I.- Por la expedición o renovación del certificado de aeronavegabilidad por período de vigencia:
 
 a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue............... $ 155,000.00
 
@@ -4781,11 +4789,11 @@ c).- Aeronaves de más de 6,000 kilogramos a 12,500 kilogramos de peso máximo d
 
 d).- Aeronaves de más de 12,500 kilogramos de peso máximo de despegue....... $ 2'323,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 159.
 
-Por la expedición de los siguientes permisos y concesiones, se pagará el derecho de aeronáutica civil, conforme a las siguientes cuotas:
+Por la expedición de los siguientes permisos o concesiones, se pagará el derecho de aeronáutica civil, conforme a las siguientes cuotas:
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4885,9 +4893,7 @@ a).- Reparación o mantenimiento de helicópteros de peso máximo de despegue ha
 
 b).- Reparación o mantenimiento de helicópteros de peso máximo de despegue de más de 3,000 kilogramos……… 50,000.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- De transporte aéreo privado no comercial nacional e internacional, por cada vuelo................... $ 595.00
+III.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -4931,15 +4937,7 @@ c).- Pasajeros, correo, express y carga por período de vigencia........... 28,0
 
 Su modificación........... 14,000.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-d).- Por cada vuelo extra:
-
-1.- Aeronaves de pistón de servicio público de pasajeros............. $ 255.00
-
-2.- Aeronaves de turbohélice de servicio público de pasajeros................ $ 509.00
-
-3.- Aeronaves de reacción de servicio público de pasajeros............. $ 1,201.00
+d).- (DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4961,9 +4959,9 @@ c).- Taxi aéreo regional, por período de vigencia............ 14,000.00
 
 Su modificación.......... 7,000.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-d).- Taxi aéreo nacional............. $ 3,977.00
+d).- Taxi aéreo nacional o internacional............. $ 4,542.92
 
 Su modificación............. $ 1,988.00
 
@@ -4979,19 +4977,11 @@ f).- Servicio especializado............. $ 2,750.00
 
 Su modificación............. $ 1,375.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+g).- (DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
-g).- Por cada vuelo de fletamento en cada sentido de carga o pasajeros o mixto nacional e internacional:
+VIII.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
-1.- Aeronaves de pistón de servicio público de pasajeros............. $ 262.00
-
-2.- Aeronaves de turbohélice de servicio público de pasajeros............ $ 524.00
-
-3.- Aeronaves de reacción de servicio público de pasajeros.............. $ 1,237.00
-
-VIII.- Para venta y distribución de aviones, por período de vigencia.......... 30,000.00
-
-IX.- Para venta y distribución de partes y accesorios e instrumentos, por período de vigencia.......... 20,000.00
+IX.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 X.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -5001,13 +4991,7 @@ XI.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 XII.- Permiso de reinicio de operaciones de aeronave que haya sido suspendida por incumplimiento a la legislación aplicable.......... 6,000.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XIII.- Avalúos de aeronaves:
-
-a).- Hasta 12,000 kilogramos de peso máximo de despegue.................. N$ 1,020.00
-
-b).- De más de 12,000 kilogramos de peso máximo de despegue.................. N$ 2,550.00
+XIII.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5233,13 +5217,9 @@ XXIV.- Por la revisión de documentos para el otorgamiento de constancias de req
 
 XXV.- Autorización de venta de combustible para aeronaves para uso no aeronáutico... $ 136.00
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+XXVI.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
-XXVI.- Autorización para realizar salto en paracaídas, por persona y por cada salto..... $ 137.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXVII.- Autorización de horario para la utilización de posición y control de tráfico aéreo para líneas aéreas regulares y no regulares, en el aeropuerto............. $ 152.00
+XXVII.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5281,9 +5261,9 @@ II.- Pasajeros y correo............. $ 4,639.00
 
 III.- Pasajeros, correo y carga............. $ 5,302.00
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
-IV.- Por la modificación de la concesión a que se refieren las fracciones I, II y III que anteceden, se pagará el 50% de la cuota correspondiente.
+IV.- Por la modificación de la concesión o permiso a que se refieren las fracciones I, II y III que anteceden, se pagará el 50% de la cuota correspondiente.
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5294,8 +5274,6 @@ V.- Por el estudio y trámite de las solicitudes de concesión a que se refiere 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
 #### SECCION SEGUNDA. De la Zona Marítimo Terrestre
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 162.
 
@@ -5915,8 +5893,6 @@ II.- Por la expedición de la autorización para actuar como Agente Naviero Gene
 
 #### SECCION TERCERA. Servicios de Flora y Fauna
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 172.
 
 Por la autorización para la construcción de obras dentro del derecho de vía de las carreteras, puentes y vías férreas de jurisdicción federal, se pagará el derecho de autorización conforme a las siguientes cuotas:
@@ -5940,8 +5916,6 @@ V.- Por el estudio técnico de planos, proyectos y memorias de obra y expedició
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION CUARTA. Impacto Ambiental
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 172-A.
 
@@ -6019,323 +5993,93 @@ Por la autorización para operar el transporte multimodal, se pagará la cuota d
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 173-B.
 
-Por los servicios que a continuación se señalan, se pagará el derecho de zona marítima terrestre, conforme a las siguientes cuotas:
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-I.- Por la recepción y estudio de la solicitud de concesión o autorización...... $ 123,000.00
-
-II.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-III.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de concesión de zona federal marítimo-terrestre o terrenos ganados al mar, o cualquier otro depósito que se forme por aguas marítimas:
-
-a).- Hasta 1,000 m2 de superficie............... $ 250,000.00
-
-b).- De más de 1,000 m2 de superficie hasta 5,000 m2........... $ 500,000.00
-
-c).- De más de 5,000 m2 de superficie hasta 10,000 m2......... $ 1'000,000.00
-
-d).- De más de 10,000 m2 de superficie hasta 15,000.00 m2........... $ 2'000,000.00
-
-e).- De más de 15,000 m2 de superficie en adelante............. $ 3'000,000.00
-
-IV.- Por la cesión de la concesión entre particulares........... $ 100,000.00
-
-V.- Por la verificación de cumplimiento de obligaciones derivadas del título de concesión….......….. $ 20,000.00
-
-Cuando la zona marítimo terrestre se utilice para la agricultura, ganadería o pesca, las cuotas señaladas en este artículo, se reducirán en un 50%.
-
-Este derecho se pagará independientemente del que corresponda por el uso o aprovechamiento de la zona marítimo terrestre conforme al Título II de esta Ley.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174.
 
-Por el otorgamiento de concesiones, autorizaciones o prórroga de concesiones para el uso o goce de la zona federal marítimo-terrestre, terrenos ganados al mar o a cualquier otro depósito que se forme con aguas marítimas, se pagará anualmente el derecho de concesión de inmuebles federales, conforme a la cuota de $ 109,000.00.
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Cuando la zona federal se utilice para la agricultura, ganadería o pesca, la cuota a que se refiere el párrafo anterior se reducirá en un 50%.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-No se pagará el derecho a que se refiere este artículo cuando el uso o goce de la zona federal se destine para actividades acuícolas de especies reservadas.
-
-Este derecho se pagará independientemente del que corresponda conforme al Título II de esta ley.
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 174-A.
 
-Por los servicios que a continuación se señalan se pagará el derecho por servicios de flora y fauna silvestres, conforme a las siguientes cuotas:
-
-A.- Por el registro y refrendo anual:
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-I.- De viveros comerciales de flora silvestre con especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte........ N$ 96.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- De mascotas de fauna silvestre o de criadero, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte.................. N$ 88.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-III.- De aves de presa consideradas como raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte.................. N$ 68.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IV.- De viveros no comerciales de flora silvestre con especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte........ N$ 21.00
-
-No se pagará por el refrendo anual del registro a que se refiere la fracción II de este Apartado.
-
-B.- Por la expedición de permisos y, en su caso, de refrendos, anual o por temporada, así como por la expedición de certificados:
-
-I.- Para colecta científica realizada en el país, por extranjeros……… N$ 2,390.00
-
-Las personas que realicen colecta científica en el país, bajo algún convenio de cooperación internacional con el Gobierno Federal o con alguna institución mexicana, no pagarán este derecho.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Por cada solicitud de certificados relacionados con la exportación, importación o reexportación de especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte:
-
-> <small>(REFORMADO, D.O.F 28 DE DICIEMBRE DE 1994)</small>
-
-a).- De trofeos de caza.................. N$ 131.00
-
-b).- De animales de fauna silvestre para comercialización:
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-1.- De especies mayores.................. N$ 430.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-2.- De especies menores.................. N$ 216.00
-
-3.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-c).- De animales de fauna silvestre, para fines no comerciales:
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-1.- De especies mayores.................. N$ 138.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-2.- De especies menores.................. N$ 72.00
-
-3.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-d).- Distintos de los anteriores.................. N$ 72.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-e).- De productos y subproductos de fauna silvestre.............. N$ 72.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-f).- De productos y subproductos de flora silvestre.................. N$ 72.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-III.- Para colecta de material parental para su reproducción y propagación con fines comerciales en unidades de producción, de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte.................. N$ 107.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IV.- Por trámite para colecta de material parental de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte.................. N$ 107.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-B.
 
-Por los estudios de flora y fauna silvestre, incluyendo su planificación, manejo y dictamen de impacto ambiental, se pagará el derecho de flora y fauna, por hectáreas, conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
-I.- Distrito Federal, México, Morelos, Puebla, Tlaxcala, Hidalgo y Querétaro............ $60.00
-
-II.- Jalisco, Michoacán, Aguascalientes, Guanajuato, Nuevo León, San Luis Potosí y Zacatecas......... 80.00
-
-III.- Baja California, Baja California Sur, Colima, Chihuahua, Durango, Coahuila, Sonora, Nayarit, Tamaulipas, Veracruz, Tabasco, Guerrero, Oaxaca, Chiapas, Campeche, Yucatán, Quintana Roo y Sinaloa.......... 100.00
-
-IV.- Por supervisión anual por hectárea.......... 30.00
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 174-C.
 
-Por el otorgamiento de la autorización de los proyectos de obras o actividades cuya evaluación corresponda al Gobierno Federal, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
-
-I.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad general............. $ 100,000.00
-
-II.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad intermedia................ $ 175,000.00
-
-III.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad específica.............. $ 275,000.00.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-D.
 
-Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
-
-I.- Por la inscripción en el Registro Nacional de Prestadores de Servicios que Realicen Estudios de Impacto Ambiental, por cada campo de especialidad o por el refrendo correspondiente………… N$ 865.00
-
-II.- Por la obtención de la versión actualizada del registro a que se refiere la fracción anterior………… N$ 10.00
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-E.
 
-Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
-
-I.- Por la recepción y evaluación del informe preventivo.............. $ 150,000.00
-
-II.- Por la recepción y evaluación de la manifestación de impacto ambiental:
-
-a).- En su modalidad general.............. $ 300,000.00
-
-b).- En su modalidad intermedia............. $ 525,000.00
-
-c).- En su modalidad específica............ $ 825,000.00
-
-III.- Por la verificación del cumplimiento de las medidas de prevención y mitigación. $ 400,000.00.
-
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IV.- Por la revalidación de evaluación de la autorización de impacto ambiental:
-
-a).- En su modalidad general................. $ 100,000.00
-
-b).- En su modalidad intermedia.................. $ 175,000.00
-
-c).- En su modalidad específica................. $ 275,000.00
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-F.
 
-Por la recepción, evaluación y dictamen del programa de manejo forestal, para obtener autorización de aprovechamiento de recursos forestales, forestación y reforestación de especies maderables de clima templado y frío, por volumen solicitado para su aprovechamiento, se pagará el derecho de impacto ambiental conforme a las siguientes cuotas:
-
-I.-Hasta 500 metros cúbicos................ Exento
-
-II.- De más de 500 metros cúbicos hasta 1,000 metros cúbicos................ $ 150,000.00
-
-III.- De más de 1,000 metros cúbicos hasta 5,000 metros cúbicos.................. $ 225,000.00
-
-IV.- De más de 5,000 metros cúbicos en adelante.................. $ 350,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-G.
 
-Por la recepción, evaluación y dictamen del programa de manejo forestal para aprovechamiento de recursos forestales, forestación y reforestación de especies maderables de clima árido y semiárido, por metro cúbico solicitado para su aprovechamiento, se pagará el derecho de impacto ambiental conforme a las siguientes cuotas:
-
-I.- Hasta 500 metros cúbicos................. Exento
-
-II.- De más de 500 metros cúbicos hasta 1,500 metros cúbicos................ $ 100,000.00
-
-III.- De más de 1,500 metros cúbicos hasta 3,000 metros cúbicos.................. $ 150,000.00
-
-IV.- De más de 3,000 metros cúbicos en adelante................... $ 200,000.00
+(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-H.
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 174-I.
 
-Por la recepción, evaluación y dictamen de los estudios de uso de suelo forestal y por superficie solicitada, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
-
-I.- De más de 1 hectárea hasta 10 hectáreas............. $ 300.00
-
-II.- De más de 10 hectáreas hasta 50 hectáreas............. $ 650.00
-
-III.- De más de 50 hectáreas hasta 200 hectáreas............... $ 1,300.00
-
-IV.- De más de 200 hectáreas............. $ 2,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-J.
 
-Por la recepción, evaluación y dictamen de manifestaciones de impacto ambiental para aprovechamientos forestales de bosques y selvas tropicales y especies de difícil regeneración, así como aquéllos que determine la Secretaría de Desarrollo Social, con base en lo que establecen la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Impacto Ambiental, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Manifestación de impacto ambiental modalidad general por un volumen mayor a 250 metros cúbico............. $ 777.13
-
-II.- Manifestación de impacto ambiental modalidad intermedia.................... $ 1'000,000.00
-
-III.- Manifestación de impacto ambiental modalidad específica.................... $ 1'500,000.00
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 174-K.
 
-Por el otorgamiento de la licencia de funcionamiento a las fuentes fijas de jurisdicción federal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
-
-I.- Por la recepción y evaluación de solicitud de licencia................... $ 458,000.00
-
-II.- Actualización de licencia de funcionamiento por ampliación o modificación de procesos................. $ 220,000.00
-
-III.- Por la verificación de cumplimiento de las condiciones derivadas de la licencia de funcionamiento.................... $ 366,000.00.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-L.
 
-Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de lo contaminación, por cada dictamen técnico conforme a la cuota de $ 183,000.00.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-M.
 
-Por los servicios de verificación y certificación de equipos de medición de contaminantes de vehículos automotores en circulación en centros autorizados, se pagará el derecho de prevención y control de la contaminación, conforme a la cuota de $ 46,000.00.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-N.
 
-Por el servicio de certificación y verificación de emisiones contaminantes de vehículos automotores nuevos, a través de la prueba de laboratorio de emisiones vehiculares, por el método "CVS 75", se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota de $ 1'511,000.00.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-O.
 
-Por el servicio de evaluación y verificación de la aplicación de métodos, procedimientos, partes, componentes y equipos que reduzcan las emisiones de contaminantes a la atmósfera generados por vehículos automotores, a través de la prueba estática de emisiones vehiculares, se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota de $ 9,000.00.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-P.
 
-Por el registro de empresas generadoras de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a la cuota de $ 92,000.00.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 ###### ARTICULO 174-Q.
 
-Por el otorgamiento de la autorización en materia de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
-
-I.- Instalación y operación de sistemas de almacenamiento, recolección y transporte...... $ 3,000.00
-
-II.- Instalación y operación de sistemas de reuso, tratamiento y reciclaje............. $ 6,000.00
-
-III.- Instalación y operación de sistemas de incineración y disposición final............. $ 18,000.00
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(ADICIONADA, D.O.F. DE 26 DE DICIEMBRE DE 1990)</small>
 
 #### SECCION QUINTA. Prevención y Control de la Contaminación
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 175.
 
@@ -7199,9 +6943,9 @@ Las oficinas pagadoras de las dependencias de la administración pública federa
 
 En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de Colaboración Administrativa en esta materia de la Federación, los ingresos que se obtengan por el cobro del derecho antes señalado se destinarán a la Entidad Federativa que los recaude, para la operación, conservación, mantenimiento e inversión necesarios para la prestación de los servicios a que se refiere este artículo, en los términos que señale dicho Convenio.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE MAYO DE 1996)</small>
 
-### CAPITULO XIII. De la Secretaría de Pesca
+### CAPITULO XIII. Secretaría de Medio Ambiente, Recursos Naturales y Pesca
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -7357,15 +7101,21 @@ Por pernoctar en los albergues federales instalados dentro de las áreas natural
 
 Tratándose de profesores, estudiantes, personas mayores de 65 años de edad, miembros de federaciones de excursionismo, montañismo y deportivas, que soliciten con anticipación ante la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, permiso para el acceso a los parques nacionales, pagarán el 50% del monto del derecho.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 194-C.
 
-Por el otorgamiento de permisos o concesiones para el uso o aprovechamiento de las reservas de la biosfera, parques marinos nacionales, reservas especiales de la biosfera, monumentos naturales y las áreas de protección de flora y fauna, se pagará el derecho de permiso o concesión de inmuebles federales, conforme a las siguientes cuotas:
+Por el otorgamiento de permisos o concesiones para el uso o aprovechamiento de las reservas de la biosfera, parques nacionales, parques marinos nacionales, reservas especiales de la biosfera, monumentos naturales y las áreas de protección de flora y fauna, se pagará el derecho de permiso o concesión de inmuebles federales, conforme a las siguientes cuotas:
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- Por el otorgamiento de la concesión, anualmente............. $ 800.00
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 II.- Por el otorgamiento de permiso, por cada uno............. $ 78.00
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado:
 
@@ -7376,6 +7126,8 @@ b).- De 501 a 1000 metros............. $ 125.00
 c).- De 1001 en adelante............. $ 140.00
 
 Tratándose de actividades turísticas o urbanísticas que se realicen en las citadas áreas, se pagará el 50% del monto de este derecho.
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 IV.- Por el permiso para prestadores de servicios turísticos, por temporada:
 
@@ -7391,6 +7143,8 @@ c).- Embarcaciones mayores de 10 metros de eslora y de más de 2 toneladas bruta
 
 d).- Otros vehículos............. $ 41.60
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 V.- Permisos para filmaciones, videograbaciones y fotografías con fines comerciales:
 
 a).- Filmaciones o videogramas, por día............. $ 2,228.89
@@ -7403,43 +7157,309 @@ c).- Por fotografía publicada, indepedientemente (sic) de los derechos señalad
 
 2.- De 1001 ejemplares en adelante............. $ 75.00
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 No se pagará el derecho a que se refiere la fracción V que antecede, cuando se trate de filmaciones, videograbaciones y tomas fotográficas con carácter científico, educativo y cultural.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Cuando en alguna de las áreas naturales protegidas se encuentre algún inmueble a que se refiere el artículo 178-A de esta ley, únicamente se pagará el derecho a que se refiere dicho artículo o el señalado en la fracción V de este artículo.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 Estos derechos se pagarán independientemente de los que correspondan conforme al Título II de esta Ley.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
 #### SECCION CUARTA. De las Areas Naturales Protegidas
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
+###### ARTICULO 194-D.
+
+Por los servicios que a continuación se señalan, se pagará el derecho de zona marítimo terrestre, conforme a las siguientes cuotas:
+
+I.- Por la recepción y estudio de la solicitud de concesión o autorización............. $ 288.41
+
+II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de concesión de zona federal marítimo-terrestre o terrenos ganados al mar, o cualquier otro depósito que se forme por aguas marítimas:
+
+a).- Hasta 1,000 m2 de superficie............. $ 586.28
+
+b).- De más de 1,000 m2 de superficie hasta 5,000 m2............. $ 1,172.64
+
+c).- De más de 5,000 m2 de superficie hasta 10,000 m2............. $ 2,345.29
+
+d).- De más de 10,000 m2 de superficie hasta 15,000 m2............. $ 4,690.66
+
+e).- De más de 15,000 m2 de superficie en adelante............. $ 7,036.01
+
+III.- Por la cesión de la concesión entre particulares............. $ 1,241.96
+
+IV.- Por la verificación de cumplimiento de obligaciones derivadas del título de concesión............. $ 248.34
+
+Cuando la zona marítimo terrestre se utilice para la agricultura, ganadería o pesca, las cuotas señaladas en este artículo se reducirán en un 50%.
+
+Este derecho se pagará independientemente del que corresponda por el uso o aprovechamiento de la zona marítimo terrestre conforme al Título II de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-E.
+
+Por el otorgamiento de concesiones, autorizaciones o prórroga de concesiones para el uso o goce de la zona federal marítimo-terrestre, terrenos ganados al mar o a cualquier otro depósito que se forme con aguas marítimas, se pagará anualmente el derecho de concesión de inmuebles federales, conforme a la cuota de............. $ 255.60
+
+Cuando la zona federal se utilice para la agricultura, ganadería o pesca, la cuota a que se refiere el párrafo anterior se reducirá en un 50%.
+
+No se pagará el derecho a que se refiere este artículo cuando el uso o goce de la zona federal se destine para actividades acuícolas de especies reservadas.
+
+Este derecho se pagará independientemente del que corresponda conforme al Título II de esta Ley.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
+
+#### SECCION QUINTA. De la Zona Marítimo Terrestre
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-F.
+
+Por los servicios que a continuación se señalan se pagará el derecho por servicios de flora y fauna silvestres, conforme a las siguientes cuotas:
+
+A. Por el registro y refrendo anual:
+
+I.- De viveros comerciales de flora silvestre con especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte.... $ 142.51
+
+II.- De mascotas de fauna silvestre o de criadero, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte…………. $ 130.63
+
+III.- De aves de presa consideradas como raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte……….. $ 100.94
+
+IV.- De viveros no comerciales de flora silvestre con especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte…. $ 31.17
+
+No se pagará por el refrendo anual del registro a que se refiere la fracción II de este Apartado.
+
+B. Por la expedición de permisos y, en su caso, de refrendos, anual o por temporada, así como por la expedición de certificados:
+
+I.- Para colecta científica realizada en el país, por extranjeros……… $ 3,790.22
+
+Las personas que realicen colecta científica en el país, bajo algún convenio de cooperación internacional con el Gobierno Federal o con alguna institución mexicana, no pagarán este derecho.
+
+II.- Por cada solicitud de certificados relacionados con la exportación, importación o reexportación de especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte:
+
+a).- De trofeos de caza............. $ 194.47
+
+b).- De animales de fauna silvestre, para comercialización:
+
+1. De especies mayores............. $ 638.34
+
+2. De especies menores............. $ 320.65
+
+c).- De animales de fauna silvestre, para fines no comerciales:
+
+1. De especies mayores............. $ 204.86
+
+2. De especies menores............. $ 106.88
+
+d).- Distintos de los anteriores............. $ 106.88
+
+e).- De productos y subproductos de fauna silvestre............. $ 106.88
+
+f).- De productos y subproductos de flora silvestre............. $ 106.88
+
+III.- Para colecta de material parental para su reproducción y propagación con fines comerciales en unidades de producción, de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte………….. $ 158.84
+
+IV.- Por trámite para colecta de material parental de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte…………. $ 158.84
+
+> <small>(ADICIONADO, D.O.F 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-G.
+
+Por los estudios de flora y fauna silvestre, incluyendo su planificación, manejo y dictamen de impacto ambiental, se pagará el derecho de flora y fauna, por hectárea, conforme a las siguientes cuotas:
+
+I.- Distrito Federal, México, Morelos, Puebla, Tlaxcala, Hidalgo y Querétaro………. $ 4.72
+
+II.- Jalisco, Michoacán, Aguascalientes, Guanajuato, Nuevo León, San Luis Potosí y Zacatecas………… $ 6.32
+
+III.- Baja California, Baja California Sur, Colima, Chihuahua, Durango, Coahuila, Sonora, Nayarit, Tamaulipas, Veracruz, Tabasco, Guerrero, Oaxaca, Chiapas, Campeche, Yucatán, Quintana Roo y Sinaloa………… $ 7.88
+
+IV.- Por supervisión anual, por hectárea............. $ 2.34
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
+
+#### SECCION SEXTA. Servicios de Flora y Fauna
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-H.
+
+Por el otorgamiento de la autorización de los proyectos de obras o actividades cuya evaluación corresponda al Gobierno Federal, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+
+I.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad general............. $ 497.15
+
+II.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad intermedia............. $ 870.12
+
+III.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad específica............. $ 1,367.37
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-I.
+
+- Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+
+I.- Por la inscripción en el Registro Nacional de Prestadores de Servicios que Realicen Estudios de Impacto Ambiental, por cada campo de especialidad o por el refrendo correspondiente................... $ 1,371.75
+
+II.- Por la obtención de la versión actualizada del registro a que se refiere la fracción anterior............. $ 15.82
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-J.
+
+Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+
+I.- Por la recepción y evaluación del informe preventivo............. $ 745.81
+
+II.- Por la recepción y evaluación de la manifestación de impacto ambiental:
+
+a).- En su modalidad general............. $ 1,491.67
+
+b).- En su modalidad intermedia............. $ 2,610.46
+
+c).- En su modalidad específica............. $ 4,102.21
+
+III.- Por la verificación del cumplimiento de las medidas de prevención y mitigación..... $ 1,988.93
+
+IV.- Por la revalidación de evaluación de la autorización de impacto ambiental:
+
+a).- En su modalidad general............. $ 234.48
+
+b).- En su modalidad intermedia............. $ 410.39
+
+c).- En su modalidad específica............. $ 644.94
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+#### SECCION SEPTIMA. Impacto Ambiental
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-K.
+
+Por la recepción, evaluación y dictamen del programa de manejo forestal, para obtener autorización de aprovechamiento de recursos forestales, forestación y reforestación de especies maderables de clima templado y frío, por volumen solicitado para su aprovechamiento, se pagará el derecho de impacto ambiental conforme a las siguientes cuotas:
+
+I.- Hasta 500 metros cúbicos...................E x e n t o
+
+II.- De más de 500 metros cúbicos hasta 1,000 metros cúbicos............. $ 266.26
+
+III.- De más de 1,000 metros cúbicos hasta 5,000 metros cúbicos............. $ 399.42
+
+IV.- De más de 5,000 metros cúbicos en adelante............. $ 621.38
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-L.
+
+Por la recepción, evaluación y dictamen del programa de manejo forestal para aprovechamiento de recursos forestales, forestación y reforestación de especies maderables de clima árido y semiárido, por metro cúbico solicitado para su aprovechamiento, se pagará el derecho de impacto ambiental conforme a las siguientes cuotas:
+
+I.- Hasta 500 metros cúbicos................... E x e n t o
+
+II.- De más de 500 metros cúbicos hasta 1,500 metros cúbicos............. $ 177.49
+
+III.- De más de 1,500 metros cúbicos hasta 3,000 metros cúbicos............. $ 266.26
+
+IV.- De más de 3,000 metros cúbicos en adelante............. $ 355.07
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-M.
+
+Por la recepción, evaluación y dictamen de los estudios de uso de suelo forestal y por superficie solicitada, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+
+I.- De más de 1 hectárea hasta 10 hectáreas............. $ 342.69
+
+II.- De más de 10 hectáreas hasta 50 hectáreas............. $ 742.49
+
+III.- De más de 50 hectáreas hasta 200 hectáreas............. $ 1,484.99
+
+IV.- De más de 200 hectáreas............. $ 2,284.60
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-N.
+
+Por la recepción, evaluación y dictamen de manifestaciones de impacto ambiental para aprovechamientos forestales de bosques y selvas tropicales y especies de difícil regeneración, así como aquéllos que determine la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, con base en lo que establecen la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Impacto Ambiental, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+
+I.- Manifestación de impacto ambiental modalidad general por un volumen mayor a 250 metros cúbicos............. $ 887.71
+
+II.- Manifestación de impacto ambiental modalidad intermedia............. $ 1,775.50
+
+III.- Manifestación de impacto ambiental modalidad específica............. $ 2,663.23
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
+
+#### SECCION OCTAVA. Prevención y Control de la Contaminación
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-O.
+
+Por el otorgamiento de la licencia de funcionamiento a las fuentes fijas de jurisdicción federal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
+
+I.- Por la recepción y evaluación de solicitud de licencia............. $ 1,395.75
+
+II.- Actualización de licencia de funcionamiento por ampliación o modificación de procesos............. $ 670.40
+
+III.- Por la verificación de cumplimiento de las condiciones derivadas de la licencia de funcionamiento............. $ 1,115.37
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-P.
+
+Por los servicios de verificación y certificación de equipos de medición de contaminantes de vehículos automotores en circulación en centros autorizados, se pagará el derecho de prevención y control de la contaminación conforme a la cuota de………… $ 140.15
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-Q.
+
+Por el servicio de certificación y verificación de emisiones contaminantes de vehículos automotores nuevos, a través de la prueba de laboratorio de emisiones vehiculares, por el método "CVS 75", se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota de…………… $ 4,604.93
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-R.
+
+Por el servicio de evaluación y verificación de la aplicación de métodos, procedimientos, partes, componentes y equipos que reduzcan las emisiones de contaminantes a la atmósfera generados por vehículos automotores, a través de la prueba estática de emisiones vehiculares, se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota………….. $ 47.29
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-S.
+
+Por el registro de empresas generadoras de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a la cuota de…………. $ 280.32
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 194-T.
+
+Por el otorgamiento de la autorización en materia de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
+
+I.- Instalación y operación de sistemas de almacenamiento, recolección y transporte..... $ 3,426.90
+
+II.- Instalación y operación de sistemas de reuso, tratamiento y reciclaje........... $ 6,853.80
+
+III.- Instalación y operación de sistemas de incineración y disposición final...... $ 20,561.40
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
 #### SECCION PRIMERA. Registro Sanitario
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION SEGUNDA. Servicios de Laboratorio
+###### ARTICULO 194-U.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-#### SECCION TERCERA. Fomento y Análisis Sanitario
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-#### SECCION CUARTA. Otros Servicios
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-#### SECCION UNICA. Registro Nacional de Turismo
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación, por cada dictamen técnico conforme a la cuota de............. $ 557.65
 
 ### CAPITULO XIV. De la Secretaría de Salud
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION PRIMERA. Educación Militar
+#### SECCION SEGUNDA. Servicios de Laboratorio
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 195.
 
@@ -7471,9 +7491,9 @@ Los productos comprendidos en las fracciones I, II, III y IV que a juicio de la 
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION SEGUNDA. Registro Federal de Armas de Fuego y Control de Explosivos
+#### SECCION TERCERA. Fomento y Análisis Sanitario
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 195-B.
 
@@ -7493,9 +7513,9 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la depende
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION PRIMERA. Distritos de Riego
+#### SECCION CUARTA. Otros Servicios
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 195-C.
 
@@ -7545,9 +7565,9 @@ c).- De riesgo bajo sanitario............... $ 20,000.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+#### SECCION UNICA. Registro Nacional de Turismo
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 195-E.
 
@@ -7725,9 +7745,9 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION UNICA. Espectro Radioeléctrico
+#### SECCION PRIMERA. Educación Militar
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por prestar servicios exclusivos del Estado
 
@@ -7765,7 +7785,9 @@ Ferrocarriles Nacionales de México pagará por concepto de derechos por la pres
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-#### SECCION PRIMERA. Del derecho sobre hidrocarburos
+#### SECCION SEGUNDA. Registro Federal de Armas de Fuego y Control de Explosivos
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 195-P.
 
@@ -7859,13 +7881,19 @@ En aquellos casos en que las entidades federativas hayan celebrado Convenio de C
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
+#### SECCION PRIMERA. Distritos de Riego
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 195-S.
 
 Por la expedición de constancias de certificados de estudios y de duplicados de estudios parciales de educación militar, se pagará el derecho de servicios de educación militar conforme a la cuota de $ 50.00, por cada documento.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 195-T.
 
@@ -7901,7 +7929,9 @@ III.- Por el permiso para la compra de sustancias químicas para la fabricación
 
 IV.- Por el permiso ordinario de importación............. $ 1,000.00
 
-V.- Por el permiso extraordinario para la importación o exportación temporal o definitiva de armas y cartuchos, por cada arma y sus cartuchos o sólo cartuchos............. $ 900.00
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+V.- Por el permiso extraordinario para la importación o exportación temporal o definitiva de armas y cartuchos, por las armas y sus cartuchos o sólo cartuchos..............$ 1,028.07
 
 VI.- Por el permiso extraordinario para la importación o exportación de explosivos o sustancias químicas relacionadas con armas y cartuchos............. $ 1,000.00
 
@@ -7921,6 +7951,10 @@ II.- Por la autorización para la adquisición y posesión de armas para colecci
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
+#### SECCION UNICA. Espectro Radioeléctrico
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 195-W.
 
 Por el registro de armas, clubes o asociaciones de tiro y cacería en el Registro Federal de Armas de Fuego y Control de Explosivos, se pagará el derecho por registro de armas y control de explosivos, conforme a las siguientes cuotas:
@@ -7934,6 +7968,8 @@ III.- Por la expedición de constancias de registro............. $ 30.00
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO I. Bosques
+
+#### SECCION PRIMERA. Del derecho sobre hidrocarburos
 
 ###### ARTICULO 195-X.
 
@@ -7966,6 +8002,8 @@ XII.- Por remiso en la incorporación............. $ 100.00
 ### CAPITULO II. Pesca
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+
+#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
 
 ### CAPITULO III. Puerto y Atraque
 
@@ -8649,7 +8687,7 @@ IV.- El contribuyente no efectúe el pago del derecho en los términos del artí
 
 V.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de verificación y medición o no presenten la información o documentación que les solicite la Comisión Nacional del Agua.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
 
@@ -10101,8 +10139,6 @@ ARTICULO DECIMOSEGUNDO.- Se deroga la Ley de Impuestos y Fomento a la Minería p
 
 ARTICULO DECIMOTERCERO.- Para los efectos del Artículo Quinto Transitorio de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones en materia Fiscal, vigente a partir del 1o. de enero de 1982, el impuesto adicional del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, se entenderá sustituido por el derecho adicional sobre el hidrocarburo a que se refiere la Ley Federal de Derechos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
 D.O.F. 30 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO DECIMO NOVENO.
@@ -11326,3 +11362,17 @@ T r a n s i t o r i o s
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+
+D.O.F. 10 DE MAYO DE 1996.
+
+DISPOSICION TRANSITORIA DE LA LEY FEDERAL DE DERECHOS
+
+###### ARTICULO SEPTIMO.
+
+Para efectos de lo dispuesto por el artículo anterior, las cuotas de los derechos que aparecen publicados en esta Ley, se actualizarán en el mes de julio de 1996 en los términos del cuarto párrafo del artículo 1o. de la Ley Federal de Derechos, excepto las señaladas en los artículos 86-A, fracciones IV y VIII; 123-A, fracción IV, inciso f).-; 123-C, fracción IV, inciso e).-; 123-D, fracción IV, inciso e).-; 123-E, fracción IV, inciso e).-; 123-F, fracción IV, inciso e).-, de la Ley Federal de Derechos los cuales se actualizarán a partir del 1o. de enero de 1997.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
