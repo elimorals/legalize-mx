@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1996-05-16"
+last_updated: "1996-06-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -167,7 +167,9 @@ X.- DECIMO CIRCUITO:
 
 XI.- DECIMO PRIMER CIRCUITO:
 
-1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Morelia, Michoacán;
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 18/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE JUNIO DE 1996)</small>
+
+1. Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Morelia, Michoacán;
 
 2.- Juzgados Primero, Segundo y Tercero de Distrito en el estado de Michoacán, con residencia en la ciudad de Morelia;
 
@@ -612,6 +614,18 @@ D.O.F. 16 DE MAYO DE 1996.
 PRIMERO.- Este Acuerdo entrará en vigor el tres de junio de mil novecientos noventa y seis.
 
 SEGUNDO.- Se modifican los Acuerdos 1/1993 y XIX/94 del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y seis de septiembre de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día tres de julio de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
