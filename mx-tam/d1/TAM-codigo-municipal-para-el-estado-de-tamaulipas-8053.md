@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2002-02-19"
+last_updated: "2002-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -643,7 +643,9 @@ XVII.- Disponer de la fuerza pública del Municipio para asegurar, cuando las ci
 
 XVIII.- Dar cuenta al Gobierno del Estado de todo acontecimiento que afecte la buena marcha del gobierno y administración municipal, y de todo suceso que perturbe el orden público y la paz social.
 
-XIX.- Informar detalladamente a la población en la última semana de diciembre de cada año, acerca del ejercicio del gobierno municipal.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2002)</small>
+
+XIX.- Rendir a la población un informe anual detallado del estado que guarda la Administración Pública Municipal dentro de las dos primeras semanas del mes de diciembre, excepción hecha del tercer año del ejercicio constitucional en que habrá de realizarse en la última semana del mes de diciembre.
 
 XX.- Solicitar autorización del Ayuntamiento para ausentarse de la cabecera del Municipio por períodos mayores de cinco días.
 
@@ -3008,3 +3010,9 @@ P.O. 19 DE FEBRERO DE 2002.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, derogándose las disposiciones que contravengan sus preceptos.
 
 Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en materia de bonificación por pago anticipado o en relación a la situación personal de los contribuyentes durante el mes de enero del presente año podrán autorizar la adecuación de las previsiones correspondientes a lo dispuesto en este Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2002.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
