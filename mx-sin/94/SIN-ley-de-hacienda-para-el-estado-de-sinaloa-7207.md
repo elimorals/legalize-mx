@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1989-04-07"
+last_updated: "1989-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1989.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -4243,19 +4243,23 @@ ART. 334.- En imcumplimiento (sic) de estas disposiciones causará sanciones que
 
 Mientras se expide el Código Sanitario del Estado de Sinaloa, la inspección, vigilancia, servicio, normas y procedimientos sanitarios, se aplicarán de conformidad con las disposiciones establecidas en el Código Sanitario de los Estados Unidos Mexicanos y sus Reglamentos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE MAYO DE 1989)</small>
 
-### CAPITULO XIII. Carretera Costera Plan Mar de Cortez (sic)
+### CAPITULO XIII. Autopista Estatal "Benito Juárez"
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1989)</small>
 
-ART. 334 Bis.- Las cuotas, derechos y refrendos, así como sus correspondientes exenciones, relativas al uso o aprovechamiento de la carretera costera Plan Mar de Cortés, se sujetarán a lo dispuesto en este capítulo.
+ART. 334 Bis.- Las cuotas, derechos y refrendos, así como sus correspondientes exenciones, relativos al uso o aprovechamiento de la autopista estatal "BENITO JUÁREZ", se sujetarán a lo dispuesto en este capítulo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 1989)</small>
+
+ART. 334 Bis A.- El uso de la autopista estatal "BENITO JUÁREZ", mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la carretera a Eldorado o viceversa, estará sujeto a la siguiente:
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1989)</small>
+
+T A R I F A
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
-
-ART. 334 Bis A.- El uso de la Carretera Costera Plan Mar de Cortéz (sic), mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la Carretera a Eldorado o viceversa, estará sujeto a las siguientes cuotas:
-
-T A R I F A:
 
 CLASE DE VEHICULO VECES EL SALARIO
 
@@ -4265,9 +4269,15 @@ VIGENTE DIARIO EN
 
 SINALOA
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+
 Tramo Completo Tramo Intermedio
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+
 I.- Motocicletas 0.20 0.10
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
 II.- Automóviles y camionetas
 
@@ -4275,17 +4285,27 @@ tipo pick-up y panel, de hasta
 
 10 pasajeros:
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+
 a) Sin remolque 0.50 0.25
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+
 b) Con remolque 0.85 0.40
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
 III.- Autobuses de
 
 Pasajeros 0.85 0.40
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+
 IV.- Camiones de carga
 
 de 2 ejes 0.85 0.40
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
 V.- Camiones de carga o
 
@@ -4293,11 +4313,15 @@ tractores con semiremolque
 
 de 3 Ejes 1.30 0.65
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+
 VI.- Camiones de carga o
 
 tractores con remolque de
 
 4 ejes 1.80 0.90
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
 VII.- Camiones de carga o
 
@@ -4305,7 +4329,11 @@ tractores con remolque de
 
 5 ejes 2.20 1.10
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+
 Tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, las cuotas a que se refiere la fracción VII se incrementarán por cada eje excedente, en un 50 por ciento del salario mínimo general diario vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
 Cuando de la aplicación de la Tarifa anterior se determine una cuota en fracciones de cien pesos, se ajustará la cuota a la centena inmediata siguiente si se trata de fracciones superiores a cincuenta pesos, y cuando la fracción sea de cincuenta pesos o inferior el ajuste se hará a la centena inmediata anterior.
 
@@ -4315,17 +4343,21 @@ ART. 334 Bis B.- Estarán excentos (sic) del pago de cuotas los vehículos milit
 
 Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados Locales y Presidentes Municipales del Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 1989)</small>
 
-ART. 334 Bis C.- Por el otorgamiento de autorización para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de la Carretera Costera Plan Mar de Cortés, o su refrendo anual, se pagarán conforme a la siguiente:
+ART. 334 Bis C.- Por el otorgamiento de autorización para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de la Autopista Estatal "Benito Juárez", o su refrendo anual, se pagará conforme a la siguiente:
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+(REFORMADA, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
 T A R I F A:
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 VECES EL SALARIO MINIMO GENERAL
 
 VIGENTE EN SINALOA
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 CLASE DE POR LA POR EL
 
@@ -4333,21 +4365,31 @@ ESTABLECIMIENTO AUTORIZACION REFRENDO
 
 INICIAL ANUAL
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
 
 I.- Establecimientos con venta
 
 de combustibles y lubricantes 12.00 6.50
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 II.- Restaurante y similares 8.50 4.25
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 III.- Taller mecánico y/o
 
 Eléctrico 4.50 2.25
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 IV.- Otros 3.25 2.00
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+
 La autorización será expedida por el organismo que tenga a su cargo la administración de la mencionada carretera, previa presentación de la solicitud correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
 El pago del derecho por la autorización inicial se hará previamente a su otorgamiento. El refrendo se pagará durante el mes de Junio de cada año.
 
@@ -6032,3 +6074,9 @@ P.O. 07 DE ABRIL DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 08 DE MAYO DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
