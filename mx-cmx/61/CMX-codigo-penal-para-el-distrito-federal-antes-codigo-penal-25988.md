@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1940-02-14"
+last_updated: "1941-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 1941.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -47,6 +47,8 @@ Este Código se aplicará en el Distrito y Territorios Federales, por los delito
 ###### ARTICULO 2°.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
+
+D.O.F. 14 DE NOVIEMBRE DE 1941.
 
 ###### ARTICULO 3o.
 
@@ -886,6 +888,8 @@ La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes
 
 ### CAPITULO II. Espionaje
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
+
 ###### ARTICULO 116.
 
 La privación de derechos civiles o políticos prescribirá en veinte años.
@@ -944,7 +948,9 @@ Cuando el menor llegue a los dieciocho años antes de terminar el período de re
 
 ## TITULO PRIMERO. Delitos contra la seguridad exterior de la Nación
 
-### CAPITULO I. Piratería
+### CAPITULO III. Delitos de disolución social
+
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
 
 ###### ARTICULO 123.
 
@@ -1006,7 +1012,7 @@ Se impondrá prisión de uno a cinco años y multa de quinientos a dos mil pesos
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO II. Violación de inmunidad y de neutralidad
+### CAPITULO I. Piratería
 
 ###### ARTICULO 127.
 
@@ -1020,31 +1026,31 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de lo que previe
 
 ###### ARTICULO 129.
 
-Se aplicará prisión de veinte a treinta años y multa hasta de dos mil pesos:
+Se aplicará prisión de veinte a treinta años y multa hasta de dos mil pesos, al que declarada la guerra, o rotas las hostilidades, esté en relación, o tenga inteligencia con el enemigo extranjero, guiándolo, dándole instrucciones, consejos, o proporcionándole noticias concernientes a las operaciones militares.
 
-I.- Al que declarada la guerra o rotas las hostilidades, esté en relación o tenga inteligencia con el enemigo extranjero, guiándolo, dándole instrucciones, consejos, o proporcionándole noticias concernientes a las operaciones militares.
+Cuando las noticias no tengan ese objeto, pero fueren útiles al enemigo, la sanción será de cuatro a cinco años de prisión, y multa hasta de un mil pesos.
 
-Cuando las noticias no tengan ese objeto, pero fueren útiles al enemigo, la sanción será de cuatro a cinco años de prisión y multa hasta de mil pesos, y
+Se aplicará prisión de veinte a treinta años y pérdida de los derechos políticos, al funcionario o empleado público, que declarada la guerra o rotas las hostilidades, teniendo en su poder, por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto o rada, o conociendo el secreto de una negociación o de una expedición militar, entregue aquél o revele éste al enemigo.
 
-II.- Al funcionario público que, teniendo en su poder, por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto o rada, o conocido el secreto de una negociación o de una expedición militar, entregue aquél o revele éste al enemigo.
+Se aplicará prisión de seis a doce años y multa hasta de un mil pesos, al que en tiempo de paz, esté en relación o tenga inteligencia con un gobierno extranjero, con el objeto de guiar una posible invasión del territorio nacional, o provocar alguna alteración de la paz interior, o con estos fines le dé instrucciones o consejos, o le proporcione noticias de las posibles operaciones u obras militares de defensa.
 
-En cualquier otro caso la sanción será de ocho a doce años de prisión y multa hasta de mil pesos.
+Se aplicará prisión de diez a quince años y pérdida de los derechos políticos, al funcionario o empleado público, que en tiempo de paz, teniendo en su poder por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto o rada, o conociendo el secreto de una negociación o de una medida militar preventiva, entregue aquél o revele éste a cualquier gobierno extranjero.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO III. Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales
+### CAPITULO II. Violación de inmunidad y de neutralidad
 
 ###### ARTICULO 130.
 
 Cuando la revelación del secreto o la entrega de los planos de que se habla en el artículo anterior, se hagan a una potencia neutral, se impondrán al delincuente de dos a cinco años de prisión, pero subsistirá la multa hasta de mil pesos.
 
-### CAPITULO I. Evasión de presos
+### CAPITULO III. Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales
 
 ###### ARTICULO 131.
 
 Cuando la entrega de planos o la revelación de que hablan los dos artículos anteriores las haga un particular, se le impondrá la mitad de las sanciones señaladas en dichos artículos.
 
-### CAPITULO II. Quebrantamiento de sanción
+### CAPITULO I. Evasión de presos
 
 ###### ARTICULO 132.
 
@@ -1100,27 +1106,27 @@ A los extranjeros que cometan el delito de rebelión, se les aplicará de seis a
 
 Los rebeldes no serán responsables de las muertes ni de las lesiones inferidas en el acto de un combate; pero de todo homicidio que se cometa y de toda lesión que se cause fuera de la lucha, serán responsables, tanto el que mande ejecutar el delito como el que lo permita, y los que inmediatamente lo ejecuten.
 
-### CAPITULO III. Armas prohibidas
+### CAPITULO II. Quebrantamiento de sanción
 
 ###### ARTICULO 139.
 
 No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros, si no se hubiere cometido alguno de los delitos mencionados en el artículo que sigue.
 
-### CAPITULO IV. Asociaciones delictuosas
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO III. Armas prohibidas
 
 ###### ARTICULO 140.
 
 Cuando en las rebeliones se pusiere en ejercicio, para hacerlas triunfar, el homicidio, el robo, el secuestro, el despojo, el incendio o el saqueo, se aplicarán las penas que por estos delitos y el de rebelión correspondan según las reglas de acumulación.
 
-### CAPITULO I. Ataques a las vías de comunicación
+### CAPITULO IV. Asociaciones delictuosas
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 141.
 
 Son reos de sedición los que reunidos tumultuariamente, pero sin armas, resisten a la autoridad o la atacan para impedirle el libre ejercicio de sus funciones, con alguno de los objetos a que se refiere el artículo 133.
 
-### CAPITULO II. Violación de correspondencia
+### CAPITULO I. Ataques a las vías de comunicación
 
 ###### ARTICULO 142.
 
@@ -1136,15 +1142,29 @@ En lo que sea aplicable a la sedición, se observarán los artículos 136 y 140.
 
 Son reos del delito de asonada o motín: los que, para hacer uso de un derecho, se reúnen tumultuariamente. Este delito se castigará con prisión de tres a treinta días y multa de cinco a cincuenta pesos.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
 
 ###### ARTICULO 145.
 
-Para todos los efectos legales, solamente se consideran como de carácter político los delitos consignados en este título con excepción de los previstos en los artículos 136 y 140.
+Se apliará (sic) prisión de dos a seis años, al extranjero o nacional mexicano, que en forma hablada o escrita, o por cualquier otro medio, realice propaganda política entre extranjeros o entre nacionales mexicanos, difundiendo ideas, programas o normas de acción de cualquier gobierno extranjero, que perturbe el orden público o afecte la soberanía del Estado Mexicano.
+
+Se perturba el orden público, cuando los actos determinados en el párrafo anterior, tiendan a producir rebelión, sedición, asonada o motín.
+
+Se afecta la soberanía Nacional, cuando dichos actos puedan poner en peligro la integridad territorial de la República, obstaculicen el funcionamiento de sus instituciones legítimas o propaguen el desacato de parte de los nacionales mexicanos a sus deberes cívicos.
+
+Se aplicará prisión de seis a diez años, al extranjero o nacional mexicano que, en cualquier forma, realice actos de cualquiera naturaleza, que preparen material o moralmente la invasión del territorio nacional, o la sumisión del país, a cualquier gobierno extranjero.
+
+Cuando el sentenciado en el caso de los párrafos anteriores sea un extranjero, las penas a que antes se ha hecho referencia, se aplicarán sin perjuicio de la facultad que concede al Presidente de la República el artículo 33 de la Constitución.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
+
+###### ARTICULO 145 Bis.
+
+Para todos los efectos legales, solamente se considerarán como de carácter político, los delitos consignados en este título, con excepción de los previstos en los artículos 136 y 140.
 
 ## TITULO SEGUNDO. Delitos contra la seguridad interior de la Nación
 
-### CAPITULO I. Desobediencia y resistencia de particulares
+### CAPITULO II. Violación de correspondencia
 
 ###### ARTICULO 146.
 
@@ -1160,7 +1180,7 @@ III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el c
 
 Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los que pertenezcan a una tripulación pirata.
 
-### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
+### CAPITULO I. Desobediencia y resistencia de particulares
 
 ###### ARTICULO 148.
 
@@ -1176,23 +1196,23 @@ IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabe
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
-### CAPITULO III. Quebrantamiento de sellos
+### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
 
 ## TITULO TERCERO. Delitos contra el Derecho Internacional
 
-### CAPITULO IV. Delitos cometidos contra funcionarios públicos
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO III. Quebrantamiento de sellos
 
 ###### ARTICULO 149.
 
 Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, en los heridos, o en los hospitales de sangre, se le aplicará por ese sólo hecho: prisión de tres a seis años, salvo lo dispuesto, para los casos especiales, en las leyes militares.
 
-### CAPITULO V. Ultrajes a las insignias nacionales
+### CAPITULO IV. Delitos cometidos contra funcionarios públicos
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ## TITULO CUARTO. Delitos contra la seguridad pública
 
-### CAPITULO I. De la tenencia y tráfico de enervantes
+### CAPITULO V. Ultrajes a las insignias nacionales
 
 ###### ARTICULO 150.
 
@@ -1214,9 +1234,7 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 
 Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
 
-### CAPITULO II. Del peligro de contagio
-
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+### CAPITULO I. De la tenencia y tráfico de enervantes
 
 ###### ARTICULO 155.
 
@@ -1244,9 +1262,9 @@ II.- A aquel a quien se hubiere prohibido ir a determinado lugar o a residir en 
 
 El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que quebrante su condena, pagará una multa de veinte a mil pesos. En caso de reincidencia, se duplicará la multa y se aplicará prisión de uno a seis años.
 
-### CAPITULO I. Ultrajes a la moral pública o a las buenas costumbres e incitación a la prostitución
+### CAPITULO II. Del peligro de contagio
 
-> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ###### ARTICULO 160.
 
@@ -1298,7 +1316,9 @@ a). Otorgar fianza por la cantidad que fije la autoridad, y
 
 b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
 
-### CAPITULO II. Corrupción de menores
+### CAPITULO I. Ultrajes a la moral pública o a las buenas costumbres e incitación a la prostitución
+
+> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ###### ARTICULO 164.
 
@@ -1310,7 +1330,7 @@ Se impondrán prisión de seis meses a seis años y multa de cincuenta a quinien
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO III. Lenocinio
+### CAPITULO II. Corrupción de menores
 
 ###### ARTICULO 165.
 
@@ -1362,9 +1382,9 @@ A los que violaren dos o más veces los reglamentos o disposiciones sobre el tr�
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
+### CAPITULO III. Lenocinio
 
-### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
+### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
 
 ###### ARTICULO 173.
 
@@ -1394,7 +1414,7 @@ Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
 ## TITULO SEXTO. Delitos contra la autoridad
 
-### CAPITULO II. Abuso de autoridad
+### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
 
 ###### ARTICULO 178.
 
@@ -1422,7 +1442,7 @@ El que, debiendo ser examinado en juicio y sin que le aprovechen las excepciones
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 
-### CAPITULO III. Coalición de funcionarios
+### CAPITULO II. Abuso de autoridad
 
 ###### ARTICULO 184.
 
@@ -1438,7 +1458,7 @@ Cuando el delito se cometa por varias personas, de común acuerdo, la sanción s
 
 A las sanciones de que hablan los dos artículos que preceden, se podrá agregar una multa de veinte a quinientos pesos, cuando no hubiere lugar a la reparación del daño.
 
-### CAPITULO IV. Cohecho
+### CAPITULO III. Coalición de funcionarios
 
 ###### ARTICULO 187.
 
@@ -1448,7 +1468,7 @@ Al que quebrante los sellos puestos por orden de la autoridad pública, se le ap
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
 
-### CAPITULO V. Peculado y concusión
+### CAPITULO IV. Cohecho
 
 ###### ARTICULO 189.
 
@@ -1460,7 +1480,7 @@ Al que cometa un delito en contra de un funcionario público o agente de la auto
 
 Los ultrajes hechos a una de las Cámaras, a un tribunal o a un jurado, o a un cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se castigarán con tres días a seis meses de prisión y multa de cinco a doscientos pesos.
 
-### CAPITULO I. Responsabilidad médica y técnica
+### CAPITULO V. Peculado y concusión
 
 ###### ARTICULO 191.
 
@@ -1476,9 +1496,7 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
-### CAPITULO II. Delitos de abogados, patronos y litigantes
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO I. Responsabilidad médica y técnica
 
 ###### ARTICULO 193.
 
@@ -1520,7 +1538,9 @@ Las drogas enervantes, las substancias, aparatos y demás objetos que se emplear
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
-### CAPITULO I. Falsificación y alteración de moneda
+### CAPITULO II. Delitos de abogados, patronos y litigantes
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 199 Bis.
 
@@ -1532,7 +1552,7 @@ Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
-### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
+### CAPITULO I. Falsificación y alteración de moneda
 
 ###### ARTICULO 200.
 
@@ -1544,7 +1564,7 @@ II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhi
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
-### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
+### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
 
 ###### ARTICULO 201.
 
@@ -1568,7 +1588,7 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 El delito de corrupción de menores sólo se castigará cuando se consumen los hechos materiales que lo constituyen.
 
-### CAPITULO IV. Falsificación de documentos en general
+### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
 ###### ARTICULO 206.
 
@@ -1590,7 +1610,7 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 Al que habitual o accidentalmente encubra, concierte o permita el comercio carnal de una menor de edad, se le aplicará la sanción señalada en el artículo 201.
 
-### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
+### CAPITULO IV. Falsificación de documentos en general
 
 ###### ARTICULO 209.
 
@@ -1610,7 +1630,7 @@ La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y 
 
 ## TITULO DECIMO. Delitos cometidos por funcionarios públicos
 
-### CAPITULO VI. Variación del nombre o del domicilio
+### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
 ###### ARTICULO 212.
 
@@ -1632,7 +1652,7 @@ V.- Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo,
 
 Al que cometa el delito de abuso de autoridad se le impondrán de seis meses a seis años de prisión, multa de veinticinco a mil pesos y destitución de empleo.
 
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
+### CAPITULO VI. Variación del nombre o del domicilio
 
 ###### ARTICULO 214.
 
@@ -1664,23 +1684,21 @@ XI.- El funcionario que teniendo conocimiento de una privación ilegal de libert
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
-### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
 
 ###### ARTICULO 215.
 
 A los que cometan el delito de coalición de funcionarios se les impondrán de seis meses a dos años de prisión y multa de veinticinco a mil pesos.
 
-### CAPITULO I. Delitos contra el comercio y la industria
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
 ###### ARTICULO 216.
 
 Cometen el delito de coalición: los funcionarios públicos, empleados, agentes o comisionados del Gobierno que se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
-### CAPITULO II. Vagos y malvivientes
+### CAPITULO I. Delitos contra el comercio y la industria
 
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 217.
 
@@ -1692,25 +1710,27 @@ II.- El que directa o indirectamente dé u ofrezca dádivas a la persona encarga
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO III. Juegos prohibidos
+### CAPITULO II. Vagos y malvivientes
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
 
 ###### ARTICULO 218.
 
 El delito de cohecho se castigará con tres meses a cinco años de prisión y multa hasta de dos mil pesos.
 
-### CAPITULO I. Atentados al pudor, estupro y violación
+### CAPITULO III. Juegos prohibidos
 
 ###### ARTICULO 219.
 
 Al que cometa el delito de peculado se le aplicarán de seis meses a doce años de prisión, multa de diez a tres mil pesos y destitución de empleo o cargo e inhabilitación de dos a seis años.
 
-### CAPITULO II. Rapto
+### CAPITULO I. Atentados al pudor, estupro y violación
 
 ###### ARTICULO 220.
 
 Comete el delito de peculado: toda persona encargada de un servicio público, aunque sea en comisión por tiempo limitado y no tenga el carácter de funcionario, que para usos propios o ajenos, distraiga de su objeto el dinero, valores, fincas o cualquiera otra cosa perteneciente a la Nación, a un Estado, a un Municipio o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquiera otra causa.
 
-### CAPITULO III. Incesto
+### CAPITULO II. Rapto
 
 ###### ARTICULO 221.
 
@@ -1718,19 +1738,19 @@ La sanción será de uno a seis meses de prisión, si dentro de los diez días s
 
 Este artículo se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
 
-### CAPITULO IV. Adulterio
+### CAPITULO III. Incesto
 
 ###### ARTICULO 222.
 
 Comete el delito de concusión: el encargado de un servicio público que, con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
 
-### CAPITULO I. Amenazas
+### CAPITULO IV. Adulterio
 
 ###### ARTICULO 223.
 
 A los funcionarios y empleados públicos que cometan el delito de concusión, se les aplicará destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años, y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente. Si ésta pasare de cien pesos, se les impondrá además de tres meses a dos años de prisión.
 
-### CAPITULO II. Allanamiento de morada y asalto
+### CAPITULO I. Amenazas
 
 ###### ARTICULO 224.
 
@@ -1740,7 +1760,7 @@ TITULO DECIMOPRIMERO
 
 Delitos cometidos en la administración de justicia
 
-### CAPITULO I. Lesiones
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 225.
 
@@ -1764,7 +1784,7 @@ VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración
 
 IV (sic).- Tratar en el ejercicio de su cargo con ofensa, desprecio o deshonestidad a las personas que asistan a su tribunal u oficina.
 
-### CAPITULO II. Homicidio
+### CAPITULO I. Lesiones
 
 ###### ARTICULO 226.
 
@@ -1782,9 +1802,7 @@ TITULO DECIMOSEGUNDO
 
 Responsabilidad profesional
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 228.
 
@@ -1802,7 +1820,9 @@ El artículo anterior se aplicará a los médicos que habiendo otorgado responsi
 
 Igualmente serán responsables en la forma que previene el artículo 228, todos los que causen daños indebidos en el ejercicio de una profesión, o un arte o actividad técnica.
 
-### CAPITULO IV. Parricidio
+### CAPITULO III. Reglas comunes para lesiones y homicidio
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 231.
 
@@ -1832,9 +1852,7 @@ TITULO DECIMOTERCERO
 
 Falsedad
 
-### CAPITULO V. Infanticidio
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO IV. Parricidio
 
 ###### ARTICULO 234.
 
@@ -1868,7 +1886,9 @@ No se librará de las sanciones impuestas por la falsificación de moneda: el qu
 
 Al que cometa el delito de falsificación de billetes de banco, títulos al portador y documentos de crédito público, se le impondrán de cuatro a diez años de prisión y multa de doscientos cincuenta a tres mil pesos.
 
-### CAPITULO VI. Aborto
+### CAPITULO V. Infanticidio
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 239.
 
@@ -1886,7 +1906,7 @@ IV.- Las obligaciones y otros títulos legalmente emitidos por sociedades o empr
 
 Al que introduzca en la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 238, y se aplicará también en su caso la parte final del artículo 236.
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO VI. Aborto
 
 ###### ARTICULO 241.
 
@@ -1924,7 +1944,7 @@ VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga u
 
 VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, II, V y VI de éste.
 
-### CAPITULO I. Golpes y otras violencias físicas simples
+### CAPITULO VII. Abandono de personas
 
 ###### ARTICULO 243.
 
@@ -1990,7 +2010,7 @@ VI.- Los encargados del servicio telegráfico, telefónico o de radio que supong
 
 VII.- El que a sabiendas hiciere uso de un documento falso, sea público o privado.
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 247.
 
@@ -2016,9 +2036,7 @@ El testigo, el perito o el intérprete que retracte espontáneamente sus falsas 
 
 Pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolos como reincidentes.
 
-### CAPITULO III. Calumnia
-
-> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 249.
 
@@ -2030,7 +2048,9 @@ II.- Al que para eludir la práctica de una diligencia judicial o una notificaci
 
 III.- Al funcionario o empleado público que, en los actos propios de su cargo, atribuyere a una persona título o nombre a sabiendas de que no le pertenece.
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO III. Calumnia
+
+> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 250.
 
@@ -2042,7 +2062,7 @@ II.- Al que se atribuya el carácter de profesionista sin tener título legal y 
 
 III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
-### CAPITULO I. Privación ilegal de libertad y otras garantías
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
 ###### ARTICULO 251.
 
@@ -2056,7 +2076,7 @@ TITULO DECIMOCUARTO
 
 Delitos contra la economía pública
 
-### CAPITULO I. Robo
+### CAPITULO I. Privación ilegal de libertad y otras garantías
 
 ###### ARTICULO 253.
 
@@ -2086,9 +2106,7 @@ II.- Cuando se ocasione la difusión de una enfermedad de las plantas o de los a
 
 III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualquier otro medio indebido se produzcan trastornos en el mercado interior, ya sea tratándose de mercancías, de monedas o títulos y efectos de comercio.
 
-### CAPITULO II. Abuso de confianza
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO I. Robo
 
 ###### ARTICULO 255.
 
@@ -2102,7 +2120,9 @@ II.- Tener malos antecedentes comprobados por datos de los archivos judiciales o
 
 A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cualquier otro instrumento que dé motivo para sospechar que tratan de cometer un delito, se les aplicará una sanción de tres días a seis meses de prisión, y quedarán sujetos durante el tiempo que el juez estime pertinente, a la vigilancia de la policía.
 
-### CAPITULO III. Fraude
+### CAPITULO II. Abuso de confianza
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 257.
 
@@ -2136,7 +2156,7 @@ TITULO DECIMOQUINTO
 
 Delitos sexuales
 
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO III. Fraude
 
 ###### ARTICULO 260.
 
@@ -2168,7 +2188,7 @@ Al que por medio de la violencia física o moral tenga cópula con una persona s
 
 Se equipara a la violencia, la cópula con persona privada de razón o de sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir.
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 267.
 
@@ -2192,7 +2212,7 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida o de su m
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por éste último.
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
 
 ###### ARTICULO 272.
 
@@ -2201,6 +2221,8 @@ Se impondrá la pena de uno a seis años de prisión a los ascendientes que teng
 La pena aplicable a estos últimos será de seis meses a tres años de prisión.
 
 Se aplicará esta misma sanción en caso de incesto entre hermanos.
+
+### CAPITULO VI. Daño en propiedad ajena
 
 ###### ARTICULO 273.
 
@@ -3131,6 +3153,10 @@ D.O.F. 14 DE FEBRERO DE 1940.
 ###### ARTICULO 1°.
 
 Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor desde el día de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
