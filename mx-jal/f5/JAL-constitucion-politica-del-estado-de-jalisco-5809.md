@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1992-01-02"
+last_updated: "1993-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -79,17 +79,37 @@ Los consejeros ciudadanos integrantes del Consejo Electoral del Estado, serán p
 
 El Territorio del Estado, es el que le corresponde conforme a la Constitución Federal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ENERO DE 1993)</small>
 
-### CAPITULO TERCERO. De los habitantes del Estado y sus derechos
+### CAPITULO TERCERO. De los Derechos de los Individuos en el Estado de Jalisco
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1993)</small>
 
 ###### Art. 4º.
 
-Son derechos de los habitantes del Estado:
+Se reconocen como derechos de los individuos que se encuentren dentro del territorio del Estado de Jalisco:
 
-I. Los que se conceden a los habitantes de la República en el Capítulo 1º del Título 1º de la Constitución General, y los que en su calidad de obreros, empresarios y patrones, les concede la misma ley, en su artículo 123.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1993)</small>
 
-II. Si son mexicanos, los que les concede la misma Constitución.
+I. Los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas y en los Tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1993)</small>
+
+II. Para la preservación de los derechos a que alude la fracción que antecede, se crea la Comisión Estatal de Derechos Humanos, dotada de plena autonomía, con personalidad jurídica y patrimonio propios, de participación ciudadana, con carácter permanente y de servicio gratuito, que conocerá de las quejas, en contra de actos u omisiones de índole administrativa, provenientes de cualquier autoridad o servidor público estatal o municipal, que viole estos derechos.
+
+Dicho Organismo, en cumplimiento de sus funciones, formulará recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas.
+
+Esta Comisión, no será competente tratándose de asustos (sic) electorales, laborales y jurisdiccionales.
+
+Toda autoridad estatal o municipal que, en el ámbito de su competencia, tenga conocimiento de actos violatorios de derechos humanos, inmediatamente bajo su estricta responsabilidad, procederá a dar cuenta del hecho a la Comisión Estatal de Derechos Humanos.
+
+El citado organismo, iniciará de oficio o a petición de parte, el procedimiento para la investigación de las violaciones de los derechos humanos de que tenga conocimiento. Igualmente, podrá promover ante las autoridades competentes, cambios y modificaciones al sistema jurídico estatal o municipal o de práctica administrativa, que redunden en una mejor protección y defensa de los derechos humanos.
+
+Estará integrado el organismo por un Presidente, un Consejo compuesto por titulares y suplentes respectivamente y los demás órganos que determine su ley reglamentaria.
+
+Para la designación del Presidente y de los Consejeros Ciudadanos de la Comisión Estatal de Derechos Humanos, deberán satisfacerse los requisitos que determine la Ley; el primero, será elegido de entre una terna que proponga al Congreso, el Titular del Poder Ejecutivo del Estado; a su vez, los Consejeros Propietarios y Suplentes, serán electos de entre la propuesta que formule el propio Ejecutivo mediante lista numérica, en la que se deberán incluir cuando menos el doble de las personas del número de Consejeros que establezca esta Constitución y su ley reglamentaria.
+
+En la realización y cumplimiento de sus funciones, tendrá la integración, atribuciones, organización y competencia que le confiera su ley, sin más restricciones que las señaladas en el Artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y las leyes respectivas.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1954)</small>
 
@@ -395,6 +415,10 @@ XXII. Declarar beneméritos del Estado, a sus benefactores y a los que se hayan 
 
 XXIII. Formar su Reglamento Interior y dictar las disposiciones necesarias para el buen servicio de sus Oficinas, así como ejercer las demás atribuciones que le confiere la Ley.
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1993)</small>
+
+XXIV. Aceptar o rechazar, dentro del improrrogable término de quince días, los nombramientos del Presidente, así como el de los Consejeros Ciudadanos de la Comisión Estatal de Derechos Humanos, que haga el titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de los diputados presentes, en los términos que establezca la Ley. Si no lo hiciere dentro de dicho plazo, se tendrán por aprobados los nombramientos, como Presidente de la citada Comisión, en favor de la persona que figure en primer término de la terna propuesta; y en el caso de los Consejeros Ciudadanos, se extenderá nombramiento como propietarios, en favor de las personas que aparezcan en los primeros lugares de la lista y los restantes, serán designados como suplentes, hasta completar el número de integrantes del Consejo que se determine en la Ley.
+
 ###### Art. 24.
 
 Durante el receso del Congreso habrá una Diputación Permanente compuesta de 7 miembros de aquel cuerpo, como propietarios y de 5 como suplentes, electos en la forma y términos que señala la Ley Reglamentaria del Poder Legislativo.
@@ -422,6 +446,10 @@ V. Recibir los expedientes electorales relativos a la elección de Diputados, Go
 VI. Instalar las Juntas Preparatorias del nuevo Congreso; y
 
 VII. Nombrar a los Servidores Públicos de la Secretaría del Congreso y de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente periodo de sesiones del Congreso, para su ratificación o rectificación, en los términos de la Ley Reglamentaria respectiva.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1993)</small>
+
+VIII. Aprobar provisionalmente, dentro del improrrogable término de quince días, los nombramientos del Presidente y de los Consejeros Ciudadanos de la Comisión Estatal de Derechos Humanos y someterlos a la consideración de la Legislatura para su resolución definitiva, en el periodo ordinario inmediato, en los términos previstos en el Artículo 23, de esta Constitución.
 
 ###### Art. 26.
 
@@ -859,11 +887,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 A culaquier (sic) ciudadano, bajo su más estricta responsabilidad, y aportando elementos de prueba, se les concede acción popular para denunciar, ante el Congreso del Estado, las conductas ilícitas a que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1993)</small>
 
 ###### Art. 49.
 
-Serán sujetos del juicio político los Diputados al Congreso del Estado, los Magistrados y Jueces de Primera Instancia, los Secretarios y Sub-Secretarios dependientes del Ejecutivo del Estado, los Jefes o Directores de Departamentos Gubernamentales, el Procurador General de Justicia, los Munícipes, el Tesorero y el Secretario y Síndico de los Ayuntamientos, así como los Directores o sus equivalentes de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria.
+Serán sujetos del juicio político, los Diputados al Congreso del Estado, los Magistrados y Jueces de Primera Instancia, los Secretarios y Sub-Secretarios dependientes del Ejecutivo del Estado, los Directores de las Dependencias Gubernamentales; el Procurador General de Justicia, el Presidente y los Consejeros Ciudadanos de la Comisión Estatal de Derechos Humanos, los Munícipes y Concejales, el Secretario, el Síndico y el Tesorero de los Ayuntamientos o Concejos Municipales, así como los Directores o sus equivalentes de organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
@@ -877,7 +905,7 @@ Para la aplicación de las sanciones a que se refiere este precepto, la Comisió
 
 El Congreso, erigido en Jurado de Sentencia, después de haber substanciado el procedimiento respectivo, con audiencia del inculpado, aplicará la sanción correspondiente, previa declaración de las dos terceras partes de los integrantes de la Legislatura, con la exclusión de los miembros de la Comisión de Responsabilidades.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1993)</small>
 
 ### CAPITULO PRIMERO. De las Responsabilidades de los Servidores Públicos
 
@@ -885,17 +913,29 @@ El Congreso, erigido en Jurado de Sentencia, después de haber substanciado el p
 
 ###### Art. 50.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Secretario (sic) de Gobierno, el Procurador General de Justicia y los Munícipes, el Congreso declarará, por mayoría absoluta de los Diputados integrantes de la Legislatura, excepción hecha de los miembros de la Comisión de Responsabilidades, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Secretarios del Gobierno, el Procurador General de Justicia, el Presidente y los Consejeros Ciudadanos de la Comisión Estatal de Derechos Humanos, los Munícipes y Concejales, de los Ayuntamientos o Concejos Municipales, el Congreso declarará por mayoría absoluta de los Diputados integrantes de la Legislatura, excepción hecha de los miembros de la Comisión de Responsabilidades, si ha o no lugar a proceder contra el inculpado.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 Si la resolución del Congreso fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+
 Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades, competentes para que actúen con arreglo a la Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina con sentencia absolutoria, el Servidor Público podrá reasumir su función, si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su cargo, no se concederá al reo la gracia del indulto.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la Legislación Penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o en el daño causado.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
+
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1983)</small>
 
 Por lo que corresponde al Gobernador del Estado, solo habrá lugar a acusarlo ante el Congreso, en los términos del Art. 47. En este supuesto, el Congreso resolverá con base en la Legislación Penal aplicable.
 
@@ -1280,3 +1320,7 @@ DECRETO NUMERO 14374 .
 Artículo Primero. Remítase la documentación necesaria a los Honorables Ayuntamientos de la Entidad, para los efectos del Artículo 66 de la Constitución Política del Estado.
 
 Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, de la declaratoria de Ley correspondiente.
+
+P.O. 28 DE ENERO DE 1993.
+
+Unico. Este Decreto entrará el (sic) vigor al día de su publicación en el Periódico Oficial el Estado de Jalisco, una vez cumplimentados los requisitos del Artículo 66 de la Constitución Política del Estado.
