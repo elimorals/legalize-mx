@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1979-10-13"
+last_updated: "1984-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1984.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -470,6 +470,14 @@ V.- La pensión que se conceda a los deudos del pensionista por vejez será el s
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1963)</small>
 
 VI.- Cuando fallezca un pensionista por inhabilitación, los deudos percibirán el 50% de la pensión durante el término de cinco años.
+
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 1984)</small>
+
+VII.- Cualquier trabajador podrá solicitar y obtener su jubilación con el cien por ciento de su salario, siempre y cuando renuncie en un plazo no mayor de un mes al empleo que desempeña a partir de la fecha en que se le promueva una plaza con dos categorías arriba de la que viene disfrutando. Cuando se trate de personal administrativo se les deberá asignar una plaza de Oficial Administrativo Especializado, "N"
+
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 1984)</small>
+
+VIII.- Para que proceda la jubilación, deberán haber cumplido treinta años de servicio, cuando se trate de personal masculino y veinticinco años de servicio cuando se trate de personal femenino, independientemente de su edad.
 
 ###### ARTICULO 57.
 
@@ -962,3 +970,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 13 DE OCTUBRE DE 1979.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 1984.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
