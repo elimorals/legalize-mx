@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-amnistia-del-estado-de-morelos-10711"
 country: "mx"
 rank: "ley"
 publication_date: "1978-10-19"
-last_updated: "1978-10-19"
+last_updated: "2005-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE AMNISTIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR LA FRACCION IX DEL ARTICULO SEGUNDO DEL DECRETO NUMERO QUINIENTOS VEINTIUNO, PUBLICADO EN EL PERIODICO OFICIAL EL 16 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Morelos, el día 19 de octubre de 1978.
 
@@ -90,3 +92,11 @@ EL SECRETARIO DE GOBIERNO.
 Lic. Fausto González Hernández.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 16 DE MARZO DE 2005.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
