@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1961-01-07"
+last_updated: "1961-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1960.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 7 DE ENERO DE 1961.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 1961.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1810,7 +1808,9 @@ III.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte
 
 IV.- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
 
-En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general;
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 1961)</small>
+
+En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en el Distrito Federal y en las Entidades de la República;
 
 V.- A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo;
 
@@ -2439,3 +2439,7 @@ D.O.F. 29 DE DICIEMBRE DE 1960.
 PRIMERO.- Esta adición entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
 SEGUNDO.- La ley reglamentaria fijará las normas a que deben sujetarse las concesiones otorgadas con anterioridad a la vigencia de la presente ley.
+
+D.O.F. 27 DE NOVIEMBRE DE 1961.
+
+UNICO.- Esta reforma entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación.
