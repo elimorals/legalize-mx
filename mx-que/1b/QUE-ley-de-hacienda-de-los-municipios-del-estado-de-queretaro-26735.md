@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2002-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO ARTEAGA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -397,9 +397,11 @@ El Impuesto a que se refiere este capítulo se causa con base en la clasificaci�
 
 ### CAPÍTULO CUARTO. DEL IMPUESTO DE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 47.
 
-El Impuesto Sobre Diversiones y Espectáculos Públicos, se pagará invariablemente por adelantado en la Dependencia Encargada de la (sic) Finanzas Públicas que corresponda.
+El Impuesto sobre diversiones y espectáculos públicos, se pagará preferentemente por adelantado en la Dependencia Encargada de la (sic) Finanzas Públicas que corresponda.
 
 ###### Artículo 48.
 
@@ -443,31 +445,47 @@ El pago de este impuesto se hará en el momento en que se realicen los pagos de 
 
 ### CAPÍTULO PRIMERO. DE LAS LICENCIAS
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 55.
 
-Para el funcionamiento de toda clase de giros mercantiles o industriales, o de cualquier índole que traten de establecerse y operar en la jurisdicción de los diferentes Municipios, deberán contar con Licencia inicial, la que se expedirá por los Municipios, sin cobro alguno. Si una negociación opera en varios Municipios, deberá estar amparada por licencia de cada uno de ellos.
+Para el funcionamiento de toda clase de giros mercantiles, industriales, de servicios, o de cualquier índole que traten de establecerse y operar en la jurisdicción de los diferentes Municipios, deberán contar con Licencia inicial, la que se expedirá por los Municipios, sin cobro alguno. Si una negociación opera en varios Municipios, deberá estar amparada por licencia de cada uno de ellos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 56.
 
-Las licencias de funcionamiento de todos los establecimientos mercantiles, industriales o de cualquier otra índole que funcionen en la jurisdicción de los diferentes Municipios, serán vigencia anual, sin cobro alguno. Si una negociación opera en varios Municipios deberá contar con su licencia en cada uno de ellos.
+Las licencias de funcionamiento de todos los establecimientos mercantiles, industriales, de servicios o de cualquier otra índole que funcionen en la jurisdicción de los diferentes Municipios, tendrán vigencia por el año calendario en que se otorguen. Si una negociación opera en varios Municipios, deberá contar con su licencia en cada uno de ellos. Estas licencias se expedirán sin costo alguno.
+
+Sin perjuicio de los (sic) dispuesto en el párrafo que antecede, los establecimientos podrán funcionar provisionalmente al amparo de la licencia vigente; pero entre el día 1° de enero y el 31 de marzo del año siguiente, los interesados deberán iniciar la renovación de su licencia. Concluido este plazo sin la renovación respectiva, cesará definitivamente su vigencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 57.
 
-Para el ejercicio de las actividades siguientes, se requerirá licencia sin cobro alguno:
+Se requerirá licencia sin costo alguno para el funcionamiento de los establecimientos de las actividades siguientes de acuerdo a su rama:
 
-a) Billeteros.
+I. Agricultura, ganadería, caza, pesca, silvicultura y servicios para la agricultura y la ganadería;
 
-b) Boleros.
+II. Minería y extracción de petróleo;
 
-c) Vendedores ambulantes.
+III. Industrias manufactureras;
 
-d) Fotográfos ambulantes, exluyendo los de prensa.
+IV. Electricidad, distribución de gas natural y agua potable;
 
-e) Músicos ambulantes.
+V. Construcción y servicios relacionados con la misma;
 
-f) Fijadores de anuncios.
+VI. Comercio, restaurantes y hoteles;
 
-g) Otras actividades semejantes a las anteriores.
+VII. Transporte, comunicaciones y agencias de viajes;
+
+VIII. Servicios financieros, inmobiliarios, alquiler de bienes muebles y servicios profesionales;
+
+IX. Servicios comunales, sociales y personales;
+
+X. Venta de bebidas alcohólicas, en todas sus presentaciones;
+
+XI. Otras actividades semejantes a las anteriores.
 
 ###### Artículo 58.
 
@@ -499,9 +517,11 @@ Para el uso de fierros quemadores, los interesados deberán registrarse, así co
 
 Para los efectos de esta Ley, se considerarán como comerciantes ambulantes a todos los que, sin tener establecimiento fijo, verifiquen operaciones de comercio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 61.
 
-Las licencias municipales se otorgarán previa solicitud del interesado, presentada ante la Dependencia Encargada de las Finanzas Públicas Municipales y deberá contener los siguientes datos:
+Las licencias municipales se otorgarán una vez que se hayan satisfecho los requisitos señalados en los diversos ordenamientos aplicables, así como los señalados por las autoridades municipales competentes y previa solicitud del interesado presentada ante la Dependencia Encargada de las Finanzas Públicas Municipales y deberá contener los siguientes datos:
 
 I.- Razón social, nombre y dirección del solicitante.
 
@@ -541,9 +561,11 @@ d) Número de mesas de juegos mecánicos, electromecánicos o de aparatos fonoel
 
 La autoridad municipal en todos los casos relacionados con loterías, rifas y juegos permitidos por la Ley, como requisito indispensable para el otorgamiento de la licencia municipal, exigirá la presentación de la autorización o permiso otorgado por la Secretaría de Gobernación.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 64.
 
-Para el otorgamiento de licencia municipal de funcionamiento de establecimientos donde se expendan bebidas embriagantes o para la revalidación de sus licencias, la autoridad municipal requerirá previamente la licencia sanitaria, cuando ésta no se encuentre prohibida por disposición de orden federal y, además, sólo se concederá para aquellos giros que se encuentren cuando menos a más de 500 metros de distancia de escuelas, templos o centros de trabajo, debiendo además cumplimentarse las demás obligaciones establecidas en las Leyes estatales.
+Para el otorgamiento de licencia municipal de funcionamiento de establecimientos donde se expendan bebidas alcohólicas o para la revalidación de sus licencias, la autoridad municipal requerirá al interesado, la licencia de funcionamiento expedida por la Secretaría de Gobierno, la licencia sanitaria, cuando ésta no se encuentre prohibida por disposición de orden federal y demás requisitos establecidos en las Leyes estatales.
 
 ###### Artículo 65.
 
@@ -557,11 +579,21 @@ III.- Si se han cumplido todos y cada uno de los requisitos, de los reglamentos 
 
 Con el resultado de la visita de inspección y tratando de salvaguardar en todo los intereses de la sociedad, se concederá o negará el otorgamiento o la revalidación de la licencia solicitada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 66.
 
-Las licencias que se concedan tendrán vigencia durante el tiempo que en las mismas se señala, siempre y cuando subsista la misma situación del giro mercantil, industrial, comercio ambulante o negociación de cualquier otra índole; ya que en caso de traslado, traspaso, cambio de giro, deberá solicitarse nueva licencia.
+Las licencias que se concedan tendrán vigencia anual, siempre y cuando subsista la misma situación del giro mercantil, industrial, de servicios, comercio ambulante o negociación de cualquier otra índole; cualquier modificación en la licencia otorgada, el contribuyente deberá presentar el aviso correspondiente ante la dependencia encargada de las finanzas públicas municipales, quien emitirá la autorización correspondiente, si el interesado reúne los requisitos que señale la autoridad municipal y los ordenamientos aplicables.
 
 Las licencias para el ejercicio de actividades permanentes deberán ser revalidadas anualmente, a petición de los interesados, por la autoridad municipal que las concedió, previo el pago de derechos en caso de ser aprobado el refrendo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+En el caso de suspensión de actividades el contribuyente deberá presentar ante la dependencia encargada de las finanzas públicas municipales el aviso de baja del padrón; en caso de que el contribuyente no presente dicho aviso, la dependencia encargada de las finanzas públicas municipales, procederá a realizar una visita de verificación y levantará informe que contenga la situación que guarda el inmueble, procediendo en caso de no existir el negocio, a dar de baja del padrón al contribuyente y a la aplicación de multas correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+A partir del 1° de enero del año siguiente, los interesados deberán iniciar la renovación de su licencia, debiéndose concluir el trámite el 31 de marzo del mismo año, a más tardar; en casos excepcionales, la autoridad podrá autorizar licencias provisionales.
 
 ###### Artículo 67.
 
@@ -593,9 +625,17 @@ f. Número de la cuenta que le corresponde en el padrón.
 
 g. Giro gravado, y en su caso, giros autorizados.
 
-h. Razón social o nombre del contribuyente; y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-i. Fecha y firma del Presidente Municipal y/o Encargado de las Finanzas Públicas Municipales.
+h) Razón social o nombre del contribuyente;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+i) Horario de funcionamiento; y
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+j) Fecha y firma del Presidente Municipal y/o Encargado de las Finanzas Públicas Municipales.
 
 Los causantes estarán obligados a tener siempre en lugar visible de su establecimiento, la licencia municipal.
 
@@ -625,45 +665,47 @@ Se declara de interés público que los establecimientos y las actividades a que
 
 ### CAPÍTULO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR DIVERSOS CONCEPTOS RELACIONADOS CON CONSTRUCCIONES Y URBANIZACIONES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 75.
 
 Por los servicios prestados por diversos conceptos relacionados con construcciones y urbanizaciones en las clasificaciones que establezca el Código Urbano, los reglamentos municipales y la respectiva Ley de Ingresos de los Municipios se causarán y pagarán los derechos que al efecto se establezcan en la citada Ley de Ingresos.
 
-I.- Por licencias de construcción
+I. Por licencias de construcción
 
-II.- Por licencias de construcción de bardas, tápiales y demoliciones.
+II. Por licencias de construcción de bardas, tápiales y demoliciones.
 
-III.- Por alineamiento, nomenclatura y número oficial.
+III. Por alineamiento, nomenclatura y número oficial.
 
-IV.- Por revisión de proyecto arquitectónico.
+IV. Por revisión de proyecto arquitectónico.
 
-V.- Por la revisión a proyecto de fraccionamientos.
+V. Por la revisión a proyecto de fraccionamientos.
 
-VI.- Por el dictamen técnico sobre autorización del proyecto, avance de obra de urbanización o venta provisional de lotes de fraccionamientos y condominios.
+VI. Por el dictamen técnico sobre autorización del proyecto, avance de obra de urbanización o venta provisional de lotes de fraccionamientos y condominios.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+VII. Por el dictamen técnico para la renovación de licencia de fraccionamientos y condominios
 
-VII.- Por el dictamen técnico para la renovación de licencia de fraccionamientos y condominios.
+VIII. Por la relotificación de fraccionamientos y condominios.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+IX. Por ajustes de medidas de los fraccionamientos y condominios.
 
-VIII.- Por la relotificación de fraccionamientos y condominios.
+X. Por reposición de copias de planos de fraccionamientos y condominios.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+XI. Por constancias de fraccionamientos emitidos por la dependencia municipal competente.
 
-IX.- Por ajustes de medidas de los fraccionamientos y condominios.
+XII. Por la certificación de documentos o planos de fraccionamientos y condominios.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+XIII. Por la revisión a proyectos para condominios.
 
-X.- Por reposición de copias de planos de fraccionamientos y condominios.
+XIV. Por la emisión de la declaratoria de régimen de propiedades condominio.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+XV. Por servicio de apoyo técnico
 
-XI.- Por constancias de fraccionamientos emitidos por la dependencia municipal competente.
+XVI. Por concepto de licencia provisional de construcción.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+XVII. Por supervisión de obras de urbanización en fraccionamientos.
 
-XII.- Por la certificación de documentos o planos de fraccionamientos y condominios.
+XVIII. Por carta urbana del plan de desarrollo.
 
 ### CAPÍTULO TERCERO. POR EL SERVICIO DE AGUA POTABLE Y SANEAMIENTO
 
@@ -689,33 +731,55 @@ Para los efectos del artículo anterior, los verificadores de consumo de agua ll
 
 ### CAPÍTULO CUARTO. POR EL SERVICIO DE ALUMBRADO PÚBLICO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 81.
 
-Serán sujetos del pago del derecho de alumbrado público, los propietarios de predios del Municipio que corresponda, que cuando menos tengan acceso a un servicio público, adicional al de alumbrado público.
+Serán sujetos del pago de derecho de alumbrado público, los propietarios o poseedores de predios del Municipio que corresponda, que se beneficien con el servicio de alumbrado público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 82.
 
-Para el caso que la Ley de Ingresos del Municipio, sea omisa o el Ayuntamiento así lo acuerde, la dependencia encargada de las finanzas públicas correspondiente establecerá la liquidación del importe de este derecho conforme a lo siguiente:
+Los Ayuntamientos están facultados para determinar la forma del cobro de este derecho siendo de manera directa ó mediante el convenio que establezcan con la Comisión Federal de Electricidad.
 
-El derecho será calculado a cada propietario de predios de acuerdo a la superficie del terreno, superficie de la construcción, uso o destino del predio y valor catastral del inmueble para lo cual se definen los siguientes conceptos:
-
-A. Coeficiente expresado en pesos por metro cuadrado o su equivalente en días de salario mínimo de la zona, aplicado por predio a la superficie de terreno;
-
-B. Coeficiente expresado en pesos por metro cuadrado, o su equivalente en días de salario mínimo de la zona, aplicado por predio a la superficie construida;
-
-C. Coeficiente expresado en un número que se aplicará por predio tomando como base el valor catastral del mismo para aquellos inmuebles que tengan una superficie construida mayor al 5% de la superficie del terreno;
-
-D. Coeficiente expresado en un número que se aplicará por predio tomando como base el valor catastral del mismo para aquellos inmuebles en donde se realicen actividades industriales, comerciales o de servicios.
-
-La base del derecho por servicio de alumbrado público será el resultado de sumar el coeficiente A por el número de metros cuadrados del terreno más el coeficiente B multiplicando por el número de metros cuadrados de superficie construida, más el coeficiente C multiplicado por el valor catastral del inmueble, más el coeficiente D multiplicando por el valor catastral de los inmuebles de uso industrial, comercial de servicios.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 83.
 
-Los propietarios de inmuebles de uso industrial, comercial o de servicios enterarán el pago del derecho mensualmente, los de uso habitacional lo harán bimestralmente.
+Para el caso que la Ley de Ingresos del Municipio sea omisa o el Ayuntamiento así lo acuerde, la dependencia encargada de las finanzas públicas correspondiente, establecerá la liquidación del importe de este derecho conforme a lo siguiente:
+
+El derecho será calculado a cada propietario o poseedor de predios, de acuerdo a la superficie del terreno, superficie de la construcción, uso o destino del predio y valor catastral del inmueble para lo cual se definen los siguientes conceptos:
+
+A. Coeficiente expresado en días de salario mínimo de la zona por metro cuadrado, aplicado por predio a la superficie del terreno;
+
+B. Coeficiente expresado en días de salario mínimo de la zona por metro cuadrado, aplicado por predio a la superficie construida;
+
+C. Coeficiente expresado en un número que se aplicará por predio sobre la base del valor catastral del mismo para aquellos inmuebles que tengan una superficie construida mayor al 5% de la superficie del terreno;
+
+D. Coeficiente expresado en un número que se aplicará por predio sobre la base el valor catastral del mismo para aquellos inmuebles en donde se realicen actividades industriales, comerciales o de servicios. Se excluyen de este cargo a aquellos predios de uso mixto habitacional-comercial o habitacional-artesanal cuyo avalúo catastral no exceda el equivalente a 6000 días de salario mínimo.
+
+La base del derecho por servicio de alumbrado público será el resultado de sumar el coeficiente "A" por el número de metros cuadrados del terreno, más el coeficiente "B" multiplicado por el número de metros cuadrados de superficie construida, más el coeficiente "C" multiplicado por el valor catastral del inmueble; cuando se trate de inmuebles de uso industrial, comercial o de servicios, se sumará adicionalmente el coeficiente "D" multiplicado por el valor catastral del inmueble, resultando la cantidad anual a pagar, pudiendo cobrar en forma mensual, bimestral o anual.
+
+Se define el valor de los coeficientes así:
+
+COEFICIENTE VALOR DEL COEFICIENTE EXPRESADO
+
+EN DÍAS DE SALARIO MÍNIMO
+
+A 0.2
+
+B 0.15
+
+C 0.0001
+
+D 0.0035
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 84.
 
-Los Ayuntamientos están facultados para determinar la forma del cobro de este derecho siendo de manera directa o mediante el convenio que establezcan con la Comisión Federal de Electricidad.
+Los propietarios o poseedores de inmuebles de uso habitacional, industrial, comercial o de servicios enterarán el pago del derecho en los plazos y términos que acuerde el Ayuntamiento.
 
 ### CAPÍTULO QUINTO. POR LOS SERVICIOS PRESTADOS POR EL REGISTRO CIVIL
 
@@ -1011,9 +1075,11 @@ Todos los causantes de rentas de pisos en los mercados y zonas de mercados, qued
 
 Para el pago de rentas de pisos en los mercados y vías públicas habilitadas como zonas de mercados, servirá de base la calificación que haga el encargado de las finanzas públicas municipales, de acuerdo con la tarifa de la correspondiente Ley de Ingresos de cada Municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 127.
 
-El pago de la renta de pisos de mercados y zonas de mercados, se hará diariamente a los recaudadores municipales, quienes estarán bajo la directa vigilancia y control del encargado de las finanzas públicas municipales, mediante la expedición del recibo o boleto numerado correspondiente, que debe estar autorizado con el sello de dicha dependencia y la fecha del día de la recaudación.
+El pago de la renta por el uso de piso de mercados y zonas de comercio en la vía pública la realizarán los recaudadores municipales, quienes estarán bajo la directa vigilancia y control del encargado de las finanzas públicas municipales; expedirán el recibo o boleto numerado correspondiente, mismo que deberá estar autorizado con el sello de dicha dependencia y la fecha del día de la recaudación.
 
 Para facilitar la recaudación, en todo caso los boletos deberán estar impresos, siendo de diferentes denominaciones, según se estime conveniente.
 
@@ -1075,65 +1141,109 @@ III. Por permanencia en vía pública, calles, guarniciones y/o postes.
 
 Por poner andamios, tapiales, materiales para la construcción y similares, que de alguna manera sean obstáculo para el libre tránsito en la vía pública, por día y por metro cuadrado se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ### CAPÍTULO SEGUNDO. USO DE LA VÍA PÚBLICA
 
-### CAPÍTULO CUARTO (SIC). PRODUCTOS FINANCIEROS
+###### Artículo 133.
 
-Artículo 134 (sic). Los productos financieros se percibirán de acuerdo a las tasas de interés contratadas y autorizadas por las instituciones financieras competentes.
+Los productos financieros se percibirán de acuerdo a las tasas de interés contratadas y autorizadas por las instituciones financieras competentes.
 
-### CAPÍTULO QUINTO (SIC). RASTRO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Artículo 135 (sic). Por venta y prestación de servicios de productos del rastro municipal de los siguientes conceptos, se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio:
+### CAPITULO TERCERO. PRODUCTOS FINANCIEROS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 134.
+
+Por venta y prestación de servicios de productos del rastro municipal de los siguientes conceptos, se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio:
 
 I. Venta de productos Rastro.
 
 a. Litro de sangre.
 
-b) Tonelada de estiércol.
+b. Tonelada de estiércol.
 
-c) Tonelada de pluma de aves.
+c. Tonelada de pluma de aves.
 
-d) Tonelada de huesos, piel, pezuñas y/o cuernos.
+d. Tonelada de huesos, piel, pezuñas y/o cuernos.
 
 II. Guarda de ganado no reclamado.
 
-a) Vacuno y terneras
+a. Vacuno y terneras
 
-b) Porcino.
+b. Porcino.
 
-c) Ovicaprino.
+c. Ovicaprino.
 
-d) Otros animales sin incluir aves.
+d. Otros animales sin incluir aves.
 
-e) Aves.
+e. Aves.
 
 III. Uso de corraleta por actividad de compra-venta, sin incluir atención:
 
-a) Vacuno.
+a. Vacuno.
 
-b) Novillo, vaquilla o ternera.
+b. Novillo, vaquilla o ternera.
 
-c) Porcino.
+c. Porcino.
 
-d) Ovicaprino
+d. Ovicaprino
 
-e) Otros sin incluir aves.
+e. Otros sin incluir aves.
 
-f) Aves.
+f. Aves.
 
-### CAPÍTULO SEXTO (SIC). FUNERARIAS Y CEMENTERIOS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Artículo 136 (sic). Por utilizar los cementerios municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+### CAPÍTULO CUARTO. RASTRO MUNICIPAL
 
-## TÍTULO SEPTIMO. DE LOS APROVECHAMIENTOS
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-### CAPÍTULO SÉPTIMO (SIC). PRODUCTOS DIVERSOS
+###### Artículo 135.
 
-Artículo 137 (sic). Por el cobro de las concesiones a particulares se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+Por utilizar los cementerios municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
 
-Artículo 138 (sic). Por el cobro de la venta de hologramas de verificación vehicular se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-Artículo 139 (sic). Por el cobro de otros productos se deberán especificar y se causará y pagará conforme lo establecido en la correspondiente Ley de Ingresos de los Municipios.
+### CAPÍTULO QUINTO. FUNERARIAS Y CEMENTERIOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 136.
+
+Por el cobro de las concesiones a particulares se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 137.
+
+Por el cobro de la venta de hologramas de verificación vehicular se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 138.
+
+Por el cobro de otros productos se deberán especificar y se causará y pagará conforme lo establecido en la correspondiente Ley de Ingresos de los Municipios.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+## TITULO SEXTO. DE LOS APROVECHAMIENTOS
+
+### CAPÍTULO SEXTO. PRODUCTOS DIVERSOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 139.
+
+Los encargados de las finanzas públicas municipales tienen la obligación de vigilar que todos los causantes estén al corriente en sus pagos de derechos e impuestos, haciendo en su caso, uso de las facultades que esta Ley les confiere para exigir el pago por medio del procedimiento económico coactivo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 140.
+
+Los Encargados de las Finanzas Públicas Municipales, empleando el procedimiento citado, deberán proceder de inmediato al cobro de todos los adeudos que resulten a cargo de los causantes municipales, por las contribuciones que no se hayan cubierto de manera oportuna.
 
 ###### Artículo 141.
 
@@ -1145,9 +1255,7 @@ La recaudación de los rezagos de ejercicios fiscales anteriores, se hará de ac
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Artículo 140 (sic). Los encargados de las finanzas públicas municipales tienen la obligación de vigilar que todos los causantes estén al corriente en sus pagos de derechos e impuestos, haciendo en su caso, uso de las facultades que esta Ley les confiere para exigir el pago por medio del procedimiento económico coactivo.
-
-Los Encargados de las Finanzas Públicas Municipales, empleando el procedimiento citado, deberán proceder de inmediato al cobro de todos los adeudos que resulten a cargo de los causantes municipales, por las contribuciones que no se hayan cubierto de manera oportuna.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 143.
 
@@ -1176,6 +1284,10 @@ a) Un 5%, por gastos de requerimiento.
 b) Un 5% adicional, por gastos de clausura, si la hubiere;
 
 c) Un 10% adicional, en caso de que se practique embargo de bienes, independientemente de los gastos que se originen para el traslado de los bienes embargados, hasta el lugar en donde se depositen.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Para el caso de que los porcentajes mencionados en los incisos anteriores, fueran menor a 1 VSMGZ, se aplicará el monto que resulte de 1 VSMGZ por inciso.
 
 ###### Artículo 148.
 
@@ -1225,7 +1337,9 @@ En todo caso deberán estar previstas en la Ley de ingresos del Municipio de que
 
 El importe de todos los ingresos que se obtengan por concepto de aprovechamiento, se destinarán preferentemente para obras públicas del municipio.
 
-## TÍTULO OCTAVO. DE LAS PARTICIPACIONES FEDERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+## TÍTULO SÉPTIMO. DE LAS PARTICIPACIONES FEDERALES
 
 ### CAPÍTULO QUINTO. OTROS APROVECHAMIENTOS
 
@@ -1235,7 +1349,9 @@ Las participaciones las constituyen los ingresos que se reciban por otorgamiento
 
 Las Participaciones Federales están constituidas por el Fondo General de Participaciones, por el Fondo de Fomento Municipal, por el Impuesto Federal Sobre Tenencia o Uso de Vehículos, por el Impuesto Especial Sobre Producción y Servicios, por el Impuesto Sobre Automóviles Nuevos, así como la Reserva de Contingencia, y cualquier otra que con dicho carácter determine la Federación.
 
-## TÍTULO NOVENO. DE LAS APORTACIONES FEDERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+## TÍTULO OCTAVO. DE LAS APORTACIONES FEDERALES
 
 ### CAPÍTULO ÚNICO
 
@@ -1326,3 +1442,11 @@ LIC. BERNARDO GARCIA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 2002
+
+Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
