@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-11932"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "2001-03-21"
+last_updated: "2003-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. 18 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 30 de agosto de 1996.
 
@@ -1088,3 +1090,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El tercer párrafo del artículo 53 de este Decreto entrará en vigor el día quince de enero del año dos mil dos.
+
+P.O. 18 DE SEPTIEMBRE DE 2003.
+
+PRIMERO. La presente Ley entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Transporte Público del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 30 de agosto de 1996, así como las demás disposiciones legales y reglamentarias que se oponga a la presente Ley.
+
+TERCERO. Al entrar en vigor la presente Ley, los recursos materiales, humanos y financieros de la Coordinación General de Transporte Urbano de la zona Metropolitana de San Luis Potosí, pasarán a formar parte de la Secretaría de Comunicaciones y Transportes como Dirección General del Transporte Colectivo Metropolitana.
+
+CUARTO. El Gobernador del Estado, en los términos de la fracción III del artículo 80 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, tendrá un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley, para emitir y publicar su Reglamento.
+
+QUINTO. La Secretaría de Comunicaciones y Transportes tendrá un plazo de ciento ochenta días contados a partir de la entrada en vigor del Reglamento de esta Ley, que al efecto expida el Gobernador del Estado, para emitir y enviar para su publicación al Ejecutivo del Estado, el Reglamento Interior respectivo, así como sus manuales de organización y procedimientos, y demás ordenamientos aplicables para el correcto ejercicio de lo establecido en esta Ley.
