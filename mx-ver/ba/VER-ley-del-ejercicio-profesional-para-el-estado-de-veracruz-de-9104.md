@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "1996-12-28"
+last_updated: "2002-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -39,75 +39,79 @@ LEY DEL EJERCICIO PROFESIONAL PARA EL ESADO (SIC) DE VERACRUZ-LLAVE.
 
 ### CAPITULO I. DE LAS PROFESIONES TECNICO-CIENTIFICAS QUE REQUIEREN TITULO PARA SU EJERCICIO
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 1.
 
-Se entiende por título profesional el documento expedido por una de las instituciones autorizadas y mediante los requisitos que se exigen en esta Ley y en las demás relativas, a favor de la persona que ha comprobado haber adquirido los conocimientos necesarios para ejercer una de las profesiones a que se refiere el artículo siguiente.
+Esta Ley es de orden público e interés social y sus disposiciones tienen por objeto regular el ejercicio de la profesión en la Entidad Veracruzana.
 
-> <small>(REFORMADO, G.O. 3 DE MARZO DE 1970)</small>
+Se entiende por título profesional el documento expedido por las instituciones del Estado o descentralizadas, y por instituciones particulares cuyos estudios tengan reconocimiento de validez oficial, a favor de la persona que haya concluido los estudios correspondientes o demostrado tener los conocimientos necesarios de conformidad con esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 2.
 
-Las Profesiones que necesitan Título para su ejercicio son las siguientes:
+Las Profesiones que necesitan título para su ejercicio son las siguientes:
 
-Arquitecto.
+Actuario;
 
-Biólogo.
+Arquitecto;
 
-Cirujano Dentista.
+Bacteriólogo;
 
-Contador.
+Cirujano Dentista;
 
-Enfermera.
+Contador;
 
-Enfermera y Partera.
+Corredor;
 
-Ingeniero, en sus diversas ramas profesionales: Agronomía, Ingeniería Civil, Hidráulica, Mecánica, Electricista, Forestal, Minería, Municipal, Sanitaria, Petrolera, Química, Militar, de Transmisiones, de Transmisiones Eléctricas y las demás ramas que comprendan los planes de Estudio de la Universidad Veracruzana, de la Universidad Autónoma de México, del Instituto Politécnico Nacional, del Colegio Militar, de la Escuela Médico-Militar y los Centros Universitarios y de estudios Profesionales reconocidos por la Dirección de Educación en el Estado, en concordancia con la Dirección General de Profesiones.
+Enfermera en sus diversas ramas;
 
-Licenciado en Derecho.
+Ingeniero en sus diversas ramas;
 
-Licenciado en Economía.
+Licenciado en Derecho;
 
-Médico Cirujano o Médico en sus diversas ramas Profesionales.
+Notario;
 
-Médico Veterinario.
+Licenciado en Economía;
 
-Metalúrgico.
+Médico Cirujano o Médico en sus diversas ramas;
 
-Piloto Aviador.
+Médico Veterinario, Zootecnista y Fitotecnista;
 
-Antropólogo.
+Piloto Aviador;
 
-Arqueólogo.
+Antropólogo;
 
-Trabajador Social.
+Arqueólogo;
 
-Educadora de Párvulos; Profesores de Educación Primaria; Maestro de Segunda Enseñanza, en sus diversas especialidades y Maestro de Enseñanza Superior, también en sus diversas especialidades.
+Licenciado en Educación Preescolar; licenciado en Educación Primaria; licenciado en Educación Secundaria; licenciado en Educación Especial, en sus diversas especialidades y maestro de Enseñanza Superior, en sus diversas especialidades;
 
-Químico, en sus diversas ramas Profesionales: Farmacia (químico farmacéutico y químico farmacéutico biólogo), químico zimólogo y químico bacteriólogo y parasitólogo).
+Químico, en sus diversas ramas;
 
-Lic. en Administración de Empresas.
+Licenciado en Administración de Empresas;
 
-Lic. en Ciencias Físicas.
+Licenciado en Ciencias Físicas;
 
-Lic. en Estadística.
+Licenciado en Estadística;
 
-Técnico en Estadigrafía.
+Técnico en Estadigrafía;
 
-Lic. en Matemáticas.
+Licenciado en Matemáticas;
 
-Lic. en Psicología.
+Licenciado en Psicología;
 
-Lic. en Biología.
+Licenciado en Biología;
 
-Técnico Dentista.
+Técnico Dentista;
 
-Técnico de Laboratorio.
+Técnico de Laboratorio; y
 
-Las demás Profesiones establecidas o que hayan sido comprendidas por Leyes Federales o de los Estados.
+Las demás profesiones establecidas o que hayan sido comprendidas por Leyes Federales o de los Estados.
 
 ###### ARTICULO 3.
 
-Igualmente se exigirá el título para ejercer las profesiones que se consideren dentro de los planes de estudio de las Escuelas y Facultades que la Universidad Veracruzana reconoce como carreras completas. Estas profesiones serán determinadas por las leyes y reglamentos correspondientes.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -129,23 +133,27 @@ Las disposiciones de esta Ley regirán en el territorio del Estado en asuntos de
 
 ### CAPITULO I (SIC). CONDICIONES QUE DEBEN LLENARSE PARA OBTENER EL TITULO PROFESIONAL
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 8.
 
-Para obtener un título profesional es requisito indispensable cursar y ser aprobado en los estudios de educación primaria, secundaria o prevocacionales y, en su caso, y de acuerdo con los planes y programas escolares, los estudios preparatorios o vocacionales, normales y profesionales en los grados y términos que establece la Ley Orgánica de la Universidad Veracruzana, la Ley Orgánica de la Universidad Autónoma de México, la Ley Orgánica de la Educación Pública y las demás Leyes de Educación Superior vigente en la República.
+Para obtener un título profesional es indispensable acreditar que se han cumplido los requisitos previstos por esta Ley y demás leyes aplicables.
 
 ### CAPITULO III. INSTITUCIONES AUTORIZADAS QUE DEBEN EXPEDIR LOS TITULOS PROFESIONALES
 
 #### SECCION I. TITULOS EXPEDIDOS EN EL ESTADO
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 9.
 
-Exclusivamente el Gobernador del Estado, previa certificación del Secretario de Educación y Cultura, podrá expedir títulos profesionales en el Estado de Veracruz o, en su caso, el Rector de la Universidad Veracruzana, previa certificación del Secretario Académico.
+La expedición de los títulos profesionales que emitan las instituciones que dependan del Gobierno del Estado o que se encuentren sectorizadas a éste, corresponde al secretario de Educación y Cultura, previa certificación de la Dirección General de Evaluación y Control Educativo de la Secretaría.
+
+En el caso de la expedición de los títulos profesionales que emitan las instituciones de educación superior autónomas y escuelas particulares, se estará a lo dispuesto en su legislación interna.
 
 ###### ARTICULO 10.
 
-Sólo las autoridades a que se refiere el artículo anterior, podrán expedir y autorizar títulos profesionales de acuerdo con los respectivos Ordenamientos.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 #### SECCION II. TITULOS PROFESIONALES EXPEDIDOS POR LAS AUTORIDADES DE OTRO ESTADO CON SUJECION A SUS LEYES
 
@@ -171,11 +179,11 @@ Por ningún concepto se registrarán títulos, ni se revalidarán estudios de aq
 
 #### SECCION III. REGISTRO DE TITULOS EXPEDIDOS EN EL EXTRANJERO
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 14.
 
-Ningún extranjero podrá ejercer en el Estado las profesiones técnico-científicas que son objeto de esta Ley.
-
-Los mexicanos naturalizados que hubieren hecho todos los estudios superiores en los planteles que autoriza esta Ley, quedarán en igualdad de condiciones, para el ejercicio profesional, a los mexicanos por nacimiento.
+Los extranjeros podrán ejercer en el Estado las profesiones que regula la presente Ley, siempre que lo autorice el Departamento de Profesiones.
 
 ###### ARTICULO 15.
 
@@ -195,39 +203,29 @@ III.- Ser directores técnicos en la explotación de los recursos naturales del 
 
 El Departamento de profesiones de la Secretaría de Educación y Cultura se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los Colegios Profesionales.
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 17.
 
 Son facultades y obligaciones del Departamento de Profesiones:
 
-I.- Registrar los títulos de profesionales a que se refiere esta Ley.
+I.- Autorizar a los extranjeros el ejercicio de las profesiones que regula la presente Ley;
 
-II.- Llevar la hoja de servicios de cada profesional, cuyo título registre y anotar en el propio expediente, las sanciones que se impongan al mismo en el desempeño de algún cargo o que impliquen la suspensión del ejercicio profesional.
+II.- Llevar a cabo el registro de los Colegios de Profesionales y la cancelación del mismo, cuando no cumplan las disposiciones de esta Ley;
 
-III.- Autorizar para el ejercicio de una especialización.
+III.- Expedir autorización a los pasantes y profesionales cuyo título se encuentre en trámite para ejercer en la rama correspondiente;
 
-IV.- Expedir al interesado la cédula personal correspondiente, con efectos de patente para el ejercicio profesional y para su identidad en todas sus actividades.
+IV.- Ordenar la cancelación y en su caso, la reposición de la cédula profesional cuyo extravío se acredite fehacientemente; y cuando se trate de un título profesional solicitará a la escuela o institución que lo hubiere expedido, una certificación que lo sustituya para los efectos del registro; y
 
-V.- Llevar la lista de los profesionales que declaren no ejercer la profesión.
-
-VI.- Publicar durante el primer mes de cada año en los periódicos de mejor circulación en el Estado y en el Oficial, la lista de los profesionales titulados en los planteles de preparación profesional durante el año anterior.
-
-VII.- Cancelar el registro de los profesionales condenados judicialmente a inhabilitación en el ejercicio profesional y publicar profusamente dicha cancelación.
-
-VIII.- Organizar, en los términos de esta Ley, el servicio social obligatorio en el Estado.
-
-IX.- Remitir para su fijación en el lugar visible a todas las Oficinas Públicas en el Estado en el mes de enero de cada año, lista de los profesionales con título registrado.
-
-X.- Llevar un archivo con los datos relativos a la enseñanza preparatoria, normal y profesional que se imparta en cada uno de los planteles educativos.
-
-XI.- Proporcionar a los interesados informes en asuntos de la competencia del Departamento, y;
-
-XII.- Las demás que le fijen las leyes y reglamentos.
+V.- Las demás que fijen las leyes, el Reglamento Interior de la Secretaría de Educación y Cultura y las demás disposiciones relativas y aplicables.
 
 ### CAPITULO V. DEL EJERCICIO PROFESIONAL
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 18.
 
-Se entiende por ejercicio profesional, para los efectos de esta Ley, la realización habitual a título oneroso o gratuito de todo acto tendiente a la prestación de cualquier servicio propio de cada profesión aunque sólo se trate de simple consulta a la ostentación del carácter del profesional, por medio de tarjetas, anuncios, placas, insignias o de cualquier otro. No se reputará ejercicio profesional cualquier acto realizado en los casos graves con el propósito de auxilio inmediato.
+Se entiende por ejercicio profesional para los efectos de esta Ley, la realización habitual o prestación, a título oneroso o gratuito, de un servicio propio de cada profesión.
 
 ###### ARTICULO 19.
 
@@ -267,13 +265,13 @@ En materia penal, el acusado podrá ser oído en defensa por sí o por medio de 
 
 Las personas que sin tener título profesional legalmente expedido actúen como profesionales incurrirán en las sanciones que establece la Ley.
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 23.
 
-El Departamento de Profesiones podrá extender autorización a los pasantes de las diversas profesiones para ejercer la práctica respectiva por un término no mayor de tres años.
+La calidad de pasante la adquiere el estudiante que habiendo cursado y aprobado la totalidad de asignaturas que para cada carrera señalen los planes de estudio vigentes de las instituciones de educación superior y demás escuelas, haya cumplido con los demás requisitos y pruebas que establezca la legislación aplicable.
 
-Se reputarán como Pasantes, los estudiantes que habiendo cursado la totalidad de las asignaturas que para cada carrera señalen los Planes de Estudio de la Escuela Normal Veracruzana y de las distintas Facultades y Escuelas de la Universidad Veracruzana, hayan cumplido con los demás requisitos y pruebas que señalen los Reglamentos de las mismas instituciones.
-
-En cada caso se extenderá al interesado una credencial en que se precise el tiempo que gozará de tal autorización. Al concluir dicho término quedará automáticamente anulada esta credencial, comunicándolo en los términos del artículo 17 fracciones VI y X.
+En cada caso se extenderá al pasante una credencial para ejercer en la que se precise el tiempo que gozará de tal autorización. Sólo el secretario de Educación y Cultura, en casos excepcionales, podrá extender una prórroga a dicha autorización, y una vez concluido dicho término ésta quedará automáticamente anulada.
 
 ###### ARTICULO 24.
 
@@ -339,35 +337,37 @@ Para los efectos a que se contrae la fracción VII del artículo 17 de esta Ley,
 
 ### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 36.
 
-Todos los profesionales de una misma rama podrán constituir en el Estado, uno o varios Colegios, sin que excedan de tres por cada rama profesional, gobernador por un Consejo compuesto cuando menos por un Presidente, Vice-Presidente, un Secretario y un Tesorero que durarán dos años en ejercicio de su encargo.
+Todos los profesionales de una misma rama podrán constituir en el Estado, uno o varios Colegios, gobernados por un Consejo compuesto cuando menos por un presidente, un vicepresidente, un secretario y un tesorero que durarán dos años en ejercicio de su encargo.
 
 El Consejo será electo por mayoría en Asamblea General o mediante voto individual escrito y público que cada profesional emitirá desde el lugar en que se encuentre, por envío postal certificado, con acuse de recibo, a la sede del Colegio.
 
 Dichas Asociaciones se denominarán "Colegio de ..." indicándose la rama profesional que corresponda. Todo profesional cumpliendo con los requisitos que exijan los Reglamentos respectivos, tendrá derecho a formar parte del Colegio correspondiente.
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 37.
 
-Para constituir y obtener el Registro del Colegio Profesional respectivo, deberán reunirse los siguientes requisitos:
+Para constituir y obtener el registro del Colegio Profesional respectivo, deberán reunirse los siguientes requisitos:
 
-I.- Tener diez socios como mínimo. Para estimar debidamente el número no se tomarán en cuenta los nombres de las personas que figuren como socios activos en otro Colegio ya registrado, a menos que se demuestre que han dejado de tener tal carácter.
+I.- Tener treinta socios como mínimo;
 
-II.- Que se reúnan los requisitos establecidos en el Título Décimoprimero, Subtítulo Primero, Capítulo Unico del Libro Cuarto del Código Civil vigente en el Estado.
+II.- Cumplir con los requisitos que en materia de asociaciones y sociedades establece el Código Civil vigente en el Estado;
 
-III.- Para los efectos del registro del Colegio deberá exhibir los siguientes documentos:
+III.- Exhibir ante el departamento de Profesiones los siguientes documentos:
 
-a).- Testimonio de la escritura pública del acta constitutiva y de los estatutos que rijan, así como una copia simple de ambos documentos;
+a).- Testimonio de la escritura pública de protocolización del acta constitutiva y de los estatutos que rijan, así como una copia simple de ambos documentos; y
 
-b).- Un directorio de sus miembros y;
+b).- Un directorio de sus miembros.
 
-c).- Lista de socios que integran el Consejo Directivo.
-
-Se exceptúa de estas prevenciones el Colegio de Notarios del Estado, cuya constitución y funcionamiento están regidos por la Ley del Notariado en vigor.
+Se exceptúa de estas prevenciones al Colegio de Notarios en el Estado, cuya constitución y funcionamiento están regidos por la Ley del Notariado en vigor.
 
 ###### ARTICULO 38.
 
-Los Colegios de Profesionales constituidos de acuerdo con los requisitos anteriores, tendrán el carácter de personas morales con todos los derechos, obligaciones y atribuciones que les señale la ley respectiva.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 39.
 
@@ -379,13 +379,13 @@ Estos Colegios serán ajenos a toda actividad de carácter político o religioso
 
 ###### ARTICULO 41.
 
-Cada Colegio formulará sus propios estatutos, sin contravenir las disposiciones de la presente Ley.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 42.
 
 Los Colegios de Profesionales tendrán las siguientes atribuciones:
 
-a).- Promover la expedición de Leyes, reglamentos y sus reformas, relativos al ejercicio profesional;
+a).- (DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 b).- Auxiliar a la Administración Pública, para promover lo conducente al mejoramiento técnico y científico de las actividades profesionales;
 
@@ -401,19 +401,23 @@ g).- Representar a sus miembros o asociados ante el Departamento de Profesiones;
 
 h).- Formular los Estatutos del Colegio depositando un ejemplar en el mismo Departamento;
 
-i).- Formular listas de peritos profesionales, por especialidades, que serán las únicas que se utilizarán oficialmente;
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
 
-j).- Velar porque los puestos públicos en que se requieran conocimientos propios de determinada profesión estén desempeñados por los técnicos respectivos con título legalmente expedido y debidamente registrado;
+i).- Presentar al Departamento de Profesiones una lista de peritos profesionales;
 
-k).- Establecer y aplicar sanciones contra los profesionalistas (sic) que faltaren al cumplimiento de sus deberes profesionales, siempre que no se trate de actos y omisiones que deban sancionarse por las leyes, y
+j).- (DEROGADO, G.O. 8 DE JULIO DE 2002)
+
+k).- (DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 l).- Gestionar el registro de los títulos de sus componentes.
 
 ### CAPITULO VII. DEL SERVICIO SOCIAL OBLIGATORIO
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 43.
 
-Para los efectos de esta Ley debe entenderse como servicio social la actividad de carácter temporal y no onerosa que en beneficio de la colectividad presten los Pasantes de las distintas Facultades y Escuelas de la Universidad Veracruzana y de la Escuela Normal para Maestros del Estado, aplicando los conocimientos técnicos adquiridos en su preparación profesional.
+Para los efectos de esta Ley se entiende por Servicio Social la actividad de carácter temporal que en beneficio de la colectividad prestan los estudiantes y pasantes de las distintas profesiones a que se refiere esta Ley.
 
 ###### ARTICULO 44.
 
@@ -429,13 +433,11 @@ Es requisito indispensable para obtener el título profesional, la prestación d
 
 ###### ARTICULO 47.
 
-El Gobierno del Estado, la Universidad Veracruzana y la Dirección General de Educación en el Estado acordarán una compensación para satisfacer decorosamente las necesidades de los Pasantes que estén prestando su servicio social.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 48.
 
-El Ejecutivo del Estado y la Universidad Veracruzana reglamentarán el servicio social en sus respectivos ámbitos de competencia.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 49.
 
@@ -455,41 +457,51 @@ Para lograr una estricta coordinación de actividades, en los trabajos del Servi
 
 Los delitos que cometan los profesionales en el ejercicio de la profesión serán castigados por las autoridades competentes con arreglo al Código Penal y disposiciones legales respectivas.
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 53.
 
-El hecho de que alguna persona se atribuya el carácter de profesional sin tener título legal y ejerza los actos propios de la profesión, se castigará con la sanción que establece el artículo 185 fracción II del Código Penal para el Estado.
+El hecho de que alguna persona se atribuya el carácter de profesional sin tener Título legal, ni cédula para ejercer su profesión, ni autorización para ejercer como pasante, y ejerza los actos propios de una profesión, dará lugar a sanciones penales y administrativas, sin perjuicio de las que establezcan las demás disposiciones aplicables.
 
 ###### ARTICULO 54.
 
-Al que ofrezca públicamente sus servicios como profesional sin serlo, se le castigará con la misma sanción que establece el artículo anterior.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 55.
 
-Se sancionará con multas de cincuenta pesos en cada vez y cuplicándose (sic) en cada caso de reincidencia, al que contravenga lo dispuesto en la parte final del artículo 25 de esta Ley.
-
-El Departamento de Profesiones, precia (sic) comprobación de la infracción, impondrá la multa de referencia, sin perjuicio de las sanciones penales en que hubiese incurrido.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 56.
 
-Al profesional que tenga título legalmente expedido, pero que no lo haya registrado y ejerza la profesión que ampare, se le aplicará la primera vez una multa de diez pesos y en los casos sucesivos seguirá aumentando ésta sin que la multa que se imponga en el último caso pueda ser mayor de doscientos pesos.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
-Las sanciones que este artículo señala, serán impuestas por el Departamento de Profesiones dependientes de la Universidad Veracruzana, oyendo siempre al infractor en los que dicho Departamento establezca.
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 57.
 
-El Departamento de Profesiones, sólo podrá cancelar el registro de los títulos en los siguientes casos:
+El Departamento de Profesiones, previa audiencia de parte interesada, cancelará las inscripciones de títulos profesionales, instituciones educativas, Colegio de Profesionales o demás actos que deban registrarse en los siguientes casos:
 
-a).- Cuando se comprueba que el título no fue expedido con los requisitos que esta Ley establece, y
+I.- Cuando se compruebe que el Título no fue expedido con los requisitos que esta Ley establece;
 
-b).- Por resolución judicial.
+II.- Por resolución judicial;
+
+III.- Por error o falsedad en los documentos inscritos;
+
+IV.- Por disolución del Colegio de Profesionales; y
+
+V.- Las demás que establezcan las Leyes, el Reglamento Interior de la Secretaría de Educación y Cultura y demás disposiciones relativas y aplicables.
+
+No se afectará la validez de los títulos otorgados con anterioridad, cuando se trate de la cancelación del registro por desaparición de la institución educativa facultada para expedir títulos profesionales o grados académicos equivalentes; así como de la revocación de la autorización o retiro del reconocimiento oficial de estudios.
+
+La cancelación del registro de un título o autorización para ejercer una profesión, producirá efectos de revocación en la cédula o autorización.
 
 ###### ARTICULO 58.
 
-Ninguna persona que ejerza actividad profesional sin título debidamente registrado o con título, pero que carezca del requisito del registro, podrá cobrar honorarios de ninguna clase.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 59.
 
-Queda prohibido a los profesionales el empleo del término "Colegio", fuera de las agrupaciones expresamente autorizadas por esta Ley. La infracción de esta disposición será castigada con multa hasta de mil pesos.
+(DEROGADO, G.O. 8 DE JULIO DE 2002)
 
 ###### ARTICULO 60.
 
@@ -590,3 +602,11 @@ SEGUNDO.- Mientras surtan efectos los convenios a que se refiere la fracción V 
 G.O. 28 DE DICIEMBRE DE 1996.
 
 UNICO. La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 8 DE JULIO DE 2002.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. Las instituciones educativas comprendidas en esta Ley, remitarán (sic) al Departamento de Profesiones, en un término de noventa días a partir de la entrada en vigor de este Decreto, una lista completa de los títulos y cédulas profesionales que hubieren expedido durante los últimos diez años.
