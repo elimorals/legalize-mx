@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1986-05-02"
+last_updated: "1989-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MAYO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -218,9 +218,11 @@ II.- La misma obligación se establece para el Fondo Nacional de Fomento Ejidal 
 
 Las empresas industriales, comerciales o financieras, que sean parte en los contratos a que se refiere la fracción III del artículo 13, quedarán obligadas a contribuir en los términos que establezcan los decretos de implantación del régimen.
 
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 25.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1984)
+Las semanas reconocidas para el otorgamiento de las prestaciones a que se refiere este título, se obtendrán dividiendo entre siete los días de cotización acumulados, hecha esta división, si existiera un sobrante de días mayor a tres, éste se considerará como otra semana completa, no tomándose en cuenta el exceso si el número de días fuera de tres o menor.
 
 ###### ARTICULO 26.
 
@@ -284,33 +286,35 @@ Los asegurados quedarán inscritos con el salario base de cotización que percib
 
 Para determinar el grupo a que pertenece el asegurado y la forma como cotizará se aplicarán las siguientes reglas:
 
-I.- El bimestre será el período de pago de cuotas. El Instituto determinará anualmente el número de semanas que comprenda cada uno de los bimestres;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
+I.- El bimestre natural será el periodo de pago de cuotas, sin perjuicio de los enteros provisionales a que se refiere el segundo párrafo del artículo 45 de esta Ley;
 
 II.- Para fijar el salario diario en caso de que se pague por semana, quincena o mes, se dividirá la remuneración correspondiente entre siete, quince o treinta respectivamente. Análogo procedimiento será empleado cuando el salario se fije por períodos distintos a los señalados; y
 
 III.- Si por la naturaleza o peculiaridades de las labores el salario no se estipula por semana o por mes sino por día trabajado y comprende menos días de los de una semana o el asegurado labora jornadas reducidas y su salario se determina por unidad de tiempo, el reglamento establecerá las bases y forma de cotización y las modalidades conforme a las cuales se otorgarán las prestaciones económicas.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 36.
 
-Para determinar el salario base de cotización, se estará a lo siguiente:
+Para determinar el salario diario base de cotización se estará a lo siguiente:
 
-I.- Cuando además de los elementos fijos del salario el trabajador perciba regularmente otras retribuciones periódicas de cuantía previamente conocida, éstas se sumarán a dichos elementos fijos;
+l.- Cuando además de los elementos fijos del salario el trabajador percibirá regularmente otras retribuciones periódicas de cuantía previamente conocida, éstas se sumarán a dichos elementos fijos;
 
-II.- Si por la naturaleza del trabajo, el salario se integra con elementos variables que no pueden ser previamente conocidos, se sumarán los ingresos totales percibidos durante el año calendario anterior y se dividirán entre el número de días de salario devengado. Si se trata de un trabajador de nuevo ingreso, se tomará el salario probable que le corresponda; y
+II.- Si por la naturaleza del trabajo, el salario se integra con elementos variables que no puedan ser previamente conocidos, se sumarán los ingresos totales percibidos durante el bimestre inmediato anterior y se dividirán entre el número de días de salario devengado. Si se trata de un trabajador de nuevo ingreso, se tomará el salario probable que le corresponda en dicho período; y
 
-III.- En los casos en que el salario de un trabajador se integre con elementos fijos y elementos variables, se considerará de carácter mixto, por lo que, para los efectos de cotización, se sumará a los elementos fijos el promedio obtenido de los variables.
+III.- En los casos en que el salario de un trabajador se integre con elementos fijos y variables, se considerará de carácter mixto, por lo que, para los efectos de cotización, se sumará a los elementos fijos el promedio obtenido de los variables en términos de lo que se establece en la fracción anterior.
 
 ###### ARTICULO 37.
 
 Cuando por ausencias del trabajador a sus labores no se paguen salarios, pero subsista la relación laboral, la cotización bimestral se ajustará a las siguientes reglas:
 
-I.- En los casos de la fracción II del artículo 35, si las ausencias del trabajador son por períodos menores de quince días consecutivos o interrumpidos, se cotizará por dichos períodos únicamente en el seguro de Enfermedades y maternidad. En estos casos los patrones deberán presentar la aclaración correspondiente indicando que se trata de cuotas omitidas por ausentismo y comprobarán la falta de pago del salario respectivo, mediante la exhibición de las listas de raya o de las nóminas correspondientes.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Para este efecto, el número de semanas de cada bimestre se obtendrá dividiendo entre siete el número de días de salario percibido incluidos en el período de pago de cuotas. Hecha la división, si existiera un sobrante de días mayor a tres, éste se considerará como otra semana completa, no tomándose en cuenta el exceso si el número de días fuera de tres o menos. Respecto a las demás semanas para completar el bimestre de cotización, en las que hubo ausentismo, sólo se pagará la cuota correspondiente al seguro de Enfermedades y maternidad.
+I.- Si las ausencias del trabajador son por periodos menores de quince días consecutivos o interrumpidos, se cotizará y pagará por dichos periodos únicamente en el seguro de enfermedades y maternidad. En estos casos los patrones deberán presentar la aclaración correspondiente, indicando que se trata de cuotas omitidas por ausentismo y comprobarán la falta de pago de salarios respectivos, mediante la exhibición de las listas de raya o de las nóminas correspondientes. Para este efecto el número de días de cada bimestre se obtendrá restando del total de días que contenga el periodo de cuotas de que se trate, el número de ausencias sin pago de salario correspondiente al mismo periodo.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE 1974)</small>
-
-Sí las ausencias del trabajador son por períodos de quince días consecutivos o mayores, el patrón quedará liberado del pago de las cuotas obrero patronales, siempre y cuando proceda en los términos del Artículo 43;
+Si las ausencias del trabajador son por periodos de quince días consecutivos o mayores, el patrón quedará liberado del pago de las cuotas obrero patronales, siempre y cuando proceda en los términos del artículo 43;
 
 II.- En los casos de las fracciones II y III del artículo 36, se seguirán las mismas reglas de la fracción anterior;
 
@@ -334,19 +338,19 @@ En el caso de que el asegurado preste servicios a varios patrones se le clasific
 
 Cuando la suma de los salarios que percibe un trabajador llegue o sobrepase el límite superior establecido en el Artículo 34 de esta Ley, a petición de los patrones, éstos cubrirán los aportes del salario máximo de cotización, pagando entre ellos la parte proporcional que resulte entre el salario que cubre individualmente y la suma total de los salarios que percibe el trabajador.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 40.
 
 Cuando encontrándose el asegurado al servicio de un mismo patrón se modifique el salario estipulado, se estará a lo siguiente:
 
-I.- En los casos previstos en la fracción I del artículo 36, el patrón estará obligado a presentar los avisos de modificación de salario dentro de un plazo máximo de cinco días, si la modificación ubica al trabajador en un grupo de cotización diferente a aquél dentro del cual se encuentre inscrito;
+I.- En los casos previstos en la fracción I del artículo 36, el patrón estará obligado a presentar los avisos de modificación del salario diario base de cotización dentro de un plazo máximo de cinco días hábiles.
 
-II.- En los casos previstos en la fracción II del artículo 36, los patrones estarán obligados a comunicar al Instituto, dentro del mes de enero siguiente, la modificación del salario promedio obtenido, cuando implique cambio de grupo de cotización del trabajador; y
+II.- En los casos previstos en la fracción II del artículo 36, los patrones estarán obligados a comunicar al Instituto dentro de los meses de enero, marzo, mayo, julio, septiembre y noviembre, las modificaciones del salario promedio obtenido en el bimestre anterior.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+III.- En los casos previstos en la fracción III del artículo 36, si se modifican los elementos fijos del salario, el patrón deberá presentar el aviso de modificación dentro de los cinco días hábiles siguientes de la fecha en que cambie el salario. Si al concluir el bimestre respectivo hubo modificación de los elementos variables que se integran al salario, el patrón presentará al Instituto el aviso de modificación dentro del primer mes del siguiente bimestre. El salario diario se determinará, dividiendo el importe total de los ingresos variables obtenidos en el bimestre anterior entre el número de días de salario devengado y sumando su resultado a los elementos fijos del salario diario.
 
-III.- En los casos previstos en la fracción III del Artículo 36, si se modifican los elementos fijos del salario y ello implica cambio del grupo dentro del cual el asegurado se encuentra cotizando, el patrón deberá presentar el aviso de modificación dentro de los cinco días siguientes de la fecha en que cambie el salarlo. Si al concluir el año calendario respectivo los elementos variables que integran el salario implican una modificación en el grupo de cotización del asegurado, el patrón presentará al Instituto el aviso de modificación dentro del mes de enero siguiente. El salario diario se determinará dividiendo el importe total de los ingresos variables obtenidos en el año calendario anterior, entre el número de días de salarlo devengado y sumando su resultado a los elementos fijos del salario diario.
-
-En todos los casos previstos en este artículo, si la modificación se origina por revisión del contrato colectivo, se comunicará al Instituto dentro de los treinta y cinco días siguientes a su otorgamiento.
+En todos los casos previstos en este artículo, si la modificación se origina por revisión del Contrato Colectivo, se comunicará al Instituto dentro de los treinta y cinco días siguientes a su otorgamiento.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -602,7 +606,9 @@ I.- El pago de una cantidad igual a dos meses del salario mínimo general que ri
 
 Este pago se hará a la persona preferentemente familiar del asegurado, que presente copia del acta de defunción y la cuenta original de los gastos de funeral;
 
-II.- A la viuda del asegurado se le otorgará una pensión equivalente al cuarenta por ciento de la que hubiese correspondido a aquél, tratándose de incapacidad permanente total. La misma pensión corresponde al viudo que estando totalmente incapacitado, hubiera dependido económicamente de la asegurada;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
+II.- A la viuda del asegurado se le otorgará una pensión equivalente al cuarenta por ciento de la que hubiese correspondido a aquél, tratándose de incapacidad permanente total. La misma pensión corresponde al viudo que estando totalmente incapacitado hubiera dependido económicamente de la asegurada. El importe de esta prestación no podrá ser inferior a la cuantía mínima que corresponda a la pensión de viudez del ramo de los seguros de invalidez, vejez, cesantía en edad avanzada y muerte;
 
 III.- A cada uno de los huérfanos que lo sean de padre o madre, que se encuentren totalmente incapacitados, se les otorgará una pensión equivalente al veinte por ciento de la que hubiese correspondido al asegurado tratándose de incapacidad permanente total. Esta pensión se extinguirá cuando el huérfano recupere su capacidad para el trabajo;
 
@@ -652,19 +658,17 @@ Cuando se reúnan dos o más incapacidades parciales, el Instituto no cubrirá a
 
 #### SECCION CUARTA. Del Incremento Periódico de las Pensiones
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 75.
 
-Las pensiones por incapacidad permanente total o parcial, con un mínimo del 50% de incapacidad, serán revisadas e incrementadas anualmente. El Consejo Técnico determinará en el mes de enero de cada año, las modificaciones que deban hacerse a la cuantía de dichas pensiones. Para tal efecto, tomará en cuenta los incrementos al salario mínimo y la capacidad económica del Instituto y se apoyará en sus estudios técnicos y actuariales.
+La cuantía de las pensiones por incapacidad permanente será revisada cada vez que se modifiquen los salarios mínimos, incrementándose con el mismo porcentual que corresponda al salario mínimo general del Distrito Federal.
 
-Para aplicar el porcentaje en los casos de incapacidad permanente parcial, se tomará en cuenta la cuantía que le hubiere correspondido al asegurado por incapacidad permanente total.
-
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 76.
 
-Las pensiones de viudez, orfandad y ascendientes, otorgadas con motivo de la muerte del asegurado por riesgos de trabajo, serán revisadas e incrementadas anualmente en la proporción que les corresponda, con base en lo dispuesto en el artículo anterior y considerando, para aplicar el porcentaje del incremento, la cuantía de la pensión que le hubiere correspondido al asegurado por la incapacidad permanente total.
+Las pensiones de viudez, orfandad y ascendientes del asegurado por riesgos de trabajo, serán revisadas e incrementadas en la proporción que corresponda, en términos de lo dispuesto en el Artículo anterior.
 
 #### SECCION QUINTA. Del Régimen Financiero
 
@@ -1062,27 +1066,27 @@ Quedan amparados por este ramo del Seguro Social:
 
 I.- El asegurado;
 
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
 II.- El pensionado por:
 
-a).- Incapacidad permanente total,
+a) Incapacidad permanente;
 
-b).- Incapacidad permanente parcial con un mínimo del cincuenta por ciento de incapacidad,
+b) Invalidez, vejez, cesantía en edad avanzada; y
 
-c).- Invalidez, vejez, cesantía en edad avanzada y
+c) Viudez, orfandad o ascendencia;
 
-d).- Viudez, orfandad o ascendencia;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
-III.- La esposa del asegurado o, a falta de ésta, la mujer con quien ha hecho vida marital durante los cinco años anteriores a la enfermedad, o con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio. Si el asegurado tiene varias concubinas ninguna de ellas tendrá derecho a la protección;
+III.- La esposa del asegurado o, a falta de ésta, la mujer con quien ha hecho vida marital durante los cinco años anteriores a la enfermedad, o con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio. Si el asegurado tiene varias concubinas ninguna de ellas tendrá derecho a la protección.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+Del mismo derecho gozará el esposo de la asegurada o, a falta de éste el concubino si reúne los requisitos del párrafo anterior;
 
-Del mismo derecho gozará, cuando se encuentre totalmente incapacitado para trabajar, el esposo de la asegurada o, a falta de éste el concubino si reúne los requisitos del párrafo anterior;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
-IV.- La esposa del pensionado en los términos de los incisos a), b) y c) de la fracción II. A falta de esposa, la concubina si se reúnen los requisitos de la fracción III;
+IV.- La esposa del pensionado en los términos de los incisos a) y b) de la Fracción lI a falta de esposa, la concubina si se reúnen los requisitos de la Fracción III;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-Del mismo derecho gozará, cuando se encuentre totalmente incapacitado para trabajar, el esposo de la pensionada o, a falta de éste, el concubino si reúne los requisitos de la fracción III;
+Del mismo derecho gozará el esposo de la pensionada o, a falta de éste el concubino si reúne los requisitos de la Fracción III;
 
 V.- Los hijos menores de dieciséis años del asegurado y de los pensionados en los términos consignados en la fracción anterior;
 
@@ -1090,13 +1094,15 @@ V.- Los hijos menores de dieciséis años del asegurado y de los pensionados en 
 
 VI.- Los hijos del asegurado hasta la edad de veinticinco años cuando realicen estudios en planteles del sistema educativo nacional o, si no pueden mantenerse por su propio trabajo debido a una enfermedad crónica, defecto físico o psíquico, hasta en tanto no desaparezca la incapacidad que padecen;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
 
-VII.- Los hijos mayores de dieciséis años de los pensionados por invalidez, vejez y cesantía en edad avanzada, que se encuentren disfrutando de asignaciones familiares, así como los de los pensionados por incapacidad permanente total o parcial con un mínimo del cincuenta por ciento de incapacidad en los mismos casos y condiciones establecidos en el Artículo 156;
+VII.- Los hijos mayores de dieciséis años de los pensionados por invalidez, vejez y cesantía en edad avanzada, que se encuentren disfrutando de asignaciones familiares, así como los de los pensionados por incapacidad permanente, en los mismos casos y condiciones establecidos en el Artículo 156;
 
 VIII.- El padre y la madre del asegurado que vivan en el hogar de éste; y
 
-IX.- El padre y la madre del pensionado, en los términos de los incisos a), b) y c) de la fracción II, si reúnen el requisito de convivencia señalado en la fracción VIII.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1989)</small>
+
+IX.- El padre y la madre del pensionado en los términos de los incisos a) y b) de la Fracción II, si reúnen el requisito de convivencia señalado en la Fracción VIII.
 
 Los sujetos comprendidos en las fracciones III a IX inclusive, tendrán derechos a las prestaciones respectivas si reúnen además los requisitos siguientes:
 
@@ -1260,11 +1266,11 @@ El goce por parte de la asegurada del subsidio establecido en artículo 109, exi
 
 Cuando la asegurada no cumpla con lo establecido en la fracción I del artículo anterior, quedará a cargo del patrón el pago del salario íntegro.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 112.
 
-Cuando fallezca un pensionado o un asegurado que tenga reconocidas cuando menos doce cotizaciones semanales en los nueve meses anteriores al fallecimiento, el Instituto pagará a la persona preferentemente familiar del asegurado o del pensionado, que presente copia del acta de defunción y la cuenta original de los gastos del funeral, una ayuda por este concepto, consistente en un mes del salario mínimo general que rija en el Distrito Federal en la fecha del fallecimiento.
+Cuando fallezca un pensionado o un asegurado que tenga reconocidas cuando menos doce cotizaciones semanales en los nueve meses anteriores al fallecimiento, el Instituto pagará a la persona preferentemente familiar del asegurado o del pensionado, que presente copia del acta de defunción y la cuenta original de los gastos del funeral, una ayuda por este concepto, consistente en dos meses del Salario Mínimo General que rija en el Distrito Federal en la fecha del fallecimiento.
 
 #### SECCION CUARTA. Del Régimen Financiero
 
@@ -1272,11 +1278,11 @@ Cuando fallezca un pensionado o un asegurado que tenga reconocidas cuando menos 
 
 Los recursos necesarios para cubrir las prestaciones y los gastos administrativos del seguro de Enfermedades y maternidad, se obtendrán de las cuotas que estén obligados a cubrir los patrones y los trabajadores o demás sujetos y de la contribución que corresponda al Estado.
 
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 114.
 
-A los patrones y a los trabajadores les corresponde cubrir para el seguro de enfermedades y maternidad, las cuotas del 6.30% y 2.25% sobre el salario base de cotización, respectivamente.
+A los patrones y a los trabajadores les corresponde cubrir para el seguro de enfermedades y maternidad, las cuotas de 8.40% y 3.00% sobre el salario diario base de cotización, respectivamente.
 
 Los ingresos por concepto de pensiones quedan exentos del pago de cuotas.
 
@@ -1286,7 +1292,9 @@ Los ingresos por concepto de pensiones quedan exentos del pago de cuotas.
 
 En todos los casos en que no esté expresamente prevista por Ley o decreto la cuantía de la contribución del Estado para el seguro de enfermedades y maternidad, será igual al 7.143 por ciento del total de las cuotas patronales.
 
-La aportación del Estado será cubierta en pagos bimestrales iguales, equivalentes a la sexta parte de la estimación que presente el Instituto para el año siguiente a la Secretaría de Programación y Presupuesto, en el mes de julio de cada ejercicio, formulándose el ajuste definitivo en el mes de enero del año siguiente.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
+La aportación del Estado será cubierta en pagos mensuales iguales, equivalentes a la doceava parte de la estimación que presente el Instituto para el año siguiente a la Secretaría de Programación y Presupuesto, en el mes de julio de cada ejercicio, mensualidades que se incrementarán en el mismo porciento en que se incrementen los Salarios Mínimos para el Distrito Federal, a partir del mes siguiente a aquel en que éstos ocurran, formulándose el ajuste definitivo en el mes de enero del año siguiente.
 
 ###### ARTICULO 116.
 
@@ -1534,9 +1542,11 @@ A falta de esposa, tendrá derecho a recibir la pensión, la mujer con quien el 
 
 La misma pensión le corresponderá al viudo que estuviese totalmente incapacitado y que hubiese dependido económicamente de la trabajadora asegurada o pensionada fallecida.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 153.
 
-La pensión de viudez será igual al cincuenta por ciento de la pensión de vejez, de invalidez o de cesantía en edad avanzada, que el pensionado fallecido disfrutaba; o de la que hubiere correspondido al asegurado en el caso de invalidez.
+La pensión de viudez será igual al noventa por ciento de la pensión de invalidez, de vejez o de cesantía en edad avanzada, que el pensionado fallecido disfrutaba; o de la que hubiere correspondido al asegurado en el caso de invalidez.
 
 ###### ARTICULO 154.
 
@@ -1722,11 +1732,17 @@ Los trabajadores incorporados al sistema de porcentaje a que se refiere al artí
 
 El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 168.
 
-La pensión de invalidez, de vejez o de cesantía en edad avanzada, no podrá ser inferior a dos mil doscientos pesos mensuales.
+La suma de la pensión de invalidez, de vejez o cesantía en edad avanzada, mas las asignaciones familiares y ayudas asistenciales que en su caso correspondan, no podrá ser inferior al setenta por ciento del Salado Mínimo General que rija para el Distrito Federal.
+
+El monto determinado conforme al párrafo anterior, servirá de base para calcular las pensiones que se deriven de la muerte tanto del pensionado, como del asegurado, al igual que para fijar la cuantía de aguinaldo anual.
+
+En todo caso, el monto del aguinaldo a que se refiere el párrafo anterior, no será inferior a treinta días.
+
+La cuantía mínima de las pensiones derivadas de incorporaciones generadas por decreto del Ejecutivo Federal o convenios celebrados por el Instituto en los términos de esta Ley, que contengan modalidades de aseguramiento en el ramo de los seguros de invalidez, vejez, cesantía en edad avanzada y muerte, se sujetará a lo establecido en el segundo párrafo del artículo 172.
 
 ###### ARTICULO 169.
 
@@ -1780,19 +1796,19 @@ Se aumentará un año a los cumplidos cuando la edad los exceda en seis meses.
 
 #### SECCION NOVENA. Del Incremento Periódico de las Pensiones
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 172.
 
-Las pensiones por invalidez, vejez o cesantía en edad avanzada, serán revisadas e incrementadas anualmente.
+La cuantía de las pensiones por invalidez, vejez o cesantía en edad avanzada serán revisadas cada vez que se modifiquen los salarios mínimos, incrementándose con el mismo aumento porcentual que corresponda al Salario Mínimo General del Distrito Federal.
 
-El Consejo Técnico determinará en el mes de enero de cada año, las modificaciones que deban hacerse a la cuantía de dichas pensiones. Para tal efecto tomará en cuenta los incrementos al salario mínimo y la capacidad económica del Instituto y se apoyará en sus estudios técnicos y actuariales.
+Los aumentos que correspondan a las pensiones derivadas de incorporaciones generadas por decreto del Ejecutivo Federal o convenios celebrados por el Instituto en los términos de esta Ley que contengan modalidades de aseguramiento en el ramo de los seguros de invalidez, vejez, cesantía en edad avanzada y muerte, serán determinados por el Consejo Técnico, para tal efecto, tomará en cuenta los incrementos al salario mínimo y la capacidad económica del Instituto y se apoyará en sus estudios técnicos y actuariales, en cada ocasión, el acuerdo relativo establecerá la cuantía mínima de dichas pensiones.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 173.
 
-Las pensiones otorgadas a la muerte del asegurado o pensionado por invalidez, vejez y cesantía en edad avanzada a sus beneficiarios, serán revisadas e incrementadas anualmente de acuerdo con lo dispuesto en el artículo anterior.
+Las pensiones otorgadas a la muerte del asegurado o pensionado por invalidez, vejez y cesantía en edad avanza a sus beneficiarios, serán revisadas e incrementadas en la proporción que corresponda en los términos de lo dispuesto en el artículo anterior.
 
 > <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
 
@@ -1940,11 +1956,11 @@ Los servicios de guardería se proporcionarán a los hijos procreados por las tr
 
 Los patrones cubrirán íntegramente la prima para el financiamiento de las prestaciones de guardería infantil independientemente de que tengan o no trabajadoras a su servicio.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 191.
 
-El monto de la prima para este ramo del Seguro Social será el uno por ciento de la cantidad que por salario paguen a todos sus trabajadores en efectivo por cuota diaria, con un límite superior de diez veces el salario mínimo general vigente en el Distrito Federal.
-
-El pago se efectuará por bimestres, en los términos establecidos en el capítulo II de este título, al enterar las cuotas de los demás ramos del seguro.
+El monto de la prima para este ramo del Seguro Social será del uno por ciento sobre el salario base de cotización.
 
 ###### ARTICULO 192.
 
@@ -2668,19 +2684,25 @@ La prescripción se regirá en cuanto a su consumación e interrupción, por las
 
 Las cuotas enteradas sin justificación legal serán devueltas por el Instituto sin causar intereses, cuando sean reclamadas dentro de los cinco años siguientes a la fecha del entero correspondiente. El Instituto podrá descontar el costo de las prestaciones que hubiera otorgado.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+
 ###### ARTICULO 279.
 
-Prescribe en un año la obligación del Instituto de pagar a los interesados:
+El derecho de los asegurados o sus beneficiarios para reclamar el pago de las prestaciones en dinero, prescribe de acuerdo con las siguientes reglas.
 
-I.- Cualquier mensualidad de una pensión, asignación familiar o ayuda asistencial;
+l.- En un año:
 
-II.- Los subsidios por incapacidad para el trabajo y por maternidad;
+a) Cualquier mensualidad de una pensión, asignación familiar o ayuda asistencial, así como el aguinaldo.
 
-III.- La ayuda para gastos de funeral; y
+b) Los subsidios por incapacidad para el trabajo por enfermedad no profesional y maternidad.
 
-IV.- Los finiquitos que establece la Ley.
+c) La ayuda para gastos de funeral; y
 
-La obligación de pagar la dote matrimonial prescribe en seis meses, contados a partir de la fecha de la celebración del matrimonio.
+d) Los finiquitos que establece la Ley.
+
+II. En seis meses, la ayuda para gastos de matrimonio, contados a partir de la fecha de celebración de éste.
+
+Los subsidios por incapacidad para trabajar derivada de un riesgo de trabajo, prescriben en dos años a partir del día en que se hubiere generado el derecho a su percepción.
 
 ###### ARTICULO 280.
 
@@ -2997,3 +3019,17 @@ D.O.F. 2 DE MAYO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día veintinueve de junio de mil novecientos ochenta y seis.
+
+D.O.F. 4 DE ENERO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+En términos del penúltimo párrafo de los considerandos, se obliga al Instituto a que: la diferencia que resulta del pago de pensiones, asignaciones familiares y ayudas asistenciales a que se refiere la Ley, y lo recaudado por el Instituto con el aumento de 3.00% a las cuotas obrero patronales autorizadas en el presente Decreto, se invierta en valores de fácil realización para la constitución de las reservas técnicas, para el pago de pensiones.
+
+###### ARTICULO TERCERO.
+
+Se dejan sin efecto las disposiciones que contravengan lo establecido en estas Reformas.
