@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1993-07-08"
+last_updated: "1994-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO -ANTES LEY ORGANICA DEL PODER LEGISLATIVO. REGLA. DEL TITULO 3° DE LA CONST. POLITICA DEL ESTADO DE JALISCO Y ANTES LEY REGLA.DEL PODER LEGISLATIVO DEL ESTADO-
 
-LEY ORGANICA DEL PODER LEGISLATIVO, REGLAMENTARIA DEL TITULO TERCERO DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -35,9 +35,11 @@ DECRETO
 
 Número 8848.- El Congreso del Estado decreta:
 
-LEY ORGANICA DEL PODER LEGISLATIVO, REGLAMENTARIA DEL TITULO
+(REFORMADA SU DENOMINACION, P.O. 22 DE
 
-TERCERO DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
+DICIEMBRE DE 1994)
+
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
 > <small>(REFORMADA SU NUMERACION, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -51,7 +53,7 @@ TERCERO DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
 Esta ley rige el funcionamiento del Poder Legislativo de la Entidad en las distintas actividades que le señala la Constitución Política del Estado:
 
-I. Juntas Preparatorias del Colegio Electoral, para la calificación de elecciones de Diputados;
+I. (DEROGADA, P.O. 22 DE DICIEMBRE DE 1994)
 
 II. Congreso del Estado;
 
@@ -73,87 +75,119 @@ IV. Jurado de Acusación y Sentencia o de Procedencia.
 
 ## TITULO SEGUNDO. De la Instalación del Congreso
 
-> <small>(ADICIONADA SU DENOMINACION, P.O. 16 DE ENERO DE 1992)</small>
+(REFORMADA SU DENOMINACION, Y NUMERACION
 
-### CAPITULO UNICO. De las Juntas Preparatorias del colegio Electoral
+P.O. 22 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+### CAPITULO I. De la Junta Preparatoria y Comisión Instaladora
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 4.
 
-En el año de la renovación del Congreso del Estado, a las 11 horas, del día cuatro de marzo, y precisamente en el Salón de Sesiones del Congreso, deberán reunirse, bajo la Presidencia de la Diputación Permanente, que fungirá como Comisión Instaladora, todos los presuntos Diputados propietarios electos, tanto por el principio de mayoría relativa como de representación proporcional que hubieren obtenido su constancia, expedida por el Consejo Electoral del Estado, en la elección respectiva, sin necesidad de cita previa, para integrar el Colegio Electoral.
+En el año de la renovación del Congreso del Estado, a las once horas, del día veinticinco de enero, y precisamente en el Salón de Sesiones del Congreso, deberán reunirse, bajo la Presidencia de la Diputación Permanente, que fungirá como Comisión Instaladora, todos los diputados propietarios electos, tanto, por el principio de mayoría relativa como de representación proporcional, sin necesidad de cita previa.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 5.
 
-Si a la reunión prevista por el artículo que antecede, no concurriere la mayoría de los presuntos Diputados Propietarios, la Comisión Instaladora citará para nueva reunión al día siguiente a la misma hora, haciéndolo en forma verbal a los concurrentes y por escrito a los ausentes, a fin de que acudan a ella y de no haber asistencia de la mayoría a esta cita, con los que acudan celebrará la junta.
+Si a la reunión prevista por el artículo que antecede, no concurriere la mayoría de los diputados propietarios electos, la Comisión Instaladora citará para nueva reunión al día siguiente a la misma hora, haciéndolo en forma verbal a los concurrentes y por escrito a los ausentes, a fin de que acudan a ella y, de no haber asistencia de la mayoría a esta cita, con los que se presenten se realizará la junta.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 6.
 
-La celebración de la primera junta se sujetará estrictamente y sin interrupción al orden siguiente:
+La celebración de la junta preparatoria se sujetará estrictamente y sin interrupción al orden siguiente:
 
-I. La Comisión Instaladora, por conducto de su Presidente, hará la declaratoria de que existe el quórum que en su caso corresponda según lo precisan los dos artículos que preceden;
+I. La Comisión Instaladora, por conducto de su presidente, hará la declaratoria de que existe el quórum que en su caso corresponda, según lo precisan los dos artículos que preceden;
 
-II. Los presuntos Diputados reunidos elegirán a mayoría de votos emitidos por medio de cédulas, a un Presidente, un Vice-Presidente y dos Secretarios escogidos dentro de ellos mismos: esta Directiva fungirá durante todo el período de la Junta Preparatoria de Colegio Electoral;
+II. Los diputados electos reunidos elegirán a mayoría de votos emitidos por medio de cédula, a los integrantes de la mesa directiva para el Primer Período Ordinario de Sesiones;
 
-III. El escrutinio y la declaratoria correspondiente, serán hechos por la Comisión Instaladora, esta última por conducto de su Presidente, quien desde luego hará entrega material al Presidente de la Junta Preparatoria de Colegio Electoral, de todos los documentos relativos a las últimas elecciones, y el Tesorero de la Legislatura saliente, la hará virtual y por riguroso inventario, de los muebles, enseres y demás bienes del Congreso;
+III. El escrutinio y la declaratoria correspondiente, serán hechos por la Comisión Instaladora, esta última por conducto de su Presidente ;
 
-IV. Cumplido con lo previsto en el inciso anterior, la Directiva de la Junta Preparatoria del Colegio Electoral tomará posesión de su cargo y el Presidente de ella nombrará una Comisión para que acompañe a los integrantes de la Comisión Instaladora, quienes deberán desde luego abandonar el Recinto;
+IV. El titular de la Comisión de Tesorería de la Legislatura saliente hará entrega virtual y por riguroso inventario de los muebles, enseres y demás bienes del congreso, al diputado electo para presidir el Primer Período Ordinario de Sesiones de la Legislatura;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
+V. El presidente de la Comisión Instaladora invitará a los integrantes de la mesa directiva, para que ocupen sus lugares en el presidium, pasando a ocupar los lugares que ex profeso se les reserve;
 
-V. A mayoría de votos de los presuntos Diputados concurrentes, se elegirán dos Comisiones que se encargarán de revisar los expedientes electorales y de dictaminar sobre el resultado de la correspondiente elección la primera, se compondrá de cinco miembros y sólo tendrá competencia sobre los expedientes relativos a los presuntos Diputados que no formen parte de ella y la segunda, que se compondrá de tres miembros tendrá a su vez, competencia para conocer exclusivamente de los expedientes relacionados con la elección de los presuntos Diputados que formen parte de la primera Comisión ;
+VI. El Presidente del Congreso rendirá la protesta de ley ante la Asamblea, en los siguientes términos:
 
-VI. La Directiva de la Junta hará de inmediato entrega de los expedientes que sean de su competencia a los dos Comisiones nombradas, recabando recibo escrito de quien presida cada una de ellas y el Presidente dará por concluida la junta y fijará día y hora para que se verifique la próxima sesión de junta Preparatoria, citando verbalmente a los presuntos Diputados que estén presentes y por escrito, a los que no hayan asistido;
+"Protesto cumplir y, en su caso, hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las leyes, reglamentos y acuerdos que de una y otra emanen, así como desempeñar leal y eficazmente el cargo de diputado que el pueblo de Jalisco me ha confiado, mirando en todo por el bien y prosperidad del Estado. Si así no lo hiciere, que el Estado y la Nación me lo demanden".
 
-VII. El Presidente será suplido en sus ausencias por el Vice-Presidente y también lo suplirá en los casos en que desee tomar parte en los debates respectivos, pues no podrá participar en ellos mientras esté presidiendo. La falta de alguno o de ambos Secretarios será suplida por cualquiera de los presuntos asistentes a la junta, mediante designación que al efecto haga la Presidencia.
+Los concurrentes deberán estar de pie al hacer su propuesta (sic) el presidente;
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+VII. A continuación el presidente tomará la protesta a los demás miembros de la Asamblea, quienes permanecerán de pie; en los términos siguientes:
 
-### CAPITULO I. De las Obligaciones de los Diputados
+"¿Protestan cumplir y, en su caso, hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las leyes, reglamentos y acuerdos que de una y otra emanen, así como desempeñar leal y eficazmente el cargo de diputado que el pueblo de Jalisco les ha conferido mirando en todo por el bien y prosperidad del Estado?"
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1990)</small>
-
-###### Artículo 7.
-
-Durante el período comprendido entre la fecha de la celebración de la junta a que se refiere el artículo anterior y el día 14 de marzo, inclusive, del año de la elección, deberán las Comisiones a que se refiere dicho artículo, rendir todos los dictámenes que se les haya encomendado; y corresponderá a la Asamblea resolver sobre los mismos a mayoría de votos, rigiéndose la discusión si la hubiere por las disposiciones de esta Ley para las discusiones del Congreso. La votación será emitida en forma nominal.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
-
-### CAPITULO II. De la Directiva
-
-###### Artículo 8.
-
-El día 14 de marzo tendrá lugar la última Junta Preparatoria de los Diputados electos, quienes harán la elección de Mesa Directiva para el Primer Periodo Ordinario de Sesiones.
-
-###### Artículo 9.
-
-En la misma junta el Presidente rendirá la Protesta de Ley ante la Asamblea, en los siguientes términos:
-
-"Protesto cumplir y en su caso, hacer cumplir la Constitución General de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes, Reglamentos y Acuerdos que de una y otra emanen, así como desempeñar leal y eficazmente el cargo de Diputado que el pueblo de Jalisco me ha confiado, mirando en todo por el bien y prosperidad del Estado. Si así no lo hiciere, el Estado y la Nación me lo demanden".
-
-A continuación el Presidente ya instalado en su lugar, tomará la Protesta en los términos siguientes, a los demás miembros de la Cámara, quienes permanecerán de pie:
-
-"¿Protestáis cumplir y en su caso hacer cumplir la Constitución General de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes, Reglamentos y Acuerdos que de una y otra emanen así como desempeñar leal y eficazmente el cargo de Diputado que el pueblo de Jalisco os ha conferido, mirando en todo por el bien y prosperidad del Estado?"
-
-Los interpelados contestarán:
+A lo que contestarán:
 
 "Sí protesto".
 
-Dirá entonces el Presidente: "Si así no lo hiciéreis, el Estado y la Nación os lo demanden".
+Dirá entonces el presidente: "Si así no lo hicieran, que el Estado y la Nación se los demanden"; y
 
-Los Diputados que no hubieren asistido a esta sesión, deberán rendir la Protesta de Ley posteriormente, en la forma ya descrita, en la primera sesión a que concurran.
+VIII. El Presidente dará por concluida la junta y citará verbalmente a los diputados electos que estén presentes y por escrito, a los que no hayan asistido, a la Sesión Solemne que se verificará a las diez horas del día primero de febrero siguiente,
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+Los diputados que no hubiese (sic) asistido a esta sesión, deberán rendir la protesta de ley posteriormente, en la forma ya descrita, en la primera sesión a que concurran.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+### Capítulo II. De la instalación de la Legislatura
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 7.
+
+La sesión solemne del Congreso para la Instalación de la Legislatura, se sujetará al orden siguiente:
+
+I. El presidente del Congreso hará la declaratoria de que existe el quórum, que se integrará con la mayoría de los diputados propietarios electos;
+
+II. Se dará lectura al acta correspondiente a la junta preparatoria prevista en el artículo anterior;
+
+III. Se tomará la propuesta de ley a los diputados, conforme a lo previsto en el último párrafo del artículo anterior y las disposiciones correspondientes de la Ley Electoral;
+
+IV.- El presidente declarará la instalación de la Legislatura y la apertura del período ordinario de sesiones, pronunciado (sic) las siguientes palabras:
+
+"Se declara legítima y solemnemente instalada la (su número) Legislatura del Estado Libre y Soberano de Jalisco". El Congreso del Estado Libre y Soberano de Jalisco abre hoy el Primer Período Ordinario de Sesiones, correspondiente al primer año de su ejercicio constitucional.
+
+Al pronunciarse estas palabras los concurrentes deberán estar de pie;
+
+V. En su caso, deberá darse cuenta con las comunicaciones que se hubieren dirigido al Congreso y que hayan sido acordadas de trámite por la Diputación Permanente, ordenándose lo que corresponda;
+
+VI. Acto seguido, en lo conducente se estará a lo dispuesto por los artículos 54, 55 y 56 de esta Ley; y
+
+VII. La Presidencia levantará la sesión citando para la siguiente.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+### Capítulo III. De la Suplencia de los diputados
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 8.
+
+Por cada diputado propietario por el principio de votación mayoritaria relativa, se eligirá un suplente que lo substituya en caso de falta absoluta o temporal, previa determinación del Congreso de la Diputación Permanente.
+
+Cuando ocurra la falta absoluta de un diputado uninominal y no tenga suplente, o el electo esté inhabilitado para asumir el cargo, si procede se convocará a nuevas elecciones conforme a la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 9.
+
+La elección de diputados propietarios por el principio de representación proporcional, se verificará con base en las listas que para tal efecto presenten los partidos políticos, para la circunscripción o circunscripciones plurinominales. Conforme al procedimiento que establezca la Ley Electoral se determinarán los diputados electos por este principio.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 10.
 
-Cumplido el requisito de la protesta se tendrá por instalada la Cámara y al efecto, el Presidente de pie, así como los Diputados y público asistente, pronunciará las siguientes palabras: "Se declara legítima y solemnemente instalada la ( ) Legislatura del Estado Libre y Soberano de Jalisco". "Acto continuo, el Presidente citará a las diez horas del día quince de marzo siguiente.
+Para suplir a los diputados electos por el principio de representación proporcional, al presentarse una falta absoluta o temporal el Congreso del Estado mandará llamar al siguiente de la lista registrada, que no se encuentre en funciones y no tenga impedimento para asumir el cargo.
 
 > <small>(REFORMADA SU NUMERACION, P.O. 16 DE ENERO DE 1992)</small>
 
 ## TITULO TERCERO. De los Diputados
 
-### CAPITULO III. De las Comisiones
+### CAPITULO I. De las Obligaciones de los Diputados
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1990)</small>
 
 ###### Artículo 11.
 
@@ -175,7 +209,7 @@ En los casos de licencia por tiempo indeterminado, o que sin serlo tuvieren por 
 
 Queda estrictamente prohibido a los Diputados abandonar el Recinto, sin el permiso previo de la Presidencia, durante el desarrollo de las sesiones.
 
-### CAPITULO I. De la Iniciación de los Períodos de Sesiones
+### CAPITULO II. De la Directiva
 
 ###### Artículo 16.
 
@@ -305,7 +339,7 @@ Las atribuciones consignadas en las fracciones que anteceden, con excepción de 
 
 Los Secretarios y Pro-Secretarios no estarán inhabilitados para ser electos Presidente o Vicve-Presidente, durante el período de su ejercicio; pero si la elección para tales cargos, recayera en alguno de ellos de inmediato y con las mismas formalidades a que se refiere el Artículo 16, deberá elegirse al que deba desempeñar las funciones de Pro-Secretario, por todo el término que vaya a estar éste separado de dicho cargo, ya sea porque ocupe la Presidencia o la Vice-Presidencia, o porque la elección hubiere recaído en alguno de los Secretarios, y el Pro-Secretario que primeramente hubiere sido electo vaya a substituirlo en dicha Secretaría.
 
-### CAPITULO II. De la Forma y Periodicidad de las Sesiones
+### CAPITULO III. De las Comisiones
 
 ###### Artículo 27.
 
@@ -429,50 +463,6 @@ En el trabajo de las Comisiones, podrán intervenir los Diputados que no formen 
 
 Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
 
-###### Artículo 31.
-
-El Congreso deberá designar por lo menos las siguientes Comisiones de carácter permanente:
-
-I. Estudios Legislativos, Puntos Constitucionales y Reglamentos;
-
-II. Gobernación;
-
-III. Hacienda y Presupuestos;
-
-IV. Desarrollo Económico y Social;
-
-V. Justicia;
-
-VI. Inspección;
-
-VII. Responsabilidades;
-
-VIII. Educación Pública y Bellas Artes;
-
-IX. Calificadora de Asuntos Electorales;
-
-X. Asuntos Agrarios;
-
-XI. Trabajo y Previsión Social;
-
-XII. Peticiones;
-
-XIII. Tesorería;
-
-XIV. Obras Públicas;
-
-XV. Higiene y Salud Pública;
-
-XVI. Biblioteca, Archivo y Editorial;
-
-XVII. Corrección del Estilo;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 1982)</small>
-
-XVIII. Seguridad Pública, Prevención y Readaptación Social.
-
-Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
-
 ###### Artículo 32.
 
 Corresponde a la Comisión de Estudios Legislativos, Puntos Constitucionales y Reglamentos, el conocimiento de los siguientes asuntos:
@@ -481,13 +471,15 @@ I. Los que se refieren a reformas a la Constitución General de la República o 
 
 II. Los que se refieren a Leyes Reglamentarias u Orgánicas, de dispositivos de la Constitución Política del Estado y los que la Constitución Federal le autorice reglamentar;
 
-III. Los que se refieren a los casos previstos por la Fracción XVI del Artículo 23 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+III. Las competencias y controversias que se susciten entre el Ejecutivo y el Supremo Tribunal de Justicia, salvo lo previsto en los artículos 76, fracción VI y 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
 IV. Los que se refieren a la Legislación civil o Penal, en su aspecto substantivo;
 
 V. La formulación de informes en juicios de amparo en que el Congreso sea parte, por medio del Presidente de la Comisión o de uno de sus integrantes que ésta designe y la defensa de los intereses del Congreso en dichos procedimientos; y
 
-VI.Proponer el Reglamento Interior del Congreso y sus modificaciones o adiciones.
+VI. Proponer el Reglamento Interior del Congreso y sus modificaciones o adiciones.
 
 ###### Artículo 33.
 
@@ -523,9 +515,9 @@ III. Los que se refieren a la creación de impuestos extraordinarios o especiale
 
 IV. Los que se refieren a la supresión o creación de empleos públicos;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
-V. Los que se refieren a los casos previstos en la fracción IV, del Artículo 23, de la Constitución Política del Estado; y
+V. Los que se refieren a los casos previstos en la fracción IV del artículo 35 de la Constitución Política del Estado; y
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -577,11 +569,11 @@ IV.(ADICIONADA, P.O. 9 DE ABRIL DE 1991)
 
 Con la formulación del Reglamento Interior de la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 38.
 
-Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba de resolver, erigiéndose en jurado de acusación y de sentencia, conforme a lo preceptuado por el artículo 49, de la Constitución Política del Estado; o en jurado de procedencia, conforme a lo dispuesto por el artículo 50 de la propia Constitución, de acuerdo a los procedimientos que establece el Título Noveno de esta Ley; así como el conocimiento, estudio y dictamen de los asuntos relacionados con las declaraciones de situación patrimonial.
+Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba resolver, erigiéndose en jurado de acusación y de sentencia, conforme a lo preceptuado por el artículo 91 de la Constitución Política del Estado; o en jurado de procedencia, conforme a lo dispuesto por el artículo 93 de la propia Constitución, de acuerdo a los procedimientos que establece el título noveno; así como el conocimiento, estudio y dictamen de los asuntos relacionados con las declaraciones de situación patrimonial.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -597,27 +589,21 @@ Corresponden a la Comisión Calificadora de Asuntos Electorales, las siguientes 
 
 I. Dictaminar sobre el cómputo y calificación de la elección ordinaria de Gobernador del Estado, con vista de los expedientes que, para el efecto, haya remitido al Congreso, el Consejo Electoral del Estado, en los términos de las Leyes correspondientes, proponiendo la declaratoria del ciudadano que hubiese obtenido la mayoría de sufragios;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 1994)
 
-II. Dictaminar sobre el resultado de la elección para Senadores que representen al Estado ante el Congreso de la Unión, proponiendo la declaratoria correspondiente a favor de quienes hubiesen obtenido mayoría de sufragios;
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
-
-III. Dictaminar sobre el cómputo y calificación de la elección de munícipes para integrar los Ayuntamientos de la entidad, con vista de la documentación que, para tal efecto haya remitido al congreso, el Consejo Electoral del Estado, incluyendo la asignación de los Regidores de representación proporcional, y proponiendo la declaratoria correspondiente;
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
 
-IV. Dictaminar sobre la necesidad de convocar a elecciones extraordinarias, cuando sea necesario; y sobre el resultado de éstas, dentro de los quince días siguientes a la recepción de la documentación respectiva;
+IV.Dictaminar sobre la necesidad de convocar a elecciones extaordinarias, cuando sea necesario; y sobre el resultado de éstas, dentro de los quince días siguientes a la recepción de la documentación respectiva;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
-V. Proponer para su designación, como Gobernador Interino, Provisional o Substituto, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba substituirlo, en los términos y condiciones que señala la Constitución Política del Estado, debiendo fundamentar debidamente los motivos que inspiren la proposición. Este dictamen debe ser rendido dentro de los cinco días que sigan al en que la Comisión haya tenido conocimiento de la falta del Ejecutivo, que implique designación de Gobernador Interino, Provisional o Substituto; y
+V.Proponer para su designación, como Gobernador Interino, Provisional o Substituto, en las faltas temporales o definitivas del Gobernador Constitucional, a quien deba substituirlo, en los términos y condiciones que señala la Constitución Política del Estado, debiendo fundamentar debidamente los motivos que inspiren la proposición. Este dictamen debe ser rendido dentro de los cinco días que sigan al en que la Comisión haya tenido conocimiento de la falta del Ejecutivo, que implique designación de Gobernador Interino, Provisional o Substituto; y
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
-VI. Dictaminar sobre las propuestas que hubiesen presentado los partidos políticos registrados, para integrar el Tribunal de lo Contencioso Electoral a que se refiere el Art. 2º. de la Ley Electoral.
-
-Para conocer de los dictámenes relativos a esta Comisión, el Congreso deberá previamente erigirse en Colegio Electoral.
+VI.Dictaminar sobre las propuestas que se presenten para integran (sic) el Tribunal de lo Contencioso Electoral que se establece en la Constitución Política del Estado, en los términos de la ley en la materia.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -829,23 +815,29 @@ Si por motivo de su competencia debiera turnarse un negocio a dos o más Comisio
 
 ## TITULO CUARTO. De las Sesiones
 
-### CAPITULO III. Del Ceremonial
+### CAPITULO I. De la Iniciación de los Períodos de Sesiones
 
 ###### Artículo 54.
 
 Al abrirse la primera sesión de un período, el Presidente o en su caso el Vice-Presidente, hará la declaratoria respectiva, en los siguientes términos: EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE JALISCO, ABRE HOY EL (aquí el número de orden del período que corresponda) PERIODO (Ordinario o Extraordinario) DE SESIONES CORRESPONDIENTE AL (primer, segundo o tercer) AÑO DE SU EJERCICIO CONSTITUCIONAL". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 55.
 
-En la sesión inaugural de cada período se dará lectura a las actas levantadas con motivo de la última sesión celebrada por la Diputación Permanente, por la Junta Previa para la elección de Mesa Directiva y por el propio Congreso en el período inmediato anterior y deberán ser discutidas y aprobadas en su caso a mayoría de votos de los Diputados que integran el quórum. Si se trata de la primera sesión de una nueva Legislatura deberá hacerse lo mismo con la última acta de Junta Preparatoria del Colegio Electoral. Igualmente deberá darse cuenta con las comunicaciones que se hubieren dirigido al Congreso y que no hubieren sido acordadas de trámite por la Diputación Permanente, ordenándose lo que corresponda.
+En la sesión inaugural de cada periódico (sic) se dará lectura a las actas levantadas con motivo de la última sesión celebrada por la Diputación Permanente, por la Junta Previa para la elección de mesa directiva y por el propio Congreso en el período inmediato anterior y deberán ser discutidas y aprobadas en su caso, a mayoría de votos de los diputados que integran el quórum. Igualmente deberá darse cuenta con las comunicaciones que se hubieren dirigido al Congreso y que no hubiesen sido acordadas de trámite por la Diputación Permanente, ordenándose lo que corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 56.
 
-La sesión inaugural de cada primer período ordinario, que deberá ser invariablemente de carácter solemne, después de cumplirse con las prescripciones de los artículos inmediatamente precedentes, se sujetará al orden siguiente:
+La sesión inaugural de cada primer período ordinario deberá ser invariablemente de carácter solemne. Si el Titular del Poder Ejecutivo anuncia al Congreso que concurrirá personalmente a presentar su informe, después de cumplirse con las prescripciones de los artículos inmediatamente precedentes, en su caso se sujetará al orden siguiente:
 
 I. Nombramiento por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a u salida del mismo, al ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella. Al entrar al Salón de Sesiones del Congreso el ciudadano Gobernador y demás funcionarios y Representantes, los concurrentes deberán estar de pie, excepto el Presidente de la Cámara que permanecerá en su asiento, salvo el evento de que se toque el Himno Nacional, pues en tal caso deberá ponerse de pie;
 
-II. Ya en el Salón de Sesiones el ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el informe a que se refiere la Fracción III del Artículo 35 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+II. Ya en el Salón de Sesiones el ciudadano Gobernador del Estado, el presidente le concederá la palabra para que rinda el informe a que se refieren (sic) la fracción III del artículo 51 de la Constitución Política del Estado;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -857,15 +849,19 @@ IV. La Presidencia concederá la palabra a los Representantes de los Poderes Fed
 
 V. Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandonado el Salón de Sesiones, la Presidencia levantará la sesión, citando para la próxima.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 57.
 
-Si se tratare de la sesión inaugural de un período extraordinario en los casos que previenen los Artículos 14 y 35 Fracción XVI de la Constitución Política del Estado, se dará lectura al iniciarse, a la convocatoria respectiva y los negocios que lo hubieren motivado, se turnarán para su dictamen a las comisiones correspondientes; pero si la Diputación Permanente ya los hubiere dictaminado de conformidad a lo dispuesto por los artículos de esta Ley, recibirán desde luego primera lectura.
+Si se tratara de la sesión inaugural de un período extraordinario, en los casos que previenen los artículos 26, 35 fracción XII y 51 fracción XVII de la Constitución Política del Estado, al iniciarse se dará lectura a la convocatoria respectiva y los asuntos que lo hubiere (sic) motivado, se turnarán para su dictamen a las comisiones correspondientes; pero si la Diputación Permanente ya los hubiese dictaminado, de conformidad a lo dispuesto en esta Ley, recibirá desde luego primera lectura.
 
-### CAPITULO IV. De las Galerías
+### CAPITULO II. De la Forma y Periodicidad de las Sesiones
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 58.
 
-Durante los períodos ordinarios y extraordinarios previstos por el Artículo 13 de la Constitución Política del Estado, el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los negocios de su competencia, debiendo al efecto hacerlo en un mínimo de dos por semana.
+Durante los períodos ordinarios y extraordinarios, el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, debiendo al efecto, hacerlo en un mínimo de dos por semana.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1981)</small>
 
@@ -905,7 +901,9 @@ I. Concurra a ellas el ciudadano Presidente Constitucional de los Estados Unidos
 
 II. Rinda la protesta de ley el Ejecutivo del Estado, al asumir su cargo;
 
-III. Rinda el mismo funcionario, el informe preceptuado por la Fracción III del Artículo 35 de la Constitución Política del Estado; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+III. En su caso, concurra el Gobernador del Estado a rendir el informe preceptuado por la fracción III del artículo 51 de la Constitución; y
 
 IV. Ocurran en visita, Delegaciones Parlamentarias del Congreso de la Unión, de las Entidades Federativas o de otros países.
 
@@ -917,7 +915,7 @@ Serán sesiones extraordinarias, aquellas que se celebren en cumplimiento de las
 
 En las sesiones, los Diputados estarán obligados a comportarse con circunspección; si alguno de ellos alterara el orden, el Presidente le exhortará a que se conduzca con corrección.
 
-### CAPITULO V. De la Clausura de los Períodos de Sesiones
+### CAPITULO III. Del Ceremonial
 
 ###### Artículo 65.
 
@@ -977,7 +975,7 @@ Es facultad del Congreso, celebrar dentro o fuera de su Recinto Oficial, reunion
 
 La Legislatura podrá convocar a Congresos Nacionales de Legislaturas Estatales, de conformidad con las bases que acuerde la Asamblea.
 
-### CAPITULO UNICO. De la Materia de las Iniciativas
+### CAPITULO IV. De las Galerías
 
 ###### Artículo 79.
 
@@ -987,7 +985,7 @@ A las sesiones que no tengan carácter de secretas, podrá concurrir el público
 
 El público asistente a las galerías, deberá guardar respeto y abstenerse de tomar parte en los debates con cualquiera demostración. El Presidente estará facultado para desalojar la galería, cuando en alguna forma se perturbe el orden, sin perjuicio de la facultad que le corresponde, para ordenar la detención y consignación de los responsables, en caso de que los hechos que provoquen el desorden, constituyeren delito.
 
-### CAPITULO I. De la Forma y Naturaleza de los Dictámenes
+### CAPITULO V. De la Clausura de los Períodos de Sesiones
 
 ###### Artículo 81.
 
@@ -1017,11 +1015,13 @@ De la apertura y clausura de todo período de sesiones, se notificará al Ejecut
 
 ## TITULO QUINTO. De las Iniciativas
 
-### CAPITULO II. De la dispensa de Trámites
+### CAPITULO UNICO. De la Materia de las Iniciativas
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 85.
 
-Las iniciativas a que se refiere el Artículo 56 de la Constitución Política del Estado, podrán ser de Ley, de Decreto o de Acuerdo Económico.
+Las iniciativas a que se refiere el artículo 28 de la Constitución Política del Estado podrán ser de ley, de decreto o de acuerdo económico.
 
 ###### Artículo 86.
 
@@ -1061,7 +1061,7 @@ Las iniciativas que corresponda conocer a las comisiones, excepto la de Tesorer�
 
 ## TITULO SEXTO. De los Dictámenes
 
-### CAPITULO III. De las Discusiones
+### CAPITULO I. De la Forma y Naturaleza de los Dictámenes
 
 ###### Artículo 93.
 
@@ -1095,13 +1095,15 @@ Los Proyectos de Decreto que se refieren a asuntos electorales, no requerirán d
 
 Si un Proyecto constare de más de cien artículos, podrán darse las lecturas a que se refieren los artículos anteriores, parcialmente en el número de sesiones que acuerde la Asamblea.
 
-### CAPITULO IV. De las Votaciones
+### CAPITULO II. De la dispensa de Trámites
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 100.
 
-La dispensa de trámites consistirá en la omisión de las lecturas preceptuadas por este Ordenamiento. En ningún caso podrá ponerse a discusión un Proyecto de Ley o de Decreto sin haberse satisfecho el requisito del Artículo 17 de la Constitución Política del Estado.
+La dispensa de trámites consistirá en la omisión de las lecturas preceptuadas por este ordenamiento. En ningún caso podrá ponerse a discusión un proyecto de ley o de decreto, sin haberse satisfecho el requisito del artículo 29 de la Constitución Política del Estado.
 
-### CAPITULO V. De las Minutas
+### CAPITULO III. De las Discusiones
 
 ###### Artículo 101.
 
@@ -1167,7 +1169,11 @@ En caso de una moción suspensiva, se conocerá ésta de inmediato, pero sin que
 
 No podrá presentarse más de una moción suspensiva en la discusión de un dictamen.
 
-Artículo 113 (sic).- No podrá presentarse para la discusión de algún negocio en los términos del artículo 17 de la Constitución Local, por el Ejecutivo del Estado, por el Supremo Tribunal de Justicia o por los Ayuntamientos, en sus respectivos casos, podrán hacer su intervención en el momento de la discusión en que lo prefieran, previa solicitud que se haga al Presidente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 114.
+
+Los oradores enviados para la discusión de algún asunto, en los términos del artículo 29 de la Constitución Local, por el Ejecutivo del Estado, por el Supremo Tribunal de Justicia o por los ayuntamientos, en sus respectivos casos, podrán hacer su intervención en el momento de la discusión en que lo prefieran, previa solicitud que se haga al presidente.
 
 ###### Artículo 115.
 
@@ -1189,9 +1195,7 @@ Si un proyecto constare de más de cien artículos, se discutirá parcialmente p
 
 Si se tratare de la discusión de una proposición verbal o escrita de algún Diputado que no se refiera a una iniciativa de Ley, de Decreto o de Acuerdo Económico, que se desarrollará indefectiblemente en el punto correspondiente a asuntos generales de la sesión, se regirá por las disposiciones a que se refieren los artículos que anteceden.
 
-### CAPITULO UNICO. De la Contaduría Mayor de Hacienda
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+### CAPITULO IV. De las Votaciones
 
 ###### Artículo 120.
 
@@ -1243,7 +1247,7 @@ Se entiende por mayoría de votos, la correspondiente a la mitad más uno de los
 
 Se entiende por mayoría absoluta de votos, la correspondiente a la mitad más uno de los Diputados que integren el Congreso.
 
-### CAPITULO UNICO. De la Secretaría del Congreso
+### CAPITULO V. De las Minutas
 
 ###### Artículo 132.
 
@@ -1289,9 +1293,9 @@ Toda minuta de ley o de decreto se iniciará con las siguientes palabras: "El Co
 
 P.O. 16 DE ENERO DE 1992)
 
-### CAPITULO I. Del Procedimiento en el Juicio Político
+### CAPITULO UNICO. De la Contaduría Mayor de Hacienda
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
 
 ###### Artículo 141.
 
@@ -1357,9 +1361,7 @@ XXIII. Todas las demás que le correspondan, de acuerdo con esta Ley, y disposic
 
 P.O. 16 DE ENERO DE 1992)
 
-### CAPITULO II. De la Declaración de Procedencia del Juicio Penal
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+### CAPITULO UNICO. De la Secretaría del Congreso
 
 ###### Artículo 143.
 
@@ -1369,9 +1371,11 @@ Los empleos de la Secretaría del Congreso, serán desempeñados por las persona
 
 Corresponde a la Comisión de Tesorería, a la Secretaría del Congreso o a la Diputación Permanente en su caso, el control y la vigilancia de los empleados de la Secretaría, así como la proposición de las sanciones a que se hagan acreedores, por faltas en el desempeño.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
 ###### Artículo 145.
 
-Son funciones específicas del Oficial Mayor:
+Son funciones específicas de la Oficialía Mayor:
 
 I. Formular las actas de las sesiones y presentarlas para revisión a los Diputados Secretarios;
 
@@ -1391,15 +1395,41 @@ VI. Llevar al corriente los libros de Leyes y de Decretos, así como las version
 
 VII. Cuidar el archivo, de acuerdo con las disposiciones que dicte la Presidencia de la Comisión de Biblioteca, Archivo y Editorial;
 
-VIII. Cuidar de que haya en existencia, suficiente papelería y útiles de oficina, para el desempeño de las funciones a cargo de la Secretaría.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+VIII. Asistir a las sesiones, colaborar con la Presidencia para el desarrollo de la misma y ejecutar las instrucciones que esta dicte;
 
 > <small>(ADICIONADA, P.O. 8 DE JULIO DE 1993)</small>
 
 IX. Recibir y extender el acuse correspondiente, de las declaraciones de situación patrimonial que en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se presenten ante el Congreso de la Entidad, así como coordinar, supervisar y substanciar lo relativo al registro, control y verificación de las declaraciones de situación patrimonial a través de la Dirección respectiva; así como citar y requerir en los términos de Ley a quienes no cumplan con dicha obligación; y
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
-X. Las demás que le confieran la presente ley y su reglamento.
+X. Asistir a los diputados, para el correcto desarrollo del proceso legislativo;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XI. Elaborar programas de trabajo administrativo de acuerdo con las disposiciones aprobadas por la Asamblea;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XII. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y demás dependencias o unidades administrativas;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XIII. Formar el inventario pormenorizado de los bienes inmuebles, muebles y enseres del Congreso y sus dependencias y cuidar de la conservación de los mismos;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XIV. Ejecutar las instrucciones de las comisiones de Biblioteca, Archivo y Editorial y de Tesorería, para realizar obras editoriales del Congreso y administrar la librería;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XV. Por acuerdo de la Asamblea, certificar los documentos del archivo del Congreso; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XVI. Las demás que le confieran la presente ley y su reglamento.
 
 > <small>(REFORMADA SU NUMERACION, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -1413,7 +1443,7 @@ QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
 
 ###### Artículo 146.
 
-Corresponde a la Comisión de Responsabilidades del Congreso del Estado, instruir los procedimientos de los asuntos en que la Legislatura deba resolver, erigida en jurado de acusación y en jurado de sentencia, en contra de los servidores públicos que señala el Art. 49 de la Constitución Política Local.
+Corresponde a la Comisión de Responsabilidades instruir los procedimientos de los asuntos en que el Congreso deba resolver, erigido en Jurado de Acusación y en Jurado de Sentencia, en contra de los servidores públicos que señala el artículo 91 de la Constitución Política Local.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
 
@@ -1521,13 +1551,13 @@ III. Retirados el acusado y su defensor, se discutirá y resolverá sobre la pro
 
 QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
 
-### CAPITULO III. Disposiciones Comunes para los Capítulos I y II de este Título
+### CAPITULO I. Del Procedimiento en el Juicio Político
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 159.
 
-Cuando se presente denuncia ante el Congreso del Estado por el Ministerio Público, a fin de que pueda procederse penalmente en contra de alguno de los servidores públicos a que se refiere el Art. 50, de la Constitución Política del Estado, y de los Magistrados del Poder Judicial, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político. En este caso, la Comisión de Responsabilidades citará al denunciado y, con intervención de éste, recibirá las pruebas que le ofrezca el denunciante, a efecto de emitir dictamen, dentro de los treinta días hábiles siguientes, donde precise, si los hechos que se atribuyen al denunciado, pueden o no ser constitutivos de delito y, además si las pruebas desahogadas generan indicios suficientes para presumir la intervención en aquellos, por parte del denunciado.
+Cuando se presente denuncia ante el Congreso del Estado por el Ministerio Público, a fin de que pueda procederse penalmente en contra de alguno de los servidores públicos a que se refiere el artículo 93 de la Constitución Política del Estado, y de los magistrados del Poder Judicial, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político. En este caso, la Comisión de Responsabilidades citará al denunciado y, con intervención de éste, recibirá las pruebas que le ofrezca el denunciante, a efecto de emitir dictamen, dentro de los treinta días hábiles siguientes, donde precise, si los hechos que se atribuyen al denunciado, pueden o no ser constitutivos de delito y, además, si las pruebas desahogadas generan indicios suficientes para presumir la intervención en aquellos, por parte del denunciado.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
 
@@ -1559,9 +1589,9 @@ No podrá seguirse proceso penal a un servidor público de los que se hace refer
 
 QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
 
-### CAPITULO IV. De las Sanciones Administrativas
+### CAPITULO II. De la Declaración de Procedencia del Juicio Penal
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 164.
 
@@ -1663,7 +1693,7 @@ En todas las cuestiones referentes a la materia sustantiva o adjetiva, no previs
 
 QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
 
-### CAPITULO UNICO. De su Integración y Funcionamiento
+### CAPITULO III. Disposiciones Comunes para los Capítulos I y II de este Título
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -1723,83 +1753,121 @@ En todo lo no previsto en este capítulo, se estará a lo que al efecto dispone 
 
 (ADICIONA SU DENOMINACION, P.O. 16 DE ENERO DE 1992)
 
+### CAPITULO UNICO. De su Integración y Funcionamiento
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO IV. De las Sanciones Administrativas
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+
 ###### Artículo 181.
 
-En la última sesión de un período ordinario, el Congreso deberá elegir siete integrantes propietarios y cinco suplentes de la Diputación Permanente, que deba fungir durante todo el receso, aún cuando el Congreso funcione en períodos extraordinarios.
+La representación del Poder Legislativo radicará en la Diputación Permanente, durante los recesos del Congreso, aún cuando éste funcione en períodos extraordinarios. Son atribuciones de la Diputación Permanente:
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+I. Conceder las licencias y permisos a que se refiere las fracciones XIV, XV y XVI del artículo 35 de la Constitución Política del Estado;
+
+II. Dictaminar sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para da cuenta al Congreso;
+
+III. Nombrar al gobernado (sic) provisional en los casos que la Constitución Política del Estado lo determine, mientras se reúne el Congreso para que ratifique dicho nombramiento o haga nueva designación;
+
+IV. Convocar al Congreso a períodos extraordinarios; así como a sesiones extraordinarias en los casos de denuncia de grave responsabilidad de servidores públicos, en los que deba ejercer el congreso sus funciones de Colegio Electoral, para designar Gobernador del Estado y tomar la protesta de ley al mismo; y en los que tenga que convocar a elecciones extraordinarias;
+
+V. Llamar a los suplentes de la misma Diputación para cubrir las faltas absolutas o temporales de los propietarios;
+
+VI. Recibir el expediente relativo a la elección de Gobernador del Estado, para los efectos previstos en la Ley Electoral;
+
+VII. Presidir la junta preparatoria para instalar la nueva Legislatura;
+
+VIII. Nombrar a los servidores públicos de la Secretaría del Congreso y de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente período de sesiones del Congreso, para su ratificación o rectificación;
+
+IX.- Ejercer con carácter provisional las atribuciones que se otorgan al Congreso, para aprobar los nombramientos de los magistrados del Supremo Tribunal d4e Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal de lo Contencioso Electoral, que expidan el Gobernador o el Congreso del Estado en su caso, en los términos de los artículos 58, 62 y 67 de la Constitución Política del Estado. Las determinaciones serán sometidas al Pleno en el período ordinario inmediato de sesiones; y
+
+X. Aprobar provisionalmente los nombramientos de presidente y consejeros ciudadanos del Consejo Electoral del Estado, así como de presidente y consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y, someterlos a la consideración del Pleno para su resolución definitiva en el período ordinario inmediato.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 182.
 
-La Diputación Permanente elegirá de entre sus integrantes propietarios electos por la asamblea, un presidente, dos secretarios y dos prosecretarios y dos vocales, primero y segundo, y cinco suplentes.
+La Diputación Permanente entrará en funciones cuando el Congreso no esté en período ordinario de sesiones y será la responsable de despachar los asuntos pendientes, sometiendo sus resoluciones al Congreso con carácter de dictámenes.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 183.
 
-En las faltas accidentales del Presidente, lo substituirá el Primer Vocal y, en ausencia de éste, el Segundo Vocal.
+En la última sesión de un período ordinario, el Congreso deberá elegir nueve intehgr5antes propietarios y siete suplentes de la Diputación Permanente, que debe fungir durante todo el receso, aún cuando el congreso funcione en períodos extraordinarios.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 184.
 
-En caso de falta definitiva del Presidente, la propia diputación elegirá, de entre sus integrantes, quien lo sustituya.
+La Diputación Permanente elegirá de entre sus integrantes propietarios electos por la Asamblea, y precisamente en la sesión de su instalación, que se celebrará al día siguiente de que el Congreso hubiese clausurado el período ordinario inmediato anterior, un presidente, dos secretarios, dos prosecretarios, y dos vocales primero y segundo.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 185.
 
+En las faltas accidentales del presidente, lo substituirá el primer vocal y, en ausencia de éste, el segundo vocal.
+
 Los secretarios serán substituidos en sus ausencias por los prosecretarios.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
+Si las faltas a que se refieren (sic) este artículo no pudieren ser cubiertas por quienes deban suplirlos, se llamará a los suplentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 186.
 
-En caso de falta definitiva de los secretarios y de los prosecretarios, se procederá conforme al Art. 184.
+En caso de falta definitiva del presidente, la propia Diputación elegirá, de entre sus integrantes, quien lo substituya.
 
-Si las faltas a que se refieren los artículos anteriores no pudieren ser cubiertas por quienes deban suplirlos, se llamará a los suplentes.
+En caso de falta definitiva de los secretarios y de los prosecretarios se procederá conforme al artículo 184.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO , P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 187.
 
-La diputación permanente comunicará al Ejecutivo, la forma en que quedó integrada, a más tardar el día hábil que siga al de su instalación. Igual comunicación enviará a las demás autoridades que señala el artículo 84, tanto al instalarse como al clausurar sus labores.
+La Diputación Permanente comunicará al Ejecutivo, la forma en que quedó integrada, a más tardar el día hábil que siga al de su instalación. Igual comunicación enviará a las demás autoridades que señala el artículo 84 de esta ley, tanto al instalarse como al clausurar sus labores.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO , P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 188.
 
-La Diputación Permanente deberá celebrar cuando menos una sesión semanal y podrá funcionar con la asistencia de cinco de sus componentes.
+La Diputación Permanente deberá celebrar, cuando menos, una sesión semanal, y podrá funcionar con la asistencia de cinco de sus componentes.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO , P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 189.
 
-Los asuntos que hayan quedado pendientes de dictamen en el período inmediato anterior, y los que se hayan recibido durante el receso, deberán ser dictaminados por la diputación permanente, la que dará cuenta con ellos al Congreso, en el período ordinario siguiente, o en el extraordinario que se celebre, si fuere el caso; pero, de ninguna manera, podrá la diputación permanente, dictaminar sobre asuntos que correspondan a las comisiones de Tesorería, responsabilidades y asuntos electorales.
+Cuando la Legislatura se encuentre en período o sesiones extraordinarias, la Diputación Permanente seguirá conociendo y despachando los asuntos de su competencia, si éstos no fueron incluidos en la convocatoria.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO , P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 190.
 
-A fin de facilitar el despacho de los dictámenes que emita la diputación permanente, ésta deberá distribuir, entre sus integrantes, las comisiones a que se refiere el capítulo III, del título III, de esta Ley, Comisiones que tendrán el carácter de internas. Dichas comisiones formularán los proyectos que le correspondan, con la obligación de rendirlos en un término de quince días, contados a partir de la fecha en que hayan recibido los documentos relativos. La diputación permanente resolverá si los proyectos formulados por las comisiones Internas los hace suyos, como dictámenes, o bien, si designa a otros integrantes de ella para que formulen un nuevo proyecto.
+Los asuntos que hayan quedado pendientes de dictamen en el período inmediato anterior y los que se hayan recibido durante el receso, deberán ser dictaminados por la Diputación Permanente.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+De ninguna manera podrá la Diputación Permanente, dictaminar sobre asuntos que correspondan a las comisiones de Tesorería, Responsabilidades y Asuntos Electorales.
+
+En la segunda sesión de los períodos ordinarios, la Diputación Permanente dará cuenta con los dictámenes de los asuntos e iniciativas que hayan sido de su conocimiento durante el receso inmediato anterior, para que el Congreso continúe con el proceso legislativo.
+
+> <small>(REFORMADO , P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 191.
 
-El presidente y los secretarios de la diputación permanente, tendrán las mismas facultades que el presidente y los secretarios del Congreso, en lo conducente.
+A fin de facilitar el despacho de los dictámenes que emita la Diputación Permanente ésta deberá distribuir, entre sus integrantes, las comisiones a que se refiere el capítulo III del título tercero, con excepción de las señaladas en el segundo párrafo del artículo que antecede, comisiones que tendrán el carácter de internas. Dichas comisiones formularán los proyectos que les correspondan, con la obligación de rendirlos en un término de quince días, contados a partir de la fecha en que hayan recibido los documentos relativos, salvo aquellos que así lo acuerde la propia permanente.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+La Diputación Permanente resolverá si los proyectos formulados por las comisiones internas los hace suyos, como dictámenes, o bien, si designa a otros integrantes de ella para que formulen un nuevo proyecto.
+
+> <small>(REFORMADO , P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 192.
 
-Las sesiones, discusiones y votaciones de la diputación permanente se regirán por las disposiciones aplicables, relativas al Congreso.
+El presidente y los secretarios de la Diputación Permanente tendrán las mismas facultades que el presidente y los secretarios del Congreso, en lo conducente.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADO , P.O. 22 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 193.
 
-La representación del Poder Legislativo radicará en la diputación permanente, durante los recesos del Congreso. Aun cuando este se encuentre funcionando en períodos extraordinarios de sesiones.
+Las sesiones, discusiones y votaciones de la Diputación Permanente se regirán por las disposiciones aplicables, relativas al Congreso.
 
 ## TRANSITORIOS
 
@@ -1920,3 +1988,15 @@ Unico. Este decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE JULIO DE 1993
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE DICIEMBRE DE 1994
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Artículo Segundo. La Diputación Permanente se integrará conforme a lo dispuesto en el artículo 197 de esta ley, a partir del receso del Congreso del Estado que se declare al clausurar el último período ordinario de la LIII Legislatura.
+
+Artículo Tercero. La reunión prevista en el artículo 4º. de esta ley, por esta única vez se realizará a las once horas del día 13 de marzo de 1995.
+
+Asimismo la reunión de sesión prevista en la fracción VIII del artículo 6º. de esta ley, para la instalación de la LIV Legislatura, se verificará a las diez horas del 15 de marzo de 1995.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan al presente decreto.
