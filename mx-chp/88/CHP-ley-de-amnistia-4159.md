@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-amnistia-4159"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-26"
-last_updated: "1994-01-27"
+last_updated: "1994-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE AMNISTÍA
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 27 DE ENERO DE 1994.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 4 DE FEBRERO DE 1994.</small>
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 26 de enero de 1994.
 
@@ -71,7 +71,7 @@ LAS AUTORIDADES ADMINISTRATIVAS Y JUDICIALES COMPETENTES CANCELARAN LAS ORDENES 
 
 ###### ARTICULO 5°.
 
-LOS EFECTOS A QUE SE REFIEREN LOS ARTICULOS 3º Y 4º., SOLO SE PRODUCIRAN A PARTIR DE QUE LA COMISION HAGA LA DECLARATORIA DEL CESE DEFINITIVO DE LAS HOSTILIDADES.
+LOS EFECTOS A QUE SE REFIEREN LOS ARTICULOS 3o. Y 4o., SOLO SE PRODUCIRAN A PARTIR DE QUE LA COMISION HAGA LA DECLARATORIA DEL CESE DEFINITIVO DE LAS HOSTILIDADES.
 
 ###### ARTICULO 6°.
 
