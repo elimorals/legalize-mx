@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2004-04-30"
+last_updated: "2004-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -235,7 +235,7 @@ d).- Que el daño que iba a causar el agresor era fácilmente reparable después
 
 Se presumirá que concurren los requisitos de la legítima defensa respecto de aquél que, en el momento mismo de estarse verificando una invasión por escalamiento o fractura de los cercados, paredes o entradas de su casa, o departamento que habite o de sus dependencias, la rechazare, cualquiera que sea el daño que cause al invasor.
 
-Igual presunción favorecerá al que dañaré a un extraño a quien encontrare en el interior de su hogar o de la casa en donde se encuentre su familia, aunque no sea su hogar habitual; o en un hogar ajeno que tenga obligación de defender o en el local donde tenga sus bienes o donde se encuentren bienes ajenos que esté legalmente obligado a defender, si la presencia del extraño revela evidentemente una agresión.
+Igual presunción favorecerá al que dañare a un extraño a quien encontrare en el interior de su hogar o de la casa en donde se encuentre su familia, aunque no sea su hogar habitual; o en un hogar ajeno que tenga obligación de defender o en el local donde tenga sus bienes o donde se encuentren bienes ajenos que esté legalmente obligado a defender, si la presencia del extraño revela evidentemente una agresión.
 
 V.- La necesidad en que se vea el infractor de salvar su propia persona o sus bienes, o la persona o bienes de otro, de un peligro real, grave e inminente, si no existe otro medio practicable y menos perjudicial y no se tenga el deber jurídico de afrontar ese peligro, o éste no haya sido buscado o provocado por el infractor o por la persona a la que trata de salvar;
 
@@ -1417,6 +1417,8 @@ El reo condenado a destitución de empleo o cargo, suspensión o inhabilitación
 
 #### SECCION CUARTA.- ASOCIACION DELICTUOSA Y PANDILLERISMO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 179.
 
 Son armas e instrumentos prohibidos:
@@ -1447,11 +1449,9 @@ Las disposiciones de esta sección se aplicarán salvo lo que disponga la Legisl
 
 ###### Artículo 183.
 
-Se impondrá prisión de dos a seis años y multa de diez a cincuenta días de salario, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la sanción que le corresponda por el delito o delitos que cometa.
+Se impondrá prisión de seis meses a seis años y multa de diez a cincuenta días de salario, al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la sanción que le corresponda por el delito o delitos que cometa.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
-
-Cuando el integrante de la asociación haya sido servidor público de alguna corporación policial, la pena a que se refiere el párrafo anterior se aumentará hasta en una mitad, y se le inhabilitará, de uno a cinco años para desempeñar otro cargo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1468,6 +1468,44 @@ Cuando se ejecuten uno o más delitos por pandilla, se aplicará a los que inter
 ###### Artículo 186.
 
 Se entiende por pandilla la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 186 Bis.
+
+Habrá delincuencia organizada cuando un grupo estructurado de tres o más personas actúen concertada y jerárquicamente, con el propósito de realizar conductas en forma permanente o reiterada o con fines predominantemente lucrativos que, por sí o unidas a otras, tengan como fin o resultado, la comisión de alguno o algunos de los delitos previstos en este Código.
+
+Al miembro de delincuencia organizada se le sancionará con prisión de uno a diez años y multa de doscientos cincuenta a quince mil días de salario, independientemente de la sanción que le corresponda por el delito que cometiere.
+
+Cuando el miembro de delincuencia organizada realice o tenga asignadas en ésta, funciones de administración, dirección o supervisión, la sanción señalada en el párrafo anterior se aumentará hasta en una mitad.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 186 Ter.
+
+Si las conductas correspondientes a la delincuencia organizada o a la asociación delictuosa las realiza alguien que sea o haya sido servidor público de la procuración o administración de justicia, de alguna corporación de seguridad pública, de la administración de recursos públicos o miembro de una empresa de Seguridad Privada; se le aumentará la sanción correspondiente hasta en una mitad y se le impondrá, además, destitución, en su caso, e inhabilitación de uno a diez años para desempeñar otro empleo, cargo o comisión públicos, o para prestar servicios en alguna de las empresas de seguridad privada.
+
+Cuando los miembros de la delincuencia organizada o participantes de la asociación delictuosa utilicen para delinquir a menores de edad o incapaces, las penas correspondientes a estos ilícitos se aumentarán hasta en una mitad.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 186 Quáter.
+
+El plazo de la prescripción de la acción y la sanción penal de las conductas delictivas se duplicará cuando se cometan por la delincuencia organizada.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 186 Quinquies
+
+El miembro de la delincuencia organizada o participante de la asociación delictuosa que preste ayuda eficaz para la investigación y persecución de otro u otros participantes de la misma, podrá recibir los beneficios siguientes:
+
+I.- Cuando no exista averiguación previa en su contra, los elementos de prueba que aporte o se deriven de la averiguación previa iniciada por su colaboración, no serán tomados en cuenta en su contra. Este beneficio sólo podrá otorgarse en una ocasión respecto de la misma persona;
+
+II.- Cuando exista una averiguación previa en la que el colaborador esté implicado y éste aporte indicios para la consignación de otros participantes de la delincuencia organizada, o asociación delictuosa, la pena que le correspondería por los delitos por él cometidos, podrá ser reducida hasta en dos terceras partes;
+
+III.- Cuando durante el proceso penal, el indiciado aporte pruebas ciertas, suficientes para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, la pena que le correspondería por los delitos por los que se le juzga, podrá reducirse hasta en una mitad, y
+
+IV.- Cuando un sentenciado aporte pruebas ciertas, suficientemente valoradas por el juez, para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, podrá otorgársele la remisión parcial de la pena, hasta en dos terceras partes de la pena privativa de libertad impuesta.
 
 #### SECCION SEGUNDA.- VIOLACION DE CORRESPONDENCIA
 
@@ -1745,15 +1783,23 @@ La misma sanción establecida en el artículo anterior se impondrá a quien púb
 
 Se impondrá prisión de cinco a diez años y multa de cincuenta a mil días de salario, al responsable del delito de corrupción de menores o incapaces.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 218.
 
-Comete el delito a que se refiere el artículo anterior el que procure o facilite la corrupción de un menor de dieciséis años de edad o de un incapaz, mediante actos de exhibicionismo corporal, lascivos o sexuales, o lo induzca a la práctica de la mendicidad, la ebriedad, al consumo de narcóticos, a la prostitución, al homosexualismo, a formar parte de una asociación delictuosa o pandilla o a cometer cualquier delito.
+Comete el delito a que se refiere el artículo anterior el que procure o facilite la corrupción de un menor de dieciséis años de edad o de quien no tuviere la capacidad de comprender el significado del hecho, mediante actos de exhibicionismo corporal, lascivos o sexuales, o lo induzca a la práctica de la mendicidad, la ebriedad, a la prostitución, al homosexualismo, a formar parte de una asociación delictuosa o pandilla o a cometer cualquier delito.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+Artículo 218 bis.- También comete el delito previsto en el artículo 217 quien obligue, procure, facilite, induzca, fomente, proporcione, promueva o favorezca sin autorización legal, el consumo de enervantes, estupefacientes, psicotrópicos o substancias tóxicas y demás substancias o vegetales que determine la Ley General de Salud, cuyo uso esté prohibido o controlado; o induzca a que trafique o comercie dichas substancias, por parte de un menor de dieciséis años de edad o de quien no tuviere la capacidad de comprender el significado del hecho. La comisión de las conductas a que se refiere este artículo se sancionará con pena de dos a doce años de prisión y multa de cien a mil doscientos días de salario.
+
+Cuando un médico legalmente autorizado u Hospital atiendan a un farmacodependiente menor de dieciséis años de edad que posea para su estricto consumo personal algún enervante, estupefaciente, psicotrópico o cualquier otra substancia tóxica y demás substancias o vegetales que determine la Ley General de Salud cuyo uso esté prohibido o controlado; o a un menor de dieciséis años de edad que se encuentre bajo el influjo de las substancias antes descritas, deberá hacerlo del conocimiento del Ministerio Público y de las autoridades sanitarias tan pronto como se enteren, para los efectos legales correspondientes y para brindarles el tratamiento que corresponda.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 219.
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ello éste adquiera los hábitos del alcoholismo, uso de enervantes, estupefacientes, psicotrópicos o substancias tóxicas, se dedique a la prostitución o a prácticas homosexuales, o forme parte de una asociación delictuosa, la sanción de prisión será de seis a doce años y multa hasta de doscientos días de salario.
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ello éste adquiera los hábitos del alcoholismo, uso de enervantes, estupefacientes, psicotrópicos o substancias tóxicas, se dedique a la prostitución o a prácticas homosexuales, o forme parte de una asociación delictuosa, la sanción de prisión será de siete a trece años y multa hasta de mil trescientos días de salario.
 
 ###### Artículo 220.
 
@@ -1771,11 +1817,11 @@ Incurrirán en la misma sanción establecida en el artículo anterior, los padre
 
 Para los efectos de los tres artículos anteriores se considerará como empleado en la cantina, taberna o centro de vicio al menor de dieciséis años que por un salario, la sola comida, comisión de cualquier índole o cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 224.
 
-Las sanciones que señalan los artículos 217, 219 y 221 se duplicarán cuando el delincuente percibiere un lucro derivado de su conducta o sea ascendiente, hermano, hermana, padrastro, madrastra, tutor o tutora del menor o persona que viva en la casa de éste. En el segundo supuesto se privará al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes.
+Las sanciones que señalan los artículos 217, 218, 218 bis, 219 y 221 se duplicarán cuando el delincuente percibiere un lucro derivado de su conducta o sea ascendiente, hermano, hermana, padrastro, madrastra, tutor o tutora del menor o persona que viva en la casa de éste. En el segundo supuesto se privará al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
 
@@ -2135,7 +2181,7 @@ El testigo, el perito o el intérprete que se retracten espontáneamente de sus 
 
 #### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 257.
 
@@ -2389,9 +2435,27 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 ###### Artículo 283.
 
-Comete el delito de sustracción de menores, el familiar de un menor de catorce años de edad que lo sustrajere de la custodia o guarda de quien legítimamente la tuviere, o bien lo retuviere sin la voluntad de esta última.
+Comete el delito de sustracción de menores, el familiar de un menor de catorce años de edad que lo sustrajere de la custodia o guarda de quien legítimamente la tuviere, sin la voluntad de esta última.
 
-A los responsables de este delito se les aplicarán de dos a cinco años de prisión y multa de cien a mil días de salario; pero si antes de dictarse sentencia, los acusados entregaren al menor o menores de que se trataren, a quien legalmente correspondiere la custodia o guarda de los mismos, la prisión será hasta de un año y multa de cien a quinientos días de salario.
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+Artículo 283 BIS.- También comete el delito de sustracción de menores el ascendiente, pariente colateral o afín hasta el cuarto grado que retenga a un menor en los siguientes casos:
+
+I.- Cuando haya perdido la patria potestad o ejerciendo ésta se encuentre suspendido o limitado;
+
+II.- Que no tenga la guarda y custodia provisional o definitiva o la tutela sobre él;
+
+III.- Que no permita las convivencias decretadas por resolución judicial o estipuladas en convenio, y
+
+IV.- Que teniendo la guarda y custodia compartida, no devuelva al menor en los términos de la resolución que se haya dictado para ello o del convenio signado entre las partes que legalmente pueden acordar respecto de la guarda y convivencia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 283 Ter.
+
+A los responsables del delito previsto en los artículos 283 y 283 Bis de este Código, se les aplicarán de dos a cinco años de prisión y multa de cien a mil días de salario; pero si antes de dictarse sentencia, los acusados entregaren al menor o menores de que se trataren, a quien legalmente correspondieren la custodia o guarda de los mismos, la prisión será hasta de un año y multa de cien a quinientos días de salario.
+
+Este delito se perseguirá por querella.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2507,9 +2571,11 @@ Se comete el delito de atraco cuando los hechos a que se refiere el artículo an
 
 Por la comisión del delito de asalto o del delito de atraco, se impondrá prisión de ocho a veinte años y multa de cincuenta a quinientos días de salario, independientemente de las penas que correspondan por cualquier otro hecho delictuoso, que resulte cometido al mismo tiempo o con motivo de ellos.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 297.
 
-Si los delitos a que se refieren los artículos 294 y 295, se realizaren de noche o si el asaltante o atracador estuviere armado, o si aquellos delitos se cometieren por varias personas conjuntamente, la prisión será de doce a veinticinco años y multa de cien a mil días de salario.
+Si los delitos a que se refieren los artículos 294 y 295, se realizaren de noche o si el asaltante o atracador estuviere armado, o si aquellos delitos se cometieren por varias personas conjuntamente, la prisión será de doce a veinticinco años y multa de cien a mil días de salario, independientemente de las penas que correspondan por cualquier otro hecho delictuoso que resulte cometido al mismo tiempo o con motivo de ellos.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
@@ -2573,11 +2639,11 @@ Si el secuestrado fallece en el tiempo en que se encuentra privado de la liberta
 
 Bis.- Se impondrá de dieciocho a setenta años de prisión y multa de doscientos a dos mil días de salario, cuando la privación arbitraria de la libertad, por cualquier lapso, que tenga el carácter de plagio o secuestro, se cometa en contra de: incapaces física y mentalmente, menores de dieciséis años, mujeres, mayores de sesenta años o cualesquiera que padezca una enfermedad que requiera del suministro de medicamentos, radicaciones o la evaluación mediante exámenes de laboratorio químico en su persona y que de ser suspendido alteren su salud o pongan en peligro su vida y a cualquier persona que padezca una enfermedad crónica o grave o tenga una discapacidad que requiera de cuidados especiales.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 303.
 
-Para efectos de la fracción V del artículo anterior, comete el delito de robo de infante la persona que, sin ser su familiar, se apodere de un menor de catorce años, sin derecho; sin consentimiento de la persona que ejerciere la patria potestad, la tutela, la custodia o la guarda sobre el mismo; mediante engaño o aprovechándose de un error.
+Para efectos de la fracción V del artículo 302 de este Código, comete el delito de robo de infante la persona que, sin ser su familiar, se apodere de un menor de catorce años, sin derecho; sin consentimiento de la persona que ejerciere la patria potestad, la tutela, la custodia o la guarda sobre el mismo; mediante engaño o aprovechándose de un error.
 
 ###### Artículo 304.
 
@@ -2590,6 +2656,8 @@ CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 #### SECCION PRIMERA.- ROBO
 
 #### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 305.
 
@@ -3089,15 +3157,17 @@ IV.- Cuando el valor de lo robado sobrepasare doscientos cincuenta días de sala
 
 V.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes, se impondrá prisión de cinco a doce años y multa de quinientos a mil días de salario.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 375.
 
-Se impondrá la sanción establecida en la fracción IV del artículo 374:
+Se impondrá la sanción establecida en la fracción V del artículo 374:
 
-I.- A quien enajene o adquiera uno o más vehículos de motor de los enumerados en la mencionada fracción IV del artículo 374, a sabiendas de que dicho vehículo o vehículos son robados;
+I.- A quien enajene o adquiera uno o más vehículos de motor de los enumerados en la mencionada fracción V del artículo 374, a sabiendas de que dicho vehículo o vehículos son robados;
 
-II.- A quien enajene o adquiera por tres o más veces uno o más de los vehículos enumerados en la mencionada fracción IV del artículo 374, sin cerciorarse previamente de su legítima procedencia;
+II.- A quien enajene o adquiera por tres o más veces uno o más de los vehículos enumerados en la mencionada fracción V del artículo 374, sin cerciorarse previamente de su legítima procedencia; y
 
-III.- La misma sanción se aplicará a quienes desarmen los vehículos a que se refieren las fracciones anteriores y dispongan de ellos por partes.
+III.- La misma sanción se aplicará a quienes desarmen los vehículos a que se refieren las fracciones anteriores o dispongan de ellos por partes.
 
 ###### Artículo 376.
 
@@ -3125,9 +3195,11 @@ Para estimar la cuantía del robo, se atenderá al valor comercial de la cosa y 
 
 Las sanciones establecidas en el artículo anterior se aplicarán en los casos de tentativa de robo, cuando no fuere posible determinar el monto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 380.
 
-Además de la sanción que le corresponda al delincuente, conforme al artículo 374, se le impondrán de seis meses a seis años de prisión, en los casos siguientes:
+Además de la sanción que le corresponda al delincuente, conforme a los artículos 374 y 378, se le impondrán de seis meses a seis años de prisión, en los casos siguientes:
 
 I.- Si el robo se ejecuta con violencia contra la víctima de aquél o contra otra u otras personas que se encuentren en el lugar de los hechos;
 
@@ -3229,11 +3301,13 @@ Al que se le imputare el hecho de haber tomado una cosa ajena y acredite haberla
 
 ###### Artículo 390.
 
-Comete el delito de robo de ganado, el que se apodere de ganado bovino, caballar, mular, cabrío, ovino, porcino o asnal.
+Comete el delito de robo de ganado, el que se apodere de ganado bovino, caballar, mular, cabrío, ovino, porcino, asnal o de colmenas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 391.
 
-Comete el delito de robo de instrumentos de labranza o de frutos, quien se apodere de aquéllos o de éstos, en el lugar en que respectivamente se empleen los primeros o se produzcan los segundos, estén pendientes o ya recolectados.
+Comete el delito de robo de instrumentos de labranza o de equipo apícola o de frutos, quien se apodere de cualquiera de ellos, en el lugar en que respectivamente se empleen los dos primeros o se produzcan los últimos, estén pendientes o ya recolectados.
 
 ###### Artículo 392.
 
@@ -3281,9 +3355,11 @@ I.- El hecho de disponer de una cosa, su dueño, si le ha sido embargada y la ti
 
 II.- El hecho de que una persona haga aparecer, como suyo, un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 398.
 
-No se sancionará como abuso de confianza, la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela, o disponer de ella como dueño.
+No se sancionará como abuso de confianza, la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela, o disponer de ella como dueño. Se sancionará como abuso de confianza la retención de la cosa recibida, por quien, requerido judicial o notarialmente se oponga sin causa legal a entregarla a quien legítimamente le corresponde.
 
 ###### Artículo 399.
 
@@ -3395,7 +3471,7 @@ XXI.- Al que se coloque en estado de insolvencia con el objeto de eludir el cump
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-XXII.- Al que hiciere creer a un persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate.
+XXII.- Al que hiciere creer a una persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate.
 
 > <small>(ADICIONADA, P.O. 24 DE MARZO DE 2000)</small>
 
@@ -3491,7 +3567,9 @@ II.- De tres meses a tres años de prisión y multa de dos a veinte días de sal
 
 III.- De dos a cuatro años de prisión y multa de veinte a cincuenta días si el daño excediera del equivalente a cincuenta días de salario, y
 
-IV.- Cuando por imprudencia se ocasionare daño en propiedad ajena, que no sea mayor de lo equivalente a cien veces el salario mínimo, sólo se perseguirá a petición de parte y se sancionará con multa hasta por el valor del daño causado.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+IV.- Cuando por imprudencia se ocasionare daño en propiedad ajena, que no sea mayor de lo equivalente a cien días el salario mínimo, sólo se perseguirá a petición de parte y se sancionará con multa hasta por trescientos días de salario.
 
 ###### Artículo 415.
 
@@ -4130,3 +4208,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2004.
+
+DECRETO QUE REFORMA DIVERSOS ARTICULOS DEL CODIGO DE DEFENSA SOCIAL
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2004.
+
+DECRETO QUE REFORMA LOS ARTICULOS 297, 375, 380, 390, 391, 398 Y 414 DEL CODIGO DE DEFENSA SOCIAL.
+
+PRIMERO.- El presente Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
