@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1993-12-23"
+last_updated: "2004-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 2004.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
@@ -76,7 +76,7 @@ e). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1973)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1986)</small>
 
-###### ARTICULO 2o.
+###### ARTICULO 2º.
 
 bis.- También formarán parte del sistema las monedas metálicas acuñadas en platino, en oro y en plata, cuyo peso, cuño, ley y demás características señalen los decretos relativos.
 
@@ -116,17 +116,21 @@ Los pagos en efectivo de obligaciones en moneda nacional cuyo importe comprenda 
 
 Los pagos cuya realización no implique entrega de efectivo se efectuarán por el monto exacto de la obligación.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 4o.
 
-El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+Los billetes del Banco de México tendrán poder liberatorio ilimitado y deberán contener una o varias características que permitan identificar su denominación a las personas invidentes.
 
-D.O.F. 31 DE DICIEMBRE DE 1956
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
 
 ###### ARTICULO 5°.
 
 Las monedas metálicas a que se refieren los incisos b) y siguientes del artículo 2o. de esta ley, tendrán poder liberatorio limitado al valor de cien piezas de cada denominación en un mismo pago.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2004)</small>
+
+Las citadas monedas deberán ser acuñadas de manera tal que sean identificables por las personas invidentes.
 
 ###### ARTICULO 6°.
 
@@ -134,7 +138,7 @@ Las oficinas públicas de la Federación, de los Estados y de los Municipios, es
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1981)</small>
 
-###### ARTICULO 7o.
+###### ARTICULO 7º.
 
 Las obligaciones de pago de cualquier suma en moneda mexicana se denominarán invariablemente en pesos y, en su caso, sus fracciones. Dichas obligaciones se solventarán mediante la entrega, por su valor nominal, de billetes del Banco de México o monedas metálicas de las señaladas en el artículo 2o.
 
@@ -244,6 +248,8 @@ Queda prohibida la imitación o reproducción total o parcial, de monedas metál
 
 Queda igualmente prohibida la comercialización de reproducciones o imitaciones no autorizadas.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 Las personas que contravengan lo dispuesto en este artículo, serán sancionadas administrativamente por la Secretaría de Hacienda y Crédito Público, con multa hasta de un millón de pesos. El importe de la multa respectiva se fijará oyendo al Banco de México y tomando en cuenta el número de las imitaciones o reproducciones, los efectos de éstas en la seguridad de la circulación monetaria, la utilidad percibida por el infractor y las circunstancias de éste.
 
 > <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
@@ -266,7 +272,7 @@ Cuando las piezas sean auténticas serán devueltas a su tenedor; si por el cont
 
 ###### ARTICULO 20.
 
-Si las monedas respecto a las cuales exista presunción de que son falsas o han sido alteradas, llegan a poder de una institución de crédito por medio diverso al previsto en el artículo anterior, dicha institución, como auxiliar del Ministerio Público y de la Policía Judicial, deberá dar parte de inmediato a las autoridades competentes, poniendo las piezas respectivas a su disposición. Las citadas autoridades deberán remitir al Banco de México, para su análisis, las piezas objeto de la averiguación o instrucción, quedando las mismas al cuidado y bajo la responsabilidad de éste último.
+Si las monedas respecto a las cuales exista presunción de que son falsas o han sido alteradas, llegan a poder de una institución de crédito por medio diverso al previsto en el artículo anterior, dicha institución, como auxiliar del Ministerio Público y de la Policía Judicial, deberá dar parte de inmediato a las autoridades competentes, poniendo las piezas respectivas a su disposición. Las citadas autoridades deberán remitir al Banco de México, para su análisis, las piezas objeto de la averiguación o instrucción, quedando las mismas al cuidado y bajo la responsabilidad de este último.
 
 Cuando, en los términos previstos en este artículo, se proceda al aseguramiento de monedas, su tenedor tendrá derecho a que la institución de crédito respectiva le extienda un recibo provisional en el que se identifiquen las piezas de que se trate, en tanto la autoridad competente le entrega, por conducto de la propia institución, el recibo definitivo.
 
@@ -316,9 +322,7 @@ No obstante lo prevenido en el párrafo anterior, deberán entregar monedas de o
 
 ###### ARTICULO 4°.
 
-Los billetes del Banco de México tendrán poder liberatorio ilimitado.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1969)</small>
+Las obligaciones de pago en moneda extranjera contraídas dentro de la República para ser cumplidas en ésta, se solventarán en los términos del artículo octavo de esta ley, a menos que el deudor demuestre, tratándose de operaciones de préstamo, que la moneda recibida del acreedor fue moneda nacional de cualquier clase, o que, tratándose de otras operaciones, la moneda en que se contrajo originalmente la obligación fue moneda nacional de cualquier clase; en estos casos, las obligaciones de referencia se solventarán en monedas nacionales, en los términos de los artículos cuarto y quinto de esta ley, respectivamente, al tipo que se hubiere tomado en cuenta al efectuarse la operación para hacer la conversión de la moneda nacional recibida a la moneda extranjera o, si no es posible fijar ese tipo, a la paridad legal.
 
 ###### ARTICULO 5°.
 
@@ -398,7 +402,7 @@ Se derogan los artículos 6°., 7°., 8°., 9°., 10, 11, 12 y 13, transitorios 
 
 Queda disuelta la Junta Central Bancaria, la cual devolverá a los Bancos el importe de las cantidades que éstos tengan depositadas en su poder de acuerdo con el artículo décimo, transitorio, de la Ley de 25 de julio de 1931 y entregará al Banco de México los libros y documentos de su contabilidad, así como los fondos que constituyan la Reserva Monetaria y las reservas legales de la emisión confiadas a su guarda o vigilancia.
 
-La funciones que, en cuanto a la autorización de la emisión de billetes por redescuento, atribuyó a la Junta Central Bancaria la Ley de 25 de julio de 1931, serán ejercitadas por los consejeros nombrados por los accionistas de la serie "B" del Banco de México. Las funciones de vigilancia que a la propia Junta Central Bancaria atribuyó la Ley de 25 de julio de 1931, sobre los fondos que integran la Reserva Monetaria y que deberá conservar el Banco de México en cajas o bóvedas especiales con separación completa de sus demás existencias, fondos o valores, así como las funciones de vigilancia sobre las reservas legales de la emisión, serán ejercitadas por la Comisión Nacional Bancaria, la cual practicará visitas siempre que lo estime conveniente y por lo menos una vez cada mes, para verificar la debida constitución y conservación de las reservas dichas, y publicará mensualmente, en el "Diario Oficial" y en dos de los diarios de mayor circulación de la capital de la República, el resultado de la verificación.
+Las funciones que, en cuanto a la autorización de la emisión de billetes por redescuento, atribuyó a la Junta Central Bancaria la Ley de 25 de julio de 1931, serán ejercitadas por los consejeros nombrados por los accionistas de la serie "B" del Banco de México. Las funciones de vigilancia que a la propia Junta Central Bancaria atribuyó la Ley de 25 de julio de 1931, sobre los fondos que integran la Reserva Monetaria y que deberá conservar el Banco de México en cajas o bóvedas especiales con separación completa de sus demás existencias, fondos o valores, así como las funciones de vigilancia sobre las reservas legales de la emisión, serán ejercitadas por la Comisión Nacional Bancaria, la cual practicará visitas siempre que lo estime conveniente y por lo menos una vez cada mes, para verificar la debida constitución y conservación de las reservas dichas, y publicará mensualmente, en el "Diario Oficial" y en dos de los diarios de mayor circulación de la capital de la República, el resultado de la verificación.
 
 ###### ARTICULO TERCERO.
 
@@ -452,7 +456,7 @@ Al efecto, los exportadores estarán obligados a comprobar ante las Aduanas resp
 
 ###### ARTICULO 4°.
 
-Las obligaciones de pago en moneda extranjera contraídas dentro de la República para ser cumplidas en ésta, se solventarán en los términos del artículo octavo de esta ley, a menos que el deudor demuestre, tratándose de operaciones de préstamo, que la moneda recibida del acreedor fue moneda nacional de cualquier clase, o que, tratándose de otras operaciones, la moneda en que se contrajo originalmente la obligación fue moneda nacional de cualquier clase; en estos casos, las obligaciones de referencia se solventarán en monedas nacionales, en los términos de los artículos cuarto y quinto de esta ley, respectivamente, al tipo que se hubiere tomado en cuenta al efectuarse la operación para hacer la conversión de la moneda nacional recibida a la moneda extranjera o, si no es posible fijar ese tipo, a la paridad legal.
+Se prohibe igualmente, la fundición y afinación de las monedas que se retiran de la circulación por esta ley.
 
 ###### ARTICULO 5°.
 
@@ -560,10 +564,6 @@ D.O.F. 31 DE MARZO DE 1943.
 
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO QUE PRORROGA HASTA EL 30 DE JUNIO PROXIMO, EL PLAZO PARA LA CIRCULACION DE LAS MONEDAS DE CUPRO-NIQUEL DE CINCO CENTAVOS, PUBLICADO EN EL D.O.F. 31 DE MARZO DE 1943.</small>
 
-###### ARTICULO 4°.
-
-Se prohibe igualmente, la fundición y afinación de las monedas que se retiran de la circulación por esta ley.
-
 ###### ARTICULO UNICO.
 
 Se prorroga hasta el 30 de junio del presente año, el plazo que para la circulación de las monedas de cupro-níquel de cinco centavos, señala el artículo 2°. transitorio del Decreto de 29 de diciembre de 1942, por el cual se modificó la Ley Monetaria.
@@ -651,6 +651,12 @@ El Banco de México, S. A. y sus Sucursales, las Oficinas Federales de Hacienda 
 ###### ARTICULO 3o.
 
 Se retiran de la circulación las monedas de plata de cinco pesos, ley de 0.900, y de un peso y cincuenta centavos, ley de 0.500, creadas por decreto de 11 de septiembre de 1947, con las características que señaló el decreto de esa misma fecha, el cual se deroga.
+
+###### ARTICULO 4o.
+
+El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1956
 
 ###### ARTICULO UNICO.
 
@@ -1567,3 +1573,9 @@ D.O.F. 23 DE DICIEMBRE DE 1993.
 PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994,...
 
 DECIMO OCTAVO.- Se derogan los artículos ... 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos,...
+
+D.O.F. 11 DE MAYO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor el 1 de enero de 2006.
+
+Segundo.- Los signos monetarios fabricados con anterioridad a la fecha de entrada en vigor de este Decreto, podrán ser puestos en circulación por el Banco de México con posterioridad a dicha fecha, conservando su poder liberatorio hasta que sean desmonetizados.
