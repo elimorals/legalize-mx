@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-archivo-general-de-gobierno-del-estado-de-3212"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-02-20"
-last_updated: "1979-02-20"
+last_updated: "1995-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "BCS"
 
 REGLAMENTO DEL ARCHIVO GENERAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE AGOSTO DE 1995, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el 20 de febrero de 1979.
 
@@ -159,3 +161,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. GUILLERMO MERCADO ROMERO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 31 DE AGOSTO DE 1995.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+SEGUNDO.- Se abrogan los reglamentos del Archivo del Poder Ejecutivo y el Interior del Archivo General publicados en los Boletines Oficiales del día 10 de julio de 1977 y 20 de febrero de 1979 respectivamente.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
