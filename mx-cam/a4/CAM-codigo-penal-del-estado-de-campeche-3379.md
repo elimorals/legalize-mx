@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "2002-06-14"
+last_updated: "2002-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -1609,7 +1609,7 @@ Cuando la persona cuyo cuerpo sea explotado por medio del comercio carnal sea me
 
 ### CAPITULO I
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 183.
 
@@ -1619,9 +1619,9 @@ TITULO DECIMOSEGUNDO
 
 REVELACION DE SECRETOS
 
-### CAPITULO II. EJERCICIO INDEBIDO O ABANDONO DE SERVICIO PUBLICO
+### CAPITULO II. EJERCICIO INDEBIDO DE SERVICIO PUBLICO
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 184.
 
@@ -1647,7 +1647,7 @@ DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
 ###### Art. 186.
 
-Para los efectos de este título y el subsecuente, son servidores públicos aquellos a que hace referencia el artículo 89 de la Constitución Política del Estado.
+Para los efectos de este Título y el subsecuente es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal centralizada, organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos, en los Poderes Legislativo y Judicial del Estado, en la Administración Pública Municipal, centralizada o paramunicipal, en los Organismos Públicos Autónomos estatales, o que manejen recursos económicos estatales y municipales.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1659,7 +1659,11 @@ Se impondrán las mismas sanciones previstas para el delito de que se trate a cu
 
 Para la individualización de las sanciones previstas en este Título, el Juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o funcionario o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Cuando los delitos a que se refieren los artículos 189, 192 y 195 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JULIO DE 2002)</small>
 
 ### CAPITULO IV. COALICION DE SERVIDORES PUBLICOS
 
@@ -1669,19 +1673,17 @@ Para la individualización de las sanciones previstas en este Título, el Juez t
 
 Comete el delito de ejercicio indebido de servicio público, el servidor público que:
 
-I.- Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima o sin satisfacer todos los requisitos legales;
+I.- Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o sin satisfacer todos los requisitos legales;
 
-II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido legalmente;
+II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido;
 
-III.- Suponga tener alguna comisión, empleo o cargo que el que realmente tuviere;
+III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal o paraestatal, municipal o parmunicipal (sic), o de los poderes Legislativo o Judicial, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades;
 
-IV.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal o municipal, por cualquier acto u omisión y no informe por escrito a su superior jerárquico y lo evite si está dentro de sus facultades;
+IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; y
 
-V.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+V.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
 
-VI.- Sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
-
-Al que cometa el delito de ejercicio indebido o abandono de servicio público se le impondrán de tres meses a cinco años de prisión, multa de diez a cien veces el salario mínimo diario vigente en la Capital del Estado en el momento de la comisión del delito y destitución, en su caso, e inhabilitación de tres meses a cinco años para desempeñar otro empleo, cargo o comisión públicos.
+Al que cometa el delito a que se refiere este artículo se le impondrán de dos años a siete años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1719,9 +1721,11 @@ XII.- Cuando otorgue cualquier identificación en que se acredite como servidor 
 
 XIII.- Cuando ejecute cualquier otro acto arbitrario y atentatorio a los derechos garantizados en la Constitución.
 
-Al que cometa el delito de abuso de autoridad se le impondrán de uno a seis años de prisión, multa de quince a ciento cincuenta veces el salario mínimo diario vigente en la Capital del Estado en el momento de la comisión del delito y destitución e inhabilitación de uno a seis años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 160, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2002, LOS PARRAFOS SEGUNDO Y TERCERO QUEDAN INTEGRADOS EN UNO.</small>
 
-Iguales sanciones se impondrán a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X, XI y XII de este artículo.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Al que cometa el delito de abuso de autoridad se le impondrán de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1733,11 +1737,13 @@ Iguales sanciones se impondrán a las personas que acepten los nombramientos, co
 
 Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
 
-Al que cometa el delito de coalición de servidores públicos se le impondrán de seis meses a cinco años de prisión y multa de doce a cien veces el salario mínimo diario vigente en la Capital del Estado, en el momento de la comisión del delito, y destitución e inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VII. PECULADO Y CONCUSION
+### CAPITULO VIII. INTIMIDACION
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1761,15 +1767,19 @@ III.- El servidor público que teniendo a su cargo fondos públicos les dé, a s
 
 Al que cometa el delito de uso indebido de atribuciones y facultades se le impondrán las siguientes sanciones:
 
-Cuando el monto a que ascienden las operaciones a que hace referencia este artículo no exceda del equivalente de doscientas veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión, multa de doce a ciento veinte veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
-Cuando el monto a que asciendan las operaciones a que hace referencia este artículo, exceda del equivalente a doscientas veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito, se impondrán de uno a siete años de prisión, multa de quince a ciento cincuenta veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando el monto a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente de quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, se impondrán de un año a cinco años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de un año a cinco años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Cuando el monto a que asciendan las operaciones a que hace referencia este artículo, exceda del equivalente a quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, se impondrán de cinco años a doce años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de cinco años a doce años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO VIII. INTIMIDACION
+### CAPITULO VII. PECULADO Y CONCUSION
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 192.
 
@@ -1781,7 +1791,17 @@ II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva 
 
 Al que cometa el delito de cohecho se le impondrán las siguientes sanciones:
 
-De uno a ocho años de prisión, multa de diez a trescientas veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo general diario vigente en el Estado en el momento de cometerse el delito, o no sea valuable, se impondrán de un año a cinco años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de un año (sic) cinco años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo general diario vigente en el Estado en el momento de cometerse el delito, se impondrán de cinco años a catorce años de prisión, de trescientos a quinientos días multa y destitución e inhabilitación de cinco años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2002)</small>
+
+En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado o del Municipio, según corresponda.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1793,21 +1813,29 @@ De uno a ocho años de prisión, multa de diez a trescientas veces el salario m�
 
 Comete el delito de peculado:
 
-Todo servidor público que para usos propios o ajenos distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o municipio, a los organismos descentralizados y desconcentrados o a un particular si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
+I.- Todo servidor público que para usos propios o ajenos distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o al Municipio, a los organismos paraestatales o paramunicipales o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa;
 
-Al que cometa el delito de peculado se le impondrán las siguientes sanciones: de dos a doce años de prisión y multa de diez a doscientas veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
+II.- El servidor público que indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso indebido de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
 
-Cuando el peculado no exceda en su monto al equivalente a trescientos días del salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito, se impondrán al responsable de tres meses a dos años de prisión, multa de cinco a cien veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de uno a tres años para desempeñar otro empleo, cargo o comisión públicos.
+III.- Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso indebido de atribuciones y facultades, y
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+IV.- Cualquier persona que sin tener el carácter de servidor público estatal o municipal y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+
+Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, o no sea valuable, se impondrán de un año a cinco años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de un año a cinco años para desempeñar otro empleo, cargo o comisión públicos.
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, se impondrán de cinco años a catorce años de prisión, de trescientos a quinientos días multa y destitución e inhabilitación de cinco años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 194.
 
-Comete el delito de concusión el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
+Comete el delito de concusión: el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley. Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
-Al que cometa el delito de concusión se le impondrán las siguientes sanciones: de uno a cinco años de prisión, multa de cinco a cien veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de uno a tres años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, o no sea valuable, se impondrán de un año a cinco años de prisión, de treinta a trescientos días multa, y destitución e inhabilitación de un año a cinco años para desempeñar otro empleo, cargo o comisión públicos.
 
-Cuando lo exigido indebidamente no exceda en su monto al equivalente a noventa días del salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito, se impondrán al responsable de dos meses a un año de prisión, multa de cinco a cincuenta veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de seis meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, se impondrán de cinco años a doce años de prisión, trescientos a quinientos días multa y destitución e inhabilitación de cinco años a doce años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1823,13 +1851,15 @@ I.- El servidor público que por sí o por interpósita persona, utilizando la v
 
 II.- El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
-Al que cometa el delito de intimidación se le impondrán de uno a seis años de prisión, multa de diez a cien veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de uno a seis años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión, de treinta a trescientos días multa, destitución e inhabilitación de dos años a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
 ### CAPITULO XI. ENRIQUECIMIENTO ILICITO
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
 ###### Art. 196.
 
@@ -1839,13 +1869,13 @@ I.- El servidor público que en el desempeño de su empleo, cargo o comisión, i
 
 II.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido o a alguna de las personas mencionadas en la primera fracción.
 
-Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
-Cuando la cuantía no exceda al equivalente a ciento ochenta días del salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito, se impondrán al responsable de tres meses a dos años de prisión, multa de cinco a cien veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, se impondrán de un año a cinco años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de un año a cinco años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
 
-Si la cuantía excede al equivalente a ciento ochenta días de salario mínimo diario vigente en el Estado en el momento de cometerse el delito, se impondrán al responsable de dos a seis años de prisión, multa de cien a trescientas veces el salario mínimo diario vigente en el Estado en el momento de cometerse el delito y destitución y suspensión de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, se impondrán de cinco años a doce años de prisión, de trescientos a quinientos días multa y destitución e inhabilitación de cinco años a doce años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1863,7 +1893,9 @@ II.- Cualquier persona que promueva la conducta ilícita del servidor público o
 
 III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del artículo 195 de este Código.
 
-Al que cometa el delito de tráfico de influencia, se le impondrán de seis meses a tres años de prisión, multa de cinco a ciento cincuenta veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2002)</small>
+
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de dos años a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
@@ -1871,15 +1903,13 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de seis mese
 
 ###### Art. 198.
 
-Comete el delito de enriquecimiento ilícito el servidor público que durante el tiempo de su encargo y por motivos del mismo, por sí o por interpósita persona, aumente sustancialmente su patrimonio, adquiera bienes o se conduzca como dueño de ellos, cuya procedencia lícita no pudiere justificar, afectándose con dicha conducta los fondos, bienes o derechos del Estado, municipio, organismos descentralizados o desconcentrados encargados de un servicio público.
+Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado. Incurre en responsabilidad penal, asimismo, quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma ley, a sabiendas de esta circunstancia. Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
-Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+I.- Decomiso en beneficio del Estado o del Municipio, según corresponda, de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la mencionada Ley Reglamentaria;
 
-Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado.
+II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de dos mil veces el salario mínimo general diario vigente en el Estado, en el momento de cometerse el delito, se impondrán de un año a cinco años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de un año a cinco años para desempeñar otro empleo, cargo o comisión públicos;
 
-De tres a doce años de prisión, multa de diez a doscientas veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
-
-Cuando el enriquecimiento no exceda en su monto al equivalente a dos mil veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito, se impondrán al responsable de seis meses a tres años de prisión, multa de cinco a cien veces el salario mínimo diario vigente en la Capital del Estado en el momento de cometerse el delito y destitución e inhabilitación de uno a tres años para desempeñar otro empleo, cargo o comisión públicos.
+III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de dos mil veces el salario mínimo general diario vigente en el Estado, al momento de cometerse el delito, se impondrán de cinco años a quince años de prisión, de trescientos a quinientos días multa y destitución e inhabilitación de cinco años a quince años para desempeñar otro empleo, cargo o comisión públicos.
 
 TITULO DECIMOCUARTO
 
@@ -3784,3 +3814,23 @@ P.O. 14 DE JUNIO DE 2002.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE JULIO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO
+
+Primero.- El presente decreto entrará en vigor el día 16 de septiembre del año 2003.
+
+Segundo.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche expedida por la LI Legislatura de este Congreso, el 18 de diciembre de 1984, bajo decreto número 156, publicada en la Segunda Sección del Periódico Oficial del Estado el día 19 de ese mismo mes y año; y se derogan todas las demás disposiciones legales en lo que se opongan al contenido de este Decreto.
+
+Tercero.- Las Instituciones Públicas que carezcan de los Órganos Internos de Control y sistemas a que alude la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, dispondrán para su establecimiento de un plazo que no excederá de treinta días hábiles, contados a partir de la fecha en que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado entre en vigor, para lo cual realizarán las adecuaciones procedentes a su presupuesto de egresos, reglamentos interiores y manuales de organización o disposiciones equivalentes. La Secretaría de la Contraloría, una vez establecidos dichos Órganos Internos de Control les remitirá debidamente inventariados la documentación que obre en su poder y cuyo conocimiento y manejo corresponda a tales Órganos. Para este efecto la Secretaría contará con un plazo de treinta días hábiles contados a partir del día siguiente al en que se le comunique el establecimiento del respectivo Órgano Interno de Control.
+
+Cuarto.- Como integrantes de los Órganos Internos de Control no podrán fungir los servidores públicos que formen parte del órgano superior de dirección de la Institución Pública a la que ese Órgano corresponda.
+
+Quinto.- Los servidores públicos que deban presentar declaración de situación patrimonial en los términos de la Ley Reglamentaria en cita y que conforme a la ley que se abroga no hayan tenido esa obligación, disponen por esta única vez de un plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entre en vigor la indicada Ley o del que se establezca el Órgano Interno de Control, según corresponda, para presentar la que indica la fracción I del artículo 88 de la invocada Ley Reglamentaria.
+
+Sexto.- Los procedimientos administrativos disciplinarios que se encuentren en trámite al momento en que la referida Ley Reglamentaria entre en vigor serán resueltos conforme a los términos de la ley que se abroga y por la autoridad que este conociendo de los mismos.
+
+Séptimo.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+
+Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
