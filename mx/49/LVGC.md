@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1992-06-15"
+last_updated: "1993-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 1993.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -548,7 +548,7 @@ Para los efectos de este artículo se integrará una comisión consultiva de tar
 
 La Secretaría de Comunicaciones y Transportes podrá fijar tarifas provisionales, que estarán vigentes durante noventa días naturales.
 
-Al concluir este plazo, si no se han fijado las nuevas tarifas se reanudará la vigencia de la anteriores a las provisionales.
+Al concluir este plazo, si no se han fijado las nuevas tarifas se reanudará la vigencia de las anteriores a las provisionales.
 
 ###### ARTICULO 49.
 
@@ -1654,115 +1654,51 @@ Las Secretarías de Comunicaciones y Hacienda, de común acuerdo determinarán a
 
 ###### ARTICULO 172.
 
-Para los efectos de esta Ley, se consideran puertos los lugares declarados como tales por el Ejecutivo de la Unión, por conducto de la Secretaría de Comunicaciones y Obras Públicas, a la que competen administrar, ejecutar y autorizar toda clase de obras en los mismos, así como sus servicios de policía, con excepción de las obras de carácter estratégico y militar.
-
-Los lugares de la costa y de las riberas de los ríos, lagos y lagunas que no tengan el carácter de puertos, se considerarán como tales únicamente por cuanto se refiere a la vigilancia del tránsito y servicios de policía marítima y fluvial.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 173.
 
-Los límites de los puertos serán fijados por la Secretaría de Comunicaciones conforme a las condiciones especiales de cada lugar, siendo de su exclusiva competencia deslindar las zonas federales y declarar exceptuadas de las mismas los lugares de los litorales y riberas que estime conveniente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 174.
 
-Las concesiones para ejecutar y explotar obras en los puertos se otorgarán por un período de tiempo que no excederá de treinta años, según la importancia de las mismas, a juicio de las Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 175.
 
-No podrán efectuarse obras de ninguna clase en aguas de jurisdicción federal o en las vías generales de comunicación fluviales o lacustres, y en las playas o zonas federales, sin la debida autorización de la Secretaría de Comunicaciones. Igual requisito será necesario para ocuparlas, extraer o arrojar material en ellas. En los casos de estas autorizaciones se obtendrá previamente el dictamen técnico de la Secretaría de la Defensa Nacional.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 176.
 
-La autorización a que se refiere el artículo anterior, se otorgará por la Secretaría de Comunicaciones, mediante concesión o permiso, en los términos del Reglamento respectivo:
-
-I.- Cuando se trate de obras que en alguna forma puedan alterar las de los puertos, sus canales y fondeaderos, el régimen de los mares o de los demás medios de comunicación marítima, lacustre o fluvial;
-
-II.- Cuando tengan carácter permanente, a juicio de la Secretaría de Comunicaciones;
-
-III.- Cuando la extensión cuyo uso se conceda, sea de más de cincuenta metros de frente, o la duración del contrato de arrendamiento respectivo, sea de más de cinco años;
-
-IV.- Cuando las obras se efectúen por cuenta de alguna autoridad;
-
-V.- Cuando conforme a las disposiciones de esta Ley o del reglamento respectivo, la ocupación debe concederse gratuitamente, o cuando deba disfrutarse la zona de protección, y
-
-VI.- Cuando las obras se destinen a fines de habitación.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 177.
 
-En todos los demás casos no previstos en el artículo anterior, los capitanes de puerto o quienes hagan sus veces, celebrarán contratos en representación de la Secretaría de Comunicaciones y Obra (sic) Públicas, pero para su validez deberán ser ratificados por la misma.
-
-No se requiere la celebración de contrato, sino permiso otorgado por los capitanes de puerto o por quienes hagan sus veces, cuando se trate de ocupaciones ocasionales de carácter precario que no excedan de noventa días. Los permisos cuya duración no excedan de noventa días (sic) . Los permisos cuya duración no exceda de quince días, podrán ser otorgados verbalmente sin que los permisionarios tengan que cumplir con otro requisito que el de sujetarse a las disposiciones de policía que dicte la Capitanía de Puerto de la jurisdicción.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 178.
 
-Las concesiones para realizar obras en las zonas federales, se otorgarán por un período de tiempo que no excederá de treinta años, según la importancia de las mismas, a juicio de la Secretaría de Comunicaciones.
-
-En las autorizaciones que se otorguen para el establecimiento de astilleros, diques, varaderos, balnearios, hoteles y otras obras que se consideren de utilidad pública, se concederá zona de protección en la forma y términos que establezca el Reglamento respectivo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 179.
 
-Para el otorgamiento de las autorizaciones a que se refieren los artículos 175, 177, 178, 180 y 181, se seguirán las reglas siguientes:
-
-I.- No se concederá autorización alguna si con la obra que se pretende ejecutar, o con la simple ocupación de la zona, se entorpece el tránsito marítimo, la explotación legal de los productos de pesca o el libre acceso a las aguas de jurisdicción federal;
-
-II.- Sólo se autorizará la ocupación de zona federal, para fines agrícolas a los propietarios, arrendatarios o usufructuarios de los terrenos colindantes a ella, siempre que no se afecten los servicios marítimos, fluviales o lacustres, y
-
-III.- Sólo se autorizará la construcción de obras en la zona federal paralelas a las calles, calzadas o carreteras o en las inmediaciones de los puertos, cuando sean de importancia y estén en armonía con el aspecto del lugar, pudiendo la Secretaría de Comunicaciones exigir que reúnan las condiciones de ornamento adecuadas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 180.
 
-Tendrán derecho de preferencia para obtener las autorizaciones a que se refieren los artículos anteriores:
-
-I.- Las agrupaciones de trabajadores, cooperativas y empresas que establezcan muelles, almacenes, astilleros, diques, varaderos, plantas empacadoras de pescado o cualquiera otra obra conexa con la navegación;
-
-II.- Las agrupaciones de trabajadores, cooperativas y empresas autorizadas para la explotación de productos naturales de las aguas del suelo o del subsuelo de la zona que pretenda ocuparse o de terrenos colindantes a ella;
-
-III.- Los propietarios, arrendatarios o usufructuarios de los terrenos colindantes a las zonas solicitadas, y
-
-IV.- Las agrupaciones de trabajadores, cooperativas y empresas de servicios públicos, tratándose de obras directamente relacionadas con los mismos servicios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 181.
 
-En las concesiones, contratos y permisos para las obras a que se refieren los artículos anteriores debe estipularse:
-
-I.- El término por el que se otorguen;
-
-II.- Los plazos en que hayan de principiarse y terminarse las obras;
-
-III.- El importe que se pagará por arrendamiento de las zonas ocupadas;
-
-IV.- Las cuotas para el fondo de inspección que señale la tarifa del reglamento respectivo;
-
-V.- La parte proporcional del presupuesto que haya de invertirse periódicamente a fin de que la obra quede terminada dentro del plazo estipulado;
-
-VI.- La zona de protección que en su caso deba gozar la obra, así como la forma de fijar su extensión;
-
-VII.- Las condiciones para el establecimiento y uso de la obra en lo que fuere necesario, para dejar a salvo los derechos adquiridos y los intereses generales;
-
-VIII.- La fianza que deberá otorgar el concesionario para garantizar el cumplimiento de la concesión y la que deberá otorgar también cuando se trate de una obra pública, para responder de su ejecución, y
-
-IX.- Los casos en que procederá la declaración de caducidad de la concesión, contrato o revocación del permiso, así como las consecuencias de la misma.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 182.
 
-Las concesiones y permisos para la construcción de obras en la zona federal, en las playas, en el mar territorial, en las vías fluviales y lacustres, quedarán sin efecto cuando lo exija la mejor vigilancia y servicio de los litorales y riberas.
-
-En estos casos, no tendrán derecho a indemnización y retirarán sus obras, materiales, etc., dentro de los plazos que fije la Secretaría.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 183.
 
-Será gratuita la ocupación de zona federal, en los siguientes casos:
-
-I.- Para el establecimiento de almacenes, diques, varaderos, plantas empacadoras de pescado y, en general, para toda clase de talleres dedicados a la construcción o reparación de embarcaciones;
-
-II.- Para el establecimiento de estaciones de salvamento y señales marítimas, escuelas, hospitales y, en general, para toda obra considerada por la ley como de utilidad pública o para servicios públicos conexos con las comunicaciones marítimas;
-
-III.- Para la construcción de vías generales de comunicación, obras de saneamiento y ornato, a juicio de la Secretaría de Comunicaciones;
-
-IV.- Las ocupaciones transitorias para varar embarcaciones, tender redes, secar productos de pesca y otros usos precarios, que no sean de carácter especulativo;
-
-V.- Para fines agrícolas por parte de los propietarios, arrendatarios o usufructuarios de los terrenos colindantes, siempre que sean campesinos de escasos recursos económicos.
-
-Las ocupaciones de zona federal a que se refiere este artículo, no causarán cuotas para el fondo de inspección.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 184.
 
@@ -1808,7 +1744,7 @@ Las embarcaciones extranjeras que naveguen en aguas mexicanas, quedan sujetas po
 
 ###### ARTICULO 190.
 
-Los puertos de altura de la República se encuentran abiertos al comercio de todas las naciones. Los de cabotaje y demás lugares de la costa o de las riberas de los ríos, también lo están para las embarcaciones en el tráfico que les sea permitido conforme a las disposiciones de la presente Ley.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 191.
 
@@ -1986,11 +1922,7 @@ V.- A utilizar el servicio de pilotaje cuando lo exija esta Ley o sus Reglamento
 
 ###### ARTICULO 210.
 
-Las maniobras de fondeo, atraque a los muelles y otros lugares destinados al efecto, las de alijo, carga y descarga y cualquier otro servicio de puerto, deben sujetarse a turno riguroso, que señalará en todo caso el capitán de puerto, si no es posible ejecutarlas simultáneamente, aun cuando los elementos que se utilicen sean de propiedad particular. El reglamento respectivo fijará los casos y forma en que deban alterarse dichos turnos, ya sea por causa de utilidad pública, por tratarse de embarcaciones que tengan derecho de preferencia para sus maniobras o por pertenecer a la empresa concesionaria del muelle. El mismo reglamento fijará las precauciones que en lo general deben observarse por dichas operaciones.
-
-Todas las maniobras a que se refiere el párrafo anterior, se ejecutarán en los lugares que señale la Capitanía del Puerto.
-
-La Secretaría de Comunicaciones, cuando el interés público lo exija, podrá disponer que los muelles de propiedad particular presten servicio público, conforme a las prescripciones de este artículo y a las demás que se indican por esta Ley y sus Reglamentos.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 211.
 
@@ -2574,13 +2506,11 @@ Todos los tripulantes, sin excepción, deben comprobar ante la autoridad maríti
 
 ###### ARTICULO 298.
 
-Son de utilidad pública el establecimiento y explotación de astilleros, diques y varaderos y quedan bajo el exclusivo control de la Secretaría de Comunicaciones, quien otorgará las concesiones respectivas, excepto en los casos de aquellas obras o industrias administradas por la Marina de Guerra.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 299.
 
-Las personas a quienes la Secretaría de Comunicaciones y Obras Públicas otorgue concesión para construir o explotar astilleros, diques o varaderos, tendrán derecho de preferencia para obtener concesiones para la construcción de muelles y otras obras dentro de las zonas en que tengan sus construcciones. Gozarán, además del derecho de ocupar gratuitamente la zona federal y los terrenos nacionales que se requieran para realizar los objetos de la concesión.
-
-Las mismas personas tendrán derecho a todas las franquicias que establezcan las leyes respectivas para el aprovechamiento de las maderas y demás elementos necesarios para la construcción de las obras citadas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE PUERTOS, D.O.F. 19 DE JULIO DE 1993)
 
 ###### ARTICULO 300.
 
@@ -4370,31 +4300,31 @@ Para la aplicación de las sanciones a que se refiere el artículo anterior, se 
 
 Tan luego como la Secretaría de Comunicaciones tenga conocimiento de la infracción, procederá al aseguramiento de las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación de la vía de comunicación, ocupación de la zona federal o playas, de las vías flotables o navegables, poniéndolos bajo la guarda de un interventor especial, previo inventario que se formule. Posteriormente al aseguramiento se concederá un plazo de diez días al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; y pasado dicho término la Secretaría de Comunicaciones dictará la resolución que corresponda.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 525.
 
 El que indebidamente ejecute obras que invadan o perjudiquen una vía federal de comunicación, pagará una multa de cincuenta a dos mil pesos a juicio de la Secretaría de Comunicaciones, más los daños y perjuicios que se hubieren ocasionado.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 526.
 
 La infracción del artículo 48 de esta ley se sancionará con multa de doscientos a mil pesos, sin perjuicio de que la Secretaría acuerde la suspensión de los servicios en los casos en que lo estime conveniente.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 527.
 
 La expedición o aplicación de horarios, tarifas y demás documentos relacionados con el público que no hayan sido previamente aprobados por la Secretaría de Comunicaciones, se castigará con multa de cien a mil pesos, por cada infracción.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 528.
 
 El que indebidamente autorice o contrate servicios conforme a tarifas distintas de las aplicables al caso, será castigado con multa de cien a quinientos pesos por cada infracción. Si con el fin de ocultar la infracción se asentaren partidas falsas en los libros o se expidiere carta de portes u otro documento igualmente falso, la pena será de dos meses a dos años de prisión y multa de cien a mil pesos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 529.
 
@@ -4404,13 +4334,13 @@ I.- A las empresas que no cumplan con la obligación de publicar sus tarifas com
 
 II.- A las empresas que se nieguen a establecer tarifas unidas y en virtud de esa negativa, continúen aplicando tarifas locales.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 530.
 
 Los errores en la aplicación de las tarifas no están comprendidos en las disposiciones penales de esta ley; pero las empresas estarán obligadas a devolver lo que hayan cobrado indebidamente y si se rehusaren a hacerlo, se les impondrá multa de cincuenta a dos mil pesos, a juicio de la Secretaría de Comunicaciones.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 531.
 
@@ -4418,7 +4348,7 @@ El que sin la debida autorización de la empresa vendiere o enajenare por cualqu
 
 Si además, se alterase el nombre de la persona a quien originariamente se hubiere expedido el boleto, se aplicará la pena de un mes a un año de prisión o multa de cincuenta a doscientos pesos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 532.
 
@@ -4434,13 +4364,13 @@ Los que dañen, perjudiquen o destruyan las vías generales de comunicación, o 
 
 Si el delito fuere cometido por imprudencia con motivo del tránsito de vehículos por carretera, aquél sólo se perseguirá por querella, la cual únicamente podrá formularse cuando no se repare el daño en un plazo de treinta días naturales. En este caso, el delito se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 534.
 
 El que indebidamente y sin el propósito de interrumpir o perjudicar las vías generales de comunicación arroje en ellas cualquier obstáculo, impida sus desagües, descargue aguas, tale, pode o maltrate los árboles del derecho de vía, incurrirá en multa de veinticinco a doscientos pesos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 535.
 
@@ -4448,7 +4378,7 @@ A los conductores de toda clase de vehículos que manejen o tripulen estos en v�
 
 En las mismas penas incurrirá el empresario o dueño del vehículo que autorice o consienta su manejo o tripulación sin que el conductor posea los certificados y licencias mencionados en dicho artículo.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
 
@@ -4522,7 +4452,7 @@ En este caso se seguirá el procedimiento que indica el artículo 524 de esta le
 
 A las empresas de vías generales de comunicación y medios de transporte, que se nieguen a enlazar sus líneas, dentro del plazo que fije la Secretaría de Comunicaciones, se les impondrá una multa hasta de diez pesos diarios en el primer mes, hasta de cien pesos en el segundo y hasta de doscientos pesos diarios en el tercero y en los siguientes, por todo el tiempo de la desobediencia, sin perjuicio de que si la Secretaría lo estima conveniente, se aplique el procedimiento señalado en el artículo 47 para la ejecución de las obras necesarias.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 541.
 
@@ -4698,7 +4628,7 @@ I.- A los propietarios, poseedores u operadores de aeronaves de servicio privado
 
 II.- A los propietarios, poseedores u operadores de aeronaves de servicio privado, destinadas a aplicaciones científicas de la aviación civil, por preferir a extranjeros respecto de mexicanos, para la realización de tales trabajos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4706,7 +4636,7 @@ II.- A los propietarios, poseedores u operadores de aeronaves de servicio privad
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos o prisión de seis meses a cinco años, a todo aquel que obstruya u obstaculice en cualquier forma o lo permita, las pistas, andenes y demás lugares de tránsito de los aeródromos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4714,7 +4644,7 @@ Se impondrá multa de doscientos cincuenta a veinticinco mil pesos o prisión de
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de seis meses a cinco años, a todo aquel que inunde o por negligencia permita que se inunde un aeródromo en todo o en parte.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4740,7 +4670,7 @@ Se suspenderán hasta por seis meses las licencias del personal técnico aeroná
 
 La Secretaría de Comunicaciones revocará las licencias del personal aeronáutico cuando a su juicio y por contumacia, así lo merezcan.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 565.
 
@@ -4752,7 +4682,7 @@ II.- Al piloto, comandante o miembro de la tripulación en los casos de las frac
 
 III.- Al piloto o comandante, en los casos de las fracciones XI y XIV, con suspensión hasta por seis meses de la licencia respectiva.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4790,11 +4720,11 @@ Se impondrá multa de cincuenta a cinco mil pesos o prisión hasta por seis mese
 
 Se aplicarán a la navegación aérea, en su caso, las disposiciones del Código Penal para el Distrito Federal relativas a la piratería.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 571.
 
 Se castigará con la pena que señala el Código Penal para el delito de revelación de secretos, al que indebidamente y en perjuicio de otro, intercepte, divulgue, revele o aproveche los mensajes, noticias o informaciones que escuche y que no estén destinados a él o al público en general.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 Los concesionarios o permisionarios de comunicaciones eléctricas que infrinjan lo dispuesto en el artículo 384 serán castigados con prisión de quince días a un año y multa de diez a mil pesos.
 
@@ -4804,31 +4734,31 @@ Las personas que hagan uso de los servicios telegráficos y radiotelegráficos p
 
 Las Oficinas de Comunicaciones Eléctricas sólo trasmitirán ese género de comunicaciones cuando provengan de agencias de noticias que acrediten ante la Dirección General de Correos y Telégrafos, tener contratada la adquisición de noticias internacionales.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 573.
 
 Se impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes, al que indebidamente y no de manera habitual, realice el servicio de transporte o distribución de correspondencia reservado al Gobierno Federal.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 574.
 
 Al que indebidamente y con el carácter de empresario establezca o desempeñe el transporte o distribución a que se refiere el artículo anterior, se le impondrán de uno a tres años de prisión y multa de cincuenta a cinco mil pesos. En la misma pena incurrirá quien indebidamente explote servicios públicos de correspondencia por los sistemas de comunicación eléctrica que están reservados exclusivamente al Gobierno Federal.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 575.
 
 Al que emplee los servicios de correspondencia indebidamente desempeñados por las empresas o personas citadas en los dos artículos anteriores, se le impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 576.
 
 Se aplicará de un mes a un año de prisión o multa de cincuenta a mil pesos al que indebidamente abra, destruya o substraiga alguna pieza de correspondencia cerrada, confiada al Correo.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 577.
 
@@ -4882,7 +4812,7 @@ En el caso de que los delitos a que se refieren los artículos 580, 581 y 582, f
 
 Se impondrán de quince días a dos años de prisión al que indebidamente dificulte, retarde o detenga el curso de las correspondencias en una vía de comunicación, o de cualquiera manera impida el libre y preferente transporte de las mismas.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 587.
 
@@ -4896,7 +4826,7 @@ Los funcionarios o empleados de Correos y Telégrafos que utilicen en asuntos ex
 
 Las órdenes de prisión dictadas contra empleados del Correo y del Telégrafo que manejen fondos públicos, no podrán ser ejecutadas antes de que los empleados hagan entrega formal de los fondos y valores que estuvieren a su cuidado, así como de los comprobantes relativos a su cuenta, sin perjuicio de asegurar convenientemente al responsable.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -5231,3 +5161,21 @@ UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en e
 D.O.F. 15 DE JUNIO DE 1992.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JULIO DE 1993.
+
+LEY DE PUERTOS.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga la Ley que crea a la Comisión Nacional Coordinadora de Puertos, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1970.
+
+TERCERO. (Se deroga).
+
+I. Los artículos del 172 al 183, 190, 210, 298 y 299 de la Ley de Vías Generales de Comunicación;
+
+II. Los artículos 9o., fracciones I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y
+
+III. Todas las disposiciones que se opongan a lo previsto en esta ley.
+
+Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comunicación sólo por lo que hace a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.
