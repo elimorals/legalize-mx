@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1997-02-03"
+last_updated: "1997-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -399,11 +399,15 @@ Adquieren el derecho de voto activo y el de asociación política y deberán cum
 
 Son prerrogativas de los ciudadanos del Estado de Quintana Roo:
 
-I.- Votar en las elecciones populares del Estado.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+I.- Votar en las elecciones populares estatales y municipales.
 
 II.- Poder ser votado para todo cargo de elección popular teniendo las calidades que establezca la ley.
 
-III.- Asociarse para tratar los asuntos políticos de la entidad, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la entidad.
 
 IV.- Las demás que les confieran esta Constitución y las leyes que de ella emanen.
 
@@ -417,7 +421,9 @@ II.- Inscribirse en los padrones electorales, en los términos que determinen la
 
 III.- Alistarse en la Guardia Nacional.
 
-IV.- Votar en las elecciones populares.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+IV.- Votar en las elecciones populares en los términos que señale la ley.
 
 V.- Ejercer los cargos de elección popular para los que fuere electo, y
 
@@ -469,6 +475,54 @@ La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Po
 
 El Supremo Poder Estatal se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+La renovación de los poderes Legislativo y Ejecutivo se realizarán mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+I.- Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+II.- La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la ley:
+
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el órgano superior de dirección del Consejo Estatal Electoral, el número de diputados a elegir, el número de partidos políticos con representación en la Legislatura del Estado y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior;
+
+b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año; y
+
+c) Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, la capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
+
+La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asímismo, señalará las sanciones que deban imponerse por incumplimiento de estas disposiciones.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+III.- La organización de las elecciones populares estatales y municipales es una función estatal que se realiza a través de un organismo público autónomo denominado Consejo Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan la Legislatura del Estado, los partidos políticos y los ciudadanos, en los términos que ordene la Ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+
+El Consejo Estatal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General del Consejo Estatal Electoral será su órgano superior de dirección y se integrará con un consejero Presidente y cuatro consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros de la Legislatura del Estado, los representantes de los partidos políticos y un Secretario Ejecutivo; la ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del Estatuto que con base a ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casilla estarán integradas por ciudadanos.
+
+El Consejero Presidente y los Consejeros Electorales del Consejo General serán elegidos, sucesivamente, por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado, o en sus recesos por la Diputación Permanente, a propuesta de los grupos parlamentarios. Conforme al mismo procedimiento, se designarán cuatro consejeros electorales suplentes, en orden de prelación. La ley establecerá las reglas y el procedimiento correspondiente.
+
+El consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. La retribución que perciban el consejero Presidente y los consejeros electorales será el equivalente a las dos terceras partes de la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+El Secretario Ejecutivo será nombrado por el Consejo General a propuesta de su Presidente.
+
+La ley establecerá los requisitos que deberán reunir para su designación el consejero Presidente del Consejo General, los consejeros electorales y el Secretario Ejecutivo del Consejo Estatal Electoral, los que estarán sujetos al régimen de responsabilidades establecido en el Título Octavo de esta Constitución y de su ley reglamentaria.
+
+Los Consejeros del Poder Legislativo del Estado serán propuestos por los grupos parlamentarios con afiliación de partido en la Legislatura. Sólo habrá un consejero por cada grupo parlamentario.
+
+El Consejo Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de diputados y ayuntamientos, cómputo de la elección de Gobernador del Estado en cada uno de los distritos electorales uninominales, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Este sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación en los términos del artículo 104 de esta Constitución.
+
+En materia electoral la interposición de los medios de impugnación ordinarios no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
 ###### ARTICULO 50.
 
 La colaboración de poderes, a través del ejercicio de las atribuciones otorgadas por esta Constitución a cada uno de ellos, es fundamento del equilibrio del poder público.
@@ -498,6 +552,14 @@ La Legislatura del Estado de Quintana Roo, se integra con quince Diputados elect
 Por cada Diputado propietario se elegirá un suplente.
 
 Los Diputados electos según el principio de votación mayoritaria relativa y los de representación proporcional, son representantes del pueblo quintanarroense, y tienen la misma calidad e igualdad de derechos y obligaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+El organismo público previsto en el artículo 49 de esta Constitución, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de diputados en cada uno de los distritos electorales y otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y asignación de diputados según el principio de representación proporcional de conformidad con el artículo 54 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de diputados podrán ser impugnadas ante el Tribunal Electoral del Poder Judicial del Estado. Los fallos del Tribunal serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
 ARTICULO 52 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
@@ -685,7 +747,9 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión.
 
 IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento.
 
-V.- En las elecciones de Gobernador erigirse en Colegio electoral para calificarlas y declarar electo al ciudadano que haya obtenido la mayoría de votos.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+V.- Expedir el Bando Solemne para dar a conocer en toda la entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Poder Judicial del Estado.
 
 (REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 1995)
 
@@ -853,9 +917,11 @@ XI. Las demás que le confiera expresamente esta Constitución.
 
 El Poder Ejecutivo se ejerce por una sola persona denominado "Gobernador del Estado de Quintana Roo".
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 79.
 
-La elección del Gobernador será directa, secreta, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos de la Ley Estatal Electoral.
+La elección del Gobernador será universal, libre, secreta, directa, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos que señale la ley.
 
 ###### ARTICULO 80.
 
@@ -1059,7 +1125,7 @@ III.- Tener modo honesto de vivir.
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 96.
 
@@ -1081,7 +1147,7 @@ El Procurador General de Justicia podrá ser removido libremente por el Gobernad
 
 ###### ARTICULO 97.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, en Tribunales Unitarios y Jueces del fuero común, en los términos de esta Constitución.
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en Tribunales Unitarios y jueces del fuero común, en los términos de esta Constitución.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1107,7 +1173,15 @@ V.- Los árbitros.
 
 VI.- Los Jurados Populares, y
 
-VII.- Los demás servidores públicos y auxiliares de la administración de justicia en los términos establecidos en las leyes y códigos relativos.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+VII.- El Tribunal Electoral.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+VIII.- Los demás servidores públicos y auxiliares de la administración de justicia en los términos establecidos en las leyes y códigos relativos.
+
+El Tribunal Superior de Justicia determinará el número de Tribunales Unitarios, jueces de primera instancia y jueces menores que deban establecerse, su lugar de residencia y su jurisdicción territorial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1997)</small>
 
@@ -1169,7 +1243,9 @@ Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis año
 
 Los Magistrados del Tribunal Superior de Justicia, ya sean definitivos o provisionales, deberán otorgar la protesta de Ley ante la Legislatura del Estado y en los recesos de ésta ante la Diputación Permanente.
 
-Los Magistrados de los Tribunales Unitarios y los Jueces protestarán ante el Tribunal Superior de Justicia. Los demás servidores públicos y empleados de la administración de justicia rendirán la protesta ante la autoridad de quien dependan.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+El magistrado del Tribunal Electoral y de los Tribunales Unitarios, así como los jueces, protestarán ante el Tribunal Superior de Justicia. Los demás servidores públicos y empleados de la administración de justicia rendirán la protesta ante la autoridad de quien dependan.
 
 ###### ARTICULO 105.
 
@@ -1217,11 +1293,41 @@ VII.- Las demás que le confiera esta Constitución y las leyes.
 
 La Ley Orgánica del Poder Judicial, regulará la organización y funcionamiento del Tribunal Superior de Justicia, de los Tribunales Unitarios y de los Juzgados, determinará los requisitos para ser Magistrado de Tribunal Unitario y Juez, así como las condiciones para el ingreso, formación y permanencia de su personal. Igualmente establecerá los medios para garantizar la independencia de los Magistrados y Jueces, los cuales, en el ejercicio de sus funciones, actuarán sin más sujeción que a las Leyes, la equidad y los principios generales del Derecho.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 109.
 
-El Tribunal Superior de Justicia determinará el número de Jueces Menores que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
+El Poder Judicial del Estado será la máxima autoridad en la materia, y ejercerá esta función jurisdiccional por conducto de un órgano especializado que se denominará Tribunal Electoral.
+
+Para el ejercicio de sus atribuciones, se integrará con un magistrado electoral, para ejercer el cargo por siete años, y con el personal jurídico y administrativo necesario para su adecuado funcionamiento. Sus sesiones de resolución serán públicas, en los términos que determine la ley.
+
+Al Tribunal Electoral le corresponde resolver en única instancia y en forma definitiva e inatacable, en los términos de esta Constitución y según lo disponga la ley, sobre:
+
+I. Las impugnaciones en las elecciones de diputados y ayuntamientos.
+
+II. Las impugnaciones que se presenten sobre la elección de Gobernador del Estado.
+
+El Tribunal realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiere obtenido el mayor número de votos.
+
+III. Las impugnaciones de actos y resoluciones de la autoridad electoral estatal, distintas a las señaladas en las dos fracciones anteriores, que violen normas legales.
+
+IV. Los conflictos o diferencias laborales entre el Tribunal y sus servidores.
+
+V: Los conflictos o diferencias laborales entre el Consejo Estatal Electoral y sus servidores.
+
+VI. La determinación e imposición de sanciones en la materia; y
+
+VII. Las demás que señale la ley.
+
+La organización del Tribunal y los procedimientos para la resolución de los asuntos de su competencia, serán los que determinen esta Constitución y las leyes.
+
+La administración, vigilancia y disciplina en el Tribunal Electoral corresponderán, en los términos que señalen las leyes, a una Comisión de magistrados del Tribunal Superior de Justicia. El Tribunal Electoral propondrá su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado. Asimismo, el Tribunal Electoral expedirá su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+
+El magistrado electoral del Tribunal Electoral será elegido por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado, o en sus recesos por la Diputación Permanente, a propuesta del Tribunal Superior de Justicia del Estado. La ley señalará las reglas y el procedimiento correspondientes.
+
+El magistrado electoral deberá satisfacer los requisitos que establezca la ley, que no podrán ser menores a los que se exigen para ser magistrado del Tribunal Superior de Justicia, y durará en su encargo siete años improrrogables. La renuncia, ausencias y licencias del magistrado electoral serán tramitadas, cubiertas y otorgadas por el Tribunal Superior de Justicia, en los términos que establezca la ley.
+
+El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial del Estado y a las reglas especiales y excepciones que señale la ley.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1230,6 +1336,10 @@ El Tribunal Superior de Justicia determinará el número de Jueces Menores que d
 ###### ARTICULO 110.
 
 Ningún Servidor Público del Poder Judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+El Magistrado del Tribunal Electoral, no podrá, en ningún caso, aceptar ni desempeñar ningún otro encargo, empleo o comisión, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1593,6 +1703,14 @@ La Ley reglamentaria, establecerá las fórmulas electorales y los procedimiento
 
 La Ley Electoral respectiva reglamentará el proceso de preparación, desarrollo y verificación del proceso comicial para la renovación de ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+El organismo público previsto en el artículo 49 de esta Constitución, de acuerdo con lo que disponga le ley, declarará la validez de las elecciones de ayuntamientos en cada uno de los municipios del Estado; otorgará las constancias respectivas a las planillas de candidatos que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y asignación de regidores electos según el principio de representación proporcional de conformidad con el artículo 148 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de regidores podrán ser impugnadas ante el Tribunal Electoral del Poder Judicial del Estado. Los fallos del Tribunal serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
+
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 152.
@@ -1699,25 +1817,41 @@ Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 170.
 
-Para los efectos de este título, se reputarán como servidores públicos a los representantes de elección popular, funcionarios y empleados del Gobierno del Estado y de los Ayuntamientos y a toda persona que desempeñe un cargo de cualquier naturaleza en los Poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos, Organismos Descentralizados o de Participación Estatal y Fideicomisos Públicos del Estado.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del Gobierno del Estado y de los Ayuntamientos y, en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los Poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos, organismos descentralizados, empresas de participación estatal y fideicomisos públicos del Estado así como a los servidores del Consejo Estatal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los servidores públicos así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-I. Se impondrá mediante juicio político, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Secretarios del Despacho, Procurador General de Justicia del Estado, Jueces del Fuero Común, Directores Generales o sus equivalentes de los Organismos Descentralizados o Empresas (sic) Participación Estatal o Fideicomisos del Estado y miembros del Ayuntamiento, sanciones que consistirán en destitución del Servidor Público, y en su inhabilitación para desempeñar funciones y empleos, cargos o comisiones de cualquier naturaleza en el Servicio Público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier Ciudadano, bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1997)</small>
+
+I.- Se impondrá mediante juicio político, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrado del Tribunal Estatal Electoral, Magistrados de los Tribunales Unitarios, Secretarios del Despacho, Procurador General de Justicia del Estado, jueces del fuero común, Directores Generales o sus equivalentes en organismos descentralizados, empresas de participación estatal o fideicomisos del Estado y miembros de los Ayuntamientos, así como al consejero Presidente, consejeros electorales y el secretario ejecutivo del Consejo Estatal Electoral, sanciones consistirán en destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier ciudadano, bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
 
 La ley correspondiente establecerá el procedimiento del juicio político seguido ante la Legislatura, previniendo la forma de oír al acusado en su defensa.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+
 No procede el juicio político por la mera expresión de ideas.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
 
 La Legislatura del Estado conocerá con este procedimiento de los casos que le remita la Cámara de Senadores en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
 II. El gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Tribunal Superior de Justicia, y los Presidente Municipales, sólo podrán ser sujetos a juicio político por violaciones graves a esta Constitución, y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado.
 
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
 III. La Legislatura penal del Estado prevendrá como delito común el enriquecimiento ilícito de los Servidores Públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Así mismo perseguirá y sancionará la comisión de delitos por parte de cualquier servidor público.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
 
 IV. Se aplicarán sanciones administrativas a los servidores públicos por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, mismas que serán determinadas en las Leyes, Reglamentos o Decretos de las Dependencias, Instituciones u Organismos que los creen o regulen su funcionamiento, previniendo el procedimiento la autoridad encargada de aplicarla y la forma de oír al responsable en su defensa.
 
@@ -2210,3 +2344,15 @@ P.O. 3 DE FEBRERO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 1997.
+
+Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado, con excepción de lo previsto en los artículos siguientes.
+
+Segundo.- A más tardar el 30 de septiembre de 1998 deberán estar nombrados el consejero Presidente y el Secretario Ejecutivo del Consejo General del Consejo Estatal Electoral, así como los cuatro nuevos consejeros electorales y sus suplentes, que sustituirán a los actuales consejeros ciudadanos, quienes no podrán ser reelectos. En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consejo Estatal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código de Instituciones y Procedimientos Electorales del Estado de Quintana Roo.
+
+Tercero.- El magistrado electoral deberá designarse a más tardar el 30 de septiembre de 1998.
+
+Cuarto.- En tanto se expiden o reforman las leyes correspondientes, el Tribunal Estatal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código de Instituciones y Procedimientos Electorales del Estado de Quintana Roo.
+
+Quinto.- Todos los ordenamientos internos que regulan hasta la fecha a los órganos electorales seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones señaladas en este Decreto.
