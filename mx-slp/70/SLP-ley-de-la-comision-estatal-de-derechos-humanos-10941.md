@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-10941"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-13"
-last_updated: "1997-03-13"
+last_updated: "1999-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1999.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de marzo de 1997.
 
@@ -43,9 +43,11 @@ LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público e interés social, de observancia general en el territorio del estado; tiene por objeto, determinar la integración, organización y atribuciones del órgano de protección a los derechos humanos de los potosinos y de quienes se encuentren en la entidad, en cumplimiento a lo dispuesto en el artículo 17 de la Constitución Política del Estado.
+La presente Ley es de orden público e interés social. Tiene por objeto, determinar la integración, organización y atribuciones del órgano de protección a los derechos humanos de los potosinos y de quienes se encuentren en la Entidad, en cumplimiento a lo dispuesto en el artículo 17 de la Constitución Política del Estado.
 
 ###### ARTICULO 2o.
 
@@ -57,9 +59,11 @@ La Comisión Estatal de Derechos Humanos conocerá de las quejas y denuncias pre
 
 La actuación o intervención en los asuntos de la competencia de la Comisión se podrá dar de oficio o a petición de parte.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 4o.
 
-Los procedimientos que se sigan ante la Comisión Estatal de Derechos Humanos serán expeditos, breves y sencillos, cuidando siempre de observar las formalidades procesales esenciales; pero procurando, en la medida de lo posible, el contacto directo con los quejosos, denunciantes y autoridades, a fin de evitar la dilación de las comunicaciones escritas, de acuerdo con los principios de inmediatez, concentración y rapidez.
+Los procedimientos que se sigan ante la Comisión Estatal de Derechos Humanos serán expeditos, breves y sencillos, cuidando siempre de observar las formalidades esenciales del procedimiento; procurando, en la medida de lo posible, el contacto directo con los quejosos, denunciantes y autoridades, a fin de evitar la dilación de las comunicaciones escritas, de acuerdo con los principios de inmediatez, concentración y rapidez.
 
 El personal de la Comisión Estatal deberá manejar de manera confidencial la información o documentación relativa a los asuntos de su competencia.
 
@@ -67,11 +71,21 @@ El personal de la Comisión Estatal deberá manejar de manera confidencial la in
 
 ### CAPITULO I. De la Integración, Competencia y Facultades de la Comisión Estatal
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 5o.
 
-La Comisión Estatal de Derechos Humanos se integrará con un Presidente, una Secretaría Ejecutiva, hasta 5 Visitadores Generales, así como el número de Visitadores Adjuntos y personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+La Comisión Estatal de Derechos Humanos se integrará de la siguiente forma:
 
-La Comisión Estatal, para el mejor desempeño de sus responsabilidades, contará con un Consejo.
+I. Con un Presidente;
+
+II. Un Consejo formado por nueve consejeros;
+
+III. Un Secretario Ejecutivo;
+
+IV. Ocho Visitadores Generales, y
+
+V. El número de Visitadores Adjuntos y personal profesional, técnico y administrativo necesarios para la realización de sus funciones.
 
 ###### ARTICULO 6o.
 
@@ -101,7 +115,9 @@ IX. Expedir su Reglamento Interno;
 
 X. Elaborar y ejecutar programas preventivos en materia de Derechos Humanos;
 
-XI. Supervisar el respeto a los Derechos Humanos en el sistema Penitenciario y de Readaptación Social del Estado;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+XI. Supervisar el respeto a los Derechos Humanos en la etapa de averiguación previa penal, con apego a lo dispuesto en el segundo párrafo del artículo 17 de la Constitución Política del Estado; así como en el Sistema Penitenciario y de Readaptación Social del Estado;
 
 XII. Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del territorio potosino de los Tratados, Convenciones y Acuerdos signados y ratificados por México en materia de Derechos Humanos;
 
@@ -127,11 +143,17 @@ El Presidente de la Comisión Estatal de Derechos Humanos deberá reunir para su
 
 I. Ser ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
 
-II. No tener menos de treinta y cinco años de edad, al día de su nombramiento;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
 
-III. Gozar de buena reputación y honradez; ser de probidad reconocida, y no haber sido condenado por delito intencional que amerite pena privativa de la libertad, u otro que lastime seriamente la buena fama del concepto público; y
+II. Tener cuando menos treinta y cinco años de edad, al día de su nombramiento;
 
-IV. No desempeñar, ni haber desempeñado durante los últimos cinco años anteriores a su designación, el cargo de Presidente del Comité Ejecutivo Nacional, Estatal, Municipal o su equivalente de un partido político. Se dará preferencia a quien sea manifiestamente apartidista.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+III. Ser de reconocida probidad, buena reputación y honradez y no haber sido condenado por delito intencional que haya ameritado pena privativa de la libertad u otro que lastime seriamente la buena fama en el concepto público; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+IV. No desempeñar, ni haber desempeñado durante los últimos cinco años anteriores a su designación, el cargo de Procurador General de Justicia del Estado, Secretario de Despacho o su equivalente, o Presidente del Comité Ejecutivo Nacional, Estatal, Municipal o su equivalente de un partido político. Se dará preferencia a quien sea manifiestamente apartidista.
 
 ###### ARTICULO 10.
 
@@ -141,9 +163,11 @@ El presidente de la Comisión Estatal de Derechos Humanos será nombrado por el 
 
 El presidente de la Comisión Estatal de Derechos Humanos durará en su encargo cuatro años, pudiendo ser ratificado en el cargo, únicamente, por otro período igual.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 12.
 
-Las funciones del Presidente de la Comisión Estatal, de los Visitadores Generales y de la Secretaría Ejecutiva, son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, los Estados, Municipios o en organismos privados, o con el desempeño de su profesión, exceptuando las actividades académicas.
+Las funciones del Presidente, de los Visitadores Generales y del Secretario Ejecutivo, deberán cumplirse de tiempo completo y son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, los Estados, Municipios o de organismos privados, o con el desempeño de su profesión.
 
 ###### ARTICULO 13.
 
@@ -153,9 +177,19 @@ El Presidente de la Comisión Estatal de Derechos Humanos y los Visitadores Gene
 
 Sin perjuicio de otras responsabilidades en que incurra, ni de la aplicación de las leyes por parte de las autoridades competentes, el Presidente de la Comisión Estatal de Derechos Humanos, en su caso, será sujeto de juicio político en los términos de lo dispuesto en la Constitución Política del Estado.
 
-De llegar a ser destituido del cargo el Presidente de la Comisión, el primer visitador general ocupará interinamente la presidencia hasta en tanto sea designado el nuevo Presidente, mismo que habrá de concluir el período respectivo.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
-El Presidente de la Comisión Estatal, previa autorización del consejo, deberá declinar su competencia en el conocimiento de aquellos casos en que mantenga parentesco con el interesado o exista en relación con éste, conflicto de intereses. La misma obligación se entenderá exigible respecto a la Comisión Estatal de Derechos Humanos, cuando su no intervención resulte conveniente para la preservación de su autonomía e integridad moral.
+En caso de falta absoluta del Presidente de la Comisión, el primer Visitador General ocupará interinamente la Presidencia hasta en tanto sea designado un nuevo Presidente, mismo que habrá de concluir el período respectivo. Así mismo lo suplirá en las faltas temporales que sean de quince hasta noventa días.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+Para efectos de lo señalado en el párrafo anterior, se entiende por falta absoluta, la muerte, la destitución, la renuncia y la falta al desempeño del cargo por más de tres meses sin causa justificada.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+No se concederá al Presidente licencia para separarse de su cargo por más de seis meses consecutivos.
+
+De llegar a ser destituido del cargo el Presidente de la Comisión, el primer visitador general ocupará interinamente la presidencia hasta en tanto sea designado el nuevo Presidente, mismo que habrá de concluir el período respectivo.
 
 ###### ARTICULO 15.
 
@@ -163,23 +197,37 @@ El Presidente de la Comisión Estatal de Derechos Humanos tendrá las siguientes
 
 I. Ejercer la representación legal de la Comisión Estatal;
 
-II. Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión, así como dirigir y coordinar al personal bajo su mando, además de nombrar y remover al que en términos de esta ley no deba ser designado por diversa instancia;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+II. Formular conjuntamente con el Consejo, los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión, así como dirigir y coordinar al personal bajo su mando, además de nombrar y remover al que en términos de esta Ley no deba ser designado por diversa instancia;
 
 III. Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
 IV. Distribuir y delegar funciones a los visitadores generales, en los términos del Reglamento Interno;
 
-V. Enviar un informe anual al Congreso Local y al titular del Poder Ejecutivo Estatal sobre las actividades de la Comisión;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+V. Enviar anualmente, al Congreso Local y al titular del Poder Ejecutivo Estatal un informe sobre las actividades de la Comisión, previamente aprobado por el Consejo;
 
 VI. Celebrar convenios, acuerdos de colaboración, de coordinación o de diversa naturaleza con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones, en cumplimiento de sus fines;
 
-VII. Aprobar y emitir las recomendaciones públicas autónomas y acuerdos que resulten de las investigaciones realizadas por los Visitadores;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
 
-VIII. formular las propuestas generales conducentes a una mejor protección de los Derechos Humanos en el Estado;
+VII. Aprobar, emitir y comunicar al Consejo las recomendaciones públicas autónomas y acuerdos que resulten de las investigaciones realizadas por los Visitadores Generales;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+VIII. Formular en coordinación con el Consejo las propuestas generales conducentes a una mejor protección de los derechos humanos en el Estado;
 
 IX. Elaborar el anteproyecto de presupuesto de Egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma; y
 
-X. Las demás que señalen la presente ley y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 1999)</small>
+
+X. Proponer al Consejo el proyecto de Reglamento Interno de la Comisión, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JUNIO DE 1999)</small>
+
+XI. Las demás que le otorguen la presente Ley y otros ordenamientos legales.
 
 ###### ARTICULO 16.
 
@@ -187,35 +235,55 @@ Tanto el Presidente de la Comisión, como los Visitadores Generales y los Visita
 
 ### CAPITULO III. De la Integración, Nombramiento y Facultades del Consejo
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 17.
 
-El Consejo a que se refiere el Artículo 5o. de esta ley, estará integrado por nueve personas que gocen de reconocido prestigio en la sociedad; mexicanos en pleno ejercicio de sus derechos ciudadanos, de los cuales ninguno deberá ser funcionario público, salvo el Presidente de la Comisión. Por cada titular, a excepción de éste último, se designará un suplente, mismo que sólo a falta definitiva de aquél pasará a ocupar el cargo respectivo.
+El Consejo a que se refiere la fracción II del artículo 5o. de esta Ley, estará integrado por el Presidente de la Comisión y por nueve Consejeros que serán designados por el Congreso del Estado y tendrán derecho a voz y voto en los asuntos que se traten en las sesiones respectivas.
 
-El Presidente de la Comisión Estatal de Derechos Humanos lo será también del Consejo y tendrá en éste, voto de calidad. Los demás miembros del Consejo no percibirán remuneración alguna.
+Para ser Consejero se requiere:
+
+I. Ser mexicano en pleno ejercicio de sus derechos ciudadanos;
+
+II. Gozar de reconocido prestigio y honorabilidad, y
+
+III. No ser funcionario público en el momento de su designación.
+
+Por cada Consejero titular se designará un suplemento, mismo que sólo a falta definitiva de aquél pasará a ocupar el cargo respectivo.
+
+El Presidente de la Comisión Estatal de Derechos Humanos lo será también del Consejo y tendrá voto de calidad. Los demás miembros del Consejo no percibirán remuneración alguna.
+
+La Comisión dotará a los Consejeros que no radiquen en la Capital del Estado, de los viáticos necesarios para su traslado y estancia en la misma cuando se les cite a las reuniones de Consejo, y a los Consejeros en general, de los viáticos que sean necesarios para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 18.
 
-Los miembros del consejo serán designados por el H. Congreso del Estado; durarán cuatro años en su cargo, pudiendo ser ratificados, unicamente, por otro período igual. En todo caso se procurará, que tanto la designación de los miembros del consejo, como la del Presidente de la Comisión se efectúen al mismo tiempo, a fin de que concluyan a la vez en el desempeño del encargo.
+Los miembros del Consejo serán designados por el Congreso del Estado; durarán cuatro años en su cargo, pudiendo ser ratificados, únicamente, por otro período igual. En todo caso se procurará que tanto la designación de los miembros del Consejo, como la del Presidente de la Comisión se efectúen al mismo tiempo, a fin de que concluyan a la vez en el desempeño del encargo.
 
 El Consejo contará con un Secretario Técnico, quien será designado por el propio Consejo a propuesta del Presidente de la Comisión Estatal.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 19.
 
-El Consejo de la Comisión Estatal de Derechos Humanos tendrá las siguientes facultades:
+El Consejo de la Comisión Estatal de Derechos Humanos tendrá las siguientes atribuciones:
 
 I. Establecer los lineamientos generales de actuación de la Comisión Estatal;
 
-II. Aprobar y modificar, en su caso, el Reglamento Interno de la Comisión Estatal;
+II. Aprobar y modificar, en su caso, el Reglamento Interno de la Comisión Estatal y vigilar su debido cumplimiento;
 
-III. Aprobar las normas de carácter interno relacionadas con la Comisión Estatal;
+III. Revisar y aprobar el proyecto de informe anual que la Comisión Estatal, a través de su Presidente, presente al Congreso del Estado y al titular del Poder Ejecutivo;
 
-IV. Opinar sobre el proyecto de informe anual que el Presidente de la Comisión Estatal presente al Congreso del Estado y al Titular del Poder Ejecutivo;
+IV. Solicitar al Presidente de la Comisión, información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Estatal;
 
-V. Solicitar al Presidente de la Comisión Estatal, información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Estatal;
+V. Revisar y, en su caso, aprobar el informe que respecto al ejercicio presupuestal rinda el Presidente de la Comisión Estatal;
 
-VI. Conocer y, en su caso, aprobar el informe que respecto al ejercicio presupuestal rinda el Presidente de la Comisión Estatal; y
+VI. Revisar y en su caso aprobar el proyecto del presupuesto anual de egresos de la Comisión, antes de su envío al Ejecutivo del Estado;
 
-VII. Aprobar anualmente el anteproyecto del presupuesto de egresos de la Comisión.
+VII Designar a propuesta del Presidente del Consejo a los Visitadores Generales, al Secretario Ejecutivo y al Secretario Técnico de la Comisión, y removerlos por el voto de las dos terceras partes del mismo, cuando existiere causa justificada para hacerlo, y
+
+VIII. Solicitar, cuando existiere causa justificada, por mayoría de votos, la destitución del Presidente de la Comisión Estatal, ante el Congreso del Estado.
 
 ###### ARTICULO 20.
 
@@ -225,17 +293,23 @@ El Presidente del Consejo convocará a las sesiones ordinarias y extraordinarias
 
 ### CAPITULO IV. Del Nombramiento y Facultades de la Secretaria Ejecutiva
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 21.
 
-El titular de la Secretaría Ejecutiva será nombrado por el Presidente de la Comisión Estatal de Derechos Humanos; para su designación deberá reunir los siguientes requisitos:
+El Secretario Ejecutivo será nombrado por el Consejo de la Comisión Estatal de Derechos Humanos; de entre una terna que proponga el Presidente del mismo. Dicho funcionario tendrá derecho a voz en los asuntos que se traten en las sesiones del Consejo. Para su designación deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Gozar de buena reputación;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+II. Ser de reconocida probidad, buena reputación y honradez, y no haber sido condenado por delito intencional que haya ameritado pena privativa de libertad u otro que lastime seriamente la buena fama en el concepto público;
 
 III. Ser mayor de treinta años de edad, al día de su nombramiento; y
 
-IV. Tener título de Licenciado en Derecho expedido legalmente y tener tres años de ejercicio profesional cuando menos.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+IV. Tener título de licenciado en derecho expedido legalmente y cinco años de ejercicio profesional cuando menos.
 
 ###### ARTICULO 22.
 
@@ -257,9 +331,11 @@ VII. Las demás que le sean conferidas en otras disposiciones legales y reglamen
 
 ### CAPITULO V. Del Nombramiento y Facultades de los Visitadores
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 23.
 
-Los visitadores generales de la Comisión Estatal de Derechos Humanos serán designados por el Presidente de la misma, para su designación deberán reunir los siguientes requisitos:
+Los Visitadores Generales de la Comisión Estatal de Derechos Humanos serán designados por el Consejo a propuesta del Presidente de la misma. Para su designación deberán reunir los siguientes requisitos:
 
 I. Ser ciudadanos potosinos en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -269,11 +345,19 @@ III. Tener título de Licenciado en Derecho expedido legalmente, y tener tres a�
 
 IV. Gozar de buena reputación, honradez, ser de probidad reconocida y no haber sido condenado por delito intencional que amerite pena privativa de la libertad, u otro que lastime seriamente la buena fama del concepto público.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+Cuando menos tres de los ocho visitadores deberán recorrer sistemáticamente las zonas indígenas del Estado para proporcionar los servicios de la Comisión en las diversas localidades. Dichos visitadores deberán hablar preferentemente la lengua de la zona indígena en donde realicen su función o en su caso auxiliarse con un traductor competente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 24.
 
-Los visitadores generales tendrán las siguientes facultades y obligaciones:
+Los visitadores generales tendrán las siguientes atribuciones:
 
-I. Admitir o rechazar las quejas, denuncias e inconformidades presentadas por los afectados, sus representantes, o los denunciantes, ante la Comisión Estatal;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+I. Admitir o rechazar las quejas, denuncias e inconformidades presentadas ante la Comisión Estatal. En caso de rechazo, los visitadores deberán fundar y motivar por escrito la causa del mismo, dentro de los dos días hábiles siguientes al de recepción de la queja, denuncia o inconformidad, y en todo caso deberán orientar al quejoso sobre los medios legales con que cuente para tramitar su asunto, o canalizarlo a la instancia o autoridad competente;
 
 II. A petición de parte interesada, iniciar la investigación de las quejas y denuncias que les sean presentadas, o de oficio, discrecionalmente, iniciar la correspondiente a las denuncias de violación a los derechos humanos, que se difundan a través de los medios de comunicación;
 
@@ -295,13 +379,17 @@ Toda persona podrá denunciar presuntas violaciones a los derechos humanos; al e
 
 Respecto a los afectados por violaciones cuyo paradero se ignore, se encuentren privados de su libertad o que gozando de ella se encuentren por condiciones físicas, mentales, económicas o culturales, impedidos para denunciar por sí mismos los hechos constitutivos de violaciones, éstos se podrán denunciar por sus parientes, vecinos o por cualquier otra persona física o moral que tenga conocimiento de ellos e, inclusive, por menores de edad.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 26.
 
-La queja o denuncia se podrá presentar a más tardar dentro del plazo de seis meses, contados a partir de iniciada la ejecución de los hechos estimados violatorios o, en su caso, del día en que quien la realice tenga conocimiento de ellos. Tratándose de infracciones graves a los derechos humanos, así como en casos excepcionales de evidente justificación, sustentada en acuerdo debidamente fundado, se podrá ampliar el plazo mencionado. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser generadores de violaciones de esa humanidad.
+La queja o denuncia se podrá presentar a más tardar dentro del plazo de seis meses, contados a partir de iniciada la ejecución de los hechos estimados violatorios o, en su caso, del día en que quien la realice tenga conocimiento de ellos. Tratándose de infracciones graves a los derechos humanos, así como en casos excepcionales de evidente justificación, sustentada en acuerdo debidamente fundado, se podrá ampliar el plazo mencionado. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser generadores de violaciones de lesa humanidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 27.
 
-La queja o denuncia se presentará por escrito. Lo anterior, en la inteligencia de que cuando ello no sea posible hacerlo así, se acudirá directamente ante la propia Comisión, en donde al efecto se levantará el escrito que la contenga, pudiéndose además formular inclusive, por carta. En casos urgentes se podrá presentar a través de cualquier medio de comunicación electrónica.
+La queja o denuncia se presentará por escrito. Lo anterior, en la inteligencia de que cuando no sea posible hacerlo así, se acudirá directamente ante la propia Comisión, en donde al efecto se levantará el escrito que la contenga, pudiéndose además formular inclusive, por carta. En casos urgentes se podrá presentar a través de cualquier medio de comunicación.
 
 La queja o denuncia que por cualquier causa se presente sin estar debidamente firmada, deberá ser ratificada personalmente por el interesado o su representante en un término de quince días, contados a partir del siguiente al de su presentación. El mismo lapso se entenderá en favor de quien la haya realizado por carta, sólo que en este caso deberá recaer notificación de la Comisión, por la que comunique de manera especifica dicho término.
 
@@ -315,15 +403,19 @@ La Comisión Estatal de Derechos Humanos recibirá y atenderá las quejas o denu
 
 En todo caso la Comisión Estatal de Derechos Humanos orientará a los comparecientes respecto al contenido de su queja o denuncia, pondrá además a su disposición los formularios que tiendan a facilitar el trámite. Las quejas o denuncias podrán formularse oralmente cuando los comparecientes no sepan escribir o sean menores de edad.
 
-Tratándose de personas que no entiendan o hablen el idioma español, se les proporcionará gratuitamente al efecto, un traductor.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+Tratándose de personas que no entiendan o hablen el idioma español o de personas con discapacidad auditiva o del habla, se les proporcionará gratuitamente un traductor.
 
 ###### ARTICULO 30.
 
 En todos los casos en que se requiera, la Comisión Estatal de Derechos Humanos levantará acta circunstanciada de sus actuaciones.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 31.
 
-La queja o denuncia presentada sin identificar a las autoridades o servidores públicos a quienes se atribuyan actos u omisiones específicas, será admitida si procede, bajo la condición de que en tanto se realice la investigación de los hechos, el denunciante o quejoso lleve al cabo dicha identificación.
+La queja o denuncia presentada sin identificar a las autoridades o servidores públicos a quienes se atribuyan actos u omisiones específicas, será admitida si procede, bajo la condición de que en tanto se realice la investigación de los hechos, el denunciante o quejoso lleve al cabo dicha identificación, apoyándolo para tal efecto en los casos en que sea necesario.
 
 ###### ARTICULO 32.
 
@@ -359,7 +451,9 @@ La no rendición del informe o, en su caso, la omisión en la entrega de la docu
 
 Cuando para la resolución de un asunto se requiera una investigación, el Visitador General tendrá las siguientes facultades:
 
-I. Pedir a las autoridades o servidores públicos a los que se imputen violaciones de Derechos Humanos, la presentación de informes o documentación adicionales, los que deberán rendir en un plazo no mayor de quince días naturales;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1999)</small>
+
+I. Pedir a las autoridades o servidores públicos a los que se imputen violaciones a los derechos humanos, la presentación de informes o documentación adicionales, los que deberán rendir en un plazo no mayor de diez días naturales;
 
 II. Solicitar de otras autoridades, servidores públicos o particulares, todo género de documentos e informes;
 
@@ -395,7 +489,9 @@ Concluida la investigación el visitador general formulará, en su caso, un proy
 
 En el proyecto de recomendación se señalarán las medidas que procedan para la efectiva restitución a los afectados en sus derechos fundamentales violados y, en su caso, para la reparación de los daños y perjuicios que se hubiesen ocasionado.
 
-En todo caso, los proyectos de referencia serán sometidos a la aprobación del Presidente de la Comisión Estatal.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+En todo caso, los proyectos de referencia serán sometidos a la aprobación del Presidente de la Comisión Estatal y dados a conocer al Consejo de la misma.
 
 ###### ARTICULO 44.
 
@@ -405,9 +501,13 @@ En caso de que no se comprueben las violaciones de derechos humanos imputadas, l
 
 La recomendación será pública y autónoma, no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirija y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
 
-Una vez recibida la recomendación, la autoridad o servidor público de que se trate informará dentro de los diez días hábiles siguientes a su notificación, si la acepta. De no hacerlo, por considerar que la misma es incongruente, infundada, improcedente o excesiva, dentro del mismo término señalado comunicará a la Comisión su desacuerdo debidamente fundado, a fin de que ésta revalore o reconsidere su pronunciamiento, hecho lo cual la Comisión en un plazo no mayor de quince días naturales contados a partir de la recepción del escrito de desacuerdo, la reenviará en los mismos términos o, en su caso, con las modificaciones o ajustes que hubieren sido procedentes efectuar, debiendo entonces el requerido informar a la Comisión dentro de los diez días hábiles siguientes, a partir de la fecha de recepción de la diversa notificación, si acepta la recomendación, haya sido modificada o no.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
-Aceptada que sea la recomendación, se concederán quince días hábiles, contados a partir del de la aceptación, para dar cumplimiento a la misma; debiendo hacer llegar a la Comisión en el plazo antes señalado, copia certificada del documento o las pruebas que en su caso acrediten dicho cumplimiento.
+Una vez recibida la recomendación, la autoridad o servidor público de que se trate informará dentro de los cinco días hábiles siguientes a su notificación, si la acepta. De no hacerlo, por considerar que la misma es incongruente, infundada, improcedente o excesiva, dentro del mismo término señalado comunicará a la Comisión su desacuerdo debidamente fundado, a fin de que ésta revalore o reconsidere su pronunciamiento, hecho lo cual la Comisión en un plazo no mayor de diez hábiles contados a partir de la recepción del escrito de desacuerdo, la reenviará en los mismos términos o, en su caso, con las modificaciones o ajustes que hubieren sido procedentes efectuar, debiendo entonces el requerido informar a la Comisión dentro de los diez días hábiles siguientes, a partir de la fecha de recepción de la diversa notificación, si acepta la recomendación, haya sido modificada o no.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+Aceptada que sea la recomendación, se concederán diez días hábiles, contados a partir del de la aceptación, para dar cumplimiento a la misma; debiendo hacer llegar a la Comisión en el plazo antes señalado, copia certificada del documento o las pruebas que en su caso acrediten dicho cumplimiento.
 
 El plazo concedido, de ser necesario, podrá ampliarse cuando las circunstancias, la naturaleza del asunto, o bien, de la propia recomendación, así lo precisen.
 
@@ -433,9 +533,11 @@ La Comisión Estatal de Derechos Humanos notificará inmediatamente a los quejos
 
 El Presidente de la Comisión Estatal de Derechos Humanos deberá publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión Estatal. En casos excepcionales podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 51.
 
-El Presidente de la Comisión Estatal de Derechos Humanos deberá enviar un informe anual, tanto al Congreso del Estado como al titular del Ejecutivo Estatal, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente de la Comisión Estatal de Derechos Humanos deberá enviar un informe anual, previamente aprobado por el Consejo, tanto al Congreso del Estado como al titular del Ejecutivo Estatal, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
 ###### ARTICULO 52.
 
@@ -487,9 +589,11 @@ La Comisión Estatal denunciará ante los órganos competentes los delitos o fal
 
 Respectos a los particulares que durante los procedimientos de la Comisión Estatal incurran en faltas o en delitos, la misma lo hará del conocimiento de las autoridades competentes para que sean sancionadas de acuerdo con las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 60.
 
-La Comisión Estatal de Derechos Humanos deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realice dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar a la Comisión Estatal sobre las medidas o sanciones disciplinarias impuestas.
+La Comisión Estatal de Derechos Humanos deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realice dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar a la Comisión Estatal sobre las medidas o sanciones disciplinarias impuestas, o en su caso sobre la improcedencia de las mismas, dentro de los cinco días hábiles siguientes.
 
 ###### ARTICULO 61.
 
@@ -507,9 +611,11 @@ Todos los servidores públicos al servicio de la Comisión Estatal son trabajado
 
 ## TITULO SEXTO. Del Patrimonio y del Presupuesto de la Comisión Estatal de Derechos Humanos
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 63.
 
-La Comisión Estatal de Derechos Humanos contará con patrimonio propio. El Gobierno Estatal deberá proporcionarle los recursos materiales y financieros para su debido funcionamiento.
+La Comisión Estatal de Derechos Humanos contará con patrimonio propio. El Gobierno Estatal deberá proporcionarle los recursos materiales y financieros necesarios para su debido funcionamiento.
 
 ###### ARTICULO 64.
 
@@ -550,3 +656,13 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 DR. JESUS EDUARDO NOYOLA BERNAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JUNIO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- En términos de las atribuciones del Consejo de la Comisión Estatal de Derechos Humanos, éste modificará y aprobará en congruencia con lo dispuesto en este Decreto, a más tardar dentro de los sesenta días contados a partir de la entrada en vigor del mismo, el Reglamento interno de la Comisión. Mientras ello ocurre, mantendrá su vigencia el actual, en lo que no se oponga al presente Decreto.
