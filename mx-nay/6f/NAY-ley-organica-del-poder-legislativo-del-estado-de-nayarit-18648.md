@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-18648"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-08"
-last_updated: "2000-03-08"
+last_updated: "2000-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DEL 2000.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 8 de marzo de 2000.
 
@@ -53,7 +53,9 @@ Los diputados que integran la Asamblea del Congreso, asumirán sus cargos y ejer
 
 a).- La actividad legislativa;
 
-b).- Las facultades de fiscalización de los recursos públicos; y
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
+b).- El ejercicio de las facultades de fiscalización de los recursos públicos y de la gestión financiera en los términos de los artículos 47 y 69 de la Constitución Local.
 
 c).- La gestión y procuración de la solución a los problemas sociales que demande el interés público de sus distritos y del Estado.
 
@@ -65,9 +67,11 @@ En el ejercicio de sus atribuciones y ámbito de competencia, el Congreso del Es
 
 El ejercicio de las funciones de los diputados durante un periodo constitucional de 3 años conforman una Legislatura, la que se denominará según el número ordinario que le corresponda.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 6o.
 
-El asiento del Poder Legislativo del Estado será la ciudad de Tepic, Capital del Estado de Nayarit, y sólo podrá cambiarse por disposición expresa de las dos terceras partes de la Asamblea, siempre y cuando los actos que lo originen no contravengan la Constitución y las Leyes.
+El asiento del Poder Legislativo del Estado será la ciudad de Tepic, Capital del Estado de Nayarit, y sólo podrá cambiarse con arreglo a los requisitos establecidos en la Constitución Política Local.
 
 ###### ARTICULO 7o.
 
@@ -85,9 +89,11 @@ El Presidente de la Comisión de Gobierno Legislativo, el de la Mesa Directiva o
 
 El Congreso del Estado celebrará en cada año dos periodos constitucionales de sesiones ordinarias; el primero iniciará el día 18 de agosto y terminará el día 17 de diciembre; y el segundo comenzará el día 18 de marzo y concluirá el día 17 de mayo del año respectivo.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 10.
 
-El Congreso del Estado podrá celebrar sesiones extraordinarias de conformidad a lo establecido por el artículo 40 y 41 de la Constitución Local, las cuales se convocarán a iniciativa del pleno, de la permanente, o a petición del titular del Poder Ejecutivo y sólo en casos de urgente necesidad.
+El Congreso del Estado podrá celebrar sesiones extraordinarias de conformidad a lo establecido por el artículo 40 de la Constitución Local, las cuales se convocarán por la Diputación Permanente, por el titular del Poder Ejecutivo o por acuerdo de las dos terceras partes del número total de diputados, pero por conducto de la Diputación Permanente.
 
 ###### ARTICULO 11.
 
@@ -119,9 +125,11 @@ El fuero constitucional protege el ejercicio de las funciones inherentes al carg
 
 Los diputados son inviolables por las opiniones públicas que emitan en el desempeño de su cargo o en el seno del recinto parlamentario y jamás podrán ser reconvenidos por ello.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 16.
 
-Los diputados son responsables por los delitos, faltas u omisiones que cometan durante el tiempo de su cargo, pero no podrán ser detenidos ni privados de su libertad, ni se ejercitará acción penal en su contra para ser juzgados por la autoridad competente, hasta en tanto el Congreso emita declaratoria de procedencia, y como consecuencia de ello, se proceda a la separación de su cargo para someterse al ámbito jurisdiccional de los tribunales competentes.
+Los diputados son responsables por los delitos, faltas u omisiones que cometan durante el tiempo de su cargo y no podrán ser detenidos ni procesados hasta en tanto, el Congreso emita declaratoria de procedencia.
 
 ###### ARTÍCULO 17.
 
@@ -145,11 +153,11 @@ VIII.- Contar con un local o cubículo privado, personal secretarial y elementos
 
 IX.- Contar con asesoría y apoyo técnico profesional multidisciplinario en las Comisiones a las que pertenezca para el análisis, estudio y dictamen de los asuntos o iniciativas turnadas;
 
-X.- Tener acceso a la información necesaria para el estudio de las iniciativas turnadas, así como para realizar actos de supervisión y fiscalización de las dependencias y Entidades de la Administración Pública Estatal y Municipal.
+X.- (DEROGADA, RECORRIÉNDOSE EN SU ORDEN LA FRACCION XI, , P.O. 3 DE JUNIO DEL 2000)
 
-XI.- Gozar de licencias para separarse de su cargo temporal o definitivamente, de acuerdo con lo estipulado en la Constitución Local, esta Ley y su Reglamento; y
+X.- Gozar de licencias para separarse de su cargo temporal o definitivamente, de acuerdo con lo estipulado en la Constitución Local, esta Ley y su Reglamento; y
 
-XII.- Las demás que la Constitución del Estado, la presente Ley y su Reglamento les confieran.
+XI.- Las demás que la Constitución del Estado, la presente Ley y su Reglamento les confieran.
 
 ###### ARTICULO 18.
 
@@ -179,9 +187,11 @@ X.- Responder ante la Asamblea por los actos u omisiones en que incurra en el de
 
 XI.- Las demás que contemplen la Constitución del Estado, esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 19.
 
-Los diputados que sin causa justificada no concurran a rendir protesta dentro de los diez días de la instalación del Congreso, y del Primer Periodo de Sesiones se les tendrá por desistidos del cargo conferido, procediéndose a lo previsto en el artículo 32 de la Constitución Política del Estado.
+Los diputados que sin causa justificada no concurran a rendir protesta dentro de los diez días de la Instalación del Congreso por ese solo hecho se considerará que no aceptan su cargo, procediéndose a lo previsto en el artículo 32 de la Constitución Política del Estado.
 
 ###### ARTICULO 20.
 
@@ -197,13 +207,17 @@ Los diputados que no concurran a una sesión sin causa justificada o abandonen e
 
 En igual forma se aplicarán las medidas disciplinarias que establece esta Ley a los diputados que no asistan a las reuniones o comisiones, abandonen éstas sin causa justificada, o bien no cumplan con las tareas de representación que se les encomienden.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 22.
 
-Cuando al abrirse el periodo de sesiones los diputados no concurran durante diez días consecutivos, sin causa justificada, y no acrediten la causa de fuerza mayor que les impide hacerlo, se les declarará suspendidos en sus funciones legislativas hasta el inicio del siguiente periodo de sesiones, llamándose al suplente o al que siga en la lista.
+Cuando al abrirse el periodo de sesiones los diputados no concurran durante cinco sesiones continuas o diez discontinuas, sin causa justificada, perderán su derecho de concurrir a sesiones hasta el siguiente periodo, llamándose desde luego al suplente o al que siga en la lista.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
 
 ###### ARTICULO 23.
 
-Las medidas disciplinarias que establece esta ley, se aplicarán de acuerdo a la gravedad de las mismas.
+Las medidas disciplinarias que establece esta Ley, se aplicarán de acuerdo a la gravedad de las causas.
 
 ### CAPÍTULO II. DE LA SUSPENSION, SEPARACIÓN Y PERDIDA DE LA
 
@@ -213,13 +227,17 @@ CONDICION DE DIPUTADOS.
 
 Los diputados serán suspendidos de sus funciones cuando incurran en las causales previstas para el efecto en la Constitución Política del Estado y en esta Ley.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 25.
 
-Los diputados quedarán separados de su cargo cuando pidan licencia por tiempo indefinido y cuando por causa justificada la Asamblea lo determine, llamándose al suplente o al que siga en la lista.
+Los diputados quedarán separados de su cargo cuando les sea autorizada licencia por tiempo indefinido; y en aquellos otros casos en que se resuelva su separación conforme a la Ley llamándose al suplente o al que siga en la lista.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
 
 ###### ARTICULO 26.
 
-El integrante de la Legislatura perderá la condición de diputado, cuando por causa justificada el Congreso del Estado erigido en jurado emita la declaratoria de procedencia decretando el desafuero de éste.
+El integrante de la Legislatura quedará separado de su condición de diputado en tanto esté sujeto a proceso penal, a partir de que el Congreso emita declaratoria de procedencia. Si la sentencia fuere absolutoria el inculpado podrá reasumir su función.
 
 ###### ARTICULO 27.
 
@@ -513,9 +531,11 @@ La Diputación Permanente es el Organo Político Administrativo del Congreso que
 
 Hecha la elección de la Diputación Permanente, en la primera sesión el Presidente de la misma la declarará formalmente instalada, lo que comunicará al Gobernador del Estado, al Tribunal Superior de Justicia y a la Secretaría General de Gobierno, para su conocimiento.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 56.
 
-La Diputación Permanente tendrá las atribuciones y facultades que expresamente le otorgan los artículos 40 fracción I y 60 de la Constitución Política del Estado.
+La Diputación Permanente además de las atribuciones o facultades que expresamente le otorgan los artículos 40 fracción I y 60 de la Constitución Política del Estado, ejercerá las funciones que en la misma se establecen.
 
 ###### ARTICULO 57.
 
@@ -617,7 +637,9 @@ IX.- De Administración Pública;
 
 X.- De Desarrollo Económico y Social;
 
-XI.- De Asuntos Agropecuarios, Pesqueros, Forestales y Mineros;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DEL 2000)</small>
+
+XI.- De Asuntos Agropecuarios, Forestales y Mineros;
 
 XII.- De Industria, Comercio y Turismo;
 
@@ -636,6 +658,10 @@ XVIII.- De Atención a la Juventud;
 XIX.- De Equidad y Género;
 
 XX.- De Gestoría Social;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DEL 2000)</small>
+
+XXI.- De Asuntos Pesqueros.
 
 Estas Comisiones podrán ampliarse o disminuirse por acuerdo de la Legislatura.
 
@@ -667,11 +693,15 @@ c).- De Condecoraciones, Ceremonial y Protocolo.
 
 Estas Comisiones podrán ampliarse o disminuirse por acuerdo de la Asamblea, y en términos generales, se regirán por las disposiciones ya señaladas, con excepción de lo que disponen la Constitución y las Leyes respectivas en relación con las Comisiones de Gran Jurado y de Suspensión o Desaparición de Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 78.
 
-Las Comisiones Ordinarias y Especiales se constituirán en los primeros 15 días de iniciación de la Legislatura y durarán en su cargo todo el Periodo Constitucional.
+Las Comisiones Ordinarias y Especiales se constituirán en los primeros treinta días de iniciación de la Legislatura y durarán en su cargo todo el periodo constitucional.
 
-## TITULO SEXTO. FACULTADES DEL CONGRESO EN MATERIA ELECTORAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DEL 2000)</small>
+
+## TITULO SEXTO. DE LAS FACULTADES DEL CONGRESO EN MATERIA ELECTORAL
 
 ### CAPITULO UNICO. DE LA DESIGNACION DE GOBERNADOR PROVISIONAL, INTERINO O SUBSTITUTO
 
@@ -687,13 +717,17 @@ De no alcanzarse la votación requerida en una primera votación, se realizará 
 
 Hecha la designación, el Congreso emitirá la convocatoria a elecciones en un plazo no mayor de 15 días naturales a partir del momento de la designación.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 81.
 
-En las faltas temporales del Gobernador del Estado, cuando dicha falta exceda de treinta días, el Congreso o la Diputación Permanente, nombrarán un Gobernador Interino por el tiempo que dure dicha falta.
+En las faltas temporales del Gobernador del Estado, el Congreso o la Diputación Permanente nombrará un Gobernador Interino en los términos de la Constitución Local.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
 
 ###### ARTICULO 82.
 
-Si la falta del Gobernador del Estado fuere absoluta y ésta ocurriere durante los tres primeros años del periodo constitucional procederá una nueva elección, designando el Congreso o la Diputación Permanente un Gobernador Interino, observándose en lo conducente lo dispuesto en el artículo anterior.
+Si la falta del Gobernador del Estado fuere absoluta y ésta ocurriere durante los tres primeros años del periodo constitucional procederá una nueva elección, designando el Congreso o la Diputación Permanente un Gobernador Interino.
 
 ###### ARTICULO 83.
 
@@ -859,17 +893,21 @@ Las resoluciones que dicte el Congreso en materia de acuerdos, sea que se presen
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 103.
 
-La Contaduría Mayor de Hacienda es el Órgano Técnico del Congreso del Estado, que tiene a su cargo la revisión de la Cuenta Pública del Gobierno del Estado, de los Ayuntamientos y de los organismos e instituciones que administren fondos o valores del sector público, y cumplirá con las atribuciones que deriven de la Constitución Local, de las que se establecen en esta Ley y en su Reglamento correspondiente.
+La Contaduría Mayor de Hacienda es el Órgano Técnico del Congreso, que tiene a su cargo la revisión de la Cuenta Pública del Gobierno del Estado, de los Ayuntamientos y de los organismos e instituciones que administren fondos o valores públicos, de conformidad con las disposiciones constitucionales y legales que determinen su organización, funcionamiento y atribuciones.
 
 ###### ARTICULO 104.
 
 La Contaduría Mayor de Hacienda ejercerá sus funciones con la supervisión de la Comisión de Gobierno Legislativo y la Comisión de Hacienda, Cuenta Pública y Presupuesto.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 105.
 
-La Contaduría como Órgano Técnico Auxiliar del Congreso deberá estar integrada por un Contador Mayor de Hacienda, un Subcontador, así como las unidades administrativas, técnicas, contables y auditoras que expresamente autorice la Legislatura con base en las disposiciones que ésta expida; asimismo se deberá contemplar en el Presupuesto la asignación de recursos que sean necesarios para su funcionamiento.
+La Contaduría Mayor de Hacienda ejercerá sus funciones con la supervisión e intervención de la Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso. Se integrará por un Contador Mayor, un Subcontador y las unidades administrativas, técnicas, contables y auditoras que expresamente autorice la Legislatura, en base a las disposiciones que ésta expida, contemplándose en el presupuesto la asignación de recursos que sean necesarios para su funcionamiento.
 
 > <small>(F. DE E., P.O. 20 DE MAYO DE 2000)</small>
 
@@ -915,9 +953,11 @@ El Congreso o la Diputación Permanente designarán de entre las propuestas de l
 
 En igual forma la Asamblea o la Diputación Permanente en su caso, designará o ratificará el nombramiento de otros funcionarios que requieran de su intervención.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 112.
 
-La Asamblea o la Diputación Permanente otorgará o negará la ratificación del nombramiento del Procurador General de Justicia, conforme lo dispuesto en el artículo 60 de la Constitución Política del Estado.
+La Asamblea o la Diputación Permanente otorgará o negará la ratificación del nombramiento del Procurador General de Justicia conforme lo dispuesto en la Constitución Política del Estado.
 
 ## TITULO DECIMO PRIMERO. DEL SERVICIO CIVIL DE CARRERA
 
@@ -953,9 +993,11 @@ El Honorable Congreso del Estado conocerá de los juicios de responsabilidad en 
 
 Para instruir y sustanciar el procedimiento de juicio político, la Legislatura, en los primeros 30 días del Primer Periodo ordinario de Sesiones del Primer Año de Ejercicio Constitucional, nombrará la Comisión Especial de Gran Jurado integrada por ocho diputados, que formarán según el orden de su nombramiento las secciones Instructora y de Enjuiciamiento; ésta Comisión funcionará todo el periodo constitucional y sólo en circunstancias especiales y por voto de las dos terceras partes de los diputados presentes podrá renovarse.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO 119.
 
-Por cada sección se nombrará un Presidente, un Vicepresidente, un Secretario y un Suplente, quien sustituirá las faltas temporales y permanentes de cualquiera de ellos.
+Por cada Sección se nombrará un Presidente, un Vicepresidente, un Secretario y un Vocal.
 
 ###### ARTICULO 120
 
@@ -1029,15 +1071,17 @@ Las sesiones donde se discuta un dictamen, de suspensión o revocación de manda
 
 La presente Ley entrará en vigor a partir del día 17 de marzo del año 2000, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-Lo no previsto por la presente Ley y su Reglamento, será resuelto por el pleno de la Legislatura o en su caso por la Comisión de Gobierno Legislativo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 3 DE JUNIO DEL 2000)</small>
 
 ###### ARTICULO SEGUNDO.
 
 Se abroga la Ley Orgánica del Poder Legislativo del Estado de Nayarit, de fecha 17 de diciembre de 1988, publicada en el Periódico Oficial el día treinta de diciembre de 1988 mediante el decreto 7188.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DEL 2000)</small>
+
 ###### ARTICULO TERCERO.
 
-Una vez publicada la Ley se dispondrá del Segundo Periodo Ordinario de Sesiones, para actualizar y desarrollar su Reglamento Interior. En tanto, se aplicará el Reglamento vigente en cuanto no contravenga a la presente ley.
+En tanto no se actualice el Reglamento Interior, a las disposiciones normativas de la Ley Orgánica del Poder Legislativo, se aplicará el Reglamento de Gobierno Interior y del Proceso Legislativo vigente, siempre que no contravenga lo dispuesto en la presente Ley.
 
 Para el periodo constitucional de la Vigésimo Sexta Legislatura, en lo relativo al artículo 40 de esta Ley, la Presidencia de la Comisión de Gobierno Legislativo será alternada y tendrá una duración anual; ésta encomienda se desempeñará sucesivamente por los Coordinadores de los Grupos Parlamentarios acreditados en la Legislatura en orden decreciente del número de Diputados que los integran.
 
@@ -1072,3 +1116,9 @@ RAUL MEJIA GONZÁLEZ.
 Dip. Secretario,
 
 MARIA HILARIA DOMINGUEZ ARVIZU.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE JUNIO DEL 2000
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
