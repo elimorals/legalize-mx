@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2001-07-17"
+last_updated: "2002-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -1089,11 +1089,15 @@ XI. Elegir a los magistrados director y subdirector del Instituto de Investigaci
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
-XI. (sic) Solicitar al Consejo Electoral del Estado los documentos necesarios para poder ejercer cabalmente sus funciones; y
+XI (SIC). Solicitar al Consejo Electoral del Estado los documentos necesarios para poder ejercer cabalmente sus funciones; y (sic)
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
-XII. Las demás que le confiera esta ley.
+XIII. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Tribunal Electoral, se ajusten a los criterios contemplados en la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+XIV. Las demás que le otorgue la Constitución Política del Estado de Jalisco y las leyes aplicables.
 
 ###### Artículo 89.
 
@@ -2900,3 +2904,9 @@ CUARTO.- El segundo párrafo del artículo 78, de la Ley Orgánica del Poder Jud
 QUINTO.- Se deberán realizar las adecuaciones presupuestales necesarias de acuerdo con las leyes aplicables acorde a (sic) nueva estructura del Tribunal Electoral.
 
 SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
+
+P.O. 22 DE JUNIO DE 2002.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, deberán expedir sus reglamentos de adquisiciones y enajenaciones en un plazo de 90 días naturales contados a partir de la vigencia del presente decreto.
