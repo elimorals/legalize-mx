@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-registro-civil-para-el-estado-de-4754"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1975-12-31"
+last_updated: "1977-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1977.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 31 de diciembre de 1975.
 
@@ -97,19 +97,29 @@ DE LA ORGANIZACION Y FUNCIONAMIENTO DEL REGISTRO CIVIL.
 
 DE LA DIRECCION ESTATAL DEL REGISTRO CIVIL.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 9.
 
-La Dirección Estatal del Registro Civil, que dependerá directamente de la Secretaría de Gobierno, será el órgano del Poder Ejecutivo al que corresponderá la organización, dirección y administración de las Oficinas del Registro Civil, y tendrá su sede en la capital del Estado.
+La Dirección Estatal del Registro Civil, que dependerá directamente de la Secretaría General de Gobierno, será el órgano del Poder Ejecutivo al que corresponderá la organización, dirección y administración de las Oficinas del Registro Civil, y tendrá su sede en la capital del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 10.
 
-Para los efectos del servicio, el Registro Civil estará integrado por las Oficialías del Registro Civil que determine el Ejecutivo del Estado, con las circunscripciones territoriales que se señalen por aquél, por conducto de la Secretaría de Gobierno.
+Para los efectos del servicio, el Registro Civil estará integrado por las Oficialías del Registro Civil que determine el Ejecutivo del Estado, con las circunscripciones territoriales que se señalen por aquél, por conducto de la Secretaría General de Gobierno.
 
 El acuerdo que contenga la determinación del número de las Oficialías y sus respectivas competencias territoriales, será publicado en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 11.
 
-La Dirección Estatal del Registro Civil, estará a cargo de un Director, quien auxiliarán los empleados que determine el Presupuesto de Egresos del Estado.
+La Dirección Estatal del Registro Civil, estará a cargo de un Director, quien será auxiliado por un Subdirector y los empleados que determine el Presupuesto de Egresos del Estado.
+
+Las faltas temporales del Director serán cubiertas por el Subdirector.
+
+El Subdirector deberá reunir los requisitos señalados en el artículo 30.
 
 ###### Art. 12.
 
@@ -177,9 +187,11 @@ IV. Tener conocimientos suficientes sobre el Registro Civil; y
 
 V. No haber sido condenado por delito intencional que merezca pena corporal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 16.
 
-Los Oficiales del Registro Civil serán nombrados y removidos libremente por el Gobernador del Estado, de acuerdo con la facultad que le confiere el artículo 82 fracción XXVII de la Constitución Política del Estado.
+Los Oficiales del Registro Civil serán nombrados y removidos libremente por el Gobernador del Estado.
 
 ###### Art. 17.
 
@@ -201,11 +213,11 @@ Los Oficiales del Registro Civil o autoridad a quien corresponda fungir con tal 
 
 Las formas para la expedición de copias certificadas de actas que no hayan sido devueltas, se considerarán como usadas y su importe se liquidará por los responsables de las Oficinas Recaudadoras de Rentas del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 22.
 
-Donde haya varios Oficiales del Registro Civil, se suplirán en sus faltas temporales los unos a los otros en la forma que determine la Secretaría de Gobierno, por conducto de la Dirección Estatal del Registro Civil, y cuando ésto no fuere posible por alguna causa, así como en los lugares donde haya un solo Oficial, suplirán dichas faltas la Política Municipal, y en defecto de ésta, por impedimento legal, el funcionario que deba sustituirlo en el cargo con arreglo a la Ley.
-
-Lo anterior, sin perjuicio de lo dispuesto por el artículo 52 del Código Civil del Estado.
+Donde haya varios Oficiales del Registro Civil, se suplirán en sus faltas temporales los unos a los otros en la forma que determine la Secretaría General de Gobierno, por conducto de la Dirección Estatal del Registro Civil, y cuando esto no fuere posible por alguna causa, así como en los lugares donde haya un solo Oficial, suplirán dichas faltas los Presidentes Municipales, y en defecto de éstos, por impedimento legal, el funcionario que deba sustituirlo en el cargo con arreglo a la Ley.
 
 ###### Art. 23.
 
@@ -213,7 +225,9 @@ Son obligaciones de los Oficiales del Registro Civil:
 
 I. Otorgar la protesta de ley antes de tomar posesión de su cargo, en los términos que señale la ley;
 
-II. Asistir con puntualidad y estar al frente del despacho de su oficina, durante las horas que señale la Secretaría de Gobierno, sin perjuicio de que se pueda actuar en horas extraordinarias, a petición de los interesados, o en casos urgentes como de peligro de muerte;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+II. Asistir con puntualidad y estar al frente del despacho de su oficina, durante las horas que señale la Secretaría General de Gobierno, por conducto de la Dirección Estatal del Registro Civil, sin perjuicio de que se pueda actuar en horas extraordinarias, a petición de los interesados, o en casos urgentes como de peligro de muerte;
 
 III. Vigilar el exacto cumplimiento del Código Civil y de esta Ley, en la esfera de su competencia;
 
@@ -221,7 +235,9 @@ IV. Expedir las certificaciones que les soliciten sobre datos o constancias que 
 
 V. Recaudar los derechos que se causen por los servicios públicos que presten, de acuerdo con las tarifas y sistemas señalados por las disposiciones fiscales vigentes, en los términos de las fracciones II y IV del artículo 28 de esta Ley;
 
-VI. No autorizar ningún acto de los que causen derechos, sin que previamente sean cubiertos o hayan sido condonados por el Ejecutivo del Estado, por conducto de la Secretaria de Gobierno o de la Secretaría de Finanzas del Estado. Esta condonación deberá expedirse en forma obligatoria cuando se trate de indigentes;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+VI. No autorizar ningún acto de los que causen derechos, sin que previamente sean cubiertos o hayan sido condonados por el Ejecutivo del Estado, por conducto de la Secretaria General de Gobierno o de la Tesorería General. Esta condonación deberá expedirse en forma obligatoria cuando se trate de indigentes;
 
 VII. Devolver a la Recaudación de Rentas, dentro de los primeros 10 días de cada mes, las formas de expedición de copias certificadas que se deterioren, manchen o inutilicen por cualquier causa, informando a la Dirección del Registro Civil;
 
@@ -245,7 +261,7 @@ Los Oficiales del Registro Civil formarán una compilación de las leyes, decret
 
 ###### Art. 25.
 
-Los Oficiales del Registro Civil, aún cuando expidan certificaciones de las actas que se levante, extenderán en cada caso a los interesados, una boleta en que consta: La fecha, lugar, número del acta y clase de registro, a fin de que en todo tiempo y con estos datos se soliciten a ese oficina o ante la Dirección Estatal, en su caso, copia certificada de dicha acta. Esta boleta debe expedirse gratuitamente.
+Los Oficiales del Registro Civil, aún cuando expidan certificaciones de las actas que se levante, extenderán en cada caso a los interesados, una boleta en que consta: La fecha, lugar, número del acta y clase de registro, a fin de que en todo tiempo y con estos datos se soliciten a esa oficina o ante la Dirección Estatal, en su caso, copia certificada de dicha acta. Esta boleta debe expedirse gratuitamente.
 
 ###### Art. 26.
 
@@ -267,7 +283,7 @@ VII.- Por el registro del Reconocimiento de hijos o de tutela, $10.00 (DIEZ PESO
 
 VIII.- Cuando el registro de los actos y hechos a que se refieren las fracciones I, II y III se verifique fuera del lugar de residencia de la Oficialía, el Oficial cobrará además de las cantidades previstas en dichas fracciones, $0.50 (CINCUENTA CENTAVOS) por cada kilómetro que corra, de ida y vuelta.
 
-IX.- Por formas de solicitudes de matrimonio, convenios de sociedad conyugal o separación de bienes, declaración de testigos, consentimiento de quienes ejercen la patria potestad y certificado médico prenupcial, cada una $3.00 8TRES PESOS).
+IX.- Por formas de solicitudes de matrimonio, convenios de sociedad conyugal o separación de bienes, declaración de testigos, consentimiento de quienes ejercen la patria potestad y certificado médico prenupcial, cada una $3.00 (TRES PESOS).
 
 ###### Art. 27.
 
@@ -291,13 +307,21 @@ $ 7,501.00 $ 10,000.00 40% $ 1,700.00
 
 $ 10,001.00 $ 15,000.00 30% $ 2,700.00
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 28.
 
 Para el exacto cumplimiento de los artículos 26 y 27, las Oficialías del Registro Civil y los Recaudadores de Rentas se sujetarán a las siguientes disposiciones:
 
-I.- A efecto de determinar el derecho que causan el registro y la expedición de actas o informes escritos a que se refieren las fracciones II, III, IV, V y VII del artículo 26, en los casos en que se fija una cuota establecida entre un mínimo y un máximo, el Oficial del Registro Civil deberá tomar en cuenta la condición económica del interesado. Con el objeto de que se pague la cuota, el Oficial girará una orden de pago a la Recaudación de Rentas que corresponda, la cual deberá expedir recibo, mismo que será presentado por el interesado al Oficial para que proceda al registro del acta o hecho de que se trate, o a la expedición del acta o informe solicitado.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
-II.- En los lugares donde no resida Recaudador de Rentas, el Oficial del Registro Civil se proveerá de libros talonarios que debidamente numerados y sellados, le serán entregado por el Recaudador de Rentas bajo cuya jurisdicción está comprendido el Municipio de que se trate. En los mencionados libros se hará constar el pago de los derechos que cause el registro de los actos y hechos del estado civil, y los demás supuestos previstos en el artículo 26
+I.- A efecto de determinar el derecho que causa el servicio, en los casos en que se fije una cuota establecida entre un mínimo y un máximo, el Oficial del Registro Civil deberá tomar en cuenta la condición económica del interesado. Con el objeto de que se pague la cuota, el Oficial girará una orden de pago a la Recaudación de Rentas que corresponda, la cual deberá expedir recibo, mismo que será presentado por el interesado al Oficial para que proceda al registro del acto o hecho de que se trate, o a la expedición del acta o informe solicitado.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+II.- En los lugares donde no resida Recaudador de Rentas, el Oficial del Registro Civil se proveerá de libros talonarios que debidamente numerados y sellados, le serán entregado por el Recaudador de Rentas bajo cuya jurisdicción está comprendido el Municipio de que se trate.
+
+En los mencionados libros se hará constar el pago de los derechos y el servicio prestado.
 
 III.- Los Oficiales del Registro Civil que residan en lugares donde haya Recaudación de Rentas, practicarán liquidación con el titular de esta Oficina cada quince días, para que, conociendo el número de registros y anotaciones efectuadas, así como los informes y copias certificadas expedidos, se compruebe la cantidad recaudada por la prestación de servicios a cargo de la Oficialía, durante el mencionado término. Una vez hecho lo anterior, el Recaudador de Rentas hará el pago que le corresponda al Oficial del Registro en concepto de honorarios y la bonificación respectiva, de conformidad con lo establecido por el artículo 27 de esta Ley.
 
@@ -327,9 +351,11 @@ IV. No haber sido condenado por delito intencional que merezca pena corporal; y
 
 V. Ser mexicano en pleno ejercicio de sus derechos.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 31.
 
-Los Visitadores Generales son trabajadores de confianza, y sus nombramientos, remociones y permisos, se tramitarán por conducto de la Secretaría de Gobierno.
+Los Visitadores Generales son trabajadores de confianza, y sus nombramientos, remociones y permisos, se tramitarán por conducto de la Secretaría General del Gobierno.
 
 ## TITULO TERCERO.
 
@@ -339,25 +365,33 @@ DE LOS LIBROS Y ACTAS DEL REGISTRO CIVIL.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 32.
 
-Las actas del Registro Civil, se inscribirán en siete libros que se llevarán por duplicado y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero; actas de tutela; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o la pérdida de la capacidad legal para administrar bienes.
+Las Actas del Registro Civil, se inscribirán en seis libros que se llevarán por duplicado y que contendrán: El primero, actas de nacimiento; el segundo, actas de reconocimiento; el tercero; actas de adopción; tutela, así como las inscripciones de las ejecutorias que declaren el estado de interdicción y las resoluciones que se refieran a la rectificación de una acta; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción e inscripciones de las ejecutorias que declaren la ausencia o la presunción de muerte.
 
 ###### Art. 33.
 
 Toda acta deberá asentarse en los dos ejemplares del Registro y en ambos deberán costar las firmas del Oficial y los comparecientes.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 34.
 
-Las actas del Registro Civil sólo se pueden asentar en los libros de que habla el artículo 32.
+Las actas se levantarán en los libros que al efecto proporcione el Ejecutivo del Estado, los cuales contendrán para los nacimientos, reconocimientos, matrimonio, divorcios y defunciones, los formularios impresos en que se consignarán los datos exigidos por el Código Civil, y los Oficiales deberán llenarlos convenientemente, cubriendo con rayas horizontales las líneas sobrantes y cruzando con diagonales los espacios no utilizados.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 35.
 
-Ninguna autoridad podrá ordenar, cualquiera que sea su categoría, que se extraigan de las Oficinas del Registro Civil, los libros, apéndices y demás documentos que le pertenezcan, salvo el Gobernador del Estado, el Secretario de Gobierno y el Director del Registro Civil. Los Oficiales del Registro Civil no obedecerán las órdenes que se liberen para tal efecto, debiendo únicamente remitir bajo su estricta responsabilidad los apéndices y demás documentos al taller en donde deban de ser encuadernados y dar copia cuando se les pida por autoridad competente.
+Ninguna autoridad podrá ordenar, cualquiera que sea su categoría, que se extraigan de las Oficinas del Registro Civil, los libros, apéndices y demás documentos que le pertenezcan, salvo el Gobernador del Estado, el Secretario General de Gobierno y el Director del Registro Civil. Los Oficiales del Registro Civil no obedecerán las órdenes que se libren para tal efecto, debiendo únicamente remitir bajo su estricta responsabilidad los apéndices y demás documentos al taller en donde deban ser encuadernados y dar copia cuando se les pida por autoridad competente.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 36.
 
-Además de los siete libros duplicados a que se refiere el artículo 32, los Oficiales del Registro Civil formarán por duplicado los apéndices que sean necesarios, con los apuntes y documentos que en original y copia presenten los interesados y con la constancia del pago de los derechos correspondientes, foliándose progresivamente y anotando en cada documento el número del acta relativa y el sello de la Oficialía.
+Además de los seis libros duplicados a que se refiere el artículo 32, los Oficiales del Registro Civil formarán por duplicado los apéndices que sean necesarios, con los apuntes y documentos que en original y copia presenten los interesados y con la constancia del pago de los derechos correspondientes, foliándose progresivamente y anotando en cada documento el número del acta relativa y el sello de la Oficialía.
 
 ###### Art. 37.
 
@@ -367,11 +401,11 @@ En toda acta del Registro Civil se hará constar el año, mes, día y hora en qu
 
 No podrá asentarse en las actas, ni siquiera por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en esta Ley y en el Código Civil.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 39.
 
-Los libros del Registro Civil deberán ser visados en su primer y última hoja por el Presidente Municipal respectivo y autorizados por el mismo con su rúbrica en todas las demás. Esta función podrá ser suplida por el Director del Registro Civil.
-
-La rúbrica se deberá asentar en el espacio superior dedicado a las anotaciones marginales a que se refiere el artículo 42.
+Los libros del Registro Civil serán visados en su primera hoja con la firma del Director Estatal del Registro Civil o la del Presidente Municipal respectivo, y en la parte superior de las demás hojas se pondrá el sello de autorizar correspondiente, alcanzando el anverso de una y el reverso de la anterior.
 
 ###### Art. 40.
 
@@ -381,17 +415,25 @@ Los libros se renovarán cada año. Un ejemplar original y los apéndices corres
 
 Si al terminar el año hubiere hojas en blanco, se inutilizarán con raya transversales, certificando en la última escrita el número de actos ejecutados, el de las hojas útiles y el de las que se hayan inutilizado.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 42.
 
-Las hojas de los libros constarán de dos columnas separadas por una línea: La columna derecha que comprenderá las dos terceras partes de la hoja, se destinará para hacer las inscripciones de los actos y hechos del estado civil, y la de la izquierda para las anotaciones marginales que se relacionen con las actas relativas, así como la rúbrica del Presidente Municipal a que se refiere el artículo 39 de esta Ley.
+Las hojas de los libros constarán de dos columnas separadas por una línea: La columna derecha que comprenderá las dos terceras partes de la hoja, se destinará para hacer las inscripciones de los actos y hechos del estado civil, y la de la izquierda para las anotaciones marginales correspondientes.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 43.
 
-Cada libro contará con su índice correspondiente, en el que por orden alfabético se asentaran los nombres y apellidos de la persona o personas a que se refieran las actas del Registro Civil.
+Cada libro contará con su índice, el que deberá formarse por orden alfabético, asentándose los nombres y apellidos de la persona o personas a que se refieren las actas del Registro Civil.
+
+En las actas de matrimonio, se tomará el nombre del esposo como referencia para elaborar el índice.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 44.
 
-Los testigos que intervengan en las actas del Registro Civil, deberán demostrar, a satisfacción del Oficial, ser mayores de edad.
+Los testigos que intervengan en las actas del Registro Civil deberán demostrar, a satisfacción del Oficial, ser mayores de edad. Salvo disposición en contrario, los testigos deberán ser dos, prefiriéndose los que designen los comparecientes, aun cuando sean parientes de aquéllos.
 
 ###### Art. 45.
 
@@ -415,7 +457,7 @@ II. Tanto el número ordinal, como el de las fechas o cualquier otro serán escr
 
 III. En ningún caso se emplearán abreviaturas;
 
-IV. No se harán raspaduras ni se permitirá borrar lo escrito. Cuando sea necesario estar alguna palabra o frase, se pasará por ella una línea delgado, de manera que pueda leerse lo escrito.
+IV. No se harán raspaduras ni se permitirá borrar lo escrito. Cuando sea necesario estar alguna palabra o frase, se pasará por ella una línea delgada, de manera que pueda leerse lo escrito.
 
 En el caso del artículo 370 del Código Civil, la testadura se hará por completo, de modo que las palabras o frases correspondientes quedan absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se ha procedido en esta forma;
 
@@ -425,9 +467,11 @@ V. Antes de autorizar el acta se salvará con toda claridad lo entrerenglonado y
 
 Cuando las actas del Registro Civil no fueren correlativas entre sí, queda prohibido expresar, aunque estén levantadas con pocos minutos de diferencia, que se han asentado "en el mismo día" o usar frases correlativas, tales como "en la misma fecha" , "acto continuo" o "en seguida".
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ### CAPITULO SEGUNDO.
 
-DEL LIBRO PRIMERO: DE LAS ACTAS DE NACIMIENTO Y RECONOCIMIENTO DE HIJOS.
+DE LAS ACTAS DE NACIMIENTO Y RECONOCIMIENTO.
 
 ###### Art. 50.
 
@@ -445,13 +489,13 @@ Los Oficiales del Registro Civil estarán obligados a concurrir al lugar en dond
 
 Cuando el Oficial del Registro Civil reciba aviso del nacimiento ocurrido, sin que los interesados se hayan presentado a registrarlo, quedará facultado:
 
-I. Para librar a los mismo interesados el citatorio correspondiente a fin de que se presenten a efectuar el registro omitido, apercibidos de una multa en caso de desobediencia;
+I. Para librar a los mismos interesados el citatorio correspondiente a fin de que se presenten a efectuar el registro omitido, apercibidos de una multa en caso de desobediencia;
 
 II. A disponer del uso de la fuerza pública para obligar a los mismos interesados a efectuar la presentación omitida.
 
 ###### Art. 54.
 
-Si las personas que están obligadas a efectuar declaraciones en relación a un nacimiento, lo hicieron ante un Oficial del Registro Civil que no tuviere competencia para realizar el registro, éste, dentro del término improrrogable de veinticuatro horas, estará obligado a comunicarlo al Oficial competente, a efecto de que tome las medidas necesarias conforme a los dispuesto en el artículo anterior.
+Si las personas que están obligadas a efectuar declaraciones en relación a un nacimiento, lo hicieron ante un Oficial del Registro Civil que no tuviere competencia para realizar el registro, éste, dentro del término improrrogable de veinticuatro horas, estará obligado a comunicarlo al Oficial competente, a efecto de que tome las medidas necesarias conforme a lo dispuesto en el artículo anterior.
 
 ###### Art. 55.
 
@@ -479,21 +523,25 @@ Cuando después de registrado el nacimiento, se pretendiere por el padre, la mad
 
 El Oficial del Registro Civil tiene obligación de orientar a los interesados respecto de los requisitos que se deben cubrir para que se realice el reconocimiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 61.
 
-Cuando se haya omitido la presentación para el registro del nacimiento de un hijo natural, o la presentación se efectúe después del término señalado por el Código Civil, el Oficial tendrá obligación de levantar tanto el acta de nacimiento como la de reconocimiento.
+Cuando se haya omitido la presentación para el registro del nacimiento de un hijo habido fuera de matrimonio, o la presentación se efectúe después del término señalado por el Código Civil, el Oficial tendrá obligación de levantar tanto el acta de nacimiento como la de reconocimiento.
 
 ###### Art. 62.
 
 Si el reconocimiento se hiciere en oficina distinta de aquella en la que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la Oficina que haya registrado el nacimiento y a la Dirección del Registro Civil, para que se efectúe la anotación marginal en el acta respectiva.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ### CAPITULO TERCERO.
 
-DEL LIBRO SEGUNDO: DE LAS ACTAS DE ADOPCION.
+DE LAS ACTAS DE ADOPCION.
 
 ###### Art. 63.
 
-Las actas de adopción se asentarán con arreglo a los dispuesto en el Capítulo IV, del Título Cuarto, Libro Primero del Código Civil.
+Las actas de adopción se asentarán con arreglo a lo dispuesto en el Capítulo IV, del Título Cuarto, Libro Primero del Código Civil.
 
 ###### Art. 64.
 
@@ -507,13 +555,15 @@ Las copias certificadas de las diligencias judiciales y demás documentos relati
 
 El tribunal que resuelva que una adopción queda sin efectos, deberá remitir copia certificada por duplicado de su resolución al Oficial del Registro Civil que corresponda y una copia a la Dirección Estatal del Registro Civil, para que se proceda a cancelar el acta de adopción y las anotaciones correspondientes a que se refiere el artículo 64 de la presente ley.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ### CAPITULO CUARTO.
 
-DEL LIBRO TERCERO: DE LAS ACTAS DE TUTELA.
+DE LAS ACTAS DE TUTELA.
 
 ###### Art. 67.
 
-Las actas de tutela se asentarán con arreglo a los dispuesto en el Capítulo V, del Título Cuarto, Libro Primero del Código Civil.
+Las actas de tutela se asentarán con arreglo a lo dispuesto en el Capítulo V, del Título Cuarto, Libro Primero del Código Civil.
 
 ###### Art. 68.
 
@@ -521,15 +571,17 @@ Una vez asentada el acta de tutela, se procederá efectuar la anotación margina
 
 ###### Art. 69.
 
-Las copias certificadas de la diligencias judiciales y demás documentos relativos pasarán a formar parte del apéndice que corresponda.
+Las copias certificadas de las diligencias judiciales y demás documentos relativos pasarán a formar parte del apéndice que corresponda.
 
 ###### Art. 70.
 
 Cuando un Tribunal resuelva que una tutela queda sin efectos porque haya desaparecido la incapacidad que le dio origen, o bien, porque el sujeto a ella entre a la patria potestad por reconocimiento o adopción, deberá remitir copia certificada por duplicado de su resolución al Oficial del Registro Civil y una copia a la Dirección del Registro Civil, para que se proceda a cancelar el acto de tutela y la anotación marginal a que se refiere el artículo 68 de este ordenamiento.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ### CAPITULO QUINTO.
 
-DEL LIBRO CUARTO: DE LAS ACTAS DE MATRIMONIO.
+DE LAS ACTAS DE MATRIMONIO.
 
 ###### Art. 71.
 
@@ -549,9 +601,11 @@ Nombre completo de cada uno de los hijos que se hayan procreado; edad de los mis
 
 Cuando alguno o ambos contrayentes sean extranjeros, se deberá cumplir con lo dispuesto por el artículo 68 de la Ley General de Población y el artículo 8 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 75.
 
-El convenio a que se refiere la fracción V del artículo 98 del Código Civil, para regular el régimen al que deberán quedar sujetos los bienes de los cónyuges, deberá hacerse en escritura privada firmada ante dos testigos o bien mediante declaración escrita ante el Oficial del Registro Civil, quien deberá agregar uno u otro documento al apéndice correspondiente. Solamente se otorgará en escritura pública, en el caso de que los contrayentes pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
+El convenio a que se refiere la fracción V del artículo 98 del Código Civil, para regular el régimen al que deberán quedar sujetos los bienes de los cónyuges, podrá hacerse en escritura privada firmada ante dos testigos o bien mediante declaración escrita ante el Oficial del Registro Civil, quien deberá agregar uno u otro documento al apéndice correspondiente. Solamente se otorgará en escritura pública, en el caso de que los contrayentes pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
 ###### Art. 76.
 
@@ -569,29 +623,37 @@ En igual forma, el Oficial del Registro Civil tendrá la obligación de anotar l
 
 Los Oficiales del Registro Civil proporcionarán a los pretendientes, formas de solicitudes de matrimonio, convenios de sociedad conyugal o separación de bienes, así como de declaración de testigos, consentimiento de quien ejerce la patria potestad y certificado médico prenupcial, sin perjuicio de la libertad que tienen los interesados de formular estos documentos de manera distinta y de acuerdo con circunstancias particulares, así como de las obligaciones señaladas a los Oficiales, en esta Ley y en el Código Civil.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ### CAPITULO SEXTO.
 
-DEL LIBRO QUINTO: DE LAS ACTAS DE DIVORCIO.
+DE LAS ACTAS DE DIVORCIO.
 
 ###### Art. 80.
 
 Las actas de divorcio se levantarán de acuerdo con las disposiciones relativas del Código Civil.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 81.
 
-Las actas de divorcio se levantarán de acuerdo con las disposiciones relativas del Código Civil.
+El Tribunal que decrete un divorcio, deberá remitir copia certificada de la sentencia y los datos de identificación de las actas de nacimiento y matrimonio de los divorciados, a la Dirección del Registro Civil y al Oficial que corresponda, para que se proceda conforme al artículo 114 del Código Civil.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 82.
 
-El Tribunal que dicte una sentencia ejecutoria o decrete un divorcio, deberá remitir copia certificada por duplicado de la misma al Oficial del Registro Civil que corresponda y una copia a la Dirección del Registro Civil, para que se proceda a anotar las actas de nacimiento y matrimonio de los interesados, así como para levantar el acta correspondiente.
+El Tribunal que resuelva que un divorcio queda sin efectos, deberá remitir copia certificada de su resolución al Oficial que corresponda y a la Dirección en los términos del artículo anterior, para que se proceda a cancelar el acta de divorcio y las anotaciones marginales correspondientes.
 
 ###### Art. 83.
 
 La copia certificada a que se refieren los dos artículos anteriores, y los demás documentos relativos, pasarán a formar parte del apéndice que corresponda.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ### CAPITULO SEPTIMO.
 
-DEL LIBRO SEXTO: DE LAS ACTAS DE DEFUNCION.
+DE LAS ACTAS DE DEFUNCION.
 
 ###### Art. 84.
 
@@ -637,9 +699,11 @@ Para cumplir con la disposición del artículo anterior, el Oficial que tenga co
 
 Los Oficiales del Registro Civil deberán remitir una constancia de las actas de defunción de ciudadanos, a la Delegación Estatal del Registro Nacional de Electores, de acuerdo con lo establecido por el artículo 83 de la Ley Federal Electoral. De igual forma enviarán una relación de las defunciones arriba anotadas a la Comisión Estatal del Padrón y Vigilancia Electorales, previa solicitud que ésta efectúe, en los términos del artículo 47 de la Ley Electoral para el Estado de Coahuila.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
 ### CAPITULO OCTAVO.
 
-DEL LIBRO SEPTIMO: DE LAS ACTAS RELATIVAS A LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD LEGAL PARA ADMINISTRAR BIENES, LA AUSENCIA O LA PRESUNCION DE MUERTE.
+DE LAS ACTAS RELATIVAS A LAS EJECUTORIAS QUE DECLAREN LA AUSENCIA, LA PRESUNCION DE MUERTE O LA INCAPACIDAD LEGAL PARA ADMINISTRAR BIENES.
 
 ###### Art. 94.
 
@@ -651,53 +715,201 @@ La autoridad judicial deberá enviar copia certificada por duplicado de su resol
 
 Cuando se recobre la capacidad legal para administrar bienes, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil y a la Dirección Estatal por la autoridad que corresponda, o por el mismo interesado, para que se cancele el acta relativa y la anotación que se hubiere hecho en el acta de nacimiento respectivo.
 
-### CAPITULO NOVENO.. DE LAS ANOTACIONES Y RECTIFICACIONES DE LAS ACTAS DEL REGISTRO CIVIL
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+### CAPITULO NOVENO.
+
+DE LAS ACTAS DE RECTIFICACION.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 96.
 
-Toda acta del Registro Civil relativa a otra ya asentada, podrá anotarse marginalmente a petición de los interesados. La misma anotación deberá hacerse cuando lo mande la autoridad judicial o lo disponga expresamente la Ley y se insertará en todos los testimonios que se expidan.
+Las actas de rectificación se levantarán de acuerdo con lo dispuesto por el artículo 138 del Código Civil y se asentarán en el Libro Tercero.
 
-## TITULO CUARTO. DE LAS SANCIONES
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)
 
-### CAPITULO UNICO
+## TITULO CUARTO. DE LAS ANOTACIONES Y RECTIFICACIONES DE LAS ACTAS DEL REGISTRO CIVIL
+
+(REUBICADO Y REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)
+
+### CAPITULO PRIMERO. DE LAS ANOTACIONES
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 97.
 
-Cuando ya se haya remitido el libro original que corresponda a la Dirección Estatal del Registro Civil, y tuviere que hacerse al margen alguna anotación de las previstas en el artículo anterior, se librará oficio a la dependencia mencionada para que se efectúe la anotación correspondiente.
+Toda acta del Registro Civil relativa a otra ya asentada, podrá anotarse marginalmente a petición de los interesados.
+
+La misma anotación deberá hacerse cuando lo mande la Autoridad Judicial o lo disponga expresamente la Ley y se insertará en todos los testimonios que se expidan.
+
+Las marginaciones deberán contener: La Oficialía del Registro Civil, el libro, tomo, acta y año al que corresponda.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 98.
 
-Si concluida y firmada una acta se hubiere dejado de asentar algún dato, el Oficial hará al margen la anotación correspondiente, firmándola en unión de los que intervinieron en el acto, siempre que con dicha anotación no se contradiga la esencia del acto registrado.
+Cuando ya se haya remitido el libro original que corresponda a la Dirección Estatal del Registro Civil, y tuviere que hacerse al margen alguna anotación de las previstas en el artículo anterior, se librará oficio a la dependencia mencionada para que se efectúe la anotación correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 99.
 
-En todo juicio de rectificación será oído en primera instancia el encargado del Registro Civil y en segunda instancia la Dirección del Registro Civil.
+Si concluida y firmada una acta se hubiere dejado de asentar algún dato, el Oficial hará al margen la anotación correspondiente, firmándola en unión de los que intervinieron en el acto, siempre que con dicha anotación no se contradiga la esencia del acto registrado.
+
+> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+### CAPITULO SEGUNDO.
+
+DE LA RECTIFICACION DE LAS ACTAS DEL REGISTRO CIVIL.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+#### SECCION PRIMERA.
+
+DISPOSICIONES GENERALES.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 100.
 
-Las sanciones fijadas en este apartado, se aplicarán sin perjuicio de la responsabilidad que determine el Código Civil y otras leyes, para el caso de faltarse al cumplimiento de sus preceptos.
+La rectificación o modificación de un acta del Registro Civil, únicamente procede en los casos señalados por los artículos 134 y 135 del Código Civil.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 101.
 
-Se sancionará con la destitución de su cargo, al Oficial del Registro Civil que infrinja las disposiciones de los artículos 36, 112 y 371 del Código Civil así como lo establecido en los artículos 32, 33, 34 y 35 de la presente Ley.
+Las resoluciones que concedan o nieguen una rectificación, motivarán el levantamiento del acta correspondiente, en los términos del artículo 138 del Código Civil.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 102.
 
-Igualmente serán destituídos de su cargo, los Oficiales del Registro Civil que levante las actas en hojas sueltas y que dejen espacios en blanco entre las inscripciones de las actas del Registro Civil.
+El Tribunal que conozca de un juicio de rectificación, deberá solicitar informe a la Dirección Estatal del Registro Civil, a efecto de que se proporcione una copia certificada del acta que se pretenda rectificar, obtenida de los libros duplicados que obran en su Archivo General y manifieste si ante esa dependencia se ha registrado solicitud de rectificación.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+#### SECCION SEGUNDA.
+
+DEL PROCEDIMIENTO DE RECTIFICACION ANTE LA DIRECCION ESTATAL DEL REGISTRO CIVIL.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 103.
 
-Los oficiales que expidan constancias o testimonios inexactos o que no concuerden con las actas y demás documentos relativos con las mismas, así como los que no redacten el acta de acuerdo con las manifestaciones o declaraciones recibidas, serán acreedores a una multa de $ 100.00 a $ 500.00 (CIEN PESOS 00/100 a QUINIENTOS PESOS 00/100 M.N.), y en caso de reincidencia, previo acuerdo del Gobernador del Estado, podrán ser removidos de su cargo.
+Procederá la solicitud de rectificación de acta ante la Dirección, en los casos previstos por la fracción III del artículo 134 del Código Civil, siempre y cuando se fundamente en errores cuya evidencia resulte de la confrontación con los documentos en cuya virtud se ha practicado la inscripción, o bien, cuando el error quede establecido por las demás circunstancias de la inscripción, o de otra u otras inscripciones que hagan fe del acto o hecho correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 104.
 
-Los Oficiales que autoricen acto o hechos del estado civil fuera de la circunscripción territorial que les corresponde, serán sancionados con una multa de $200.00 a $1,000.00 (DOSCIENTOS PESOS A MIL PESOS 00/100 M.N.) y en caso de reiteradas violaciones a esta disposición, serán destituídos de su cargo.
+La solicitud de rectificación se presentará ante la Dirección Estatal del Registro Civil y contendrá:
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+I. El nombre del solicitante y el domicilio que señale par oír notificaciones;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+II. El nombre y domicilio de los interesados que fueren conocidos o que hubieren intervenido en el acta;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+III. Los hechos en que el solicitante funde su pretensión numerándolos y narrándolos sucintamente, con claridad y precisión; y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+IV. Las pruebas y diligencias que acompañe y proponga.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 105.
 
-Las infracciones cometidas al código Civil y a ésta Ley que no tengan señalada sanción especial, se castigarán con multa de $ 50.00 a $ 1,000.00 (CINCUENTA a MIL PESOS 00/100 M.N.), a juicio del Oficial del Registro Civil que corresponda, y en su caso, de la Secretaría de Gobierno, para cuyo cobro se recurirrá, si es necesario, al procedimiento económico coactivo previsto por la Ley.
+La solicitud se notificará a los interesados que fueren conocidos o que hubieren intervenido en el acta, mediante simple oficio, y se publicará un extracto de la misma, por una sola vez, en el Periódico Oficial y en otro de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio del solicitante, fijándose, además en un lugar visible de la Oficialía en la que se encuentre asentada el acta.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 106.
+
+El que tenga interés en contradecir la solicitud de rectificación, contará con un plazo de treinta días naturales, contados a partir de la fecha de publicación, para oponerse en forma escrita, aportando las pruebas conducentes.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+###### Art. 107.
+
+Cuando exista oposición, se correrá traslado del escrito correspondiente al solicitante y el Oficial del Registro Civil, señalándose en el mismo acuerdo, como fecha para la audiencia de pruebas y alegatos, el tercero día hábil siguiente a la presentación de la oposición.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+###### Art. 108.
+
+A efecto de mejor proveer, la Dirección queda facultada para hacerse llegar las pruebas que estime convenientes.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+###### Art. 109.
+
+Concluida la integración del expediente formado con motivo de la solicitud y practicadas las diligencias conducentes, la Dirección resolverá dentro del término de los ocho días siguientes.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+###### Art. 110.
+
+La resolución que niegue una rectificación, podrá ser contravertida en juicio ordinario, ante un Juez de Primera Instancia en Materia Civil del Distrito Judicial de Saltillo.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+###### Art. 111.
+
+En todo lo no previsto en este apartado, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+## TITULO QUINTO. DE LAS SANCIONES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+
+###### Art. 112.
+
+Las sanciones fijadas en este apartado, se aplicarán sin perjuicio de la responsabilidad que determine el Código Civil y otras leyes, para el caso de faltarse al cumplimiento de sus preceptos.
+
+(N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
+
+###### Art. 113.
+
+Se sancionará con la destitución de su cargo, al Oficial del Registro Civil que infrinja las disposiciones de los artículos 36, 112 y 371 del Código Civil así como lo establecido en los artículos 32, 33, 34 y 35 de la presente ley.
+
+(N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
+
+###### Art. 114.
+
+Igualmente serán destituídos de su cargo, los Oficiales del Registro Civil que levanten las actas en hojas sueltas o que dejen espacio en blanco entre las inscripciones de las actas del Registro Civil.
+
+(N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
+
+###### Art. 115.
+
+Los oficiales que expidan constancias o testimonios inexactos o que no concuerden con las actas y demás documentos relativos con las mismas, así como los que no redacten el acta de acuerdo con las manifestaciones o declaraciones recibidas, serán acreedores a una multa de $ 100.00 a $ 500.00 (CIEN PESOS 00/100 a QUINIENTOS PESOS 00/100 M.N.), y en caso de reincidencia, previo acuerdo del Gobernador del Estado, podrán ser removidos de su cargo.
+
+(N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
+
+###### Art. 116.
+
+Los Oficiales que autoricen acto o hechos del estado civil fuera de la circunscripción territorial que les corresponde, serán sancionados con una multa de $200.00 a $1,000.00 (DOSCIENTOS PESOS A MIL PESOS 00/100 M.N.) y en caso de reiteradas violaciones a esta disposición, serán destituídos de su cargo.
+
+(N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
+
+###### Art. 117.
+
+Las infracciones cometidas al código Civil y a ésta Ley que no tengan señalada sanción especial, se castigarán con multa de $ 50.00 a $ 1,000.00 (CINCUENTA a MIL PESOS 00/100 M.N.), a juicio del Oficial del Registro Civil que corresponda, y en su caso, de la Secretaría de Gobierno, para cuyo cobro se recurrirá, si es necesario, al procedimiento económico coactivo previsto por la Ley.
+
+(N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
+
+###### Art. 118.
 
 Cuando las violaciones constituyan delitos, serán consignados los responsables al Ministerio Público para el ejercicio de la acción penal que corresponda.
 
@@ -744,3 +956,17 @@ EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 LIC. ROBERTO OROZCO MELO.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE DICIEMBRE DE 1977.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO
+
+- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO CUARTO
+
+- Se derogan todas las disposiciones que se opongan al presente decreto.
