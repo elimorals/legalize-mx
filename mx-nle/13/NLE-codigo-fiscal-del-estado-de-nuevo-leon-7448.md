@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1991-07-05"
+last_updated: "1992-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -333,9 +333,9 @@ Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pe
 
 Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas, sin que puedan exceder del 200% del monto de dicho crédito. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán conforme a la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
+Los recargos se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el Procedimiento Administrativo de Ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de las cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos o intereses se causarán conforme a la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
@@ -345,9 +345,7 @@ El cheque recibido por las autoridades fiscales que sea presentado en tiempo y n
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-Cuando el contribuyente pague en forma espontánea las contribuciones omitidas en los términos del artículo 73 de este Código, el importe de los recargos no excederá del 100% de las contribuciones omitidas.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 23.
 
@@ -2460,3 +2458,9 @@ P.O. 5 DE JULIO DE 1991.
 ###### ARTICULO CUARTO
 
 - Todos los juicios en trámite en el Tribunal Fiscal del Estado se resolverán de acuerdo con el Código Fiscal del Estado o de este Código si las partes interesadas se someten al mismo.
+
+P.O. 30 DE DICIEMBRE DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 1993.
+
+SEGUNDO:- Cuando con anterioridad al primero de Enero de 1993 se hubieran causado recargos sobre créditos fiscales no pagados o intereses a cargo del fisco estatal o municipal sobre cantidades que se deban devolver, que hubieren alcanzado el 100% o el 200% del importe de dichas contribuciones o cantidades a devolver, según sea el caso, para los efectos de la aplicación del segundo párrafo del artículo 22, a partir de la fecha mencionada se reanudará la causación de recargos o intereses sobre las mismas conforme al Código Fiscal del Estado, aún cuando excedan del porcentaje mencionado.
