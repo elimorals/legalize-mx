@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2004-05-17"
+last_updated: "2004-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2004.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -167,9 +167,13 @@ m) Tesorería General;
 
 n) Unidad de Apoyo Técnico y Gestoría;
 
-o) Visitaduría; y,
+o) Visitaduría; y, (sic)
 
-p) Las demás que determine el Pleno.
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 56/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
+p) Dirección General de Relaciones Nacionales e Internacionales;
+
+q) Las demás que determine el Pleno.
 
 ###### Artículo 4o.
 
@@ -718,6 +722,10 @@ XVI. Remitir al Pleno, las propuestas de publicaciones del Consejo en términos 
 XVII. Aprobar la lista anual con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial de la Federación ordenándolas por ramas, especialidades y circuitos judiciales;
 
 XVIII. Coordinar y supervisar el funcionamiento del Instituto de la Judicatura;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL 56/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
+XVIII bis. Establecer criterios para coordinar y supervisar el funcionamiento de la Dirección General de Relaciones Nacionales e internacionales;
 
 XIX. Dictaminar y remitir al Pleno, para su aprobación, las bases de la política informática;
 
@@ -2480,3 +2488,9 @@ PRIMERO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga a este Acuerdo.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
