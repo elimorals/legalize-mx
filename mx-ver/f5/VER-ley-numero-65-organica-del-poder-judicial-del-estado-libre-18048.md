@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2000-07-26"
+last_updated: "2001-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2001.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -221,7 +221,11 @@ VI. Someter a la consideración de sus respectivos órganos, cuando proceda, la 
 
 VII. Participar en los programas de capacitación del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado y;
 
-VIII. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2001)</small>
+
+VIII. Participar en los programas de visitas a los Juzgados del Estado implementados por el Consejo de la Judicatura; y
+
+IX. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
 
 ###### Artículo 18.
 
@@ -229,9 +233,11 @@ El Congreso del Estado o, en sus recesos, la Diputación Permanente, resolverán
 
 En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de sesenta días naturales durante el período de un año.
 
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2001)</small>
+
 ###### Artículo 19.
 
-Los Magistrados serán suplidos, en sus ausencias o licencias temporales y para efectos de integrar Sala, por el Secretario de Acuerdos de la Sala correspondiente.
+Los magistrados serán suplidos en sus ausencias o licencias temporales y para efectos de integrar sala por otro magistrado sin adscripción o por el secretario de Acuerdos de la sala correspondiente.
 
 ###### Artículo 20.
 
@@ -381,9 +387,11 @@ Los auxiliares de la administración de justicia cooperarán con las autoridades
 
 ### CAPÍTULO I. De su Organización y Funcionamiento
 
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2001)</small>
+
 ###### Artículo 32.
 
-El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con veinticinco Magistrados.
+El Tribunal Superior de Justicia funcionará en Pleno y en Salas y se integrará con veintiocho magistrados.
 
 ###### Artículo 33.
 
@@ -1898,3 +1906,9 @@ Licenciado Miguel Alemán Velazco
 Gobernador del Estado
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 19 DE ENERO DE 2001.
+
+Único. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del estado.
