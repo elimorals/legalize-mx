@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2003-del-pleno-del-consejo-de-la-45049"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-12"
-last_updated: "2003-11-14"
+last_updated: "2004-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,514 +19,918 @@ issue_date: "2003-06-09"
 ---
 # ACUERDO GENERAL 30/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA ESTE ORGANO DEL PODER JUDICIAL DE LA FEDERACION, LOS TRIBUNALES DE CIRCUITO Y LOS JUZGADOS DE DISTRITO
 
-ACUERDO GENERAL 30/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA ESTE ORGANO DEL PODER JUDICIAL DE LA FEDERACION, LOS TRIBUNALES DE CIRCUITO Y LOS JUZGADOS DE DISTRITO
+LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el jueves 12 de junio de 2003.
+Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+FRANCISCO JAVIER GARCÍA CABEZA DE VACA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-ACUERDO GENERAL 30/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA ESTE ORGANO DEL PODER JUDICIAL DE LA FEDERACION, LOS TRIBUNALES DE CIRCUITO Y LOS JUZGADOS DE DISTRITO.
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-CONSIDERANDO
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-PRIMERO.- Por decretos publicados en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis; y, once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, los que modificaron la estructura y competencia del Poder Judicial de la Federación;
+LA SEXAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-SEGUNDO.- En términos de lo dispuesto por los artículos 94, párrafo segundo, 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, con independencia técnica, de gestión y para emitir sus resoluciones; facultado además, para expedir acuerdos que permitan el adecuado ejercicio de sus funciones;
+D E C R E T O No. LXIII-182
 
-TERCERO.- Para dar vigencia plena al derecho de acceso a la información, el Congreso de la Unión expidió la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, publicada en el Diario Oficial de la Federación el once de junio de dos mil dos;
+MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-CUARTO.- Los artículos 1 a 9, 12 a 23, 27, 61 y 62 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, establecen determinadas obligaciones para el Consejo de la Judicatura Federal, como órgano del Poder Judicial de la Federación;
+LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-QUINTO.- Desde su creación, el Consejo de la Judicatura Federal, se ha empeñado en situarse a la par de las exigencias sociales en el ámbito de su competencia constitucional, instrumentando los mecanismos necesarios para garantizar que la actuación del propio Consejo, de los Tribunales de Circuito y Juzgados de Distrito, se ciña a los principios de excelencia, profesionalismo, objetividad, imparcialidad e independencia;
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-SEXTO.- Es convicción del propio Consejo, que la transparencia en su actuación, a través del acceso a la información que posee, es una de las formas de cumplir con los principios constitucionales antes señalados y, que la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental contribuye sustancialmente a ello;
+### Capítulo I. Del Tribunal de Justicia Administrativa
 
-SEPTIMO.- En términos de lo dispuesto por el artículo 8 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, deben hacerse públicas las sentencias que hayan causado ejecutoria;
+###### Artículo 1.
 
-OCTAVO.- De conformidad con lo dispuesto en los artículos 8 y 18, párrafo último, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en los asuntos que sean del conocimiento de los Tribunales de Circuito y Juzgados de Distrito, las partes podrán oponerse a la publicación de sus datos personales contenidos en las respectivas sentencias ejecutorias y, la información que se halle en fuentes de acceso público no se considerará confidencial.
+La presente Ley es de orden público e interés general y tiene por objeto determinar la integración, organización, atribuciones y funcionamiento del Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
-En consecuencia, conforme a los artículos 94 de la Constitución Política de los Estados Unidos Mexicanos; 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación y, en cumplimiento a los plazos previstos en los artículos Segundo, Cuarto, Octavo y Décimo Transitorios de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, el Pleno del Consejo de la Judicatura Federal, expide el siguiente
+###### Artículo 2.
 
-ACUERDO
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas es un órgano constitucional dotado de plena jurisdicción y autonomía para dictar sus fallos. Su jurisdicción administrativa la ejercerá para dictar sus resoluciones e imperio para hacerlas cumplir, así como de independencia presupuestal para garantizar la imparcialidad de su actuación.
 
-## Título Primero. Disposiciones Generales
+Formará parte del Sistema Estatal Anticorrupción y estará sujeto a las bases establecidas en los artículos 113 de la Constitución Política de los Estados Unidos Mexicanos y 154 de la Constitución Política del Estado de Tamaulipas, en la Ley General del Sistema Nacional Anticorrupción, en la Ley General de Responsabilidades Administrativas, en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en la Ley del Sistema Anticorrupción del Estado de Tamaulipas y en el presente ordenamiento.
 
-###### Artículo 1o.
+El Tribunal tendrá competencia para conocer de juicios en materias fiscal y contencioso administrativa, así como para dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares, y en materia de imposición de sanciones por responsabilidades administrativas graves a los servidores públicos del Estado y municipios, así como a los particulares involucrados en hechos de corrupción vinculados con dichas responsabilidades, en los términos que dispongan las leyes aplicables.
 
-El presente acuerdo general tiene por objeto establecer los órganos, criterios y procedimientos institucionales, para la transparencia y acceso a la información pública, en el ámbito del Consejo de la Judicatura Federal, de los Tribunales de Circuito y Juzgados de Distrito.
+Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
 
-###### Artículo 2o.
+El presupuesto aprobado por el Congreso del Estado para el Tribunal de Justicia Administrativa, se ejercerá con autonomía y conforme a la Ley de Gasto Público y las disposiciones legales aplicables, bajo los principios de legalidad, certeza, independencia, honestidad, responsabilidad y transparencia. Su administración será eficiente para lograr la eficacia de la justicia administrativa bajo el principio de rendición de cuentas.
 
-Además de las definiciones contenidas en el artículo 3 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, para los efectos del presente acuerdo general, se entenderá por:
+Dicho ejercicio deberá realizarse con base en los principios de honestidad, responsabilidad, eficiencia, eficacia, transparencia, rendición de cuentas, austeridad, racionalidad y bajo estos principios estará sujeto a la evaluación y control de los órganos correspondientes.
 
-I. Acuerdo: Acuerdo General 30/2003, del Pleno del Consejo de la Judicatura Federal que Establece los Organos, Criterios y Procedimientos Institucionales para la Transparencia y Acceso a la Información Pública para este Organo del Poder Judicial de la Federación, los Tribunales de Circuito y los Juzgados de Distrito;
+Conforme a los principios a que se refiere el párrafo anterior, y de acuerdo a las disposiciones legales aplicables, el Tribunal se sujetará a las siguientes reglas:
 
-II. Clasificación: Acto por el cual se determina que la información es pública, reservada o confidencial;
+I. Ejercerá directamente su presupuesto aprobado por el Congreso del Estado, sin sujetarse a las disposiciones emitidas por la Secretaría de Finanzas y la Contraloría Gubernamental;
 
-III. Comisión: Comisión para la Transparencia y Acceso a la Información del Consejo de la Judicatura Federal, de los Tribunales de Circuito y los Juzgados de Distrito;
+II. Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Finanzas, siempre y cuando no rebase su techo global aprobado por el Congreso del Estado;
 
-IV. Comité: Comité para la Transparencia y Acceso a la Información del Consejo de la Judicatura Federal, de los Tribunales de Circuito y los Juzgados de Distrito;
+III. Determinará los ajustes que correspondan a su presupuesto en caso de disminución de ingresos durante el ejercicio fiscal; y
 
-V. Consejo: Consejo de la Judicatura Federal;
+IV. Realizará los pagos, llevará la contabilidad y elaborará sus informes, a través de su propia tesorería.
 
-VI. Desclasificación: Acto por el cual se determina la publicidad de la información clasificada como reservada;
+###### Artículo 3.
 
-VII. Información confidencial: Aquella a la que, con ese carácter, se refieren los artículos 18 y 19 de la Ley, el Acuerdo y demás disposiciones aplicables;
+Para efectos de esta Ley se entenderá, por:
 
-VIII. Información reservada: Aquella que se encuentra temporalmente sujeta a alguna de las excepciones previstas en los artículos 13 y 14 de la Ley, a la que se refiere el Acuerdo y demás disposiciones aplicables;
+I. Código: El Código Fiscal del Estado de Tamaulipas;
 
-IX. Ley: Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+II. Ley: La Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tamaulipas;
 
-X. Módulos de Acceso: Organos administrativos adscritos a la Unidad de Enlace;
+III. Ley de Hacienda: La Ley de Hacienda para el Estado de Tamaulipas;
 
-XI. Organos Jurisdiccionales: Los Tribunales Colegiados y Unitarios de Circuito y Juzgados de Distrito;
+IV. Pleno: El Pleno del Tribunal de Justicia Administrativa del Estado de Tamaulipas;
 
-XII. Publicación: Acto de poner a disposición del público la información en medios impresos, tales como libros, compendios o archivos públicos, en formatos electrónicos consultables en Internet o por cualquier otro medio que permita a los interesados su consulta o reproducción;
+V. Presidente del Tribunal: El Presidente del Tribunal de Justicia Administrativa del Estado de Tamaulipas; y
 
-XIII. Sentencia ejecutoriada: Aquella que, por no admitir recurso ordinario, adquiere autoridad de cosa juzgada y no puede ser modificada posteriormente;
+VI. Tribunal: El Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
-XIV. Solicitante: La persona física o moral que, por sí o por su representante, formule una petición de acceso a la información;
+### Capítulo II. De la Competencia del Tribunal y los Conflictos de Intereses
 
-XV. Unidades Administrativas: Aquellas áreas y órganos auxiliares que conforman el Consejo y que están señaladas en los ordenamientos que regulan la organización y funcionamiento de dicho órgano del Poder Judicial de la Federación; y,
+###### Artículo 4.
 
-XVI. Unidad de Enlace: La Dirección General de Administración Regional del Consejo.
+El Tribunal conocerá de los juicios que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos que se indican a continuación:
 
-###### Artículo 3o.
+I. Los decretos y acuerdos de carácter general, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta con motivo de su primer acto de aplicación;
 
-Este Acuerdo es de observancia obligatoria para los servidores públicos del Consejo y de los Organos Jurisdiccionales.
+II. Las resoluciones y liquidaciones de las autoridades fiscales, estatales y municipales, que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación, siempre que:
 
-###### Artículo 4o.
+a) El crédito que se le exige se ha extinguido legalmente.
 
-La interpretación de este Acuerdo se hará conforme a los criterios del artículo 14 constitucional y al principio de publicidad de la información mencionado en el artículo 6 y demás relativos de la Ley.
+b) Exista error en el monto del crédito exigido.
 
-### Capítulo Primero. De la Comisión para la Transparencia y Acceso a la Información
+c) No sea deudor del crédito que se le exige o no sea responsable de su pago.
 
-###### Artículo 5o.
+d) Con anterioridad haya sido pagado el adeudo total o parcialmente.
 
-La Comisión es el órgano del Consejo encargado de supervisar el cumplimiento de los mandatos de la Ley, de este Acuerdo y de las disposiciones que de él deriven.
+e) Se pretenda cobrar dos veces el mismo adeudo.
 
-La Comisión se integrará por los Consejeros miembros de la Comisión de Vigilancia, Información y Evaluación del Consejo.
+III. Contra la determinación o exigibilidad de un crédito fiscal por autoridad incompetente;
 
-###### Artículo 6o.
+IV. Las que nieguen la devolución de un ingreso de los regulados por el Código y/o la Ley de Hacienda, indebidamente percibido por el Estado o Municipio o cuya devolución proceda de conformidad con las leyes fiscales;
 
-La Comisión tendrá las siguientes atribuciones:
+V. Contra la resolución administrativa de carácter fiscal favorable a los particulares;
 
-I. Emitir las disposiciones de carácter general que se deriven o se requieran para el exacto cumplimiento de la Ley y del Acuerdo;
+VI. Contra los acuerdos que impongan sanciones por infracciones a las leyes fiscales;
 
-II. Interpretar en el orden administrativo las disposiciones de la Ley, el Acuerdo y las que emanen del mismo;
+VII. Las que causen un agravio en materia fiscal distinto al que se refieren las fracciones anteriores;
 
-III. Conocer, substanciar y resolver los recursos de revisión y reconsideración previstos en el Acuerdo;
+VIII. Las que se dicten en materia de pensiones civiles, sea con cargo al erario estatal o al Instituto de Previsión y Seguridad Social del Estado de Tamaulipas;
 
-IV. Aprobar, expedir y revisar los criterios de clasificación, desclasificación y custodia de la información reservada o confidencial, que ponga a su consideración el Comité;
+IX. Las que se originen por fallos en licitaciones públicas y la interpretación y cumplimiento de contratos públicos, de obra pública, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Estatal centralizada y paraestatal; así como, las que estén bajo responsabilidad de los entes públicos cuando las leyes señalen expresamente la competencia del Tribunal;
 
-V. Confirmar, modificar o revocar la clasificación de la información realizada por las Unidades Administrativas y los Organos Jurisdiccionales;
+X. Las que nieguen la indemnización por responsabilidad patrimonial del Estado, declaren improcedente su reclamación o cuando habiéndola otorgado no satisfaga al reclamante. También, las que por repetición, impongan la obligación a los servidores públicos de resarcir al Estado el pago correspondiente a la indemnización, en los términos de la ley de la materia;
 
-VI. Aprobar, expedir y revisar los criterios para la catalogación y conservación de los documentos, así como, para la organización de archivos de las Unidades Administrativas y Organos Jurisdiccionales que someta a su consideración el Comité; al efecto podrá solicitar el apoyo del Centro de Documentación y Análisis de la Suprema Corte de Justicia de la Nación;
+XI. Las que requieran el pago de garantías a favor del Estado, los municipios, así como de sus entidades paraestatales;
 
-VII. Vigilar y, en caso de incumplimiento, hacer las recomendaciones pertinentes a las Unidades Administrativas y Organos Jurisdiccionales, para que se dé cumplimiento a lo dispuesto en la Ley, el Acuerdo y demás disposiciones aplicables;
+XII. Las dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, en los términos de la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas;
 
-VIII. Aprobar, expedir y revisar los lineamientos para la orientación y asesoría a los solicitantes con respecto de las peticiones de acceso a la información, que someta a su consideración el Comité;
+XIII. Las que impongan multas por infracción a las normas administrativas del Estado;
 
-IX. Fijar los costos para obtener la información, atendiendo a lo dispuesto por el artículo 27 de la Ley;
+XIV. Las que resuelvan los recursos administrativos en contra de las resoluciones que se indican en las demás fracciones de este artículo;
 
-X. Aprobar y revisar los programas que elabore la Dirección General de Informática del Consejo y que someta a su consideración el Comité, orientados a obtener, procesar y sistematizar la información que poseen, la que deberá ser actualizada periódicamente;
+XV. Las que se configuren por negativa ficta en las materias señaladas en este artículo, por el transcurso del plazo que señale el Código y/o la Ley de Hacienda, la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas, las demás disposiciones legales aplicables o, en su defecto, en el plazo de tres meses, así como las que nieguen la expedición de la constancia de haberse configurado la resolución positiva ficta, cuando ésta se encuentre prevista por la ley que rija a dichas materias;
 
-XI. Someter a consideración del Pleno del Consejo, previo conocimiento y aprobación de la Comisión de Administración, la autorización de asistencia técnica y asignación de recursos a la Dirección General de Informática, para la elaboración de los programas orientados a obtener, procesar y sistematizar la información;
+No será aplicable lo dispuesto en el párrafo anterior en todos aquellos casos en los que se pudiere afectar el derecho de un tercero, reconocido en un registro o anotación ante autoridad administrativa;
 
-XII. Aprobar y revisar el procedimiento y los formatos de las solicitudes de acceso a la información, así como los de acceso y corrección de datos personales, que someta a su consideración el Comité;
+XVI. Las resoluciones definitivas por las que se impongan sanciones administrativas por faltas graves a los servidores públicos, en el procedimiento administrativo disciplinario en los términos de la legislación aplicable, así como contra las que decidan los recursos administrativos previstos en dichos ordenamientos, además de los órganos constitucionales autónomos;
 
-XIII. Aprobar, expedir y revisar los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas y los Organos Jurisdiccionales, que someta a su consideración el Comité;
+XVII. Las resoluciones que impongan sanciones por faltas administrativas graves a los particulares en el procedimiento disciplinario;
 
-XIV. Hacer del conocimiento de la Contraloría del Poder Judicial de la Federación, las presuntas infracciones o violaciones a la Ley, al Acuerdo y a los ordenamientos derivados o vinculados con el mismo;
+XVIII. En materia de responsabilidad administrativa de los servidores públicos del Estado que impongan sanciones administrativas graves, en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
-XV. Aprobar la guía que describirá los procedimientos de acceso a la información en posesión de las Unidades Administrativas y los Organos Jurisdiccionales, que ponga a su consideración el Comité;
+XIX. Las sanciones y demás resoluciones emitidas por la Auditoría Superior del Estado, en los términos de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas;
 
-XVI. Cooperar mediante convenios y programas en la materia del Acuerdo, con los demás sujetos obligados, a que se refiere el artículo 3, fracción XIV, de la Ley;
+XX. Las resoluciones administrativas y actos en los que se decrete el cese, baja, remoción, rescisión laboral de policías que sean parte integrante del Sistema Estatal de Seguridad Pública;
 
-XVII. Autorizar la creación y ubicación de Módulos de Acceso, coordinándose en particular, por lo que hace a equipamiento, recursos humanos y adecuación de espacios, con la Comisión de Administración del Consejo;
+XXI. Las resoluciones que emita el Pleno del Consejo de Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública y de los Consejos de Honor y Justicia de las corporaciones de seguridad pública municipales;
 
-XVIII. Informar cada año al Pleno sobre las actividades realizadas;
+XXII. Contra el procedimiento económico coactivo cuando no se ha ajustado a las normas previstas por esta Ley. En este caso la nulidad solo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legítimamente inembargables; y
 
-XIX. Dictar lineamientos para promover la capacitación de los servidores públicos en materia de acceso a la información y protección de datos personales; así como, para la difusión de los beneficios del manejo público de la información y de las responsabilidades que implica su buen uso y conservación;
+XXIII. Las que por disposición expresa le sean asignadas por cualquier otra Ley y por Jurisprudencia.
 
-XX. Designar a los integrantes del Comité;
+Para los efectos del primer párrafo de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
 
-XXI. Elaborar sus normas de operación; y,
+El Tribunal conocerá también de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, cuando se consideren contrarias a la ley.
 
-XXII. Las demás que le confiera la Ley, el Pleno del Consejo, el Acuerdo y cualquier otra disposición que emane del mismo.
+###### Artículo 5.
 
-###### Artículo 7o.
+El Tribunal conocerá de los fallos de las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas graves promovidas por la Contraloría Gubernamental y los órganos internos de control de los entes públicos estatales, o por la Auditoría Superior del Estado, para la imposición de sanciones en los términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales.
 
-La Comisión rendirá anualmente un informe ante el Pleno del Consejo, con base en los datos que le haga llegar el Comité de conformidad con el artículo 10, fracción VIII, del Acuerdo, en el cual se incluirá al menos, el número de solicitudes de acceso a la información presentadas, así como su resultado; su tiempo de respuesta; el número y resultados de los asuntos atendidos por la Comisión y el Comité; el estado que guardan las denuncias presentadas ante la Contraloría del Poder Judicial de la Federación por presuntas violaciones a la Ley, y las dificultades observadas en el cumplimiento de la misma y de este Acuerdo.
+Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves, se contrapone o menoscaba la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
 
-Para este efecto la Comisión expedirá las disposiciones que considere necesarias.
+###### Artículo 6.
 
-### Capítulo Segundo. Del Comité para la Transparencia y Acceso a la Información
+Los Magistrados que integran el Tribunal de Justicia Administrativa, están impedidos para conocer de los asuntos por alguna de las siguientes causas:
 
-###### Artículo 8o.
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad y afinidad hasta el segundo grado, con alguno de los interesados, sus representantes, patronos o defensores;
 
-El Comité es la instancia ejecutiva, encargada de instrumentar las medidas necesarias para coordinar las acciones tendientes a cumplir con la publicidad de la información, conforme a lo dispuesto en la Ley, el Acuerdo y a las demás disposiciones aplicables.
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
 
-El Comité se integrará con los servidores públicos que en número impar designe la Comisión, dentro de los cuales nombrará a quien lo presida.
+III. Tener interés personal en el asunto, o tenerlo su cónyuge, concubino o concubina, o sus parientes, en los grados que expresa la fracción I de este artículo;
 
-###### Artículo 9o.
+IV. Haber presentado denuncia el servidor público, su cónyuge, concubino o concubina, o sus parientes, en los grados que expresa la fracción I, en contra de alguno de los interesados;
 
-Los integrantes del Comité tendrán voz y voto en las resoluciones que se tomen en el seno del mismo, teniendo quien lo presida voto de calidad.
+V. Tener pendiente el servidor público, su cónyuge, concubino o concubina, o sus parientes, en los grados de parentesco precisados en la fracción I, un juicio contra alguno de los interesados o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tenga conocimiento del asunto;
 
-El Comité sesionará en forma ordinaria de acuerdo con las cargas de trabajo correspondientes y en forma extraordinaria a petición de cualquiera de sus miembros.
+VI. Haber sido procesado el servidor público, su cónyuge, concubino o concubina, o parientes, en los grados de parentesco precisados en la fracción I, en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes, patronos o defensores;
 
-## Título Segundo. De los Órganos Encargados de la Transparencia y Acceso a la Información
+VII. Estar pendiente de resolución un asunto que hubiese promovido como particular, o tener interés personal en el asunto donde alguno de los interesados sea parte;
 
-### Capítulo Tercero. De la Unidad de Enlace
+VIII. Haber solicitado, aceptado o recibido, por sí o por interpósita persona, dinero, bienes, muebles o inmuebles, mediante enajenación en precio notoriamente inferior al que tenga en el mercado ordinario o cualquier tipo de dádivas, sobornos, presentes o servicios de alguno de los interesados;
+
+IX. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores, o amenazar de cualquier modo a alguno de ellos;
+
+X. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
+
+XI. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XIII. Ser cónyuge, concubino o concubina o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
+
+XIV. Haber sido Juez o Magistrado en el mismo asunto, en otra instancia; o
+
+XV. Haber sido agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados.
+
+## TÍTULO SEGUNDO. INTEGRACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL
+
+### Capítulo I. De la Estructura
+
+###### Artículo 7.
+
+El Tribunal estará integrado por tres Salas Unitarias de competencia mixta, presidida cada una por un Magistrado. Tendrá su residencia en la ciudad de Victoria y ejercerá jurisdicción en todo el Estado.
+
+###### Artículo 8.
+
+Para la atención de los asuntos de su competencia, el Tribunal de Justicia Administrativa ejercerá sus funciones en Pleno y en Salas Unitarias de competencia mixta.
+
+###### Artículo 9.
+
+Para ser Magistrado del Tribunal, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derechos civiles y políticos y haber residido en el país durante los dos años anteriores al día de la designación, si es nativo del Estado; o haber residido en el Estado por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación en caso de no ser nativo, salvo que en esas hipótesis la ausencia obedezca al cumplimiento de un servicio público;
+
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
+III. Poseer título profesional de Licenciado en Derecho debidamente registrado y expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
+
+IV. No haber ocupado por lo menos durante el año previo al día de la designación, los cargos de Gobernador, Secretario, Procurador General de Justicia o Diputado local en el Estado;
+
+V. Gozar de buena reputación y haberse distinguido por su honorabilidad, competencia y excelencia profesional en el ejercicio de la actividad jurídica; y
+
+VI. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena. Es causa de retiro forzoso de un Magistrado, padecer incapacidad física o mental para desempeñar el cargo.
+
+La designación de los Magistrados del Tribunal será aprobada por el voto de las dos terceras partes de los Diputados presentes, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso; su nombramiento será a propuesta del Gobernador del Estado.
+
+Los Magistrados del Tribunal durarán en su encargo ocho años improrrogables, y sólo podrán ser removidos de sus cargos en los términos que señala la Constitución Política del Estado de Tamaulipas y por las causas graves que señalen las leyes en la materia
+
+Cuando algún Magistrado esté por concluir el período para el que haya sido nombrado, el Presidente del Tribunal, por lo menos con tres meses de anticipación, comunicará esa circunstancia al Gobernador del Estado para los efectos de la propuesta consecuente al Congreso, la cual se hará aun en caso de incumplirse la comunicación a que se refiere este párrafo.
 
 ###### Artículo 10.
 
-El Comité tendrá las atribuciones siguientes:
-
-I. Coordinar las acciones de las Unidades Administrativas y de los Organos Jurisdiccionales, orientadas a dar cumplimiento a lo dispuesto por la Ley, el Acuerdo y los ordenamientos que expida la Comisión;
-
-II. Instruir los procedimientos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
-
-III. Presentar a la Comisión los recursos de revisión y reconsideración recibidos en los Módulos de Acceso;
-
-IV. Proponer a la Comisión que confirme, modifique, o revoque la clasificación de la información realizada por las Unidades Administrativas y Organos Jurisdiccionales;
-
-V. Ejecutar todas las determinaciones adoptadas por la Comisión, particularmente las recaídas a los recursos interpuestos por los solicitantes;
-
-VI. Supervisar la aplicación de los criterios en materia de catalogación y conservación de documentos, así como la organización de archivos;
-
-VII. Elaborar programas que faciliten la obtención de información en posesión de las Unidades Administrativas y los Organos Jurisdiccionales;
-
-VIII. Recabar los datos necesarios para la elaboración del informe anual de la Comisión, al efecto deberá presentar el proyecto relativo; así como, informar bimestralmente a la Comisión sobre las actividades realizadas;
-
-IX. Proponer a la Comisión el monto de los costos por obtener información, en términos de lo previsto en el artículo 27 de la Ley;
-
-X. Supervisar que las áreas respectivas mantengan actualizada la información que generen, misma que, con apoyo de la Dirección General de Informática, será puesta a disposición en los medios electrónicos del Consejo, para facilitar a los solicitantes el acceso a la misma;
-
-XI. Informar a la Comisión sobre cualquier problema o dificultad que se presente respecto al cumplimiento de la Ley, del Acuerdo y demás disposiciones aplicables, así como las presuntas infracciones por parte de los servidores públicos y de los Organos Jurisdiccionales;
-
-XII. Organizar y promover, con el apoyo de la Dirección General de Recursos Humanos, cursos de capacitación en materia de acceso a la información y protección de datos personales para los servidores públicos;
-
-XIII. Proponer a la Comisión la organización de actividades para la difusión entre los servidores públicos y los solicitantes, de los beneficios que se derivan del manejo público de la información, así como las responsabilidades en el buen uso y conservación de aquélla;
-
-XIV. Elaborar y proponer a la Comisión los convenios y programas que deban celebrarse con los demás sujetos obligados, a los que se refiere el artículo 3, fracción XIV, de la Ley; así como, los ordenamientos que resulten indispensables para la correcta aplicación del Acuerdo;
-
-XV. Proponer a la Comisión la creación y ubicación de los Módulos de Acceso que sean necesarios para dar cumplimiento a la Ley, el Acuerdo y demás disposiciones aplicables;
-
-XVI. En caso de que resulte necesario, con la aprobación de la Comisión, solicitar a la Comisión de Administración los recursos humanos, financieros y materiales que se requieran para dar cumplimiento a la Ley, el Acuerdo y demás disposiciones aplicables; y,
-
-XVII. Las demás que le sean conferidas por la Ley, el Acuerdo, la Comisión y demás disposiciones aplicables.
+Ninguna persona que haya sido nombrada Magistrado del Tribunal, podrá volver a ocupar el cargo o ser nombrado para un nuevo periodo; sin perjuicio de la responsabilidad administrativa en la que pudiera incurrir cualquier conducta contraria a este precepto.
 
 ###### Artículo 11.
 
-Para el desarrollo de sus funciones, el Comité podrá contar con la asesoría y el apoyo técnico de las Unidades Administrativas.
+Durante el ejercicio de su encargo, los Magistrados, Secretarios de Acuerdos, Secretarios de Estudio y Cuenta, y Actuarios del Tribunal, no podrán desempeñar otro puesto o empleo público o privado, ni ejercer la abogacía sino en causa propia. El incumplimiento de esta disposición será causa de separación de su encargo.
+
+Quedan exceptuados de esta disposición, la docencia y los cargos honoríficos en asociaciones de carácter cultural o de beneficencia, cuyo desempeño no perjudique las funciones propias del Tribunal.
 
 ###### Artículo 12.
 
-La Unidad de Enlace es el órgano operativo del Comité, encargado de difundir la información y fungir como vínculo entre los Solicitantes y las distintas Unidades Administrativas y los Organos Jurisdiccionales.
-
-La Unidad de Enlace estará encabezada por la Dirección General de Administración Regional.
+Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Supremo Tribunal de Justicia del Estado, conforme lo establece la Constitución local y la Ley de la materia.
 
 ###### Artículo 13.
 
-La Unidad de Enlace tendrá, además de las funciones que la Ley le otorga en su artículo 28, las siguientes:
+Las licencias a los Magistrados por un término que no exceda de treinta días, con goce de sueldo, podrán ser concedidas por el Pleno del Tribunal; las que excedan de este plazo solamente podrán ser concedidas por el Congreso del Estado y sin goce de sueldo, hasta por seis meses improrrogables.
 
-I. Poner a disposición del Solicitante la información requerida, en términos de la Ley y el Acuerdo, o bien, facilitarle los medios para que tenga acceso a ella;
+En el supuesto de incapacidad por enfermedad o accidente, el Pleno del Tribunal podrá otorgar licencia con goce de sueldo hasta por el término de seis meses.
 
-II. Ejecutar las acciones que determine el Comité, conforme a sus funciones y en el ámbito de su competencia, así como informar bimestralmente al Comité respecto de las actividades realizadas;
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-III. Informar de inmediato al Comité sobre cualquier problema o dificultad que se presente en las solicitudes de acceso a la información; y,
+No se requerirá de licencia aprobada por el Pleno, en caso de ausencias temporales de los Magistrados que no excedan de tres días por motivo de comisión o representación oficial del Tribunal.
 
-IV. Las demás necesarias para garantizar y agilizar el flujo de información entre las Unidades Administrativas y los Organos Jurisdiccionales con los Solicitantes, así como las que le confiera la Ley, el Acuerdo y las disposiciones que emanen del mismo.
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 14.
 
-De acuerdo con las posibilidades presupuestales, la Unidad de Enlace operará en los Módulos de Acceso, en sus Administraciones Regionales y Delegaciones Administrativas, en los que las personas que lo requieran, podrán realizar consultas mediante el llenado de formatos.
+Las ausencias temporales de los Magistrados por periodos mayores a tres y hasta por treinta días o por incapacidad médica serán suplidas por el Secretario correspondiente, en términos del reglamento interior del Tribunal.
 
-### Capítulo Primero. De los Requisitos para el Acceso a la Información
+Si las faltas de los Magistrados son definitivas, se aplicará lo dispuesto en este artículo entre tanto se hace la designación del nuevo Magistrado en los términos del artículo 9 de esta Ley. Se considera que la falta de un Magistrado es definitiva, cuando ocurre por fallecimiento o se prolonga por más de seis meses sin causa justificada.
+
+### Capítulo II. Del Presidente del Tribunal
 
 ###### Artículo 15.
 
-La información en posesión de las Unidades Administrativas y los Organos Jurisdiccionales, será reservada o confidencial, en términos de los artículos 13, 14, 15, 18 y 19 de la Ley y de conformidad con los criterios que al efecto establezca la Comisión.
+El Tribunal tendrá un Presidente quien durará en su cargo dos años y no podrá ser reelecto para el periodo inmediato. La Presidencia será rotativa, su elección y protesta será efectuada por el Pleno, en la última sesión del año que corresponda o en sesión extraordinaria anterior a la fecha en que deba concluir el ejercicio de la Presidencia.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 16.
 
-Cuando medie una solicitud de información, las Unidades Administrativas, con la autorización, en su caso, de las autoridades jurisdiccionales correspondientes, serán responsables de clasificar la información, como lo establece el artículo 16 de la Ley y de conformidad con los criterios señalados en el precepto que antecede.
+Dentro de los primeros quince días del mes de julio de cada año, el Tribunal celebrará sesión solemne en la que el Presidente en funciones rendirá el informe anual correspondiente.
 
 ###### Artículo 17.
 
-Las Unidades Administrativas deberán elaborar semestralmente un índice de información clasificada como reservada que obre en su poder, en términos del artículo 17 de la Ley, el cual remitirán a la Unidad de Enlace.
+El Presidente del Tribunal será suplido, en sus faltas temporales que no excederán de treinta días, por el Magistrado que determine el Pleno del Tribunal. Cuando la falta exceda de dicho término sin justificación o sea absoluta, el Pleno deberá elegir de inmediato al sustituto que complete el periodo, lo cual no debe considerarse como impedimento para tener expedito su derecho a lo establecido en el artículo 15.
 
 ###### Artículo 18.
 
-Los expedientes relativos a los asuntos de naturaleza penal o familiar, bajo resguardo de los Organos Jurisdiccionales, constituyen información reservada por el plazo de doce años contado a partir de su conclusión.
+Son atribuciones del Presidente del Tribunal:
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 76/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2003)</small>
+I. Representar administrativa, fiscal y jurídicamente al Tribunal ante cualquier autoridad, así como atender los recursos de responsabilidad patrimonial en contra de las actuaciones atribuidas al propio Tribunal;
 
-### Capítulo Segundo. Del Acceso a la Información
+II. Ejercer las facultades que le correspondan de conformidad con el Sistema Estatal Anticorrupción;
+
+III. Presidir y convocar a las sesiones ordinarias y extraordinarias, así como las reuniones de trabajo del Pleno del Tribunal, dirigir los debates y conservar el orden en las sesiones del Pleno;
+
+IV. Rendir al Pleno el informe de actividades;
+
+V. Comunicar al Congreso las faltas definitivas de los Magistrados;
+
+VI. Conocer y despachar la correspondencia del Tribunal;
+
+VII. Proponer al Pleno los nombramientos y remociones de los funcionarios y del personal administrativo del Tribunal;
+
+VIII. Ejercer el presupuesto del Tribunal dando cuenta previamente al Pleno;
+
+IX. Formular el anteproyecto de presupuesto de egresos y Programa Operativo Anual del Tribunal;
+
+X. Ejecutar los acuerdos dictados por el Pleno del Tribunal, dando cuenta a éste;
+
+XI. Proponer al Pleno del Tribunal a quien deba de suplir la ausencia del Secretario General de Acuerdos en sus faltas temporales, cuando ello no sea posible por el Actuario adscrito;
+
+XII. Proponer al Pleno las medidas que juzgue convenientes para la mejor impartición de la justicia;
+
+XIII. Informar al Pleno, cuando ello le fuere solicitado, acerca de las medidas administrativas adoptadas en el ejercicio de sus facultades;
+
+XIV. Ejecutar la celebración de los actos jurídicos que le ordene el Pleno del Tribunal, siempre que no sean contrarios a derecho;
+
+XV. Dirigir la política de comunicación social y de relaciones públicas del Tribunal;
+
+XVI. Tener bajo su jurisdicción la Unidad de Transparencia y vigilar que se cumplan las obligaciones de transparencia;
+
+XVII. Conceder las licencias de los funcionarios y del personal administrativo que no dependen administrativamente de las Salas Unitarias;
+
+XVIII. Proponer al Pleno del Tribunal, acorde con los principios de eficiencia, capacidad y experiencia, el Estatuto de la Carrera Profesional de Justicia Administrativa, que contendrá;
+
+a) Los criterios de selección para el ingreso al Tribunal en alguno de los puestos comprendidos en la carrera jurisdiccional;
+
+b) Los requisitos que deberán satisfacerse para la permanencia y promoción en los cargos; y
+
+c) Las reglas sobre disciplina y, en su caso, un sistema de estímulos a los servidores públicos jurisdiccionales de acuerdo a la disponibilidad presupuestaria del Tribunal.
+
+XIX. Proponer al Pleno del Tribunal los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tribunal para sus servidores públicos, considerando, en materia de Responsabilidades Administrativas, los criterios que en su caso emita el Comité Coordinador del Sistema Estatal Anticorrupción; y
+
+XX. Las demás que le confieran el Pleno del Tribunal, la presente ley u otros ordenamientos legales.
+
+### Capítulo III. Del Pleno del Tribunal
 
 ###### Artículo 19.
 
-Con el fin de respetar el derecho a la intimidad de las partes, al hacerse públicas las sentencias, de conformidad con el artículo 8 de la Ley, se omitirán sus datos personales, cuando manifiesten su oposición de manera expresa.
-
-En los asuntos de la competencia de los Organos Jurisdiccionales en el primer acuerdo que en ellos se dicte, deberá señalarse a las partes el derecho que les asiste para oponerse, en relación con terceros, a la publicación de sus datos personales, en la inteligencia de que la falta de oposición conlleva su consentimiento para que la sentencia respectiva se publique sin supresión de datos.
-
-Las referidas restricciones a la difusión de las sentencias emitidas por los Organos Jurisdiccionales no operan respecto de quienes, en términos de la legislación procesal aplicable, estén legitimados para solicitar copia de aquéllas.
-
-No se considerará confidencial la información publicada en el Semanario Judicial de la Federación, en términos de lo previsto en el artículo 197-B de la Ley de Amparo, por constituir una fuente de acceso público.
+El Pleno es la máxima autoridad del Tribunal, se integrará con los tres Magistrados de las Salas Unitarias que lo componen y será necesaria la presencia de la mayoría para que sesionen.
 
 ###### Artículo 20.
 
-Las personas que requieran tener acceso a la información que posean las Unidades Administrativas y los Organos Jurisdiccionales, deberán presentar ante los Módulos de Acceso solicitud por escrito o llenar el formato autorizado por la Comisión.
+Las sesiones ordinarias del Pleno del Tribunal deberán celebrarse cuando menos una vez por semana. Las sesiones extraordinarias deben ser convocadas por la mayoría de los miembros. Las sesiones serán públicas, podrán ser transmitidas por los medios electrónicos que faciliten su seguimiento, en los casos que se estime necesario serán videograbadas, resguardando los datos personales de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas. Sólo en los casos que la ley lo establezca, las sesiones podrán ser privadas, sin embargo, de éstas se harán versiones públicas para la consulta ciudadana que, en su caso, sea requerida.
 
-La Unidad de Enlace, a través de los Módulos de Acceso, auxiliará a los Solicitantes o a sus representantes en el llenado de los formatos de acceso a la información, en particular en los casos en que aquéllos no sepan leer ni escribir.
+Las deliberaciones y discusiones de los asuntos jurisdiccionales y administrativos deberán producirse siempre en la sesión del Pleno, las cuales serán dirigidas por el Presidente del Tribunal, serán válidas con la asistencia de la mayoría de los Magistrados integrantes. La ausencia del Presidente del Tribunal, será suplida por el Magistrado con mayor antigüedad.
 
 ###### Artículo 21.
 
-Si la información solicitada compete a las Unidades Administrativas o a los Organos Jurisdiccionales, y está disponible en medios impresos o electrónicos de acceso público, el personal del Módulo de Acceso facilitará al Solicitante su consulta directa en los medios de difusión y, de requerir copia impresa o electrónica, una vez enterada la cuota correspondiente, se le entregará en el plazo de diez días hábiles, sin necesidad del trámite del procedimiento regulado en el Capítulo Segundo de este Título.
+El Pleno del Tribunal despachará, en primer lugar, los asuntos jurisdiccionales enlistados en el orden del día; y en segundo, los administrativos.
 
-La consulta directa en los medios de difusión será gratuita.
+Los asuntos no jurisdiccionales podrán aprobarse en sesión privada conforme se establezca en el reglamento interior del Tribunal.
 
-La información se podrá dar en forma verbal sólo cuando sea con fines de orientación. La solicitud de información siempre será por escrito.
+En los asuntos de carácter administrativo el Presidente tendrá voto de calidad.
 
 ###### Artículo 22.
 
-En el caso de que la información solicitada no corresponda a las Unidades Administrativas o a los Organos Jurisdiccionales, el personal de la Unidad de Enlace, a través del Módulo de Acceso que corresponda, orientará al Solicitante en la medida de lo posible, sin menoscabo de que pueda proceder en términos de lo previsto en el artículo 26 del Acuerdo.
+En los asuntos jurisdiccionales las resoluciones del Pleno se tomarán por el voto de los tres Magistrados que lo integran, por unanimidad o mayoría de votos, quienes no podrán abstenerse de votar a menos que exista algún impedimento legal.
+
+Solo en aquellos casos en que no se pueda lograr la mayoría en la discusión y aprobación de un proyecto de sentencia por la falta absoluta, temporal o por excusa de alguno de los Magistrados, el Pleno deberá habilitar a un Secretario, que permita efectuar las deliberaciones correspondientes y resolver la votación.
+
+El Magistrado que difiera del voto mayoritario deberá formular su voto particular, así también, aunque esté de acuerdo con el sentido del proyecto, pero no con la argumentación parcial o total podrá formular voto concurrente, en ambos casos serán engrosados a la sentencia.
 
 ###### Artículo 23.
 
-La solicitud por escrito y el formato autorizado a los que hace referencia el artículo 20 del Acuerdo, deberán contener, sin excepción, los espacios correspondientes a los siguientes datos:
+Cuando la sesión no se pueda llevar a cabo por causas de fuerza mayor o de no ser aprobados en la sesión correspondiente, los asuntos podrán aplazarse para continuar la discusión en sesión posterior inmediata; o ser retirados por el Magistrado relator antes de las deliberaciones.
 
-I. Nombre completo del Solicitante y documento oficial que lo identifique;
-
-II. Domicilio del Solicitante;
-
-III. Datos generales del representante, en su caso;
-
-IV. Descripción clara y precisa de la información que solicita de forma concreta y particularizada;
-
-V. Cualquier otro dato que propicie la localización de la información solicitada, con el objeto de facilitar su búsqueda;
-
-VI. Modalidad en que prefiere se otorgue la información; y,
-
-VII. Firma del Solicitante o representante. En caso de que no sepa o no pueda escribir, el Solicitante imprimirá su huella digital y firmará a su ruego una persona que lo identifique.
+Un asunto de orden jurisdiccional, no podrá ser aplazado por más de dos veces sin decisión del Pleno.
 
 ###### Artículo 24.
 
-La respuesta a la solicitud deberá dictarse y notificarse dentro del plazo de veinte días hábiles, contados a partir del día en que fue presentada, siempre que la naturaleza de la información pedida lo permita. De manera excepcional este plazo podrá ampliarse hasta por un periodo igual cuando existan razones que lo motiven.
+Cuando un proyecto de sentencia no alcance mayoría y el relator se sostenga en su proyecto sin aceptar las opiniones de la mayoría, quedará asentado en acta y se turnará el expediente al Magistrado que le siga en número para la formulación de un nuevo proyecto adoptando la postura mayoritaria. En caso de conformidad de la mayoría de los Magistrados o de la aceptación de las observaciones hechas al proyecto por parte del Magistrado relator, se procederá al engrose de la sentencia.
 
 ###### Artículo 25.
 
-La obligación de permitir el acceso a la información se dará por cumplida cuando los documentos se pongan a disposición del Solicitante para su consulta en el sitio donde se encuentren, o bien, mediante la expedición de copias simples, certificadas o cualquier otro medio. Por ende, la información podrá ser entregada en las siguientes modalidades:
+Para el despacho de los asuntos jurisdiccionales que se tratarán en las sesiones del Pleno del Tribunal, corresponde a la Secretaría General de Acuerdos publicar en estrados, la relación de los expedientes con proyecto de resolución, enlistados para discusión y en su caso aprobación dentro del orden del día de la sesión correspondiente; para determinar los asuntos de carácter administrativo corresponde al Presidente del Tribunal proponerlos para su aprobación en el orden del día de la sesión que corresponda.
 
-I. Mediante su consulta física;
+La publicación en estrados deberá realizarse tres días antes de la sesión que corresponda, con excepción de los asuntos considerados por el Presidente del Tribunal, como de urgente resolución.
 
-II. Por medio de comunicación electrónica;
-
-III. En medio magnético u óptico;
-
-IV. En copias simples o certificadas; o,
-
-V. Por cualquier otro medio derivado de la innovación tecnológica.
+El orden de las sesiones del Pleno, las discusiones y votaciones se llevarán a cabo en los términos fijados por el Pleno, así como por lo dispuesto en el reglamento interior del Tribunal.
 
 ###### Artículo 26.
 
-La Unidad de Enlace calificará la procedencia de la solicitud y podrá desecharla cuando:
+Son atribuciones del Pleno del Tribunal:
 
-I. La solicitud sea ofensiva;
+I. Elegir por mayoría de votos de entre los Magistrados de las Salas Unitarias, al Presidente del Tribunal;
 
-II. La información solicitada no corresponda a las Unidades Administrativas o a los Organos Jurisdiccionales;
+II. Nombrar, remover, suspender y resolver todas las cuestiones que se relacionen con los nombramientos de los servidores públicos de la carrera profesional de justicia administrativa, en los términos de las disposiciones aplicables;
 
-III. Se haya entregado información sustancialmente idéntica como respuesta a una petición de la misma persona;
+III. Nombrar y remover a los funcionarios y demás servidores públicos del Tribunal, y aprobar o rechazar los nombramientos y remociones propuestas por los Magistrados correspondientes a sus Salas Unitarias, respecto de los no comprendidos de la fracción anterior;
 
-IV. La Comisión haya determinado con anterioridad que la información es reservada o confidencial y, en su caso, las causas que dieron origen a su clasificación no se hayan extinguido o no haya transcurrido el periodo de reserva; o,
+IV. Conceder las licencias a los Magistrados en los términos previstos por el artículo 13 de esta Ley;
 
-V. Se actualice cualquier otra causa análoga a las anteriores, derivada de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Ley y en este Acuerdo.
+V. Conceder las licencias a los Secretarios, Actuarios y demás servidores públicos del Tribunal, en los términos previstos en esta Ley y el reglamento interior del Tribunal;
 
-En caso de que la solicitud no reúna los requisitos del artículo 23 de este Acuerdo o, no sea clara, precisa, concreta y particularizada, la Unidad de Enlace tendrá un plazo no mayor de diez días hábiles, contados a partir de la fecha en que reciba la petición, para prevenir al interesado que corrija, aclare o amplíe su solicitud.
+VI. Expedir, modificar y dejar sin efectos, el reglamento interior del Tribunal;
 
-El Solicitante tendrá un plazo de diez días hábiles, contado a partir de la fecha en que reciba la notificación respectiva, para subsanar las irregularidades señaladas. En caso de no desahogar el requerimiento en ese lapso, se tendrá por no presentada la solicitud.
+VII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
 
-### Capítulo Primero. Del Recurso de Revisión
+VIII. Dictar las medidas administrativas para el buen funcionamiento del Tribunal y disciplina de su personal;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+IX. Resolver los recursos de reclamación y revisión, en los términos que establece la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas y demás disposiciones legales aplicables.
+
+Asimismo resolverá los recursos de apelación y revisión, conforme a lo que establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+X. Resolver en definitiva los asuntos sometidos a su jurisdicción, que no sean competencia de las Salas Unitarias, de acuerdo con el procedimiento señalado en la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas y en el reglamento interior del Tribunal;
+
+XI. Tomar la protesta legal de los servidores públicos del Tribunal;
+
+XII. Acordar la suspensión de labores del Tribunal, en los casos en que la normativa no lo determine expresamente;
+
+XIII. Nombrar y remover al personal eventual que requieran las necesidades del Tribunal;
+
+XIV. Dictar los acuerdos generales para el mejor desempeño y despacho pronto y expedito de los asuntos jurisdiccionales y administrativos;
+
+XV. Acordar la celebración de toda clase de actos jurídicos necesarios para el buen funcionamiento del Tribunal;
+
+XVI. Aprobar el proyecto de presupuesto de egresos correspondiente, formulado por el Presidente del Tribunal;
+
+XVII. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de su competencia, y cuya procedencia no esté sujeta al cierre de instrucción;
+
+XVIII. Resolver la instancia de aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones que emita y determinar las medidas que sean procedentes para la efectiva ejecución de sus sentencias;
+
+XIX. Ordenar en los asuntos del conocimiento del Pleno, que se reabra la instrucción y la consecuente devolución de los autos que integran el expediente a la Sala Unitaria de origen, en que se advierta una violación substancial al procedimiento, o cuando considere que se realice algún trámite en la instrucción.
+
+XX. Resolver en sesión privada sobre las excusas, excitativas de justicia y recusaciones de los Magistrados del Tribunal. Así como habilitar a los Secretarios de Acuerdos de los Magistrados de las Salas Unitarias para que los sustituyan;
+
+XXI. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
+
+XXII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
+
+XXIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2018)
+
+XXIV. Resolver sobre los informes previos y justificados en los juicios de amparo que se promuevan en contra de actos del Pleno del Tribunal que rendirá el Presidente del Tribunal;
+
+XXV. Supervisar la publicación de las jurisprudencias emitidas por él mismo;
+
+XXVI. Expedir el Estatuto de Carrera Profesional de Justicia Administrativa a que se refiere la presente Ley;
+
+XXVII. Autorizar a propuesta del Presidente del Tribunal, los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tribunal para sus servidores públicos, considerando, en materia de Responsabilidades Administrativas, los criterios que en su caso emita el Comité Coordinador del Sistema Estatal Anticorrupción; y
+
+XXVIII. Las demás que determinen las leyes aplicables.
+
+### Capítulo IV. De las Salas Unitarias del Tribunal
 
 ###### Artículo 27.
 
-La Unidad de Enlace, a más tardar al día siguiente del en que se admita la solicitud, pedirá a las áreas responsables que dentro de un plazo de cinco días hábiles, verifiquen la disponibilidad de la información y, en su caso, recaben la documentación correspondiente y remitan a dicha Unidad el informe respectivo, en donde se precise si la información debe otorgarse al Solicitante, en razón de los criterios de clasificación previstos en el Acuerdo y las disposiciones que deriven del mismo, la modalidad en que será entregada la información, atendiendo en la medida de lo posible a la solicitud del interesado y los datos necesarios para que los Módulos de Acceso determinen el monto de los derechos a cubrir por el Solicitante de acuerdo con los costos establecidos por la Comisión.
+El Tribunal funcionará por medio de tres Salas Unitarias, las que tendrán las facultades y competencias que señala esta Ley.
 
 ###### Artículo 28.
 
-La Unidad de Enlace, a través del Módulo de Acceso que corresponda, deberá comunicar al Solicitante la disponibilidad de la información, y en caso de que el acceso requiera el pago de derechos, la información deberá proporcionarse dentro de los diez días hábiles siguientes al en que el Solicitante entregue el comprobante que acredite el pago del costo correspondiente.
+Las Salas Unitarias del Tribunal conocerán de los asuntos que por orden aleatorio les sean turnados por el Secretario General de Acuerdos, substanciando el procedimiento conforme lo dispone esta Ley y el reglamento interior del Tribunal.
 
-Si en el plazo de sesenta días naturales, contado a partir de la exhibición del respectivo comprobante de pago, el Solicitante no acude al Módulo de Acceso a recoger la información requerida, el medio en el que se haya reproducido podrá ser destruido sin responsabilidad alguna ni devolución de los derechos enterados.
+El Secretario General de Acuerdos vigilará que la distribución de la carga de trabajo sea equitativa, considerando para el caso del Magistrado que sea designado como Presidente del Tribunal, la disminución de la asignación de asuntos jurisdiccionales, por acuerdo del Pleno para el desempeño de su función.
 
 ###### Artículo 29.
 
-En caso de que se negare la información solicitada, por ser clasificada como reservada o confidencial, las Unidades Administrativas u Organos Jurisdiccionales responsables de la misma, remitirán al Comité, por conducto de la Unidad de Enlace, el informe respectivo con los elementos necesarios para fundar y motivar la clasificación de la información.
+Los Magistrados de las Salas Unitarias tendrán las atribuciones siguientes:
 
-Cuando la negativa de acceso se base en la clasificación realizada por la Comisión, el Comité se limitará a confirmar dicha clasificación.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-### Capítulo Segundo. Del Recurso de Reconsideración
+I. Substanciar el procedimiento hasta la citación para sentencia, teniendo la más amplia facultad para subsanar cualquier omisión o error que notaren para el sólo efecto de regularizar el procedimiento. También conocerá de las impugnaciones en contra de las resoluciones que se dicten en los recursos de inconformidad, revocación y reclamación, previstos por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
+
+II. Someter al Pleno los proyectos de resolución cuando el asunto sea de la competencia del Pleno;
+
+III. Proceder a la ejecución de la sentencia;
+
+IV. Rendir los informes previos y justificados en los juicios de amparo que se promuevan en contra de actos de la Sala;
+
+V. Dictar las medidas que exijan el orden, el buen servicio y la disciplina de la Sala y exigir se guarde el respeto y consideración debidos;
+
+VI. Decretar las medidas de apremio para hacer cumplir las determinaciones de la Sala;
+
+VII. Solicitar al Gobernador del Estado, Presidentes Municipales y demás autoridades el apoyo necesario para hacer cumplir sus determinaciones;
+
+VIII. Emitir opinión con relación a las solicitudes de licencias que presente el personal de la Sala;
+
+IX. Informar trimestralmente al Pleno del Tribunal de las labores de la Sala;
+
+X. Proponer al Pleno los nombramientos y remociones de los funcionarios y del personal administrativo de la Sala a su cargo;
+
+XI. Admitir, desechar o tener por no presentada la demanda o su ampliación si no se ajustan a la Ley;
+
+XII. Admitir o tener por no presentada la contestación de la demanda o de su ampliación o, en su caso, desecharlas;
+
+XIII. Admitir o desechar la intervención del tercero;
+
+XIV. Admitir o desechar o tener por no ofrecidas las pruebas;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XV. Admitir, desechar y tramitar los incidentes y recursos que les competan, resolver sobre aclaraciones de sentencia y de resoluciones de quejas relacionadas con el cumplimiento de las sentencias.
+
+En caso de incidentes y recursos cuya resolución corresponda al Pleno, la Sala deberá formular el proyecto de resolución correspondiente y someterlo a consideración del Pleno;
+
+XVI. Dictar los acuerdos o providencias de trámite necesarios para instruir el juicio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes, los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XVII. Resolver en definitiva los asuntos sometidos a su jurisdicción, y en su caso, determinar las medidas correspondientes para asegurar el cumplimiento de ejecutorias, así como dar cumplimiento a las ejecutorias dictadas en materia de amparo, relativas a sentencias dictadas por la Sala, de acuerdo con el procedimiento señalado en la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas, y en el reglamento interior del Tribunal;
+
+XVIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas;
+
+XIX. Resolver sobre el otorgamiento de medidas cautelares que correspondan;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XX. Resolver en definitiva los asuntos sometidos a su jurisdicción, en materia de faltas administrativas graves investigadas y substanciadas por la Auditoría Superior del Estado, Contraloría Gubernamental y los Órganos Internos de Control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes.
+
+En caso de determinar la comisión de una falta administrativa grave, preverá la sanción correspondiente la cual incluirá el pago de las indemnizaciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos del Estado, en los términos de la Ley General de Responsabilidades de los Servidores Públicos, Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones legales aplicables;
+
+XXI. Ejecutar las sentencias o resoluciones que en definitiva resuelva el Pleno;
+
+XXII. Dar cumplimiento a las ejecutorias de amparo derivadas de los asuntos de su Sala;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXIII. Expedir certificaciones de las constancias que correspondan a la Sala;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXIV. Sobreseer los juicios antes de que se cierre la instrucción, cuando el demandante se desista de la acción o se revoque la resolución impugnada, así como en los demás casos que establezcan las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XXV. Imponer las sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al Patrimonio de los entes públicos del Estado o municipales; y
+
+XXVI. Realizar las demás atribuciones que en el ámbito de su competencia le confieran la presente ley, el reglamento interior del Tribunal u otros ordenamientos legales aplicables.
+
+### Capítulo V. Del Personal del Tribunal
 
 ###### Artículo 30.
 
-Serán públicas las solicitudes de acceso a la información y las respuestas que se les dé, incluyendo, en su caso, la información entregada.
+Para el ejercicio de sus atribuciones, el Tribunal contará, al menos, con los servidores públicos siguientes:
 
-De cada solicitud se integrará un cuaderno, el cual una vez concluido, se agregará al expediente del que derive la información.
+I. Un Secretario General de Acuerdos;
+
+II. Un Actuario adscrito a la Secretaría General de Acuerdos;
+
+III. Un Secretario de Acuerdos adscrito a cada una de las Salas Unitarias del Tribunal;
+
+IV. Un Actuario adscrito a cada una de las Salas Unitarias del Tribunal;
+
+V. Secretarios de Estudio y Cuenta para cada uno de los Magistrados;
+
+VI. Un Director de Informática;
+
+VII. Un Director Administrativo;
+
+VIII. Un Titular del Órgano Interno de Control;
+
+IX. El personal profesional, administrativo y técnico que las necesidades del servicio requiera y que se encuentre previsto en el reglamento interior del Tribunal y en el presupuesto de egresos del Tribunal; y
+
+X. El personal eventual que requiera el buen despacho de los asuntos.
 
 ###### Artículo 31.
 
-Las notificaciones que resulten de los procedimientos previstos en la Ley, el Acuerdo y demás disposiciones aplicables, se harán por estrados en los Módulos de Acceso, surtirán sus efectos el mismo día de su publicación y deberán suscribirse por el titular del módulo que corresponda.
+Son atribuciones del Secretario General de Acuerdos:
 
-## Título Quinto. De los Procedimientos de Acceso y Rectificación de Datos Personales
+I. Acordar con el Presidente del Tribunal lo relativo a las sesiones del Tribunal en Pleno;
+
+II. Publicar en los estrados, la relación de los expedientes con proyecto de resolución, enlistados para discusión y, en su caso, aprobación del Pleno dentro del orden del día de la sesión correspondiente;
+
+III. Estar presente en todas las sesiones del Tribunal en Pleno, teniendo en ellas voz informativa;
+
+IV. Levantar las actas respectivas, recabando las firmas de los Magistrados, tomar la votación de los mismos y hacer el cómputo respectivo;
+
+V. Autorizar con su firma las resoluciones del Pleno o, en su caso, de las Salas Unitarias, de manera autógrafa;
+
+VI. Ser responsable del registro en audio y video de las sesiones del Pleno;
+
+VII. Llevar el registro de los auxiliares de la Administración de Justicia Administrativa, peritos o traductores;
+
+VIII. Llevar el registro de los servidores públicos del Tribunal;
+
+IX. Expedir los certificados de constancias que obren en los expedientes de la Secretaría General;
+
+X. Dar fe de los actos del Tribunal;
+
+XI. Expedir las certificaciones que el propio Tribunal o la ley le encomienden;
+
+XII. Dar fe de los acuerdos del Presidente en los asuntos de trámite;
+
+XIII. Asentar en los expedientes las razones y certificaciones que procedan;
+
+XIV. Resguardar el sello del Pleno y utilizarlo en el cumplimiento de sus atribuciones;
+
+XV. Tener a su cargo y bajo su responsabilidad el archivo del Pleno;
+
+XVI. Devolver a las Salas Unitarias de origen los expedientes en los que se haya dictado resolución definitiva, para los efectos de su notificación y ejecución;
+
+XVII. Turnar las demandas a las Salas Unitarias del Tribunal distribuyéndolas en orden aleatorio y equitativo;
+
+XVIII. Recabar los datos para el informe anual del Presidente, en el área jurisdiccional;
+
+XIX. Recabar los informes de las Salas Unitarias para elaborar las estadísticas e integrarlos al informe anual del Presidente;
+
+XX. Llevar el registro de cédulas profesionales para la representación procesal y las notificaciones que, en su caso, se puedan realizar;
+
+XXI. Auxiliar a las Salas Unitarias en sus funciones;
+
+XXII. Tramitar la correspondencia del Tribunal que no corresponda al Presidente o a las Salas;
+
+XXIII. Emitir la lista de acuerdos del Pleno del Tribunal; y
+
+XXIV. Las demás que señalen el Presidente del Tribunal, el Pleno, y las demás disposiciones legales aplicables.
 
 ###### Artículo 32.
 
-Las Unidades Administrativas que posean, por cualquier título, sistemas de datos personales, deberán hacerlo del conocimiento de la Comisión, la cual mantendrá un listado actualizado de dichos sistemas.
-
-La Comisión adoptará las medidas necesarias para regular el acceso a los listados.
+Las faltas temporales del Secretario General de Acuerdos serán suplidas por el Actuario adscrito a la Secretaría General o a falta de éste, por la persona que al efecto designe el Pleno del Tribunal.
 
 ###### Artículo 33.
 
-De conformidad con lo establecido en el artículo 20 de la Ley, la solicitud deberá presentarse por escrito, cumpliendo con los requisitos previstos en el numeral 23 del Acuerdo.
+Son atribuciones de los Secretarios de Acuerdos de las Salas Unitarias:
 
-Así mismo, acorde con lo establecido en el artículo 24 de la Ley, solamente los interesados o sus representantes podrán solicitar a la Unidad de Enlace, previa acreditación, que les proporcione sus datos personales que obren en uno de los sistemas a que se refiere el artículo anterior.
+I. Recibir y dar cuenta al Magistrado de la correspondencia que se turne a la Sala;
 
-Cuando los datos de carácter personal se colecten de fuentes de acceso público, no se requerirá el consentimiento del interesado.
+II. Dar cuenta al Magistrado de su Sala, de las promociones presentadas por las partes, el mismo día de su presentación;
 
-En caso de que el interesado directo haya fallecido, el representante de la sucesión podrá solicitar dicha información en los términos de las disposiciones del Código Civil Federal.
+III. Dar cuenta al Magistrado de los asuntos en los que haya de celebrarse la audiencia respectiva;
+
+IV. Celebrar las audiencias;
+
+V. Elaborar el proyecto de acuerdo de radicación de las acciones de responsabilidad remitidas por las autoridades competentes en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
+
+VI. Publicar la lista de acuerdos correspondiente a su Sala;
+
+VII. Proyectar los autos y acuerdos de trámite correspondientes a los asuntos de su Sala;
+
+VIII. Intervenir en todas las diligencias que practique la Sala conforme a lo dispuesto por esta Ley;
+
+IX. Autorizar con su firma y sello las resoluciones y diligencias en las que intervenga;
+
+X. Practicar las diligencias que le encomiende el Magistrado cuando éstas deban hacerse fuera del local de la Sala;
+
+XI. Asentar en los expedientes, las razones y certificaciones que procedan;
+
+XII. Conservar en su poder el sello de la Sala y hacer uso de él en el cumplimiento de sus atribuciones;
+
+XIII. Organizar, tener a su cargo y bajo su responsabilidad el archivo de expedientes de trámite de la Sala;
+
+XIV. Expedir certificaciones de las constancias que obren en los expedientes de la Sala a la que estén adscritos;
+
+XV. Turnar los autos, acuerdos y resoluciones para su notificación al Actuario de la Sala, así como las actuaciones jurisdiccionales y asuntos de trámite administrativo para su cumplimiento;
+
+XVI. Efectuar las diligencias necesarias para el desahogo de las pruebas ofrecidas por las partes;
+
+XVII. Rendir informe al Magistrado de los expedientes radicados, de los acuerdos y resoluciones dictadas, elaborando estadísticas mensualmente;
+
+XVIII. Suplir las faltas temporales del Secretario General de Acuerdos, cuando el Pleno así lo ordene; y
+
+XIX. Las demás que señalen el Pleno, el Magistrado Presidente, el Magistrado de la Sala a la cual se encuentre adscrito, esta Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
 
 ###### Artículo 34.
 
-La Unidad de Enlace deberá entregar al Solicitante, en un plazo no mayor de diez días hábiles, contado a partir de la presentación de la solicitud, la información correspondiente o, en su caso, la comunicación por escrito señalando que no se cuenta con los datos requeridos.
+Las faltas temporales de los Secretarios de Acuerdos serán suplidas por el Actuario adscrito a la Sala respectiva o cuando ello no sea posible, por la persona que designe el Magistrado.
 
 ###### Artículo 35.
 
-Las personas interesadas o sus representantes podrán solicitar, previa acreditación, ante la Unidad de Enlace, que modifiquen sus datos que obren en cualquier sistema de datos personales. Con tal propósito, el interesado deberá entregar una solicitud de modificaciones a la Unidad de Enlace, que señale el sistema de datos personales, indique las modificaciones por realizarse y acompañe la documentación que motive su petición. Aquélla deberá entregar al Solicitante, en un plazo de treinta días hábiles desde la presentación de la solicitud, una comunicación que haga constar las modificaciones o bien le informe, de manera fundada y motivada, las razones por las cuales no procedieron.
+Son atribuciones de los Actuarios:
 
-## Título Sexto. De los Medios de Defensa
+I. Dar fe pública en los asuntos de su competencia;
+
+II. Practicar las notificaciones de las Salas o del Pleno, según corresponda, asentando en el expediente la razón de haber hecho la notificación y de haber entregado los oficios respectivos;
+
+III. Practicar las diligencias que les encomiende el Magistrado de la Sala, el Presidente o el Pleno del Tribunal, según corresponda;
+
+IV. Notificar en tiempo y forma, los acuerdos y las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
+
+V. Llevar el control y estadística de las notificaciones practicadas, informando permanentemente a la Secretaría de Acuerdos de la Sala; y
+
+VI. Las demás que le señalen el Pleno, el Magistrado Presidente, el Magistrado y el Secretario de la Sala Unitaria a la cual se encuentre adscrito, esta Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
 
 ###### Artículo 36.
 
-El recurso de revisión a que se refieren los artículos 49 y 50 de la Ley, se presentará ante la Comisión, por conducto del Módulo de Acceso respectivo o de las oficinas de correos en las ciudades donde no existan éstos.
+El Presidente del Tribunal o los Magistrados de las Salas Unitarias, podrán habilitar personal para que practiquen las diligencias y notificaciones cuando la carga de trabajo así lo requiera.
 
 ###### Artículo 37.
 
-El escrito de interposición del recurso, deberá contener:
-
-I. El nombre del recurrente, así como su domicilio o medio que señale para recibir notificaciones;
-
-II. Los documentos que acrediten su personalidad cuando promueva a nombre de otro o de una persona moral;
-
-III. El acto que se recurre y la fecha en que se notificó;
-
-IV. Los motivos de inconformidad; y,
-
-V. La firma o en su caso la huella digital del promovente.
-
-En el recurso sólo se admitirá la prueba documental, que deberá tener relación inmediata y directa con los motivos de inconformidad, la cual se acompañará al escrito de interposición del medio de impugnación.
+Las faltas temporales del Actuario serán suplidas por la persona que designe el Magistrado de la Sala Unitaria correspondiente.
 
 ###### Artículo 38.
 
-El recurso de revisión se substanciará conforme a los lineamientos siguientes:
+Son atribuciones de los Secretarios de Estudio y Cuenta:
 
-I. El Presidente de la Comisión, verificará el cumplimiento de los requisitos previstos en el artículo 37 del Acuerdo y, en caso afirmativo, lo admitirá;
+I. Efectuar las diligencias que le encomiende el Magistrado al que estén adscritos cuando éstas deban practicarse fuera del local de la Sala Unitaria;
 
-II. Si no cumple con los requisitos, el Presidente de la Comisión, requerirá al interesado por una sola vez para que subsane la omisión dentro de un término de cinco días hábiles, transcurrido este plazo sin desahogar la prevención, el Presidente lo desechará de plano dentro del término de seis días hábiles;
+II. Realizar el proyecto de resolución de las acciones de responsabilidad, cuando de su análisis determine que la conducta no está prevista como falta administrativa grave;
 
-III. Admitido el recurso, el Presidente de la Comisión lo turnará al Consejero Ponente, para que dentro del término de treinta días hábiles, formule un proyecto de resolución;
+III. Formular el proyecto de resolución correspondiente, que incluirá la imposición de las sanciones administrativas que correspondan al servidor público que haya cometido faltas administrativas graves y, en su caso, a los particulares que hayan incurrido en las mismas;
 
-IV. La Comisión emitirá la resolución dentro de los veinte días hábiles siguientes al de la presentación del proyecto;
+IV. Elaborar los proyectos de sentencias definitivas e interlocutorias, y engrosarlas, en su caso, de acuerdo con las instrucciones que reciban del Magistrado de la Sala;
 
-V. Las promociones y escritos se podrán recibir por cualquier medio, siempre que permita probar de manera fehaciente su recepción; y,
+V. Elaborar los proyectos para el cumplimiento de ejecutorias de amparo concedidos contra las sentencias definitivas;
 
-VI. La información reservada o confidencial, que en su caso, sea solicitada por la Comisión, por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+VI. Elaborar los informes previos y justificados; y
+
+VII. Las demás que le encomienden el Presidente del Tribunal, el Pleno, el Magistrado de la Sala Unitaria a la cual se encuentra adscrito, esta Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
 
 ###### Artículo 39.
 
-Las resoluciones de la Comisión podrán:
+El Director de Administración se encargará de ejecutar las políticas necesarias para el mejor funcionamiento de la administración, disciplina y vigilancia de los recursos humanos, materiales y financieros del Tribunal, previa autorización del Magistrado Presidente, teniendo además como atribuciones:
 
-I. Desechar el recurso por improcedente;
+I. Operar y controlar el ejercicio del presupuesto anual de egresos del Tribunal vigilando el cumplimiento de las disposiciones legales aplicables y presupuestarias vigentes;
 
-II. Declarar sin materia el recurso;
+II. Realizar las adquisiciones, contrataciones y suministros, en su caso, de los bienes y servicios que requiera el funcionamiento del Tribunal, así como llevar el inventario de los bienes muebles e inmuebles del mismo, de conformidad con las normas y disposiciones legales aplicables;
 
-III. Confirmar la resolución impugnada;
+III. Llevar la contabilidad del ejercicio del presupuesto de egresos así como el control y vigilancia del mismo;
 
-IV. Revocar la resolución; o,
+IV. Auxiliar al Pleno del Tribunal en la elaboración del proyecto de egresos del Tribunal;
 
-V. Modificar la resolución.
+V. Llevar el control administrativo del personal del Tribunal, así como integrar y mantener actualizados sus expedientes;
 
-Las resoluciones deberán constar por escrito, estar debidamente fundadas y motivadas y en caso de ser favorables, establecerán los plazos para su cumplimiento y los procedimientos para asegurar la ejecución.
+VI. Realizar la evaluación interna de los servidores públicos de carrera profesional de justicia administrativa a que se refieren las fracciones II a V del artículo 30 de esta Ley. La evaluación se basará en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, de conformidad con las disposiciones aplicables;
+
+VII. Informar al Presidente del Tribunal los resultados de las evaluaciones efectuadas a los servidores públicos referidos en la fracción anterior, de conformidad con el Estatuto de Carrera Profesional de Justicia Administrativa;
+
+VIII. Integrar y operar el Plan Anual de Capacitación del personal administrativo del Tribunal;
+
+IX. Elaborar la nómina del personal del Tribunal y efectuar los pagos correspondientes con oportunidad;
+
+X. Llevar la contabilidad del Tribunal y elaborar los estados financieros;
+
+XI. Elaborar la cuenta pública del Tribunal;
+
+XII. Tramitar los nombramientos, renuncias y licencias del personal;
+
+XIII. Administrar los bienes muebles e inmuebles propiedad del Tribunal, así como su mantenimiento y reparación; y
+
+XIV. Las demás que le encomiende el Pleno, el Presidente del Tribunal, esta Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
 
 ###### Artículo 40.
 
-El recurso se desechará por improcedente cuando:
+Son atribuciones del Director de Informática:
 
-I. Se presente fuera del plazo fijado por la Ley;
+I. Proporcionar soporte y apoyo técnico al Tribunal;
 
-II. No cumpla con el requisito exigido en el artículo 37, fracción V, del Acuerdo;
+II. Proveer y coordinar los recursos necesarios en materia de tecnologías de la información, supervisando su correcta aplicación;
 
-III. Haya sido resuelto el recurso sobre el mismo asunto;
+III. Auxiliar al Secretario General de Acuerdos en el registro de audio y video de las sesiones del Pleno;
 
-IV. Exista algún medio de defensa en trámite ante los Tribunales del Poder Judicial de la Federación; o,
+IV. Coordinar la publicación del órgano informativo o página electrónica en internet del Tribunal; y
 
-V. La causa de improcedencia derive de la Constitución, la Ley o de este Acuerdo.
+V. Las demás que le indique el Pleno, el Presidente del Tribunal, esta Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
 
 ###### Artículo 41.
 
-Se declarará sin materia el recurso cuando:
+Para ser Secretario General de Acuerdos, Secretario de Acuerdos de Sala, Secretario de Estudio y Cuenta o Actuario, se requiere:
 
-I. El recurrente desista expresamente del recurso; o,
+I. Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Habiéndolo interpuesto una persona moral, ésta se disuelva.
+II. Ser mayor de veintisiete años y menor de setenta años;
+
+III. Tener título de Licenciado en Derecho y cédula profesional debidamente expedidos y registrados ante las autoridades correspondientes;
+
+IV. Contar por lo menos con dos años de experiencia en materia de justicia administrativa;
+
+V. De reconocida honestidad y notoria buena conducta; y
+
+VI. No haber sido sentenciado por delito intencional grave del fuero común y federal, y no haber sido sancionado por falta administrativa grave en los últimos 10 años.
+
+El Secretario General de Acuerdos, Secretario de Acuerdos de Sala, Secretario de Estudio y Cuenta o Actuario, están impedidos para desempeñar cualquier otro empleo en los mismos términos que los Magistrados de las Salas Unitarias.
 
 ###### Artículo 42.
 
-El recurso de reconsideración procederá contra las resoluciones de la Comisión, emitidas en la revisión interpuesta contra la determinación del Comité, dictada en el caso señalado en el artículo 29 del Acuerdo.
+El Tribunal contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades a que se refiere la fracción III, del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, así como el diverso 150, fracción III de la Constitución Política del Estado de Tamaulipas, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
-Este recurso, podrá promoverse transcurrido un año de que la Comisión haya dictado su fallo.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-Dicha reconsideración deberá referirse a la misma solicitud y, se presentará y substanciará conforme a las reglas previstas en el Acuerdo para el recurso de revisión, debiendo resolverse en un plazo máximo de cincuenta días hábiles.
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+
+El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
+
+IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido Secretario de Estado, Procurador General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Estado a que se refiere el artículo 76 de la Constitución Política del Estado de Tamaulipas.
 
 ###### Artículo 43.
 
-Para la substanciación y resolución de los recursos, será aplicable supletoriamente, en lo que no se oponga al Capítulo Primero y Segundo de este Título, el Código Federal de Procedimientos Civiles.
+Son atribuciones del Titular del Órgano Interno de Control:
+
+I. Resolver sobre las responsabilidades de los servidores públicos establecidos en las fracciones IX y X del artículo 30 de esta Ley, e imponer, en su caso, las sanciones administrativas correspondientes en términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
+
+II. Vigilar el cumplimiento de los acuerdos y demás normas que expida el Pleno del Tribunal;
+
+III. Comprobar el cumplimiento por parte de los órganos administrativos del Tribunal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+IV. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Tribunal;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+V. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+VI. Nombrar y remover los funcionarios y el personal a su cargo, atendiendo a las necesidades para la realización de sus funciones, y al presupuesto asignado al Tribunal; y
+
+VII. Las demás que determinen las leyes, reglamentos y acuerdos generales correspondientes.
 
 ###### Artículo 44.
 
-La resolución que se dicte en el recurso de reconsideración será definitiva e inatacable.
+El Tribunal contará con un registro de peritos, que lo auxiliarán con el carácter de peritos terceros, como profesionales independientes, los cuales deberán tener título debidamente registrado en la ciencia o arte a que pertenezca la cuestión sobre la que deba rendirse el peritaje o proporcionarse la asesoría, si la profesión o el arte estuvieren legalmente reglamentados y, si no lo estuvieren, deberán ser personas versadas en la materia.
 
-## Título Tercero. De los Criterios de Clasificación y Conservación de la Información Reservada o Confidencial
+Para la integración del registro y permanencia en el mismo, así como para contratación y pago de los honorarios de los peritos, se estará a lo dispuesto en los lineamientos que señale el reglamento interior del Tribunal.
 
-## Título Cuarto. Del Acceso a la Información en Posesión de las Unidades Administrativas y los Organos Jurisdiccionales
+###### Artículo 45.
+
+Las relaciones laborales entre el Tribunal y su personal, se regirán conforme a lo dispuesto en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
+
+###### Artículo 46.
+
+El personal del Tribunal tendrá cada año dos periodos de vacaciones en los términos que señale la Ley del Trabajo de los Servidores Públicos del Estado.
+
+Se suspenderán las labores generales del Tribunal y no correrán los plazos, los días que acuerde el Pleno. Durante las vacaciones del Tribunal, el Pleno determinará el personal que deberá realizar las guardias necesarias y preverá que entre dicho personal se designe, cuando menos, a un Magistrado, un Secretario de Acuerdos y un Actuario, para atender y resolver, en los casos urgentes que no admitan demora, las medidas cautelares y suspensión en términos de lo establecido por la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
+
+Únicamente se recibirán promociones en la Oficialía de Partes durante las horas hábiles que determine el Pleno.
+
+## TÍTULO TERCERO. DE LA CARRERA PROFESIONAL DE JUSTICIA ADMINISTRATIVA
+
+### Capítulo Único
+
+###### Artículo 47.
+
+El Tribunal contará con un sistema de carrera profesional de justicia administrativa, basado en los principios de honestidad, eficiencia, capacidad, excelencia, objetividad, imparcialidad, profesionalismo, independencia académica y experiencia, el cual comprenderá a los servidores públicos a que se refieren las fracciones II a la V del artículo 30 de esta Ley.
+
+La carrera profesional de justicia administrativa tiene como propósito la capacitación, formación, actualización y profesionalización, así como para la realización de estudios de posgrado, capacitación continua e investigación.
+
+El sistema abarcará las fases de ingreso, promoción, permanencia y retiro de dichos servidores públicos, de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas, y de acuerdo con los procedimientos y criterios establecidos en el Estatuto correspondiente.
+
+###### Artículo 48.
+
+El sistema de carrera profesional de justicia administrativa comprenderá:
+
+I. Programas de estudio para la profesionalización, capacitación, y actualización de los servidores públicos de la carrera profesional de justicia administrativa;
+
+II. Cursos y talleres que fortalezcan la vocación de servicio, y el ejercicio de los valores y principios éticos inherentes a la función de justicia administrativa;
+
+III. Programas académicos de Educación Superior Especializada orientados a la profesionalización de la función de justicia administrativa; así como para habilitar especialistas que desarrollen tareas de asesoría y consultoría en materia de impartición de justicia administrativa;
+
+IV. Planes y programas de estudio que de manera integral, adopten a la función de justicia administrativa como centro de desarrollo profesional de la actividad institucional;
+
+V. Programas de capacitación y formación profesional orientados a la constitución de claustros docentes especializados en materia de impartición de justicia administrativa;
+
+VI. Programas para la selección, formación, evaluación integral y promoción del personal de justicia administrativa con base en el fortalecimiento de la carrera profesional de justica (sic) administrativa;
+
+VII. Proyectos de investigación, procurando su interacción con la docencia, la difusión y la extensión;
+
+VIII. Medios de difusión de la cultura de justicia administrativa y de extensión de los servicios, propiciando corresponsabilidad y colaboración;
+
+IX. Cursos continuos de formación, actualización y especialización para las distintas categorías de la carrera profesional de justicia administrativa, y
+
+X. Todos aquellos procedimientos que se consideren pertinentes para el mejoramiento de sus funciones.
+
+## TÍTULO CUARTO. DE LA JURISPRUDENCIA
+
+### Capítulo Único
+
+###### Artículo 49.
+
+La jurisprudencia y precedentes que deba establecer el Pleno de Tribunal, en los asuntos de su competencia, se regirán por las disposiciones de la Ley de Procedimiento Contencioso Administrativo del Estado de Tamaulipas.
+
+###### Artículo 50.
+
+En términos de la fracción XXVI del artículo 26 de esta Ley, el Pleno vigilará que las publicaciones de la jurisprudencia se realicen con oportunidad en el medio informativo designado para tal efecto.
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 76/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2003)</small>
+###### ARTÍCULO SEGUNDO.
 
-TERCERO.- Los expedientes concluidos relativos a los asuntos de naturaleza penal o familiar que a la entrada en vigor de este Acuerdo se encuentran bajo resguardo de los Organos Jurisdiccionales, no podrán hacerse públicos durante los primeros doce años a partir de esa fecha. Tratándose de las sentencias ejecutorias en materias diferentes de las anteriores que se encuentren en esa situación, en un plazo de sesenta días naturales contado a partir de la entrada en vigor de este Acuerdo, las partes podrán oponerse a que sus nombres y datos personales se hagan públicos; de lo contrario, se entenderá que existe consentimiento para su publicación.
+Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar, en su caso, las adecuaciones normativas a que haya lugar y expedir las leyes correspondientes de conformidad con lo previsto en el presente Decreto.
 
-CUARTO.- Tratándose de expedientes concluidos no relativos a los asuntos de naturaleza penal o familiar, que a la fecha de la entrada en vigor del Acuerdo estén a disposición de los Organos Jurisdiccionales, la Comisión precisará los criterios de acuerdo con las solicitudes que se vayan formulando.
+###### ARTÍCULO TERCERO.
 
-QUINTO.- El índice a que se refiere el artículo 17 del Acuerdo, se integrará a partir del doce de junio de dos mil tres, con los datos que sean registrados por las Unidades Administrativas.
+Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
 
-SEXTO.- La información a que se refiere el artículo 7 de la Ley, deberá estar a disposición de los solicitantes, a partir de la fecha en que entre en vigor este Acuerdo.
+###### ARTÍCULO CUARTO.
 
-SEPTIMO.- El Pleno del Consejo de la Judicatura Federal estará facultado para resolver las cuestiones de interpretación que se susciten con motivo de la aplicación del presente Acuerdo.
+El Magistrado del Tribunal que a la entrada en vigor de la presente Ley se encuentre en ejercicio de su cargo, cesará en sus funciones al iniciar su vigencia la presente ley. El Secretario Relator del Tribunal Fiscal del Estado, continuará sustanciando los expedientes que se encuentren en trámite a la entrada en vigor de la presente ley, hasta que se cierre la instrucción y queden en estado de dictar sentencia.
 
-OCTAVO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+###### ARTÍCULO QUINTO.
 
-EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 30/2003, del Pleno del Consejo de la Judicatura Federal, que Establece los Organos, Criterios y Procedimientos Institucionales para la Transparencia y Acceso a la Información Pública para este Organo del Poder Judicial de la Federación, los Tribunales de Circuito y los Juzgados de Distrito, fue aprobado por el Pleno del Consejo, en sesión extraordinaria de nueve de junio de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a nueve de junio de dos mil tres.- Conste.- Rúbrica.
+Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tamaulipas y aquellos que se verifiquen antes de la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+###### ARTÍCULO SEXTO.
 
-D.O.F. 14 DE NOVIEMBRE DE 2003.
+Todas las referencias que en las leyes se hagan al Tribunal Fiscal del Estado, se entenderán aludidas al Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
-PRIMERO.- Publíquese el presente Acuerdo General, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+###### ARTÍCULO SÉPTIMO.
 
-SEGUNDO.- El presente Acuerdo General, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Por única ocasión, los Magistrados del Tribunal de Justicia Administrativa del Estado, que se nombren para el inicio de funciones del órgano jurisdiccional, durarán en su encargo, respectivamente, el primero de los nombrados cuatro años, el segundo seis años y el tercero ocho años improrrogables, periodos que empezarán a contar a partir de sus respectivos nombramientos. Los subsecuentes nombramientos de Magistrados tendrán una duración en el cargo de ocho años improrrogables.
+
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- Cd. Victoria, Tam., a 31 de mayo del año 2017.- DIPUTADA PRESIDENTA.- MARÍA DEL CARMEN TUÑÓN COSSÍO.- Rúbrica.- DIPUTADO SECRETARIO.- VÍCTOR ADRIÁN MERAZ PADRÓN.- Rúbrica.- DIPUTADA SECRETARIA.- NANCY DELGADO NOLAZCO.- Rúbrica".
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, al primer día del mes de junio del año dos mil diecisiete.
+
+ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-519 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS, A LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación a lo señalado en el último párrafo del artículo 22 de la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas del presente Decreto, los juicios que se hayan iniciado en el Tribunal de Justicia Administrativa del Estado de Tamaulipas con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
