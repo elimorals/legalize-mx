@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1925-07-31"
+last_updated: "1925-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 1925.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE NOVIEMBRE DE 1925.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -325,7 +325,7 @@ XXV.- aprobar o no la formación o creación de nuevos Estados o Territorios;
 
 XXVI.- recibir la protesta de Ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia del mismo y al Contador Mayor;
 
-XXVII.- resolver las peticiones de licencia de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias.
+XXVII.- resolver las peticiones de licencia de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias;
 
 XXVIII.- nombrar Gobernador interino en los casos de falta temporal o absoluta del Gobernador Constitucional del Estado;
 
@@ -339,7 +339,7 @@ XXXII.- erigirse en Colegio Electoral para hacer el escrutinio y la declaración
 
 XXXIII.- reglamentar las bases de Policía y Buen Gobierno a que deberán sujetarse los templos y ministros de los Cultos, y determina el numero de éstos que puedan ejercer en el Estado;
 
-XXXIV.- erigirse en Jurado de acusación para los altos funcionarios de que tratan los artículos setenta y uno y setenta y dos de la Constitución General.
+XXXIV.- erigirse en Jurado de acusación para los altos funcionarios de que tratan los artículos setenta y uno y setenta y dos de la Constitución General;
 
 XXXV.- citar al Secretario General de Gobierno para que informe cuando se discuta una Ley o se estudie un negocio que se relacione con el Ejecutivo;
 
@@ -357,9 +357,9 @@ XLI.- conceder primas y auxilios a los que introduzcan y establezcan en el Estad
 
 XLII.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas que se hagan cargo provisionalmente del municipio, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos;
 
-> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 1923)</small>
+> <small>(REFORMADA, D.O. 19 DE NOVIEMBRE DE 1925)</small>
 
-XLIII.- confirmar la revocación del mandato público confiado al Gobernador, Diputados y Presidentes Municipales, y revocar el confiado a los Magistrados del Tribunal Superior de Justicia;
+XLIII.- Revocar (sic) el mandato conferido al Gobernador del Estado, a los Magistrados del H. Tribunal Superior de Justicia, a los Diputados y a los Presidentes y Concejales de los Ayuntamientos. Esta facultad será enteramente libre a juicio del Congreso y a mayoría de votos excepto cuando se trate del Gobernador y de los Diputados, en cuyos casos será necesaria la determinación del sesenta y cinco por ciento de los electores, comunicada al Congreso y aprobada por el voto unánime de la Legislatura, cuando se trate de Gobernador y de las dos terceras partes, para el caso de los Diputados;
 
 XLIV.- las demás que le confiere esta Constitución.
 
@@ -559,7 +559,7 @@ XI.- hacer uso del derecho de iniciar leyes que le concede el artículo treinta 
 
 XII.- cumplir con lo dispuesto en el artículo veinte y ocho de esta Constitución;
 
-XIII.- expedir la convocatoria para las elecciones públicas:
+XIII.- expedir la convocatoria para las elecciones públicas;
 
 XIV.- presentar en el segundo período de sesiones ordinarias del Congreso, los presupuestos de los ingresos y egresos que han de regir en el año siguiente;
 
@@ -1014,6 +1014,10 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 D.O. 31 DE JULIO DE 1925.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 19 DE NOVIEMBRE DE 1925.
+
+Este decreto surtirá sus efectos el mismo día de su publicación en el "Diario Oficial" del Estado.
 
 ###### ARTICULO UNICO.
 
