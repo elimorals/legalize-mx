@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2004-04-30"
+last_updated: "2004-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 28 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -229,7 +229,9 @@ Los Sujetos Obligados deberán preparar la automatización, presentación y cont
 
 Los Sujetos Obligados pondrán a disposición de las personas interesadas los medios necesarios, a su alcance, para que éstas puedan obtener la información, de manera directa y sencilla. Las unidades de información deberán proporcionar apoyo a los usuarios que lo requieran y dar asistencia respecto de los trámites y servicios que presten.
 
-### Capítulo II. De la Información Clasificada como Reservada y Confidencial
+### Capítulo II. De la Información Clasificada como
+
+Reservada y Confidencial
 
 ###### Artículo 19.
 
@@ -513,13 +515,23 @@ Las Unidades de Información deberán hacer del conocimiento del Instituto u ór
 
 ### Capítulo I. De la Naturaleza y Atribuciones
 
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 56.
 
-Se crea el Organismo Público Descentralizado de carácter estatal denominado, "Instituto de Transparencia y Acceso a la Información Pública del Estado de México", dotado de personalidad jurídica y patrimonio propios, con autonomía operativa, presupuestaria y de decisión, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales.
+Se crea el Organismo Público Descentralizado no sectorizado de carácter estatal denominado, "Instituto de Transparencia y Acceso a la Información Pública del Estado de México", dotado de personalidad jurídica y patrimonio propios, con autonomía operativa, presupuestaria y de decisión, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales.
+
+Para garantizar la autonomía de gestión, decisión y el cabal cumplimiento de su objeto, el Instituto queda exceptuado de lo establecido por el artículo 4, el segundo párrafo del artículo 9, así como por lo señalado en el Capítulo III salvo lo dispuesto en el artículo 16, y el artículo 23, todos de la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México, la cual en lo general no se aplicará en lo que se oponga a la presente Ley.
+
+El Instituto de Transparencia y Acceso de Información Pública del Estado de México, podrá modificar su estructura y base de organización, conforme al procedimiento que al efecto establezca el Consejo, cuando sea necesario, para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
 
 ###### Artículo 57.
 
 En su organización, funcionamiento y control, el Instituto se sujetará a lo establecido por la presente Ley y su Reglamento Interior y en sus decisiones se regirá por los principios de autonomía, legalidad, publicidad y objetividad.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2004)</small>
+
+El Instituto aplicará las disposiciones del Libro Décimo Tercero del Código Administrativo del Estado de México, en lo que no se oponga a la presente Ley. Asimismo, determinará la conformación de sus comités a efecto de dar debido cumplimiento a lo dispuesto por dicho Código.
 
 ###### Artículo 58.
 
@@ -575,7 +587,13 @@ XIX. Elaborar y remitir a la Secretaría de Finanzas, Planeación y Administraci
 
 XX. Expedir su Reglamento Interior y demás normas de operación; y
 
-XXI. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, G.G. 28 DE DICIEMBRE DE 2004)</small>
+
+XXI. Administrar los recursos humanos, bienes y patrimonio del Instituto, así como determinar y autorizar su estructura orgánica y su personal.
+
+> <small>(ADICIONADA, G.G. 28 DE DICIEMBRE DE 2004)</small>
+
+XXII. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
 
 El Instituto tendrá su domicilio en la Ciudad de Toluca de Lerdo y ejercerá sus funciones en todo el territorio del Estado.
 
@@ -828,3 +846,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+G.G. 28 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto ene l Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
