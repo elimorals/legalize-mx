@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2001-01-19"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -45,9 +45,11 @@ ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
 ### CAPÍTULO I. Del Poder Judicial
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 1.
 
-La presente ley tiene por objeto reglamentar las normas constitucionales relativas al Poder Judicial del Estado.
+La presente ley es de orden público y de observancia general y tiene por objeto reglamentar las normas constitucionales relativas al Poder Judicial del Estado.
 
 ###### Artículo 2.
 
@@ -123,21 +125,27 @@ En ningún caso podrá haber dos o más Magistrados que sean parientes consangu�
 
 El Congreso resolverá sobre las renuncias que presenten los Magistrados.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 5.
 
-Los Jueces de Primera Instancia y Menores serán nombrados por el Consejo de la Judicatura, mediante concurso de oposición, y durarán en su cargo cinco años, al término de los cuales podrán ser nombrados, por una sola vez, para un período igual.
+Los Jueces de Primera Instancia y Menores serán nombrados por el Consejo de la Judicatura, mediante concurso de oposición, durarán en su cargo cinco años y podrán ser ratificados por un período igual las veces que sean necesarias previa aprobación de los exámenes de actualización que realice el Consejo de la Judicatura, siempre que su función haya sido desempeñada con probidad, eficiencia, profesionalismo y que su expediente no tenga notas de demérito.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 6.
 
-Los Jueces Municipales serán nombrados por el Consejo de la Judicatura, a propuesta de una terna del Juez de Primera Instancia del Distrito Judicial respectivo, a quien el citado Consejo se la haya solicitado. Durarán en su cargo tres años, al término de los cuales podrán ser nombrados, por una sola vez, para un período igual.
+Los Jueces Municipales serán nombrados por el Consejo de la Judicatura, a propuesta de una terna del Juez de Primera Instancia del Distrito Judicial respectivo, a quien el citado Consejo se la haya solicitado. Durarán en su cargo tres años y podrán ser ratificados por un período igual, las veces que sean necesarias con los mismos requisitos y condiciones que los de primera instancia.
 
 ###### Artículo 7.
 
 Los Jueces de Comunidad serán designados por el Juez Municipal de su jurisdicción o por el Juez Menor, en su caso, oyendo a la comunidad y en donde existan etnias se nombrará a un integrante de ellas. Durarán en sus funciones dos años, al término del cual podrán ser nombrados por una sola vez para un período igual.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 8.
 
-Los integrantes de la Comisión Jurisdiccional de Menores Infractores serán nombrados por el Consejo de la Judicatura y durarán en su cargo cinco años, al término de los cuales podrán ser nombrados, por una sola vez, para un período igual.
+Los integrantes de la Comisión Jurisdiccional de Menores Infractores serán nombrados por el Consejo de la Judicatura y durarán en su cargo cinco años, al término de los cuales y en atención a su desempeño y correspondiente evaluación por parte del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial, podrán ser nombrados para un período igual, tantas veces como las necesidades del servicio lo requieran.
 
 ###### Artículo 9.
 
@@ -151,9 +159,11 @@ La retribución que corresponda a los servidores públicos del Poder Judicial se
 
 ### CAPÍTULO II. De los Precedentes Obligatorios del Poder Judicial
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 11.
 
-Los precedentes obligatorios que establezcan el Pleno del Tribunal Superior de Justicia y sus Salas, así como el Tribunal de lo Contencioso Administrativo y el Tribunal de Conciliación y Arbitraje, serán obligatorios para todas las autoridades y se sujetarán a las siguientes reglas:
+Los precedentes que establezcan el Pleno del Tribunal Superior de Justicia y sus Salas, así como el Tribunal de lo Contencioso Administrativo y el Tribunal de Conciliación y Arbitraje, serán obligatorios para todas las autoridades del Estado y se sujetarán a las siguientes reglas:
 
 I. Se integrarán con cinco resoluciones consecutivas en el mismo sentido en la materia, no interrumpidas por otra en contrario y aprobadas por unanimidad de votos de sus Magistrados;
 
@@ -161,7 +171,7 @@ II. Se interrumpirán, y dejarán de tener carácter obligatorio, con una resolu
 
 III. El Pleno del Tribunal Superior de Justicia resolverá las contradicciones entre los precedentes obligatorios que emitan sus Salas, las cuales podrán ser denunciadas por los Magistrados, Jueces, el Procurador General de Justicia o cualquiera de las partes que intervengan en el juicio;
 
-IV. El incumplimiento de los precedentes obligatorios será causa de responsabilidad y se sancionará en los términos que disponga la Ley.
+IV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2002)
 
 ###### Artículo 12.
 
@@ -231,13 +241,15 @@ IX. Las demás que expresamente establezcan la Constitución local, esta ley y l
 
 El Congreso del Estado o, en sus recesos, la Diputación Permanente, resolverán sobre las solicitudes de renuncia o licencia temporal para separarse del cargo que presenten los Magistrados.
 
-En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de sesenta días naturales durante el período de un año.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2001)</small>
+En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de noventa días naturales durante el período de un año; excepto cuando se trate de cursos de especialización en materia jurídica, cuya duración no exceda de seis meses.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 19.
 
-Los magistrados serán suplidos en sus ausencias o licencias temporales y para efectos de integrar sala por otro magistrado sin adscripción o por el secretario de Acuerdos de la sala correspondiente.
+En sus ausencias o licencias temporales y para efectos de integrar Sala, los magistrados serán suplidos por el Secretario de Acuerdos de la misma.
 
 ###### Artículo 20.
 
@@ -255,7 +267,9 @@ En todo caso, las faltas mayores a diez días consecutivos, sin que medie causa 
 
 Cuando la falta de un Magistrado, de temporal se convirtiere en definitiva, se procederá de la manera siguiente:
 
-I. El Tribunal al que pertenezca lo hará del conocimiento del Presidente del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+I. El Tribunal o la Sala a que pertenezca lo hará del conocimiento del Presidente del Tribunal Superior de Justicia;
 
 II. El Presidente del Tribunal Superior de Justicia lo comunicará al Gobernador del Estado;
 
@@ -265,9 +279,11 @@ IV. El Congreso del Estado con base en lo dispuesto en el artículo 33, fracció
 
 ### CAPÍTULO V. Del Personal de los Tribunales y Salas del Poder Judicial
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 23.
 
-Los Tribunales y Salas del Poder Judicial contarán en los términos que dispone este capítulo con un Secretario General de Acuerdos, Secretarios de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y el demás personal que requiera su funcionamiento, de conformidad con lo dispuesto por el Reglamento y el presupuesto.
+Los Tribunales y Salas del Poder Judicial contarán, en los términos que dispone este capítulo, con un Secretario General de Acuerdos, Secretarios de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y el demás personal que requiera su funcionamiento, de conformidad con lo dispuesto por el Reglamento y el presupuesto.
 
 #### SECCIÓN PRIMERA. Del Secretario General de Acuerdos y de los Secretarios de Acuerdos de las Salas
 
@@ -303,21 +319,27 @@ XI. Supervisar el correcto funcionamiento de la oficialía de partes; y
 
 XII. Las demás que expresamente establezcan esta ley y las leyes del Estado.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 26.
 
-Los Secretarios de Acuerdos de Sala serán sustituidos, en sus faltas temporales y en los casos de excusa o recusación, por el Servidor Público que designe el respectivo Presidente.
+El Secretario General y los Secretarios de Acuerdos de Sala serán sustituidos, en sus faltas temporales y en los casos de excusa o recusación, por el servidor público del Poder Judicial que designe el respectivo Presidente.
 
 #### SECCIÓN SEGUNDA. De los Secretarios de Estudio y Cuenta
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 27.
 
-Cada Magistrado contará con dos Secretarios de Estudio y Cuenta que serán nombrados en los términos que disponga esta ley, y deberán reunir los requisitos siguientes:
+Cada Magistrado contará con los Secretarios de Estudio y Cuenta necesarios para el buen desempeño de sus funciones, los cuales serán nombrados en los términos que disponga esta Ley y según lo permita la partida presupuestal respectiva, debiendo reunir los requisitos siguientes:
 
 I. Ser mexicano en pleno ejercicio de sus derechos;
 
 II. Poseer al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal; y
 
 > <small>(F. DE E., G.O. 17 DE AGOSTO DE 2000)</small>
 
@@ -341,9 +363,13 @@ Para ser Actuario Judicial se requiere:
 
 I. Ser mexicano en pleno ejercicio de sus derechos;
 
-II. Poseer al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; y
+II. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; y
 
 > <small>(F. DE E., G.O. 17 DE AGOSTO DE 2000)</small>
 
@@ -415,9 +441,11 @@ Las resoluciones del Pleno se tomarán por mayoría de votos de los presentes, q
 
 ### CAPÍTULO II. De la competencia del Pleno del Tribunal
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 38.
 
-El Pleno del Tribunal Superior de Justicia tendrá competencia para:
+El Pleno del Tribunal Superior de Justicia velará por la autonomía de los órganos del Poder Judicial del Estado, por la independencia de sus miembros y tendrá competencia para:
 
 I. Conocer y resolver las controversias constitucionales que surjan entre:
 
@@ -457,7 +485,9 @@ VIII. Hacer del conocimiento del Procurador General de Justicia, los hechos que 
 
 IX. Representar, por conducto de su Presidente, al Poder Judicial;
 
-X. Autorizar al Consejo de la Judicatura la celebración de contratos, en los términos que dispongan esta ley y las leyes de la materia;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+X. Autorizar al Consejo de la Judicatura la celebración de contratos, cuyo valor de operación exceda de veinticinco mil salarios mínimos vigentes en la capital del Estado, en los términos que dispongan esta ley y las leyes de la materia;
 
 XI. Aprobar el Proyecto de presupuesto del Poder Judicial, con base en los respectivos anteproyectos que le remitan el Consejo de la Judicatura, y los Tribunales y Salas que lo integran, el que se enviará al Ejecutivo a más tardar el día quince de noviembre de cada año, para su presentación y, en su caso, aprobación definitiva por el Congreso del Estado, en los términos que señalen esta ley y demás disposiciones legales en la materia;
 
@@ -473,11 +503,15 @@ XVI. Reglamentar el funcionamiento del órgano que realice la compilación y sis
 
 XVII. Presentar ante el Congreso las iniciativas de leyes o decretos, en todo lo relacionado con la organización y funcionamiento de la impartición y la administración de justicia;
 
-XVIII. Elegir a su Presidente en términos de esta ley, así como conocer y aceptar, en su caso, las licencias o renuncia a dicho cargo;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XVIII. Elegir a su Presidente en términos de esta ley, así como conocer y aceptar, en su caso, las licencias o renuncia a dicho cargo; asimismo, conceder licencias que no excedan de diez días naturales a los Magistrados del Tribunal Superior de Justicia;
 
 XIX. Adscribir a los Magistrados a las Salas correspondientes;
 
-XX. Nombrar, mediante votación secreta, a tres magistrados para que formen parte del Consejo de la Judicatura; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XX. Nombrar, mediante votación secreta, a tres magistrados para que formen parte del Consejo de la Judicatura, en términos de lo dispuesto por el artículo 100 de la presente ley; y
 
 XXI. Conocer de los demás asuntos que expresamente establezcan la Constitución Política local, esta ley y demás leyes del Estado.
 
@@ -529,7 +563,9 @@ XVIII. Convocar a sesiones extraordinarias en los términos que disponga esta le
 
 XIX. Tramitar los asuntos de la competencia del Pleno hasta ponerlos en estado de resolución, con excepción de los previstos en las fracciones I, II y III del artículo 38 de esta ley;
 
-XX. Ordenar la publicación de los precedentes obligatorios que dicten las Salas y Tribunales del Poder Judicial, en los términos que señale el Reglamento;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XX. Ordenar la publicación de los precedentes obligatorios que dicten las Salas y Tribunales del Poder Judicial, en los términos que señale su Reglamento;
 
 XXI. Conceder audiencia pública;
 
@@ -537,7 +573,9 @@ XXII. Dictar los acuerdos que sean pertinentes en todos los ocursos que se le di
 
 XXIII. Vigilar el debido cumplimiento de los acuerdos del Pleno tanto del Tribunal Superior como del Consejo de la Judicatura y de los que el mismo dictare;
 
-XIV. Conocer de los avisos que los Magistrados del Tribunal Superior de Justicia le den de sus ausencias no mayores de cinco días;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXIV. Conocer de los avisos que los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje le den respecto a sus ausencias no mayores de cinco días;
 
 XXV. Informar a los integrantes del Tribunal Superior de Justicia, de los acuerdos tomados por el Consejo de la Judicatura;
 
@@ -545,7 +583,13 @@ XXVI. Proponer al Pleno del Tribunal y al Consejo de la Judicatura las medidas i
 
 XXVII. Tomar la protesta a los Secretarios de Acuerdos de Sala en los casos en que deban ejercer las funciones de Magistrado; y
 
-XXVIII. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXVIII. Aceptar donaciones puras y simples en beneficio del patrimonio del Poder Judicial del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXIX. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
 
 ###### Artículo 41.
 
@@ -553,9 +597,11 @@ El Pleno del Tribunal Superior de Justicia y sus Salas contarán, respectivament
 
 ### CAPÍTULO IV. De las Salas
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 42.
 
-El Tribunal Superior de Justicia contará con una Sala Constitucional, tres Salas Penales, tres Salas Civiles y una Sala Electoral. Cada Sala se integrará por tres Magistrados, quienes de manera rotativa y por el período de un año ejercerán la Presidencia de la Sala de que se trate.
+El Tribunal Superior de Justicia se integrará con una Sala Constitucional, cuatro Salas Penales, tres Salas Civiles y una Sala Electoral. Cada una de ellas se compondrá por tres Magistrados, de entre los que se elegirá a su presidente, el cual fungirá por un año, con la posibilidad de ser reelegido.
 
 ###### Artículo 43.
 
@@ -591,7 +637,9 @@ II. Conducir las sesiones de la Sala y vigilar que se cumplan sus resoluciones;
 
 III. Mantener el orden en las sesiones; al efecto, cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y continuar la sesión en privado;
 
-IV. Proponer al Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior de Justicia, el nombramiento y, en su caso, remoción del Secretario de Acuerdos, Secretario de Estudio y Cuenta, Actuarios y demás personal;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IV. Proponer al Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior de Justicia, el nombramiento y, en su caso, remoción del Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal;
 
 V. Vigilar que se cumplan las disposiciones legales y reglamentarias para el adecuado funcionamiento de la Sala; y las medidas disciplinarias que dicte el Pleno del Tribunal;
 
@@ -829,7 +877,11 @@ También conocerán de los asuntos planteados por quienes tengan su domicilio de
 
 ###### Artículo 57.
 
-El Tribunal de Conciliación y Arbitraje se compondrá por tres Magistrados. El Tribunal contará con un Secretario de Acuerdos, nombrado conforme a lo dispuesto por esta ley.
+El Tribunal de Conciliación y Arbitraje se compondrá por tres Magistrados.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+El Tribunal contará con un Secretario de Acuerdos y los de Estudio y Cuenta que permita el presupuesto, mismos que serán nombrados conforme a lo dispuesto por esta ley.
 
 ###### Artículo 58.
 
@@ -931,9 +983,9 @@ II. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido 
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-> <small>(F. DE E., G.O. 17 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-IV. Participar en el curso de oposición, que se convoque al efecto, acreditar las materias del Plan de Estudios del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado y satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y, en su caso, buenos antecedentes dentro del Poder Judicial.
+IV. Acreditar las materias del Plan de Estudios del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado, participar en el examen de oposición que se convoque al efecto, satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y, en su caso, tener buenos antecedentes dentro del Poder Judicial.
 
 ###### Artículo 67.
 
@@ -949,7 +1001,9 @@ I. Conocer los asuntos civiles, familiares; mercantiles en jurisdicción concurr
 
 II. Conocer, en sus respectivos Distritos Judiciales, de los conflictos de competencia de los Jueces Menores entre sí; los de éstos con los municipales, y de los Jueces Municipales entre sí; así como de los recursos que se interpongan respecto a las resoluciones dictadas por los primeros y, en su caso, de los segundos, conociendo por materia, orden y en forma rotativa;
 
-III. Vigilar el trámite de los negocios judiciales, a efecto de que las sentencias se funden en la verdad de los hechos;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+III. Vigilar el trámite de los negocios judiciales, a efecto de que las resoluciones sean debidamente fundadas y motivadas;
 
 IV. Cuidar de que se reciban en autos, con toda fidelidad y de acuerdo con el procedimiento respectivo, las pruebas que deban rendirse;
 
@@ -957,7 +1011,9 @@ V. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga co
 
 VI. Rendir con toda exactitud los informes que el Consejo de la Judicatura le solicite;
 
-VII. Remitir al Consejo de la Judicatura la noticia mensual de las labores judiciales, y enviarle copia de las resoluciones que pongan fin a los procesos penales y civiles, así como informar de los asuntos que se radiquen y de los que se encuentren pendientes de resolver;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VII. Remitir al Consejo de la Judicatura la noticia mensual de las labores judiciales y enviarle copia de las resoluciones que pongan fin a los procesos penales, civiles y mercantiles en jurisdicción concurrente, así como informar de los asuntos que se radiquen y de los que se encuentren pendientes de resolver;
 
 VIll. Dar cuenta al Consejo de la Judicatura de las deficiencias o irregularidades que observen en la actuación de los Agentes del Ministerio Público, Defensores de Oficio y demás auxiliares de la Administración de Justicia;
 
@@ -971,7 +1027,7 @@ XII. Ordenar la ejecución de las sentencias y demás resoluciones que pronuncie
 
 XIII. Hacer del conocimiento del Consejo de la Judicatura, las ausencias temporales o definitivas de los Jueces Menores, Municipales y de Comunidad para que ese Órgano determine lo conducente;
 
-XIV. Proponer al Consejo de la Judicatura el nombramiento de los servidores públicos del juzgado de que se trate; y
+XIV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2002)
 
 XV. Las demás que expresamente establezcan la Constitución local, esta ley y las leyes del Estado.
 
@@ -1041,17 +1097,25 @@ II. Cumplir, tramitar y practicar todas las diligencias que les encomiende el Ju
 
 III. Las demás que expresamente establezcan esta ley y las leyes del Estado.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 73.
 
-Los Secretarios de los Juzgados de Primera Instancia, tendrán bajo su cuidado y estricta responsabilidad el archivo, mobiliario y equipo de la oficina a su cargo; y, en su caso, el control de los instrumentos o cosas objeto o efecto del delito.
+Los Secretarios de Acuerdos de los Juzgados de Primera Instancia, tendrán bajo su cuidado y estricta responsabilidad el archivo, mobiliario y equipo de la oficina a su cargo y, en su caso, el control de los instrumentos o cosas objeto o efecto del delito.
 
 ### CAPÍTULO II. De los Juzgados Menores
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 74.
 
-Los Juzgados Menores residirán en los lugares que acuerde el Consejo de la Judicatura y se integrarán por los Jueces, Secretarios, Actuarios y el personal necesarios para su funcionamiento, en los términos que disponga el reglamento y que fije el presupuesto.
+Los Juzgados Menores residirán en los lugares que acuerde el Consejo de la Judicatura y se integrarán por los Jueces, Secretarios, Actuarios y el personal necesario para su funcionamiento, en los términos que disponga su reglamento y que fije el presupuesto.
 
 Los juzgados Menores, en su organización y funcionamiento, se ajustarán a lo dispuesto por la presente ley para los de Primera Instancia y tendrán la misma jurisdicción territorial que éstos.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Los Secretarios de Acuerdos, así como los de Estudio y Cuenta de los Juzgados Menores, reunirán los mismos requisitos y tendrán idénticas atribuciones que los de Primera Instancia.
 
 ###### Artículo 75.
 
@@ -1063,7 +1127,7 @@ Los Jueces Menores tendrán las atribuciones siguientes:
 
 I. Conocer de los juicios civiles, mercantiles en jurisdicción concurrente y penales en la forma y términos fijados por las leyes;
 
-II. Proponer al Consejo de la Judicatura el nombramiento de los servidores públicos del juzgado de que se trate;
+II. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2002)
 
 III. Conocer de los conflictos de competencia que se susciten entre los Jueces Municipales, de sus respectivos Distritos Judiciales;
 
@@ -1071,7 +1135,9 @@ IV. Desempeñar las funciones que corresponderían al Juez Municipal en el lugar
 
 V. Conocer de los recursos que se interpongan respecto de las resoluciones de los Jueces Municipales de su Distrito;
 
-VI. Sustituir a los titulares de los Juzgados de Primera Instancia de su Distrito por motivo de recusación o excusa, en los casos previstos por esta Ley;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VI. Sustituir a los titulares de los Juzgados de Primera Instancia de su Distrito por motivo de recusación o excusa, en los casos previstos por esta ley, siempre que no haya otro Juez de Primera Instancia en ese Distrito Judicial;
 
 VII. Remitir dentro de los tres primeros días de cada mes, al Consejo de la Judicatura, la noticia del movimiento de los negocios civiles y penales; y
 
@@ -1090,6 +1156,10 @@ Los Juzgados Municipales residirán en las cabeceras de los municipios; o en el 
 ###### Artículo 79.
 
 Los Jueces Municipales actuarán con un Secretario y, en su caso, podrán habilitar con ese carácter a alguno de los empleados; a falta de éstos, en los asuntos urgentes actuarán con dos testigos de asistencia.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Los Secretarios de Juzgados Municipales deberán ser mexicanos y preferentemente licenciados o pasantes en Derecho. Tendrán las mismas atribuciones que los Secretarios de Acuerdos de Juzgados de Primera Instancia, con excepción de lo previsto en el artículo 72, fracción XII de la presente Ley.
 
 ###### Artículo 80.
 
@@ -1113,15 +1183,19 @@ III. Procurar el avenimiento de las partes en los asuntos civiles, absteniéndos
 
 IV. Conocer de los conflictos de violencia familiar en los términos de la ley de la materia;
 
-V. Practicar las diligencias que por medio de despacho o exhorto les encomienden, respectivamente, los Tribunales, Juzgados de Primera Instancia, Juzgados Menores, Juzgados de (sic) Municipales del Estado; y los Tribunales Federales;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-VI. Certificar la autenticidad de las firmas de los contratos privados, cerciorándose por sí mismo o por medio de testigos de conocimiento, de que son los interesados los que intervienen. Al efecto, los Jueces Municipales llevarán un libro en el que asentarán constancia de las certificaciones en que intervengan, una a continuación de la otra, el número progresivo que le corresponda y por orden de fechas, constancia que los interesados también firmarán o imprimirán sus huellas, en su caso, en presencia del Juez y en los documentos originales, deberán imprimir el sello en todas las fojas, rubricarlas, firmarlas y asentar el número progresivo haciendo constar el número de fojas, al igual que en las copias que cotejen con sus originales;
+V. Practicar las diligencias que por medio de despacho o exhorto les encomienden, respectivamente, los Tribunales, Juzgados de Primera Instancia, Juzgados Menores, Juzgados Municipales del Estado, los Tribunales Federales y los de otras Entidades Federativas;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VI. Certificar la autenticidad de las firmas de los convenios, contratos privados y documentos que contengan designación de beneficiarios, otorgados por trabajadores sindicalizados de instituciones oficiales, cerciorándose por sí mismo o por medio de testigos de conocimiento, de que son los interesados los que intervienen. Al efecto, los Jueces Municipales llevarán un libro en el que asentarán constancia de las certificaciones en que intervengan, una a continuación de la otra, el número progresivo que le corresponda y por orden de fechas, constancia que los interesados también firmarán o imprimirán sus huellas, en su caso, en presencia del Juez, asistido del Secretario y en los documentos originales, deberán imprimir el sello en todas las fojas, rubricarlas, firmarlas y asentar el número progresivo, haciendo constar el número de fojas, al igual que en las copias que cotejen con sus originales. Cuando los otorgantes no sepan firmar, deberán imprimir su huella y firma otra persona debidamente identificada, a su ruego o encargo;
 
 VII. Remitir dentro de los tres primeros días de cada mes al Consejo de la Judicatura, noticia del movimiento de negocios civiles, mercantiles y penales, con copia al Juzgado de Primera Instancia del distrito judicial al que corresponda;
 
 VIII. Sustituir en el trámite de los asuntos, en su Distrito Judicial, a los Jueces Municipales, Menores y de Primera Instancia, cuando éstos se excusen, asesorados en el último caso por el Juez de Primera Instancia del Distrito Judicial más próximo;
 
-IX. Proponer al Consejo de la Judicatura el nombramiento de los servidores públicos del juzgado de que se trate; y
+IX. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2002)
 
 X. Las demás que expresamente establezcan esta ley y las leyes del Estado.
 
@@ -1189,7 +1263,9 @@ Los integrantes de la Comisión Jurisdiccional de Menores Infractores, deberán 
 
 I. Ser veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano, en pleno ejercicio de sus derechos;
 
-II. Poseer, al día del nombramiento, título de Licenciatura expedido por autoridad o institución legalmente facultada, y contar al menos con cinco años de experiencia en el ejercicio de su profesión; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+II. Poseer, al día del nombramiento, título de Licenciatura expedido por autoridad o institución legalmente facultada, contar al menos con cinco años de experiencia en el ejercicio de su profesión y vinculación con el área, ya sea en ejercicio profesional, académico o científico; y
 
 III. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
@@ -1239,7 +1315,9 @@ Los Secretarios encargados del despacho, habilitarán con carácter de Secretari
 
 En todo caso, las faltas mayores a diez días consecutivos, sin que medie causa justificada que califique el Consejo de la Judicatura, se considerarán definitivas y, en consecuencia, el propio Consejo hará el nuevo nombramiento.
 
-En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de sesenta días naturales durante el período de un año.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+En ningún caso se podrán conceder licencias con el carácter de indefinidas, ni tampoco por un tiempo mayor de noventa días naturales durante el período de un año, excepto cuando se trate de cursos de especialización en materia jurídica, cuya duración no exceda de seis meses.
 
 ###### Artículo 99.
 
@@ -1293,29 +1371,41 @@ IV. Celebrar sesiones ordinarias una vez por semana; y extraordinarias, cada vez
 
 V. Erigir, de conformidad con el reglamento y el presupuesto, el número de Juzgados en las materias que se requieran, determinando la cabecera del distrito o ciudad donde deban residir, y adscribir a los jueces que deben integrar cada uno de ellos;
 
-VI. Nombrar y remover, con excepción de los Magistrados de los Tribunales, a todos los servidores públicos del Poder Judicial; así como resolver sobre la adscripción, remoción y renuncia de dichos servidores;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VI. Con excepción de los Magistrados nombrar, remover y resolver sobre la adscripción y renuncia de los servidores públicos del Poder Judicial; así como cambiar de adscripción, según las necesidades del servicio, a Jueces y Secretarios de Primera Instancia a Menores, o viceversa;
 
 VII. Administrar el Fondo Auxiliar para la Impartición de Justicia;
 
 VIII. Atender las solicitudes del Órgano de Fiscalización Superior respecto del ejercicio del presupuesto del Poder Judicial y de la Administración del Fondo Auxiliar para la Impartición de Justicia, en los términos que establezca la Ley;
 
-IX. Resolver sobre los instructivos de responsabilidad por quejas o denuncias presentadas en contra de los servidores públicos del Poder Judicial, con excepción de los Magistrados de los Tribunales y del personal del Tribunal Superior de Justicia, cuando incurran en faltas administrativas, previa garantía de audiencia, fundando y motivando su resolución;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+IX. Resolver, previa garantía de audiencia, fundando y motivando su resolución, sobre las quejas administrativas y sobre los instructivos de responsabilidad de los servidores públicos del Poder Judicial, mediante los procedimientos establecidos en esta Ley, así como por los reglamentos y acuerdos que el propio Consejo dicte en materia disciplinaria, con excepción de los Magistrados de los Tribunales y del personal del Tribunal Superior de Justicia;
 
 X. Convenir con instituciones de educación superior, a efecto de que la carrera judicial se desarrolle a nivel de excelencia, y aplicar los exámenes de oposición para ocupar los cargos de Jueces y Secretarios en los Juzgados de Primera Instancia y Menores;
 
-XI. Notificar a los Magistrados del Poder Judicial los acuerdos que tome en Pleno;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XI. Investigar y determinar la responsabilidad y sanciones de los servidores públicos del Poder Judicial que, con motivo de las irregularidades que se detecten, hagan de su conocimiento los Magistrados y Jueces, así como notificar a los Magistrados los acuerdos que tome el Pleno;
 
 XII. Controlar, evaluar, inspeccionar y vigilar los ingresos, gastos, recursos y obligaciones de los órganos y servidores públicos del Poder Judicial, con excepción del Tribunal Superior de Justicia, durante el ejercicio presupuestal correspondiente;
 
 XIII. Expedir los reglamentos interiores en materia administrativa, de Contraloría Interna, defensoría de oficio, carrera judicial, escalafón, visitaduría judicial y régimen disciplinario del Poder Judicial del Estado;
 
-XIV. Celebrar, previa autorización del Pleno del Tribunal Superior de Justicia, contratos para atender las necesidades administrativas del Poder Judicial, en los términos señalados por esta ley y las leyes del Estado;
+> <small>(REFORMADA, G.O.30 DE DICIEMBRE DE 2002)</small>
+
+XIV. Celebrar contratos para atender las necesidades administrativas del Poder Judicial del Estado, en los términos señalados por esta ley y las leyes del Estado;
 
 XV. Organizar simposiums, conferencias y demás eventos que resulten de interés para el Poder Judicial del Estado;
 
 XVI. Practicar visitas a los juzgados y a la Comisión Jurisdiccional de Menores Infractores, así como realizar investigaciones sobre casos concretos;
 
-XVII. Conocer y resolver, con excepción de los Magistrados, sobre los casos de renuncia, licencia, ausencia temporal, suplencia y faltas definitivas de los servidores públicos del Poder Judicial, en los términos que señale esta ley. El Consejo de la Judicatura podrá delegar esta facultad a los titulares de los órganos jurisdiccionales;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XVII. Conocer y resolver, con excepción de los Magistrados, sobre los casos de renuncia, licencia no mayor a diez días naturales, ausencia temporal, suplencia y faltas definitivas de los servidores públicos del Poder Judicial, en los términos que señale esta ley. El Consejo de la Judicatura podrá delegar esta facultad a los titulares de los órganos jurisdiccionales.
+
+También resolverá respecto de licencias solicitadas por los Magistrados de los Tribunales de lo Contencioso Administrativo y de Conciliación y Arbitraje, no mayores a diez días naturales;
 
 XVIII. Calificar los impedimentos de los Consejeros;
 
@@ -1323,7 +1413,9 @@ XIX. Desarrollar por conducto del Instituto de Formación, Capacitación, Especi
 
 XX. Administrar el sistema aleatorio para la distribución de los asuntos que se radiquen en los Tribunales del Poder Judicial, en los términos previstos por esta ley;
 
-XXI. Nombrar y remover a los defensores de oficio, a propuesta del Pleno del Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXI. Nombrar y remover libremente a los defensores de oficio; en relación con los adscritos a las Salas del Tribunal Superior de Justicia, se hará a propuesta del Pleno del propio Tribunal;
 
 XXII. Llevar el registro de los profesionales que, en calidad de peritos y de conformidad con lo dispuesto en la Ley, puedan fungir como auxiliares de la administración de justicia, la que deberá publicarse en la Gaceta Oficial del Estado, dentro de los primeros diez días de cada año;
 
@@ -1331,7 +1423,13 @@ XXIII. Proporcionar de manera eficiente a los litigantes y público en general, 
 
 XXIV. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial; y
 
-XXV. Las demás que expresamente establezcan esta ley y las leyes del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXV. Previa garantía de audiencia, imponer multa de diez a treinta días de salario mínimo general vigente en la capital del Estado, a quien denoste a un servidor público del Poder Judicial, en cualquier promoción que presente ante el Consejo de la Judicatura.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XXVI. Las demás que expresamente establezcan esta ley y las leyes del Estado.
 
 ###### Artículo 105.
 
@@ -1499,6 +1597,10 @@ l) Las demás que señalen las leyes y reglamentos.
 
 II. Recursos ajenos, constituidos por los depósitos en efectivo, que por cualquier causa y mediante la exhibición del certificado de depósito correspondiente, se realicen o se hayan realizado ante los Tribunales Judiciales.
 
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Estos depósitos no causarán intereses a favor de los depositantes.
+
 ###### Artículo 119.
 
 Los recursos con los que se integre y opere el fondo, serán diferentes de aquellos que comprenda el presupuesto que el Congreso del Estado apruebe anualmente a favor de Poder Judicial, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
@@ -1545,7 +1647,9 @@ El Comité Técnico y de Administración del Fondo, tendrá las siguientes carac
 
 I. Integración:
 
-a) Cuatro miembros que serán, Presidente, Vicepresidente y dos Vocales; y para cumplir con esos cargos se designarán mediante votación secreta a dos Consejeros quienes durarán en el cargo cinco años; y
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+a) Dos miembros, que serán Presidente y Vicepresidente. Para cumplir con esos cargos se designará mediante votación secreta, a dos Consejeros, quienes durarán en el cargo cinco años; y
 
 b) Un Secretario, que deberá ser Contador Público, con titulo legalmente expedido y registrado; con un mínimo de dos años de experiencia profesional y de reconocida solvencia moral;
 
@@ -1605,7 +1709,9 @@ El Comité técnico fijará las bases conforme a las que se constituirán y oper
 
 I. El servidor público jubilado y el incapacitado total en forma permanente, con más de quince años de servicio en el Poder Judicial recibirá el correspondiente beneficio por el término de diez años, contado a partir de la fecha en que surta efectos su jubilación o aparezca la incapacidad. El fallecimiento del jubilado y del incapacitado extinguirá tal beneficio;
 
-II. El beneficio de que se trata se ajustará en forma trimestral, conforme a los recursos existentes en el fondo de retiro, pero en ningún caso podrá ser menor de diez ni superior al veinticinco por ciento mensual del importe de la pensión de cada Jubilado o incapacitado; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+II. El beneficio de que se trata se ajustará en forma trimestral, conforme a los recursos existentes en el fondo de retiro, pero en ningún caso podrá ser menor de diez por ciento ni superior al cincuenta por ciento mensual del importe de la pensión que, como ex trabajador del Poder Judicial, perciba cada jubilado o incapacitado; y
 
 III. El Comité Técnico reconstituirá o incrementará los fondos de retiro con las aportaciones anuales que al efecto autorice, tomando en consideración los recursos existentes.
 
@@ -1647,7 +1753,9 @@ IV. No concurran, sin causa justificada, al desempeño de sus labores oficiales 
 
 V. No muestren a las partes, sin causa justificada, cuando lo soliciten, los expedientes;
 
-VI. No dicten sentencia sin causa justificada dentro de los términos de la Ley;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VI. Sin causa justificada, no dicten resolución dentro de los términos de ley;
 
 VII. No expresen el concepto y el fundamento legal de las excusas;
 
@@ -1657,9 +1765,11 @@ IX. No concurran los Magistrados a sus sesiones o lo desintegren, en ambos casos
 
 X. Las demás que señale el Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 137.
 
-Los Secretarios y empleados del Poder Judicial, además de lo establecido en la Ley de Responsabilidades de los Servidores Públicos, incurrirán en responsabilidad administrativa cuando:
+Los Secretarios y empleados del Poder Judicial, además de lo establecido en la Ley de Responsabilidades de los Servidores Públicos y el reglamento interior del Consejo de la Judicatura, incurrirán en responsabilidad administrativa cuando:
 
 I. No envíen sin causa justificada oportunamente las ejecutorias a los juzgados correspondientes;
 
@@ -1683,27 +1793,45 @@ X. Practiquen embargos, aseguramientos y retención de bienes o lanzamientos de 
 
 XI. No rindan los informes que les sean requeridos por sus superiores jerárquicos.
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XII. Las demás que señalen las disposiciones aplicables en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 138.
 
-Podrán denunciar la comisión de faltas o delitos imputables a los servidores públicos del Poder Judicial:
+Podrán denunciar la comisión de faltas imputables a los servidores públicos del Poder Judicial:
 
-I. Las partes en el juicio en que se cometieron;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-II. Los abogados patronos y los defensores, en los casos de responsabilidades provenientes de hechos u omisiones cometidas en el juicio en que intervengan, siempre que tengan título profesional expedido y registrado ante autoridad legalmente facultada para ello; y
+I. Los Magistrados, Jueces de Primera Instancia, Menores y Municipales, así como las partes en el juicio en que se cometieren;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+II. Los abogados patronos y los defensores, en los casos de responsabilidades provenientes de hechos u omisiones cometidas en el juicio en que intervengan. En materia civil, siempre que tengan título profesional expedido y registrado ante autoridad legalmente facultada para ello; y
 
 III. El Ministerio Público en los negocios en que intervenga.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 139.
 
-La queja por la que se denuncie la comisión de alguna falta o delito imputable a los servidores públicos del Poder Judicial, se sujetará a las siguientes formalidades:
+La queja por la que se denuncie la comisión de alguna falta imputable a los servidores públicos del Poder Judicial, se sujetará a las siguientes formalidades:
 
-I. Presentar ante el Presidente del Tribunal Superior de Justicia o el Consejo del Judicatura, según corresponda, el escrito de denuncia, narrando los hechos que se consideren constitutivos de la falta o delito;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+I. Presentar el escrito de denuncia ante el Presidente del Tribunal Superior de Justicia o el Consejo del Judicatura, según corresponda, dentro de los treinta días naturales siguientes al que tengan conocimiento de la falta;
 
 II. Ofrecer, en su escrito de denuncia, los medios de prueba con los que se trate de demostrar la existencia de la conducta denunciada; y
 
-III. Ratificar en comparecencia y dentro de los tres días hábiles siguientes el contenido del escrito de denuncia.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-Si la denuncia no cumple con alguna de las formalidades a que se refieren las fracciones I a III de este artículo, se desechará de plano y se notificará personalmente al denunciante.
+III. Ratificar el escrito de denuncia ante la Secretaría de Acuerdos del Consejo de la Judicatura o el órgano que éste designe, dentro de los diez días hábiles siguientes a su presentación.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Si la denuncia no cumple con alguna de las formalidades a que se refieren las fracciones I a III de este artículo o trate cuestiones de naturaleza jurisdiccional, se desechará de plano y se notificará personalmente al denunciante.
 
 ###### Artículo 140.
 
@@ -1711,17 +1839,31 @@ Si la denuncia cumple con lo señalado en el artículo anterior, el Presidente d
 
 I. Formará el instructivo de responsabilidad correspondiente,
 
-II. Notificará al denunciado, dentro de los tres días hábiles siguientes a la admisión de la denuncia, sobre la materia de ésta, haciéndole saber su derecho de defensa y que deberá, a su elección, comparecer o informar por escrito dentro de los siete días hábiles siguientes a la notificación y, de no hacerlo, impondrá al servidor público la corrección disciplinaria que corresponda; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+II. Notificará al denunciado, dentro de los tres días hábiles siguientes a la admisión de la denuncia, sobre la materia de ésta, haciéndole saber su derecho de defensa y que deberá, a su elección, comparecer o informar por escrito dentro de los siete días hábiles siguientes a la notificación y, de no hacerlo, se tendrá por presuntivamente confeso de los hechos contenidos en la queja; y
 
 III. Efectuará la investigación de los hechos denunciados.
 
-Serán admisibles todas las pruebas, excepto las que sean contrarias a la moral y al derecho. Las pruebas que se ofrezcan en el escrito de queja o informe del denunciado, deberán desahogarse dentro del plazo de quince días hábiles, contados a partir de la fecha de admisión.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Serán admisibles todas las pruebas, excepto la de posiciones y las que sean contrarias a la moral y al derecho. Las pruebas que se ofrezcan en el escrito de queja o informe del denunciado, deberán desahogarse dentro del plazo de quince días hábiles, contados a partir de la fecha de admisión.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Las pruebas deberán ofrecerse y acompañarse, en su caso, con el escrito de queja o informe del denunciado; en relación a la prueba testimonial, deberá exhibirse el interrogatorio respectivo y copias necesarias para correr traslado a la contraparte, a fin de que formule repreguntas dentro del término de tres días; si se tratare de la prueba pericial, propondrá su perito precisando los puntos sobre los que versará la misma. Si no reúnen los requisitos anteriores serán desechadas.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+La admisión, desahogo, recepción y valoración de las pruebas, se sujetarán a las reglas establecidas en el Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 141.
 
 De ser fundada la queja, se procederá a imponer las sanciones correspondientes.
 
-Cuando la queja resulte infundada, por haberse conducido con temeridad, mala fe, sin causa justificada, o sin prueba, se impondrá a los promoventes una multa hasta por el equivalente a noventa días del salario mínimo general vigente en la Capital del Estado, sin perjuicio de que, de estimarse pertinente, se dé vista con lo actuado al Ministerio Público, para el ejercicio de sus funciones.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+Cuando la queja resulte infundada, por haberse conducido con temeridad, mala fe, sin causa justificada, o sin prueba, se impondrá a los promoventes una multa hasta por el equivalente a noventa días del salario mínimo general vigente en la capital del Estado, que se hará efectiva a través de la oficina de Hacienda del Estado, sin perjuicio de que, de estimarse pertinente, se dé vista con lo actuado al ministerio público, para el ejercicio de sus funciones. El importe de la multa ingresará al Fondo Auxiliar para la Administración de Justicia.
 
 ###### Artículo 142.
 
@@ -1733,9 +1875,9 @@ I. Cuando se trate del personal del Tribunal Superior, el Presidente, previa aud
 
 II. Cuando se trate del personal de los Tribunales Contencioso Administrativo y de Conciliación y Arbitraje, de los Jueces y del personal de los juzgados, el Consejo de la Judicatura, en términos de la fracción anterior, impondrá la sanción correspondiente; y
 
-> <small>(F. DE E., G.O. 17 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
 
-III. Cuando se trate de los Magistrados, el Presidente del Tribunal sustanciará el procedimiento señalado en el artículo 140, y turnará el instructivo al Pleno para que éste, en la sesión siguiente a la fecha en que venza el plazo a que se refiere el último párrafo del artículo 140, previa audiencia del acusado, mediante discusión y votación secreta, haga la declaración y, en su caso, imponga la sanción respectiva. En caso de empate, el Presidente tendrá voto de calidad.
+III. Cuando se trate de los Magistrados, el Presidente del Tribunal Superior de Justicia sustanciará el procedimiento señalado en el artículo 140, y turnará el instructivo al Pleno para que éste, en la sesión siguiente a la fecha en que venza el plazo a que se refiere el último párrafo del artículo 140, previa audiencia del acusado, mediante discusión y votación secreta, haga la declaración y, en su caso, imponga la sanción respectiva. En caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 143.
 
@@ -1753,9 +1895,11 @@ Los tribunales de lo Contencioso Administrativo y de Conciliación y Arbitraje, 
 
 Se consideran asuntos urgentes los casos de desistimiento de la acción penal por parte del Ministerio Público, cuando haya detenido; los referidos a demandas de Amparo y los que entrañen cumplimiento de ejecutorias en la misma materia que ordenen la libertad de alguna persona y los casos de alimentos, providencias precautorias, depósito de personas y libertad caucional. La Sala de Guardia tendrá facultades para interponer los recursos que sean procedentes conforme a la Ley de Amparo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 146.
 
-En los Juzgados de Primera Instancia y Menores, Penales y Mixtos, las vacaciones serán disfrutadas por turno, quedando al frente del Juzgado en el primer turno el Secretario con el personal indispensable que designe el titular, para que no se interrumpa la normal tramitación de los asuntos penales y familiares, debiendo conocer el Secretario en funciones de Juez, de los asuntos urgentes de carácter civil. El personal de guardia disfrutará de sus vacaciones en las fechas en que fije el Consejo de la Judicatura.
+En los Juzgados de Primera Instancia y Menores, Penales y Mixtos, las vacaciones serán disfrutadas por turno, quedando al frente del Juzgado en el primer turno el Secretario con el personal indispensable que designe el titular, para que no se interrumpa la normal tramitación de los asuntos penales y familiares, debiendo conocer el Secretario en funciones de Juez, de los asuntos urgentes de carácter civil a que se refiere el artículo anterior en su último párrafo. El personal de guardia disfrutará de sus vacaciones en las fechas en que fije el Consejo de la Judicatura.
 
 Cuando se trate de Juzgados Mixtos, al reanudarse las labores, el Secretario dará inmediata cuenta al Juez de los asuntos civiles urgentes que haya conocido para el efecto de su continuación procesal.
 
@@ -1799,7 +1943,9 @@ Las copias o fotocopias certificadas que se pidieren por los interesados en los 
 
 Son hábiles todos los días del año, excepto:
 
-I. Los sábados y domingos; además, el uno de enero; cinco de febrero; veintiuno de marzo; primero y cinco de mayo; quince y dieciséis de septiembre; veintiuno de octubre; primero, dos y veinte de noviembre y veinticinco de diciembre; sin embargo, tratándose de asuntos urgentes en materia penal conforme a esta Ley, serán hábiles los sábados para las Salas del Tribunal, y los sábados y domingos para los juzgados en los términos de lo dispuesto por el Código de Procedimientos Penales;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+I. Los sábados y domingos; además, el uno de enero; cinco de febrero; veintiuno de marzo; primero y cinco de mayo; quince y dieciséis de septiembre; doce y veintiuno de octubre; primero, dos y veinte de noviembre y veinticinco de diciembre; sin embargo, tratándose de asuntos urgentes en materia penal conforme a esta Ley, serán hábiles los sábados para las Salas del Tribunal, y los sábados y domingos para los juzgados y la Comisión Jurisdiccional de Menores Infractores, en términos de lo dispuesto por las leyes aplicables;
 
 II. Cada seis años en la fecha en que el titular del Poder Ejecutivo Estatal, rinda la protesta de Ley ante el Congreso del Estado;
 
@@ -1867,7 +2013,9 @@ XIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, 
 
 XIV. Ser el cónyuge o alguno de los hijos del funcionario, acreedor, deudor o fiador de alguno de los interesados;
 
-XV. Haber sido Magistrado o juez en el mismo asunto en otra instancia;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XV. Haber sido Magistrado, Juez o Secretario en el mismo asunto en otra instancia;
 
 > <small>(F. DE E., G.O. 17 DE AGOSTO DE 2000)</small>
 
@@ -1912,3 +2060,21 @@ Gobernador del Estado
 G.O. 19 DE ENERO DE 2001.
 
 Único. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del estado.
+
+G.O. 30 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor el día 1° de enero del año 2003.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Todos los procedimientos que se encuentren en trámite al momento de entrar en vigor este Decreto se ajustarán, en lo conducente, a sus disposiciones.
