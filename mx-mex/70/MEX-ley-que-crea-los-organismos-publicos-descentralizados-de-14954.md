@@ -1,0 +1,242 @@
+---
+title: "LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS DE ASISTENCIA SOCIAL DE CARACTER MUNICIPAL DENOMINADO \"SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA\""
+identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
+country: "mx"
+rank: "ley"
+publication_date: "1985-07-16"
+last_updated: "1985-07-16"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mex"
+scjn_id: "14954"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "12 SECCION TERCERA"
+reform_count: "13"
+scjn_last_update: "2022-10-07"
+issue_date: "1985-07-15"
+state: "MEX"
+---
+# LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS DE ASISTENCIA SOCIAL DE CARACTER MUNICIPAL DENOMINADO "SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA"
+
+LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARACTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA»
+
+TEXTO ORIGINAL
+
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
+
+El Ciudadano LICENCIADO ALFREDO DEL MAZO G., Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NUMERO 10
+
+LA H. XLIX LEGISLATURA DEL ESTADO DE MEXICO, DECRETA :
+
+LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARACTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA»
+
+### CAPITULO PRIMERO. CONSTITUCION Y FINES
+
+###### ARTICULO PRIMERO.
+
+Se crean los Organismos Públicos Descentralizados de Asistencia Social, de carácter Municipal, denominados «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA» de los Municipios de: NAUCALPAN, TLALNEPANTLA DE BAZ, ECATEPEC, NEZAHUALCOYOTL, TOLUCA, CUAUTITLAN IZCALLI, ATIZAPAN DE ZARAGOZA, TULTITLAN, HUIXQUILUCAN, LERMA, COACALCO, LA PAZ, METEPEC, CUAUTITLAN, VALLE DE BRAVO, TEXCOCO, TECAMAC, NICOLAS ROMERO, IXTAPALUCA, ATLACOMULCO, TEPOTZOTLAN, ZUMPANGO, IXTLAHUACA, JILOTEPEC, TENANCINGO, TIANGUISTENCO, ZINACANTEPEC, TEJUPILCO, HUEHUETOCA Y CHALCO, MEX.
+
+###### ARTICULO SEGUNDO.
+
+Los Organismos para el Desarrollo Municipal de la Familia, que se constituyen para cada municipio, tendrán su domicilio social en la Cabecera Municipal correspondiente.
+
+###### ARTICULO TERCERO.
+
+Los organismos a que se refiere esta Ley, tendrán los siguientes objetivos de asistencia social y beneficio colectivo:
+
+I. Asegurar la atención permanente a la población marginada, brindando servicios integrales de asistencia social, enmarcados dentro de los Programas Básicos del Sistema para el Desarrollo Integral de la Familia del Estado de México, conforme a las normas establecidas a nivel Nacional y Estatal;
+
+II. Promover los mínimos de bienestar social y el desarrollo de la comunidad, para crear mejores condiciones de vida a los habitantes del Municipio;
+
+III. Fomentar la educación escolar y extra-escolar e impulsar el sano crecimiento físico y mental de la niñez;
+
+IV. Coordinar las tareas que en materia de asistencia social realicen otras Instituciones del Municipio;
+
+V. Proporcionar la creación de establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos y de los minusválidos sin recursos;
+
+VI.- Prestar servicios de asistencia jurídica y de orientación social a los menores, ancianos y minusválidos sin recursos, así como a la familia, en la búsqueda de su integración y bienestar;
+
+VII. Procurar permanentemente la adecuación de los objetivos y programas del Sistema Municipal y los que lleve a cabo el D.I.F. Estatal, a través de Acuerdos, Convenios o cualquier figura jurídica, encaminados a la obtención del bienestar social;
+
+VIII. Los demás que le encomienden las Leyes.
+
+### CAPITULO SEGUNDO. PATRIMONIO
+
+###### ARTICULO CUARTO.
+
+El Patrimonio de los Organismos Públicos Descentralizados Municipales, se integrará con los siguientes recursos:
+
+I. Los derechos y bienes muebles e inmuebles que actualmente poseen los Comités Municipales del D.I.F. y que sean propiedad de los Municipios;
+
+II. El presupuesto que le sea asignado por el Ayuntamiento y que se contendrá anualmente en su presupuesto de egresos, así como los bienes y demás ingresos que el Gobierno del Estado, la Federación o cualquier otra Entidad o Institución les otorguen o destinen;
+
+III. Las aportaciones, donaciones, legados y las liberalidades que reciba de personas físicas o morales;
+
+IV. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
+
+V. Las concesiones, permisos, licencias y autorizaciones que les otorguen conforme a las Leyes; y
+
+VI. En general los demás bienes, derechos e ingresos que obtengan por cualquier título legal.
+
+###### ARTICULO QUINTO.
+
+Los bienes que constituyan el patrimonio de los Organismos Públicos Descentralizados de carácter Municipal, sólo podrán gravarse con la anuencia expresa del Ayuntamiento respectivo, cuando a Juicio de éste así convenga al financiamiento de obras y servicios a su cargo, y previa autorización en su caso de la H. Legislatura Local.
+
+###### ARTICULO SEXTO.
+
+Para la enajenación de bienes inmuebles considerados como propios de los Organismos, así como la desincorporación de los bienes inmuebles afectos al servicio de asistencia social, sólo podrán enajenarse en subasta pública al mejor postor, debiendo entregar el producto de la venta a los Organismos. Y previa la autorización de la Legislatura Local.
+
+###### ARTICULO SEPTIMO.
+
+Los Organismos llevarán un Libro de Inventario debidamente autorizado y actualizado que contendrá:
+
+I. La descripción de los bienes muebles e inmuebles que forman su patrimonio, fecha y forma de su adquisición;
+
+II. Su destino y movimientos que llegasen a ocurrir.
+
+###### ARTICULO OCTAVO.
+
+Los Organismos Municipales, deberán elaborar sus presupuestos anuales de operación y de inversión, especificándose los ingresos que espera recibir y la forma en que ejercerá sus recursos disponibles. Estos presupuestos debidamente autorizados por la Junta de Gobierno, serán sometidos a la consideración del H. Ayuntamiento, quien en su caso podrá modificarlos o aprobarlos.
+
+###### ARTICULO NOVENO.
+
+Los Organismos a que se refiere la presente Ley, también anualmente deberán elaborar su programa de trabajo a realizar en su ejercicio inmediato para someterlo a la consideración del H. Ayuntamiento.
+
+###### ARTICULO DECIMO.
+
+El Inventario patrimonial, los presupuestos financieros y el programa de trabajo de los Organismos, a los que se refieren los Artículos precedentes, deberán ser presentados para su aprobación correspondiente, en un plazo de 60 días anteriores a su ejercicio inmediato.
+
+### CAPITULO TERCERO. ORGANIZACION
+
+###### ARTICULO DECIMO PRIMERO.
+
+Serán Organos Superiores de los Organismos:
+
+I. La Junta de Gobierno;
+
+II. La Presidencia; y
+
+III. La Dirección.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+El Organo Superior de los Organismos será la Junta de Gobierno, la cual se integrará con un Presidente, un Secretario, un Tesorero y dos Vocales. Recayendo la Presidencia en la persona que al efecto nombre el C. Presidente Municipal, lo mismo el Secretario, que en todo caso será el Director, el Tesorero será la persona que designe el Presidente de la Junta de Gobierno y los Vocales serán dos funcionarios Municipales, cuya actividad se encuentre más relacionada con los objetivos de los Organismos.
+
+###### ARTICULO DECIMO TERCERO.
+
+La Junta de Gobierno tendrá las siguientes facultades y obligaciones:
+
+I. Representar al Sistema Municipal, con el poder más amplio que en derecho proceda, lo cual hará a través del Presidente de la propia Junta.
+
+II. Conocer y en su caso aprobar, los Convenios que el Sistema Municipal celebre para el mejor cumplimiento de sus objetivos.
+
+III. Aprobar el Reglamento Interno y la Organización general del Sistema Municipal, así como los manuales de procedimientos y servicios al público.
+
+IV. Aprobar los planes y programas de trabajo del Sistema Municipal que en todo caso serán acordes con los planes y programas del DIFEM;
+
+V. Aprobar los presupuestos, informes de actividades y estados financieros anuales.
+
+VI. Otorgar a personas o Instituciones Poder General Especial para representar al Sistema Municipal.
+
+VII. Proponer convenios de coordinación con Dependencias o Instituciones que consideren necesarios para el cumplimiento de los objetivos del Sistema Municipal.
+
+VIII. Extender los nombramientos del personal del Sistema Municipal de acuerdo con las disposiciones jurídicas aplicables.
+
+IX. Proponer los planes y programas de trabajo del Sistema Municipal; y
+
+X. Todas las demás que sean necesarias para el cumplimiento de los objetivos del Sistema Municipal.
+
+###### ARTICULO DECIMO CUARTO.
+
+Corresponde a la Dirección:
+
+I. Dirigir los servicios que debe prestar el Sistema Municipal con la asesoría del D.I.F.E.M.;
+
+II. Dirigir el funcionamiento del Sistema en todos sus aspectos, ejecutando los planes y programas aprobados;
+
+III. Rendir los informes parciales que la Junta de Gobierno o la Presidencia les solicite;
+
+IV. En coordinación con el Tesorero ejecutar y controlar el presupuesto del Sistema Municipal, en los términos aprobados; y
+
+V. Las demás que sean necesarias para el ejercicio de los anteriores a juicio de la Junta de Gobierno y la Presidencia.
+
+###### ARTICULO DECIMO QUINTO.
+
+El Tesorero será responsable del manejo del presupuesto del Sistema Municipal, lo cual hará en coordinación con el Director, debiendo informar los estados financieros mensualmente a la Junta de Gobierno o cuando ésta y la Presidencia lo soliciten.
+
+###### ARTICULO DECIMO SEXTO.
+
+El Sistema Municipal se normará por las disposiciones generales técnicas, operativas y administrativas que de los convenios se desprendan a que dicte para el efecto el Sistema Estatal.
+
+###### ARTICULO DECIMO SEPTIMO.
+
+El Sistema Municipal establecerá Subsistemas Municipales en las Comunidades del Municipio a propuesta del C. Presidente Municipal.
+
+###### ARTICULO DECIMO OCTAVO.
+
+El Sistema Municipal se sujetará a la rectoría, normatividad y control de los programas y acciones del Sistema Estatal.
+
+###### ARTICULO DECIMO NOVENO.
+
+Podrá formarse dentro del seno del Sistema Municipal un Patronato con representaciones del Municipio y de los Sectores Sociales y Privado, determinando la Junta de Gobierno su organización, funcionamiento y objetivos que serán principalmente, los de allegarse recursos para el cumplimiento de los programas de organización y funcionamiento interno que se regularán conforme al Reglamento que se expida.
+
+###### ARTICULO VIGESIMO.
+
+Las relaciones laborales del Sistema Municipal y sus trabajadores, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes del Estado, de los Municipios y de los Organismos Coordinados y Descentralizados de Carácter Estatal.
+
+### CAPITULO CUARTO. CONTROL Y VIGILANCIA
+
+### CAPITULO QUINTO. PRERROGATIVAS Y FRANQUICIAS
+
+###### ARTICULO VIGESIMO PRIMERO.
+
+Los Sistemas Municipales para el Desarrollo Integral de la Familia de los Municipios, estarán sujetos al control y vigilancia de la Contaduría General de Glosa del Estado de México, quien la ejercerá a través de un representante.
+
+###### ARTICULO VIGESIMO SEGUNDO.
+
+La contabilidad de los Sistemas Municipales se llevará a cabo a través de un contador que al efecto designe la Junta de Gobierno respectiva con las obligaciones que ésta última le imponga.
+
+###### ARTICULO VIGESIMO TERCERO.
+
+Los Sistemas Municipales gozarán respecto a su patrimonio y a los actos y contratos que celebren, de las franquicias, prerrogativas y exenciones de carácter económico que dispongan las Leyes.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial "GACETA DEL GOBIERNO" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los H.H. Ayuntamientos proveerán en la esfera de su competencia a la instalación e integración de los Sistemas Municipales, proporcionándoles las facilidades administrativas necesarias.
+
+###### ARTICULO TERCERO.
+
+Se autoriza a los H.H. Ayuntamientos para transmitir a favor de los Sistemas Municipales bienes necesarios para constituir el inicio de su patrimonio.
+
+Lo tendrá entendido el Gobernador del Estado haciendo que se publique y cumpla.
+
+Dado en el Palacio del Poder Legislativo, en Toluca de Lerdo, Méx., a los quince días del mes de julio de Mil Novecientos Ochenta y Cinco.- Diputado Presidente, Lic. Xavier López García, Diputado Secretario, Profra. Irma Fernández Reus de F., Diputado Secretario, Ing. Guillermo Quintanilla L., Diputado Prosecretario, C. Alberto Pérez Fontecha, Diputado Prosecretario, Profr. Francisco García V.- Rúbricas.
+
+Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 15 de julio de 1985.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+Lic. Alfredo del Mazo G.
+
+(Rúbrica)
+
+EL SECRETARIO DE GOBIERNO
+
+Lic. Leopoldo Velasco Mercado
+
+(Rúbrica)
