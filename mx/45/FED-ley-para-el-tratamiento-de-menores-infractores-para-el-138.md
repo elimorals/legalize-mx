@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-tratamiento-de-menores-infractores-para-el-138"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-24"
-last_updated: "1998-01-23"
+last_updated: "2000-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-12-19"
 
 LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 24 de diciembre de 1991.
 
@@ -54,6 +54,8 @@ El menor a quien se atribuya la comisión de una infracción, recibirá un trato
 ## TITULO PRIMERO. DEL CONSEJO DE MENORES
 
 ### CAPITULO I. INTEGRACION, ORGANIZACION Y ATRIBUCIONES DEL CONSEJO DE MENORES
+
+> <small>N. DE E. EN RELACION CON EL PRESENTE ARTICULO, VEASE QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE MODIFICA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA, EN CORRELACION CON EL 30 BIS DE DICHO ORDENAMIENTO, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2000.</small>
 
 ###### ARTICULO 4o.
 
@@ -478,6 +480,8 @@ III.- La defensa de los derechos de los menores en las fases de tratamiento y de
 ## TITULO SEGUNDO. DE LA UNIDAD ENCARGADA DE LA PREVENCION Y TRATAMIENTO DE MENORES
 
 ### CAPITULO UNICO
+
+> <small>N. DE E. EN RELACION CON EL PRESENTE ARTICULO, VEASE QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE MODIFICA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA, EN CORRELACION CON EL 30 BIS DE DICHO ORDENAMIENTO, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2000.</small>
 
 ###### ARTICULO 33.
 
@@ -1234,3 +1238,45 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 30 DE NOVIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los traspasos que por motivo de este Decreto deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que con motivo de este Decreto, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término los cuales se atenderán por las dependencias que las venían despachando.
+
+###### ARTÍCULO CUARTO.
+
+El Presidente de la República, por conducto de las Secretarías de Hacienda y Crédito Público y Contraloría y Desarrollo Administrativo, con la participación de las Secretarías correspondientes, deberán concluir aquellas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como de activos patrimoniales, en un plazo no mayor de un año, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, asuman tales funciones.
+
+###### ARTÍCULO SEXTO.
+
+El Presidente de la República deberá expedir el Reglamento Interior de la Secretaría de Seguridad Pública, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarías, en un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto, se deberá crear la Entidad Pública señalada en la fracción XXI del artículo 35 de la Ley Orgánica de la Administración Pública.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando en la Ley de Pesca se mencione a la desaparecida Secretaría de Pesca, deberá entenderse como Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+###### ARTÍCULO NOVENO.
+
+La facultad prevista en la fracción XXV, del artículo 27 de la Ley Orgánica de la Administración Pública Federal, subsistirá hasta en tanto se cree una entidad pública encargada de promover el desarrollo potencial de las mujeres, su participación en la vida política, social y cultural del país y el ejercicio pleno de todos su derechos
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
