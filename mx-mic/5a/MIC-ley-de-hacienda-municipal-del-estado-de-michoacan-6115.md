@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1996-12-30"
+last_updated: "1997-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -131,7 +131,7 @@ VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico 
 
 #### Sección Tercera. De la Base
 
-REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 6o.
 
@@ -141,9 +141,9 @@ La base del Impuesto predial tanto de predios urbanos como rústicos será el va
 
 I. La base de este impuesto podrá modificarse por:
 
-((REFORMADA, P.O 30 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 1996)</small>
 
-a) EI valor determinado mediante avalúo practicado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente. en los términos de la Ley de Catastro del Estado de Michoacán.
+a) EI valor determinado mediante avalúo practicado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de la Ley de Catastro del Estado de Michoacán.
 
 > <small>(REFORMADA, P.O 30 DE DICIEMBRE DE 1996)</small>
 
@@ -155,7 +155,7 @@ c) (DEROGADA, P.O. 20 DE DICIEMBRE DE 1990)
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales fraccionamientos o subdivisiones, la Tesorería General del Estado determinará la base de este impuesto, mediante avalúos que practique conforme a la Ley de Catastro del Estado de Michoacán, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
+II. Cuando surjan nuevos predios con motivo de la constitución de condominios, conjuntos habitacionales, fraccionamientos o subdivisiones, la Tesorería General del Estado determinará la base de este impuesto, mediante avalúos que practique conforme a la Ley de Catastro del Estado de Michoacán, a partir de la autorización expedida por autoridad competente. Tratándose de condominios, los avalúos se practicarán a partir de la fecha en que se haya autorizado preventivamente la escritura de constitución correspondiente.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O 31 DE DICIEMBRE DE 1992)</small>
 
@@ -543,37 +543,17 @@ IV. Los peritos valuadores autorizados que no apliquen correctamente en la valua
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 42.
 
-La base gravable de este Impuesto sobre Adquisición de Inmuebles, será el valor que se determine mediante avalúo practicado por perito autorizado, en los términos de la Ley de Catastro del Estado de Michoacán. Dicho valor será ratificado o rectificado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto transmitivo de dominio.
+La base gravable de este Impuesto sobre Adquisición de Inmuebles, será el valor que se determine mediante avalúo practicado por perito autorizado, en los términos de la Ley de Catastro del Estado de Michoacán. Dicho valor será ratificado o rectificado por la Tesorería General del Estado, o en su caso, con base en convenio, por la autoridad municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto administrativo de dominio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-Para los efectos de este Impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior; asimismo, el valor de los derechos de copropiedad será equivalente al valor proporcional del inmueble de que se trate.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior; asimismo, el valor de los derechos de copropiedad será equivalente al valor proporcional del inmueble de que se trate.
 
 El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
-
-Tratándose de adquisiciones de vivienda en general, la reducción a que se refiere el párrafo anterior, será de tres veces. Si la vivienda es de interés social y popular, la reducción será de quince veces el mencionado salario.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
-
-Para los efectos de este Impuesto, se considera como:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
-
-a) Vivienda de interés social; aquella cuyo valor, al término de su edificación, no exceda de la suma que resuIte de multiplicar por quince el salario mínimo general vigente en el Estado de Michoacán elevado al año, vigente en el Estado de Michoacán, en la fecha de presentación del aviso del acto transmitivo de dominio.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
-
-b) Vivienda popular; aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado de Michoacán, en la fecha de presentación del aviso del acto transmitivo de dominio.
-
-c) Vivienda en general, aquella cuyo valor exceda del límite a que se refiere el inciso b) anterior.
+Tratándose de adquisiciones de vivienda en general, cuyo valor exceda de veinticinco veces el salario mínimo vigente para el Estado, elevado al año, la reducción a que se refiere el párrafo anterior será de tres veces dicho salario; para vivienda cuyo valor sea de veinticinco veces el salario mínimo general vigente para el Estado, elevado al año, la reducción a que se refiere el párrafo anterior será de quince veces el mencionado salario y, parar la vivienda cuyo valor sea de quince veces el salario mínimo general vigente para el Estado, elevado al año, la reducción será igual a dicho valor.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -1181,9 +1161,9 @@ El pago de este derecho, se hará a través de las Empresas suministradoras de e
 
 Las infracciones a este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VI. POR ABASTECIMIENTO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
+### CAPITULO VI. POR LA PRESTACION DEL SERVICIO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
 #### Sección Primera. De la Definición
 
@@ -1219,21 +1199,13 @@ Están obligados al pago de los derechos por abastecimiento de agua potable y po
 
 #### Sección Cuarta. Del Pago
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 111.
 
-Los derechos por abastecimiento de agua potable se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente, al mes o bimestre de que se trate, conforme a las tarifas que apruebe anualmente el Congreso del Estado, para cada sistema, a iniciativa de los ayuntamientos, con la asesoría técnica del Comité de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán.
+Los derechos por la prestación del servicio de abastecimiento de agua potable y por los de alcantarillado y saneamiento, se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente al mes o bimestre de que se trate, conforme a las cuotas o tarifas que aprueben los ayuntamientos, en los términos de la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán.
 
-Para el establecimiento de las tarifas a que se refiere el párrafo anterior, se estará a los costos de administración, operación y mantenimiento que requieran cada uno de los sistemas correspondientes a cada municipio, así como, de saneamiento de aguas. Asimismo, deberá considerarse el tipo de servicio de abastecimiento, ya sea doméstico, comercial o industrial y la progresividad por el abastecimiento en metros cúbicos, tratándose de servicio medido al consumo mínimo, tratándose de cuotas fijas.
-
-Adicionalmente a las tarifas por abastecimiento a que se refiere el párrafo anterior, se establecerán cuotas por conexión de tomas domiciliarias a las redes de los sistemas y por descarga domiciliaria en Ias redes de alcantarillado. En las cuotas anteriores deberá quedar incluido el costo de la ruptura y reposición de pisos de calle, considerando material y mano de obra conforme a los diámetros y tipo de servicio que se contrate.
-
-Tratándose de nuevos fraccionamientos, se establecerán cuotas de conexión a las redes de agua potable, conforme al gasto requerido del fraccionamiento y costo de las obras de cabeza. Igualmente, se establecerán cuotas por conexión a la red de alcantarillado sanitario.
-
-Las tarifas que se establezcan conforme a este artículo y la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán de Ocampo, además de su publicación en el Periódico Oficial del Estado, deberán ser publicadas en los estrados de las oficinas municipales y de los organismos operadores de los sistemas y, podrán en su caso, difundirse en otros medios, que permitan darlas a conocer a los usuarios.
-
-La falta de pago dentro de los plazos a que se refiere el primer párrafo de este artículo, causará recargos conforme a la tasa que fije la Ley de Ingresos para los Municipios del Estado de Michoacán y el pago de los derechos conjuntamente con sus accesorios, será exigido por los organismos operadores en su carácter de autoridades fiscales, mediante la aplicación del procedimiento administrativo de ejecución, conforme al Código Fiscal Municipal del Estado de Michoacán.
+La falta de pago dentro de los plazos a que se refiere al párrafo anterior, causará recargos conforme a la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán y el pago de los derechos, conjuntamente con sus accesorios, será exigido por los organismos operadores, en su carácter de autoridades fiscales, mediante la aplicación del procedimiento administrativo de ejecución establecido en el Código Fiscal Municipal del Estado de Michoacán.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
@@ -1267,11 +1239,11 @@ Los notarios públicos y quienes conforme a la ley tengan el ejercicio de la fe 
 
 Cuando los fedatarios públicos no cumplan con las obligaciones a que se refiere el párrafo anterior, serán responsables solidarios de los adeudos que por este concepto no pague el nuevo propietario.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 116.
 
-Al monto de los derechos por suministro de agua potable que se determine conforme a las tarifas a que se refiere el artículo 111 de esta Ley, se adicionará el 20% de dichos derechos como contraprestación a los servicios de alcantarillado. Se exceptúan del pago del 20% adicional a que se refiere este artículo, los derechos que se determinen conforme a los párrafos tercero y cuarto del referido artículo 111.
+Al monto de los derechos por suministro de agua potable, que se determinen conforme a las cuotas o tarifas correspondientes, se adicionará el 20% de dichos derechos como contraprestación al servicio de alcantarillado.
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
@@ -1727,7 +1699,7 @@ Son sujetos de la contribución de aportación por mejoras, los propietarios o p
 
 La contribución a que se refiere este Capítulo se pagará al terminarse las obras que la generaron, conforme a las cuotas que apruebe el Ayuntamiento, tomando en cuenta el costo de los materiales y de la mano de obra.
 
-(REEFORMADO, P.O. 30 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE1996)</small>
 
 ###### ARTICULO 175.
 
@@ -1947,7 +1919,7 @@ P.O. 30 DE DICIEMBRE DE 1991.
 
 UNICO. El Presente decreto entrará en vigor el día primero de enero de 1992, previa publicación en el Periódico Oficial del Estado.
 
-P.O. 31 DE DICIEMBRE DE 1992 .
+P.O. 31 DE DICIEMBRE DE 1992.
 
 DECRETO NUM 16.
 
@@ -1986,3 +1958,7 @@ P.O. 30 DE DICIEMBRE DE 1996.
 PRIMERO.- El presente decreto entrará en vigor el primero de enero de 1997, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+UNICO.- El presente decreto entrará en vigor, el 1º de enero de 1998, previa su publicación en el Periódico Oficial del Estado.
