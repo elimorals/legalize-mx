@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "1994-05-13"
+last_updated: "1999-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -140,27 +140,35 @@ La primer sesion del Consejo debera realizarse en el mes de Enero de cada tres a
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL PRESIDENTE DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 12.
 
-El Presidente del Sistema del municipio de Ensenada B. C. tendrá las siguientes facultades y Obligaciones:
+El Presidente del Sistema del municipio de Ensenada, B. C. tendrá las siguientes facultades y Obligaciones:
 
-I.- Tener la representación juridica del organismo para los actos de dominio, de administracion y para pleitos y cobranzas;
+I.- (DEROGADA, P.O. 25 DE JUNIO DE 1999)
 
 II.- Designar al Director del Sistema;
 
-III.- Presentar al Consejo los planes de labores, informes de actividades y estados financieros anuales;
+III.- (DEROGADA, P.O. 25 DE JUNIO DE 1999)
 
-IV.- Presentar al Consejo para su aprobación el Reglamento Interior, la organización general del organismo y los manuales de procedimientos y de servicios al público;
+IV.- (DEROGADA, P.O. 25 DE JUNIO DE 1999)
 
-V.- Presentar al Consejo anualmente los presupuestos de ingresos y egresos y, en su caso, los proyectos de inversion;
+V.- (DEROGADA, P.O. 25 DE JUNIO DE 1999)
 
-VI.- Designar y remover a propuesta del Director General a los empleados del organismo los cuales siempre seran empleados de confianza;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1999)</small>
 
-VII.- Aprobar las donaciones, herencias y demás liberalidades que les sean otorgadas, dando conocimiento de ello al Consejo;
+VI.- Designar y remover a propuesta del Director General a los empleados del organismo, los cuales siempre seran empleados de confianza;
 
-VIII.- Determinar la integración de comites técnicos y grupos de trabajos temporales;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1999)</small>
 
-IX.- Promover el establecimiento de Delegaciones del Sistema, en las delegaciones municipales, proporcionandoles asistencia tecnica y administrativa;
+VII.- Aprobar las donaciones, herencias y demás liberalidades que le sean otorgadas, dando conocimiento de ello al Consejo;
+
+VIII.- (DEROGADA, P.O. 25 DE JUNIO DE 1999)
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1999)</small>
+
+IX.- Promover el establecimiento de Delegaciones del Sistema, en las delegaciones municipales, proporcionandole asistencia tecnica y administrativa;
 
 X.- Presidir el voluntariado del sistema.
 
@@ -194,21 +202,35 @@ I.- Ser ciudadano mexicano, con cuando menos 30 años de edad al dia de su nombr
 
 II.- Contar con experiencia en materia administrativa y de asistencia social.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 16.
 
 El Director General tendrá las siguientes facultades y Obligaciones:
 
-I Ejecutar los acuerdos y disposiciones del Presidente del Sistema;
+1.- Ejecutar los acuerdos y disposiciones del Presidente del Sistema.
 
-II Presentar al Presidente del sistema las propuestas de proyectos e informes que se requieran para su eficaz desempeño;
+2.- Presentar al Presidente del sistema las propuestas de proyectos e informes que se requieran para su eficaz desempeño.
 
-III Elaborar para el Presidente del Sistema los planes de labores, informes de actividades y estados financieros anuales del Sistema;
+3.- Elaborar para el Presidente del Sistema los planes de labores, informes de actividades y estados financieros anuales del Sistema.
 
-IV Presentar al Presidente del Sistema informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto haya realizado el auditor;
+4.- Presentar al Presidente del Sistema informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto haya realizado el auditor.
 
-V Las demás que sean necesarias para de (sic) sus funciones juicio (sic) del Presidente del Sistema o de a quien delegue este;
+5.- Las demás que sean necesarias para sus funciones a juicio del Presidente del Sistema o de a quien delegue este.
 
-VI Llevar las relaciones laborales de acuerdo con las disposiciones legales establecidas en la Ley del Servicio Civil para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, debiendo celebrar sus contratos laborales de manera independiente al Estado y el Municipio.
+6.- Llevar las relaciones laborales de acuerdo con las disposiciones legales establecidas en la Ley del Servicio Civil para los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas del Estado de B. C., debiendo celebrar sus contratos laborales de manera independiente al Estado y al Municipio.
+
+7.- Tener la representación jurídica, del organismo para los actos de dominio, de administración y para pleitos y cobranzas.
+
+8.- Presentar al Consejo los planes y labores, informes de actividades y estados financieros anuales.
+
+9.- Presentar al Consejo para su aprobación el Reglamentyo (sic) Interior, la organización general del organismo y los manuales de procedimiento (sic) y de servicios al público.
+
+> <small>(F. DE E., P.O. 15 DE OCTUBRE DE 1999)</small>
+
+10.- Presentar al Consejo anualmente los presupuestos de ingresos y egresos y en su caso, los proyectos de inversión.
+
+11.- Determinar la integración de Comités Técnicos y grupos de trabajos temporales.
 
 ### CAPITULO VII. DEL VOLUNTARIADO
 
@@ -301,3 +323,9 @@ C. FRANCISCO R. CHING B.
 SECRETARIO GENERAL DEL AYUNTAMIENTO
 
 LIC. RUBEN REYES MORENO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE JUNIO DE 1999.
+
+TRANSITORIOS (SIC) UNICO.- LA PRESENTE REFORMA ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
