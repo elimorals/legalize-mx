@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1974-03-22"
+last_updated: "1974-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1974.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -203,11 +203,11 @@ IV. En los Distritos electorales que designe la Ley Orgánica respectiva.
 
 El Supremo Gobierno del Estado se divide para su ejercicio, en tres Poderes: Legislativo, Ejecutivo y Judicial.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1940)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1974)</small>
 
 ###### Art. 20.
 
-No podrán reunirse dos o más Poderes en una sola persona o corporación ni encomendarse el Legislativo a más de trece Diputados.
+No podrán reunirse dos o más poderes en una sola persona o corporación.
 
 ###### Art. 21.
 
@@ -227,11 +227,25 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1974)</small>
 
 ###### Art. 24.
 
-En cada Distrito Electoral se eligirá (sic) un Diputado Propietario y su respectivo Suplente. Este cubrirá las faltas temporales o absolutas de aquél. Las primeras en los casos de licencia o enfermedad del Propietario, hasta la presentación de éste y las segundas hasta terminar el período para el que ambos fueron electos.
+En cada Municipio habrá un Distrito Electoral siempre y cuando los habitantes no excedan de 150 mil. En los municipios cuya población exceda de ese número, se fijará un Distrito Electoral por cada 150 mil habitantes o fracción que exceda de 75 mil. Por cada Distrito Electoral se elegirá un Diputado Propietario y su respectivo suplente. Este cubrirá las faltas temporales o absolutas de aquél; las primeras en caso de licencia o enfermedad del Propietario hasta la presentación de éste y, las segundas, hasta terminar el período para el que ambos fueron electos.
+
+La elección de Diputados será directa con sujeción a lo dispuesto en este artículo y se complementará, además, con Diputados de Partido, apegándose en ambos casos, a lo que disponga la Ley Electoral y en el segundo, a las reglas siguientes:
+
+Todo partido político nacional o estatal, al obtener el 4 por ciento de la votación total en la Entidad, en la elección respectiva, tendrá derecho a que se acredite de sus candidatos, a un Diputado, y, hasta dos como máximo, si obtiene el 6 por ciento del total de votos emitidos.
+
+Si logra la mayoría en dos o más Distritos Electorales, no tendrá derecho a que le sean reconocidos Diputados de Partido, pero si triunfa en número menor, siempre que logre el porcentaje mencionado en el párrafo anterior, tendrá derecho a que sean acreditados hasta dos Diputados, sumando el electo por mayoría y al que se le acredite la representación por razón de porcentaje.
+
+> <small>(F. DE E., 7 DE JUNIO DE 1974)</small>
+
+Estos serán acreditados, por riguroso orden de acuerdo con el porcentaje decreciente de los sufragios que hayan logrado en relación a los demás candidatos del mismo Partido en toda la Entidad.
+
+Solamente podrán acreditar Diputados, en los términos de este Artículo, los partidos políticos nacionales o estatales que hubieren obtenido su registro, conforme a la Ley Electoral del Estado, por lo menos con un año de anterioridad al día de la elección.
+
+Los Diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
 
 ###### Art. 25.
 
@@ -383,7 +397,7 @@ C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las d
 
 VII Bis. Suprimir Municipalidades que no llenen los requisitos de la fracción anterior, pudiendo el mismo Congreso, en este caso, hacer la nueva división política que corresponda.
 
-VIII. Ratificar o nó la erección de Sindicaturas y Comisarías que propongan los Ayuntamientos, o la supresión o modificación de las existentes, determinación de sus demarcaciones y designación de sus cabeceras.
+VIII. Ratificar o no la erección de Sindicaturas y Comisarías que propongan los Ayuntamientos, o la supresión o modificación de las existentes, determinación de sus demarcaciones y designación de sus cabeceras.
 
 IX. Decretar la fundación de poblaciones y fijar las categorías de pueblo, villa o ciudad que les corresponda.
 
@@ -1904,3 +1918,9 @@ P.O. 22 DE MARZO DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE MAYO DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
