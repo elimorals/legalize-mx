@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-21977"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2002-12-31"
+last_updated: "2003-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el viernes 29 de junio de 2001.
 
@@ -259,11 +259,11 @@ VII. Gastos funerarios;
 
 VIII. Viáticos.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 27.
 
-Se aplicará la tasa del 2% al importe total de los pagos a que se refiere el primer párrafo del Artículo anterior, aún cuando no excedan del salario mínimo correspondiente a la zona económica del Estado.
+Este impuesto se causará, liquidará y pagará a razón del 2% sobre el monto total de los pagos a que se refiere el artículo anterior, efectuados durante el mes calendario anterior a la fecha en que se realice el pago, aún cuando no exceda del salario mínimo correspondiente a la zona económica.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -323,31 +323,27 @@ DEL IMPUESTO PARA LA EDUCACIÓN SUPERIOR Y FOMENTO AL EMPLEO EN EL ESTADO.
 
 ###### ARTÍCULO 31.
 
-Es objeto de este impuesto, la realización de pagos por concepto de impuestos y derechos, establecidos en las Leyes Fiscales del Estado.
+(DEROGADO, B.O. 30 DE SEPTIEMBRE DE 2003)
 
 ###### ARTÍCULO 32.
 
-Son sujetos de este impuesto quienes realicen los pagos a que se refiere el Artículo anterior.
+(DEROGADO, B.O. 30 DE SEPTIEMBRE DE 2003)
 
 ###### ARTÍCULO 33.
 
-Es base de este impuesto los pagos por los conceptos citados en el Artículo 31 de esta Ley.
+(DEROGADO, B.O. 30 DE SEPTIEMBRE DE 2003)
 
 ###### ARTÍCULO 34.
 
-Este impuesto se causará y pagará a razón del 20% sobre la base determinada en el Artículo anterior.
+(DEROGADO, B.O. 30 DE SEPTIEMBRE DE 2003)
 
 ###### ARTÍCULO 35.
 
-El pago de este impuesto se hará en el momento en que se realicen los pagos de impuestos y derechos a que se refieren los títulos segundo, capítulos primero, segundo, tercero; título tercero, capítulo primero y segundo de esta Ley.
+(DEROGADO, B.O. 30 DE SEPTIEMBRE DE 2003)
 
 ###### ARTÍCULO 36.
 
-El ingreso que se perciba por concepto de este impuesto, se aplicará:
-
-I. El cincuenta por ciento (50%) para la cobertura del gasto público, destinado a la educación superior.
-
-II. El cincuenta por ciento (50%) para el fomento del empleo en el Estado.
+(DEROGADO, B.O. 30 DE SEPTIEMBRE DE 2003)
 
 ### CAPÍTULO SEXTO
 
@@ -1372,3 +1368,7 @@ B.O. 31 DE DICIEMBRE DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE SEPTIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
