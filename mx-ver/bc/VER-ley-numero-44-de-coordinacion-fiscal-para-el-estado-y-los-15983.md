@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2003-03-18"
+last_updated: "2003-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -151,7 +151,7 @@ d) Población que habita en viviendas particulares sin disponibilidad de electri
 
 Para calcular las participaciones que conforme al Índice Municipal de Pobreza (IMP) correspondan a cada municipio se desarrollará la siguiente fórmula:
 
-IMP¡= Ri1B1+R12B2+R13B3+R14B4
+IMP¡= Ri1B1+Ri2B2+Ri3B3+Ri4B4
 
 Donde:
 
@@ -789,13 +789,13 @@ DISTRIBUCIÓN
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2003)</small>
 
-Artículo tercero. Para el ejercicio fiscal del año 2003, en sustitución de los porcentajes establecidos en el artículo 10 de esta Ley, se aplicarán los factores de distribución vigentes para el año 2002, a efecto de procurar a los municipios una percepción no menor a las participaciones recibidas por dicho concepto durante este último ejercicio fiscal.
+Artículo tercero. Para el ejercicio fiscal del año 2004, en sustitución de los porcentajes establecidos en el artículo 10 de esta Ley, se aplicarán los factores de distribución vigentes para el año 2003, a efecto de procurar a los municipios una percepción no menor a las participaciones recibidas por dicho concepto durante este último ejercicio fiscal.
 
-> <small>(REFORMADO, G.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2003)</small>
 
-Artículo cuarto. Para el ejercicio fiscal del año 2003, las participaciones federales por concepto del impuesto sobre tenencia o uso de vehículos, a que se refiere el artículo 15 de esta Ley, se distribuirán con base en el factor vigente para el año 2002, a fin de procurar a los municipios una percepción no menor a las participaciones recibidas por dicho concepto durante este último ejercicio fiscal.
+Artículo cuarto. Para el ejercicio fiscal del año 2004, las participaciones federales por concepto del impuesto sobre Tenencia o uso de vehículos, a que se refiere el artículo 15 de esta Ley, se distribuirán con base en el factor vigente para el año 2003, a fin de procurar a los municipios una percepción no menor a las participaciones recibidas por dicho concepto durante este último ejercicio fiscal.
 
 Artículo quinto. Para efecto de la determinación del Coeficiente de Participación Municipal (CPM i t-1) señalado en el artículo 12, y el coeficiente de recaudación municipal (CISTUV i t-1) señalado en el artículo 15, correspondiente al ejercicio fiscal del año 2001, se utilizarán los factores de distribución que se señalan en el artículo segundo transitorio de esta Ley.
 
@@ -850,3 +850,7 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 8 DE DICIEMBRE DE 2003.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
