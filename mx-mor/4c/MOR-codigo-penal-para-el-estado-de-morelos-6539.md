@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "1997-02-19"
+last_updated: "1999-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -427,7 +427,9 @@ Obra dolosamente el que conoce y quiere o acepta los elementos objetivos del hec
 
 Obra culposamente el que no despliega el cuidado debido, posible y adecuado para no producir, o en su caso evitar, la previsible y evitable lesión típica del bien jurídico.
 
-Solamente se sancionarán como delitos culposos los previstos en los artículos 106, 110, 115, 121, 124, 132, 149 primer párrafo, 181, 182, 183, 193, 194, 195, 197, 204, 206, 207, 227, 231, 235, 241, 251, 271, fracciones I y II, 304 y 310 fracción III.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
+
+Solamente se sancionarán como delitos culposos los previstos en los artículos 106, 110, 115,121, 124, 132, 149 primer párrafo, 193, 194, 195, 197, 204, 206, 207, 227, 231, 235, 241, 251, 271, fracciones I y II, 304 y 310 fracción III.
 
 ###### ARTICULO 16.
 
@@ -1623,6 +1625,8 @@ Si la inseminación se realiza con violencia, se aplicará la sanción correspon
 
 ### CAPITULO II. ABIGEATO
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 158.
 
 Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o de cualquier otra que implique subordinación, se le impondrá sanción hasta de cien días multa. Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además se le destituirá de su cargo.
@@ -1819,35 +1823,57 @@ Al que se apodere de una cosa mueble ajena, sin consentimiento del dueño o del 
 
 ###### ARTICULO 179.
 
-Al que se apodere de una o más bestias de carga, de tiro o de silla o cabezas de ganado, cualquiera que sea su especie, sin consentimiento de quién legalmente pueda disponer de las mismas, se le impondrán de cinco a dieciséis años de prisión y de cincuenta a mil días multa.
+Al que se apodere de una o más cabezas de ganado equino, bovino, caprino, ovino o sus híbridos, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de cinco a dieciséis años de prisión y de cincuenta a mil días multa.
+
+Quien se apodere de cualquier otra especie pecuaria no comprendida en el párrafo anterior será sancionado de acuerdo a lo señalado para quienes cometen el delito de robo.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 180.
 
-El servidor público que participe en la comisión del delito de abigeato, además de las penas previstas en el artículo anterior, será destituido de su puesto, empleo, cargo o comisión públicos y quedará inhabilitado por uno a cinco años para desempeñar cualquier otro encargo público.
+Se equipara el delito de abigeato y se impondrán las mismas penas previstas en el artículo que antecede, a quien a sabiendas de que es producto de abigeato:
+
+I. Comercie, transfiera o adquiera bajo cualquier título, animales, carne en canal, pieles u otros derivados del ganado;
+
+II. Contrahierre, contramarque, contraseñe, borre, modifique, destruya o altere de cualquier forma, las marcas o señales que sirven para identificar el ganado;
+
+III. Expida o haga uso de certificados o guías falsos, simulando actos jurídicos de enajenación o de negociación del ganado, de sus pieles o subproductos;
+
+IV. Sacrifique, desuelle, o destaze (sic), clandestinamente el ganado;
+
+V. En campo propio o ajeno, hierre, marque o señale, para si o para otro, personalmente o por interpósita persona, ganado ajeno, sin hierro, marca o seña.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 181.
 
-Se impondrán prisión de seis meses a tres años, y hasta ciento ochenta días multa:
+Se aumentarán hasta en una tercera parte las sanciones previstas en este capítulo, cuando el abigeato se cometa con las siguientes calificativas:
 
-I. A quien altere o borre las marcas de los animales vivos o pieles;
+I. En corrales construidos exprofesamente para el encierro del ganado, sea en zona urbana o en campo despoblado;
 
-II. A quien marque o señale en campo ajeno sin consentimiento del dueño, animales sin hierro o marca;
+II. Encontrándose los animales a bordo de vehículos de transporte público o privado;
 
-III. A quien marque o señale animales ajenos, aunque sea en campo propio;
+III. Cuando se cometa el delito en campo abierto o paraje solitario;
 
-IV. A quien contramarque o contraseñe animales ajenos en cualquier parte, sin derecho para el efecto; y
+IV. Con violencia contra las personas para cometer el delito, para facilitarse la fuga o para conservar el ganado. Independientemente de que la violencia se haga al propietario de los animales, o a su legitimo poseedor, o a sus familiares, dependientes, trabajadores, o a cualquier persona que en el acto de la comisión se halle con estas, o a la que pretenda impedir la comisión del delito;
 
-V. A quien expida certificados falsos para obtener guías, simulando ventas, o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros.
+V. Cuando se cometa por una o más personas armadas, o que utilicen o porten otros objetos peligrosos o intimidatorios;
+
+VI. Cuando el agente activo se valga para cometer el delito, de identificaciones falsas o inexistentes órdenes de autoridad;
+
+VII. Con quebranto de la confianza o seguridad derivadas de una relación de servicio como, trabajo u hospitalidad.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 182.
 
-Al que adquiera ganado producto de abigeato, o comercie con pieles o carnes u otros derivados obtenidos del abigeato se le impondrá prisión de uno a cinco años y de cien a trescientos sesenta y cinco días multa.
+Cuando el agente activo que comete el delito o participe en él, sea servidor público, se le aplicarán además de las penas previstas en este capítulo, la destitución del puesto, empleo, cargo o comisión público encomendado y quedará inhabilitado de tres a seis años para desempeñar cualquier otra función pública.
 
-Esta sanción se podrá incrementar hasta en una tercera parte por lo que respecta a los servidores públicos que intervengan en estas operaciones.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 183.
 
-Al que transporte ganado, carnes, pieles u otros derivados obtenidos mediante abigeato, se le impondrán de seis meses a dos años de prisión, y hasta ciento ochenta días multa.
+A quien a sabiendas de que es producto de abigeato, almacene, posea o transporte ganado, carnes, pieles, u otros derivados, se le impondrán de seis meses a dos años de prisión y hasta ciento ochenta días multa.
 
 ### CAPITULO XII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
 
@@ -1876,6 +1902,8 @@ Se incrementarán hasta en una mitad las sanciones aplicables conforme al artíc
 La misma sanción prevista en el párrafo anterior se aplicará cuando el despojo se realice por tres o más personas, o con empleo de violencia.
 
 ### CAPITULO XIII. DISPOSICIONES COMUNES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 12 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 186.
 
@@ -2007,7 +2035,7 @@ Para los mismos efectos, se entenderá que el sistema financiero se encuentra in
 
 ###### ARTICULO 199.
 
-Se perseguirán por querella los delitos previstos en este Título, con excepción de los calificados. En todo caso se perseguirán por querella aquellos que sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, o pariente por afinidad del ofendido.
+Se perseguirán por querella los delitos previstos en este título, con excepción de los calificados y el delito de abigeato. En todo caso se perseguirán por querella aquellos que sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, o pariente por afinidad del ofendido. No se aplicará al delito de abigeato lo previsto por el tercer y cuarto párrafo de este artículo.
 
 La persecución de los delitos previstos en el artículo 198 se sujetará al sistema previsto en dicho precepto.
 
@@ -3160,3 +3188,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Remítase el presente decreto al Titular del Poder Ejecutivo para los efectos Constitucionales a que haya lugar.
+
+P.O. 12 DE MAYO DE 1999.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo del Estado, para los efectos de los artículos 44 y 70 fracción XVII de la Constitución Política del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO.- En los procedimientos penales que se estén desarrollando ante las autoridades competentes del Estado en contra de abigeos, se atenderá a lo dispuesto por el artículo 86 del Código Penal en vigor.
