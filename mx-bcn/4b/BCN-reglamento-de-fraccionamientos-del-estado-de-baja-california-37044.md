@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-fraccionamientos-del-estado-de-baja-california-37
 country: "mx"
 rank: "reglamento"
 publication_date: "1971-04-10"
-last_updated: "1978-07-10"
+last_updated: "1991-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1991.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de abril de 1971.
 
@@ -409,11 +409,15 @@ b.- Frente de los lotes que den a avenidas
 
 das (sic) de 30.00 metros de ancho. 17.00 M.
 
-c.- Frente de lotes que den frente a
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
+
+c.- Frente de lotes que dan a
 
 otras vías de menor ancho. 15.00 M.
 
-d.- Anchos mínimos para avenidas y calles
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
+
+d.- Anchos mínimos para avenidas y calles:
 
 Avenidas principales. 30.00 M.
 
@@ -433,9 +437,9 @@ Banquetas en calles principales. 3.00 M.
 
 Banquetas en calles secundarias. 2.00 M.
 
-Alineamientos de construcción de casas. 3.00 M.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
-En Zona comercial se podrá construir al límite de propiedad.
+e).- Servidumbre frontal mínima a partir del alineamiento oficial y de acuerdo a la tabla que se señala en el artículo 35 Bis del presente Reglamento.
 
 ###### ARTICULO 33.
 
@@ -497,15 +501,21 @@ III.- Dimensiones mínimas que deberán tener los elementos de un fraccionamient
 
 a.- Superficie de lotes 300.00 M.
 
-b.- Frente de los lotes que den frente a avenidas
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
-de 25.00 metros de ancho 15.00 M.
+b.- Frente de lotes que den a avenidas
 
-c.- Frente de lotes que den frente a otras
+de 25.00 M. de ancho 15.00 M.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
+
+c.- Frente de lotes que den a otras
 
 vías de menor ancho 2.50 M.
 
-d.- Anchos mínimos para avenidas y calles
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
+
+d.- Anchos mínimos para avenidas y calles:
 
 Avenidas principales 25.00 M.
 
@@ -517,7 +527,7 @@ Calles de un sólo sentido 12.00 M.
 
 Calles privadas con retorno 12.00 M.
 
-Retornos, radio mínimo 8.00 M.
+Retorno, radio mínimo 8.00 M.
 
 Banquetas en avenidas 3.50 M.
 
@@ -525,13 +535,15 @@ Banquetas en calles principales 2.50 M.
 
 Banquetas en calles secundarias 1.50 M.
 
-Alineamiento de construcción de casas 3.00 M.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
-En zona comercial se podrá construir en el límite de propiedad.
+e).- Servidumbre frontal mínima a partir del alineamiento oficial y de acuerdo a la tabla que se señala en el artículo 35 Bis del presente Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 34.
 
-De los fraccionamientos Residenciales para promoción de construcción de viviendas tipo medio.
+De los fraccionamientos Residenciales para promoción de construcción de vivienda de tipo medio:
 
 Se consideran fraccionamientos Residenciales para promoción de construcción de viviendas tipo medio, los que por exigencias del Plan Regulador, deben construirse todas las obras de urbanización completas y de primera calidad y que las dimensiones de los elementos de construcción del fraccionamiento se puedan ajustar a las exigencias mínimas, para que la relación costo terreno-casa sea el 20% de la operación conjunta y que esté al alcance de familias de niveles económicos tipo medio.
 
@@ -585,7 +597,9 @@ d.- Donación al Gobierno del Estado.- El Gobierno del Estado, de acuerdo con lo
 
 e.- Areas para servicios públicos.- El fraccionador destinará una superficie, a juicio de la Dirección General de Obras y Servicios Públicos del Estado, para la instalación de servicios públicos, tales como correos, telégrafos, casetas de bombeo, sub-estaciones eléctricas, cárcamos de almacenamiento de agua potable o de aguas negras, plantas de tratamiento de aguas negras y otras. Estas superficies, debidamente especificado su uso, se cederán al Gobierno del Estado, así como las vías publicas autorizadas.
 
-III.- Dimensiones mínimas que deberán tener los elementos de un fraccionamiento Residencial para promoción de construcción de vivienda de tipo medio:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
+
+III.- Dimensiones mínimas que deberán tener los elementos de un fraccionamiento Residencial para promoción de vivienda de tipo medio:
 
 a.- Superficie de lote. 225.00 M.
 
@@ -596,6 +610,8 @@ a las avenidas o calles principales 12.50 M.
 c.- Frente de los lotes quedan (sic)
 
 a las otras calles 10.00 M.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
 d.- Ancho mínimo para avenidas y calles.
 
@@ -609,15 +625,15 @@ Calles privadas con retorno 12.00 M.
 
 Retorno, radio mínimo 7.50 M.
 
-Banquetas en calles principales
+Banquetas en avenidas o calles
 
-o avenidas 2.50 M.
+principales 2.50 M.
 
 Banquetas en calles secundarias 1.50 M.
 
-Alineamiento de Construcción de casas 3.00 M.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
-En zona comercial se podrá construir en el límite de propiedad.
+e).- Servidumbre frontal mínima a partir del alineamiento oficial y de acuerdo a la tabla que se señala en el artículo 35 Bis del presente Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 1978)</small>
 
@@ -681,11 +697,15 @@ b.- Frente de los lotes que dan a las
 
 avenidas o calles principales 10.00 M.
 
-c.- Frente de los lotes que dan frente a las
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
-otras calles 8.00 M.
+c.- Frente de lotes que dan a otras calles distintas a las avenidas
 
-d.- Anchos mínimos para avenidas y calles.
+o calles principales: 8.00 M.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
+
+d.- Ancho mínimo para avenidas y calles:
 
 Calles principales 15.00 M.
 
@@ -693,25 +713,151 @@ Otras calles 12.00 M.
 
 Banquetas 1.50 M.
 
-Alineamiento de Construcción de casas 3.00 M.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
-Si se construyen edificios multifamiliares,
+e).- Servidumbre frontal mínima a partir del alineamiento oficial y de acuerdo a la tabla que se señala en el artículo 35 Bis del presente Reglamento.
 
-el alineamiento de la construcción será de 5.00 M.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE SEPTIEMBRE DE 1991)</small>
 
-En zona comercial se podrá construir en el límite de propiedad.
-
-En zona comercial se podrá construir en el límite de propiedad. (sic)
-
-En zonas de edificios multifamiliares se exige dejar un estacionamiento de automóvil por cada departamento.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1978)</small>
-
-Cuando por exigencia de la ubicación del predio por fraccionar o de los planes de desarrollo y financiamiento aprobados por los organismos oficiales encargados de la promoción de construcción de viviendas de interés social, sea necesario un frente a la calle o una superficie menor que los mínimos que han quedado establecidos, estos podrán disminuirse, pero en ningún caso serán menores de 7.00 metros lineales el frente ni de 140.00 metros cuadrados la superficie.
+Cuando por exigencia de la ubicación del predio por fraccionar o de los planes de desarrollo urbano y financiamiento aprobado por los organismos oficiales encargados de la promoción de construcción de viviendas de interés social, los lotes requieran de un frente a la calle o una superficie menor a los mínimos establecidos, éstos podrán disminuirse siempre y cuando incluyan un espacio de 6 metros por 2.65 metros, accesible para almacenamiento de automóvil, el sembrado de las viviendas sea de tal modo que permita el aprovechamiento de un espacio adicional para estacionamiento de otro automóvil sobre la vía pública y cuenten con servicios de agua potable, drenaje sanitario y electrificación, antes de ser ocupado por los beneficiarios, pero en ningún caso la superficie será menor de 120.00 metros cuadrados y el frente del lote de 6,00 metros lineales.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 1978)</small>
 
 El alineamiento de las construcciones en lotes que sean aprobados con un frente menor de 8.00 metros, será de 6.00 metros, dejando permanentemente esa área del lote libre de construcciones, a fin de permitir el almacenamiento de vehículos en el interior de los predios.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1991)</small>
+
+ARTICULO 35 BIS.- Para los efectos de los artículos 32, 33, 34 y 35, la servidumbre frontal es la superficie libre de construcción que debe dejarse en cada lote, medida a partir del alineamiento oficial hasta el inicio permisible de la edificación, destinada para:
+
+a).- Alojar las instalaciones de registro, medidores y acometidas de servicios públicos de agua, drenaje, electricidad, gas y teléfono.
+
+b).- El mejoramiento ambiental o área jardinada.
+
+c). Integrarse como parte del área destinada a estacionamiento de vehículos.
+
+d).- Posible afectación por ampliación de derecho de vía pública.
+
+La dimensión de la servidumbre frontal se determinará de acuerdo a las siguientes tablas, considerando el tipo de fraccionamiento de que se trate, el ancho de las calles o avenidas y el frente del lote correspondiente:
+
+SUPERFICIE DE SERVIDUMBRE FRONTAL EN FRACCIONAMIENTOS RESIDENCIALES
+
+LOTE RESIDENCIAL DE PRIMER ORDEN
+
+ANCHO SERVIDUMBRE FRONTAL
+
+MINIMO
+
+DE CALLES * FRENTE DE LOTE
+
+Y AVENIDAS ANCHO SUP. EST 17.00 ML 15.00 ML
+
+ML ML M2 SUP. LIBRE M2
+
+20 3.00 15.90 35.10 29.10
+
+15 2.50 13.25 29.25 24.25
+
+12 2.00 10.60 23.40 19.40
+
+LOTE RESIDENCIAL
+
+ANCHO SERVIDUMBRE FRONTAL
+
+MINIMO
+
+DE CALLES * FRENTE DE LOTE
+
+Y AVENIDAS ANCHO SUP. EST 15.00 ML 12.50 ML
+
+ML ML M2 SUP. LIBRE M2
+
+18 2.50 13.25 24.25 18.00
+
+15 2.00 10.60 19.40 14.40
+
+12 2.00 10.60 19.40 14.40
+
+LOTE DE TIPO MEDIO
+
+ANCHO SERVIDUMBRE FRONTAL
+
+MINIMO
+
+DE CALLES * FRENTE DE LOTE
+
+Y AVENIDAS ANCHO SUP. EST 12.50 ML 10.00 ML
+
+ML ML M2 SUP. LIBRE M2
+
+18 2.50 13.25 18.00 11.75
+
+15 2.00 10.60 14.40 9.40
+
+12 1.50 7.95 10.80 7.05
+
+LOTE FRACCIONAMIENTO DE INTERES SOCIAL CON SUPERFICIE MINIMA DE 180 M2
+
+ANCHO SERVIDUMBRE FRONTAL
+
+MINIMO
+
+DE CALLES * FRENTE DE LOTE
+
+Y AVENIDAS ANCHO SUP. EST 10.00 ML 8.00 ML
+
+ML ML M2 SUP. LIBRE M2
+
+18 2.50 6.62 18.38 13.38
+
+15 2.00 5.30 14.70 10.70
+
+12 1.50 3.97 11.03 8.03
+
+LOTE FRACCIONAMIENTO DE INTERES SOCIAL CON SUPERFICIE MINIMA DE 140 M2
+
+ANCHO SERVIDUMBRE FRONTAL
+
+MINIMO
+
+DE CALLES * FRENTE DE LOTE
+
+Y AVENIDAS ANCHO SUP. EST 8.00 ML 7.00 ML
+
+ML ML M2 SUP. LIBRE M2
+
+18 2.50 6.62 13.38 10.88
+
+15 2.00 5.30 10.70 8.70
+
+12 1.50 3.97 8.03 6.53
+
+LOTE FRACCIONAMIENTO DE INTERES SOCIAL CON SUPERFICIE MINIMA DE 120 M2
+
+ANCHO SERVIDUMBRE FRONTAL
+
+MINIMO
+
+DE CALLES * FRENTE DE LOTE
+
+Y AVENIDAS ANCHO SUP. EST 7.00 ML 6.00 ML
+
+ML ML M2 SUP. LIBRE M2
+
+18 2.50 6.62 10.88 8.38
+
+15 2.00 5.30 8.70 6.70
+
+12 1.50 3.97 6.53 5.03
+
+* ES LA SUPERFICIE QUE PUEDE INTEGRARSE O SUMARSE AL AREA DESTINADA A ESTACIONAMIENTO, SUSCEPTIBLE DE CUBRIRSE
+
+Cuando el lote se ubique en calles y avenidas primarias o secundarias, según la clasificación de fraccionamientos señalada en los artículos citados, se podrán construir cubiertas sobre el área destinada para el estacionamiento de vehículos que no impliquen espacios utilizables en nivel superior. Cuando el lote colinde con vialidades de menor jerarquía dicha restricción no se aplicará.
+
+En el caso de lotes cabeceros o de esquina la servidumbre frontal se dejará hacia ambas vialidades y a su superficie se le sumará la servidumbre frontal que corresponda, según la vialidad con que colinda, conservando un área útil para la construcción semejante a la de los demás lotes vecinos y la continuidad de la vialidad.
+
+La servidumbre frontal será determinada por la autoridad en los casos en que el lote sea un polígono irregular o distinto al de los lotes vecinos, conservando un área aprovechable semejante a la de los demás y la continuidad de la misma servidumbre frontal.
+
+Para determinar la servidumbre frontal en edificios multifamiliares se considerarán los criterios de seguridad, usos del suelo, densificación, áreas verdes, equipamiento urbano, estacionamientos y los demás que especifiquen las Leyes y Reglamentos.
 
 ###### ARTICULO 36.
 
@@ -1681,6 +1827,8 @@ ING. MARIO AMAYA BRONDO.
 
 P.O. 10 DE JULIO DE 1978.
 
-...
-
 TERCERO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1991.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
