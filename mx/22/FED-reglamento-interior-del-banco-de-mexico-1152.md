@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1998-10-14"
+last_updated: "1999-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 1999.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -313,9 +313,17 @@ VII. Formalizar convenios y demás actos jurídicos, a través de los cuales se 
 
 VIII. Coadyuvar, en aspectos legales, con las autoridades competentes o unidades administrativas del Banco, en el ingreso, participación y demás actos relacionados con la operación de organismos económicos y financieros internacionales;
 
-IX. Proporcionar dictámenes e información legal que corresponda dar al Banco, con excepción de las señaladas en la fracción VI del artículo 28, y
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 1999)</small>
 
-X. Publicar información de carácter económico y financiero.
+IX. Proporcionar dictámenes e información legal que corresponda dar al Banco, con excepción de las señaladas en la fracción VI del artículo 28;
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 1999)</small>
+
+X. Publicar información de carácter económico y financiero, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 1999)</small>
+
+XI. Otorgar excepciones temporales a aquellas instituciones que se encuentren en procesos de fusión, fusionadas, intervenidas administrativa o gerencialmente, bajo una administración especial, que reciban apoyos financieros del Instituto para la Protección al Ahorro Bancario, o que presenten desequilibrios significativos en sus operaciones activas y pasivas en moneda extranjera, que les impida cumplir con las disposiciones emitidas por el Banco.
 
 > <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
 
@@ -473,22 +481,6 @@ La Dirección de Información Económica estará facultada para recabar y proces
 
 También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias señaladas en este artículo.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
-
-###### Artículo 24 Bis.
-
-La Dirección de Sistematización de Información Económica y Servicios tendrá las funciones siguientes:
-
-I. Establecer sistemas de procesamiento, manejo y diseminación de información económica y financiera;
-
-II. Comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las funciones de la Dirección General de Investigación Económica, y
-
-III. Tener a su cuidado el archivo histórico del Banco.
-
-> <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
-
-IV. Administrar los servicios de la biblioteca y hemeroteca del Banco.
-
 > <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 25.
@@ -641,9 +633,9 @@ XIII. Formalizar los actos, convenios y contratos relacionados con la adquisici�
 
 ARTICULO 28 BIS.- La Dirección de Seguridad tendrá las atribuciones siguientes:
 
-I.- Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco, y
+I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco, y
 
-II.- Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
+II. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
 
 > <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
@@ -1026,3 +1018,7 @@ PRIMERO.- Las presentes reformas y adiciones entrarán en vigor a partir del dí
 SEGUNDO.- Se modifican las disposiciones que se opongan a las presentes reformas y adiciones al Reglamento Interior del Banco de México.
 
 TERCERO.- Las menciones que se hagan a la Dirección de Sistemas Operativos de Banca Central y al Gerente de Caja en cualquier disposición, ordenamiento o documento, incluyendo las circulares y demás normatividad emitida por Banco de México, así como en los relativos a la integración y funciones de los comités administrativos del Banco, deberán entenderse referidas, respectivamente, a la Dirección de Sistemas Operativos y de Pagos, y al Cajero Principal.
+
+D.O.F. 25 DE JUNIO DE 1999.
+
+UNICO.- La presente adición entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
