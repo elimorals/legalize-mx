@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1988-12-31"
+last_updated: "1989-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,27 +20,25 @@ abbreviation: "LCF"
 ---
 # LEY DE COORDINACION FISCAL
 
-LEY DE CATASTRO DEL ESTADO DE PUEBLA
+LEY DE COORDINACION FISCAL
 
-ÚLTIMA REFORMA PUBLICAD EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1989.
 
-Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
+Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
-LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
+JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 
-CONSIDERANDO...
+DECRETO:
 
-Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57, 63 fracciones I y II, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I, 69 fracciones I y II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
+"El Congreso de los Estados Unidos Mexicanos, decreta:
 
-LEY DE CATASTRO DEL ESTADO DE PUEBLA
+LEY DE COORDINACION FISCAL
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO ÚNICO
+### CAPITULO I. De las Participaciones de los Estados, Municipios y Distrito Federal en Ingresos Federales
 
 ###### ARTICULO 1o.
 
@@ -48,61 +46,33 @@ Esta Ley tiene por objeto coordinar el sistema fiscal de la Federación con los 
 
 Cuando en esta Ley se utilice la expresión "entidades", ésta se referirá a los Estados y al Distrito Federal.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichos Estados y el Distrito Federal participarán en el total de impuestos federales y en los otros ingresos que señale esta Ley mediante la distribución de los fondos que en la misma se establecen.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 2o.
 
-La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichos Estados y el Distrito Federal participarán en el total de los impuestos federales, y en los otros ingresos que se mencionarán mediante la distribución de los fondos que a continuación se indican:
+El Fondo General de Participaciones se constituirá con el 18.1% de la recaudación federal participable que obtenga la Federación en un ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así como por los derechos sobre hidrocarburos y de minería disminuidos con el total de las devoluciones por los mismos conceptos.
 
-I.- Fondo General de Participaciones, que será la suma del 30% del impuesto al valor agregado que recauden las entidades federativas, más el Fondo Ajustado, menos las devoluciones de la recaudación federal participable atribuibles a dichas entidades, en cada ejercicio fiscal de la Federación.
+No se incluirán en la recaudación federal participable, los impuestos adicionales del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados y del 2% en las demás exportaciones; ni tampoco los derechos adicionales o extraordinarios, sobre los hidrocarburos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+El Fondo General de Participaciones se distribuirá conforme a lo siguiente:
 
-El Fondo Ajustado se determinará aplicando el factor de distribución al monto que resulte de restar de la recaudación federal participable de cada año, el 30% del impuesto al valor agregado que recauden las entidades federativas en el mismo período.
+I.- El 50% del mismo, en proporción directa al número de habitantes que tenga cada entidad en el ejercicio de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
 
-El factor de distribución será el que se determine para el Fondo Ajustado de 1988, el cual será constante para los ejercicios siguientes; y sólo se modificará cuando:
+II.- El 50% restante, en los términos del artículo 3o. de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+El Fondo General de Participaciones se adicionará con un 0.5% de la recaudación federal participable en el ejercicio. De este 0.5% participarán las entidades federativas y sus municipios cuando aquéllas se coordinen en materia de derechos. El Fondo no se adicionará con la parte que correspondería a las entidades no coordinadas en derechos. Asimismo, el Fondo se incrementará con el porciento que represente, en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
 
-a).- La Federación y entidades convengan en derogar o dejar en suspenso determinados gravámenes locales o municipales, caso en el cual el factor de distribución se aumentará con el cociente resultante de dividir los ingresos provenientes de dichos gravámenes en el año en que se derogan o suspenden entre la recaudación federal participable, menos el 30% de la recaudación del impuesto al valor agregado obtenido por las entidades en el mismo período.
+Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-b).- Las Entidades se coordinen o cuando dejen de estar coordinadas con la Federación en materia de derechos. En estos supuestos se aumentará o disminuirá el factor de distribución correspondiente a todas las Entidades, según sea el caso, con el cociente resultante de dividir el monto que se determine multiplicando el coeficiente obtenido para el año de 1987, conforme a la fracción II del artículo 3o. vigente en ese año, por el 0.5% de la Recaudación Federal Participable entre la Recaudación Federal Participable menos el 30% del impuesto al valor agregado del año que corresponda.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Para los efectos de esta Ley, los ingresos totales anuales de la Federación serán los que ésta obtenga en cada ejercicio por todos sus impuestos, así como por los derechos sobre hidrocarburos y de minería, menos el total de las devoluciones por los mismos conceptos. La Recaudación Federal Participable se formará por dichos ingresos sin excluir las devoluciones.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-La parte de las devoluciones atribuibles a las Entidades, serán las cantidades que resulten de aplicar al total de las devoluciones, el cociente que se obtenga de dividir la suma del Fondo Ajustado, más el 30% del impuesto al valor agregado recaudado por las Entidades, entre la Recaudación Federal Participable. Cuando en esta Ley se haga referencia a devoluciones se entenderá que también quedan incluidas las compensaciones.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-El Fondo General de Participaciones no será inferior al resultado de aplicar el 17.351061% a los ingresos totales anuales. Si el Fondo General de Participaciones, calculado conforme a las disposiciones vigentes a partir de 1988, resultara inferior a esta cantidad, la Federación aportará la diferencia al Fondo Ajustado y se distribuirá en la misma forma que establece el artículo 3o. de esta Ley, para el incremento al Fondo Ajustado. El porciento a que se refiere este párrafo se modificará en los términos previstos en el inciso b) de esta fracción.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Los Estados que estén adheridos al Sistema de Coordinación Fiscal y se encuentren coordinados con la Federación en materia del impuesto sobre adquisición de inmuebles, participarán adicionalmente del 80% de la recaudación que se obtenga en su territorio del impuesto sobre tenencia o uso de vehículos, en la parte que colaboren en la recaudación de dicho impuesto. De esta participación corresponderá, cuando menos, el 20% a los Municipios de la Entidad, que se distribuirá entre ellos en la forma que determine la Legislatura respectiva.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- El 0.50% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos y derechos sobre hidrocarburos por la extracción de petróleo crudo y gas natural y los de minería, más el 3% del Fondo General de Participaciones y otra cantidad igual a esta última, con cargo a la Federación, que constituirán el Fondo Financiero Complementario de Participaciones.
-
-Adicionalmente, las entidades participarán en recargos sobre impuestos federales y en las multas por infracción a las leyes federales que se señalen en los convenios o acuerdos respectivos, en la proporción que en los mismos se establezca.
-
-En los productos de la Federación relacionados con bienes o bosques, que las leyes definan como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de explotación de tales terrenos o de bosques nacionales.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-No se incluirán entre los ingresos totales anuales ni en la Recaudación Federal Participable, los impuestos adicionales del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados y el 2% en las demás exportaciones; ni tampoco el derecho adicional de 5% sobre el de los hidrocarburos que se exporten.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Los incentivos que se otorgan a las Entidades por recaudar o fiscalizar, no se computarán sobre el 30% del impuesto al valor agregado recaudado por las Entidades.
+Los Estados que estén adheridos al Sistema Nacional de Coordinación Fiscal y se encuentren coordinados con la Federación en el impuesto sobre adquisición de inmuebles, participarán adicionalmente del 80% de la recaudación que se obtenga en su territorio del impuesto sobre tenencia o uso de vehículos, en la parte que colaboren en la recaudación de dicho impuesto. De esta participación corresponderá, cuando menos, el 20% a los municipios de la entidad que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -118,13 +88,21 @@ I.- 95% del 2.8% de los impuestos general de importación y 2% adicional sobre e
 
 II.- 3.17% del derecho adicional sobre hidrocarburos que se exporten, excluyendo el derecho extraordinario sobre los mismos y, en su caso, del impuesto adicional del 3% sobre el impuesto general en exportaciones de petróleo crudo, gas natural y sus derivados a los municipios colindantes con la frontera o litorales, por los que se realice materialmente la salida del país de dichos productos.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-III.- 0.42% de los ingresos totales anuales que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre hidrocarburos, con exclusión del derecho extraordinario sobre los mismos, en la siguiente forma:
+III.- 0.42% de la recaudación federal participable que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre hidrocarburos, con exclusión del derecho extraordinario sobre los mismos, en la siguiente forma:
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 1.- El 30% se destinará a formar un Fondo de Fomento Municipal.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 2.- El 70% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a los Estados que se coordinen en materia de derechos.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+El Fondo de Fomento Municipal se distribuirá entre los Estados en proporción inversa a la participación por habitante que tenga cada entidad en el Fondo General de Participaciones en el ejercicio de que se trate.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -134,75 +112,67 @@ Los Estados entregarán íntegramente a sus Municipios las cantidades que reciba
 
 Las cantidades que correspondan a los municipios en los términos de las fracciones I y II, se pagarán por la Federación directamente a dichos municipios.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 3o.
 
-La cantidad que a cada Entidad corresponde en el Fondo General de Participaciones, se integrará con el 30% del impuesto al valor agregado recaudado por la Entidad adicionado con la parte que le corresponda en el Fondo Ajustado y disminuido con la parte de las devoluciones atribuibles a la Entidad dentro del total de las mismas, al resultando se le deducirá el 3% de su importe para adicionarlo al Fondo Financiero Complementario de Participaciones.
+La cantidad que a cada entidad corresponda en el 50% del Fondo General de Participaciones a que se refiere la fracción II del artículo 2o. de esta Ley, se obtendrá mediante la aplicación del coeficiente que se determine conforme a las siguientes fracciones:
 
-La parte del Fondo Ajustado que corresponde a la Entidad se determinará conforme a lo siguiente:
+I.- Las participaciones en el 50% del fondo que correspondieron a la entidad en el año anterior a aquél para el cual se efectúe el cálculo, se multiplicarán por el monto de las contribuciones asignables de la entidad en el mismo año y el resultado se dividirá entre las contribuciones asignables de la entidad en el segundo año anterior.
 
-I.- A la Entidad le corresponderá anualmente hasta una cantidad igual a la que haya resultado para ella en dicho Fondo en el año inmediato anterior.
+II.- Se sumarán los resultados que se obtengan de acuerdo a la fracción anterior, calculados para todas las entidades, y se determinará el porciento, que el resultado que corresponda a cada una de ellas, represente en el total. Este tanto porciento será la proporción en que cada entidad participará en esta parte del Fondo General de Participaciones en el año para el que se efectúe el cálculo.
 
-II.- Adicionalmente, le corresponderá la cantidad que resulte de aplicar el coeficiente que se determine conforme a los incisos siguientes, al monto del incremento que tenga el Fondo Ajustado en el año para el que se hace el cálculo en relación con el año precedente.
-
-a).- La suma de las cantidades que corresponda a la Entidad, provenientes del Fondo Ajustado, en el segundo año anterior a aquél para el que se efectúa el cálculo, se dividirá entre la recaudación federal asignable a la Entidad en el cuarto año anterior, respecto del cual se efectúa el cálculo.
-
-b).- El monto de la recaudación asignable a la Entidad en el tercer año anterior a aquél para el que se haga el cálculo, se dividirá entre, la recaudación asignable en todo el país en dicho tercer año.
-
-c).- Se multiplicarán entre sí los cocientes obtenidos conforme a los incisos a) y b).
-
-Se sumarán los resultados que se obtengan de acuerdo con el inciso c), calculados para todas las Entidades y se determinará el coeficiente que corresponda a cada Entidad en el incremento del Fondo Ajustado. Este coeficiente será la proporción en que cada Entidad participará en el incremento del Fondo Ajustado en el año para el que se efectúe el cálculo.
-
-Las devoluciones atribuibles a la Entidad serán la cantidad que resulte de aplicar al total de las devoluciones atribuibles a las Entidades, el cociente que se obtenga de dividir la suma de las cantidades que correspondan a la Entidad dentro del Fondo Ajustado más el 30% del impuesto al valor agregado recaudado por la misma, entre la suma total del Fondo Ajustado más el 30% del impuesto al valor agregado recaudado por las Entidades.
-
-En el supuesto de que una Entidad se coordine o deje de estar coordinada con la Federación en materia de derechos, su factor de distribución dentro del Fondo Ajustado se modificará adicionándose o disminuyéndose a la suma de las cantidades que correspondan a la Entidad provenientes del Fondo Ajustado conforme a lo señalado en la fracción II, inciso a) de este artículo, el resultado de multiplicar el coeficiente de distribución de la Entidad para el año de 1987 conforme a la fracción II del artículo 3o. vigente en ese año, por el 0.5% de la Recaudación Total Participable en el ejercicio fiscal en que ello ocurra.
-
-En todos los casos en que este artículo menciona "recaudación asignable", se entenderá exclusivamente la que se obtenga por impuestos federales cuyo origen por Entidades sea plenamente identificable. No se considerará identificable el origen por Entidades de los impuestos al comercio exterior.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Las contribuciones asignables a que se refiere este artículo son los impuestos federales de automóviles nuevos, tenencia o uso de vehículos y especial sobre producción y servicios en los conceptos de petrolíferos, aguas envasadas, bebidas alcohólicas, cerveza y tabacos labrados. Asimismo, se consideran contribuciones asignables el predial y los derechos de agua.
 
 ###### ARTICULO 4o.
 
-El Fondo Financiero Complementario de Participaciones a que se refiere la fracción II del artículo 2o., se distribuirá en proporción inversa a la participación por habitante, que tenga cada Entidad, en el Fondo General de Participaciones, en el ejercicio de que se trate.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-El dato de población se tomará de la última información oficial que, al iniciarse cada ejercicio, hubiera dado a conocer el Consejo Nacional de Población.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 5o.
 
-Los cálculos de participaciones a que se refieren los artículos 2o., 2o.-A, 3o. y 4o. se harán para todas las Entidades Federativas, aunque alguna o varias de ellas no se hubieran adherido al Sistema Nacional de Coordinación Fiscal. Las participaciones que correspondan a las Entidades que dejen de estar adheridas serán deducidas del Fondo General, del Fondo Financiero Complementario de Participaciones y del Fondo de Fomento Municipal.
+Los cálculos de participaciones a que se refieren los artículos 2o., 2o-A y 3o. se harán para todas las Entidades Federativas, aunque algunas o varias de ellas no se hubieran adherido al Sistema Nacional de Coordinación Fiscal. Las participaciones que correspondan a las entidades que dejen de estar adheridas serán deducidas del Fondo General de Participaciones y del Fondo de Fomento Municipal.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 6o.
 
-Las participaciones federales que recibirán los Municipios del total de los Fondos General y Financiero Complementario de Participaciones incluyendo sus incrementos, nunca serán inferiores al 20% de las cantidades que correspondan al Estado, el cual habrá de cubrirselas. Las legislaturas locales establecerán su distribución entre los Municipios mediante disposiciones de carácter general.
+Las participaciones federales que recibirán los Municipios del total del Fondo General de Participaciones incluyendo sus incrementos, nunca serán inferiores al 20% de las cantidades que correspondan al Estado, el cual habrá de cubrírselas. Las legislaturas locales establecerán su distribución entre los Municipios mediante disposiciones de carácter general.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 La Federación entregará las participaciones a los municipios por conducto de los Estados, dentro de los cinco días siguientes a aquel en que el Estado las reciba; el retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones; en caso de incumplimiento la Federación hará la entrega directa a los Municipios descontando la participación del monto que corresponda al Estado, previa opinión de la Comisión Permanente de Funcionarios Fiscales.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Los Municipios recibirán como mínimo el 20% de la participación que corresponda al Estado en los términos último párrafo de la fracción I del Artículo 2o. de esta Ley.
+Los Municipios recibirán como mínimo el 20% de la participación que corresponda al Estado en los términos del último párrafo del artículo 2o. de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de los Estados publicarán, cuando menos una vez al año, en el Diario Oficial de la entidad, y en uno de los periódicos de mayor circulación de la misma, las participaciones que correspondan, durante un año, a cada uno de sus Municipios.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 7o.
 
-El Fondo General de Participaciones se determinará por cada ejercicio fiscal de la Federación, la cual en forma provisional hará un cálculo mensual considerando la Recaudación Federal Participable obtenida en el mes anterior. En igual forma, se procederá con el Fondo Financiero Complementario y el Fondo de Fomento Municipal, calculándolos sobre los ingresos totales de la Federación obtenidos en dicho mes.
+El Fondo General de Participaciones se determinará por cada ejercicio fiscal de la Federación, la cual en forma provisional hará un cálculo mensual considerando la recaudación federal participable obtenida en el mes inmediato anterior. En igual forma se procederá con el Fondo de Fomento Municipal.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 Las Entidades dentro del mismo mes en que se realice el cálculo mencionado en el párrafo que antecede, recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos a cuenta de participaciones.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
 Cada cuatro meses la Federación realizará un ajuste de las participaciones, efectuando el cálculo sobre la recaudación obtenida en ese período. Las diferencias resultantes serán liquidadas dentro de los dos meses siguientes.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+
 A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, ésta determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las liquidaciones que procedan.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+Durante los primeros meses de cada ejercicio, las participaciones en el Fondo General a que se refiere la fracción II del artículo 2o. de esta Ley, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -230,9 +200,9 @@ Las obligaciones de los Municipios se registrarán cuando cuenten con la garant�
 
 La Secretaría de Hacienda y Crédito Público efectuará pagos de las obligaciones garantizadas con afectación de participaciones siguiendo el orden cronológico de su inscripción.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-La compensación entre el derecho de las Entidades y de los Municipios a recibir participaciones y las obligaciones que tengan con la Federación, sólo podrán llevarse a cabo si existe acuerdo entre las partes interesadas o cuando, esta Ley así lo autorice. Las deudas del Estado derivadas de ajustes en participaciones no están sujetas a lo dispuesto en el primer párrafo de este artículo y serán objeto de compensación.
+La compensación entre el derecho de las entidades y de los municipios a recibir participaciones y las obligaciones que tengan con la Federación, sólo podrán llevarse a cabo si existe acuerdo entre las partes interesadas o cuando esta Ley así lo autorice. Las deudas del estado derivadas de ajustes en participaciones o por sanciones por no cumplir metas pactadas con la Federación en materia de administración de impuestos, no están sujetas a lo dispuesto en el primer párrafo de este artículo y serán objeto de compensación.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -266,7 +236,7 @@ Para efectos de la presente Ley, el Catastro es el sistema de información terri
 
 La formación y conservación del Catastro, es de interés y utilidad pública.
 
-### CAPÍTULO ÚNICO
+### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
 ###### Artículo 4.
 
@@ -378,13 +348,23 @@ III. Rústicos.
 
 El Gobierno del Estado en coordinación con los Municipios y en el ámbito de sus respectivas competencias, realizarán actividades catastrales, y se proporcionarán mutua ayuda, cooperación e información, en términos de esta Ley y de los convenios que para tal efecto suscriban.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-El Gobierno del Estado por conducto del Instituto, será el encargado de interpretar en el ámbito administrativo la presente Ley, así como de emitir las disposiciones que sean necesarias para su debida aplicación y cumplimiento, sin perjuicio de las facultades que correspondan a los Municipios en términos de esta Ley y demás disposiciones aplicables.
+Los Estados que deseen adherirse al Sistema Nacional de Coordinación Fiscal para recibir las participaciones que establezca esta Ley, lo harán mediante convenio que celebren con la Secretaría de Hacienda y Crédito Público, que deberá ser autorizado o aprobado por su Legislatura. También, con autorización de la Legislatura podrán dar por terminado el convenio.
+
+La Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de que se trate, ordenarán la publicación en el "Diario Oficial" de la Federación y en el Periódico Oficial del Estado, respectivamente, del convenio celebrado, por el cual el Estado se adhiera; del acto por el que se separe del sistema; y de los decretos de la Legislatura del Estado por los cuales se autoricen o aprueben dichos actos, que surtirán efectos a partir del día siguiente a la publicación que se efectúe en último lugar.
+
+La adhesión al Sistema Nacional de Coordinación Fiscal deberá llevarse a cabo integralmente y no sólo en relación con algunos de los ingresos de la Federación.
+
+El Distrito Federal queda incorporado al Sistema Nacional de Coordinación Fiscal.
+
+Los Estados que no deseen adherirse al Sistema Nacional de Coordinación Fiscal, participarán en los impuestos especiales a que se refiere el inciso 5o. de la fracción XXIX, del artículo 73 constitucional, en los términos que establecen las leyes respectivas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 10-A.
 
-Las Entidades Federativas que opten por coordinarse en los términos de la fracción I del artículo 2o. de esta Ley, no mantendrán en vigor derechos estatales o municipales por:
+Las entidades federativas que opten por coordinarse en derechos, no mantendrán en vigor derechos estatales o municipales por:
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -408,9 +388,9 @@ a).- Registro Civil.
 
 b).- Registro de la Propiedad y del Comercio.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-III.- Uso de las vías públicas o la tenencia de bienes sobre la misma, incluyendo cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos.
+III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas incluyendo, cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos ni de uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -421,8 +401,6 @@ IV.- Actos de inspección y vigilancia.
 Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al e) de la fracción I y la fracción III.
 
 (ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981) (F. DE E., D.O.F. 15 DE ABRIL DE 1982)
-
-Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
 
 Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
 
@@ -448,259 +426,237 @@ La Secretaría de Hacienda y Crédito Público hará la declaratoria de los Esta
 
 Si posteriormente en la Entidad o en los Municipios se establecen derechos contrarios a lo dispuesto en el artículo que antecede, la citada Secretaría así lo declarará, dándolo a conocer mediante declaratoria que se publicará en el Diario Oficial de la Federación, la cual empezará a regir treinta días después de la fecha de esta publicación, quedando sin efectos la coordinación en materia de derechos; en el caso de que el Estado esté inconforme con esta declaratoria, se podrá ocurrir ante la Suprema Corte de Justicia de la Nación en los términos del artículo 12 de esta Ley.
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la legislación fiscal estatal y municipal que corresponda y a falta de éstas, la de derecho común.
+Cuando alguna entidad que se hubiera adherido al Sistema Nacional de Coordinación Fiscal viole lo previsto por los artículos 73 fracción XXIX, 117 fracciones IV a VII y IX o 118 fracción I, de la Constitución Política de los Estados Unidos Mexicanos o falte al cumplimiento del o de los convenios celebrados con la Secretaría de Hacienda y Crédito Público, ésta, oyendo a la entidad afectada y teniendo en cuenta el dictamen técnico que formule la Comisión Permanente de Funcionarios Fiscales, podrá disminuir las participaciones de la entidad en una cantidad equivalente al monto estimado de la recaudación que la misma obtenga o del estímulo fiscal que otorgue, en contravención a dichas disposiciones.
 
-###### Artículo 12.
+La Secretaría de Hacienda y Crédito Público comunicará esta resolución a la entidad de que se trate, señalando la violación que la motiva, para cuya corrección la entidad contará con un plazo mínimo de tres meses. Si la entidad no efectuara la corrección, se considerará que deja de estar adherida al Sistema Nacional de Coordinación Fiscal. La Secretaría de Hacienda y Crédito Público hará la declaratoria correspondiente, la notificará a la entidad de que se trate y ordenará la publicación de la misma en el "Diario Oficial" de la Federación. Dicha declaratoria surtirá sus efectos 90 días después de su publicación.
 
-El cómputo de los términos y plazos a que se refiere la presente Ley, se realizará de conformidad con lo que establece el Código Fiscal del Estado, el Código Fiscal y Presupuestario del Municipio de Puebla y el Código Fiscal Municipal del Estado, según la autoridad que conozca del trámite o asunto de que se trate.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-###### Artículo 13.
+Las cantidades en que se reduzcan las participaciones de una entidad, en los términos de este precepto, incrementarán el Fondo General de Participaciones en el siguiente año, conforme a lo establecido en la fracción I del artículo 2o. de esta Ley.
 
-La prestación de los servicios a que se refiere la presente Ley, proporcionados ya sea por la autoridad catastral estatal o la municipal, se realizará previo pago de los derechos previstos según corresponda, en las Leyes de Ingresos del Estado o del Municipio respectivo que para cada Ejercicio Fiscal apruebe el Congreso Estatal.
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-## TÍTULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES EN EL ESTADO Y SUS ATRIBUCIONES
+###### ARTICULO 11-A.
 
-###### Artículo 14.
+Las personas que resulten afectadas por resoluciones de una entidad federativa que falten al cumplimiento del acuerdo o del convenio celebrado con la Secretaría de Hacienda y Crédito Público en materia de coordinación fiscal, podrán presentar en cualquier tiempo recurso de inconformidad ante la Secretaría de Hacienda y Crédito Público.
 
-Son autoridades catastrales en el Estado:
+El recurso de inconformidad se tramitará conforme a las disposiciones que sobre el recurso de revocación establece el Código Fiscal de la Federación, con las siguientes modalidades:
 
-I. El Gobernador del Estado;
+I.- La Secretaría de Hacienda y Crédito Público oirá a la entidad de que se trate.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+II.- La Secretaría de Hacienda y Crédito Público solicitará un dictamen técnico a la Junta de Coordinación Fiscal.
 
-II. El Secretario de Finanzas y Administración;
+III.- El plazo para resolver el recurso será de un mes a partir de la fecha en que la Secretaría de Hacienda y Crédito Público reciba el dictamen a que se refiere la fracción anterior.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+IV.- La resolución podrá ordenar a la Tesorería de la Federación la devolución de las cantidades indebidamente cobradas, con cargo a las participaciones de la entidad. A estas devoluciones les será aplicable lo que al respecto establece el Código Fiscal de la Federación.
 
-III. El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
+La resolución podrá ser impugnada ante el Tribunal Fiscal de la Federación por los promoventes del recurso.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Las entidades federativas podrán ocurrir ante la Suprema Corte de Justicia de la Nación, en los términos del artículo 12 de esta Ley.
 
-IV. El Director General del Instituto;
+###### ARTICULO 12.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+El Estado inconforme con la declaratoria por la que se considera que deja de estar adherido al Sistema Nacional de Coordinación Fiscal podrá ocurrir ante la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Orgánica del Poder Judicial Federal, demandando la anulación de la declaratoria que se haya dictado conforme al artículo anterior de esta Ley.
 
-V. El Director de Catastro;
+El juicio deberá promoverse dentro de los 30 días siguientes a la fecha en que se hubiera publicado en el "Diario Oficial" de la Federación la citada declaratoria. Con la demanda se ofrecerán pruebas y se acompañarán las documentales de que disponga el Estado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Se correrá traslado de la demanda al Ejecutivo Federal y a la Secretaría de Hacienda y Crédito Público, para que la contesten en el plazo de 30 días y ofrezcan pruebas, acompañando las documentales de que dispongan.
 
-VI. El Subdirector de Información Territorial;
+Al admitirse la demanda se señalará la fecha para la celebración de una audiencia, que habrá de verificarse antes de los 90 días siguientes y, dentro de este término, tanto el Estado que haya promovido el juicio, como el Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público podrán aportar las pruebas ofrecidas y que no hubieran presentado con la demanda o contestación. En la audiencia formularán alegatos y la Suprema Corte de Justicia de la Nación pronunciará su fallo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Desde la admisión de la demanda se suspenderán los efectos de la declaratoria impugnada, por 150 días. El fallo de la Suprema Corte de Justicia de la Nación producirá efectos 30 días después de su publicación en el "Diario Oficial" de la Federación.
 
-VII. El Subdirector de Gestión Catastral;
+La Suprema Corte de Justicia de la Nación ordenará la publicación en el "Diario Oficial" de la Federación, tanto de la suspensión de los efectos de la declaratoria impugnada, como de los puntos resolutivos del fallo de la Suprema Corte de Justicia de la Nación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+En caso de que la Secretaría de Hacienda y Crédito Público infringiera las disposiciones legales y convenios relativos a la coordinación fiscal en perjuicio de una entidad federativa, ésta podrá reclamar su cumplimiento ante la Suprema Corte de Justicia de la Nación, siguiendo en lo aplicable el procedimiento establecido en este artículo.
 
-VIII. Los Delegados Catastrales del Instituto;
+###### ARTICULO 13.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los Gobiernos de los Estados que se hubieran adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia de administración de ingresos federales, que comprenderán las funciones de registro federal de contribuyentes, recaudación, fiscalización y administración, que serán ejercidas por las autoridades fiscales de las entidades o de los Municipios cuando así se pacte expresamente.
 
-IX. Los Presidentes Municipales;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+En los convenios a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dichos convenios se publicarán en el Periódico Oficial del Estado y en el “Diario Oficial” de la Federación, y surtirán sus efectos a partir del día siguiente de la publicación en este último.
 
-X. Los Tesoreros Municipales;
+La Federación o el Estado podrán dar por terminados parcial o totalmente los convenios a que se refiere este precepto, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+El Ejecutivo Federal, mediante acuerdo, coordinará a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal, en las materias a que este precepto se refiere. Las facultades que se otorguen al Departamento del Distrito Federal serán ejercidas por las autoridades fiscales del mismo.
 
-XI. El Director de Catastro Municipal o Titular de la Unidad Administrativa Municipal que ejerza facultades en materia de Catastro, cualquiera que sea su denominación;
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+En los convenios y en el acuerdo señalado en este precepto, se fijarán las percepciones que recibirán las Entidades o sus Municipios, por las actividades de administración fiscal que realicen.
 
-XII. Los Jefes del Departamento de Catastro Municipal o Titular del área equivalente a éste que ejerza facultades en materia de Catastro, cualquiera que sea su denominación, y
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+###### ARTICULO 14.
 
-XIII. Los demás servidores públicos a los que las leyes les otorguen facultades específicas en materia catastral y a los que mediante Acuerdo o Convenio debidamente publicados en el Periódico Oficial del Estado, les sean conferidas o delegadas atribuciones.
+Las autoridades fiscales de las entidades que se encuentren adheridas al Sistema Nacional de Coordinación Fiscal y las de sus Municipios, en su caso, serán consideradas, en el ejercicio de las facultades a que se refieren los convenios o acuerdos respectivos, como autoridades fiscales federales. En contra de los actos que realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes federales.
 
-###### Artículo 15.
+La Secretaría de Hacienda y Crédito Público conservará la facultad de fijar a las entidades y a sus Municipios los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los convenios y acuerdos respectivos.
 
-Son atribuciones del Gobernador del Estado en materia Catastral:
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-I. Establecer las políticas generales;
+###### ARTICULO 15.
 
-II. Suscribir convenios y acuerdos de coordinación y colaboración con las Dependencias y Entidades de la Administración Pública Federal, así como con otras Entidades Federativas, en la materia y en las que se vinculen con ésta; y
+La recaudación de los ingresos federales se hará por las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público o por las oficinas autorizadas por las Entidades según se establezca en los convenios o acuerdos respectivos.
 
-III. Las demás que le determine esta Ley y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Cuando la entidad recaude ingresos federales, los concentrará directamente a dicha Secretaría y rendirá cuenta pormenorizada de recaudación. La Secretaría, también directamente, hará el pago a las entidades de las cantidades que les correspondan en el Fondo establecido en el artículo 2o. y pondrá a su disposición la información correspondiente. Se podrá establecer, si existe acuerdo entre las partes interesadas, un procedimiento de compensación permanente.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+Como excepción a lo dispuesto en el párrafo anterior, las Entidades, sin perjuicio de rendir su cuenta comprobada por la totalidad de la recaudación que efectúen y de las cantidades que reciban del impuesto al valor agregado, sólo concentrarán a la Secretaría de Hacienda y Crédito Público el 20% del impuesto sobre tenencia o uso de vehículos, cuando estén coordinadas con la Federación en materia de adquisición de inmuebles.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+La falta de entero en los plazos establecidos dará lugar a que las cantidades respectivas se actualicen por inflación y a que se causen, a cargo de la Entidad o de la Federación, intereses a la tasa de recargos que establezca anualmente el Congreso de la Unión para los casos de autorizaciones de pago a plazo de contribuciones.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+La Secretaría de Hacienda y Crédito Público podrá compensar las cantidades no concentradas por la entidad, con las cantidades que a ésta correspondan en los fondos de participaciones establecidos por esta Ley.
 
 ###### ARTICULO 15-A.
 
-Las entidades federativas que por el ejercicio de sus facultades de comprobación respecto de contribuyentes menores, determinen que éstos han dejado de ser menores, participarán del 80% de la recaudación que obtenga la Federación del impuesto sobre la renta a las actividades empresariales de dichos contribuyentes por los tres años siguientes a la fecha en que se inició el ejercicio de tales facultades. Las entidades federativas informarán de esta circunstancia a la Secretaría de Hacienda y Crédito Público.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-Si el contribuyente acumula otros ingresos a los que obtenga por la realización de actividades empresariales, el 80% se calculará por el impuesto que proporcionalmente corresponda a dichas actividades empresariales.
+### CAPITULO III. De la Colaboración Administrativa Entre las Entidades y la Federación
 
-Durante el periodo señalado, el total de la recaudación a que se refiere el párrafo primero se considerará dentro de los impuestos asignables a la entidad federativa de que se trate.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS PROPIETARIOS O POSEEDORES DE PREDIOS
+###### ARTICULO 16.
 
-###### Artículo 16.
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los gobiernos de las entidades, por medio de su órgano hacendario, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema Nacional de Coordinación Fiscal, a través de:
 
-Son atribuciones de las autoridades catastrales:
+I.- La Reunión Nacional de Funcionarios Fiscales.
 
-I. Integrar, administrar, conservar y mantener actualizada la información catastral del Estado con base en la que genere el Instituto y la que le proporcionen los municipios, fedatarios públicos, particulares y dependencias oficiales;
+II.- La Comisión Permanente de Funcionarios Fiscales.
 
-II. Integrar, administrar y actualizar los Padrones de Peritos Valuadores de Predios del Estado de Puebla y de Peritos Topógrafos del Estado de Puebla;
+III.- El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC).
 
-III. Suscribir y ejecutar los convenios y acuerdos de colaboración celebrados con las Dependencias o Entidades de la Administración Pública Federal, Estatal o Municipal, así como organizaciones vinculadas con los servicios catastrales, a efecto de difundir o mejorar la función catastral;
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-IV. Coadyuvar con los Ayuntamientos de la Entidad que lo soliciten en la determinación de los valores catastrales unitarios provisionales de suelo y construcción;
+IV.- La Junta de Coordinación Fiscal.
 
-V. Recibir, clasificar, guardar, custodiar y depurar el archivo electrónico del Instituto, de conformidad con las disposiciones legales y normatividad aplicables;
+###### ARTICULO 17.
 
-VI. Notificar de conformidad con las disposiciones legales y normatividad aplicables los actos administrativos derivados de los procedimientos catastrales;
+La Reunión Nacional de Funcionarios Fiscales se integrará por el Secretario de Hacienda y Crédito Público y por el titular del órgano hacendario de cada entidad. La Reunión será presidida conjuntamente por el Secretario de Hacienda y Crédito Público y el funcionario de mayor jerarquía presente en la Reunión, de la entidad en que ésta se lleve a cabo.
 
-VII. Vigilar en el ámbito de su competencia, que los sujetos obligados o responsables solidarios cumplan con las disposiciones fiscales;
+El Secretario de Hacienda y Crédito Público podrá ser suplido por el Subsecretario de Ingresos, y los titulares del área hacendaria de las entidades por la persona que al efecto designen.
 
-VIII. Solicitar información a las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, de los datos, documentos e informes que se consideren necesarios para el ejercicio de las funciones catastrales en el Estado;
+###### ARTICULO 18.
 
-IX. Llevar a cabo, en el ámbito de su competencia, las acciones correspondientes al programa para la regularización de la propiedad inmobiliaria de predios rústicos en el Estado de Puebla;
+La Reunión Nacional de Funcionarios Fiscales sesionará, cuando menos, una vez al año en el lugar del territorio nacional que elijan sus integrantes. Será convocada por el Secretario de Hacienda y Crédito Público o por la Comisión Permanente de Funcionarios Fiscales.
 
-X. Cancelar en los casos que proceda y de conformidad con las disposiciones legales y normatividad aplicables, el registro catastral de los predios;
+En la convocatoria se señalarán los asuntos de que deba ocuparse la Reunión.
 
-XI. Valuar y/o revaluar los predios del Estado de Puebla, de conformidad con las disposiciones legales y normatividad aplicables;
+###### ARTICULO 19.
 
-XII. Inscribir en el padrón Catastral los predios de los propietarios o poseedores, y en los casos que proceda, realizar su cancelación o modificación, en términos de esta Ley y demás disposiciones legales aplicables;
+Serán facultades de la Reunión Nacional de Funcionarios Fiscales:
 
-XIII. Actualizar la cartografía catastral del Estado;
+I.- Aprobar los reglamentos de funcionamiento de la propia Reunión Nacional, de la Comisión Permanente de Funcionarios Fiscales y del Instituto para el Desarrollo Técnico de las Haciendas Públicas.
 
-XIV. Realizar la inspección de los predios ubicados en la circunscripción territorial del Estado para efectos catastrales y de valuación comercial;
+II.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que deban cubrir la Federación y las entidades, para el sostenimiento de los órganos citados en la fracción anterior.
 
-XV. Coadyuvar con los municipios de la Entidad que lo soliciten, en la elaboración de las propuestas de tablas de valores y de zonificación catastral, que les servirán de base para el cobro de las contribuciones a la propiedad inmobiliaria;
+III.- Fungir como asamblea general del Instituto para el Desarrollo Técnico de las Haciendas Públicas y aprobar sus presupuestos y programas.
 
-XVI. Coadyuvar, en el ámbito de su competencia, con las instancias responsables para la definición y determinación de los límites del territorio del Estado y sus municipios;
+IV.- Proponer al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público y a los gobiernos de los Estados, por conducto del titular de su órgano hacendario, las medidas que estime convenientes para actualizar o mejorar el Sistema Nacional de Coordinación Fiscal.
 
-XVII. Realizar los levantamientos prediales, fotogramétricos, geodésicos o cualquier otro mediante los que se efectúe la exploración y estudio del territorio del Estado que le sean requeridos por los propietarios o poseedores de los predios, por los particulares o por las Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal;
+###### ARTICULO 20.
 
-XVIII. Realizar la investigación de los valores del mercado inmobiliario, así como de la infraestructura, equipamiento urbano y costos de construcción para la emisión de avalúos comerciales y propuesta de valores catastrales unitarios;
+La Comisión Permanente de Funcionarios Fiscales se integrará conforme a las siguientes reglas:
 
-XIX. Resolver las aclaraciones que promuevan los propietarios o poseedores de predios, en términos de lo previsto por esta Ley y demás disposiciones legales y normatividad aplicable;
+I.- Estará formada por la Secretaría de Hacienda y Crédito Público y por ocho entidades. Será presidida conjuntamente por el Secretario de Hacienda y Crédito Público, que podrá ser suplido por el Subsecretario de Ingresos de dicha Secretaría, y por el titular del órgano hacendario que elija la Comisión entre sus miembros. En esta elección no participará la Secretaría de Hacienda y Crédito Público.
 
-XX. Resolver las consultas que sobre situaciones reales y concretas, formulen los interesados en materia catastral;
+II.- Las entidades estarán representadas por las ocho que al efecto elijan, las cuales actuarán a través del titular de su órgano hacendario o por la persona que éste designe para suplirlo.
 
-XXI. Resolver de conformidad con la legislación aplicable, en el ámbito de sus respectivas competencias, el recurso administrativo de revisión catastral que se interponga en contra de los actos emitidos por las autoridades catastrales;
+III.- Las entidades que integren la Comisión Permanente serán elegidas por cada uno de los grupos que a continuación se expresan, debiendo representarlos en forma rotativa:
 
-XXII. Recibir los recursos administrativos de revisión catastral que se interpongan contra los actos emitidos por las autoridades catastrales, en los casos previstos en esta Ley y, turnarlos de manera inmediata con los antecedentes respectivos a la Unidad Administrativa competente para conocer y substanciar los mismos hasta dejarlos en estado de resolución;
+GRUPO UNO: Baja California, Baja California Sur, Sonora y Sinaloa.
 
-XXIII. Imponer, de conformidad con los ordenamientos aplicables, los convenios y sus anexos suscritos entre el Estado con la Federación o con los municipios, las sanciones por el incumplimiento a las disposiciones en materia catastral, y
+GRUPO DOS: Chihuahua. Coahuila, Durango y Zacatecas.
 
-XXIV. Las demás que le señalen esta Ley, el Decreto de Creación del Instituto y el Reglamento Interior del Instituto, así como otras disposiciones legales y normatividad aplicables en la materia.
+GRUPO TRES: Hidalgo, Nuevo León, Tamaulipas y Tlaxcala.
 
-Las atribuciones contenidas en este artículo, se podrán ejercer por las autoridades catastrales del Estado, en los términos que se establezcan en el Decreto de Creación del Instituto, en su Reglamento Interior y demás disposiciones legales aplicables en la materia.
+> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
 
-Las autoridades catastrales municipales ejercerán sus atribuciones dentro de la circunscripción territorial de su propio Municipio, en los términos que establezca su respectiva legislación en la materia.
+GRUPO CUATRO: Aguascalientes, Colima, Jalisco y Nayarit.
 
-###### Artículo 17.
+GRUPO CINCO: Guanajuato, Michoacán, Querétaro y San Luis Potosí.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
+GRUPO SEIS: Distrito Federal, Guerrero, México y Morelos.
 
-###### Artículo 18.
+GRUPO SIETE: Chiapas, Oaxaca, Puebla y Veracruz.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
+GRUPO OCHO: Campeche, Quintana Roo, Tabasco y Yucatán.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+IV.- Las entidades miembros de la Comisión Permanente durarán en su encargo dos años y se renovarán anualmente por mitad; pero continuarán en funciones, aún después de terminado su período, en tanto no sean elegidas las que deban sustituirlas.
 
-###### Artículo 19.
+V.- La Comisión Permanente será convocada por el Secretario de Hacienda y Crédito Público, por el Subsecretario de Ingresos o por tres de los miembros de dicha Comisión. En la convocatoria se señalarán los asuntos que deban tratarse.
 
-Los Delegados Catastrales representarán al Instituto en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita la Secretaría de Finanzas y Administración.
+> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
 
-###### Artículo 20.
+###### ARTICULO 21.
 
-Son atribuciones de las autoridades catastrales municipales:
+Serán facultades de la Comisión Permanente de Funcionarios Fiscales:
 
-I. Integrar, administrar y mantener actualizado el padrón catastral de su Municipio, de conformidad con los procedimientos previstos en esta Ley y demás disposiciones aplicables;
+I.- Preparar las Reuniones Nacionales de Funcionarios Fiscales y establecer los asuntos de que deban ocuparse.
 
-II. Cancelar en los casos que proceda y de conformidad con las disposiciones aplicables, el registro catastral de los predios ubicados en su circunscripción territorial;
+II.- Preparar los proyectos de distribución de aportaciones ordinarias y extraordinarias que deban cubrir la Federación y las entidades para el sostenimiento de los órganos de coordinación, los cuales someterá a la aprobación de la Reunión Nacional de Funcionarios Fiscales.
 
-III. Inscribir en el padrón catastral del Municipio, los predios que se ubiquen dentro de su circunscripción territorial y asignarles la respectiva clave catastral;
+III.- Fungir como consejo directivo del Instituto para el Desarrollo Técnico de las Haciendas Públicas y formular informes de las actividades de dicho Instituto y de la propia Comisión Permanente, que someterá a la aprobación de la Reunión Nacional.
 
-IV. Registrar los cambios que se operen en los predios ubicados en la circunscripción del Municipio y que por cualquier concepto modifiquen los datos contenidos en el Padrón Catastral;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-V. Producir y conservar la información catastral con apego a la normatividad establecida por el Instituto; así como realizar, coordinar y supervisar las operaciones catastrales en el ámbito de su jurisdicción;
+IV.- Vigilar la creación e incremento de los Fondos señalados en esta Ley, su distribución entre las Entidades y las liquidaciones anuales que de dichos Fondos formule la Secretaría de Hacienda y Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de acuerdo con esta Ley debe efectuar la Secretaría de Hacienda y Crédito Público y los Estados.
 
-VI. Solicitar a las Dependencias y Entidades Federales, Estatales y Municipales, así como a los propietarios o poseedores de predios, los datos, documentos e informes que sean necesarios para coadyuvar a la integración y actualización del padrón catastral;
+V.- Formular los dictámenes técnicos a que se refiere el artículo 11 de esta Ley.
 
-VII. Recibir de los propietarios o poseedores, las solicitudes de inscripción de predios, que se realicen mediante la localización geográfica de éstos en la cartografía correspondiente;
+VI.- Las demás que le encomienden la Reunión Nacional de Funcionarios Fiscales, la Secretaría de Hacienda y Crédito Público y los titulares de los órganos hacendarios de las entidades.
 
-VIII. Celebrar Convenios de Coordinación y Colaboración Administrativa con el Gobierno del Estado o con otros Municipios de la Entidad, de conformidad con las disposiciones aplicables, para el ejercicio de las atribuciones y competencias conferidas en esta Ley;
+###### ARTICULO 22.
 
-IX. Determinar los valores catastrales correspondientes a cada predio, con apego a la zonificación catastral y de valores unitarios vigentes al momento de su determinación, los que servirán, entre otros fines, para calcular las contribuciones sobre la propiedad inmobiliaria, fraccionamiento de ésta, división, consolidación, traslación, mejora y los que tengan como base el valor de los predios;
+El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC), es un organismo público, con personalidad jurídica y patrimonio propios, con las siguientes funciones:
 
-X. Localizar cada predio mediante su deslinde y medida e incorporarlo a la cartografía catastral, con observancia de los métodos que determine el Instituto;
+I.- Realizar estudios relativos al sistema nacional de coordinación fiscal.
 
-XI. Elaborar y actualizar permanentemente la cartografía catastral del territorio de su Municipio, conforme a lo dispuesto en esta Ley y las disposiciones aplicables;
+> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
 
-XII. Llevar a cabo, de conformidad con las disposiciones aplicables, la inspección de los predios ubicados en la circunscripción territorial de su Municipio, con el objeto de obtener información para conformar y actualizar su catastro y determinar la base de las contribuciones sobre la propiedad inmobiliaria;
+II.- Hacer estudios permanentes de la legislación tributaria vigente en la Federación y en cada una de las entidades, así como de las respectivas administraciones.
 
-XIII. Efectuar la investigación de valores del mercado inmobiliario, así como de la infraestructura, equipamiento urbano y costos de construcción que servirán de base a la propuesta de zonas catastrales y tablas de valores unitarios de suelo y construcción;
+> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1979)</small>
 
-XIV. Solicitar al Instituto el apoyo y asesoría técnica que requieran, para la elaboración de su zonificación catastral, tablas de valores unitarios de suelo y construcción, propuestas de tasas y cuotas aplicables a los impuestos inmobiliarios, así como para la administración y gestión de la información catastral;
+III.- Sugerir medidas encaminadas a coordinar la acción impositiva federal y local, para lograr la más equitativa distribución de los ingresos entre la Federación y las entidades.
 
-XV. Presentar al Congreso del Estado, a través del Ejecutivo Estatal, previa autorización de cuando menos las dos terceras partes del Cabildo y en términos de las disposiciones aplicables, las propuestas de zonas catastrales y de las tablas de valores unitarios de suelo y construcción que sirvan de base para el cálculo y cobro de las contribuciones sobre la propiedad inmobiliaria;
+IV.- Desempeñar las funciones de secretaría técnica de la Reunión Nacional y de la Comisión Permanente de Funcionarios Fiscales.
 
-XVI. Verificar que en la Iniciativa de la Ley de Ingresos del Municipio que habrá de enviarse al Congreso del Estado, se establezcan las tasas y cuotas para el cobro de las contribuciones sobre la propiedad inmobiliaria, las que deberán observar los principios de proporcionalidad y equidad;
+V.- Actuar como consultor técnico de las haciendas públicas.
 
-XVII. Proponer al Ayuntamiento, la suscripción de convenios de coordinación, colaboración y asistencia técnica en materia catastral, con el Gobierno del Estado o con otros Municipios de la Entidad;
+VI.- Promover el desarrollo técnico de las haciendas públicas municipales.
 
-XVIII. Verificar que los valores catastrales de suelo y construcción se elaboren y apliquen conforme a las normas técnicas y de actualización que para tal efecto emita el Instituto;
+VII.- Capacitar técnicos y funcionarios fiscales.
 
-XIX. Valuar y revaluar los predios ubicados en su circunscripción territorial, conforme a las disposiciones contenidas en esta Ley y la normatividad que para tal efecto emita el Instituto;
+VIII.- Desarrollar los programas que apruebe la Reunión Nacional de Funcionarios Fiscales.
 
-XX. Expedir avalúos catastrales, cédulas catastrales y constancias de información de los predios ubicados en su circunscripción territorial;
+Para el desempeño de las funciones indicadas el Instituto podrá participar en programas con otras instituciones u organismos que realicen actividades similares.
 
-XXI. Promover la realización de las acciones que resulten necesarias para coadyuvar con el Instituto en el cumplimiento de sus objetivos y lograr la consolidación y desarrollo del Catastro del Estado;
+###### ARTICULO 23.
 
-XXII. Proporcionar al Instituto, en términos de esta ley, la información y documentación necesaria para integrar y mantener actualizado el Catastro del Estado, para efectos de planeación y programación;
+Los órganos del Instituto a que se refiere el artículo anterior, serán:
 
-XXIII. Difundir y comercializar la información catastral y territorial de carácter público contenida en sus bases de datos que sea susceptible de tales acciones;
+I.- El director general, que tendrá la representación del mismo.
 
-XXIV. Proporcionar información catastral a propietarios, poseedores, fedatarios públicos y particulares interesados, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables;
+II.- La asamblea general que aprobará sus estatutos, reglamentos, programas y presupuesto. La Reunión Nacional de Funcionarios Fiscales fungirá como asamblea general del Instituto.
 
-XXV. Certificar, a solicitud de los interesados, copias de los planos, y demás documentos relacionados con los predios inscritos en el Catastro de su Municipio;
+III.- El consejo directivo que tendrá las facultades que señalen los estatutos. Fungirá como consejo directivo la Comisión Permanente de Funcionarios Fiscales.
 
-XXVI. Conocer de las aclaraciones que promuevan los propietarios o poseedores de predios, en términos de lo previsto por esta Ley;
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-XXVII. Conocer y resolver los recursos administrativos de revisión que se interpongan en contra de los actos emanados por las autoridades catastrales municipales;
+###### ARTICULO 24.
 
-XXVIII. Imponer las sanciones que procedan en los términos de la presente Ley; y
-
-XXIX. Las demás que en materia de su competencia les señalen esta Ley, los Convenios y sus Anexos y otras disposiciones aplicables en la materia.
-
-###### Artículo 21.
-
-Las autoridades catastrales, proporcionarán la información y documentación a que se refiere esta Ley, siempre y cuando no se trate de información y documentación clasificada como reservada o confidencial, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y demás disposiciones aplicables.
-
-## TÍTULO TERCERO. DE LAS OBLIGACIONES
-
-###### Artículo 22.
-
-Los propietarios o poseedores de predios están obligados a presentar la solicitud de inscripción de éstos ante la autoridad catastral municipal de la jurisdicción en que se encuentren ubicados los bienes, en un plazo que no excederá de treinta días contados a partir de la realización del acto jurídico o hecho en que se adquirió o transmitió el dominio de la propiedad o la posesión de los mismos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-En un plazo que no excederá de treinta días hábiles, contados a partir de la terminación de obras o de la realización de los actos o hechos que la originen, se deberá declarar la modificación de los datos asentados en el registro catastral del predio, en los siguientes casos:
-
-I. Nuevas construcciones, reconstrucciones o la demolición parcial o total del predio;
-
-II. La rectificación del área de la superficie de terreno;
-
-III. La fusión, división o fraccionamiento de terrenos; y
-
-IV. Cualquier otro cambio que modifique los datos contenidos en el registro catastral del predio.
-
-###### Artículo 23.
-
-Los propietarios o poseedores, sus representantes, administradores o cualquier otra persona encargada de un predio, están obligados a proporcionar a las autoridades catastrales o a los servidores públicos acreditados, los datos, títulos, planos, contratos o cualquier otra documentación e informes que en materia catastral les soliciten; permitiendo en su caso, el acceso al predio para efectuar la inspección y el levantamiento predial, de conformidad con lo dispuesto en esta Ley.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 24.
-
-En caso de que el propietario o poseedor de algún predio no solicite la inscripción de éste, la autoridad catastral realizará de oficio el registro correspondiente, de conformidad con lo previsto en esta Ley y de resultar alguna erogación económica por esta actividad, será a costa del infractor, conforme a las contribuciones que establezca el Congreso del Estado para cada ejercicio fiscal, sin perjuicio de imponer las sanciones que procedan.
+La Junta de Coordinación Fiscal se integra por los representantes que designe la Secretaría de Hacienda y Crédito Público y los titulares de los órganos hacendarios de las ocho entidades que forman la Comisión Permanente de Funcionarios Fiscales.
 
 ###### Artículo 25.
 
@@ -774,13 +730,11 @@ Las autoridades municipales que instrumenten programas de desarrollo regional y 
 
 Las autoridades competentes en materia de regularización de la tenencia de la tierra, deberán proporcionar a la autoridad catastral, la cartografía o planos de los predios regularizados, dentro de los treinta días hábiles siguientes a la fecha de su inscripción en el Registro Público de la Propiedad, acompañando los datos de inscripción.
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y DEMÁS OBLIGADOS
+### CAPITULO IV. De los Organismos en Materia de Coordinación
 
 ###### Artículo 38.
 
 Las autoridades municipales deberán proteger y resguardar la información catastral bajo su custodia, a fin de garantizar su entrega a la siguiente administración municipal y elaborarán el inventario de la cartografía, bases de datos y demás información catastral, remitiendo copia al Instituto al menos sesenta días antes de que concluya la administración.
-
-## TÍTULO CUARTO. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
 
 ###### Artículo 39.
 
@@ -801,8 +755,6 @@ En aquellos casos en que la autoridad considere procedente la autorización para
 En los casos de edificaciones construidas bajo el Régimen de Propiedad en Condominio, deberá fijarse valor a cada uno de los departamentos, despachos o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes, de conformidad a lo que establece esta Ley y demás disposiciones aplicables.
 
 En tales casos, a cada departamento, despacho o local, se le asignará registro Catastral por separado.
-
-## TÍTULO QUINTO. DE LAS OPERACIONES CATASTRALES
 
 ###### Artículo 43.
 
@@ -827,8 +779,6 @@ VIII. Zonificación catastral;
 IX. Determinación de tablas de valores unitarios; y
 
 X. Censo catastral.
-
-### CAPÍTULO II. DEL REGISTRO CATASTRAL
 
 ###### Artículo 44.
 
@@ -868,13 +818,9 @@ IV. Cuando lo determine la autoridad competente con fundamento en la legislació
 
 Una vez hechas las cancelaciones a que se refiere este artículo, las autoridades realizarán las modificaciones correspondientes, en los términos de esta Ley.
 
-### CAPÍTULO III. DEL LEVANTAMIENTO PREDIAL
-
 ###### Artículo 51.
 
 El levantamiento predial comprende la localización, precisión, medición y delimitación de los predios.
-
-### CAPÍTULO IV. DE LA INSPECCIÓN CATASTRAL
 
 ###### Artículo 52.
 
@@ -884,13 +830,9 @@ La inspección catastral comprende la constitución física en el predio con el 
 
 Al inicio de la inspección, el personal acreditado para llevarla a cabo, deberá identificarse con la credencial vigente que para tal efecto le expida la autoridad catastral, además de observar las disposiciones contenidas en el Capítulo XII de este Título que le resulten aplicables.
 
-### CAPÍTULO V. DE LA CARTOGRAFÍA CATASTRAL
-
 ###### Artículo 54.
 
 Cartografía catastral es el conjunto de planos, mapas y bases de datos geográficas que contienen información relativa a los predios y su entorno. Su elaboración, clasificación, conservación y difusión, deberán sujetarse a las disposiciones que en la materia emita el Instituto.
-
-### CAPÍTULO VI. DE LA VALUACIÓN CATASTRAL
 
 ###### Artículo 55.
 
@@ -907,8 +849,6 @@ II. Costo y calidad de los materiales de construcción utilizados; y
 III. Costo de la mano de obra empleada.
 
 Con la información resultante, la autoridad catastral procederá de oficio a realizar la inscripción o actualización de que se trate, sin perjuicio de aplicar las sanciones que correspondan.
-
-### CAPÍTULO VII. DE LA REVALUACIÓN CATASTRAL
 
 ###### Artículo 57.
 
@@ -934,8 +874,6 @@ La revaluación catastral motivada por la aprobación de nuevas tablas de valore
 
 Todos los predios de la Entidad, sin excepción, son susceptibles de valuación o revaluación por las autoridades catastrales, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO VIII. DE LOS VALORES UNITARIOS
-
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 59.
@@ -956,13 +894,9 @@ La vigencia de los valores a que se refiere el párrafo anterior, no podrá exce
 
 El valor catastral o catastral provisional resultante de la valuación o reevaluación, surtirá sus efectos a partir del momento en que se realicen éstas.
 
-### CAPÍTULO IX. DE LA ZONIFICACIÓN CATASTRAL
-
 ###### Artículo 62.
 
 Zonificación catastral es la delimitación de las localidades urbanas por zonas homogéneas en función de su uso, destino, infraestructura y equipamiento.
-
-### CAPÍTULO X. DE LAS TABLAS DE VALORES UNITARIOS
 
 ###### Artículo 63.
 
@@ -992,8 +926,6 @@ Las tablas de valores tendrán vigencia del 1 de enero al 31 de diciembre de cad
 
 Si concluida la vigencia a que se refiere el párrafo anterior, el Gobierno Municipal respectivo no presenta ante el Congreso del Estado, propuesta de nuevas tablas de valores, se prorrogará la misma hasta en tanto sean presentadas las del siguiente año.
 
-### CAPÍTULO XI. DEL CENSO CATASTRAL
-
 ###### Artículo 68.
 
 El censo catastral es el programa masivo de levantamiento e inspección predial llevado a cabo por las autoridades catastrales con objeto de actualizar la cartografía y bases de datos catastrales del territorio.
@@ -1014,10 +946,6 @@ Durante la práctica del censo catastral, los propietarios o poseedores de predi
 
 Las autoridades catastrales podrán efectuar el censo catastral a través de terceros autorizados para tal fin, quienes en todo momento se sujetarán a lo dispuesto por esta Ley.
 
-### CAPÍTULO XII. DE LAS DISPOSICIONES GENERALES
-
-DE LAS OPERACIONES CATASTRALES
-
 ###### Artículo 73.
 
 Las autoridades catastrales que de oficio realicen operaciones catastrales que impliquen actos de molestia a los propietarios o poseedores de predios, deberán iniciarlas por mandamiento escrito debidamente fundado y motivado, emitido por la autoridad catastral competente.
@@ -1026,433 +954,7 @@ Las autoridades catastrales que de oficio realicen operaciones catastrales que i
 
 La autoridad catastral municipal en los casos que proceda, deberá notificar a los propietarios o poseedores de predios, las operaciones catastrales que pretenda realizar.
 
-###### Artículo 75.
-
-Si por alguna circunstancia la autoridad no puede notificar a los propietarios o poseedores de predios, ya sea por ausencia o por que éstos se nieguen a recibir el documento, la notificación se realizará conforme lo dispone el Código Fiscal del Estado de Puebla o la legislación fiscal municipal que le resulte aplicable.
-
-###### Artículo 76.
-
-Cuando la autoridad catastral competente, a solicitud, practique actos de delimitación, de rectificación o de aclaración de linderos, deberá hacerlo en presencia de los propietarios o poseedores legítimos y de sus similares colindantes, o de sus representantes legales si estuvieren presentes, quienes deberán ser notificados previamente, para que manifiesten las aclaraciones o lo que a su derecho convenga. El solicitante pagará los derechos correspondientes a la operación catastral.
-
-De las actuaciones anteriores, se levantará acta circunstanciada, que firmarán quienes hubiesen intervenido, entregándose copia a cada uno de ellos para el ejercicio de sus derechos.
-
-###### Artículo 77.
-
-En los casos que proceda, las autoridades darán a conocer a los propietarios o poseedores de predios, por escrito debidamente fundado y motivado, el resultado de las operaciones catastrales que hayan realizado.
-
-###### Artículo 78.
-
-El resultado de las operaciones que realicen las autoridades catastrales, en ninguna forma acreditará la propiedad o posesión del predio de que se trate, por lo que no generará derecho alguno.
-
-## TÍTULO SEXTO. DE LOS PADRONES DE PERITOS VALUADORES Y PERITOS TOPÓGRAFOS
-
-### CAPÍTULO I. DEL PADRÓN DE PERITOS VALUADORES
-
-###### Artículo 79.
-
-Se establece el Padrón de Peritos Valuadores de Predios del Estado de Puebla, el cual estará integrado y administrado por el Instituto, como instrumento de consulta y apoyo a la sociedad en el ejercicio de la valuación comercial.
-
-###### Artículo 80.
-
-El ejercicio de la valuación en el Estado, por parte de los Peritos registrados en el Padrón a que se refiere este Capítulo, se regirá conforme a las disposiciones que establece esta Ley y demás que para tales efectos emita el Instituto.
-
-###### Artículo 81.
-
-Para los efectos de la presente Ley, la función de Perito Valuador consiste en determinar el valor comercial y la renta de predios, a través del avalúo o dictamen de arrendamiento correspondiente.
-
-###### Artículo 82.
-
-Los aspirantes a registrarse en el Padrón de Peritos Valuadores de Predios del Estado de Puebla, deberán presentar por escrito ante el Instituto la solicitud correspondiente y cumplir además los requisitos siguientes:
-
-l. Tener cédula profesional de valuador de predios, arquitecto, ingeniero civil, agrónomo u otra profesión afín, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública, y contar con la certificación del Instituto, asociación o colegio profesional de valuación comercial de predios al que pertenezca;
-
-II. Estar en ejercicio activo de su profesión y tener experiencia cuando menos de tres años, en materia de valuación comercial de predios; y
-
-III. Los demás que para tales efectos determine y emita el Instituto.
-
-Para efectos de la fracción II de este artículo, las personas morales deberán presentar el currículum de la empresa, así como copia simple del acta constitutiva con la que acrediten que dentro de su objeto se encuentra el de expedir avalúos comerciales.
-
-###### Artículo 83.
-
-El Instituto efectuará el registro en el Padrón correspondiente, una vez cumplidos los requisitos previstos en el artículo anterior y expedirá la constancia respectiva en un plazo que no excederá de 15 días.
-
-###### Artículo 84.
-
-Son obligaciones de los Peritos Valuadores registrados en el Padrón:
-
-I. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
-
-II. Asentar en los avalúos y en los dictámenes de arrendamiento, los datos que correspondan a la realidad, y determinar los valores de acuerdo a lo establecido por las disposiciones que para tales efectos emita el Instituto;
-
-III. Efectuar la inspección al predio objeto del avalúo;
-
-IV. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto; en los que exista interés por parte de alguno de sus parientes consanguíneos en línea recta sin limitación de grado, colateral dentro del cuarto grado, y por afinidad dentro del segundo grado; en los que tenga amistad o enemistad con las partes, así como relación civil o mercantil con alguna de ellas;
-
-V. Integrar los avalúos que expida, con los datos complementarios requeridos por la normatividad expedida por el Instituto; y
-
-VI. Las demás que les señalen esta Ley y las disposiciones aplicables.
-
-###### Artículo 85.
-
-Los Peritos Valuadores registrados, deberán estimar el valor comercial de los predios a la fecha de la emisión del avalúo; cuando se requiera y exista información suficiente, podrán referirlo a una época anterior.
-
-###### Artículo 86.
-
-Los Peritos Valuadores registrados en el Padrón, proporcionarán al Instituto los datos, documentos e información que éste les requiera.
-
-###### Artículo 87.
-
-Los avalúos comerciales y dictámenes de arrendamiento que se expidan conforme a las disposiciones de este Capítulo, tendrán vigencia de seis meses, contados a partir del día siguiente de la fecha de elaboración.
-
-###### Artículo 88.
-
-Las Dependencias del Gobierno del Estado, de los Municipios, sus organismos descentralizados y los fedatarios públicos, sólo admitirán los avalúos comerciales que se requieran para trámites ante dichas instancias que hubieran sido expedidos por Peritos Valuadores registrados en el Padrón.
-
-###### Artículo 89.
-
-Los Peritos Valuadores que funjan como servidores públicos en el Gobierno Federal, Estatal o Municipal, no podrán ser registrados en el Padrón durante el tiempo que presten dichos servicios. Para el caso de aquéllos que ya se encontraban registrados en el Padrón al momento de ingresar al servicio público, serán considerados como inactivos durante el tiempo que funjan como servidores públicos.
-
-### CAPÍTULO II. DEL PADRÓN DE LOS PERITOS TOPÓGRAFOS
-
-###### Artículo 90.
-
-Se establece el Padrón de Peritos Topógrafos del Estado de Puebla, el cual estará integrado y administrado por el Instituto, como instrumento de consulta y control.
-
-###### Artículo 91.
-
-El ejercicio de las actividades de los Peritos Topógrafos registrados en el Padrón a que se refiere este Capítulo, se regirá conforme a la práctica gremial, las disposiciones que establece esta Ley y demás que para tales efectos emita el Instituto.
-
-###### Artículo 92.
-
-Para los efectos de esta Ley, la función de Perito Topógrafo consiste en llevar a cabo levantamientos de predios.
-
-###### Artículo 93.
-
-Los aspirantes a registrarse en el Padrón de Peritos Topógrafos presentarán por escrito ante el Instituto, la solicitud correspondiente y deberán cumplir además los requisitos siguientes:
-
-I. Tener cédula profesional de Ingeniero Topógrafo o Ingeniero Civil expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
-
-II. Estar en ejercicio activo de su profesión y tener experiencia cuando menos de tres años en materia topográfica; y
-
-III. Los demás que para tales efectos determine y emita el Instituto.
-
-###### Artículo 94.
-
-El Instituto efectuará el registro en el Padrón correspondiente, una vez cumplidos los requisitos previstos en el artículo anterior y expedirá la constancia respectiva en un plazo que no excederá de 15 días.
-
-###### Artículo 95.
-
-Son obligaciones de los Peritos Topógrafos registrados en el Padrón:
-
-I. Aplicar los lineamientos, métodos, criterios y técnicas emitidos por el Instituto;
-
-II. Elaborar los peritajes, planos y documentos de acuerdo a lo establecido por las disposiciones que para tales efectos emita el Instituto;
-
-III. Efectuar inspección al predio objeto del peritaje;
-
-IV. Abstenerse de intervenir en los asuntos en que tenga un interés directo o indirecto; en los que exista interés por parte de alguno de sus parientes consanguíneos en línea recta sin limitación de grado, colateral dentro del cuarto grado, y por afinidad dentro del segundo grado; en los que tenga amistad o enemistad con las partes, así como relación civil o mercantil con alguna de ellas;
-
-V. Integrar los peritajes que expida, con los datos complementarios requeridos por la normatividad expedida por el Instituto; y
-
-VI. Las demás que les señalen esta Ley y las disposiciones aplicables.
-
-###### Artículo 96.
-
-Los Peritos Topógrafos registrados en el Padrón, proporcionarán al Instituto los datos, documentos e información que les requiera.
-
-###### Artículo 97.
-
-Los Peritos Topógrafos que funjan como servidores públicos en el Gobierno Federal, Estatal o Municipal, no podrán ser registrados en el Padrón durante el tiempo que presten dichos servicios. Para el caso de aquéllos que ya se encontraban registrados en el Padrón al momento de ingresar al servicio público, serán considerados como inactivos durante el tiempo que funjan como servidores públicos.
-
-## TÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
-
-### CAPÍTULO I. DE LAS INFRACCIONES
-
-###### Artículo 98.
-
-Son infracciones a la presente Ley:
-
-I. No presentar en los plazos y términos establecidos la solicitud de inscripción y de modificación de datos en el Registro Catastral, los informes, avisos, licencias, autorizaciones y demás documentos y datos a que se refiere esta Ley;
-
-II. Proporcionar datos falsos o alterados en su solicitud de inscripción, avisos y demás documentos a que se refiere esta Ley;
-
-III. No proporcionar los datos, títulos, planos, contratos o cualquier otra documentación e informes que en materia catastral soliciten las autoridades o los servidores públicos acreditados, que sirvan para corroborar las declaraciones y conocer las características reales del predio;
-
-IV. Obstaculizar o no permitir el acceso al predio para efectuar la inspección, el levantamiento predial y demás operaciones catastrales a que se refiere esta Ley y otras disposiciones aplicables;
-
-V. Omitir comunicar o no inscribir ante la autoridad competente, la celebración de contratos que transmitan o modifiquen la propiedad inmobiliaria en los plazos y términos establecidos en esta Ley; y
-
-VI. Incurrir en cualquier otro acto u omisión, distinto de los enumerados en las fracciones anteriores, que en alguna forma infrinjan las disposiciones de esta Ley.
-
-### CAPÍTULO II. DE LAS SANCIONES
-
-###### Artículo 99.
-
-A quien cometa las infracciones a que se refiere el artículo anterior, la autoridad catastral impondrá las sanciones siguientes:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-I. Multa de $195.00 a $320.00, por infringir lo dispuesto en la fracción VI;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-II. Multa de $195.00 a $515.00, por infringir lo dispuesto en la fracción V;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-III. Multa de $195.00 a $640.00, por infringir lo dispuesto en la fracción I;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-IV. Multa de $320.00 a $960.00, por infringir lo dispuesto en la fracción III;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-V. Multa de $960.00 a $1,195.00, por infringir lo dispuesto en la fracción II, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VI. Multa de $1,280.00 a $1,915.00, por infringir lo dispuesto en la fracción IV.
-
-En caso de reincidencia, el monto de la multa podrá ser hasta por tres veces al monto originalmente impuesto, sin exceder del doble del máximo permitido.
-
-Debe entenderse por reincidencia, la repetición de una infracción a las disposiciones de la presente Ley.
-
-###### Artículo 100.
-
-Las multas que se impongan con motivo de la aplicación de la presente Ley, se pagarán dentro del término de quince días hábiles siguientes a la fecha en que haya surtido efectos la notificación respectiva, ante la Secretaría de Finanzas y Administración o la Tesorería Municipal correspondiente, según sea la autoridad impositora; en caso de no ser cubiertas en dicho plazo y no haber interpuesto el Recurso Administrativo de Revisión, se constituirán en créditos fiscales que serán exigibles por dichas autoridades a través del Procedimiento Administrativo de Ejecución, en términos de la legislación fiscal aplicable.
-
-De haberse interpuesto el Recurso Administrativo de Revisión, las multas se constituirán en créditos fiscales una vez que se encuentre firme la resolución que ponga fin al mismo, en cuyo caso, deberán ser turnadas a la autoridad competente para su cobro en términos del párrafo anterior.
-
-###### Artículo 101.
-
-Las autoridades catastrales y servidores públicos estatales o municipales, que por cualquier circunstancia alteren o falsifiquen los datos contemplados dentro del registro de un predio, con el fin de favorecer o perjudicar al propietario o poseedor del mismo, o que imposibiliten, el cumplimiento de esta Ley, serán sancionados de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás ordenamientos aplicables.
-
-###### Artículo 102.
-
-Las sanciones por infracciones a lo dispuesto por esta Ley, se aplicarán independientemente de que se lleven a cabo las operaciones catastrales que se vinculen con éstas.
-
-###### Artículo 103.
-
-Para el caso de que en las disposiciones municipales en la materia, se prevean sanciones por infracciones a conductas similares a las sancionadas por esta Ley, prevalecerán estas últimas.
-
-## TÍTULO OCTAVO. DE LA ACLARACIÓN Y DEL RECURSO ADMINISTRATIVO DE REVISIÓN
-
-### CAPÍTULO I. DE LA ACLARACIÓN
-
-###### Artículo 104.
-
-Los propietarios o poseedores de predios que así lo requieran, podrán en todo tiempo acudir ante las autoridades catastrales para solicitar la aclaración de los datos asentados en los registros correspondientes, en los siguientes casos:
-
-I. Cuando el nombre del propietario o poseedor del predio sea distinto al que aparezca inscrito en el Padrón Catastral;
-
-II. Cuando la clave catastral sea distinta a la que le corresponde al predio; y
-
-III. Cuando exista error o diferencia en la superficie y medidas del predio.
-
-###### Artículo 105.
-
-Para efectos de las aclaraciones a que se refiere el artículo anterior, los propietarios o poseedores de predios deberán presentar la documentación oficial en la que conste la información correcta.
-
-###### Artículo 106.
-
-La autoridad catastral estatal o municipal, atenderá y resolverá las aclaraciones de los propietarios o poseedores al momento de su recepción, salvo aquéllas que para substanciarlas requiera de la realización de alguna operación catastral, sin que ésta pueda exceder de un plazo de quince días, contados a partir de su admisión.
-
-###### Artículo 107.
-
-Las aclaraciones a que se refiere este Capítulo no constituyen instancia, ni interrumpen ni suspenden los plazos para que los propietarios o poseedores de predios puedan interponer el Recurso Administrativo de Revisión a que se refiere esta Ley.
-
-Las determinaciones que se tomen por la autoridad catastral con motivo de las aclaraciones, no podrán ser impugnadas.
-
-### CAPÍTULO II. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
-
-###### Artículo 108.
-
-Los propietarios o poseedores y terceros afectados por los actos y resoluciones de las autoridades catastrales, podrán interponer el Recurso Administrativo de Revisión, el cual será substanciado y resuelto por el área que se determine en las disposiciones reglamentarias correspondientes o mediante acuerdo de la autoridad catastral competente.
-
-###### Artículo 109.
-
-El Recurso Administrativo de Revisión, deberá agotarse antes de acudir a los Tribunales Jurisdiccionales competentes.
-
-A falta de disposición expresa en esta Ley y en todo lo que no se oponga a la misma, para la substanciación y resolución del Recurso Administrativo de Revisión, será supletorio el Código Fiscal del Estado, el Código Fiscal Municipal del Estado y el Código Fiscal y Presupuestario para el Municipio de Puebla, según la autoridad que deba conocer del mismo y a falta de éstos, la legislación de derecho común.
-
-###### Artículo 110.
-
-El Recurso Administrativo de Revisión deberá ser presentado por escrito ante la autoridad catastral que emitió el acto o la resolución que se impugne, dentro del término de quince días hábiles siguientes a aquél en que se hubiere emitido o haya surtido efectos la notificación del mismo.
-
-###### Artículo 111.
-
-El escrito de interposición del Recurso Administrativo de Revisión, deberá estar firmado por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que deberá imprimir su huella digital. Además deberá señalar lo siguiente:
-
-I. La autoridad a quien va dirigido, así como el propósito del mismo;
-
-II. Nombre del recurrente;
-
-III. Domicilio para oír y recibir notificaciones, así como las personas autorizadas para tales efectos;
-
-IV. La resolución o el acto que se impugna;
-
-V. Los hechos controvertidos de que se trate;
-
-VI. Los agravios que le cause la resolución o el acto impugnado, incluyendo la disposición que considera violada y la fecha en que se le notificó o tuvo conocimiento del mismo, o en su caso, manifestación bajo protesta de decir verdad de la fecha en que tuvo conocimiento de éstos o de que no recibió notificación; y
-
-VII. Las pruebas.
-
-Cuando no se cumpla con los requisitos a que se refieren las fracciones anteriores, el área encargada de substanciar el recurso, requerirá al recurrente para que dentro del plazo de cinco días cumpla con dichos requisitos.
-
-Si dentro de dicho plazo no se cumplen los requisitos señalados en las fracciones I, II, III, IV y VI de este artículo, la autoridad desechará el recurso. Si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el recurrente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
-
-###### Artículo 112.
-
-El recurrente deberá acompañar al escrito en que interponga el recurso:
-
-I. Los documentos que acrediten su calidad de propietario, poseedor o tercero afectado;
-
-II. El documento que acredite su personalidad cuando actúe a nombre de otro o de una persona moral;
-
-II. El documento en que conste el acto impugnado;
-
-IV. Constancia de notificación del acto impugnado, o en su caso, la manifestación bajo protesta de decir verdad de que no recibió dicha notificación; y
-
-V. Las pruebas documentales que ofrezca, así como el cuestionario que debe desahogar el Perito en caso de prueba pericial, el cual deberá estar firmado por el recurrente.
-
-Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, salvo los previstos en las fracciones I y II, los cuales deberán presentarse en original o copia certificada.
-
-Cuando las pruebas documentales no obren en poder del recurrente, deberá señalar el archivo o lugar en que se encuentren para que la autoridad requiera su remisión cuando ésta le sea legalmente posible.
-
-Cuando no se acompañe alguno de los documentos a que se refieren las fracciones del presente artículo, la autoridad catastral requerirá al recurrente para que los presente dentro del término de cinco días. En caso de no presentarse los documentos a que se refieren las fracciones I a IV en el término señalado, se tendrá por no interpuesto el recurso y para el caso de la fracción V, las pruebas se tendrán por no ofrecidas.
-
-###### Artículo 113.
-
-Para la substanciación del Recurso Administrativo de Revisión, serán admisibles toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones.
-
-###### Artículo 114.
-
-El área encargada de substanciar el recurso, admitirá, desechará o tendrá por no ofrecidas las pruebas, mediante auto o acuerdo que se notifique personalmente al recurrente. Sólo podrá desechar las pruebas ofrecidas cuando su ofrecimiento no se haya efectuado conforme a derecho, no tengan relación con el fondo del asunto, sean inconducentes e innecesarias o contrarias a la moral y al derecho. Tal auto o acuerdo deberá estar debidamente fundado y motivado.
-
-###### Artículo 115.
-
-En el auto o acuerdo a que se refiere el artículo anterior, el área encargada de substanciar el recurso, señalará el plazo para el desahogo de las pruebas admitidas, salvo aquéllas que por su propia naturaleza no requieran mayor preparación, el cual no podrá ser menor a tres días ni mayor de quince, contados a partir del día siguiente a aquél en que surta efectos su notificación.
-
-Las pruebas supervenientes podrán ofrecerse en cualquier tiempo, siempre que no se haya emitido la resolución definitiva. En caso de que el área encargada de substanciar el recurso determine su admisión, serán aplicables las reglas a que se refiere el párrafo anterior, en cuyo caso el plazo para su desahogo no podrá ser menor de ocho ni mayor de quince días, contados a partir del día siguiente a aquél en que surta efectos la notificación respectiva.
-
-El área encargada de substanciar el recurso, valorará las pruebas y podrá ordenar la práctica de diligencias para mejor proveer.
-
-###### Artículo 116.
-
-En caso de que no exista prueba pendiente de desahogarse, el área encargada de substanciar el recurso, resolverá el mismo dentro del término que no excederá de dos meses, contados a partir de la fecha en que se desahogue la última de éstas.
-
-###### Artículo 117.
-
-La resolución será definitiva y se notificará personalmente al recurrente o a las personas que haya autorizado para tales efectos, a la autoridad que dictó el acto o la resolución impugnada y a las otras autoridades que deban conocerla conforme a sus atribuciones.
-
-###### Artículo 118.
-
-Durante la tramitación del Recurso Administrativo de Revisión y a petición de parte, el área encargada de substanciarlo, suspenderá los efectos del acto reclamado.
-
-###### Artículo 119.
-
-Se desechará por improcedente el recurso:
-
-I. Contra actos que sean materia de otro recurso que se encuentre pendiente de resolución, promovido por el mismo recurrente y en contra del propio acto impugnado;
-
-II. Contra actos que no afecten los intereses jurídicos del recurrente;
-
-III. Contra actos consumados de un modo irreparable;
-
-IV. Contra actos consentidos, entendiéndose por consentimiento el de aquellos actos o resoluciones contra los que no se promovió el recurso en el plazo señalado al efecto;
-
-V. Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal interpuesto por el recurrente, que pueda tener por efecto modificar, revocar o nulificar el acto o resolución respectivos; y
-
-VI. En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley.
-
-Las causales de improcedencia, en su caso, deberán ser examinadas de oficio.
-
-###### Artículo 120.
-
-Procede el sobreseimiento en el recurso cuando:
-
-I. El recurrente se desista expresamente del recurso;
-
-II. El agraviado fallezca durante el procedimiento, si el acto respectivo sólo afecta su persona;
-
-III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-IV. Cuando hayan cesado los efectos del acto respectivo;
-
-V. Por falta de objeto o materia del acto correspondiente; y
-
-VI. No se probare la existencia del acto respectivo.
-
-###### Artículo 121.
-
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la facultad la autoridad resolutora de invocar hechos notorios; pero cuando se trate de agravios que se refieran al fondo de la cuestión controvertida, a menos que uno de ellos resulte fundado, deberá examinarlos todos antes de entrar al análisis de los que se planteen sobre violación de requisitos formales o vicios del procedimiento.
-
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
-
-###### Artículo 122.
-
-La resolución que ponga fin al recurso podrá:
-
-I. Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo;
-
-II. Confirmar el acto o resolución impugnada;
-
-III. Dejar sin efectos el acto o resolución impugnada;
-
-IV. Mandar a reponer el procedimiento de que se trate; y
-
-V. Modificar el acto o resolución impugnada, o dictar uno nuevo que lo sustituya.
-
-En el caso de que se ordene la reposición del procedimiento, la autoridad responsable, deberá informar al área encargada de substanciar y resolver el recurso, dentro de los siguientes quince días, sobre el cumplimiento que haya dado a la resolución dictada en revisión.
-
-Contra el acto o la resolución definitivos, emitidos en cumplimiento a una resolución que ordene reponer el procedimiento, procede el Recurso Administrativo de Revisión.
-
-###### Artículo 123.
-
-El área encargada de substanciar y resolver el recurso, declarará que un acto o resolución es ilegal, cuando se demuestre alguna de las siguientes causales:
-
-I. Incompetencia del funcionario que la haya dictado, ordenado o tramitado el procedimiento del que deriva dicha resolución;
-
-II. Omisión de los requisitos formales exigidos por las leyes, siempre que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso;
-
-III. Vicios del procedimiento siempre que afecten las defensas del particular y trasciendan al sentido de la resolución impugnada; y
-
-IV. Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas, en cuanto al fondo del asunto.
-
-El área a que se refiere este artículo mandará reponer el procedimiento, cuando se trate de lo previsto en las fracciones II y III antes señaladas.
-
 ## TRANSITORIOS
-
-Primero.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
-
-Segundo.- Se abroga la Ley de Catastro del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha veintidós de febrero de mil novecientos noventa y uno.
-
-Tercero.- Las disposiciones del Reglamento de la Ley de Catastro del Estado de Puebla, publicado en el Periódico Oficial del Estado el veintiuno de febrero de mil novecientos noventa y dos, serán aplicables, siempre y cuando no se opongan a la presente Ley y demás disposiciones que de ella deriven.
-
-Cuarto.- Se derogan todas aquellas disposiciones de carácter legal y administrativo que se opongan a la presente Ley.
-
-Quinto.- Los trámites administrativos iniciados por las autoridades catastrales y demás sujetos de esta Ley, antes de la entrada en vigor de la misma, serán resueltos con las disposiciones vigentes al momento en que se iniciaron.
-
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintidós días del mes de julio de dos mil diez.- Diputado Presidente.- JOEL JAIME HERNÁNDEZ RUIZ.- Rúbrica.- Diputado Vicepresidente.- MANUEL FERNÁNDEZ GARCÍA.- Rúbrica.- Diputada Secretaria.- MARÍA ANGÉLICA HERNÁNDEZ HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ANDRÉS RICARDO MACIP MONTERROSAS.- Rúbrica.
-
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 13 DE SEPTIEMBRE DE 2013.
-
-PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
-
-P.O. 31 DE DICIEMBRE DE 2014.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-TERCERO. Las disposiciones reglamentarias que deriven de las presentes reformas se efectuarán dentro del plazo de sesenta días hábiles, a partir de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
@@ -1543,6 +1045,60 @@ A partir de 1991, la Reserva de Contingencia se integrará al Fondo Financiero C
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1988.
+
+D.O.F. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1989.
+
+D.O.F. 28 DE DICIEMBRE DE 1989.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO QUINTO.
+
+Para los efectos de lo dispuesto en el artículo anterior, se estará a lo ordenado en las siguientes disposiciones transitorias:
+
+I. Durante los años de 1991 a 1993, en lugar de los porcientos a que se refieren las fracciones I y II del artículo 2o. de esta Ley, se aplicarán los siguientes:
+
+AÑO FRACCION I FRACCION II
+
+1991 20% 80%
+
+1992 30% 70%
+
+1993 40% 60%
+
+II.- Durante 1990 el Fondo General de Participaciones se distribuirá conforme a lo siguiente:
+
+a) El 91.62%, conforme a lo previsto en el artículo 3o. de la Ley de Coordinación Fiscal vigente hasta el 31 de diciembre de 1987. El monto a que se refiere la fracción I de dicho artículo será el del Fondo General de Participaciones del año de 1989.
+
+b) El 8.38% restante, en proporción inversa a la participación por habitante que tenga cada entidad en las participaciones a que se refiere el inciso anterior.
+
+c) La reserva de contingencia a que hacía referencia la Ley vigente hasta el 31 de diciembre de 1989, se distribuirá en los términos del inciso b) de esta fracción.
+
+III. Los porcientos que sirven para integrar el Fondo General de Participaciones a que se refiere el artículo 2o. de la Ley de Coordinación Fiscal, así como los de los incisos a) y b) de la fracción anterior, se modificarán con la información definitiva de las participaciones y de la recaudación de 1989.
+
+DISPOSICION DE VIGENCIA POR SEIS AÑOS.
+
+###### ARTICULO SEXTO.
+
+Se creará una Reserva de Contingencia que se integrará con el 0.5% de la recaudación federal participable en un ejercicio. Dicha reserva se destinará a compensar a los Estados cuyas participaciones en el ejercicio en curso sean inferiores a las que les haya correspondido en el ejercicio fiscal de 1989, actualizadas por inflación. Cuando la reserva no sea suficiente para compensar a todos los Estados, la misma se destinará en orden ascendente, compensando las cantidades en que se disminuyó la participación actualizada, hasta agotarse. En 1997 esta reserva pasará a formar parte del Fondo General de Participaciones.
+
+El coeficiente de participación efectiva es el que resulte de dividir las participaciones que el Estado, excluyendo sus municipios, obtenga en el ejercicio de que se trate entre el Fondo General de Participaciones en el mismo ejercicio.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+## TRANSITORIO
 
 ###### ARTICULO DECIMO.
 
