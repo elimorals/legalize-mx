@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1989-01-03"
+last_updated: "1993-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989
-
-(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 4 DE ENERO DE 1989).
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -496,19 +494,11 @@ Las fábricas, plantas industriales, talleres, comercios y demás establecimient
 
 ###### ARTICULO 46.
 
-La Secretaría de Relaciones Exteriores, para conceder licencias o autorizaciones relativas a la constitución o modificación del acta constitutiva o estatutos de sociedades, cuyo objeto sea el de establecer o desarrollar industrias o comercios de armas, municiones y explosivos, y para otorgar permisos a dichas sociedades con el objeto de que adquieran negociaciones o instalaciones relativas a las expresadas industrias o comercios, deberá exigir que se cumplan los requisitos que a continuación se indican:
-
-a).- Que en el capital social exista una proporción mínima del 51% con derecho a voto, suscrita por mexicanos o sociedades mexicanas que tengan cláusula de exclusión de extranjeros, o el porcentaje mayor que conforme a la escritura social se requiera para cualquier resolución relacionada con la operación de la sociedad.
-
-b).- Para tales efectos, cuando se trate de sociedades anónimas, el capital social deberá estar constituido por dos series de acciones: una, de nominativas exclusiva para accionistas mexicanos, debiendo constar en los títulos respectivos, que no pueden ser transmitidos a extranjeros o sociedades mexicanas que no reúnan los requisitos indicados en este artículo; y otra, de libre circulación.
-
-c).- La escritura social establecerá que los administradores serán designados por los socios o accionistas mexicanos de la sociedad y que dichos nombramientos deberán recaer en personas de nacionalidad mexicana.
-
-Las instituciones de crédito y organizaciones auxiliares sólo podrán operar con las sociedades cuyos objetos sociales quedan específicados, si les consta que han satisfecho las prevenciones del presente artículo.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 47.
 
-Cuando se trate de operaciones de adquisición de acciones o de participación en sociedades, por extranjeros, sociedades extranjeras o sociedades mexicanas con cláusula de admisión de extranjeros, los permisos a que se refiere el artículo 46, podrán otorgarse por la Secretaría de Relaciones Exteriores cuando no se infrinjan las disposiciones contenidas en el citado precepto.
+(DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1993)
 
 ### CAPITULO SEGUNDO. De las Actividades y Operaciones Industriales y Comerciales
 
@@ -897,3 +887,13 @@ D.O.F. 3 DE ENERO DE 1989.
 REPUBLICADO D.O.F. 4 DE ENERO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el 1o. de febrero de 1989.
+
+D.O.F. 27 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan:
+
+I.- Los artículos 46 y 47 de la Ley Federal de Armas de Fuego y Explosivos, publicada en el Diario Oficial de la Federación el 11 de enero de 1972; y ...
