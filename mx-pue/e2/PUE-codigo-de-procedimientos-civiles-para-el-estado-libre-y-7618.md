@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1990-06-12"
+last_updated: "1990-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1990.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -329,11 +329,13 @@ Cuando se ignore la casa en que deba notificarse, o con quién haya de entenders
 
 ###### Artículo 51.
 
-El promovente que ignore el domicilio de la persona a quien ha de hacerse la primera notificación, debe justificar que hizo gestiones para averiguar dicho domicilio.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 1990)
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 52.
 
-Para satisfacer el requisito que exige el artículo anterior, bastará como principio de prueba, el certificado de las autoridades administrativas correspondientes y constancia de búsqueda por parte de la policía del lugar, o cualquier otro medio idóneo al efecto.
+El promovente que ignore el domicilio de la persona a quien ha de hacerse la primera notificación, bastará con que lo manifieste bajo protesta de decir verdad.
 
 ###### Artículo 53.
 
@@ -7745,7 +7747,7 @@ El que promueva juicio de testamentaría, debe presentar la certificación de fa
 
 ###### Artículo 1337.
 
-Al promoverse el juicio de testamentaría se acompañará el comprobante de pago de la pensión de bibliotecas.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 1990)
 
 ###### Artículo 1338.
 
@@ -8550,3 +8552,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE JUNIO DE 1990.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 1990.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
