@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2004-07-02"
+last_updated: "2004-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -181,11 +181,11 @@ Nadie podrá sustraerse de propia autoridad a la observancia de los preceptos le
 
 Los casos de exención de sanciones, en favor de quienes ignoren las leyes, se establecerán por éstas, únicamente cuando sean de orden privado y se trate de individuos que notoriamente carezcan de instrucción y sean de escasas posibilidades económicas.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 11.
 
-Las leyes poblanas no harán ninguna distinción entre las personas, por razón de su raza, condición económica, filiación, instrucción, creencia religiosa o ideología política.
+Las leyes poblanas no harán ninguna distinción entre las personas, por razón de su raza, origen étnico o nacional, género, edad, capacidades diferentes, condición social o económica, condiciones de salud, preferencias, filiación, instrucción, creencia religiosa o ideología política.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -201,23 +201,69 @@ III.- La atención y protección del ser humano durante su nacimiento, minoridad
 
 IV.- La protección de las víctimas de los delitos y de quienes carezcan de instrucción y sean de escasas posibilidades económicas.
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-V.- La atención a la salud y a una vida adecuada que aseguren el bienestar de las personas, así como a la satisfacción de las necesidades de alimentación de las niñas y los niños;
+V.- La atención de la salud de los habitantes del Estado, la promoción de una vida adecuada que asegure el bienestar de las personas y la satisfacción de las necesidades de instrucción y alimentación de las niñas y los niños;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
 VI. La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2004)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
-VII. Garantizar el acceso a la información pública gubernamental, en los términos que establezca la Ley de la materia.
+VII.- Garantizar el acceso a la información pública gubernamental, en los términos que establezca la Ley de la materia, y
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+VIII.- La protección de los derechos de los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+La atención, protección y demás acciones previstas en este artículo son de orden público e interés social.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 13.
 
-La atención y protección previstas en el artículo anterior son de orden público.
+El Estado de Puebla tiene una composición pluricultural y multilingüística, sustentada originalmente en sus pueblos y comunidades indígenas Náhuas, Totonacas o Tutunakuj, Mixtecas o Ñuu Savi, Tepehuas o Hamaispini, Otomíes o Hñähñü, Popolocas o N'guiva y Mazatecas o Ha shuta enima, los cuales se asentaron en el territorio que actualmente ocupa la Entidad desde la época precolombina y conservan instituciones sociales, económicas, culturales y políticas, que les son propias.
+
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas, mismas que establecerán las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los pueblos y comunidades indígenas, conforme a las siguientes bases:
+
+I.- Los pueblos y comunidades indígenas establecidos en el Estado y reconocidos en esta Constitución, tendrán derecho a la libre determinación, mismo que se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal y nacional, para:
+
+a).- Determinar y desarrollar sus formas internas de organización social, cultural, política y económica.
+
+b).- Hacer la elección o designación de sus autoridades tradicionales e internas de convivencia y de organización social, económica, cultural y política, aplicando sus sistemas normativos con respeto al pacto federal y la soberanía del Estado.
+
+c).- Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, respetando las garantías individuales y sociales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
+
+d).- Proteger y promover, dentro de los ámbitos de competencia del Estado y Municipios, el desarrollo de sus lenguas, culturas, recursos, usos y costumbres; el acceso al uso y disfrute preferentes de los recursos naturales ubicados en sus tierras o en la totalidad del hábitat que ocupan, de acuerdo con las formas y modalidades de propiedad previstas por la Constitución Federal; su participación en el quehacer educativo y en los planes y programas de desarrollo; sus formas de expresión religiosa y artística, así como su acervo cultural y, en general, todos los elementos que configuran su identidad.
+
+II.- La ley establecerá los procedimientos que garanticen a los integrantes de los pueblos y comunidades indígenas el acceso efectivo a la jurisdicción o protección jurídica que el Estado brinda a todos sus habitantes. En los juicios y procedimientos en que aquéllos sean parte individual o colectivamente, las autoridades deberán tomar en cuenta sus prácticas y costumbres en los términos que establezca la ley, y asegurarse que se respete su derecho a contar durante todo el procedimiento con la asistencia de un intérprete y un defensor que tengan conocimiento de su lengua y cultura.
+
+III.- El Estado y los Municipios deberán combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los pueblos y comunidades indígenas, mediante instituciones y políticas diseñadas y operadas conjuntamente con ellos, teniendo las siguientes obligaciones:
+
+a).- Impulsar el empleo de los indígenas y su contratación preferencial en las obras, programas y acciones institucionales que se realicen en las regiones indígenas.
+
+b).- Adecuar los programas de desarrollo urbano y vivienda a las necesidades y realidad de los pueblos y comunidades indígenas atendiendo a su especificidad cultural.
+
+c).- Promover la educación bilingüe, intercultural, laica y diferenciada, a efecto de que responda a las aspiraciones, necesidades, realidad y diferencia cultural de los pueblos y comunidades indígenas.
+
+d).- Realizar programas de fomento a las actividades culturales, deportivas y recreativas, así como para la construcción de espacios para estos fines, promoviendo la participación equitativa de jóvenes, niñas y niños indígenas.
+
+e).- Desarrollar proyectos específicos para la infraestructura básica y la construcción, ampliación y mantenimiento de vías de comunicación que beneficien directamente a las comunidades indígenas.
+
+f).- Establecer los mecanismos de consulta que resulten apropiados para garantizar la participación de los pueblos y comunidades indígenas en la elaboración de los Planes Estatal y Municipales de Desarrollo, así como cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente, y para que en su caso, se incorporen las recomendaciones y propuestas que realicen, en términos de las disposiciones constitucionales.
+
+IV.- Las leyes, las instituciones y organismos que conforman el Sistema Estatal de Salud, reconocerán e incorporarán la medicina tradicional de los pueblos indígenas, sus médicos tradicionales, sus terapéuticas y sus productos, remedios y suplementos alimenticios, estableciendo programas para fortalecerlos y desarrollarlos, así como para apoyar la nutrición y alimentación de los miembros de los pueblos y comunidades indígenas, en especial de su población infantil.
+
+V.- El Estado, en coordinación con el Gobierno Federal, establecerá políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones que defiendan sus derechos laborales, ayuden a mejorar las condiciones de salud, velen por el respeto de sus derechos humanos y promuevan la difusión de sus culturas.
+
+VI.- Las comunidades indígenas, dentro del ámbito municipal, podrán organizarse, coordinarse y asociarse en los términos y para los efectos que prevenga la ley.
+
+VII.- El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán equitativamente las partidas específicas en los presupuestos de egresos que aprueben, para cumplir con las disposiciones antes señaladas, así como las formas y procedimientos para que las comunidades participen en su ejercicio y vigilancia; y
+
+VIII.- Los miembros de otros pueblos o comunidades indígenas de la Nación, que por cualquier circunstancia se encuentren asentados o de paso por el territorio del Estado, gozarán de los mismos derechos y garantías que este artículo y las leyes que lo reglamenten, confieren a los pueblos y comunidades indígenas del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1621,7 +1667,7 @@ Las participaciones que corresponden al Estado y a los Municipios en ingresos Fe
 
 La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos que establezca la ley, para hacer efectivos los créditos a su favor.
 
-((REFORMADO, P.O. 5 DE MARZO DE 2001)
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
 ###### Artículo 113.
 
@@ -1733,11 +1779,11 @@ Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, de
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO NOVENO.. DISPOSICIONES GENERALES
+## TITULO NOVENO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO I. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS
+### CAPITULO I. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -1843,11 +1889,17 @@ Cuando el Congreso del Estado reciba la resolución del Senado a que se refieren
 
 Los procedimientos del juicio político sólo podrán iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después, debiendo imponerse las sanciones cuando procedan, en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 131.
 
-Se concede acción popular para denunciar, en los términos que establezca la Ley de Responsabilidades del Estado, los delitos o faltas oficiales de los funcionarios y empleados de la Administración Pública Estatal o Municipal.
+La responsabilidad del Estado y los Municipios será objetiva y directa, por los daños que con motivo de su actividad administrativa irregular, se causen en los bienes y derechos de los particulares.
+
+Los particulares tendrán derecho a hacer exigible ante la autoridad competente una indemnización, de acuerdo a las bases, límites y procedimientos que establezcan las Leyes.
+
+En todo caso, la indemnización a que se refiere el párrafo anterior, estará sujeta a la disponibilidad presupuestaria del ejercicio fiscal de que se trate. El Estado y los Municipios podrán suscribir convenios y celebrar los demás actos jurídicos que se requieran para el cumplimiento de esta obligación.
+
+Respecto a los delitos o faltas oficiales de los servidores públicos de la Administración Pública Estatal o Municipal, se concede acción popular para denunciarlos, en los términos que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2250,3 +2302,31 @@ PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+DECRETO QUE REFORMA EL ARTICULO 131.
+
+###### ARTÍCULO PRIMERO.
+
+El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forma parte del mismo ordenamiento Constitucional.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno de enero de dos mil cinco.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+DECRETO QUE REFORMA LOS ARTICULOS 11, 12 Y 13.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado dispondrá que el presente Decreto, una vez publicado, se traduzca a las lenguas de los pueblos indígenas de la Entidad y ordenará su difusión en sus comunidades.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
