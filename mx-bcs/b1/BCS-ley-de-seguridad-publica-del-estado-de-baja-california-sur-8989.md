@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-8989
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-06"
-last_updated: "1996-06-06"
+last_updated: "1996-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 6 de junio de 1996.
 
@@ -75,7 +75,7 @@ III.- Las Agencias del Ministerio Público del Fuero Común;
 
 IV.- La Policía Judicial del Estado;
 
-V.- La Coordinación de Seguridad Pública del Estado;
+V.- (DEROGADA, B.O. 27 DE NOVIEMBRE DE 1996)
 
 VI.- Los Centros de Prevención y Readaptación Social;
 
@@ -101,6 +101,10 @@ La conducta de los miembros de las instituciones policiales se regirá por los p
 
 La aplicación y reglamentación de la presente Ley, corresponde de manera concurrente a las autoridades estatales y municipales en el ámbito de sus respectivas competencias, con base en lo previsto en este ordenamiento y en los convenios de coordinación y acuerdos que al efecto suscriban.
 
+> <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 1996)</small>
+
+La reglamentación de la presente Ley establecerá las reglas mínimas que sirvan de base para la celebración de convenios de coordinación entre el Gobierno del Estado y los Ayuntamientos, con estricto respeto a la autonomía municipal y a las atribuciones que corresponden constitucionalmente a las instituciones de seguridad pública del Estado y de los Municipios.
+
 ###### ARTICULO 11.
 
 Cuando por razones económicas o por carecer de elementos materiales y técnicos, algún Municipio del Estado esté en imposibilidad de prestar los servicios de seguridad pública a su cargo, podrá celebrar convenio con el Gobierno del Estado para que éste asuma, en forma parcial o total, dichos servicios, previa autorización del Congreso del Estado, conforme lo dispuesto en los artículos 115 fracción III de la Constitución Política de los Estados Unidos Mexicanos y 64 fracción XLIII del (sic) la Constitución Política del Estado de Baja California Sur.
@@ -123,7 +127,7 @@ IV.- El Procurador General de Justicia del Estado;
 
 V.- Los Agentes del Ministerio Píblico (sic) del Fuero Común;
 
-VI.- El Coordinador de Seguridad Pública del Estado;
+VI.- (DEROGADA, B.O. 27 DE NOVIEMBRE DE 1996)
 
 VII.- El Director de la Policía Judicial del Estado, Comandantes y sus Agentes en el Estado; y
 
@@ -253,9 +257,11 @@ VIII.- Las que sean necesarias para incrementar la eficacia de las medidas y acc
 
 Las políticas, lineamientos y acciones de coordinación se llevarán a cabo mediante la suscripción de los convenios respectivos entre el Gobierno del Estado y los Ayuntamientos de la Entidad o con base en los acuerdos y resoluciones que deriven del Consejo Nacional de Seguridad Pública y de las demás instancias regionales y locales de coordinación.
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 25.
 
-El Consejo Estatal de Seguridad Pública será la instancia superior de coordinación, planeación y supervisión en materia de seguridad pública en el Estado, que estará incorporado al Sistema Nacional de Seguridad Pública con la integración, atribuciones y funcionamiento que determine la legislación federal que establece las bases de coordinación en materia de seguridad pública.
+Las autoridades del Gobierno del Estado y de los Municipios participarán en el Consejo Estatal de Seguridad Pública como instancia de coordinación a nivel estatal del Sistema Nacional de Seguridad Pública, con la integración, atribuciones y funcionamiento que determine la Ley General Reglamentaria de la materia, del párrafo sexto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 26.
 
@@ -269,45 +275,39 @@ La coordinación de las instituciones de seguridad pública del Estado y Municip
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 28.
 
-La Coordinación de Seguridad Pública del Estado, como órgano administrativo desconcentrado de la Secretaría General de Gobierno, tendrá a su cargo instrumentar las políticas y lineamientos para la coordinación entre las instituciones de seguridad pública del Estado y de los Municipios, de conformidad a las disposiciones de la presente Ley, los acuerdos emanados del Consejo Estatal de Seguridad Pública, del Ejecutivo del Estado por conducto del Secretario General de Gobierno y demás ordenamientos aplicables en la materia.
-
-La Coordinación de Seguridad Pública del Estado contará con el personal y los medios necesarios para el cumplimiento de su encomienda.
+La Coordinación de Seguridad Pública del Estado, como órgano administrativo desconcentrado de la Secretaría General de Gobierno, tendrá por función prestar servicios de asesoría y apoyo a las instancias de coordinación del Sistema Nacional de Seguridad Pública y a las corporaciones de seguridad pública del Estado y de los Municipios, para permitir y facilitar la consecución de los fines y objetivos de esta Ley y del Sistema Nacional.
 
 ###### ARTICULO 29.
 
 El Gobernador del Estado designará al Coordinador de Seguridad Pública del Estado quien deberá ser ciudadano mexicano en pleno goce de sus derechos; tener más de 35 años de edad; ser de reconocida capacidad y probidad y contar con experiencia en áreas de seguridad pública.
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 30.
 
-Son funciones del Coordinador de Seguridad Pública del Estado:
+Son funciones de la Coordinación de Seguridad Pública del Estado:
 
-I.- Acatar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal;
+I.- Constituirse en unidad administrativa y técnica de apoyo del Presidente y del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
 
-II.- Proponer para su aprobación al Consejo Estatal, políticas, lineamientos y acciones para el buen desempeño de las instituciones de seguridad pública del Estado;
+II.- Prestar servicios de asesoría y orientación a las instancias de coordinación del Sistema Nacional y a las corporaciones de seguridad pública del Estado y de los Municipios, a solicitud expresa de éstos, en todo lo relativo a la seguridad pública de la entidad;
 
-III.- Proporcionar al Sistema Nacional de Información sobre Seguridad Pública los datos a que refiere el artículo 36 de esta Ley;
+III.- Realizar estudios en materia de seguridad pública, incluyendo aquellos que sirvan de antecedente y sustento para los planes y programas en la materia;
 
-IV.- Informar periódicamente al Consejo Estatal de sus actividades;
+IV.- Apoyar los esfuerzos y acciones concretas para la integración y actualización permanente de los registros y bases de datos a que se refiere el artículo 36 de esta ley;
 
-V.- Formular sugerencias a las autoridades competentes para que las instituciones de seguridad pública del Estado y de los Municipios desarrollen de manera más eficaz sus funciones;
+V.- Proporcionar al Sistema Nacional de Información Sobre Seguridad Pública los datos a que se refiere el artículo 36 del presente ordenamiento y en los términos de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
-VI.- Promover, por conducto de las instituciones de seguridad pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo Estatal y sin menoscabo de otras que realicen las autoridades competentes;
+VI.- Realizar estudios de aquellas materias y ámbitos susceptibles de acciones conjuntas;
 
-VII.- Proponer a los Ayuntamientos los lineamientos para la coordinación intermunicipal en materia de seguridad pública;
+VII.- Realizar estudios sobre los avances tecnológicos, características y cualidades de equipo, materiales y sistemas relacionados con la materia, que orienten la decisión de las corporaciones de seguridad pública del Estado y los Municipios sobre el particular;
 
-VIII.- Proponer la adecuación de los sistemas de comunicación por radio, telefonía, alarmas y cualquier otro, entre las (sic) diversos corporaciones de seguridad pública del Estado y Municipios para proporcionar un mejor servicio al público;
+VIII.- Realizar estudios y proyectos que orienten las decisiones de las corporaciones de seguridad pública del Estado y de los Municipios en materia de requisitos y procedimientos para la selección de personal, su formación, capacitación, especialización y actualización, así como en lo relacionado a estímulos y permanencia del mismo; y
 
-IX.- Coordinar con las instancias del gobierno estatal y municipal la adquisición de equipo y material para proveer a sus respectivas corporaciones de seguridad pública;
-
-X.- Llevar el registro y control interno del armamento de las corporaciones de seguridad pública del Estado y Municipios;
-
-XI.- Organizar y controlar el Registro Estatal de Servicios Policiales y coordinarse al respecto con las autoridades federales;
-
-XII.- Realizar estudios especializados sobre las materias de seguridad pública; y
-
-XIII.- Las demás que le confiera la presente Ley y otras disposiciones legales en la materia.
+IX.- Las demás que le confiera la presente Ley y otras disposiciones legales en la materia.
 
 ## TITULO QUINTO. DEL PROGRAMA ESTATAL DE SEGURIDAD PUBLICA
 
@@ -411,7 +411,13 @@ VI.- Las demás que les señale esta Ley y los ordenamientos relativos.
 
 Los nombramientos para cubrir las plazas vacantes o de nueva creación de las corporaciones de seguridad pública estatales o municipales, conforme a la naturaleza del servicio, sólo podrán otorgarse a egresados de la Academia de Policía del Estado o similares de otras entidades federativas de la República Mexicana y previa consulta al Registro Nacional de Personal de Seguridad Pública.
 
-De igual manera, podrá autorizarse el ingreso a las corporaciones de seguridad pública Estatales o Municipales a personas egresadas de instituciones educativas de nivel medio superior establecidas en la entidad y en las que se impartan materias de capacitación relacionadas con la seguridad pública. Al efecto podrán celebrarse convenios entre dichas instituciones de educación media superior con la coordinación de seguridad pública del Estado, donde se establecerán las materias que comprenderán el plan de estudios respectivo y la forma de supervisión y evaluación de la capacitación de los alumnos.
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 1996)</small>
+
+De igual manera, podrá autorizarse el ingreso a las corporaciones de seguridad pública estatales o municipales a personas egresadas de instituciones educativas de nivel medio superior establecidas en la entidad y en las que se impartan materias de capacitación relacionadas con la seguridad pública.
+
+> <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 1996)</small>
+
+Al efecto, podrán celebrarse convenios entre dichas instituciones de educación media superior con el Gobierno del Estado y con los Municipios que participen en el programa particular, en donde se establecerán las materias que comprenderá el plan de estudios respectivo y la forma de supervisión y evaluación de la capacitación de los alumnos.
 
 ###### ARTICULO 45.
 
@@ -457,7 +463,9 @@ II.- Tener como mínimo 21 años de edad;
 
 III.- Acreditar haber terminado estudios de educación secundaria;
 
-IV.- Ser egresado de la Academia Estatal de Policía;
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 1996)</small>
+
+IV.- Ser egresado de la Academia Estatal de Policía, de similares de otras entidades federativas o de alguna de las instituciones educativas, en los términos del artículo 44 de esta Ley;
 
 V.- No tener antecedentes penales;
 
@@ -551,7 +559,7 @@ Los estímulos y reconocimientos para el personal de las corporaciones de polic�
 
 ## TITULO NOVENO. DEL REGIMEN DISCIPLINARIO
 
-### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 68.
 
@@ -593,7 +601,7 @@ La resolución que declare improcedente un cambio de adscripción, tendrá por o
 
 No procederá el recurso de revisión contra un cambio de adscripción decretado en razón de las necesidades del servicio y que no tenga el carácter de sanción.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
 
 ###### ARTICULO 63.
 
@@ -908,3 +916,11 @@ LIC. GUILLERMO MERCADO ROMERO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 27 DE NOVIEMBRE DE 1996.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
