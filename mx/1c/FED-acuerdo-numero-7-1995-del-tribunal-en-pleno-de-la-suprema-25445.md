@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-7-1995-del-tribunal-en-pleno-de-la-suprema-25445
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-06-23"
-last_updated: "1995-06-23"
+last_updated: "1995-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-19"
 
 ACUERDO NUMERO 7/1995 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DE FECHA DIECINUEVE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CINCO, RELATIVO A LA DETERMINACION DE LA COMPETENCIA POR MATERIA DE LAS SALAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, Y AL ENVIO DE ASUNTOS COMPETENCIA DEL PLENO A DICHAS SALAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JULIO 1995.
 
 Acuerdo publicado en la Sección Primera del Diario Oficial de la Federación, el viernes 23 de junio de 1995.
 
@@ -97,8 +97,16 @@ SEXTO.- El Pleno podrá, si lo estima conveniente, resolver un asunto aunque se 
 
 TRANSITORIOS:
 
-PRIMERO.- Este acuerdo se publicará en el Semanario Judicial de la Federación y en el Diario Oficial de la Federación y entrará en vigor el día de su publicación en aquél.
+> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 1995)</small>
+
+PRIMERO.- Este acuerdo se publicará en el Semanario Judicial de la Federación y en el Diario Oficial de la Federación y entrará en vigor el día de su publicación en éste.
 
 SEGUNDO.- Se abroga el Acuerdo 4/1995, emitido por el Tribunal Pleno el día trece de febrero de mil novecientos noventa y cinco.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo 7/1995, relativo a la determinación de la competencia por materia de las Salas de la Suprema Corte de Justicia de la Nación y al envío de asuntos competencia del Pleno a dichas Salas, fue aprobado por el Tribunal Pleno en sesión privada de diecinueve de junio de mil novecientos noventa y cinco, por unanimidad de diez votos de los señores Ministros: Presidente en funciones Juventino V. Castro y Castro, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga M. Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a diecinueve de junio de mil novecientos noventa y cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 4 DE JULIO DE 1995.
+
+EL REFORMA CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
