@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1988-12-30"
+last_updated: "1989-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1989.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -239,6 +239,14 @@ b) Si existen varios establecimientos, en donde se encuentre la administración 
 
 c) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1989)</small>
+
+III.- Si se trata de Sucursales o Agencias de negociaciones radicadas fuera del territorio del Estado de Puebla, el lugar en el que se establezcan.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1989)</small>
+
+IV.- Tratándose de personas físicas y morales residentes fuera del territorio del Estado y que realicen actividades gravadas en el mismo; el de su representante y a falta de éste, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+
 ###### ARTICULO 23.
 
 Las personas domiciliadas fuera del Estado que causen gravámenes estatales deberán cumplir con las obligaciones establecidas en las Leyes Fiscales del Estado.
@@ -277,7 +285,9 @@ Los sujetos obligados a presentar declaraciones podrán presentar declaraciones 
 
 Los particulares podrán gestionar o promover ante las Autoridades Fiscales, por sí o a través de representante.
 
-La representación de las personas físicas o morales, se hará mediante escritura pública o carta poder, firmada ante dos testigos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
+
+La representación de las personas físicas o morales, se hará mediante escritura pública o carta poder, firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las Autoridades Fiscales o Notario.
 
 ###### ARTICULO 26.
 
@@ -293,15 +303,17 @@ IV.- Señalar la Autoridad a la que se dirige y el propósito de la promoción.
 
 V.- Señalar domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 27.
 
-Las instancias o peticiones que se formulen a las Autoridades Fiscales, deberán ser resueltas en el término de tres meses o los plazos que específicamente señalen las Leyes Fiscales del Estado.
+Las instancias o peticiones que se formulen a las Autoridades Fiscales, deberán ser resueltas en el término de cuatro meses o los plazos que específicamente señalen las Leyes Fiscales del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 28.
 
-El silencio de las Autoridades Fiscales durante el término a que se refiere el artículo anterior, se considerará como resolución negativa, a excepción de lo dispuesto en el artículo 136 de este Código.
+El silencio de las Autoridades Fiscales durante el término a que se refiere el Artículo anterior, se considerará como resolución negativa.
 
 ###### ARTICULO 29.
 
@@ -474,6 +486,10 @@ XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados 
 XVII.- Conocer y resolver de las solicitudes de condonación o exención total o parcial del pago de contribuciones y sus accesorios.
 
 XVIII.- Conceder subsidios o estímulos fiscales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
+
+Las resoluciones favorables a particulares que emitan las Autoridades Fiscales en uso de las facultades que se señalan en las fracciones II y XVII de este artículo, surtirán sus efectos, en el ejercicio en el que se hubieren dictado.
 
 ### CAPITULO II. DE LOS ACTOS DE VERIFICACION
 
@@ -1225,11 +1241,11 @@ III.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos 
 
 La Autoridad Fiscal al recibir el escrito de interposición del recurso administrativo de revocación, deberá remitirlo al Secretario de Finanzas en el término de los diez días siguientes a aquel en que lo recibió; acompañándolo en todo caso, del informe que sustente la actuación impugnada.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 136.
 
-El Secretario de Finanzas deberá dictar resolución en un término que no excederá de sesenta días contados a partir de la fecha de interposición del recurso.
-
-El silencio de la Autoridad significará que se ha confirmado el acto impugnado.
+El Secretario de Finanzas deberá dictar resolución en un término que no excederá de cuatro meses contados a partir de la fecha de interposición del recurso.
 
 ###### ARTICULO 137.
 
@@ -1284,3 +1300,17 @@ Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Pal
 P.O. 30 DE DICIEMBRE DE 1988.
 
 UNICO.- Las presentes reformas y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Las presentes REFORMAS y ADICIONES, entrarán en vigor el día primero de enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto las resoluciones a que se refiere el último párafo (sic) del Artículo 41 del CODIGO FISCAL DEL ESTADO DE PUEBLA dictadas con anterioridad a la vigencia de esta Ley, sin perjuicio de que los interesados sometan las circunstancias del caso a la autoridad fiscal competente para que se dicte la resolución que proceda.
+
+###### ARTICULO TERCERO.
+
+A partir del inicio de la vigencia del presente Decreto, se derogan las disposiciones legales reglamentarias y administrativas que se opongan al mismo.
