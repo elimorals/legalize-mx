@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-notariado-del-estado-de-chihuahua-10346"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-12"
-last_updated: "1999-12-29"
+last_updated: "2004-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de agosto de 1995.
 
@@ -73,7 +73,9 @@ I.- Para actuar como árbitros o secretarios en juicios o procedimientos arbitra
 
 II.- Para intervenir en la tramitación extrajudicial de sucesiones intestamentarias y las que se apoyen en testamento público abierto, conforme a las disposiciones legales aplicables en cada caso.
 
-III.- Para intervenir en la constitución, modificación y extinción del patrimonio familiar, salvo el caso previsto en la fracción VI del artículo 401 del Código de Procedimientos Civiles. En lo referente a la extinción de dicho régimen, únicamente lo harán en los casos previstos en las fracciones I, II y IV del artículo 712 del Código Civil del Estado.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+
+III.- Para intervenir en la constitución, modificación y extinción del patrimonio familiar, salvo el caso previsto en la fracción VI del artículo 401 del Código de Procedimientos Civiles. En lo referente a la extinción de dicho régimen, únicamente lo harán en los casos previstos en las fracciones I, II y III del artículo 712 del Código Civil del Estado.
 
 IV.- Para declarar el estado de minoridad y nombrar tutores y curadores, exclusivamente para la tramitación extrajudicial de testamentarias o intestamentarias, y solo tratándose de menores de edad.
 
@@ -1228,3 +1230,7 @@ P.O. 29 DE DICIEMBRE DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
