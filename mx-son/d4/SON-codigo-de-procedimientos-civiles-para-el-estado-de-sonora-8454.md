@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1959-09-16"
+last_updated: "1966-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE INQUILINATO DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 16 DE SEPTIEMBRE DE 1959, DURANTE LA VIGENCIA DE LA CITADA LEY, NO TENDRAN APLICACION LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO QUE SE OPONGAN A LOS PRECEPTOS DE LA MISMA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE SEPTIEMBRE DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE JUNIO DE 1966.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -781,7 +779,9 @@ IV.- Si un juez deja de conocer por excusa o recusación será sustituído por e
 
 La competencia no puede prorrogarse por convenio de las partes, salvo cuando se trate de la establecida por razón del territorio.
 
-En los juicios sobre el estado civil de las personas, la competencia por razón de territorio no es prorrogable.
+> <small>(REFORMADO, B.O. 22 DE JUNIO DE 1966)</small>
+
+En los juicios sobre el estado civil de las personas, la competencia por razón de territorio solo podrá se podrá prorrogar mediante sumisión expresa de ambas partes al Tribunal ante el cual se presente la demanda.
 
 ###### Art. 97.
 
@@ -8222,3 +8222,7 @@ TERCERO.- Durante la vigencia de la presente Ley no tendrán aplicación las dis
 CUARTO.- En los procedimientos judiciales o administrativos pendientes de resolución o de ejecución los interesados podrán hacer valer los beneficios que les concede la presente Ley.
 
 QUINTO.- Esta Ley empezara a regir a partir del día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 22 DE JUNIO DE 1966.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
