@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1988-03-17"
+last_updated: "1990-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MARZO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE AGOSTO DE 1990.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1331,17 +1331,25 @@ El servicio judicial será gratuito. En consecuencia, quedan prohibidas las cost
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
 
-> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 23 DE AGOSTO DE 1990)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de diez Magistrados Propietarios y once Suplentes, nombrados cada seis años.
+El Supremo Tribunal de Justicia se compondrá de trece Magistrados Propietarios y catorce Suplentes, nombrados cada seis años.
+
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 Los Magistrados designados podrán ser reelectos y, si lo fueren, sólo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
 
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
+
 Los Magistrados tomarán posesión de su cargo el día veinticinco de octubre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo. Habrá también magistrados insaculados, cuya designación se hará en la forma que establezca la Ley Orgánica respectiva.
 
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
+
 Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad dentro del Poder Judicial o entre las que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica. Dichos nombramientos serán sometidos a la aprobación del Congreso, el que otorgará o negará esta aprobación dentro del término de tres días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no se podrá tomar posesión del cargo.
+
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
 
@@ -2390,6 +2398,10 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la aplicación de esta Ley.
+
+B.O. 23 DE AGOSTO DE 1990.
+
+UNICO.- En tanto se instale la Segunda Sala Civil, el Supremo Tribunal de Justicia seguirá funcionando como hasta la fecha lo viene haciendo.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
