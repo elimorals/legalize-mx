@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1992-09-30"
+last_updated: "1993-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1993.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -295,9 +295,11 @@ En casos de urgencia, el Pleno o el Presidente del Tribunal, podrán hacer desig
 
 ## TITULO TERCERO. DE LA DIVISION JURISDICCIONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 37.
 
-El territorio geográfico del Estado de Chihuahua se divide, para los efectos de la administración de justicia, en Distritos Judiciales, Municipios y Secciones Municipales. Los Distritos Judiciales y los Municipios que en ellos se comprenden, son los siguientes:
+El territorio geográfico del Estado de Chihuahua se divide, para los efectos de la Administración de Justicia, en Distritos Judiciales, Municipios y Secciones Municipales. Los Distritos Judiciales y los Municipios que en ellos se comprenden, son los siguientes:
 
 I.- ABRAHAM GONZALEZ, integrado por los Municipios de Delicias, Julimes, Meoquí y Rosales, con cabecera en Ciudad Delicias;
 
@@ -317,9 +319,13 @@ VII.- GALEANA, integrado por los Municipios de Ascensión, Buenaventura, Casas G
 
 VIII.- GUERRERO, integrado por los Municipios de Gómez Farías, Guerrero, Madera, Matachí y Temosachí, con cabecera en Ciudad Guerrero;
 
-IX.- HIDALGO, integrado por los Municipios de Balleza, El Tule, Hidalgo del Parral, Huejotitán, Matamoros, Rosario, San Francisco del Oro, Santa Bárbara, Valle de Zaragoza, con cabecera en ciudad de Hidalgo del Parral;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1993)</small>
 
-X.- JIMENEZ, integrado por los Municipios de Allende, Coronado, Jiménez y López con cabecera en la Ciudad de Jiménez;
+IX.- Hidalgo integrado por los Municipios de Allende, Balleza, El Tule, Hidalgo del Parral, Huejotitán, Matamoros, Rosario, San Francisco del Oro, Santa Bárbara, Valle de Zaragoza, con Cabecera en la Ciudad de Hidalgo del Parral;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1993)</small>
+
+X.- Jiménez, integrado por los municipios de Coronado, Jiménez y López con Cabecera en la Ciudad de Jiménez;
 
 XI.- MANUEL OJINAGA, integrado por los Municipios de Coyame, Manuel Benavides y Ojinaga, con cabecera en Ciudad Ojinaga;
 
@@ -739,7 +745,7 @@ XIII.- Recibir la declaración de situación patrimonial de los funcionarios que
 
 XIV.- Llevar el libro de actas del Pleno; cuidando que sean autorizadas en su debida oportunidad;
 
-XV.- Poner constancia, con sello y firma, del día y la hora en que reciba las promociones que presenten los interesados, devolviéndoles la copia en que se asienten esos datos. También asentará constancia de los anexos que se acompañen al escrito;
+XV.- Poner constancia, con sello y firma, del día y la hora en que reciba las promociones que presenten lo interesados, devolviéndoles la copia en que se asienten esos datos. También asentará constancia de los anexos que se acompañen al escrito;
 
 XVI.- Preparar los proyectos de resolución que se le encomienden respecto de asuntos de la competencia del Pleno o del Presidente;
 
@@ -2068,3 +2074,9 @@ P.O. 30 DE SEPTIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 1993.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los negocios judiciales radicados dentro del Distrito Judicial Jiménez que se hayan surtido de la competencia anterior continuarán su curso hasta su fin.
