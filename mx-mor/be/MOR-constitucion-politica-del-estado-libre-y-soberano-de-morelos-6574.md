@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1984-01-05"
+last_updated: "1984-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1984.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -384,7 +384,7 @@ El Congreso del Estado podrá citar a los Secretarios de despacho que correspond
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-Los plazos de presentación de las Leyes de Ingresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y Programación y de Presupuesto o de los Regidores de Hacienda de los Municipios, respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
+Los plazos de presentación de las Leyes de Ingresos y cuentas públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación de los Secretarios de Finanzas y de Programación y Presupuesto o de los Regidores de Hacienda de los Municipios, respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
 
@@ -778,7 +778,7 @@ Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Per
 
 DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 53.
 
@@ -982,7 +982,9 @@ VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por
 
 VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; y en defecto de ésta, el arresto correspondiente, que no podrá exceder de quince días, de acuerdo con el artículo 21 de la Constitución Federal.
 
-IX.- Visitar todo el Estado o cualquiera de sus Municipios ya sea personalmente o por medio de Delegados del Gobierno, para la buena marcha de la Administración.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1984)</small>
+
+IX.- Visitar el Estado en sus correspondientes Municipios, ya sea personalmente o por medio de Representantes del Gobierno, realizando Reuniones periódicas de Consulta y Fortalecimiento Municipal con el concurso de los H.H. Ayuntamientos, en todas y cada una de sus localidades, instrumentando programas de apoyo en todo aquello que a criterio del Ejecutivo sea necesario, conforme a lo establecido por la fracción XII del Artículo 115 de esta Constitución, y con la participación de la ciudadanía por medio de comisiones que manejarán los recursos y fondos económicos del Estado, de acuerdo con las Leyes respectivas.
 
 X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de esta Constitución.
 
@@ -1116,7 +1118,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 74.
 
-El ejercicio de las funciones correspondientes al Gobernador del Estado, se desarrollarán con la participación de los secretarios, que a continuación se mencionan y cuyas atribuciones estarán señaladas en la Ley Orgánica de la Administración Pública: Un Secretario General de Gobierno, un Oficial Mayor, un Secretario de Programación y Presupuesto, Un Secretario de Finanzas, Un Secretario de Contraloría General, un Secretario Coordinador de la Seguridad Jurídica y de la Tranquilidad Social, Un Secretario de Obras Públicas, Un Secretario de Desarrollo Agropecuario y Forestal, Un Secretario de Fomento del Empleo, Un Secretario de Fomento y Desarrollo Industrial; Un Secretario de Turismo, Un Secretario de Educación, Cultura y Bienestar Social.
+Para el despacho de los negocios encomendados al Ejecutivo habrá tantos servidores públicos como la administración del Estado lo requiera, en los términos de la Ley Orgánica de la Administración Pública del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1593,6 +1595,12 @@ Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por s
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XI.- Los Ayuntamientos, en los términos de las Leyes Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano Municipal: Participar en la creación y administración de sus reservas territoriales; controlar y vigilar la optimización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones; y participar en la creación y administración de zonas de reservas ecológicas.
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 1984)</small>
+
+XII.- Los Ayuntamientos Coordinarán sus acciones con el concurso del Gobierno del Estado a efecto de que se realicen periódicamente en los lugares en que sea necesario Reuniones de Consulta y Fortalecimiento Municipal, para la solución de todos los problemas que atañen a las Comunidades de los Municipios del Estado.
+
+Las Comisiones nombradas por los habitantes de las correspondientes localidades y con la participación de los H.H. Ayuntamientos, manejarán los recursos aportados por el Gobierno del Estado cuando se destinen a los fines que establece el Artículo 70 Fracción IX de esta Constitución.
 
 ###### Artículo 116.
 
@@ -2095,3 +2103,13 @@ P.O. 5 DE ENERO DE 1984.
 Primero.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado de Morelos, remítase el presente Decreto al Ejecutivo del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 1984.
+
+Primero.- El presente Decreto de reforma y adición a la Constitución Política del Estado de Morelos, deberá cumplir con las formalidades establecidas en los Artículos 147 y 148 del mismo Ordenamiento.
+
+Segundo.- Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente.
+
+Tercero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Cuarto.- Remítase al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
