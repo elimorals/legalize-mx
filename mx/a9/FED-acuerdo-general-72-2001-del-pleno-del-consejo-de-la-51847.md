@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-72-2001-del-pleno-del-consejo-de-la-51847"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-11-09"
-last_updated: "2001-11-09"
+last_updated: "2002-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-10-31"
 
 ACUERDO GENERAL 72/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA CELEBRAR Y ORGANIZAR LOS EXAMENES DE APTITUD A QUE SE REFIERE EL ARTICULO 115 DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, Y ESTABLECE EL PROCEDIMIENTO PARA LA EXPEDICION DE NOMBRAMIENTOS DE SECRETARIOS DE TRIBUNAL DE CIRCUITO, DE JUZGADO DE DISTRITO Y DE ACTUARIOS DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 3/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 9 DE NOVIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 9 de noviembre de 2001.
 
@@ -252,3 +254,21 @@ SEXTO.-Los secretarios o actuarios que se encuentren cubriendo una plaza por com
 SÉPTIMO.-Los derechos laborales de secretarios y actuarios que hayan sido nombrados conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente acuerdo, subsisten en sus términos.
 
 LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMÉNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 72/2001, del Pleno del Consejo de la Judicatura Federal, que fija las bases para celebrar y organizar los exámenes de aptitud a que se refiere el artículo 115 de la Ley Orgánica del Poder Judicial de la Federación, y establece el procedimiento para la expedición de nombramientos de secretarios de Tribunal de Circuito, de Juzgado de Distrito y de actuarios del Poder Judicial de la Federación; fue aprobado por el propio Pleno, en sesión de treinta y uno de octubre de dos mil uno, por unanimidad de votos de los señores consejeros: presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.-México, Distrito Federal, a treinta y uno de octubre de dos mil uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 8 DE MARZO DE 2002.
+
+PRIMERO. El presente acuerdo entrará en vigor quince días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. A partir de la entrada en vigor del presente acuerdo se abroga el Acuerdo General 72/2001, y las diversas disposiciones emitidas por el consejo, relativas a nombramientos de secretarios y actuarios de Tribunales de Circuito y Juzgados de Distrito, que se opongan a lo establecido en el mismo.
+
+CUARTO. Los secretarios o actuarios que se encuentren cubriendo una plaza por comisión o licencia del titular, cuyo nombramiento haya sido autorizado por la comisión, no estarán obligados a presentar examen de aptitud en caso de que el titular de la plaza se reintegre a su puesto, sino que ingresarán directamente a la lista sin necesidad de otro requisito.
+
+QUINTO. Los derechos laborales de secretarios y actuarios que hayan sido nombrados conforme a las reglas emitidas con anterioridad a la entrada en vigor del presente acuerdo, subsisten en sustérminos.
+
+SEXTO. Los secretarios o actuarios en funciones que antes de la entrada en vigor del presente acuerdo hayan presentado examen y obtenido la declaratoria de aptitud correspondiente, no tendrán que presentar nuevo examen para permanecer en sus cargos. De la misma manera, los secretarios o actuarios que hayan sido nombrados cuando no se exigía presentar examen de aptitud y estén ocupando algún otro cargo similar dentro del Poder Judicial de la Federación, tampoco requerirán la presentación de dicho examen.
+
+SÉPTIMO.-Los secretarios o actuarios que se encuentren en el caso del punto anterior, si laboran en un Juzgado de Distrito pueden pasar a un Tribunal de Circuito y viceversa, sin necesidad de examen aun cuando sea de diversa materia o circuito.
