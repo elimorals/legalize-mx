@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-10296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-13"
-last_updated: "1996-06-28"
+last_updated: "1996-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1996.
 
 Ley Publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el 13 de septiembre de 1995.
 
@@ -129,7 +129,9 @@ IV.- Participar en los trabajos, deliberaciones, debates y comparecencias de con
 
 V.- Contar con la credencial e insignia que los acredite como Diputados de la Legislatura correspondiente,
 
-VI.- Disfrutar de las dietas que le correspondan de conformidad con el Presupuesto de Egresos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1996)</small>
+
+VI.- Percibir la dieta que les corresponda de conformidad con el Presupuesto de Egresos del Poder Legislativo, presupuesto que no podrá contemplar ni ser modificado para cubrir compensaciones extraordinarias o de cualquier otra denominación durante o por conclusión de su mandato Constitucional;
 
 VII.- Recibir por lo menos tres días antes de la discusión en Comisiones y en el Pleno, los dictámenes de las Comisiones y opiniones de los órganos técnico-administrativos, que vayan a ser objeto de debate;
 
@@ -1528,3 +1530,9 @@ P.O. 28 DE JUNIO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE SEPTIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
