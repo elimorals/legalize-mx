@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-6142"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-05"
-last_updated: "1982-08-05"
+last_updated: "1984-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1984.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 5 de agosto de 1982.
 
@@ -365,13 +365,17 @@ Los Ayuntamientos son órganos colegiados de elección popular directa encargado
 
 Los Ayuntamientos del Estado tienen personalidad jurídica para todos los efectos legales.
 
+REFORMADO, P.O. 5 DE MARZO DE 1984)
+
 ###### ARTICULO 13.
 
-Los ayuntamientos se integrarán con un Presidente Municipal, un Síndico, cinco Regidores, con excepción de los señalados en el artículo siguiente.
+Los Ayuntamientos se integrarán con un Presidente Municipal, un Síndico y 5 Regidores electos por el principio de mayoría relativa y hasta dos Regidores electos por el principio de representación proporcional, con excepción de los señalados en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
 
 ###### ARTICULO 14.
 
-Los ayuntamientos de los municipios de Apatzigán, Coalcomán de Vázquez Pallares, Hidalgo, Huetamo, Jacona, Jiquilpan, La Piedad, Lázaro Cárdenas, Los Reyes, Maravatío, Morelia, Pátzcuaro, Puruándiro, Sahuayo, Tacámbaro, Uruapan, Zacapu, Zamora y Zitacuaro, se compondrán de un Presidente, un Síndico y siete Regidores.
+Los Ayuntamientos de los Municipios de Apatzingán, Coalcomán de Vázquez Pallares, Hidalgo, Huetamo, Jacona, Jiquilpan, La Piedad, Lázaro Cárdenas, Los Reyes, Maravatío, Morelia, Pátzcuaro, Puruándiro, Sahuayo, Tacámbaro, Uruapan, Zacapu, Zamora, Zinapécuaro y Zitácuaro, se compondrán de un Presidente, un Síndico y siete Regidores, electos por el principio de representación proporcional.
 
 ###### ARTICULO 15.
 
@@ -419,9 +423,13 @@ Las sesiones de los Ayuntamientos serán públicas salvo que exista motivo que j
 
 Las sesiones ordinarias serán convocadas por el Presidente Municipal, mediante oficio citatorio. Las extraordinarias mediante convocatoria que contenga el orden del día de los asuntos a tratar.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 25.
 
-Las sesiones de los Ayuntamientos deberán celebrarse con la asistencia de la totalidad de sus miembros, pero serán legales cuando se realicen con mas de la mitad de sus integrantes.
+Las sesiones de los Ayuntamientos deberán celebrarse con la asistencia de la totalidad de sus miembros pero serán legales cuando se realicen con más de la mitad de sus integrantes.
+
+Cuando alguno de los miembros de un Ayuntamiento falte a las sesiones por más de tres veces consecutivas, sin causa justificada, el Presidente llamará al suplente, previo acuerdo del Cabildo, y si éste no se presenta, lo hará del conocimiento del Congreso del Estado, para que de acuerdo con la legislación aplicable, nombre a la persona que deba integrar el Ayuntamiento.
 
 ###### ARTICULO 26.
 
@@ -449,7 +457,9 @@ II. Adquirir bienes en cualquier forma prevista por la Ley;
 
 III. Otorgar concesiones y permisos de servicios públicos municipales;
 
-IV. Expedir, previa aprobación del Congreso, los reglamentos para la buena administración y funcionamiento de los servicios públicos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+IV. Expedir de acuerdo con las bases que fije el Congreso los reglamentos para la buena administración y funcionamiento de los servicios públicos;
 
 V. Nombrar comisiones permanentes para el estudio y vigilancia de los asuntos y servicios municipales;
 
@@ -459,7 +469,9 @@ VII. Nombrar y remover, a propuesta del Presidente, al Secretario y Tesorero Mun
 
 VIII. Proponer al Congreso del Estado el establecimiento de nuevas tenencias y encargaturas del orden o fusión de las existentes;
 
-IX. Solicitar del Congreso las modificaciones presupuestarias que se requieran:
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+IX. Elaborar y aprobar su Presupuesto de Egresos y remitirlo al Congreso para la vigilancia de su ejercicio;
 
 X. Cuando a juicio del Ayuntamiento se considere necesario inspeccionar la Hacienda Municipal, solicitará al Congreso del Estado la práctica de la auditoría correspondiente;
 
@@ -481,9 +493,13 @@ XVII. Procurar por los medios a su alcance el desarrollo económico, social y cu
 
 Son obligaciones de 106 Ayuntamientos:
 
-I. Vigilar que los funcionarios y empleados municipales cumplan con las atribuciones que les correspondan y ordenar fincarles las responsabilidades en que incurran;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-II. Formular sus proyectos de Ley de Ingresos y Presupuesto de Egresos y remitirlos al Congreso del Estado para su aprobación, de comunidad con la ley de la materia;
+I. Vigilar que los servicios públicos municipales cumplan con las atribuciones que le corresponden y ordenar fincarles las responsabilidades en que incurran;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+II. Formular sus proyectos de Ley de Ingresos y remitirlos al Congreso del Estado para su aprobación;
 
 III. Iniciar y realizar la construcción de obras y servicios públicos y, en caso de que establezcan para su realización, obligaciones cuyo término exceda de la duración del ejercicio constitucional del Ayuntamiento contratante, deberán someter sus contratos a la población del Congreso;
 
@@ -493,11 +509,17 @@ V. Publicar el corte de caja de la tesorería, cada tres meses para conocimiento
 
 VI. Procurar que las cárceles reúnan las condiciones de seguridad, higiene, educación, moralidad y trabajo, cuidando que los alcaides y demás empleados de esos establecimientos cumplan con las obligaciones que les imponen las Constituciones Federal y del Estado, leyes que de ambas emanen y los reglamentos respectivos;
 
-VII. Desempeñar las funciones electorales que les impongan las leyes de la materia;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-VIII. Poner a disposición de la autoridad competente a sus miembros, funcionarios o empleados, cuando incurran en la comisión de delitos;
+VII. Desempeñar las funciones electorales que les impongan las leyes;
 
-IX. Cuidar de los servicios de agua potable, drenaje y alcantarillado en coordinación con las autoridades estatales en los términos de la ley de la materia;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+VIII. Poner a disposición de la autoridad competente a los servidores públicos municipales, cuando incurran en la comisión de delitos;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+IX. Vigilar que en la prestación de los servicios de agua potable, drenaje y alcantarillado, se cumplan los requisitos de orden sanitario que marca la Ley de la materia;
 
 X. Cuidar del aseo público de las poblaciones de su circunscripción;
 
@@ -509,13 +531,17 @@ XIII. Prestar a las autoridades judiciales y al Ministerio Público el auxilio n
 
 XIV. Resolver en revisión los actos y acuerdos del Presidente;
 
-XV. Sujetar a concurso las obras y adquisiciones en materiales y equipo, cuando excedan de doscientos cincuenta mil pesos y que requieran para cubrir las necesidades propias de sus funciones y,
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+XV. Sujetar a concurso las obras cuando excedan de dos millones de pesos y no tengan capacidad técnica para ejecutarlas por administración. Asimismo, las adquisiciones de materiales y equipo, cuando rebasen de un millón quinientos mil pesos,
 
 XVI. Aceptar herencias, legados y donaciones que se hagan al municipio.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 31.
 
-Los Ayuntamientos no podrán en materia hacendaria, celebrar contratos o aceptar igualas en contra del cobro de los impuestos municipales, gravar, enajenar o comprar, rehusar el cumplimiento de las obligaciones que impongan las leyes o autorizar erogaciones fuera del presupuesto.
+Los Ayuntamientos no podrán en materia hacendaria, celebrar contratos o aceptar igualas en contra del cobro de los impuestos municipales, gravar, enajenar o comprar, rehusar el cumplimiento de las obligaciones que les impongan las leyes.
 
 ### CAPITULO V. DE LAS COMISIONES
 
@@ -539,7 +565,9 @@ II. De Hacienda, Financiamiento y Patrimonio, que estará a cargo del Síndico;
 
 III. De Planeación y Programación;
 
-IV. De Educación Pública y Cultura;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+IV. De educación pública, cultura y turismo;
 
 V. De Salubridad y Asistencia:
 
@@ -547,7 +575,9 @@ VI. De Urbanismo y Obras Públicas;
 
 VII. De Industria y Comercio y,
 
-VIII. De Asuntos Agropecuarios y Recursos Hidráulicos.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+VIII. De asuntos agropecuarios y pesca.
 
 ###### ARTICULO 35.
 
@@ -599,11 +629,15 @@ III. Elaborar proyectos de preinversión que permitan racionalizar el aprovecham
 
 IV. Apoyar la elaboración de los proyectos de presupuestos de ingresos y egresos del Ayuntamiento, a partir de los requerimientos del desarrollo municipal y,
 
-V. Las demás actividades que permitan obtener un desarrollo económico y social de los municipios en forma acelerada y sostenida.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+V. Las demás actividades que permitan obtener el desarrollo económico y social de los Municipios.
+
+> <small>(REFORMADO EL PRIMERO PARRAFO, P.O. 5 DE MARZO DE 1984)</small>
 
 ###### ARTICULO 38.
 
-A la Comisión de Educación Pública y Cultural le corresponderá:
+A la Comisión de Educación Pública, Cultura y Turismo corresponderá:
 
 I. Coadyuvar con los Gobiernos Federal y Estatal en la correcta aplicación del artículo 30. de la Constitución Política del País. Ley Federal de Educación y demás disposiciones legales de la materia
 
@@ -617,6 +651,10 @@ V. Proponer la creación de bibliotecas públicas y,
 
 VI. Vigilar sobre la deserción escolar, el ausentismo magisterial y hacerlo del conocimiento de las autoridades respectivas.
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 1984)</small>
+
+VII. Procurar el desarrollo de centros turísticos dentro de la municipalidad.
+
 ###### ARTICULO 39.
 
 A la Comisión de Salubridad y Asistencia le corresponderá:
@@ -629,7 +667,9 @@ III. Proponer medidas tendientes a combatir la contaminación ambiental;
 
 IV. Procurar el buen funcionamiento de los centros asistenciales municipales;
 
-V. Proponer medidas tendientes a combatir el alcoholismo, la drogadicción, la prostitución y toda actividad que deteriore a la persona humana;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+V. Proponer medidas tendientes a combatir el alcoholismo, la drogadicción, la prostitución y toda actividad que deteriore la dignidad de la persona humana;
 
 VI. Vigilar la aplicación de los reglamentos de sanidad, higiene y seguridad en los centros industriales y comerciales;
 
@@ -665,6 +705,10 @@ VIII. Vigilar el mantenimiento del equipo destinado al aseo público y,
 
 IX. Cuidar la conservación del alumbrado público.
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 1984)</small>
+
+X. Cuidar que se cumplan las disposiciones de la Ley para regular la prestación del servicio de agua potable, drenaje y alcantarillado del Estado.
+
 ###### ARTICULO 41.
 
 A la Comisión de Industria y Comercio le corresponderá:
@@ -691,7 +735,9 @@ I. Coadyuvar con los Gobiernos Federal y del Estado en los programas agropecuari
 
 II. Vigilar el exacto cumplimiento de todas las disposiciones legales que favorezcan el desarrollo agropecuario y agroindustrial en el municipio;
 
-III. Cuidar que se cumplan las disposiciones de la Ley para Regular la Prestación del Servicio de Agua Potable, Drenaje y Alcantarillado del Estado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+III. Fomentar el desarrollo y aprovechamiento de los recursos pesqueros dentro del municipio;
 
 IV. Vigilar que se conserven las obras de infraestructura agropecuaria y el buen uso de los recursos naturales del municipio y,
 
@@ -753,9 +799,11 @@ VII. Asistir a las sesiones del Ayuntamiento y participar en las discusiones con
 
 VIII. Las demás que le otorguen las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 49.
 
-El Síndico podrá desistirse, transigir, someter a arbitraje y hacer cesión de bienes muebles previo acuerdo del Ayuntamiento.
+El Síndico podrá desistirse, transigir y someter a arbitraje previo acuerdo del Ayuntamiento.
 
 ###### ARTICULO 50.
 
@@ -777,9 +825,11 @@ IV. Concurrir a las ceremonias cívicas y a los demás actos a que fueren citado
 
 V. Las demás que les otorguen la ley y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 52.
 
-Solamente en las faltas temporales mayores de sesenta días o definitivas de los Regidores, se llamará por el Ayuntamiento a los respectivos suplentes, y las vacantes se cubrirán como lo determina el artículo 60, fracción III, de la Constitución Política del Estado.
+Solamente en las faltas temporales mayores de sesenta días o definitivas de los Regidores, se llamará por el Ayuntamiento a los respectivos suplentes y las vacantes se cubrirán como lo determina el artículo 44 fracción XIX-A de la Constitución Política del Estado.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
@@ -799,7 +849,7 @@ II. Dirigir y vigilar el funcionamiento de los servicios públicos municipales y
 
 III. Cuidar que los órganos administrativos municipales se integren y funcionen de acuerdo a la legislación vigente;
 
-IV. Nombrar y remover empleados y funcionarios cuya designación no sea privativa del Ayuntamiento;
+IV. Nombrar y remover empleados y funcionarios cuya designación no sean privativa del Ayuntamiento;
 
 V. Cumplir y hacer cumplir la Ley Orgánica Municipal, los reglamentos y las resoluciones del Ayuntamiento;
 
@@ -859,9 +909,11 @@ VI. Utilizar a los empleados o policías municipales, para asuntos personales y,
 
 VII. Residir, durante su gestión, fuera del territorio municipal.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 57.
 
-En las faltas temporales cuando éstas no excedan de sesenta días, los presidentes municipales serán suplidos por los síndicos. Cuando las faltas fuesen de mayor duración o definitivas, el Ayuntamiento lo hará del conocimiento del Gobernador del Estado para los efectos constitucionales.
+En las faltas temporales, cuando éstas no excedan de sesenta días, los Presidentes Municipales serán suplidos por los Síndicos. Cuando las faltas fuesen de mayor duración o definitivas el Ayuntamiento lo hará del conocimiento del Congreso del Estado, para los efectos constitucionales.
 
 ### CAPITULO II. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
@@ -917,7 +969,9 @@ El Tesorero será responsable del manejo de los valores a su cuidado y deberá o
 
 Para ser Tesorero se requiere:
 
-I. Ser mayor de 25 años;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+I. Ser mayor de 21 años;
 
 II. Ser mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles y no ser ministro de algún culto religioso;
 
@@ -1039,17 +1093,21 @@ Se nombrarán auxiliares de la hacienda municipal en las poblaciones que así lo
 
 Por servicio público se considera toda prestación que tienda a satisfacer necesidades públicas, y que es realizado por la administración pública o por particulares mediante concesión otorgada por la autoridad competente o arrendamiento.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 82.
 
-Se consideran, para los efectos de esta Ley, como servicios públicos municipales, los siguientes: suministro y abastecimiento de agua potable, alcantarillado, calles y pavimentaciones, embellecimientos y conservación de poblados urbanos, limpia, mercados, panteones, parques, jardines, rastros, educación pública, seguridad pública, transporte urbano, vialidad, alumbrado público, conservación de obras de interés social y demás que determine la Ley y reglamentos municipales.
+Se consideran, para los efectos de esta Ley, como servicios públicos municipales, los siguientes: Abastecimiento y suministro de agua potable, alcantarillado, calles y pavimentaciones, embellecimiento y conservación de poblados urbanos, limpia, mercados, panteones, parques, jardines, rastros, educación pública, seguridad pública, transporte urbano, vialidad, tránsito, alumbrado público, conservación de obras de interés social y demás que determine la Ley y Reglamentos Municipales.
 
 ###### ARTICULO 83.
 
 Los servicios públicos serán prestados por el Ayuntamiento y serán administrados por el Presidente Municipal o por los órganos municipales respectivos y podrán ser concesionados a personas físicas y morales, cuando no afecten la estructura y organización municipal.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 84.
 
-No podrán obtener concesiones, permisos o autorizaciones para la explotación de servicios públicos, los miembros del Ayuntamiento o funcionarios o empleados municipales o los parientes de éstos.
+No podrán obtener concesiones, permisos o autorizaciones para la explotación de servicios públicos los miembros del Ayuntamiento, ni los servidores públicos municipales, ni parientes hasta el cuarto grado.
 
 ###### ARTICULO 85.
 
@@ -1071,9 +1129,11 @@ La policía de la ciudad de Morelia, dependerá directamente del Gobernador del 
 
 La policía municipal podrá contar con un Inspector, un Comandante y los elementos que el presupuesto de egresos del municipio permita.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 90.
 
-Los inspectores de policía no podrán imponer multa o arresto, que estén reservados a los presidentes municipales, excepción hecha del Director de Seguridad Pública del Estado, que calificará las infracciones a los reglamentos en materia de Policía y Tránsito, imponiendo multas en la cuantía señalada por esta Ley y sus reglamentos o arresto hasta por treinta y seis horas, con la conmutación a que se refiere el precepto señalado.
+Los inspectores de Policía no podrán imponer multa o arresto, que estén reservados a los Presidentes Municipales, excepción hecha del Director de Seguridad Pública del Estado, que calificará las infracciones a los Reglamentos en materia de Policía y Tránsito, en la ciudad de Morelia, imponiendo multas en la cuantía señalada por esta Ley y sus reglamentos o arresto hasta por treinta y seis horas, con la conmutación a que se refiere el precepto legal señalado.
 
 ###### ARTICULO 91.
 
@@ -1089,9 +1149,11 @@ Para ser inspector de policía se requiere: Ser ciudadano mexicano por nacimient
 
 ### CAPITULO V. DE LOS REGLAMENTOS
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 94.
 
-Los Ayuntamientos tendrán la facultad de elaborar y expedir los reglamentos municipales, cometiendo a la aprobación del Congreso del Estado los que se refieran a la buena administración y funcionamiento de los servicios públicos municipales.
+Los Ayuntamientos tendrán facultades de elaborar y expedir los Reglamentos Municipales, de acuerdo a las bases normativas establecidas por el Congreso del Estado.
 
 ###### ARTICULO 95.
 
@@ -1121,29 +1183,57 @@ II. Interior del Ayuntamiento;
 
 III. De Seguridad Pública;
 
-IV. Interior de Administración;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-V. De Obras Públicas;
+IV. Tránsito;
 
-VI. De Limpieza y Salud Pública;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-VII. De Mercados y Comercio en la Vía Pública;
+V. Interior de Administración;
 
-VIII. De Estacionamiento;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-IX. De Cementerios y Panteones;
+VI. De Obras Públicas;
 
-X. De Horario Comercial;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-XI. De los Establecimientos que Expenden Alimentos Preparados;
+VII. De limpieza y salud Pública;
 
-XII. De Rastros y Expendios de Carne;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-XIII. De Anuncios;
+VIII. De mercados y comercio en la vía pública;
 
-XIV. De Espectáculos y Diversiones Publicas y,
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
 
-XV. Los demás que acuerde el Ayuntamiento, según las necesidades municipales.
+IX. De estacionamientos;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+X. Cementerios y Panteones;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+XI. De horario comercial;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+XII. De los establecimientos que expenden alimentos preparados;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+XIII. De rastros y expendios de carne;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+XIV. De anuncios;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 1984)</small>
+
+XV. De espectáculos y diversiones públicos y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 1984)</small>
+
+XVI. Los demás que acuerde el Ayuntamiento, según las necesidades municipales.
 
 ### CAPITULO VI. DEL PATRIMONIO MUNICIPAL
 
@@ -1233,9 +1323,11 @@ Todos los bienes muebles e inmuebles que constituyan el patrimonio del municipio
 
 Los bienes de dominio público de uso común y los destinados a un servicio público, son imprescriptibles y no podrán ser objeto de gravámenes de ninguna clase ni reportar en provecho de particulares ningún derecho de uso, usufructo o habitación; tampoco podrán imponerse sobre ellos servidumbre pasiva alguna en los términos del Derecho común. Los derechos de tránsito, de vistas, de bienes y otros semejantes, se regirán por las leyes y reglamentos administrativos y los permisos o concesiones que llegue a otorgar la autoridad municipal sobre esta clase de bienes, tendrán siempre el carácter de revocables.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 107.
 
-La compra o enajenación de bienes inmuebles municipales requerirá forzosamente la aprobación del Congreso del Estado.
+La compra o enajenación de bienes inmuebles municipales, así como la donación, cesión o venta de bienes de activo fijo, requerirá la aprobación del Congreso.
 
 ###### ARTICULO 108.
 
@@ -1275,9 +1367,11 @@ Las faltas u omisiones de los encargados del orden, jefes de manzana y sus auxil
 
 De los delitos del orden común cometidos por los miembros de un Ayuntamiento, conocerán los tribunales comunes y, de las faltas y delitos oficiales, la Legislatura del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+
 ###### ARTICULO 116.
 
-Cuando un miembro del Ayuntamiento sea procesado como responsable de un delito, quedará suspendido en el ejercicio de sus funciones, a partir del auto de formal prisión, llamándose al suplente y, si no concurriere o no lo hubiere, se dará cuenta al Gobernador del Estado para que designe al sustituto.
+Cuando un miembro del Ayuntamiento sea procesado como responsable de un delito, quedará suspendido en el ejercicio de sus funciones, a partir del auto de formal prisión, llamándose al suplente, y si no concurriere o no lo hubiere, se dará cuenta al Congreso del Estado, para que designe al sustituto.
 
 Cuando un empleado del Ayuntamiento sea procesado por la comisión de un delito, será suspendido en el ejercicio de sus funciones, a partir del auto de formal prisión; si la sentencia es absolutoria, se le reinstalará en su trabajo.
 
@@ -1388,3 +1482,11 @@ Por tanto, mando se publique y observe.
 PALACIO DEL PODER EJECUTIVO.- Morelia, Michoacán, 27 de julio de 1982.-
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO, DR. ROBERTO ROBLES GARNICA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE MARZO DE 1984.
+
+PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
