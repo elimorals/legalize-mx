@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-amnistia-para-el-estado-de-oaxaca-19118"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-08"
-last_updated: "2000-12-08"
+last_updated: "2001-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AMNISTIA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 8 de diciembre del 2000.
 
@@ -45,11 +45,11 @@ LEY DE AMNISTÍA PARA EL ESTADO DE OAXACA
 
 Se decreta amnistía a favor de todas aquellas personas en contra de quienes se haya ejercitado o pudiere ejercitarse acción penal, ante los tribunales del Poder Judicial del Estado, por los delitos cometidos con el propósito de alterar la vida institucional y la seguridad interior del Estado, y para aquellos individuos que en actuaciones ministeriales y/o judiciales se desprenda que el delito que se les imputa se encuentra vinculado con dicho móvil, formando parte de grupos armados e impulsados por móviles de reivindicación social relacionados con los hechos del día 28 de agosto del 1996 hasta la fecha de entrada en vigor de la presente Ley.
 
-> <small>(F. DE E., P.O. 18 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2001)</small>
 
 ###### Artículo 2.
 
-Los individuos que se encuentren actualmente sustraídos a la acción de la justicia, dentro o fuera del territorio del Estado, por los motivos a que se refiere el artículo 1, podrán beneficiarse de la amnistía, condicionada a la entrega, si los tuvieren, de todo tipo de instrumentos, armas, explosivos u otros objetos empleados en la comisión de los delitos, dentro del plazo de ciento veinte días a partir de la vigencia de esta Ley.
+Los individuos que se encuentran actualmente sustraídos a la acción de la justicia, dentro y fuera del territorio del Estado, por los motivos a que se refiere el artículo 1, podrán beneficiarse de la amnistía, condicionada a la entrega, si los tuvieren, de todo tipos de instrumentos, armas, explosivos, u otros objetos empleados en la comisión de los delitos, dentro del plazo de doscientos diez días a partir de la vigencia de esta Ley.
 
 ###### Artículo 3.
 
@@ -126,3 +126,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MARZO DE 2001.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
