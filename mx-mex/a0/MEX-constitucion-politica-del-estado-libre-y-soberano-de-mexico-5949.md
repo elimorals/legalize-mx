@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1982-03-13"
+last_updated: "1982-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 1982.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 1982.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -981,9 +981,9 @@ III.- Cuidar de que las elecciones constitucionales se celebren dentro del tiemp
 
 IV.- Concurrir ante la Legislatura del Estado el día 20 de enero de cada año, con excepción del que corresponda al año siguiente en que tome posesión del cargo a rendir un informe acerca del estado que guarda la Administración Pública. De la gestión administrativa realizada en los últimos ocho meses de cada sexenio, informará el 5 de septiembre del año respectivo.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1982)</small>
 
-V. Presentar cada año a la Legislatura antes del día quince del mes de diciembre los proyectos de leyes de Ingresos y Egresos Generales del Estado, que deberán regir en el año fiscal inmediato siguiente, así como la cuenta de gastos del año inmediato anterior, que rendirá dentro de los primeros diez días del período ordinario de sesiones de la propia Legislatura.
+V.- Presentar cada año a la Legislatura antes del día veinte de diciembre los proyectos de Leyes de Ingresos y Egresos Generales del Estado que deberán regir en el año Fiscal inmediato siguiente; así como la cuenta de gastos del año inmediato anterior que rendirá dentro de los primeros diez días del período ordinario de Sesiones de la propia Legislatura.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2528,3 +2528,9 @@ El Ejecutivo del Estado, deberá en su oportunidad, expedir nombramiento de Magi
 ###### ARTICULO TERCERO.
 
 La Sala de nueva creación del Tribunal Superior de Justicia del Estado, empezará a funcionar cuando lo determine el Pleno del propio Tribunal.
+
+G.G. 14 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno del Estado.
