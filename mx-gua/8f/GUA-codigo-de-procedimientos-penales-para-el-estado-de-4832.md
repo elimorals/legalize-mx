@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1981-01-01"
+last_updated: "1981-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1981.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -3167,17 +3167,17 @@ El Juez remitirá su opinión, así como la documentación que la sustenta, al E
 
 La opinión del Juez no impide que el reo aporte pruebas directamente al Ejecutivo del Estado para corroborar o desvirtuar aquélla.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1981)</small>
 
 ###### Art. 502.
 
-Concedida la libertad anticipada por el Ejecutivo del Estado, este último determinará el monto de la garantía que debe otorgar el reo y enviará al Juez una comunicación autorizándolo para que, en su auxilio, califique y reciba la garantía y, en su caso, otorgue el salvoconducto.
+Concedida la libertad anticipada por el Ejecutivo del Estado, este enviará al Juez una comunicación autorizándolo para que, otorgue el salvoconducto.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1981)</small>
 
 ###### Art. 503.
 
-Admitida la garantía, el Juez otorgará al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad anticipada. Esta concesión se comunicará al Alcaide de la prisión respectiva y a la Autoridad Municipal del lugar que se señale para la residencia del mismo reo.
+El Juez otorgará al reo el salvoconducto para que pueda comenzar a disfrutar de la libertad anticipada. Esta concesión se comunicará al Alcaide de la prisión respectiva y a la Autoridad Municipal del lugar que se señale para la residencia del mismo reo.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
@@ -3454,3 +3454,9 @@ Este decreto entrará en vigor el día 15 de febrero de 1981.
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE ENERO DE 1981.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
