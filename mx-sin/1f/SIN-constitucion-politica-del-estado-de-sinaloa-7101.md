@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1940-03-14"
+last_updated: "1941-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1941.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -591,11 +591,11 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida dentro de los tres
 
 Siempre que por cualquier motivo no pudiera por de pronto el Congreso o la Diputación Permanente, hacer la designación de que tratan los artículos anteriores, entrará a ocupar el cargo, provisionalmente, el Presidente del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1938)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1941)</small>
 
 ###### Art. 61.
 
-El Gobernador nombrado en los términos de los tres artículos anteriores, no podrá ser electo popularmente en ningún tiempo y por ningún motivo, Gobernador Constitucional del Estado.
+El Gobernador nombrado en los términos de los dos artículos anteriores, no podrá ser electo popularmente en ningún tiempo y por ningún motivo, Gobernador Constitucional del Estado.
 
 ###### Art. 62.
 
@@ -1566,3 +1566,7 @@ Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 14 DE MARZO DE 1940.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 1941.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
