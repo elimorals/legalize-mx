@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1990-01-15"
+last_updated: "1990-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1990.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -263,7 +263,9 @@ Los marbetes sólo se admitirán como medio de comprobar el pago de los crédito
 
 ART. 40.- Cuando no se paguen los créditos fiscales en la fecha o dentro del plazo señalado en las disposiciones fiscales respectivas, deberán cubrirse recargos, en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-Dichos recargos se calcularán conforme a una tasa del 12.75% aplicable por cada treinta días naturales o fracción que transcurra a partir del día siguiente de aquel en que debió hacerse el pago y hasta que éste se efectúe.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1990)</small>
+
+Dichos recargos se calcularán conforme a una tasa del 6.0% aplicable por cada treinta días naturales o fracción que transcurran a partir del día siguiente de aquél en que debió hacerse el pago y hasta que éste se efectúe.
 
 Los recargos se calcularán sobre el importe del crédito principal, excluyendo los demás conceptos que se deriven de dicho importe. El monto de los recargos aplicables no excederá del importe del crédito fiscal y cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
@@ -1693,7 +1695,13 @@ Para los efectos de este Capítulo, se entiende por vehículos de motor usado aq
 
 ART. 151.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Hacienda Pública y Tesorería, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
 
-Para vehículos cuyo modelo corresponda al año en curso, se tomará como base del impuesto el 90% del importe de la primera facturación.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1990)</small>
+
+Para vehículos cuyo modelo corresponda al año en curso, se tomará como base para el cálculo del impuesto el 90% del importe de la primera facturación, incluyendo dentro de ésta el equipo opcional común o de lujo, así como el monto de los impuestos que hayan sido efectivamente pagados por el primer propietario del vehículo.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1990)</small>
+
+El avalúo pericial a que se refiere el primer párrafo de este Artículo, deberá ser practicado considerando el valor real del vehículo en la fecha en que se efectúe el trámite de pago del impuesto. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente, el que podrá ser rechazado en caso de que se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1885,7 +1893,15 @@ III.- La cuota asignada podrá cubrirse por períodos bimestrales, dentro de los
 
 IV.- Los causantes que tributen a base de cuota fija, no estarán obligados a presentar declaraciones mensuales ni a llevar los libros o registros que previene este Capítulo, pero sí estarán sujetos a las demás disposiciones contenidas en esta Ley;
 
-V.- La cuota asignada tendrá vigencia hasta el 31 de Diciembre de cada año independientemente de la fecha de su asignación o notificación.
+V.- La cuota asignada tendrá vigencia hasta el 31 de Diciembre de cada año independientemente de la fecha de su asignación o notificación;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1990)</small>
+
+VI.- Los contribuyentes que tributen a base de cuota fija, pagarán una cuota mínima de impuesto principal equivalente a 3 días de salario mínimo general, que esté vigente en el Estado de Sinaloa en el mes a que corresponda la cuota a pagar;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1990)</small>
+
+VII.- Cuando el ingreso efectivamente percibido resulte superior en más de un 20% al ingreso que se tomó como base para fijar la cuota, el contribuyente pagará la diferencia que resulte mediante una declaración complementaria que deberá presentar ante la Recaudación de Rentas de su domicilio dentro de los primeros 10 días del mes siguiente de aquél a que corresponda el ingreso percibido.
 
 ### CAPITULO XI. Impuesto sobre Plantas de Beneficio y Establecimientos Metalúrgicos
 
@@ -4255,79 +4271,61 @@ ART. 334 Bis.- Las cuotas, derechos y refrendos, así como sus correspondientes 
 
 ART. 334 Bis A.- El uso de la autopista estatal "BENITO JUÁREZ", mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la carretera a Eldorado o viceversa, estará sujeto a la siguiente:
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA LA TARIFA, P.O. 07 DE ABRIL DE 1989)</small>
 
 T A R I F A
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
 CLASE DE VEHICULO VECES EL SALARIO
 
 MINIMO GENERAL
 
-VIGENTE DIARIO EN
+DIARIO VIGENTE
 
-SINALOA
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+EN SINALOA
 
 Tramo Completo Tramo Intermedio
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+I.- Motocicletas
 
-I.- Motocicletas 0.20 0.10
+(con placas con
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+Procedencia Extranjera) 0.50 0.25
 
-II.- Automóviles y camionetas
+II.- Automóviles y Camionetas
 
 tipo pick-up y panel, de hasta
 
 10 pasajeros:
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+a) Sin remolque 1.30 0.65
 
-a) Sin remolque 0.50 0.25
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
-
-b) Con remolque 0.85 0.40
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+b) Con remolque 1.50 0.75
 
 III.- Autobuses de
 
-Pasajeros 0.85 0.40
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+pasajeros 1.70 0.85
 
 IV.- Camiones de carga
 
-de 2 ejes 0.85 0.40
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+de 2 ejes 1.70 0.85
 
 V.- Camiones de carga o
 
-tractores con semiremolque
+Tractores con semiremolque
 
-de 3 Ejes 1.30 0.65
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+de 3 ejes 2.20 1.10
 
 VI.- Camiones de carga o
 
 tractores con remolque de
 
-4 ejes 1.80 0.90
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
+4 ejes 2.70 1.35
 
 VII.- Camiones de carga o
 
-tractores con remolque de
+tractores con remolque
 
-5 ejes 2.20 1.10
+de 5 ejes 3.20 1.60
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
 
@@ -5116,6 +5114,28 @@ ART. 399.- Si al cometer una infracción a las Leyes Fiscales se ha incurrido en
 ART. 400.- La reincidencia en la comisión de infracciones que tengan como consecuencia la evasión de créditos fiscales se sancionará, la primera vez, con la aplicación de la multa procedente aumentada en un 50%, la segunda vez, con la clausura temporal del establecimiento por treinta días.
 
 Se entiende que hay reincidencia para los efectos de esta Ley, cuando la misma persona incurra en otra infracción análoga a aquella por la que se le hubiera sancionado dentro de dos ejercicios fiscales anteriores.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1990)</small>
+
+ART. 400-A.- Los ingresos que el Estado obtenga efectivamente de multas por infracción a las disposiciones fiscales, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensa por productividad y cumplimiento del personal que ejerza las facultades de comprobación, determinación, notificación y ejecución de créditos fiscales relativos a dichas disposiciones.
+
+Sólo ingresará a los citados fondos el importe de las multas efectivamente pagadas y que hubieren quedado firmes, salvo que por Ley estén destinadas a otros fines.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1990)</small>
+
+ART. 400-B.- La constitución y la distribución de los fondos a que se refiere el Artículo anterior, se hará de conformidad con lo siguiente:
+
+I.- El fondo de Productividad Directa se formará con el 60% de los ingresos que el Estado obtenga efectivamente, provenientes de multas que hayan quedado firmes, impuestas por infracción a las disposiciones fiscales, cuando dicha infracción se conozca con motivo del ejercicio de las facultades de comprobación, determinación, notificación y ejecución relativas a las multas que forman el citado fondo.
+
+II.- El fondo de Productividad Indirecta se formará con el 40% restante de las multas a que se refiere la fracción anterior y con el 100% de las demás multas firmes que el Estado perciba efectivamente por infracción a las disposiciones no fiscales, hecha excepción de aquéllas que tengan otro destino específico.
+
+Este fondo se distribuirá entre los servidores públicos de la Secretaría de Hacienda Pública y Tesorería que intervengan indirectamente respecto de las multas a que se refiere la fracción anterior, así como entre todos aquellos que lo hagan en relación con las demás que constituyen este fondo.
+
+III.- El Fondo Complementario se formará con los remanentes que resulten de las cantidades no distribuidas durante el año, provenientes de los fondos previstos por las fracciones anteriores.
+
+Este fondo se distribuirá entre los servidores públicos a que se refiere la fracción anterior, así como entre aquellos que se encuentren adscritos a las unidades administrativas centrales relacionadas con el ejercicio de las facultades señaladas en dicha fracción.
+
+La Secretaría de Hacienda Pública y Tesorería, de conformidad con lo dispuesto por este Artículo y por las reglas de carácter general que al efecto dicte, determinará los límites máximos, porcentajes y montos de las participaciones, así como las categorías de los servidores públicos adscritos a dicha Secretaría, a que el mismo se refiere.
 
 TITULO ONCEAVO
 
@@ -6052,3 +6072,9 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 A partir de la fecha en que entre en vigor esta Ley, quedará derogado el último párrafo del Artículo 365 de la Ley de Hacienda del Estado.
+
+P.O. 07 DE FEBRERO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
