@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2001-06-06"
+last_updated: "2001-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -315,7 +315,7 @@ d).- Declarará Gobernador electo al ciudadano que hubiese obtenido el mayor nú
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1997)</small>
 
-III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
+III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la Fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
 
 > <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -751,7 +751,7 @@ XXXI. Establecer la demarcación territorial de los Distritos Electorales Uninom
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del períod;
+XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del período;
 
 XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
 
@@ -813,7 +813,7 @@ LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en 
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
-LV. Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
+LV.- Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -1867,25 +1867,33 @@ La Ley determinará cuales son las profesiones que necesitan título para su eje
 
 El Ejecutivo podrá celebrar con la Federación y los Municipios, convenios sobre coordinación de los Servicios de Educación Pública, reservándose las facultades necesarias y asegurando la estabilidad de los Profesores al servicio del Estado; se determinará en la Ley los estímulos y recompensas a los Profesores, en atención al mérito de sus labores y a la antigüedad de sus servicios.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
+
 ### CAPITULO I. De la Educación Pública
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 144.
 
-Habrá en el Estado una Corporación que se denominará "CONSEJO DE HIGIENE PUBLICA," encargada de dictar disposiciones tendentes a conservar la salubridad y vigilar por su cumplimiento. Las resoluciones que dicte ese Consejo, previo acuerdo con el Ejecutivo, serán de observancia obligatoria para todos los habitantes del Estado. Los miembros del Consejo serán nombrados por el Ejecutivo.
+Toda persona tiene derecho a la protección de la salud. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud, así como la distribución de competencias en materia de salubridad.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 145.
 
-Una ley organizará todo lo relativo al funcionamiento del Consejo.
+El Estado contará con un Consejo General de Salud, cuyas atribuciones fundamentales serán asesorar al Ejecutivo en materia de salud y establecer las políticas en este renglón.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+La conformación y funcionamiento del Consejo General de Salud estará regulado por la Ley.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 146.
 
-No obstante lo expresado en los artículos anteriores, con objeto de que la acción sanitaria encomendada al Gobierno del Estado se intensifique, se faculta al Ejecutivo para celebrar convenios con el Gobierno Federal sobre coordinación de los servicios sanitarios, reservándose al propio Ejecutivo la intervención que estime necesaria en la designación de personal y funcionamiento del Departamento respectivo.
+Con el objeto de que la salud pública encomendada al Gobierno del Estado se intensifique, el Ejecutivo podrá coordinarse, mediante la celebración de convenios, con el Gobierno Federal y Municipal, reservándose la intervención que estime necesaria, en términos de la propia ley.
 
-### CAPITULO II. De la Higiene Pública
+### CAPITULO II. De la Salud Pública
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 147.
 
@@ -2963,13 +2971,15 @@ P.O. 6 DE JUNIO DE 2001.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 27 DE NOVIEMBRE DE 2001.
+
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-El Pleno de la Suprema Corte de Justicia determinará cuándo la Sala Auxiliar deberá suspender y reanudar sus funciones, y cuándo dejará de funcionar definitivamente.
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO UNICO.
 
