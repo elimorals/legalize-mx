@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1969-05-31"
+last_updated: "1971-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1971.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -953,11 +953,11 @@ Todos los Concejales durarán en su encargo tres años se renovarán totalmente 
 
 Los Ayuntamientos serán electos en una sola elección. Una vez elegidos el Presidente y el Síndico o Síndicos Procuradores, los Regidores se distinguirán por número de orden y de igual manera se distinguirán los Síndicos cuando sean dos. Habrá un Síndico para los Ayuntamientos que se compongan hasta de nueve miembros, y dos Síndicos para los que estén formados de once o más.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1971)</small>
 
 ###### ARTICULO 101.
 
-Para ser miembro de un Ayuntamiento se requiere: ser mexicano en el ejercicio de sus derechos, haber cumplido 18 años siendo casado o 21 no siéndolo, ser vecino del Municipio y tener un modo honesto de vivir. Por cada miembro del Ayuntamiento que se elija como propietario se elegirá un suplente.
+Para ser miembro de un Ayuntamiento, se requiere: Ser mexicano en el ejercicio de sus derechos, haber cumplido 18 años, ser vecino del Municipio y tener un modo honesto de vivir. Por cada miembro del Ayuntamiento que se elija como Propietario se elegirá un Suplente.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -1592,3 +1592,7 @@ Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 P.O. 31 DE MAYO DE 1969.
 
 Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 1971.
+
+Unico.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
