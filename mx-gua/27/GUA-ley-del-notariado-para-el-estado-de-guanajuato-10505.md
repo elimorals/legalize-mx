@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-notariado-para-el-estado-de-guanajuato-10505"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-01"
-last_updated: "1996-10-01"
+last_updated: "1997-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de octubre de 1996.
 
@@ -467,9 +467,13 @@ El sello del notario se imprimirá en el ángulo superior derecho del anverso de
 
 Los notarios seguirán el sistema de protocolo conforme a este capítulo para hacer constar los actos que conforme a esta Ley, deban autorizar.
 
-Se entiende por folios las hojas numeradas progresivamente y perforadas, que deberán contener el nombre, número, domicilio, sello y firma del notario, así como el sello de la unidad administrativa que corresponda de la Secretaría de Gobierno. Las que serán coleccionadas, ordenadas y sólidamente empastadas y junto con su apéndice constituirán el protocolo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-El notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo.
+Se entiende por folios, las hojas numeradas progresivamente, que deberán contener las características que determine la unidad administrativa que corresponda de la Secretaría de Gobierno, de conformidad a lo previsto por el artículo 58 de esta Ley, además de la firma o rúbrica y sello del notario, las que serán coleccionadas, ordenadas y sólidamente empastadas y junto con su apéndice constituirán el protocolo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+El notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo, salvo los casos que señale la Ley.
 
 ###### Artículo 54.
 
@@ -481,7 +485,7 @@ Los folios deberán utilizarse en forma progresiva por ambas caras y los instrum
 
 La unidad administrativa que corresponda de la Secretaría de Gobierno, a costa de los propios notarios les proveerá de los folios necesarios para asentar los instrumentos.
 
-La unidad administrativa que corresponda de la Secretaría de Gobierno será la encargada de hacer la perforación de los folios.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 56.
 
@@ -531,11 +535,13 @@ Si la parte final del folio no fuere suficiente, la autorización definitiva o l
 
 Sólo en caso de adiciones a una escritura si ésta no ha sido firmada, si las mismas no caben en el folio en el que hubiera terminado la redacción de la escritura, y el siguiente ya se hubiere empleado, se podrá utilizar uno o más diferentes, siguiendo el procedimiento señalado en el segundo párrafo del artículo 60 de esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 65.
 
 Fuera de los casos expresamente consignados en esta Ley, por ningún motivo podrán sacarse de las notarías los tomos concluidos del protocolo.
 
-Los folios sólo podrán sacarse por el notario cuando la naturaleza del acto notarial así lo exija o para recabar firmas.
+Los folios sólo podrán sacarse por el notario cuando la naturaleza del acto notarial así lo exija o para recabar firmas, y aún fuera de su adscripción, cuando se trate de recabarlas a los titulares o representantes de instituciones y organismos oficiales.
 
 ###### Artículo 66.
 
@@ -739,9 +745,11 @@ En las actas de protocolización de documentos, el notario hará constar la natu
 
 #### SECCION CUARTA. DE LOS TESTIMONIOS
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 95.
 
-Los testimonios serán copia íntegra del instrumento incluyendo la mención de las firmas que existan, el sello y las constancias de haberse llenado los requisitos que determinan las leyes, como previos a la expedición del testimonio. Al final, se asentará la constancia de haberse sacado de su matriz, el tomo que corresponda, la fecha, las fojas de que consta, en favor de quien se expide, la razón de haberse cotejado y, la mención de ser primer testimonio y el número que le corresponda en su orden de expedición.
+Los testimonios serán copia íntegra del instrumento incluyendo la mención de las firmas que existan, el sello y las constancias de haberse llenado los requisitos que determinan las leyes, como previos a la expedición del testimonio. Al final, se asentará la constancia de haberse sacado de su matriz, el tomo que corresponda, la fecha, las fojas de que consta, en favor de quien se expide, la razón de haberse cotejado y correjido (sic), y la mención de ser primer testimonio y el número que le corresponda en su orden de expedición.
 
 ###### Artículo 96.
 
@@ -1183,11 +1191,13 @@ Artículo Quinto.- El Secretario de Gobierno convocará a los aspirantes a notar
 
 Artículo Sexto.- Quienes tengan expedido fíat y no se encuentren en ejercicio de sus funciones, dispondrán del plazo de sesenta días hábiles a partir de que entre en vigor la presente Ley, para comunicar por escrito a la Dirección General de Registros Públicos y Notarías y al Consejo de Notarios que asumen sus funciones. Transcurrido dicho término y no cumplan lo dispuesto en este artículo se procederá como lo dispone la fracción IV del artículo 116 del presente ordenamiento, salvo que se tenga concedida licencia por el titular del Poder Ejecutivo.
 
-Artículo Séptimo.- El uso del actual libro protocolo o de los folios del protocolo abierto, es optativo durante el primer año de vigencia de la presente Ley.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-Los notarios que opten por el protocolo cerrado, seguirán observando las disposiciones de la Ley que abroga el artículo segundo transitorio del presente Decreto.
+Artículo Séptimo.- El uso del actual libro protocolo o de los folios del protocolo abierto, será optativo hasta el día treinta de junio de mil novecientos noventa y ocho.
 
-Transcurrido este plazo, el uso del sistema de folios a que se refiere esta ley es obligatorio.
+Durante ese periodo, los notarios que opten por el protocolo cerrado, seguirán observando las disposiciones de la Ley que abroga el artículo segundo transitorio del presente Decreto, solamente en cuanto a las disposiciones aplicables a las características de los libros del protocolo y autoridades que los deban autorizar.
+
+Llegado el término a que se refiere el párrafo primero de este artículo, el uso del sistema de folios de protocolo abierto será obligatorio.
 
 Artículo Octavo.- En las cabeceras municipales que también sean de partido judicial donde los notarios en ejercicio excedan al número que correspondan conforme a lo dispuesto por el artículo 11 de esta Ley continuarán en funciones, pero no podrán otorgarse nuevas notarías en tanto no se reúnan las condiciones señaladas en dicho precepto.
 
@@ -1206,3 +1216,11 @@ VICENTE FOX QUESADA
 EL SECRETARIO DE GOBIERNO
 
 RAMON MARTIN HUERTA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
