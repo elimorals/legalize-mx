@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1975-07-20"
+last_updated: "1978-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1978.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1579,7 +1579,9 @@ ART. 410.- Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de Ley:
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de un mil pesos;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1978)</small>
+
+I.- Las sentencias pronunciadas en juicio cuyo interés no pase de $5,000.00;
 
 II.- Las sentencias de segunda instancia;
 
@@ -1589,19 +1591,17 @@ IV.- Las que dirimen o resuelven una competencia, y
 
 V.- Las demás que se declaran irrevocables por prevención expresa de la Ley, así como aquéllas de las que se dispone que no admiten ningún recurso.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1978)</small>
+
 ART. 411.- Causan ejecutoria por declaración judicial:
 
-I.- Las sentencias consentidas expresamente por las partes o por sus mandatarios con poder o cláusula especial;
+I.- Las sentencias consentidas expresamente por las partes, o por sus mandatarios con poder o cláusula especial. En este caso el Juez de Oficio hará la declaración correspondiente.
 
-II.- Las sentencias de que hecha notificación en forma, no se interpone recurso en el término señalado por la Ley, y
+II.- Las sentencias de que hecha la notificación en forma no se interpone recurso en el término señalado por la Ley. La declaración se hará sin más trámite a petición de parte.
 
-III.- Las sentencias de que se interpuso recurso, pero no se continuó en forma y término legales o se desistió de él la parte o su mandatario con poder o cláusula especial.
+III.- Las sentencias contra las que se interpuso recurso en forma y dentro del término legal y que hubiere desistimiento de él por la parte que lo hizo valer o su mandatario con poder o cláusula especial. En este caso la declaración la hará la Sala del Supremo Tribunal de Justicia que corresponda.
 
-ART. 412.- En los casos a que se refiere la fracción I del artículo anterior, el juez de oficio hará la declaración correspondiente.
-
-En el caso de la fracción II, la declaración se hará sustanciando el artículo con un escrito de cada parte. Los términos serán tres días para contestar y otros tres para dictar la resolución.
-
-Si hubiere deserción o desistimiento del recurso, la declaración la hará de oficio el tribunal o el juez, en su caso.
+ART. 412.- (DEROGADO, P.O. 27 DE ABRIL DE 1978)
 
 ART. 413.- El auto en que se declara que una sentencia ha causado o no ejecutoria, no admite recurso alguno.
 
@@ -3529,11 +3529,17 @@ IV.- Los gastos legales que acredite el interesado haber hecho para constituir e
 
 En este caso y en el del artículo anterior, la garantía se calificará con audiencia de la contraparte
 
-ART. 950.- Admitida la apelación en ambos efectos, el juez, dentro de cuarenta y ocho horas remitirá los autos al Supremo Tribunal, citando y emplazando a las partes para que se presenten ante el superior a continuar el recurso y les prevendrá que señalen domicilio para recibir notificaciones en el lugar de la residencia del tribunal. Si la apelación se admitió sólo en el efecto devolutivo se observará además lo dispuesto en el artículo 944.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1978)</small>
 
-ART. 951.- Si el Supremo Tribunal reside en el lugar del juicio, se fijará al apelante el término de cinco días improrrogables para que se presente a continuar el recurso. Si reside en lugar distinto de aquel en que se pronunció la sentencia, a los cinco días de que se habla en el párrafo anterior, se agregarán los que fueren necesarios atendida la distancia y las demás circunstancias de que se habla en el artículo 128.
+ART. 950.- Admitida la apelación en ambos efectos, el Juez, dentro de 48 horas remitirá los autos al Supremo Tribunal y prevendrá a las partes para que señalen domicilio para recibir notificaciones en el lugar de la residencia del Tribunal. Si no lo hicieren, las notificaciones se harán en la puerta del Tribunal, por lista o por cédula.
 
-ART. 952.- Llegados los autos al Supremo Tribunal o en su caso las constancias relativas para substanciar la apelación, las turnará desde luego a la Sala que corresponda y ésta, si el apelante se hubiere presentado a continuar el recurso, sin necesidad de vista o informes, dentro de cinco días resolverá sobre la admisión del recurso y la calificación de grado hecha por el juez.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1978)</small>
+
+ART. 951.- Si la apelación se admitió sólo en el efecto devolutivo, se observará también lo que dispone el Artículo anterior y además lo dispuesto en el Artículo 944.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1978)</small>
+
+ART. 952.- Llegados los autos al Supremo Tribunal de Justicia o en su caso las constancias relativas para substanciar la apelación, las turnará desde luego a la Sala que corresponda y ésta, sin necesidad de vista o informes, dentro de cinco días resolverá sobre la admisión del recurso y la calificación de grado hecha por el juez.
 
 Declarada inadmisible la apelación se devolverán los autos al inferior y se declarará ejecutoriada la resolución apelada. Si se revoca la calificación de grado, se procederá en consecuencia.
 
@@ -3565,7 +3571,9 @@ ART. 961.- En las apelaciones en materia extraordinaria los términos a que se r
 
 ART. 962.- Las apelaciones de interlocutorias o autos se substanciarán conforme a los tres artículos anteriores.
 
-ART. 963.- En el caso de que el apelante no se presente a continuar el recurso dentro del término que le señaló el juez o de que no exprese agravios en el término de Ley, se le tendrá por desistido del recurso, haciendo la declaración correspondiente el superior, previa certificación de la falta de presentación o de la expresión de agravios y a petición de parte.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1978)</small>
+
+ART. 963.- En el caso de que el apelante no comparezca a expresar agravios en el término de ley, se le tendrá por desistido del recurso, haciendo la declaración correspondiente, de oficio, el Superior, previa certificación de que las partes fueron notificadas en forma, el cómputo del término para la expresión de agravios y la falta de presentación de los mismos.
 
 ART. 964.- Las sentencias que se dicten sobre modificación de actas del estado civil y sobre nulidad de matrimonios, por las causas expresadas en los artículos 200, 201 y 207 a 210 del Código Civil, serán revisadas de oficio por la sala que corresponda del Supremo Tribunal, con intervención del Ministerio Público, si las partes no promueven apelación; y mientras el tribunal examina la legalidad del fallo, quedará en suspenso su ejecución.
 
@@ -4290,3 +4298,7 @@ P.O. 20 DE JULIO DE 1975.
 PRIMERO.- El presente Decreto deroga los anteriores que se le opusieren.
 
 SEGUNDO.- Este Decreto entrará en vigor diez días después de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 27 DE ABRIL DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
