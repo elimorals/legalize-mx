@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-organizacion-y-reglamentaria-del-registro-publico-de-375
 country: "mx"
 rank: "ley"
 publication_date: "1978-07-20"
-last_updated: "1999-09-17"
+last_updated: "2002-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1978.
 
@@ -669,9 +669,11 @@ P.O. 29 DE FEBRERO DE 1980.
 
 El presente Decreto entrará en vigor, a los cuarenta y cinco días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Una vez establecido el Registro Público de la Propiedad y de Comercio de la Ciudad de Tecate, previamente a cada inscripción de documento objeto de registro, se solicitará, a costa del interesado, del Registro de la ciudad de Tijuana o de Ensenada, según se trate, copia de la última partida y en su caso de sus anotaciones y gravámenes, que sea antecedente del documento objeto del registro, y una vez que se haga la inscripción en el Registro de la ciudad de Tecate, éste lo comunicará al de la ciudad de Tijuana o Ensenada, para que cancele la partida y anote al margen de ella que ha sido trasladada a los libros del Registro de la ciudad de Tecate.
+Una vez establecido el Registro Público de la Propiedad y de Comercio en la ciudad de Tecate, los Registradores Públicos en los Municipios de Tijuana y Ensenada deberán realizar oficiosamente el traslado de partidas y en su caso anotaciones y gravámenes que sean antecedente de los documentos objeto de registro que se encuentren en sus Delegaciones y que pertenezcan a la circunscripción territorial del Municipio de Tecate, realizando las cancelaciones de partidas y anotaciones al margen de las mismas, señalando que han sido trasladadas a los libros y archivos del Registro Público de la Propiedad y de Comercio del Municipio de Tecate.
 
 ###### ARTICULO TERCERO.
 
@@ -694,3 +696,7 @@ Practicado el proceso consignado en el Artículo anterior, el Registrador Públi
 ###### ARTICULO CUARTO.
 
 El Registrador Público de la Propiedad y de Comercio en el municipio de Tijuana, a partir de la fecha de publicación de este Decreto, carecerá de facultad para consumar nuevas inscripciones, expedir o autorizar certificación alguna respecto a inscripciones, anotaciones y cancelaciones de actos jurídicos que consten en el archivo y que resulten de actual competencia de la Oficina Registral con sede en el Municipio de Playas de Rosarito.
+
+P.O. 21 DE JUNIO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
