@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "2003-04-14"
+last_updated: "2003-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2003.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -1959,9 +1959,13 @@ El procedimiento de responsabilidad administrativa a que se refiere el artículo
 
 La remisión del escrito de denuncia y anexos para que el servidor público rinda informe con respecto a la causa o causas de responsabilidad que se le imputen, se hará por conducto del Secretario Ejecutivo de Disciplina, mediante oficio, en forma personal o a través de un juez de Distrito que actúe en auxilio de éste, o bien a través de correo certificado o mensajería.
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 19/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ABRIL DE 2003)</small>
+
 ###### Artículo 214.
 
 El término de cinco días hábiles para rendir el informe sobre los hechos a que se refiera un escrito de queja o denuncia comenzará a correr desde el día siguiente al de la fecha de la notificación.
+
+A dicho informe deberá acompañarse el medio electrónico o magnético, que contenga su transcripción.
 
 ###### Artículo 215.
 
@@ -2444,3 +2448,9 @@ TERCERO.- El Contralor del Poder Judicial de la Federación proveerá lo necesar
 CUARTO.- La Secretaría Ejecutiva de Finanzas deberá actualizar los manuales, catálogos de puestos y demás instrumentos relativos, con el objeto de que estén acordes con las modificaciones a que se refiere este ordenamiento, en un término de dos meses a partir de la aprobación del presente acuerdo.
 
 QUINTO.- Se abroga el Acuerdo General 21/2000, del Pleno del Consejo de la Judicatura Federal, que modifica en su parte conducente los títulos primero y segundo del Acuerdo General 48/1998, con el objeto de cambiar la denominación de la Dirección General de Auditoría Interna, así como la de Operación y Diagnóstico Administrativo por las de Dirección General de Auditoría Financiera y Dirección General de Auditoría Operacional, respectivamente.
+
+D.O.F. 15 DE ABRIL DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
