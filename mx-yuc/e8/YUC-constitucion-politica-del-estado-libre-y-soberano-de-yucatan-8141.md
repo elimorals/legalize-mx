@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1993-03-12"
+last_updated: "1993-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE MARZO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE ABRIL DE 1993.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -307,7 +307,7 @@ Para ser Diputado, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;
 
-II.- Tener veintiun años cumplidos el día de la elección;
+II.- Sener veintiun años cumplidos el día de la elección;
 
 > <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
 
@@ -355,21 +355,21 @@ El Tribunal Electoral tendrá competencia y organización que determine la Ley, 
 
 El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran bajo las penas que la misma Ley designe, y, en su caso, llamar a los respectivos suplentes a fin de que funcionen mientras se presentan los propietarios.
 
-> <small>(REFORMADO, D.O. 2 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
 
 ###### Artículo 27.
 
-El Congreso tendrá cada año tres períodos de sesiones ordinarias que durarán el tiempo que sea necesario para tratar los asuntos que se le presenten y comenzarán a partir del dieciséis de enero, del dieciséis de mayo y del dieciséis de octubre, y sin que los mismos puedan prolongarse más que hasta el quince de marzo, el quince de julio y el veinte de diciembre, respectivamente, del año que corresponda. Este último periodo podrá ampliarse hasta el treinta y uno de diciembre de los años en que el Congreso se constituya en Colegio Electoral.
+El Congreso tendrá cada año tres períodos de sesiones ordinarias que durarán el tiempo que sea necesario para tratar los asuntos que se le presenten y comenzarán a partir del 16 de julio, del 16 de noviembre y del 16 de marzo y sin que los mismos puedan prolongarse más que hasta el 15 de septiembre, el 15 de enero del año siguiente y 15 de mayo. Este último período podrá ampliarse hasta el 30 de junio de los años en que el Congreso se constituya en Colegio Electoral.
 
-En sus periodos de sesiones ordinarias el Congreso se ocupará del estudio, discusión y votación de las iniciativas de las leyes que se le presenten y de la resolución de los además asuntos que le corresponden conforme a esta Constitución, y en los términos que señale su Ley Orgánica.
+En sus períodos de sesiones ordinarias, el Congreso se ocupará del estudio, discusión y votación de las iniciativas de las leyes que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución y en los términos que señala su Ley Orgánica.
 
-> <small>(REFORMADO, D.O. 2 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
 
 ###### Artículo 28.
 
-El Congreso celebrará el cuarto domingo de enero de cada uno de los cinco primeros años del periodo del Ejecutivo y el segundo domingo de diciembre del sexto año del mismo, una Sesión Solemne, en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, acerca de la situación que guarden los diversos ramos de la administración. En dicho informe podrá dar respuesta además, a las preguntas que le hubieren formulado los integrantes del H. Congreso, a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la Administración Pública, correspondiente al periodo a que se refiera el informe del Ejecutivo.
+El Congreso celebrará el cuarto domingo de julio de cada uno de los cinco primeros años del período del Ejecutivo y el segundo domingo de junio del sexto año del mismo, una Sesión Solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, acerca de la situación que guarden las diversas ramas de la administración. En dicho informe podrá dar respuesta además a las preguntas que le hubieren formulado los integrantes del H. Congreso, a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la Administración Pública, relativo al período a que se refiere el informe del Ejecutivo.
 
-El Presidente del Congreso contestará a dicho informe en términos generales.
+El Presidente del Congreso contestará a dicho informe.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -413,7 +413,7 @@ III.- revocar los acuerdos de los Ayuntamientos, a petición del Ejecutivo del E
 
 > <small>(REFORMADA, D.O. 12 DE MARZO DE 1993)</small>
 
-IV.- calificar la validez de las elecciones de los ayuntamientos.
+IV.- Calificar la validez de las elecciones de los ayuntamientos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -829,11 +829,11 @@ X.- No ser Magistrado del Tribunal Superior de Justicia, diputado al Congreso de
 
 Para ser Gobernador Interino del Estado se requieren los mismos requisitos que para ser Gobernador Constitucional.
 
-> <small>(REFORMADO, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
 
 ###### Artículo 48.
 
-El Gobernador Constitucional del Estado, entrará en funciones el día primero de febrero y durará en su encargo seis años.
+El Gobernador Constitucional del Estado entrará n (sic) funciones el día primero de agosto y durará en su encargo seis años.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -841,15 +841,15 @@ El Gobernador Constitucional del Estado, entrará en funciones el día primero d
 
 El Gobernador, al tomar posesión de su encargo, prestará ante el Congreso o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADO, D.O. 24 DE ABRIL DE 1993)</small>
 
 ###### Artículo 50.
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el día primero de febrero, cesará sin embargo, el Gobernador cuyo período hubiere concluido y se encargará desde luego del Poder Ejecutivo, con el carácter de Interino, el ciudadano que designe el Congreso.
+Si al comenzar un período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha y declarada el día primero de agosto, cesará el Gobernador cuyo período hubiere concluido y se encargará desde lugo (sic) del Poder Ejecutivo, con el carácter de interino, el ciudadano que designe el Congreso.
 
-Si éste no estuviere reunido, se encargará del despacho provisionalmente el Secretario General de Gobierno, entre tanto el Congreso designa al Gobernador Interino y convoca a las elecciones en los términos del artículo 52.
+Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el Secretario General de Gobierno, entre tanto el Congreso designa al Gobernador interino y convoca a las elecciones en los términos del artículo 52.
 
-Si la ausencia del Gobernador Electo se debiere a fuerza, coacción o cualquier otra causa que impidan materialmente llenar sus funciones, deberá comprobarse este hecho, y en tal caso, el Gobernador Interino deberá entregarle el Gobierno al legalmente electo.
+Si la ausencia del Gobernador electo se debiere a fuerza, coacción o cualquier otra causa que impida materialmente llenar sus funciones, deberá comprobarse este hecho y en tal caso, el Gobernador interino deberá entregarle el Gobierno al legalmente electo.
 
 .(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988) (F. DE E., D.O. 3 DE ENERO DE 1989)
 
@@ -1175,7 +1175,9 @@ VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendie
 
 El Estado de Yucatán adopta para su régimen interior la forma de gobierno republicano, democrático, representativo y popular y tendrá como base de su división territorial y de su organización política y administrativa los municipios, administrados por ayuntamientos de elección popular directa sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia, conforme a las bases siguientes:
 
-I.- Los ayuntamientos entrarán en funciones el primer día del mes de enero siguiente a las elecciones y durarán en su encargo tres años;
+> <small>(REFORMADA, D.O. 24 DE ABRIL DE 1993)</small>
+
+I.- Los ayuntamientos entrarán en funciones el primer día del mes de julio siguiente a las elecciones y durarán en su encargo tres años;
 
 II.- Se adopta el principio de representación proporcional como complemento del sistema de mayoría relativa para la elección de los integrantes de los ayuntamientos. Las leyes respectivas determinarán el porcentaje de la votación que deberán obtener los partidos políticos, así como las fórmulas electorales y procedimientos conforme a los que serán asignadas las regidurías de representación proporcional;
 
@@ -1975,7 +1977,7 @@ PRIMERO.- Se derogan todas las disposiciones legales que se opongan a lo dispues
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
-D.O. 4 DE JULIO DE 1990.
+D.O. 4 DE JULIO DE 1990
 
 ###### ARTICULO PRIMERO.
 
@@ -2006,3 +2008,25 @@ D.O. 12 DE MARZO DE 1993.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 SEGUNDO.- Por esta única ocasión y en tratándose de los procesos electorales correspondientes al presente año, los plazos y términos señalados en estas reformas constitucionales, que se hayan cumplido o vencido, se prorrogan para su aplicación a partir del próximo día 15 de abril.
+
+D.O. 24 DE ABRIL DE 1993.
+
+PRIMERO.- Para los efectos del artículo 20 de la Constitución del Estado, por única ocasión los representantes al Congreso del Estado que resulten electos en los comicios a celebrarse el día 28 de noviembre del año en curso, durarán en su encargo del 5 de enero de 1994 al 30 de junio de 1995.
+
+SEGUNDO.- Para los efectos del artículo 27 reformado de la Constitución del Estado, el Congreso que resulte de las elecciones a celebrarse en el mes de noviembre del presente año, tendrá durante su gestión, cinco periodos de sesiones ordinarias que comenzarán a partir del 16 de enero, del 16 de mayo y del 16 de octubre del año de 1994 y 16 de enero y 16 de mayo del año de 1995 y sin que los mismos puedan prolongarse más que hasta el 15 de marzo, el 15 de julio y el 20 de diciembre de 1994, 15 de marzo y 30 de junio de 1995, respectivamente.
+
+TERCERO.- El Gobernador Interino designado, rendirá el informe a que se refiere el artículo 28 reformado de la Constitución del Estado, por única ocasión el segundo domingo del mes de junio de 1995, y el que comprenderá todo el tiempo de su gestión.
+
+CUARTO.- Para los efectos del artículo 48 reformado de la Constitución del Estado y conforme a las atribuciones que dicho ordenamiento le confiere, el Congreso designará durante el mes de diciembre del presente año, a la persona que, una vez concluido el actual periodo constitucional, ocupará el cargo de Gobernador, con el carácter de Interino, quien durará en sus funciones del primero de febrero de 1994 al 31 de julio de 1995.
+
+QUINTO.- Para el debido cumplimiento de las reformas que este decreto refiere y por esta única ocasión, no se estará a lo previsto en el artículo 52 de la Constitución del Estado, y en tal virtud, los comicios para elegir Gobernador del Estado, Diputados y Presidentes Municipales, se celebrarán el cuarto domingo del mes de mayo de 1995.
+
+SEXTO.- Los presidentes Municipales que resulten electos en los comicios a celebrarse el 28 de noviembre del presente año, duraran en sus funciones, del primero de enero de 1994, al 30 de junio de 1995, en concordancia con el supuesto de la fracción primera del artículo 76 de la Constitución del Estado.
+
+SEPTIMO.- En los comicios a celebrarse el 28 de noviembre del presente año, se elegirán Ayuntamientos y Diputados al Congreso del Estado en los términos del presente Decreto.
+
+OCTAVO.- En su oportunidad, se adecuarán las leyes reglamentarias cuyas disposiciones contravengan lo previsto en el presente Decreto.
+
+NOVENO.- Las funciones de la LII Legislatura continuarán conforme a lo preceptuado en las formas y términos de las leyes vigentes.
+
+DECIMO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
