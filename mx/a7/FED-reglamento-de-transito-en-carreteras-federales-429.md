@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transito-en-carreteras-federales-429"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-06-10"
-last_updated: "2000-03-29"
+last_updated: "2000-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1973-10-08"
 
 REGLAMENTO DE TRANSITO EN CARRETERAS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 10 de junio de 1975.
 
@@ -679,31 +679,11 @@ Los vehículos automotores o remolcados destinados al servicio público federal,
 
 ###### ARTICULO 37.
 
-Los propietarios de vehículos de servicio público federal para obtener la matrícula de éstos, deberán presentar la solicitud correspondiente que contenga los siguientes datos: el nombre y domicilio del propietario, marca, modelo, tipo, número de fábrica (serie), número de motor del vehículo y cualquier otro requisito o información que señale la Secretaría de Comunicaciones y Transportes, que le permita determinar si el vehículo puede ser matriculado legalmente.
-
-A dicha solicitud deberá acompañarse lo siguiente:
-
-a).- Concesión o permiso correspondiente para la prestación del servicio público federal de autotransporte.
-
-b).- Certificado del Registro Federal de Automóviles.
-
-c).- Comprobante de pago de los derechos de matrícula correspondientes.
-
-d).- Baja de la matrícula anterior cuando se trate de vehículos usados.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 38.
 
-Dentro del plazo de 15 días, el propietario de un vehículo de servicio público federal matriculado, queda obligado a dar aviso a la Secretaría de Comunicaciones y Transportes de los siguientes cambios:
-
-a).- de propietario
-
-b).- de domicilio
-
-c).- de nombre
-
-d).- de motor
-
-e).- de las características del vehículo especificadas en la matrícula.
+(DEROGADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)
 
 Cuando el propietario del vehículo matriculado transfiera su propiedad a otra persona, no cesará su responsabilidad por infracciones al presente Reglamento o por responsabilidad civil derivada de cualquier accidente, hasta en tanto cumpla con la obligación de dar el aviso correspondiente. La matrícula expirará una vez que se haya dado el aviso y el adquirente está obligado a solicitar y obtener, en su caso, una nueva matrícula antes de operar o permitir que se opere el vehículo.
 
@@ -715,7 +695,7 @@ Las placas de servicio público federal, serán entregadas por la Secretaría de
 
 ###### ARTICULO 40.
 
-Las placas de servicio público federal tendrán la vigencia que señale la Secretaría de Comunicaciones y Transportes. Vencido el plazo correspondiente, deberá efectuarse el canje de las mismas, previo el cumplimiento de los requisitos que fije la propia Secretaría.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 41.
 
@@ -729,7 +709,7 @@ La tarjeta de circulación deberá llevarse en el vehículo y el conductor está
 
 ###### ARTICULO 42.
 
-En los casos de extravío, mutilación o ilegibilidad de placas, tarjeta de circulación o calcomanía, el propietario de un vehículo de servicio público federal deberá solicitar de inmediato la reposición de dichos documentos, satisfaciendo los requisitos que al efecto fije la Secretaría de Comunicaciones y Transportes.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 43.
 
@@ -737,11 +717,7 @@ Las placas demostradores expedidas por las autoridades locales de tránsito para
 
 ###### ARTICULO 44.
 
-Los vehículos que transiten por las carreteras federales con el exclusivo objeto de ser trasladados de un lugar a otro dentro del territorio nacional, deberán estar provistos de placas de traslado destinadas a su identificación, expedidas por la Secretaría de Comunicaciones y Transportes.
-
-Los vehículos que sean trasladados de un país extranjero a otro y que utilicen carreteras federales exclusivamente en vía de paso, deberán estar provistos de placas de traslado internacional, expedidas asimismo por la Secretaría de Comunicaciones y Transportes.
-
-En ambos casos, los interesados deberán satisfacer los requisitos que señale la propia Secretaría de Comunicaciones y Transportes.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 45.
 
@@ -763,37 +739,23 @@ Para conducir vehículos destinados a la prestación de un servicio público fed
 
 ###### ARTICULO 48.
 
-Para obtener la licencia federal de conductor, será necesario satisfacer los siguientes requisitos:
-
-1.- Haber cumplido 18 años de edad.
-
-2.- Demostrar a satisfacción de la Secretaría de Comunicaciones y Transportes, que posee la experiencia y capacidad suficientes para conducir un vehículo de servicio público federal.
-
-3.- Aprobar los exámenes de conocimientos básicos, médicos, de conducción de vehículos y de mecánica automotriz, que señale la Secretaría de Comunicaciones y Transportes.
-
-4.- Conocer y saber interpretar los preceptos de la Ley de Vías Generales de Comunicaciones y disposiciones reglamentarias de la misma, en materia de circulación de vehículos y seguridad en los caminos.
-
-5.- No tener antecedentes penales, ni ser afecto al consumo de bebidas alcohólicas o drogas enervantes.
-
-6.- Cubrir el derecho de expedición de la licencia.
-
-7.- Satisfacer los demás requisitos que señale la propia Secretaría de Comunicaciones y Transportes.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 49.
 
-La licencia federal de conductor tendrá una vigencia de diez años, pero deberá ser refrendada cada dos años o reexpedida al término de su vigencia, previa satisfacción de los requisitos que señale la Secretaría de Comunicaciones y Transportes.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 50.
 
-En caso de pérdida o destrucción de la licencia federal de conductor, el interesado podrá, mediante el pago de la cuota correspondiente, obtener el duplicado de la misma, previa comprobación de la pérdida o destrucción.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 51.
 
-Cualquier conductor que haya cambiado el nombre o domicilio señalados en la solicitud o licencia correspondiente, deberá notificarlo por escrito a la Secretaría de Comunicaciones y Transportes dentro del término de 10 días.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 52.
 
-Será motivo de anulación de una licencia federal de conductor, el hecho de que se compruebe posteriormente a su expedición, que le interesado no llenó alguno de los requisitos exigidos al efecto o que no hubiere proporcionado en su solicitud la correcta información requerida. En este caso, el interesado podrá obtener una nueva licencia, si subsana las deficiencias encontradas.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 53.
 
@@ -825,33 +787,15 @@ Procede la revocación de la licencia al conductor de vehículos de servicio pú
 
 ###### ARTICULO 54.
 
-Procede la suspensión de la licencia al conductor de vehículos de servicio público federal, en los casos siguientes:
-
-1.- Por sentencia ejecutoriada de la autoridad judicial que imponga como condena dicha suspensión.
-
-2.- Por un período de seis meses, cuando haya cometido tres infracciones graves al presente Reglamento en doce meses, a juicio de la Secretaría de Comunicaciones y Transportes.
-
-3.- Por un período de seis meses, cuando permita a persona no autorizada, por la Secretaría de Comunicaciones y Transportes, la conducción del vehículo de servicio público federal a su cargo.
-
-4.- Por un período de doce meses, cuando permita el uso ilegal o fraudulento de su licencia.
-
-5.- Cuando se compruebe que ha adquirido un hábito o una enfermedad que le inhabilite temporalmente para conducir vehículos de servicio público federal, hasta que el interesado compruebe su rehabilitación.
-
-> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2003)</small>
-
-6.- Por un período de doce meses, cuando por segunda ocasión se opere o conduzca un vehículo sin utilizar el cinturón de seguridad, sin perjuicio de lo dispuesto en el Artículo 200 fracción 7 de este Reglamento.
-
-7.- Por cualesquiera otra causa justificada, a juicio de la Secretaría de Comunicaciones y Transportes, por el término que la misma determine.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 55.
 
-El conductor, cuya licencia haya sido revocada, no tendrá derecho a que se le devuelva o renueve.
-
-En los casos de suspensión, el interesado podrá solicitar la devolución o renovación de su licencia, cuando haya pasado el término de la suspensión; pero la Secretaría de Comunicaciones y Transportes podrá negarse a ello hasta que haya comprobado que no subsisten las causas que motivaron la suspensión.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 56.
 
-Las resoluciones por las que se niegue, suspenda o revoque una licencia federal de conductor, serán recurribles ante el Secretario de Comunicaciones y Transportes, siguiéndose al efecto el procedimiento señalado por el artículo 251 del Reglamento de Explotación de Caminos de la Ley de Vías Generales de Comunicación.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ### CAPITULO II. Obligaciones de los concesionarios y permisionarios de Servicio Público Federal de Autotransporte
 
@@ -859,9 +803,11 @@ Las resoluciones por las que se niegue, suspenda o revoque una licencia federal 
 
 Ninguna persona o empresa deberá permitir la conducción de vehículos de servicio público federal, a quien no tenga la licencia federal, la cual deberá contar, en su caso, con el refrendo correspondiente.
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 58.
 
-Los concesionarios y permisionarios del servicio público federal de autotransporte, están obligados a vigilar escrupulosamente que el manejo y control efectivo de sus vehículos, quede encomendado sólo a conductores que posean la licencia a que se refiere este Reglamento y cuenten con la experiencia, capacidad, pericia y condiciones físico-mentales adecuadas; lo cual comprobarán mediante los exámenes previos y la observación cuidadosa de su trabajo.
+Los permisionarios del servicio de autotransporte federal o transporte privado están obligados a vigilar escrupulosamente que el manejo y control efectivo de sus vehículos quede encomendado sólo a conductores que posean la licencia federal de conductor y cuenten con la experiencia, capacidad, pericia y condiciones físico-mentales adecuadas.
 
 ###### ARTICULO 59.
 
@@ -891,15 +837,11 @@ A través de las pruebas psicotécnicas, los concesionarios y permisionarios ver
 
 ###### ARTICULO 61.
 
-Los concesionarios y permisionarios formarán expedientes individuales de sus conductores, integrándolos con la documentación y registros relativos a los accidentes en que cada uno de ellos haya participado y los resultados de los exámenes médicos a que hubieren sido sometidos, así como con las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficiencia de los propios conductores.
-
-Dichos expedientes se mantendrán al corriente y estarán a disposición de la Secretaría de Comunicaciones y Transportes, para todas las investigaciones y averiguaciones que a su juicio procedan.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 ###### ARTICULO 62.
 
-Los concesionarios y permisionarios remitirán a la Secretaría de Comunicaciones y Transportes, por una sola vez, y posteriormente cuando lo solicite la propia Secretaría, una relación del personal de conductores de vehículos que tengan a su servicio, en la que conste los siguientes datos de cada uno de ellos: nombre completo, domicilio, edad, número de licencia de conductor, fecha de expedición y del último resello de la misma, tiempo que lleva a su servicio, conducta y eficiencia, número y fechas de los accidentes en que haya participado durante su servicio con el concesionario o permisionario y resultado, en su caso, de los exámenes médicos a que haya sido sometido, con la anotación del nombre y domicilio del médico que los haya efectuado.
-
-Asimismo, están obligados a informar a la Secretaría de Comunicaciones y Transportes, respecto a los conductores que hayan causado alta o baja, señalando el motivo de las mismas y los cambios de domicilio, en un término que no exceda de 30 días a partir de la fecha del movimiento respectivo.
+(DEROGADO, D.O.F. 8 DE AGOSTO DE 2000)
 
 > <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2000)</small>
 
@@ -2304,3 +2246,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 29 DE MARZO DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+UNICAMENTE SE TRANSCRIBE EL TRANSITORIO DEL DECRETO DE REFORMA QUE SE RELACIONA CON EL REGLAMENTO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
