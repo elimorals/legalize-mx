@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "1999-01-05"
+last_updated: "2002-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFC"
 
 LEY FEDERAL DE CINEMATOGRAFIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -324,7 +324,9 @@ IV.- Las donaciones de personas físicas o morales, mismas que serán deducibles
 
 V.- Los productos y rendimientos que generen las inversiones que realice el fiduciario del patrimonio fideicomitido.
 
-VI.- El producto de los derechos que se generen por cinematografía conforme a la Ley Federal de Derechos, en su Artículo 19-C, Fracciones III y IV.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+VI.- El producto de los derechos que se generen por cinematografía conforme a la Ley Federal de Derechos, en su Artículo 19-C, Fracción I, incisos a) y b) y IV:
 
 VII.- Las sanciones pecuniarias administrativas que se apliquen con motivo de esta Ley.
 
@@ -541,3 +543,7 @@ TERCERO: El Ejecutivo Federal emitirá en el término de noventa días a partir 
 CUARTO: En el mismo término establecido en el Transitorio anterior, el Ejecutivo Federal deberá aportar los recursos que esta Ley establece en su Artículo 34, conforme al Presupuesto de Egresos para 1999.
 
 QUINTO: La Ley del Presupuesto de Egresos de la Federación de 1999, establecerá en la Partida Presupuestal correspondiente el monto de los recursos a los que se refiere la Fracción I del Artículo 34 de esta Ley.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+Único.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2003.
