@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1956-08-08"
+last_updated: "1977-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 1956.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 1977.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -133,6 +133,10 @@ Corresponden a la jurisdicción del Municipio de Puente de Ixtla, los siguientes
 
 Corresponden a la jurisdicción del Municipio de Temixco, los siguientes Centros de Población: Acatlipa, Cuentepec, Pueblo Nuevo del Puente, TEMIXCO, Cabecera del Municipio, Tetlama y Pueblo Viejo.
 
+> <small>N. DE E. ADICIONADO POR DECRETO NÚMERO 38, PUBLICADO EN EL P.O. DE 17 DE MARZO DE 1977.</small>
+
+Art. s/n. Corresponden a la Jurisdicción del Municipio de Temoac los siguientes centros de población: Amilcingo, Huazulco, Popotlán, y TEMOAC, Cabecera del Municipio.
+
 ###### Art. 21.
 
 Corresponden a la jurisdicción del Municipio de Tepoztlán, los siguientes centros de población: El Parque, Gabriel Mariaca, Amatlán, Ixcatepec, La Calera, Ocotitlán, Tepetlapa, Tepoztlán Cabecera del Municipio y Tlacotenco.
@@ -185,9 +189,11 @@ Corresponden a la jurisdicción del Municipio de Yautepec, los siguientes centro
 
 Corresponden a la jurisdicción del Municipio de Yecapixtla, los siguientes centros de población: Achichipico Huesca, Los Limones, Los Reyes, Mexquemeca, Pazulco, Sahuatlán, Tecajec, Texcala, Tlalmomulco, Xochitlán y Yecapixtla Cabecera del Municipio.
 
+> <small>N. DE E. REFORMADO POR DECRETO NÚMERO 38, PUBLICADO EN EL P.O. DE 17 DE MARZO DE 1977.</small>
+
 ###### Art. 31.
 
-Corresponde a la jurisdicción del Municipio de Zacualpan, los siguientes centros de población: Amilcingo, Huazulco, Popotlán, Temoac, Tlacotepec, y Zacualpan de Amilpas, Cabecera del Municipio.
+Corresponde a la jurisdicción del Municipio de Zacualpan, los siguientes centros de población: Tlacotepec, y Zacualpan de Amilpas, Cabecera del Municipio.
 
 ### Capítulo II. De la División Territorial
 
@@ -292,6 +298,14 @@ P.O. 8 DE AGOSTO DE 1956.
 PRIMERO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la Fracción I del Artículo 71 de la Constitución Política Local.
 
 SEGUNDO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 1977.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Oportunamente, procédase a la reforma del Artículo 110 de la Constitución Política del Estado, para incorporar en nuevo Municipio a la División territorial del régimen interior del Estado, así como la Ley de División territorial de los Municipios en vigor.
+
+TERCERO.- Remítase al Ejecutivo del Estado para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
