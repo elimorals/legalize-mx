@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "1998-01-15"
+last_updated: "1999-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -385,7 +385,31 @@ II. Aplicar a sus subalternos en forma dolosa o reiterada, correctivos disciplin
 
 III. Obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas;
 
-IV. Utilizar vehículos en los términos previstos en el artículo 10 quinto párrafo.
+IV. Utilizar vehículos en los términos previstos en el artículo 10 quinto párrafo;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+V. Ser condenado por delito doloso;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+VI. Poner ilícitamente en libertad a las personas que estuvieren a disposición de la autoridad, o faciliten su fuga;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+VII. Poner en peligro a los particulares o a sus compañeros por causas de imprudencia, descuido, negligencia, pánico o abandono del servicio;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+VIII. Incurrir en faltas de probidad en el desempeño de su cargo;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+IX. Por desacato injustificado a órdenes de sus superiores;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+
+X. Asistir a sus labores bajo el influjo del alcohol, sustancias psicotrópicas o estupefacientes; o por consumirlos durante el servicio o en su centro de trabajo; disparar arma de fuego sin causa justificada dentro del servicio; o diversa conducta que constituya indisciplina grave.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -451,23 +475,33 @@ En la Academia de Policía y Vialidad, existirá una Comisión Técnica de Profe
 
 A la Academia de Policía y Vialidad le corresponderá la ejecución y desarrollo del Reglamento General de Formación Policial respectivo. En ella se formarán y prepararán profesionalmente, en el mando y la administración, los elementos que servirán a la comunidad. Esa Academia elaborará los programas específicos necesarios para la adecuada aplicación del propio Reglamento.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 28.
 
-La única vía de ingreso a los cuerpos de seguridad pública será a través de la Academia de Policía y Vialidad, mediante la aprobación de los cursos correspondientes. Además de los requisitos que señale el reglamento de Formación Policial se deberán reunir los siguientes:
+La única vía de ingreso a los cuerpos de seguridad pública será a través de la Academia de Policía y Vialidad, mediante la aprobación de los cursos correspondientes.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+Son requisitos para ingresar a los cuerpos de seguridad pública, los siguientes:
 
-I. No tener antecedentes penales por delito doloso;
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+II. Acreditar haber cursado estudios de educación básica;
 
-II. Reunir los perfiles biopsicosociales y educativos necesarios; y
+III. Haber cumplido veintiún años;
 
-III. No ser alcohólico o farmacodependiente.
+IV. No haber sido condenado por delito doloso ni estar sujeto a proceso por este motivo;
 
-En el caso de los aspirantes a ingresar a la Policía Judicial, deberán estarse además a lo que sobre el particular se establezca en la Ley Orgánica, Reglamentos y Programas de la Procuraduría General de Justicia del Estado.
+V. Aprobar satisfactoriamente los exámenes físico, psicológico y psicométrico, necesarios para acreditar el perfil idóneo en la realización de actividades policiacas;
+
+VI. Ser de notoria buena conducta y reconocida solvencia moral;
+
+VII. No ser adicto a droga alguna, ni afecto a bebidas embriagantes;
+
+VIII. Vecindad de por lo menos dos años en el Estado;
+
+IX. No estar suspendido ni haber sido destituido del mismo o de otro cuerpo policiaco, con causa justificada; y
+
+X. Tener acreditado el Servicio Militar Nacional.
 
 ## TITULO QUINTO
 
@@ -1120,3 +1154,7 @@ PRIMERO.- El presente Decreto entrará en vigor a los ciento veinte días de su 
 SEGUNDO.- Los reglamentos en materia de Seguridad Pública referidos en la presente ley deberán de ser actualizados en un término no mayor de 30 días a partir de que entre en vigor este Decreto.
 
 TERCERO.- Los ayuntamientos del Estado deberán adecuar sus reglamentos de Seguridad a las prescripciones contenidas en esta ley general, sin perjuicio de sus facultades constitucionales, en un plazo que no excederá de 90 días a partir de la entrada en vigor de esta ley.
+
+P.O. 9 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
