@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2004-03-20"
+last_updated: "2004-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -351,6 +351,10 @@ La Diputación Permanente en los recesos de la Cámara, quedara facultada para r
 
 Las Comisiones Permanentes deberán presentar sus dictámenes ante la Legislatura, a más tardar a los 15 días de haber sido recibidos los Expedientes por las mismas; en el caso que no pueda dictaminar, la Comisión lo manifestará por escrito a la Legislatura, expresando el motivo de la demora y solicitando el nuevo plazo, el cual se le concederá con término perentorio. La Legislatura podrá conceder a la Comisión un plazo discrecional cuando el caso sea de indiscutible trascendencia.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2004)</small>
+
+Quedan exceptuadas de lo dispuesto en el párrafo anterior, las Comisiones Permanentes, que por la naturaleza de los asuntos de su competencia, conozcan del trámite de procedimientos ordinarios y especiales previstos en otros ordenamientos legales, en cuyo caso, se estarán a los términos señalados en ellos.
+
 ###### ARTICULO 36.
 
 De los negocios del primer año que tengan pendiente las Comisiones están obligadas a presentar dictamen al día siguiente de la apertura de las sesiones del siguiente año.
@@ -429,7 +433,7 @@ XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la p
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
 
-XXVII.- La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilará su aplicación así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas. Esta Comisión se integrará preferentemente por las Diputadas que integren el Congreso;
+XXVII.- La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilará su aplicación así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas. Esta Comisión se integrará preferentemente por las Diputadas que integren el Congreso.
 
 > <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
 
@@ -1327,7 +1331,7 @@ P.O. 6 DE MAYO DE 2000.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integra con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Género.
+SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integra con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Genero.
 
 P.O. 27 DE ABRIL DE 2002.
 
@@ -1336,3 +1340,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Publ�
 P.O. 20 DE MARZO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
