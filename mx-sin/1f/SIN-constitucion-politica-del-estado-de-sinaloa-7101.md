@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1947-12-04"
+last_updated: "1948-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1948.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -587,9 +587,11 @@ El Gobernador del Estado entrará a ejercer su cargo el día primero de enero de
 
 Las faltas temporales del Gobernador del Estado, hasta por treinta días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si este estuviere en receso al ocurrir la falta la Diputación Permanente nombrará uno Provisional.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1948)</small>
+
 ###### Art. 59.
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida dentro de los tres primeros años de su cuatrienio, el Congreso se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino y expedirá inmediatamente la convocatoria a nuevas elecciones. Si el Congreso estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional y convocará al Congreso a sesiones extraordinarias, para que ratifique la elección del Provisional o nombre uno interino y convoque inmediatamente a elecciones. Si la falta absoluta del Gobernador ocurriere en el último año de su período, el Congreso del Estado elegirá bajo las mismas condiciones establecidas en el párrafo anterior, un substituto que terminará el período.
+En caso de falta absoluta del Gobernador del Estado, ocurrida dentro de los cincuenta y cuatro primeros meses del sexenio, el Congreso se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino, y expedirá inmediatamente la convocatoria a nuevas elecciones. Si el Congreso estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional y convocará al Congreso a sesiones extraordinarias, para que ratifique la elección del Provisional o nombre uno Interino y convoque inmediatamente a elecciones. Si la falta absoluta del Gobernador ocurriera en los últimos dieciocho meses de su período, el Congreso del Estado elegirá bajo las mismas condiciones establecidas en el párrafo anterior, un Substituto que terminará el período.
 
 ###### Art. 60.
 
@@ -639,7 +641,9 @@ VI. Presentar al Congreso del Estado, antes del día 5 de diciembre de cada año
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
-VIII. Visitar las poblaciones del Estado, cuando menos una vez en su cuatrienio.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1948)</small>
+
+VIII. Visitar las poblaciones del Estado cuando menos una vez en su sexenio.
 
 IX. Formar la estadística del Estado.
 
@@ -1648,3 +1652,7 @@ UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 4 DE DICIEMBRE DE 1947.
 
 Artículo Unico- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 1948.
+
+Artículo Unico.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
