@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-20026"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-17"
-last_updated: "2001-02-07"
+last_updated: "2002-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACION DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2002.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de julio de 1999.
 
@@ -437,19 +437,11 @@ La educación inicial tiene como propósito favorecer el desarrollo físico, cog
 
 La educación preescolar deberá impartirse en establecimientos denominados Jardines de Niños y tiene como propósito fundamental la socialización, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad. La educación preescolar, no constituye un requisito previo a la primaria.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2002)</small>
 
 ###### Artículo 25.
 
-La educación primaria, incluyendo la de niños con necesidades educativas especiales, persigue fundamentalmente el desarrollo y adaptación de los educandos al medio que les es propio, capacitándolos para un desarrollo afectivo, cognoscitivo y psicomotriz; para una vida social y de cooperación que asegure su bienestar y progreso, procurando que adquieran los conocimientos básicos sobre ecología, el medio ambiente, la vida y la sociedad; se oriente a la investigación y al trabajo, sujetándose a los programas que determine la Autoridad Educativa Federal. La educación primaria es el antecedente obligatorio de la educación secundaria.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2001)</small>
-
-La edad para ser inscrito en el nivel de primaria, deberá ser de seis años cumplidos.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2001)</small>
-
-Por excepción, los niños que acrediten haber cursado por lo menos un año de preescolar, podrán ser inscritos a nivel primaria, cuando estén por cumplir seis años de edad el año de inicio de los cursos.
+La educación primaria, incluyendo la de niños con necesidades educativas especiales, persigue fundamentalmente el desarrollo y adaptación de los educandos al medio que les es propio, capacitándolos para un desarrollo afectivo, cognoscitivo y psicomotriz, para una vida social y de cooperación que asegure su bienestar y progreso, procurando que adquieran los conocimientos básicos sobre ecología, el medio ambiente, la vida y la sociedad; se oriente a la investigación y al trabajo, sujetándose a los programas que determine la Autoridad Educativa Federal. La educación primaria es el antecedente obligatorio de la educación secundaria.
 
 ###### Artículo 26.
 
@@ -967,4 +959,10 @@ ING. RAYMUNDO CARDENAS HERNANDEZ
 
 P.O. 7 DE FEBRERO DE 2001.
 
-UNICO.- El presente decreto entrará en vigor el dia siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
+
+P.O. 10 DE ABRIL DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
