@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1986-01-29"
+last_updated: "1986-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1986.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -373,9 +373,9 @@ Cuando se omita la presentación de declaraciones para el pago de impuestos prop
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal, salvo que proceda dispensar la garantía.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1986)</small>
 
-Durante los términos concedidos se causarán intereses hasta de 3.5% mensual, a juicio del Tesorero.
+Durante los términos concedidos se causarán intereses hasta el 5.5% mensual, a juicio del Tesorero.
 
 47.- Vencerán anticipadamente los términos y la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
 
@@ -399,9 +399,11 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1986)</small>
 
-50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 5.25% por cada mes o fracción que transcurra, a partir de la fecha de exigibilidad, hasta que se efectúe el pago. Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales y no excederán del 250% del monto de dicho crédito.
+50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 8.25% por cada mes o fracción que transcurra, a partir de la fecha de exigibilidad, hasta que se efectúe el pago. Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Cuando el contribuyente pague en forma espontánea las contribuciones omitidas y los recargos, en los términos del artículo 87 fracción IX de este Código, dichos recargos no excederán del 100% del monto de las contribuciones.
 
@@ -4324,3 +4326,9 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Estado para que, salvo lo dis
 P.O. 29 DE ENERO DE 1986.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
