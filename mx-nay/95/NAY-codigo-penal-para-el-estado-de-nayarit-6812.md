@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1996-08-14"
+last_updated: "1996-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1996.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2849,6 +2849,10 @@ Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se 
 
 Es aplicable al delito de Abigeato, en lo conducente, lo dispuesto en los artículos 353 y 356.
 
+### CAPITULO UNICO. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 364.
 
 Al que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión hasta de dos años y multa de diez a treinta días de salario, cuando el monto del abuso no exceda cien veces del salario.
@@ -2933,15 +2937,9 @@ Los agentes o funcionarios de compañías de contratación de trabajadores, que 
 
 Los delitos equiparables a la figura delictiva de fraude en las fracciones IV, V, VI y VII señaladas en el artículo 369, solamente se perseguirán a petición de parte ofendida, siendo aplicable además en lo conducente los artículos 349, 353 y 356.
 
-> <small>(ADICIONADO, P.O.24 DE MAYO DE 1995)</small>
-
 ###### ARTICULO 370 Bis.
 
-Comité el delito de fraccionamiento ilegal de inmuebles el que por sí o por interpósita persona cause detrimento público o privado al promover el fraccionamiento o fraccione y transfiera o prometa transmitir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, ejidal o comunal, de propiedad privada o pública, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades competentes o cuando existiendo éste no se hayan satisfecho los requisitos exigidos por la ley de la materia, la sanción para este delito será pena privativa de libertad de tres a ocho años de prisión y multa de cien a quinientos salarios mínimos.
-
-Serán igualmente responsables los servidores públicos que hayan concedido el permiso cuando no se observan las medidas de desarrollo urbano a que se refiere el párrafo anterior, aun cuando la concesión recaiga en zona en la cual existan construcciones que no reúnan las exigencias del ordenamiento urbano citado. En estos supuestos la pena será de cuatro a doce años de prisión y multa de cien a quinientos días de salario.
-
-Para los efectos de este artículo se entiende por fraccionar, dividir terrenos en lotes para fines turísticos, industriales o de asentamientos humanos.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 371.
 
@@ -3169,6 +3167,32 @@ II. Condicione la prestación de un servicio público a la emisión del sufragio
 
 III. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un Partido Político o de un candidato, o proporcione ese apoyo a través de sus subordinados usando el tiempo correspondiente a labores oficiales para que éstos presten servicios a un Partido Político o candidato.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 1996)</small>
+
+## TITULO VIGESIMO CUARTO. DELITOS CONTRA EL DESARROLLO URBANO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 393.
+
+Comete el delito de fraccionamiento ilegal de inmuebles el que por sí o por interpósita persona, fraccione terrenos cualesquiera que sea el régimen jurídico o condición de éstos, sin las licencias, autorizaciones y permisos que se requieran para ello de las autoridades administrativas competentes, y realice cualquier operación contractual en los lotes divididos.
+
+Para los efectos de este artículo se entiende por fraccionar, dividir terrenos en lotes que carezcan de la infraestructura de obras y servicios públicos que prevee (sic) la Ley Estatal de Asentamientos Humanos.
+
+Al responsable de este delito, se le impondrá de tres a ocho años de prisión y multa de cien a quinientos días de salario mínimo general vigente.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 394.
+
+Al servidor público, que sin estar facultado o estándolo, permita o autorice el fraccionamiento o construcción de inmuebles que requieran del uso o aprovechamiento de obras y servicios públicos y que los mismos no cuenten con ellos; se les impondrá además de las sanciones que señala el artículo anterior, la destitución o inhabilitación de tres a ocho años, para desempeñar otro empleo, cargo o comisión públicos, siendo nulos de pleno derecho las licencias, permisos y autorizaciones que se hayan otorgado.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 395.
+
+Se aplicarán las mismas sanciones señaladas en el artículo 393 de este Código, a quién construya por sí o por interpósita persona sobre terrenos cualesquiera que sea el régimen jurídico o condición de éstos, sin las licencias, autorizaciones o permisos de las autoridades administrativas competentes.
+
 ## TRANSITORIOS.
 
 ###### ARTICULO PRIMERO.
@@ -3250,3 +3274,9 @@ REPUBLICADO, P.O. 14 DE AGOSTO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
