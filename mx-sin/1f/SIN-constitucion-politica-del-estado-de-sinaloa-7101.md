@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2004-01-23"
+last_updated: "2004-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2004.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -483,7 +483,7 @@ En los últimos tres casos, la convocatoria se hará por conducto de la misma Di
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2003)</small>
+((REFORMADO, P.O. 29 DE OCTUBRE DE 2003)
 
 ###### Art. 40.
 
@@ -1593,7 +1593,9 @@ Las faltas temporales del Presidente Municipal cuando no excedan de diez días s
 
 Cuando la ausencia excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal solo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento, quien designará de entre sus miembros a un Presidente Municipal provisional.
 
-En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado salvo causa de fuerza mayor debidamente comprobada, sin la previa autorización del Ayuntamiento.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2004)</small>
+
+Las ausencias del Presidente Municipal, del territorio del Estado, cuando no excedan de cinco días, no requerirán la previa autorización del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -2978,6 +2980,10 @@ P.O. 23 DE ENERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE ENERO DE 2004.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO CUARTO.
 
