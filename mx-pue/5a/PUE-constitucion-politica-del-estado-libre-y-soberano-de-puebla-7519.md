@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1965-09-17"
+last_updated: "1967-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 1965.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 1967.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -763,9 +763,9 @@ IV. Hacer observaciones en los términos que dispone el artículo 52 a los proye
 
 V. Tomar parte en la discusión de las Leyes y Decretos, comisionando para ello ante el Congreso al Secretario General o a cualquiera otra persona.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1967)</small>
 
-VI. Imponer gubernativamente hasta UN MIL PESOS de multa, y hasta quince días de arresto, conforme a lo que dispongan las leyes.
+VI. Imponer gubernativamente hasta cien mil pesos de multa y hasta quince días de arresto conforme a lo que dispongan las Leyes.
 
 VII. Iniciar ante el Departamento Legislativo las Leyes, Decretos y acuerdos convenientes y pedirle que inicie ante el Congreso de la Unión lo que sea de la competencia federal.
 
@@ -1351,7 +1351,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1368,6 +1368,10 @@ Este Decreto surtirá sus efectos desde la fecha de su publicación en el Perió
 P.O. 17 DE SEPTIEMBRE DE 1965.
 
 Este Decreto surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 1967.
+
+UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 5°.
 
