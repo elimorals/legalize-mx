@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-plan-parcial-de-desarrollo-urbano-de-san-20358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-06"
-last_updated: "1995-03-06"
+last_updated: "2002-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de marzo de 1995.
 
@@ -347,7 +347,7 @@ TRAMO II: De las Vías de F.F.C.C. a Tampico (Anillo Metropolitano), hasta el l�
 
 DIEGO DIAZ DE BERLANGA.
 
-TRAMO I: De la Avenida los Angeles hasta la calle Roberto Espinoza.
+TRAMO I: De la Avenida los Angeles hasta la calle Roberto Espinoza,
 
 TRAMO II: De la calle Roberto Espinoza, hasta la Avenida Santo Domingo.
 
@@ -1223,9 +1223,13 @@ Todos los taludes, así como áreas expuestas, resultado de un proceso de urbani
 
 Queda prohibido remover la capa vegetal de cualquier predio, excepto de las áreas de desplante de una construcción autorizada.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 87.
 
-Queda prohibido dejar en la vía pública tierra o material producto de excavaciones, demoliciones o terracerías de edificaciones o de calles. Estos deberán depositarse en lugares que establezca la Secretaría de Servicios Primarios del Municipio. Para comprobar su depósito, el constructor deberá exigir un recibo del Municipio en el momento de efectuar el depósito en el lugar señalado.
+Queda prohibido dejar en la vía pública tierra o material producto de excavaciones, demoliciones o terracerías de edificaciones o de calles. Estos deberán depositarse en lugares que establezca la Secretaría de Servicios Públicos del Municipio.
+
+Para comprobar su depósito, el constructor deberá exigir un recibo del Municipio en el momento de efectuar el depósito en el lugar señalado.
 
 ### CAPITULO TERCERO. PENDIENTES VIALES Y DE CONSTRUCCION
 
@@ -1482,3 +1486,9 @@ PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente a
 SEGUNDO.- Quedan derogadas todas las disposiciones que existieren en otros ordenamientos jurídicos del Municipio, en materia de Desarrollo Urbano que se opongan al presente Reglamento.
 
 TERCERO.- Para los efectos a que se refiere el artículo 12 del presente Reglamento se conceden 120 días naturales, a partir de que entre en vigor éste ordenamiento para tramitar y obtener la Licencia de Uso de Suelo y/o de Edificación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE JULIO DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
