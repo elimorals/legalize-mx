@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1996-08-30"
+last_updated: "1996-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -1921,65 +1921,41 @@ X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-A.
 
-Será objeto de este impuesto la prestación del servicio de hospedaje y la concesión de derechos de usufructo en tiempo compartido.
+Será objeto del Impuesto al Hospedaje, la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, considerados como el albergue temporal de personas a cambio de una contraprestación.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-B.
 
-Se entiende como servicio de hospedaje el servicio de alojamiento que se presta en:
-
-I.- Hoteles.
-
-II.- Moteles.
-
-III.- Parques para casas rodantes.
-
-IV.- Cabañas.
-
-V.- Casas de Huéspedes.
-
-VI.- lnmuebles e instalaciones comercializadas en tiempo compartido.
-
-VII.- Areas de acampado.
-
 No se considerará servicio de hospedaje el albergue o alojamiento prestado por hospitales, clínicas, asilos, conventos, seminarios e internados.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-C.
 
-Se entiende por derechos de usufructo en tiempo compartido los que se prestan a través de:
+Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto exclusivamente los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
 
-I.- Condohoteles.
-
-II.- Hoteles.
-
-III.- Suites.
-
-IV.- Cabañas, y
-
-V.- Otros inmuebles e instalaciones destinadas a este efecto.
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-D.
 
-El impuesto a que se refiere este capítulo, se causará al momento en que sean exigibles las contraprestaciones por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
+El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, intereses normales y moratorios, penas convencionales y cualquier otro concepto relativo a estos servicios.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 1996)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-E.
 
-Están obligadas al pago de este impuesto las personas físicas y morales, que en el Estado Libre y Soberano de Quintana Roo, otorguen los servicios señalados en los artículos 168-B y 168-C de esta ley.
+Están obligadas al pago del impuesto, las personas físicas y morales que en el Estado otorguen los servicios señalados en el artículo 168-A de esta ley.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
@@ -1991,11 +1967,11 @@ Están obligadas al pago de este impuesto las personas físicas y morales, que e
 
 El impuesto se calculará aplicando la tasa del 5% sobre el valor de facturación y/o contratación a los servicios a que se refiere el artículo 168-B y 168-C.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-G.
 
-El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que reciban los servicios de hospedaje, o adquieran los derechos de tiempo compartido. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente retenedor debe hacer a dichas personas con un monto equivalente al impuesto establecido en esta ley.
+Los contribuyentes trasladarán el impuesto, en forma expresa y por separado, a las personas que reciban los servicios objeto de esta contribución. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a dichas personas, por un monto equivalente al impuesto establecido en esta ley.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
 
@@ -2003,25 +1979,25 @@ El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a 
 
 Este impuesto en ningún caso se considerará que forma parte del valor de los servicios ni será violatorio de tasas o tarifas, incluyendo las oficiales.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-I.
 
-El pago deberá efectuarse en forma mensual mediante declaraciones provisionales en las formas aprobadas por la Secretaría de Hacienda del Estado, las que se presentarán a más tardar el día 17 del mes siguiente a aquel en que se efectuó el traslado.
+Los contribuyentes deberán efectuar pagos provisionales mensuales, a cuenta del impuesto anual, mediante declaraciones que se presentarán ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, a más tardar el día 17 del mes siguiente a aquél en que se perciban las contraprestaciones correspondientes a los servicios objeto del impuesto, utilizando las formas oficiales aprobadas.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+El pago provisional será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este capítulo, obtenidos en el período por el que se efectúa el pago.
+
+La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-J.
 
 El impuesto se calculará por ejercicios fiscales.
 
-Los contribuyentes efectuarán pagos provisionales a cuenta de la declaración anual, ante las oficinas autorizadas por los mismos períodos y en las mismas fechas de pago a que se refiere el artículo anterior.
+Para determinar el impuesto del ejercicio, se aplicará la tasa del impuesto al valor neto de los ingresos percibidos por la prestación de los servicios a que se refiere este capítulo. Al resultado obtenido se le deducirán los pagos provisionales efectuados, correspondientes a los meses del ejercicio.
 
-El pago provisional será la cantidad que resulte de aplicar la tasa a que se refiere el artículo 168-F sobre el total de los ingresos obtenidos por la prestación de los servicios a que se refiere este capítulo, realizadas en el período por el que se efectúa el pago.
-
-Para determinar el impuesto del ejercicio a que se refiere este artículo, se aplicará la tasa que corresponda, al valor neto de los actos o actividades realizados por la prestación del servicio de hospedaje.
-
-El impuesto del ejercicio una vez deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, dentro de los 4 meses siguientes al cierre del ejercicio.
+Los contribuyentes presentarán declaración anual, dentro de los cuatro meses siguientes al cierre del ejercicio, ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, utilizando las formas oficiales aprobadas.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
 
@@ -2044,6 +2020,16 @@ I.- Cuando se trate de declaraciones de pagos provisionales y no se haya present
 II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devoluciones, o compensar dicha diferencia a su favor en la declaración de pago provisional siguiente, al día en que se presente la complementaria.
 
 Cuando el valor neto de los ingresos por las que se deba pagar el impuesto del ejercicio, sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias, por el período o períodos por los que se efectúan los pagos provisionales a que correspondan las diferencias, debiendo cubrir los recargos y actualizaciones que se señalan en los artículos 20 y 22 del Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
+
+###### ARTICULO 168-M.
+
+Los sujetos de este impuesto que tengan dos o más establecimientos dentro del Estado, en los que se presten los servicios gravados por este impuesto, presentarán por todos ellos una sola declaración de pago provisional o del ejercicio, según se trate, en la oficina Recaudadora de Rentas que corresponda a su domicilio fiscal, determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
+
+En las declaraciones que se presenten en los términos del párrafo anterior, deberán consignarse los datos concernientes al número de establecimientos por los que se declara, la ubicación de los mismos, el valor de las contraprestaciones por los servicios prestados en cada establecimiento y los demás datos señalados en las mismas.
+
+Los contribuyentes que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
 
 ### CAPITULO I. DEL CONCEPTO
 
@@ -4775,7 +4761,7 @@ Es objeto de este derecho el servicio especial prestado por convenio o contrato,
 
 ###### ARTICULO 207-E.
 
-Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servicio policíaco.
+Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servicio policiaco.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5003,15 +4989,15 @@ El Gobierno del Estado percibirá las participaciones establecidas en las leyes 
 
 El Gobierno del Estado percibirá las participaciones establecidas en los convenios que celebren con los Gobiernos Municipales.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO VIII. CAUCIONES JUDICIALES
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 231.
 
 Las cauciones judiciales se recaudarán de conformidad con las resoluciones en que se ordene se hagan efectivas.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -5158,3 +5144,17 @@ P.O. 30 DE AGOSTO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los contribuyentes del Impuesto al Hospedaje deberán presentar el aviso de inscripción al Registro Estatal de Contribuyentes o el aviso de aumento de obligaciones si ya se encuentran inscritos, a más tardar el 31 de octubre de 1996.
+
+###### ARTICULO TERCERO.
+
+Quedan derogadas todas las disposiciones anteriores establecidas en esta ley, que contravengan al presente decreto.
