@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-premios-14296"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-05"
-last_updated: "2001-07-20"
+last_updated: "2002-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PREMIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 5 de diciembre de 1998.
 
@@ -101,7 +101,7 @@ I. De Ciencias, Artes y Tecnología;
 
 II. De Deportes;
 
-III. De Periodismo y de Información;
+III. (DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 IV. De Mérito Cívico;
 
@@ -339,103 +339,45 @@ El premio consistirá en diploma y podrá incluir adicionalmente una cantidad en
 
 Por cada año habrá una asignación de premios. Los premios se entregarán el 20 de noviembre de cada año. Si para la obtención de los premios no hubiera candidatos nominados, el Consejo procederá a declarar desierto el premio respectivo.
 
-### CAPITULO VII. PREMIO ESTATAL DE PERIODISMO Y DE INFORMACION
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+### CAPITULO VII. PREMIO ESTATAL DE PERIODISMO Y DE INFORMACION
 
 ###### ARTICULO 43.
 
-El Premio Estatal de Periodismo y de Información será otorgado en los siguiente (sic) medios y campos:
-
-1.- PRENSA ESCRITA:
-
-a) noticia;
-
-b) entrevista;
-
-c) crónica;
-
-d) reportaje;
-
-e) artículo de fondo;
-
-f) fotografía; y
-
-g) caricatura.
-
-2.- RADIO:
-
-a) noticia; y
-
-b) entrevista
-
-3.- TELEVISION:
-
-a) noticia;
-
-b) entrevista; y
-
-c) reportaje.
-
-4.- TRAYECTORIA PERIODISTICA.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
-
-5.- PERIODISMO DEPORTIVO, otorgándose en cualquiera de los siguientes campos:
-
-a) noticia;
-
-b) crónica, reportaje, y entrevista;
-
-c) fotografía.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 44.
 
-Este premio se concederá en concurso doble; participando por una parte, personas físicas y, por el otro, las organizaciones responsables.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 45.
 
-Las expresiones de este premio consistirán en un diploma al mérito periodístico. Tratándose de personas físicas, el premio consistirá adicionalmente de una medalla de plata denominada "Benito Juárez García" y la cantidad en efectivo que determine el Presupuesto de Egresos del Estado.
-
-El diploma y la medalla deberá incluir la alusión al premio; el nombre del galardonado; el medio y campo; y el año en que se otorga.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 46.
 
-Merecerán estos premios quienes se distingan, según lo exija la naturaleza de cada campo, por el uso correcto de los medios de expresión, tomando en cuenta la calidad, veracidad y oportunidad de las informaciones y de los artículos, así como el efecto socialmente benéfico que produzca y considerando la estética de la presentación. En el caso del premio a la trayectoria periodística se tomarán en cuenta los atributos de permanencia, honorabilidad y prestigio en los medios de comunicación, locales o nacionales, esta distinción se otorgará de manera especial cuando así lo determine el jurado calificador y a propuesta de las organizaciones, asociaciones o instituciones relacionados con los medios de comunicación.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 47.
 
-El otorgamiento de este premio no estará condicionado a criterios de penetración social u orientación política de los medios de comunicación que se propongan.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 48.
 
-Es libre el derecho de proponer candidaturas para cada uno de los campos en que se otorgue el premio, con las excepciones que determina esta Ley.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 49.
 
-Los premios de que trata este Capítulo, se tramitarán en la Secretaría de Finanzas, por conducto de su Consejo, el cual estará integrado por el Secretario General de Gobierno, como su Presidente, la Secretaría Técnica del Poder Ejecutivo, quien fungirá como Secretario, y los consejeros serán los titulares de las dependencias y entidades directamente vinculadas con la materia del campo sujeto a premiación.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 50.
 
-Por cada año habrá una asignación de premios, de acuerdo a lo programado por el Presupuesto de Egresos del Estado, que serán entregados el 18 de julio del año correspondiente. Para su otorgamiento se tomará en cuenta la actuación durante el último año y la labor periodística de los candidatos, pudiéndose declarar desierta cualquiera de los campos determinados en el artículo 43, si a criterio del jurado calificador los candidatos no reúnen los requisitos establecidos.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1999)</small>
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ###### ARTICULO 51.
 
-El jurado calificador será el órgano responsable de dictaminar sobre todos y cada uno de los medios y campos en que se otorgue el premio.
-
-Este será nombrado por el Consejo a propuesta de las organizaciones, asociaciones e instituciones que estén vinculadas con los medios de comunicación. Las propuestas deberán ser de personas reconocidas en los medios de comunicación e instituciones educativas en el campo de la comunicación o el periodismo, por su honorabilidad, responsabilidad y profesionalismo.
-
-Los fallos del jurado en este premio serán inapelables.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2002)
 
 ### CAPITULO VIII. PREMIO ESTATAL DE MERITO CIVICO
 
@@ -586,3 +528,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 20 DE JULIO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE AGOSTO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
