@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2001-03-23"
+last_updated: "2001-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1115,7 +1115,13 @@ X.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles
 
 XI.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y
 
-XII.- La demás información que se estime relevante para garantizar la continuidad de la Administración Pública Municipal.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+XII.- Entregar la documentación en la que consten los Registros Fiscales del Municipio, así como aquélla que contenga el estado que guarda la recaudación de los ingresos municipales; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+XIII.- La demás información relevante, para garantizar la continuidad de la Administración Pública Municipal.
 
 ###### ARTÍCULO 67.
 
@@ -1195,9 +1201,15 @@ VI.- Aprobar y mandar al Ejecutivo, para su publicación en los términos legale
 
 VII.- Instituir los órganos de planeación y determinar los mecanismos para su funcionamiento, estableciendo sistemas continuos de control y evaluación del Plan Municipal de Desarrollo; asimismo, dictar los acuerdos que correspondan para cumplir con los objetivos, estrategias y líneas de acción derivados de los Planes Regional, Estatal y Nacional de Desarrollo, en lo correspondiente al Municipio;
 
-VIII.- Presentar al Congreso del Estado, a través del Ejecutivo del Estado, previa autorización de cuando menos las dos terceras partes de los miembros del Ayuntamiento, el día quince de noviembre la Iniciativa de Ley de Ingresos que deberá regir el año siguiente, en la que se propondrá las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de los impuestos sobre la propiedad inmobiliaria.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
 
-IX.- Aprobar el Presupuesto de Egresos del año siguiente a su fecha, que deberá enviar al Ejecutivo del Estado a más tardar el quince de noviembre de cada año, para que ordene su publicación en el Periódico Oficial del Estado, remitiendo copia del mismo al Órgano de Fiscalización Superior del Estado;
+VIII.- Presentar al Congreso del Estado, a través del Ejecutivo del Estado, previa autorización de cuando menos las dos terceras partes de los miembros del Ayuntamiento, el día quince de noviembre la iniciativa de Ley de Ingresos que deberá regir el año siguiente, en la que se propondrán las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y en su caso los productos y aprovechamientos.
+
+Asimismo, presentarán las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de los impuestos sobre la propiedad inmobiliaria.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+IX.- Aprobar el Presupuesto de Egresos del año siguiente, a más tardar dentro de los cinco días siguientes a aquél en el que se haya aprobado la Ley de Ingresos del Municipio de que se trate, que deberá enviar al Ejecutivo del Estado, para que ordene su publicación en el Periódico Oficial del Estado, remitiendo copia del mismo al Órgano de Fiscalización Superior del Estado;
 
 X.- Celebrar convenios con los Ayuntamientos integrantes de una misma región económica del Estado, para estudiar la congruencia entre los egresos y los ingresos de cada uno, que les sean comunes;
 
@@ -1247,7 +1259,9 @@ XXXII.- Establecer fuerzas de policía y vialidad para el mantenimiento de la se
 
 XXXIII.- Prestar a las autoridades de la Federación y del Estado, el auxilio que demanden para el desempeño de sus funciones;
 
-XXXIV.- Determinar la nomenclatura de las calles, plazas, jardines o paseos públicos y mandar fijar las placas respectivas; exigir a los propietarios de fincas urbanas la numeración progresiva de éstas y dar al Registro Público de la Propiedad y a las recaudaciones de rentas los avisos respectivos. En la nomenclatura no se empleará el nombre de personas vivas, a menos de que con ello el Ayuntamiento trate de premiar o dejar para la posteridad el recuerdo de los connacionales que:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
+
+XXXIV.- Determinar la nomenclatura de las calles, plazas, jardines o paseos públicos y mandar fijar las placas respectivas; exigir a los propietarios de fincas urbanas la numeración progresiva de éstas y dar el aviso correspondiente al Registro Público de la Propiedad y del Comercio y a las oficinas recaudadoras. En la nomenclatura no se empleará el nombre de personas vivas, a menos que con ello el Ayuntamiento trate de premiar o dejar para la posterioridad el recuerdo de los conacionales (sic) que:
 
 a) Por sus trabajos en el campo de la ciencia, de las artes, de la educación o de la cultura en general, hayan dado prestigio dentro o fuera del ámbito de la República, al Estado de Puebla o a la Nación;
 
@@ -1269,7 +1283,9 @@ XXXVI.- Adoptar las medidas que fueren urgentes, para evitar los riesgos y daño
 
 XXXVII.- Decretar la demolición de las obras que se ejecuten sin autorización; que pongan en peligro a los habitantes; o que se realicen en terrenos o vías públicas;
 
-XXXVIII.- Celebrar Convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de las contribuciones que forman parte de su Hacienda Pública; así como de los servicios públicos a cargo del Ayuntamiento;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+XXXVIII.- Celebrar Convenios y actos para la mejor administración del Municipio, así como lo previsto en el artículo 206 de este ordenamiento;
 
 XXXIX.- Formular y aprobar, de acuerdo con las leyes federales y estatales, la zonificación y Planes de Desarrollo Urbano Municipal;
 
@@ -1335,7 +1351,13 @@ LVII.- Proveer lo conducente para la organización administrativa del Gobierno M
 
 LVIII.- Prestar los servicios públicos que constitucionalmente les corresponden; y
 
-LIX.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+LIX.- Celebrar convenios de coordinación con otros Municipios del Estado para la más eficaz prestación de servicios públicos y para el mejor ejercicio de las funciones que le correspondan. También, previa autorización del Congreso del Estado, podrán celebrar convenios con la Federación, los Estados, los Municipios de otras Entidades; y
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+LX.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
 
 ### CAPÍTULO VII. DE LAS BASES NORMATIVAS PARA EL EJERCICIO DE LAS FACULTADES REGLAMENTARIAS DEL MUNICIPIO
 
@@ -1867,11 +1889,13 @@ Los organismos públicos descentralizados del Municipio, estarán a cargo de un 
 
 Los organismos públicos descentralizados del Municipio deberán rendir informes trimestrales al Ayuntamiento, del ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar la información que requiera en cualquier tiempo.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 130.
 
-Cuando el Organismo Público Descentralizado del Municipio tenga por objeto la prestación de un servicio público, el Ayuntamiento, a propuesta del Consejo Directivo o su equivalente y del estudio técnico que presente, fijará los precios que por la contraprestación del servicio correspondan, debiendo publicarlos en el Periódico Oficial del Estado.
+Cuando el Organismo Público Descentralizado del Municipio tenga por objeto la prestación de un servicio público, el Ayuntamiento, a propuesta del Consejo Directivo o su equivalente, y del estudio técnico que presente, fijará las cuotas, tasas o tarifas que por la contraprestación del servicio correspondan, debiendo publicarlas en el Periódico Oficial del Estado.
 
-En los demás casos, los derechos y aprovechamientos se fijarán en el presupuesto de ingresos correspondiente.
+En los demás casos, los derechos y aprovechamientos se fijarán en la Ley de Ingresos correspondiente.
 
 ###### ARTÍCULO 131.
 
@@ -2035,17 +2059,23 @@ Los Ayuntamientos, de conformidad con la Ley, administrarán libremente la Hacie
 
 Los Ayuntamientos, por conducto de su Presidente Municipal, formularán cada año, en el mes de enero, un inventario general de los bienes municipales. Concurrirán a su formulación la Comisión de Patrimonio y Hacienda Pública Municipal, así como el Tesorero. El inventario se extenderá por cuadruplicado, y quedará un ejemplar en el Archivo Municipal, uno en la Tesorería, otro se remitirá al Congreso del Estado, y el último lo conservará el Secretario del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 145.
 
-A más tardar en la primera quincena del mes de octubre de cada año, la Comisión de Patrimonio y Hacienda Pública Municipal, el Presidente Municipal y las demás comisiones que determine el Ayuntamiento, elaborarán el anteproyecto de Ley de Ingresos.
+La Comisión de Patrimonio y Hacienda Pública Municipal, el Presidente Municipal y demás comisiones que determine el Ayuntamiento, a más tardar en la primera quincena del mes de octubre de cada año, elaborarán el anteproyecto de Ley de Ingresos y de Presupuesto de Egresos.
 
 ###### ARTÍCULO 146.
 
 A más tardar el treinta de septiembre de cada año, las Comisiones y los titulares de las dependencias y entidades municipales, así como las Juntas Auxiliares, elaborarán el anteproyecto de presupuesto de egresos en lo referente a su ramo, en el que se indiquen las necesidades a satisfacer para el año siguiente, los proyectos para satisfacerlas, su costo, y las prioridades de dichos proyectos.
 
-La Comisión de Patrimonio y Hacienda Pública Municipal armonizará los proyectos para crear el anteproyecto del presupuesto de egresos definitivo, el cual deberá terminar a más tardar el quince de octubre de cada año.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
 
-Concluido el análisis del anteproyecto del presupuesto de egresos, éste se turnará al Ayuntamiento, el cual lo deberá aprobar en los términos establecidos en la presente Ley.
+La Comisión de Patrimonio y Hacienda Pública Municipal, armonizará los anteproyectos a que se refiere el artículo anterior, y elaborará el Proyecto de Presupuesto de Egresos definitivo, el cual deberá terminar a más tardar el día último de octubre de cada año.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
+
+Concluido el análisis del Proyecto del Presupuesto de Egresos, éste se turnará al Ayuntamiento, el cual lo deberá aprobar conforme lo preceptúa la fracción IX del artículo 78 de la presente Ley.
 
 El presupuesto de egresos del Municipio deberá formularse bajo las bases, programas y modalidades que el propio Ayuntamiento determine. Sin perjuicio de lo anterior, el total del gasto destinado a servicios personales no podrá exceder del cincuenta por ciento del presupuesto respectivo, y el gasto destinado a obra pública no podrá ser menor al diez por ciento del mismo.
 
@@ -2095,7 +2125,7 @@ XI.- Control de la fauna nociva.
 
 ###### ARTÍCULO 151.
 
-Las Juntas Auxiliares se coordinarán con los Ayuntamientos, a efecto de coadyuvar con los mismos en las funciones que realizan en materia de administración, recaudación, ejecución y supervisión. Para cumplir con estos fines recibirán de los Ayuntamientos los recursos provenientes de sus participaciones en los términos y porcentajes que por Ley les correspondan.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2001)
 
 ###### ARTÍCULO 152.
 
@@ -2109,7 +2139,9 @@ III.- Cualesquiera otros inmuebles propiedad del Municipio declarados por ley in
 
 IV.- Los muebles propiedad del Municipio que por su naturaleza no sean sustituibles, señalando de manera enunciativa mas no limitativa, los expedientes, los libros raros, las piezas históricas o arqueológicas y las obras de arte propiedad de los museos municipales;
 
-V.- Los ingresos municipales que provengan de las participaciones o contribuciones establecidas en las leyes; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+V.- Los ingresos que conforman la Hacienda Pública Municipal; y
 
 VI.- Los demás que expresamente señale la Ley.
 
@@ -2137,9 +2169,15 @@ II.- Los monumentos artísticos e históricos propiedad del Municipio, y las con
 
 III.- Los parques y jardines, plazas, mercados, centrales de abasto, cementerios y campos deportivos cuyo mantenimiento y administración estén a cargo del Ayuntamiento o Junta Auxiliar.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 155.
 
-Los bienes de dominio público son inembargables, inalienables e imprescriptibles. Tampoco podrán ser objeto de gravámenes de ninguna clase ni reportar en provecho de particulares ningún derecho de usufructo o habitación; tampoco podrán imponerse sobre ellos servidumbre pasiva alguna en los términos del derecho común. Los derechos de tránsito, de vista, de bienes y otros semejantes, se regirán por las leyes y disposiciones aplicables, y los permisos u otros contratos que otorgue el Ayuntamiento sobre esta clase de bienes, tendrán siempre el carácter de revocables.
+Los bienes del dominio público son inembargables, inalienables e imprescriptibles. No podrán ser objeto de gravámenes de ningún tipo, ni reportar en beneficio de particulares ningún derecho de uso, usufructo o habitación; tampoco podrán imponerse sobre ellos servidumbre pasiva alguna como lo establece el derecho común.
+
+El Municipio sólo podrá afectar en garantía las participaciones, de conformidad con las leyes aplicables y previa autorización del Congreso del Estado, así como los demás ingresos, de conformidad con las demás disposiciones, actos y acuerdos que suscriba, con la autorización de las dos terceras partes del Cabildo.
+
+Los derechos de tránsito, de vista y otros similares, se regirán por las leyes y disposiciones aplicables; los permisos que otorgue el Ayuntamiento sobre este tipo de derechos, tendrán el carácter de revocables.
 
 ###### ARTÍCULO 156.
 
@@ -2225,11 +2263,15 @@ El Tesorero, al tomar posesión de su cargo, recibirá copia del inventario muni
 
 El Tesorero tendrá las siguientes facultades y obligaciones:
 
-I.- Coordinar la política fiscal del Municipio, de conformidad con lo que acuerde el Ayuntamiento;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+I.- Coordinar la política hacendaria del Municipio, de conformidad con lo que acuerde el Ayuntamiento;
 
 II.- Ejercer las atribuciones que la legislación hacendaria confiere a las autoridades fiscales municipales;
 
-III.- Dar cumplimiento a las leyes y convenios de coordinación fiscal aplicables;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+III.- Dar cumplimiento a las leyes, convenios de coordinación fiscal y demás que en materia hacendaria celebre el Ayuntamiento con el Estado;
 
 IV.- Recaudar y administrar los ingresos que legalmente le correspondan al Municipio; los que se deriven de la suscripción de convenios, acuerdos o la emisión de declaratorias de coordinación; los relativos a transferencias otorgadas a favor del Municipio en el marco del Sistema Nacional o Estatal de Coordinación Fiscal, o los que reciba por cualquier otro concepto; así como el importe de las sanciones por infracciones impuestas por las autoridades competentes, por la inobservancia de las diversas disposiciones y ordenamientos jurídicos, constituyendo los créditos fiscales correspondientes;
 
@@ -2271,7 +2313,9 @@ XXII.- Solventar oportunamente los pliegos que formule el Órgano de Fiscalizaci
 
 XXIII.- Participar en la elaboración de los proyectos de leyes, reglamentos y demás disposiciones relacionadas con el patrimonio municipal;
 
-XXIV.- Participar en la elaboración de convenios de coordinación fiscal que celebre el Ayuntamiento en los términos de esta Ley y demás leyes aplicables;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+XXIV.- Participar en la elaboración de convenios de coordinación hacendaria que celebre el Ayuntamiento en los términos de esta Ley y demás leyes aplicables;
 
 XXV.- Auxiliar y representar, en su caso, al Presidente Municipal ante las instancias, órganos y autoridades de coordinación en materia hacendaria del Estado y la Federación;
 
@@ -2291,9 +2335,11 @@ Los Tesoreros Municipales serán responsables de las erogaciones que efectúen f
 
 Cada Municipio contará con una Contraloría Municipal, la cual tendrá las funciones de contraloría interna del Municipio, la que estará a cargo de un Contralor Municipal, quien deberá cumplir los mismos requisitos señalados para el Secretario del Ayuntamiento, será nombrado y removido por el Ayuntamiento, a propuesta del Presidente Municipal, y remunerado de acuerdo con el presupuesto respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 169.
 
-En el ámbito de su competencia, el Contralor Municipal tendrá las siguientes facultades y obligaciones:
+El Contralor Municipal, en el ámbito de su competencia, tendrá las siguientes facultades y obligaciones:
 
 I.- Planear, organizar y coordinar el Sistema de Control y Evaluación Municipal;
 
@@ -2315,7 +2361,9 @@ IX.- Asesorar técnicamente a los titulares de las dependencias y entidades muni
 
 X.- Practicar auditorías al Presidente Municipal, dependencias del Ayuntamiento o entidades paramunicipales, a efecto de verificar el cumplimiento de los objetivos contenidos en los programas respectivos y la honestidad en el desempeño de sus cargos de los titulares de las dependencias y entidades municipales y de los servidores públicos;
 
-XI.- Proporcionar información a las autoridades competentes, sobre el destino y uso de las participaciones y recursos asignados al Ayuntamiento;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+XI.- Proporcionar información a las autoridades competentes, sobre el destino y uso de los ingresos del Municipio, así como de los provenientes de participaciones, aportaciones y demás recursos asignados al Ayuntamiento;
 
 XII.- Vigilar el cumplimiento de normas y disposiciones sobre registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, enajenaciones, arrendamientos, usos y conservación del patrimonio municipal;
 
@@ -2535,9 +2583,11 @@ En este caso, los recibos serán autorizados por la Tesorería Municipal, y en �
 
 ### CAPÍTULO XX. DE LA COORDINACIÓN HACENDARIA
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 194.
 
-Los Ayuntamientos percibirán participaciones federales las que serán cubiertas por la Federación con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado.
+Los Ayuntamientos percibirán participaciones, aportaciones y demás ingresos provenientes de la Federación, a través del Estado, con arreglo a las bases, montos y plazos que determine el Congreso del Estado.
 
 ###### ARTÍCULO 195.
 
@@ -2563,9 +2613,11 @@ Las Juntas Auxiliares se coordinarán con los Ayuntamientos, a efecto de coadyuv
 
 Los servicios públicos municipales son actividades sujetas, en cuanto a su organización, funcionamiento y relaciones con los usuarios, a un régimen de derecho público y destinados a satisfacer una concreta y permanente necesidad colectiva, cuya atención corresponde legalmente a la administración municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 198.
 
-El Ayuntamiento prestará los servicios públicos de la siguiente forma:
+El Ayuntamiento prestará los servicios públicos de la siguiente manera:
 
 I.- A través de sus propias dependencias administrativas u organismos desconcentrados;
 
@@ -2573,7 +2625,9 @@ II.- A través de sus organismos públicos descentralizados, creados para tal fi
 
 III.- Mediante el régimen de concesión; y
 
-IV.- Mediante convenios de coordinación con el Estado y convenios de asociación con otros Ayuntamientos.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+
+IV.- Mediante convenio de coordinación y asociación que se celebre conforme a lo dispuesto en la fracción LIX del artículo 78 de esta Ley.
 
 ###### ARTÍCULO 199.
 
@@ -3222,3 +3276,15 @@ Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinte días del mes de marzo de dos mil uno.- Diputado Presidente.- JUAN CARLOS LASTIRI QUIRÓS.- Rúbrica.- Diputada Vicepresidenta.- MARÍA ANGÉLICA CACHO BAENA.- Rúbrica.- Diputado Secretario.- EDUARDO VÁZQUEZ VALDÉS.- Rúbrica.- Diputado Secretario.- HORACIO GASPAR LIMA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de marzo del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
