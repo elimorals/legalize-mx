@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1998-12-31"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -50,7 +50,7 @@ Cuando en esta Ley se utilice la expresión "entidades", ésta se referirá a lo
 
 La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichos Estados y el Distrito Federal participarán en el total de impuestos federales y en los otros ingresos que señale esta Ley mediante la distribución de los fondos que en la misma se establecen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 2o.
 
@@ -76,13 +76,13 @@ El Fondo General de Participaciones se distribuirá conforme a lo siguiente:
 
 I.- El 45.17% del mismo, en proporción directa al número de habitantes que tenga cada entidad en el ejercicio de que se trate.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
+El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, en el año que se publique.
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. El 45.17%, en los términos del artículo 3o. de esta Ley.
+II.- El 45.17%, en los términos del artículo 3o. de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -90,15 +90,15 @@ III.- El 9.66% restante, se distribuirá en proporción inversa a las participac
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-El fondo general de participaciones se adicionará con un 1% de la recaudación federal participable en el ejercicio, que corresponderá a las Entidades Federativas y los Municipios cuando éstas se coordinen en materia de derechos y, previa comprobación de la Secretaría de Hacienda y Crédito Público de que se ajustan estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley. El porcentaje citado será distribuido entre las Entidades mencionadas conforme al coeficiente efectivo del Fondo General de Participaciones que les corresponda para el ejercicio en el que se calcula. El fondo no se adicionará con la parte que correspondería a las Entidades no coordinadas en derechos. Asimismo, el Fondo se incrementará con el por ciento que representen en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las Entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
+El Fondo General de Participaciones se adicionará con un 1% de la recaudación federal participable en el ejercicio, que corresponderá a las Entidades Federativas y los Municipios cuando éstas se coordinen en materia de derechos y, previa comprobación de la Secretaría de Hacienda y Crédito Público de que se ajustan estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley. El porcentaje citado será distribuido entre las Entidades mencionadas conforme al coeficiente efectivo del Fondo General de Participaciones que les corresponda para el ejercicio en el que se calcula. El Fondo no se adicionará con la parte que correspondería a las Entidades no coordinadas en derechos. Asimismo, el Fondo se incrementará con el por ciento que representen en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las Entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 También se adicionará al Fondo General un monto equivalente al 80% del impuesto recaudado en 1989 por las entidades federativas, por concepto de las bases especiales de tributación. Dicho monto se actualizará en los términos del artículo 17-A del Código Fiscal de la Federación, desde el sexto mes de 1989 hasta el sexto mes del ejercicio en el que se efectúe la distribución. Este monto se dividirá entre doce y se distribuirá mensualmente a las entidades, en la proporción que representa la recaudación de estas bases de cada entidad, respecto del 80% de la recaudación por bases especiales de tributación en el año de 1989.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Adicionalmente las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques que las leyes definen como nacionales ubicados en el territorio de cada entidad ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
+Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -188,13 +188,23 @@ La cantidad que a cada entidad federativa corresponda en la parte del Fondo Gene
 
 Los impuestos asignables a que se refiere este artículo, son los impuestos federales sobre tenencia o uso de vehículos, especial sobre producción y servicios y sobre automóviles nuevos.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+La Secretaría de Hacienda y Crédito Público tiene la obligación de publicar en el Diario Oficial de la Federación el calendario de entrega, porcentaje y monto, estimados, que recibirá cada Entidad Federativa del fondo general y del fondo de fomento municipal, para cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+En los informes trimestrales sobre las finanzas públicas que la Secretaría de Hacienda y Crédito Público entrega a la Cámara de Diputados deberá incluir la evolución de la recaudación federal participable, el importe de las participaciones entregadas de cada fondo a las entidades en ese lapso y, en su caso, el ajuste realizado al término de cada ejercicio fiscal.
+
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 3o.-A.
 
 Las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal, participarán de la recaudación que se obtenga del impuesto especial sobre producción y servicios, por la realización de los actos o actividades gravados con dicho impuesto sobre los bienes que a continuación se mencionan, conforme a las proporciones siguientes:
 
-I. El 20% de la recaudación si se trata de cerveza, bebidas refrescantes con una graduación alcohólica de hasta 6º G. L., alcohol y bebidas alcohólicas.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- El 20% de la recaudación si se trata de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas y bebidas alcohólicas.
 
 II. El 8% de la recaudación si se trata de tabacos labrados.
 
@@ -202,11 +212,13 @@ Esta participación se distribuirá en función del porcentaje que represente la
 
 Los municipios recibirán como mínimo el 20% de la participación que le corresponda al estado.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 3o.-B.
 
-Los Municipios de los Estados y el Distrito Federal, participarán con el 70% de la recaudación que se obtenga de los contribuyentes que tributen en la Sección III del Capítulo VI del Título IV de la Ley del Impuesto Sobre la Renta, que a partir del 1o. de enero de 1998 se incorporen al Registro Federal de Contribuyentes como resultado de actos de verificación de las autoridades municipales, en los términos de los convenios de colaboración administrativa en materia fiscal federal que al efecto suscriban las entidades federativas con la Federación.
+Los Municipios de los Estados y el Distrito Federal participarán con el 80% de la recaudación que se obtenga de los contribuyentes que tributen en la Sección Tercera del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, que a partir del 1o. de enero de 2000 se incorporen al Registro Federal de Contribuyentes como resultado de actos de verificación de las autoridades municipales. La Federación establecerá los mecanismos administrativos para que se formalice la aceptación del Municipio para la aplicación de la presente disposición, los términos y formas para realizar los actos de verificación a contribuyentes sin registro, así como para coadyuvar con la Federación en la detección y fiscalización de contribuyentes que tributen en este régimen.
+
+Los Municipios recibirán esta participación durante todos los ejercicios fiscales en que los contribuyentes que las generen permanezcan en dicho régimen, domiciliados en su localidad. Asimismo, podrán convenir con los gobiernos de los Estados la coadyuvancia de estos últimos, en cuyo caso los Municipios participarán del 75% de la recaudación que se obtenga de los contribuyentes que tributen en la Sección Tercera del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, que a partir del 1o. de enero de 2000 se incorporen al Registro Federal de Contribuyentes como resultado de actos de verificación de las autoridades municipales, los Estados con el 10% y la Federación con el 15%, de dicha recaudación.
 
 Esta participación se distribuirá directamente con base en el impuesto pagado por el contribuyente domiciliado en su localidad y se liquidará en el mes siguiente al del pago de las contribuciones.
 
@@ -224,7 +236,7 @@ La distribución de la reserva de contingencia comenzará con la entidad que ten
 
 El coeficiente de participación efectiva a que se refiere el párrafo anterior será el que resulte de dividir las participaciones efectivamente percibidas por cada entidad, entre el total de las participaciones pagadas en el ejercicio de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE D 1990)</small>
 
 De la reserva a que se refiere el primer párrafo de este artículo, los Estados participarán a su (sic) municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. En el conjunto de participaciones a los municipios, no se incluirán aquéllas a que se refieren las fracciones I y II del artículo 2o-A de esta Ley.
 
@@ -274,9 +286,9 @@ Las Entidades dentro del mismo mes en que se realice el cálculo mencionado en e
 
 Cada cuatro meses la Federación realizará un ajuste de las participaciones, efectuando el cálculo sobre la recaudación obtenida en ese período. Las diferencias resultantes serán liquidadas dentro de los dos meses siguientes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-A más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, ésta determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las liquidaciones que procedan.
+A más tardar dentro de los 30 días posteriores a que el Ejecutivo Federal presente la Cuenta Pública del año anterior a la Cámara de Diputados del H. Congreso de la Unión para su revisión, la Federación determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Fondos y formulará de inmediato las liquidaciones que procedan.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -994,9 +1006,7 @@ I. Fórmula:
 
 En donde:
 
-Pjw = Brecha respecto a la norma de pobreza extrema de la necesidad básica w para el
-
-hogar j en estudio;
+Pjw = Brecha respecto a la norma de pobreza extrema de la necesidad básica w para el hogar j en estudio;
 
 b1, …,5 = Ponderador asociado a la necesidad básica w; y
 
@@ -1066,7 +1076,9 @@ MCN = Masa Carencial Nacional.
 
 Así, la distribución del Fondo de Aportaciones para la Infraestructura Social se realiza en función de la proporción que corresponda a cada Estado de la pobreza extrema a nivel nacional, según lo establecido.
 
-Para efectos de la formulación anual del Proyecto de Presupuesto de Egresos de la Federación, el Ejecutivo Federal, por conducto de la Secretaría de Desarrollo Social, publicará en el Diario Oficial de la Federación las normas establecidas para necesidades básicas (Zw) y valores para el cálculo de esta fórmula y estimará los porcentajes de participación porcentual (PEk) que se asignarán a cada Estado.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Para efectos de la formulación anual del Proyecto de Presupuesto de Egresos de la Federación, el Ejecutivo Federal, por conducto de la Secretaría de Desarrollo Social, publicará, en el mes de octubre de cada año, en el Diario Oficial de la Federación las normas establecidas para necesidades básicas (Zw) y valores para el cálculo de esta fórmula y estimará los porcentajes de participación porcentual (Pek) que se asignará a cada Estado.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1084,25 +1096,29 @@ d) Población municipal que habite en viviendas particulares sin disponibilidad 
 
 Con objeto de apoyar a los Estados en la aplicación de sus fórmulas, la Secretaría de Desarrollo Social publicará en el Diario Oficial de la Federación, en los primeros quince días del ejercicio fiscal de que se trate, las variables y fuentes de información disponibles a nivel municipal para cada Estado.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
 Los Estados, con base en los lineamientos anteriores y previo convenio con la Secretaría de Desarrollo Social, calcularán las distribuciones del Fondo para la Infraestructura Social Municipal correspondientes a sus Municipios, debiendo publicarlas en sus respectivos órganos oficiales de difusión a más tardar el 31 de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología, justificando cada elemento.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-Los Estados deberán entregar a sus respectivos Municipios los recursos que les corresponden conforme al calendario de enteros en que la Federación lo haga a los Estados, en los términos del penúltimo párrafo del artículo 32 de la presente Ley.
+Los Estados deberán entregar a sus respectivos Municipios los recursos que les corresponden conforme al calendario de enteros en que la Federación lo haga a los Estados, en los términos del penúltimo párrafo del artículo 32 de la presente Ley. Dicho calendario deberá comunicarse a los gobiernos municipales por parte de los gobiernos estatales y publicarse por estos últimos a más tardar el día 31 de enero de cada ejercicio fiscal, en su respectivo órgano de difusión oficial.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 36.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de referencia, al 2.35% de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este Fondo se enterará mensualmente por partes iguales a los Municipios, por conducto de los estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 37 de esta Ley.
-
-Para efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de referencia, al 2.35 por ciento de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este Fondo se enterará mensualmente por partes iguales a los Municipios, por conducto de los Estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 37 de esta Ley; al efecto, los gobiernos estatales deberán publicar en sus respectivos órganos oficiales de difusión los montos que corresponda a cada municipio por concepto de este fondo, así como el calendario de ministración, a más tardar el 31 de enero de cada año.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
+Para efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 37.
 
-Las Aportaciones Federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios, reciban los mismos a través de los Estados, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios tendrán las mismas obligaciones a que se refieren las fracciones I a III del artículo 33 de esta Ley.
+Las Aportaciones Federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios, reciban los mismos a través de los Estados, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios tendrán las obligaciones a que se refieren las fracciones I a III del artículo 33 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1156,7 +1172,7 @@ c) La actualización que se determine para el ejercicio que se presupueste de lo
 
 III.- Adicionalmente, en el caso de los servicios de educación para adultos, la determinación de los recursos del Fondo de Aportaciones para la Educación Tecnológica y de Adultos y su consiguiente distribución, responderán a fórmulas que consideren las prioridades específicas y estrategias compensatorias para el abatimiento del rezago en materia de alfabetización, educación básica y formación para el trabajo. Las fórmulas a que se refiere esta fracción deberán publicarse por la Secretaría de Educación Pública en el Diario Oficial de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 44.
 
@@ -1164,21 +1180,25 @@ El Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrit
 
 En el Presupuesto de Egresos de la Federación de cada ejercicio fiscal se hará la distribución de los recursos federales que integran este Fondo entre los distintos rubros de gasto del Sistema Nacional de Seguridad Pública aprobados por el Consejo Nacional de Seguridad Pública.
 
-El Consejo Nacional de Seguridad Pública, a propuesta de la Secretaría de Gobernación, establecerá los criterios para la distribución de los recursos antes citados entre los Estados y el Distrito Federal. Dichos criterios considerarán el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura, debiéndose publicar en el Diario Oficial de la Federación la fórmula con la que se distribuya el Fondo y el resultado de su aplicación con los montos que corresponderán para cada Estado y el Distrito Federal, a más tardar el 28 de febrero del ejercicio fiscal de que se trate.
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, entregará a las Entidades Federativas el Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal con base en los criterios que el Consejo Nacional de Seguridad Pública, a propuesta de la Secretaría de Gobernación, determine, utilizando para la distribución de los recursos, criterios que incorporen el número de habitantes de los Estados y del Distrito Federal; el índice de ocupación penitenciaria; la tasa de crecimiento anual de indiciados y sentenciados; así como el avance en la aplicación del Programa Nacional de Seguridad Pública en materia de profesionalización, equipamiento, modernización tecnológica e infraestructura. La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada Estado y el Distrito Federal, deberá publicarse en el Diario Oficial de la Federación a más tardar el 31 de enero del ejercicio fiscal de que se trate.
 
-Los recursos de este Fondo se enterarán mensualmente a los Estados y al Distrito Federal, sin que para este efecto procedan los anticipos a que se refiere el párrafo segundo del artículo 7o. de esta Ley.
+Este Fondo se enterará mensualmente por la Secretaría de Hacienda y Crédito Público durante los primeros diez meses del año a los Estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Para los efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 45.
 
-Las aportaciones federales que con cargo al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal reciban dichas entidades se destinarán exclusivamente al reclutamiento, selección, depuración, evaluación y formación de los recursos humanos vinculados con tareas de seguridad pública; a complementar las dotaciones de los agentes del Ministerio Público, los policías judiciales o sus equivalentes y los peritos de las procuradurías de justicia de los Estados y del Distrito Federal; al equipamiento de las policías preventivas y judiciales o sus equivalentes, de los peritos, de los ministerios públicos y custodios de centros penitenciarios y de menores infractores; al establecimiento y operación de la red nacional de telecomunicaciones e informática para la seguridad pública; a la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación.
+Las aportaciones federales que con cargo al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal reciban dichas entidades se destinarán exclusivamente al reclutamiento, selección, depuración, evaluación y formación de los recursos humanos vinculados con tareas de seguridad pública; a complementar las dotaciones de: agentes del Ministerio Público, los peritos, los policías judiciales o sus equivalentes de las Procuradurías de Justicia de los Estados y del Distrito Federal, de los policías preventivos o de custodia de los centros penitenciarios y de menores infractores; al equipamiento de las policías judiciales o de sus equivalentes, de los peritos, de los ministerios públicos y de los policías preventivos o de custodia de los centros penitenciarios y de menores infractores; al establecimiento y operación de la red nacional de telecomunicaciones e informática para la seguridad pública y el servicio telefónico nacional de emergencia; a la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de readaptación social y de menores infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación; al seguimiento y evaluación de los programas señalados.
 
-Los recursos para complementar las dotaciones de los agentes del Ministerio Público, los policías judiciales o sus equivalentes y los peritos de las procuradurías de justicia de los Estados y del Distrito Federal, tendrán el carácter de no regularizables para los presupuestos de egresos de la Federación de ejercicios subsecuentes y las responsabilidades laborales que deriven de tales recursos estarán a cargo de los gobiernos de los Estados y del Distrito Federal.
+Los recursos para complementar las dotaciones de los agentes del Ministerio Público, los policías judiciales o sus equivalentes, los policías preventivos y de custodia, y los peritos de las procuradurías de justicia de los Estados y del Distrito Federal, tendrán el carácter de no regularizables para los presupuestos de egresos de la Federación de ejercicios subsecuentes y las responsabilidades laborales que deriven de tales recursos estarán a cargo de los gobiernos de los Estados y del Distrito Federal.
 
-Dichos recursos deberán aplicarse de conformidad con los acuerdos, resoluciones y convenios que al respecto emita o suscriba el Consejo Nacional de Seguridad Pública, en el marco de la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
+Dichos recursos deberán aplicarse conforme a los programas estatales de seguridad pública derivados del Programa Nacional de Seguridad Pública, acordado por el Consejo Nacional de Seguridad Pública, de acuerdo a la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
-Los Estados y el Distrito Federal proporcionarán al Ejecutivo Federal, por conducto de la Secretaría de Gobernación, la información financiera, operativa y estadística que les sea requerida.
+Serán materia de anexos específicos entre la Federación y los Estados y el Distrito Federal, los programas de la red nacional de telecomunicaciones e informática y el servicio telefónico nacional de emergencia del sistema nacional de información.
+
+Los Estados y el Distrito Federal proporcionarán al Ejecutivo Federal, por conducto de la Secretaría de Gobernación, la información financiera, operativa y estadística que le sea requerida.
 
 (ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998
 
@@ -1681,6 +1701,12 @@ PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1999.
 SEGUNDO.- Para el ejercicio fiscal de 1999 el Fondo de Aportaciones para la Educación Tecnológica y de Adultos se determinará y distribuirá de conformidad con lo dispuesto en el Decreto de Presupuesto de Egresos de la Federación para el citado ejercicio y según lo acordado en los convenios de coordinación que suscriban los Estados y el Distrito Federal con el Ejecutivo Federal, por conducto de los organismos descentralizados correspondientes y de las Secretarías de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo y de Educación Pública.
 
 TERCERO.- Para el ejercicio fiscal de 1999, la distribución de los recursos entre los Estados, del Fondo de Infraestructura Social Municipal a que se refiere el primer párrafo del artículo 32 de la Ley, se hará de la siguiente manera: el 84.5% de los recursos se distribuirá de acuerdo a la fórmula a que se refiere el artículo 34 de esta Ley y el 15.5% restante por partes iguales entre los Estados. Sin embargo, para la distribución hacia los Municipios por parte de los Estados, del monto total que resulte del procedimiento descrito, se aplicará estrictamente la fórmula a que se refiere el artículo 34 de esta Ley.
+
+D.O.F. 31 DE DICIEMBRE DE 1999.
+
+## TRANSITORIO
+
+Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
 
 ###### ARTICULO DECIMO.
 
