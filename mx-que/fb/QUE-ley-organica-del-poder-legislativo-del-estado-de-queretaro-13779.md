@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "1998-10-16"
+last_updated: "2001-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:16 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -641,9 +641,9 @@ XXIV.- Asuntos de la Juventud; y
 
 XXV.- Prevención y Readaptación.
 
-> <small>(ADICIONADA, P.O 21 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DEL 2001)</small>
 
-XXVI.- Asuntos de Equidad y Género.
+XXVI.- Asuntos de Equidad de Género y Desarrollo Humano Integral.
 
 > <small>(REFORMADO, P. O. 16 DE OCTUBRE DE 1998)</small>
 
@@ -1271,9 +1271,9 @@ SECRETARIO DE GOBIERNO
 
 N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
-P.O. 21 DE AGOSTO DE 1998
+P.O. 21 DE OCTUBRE DE 1998
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+EL DECRETO DE REFORMAS CITADO CON ANTELACION NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O.16 DE OCTUBRE DE 1998
 
@@ -1342,3 +1342,13 @@ Se derogan todas las disposiciones que contravengan a la presente Ley.
 ###### ARTICULO CUARTO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 18 DE MAYO DEL 2001
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigencia a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
