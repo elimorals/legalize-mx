@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1973-02-28"
+last_updated: "1975-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1975.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -381,11 +381,7 @@ Se establece el Impuesto Sobre Giros Especializados. Son causantes del mismo las
 
 Son actividades mercantiles eventuales, aquellas que se realizan esparódicamente (sic) o en forma evidentemente transitoria así como las que por su propia naturaleza o características deban durar por un término menor de tres meses.- Las actividades que realicen los Comerciantes Ambulantes se regirán por lo que establece el Reglamento del Mercado y Comercio Ambulante, enterando el impuesto de acuerdo con la Ley de Ingresos correspondiente.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
-
-###### ARTICULO 58 Bis.
-
-Se establece el Impuesto sobre Ingresos por Arrendamiento de Inmuebles dedicados a cualquier uso. Este Impuesto será a cargo del arrendador del inmueble. Se exceptúan del impuesto los ingresos que se obtengan por alquiler de cuartos en los Hoteles, Moteles y Casas de Huéspedes cuando el negocio comercial sea explotado directamente por el propietario del inmueble. Los causantes de este impuesto deberán registrar los contratos de arrendamiento respectivos en la Tesorería Municipal que corresponda y cubrirán el impuesto en la forma, plazos y con la tasa que fije la Ley de Ingresos del Municipio respectivo. Los contratos de arrendamiento de inmuebles, existentes al entrar en vigor esta disposición legal deberán ser registrados en un plazo no mayor de 30 días. Los contratos que se celebren con posterioridad deberán registrarse en un plazo no mayor de 15 días a partir de la fecha de su celebración. Son solidariamente responsables ante las Autoridades Fiscales Municipales del registro del contrato respectivo el arrendatario y el arrendador del inmueble. El arrendador es exclusivamente responsable del pago del impuesto que establece este Artículo. El arrendador deberá presentar en la Tesorería o Recaudación de Rentas Municipal el original y duplicado del contrato debidamente timbrado para que la Autoridad Fiscal Municipal haga la anotación correspondiente de que ha sido registrado el contrato y en esa forma el arrendatario se cerciore que se cumplió con esa disposición. Las Autoridades Judiciales y Administrativas exigirán se cumpla con el requisito de registro de contrato antes de dar curso a este documento.
+ARTICULO 58 BIS.- (DEROGADO, P.O. 10 DE JULIO DE 1975)
 
 ###### ARTICULO 59.
 
@@ -1686,3 +1682,7 @@ P.O. 28 DE FEBRERO DE 1973.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 1975.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
