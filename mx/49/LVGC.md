@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1986-11-19"
+last_updated: "1986-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -3090,37 +3090,37 @@ c).- Por retraso en el transporte.
 
 Para los efectos de esta Ley, se entenderá que los daños se causaron con motivo del transporte, si son el resultado de hechos ocurridos durante el período comprendido desde el momento en que el pasajero aborda la aeronave, hasta el momento en que ha desembarcado de ella, ya sea a la terminación del viaje previsto en el contrato de transporte, o en el caso de aterrizaje forzoso o accidental.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 343.
 
-En los casos a que se refiere el inciso a) del artículo anterior, la empresa deberá cubrir a la víctima:
+En los casos a que se refiere el inciso a) del artículo anterior, la empresa deberá cubrir:
 
-I.- Por muerte o invalidez total permanente la cantidad de $50,000.00.
+I.- Por muerte o incapacidad total permanente; la cantidad equivalente a seis mil setecientos ochenta días de salario mínimo general.
 
-II.- Por lesiones que ocasionen invalidez parcial permanente, hasta un máximo de $20,000.00.
+II.- Por lesiones que ocasionen incapacidad parcial permanente, hasta un máximo de la cantidad equivalente a dos mil setecientos doce días de salario mínimo general.
 
-III.- Por lesiones que ocasionen invalidez parcial temporal, hasta un máximo de $10,000.00.
+III.- Por lesiones que ocasionen incapacidad total temporal, hasta un máximo de la cantidad equivalente a mil quinientos días de salario mínimo general.
 
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
+IV.- Por lesiones que ocasionen incapacidad parcial temporal, hasta un máximo de la cantidad equivalente a mil trescientos cincuenta y seis días del salario mínimo general.
 
-El monto de las indemnizaciones a que se refiere las fracciones II y III de este artículo, se determinará de acuerdo con la tabla de indemnizaciones del reglamento respectivo.
+Para el pago de las indemnizaciones a que se refieren las fracciones antes citadas, se tomará como base el salario mínimo general vigente en el Distrito Federal, Area Metropolitana, en la fecha en que se cubra la indemnización.
 
-La empresa garantizará el pago de la indemnización que le impone este artículo, al obtener la concesión o permiso en alguna de las siguientes formas:
+El monto de las indemnizaciones a que se refieren las fracciones II, III y IV de este artículo, se determinará de acuerdo con la tabla de indemnizaciones del reglamento respectivo.
 
-a).- Mediante seguro contratado con institución debidamente autorizada, de manera tal que cubra dicha responsabilidad a satisfacción de la Secretaría de Comunicaciones.
+La empresa garantizará el pago de indemnización que le impone este artículo, al obtener la concesión o permiso en alguna de las siguientes formas:
 
-b).- Mediante depósito en efectivo en la Nacional Financiera, S. A., por una suma que garantice el riesgo, en los términos del reglamento respectivo.
+a).- Mediante seguro contratado con institución debidamente autorizada de manera tal que cubra dicha responsabilidad a satisfacción de la Secretaría de Comunicaciones y Transportes.
 
-Sin perjuicio de la indemnización a que se refieren las fracciones anteriores de este artículo, la empresa será responsable, además hasta por un límite máximo de $75,000.00 para el caso de muerte o invalidez total permanente y hasta un límite de $25,000.00 para los demás daños a la persona.
+b).- Mediante depósito en efectivo en la Nacional Financiera, S. N. C., por una suma que garantice el riesgo, en los términos del reglamento respectivo.
 
-Sin embargo, la empresa no gozará del beneficio de limitación de responsabilidad a que este artículo se refiere, si se comprueba que los daños fueron debidos a dolo de la empresa o de sus dependientes o empleados.
+La empresa no gozará del beneficio de limitación de responsabilidad a que este artículo se refiere, si se comprueba que los daños fueron debidos a dolo de la empresa o de sus dependientes o empleados.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 344.
 
-La indemnización por la destrucción o avería del equipaje de mano se limitará a la suma máxima de $100.00. No habrá lugar a la limitación aquí establecida si se comprueba la existencia del dolo o culpa grave de la empresa o de sus dependientes o empleados.
+La indeminización (sic) por la destrucción o averías del equipaje de mano se limitará a la suma de veinte días de salario mínimo general vigente en el Distrito Federal, Area Metropolitana. No habrá lugar a la limitación aquí establecida si se comprueba la existencia del dolo o culpa grave de la empresa o de sus dependientes o empleados.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -3164,37 +3164,41 @@ Los daños que sufran las personas o cosas transportadas en aeronaves de servici
 
 #### SECCION SEGUNDA. De los daños a carga y equipaje facturado
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 349.
 
-Las empresas concesionarias y permisionarias del servicio público de transporte aéreo, regular o no regular, serán responsables de los daños causados a la carga o al equipaje facturado:
+Las empresas concesionarias y permisionarias del servicio público de transporte aéreo regular o no regular, serán responsables de los daños causados a la carga o el equipaje facturado:
 
-I.- Por pérdida o avería sufrida desde el momento de su recibo por la empresa, hasta el momento de su entrega al destinatario.
+I.- Por pérdida o avería sufrida desde el momento de su recibo por la empresa, hasta el momento de su entrega.
 
 II.- Por el retraso en la entrega de la carga o el equipaje facturado, más allá del período previsto en el contrato de transporte y según lo prevenga el reglamento respectivo.
 
-En los casos a que se refiere la fracción I de este artículo, la empresa deberá cubrir al destinatario, o en su defecto al remitente, las siguientes indemnizaciones:
+En los casos a que se refieren las fracciones anteriores, la empresa deberá cubrir al destinariio (sic) o, en su defecto, al remitente, las siguientes indemnizaciones:
 
-a).- Por la pérdida o avería de la carga, un máximo de $20.00 por kilogramo de preso (sic) bruto.
+a).- Por la pérdida o avería de la carga, hasta diez veces el salario mínimo general vigente en el Distrito Federal, Area Metropolitana, por kilogramo de peso bruto.
 
-b).- Por retraso en la entrega de la carga, una suma máxima igual al precio del transporte.
+b).- Por retraso en la entrega de la carga, una suma máxima igual al precio del transporte de esa carga.
 
-c).- Por la pérdida o avería del equipaje facturado, un máximo de $500.00 por pieza.
+c).- Por la pérdida o avería del equipaje facturado hasta treinta y cinco veces el salario mínimo general vigente en el Distrito Federal, Area Metropolitana.
 
-Cuando se causen daños a las personas y a las cosas, el monto de la indemnización que se fije para reparar el causado a las personas no excederá de dos tercios de la indemnización fijada.
+d).- Por la pérdida o avería del equipaje facturado o carga, cuyo contenido hubiese sido asegurado por el usuario, el monto del valor declarado.
 
-La empresa estará exenta de las responsabilidades a que se refiere esta sección si comprueba:
+En el supuesto de que no se hubiese hecho declaración del valor de la carga o del equipaje asegurados a que se refiere este último inciso, se tomará como base para fijarlo el que arrojen las facturas comerciales y, en su defecto el que a juicio de peritos designados por las partes o por la Autoridad Aeronáutica, hubiesen tenido los efectos en el tiempo y lugar de la entrega a la empresa.
 
-a).- Haber tomado las precauciones razonables para evitar el daño y las medidas técnicas exigidas por esta Ley y sus reglamentos o que le fué imposible tomarlas;
+En todo caso, para la procedencia de la indemnización a que alude el inciso d), el usuario deberá haber cubierto una cantidad adicional al importe del transporte por concepto de seguro en los términos y condiciones que señale la Secretaría de Comunicaciones y Transportes.
 
-b).- Que el retraso fue motivado por condiciones meteorológicas adversas, o por maniobras de salvamento, o por razones fundadas en la protección de la vida humana o de la propiedad;
+La empresa estará exenta de las responsabilidades a que se refiere esta sección, si comprueba:
+
+a).- Haber tomado las precauciones razonables para evitar el daño y las medidas técnicas exigidas por esta ley y sus reglamentos, o que le fue imposible tomarlas.
+
+b).- Que el retraso fue motivado por condiciones meteorológicas adversas o por las maniobras de salvamento, o por razones fundadas en la protección de la vida humana o de la propiedad.
 
 c).- Que el daño se debió a hechos ilícitos de un tercero.
 
-Los límites de la responsabilidad a que se refiere este artículo no se aplicarán si la carga o equipaje facturado se transportan, de acuerdo entre las partes conforme a valor declarado, en cuyo caso el límite de la responsabilidad corresponderá a dicho valor declarado.
+Los límites de la responsabilidad a que se refiere este artículo, no se aplicarán si la carga o equipaje facturado se transportan, de acuerdo entre las partes, conforme al valor declarado, en cuyo caso el límite de la responsabilidad corresponderá a dicho valor declarado.
 
-En los casos a que se refiere este artículo, la empresa garantizará el pago de la indemnización correspondiente, en los términos del reglamento respectivo.
+En los casos a que se refiere este artículo la empresa garantizará el pago de la indemnización correspondiente, mediante seguro contratado con institución debidamente autorizada de manera tal que cubra dicha responsabilidad a satisfacción de la Secretaría de Comunicaciones y Transportes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -3224,31 +3228,19 @@ Esta responsabilidad recaerá sobre quien tenga, ya sea la propiedad, ya la pose
 
 Para los efectos de este artículo se entiende por operación de una aeronave todo movimiento de la misma en tierra o durante el vuelo, realizado bajo sus propios medios motores.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 352.
 
-La indemnización por los daños a que se refiere el artículo anterior, no excederá del límite máximo correspondiente a cada tipo de aeronave, de acuerdo con la siguiente tabla:
+La indemnización por los daños a que se refiere el artículo anterior, para los objetos en la superficie, será hasta por un monto de 12,500 días de salario mínimo general vigente en el Distrito Federal, Area metropolitana y, tratándose de personas se cubrirán los daños conforme a los términos y montos señalados en el artículo 343.
 
-Aeronaves hasta de 5,000 kgs. de peso bruto la cantidad $ 60,000.00
-
-Aeronaves hasta de 20,000 kgs. de peso bruto la cantidad $ 150,000.00
-
-Aeronaves hasta de 40,000 kgs. de peso bruto la cantidad $ 300,000.00
-
-Aeronaves de más de 40,000 kgs. de peso bruto la cantidad $ 600,000.00
-
-Cuando sean varias las personas dañadas, la indemnización, sin exceder los máximos establecidos, se distribuirá proporcionalmente a los daños sufridos.
-
-Los propietarios o poseedores de aeronaves garantizarán el pago de la indemnización a su cargo, mediante contrato de seguro con institución debidamente autorizada o depósito en la Nacional Financiera S. A., por el importe de la responsabilidad máxima respectiva. En el caso de propietarios o poseedores de dos o más aeronaves, el seguro o depósito se constituirá por el doble de cualquiera que sea el número de aeronaves que operen.
-
-El seguro o el depósito se constituirán dentro de los quince días siguientes a la fecha de la obtención de la concesión, del permiso o de la matrícula correspondiente.
+Los propietarios o poseedores de aeronaves garantizarán el pago de la indemnización a su cargo, mediante contrato de seguro con institución debidamente autorizada o depósito en la Nacional Financiera, S. N. C. por una suma que garantice el riesgo, en los términos del reglamento respectivo. En el caso de propietarios o poseedores de dos o más aeronaves, el seguro de depósito se constituirá por el doble, cualquiera que sea el número de aeronaves que operen. El seguro o el depósito se constituirá dentro de los quince días siguientes a la fecha de la obtención de la concesión o del permiso.
 
 La Secretaría de Comunicaciones determinará en qué casos deben cumplir esta obligación los propietarios extranjeros de aeronaves de servicio privado.
 
-Las garantías se mantendrán vivas por el plazo de vigencia de la concesión, permiso de matrícula.
+Las garantías se mantendrán vigentes por el plazo de la concesión o permiso.
 
-Las personas físicas y morales que no hubieren garantizado el pago de las indemnizaciones establecidas en este artículo, no gozarán del beneficio de limitación de responsabilidad.
+Las personas físicas o morales que no hubieren garantizado el pago de las indemnizaciones establecidas en este artículo, no gozarán del beneficio de limitación de responsabilidad.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -3780,957 +3772,555 @@ II.- Cuando por cualquier motivo no pueda efectuarse el desembarque de los pasaj
 
 Las estaciones de barcos nacionales y extranjeros fondeados en puertos mexicanos en donde no opere alguna instalación de la Red Nacional, podrán dar servicio comunicándose con dicha Red o con otros barcos que estén navegando o fondeados en costas mexicanas; pero el servicio internacional lo expedirán invariablemente por conducto de las estaciones nacionales.
 
-> <small>(REFORMADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 # LIBRO SEXTO. Comunicaciones Postales
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ## TITULO PRIMERO. Correo en General
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO I. Definición. Inviolabilidad de la correspondencia. Monopolio
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 421.
 
-El Correo es un servicio público federal encargado del recibo, transporte y entrega de la correspondencia, así como del desempeño de los demás servicios autorizados por la ley.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 422.
 
-La correspondencia de primera clase que bajo cubierta circule por correo, está libre de todo registro.
-
-La infracción de esta disposición es un delito penado por la ley.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 423.
 
-Queda prohibido a los funcionarios y empleados de la Secretaría de Comunicaciones y Obras Públicas proporcionar informes acerca de las personas que mantienen correspondencia por correo, así como los nombres y domicilios de los arrendatarios de las cajas de apartado.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 424.
 
-No se viola el sigilo postal a que se refiere el artículo anterior, en los casos siguientes:
-
-I.- Cuando los informes se rindan en acatamiento de una orden judicial o del ministerio público, dictada por escrito.
-
-II.- A rendir los datos estadísticos que deban proporcionarse de acuerdo con la ley.
-
-III.- Cuando los informes se proporcionen a los remitentes o destinatarios, de acuerdo con los derechos que la ley les concede.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 425.
 
-El Poder Ejecutivo Federal ejerce el monopolio constitucional para recibir, transportar y entregar la correspondencia de primera clase a que se refiere el artículo 428 en sus fracciones I y II de esta Ley; en consecuencia ninguna persona física o moral podrá prestar ese servicio al público.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 426.
 
-No se viola el monopolio en los casos siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-I.- Cuando se reciba y transporte la correspondencia de primera clase entre lugares en que no haya servicio de conducción postal, para depositarla en la oficina de correos inmediata al lugar de su origen.
-
-II.- Cuando una persona física o moral envíe su correspondencia de primera clase utilizando sus propios vehículos y empleados; pero sin transportar correspondencia de otras personas.
-
-III.- Cuando se conduzcan exhortos y toda clase de documentos judiciales.
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ## TITULO SEGUNDO. Correspondencia
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO II. Definición y clasificación de la correspondencia
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 427.
 
-Son correspondencias todos los objetos que se depositan en el correo para su transporte y entrega. Por su naturaleza, la correspondencia es de primera, segunda, tercera, cuarta o quinta clases; por su tratamiento es ordinaria o registrada, y por su destino, es inferior o internacional.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 428.
 
-Constituyen la correspondencia de primera clase:
-
-I.- Las cartas, recados, pedidos, recordatorios de cuentas, informes y memoranda, ya sea que circulen en sobre o envoltura abiertos o cerrados, así como tarjetas cartas, tarjetas postales y correogramas.
-
-II.- Los escritos en clave o en signos convencionales.
-
-III.- Las monedas, billetes de banco, joyas, piedras y metales preciosos, estampillas fiscales y postales sin cancelar y éstas últimas aun canceladas, y toda clase de documentos o valores al portador.
-
-IV.- Todo envío que circule bajo sobre o envoltura cerrados con las excepciones que el reglamento de esta ley determina para algunas correspondencias de la tercera a la quinta clases.
-
-V.- Los impresos por cualquier procedimiento, cuyo texto en todo o en parte revele un asunto de carácter particular entre remitentes y destinatarios.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 429.
 
-Constituyen la correspondencia de segunda clase, las publicaciones periódicas que hayan obtenido la autorización de la Dirección General de Correos por haber satisfecho los requisitos que establece el reglamento, de esta ley.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 430.
 
-Para que los alcances y suplementos de las publicaciones periódicas se comprendan en la segunda clase, deberán reunir los requisitos que establece el reglamento.
-
-Los suplementos sólo se admitirán con tal clasificación cuando se depositen con la publicación de que formen parte.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 431.
 
-Constituyen la correspondencia de tercera clase:
-
-I.- Las publicaciones periódicas que no llenen los requisitos de la segunda clase.
-
-II.- Las publicaciones sin tiro periódico, libros y folletos impresos o manuscritos originales y pruebas de imprenta; planos y cartas geográficas, fotográficas, películas fotográficas y cinematográficas usadas, reveladas o no; tarjetas ilustradas sin texto o que teniéndolo no transmitan en todo o en parte un asunto de carácter particular; esquelas, tarjetas de visita o felicitación; boletas escolares o electorales, música grabada, papeles de música impresos o manuscritos, tarjetas postales en blanco y franqueadas cuando cada una lleve escrita o impresa la dirección de otro destinatario.
-
-Se permite agregar a las esquelas y tarjetas de visita impresas, hasta cinco palabras de cortesía.
-
-III.- Circulares impresas por cualquier procedimiento.
-
-IV.- Papeles de negocios.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 432.
 
-Constituyen la correspondencia de cuarta clase las muestras de producto no destinadas a la venta.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 433.
 
-Constituyen la correspondencia de quinta clase los envíos que contengan mercancías.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 434.
 
-En caso de que los remitentes o destinatarios no estén conformes con la clasificación que de sus correspondencias hagan las oficinas de correos, la Dirección General resolverá en definitiva.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 435.
 
-Podrán aceptarse envíos mixtos, que son aquellos que contienen correspondencia de varias clases.
-
-En ningún caso las correspondencias de segunda clase formarán parte de estos envíos.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 436.
 
-En correspondencia ordinaria la que se maneja comúnmente, sin llevar un control especial por cada pieza.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 437.
 
-Correspondencia registrada es aquella por la que se otorga recibo por cada pieza, tanto en su depósito, como en su transmisión y entrega.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 438.
 
-Correspondencia interior es aquella que se deposita y entrega dentro de los límites del Territorio Nacional.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 439.
 
-Correspondencia internacional es la que procede de otros países o se destina a ellos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-Esta correspondencia queda sujeta a los convenios internacionales.
-
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO III. Correspondencia irregular
 
 Ojetos (sic) prohibidos
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 440.
 
-Se entiende por correspondencia irregular para los efectos de esta Ley:
-
-I.- La no franqueada.
-
-Es correspondencia no franqueada aquella que carezca de estampillas, de marcas de máquinas de franquear, autorizadas por la Dirección General de Correos, o de las anotaciones que indiquen que el pago de los derechos se hizo en efectivo.
-
-No se considera en esta disposición la correspondencia con derechos por cobrar.
-
-II.- La insuficientemente franqueada.
-
-Es correspondencia insuficientemente franqueada aquella en la que se hubieren cubierto parcialmente los derechos.
-
-La correspondencia ordinaria no franqueada y la insuficientemente franqueada, serán cursadas excepcionalmente, cobrándose el destinatario el doble del importe de los derechos o de la cantidad faltante de los mismos al hacerse la entrega.
-
-III.- La que carezca en lo absoluto de dirección.
-
-IV.- La que tenga dirección insuficiente, errónea, ilegible o incomprensible.
-
-V.- La que tenga un empaque inadecuado al contenido.
-
-VI.- La que exceda de los límites de peso o dimensiones reglamentarias.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 441.
 
-Queda prohibida la circulación por correo de la siguiente correspondencia:
-
-I.- La cerrada que en su envoltura y la abierta que por su texto, forma, mecanismo o aplicación sea contraria a la ley, a la moral o a las buenas costumbres.
-
-II.- La que contenga materias corrosivas, inflamables, explosivas o cualesquiera otras que puedan causar daños.
-
-III.- La que contenga objeto de fácil descomposición o exhalen mal olor.
-
-IV.- La que presumiblemente pueda ser utilizada en la comisión de un delito.
-
-V.- La que sea ofensiva o denigrante para la Nación.
-
-VI.- La que contenga billetes o anuncios de loterías extranjeras y, en general, de juegos prohibidos.
-
-VII.- La que contenga animales vivos con las excepciones que señale el reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 442.
 
-Cuando se advierta en el momento de la recepción, que los objetos que se pretenda depositar son de los que pudieran constituir correspondencia de circulación prohibida, se procederá conforme a las disposiciones aplicables a la materia.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 443.
 
-La correspondencia de circulación prohibida enumerada en el artículo 441 deberá ser puesta a disposición de la autoridad competente, decomisada, enajenada, destruída o donada, en los términos del reglamento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO IV. Correspondencia que por la índole de su contenido se sujeta a requisitos especiales
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 444.
 
-La correspondencia que contenga objetos de los que a continuación se enumeran se sujetará a los requisitos siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-I.- Las monedas, billetes de banco, joyas, piedras y metales preciosos, estampillas fiscales y postales, sin cancelar; estas últimas aun canceladas, cuando sean depositadas por particulares y toda clase de documentos o valores al portador se aceptarán, solamente con el carácter de seguro postal.
-
-II.- En la aceptación de objetos cuya circulación esté regulada por alguna ley o reglamento, deberán satisfacerse los requisitos y condiciones señalados en esos ordenamientos.
-
-III.- Cuando los objetos a que se refiere el artículo 441 de esta Ley y la fracción II de éste, constituyan cuerpo de delito, bastará orden escrita de autoridad judicial o del Ministerio Público para que se transporten por correo.
-
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO V. Transporte de la correspondencia
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 445.
 
-Cuando el correo no haga por sí mismo el transporte de la correspondencia, la Dirección General de Correos lo contratará en los términos que fija el reglamento de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 446.
 
-Los contratistas, aun cuando sean extranjeros, estarán sujetos a la jurisdicción de los tribunales de la República, y nunca podrán alegar respecto de sus contratos de conducción de correspondencia o de los asuntos relacionados con éstos, derecho alguno de extranjería, bajo cualquier forma que sea, y sólo tendrán los mismos derechos y medios de hacerlos valer, que los que las leyes de la República conceden a los mexicanos.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 447.
 
-Para el transporte de la correspondencia el correo utilizará la vía que estime más conveniente y podrá optar por las rutas aéreas o de superficie excepto cuando se señalen en el sobre o envoltura las elegidas por el remitente.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 448.
 
-Las autoridades dentro de sus facultales (sic) están obligadas a:
-
-I.- Prestar garantías y auxilio a los empleados conductores o contratistas del servicio postal.
-
-II.- Facilitar el transporte de corespondencias (sic), evitando que se interrumpa o retarde su conducción.
-
-III.- Investigar y proceder en aquellos casos en que se presuma que la pérdida o extravío de la correspondencia se debe a la comisión de un delito.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 449.
 
-Cuando alguna autoridad ordene la detención de empleados, contratistas o conductores de correspondencia en servicio, proveerá lo necesario para que los envíos postales continúen su curso.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 450.
 
-Los conductores de correspondencia, y los medios de transporte que utilicen para su conducción tendrán preferencia en el tránsito de las calles, caminos, vados, puentes, etc., a no ser que se trate del cuerpo de bomberos, ambulancias de la policía o de instituciones de beneficencia.
-
-La preferencia a que se refiere el párrafo anterior se tendrá también para el empleo de los medios que se utilicen para cruzar las corrientes flotables y navegables; los lagos, lagunas y esteros.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 451.
 
-Las empresas de transporte que conduzcan correspondencias, están obligadas, en los casos de accidente a sus vehículos, a que los envíos continúen su curso, si no tiene órdenes en contrario de la Dirección General de Correos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO VI. Entrega de la correspondencia
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 452.
 
-La entrega de la correspondencia se hará:
-
-I.- A domicilio.
-
-II.- En ventanilla.
-
-III.- En cajas de apartado en los términos previstos en el capítulo XVII de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 453.
 
-La correspondencia ordinaria se entregará en la dirección que indiquen los sobres o envolturas, aun cuando no expresen destinatario.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 454.
 
-En los lugares donde no haya oficina postal el correo entregará la correspondencia ordinaria a las autoridades municipales, quienes están obligadas a hacer llegar a los destinatarios. También podrán ejecutar este servicio las personas o instituciones que habiéndolo solicitado haya obtenido la autorización de la Dirección General de Correos.
-
-Las autoridades municipales y las personas e instituciones a que se refiere el párrafo anterior, están obligadas a devolver a las oficinas de correos, de las que hubieren recibido la correspondencia, las piezas que no puedan ser entregadas a los destinatarios en un plazo de quince días.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 455.
 
-La correspondencia ordinaria dirigida a personas que residan en hoteles, casas de huéspedes, fábricas y otros establecimientos de índole semejante, se entregará por conducto del administrador o encargado de los mismos, quien estará obligado a devolver a la oficina de correos respectiva al cumplir un plazo de diez días, las piezas que no fueren recogidas por los destinatarios.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 456.
 
-La correspondencia ordinaria dirigida a personas residentes en cuarteles, campos militares u otros semejantes, se entregará por conducto de los jefes del detall (sic) o de personas autorizadas por escrito por dichos jefes a menos que el interesado haga solicitud en contrario, a la oficina de correos respectiva.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 457.
 
-La correspondencia registrada deberá entregarse a los destinatarios, a los remitentes en su caso, o a las personas que unos u otros autoricen por escrito, a no ser que la ley señale expresamente otro conducto para su entrega.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 458.
 
-La correspondencia dirigida a las oficinas públicas se entregará a sus jefes o a la persona que designen por escrito.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 459.
 
-La correspondencia dirigida a personas recluidas en establecimientos penales, de beneficencia o de índole semejante, se entregará por conducto de los administradores de esos establecimientos y bajo la responsabilidad de los mismos, a menos que el interesado haya (sic) solicitud en contrario, a la oficina de correos respectiva.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 460.
 
-En caso de que dos o más personas aleguen tener derecho a una misma correspondencia y presenten un principio de prueba en que funden su reclamación, se suspenderá la entrega hasta que la autoridad competente decida la controversia.
-
-En cualquier estado de la controversia, quedan a salvo los derechos de los remitentes sobre su correspondencia.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 461.
 
-La correspondencia dirigida a una persona, pero al cuidado de otra, se entregará indistintamente a cualquiera de ellas.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 462.
 
-La correspondencia dirigida a personas que hubieran fallecido, podrá entregarse al albacea, o devolverse al remitente.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 463.
 
-La correspondencia dirigida a una asociación, sociedad o institución, se entregará a su representante legítimo.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 464.
 
-En caso de disolución de una sociedad, asociación o institución, su correspondencia se entregará a liquidador; y en los de quiebra o liquidación judicial notificada a la oficina de correos, a la autoridad judicial que conozca de ellas o al síndico.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 465.
 
-Cuando lo ordene por escrito una autoridad judicial, la correspondencia podrá retenerse, entregarse a persona diversa de la destinataria o a la propia autoridad.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 466.
 
-La correspondencia dirigida a los menores de edad se entregará indistintamente a los propios destinatarios o a quien ejerza sobre ellos la patria potestad.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 467.
 
-Cuando por error la entrega de la correspondencia se efectúe a persona diversa de la destinataria quien la reciba está obligada a devolverla desde luego a la oficina de correos. Si hubiere abierto la pieza, anotará al reverso del sobre o envoltura, bajo su firma, la razón que explique el hecho.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 468.
 
-La correspondencia permanecerá en las oficinas de correos a disposición de los interesados durante los plazos que indique el reglamento de esta ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO VII. Rezago
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 469.
 
-La correspondencia que dentro de los plazos señalados en el reglamento no sea entregada a los destinatarios o devuelta a los remitentes, cae en rezago.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 470.
 
-La correspondencia caída en rezago permanecerá en la Dirección General de Correos a disposición de los remitentes o destinatarios, durante dos meses la ordinaria y seis la registrada, contados desde la fecha de su depósito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-Concluídos los plazos antes señalados, la Dirección General de Correos podrá enajenarla o disponer de ella en cualquier otra forma.
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ## TITULO TERCERO. Servicios
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO VIII. Servicio ordinario
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 471.
 
-El servicio ordinario consiste en el recibo, transporte y entrega de correspondencia de la cual no se lleva control escrito por cada pieza.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO IX. Servicio de registro
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 472.
 
-El Servicio de registro consiste en el manejo documentado de cada pieza, desde su recibo hasta su entrega.
-
-Se aceptará en este servicio la correspondencia de primera, tercera, cuarta y quinta clases.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 473.
 
-Cesará toda responsabilidad para la Dirección General de Correos respecto de la correspondencia registrada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-I.- Cuando se haya entregado a las personas que tengan derecho a recibirla.
-
-II.- Por haber transcurrido seis meses, a partir de la fecha del depósito, sin que se haya hecho reclamación.
-
-III.- Por haber transcurrido tres meses, contados desde la fecha en que se hubiere notificado la indemnización procedente, sin que el interesado haya ocurrido a cobrar su importe.
-
-IV.- Por pérdida debida a caso fortuito o de fuerza mayor.
-
-V.- Por el pago de la indemnización.
-
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO X. Servicio de reembolso
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 474.
 
-El servicio de reembolso consiste en la conducción de un envío para entregarse al destinatario, previo pago en las condiciones que fije el reglamento, de la cantidad que señale el remitente.
-
-Se aceptará en este servicio la correspondencia registrada de primera, tercera y quinta clases.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 475.
 
-La cantidad máxima por la que puede aceptarse un envío con reembolso será de cinco mil pesos; en casos especiales podrá aceptarse por mayor cantidad.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 476.
 
-Cesará toda responsabilidad para la Dirección General de Correos respecto de la correspondencia con reembolso:
-
-I.- Por la entrega de los envíos a los destinatarios o sus representantes a cambio de giro postal correspondiente a favor del remitente.
-
-II.- Por su devolución al remitente.
-
-III.- Por el pago al remitente del giro que cubra su valor o por la prescripción de dicho giro.
-
-IV.- Por haber transcurrido seis meses a partir de la fecha del depósito, sin que se haya hecho la debida reclamación.
-
-V.- Por haber transcurrido tres meses, contados desde la fecha en que se hubiere notificado la indemnización procedente, sin que el interesado haya ocurrido a cobrar su importe.
-
-VI.- Por pérdida debida a caso fortuito o de fuerza mayor.
-
-VII.- Por el pago de la indemnización.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 477.
 
-Los remitentes de correspondencia con reembolso podrán modificar y aun cancelar la cantidad que las oficinas de correos deban cobrar a los destinatatarios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XI. Servicio postal
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 478.
 
-El servicio postal de seguro consiste en la obligación que contrae la Dirección General de Correos de responder aun en los casos fortuitos o de fuerza mayor por la pérdida de los envíos o por faltantes o avería de su contenido, hasta por la cantidad en que se hubieren asegurado.
-
-Se aceptará en este servicio la correspondencia registrada de primera, tercera, cuarta y quinta clases.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 479.
 
-La cantidad máxima por la que pueden asegurarse los envíos será de cinco mil pesos.
-
-La admisión de piezas aseguradas por mayor cantidad sólo podrá efectuarse con autorización de la Dirección General de Correos.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 480.
 
-La correspondencia asegurada que se reexpida a solicitud de los remitentes o destinatarios, deberá cubrir nuevamente el derecho de seguro.
-
-Cuando el destinatario sea quien solicite la reexpedición, no podrá modificar la cantidad en que el remitente haya asegurado la pieza.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 481.
 
-Los remitentes de piezas postales aseguradas están obligados:
-
-I.- A declarar con exactitud el contenido y valor real de sus envíos, pudiendo fijar el valor del seguro en cantidad menor, excepto cuando se remitan los objetos de que trata el Artículo 444 en su fracción I.
-
-II.- A presentar abiertos sus envíos en el momento del depósito, con excepción de aquellos casos en que el reglamento autorice otra forma de presentación.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 482.
 
-Cesará la responsabilidad de la Dirección General de Correos respecto de la correspondencia asegurada:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-I.- Por la entrega de los envíos a satisfacción de la persona legalmente capacitada para recibirlos.
-
-II.- Por el transcurso del plazo de seis meses, sin que se hubiere presentado reclamación.
-
-III.- Por haber transcurrido tres meses, contados desde la fecha en que se hubiere notificado la indemnización procedente, sin que el interesado haya ocurrido a cobrar su importe.
-
-IV.- Por el pago de la indemnización.
-
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XII. Servicio de acuse de recibo de piezas registradas
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 483.
 
-El servicio de acuse de recibo consiste en recabar en una tarjeta especial la firma del destinatario de un envío registrado, y en entregar esa tarjeta al remitente como constancia de la entrega.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-Este servicio podrá solicitarse en el momento del depósito de la pieza o dentro de los treinta días siguientes.
-
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XIII. Servicio de correspondencia con derechos por cobrar
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 484.
 
-El servicio de correspondencia con derechos por cobrar consiste en la aceptación de sobres o tarjetas, sin franquear, que el permisionario proporciona a sus corresponsables. Esta facilidad podrá ampliarse a cualquier otro envío de primera clase ordinario o registrado. El permisionario pagará los derechos correspondientes al recibir las piezas a su consignación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-El uso del servicio requerirá autorización que conforme al reglamento, otorgará la Dirección General de Correos.
-
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XIV. Servicio de entrega inmediata
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 485.
 
-El servicio de entrega inmediata consiste en la preferencia en el despacho y entrega de la correspondencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XV. Servicio de correogramas
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 486.
 
-El servicio de correogramas consiste en la conducción por la vía postal más rápida, de mensaje escrito en carta-sobre de emisión oficial con las preferencias, además, del servicio de entrega inmediata.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XVI. Servicio de almacenaje
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 487.
 
-El servicio de almacenaje consiste en la conservación y guarda de la correspondencia de tercera y quinta clases que el público deposita. Este servicio regirá en los términos que fije el reglamento de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XVII. Servicio de cajas de apartado
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 488.
 
-El servicio de cajas de apartado consiste en el alquiler de casillas en que se coloca la correspondencia dirigida a las personas que tenga derecho a recibirla en ellas.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 489.
 
-Las cajas de apartado se darán por contrato escrito, en los términos que señale el reglamento de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XVIII. Servicio de giros postales
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 490.
 
-El servicio de giros postales consiste en la situación de dinero por medio de libramientos a favor de beneficiario determinado.
-
-Estos libramientos pueden endosarse por una sola vez.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 491.
 
-En casos de extravío o pérdida de giros postales podrá expedirse un duplicado y hasta un triplicado los cuales surtirán los mismos efectos del original. El reglamento de esta Ley, determinará los requisitos que deban llenarse para su expedición.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 492.
 
-Las personas que otorguen conocimiento para identificar como beneficiario de un giro postal a quien no lo sea, están obligadas a reintegrar a la oficina de correos respectiva, la cantidad que por ese medio llegue a cobrarse indebidamente.
-
-En caso de rehusarse a pagar, se procederá a denunciar el hecho a la autoridad competente.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 493.
 
-La cantidad máxima por la que podrá expedirse un giro postal será de cinco mil pesos; sólo en casos especiales pueden expedirse por mayor cantidad, conforme lo determine el reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 494.
 
-Se suspenderá el pago de un giro postal o se efectuará a persona distinta de la beneficiaria, cuando lo ordene por escrito una autoridad judicial.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 495.
 
-El derecho para cobrar un giro postal prescribe después de dos años contados desde la fecha de su expedición, a no ser que este plazo se interrumpa por la reclamación del interesado o porque el giro esté sujeto a litigio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XIX. Servicio de aviso de pago de giros
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 496.
 
-El servicio de aviso de pago de giros consiste en otorgar al solicitante una constancia del pago del libramiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-Este servicio podrá solicitarse en el momento de la expedición del giro o dentro de los treinta días siguientes.
-
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XX. Servicio de vales postales
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 497.
 
-El servicio de vales postales consiste en la situación de dinero por medio de libramientos a favor de beneficiario determinado y con las denominaciones que fija el reglamento de esta Ley.
-
-Estos libramientos no son endosables.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 498.
 
-El cobro de vales postales extraviados o perdidos se hará mediante recibo que otorgue el interesado.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 499.
 
-Las personas que otorguen conocimiento para identificar como beneficiario de un vale postal a quien no lo sea, están obligadas a reintegrar a la oficina de correos respectiva, la cantidad que por ese medio llegue a cobrarse indebidamente.
-
-En caso de rehusarse a pagar, se procederá a denunciar el hecho a la autoridad competente.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 500.
 
-Se suspenderá el pago de un vale postal o se efectuará a persona distinta de la beneficiaria, cuando lo ordene por escrito una autoridad judicial.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 501.
 
-El derecho para cobrar un vale postal precribe (sic) después de dos años contados desde la fecha de su expedición, a no ser que este plazo se interrumpa por la reclamación del interesado, o porque el vale esté sujeto a litigio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXI. Servicio postal de ahorro
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 502.
 
-El servicio postal de ahorro consiste en recibir del público depósitos que devengan intereses, los cuales pueden ser retirados por los cuentahabientes en los términos y condiciones que fijan esta Ley y el reglamento respectivo.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 503.
 
-Las cuentas de ahorro solamente se abrirán con depósito de cinco pesos o mayor cantidad.
-
-El interés será fijado por el reglamento y se abonará en la cuenta del depositante. En ningún caso se abonarán los intereses sobre saldos inferiores a cinco pesos ni mayores de cuarenta mil.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 504.
 
-Los abonos a la cuenta podrán hacerse en estampillas postales de ahorro y en efectivo. En el primer caso, los abonos no podrán ser inferiores a cinco pesos y en el segundo a cincuenta centavos.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 505.
 
-La Dirección General de Correos queda autorizada en los términos de esta Ley y del reglamento para recibir depósitos de ahorro en cada cuenta hasta por cuarenta mil pesos, de los cuales el cuentahabiente puede disponer parcialmente, a la vista, siempre que la cantidad retirable en esa forma y en una sola vez no exceda de la suma de quinientos pesos, o del treinta por ciento del saldo, y de que hayan transcurrido, por lo menos, quince días del último retiro a la vista cuando éste haya sido superior a cien pesos, y por lo menos siete días, cuando el retiro no haya excedido de esa suma.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 506.
 
-No se abrirá cuenta de ahorros a las sociedades, asociaciones o instituciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXII. Servicio postal de identificación
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 507.
 
-El servicio postal de identificación consiste en la expedición de una tarjeta a nombre de una persona física determinada, en que se acredita que la firma y demás datos ostentados en ella, corresponden a dicha persona.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 508.
 
-La vigencia de las tarjetas postales de identificación será de tres años, a partir de la fecha de su expedición.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXIII. Nuevos servicios
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 509.
 
-El Ejecutivo de la Unión queda facultado para establecer nuevos servicios postales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ## TITULO CUARTO. Derecho de los Remitentes y Destinatarios
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXIV. Derecho de los remitentes
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 510.
 
-Los remitentes de correspondencias tienen los siguientes derechos:
-
-I.- Obtener la devolución de sus envíos.
-
-II.- Obtener que se reexpidan sus envíos a distinto lugar de su primitivo destino.
-
-III.- Cambiar de destinatario.
-
-IV.- Modificar las condiciones de entrega de sus envíos.
-
-V.- Ampliar o reducir el plazo de conservación para la entrega de sus envíos en los términos que fija el Reglamento.
-
-VI.- Obtener informes sobre sus envíos:
-
-VII.- Percibir las indemnizaciones siguientes:
-
-a).- Tratándose de seguros postales.
-
-Por pérdida: el importe total en que se hubiere asegurado la pieza.
-
-Por faltante: el importe de lo que faltare.
-
-Por avería: el importe del daño causado.
-
-b).- Tratándose de reembolsos.
-
-Por pérdida, siempre que no se deba a caso fortuito o de fuerza mayor: hasta treinta pesos.
-
-c).- Tratándose de registrados.
-
-Por perdida siempre que no se deba a caso fortuito o de fuerza mayor: hasta quince pesos.
-
-VIII.- Tratándose de correspondencia ordinaria, registrada de tercera clase con cuota reducida, y registrada de cualquier clase con franquicia, la Dirección General de Correos no asume ninguna responsabilidad.
-
-IX.- Los demás que les concedan esta Ley y su reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 511.
 
-Los remitentes se considerarán propietarios de sus envíos, mientras éstos permanezcan en poder del correo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-(REUBICADO Y REFORMADO, D.O.F. 5 DE ENERO DE 1951)
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXV. Derecho de los destinatarios
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 512.
 
-Los destinatarios de correspondencias tienen los siguientes derechos:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-I.- Obtener que sus envíos se reexpidan a distinto lugar de su primitivo destino.
-
-II.- Elegir entre la vía aérea o de superficie para la reexpedición de sus envíos.
-
-III.- Elegir el medio de entrega entre los enumerados por el artículo 452 de esta Ley.
-
-IV.- Ampliar el plazo de conservación de los envíos dentro de los límites fijados por el reglamento, cuando el remitente no haya dado órdenes en contrario.
-
-V.- Obtener informes sobre los envíos a su consignación.
-
-VI.- Percibir las indemnizaciones a que se refiere el artículo 510 fracción VII, cuando el remitente haya renunciado a ellas.
-
-VII.- Los demás que les concedan esta Ley de (sic) sus reglamentos.
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ## TITULO QUINTO. Tasas
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXVI. Derechos
 
 ###### ARTICULO 513.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 514.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXVII. Franquicia
 
 ###### ARTICULO 515.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 516.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 517.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXVIII. Emisión de estampillas. Maquinas franqueadoras
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
-
 ###### ARTICULO 518.
 
-Las emisiones de estampillas postales se harán, retirarán, sustituirán o resellarán por decreto del Presidente de la República. El decreto contendrá las características de las estampillas y las condiciones que deban cumplirse para la vigencia, retiro o caducidad. El Presidente de la República podrá también decretar emisiones extraordinarias para conmemorar algún suceso histeórico (sic) de trascendencia nacional o internacional; en el decreto respectivo se fijará el monto.
-
-La Dirección General de Correos aportará para la formulación de los decretos, todos los datos y elementos a su disposición.
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 519.
 
-Para la introducción al país, así como para la fabricación, venta o uso de maquinas franqueadoras se requerirá permiso previo de la Secretaría de Comunicaciones y Obras Públicas, por conducto de la Dirección General de Correos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XXIX. Tarifa
 
 ###### ARTICULO 520.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 521.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)(REPUBLICADA SU DEROGACION POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 522.
 
-La Secretaría de Comunicaciones y Obras Públicas hará la conversión de las cuotas que establezcan los convenios internacionales a moneda nacional, tomando como base los tipos oficiales. Cuando así lo determinen dichos convenios, aplicará la tarifa interna.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO POSTAL MEXICANO, D.O.F. 24 DE DICIEMBRE DE 1986)
 
 # LIBRO SEPTIMO. Sanciones
 
@@ -4856,9 +4446,15 @@ La Secretaría de Comunicaciones y Transportes, en forma inmediata deberá poner
 
 El concesionario o permisionario estará obligado a pagar un tanto igual a la multa impuesta al infractor, en el caso de que permita que dicho operador conduzca sin haber hecho el pago de la infracción correspondiente.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 538.
 
-El monto de las sanciones que se impongan a los conductores de vehículos y el de la responsabilidad civil que derive por daños causados a terceras personas con motivo del manejo de los mismos vehículos, será garantizado con el valor de éstos, a cuyo efecto las autoridades correspondientes podrán retenerlos hasta en tanto se cubran, por el responsable, las sanciones e indemnizaciones a que hubiere lugar o se otorgue fianza bastante para responder de las mismas; en caso contrario, se procederá al remate del vehículo y con su producto se pagará el importe de las sanciones o indemnizaciones.
+El monto de las sanciones administrativas que se impongan a los conductores de vehículos con motivo del manejo de éstos será garantizado con el valor de los propios vehículos o mediante el otorgamiento de fianza suficiente para responder de las mismas. En caso de que la garantía sea el vehículo podrá entregarse en depósito a su conductor o a su legítimo propietario, quienes deberán presentarlo ante la autoridad competente cuando ésta lo solicite. En el supuesto de que los vehículos se encuentren involucrados en la comisión de un delito se procederá conforme a las disposiciones penales respectivas.
+
+> <small>N. DE E. EL TEXTO DEL PRESENTE PARRAFO SE TRANSCRIBE INCOMPLETO EN VIRTUD DE LO ILEGIBLE EN LA IMPRESION DE LA PAGINA 43 DEL DIARIO OFICIAL DE FECHA 24 DE DICIEMBRE DE 1986.</small>
+
+El propietario del vehículo dispondrá de un plazo de un año contado a partir de la fecha en que se cometió la infracción para cubrir las multas impuestas o los gastos a que hubiere lugar; en caso contrario, se formulará la liquidación de las cantidades que por concepto de sanciones o gastos deban cubrirse por el infractor y junto con el vehículo se consignarán a la Secretaría de Hacienda y Crédito Público para que proceda a su remate. Con el producto del mismo se hará el pago de las multas y gastos que la autoridad (sic) … el remanente se pondrá a disposición del propietario del mismo.
 
 ###### ARTICULO 539.
 
@@ -5531,3 +5127,17 @@ D.O.F. 19 DE NOVIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1986.
+
+LEY DEL SERVICIO POSTAL MEXICANO.
+
+PRIMERO.- Esta Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan el Libro Sexto Comunicaciones Postales de la Ley de Vías Generales de Comunicación, así como todas aquellas disposiciones que se opongan a esta Ley.
+
+D.O.F. 24 DE DICIEMBRE DE 1986.
+
+DECRETO POR EL QUE SE REFORMA LA LEY DE VIAS GENERALES DE COMUNICACION
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
