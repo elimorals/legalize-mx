@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2003-12-30"
+last_updated: "2004-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -780,7 +780,9 @@ Los incidentes no suspenderán el procedimiento, se tramitarán con un escrito d
 
 Se exceptúa de lo anterior los incidentes de nulidad de actuaciones, de competencia y las demás cuestiones incidentales que tienen previstos trámites especiales en éste código para su substanciación.
 
-Cuando durante el juicio, antes de la citación para sentencia en el procedimiento ordinario o de que se proceda a dictarla en el sumario, se denuncien hechos delictuosos relacionados con el negocio, el juez o tribunal de los autos, los pondrá inmediatamente en conocimiento de el ministerio público para que proceda con arreglo a sus atribuciones. En los demás casos se procederá como lo previene el artículo 9 del Código de Procedimientos Penales del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2004)</small>
+
+Cuando durante el juicio, antes de la citación para sentencia en el procedimiento ordinario o de que se proceda a dictarla en el sumario, se denuncien hechos delictuosos relacionados con el negocio, el juez o tribunal de los autos, los pondrá inmediatamente en conocimiento del Ministerio Público para que proceda con arreglo a sus atribuciones. En los demás casos se procederá como lo previene el artículo 88 del Código de Procedimientos Penales del Estado.
 
 Si la denuncia se refiere a la falsedad de un documento presentado al juicio al comunicar los hechos al ministerio público, se le remitirá original y sellado el documento argüido de falso, el cual rubricarán el juez y el secretario, dejando en los autos, en lugar de aquél, copia autorizada.
 
@@ -1930,7 +1932,7 @@ Si se declara improcedente o no probada la causa de recusación, se impondrá al
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
-No se dará curso a ninguna recusación, si en el escrito en que se promueva no se precisan las causas que la motivan y se ofrecen las pruebas respectivas; debiéndose exhibir las documentales, así como el certificado de depósito por el máximo de la multa, la que en su caso se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al Supremo Tribunal de Justicia del Estado, para los fines que determine el pleno..
+No se dará curso a ninguna recusación, si en el escrito en que se promueva no se precisan las causas que la motivan y se ofrecen las pruebas respectivas; debiéndose exhibir las documentales, así como el certificado de depósito por el máximo de la multa, la que en su caso se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al Supremo Tribunal de Justicia del Estado, para los fines que determine el pleno.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3472,7 +3474,7 @@ Las actuaciones judiciales hacen prueba plena.
 
 ###### ARTICULO 403.
 
-Los documentos privados ofrecidos como prueba, cuando no fueren objetados o no quedare justificada la objeción respectiva, se tendrán por reconocidos y harán prueba plena, contra el colitigante, en cuanto tengan relación con el negocio, aún cuando el mismo colitigante no sea autor de éllos.
+Los documentos privados ofrecidos como prueba, cuando no fueren objetados o no quedare justificada la objeción respectiva, se tendrán por reconocidos y harán prueba plena, contra el colitigante, en cuanto tengan relación con el negocio, aún cuando el mismo colitigante no sea autor de ellos.
 
 ###### ARTICULO 404.
 
@@ -5560,14 +5562,6 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5575,6 +5569,14 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8487,3 +8489,7 @@ P.O. 30 DE DICIEMBRE DE 2003.
 DECRETO NUMERO 20421, QUE ADICIONA LOS ARTICULOS 686 BIS, 686 TER Y 692 BIS, Y SE REFORMAN LOS ARTICULOS 685, 686, 687 Y 688.
 
 ÚNICO.- El presente decreto que contiene reformas al Código Civil del Estado de Jalisco y Código de Procedimientos Civiles del Estado de Jalisco entrará en vigor al día 14 de febrero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
