@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2003-12-30"
+last_updated: "2004-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -165,11 +165,21 @@ De crearse categorías o cargos no comprendidos en este artículo, se hará cons
 
 Son servidores públicos de base los no comprendidos en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### Art. 6°.
 
-Son servidores públicos supernumerarios aquellos a quienes se les otorgue alguno de los nombramientos temporales señalados en las fracciones II, III, IV y V del artículo 16 de esta Ley.
+Son servidores supernumerarios aquellos a quienes se les otorgue alguno de los nombramientos temporales señalados en las fracciones II, III, IV y V del artículo 16 de esta ley.
+
+Alos (sic) servidores públicos supernumerarios que sean empleados por tres años y medio consecutivos, se les otorgará nombramiento definitivo.
+
+También serán contratados de manera definitiva los servidores públicos supernumerarios que hayan sido empleados por cinco años. interrumpidos (sic) en no más de dos ocasiones por lapsos no mayores a 6 meses cada uno.
+
+El derecho obtenido por los servidores públicos en los términos de los párrafos anteriores deberá hacerse efectivo de inmediato, siempre y cuando permanezca la actividad para la que fueron contratados, se tenga la capacidad requerida y cumplan con los requisitos de ley, mediante la creación de las plazas correspondientes, o en su defecto, a más tardar en el siguiente ejercicio fiscal.
+
+Lo señalado en las fracciones II, II (sic), IV y V del artículo 16 quedará a salvo de conformidad a la naturaleza del empleo.
+
+Los servidores públicos supernumerarios una vez contratados de manera definitiva podrán solicitar les sea computada la antigüedad desde su primer contrato para efectos del servicio civil de carrera.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -1165,7 +1175,7 @@ V. Por desistimiento.
 
 ###### Art. 105.
 
-Las acciones que nazcan de esa ley, o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
+Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -1743,6 +1753,8 @@ La Comisión sesionará ordinariamente por lo menos cada dos meses y extraordina
 
 Para que las sesiones de la Comisión tengan validez, se requiere que exista "quórum" con la asistencia de la mitad más uno de sus miembros, y sus acuerdos serán tomados por mayoría de votos de los asistentes.
 
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2019, SE SUPRIME LA FRACCIÓN VI Y SE RECORRERÉ LA SUBSECUENTE FRACCIÓN]</small>
+
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 166.
@@ -1755,13 +1767,13 @@ II. Tomar los acuerdos que sean necesarios para la consecución de los fines del
 
 III. Autorizar la creación de subcomisiones de apoyo;
 
-IV. Proponer al Titular de la Entidad Pública modificaciones al Reglamento Interno;
+IV. Validar los resultados de los exámenes de admisión, concursos de oposición y solicitudes de promoción remitidos por el Organo de Administración Interna, previo a su publicidad y ejecución;
 
-V. Crear el Reglamento Interno; y
+V. Proponer al Titular de la Entidad Pública modificaciones al Reglamento Interno;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VI. Las demás que establezca esta Ley, los Reglamentos Internos correspondientes y las políticas administrativas a que se refiere el Capítulo III del Presente Título.
+VI. Las demás que establezca esta Ley, los Reglamentos Internos correspondientes y las políticas administrativas a que se refiere el Capítulo III del presente Título.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2079,7 +2091,7 @@ TERCERO. Los Poderes del Estado, Ayuntamientos, así como sus organismos descent
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
-CUARTO. Las Comisiones de Evaluación de las Entidades, presentarán en un término de treinta días a partir de su integración, sus proyectos reglamento interno al Titular de la Entidad, quien emitirá el reglamento, en un término igual a partir de su recepción.
+CUARTO. Las Comisiones de Evaluación de las Entidades, presentarán en un término de treinta días a partir de su integración, sus proyectos de reglamento interno al Titular de la Entidad, quien emitirá el reglamento, en un término igual a partir de su recepción.
 
 QUINTO. Los servidores públicos que reciban la seguridad social a través del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado seguirán afiliados a dicha entidad.
 
@@ -2142,5 +2154,9 @@ SEGUNDO.- Los derechos adquiridos por los servidores públicos para recibir Ince
 TERCERO.- A los servidores públicos y titulares no sujetos a las condiciones generales de trabajo les serán respetados sus derechos de conformidad a los acuerdos presupuestarios para el ejercicio fiscal de 2003.
 
 P.O. 30 DE DICIEMBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
