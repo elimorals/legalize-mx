@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2002-10-25"
+last_updated: "2003-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3137,9 +3137,11 @@ Modificación de la ejecución.- En los casos en que proceda la aplicación de l
 
 ## TITULO SEGUNDO. PENAS
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2003)</small>
+
 ###### Artículo 416.
 
-Norma aplicable para la ejecución de las penas y medidas de seguridad.- En lo no previsto por este Título, la ejecución de las penas y medidas de seguridad se sujetará a lo que determina la Ley de ejecución penal respectiva del Estado.
+Norma Aplicable para la Ejecución de las Penas y Medidas de Seguridad.- En lo no previsto por este Título, la ejecución de las penas y medidas de seguridad, se sujetará a lo que determina la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado.
 
 ###### Artículo 417.
 
@@ -3426,3 +3428,9 @@ UNICO: Las presentes reformas y adiciones entrarán en vigor al día siguiente d
 P.O. 25 DE OCTUBRE DE 2002.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE ENERO DE 2003.
+
+###### ARTICULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
