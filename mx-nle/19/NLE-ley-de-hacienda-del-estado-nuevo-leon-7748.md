@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1977-12-30"
+last_updated: "1978-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1855,13 +1855,11 @@ La falta de pago de estos derechos, dentro de los plazos que la Ley señala, dar
 
 En los casos de iniciación de operaciones y de cambio de objeto o de giro, los derechos que establece el Artículo anterior se pagarán íntegramente con anterioridad a la presentación de la solicitud de empadronamiento.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 233.
 
-El pago de los derechos de refrendo de empadronamiento se hará como sigue:
-
-a) Si el monto anual de los derechos es de $500.00 (quinientos pesos), en el mes de enero de cada año.
-
-b) Si el monto anual de los derechos excede de $500.00 (quinientos pesos), por trimestres adelantados, dentro de los primeros veinte días de los meses de enero, abril, julio y octubre de cada año; sin perjuicio de que puedan haceres (sic) pagos anticipados de los derechos, respecto de todo o parte del año.
+El pago de los derechos de refrendo de empadronamiento se realizará por trimestres adelantados, dentro de los primeros 20 días de los meses de enero, abril, julio y octubre de cada año, sin perjuicio de que puedan realizarse pagos anticipados de los citados derechos, respecto de todo o parte del año.
 
 ###### ARTICULO 234.
 
@@ -1953,29 +1951,27 @@ OBJETO: Es objeto de este impuesto el sacrificio de ganado y aves que se realice
 
 SUJETOS: Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, propietarias o poseedoras del ganado y aves materia del sacrificio.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 251.
 
 TASA: El impuesto se pagará conforme a las siguientes tasas:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+I.- Ganado vacuno en pie: $200.00 por cabeza.
 
-I.- Ganado vacuno en pie: $140.00 por cabeza.
+II.- Ganado porcino con peso menor de 80 kilogramos, en pie; $80.00 por cabeza.
 
-II.- Ganado porcino con peso menor de 80 kilogramos, en pie: $40.00 por cabeza.
+III.- Ganado porcino con peso mayor de 80 kilogramos, en pie $140.00 por cabeza.
 
-III.- Gando (sic) porcino con peso mayor de 80 kilogramos, en pie: $70.00 por cabeza.
+IV.- Ganado Ovi-caprino, $40.00 por cabeza.
 
-IV.- Ganado ovi-caprino, $20.00 por cabeza.
+V.- Cabrito, $16.00 cada uno.
 
-V.- Cabrito, $8.00 cada uno.
-
-VI.- Ganado mayor no especificado, $60.00 por cabeza.
+VI.- Ganado mayor no especificado, $120.00 por cabeza.
 
 VII.- Aves, $0.80 cada una.
 
 VIII.- Guajolotes, $2.00 cada uno.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 1977)</small>
 
 IX.- Pollo de engorda: $1.50 cada uno.
 
@@ -2171,19 +2167,23 @@ Por expedición de constancias y certificados que extiendan las Dependencias de 
 
 Por los servicios del Registro Civil, de acuerdo con la siguiente:
 
-T A R I F A
+T A R I F A:
 
 Concepto:
 
-I.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos y defunción $20.00
+I.- Inscripción de hechos relativos al nacimiento, reconocimiento de hijos y defunción $60.00
 
-II.- Inscripción de actas de matrimonio $50.00
+II.- Inscripción de acta de matrimonio $500.00
 
-III.- Inscripción de acta de divorcio $250.00
+III.- Inscripción de acta de divorcio $1,000.00
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada una $30.00
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una $50.00
 
-V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas y días inhbiles (sic), o en lugar distinto a la sede de la Oficialía, su inscripción causará una cuota de $ 250.00
+V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas, días inhábiles, o en lugar distinto a la sede de la Oficialía, su inscripción causará cuota de otro tanto más de la suma fijada en las fracciones anteriores.
+
+VI.- Por anotaciones marginales $125.00
+
+Gozarán de reducción del 50% del monto de los derechos indicados en las fracciones precedentes, las personas de escasos recursos, sin ingresos fijos o regulares, que comprueben tal situación, bajo la responsabilidad del oficial del Registro Civil al que corresponda la prestación del servicio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -2356,6 +2356,8 @@ XVIII.- Por revalidación o refrendo anual de fierros de herrar o marcas de sang
 ### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
 
 ### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Oficialía Mayor
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
 ### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Tesorería General
 
@@ -2614,5 +2616,15 @@ P.O. 30 DE DICIEMBRE DE 1977.
 Esta Ley entrará en vigor el día 1o. de Enero de 1978.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 25 DE DICIEMBRE DE 1978.
+
+###### ARTICULO PRIMERO
+
+Esta Ley entrará en vigor el día 1o. de Enero de 1979.
+
+###### ARTICULO SEGUNDO
 
 Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
