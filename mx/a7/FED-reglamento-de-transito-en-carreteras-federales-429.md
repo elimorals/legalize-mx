@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transito-en-carreteras-federales-429"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-06-10"
-last_updated: "1988-11-07"
+last_updated: "2000-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1973-10-08"
 
 REGLAMENTO DE TRANSITO EN CARRETERAS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 10 de junio de 1975.
 
@@ -901,6 +901,50 @@ Los concesionarios y permisionarios remitirán a la Secretaría de Comunicacione
 
 Asimismo, están obligados a informar a la Secretaría de Comunicaciones y Transportes, respecto a los conductores que hayan causado alta o baja, señalando el motivo de las mismas y los cambios de domicilio, en un término que no exceda de 30 días a partir de la fecha del movimiento respectivo.
 
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2000)</small>
+
+###### ARTICULO 62 Bis.
+
+La bitácora de horas de servicio del conductor es el registro diario que contiene los datos necesarios para conocer el tiempo efectivo de conducción y determinar el de descanso. Los permisionarios deberán dotar a sus conductores de dicha bitácora.
+
+El registro de los datos de la bitácora se realizará en formatos impresos o electrónicos. Los datos que habrán de registrarse serán, cuando menos, los siguientes:
+
+I. Nombre o razón social del permisionario y su domicilio;
+
+II. Tipo de servicio y modalidad;
+
+III. Marca, modelo y placas del vehículo;
+
+IV. Fecha de elaboración de la bitácora;
+
+V. Nombre del conductor;
+
+VI. Número de licencia del conductor y vigencia;
+
+VII. Origen y destino, especificando la ruta a seguir;
+
+VIII. Horas:
+
+a) De salida y de llegada;
+
+b) De servicio conduciendo;
+
+c) De servicio sin conducir, a consecuencia de paradas no programadas;
+
+d) Fuera de servicio, y
+
+e) De descanso;
+
+IX. Casos de excepción en los que el conductor pueda excederse de la jornada, y
+
+X. Firmas del conductor y del permisionario o de la persona que éste designe.
+
+Los conductores deberán respetar las jornadas establecidas en la Ley Federal del Trabajo y en los tratados, acuerdos y convenios internacionales.
+
+Todos los conductores de vehículos que estén amparados con permiso expedido por la Secretaría de Comunicaciones y Transportes portarán, debidamente requisitada, la bitácora a que se refiere el presente artículo, así como las de los siete días anteriores.
+
+Los permisionarios deberán conservar las bitácoras por un periodo de 60 días, contados a partir del día que corresponda su elaboración.
+
 ## TITULO CUARTO. Reglas de circulación
 
 ### CAPITULO I. Generalidades
@@ -1013,9 +1057,27 @@ Para que un vehículo automotor, remolcado o de propulsión humana, pueda transi
 
 5.- Motocicletas y bicicletas que no necesitan calcomanía.
 
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 81.
 
-Todo vehículo que transite por la vía pública deberá encontrarse en condiciones satisfactorias de funcionamiento y provisto de los dispositivos que exige este Reglamento.
+Todo vehículo que transite por la vía pública deberá encontrarse en condiciones satisfactorias de funcionamiento y provisto de los dispositivos que exige este Reglamento. Asimismo, en el caso de los vehículos destinados a operar el servicio de autotransporte federal y transporte privado, deberán cumplir, además, con las normas respectivas para el tránsito de vehículos en la vía pública.
+
+Los vehículos que no cumplan con las condiciones de seguridad establecidas en las normas respectivas no podrán circular. Una vez que el permisionario acredite, ante la Secretaría de Comunicaciones y Transportes que subsanó las omisiones y que cumple con dichas condiciones reanudará su operación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2000)</small>
+
+###### ARTICULO 81 Bis.
+
+La Secretaría de Comunicaciones y Transportes, a través de inspectores de vías generales de comunicación, que cuenten con el oficio de comisión respectivo, realizará verificaciones a los vehículos del autotransporte federal y transporte privado. Dichas verificaciones se llevarán a cabo en presencia del conductor, o del permisionario o su representante legal, de conformidad con lo establecido en las normas respectivas, a fin de determinar que cumplan con las condiciones de seguridad.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2000)</small>
+
+###### ARTICULO 81 Ter.
+
+La Secretaría de Comunicaciones y Transportes determinará, por conducto de los médicos autorizados, que los conductores no presenten síntomas de fatiga conforme a los parámetros establecidos en la norma respectiva; de excederlos, serán inhabilitados por el lapso establecido en dicha norma.
+
+Se entiende por fatiga la sensación de sueño o cansancio físico o psíquico, que impide estar en un estado de vigilia o alerta, sin perjuicio de lo que establezca la norma oficial mexicana correspondiente.
 
 ###### ARTICULO 82.
 
@@ -2183,6 +2245,14 @@ Para la aplicación de las sanciones pecuniarias que resulten aplicables según 
 
 12.- Cualquiera otra infracción a las disposiciones del presente Reglamento que no esté expresamente prevista en este Título, será sancionada con multa hasta por 50 días a juicio de la Secretaría de Comunicaciones y Transportes.
 
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2000)</small>
+
+13.- Los permisionarios o conductores que no cumplan con lo establecido en el artículo 62 Bis, serán sancionados con multa hasta por 200 días.
+
+> <small>(ADICIONADO, D.O.F. 29 DE MARZO DE 2000)</small>
+
+14.- El incumplimiento reincidente de lo previsto en el artículo 81, segundo párrafo, será sancionado con multa hasta por 200 días.
+
 ###### ARTICULO 201.
 
 Las infracciones a las disposiciones del presente Reglamento, en caso de reincidencia, causarán multa por cantidades mayores, que pueden llegar hasta el doble de las señaladas en el artículo 200, a juicio de la Secretaría de Comunicaciones y Transportes.
@@ -2230,3 +2300,7 @@ D.O.F. 7 DE NOVIEMBRE DE 1988.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 29 DE MARZO DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
