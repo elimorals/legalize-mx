@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-del-bienestar-sociedad-22507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-29"
-last_updated: "2001-11-29"
+last_updated: "2004-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22507&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-11-27"
 
 REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de noviembre de 2001.
 
@@ -71,11 +71,15 @@ La Institución tendrá una duración indefinida.
 
 ### Capítulo II. Del Capital Social
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 7o.
 
-El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $660'000,000.00 (seiscientos sesenta millones de pesos 00/100 M.N.). El capital social pagado es la cantidad de $660´000,000.00 (seiscientos sesenta millones de pesos 00/100 M.N.).
+El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $669'124,000.00 (seiscientos sesenta y nueve millones ciento veinticuatro mil pesos 00/100 M.N.). El capital social pagado es la cantidad de $669'124,000.00 (seiscientos sesenta y nueve millones ciento veinticuatro mil pesos 00/100 M.N.).
 
-Dicho capital social estará representado por 435,600 (cuatrocientos treinta y cinco mil seiscientos) certificados de aportación patrimonial de la serie “A”, con un valor nominal de $1,000.00 (mil pesos 00/100 M.N.) cada uno y por 224,400 (doscientos veinticuatro mil cuatrocientos) certificados de aportación patrimonial de la serie “B”, con un valor nominal de $1,000.00 (mil pesos 00/100 M.N.).
+> <small>(REFORMADO, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
+Dicho capital social estará representado por 44'162,184 (cuarenta y cuatro millones ciento sesenta y dos mil ciento ochenta y cuatro) certificados de aportación patrimonial de la serie "A", con un valor nominal de $10.00 (diez pesos 00/100 M.N.), cada uno y por 22'750,216 (veintidós millones setecientos cincuenta mil doscientos dieciséis) certificados de aportación patrimonial de la serie "B", con un valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno.
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Institución, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante modificación a este Reglamento.
 
@@ -506,3 +510,11 @@ Para efectos administrativos, el Banco del Ahorro Nacional, Sociedad Nacional de
 El capital pagado de la Institución a la vigencia del presente Reglamento Orgánico, asciende a la suma de $660´000,000.00 (seiscientos sesenta millones de pesos 00/100 M.N.), el cual está distribuido en 435,600 (cuatrocientos treinta y cinco mil seiscientos) certificados de aportación patrimonial de la serie "A", con un valor nominal de $1,000.00 (mil pesos 00/100 M.N.) cada uno y por 224,400 (doscientos veinticuatro mil cuatrocientos) certificados de aportación patrimonial de la serie "B", con un valor nominal de $1,000.00 (mil pesos 00/100 M.N.).
 
 El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil uno.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido por el cuarto párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
