@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2003-09-24"
+last_updated: "2004-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -1309,7 +1309,9 @@ El Gobierno del Estado se coordinará con las autoridades sanitarias federales p
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos, así como en Instituciones Educativas públicas o privadas.
 
 ###### ARTICULO 154.
 
@@ -2262,5 +2264,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Los establecimientos a que se refiere el artículo 166 Bis de la mencionada Ley, deberán dar cumplimiento a lo dispuesto por dicho artículo, en un término de 60 días, a partir de la entrada en vigor del presente Decreto.
 
 P.O. 24 DE SEPTIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
