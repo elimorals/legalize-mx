@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1974-01-31"
+last_updated: "1974-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1974.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -8541,6 +8541,10 @@ Cuando se exija la forma escrita para el contrato, los documentos relativos debe
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1974)</small>
+
+Los contratos hasta por un valor de cien mil pesos, por venta, hipoteca, préstamo, arrendamiento o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado, con sus propios asegurados o pensionistas, podrán otorgarse en documento privado, sin los requisitos de testigos y ratificación de firma.
+
 DIVISION DE LOS CONTRATOS
 
 ###### ARTICULO 1722.
@@ -14544,3 +14548,11 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 FRANCISCO SANTA PERALTA.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 20 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
