@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2001-10-16"
+last_updated: "2001-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2001 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2001.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE NOVIEMBRE DE 2001.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -1377,9 +1377,7 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 ### CAPITULO XX. De las Reformas a la Constitución
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE NOVIEMBRE DE 2001 EN EL PERIÓDICO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2001) (F. DE E., P.O. 5 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 89.
 
@@ -1763,7 +1761,7 @@ Ninguna disposición de esta Ley fundamental producirá efecto, cuando contraven
 
 ###### ARTICULO 130.
 
-La presente Constitución puede ser modificada mediante la reforma, adición o derogación de alguno de sus preceptos. Para que la modificación surta efectos se requerirá que sea probada por las dos terceras partes de los diputados presentes en la respectiva sesión y por la mayoría de los Ayuntamientos de los Municipios del Estado.
+La presente Constitución puede ser modificada mediante la reforma, adición o derogación de alguno de sus preceptos. Para que la modificación surta efectos se requerirá que sea aprobada por las dos terceras partes de los diputados presentes en la respectiva sesión y por la mayoría de los Ayuntamientos de los Municipios del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
 
