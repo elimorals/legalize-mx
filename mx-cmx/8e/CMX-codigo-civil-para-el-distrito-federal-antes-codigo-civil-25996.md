@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1940-01-20"
+last_updated: "1943-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE NOVIEMBRE DE 1943.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1837,7 +1837,7 @@ No puede haber sobre la filiación, ni transacción ni compromiso en árbitros.
 
 Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
 
-### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
+### CAPITULO I. Disposiciones generales
 
 ###### ARTICULO 340.
 
@@ -1909,7 +1909,7 @@ La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia e
 
 Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio, sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De la tutela testamentaria
 
 ###### ARTICULO 354.
 
@@ -1935,7 +1935,7 @@ Pueden gozar también de ese derecho que les concede el artículo 354, los hijos
 
 Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviere encinta.
 
-### CAPITULO II. De la tutela testamentaria
+### CAPITULO III. De la tutela legítima de los menores
 
 ###### ARTICULO 360.
 
@@ -2087,7 +2087,9 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
-### CAPITULO III. De la tutela legítima de los menores
+### CAPITULO IV
+
+De la tutela legítima de los dementes, idiotas, imbéciles, sordo-mudos, ebrios y de los que habitualmente abusan de las drogas enervantes.
 
 ###### ARTICULO 390.
 
@@ -2195,9 +2197,7 @@ Las resoluciones que dicten los jueces, aprobando la revocación, se comunicará
 
 ## TITULO DECIMO. De la emancipación y de la mayor edad
 
-### CAPITULO IV
-
-De la tutela legítima de los dementes, idiotas, imbéciles, sordo-mudos, ebrios y de los que habitualmente abusan de las drogas enervantes.
+### CAPITULO V. De la tutela legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia
 
 ###### ARTICULO 411.
 
@@ -2267,7 +2267,7 @@ Las autoridades, en caso necesario, auxiliarán a esas personas, haciendo uso de
 
 El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
-### CAPITULO V. De la tutela legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia
+### CAPITULO VI. De la tutela dativa
 
 ###### ARTICULO 425.
 
@@ -2363,7 +2363,11 @@ Estas medidas se tomarán a instancias de las personas interesadas, del menor cu
 
 Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO VI. De la tutela dativa
+CAPITULO
+
+De los modos de acabarse y suspenderse la patria potestad
+
+### CAPITULO VII. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
 
 ###### ARTICULO 443.
 
@@ -2415,7 +2419,7 @@ II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a
 
 ## TITULO UNDECIMO. De los ausentes e ignorados
 
-### CAPITULO VII. De las personas inhábiles para el desempeño de la tutela y de las que deben ser separadas de ella
+### CAPITULO VIII. De las excusas para el desempeño de la tutela
 
 ###### ARTICULO 449.
 
@@ -2517,9 +2521,9 @@ El juez pupilar del domicilio del incapacitado, y si no lo hubiere, el juez meno
 
 El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO VIII. De las excusas para el desempeño de la tutela
-
 ### CAPITULO IX. De la garantía que deben prestar los tutores para asegurar su manejo
+
+### CAPITULO X. Del desempeño de la tutela
 
 ###### ARTICULO 470.
 
@@ -2571,7 +2575,7 @@ Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare t
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO X. Del desempeño de la tutela
+### CAPITULO XI. De las cuentas de la tutela
 
 ###### ARTICULO 482.
 
@@ -2597,7 +2601,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### CAPITULO XI. De las cuentas de la tutela
+### CAPITULO XII. De la extinción de la tutela
 
 ###### ARTICULO 486.
 
@@ -2623,7 +2627,7 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-### CAPITULO XII. De la extinción de la tutela
+### CAPITULO XIII. De la entrega de los bienes
 
 ###### ARTICULO 492.
 
@@ -2637,7 +2641,7 @@ Los directores de las inclusas, hospicios y demás casas de beneficencia donde s
 
 En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
-### CAPITULO XIII. De la entrega de los bienes
+### CAPITULO XIV. Del curador
 
 ###### ARTICULO 495.
 
@@ -2691,7 +2695,7 @@ Los jueces pupilares nombrarán de entre las personas mencionadas las que en cad
 
 Si el menor que se encuentre en el caso previsto por el artículo 500, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
-### CAPITULO XIV. Del curador
+### CAPITULO XV. De los Consejos Locales de Tutela y de los Jueces Pupilares
 
 ###### ARTICULO 503.
 
@@ -2763,7 +2767,7 @@ En el caso de que trata el artículo anterior, se proveerá a la tutela conforme
 
 Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
 
-### CAPITULO XV. De los Consejos Locales de Tutela y de los Jueces Pupilares
+### CAPITULO XVI. Del estado de interdicción
 
 ###### ARTICULO 511.
 
@@ -2813,7 +2817,7 @@ El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tu
 
 Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO XVI. Del estado de interdicción
+### CAPITULO I. De la emancipación
 
 ###### ARTICULO 519.
 
@@ -2903,7 +2907,7 @@ Al presentar el tutor su cuenta anual, el curador o el Consejo Local de Tutelas 
 
 Es también obligación del curador y del Consejo Local de Tutelas, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
 
-### CAPITULO I. De la emancipación
+### CAPITULO II. De la mayor edad
 
 ###### ARTICULO 535.
 
@@ -3151,7 +3155,7 @@ El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por est
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO II. De la mayor edad
+### CAPITULO I. De las medidas provisionales en caso de ausencia
 
 ###### ARTICULO 590.
 
@@ -3219,7 +3223,7 @@ Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el 
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO I. De las medidas provisionales en caso de ausencia
+### CAPITULO II. De la declaración de ausencia
 
 ###### ARTICULO 606.
 
@@ -3231,7 +3235,7 @@ II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reco
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO II. De la declaración de ausencia
+### CAPITULO III. De los efectos de la declaración de ausencia
 
 ###### ARTICULO 607.
 
@@ -3279,7 +3283,7 @@ Si la tutela hubiera fenecido durante la minoridad, el menor podrá ejercitar la
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO III. De los efectos de la declaración de ausencia
+### CAPITULO IV. De la administración de los bienes del ausente casado
 
 ###### ARTICULO 618.
 
@@ -3347,7 +3351,7 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO IV. De la administración de los bienes del ausente casado
+### CAPITULO V. De la presunción de muerte del ausente
 
 ###### ARTICULO 631.
 
@@ -3379,7 +3383,7 @@ Mientras que se nombra tutor, el juez pupilar debe dictar las medidas necesarias
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO V. De la presunción de muerte del ausente
+### CAPITULO VI. De los efectos de la ausencia respecto de los derechos eventuales del ausente
 
 ###### ARTICULO 635.
 
@@ -3407,7 +3411,7 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ## TITULO DUODECIMO. Del patrimonio de la familia
 
-### CAPITULO VI. De los efectos de la ausencia respecto de los derechos eventuales del ausente
+### CAPITULO VII. Disposiciones generales
 
 ###### ARTICULO 641.
 
@@ -3437,7 +3441,7 @@ Hecha la emancipación, no puede ser revocada.
 
 Fuera del caso a que se refiere el artículo 641, la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al oficial del Registro Civil para que levante el acta respectiva.
 
-### CAPITULO VII. Disposiciones generales
+### CAPITULO UNICO
 
 ###### ARTICULO 646.
 
@@ -3449,7 +3453,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes.
 
 ## TITULO PRIMERO. Disposiciones Preliminares
 
-### CAPITULO UNICO
+### CAPITULO I. De los bienes inmuebles
 
 ###### ARTICULO 648.
 
@@ -3553,7 +3557,7 @@ Los edictos se publicarán por dos meses, con intervalo de quince días, en los 
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
 
-### CAPITULO I. De los bienes inmuebles
+### CAPITULO II. De los bienes muebles
 
 ###### ARTICULO 669.
 
@@ -3603,7 +3607,7 @@ La declaración de ausencia se publicará tres veces en los periódicos menciona
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
-### CAPITULO II. De los bienes muebles
+### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
 
 ###### ARTICULO 679.
 
@@ -3687,7 +3691,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
 
-### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
+### CAPITULO IV. De los bienes mostrencos
 
 ###### ARTICULO 698.
 
@@ -3717,7 +3721,7 @@ Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá de
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO IV. De los bienes mostrencos
+### CAPITULO V. De los bienes vacantes
 
 ###### ARTICULO 705.
 
@@ -3773,7 +3777,7 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 En el caso previsto por el artículo 703, el cónyuge sólo tendrá derecho a los alimentos.
 
-### CAPITULO V. De los bienes vacantes
+### CAPITULO UNICO
 
 ###### ARTICULO 715.
 
@@ -3795,7 +3799,7 @@ Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de 
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
 
-### CAPITULO UNICO
+### CAPITULO I. Disposiciones generales
 
 ###### ARTICULO 720.
 
@@ -3811,7 +3815,7 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ## TITULO SEGUNDO. Clasificación de los bienes
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De la apropiación de los animales
 
 ###### ARTICULO 723.
 
@@ -3991,7 +3995,7 @@ Están fuera del comercio por su naturaleza las que no pueden ser poseídas por 
 
 ## TITULO CUARTO. De la propiedad
 
-### CAPITULO II. De la apropiación de los animales
+### CAPITULO III. De los tesoros
 
 ###### ARTICULO 750.
 
@@ -4027,7 +4031,7 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya computado el de aquéllos, para constituir algún derecho real a favor de un tercero.
 
-### CAPITULO III. De los tesoros
+### CAPITULO IV. Del derecho de accesión
 
 ###### ARTICULO 752.
 
@@ -4079,7 +4083,7 @@ Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase l
 
 Los no fungibles son los que no pueden ser substituídos por otros de la misma especie, calidad y cantidad.
 
-### CAPITULO IV. Del derecho de accesión
+### CAPITULO V. Del dominio de las aguas
 
 ###### ARTICULO 764.
 
@@ -4121,7 +4125,7 @@ Son bienes de propiedad de los particulares todas las cosas cuyo dominio les per
 
 Los extranjeros y las personas morales para adquirir la propiedad de bienes inmuebles, observarán lo dispuesto en el artículo 27 de la Constitución de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-### CAPITULO V. Del dominio de las aguas
+### CAPITULO VI. De la copropiedad
 
 ###### ARTICULO 774.
 
@@ -4167,7 +4171,7 @@ La venta se hará siempre en almoneda pública.
 
 La ocupación de las embarcaciones, de su carga y de los objetos que el mar arroje a las playas o que se recojan en alta mar, se rige por el Código de Comercio.
 
-### CAPITULO VI. De la copropiedad
+### CAPITULO I. Del usufructo en general
 
 ###### ARTICULO 785.
 
@@ -4193,7 +4197,7 @@ El que se apodere de un bien vacante sin cumplir lo prevenido en en (sic) este c
 
 ## TITULO QUINTO. Del usufructo, del uso y de la habitación
 
-### CAPITULO I. Del usufructo en general
+### CAPITULO II. De los derechos del usufructuario
 
 ###### ARTICULO 790.
 
@@ -4403,7 +4407,77 @@ Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando
 
 ## TITULO SEXTO. De las servidumbres
 
-### CAPITULO II. De los derechos del usufructuario
+### CAPITULO III. De las obligaciones del usufructuario
+
+ARTICULO 1,006.- El usufructuario, antes de entrar en el goce de los bienes, está obligado:
+
+I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
+
+II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 434.
+
+ARTICULO 1,007.- El donador que se reserva el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello.
+
+ARTICULO 1,008.- El que se reserva la propiedad, puede dispensar al usufructuario de la obligación de afianzar.
+
+ARTICULO 1,009.- Si el usufructo fuere constituído por contrato, y el que contrató quedare de propietario, y no exigiere en el contrato la fianza, no estará obligado el usufructuario a darla; pero si quedare de propietario un tercero, podrá pedirla aunque no se haya estipulado en el contrato.
+
+ARTICULO 1,010.- Si el usufructo se constituye por título oneroso, y el usufructuario no presta la correspondiente fianza, el propietario tiene el derecho de intervenir la administración de los bienes, para procurar su conservación, sujetándose a las condiciones prescritas en el artículo 1,047 y percibiendo la retribución que en él se concede.
+
+Cuando el usufructo es a título gratuito y el usufructuario no otorga la fianza, el usufructo se extingue en los términos del artículo 1,038, fracción IX.
+
+ARTICULO 1,011.- El usufructuario, dada la fianza, tendrá derecho a todos los frutos de la cosa, desde el día en que, conforme al título constitutivo del usufructo, debió comenzar a percibirlos.
+
+ARTICULO 1,012.- En los casos señalados en el artículo 1,002, el usufructuario es responsable del menoscabo que tengan los bienes por culpa o negligencia de la persona que le substituya.
+
+ARTICULO 1,013.- Si el usufructo se constituye sobre ganados, el usufructuario está obligado a reemplazar con las crías, las cabezas que falten por cualquier causa.
+
+ARTICULO 1,014.- Si el ganado en que se constituyó el usufructo perece sin culpa del usufructuario, por efecto de una epizootia o de algún otro acontecimiento no común, el usufructuario cumple con entregar al dueño los despojos que se hayan salvado de esa calamidad.
+
+ARTICULO 1,015.- Si el rebaño perece en parte, y sin culpa del usufructuario, continúa el usufructo en la parte que queda.
+
+ARTICULO 1,016.- El usufructuario de árboles frutales está obligado a la replantación de los pies muertos naturalmente.
+
+ARTICULO 1,017.- Si el usufructo se ha constituído a título gratuito, el usufructuario está obligado a hacer las reparaciones indispensables para mantener la cosa en el estado en que se encontraba cuando la recibió.
+
+ARTICULO 1,018.- El usufructuario no está obligado a hacer dichas reparaciones, si la necesidad de éstas proviene de vejez, vicio intrínseco o deterioro grave de la cosa, anterior a la constitución del usufructo.
+
+ARTICULO 1,019.- Si el usufructuario quiere hacer las reparaciones referidas, debe obtener antes el consentimiento del dueño; y en ningún caso tiene derecho de exigir indemnización de ninguna especie.
+
+ARTICULO 1,020.- El propietario, en el caso del artículo 1,018, tampoco está obligado a hacer las reparaciones, y si las hace no tiene derecho de exigir indemnización.
+
+ARTICULO 1,021.- Si el usufructo se ha constituído a título oneroso, el propietario tiene obligación de hacer todas las reparaciones convenientes para que la cosa, durante el tiempo estipulado en el convenio, pueda producir los frutos que ordinariamente se obtenían de ella al tiempo de la entrega.
+
+ARTICULO 1,022.- Si el usufructuario quiere hacer en este caso las reparaciones, deberá dar aviso al propietario, y previo este requisito, tendrá derecho para cobrar su importe al fin del usufructo.
+
+ARTICULO 1,023.- La omisión del aviso al propietario, hace responsable al usufructuario de la destrucción, pérdida o menoscabo de la cosa por falta de las reparaciones, y le priva del derecho de pedir indemnización si él las hace.
+
+ARTICULO 1,024.- Toda diminución (sic) de los frutos que provenga de imposición de contribuciones, o cargas ordinarias sobre la finca o cosa usufructuada, es de cuenta del usufructuario.
+
+ARTICULO 1,025.- La diminución (sic) que por las propias causas se verifique, no en los frutos, sino en la misma finca o cosa usufructuada, será de cuenta del propietario; y si éste, para conservar íntegra la cosa, hace el pago, tiene derecho de que se le abonen los intereses de la suma pagada, por todo el tiempo que el usufructuario continúe gozando de la cosa.
+
+ARTICULO 1,026.- Si el usufructuario hace el pago de la cantidad, no tiene derecho de cobrar intereses, quedando compensados éstos con los frutos que reciba.
+
+ARTICULO 1,027.- El que por sucesión adquiere el usufructo universal, está obligado a pagar por entero el legado de renta vitalicia o pensión de alimentos.
+
+ARTICULO 1,028.- El que por el mismo título adquiera una parte del usufructo universal, pagará el legado o la pensión en proporción a su cuota.
+
+ARTICULO 1,029.- El usufructuario particular de una finca hipotecada, no está obligado a pagar las deudas para cuya seguridad se constituyó la hipoteca.
+
+ARTICULO 1,030.- Si la finca se embarga o se vende judicialmente para el pago de la deuda, el propietario responde al usufructuario de lo que pierda por este motivo, si no se ha dispuesto otra cosa, al constituir el usufructo.
+
+ARTICULO 1,031.- Si el usufructo es de todos los bienes de una herencia, o de una parte de ellos el usufructuario podrá anticipar las sumas que para el pago de las deudas hereditarias correspondan a los bienes usufructuados, y tendrá derecho de exigir del propietario su restitución, sin intereses, al extinguirse el usufructo.
+
+ARTICULO 1,032.- Si el usufructuario se negare a hacer la anticipación de que habla el artículo que precede, el propietario podrá hacer que se venda la parte de bienes que baste para el pago de la cantidad que aquél debía satisfacer, según la regla establecida en dicho artículo.
+
+ARTICULO 1,033.- Si el propietario hiciere la anticipación por su cuenta, el usufructuario pagará el interés del dinero, según la regla establecida en el artículo 1,025.
+
+ARTICULO 1,034.- Si los derechos del propietario son perturbados por un tercero, sea del modo o por el motivo que fuere, el usufructuario está obligado a ponerlo en conocimiento de aquél; y si no lo hace, es responsable de los daños que resulten, como si hubiesen sido ocasionados por su culpa.
+
+ARTICULO 1,035.- Los gastos, costas y condenas de los pleitos sostenidos sobre el usufructo, son de cuenta del propietario si el usufructo se ha constituído por título oneroso, y del usufructuario, si se ha constituído por título gratuito.
+
+ARTICULO 1,036.- Si el pleito interesa al mismo tiempo al dueño y al usufructuario, contribuirán a los gastos en proporción de sus derechos respectivos, si el usufructo se constituyó a título gratuito; pero el usufructuario en ningún caso estará obligado a responder por más de lo que produce el usufructo.
+
+ARTICULO 1,037.- Si el usufructuario, sin citación del propietario, o éste sin la de aquél, ha seguido un pleito, la sentencia favorable aprovecha al no citado, y la adversa no le perjudica.
 
 ###### ARTICULO 830.
 
@@ -4501,77 +4575,47 @@ La distancia de que habla el artículo anterior se mide desde la línea de separ
 
 El propietario de un edificio está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo o edificio vecino.
 
-### CAPITULO III. De las obligaciones del usufructuario
+### CAPITULO IV. De los modos de extinguirse el usufructo
 
-ARTICULO 1,006.- El usufructuario, antes de entrar en el goce de los bienes, está obligado:
+ARTICULO 1,038.- El usufructo se extingue:
 
-I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
+I.- Por muerte del usufructuario;
 
-II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 434.
+II.- Por vencimiento del plazo por el cual se constituyó;
 
-ARTICULO 1,007.- El donador que se reserva el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello.
+III.- Por cumplirse la condición impuesta en el título constitutivo para la cesación de este derecho;
 
-ARTICULO 1,008.- El que se reserva la propiedad, puede dispensar al usufructuario de la obligación de afianzar.
+IV.- Por la reunión del usufructo y de la propiedad en una misma persona; mas si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
 
-ARTICULO 1,009.- Si el usufructo fuere constituído por contrato, y el que contrató quedare de propietario, y no exigiere en el contrato la fianza, no estará obligado el usufructuario a darla; pero si quedare de propietario un tercero, podrá pedirla aunque no se haya estipulado en el contrato.
+V.- Por prescripción, conforme a lo prevenido respecto de los derechos reales;
 
-ARTICULO 1,010.- Si el usufructo se constituye por título oneroso, y el usufructuario no presta la correspondiente fianza, el propietario tiene el derecho de intervenir la administración de los bienes, para procurar su conservación, sujetándose a las condiciones prescritas en el artículo 1,047 y percibiendo la retribución que en él se concede.
+VI.- Por la renuncia expresa del usufructuario, salvo lo dispuesto respecto de las renuncias hechas en fraude de los acreedores;
 
-Cuando el usufructo es a título gratuito y el usufructuario no otorga la fianza, el usufructo se extingue en los términos del artículo 1,038, fracción IX.
+VII.- Por la pérdida total de la cosa que era objeto del usufructo. Si la destrucción no es total, el derecho continúa sobre lo que de la cosa haya quedado;
 
-ARTICULO 1,011.- El usufructuario, dada la fianza, tendrá derecho a todos los frutos de la cosa, desde el día en que, conforme al título constitutivo del usufructo, debió comenzar a percibirlos.
+VIII.- Por la cesación del derecho del que constituyó el usufructo, cuando teniendo un dominio revocable, llega el caso de la revocación;
 
-ARTICULO 1,012.- En los casos señalados en el artículo 1,002, el usufructuario es responsable del menoscabo que tengan los bienes por culpa o negligencia de la persona que le substituya.
+IX.- Por no dar fianza el usufructuario por título gratuito, si el dueño no le ha eximido de esa obligación.
 
-ARTICULO 1,013.- Si el usufructo se constituye sobre ganados, el usufructuario está obligado a reemplazar con las crías, las cabezas que falten por cualquier causa.
+ARTICULO 1,039.- La muerte del usufructuario no extingue el usufructo, cuando éste se ha constituído a favor de varias personas sucesivamente, pues en tal caso entra al goce del mismo, la persona que corresponda.
 
-ARTICULO 1,014.- Si el ganado en que se constituyó el usufructo perece sin culpa del usufructuario, por efecto de una epizootia o de algún otro acontecimiento no común, el usufructuario cumple con entregar al dueño los despojos que se hayan salvado de esa calamidad.
+ARTICULO 1,040.- El usufructo constituído a favor de personas morales que puedan adquirir y administrar bienes raíces, sólo durará veinte años; cesando antes, en el caso de que dichas personas dejen de existir.
 
-ARTICULO 1,015.- Si el rebaño perece en parte, y sin culpa del usufructuario, continúa el usufructo en la parte que queda.
+ARTICULO 1,041.- El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el número de años prefijados, aunque el tercero muera antes.
 
-ARTICULO 1,016.- El usufructuario de árboles frutales está obligado a la replantación de los pies muertos naturalmente.
+ARTICULO 1,042.- Si el usufructo está constituído sobre un edificio, y éste se arruina en un incendio, por vetustez, o por algún otro accidente, el usufructuario no tiene derecho a gozar del solar ni de los materiales; mas si estuviere constituído sobre una hacienda, quinta o rancho de que sólo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
 
-ARTICULO 1,017.- Si el usufructo se ha constituído a título gratuito, el usufructuario está obligado a hacer las reparaciones indispensables para mantener la cosa en el estado en que se encontraba cuando la recibió.
+ARTICULO 1,043.- Si la cosa usufructuada fuere expropiada por causa de utilidad pública, el propietario está obligado, bien a substituirla con otra de igual valor y análogas condiciones, o bien a abonar al usufructuario el interés legal del importe de la indemnización por todo el tiempo que debía durar el usufructo. Si el propietario optare por lo último, deberá afianzar el pago de los réditos.
 
-ARTICULO 1,018.- El usufructuario no está obligado a hacer dichas reparaciones, si la necesidad de éstas proviene de vejez, vicio intrínseco o deterioro grave de la cosa, anterior a la constitución del usufructo.
+ARTICULO 1,044.- Si el edificio es reconstruído por el dueño o por el usufructuario, se estará a lo dispuesto en los artículos 1,019, 1,020, 1,021 y 1,022.
 
-ARTICULO 1,019.- Si el usufructuario quiere hacer las reparaciones referidas, debe obtener antes el consentimiento del dueño; y en ningún caso tiene derecho de exigir indemnización de ninguna especie.
+ARTICULO 1,045.- El impedimento temporal por caso fortuito o fuerza mayor, no extingue el usufructo, ni da derecho a exigir indemnización del propietario.
 
-ARTICULO 1,020.- El propietario, en el caso del artículo 1,018, tampoco está obligado a hacer las reparaciones, y si las hace no tiene derecho de exigir indemnización.
+ARTICULO 1,046.- El tiempo del impedimento se tendrá por corrido para el usufructuario, de quien serán los frutos que durante él pueda producir la cosa.
 
-ARTICULO 1,021.- Si el usufructo se ha constituído a título oneroso, el propietario tiene obligación de hacer todas las reparaciones convenientes para que la cosa, durante el tiempo estipulado en el convenio, pueda producir los frutos que ordinariamente se obtenían de ella al tiempo de la entrega.
+ARTICULO 1,047.- El usufructo no se extingue por el mal uso que haga el usufructuario de la cosa usufructuada; pero si el abuso es grave, el propietario puede pedir que se le ponga en posesión de los bienes, obligándose, bajo de fianza, a pagar anualmente al usufructuario el producto líquido de los mismos, por el tiempo que dure el usufructo, deducido el premio de administración que el juez le acuerde.
 
-ARTICULO 1,022.- Si el usufructuario quiere hacer en este caso las reparaciones, deberá dar aviso al propietario, y previo este requisito, tendrá derecho para cobrar su importe al fin del usufructo.
-
-ARTICULO 1,023.- La omisión del aviso al propietario, hace responsable al usufructuario de la destrucción, pérdida o menoscabo de la cosa por falta de las reparaciones, y le priva del derecho de pedir indemnización si él las hace.
-
-ARTICULO 1,024.- Toda diminución (sic) de los frutos que provenga de imposición de contribuciones, o cargas ordinarias sobre la finca o cosa usufructuada, es de cuenta del usufructuario.
-
-ARTICULO 1,025.- La diminución (sic) que por las propias causas se verifique, no en los frutos, sino en la misma finca o cosa usufructuada, será de cuenta del propietario; y si éste, para conservar íntegra la cosa, hace el pago, tiene derecho de que se le abonen los intereses de la suma pagada, por todo el tiempo que el usufructuario continúe gozando de la cosa.
-
-ARTICULO 1,026.- Si el usufructuario hace el pago de la cantidad, no tiene derecho de cobrar intereses, quedando compensados éstos con los frutos que reciba.
-
-ARTICULO 1,027.- El que por sucesión adquiere el usufructo universal, está obligado a pagar por entero el legado de renta vitalicia o pensión de alimentos.
-
-ARTICULO 1,028.- El que por el mismo título adquiera una parte del usufructo universal, pagará el legado o la pensión en proporción a su cuota.
-
-ARTICULO 1,029.- El usufructuario particular de una finca hipotecada, no está obligado a pagar las deudas para cuya seguridad se constituyó la hipoteca.
-
-ARTICULO 1,030.- Si la finca se embarga o se vende judicialmente para el pago de la deuda, el propietario responde al usufructuario de lo que pierda por este motivo, si no se ha dispuesto otra cosa, al constituir el usufructo.
-
-ARTICULO 1,031.- Si el usufructo es de todos los bienes de una herencia, o de una parte de ellos el usufructuario podrá anticipar las sumas que para el pago de las deudas hereditarias correspondan a los bienes usufructuados, y tendrá derecho de exigir del propietario su restitución, sin intereses, al extinguirse el usufructo.
-
-ARTICULO 1,032.- Si el usufructuario se negare a hacer la anticipación de que habla el artículo que precede, el propietario podrá hacer que se venda la parte de bienes que baste para el pago de la cantidad que aquél debía satisfacer, según la regla establecida en dicho artículo.
-
-ARTICULO 1,033.- Si el propietario hiciere la anticipación por su cuenta, el usufructuario pagará el interés del dinero, según la regla establecida en el artículo 1,025.
-
-ARTICULO 1,034.- Si los derechos del propietario son perturbados por un tercero, sea del modo o por el motivo que fuere, el usufructuario está obligado a ponerlo en conocimiento de aquél; y si no lo hace, es responsable de los daños que resulten, como si hubiesen sido ocasionados por su culpa.
-
-ARTICULO 1,035.- Los gastos, costas y condenas de los pleitos sostenidos sobre el usufructo, son de cuenta del propietario si el usufructo se ha constituído por título oneroso, y del usufructuario, si se ha constituído por título gratuito.
-
-ARTICULO 1,036.- Si el pleito interesa al mismo tiempo al dueño y al usufructuario, contribuirán a los gastos en proporción de sus derechos respectivos, si el usufructo se constituyó a título gratuito; pero el usufructuario en ningún caso estará obligado a responder por más de lo que produce el usufructo.
-
-ARTICULO 1,037.- Si el usufructuario, sin citación del propietario, o éste sin la de aquél, ha seguido un pleito, la sentencia favorable aprovecha al no citado, y la adversa no le perjudica.
+ARTICULO 1,048.- Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario, y éste entrará en posesión de la cosa, sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la disolución de sus contratos, ni por las estipulaciones de éstos, que sólo pueden hacer valer contra del usufructuario y sus herederos, salvo lo dispuesto en el artículo 991.
 
 ###### ARTICULO 854.
 
@@ -4657,47 +4701,23 @@ Los animales feroces que se escaparen del encierro en que los tengan sus dueños
 
 La apropiación de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
 
-### CAPITULO IV. De los modos de extinguirse el usufructo
+### CAPITULO V. Del uso y de la habitación
 
-ARTICULO 1,038.- El usufructo se extingue:
+ARTICULO 1,049.- El uso da derecho para percibir de los frutos de una cosa ajena, los que basten a las necesidades del usuario y su familia, aunque ésta aumente.
 
-I.- Por muerte del usufructuario;
+ARTICULO 1,050.- La habitación da, a quien tiene este derecho, la facultad de ocupar gratuitamente, en casa ajena, las piezas necesarias para sí y para las personas de su familia.
 
-II.- Por vencimiento del plazo por el cual se constituyó;
+ARTICULO 1,051.- El usuario y el que tiene derecho de habitación en un edificio, no pueden enajenar, gravar, ni arrendar en todo ni en parte su derecho a otro, ni estos derechos pueden ser embargados por sus acreedores.
 
-III.- Por cumplirse la condición impuesta en el título constitutivo para la cesación de este derecho;
+ARTICULO 1,052.- Los derechos y obligaciones del usuario y del que tiene el goce de habitación, se arreglarán por los títulos respectivos y, en su defecto, por las disposiciones siguientes:
 
-IV.- Por la reunión del usufructo y de la propiedad en una misma persona; mas si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
+ARTICULO 1,053.- Las disposiciones establecidas para el usufructo son aplicables a los derechos de uso y de habitación, en cuanto no se opongan a lo ordenado en el presente capítulo.
 
-V.- Por prescripción, conforme a lo prevenido respecto de los derechos reales;
+ARTICULO 1,054.- El que tiene derecho de uso sobre un ganado, puede aprovecharse de las crías, leche y lana en cuanto baste para su consumo y el de su familia.
 
-VI.- Por la renuncia expresa del usufructuario, salvo lo dispuesto respecto de las renuncias hechas en fraude de los acreedores;
+ARTICULO 1,055.- Si el usuario consume todos los frutos de los bienes, o el que tiene derecho de habitación ocupa todas las piezas de la casa, quedan obligados a todos los gastos de cultivo, reparaciones y pago de contribuciones, lo mismo que el usufructuario; pero si el primero sólo consume parte de los frutos, o el segundo sólo ocupa parte de la casa, no deben contribuir en nada, siempre que al propietario le quede una parte de frutos o aprovechamientos bastantes para cubrir los gastos y cargas.
 
-VII.- Por la pérdida total de la cosa que era objeto del usufructo. Si la destrucción no es total, el derecho continúa sobre lo que de la cosa haya quedado;
-
-VIII.- Por la cesación del derecho del que constituyó el usufructo, cuando teniendo un dominio revocable, llega el caso de la revocación;
-
-IX.- Por no dar fianza el usufructuario por título gratuito, si el dueño no le ha eximido de esa obligación.
-
-ARTICULO 1,039.- La muerte del usufructuario no extingue el usufructo, cuando éste se ha constituído a favor de varias personas sucesivamente, pues en tal caso entra al goce del mismo, la persona que corresponda.
-
-ARTICULO 1,040.- El usufructo constituído a favor de personas morales que puedan adquirir y administrar bienes raíces, sólo durará veinte años; cesando antes, en el caso de que dichas personas dejen de existir.
-
-ARTICULO 1,041.- El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el número de años prefijados, aunque el tercero muera antes.
-
-ARTICULO 1,042.- Si el usufructo está constituído sobre un edificio, y éste se arruina en un incendio, por vetustez, o por algún otro accidente, el usufructuario no tiene derecho a gozar del solar ni de los materiales; mas si estuviere constituído sobre una hacienda, quinta o rancho de que sólo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
-
-ARTICULO 1,043.- Si la cosa usufructuada fuere expropiada por causa de utilidad pública, el propietario está obligado, bien a substituirla con otra de igual valor y análogas condiciones, o bien a abonar al usufructuario el interés legal del importe de la indemnización por todo el tiempo que debía durar el usufructo. Si el propietario optare por lo último, deberá afianzar el pago de los réditos.
-
-ARTICULO 1,044.- Si el edificio es reconstruído por el dueño o por el usufructuario, se estará a lo dispuesto en los artículos 1,019, 1,020, 1,021 y 1,022.
-
-ARTICULO 1,045.- El impedimento temporal por caso fortuito o fuerza mayor, no extingue el usufructo, ni da derecho a exigir indemnización del propietario.
-
-ARTICULO 1,046.- El tiempo del impedimento se tendrá por corrido para el usufructuario, de quien serán los frutos que durante él pueda producir la cosa.
-
-ARTICULO 1,047.- El usufructo no se extingue por el mal uso que haga el usufructuario de la cosa usufructuada; pero si el abuso es grave, el propietario puede pedir que se le ponga en posesión de los bienes, obligándose, bajo de fianza, a pagar anualmente al usufructuario el producto líquido de los mismos, por el tiempo que dure el usufructo, deducido el premio de administración que el juez le acuerde.
-
-ARTICULO 1,048.- Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario, y éste entrará en posesión de la cosa, sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la disolución de sus contratos, ni por las estipulaciones de éstos, que sólo pueden hacer valer contra del usufructuario y sus herederos, salvo lo dispuesto en el artículo 991.
+ARTICULO 1,056.- Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario, o por el que tiene derecho a la habitación.
 
 ###### ARTICULO 875.
 
@@ -4743,23 +4763,33 @@ Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya 
 
 Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aun cuando no se encuentre el tesoro.
 
-### CAPITULO V. Del uso y de la habitación
+### CAPITULO I. Disposiciones generales
 
-ARTICULO 1,049.- El uso da derecho para percibir de los frutos de una cosa ajena, los que basten a las necesidades del usuario y su familia, aunque ésta aumente.
+ARTICULO 1,057.- La servidumbre es un gravamen real impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño.
 
-ARTICULO 1,050.- La habitación da, a quien tiene este derecho, la facultad de ocupar gratuitamente, en casa ajena, las piezas necesarias para sí y para las personas de su familia.
+El inmueble a cuyo favor está constituida la servidumbre, se llama predio dominante; el que la sufre, predio sirviente.
 
-ARTICULO 1,051.- El usuario y el que tiene derecho de habitación en un edificio, no pueden enajenar, gravar, ni arrendar en todo ni en parte su derecho a otro, ni estos derechos pueden ser embargados por sus acreedores.
+ARTICULO 1,058.- La servidumbre consiste en no hacer o en tolerar. Para que al dueño del predio sirviente pueda exigirse la ejecución de un hecho, es necesario que esté expresamente determinado por la ley, o en el acto en que se constituyó la servidumbre.
 
-ARTICULO 1,052.- Los derechos y obligaciones del usuario y del que tiene el goce de habitación, se arreglarán por los títulos respectivos y, en su defecto, por las disposiciones siguientes:
+ARTICULO 1,059.- Las servidumbres son continuas o discontinuas; aparentes o no aparentes.
 
-ARTICULO 1,053.- Las disposiciones establecidas para el usufructo son aplicables a los derechos de uso y de habitación, en cuanto no se opongan a lo ordenado en el presente capítulo.
+ARTICULO 1,060.- Son continuas aquellas cuyo uso es o puede ser incesante sin la intervención de ningún hecho del hombre.
 
-ARTICULO 1,054.- El que tiene derecho de uso sobre un ganado, puede aprovecharse de las crías, leche y lana en cuanto baste para su consumo y el de su familia.
+ARTICULO 1,061.- Son discontinuas aquellas cuyo uso necesita de algún hecho actual del hombre.
 
-ARTICULO 1,055.- Si el usuario consume todos los frutos de los bienes, o el que tiene derecho de habitación ocupa todas las piezas de la casa, quedan obligados a todos los gastos de cultivo, reparaciones y pago de contribuciones, lo mismo que el usufructuario; pero si el primero sólo consume parte de los frutos, o el segundo sólo ocupa parte de la casa, no deben contribuir en nada, siempre que al propietario le quede una parte de frutos o aprovechamientos bastantes para cubrir los gastos y cargas.
+ARTICULO 1,062.- Son aparentes las que se anuncian por obras o signos exteriores, dispuestos para su uso y aprovechamiento.
 
-ARTICULO 1,056.- Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario, o por el que tiene derecho a la habitación.
+ARTICULO 1,063.- Son no aparentes las que no presentan signo exterior de su existencia.
+
+ARTICULO 1,064.- Las servidumbres son inseparables del inmueble a que activa o pasivamente pertenecen.
+
+ARTICULO 1,065.- Si los inmuebles mudan de dueño, la servidumbre continúa, ya activa, ya pasivamente, en el predio u objeto en que estaba constituída, hasta que legalmente se extinga.
+
+ARTICULO 1,066.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica, y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero de la servidumbre, no variando el lugar de su uso, ni agravándolo de otra manera, (sic) Mas si la servidumbre se hubiere establecido en favor de una sola de las partes del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+
+ARTICULO 1,067.- Las servidumbres traen su origen de la voluntad del hombre o de la ley; las primeras se llaman voluntarias y las segundas legales.
 
 ###### ARTICULO 886.
 
@@ -4959,33 +4989,13 @@ Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene
 
 La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 904 y 905.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De las servidumbres legales
 
-ARTICULO 1,057.- La servidumbre es un gravamen real impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño.
+ARTICULO 1,068.- Servidumbre legal es la establecida por la ley, teniendo en cuenta la situación de los predios y en vista de la utilidad pública y privada conjuntamente.
 
-El inmueble a cuyo favor está constituida la servidumbre, se llama predio dominante; el que la sufre, predio sirviente.
+ARTICULO 1,069.- Son aplicables a las servidumbres legales lo dispuesto en los artículos del 1,119 al 1,127, inclusive.
 
-ARTICULO 1,058.- La servidumbre consiste en no hacer o en tolerar. Para que al dueño del predio sirviente pueda exigirse la ejecución de un hecho, es necesario que esté expresamente determinado por la ley, o en el acto en que se constituyó la servidumbre.
-
-ARTICULO 1,059.- Las servidumbres son continuas o discontinuas; aparentes o no aparentes.
-
-ARTICULO 1,060.- Son continuas aquellas cuyo uso es o puede ser incesante sin la intervención de ningún hecho del hombre.
-
-ARTICULO 1,061.- Son discontinuas aquellas cuyo uso necesita de algún hecho actual del hombre.
-
-ARTICULO 1,062.- Son aparentes las que se anuncian por obras o signos exteriores, dispuestos para su uso y aprovechamiento.
-
-ARTICULO 1,063.- Son no aparentes las que no presentan signo exterior de su existencia.
-
-ARTICULO 1,064.- Las servidumbres son inseparables del inmueble a que activa o pasivamente pertenecen.
-
-ARTICULO 1,065.- Si los inmuebles mudan de dueño, la servidumbre continúa, ya activa, ya pasivamente, en el predio u objeto en que estaba constituída, hasta que legalmente se extinga.
-
-ARTICULO 1,066.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica, y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero de la servidumbre, no variando el lugar de su uso, ni agravándolo de otra manera, (sic) Mas si la servidumbre se hubiere establecido en favor de una sola de las partes del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 1,067.- Las servidumbres traen su origen de la voluntad del hombre o de la ley; las primeras se llaman voluntarias y las segundas legales.
+ARTICULO 1,070.- Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este Título.
 
 ###### ARTICULO 933.
 
@@ -5009,13 +5019,21 @@ El uso y aprovechamiento de las aguas de dominio público se regirá por la ley 
 
 El propietario de un predio que sólo con muy costosos trabajos pueda proveerse del agua que necesite para utilizar convenientemente ese predio, tiene derecho de exigir de los dueños de los predios vecinos que tengan aguas sobrantes, que le proporcionen la necesaria, mediante el pago de una indemnización fijada por peritos.
 
-### CAPITULO II. De las servidumbres legales
+### CAPITULO III. De la servidumbre legal de desagüe
 
-ARTICULO 1,068.- Servidumbre legal es la establecida por la ley, teniendo en cuenta la situación de los predios y en vista de la utilidad pública y privada conjuntamente.
+ARTICULO 1,071.- Los predios inferiores están sujetos a recibir las aguas que naturalmente, o como consecuencia de las mejoras agrícolas o industriales que se hagan, caigan de los superiores, así como la piedra o tierra que arrastren en su curso.
 
-ARTICULO 1,069.- Son aplicables a las servidumbres legales lo dispuesto en los artículos del 1,119 al 1,127, inclusive.
+ARTICULO 1,072.- Cuando los predios inferiores reciban las aguas de los superiores a consecuencia de las mejoras agrícolas o industriales hechas a éstos, los dueños de los predios sirvientes tienen derecho de ser indemnizados.
 
-ARTICULO 1,070.- Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este Título.
+ARTICULO 1,073.- Cuando un predio rústico o urbano se encuentre enclavado entre otros, estarán obligados los dueños de los predios circunvecinos a permitir el desagüe del central. Las dimensiones y dirección del conducto de desagüe, si no se ponen de acuerdo los interesados, se fijarán por el juez, previo informe de peritos y audiencia de los interesados, observándose, en cuanto fuere posible, las reglas dadas para la servidumbre de paso.
+
+ARTICULO 1,074.- El dueño de un predio en que existan obras defensivas para contener el agua, o en que por la variación del curso de ésta sea necesario construir nuevas, está obligado, a su elección, o a hacer las reparaciones o construcciones, o a tolerar que sin perjuicio suyo las hagan los dueños de los predios que experimenten o estén inminentemente expuestos a experimentar el daño, a menos que las leyes especiales de policía le impongan la obligación de hacer las obras.
+
+ARTICULO 1,075.- Lo dispuesto en el artículo anterior es aplicable al caso en que sea necesario desembarazar algún predio de las materias cuya acumulación o caída impida el curso del agua con daño o peligro de tercero.
+
+ARTICULO 1,076.- Todos los propietarios que participen del beneficio proveniente de las obras de que tratan los artículos anteriores, están obligados a contribuir al gasto de su ejecución en proporción a su interés y a juicio de peritos. Los que por su culpa hubieren ocasionado el daño, serán responsables de los gastos.
+
+ARTICULO 1,077.- Si las aguas que pasan al predio sirviente se han vuelto insalubres por los usos domésticos o industriales que de ellas se haya hecho, deberán volverse inofensivas a costa del dueño del predio dominante.
 
 ###### ARTICULO 938.
 
@@ -5219,58 +5237,6 @@ Son aplicables a la división entre partícipes las reglas concernientes a la di
 
 ## TITULO SEPTIMO. De la prescripción
 
-### CAPITULO III. De la servidumbre legal de desagüe
-
-ARTICULO 1,071.- Los predios inferiores están sujetos a recibir las aguas que naturalmente, o como consecuencia de las mejoras agrícolas o industriales que se hagan, caigan de los superiores, así como la piedra o tierra que arrastren en su curso.
-
-ARTICULO 1,072.- Cuando los predios inferiores reciban las aguas de los superiores a consecuencia de las mejoras agrícolas o industriales hechas a éstos, los dueños de los predios sirvientes tienen derecho de ser indemnizados.
-
-ARTICULO 1,073.- Cuando un predio rústico o urbano se encuentre enclavado entre otros, estarán obligados los dueños de los predios circunvecinos a permitir el desagüe del central. Las dimensiones y dirección del conducto de desagüe, si no se ponen de acuerdo los interesados, se fijarán por el juez, previo informe de peritos y audiencia de los interesados, observándose, en cuanto fuere posible, las reglas dadas para la servidumbre de paso.
-
-ARTICULO 1,074.- El dueño de un predio en que existan obras defensivas para contener el agua, o en que por la variación del curso de ésta sea necesario construir nuevas, está obligado, a su elección, o a hacer las reparaciones o construcciones, o a tolerar que sin perjuicio suyo las hagan los dueños de los predios que experimenten o estén inminentemente expuestos a experimentar el daño, a menos que las leyes especiales de policía le impongan la obligación de hacer las obras.
-
-ARTICULO 1,075.- Lo dispuesto en el artículo anterior es aplicable al caso en que sea necesario desembarazar algún predio de las materias cuya acumulación o caída impida el curso del agua con daño o peligro de tercero.
-
-ARTICULO 1,076.- Todos los propietarios que participen del beneficio proveniente de las obras de que tratan los artículos anteriores, están obligados a contribuir al gasto de su ejecución en proporción a su interés y a juicio de peritos. Los que por su culpa hubieren ocasionado el daño, serán responsables de los gastos.
-
-ARTICULO 1,077.- Si las aguas que pasan al predio sirviente se han vuelto insalubres por los usos domésticos o industriales que de ellas se haya hecho, deberán volverse inofensivas a costa del dueño del predio dominante.
-
-###### ARTICULO 980.
-
-El usufructo es el derecho real y temporal de disfrutar de los bienes ajenos.
-
-###### ARTICULO 981.
-
-El usufructo puede constituirse por la ley, por la voluntad del hombre o por prescripción.
-
-###### ARTICULO 982.
-
-Puede constituirse el usufructo a favor de una o de varias personas, simultánea o sucesivamente.
-
-###### ARTICULO 983.
-
-Si se constituye a favor de varias personas simultáneamente, sea por herencia, sea por contrato, cesando el derecho de una de las personas, pasará al propietario, salvo que al constituirse el usufructo se hubiere dispuesto que acrezca a los otros usufructuarios.
-
-###### ARTICULO 984.
-
-Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
-
-###### ARTICULO 985.
-
-El usufructo puede constituirse desde o hasta cierto día, puramente y bajo condición.
-
-###### ARTICULO 986.
-
-Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario.
-
-###### ARTICULO 987.
-
-Los derechos y obligaciones del usufructuario y del propietario se arreglan, en todo caso, por el título constitutivo del usufructo.
-
-###### ARTICULO 988.
-
-Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
-
 ### CAPITULO IV. De la servidumbre legal de acueducto
 
 ARTICULO 1,078.- El que quiera usar agua de que pueda disponer, tiene derecho a hacerla pasar por los fundos intermedios, con obligación de indemnizar a sus dueños, así como a los de los predios inferiores sobre los que se filtren o caigan las aguas.
@@ -5320,6 +5286,68 @@ ARTICULO 1,094.- Lo dispuesto en los dos artículos anteriores comprende la limp
 ARTICULO 1,095.- La servidumbre de acueducto no obsta para que el dueño del predio sirviente pueda cerrarlo y cercarlo, así como edificar sobre el mismo acueducto de manera que éste no experimente perjuicio, ni se imposibiliten las reparaciones y limpias necesarias.
 
 ARTICULO 1,096.- Cuando para el mejor aprovechamiento del agua de que se tiene derecho de disponer, fuere necesario construir una presa y el que haya de hacerlo no sea dueño del terreno en que se necesite apoyarla, puede pedir que se establezca la servidumbre de un estribo de presa, previa la indemnización correspondiente.
+
+###### ARTICULO 980.
+
+El usufructo es el derecho real y temporal de disfrutar de los bienes ajenos.
+
+###### ARTICULO 981.
+
+El usufructo puede constituirse por la ley, por la voluntad del hombre o por prescripción.
+
+###### ARTICULO 982.
+
+Puede constituirse el usufructo a favor de una o de varias personas, simultánea o sucesivamente.
+
+###### ARTICULO 983.
+
+Si se constituye a favor de varias personas simultáneamente, sea por herencia, sea por contrato, cesando el derecho de una de las personas, pasará al propietario, salvo que al constituirse el usufructo se hubiere dispuesto que acrezca a los otros usufructuarios.
+
+###### ARTICULO 984.
+
+Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
+
+###### ARTICULO 985.
+
+El usufructo puede constituirse desde o hasta cierto día, puramente y bajo condición.
+
+###### ARTICULO 986.
+
+Es vitalicio el usufructo si en el título constitutivo no se expresa lo contrario.
+
+###### ARTICULO 987.
+
+Los derechos y obligaciones del usufructuario y del propietario se arreglan, en todo caso, por el título constitutivo del usufructo.
+
+###### ARTICULO 988.
+
+Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
+
+### CAPITULO V. De la servidumbre legal de paso
+
+ARTICULO 1,097.- El propietario de una finca o heredad enclavada entre otras ajenas sin salida a la vía pública, tiene derecho de exigir paso, para el aprovechamiento de aquélla por las heredades vecinas, sin que sus respectivos dueños puedan reclamarle otra cosa que una indemnización equivalente al perjuicio que les ocasione este gravamen.
+
+ARTICULO 1,098.- La acción para reclamar esta indemnización es prescriptible; pero aunque prescriba, no cesa por este motivo el paso obtenido.
+
+ARTICULO 1,099.- El dueño del predio sirviente tiene derecho de señalar el lugar en donde haya de constituirse la servidumbre de paso.
+
+ARTICULO 1,100.- Si el juez califica el lugar señalado de impracticable o de muy gravoso al predio dominante, el dueño del sirviente debe señalar otro.
+
+ARTICULO 1,101.- Si este lugar es calificado de la misma manera que el primero, el juez señalará el que crea más conveniente, procurando conciliar los intereses de los dos predios.
+
+ARTICULO 1,102.- Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el juez designará cuál de los dos predios ha de dar el paso.
+
+ARTICULO 1,103.- En la servidumbre de paso, el ancho de éste será el que baste a las necesidades del predio dominante, a juicio del juez.
+
+ARTICULO 1,104.- En caso de que hubiere habido antes comunicación entre la finca o heredad y alguna vía pública, el paso sólo se podrá exigir a la heredad o finca por donde últimamente lo hubo.
+
+ARTICULO 1,105.- El dueño de un predio rústico tiene derecho, mediante la indemnización correspondiente, de exigir que se le permita el paso de sus ganados por los predios vecinos, para conducirlos a un abrevadero de que pueda disponer.
+
+ARTICULO 1,106.- El propietario de árbol o arbusto contiguo al predio de otro, tiene derecho de exigir de éste que le permita hacer la recolección de los frutos que no se pueden recoger de su lado, siempre que no se haya usado o no se use del derecho que conceden los artículos 847 y 848; pero el dueño del árbol o arbusto es responsable de cualquier daño que cause con motivo de la recolección.
+
+ARTICULO 1,107.- Si fuere indispensable para construir o reparar algún edificio pasar materiales por predio ajeno o colocar en él andamios u otros objetos para la obra, el dueño de este predio estará obligado a consentirlo, recibiendo la indemnización correspondiente al perjuicio que se le irrogue.
+
+ARTICULO 1,108.- Cuando para establecer comunicaciones telefónicas particulares entre dos o más fincas, o para conducir energía eléctrica a una finca, sea necesario colocar postes y tender alambres en terrenos de una finca ajena, el dueño de ésta tiene obligación de permitirlo, mediante la indemnización correspondiente. Esta servidumbre trae consigo el derecho de tránsito de las personas y el de conducción de los materiales necesarios para la construcción y vigilancia de la línea.
 
 ###### ARTICULO 989.
 
@@ -5379,32 +5407,6 @@ ARTICULO 1,004.- El propietario de bienes en que otro tenga el usufructo, puede 
 
 ARTICULO 1,005.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 973, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
 
-### CAPITULO V. De la servidumbre legal de paso
-
-ARTICULO 1,097.- El propietario de una finca o heredad enclavada entre otras ajenas sin salida a la vía pública, tiene derecho de exigir paso, para el aprovechamiento de aquélla por las heredades vecinas, sin que sus respectivos dueños puedan reclamarle otra cosa que una indemnización equivalente al perjuicio que les ocasione este gravamen.
-
-ARTICULO 1,098.- La acción para reclamar esta indemnización es prescriptible; pero aunque prescriba, no cesa por este motivo el paso obtenido.
-
-ARTICULO 1,099.- El dueño del predio sirviente tiene derecho de señalar el lugar en donde haya de constituirse la servidumbre de paso.
-
-ARTICULO 1,100.- Si el juez califica el lugar señalado de impracticable o de muy gravoso al predio dominante, el dueño del sirviente debe señalar otro.
-
-ARTICULO 1,101.- Si este lugar es calificado de la misma manera que el primero, el juez señalará el que crea más conveniente, procurando conciliar los intereses de los dos predios.
-
-ARTICULO 1,102.- Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el juez designará cuál de los dos predios ha de dar el paso.
-
-ARTICULO 1,103.- En la servidumbre de paso, el ancho de éste será el que baste a las necesidades del predio dominante, a juicio del juez.
-
-ARTICULO 1,104.- En caso de que hubiere habido antes comunicación entre la finca o heredad y alguna vía pública, el paso sólo se podrá exigir a la heredad o finca por donde últimamente lo hubo.
-
-ARTICULO 1,105.- El dueño de un predio rústico tiene derecho, mediante la indemnización correspondiente, de exigir que se le permita el paso de sus ganados por los predios vecinos, para conducirlos a un abrevadero de que pueda disponer.
-
-ARTICULO 1,106.- El propietario de árbol o arbusto contiguo al predio de otro, tiene derecho de exigir de éste que le permita hacer la recolección de los frutos que no se pueden recoger de su lado, siempre que no se haya usado o no se use del derecho que conceden los artículos 847 y 848; pero el dueño del árbol o arbusto es responsable de cualquier daño que cause con motivo de la recolección.
-
-ARTICULO 1,107.- Si fuere indispensable para construir o reparar algún edificio pasar materiales por predio ajeno o colocar en él andamios u otros objetos para la obra, el dueño de este predio estará obligado a consentirlo, recibiendo la indemnización correspondiente al perjuicio que se le irrogue.
-
-ARTICULO 1,108.- Cuando para establecer comunicaciones telefónicas particulares entre dos o más fincas, o para conducir energía eléctrica a una finca, sea necesario colocar postes y tender alambres en terrenos de una finca ajena, el dueño de ésta tiene obligación de permitirlo, mediante la indemnización correspondiente. Esta servidumbre trae consigo el derecho de tránsito de las personas y el de conducción de los materiales necesarios para la construcción y vigilancia de la línea.
-
 ### CAPITULO VI. De las servidumbres voluntarias
 
 ARTICULO 1,109.- El propietario de una finca o heredad puede establecer en ella cuantas servidumbres tenga por conveniente, y en el modo y forma que mejor le parezca, siempre que no contravenga las leyes, ni perjudique derechos de tercero.
@@ -5427,8 +5429,6 @@ ARTICULO 1,116.- La existencia de un signo aparente de servidumbre entre dos fin
 
 ARTICULO 1,117.- Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquélla cesan también estos derechos accesorios.
 
-## TITULO OCTAVO. De los derechos de autor
-
 ### CAPITULO VIII. Derechos y obligaciones de los propietarios de los predios entre los que está constituída alguna servidumbre voluntaria
 
 ARTICULO 1,118.- El uso y la extensión de las servidumbres establecidas por la voluntad del propietario, se arreglarán por los términos del título en que tengan su origen, y en su defecto, por las disposiciones siguientes.
@@ -5450,6 +5450,8 @@ ARTICULO 1,125.- Si de la conservación de dichas obras se siguiere algún perju
 ARTICULO 1,126.- Si el dueño del predio dominante se opone a las obras de que trata el artículo 1,124, el juez decidirá, previo informe de peritos.
 
 ARTICULO 1,127.- Cualquiera duda sobre el uso y extensión de la servidumbre, se decidirá en el sentido menos gravoso para el predio sirviente, sin imposibilitar o hacer difícil el uso de la servidumbre.
+
+## TITULO OCTAVO. De los derechos de autor
 
 ### CAPITULO IX. De la extinción de las servidumbres
 
@@ -5805,6 +5807,30 @@ ARTICULO 1,243.- Los autores extranjeros gozarán en la República de los derech
 
 A falta de tratados gozarán de iguales derechos que los nacionales, siempre que en su país se otorguen los mismos derechos a los autores mexicanos.
 
+### CAPITULO II
+
+ARTICULO 1,244.- Los derechos exclusivos de autor, traductor o editor, se concederán por el Ejecutivo Federal, mediante solicitud hecha por los interesados o sus representantes legítimos, a la Secretaría de Educación Pública, acompañada de los ejemplares que prevenga el Reglamento.
+
+ARTICULO 1,245.- Pueden asegurarse los derechos sobre las obras publicadas sin el nombre del autor o con seudónimo, acompañando a los ejemplares de la obra que deben entregarse en la Secretaría de Educación, un pliego cerrado en que conste el nombre del autor; pliego que debe llevar en la cubierta las contraseñas necesarias para que el autor sea identificado. Para que puedan hacerse valer los derechos de autor, es necesario que abierto el pliego a solicitud de quien lo presentó, quede debidamente comprobado quién es el autor de la obra.
+
+ARTICULO 1,246.- En la Secretaría de Educación Pública se llevará un registro donde se asienten las obras que se reciban, el cual se publicará cada tres meses en el "Diario Oficial."
+
+ARTICULO 1,247.- Las certificaciones que se expidan con referencia a dichos registros, hacen presumir los derechos de autor mientras no se pruebe lo contrario.
+
+ARTICULO 1,248.- Para que surtan efecto las trasmisiones de los derechos que menciona este Título, deben ser inscritas en el propio Registro de la Secretaría de Educación Pública.
+
+ARTICULO 1,249.- Para cada nueva edición, traducción o reproducción, se necesita hacer un nuevo depósito.
+
+ARTICULO 1,250.- Los derechos de autor relativos a la representación de las obras dramáticas y a la ejecución de las musicales, quedan legalmente reconocidos luego que lo esté el derecho exclusivo a la publicación y reproducción de esas obras.
+
+ARTICULO 1,251.- En el caso de que una obra dramática o musical inédita fuere representada o ejecutada sin consentimiento del autor, éste probará sus derechos, y, justificados, quedará sujeto el responsable a las disposiciones relativas de este Título.
+
+ARTICULO 1,252.- En los contratos que se celebren para la publicación de una obra, se fijará el número de ejemplares que deben tirarse. De lo contrario, no podrán demandarse la falsificación por esta causa.
+
+ARTICULO 1,253.- Todos los autores, traductores y editores deben poner en las portadas de los libros o composiciones musicales, alcance de las estampas y en la base u otra parte visible de las demás obras artísticas, la fecha de publicación o de la ejecución de la obra y la advertencia de gozar del privilegio por haber hecho el depósito que previene este Código.
+
+ARTICULO 1,254.- El que no cumpla lo dispuesto en el artículo anterior, no podrá ejercitar los derechos que se le conceden en este Título.
+
 ## TITULO PRIMERO. Disposiciones preliminares
 
 ARTICULO 1,281.- Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
@@ -5834,30 +5860,6 @@ ARTICULO 1,292.- El heredero de parte de los bienes que quiera vender a un extra
 ARTICULO 1,293.- Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
 
 ARTICULO 1,294.- El derecho concedido en el artículo 1,292 cesa si la enajenación se hace a un coheredero.
-
-### CAPITULO II
-
-ARTICULO 1,244.- Los derechos exclusivos de autor, traductor o editor, se concederán por el Ejecutivo Federal, mediante solicitud hecha por los interesados o sus representantes legítimos, a la Secretaría de Educación Pública, acompañada de los ejemplares que prevenga el Reglamento.
-
-ARTICULO 1,245.- Pueden asegurarse los derechos sobre las obras publicadas sin el nombre del autor o con seudónimo, acompañando a los ejemplares de la obra que deben entregarse en la Secretaría de Educación, un pliego cerrado en que conste el nombre del autor; pliego que debe llevar en la cubierta las contraseñas necesarias para que el autor sea identificado. Para que puedan hacerse valer los derechos de autor, es necesario que abierto el pliego a solicitud de quien lo presentó, quede debidamente comprobado quién es el autor de la obra.
-
-ARTICULO 1,246.- En la Secretaría de Educación Pública se llevará un registro donde se asienten las obras que se reciban, el cual se publicará cada tres meses en el "Diario Oficial."
-
-ARTICULO 1,247.- Las certificaciones que se expidan con referencia a dichos registros, hacen presumir los derechos de autor mientras no se pruebe lo contrario.
-
-ARTICULO 1,248.- Para que surtan efecto las trasmisiones de los derechos que menciona este Título, deben ser inscritas en el propio Registro de la Secretaría de Educación Pública.
-
-ARTICULO 1,249.- Para cada nueva edición, traducción o reproducción, se necesita hacer un nuevo depósito.
-
-ARTICULO 1,250.- Los derechos de autor relativos a la representación de las obras dramáticas y a la ejecución de las musicales, quedan legalmente reconocidos luego que lo esté el derecho exclusivo a la publicación y reproducción de esas obras.
-
-ARTICULO 1,251.- En el caso de que una obra dramática o musical inédita fuere representada o ejecutada sin consentimiento del autor, éste probará sus derechos, y, justificados, quedará sujeto el responsable a las disposiciones relativas de este Título.
-
-ARTICULO 1,252.- En los contratos que se celebren para la publicación de una obra, se fijará el número de ejemplares que deben tirarse. De lo contrario, no podrán demandarse la falsificación por esta causa.
-
-ARTICULO 1,253.- Todos los autores, traductores y editores deben poner en las portadas de los libros o composiciones musicales, alcance de las estampas y en la base u otra parte visible de las demás obras artísticas, la fecha de publicación o de la ejecución de la obra y la advertencia de gozar del privilegio por haber hecho el depósito que previene este Código.
-
-ARTICULO 1,254.- El que no cumpla lo dispuesto en el artículo anterior, no podrá ejercitar los derechos que se le conceden en este Título.
 
 ### CAPITULO III
 
@@ -6149,8 +6151,6 @@ ARTICULO 1,366.- Cuando el legado debe concluir en un día que es seguro que ha 
 
 ARTICULO 1,367.- Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-## TITULO SEGUNDO. De la sucesión por testamento
-
 ### CAPITULO V. De los bienes de que se puede disponer por testamento, y de los testamentos inoficiosos
 
 ARTICULO 1,368.- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
@@ -6192,6 +6192,8 @@ ARTICULO 1,375.- El preterido tendrá solamente derecho a que se le dé la pensi
 ARTICULO 1,376.- La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
 
 ARTICULO 1,377.- No obstante lo dispuesto en el artículo 1,375, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
+
+## TITULO SEGUNDO. De la sucesión por testamento
 
 ### CAPITULO VI. De la institución de heredero
 
@@ -6399,12 +6401,6 @@ ARTICULO 1,470.- Sólo duran veinte años los legados de que trata el artículo 
 
 ARTICULO 1,471.- Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 
-# LIBRO TERCERO. DE LAS SUCESIONES
-
-## TITULO TERCERO. De la forma de los testamentos
-
-## TITULO CUARTO. De la sucesión legítima
-
 ### CAPITULO VIII. De las substituciones
 
 ARTICULO 1,472.- Puede el testador substituir una o más personas al heredero o herederos instituídos, para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
@@ -6436,6 +6432,12 @@ Si la carga se impusiere sobre bienes inmuebles y fuere temporal, el heredero o 
 Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capital a interés con primera y suficiente hipoteca.
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
+
+# LIBRO TERCERO. DE LAS SUCESIONES
+
+## TITULO TERCERO. De la forma de los testamentos
+
+## TITULO CUARTO. De la sucesión legítima
 
 ### CAPITULO IX. De la nulidad, revocación y caducidad de los testamentos
 
@@ -6541,30 +6543,6 @@ ARTICULO 1,513.- Si alguno de los testigos no supiere escribir, firmará otro de
 
 ARTICULO 1,514.- Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
 
-###### ARTICULO 1515.
-
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 1,516.- El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 1,517.- Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el artículo 1,512, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 1,518.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1,503. La traducción se transcribirá como testamento en el Protocolo respectivo y el original se archivará en el Apéndice correspondiente del Notario que intervenga en el acto.
-
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
-
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
-
-ARTICULO 1,519.- Las formalidades se practicarán acto continuo y el Notario dará fe de haberse llenado todas.
-
-ARTICULO 1,520.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
-
 ### CAPITULO III. Testamento público cerrado
 
 ARTICULO 1,521.- El testamento público cerrado, puede ser escrito por el testador o por otra persona a su ruego, y en papel común.
@@ -6628,6 +6606,30 @@ ARTICULO 1,547.- Cumpliendo lo prescrito en los cinco artículos anteriores, el 
 ARTICULO 1,548.- El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
 
 ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1,508 y 1,509, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+
+###### ARTICULO 1515.
+
+En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+
+ARTICULO 1,516.- El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+
+ARTICULO 1,517.- Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el artículo 1,512, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+
+ARTICULO 1,518.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1,503. La traducción se transcribirá como testamento en el Protocolo respectivo y el original se archivará en el Apéndice correspondiente del Notario que intervenga en el acto.
+
+Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+
+ARTICULO 1,519.- Las formalidades se practicarán acto continuo y el Notario dará fe de haberse llenado todas.
+
+ARTICULO 1,520.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
 ### CAPITULO IV. Del testamento ológrafo
 
@@ -6751,8 +6753,6 @@ ARTICULO 1,591.- El testamento marítimo solamente producirá efectos legales fa
 
 ARTICULO 1,592.- Si el testador desembarca en un lugar donde no haya Agente Diplomático o Consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Título XI del Libro Primero.
 
-## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
-
 ### CAPITULO VIII. Del testamento hecho en país extranjero
 
 ARTICULO 1,593.- Los testamentos hechos en país extranjero, producirán efecto en el Distrito y Territorios Federales cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
@@ -6766,6 +6766,8 @@ ARTICULO 1,596.- Si el testamento fuere ológrafo, el funcionario que intervenga
 ARTICULO 1,597.- Si el testamento fuere confiado a la guarda del Secretario de Legación, Cónsul o Vicecónsul, hará mención de esa circunstancia y dará recibo de la entrega.
 
 ARTICULO 1,598.- El papel en que se extiendan los testamentos otorgados ante los Agentes Diplomáticos o Consulares, llevará el sello de la Legación o Consulado respectivo.
+
+## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
 
 ### CAPITULO I. Disposiciones generales
 
@@ -6917,8 +6919,6 @@ ARTICULO 1,647.- Para cualquiera de las diligencias que se practiquen conforme a
 
 ARTICULO 1,648.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
 
-## TITULO PRIMERO. Fuentes de las obligaciones
-
 ### CAPITULO II. De la apertura y transmisión de la herencia
 
 ARTICULO 1,649.- La sucesión se abre en el momento en que muere el autor de la herencia y cuando se declara la presunción de muerte de un ausente.
@@ -6928,6 +6928,8 @@ ARTICULO 1,650.- No habiendo albacea nombrado, cada uno de los herederos puede, 
 ARTICULO 1,651.- Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
 
 ARTICULO 1,652.- El derecho de reclamar la herencia prescribe en diez años y es trasmisible a los herederos.
+
+## TITULO PRIMERO. Fuentes de las obligaciones
 
 ### CAPITULO III. De la aceptación y de la repudiación de la herencia
 
@@ -7307,8 +7309,6 @@ ARTICULO 1,790.- La partición hecha con un heredero falso, es nula en cuanto te
 
 ARTICULO 1,791.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
 
-## TITULO SEGUNDO. Modalidades de las obligaciones
-
 ### CAPITULO I. Contratos
 
 ARTICULO 1,792.- Convenio es el acuerdo de dos o más personas para crear, transferir, modificar o extinguir obligaciones.
@@ -7500,6 +7500,8 @@ Disposiciones finales
 ARTICULO 1,858.- Los contratos que no estén especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
 
 ARTICULO 1,859.- Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de estos o a disposiciones especiales de la ley sobre los mismos.
+
+## TITULO SEGUNDO. Modalidades de las obligaciones
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -7801,14 +7803,6 @@ III.- Cuando por actos propios hubiese disminuído aquellas garantías después 
 
 ARTICULO 1,960.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
 
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-De las obligaciones en general
-
-## TITULO TERCERO. De la transmisión de las obligaciones
-
 ### CAPITULO III. De las obligaciones conjuntivas y alternativas
 
 ARTICULO 1,961.- El que se ha obligado a diversas cosas o hechos, conjuntamente, debe dar todas las primeras y prestar todos los segundos.
@@ -7860,6 +7854,14 @@ ARTICULO 1,981.- Haya habido o no culpa en la pérdida de la cosa por parte del 
 ARTICULO 1,982.- Si la cosa se pierde o el hecho deja de prestarse por culpa del acreedor, se tiene por cumplida la obligación.
 
 ARTICULO 1,983.- La falta de prestación del hecho se regirá por lo dispuesto en los artículos 2,027 y 2,028.
+
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+De las obligaciones en general
+
+## TITULO TERCERO. De la transmisión de las obligaciones
 
 ### CAPITULO IV. De las obligaciones mancomunadas
 
@@ -8085,12 +8087,6 @@ ARTICULO 2,056.- El deudor sustituto puede oponer al acreedor las excepciones qu
 
 ARTICULO 2,057.- Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
-## TITULO CUARTO. Efectos de las obligaciones
-
-I.- Efectos de las obligaciones entre las partes
-
-Cumplimiento de las obligaciones
-
 ### CAPITULO III. De la subrogación
 
 ARTICULO 2,058.- La subrogación se verifica por ministerio de la ley y sin necesidad de declaración alguna de los interesados:
@@ -8108,6 +8104,12 @@ ARTICULO 2,059.- Cuando la deuda fuere pagada por el deudor con dinero que un te
 ARTICULO 2,060.- No habrá subrogación parcial en deudas de solución indivisible.
 
 ARTICULO 2,061.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
+
+## TITULO CUARTO. Efectos de las obligaciones
+
+I.- Efectos de las obligaciones entre las partes
+
+Cumplimiento de las obligaciones
 
 ### CAPITULO I. Del pago
 
@@ -8411,8 +8413,6 @@ ARTICULO 2,178.- Si el acreedor que pide la nulidad, para acreditar la insolvenc
 
 ARTICULO 2,179.- Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 
-## TITULO QUINTO. Extinción de las obligaciones
-
 ### CAPITULO II. De la simulación de los actos jurídicos
 
 ARTICULO 2,180.- Es simulado el acto en que las partes declaran o confiesan falsamente lo que en realidad no ha pasado o no se ha convenido entre ellas.
@@ -8426,6 +8426,8 @@ ARTICULO 2,183.- Pueden pedir la nulidad de los actos simulados, los terceros pe
 ARTICULO 2,184.- Luego que se anule un acto simulado, se restituirá la cosa o derecho a quien pertenezca, con sus frutos e intereses, si los hubiere; pero si la cosa o derecho ha pasado a título oneroso a un tercero de buena fe, no habrá lugar a la restitución.
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
+
+## TITULO QUINTO. Extinción de las obligaciones
 
 ### CAPITULO I. De la compensación
 
@@ -8495,6 +8497,16 @@ ARTICULO 2,207.- La confusión que se verifica en la persona del acreedor o deud
 
 ARTICULO 2,208.- Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
 
+### CAPITULO III. De la remisión de la deuda
+
+ARTICULO 2,209.- Cualquiera puede renunciar su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohibe.
+
+ARTICULO 2,210.- La condonación de la deuda principal extinguirá las obligaciones accesorias; pero la de éstas dejan subsistente la primera.
+
+ARTICULO 2,211.- Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a alguno de ellos, en la parte relativa a su responsabilidad, no aprovecha a los otros.
+
+ARTICULO 2,212.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
+
 ## TITULO SEXTO. De la inexistencia y de la nulidad
 
 ARTICULO 2,224.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -8538,16 +8550,6 @@ ARTICULO 2,242.- Todos los derechos reales o personales transmitidos a terceros 
 PARTE SEGUNDA
 
 De las diversas especies de contratos
-
-### CAPITULO III. De la remisión de la deuda
-
-ARTICULO 2,209.- Cualquiera puede renunciar su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohibe.
-
-ARTICULO 2,210.- La condonación de la deuda principal extinguirá las obligaciones accesorias; pero la de éstas dejan subsistente la primera.
-
-ARTICULO 2,211.- Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a alguno de ellos, en la parte relativa a su responsabilidad, no aprovecha a los otros.
-
-ARTICULO 2,212.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
 ### CAPITULO IV. De la novación
 
@@ -8675,20 +8677,6 @@ II.- A garantir las calidades de la cosa;
 
 III.- A prestar la evicción.
 
-## TITULO PRIMERO
-
-De los contratos preparatorios.- La promesa.
-
-ARTICULO 2,243.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
-
-ARTICULO 2,244.- La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
-
-ARTICULO 2,245.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
-
-ARTICULO 2,246.- Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
-
-ARTICULO 2,247.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
-
 ### CAPITULO V. De la entrega de la cosa vendida
 
 ARTICULO 2,284.- La entrega puede ser real, jurídica o virtual.
@@ -8714,6 +8702,20 @@ ARTICULO 2,290.- Si en la venta de un inmueble se han designado los linderos, el
 ARTICULO 2,291.- La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubiere lugar designado en el contrato, en el lugar en que se encontraba la cosa en la época en que se vendió.
 
 ARTICULO 2,292.- Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
+
+## TITULO PRIMERO
+
+De los contratos preparatorios.- La promesa.
+
+ARTICULO 2,243.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
+
+ARTICULO 2,244.- La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
+
+ARTICULO 2,245.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
+
+ARTICULO 2,246.- Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
+
+ARTICULO 2,247.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ### CAPITULO VI. De las obligaciones del comprador
 
@@ -8805,6 +8807,16 @@ El endoso será ratificado ante el registrador, quien tiene obligación de cerci
 
 ARTICULO 2,322.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
+### CAPITULO IX. De las ventas judiciales
+
+ARTICULO 2,323.- Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
+
+ARTICULO 2,324.- No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a los incapacitados, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
+
+ARTICULO 2,325.- Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles.
+
+ARTICULO 2,326.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
+
 ## TITULO SEGUNDO. De la compra-venta
 
 ## TITULO TERCERO. De la permuta
@@ -8820,16 +8832,6 @@ ARTICULO 2,330.- Lo dispuesto en el artículo anterior no perjudica los derechos
 ARTICULO 2,331.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
 
 ## TITULO CUARTO. De las donaciones
-
-### CAPITULO IX. De las ventas judiciales
-
-ARTICULO 2,323.- Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
-
-ARTICULO 2,324.- No pueden rematar por sí, ni por interpósita persona, el Juez, Secretario y demás empleados del juzgado; el ejecutado, sus procuradores, abogados y fiadores; los albaceas y tutores, si se trata de bienes pertenecientes a la sucesión o a los incapacitados, respectivamente; ni los peritos que hayan valuado los bienes objeto del remate.
-
-ARTICULO 2,325.- Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles.
-
-ARTICULO 2,326.- En las enajenaciones judiciales que hayan de verificarse para dividir cosa común, se observará lo dispuesto para la partición entre herederos.
 
 ### CAPITULO I. De las donaciones en general
 
@@ -9133,10 +9135,6 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2,304 y 2,305.
 
-## TITULO QUINTO. Del mutuo
-
-## TITULO SEXTO. Del arrendamiento
-
 ### CAPITULO IV. Del arrendamiento de fincas urbanas
 
 ARTICULO 2,448.- No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
@@ -9150,6 +9148,10 @@ Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arr
 ARTICULO 2,451.- No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2,449.
 
 ARTICULO 2,452.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+
+## TITULO QUINTO. Del mutuo
+
+## TITULO SEXTO. Del arrendamiento
 
 ### CAPITULO V. Del arrendamiento de fincas rústicas
 
@@ -9213,6 +9215,16 @@ ARTICULO 2,476.- Si en el arrendamiento de un predio rústico se incluyere el ga
 
 ARTICULO 2,477.- Lo dispuesto en el artículo 2,465 es aplicable a los aperos de la finca arrendada.
 
+### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
+
+N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
+
+ARTICULO 2,478.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
+
+N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
+
+ARTICULO 2,479.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
+
 ## TITULO SEPTIMO. Del comodato
 
 ARTICULO 2,497.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
@@ -9255,12 +9267,6 @@ ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
-
-ARTICULO 2,478.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
-
-ARTICULO 2,479.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
-
 ### CAPITULO VIII. Del subarriendo
 
 ARTICULO 2,480.- El arrendatario no puede subarrendar la cosa arrendada en todo, ni en parte, ni ceder sus derechos sin consentimiento del arrendador; si lo hiciere, responderá solidariamente con el subarrendatario, de los daños y perjuicios.
@@ -9271,11 +9277,11 @@ ARTICULO 2,481.- Si el subarriendo se hiciere en virtud de la autorización gene
 
 ARTICULO 2,482.- Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
 
-## TITULO OCTAVO. Del depósito y del secuestro
-
 ### CAPITULO IX. Del modo de terminar el arrendamiento
 
 ARTICULO 2,483.- El arrendamiento puede terminar:
+
+N. DE E., SE SUSPENDE LA VIGENCIA DE LA PRIMERA PARTE DE LA PRESENTE FRACCION POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
 
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fue arrendada;
 
@@ -9291,7 +9297,9 @@ VI.- Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o
 
 VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
 
-VIII.- Por evicción de la cosa dada en arrendamiento
+VIII.- Por evicción de la cosa dada en arrendamiento.
+
+N. DE E., SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR DISPOSICION DE LOS ARTICULOS CUARTO Y SEXTO DEL DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES, PUBLICADO EN EL D.O.F. 11 DE NOVIEMBRE DE 1943.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -9330,6 +9338,8 @@ ARTICULO 2,494.- En el caso del artículo anterior se observará lo que dispone 
 ARTICULO 2,495.- Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de arrendamiento subsistirá, a menos que aparezca que se celebró dentro de los sesenta días anteriores al secuestro de la finca, en cuyo caso el arrendamiento podrá darse por concluído.
 
 ARTICULO 2,496.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
+
+## TITULO OCTAVO. Del depósito y del secuestro
 
 ### CAPITULO I. Del depósito
 
@@ -9627,15 +9637,15 @@ ARTICULO 2,603.- El mandatario que renuncie tiene obligación de seguir el negoc
 
 ARTICULO 2,604.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2,597.
 
-## TITULO NOVENO. Del mandato
-
-## TITULO DECIMO. Del contrato de prestación de servicios
-
 ### CAPITULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado en el que el operario sólo pone su trabajo y del contrato de aprendizaje
 
 ARTICULO 2,605.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Reglamentaria que debe expedir el Congreso de la Unión, de acuerdo con lo ordenado en el párrafo 1o. del artículo 123 de la Constitución Federal.
 
 Mientras que esa ley no se expida, se observarán las disposiciones contenidas en los capítulos I, II, V y parte relativa del III, del Título XIII, del Libro Tercero del Código Civil para el Distrito y Territorios Federales, que comenzó a estar en vigor el 1o. de junio de 1884, en lo que no contradigan las bases fijadas en el citado artículo 123 constitucional, y lo dispuesto en los artículos 4 y 5 del mismo Código Fundamental.
+
+## TITULO NOVENO. Del mandato
+
+## TITULO DECIMO. Del contrato de prestación de servicios
 
 ### CAPITULO II. De la prestación de servicios profesionales
 
@@ -9660,8 +9670,6 @@ ARTICULO 2,613.- Los profesores tienen derecho de exigir sus honorarios, cualqui
 ARTICULO 2,614.- Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que lo ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen, cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2,589.
 
 ARTICULO 2,615.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
 ### CAPITULO III. Del contrato de obras a precio alzado
 
@@ -9724,6 +9732,8 @@ ARTICULO 2,643.- Cuando se conviniere en que la obra deba hacerse a satisfacció
 ARTICULO 2,644.- El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no se le pague, y su crédito será cubierto preferentemente con el precio de dicha obra.
 
 ARTICULO 2,645.- Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
+
+## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
 ### CAPITULO IV. De los porteadores y alquiladores
 
@@ -9961,10 +9971,6 @@ ARTICULO 2,718.- El socio o socios administradores están obligados a rendir cue
 
 ARTICULO 2,719.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose, respecto de ésta lo dispuesto en el artículo 2,713.
 
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
 ### CAPITULO IV. De la disolución de las sociedades
 
 ARTICULO 2,720.- La sociedad se disuelve:
@@ -9998,6 +10004,10 @@ ARTICULO 2,723.- La renuncia se considera maliciosa cuando el socio que la hace 
 ARTICULO 2,724.- Se dice extemporánea la renuncia, si al hacerla, las cosas no se hallan en su estado íntegro y la sociedad puede ser perjudicada con la disolución que originaría la renuncia.
 
 ARTICULO 2,725.- La disolución de la sociedad no modifica los compromisos contraídos con terceros.
+
+## TITULO SEGUNDO. DEL REGISTRO PUBLICO
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
 ### CAPITULO V. De la liquidación de la sociedad
 
@@ -11091,6 +11101,64 @@ ARTICULO 3,043.- Las cancelaciones se harán en la forma que fije el reglamento;
 
 ARTICULO 3,044.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
 
+### CAPITULO VI. De la extinción de las inscripciones
+
+ARTICULO 3,029.- Las inscripciones no se extinguen en cuanto a terceros, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real escrito a otra persona.
+
+ARTICULO 3,030.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+
+ARTICULO 3,031.- La cancelación de las inscripciones podrá ser total o parcial.
+
+ARTICULO 3,032.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
+
+I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+
+II.- Cuando se extinga también por completo el derecho inscrito;
+
+III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
+
+IV.- Cuando se declare la nulidad de la inscripción;
+
+V.- Cuando sea vendido judicialmente el inmueble que reporte del gravamen en el caso previsto en el artículo 2,325;
+
+VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
+
+ARTICULO 3,033.- Podrá pedirse, y deberá decretarse, en su caso, la cancelación parcial:
+
+I.- Cuando se reduzca el inmueble objeto de la inscripción;
+
+II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+
+ARTICULO 3,034.- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
+
+ARTICULO 3,035.- Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+
+ARTICULO 3,036.- Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+
+ARTICULO 3,037.- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
+
+ARTICULO 3,038.- Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+
+ARTICULO 3,039.- La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso, puede hacerse:
+
+I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
+
+II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
+
+III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
+
+ARTICULO 3,040.- Las inscripciones de hipotecas constituídas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+
+ARTICULO 3,041.- Procederá también la cancelación total, si se presentase, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
+
+La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+
+ARTICULO 3,042.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+
+ARTICULO 3,043.- Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por qué se hace la cancelación y su fecha.
+
+ARTICULO 3,044.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+
 ## ARTICULOS TRANSITORIOS
 
 > <small>(REFORMADO, D.O.F. 1o. DE SEPTIEMBRE DE 1932)</small>
@@ -11159,6 +11227,10 @@ D.O.F. 20 DE ENERO DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
+D.O.F. 11 DE NOVIEMBRE DE 1943.
+
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES.
+
 ###### ARTICULO 1o.
 
 Este Código comenzará a regir el 1o. de octubre de 1932.
@@ -11170,6 +11242,18 @@ Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su v
 ###### ARTICULO 3o.
 
 La capacidad jurídica de las personas se rige por lo dispuesto en este Código, aun cuando modifique o quite la que antes gozaban; pero los actos consumados por personas capaces quedan firmes, aun cuando se vuelvan incapaces conforme a la presente ley.
+
+###### ARTICULO 1o.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Los juicios de desocupación por terminación del contrato de arrendamiento que estén pendientes al entrar en vigor el presente, se sobrescerán (sic).
+
+###### ARTICULO 3o.
+
+Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoles su voluntad de dar por terminado el arrendamiento.
 
 ###### ARTICULO 4o.
 
