@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1992-02-01"
+last_updated: "1992-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -93,7 +93,7 @@ Las presentes reformas surtirán sus efectos a partir de la fecha de su publicac
 
 G.O. 28 DE ENERO DE 1943.
 
-REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
+REPUBLICADO, G.O. 31 DE AGOSTO DE 1943
 
 La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
 
@@ -697,7 +697,9 @@ XVII. Crear, suprimir y dotar competentemente los empleos del Estado;
 
 XVIII. Dar, a iniciativa del Ejecutivo, la Ley de Planeación que reglamentará la formulación, instrumentación, control, evaluación y actualización de los planes, programas y proyectos de la Administración Pública Estatal. La Planeación del desarrollo económico y social del Estado, será democrática y obligatoria para el poder público;
 
-XIX. Proteger la libertad de cultos sin consentir preferencia alguna en favor de determinada religión; y dar la ley sobre el número máximo de ministros de los cultos a que la faculta el artículo 130 de la Constitución General de la República;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIX. Proteger la libertad de cultos sin consentir preferencia alguna en favor de determinada religión;
 
 XX. Dar reglas de colonización conforme a las bases que establezca el Congreso General;
 
@@ -2168,3 +2170,9 @@ Se derogan todas las disposiciones que se opongan a este ordenamiento.
 ###### ARTICULO TERCERO.
 
 En tanto se expide la Ley que regule las atribuciones del Organismo a que se refiere la presente adición, esta función estará encomendada a la Comisión de Derechos Humanos del estado de Veracruz, creada mediante Decreto del Ejecutivo del Estado, de fecha 14 de diciembre de 1990, con la organización y funciones que en el mismo se consignan.
+
+G.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
