@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2004-12-06"
+last_updated: "2004-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2004.
 
-Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
+Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -4670,8 +4670,14 @@ SEGUNDO.- El arancel ad-valorem aplicable a la importación de las mercancías c
 
 a) A partir del 1 de enero de 2006, el arancel ad-valorem aplicable a la importación será de 29, y
 
-b) A partir del 1 de enero de 2007, el arancel ad-valorem aplicable a la importación será de 23.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2004)</small>
+
+b) A partir del 1 de enero de 2007, el arancel ad-valorem aplicable a la importación será de 20.
 
 D.O.F. 6 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
