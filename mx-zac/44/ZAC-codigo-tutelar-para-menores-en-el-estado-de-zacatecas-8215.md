@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-tutelar-para-menores-en-el-estado-de-zacatecas-8215"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-04-26"
-last_updated: "1986-04-26"
+last_updated: "1994-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO TUTELAR PARA MENORES EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1994.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 26 de abril de 1986.
 
@@ -49,7 +49,7 @@ Por lo anteriormente expuesto, en nombre del Pueblo es de Decretarse y se
 
 DECRETA:
 
-CODIGO TUTELAR PARA MENORES EN EL ESTADO DE TAMAULIPAS
+CODIGO TUTELAR PARA MENORES EN EL ESTADO DE ZACATECAS
 
 ## TITULO PRIMERO
 
@@ -73,47 +73,43 @@ El Estado prestará atención al menor en los aspectos biológico, psíquico, f�
 
 La función asistencial la realiza el Estado a través del sistema para el Desarrollo Integral de la Familia y la correctiva por medio del órgano específico denominado Consejo Tutelar para Menores.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 5.
 
-Toda persona está obligada a hacer del conocimiento del órgano competente, las conductas de menores, que requieran de tutela.
+Todas las personas adultas están obligadas a hacer del conocimiento de los órganos competentes, los hechos y circunstancias socioeconómicas o de índole material o moral, que puedan ser un factor de riesgo para el desarrollo normal de los menores o influir negativamente en su comportamiento social.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 6.
 
-Se considera susceptible de protección la conducta del menor que se encuentre en condiciones que hagan presumir fundadamente el peligro de incurrir en acciones antisociales; cuando el núcleo familiar en que se desenvuelve pueda ocasionarle traumatismos físicos o psicológicos o cuando de cualquier modo, se relacione con situaciones sociales, económicas, físicas o morales que dañen su persona o su personalidad.
+Se considera susceptible de protección la conducta del menor cuando se encuentre en condiciones transitorias o permanentes, derivadas del medio familiar o del entorno social en los que vive, que hagan presumir fundadamente la posibilidad de que sufra daños mentales o emocionales o adquiera alguna propensión a incurrir en actos antisociales.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 7.
 
-Para los efectos de esta ley se considera menor a la persona que no ha cumplido dieciséis años de edad.
+Para los efectos de esta ley se considera menor a la persona que no ha cumplido dieciséis años de edad. Para la aplicación de las normas que prescriben tratamientos específicos, se establece la distinción entre los niños cuya edad es inferior a doce años y los adolescentes que ya han cumplido esta última edad pero no los dieciséis años.
 
 ### CAPITULO II
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 8.
 
-Las medidas proteccionistas en beneficio de los menores tendrán por objeto:
+El Estado dará protección a los menores por medio de:
 
-I.- La prestación de servicios que favorezcan directamente el bienestar material y espiritual de la niñez y de la juventud;
+I.- La prestación de servicios asistenciales para satisfacer sus necesidades primordiales, cuando los menores no tengan familiares que atiendan a su subsistencia o carezcan de recursos materiales y económicos suficientes;
 
-II.- La creación o mejoramiento de las condiciones necesarias para que el ambiente familiar y social garantice un mejor desarrollo físico y espiritual del menor;
+II.- La prevención de posibles desviaciones en la conducta de los menores, a través de acciones educativas y de capacitación para el trabajo; y
 
-III.- El tratamiento idóneo a los menores que incurran en conductas antisociales.
+III.- El tratamiento idóneo, basado en los criterios médicos, psicológicos, sociológicos y pedagógicos, cuando los menores incurran en conductas antisociales.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 9.
 
-La tutela de los menores abarcará la asistencia y vigilancia en las siguientes etapas:
-
-I.- Preparación para la paternidad responsable;
-
-II.- Prenatal;
-
-III.- Post-natal;
-
-IV.- Pre-escolar;
-
-V.- Escolar; y
-
-VI.- Familiar.
-
-El reglamento respectivo fijará las bases para la ejecución de las acciones correspondientes a cada una de estas etapas.
+Los órganos e instituciones que tendrán a su cargo las funciones de protección a los menores preceptuadas por las fracciones I y II del artículo precedente serán objeto de las regulaciones establecidas en la Legislatura sobre educación, salud y asistencia social. Lo referente a la fracción III es materia de este Código.
 
 ## TITULO SEGUNDO
 
@@ -123,13 +119,17 @@ ATENCION A LOS MENORES EN ESTADO ANTISOCIAL.
 
 DEL CONSEJO TUTELAR PARA MENORES.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 10.
 
-Se establece en el Estado de Zacatecas, con sede en la Capital del mismo nombre, un Consejo Tutelar para menores.
+El Consejo Tutelar para Menores es un organismo dependiente del Poder Ejecutivo del Estado, cuyas funciones se regirán por lo dispuesto en el presente ordenamiento. Sus acuerdos y resoluciones sólo serán revisables a petición de parte interesada, cuyo interés jurídico esté debidamente acreditado.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 11.
 
-Esta Institución dependerá directamente, por lo que al orden administrativo respecta, del Sistema Estatal para el Desarrollo Integral de la Familia.
+En materia presupuestal y administrativa, el Consejo Tutelar para Menores y sus dependencias y órganos auxiliares forman parte y dependen orgánicamente de la Secretaría General de Gobierno.
 
 ### CAPITULO II
 
@@ -227,9 +227,11 @@ IV.- Poseer el título que corresponda en los términos del artículo 12 de esta
 
 V.- Tener, preferentemente, conocimientos suficientes respecto a la prevención y tratamiento de la conducta antisocial de los menores.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 20.
 
-Los integrantes del Consejo serán designados por el Gobernador del Estado, quien puede delegar este derecho a la Presidencia del D.I.F.
+Los integrantes del Consejo serán designados por el Gobernador del Estado.
 
 ## TITULO TERCERO
 
@@ -313,21 +315,27 @@ En el lapso y durante el procedimiento, se oirá al menor, quien deberá encontr
 
 Al menor tiempo, se investigará cuál ha sido la educación del menor, su instrucción, sus condiciones físicas y mentales y si ha estado moralmente abandonado.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 37 Bis.
 
-El Consejo determinará de inmediato el lugar donde permanecerá provisionalmente el menor.
+El Consejo determinará el lugar donde permanecerá el menor durante el tiempo que haya de transcurrir para la práctica de las diligencias a que se refieren los dos artículos precedentes. En caso de que éste sea menor de doce años y se encontrase material o moralmente abandonado, el Consejo lo pondrá bajo la custodia de un establecimiento educativo o de una familia honorable.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 38.
 
-Practicadas las diligencias dentro del término señalado, si se comprueba que el hecho que se atribuye al menor no se cometió, o que no tuvo participación alguna en el mismo, ni ha sido pervertido o en peligro de serlo, se entregará a sus padres, tutores o a quienes tengan su custodia, con las indicaciones pertinentes en beneficio de su educación y cuidado.
+Practicadas las diligencias dentro del término señalado, si se comprueba que el hecho que se atribuye al menor no se cometió, o que no tuvo participación alguna en el mismo, ni requiere medidas de protección especiales en prevención de influencias nocivas sobre su comportamiento futuro, se entregará definitivamente a sus padres, tutores o a quienes, según lo previsto por la parte final del artículo anterior, tuvieren su custodia. Si el Consejo estima pertinente, hará recomendaciones a unos o a otros, según el caso, sobre la forma de mejorar el cuidado y la educación del menor.
 
 ###### ARTICULO 39.
 
 Si de las investigaciones realizadas aparece que el hecho o infracción que se atribuyen al menor se cometieron y éste tuvo participación en ellos, o que ha sido pervertido o en peligro de serlo, será enviado al Centro de Observación, donde se procederá a inscribirlo y a realizar los estudios que solicite el Consejo.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 40.
 
-Los menores permanecerán en el Centro de Observación el tiempo absolutamente indispensable para la práctica de los estudios respectivos.
+Los menores permanecerán en el Centro de Observación el tiempo estrictamente indispensable para la realización de los estudios determinados por el Consejo. Además de cumplirse con lo dispuesto en el artículo 88 de este Código, en el Centro deberá haber instalaciones materialmente separadas para los niños que no hayan cumplido doce años, a fin de que éstos no convivan ni establezcan contactos ocasionales con los adolescentes de más edad.
 
 ###### ARTICULO 41.
 
@@ -377,9 +385,11 @@ No se procederá a la presentación de un menor sin que medie orden escrita y fu
 
 Terminada la investigación, recibidos los informes necesarios y los estudios practicados en el Centro de Observación, se pondrá el expediente a la vista de los consejeros por el término de cinco días a cada uno para que emitan su opinión.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 51.
 
-Transcurrido el término señalado a los consejeros sin que externen su opinión, el Presidente resolverá de plano sancionando a los mismos.
+Si transcurrido el término señalado, los consejeros o alguno de ellos no externan su opinión, el Presidente del Consejo resolverá el caso conforme a su criterio y determinará las sanciones aplicables a los funcionarios omisos.
 
 ###### ARTICULO 52.
 
@@ -421,9 +431,11 @@ e).- El tratamiento adecuado;
 
 f).- El fundamento legal.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 59.
 
-Contra las resoluciones que dicte el Consejo no procederá recurso alguno; pero en cualquier momento podrán revisarse y modificarse su (sic) oficio o a petición de parte interesada, tomando en cuenta los resultados del tratamiento dispuesto.
+El Consejo Tutelar para Menores podrá revisar y, en su caso, revocar sus resoluciones en cualquier tiempo, a petición de la parte interesada, para cuyo efecto deberán tomarse en cuenta los resultados de los tratamientos que se hubieren dispuesto para la rehabilitación del menor.
 
 ###### ARTICULO 60.
 
@@ -513,17 +525,23 @@ Las medidas aplicables al menor, serán de duración indeterminada y cesarán cu
 
 Durante la época de su internamiento en la escuela de orientación, se impartirán al menor los cuidados médicos que requiera; educación escolar de acuerdo a su grado de capacidad y conocimiento; se le orientará para que adquiera algún oficio y se fomentará en todas sus formas el deporte.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 74.
 
-Cuando el menor sea un enfermo mental, ciego, sordomudo, epiléptico, alcohólico o toxicómano o se encuentre notoriamente retrasado en su desarrollo mental, el Consejo ordenará se le proporcione el tratamiento adecuado, ya sea en establecimiento público o privado.
+Cuando el menor padezca una enfermedad mental, epilepsia, alcoholismo, toxicomanía o cualquier forma de farmacodependencia, o sea ciego o sordomudo, el Consejo ordenará se le proporcione el tratamiento adecuado con atención médica especializada, ya sea en un establecimiento privado o público.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 75.
 
-Los gastos que origine este tratamiento serán sufragados por los padres o la persona bajo cuya custodia se encuentre el menor, cuando puedan hacerlo; en caso contrario, previo estricto estudio socioeconómico, que demuestre la absoluta insolvencia de aquéllos, los gastos serán soportados por el Estado.
+En los casos previstos en el artículo precedente, los gastos que se originen serán cubiertos por la institución de asistencia social que la Ley de la materia prescriba. Los padres o las personas bajo cuya custodia se encuentre el menor tendrán la obligación de contribuir en la proporción razonable que determine el estudio socioeconómico que para ese fin debe practicarse, a menos que del propio estudio aparezca su insolvencia económica, caso en que no se les exigirá aportación alguna.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 76.
 
-El Consejo dictará las medidas que estime pertinentes para asegurar que los padres o tutores, cumplirán con la obligación de proporcionar el tratamiento indicado.
+En los demás casos, el Consejo dictará las medidas que sean necesarias para que las personas o instituciones a que se refiere el artículo 67 de este Código, cumplan con la obligación de proporcionar al menor puesto bajo su cuidado, el tratamiento que se haya dispuesto en la resolución respectiva.
 
 ### CAPITULO II
 
@@ -551,9 +569,11 @@ IV.- Las corporaciones de beneficiencia (sic) pública o privada y en general to
 
 V.- El patronato del Consejo Tutelar para Menores.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 79.
 
-La escuela de orientación, dependiente del Consejo Tutelar, tiene por objeto la atención de los menores de 16 años, en cumplimiento de las resoluciones de internamiento decretados por el Consejo Tutelar, mediante la aplicación de sistemas educativos.
+La Escuela de Orientación tendrá como función primordial atender a los menores sujetos a tratamiento de rehabilitación, en cumplimiento a las resoluciones de internamiento dictadas por el Consejo Tutelar, mediante la aplicación de sistemas educativos idóneos, cuyas características serán determinadas por el reglamento interior que expida el propio Consejo, el cual deberá prevenir las medidas que sean necesarias para la aplicación, en lo conducente, de lo dispuesto por los artículos 40 y 88 de este Código respecto de la separación de los menores en razón de sus diferencias de edad.
 
 ###### ARTICULO 80.
 
@@ -673,9 +693,11 @@ VII.- Pronóstico;
 
 VIII.- Terapia.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 88.
 
-En el Centro de Observación se procurará la separación de los menores sujetos a observación y estudio en el periodo anterior a la resolución definitiva, de aquéllos cuyos casos ya han sido fallados por el Consejo.
+En el Centro de Observación se organizará en base a una estricta separación de los menores sujetos a observación y estudio en el periodo anterior a la resolución definitiva, de aquellos otros que se encuentren en una etapa ulterior del trámite previsto por el presente ordenamiento. Dicha separación deberá corresponder, además al criterio preceptuado por el artículo 40 de este mismo Código.
 
 ###### ARTICULO 89.
 
@@ -737,9 +759,11 @@ El Patronato obtendrá sus fondos de cualquier procedencia lícita oficial o par
 
 EL PATRONATO SE INTEGRARA:
 
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1994)</small>
+
 I.- Con un Presidente, un Secretario, un Tesorero y 2 (dos) Vocales.
 
-Los miembros del Patronato serán designados por el Ejecutivo del Estado, quien puede delegar este derecho a la Presidencia del D.I.F.
+Los miembros del Patronato serán designados por el Ejecutivo del Estado.
 
 ###### ARTICULO 99.
 
@@ -771,11 +795,15 @@ III.- Efectuar las gestiones que se requieran para obtener recursos económicos 
 
 IV.- Llevar a cabo la explotación de los bienes de su patrimonio a efecto de obtener utilidades;
 
-V.- Rendir la cuenta del año anterior, en los primeros diez días del mes de enero, al Sistema local para el Desarrollo Integral de la Familia, haciéndolo del conocimiento del Consejo Tutelar.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1994)</small>
+
+V.- Rendir la cuenta del año anterior, en los primeros diez días del mes de Enero a la Secretaria General de Gobierno.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 103.
 
-El Patrimonio del Patronato se integrará con los bienes que actualmente posee el Tribunal para Menores y con los que se adquieran en el futuro.
+El Patrimonio del Consejo se integrará con los bienes que actualmente posee el Tribunal para Menores y con los que se adquieran en el futuro.
 
 ###### ARTICULO 104.
 
@@ -832,3 +860,9 @@ LIC. JOSE GUADALUPE CERVANTES CORONA.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. ROBERTO ALMANZA FELIX.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE MAYO DE 1994
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Zacatecas.
