@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1963-12-30"
+last_updated: "1982-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -245,6 +245,10 @@ El endoso debe ser puro y simple. Toda condición a la cual se subordine, se ten
 El endoso puede hacerse en blanco, con la sola firma del endosante. En este caso, cualquier tenedor puede llenar con su nombre o el de un tercero, el endoso en blanco, o trasmitir el título sin llenar el endoso.
 
 El endoso al portador produce los efectos del endoso en blanco.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito y certificados de participación el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno.
 
 ###### ARTICULO 33.
 
@@ -1448,9 +1452,11 @@ Las sociedades anónimas pueden emitir obligaciones que representen la participa
 
 Las obligaciones serán bienes muebles aun cuando estén garantizadas con hipoteca.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 209.
 
-Las obligaciones pueden ser nominativas, al portador, o nominativas y con cupones al portador, y serán emitidas en denominaciones de $100.00 o de sus múltiplos.
+Las obligaciones serán nominativas y deberán emitirse en denominaciones de cien pesos o de sus múltiplos, excepto tratándose de obligaciones que se inscriban en la Comisión Nacional de Valores y se coloquen en el extranjero entre el gran público inversionista, en cuyo caso podrán emitirse al portador.
 
 Las obligaciones darán a sus tenedores, dentro de cada serie, iguales derechos. Cualquier obligacionista podrá pedir la nulidad de la emisión hecha en contra de lo dispuesto en este párrafo.
 
@@ -1458,27 +1464,35 @@ Las obligaciones darán a sus tenedores, dentro de cada serie, iguales derechos.
 
 Las obligaciones deben contener:
 
-I.- La denominación, el objeto y el domicilio de la sociedad emisora;
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+I.- Nombre, nacionalidad y domicilio del obligacionista, excepto en los casos en que se trate de obligaciones emitidas al portador en los términos del primer párrafo del artículo anterior;
+
+II.- La denominación, el objeto y el domicilio de la sociedad emisora;
 
 (REFORMADA, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
 
-II.- El importe del capital pagado de la sociedad emisora y el de su activo y de su pasivo, según el balance que se practique precisamente para efectuar la emisión;
+III.- El importe del capital pagado de la sociedad emisora y el de su activo y de su pasivo, según el balance que se practique precisamente para efectuar la emisión;
 
-III.- El importe de la emisión, con especificación del número y del valor nominal de las obligaciones que se emitan;
+IV.- El importe de la emisión, con especificación del número y del valor nominal de las obligaciones que se emitan;
 
-IV.- El tipo de interés pactado;
+V.- El tipo de interés pactado;
 
-V.- El término señalado para el pago de interés y de capital y los plazos, condiciones y manera en que las obligaciones han de ser amortizadas;
+VI.- El término señalado para el pago de interés y de capital y los plazos, condiciones y manera en que las obligaciones han de ser amortizadas;
 
-VI.- El lugar del pago;
+VII.- El lugar del pago;
 
-VII.- La especificación, en su caso, de las garantías especiales que se constituyan para la emisión, con expresión de las inscripciones relativas en el Registro Público;
+VIII.- La especificación, en su caso, de las garantías especiales que se constituyan para la emisión, con expresión de las inscripciones relativas en el Registro Público;
 
-VIII.- El lugar y fecha de la emisión, con especificación de la fecha y número de la inscripción relativa en el Registro de Comercio;
+IX.- El lugar y fecha de la emisión, con especificación de la fecha y número de la inscripción relativa en el Registro de Comercio;
 
-IX.- La firma de los administradores de la sociedad, autorizados al efecto;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
-X.- La firma del representante común de los obligacionistas.
+X.- La firma autógrafa de los administradores de la sociedad, autorizados al efecto, o bien la firma impresa en facsímil de dichos administradores, a condición, en este último caso, de que se deposite el original de las firmas respectivas en el Registro Público de Comercio en que se haya registrado la sociedad emisora;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+XI.- La firma autógrafa del representante común de los obligacionistas, o bien la firma impresa en facsímil de dicho representante, a condición, en este último caso, de que se deposite el original de dicha firma en el Registro Público de Comercio en que se haya registrado la sociedad emisora.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1962)</small>
 
@@ -1762,11 +1776,15 @@ ARTICULO 228 j.- Los certificados amortizables darán a sus tenedores, además d
 
 ARTICULO 228 k.- Tratándose de certificados de participación no amortizables, la sociedad emisora no está obligada a hacer pago del valor nominal de ellos a sus tenedores en ningún tiempo. Al extinguirse el fideicomiso base de la emisión y de acuerdo con las resoluciones de la asamblea general de tenedores de certificados, la sociedad emisora procederá a hacer la adjudicación y venta de los bienes fideicometidos (sic) y la distribución del producto neto de la misma, en los términos del artículo 228 a.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+ARTICULO 228 l.- Los certificados serán nominativos con cupones también nominativos y deberán emitirse por series, en denominaciones de cien pesos o de sus múltiplos.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
 
-ARTICULO 228 l.- Los certificados pueden ser nominativos o al portador o nominativos con cupones al portador, y serán emitidos por series, en denominaciones de cien pesos o de sus múltiplos.
-
 Los certificados darán a sus tenedores, dentro de cada serie, iguales derechos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
 
 Cualquier tenedor podrá pedir la nulidad de la emisión hecha en contra de lo dispuesto en este párrafo.
 
@@ -1806,25 +1824,29 @@ En caso de que los certificados se ofrezcan en venta al público, los avisos o l
 
 ARTICULO 228 n.- El certificado de participación deberá contener:
 
-I.- La mención de ser “certificados de participación” y la expresión de si es ordinario o inmobiliario;
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
-II.- La designación de la sociedad emisora y la firma autógrafa del funcionario de la misma, autorizado para suscribir la emisión correspondiente;
+I.- Nombre, nacionalidad y domicilio del titular del certificado;
 
-III.- La fecha de expedición del título;
+II.- La mención de ser “certificados de participación” y la expresión de si es ordinario o inmobiliario;
 
-IV.- El importe de la emisión, con especificación de número y del valor nominal de los certificados que se emitan;
+III.- La designación de la sociedad emisora y la firma autógrafa del funcionario de la misma, autorizado para suscribir la emisión correspondiente;
 
-V.- En su caso, el mínimo de rendimiento garantizado;
+IV.- La fecha de expedición del título;
 
-VI.- El término señalado para el pago de productos o rendimientos y del capital y los plazos, condiciones y forma en que los certificados han de ser amortizados;
+V.- El importe de la emisión, con especificación de número y del valor nominal de los certificados que se emitan;
 
-VII.- El lugar y modo de pago;
+VI.- En su caso, el mínimo de rendimiento garantizado;
 
-VIII.- La especificación, en su caso, de las garantías especiales que se constituyan para la emisión, con expresión de las inscripciones relativas en el Registro Público;
+VII.- El término señalado para el pago de productos o rendimientos y del capital y los plazos, condiciones y forma en que los certificados han de ser amortizados;
 
-IX.- El lugar y la fecha del acta de emisión, con especificación de la fecha y número de la inscripción relativa en el Registro de Comercio;
+VIII.- El lugar y modo de pago;
 
-X.- La firma autógrafa del representante común de los tenedores de certificados.
+IX.- La especificación, en su caso, de las garantías especiales que se constituyan para la emisión, con expresión de las inscripciones relativas en el Registro Público;
+
+X.- El lugar y la fecha del acta de emisión, con especificación de la fecha y número de la inscripción relativa en el Registro de Comercio;
+
+XI.- La firma autógrafa del representante común de los tenedores de certificados.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1946)</small>
 
@@ -1926,7 +1948,9 @@ VII.- La especificación de las mercancías o bienes depositados, con mención d
 
 VIII.- El plazo señalado para el depósito;
 
-IX.- El nombre del depositante o, en su caso, la mención de ser expedidos los títulos al portador;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+IX.- El nombre del depositante;
 
 X.- La mención de estar o no sujetos los bienes o mercancías materia del depósito al pago de derechos, impuestos o responsabilidades fiscales, y cuando para la constitución del depósito sea requisito previo el formar la liquidación de tales derechos, nota de esa liquidación;
 
@@ -1938,7 +1962,9 @@ XII.- La mención de los adeudos o de las tarifas en favor del Almacén o, en su
 
 El bono de prenda deberá contener, además:
 
-I.- El nombre del tomador del bono o la mención de ser emitido al portador;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+I.- El Nombre del tomador del bono;
 
 II.- El importe del crédito que el bono representa;
 
@@ -1984,11 +2010,11 @@ La institución de crédito que intervenga en la emisión del bono, deberá dar 
 
 Los bonos de prenda múltiples a que el artículo 230 se refiere, serán expedidos amparando una cantidad global dividida entre tantas partes iguales como bonos se expidan respecto a cada certificado y haciéndose constar en cada bono que el crédito de su tenedor legítimo tendrá, en su cobro, el orden de prelación indicado con el número de orden propio del bono.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 238.
 
-Los certificados de depósito y los bonos de prenda pueden ser expedidos al portador o nominativamente, a favor del depositante o de un tercero.
-
-El tenedor de esos documentos puede libremente cambiar la forma de circulación de los mismos.
+Los certificados de depósito y los bonos de prenda deberán ser emitidos a favor del depositante o de un tercero.
 
 ###### ARTICULO 239.
 
@@ -2867,6 +2893,30 @@ UNICO.- El presente Decreto entrará en vigor tres días después de su publicac
 D.O.F. 30 DE DICIEMBRE DE 1963.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor en toda la República el día 1o. de enero de 1983.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+En todos aquellos ordenamientos legales distintos a éste, en donde se mencionan las acciones, los bonos de fundador, las obligaciones y los certificados de depósito, como títulos valor al portador, deberá entenderse como referidos a nominativos.
+
+###### ARTICULO TERCERO.
+
+Las sociedades podrán emitir acciones y obligaciones al portador hasta el 31 de marzo de 1983, siempre que dichas acciones y obligaciones se hubieran emitido en virtud de acuerdo de asamblea general de accionistas de la emisora, tomado antes del 10 de diciembre de 1982. Lo dispuesto en este artículo no es aplicable tratándose de sociedades mercantiles de capital variable.
+
+###### ARTICULO CUARTO.
+
+Las acciones, los bonos de fundador, las obligaciones, los certificados de depósito y los certificados de participación, emitidos al portador con anterioridad a la fecha de entrada en vigor del presente Decreto, deberán ser convertidos en nominativos por las emisoras cuando los titulares de los mismos así se lo soliciten, sin necesidad de acuerdo de Asamblea.
+
+A partir del 1o. de enero de 1984 los títulos de crédito al portador a que se refiere este artículo, no podrán seguir circulando o ejercerse los derechos que los mismos lleven incorporados sino se convierten en nominativos. Cuando las emisoras de dichos títulos se nieguen a convertirlos en nominativos, para ejercer los derechos que llevan incorporados deberán depositarse en el Instituto Nacional para el Depósito de Valores, quedando autorizado dicho instituto para expedir certificados de depósito nominativos que amparen los títulos de crédito al portador depositados, dichos certificados tendrán el carácter de títulos de crédito no negociable y se regirán por las disposiciones del Capítulo VI del Título I de la Ley General de Títulos y Operaciones de Crédito. Los títulos de crédito al portador depositados en los términos de este párrafo se canjearán por títulos nominativos emitidos por la sociedad emisora. Asimismo los titulares de los títulos que se depositen en los términos de este párrafo, deberán presentar aviso ante la Dirección General de Fiscalización de la Secretaría de Hacienda y Crédito Público, manifestando la negativa de la emisora de convertir a nominativos los títulos expedidos al portador.
+
+A partir del 1o. de enero de 1984 las emisoras de títulos de crédito al portador a que se refiere este artículo, no podrán pagar los intereses o dividendos o permitir el ejercicio de los demás derechos derivados de dichos títulos, mientras no se cumpla respecto de los mismos con lo dispuesto en el párrafo anterior.
 
 ## TRANSITORIO
 
