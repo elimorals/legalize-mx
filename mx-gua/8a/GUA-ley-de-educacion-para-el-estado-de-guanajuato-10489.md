@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-10489"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-13"
-last_updated: "1996-08-13"
+last_updated: "2000-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2000.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de agosto de 1996.
 
@@ -47,9 +47,11 @@ LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto regular la educación que impartan el Estado y los Municipios de Guanajuato, así como los organismos descentralizados del sector educativo y los particulares que el Estado haya registrado, o bien, otorgado autorización o reconocimiento de validez oficial de estudios; de conformidad con lo establecido por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2000)</small>
+
 ###### Artículo 2o.
 
-La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, constituyendo un factor determinante para la adquisición de conocimientos y para formar a hombres y mujeres de manera que tengan sentido de solidaridad social.
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura a través de la formación cívico ética; es proceso permanente que contribuye al desarrollo de la persona y a la transformación de la sociedad, constituyendo un factor determinante para la adquisición de conocimientos y que desarrolla en hombres y mujeres, su sentido de solidaridad social.
 
 Además permitirá a los habitantes del Estado de Guanajuato, su formación integral y el fortalecimiento del desarrollo de la Entidad y de la Nación.
 
@@ -121,7 +123,9 @@ VII.- Orientar el aprovechamiento del tiempo libre, fomentando el desarrollo de 
 
 VIII.- Desarrollar la capacidad de comunicación y el uso funcional del razonamiento lógico en la solución de problemas;
 
-IX.- Fomentar el respeto y la protección del ambiente y de los recursos naturales;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2000)</small>
+
+IX.- Fomentar el respeto y la protección al ambiente;
 
 X.- Desarrollar en los educandos la capacidad de hacer análisis crítico, objetivo y científico de la realidad;
 
@@ -129,13 +133,19 @@ XI.- Desarrollar la capacidad creativa hacia la innovación, la expresión y las
 
 XII.- Fomentar una conciencia de respeto a los derechos fundamentales de la persona y de la sociedad como medio de conservar la paz y la convivencia humana;
 
-XIII.- Desarrollar la conciencia en el educando que sobre la base de la justicia, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales, contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2000)</small>
+
+XIII.- Desarrollar en la conciencia del educando que sobre la base de la justicia, del respeto a los derechos humanos, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales; contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida;
 
 XIV.- Desarrollar la conciencia en el educando, para participar en la preservación de la salud, el desarrollo integral de la familia, el trabajo, el ahorro y el bienestar social;
 
 XV.- Promover el desarrollo y la aplicación de las ciencias, métodos y técnicas para elevar el bienestar social mediante el trabajo productivo; y
 
-XVI.- Propiciar en el educando el conocimiento de si mismo y la ubicación en su entorno para lograr su pleno desarrollo, de acuerdo con sus aptitudes vocacionales y su capacidad de relacionarse con los demás.
+XVI.- Propiciar en el educando el conocimiento de si mismo y la ubicación en su entorno para lograr su pleno desarrollo, de acuerdo con sus aptitudes vocacionales y su capacidad de relacionarse con los demás;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2000)</small>
+
+XVII.- Que los educandos desarrollen la autoestima, la responsabilidad familiar, el respeto y la tolerancia a las diferencias, a favor de la construcción de una cultura de igualdad entre los géneros con equidad.
 
 ###### Artículo 10.
 
@@ -574,6 +584,10 @@ Los programas son herramientas de los educadores y educandos para desarrollar lo
 ###### Artículo 55.
 
 Los proyectos educativos deben apoyar y fortalecer el quehacer escolar con miras hacia el logro de su desarrollo pleno y responsable; incluirán en su planeación, los elementos de diagnóstico, objetivos, estrategias y demás que resulten convenientes.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2000)</small>
+
+Los proyectos educativos incluirán en sus contenidos la promoción y respeto a los derechos humanos, considerando la equidad y perspectiva de género.
 
 ###### Artículo 56.
 
@@ -1094,3 +1108,11 @@ LIC. RAMON MARTIN HUERTA.
 EL SECRETARIO DE EDUCACION
 
 ING. FERNANDO RIVERA BARROSO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JUNIO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
