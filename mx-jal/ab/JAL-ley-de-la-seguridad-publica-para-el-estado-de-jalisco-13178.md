@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "2002-12-17"
+last_updated: "2004-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -567,7 +567,9 @@ I. Un Presidente que será el Gobernador del Estado, o la persona que él design
 
 II. Tres Consejeros nombrados por el propio Ejecutivo Estatal;
 
-III. Los Diputados que forman parte de la Comisión permanente de Seguridad Pública, Prevención y Readaptación Social del Honorable Congreso del Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2004)</small>
+
+III. Los diputados que forman parte de las Comisiones Legislativas Permanentes de Seguridad Pública y Protección Civil y de Readaptación Social del Congreso del Estado;
 
 IV. Los primeros ediles de la Zona Metropolitana de Guadalajara, o sus representantes;
 
@@ -879,7 +881,9 @@ III. De los Poderes Legislativo y Judicial del Estado:
 
 A. El Presidente del Supremo Tribunal de Justicia del Estado.
 
-B. El Presidente de la Comisión de Seguridad Pública del Congreso del Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
+
+B. Los presidentes de las comisiones legislativas de Seguridad Pública y Protección Civil y de Readaptación Social del Congreso del Estado;
 
 IV. Los Presidentes Municipales de las Cabeceras de los partidos judiciales en el Estado.
 
@@ -1192,3 +1196,7 @@ P.O. 17 DE DICIEMBRE DE 2002.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Conforme a lo establecido en la fracción V del artículo 13, el Estado y los municipios tendrán un plazo de 90 días a partir de la entrada en vigor de este decreto, a fin de que establezcan los mecanismos necesarios para el cumplimiento de esta disposición.
+
+P.O. 3 DE JULIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
