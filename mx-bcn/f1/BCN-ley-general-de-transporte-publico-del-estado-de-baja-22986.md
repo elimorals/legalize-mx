@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2001-11-09"
+last_updated: "2002-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -451,7 +451,9 @@ TERCERO.- Las disposiciones normativas y reglamentarias de carácter fiscal y la
 
 CUARTO.- Para los efectos de esta Ley, continúan vigentes las disposiciones del Reglamento de Tránsito y Transportes del Estado de Baja California publicado en el Periódico Oficial número 29 de fecha 30 de septiembre de 1983, que no se opongan a la misma; hasta en tanto sean expedidos los reglamentos municipales.
 
-QUINTO.- Los Ayuntamientos, expedirán los reglamentos correspondientes en sus respectivas jurisdicciones territoriales, dentro de los noventa días siguientes contados a partir de la fecha de entrada en vigor de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2002)</small>
+
+QUINTO.- Los Ayuntamientos expedirán los reglamentos correspondientes en sus respectivas jurisdicciones territoriales, dentro de un año contado a partir de la fecha de entrada en vigor de esta Ley.
 
 SEXTO.- Los titulares de los permisos y concesiones expedidos y otorgados por el Ejecutivo del Estado durante la vigencia de la ley que se abroga, dentro de un plazo de seis meses contados a partir del día siguiente en que entre en vigor el reglamento municipal correspondiente, deberán presentar ante la autoridad municipal correspondiente, de manera personal o mediante apoderado legal suficiente, el documento original del permiso o concesión para que sin costo o cargo alguno, sea ratificado bajo las mismas características, condiciones, término, ruta, itinerario y naturaleza de su otorgamiento original, expidiéndosele en consecuencia un nuevo documento.
 
@@ -480,3 +482,9 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JUNIO DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
