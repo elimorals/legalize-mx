@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-07-06"
+last_updated: "2000-07-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION:13 DE JULIO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -303,7 +303,9 @@ XIX.- DECIMO NOVENO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en la ciudad de Matamoros, uno con sede en Ciudad Reynosa y uno con residencia en la ciudad de Nuevo Laredo.
 
-3.- Diez juzgados de distrito: dos con sede en Ciudad Victoria, dos con residencia en la ciudad de Nuevo Laredo, dos con sede en la ciudad de Matamoros, dos con residencia en Ciudad Reynosa y dos con sede en la ciudad de Tampico.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 40/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2000)</small>
+
+3.- Once juzgados de distrito: dos con sede en Ciudad Victoria, tres con residencia en la ciudad de Nuevo Laredo, dos con sede en la ciudad de Matamoros, dos con residencia en Ciudad Reynosa y dos con sede en la ciudad de Tampico.
 
 XX.- VIGESIMO CIRCUITO:
 
@@ -615,7 +617,9 @@ XIX.- DECIMO NOVENO CIRCUITO:
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemes, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto La Marina, Tula, Victoria, Villagrán y Xicoténcatl.
 
-Los Juzgados Tercero y Cuarto de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el Municipio de Nuevo Laredo.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 40/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2000)</small>
+
+Los Juzgados Tercero, Cuarto y Decimoprimero de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el Municipio de Nuevo Laredo.
 
 Los Juzgados Quinto y Sexto de Distrito en el Estado de Tamaulipas, con residencia en la ciudad de Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
 
@@ -1008,3 +1012,9 @@ PRIMERO.- Este Acuerdo entrará en vigor el diez de julio de dos mil.
 SEGUNDO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Acuerdo.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE JULIO DE 2000.
+
+PRIMERO.- Este Acuerdo entrará en vigor el uno de agosto de dos mil.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
