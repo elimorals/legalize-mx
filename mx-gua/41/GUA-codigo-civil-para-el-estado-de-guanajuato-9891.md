@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1974-10-20"
+last_updated: "1980-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1980.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -57,7 +57,7 @@ A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuic
 
 ###### Art. 5.
 
-La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Solo pueden renunciarse los derechos privados que no afecten al interés público, cuando la renuncia no perjudique derechos de tercero.
+La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Sólo pueden renunciarse los derechos privados que no afecten al interés público, cuando la renuncia no perjudique derechos de tercero.
 
 ###### Art. 6.
 
@@ -291,11 +291,13 @@ El estado civil de las personas sólo se comprueba con las constancias relativas
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las hojas en que se pueda suponer se encontraba el acta, se podrá recibir prueba del acto o del hecho de que se trate; pero si uno sólo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1980)</small>
 
 ###### Art. 49.
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Secretario General del Gobierno y llevarán el sello de la Secretaría en el centro de manera que abarque las dos caras de las hojas que los integran; se renovarán cada año, y un ejemplar quedará en el Archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General del Gobierno para que se deposite en una sección especializada del Archivo General.
+Todos los libros del Registro Civil serán visados en su primera y última hoja por el Secretario General del Gobierno o por el Jefe del Departamento del Registro Civil y llevarán el sello de la Secretaría en el centro, de manera que abarque las dos caras de las hojas que los integran; se renovarán cada año, y un ejemplar quedará en el Archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General del Gobierno para que se deposite en una sección especializada del Archivo General.
+
+Las copias certificadas de las actas del Registro Civil que se expidan en el Archivo General del Gobierno, deberán ser autorizadas por el Secretario General del Gobierno o por el Jefe del Departamento del Registro Civil.
 
 ###### Art. 50.
 
@@ -360,8 +362,6 @@ Tienen obligación de registrar el nacimiento: el padre o la madre, dentro de lo
 Los médicos, cirujanos o matronas que hubiesen atendido el parto, deberán dar aviso del nacimiento al Oficial del Registro Civil, dentro de los treinta días siguientes. La misma obligación tienen el administrador del sanatorio y el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
 Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
-
-> <small>(N. DE E. CONFORME AL DECRETO NUMERO 102 PUBLICADO EN EL P.O. 20 DE OCTUBRE DE 1974, SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LO QUE RESTA DEL AÑO DE 1974)</small>
 
 ###### Art. 64.
 
@@ -631,7 +631,7 @@ El Oficial del Registro Civil que tenga conocimiento de que los pretendientes ti
 
 ###### Art. 109.
 
-Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas por el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
 ###### Art. 110.
 
@@ -1467,7 +1467,7 @@ Si al hacerse la donación no se formó inventario de los bienes del donador, no
 
 ###### Art. 283.
 
-Las donaciones antenupciales no necesitan para su validez de aceptación expresa ni se revocan por sobrevivir hijos al donante.
+Las donaciones antenupciales no necesitan para su validez de aceptación expresa ni se revocan por sobrevenir hijos al donante.
 
 ###### Art. 284.
 
@@ -1545,7 +1545,7 @@ La nulidad por falta de consentimiento del tutor o de las autoridades a que se r
 
 ###### Art. 297.
 
-Aunque el parentesco de consanguinidad no dispensado anula el matrimonio, si después de conocida la causa de nulidad se obtuviere dispensa y ambos cónyuges quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos los efectos legales desde el día en que primeramente se contrajo.
+Aunque el parentesco de consanguinidad no dispensado anula el matrimonio, si después de conocida la causa de nulidad se obtuviere dispensa y ambos cónyuges quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
 ###### Art. 298.
 
@@ -1609,7 +1609,7 @@ Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca
 
 ###### Art. 311.
 
-El matrimonio contraído de buena fe aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubiesen separado los cónyuges o desde su separación, en caso contrario.
+El matrimonio contraído de buena fe aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubiesen separado los cónyuges, o desde su separación, en caso contrario.
 
 ###### Art. 312.
 
@@ -1623,7 +1623,7 @@ La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
 ###### Art. 314.
 
-Si la demanda de nulidad fuera entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 336.
+Si la demanda de nulidad fuera entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 336.
 
 ###### Art. 315.
 
@@ -1685,7 +1685,7 @@ IV. La incitación o la violencia hecha por un cónyuge al otro para cometer alg
 
 V. Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
 
-VI. Padecer cualquier enfermedad crónica o incurable que sea además contagiosa o que científicamente haga prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio o padecer impotencia incurable, siempre que no se esté en alguna de las excepciones señaladas por la fracción VIII del artículo 153. No es causa de divorcio la impotencia en uno sólo de los cónyuges si sobrevino al matrimonio y como consecuencia natural de la edad;
+VI. Padecer cualquier enfermedad crónica o incurable que sea además contagiosa o que científicamente haga prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio o padecer impotencia incurable, siempre que no se esté en alguna de las excepciones señaladas por la fracción VIII del artículo 153. No es causa de divorcio la impotencia en uno solo de los cónyuges si sobrevino al matrimonio y como consecuencia natural de la edad;
 
 VII. Padecer enajenación mental incurable;
 
@@ -1855,7 +1855,7 @@ La línea es recta o transversal. La recta se compone de la serie de grados entr
 
 ###### Art. 352.
 
-La línea recta es ascendente o descendente; ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende
+La línea recta es ascendente o descendente; ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
 
 ###### Art. 353.
 
@@ -1873,7 +1873,7 @@ La obligación de dar alimentos es recíproca: el que los da, tiene a su vez el 
 
 ###### Art. 356.
 
-Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio y en los otros que la misma ley señale.
+Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y en los otros que la misma ley señale.
 
 ###### Art. 357.
 
@@ -2087,7 +2087,7 @@ La filiación de los hijos nacidos de matrimonio se prueba con la partida de nac
 
 A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
 
-Si uno sólo de los registros faltare o estuviere inutilizado y existe duplicado, de éste deberá tomarse la prueba sin admitirla de otra clase.
+Si uno solo de los registros faltare o estuviere inutilizado y existe duplicado, de éste deberá tomarse la prueba sin admitirla de otra clase.
 
 ###### Art. 398.
 
@@ -2165,7 +2165,7 @@ Para que el hijo goce del derecho que le concede el artículo que precede, los p
 
 ###### Art. 412.
 
-Si el hijo fue reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de Nacimiento.
+Si el hijo fue reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
 
 ###### Art. 413.
 
@@ -2183,7 +2183,7 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casars
 
 ###### Art. 416.
 
-La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre del sólo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario, porque así lo presume la ley o por la sentencia que declare la paternidad.
+La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre del solo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario, porque así lo presume la ley o por la sentencia que declare la paternidad.
 
 ###### Art. 417.
 
@@ -2271,7 +2271,7 @@ El término para deducir esta acción será de cuatro años, que comenzará a co
 
 ###### Art. 434.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación Y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada.
+La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada.
 
 El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
 
@@ -2321,7 +2321,7 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 ###### Art. 443.
 
-El hecho de dar alimentos no constituye por sí sólo prueba, ni aun presunción de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+El hecho de dar alimentos no constituye por sí sólo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
 ###### Art. 444.
 
@@ -2727,7 +2727,7 @@ No pueden ser tutores o curadores dativos los que desempeñen el cargo de Juez d
 
 ###### Art. 514.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien debe nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia, competente en materia civil, del domicilio del incapacitado, dentro de los ocho días, a fin de que se provea a la tutela, bajo la pena de veinte a quinientos pesos de multa.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien debe nombrarse tutor, su ejecutor testamentario, y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia, competente en materia civil, del domicilio del incapacitado, dentro de los ocho días, a fin de que se provea a la tutela, bajo la pena de veinte a quinientos pesos de multa.
 
 Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales en su caso, tienen la obligación de dar aviso a los Jueces de Primera Instancia competentes en materia civil, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -2775,7 +2775,7 @@ que deben ser separadas de ella
 
 ###### Art. 524.
 
-El ascendiente que sobreviva, de los dos que en cada grado deban ejercer la patria potestad conforme a lo dispuesto en el artículo 468, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerzan con inclusión del hijo póstumo.
+El ascendiente que sobreviva, de los dos que en cada grado deban ejercer la patria potestad conforme a lo dispuesto en el artículo 468, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza con inclusión del hijo póstumo.
 
 ###### Art. 525.
 
@@ -2839,7 +2839,7 @@ La tutela legítima corresponde:
 
 I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 
-II. Por falta o incapacidad de los hermanos, a los de más colaterales dentro del cuarto grado inclusive.
+II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
 
 ###### Art. 538.
 
@@ -2873,7 +2873,7 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 ###### Art. 545.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
+El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
 ### Capítulo X. Del desempeño de la tutela
 
@@ -2921,7 +2921,7 @@ Siempre será dativa la tutela para asuntos judiciales del menor de edad emancip
 
 ###### Art. 554.
 
-A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a instancia del Ministerio Público, del mismo menor, de la autoridad política del domicilio del menor y aun de oficio por el Juez de Primera Instancia de lo Civil del domicilio de dicho menor.
+A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a instancia del Ministerio Público, del mismo menor, de la autoridad política del domicilio del menor y aún de oficio por el Juez de Primera Instancia de lo Civil del domicilio de dicho menor.
 
 ###### Art. 555.
 
@@ -3051,7 +3051,7 @@ Mientras que se califica el impedimento o la excusa, el Juez nombrará un tutor 
 
 ###### Art. 570.
 
-El autor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
 
 ###### Art. 571.
 
@@ -3087,7 +3087,7 @@ IV. Los que acojan a un expósito, lo alimenten y eduquen convenientemente por m
 
 ###### Art. 575.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del Juez y previa audiencia del curador y Ministerio Público, haga necesaria aquella.
+Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del Juez y previa audiencia del curador y Ministerio Público, haga necesaria aquélla.
 
 ###### Art. 576.
 
@@ -3157,7 +3157,7 @@ Cuando el tutor tenga que administrar bienes, no podrá entrar a la administraci
 
 ###### Art. 590.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; más ningún extraño puede rehusarse a tratar con el judicial o extrajudicialmente alegando la falta del curador.
+El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta del curador.
 
 ###### Art. 591.
 
@@ -3273,7 +3273,7 @@ El tutor que no haga las inversiones dentro de los plazos señalados en los dos 
 
 ###### Art. 614.
 
-Mientras se hacen las inversiones a que se refieren los artículos 611 y 612, el tutor depositara las cantidades que perciba en Institución de Crédito o en establecimiento público destinado al efecto.
+Mientras se hacen las inversiones a que se refieren los artículos 611 y 612, el tutor depositará las cantidades que perciba en Institución de Crédito o en establecimiento público destinado al efecto.
 
 ###### Art. 615.
 
@@ -3311,7 +3311,7 @@ Para que el tutor transija, cuando el objeto de la reclamación consista en bien
 
 ###### Art. 623.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, descendientes, sin limitación de grado ni colaterales por consanguinidad dentro del cuando grado o afinidad dentro del segundo grado. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, descendientes, sin limitación de grado ni colaterales por consanguinidad dentro del cuarto grado o afinidad dentro del segundo grado. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ###### Art. 624.
 
@@ -4143,11 +4143,11 @@ Las anotaciones e inscripciones que hagan las oficinas del Registro Público con
 
 ###### Art. 791.
 
-Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio
+Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
 
 ###### Art. 792.
 
-Están fuera del comercio, por su naturaleza, las cosas que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley las que ella declare irreductibles a propiedad particular
+Están fuera del comercio, por su naturaleza, las cosas que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley las que ella declare irreductibles a propiedad particular.
 
 ## Título Segundo. Clasificación de los bienes
 
@@ -4269,11 +4269,11 @@ Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos 
 
 ###### Art. 812.
 
-Cuando conforme a la ley pueda enajenarse y se enajene una vía pública, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, a cuyo efecto se les dará aviso de la enajenación. El derecho que este artículo concede deberá ejercitarse precisamente dentro de los quince días siguientes al aviso. Cuando éste no se haya dado, los colindantes podrán ejercitar el derecho de retracto en virtud del cual se subrogarán, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión. El tiempo para ejercer el retracto será de treinta días contados a partir de la fecha en que se haya tenido conocimiento de la enajenación.
+Cuando conforme a la ley pueda enajenarse y se enajene una vía pública, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, a cuyo efecto se les dará aviso de la enajenación. El derecho que este artículo concede deberá ejercitarse precisamente dentro de los quince días siguientes al aviso. Cuando éste no se haya dado, los colindantes podrán ejercitar el derecho de retracto en virtud del cual se subrogarán, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión. El tiempo para ejercer el retracto será de treinta días contados a partir de la fecha en que haya tenido conocimiento de la enajenación.
 
 ###### Art. 813.
 
-Son bienes de propiedad de los particulares todas las cosas cuyo dominio les pertenece legalmente, y de las que no puede aprovecharse ninguno sin consentimiento del dueño o autorización de la ley
+Son bienes de propiedad de los particulares todas las cosas cuyo dominio les pertenece legalmente, y de las que no puede aprovecharse ninguno sin consentimiento del dueño o autorización de la ley.
 
 ### Capítulo IV. De la apropiación de los animales
 
@@ -4341,7 +4341,7 @@ El que se aproveche de un bien vacante sin cumplir con lo previsto en este capí
 
 ###### Art. 828.
 
-El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes
+El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes.
 
 ###### Art. 829.
 
@@ -4409,7 +4409,7 @@ No se pueden tener ventanas ni balcones u otros voladizos semejantes, sobre la p
 
 ###### Art. 844.
 
-La distancia de que habla el artículo anterior se mide desde la línea de separación de las dos propiedades
+La distancia de que habla el artículo anterior se mide desde la línea de separación de las dos propiedades.
 
 ###### Art. 845.
 
@@ -4451,7 +4451,7 @@ Se considera capturado el animal que ha sido muerto por el cazador durante el ac
 
 ###### Art. 854.
 
-Si la pieza herida muriere en terrenos ajenos, el propietario de éstos, o quien lo represente, deberá entregarla al cazador o permitir que entre a buscarla
+Si la pieza herida muriere en terrenos ajenos, el propietario de éstos, o quien lo represente, deberá entregarla al cazador o permitir que entre a buscarla.
 
 ###### Art. 855.
 
@@ -4463,7 +4463,7 @@ El hecho de entrar los perros de caza en terreno ajeno sin la voluntad del cazad
 
 ###### Art. 857.
 
-La acción para pedir reparación prescribe a los treinta días, contados desde la fecha en que se causo el daño.
+La acción para pedir reparación prescribe a los treinta días, contados desde la fecha en que se causó el daño.
 
 ###### Art. 858.
 
@@ -4641,7 +4641,7 @@ El dueño de las semillas, plantas o materiales nunca tendrá derecho a pedir qu
 
 ###### Art. 897.
 
-Cuando las semillas o los materiales no estén aun aplicados en su objeto, ni confundidos con otros, pueden reivindicarse por el dueño.
+Cuando las semillas o los materiales no estén aún aplicados en su objeto, ni confundidos con otros, pueden reivindicarse por el dueño.
 
 ###### Art. 898.
 
@@ -4649,7 +4649,7 @@ El dueño del terreno en que se edifique, siembre o plante de buena fe, tendrá 
 
 ###### Art. 899.
 
-El que edifica, planta o siembra de mala fe en terreno ajeno, pierde lo edificado, plantado o sembrado, sin que tenga derecho a reclamar indemnización alguna al dueño del suelo ni de retener la cosa.
+El que edifica, planta o siembra de mala fe en terreno ajeno, pierde lo edificado, plantado o sembrado, sin que tenga derecho a reclamar indemnización alguna del dueño del suelo ni de retener la cosa.
 
 ###### Art. 900.
 
@@ -4657,7 +4657,7 @@ El dueño del terreno en que se haya edificado con mala fe podrá pedir la demol
 
 ###### Art. 901.
 
-Cuando haya mala fe, no sólo por parte del que edificare, sino por parte del dueño, se entenderá compensada esa circunstancia y se arreglarán los derechos de uno y otro conforme a lo resuelto para el caso de haberse procedido de buena fe.
+Cuando haya mala fe, no sólo por parte del que edificare, sino por parte del dueño, se entenderá compensada esta circunstancia y se arreglarán los derechos de uno y otro conforme a lo resuelto para el caso de haberse procedido de buena fe.
 
 ###### Art. 902.
 
@@ -4691,7 +4691,7 @@ Los dueños de las heredades confinantes con las lagunas o estanques no adquiere
 
 ###### Art. 908.
 
-Cuando la fuerza del río arranca una porción considerable y reconocible de un campo ribereño y la lleva a otro inferior o a la ribera opuesta, el propietario de la porción arrancada puede reclamar su propiedad, haciéndolo dentro de dos años, contados desde el acaecimiento; pasado este plazo, perderá su derecho de propiedad, a menos que el propietario del campo a que se unió la porción arrancada no haya aun tomado posesión de ella.
+Cuando la fuerza del río arranca una porción considerable y reconocible de un campo ribereño y la lleva a otro inferior o a la ribera opuesta, el propietario de la porción arrancada puede reclamar su propiedad, haciéndolo dentro de dos años, contados desde el acaecimiento; pasado este plazo, perderá su derecho de propiedad, a menos que el propietario del campo a que se unió la porción arrancada no haya aún tomado posesión de ella.
 
 ###### Art. 909.
 
@@ -4733,7 +4733,7 @@ Cuando las cosas unidas no puedan separarse sin que la que se reputa accesoria s
 
 ###### Art. 918.
 
-Cuando el dueño de la cosa accesoria es el que ha hecho la incorporación, la pierde si ha obrado de mala fe, y ésta, además, obligado a indemnizar al propietario de los perjuicios que se hayan seguido a causa de la incorporación.
+Cuando el dueño de la cosa accesoria es el que ha hecho la incorporación, la pierde si ha obrado de mala fe, y está, además, obligado a indemnizar al propietario de los perjuicios que se hayan seguido a causa de la incorporación.
 
 ###### Art. 919.
 
@@ -4791,7 +4791,7 @@ La mala fe en los casos de especificación se calificará conforme a lo que disp
 
 ###### Art. 930.
 
-Hay copropiedad cuando una cosa o un derecho pertenecen por indiviso a varias personas.
+Hay copropiedad cuando una cosa o un derecho pertenecen pro indiviso a varias personas.
 
 ###### Art. 931.
 
@@ -4839,7 +4839,7 @@ Cuando parte del bien perteneciere exclusivamente a un copropietario o a algunos
 
 ###### Art. 942.
 
-Todo condueño es propietario de la parte alícuota del bien o bienes de que se trate; puede enajenarla, cederla o hipotecarla, salvo el derecho del tanto y en su caso de retracto de los demás copartícipes; y puede aun substituir a otra persona en su aprovechamiento, excepto si se tratare del uso, habitación o de algún otro derecho personal, pero sólo la partición legalmente hecha confiere a cada comunero la propiedad o titularidad exclusiva de los bienes que se les hayan adjudicado en la división.
+Todo condueño es propietario de la parte alícuota del bien o bienes de que se trate; puede enajenarla, cederla o hipotecarla, salvo el derecho del tanto y en su caso de retracto de los demás copartícipes; y puede aún substituir a otra persona en su aprovechamiento, excepto si se tratare del uso, habitación o de algún otro derecho personal, pero sólo la partición legalmente hecha confiere a cada comunero la propiedad o titularidad exclusiva de los bienes que se les hayan adjudicado en la división.
 
 ###### Art. 943.
 
@@ -4851,7 +4851,7 @@ El derecho del tanto se pierde por el solo transcurso de los quince días, si no
 
 ###### Art. 944.
 
-Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que habla adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
+Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
 
 El término para ejercer el retracto es de quince días contados a partir de la fecha en que el retrayente haya tenido conocimiento de la enajenación.
 
@@ -4865,7 +4865,7 @@ La copropiedad cesa por la división de la cosa común, por la destrucción o p�
 
 ###### Art. 947.
 
-La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenezcan antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquirente de buena fe que inscriba su título en el Registro Público
+La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenezcan antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquirente de buena fe que inscriba su título en el Registro Público.
 
 ###### Art. 948.
 
@@ -4879,7 +4879,7 @@ Son aplicables a la división entre participes las reglas concernientes a la div
 
 ###### Art. 950.
 
-Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si consta que se fabricó por los colindantes, o no consta quien la fabricó, es de propiedad común.
+Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si consta que se fabricó por los colindantes, o no consta quién la fabricó, es de propiedad común.
 
 ###### Art. 951.
 
@@ -4929,7 +4929,7 @@ La presunción que establece el artículo anterior cesa cuando la inclinación d
 
 ###### Art. 957.
 
-Los dueños de los predios están obligados a cuidar de que no se deteriore la pared, zanja o seto de propiedad común, y si por el hecho de algunos de sus dependientes o animales, o por cualquiera otra causa que dependa de ellos se deterioren, debe reponerlos, pagando los daños y perjuicios que se hubieren causado.
+Los dueños de los predios están obligados a cuidar de que no se deteriore la pared, zanja o seto de propiedad común, y si por el hecho de algunos de sus dependientes o animales, o por cualquiera otra causa que dependa de ellos se deterioraren, debe reponerlos, pagando los daños y perjuicios que se hubieren causado.
 
 ###### Art. 958.
 
@@ -4945,7 +4945,7 @@ El propietario de un edificio que se apoya en una pared común, puede al derriba
 
 ###### Art. 961.
 
-El propietario de una finca contigua a una pared divisoria que no sea común, sólo puede darle este carácter en todo o en parte, por contrato con el dueño de ella
+El propietario de una finca contigua a una pared divisoria que no sea común, sólo puede darle este carácter en todo o en parte, por contrato con el dueño de ella.
 
 ###### Art. 962.
 
@@ -4965,7 +4965,7 @@ En los casos señalados por los artículos 962 y 963, la pared continúa siendo 
 
 ###### Art. 966.
 
-Los demás propietarios que no hayan contribuido a dar más elevación o espesor a la pared podrán sin embargo, adquirir en la parte nuevamente elevada los derechos de copropiedad, pagando proporcionalmente el valor de la obra y la mitad del valor del terreno sobre que se hubiere dado mayor espesor
+Los demás propietarios que no hayan contribuido a dar más elevación o espesor a la pared podrán sin embargo, adquirir en la parte nuevamente elevada los derechos de copropiedad, pagando proporcionalmente el valor de la obra y la mitad del valor del terreno sobre que se hubiere dado mayor espesor.
 
 ###### Art. 967.
 
@@ -5545,11 +5545,11 @@ El poseedor de buena fe a que se refiere el artículo anterior no responde del d
 
 ###### Art. 1060.
 
-El que posee por menos de un año, a título translativo de dominio y con mala fe, siempre que no ha ya obtenido la posesión por medio delictuoso, está obligado:
+El que posee por menos de un año, a título traslativo de dominio y con mala fe, siempre que no haya obtenido la posesión por medio delictuoso, está obligado:
 
 I. A restituir los frutos percibidos;
 
-II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el solo transcurso del tiempo.
+II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el sólo transcurso del tiempo.
 
 Tiene derecho a que se le reembolsen los gastos necesarios.
 
@@ -5701,15 +5701,15 @@ Los frutos civiles pertenecen al usufructuario en proporción del tiempo que dur
 
 ###### Art. 1090.
 
-En caso de que el usufructo comprendiera cosas que se deterioren por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino; no estará obligado a restituirlas al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación da indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
+En caso de que el uufructo (sic) comprendiera cosas que se deterioren por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino; no estará obligado a restituirlas al concluir el usufructo, sino en el estado en que se encuentren; pero tiene obligación de indemnizar al propietario del deterioro que hubieren sufrido por dolo o negligencia.
 
 ###### Art. 1091.
 
-Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituirlas, al terminar el usufructo, en igual genero, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueren estimadas.
+Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituirlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueren estimadas.
 
 ###### Art. 1092.
 
-Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario solo hace suyos éstos y no aquellos, y aun cuando el capital se redima, debe volverse a imponer a satisfacción del usufructuario y propietario.
+Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquellos, y aun cuando el capital se redima; debe volverse a imponer a satisfacción del usufructuario y propietario.
 
 ###### Art. 1093.
 
@@ -5763,7 +5763,7 @@ II. A dar la correspondiente fianza de que disfrutará de las cosas con moderaci
 
 ###### Art. 1104.
 
-El donador que se reserve el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello
+El donador que se reserve el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello.
 
 ###### Art. 1105.
 
@@ -5927,7 +5927,7 @@ El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta eda
 
 ###### Art. 1139.
 
-Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; más si estuviere constituido sobre una hacienda, quinta o rancho de que solo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
+Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; mas si estuviere constituido sobre una hacienda, quinta o rancho de que sólo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
 
 ###### Art. 1140.
 
@@ -5965,7 +5965,7 @@ La habitación da, a quien tiene este derecho, la facultad de ocupar gratuitamen
 
 ###### Art. 1148.
 
-El usuario y el que tiene derecho de habitación en un edificio no pueden enajenar, gravar ni arrendar en todo ni en parte su derecho a otro, no estos derechos pueden ser embargados por sus acreedores.
+El usuario y el que tiene derecho de habitación en un edificio no pueden enajenar, gravar ni arrendar en todo ni en parte su derecho a otro, ni estos derechos pueden ser embargados por sus acreedores.
 
 ###### Art. 1149.
 
@@ -6027,7 +6027,7 @@ Las servidumbres son inseparables del inmueble a que activa o pasivamente perten
 
 ###### Art. 1162.
 
-Si los inmuebles mudan de dueño la servidumbre continua, ya activa, ya pasivamente, en el inmueble en que estaba constituída, hasta que legalmente se extinga.
+Si los inmuebles mudan de dueño la servidumbre continúa, ya activa, ya pasivamente, en el inmueble en que estaba constituída, hasta que legalmente se extinga.
 
 ###### Art. 1163.
 
@@ -6097,7 +6097,7 @@ El que ejercite el derecho de hacer pasar las aguas de que trata el artículo 11
 
 ###### Art. 1178.
 
-El que tiene en su predio un canal o tubería para el curso de aguas que le pertenecen, puede impedir la apertura de otros, ofreciendo dar paso por aquellos, con tal de que no cause perjuicio al dueño del predio dominante.
+El que tiene en su predio un canal o tubería para el curso de aguas que le pertenecen, puede impedir la apertura de otros, ofreciendo dar paso por aquéllos, con tal de que no cause perjuicio al dueño del predio dominante.
 
 ###### Art. 1179.
 
@@ -6189,7 +6189,7 @@ Si este lugar es calificado de la misma manera que el primero, el Juez señalar�
 
 ###### Art. 1198.
 
-Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquél por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cual de los dos predios ha de dar el paso
+Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso.
 
 ###### Art. 1199.
 
@@ -6231,7 +6231,7 @@ Si fueran varios los propietarios de un inmueble no se podrán imponer servidumb
 
 ###### Art. 1208.
 
-Si siendo varios los propietarios, uno sólo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
+Si siendo varios los propietarios, uno solo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
 
 ### Capítulo lII. De la prescripción negativa
 
@@ -6253,7 +6253,7 @@ La existencia de un signo aparente de servidumbre entre dos fincas, establecida 
 
 ###### Art. 1213.
 
-Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquella, cesan también estos derechos accesorios.
+Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquélla, cesan también estos derechos accesorios.
 
 ### Capítulo IV. De la suspensión de la prescripción
 
@@ -6309,7 +6309,7 @@ II. Por el no uso.
 
 Cuando la servidumbre fuere continua y aparente, por el no uso de tres años, contados desde el día en que dejó de existir el signo aparente de la servidumbre.
 
-Cuando fuere discontinua o no aparente por el no uso de cinco años, contados desde el día en que dejó de usarse por haber ejecutado el dueño del fundo sirviente acto contrario a la servidumbre, o por haber prohibido que se usará de ella. Si no hubo acto contrario o prohibición, aunque no se haya usado de la servidumbre, o si hubo tales actos, pero continuare el uso, no corre el tiempo de la prescripción;
+Cuando fuere discontinua o no aparente por el no uso de cinco años, contados desde el día en que dejó de usarse por haber ejecutado el dueño del fundo sirviente acto contrario a la servidumbre, o por haber prohibido que se usara de ella. Si no hubo acto contrario o prohibición, aunque no se haya usado de la servidumbre, o si hubo tales actos, pero continuare el uso, no corre el tiempo de la prescripción;
 
 III. Cuando los predios lleguen sin culpa del dueño del predio sirviente a tal estado que no pueda usarse de la servidumbre. Si en lo sucesivo los predios se restablecen de manera que pueda usarse de la servidumbre, revivirá ésta, a no ser que desde el día en que pudo volverse a usar haya transcurrido el tiempo suficiente para la prescripción;
 
@@ -6319,7 +6319,7 @@ V. Cuando constituída en virtud de un derecho revocable, se venza el plazo, se 
 
 ###### Art. 1225.
 
-Si los predios entre los que está constituida una servidumbre legal pasan a poder de un mismo dueño, deja de existir la servidumbre, pero separadas nuevamente las propiedades, revive aquella, aun cuando no se haya conservado ningún signo aparente.
+Si los predios entre los que está constituida una servidumbre legal pasan a poder de un mismo dueño, deja de existir la servidumbre, pero separadas nuevamente las propiedades, revive aquélla, aun cuando no se haya conservado ningún signo aparente.
 
 ###### Art. 1226.
 
@@ -6335,15 +6335,15 @@ II. Si la servidumbre es de uso público, el convenio es nulo en todo caso;
 
 III. Si la servidumbre es de paso o desagüe, el convenio se entenderá celebrado con la condición de que lo aprueben los dueños de los predios circunvecinos, o por lo menos, el dueño del predio por donde nuevamente se constituya la servidumbre;
 
-IV. La renuncia de la servidumbre legal de desagüe, solo será válida cuando no se oponga a los reglamentos respectivos.
+IV. La renuncia de la servidumbre legal de desagüe, sólo será válida cuando no se oponga a los reglamentos respectivos.
 
 ###### Art. 1228.
 
-Si el predio dominante pertenece a varios dueños proindiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción
+Si el predio dominante pertenece a varios dueños proindiviso, el uso que haga uno de ellos aprovecha a los demás para impedir la prescripción.
 
 ###### Art. 1229.
 
-Si entre los propietarios hubiere alguno contra quien por leyes especiales no puede correr la prescripción, ésta no correrá contra los demás.
+Si entre los propietarios hubiere alguno contra quien por leyes especiales no puede correr la prescripción, esta no correrá contra los demás.
 
 ###### Art. 1230.
 
@@ -6371,7 +6371,7 @@ Pueden adquirir por prescripción positiva todos los que son capaces de adquirir
 
 ###### Art. 1235.
 
-Para los efectos de los artículos 1074 y 1075, se dice legalmente cambiada la causa de la posesión, cuando el poseedor que no poseía a título de dueño comienza a poseer con este carácter, y en tal caso la prescripción no corre sino desde el día en que se haya cambiado la causa de la posesión
+Para los efectos de los artículos 1074 y 1075, se dice legalmente cambiada la causa de la posesión, cuando el poseedor que no poseía a título de dueño comienza a poseer con este carácter, y en tal caso la prescripción no corre sino desde el día en que se haya cambiado la causa de la posesión.
 
 ###### Art. 1236.
 
@@ -6391,7 +6391,7 @@ Los acreedores y todos los que tuvieren legítimo interés en que la prescripci�
 
 ###### Art. 1240.
 
-Si varias personas poseen en común alguna cosa no puede ninguna de ellas prescribir; contra sus copropietarios o coposeedores; pero sí puede prescribir contra un extraño y en este caso la prescripción aprovecha a todos los participes.
+Si varias personas poseen en común alguna cosa no puede ninguna de ellas prescribir; contra sus copropietarios o coposeedores; pero sí puede prescribir contra un extraño y en este caso la prescripción aprovecha a todos los partícipes.
 
 ###### Art. 1241.
 
@@ -6493,13 +6493,9 @@ II. La acción de cualquier comerciante para cobrar el precio de objetos vendido
 
 La prescripción corre desde el día en que fueron entregados los objetos, si la venta no se hizo a plazo;
 
-III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren.
+III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
-La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquél en que se ministraron los alimentos;
-
-IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos.
-
-La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquél en que se causó el daño;
+IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
 
 V. La responsabilidad civil proveniente de actos ilícitos que no constituyen delitos.
 
@@ -6605,7 +6601,7 @@ Cuando la prescripción se cuente por días, se entenderán éstos de veinticuat
 
 ###### Art. 1277.
 
-El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquél en que la prescripción termina, debe ser completo.
+El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquel en que la prescripción termina, debe ser completo.
 
 ###### Art. 1278.
 
@@ -6845,7 +6841,7 @@ El contrato es bilateral cuando las partes se obligan recíprocamente.
 
 ###### Art. 1324.
 
-Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+Es contrato oneroso aquel en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
 
 ###### Art. 1325.
 
@@ -6971,7 +6967,7 @@ IV. El caso fortuito o fuerza mayor que hagan imposible el cumplimiento del cont
 
 ###### Art. 1350.
 
-El contrato se rescinde en los casos que de acuerdo con este Código sea procedente la rescisión
+El contrato se rescinde en los casos que de acuerdo con este Código sea procedente la rescisión.
 
 ###### Art. 1351.
 
@@ -6987,7 +6983,7 @@ Esta causa de resolución no surtirá efecto su la contraparte acepta modificar 
 
 ###### Art. 1352.
 
-En los casos de los artículos 1349, fracción IV, 1350 y 1351, fracciones II y lII, para que opere la terminación del contrato será necesaria la resolución judicial
+En los casos de los artículos 1349, fracción IV, 1350 y 1351, fracciones II y lII, para que opere la terminación del contrato será necesaria la resolución judicial.
 
 ###### Art. 1353.
 
@@ -6995,11 +6991,11 @@ La acción de rescisión o resolución de un contrato prescribe al año de haber
 
 ###### Art. 1354.
 
-En el caso a que se refiere el artículo 1350 los efectos de la rescisión serán retroactivos entre las partes, salvo el caso de contratos de ejecución continuada o periódica, respecto de los cuales el efecto de la rescisión no se extiende a las prestaciones ya efectuadas. Se aplicará esto último a los casos de resolución de los contratos previstos en el artículo 1351
+En el caso a que se refiere el artículo 1350 los efectos de la rescisión serán retroactivos entre las partes, salvo el caso de contratos de ejecución continuada o periódica, respecto de los cuales el efecto de la rescisión no se extiende a las prestaciones ya efectuadas. Se aplicará esto último a los casos de resolución de los contratos previstos en el artículo 1351.
 
 ###### Art. 1355.
 
-En los contratos con más de dos partes en los que las prestaciones de cada una de ellas van dirigidas a la consecución de un fin común, el incumplimiento de una de las partes no importa la rescisión del contrato respecto de las otras, salvo que la prestación incumplida haya de considerarse, de acuerdo con las circunstancias, como esencial para la realización del contrato
+En los contratos con más de dos partes en los que las prestaciones de cada una de ellas van dirigidas a la consecución de un fin común, el incumplimiento de una de las partes no importa la rescisión del contrato respecto de las otras, salvo que la prestación incumplida haya de considerarse, de acuerdo con las circunstancias, como esencial para la realización del contrato.
 
 Disposiciones finales
 
@@ -7053,7 +7049,7 @@ En los concursos en que haya promesa de recompensa para los que llenaren ciertas
 
 ###### Art. 1365.
 
-El promitente deberá, antes de la celebración del concurso, designar la persona o personas que decidirán a quien o a quienes de los concursantes se otorga la recompensa.
+El promitente deberá, antes de la celebración del concurso, designar la persona o personas que decidirán a quién o a quiénes de los concursantes se otorga la recompensa.
 
 ###### Art. 1366.
 
@@ -7103,7 +7099,7 @@ Si el tercero a quien se enajena la cosa la adquiere de buena fe, sólo podrá r
 
 ###### Art. 1376.
 
-El que de buena fe hubiere aceptado un pago indebido de cosa, cierta y determinada, sólo responderá de los menoscabos o pérdidas de ésta y de sus accesiones, en cuanto por ellos se hubiere enriquecido. Si la hubiere enajenado, restituirá el precio o cederá la acción para hacerlo efectivo
+El que de buena fe hubiere aceptado un pago indebido de cosa, cierta y determinada, sólo responderá de los menoscabos o pérdidas de ésta y de sus accesiones, en cuanto por ellos se hubiere enriquecido. Si la hubiere enajenado, restituirá el precio o cederá la acción para hacerlo efectivo.
 
 ###### Art. 1377.
 
@@ -7123,7 +7119,7 @@ La prueba del pago incumbe al que pretenda haberlo hecho. También corre a su ca
 
 ###### Art. 1381.
 
-Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquél a quien se pide la devolución puede probar que la entrega se hizo a título de liberalidad o por cualquiera otra causa justa.
+Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a título de liberalidad o por cualquiera otra causa justa.
 
 ###### Art. 1382.
 
@@ -7193,7 +7189,7 @@ Cuando el dueño del negocio no ratifique la gestión, sólo responderá de los 
 
 ###### Art. 1397.
 
-Cuando sin consentimiento del obligado a prestar alimentos los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, al no constar que los dio con ánimo de hacer un acto de beneficencia.
+Cuando sin consentimiento del obligado a prestar alimentos los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, a no constar que los dio con ánimo de hacer un acto de beneficencia.
 
 ###### Art. 1398.
 
@@ -7237,7 +7233,7 @@ Las anteriores disposiciones se observarán en el caso del artículo 2166 de est
 
 ###### Art. 1406.
 
-Independientemente de los daños y perjuicios el Juez acordará en favor de la víctima de un hecho ilícito, o de su familia si aquella muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Para fijar la indemnización el Tribunal tomará en cuenta la naturaleza del hecho dañoso y la de la lesión moral sufrida por el ofendido, apreciará ésta según las circunstancias personales de éste, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, etc. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil.
+Independientemente de los daños y perjuicios el Juez acordará en favor de la víctima de un hecho ilícito, o de su familia si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Para fijar la indemnización el Tribunal tomará en cuenta la naturaleza del hecho dañoso y la de la lesión moral sufrida por el ofendido, apreciará ésta según las circunstancias personales de éste, tales como su educación, sensibilidad, afectos, posición social, vínculos familiares, etc. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil.
 
 ###### Art. 1407.
 
@@ -7269,7 +7265,7 @@ Los maestros artesanos son responsables de los daños y perjuicios causados por 
 
 ###### Art. 1414.
 
-Los patronos están obligados a responder de los daños y perjuicios causados por sus trabajadores y aprendices o dependientes en el ejercicio de sus labores
+Los patronos están obligados a responder de los daños y perjuicios causados por sus trabajadores y aprendices o dependientes en el ejercicio de sus labores.
 
 ###### Art. 1415.
 
@@ -7369,7 +7365,7 @@ Cuando el cumplimiento de la condición dependa de la exclusiva voluntad del deu
 
 ###### Art. 1432.
 
-Se tendrá por cumplida la condición, cuando el obligado impidiese voluntariamente su cumplimiento
+Se tendrá por cumplida la condición, cuando el obligado impidiese voluntariamente su cumplimiento.
 
 ###### Art. 1433.
 
@@ -7473,7 +7469,7 @@ El que se ha obligado a diversas cosas o hechos conjuntamente, debe dar todas la
 
 ###### Art. 1450.
 
-Si el deudor se ha obligado a uno de dos hechos, o a una de dos cosas, o a un hecho o a una cosa, cumple prestando cualquiera de esos hechos o cosas; más no puede, contra la voluntad del acreedor, prestar parte de una cosa y parte de otra, o ejecutar en parte un hecho.
+Si el deudor se ha obligado a uno de dos hechos, o a una de dos cosas, o a un hecho o a una cosa, cumple prestando cualquiera de esos hechos o cosas; mas no puede, contra la voluntad del acreedor, prestar parte de una cosa y parte de otra, o ejecutar en parte un hecho.
 
 ###### Art. 1451.
 
@@ -7545,7 +7541,7 @@ Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo seg
 
 ###### Art. 1467.
 
-Si la cosa se pierde por culpa del deudor y la elección es del acreedor, este podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
+Si la cosa se pierde por culpa del deudor y la elección es del acreedor, éste podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
 
 ###### Art. 1468.
 
@@ -7583,7 +7579,7 @@ Además de la mancomunidad, habrá solidaridad activa cuando dos o más acreedor
 
 ###### Art. 1476.
 
-La solidaridad no se presume, resulta de la ley o de la voluntad de las partes
+La solidaridad no se presume, resulta de la ley o de la voluntad de las partes.
 
 ###### Art. 1477.
 
@@ -7629,7 +7625,7 @@ Si muere uno de los deudores solidarios dejando varios herederos, cada uno de é
 
 ###### Art. 1487.
 
-El deudor solidario que paga por entero la deuda, tiene derecho de exigir de los otros codeudores la parte que en ellas les corresponda.
+El deudor solidario que paga por entero la deuda, tiene derecho de exigir de los otros codeudores la parte que en ella les corresponda.
 
 Salvo convenio en contrario, los deudores solidarios están obligados entre sí por partes iguales.
 
@@ -7651,7 +7647,7 @@ Cuando por el no cumplimiento de la obligación se demanden daños y perjuicios,
 
 ###### Art. 1491.
 
-Las obligaciones son divisibles cuando tienen por objeto prestaciones susceptibles de cumplirse parcialmente. Son indivisibles si las prestaciones no puidiesen (sic) ser cumplidas sino por entero.
+Las obligaciones son divisibles cuando tienen por objeto prestaciones susceptibles de cumplirse parcialmente. Son indivisibles si las prestaciones no pudiesen ser cumplidas sino por entero.
 
 ###### Art. 1492.
 
@@ -7665,7 +7661,7 @@ Las obligaciones divisibles en que haya más de un deudor o acreedor se regirán
 
 Cada uno de los que han contraído conjuntamente una deuda indivisible, está obligado por el todo, aunque no se haya estipulado solidaridad.
 
-Lo mismo tiene lugar respecto de los herederos de aquél que haya contaído una obligación indivisible.
+Lo mismo tiene lugar respecto de los herederos de aquel que haya contraído una obligación indivisible.
 
 ###### Art. 1495.
 
@@ -7719,7 +7715,7 @@ En las enajenaciones de alguna especie indeterminada, la propiedad no se transfe
 
 ###### Art. 1504.
 
-En el caso del artículo que precede, si no se designa la calidad de la cosa, el deudor cumple entregando una de mediana calidad
+En el caso del artículo que precede, si no se designa la calidad de la cosa, el deudor cumple entregando una de mediana calidad.
 
 ###### Art. 1505.
 
@@ -7735,7 +7731,7 @@ IV. Si se deteriorare por culpa del acreedor, éste tiene obligación de recibir
 
 V. Si la cosa se perdiere por caso fortuito o fuerza mayor, la obligación queda sin efecto y el dueño sufre la pérdida, a menos que otra cosa se haya convenido;
 
-VI. Si la cosa se deteriorare por caso fortuito o fuerza mayor, el dueño sufre el deterioro a menos que otra cosa cosa (sic) se haya convenido.
+VI. Si la cosa se deteriorare por caso fortuito o fuerza mayor, el dueño sufre el deterioro a menos que otra cosa se haya convenido.
 
 ###### Art. 1506.
 
@@ -7925,11 +7921,11 @@ III. Si se hace al acreedor en pago de su deuda.
 
 ###### Art. 1541.
 
-Se considerará litigioso el derecho desde el secuestro, en el juicio ejecutivo; y en los demás desde la contestación de la demanda, hasta que se pronuncie la sentencia que cause ejecutoria
+Se considerará litigioso el derecho desde el secuestro, en el juicio ejecutivo; y en los demás desde la contestación de la demanda, hasta que se pronuncie la sentencia que cause ejecutoria.
 
 ###### Art. 1542.
 
-Si los derechos o créditos fueren litigiosos, no podrán ser cedidos en ninguna forma a las personas que desempeñen la judicatura, si esos derechos o créditos fueren disputados dentro de los límites a que se extienda la jurisdicción de los funcionarios referidos
+Si los derechos o créditos fueren litigiosos, no podrán ser cedidos en ninguna forma a las personas que desempeñen la judicatura, si esos derechos o créditos fueren disputados dentro de los límites a que se extienda la jurisdicción de los funcionarios referidos.
 
 ### Capítulo I. Consecuencias del incumplimiento de las obligaciones
 
@@ -8091,7 +8087,7 @@ El pago hecho después del vencimiento y aceptado por el acreedor, extinguirá l
 
 ###### Art. 1572.
 
-Si no se ha fijado el tiempo en que deba hacerse el pago y se trata de obligaciones de dar, no podrá el acreedor exigirlo sino después de los treinta días siguientes a la interpelación que se haga, ya judicialmente, ya en lo extrajudicial, ante un notario o ante dos testigos. Tratándose de obligaciones de hacer, el pago debe efectuarse cuando lo exija el acreedor, siempre que haya transcurrido el tiempo necesario para el cumplimiento de la obligación.
+Si no se ha fijado el tiempo en que deba hacerse el pago y se trata de obligaciones de dar, no podrá el acreedor exigirlo sino después de los treinta días siguientes a la interpelación que se haga, ya judicialmente, ya en lo extrajudicial, ante un Notario o ante dos testigos. Tratándose de obligaciones de hacer, el pago debe efectuarse cuando lo exija el acreedor, siempre que haya transcurrido el tiempo necesario para el cumplimiento de la obligación.
 
 En el caso de obligaciones de hacer si el acreedor impide al deudor el cumplimiento de la prestación, tendrá éste último el derecho de demandarle el pago de daños y perjuicios.
 
@@ -8111,7 +8107,7 @@ Si el pago consiste en la tradición de un inmueble o en prestaciones relativas 
 
 ###### Art. 1576.
 
-Si el pago consistiere en una suma de dinero como precio de alguna cosa enajenada por el acreedor, deberá ser hecho en el lugar en que se entregó la cosa, salvo que se designe otro lugar
+Si el pago consistiere en una suma de dinero como precio de alguna cosa enajenada por el acreedor, deberá ser hecho en el lugar en que se entregó la cosa, salvo que se designe otro lugar.
 
 ###### Art. 1577.
 
@@ -8173,7 +8169,7 @@ Si el acreedor rehusare sin justa causa recibir la prestación debida, o dar el 
 
 ###### Art. 1591.
 
-Si el acreedor fuere conocido, pero dudosos sus derechos, podrá el deudor depositar la cosa debida, con citación del interesado, a fin de que justifique sus derechos por los medios legales
+Si el acreedor fuere conocido, pero dudosos sus derechos, podrá el deudor depositar la cosa debida, con citación del interesado, a fin de que justifique sus derechos por los medios legales.
 
 ###### Art. 1592.
 
@@ -8203,7 +8199,7 @@ I. Si la obligación fuere a plazo, comenzará la responsabilidad desde el venci
 
 II. Si la obligación no dependiere de plazo cierto, se observará lo dispuesto en el artículo 1572.
 
-El que contraviene una obligación de no hacer pagará daños y perjuicios por el sólo hecho de la contravención.
+El que contraviene una obligación de no hacer pagará daños y perjuicios por el solo hecho de la contravención.
 
 ###### Art. 1597.
 
@@ -8217,7 +8213,7 @@ La responsabilidad procedente de dolo es exigible en todas las obligaciones. La 
 
 ###### Art. 1599.
 
-La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos, en su caso, importará la reparación de los daños y la indemnización de los perjuicios
+La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos, en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
 ###### Art. 1600.
 
@@ -8225,7 +8221,7 @@ Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la fa
 
 ###### Art. 1601.
 
-Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación
+Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
 
 ###### Art. 1602.
 
@@ -8237,7 +8233,7 @@ Nadie está obligado al caso fortuito sino cuando ha dado causa o contribuido a 
 
 ###### Art. 1604.
 
-Si la cosa se ha perdido, o ha sufrido un detrimento tan grave que, a juicio de peritos, no pueda emplearse en el uso a que naturalmente está destinada, el dueño debe ser indemnizado de todo el valor legítimo de ella
+Si la cosa se ha perdido, o ha sufrido un detrimento tan grave que, a juicio de peritos, no pueda emplearse en el uso a que naturalmente está destinada, el dueño debe ser indemnizado de todo el valor legítimo de ella.
 
 ###### Art. 1605.
 
@@ -8375,7 +8371,7 @@ II. En el caso del artículo 1615;
 
 III. Si conociendo el que adquiere el derecho del que entabla la evicción la hubiere ocultado dolosamente al que enajena;
 
-IV. Si la evicción procede de una causa posterior al acto de enajenación, no imputable al que enajena, o de hecho del que adquire (sic), ya sea anterior o posterior al mismo acto;
+IV. Si la evicción procede de una causa posterior al acto de enajenación, no imputable al que enajena, o de hecho del que adquiere, ya sea anterior o posterior al mismo acto;
 
 V. Si el adquirente no cumple lo prevenido en el artículo 1616;
 
@@ -8449,7 +8445,7 @@ Los peritos declararán terminantemente si los vicios o defectos eran anteriores
 
 ###### Art. 1649.
 
-Las partes pueden restringir, renunciar o ampliar su responsabilidad por los vicios o defectos redhibitorios siempre que no haya mala fe
+Las partes pueden restringir, renunciar o ampliar su responsabilidad por los vicios o defectos redhibitorios siempre que no haya mala fe.
 
 ###### Art. 1650.
 
@@ -8501,7 +8497,7 @@ El que hubiere adquirido de mala fe las cosas enajenadas en fraude de los acreed
 
 ###### Art. 1661.
 
-La nulidad puede tener lugar, tanto en los actos en que el deudor enajena los bienes que efectivamente posee, como en aquellos en que renuncia derechos constituidos a su favor y a cuyo goce no fuere exclusivamente personal.
+La nulidad puede tener lugar, tanto en los actos en que el deudor enajena los bienes que efectivamente posee, como en aquellos en que renuncia derechos constituidos a su favor y cuyo goce no fuere exclusivamente personal.
 
 ###### Art. 1662.
 
@@ -8525,7 +8521,7 @@ La nulidad de los actos del deudor sólo será pronunciada en interés de los ac
 
 ###### Art. 1667.
 
-El tercero a quien hubiesen pasado los bienes del deudor, puede hacer cesar la acción de los acreedores satisfaciendo al crédito de los que se hubiesen presentado, o dando garantía suficiente sobre el pago íntegro de sus créditos, si los bienes del deudor no alcanzaren a satisfacerlos.
+El tercero a quien hubiesen pasado los bienes del deudor, puede hacer cesar la acción de los acreedores satisfaciendo el crédito de los que se hubiesen presentado, o dando garantía suficiente sobre el pago íntegro de sus créditos, si los bienes del deudor no alcanzaren a satisfacerlos.
 
 ###### Art. 1668.
 
@@ -8537,7 +8533,7 @@ Si el acreedor que pide nulidad, para acreditar la insolvencia del deudor, prueb
 
 ###### Art. 1670.
 
-Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores
+Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 
 ### Capítulo I. Disposiciones generales
 
@@ -8681,7 +8677,7 @@ La confusión que se verifica en la persona del acreedor o deudor solidario, só
 
 ###### Art. 1699.
 
-Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél
+Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél.
 
 ### Capítulo IV. De las obligaciones del vendedor
 
@@ -8733,7 +8729,7 @@ Si la novación fuere nula, subsistirá la antigua obligación.
 
 ###### Art. 1711.
 
-La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva
+La novación extingue la obligación principal y las obligaciones accesorias. El acreedor puede, por una reserva expresa, impedir la extinción de las obligaciones accesorias, que entonces pasan a la nueva.
 
 ###### Art. 1712.
 
@@ -8795,7 +8791,7 @@ El cumplimiento voluntario por medio del pago, novación o por cualquier otro mo
 
 ###### Art. 1726.
 
-La confirmación se retrotrae el día en que se verificó el acto nulo, pero ese efecto retroactivo no perjudicará a los derechos de tercero.
+La conformación se retrotrae el día en que se verificó el acto nulo, pero ese efecto retroactivo no perjudicará a los derechos de tercero.
 
 ###### Art. 1727.
 
@@ -8829,7 +8825,7 @@ Todos los derechos reales o personales transmitidos a tercero sobre un inmueble,
 
 Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho a pedir la nulidad del contrato, y de ser esto imposible, la reducción equitativa de su obligación. También hay lesión en los contratos conmutativos cuando alguna de las partes da dos tantos más del valor de la contraprestación correspondiente.
 
-La lesión puede renunciarse salvo el caso de que la desproporción entre la prestación de una de las partes y la de la otra dependiere del estado de necesidad, inexperiencia o suma ignorancia de una de ellas, de la que se haya aprovechado la otra parte para obtener ventaja. La acción para invocar la existencia de la lesión en los casos citados en este precepto se extingue por el transcurso de dos años
+La lesión puede renunciarse salvo el caso de que la desproporción entre la prestación de una de las partes y la de la otra dependiere del estado de necesidad, inexperiencia o suma ignorancia de una de ellas, de la que se haya aprovechado la otra parte para obtener ventaja. La acción para invocar la existencia de la lesión en los casos citados en este precepto se extingue por el transcurso de dos años.
 
 # LIBRO TERCERO. Segunda Parte
 
@@ -8839,7 +8835,7 @@ De las diversas especies de contrato
 
 ###### Art. 1735.
 
-El contrato preparatorio o promesa de contrato, es aquél por virtud del cual una parte o ambas se obligan a celebrar dentro de cierto tiempo un contrato futuro determinado.
+El contrato preparatorio o promesa de contrato, es aquel por virtud del cual una parte o ambas se obligan a celebrar dentro de cierto tiempo un contrato futuro determinado.
 
 ###### Art. 1736.
 
@@ -9019,7 +9015,7 @@ La venta de cosa ajena surtirá sus efectos, si el propietario de la misma ratif
 
 ###### Art. 1769.
 
-La venta hecha por uno de los copropietarios de la totalidad de la cosa vendida, será nula, aun respecto de la porción del vendedor, debiendo este último restituir al comprador el precio, sus intereses, daños y perjuicios, siempre y cuando dicho adquirente hubiere ignorado que la cosa era objeto de copropiedad
+La venta hecha por uno de los copropietarios de la totalidad de la cosa vendida, será nula, aun respecto de la porción del vendedor, debiendo este último restituir al comprador el precio, sus intereses, daños y perjuicios, siempre y cuando dicho adquirente hubiere ignorado que la cosa era objeto de copropiedad.
 
 ###### Art. 1770.
 
@@ -9049,7 +9045,7 @@ Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acc
 
 ###### Art. 1776.
 
-Los hijos sujetos a patria potestad, pueden vender a sus padres solamente los bienes comprendidos en la primera clase de los mencionados en el artículo 481
+Los hijos sujetos a patria potestad, pueden vender a sus padres solamente los bienes comprendidos en la primera clase de los mencionados en el artículo 481.
 
 ###### Art. 1777.
 
@@ -9199,7 +9195,7 @@ Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferen
 
 ###### Art. 1804.
 
-Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término, si no da las seguridades necesarias de que pagará el precio al expirar el plazo
+Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerce (sic) de este término, si no da las seguridades necesarias de que pagará el precio al expirar el plazo.
 
 ###### Art. 1805.
 
@@ -9235,7 +9231,7 @@ Las convenciones que impongan al comprador obligaciones más onerosas que las ex
 
 Puede pactarse validamente que el vendedor se reserva la propiedad de la cosa vendida hasta que su precio haya sido pagado.
 
-Cuando los bienes vendidos sean de los mencionados en las fracción (sic) I y II del artículo 1808, el pacto de que se trate produce efectos contra tercero, si se inscribe en el Registro Público. Cuando los bienes sean de la clase a que se refiere la fracción lII del artículo que se acaba de citar, se aplicará lo dispuesto en esta fracción.
+Cuando los bienes vendidos sean de los mencionados en las fracciones I y II del artículo 1808, el pacto de que se trate produce efectos contra tercero, si se inscribe en el Registro Público. Cuando los bienes sean de la clase a que se refiere la fracción lII del artículo que se acaba de citar, se aplicará lo dispuesto en esta fracción.
 
 ###### Art. 1811.
 
@@ -9297,7 +9293,7 @@ Si uno de los contratantes recibe la cosa que se le da en permuta, y acredita qu
 
 ###### Art. 1824.
 
-El permutante que sufre evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si aun se halla en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios
+El permutante que sufre evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si aún se halla en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
 
 ###### Art. 1825.
 
@@ -9345,7 +9341,7 @@ Las donaciones que se hagan para después de la muerte del donante, se regirán 
 
 ###### Art. 1835.
 
-la donación es perfecta desde que el donatario la acepta y hace saber la aceptación al donador.
+La donación es perfecta desde que el donatario la acepta y hace saber la aceptación al donador.
 
 ###### Art. 1836.
 
@@ -9353,7 +9349,7 @@ La donación puede hacerse verbalmente o por escrito.
 
 ###### Art. 1837.
 
-No puede hacerse donación verbal más que de bienes muebles
+No puede hacerse donación verbal más que de bienes muebles.
 
 ###### Art. 1838.
 
@@ -9411,7 +9407,7 @@ Si la donación fuere de todos los bienes, el donatario será responsable de tod
 
 ###### Art. 1851.
 
-En el caso a que se refiere el artículo anterior, los acreedores del donante pueden, si éste mejorará de fortuna, exigirle el pago de sus créditos, si así les conviniera.
+En el caso a que se refiere el artículo anterior, los acreedores del donante pueden, si éste mejorara de fortuna, exigirle el pago de sus créditos, si así les conviniera.
 
 ###### Art. 1852.
 
@@ -9489,7 +9485,7 @@ En cualquier caso de rescisión o revocación del contrato de donación, se obse
 
 La donación puede ser revocada por ingratitud:
 
-I. Si el donatario comete algún delito contra la persona, la honra o los bienes del donante o de los ascendentes, descendientes o cónyuge de éste;
+I. Si el donatario comete algún delito contra la persona, la honra o los bienes del donante o de los ascendientes, descendientes o cónyuge de éste;
 
 II. Si el donatario rehusa socorrer, según el valor de la donación, al donante que ha venido a pobreza.
 
@@ -9503,7 +9499,7 @@ La acción de revocación por causa de ingratitud no puede ser renunciada antici
 
 ###### Art. 1869.
 
-Esta acción no podrá ejercitarse contra los herederos del donatario, a no ser que en vida de éste hubiese sido intentada
+Esta acción no podrá ejercitarse contra los herederos del donatario, a no ser que en vida de éste hubiese sido intentada.
 
 ###### Art. 1870.
 
@@ -9561,7 +9557,7 @@ Para que se transmita la propiedad de las cosas fungibles al mutuatario, deberá
 
 Si en el contrato no se ha fijado plazo para la devolución de lo prestado, se observarán las reglas siguientes:
 
-I. Si el mutuatario fuere labrador y el préstamo consistiera en cereales u otros productos del campo, la restitución se hará en la siguiente cosecha de los mismos o semejantes frutos o productos;
+I. Si el mutuatario fuere labrador y el préstamo consistiere en cereales u otros productos del campo, la restitución se hará en la siguiente cosecha de los mismos o semejantes frutos o productos;
 
 II. Lo mismo se observará respecto de los mutuatarios que, no siendo labradores, hayan de percibir frutos semejantes por otro título;
 
@@ -9659,7 +9655,7 @@ Son susceptibles de arrendamiento todos los bienes que pueden usarse sin consumi
 
 ###### Art. 1903.
 
-Pueden dar y recibir en arrendamiento los que pueden contratar
+Pueden dar y recibir en arrendamiento los que pueden contratar.
 
 ###### Art. 1904.
 
@@ -9691,7 +9687,7 @@ Tratándose de fincas destinadas para habitación no surtirá efectos el conveni
 
 ###### Art. 1910.
 
-Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la transmisión de la propiedad del predio arrendado, el arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicial o extrajudicialmente ante notario o ante dos testigos haberse otorgado el correspondiente título de propiedad, aun cuando alegue haber pagado al primer propietario; a no ser que el adelanto de rentas aparezca expresamente estipulado en el mismo contrato de arrendamiento.
+Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la transmisión de la propiedad del predio arrendado, al (sic) arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicial o extrajudicialmente ante notario o ante dos testigos haberse otorgado el correspondiente título de propiedad, aun cuando alegue haber pagado al primer propietario; a no ser que el adelanto de rentas aparezca expresamente estipulado en el mismo contrato de arrendamiento.
 
 ###### Art. 1911.
 
@@ -9707,7 +9703,7 @@ Los arrendamientos de bienes del Estado, municipales o de establecimientos públ
 
 El arrendador está obligado, aunque no haya pacto expreso:
 
-I. A entregar al arrendatario la finca arrendada con todas sus pertenencias y en estado de servir para el uso convenido, y si no hubo convenio expreso, para aquél a que por su misma naturaleza estuviere destinada;
+I. A entregar al arrendatario la finca arrendada con todas sus pertenencias y en estado de servir para el uso convenido, y si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada;
 
 II. A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
@@ -9719,7 +9715,7 @@ V. A responder de los daños y perjuicios que sufra el arrendatario por los defe
 
 ###### Art. 1914.
 
-El arrendador también estará obligado aunque no haya pacto expreso, a responder de los daños y perjuicios que sufra el arrendatario, si se le privará del uso o goce de la cosa, por virtud de la evicción que se haga valer en contra del arrendador.
+El arrendador también estará obligado aunque no haya pacto expreso, a responder de los daños y perjuicios que sufra el arrendatario, si se le privara del uso o goce de la cosa, por virtud de la evicción que se haga valer en contra del arrendador.
 
 ###### Art. 1915.
 
@@ -9777,7 +9773,7 @@ V. A cumplir con las demás obligaciones que le imponga la ley.
 
 ###### Art. 1924.
 
-El arrendatario no está obligado a pagar la renta sino desde el día en que reciba la cosa arrendada, salvo pacto en contrario
+El arrendatario no está obligado a pagar la renta sino desde el día en que reciba la cosa arrendada, salvo pacto en contrario.
 
 ###### Art. 1925.
 
@@ -9883,7 +9879,7 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 Cuando se ejecuten mejoras en el inmueble arrendado por parte del arrendador, la renta podrá ser aumentada proporcionalmente a las mismas, de acuerdo con el avalúo bancario o el efectuado por peritos designados por el Juez.
 
-En los arrendamientos que hayan durado más de cinco años o cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene este derecho, si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca
+En los arrendamientos que hayan durado más de cinco años o cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene este derecho, si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca.
 
 ### Capítulo IX. Del modo de terminar el arrendamiento
 
@@ -9963,7 +9959,7 @@ Si el contrato se celebra por un término fijo, la renta se pagará al vencerse 
 
 ###### Art. 1965.
 
-Si el arrendatario devuelve la cosa antes del tiempo convenido, cuando se ajuste por un sólo precio, está obligado a pagarlo Integro; pero si el arrendatario se ajusta a períodos de tiempo, sólo está obligado a pagar los períodos corridos hasta la entrega.
+Si el arrendatario devuelve la cosa antes del tiempo convenido, cuando se ajuste por un solo precio, está obligado a pagarlo íntegro; pero si el arrendamiento se ajusta a períodos de tiempo, sólo está obligado a pagar los períodos corridos hasta la entrega.
 
 ###### Art. 1966.
 
@@ -10143,7 +10139,7 @@ Si el arrendatario no hiciere uso del derecho que para rescindir el contrato le 
 
 ###### Art. 2002.
 
-Si el arrendador, sin motivo fundado, se opone al subarriendo que con derecho pretenda hacer el arrendatario, podrá éste pedir la rescisión del contrato
+Si el arrendador, sin motivo fundado, se opone al subarriendo que con derecho pretenda hacer el arrendatario, podrá éste pedir la rescisión del contrato.
 
 ###### Art. 2003.
 
@@ -15394,3 +15390,9 @@ P.O. 20 DE OCTUBRE DE 1974.
 ###### ARTICULO UNICO.
 
 Este decreto estará en vigor hasta el día 31 de diciembre de 1974 y surtirá efectos a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE ENERO DE 1980.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
