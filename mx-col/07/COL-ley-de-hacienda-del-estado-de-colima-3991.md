@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2001-12-29"
+last_updated: "2002-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -227,7 +227,7 @@ No están obligados a presentar declaración anual, los contribuyentes eventuale
 
 ###### Artículo 21.
 
-El cáculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
+El cálculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
 
 ###### Artículo 22.
 
@@ -335,6 +335,8 @@ Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el a
 
 Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 33.
 
 Son objeto de este impuesto, los ingresos que se obtengan por el derecho de admisión a espectáculos públicos consistentes en Palenques de Gallos.
@@ -393,10 +395,6 @@ Las autoridades competentes, al otorgar permisos para la explotación de espect�
 
 Garantizarán preferentemente el pago de este impuesto, los bienes muebles, el equipo y las instalaciones, que se utilicen para el desarrollo de la actividad gravada.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
-
 ### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
@@ -419,19 +417,23 @@ II.- La prestación de servicios mediante el sistema de tiempo compartido o de c
 
 III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
-
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
+Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -442,10 +444,6 @@ Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el
 Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
 
 Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -480,6 +478,8 @@ III.- Cuando se imposibilite por cualquier medio el conocimiento de las operacio
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del impuesto a que se refiere este capítulo y de sus correspondientes recargos, se destinará al fomento, promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos los fideicomisos que estime necesarios, los cuales se encargarán de administrarlos e invertirlos exclusivamente en las actividades tendientes a la consecución de dicho objetivo, por conducto de los comités que al efecto se constituyan, en los que participarán representantes del Gobierno del Estado y del sector hotelero de la entidad, el 2% restante, se destinará para sufragar los gastos de administración del tributo.
+
+### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -671,17 +671,11 @@ XX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 3.000
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+XXII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
-XXII.- Anuencia para la realización de peleas de Gallos, por día 10.000
+XXIII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-XXIII.- Anuencia para la realización de carreras de caballos, por día 10.000
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-XXIV.- Anuencia para la instalación y operación de palenque de gallos 150.000
+XXIV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -879,17 +873,27 @@ V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
 VI.- Por la expedición de permisos provisionales:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-a).- Para manejar vehículos, por el primer permiso de 6 meses 5.000
+a).- Para manejar vehículos diferentes a las motocicletas, por el primer permiso de 6 meses 5.000
 
-1.- Por cada permiso subsiguiente, por el mismo concepto 3.200
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+1.- Por el mismo concepto, el segundo permiso 5.000
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 b).- Para circular sin placas, por el primer permiso de 30 días 5.000
 
-1.- Por cada día adicional al anterior, por el mismo concepto 0.500
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+1.- Por el mismo concepto, el segundo permiso 0.500
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+c).- Para manejar motocicletas y otros vehículos similares, como trimotos, cuatrimotos, etc., por el primer permiso de 6 meses 2.024
+
+1.- Por el mismo concepto, el segundo permiso 2.024
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -1039,11 +1043,13 @@ e).- Cuando el monto de la operación esté entre 2,592 y 3,814 días de salario
 
 f).- Cuando el monto de la operación esté entre 3,815 y 4,964 días de salario mínimo 8.000
 
-g).- Cuando el monto de la operación esté entre los 4,965 y 6,477 días de salario mínimo 12.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+g).- Cuando el monto de la operación esté entre los 4,965 y 9,600 días de salario mínimo 12.000
 
-h).- Cuando el valor de la operación sea mayor al equivalente de 6,477 de salario mínimo, se pagará sobre el monto del crédito, el 0.125%, sin que el máximo sea superior a 270.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+h).- Cuando el valor de la operación sea mayor al equivalente de 9,601 días de salario mínimo, se pagará sobre el monto del crédito, el 0.125%, sin que el máximo sea superior a 270.000
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1345,33 +1351,15 @@ I.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
 II.- Certificaciones y constancias, en general, así como certificaciones por consultas relacionadas con el control vehicular a otras entidades o agencias de vehículos 2.000
 
-III.- Estacionamiento Constitución, por el derecho de uso:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-a).- Por la primera hora:
-
-1.- Automóviles, camiones y motocarros 0.180
-
-2.- Motocicletas por cada hora 0.067
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-b).- Por cada hora adicional 0.135
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-c).- Pensión mensual de vehículos, por cada uno y por mes calendario adelantado 17.700
-
-d).- Pensión mensual, de motocicletas, por cada una y por mes de calendario adelantado 4.500
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
-
-e).- Pensión mensual de vehículos propiedad o al servicio del Gobierno del Estado, por cada uno 13.270
+III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 8.000
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Estatal Vehicular, debiéndose realizar el pago a más tardar el día 31 de marzo.
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1439,13 +1427,21 @@ i).- Por copia fotostática de cada fotografía de contacto en formato 23x23cm. 
 
 j).- Copia fotostática de planos de predios rústicos:
 
-1.- Hasta 1-00-00 hectárea 10.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-2.- De 1-00-01 a 3-00-00 hectáreas 15.000
+1.- Hasta 1-00-00 hectárea 5.000
 
-3.- De 3-00-01 a 5-00-00 hectáreas 20.000
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-4.- Más de 5-00-00 hectáreas 25,000
+2.- De 1-00-01 a 3-00-00 hectáreas 7.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+3.- De 3-00-01 a 5-00-00 hectáreas 10.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+4.- Más de 5-00-00 hectáreas 13.000
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1623,7 +1619,13 @@ d).- Por inscripción o registro de títulos documentos públicos o privados, en
 
 2.- Cuando el valor del inmueble sea mayor al equivalente de 6.116 días de salario mínimo 2.700
 
-e).- Por la búsqueda de todo informe relacionado con los predios catastrales registrados, a solicitud de los interesados se cubrirá por el derecho a que se le proporcione dicho servicio, la cantidad por predio de 1.800
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+e).- Por la expedición de informes catastrales relacionados con los predios registrados, a solicitud de los interesados: 1.800
+
+1.- Certificado 1.800
+
+2.- Sin certificar 0.500
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 1993)</small>
 
@@ -1635,25 +1637,15 @@ a).- Refrendo anual 10.00
 
 VI.- Por modificar registros manifestados erróneamente, a solicitud del interesado 1.800
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-VII.- Por cartografía a escala 1:1,000 en forma digital de la zona urbana de las cabeceras municipales de: Armería, Colima, Manzanillo, Tecomán y Villa de Alvarez
+VII.- Por cartografía a escala 1:1,000 en forma digital de las distintas manchas urbanas:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+a).- Archivos DXF (manzanas, predios y nomenclaturas de calles) 75.000
 
-a).- Archivos DXF (manzanas, predios y nomenclaturas) 75.000
+b).- Por cada capa adicional 20.000
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-b).- Archivos DXF (manzanas, predios, construcciones, nomenclaturas, cotas fotogramétricas en coordenadas Universal Transversal de Mercator) 120.000
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-VIII.- Por cartografía a escala 1:10,000 en formato digital de la zona urbana de las cabeceras municipales de: Armería, Colima, Manzanillo, Tecomán y Villa de Alvarez
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-a).- Archivos DXF (manzanas, predios, construcciones, nomenclatura de calles, hidrografía, vías de comunicación, cotas fotogramétricas en coordenadas Universal Transversal de Mercator) 145.000
+VIII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2273,15 +2265,17 @@ Artículo 55 A.- Por los servicios prestados en la Dirección de Ecología.
 
 NUMERO DE DIAS DE SALARIO MINIMO
 
-I.- Recepción, evaluación y otorgamiento de la autorización del informe
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-De factibilidad ambiental en materia de impacto:
+I.- Por la recepción, evaluación y otorgamiento de la autorización del informe de factibilidad ambiental en materia de impacto ambiental:
 
 1.- Por la recepción y evaluación 20.000
 
 2.- Por el otorgamiento de la autorización 10.000
 
-Estarán exentos del pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Estarán exentos del pago de este derecho las personas físicas y morales cuyo capital en la actividad u obra a desarrollar sea menor o igual a 2,850 días de salario mínimo; así como en el supuesto a que hace referencia el último párrafo del artículo 42 de la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima.
 
 II.- Recepción, evaluación y otorgamiento de la autorización de la manifestación de impacto ambiental:
 
@@ -2305,43 +2299,37 @@ III.- Por la revalidación del dictamen de impacto ambiental:
 
 3.- En su modalidad MIA-2 30.000
 
-IV.- Recepción, evaluación y otorgamiento de la autorización del estudio de riesgo:
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+4.- En su modalidad de diagnóstico ambiental 40.000
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+IV.- Por la recepción, evaluación y otorgamiento de la autorización del manifiesto de riesgo ambiental:
 
 1.- Por la recepción y evaluación 50.000
 
 2.- Por el otorgamiento de la autorización 20.000
 
-V.- Por la inscripción y/o refrendo en el Registro Estatal de Prestadores de Servicios que realicen estudios de impacto y riesgo ambiental por cada especialidad, anualmente:
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-1.- De 1 a 4 especialidades 160.000
+V.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios, de las personas físicas o morales que realicen manifiestos de impacto o riesgo, diagnóstico ambiental o informes de factibilidad, anualmente:
 
-2.- De 5 a 8 especialidades 320.000
+1.- Por la inscripción 260.000
 
-> <small>(F. DE E., P.O. 11 DE MAYO DE 2002)</small>
+2.- Por el refrendo 160.000
 
-VI.- Por la extracción y explotación de minerales o sustancias que constituyen Depósitos de naturaleza pétrea de control estatal, se pagará por cada 100 metros cúbicos de material extraído y/o explotado:
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-1.- Arena y grava 3.000
+VI.- Por la inscripción o refrendo en el Registro Estatal de Prestadores de Servicios Ambientales, de los laboratorios ambientales que realicen análisis de contaminantes, anualmente 300.000
 
-2.- Arcillas y balastres 5.000
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-3.- Materiales preponderantemente de carbono de calcio 5.000
+VII.- Con la recepción, evaluación y otorgamiento de la autorización del manifiesto de diagnóstico ambiental en materia de impacto ambiental:
 
-4.- Materiales no especificados.- La cuota la fijará la dependencia prestadora del servicio, tomando en consideración la calidad y tipo de material a explorar.
+1.- Por la recepción y evaluación 100.000
 
-VII.- Las personas físicas y morales que cuenten con autorización para realizar las actividades a que se refiere la fracción anterior, tendrán las siguientes obligaciones:
-
-1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Recepción de Rentas de su jurisdicción dentro de los quince días siguientes a aquel en que la Dirección de Ecología extienda la autorización correspondiente, anexando a la solicitud copia del documento equivalente que se hubiera presentado para electos del Registro Federal de Contribuyentes.
-
-2.- Pagar los derechos mediante declaración que deberán presentar a más tardar los días 17 de cada mes, por las actividades desarrolladas en el mes inmediato anterior, en las formas aprobadas para tal efecto, en la Receptoría de Rentas de su jurisdicción o ante las oficinas que la Secretaría de Finanzas autorice.
-
-3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
-
-4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
-
-5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
-
-6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
+2.- Por el otorgamiento de la autorización 50.000
 
 VIII.- Poda o derribo de árboles:
 
@@ -2363,25 +2351,59 @@ e) Arboles de 91 hasta 120 cm. de diámetro del fuste principal 15.000
 
 f).- Arboles de 121 o más centímetros de diámetro del fuste principal 25.000
 
-2.- Especies en peligro de extinción:
+2.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
 
-2.1.- Por poda 2.000
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002) No se pagará el derecho a que se refiere esta fracción, cuando la Dirección de Ecología dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante o que por sus condiciones físicas de deterioro se dictamine procedente su derribo.
 
-2.2.- Por derribo:
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-a).- Arboles hasta 30 cm. de diámetro del fuste principal 3.000
+IX.- Por la recepción, evaluación y otorgamiento de la licencia ambiental única a las fuentes fijas de jurisdicción estatal:
 
-b).- Arboles de 31 hasta 50 cm. de diámetro del fuste principal 6.000
+1.- Por la recepción y evaluación 10.000
 
-c).- Arboles de 51 hasta 70 cm. de diámetro del fuste principal 10.000
+2.- Por el otorgamiento de la licencia 5.000
 
-d).- Arboles de 71 hasta 90 cm. de diámetro del fuste principal 15.000
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-e).- Arboles de 91 hasta 120 cm. de diámetro del fuste principal 20.000
+X.- Por la recepción, evaluación y otorgamiento de la licencia local de funcionamiento a las fuentes fijas de jurisdicción estatal:
 
-f).- Arboles de 121 o más centímetros de diámetro del fuste principal 35.000
+1.- Por la recepción y evaluación 10.000
 
-No se pagará el derecho a que se refiere esta fracción, cuando la Dirección de Ecología dictamine que el árbol cuya poda o derribo se solicita, afecta al equipamiento urbano o a la propiedad del solicitante.
+2.- Por el otorgamiento de la licencia 2.000
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+XI.- Por la recepción, evaluación y otorgamiento de la autorización para efectuar la reutilización o reciclaje de residuos sólidos:
+
+1.- Por la recepción y evaluación 5.000
+
+2.- Por el otorgamiento de la autorización 2.000
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+XII.- Por la expedición del certificado de bajas emisiones 12.000
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+XIII.- Por la expedición de copias certificadas de las actuaciones que obren en los expedientes administrativos:
+
+1.- Por la primer hoja o actuación 0.500
+
+2.- Por cada hoja, actuación o fracción siguiente a la primera 0.040
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+XIV.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ":
+
+1.- Alberca, por niño con derecho a tobogán 0.200
+
+2.- Alberca, por adulto con derecho a tobogán 0.250
+
+3.- Lanchas, por media hora 0.175
+
+4.- Ingreso a zona de bosque 0.050
+
+No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII del este (sic) artículo cuando los servicios de que se trate estén destinados a la realización de obras públicas.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2413,7 +2435,41 @@ IV.- Expedición de credencial de identificación con vigencia por Tres años 1.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO UNICO
+### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas y las morales que en el territorio del Estado de Colima exploten o extraigan del suelo o subsuelo, sustancias, minerales o materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos y cuya regulación esté reservada a Estado por las Leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de mineral o material extraído, de los que hace referencia el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa:
+
+1.- Arena y grava, por cada cien metros cúbicos que se extraigan $120.00
+
+2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan $200.00
+
+3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan $200.00
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 D.- Las personas físicas y las morales que realicen las actividades señaladas en el artículo 64 A, tendrán las siguientes obligaciones:
+
+1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades objeto del derecho establecido en el presente Capítulo;
+
+2.- Pagar los derechos mediante declaración en las formas aprobadas para tal efecto, que deberán presentar a más tardar los días 17 de cada mes, por las actividades realizadas en el mes inmediato anterior, en la Receptoría de Rentas de su jurisdicción o en las oficinas o instituciones que la Secretaría de Finanzas autorice.
+
+3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
+
+4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
+
+5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+
+6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
 
 ###### Artículo 57.
 
@@ -2487,155 +2543,207 @@ Numero de días de salario mínimo
 
 I.- Por el derecho a examen de admisión:
 
-a).- Bachillerato 2.700
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-b).- Licenciatura 3.599
+a).- Bachillerato 3.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+b).- Licenciatura 4.500
 
 II.- Por inscripción:
 
-a).- Bachillerato 6.748
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-b).- Licenciatura 8.097
+a).- Bachillerato 7.500
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+b).- Licenciatura 10.000
 
 III.- Por exámenes de regularización:
 
 a).- Bachillerato:
 
-1.- Primera oportunidad 1.350
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-2.- Segunda oportunidad 1.799
+1.- Primera oportunidad 2.000
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-3.- Tercera oportunidad 2.000
+2.- Segunda oportunidad 2.500
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+3.- Tercera oportunidad 3.000
 
 b).- Licenciatura:
 
-1.- Primera oportunidad 1.799
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-2.- Segunda oportunidad 2.249
+1.- Primera oportunidad 2.500
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-3.- Tercera oportunidad 2.500
+2.- Segunda oportunidad 3.000
 
-IV.- Por expedición de duplicados de certificados de estudios 0.900
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-V.- Por expedición de constancias de estudio 0.450
+3.- Tercera oportunidad 3.500
 
-VI.- Por trámites de baja 0.450
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-VII.- Por exámenes profesionales 17.994
+IV.- Por expedición de duplicados de certificados de estudios 1.500
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+V.- Por expedición de constancias de estudio 1.000
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+VI.- Por trámites de baja 1.000
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+VII.- Por exámenes profesionales 19.000
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 59.
 
-Por el acceso a las Unidades Deportivas y uso de sus instalaciones, así como del Estadio Colima, se causarán los siguientes derechos:
+Por los servicios prestados en el Instituto Colimense del Deporte:
 
-Numero de días de salario mínimo
+NUMERO DE DIAS DE SALARIO MÍNIMO
 
-UNIDADES DEPORTIVAS
+I.- UNIDADES DEPORTIVAS:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+a).- Cuando se paguen las cuotas directamente al momento del acceso y uso de las instalaciones:
 
-I.- Entrada general 0.060
+1.- Entrada general 0.075
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+2.- Cancha de frontenis, por persona 0.125
 
-II.- Cancha de frontenis, por persona 0.105
+3.- Cancha de voleibol y básquetbol con iluminación artificial, por hora 0.526
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+4.- Alberca, por niño 0.100
 
-III.- Cancha de voleibol y basquetbol con iluminación artificial, por hora 0.526
+5.- Alberca, por adulto 0.300
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+6.- Cancha de tenis, por hora y por persona adulta 0.375
 
-IV.- Alberca, por niño 0.065
+7.- Cancha de tenis, por hora con iluminación artificial y por persona adulta 0.500
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+8.- Cancha de Squash, con iluminación artificial por hora y por persona adulta 0.500
 
-V.- Alberca, por adulto 0.263
+9.- Cancha de squash, por hora y por persona adulta 0.263
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+10.- Campo de futbol, por partido con iluminación artificial 4.500
 
-VI.- Cancha de tenis, por hora y por persona adulta 0.315
+11.- Campo de futbol, por partido sin iluminación artificial 1.750
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+12.- Campo de beisbol, sin iluminación artificial, por partido 1.315
 
-VII.- Cancha de tenis, por hora con iluminación artificial y por persona adulta 0.473
+13.- Tenis de mesa, por hora y por persona 0.131
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+14.- Auditorio por partido de voleibol y básquetbol 3.947
 
-VIII.- Cancha de Squash, con iluminación artificial por persona adulta 0.473
+15.- Gimnasio de fisicoculturismo, por mes por persona 3.900
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+16.- Gimnasio de fisicoculturismo, por día por persona 0.171
 
-IX.- Cancha de squash, por hora y por persona adulta 0.263
+17.- Pista sintética de atletismo, por persona 0.100
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+18.- Villa deportiva por día de hospedaje, por persona 1.000
 
-X.- Campo de futbol, por partido con iluminación artificial 4.184
+b).- Por el acceso y uso de las instalaciones mediante el sistema de membresías:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+1.- Para entrada general:
 
-XI.- Campo de futbol, por partido sin iluminación artificial 1.315
+1.1.- Trimestral 5.400
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+1.2.- Semestral 9.450
 
-XII.- Campo de beisbol, sin iluminación artificial, por partido 1.315
+2.- Para pista sintética de atletismo, por persona:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+2.1.- Trimestral 7.200
 
-XIII.- Tenis de mesa, por hora y por persona 0.131
+2.2.- Semestral 12.600
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+3.- Para alberca olímpica, por niño:
 
-XIV.- Auditorio, por partido de voleibol y basquetbol 3.947
+3.1.- Trimestral 7.200
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+3.2.- Semestral 12.600
 
-XV.- Gimnasio de fisicoculturismo, por mes por persona 2.140
+4.- Para alberca olímpica, por adulto:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+4.1.- Trimestral 21.600
 
-XVI.- Gimnasio de fisicoculturismo, por día por persona 0.171
+4.2.- Semestral 37.800
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+5.- Para cancha de tenis por hora y por persona adulta:
 
-XVII.- Baños de vapor, por mes por persona 2.228
+5.1.- Trimestral 27.000
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+5.2.- Semestral 47.250
 
-XVIII.- Baños de vapor, por día por persona 0.171
+6.- Para cancha de tenis por hora con iluminación artificial y por persona adulta:
 
-ESTADIO COLIMA
+6.1.- Trimestral 36.000
 
-XIX.- Campo de futbol, por partido 1.799
+6.2.- Semestral 63.000
 
-En el caso de las fracciones, VI, VII y IX, se cobrará a los menores un 50% de las cuotas establecidas.
+7.- Para cancha de frontenis por hora y por persona:
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+7.1.- Trimestral 9.000
 
-Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados integramente a la conservación y mejoramiento físico de las instalaciones de las unidades deportivas Morelos y Rey Coliman y del Estadio Colima.
+7.2.- Semestral 15.750
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+8.- Para cancha de squash por hora y por persona adulta:
+
+8.1.- Trimestral 18.000
+
+8.2.- Semestral 31.500
+
+9.- Para cancha de squash por hora con iluminación artificial y por persona adulta:
+
+9.1.- Trimestral 36.000
+
+9.2.- Semestral 63.000
+
+10.- Para gimnasio de fisicoculturismo:
+
+10.1.- Trimestral 11.700
+
+10.2.- Semestral 20.475
+
+En el caso de los subincisos 6, 7, 8 y 9 del inciso a) y 5, 6, 8 y 9 del inciso b), se cobrará a los niños un 50% de las cuotas establecidas.
+
+II.- ESTADIO COLIMA:
+
+a).- Campo de fútbol, por partido 6.250
+
+III.- DEPARTAMENTO DE MEDICINA Y CIENCIAS APLICADAS AL DEPORTE:
+
+a).- Certificado médico en general 0.250
+
+b).- Certificado médico de natació 0.500
+
+c).- Consulta general 0.500
+
+d).- Sesión de Ultrasonido 0.375
+
+e).- Sesión de Tenis 0.375
+
+f).- Sutura 1.250
+
+g).- Curación 0.250
+
+Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las Unidades Deportivas Morelos y Rey Coliman, así como del Estadio Colima.
 
 ###### Artículo 60.
 
-Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ", se pagarán los siguientes derechos:
-
-Numero de días de salario mínimo
-
-I.- Alberca, por niño 0.202
-
-II.- Alberca, por adulto 0.214
-
-III.- Tobogán 0.225
-
-IV.- Lancha, por hora 0.244
-
-V.- Ingreso a la Zona de Bosque 0.045
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2735,15 +2843,21 @@ a).- Los contratistas que celebren contratos de obra pública o de servicios rel
 
 III.- Información diversa no certificada expedida en los Kioscos de servicios e información de gobierno, por cada hoja.
 
-## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-## TITULO CUARTO. DE LOS PRODUCTOS
+### CAPITULO UNICO
+
+## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
 ###### Artículo 65.
 
 Los derechos de cooperación y las contribuciones de mejoras se pagarán de conformidad con lo establecido en el Decreto que para tal fin expida el Congreso del Estado.
 
-## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+## TITULO CUARTO. DE LOS PRODUCTOS
 
 ###### Artículo 66.
 
@@ -2775,13 +2889,15 @@ Para la determinación de los montos de los productos a que se refiere este tít
 
 Estarán exentas del pago de productos, las publicaciones que se hagan en el Periódico Oficial a solicitud de los Gobiernos Federal, Estatal o Municipales, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de sus atribuciones.
 
-## TITULO SEXTO. DE LAS PARTICIPACIONES
+## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ###### Artículo 69.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
 
-I.- Recargos a razón de 3% mensual sobre saldos insolutos en los casos de prórrogas para el pago de créditos fiscales; en el pago extemporáneo de los mismos, se aplicará la tasa del 4.5% por cada mes o fracción, desde la fecha de su exigibilidad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+I.- Recargos a la tasa que fije la Ley de Ingresos del Estado para el ejercicio de que se trate.
 
 (REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1997)
 
@@ -2823,13 +2939,15 @@ XII.- Los contratistas y destajistas que realicen obras para el Gobierno del Est
 
 XIII.- Otros ingresos no especificados.
 
-## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
+## TITULO SEXTO. DE LAS PARTICIPACIONES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -2869,17 +2987,11 @@ Para los efectos del Título Segundo, se entenderá por ``día de salario mínim
 
 Los gastos de ejecución y los honorarios por notificación que se recauden, se distribuirán entre el personal de la Secretaría de Finanzas que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamentos respectivo.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 77.
 
-Para determinar las contribuciones que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará de la siguiente forma:
-
-De 1 hasta 25 centavos a la unidad inmediata anterior.
-
-De 26 hasta 75 centavos a la media unidad del peso.
-
-De 76 centavos en adelante a la unidad inmediata superior.
+Para determinar las contribuciones y demás conceptos de ingreso que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso; no obstante, para efectuar su pago, el monto se ajustará a la unidad de peso mas próxima.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -3052,3 +3164,17 @@ Para los efectos del ajuste monetario en el pago de las contribuciones a que se 
 ###### ARTICULO TERCERO.
 
 El presente decreto entrará en vigor el día 1°. de enero de 2002, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 28 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Los contribuyentes del Impuesto Sobre Ejercicio de Profesiones no estarán obligados a presentar la declaración del ejercicio fiscal 2002, siendo por lo tanto optativa su presentación.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2003 el monto se ajustará a la decena de pesos inferior más próxima, con excepción de la cuota señalada en el artículo 64, fracción III, en cuyo caso la cuota será de $5.00 (cinco pesos 00/100 M.N.).
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor el día 1° de enero de 2003, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
