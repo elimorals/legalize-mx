@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-vivienda-social-y-de-fraccionamientos-populares-5203"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "1989-06-06"
+last_updated: "2004-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE VIVIENDA SOCIAL Y DE FRACCIONAMIENTOS POPULARES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA SOCIAL DEL ESTADO DE GUERRERO NUMERO 573, PUBLICADA EN EL PERIODICO OFICIAL EL 14 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -610,3 +612,13 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE DICIEMBRE DE 2004.
+
+Artículo Primero: La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo: Se abroga la Ley de Vivienda Social y de Fraccionamientos Populares de fecha 23 de mayo de 1989 y publicada el 6 de junio del mismo año en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero: En un plazo que no exceda de 90 días, a partir de la fecha de entrada en vigor de la presente Ley, la Secretaría habrá de emitir el Reglamento correspondiente.
