@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1971-04-16"
+last_updated: "1972-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 1972.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -1377,7 +1377,23 @@ En el caso de un Banco Oficial que financie a un ejido o comunidad que sea miemb
 
 El Fondo Nacional de Fomento Ejidal se crea para financiar la realización de los programas y planes de fomento económico y social precisamente para los ejidos y comunidades depositantes, hasta por el monto de sus respectivos depósitos, conforme a lo dispuesto en el artículo 165, en la forma y con los requisitos que se establezcan en el reglamento que al efecto se expida.
 
-Cuando la inversión lo amerite y lo demanden las necesidades del ejido o la comunidad, el Fondo Nacional de Fomento Ejidal podrá otorgar financiamiento para la realización de programas y planes de fomento económico y social en exceso al monto de los fondos comunes depositados; asimismo podrá financiar a ejidos y comunidades que no tengan calidad de cuenta- habientes del Fondo, pero no podrá aplicar en ninguno de estos dos últimos casos los recursos a que se refiere la fracción I del siguiente artículo, a efecto de garantizar que cada ejido o comunidad integrante del Fondo, pueda disponer totalmente de sus respectivas aportaciones.
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 1972)</small>
+
+Cuando la inversión lo amerite y lo demanden las necesidades del ejido o la comunidad, el Fondo Nacional de Fomento Ejidal podrá otorgar financiamiento para la realización de programas y planes de fomento económico y social en exceso al monto de los fondos comunes depositados; asimismo podrá financiar a ejidos y comunidades que no tengan calidad de cuenta-habientes del Fondo, pero no podrá aplicar en ninguno de estos dos últimos casos los recursos a que se refiere la fracción I del artículo 168, a efecto de garantizar que cada ejido o comunidad integrante del Fondo, pueda disponer totalmente de sus respectivas aportaciones.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 1972)</small>
+
+ARTICULO 167 BIS.- El Fondo Nacional de Fomento Ejidal, como entidad con personalidad jurídica y patrimonio propio, canalizará la inversión de sus recursos y las asignaciones económicas especiales que determine el Gobierno Federal, preferentemente a la realización de programas de fomento económico en ejidos y comunidades, para el incremento de la producción agropecuaria de éstos; al establecimiento de industrias que transformen dicha producción y la comercialicen; y a la constitución de empresas ejidales que extraigan o elaboren materiales para construcción de viviendas.
+
+Dentro de las industrias ejidales que financie el Fondo para extraer o transformar productos destinados a la construcción, se considerarán en primer término para recibir financiamientos, aquéllas que establezcan plantas industriales para la fabricación de viviendas.
+
+Tratándose de obras de beneficio social, el Fondo dará prioridad al financiamiento de programas de mejoramiento y construcción de la vivienda en ejidos y comunidades, a cuyo efecto coordinará su acción con los organismos competentes.
+
+El Fondo Nacional de Fomento Ejidal captará y administrará los recursos del ejido, provenientes de la regularización de zonas urbanas y opinará en los procedimientos relativos a dicha regularización.
+
+Para adquirir, construir, o mejorar la vivienda de ejidatarios y comuneros, el Fondo gestionará y otorgará garantías, créditos y financiamientos con los recursos disponibles para este objeto y los que reciba adicionalmente.
+
+En el desarrollo de estos programas se utilizará preferentemente la mano de obra de los propios campesinos, cuidando de no interferir las labores normales de su producción agropecuaria.
 
 ###### ARTICULO 168.
 
@@ -1434,6 +1450,10 @@ Los ejidos y las comunidades que se agrupen en los términos del artículo 171, 
 ###### ARTICULO 175.
 
 Los organismos oficiales encargados de adquirir las cosechas y satisfacer los precios de garantía acordados para los diferentes productos agrícolas, adquirirán en primer término los que sean de primera necesidad producidos en las explotaciones ejidales. Tratándose de otros productos, preferirán también la adquisición de los ejidales, cuando se hallen en igualdad de condiciones a los de otros productores.
+
+> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 1972)</small>
+
+ARTICULO 175 BIS.- Los ejidos y comunidades que poseen materiales para la construcción y las industrias ejidales de extracción o elaboración de esos materiales para la misma, tendrán preferencia para que sus productos sean adquiridos y utilizados en la construcción de vivienda y obras públicas que realicen o financien todos los organismos estatales y paraestatales.
 
 ###### ARTICULO 176.
 
@@ -3480,3 +3500,9 @@ Las empresas o unidades industriales que al entrar en vigor esta Ley tengan auto
 México, D. F., a 16 de marzo de 1971.- Raúl Lozano Ramírez, S. P.- Arnulfo Villaseñor Saavedra, D. P.- José Castillo Hernández, S. S.- Hilda Anderson Nevárez, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de marzo de mil novecientos setenta y uno.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Olachea Borbón.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Martínez Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 6 DE MAYO DE 1972.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
