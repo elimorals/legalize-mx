@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-instituto-tecnologico-de-sonora-8445"
 country: "mx"
 rank: "ley"
 publication_date: "1962-05-23"
-last_updated: "1962-05-23"
+last_updated: "1971-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL INSTITUTO TECNOLOGICO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 1971.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el miércoles 23 de mayo de 1962.
 
@@ -87,9 +87,11 @@ El Patronato se integrará por quince miembros que serán designados por tiempo 
 
 La directiva del Patronato estará formada por un Presidente, un Vice-Presidente, un Secretario, un Tesorero, un Pro-Tesorero y un Comisario, quienes serán electos libremente entre los miembros del propio Patronato, para un período de dos años y reelegibles por una sola vez.
 
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 8.
 
-El Director General será el Jefe nato del Instituto, su representante legal y Presidente del Consejo Técnico; durará en su cargo cuatro años y podrá ser reelecto por una sola vez. Su designación la hará el Consejo Técnico, de una terna propuesta por el ciudadano Gobernador del Estado.
+El Director General será el jefe nato del Instituto, su representante legal y Presidente del Consejo Directivo. Durará en su cargo tres años, pudiendo ser reelecto para períodos sucesivos. Su designación la hará el Consejo Directivo a propuesta, en terna, del Gobernador del Estado.
 
 ###### ARTICULO 9.
 
@@ -194,3 +196,9 @@ LIC. LUIS ENCINAS.
 El Secretario de Gobierno.
 
 LIC. ENRIQUE FOX ROMERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A AL PRESENTE LEY.</small>
+
+B.O. 20 DE MARZO DE 1971.
+
+UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
