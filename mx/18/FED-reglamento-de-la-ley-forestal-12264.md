@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-forestal-12264"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-25"
-last_updated: "1998-09-25"
+last_updated: "2005-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-09-23"
 
 REGLAMENTO DE LA LEY FORESTAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, PUBLICADO EN EL D.O.F. EL 21 DE FEBRERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 25 de septiembre de 1998.
 
@@ -1520,3 +1522,27 @@ QUINTO.- Durante el plazo señalado en el artículo anterior, los interesados co
 SEXTO.- En los procedimientos relativos a solicitudes de renovación anual, con base en estudios de manejo integral forestal para el aprovechamiento de recursos forestales maderables, el interesado podrá optar por la continuidad del aprovechamiento, sin que éste se interrumpa, presentando, para este efecto, los informes previstos en la Ley y este Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de septiembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Agricultura, Ganadería y Desarrollo Rural, Romárico Arroyo Marroquín.- Rúbrica.- El Secretario de la Reforma Agraria, Arturo Warman Gryj.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE FEBRERO DE 2005.
+
+PRIMERO. El presente Reglamento entrará en vigor a los treinta días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Forestal publicado en el Diario Oficial de la Federación del 23 de septiembre de 1998 y se derogan las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. La Secretaría de Medio Ambiente y Recursos Naturales, durante el plazo de ciento veinte días naturales, contados a partir de la fecha en que entre en vigor el presente Reglamento emitirá los formatos, manuales e instructivos previstos en este ordenamiento, los cuales deberán publicarse en el Diario Oficial de la Federación.
+
+CUARTO. Los formatos validados por la Secretaría de Medio Ambiente y Recursos Naturales, de conformidad con el Acuerdo publicado en el Diario Oficial de la Federación de fecha veinticuatro de diciembre de 2002, por el que se establecen las especificaciones, procedimientos, lineamientos técnicos y de control para el aprovechamiento, transporte, almacenamiento y transformación que identifiquen el origen legal de las materias primas forestales, se podrán seguir utilizando dentro del término de su vigencia.
+
+QUINTO. La Secretaría de Medio Ambiente y Recursos Naturales inscribirá en el Registro Forestal Nacional aquellas plantaciones forestales comerciales establecidas con anterioridad a la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable y que no cuenten con el registro correspondiente. Para tal efecto, los interesados presentarán un aviso, en escrito libre, el cual contendrá nombre, denominación o razón social y domicilio del propietario o poseedor del predio, ubicación y denominación del predio, así como superficie y especies a plantar.
+
+Las plantaciones a que se refiere el presente artículo, con superficie menor a una hectárea, estarán exentas de presentar los informes a que se refieren los artículos 62, fracción IX, y 92 de la Ley General de Desarrollo Forestal Sustentable. Para acreditar la legal procedencia de sus materias primas y productos forestales, se estará a lo dispuesto en el artículo 109 del presente Reglamento.
+
+SEXTO. La Junta de Gobierno de la Comisión Nacional Forestal deberá expedir el Reglamento para la integración y funcionamiento del Comité Mixto para operar el Fondo a que hace referencia el artículo 142 de la Ley General de Desarrollo Forestal Sustentable, en un término que no exceda de seis meses contados a partir de la entrada en vigor del presente Reglamento.
+
+SÉPTIMO. Los parámetros para determinar el monto económico de la compensación ambiental a que hace referencia el artículo 124 de este Reglamento, deberán ser publicados en el Diario Oficial de la Federación dentro de los noventa días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+OCTAVO. En tanto la Secretaría de Medio Ambiente y Recursos Naturales expide las normas oficiales mexicanas que establezcan las medidas fitosanitarias que deban cumplir los importadores de materias primas y productos forestales, a que se refiere el artículo 131 del presente Reglamento, los interesados deberán obtener el certificado fitosanitario de importación o, en su caso, el documento que acredite la evaluación de la conformidad por tercero acreditado y aprobado por la propia Secretaría, en términos de la Ley Federal sobre Metrología y Normalización.
+
+NOVENO. Las acciones derivadas del presente Reglamento que competan a la Secretaría de Medio Ambiente y Recursos Naturales y a la Comisión Nacional Forestal, se ejecutarán con cargo a sus respectivos presupuestos aprobados.
