@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-expropiacion-8236"
 country: "mx"
 rank: "ley"
 publication_date: "1938-10-13"
-last_updated: "1938-10-13"
+last_updated: "1944-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY DE EXPROPIACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE AGOSTO DE 1944.
 
-Ley publicada en el Diario Oficial el lunes 13 de Octubre de 1938.
+Ley publicada en el Diario Oficial el 13 de Octubre de 1938.
 
 GOBIERNO SOCIALISTA DEL ESTADO DE YUCATAN.
 
@@ -145,7 +145,7 @@ El Juez fijará un plazo que no excederá de treinta días para que los peritos 
 
 ###### ARTICULO 19.
 
-Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, el Juez de plano fijará el monto de la indemnización; en caso de desconformidad (sic), llamará al tercero para que dentro del plazo que le fije, que no excederá de veinte días, rinda su dictamen. Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de tres días, lo que estime procedente.
+Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, el Juez de plano fijará el monto de la indemnización; en caso de disconformidad, llamará al tercero para que dentro del plazo que le fije, que no excederá de veinte días, rinda su dictamen. Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de tres días, lo que estime procedente.
 
 ###### ARTICULO 20.
 
@@ -163,9 +163,11 @@ Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa
 
 Estas disposiciones se aplicarán, en lo conducente, a los casos de ocupación temporal.
 
+> <small>(REFORMADO, D.O. 2 DE AGOSTO DE 1944)</small>
+
 ###### ARTICULO 23.
 
-La autoridad expropiante fijará la forma y los plazos en que la indemnización deberá pagarse, los que no abarcarán nunca un periodo mayor de diez años.
+La indemnización correspondiente deberá cubrirse inmediatamente que sea fijado su importe.
 
 ###### ARTICULO 24.
 
@@ -194,3 +196,9 @@ El Oficial Mayor en funciones
 de Secretario General,
 
 M. PASOS PENICHE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 2 DE AGOSTO DE 1944.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
