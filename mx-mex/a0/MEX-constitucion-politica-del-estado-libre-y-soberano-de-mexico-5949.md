@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1978-07-20"
+last_updated: "1979-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE JULIO DE 1978.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 1979.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -71,9 +71,27 @@ G.G. 27 DE DICIEMBRE DE 1939.
 
 Artículo Unico.- Este Decreto surtirá efectos Constitucionales a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-G.G. 8 DE ENERO DE 1944.
+G.G. 22 DE OCTUBRE DE 1941.
 
-DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA CONSTITUCION POLITICA LOCAL.
+Artículo Tercero.- Estas reformas entrarán en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 20 DE DICIEMBRE DE 1941.
+
+DECRETO NUMERO 70, POR EL QUE SE REFORMA EL ARTICULO 209 Y SE DEROGAN LOS ARTICULOS 210, 211, 212, 213, 214 Y 215 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 1941.
+
+DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCION VIII, 115 Y 117, SE ADICIONAN LOS ARTICULOS 73 Y 89 DE LA CONSTITUCION PARTICULAR DEL ESTADO CON UNA FRACCION EL PRIMERO Y CON DOS EL SEGUNDO.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 4 DE JULIO DE 1942.
+
+El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
+
+G.G. 30 DE DICIEMBRE DE 1942.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -629,7 +647,9 @@ VI. Decretar los ingresos que deben constituir la Hacienda Municipal;
 
 VII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
-VIII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1979)</small>
+
+VIII. Decretar el establecimiento y fundación de Nuevos Centros de Población en el Territorio Estatal.
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1966)</small>
 
@@ -987,7 +1007,9 @@ XII. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a l
 
 XIII. Cuidar de la recaudación y buena administración de las rentas generales del Estado;
 
-XIV.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 1979)</small>
+
+XIV. Elaborar, ejecutar y revisar periódicamente los Planes de Desarrollo del Estado, así como los Parciales y Especiales derivados de aquéllos.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2217,23 +2239,9 @@ DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA 
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-G.G. 20 DE DICIEMBRE DE 1941.
+G.G. 8 DE ENERO DE 1944.
 
-DECRETO NUMERO 70, POR EL QUE SE REFORMA EL ARTICULO 209 Y SE DEROGAN LOS ARTICULOS 210, 211, 212, 213, 214 Y 215 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
-
-G.G. 20 DE DICIEMBRE DE 1941.
-
-DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCION VIII, 115 Y 117, SE ADICIONAN LOS ARTICULOS 73 Y 89 DE LA CONSTITUCION PARTICULAR DEL ESTADO CON UNA FRACCION EL PRIMERO Y CON DOS EL SEGUNDO.
-
-UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
-
-G.G. 4 DE JULIO DE 1942.
-
-El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
-
-G.G. 30 DE DICIEMBRE DE 1942.
+DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### Art. 1o.
 
@@ -2250,14 +2258,6 @@ Se faculta al Ejecutivo del Estado para organizar y reglamentar el funcionamient
 G.G. 8 DE ENERO DE 1944.
 
 DECRETO NUMERO 32, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 104, ACTUALMENTE VIGENTES DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-###### ARTICULO SEGUNDO.
-
-Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
-
-G.G. 8 DE ENERO DE 1944.
-
-DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2294,6 +2294,28 @@ G.G. 17 DE OCTUBRE DE 1945.
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 G.G. 20 DE ABRIL DE 1946.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
+
+Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 15 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
@@ -2415,25 +2437,11 @@ Este Decreto será aplicable solamente a los nombramientos de Magistrados del H.
 
 ###### ARTICULO SEGUNDO.
 
-El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 31 DE DICIEMBRE DE 1947.
+G.G. 31 DE ENERO DE 1976.
 
-DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
-
-Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
-
-G.G. 31 DE DICIEMBRE DE 1947.
-
-DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 15 DE SEPTIEMBRE DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 4 DE ENERO DE 1950.
+DECRETO NUMERO 38, POR EL QUE SE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
 
 ###### ARTICULO UNICO.
 
@@ -2462,6 +2470,12 @@ G.G. 20 DE JULIO DE 1978.
 ###### ARTICULO UNICO.
 
 Las presentes adiciones y reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 28 DE JUNIO DE 1979.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
 ###### ARTICULO SEGUNDO.
 
