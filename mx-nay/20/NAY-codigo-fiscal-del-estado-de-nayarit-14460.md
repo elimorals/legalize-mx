@@ -4,7 +4,7 @@ identifier: "NAY-codigo-fiscal-del-estado-de-nayarit-14460"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1980-05-07"
+last_updated: "2002-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO FISCAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de diciembre de 1976.
 
@@ -371,11 +371,7 @@ La vigencia y exigibilidad por cantidad líquida del derecho del crédito cuya p
 
 ###### ARTICULO 48.
 
-Las controversias que surjan entre el fisco estatal y los fiscos municipales sobre preferencia en el cobro de los créditos a que este Código se refiere se decidirán, por el Supremo Tribunal de Justicia del Estado tomando en cuenta las garantías constituidas conforme a las siguientes reglas:
-
-I.- Los Créditos derivados por impuestos sobre la propiedad raíz serán preferentes, tratándose de los frutos de los bienes inmuebles respectivos o del producto de la venta de éstos, y
-
-II.- En los demás casos la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 49.
 
@@ -853,73 +849,51 @@ Las instancias o peticiones que se formulen a las autoridades fiscales deberán 
 
 ###### ARTICULO 88.
 
-Las notificaciones a los particulares de citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos que puedan ser recurridos se harán:
-
-I.- Personalmente.
-
-II.- Mediante oficio entregado por mensajero o por correo certificado con acuse de recibo.
-
-III.- Por edictos, únicamente en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 89.
 
-Los acuerdos distintos de los señalados en el artículo anterior, podrán ser notificados por medio de oficio o telegrama.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 90.
 
-Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar haya señalado a las autoridades fiscales en el procedimiento administrativo de que se trata, a falta de señalamiento se estará a las reglas del artículo 23 de este Código.
-
-Se entenderán con la persona que deba ser notificada o su representante legal, a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrase cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de policía.
-
-Si la persona a quien haya de notificarse no atendiera el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en el que se realice la diligencia y de negarse ésta a recibirlos, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el notificador tomará razón por escrito.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 91.
 
-Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto al iniciar alguna instancia, y solo por lo que le toca al trámite y resolución de ésta bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca empresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 92.
 
-Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar; dichas publicaciones deberán efectuarse por tres días consecutivos en el periódico oficial y en uno de los diarios de mayor circulación en el Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 93.
 
-Las notificaciones surtirán sus efectos al día hábil siguiente al en que fueron hechas o al de la última publicación, en el caso del artículo que antecede.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 94.
 
-La manifestación que haga el interesado o su representante legal de conocer un acuerdo o resolución, surtirá efectos de notificación en forma, desde la fecha en que manifieste haber tenido tal conocimiento, si dicha manifestación es anterior o la en que debiera surtir sus efectos la notificación de acuerdo con el artículo precedente.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 95.
 
-La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
-
-En ningún trámite administrativo se adquirirá la gestión de negocios.
-
-Los interesados podrán autorizar por escrito, en cada uno de los casos a personas que en su nombre reciban notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 96.
 
-En los términos fijados en días por las disposiciones generales o por las autoridades fiscales, se computarán sólo los hábiles.
-
-Los términos fijados por períodos y aquéllos en que se señale una fecha determinada para su extinción, comprenderán los días inhábiles.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 97.
 
-Salvo que las disposiciones legales respectivas o resoluciones, señalen una fecha para la iniciación de los términos, éstos se computarán a partir del día hábil siguiente al en que surta sus efectos la notificación o en que se realicen los hechos o las circunstancias que las disposiciones legales o resoluciones administrativas prevengan.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 98.
 
-Se considerarán días hábiles sólo aquellos en que se encuentren abiertas al público las oficinas fiscales durante el horario normal. La existencia de personal de guardia no habilita los días en que se suspendan las labores.
-
-Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas o días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 99.
 
-La vigilancia de los tributos, tendrá por objeto investigar el cumplimiento de las obligaciones fiscales y en su caso determinar el crédito correspondiente y las bases para su correcta liquidación; la comisión de infracciones o (sic) las disposiciones fiscales, y en general el cumplimiento o incumplimiento de dichas disposiciones.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ### CAPITULO III. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -927,395 +901,225 @@ La vigilancia de los tributos, tendrá por objeto investigar el cumplimiento de 
 
 ###### ARTICULO 100.
 
-El conjunto de normas que regulan el ejercicio de la facultad económico - coactiva constituye el procedimiento administrativo de ejecución que será preferente a las acciones de cualquiera otras personas físicas o jurídicas.
-
-Se exceptúan de esta disposición de manera exclusiva, las acciones tendientes a hacer efectiva la pensión alimenticia y las que se funden en la Legislación del Trabajo, siempre que antes de que se notifique al deudor el crédito fiscal, se hayan presentado las demandas relativas ante las autoridades competentes.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 101.
 
-Cuando no se haya satisfecho un crédito fiscal a favor del Erario del Estado dentro del término o en la fecha en que sea exigible, se hará efectivo por medio del procedimiento administrativo de ejecución que se iniciará al día hábil siguiente al del vencimiento del plazo que para efectuar el pago señale la Ley.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 102.
 
-Los vencimientos que ocurran durante el procedimiento, incluso recargos, gastos de ejecución y cualesquiera otro, se harán efectivos juntamente con el crédito inicial, sin necesidad de nuevos requerimientos ni de otras formalidades especiales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 103.
 
-Cuando las circunstancias lo requieran, los créditos a favor del Erario del Estado, podrán ser trasladados a la Oficina Recaudadora donde fuese factible el cobro, para que emplace al deudor y siga el procedimiento correspondiente hasta cualquiera de sus trámites.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 104.
 
-Para iniciar un procedimiento de ejecución que tienda a hacer efectivo un crédito fiscal en bienes no pertenecientes al deudor directo, deberá emplazarse previamente al propietario de ellos, mediante notificación en la que se expresará:
-
-I.- El nombre del deudor o particular interesado.
-
-II.- El concepto o monto del adeudo o el objeto del emplazamiento.
-
-III.- El plazo para el pago o para desahogar el trámite relativo que será de quince días salvo que la Ley señale otro.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 105.
 
-En el caso del artículo 101, la autoridad ejecutora expedirá mandamiento de ejecución fundado y motivado ordenando requerir al deudor, para que en un plazo de tres días hábiles contados a partir del siguiente a dicho requerimiento, pague el crédito en cuestión, apercibiéndolo de que en caso de no hacerlo, se le embarguen bienes suficientes para hacer efectivo el crédito fiscal y sus accesiones legales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 106.
 
-El requerimiento se hará personalmente al deudor o a su representante legal, si fueren encontrados en el domicilio en que deba practicarse la diligencia. O por edictos únicamente en el caso de que la persona a quien haya de recurrirse hubiere desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 107.
 
-Cuando la notificación sea personal y no se encuentre al deudor en la primera búsqueda, se procederá en los términos del artículo 90.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 108.
 
-El ejecutor podrá ordenar que se practique embargo precautorio en el acto mismo de la notificación del adeudo, siempre que hubiere peligro de que se ausente el deudor o de que enajene u oculte sus bienes.
-
-En el caso, la providencia para practicar este embargo se incluirá en forma expresa en el acuerdo que ordene la notificación.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION SEGUNDA. DEL EMBARGO ADMINISTRATIVO
 
 ###### ARTICULO 109.
 
-Procederá el aseguramiento de bienes en la vía administrativa de ejecución:
-
-I.- Transcurrido el plazo señalado en el requerimiento si el deudor no ha cubierto en su totalidad el crédito a su cargo.
-
-II.- En el acto mismo del requerimiento cuando a juicio del recaudador hubiere temores fundados de que el deudor pretende enajenar, ocultar o dilapidar los bienes . En este caso, si el crédito fiscal se cubre dentro de los plazos legales, el deudor no estará obligado a pagar gastos de embargo.
-
-III.- En el momento en que se descubra la existencia de establecimientos industriales, comerciales o bienes sustraídos a la tributación. Cuando esto suceda, la autoridad recaudadora deberá iniciar el procedimiento tendiente a determinar y liquidar el crédito fiscal en un plazo que no excederá de treinta días.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 110.
 
-Los embargos administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Dirección General de Finanzas y Administración del Estado estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 111.
 
-El deudor, o en su defecto la persona con quien se entienda la diligencia, tendrá derecho a que en ésta intervengan dos testigos y a designar los bienes que deban embargarse, siempre que se sujete al orden siguiente:
-
-I.- Dinero y metales preciosos.
-
-II.- Créditos de inmediata realización.
-
-III.- Alhajas y objetos de arte.
-
-IV.- Frutos y rentas.
-
-V.- Los bienes afectos a impuestos objetivos.
-
-VI.- Bienes muebles no comprendidos en las cinco primeras fracciones.
-
-VII.- Bienes raíces.
-
-VIII.- Negociaciones comerciales, industriales, o agrícolas.
-
-IX.- Créditos o derechos no comprendidos en la fracción II.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 112.
 
-Si el deudor altera ese orden, se rehusa al señalamiento o los bienes designados no son idóneos, ya por insuficientes, o porque estuviesen ubicados en otra demarcación Hacendaria, el ejecutor hará la designación.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 113.
 
-Si en el curso de la diligencia el deudor efectúa el pago del crédito y de los accesorios ya causados, el ejecutor la suspenderá y expedirá el recibo correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 114.
 
-Quedan exceptuados de embargo:
-
-I.- El lecho cotidiano y los vestidos del deudor y de sus familiares.
-
-II.- Los muebles de uso indispensable del deudor y de sus familiares, no siendo de lujo a juicio del ejecutor;
-
-III.- Los libros, instrumentos, útiles y mobiliario indispensable para el ejercicio de la profesión, arte u oficio a que se dedique el deudor;
-
-IV.- La maquinaria, enseres y semovientes propios para las actividades de las negociaciones industriales, comerciales o agrícolas en cuanto fueren necesarios para su funcionamiento a juicio del ejecutor, pero podrán ser objeto de embargo con la negociación a que estén destinados.
-
-V.- Las armas, vehículos y caballos que los militares en servicio deban usar conforme a las Leyes.
-
-VI.- Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras.
-
-VII.- El derecho de usufructo, pero no los frutos de éste.
-
-VIII.- Los derechos de uso o de habitación.
-
-IX.- El patrimonio de familia en los términos que establezcan las Leyes, desde su inscripción en el Registro Público de la Propiedad.
-
-X.- Los sueldos y el salario de los trabajadores en los términos que lo establece la Ley Federal del Trabajo
-
-XI.- Las asignaciones de los pensionistas del erario;
-
-XII.- Los ejidos de los pueblos y la parcela individual que en su fraccionamiento corresponda a cada ejidatario.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 115.
 
-Cuando el ejecutor encuentre resistencia por parte del deudor o de cualquier otra persona para tener acceso al domicilio de aquél o al lugar en donde se encuentren los bienes recurrirá al auxilio de la fuerza pública como medio de hacer efectivos los procedimientos de ejecución.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 116.
 
-Si durante el embargo administrativo, la persona con quien se entienda la diligencia se rehusa a abrir las puertas de los locales embargados o de los recintos donde se presume que existen bienes susceptibles de embargo, el ejecutor, previo acuerdo fundado del jefe de la Oficina Ejecutora, hará que, ante dos testigos, sean rotas las cerraduras que fuere necesario romper para que siga adelante la diligencia.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 117.
 
-En la misma forma indicada en el artículo anterior se procederá respecto de los muebles en que se suponga se guardan valores embargables; pero si no se considera conveniente romper las cerraduras, se trabará el embargo sobre objeto cerrado, el cual, después de ser sellado, se remitirá a la Oficina ejecutora. Si en un plazo de tres días no se presenta el deudor a abrirlos espontáneamente, se recurrirá a los servicios de un experto.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 118.
 
-La diligencia de embargo no se suspenderá por ningún motivo. Si surge dificultad, el ejecutor la resolverá discrecionalmente, a reserva de lo que disponga el Jefe de la Oficina ejecutora.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 119.
 
-Si los bienes señalados para la traba de ejecución están ya embargados por otras autoridades no fiscales o sujetos a Cédula hipotecaria, se practicará, no obstante el secuestro administrativo; los bienes embargados se entregarán al depositario designado por la oficina ejecutora o por el ejecutor, y se dará aviso a la autoridad correspondiente para que él o los interesados puedan hacer valer su reclamación de preferencia.
-
-Si los bienes señalados para la ejecución hubieren sido ya embargados por parte de autoridades fiscales municipales, se practicará el secuestro, entregándose los bienes al depositario que designe la autoridad estatal y se dará aviso a la autoridad municipal. En caso de inconformidad, la controversia resultante será resuelta por los tribunales judiciales del Estado; en tanto no resuelve el procedimiento respectivo no se hará aplicación del producto del remate, salvo que se garantice el interés fiscal a satisfacción de la Dirección General de Finanzas y Administración.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 120.
 
-El que practique el embargo trabará ejecución sobre bienes que basten a cubrir el adeudo inicial, y sus accesorios. Una vez identificados, se pondrán en depósito bajo la custodia del depositario que bajo su responsabilidad designe el mismo ejecutor, si antes no hubiese sido nombrado por el Delegado o jefe de la Oficina ejecutora. El nombramiento podrá recaer en el mismo deudor.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 121.
 
-El embargo de crédito se limitará a notificar al deudor que deberá hacer los pagos en la caja de la Oficina ejecutora, apercibiéndole de doble pago en caso de desobediencia. Por su parte los acreedores serán advertidos de las penas en que incurren los que disponen de créditos secuestrados.
-
-Si el pago hecho por el deudor implicare para el acreedor el cumplimiento de cancelar algún documento, la Oficina ejecutora lo hará en su rebeldía si llegare a rehusarse.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 122.
 
-Si el crédito es litigioso, se hará saber el embargo además, al Juez que conozca de la controversia, a efecto de que se abstenga de decretar o autorizar cualquier acto de disposición.
-
-El Ministerio Público asumirá, en este caso, las facultades que concede a los depositarios el artículo 532 del Código de Procedimientos Civiles.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 123.
 
-Los metales preciosos, el dinero, las alhajas y los valores mobiliarios serán enviados desde luego en calidad de depósito a la Dirección General de Finanzas y Administración del Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 124.
 
-Los recaudadores, bajo su responsabilidad, nombrarán y removerán libremente a los depositarios, quienes asumirán las funciones de administración en el caso de embargo de bienes raíces y de interventor en las negociaciones industriales, comerciales o agrícolas.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 125.
 
-El depositario, sea administrador o interventor, desempeñará su cargo con sujeción a las normas jurídicas en vigor, con todas las facultades y responsabilidades inherentes y tendrá en particular, las siguientes obligaciones:
-
-I.- Garantizar su manejo a satisfacción de la Oficina ejecutora;
-
-II.- Manifestar a la oficina su domicilio legal y el de su casa habitación, así como el cambio de los mismos;
-
-III.- Remitir a la oficina inventario de los bienes o negociaciones objeto del secuestro, con expresión de los valores determinados en el momento del embargo, incluso los de arrendamiento, si se hicieron constar en la diligencia o en caso contrario, luego que sean recabados. En todo caso, en el inventario se hará constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la misma oficina de los cambios de localización que se efectuaren;
-
-IV.- Recaudar los frutos y productos de los bienes secuestrados o los resultados netos de las negociaciones embargadas y entregar su importe a la caja de la oficina diariamente o a medida que se efectúe la recaudación.
-
-V.- Ejercitar ante las autoridades competentes las acciones y actos de gestión necesarios para hacer efectivos los créditos materia del depósito o incluidos en él, así como las rentas, regalías y cualesquiera otras prestaciones en numerario o en especie;
-
-VI.- Erogar los gastos de administración, mediante aprobación de la oficina ejecutora cuando sean depositarios administradores, o ministrar el importe de tales gastos, previa la comprobación procedente, si sólo fueren depositarios interventores.
-
-VII.- Rendir cuentas mensuales comprobadas, a la Oficina ejecutora;
-
-VIII.- El depositario interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas y modificarlas.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 126.
 
-Cuando los deudores o el personal a sus órdenes no dieren acatamiento a las medidas urgentes que llegue a dictar el depositario con facultades de interventor, la Oficina ejecutora, podrá ordenar que aquél asuma facultades de Administrador.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 127.
 
-En los términos que dispone el Código Civil, se inscribirá en el Registro Público de la Propiedad y en su caso en el de Comercio, todo embargo que se finque sobre bienes raíces, derechos reales sobre ellos o negociaciones de cualquier género.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 128.
 
-Cuando se encuentren improductivas o abandonadas las negociaciones sujetas a embargo, la Oficina ejecutora, previa autorización de la Dirección General de Finanzas y Administración del Estado, podrá celebrar contratos de arrendamiento con terceras personas que sean expertas en su explotación. En igualdad de circunstancias, será preferido para el arrendamiento el propio deudor.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION TERCERA. DE LOS REMATES
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 1980)</small>
-
 ###### ARTICULO 129.
 
-Se procederá a la venta de los bienes embargados en el local de la Oficina ejecutora y en pública subasta al décimo sexto día de practicado el embargo, si en contra de éste no hubiere objeción o cuando quede firme, al resolverse la que se hubiere hecho valer.
-
-La Oficina Ejecutora podrá señalar un lugar distinto para la venta, si con esta medida puede obtenerse un mayor rendimiento del remate.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 130.
 
-La base para el remate de los bienes secuestrados se establecerá como sigue:
-
-I.- Si se trata de bienes inmuebles su valor catastral y, si no lo hubiere el que resulte del avalúo pericial.
-
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 1980)</small>
-
-II.- Si se trata de bienes muebles, el que defina el avalúo pericial.
-
-El perito valuador será nombrado por la Dirección General de Finanzas y Administración.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 131.
 
-El remate deberá señalarse para una fecha fija dentro de los treinta días siguientes a la determinación del precio que sirva de base; y se publicará la convocatoria cuando menos diez días antes de la almoneda, de la manera que sigue:
-
-I.- Si se trata de bienes muebles con valor que no exceda de $ 10,000.00 la convocatoria se fijará en sitio visible de la oficina ejecutora y en los estrados de la autoridad municipal del lugar.
-
-II.- Si se trata de inmuebles, o de muebles con valor mayor de $ 10,000.00 la convocatoria se publicará en los sitios a que se refiere la fracción anterior y en el periódico local de mayor circulación.
-
-A petición del deudor y previo pago del costo, la autoridad ejecutora puede ordenar que se dé mayor publicidad a la convocatoria de postores, dentro del plazo señalado en el primer párrafo de este precepto.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 132.
 
-Los edictos contendrán:
-
-I.- La fecha, hora y lugar en que vaya a efectuarse el remate.
-
-II.- Relación de los bienes por rematar.
-
-III.- Valor que sirva de base para la almoneda.
-
-IV.- Postura legal.
-
-V.- Importe del adeudo y sus accesorios.
-
-VI.- Nombre de los acreedores que hayan aparecido del certificado de gravámenes a que se refiere el artículo 132 si por carecer de sus domicilios la oficina ejecutora, no pudo notificarlos personalmente.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 133.
 
-Será postura legal:
-
-I.- Si se trata de inmuebles, la que cubra las dos terceras partes del precio que sirva de base para el remate.
-
-II.- Si se trata de muebles, la que cubra la mitad.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 134.
 
-En toda postura deberá ofrecerse de contado por lo menos, la parte que baste para cubrir el interés fiscal; y la diferencia entre éste y la postura cuando sea mayor, podrá reconocerse en favor del deudor o de quien en derecho proceda, para ser cubierta con los intereses correspondientes hasta en un año de plazo si la cantidad es menor de $ 10,000.00 y hasta de un plazo de dos años si excede de esa cantidad.
-
-Cuando la postura legal sea inferior al interés fiscal, el remate solo podrá hacerse de contado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 135.
 
-Las posturas deberán contener los siguientes datos:
-
-I.- Nombre, edad, nacionalidad, capacidad legal, profesión y domicilio del postor. Si fuere una sociedad, número de la partida y fecha de registro, así como el nombre de su representante legal y su domicilio. En ambos casos: Números de Registro Federal de Causantes.
-
-II.- Las cantidades que se ofrezcan.
-
-III.- Lo que se ofrezca de contado, que deberá exhibirse con el escrito ante la oficina ejecutora, y los términos y condiciones en que haya de pagarse la diferencia.
-
-IV.- El interés que deba causar esa diferencia, que no podrá ser menor del 12 por ciento anual.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 136.
 
-El importe de los depósitos que se constituyan de acuerdo con lo dispuesto en el artículo anterior, servirá de garantía para el cumplimiento de las obligaciones que adquieran los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la oficina ejecutora, se devolverán las cantidades exhibidas por los postores, excepto la del postor admitido cuyo importe permanecerá como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 137.
 
-Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que haya contraído y las que este Código señala, perderá el importe del depósito que hubiere constituido y se aplicará, de plano, por las Oficinas ejecutoras a favor del Fisco del Estado. En este caso se reanudarán las almonedas en la forma y términos que señala el artículo 150.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 138.
 
-El día y hora señalados para el remate, el jefe de la Oficina Ejecutora, después de pasar lista de las personas que hubieren presentado posturas, hará saber a los presentes cuáles fueron calificadas como legales y dará a conocer cuál es la mejor postura concediendo plazos seguidos de cinco minutos cada uno, hasta por tres veces, para hacer pujas.
-
-Si terminado cualquiera de los plazos no hubiere pujas, el Jefe de Oficina resolverá cual es la mejor postura y fincará el remate a favor de quien la hubiere hecho.
-
-Si en dos o más posturas se ofrece igual suma de contado, la suerte decidirá la que deba aceptarse, salvo la preferencia del Fisco del Estado para adjudicarse los bienes sacados a remate, conforme a la Ley.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 139.
 
-Fincado el remate de bienes muebles con valor menor de $ 10,000.00, la oficina ejecutora los entregará al postor, extendiéndole el documento que patentice que fueron rematados a su favor y aplicará al crédito fiscal el importe de la postura dejando a disposición del deudor la cantidad excedente si la hubiere.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 140.
 
-Si los bienes rematados fueren inmuebles, o muebles cuyo valor exceda de $ 10,000.00, una vez fincado el remate, se enviará el expediente a la Dirección General de finanzas y Administración del Estado para que, previa revisión del procedimiento, resuelva si es de aprobarse el remate.
-
-Si la resolución es negativa, el fincamiento que haya hecho la oficina ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva la cantidad que hubiere exhibido.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 141.
 
-Aprobado el remate de bienes raíces, la Oficina ejecutora lo comunicará al postor para que, dentro de un plazo de diez días, entere la diferencia que hubiere entre la cantidad ofrecida y exhibida de contado y el importe de la postura.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 142.
 
-Hecho el pago a que se refiere el precepto anterior, el postor designará la Notaría en que deba otorgarse la escritura de venta y la Oficina ejecutora citará al deudor para que pase a firmarla dentro de un término de tres días, apercibiéndolo de que si no lo hace, el jefe de la propia Oficina la otorgará y firmará en su rebeldía. En la misma escritura el adquirente otorgará garantía hipotecaria por la parte de precio que quedare adeudando si éste es el caso.
-
-El deudor, aún cuando la escritura se hubiere firmado en su rebeldía, responde por la evicción y saneamiento del inmueble rematado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 143.
 
-Los bienes inmuebles pasarán a ser propiedad del postor, libres de todo gravamen y a fin de que se cancelen los que reportaren, el jefe de la Oficina ejecutora que finque el remate deberá comunicar al Registro Público de la Propiedad la transmisión de dominio que se hubiere operado.
-
-Los encargados del Registro Público de la Propiedad deberán inscribir la transmisión de dominio de bienes inmuebles que resulte de los remates celebrados por las oficinas ejecutoras fiscales y procederán a hacer las cancelaciones de gravámenes procedentes.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 144.
 
-Tan pronto como se hubiere otorgado y firmado la escritura en que conste la adjudicación del inmueble, el Jefe de la Oficina ejecutora dispondrá que se entregue al adquiriente, dando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el deudor o por terceros que no tuvieren contrato para acreditar el uso en los términos que establece la Legislación Civil.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 145.
 
-Queda estrictamente prohibido a los jefes de las Oficinas Ejecutoras, a su personal y a quienes hubieren intervenido en el procedimiento de ejecución, adquirir los bienes objeto de un remate por sí o por medio de interpósita persona. El remate efectuado con infracción de este precepto será nulo y los infractores serán separados de su puesto.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 146.
 
-Con el producto del remate se pagará el interés fiscal, en el orden siguiente:
-
-I.- Los gastos de ejecución, a saber:
-
-a) Honorarios de los ejecutores, depositarios, y peritos de acuerdo con lo que establezcan las disposiciones relativas a lo que, a falta de estas resuelva la Dirección General de Finanzas y Administración a propuesta de las Oficinas Ejecutoras.
-
-b) Los de impresión y publicación de convocatorias.
-
-c) Los de transporte del personal ejecutor y de los bienes muebles embargados.
-
-d) Los demás que, con carácter de extraordinarios, eroguen las Oficinas ejecutoras con motivo del procedimiento de ejecución.
-
-II.- Los impuestos, derechos, productos y aprovechamientos que dieron lugar el embargo.
-
-III.- Los vencimientos ocurridos durante el procedimiento de ejecución fiscal.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 147.
 
-El Fisco del Estado tendrá preferencia para adjudicarse, en cualquier almoneda, los bienes sacados a remate:
-
-I.- A falta de postores, por la base de la postura legal que habría de servir para la almoneda siguiente.
-
-II.- A falta de pujas, por la base de la postura legal no mejorada.
-
-III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 148.
 
-Para que la Oficina ejecutora decrete la adjudicación a que se refiere el artículo anterior, consultará la opinión y aprobación de la Dirección General de Finanzas y Administración del Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 149.
 
-Cuando al efectuarse la primera almoneda no hubiere postores, se citará nuevamente a remate hasta por dos veces más con intervalos de quince días, publicándose las convocatorias conforme al artículo 132.
-
-En cada una de las dos almonedas a que se refiere el párrafo anterior, se reducirá la postura legal en un DIEZ POR CIENTO.
-
-Si en la tercera almoneda se presentare postor que acepte las condiciones de la misma, se fincará el remate sin más trámite en su favor, salvo los derechos de preferencia que tiene el Fisco del Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 150.
 
-Las oficinas ejecutoras podrán vender fuera de subasta, los bienes de fácil descomposición o deterioro, las materias inflamables y los semovientes.
-
-Cuando se trate de bienes raíces o de bienes muebles que no se hubieren subastado en la tercera almoneda por falta de postores, las Oficinas ejecutoras solicitarán autorización de la Dirección General Finanzas y Administración del Estado para venderlos al mejor comprador.
-
-En los casos previstos en los dos párrafos anteriores, la venta fuera de subasta se hará con la intervención de los representantes del Departamento de Auditoría de la Dirección General de Finanzas y Administración del Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 151.
 
-Los excedentes que hubiere en las ventas fuera de la subasta se devolverán a quien en derecho proceda conforme a las disposiciones de este Código.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION CUARTA. DE LA SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 ###### ARTICULO 152.
 
-Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos o juicios de nulidad, cuando lo solicite el interesado y se consigne o garantice el crédito fiscal de que se trate y en su caso los accesorios legalmente causados o los posibles recargos respectivamente.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
-La suspensión podrá ser solicitada en cualquier tiempo ante la Oficina ejecutora, acompañando copia del escrito con el que hubiere iniciado el recurso administrativo o el juicio de que se trate.
+### CAPITULO V. DE LOS RECURSOS ADMINISTRATIVOS
 
-La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de quince días para el otorgamiento de la garantía.
-
-Constituida ésta, la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
-
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar el interés fiscal.
-
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir en queja ante la Dirección General de Finanzas y Administración del Estado, si se está tramitando el recurso administrativo, o ante el Tribunal Fiscal del Estado en que se tramite el juicio de nulidad si ya se ha iniciado éste. La Dirección o el Tribunal pedirán a la autoridad ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
-
-### CAPITULO IV. DE LOS PROCEDIMIENTOS RELACIONADOS CON LA EXTINCION DE LOS CREDITOS FISCALES
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 153.
 
@@ -1361,111 +1165,51 @@ La solicitud de condonación de multas, que no tendrá el carácter de recurso, 
 
 Cuando se pida la devolución, ésta deberá efectuarse dentro del plazo de noventa días siguientes a la fecha en que quede reconocido el derecho del peticionario. Si dentro de dicho plazo no se efectúa la restitución, el fisco estatal deberá pagar intereses a la tasa del 9 % anual, computados desde que se constituya en mora hasta la fecha en que se devuelva la cantidad respectiva.
 
-### CAPITULO V. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO IV. DE LOS PROCEDIMIENTOS RELACIONADOS CON LA EXTINCION DE LOS CREDITOS FISCALES
 
 ###### ARTICULO 157.
 
-Contra las resoluciones dictadas en materia fiscal estatal sólo procederán los recursos administrativos que establece este Código.
-
-Las resoluciones que se dicten como consecuencia de recursos no establecidos legalmente, serán nulas. Dicha nulidad será declarada, aún de oficio, por la autoridad superior a la que hubiere dictado la resolución si esta no modifica, en favor del particular, la primera resolución; si hubiere modificación favorable al particular, la nulidad de la resolución sólo podrá ser declarada por los Juzgados de lo Civil y de Hacienda.
+Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### ARTICULO 158.
 
-La tramitación de los recursos administrativos establecidos en este Código, se sujetarán a las normas siguientes:
-
-I.- Se interpondrán por escrito en el que se precisarán los agravios que cause la resolución o acto impugnado y en el que se haga ofrecimiento de pruebas. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se admitirán en el recurso las que hubiere allegado en tal oportunidad.
-
-II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna ante la autoridad que dictó o realizó dicho acto, con excepción del de queja que se presentará directamente ante el Director General de Finanzas y Administración del Estado; si el recurrente tiene su domicilio en población distinta del lugar en que reside la autoridad citada, podrá enviar su escrito, dentro del mismo término por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se haga la entrega en la oficina de correos o a la autoridad que efectúe la notificación.
-
-Los recursos se tramitarán ante el Departamento Consultivo y de lo Contencioso de la Dirección y se resolverán por el Director General de Finanzas y Administración del Estado.
-
-III.- La autoridad encargada de resolver el recurso proveerá desde luego al desahogo de las pruebas ofrecidas. Al efecto, señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido; asimismo, deberán presentar a sus peritos y testigos. Si por la naturaleza de las pruebas ofrecidas o porque su desahogo dependa de terceros, la autoridad considera insuficiente el plazo de quince días, podrá ampliarlo hasta por tres meses más.
-
-IV.- Para la resolución de los recursos las autoridades fiscales podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en la formación de la resolución o acto reclamado.
-
-V.- Rendidas las pruebas y recibidos, en su caso, los informes, se dictará resolución dentro de un plazo que no excederá de treinta días.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 159.
 
-Contra las resoluciones dictadas en materia fiscal, procederán los siguientes recursos:
-
-I.- La revocación;
-
-II.- La oposición al procedimiento ejecutivo;
-
-III.- La oposición de tercero;
-
-IV.- La reclamación de preferencia;
-
-V.- La nulidad de notificaciones;
-
-VI.- La queja.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 160.
 
-La revocación sólo procederá:
-
-I.- Contra las resoluciones administrativas que establezcan las bases para determinar un crédito fiscal.
-
-II.- Contra las resoluciones administrativas en las que se determinen créditos fiscales.
-
-El afectado por las resoluciones administrativas a que se refiere la fracción anterior, podrá optar entre interponer el recurso de revocación o demandar la nulidad ante el Tribunal Fiscal del Estado.
-
-Las resoluciones que se dicten en el recurso de revocación serán también impugnables ante dichos Tribunales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 161.
 
-La oposición al procedimiento ejecutivo será hecha valer por quienes hayan sido afectados por él y afirmen:
-
-I.- Que el crédito que se les exige se ha extinguido por cualquiera de los medios que para el efecto establece este Código.
-
-II.- Que el monto del crédito es inferior al exigido.
-
-III.- Que el procedimiento coactivo no se ha ajustado a la Ley.
-
-En este último caso, la oposición no podrá hacerse valer sino en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
-
-En la oposición a que se refiere este artículo no podrá discutirse la validez de la resolución en que se haya determinado el crédito fiscal.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 162.
 
-La oposición de tercero podrá hacerse valer por quien no siendo la persona contra la que se despachó ejecución afirme ser propietario de los bienes o titular de los derechos embargados.
-
-La declaración del ejecutado no será admisible cómo prueba del derecho del opositor.
-
-La oposición podrá hacerse valer en cualquier tiempo antes de que se apruebe el remate, sin atenerse a la regla que en cuanto al término establece la fracción II del artículo 158.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 163.
 
-La reclamación de preferencia será hecha valer por quienes sostengan tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales.
-
-La declaración del ejecutado no será admisible como prueba del derecho del reclamante.
-
-La reclamación podrá hacerse valer en cualquier tiempo antes de que se haya aplicado el producto del remate, sin atenerse a la regla que en cuanto al término establece la fracción II del artículo 158.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 164.
 
-La nulidad de notificaciones procederá respecto de las que se hicieren en contravención a las disposiciones legales.
-
-La declaratoria de nulidad de notificaciones, traerá como consecuencia la de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
-
-En tanto se resuelve este recurso, quedará en suspenso el término legal para impugnar la resolución del fondo.
-
-Cuando ya se haya iniciado juicio ante el Tribunal Fiscal del Estado, será improcedente la solicitud sobre nulidad de notificaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 165.
 
-La queja procederá contra las resoluciones y actos administrativos que no admitan ningún recurso de los señalados por este Código.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 166.
 
-La estimación de la queja podrá dar lugar, si hubiere razón para ello, a la incoacción del expediente disciplinario, contra el funcionario de la infracción denunciada.
-
-La interposición del recurso de queja notoriamente improcedente dará lugar a la aplicación de una sanción en contra del recurrente.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 167.
 
-La resolución que se dicte no admitirá recurso alguno.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ## TITULO VII. DEL JUICIO DE NULIDAD
 
@@ -1475,385 +1219,213 @@ La resolución que se dicte no admitirá recurso alguno.
 
 ###### ARTICULO 168.
 
-El juicio de nulidad se promoverá ante el Tribunal Fiscal del Estado, se substanciará y resolverá con arreglo al procedimiento que determina este Código.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 169.
 
-El juicio de nulidad en materia fiscal procederá en contra de las resoluciones definitivas que se indican a continuación:
-
-I.- Las dictadas por las autoridades fiscales estatales u organismos fiscales autónomos en que se determine la existencia de una obligación fiscal, se fije en cantidad líquida o se den las bases para su liquidación.
-
-II.- Las dictadas por las autoridades fiscales que nieguen la exención, extinción o restitución de créditos u obligaciones fiscales.
-
-III.- Las que causen un agravio en materia fiscal distinto a los que se refieren las fracciones anteriores.
-
-Para los efectos de lo dispuesto por este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativo para el afectado.
-
-También procederá el juicio cuando lo promuevan las autoridades para que sean nulificadas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias previstas en el artículo anterior para su procedencia.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 170.
 
-Es improcedente el juicio de nulidad:
-
-I.- Contra resoluciones o actos que no afecten los intereses jurídicos del actor;
-
-II.- Contra resoluciones o actos que sean materia de otro juicio de nulidad que se encuentre pendiente de resolución, o que hayan sido materia de sentencia pronunciada por el mismo Tribunal, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
-
-III.- Contra resoluciones o actos consentidos, expresa o tácitamente, entendiéndose por estos últimos aquellos contra los que se promovió el juicio dentro de los plazos señalados en este Código.
-
-IV.- Contra las resoluciones o actos respecto de los cuales conceda este Código, algún recurso o medio de defensa ante las autoridades administrativas, o deban ser revisadas de oficio, por virtud del cual puedan ser modificadas, revocadas o nulificadas, aún cuando la parte interesada no la hubiere hecho valer oportunamente. No operará esta causa de improcedencia cuando las disposiciones respectivas declaren expresamente que es optativa la interposición de algún recurso o medio de defensa ante las autoridades administrativas;
-
-V.- Contra resoluciones o actos administrativos que hayan sido impugnados en un procedimiento judicial;
-
-VI.- Contra de ordenamientos que dan normas o instrucciones de carácter general y abstracto sin haber sido aplicados concretamente al promovente;
-
-VII.- Cuando de las constancias de autos apareciere claramente que no existe la resolución o el acto impugnado;
-
-VIII.- Contra las resoluciones que se dicten en materia de condonación parcial de multas;
-
-IX.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las Leyes Fiscales especiales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 171.
 
-Procede el sobreseimiento del juicio:
-
-I.- Cuando el demandante desista del juicio;
-
-II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-III.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 172.
 
-Serán causas de anulación de una resolución o de un procedimiento administrativo tributario:
-
-I.- Incompetencia del funcionario o empleado que haya dictado el acuerdo o que haya tramitado el procedimiento impugnado.
-
-II.- Omisión o incumplimiento de las formalidades que legalmente deba revestir la resolución o el procedimiento impugnado.
-
-III.- Violación de la disposición aplicada, o no haberse aplicado la disposición debida.
-
-IV.- Desvío de poder, tratándose de sanciones.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 173.
 
-En los juicios de nulidad no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes Si los que corresponda sufragar al particular, sea actor o demandado no son cubiertos oportunamente, los pagará la Dirección General de Finanzas y Administración del Estado y ésta exigirá el reembolso mediante el procedimiento administrativo de ejecución.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION SEGUNDA. DE LAS PARTES
 
 ###### ARTICULO 174.
 
-Serán partes en el procedimiento:
-
-I.- El actor.
-
-II.- El demandado, tendrán este carácter:
-
-a) La autoridad que dicte la resolución impugnada u ordene dictarle a otra autoridad y ésta última o las que legalmente las sustituyan.
-
-b) El particular a quien favorezca la resolución cuya nulidad pida la autoridad administrativa.
-
-III.- El tercero que dentro del procedimiento administrativo aparezca como titular de un derecho incompatible con el que pretenda el actor.
-
-IV.- El Director General de Finanzas y Administración del Estado, quien será representado en la forma que señalen los ordenamientos, aún cuando no sea actor ni demandado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION TERCERA. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 175.
 
-Las partes podrán autorizar por escrito a personas que a su nombre reciban notificaciones, haga promociones de trámite, ofrezca y rinda pruebas, alegue e interponga recursos.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 176.
 
-Toda resolución debe notificarse, a más tardar, el segundo día a aquél en que el expediente haya sido turnado para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
-
-Al funcionario o empleado que no cumpla con esta obligación se le impondrá una multa de cincuenta a trescientos pesos y será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 177.
 
-Las notificaciones se harán:
-
-I.- A las autoridades siempre por oficio, o por la vía telegráfica en casos urgentes;
-
-II.- Personalmente, en la forma señalada por el Código de Procedimientos Civiles del Estado, o por correo certificado, con acuse de recibo, a los particulares, cuando se trata de alguna de las siguientes resoluciones:
-
-a) La que admita o deseche alguna demanda.
-
-b) La que admita o deseche algún recurso.
-
-c) La que señale día para la audiencia.
-
-d) La que tenga por contestada la demanda, cuando el actor no conozca los fundamentos de la resolución sino hasta que se conteste la demanda. En este caso se acompañará copia de la contestación a la resolución que se notifica.
-
-e) La de sobreseimiento y la sentencia.
-
-f) La que manda citar a un tercero.
-
-g) El requerimiento de un acto a la parte que deba cumplirlo.
-
-h) En cualquier caso urgente, si así lo ordena el juez.
-
-III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán personalmente en el Tribunal a los particulares, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y por lista autorizada que se fijará en sitio visible del Tribunal, si no se presentan con oportunidad.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 178.
 
-La lista a que se refiere la fracción III del artículo anterior contendrá: el nombre de la persona a quien se notifique, el expediente en que la notificación se haga, y síntesis de la parte dispositiva de la resolución correspondiente. En los autos se hará constar la fecha de la lista.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 179.
 
-Las notificaciones surtirán sus efectos al día hábil siguiente al en que se haya hecho la notificación personal o entregado el oficio que contenga copia de la resolución que se notifica, o fijado la lista respectiva.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 180.
 
-Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes serán nulas. Las partes perjudiciales podrán pedir se declare la nulidad a que se refiere este artículo antes de dictarse cualquiera resolución que ponga fin al negocio, dictada en el expediente de que se trate. Declarada la nulidad se repondrá el procedimiento desde el punto en que se incurrió en la violación correspondiente.
-
-Este incidente, que se considerará como de previo y especial pronunciamiento, se substanciará en una sola audiencia en la que se recibirán las pruebas de las partes, se oirán sus alegatos que no excederán de media hora por cada uno, pudiendo ser presentados dichos alegatos por escrito y se dictará la resolución que fuere procedente. Si se declarase la nulidad de la notificación, se impondrá una multa de cincuenta y trescientos pesos al empleado responsable, quien será destituido de su cargo sin responsabilidad para el Estado en caso de reincidencia.
-
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 181.
 
-El cómputo de los términos se sujetará a las reglas siguientes:
-
-I.- Empezarán a correr desde el día siguiente al en que surta efectos la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento.
-
-II.- Se contarán por días naturales, excluyendo los inhábiles y aquéllos en los que se suspendan las labores del Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION CUARTA. DE LA DEMANDA
 
 ###### ARTICULO 182.
 
-La demanda deberá ser presentada directamente ante el Tribunal Fiscal del Estado o enviarse por correo certificado dentro de los quince días siguientes a quien en que haya surtido efecto la notificación de la resolución impugnada, excepción hecha de los casos siguientes:
-
-I.- Si el perjudicado reside en el extranjero y no tiene representante en la República, el término para iniciar el juicio será de cuarenta y cinco días;
-
-II.- Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse dentro de los cinco años siguientes a la fecha en que sea notificada la resolución, salvo que dicha resolución haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier época, pero los efectos de la sentencia, en caso de nulificarse la resolución favorable, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
-
-Cuando el perjudicado fallezca durante el plazo a que se refiere este artículo, se suspenderá el término hasta que haya sido designado albacea o representante de la sucesión.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 183.
 
-La demanda deberá contener:
-
-I.- El nombre del actor y el domicilio que señale para recibir notificaciones.
-
-II.- El nombre y domicilio del particular demandado, cuando el juicio sea promovido por la autoridad administrativa, y los del tercer interesado, cuando lo haya.
-
-III.- La resolución o procedimiento que impugne y la autoridad o autoridades demandadas.
-
-IV.- Los hechos y los fundamentos de derecho en que se apoya la reclamación.
-
-V.- Las pruebas que el actor se proponga rendir. Cuando ofrezca pruebas pericial o testimonial, el actor deberá indicar los nombres y domicilios de los peritos o testigos y acompañar los interrogatorios que los peritos deban contestar; para el examen de los testigos solo será necesario acompañar a la demanda los interrogatorios escritos, cuando residan fuera de la jurisdicción del Juzgado que conozca del juicio. Se presentará una copia de la demanda para cada una de las partes.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 184.
 
-Toda promoción deberá ser firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que se aplicará el derecho común.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 185.
 
-El demandante tendrá derecho a ampliar la demanda dentro de los quince días siguientes al en que surta efectos el acuerdo recaído a la contestación de la misma, cuando el actor no conozca los fundamentos de la resolución impugnada, sino hasta que la demanda esté contestada.
-
-También procederá ampliar la demanda en el caso previsto por el artículo 164 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 186.
 
-El actor deberá acompañar a su demanda los documentos justificativos de su personalidad cuando no gestione en nombre propio, a menos que compruebe que dicha personalidad le ha sido reconocido (sic) en el procedimiento dentro del cual haya emanado la resolución que reclame.
-
-Igualmente deberá presentar el documento en que conste la resolución o acto impugnados, o señalar el archivo o lugar en que se encuentren.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 187.
 
-Si la demanda fuere oscura, irregular o no llena los requisitos del artículo 183, el juez deberá prevenir al actor que la aclare, corrija o complete, de acuerdo con los artículos anteriores, dentro del término de cinco días. Si dentro de este término no se subsanan los defectos, la demanda será desechada.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 188.
 
-Se notificará a las autoridades demandadas la resolución por la que se desecha la demanda, remitiéndoseles copia de ésta si la hubiere.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION QUINTA. DE LA CONTESTACION
 
 ###### ARTICULO 189.
 
-Admitida la demanda se correrá traslado de ella a las partes emplazándolas para que la contesten dentro del término de quince días y en el mismo acuerdo se citará para la audiencia del juicio dentro de un plazo que no excederá de cuarenta y cinco días.
-
-Cuando los demandados fueren varios, el término para contestar les correrá individualmente.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 190.
 
-Se deberá contestar la demanda dentro del término legal aún cuando se interponga recurso de reclamación en contra del acuerdo que la admitió.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 191.
 
-El demandado, en su contestación, expresará:
-
-I.- Las cuestiones de previo y especial pronunciamiento.
-
-II.- Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo, o demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda.
-
-III.- Se referirá concretamente a cada uno de los hechos que el actor le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron.
-
-IV.- Los fundamentos de derecho que considere aplicables para apoyar la validez de la resolución o acto impugnado.
-
-V.- Las pruebas que se proponga rendir. Cuando se trate de pruebas pericial o testimonial, indicará los nombres y domicilios de los peritos o de los testigos y acompañará los interrogatorios para el desahogo de la primera. Si la prueba testimonial debe desahogarse fuera de la circunscripción territorial del juzgado deberá acompañar los interrogatorios correspondientes.
-
-Se presentará copia, para cada una de las partes, del escrito de contestación y su omisión dará lugar a que el juez requiera al demandado para que exhiba las copias necesarias dentro del plazo de cinco días, apercibiéndolo de que se tendrá por no contestada la demanda en caso de incumplimiento.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 192.
 
-Se presumirán ciertos, salvo que por las pruebas rendidas resulten desvirtuados, los hechos que el actor impute de manera precisa al demandado, en los siguientes casos:
-
-I.- Cuando no se produzca la contestación dentro del plazo que alude el artículo anterior.
-
-II.- Cuando la contestación no se refiera concretamente a los hechos afirmados por el actor, que sean propios del demandado.
-
-III.- Cuando sin causa justificada el demandado no exhiba la prueba que le haya sido requerida.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 193.
 
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 194.
 
-Cuando haya contradicciones en cuanto a los fundamentos de derecho e interpretación entre la contestación de la autoridad que dicte u ordene, ejecute o trate de ejecutar la resolución impugnada y la dada por la Dirección General de Finanzas y Administración, únicamente se tomará en cuenta, respecto a esas contradicciones, lo expuesto por la misma Dirección.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 195.
 
-Dentro del mismo plazo de quince días que señala el artículo 189, el tercero interesado podrá apersonarse en el juicio mediante un escrito respecto al cual será aplicable lo dispuesto en los artículos anteriores.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION SEXTA. DE LOS INCIDENTES
 
 ###### ARTICULO 196.
 
-En el juicio de nulidad, sólo se admitirán como incidentes de previo y especial pronunciamiento los relativos a la acumulación de autos, la nulidad de actuaciones y la recusación por causa de impedimento.
-
-Todas las cuestiones diversas a la acumulación de autos, a la nulidad de actuaciones, recusación por causa de impedimento, suspensión del procedimiento de ejecución o rechazo de la garantía ofrecida, se reservarán para la audiencia.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 197.
 
-Procede la acumulación aunque las partes sean diversas y se invoquen distintas violaciones legales, cuando estén pendientes de resolución dos o más juicios intentados contra el mismo acto o contra varios puntos decisorios de una misma resolución, o contra actos que, aunque diversos, sean unos antecedentes o consecuencia de los otros. También procederá la acumulación cuando las partes sean las mismas y se invoquen idénticas violaciones legales.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 198.
 
-La acumulación se tramitará de oficio o a petición de parte ante el magistrado que conozca del juicio que se haya promovido primero, en una sola audiencia en la que se hará la relación de los autos, se oirán los alegatos y se dictará la resolución que corresponda.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 199.
 
-Entretanto se resuelve sobre la acumulación se suspenderá el procedimiento en los juicios respectivos.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 200.
 
-Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano. Decretada la acumulación, pasarán todos los autos al magistrado que haya conocido primero del asunto.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 201.
 
-Si la autoridad niega la suspensión del procedimiento de ejecución o rechaza la garantía ofrecida, podrá promoverse el incidente respectivo, hasta antes de notificarse la resolución que ponga fin a la instancia, ante el magistrado en que esté radicado el juicio.
-
-La Dirección General de Finanzas y Administración podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 202.
 
-Promovido el incidente a que se refiere el artículo anterior, se correrá traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada por el término de tres días y se citará, a una audiencia de pruebas y alegatos para dentro del decimoquinto día, en la que el magistrado dictará la resolución que corresponda.
-
-Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su contestación, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa y se impondrá a aquella autoridad una multa de $ 100.00 a $ 1,000.00.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION SEPTIMA. DE LAS PRUEBAS
 
 ###### ARTICULO 203.
 
-En el juicio de nulidad serán admisibles toda clase de pruebas excepto la de confesión de las autoridades y las que no hayan sido ofrecidas ante la autoridad demandada en el procedimiento administrativo, salvo que en éste no se le hubiere dado oportunidad razonable de hacerlo. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 204.
 
-El magistrado tendrá facultad para ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 205.
 
-Cuando se planteen cuestiones de carácter técnico, el magistrado, de oficio acordará que se rinda prueba pericial.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 206.
 
-La recepción de las pruebas se hará en la audiencia de acuerdo con las siguientes reglas y en lo no previsto se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado:
-
-I.- Las posiciones se articularán precisamente en el acto de la audiencia y no se requerirá segunda citación para tener por confeso al absolvente que no concurra sin causa justificada.
-
-Cuando la persona que deba absolver las posiciones radique fuera de la Ciudad de Tepic y no tenga constituido en éste apoderado con facultad de absolverlas, la diligencia se encomendará al juzgado que corresponda.
-
-II.- La impugnación de los documentos puede hacerse desde la contestación de la demanda hasta tres días antes de la celebración de la audiencia.
-
-III.- La prueba pericial se rendirá en la audiencia. Los peritos dictaminarán por escrito u oralmente. Las partes y el juez les puede formular observaciones y hacerles preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen. El perito tercero será designado por el juez. Los peritos deben tener título en la ciencia o arte a que pertenezca la cuestión sobre que ha de oírse su parecer. Si la profesión o el arte no estuvieren legalmente reglamentados o estándolo no hubiere peritos en el lugar, podrán ser nombradas personas entendidas, a juicio del juez, aún, cuando no tengan título. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer, de preferencia, en una institución fiduciaria.
-
-IV.- No será impedimento para intervenir como testigo, el hecho de desempeñar un empleo o cargo público.
-
-V.- Para el examen de los testigos no se presentarán interrogatorios escritos, excepción hecha cuando el testigo resida fuera de la circunscripción territorial del juzgado.
-
-Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral.
-
-Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más que un hecho. El juez deberá cuidar de que se cumplan estas condiciones, impidiendo preguntas que las contraríen.
-
-VI.- La protesta y examen de los testigos se hará en presencia de las partes que concurrieron. Interrogará al promovente de la prueba y a continuación los demás litigantes.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 207.
 
-Los jueces que intervengan en el desahogo de pruebas que tengan que recibirse fuera de la Ciudad de Tepic, estarán facultados para designar peritos en rebeldía de las partes, y en su caso, el tercero en discordia.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 208.
 
-Se apreciará la resolución impugnada tal como aparezca probada ante la autoridad, a menos que ésta se haya negado a admitir pruebas que se le ofrecieron, o que en el procedimiento administrativo no se le haya dado al actor oportunidad de ofrecerlas.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 209.
 
-De acuerdo con lo dispuesto por el artículo 72 de este Código, se presumirán válidos los actos y resoluciones de la autoridad no impugnados de manera expresa en la demanda, o aquellos respecto de los cuales, aunque impugnados, no se allegaren elementos de prueba bastantes para acreditar su ilegalidad.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 210.
 
-La valorización de las pruebas se hará de acuerdo con las disposiciones del Código de Procedimientos Civiles, con las siguientes modificaciones:
-
-I.- El valor probatorio de los dictámenes periciales, será calificado por el Tribunal, según las circunstancias.
-
-II.- Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, el Tribunal adquiera convicción distinta acerca de los hechos materia del litigio, podrá no sujetarse a los preceptos del Código, pero deberá entonces fundar cuidadosamente esta parte de su sentencia.
-
-III.- El Tribunal podrá invocar los hechos notorios.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION OCTAVA. DE LA AUDIENCIA Y DE LA SENTENCIA
 
 ###### ARTICULO 211.
 
-El orden de la audiencia será el siguiente:
-
-I.- Se hará cuenta con las reclamaciones de las partes y con cualquier cuestión incidental suscitada durante la tramitación del juicio; al efecto, se recibirán las pruebas y se escucharán los alegatos de las partes sobre el particular. Acto continuo el magistrado pronunciará la resolución que proceda, ordenando en su caso, que se practiquen las diligencias omitidas.
-
-II.- Si la resolución de las reclamaciones o de los incidentes no trae como consecuencia el que deba suspenderse la audiencia, se leerán la demanda, la contestación y las demás constancias de autos.
-
-III.- Se estudiarán, aún de oficio, los sobreseimientos que procedan respecto de las cuestiones que impidan se emita una decisión en cuanto al fondo y se dictará la resolución que corresponda.
-
-IV.- En su caso, se recibirán las pruebas que hayan sido ofrecidas con relación a la validez o nulidad del acuerdo o procedimiento impugnado.
-
-El magistrado podrá formular toda clase de preguntas respecto a las cuestiones debatidas a las partes o a sus representantes, así como a los testigos y peritos.
-
-V.- Se oirán los alegatos del actor de la parte demandada y del tercero interesado que se pronunciarán en ese orden.
-
-Las partes podrán presentar tales alegatos por escrito. Cuando se formulen de palabra no podrán exceder de media hora para cada una de las partes.
-
-Las promociones que las partes formulen en la audiencia, así como sus oposiciones contra los acuerdos que en ellas se dicten, se resolverán de plano.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 212.
 
-La Dirección General de Finanzas y Administración del Estado y las demás autoridades fiscales podrán acreditar delegados en las audiencias, con facultades para rendir pruebas y para alegar.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 213.
 
-La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de previo y especial pronunciamiento. También podrá suspenderse o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado, a juicio del magistrado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 214.
 
-Instruido el proceso y declarados vistos los autos, se dictará sentencia dentro de los quince días siguientes, si no se ha dictado o pronunciado en la audiencia.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 215.
 
-Las sentencias se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos de la resolución, la demanda y la contestación; en sus puntos resolutivos expresarán con claridad los actos o procedimientos cuya nulidad se declare o cuya validez se reconozca. Causan estado las sentencias que no admitan recurso.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 216.
 
-Cuando la sentencia declare la nulidad y salvo que se limite a mandar reponer el procedimiento o a reconocer la ineficiencia del acto en los casos en que la autoridad haya demandado la anulación de una resolución favorable a un particular, indicará los términos conforme a los cuales debe dictar su nueva resolución la autoridad fiscal.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ### CAPITULO II. DE LOS RECURSOS
 
@@ -1861,37 +1433,25 @@ Cuando la sentencia declare la nulidad y salvo que se limite a mandar reponer el
 
 ###### ARTICULO 217.
 
-Procederá el recurso de reclamación en contra de las resoluciones que:
-
-I.- Admitan o desechen la demanda de nulidad.
-
-II.- Admitan o desechen la contestación a la demanda de nulidad.
-
-III.- Admitan o rechacen la intervención de terceros.
-
-IV.- Sobresean los juicios antes de la audiencia en los casos de desistimiento del actor o de revocación administrativa de la resolución impugnada, salvo que ésta haya generado derechos a favor de terceros, sean o no parte en el juicio.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 218.
 
-El recurso de reclamación se interpondrá ante el magistrado que conozca del juicio, dentro de los cinco días siguientes al en que surta efectos la notificación respectiva, debiendo expresarse en el propio escrito los agravios que se considere se cause la resolución recurrida.
-
-Interpuesta la reclamación, el magistrado ordenará correr traslado a la contraparte por el término de tres días para que exprese lo que a su derecho convenga, quien los turnará desde luego a la Sala que corresponda su conocimiento y ésta deberá pronunciar la resolución correspondiente dentro de los treinta días siguientes.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 219.
 
-Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de la audiencia en caso de desistimiento del actor, no será necesario dar vista a la contra parte y la Sala resolverá la reclamación en la misma sesión en la que se dé cuenta con el recurso.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 #### SECCION SEGUNDA. DE LA REVISION
 
 ###### ARTICULO 220.
 
-Las resoluciones que decreten o nieguen sobreseimientos, y las que pongan fin al juicio, serán recurribles por las autoridades ante el Tribunal en pleno, cuando el asunto sea de importancia y trascendencia, a juicio del titular de la Dirección General de Finanzas y Administración del Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 221.
 
-El recurso a que se refiere el artículo que antecede deberá ser interpuesto precisamente en escrito dirigido al presidente del Tribunal, dentro del plazo de diez días siguientes al en que surta efectos la notificación de la resolución que se impugna. Dicho escrito será firmado por el titular de la Dirección General de Finanzas y Administración y en ausencia de dicho funcionario, por quien legalmente deba sustituirlo.
-
-Al admitirse a trámite el recurso se designará al magistrado ponente y se mandará correr traslado a la parte contraria por el término de cinco días, para que exponga lo que a su derecho convenga. Vencido dicho término, el magistrado ponente, dentro del plazo de un mes, formulará el proyecto de resolución que se someterá al Tribunal en pleno.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ## TRANSITORIOS
 
@@ -1950,3 +1510,31 @@ P.O. 7 DE MAYO DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2002
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
