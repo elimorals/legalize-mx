@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "2001-12-07"
+last_updated: "2002-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MAYO DE 2002.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -141,9 +141,13 @@ VI.-El secuestro, a que se refieren los artículos 141 y 142, excepto la hipóte
 
 VII.-El asalto, previsto en el artículo 147;
 
-VIII.-La violación, a que se refieren los artículos del 152, 153 párrafo primero, 154 y 155;
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2002)</small>
 
-IX.-El robo, previsto en el artículo 173, fracción I, párrafo tercero; el robo calificado, en los casos a que se refiere la fracción II del artículo 176, en cualquiera de sus incisos; y el robo tipificado en los artículos 177, fracción II y 178;
+VIII. La violación, a que se refieren los artículos 152, 153, párrafos primero, tercero y cuarto, 154 y 155;
+
+> <small>(REFORMADA, G.O. 22 DE MAYO DE 2002)</small>
+
+IX. El robo, previsto en el artículo 173, fracción I, párrafo tercero; el robo calificado, en los casos a que se refiere la fracción II del artículo 176, en cualquiera de sus incisos; y el robo tipificado en los artículos 177, fracción II, 177 bis y 178;
 
 X.-El abigeato, previsto en los artículos 180 y 181;
 
@@ -3014,3 +3018,9 @@ G.O. 7 DE DICIEMBRE DE 2001.
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 22 DE MAYO DE 2002.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Remítase al ciudadano Gobernador del Estado para su promulgación y publicación.
