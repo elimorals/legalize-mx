@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-colegio-de-bachilleres-del-estado-de-sonora-841
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-12"
-last_updated: "1986-12-15"
+last_updated: "1996-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL DEL ESTADO: 15 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL DEL ESTADO: 27 DE MAYO DE 1996.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 12 de julio de 1975.
 
@@ -51,7 +51,9 @@ I.- Establecer, organizar, administrar y sostener planteles en los lugares del E
 
 II.- Impartir educación del mismo ciclo a través de las modalidades escolar y extraescolar;
 
-III.- Expedir certificados de estudio y otorgar diplomas y títulos académicos;
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+
+III.- Expedir certificados de estudio y otorgar diplomas;
 
 IV.- Otorgar o retirar reconocimiento de validez a estudios realizados en planteles particulares que impartan el mismo ciclo de enseñanza;
 
@@ -81,13 +83,15 @@ Serán Organos de Gobierno del Colegio:
 
 I.- El Consejo Directivo;
 
-II.- El Patronato;
+II.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
 
 III.- El Director General;
 
-IV.- Los Directores Académico, Administrativo y Financiero;
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
 
-V.- El Consejo Consultivo de Directores;
+IV.- Los Directores de Area;
+
+V.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
 
 VI.- Los Directores de cada uno de los planteles que establezca el Colegio.
 
@@ -101,31 +105,23 @@ Los acuerdos de los órganos colegiados de la institución se tomarán por mayor
 
 ###### ARTICULO 8o.
 
-Para ser miembro del Consejo Directivo se requiere:
+(DEROGADO, B.O. 27 DE MAYO DE 1996)
 
-I.- Ser ciudadano mexicano;
-
-II.- Poseer título a nivel de Licenciatura o su equivalente;
-
-III.- Tener cinco años de experiencia académica, y
-
-IV.- Ser de reconocida solvencia moral.
-
-> <small>(REFORMADO. B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 9o.
 
-El Consejo Directivo estará integrado en forma permanente por: Los Secretarios de Planeación del Desarrollo y de Fomento Educativo y Cultura del Estado; los Directores Generales de Servicios Coordinados de Educación Pública en el Estado y del Centro de Estudios Superiores del Estado de Sonora; los Rectores de la Universidad de Sonora y del Instituto Tecnológico de Sonora; los Directores de los Institutos Tecnológicos de Hermosillo y de Nogales y por el Presidente del Patronato del Colegio.
-
-En caso de ausencia de los integrantes del Consejo, éstos serán suplidos por los funcionarios que ellos designen.
+El Consejo Directivo estará integrado en forma permanente por: los Secretarios de Educación y Cultura, de Planeación del Desarrollo y Gasto Público y de Finanzas; por los Rectores de la Universidad de Sonora y del Instituto Tecnológico del Estado de Sonora; por el Director del Instituto Tecnológico de Hermosillo; por el Director General del Centro de Estudios Superiores del Estado de Sonora y por el Presidente del Patronato. En caso de ausencia de los integrantes del Consejo, éstos serán suplidos por los funcionarios o representantes que ellos designen.
 
 ###### ARTICULO 10.
 
 El Ejecutivo del Estado nombrará, cuando lo estime necesario, mayor número de integrantes del Consejo Directivo y estará facultado para removerlos.
 
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 11.
 
-El Consejo Directivo será presidido en cada sesión por uno de sus miembros, sucediéndose, para este efecto, en orden alfabético de apellidos.
+El Consejo Directivo del Colegio será presidido por el Secretario de Educación y Cultura.
 
 ###### ARTICULO 12.
 
@@ -149,15 +145,15 @@ VI.- Dictar las disposiciones necesarias para revalidar y establecer equivalenci
 
 VII.- Nombrar a los miembros del Patronato y removerlos por causa justificada;
 
-VIII.- Nombrar y remover al Director General, para lo cual se requerirá como mínimo, una mayoría de cinco votos;
+VIII.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
 
 > <small>(REFORMADA B.O. 20 DE MARZO DE 1980)</small>
 
 IX.- Otorgar la autorización a que se refiere el Artículo 16 de la presente ley, para que el Director General del Colegio de Bachilleres, pueda enajenar o gravar los bienes inmuebles de la institución;
 
-> <small>(REFORMADA B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
 
-X.- Autorizar los nombramientos que haga el Director General a favor de directores de plantel y de los directores Académico, Administrativo y Financiero, así como su remoción por causa justa;
+X.- Autorizar, los nombramientos que haga el Director General de los Directores de Area, así como su remoción;
 
 XI.- Expedir las normas y disposiciones reglamentarias para la mejor organización y funcionamiento técnico, docente, y administrativo del Colegio;
 
@@ -169,11 +165,11 @@ XIII.- Designar y remover representantes legales y apoderados generales o especi
 
 XIV.- Ejercer las demás facultades que le confiera este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
 
-REFORMADO, B.O. 20 DE MARZO DE 1980)
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 13.
 
-El Patronato estará integrado por un presidente, un secretario, un tesorero y los vocales que estime conveniente el Consejo Directivo. Desempeñarán su cargo con carácter honorario, por un lapso de cuatro años, pudiendo ser reelectos. En caso de ausencia o impedimento del Presidente, será sustituido por el Secretario del mismo patronato.
+El Colegio contará con un Patronato, como órgano de apoyo, que se integrará por un Presidente, un Secretario, un Tesorero y los Vocales que estime conveniente el Consejo Directivo, los patronos desempeñarán su cargo con carácter honorario; los puestos directivos se ejercerán por cuatro años, pudiendo los titulares ser reelectos para un segundo período.
 
 > <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
 
@@ -181,19 +177,35 @@ El Patronato estará integrado por un presidente, un secretario, un tesorero y l
 
 Corresponde al Patronato:
 
-I.- Obtener recursos complementarios de financiamiento para la institución;
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
 
-II.- Revisar, en coordinación con el Director General, el proyecto del presupuesto anual de ingresos y egresos del Colegio y presentarlo a la consideración del Consejo Directivo;
+I.- Obtener recursos económicos complementarios a través de la realización de actividades propias, que deberán destinarse única y exclusivamente al desarrollo del Colegio, mediante el apoyo a la creación de nuevas áreas, fomento a las actividades culturales y deportivas y estímulo a la actividad académica en general;
 
-III.- Nombrar al auditor externo del Colegio;
+II.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
 
-IV.- Presentar al Consejo Directivo, dentro de los tres primeros meses a partir de la fecha en que concluya el ejercicio presupuestal, los estados financieros, con el dictamen del auditor nombrado para el caso por el propio patronato, y
+III.- (DEROGADA, B.O. 27 DE MAYO DE 1996)
+
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+
+IV.- Presentar, por conducto de su Presidente a más tardar el día 20 de diciembre de cada año, un informe de las actividades realizadas durante los meses precedentes y del estado financiero que guarde el propio Patronato;
 
 V.- Ejercer las demás facultades que le confiere este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
 
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 15.
 
-El Director General del Colegio de Bachilleres deberá reunir los requisitos a que se refiere el Artículo 8o. de este ordenamiento.
+Para ser Director General del Colegio, se deberán reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano;
+
+II.- Poseer título a nivel licenciatura;
+
+III.- Tener cinco años de experiencia académica; y
+
+IV.- Ser de reconocida solvencia moral.
+
+El Director General será nombrado y removido libremente por el Gobernador del Estado.
 
 > <small>(REFORMADO, B.O. 20 DE MARZO DE 1980)</small>
 
@@ -211,15 +223,21 @@ El Director General del Colegio no podrá desempeñar, simultáneamente, el carg
 
 Son facultades y obligaciones del Director General:
 
-I.- Revisar en coordinación con el patronato del Colegio el proyecto de presupuesto anual de ingresos y egresos de la institución, para presentarlo en forma conjunta con el patronato, a la consideración del Consejo Directivo, para su autorización;
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+
+I.- Elaborar y presentar al Consejo Directivo, para su autorización, el proyecto de propuesta anual de ingresos y egresos del Colegio;
 
 II.- Hacer cumplir las normas y disposiciones reglamentarias del Colegio;
 
 III.- Presentar al Consejo Directivo, en la última sesión del ejercicio escolar, un informe de las actividades del Colegio realizadas durante el año anterior;
 
-IV.- Nombrar y remover a los directores financieros, administrativo y académico de la institución, con la aprobación del Consejo Directivo;
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
 
-V.- Nombrar y remover a los directores de los planteles con la autorización del Consejo Directivo;
+IV.- Nombrar y remover a los Directores de Area, con la aprobación del Consejo Directivo;
+
+> <small>(REFORMADA, B.O. 27 DE MAYO DE 1996)</small>
+
+V.- Nombrar y remover libremente a los Directores de Plantel;
 
 VI.- Fijar a los funcionarios y servidores del Colegio, las directrices generales a que habrán de sujetarse para un mejor funcionamiento de la institución, apegándose a la presente ley y a su reglamento;
 
@@ -227,53 +245,21 @@ VII.- Plantear a la consideración del Consejo Directivo los calendarios, planes
 
 VIII.- Dictaminar sobre las solicitudes de incorporación de escuelas particulares que impartan el ciclo de Educación Media Superior en el Estado, poniéndolas a consideración del Consejo Directivo para la resolución definitiva;
 
-IX.- Las demás que le señale esta ley y las normas y disposiciones reglamentarias del Colegio.
+IX.- Las demás que le señale esta ley y las normas y disposiciones reglamentarias del Colegio;
 
-> <small>(ADICIONADO, B.O. 20 DE MARZO DE 1980)</small>
+> <small>(ADICIONADA, B.O. 27 DE MAYO DE 1996)</small>
 
-ARTICULO 18 BIS.- Corresponde al Director Académico:
+X.- Presentar al Consejo Directivo, dentro de los tres primeros meses de la fecha en que concluya un ejercicio presupuestal, los estados financieros, con el dictamen del auditor nombrado para el caso por el propio Consejo; y
 
-I.- Elaborar, con la colaboración de los directores de plantel y asesores de área estatal los calendarios, planes y programas de estudio del Colegio, que pondrá a consideración del Director General;
+> <small>(ADICIONADA, B.O. 27 DE MAYO DE 1996)</small>
 
-II.- Revisar y aprobar en su caso, los calendarios escolares que propongan las escuelas incorporadas al Colegio;
+XI.- Proponer al Consejo Directivo, para su aprobación, el Reglamento Interior y demás normas y disposiciones generales relativas al Colegio.
 
-III.- Supervisar y controlar la ejecución del calendario escolar y todos los planes y programas de estudio del Colegio, vigilando su cumplimiento;
+ARTICULO 18 BIS.- (DEROGADO, B.O. 27 DE MAYO DE 1996)
 
-IV.- Supervisar el cumplimiento de los calendarios escolares, planes y programas de estudio en las escuelas incorporadas, vigilando además que la operación de los mismos se ajuste a los requisitos exigidos por el reglamento;
+ARTICULO 18 BIS 1.- (DEROGADO, B.O. 27 DE MAYO DE 1996)
 
-V.- Recibir, tramitar y aprobar, en su caso, las solicitudes de reconocimiento de validez de estudios de Educación Media Superior;
-
-VI.- Recibir, atender y tramitar las solicitudes de incorporación de escuelas particulares que impartan el ciclo de educación media superior en el Estado, elaborando el análisis propio para ponerlo a consideración del Director General;
-
-VII.- Coordinar y supervisar las actividades de los directores de plantel y asesores de áreas estatal, así como la formulación y operación de planes, programas y metodologías que sirvan de apoyo a la enseñanza.
-
-> <small>(ADICIONADO, B.O. 20 DE MARZO DE 1980)</small>
-
-ARTICULO 18 BIS 1.- Corresponde al Director Administrativo:
-
-I.- Establecer, supervisar y controlar los sistemas y procedimientos administrativos del Colegio;
-
-II.- Coordinar y supervisar la selección, capacitación e inducción de los recursos humanos del área administrativa;
-
-III.- Coordinar y controlar los servicios de apoyo administrativo del Colegio;
-
-IV.- Coordinar y controlar el uso y aprovechamiento de los recursos materiales y de servicio del Colegio;
-
-V.- Supervisar y aprobar el trámite general de adquisiciones del Colegio;
-
-VI.- Controlar y supervisar el archivo general de la institución.
-
-> <small>(ADICIONADO, B.O. 20 DE MARZO DE 1980)</small>
-
-ARTICULO 18 BIS 2.- Corresponde al Director Financiero:
-
-I.- Formular los planes y programas de desarrollo financiero del Colegio;
-
-II.- Formular el anteproyecto del presupuesto anual del Colegio, poniéndolo a consideración del Director General;
-
-III.- Diseñar, implantar y supervisar sistemas de control contable presupuestal y de recaudación;
-
-IV.- Ejercer el control de las partidas presupuestales, recibir todo tipo de ingresos en favor del Colegio y efectuar las erogaciones autorizadas por el presupuesto.
+ARTICULO 18 BIS 2.- (DEROGADO, B.O. 27 DE MAYO DE 1996)
 
 ###### ARTICULO 19.
 
@@ -291,11 +277,11 @@ III.- Acordar los programas sobre actualización y mejoramiento profesional de p
 
 IV.- Las demás facultades que le señale este ordenamiento y las normas y disposiciones reglamentarias del Colegio.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 20 DE MARZO DE 1980)</small>
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 21.
 
-Los Directores de los planteles deberán reunir los requisitos a que se refiere el Artículo 8o. de esta ley, durarán en su cargo cuatro años y podrán ser reelectos.
+Los Directores de Plantel deberán reunir los requisitos a que se refiere el artículo 15 de esta Ley.
 
 ###### ARTICULO 22.
 
@@ -310,6 +296,10 @@ Los nombramientos definitivos del personal académico deberán hacerse mediante 
 ###### ARTICULO 24.
 
 El Director General hará, en los términos de las normas y disposiciones reglamentarias, las designaciones de remociones del personal docente técnico y administrativo que no estén reservadas a otro órgano del Colegio.
+
+> <small>(ADICIONADO, B.O. 27 DE MAYO DE 1996)</small>
+
+ARTICULO 24 BIS.- La Secretaría de la Contraloría General del Estado determinará los instrumentos de control del Colegio, en los términos de las leyes aplicables.
 
 ###### ARTICULO 25.
 
@@ -372,3 +362,9 @@ La presente Ley entrará en vigor a partir de la fecha de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Los maestros, empleados y demás trabajadores del Colegio de Bachilleres del Estado de Sonora, conservarán los derechos y prestaciones laborales que hasta la fecha han venido disfrutando.
+
+B.O. 27 DE MAYO DE 1996.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
