@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1997-05-10"
+last_updated: "1997-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -581,7 +581,7 @@ V. Los sujetos obligados al pago del impuesto con responsabilidad directa o soli
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+#### SECCION CUARTA. DE LAS EXENCIONES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -599,9 +599,7 @@ IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les
 
 V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
-
-#### SECCION CUARTA. DE LAS EXENCIONES
+#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -612,6 +610,8 @@ No se pagará este impuesto por la organización o celebración de loterías, ri
 No obstante lo anterior, estas instituciones deberán cumplir con la obligación de retener y enterar el impuesto que se cause por la obtención de los ingresos o premios que se entreguen.
 
 En ningún caso, se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO PRIMERO
 
@@ -647,9 +647,9 @@ I. Por la expedición del FIAT para el ejercicio notarial 90.0 D.S.M.G.V.
 
 II. Por el nombramiento de notarios adscritos o sustitutos 45.0 D.S.M.G.V.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-III. Por la autorización o cancelación de cada libro del protocolo de los notarios 10.0 D.S.M.G.V.
+III. Por la autorización de libros para el protocolo de los Notarios 10.0 D.S.M.G.V.
 
 IV. Por el registro de sello y firma que utiliza el notario público 9.0 D.S.M.G.V.
 
@@ -905,7 +905,9 @@ Las tarifas de estos estudios estarán sujetas a las tarifas aprobadas por el H.
 
 II. Por emisión o reposición de juegos de placas de circulación, incluyendo calcomanía, tarjeta de circulación para vehículo de servicio público 10.0 D.S.M.G.V.
 
-III. Por la expedición de gafetes 5.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+III. Por la expedición de gafetes bianuales 5.0 D.S.M.G.V.
 
 IV. Por emplacamientos de servicio público.
 
@@ -915,7 +917,9 @@ b) Bajas 5.0 D.S.M.G.V.
 
 c) Permisos provisionales 5.0 D.S.M.G.V.
 
-V. Por el refrendo anual de las placas de circulación, incluyendo tarjeta de circulación, calcomanía, tarjetón de ruta, de jurisdicción y enmicado de la tarjeta de circulación para vehículos de servicio particular y público 7.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+V. Por el refrendo anual de las placas de circulación, incluyendo tarjeta de circulación, calcomanía, tarjetón de ruta, de jurisdicción y enmicado de la tarjeta de circulación para vehículos de servicio público 7.0 D.S.M.G.V.
 
 VI. Actas levantadas por diversas irregularidades cometidas por los servidores de transporte, multas o sanciones, de 10.0 a 300.0 D.S.M.G.V.
 
@@ -1258,6 +1262,12 @@ P.O. 28 DE DICIEMBRE DE 1996.
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 P.O. 10 DE MAYO DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 31 DE DICIEMBRE DE 1997.
 
 ###### ARTÍCULO ÚNICO.
 
