@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "1984-02-08"
+last_updated: "1991-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -166,6 +166,12 @@ Día de la Promulgación del Plan de Guadalupe.
 
 Aniversario de la Toma de Puebla en 1867.
 
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1991)</small>
+
+15 de abril:
+
+Apertura del segundo periodo de sesiones ordinarias del Congreso de la Unión.
+
 1o. de mayo:
 
 "Día del Trabajo".
@@ -190,9 +196,7 @@ Aniversario de la Toma de Querétaro, por las Fuerzas de la República, en 1867.
 
 Aniversario de la Victoria de las armas nacionales sobre el Imperio en 1867.
 
-1o. de septiembre:
-
-Apertura de Sesiones del Congreso de la Unión.
+1o. de septiembre: (DEROGADO, D.O.F. 9 DE ENERO DE 1991)
 
 14 de septiembre:
 
@@ -230,6 +234,12 @@ Aniversario del nacimiento de José María Morelos en 1765.
 
 Aniversario del nacimiento de Francisco I. Madero, en 1873.
 
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1991)</small>
+
+1o. de noviembre:
+
+Apertura del primer periodo de sesiones ordinarias del Congreso de la Unión.
+
 6 de noviembre:
 
 Conmemoración de la Promulgación del Acta de la Independencia Nacional por el Congreso de Chilpancingo en 1813.
@@ -238,13 +248,13 @@ Conmemoración de la Promulgación del Acta de la Independencia Nacional por el 
 
 Aniversario del inicio de la Revolución Mexicana en 1910.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1991)</small>
+
 29 de diciembre:
 
 Aniversario del nacimiento de Venustiano Carranza, en 1859.
 
-Diciembre:
-
-El Día de la Clausura de Sesiones del Congreso de la Unión.
+Los días de clausura de los periodos de sesiones ordinarias del Congreso de la Unión.
 
 b) A media asta en las siguientes fechas y conmemoraciones:
 
@@ -384,7 +394,9 @@ El Presidente de la República portará la Banda Presidencial en las ceremonias 
 
 I.- En la transmisión del Poder Ejecutivo Federal;
 
-II.- El 1o. de septiembre de cada año, al rendir su informe ante el Congreso de la Unión;
+> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1991)</small>
+
+II.- Al rendir anualmente su informe ante el Congreso de la Unión:
 
 III.- En la conmemoración del Grito de Dolores, la noche del 15 de septiembre, y
 
@@ -406,7 +418,7 @@ El canto, ejecución, reproducción y circulación del Himno Nacional, se apegar
 
 ###### Artículo 39.
 
-Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de publicidad comercial o de índole semejante. Se prohíbe cantar o ejecutar los himnos de otras naciones, salvo autorización expresa del representante diplomático respectivo y de la Secretaría de Gobernación.
+Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de publicidad comercial o de índole semejante. Se prohíbe cantar o ejercutar los himnos de otras naciones, salvo autorización expresa del representante diplomático respectivo y de la Secretaría de Gobernación.
 
 ###### Artículo 40.
 
@@ -605,3 +617,9 @@ TERCERO.- La presente Ley entrará en vigor el día 24 de febrero de 1984.
 México, D. F., a 29 de diciembre de 1983.- Raúl Salinas Lozano, S. P.- Luz Lajous, D. P.- Guillermo Mercado Romero, S. S.- Enrique León Martínez, D. S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Horacio García Aguilar.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdés.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de la Reforma Agraria, Luis Martínez Villicaña.- Rúbrica.- El Secretario de Turismo, Antonio Enríquez Savignac.- Rúbrica.- El Secretario de Pesca, Pedro Ojeda Paullada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE ENERO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
