@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2002-07-15"
+last_updated: "2004-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -631,9 +631,11 @@ En el Poder Legislativo será superior jerárquico, para los efectos de esta Ley
 
 El Contador Mayor de Hacienda en representación del Congreso del Estado, fincará y determinará responsabilidades a los servidores públicos estatales y municipales, así como a toda persona física o moral imputable, que con dolo o culpa cause daño o perjuicio a la Hacienda Pública Estatal o Municipal o a sus organismos y entidades del sector paraestatal, o no dé cumplimiento a las disposiciones jurídicas vigentes en el Estado, en relación al gasto público, fiscal, obra pública, adquisiciones y demás materias relacionadas con aspectos presupuestales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### Artículo 69.
 
-Serán superiores jerárquicos, para los efectos de esta Ley:
+Será superior jerárquico, para los efectos de esta Ley:
 
 I. En el Poder Judicial, el Pleno del Tribunal Superior de Justicia para los Magistrados adscritos al mismo y el órgano de vigilancia y disciplina que establezca su Ley Orgánica para los Jueces de Primera Instancia, los Alcaldes Judiciales y demás miembros del Poder Judicial cuyo nombramiento no deba ser realizado por el propio Tribunal, salvo lo que disponga su Ley Orgánica.
 
@@ -642,6 +644,10 @@ II. En el Tribunal de lo Contencioso Administrativo, el Pleno, respecto a las fa
 III. En la Comisión Estatal Electoral, el Pleno, respecto a las faltas, infracciones, acciones u omisiones de responsabilidad administrativa cometidas por los Comisionados Ciudadanos, Coordinador Técnico y demás servidores públicos adscritos al mismo en los términos de la Ley Electoral.
 
 IV. En el Tribunal Estatal Electoral, el Pleno, respecto a las faltas, infracciones, acciones u omisiones de responsabilidad administrativa cometidas por los Magistrados y demás servidores públicos adscritos al mismo en los términos de la Ley Electoral.
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2004)</small>
+
+V. En la Comisión de Acceso a la Información Pública, el Pleno, respecto a las faltas, infracciones, acciones u omisiones que puedan ser motivo de responsabilidad administrativa cometidas por los Comisionados y demás servidores públicos adscritos a la misma, en los términos de las disposiciones legales y administrativas aplicables.
 
 ###### Artículo 70.
 
@@ -949,6 +955,12 @@ En el ámbito del Poder Ejecutivo, tiene obligación de presentar manifestación
 
 En el Poder Judicial, tiene la obligación de presentar manifestación de bienes, los Magistrados, los miembros del órgano de control y vigilancia que establezca su Ley Orgánica, Jueces, Secretarios, Actuarios, de cualquier categoría o designación y los Directores que administren y vigilen recursos del Poder Judicial.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2004)</small>
+
+###### Artículo 114 Bis.
+
+En la Comisión Estatal Electoral, el Tribunal Estatal Electoral y la Comisión de Acceso a la Información Pública, tienen obligación de presentar manifestación de bienes, los Comisionados, los Magistrados, los Directores, así como aquellos que en su caso manejen, recauden o administren recursos públicos.
+
 ###### Artículo 115.
 
 En los Ayuntamientos, tienen la obligación de presentar manifestación de bienes, los Presidentes Municipales, los Secretarios, Tesoreros, Regidores, Síndicos, Directores, así como aquéllos que manejen, recauden o administren fondos y recursos económicos.
@@ -1176,3 +1188,9 @@ El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley, d
 P.O. 15 DE JULIO DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Honorable Congreso del Estado emitirá la convocatoria respectiva a la brevedad posible, para la elección del Comisionado Supernumerario de la Comisión de Acceso a la Información Pública.
