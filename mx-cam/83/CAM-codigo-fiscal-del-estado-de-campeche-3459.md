@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-3459"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-12-10"
-last_updated: "1994-06-15"
+last_updated: "1995-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el jueves 10 de diciembre de 1992.
 
@@ -79,7 +79,9 @@ II.- El Secretario de Finanzas;
 
 III.- El Tribunal de lo Contencioso Administrativo del Estado;
 
-IV.- Y demás autoridades a quien sean delegadas las facultades en el Reglamento Interior de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+IV.- Y demás autoridades a quien sean delegadas las facultades en el Reglamento Interior de la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 5.
 
@@ -111,9 +113,9 @@ PARTICIPACIONES: Son las cantidades que el Gobierno del Estado tiene derecho a p
 
 CREDITOS FISCALES: Son los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquéllos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
-La recaudación proveniente de todos los ingresos del Estado, aún cuando se destine a un fin específico, se hará por la Secretaría de Finanzas del Gobierno del Estado o por las oficinas que dicha Secretaría autorice.
+La recaudación proveniente de todos los ingresos del Estado, aún cuando se destine a un fin específico, se hará por la Secretaría de Finanzas y Administración del Gobierno del Estado o por las oficinas que dicha Secretaría autorice.
 
 ###### ARTICULO 11.
 
@@ -177,7 +179,9 @@ Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas
 
 I.- Prenda o Hipoteca;
 
-II.- Fianza otorgada, a favor de la Secretaría de Finanzas, por compañía autorizada, la que no gozará de los beneficios de orden y exclusión;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+II.- Fianza otorgada, a favor de la Secretaría de Finanzas y Administración, por compañía autorizada, la que no gozará de los beneficios de orden y exclusión;
 
 III.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
@@ -187,7 +191,9 @@ V.- Depósito de dinero en las instituciones u oficinas autorizadas expresamente
 
 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-La Secretaría de Finanzas dictará las reglas sobre los requisitos que deban reunir las garantías, vigilarán que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+La Secretaría de Finanzas y Administración dictará las reglas sobre los requisitos que deban reunir las garantías, vigilarán que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -319,13 +325,17 @@ IV.- Si se trata de obligaciones derivadas de contribuciones a cuota fija, dentr
 
 La falta de pago de un crédito fiscal en la fecha o plazo a que se refiere el artículo anterior, determinará que el crédito sea exigible.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 24.
 
-La Secretaría de Finanzas, a petición de los contribuyentes, podrá conceder el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios. El plazo no excederá del año de calendario de que se trate, salvo que sean adeudos correspondientes a años anteriores o que se trate de situaciones extraordinarias en los cuales el término podrá ser hasta dos años.
+La Secretaría de Finanzas y Administración, a petición de los contribuyentes, podrá conceder el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios. El plazo no excederá del año de calendario de que se trate, salvo que sean adeudos correspondientes a años anteriores o que se trate de situaciones extraordinarias en los cuales el término podrá ser hasta dos años.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que se debieron haber pagado hasta aquel en que se conceda la autorización. Cada parcialidad se actualizará desde esta última fecha hasta el mes en el que cada parcialidad se pague. Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo accesorios actualizado a la tasa que mediante ley fije anualmente el Congreso del Estado y supletoriamente el Congreso de la Unión. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal en cualesquiera de las formas previstas en el artículo 16 de este Código.
 
@@ -361,11 +371,11 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Para determinar las contribuciones se considerarán inclusive, las fracciones del nuevo peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos se ajusten a la unidad inmediata superior.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 26.
 
-Los pagos a favor del Estado, se harán en las Oficinas Recaudadoras de la Secretaría de Finanzas y, en su caso, en las instituciones expresamente autorizadas para el efecto, en la fecha o dentro del plazo señalado en las disposiciones respectivas; en moneda nacional, en efectivo o mediante cheques certificados.
+Los pagos a favor del Estado, se harán en las Oficinas Recaudadoras de la Secretaría de Finanzas y Administración y, en su caso, en las instituciones expresamente autorizadas para el efecto, en la fecha o dentro del plazo señalado en las disposiciones respectivas; en moneda nacional, en efectivo o mediante cheques certificados.
 
 ###### ARTICULO 27.
 
@@ -413,13 +423,17 @@ Las facultades de las autoridades para investigar hechos constitutivos de delito
 
 Para que se haga la devolución de cantidades pagadas indebidamente, es necesario:
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
 I.- Que se dicte acuerdo por el Secretario de Finanzas;
 
 II.- Que el derecho para recabar la devolución no se haya extinguido; y
 
 III.- Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores, exista partida que reporte la erogación en el presupuesto de egresos del estado y saldo disponible. Si no existiere dicha partida o fuere insuficiente, el ejecutivo del estado promoverá que se autorice el gasto en presupuesto.
 
-La devolución podrá hacerse de oficio o a petición del interesado formulada por escrito, dirigido a la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+La devolución podrá hacerse de oficio o a petición del interesado formulada por escrito, dirigido a la Secretaría de Finanzas y Administración.
 
 Cuando se pida la devolución, ésta deberá efectuarse dentro de un plazo que tenga como mínimo 90 días y no exceda de 120 días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con los documentos comprobatorios o bien el contribuyente se podrá apegar a los beneficios que le confiere el artículo siguiente.
 
@@ -437,7 +451,9 @@ No se podrán compensar las cantidades cuando haya prescrito la obligación para
 
 Las obligaciones ante el fisco del estado y los créditos a favor de éste por impuesto, derechos, productos o aprovechamientos, se extinguen por prescripción en el término de siete años. En el mismo plazo se extingue, también por prescripción, la obligación del fisco de devolver las cantidades pagadas indebidamente.
 
-La prescripción del crédito principal extingue simultáneamente los recargos, los gastos de ejecución y en su caso los intereses.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieran ser legalmente exigidos y será reconocida por la Secretaría de Finanzas y Administración de oficio o a petición de cualquier interesado, debiendo resolver en este último caso dentro de quince días siguientes de presentada la solicitud.
 
 La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieran ser legalmente exigidos y será reconocida por la Secretaría de Finanzas de oficio o a petición de cualquier interesado, debiendo resolver en este último caso dentro de quince días siguientes de presentada la solicitud.
 
@@ -445,11 +461,11 @@ La prescripción se inicia a partir de la fecha en que el crédito o el cumplimi
 
 La prescripción se interrumpe con cada gestión de cobro del acreedor, notificada o hecha sobre el deudor o por el reconocimiento de éste, expreso o tácito respecto de la existencia de la obligación de que se trate. De los requisitos señalados en este artículo deberá existir constancia por escrito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 34.
 
-La cancelación de créditos fiscales, en las cuentas públicas, no libera de su pago. Dicha cancelación, mediante previo acuerdo que dicte la Secretaría de Finanzas, procederá:
+La cancelación de créditos fiscales, en las cuentas públicas, no libera de su pago. Dicha cancelación, mediante previo acuerdo que dicte la Secretaría de Finanzas y Administración, procederá:
 
 I.- Cuando los sujetos del crédito sean insolventes, previa comprobación ante la citada Secretaría y la verificación por parte de ésta;
 
@@ -461,9 +477,11 @@ II.- Cuando el importe del crédito sea hasta dos veces el salario mínimo diari
 
 ### CAPITULO I. DERECHOS
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 35.
 
-Los contribuyentes interesados en situaciones específicas que planteen consultas sobre la aplicación de las disposiciones fiscales, tendrán derecho a que la Secretaría de Finanzas dicte resolución sobre tales consultas, las autoridades se abstendrán de resolver consultas relativas a la interpretación general, abstracta, hipotética o impersonal de las Leyes Fiscales.
+Los contribuyentes interesados en situaciones específicas que planteen consultas sobre la aplicación de las disposiciones fiscales, tendrán derecho a que la Secretaría de Finanzas y Administración dicte resolución sobre tales consultas, las autoridades se abstendrán de resolver consultas relativas a la interpretación general, abstracta, hipotética o impersonal de las Leyes Fiscales.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -509,7 +527,9 @@ d).- Clausuras.
 
 II.- Declarar y pagar los créditos fiscales en los términos que dispongan las leyes fiscales;
 
-III.- Llevar y mostrar los libros y documentos exigidos por la legislación federal relativa, cuando le sean solicitados;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+III.- Llevar en los términos y con los requisitos establecidos en las disposiciones fiscales Federales o Estatales correspondientes, los libros y documentos de contabilidad y mostrarlos cuando sean exigidos por las autoridades fiscales en el ejercicio de sus facultades de revisión, verificación y comprobación;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -517,7 +537,11 @@ IV.- Registrar los asientos correspondientes de las operaciones efectuadas en la
 
 V.- Conservar la documentación y demás elementos contables y comprobatorios, en el domicilio ubicado en el estado por plazo de 7 años;
 
-VI.- Proporcionar a las autoridades fiscales los datos o informaciones que se les soliciten, dentro del plazo fijado para ello.
+VI.- Proporcionar a las autoridades fiscales los datos o informaciones que se les soliciten, dentro del plazo fijado para ello;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VII.- Expedir o adquirir los comprobantes fiscales en los términos que establezca la Legislación Estatal.
 
 ## TITULO CUARTO. FACULTADES DE LAS AUTORIDADES FISCALES
 
@@ -565,9 +589,11 @@ II.- Imponer la multa que corresponda en los términos de este código;
 
 III.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo emanado de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 42.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Finanzas exigirá la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Finanzas y Administración exigirá la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
 I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
 
@@ -585,21 +611,33 @@ III.- Imponer la multa que corresponda en los términos de este código y requer
 
 En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 43.
 
-La Secretaría de Finanzas del Estado, a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, estará facultada para:
+La Secretaría de Finanzas y Administración del Estado, a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, estará facultada para:
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
 I.- Rectificar los errores aritméticos que aparezcan en las declaraciones;
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+
 II.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimiento o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, así como que proporcionen los datos, otros documentos o informes que se les requieran;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
 III.- Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos, para revisar su contabilidad, bienes y mercancías;
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+
 IV.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones; y
 
-V.- Allegarse las pruebas necesarias para formular la denuncia o querella al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas tendrán el mismo valor probatorio que la ley relativa concede a las actas del Ministerio Público. La propia Secretaría, a través de los abogados hacendarios que designe, será coadyuvante del Ministerio Público en los términos del Código de Procedimientos Penales del Estado de Campeche.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+V.- Allegarse las pruebas necesarias para formular la denuncia o querella al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas y Administración tendrán el mismo valor probatorio que la ley relativa concede a las actas del Ministerio Público. La propia Secretaría, a través de los abogados hacendarios que designe, será coadyuvante del Ministerio Público en los términos del Código de Procedimientos Penales del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -711,7 +749,17 @@ II.- En la solicitud se indicará el lugar y el plazo en el cual se debe proporc
 
 III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
 
-IV.- La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimientos de las disposiciones fiscales del contribuyente o responsable solidario;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+V.- El oficio de observaciones a que se refiere la fracción IV anterior, se notificará en el lugar señalado en la fracción I de este artículo. El contribuyente contará con un plazo de quince días contados a partir del siguiente al en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VI.- La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
 
 ###### ARTICULO 49.
 
@@ -823,11 +871,11 @@ II.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuent
 
 Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 51-D.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Administración y cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -843,11 +891,51 @@ Las contribuciones omitidas que las autoridades fiscales determinen como consecu
 
 Corresponde a las autoridades fiscales competentes determinar que se ha cometido una infracción a las Leyes Fiscales y demás disposiciones de orden hacendario, y de imponer las sanciones que procedan en cada caso.
 
-Si la infracción constituye, además, delito fiscal, se estará a lo dispuesto en el Capítulo II de este mismo título.
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+La aplicación de las sanciones por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las prestaciones fiscales respectivas, de aprovechamiento en su caso, y de sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 17-A de este código.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el artículo 25-B de este código.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Si la infracción constituye, además, delito fiscal, se estará a lo dispuesto en el Capítulo II de este mismo Título.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+###### ARTICULO 53-A.
+
+Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este Capítulo se consideran como tales, así como los que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquéllas que lo hagan fuera de los plazos establecidos.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+###### ARTICULO 53-B.
+
+Los funcionarios y empleados públicos que en ejercicio de sus funciones conozcan de hechos y omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo comunicarán a la autoridad fiscal competente para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos y omisiones.
+
+Tratándose de funcionarios y empleados fiscales, la comunicación a que se refiere el párrafo anterior la harán en los plazos y forma establecidos en los procedimientos a que están sujetas sus actuaciones.
+
+Se libera de la obligación establecida en este artículo a los siguientes funcionarios y empleados públicos:
+
+I.- Aquellos que de conformidad con otras leyes tengan la obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones;
+
+II.- Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 54.
 
-La aplicación de las sanciones administrativas que procedan, se harán sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las Autoridades Judiciales cuando se incurra en responsabilidad penal.
+La Secretaría de Finanzas y Administración podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+
+La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Administración al respecto no podrán ser impugnadas por los medios de defensa que establece este código.
+
+La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
 ###### ARTICULO 55.
 
@@ -859,27 +947,43 @@ II.- La Autoridad Fiscal deberá fundar y motivar, debidamente su resolución si
 
 III.- Cuando sean varios los responsables, cada uno deberá pagar la multa que se le imponga;
 
-IV.- Cuando por un acto o una omisión, se infrinjan diversas disposiciones fiscales a las que señale este código una sanción, sólo se aplicará la que corresponda a la infracción más grave;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-V.- En el caso de infracciones continuas y de que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad, una multa hasta el triple del máximo de la sanción que corresponda;
+IV.- Cuando por un acto o una omisión, se infrinjan varias disposiciones fiscales a las que correspondan diversas sanciones, sólo se aplicará la que corresponda, a la infracción cuya multa sea mayor;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+V.- En los casos en que por la comisión de la infracción sea en forma continuada o que no sea posible determinar el monto de la prestación evadida, se impondrá según la gravedad, una sanción hasta el triple del máximo de la multa que corresponda;
 
 VI.- Cuando las infracciones no se estimen leves y consistan en hechos, omisiones o faltas de requisitos semejantes en documentos o libros y siempre que no traigan o puedan traer como consecuencia la evasión del impuesto, se considerará el conjunto como una infracción y se impondrá solamente una multa que no excederá del límite máximo que fije este código para sancionar cada hecho, omisión o falta de requisito;
 
-VII.- Cuando se omita una prestación fiscal que corresponda a los actos o contratos que hagan constar en escrituras públicas o minutas extendidas ante Corredor titulado, la sanción se impondrá exclusivamente a los Notarios o Corredores, y los otorgantes sólo quedarán obligados a pagar los impuestos omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al Notario o Corredor, la sanción se aplicará a los mismos interesados;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-VIII.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados del estado, éstos serán responsables de las infracciones que se cometan y se les aplicarán sanciones que correspondan quedando únicamente obligados los contribuyentes a pagar la prestación omitida, excepto en los casos en que este código o alguna ley fiscal disponga que no se podrá exigir al contribuyente dicho pago;
+VII.- Cuando se omita una prestación fiscal que gravite sobre los actos o contratos que se hagan constar en escrituras públicas o minutas extendidas ante Notario o Corredor Titulado, los aprovechamientos y demás accesorios en su caso, que procedan, serán a cargo exclusivamente de los Notarios y Corredores, y los otorgantes sólo quedarán obligados a pagar los impuestos omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al Notario o Corredor, los aprovechamientos y demás accesorios, en su caso sólo serán a cargo de los contribuyentes;
 
-IX.- Las Autoridades Fiscales se abstendrán de imponer sanciones, cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito, o cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por la Ley. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las Autoridades Fiscales o medie requerimiento, visita domiciliaria, o cualquier otra gestión efectuada por las mismas.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VIII.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados del Estado, éstos serán responsables de las infracciones que se cometan, y serán a su cargo los aprovechamientos y demás accesorios que proceden quedando únicamente obligados los contribuyentes a pagar la prestación omitida, excepto en los casos en que este código o alguna ley fiscal disponga que no podrá exigir al contribuyente dicho pago; y
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+IX.- Las autoridades fiscales se abstendrán de imponer sanciones, cuando se haya incurrido en infracción por causa de fuerza mayor o de caso fortuito, o cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por la ley. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta previamente por las Autoridades Fiscales o medie requerimiento, visita domiciliaria, o cualquier otra gestión notificada por las mismas.
 
 ###### ARTICULO 56.
 
 Son infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos sujetos pasivos de una prestación fiscal:
 
-I.- No inscribirse o registrarse, no presentar o proporcionar los avisos, declaraciones, solicitudes, datos, informes, libros o documentos que exijan las autoridades fiscales o presentarlos o proporcionarlos extemporáneamente;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-II.- Presentar avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior alterados, falsificados, incompletos o con errores; así como, expedir documentación comprobatoria sin requisitos fiscales;
+I.- No inscribirse o registrarse; no presentar o proporcionar los avisos, declaraciones, solicitudes, datos, informes, libros o documentos que exijan las autoridades fiscales o presentarlos o proporcionarlos extemporáneamente, incompletos o con errores;
 
-III.- No llevar los libros de contabilidad a que estén obligados de acuerdo a sus actividades;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+II.- Presentar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción anterior alterados o falsificados; así como expedir documentación comprobatoria sin requisitos fiscales;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+III.- No llevar contabilidad, libros o registros especiales respectivos a que estén obligados de acuerdo a sus actividades; así como llevar la contabilidad en forma distinta a como las disposiciones fiscales establezcan o llevarla en lugar distinto a los señalados en dichas disposiciones;
 
 IV.- No incluir en la solicitud para su inscripción al registro de contribuyentes, todas las actividades por las que sea contribuyente habitual;
 
@@ -895,7 +999,9 @@ IX.- Destruir o inutilizar los libros o archivos antes de los plazos que por ley
 
 X.- Faltar en todo o en parte al pago de un crédito fiscal, como consecuencia de las omisiones, inexactitudes, simulaciones o falsificaciones a que se refieren las fracciones anteriores, así como cualquier otra maniobra encaminada a eludir el pago del adeudo;
 
-XI.- No hacer el pago de una prestación fiscal dentro de los plazos señalados en las Leyes Fiscales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+XI.- No hacer el pago de una prestación fiscal dentro de los plazos señalados en las leyes fiscales, incluso cuando se trate de contribuciones que no sean determinables por los contribuyentes;
 
 XII.- No presentar los datos o informes que legalmente exijan las Autoridades Fiscales; no mostrar los libros, documentos, registros o impedir a las mismas autoridades la entrada a las oficinas del contribuyente, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos o resistirse por cualquier otro medio, a la investigación fiscal, para comprobar la situación del contribuyente, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las autoridades fiscales, en el plazo que establecen las leyes fiscales;
 
@@ -907,7 +1013,9 @@ XV.- Faltar a la obligación de extender la documentación comprobatoria de sus 
 
 XVI.- Traficar con la documentación comprobatoria de sus ingresos;
 
-XVII.- No pagar total o parcialmente las contribuciones dentro de los plazos señalados por este Código o eludir el pago de dichas contribuciones como consecuencia de inexactitudes, simulaciones o falsificaciones o cualquier otra maniobra encaminada a dicho fin;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+XVII.- No pagar total o parcialmente las contribuciones dentro de los plazos señalados por este Código, o eludir el pago de dichas contribuciones como consecuencia de inexactitudes, simulaciones o falsificaciones o cualquier otra maniobra encaminada a dicho fin y sean descubiertas por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
 
 XVIII.- Faltar en cualquier otra forma no prevista en las fracciones anteriores al cumplimiento de las obligaciones que les impone este Código o cualquier otra disposición fiscal.
 
@@ -915,31 +1023,59 @@ XVIII.- Faltar en cualquier otra forma no prevista en las fracciones anteriores 
 
 A quien cometa las infracciones relacionadas a que se refiere el artículo anterior, se impondrán las siguientes sanciones:
 
-I.- De 1 a 5 veces el salario mínimo general a la comprendida en la fracción I;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-II.- De 10 a 50 veces el salario mínimo general a las establecidas en las fracciones II, III, IV, V y VI;
+I.- De 2 a 30 veces el salario mínimo general diario vigente en el Estado, a las comprendidas en la fracción I;
 
-III.- De 100 a 500 veces el salario mínimo general a la comprendida en la fracción VII;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-IV.- De 50 a 100 veces el salario mínimo general a las establecidas en la fracción VIII;
+II.- De 10 a 50 veces el salario mínimo general diario vigente en el Estado, a las establecidas en las fracciones II, III, IV, V y VI;
 
-V.- De 50 a 250 veces el salario mínimo general a las señaladas en las fracciones IX y X;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-VI.- De 1 a 10 veces el salario mínimo general a la comprendida en la fracción XI;
+III.- De 100 a 500 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción VII;
 
-VII.- De 100 a 150 veces el salario mínimo general a la señalada en la fracción XII;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-VIII.- De 40 a 90 veces el salario mínimo general a la establecida en la fracción XIII;
+IV.- De 50 a 100 veces el salario mínimo general diario vigente en el Estado, a las establecidas en la fracción VIII;
 
-IX.- De 100 a 250 veces el salario mínimo general a la señalada en la fracción XIV;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-X.- De 15 a 45 veces el salario mínimo general a la comprendida en la fracción XV;
+V.- De 50 a 500 veces el salario mínimo general diario vigente en el Estado, a las señaladas en las fracciones IX y X;
 
-XI.- De 50 a 150 veces el salario mínimo general a la establecida en la fracción XVI;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-XII.- De 10 a 100 veces el salario mínimo general a la señalada en la fracción XVII;
+VI.- De 2 a 10 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción XI;
 
-XIII.- DE 1 a 50 veces el salario mínimo general a la comprendida en la fracción XVIII.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VII.- De 10 a 50 veces el salario mínimo general diario vigente en el Estado, a las señaladas en la fracción XII;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VIII.- De 40 a 90 veces el salario mínimo general diario vigente en el Estado, a la establecida en la fracción XIII;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+IX.- De 100 a 500 veces el salario mínimo general diario vigente en el Estado, a la señalada en la fracción XIV;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+X.- De 20 a 100 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción XV;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+XI.- De 50 a 150 veces el salario mínimo general diario vigente en el Estado, a la establecida en la fracción XVI;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+XII.- El 50% de la contribución omitida actualizada en los términos del artículo 17-A del presente Código, en el entendido que cuando ese porcentaje arroje cantidad menor a 2 veces el salario mínimo general diario vigente en el Estado, la sanción a aplicar será la de: 2 veces ese salario mínimo, para las establecidas en la fracción XVII.
+
+Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquella, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere esta fracción;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+XIII.- De 2 a 50 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción XVIII.
 
 ###### ARTICULO 58.
 
@@ -955,23 +1091,43 @@ IV.- Autorizar o hacer constar en calidad de Contadores, peritos o testigos, dat
 
 V.- Consentir o tolerar que se inscriban a su nombre en los padrones estatales, negociaciones ajenas;
 
-VI.- Recibir a nombre propio ingresos gravables, que correspondan a otra persona, cuando esto traiga como consecuencia la omisión del pago de los créditos fiscales.
+VI.- Recibir a nombre propio ingresos gravables, que correspondan a otra persona, cuando esto traiga como consecuencia la omisión del pago de los créditos fiscales;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VII.- Ser cómplice en la comisión de infracciones fiscales no previstas en este Código.
 
 ###### ARTICULO 59.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se le impondrán las siguientes sanciones:
 
-I.- De 60 a 120 veces el salario mínimo a la comprendida en la fracción I;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-II.- De 30 a 100 veces el salario mínimo a la establecida en la fracción II;
+I.- De 60 a 120 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción I;
 
-III.- De 10 a 50 veces el salario mínimo a la señalada en la fracción III;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-IV.- De 50 a 150 veces el salario mínimo a la comprendida en la fracción IV;
+II.- De 30 a 100 veces el salario mínimo general diario vigente en el Estado, a la establecida en la fracción II;
 
-V.- De 20 a 50 veces el salario mínimo a la establecida en la fracción V;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-VI.- De 50 a 100 veces el salario mínimo a la señalada en la fracción VI.
+III.- De 10 a 50 veces el salario mínimo general diario vigente en el Estado, a la señalada en la fracción III;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+IV.- De 50 a 150 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la facción IV;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+V.- De 20 a 50 veces el salario mínimo general diario vigente en el Estado, a la establecida en la fracción V; y
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VI.- De 50 a 100 veces el salario mínimo general diario vigente en el Estado, a la señalada en la fracción VI.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VII.- De 10 a 150 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la fracción VII.
 
 ###### ARTICULO 60.
 
@@ -981,7 +1137,9 @@ I.- Dar entrada o curso a documentos o libros que carezcan en todo o en parte de
 
 II.- Recibir el pago de una prestación fiscal y no enterar su importe en la caja recaudadora inmediatamente;
 
-III.- No exigir el pago total de las prestaciones fiscales;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+III.- No exigir el pago total de las prestaciones fiscales, aprovechamientos y sus demás accesorios correspondientes, y recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales;
 
 IV.- No presentar, ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos o inexactos. No prestar auxilio a las Autoridades Fiscales para la determinación y cobro de las prestaciones tributarias;
 
@@ -989,7 +1147,9 @@ V.- Presentar los informes, avisos, datos o documentos a que se refiere la fracc
 
 VI.- Alterar documentos fiscales que tengan en su poder;
 
-VII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas domiciliarias, auditorías, inspecciones y verificaciones o incluir en las actas relativas datos falsos;
 
 VIII.- No practicar las visitas de inspección cuando tengan obligación de hacerlo;
 
@@ -1011,39 +1171,59 @@ XV.- Infringir disposiciones fiscales en forma distinta de las previstas en las 
 
 A quien cometa las infracciones que se relacionan en el artículo anterior, se le impondrá las siguientes sanciones:
 
-I.- De 20 a 100 veces el salario mínimo general, a las comprendidas en las fracciones I, III, y IV;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-II.- De 50 a 150 veces el salario mínimo general, a las señaladas en las fracciones II, V, VIII, X y XIII;
+I.- De 15 a 100 veces el salario mínimo general diario vigente en el Estado, a las comprendidas en las fracciones I, III y IV;
 
-III.- De 100 a 200 veces el salario mínimo general, a las relacionadas en las fracciones VI, VII y XIV;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-IV.- De 60 a 120 veces el salario mínimo general, a la comprendida en la fracción IX;
+II.- De 15 a 150 veces el salario mínimo general diario vigente en el Estado, a las señaladas en las fracciones II, V, VIII, X y XIII;
 
-V.- De 100 a 250 veces el salario mínimo general, a la señalada en la fracción XI;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
 
-VI.- De 30 a 120 veces el salario mínimo general, a la relacionada en la fracción XII;
+III.- De 15 a 200 veces el salario mínimo general diario vigente en el Estado, a las relacionadas en las fracciones VI, VII y XIV;
 
-VII.- De 40 a 90 veces el salario mínimo general, a la señalada en la fracción XV.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+IV.- De 60 a 120 veces el salario mínimo general diario vigente en el Estado, a la comprendida en la facción IX;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+V.- De 100 a 250 veces el salario mínimo general diario vigente en el Estado, a la señalada en la facción XI;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VI.- De 30 a 120 veces el salario mínimo general diario vigente en el Estado, a la relacionada en la facción XII;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+VII.- De 40 a 90 veces el salario mínimo general diario vigente en el Estado, a la señalada en la facción XV.
 
 ### CAPITULO II. DE LOS DELITOS FISCALES
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 62.
 
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que la Secretaría de Finanzas declare previamente que el fisco del Estado ha sufrido perjuicios o formule querella.
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que la Secretaría de Finanzas y Administración declare previamente que el fisco del Estado ha sufrido perjuicios o formule querella.
 
-Los procesos por delitos fiscales se sobreseerán a petición de la Secretaría de Finanzas, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Los procesos por delitos fiscales se sobreseerán a petición de la Secretaría de Finanzas y Administración, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
 
-En los delitos fiscales en que sea necesario querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, la Secretaría de Finanzas hará la cuantificación correspondiente en la propia querella o declaratoria o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones. La citada cuantificación sólo surtirá efectos en el Procedimiento Penal.
+En los delitos fiscales en que sea necesario querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, la Secretaría de Finanzas y Administración hará la cuantificación correspondiente en la propia querella o declaratoria o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones. La citada cuantificación sólo surtirá efectos en el Procedimiento Penal.
 
 ###### ARTICULO 63.
 
 En los delitos fiscales la Autoridad Judicial no impondrá sanción pecuniaria; las Autoridades Administrativas con arreglos a las leyes fiscales, harán efectivos los gravámenes omitidos y las sanciones administrativas correspondientes.
 
-Para que proceda la condena condicional, la sustitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, además de los requisitos señalados en el Código Fiscal del Estado, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Para que proceda la condena condicional, la sustitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, además de los requisitos señalados en el Código Fiscal del Estado, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 64.
 
-La acción penal que nazca de los delitos fiscales perseguibles por querella de la Secretaría de Finanzas, prescribirán en tres años, contados a partir del día en que dicha Secretaría tenga conocimiento del delito y del presunto responsable del mismo. A falta de dicho conocimiento, en cinco años contados a partir de la época en que se cometió el delito.
+La acción penal que nazca de los delitos fiscales perseguibles por querella de la Secretaría de Finanzas y Administración, prescribirán en tres años, contados a partir del día en que dicha Secretaría tenga conocimiento del delito y del presunto responsable del mismo. A falta de dicho conocimiento, en cinco años contados a partir de la época en que se cometió el delito.
 
 ###### ARTICULO 65.
 
@@ -1183,6 +1363,14 @@ III.- Las pruebas y los hechos controvertidos de que se trate.
 
 Cuando no se haga alguno de los señalamientos de la fracción I y II, la autoridad fiscal desechará por improcedente el recurso interpuesto. Si se omiten los de la fracción III, se tendrá por no ofrecidas las pruebas.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Cuando no se expresen los agravios a que se refiere la fracción II de este artículo, la autoridad fiscal desechará por improcedente el recurso interpuesto. Cuando no se señale el acto que se impugna, los hechos controvertidos o no se ofrezcan las pruebas a que se refieren las fracciones I y III, la autoridad fiscal requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Cuando no se gestione en nombre propio, la representación de los interesados deberá recaer en Licenciado en Derecho. No será aplicable lo dispuesto en este párrafo si la gestión se realiza en nombre de una persona moral en los términos de la ley que la regula y conforme a sus estatutos, sin prejuicio de lo que disponga la legislación de profesiones.
+
 ###### ARTICULO 82.
 
 El promovente deberá acompañar al escrito en que se interponga el recurso:
@@ -1195,7 +1383,9 @@ III.- Constancia de notificación del acto impugnado, excepto cuando el promoven
 
 IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
 
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
 La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
 
@@ -1377,15 +1567,21 @@ En este caso se tendrá como fecha de notificación la de la última publicació
 
 Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones I, III y IV; del artículo 16 de este Código, se harán efectivas a través del Procedimiento Administrativo de Ejecución.
 
-Tratándose de fianza a favor de la Secretaría de Finanzas, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Tratándose de fianza a favor de la Secretaría de Finanzas y Administración, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
 
 a).- La Autoridad Ejecutora requerirá de pago a la Afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad.
 
 Para ello la Afianzadora designará, en el lugar de residencia del Tribunal de lo Contencioso Administrativo, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran.
 
-La citada información se proporcionará a la Secretaría de Finanzas, misma que se publicará en el Periódico Oficial del Gobierno del Estado para conocimiento de las autoridades ejecutoras.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
 
-b).- Si no se paga dentro del mes siguiente a la fecha en que surta efecto la notificación del requerimiento, la propia ejecutora ordenará a la autoridad competente de la Secretaría de Finanzas que remate, en bolsa, valores propiedad de la afianzadora bastantes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
+La citada información se proporcionará a la Secretaría de Finanzas y Administración, misma que se publicará en el Periódico Oficial del Gobierno del Estado para conocimiento de las autoridades ejecutoras.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+b).- Si no se paga dentro del mes siguiente a la fecha en que surta efecto la notificación del requerimiento, la propia ejecutora ordenará a la autoridad competente de la Secretaría de Finanzas y Administración que remate, en bolsa, valores propiedad de la afianzadora bastantes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
 
 ###### ARTICULO 101.
 
@@ -1559,9 +1755,11 @@ II.- Si el aseguramiento federal es posterior, el depositario nombrado en el exp
 
 Cuando el embargo recaiga en dinero en todo o en parte, se le dará entrada en la caja de la oficina respectiva con el carácter de depósito, o se aplicará en definitiva contra el pago del adeudo total, si el interesado no hace uso del recurso de oposición.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 115.
 
-Cuando los bienes embargados fueren cómodamente transportables en su totalidad sin menoscabo de su valor, se depositarán en el local de la oficina de la Secretaría de Finanzas, de lo contrario, se nombrará depositario para que los conserve en su poder y bajo su responsabilidad, a disposición del notificador-ejecutor y la oficina fiscal respectiva, bajo las penas señaladas por el Código Penal a los depositarios infieles. El depositario nombrado recibirá los bienes embargados mediante inventario.
+Cuando los bienes embargados fueren cómodamente transportables en su totalidad sin menoscabo de su valor, se depositarán en el local de la oficina de la Secretaría de Finanzas y Administración, de lo contrario, se nombrará depositario para que los conserve en su poder y bajo su responsabilidad, a disposición del notificador-ejecutor y la oficina fiscal respectiva, bajo las penas señaladas por el Código Penal a los depositarios infieles. El depositario nombrado recibirá los bienes embargados mediante inventario.
 
 ###### ARTICULO 116.
 
@@ -1641,7 +1839,9 @@ IV.- Cuando quede firme la resolución confirmatoria del acto impugnado, recaíd
 
 Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la Oficina Ejecutora, siempre que, si se trata de inmuebles, conste en el expediente el certificado de libertad de gravamen por diez años.
 
-La Secretaría de Finanzas del Estado, con el objeto de obtener un mayor rendimiento, podrá designar otro lugar para la enajenación u ordenar que los bienes embargados se vendan en lotes o fracciones.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+La Secretaría de Finanzas y Administración del Estado, con el objeto de obtener un mayor rendimiento, podrá designar otro lugar para la enajenación u ordenar que los bienes embargados se vendan en lotes o fracciones.
 
 ###### ARTICULO 128.
 
@@ -1759,15 +1959,19 @@ II.- A falta de pujas, por la base de la postura legal no mejorada;
 
 III.- En caso de postura o pujas iguales, por la cantidad en que se haya producido el empate.
 
-La adjudicación que decrete la Oficina ejecutora, en cualquiera de los casos anteriores, solo será válida, si la aprueba la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+La adjudicación que decrete la Oficina ejecutora, en cualquiera de los casos anteriores, solo será válida, si la aprueba la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 144.
 
 Cuando en la primera almoneda no se presenten postores, ni convengan al fisco la adjudicación en su favor, se citarán nuevamente al remate hasta por dos veces más publicando en cada ocasión, por una sola vez, las convocatorias respectivas. En la segunda almoneda se deducirá la cantidad equivalente al 20% de la señalada como postura legal en la primera, y cuando se trate de la tercera y última, la deducción se hará conforme lo acuerde la oficina ejecutora, teniendo en cuenta las circunstancias del caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 145.
 
-La enajenación fuera de remate, de bienes embargados administrativamente, solamente podrá hacerse por acuerdo expreso de la Secretaría de Finanzas, en los casos siguientes:
+La enajenación fuera de remate, de bienes embargados administrativamente, solamente podrá hacerse por acuerdo expreso de la Secretaría de Finanzas y Administración, en los casos siguientes:
 
 I.- Que se haya efectuado por lo menos dos almonedas sin resultado;
 
@@ -1835,7 +2039,9 @@ a).- La autoridad que dictó la resolución impugnada.
 
 b).- El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa;
 
-III.- El titular de la Secretaría de Gobierno del Estado u Organismo Descentralizado del que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Finanzas será parte en los juicios en que se controvierta el interés fiscal del estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+III.- El titular de la Secretaría de Gobierno del Estado u Organismo Descentralizado del que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Finanzas y Administración será parte en los juicios en que se controvierta el interés fiscal del estado;
 
 IV.- El tercero que tenga un derecho incompatible con la pretensión del demandante.
 
@@ -1951,7 +2157,9 @@ Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se 
 
 La demanda deberá indicar:
 
-I.- El nombre y domicilio del demandante;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 1995)</small>
+
+I.- El nombre, domicilio fiscal y, en su caso, clave del registro estatal de contribuyentes y domicilio para recibir notificaciones del demandante;
 
 II.- La resolución que se impugna;
 
@@ -1961,7 +2169,7 @@ IV.- Los hechos que den motivo a la demanda;
 
 V.- Las pruebas que ofrezca.
 
-En caso de que se ofrezca prueba pericial o testimonial se precisarán los hechos sobre los que deban versar y señalarán los nombres y domicilios del perito o de los testigos.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE JUNIO DE 1995)</small>
 
 Sin estos señalamientos se tendrán por no ofrecidas;
 
@@ -1969,7 +2177,9 @@ VI.- La expresión de los agravios que le cause el acto impugnado;
 
 VII.- El nombre y domicilio del tercer interesado, cuando lo haya.
 
-Cuando se omitan los datos previstos en las fracciones I, II, III y VI, el magistrado desechará por improcedente la demanda interpuesta.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Cuando se omitan los datos previstos en las fracciones I, II y VI, el magistrado desechará por improcedente la demanda interpuesta. Cuando se omitan los datos previstos en las fracciones III, IV, V y VII, el magistrado requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 
 ###### ARTICULO 162.
 
@@ -1989,7 +2199,9 @@ V.- El cuestionario que debe desahogar el perito, el cual deberá ir firmado por
 
 VI.- Las pruebas documentales que ofrezca.
 
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición éste deberá señalar el archivo o lugar en que se encuentren para que a su costa se mande expedir copia de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1995)</small>
+
+Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado requerirá al promovente para que los presente dentro del plazo de cinco días. Si el promovente no los presenta dentro de dicho plazo y se trata de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda, o si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos a que se refieren las fracciones V y VI, las mismas se tendrán por no ofrecidas.
 
 Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
 
@@ -2400,3 +2612,15 @@ P.O. 15 DE JUNIO DE 1994.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a las contenidas en este Decreto.
+
+P.O. 26 DE JUNIO DE 1995.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO QUINTO DEL DECRETO DE REFORMAS AL PRESENTE CODIGO.</small>
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 1995)</small>
+
+Artículo Quinto.- Todas las referencias que en el texto del Código Fiscal del Estado que se modifica se hacen a la Secretaría de Finanzas, en lo sucesivo deberán tenerse como hechas a la Secretaría de Finanzas y Administración.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan a este decreto.
