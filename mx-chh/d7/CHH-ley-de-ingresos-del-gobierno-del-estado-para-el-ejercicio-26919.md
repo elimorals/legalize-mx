@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-gobierno-del-estado-para-el-ejercicio-26919
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-12-25"
-last_updated: "2002-12-25"
+last_updated: "2003-03-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2003
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2003
 
 Ley publicada en el Periódico Oficial del Estado el miércoles 25 de diciembre del 2002.
 
@@ -305,15 +305,21 @@ Se autoriza al Ejecutivo Estatal para que, por conducto de la Secretaría de Fin
 
 Los derechos que se causen por la prestación de los servicios que realice la Dirección de Gobernación, por concepto de Revisión Anual de las Licencias de los Establecimientos o Locales en los que se Expenden, Distribuyen o Ingieren Bebidas Alcohólicas en Envase Cerrado, Abierto o al Copeo, deberán pagarse dentro de los primeros cinco meses del año 2003, aplicando la cuota que corresponda de acuerdo con la Tarifa para el Cobro de Derechos que forma parte integrante de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2003)</small>
+
 ###### ARTÍCULO OCTAVO.
 
-Por la expedición de engomados de control vehicular y canje de placas a que se refiere el artículo 308 del Código Fiscal del Estado, el Derecho correspondiente se causará dentro de los primeros tres meses del año 2003. Dicho canje deberá efectuarse con carácter general, en términos del artículo séptimo del Acuerdo del Secretario de Comunicaciones y Transportes del 10 de mayo del 2000, publicado en el Diario Oficial de la Federación el 25 de septiembre del mismo año.
+Por la expedición de engomados de control vehicular y canje de placas a que se refiere el artículo 308 del Código Fiscal del Estado, el Derecho correspondiente se causará dentro de los primeros cinco meses del año 2003. Dicho canje deberá efectuarse con carácter general, en términos del artículo séptimo del Acuerdo del Secretario de Comunicaciones y Transportes del 10 de mayo del 2000, publicado en el Diario Oficial de la federación el 25 de septiembre del mismo año.
 
-Las nuevas placas metálicas de identificación vehicular se entregarán sin costo para el contribuyente, siempre y cuando éste efectúe, dentro del plazo señalado, el pago del engomado de control vehicular, y del Impuesto sobre Tenencia o Uso de Vehículos cuando proceda, correspondientes al año 2003; si no se causare dicho Impuesto, el plazo para obtener sin costo las placas vencerá en el mes de mayo del mismo año.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2003)</small>
+
+Durante el plazo establecido en el párrafo anterior, las nuevas placas metálicas de identificación vehicular se entregarán sin costo para el contribuyente, siempre y cuando éste efectúe, previa o simultáneamente a dicho trámite, el pago del engomado de control vehicular y del Impuesto sobre Tenencia o Uso de Vehículos que proceda, correspondientes al mismo año.
 
 Para acceder a dicho beneficio deberán cubrirse también, en su caso, las contribuciones vehiculares que se adeuden.
 
-Los contribuyentes que realicen su trámite fuera de los plazos establecidos, deberán pagar el Derecho por concepto de dotación de placas metálicas de identificación vehicular que señala la Tarifa de Derechos, independientemente de liquidar los adeudos que tuviesen de ejercicios anteriores.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2003)</small>
+
+Los contribuyentes que realicen su trámite fuera del plazo establecido, deberán pagar el Derecho por concepto de dotación de placas metálicas de identificación vehicular que señala la Tarifa de Derechos, independientemente de liquidar los adeudos que tuviesen de ejercicios anteriores.
 
 El beneficio a que se refiere el párrafo segundo del presente artículo no será aplicable a los propietarios de vehículos con placas de otras Entidades Federativas que registren sus unidades en el padrón vehicular del Estado de Chihuahua; ni a los de vehículos nuevos, entendiéndose por éstos los que se enajenen por primera vez al usuario final por el fabricante, ensamblador o distribuidor.
 
@@ -356,3 +362,9 @@ C.P. PATRICIO MARTINEZ GARCIA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO ANTONIO MARTINEZ GARZA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MARZO DE 2003
+
+TRANSITORIO ARTICULO UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
