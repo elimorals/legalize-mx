@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1998-06-18"
+last_updated: "1999-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -519,9 +519,13 @@ XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de 
 
 XX.- Elegir la Diputación Permanente;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
 
-XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
+XXI.- Nombrar a los Magistrados del Tribunal Superior de Justicia del Estado, de la terna que el Gobernador someta a la consideración, el cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante. La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
+
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
+
+Asimismo, otorgar o negar su aprobación a las licencias, renuncias o remociones de Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado;
 
 XXII.- Legislar en todo lo relativo a la administración pública;
 
@@ -591,11 +595,15 @@ XLIV.- Expedir la ley que instituya el Tribunal Unitario de lo Contencioso Admin
 
 > <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
 
-XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y
+XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y (sic)
 
-> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
+> <small>(ADICIONADA, B.O. 6 DE ABRIL DE 1999)</small>
 
-XLVI.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes propuesta por el Gobernador del Estado, el cual, previa comparecencia de las personas propuestas, elegirá a quien ocupará el cargo. La elección del Procurador se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de 10 días naturales para hacerlo; y en el caso de que, vencido ese plazo, aún no se haya realizado la elección, el Titular del Ejecutivo procederá a hacer la designación de entre los propuestos.
+
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+
+XLVII.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -619,15 +627,15 @@ IV.- Nombrar interinamente a los empleados de la Contaduría Mayor de Hacienda;
 
 V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
 
-VI.- Conceder licencia al Gobernador del Estado, cuando no sea por período mayor de un mes y a los diputados y Magistrados del Tribunal Superior de Justicia cuando no sea mayor de tres meses;
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+
+VI.- Conceder licencia al Gobernador del Estado cuando no sea por periodo mayor de un mes, y a los Diputados cuando no sea mayor de tres meses.
 
 VII.- Nombrar Gobernador Provisional en los casos previstos en esta Constitución;
 
 VIII.- Designar, a propuesta del Gobernador, a los miembros de los Concejos Municipales;
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
-
-IX.- Dar o negar su aprobación a los nombramientos, remociones y renuncias de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
+IX.- (DEROGADA, B.O. 6 DE ABRIL DE 1999)
 
 X.- Las demás que le confiera expresamente esta Constitución.
 
@@ -699,15 +707,21 @@ I.- Publicar, cumplir y hacer cumplir las leyes federales;
 
 II.- Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
 
-III.- Nombrar y remover libremente a los Secretarios del Despacho, Procurador General de Justicia y demás funcionarios y empleados del Estado, cuyo nombramiento o remoción no este determinado de otro modo en la Constitución o en las Leyes.
+III.- Nombrar y remover libremente a los Secretarios del Despacho y demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las Leyes;
 
-IV.- Nombrar a los Magistrados del Tribunal Superior de Justicia, con la aprobación del Congreso del Estado o la Diputación Permanente, en su caso;
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
 
-V.- Nombrar a los miembros del Consejo tutelar para menores, en los términos que disponga la ley de la materia;
+IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias, renuncias o remociones a la aprobación del propio Congreso;
 
-VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas, en su caso, al Congreso del Estado o a la Comisión Permanente;
+> <small>(ADICIONADA, B.O. 6 DE ABRIL DE 1999)</small>
+
+V.- Presentar a consideración del Congreso del Estado, la terna para la designación del Procurador General de Justicia y una vez elegido, expedir el nombramiento respectivo, pudiéndolo remover libremente por causa justificada.
+
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+
+VI.- Recibir las renuncias de los Magistrados del Tribunal Superior de Justicia y turnarlas al Congreso del Estado.
 
 VII.- Pedir la destitución de los funcionarios judiciales, en los casos que proceda conforme a lo dispuesto en esta Constitución y las leyes de la materia;
 
@@ -801,11 +815,15 @@ XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las accio
 
 > <small>(REFORMADA, B.O. 20 DE MAYO DE 1994)</small>
 
-XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y
+XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y (sic)
 
-> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
 
-XLV.- Las demás que señalen esta Constitución y sus leyes.
+XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la Ley de la materia
+
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+
+XLVI.- Las demás que señalen esta Constitución y sus Leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
@@ -923,11 +941,11 @@ VII.- El Jurado Popular; y
 
 VIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
-> <small>(REFORMADO, B.O. 10 DE MARZO DE 1990)</small>
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
-90.- El Tribunal Superior de Justicia del Estado, se integra por siete Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+90.- El Tribunal Superior de Justicia del Estado se integrará por siete Magistrados nombrados por el Poder Legislativo, de entre las ternas propuestas por el Gobernador del Estado.
 
-Para el trámite de las renuncias de los Magistrados, se seguirá el mismo procedimiento que para su nombramiento.
+Para el trámite de las renuncias, licencias y remociones de los Magistrados se seguirá el procedimiento que esta Constitución y las Leyes de la Materia establecen.
 
 > <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
 
@@ -945,25 +963,21 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Los Magistrados del Tribunal Superior de Justicia serán nombrados preferentemente de entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-92.- Los nombramientos de Magistrados del Tribunal Superior de Justicia que el Gobernador del Estado someta al Congreso del Estado o a la Comisión Permanente, en su caso, deberán ser aprobados o desechados dentro del improrrogable término de diez días.
+92.- (DEROGADO, B.O. 6 DE ABRIL DE 1999)
 
-Si el Congreso del Estado o la Comisión Permanente, en su caso, nada resolviere dentro del plazo anterior, se tendrán por aprobados los nombramiencos (sic) y los designados entrarán a desempeñar sus funciones.
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
-En caso de que no se aprueben dos nombramientos sucesivos respecto a una misma vacante, el Gobernador del Estado hará un tercero que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Comisión Permanente. Cuando los nombramientos hayan sido sometidos a la Comisión Permanente, el tercero se someterá al Congreso del Estado en el siguiente período de sesiones.
+93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años. El ciudadano que haya desempeñado el cargo de Magistrado, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo en el periodo inmediato.
 
-Dentro de los primeros diez días de sesiones del Congreso del Estado o de la Comisión Permanente, se deberá aprobar o rechazar el nombramiento; si nada se resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo y el Gobernador hará la declaratoria correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
-Si el Congreso o la Comisión Permanente desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
-
-> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
-
-93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años, pudiendo ser reelectos y si lo fueren, solo podrán ser privados de sus puestos en los términos que determine esta Constitución y las Leyes respectivas.
+94.- Los Magistrados del Tribunal Superior de Justicia deberán otorgar la protesta de Ley ante el Congreso del Estado.
 
 > <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
-
-94.- Los Magistrados del Tribunal Superior de Justicia ya sean definitivos o provisionales, deberán otorgar la protesta de Ley ante el Congreso del Estado y en los recesos de éste ante la Diputación Permanente.
 
 Los jueces protestarán ante el Tribunal Superior de Justicia, los demás funcionarios y empleados de la Administración de Justicia rendirán su protesta ante la autoridad de quien dependan.
+
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
 
 Los Magistrados del Tribunal Superior de Justicia y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
@@ -1007,7 +1021,9 @@ XI.- Las demás que le confiera esta Constitución y las leyes.
 
 La misma Ley normará la integración, organización y funcionamiento de los Jurados.
 
-El Tribunal Superior de Justicia, oyendo la opinión del Gobernador del Estado, determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
+> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+
+El Tribunal Superior de Justicia determinará el número de Jueces que deberán establecerse, su lugar de residencia y su jurisdicción territorial.
 
 > <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
 
@@ -1039,9 +1055,15 @@ IX.- Estar inscrito en el Padrón Electoral y poseer credencial para votar con f
 
 100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
-101.- El Gobernador podrá pedir ante el Congreso del Estado la destitución de cualquier de los Magistrados del Tribunal Superior de Justicia y si el Congreso del Estado declara por mayoría absoluta de votos justificada la petición, el Magistrado acusado quedará privado desde luego de su puesto, independientemente de cualquier responsabilidad en que hubiere incurrido, procediéndose a nueva designación.
+101.- El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia, por delitos, faltas oficiales y omisiones en los que incurran, previstos en esta Constitución y en las Leyes de la Materia.
+
+> <small>(ADICIONADO, B.O. 6 DE ABRIL DE 1999)</small>
+
+Si el Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes, declara justificada la petición, el Magistrado acusado quedará privado, desde luego, de su cargo, independientemente de cualquier responsabilidad legal en la que hubiere incurrido, procediéndose a la nueva designación para cubrir la vacante.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 1976)</small>
 
 El Gobernador antes de pedir al Congreso del Estado la destitución de algún Magistrado, oirá a éste en lo privado a efecto de poder apreciar en conciencia la justificación de tal solicitud.
 
@@ -2078,3 +2100,9 @@ B.O. 12 DE DICIEMBRE DE 1997.
 B.O. 18 DE JUNIO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE ABRIL DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
