@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2003-08-30"
+last_updated: "2003-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1277,7 +1277,9 @@ Para ser Delegado Municipal se requiere:
 
 I. Ser ciudadano potosino en ejercicio de sus derechos;
 
-II. Ser originario del Municipio al que pertenezca la Delegación, y con un año por lo menos de residencia efectiva en ésta inmediata anterior a la fecha de la designación; o ser vecino de la misma con residencia efectiva de dos años inmediata anterior al día de la designación, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
+II. Ser originario del Municipio, y con un año por lo menos de residencia efectiva inmediata anterior a la fecha de la designación; o ser vecino del mismo, con residencia efectiva de dos años inmediata anterior al día de la designación; y
 
 III. No haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
 
@@ -2028,3 +2030,7 @@ P.O. 30 DE AGOSTO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2003.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
