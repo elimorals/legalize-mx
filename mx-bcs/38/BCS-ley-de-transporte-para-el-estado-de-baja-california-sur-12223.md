@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "1997-12-08"
+last_updated: "1998-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 1998.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -59,6 +59,10 @@ Esta Ley tiene por objeto promover, fomentar, regular y supervisar los servicios
 
 De conformidad a lo dispuesto por el artículo 30 de la Constitución Política del Estado de Baja California Sur, los sudcalifornianos serán preferidos para toda clase de concesiones, en igualdad de circunstancias ante los demás ciudadanos.
 
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 1998)</small>
+
+Asimismo se procurará por las Autoridades que se señalan en esta Ley, otorgar a las organizaciones y prestadores de servicios públicos locales de Transporte legalmente constituidas, las facilidades que prevee (sic) este ordenamiento, mediante las cuales puedan desarrollar su actividad.
+
 ###### Artículo 5°.
 
 Para la interpretación, aplicación y efectos de esta Ley y su Reglamento, se entenderá por:
@@ -81,11 +85,17 @@ E) Vías de Jurisdicción Estatal: Son los caminos, avenidas, calzadas, calles, 
 
 F) Vía pública terrestre: todo espacio de dominio público y de uso común que por disposición de la ley o por razones de servicio esté destinado al tránsito de vehículos para el transporte de personas, semovientes y carga en general;
 
-G) Taxi: Vehículo de alquiler con chofer destinado al transporte de personas con capacidad máxima de 5 pasajeros, para prestar servicio en una población determinada sin itinerario fijo estando obligado a prestar el servicio mediante el pago del precio que fijen las tarifas correspondientes en sitios, zonas o rutas que se le destinen;
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
 
-H) Peseras: Vehículos con capacidad máxima de 12 pasajeros, destinados al transporte de personas que prestan el servicio en una población determinada sujetos a ruta fija, tarifas e itinerarios;
+G) Taxi: vehículo de alquiler con chofer destinado al transporte de personas, para prestar el servicio en una población determinada sin ruta e itinerarios fijos, estando obligado el concesionario a prestar el servicio mediante el pago del precio que fijen las tarifas correspondientes. Estos vehículos, de acuerdo con la clasificación del servicio que determine el reglamento de esta Ley, podrán tener capacidad máxima de 5 y 15 pasajeros, respectivamente, de acuerdo al cupo y características de fabricación;
 
-I) Autobuses Urbanos: Vehículos con capacidad máxima de 40 pasajeros destinados al transporte de personas entre los distintos lugares de una población y sujetos a rutas, tarifas e itinerarios.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
+
+H) Peseras: vehículos con capacidad mínima de 11 y máxima de 23 pasajeros, de acuerdo al cupo y características de fabricación de la unidad, destinados al transporte de personas que prestan el servicio en una población determinada, sujetos a ruta fija, tarifa e itinerarios;
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
+
+I) Autobuses urbanos: vehículos con capacidad mínima de 24 y máxima de 40 pasajeros de acuerdo al cupo y características de fabricación de la unidad, destinados al transporte de personas entre distintos lugares de una población y sujetos a rutas, tarifas e itinerarios.
 
 ### CAPITULO II. DE LAS AUTORIDADES DEL TRANSPORTE
 
@@ -107,7 +117,9 @@ Son atribuciones del Gobernador del Estado en materia de transporte, las siguien
 
 I. Prestar el servicio público de transporte de pasaje y carga, así como explotar centrales y terminales a través de las concesiones que al efecto otorgue, salvo los casos de excepción establecidos en esta Ley y su Reglamento;
 
-II. Expedir el reglamento de la presente Ley, así como las demás disposiciones legales tendientes al logro de los objetivos que ésta señala;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 1998)</small>
+
+II. Expedir el reglamento de la presente Ley, así como las demás disposiciones legales tendientes al logro de los objetivos que esta señala; para los efectos de reformas y modificaciones al reglamento, tomar en consideración la opinión de los Consejos Municipales de Transporte;
 
 III. Fijar en la "Declaratoria de Necesidad Pública de Transporte" el número de concesiones que podrán otorgarse a los solicitantes de éstas;
 
@@ -143,7 +155,11 @@ C) Autorización de rutas de transporte urbano colectivo;
 
 D) Diseño y proyección del trazo de rutas de transporte urbano colectivo que requiera la población; y
 
-IV. Las demás atribuciones en materia de transporte que les confiera esta Ley y otras disposiciones legales y reglamentarias.
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 1998)</small>
+
+IV. Conocer y resolver las solicitudes relativas al servicio particular de Transporte, y expedir los permisos correspondientes;
+
+V. Las demás atribuciones en materia de transporte que les confiera esta Ley y otras disposiciones legales y reglamentarias.
 
 ###### Artículo 9°.
 
@@ -163,7 +179,7 @@ VI. Autorizar prórrogas para la iniciación del servicio de transporte concesio
 
 VII. Proponer las medidas necesarias para armonizar los intereses de los concesionarios, tanto de los organizados o de quienes no lo estén, evitando la competencia desleal y procurando el beneficio a los usuarios y al interés colectivo;
 
-VIII. Conocer y resolver las solicitudes relativas al servicio particular de transporte, y expedir los permisos correspondientes;
+VIII. (DEROGADA, B.O. 31 DE JULIO DE 1998)
 
 IX. Elaborar los estudios técnicos y socioeconómicos para determinar las necesidades de transporte público en el Estado;
 
@@ -197,6 +213,28 @@ VI. Por un vocal representante de los usuarios.
 
 Por cada miembro propietario se nombrará un suplente, en los términos que establezca el Reglamento de la presente Ley.
 
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 1998)</small>
+
+Artículo 10 BIS. El Consejo Municipal de Transporte, tendrá las siguientes atribuciones:
+
+I. Dar su opinión sobre las necesidades de Transporte Público, y dictaminar la procedencia del otorgamiento del número de concesiones por el Ejecutivo Estatal de acuerdo a la necesidad pública del Transporte;
+
+II. Opinar, a petición de los Ayuntamientos, sobre el establecimiento y modificación de las tarifas del Servicio Público de Transporte, así como lo referente a horarios y rutas;
+
+III. Promover la interrelación de los Servicios Públicos de Transporte concesionados por la Federación y el Estado;
+
+IV. Sugerir modificaciones en los sistemas de operación de los Servicios Públicos de Transporte;
+
+V. Promover la creación de centrales y terminales de pasaje y carga en la Jurisdicción Municipal que corresponda;
+
+VI. Conocer y opinar sobre las revocaciones de concesiones y permisos eventuales de Transporte, asentando en actas de las sesiones del Consejo Municipal de Transporte el sentido de su opinión;
+
+VII. Recibir información sobre la relación de solicitantes de concesiones que se presenten de acuerdo a la Declaratoria de Necesidad Pública de Transporte;
+
+VIII. Colaborar con las autoridades Estatales y Municipales, en materia de Tránsito y Transporte; y
+
+IX. Las demás que le señale esta Ley u otros ordenamientos legales.
+
 ## TÍTULO SEGUNDO. DE LA EXPLOTACIÓN DE LAS VÍAS PÚBLICAS DE JURISDICCIÓN ESTATAL
 
 ### CAPITULO I. DE LAS MODALIDADES Y CLASIFICACIÓN DE LOS SERVICIOS
@@ -213,7 +251,9 @@ I. Pasaje:
 
 A) Urbano;
 
-B) Suburbno (sic);
+> <small>(F. DE E., B.O. 31 DE JULIO DE 1998)</small>
+
+B) Suburbano;
 
 C) Colectivo;
 
@@ -289,7 +329,13 @@ Para la explotación de cualquier modalidad de servicio público de transporte, 
 
 Toda concesión para la prestación del servicio público de transporte, en calles y caminos de jurisdicción estatal, debe emanar por resolución del Gobernador del Estado, previa tramitación de la solicitud, conforme al procedimiento establecido por esta Ley y su Reglamento.
 
-En el caso específico del servicio público de transporte de pasaje en la modalidad de automóvil de alquiler con chofer (taxi) y urbano con ruta fija en vehículos no mayores de 12 pasajeros (peseras); así como en el transporte de carga de materiales y de agua para uso industrial, en vehículos cuya capacidad exceda de los tres mil kilogramos o de tres mil litros, respectivamente, se tendrá derecho a ser titular de una concesión, en la inteligencia de que cada concesión amparará solo un vehículo, con la finalidad de no desvirtuar la naturaleza de estos servicios.
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 1998)</small>
+
+La vigencia de las concesiones será de veinticinco años, la cual podrá prorrogarse por una sola vez, por un término igual.
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
+
+En el caso específico del Servicio Público de Transporte de pasaje en la modalidad de automóvil de alquiler con chofer (Taxi) y urbano con ruta fija en vehículos conocidos como "peseras"; así como en el transporte de carga de materiales y de agua para uso industrial, en vehículos cuya capacidad exceda de los tres mil kilogramos o de tres mil litros, respectivamente, se tendrá derecho a ser titular de una concesión, en la inteligencia de que cada concesión amparará solo un vehículo, con la finalidad de no desvirtuar la naturaleza de estos servicios.
 
 ### CAPITULO III. DEL ORDEN PREFERENTE PARA EL OTORGAMIENTO DE CONCESIONES DEL SERVICIO PUBLICO DE TRANSPORTE
 
@@ -317,7 +363,9 @@ V. No haber sido condenado por sentencia ejecutoria por delito culposo o doloso,
 
 VI. No haber sido sancionado con la revocación de concesiones y permisos del servicio público de transporte, en los términos de esta Ley;
 
-VI (sic). Tener capacidad técnica y financiera para prestar el servicio público de transporte de que se trate.
+> <small>(F. DE E., B.O. 31 DE JULIO DE 1998)</small>
+
+VII. Tener capacidad técnica y financiera para prestar el servicio público de transporte de que se trate.
 
 ###### Artículo 21.
 
@@ -343,17 +391,23 @@ VII. Tener la capacidad técnica y financiera para prestar el servicio público 
 
 El procedimiento a seguir para obtener el otorgamiento de una concesión para la prestación del servicio público de transporte deberá ajustarse a los requisitos siguientes, sin que, bajo ninguna circunstancia, pueda alterarse el orden establecido al efecto, ni omitirse alguno de ellos:
 
-I. La Dirección de Transporte, deberá realizar los trabajos necesarios de monitoreo en forma permanente, para detectar las necesidades de transporte público que se vayan presentando en el Estado o bien podrá recibirlas por parte de los Consejos Municipales de Transporte, correspondientes.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 1998)</small>
+
+I. La Dirección de Transporte, deberá realizar los trabajos necesarios de monitoreo en forma permanente, para detectar las necesidades de Transporte Público que se vayan presentando en el Estado, debiendo también recibirlas por parte de los Consejos Municipales de Transporte, correspondientes.
 
 La Dirección de Transporte dará aviso al Consejo Municipal de Transporte de que se trate, y a los terceros interesados en el estudio donde se detecte la necesidad, a efecto de que estos hagan sus observaciones sobre la procedencia, en su caso, de la "Declaratoria de Necesidad Pública de Transporte", para lo que dispondrán de un plazo que no excederá de 20 días hábiles.
 
 En los términos de lo dispuesto en el párrafo anterior, se entenderá por "tercero interesado" al representante de los concesionarios de una modalidad de transporte público diversa a la que será materia de estudio, que pudiera resultar perjudicada con la Declaratoria de Necesidad Pública de Transporte.
 
-II. Con base en los estudios que lleve a cabo, y en su caso, satisfecho lo dispuesto en la fracción anterior, la Dirección de Transporte, previo acuerdo del Gobernador del Estado, hará la "Declaratoria de Necesidad Pública de Transporte", que será publicada en el Boletín Oficial del Gobierno del Estado y en algún periódico de amplia circulación en el Municipio donde se requiera el servicio, a fin de que éste sea satisfecho mediante el concesionamiento del servicio requerido;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 1998)</small>
+
+II. Con base en los estudios que lleve a cabo, en los cuales obligatoriamente se deberán valorar las observaciones que hubieren hecho llegar dentro del término señalado en la fracción anterior, el Consejo Municipal de Transporte y los terceros interesados, la Dirección de Transporte, previo acuerdo del Gobernador del Estado, hará la "Declaratoria de Necesidad Pública de Transporte", que será publicada en el Boletín Oficial del Gobierno del Estado y en algún Periódico de amplia circulación en el Municipio donde se requiera el servicio, a fin de que éste sea satisfecho mediante el concesionamiento del servicio requerido;
 
 III. Con posterioridad a la "Declaratoria de Necesidad Pública de Transporte", se hará la publicación de la convocatoria, precisando la modalidad del servicio, clase y número de concesiones a otorgar, a fin de que los interesados en concursar, dentro del término previsto en la propia convocatoria, presenten sus respectivas propuestas así como la documentación que para el caso se requiera de conformidad a la presente Ley;
 
-IV. Recibidas las solicitudes, la Dirección del Transporte procederá a realizar su estudio, tomando en cuenta lo dispuesto por los Artículos 20, 21 y 23 de esta Ley, y en un plazo que no excederá de 30 días hábiles presentará al Gobernador del Estado su dictamen sobre las mismas; y
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 1998)</small>
+
+IV. Recibidas las solicitudes, la Dirección de Transporte informará sobre la relación de los solicitantes al Consejo Municipal de Transporte y procederá a realizar su estudio, tomando en cuenta lo dispuesto por los Artículos 19, 20, 21 y 23 de esta Ley, y en un plazo que no excederá de 30 días hábiles presentará al Gobernador del Estado su dictamen sobre las mismas; y
 
 V. Cumplido lo anterior, el Gobernador del Estado emitirá la resolución sobre el otorgamiento de la concesión en un plazo que no excederá de 30 días hábiles.
 
@@ -529,9 +583,11 @@ Las Leyes de Ingresos y de Hacienda del Estado, determinarán la cuantía y cara
 
 ### CAPITULO IX. DE LA EXTINCIÓN DE LAS CONCESIONES DE SERVICIO PÚBLICO DE TRANSPORTE
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
+
 ###### Artículo 39.
 
-Son causas de extinción de las concesiones del servicio público de transporte que otorgue el Gobernador del Estado, la revocación, la caducidad y el cumplimiento del plazo de vigencia de las mismas.
+Son causas de extinción de las concesiones del Servicio Público de Transporte que otorgue el Gobernador del Estado, la revocación, la caducidad, la voluntad del concesionario y el cumplimiento del plazo de vigencia de las mismas.
 
 ###### Artículo 40.
 
@@ -555,7 +611,9 @@ VII. Por el abandono reiterado e injustificado de rutas o del ámbito territoria
 
 VIII. Por ser el servicio notoriamente deficiente o que las unidades carezcan de los requisitos mínimos de seguridad, comodidad, higiene o no esté en condiciones mecánicas adecuadas para la prestación del servicio;
 
-IX. Por no estar vigente la póliza del seguro de viajero y de daños contra terceros;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 1998)</small>
+
+IX. Por no estar vigente la póliza del seguro de viajero;
 
 X. En su caso, por no establecer centrales o terminales o no hacer uso de las autorizadas por el Gobernador del Estado;
 
@@ -575,7 +633,9 @@ Cuando el concesionario no esté en posibilidad de iniciar la prestación del se
 
 El procedimiento de extinción de la concesión, se iniciará de oficio o a petición de parte interesada, con las constancias o escritos que demuestren la o las causas a que se refiere el presente Capítulo y culminará con la resolución que emita el Gobernador del Estado.
 
-La Dirección de Transporte iniciará el procedimiento de revocación de la concesión, otorgando al concesionario un plazo de quince días hábiles para que manifieste lo que a su derecho convenga y aporte las pruebas que estime convenientes para su defensa; transcurrido el término señalado y analizados los argumentos y constancias presentadas por el interesado, la Dirección de Transporte emitirá una opinión que servirá de base para la resolución que emita el Gobernador del Estado.
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
+
+La Dirección de Transporte iniciará el procedimiento de revocación de la concesión, otorgando al concesionario un plazo de quince días hábiles para que manifieste lo que a su derecho convenga y aporte las pruebas que estime convenientes para su defensa; y comunicando lo anterior al Consejo Municipal de Transporte de la modalidad a que se refiera la concesión para que exprese su opinión. Transcurrido el término señalado y analizados los argumentos y constancias presentadas por el interesado, la Dirección de Transporte emitirá la opinión que servirá de base para la resolución que emita el Gobernador del Estado.
 
 ###### Artículo 43.
 
@@ -699,9 +759,11 @@ El usuario que no pueda presentar el recibo que le hubiere sido expedido al entr
 
 Para los efectos de esta Ley, se entiende por tarifa la retribución económica que el usuario de un servicio público de transporte paga al transportista, como contraprestación por el servicio recibido.
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
+
 ###### Artículo 54.
 
-La facultad para fijar las tarifas en los diferentes servicios de transporte público de carga y pasaje, corresponde a los Ayuntamientos del Estado, en el ámbito de su jurisdicción, de conformidad a los estudios y análisis técnicos que al efecto se realicen. Para ello, los Ayuntamientos podrán solicitar la opinión de la Dirección de Transporte.
+La facultad para fijar las tarifas en los diferentes Servicios de Transporte Público de carga y pasaje, corresponde a los Ayuntamientos del Estado, en el ámbito de su jurisdicción, de conformidad a los estudios y análisis técnicos que al efecto se realicen. Para ello, los Ayuntamientos podrán solicitar la opinión de la Dirección de Transporte y del Consejo Municipal de Transporte.
 
 ###### Artículo 55.
 
@@ -950,3 +1012,11 @@ LIC. GUILLERMO MERCADO ROMERO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAÚL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE JULIO DE 1998.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las presentes reformas y adiciones deberán reflejarse en modificaciones al reglamento de la Ley de Transporte para el Estado de Baja California Sur, a efecto de ser consecuente con los cambios aprobados por esta soberanía popular.
