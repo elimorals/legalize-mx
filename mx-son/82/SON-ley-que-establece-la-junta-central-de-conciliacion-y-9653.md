@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-la-junta-central-de-conciliacion-y-9653"
 country: "mx"
 rank: "ley"
 publication_date: "1918-10-10"
-last_updated: "1927-11-16"
+last_updated: "1931-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE ESTABLECE LA JUNTA CENTRAL DE CONCILIACION Y ARBITRAJE Y LAS JUNTAS MUNICIPALES DE CONCILIACION
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE NOVIEMBRE DE 1927.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO DECIMO CUARTO DE LA LEY FEDERAL DEL TRABAJO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 28 DE AGOSTO DE 1931.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 10 de octubre de 1918.
 
@@ -396,3 +398,13 @@ B.O. 16 DE NOVIEMBRE DE 1927.
 Primero.- Se deroga el artículo 10 de la Ley número 11 de 6 de noviembre de 1925.
 
 Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+D.O.F. 28 DE AGOSTO DE 1931.
+
+UNICAMENTE SE TRANSCRIBEN LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor desde la fecha de su promulgación.
+
+ARTICULO DECIMOCUARTO.- Se derogan todas las leyes y decretos expedidos con anterioridad por las legislaturas de los Estados en materia de trabajo y los expedidos por el Congreso de la Unión en cuanto se opongan a la presente ley.
