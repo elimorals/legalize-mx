@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1998-11-13"
+last_updated: "2000-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1094,6 +1094,14 @@ Para la regulación de la educación dentro de la esfera de competencia del Esta
 ###### Art. 91.
 
 Toda la educación que imparta el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella, incluyendo la educación preescolar, primaria, secundaria, media superior o bachillerato, normal, especial, la destinada a obreros o campesinos o la de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población del Estado y las características particulares de los grupos que la integran. La educación primaria y la secundaria serán además obligatorias.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
+
+En los contenidos de los planes y programas de estudio de los niveles de educación a que se refiere este artículo, se incluirán temas regionales relacionados con los derechos humanos, seguridad pública y la preservación del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
+
+Para apoyar la disciplina del estudio y los hábitos de lectura en los educandos, el Estado conforme a su disponibilidad presupuestal promoverá la creación de bibliotecas en los centros docentes de todos los niveles escolares.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -2676,6 +2684,12 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 13 DE NOVIEMBRE DE 1998.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE AGOSTO DEL 2000.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
