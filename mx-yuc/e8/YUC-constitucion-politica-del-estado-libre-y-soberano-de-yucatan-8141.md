@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1984-05-11"
+last_updated: "1987-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 1984.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE SEPTIEMBRE DE 1987.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -225,7 +225,9 @@ Para su régimen político-administrativo, judicial, fiscal y electoral, el Terr
 
 El Poder Público del Estado de Yucatán se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos diputados que los señalados en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
+
+No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un Congreso formado por menos Diputados que los señalados en el Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -725,7 +727,9 @@ VI.- no estar en servicio activo, en caso de pertenecer al Ejército o Guardia N
 
 VII.- no ser funcionario de los que menciona la Ley Orgánica del Poder Ejecutivo del Estado a menos que se separe de su puesto noventa días antes de la elección.
 
-VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 48.
+> <small>(REFORMADA, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
+
+VIII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53; y
 
 > <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
@@ -737,11 +741,11 @@ IX.- no tener antecedentes penales.
 
 Para ser Gobernador Interino del Estado se requieren los mismos requisitos que para ser Gobernador Constitucional.
 
-> <small>(REFORMADO, D.O. 6 DE OCTUBRE DE 1943)</small>
+> <small>(REFORMADO, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 48.
 
-El Gobernador Constitucional del Estado, entrará en funciones el día primero de febrero y durará en su encargo seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, electo popularmente, o con el carácter de interino, provisional o substituto, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
+El Gobernador Constitucional del Estado, entrará en funciones el día primero de febrero y durará en su encargo seis años.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -775,11 +779,19 @@ Cuando la falta sea temporal y no exceda de sesenta días se encargarán del des
 
 Si la falta del Gobernador fuere absoluta y faltaren tres años o más para terminar el período constitucional, el Congreso convocará inmediatamente para la elección del Gobernador, la que se verificará dentro de dos meses y el nuevamente electo, ejercerá sus funciones hasta terminar el período constitucional. Si faltaren menos de tres años, el nombrado con el carácter de interino continuará hasta concluir el sexenio.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O. 22 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 53.
 
-Nunca podrá ser electo para el periodo inmediato siguiente el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, si ha desempeñado el cargo en los últimos seis meses del periodo.
+El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
+
+> <small>(F. DE E., D.O. 25 DE SEPTIEMBRE DE 1987)</small>
+
+Nunca podrá ser electo para el período inmediato:
+
+A) El Gobernador sustituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
+
+B) El Gobernador Interino, el provisional o el Ciudadano que bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período.
 
 > <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
 
@@ -1692,3 +1704,7 @@ UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 11 DE MAYO DE 1984.
 
 UNICO.- Este decreto entrará en vigor, el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 22 DE SEPTIEMBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
