@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1986-12-31"
+last_updated: "1988-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE OCTUBRE DE 1988.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1127,9 +1127,11 @@ II. Impedir por ningún motivo ni directa ni indirectamente, el libre ejercicio 
 
 III. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de las personas de los reos, mientras estén a disposición de sus jueces respectivos;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 1988)</small>
 
-IV. Ausentarse del Territorio del Estado, por más de 15 días, sin la previa licencia de la Legislatura, o en su caso, de la Diputación Permanente.
+IV.- Ausentarse del Territorio del Estado por más de 15 días, sin la previa licencia de la Legislatura o en su caso, de la Diputación Permanente; y
+
+Salir al Extranjero a tratar asuntos de interés público sin la autorización de la Legislatura, o en su caso, de la Diputación Permanente. En la solicitud expondrá los motivos de su salida.
 
 V. Salir de la Capital sin permiso de la Legislatura, o en su receso, de la Diputación Permanente, por un período de tiempo que exceda de un mes;
 
@@ -2624,3 +2626,9 @@ P.O. 31 DE DICIEMBRE DE 1986
 ###### ARTICULO UNICO.
 
 Publíquese el presente Decreto en la "Gaceta del Gobierno" del Estado, el cual entrará en vigor el día 1°. de Enero de 1987.
+
+P.O. 20 DE OCTUBRE DE 1988
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
