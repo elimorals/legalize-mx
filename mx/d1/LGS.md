@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "1987-05-27"
+last_updated: "1987-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -37,8 +37,6 @@ DECRETO:
 "El Congreso de los Estados Unidos Mexicanos, decreta
 
 LEY GENERAL DE SALUD
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO CUARTO DEL DECRETO DE REFORMAS DE FECHA 28 DE ABRIL DE 1987 Y PUBLICADO EN EL D.O.F. EL 27 DE MAYO DE 1987, SE ESTABLECE LA SUSTITUCION DE LA DEPENDENCIA "SECRETARIA DE SALUBRIDAD Y ASISTENCIA" POR LA DE "SECRETARIA DE SALUD" ASI COMO DEL TITULAR DE LA MISMA "SECRETARIO DE SALUBRIDAD Y ASISTENCIA" POR LA DE "SECRETARIO DE SALUD", ADECUACION QUE SE HACE EN LA PRESENTE LEY.</small>
 
 ## TITULO PRIMERO. Disposiciones Generales
 
@@ -1276,6 +1274,8 @@ Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos,
 
 ### CAPITULO V. Estupefacientes
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 128.
 
 El trabajo o las actividades sean comerciales, industriales, profesionales o de otra índole, se ajustarán, por lo que a la protección de la salud se refiere, a las normas que al efecto dicten las autoridades sanitarias, de conformidad con esta Ley y demás disposiciones legales sobre salud ocupacional.
@@ -1316,7 +1316,7 @@ Para los efectos de esta ley se consideran bajo la denominación de establecimie
 
 ### CAPITULO VI. Substancias psicotrópicas
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 133.
 
@@ -2200,297 +2200,11 @@ Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad v
 
 Para los efectos de esta Ley, se consideran estupefacientes:
 
-Acetildihidrocodeína.
-
-Acetilmetadol (3acetoxi-6- dimetilamino-4,4-difenil-heptanol).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Acetorfina (O3-acetil-7,8-dihidro-7a 1 (R)-hodroxi-1-metilbutil)-O6-metil-6, 14, endoetenomorfina, denominada también (3-0-acetiltetrahidro 7A-(1-hidroxi-1-metilbutil)-6, 14-endoeteno-oripavina).
-
-Alfacetilmetadol.
-
-Alfameprodina (alfa-3-etil-1-metil-4-fenil-4-propionoxipiperidina).
-
-Alfametadol (alfa-6-dimetilamino-4, 4-difenil-3-heptanol).
-
-Alfaprodina (alfa-1,3-dimetil-4-fenil-4-propionoxipiperidina).
-
-Alilprodina ( 3-alil-1-metil-4-fenil-4-propionoxipiperidina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Anileridina (éter etílico del ácido 1-para-aminofenetil-4-fenilpiperidín-4- carboxílico).
-
-Becitramida (1-(3-ciano-3,3-difenilpropil)-4 (2-oxo-3-propionil-1-bencimidazolinil)-piperidina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Bencetidina (éter etílico del ácido 1-(2-benciloxietil)-4-fenilpiperidín-4-carboxílico).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Bencilmorfina 3-(bencilmorfina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Bencilmetadol (beta-3-acetoxi-6-dimetilamino-4, 4-difenilheptano).
-
-Betameprodina (beta-3-etil-1-metil-4-fenil-4propionoxipiperidina).
-
-Betametadol (beta-6-dimetilamino-4. 4-difenil-3-heptanol).
-
-Betaprodina (beta-1,3-dimetil-4-fenil-4-propionoxipiperidina).
-
-Buprenorfina.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Butirato de dioxafetilo (etil-4-morfolín-2,2-difenilbutirato)
-
-Cannabis sativa, índica y americana o mariguana, su resina, preparados y semillas.
-
-Cetobemidona (4-meta-hidroxifenil-1-metil-4-propionilpiperidina ó 4-(3-hidroxifenil) -1-metil-4-piperidil-etilo-cetona ó 1-metil-4-metahidroxifenil-4-propionilpiperidina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Clonitraceno (2-para-clorobencil-1-dietilaminoetil-5-nitrobencimidazol).
-
-Coca (hojas de)
-
-Cocaína (éster metílico de benzoilecgonina).
-
-Codeína y sus sales.
-
-Codoxina (dihidrocodeinona-6-carboximetiloxima).
-
-Concentrado de paja de adormidera (el material que se obtiene cuando la paja de adormidera ha entrado en un proceso para la concentración de sus alcaloides, en el momento en que pasa al comercio).
-
-Desomorfina (dihidrodeoximorfina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Dextromoramida ( (+)-4-( 2-metil-4-oxo-3,3-difenil-4-(1-pirrolidinil)-butil) morfolina ó (+)-3-metil-2-2, difenil-4-morfolinobutirilpirrolidina ).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Dextropropoxifeno y sus sales.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Dietiltiambuteno (3-dietilamino-1, 1-di-(2'-tienil)-1-buteno.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Difenoxilato (éster etílico del ácido 1-(3-ciano-3,3-difenilpropil)-4-(fenilpiperidina-4-carboxílico ó 2, 2-difenil-4(4-carbetoxi-4-fenil) piperidín butironitril).
-
-Difenoxina.
-
-Dihidrocodeína.
-
-Dihidromorfina.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Dimefeptanol (6-dimetilamino-4, 4-difenil-3-heptanol).
-
-Dimenoxadol (2-dimetilaminoetil-1-etoxi-1, 1-difenilacetato de dimetilaminoetilo o dimetilaminoetil difenil-alfa-etoxiacetato.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Dimetiltiambuteno (3-dimetilamino-1,1-di (2'-tienil)-1-buteno).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Dipapanona (4, 4-defenil-6-piperidín-3-heptanona).
-
-Drotebanol.
-
-Ecgonina, sus ésteres y derivados que sean convertibles en ecgonina y cocaína.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Etilmetiltiambuteno (3-etilmetilamino-1,1-di-(2'tienil) -1-buteno).
-
-Etilmorfina (3-etilmorfina o dionina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Etonitraceno (1-dietilaminoetil-2-para-etoxibencil-5-nitrobencimidazol).
-
-Etorfina (7, 8-dihidro-7A 1 (R)-Hidroxi-1-metilbutil O6 - metil-6, 14-endoetenomorfina, denominada también tetrahidro-7A ( 1-hidroxi-1-metilbutil)-6, 14-endoeteno-oripavinay1, 2, 3, 3A, 8, 9 hexahidro-5-hidroxi-2A- (1 (R)-hidroxi-1-metilbutil) -3-metoxi-12-metil-3, 9A-eteno-9, 9B- iminoetanofenantro (4,5 bcd) furano).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Etoxeridina (éster etílico del ácido 1-(2-(2-hidroxietoxi)-etil)-4- fenilpiperidín-4-carboxílico).
-
-Fenadoxona (6-morfolino-4, 4-difenil-3-heptanona).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Fenampromida (N-(1metil-2-piperidinoetil)-propionanilida) ó N-(2-(-metilpiperidín-2-etil)propionanilida).
-
-Fenazocina (2-hidroxi-5,9-dimetil-2-fenetil-2, penciclidina
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Fenmetrazina (3-metil-2-fenilmorfina 7-benzomorfán ó 1, 2, 3, 4, 5, 6-hexahidro-8-hidroxi 6, 11-dimetil-3-fenetil-2,6-metano-3-benzazocina).
-
-Fenomorfán ( 3-hidroxi-N-fenetilmorfinán)
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Fenoperidina (éster etílico del ácido 1-(3-hidroxi-3-fenilpropil) 4-fenilpiperidina-4-carboxílico ó 1-fenil-3- (4-carbetoxi-4-fenil piperidín)-propanol).
-
-Fentanil ( 1-fenetil-4-N-propionilanilinpiperidina).
-
-Folcodina (morfoliniletilmorfina o beta-4-morfolinieletilmorfina).
-
-Furetidina (éster etílico del ácido 1- (2-tetrahidrofurfuriloxietil)-4- fenilpiperidín-4-carboxílico).
-
-Heroína (diacetilmorfina).
-
-Hidrocodona (dihidrocodeinona).
-
-Hidromorfinol (14-hidroxidihidromorfina).
-
-Hidromorfona (dihidromorfinona).
-
-Hidroxipetidina (éster etíeico del ácido 4-meta-hidroxifenil-1-metilpiperidin-4-carboxílico o éster etílico del ácido 1-metil-4-(3-hidroxifenil)-piperidín-4-carboxílico).
-
-Isometadona (6-dimetilamino-5-metil-4, 4-difenil-hexanona).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Levofenacilmorfán ( (-)-3-hidroxi-N-fenacilmorfinán).
-
-Levometorfán ( (-)-3, metoxi-N-metilmorfinán).
-
-Levomoramida ( (-)-4(2 metil-4-oxo 3,3-difenil-4- (1-pirrolidinil) butil) morfolina ó (-)-3-metil-2, 2-difenil-4-morfolinobutirilpirrolidina).
-
-Levorfanol ( (-)-3-hidroxi-N-metilmorfinán).
-
-Metadona (6-dimetilamino-4, 4-difenil-3 heptanona).
-
-Metadona, intermediario de la (4-ciano-2-dimetilamino-4,4-difenilbutano ó 2-dimetilamino-4-4- difenil-4-cianobutano).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Metazocina (2'-hidroxi-2, 5, 9-trimetil-6, 7-benzomorfán ó 1, 2, 3, 4, 5, 6,- hexahidro-8-hidroxi-3, 6, 11, trimetil-2, 6-metano-3-benzazocina).
-
-Metildesorfina (6-metil-delta 6- deoximorfina).
-
-Metildihidromorfina (6-metildihidromorfina).
-
-Metilfenidato (éster metílico del ácido alfafenil-2-piperidín acético).
-
-Metopon (5-metildihidromorfinona).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Mirofina (miristilbencilmorfina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Moramida, intermediario de la (ácido-2-metil-3-morfolín 1, 1-difenilpropano carboxílico ó ácido 1-difenil-2-metil-3-morfolino propano carboxílico).
-
-Morferidina (éster etílico del ácido 1-2-morfolinoetil).4- fenilpiperidina-4- carboxílico).
-
-Morfina.
-
-Morfina metobromuro y otros derivados de la morfina con nitrógeno pentavalente, incluyendo en particular los derivados de Morfina-N-Oxido, uno de los cuales es la Codeina-N-Oxido-Morfina-N-Oxido.
-
-Nicocodina (6-nicotinilcodeina o éster 6-codeínico del ácido-piridín-3-carboxílico).
-
-Nicodicodina (6-nicotinildihidrocodeina ó éster nicotinico de dihidrocodeina).
-
-Nicomorfina (3, 6-dinicotinilmorfina o diéster-nicotinico de morfina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Noracimetadol ( (+) alfa-3-acetoxi-6-metilamino 4,4-difenilheptano).
-
-Norcodeina (N-demetilcodeina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Norlevorfanol ( ( - )-3-hidroximorfinán).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Normetadona (6-dimetilamino-4,4-difenil-3-hexanona ó 1,1-difenil-1-dimetilaminoetil-butanona-2 ó 1-dimetilamino 3, 3-difenil-hexanona-4).
-
-Normorfina (demetilmorfina o morfina-N-demetilada).
-
-Norpipanona (4, 4-difenil-6-piperidina-3-hexanona) Opio.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Ixicodona (14-hidroxidihidrocodeinona o dihidrohidroxicodeinona).
-
-Oximorfona (14-hidroxidihidromorfinona o dimidro-hidroximorfinona).
-
-Paja de adormidera, Papaver Somniferum, Papaver Bracteatum, sus pajas y sus semillas.
-
-Pentazocina y sus sales.
-
-Petidina (éster etílico del ácido 1-metil-4-fenil-piperidina-4-carboxílico).
-
-Petidina, intermediario A de la (4-ciano-1-metil-4-fenilpipenidina o 1-metil-4-fenil-4-cianopiperidina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Petidina, intermediario B de la (éster etílico del ácido-4-fenilpiperidín-4-carboxílico ó etil 4 fenil4-piperidín carboxilato).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Petidina, intermediario C de la (1-metil-4-fenilpiperidina-4-carboxílico (ácido).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Piminodina (éster etílico del ácido 4-fenil-1-(3-fenilaminopropil) piperidina-4-carboxílico).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Piritramida (1-(3-ciano-3,3-difenilpropil-4-(1-piperidín) piperidín-4-amida del ácido carboxílico ó 2,2 difenil-4-1-(-carbamoil-4-piperidín) butironitrilo).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Proheptazina (1,3-dimetil-4-fenil-4-propiomoxia zacicloheptano o 1,3-dimetil-4-fenil-4-propionoxihexaetilenimina).
-
-Properidina (éster isopropílico del ácido 1-metil-4-fenilpiperidina-4-carboxílico).
-
-Propiramo (1-metil-2-piperidino-etil -N-2-piperidil-propionamida).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Racemetorfán ( (±) -3-metoxi-N-metilmorfinán).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Racemoramida ( (±)-4 (2-metil-4-oxo-3, 3-difenil-4(1-pirrolidinil)-butil)-morfolina ó (±)-3-metil-2, 2 difenil-4-morfolinobutirilpirrolidina).
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Racemorfán ( (±)-3 hidroxi-N-metilmorfinán).
-
-Sufentanil.
-
-Tebacón (acetildihidrocodeinona o acetildemetilodihidrotebaína).
-
-Tebaína.
-
-Tilidina.
-
-> <small>(F. DE E., D.O.F. 23 DE JULIO DE 1986)</small>
-
-Trimeperidina ( 1, 2, 5 trimetil-4-fenil-4-propionoxipiperidina); y
+(VEASE ARCHIVO ANEXO)
 
 Los isómeros de los estupefacientes de la lista anterior, a menos que estén expresamente exceptuados.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-Cualquier otro producto, derivado o preparado que contenga substancias señaladas en la lista anterior, sus precursores químicos y, en general, los de naturaleza análoga y cualquier otra substancia que determine la Secretaría de Salud o el Consejo de Salubridad General.
+Cualquier otro producto derivado o preparado que contenga substancias señaladas en la lista anterior, sus precursores químicos y, en general, los de naturaleza análoga y cualquier otra substancia que determine la Secretaría de Salud o el Consejo de Salubridad General. Las listas correspondientes se publicarán en el Diario Oficial de la Federación.
 
 ###### ARTICULO 235.
 
@@ -2590,27 +2304,291 @@ Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno,
 
 ###### ARTICULO 244.
 
-Para los efectos de esta Ley, se consideran substancias psicotrópicas aquellas que determine específicamente el Consejo de Salubridad General o la Secretaría de Salud y, en general, los barbitúricos y otras substancias naturales o sintéticas depresoras o estimulantes del sistema nervioso central que por su acción farmacológica puedan inducir a la farmacodependencia.
+Para los efectos de esta Ley, se consideran substancias psicotrópicas las señaladas en el artículo 245 de este ordenamiento y aquellas que determine específicamente el Consejo de Salubridad General o la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 245.
 
 En relación con las medidas de control y vigilancia que deberán adoptar las autoridades sanitarias, las substancias psicotrópicas se clasifican en cinco grupos:
 
-I.- Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública;
+I.- Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública, y son:
 
-II.- Las que tienen algún valor terapéutico pero constituyen un problema grave para la salud pública;
+(VEASE ARCHIVO ANEXO)
 
-III.- Las que tienen valor terapéutico, pero constituyen un problema para la salud pública;
+Cualquier otro producto, derivado o preparado que contenga las sustancias señaladas en la relación anterior y cuando expresamente lo determine la Secretaría de Salud o el Consejo de Salubridad General, sus precursores químicos y en general los de naturaleza análoga.
 
-IV.- Las que tienen amplios usos terapéuticos y constituyen un problema menor para la salud pública, y
+II.- Las que tienen algún valor terapéutico, pero constituyen un problema grave para la salud pública, y que son:
 
-V.- Las que carecen de valor terapéutico y se utilizan corrientemente en la industria.
+AMOBARBITAL
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+ANFETAMINA
+
+CICLOBARBITAL
+
+DEXTROANFETAMINA (DEXANFETAMINA)
+
+FENETILINA
+
+FENCICLIDINA
+
+HEPTABARBITAL
+
+MECLOCUALONA
+
+METACUALONA
+
+METANFETAMINA
+
+NALBUFINA
+
+PENTOBARBITAL
+
+SECOBARBITAL.
+
+III.- Las que tienen valor terapéutico, pero constituyen un problema para la salud pública, y que son:
+
+BENZODIAZEPINAS:
+
+ALPRAZOLAM
+
+BROMAZEPAM
+
+BROTIZOLAM
+
+CAMAZEPAM
+
+CLOBAZAN
+
+CLONAZEPAM
+
+CLORACEPATO DIPOTASICO
+
+CLORDIAZEPOXIDO
+
+CLOTIAZEPAM
+
+CLOXAZOLAM
+
+DELORAZEPAM
+
+DIAZEPAM
+
+ESTAZOLAM
+
+FLUDIAZEPAM
+
+FLUNITRAZEPAM
+
+FLURAZEPAM
+
+HALAZEPAM
+
+HALOXAZOLAM
+
+KETAZOLAM
+
+LOFLACEPATO DE ETILO
+
+LOPRAZOLAM
+
+LORAZEPAM
+
+LORMETAZEPAM
+
+MEDAZEPAM
+
+NIMETAZEPAM
+
+> <small>(F. DE E., D.O.F. 18 DE FEBRERO DE 1988)</small>
+
+NITRAZEPAM
+
+NORDAZEPAM
+
+OXAZEPAM
+
+OXAZOLAM
+
+PINAZEPAM
+
+PRAZEPAM
+
+QUAZEPAM
+
+TEMAZEPAM
+
+TETRAZEPAM
+
+TRIAZOLAM
+
+Otros:
+
+ANFEPRAMONA (DIETILPROPION)
+
+> <small>(F. DE E., D.O.F. 18 DE FEBRERO DE 1988)</small>
+
+CARISOPRODOL
+
+CLOBENZOREX (CLOROFENTERMINA)
+
+ETCLORVINOL
+
+FENDIMETRAZINA
+
+FENPROPOREX
+
+FENTERMINA
+
+GLUTETIMIDA
+
+HIDRATO DE CLORAL
+
+KETAMINA
+
+MEFENOREX
+
+MEPROBAMATO
+
+TRIHEXIFENIDILO.
+
+IV.- Las que tienen amplios usos terapéuticos y constituyen un problema menor para la salud pública, y son:
+
+GABOB (ACIDO GAMMA AMINO BETA HIDROXIBUTIRICO)
+
+ALOBARBITAL
+
+AMITRIPTILINA
+
+APROBARBITAL
+
+BARBITAL
+
+BENZOFETAMINA
+
+BENZQUINAMINA
+
+BUSPIRONA
+
+BUTABARBITAL
+
+BUTALBITAL
+
+BUTAPERAZINA
+
+BUTETAL
+
+BUTRIPTILINA
+
+CAFEINA
+
+CARBAMAZEPINA
+
+CARBIDOPA
+
+CARBROMAL
+
+CLORIMIPRAMINA CLORHIDRATO
+
+CLOROMEZANONA
+
+CLOROPROMAZINA
+
+CLORPROTIXENO
+
+DEANOL
+
+DESIPRAMINA
+
+ECTILUREA
+
+ETINAMATO
+
+FENELCINA
+
+FENFLURAMINA
+
+FENOBARBITAL
+
+FLUFENAZINA
+
+HALOPERIDOL
+
+HEXOBARBITAL
+
+HIDROXICINA
+
+IMIPRAMINA
+
+ISOCARBOXAZIDA
+
+LEFETAMINA
+
+LEVODOPA
+
+LITIO-CARBONATO
+
+MAPROTILINA
+
+MAZINDOL
+
+MEPAZINA
+
+METILFENOBARBITAL
+
+METILPARAFINOL
+
+METIPRILONA
+
+NALOXONA
+
+NOR-PSEUDOEFEDRINA (+) CATINA
+
+NORTRIPTILINA
+
+PARALDEHIDO
+
+PENFLURIDOL
+
+PENTOTAL SODICO
+
+PERFENAZINA
+
+PIPRADROL
+
+PROMAZINA
+
+PROPILHEXEDRINA
+
+SULPIRIDE
+
+TETRABENAZINA
+
+TIALBARBITAL
+
+TIOPROPERAZINA
+
+TIORIDAZINA
+
+TRAMADOL
+
+> <small>(F. DE E., D.O.F. 18 DE FEBRERO DE 1988)</small>
+
+TRAZODONE
+
+TRIFLUOPERAZINA
+
+VALPROICO (ACIDO)
+
+VINILBITAL.
+
+V.- Las que carecen de valor terapéutico y se utilizan corrientemente en la industria, mismas que se determinarán en las disposiciones reglamentarias correspondientes.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 246.
 
-La Secretaría de Salud determinará las substancias que integran cada uno de los grupos a que se refiere el artículo anterior, y los catálogos correspondientes se publicarán en el Diario Oficial de la Federación.
+La Secretaría de Salud determinará cualquier otra substancia no incluida en el artículo anterior y que deba ser considerada como psicotrópica para los efectos de esta Ley, así como los productos, derivados o preparados que la contengan. Las listas correspondientes se publicarán en el Diario Oficial de la Federación, precisando el grupo a que corresponde cada una de las substancias.
 
 ###### ARTICULO 247.
 
@@ -2638,73 +2616,35 @@ VI.- Las disposiciones relacionadas que emitan otras dependencias del ejecutivo 
 
 Los actos a que se refiere este artículo SÓLO PODRÁN REALIZARSE CON FINES MÉDICOS Y CIENTÍFICOS Y requerirán, al igual que las substancias respectivas, autorización de la Secretaría de Salud.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 248.
 
-Queda prohibido todo acto de los mencionados en el artículo 247 de esta Ley, con relación a las siguientes substancias:
+Queda prohibido todo acto de los mencionados en el artículo 247 de esta Ley, con relación a las substancias incluidas en la fracción I del artículo 245.
 
-Dietilamida del ácido lisérgico L.S.D.
-
-N.N. Dietiltriptamina DET
-
-N.N. Dimetiltriptamina DMT
-
-1 Hidroxi 3 (1, 2 dimetiheptil 7, 8, 9, 10)
-
-Tetrahidro, 6, 6, 9,-trimetil 6H dibenzo
-
-(B, D) pirano DMHP
-
-Hongos alucinantes de cualquier variedad
-
-botánica, en especial las especias psilocybe
-
-Mexicana, Stophana aubensis y Conocybe y
-
-sus principios activos.
-
-2 Amino-1-(2, 5 dimetoxi-4-metil) DOM-STP
-
-Fenilpropano
-
-Parahexilo
-
-N-etil-1-fenileiclotíexilamina PCE
-
-1- (1 fenilciclohesil) pirrolidina PHP o PCPY
-
-1- (1,2-tienil ciclohexil) piperidina TCP
-
-Peyote (clophophora Williamsii); anahalonium
-
-Williamsii; Anhalonium lewinii y su principio activo
-
-, la mescalina (3, 4, 5,-trimetoxifemetilamina).
-
-Tetrahidrocanabilones.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
-Cualquier otro producto, derivado o preparado que contenga las substancias señaladas en la relación anterior y, cuando expresamente lo determine la Secretaría de Salud o el Consejo de Salubridad General, sus precursores químicos en general los de naturaleza análoga.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 249.
 
-Solamente para fines de investigación científica, la Secretaría de Salud podrá autorizar la adquisición de las substancias psicotrópicas a que se refiere el artículo anterior, para ser entregadas bajo control a organismos o instituciones que hayan presentado protocolo de investigación autorizado por aquella dependencia, los que a su vez comunicarán a la citada Secretaría el resultado de las investigaciones efectuadas y cómo se utilizaron.
+Solamente para fines de investigación científica, la Secretaría de Salud podrá autorizar la adquisición de las substancias psicotrópicas a que se refiere la fracción I del artículo 245 de esta Ley, para ser entregadas bajo control a organismos o instituciones que hayan presentado protocolo de investigación autorizado por aquella Dependencia, los que a su vez comunicarán a la citada Secretaría el resultado de las investigaciones efectuadas y cómo se utilizaron.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 250.
 
-Las substancias psicotrópicas correspondientes a la fracción Il del artículo 245 de esta Ley, y que se prevean en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246, quedarán sujetas, en lo conducente, a las disposiciones del Capítulo V de este Título.
+Las substancias psicotrópicas incluidas en la fracción II del artículo 245 de esta Ley, así como las que se prevean en las disposiciones aplicables o en las listas a que se refiere el artículo 246, cuando se trate del grupo a que se refiere la misma fracción, quedarán sujetas en lo conducente, a las disposiciones del Capítulo V de este Título.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 251.
 
-Las substancias psicotrópicas correspondientes a la fracción III del artículo 245 de esta Ley, y que se prevean en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246, requerirán, para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que deberá surtirse por una sola vez y retenerse en la farmacia que la surta, de acuerdo a las disposiciones de la Secretaría de Salud.
+Las substancias psicotrópicas incluidas en la fracción III del artículo 245 de esta Ley, así como las que se prevean en las disposiciones aplicables o en las listas a que se refiere el artículo 246, cuando se trate del grupo a que se refiere la misma fracción, requerirán para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que deberá surtirse por una sola vez y retenerse en la farmacia que la surta, de acuerdo a las disposiciones de la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 252.
 
-Las substancias psicotrópicas correspondientes a la fracción IV del artículo 245 de esta Ley, que se prevean en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246, requerirán para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que podrá surtir hasta por tres veces, con una vigencia de 6 meses a partir de la fecha de su expedición, y no requerirá ser retenida en la farmacia que la surta.
+Las substancias psicotrópicas incluidas en la fracción IV del artículo 245 de esta Ley, así como las que se prevean en las disposiciones aplicables o en las listas a que se refiere el artículo 246, cuando se trate del grupo a que se refiere la misma fracción, requerirán, para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que podrá surtirse hasta por tres veces, con una vigencia de seis meses, contados a partir de la fecha de su expedición y no requerirá ser retenida en la farmacia que la surta.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2728,9 +2668,11 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la autoridad sanitaria, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 255.
 
-Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan causar dependencia y que no se encuentren comprendidos en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246 de esta Ley, serán considerados como tales y por lo tanto quedarán igualmente sujetos a lo dispuesto en los artículos 251 y 252, según lo determine la propia Secretaría.
+Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan causar dependencia y que no se encuentren comprendidas en el artículo 245 de esta Ley, en las disposiciones aplicables o en las listas a que se refiere el artículo 246, serán considerados como tales y por lo tanto quedarán igualmente sujetos a lo dispuesto en los artículos 251 y 252, según lo determine la propia Secretaría.
 
 ###### ARTICULO 256.
 
@@ -4407,3 +4349,9 @@ SEGUNDO.- Se concede un plazo de sesenta días contados a partir de que entren e
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo Federal expedirá las bases para la coordinación que las Secretarías de Comercio y Fomento Industrial, de Agricultura y Recursos Hidráulicos, de Desarrollo Urbano y Ecología y de Salud, deberán observar, según las atribuciones que esta Ley, la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos, la Ley Federal de Protección al Ambiente y las demás leyes aplicables les confieran en materia de emisión de normas técnicas y de otorgamiento de autorizaciones, en sus modalidades de licencias, permisos y registros relativos a la explotación, obtención, elaboración, fabricación, formulación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, aplicación, almacenamiento, comercialización, tenencia, uso, disposición final, importación y exportación de plaguicidas, fertilizantes y sustancias tóxicas.
+
+D.O.F. 23 DE DICIEMBRE DE 1987.
+
+PRIMERO.- Las reformas a que se refiere este Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
