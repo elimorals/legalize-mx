@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2004-05-17"
+last_updated: "2004-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -849,7 +849,9 @@ XIV. Supervisar el resguardo de la documentación comprobatoria y justificatoria
 
 XV. Supervisar la calendarización de pagos, elaborada por las Direcciones Generales de Programación y Presupuesto y de Tesorería, y aprobada por la Comisión de Administración, con la finalidad de cubrir los compromisos del consejo en materia de servicios personales, adquisiciones, arrendamientos, prestación de servicios, así como de obra pública y servicios relacionados con la misma;
 
-XVI. Supervisar e instruir el manejo de la calendarización de ministración de fondos del Consejo, autorizados por la Secretaría de Hacienda y Crédito Público y proporcionada por la Suprema Corte de Justicia de la Nación;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 41/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE JUNIO DE 2004)</small>
+
+XVI. Supervisar e instruir el manejo de la calendarización de ministración de fondos autorizados al consejo;
 
 XVII. Validar y presentar a la consideración de la Comisión de Administración o del Pleno del Consejo, convenios y contratos para la administración de los fondos del Consejo depositados en la institución bancaria autorizada;
 
@@ -1330,6 +1332,14 @@ PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 17 DE MAYO DE 2004.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.-Se deroga cualquier disposición emitida por este Consejo de la Judicatura Federal que se oponga al presente acuerdo.
+
+D.O.F. 25 DE JUNIO DE 2004.
 
 PRIMERO.-El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
