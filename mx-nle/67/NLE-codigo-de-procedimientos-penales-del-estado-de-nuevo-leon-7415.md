@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2004-07-28"
+last_updated: "2004-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -451,11 +451,13 @@ En caso de infracción de las disposiciones contenidas en este capítulo, se san
 
 Cuando a juicio del Juez no se entorpezca el proceso, podrá autorizar al Ministerio Público adscrito para que estudie los expedientes fuera del Tribunal. El inculpado, su defensor y el ofendido podrán enterarse de los autos en la Secretaría del Tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29.
 
-Cualquier persona podrá solicitar por escrito copia simple o certificada de las constancias del proceso. Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública obligue a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes.
+Cualquier persona podrá solicitar por escrito copia simple o certificada de las constancias, registros y grabaciones del proceso. Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública obligue a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
 El Juez o Magistrado dictará las medidas que sean conducentes, para tal efecto.
 
@@ -1759,9 +1761,9 @@ En ningún caso y por ningún motivo, podrá el juez emplear la incomunicación,
 
 El Juez está obligado a hacer saber al inculpado, en este acto:
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-I.- El motivo de la acusación leyéndole la denuncia o la querella, el nombre de la persona o personas que le imputan la comisión del delito o delitos, la naturaleza y causa de la acusación para que conozca bien el hecho punible que se le atribuye y pueda contestar al cargo;
+I.- Los hechos que el Ministerio Público le imputa en el pliego de consignación; el nombre de la persona o personas que le imputan la comisión del delito o delitos, la naturaleza y causa de la acusación para que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo.
 
 > <small>(REFORMADA P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -2595,11 +2597,11 @@ V.- Que no existan datos que, a juicio del Juez o Tribunal, la hagan inverosími
 
 La Policía Judicial podrá rendir informes pero no obtener confesiones; si lo hace, éstas carecerán de todo valor probatorio.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 312.
 
-El valor de los registros obtenidos con la reproducción de imágenes o sonidos, o mediante el uso de sistemas de informática, ordenados por el Juez de la causa y registrados en su presencia o utilizados ante los Jueces de Preparación de lo Penal y del Juicio Oral Penal, harán prueba plena, excepto si se prueba que fueron alterados, y para tal efecto deberán tener la certificación Judicial que acredite el lugar, tiempo o circunstancias en que fueron tomadas, así como lo correspondiente a lo representado en ellas.
+El valor de los registros obtenidos con la reproducción de imágenes o sonidos, o mediante el uso de sistemas de informática, ordenados por el Juez de la causa y registrados en su presencia o utilizados ante los Jueces de Preparación de lo Penal y del Juicio Oral Penal, harán prueba plena, excepto si se comprueba que fueron alterados; y para tal efecto deberán tener la certificación judicial que acredite la fecha, hora y lugar de realización, y el nombre de los funcionarios y demás personas que hubieren intervenido, lo que deberá hacerse constar en acta que será firmada por el Secretario.
 
 ###### ARTICULO 313.
 
@@ -3103,13 +3105,33 @@ El original o testimonio debe remitirse dentro de quince días; si no se cumple 
 
 Recibido el proceso y registro original o el testimonio de estos en su caso, la Sala resolverá sobre su competencia. Radicará los autos y fijará la fecha para la audiencia, la cual se llevará a cabo dentro de los quince días siguientes al auto de radicación.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Tratándose de apelación interpuesta contra la sentencia definitiva dictada por el Juez del Juicio Oral, una vez radicada la misma, la Sala requerirá al Juez de Preparación de lo Penal para que le envíe las constancias y registros de las diligencias y audiencias ante él practicadas, así como de las resoluciones que hubiere dictado
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
 Si advirtiere que el recurso fue mal admitido, lo devolverá al juzgado de su origen, para que proceda, dentro de los tres días siguientes a su recepción, a declarar la correcta admisión del mismo, la cual notificará a las partes.
 
-Se procederá a discernir el cargo de defensor, si ya hubiere designación; en caso contrario, se procederá tal como lo previene el artículo 388.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Se procederá a discernir el cargo de defensor, si ya hubiere designación, en caso contrario, se procederá tal como lo previene el Artículo 388 del presente código.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 La intervención del Ministerio Público correrá a cargo del Procurador General de Justicia o de sus agentes auxiliares.
 
-Las partes podrán tomar en la Secretaría de la Sala, los apuntes que necesiten para alegar. Pueden, igualmente, dentro de los tres días siguientes a la notificación del auto de radicación, objetar la admisión del recurso o sus efectos, y la sala resolverá de plano. Transcurridos los tres días para objetar la admisión del recurso o sus efectos, sin que las partes lo hubieren hecho, de oficio la sala podrá declarar si fue mal admitida la apelación, en uno u otro caso, y sin revisar la sentencia o un auto apelado, devolverá la causa al juzgado de origen, si se hubiere enviado con motivo del recurso o sus efectos. Será irrecurrible la providencia que se pronuncie en cumplimiento de la decisión de la Sala.
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+En la Secretaria de la Sala se pondrán a disposición de las partes los aparatos y personal de auxilio para que tengan el acceso pertinente a los registros y constancias correspondientes de su proceso para que se enteren de su contenido, o en su caso podrán solicitar copia certificada de dichos registros y constancias.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Las partes podrán tomar en la Secretaría de la Sala, los apuntes que necesiten para alegar. Pueden, igualmente, dentro de los tres días siguientes a la notificación del auto de radicación, objetar la admisión del recurso o sus efectos, y la Sala resolverá de plano. Transcurridos los tres días para objetar la admisión del recurso o sus efectos, sin que las partes lo hubieren hecho, de oficio la Sala podrá declarar si fue mal admitida la apelación, en uno u otro caso, y sin revisar la sentencia o el auto apelado, devolverá la causa al juzgado de origen, si se hubiere enviado con motivo del recurso o sus efectos. Será irrecurrible la providencia que se pronuncie en cumplimiento de la decisión de la Sala.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Tratándose de procesos vistos bajo las normas del Juicio Oral, al notificar a las partes la radicación y la fecha de la audiencia, deberá acompañarse con copia certificada de los registros y constancias del expediente, sujetándose a los (sic) dispuesto por la Ley de Hacienda del Estado de Nuevo León en su artículo 277 Bis y demás disposiciones aplicables.
 
 ###### ARTICULO 392.
 
@@ -3492,6 +3514,8 @@ A).- Que aunque no esté agotada la averiguación, haya imposibilidad transitori
 B).- Que no haya base para decretar el sobreseimiento; y
 
 C).- Que se desconozca quién es el responsable del delito.
+
+D).- En los demás casos en que la ley ordene expresamente la suspensión del procedimiento.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4219,19 +4243,29 @@ Fuera de los casos previstos en este título, para conocer de los delitos cometi
 
 El inculpado será juzgado en audiencia pública por un Juez.
 
-El conocimiento y resolución de los casos en que se va a aplicar el Juicio predominantemente Oral, se sujetará al procedimiento previsto en este Capítulo. Se realizará sobre la base de la acusación y de modo de asegurar los principios de oralidad, inmediación, publicidad, contradicción y continuidad. En lo no previsto, se aplicarán supletoriamente las normas comunes de este Código, en lo conducente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+El conocimiento y resolución de los casos en que se va a aplicar el Juicio predominantemente Oral, se sujetará al procedimiento previsto en este Capítulo. Se realizará sobre la base de la acusación y de modo de asegurar los principios de oralidad, inmediación, publicidad contradicción, concentración y continuidad. En lo no previsto, se aplicarán supletoriamente las normas comunes de este Código, siempre que las mismas no contravengan los citados principios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 554.
 
-Las audiencias se registrarán por videograbación, audiograbación o cualquier medio apto para producir fe que permita garantizar la fidelidad e integridad de la información, así como la conservación y la reproducción de su contenido, así como el acceso a los mismos a quienes de acuerdo a la ley tuvieren derecho a ello. La constancia de cada actuación deberá consignar la fecha, hora y lugar de realización, el nombre de los funcionarios y demás personas que hubieren intervenido y una breve recopilación de sus resultados, haciéndose constar en acta que será firmada por el Juez, el Secretario y los intervinientes; si no supieren firmar, imprimirán la huella de alguno de los dedos de la mano, debiéndose indicar cuál de ellos fue. Las partes y las autoridades que legalmente lo requieran podrán solicitar copia, simple o certificada de las constancias o registros o parte de ellos que obren en el proceso.
+Las audiencias se registrarán por videograbación, audiograbación o cualquier medio apto, a juicio del juez, para producir fe que permita garantizar la fidelidad e integridad de la información, así como la conservación y la reproducción de su contenido, y el acceso a los mismos a quienes de acuerdo a la ley tuvieren derecho a ello. Al inicio de cada audiencia se levantará una constancia en la que se deberá consignar la fecha, hora y lugar de realización, el nombre de los funcionarios y demás personas que intervendrán. Dicha constancia se deberá certificar oralmente por el Secretario. Las partes y las autoridades que legalmente lo requieran podrán solicitar copia simple o certificada de las constancias o registros o parte de ellos que obren en el proceso. El Secretario mediante acta deberá certificar el medio magnético en donde se encuentre grabada la audiencia respectiva, debiendo identificar dicho medio con el número de expediente.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 El registro del Juicio Oral Penal demostrará el modo en que se hubiere desarrollado la audiencia, la observancia de las formalidades previstas para ella, las personas que hubieren intervenido y los actos que se hubieren llevado a cabo y tendrán valor probatorio para los efectos del proceso, de los recursos y requerimientos que correspondan, excepto si se prueba que fue alterado.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+
 La conservación de los registros estará a cargo del juzgado que los haya practicado, cuando por cualquier causa se hubiere dañado el soporte material del registro afectando su contenido, el Juez o tribunal ordenará reemplazarlo en todo o en parte por una copia fiel, que obtendrá de quien la tuviere, si no dispusiere de ella directamente.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+
 En la Secretaría se pondrán a disposición de las partes los aparatos y personal de auxilio para que tengan el acceso pertinente y los registros correspondientes de su proceso para que se enteren de su contenido, pudiendo tomar en la Secretaría los apuntes que estimen pertinentes.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 El Juez ordenará las medidas convenientes para asegurar su conservación, fidelidad y autenticidad, mismas que deberán constar en el acta que será firmada por el Juez, Secretario y los intervinientes.
 
@@ -4241,25 +4275,53 @@ El Juez ordenará las medidas convenientes para asegurar su conservación, fidel
 
 Se seguirá Juicio Oral Penal cuando se trate de un delito culposo no calificado por el Código Penal como delito grave.
 
-El Juez de Preparación de lo Penal resolverá sobre lo solicitado por el Ministerio Público. Tomará en su caso la declaración preparatoria y diligencias necesarias y resolverá la situación jurídica del inculpado.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+El Juez de Preparación de lo Penal resolverá sobre lo solicitado por el Ministerio Público. Tomará la declaración preparatoria la que se desarrollará oralmente, practicará las diligencias necesarias y resolverá la situación jurídica del inculpado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 556.
 
-Al dictar el Auto de Formal Prisión y tratándose de los casos previstos en el artículo 555 de este Código, el Juez de Preparación de lo Penal declarará abierta la instrucción, ordenando poner el proceso a la vista de las partes, para que propongan las pruebas que estimen pertinentes, sucesivamente por el término de cinco días para el Ministerio Público y otros cinco días para el inculpado; pero el Juez podrá ampliarlo hasta otro tanto si así lo solicitan las partes.
+Al dictar el auto de formal prisión o el auto de sujeción a proceso, cuando se trate de los casos previstos en el artículo 555 de este Código, el Juez de Preparación de lo Penal declarará abierta la instrucción y pondrá el proceso a la vista del Ministerio Público para que dentro de un plazo de diez días, que a solicitud del Ministerio Público podrán ser prorrogables hasta por diez días más, a juicio del juez, presente escrito de hechos y ofrecimiento de medios de pruebas, en el que señale lo siguiente:
 
-Cuando el Ministerio Público pida que rindan declaración el denunciante o querellante, testigos y peritos, en dicho pedimento hará constar en forma clara y precisa lo siguiente:
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-I.- Nombre, apellidos, domicilio y residencia; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-II.- El señalamiento de los medios de prueba que pretenda aportar.
+I.- Nombre y apodos si los tuviere, domicilio o residencia o lugar de detención del inculpado;
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+II.- Las circunstancias de tiempo, modo y lugar de los hechos y los delitos por los que se le dictó el auto de formal prisión o el auto de sujeción a proceso; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+III.- El señalamiento de los hechos que desea probar, así como de los medios de prueba de los que piensa valerse en la Audiencia de Juicio Oral.
+
+Cuando el Ministerio Público ofrezca el testimonio de una persona que no haya rendido declaración en la Averiguación Previa o ante el Juez de Preparación de lo Penal, deberá anexar a su escrito de hechos y ofrecimiento de medios de prueba, un escrito firmado por el testigo donde se haga constar los hechos que le constan y sobre los que versará su declaración en el Juicio Oral. En caso de que el Ministerio Público no cumpla con este requisito, el Juez de Preparación de lo Penal desechará dicha prueba testimonial.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 556 BIS.- En caso de que el Ministerio Público solicite el sobreseimiento de la causa por alguno de los motivos previstos en el artículo 369 de este Código, el Juez citará al Ministerio Público, a la víctima, al inculpado y a su defensor a una audiencia en la que resolverá sobre la procedencia del sobreseimiento, después de escuchar al Ministerio Público, la víctima y al defensor del inculpado, con excepción de los casos en que deba otorgarse la libertad de inmediato, cuando el inculpado se encuentre detenido. La audiencia se llevará a cabo y el juez resolverá sobre el sobreseimiento solicitado aún cuando no comparezca la víctima sin causa justificada a la audiencia a pesar de haber sido citada en legal forma, o no pueda ser localizada para su citación.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 557.
 
-Transcurrido el plazo a que se refiere el artículo anterior, habiéndose o no ofrecido pruebas, el Juez de Preparación de lo Penal dictará dentro de las veinticuatro horas siguientes auto fijando el día y hora para la celebración de la audiencia de preparación del Juicio Oral Penal, la que deberá tener lugar dentro de los quince días siguientes.
+Con el escrito de hechos y ofrecimiento de medios de prueba, se dará vista a la defensa por un término de diez días, prorrogables por otros diez previa solicitud. Dentro de dicho plazo la defensa deberá presentar su escrito de defensa o solicitar lo que a su derecho convenga. En dicho escrito, el defensor precisará los hechos y fundamentos en que basa su defensa y señalará los medios de prueba de los que piensa valerse en la Audiencia de Juicio Oral en términos de lo dispuesto por la fracción III del artículo 556.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Cuando la defensa ofrezca el testimonio de una persona que no hubiese rendido declaración en la Averiguación Previa o ante el Juez de Preparación de lo Penal, deberá anexar a su escrito de defensa un documento firmado por el testigo en donde éste exponga los hechos que le consten y sobre los que versará su declaración en el Juicio Oral. En caso de que no se cumpla con este requisito, el Juez de Preparación de lo Penal apercibirá a la defensa para que lo exhiba y el testigo no podrá rendir declaración en el Juicio Oral hasta que no se le dé cumplimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Presentado el escrito de defensa, el Juez citará a las partes a la Audiencia de Preparación del Juicio Oral, la que deberá celebrarse en un plazo no mayor a cinco días.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+En caso de que el defensor del inculpado solicite el sobreseimiento de la causa, el Juez de Preparación de lo Penal resolverá lo conducente en la Audiencia de Preparación del Juicio Oral.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4273,21 +4335,61 @@ La audiencia de preparación del Juicio Oral Penal será dirigida por el Juez de
 
 El Juez preguntará si existe acuerdo, lograda la conciliación o mediación u otorgado el perdón del ofendido, el Juez de Preparación de lo Penal dictará la resolución correspondiente.
 
-Durante la audiencia el Ministerio Público, el ofendido o querellante si lo hubiere, el inculpado o su defensor en conjunto podrán solicitar al Juez de Preparación de lo Penal que dé por acreditados ciertos hechos, que no podrán ser discutidos en el Juicio Oral Penal. El Juez se pronunciará sobre las pruebas solicitadas.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-Si el juicio de perito es necesario para establecer la verdad, el Juez fijará un plazo no mayor de quince días para que los peritos de las partes rindan su dictamen.
+En la audiencia, el Ministerio Público podrá ofrecer pruebas únicamente con el fin de contradecir directamente las pruebas ofertadas por la defensa en su escrito de defensa. También durante la audiencia el Ministerio Público, el inculpado y su defensor en conjunto podrán solicitar al Juez de Preparación de lo Penal que dé por acreditados ciertos hechos los cuales no podrán ser discutidos en el Juicio Oral Penal con excepción de los casos previstos por el Artículo 590 del presente Código. De la misma forma, podrán acordar introducir al Juicio Oral las declaraciones de testigos o dictámenes de peritos rendidos en la averiguación previa y las declaraciones y pruebas desahogadas ante el Juez de Preparación de lo Penal, mediante la lectura de los registros o documentos donde consten los mismos.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Cuando las partes ofrezcan la declaración de un perito que no haya rendido dictamen en la Averiguación Previa o ante el Juez de Preparación de lo Penal, al admitirla, fijará un plazo para que el perito exhiba por escrito un dictamen que contenga todos los hechos, consideraciones y conclusiones sobre los que versará su declaración en el Juicio Oral. En estos casos, no se desahogará esta prueba en el Juicio Oral, sino hasta que se haya exhibido dicho dictamen y corrido traslado con el mismo a la contraparte. La oportunidad de desahogar la prueba concluirá al finalizar el debate.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+La protesta del perito se llevará a cabo en la Audiencia del Juicio Oral.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+El Juez se pronunciará sobre las pruebas solicitadas. Las partes podrán expresar lo correspondiente sobre la exclusión de pruebas ofertadas por su contraparte por considerarlas inconducentes, irrelevantes, innecesarias o ilícitas. El desechamiento de pruebas ofrecidas admitirá el recurso de apelación. En caso de que se interponga el recurso de apelación, en forma oral o escrita, se suspenderá el dictado del auto de apertura del Juicio Oral hasta en tanto no sea resuelto el recurso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 560.
 
-Al término de la audiencia o concluido el plazo concedido a los peritos, el Juez de Preparación de lo Penal dictará el auto de apertura del Juicio Oral Penal señalando los hechos que se dieren por acreditados de conformidad con lo dispuesto por el artículo 559, así como las pruebas que deberán rendirse en el juicio oral y se inhibirá de oficio poniendo la causa y al inculpado a disposición del Juez del Juicio Oral Penal. Este auto no admitirá recurso alguno. Las partes podrán expresar lo correspondiente sobre la exclusión de pruebas decretadas por el Juez de Preparación de lo Penal.
+Una vez agotado el debate entre las partes, el Juez dictará el auto de apertura del Juicio Oral Penal, mismo que deberá contener lo siguiente:
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+I. La identidad del acusado;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+II. Las circunstancias de tiempo, modo y lugar de los hechos y los delitos por los que se le dictó el auto de formal prisión o el auto de sujeción a proceso;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+III. Los acuerdos probatorios a que hayan llegado las partes;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+IV. Los registros o actas de la averiguación previa y las declaraciones y pruebas desahogadas ante el Juez de Preparación de lo Penal, que las partes hayan acordado introducir al Juicio Oral mediante lectura;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+V. Las pruebas admitidas a cada una de las partes, que deberán rendirse en el Juicio Oral; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+VI. La individualización de quienes deban ser citados a la Audiencia de Juicio Oral.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Dictado el auto de apertura del Juicio Oral, el Juez de Preparación de lo Penal se inhibirá y remitirá exclusivamente dicho auto al Juez de Juicio Oral, guardando el expediente en el secreto del Juzgado. Asimismo pondrá a su disposición al inculpado. Este auto no admitirá recurso alguno. El Juez de Preparación de lo Penal expedirá copia certificada del expediente a las personas que se lo soliciten, en los términos del artículo 29 de este Código, y deberá contar con copia certificada del expediente ante él tramitado con el fin de remitirlo de forma inmediata a la autoridad que lo solicite en caso de que se promoviese juicio de amparo
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 561.
 
-El Juez del Juicio Oral Penal radicará de inmediato el asunto y notificará a las partes la llegada de los autos.
+El Juez del Juicio Oral Penal radicará de inmediato el asunto, le asignará un número de expediente y notificará de ello a las partes.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4361,11 +4463,9 @@ No podrán portar elementos para molestar u ofender o adoptar comportamiento int
 
 La audiencia pública se desarrollará en forma oral, tanto en lo relativo a las declaraciones del acusado, a la recepción de pruebas en lo relativo a los alegatos, conclusiones y argumentaciones de las partes, en general, a toda intervención de quienes participen en ellas.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
-
 ###### ARTICULO 572.
 
-Durante la audiencia oral cada parte podrá hacer las observaciones y planteamientos que estimare relevantes con relación a las pruebas ofrecidas.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2004)
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4383,11 +4483,13 @@ El Ministerio Público, de oficio o a instancia del interesado también podrá d
 
 La audiencia del Juicio Oral será pública salvo las excepciones previstas en este Código.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 575.
 
-Inmediatamente después de la exposición de las partes, podrán ser planteadas todas las cuestiones incidentales, que serán tratadas en un solo acto, se resolverán verbal e inmediatamente, a menos que el tribunal resuelva tratarlas sucesivamente o diferir alguna, según convenga al orden del debate. Lo mismo se hará con las solicitudes promovidas. En la discusión de las cuestiones incidentales solo se concederá la palabra por una única vez a quien la plantee y a los demás intervinientes, quienes podrán pronunciarse a través del abogado que los defiende o asesora.
+Cuando las partes planteen cuestiones incidentales y solicitudes relacionadas con la Audiencia del Juicio Oral, deberán hacerlo oralmente y serán resueltas de la misma manera y en forma inmediata, escuchando a la contraparte, salvo el caso de que el Juez considere que existen pruebas que deban desahogarse, y para tal efecto determine que se suspenderá la audiencia. Cuando las cuestiones y las solicitudes planteadas por las partes no se relacionen con lo acontecido en dicha Audiencia, el Juez las desechará de plano.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 No procederá recurso alguno contra las disposiciones que recayeran sobre estos incidentes.
 
@@ -4411,11 +4513,11 @@ VI.- En el caso previsto en el artículo 566 cuando el Ministerio Público no se
 
 Excepcionalmente, el tribunal podrá disponer la suspensión del debate, por resolución fundada, cuando alguna catástrofe o algún hecho extraordinario torne imposible su continuación. El tribunal decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todos los intervinientes.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 577.
 
-Las resoluciones en el Juicio Oral Penal no admiten más recursos que el de apelación tratándose de sentencia definitiva y el de revocación tratándose del desechamiento de la calificación de preguntas formuladas, debiéndose interponer en el acto. El Órgano Jurisdiccional ante quien se promueva deberá resolverlo en la misma audiencia; no procederá este recurso si se califica de legal la pregunta.
+Las resoluciones de este Capítulo no admiten más recurso que el de apelación tratándose del auto de formal prisión, del auto de sujeción a proceso, del auto de libertad, del desechamiento de pruebas ofrecidas, así como de la sentencia definitiva.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4425,19 +4527,41 @@ El debate será oral, tanto en lo relativo a los alegatos y argumentos de todos 
 
 El acusado sordo o que no pueda entender el idioma español será dotado de un intérprete que le transmitirá el contenido de los actos del debate.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 579.
 
-Las declaraciones rendidas en la averiguación previa y los demás datos podrán ser incorporados al juicio por la lectura en la audiencia en su parte pertinente cuando lo soliciten o el Juez lo creyere necesario.
+Las declaraciones del inculpado, coimputados, testigos y los dictámenes de peritos rendidas en la averiguación previa o ante el Juez de Preparación de lo Penal, podrán ser incorporados al Juicio Oral mediante la lectura de los registros o documentos donde consten, únicamente en los siguientes casos:
 
-Las declaraciones de los testigos y dictámenes periciales de cargo o descargo rendidos en la averiguación previa podrán ser leídas por el Ministerio Público o la defensa en el Juicio Oral y tomadas en cuenta como prueba por el juzgador para efecto de la sentencia, siempre y cuando la comparecencia del testigo o perito no haya sido solicitada por alguna de las partes para interrogarlos.
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+I. Tratándose de la declaración del inculpado, cuando la misma haya sido rendida ante el Ministerio Público o Juez de Preparación de lo Penal, y en presencia de su defensor.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+II. Tratándose de las declaraciones de coimputados, cuando las mismas hayan sido rendidas ante el Ministerio Público o Juez de Preparación de lo Penal, y en presencia de su defensor.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+III. Cuando las partes así lo hubiesen acordado en la Audiencia de Preparación del Juicio Oral.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+IV Cuando el testigo o perito hubiese fallecido o hubiese perdido la razón.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+V. Cuando la incomparecencia del testigo o perito ofrecido por la contraparte a la Audiencia del Juicio Oral se debiese a causas imputables al acusado.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 580.
 
-Se podrá leer en el interrogatorio parte o partes de sus declaraciones anteriores prestadas ante el Ministerio Público o el Juez, cuando sea necesario auxiliar la memoria de quien declara o demostrar o superar contradicciones entre ellas y las presentadas en el debate, y sólo a fin de solicitar las aclaraciones pertinentes.
+Sólo una vez que el acusado o el testigo hubieren emitido declaración, cuando lo soliciten las partes se podrá leer o reproducir en el interrogatorio parte o partes de sus declaraciones anteriores emitidas ante el Ministerio Público o el Juez, cuando sea necesario para auxiliar la memoria de quien declara, o demostrar o superar contradicciones entre ellas y las manifestadas en la audiencia o para solicitar las aclaraciones pertinentes.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 Con los mismos objetivos se podrá leer durante la declaración de un perito partes del informe que él hubiere elaborado.
 
@@ -4447,21 +4571,29 @@ Con los mismos objetivos se podrá leer durante la declaración de un perito par
 
 El día y hora fijados para la audiencia, el Juez concurrirá con el Ministerio Público, el acusado, el defensor y los demás intervinientes. Verificará la presencia de los testigos, peritos, intérpretes y demás personas que hubieren sido citadas a la audiencia y que deban tomar parte en el debate, y de la existencia de las cosas que deban exhibirse en él y declarará iniciado el juicio y abierto el debate.
 
-Advertirá al inculpado y al público sobre la importancia y significado de lo que va a ocurrir, indicará al acusado que deberá estar atento a lo que oirá. El Juez señalará los hechos y los delitos de la formal prisión y dispondrá que los peritos y los testigos hagan abandono de la sala de la audiencia.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Advertirá al inculpado y al público sobre la importancia y significado de lo que va a ocurrir, indicará al acusado que deberá estar atento a lo que oirá. El Juez dispondrá que los peritos y los testigos abandonen la sala de la audiencia, y señalará las circunstancias de tiempo, modo y lugar de los hechos y los delitos por los que se dictó al inculpado el auto de formal prisión o el auto de sujeción a proceso.
 
 El Juez ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las solemnidades que correspondan y moderará la discusión, podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles pero sin coartar el ejercicio de la acusación ni el derecho a defensa, también podrá limitar el tiempo de uso de la palabra a las partes que debieren intervenir durante el juicio, fijando límites máximos igualitarios para todas ellas o interrumpiendo a quienes hicieren uso manifiestamente abusivo de su facultad, también ejercerá las facultades disciplinarias destinadas para mantener el orden y el decoro durante el debate y garantizar la eficaz realización del mismo. En uso de estas facultades, el Juez podrá ordenar la limitación del acceso de público a un número determinado de personas. También podrá impedir el acceso y ordenar la salida de aquellas personas que se presenten en condiciones incompatibles con la seriedad de la audiencia.
 
-Se le concederá la palabra al Ministerio Público para que exponga oralmente y en forma breve y sumaria las posiciones planteadas en la formalización de la acusación y luego al defensor, para que sintéticamente indique su posición.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-El acusado si lo solicita prestará declaración. En tal caso, el Juez le permitirá que lo haga libremente. Si es su deseo contestar a las preguntas que se le hagan podrá ser interrogado directamente por las partes, comenzando por el Ministerio Público y posteriormente por la defensa. La contraparte podrá objetar la formulación de la pregunta. El Juez podrá formularle preguntas destinadas a aclarar sus dichos, absteniéndose de contestar si es su decisión.
+Se le concederá la palabra al Ministerio Público para que exponga oralmente y en forma breve las posiciones planteadas en su escrito de hechos y ofrecimiento de medios de prueba presentado al Juez de Preparación de lo Penal, y luego al defensor, para que de manera sintética indique su posición.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+El acusado si lo solicita prestará declaración. En tal caso, el Juez le permitirá que lo haga libremente o a preguntas de su defensor. Si es su deseo contestar a las preguntas del Ministerio Público podrá ser contrainterrogado por éste conforme lo dispone el artículo 586. El Juez podrá formularle preguntas destinadas a aclarar sus dichos, absteniéndose de contestar si es su decisión.
 
 En cualquier estado del Juicio el acusado podrá solicitar ser oído, con el fin de aclarar o complementar sus dichos.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 582.
 
-Si la acusación tuviere por objeto varios hechos punibles atribuidos a uno o más imputados, el tribunal podrá disponer, incluso a pedido de uno de los Intervinientes, formulado en este momento, que los debates sean llevados a cabo separadamente, pero en forma continua.
+Si la acusación tuviere por objeto varios hechos punibles atribuidos a uno o más imputados, el Tribunal podrá disponer a solicitud del Ministerio Público o de la defensa, que los debates sean llevados a cabo separadamente, pero en forma continua.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
 El tribunal podrá disponer en este momento y de la misma manera, cuando resulte conveniente para resolver adecuadamente sobre la pena y para una mejor defensa del acusado, dividir un debate único, para tratar primero la cuestión acerca de la culpabilidad del acusado, y posteriormente, la cuestión acerca de la determinación de la pena.
 
@@ -4483,33 +4615,49 @@ El acusado podrá comunicarse libremente con su defensor durante el juicio, siem
 
 Cada parte determinará el orden en que rendirá su prueba, correspondiendo recibir primero la ofrecida para acreditar los hechos y peticiones del Ministerio Público y luego la prueba ofrecida por el acusado.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 586.
 
-Durante la Audiencia, los peritos y testigos deberán ser interrogados personalmente. No se dará lectura a las declaraciones de testigos hechas con anterioridad, ya que deben manifestarse oralmente en la audiencia. El Juez identificará al perito o testigo y ordenará que se le tome la protesta de ley de decir la verdad.
+El Juez identificará al testigo o perito y ordenará que se le tome la protesta de ley de decir verdad.
 
-La declaración de los testigos se sujetará al interrogatorio de las partes. Los peritos deberán exponer brevemente el contenido y las conclusiones de su informe, y a continuación se autorizará que sean interrogados por las partes. Los interrogatorios serán realizados en primer lugar por la parte que hubiere ofrecido la respectiva prueba y luego por las restantes; el mismo orden se seguirá si se diere el contrainterrogatorio.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-Finalmente el Juez podrá formular preguntas al testigo o perito con el fin de aclarar sus dichos.
+Durante la audiencia los testigos o peritos deberán ser interrogados personalmente. No se dará lectura a las declaraciones de testigos hechas con anterioridad ya que deberán manifestarse oralmente en la audiencia.
 
-Antes de declarar, los peritos y los testigos no podrán comunicarse entre sí, ni ver, oír ni ser informados de lo que ocurriere en la audiencia.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-Las partes podrán confrontar al perito o testigo con sus propios dichos u otras versiones de los hechos presentados.
+La declaración de los testigos y peritos se sujetará al interrogatorio de las partes. Los interrogatorios serán realizados en primer lugar por la parte que hubiere ofrecido la respectiva prueba y luego la contraparte podrá contrainterrogar al testigo o perito. Durante el contrainterrogatorio las partes podrán confrontar al perito o testigo con sus propios dichos u otras versiones de los hechos presentados.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+El Juez o Tribunal, solamente por objeción fundada de parte, manifestada oralmente, podrá desechar las preguntas impertinentes o inconducentes para los fines del proceso, así como las no claras o que ofusquen la razón, las que encierran diferentes significados, capciosas, las sugestivas planteadas en el interrogatorio por el oferente de la prueba, las que contienen más de un hecho y las ya contestadas. Antes de resolver sobre la objeción planteada, el Juez escuchará a la parte que formula la pregunta y determinará en ese momento si es fundada o infundada. Dicha resolución no admite recurso alguno.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+La omisión se entenderá como renuncia al derecho de objetar la formulación de una pregunta.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Antes de declarar, los peritos y los testigos no podrán comunicarse entre sí, ni ver, oír o ser informados de lo que ocurriere en la audiencia; sólo la víctima y el inculpado podrán permanecer en la audiencia, sin mantener comunicación con los peritos o testigos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+Las normas previstas en este artículo, salvo la dispuesta en el párrafo que antecede, se aplicarán en el caso del interrogatorio y contra interrogatorio del acusado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 587.
 
-Solo una vez que el acusado o el testigo hubieren prestado declaración, se podrá leer en el interrogatorio parte o partes de sus declaraciones anteriores prestadas ante el Ministerio Público, cuando fuere necesario para ayudar la memoria del respectivo acusado o testigo, para demostrar o superar contradicciones o para solicitar las aclaraciones pertinentes.
+Los documentos ofrecidos como prueba y admitidos se incorporarán al juicio y serán leídos y exhibidos en el debate, con indicación de su origen.
 
-Con los mismos objetivos, se podrá leer durante la declaración de un perito partes del informe que él hubiere elaborado.
+También se incorporarán los objetos que constituyen evidencia ofrecidos como prueba y admitidos y deberán ser exhibidos en la audiencia y podrán ser examinados por las partes.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 588.
 
-Los documentos serán leídos y exhibidos en el debate, con indicación de su origen. Los objetos que constituyeren evidencia deberán ser exhibidos y podrán ser examinados por las partes. Las grabaciones, los elementos de prueba audiovisuales, computacionales o cualquier otro de carácter electrónico apto para producir fe, se reproducirán en la audiencia por cualquier medio idóneo para su percepción por los asistentes. El tribunal podrá autorizar, la lectura o reproducción parcial o resumida de los medios de prueba mencionados, cuando ello pareciere conveniente y se asegurare el conocimiento de su contenido. Todos estos medios podrán ser exhibidos al acusado, a los peritos o testigos durante sus declaraciones, para que los reconocieren o se refirieran a su conocimiento de ellos.
+Las grabaciones, los elementos de prueba audiovisuales, computacionales o cualquier otro de carácter electrónico apto para producir fe, ofrecidos y admitidos, se incorporarán al juicio y se reproducirán en la audiencia por cualquier medio idóneo para su percepción por los asistentes. El Tribunal podrá autorizar, la lectura o reproducción parcial o resumida de los documentos y medios de pruebas mencionados, cuando ello pareciere conveniente y se asegurare el conocimiento de su contenido y podrán ser exhibidos al acusado, a los peritos o testigos durante sus declaraciones, para que los reconociere o emita lo correspondiente sobre ellos.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4517,11 +4665,11 @@ Los documentos serán leídos y exhibidos en el debate, con indicación de su or
 
 No se podrá invocar, dar lectura ni incorporar como medio de prueba al Juicio Oral de lo Penal ningún antecedente en relación con la proposición, discusión, aceptación, procedencia, rechazo o revocación de un medio alterno o salida hecha valer con anterioridad.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 590.
 
-A petición de alguna de las partes, el Juez podrá ordenar la recepción de pruebas supervinientes, o sea las que no se hubiesen ofrecido oportunamente por no haber sabido de su existencia.
+Cuando alguna de las partes, tenga conocimiento de una prueba superviniente respecto de la cual hubiere desconocido su existencia, deberá ofrecerla antes de que se declare el asunto visto y el Juez tomando en cuenta la opinión de la otra parte, resolverá lo conducente, siempre salvaguardando la oportunidad de la parte o partes no oferentes de la prueba para en su oportunidad ofrecer la práctica de diversas diligencias en el sentido de controvertir la ordenada.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4535,63 +4683,93 @@ Cuando lo considere necesario para la adecuada apreciación de determinadas circ
 
 Si por la hora o por la naturaleza de las pruebas ofrecidas se determina la suspensión de la audiencia, ésta se reanudará al día siguiente hábil, continuando durante los días consecutivos que fueren necesarios hasta su conclusión.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 592 BIS.- Para efectos del Juicio Oral Penal, se aplicarán las siguientes reglas para la valoración de las pruebas, sin perjuicio de lo señalado en el artículo 553 de este mismo Código:
+
+I. Tratándose de lesiones, cuando no sea posible que se rinda dictamen definitivo en la audiencia del Juicio Oral, la secuela de la lesión y la incapacidad podrán tenerse por demostradas con cualquier medio de prueba, para justificar la indemnización en la reparación del daño, así como la pena a imponer; y
+
+II. La prueba documental privada que se encuentre adminiculada a otros elementos de prueba, no se condicionará a la ratificación de quien lo expide o suscribe para darle valor, salvo que sea objetada de falsa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 593.
 
-Habiéndose desahogado las pruebas, el Juez en la misma audiencia declarará cerrada la instrucción y autorizará un receso en caso de que sea permisible por la hora de la terminación de la prueba y si no lo permite, continuará el día siguiente hábil; en el cual se formularán los alegatos en las que se observarán las siguientes reglas:
+Habiéndose desahogado las pruebas, el Juez en la misma audiencia declarará cerrada la instrucción y autorizará un receso en caso de que sea permisible por la hora de la terminación de la prueba y si no lo permite, continuará el día siguiente hábil; en el cual las partes formularán sus alegatos de conclusión, debiéndose observar las siguientes reglas:
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
 
 I.- El Secretario leerá las constancias de autos que pidiere la parte que esté en el uso de la palabra;
 
-II.- Manifestará primero el Ministerio Público y, en seguida, el defensor. También alegará el acusado. Seguidamente se otorgará al Ministerio Público y al Defensor, las facultades de replicar;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+II.- Manifestará primero el Ministerio Público y, en seguida, el defensor. También alegará el acusado si así lo desea. Seguidamente se otorgará al Ministerio Público y al Defensor, las facultades de replicar;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
 
 III.- Sólo se concederá el uso de la palabra por dos veces a cada una de las partes, quienes en la réplica o dúplica, deberán alegar, tanto sobre la cuestión de fondo como sobre las incidencias que se hayan presentado en el proceso;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+
 IV.- En sus alegatos procurarán las partes la mayor brevedad;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
 
 V.- El Juez tomará en consideración la extensión del proceso para determinar el tiempo que concederá al efecto. No se concederá el uso de la palabra por más de media hora cada vez. Los tribunales tomarán las medidas prudentes que procedan, a fin de que las partes se sujeten al tiempo indicado. Sin embargo, cuando se amerite, el Juez podrá permitir que se amplíe el tiempo marcado, o que se use por otra vez de la palabra, observándose la más completa equidad entre las partes; y
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2004)</small>
+
 VI.- El inculpado, aun cuando no concurra por causa justificada o renuncie al uso de la palabra, podrá presentar apuntes de alegatos y serán leídos por el Secretario del Juzgado.
 
-El Ministerio Público y la defensa formularán sucesivamente sus conclusiones mediante una expresión breve, ajustándose el primero a lo dispuesto por los artículos 343 y 344 de este Código, sin perjuicio de ser allegada a la audiencia por escrito.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-Se le otorgará al acusado la palabra para que manifieste lo que estime conveniente.
+El Ministerio Público y la defensa formularán sucesivamente sus conclusiones mediante una expresión oral breve, ajustándose el primero a lo dispuesto por los artículos 343 y 344 de este Código, o podrán allegarlos a la audiencia por escrito y leerlos en la misma. En caso de que el Ministerio Público presente conclusiones no acusatorias o deficientes, se suspenderá la audiencia y se dará vista al Procurador General de Justicia, quien podrá presentarlas por escrito, debiendo el Ministerio Público exponerlas oralmente una vez que se reanude la audiencia.
 
-A continuación se declarará el asunto visto, quedando cerrado el debate y se citará para sentencia, la que se pronunciará dentro del término de quince días.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+Se le otorgará al acusado la palabra para que manifieste lo que estime conveniente, antes de cerrar el debate.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+A continuación se declarará el asunto visto, quedando cerrado el debate, retirándose el juez a deliberar.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 594.
 
-Cuando el Juez después de la vista, creyere necesario para ilustrar su criterio la práctica de alguna diligencia podrá decretarla para mejor proveer, y la desahogará dentro de diez días. El auto que decrete estas diligencias suspenderá el plazo para dictar sentencia y no admitirá recurso alguno.
+Se prohíbe el alegato hecho al Juez de la causa, fuera de la audiencia y sin presencia de la contraparte.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 594 BIS.- Cuando por vía de Amparo Indirecto se reclame el auto de formal prisión o de sujeción a proceso dictado por el Juez de Preparación de lo Penal, una vez que le sea enterado, lo comunicará sin demora al Juez del Juicio Oral Penal que conociere del proceso, quien suspenderá la continuación de la audiencia en lo que corresponde al inculpado-quejoso una vez cerrada la instrucción, y hasta que sea notificada la ejecutoria que recaiga en el Juicio de Amparo correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 595.
 
-Tratándose de lesiones, para dictar sentencia se estará a lo dispuesto por los artículos 319 y 320 de este Código.
+Tratándose del delito de lesiones para dictar sentencia se estará a lo dispuesto por el artículo 319 de este Código, dejando en todo caso a salvo los derechos de la víctima u ofendido por las consecuencias que pudiesen derivarse de las lesiones inferidas, sin perjuicio de condenar al pago de la indemnización del daño material y moral causado, incluyendo el pago del tratamiento integral dirigido a la rehabilitación médico - psicológica de la víctima, que como consecuencia del delito sea necesario para la recuperación de su salud, conforme al Código Penal.
 
-En caso de no ponerse de acuerdo los peritos, el Juez nombrará un tercero en discordia que deberá rendir su dictamen en un plazo no mayor de cinco días.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 596.
 
-Los exhortos que se envíen en el Juicio Oral Penal, pendientes de diligenciarse, y el peritaje a que se refiere el artículo anterior, también interrumpen el plazo para dictar sentencia.
+Los exhortos que se envíen en el Juicio Oral Penal, pendientes de diligenciarse, interrumpen el plazo para dictar sentencia.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 597.
 
-La declaración ante el Ministerio Público de los testigos o peritos solicitados por algunas de las partes para interrogarlos en el Juicio Oral Penal, tendrá el siguiente valor y será calificada por el Juez en sentencia:
+Sólo podrán ser considerados en la sentencia las declaraciones de los acusados, coacusados, testigos y dictámenes de los peritos rendidos ante el Ministerio Público en la Averiguación Previa, o ante el Juez de Preparación de lo Penal, en los supuestos a que se refiere el artículo 579.
 
-I.- En caso de inasistencia a pesar de apremio judicial por rebeldía o desconocerse el paradero, no tendrá valor alguno;
+I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2004)
 
-II.- Tendrá valor de indicio en los casos de incapacidad mental o muerte; y
+II.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2004)
 
-III.- En caso de exhorto, se valorará una vez desahogada la diligencia respectiva.
+III.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2004)
 
-Además, se estará a lo previsto en los artículos 323 y 553 de este Código.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4605,11 +4783,11 @@ En el Juicio Oral Penal no procede la acumulación de procesos. El tribunal cuya
 
 En el Juicio Oral Penal respecto a la sentencia, de los recursos y la ejecución de aquellas se aplicarán las disposiciones comunes.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 600.
 
-La sentencia se pronunciará siempre en nombre del Estado de Nuevo León, en la forma que prescribe este Código. Redactada la sentencia, el tribunal se constituirá nuevamente en la sala de la audiencia, después de ser convocadas las partes y el documento será leído ante los presentes, la lectura valdrá en todo caso como notificación y se hará constar en acta. Cuando la complejidad del asunto o lo avanzado de la hora, torne necesario diferir la redacción de la sentencia, será leída tan solo su parte resolutivo informándose a la audiencia sintéticamente, los fundamentos de hecho y derecho que motivaron la decisión.
+La sentencia se pronunciará siempre en nombre del Estado de Nuevo León, en la forma que prescribe este Código. Redactada la sentencia, el Tribunal se constituirá nuevamente en la sala de la audiencia, después de ser convocadas las partes y el documento será leído ante los presentes, la lectura valdrá en todo caso como notificación y se hará constar en acta. Cuando la complejidad del asunto o lo avanzado de la hora, torne necesario diferir la redacción de la sentencia, ésta deberá redactarse en un plazo máximo de diez días contados a partir de que quede cerrado el debate, y será leída en audiencia pública a la que se convocará a las partes. La lectura surtirá efectos de notificación y se hará constar en el acta.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -4625,13 +4803,21 @@ I.- Que se haya dictado auto de formal prisión o de sujeción a proceso y que l
 
 II.- Que exista ante la autoridad judicial y en presencia de su defensor, aceptación y reconocimiento del inculpado de su participación en la comisión del hecho que se le imputa descrito en la ley como delito, y que a juicio del Juez no sea inverosímil;
 
-III.- Que el inculpado manifieste, con anuencia de su defensor, que no tiene pruebas que ofrecer, salvo las conducentes para la individualización de la pena; o bien, en su caso, se desista, también con anuencia de su defensor, de las pruebas ya ofertadas;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-IV.- Que se cubra la reparación del daño a satisfacción de la víctima;
+III. Que el inculpado manifieste, con anuencia de su defensor, que no tiene pruebas que ofrecer, salvo las conducentes para la individualización de la pena; o bien, en su caso, se desista, también con anuencia de su defensor, de las pruebas ya ofertadas, y que además manifieste su anuencia a ser juzgado con los elementos de prueba que existan en la causa;
 
-V.- Que no exista oposición por parte del defensor del Ministerio Público; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
-VI.- Que se solicite dentro de los cinco días siguientes a la notificación del auto de formal prisión o de sujeción a proceso. La solicitud interrumpe el término de ofrecimiento de pruebas.
+IV. Que cubra la reparación del daño o exista un convenio para dicha reparación, a satisfacción de la víctima;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+V. Que no exista oposición por parte del Ministerio Público; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+VI. Que se solicite dentro de los quince días siguientes a la notificación del auto de formal prisión o de sujeción a proceso. La solicitud interrumpe el término de ofrecimiento de pruebas.
 
 Sin embargo, necesariamente se revocará la apertura del procedimiento abreviado para seguir la tramitación del procedimiento que corresponda, cuando así lo solicite el inculpado o su defensor, en este último caso con ratificación del primero, dentro de los tres días siguientes de notificado el auto relativo.
 
@@ -4711,7 +4897,9 @@ VI.- Que el inculpado celebre con la víctima u ofendido ante el Juez, un acuerd
 
 Dicho acuerdo deberá contener el monto y la forma en que habrá de pagarse. El inculpado se libera de la obligación pagando o consignando en el juzgado de su proceso la cantidad acordada. La víctima u ofendido comparecerá a recibir el pago o a ver la cantidad consignada a su favor;
 
-VII.- Que se solicite hasta antes del desahogo de pruebas; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2004)</small>
+
+VII. Que se solicite antes del desahogo de pruebas, y tratándose del juicio regulado en el Capítulo Primero del Título Décimo Cuarto, hasta antes de que se dicte auto de apertura del Juicio Oral.
 
 VIII.- Que se comprometa a cumplir con las medidas y condiciones que el Juez le fije.
 
@@ -4954,3 +5142,7 @@ Artículo Segundo.- Las disposiciones referentes al procedimiento abreviado, la 
 Artículo Tercero.- Las disposiciones del Juicio Oral Penal entrarán en vigor dentro de los 120 días siguientes a la publicación de este Decreto, previo acuerdo expedido por el Consejo de la Judicatura del Estado y publicado en su Órgano de difusión así como en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Los procedimientos que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
+
+P.O. 10 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
