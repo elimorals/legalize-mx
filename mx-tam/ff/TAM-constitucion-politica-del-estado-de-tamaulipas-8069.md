@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1934-06-16"
+last_updated: "1934-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1934.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -246,6 +246,38 @@ El Congreso se compondrá de siete Diputados propietarios, por cada Diputado Pro
 ###### Art. 27.
 
 La elección de Diputados será directa y se verificará en los términos que disponga la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1934)</small>
+
+ART. 28.- Para ser Diputado Propietario o Suplente, se requiere:
+
+I.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
+
+II.- Poseer suficiente instrucción.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1934)</small>
+
+ART. 29.- No podrán ser electos Diputados:
+
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia y el Procurador de Justicia.
+
+II.- Los Diputados y Senadores al Congreso de la Unión que hubieren estado en ejercicio si no han transcurrido por lo menos dos años, contados desde la fecha en que conforme a la Ley haya terminado el período para el cual fueron electos.
+
+III.- Los Magistrados, Jueces y Empleados de la Federación en el Estado.
+
+IV.- Los Militares que hayan estado en servicio dentro de los diez meses anteriores a la fecha de la elección.
+
+V.- Los que hayan sido condenados por algún delito contra la propiedad o grave contra las personas.
+
+VI.- Los Ministros de cualquier culto, estén o no en ejercicio.
+
+VII.- Los Presidentes Municipales si han estado desempeñando sus funciones dentro de los diez meses anteriores al día de la elección.
+
+VIII.- Los Secretarios de Ayuntamiento, los Jueces y empleados del Estado y Municipales, todos ellos en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
+
+IX.- Nunca podrán ser electos lo que alguna vez hubieren desempeñado el cargo de Diputados al Congreso Local.
+
+Esta prohibición no comprende a los Suplentes.
 
 ###### Art. 28.
 
@@ -717,11 +749,13 @@ IV. Los que desempeñen algún cargo o comisión de otros Estados o de la Federa
 
 V. Los Magistrados del Supremo Tribunal, Procurador General de Justicia, ni el Secretario General de Gobierno o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1934)</small>
 
 ###### Art. 81.
 
-El día 5 de Febrero inmediato a la elección, entrará el Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo, ni por nueva elección ni con el carácter de provisional o interino. Tampoco podrá ser electo Diputado al Congreso del Estado si no han transcurrido ocho años por lo menos, contados a partir del día en que se haya separado definitivamente como Gobernador, ya sea por renuncia, licencia ilimitada o por haber fenecido constitucionalmente el período para el cual fue electo.
+El día cinco de febrero inmediato a la elección entrará el Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo ni por nueva elección ni con el carácter de provisional o interino.
+
+Tampoco podrá ser electo munca (sic) Diputado al Congreso del Estado.
 
 ###### Art. 82.
 
@@ -1145,13 +1179,11 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará, 
 
 IV. Los Ayuntamientos tendrán personalidad jurídica para contratar y obligarse. Los Síndicos serán los representantes de la personalidad jurídica de los Ayuntamientos.
 
-> <small>(REFORMADA POR EL ARTICULO PRIMERO DE LA LEY PARA RENOVACION DE AYUNTAMIENTOS, P.O. 29 DE ABRIL DE 1933)</small>
+> <small>(ADICIONADA [N. DE E REFORMADA], P.O. 27 DE JUNIO DE 1934)</small>
 
-V.- No podrá ser miembro de un Ayuntamiento el que hubiere desempeñado otro cargo de elección popular del Municipio, del Estado o de la Federación, si no ha transcurrido un año por lo menos contado desde la fecha en que conforme a la Ley feneció el período para el cual fue electo.
+V.- No podrá ser electo miembro de un Ayuntamiento el que hubiere desempeñado otro cargo de elección popular del mismo Municipio, si no ha transcurrido un año por lo menos contado desde la fecha en que conforme a la Ley feneció el período para el cual fue electo.
 
-El que haya desempeñado las funciones de Presidente Municipal, en virtud de una elección nunca podrá volver a ser designado para desempeñar ese cargo en ningún Municipio.
-
-El que haya desempeñado las funciones de Presidente Municipal, supliendo faltas, no podrá desempeñarlo de ningún modo en el siguiente.
+El que haya desempeñado las funciones de Presidente Municipal sufriendo faltas, no podrá desempeñar de ningún modo este puesto en el período siguiente;
 
 VI. Por cada miembro propietario del Ayuntamiento se eligirá un suplente.
 
@@ -1455,4 +1487,8 @@ Unico.- Este Decreto comenzará a surtir sus efectos desde la fecha de su public
 
 P.O. 16 DE JUNIO DE 1934.
 
-Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 1934.
+
+TRANSITORIO: Este Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
