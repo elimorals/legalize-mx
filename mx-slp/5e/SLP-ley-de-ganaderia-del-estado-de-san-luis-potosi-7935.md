@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-7935"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-22"
-last_updated: "1995-11-22"
+last_updated: "1998-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERIA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1998.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el miércoles 22 de noviembre de 1995.
 
@@ -171,9 +171,11 @@ V.- El fomento de la investigación pecuaria y la divulgación de los resultados
 
 VI.- La conservación, mejoramiento y explotación racional de los recursos naturales relacionados con la ganadería, como es la aplicación de los coeficientes de agostaderos de las diferentes zonas del Estado;
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría de Fomento Agropecuario y Recursos Hidráulicos de la Entidad, elaborará el plan de desarrollo pecuario en base a los objetivos a que se refiere el artículo anterior, con sujeción a lo dispuesto en el Plan Estatal de Desarrollo.
+La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos de la Entidad, elaborará el plan de desarrollo pecuario en base a los objetivos a que se refiere el artículo anterior, con sujeción a lo dispuesto en el Plan Estatal de Desarrollo.
 
 ## TITULO TERCERO
 
@@ -185,7 +187,9 @@ DE LAS AUTORIDADES COMPETENTES Y SUS ATRIBUCIONES.
 
 Son autoridades competentes para aplicar y vigilar el cumplimiento de esta ley:
 
-I.- El Ejecutivo del Estado a través de la Secretaría de Fomento Agropecuario y Recursos Hidráulicos de la Administración Pública Estatal; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1998)</small>
+
+I.- El Ejecutivo del Estado a través de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos; y
 
 II.- Los presidentes municipales, delegados y autoridades en congregaciones, comunidades y rancherías.
 
@@ -1078,3 +1082,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 JUAN JOSE RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
