@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2001-06-23"
+last_updated: "2002-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -395,11 +395,11 @@ El Diputado que sin causa justificada, faltare a cinco sesiones continuas o a di
 
 El Congreso del Estado se renovará cada tres años contados desde el 18 de Agosto hasta el 17 de Agosto de los años respectivos.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Art. 36.
 
-La Legislatura del Estado celebrará anualmente dos Períodos de Sesiones Ordinarias: Uno que contará desde el 18 de Agosto hasta el 17 de Diciembre y otro que comenzará el 18 de Marzo terminando el 17 de Mayo. En los Recesos del Congreso podrán verificarse Períodos de Sesiones Extraordinarias por el tiempo y objeto que así lo exija la importancia de los asuntos, en los términos de las Convocatorias respectivas.
+La Legislatura del Estado celebrará anualmente dos periodos ordinarios de sesiones: uno que contará desde el 18 de agosto hasta el 17 de diciembre y, previa aprobación, podrá prorrogarse hasta el día 30 del mismo mes; y otro que comenzará el 18 de febrero terminando el 17 de mayo, pudiendo también, previa aprobación, prorrogarse hasta el día 30 del mismo mes. En los recesos del Congreso podrán verificarse períodos extraordinarios de sesiones por el tiempo y objeto que así lo exija la importancia de los asuntos, en los términos de las convocatorias respectivas.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
@@ -427,7 +427,9 @@ Durante el receso, el Congreso solo podrá ser convocado a sesiones extraordinar
 
 l. Por la Diputación Permanente.
 
-II. Por el Ejecutivo.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2002)</small>
+
+II. Por el Ejecutivo, siempre y cuando la solicitud se presente por medio de la Diputación Permanente. En este caso, el gobernador rendirá informe por conducto del secretario general de Gobierno, en la sesión de apertura del periodo de sesiones extraordinarias sobre los asuntos que motivaron la convocatoria.
 
 III. Por acuerdo de las dos terceras partes del número total de los Diputados, pero por conducto de la Permanente.
 
@@ -1733,6 +1735,10 @@ Las elecciones del Gobernador del Estado, de los miembros del Congreso y de los 
 
 Los partidos políticos son entidades de interés público. La ley determinará las formas específicas de su intervención en los procesos electorales y se regirán conforme a los principios, finalidades y prerrogativas ciudadanas que establece la Constitución General de la República.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2002)</small>
+
+Unicamente por medio de los partidos políticos o las coaliciones electorales que estos formen, los ciudadanos podrán ocupar cargos de elección popular en el Estado, de acuerdo con las disposiciones establecidas en esta Constitución y en las leyes de la materia. Quienes habiendo sido postulados candidatos a un cargo de elección popular resulten electos, deberán cumplir en sus acciones de gobierno, con las propuestas registradas en sus respectivas plataformas electorales.
+
 El financiamiento público que reciban los partidos políticos para su sostenimiento y desarrollo de sus actividades tendientes a la obtención del sufragio, será equitativo y de acuerdo con las disponibilidades presupuestales del Estado.
 
 La ley establecerá condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social; fijará los criterios para determinar los límites a las erogaciones que realicen en sus campañas electorales; establecerá los montos máximos que tengan el conjunto de las aportaciones pecuniarias de sus simpatizantes; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deben imponerse por el incumplimiento de estas disposiciones.
@@ -2275,11 +2281,13 @@ Para todos los efectos prevenidos en la Ley Orgánica del Poder Legislativo y el
 
 P.O. 1 DE JUNIO DE 1994.
 
-DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79, P.O. 1º. DE JUNIO DE 1994.
+DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79.
 
 ###### ARTICULO UNICO.
 
-Con fundamento a los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+Con fundamento a los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el
+
+Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 26 DE ABRIL DE 1995.
 
@@ -2349,7 +2357,7 @@ Remítase la minuta aprobada a los Honorables Ayuntamientos Constitucionales del
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION XXVI DEL ART. 47, P.O. 18 DE NOVIEMBRE DE 1995.
+DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION XXVI DEL ART. 47.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
@@ -2438,3 +2446,23 @@ P.O. 23 DE JUNIO DE 2001.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
 Artículo Segundo.- En cumplimiento a lo dispuesto por el artículo 131 de la Constitución Política, remítase el expediente y la Minuta Proyecto de Decreto relativa a los Honorables Ayuntamientos del Estado para los efectos a que alude el mencionado ordenamiento.
+
+P.O. 27 DE JULIO DE 2002.
+
+DECRETO NO. 8442 QUE REFORMA ART. 135.
+
+PRIMERO.- El presente Decreto, previa publicación en el Periódico Oficial, Organo de Gobierno del Estado de Nayarit, entrará en vigor a partir del 1 de enero del año 2003.
+
+SEGUNDO.- Se derogan las disposiciones legales, reglamentarias, acuerdos y disposiciones, que se opongan al presente decreto.
+
+TERCERO.- Remítase el presente Decreto a los H. Ayuntamientos Constitucionales del Estado para los efectos del artículo 131 de la Constitución Política del Estado.
+
+CUARTO.- Se dará un plazo de seis meses a partir de que entre en vigor la presente reforma, para que la Legislatura correspondiente promueva las modificaciones conducentes a la legislación electoral en lo que corresponda, así como a la relativa a las responsabilidades de los servidores públicos.
+
+P.O. 27 DE JULIO DE 2002.
+
+DECRETO NO. 8443 QUE REFORMA ARTICULOS 36 Y 40.
+
+Primero.- El presente decreto entrará en vigor el primero de enero de 2003, debiendo publicarse en el Periódico Oficial, Organo del Gobierno del Estado.
+
+Segundo.- En su oportunidad, y de resultar aprobado por esta Asamblea legislativa, túrnese el presente decreto a los H. Ayuntamientos de los municipios del Estado, para los efectos a que se refiere el artículo 131 de la Constitución Política.
