@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2003-10-01"
+last_updated: "2003-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE OCTUBRE DE 2003 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2003.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE OCTUBRE DE 2003.</small>
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -1715,8 +1715,6 @@ Las modificaciones a los nombres de los Municipios se realizarán a iniciativa d
 
 Los límites de los Municipios quedan determinados en la forma que se encuentran al promulgarse la presente Constitución, y sólo podrán modificarse en los términos ordenados por esta Ley Fundamental.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE OCTUBRE DE 2003 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 118.
 
 El Estado tiene al Municipio Libre como base de su división territorial y de su organización política y administrativa, conforme a las siguientes bases:
@@ -1743,7 +1741,7 @@ III. Son requisitos para ser Presidente Municipal, Síndico o Regidor de los Ayu
 
 a) Ser ciudadano zacatecano, en los términos previstos por la presente Constitución, y estar en pleno goce de sus derechos políticos;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+(REFORMADO, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
 
 b) Ser vecino del Municipio respectivo, con residencia efectiva e ininterrumpida durante los seis meses inmediatos anteriores a la fecha de la elección, o bien, en el caso de los migrantes y binacionales, tener por el mismo lapso la residencia binacional y simultánea.
 
@@ -1761,9 +1759,9 @@ h) No ser Magistrado del Tribunal Superior de Justicia, Juez de primera instanci
 
 i) No ser miembro de los órganos electorales, del Tribunal Estatal Electoral, ni prestar servicios de carácter profesional en alguno de ellos, salvo que hubiese renunciado ciento ochenta días antes de la elección. Se exceptúan de tal prohibición los consejeros representantes del Poder Legislativo y los representantes de los partidos políticos;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+(REFORMADA, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
 
-II (SIC). Los partidos políticos o coaliciones tendrán derecho a regidores por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos el dos punto cinco por ciento de la votación municipal efectiva en el proceso electoral municipal correspondiente.
+IV. Los partidos políticos o coaliciones tendrán derecho a regidores por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos el dos punto cinco por ciento de la votación municipal efectiva en el proceso electoral municipal correspondiente.
 
 La ley establecerá las fórmulas y los procedimientos para la asignación de los Regidores por el principio de representación proporcional de los Ayuntamientos.
 
