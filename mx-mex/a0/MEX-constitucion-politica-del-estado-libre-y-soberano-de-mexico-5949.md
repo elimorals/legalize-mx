@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1941-12-20"
+last_updated: "1942-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 1941.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JULIO DE 1942.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -86,6 +86,10 @@ G.G. 20 DE DICIEMBRE DE 1941.
 DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCION VIII, 115 Y 117, SE ADICIONAN LOS ARTICULOS 73 Y 89 DE LA CONSTITUCION PARTICULAR DEL ESTADO CON UNA FRACCION EL PRIMERO Y CON DOS EL SEGUNDO.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 4 DE JULIO DE 1942.
+
+El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -665,21 +669,23 @@ Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publ
 
 Las faltas temporales del Gobernador que no excedan de treinta días, las cubrirá, por ministerio de Ley, el Secretario General de Gobierno, o, en su caso, el Oficial Mayor, quien nombrará un Secretario General interino encargado del Despacho.
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
 
 ###### Art. 81.
 
-En las faltas temporales del Gobernador Constitucional que excedan de treinta días y en las absolutas, la falta se cubrirá en los términos que establece el artículo 79. En este último caso, el nombramiento se hará de entre los miembros de la Legislatura.
+En las faltas temporales del Gobernador que excedan de treinta días, la falta se cubrirá en los términos que establece el artículo 79.
+
+> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
 
 ###### Art. 82.
 
-Si la falta de Gobernador fuere absoluta, y faltaren aún dos años o más, para que termine el período Constitucional, la Legislatura inmediatamente después de cumplir con lo prevenido en los artículos 79 y 81 convocará a nuevas elecciones y el que resulte electo ejercerá sus funciones hasta finalizar el indicado período constitucional.
+Si la falta del Gobernador fuere absoluta, la Legislatura se constituirá en Colegio Electoral y hará la designación de Gobernador Substituto, quien ejercerá sus funciones hasta terminar el período constitucional de que se trate.
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
 
 ###### Art. 83.
 
-Si por cualquier motivo la Legislatura no pudiera hacer el nombramiento a que se refieren los artículos 79 y 81, ni expedir la convocatoria de que habla el 82, y hubiere por consiguiente acefalía, de los Poderes Ejecutivo y Legislativo, el Secretario General de Gobierno, o en su caso, el Oficial Mayor, se hará cargo del Poder Ejecutivo.
+Si por cualquier motivo la Legislatura no pudiere hacer el nombramiento a que se refieren los artículos 79, 81 y 82, y hubiere por consiguiente acefalía de los Poderes Ejecutivo y Legislativo, el Secretario General de Gobierno o en su caso el Oficial Mayor, se hará cargo del Poder Ejecutivo.
 
 ###### Art. 84.
 
@@ -693,9 +699,11 @@ El ciudadano que substituyere al Gobernador Constitucional en sus faltas tempora
 
 El cargo de Gobernador del Estado es renunciable por causa grave calificada por la Legislatura ante la que se presentará la renuncia.
 
+> <small>(REFORMADO, G.G. 4 DE JULIO DE 1942)</small>
+
 ###### Art. 87.
 
-El Gobernador Constitucional y el Interino en su caso, prestarán la protesta constitucional, ante la Legislatura.
+El Gobernador del Estado prestará la protesta ante la Legislatura.
 
 #### SECCION SEGUNDA. DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR
 
