@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1940-01-04"
+last_updated: "1940-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1940.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1009,15 +1009,21 @@ La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, 
 
 Los Ayuntamientos, en unión de un Representante por cada Partido Político, con voz pero sin voto, harán la calificación de las elecciones de funcionarios Municipales, en su jurisdicción, cuya calificación es revisable por el Congreso del Estado en el caso de la Fracción XXXIII bis del artículo 43 de la presente ley. Los propios Ayuntamientos harán la declaratoria respectiva una vez confirmada la calificación por el Congreso, en su caso.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1938)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1940)</small>
 
 ###### Art. 115.
 
-Las faltas temporales del Presidente Municipal, cuando no excedan de cinco días, serán cubiertas por el Secretario del Ayuntamiento, con el carácter de Encargado del Despacho, bastando el aviso respectivo que dará el Presidente al propio Ayuntamiento.
+Las faltas temporales del Presidente Municipal, cuando no excedan de diez días, serán cubiertas por el Secretario del H. Ayuntamiento con el carácter de Encargado del Despacho, bastando solamente el aviso respectivo que dará el Presidente al propio Ayuntamiento.
 
-Cuando la falta excediere del tiempo señalado en el párrafo anterior, sólo podrá separarse de su puesto mediante licencia concedida por el Ayuntamiento y lo substituirá el Presidente Municipal Suplente. Más si éste no radicara en la cabecera o estuviera ausente de ella al faltar el titular, el Ayuntamiento nombrará de entre sus miembros, un Presidente Municipal Provisional. El Suplente del electo será llamado a substituirlo como Regidor.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1940)</small>
 
-En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado - salvo por causa de fuerza mayor evidente– sin la previa autorización del Ayuntamiento. Cuando infringiere el anterior precepto, perderá automáticamente su carácter de funcionario y sólo podrá recuperarlo mediante el juicio respectivo.
+Cuando la falta excediere del tiempo señalado en el párrafo anterior, el Presidente sólo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento y lo substituirá el Presidente Municipal Suplente. Más si éste no radicara en la Cabecera o estuviera ausente de ella, al faltar el Titular, el Ayuntamiento eligirá (sic) de entre sus miembros a un Presidente Municipal Provisional. El Suplente del electo será llamado a substituirlo como Regidor.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1940)</small>
+
+En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado, salvo causa de fuerza mayor debidamente comprobada, sin la previa autorización del Ayuntamiento. Cuando infringiere el anterior precepto, perderá automáticamente su carácter de Funcionario y sólo podrá recuperarlo mediante el juicio respectivo.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1938)</small>
 
 Las faltas temporales de los demás Regidores, serán cubiertas por sus respectivos suplentes, al igual que las absolutas de cualquier Regidor, por mientras se hace nueva elección.
 
@@ -1546,5 +1552,9 @@ P.O. 21 DE DICIEMBRE DE 1939.
 UNICO. Esta reforma empieza a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE ENERO DE 1940.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO DE 1940.
 
 Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
