@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1939-07-31"
+last_updated: "1945-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1945.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
 
@@ -5385,25 +5385,29 @@ III. Continua;
 
 IV. Pública.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+
 ###### Artículo 1069.
 
-Los bienes inmuebles se prescriben:
+Los bienes inmuebles prescriben:
 
-I. En cinco años, cuando se poseen en concepto de propietario, con buena fe, pacifica, continua y públicamente;
+I.- En diez años, cuando se poseen en concepto de propietario, con buena fé, pacífica, contínua y públicamente;
 
-II. En cinco años, cuando los inmuebles hayan sido objeto de una inscripción de posesión;
+II.- En diez años, cuando los inmuebles hayan sido objeto de una inscripción de posesión;
 
-III. En diez años, cuando se posean de mala fe, si la posesión es en concepto de propietario, pacífica, continua y pública;
+III.- En veinte años, cuando se posean de mala fé, si la posesión es en concepto de propietario, pacífica, contínua y pública;
 
-IV. Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído o que, por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquél.
+IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído o que, por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquél.
 
 ###### Artículo 1070.
 
 Los bienes muebles se prescriben en tres años cuando son poseídos con buena fe, pacifica y continuamente. Faltando la buena fe, se prescribirán en cinco años.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+
 ###### Artículo 1071.
 
-Cuando la posesión se adquiere por medio de violencia aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de diez años para los inmuebles y de cinco años para los muebles, contados desde que cese la violencia.
+Cuando la posesión se adquiera por medio de violencia aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de veinte años para los inmuebles y de cinco años para los muebles, contados desde que cese la violencia.
 
 ###### Artículo 1072.
 
@@ -11441,11 +11445,11 @@ VIII. Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2331 y 2332.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
+
 ###### Artículo 2338.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate, han sufrido una alza después de que se celebró el contrato de arrendamiento.
-
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+Vencido un contrato de arrendamiento, tendrá derecho el inquilino a que se le prorrogue hasta por tres años, siempre que esté al corriente en el pago de las rentas. Podrá el arrendador aumentar hasta un 10% la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate han sufrido una alza después de que se celebró el contrato de arrendamiento. Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento cuyo término ha vencido, los propietarios que quieran habitar la casa o cultivar la finca, personalmente; quienes deberán dar aviso a los arrendatarios con seis meses de anticipación, ocurriendo al mismo tiempo ante la autoridad judicial competente, justificando la necesidad de la medida. Los términos establecidos por este artículo no son renunciables y cualquier pacto en contrario será nulo.
 
 ###### Artículo 2339.
 
@@ -13913,7 +13917,7 @@ VI. La responsabilidad civil en la parte que comprende el pago de los gastos de 
 
 ### CAPITULO IV. Del registro de las informaciones de dominio
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO 1 DEL DECRETO NUMERO 37, PUBLICADO EN EL P.O. DE 11 DE MAYO DE 1939, HASTA EN TANTO SE IMPRIMA UNA ORGANIZACION ADECUADA AL REGISTRO PUBLICO DE LA PROPIEDAD RAIZ EN EL ESTADO, SE SUSPENDE LA APLICACION DE LA PARTE FINAL DEL PRESENTE PARRAFO.</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1945)</small>
 
 ###### Artículo 2821.
 
@@ -14111,15 +14115,15 @@ Los derechos y obligaciones de los registradores así como las fórmulas y demá
 
 ###### Artículo 2849.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1073 por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
+El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso si no está en el caso de deducir la acción que le concede el artículo 1073 por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles.
 
-La información se recibirá con citación del Ministerio Público, del respectivo registrador de la Propiedad y de los colindantes.
+La información se recibirá con citación del Ministerio Público, del Representante del Fisco del Estado, y de los colindantes, en su caso.
 
-Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
+Los testigos deben ser por lo menos cinco de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
 
-No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
+No se recibirá la información sin que previamente se haya dado una amplia publicación por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
 
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+Comprobada debidamente la posesión el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y la primera copia certificada de las diligencias originales que se expida o el primer testimonio del Notario, cuando aquéllas fueren protocolizadas, se tendrá como título de propiedad y será inscrito en el Registro Público en la forma que establece el artículo 26 de la Ley sobre Reorganización del Registro Público de la Propiedad en el Estado, vigente.
 
 ###### Artículo 2850.
 
@@ -14306,3 +14310,17 @@ Articulo Unico.- Esta Ley empezara a regir desde la fecha de su publicación en 
 P.O. 31 DE JULIO DE 1939.
 
 Artículo Unico.- Esta Ley empezará a regir desde la fecha de su publicación.
+
+P.O. 12 DE FEBRERO DE 1945.
+
+###### ARTICULO PRIMERO.
+
+En la prórroga de tres años a que se refiere el artículo 2338 reformado, quedará incluida la prórroga de un año o el tiempo que de ella hubiere transcurrido, a contar del momento en que entre en vigor la presente Ley.
+
+###### ARTICULO SEGUNDO.
+
+Los artículos 1069 y 1071, que se refieren a la prescripción adquisitiva, se aplicarán a los plazos que estén corriendo para prescribir, pero el tiempo transcurrido se computará aumentándolo en la misma proporción en que ha aumentado el nuevo término fijado.
+
+###### ARTICULO TERCERO.
+
+Esta Ley empezará a regir desde el día de su publicación en el Periódico Oficial del Gobierno.
