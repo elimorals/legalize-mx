@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1928-06-10"
+last_updated: "1928-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -453,12 +453,6 @@ II.- Ser abogado con título oficial, no obteniendo a título de suficiencia, ni
 
 III.- Tener treinta años cumplidos de edad, el día de la elección, estar en pleno ejercicio de sus derechos políticos y civiles, y haber observado una buena conducta pública y notoria.
 
-###### Artículo 4°
-
-Los Magistrados serán electos por el Congreso en funciones de Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto.
-
-Durarán en su encargo el tiempo que la ley señale, pero desde el año de mil novecientos veintitrés los Magistrados y los Jueces de Primera Instancia sólo podrán ser removidos de sus cargos cuando observen mala conducta, previo el juicio de responsabilidad respectivo, o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud para el desempeño del mismo cargo, que calificará quién hubiere hecho el nombramiento.
-
 ### CAPITULO SEGUNDO.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
@@ -664,3 +658,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 10 DE JUNIO DE 1928.
 
 UNICO.- El presente decreto surtirá sus efectos desde la fecha de su expedición.
+
+P.O. 17 DE JUNIO DE 1928.
+
+###### Art. 3°.
+
+El presente decreto surtirá sus efectos desde la fecha de su expedición.
