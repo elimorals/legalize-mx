@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1984-01-04"
+last_updated: "1986-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1986.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -4279,7 +4279,9 @@ II.- Por los informes o certificaciones que soliciten el Gobierno Federal o las 
 
 III.- Por los informes que se soliciten para asuntos penales o para juicios de amparo por parte de Autoridad competente; los certificados, inscripciones y demás servicios que se soliciten por las Autoridades Fiscales del Gobierno del Estado de Morelos, causarán los derechos que corresponden conforme a las disposiciones del Artículo anterior; pero estos se harán efectivos dentro del procedimiento administrativo de ejecución como parte del crédito fiscal.
 
-### CAPITULO QUINTO. DE TRANSITO
+### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1986)</small>
 
 ###### ARTICULO 418.
 
@@ -4483,437 +4485,315 @@ Están obligados al Registro de Títulos quienes ejerzan una Profesión en el Es
 
 No están obligados al pago de los derechos de Registro y Licencia los Profesores que ejerzan su actividad exclusivamente al servicio de establecimientos oficiales o incorporados a la Secretaría de Educación Pública del Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 1986)</small>
+
 ### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
 
 ###### ARTICULO 424.
 
-Los servicios que preste la Dirección de Policía y Tránsito del Estado de Morelos, causarán derechos conforme a la siguiente:
+Los servicios de control vehicular se causarán y pagarán conforme a la siguiente:
 
 TARIFA
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+I.- Licencias.
 
-I.- Inscripción y Control de Vehículos:
+A.- Por la expedición inicial de Licencia de manejo con vigencia de cinco años.
 
-A.- Automóviles particulares
+a).- Para chofer $ 5,400.00
 
-a).- Por la expedición inicial de placas
+b).- Para automovilista $ 3,600.00
 
-calcamanías (sic) y tarjetas de circulación. :(sic) $ 2,960.00;
+c).- Para motociclista $ 1,800.00
 
-b).- Por canje de placas, calcomanías y
+d).- Para turista $ 1,000.00
 
-tarjetas de circulación bianual: $ 2,960.00;
+B.- Por la expedición de licencias de manejo de cualesquiera de las categorías, se cobrarán los derechos de acuerdo con lo establecido en el Inciso A):
 
-c).- Por reposición de placas, por cada una
+C.- Por el resello anual de licencias:
 
-por extravió o deterioro: $ 2.000.00;
+a).- Para choferes $ 1,800.00
 
-d).- Por cambio de propietario, incluyendo
+b).- Automovilistas $ 1,400.00
 
-expedición de placas, calcomanías y tarjetas
+c).- Motociclistas $ 900.00
 
-de circulación: $ 2,960.00;
+D.- Por la expedición de permisos provisionales por tiempo determinado para:
 
-e).- Por reposición de tarjetas de circulación: $ 500.00;
+a).- Manejar sin licencia hasta por un término de 30 días.
 
-f).- Por reposición de calcomanía, o autorización
+1.- Chofer $ 1,200.00
 
-a circular sin la misma: $ 500.00;
+2. - Automovilista $ 1,000.00
 
-). (sic) Por la expedición de permiso para circular
+3.- Motociclista $ 700.00
 
-sin placas ni tarjeta de circulación por 30 días: $ 500.00
+B.- Manejar sin licencia hasta por un término de 20 días.
 
-h).- Para agencias a (sic) distribución de vehículos
+1.- Chofer $ 800.00
 
-nuevos o usados por 30 días: $ 2,300.00;
+2.- Automovilista $ 700.00
 
-i).- Depósito por falta de la baja del automóvil
+3.- Motociclista $ 500.00
 
-particular emplacado en otra Entidad Federativa: $1,000.00;
+C.- Manejar sin licencia hasta por un término de 10 días.
 
-j).- Por cesión de derechos sobre automóvil
+1.- Chofer $ 700.00
 
-de servicio público: $40,000.00;
+2.- Automovilista $ 500.00
 
-k).- Por sustitución de automóvil de servicio
+3.- Motociclista $ 300.00
 
-público por tres días: $1,500.00;
+D.- Manejar sin licencia siendo menor de edad.
 
-l).- Por constancia de baja y alta para
+1.- Por noventa días $ 1,000.00
 
-el Registro Federal de Automóviles: $500.00;
+2.- Por ciento ochenta días $ 1,500.00
 
-B.- Camiones de carga particular:
+3.- Por trescientos sesenta días $ 2,000.00
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+II.- Placas, calcomanías y tarjeta de circulación:
 
-a).- Por la expedición inicial de placas y
+A.- Expedición de placas, calcomanías y tarjeta de circulación:
 
-tarjetas de circulación: $4,336.00;
+a).- Auto particular $ 3,760.00
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+b).- Camión particular $ 8,100.00
 
-b).- Por canje de placas y tarjeta de
+c).- Remolques con capacidad hasta dos toneladas $ 3,760.00
 
-circulación bianual: $4,336.00;
+> <small>(F. DE E., P.O. 5 DE MARZO DE 1986)</small>
 
-c).- Por reposición de placas, por cada una,
+d).- Remolque con capacidad de más de dos toneladas $ 8,100.00
 
-por extravío o deterioro: $3,800.00;
+e).- Demostradoras $ 3,760.00
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+f).- Transporte Escolar $ 5,500.00
 
-d).- Por cambio de propietario, incluyendo
+g).- Motocicleta $ 320.00
 
-expedición de placas, calcomanías y tarjeta
+h) Bicicleta $ 320.00
 
-de circulación: $4,336.00;
+i).- Auto de servicio público $ 5,600.00
 
-e).- Por reposición de tarjeta de circulación: $750.00;
+j).- Combis de patrimonio comunal $ 5,600.00
 
-f).- Por reposición de calcomanías o autorización
+k).- Camión materialista $ 12,200.00
 
-a circular sin la misma: $750.00;
+l).- Camiones de carga en general $ 12,200.00
 
-g).- Por la expedición de permiso para circular
+m).- Camiones de pasajeros urbanos y suburbanos $ 25,000.00
 
-sin placas ni tarjeta de circulación, por 30 días: $1,500.00;
+B.- Refrendo anual de placas, calcomanías y tarjetas de circulación:
 
-h).- Por cesión de derechos sobre camión
+a).- Auto particular 2 días de salario
 
-de carga de servicio público: $20,000.00;
+b).- Camión particular 4 días de salario
 
-C.- OMNIBUS PARTICULARES: (SIC)
+c).- Remolque con capacidad hasta dos toneladas 2 días de salario
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+d).- Remolque con capacidad de más de dos toneladas4 días de salario
 
-a).- Por la expedición inicial de placas y tarjetas
+e).- Demostradoras2 días de salario
 
-de circulación: $4,336.00;
+f).- Transporte escolar3 días de salario
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+g).- Motocicleta1.5 días de salario
 
-b).- Por canje de placas y tarjeta de circulación
+h).- Bicicleta 0.15 día de salario
 
-bianual: $4,336.00;
+i).- Auto de servicio público3 días de salario
 
-c).- Por reposición de placas por cada una por
+j).- Combis de Patrimonio Comunal3 días de salario
 
-extravío o deterioro: $3,800.00;
+k).- Camión materialista6 días de salario
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+l).-Camiones de carga en general 6 días de salario
 
-d).- Por cambio de propietario, incluyendo
+m).- Camiones de pasajeros urbanos y suburbanos 9.5 días de salario
 
-expedición de placas calcomanías y tarjeta
+C.- otros:
 
-de circulación: $4,336.00;
+a).- Cambio de vehículo de servicio público sin cambio de placas $ 3,500.00
 
-e).- Por reposición de tarjetas de circulación; $750.00;
+b).- Depósito por falta de baja $ 2,500.00
 
-f).- Por reposición de calcomanía o
+c).- Autorización para circular con una sola placa $ 2,400.00
 
-autorización a -circular (sic) sin la misma; $750.00;
+d).- Baja de placas $ 1,200.00
 
-g).- Por la expedición de permiso para circular
+e).- Cambio de propietario de vehículo $ 2,400.00
 
-sin placas ni tarjeta de circulación por 30 días. $1.500.00;
+> <small>(F. DE E., P.O. 5 DE MARZO DE 1986)</small>
 
-D.- Remolques particulares y de carga.
+III.- Concesiones.
 
-a).- Por la expedición de placas y tarjeta de
+A.- Expedición de tarjetón:
 
-circulación a remolque automóvil particular: $2,960.00;
+Todos los vehículos de servicio público 12 días de salario
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+B.- Canje anual de tarjetón:
 
-b).- Por la expedición de placas y tarjeta
+a).- Camión materialista 6 días de salario
 
-de circulación a remolque de tractocamión: $4,336.00;
+b).- Camión de carga en general 5 días de salario
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+c).- Camión materialista y carga 11 días de salario
 
-c).- Por canje de placas y tarjeta de circulación
+d).- Camión materialista a casa establecida 6 días de salario
 
-a remolque de automóvil particular bianual: $2,960.00;
+e).- Camión para cargar plantas y tierra de monte 2 días de salario
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+f).- Auto de servicio público 6 días de salario
 
-d).- Por canje de placas y tarjeta de circulación
+g).- Transporte Escolar de empleados o turismo 2 días de salario
 
-a remolque de tractocamión, bianual: $4,336.00;
+h).- Autobuses 2 días de salario
 
-e).- Por reposición de placas por
+i).- Grúas 6 días de salario
 
-extravío o deterioro: $2,500.00
+j).- Combis de servicio público de pasajeros 6 días de salario
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+C.- Duplicado de tarjetón 2 días de salario.
 
-f).- Por cambio de propietario: $4,336.00;
+D.- Cesión de derechos:
 
-Remolque de automóvil particular, incluyendo
+a).- Camión materialista 36 días de salario
 
-expedición de placas, calcomanía y tarjeta de
+b).- Camión de carga en general 24 días de salario
 
-circulación: $2,960.00;
+c).- Camión materialista y de carga en general 36 días de salario
 
-Remolque de tractocamión, incluyendo expedición
+d).- Auto de alquiler 48 días de salario
 
-de placas, calcomanías y tarjeta de circulación: $6,400.00;
+IV.- Vehículos:
 
-g).- Por reposición por tarjeta de circulación: $750.00;
+A.- Cambio. 3 días de salario.
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+B.- Sustituciones:
 
-h).- Por la expedición de permiso para circular sin
+a).- Local por treinta días:
 
-placas ni tarjeta de circulación, por 30 días: $ 500.00
+1.- Primera vez 3 días de salario
 
-Remolque de automóvil particular: $1,000.00;
+2.- Segunda vez 4 días de salario
 
-Remolque de tractocamión: $1.500.00;
+3.- Tercer vez 5 días de salario
 
-E.- Motocicletas y Motonetas:
+B).- Local por diez días 2 días de salario.
 
-a).- Por expedición inicial de placas y tarjeta
+C).- Foránea por treinta días:
 
-de circulación: $2,000.00;
+1.- Primera vez 3 días de salario
 
-b).- Por canje de placa y tarjeta de circulación anual: $2,000.00,
+2.- Segunda vez 4 días de salario
 
-c).- Por cambio de propietario, incluyendo
+3.- Tercera vez 5 días de salario
 
-placa calcomanía y tarjeta de circulación: $2,000.00;
+D.- Foránea por diez días 1 día de salario.
 
-d).- Por reposición de tarjeta de circulación: $500.00;
+V.- Permisos y autorizaciones de carga:
 
-F.- Bicicletas y triciclos de trabajo:
+A.- Expedición para camiones con capacidad hasta 1,500 kilogramos:
 
-a).- Por la expedición inicial de placa y tarjeta de circulación:
+a).- Con un giro 9 días de salario
 
-Bicicletas: $250.00;
+b) Con dos giros 13 días de salario
 
-Triciclos de trabajo: $500.00;
+c).- Con tres giros 21 días de salario
 
-b).- Por canje de placas y tarjeta de circulación bianual:
+d).- Con cuatro giros 27 días de salario
 
-Bicicletas: $250.00;
+e).- Con cinco giros 36 días de salario
 
-Triciclos de Trabajo: $500.00;
+f).- Sin giro para carga por 30 días 6 días de salario
 
-c).- Por reposición de tarjeta de circulación, para
+g) Sin giro para carga por 15 días 3 días de salario
 
-bicicletas y triciclos de trabajo: $200.00;
+B.- Expedición para camiones capacidad de más de 1,500 kilogramos:
 
-II.- Para unidades de las descritas en los incisos a), b), c) y d) destinadas al servicio público, las tarifas indicadas, se incrementan en un 50%.
+a).- Con un giro 17 días de salario
 
-III.- Licencias:
+b).- Con dos giros 26 días de salario
 
-A.- Expedición de Licencias:
+c).- Con tres giros 36 días de salario
 
-a).- Para chofer: $2,250.00;
+d).- Con cuatro giros 43 días de salario
 
-b).- Para automovilistas: $1,500.00;
+e).- Con cinco giros 52 días de salario
 
-c).- Para motociclistas: $750.00;
+C.- Expedición para camiones de carga con conversión:
 
-d).- Provisionales por 10 días: $300.00;
+a).- Con un giro 14 días de salario
 
-e).- Por reposición de licencias, cualquier tipo,
+b).- Con dos giros 20 días de salario
 
-cada vez por extravío o deterioro, lo mismo de
+c).- Con tres giros 26 días de salario
 
-los incisos a, b, c.
+d).- Con cuatro giros32 días de salario
 
-f).- Por la expedición de permisos para
+e).- Con cinco giros 40 días de salario
 
-aprendizaje de manejo, por 30 días: $1,000.00;
+D.- Expedición de permisos provisionales para circular sin placas y sin documentación:
 
-B.- Resello de licencias:
+a).- Para automóvil por treinta días 1.5 días de salario
 
-a).- Para chóferes, automovilistas y motociclistas: $750.00;
+b).- Por automóvil por quince días 1 día de salario
 
-C.- Infracciones:
+c).- Para camión por treinta días 3 días de salario
 
-a).- Por expedir certificado de "NO INFRACCIÓN"
+d).- Para camión por quince días 2 días de salario
 
-En licencias de manejo, tarjeta de circulación
+e).- Para camión o auto por tres días 0.5 día de salario
 
-o placa del Estado de Morelos: $500.00;
+E.- Conversión 2 días de salario.
 
-D.- Protección y control de vehículos en depósito:
+F.- Para remolque 2 días de salario.
 
-a).- Por arrastre de grúa en la vía pública: $500.00;
+G.- Para transporte de caña 1 días de salario.
 
-b).- Automóviles de la vía pública a los corralones: $500.00;
+H.- Permiso anual para terminales de línea:
 
-c).- Camionetas en la vía pública a los corralones: $750.00;
+a).- Servicio inter-urbano:
 
-d).- Otros vehículos no considerados: $1,000.00;
+1.- En Cuernavaca 36 días de salario
 
-IV.- Permisos y concesiones:
+2.- En Cuautla y Jojutla 36 días de salario
 
-A.- Expedición de concesión de taxi y auto
+3.- En otras poblaciones 12 días de salario
 
-de servicio público, por cada vehículo:
+b) Servicio Urbano:
 
-a).- Para automóviles en las ciudades de
+1.- En Cuernavaca 36 días de salario
 
-Cuernava (sic) y Cuautla: $50,000.00;
+2.- En Cuautla y Jojutla 36 días de salario
 
-b).- Para automóviles en la Ciudad de Jojutla: $40,000.00;
+3.- En otras poblaciones 12 días de salario
 
-c).- En los demás Municipios del Estado: $25,000.00;
+I.- Concesiones de ruta:
 
-B.- Expedición de Concesión de servicio Público para cada vehículo:
+a).- Por cada autobús urbano y suburbano 59 días de salario
 
-a).- Para transporte de materiales para construcción: $30,000.00;
+b).- Por cada camión materialista 40 días de salario
 
-b).- Para carga en general: $20,000.00;
+c).- Para camiones de carga en general 30 días de salario
 
-c).- Permiso para transporte de caña Anual: $2,500.00;
+d).- Para combis del servicio público con itinerario fijo 69 días de salario
 
-d).- Autorización de carga para camión o
+e).- Para taxis del servicio público sin itinerario fijo 69 días de salario
 
-camioneta de más de 1,500 kgs. de
+VI.- Inspección mecánica:
 
-capacidad particular por actividad: $10,000.00;
+a).- Por la revisión semestral de vehículos de carga particulares y todos los de servicio público 1 día de salario
 
-e).- Autorización de carga clasificada para
+VII.- Expedición de:
 
-camioneta hasta 1,500 kgs. de capacidad: $7,000.00;
+A.- Duplicado de tarjetas de circulación:
 
-f).- Autorización de carga para vehículo
+a).- Del servicio público 2 días de salario
 
-particular por única vez por 72 horas: $1,500.00;
+b).- Autos o camiones particulares y motos 1 día de salario
 
-g).- Autorización de carga para motociclistas,
-
-triciclos y otros vehículos con o sin considerar
-
-caja cerrada, plataforma y otros aditamentos: $2,000.00;
-
-C.- (PASA AL V, OTROS SERVICIOS).(SIC)
-
-D.- Expedición de permiso anual para Estacionamientos:
-
-a).- De sitios de vehículos de Servicio Público:
-
-1.- En Cuernavaca, Cuautla y Jojutla:
-
-Por vehículo: $1,000.00;
-
-2.- En las demás poblaciones:
-
-Por vehículo: $500.00;
-
-E.- Sanción Administrativa por no cumplir con
-
-la revista reglamentaria semestral en general:
-
-a).- Por no presentarse en la fecha boletinada
-
-o no cumplir con los ordenamientos en el plazo
-
-señalado, por cada una: $500.00;
-
-F.- REPOSICIÓN: (SIC)
-
-a).- Tarjetón:
-
-1.- De permiso de sitio: $1,000.00;
-
-2.- De permiso para transporte de materiales
-
-para construcción: $1,000.00;
-
-3.- DE CONCESIÓN DE RUTA: (SIC) $1,000.00;
-
-G.- AUTORIZACIÓN PARA CAMBIO: (SIC)
-
-a).- De motor a un vehículo: $1,000.00;
-
-b).- De tipo o de características de
-
-carrocería a un vehículo: $1,000.00;
-
-H.- Cambio de vehículo destinado a servicio
-
-público sin cambio de placas: $1,500.00;
-
-I.- Remarcar el motor de un vehículo: $1,000.00;
-
-V.- OTROS SERVICIOS. (SIC)
-
-Por la expedición de placas
-
-demostradora (sic) cada vez: $2,960.00;
-
-VI.- INSPECCION DE VEHÍCULOS Y OTROS SERVICIOS:(SIC)
-
-A.- Automóviles de Servicio Público:
-
-a).- Por derechos de inspección y expedición
-
-de revista mecánica para vehículos de carga
-
-y servicio público, por semestre: $500.00;
-
-B.- EXPEDICIÓN DE PERMISO ANUAL PARA TERMINALES DE LINEA: (SIC)
-
-a).- Servicio Interurbano:
-
-1.- Cuernavaca: $15,000.00;
-
-2.- En Cuautla y Jojutla: $15,000.00;
-
-3.- En las demás poblaciones: $5,000,00;
-
-b).- SERVICIO URBANO: (SIC)
-
-1.- En Cuernavaca: $15,000.00;
-
-2.- En Cuautla y Jojutla: $15,000.00;
-
-3.- En las demás poblaciones: $ 5,000.00;
-
-C.- EXPEDICIÓN DE CONCESIÓN DE RUTA POR CADA VEHÍCULO: (SIC)
-
-a).- Para autobuses: $25,000.00;
-
-b).- Para camiones: $15,000.00;
-
-D.- REFRENDO ANUAL, PARA CADA VEHÍCULO: (SIC)
-
-a).- Permiso de sitio: $2,500.00;
-
-b).- Permiso para transporte de materiales
-
-de construcción: $2,500.00;
-
-c).- Permiso para autobuses Urbanos, SubUrbano, (sic)
-
-Foráneos, con ruta dentro del Estado: $2,500.00;
-
-d).- Permiso para vehículo de carga en general: $2,000.00;
-
-E.- CONCESION DE RUTA, REFRENDO A SU
-
-VENCIMIENTO, MISMA CUOTA ANTERIOR QUE
-
-PARA LA EXPEDICIÓN: (SIC)
-
-1.- CESIÓN DE DERECHOS POR CADA VEHÍCULO
-
-DE CONCESIÓN DE RUTA:
-
-a).- De permiso de sitio: $40,000.00;
-
-b).- De permiso para transporte de material
-
-de construcción: $30,000.00; (sic)
+B.- Certificaciones 1 día de salario.
 
 ###### ARTICULO 425.
 
@@ -5620,3 +5500,13 @@ EL SUB-SECRETARIO DE FINANZAS DEL ESTADO
 C.P. y L.E. JORGE GÓMEZ EICHELMAN
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE FEBRERO DE 1986.
+
+Primero.- Se derogan todas las disposiciones que contravengan a las presentes reformas.
+
+Segundo.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos de su promulgación y publicación en el Periódico Oficial del Estado.
