@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "1986-12-26"
+last_updated: "1987-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -39,7 +39,9 @@ LEY DE TRANSITO DEL ESTADO DE SONORA.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. DEL OBJETO DE LA LEY
+> <small>(REFORMADA SU DENOMINACION, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### ARTICULO 1o.
 
@@ -63,9 +65,13 @@ II.- Los Ayuntamientos de los Municipios del Estado.
 
 Compete al Gobernador del Estado:
 
-I.- Ejercer el mando supremo de las fuerzas de policía de tránsito en la Entidad, para organizarlas y movilizarlas de acuerdo con las necesidades y requerimientos públicos.
+> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-II.- Nombrar y remover libremente a los Jefes y Oficiales Superiores de la Policía de Tránsito en cada Municipio, en la misma forma y términos que para el nombramiento y remoción de los Jefes y Oficiales Superiores de la Policía Preventiva, establece la Ley 112 Reglamentaria de la Fracción XX del Artículo 79, del inciso h) del Artículo 137 y Artículo 138 de la Constitución Política del Estado de Sonora.
+I.- Ejercer el mando supremo de las Policías de Tránsito Municipales, para organizarlas y movilizarlas de acuerdo con las necesidades y requerimientos públicos. Asimismo, disponer de la Policía de Tránsito del Municipio donde residiere habitual o transitoriamente.
+
+> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+II.- Nombrar a los Jefes y a los demás Oficiales Superiores de las Policías de Tránsito Municipales, así como remover libremente a los mismos. En el ejercicio de esta facultad, serán aplicables las disposiciones que para los nombramientos y remociones de los Jefes y Oficiales Superiores de las Policías Preventivas Municipales establece la Ley de Seguridad Pública para el Estado de Sonora.
 
 III.- Establecer y ejecutar las políticas de vialidad en las carreteras y caminos de jurisdicción estatal.
 
@@ -83,9 +89,13 @@ Compete a los Ayuntamientos de los respectivos Municipios:
 
 I.- Organizar y prestar, en los términos de esta Ley, el servicio público de tránsito.
 
-II.- Ejercer el mando inmediato de la policía de tránsito municipal, sin perjuicio de las facultades que esta Ley y demás disposiciones legales relativas le confieren al Gobernador del Estado.
+> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-III.- Proponer al Gobernador del Estado terna de candidatos para el nombramiento de Jefes y Oficiales Superiores de la Policía de Tránsito, en la misma forma y términos que para el nombramiento de Jefes y Oficiales Superiores de la Policía Preventiva establece la Ley 112 Reglamentaria de la Fracción XX del Artículo 79, del inciso h) del Artículo 137 y Artículo 138 de la Constitución Política del Estado de Sonora. En la Capital del Estado, el Gobernador nombrará y removerá libre y directamente a los Jefes y Oficiales Superiores de la Policía de Tránsito Municipal.
+II.- Expedir, con sujeción a la presente Ley, la cual se constituye como la base normativa para el ejercicio de su facultad reglamentaria, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
+
+> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
 
 IV.- Establecer, con el concurso del Estado y conforme lo determinen los Planes de Desarrollo Urbano y Rural, las políticas de vialidad en las zonas urbanas y rurales del Municipio de que se trate. Dichas políticas deberán contener la estructura vial primaria, secundaria, local y peatonal, así como las características y normas técnicas respecto de estacionamientos, señalamientos y demás dispositivos e indicadores para el control del tránsito.
 
@@ -103,7 +113,13 @@ X.- Resolver en los términos que señala esta Ley los recursos de reconsideraci
 
 XI.- Ordenar la ejecución de sus decisiones mediante el uso de la fuerza pública cuando el caso lo amerite.
 
-XII.- Los demás que ésta y otras disposiciones legales les señale.
+> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+XII.- Elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias, para la eficaz prestación del servicio público de tránsito; y
+
+> <small>(ADICIONADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+XIII.- Lo demás que ésta y otras disposiciones legales le señalen.
 
 ###### ARTICULO 6o.
 
@@ -119,29 +135,59 @@ IV.- Entregar un instructivo a los choferes al solicitar el revisado de sus unid
 
 V.- Cumplir y hacer cumplir esta Ley y las disposiciones que de ella emanen.
 
-Los cargos de Jefe de Policía de Tránsito y de Jefe de Policía Preventiva de un Municipio, podrán recaer en la misma persona y para ocupar dichos cargos se requiere tener una comprobada experiencia en el ramo y solvencia moral acreditada, preferentemente, deberán ser egresados de la Escuela de Policía del Estado, o tener una antigüedad de cinco años en el servicio por lo menos.
+> <small>(DEROGADO PENULTIMO PARRAFO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-Se consideran Jefes y Oficiales Superiores de las Policías de Tránsito Municipales, a los Jefes, Subjefes, Jefes de Departamento, Tenientes y Subtenientes, en los mismos términos que para los Jefes y Oficiales Superiores de las Policías Preventivas Municipales, establece la Ley 112 Reglamentaria de la Fracción XX del Artículo 79, del inciso h) del Artículo 137 y Artículo 138 de la Constitución Política del Estado de Sonora.
+> <small>(DEROGADO ULTIMO PARRAFO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+
+> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 7o.
 
-Son Agentes de Tránsito, los encargados de hacer cumplir las determinaciones de las autoridades de tránsito y de vigilar la observancia de la presente Ley, en los términos de sus comisiones o de las funciones que sean acordes con sus nombramientos.
+Los Presidentes Municipales de cada Ayuntamiento serán los Jefes inmediatos de las Policías de Tránsito Municipales y, con excepción de los Jefes y de los demás Oficiales Superiores, tendrán la facultad de nombrar y remover libremente al personal de dichas corporaciones.
 
-Los Comisarios y Delegados Municipales ejercerán las funciones de Agentes de Tránsito dentro de sus respectivas jurisdicciones.
+Serán Jefes y Oficiales Superiores de las Policías de Tránsito Municipales, los Jefes y los Subjefes. Los cargos de Jefe de Policía de Tránsito Municipal y de Jefe de Policía Preventiva de un Municipio, podrán recaer en la misma persona.
+
+> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 8o.
 
-Los Agentes de Tránsito actuarán en auxilio de la policía judicial, en la investigación, averiguación y persecución de hechos delictuosos derivados de las actividades reguladas por esta Ley.
+Para los efectos de la disciplina y del mando, los integrantes de las Policías de Tránsito Municipales ostentarán los siguientes grados jerárquicos:
 
-Las partes que rindan los Agentes de Tránsito y las actuaciones que levanten los Jefes de Tránsito, harán prueba en la averiguación o el juicio criminal correspondiente, siempre que estén certificados por dos testigos de asistencia o por el Secretario de la Jefatura si existe y se refieran a materia de tránsito.
+I.- JEFE;
+
+II.- SUBJEFE;
+
+III.- COMANDANTE DE UNIDAD;
+
+IV.- OFICIAL PRIMERO;
+
+V.- OFICIAL SEGUNDO;
+
+VI.- SUBOFICIAL; y
+
+VII.- AGENTE DE TRANSITO.
+
+Todo lo relativo a uniformes, insignias, divisas, manifestación, posesión y portación de armas, deberes y prohibiciones que, para los integrantes de las Policías Preventivas, señala la Ley de Seguridad Pública para el Estado de Sonora, será aplicable para los integrantes de las Policías de Tránsito Municipales.
+
+> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 9o.
 
-Los Agentes y las autoridades de tránsito, no podrán recoger ni exigir la entrega de licencias, tarjetas de circulación, placas y vehículos, sino en los casos expresamente previstos en esta ley, en la comisión de algún delito o cuando el conductor siendo procedente de otro Estado o País no garantice el cumplimiento del pago de las infracciones en que incurra.
+Los integrantes de las Policías de Tránsito Municipales serán los encargados de hacer cumplir las determinaciones de las autoridades señaladas en el Artículo 3º., de esta Ley, y de vigilar en los términos de sus comisiones o de las funciones que sean acordes con sus jerarquías, el cumplimiento del presente ordenamiento y de los reglamentos, circulares y demás disposiciones de observancia general que emitan los Ayuntamientos.
+
+Los Comisarios y los Delegados Municipales ejercerán las funciones a que se refiere el párrafo que antecede, dentro de sus respectivas jurisdicciones, cuando no existan en las mismas, elementos de la Policía de Tránsito Municipal.
+
+Los integrantes de las Policías de Tránsito Municipales actuarán en auxilio de la Policía Judicial, en la investigación, averiguación y persecución de hechos delictuosos derivados de las actividades reguladas por esta Ley.
+
+> <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
 ###### ARTICULO 10.
 
-Las autoridades de tránsito deberán elaborar y mantener permanentemente actualizadas las estadísticas que resulten necesarias para la eficaz prestación del servicio público de tránsito.
+Los (sic) partes que rindan los integrantes de las Policías de Tránsito Municipales harán prueba en la averiguación o el juicio criminal correspondiente, siempre que estén certificados por dos testigos de asistencia o por el Secretario de la Corporación, si existe y se refieran a materia de tránsito.
+
+Los integrantes de las Policías de Tránsito Municipales no podrán recoger ni exigir la entrega de licencias, tarjetas de circulación, placas y vehículos, sino en los casos expresamente previstos en esta ley, en la comisión de algún delito, o cuando el conductor, siendo procedente de otro Estado o País no garantice el cumplimiento del pago de las infracciones en que incurra.
+
+Las Policías de Tránsito Municipales podrán, previo acuerdo de los Ayuntamientos, ejercer las atribuciones asignadas a las Policías Preventivas en la Ley de Seguridad Pública para el Estado de Sonora. Dicho acuerdo deberá publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ### CAPITULO II. DE LA JURISDICCION
 
@@ -771,7 +817,7 @@ Dispositivos acústicos y ópticos en vehículos de emergencia.
 
 a).- Todo vehículo de emergencia autorizado, además del equipo y dispositivos obligatorios, deberá estar provisto de una sirena y/o campana capaces de dar una señal acústica audible, a una distancia no menor de 150 metros.
 
-b).- Además deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
+b).- Además, deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia a delante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado por la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
 
 c).- Estos dispositivos no los utilizarán otros vehículos que no sean los de emergencia autorizados.
 
@@ -1923,7 +1969,7 @@ SR-16 La señal ANCHURA LIBRE RESTRINGIDA se utilizará para advertir a los cond
 
 SR-17 La señal PESO MAXIMO RESTRINGIDO se colocará en los puentes u otros lugares del camino donde sea necesario limitar el peso de los vehículos, ya sea por la capacidad de los puentes ó por la de la superficie de rodamiento. Dentro del círculo se marcará el peso máximo permitido en toneladas.
 
-SR-18 La señal PROHIBIDO REBASAR se empleará para advertir a los conductores de vehículos los tramos en que no se permita rebasar a otros vehículo, por las condiciones especiales del ancho del camino, visibilidad, etc.
+SR-18 La señal PROHIBIDO REBASAR se empleará para advertir a los conductores de vehículos los tramos en que no se permita rebasar a otro vehículo, por las condiciones especiales del ancho del camino, visibilidad, etc.
 
 SR-19 La señal PEATONES A SU IZQUIERDA se usará en las regiones o tramos de caminos con tránsito frecuente de peatones, para advertir a estos que para su propia seguridad deben caminar al lado izquierdo, de frente al tránsito que se aproxima.
 
@@ -2592,3 +2638,13 @@ Lic. Carlos Gámez Fimbres.
 B.O. 26 DE DICIEMBRE DE 1986.
 
 UNICO.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1º de enero de 1987.
+
+B.O. 3 DE SEPTIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
