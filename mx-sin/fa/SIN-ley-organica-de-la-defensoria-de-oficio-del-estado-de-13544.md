@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-defensoria-de-oficio-del-estado-de-13544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-18"
-last_updated: "1993-08-18"
+last_updated: "2004-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 18 de agosto de 1993.
 
@@ -76,6 +76,10 @@ Los servicios en asuntos de materia civil, familiar y administrativa, se prestar
 ###### ARTICULO 8o.
 
 Será obligatoria la prestación de los servicios en los asuntos en que, de acuerdo a las pertinentes disposiciones de la legislación adjetiva correspondiente, el Juez de la causa o la Sala de (sic) Tribunal designe Defensor de Oficio a la parte que carezca de abogado.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+
+Tratándose de juicios en los cuales se asigne la defensa de personas indígenas que no hablen español, se proporcionará la asistencia de un defensor que hable su lengua, en los términos y condiciones que prescribe esta Ley.
 
 ### CAPITULO III. DEL NOMBRAMIENTO Y DE LAS FUNCIONES DEL DIRECTOR
 
@@ -520,3 +524,11 @@ Renato Vega Alvarado
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Francisco C. Frías Castro
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE FEBRERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
