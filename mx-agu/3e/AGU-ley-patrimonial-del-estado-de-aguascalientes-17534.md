@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2000-09-25"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -393,9 +393,11 @@ I. Un presidente, que será el titular de la Secretaría;
 
 II. Un Secretario Ejecutivo, que será la entidad responsable de llevar a cabo las adquisiciones a favor de los sujetos de la Ley;
 
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
+
 III. Tres vocales con voz y voto que serán:
 
-Un representante del Comité de Planeación del Estado de Aguascalientes; Un representante de la Secretaría de Finanzas o su similar en sus Municipios; y un representante de la cámara o asociación del ramo correspondiente;
+Un representante de la Secretaría de Planeación del Estado, un representante de la Secretaría de Finanzas o su similar en sus Municipios, y un representante de la cámara o asociación del ramo correspondiente;
 
 IV. Dos vocales con voz pero sin voto que serán:
 
@@ -1313,9 +1315,9 @@ Si algún proveedor participante en alguna licitación pública, concurso o invi
 
 La resolución que emita la Contraloría, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, tendrá, por consecuencia:
 
-La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la Ley;
+(sic) La nulidad del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la Ley;
 
-II (sic). La nulidad total del procedimiento; o
+II. La nulidad total del procedimiento; o
 
 III. La declaración de improcedencia de la inconformidad.
 
@@ -1394,3 +1396,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2002.
