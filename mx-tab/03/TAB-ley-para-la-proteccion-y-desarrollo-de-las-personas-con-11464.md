@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-y-desarrollo-de-las-personas-con-11464"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-18"
-last_updated: "1997-01-18"
+last_updated: "2003-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA PROTECCION Y DESARROLLO DE LOS DISCAPACITADOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 18 de enero de 1997.
 
@@ -45,39 +45,71 @@ LEY PARA LA PROTECCIÓN Y DESARROLLO DE LOS DISCAPACITADOS DEL ESTADO DE TABASCO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público e interés social y tiene por objeto establecer las normas y acciones para promover el desarrollo e integración de los discapacitados y senescentes a la vida social y productiva del Estado.
+La presente Ley es de orden público e interés social, sus disposiciones son de observancia general en todo el Estado de Tabasco, y tienen por objeto establecer las normas y acciones que contribuyan a lograr la equiparación de oportunidades para promover el desarrollo e integración de los discapacitados a la vida social y productiva del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 2.
 
-Para los efectos de esta ley, se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
 I.- Barreras arquitectónicas: Aquellos elementos de construcción que dificulten, entorpezcan o impidan el libre desplazamiento en espacios exteriores o interiores, de lugares públicos, privados o sociales a personas discapacitadas o que dificulten, entorpezcan o impidan el uso de los servicios e instalaciones;
 
-II.- Discapacitado: Toda persona con capacidad disminuida o limitada para realizar por sí misma, las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social;
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
 
-III.- Legislación Asistencial: Ley del Sistema Estatal de Asistencia Social;
+II.- Discapacidad: Cualquier disminución física o intelectual que impida el desempeño de una actividad, producida por circunstancias de variada naturaleza, como son alteraciones hereditarias, congénitas y perinatales, infecciones, traumatismos, enfermedades degenerativas que por su duración y secuelas pueden producir deficiencias en el lenguaje, el movimiento, la audición, la vista, la conducta y la capacidad intelectual;
 
-IV.- Legislación Sanitaria: Ley de Salud del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-V.- Legislación sobre Desarrollo Urbano: Los Reglamentos de Construcciones y demás disposiciones análogas;
+III.- Discapacitado: Toda persona con capacidad disminuida o limitada para realizar por sí misma, las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social;
 
-VI.- Legislación Vial: Ley General de Transporte y Vialidad del Estado de Tabasco y sus Reglamentos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-VII.- Ley: El presente ordenamiento;
+IV.- Educación Especial: Actividad orientada intencionalmente para promover el desenvolvimiento, tratamiento y formación de las personas desfavorecidas física o psíquicamente;
 
-VIII.- Lugares con Acceso al Público: Los inmuebles de dominio público o privado, que en razón de la naturaleza de las actividades que en ellos se realizan, permiten el libre tránsito de las personas o en su caso, de vehículos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-IX.- Protección a Senescentes: El conjunto de programas y acciones destinadas a cuidar, defender y respetar la integridad física, mental y moral de las personas de la tercera edad;
+V.- Legislación Asistencial: Ley del Sistema Estatal de Asistencia Social;
 
-X.- Rehabilitación: El conjunto de programas y acciones médicas, Psicológicas, sociales, educativas y ocupacionales que el Estado fomenta y establece por otras instituciones o servicios públicos o privados que tengan por objeto que los discapacitados logren su máximo grado de recuperación funcional a fin de realizar actividades que les permitan ser útiles a sí mismos, a su familia e integrarse a la vida social;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-XI.- Senescente: Persona que en razón de su avanzada edad padece disminución o limitación de sus facultades de locomoción, visión o audición;
+VI.- Legislación Sanitaria: Ley de Salud del Estado de Tabasco;
 
-XII.- DIF: Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-XIII.- Vía Pública: Los espacios terrestres de uso común, destinados al tránsito de peatones y vehículos de fuerza motriz, propulsión humana o tracción animal.
+VII.- Legislación sobre Desarrollo Urbano: Ley de Desarrollo Urbano y Ordenamiento Territorial del Estado de Tabasco, su Reglamento, los Reglamentos de Construcciones y demás disposiciones análogas locales;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+VIII.- Legislación Vial: Ley de Vías de Comunicación y Transporte del Estado y sus Reglamentos;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+IX.- Perro guía: Animal canino que haya sido entrenado por un profesional, para el auxilio o apoyo de una persona con discapacidad;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+X.- Ley: El presente ordenamiento;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XI.- Lugares con Acceso al Público: Los inmuebles de dominio público o privado, que en razón de la naturaleza de las actividades que en ellos se realizan, permiten el libre tránsito de las personas, o en su caso, de vehículos;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XII.- Rehabilitación: El conjunto de programas, acciones médicas, psicológicas, sociales, educativas y ocupacionales que tienen por objeto que los discapacitados logren su máximo grado de recuperación funcional a fin de realizar actividades que les permitan ser útiles a sí mismos, a su familia e integrarse a la vida social y productiva;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XIII.- DIF: Sistema Estatal para el Desarrollo Integral de la Familia; y
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XIV.- Vía Pública: Los espacios terrestres de uso común, destinados al tránsito de peatones y vehículos de fuerza motriz, propulsión humana o tracción animal.
 
 ###### ARTÍCULO 3.
 
@@ -105,15 +137,19 @@ c).- El establecimiento de las normas técnicas correspondientes; y
 
 d).- Las campañas de difusión y medidas en materia de educación vial y cortesía urbana.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 5.
 
-Corresponde al Ejecutivo del Estado, establecer las normas técnicas en materia de prevención y rehabilitación de las personas con discapacidad y la coordinación, supervisión y evaluación del cumplimiento de las mismas de parte de las instituciones públicas, sociales y privadas que persigan estos fines. Para ello, se elaborará un Programa de Prevención de Discapacidades y Orientación a Discapacitados que tenderá a la orientación, planeación familiar, consejo genético, atención prenatal, perinatal, detección y diagnóstico precoz, asistencia pediátrica en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo, el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para realizar esta labor.
+Corresponde al Ejecutivo del Estado, y a los Ayuntamientos, en el ámbito de su competencia, establecer las normas técnicas en materia de prevención y rehabilitación de las personas con discapacidad y la coordinación, supervisión y evaluación del cumplimiento de las mismas de parte de las instituciones públicas, sociales y privadas que persigan estos fines. Para ello, se elaborará un Programa de Prevención de Discapacidades y Orientación a Discapacitados que tenderá a la orientación, planeación familiar, consejo genético, atención prenatal, perinatal, detección y diagnóstico precoz, asistencia pediátrica en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo, el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para realizar esta labor.
 
 ###### ARTÍCULO 6.
 
 Corresponde al Ejecutivo del Estado a través del DIF, las Secretarías de Educación y de Salud, así como de las dependencias y direcciones generales en los asuntos de su competencia, la aplicación de la presente Ley.
 
-El Gobernador del Estado, podrá convenir con los Presidentes Municipales o Primeros Concejales la aplicación de esta Ley.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
+El Gobernador del Estado, podrá convenir con los Presidentes Municipales o Primeros Concejales la aplicación de esta Ley, sin perjuicio de lo que en el ámbito de sus respectivas competencias les corresponde.
 
 ###### ARTÍCULO 7.
 
@@ -135,7 +171,15 @@ VII.- Promover la captación de recursos que sean destinados al desarrollo de ac
 
 VIII.- Recibir y canalizar a las instancias competentes, quejas y sugerencias sobre la atención de las autoridades a los discapacitados;
 
-IX.- Las demás que le señale el Ejecutivo del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2003)</small>
+
+IX.- Vigilar y supervisar el estricto cumplimiento de las disposiciones de esta Ley por las autoridades encargadas de su aplicación;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+X.- Vigilar que las medidas que se adopten en acatamiento de las disposiciones de esta Ley sean uniformes en todo el territorio de la entidad y armonicen con las disposiciones emanadas, principalmente, de las legislaciones vial, sanitaria y asistencial vigentes en el Estado, así como de otros ordenamientos legales y reglamentarios que incidan en la materia; y
+
+XI.- Las demás que le señale el Ejecutivo del Estado.
 
 ###### ARTÍCULO 8.
 
@@ -167,17 +211,43 @@ V.- Los programas especializados de capacitación, orientación y rehabilitació
 
 VI.- Las demás que le encomiende el Titular del Ejecutivo en el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde al Ejecutivo del Estado a través del DIF, la creación de un Consejo Estatal Promotor para el Desarrollo de las personas con discapacidad que deberá estar integrado por: Un Presidente que será en todo caso, el Titular del Poder Ejecutivo del Estado o la persona que este designe, un Secretario y Vocales que incluya a Profesionales de la Medicina, Educación, Psicología, Trabajo Social, así como a representantes de organizaciones de personas con discapacidad.
+Corresponde al Ejecutivo del Estado a través del Sistema DIF, la creación de un Consejo Estatal Promotor para el Desarrollo de las Personas con Discapacidad que deberá estar integrado por: Un Presidente que será en todo caso, el Titular del Poder Ejecutivo del Estado o el servidor público que éste designe, un Secretario y Vocales que incluya a profesionales de la Medicina, Educación, Psicología, Trabajo Social, así como a representantes de organizaciones de personas con discapacidad. También podrá invitarse a formar parte de este Consejo a los Ayuntamientos de la entidad, quienes serán representados por el Presidente Municipal o por el servidor público que al efecto designe.
+
+Los municipios del Estado que cuenten con capacidad de recursos humanos, materiales y financieros y que así lo requieran, podrán crear su propio Consejo Municipal Promotor para el Desarrollo de las Personas con Discapacidad; mismo que estará integrado por el Presidente Municipal o Primer Concejal o la persona que éstos designen, quien los presidirá, un Secretario y Vocales que incluya a profesionales de la Medicina, Educación, Psicología, Trabajo Social, así como a representantes de organizaciones de personas con discapacidad, ubicadas en el municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 10 BIS.- Son facultades del Consejo Estatal Promotor para el Desarrollo de las Personas con Discapacidad, las siguientes:
+
+I.- La orientación terapéutica, tratamiento necesario de acuerdo a las posibilidades de recuperación, así como el seguimiento y revisión de la misma;
+
+II.- Valorar las posibilidades de integración de menores con discapacidad a la educación básica regular o en su caso, a la educación especial;
+
+III.- Difundir la cultura de la integración y respeto hacia los discapacitados, así como facilitar su acceso a los medios de comunicación y apoyos a través de todos los sectores institucionales;
+
+IV.- Ejercer la supervisión y vigilancia que proceda en los planteles en que se imparta educación a los discapacitados;
+
+V.- Implementar espacios adecuados en los planteles educativos públicos, para los discapacitados;
+
+VI.- Coordinar, concertar, supervisar y evaluar el cumplimiento de los programas y normas técnicas con la participación de las instituciones públicas, privadas y sociales relacionadas con la educación de las personas con discapacidad;
+
+VII.- Coordinar con el sector salud la implementación de los programas de salud aplicados a personas con discapacidad; y
+
+VIII.- Las demás que se acuerden en el seno del mismo y le señale el titular del Ejecutivo del Estado.
 
 ## TÍTULO SEGUNDO
 
 ### CAPÍTULO I. DE LOS PROCESOS DE REHABILITACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 11.
 
-Los procesos de rehabilitación de los discapacitados comprenden:
+Los procesos de rehabilitación de los discapacitados podrán comprender:
 
 I.- Rehabilitación médico-funcional;
 
@@ -187,9 +257,11 @@ III.- Educación general y especial;
 
 IV.- Rehabilitación socioeconómica y laboral.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 12.
 
-El Estado a través de DIF, impulsará, fomentará y desarrollará con otras instituciones, servicios públicos y privados, las acciones y programas que comprende el proceso rehabilitatorio, hasta las comunidades más apartadas.
+El Estado a través del DIF, impulsará, fomentará y desarrollará en coordinación con otras instituciones, servicios públicos y privados, las acciones y programas que comprende el proceso rehabilitatorio, llevándolo hasta las comunidades más apartadas.
 
 ###### ARTÍCULO 13.
 
@@ -233,9 +305,11 @@ Los procesos de rehabilitación se complementarán con la prescripción y la ada
 
 La orientación y tratamiento psicológico se emplearán durante las distintas fases del proceso rehabilitador del discapacitado, se procurará su inicio en el seno familiar e irán encaminadas a lograr la superación de su situación y el desarrollo de su personalidad e integración social.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 18.
 
-El apoyo y orientación psicológicos considera las características personales del discapacitado, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle y estarán dirigidos a optimizar al máximo el uso de sus potencialidades.
+El apoyo y orientación psicológicos considerará las características personales del discapacitado, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle y estarán dirigidos a optimizar al máximo el uso de sus potencialidades.
 
 ### CAPÍTULO IV. REHABILITACIÓN SOCIOECONÓMICA Y LABORAL
 
@@ -258,6 +332,10 @@ La orientación ocupacional tendrá en cuenta las potencialidades reales de las 
 ###### ARTÍCULO 21.
 
 Los procesos de rehabilitación serán prestados tomando en cuenta la coordinación entre las bases médica, escolar y laboral.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas que permitan a la persona con discapacidad que la recibe, desarrollar una actividad productiva demandada en el mercado mediante alguna ocupación o algún oficio calificado.
 
 ###### ARTÍCULO 22.
 
@@ -283,6 +361,10 @@ III.- La canalización hacia organismos especializados, en los casos específico
 
 Para cumplir con sus objetivos los equipos interdisciplinarios implementarán un sistema de prestación de servicios para los discapacitados, basado en la valoración y calificación que de su discapacidad se haga, estos servicios se otorgarán a quienes carezcan de medios para recibirlos de otras instituciones.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+La calificación y valoración realizada por los equipos interdisciplinarios, responderá a criterios técnicos y tendrá validez ante cualquier organismo público del Estado.
+
 ## TÍTULO TERCERO
 
 ### CAPÍTULO ÚNICO. DE LA EDUCACIÓN
@@ -291,9 +373,11 @@ Para cumplir con sus objetivos los equipos interdisciplinarios implementarán un
 
 De acuerdo con el resultado del diagnóstico respectivo, la persona con discapacidad se integrará al sistema educativo general ordinario, recibiendo en su caso los programas de apoyo que la Ley le otorgue.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 27.
 
-La educación especial será impartida a aquellos a los que resulte imposible la integración en el sistema educativo ordinario y de acuerdo con lo previsto por la Ley de Educación.
+La educación especial será impartida a aquellas personas con discapacidad a quienes, de acuerdo a la valoración requieren de atención especializada y resulte imposible su integración en el sistema educativo ordinario y de acuerdo con lo previsto por la Ley de Educación.
 
 Las Unidades de Rehabilitación impulsarán y estimularán investigaciones en el campo psicopedagógico, social y laboral para adecuar permanentemente los requerimientos metodológicos e instrumentos adecuados para las personas con discapacidad.
 
@@ -313,11 +397,45 @@ III.- El fomento y la promoción de todas las potencialidades del discapacitado 
 
 IV.- Desarrollar al máximo su capacidad de aprendizaje;
 
-V.- La incorporación a la vida social y un sistema de trabajo que permita al discapacitado servirse a sí mismo, a la sociedad y autorrealizarse.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+V.- La incorporación a la vida social y un sistema de trabajo que permita al discapacitado servirse a sí mismo, a la sociedad y autorrealizarse;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+VI.- La admisión y atención de menores con discapacidad en los centros de desarrollo infantil;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+VII.- Establecimiento de programas de conocimiento, asesoría y orientación dirigidos a propiciar la comprensión y respeto de los discapacitados en todos los niveles educativos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+VIII.- Fortalecer la educación nutricional hacia la población más susceptible de padecer cualquier tipo de discapacidad para su prevención;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+IX.- Capacitar a padres o tutores, así como también a los maestros y personal de escuelas de educación básica regular, que integren alumnos con necesidades especiales de educación; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+X.- Los maestros de educación básica regular deberán de crear y promover las condiciones interpersonales, metodológicas y pedagógicas para la atención y aceptación de menores con discapacidad dentro del aula regular.
 
 ###### ARTÍCULO 30.
 
 El DIF, promoverá la creación de un Centro de Apoyo a la Educación y Rehabilitación de Discapacitados; que tendrá como objeto la enseñanza del manejo de sillas de ruedas, conducir un vehículo adaptado, uso del bastón blanco, el ábaco, lectoescritura en sistema braille y en general todos los recursos que la tecnología moderna proporcione.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 30 BIS.- Cuando la severidad de la discapacidad lo haga imprescindible, la educación se llevará a cabo en centros especiales, que funcionarán en coordinación con los centros ordinarios.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 30 BIS 1.- La educación especial deberá contar con el personal interdisciplinario, técnicamente capacitado, que en actuación multiprofesional, provea las diversas atenciones que cada discapacitado requiera.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 30 BIS 2.- Todo personal que intervenga en la educación especial deberá poseer la especialización, experiencia y aptitudes necesarias, además se procurará que el personal encargado de la elaboración de los programas correspondientes, cuente con Título Profesional.
 
 ###### ARTÍCULO 31.
 
@@ -343,6 +461,10 @@ El Consejo Estatal Promotor en coordinación con las autoridades competentes, co
 
 El Estado a través del DIF establecerá programas de promoción del trabajo de las personas con discapacidad, creando al efecto una bolsa de trabajo, en la que se concentren listas de aspirantes con sus aptitudes y capacidad.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+De igual manera, el Servicio Estatal de Empleo, en el ámbito de su competencia procurará incluir dentro de sus programas de colocación y capacitación a personas con discapacidad, que puedan desarrollar alguna actividad laboral.
+
 ###### ARTÍCULO 36.
 
 Se crearán Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado; realizando un trabajo productivo, el personal discapacitado, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Tabasco (DIF).
@@ -363,35 +485,85 @@ Los Centros Especiales de Empleo podrán ser creados por la Autoridad Pública, 
 
 Los discapacitados que deseen ingresar a un Centro Especial de Empleo, deberán inscribirse en la oficina correspondiente, la que clasificará a los demandantes de empleo en razón del tipo y grado de dificultad.
 
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 40 BIS.- El trabajo que realice el discapacitado en los Centros Especiales de Empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, en orden a favorecer su adaptación personal y social y facilitar en su caso, su posterior integración laboral en el mercado ordinario de trabajo.
+
 ###### ARTÍCULO 41.
 
 El Gobierno del Estado y los municipios, promoverán el establecimiento de talleres de fabricación, distribución y reparación de prótesis, órtesis y otros aparatos de ayuda para las diferentes discapacidades.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+Así como, fomentar el establecimiento de microempresas o talleres para que las personas con discapacidad puedan desarrollar las actividades inherentes a sus conocimientos técnicos y sirvan de aprendizaje para otros.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 41 BIS.- La asignación y el desempeño de la actividad laboral en los términos de los artículos anteriores, deberán ser autorizados y supervisados, en su caso, por la Dirección del Trabajo y Previsión Social del Estado o por la instancia que al efecto se hubiere creado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 41 BIS 1.- Las personas con requerimientos especiales que presenten sus servicios en las entidades referidas en los artículos 41 y 41 Bis de esta Ley, gozarán de iguales derechos y estarán sujetos a las mismas obligaciones que la legislación laboral prescribe para el trabajador común, siempre y cuando las consideraciones hechas en el certificado correspondiente lo permitan. En caso contrario, dicho certificado establecerá las excepciones aplicables.
 
 ## TÍTULO QUINTO
 
 ### CAPÍTULO I. DE LAS ACTIVIDADES CULTURALES, RECREATIVAS Y DEPORTIVAS
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 42.
 
-El Estado impulsará y fortalecerá entre las personas con discapacidad y senescentes las actividades deportivas, de cultura física y recreativa, como medio para el desarrollo e integración a la sociedad.
+El Estado y los municipios impulsarán y fortalecerán entre las personas con discapacidad, las actividades deportivas, de cultura física y recreativa, como medio para el desarrollo e integración a la sociedad, tomando en cuenta su discapacidad física, mental y de relación, con base en los siguientes aspectos:
+
+I.- Instrucción;
+
+II.- Entretenimiento;
+
+III.- Instalaciones;
+
+IV.- Acceso; y
+
+V.- Equipo.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 43.
 
-El Estado promoverá que a las personas con discapacidad y senescentes se les brinden facilidades de acceso a museos, teatros, cines, bibliotecas, instalaciones deportivas y de recreación.
+El Estado y los municipios, en el ámbito de sus competencias, promoverán que a las personas con discapacidad se les brinden facilidades de acceso a museos, teatros, cines, bibliotecas, instalaciones deportivas y de recreación.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 44.
 
-El Estado propiciará la adecuación de las instalaciones deportivas, recreativas, los hoteles, las playas, los estadios deportivos y gimnasios, tanto públicas como privadas a fin de hacerlas accesibles al uso y disfrute de las personas con discapacidad.
+El Estado y los municipios propiciarán en el ámbito de sus respectivas competencias, la adecuación de las instalaciones deportivas, recreativas, los hoteles, las playas, los estadios deportivos y gimnasios, tanto públicas como privadas, a fin de hacerlos accesibles al uso y disfrute de las personas con discapacidad, aún para los que no puedan ocupar asientos ordinarios, en cualquier recinto en que se presenten espectáculos públicos, de conformidad con el presente ordenamiento y demás aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 45.
 
-El Estado fomentará la participación de personas con discapacidad y senescentes en actividades deportivas y culturales mediante eventos deportivos, talleres y cursos artísticos, capacitación teatral, uso del lenguaje braille, lenguaje manual y otras semejantes.
+El Estado y los municipios, a través de las Instituciones correspondientes fomentarán la participación de personas con discapacidad en actividades deportivas y culturales mediante eventos deportivos, talleres y cursos artísticos, capacitación teatral, uso del lenguaje braille, lenguaje manual y otras semejantes.
 
 ### CAPÍTULO II. OTROS ASPECTOS DE LA ATENCIÓN A DISCAPACITADOS
 
 ###### ARTÍCULO 46.
 
 Los servicios sociales para las personas con discapacidad o senescentes tienen como objetivo garantizar el logro de adecuados niveles de desarrollo personal y de su integración a la comunidad.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 46 BIS.- La prestación de servicios a los discapacitados, se atenderá en razón a un estudio socioeconómico que estará indistintamente a cargo del DIF Estatal o DIF Municipal, y comprenderá:
+
+I.- Asistencia médica y rehabilitatoria;
+
+II.- Orientación y capacitación ocupacional;
+
+III.- Orientación y capacitación a la familia o a tercera persona en su atención;
+
+IV.- Prescripción y adaptación de prótesis, órtesis y equipos indispensables en su rehabilitación e integración;
+
+V.- Educación; y
+
+VI.- Recuperación laboral.
 
 ###### ARTÍCULO 47.
 
@@ -409,13 +581,17 @@ IV.- Se procurará, hasta el límite que impongan los distintos tipos de discapa
 
 Sin perjuicio de lo dispuesto en otros artículos de esta ley, las personas con discapacidad tendrán acceso a los servicios sociales de orientación familiar, de información, albergues comunitarios, de actividades culturales, recreativas, deportivas y ocupación del tiempo libre.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 49.
 
-La orientación familiar tendrá como objetivo la información y adiestramiento para atender a las personas con discapacidad o senescentes y a la adecuación del entorno familiar para satisfacer las necesidades rehabilitatorias a su dignificación.
+La orientación familiar tendrá como objetivo la información y adiestramiento para atender a las personas con discapacidad y a la adecuación del entorno familiar, para satisfacer las necesidades rehabilitatorias a su dignificación.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 50.
 
-Los servicios de información oficiales difundirán a las personas con discapacidad y senescentes el conocimiento de las prestaciones a su alcance, así como las condiciones de acceso a las mismas.
+Los servicios de información oficiales difundirán a las personas con discapacidad, el conocimiento de las prestaciones a su alcance, así como las condiciones de acceso a las mismas.
 
 ###### ARTÍCULO 51.
 
@@ -425,9 +601,11 @@ Los servicios de albergues y centros comunitarios tienen como objetivo atender l
 
 Los albergues y centros comunitarios podrán ser promovidos por la administración pública, organizaciones privadas, por las propias personas con discapacidad o por sus familiares.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 53.
 
-Las actividades deportivas, culturales, recreativas y de uso del tiempo libre de la persona con discapacidad o senescentes, se desarrollarán siempre que sea posible, en las instalaciones y con medios de la comunidad; sólo de forma complementaria o subsidiaria podrán establecer modificaciones o adaptaciones a una o varias instalaciones si fuera necesario para promover la integración.
+Las actividades deportivas, culturales, recreativas y de uso del tiempo libre de la persona con discapacidad, se desarrollarán siempre que sea posible, en las instalaciones y con medios de la comunidad; sólo de forma complementaria o subsidiaria podrán establecer modificaciones o adaptaciones a una o varias instalaciones si fuera necesario para promover la integración.
 
 ## TÍTULO SEXTO
 
@@ -441,11 +619,19 @@ I.- El sistema de transporte deberá cumplir con las especificaciones técnicas 
 
 II.- Los discapacitados podrán hacer uso del servicio, los asientos y espacios preferenciales que para tal efecto sean destinados en las unidades del transporte público;
 
-III.- La legislación vial estatal, establecerá las normas para el uso adecuado de zonas preferenciales para estacionamiento de vehículos en los que viajen personas con discapacidad o senescentes tanto en la vía pública como en lugares con acceso al público.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-A efecto de facilitar el estacionamiento de vehículos de los cuales tengan que descender o ascender personas con discapacidad, la autoridad correspondiente dispondrá las medidas necesarias que inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones; y
+III.- La legislación vial estatal, establecerá las normas para el uso adecuado de zonas preferenciales para estacionamiento de vehículos en los que viajen personas con discapacidad, tanto en la vía pública como en lugares con acceso al público.
 
-IV.- Previa solicitud y autorización de la autoridad competente, los discapacitados podrán incorporarse a las excepciones contempladas en los programas de restricción a la circulación vehicular.
+A efecto de facilitar el estacionamiento de vehículos de los cuales tengan que descender o ascender personas con discapacidad, la autoridad correspondiente dispondrá las medidas necesarias que inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+IV.- Previa solicitud y autorización de la autoridad competente, los discapacitados podrán incorporarse a las excepciones contempladas en los programas de restricción a la circulación vehicular; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+V.- Las personas con discapacidad visual acompañadas de perros, serán considerados como una unidad y tendrán acceso al transporte público, a los lugares públicos y a los servicios públicos y a aquéllos que los particulares proporcionen. Dicho acceso en ningún caso implicará autorización para efectuar actos de comercio o cualquier otro que implique infracción a normas o reglamentos municipales o internos del área de que se trate.
 
 ### CAPÍTULO II. DE LOS PROGRAMAS DE EDUCACIÓN VIAL, CORTESÍA URBANA Y RESPETO A LOS DISCAPACITADOS
 
@@ -657,13 +843,19 @@ Los señalamientos deberán colocarse en muros o lugares fijos no abatibles, a u
 
 ### CAPÍTULO ÚNICO. ESTÍMULOS
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 89.
 
-El Gobierno del Estado otorgará estímulos y reconocimientos a aquellas personas e instituciones que se hayan distinguido por su apoyo a las personas con discapacidad y a los programas que beneficien, mismos que serán entregados en actos públicos con el propósito de promover dichas actitudes.
+El Gobierno del Estado otorgará estímulos y reconocimientos a aquellas personas, instituciones, centros de educación, capacitación y laborales que se hayan distinguido por su apoyo a las personas con discapacidad y a los programas que beneficien, mismos que serán entregados en actos públicos con el propósito de promover dichas actitudes.
 
 ###### ARTÍCULO 90.
 
 El Ejecutivo del Estado a través del DIF, otorgará estímulos y reconocimientos a las personas con discapacidad que se distingan en cualquier actividad con el propósito de que la sociedad reconozca los hechos y actitudes, que en su desempeño diario o en la realización de acciones específicas, tiendan a la superación en el trabajo, en el deporte, en la ciencia o en el arte.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 90 BIS.- El Ejecutivo del Estado y los Municipios, en los términos de las disposiciones normativas, podrán otorgar estímulos fiscales de acuerdo al número de empleados con discapacidad que conforme a nuevas plazas contraten.
 
 ## TÍTULO OCTAVO
 
@@ -673,39 +865,63 @@ El Ejecutivo del Estado a través del DIF, otorgará estímulos y reconocimiento
 
 Conforme a la presente Ley, son deberes y facultades del Gobierno del Estado, en materia de protección a los discapacitados y senescentes:
 
-I.- Contratar un discapacitado por cada cincuenta trabajadores al servicio de los Poderes del Estado que realice la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-II.- Los senescentes deberán ser ubicados en labores que puedan desempeñar con desahogo y que no afecten su salud ni estado físico pero que puedan desarrollar en beneficio de la colectividad;
+I.- Contratar por lo menos el dos por ciento de discapacitados del total de los trabajadores al servicio de los Poderes del Estado que realicen la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos;
+
+II.- (DEROGADA, P.O. 3 DE MAYO DE 2003)
 
 III.- A través del órgano que corresponda deberá prever presupuestalmente las plazas necesarias para cumplir con la disposición que antecede;
 
-IV.- Procurar el fomento de diversas actividades que permitan un desarrollo integral del discapacitado y del senescente ante la familia, escuela, trabajo, así como en la recreación;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+IV.- Procurar el fomento de diversas actividades que permitan un desarrollo integral del discapacitado ante la familia, escuela, trabajo, así como en la recreación;
 
 V.- Impedir que en las zonas urbanas de nueva creación se construyan aceras, intersecciones, estacionamientos, escaleras, coladeras y rampas que no cumplan con lo especificado en el presente ordenamiento;
 
-VI.- Instrumentar las normas para que las nuevas construcciones que se realicen tanto por parte del sector público, como de los sectores privado y social, con fines de uso comunitario ya sea de servicios administrativos, recreativos o de cualquiera otra naturaleza, cuenten con obstáculos viales en los términos a que se contrae la presente Ley, observando las especificaciones que en la misma se contienen a efecto de beneficiar a discapacitados y senescentes;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+VI.- Instrumentar las normas para que las nuevas construcciones que se realicen tanto por parte del sector público, como de los sectores privado y social, con fines de uso comunitario ya sea de servicios administrativos, recreativos o de cualquiera otra naturaleza, cuenten con facilidades viales en los términos a que se contrae la presente Ley, observando las especificaciones que en la misma se contienen a efecto de beneficiar a discapacitados;
 
 VII.- Apoyar a las autoridades federales, estatales y municipales, que así lo soliciten, en las acciones que emprendan tendientes a la eliminación de obstáculos viales en los diversos espacios urbanos en la Entidad;
 
-VIII.- Dar las facilidades necesarias a las asociaciones civiles cuya finalidad ulterior resulte una mayor integración, en todos los ámbitos, de personas discapacitadas o senescentes;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-IX.- Auxiliar a los organismos de las diferentes esferas de gobierno que trabajen para la integración social y económica y la rehabilitación física de personas discapacitadas o senescentes;
+VIII.- Dar las facilidades necesarias a las asociaciones civiles cuya finalidad ulterior resulte una mayor integración, en todos los ámbitos, de personas discapacitadas;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+IX.- Auxiliar a los organismos de las diferentes esferas de gobierno que trabajen para la integración social y económica y la rehabilitación física de personas discapacitadas;
 
 X.- Proponer programas educacionales y de cortesía en las Entidades de los sectores público, social y privado;
 
-XI.- Otorgar preseas, becas y estímulos en numerario y en especie, a personas discapacitadas o senescentes que hayan destacado en forma sobresaliente en las áreas laboral, científica, técnica, escolar, deportiva o de cualquiera otra índole, en beneficio y como ejemplo a la sociedad;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-XII.- Mantener en buen estado los señalamientos y mobiliario urbano propios para discapacitados y senescentes;
+XI.- Otorgar preseas, becas y estímulos en numerario y en especie, a personas discapacitadas que hayan destacado en forma sobresaliente en las áreas laboral, científica, técnica, escolar, deportiva o de cualquiera otra índole, en beneficio y como ejemplo a la sociedad;
 
-XIII.- Promover la modificación, derogación o abrogación de los ordenamientos estatales vigentes, para la supresión de obstáculos viales en apoyo solidario a discapacitados o senescentes;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-XIV.- La observancia y cumplimiento amplio de las disposiciones contenidas en el presente ordenamiento legal en beneficio de discapacitados y senescentes;
+XII.- Mantener en buen estado los señalamientos y mobiliario urbano propios para discapacitados;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XIII.- Promover la modificación, derogación o abrogación de los ordenamientos estatales vigentes, para la supresión de obstáculos viales en apoyo solidario a discapacitados;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XIV.- La observancia y cumplimiento amplio de las disposiciones contenidas en el presente ordenamiento legal en beneficio de discapacitados;
 
 XV.- Promover que el sector salud establezca módulos de atención integral para discapacitados;
 
-XVI.- Promover se destinen áreas específicas y adecuadas a las necesidades de los discapacitados; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-XVII.- Las demás que resulten de la aplicación de la presente Ley, de las legislaciones viales, sanitaria y asistencial y de los demás ordenamientos legales y reglamentos aplicables en la materia.
+XVI.- Promover se destinen áreas específicas y adecuadas a las necesidades de los discapacitados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2003)</small>
+
+XVII.- Fomentar programas de becas económicas a niños y adolescentes con discapacidad de bajos recursos económicos con el objetivo de garantizar su formación educativa básica; y
+
+XVIII.- Las demás que resulten de la aplicación de la presente Ley, de las legislaciones viales, sanitaria y asistencial y de los demás ordenamientos legales y reglamentos aplicables en la materia.
 
 ###### ARTÍCULO 92.
 
@@ -713,13 +929,17 @@ El Estado, en el ámbito de su competencia, de acuerdo a sus posibilidades y de 
 
 ### CAPÍTULO II. DE LOS DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 93.
 
-Son deberes y facultades de los Ayuntamientos en materia de protección a discapacitados y senescentes:
+Son deberes y facultades de los Ayuntamientos en materia de protección a discapacitados:
 
 I.- Asumir en términos de este ordenamiento y convenios que suscriban con el Ejecutivo del Estado, un programa de supresión de obstáculos viales, en los términos de esta Ley;
 
-II.- Formular y desarrollar programas municipales de atención a discapacitados y senescentes en el marco de los Sistemas Nacional y Estatal de Salud, así como conforme a los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+II.- Formular y desarrollar programas municipales de atención a discapacitados en el marco de los Sistemas Nacional y Estatal de Salud, así como conforme a los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo;
 
 III.- Celebrar convenios de colaboración en la materia con los gobiernos Federal, Estatal y de otros Municipios de la Entidad, así como con Entidades de los sectores públicos, social y privado y con particulares;
 
@@ -727,13 +947,33 @@ IV.- Vigilar el cumplimiento, en la esfera de su competencia en la presente ley,
 
 V.- Conservar en buen estado, libres de tierra, piedras, arena y de cualquier otro material, las rampas construidas en aceras, intersecciones o escaleras de la vía pública;
 
-VI.- Destinar, de los establecimientos públicos, los espacios necesarios para el ascenso y descenso de discapacitados y senescentes;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+VI.- Destinar, de los establecimientos públicos, los espacios necesarios para el ascenso y descenso de discapacitados;
 
 VII.- Gestionar y vigilar el cumplimiento, ante las autoridades y empresas respectivas, de la colocación de teléfonos públicos, de protectores para tensores de postes y de cubiertas para coladeras, con sus respectivos señalamientos;
 
-VIII.- Expedir, modificar y reformar los ordenamientos municipales conducentes a fin de lograr la supresión de los obstáculos viales a que se refiere esta Ley, con la finalidad de beneficiar a discapacitados y senescentes; y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
-IX.- Las demás que le confieran esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
+VIII.- Expedir, modificar y reformar los ordenamientos municipales conducentes a fin de lograr la supresión de los obstáculos viales a que se refiere esta Ley, con la finalidad de beneficiar a discapacitados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2003)</small>
+
+IX.- Contratar por lo menos el dos por ciento de discapacitados del total de los trabajadores al servicio del Gobierno Municipal que realice la misma labor profesional, técnica o manual que cualquier otro, aún cuando para ello se auxilie de aparatos ortopédicos;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2003)</small>
+
+X.- Fomentar programas de becas económicas a niños y adolescentes con discapacidad de bajos recursos económicos, con el objetivo de garantizar su formación educativa básica; y
+
+XI.- Las demás que le confieran esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 93 BIS.- Las obligaciones contenidas en los artículos 91, fracción I y 93, fracción IX, deberán ser observadas por los organismos descentralizados, órganos desconcentrados, las empresas de participación mayoritaria estatal, demás entidades paraestatales, y en general todas aquellas instituciones que dependan de los gobiernos estatal o municipal. Al igual que por los Poderes Legislativo y Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+ARTÍCULO 93 BIS 1.- Las empresas, industrias, comercios y establecimientos en general cuyo capital sea privado, procurarán contratar por lo menos el dos por ciento de su planta laboral a personas con discapacidad, en el caso de que así les sea solicitado por éstas.
 
 ###### ARTÍCULO 94.
 
@@ -757,13 +997,17 @@ Los padres y tutores de discapacitados, podrán agruparse en sociedades o asocia
 
 ### CAPÍTULO I. DE LA VIGILANCIA
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 97.
 
-Compete al Ejecutivo del Estado a través de las Secretarías de Educación, Salud y del DIF, vigilar el cumplimiento de esta Ley.
+Compete al Ejecutivo del Estado, y a los Ayuntamientos en el ámbito de su respectiva competencia, a través de las Secretarías de Educación, Salud y los Sistemas DIF Estatal y Municipal, vigilar el cumplimiento de esta Ley.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 98.
 
-Cualquier persona física o moral que de alguna manera impida o entorpezca el cumplimiento de las disposiciones que esta Ley establece, será sancionada en los términos que la misma señala.
+Cualquier persona física o jurídica colectiva que de alguna manera impida o entorpezca el cumplimiento de las disposiciones que esta Ley establece, será sancionada en los términos que la misma señala; para el efecto el legítimamente interesado deberá efectuar la denuncia correspondiente por sí o por medio de su representante aportando la pruebas necesarias.
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
@@ -823,9 +1067,11 @@ III.- Transcurrido el término antes señalado, si el presunto infractor hubiese
 
 IV.- Concluido el período probatorio o vencido el término de la fracción I, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, la autoridad emitirá resolución, en un término no mayor de diez días hábiles contados a partir del siguiente al término de su comparecencia, determinando si ha lugar o no a la aplicación de la sanción.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 104.
 
-El cobro de las multas que impongan las Direcciones de Obras Públicas Municipales corresponderá a la Tesorería del respectivo Ayuntamiento y las que impongan las autoridades dependientes del Ejecutivo corresponderá a la Secretaría de Planeación y Finanzas, quienes para ello harán uso del procedimiento económico coactivo previsto en la legislación fiscal que resulte aplicable.
+El cobro de las multas que impongan las Direcciones de Obras Públicas Municipales corresponderá a la Tesorería del respectivo Ayuntamiento y las que impongan las autoridades dependientes del Ejecutivo corresponderá a la Secretaría de Finanzas, quienes para ello harán uso del procedimiento económico coactivo previsto en la legislación fiscal que resulte aplicable.
 
 ### CAPÍTULO IV. DEL RECURSO DE RECONSIDERACIÓN
 
@@ -882,3 +1128,27 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. VICTOR MANUEL BARCELÓ RODRÍGUEZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE MAYO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los treinta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto se expide la Ley para la protección de las Personas Adultos (sic) Mayores, se seguirán aplicando las disposiciones contenidas en la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales o reglamentarias, que en lo conducente se oponga a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En las contrataciones de personal que realicen los niveles de Gobierno Estatal y municipal, así como las personas físicas y morales a partir de la fecha en que entre en vigor el presente decreto deberán tomar en cuenta las nuevas disposiciones.
+
+###### ARTÍCULO QUINTO.
+
+En lo que respecta a los programas de becas que se plantea establecer, tanto el gobierno Estatal, como los municipales, empezarán a preverlos para tomarlos en consideración en el presupuesto de egresos del año 2004, a fin de que en el mismo año de inicio.
