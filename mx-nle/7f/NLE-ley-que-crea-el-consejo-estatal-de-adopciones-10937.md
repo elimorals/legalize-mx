@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-estatal-de-adopciones-10937"
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-09"
-last_updated: "1996-02-09"
+last_updated: "1997-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -123,6 +123,26 @@ El Consejo por conducto de su Presidente Ejecutivo, rendirá al Ejecutivo Estata
 
 Las instituciones señaladas en la fracción VII del artículo 2o. de esta ley, darán las facilidades necesarias al Consejo para el cumplimiento de la atribución que se menciona en la misma.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+###### Artículo 11.
+
+Para efecto de dar cumplimiento a la disposición contenida en el artículo 2 fracción VII de esta Ley, se establece que son obligaciones de todas las instituciones que custodian menores de edad en el Estado las siguientes:
+
+a) Registrarse ante el Consejo Estatal de Adopciones dentro de los diez días siguientes a la fecha de iniciación de actividades;
+
+b) Presentar a dicho Consejo un informe trimestral que incluya, entre otros, los datos generales de los menores que custodien y los de quien o quienes autorizaron su ingreso a la institución respectiva;
+
+c) Presentar al consejo un aviso de ingreso y egreso de los menores de edad, dentro de los tres días siguientes a que sucedan estos hechos y acompañando al primero una fotografía del menor; y
+
+d) Proporcionar al Consejo, a través de las personas que para tal efecto designe, las facilidades de acceso a las instalaciones, registros, expedientes así como a los menores en custodia, para verificar la información entregada al mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+###### Artículo 12.
+
+Para los efectos de esta Ley, se consideran instituciones que custodian menores de edad, aquellos que prestan servicios de guardia y cuidado bajo el sistema de internado.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO
@@ -148,3 +168,15 @@ SOCRATES CUAUHTEMOC RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 HECTOR S. MALDONADO PEREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE ENERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
