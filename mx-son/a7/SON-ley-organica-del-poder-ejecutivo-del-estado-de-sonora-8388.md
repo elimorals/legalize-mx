@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1986-12-26"
+last_updated: "1988-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE MARZO DE 1988.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -183,7 +183,9 @@ VII.- Secretaría de Infraestructura y Desarrollo Urbano.
 
 VIII.- Secretaría de Fomento Industrial y Comercio.
 
-IX.- Secretaría de Fomento Agrícola y Asuntos Agrarios.
+> <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
+
+IX.- Secretaría de Fomento Agrícola.
 
 X.- Secretaría de Fomento Ganadero.
 
@@ -235,7 +237,21 @@ XVII.- Intervenir en los procedimientos de expropiación por causa de utilidad p
 
 XVIII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
-XIX.- Las demás que le señalen la Constitución Política del Estado, las leyes y los reglamentos vigentes.
+> <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XIX.- Proponer las políticas que en materia de tenencia de la tierra, sean facultad del Gobernador del Estado.
+
+> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XX.- Auxiliar al Gobernador del Estado, en el ejercicio de las atribuciones que a ésta le confiere la legislación agraria.
+
+> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XXI.- Promover y realizar, por sí o en coordinación con las dependencias y entidades competentes, acciones en materia de análisis de la problemática agraria, de organización y capacitación campesina.
+
+> <small>(ADICIONADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XXII.- Las demás que le señalan la Constitución Política del Estado, las leyes y los reglamentos vigentes.
 
 Los Subsecretarios de Gobierno tendrán las facultades y obligaciones que les señale el Reglamento Interior y suplirán al Secretario en el orden de precedencia que se fije en el mismo Reglamento.
 
@@ -549,9 +565,11 @@ XV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XVI.- Las demás que le señalen las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE MARZO DE 1988)</small>
+
 ###### ARTICULO 31.
 
-A la Secretaría de Fomento Agrícola y asuntos Agrarios le corresponden las facultades y obligaciones siguientes:
+A la Secretaría de Fomento Agrícola le corresponden las facultades y obligaciones siguientes:
 
 I.- Proponer las políticas y ejecutar los programas tendientes a fomentar y asesorar técnicamente la producción agrícola, frutícola y forestal.
 
@@ -583,15 +601,17 @@ XIV.- Realizar campañas permanentes para prevenir y combatir las plagas y enfer
 
 XV.- Organizar y patrocinar concursos, ferias y exposiciones agrícolas, frutícolas y forestales.
 
-XVI.- Proponer las políticas que en materia de tenencia de la tierra, sean facultad del Gobernador del Estado.
+XVI.- (DEROGADA, B.O. 28 DE MARZO DE 1988)
 
-XVII.- Auxiliar al Gobernador del Estado, en el ejercicio de las atribuciones que a éste le confiere la legislación agraria.
+XVII.- (DEROGADA, B.O. 28 DE MARZO DE 1988)
 
-XVIII.- Promover y realizar, por sí o en coordinación con las dependencias y entidades competentes, acciones en materia de análisis de la problemática agraria, de organización y capacitación campesinas.
+XVIII.- (DEROGADA, B.O. 28 DE MARZO DE 1988)
 
 XIX.- Participar en los programas de comercialización de los productos agropecuarios del sector social.
 
-XX.- Asesorar a los Municipios y organismos de productores que lo soliciten, en materia agrícola, frutícola y forestal, así como en los asuntos relativos a la tenencia de la tierra, organización y capacitación campesina.
+> <small>(REFORMADA, B.O. 28 DE MARZO DE 1988)</small>
+
+XX.- Asesorar a los municipios y organismos de productores que lo soliciten, en materia agrícola, frutícola y forestal.
 
 XXI.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
@@ -1029,7 +1049,7 @@ Se derogan las disposiciones que se opongan a lo establecido en la presente ley 
 
 ###### ARTICULO TERCERO.
 
-En tanto se emitan las disposiciones correspondientes para que los órganos de gobierno y de vigilancia de los organismos descentralizados se ajustan a lo previsto en esta Ley, seguirán funcionando los órganos existentes de acuerdo con sus leyes o decretos de creación.
+En tanto se emitan las disposiciones correspondientes para que los órganos de gobierno y de vigilancia de los organismos descentralizados se ajusten a lo previsto en esta Ley, seguirán funcionando los órganos existentes de acuerdo con sus leyes o decretos de creación.
 
 ###### ARTICULO CUARTO.
 
@@ -1038,3 +1058,17 @@ El Gobernador del Estado, a partir de la entrada en vigor de esta Ley, promover�
 ###### ARTICULO QUINTO.
 
 Por lo que concierne a los fideicomisos a que alude el artículo 42 de esta Ley, se dictarán las disposiciones relativas para que en su caso, los comités técnicos se ajusten a la integración y funcionamiento que en esta Ley se señala respecto a los órganos de gobierno y se designarán, en los casos en que proceda, a sus Comisarios Públicos, por la Secretaria de la Contraloría General del Estado.
+
+B.O. 28 DE MARZO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las atribuciones que se le confieran a la Secretaría de Fomento Agrícola y Asuntos Agrarios en cualquier ordenamiento, en relación con las facultades que por disposición de esta Ley se están transfiriendo a la Secretaría de Gobierno, se entenderán otorgadas a esta dependencia en los términos del artículo 23 del presente ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Los recursos financieros, humanos y materiales asignados a la Subsecretaría de Asuntos Agrarios, así como a las unidades administrativas adscritas a la misma, se transfieren a la Secretaría de Gobierno.
