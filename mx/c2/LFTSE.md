@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1974-12-31"
+last_updated: "1975-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -64,7 +64,9 @@ Son trabajadores de confianza:
 
 I.- Aquellos cuyo nombramiento o ejercicio requiera la aprobación expresa del Presidente de la República;
 
-II.- En el Poder Ejecutivo: los Directores y Subdirectores Generales; Jefes y Subjefes de Departamento o Instituto; Tesoreros y Subtesoreros; Cajeros Generales; Contralores; Contadores y Subcontadores Generales; Procuradores y Subprocuradores Fiscales; Gerentes y Subgerentes; Intendentes; encargados directos de adquisiciones y compras; Inspectores de impuestos, derechos, productos y aprovechamientos y de servicios públicos no educativos; Inspectores y personal Técnico adscrito a los Departamentos de Inspección y Auditorías; Auditores y Subauditores Generales; Jueces y Arbitros; Investigadores Científicos; Consultores y Asesores Técnicos; Vocales; Consejeros Agrarios; Presidentes y Oficiales Mayores de Consejos, Juntas y Comisiones: Secretarios de Juntas, Comisiones o Asambleas; Directores Industriales; Presidentes de las Juntas de Conciliación y Arbitraje; Conciliadores e Inspectores de Trabajo; Delegados; miembros de Comisiones Especiales, Intersecretariales e Internacionales; Secretarios Particulares en todas sus categorías; los que integran la planta de la Secretaría de la Presidencia; empleados de las Secretarías Particulares o Ayudantías autorizadas por el Presupuesto; Jefes y Empleados de Servicios Federales. Empleados de servicios auxiliares destinados presupuestalmente a la atención directa y personal de altos funcionarios de confianza; Director de la Colonia Penal de Islas Marías; Director de los Tribunales y de los Centros de Investigación para Menores; Jefe de la Oficina Documentadora de Trabajadores Emigrantes; Jefe de la Oficina del Instituto Nacional de Estudios Históricos de la Revolución Mexicana; Agentes de los servicios de Información Política y Social; Jefes, Subjefes y Empleados de Servicios Federales encargados de Agencias del servicio de Población; Jefes de Oficinas Federales de Hacienda; Administradores y Visitadores de Aduanas; Comandantes del Resguardo Aduanal; Agentes Hacendarios; Investigadores de Crédito; Directores y Subdirectores de Hospitales y Administradores de Asistencia; Jefes de Servicios Coordinados Sanitarios; Directores Médicos y Asistenciales; Agentes Generales de Agricultura y Ganadería y de Industria y Comercio; Investigadores de Industria y Comercio; Visitadores Generales; Procuradores Agrarios y Auxiliares del Procurador Agrario; Gerentes y Superintendentes de Primera a Cuarta en Obras de Riego; Capitantes (sic) de Embarcación o Draga; Patrones o Sobrecargos que estén presupuestalmente destinados a unidades; Capitanes de Puerto; Directores y Subdirectores de las escuelas Normales del Distrito Federal y del Instituto Politécnico Nacional.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+II.- En el Poder Ejecutivo: los Directores y Subdirectores Generales: Jefes y Subjefes de Departamento o Instituto; Tesoreros y Subtesoreros; Cajeros Generales; Contralores; Contadores y Subcontadores Generales; Procuradores y Subprocuradores Fiscales; Gerentes y Subgerentes; Intendentes; encargados directos de adquisiciones y compras; Inspectores de Impuestos, derechos, productos y aprovechamientos y de servicios públicos no educativos; Inspectores y personal técnico adscrito a los Departamentos de Inspección y Auditorías; Auditores y Subauditores Generales; Jueces y Arbitros; Investigadores Científicos; Consultores y Asesores Técnicos; Vocales; Consejeros Agrarios; Presidentes y Oficiales Mayores de Consejos, Juntas y Comisiones; Secretarios de Juntas, Comisiones o Asambleas; Directores Industriales; Presidentes de las Juntas de Conciliación y Arbitraje; Conciliadores e Inspectores de Trabajo; Delegados; miembros de Comisiones Especiales, Intersecretariales e Internacionales; Secretarios Particulares en todas sus categorías; los que integran la planta de la Secretaría de la Presidencia; empleados de las Secretarías Particulares o Ayudantías autorizadas por el Presupuesto; Jefes de Servicios Federales que no desempeñen labores que correspondan a plazas de base. Empleados de servicios auxiliares destinados presupuestalmente a la atención directa y personal de altos funcionarios de confianza; Director de la Colonia Penal de Islas Marías; Director de los Tribunales y de los Centros de Investigación para Menores; Jefe de la Oficina Documentadora de Trabajadores Emigrantes; Jefe de la Oficina del Instituto Nacional de Estudios Históricos de la Revolución Mexicana; Agentes de los Servicios de Información Política y Social; Jefes y Subjefes de Servicios Federales y encargados de Agencias del servicio de población; Jefes de Oficinas Federales de Hacienda; Administradores y Visitadores de Aduanas; Comandantes del Resguardo Aduanal; Agentes Hacendarios; Investigadores de Crédito; Directores y Subdirectores de Hospitales y Administradores de Asistencia; Jefes de Servicios Coordinados Sanitarios; Directores Médicos y Asistenciales; Agentes Generales de Agricultura y Ganadería y de Industria y Comercio; Investigadores de Industria y Comercio; Visitadores Generales; Procuradores Agrarios y Auxiliares de Procurador Agrario; Gerentes y Superintendentes de Primera a Cuarta en Obras de Riego; Capitanes de Embarcación o Draga; Patrones o Sobrecargos que estén presupuestalmente destinados a unidades; Capitanes de Puerto; Directores y Subdirectores de las Escuelas Normales del Distrito Federal y del Instituto Politécnico Nacional.
 
 En los Departamentos de Estado y en las Procuradurías de Justicia, también: Jefes y Subjefes de Oficina; Supervisores de Obras y Agentes del Ministerio Público.
 
@@ -182,11 +184,23 @@ V.- El sueldo y demás prestaciones que habrá de percibir el trabajador, y
 
 VI.- El lugar en que prestará sus servicios.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 16.
 
-Cuando un trabajador sea trasladado de una población a otra, la dependencia en que preste sus servicios tendrá la obligación de sufragar los gastos de viaje, excepto si el traslado se debe a sanción que le fuere impuesta o a solicitud suya.
+Cuando un trabajador sea trasladado de una población a otra, la Dependencia en que preste sus servicios, dará a conocer previamente al trabajador las causas del traslado, y tendrá la obligación de sufragar los gastos de viaje y menaje de casa, excepto cuando el traslado se hubiere solicitado por el trabajador.
 
-En el primer caso, si el traslado es por un período mayor de seis meses, el trabajador tendrá también derecho a que se le cubran previamente los gastos que origine el transporte de menaje de casa indispensable para la instalación de su cónyuge y de sus familiares en línea recta ascendente o descendente, o colaterales en segundo grado, siempre que estén bajo su dependencia económica.
+Si el traslado es por período mayor de seis meses, el trabajador tendrá derecho a que se le cubran previamente los gastos que origine el transporte de menaje de casa indispensable para la instalación de su cónyuge y de sus familiares en línea recta ascendentes o descendentes, o colaterales en segundo grado, siempre que estén bajo su dependencia económica. Asimismo, tendrá derecho a que se le cubran los gastos de traslado de su cónyuge y parientes mencionados en este párrafo, salvo que el traslado se deba a solicitud del propio trabajador.
+
+Solamente se podrá ordenar el traslado de un trabajador por las siguientes causas:
+
+I.- Por reorganización o necesidades del servicio debidamente justificadas;
+
+II.- Por desaparición del centro del trabajo;
+
+III.- Por permuta debidamente autorizada; y
+
+IV.- Por fallo del Tribunal Federal de Conciliación y Arbitraje.
 
 ###### ARTICULO 17.
 
@@ -272,6 +286,10 @@ De ser posible se establecerán aumentos periódicos de salario por años de ser
 
 La uniformidad de los salarios correspondientes a las distintas categorías de trabajadores será fija, pero para compensar las diferencias que resulten del distinto costo medio de la vida en diversas zonas económicas de la República, se crearán partidas destinadas al pago de sobresueldos, determinándose previamente las zonas en que deban cubrirse y que serán iguales para cada categoría.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+La Comisión de Recursos Humanos del Gobierno Federal, escuchando a la Federación de Sindicatos de Trabajadores al Servicio del Estado, realizará y someterá a las autoridades que corresponda, los estudios técnicos pertinentes para la fijación de sobresueldos según las zonas en que éstos deban regir.
+
 ###### ARTICULO 36.
 
 Se crearán también partidas específicas denominadas "compensaciones adicionales por servicios especiales" que se destinarán a cubrir a los trabajadores cantidades que se agregarán a su sueldo persupuestal(sic) y sobresueldo y cuyo otorgamiento por parte del Estado será discrecional en cuanto a su monto y duración, de acuerdo con las responsabilidades o trabajos extraordinarios inherentes al cargo o por servicios especiales que desempeñen.
@@ -326,11 +344,17 @@ El salario no es susceptible de embargo judicial o administrativo, fuera de lo e
 
 Es nula la cesión de salarios en favor de tercera persona.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+ARTICULO 42 BIS.- Los trabajadores tendrán derecho a un "aguinaldo" anual que estará comprendido en el Presupuesto de Egresos, que deberá pagarse antes del día quince de diciembre y que será equivalente a un mes de salario, cuando menos, sin deducción alguna. El Ejecutivo Federal dictará las normas conducentes para fijar las proporciones y el procedimiento para los pagos en caso de que el trabajador hubiere prestado sus servicios menos de un año.
+
 ### CAPITULO IV
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 43.
 
-Son obligaciones de los titulares a que se refiere el artículo 1o. de esta ley:
+Son obligaciones de los titulares a que se refiere el artículo 1o. de esta Ley:
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -342,7 +366,9 @@ II.- Cumplir con todos los servicios de higiene y de prevención de accidentes a
 
 III.- Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado y ordenar el pago de los salarios caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldo;
 
-IV.- De acuerdo con la partida que en el Presupuesto de Egresos se haya fijado para el efecto, cubrir las indemnizaciones por separación injustificada cuando los trabajadores hayan optado por ella, y pagar los salarios caídos en los términos del laudo definitivo;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+IV.- De acuerdo con la Partida que en el Presupuesto de Egresos se haya fijado para el efecto, cubrir la indemnización por separación injustificada cuando los trabajadores hayan optado por ella y pagar en una sola exhibición los salarios caídos, sobresueldos, primas por vacaciones y aguinaldos, en los términos del laudo definitivo;
 
 V.- Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
 
@@ -350,7 +376,7 @@ VI.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabaj
 
 a) Atención médica, quirúrgica, farmacéutica y hospitalaria, y en su caso, indemnización por accidentes de trabajo y enfermedades profesionales.
 
-b) Atención medica, quirúrgica, farmacéutica y hospitalaria en los casos de enfermedades no profesionales y maternidad.
+b) Atención médica, quirúrgica, farmacéutica y hospitalaria en los casos de enfermedades no profesionales y maternidad.
 
 c) Jubilación y pensión por invalidez, vejez o muerte.
 
@@ -375,6 +401,10 @@ VIII.- Conceder licencias sin goce de sueldo a sus trabajadores, para el desempe
 Las licencias que se concedan en los términos del párrafo anterior, se computarán como tiempo efectivo de servicios dentro del escalafón, y
 
 IX.- Hacer las deducciones, en los salarios, que soliciten los sindicatos respectivos, siempre que se ajusten a los términos de esta ley.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+X.- Integrar los expedientes de los trabajadores y remitir los informes que se le soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos.
 
 ### CAPITULO V
 
@@ -410,7 +440,7 @@ I.- Que el trabajador contraiga alguna enfermedad que implique un peligro para l
 
 II.- La prisión preventiva del trabajador, seguida de sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal Federal de Conciliación y Arbitraje, resuelva que debe tener lugar el cese del trabajador.
 
-Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión mientras se práctica la investigación y se resuelve sobre su cese.
+Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión mientras se practica la investigación y se resuelve sobre su cese.
 
 ### CAPITULO VII
 
@@ -450,9 +480,23 @@ i) Por falta comprobada de cumplimiento a las condiciones generales de trabajo d
 
 j) Por prisión que sea el resultado de una sentencia ejecutoria.
 
-En los casos a que se refiere esta fracción el trabajador que diere motivo para la terminación de los efectos del nombramiento, podrá ser, desde luego, suspendido en su trabajo, si con ello estuviera conforme el sindicato de su dependencia, pero si no fuere así, el jefe superior de la oficina podrá ordenar su remoción a oficina distinta de aquella en que estuviera prestando sus servicios hasta que sea resuelto en definitiva el conflicto por el Tribunal Federal de Conciliación y Arbitraje.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
 
-Si el Tribunal resuelve que fue justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
+En los casos a que se refiere esta fracción, el Jefe superior de la oficina respectiva podrá ordenar la remoción del trabajador que diere motivo a la terminación de los efectos de su nombramiento, a oficina distinta de aquella en que estuviere prestando sus servicios, dentro de la misma Entidad Federativa cuando esto sea posible, hasta que sea resuelto en definitiva el conflicto por el Tribunal Federal de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+Por cualquiera de las causas a que se refiere esta fracción, el Titular de la Dependencia podrá suspender los efectos del nombramiento si con ello está conforme el Sindicato correspondiente; pero si éste no estuviere de acuerdo, y cuando se trate de alguna de las causas graves previstas en los incisos a), c), e), y h), el Titular podrá demandar la conclusión de los efectos del nombramiento, ante el Tribunal Federal de Conciliación y Arbitraje, el cual proveerá de plano, en incidente por separado, la suspensión de los efectos del nombramiento, sin perjuicio de continuar el procedimiento en lo principal hasta agotarlo en los términos y plazos que correspondan, para determinar en definitiva sobre la procedencia o improcedencia de la terminación de los efectos del nombramiento.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+Cuando el Tribunal resuelva que procede dar por terminados los efectos del nombramiento sin responsabilidad para el Estado, el trabajador no tendrá derecho al pago de los salarios caídos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+ARTICULO 46 BIS.- Cuando el trabajador incurra en alguna de las causales a que se refiere la fracción V del artículo anterior, el jefe superior de la oficina procederá a levantar acta administrativa, con intervención del trabajador y un representante del Sindicato respectivo, en la que con toda precisión se asentarán los hechos, la declaración del trabajador afectado y las de los testigos de cargo y de descargo que se propongan, la que se firmará por los que en ella intervengan y por dos testigos de asistencia, debiendo entregarse en ese mismo acto, una copia al trabajador y otra al representante sindical.
+
+Si a juicio del Titular procede demandar ante el Tribunal Federal de Conciliación y Arbitraje la terminación de los efectos del nombramiento del trabajador, a la demanda se acompañarán, como instrumentos base de la acción, el acta administrativa y los documentos que, al formularse ésta, se hayan agregado a la misma.
 
 ## TITULO TERCERO. Del escalafón
 
@@ -684,9 +728,11 @@ Las remuneraciones que se paguen a los directivos y empleados de los sindicatos 
 
 ### CAPITULO II
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 87.
 
-Las condiciones generales de trabajo se fijarán por los titulares de la dependencia respectiva, oyendo al sindicato correspondiente.
+Las Condiciones Generales de Trabajo se fijarán por el Titular de la Dependencia respectiva, tomando en cuenta la opinión del Sindicato correspondiente a solicitud de éste, se revisarán cada tres años.
 
 ###### ARTICULO 88.
 
@@ -970,6 +1016,16 @@ En el procedimiento ante el Tribunal Federal de Conciliación y Arbitraje no se 
 
 El procedimiento para resolver las controversias que se sometan al Tribunal Federal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que se hará en igual forma; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+
+ARTICULO 127 BIS.- El procedimiento para resolver las controversias relativas a la terminación de los efectos del nombramiento de los trabajadores ante el Tribunal Federal de Conciliación y Arbitraje, se desarrollará en la siguiente forma:
+
+I.- La Dependencia presentará por escrito su demanda, acompañada del acta administrativa y de los documentos a que se alude el artículo 46 bis, solicitando en el mismo acto el desahogo de las demás pruebas que sea posible rendir durante la audiencia a que se refiere la siguiente fracción.
+
+II.- Dentro de los tres días siguientes a la presentación de la demanda se correrá traslado de la misma al demandado, quien dispondrá de nueve días hábiles para contestar por escrito, acompañando las pruebas que obren en su poder, señalando el lugar o lugares en donde se encuentren los documentos que no posea, para el efecto de que el Tribunal los solicite, y proponiendo la práctica de pruebas durante la audiencia a la que se refiere la fracción siguiente; y
+
+III.- Fijados los términos de la controversia y reunidas las pruebas que se hubiesen presentado con la demanda y la contestación, el Tribunal citará a una audiencia que se celebrará dentro de los quince días siguientes de recibida la contestación, en la que se desahogarán pruebas, se escucharán los alegatos de las partes y se dictarán los puntos resolutivos del laudo, que se engrosará dentro de los cinco días siguientes a la fecha de la celebración de la audiencia, salvo cuando a juicio del Tribunal se requiera la práctica de otras diligencias para mejor proveer, en cuyo caso se ordenará que se lleven a cabo y una vez desahogadas se dictará el laudo dentro de quince días.
+
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
 ###### ARTICULO 128.
@@ -1251,3 +1307,17 @@ Las presentes adiciones entrarán en vigor el día 1o. de enero de 1975.
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Los trabajadores con nombramiento de empleados de servicios federales que al entrar en vigor este Decreto estén realizando labores correspondientes a trabajadores de base, pasarán a ocupar empleos de esta naturaleza. Los trabajadores con nombramiento de empleados de servicios federales que estén desarrollando labores típicamente de confianza, pasarán a tener nombramiento de Jefes de servicios Federales sin que por este motivo se modifiquen las percepciones que han venido recibiendo.
+
+###### ARTICULO SEGUNDO.
+
+La Comisión de Recursos Humanos del Gobierno Federal elaborará los estudios conducentes a la revisión del catálogo contenido en la fracción V del Artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, poniendo los resultados en conocimiento del Ejecutivo Federal.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
