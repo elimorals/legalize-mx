@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "1983-01-05"
+last_updated: "2002-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPLAN"
 
 LEY DE PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2002
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -54,15 +54,19 @@ IV.- Las bases para promover y garantizar la participación democrática de los 
 
 V.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades del plan y los programas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+
 ###### Artículo 2o.
 
-La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo integral del país y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos. Para ello, estará basada en los siguientes principios:
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Estado sobre el desarrollo integral y sustentable del país y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos. Para ello, estará basada en los siguientes principios:
 
 I.- El fortalecimiento de la soberanía, la independencia y autodeterminación nacionales, en lo político, lo económico y lo cultural;
 
 II.- La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo que la Constitución establece; y la consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del gobierno;
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos, de la calidad de la vida, para lograr una sociedad más igualitaria;
+> <small>(REFORMADA D.O.F. 23 DE MAYO DE 2002)</small>
+
+III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos, de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
 
 IV.- El respeto irrestricto de las garantías individuales, y de las libertades y derechos sociales y políticos;
 
@@ -70,9 +74,11 @@ V.- El fortalecimiento del pacto federal y del Municipio libre, para lograr un d
 
 VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+
 ###### Artículo 3o.
 
-Para los efectos de esta Ley se entiende por Planeación Nacional del Desarrollo la ordenación racional y sistemática de acciones que, en base al ejercicio de las atribuciones del Ejecutivo Federal en materia de regulación y promoción de la actividad económica, social, política y cultural, tiene como propósito la transformación de la realidad del país, de conformidad con las normas, principios y objetivos que la propia Constitución y la Ley establecen.
+Para los efectos de esta Ley se entiende por planeación nacional de desarrollo la ordenación racional y sistemática de acciones que, en base al ejercicio de las atribuciones del Ejecutivo Federal en materia de regulación y promoción de la actividad económica, social, política, cultural, de protección al ambiente y aprovechamiento racional de los recursos naturales, tiene como propósito la transformación de la realidad del país, de conformidad con las normas, principios y objetivos que la propia Constitución y la ley establecen.
 
 Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
 
@@ -96,17 +102,25 @@ El contenido de las Cuentas anuales de la Hacienda Pública Federal y del Depart
 
 El Presidente de la República, al enviar a la Cámara de Diputados las iniciativas de leyes de Ingresos y los proyectos de Presupuesto de Egresos, informará del contenido general de dichas iniciativas y proyectos y su relación con los programas anuales que, conforme a lo previsto en el Artículo 27 de esta ley, deberán elaborarse para la ejecución del Plan Nacional de Desarrollo.
 
+> <small>N. DE E. CON LA REFORMA PUBLICADA EN EL D.O.F. 23 DE MAYO DE 2002, LA PARTE FINAL DEL PRIMER PARRAFO SE CONVIERTE EN EL SEGUNDO PARRAFO DE ESTE ARTICULO.</small>
+
 ###### Artículo 8o.
 
-Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas. Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social, en función de dichos objetivos y prioridades.
+Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE MAYO DE 2002)</small>
+
+Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social y ambiental, en función de dichos objetivos y prioridades.
 
 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
 Los funcionarios a que alude el primer párrafo de este artículo y los Directores y Administradores de las entidades paraestatales que sean citados por cualquiera de las Cámaras para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de Ley o negocio de que se trate y los objetivos de la planeación nacional, relativos a la dependencia o entidades a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+
 ###### Artículo 9o.
 
-Las dependencias de la Administración Pública Centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo.
+Las dependencias de la administración pública centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea integral y sustentable.
 
 Lo dispuesto en el párrafo anterior será aplicable a las entidades de la administración pública paraestatal. A este efecto, los titulares de las Secretarías de Estado y Departamentos Administrativos, proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley.
 
@@ -162,15 +176,21 @@ IV.- Verificar que las operaciones en que se haga uso del crédito público prev
 
 V.- Considerar los efectos de la política monetaria y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en el logro de los objetivos y prioridades del Plan y los programas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+
 ###### Artículo 16.
 
-A las dependencias de la Administración Pública Federal les corresponde:
+A las dependencias de la administración pública federal les corresponde:
 
-I.- Intervenir respecto de las materias que les competan, en la elaboración del Plan Nacional de Desarrollo.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2002)</small>
+
+I.- Intervenir respecto de las materias que les competan, en la elaboración del Plan Nacional de Desarrollo, observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de sus facultades;
 
 II.- Coordinar el desempeño de las actividades que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector que, conforme a la Ley Orgánica de la Administración Pública Federal, determine el Presidente de la República.
 
-III.- Elaborar programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los gobiernos de los Estados, así como las opiniones de los grupos sociales interesados;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2002)</small>
+
+III.- Elaborar programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los gobiernos de los estados, así como las opiniones de los grupos sociales interesados y observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de sus facultades;
 
 IV.- Asegurar la congruencia de los programas sectoriales con el Plan y los programas regionales y especiales que determine el Presidente de la República.
 
@@ -186,9 +206,13 @@ VIII.- Verificar periódicamente la relación que guarden los programas y presup
 
 Las entidades paraestatales deberán:
 
-I.- Participar en la elaboración de los programas sectoriales, mediante la presentación de las propuestas que procedan en relación a sus funciones y objeto;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2002)</small>
 
-II.- Cuando expresamente lo determine el Ejecutivo Federal, elaborar su respectivo programa institucional, atendiendo a las previsiones contenidas en el programa sectorial correspondiente;
+I.- Participar en la elaboración de los programas sectoriales, mediante la presentación de las propuestas que procedan con relación a sus funciones y objeto observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de éstos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2002)</small>
+
+II.- Cuando expresamente lo determine el Ejecutivo Federal, elaborar su respectivo programa institucional, atendiendo a las previsiones contenidas en el programa sectorial correspondiente observando siempre las variables ambientales, económicas, sociales y culturales respectivas;
 
 III.- Elaborar los programas anuales para la ejecución de los programas sectoriales y, en su caso, institucionales;
 
@@ -226,7 +250,9 @@ Para tal efecto, y conforme a la legislación aplicable, en el Sistema deberán 
 
 El Plan Nacional de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de seis meses contados a partir de la fecha en que toma posesión el Presidente de la República, y su vigencia no excederá del período constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
 
-El Plan Nacional de Desarrollo precisará los objetivos nacionales, estrategia y prioridades del desarrollo integral del país, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá el contenido de los programas que se generen en el Sistema Nacional de Planeación Democrática.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
+
+El Plan Nacional de Desarrollo precisará los objetivos nacionales, estrategia y prioridades del desarrollo integral y sustentable del país contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social, tomando siempre en cuenta las variables ambientales que se relacionen a éstas y regirá el contenido de los programas que se generen en el sistema nacional de planeación democrática.
 
 La categoría de Plan queda reservada al Plan Nacional de Desarrollo.
 
@@ -250,9 +276,11 @@ Los programas regionales se referirán a las regiones que se consideren priorita
 
 Artículos 26.- Los programas especiales se referirán a las prioridades del desarrollo integral del país fijados en el plan o a las actividades relacionadas con dos o más dependencias coordinadoras de sector.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
+
 ###### Artículo 27.
 
-Para la ejecución del Plan y los programas sectoriales, institucionales, regionales y especiales, las dependencias y entidades elaborarán programas anuales, que incluirán los aspectos administrativos y de política económica y social correspondientes. Estos programas anuales, que deberán ser congruentes entre sí, regirán, durante el año de que se trate, las actividades de la Administración Pública Federal en su conjunto y servirán de base para la integración de los anteproyectos de presupuesto anuales que las propias dependencias y entidades deberán elaborar conforme a la legislación aplicable.
+Para la ejecución del plan y los programas sectoriales, institucionales, regionales y especiales, las dependencias y entidades elaborarán programas anuales, que incluirán los aspectos administrativos y de política económica, social y ambiental correspondientes. Estos programas anuales, que deberán ser congruentes entre sí, regirán, durante el año de que se trate, las actividades de la administración pública federal en su conjunto y servirán de base para la integración de los anteproyectos de presupuesto anuales que las propias dependencias y entidades deberán elaborar conforme a la legislación aplicable.
 
 ###### Artículo 28.
 
@@ -334,15 +362,19 @@ Los contratos y convenios que se celebren conforme a este capítulo se considera
 
 Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos contratos y convenios, serán resueltos por los tribunales federales.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
+
 ###### Artículo 40.
 
-Los proyectos de Presupuesto de Egresos de la Federación y del Departamento del Distrito Federal; los programas y presupuestos de las entidades paraestatales no integrados en los proyectos mencionados; las iniciativas de las Leyes de Ingresos, los actos que las dependencias de la Administración Pública Federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica y social, deberán ser congruentes con los objetivos y prioridades del Plan y los programas a que se refiere esta Ley.
+Los proyectos de Presupuesto de Egresos de la Federación y del Departamento del Distrito Federal; los programas y presupuestos de las entidades paraestatales no integrados en los proyectos mencionados; las iniciativas de las leyes de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica, social y ambiental, deberán ser congruentes con los objetivos y prioridades del plan y los programas a que se refiere esta Ley.
 
 El propio Ejecutivo federal y las entidades paraestatales observarán dichos objetivos y prioridades en la concertación de acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
+
 ###### Artículo 41.
 
-Las políticas que normen el ejercicio de las atribuciones que las leyes confieran al Ejecutivo Federal para fomentar, promover, regular, restringir, orientar, prohibir, y, en general, inducir acciones de los particulares en materia económica y social, se ajustarán a los objetivos y prioridades del Plan y los programas.
+Las políticas que normen el ejercicio de las atribuciones que las leyes confieran al Ejecutivo Federal para fomentar, promover, regular, restringir, orientar, prohibir, y, en general, inducir acciones de los particulares en materia económica, social y ambiental, se ajustarán a los objetivos y prioridades del plan y los programas.
 
 ### CAPITULO SEPTIMO. Responsabilidades
 
@@ -387,3 +419,15 @@ Una vez publicada la presente Ley, el Ejecutivo Federal deberá proceder a efect
 México D. F., a 29 de diciembre de 1982.- Mariano Piña Olaya, D. P.- Antonio Riva Palacio López,- S.P.- Hilda Anderson Nevárez de Rojas, D.S.- Silvia Hernández de Galindo,- S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y dos.- "Año del General Vicente Guerrero".- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE MAYO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones de carácter legal que se contrapongan con el presente Decreto; y se dejan sin efecto las disposiciones de carácter administrativo que lo contravengan.
+
+TERCERO.- Hasta en tanto no se emitan las disposiciones reglamentarias correspondientes, se seguirán aplicando las vigentes a la fecha de entrada del presente Decreto en cuanto no se le contrapongan.
+
+CUARTO.- El Ejecutivo Federal observará en la medida de lo posible las disposiciones del presente Decreto para la elaboración del Plan Nacional de Desarrollo para el periodo presidencial 2000-2006; e instruirá a las dependencias de la administración pública centralizada y paraestatal, para que en la elaboración de los programas sectoriales respectivos a dicho periodo, se apliquen estrictamente los criterios de sustentabilidad a que se refiere el presente Decreto.
