@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1993-01-02"
+last_updated: "1994-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -85,39 +85,39 @@ El Congreso del Estado tendrá las facultades y atribuciones que le señale la C
 
 ### CAPITULO II. COLEGIO ELECTORAL
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 10.
 
-De conformidad con lo establecido en la Constitución Política del Estado, la Cámara entrante, erigida en Colegio Electoral, calificará las elecciones de sus miembros, resolviendo las dudas y controversias que se presenten, de acuerdo a las disposiciones legales correspondientes.
+El Congreso antes de clausurar el último Período de Sesiones de cada Legislatura nombrará de entre sus miembros, una Comisión Instaladora de la Legislatura que deba sucederla, los miembros de esta Comisión serán 4 y fungirán el primero como Presidente, el segundo como Vicepresidente, el Tercero y Cuarto como Secretarios.
+
+El Congreso comunicará al INSTITUTO ESTATAL ELECTORAL y al TRIBUNAL ESTATAL ELECTORAL, la designación de la Comisión a que se refiere este Artículo, la designación de la Comisión a que se refiere este Artículo (sic).
 
 ###### ARTICULO 11.
 
-Los presuntos miembros del Congreso que hubiesen sido declarados electos por los organismos electorales correspondientes, se reunirán en el Recinto Oficial del Poder Legislativo, a las 11.00 horas del día 21 de diciembre del año de la elección, para constituirse, presente la mayoría, en Colegio Electoral eligiendo para ello una Mesa Directiva integrada por un Presidente, un Secretario y dos Vocales, quienes en su orden suplirán las faltas de aquéllos. Si no se reuniere la mayoría absoluta de los presuntos Diputados, se procederá de conformidad con las disposiciones señaladas por la Constitución Política del Estado y su Ley Electoral.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 1994)
 
 ###### ARTICULO 12.
 
-El Colegio Electoral, será instalado por la Directiva de la Legislatura saliente y, de no ser posible, el Congreso entrante elegirá una Comisión Instaladora con una Directiva en los mismos términos que funge en períodos ordinarios.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 1994)
 
 ###### ARTICULO 13.
 
-Las resoluciones del Colegio Electoral son definitivas, irrevocables e inatacables y serán motivo de Decreto que emitirá la nueva Legislatura el que se enviará al Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 1994)
 
 ###### ARTICULO 14.
 
-Aprobadas las elecciones de la mayoría de los nuevos Diputados y habiendo quórum, el Presidente rendirá por sí la protesta de Ley y seguidamente se la tomará a los demás Diputados.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 1994)
 
-Inmediatamente, se elegirá la Mesa Directiva del Congreso la cual se integrará por un Presidente, un Vicepresidente, un Secretario y un Prosecretario. A continuación el Presidente del Colegio Electoral declarará concluidas sus funciones.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 15.
 
-La Legislatura en ejercicio, se erigirá en Colegio Electoral para ejercer las siguientes atribuciones:
+La Legislatura en Ejercicio se erigirá en Colegio Electoral para ejercer las siguientes atriguciones (sic).
 
-I. Calificar las elecciones de Gobernador del Estado y de Regidores de los Ayuntamientos de la Entidad, haciendo las declaraciones correspondientes;
+1.- Calificar las Elecciones de Gobernador del Estado; haciendo la declaratoria correspondiente;
 
-II. Declarar electos a los Senadores por Tabasco al Congreso de la Unión, de conformidad con lo establecido por la Constitución Política de los Estados Unidos Mexicanos;
-
-III. Designar Gobernador en los términos de la Constitución Política del Estado; y
-
-IV. Calificar las elecciones extraordinarias de Diputados al Congreso del Estado, haciendo las declaraciones correspondientes.
+2.- Designar Gobernador en los términos de la Constitución Política del Estado.
 
 ### CAPITULO III. INSTALACION DE LA LEGISLATURA
 
@@ -916,3 +916,9 @@ LIC. MANUEL GURRIA ORDOÑEZ.
 LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
