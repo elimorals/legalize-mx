@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2000-12-29"
+last_updated: "2001-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -97,6 +97,40 @@ Dichas autorizaciones deberán publicarse en el Diario Oficial de la Federación
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 Sólo las sociedades que gocen de autorización en los términos de esta Ley, podrán operar como almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito y empresas de factoraje financiero.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis 1.
+
+Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de tres meses para que las autoridades administrativas resuelvan lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente que deba resolver, conforme al Reglamento Interior respectivo; igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable.
+
+Los requisitos de presentación y plazos, así como otra información relevante aplicable a las promociones que realicen las sociedades a que se refieren los artículos 3 y 4 de esta Ley, deberán precisarse en disposiciones de carácter general.
+
+Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
+
+Notificada la prevención, se suspenderá el plazo para que las autoridades administrativas resuelvan y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado, las autoridades desecharán el escrito inicial.
+
+Si las autoridades no hacen el requerimiento de información dentro del plazo correspondiente, no podrán rechazar el escrito inicial por incompleto.
+
+Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis 2.
+
+El plazo a que se refiere el artículo anterior no será aplicable a las promociones donde por disposición expresa de esta Ley las autoridades administrativas deban escuchar la opinión de otras autoridades, además de aquellas relacionadas con las autorizaciones relativas a la constitución, fusión, escisión y liquidación de las sociedades a que se refieren los artículos 3 y 4 de esta Ley. En estos casos no podrá exceder de seis meses el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el artículo 5 Bis-1 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis 3.
+
+Las autoridades administrativas competentes, a solicitud de parte interesada, podrán ampliar los plazos establecidos en la presente Ley, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente en las disposiciones aplicables, cuando así lo exija el asunto y no tengan conocimiento de que se perjudica a terceros en sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis 4.
+
+No se les aplicará lo establecido en los artículos 5 Bis 1, 5 Bis 2 y 5 Bis 3 a las autoridades administrativas en el ejercicio de sus atribuciones de supervisión, inspección y vigilancia.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -214,7 +248,7 @@ Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI.- El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
+VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración.
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -284,7 +318,7 @@ El bono o bonos expedidos podrán ir adheridos al certificado o separados de él
 
 Los almacenes llevarán un registro de los certificados y bonos de prenda que se expidan, en el que se anotarán todos los datos contenidos en dichos títulos, incluyendo en su caso, los derivados del aviso de la institución de crédito que intervenga en la primera negociación del bono. Este registro deberá instrumentarse conforme a las reglas de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
-> <small>(REFORMADO, D.O.F.3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Los almacenes generales de depósito podrán expedir certificados de depósito por mercancías en tránsito, en bodegas o en ambos supuestos, siempre y cuando esta circunstancia se mencione en el cuerpo del certificado. Estas mercancías deberán ser aseguradas en tránsito por conducto del almacén que expida los certificados respectivos, el cual deberá asumir la responsabilidad del traslado hasta la bodega de destino, en donde seguirá siendo depositario de la mercancía hasta el rescate de los certificados de depósito y los bonos de prenda, en el caso de que los productos hayan sido pignorados.
 
@@ -392,7 +426,7 @@ Los almacenes generales de depósito deberán contar con los locales propios par
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-II.- En financiamientos con garantía de bienes o mercancías depositados, amparados con bonos de prenda; en anticipos con garantía de los bienes y mercancías depositados, que se destinen en pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen; y
+II. En financiamientos con garantía de bienes o mercancías depositados, amparados con bonos de prenda; en anticipos con garantía de los bienes y mercancías depositados, que se destinen en pago de empaques, fletes, seguros, impuestos a la importación o a la exportación y operaciones de transformación de esos mismos bienes y mercancías, haciéndose constar el anticipo en los títulos relativos que expidan los almacenes; en cartera de créditos prendarios, y en inventarios de las mercancías que comercialicen; y
 
 III. En monedas circulantes en la República o en depósitos a la vista o a plazo en el Banco de México o en instituciones de crédito, o en certificados de depósito bancario, o en saldos bancarios en cuenta de cualquier clase, o en créditos expresados en letras de cambio, pagarés y demás documentos mercantiles con una firma, al menos, de institución de crédito y siempre que sea a plazo no superior a ciento ochenta días, o también en letras, pagarés y demás documentos mercantiles que procedan a operaciones de compraventa de mercancías efectivamente realizadas, a plazo no mayor de noventa días, así como en valores de renta fija aprobados para el efecto por la Comisión Nacional de Valores.
 
@@ -496,7 +530,7 @@ IV. Será postura legal, a falta de estimación fijada al efecto en el certifica
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-V.- Cuando no hubiere postor, ni los almacenes se adjudicaren las mercancías o efectos rematados, podrán proceder a nuevas almonedas, previo el aviso respectivo, haciendo en cada una de ellas un descuento no mayor del cincuenta por ciento sobre el precio fijado como base para la almoneda anterior.
+V. Cuando no hubiere postor, ni los almacenes se adjudicaren las mercancías o efectos rematados, podrán proceder a nuevas almonedas, previo el aviso respectivo, haciendo en cada una de ellas un descuento no mayor del cincuenta por ciento sobre el precio fijado como base para la almoneda anterior.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
@@ -702,7 +736,7 @@ Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previ
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F 3 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
 
@@ -1118,7 +1152,7 @@ V. Constituir depósitos, a la vista y a plazo, en instituciones de crédito del
 
 VI. Adquirir bienes muebles o inmuebles destinados a sus oficinas o necesarios para su operación;
 
-VII. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
+VIl. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
 
 VIII. Prestar servicios de administración y cobranza de derechos de crédito;
 
@@ -1146,9 +1180,9 @@ La administración y cobranza de los derechos de crédito, objeto de los contrat
 
 Previamente a la celebración de los contratos de factoraje, las empresas de factoraje financiero podrán:
 
-I.- Celebrar contratos de promesa de factoraje;
+I. Celebrar contratos de promesa de factoraje;
 
-II.- Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
+II. Celebrar contratos con los deudores de derechos de crédito, constituidos a favor de sus proveedores de bienes o servicios, comprometiéndose la empresa de factoraje financiero a adquirir dichos derechos de crédito para el caso de aceptación de los propios proveedores.
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1960,11 +1994,11 @@ III. La Comisión Nacional Bancaria podrá solicitar la suspensión de pagos en 
 
 ### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 81.
 
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional operaciones de compra, venta y cambio de divisas con el público dentro del territorio nacional, excepción hecha de los casos previstos en este artículo y en el artículo 81-A.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional operaciones de compra, venta y cambio de divisas, incluyendo las que se lleven a cabo mediante transferencia o transmisión de fondos, con el público dentro del territorio nacional, excepción hecha de los casos previstos en este artículo y en el artículo 81-A.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -1986,21 +2020,27 @@ Para los efectos de la presente Ley, no se consideran actividades habituales y p
 
 No se requerirá la autorización a que se refiere el artículo anterior cuando única y exclusivamente se realicen con divisas las operaciones siguientes:
 
-I. Compra y venta de billetes así como piezas acuñadas en metales comunes, con curso legal en el país de emisión;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-II. Compra y venta de cheques de viajero denominados en moneda extranjera;
+I. Compra y venta de billetes así como piezas acuñadas y metales comunes, con curso legal en el país de emisión, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente;
 
-III. Compra y venta de piezas metálicas acuñadas en forma de moneda, y
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2000)</small>
+II. Compra y venta de cheques de viajero denominados en moneda extranjera, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente;
 
-IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente de diez mil dólares de los Estados Unidos de América por cada transacción. Estos documentos sólo podrán venderlos a las instituciones de crédito y casas de cambio;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2000)</small>
+III. Compra y venta de piezas metálicas acuñadas en forma de moneda, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente, y
 
-V. Compra y venta de divisas mediante transferencias de fondos a través de instituciones de crédito.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-En la celebración de las operaciones anteriores, el contravalor deberá entregarse en el mismo acto en que se lleven a cabo y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional.
+IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente. Estos documentos sólo podrán venderlos a las instituciones de crédito y casas de cambio;
+
+V. (DEROGADA, D.O.F. 1 DE JUNIO DE 2001)
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+En la celebración de las operaciones descritas en las fracciones I a IV anteriores, el contravalor deberá entregarse en el mismo acto en que se lleven a cabo y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional, sin que en ningún caso se comprenda la transferencia o transmisión de fondos.
 
 ###### ARTICULO 82.
 
@@ -2056,7 +2096,7 @@ Las casas de cambio deberán ajustarse a lo siguiente:
 
 I. Contarán con un local exclusivo para la realización de sus operaciones;
 
-II Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
+II. Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
 
 III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
@@ -2130,11 +2170,11 @@ VI. Si la sociedad no realiza las funciones, ni lleva a cabo las operaciones par
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VII. Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
+VII.- Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-VIII. En cualquier otro establecido por la Ley.
+VIII.- En cualquier otro establecido por la Ley.
 
 > <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2274,21 +2314,25 @@ Las multas previstas en el presente capítulo, se impondrán a razón de días d
 
 Para determinar el monto de la operación, quebranto o perjuicio patrimonial previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las organizaciones auxiliares del crédito y casas de cambio, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes periódicos sobre las operaciones y servicios que realicen sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes periódicos sobre las operaciones y servicios que realicen con sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de las organizaciones auxiliares del crédito y casas de cambio, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales y cambiarias que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias organizaciones auxiliares del crédito y casas de cambio.
+Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley, que consideren sus condiciones específicas y actividad económica o profesional, los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales y cambiarias que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A del presente ordenamiento.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas oportunamente por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los citados intermediarios; la violación de las mismas será sancionada con multa que será impuesta por la Comisión Nacional Bancaria y de Valores equivalente del diez al cien por ciento del acto u operación de que se trate.
+Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas por las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de este ordenamiento, así como por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los citados intermediarios. La violación de dichas disposiciones será sancionada por la Comisión Nacional Bancaria y de Valores, con multa de 200 a 100,000 días de salario mínimo general vigente en el Distrito Federal o del 10 al 100 por ciento del monto de la operación de que se trate, conforme al procedimiento establecido en el artículo 88 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las organizaciones auxiliares del crédito y casas de cambio, deberán abstenerse de dar noticia o información de los reportes a que se refiere este artículo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+Las mencionadas multas podrán ser impuestas tanto a las referidas entidades como a las personas físicas y morales señaladas en el párrafo anterior, que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad o resulten responsables de la misma. Atendiendo a las circunstancias de cada caso, la propia Comisión podrá, además, proceder conforme a lo previsto en el artículo 74 de esta Ley o bien solamente determinar amonestación, suspensión, remoción, veto o inhabilitación de dichas personas.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+Las organizaciones auxiliares del crédito, casas de cambio y demás sociedades que desarrollen actividades en los términos del artículo 81-A de esta Ley y los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, así como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los intermediarios financieros a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas a las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -2621,6 +2665,16 @@ D.O.F. 5 DE ENERO DE 2000.
 D.O.F. 29 DE DICIEMBRE DE 2000.
 
 UNICO.- La adición al artículo 51-B de la Ley mencionada en el artículo anterior entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Lo dispuesto por los Artículos 5 Bis 1, 5 Bis 2 y 5 Bis 3 entrará en vigor el día 1 de enero del año 2002.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1762.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
 
