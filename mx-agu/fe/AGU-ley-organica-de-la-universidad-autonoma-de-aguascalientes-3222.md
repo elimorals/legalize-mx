@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-autonoma-de-aguascalientes-3222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-02-24"
-last_updated: "1997-11-02"
+last_updated: "1998-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1998.
 
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 
@@ -145,11 +145,11 @@ III.- Designar, de entre quienes reúnan los requisitos que fije el Estatuto, a 
 
 IV.- Remover, por causa grave, a los titulares de las unidades académicas o de apoyo de primer nivel, a petición del Consejo Universitario, del Rector o de los consejos respectivos;
 
-V.- Resolver en definitiva cuando el Rector vete los acuerdos del Consejo Universitario;
+V.- (DEROGADA, P.O. 17 DE AGOSTO DE 1998)
 
 VI.- Designar o remover al Contralor Universitario; y
 
-VII.- Resolver conflictos que surjan entre las autoridades universitarias, cuando esta Ley, el Estatuto o ambos no asignen la resolución definitiva a otra instancia, o sea competencia de la Comisión de Honor y Justicia.
+VII.- (DEROGADA, P.O. 17 DE AGOSTO DE 1998)
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
@@ -243,9 +243,9 @@ VI.- Proponer al Consejo Universitario personas para integrar los comités que d
 
 VII.- Presentar iniciativas al Consejo Universitario y a otras autoridades para mejorar el funcionamiento de la Universidad;
 
-VIII.- Vetar, cuando a su juicio sea necesario, resoluciones del Consejo Universitario o de las unidades académicas de primer nivel. Tratándose de estas últimas, el veto tendrá por efecto regresar el asunto al seno del consejo que corresponda para que reconsidere su acuerdo y, si éste insiste en él y el Rector no retira su veto, la cuestión vetada será resuelta por el Consejo Universitario;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1998)</small>
 
-En el caso de resoluciones del Consejo Universitario, el veto tendrá por efecto regresar el asunto al seno del propio Consejo para que reconsidere su acuerdo, más si éste insiste en él y el Rector no retira su veto, la cuestión vetada será resuelta por la Junta de Gobierno;
+VIII.- Vetar, cuando a su juicio sea necesario, resoluciones del Consejo Universitario o de las unidades académicas de primer nivel dentro de los quince días hábiles siguientes a su emisión. La resolución vetada, total o parcialmente, por el Rector, será devuelta en el término señalado con sus observaciones al órgano que la emitió, quien deberá discutirla de nuevo y si fuera confirmada por el voto de veintidós consejeros, la resolución tendrá validez;
 
 IX.- Aplicar, previo cumplimiento de la garantía de audiencia, medidas disciplinarias y sanciones a profesores, alumnos y empleados, en los términos de esta Ley, del Estatuto y la legislación laboral, en su caso;
 
@@ -385,7 +385,9 @@ La Universidad se integrará por profesores y alumnos; funcionarios y técnicos 
 
 El Rector contratará a los miembros del personal académico, de conformidad con esta Ley, su Estatuto y Reglamentos así como la legislación laboral, en su caso. La ideología de quienes aspiren a formar parte de la planta académica no será obstáculo para su ingreso, permanencia o promoción. Los nombramientos definitivos se conferirán por el sistema de oposición en los términos del reglamento respectivo.
 
-Unicamente los profesores numerarios tendrán derecho a participar en los procesos de elección para Rector, para titulares de las unidades académicas de primer nivel y para titulares de las unidades académicas de segundo nivel y de votar para elegir a sus representantes ante el Consejo Universitario.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 1998)</small>
+
+Unicamente el personal académico numerario, es decir los profesores y técnicos académicos numerarios, tendrán derecho a participar en los Procesos de Elección para Rector, para titulares de las unidades académicas de primer nivel y para titulares de las unidades académicas de segundo nivel y de votar para elegir a sus representantes ante el Consejo Universitario.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
@@ -604,3 +606,7 @@ QUINTO.- El Consejo Universitario y los Consejos de las unidades académicas de 
 SEXTO.- Todos los asuntos que se encuentren pendientes de trámite al momento de entrar en vigor el presente Decreto se substanciarán hasta su total conclusión de conformidad con la Ley que se reforma.
 
 SEPTIMO.- Mándese publicar en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
