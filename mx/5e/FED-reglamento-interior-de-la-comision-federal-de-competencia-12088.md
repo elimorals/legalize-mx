@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-federal-de-competencia-12088
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-28"
-last_updated: "1998-08-28"
+last_updated: "2002-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-08-25"
 
 REGLAMENTO INTERIOR DE LA COMISION FEDERAL DE COMPETENCIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE SEPTIEMBRE DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 28 de agosto de 1998.
 
@@ -115,7 +115,9 @@ VI.- Delegaciones u oficinas regionales, que sean necesarias para la debida apli
 
 VII.- Las demás unidades y personal técnico y administrativo que autorice el Presidente, de acuerdo con el presupuesto autorizado y de conformidad con lo establecido por el artículo 28, fracción V de la Ley, y sujeto a las normas y lineamientos que la Secretaría de Hacienda y Crédito Público emita en la materia.
 
-La Comisión contará con una Contraloría Interna que se regirá conforme a lo dispuesto por el artículo 39 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2002)</small>
+
+La Comisión contará con un Órgano Interno de Control que se regirá conforme a lo dispuesto por el artículo 39 de este Reglamento.
 
 ###### ARTÍCULO 9.
 
@@ -569,13 +571,15 @@ IV.- Captar, analizar y procesar la información de los medios de comunicación,
 
 V.- Las demás que le atribuya expresamente el Presidente.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 39.
 
-Al frente de la Contraloría Interna habrá un Contralor Interno designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
+Al frente del Órgano Interno de Control habrá un titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de Auditoría Interna, de Auditoría de Control y Evaluación, de Quejas y de Responsabilidades, designados en los mismos términos.
 
-Dichos servidores públicos ejercerán en el ámbito de la competencia de la Comisión, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el artículo 26, fracciones III y IV del Reglamento Interior de la Secretaría de la Contraloría y Desarrollo Administrativo.
+Dichos servidores públicos ejercerán en el ámbito de la competencia de la Comisión, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el artículo 47, fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
-La Comisión proporcionará al titular de la Contraloría Interna los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo, asimismo los servidores públicos de la Comisión estarán obligados a proporcionarle el auxilio que requiera para el desempeño de sus funciones.
+La Comisión proporcionará al titular del Órgano Interno de Control los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo, asimismo los servidores públicos de la Comisión estarán obligados a proporcionarle el auxilio que requiera para el desempeño de sus funciones.
 
 ## TÍTULO TERCERO. DE LOS IMPEDIMENTOS Y EXCUSAS
 
@@ -618,3 +622,9 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Federal de Competenci
 TERCERO.- Se derogan las disposiciones contenidas en otros ordenamientos que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de agosto de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE SEPTIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
