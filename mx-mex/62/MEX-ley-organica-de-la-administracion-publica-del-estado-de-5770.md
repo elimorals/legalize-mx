@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2003-08-06"
+last_updated: "2003-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2003.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -143,9 +143,9 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 I. Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-II. Secretaría de Finanzas y Planeación;
+II. Secretaría de Finanzas, Planeación y Administración;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -183,31 +183,29 @@ X.- Secretaría de Desarrollo Económico;
 
 XI.- Secretaría de Desarrollo Metropolitano;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XII.- Secretaría de Administración;
+XII.- Secretaría de la Contraloría;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XIII.- Secretaría de la Contraloría;
+XIII.- Secretaría de Comunicaciones;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XIV.- Secretaría de Comunicaciones;
+XIV.- Secretaría de Transporte;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-XV.- Secretaría de Transporte;
+XV.- Secretaría de Ecología;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
-
-XVI.- Secretaría de Ecología.
+XVI.- (DEROGADA, G.G. 31 DE OCTUBRE DE 2003)
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-Las secretarías a que se refieren las fracciones II a XVI de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las secretarías a que se refieren las fracciones II a XV de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -343,85 +341,227 @@ XX. Promover que los recursos públicos destinados a los programas sociales, se 
 
 XXI. Las demás que señalen otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 23.
 
-La Secretaría de Finanzas y Planeación es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo y de la Administración financiera y tributaria de la hacienda pública del Estado.
+La Secretaría de Finanzas, Planeación y Administración es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo, de la administración financiera y tributaria de la hacienda pública del Estado y de prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 24.
 
-A la Secretaría de Finanzas y Planeación, corresponde el despacho de los siguientes asuntos.
+A la Secretaría de Finanzas, Planeación y Administración, corresponde el despacho de los siguientes asuntos.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 I. Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación de la actividad económica y financiera del Estado, así como para la actividad fiscal y tributaria estatal.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 II. Recaudar los impuestos, derechos, aportaciones de mejoras, productos y aprovechamientos, que correspondan al Estado; y las contribuciones federales y municipales en los términos de los convenios suscritos.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 III. Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y de más (sic) de su ramo, aplicables en el Estado.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 IV. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, con los gobiernos municipales y con organismos auxiliares.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 V. Formular y presentar al Ejecutivo, los proyectos de Ley de Ingresos, del presupuesto de egresos y el programa general del gasto público.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 VI. Practicar revisiones y auditorías a los causantes.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 VII. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Ejecutivo, en la primera quincena del mes de enero, un informe pormenorizado del ejercicio fiscal anterior.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 VIII. Ejercer la facultad económico-coactiva conforme a las leyes relativas.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 IX. Vigilar que se lleve al corriente el padrón fiscal de contribuyentes.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 X. Cuidar que los empleados que manejen fondos del Estado otorguen fianza suficiente para garantizar su manejo en los términos que determine la ley.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XI. Dictar las normas relacionadas con el manejo de fondos y valores de las dependencias, organismos auxiliares y fideicomisos del Estado, así como custodiar los documentos que constituyen valores, acciones y demás derechos que formen parte del patrimonio del Estado.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XII. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado; y vigilar y registrar la de los municipios, informando al Gobernador periódicamente, sobre el estado de las amortizaciones de capital y pago de intereses.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XIII. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de todas sus oficinas recaudadoras, locales y foráneas
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XIV. Efectuar los pagos conforme a los programas y presupuestos aprobados y formular mensualmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XV. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XVI. Proporcionar asesoría, en materia de interpretación y aplicación de las leyes tributarias del Estado, solicitada por los particulares y las autoridades federales, estatales y municipales.
 
 Difundir permanentemente y publicar anualmente las disposiciones fiscales estatales y municipales.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la hacienda pública del Estado.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XVIII. Fijar las políticas, normas y lineamientos generales en materia de catastro, de acuerdo con las leyes respectivas.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XIX. Elaborar con la participación de las dependencias y organismos auxiliares del Poder Ejecutivo el plan estatal, los planes regionales y sectoriales de desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XX. Establecer la coordinación de los programas de desarrollo socioeconómico del gobierno del Estado, con los de la administración pública federal y la de los municipios de la entidad, promoviendo la participación en los mismos de los sectores social y privado.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XXI. Diseñar, implantar y actualizar un sistema de programación del gasto público acorde con los objetivos y necesidades de la administración pública del Estado, asesorando y apoyando a las dependencias y organismos auxiliares en la integración de sus programas específicos.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XXII. Vigilar que los programas de inversión de las dependencias del Ejecutivo y sus organismos auxiliares, se realicen conforme a los objetivos de los planes de desarrollo aprobados.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XXIII. Proyectar y calcular los egresos del Gobierno del Estado y los ingresos y egresos de sus organismos auxiliares.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias del Ejecutivo y de sus organismos auxiliares.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XXV. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría General de Glosa, del Congreso del Estado.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XXVII. Registrar y normar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XXVIII. Intervenir en el otorgamiento de los subsidios que concede el Gobierno del Estado a los municipios, instituciones o particulares, con objeto de comprobar que la inversión se efectúe en los términos establecidos.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XXIX. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para elaboración de sus planes y programas de desarrollo económico y social.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XXX. Integrar y mantener actualizada la información geográfica y estadística de la entidad.
 
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 XXXI. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre el gobierno del Estado en materia de planeación, programación, supervisión y evaluación del desarrollo de la entidad.
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 XXXII. Vigilar que el desarrollo económico y social de la entidad sea armónico, para que beneficie en forma equitativa a las diferentes regiones del Estado, evaluando periódicamente los resultados obtenidos, en términos simples y comprensibles.
 
-XXXIII. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+> <small>(REFORMADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXIII.- Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXIV.- Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXV.- Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXVI.- Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXVII.- Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXVIII.- Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XXXIX.- Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XL.- Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLI.- Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLII.- Administrar, controlar y vigilar los almacenes generales del gobierno;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLIII.- Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLIV.- Organizar, dirigir y controlar la intendencia del Poder Ejecutivo;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLV.- Organizar y controlar la oficialía de partes;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLVI.- Administrar los talleres gráficos del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLVII.- Administrar el Archivo General del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLVIII.- Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+XLIX.- Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+L.- Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+LI.- Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las dependencias y vigilar su observancia;
+
+> <small>(ADICIONADA, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+LII.- Las demás que les señalen las Leyes y Reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2000)</small>
 
@@ -975,21 +1115,29 @@ XVI.- Organizar y fomentar la producción artesanal en el Estado, vigilando que 
 
 XVII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
-
 ###### Artículo 36 Bis.
 
-La Secretaría de Desarrollo Metropolitano es la dependencia encargada de promover, coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
+(DEROGADO, G.G. 31 DE OCTUBRE DE 2003)
 
-A esta Secretaría de (sic) corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
 
-I. Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
+###### Artículo 37.
+
+La Secretaría de Desarrollo Metropolitano, es la dependencia encargada de promover, coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
+
+> <small>(REFORMADO, G.G. 31 DE OCTUBRE DE 2003)</small>
+
+###### Artículo 38.
+
+A la Secretaría de Desarrollo Metropolitano le corresponde el despacho de los siguientes asuntos:
+
+I. Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las Entidades Federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
 
 II. Promover, coordinar y evaluar con las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, las acciones y programas orientados al desarrollo de las zonas metropolitanas o de conurbación en la entidad;
 
 III. Convocar a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, a participar directamente en alguna comisión metropolitana, cuando así resulte necesario;
 
-IV. Coordinar y promover con los representantes de la entidad en las comisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
+IV. Coordinar y promover con los representantes de la entidad en las emisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
 
 V. Fortalecer, promover y evaluar los mecanismos de coordinación para planear los trabajos de las comisiones metropolitanas;
 
@@ -999,67 +1147,13 @@ VII. Coordinar y dirigir los trabajos de las dependencias estatales en las comis
 
 VIII. Promover, coordinar, vigilar y evaluar los proyectos de inversión metropolitanos, estratégicos de obras y acciones estatales y en materia intermunicipal, cuando así se convenga con los municipios involucrados;
 
-IX. Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquéllas que se deriven de los programas de las comisiones metropolitanas;
+IX. Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquellas que se deriven de los programas de las comisiones metropolitanas;
 
 X. Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos de carácter metropolitano y de coordinación regional e intermunicipal, para que fortalezcan sus programas de infraestructura y equipamiento urbano;
 
-XI. Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
+XI. Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la entidad mexiquense;
 
-XII. Las demás que le señalen otras disposiciones legales.
-
-###### Artículo 37.
-
-La Secretaría de Administración es el órgano encargado de prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo del Estado.
-
-###### Artículo 38.
-
-A la Secretaría de Administración le corresponde el despacho de los siguientes asuntos:
-
-I. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre el Gobierno del Estado y los servidores públicos.
-
-II. Seleccionar, contratar, capacitar y controlar al personal del Poder Ejecutivo del Estado.
-
-III. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los funcionarios y trabajadores del Poder Ejecutivo del Estado.
-
-IV. Mantener al corriente el escalafón de los trabajadores al servicio del Gobierno del Estado.
-
-V. Adquirir los bienes y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado.
-
-VI. Proveer oportunamente a las dependencias del ejecutivo de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones.
-
-VII. Levantar y tener al corriente el inventario general de los bienes muebles e inmuebles propiedad del Gobierno del Estado.
-
-VIII. Administrar y asegurar la conservación y mantenimiento del patrimonio del Gobierno del Estado.
-
-IX. Establecer por acuerdo del Gobernador las normas para la recepción y entrega de las dependencias que incluirá necesariamente el levantamiento de inventarios.
-
-X. Administrar, controlar y vigilar los almacenes generales del gobierno.
-
-XI. Coordinar y supervisar en conjunto con las dependencias interesadas, la emisión de publicaciones oficiales del ejecutivo del Estado, excepto el periódico oficial.
-
-XII. Organizar, dirigir y controlar la intendencia del Poder Ejecutivo.
-
-XIII. Organizar y controlar la oficialía de partes.
-
-XIV. Administrar los talleres gráficos del Estado.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
-
-XV. Administrar el Archivo General del Poder Ejecutivo del Estado.
-
-XVI. Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno.
-
-XVII. Autorizar, previo acuerdo del Gobernador la creación de las nuevas unidades administrativas que requieran las dependencias del Ejecutivo.
-
-XVIII. Elaborar con el concurso de las demás dependencias del ejecutivo, los manuales administrativos de las mismas y auxiliar en la formulación de los anteproyectos de sus reglamentos interiores.
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1991)</small>
-
-XIX. Emitir normas, políticas y procedimientos para el establecimiento y la operación de las unidades de informática de las Dependencias y vigilar y observancia.
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1991)</small>
-
-XX. Las demás que les señalen las Leyes y Reglamentos vigentes en el Estado.
+XII. Los demás que le señalen otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
@@ -1388,6 +1482,20 @@ P.O. 6 DE AGOSTO DE 2003
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 31 DE OCTUBRE DE 2003
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Las Secretarías de la Contraloría y de Finanzas, Planeación y Administración, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento de esta última.
+
+CUARTO.- El Gobernador Constitucional del Estado deberá expedir el reglamento interior de la Secretaría de Finanzas, Planeación y Administración.
+
+QUINTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de las Secretarías de Finanzas y Planeación y de Administración, se entenderá que las mismas se encuentran reservadas a la Secretaría de Finanzas, Planeación y Administración;
+
+SEXTO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente decreto en las Secretarías de Finanzas y Planeación y de Administración, se tramitarán y resolverán, por la Secretaría de Finanzas, Planeación y Administración.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
