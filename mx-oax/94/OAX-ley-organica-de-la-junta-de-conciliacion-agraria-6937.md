@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-junta-de-conciliacion-agraria-6937"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-06-29"
-last_updated: "1991-06-29"
+last_updated: "1994-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA JUNTA DE CONCILIACION AGRARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 29 de junio de 1991.
 
@@ -41,29 +41,35 @@ LEY ORGANICA DE LA JUNTA DE CONCILIACION AGRARIA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 1º.
 
-Es de interés público y utilidad social, la solución de los conflictos agrarios que se susciten entre comunidades, ejidos, núcleos de población y pequeños propietarios o cualquier otro conflicto agrario de naturaleza colectiva, según lo establece el artículo primero de la Ley Federal de Reforma Agraria.
+Es de interés público y de utilidad social la solución de los conflictos agrarios que se susciten entre comunidades, ejidos, núcleos de población y pequeños propietarios o cualquier otro conflicto agrario de naturaleza colectiva, incluídos los problemas limítrofes al interior del Estado, como los que se susciten con otras Entidades Federativas.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 2º.
 
-Con fundamento en el artículo 90 Bis de la Constitución Política del Estado, se crea la Junta de Conciliación Agraria como dependencia del Gobierno del Estado, con la organización y atribuciones que esta Ley establece.
+En cumplimiento del artículo 90 Bis de la Constitución particular del Estado, se crea la Junta de Conciliación Agraria, como organismo centralizado dependiente del Ejecutivo del Estado, con la organización y atribuciones que esta propia Ley establece y que actuará en coordinación con las Entidades Federales, de otras Entidades Federativas y Municipales, en los términos prescritos por el artículo 3° de la Ley Agraria en vigor.
 
 ###### ARTICULO 3º.
 
-La Junta de Conciliación se constituye en un órgano auxiliar de las autoridades agrarias con base en lo dispuesto por el artículo segundo, último párrafo, de la Ley Federal de Reforma Agraria.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 4º.
 
-La junta, se integrará por tres funcionarios conciliadores propietarios, de los cuales uno tendrá el carácter de Presidente, quienes tendrán la misma categoría que los magistrados del Tribunal Superior de Justicia.
+La Junta se integrará con tres conciliadores, dentro de los cuales uno tendrá el carácter de Presidente, un Secretario General y otro de Acuerdos, intérpretes bilingües que hablen español y las lenguas indígenas del Estado y el personal técnico administrativo que sea necesario, de acuerdo a su asignación presupuestal. Los conciliadores y secretarios serán nombrados por el Gobernador del Estado. Los secretarios suplirán a los conciliadores en sus faltas temporales.
 
 ###### ARTICULO 5º.
 
-Los funcionarios conciliadores serán nombrados por el Gobernador del Estado, con el carácter de personal de confianza.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
 
 ###### ARTICULO 6º.
 
-Es facultad del Gobernador del Estado, designar al Presidente de la Junta con duración de un año, quien podrá ser nombrado nuevamente.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
 
 ###### ARTICULO 7º.
 
@@ -71,15 +77,17 @@ El Presidente, distribuirá el trabajo entre él y los otros conciliadores y coo
 
 ###### ARTICULO 8º.
 
-La junta contará con el personal administrativo, técnico y bilingüe, un secretario de acuerdos y un secretario general, que será suplente de los funcionarios conciliadores, para suplirlos en sus faltas temporales, quien será designado por el Gobernador del Estado.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
 
 ###### ARTICULO 9º.
 
-La junta, coordinará sus funciones con la delegación agraria, con la sala regional del cuerpo consultivo agrario y con la Comisión Agraria Mixta.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 10º.
 
-La junta actuará en forma colegiada, sin perjuicio de convocar a participar al Delegado Agrario, al Presidente de la Sala Regional del Cuerpo Consultivo Agrario y a los demás funcionarios federales y locales que considere conveniente la propia junta, para el mejor éxito de la conciliación.
+Sin perjuicio de lo dispuesto en el artículo 7 que antecede, la Junta actuará en forma colegiada para el conocimiento y resolución de sus asuntos; a sus sesiones de pleno podrá solicitar la participación de la Procuraduría Agraria y en general, de cualquier otra autoridad federal, estatal o municipal, así como de otras Entidades Federativas, si estuvieren involucradas en el asunto a tratar.
 
 ###### ARTICULO 11º.
 
@@ -95,17 +103,23 @@ Las funciones de la junta, serán exclusivamente conciliatorias y en todos los c
 
 La junta está facultada para promover la conciliación en los conflictos por tierras entre ejidos o comunidades agrarias con pequeños propietarios; en este caso, los convenios que se concierten se ajustarán estrictamente a las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 14º.
 
-Actuará como órgano conciliador en los conflictos por límites de tierras que se susciten entre ejidos o entre éstos y comunidades indígenas.
+Actuará como órgano conciliador en los conflictos por límites de tierras que se susciten entre comunidades, ejidos o entre cualquiera de éstos y centros de población indígena, así como los que se susciten entre nuestra Entidad federativa y cualquiera otra limítrofe.
 
 ###### ARTICULO 15º.
 
 En los conflictos de límites de bienes comunales, la junta como órgano del Estado, promoverá la conciliación y concertación de los núcleos agrarios con intereses opuestos para lograr la solución definitiva, en cumplimiento a un mandato constitucional.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 16º.
 
-Así mismo, promoverá los convenios entre comunidades agrarias en pugna, con estricta aplicación del mandato contenido en el primer párrafo del artículo 370 de la Ley Federal de Reforma Agraria.
+Asimismo, promoverá los convenios entre centros de población indígena en pugna, con estricta aplicación del artículo 136 de la Ley Agraria en vigor.
+
+Para los efectos de ejecución de los convenios conciliatorios que esta Ley autoriza, la Junta podrá imponer multas hasta por el equivalente a cien días de salario mínimo de la zona que corresponda.
 
 ###### ARTICULO 17º.
 
@@ -115,23 +129,27 @@ Concertados los convenios conciliatorios, hará el seguimiento del trámite ante
 
 Las acciones de conciliación y actos que realice la junta, serán total y absolutamente gratuitos y se impartirán sin distinción alguna de carácter político o ideológico.
 
-### CAPITULO III. PERITOS CONCILIADORES Y LAS AGENCIAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JUNIO DE 1994)</small>
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1991)</small>
+### CAPITULO III. DE LAS COMISIONES INTERINSTITUCIONALES
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 19º.
 
-La junta contará con peritos conciliadores encargados de preparar los casos en que ésta intervenga y atender su seguimiento, a través de las agencias que aquella ordene se establezcan en los lugares y con el tiempo necesario para el cabal cumplimiento de sus funciones.
+La Junta podrá contar para su operación con Comisiones Interinstitucionales de Conciliación Agraria que se integrará (sic) con las dependencias estatales, municipales o federales que de alguna forma contribuyan a la solución de los problemas agrarios que se susciten, a juicio del Gobernador del Estado.
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 20º.
 
-Los peritos conciliadores adscritos a las Agencias, en sus tareas, se coordinarán con los funcionarios agrarios para el mejor éxito de su gestión.
+Las comisiones podrán integrarse en cualquier lugar del territorio del Estado en forma permanente, transitoria o itinerante, según la necesidad de solucionar los conflictos que se presenten.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 21º.
 
-Los peritos conciliadores y las agencias, dependerán directamente de la Secretaría General de la Junta, el personal técnico y el bilingüe dependerán del secretario técnico.
+El presidente de la Junta hará al Gobernador la propuesta de la integración de las comisiones y las dependencias que deban incorporarse según el caso.
 
 ### CAPITULO IV. PROCEDIMIENTOS
 
@@ -141,11 +159,11 @@ El procedimiento de conciliación se seguirá de oficio por acuerdo de la junta 
 
 ###### ARTICULO 23º.
 
-La junta, después de oír la opinión del Delegado Agrario y del Presidente de la Sala Regional del Cuerpo Consultivo Agrario, así como de la Secretaría General del Gobierno del Estado, determinará los casos prioritarios o el orden como serán atendidos.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
 
 ###### ARTICULO 24º.
 
-La junta solicitará de la Delegación Agraria y de la Sala Regional del Cuerpo Consultivo Agrario, copia certificada de todo expediente sujeto a proceso de conciliación en la junta, con resumen del estado jurídico procesal en que se encuentra.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
 
 ###### ARTICULO 25º.
 
@@ -177,19 +195,21 @@ Aprobado un convenio conciliatorio con todas las formalidades legales, la junta 
 
 ### CAPITULO V. PREVENCIONES
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1994)</small>
 
-###### ARTICULO 32°.
+###### ARTICULO 32º.
 
-Los integrantes de la junta, el Secretario Técnico y el general deberán ser Licenciados en Derecho con un mínimo de tres años de ejercicio profesional, especializados en derecho agrario o bien otros profesionistas expertos en materia agraria.
+Los conciliadores agrarios y los secretarios de Acuerdos y General, deberán ser expertos en conflictos agrarios a juicio de quien los nombre.
 
 ###### ARTICULO 33º.
 
-Los integrantes de las Agencias, así como los peritos conciliadores, deberán ser expertos en materia agraria.
+(DEROGADO, P.O. 21 DE JUNIO DE 1994)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 34º.
 
-Los funcionarios conciliadores y los peritos deberán llenar además, los siguientes requisitos:
+Los conciliadores y secretarios de la Junta deberán satisfacer además las exigencias siguientes:
 
 a).- No poseer predios rústicos cuya extensión exceda de la superficie asignada a la propiedad inafectable.
 
@@ -246,3 +266,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 ING. LINO CELAYA LURIA.
 
 Al C................
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JUNIO DE 1994.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
