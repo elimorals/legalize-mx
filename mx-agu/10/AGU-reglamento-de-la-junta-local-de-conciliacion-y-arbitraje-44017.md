@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-junta-local-de-conciliacion-y-arbitraje-44017"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-20"
-last_updated: "2004-09-20"
+last_updated: "2005-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2005.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de septiembre de 2004.
 
@@ -545,13 +545,21 @@ XXI. Rendir mensualmente al Presidente de la Junta Especial un informe de las ac
 
 De los Actuarios
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2005)</small>
+
 ###### Artículo 40.
 
-A la Junta Local de Conciliación y Arbitraje y a cada una de las Juntas Especiales que conforman la Junta Local de Conciliación y Arbitraje, se asignará el número de Actuarios necesarios para el eficaz funcionamiento de las mismas y serán nombrados por el Presidente Titular.
+La Junta Local de Conciliación y Arbitraje así como las Juntas Especiales que la conforman, tendrán una central de actuarios compuesta por el número de Actuarios necesarios para el eficaz funcionamiento de las mismas y que serán nombrados por el Presidente Titular.
+
+La central de actuarios estará a cargo de un actuario coordinador quien administrará y organizará el trabajo de cada uno de los actuarios.
+
+El actuario coordinador estará bajo la supervisión del Secretario General de la Junta, a quien deberá rendir un informe mensual de sus actividades.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2005)</small>
 
 ###### Artículo 41.
 
-Los Actuarios además de las facultades y obligaciones que consignan para ellos, en la Ley Federal del Trabajo, tienen las siguientes:
+Los Actuarios además de las facultades y obligaciones que se consignan para ellos, en la Ley Federal del Trabajo, tienen las siguientes:
 
 I. Recibir los expedientes que se les encomiende para su diligencia previo registro y firma de los mismos, anotando la fecha y hora en que los reciben y que los devuelven;
 
@@ -563,11 +571,17 @@ IV. Practicar oportunamente las diligencias que se le encomienden en la fecha, h
 
 V. Elaborar las actas respectivas de las notificaciones y diligencias practicadas en ejercicio de sus funciones, asentando las razones correspondientes debiendo firmarlas al calce para constancia;
 
-VI. Recibir cuando por motivo de requerimiento de pago le sean entregadas cantidades en efectivo, títulos de crédito o valores debiendo asentar en el acta su recepción y remitirlos en forma inmediata al Presidente de la Junta Especial a la que pertenece para que provea lo necesario;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2005)</small>
 
-VII. Acatar las indicaciones e instrucciones del Presidente de la Junta, de los de las Juntas Especiales, de los Secretarios Generales o de los Auxiliares a las que estén asignados; y
+VI. Recibir cuando por motivo de requerimiento de pago le sean entregadas cantidades en efectivo, títulos de crédito o valores debiendo asentar en el acta su recepción y remitirlos en forma inmediata al Presidente de la Junta Especial correspondiente para que provea lo necesario;
 
-VIII. Rendir un informe mensual al Presidente de la Junta Especial a la que pertenezca, de las diligencias y notificaciones realizadas así como de los expedientes en su poder.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2005)</small>
+
+VII. Acatar las indicaciones e instrucciones del Presidente de la Junta, de los de las Juntas Especiales, del Secretario General y del actuario coordinador; y
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2005)</small>
+
+VIII. Rendir un informe mensual al actuario coordinador de las diligencias y notificaciones realizadas así como de los expedientes en su poder.
 
 De los Archivistas
 
@@ -846,3 +860,9 @@ REPRESENTANTE PATRONAL.
 Eliseo Hernández Charqueño,
 
 REPRESENTANTE OBRERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE MARZO DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
