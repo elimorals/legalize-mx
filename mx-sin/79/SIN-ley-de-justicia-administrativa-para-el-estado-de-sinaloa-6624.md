@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "1993-03-26"
+last_updated: "1994-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -131,23 +131,29 @@ Los Magistrados propietarios, Secretarios y Actuarios del Tribunal estarán impe
 
 ### CAPITULO III. DE LA COMPETENCIA Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 13.
 
-El Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, será competente para conocer y resolver:
+El Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, será competente para conocer y resolver de los juicios:
 
-I. De los asuntos que se promuevan en contra de actos o resoluciones administrativas o fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades Estatales y Municipales así como sus respectivos Organismos Descentralizados;
+I.- Que se promuevan por las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos, disposiciones y resoluciones de naturaleza administrativa y fiscal, emitidos por autoridades del Estado o de los Municipios, así como por sus organismos descentralizados;
 
-II. De la promoción contra actos en materia administrativa o fiscal, que configuren negativa ficta de las autoridades del Estado, de los Municipios o de los Organismos Descentralizados Estatales o Municipales;
+II.- Que se presenten contra actos en materia administrativa o fiscal, que configuren negativa ficta de las autoridades del Estado, de los Municipios o de los organismos descentralizados Estatales o Municipales;
 
-III. Del juicio de lesividad, promovido por la autoridad, para que sean nulificadas las resoluciones administrativas o fiscales, favorables a un particular y que causen una lesión a la Administración Pública Estatal o Municipal o a sus Organismos Descentralizados;
+> <small>(F. DE E., P. O. 27 DE FEBRERO DE 1995)</small>
 
-IV. De los asuntos en que se reclame responsabilidad civil objetiva al Estado, o a los Municipios o a sus Organismos Descentralizados;
+III.- De lesividad, promovido por la autoridad, para que sean nulificadas las resoluciones administrativas o fiscales, favorables a un particular y que causen una lesión a la Administración Pública Estatal o Municipal o sus organismos descentralizados;
 
-V. De los casos en que se establezca responsabilidad administrativa a servidores públicos Estatales o Municipales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+IV.- En los que se reclame responsabilidad civil objetiva al Estado, a los Municipios o a sus organismos descentralizados;
 
-VI. De los casos que se refieran a contratos de naturaleza administrativa en que sean parte el Estado, los Municipios o sus Organismos Descentralizados; y,
+V.- En los que se impugne el establecimiento de responsabilidad administrativa a servidores públicos Estatales o Municipales o de sus organismos descentralizados, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-VII. De los demás asuntos que le señalen Leyes y Reglamentos.
+VI.- Que se refieran al incumplimiento de contratos de naturaleza administrativa en que sean parte el Estado, los Municipios o sus organismos descentralizados;
+
+VII.- Que se promuevan en materia fiscal con el objeto de que se declare la configuración de la Positiva Ficta en que incurran las autoridades del Estado, del Municipio o de sus organismos descentralizados, cuando esta figura legal se prevea en las leyes aplicables; y
+
+VIII.- Que le señalen otras leyes y reglamentos.
 
 ### CAPITULO IV. DEL PLENO
 
@@ -173,7 +179,9 @@ II. Fijar la adscripción de los Magistrados, Secretarios, Actuarios y Asesores 
 
 III. Calificar las excusas, recusaciones e impedimentos de los Magistrados Propietarios y, en su caso, designar a los Magistrados Supernumerarios que deban sustituirlos;
 
-IV. Resolver los recursos de revisión que se presenten en contra de las resoluciones que se dicten por las Salas en la tramitación de los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+IV.- Resolver los recursos de reclamación y de revisión que se presenten en contra de las resoluciones que dicten las Salas, conforme lo disponen los capítulos I y III del título cuarto de esta ley;
 
 V. Establecer la Jurisprudencia del Tribunal;
 
@@ -233,11 +241,13 @@ Las Salas Regionales se integrarán por un Magistrado cada una; y tendrán adem�
 
 Las Salas serán regionales para el desempeño de sus funciones, y tendrán la residencia y jurisdicción que determine el reglamento interior del Tribunal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 22.
 
-Las Salas serán competentes para conocer de los asuntos que establece el artículo 13 de esta ley y de los siguientes:
+Las Salas serán competentes para conocer de los juicios que establece el artículo 13 de esta Ley y además de lo siguiente:
 
-I. Del recurso de reclamación en los términos del capítulo I del título cuarto de esta Ley;
+I.- ( DEROGADA, P.O. 26 DE DICIEMBRE DE 1994)
 
 II. Del recurso de queja en los términos del capítulo II del título cuarto de esta Ley; y,
 
@@ -353,6 +363,8 @@ Antes de iniciar un período vacacional, el Tribunal en Pleno designará a un Ma
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 31.
 
 El particular contará, para la defensa de sus derechos, con asesores jurídicos gratuitos que serán designados por el Gobernador del Estado, cuyas funciones se regirán en los términos de este capítulo. Para ser asesor jurídico se requiere cumplir con los requisitos que establece el artículo 11 de la presente Ley.
@@ -379,7 +391,7 @@ V. Las demás que les señalen las Leyes.
 
 ###### ARTICULO 33.
 
-Los asuntos competencia del Tribunal de lo Contencioso Administrativo del Estado de Sinaloa se promoverán, substanciarán y resolverán en los términos que dispone la presente Ley. A falta de prevención expresa se aplicará supletoriamente el Código de Procedimientos Civiles de la Entidad.
+Los Asuntos competencia del Tribunal de lo Contencioso Administrativo del Estado de Sinaloa se promoverán, substanciarán y resolverán en los términos que dispone la presente Ley. A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles vigente en el Estado, siempre que se refiera a instituciones previstas en esta Ley y que la disposición supletoria se avenga al procedimiento contencioso administrativo que la misma establece.
 
 ###### ARTICULO 34.
 
@@ -389,9 +401,17 @@ Cuando otras leyes y reglamentos contengan recursos administrativos para combati
 
 Toda promoción deberá ser firmada por el promovente. Sin este requisito se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, estampará su huella digital, ratificándola ante la Secretaría del Tribunal.
 
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)(F. DE E., P.O. 27 DE FEBRERO DE 1995)
+
 ###### ARTICULO 36.
 
-No procederá la gestión de negocios: quien promueva a nombre de otro deberá acreditar su representación legal.
+No procederá la gestión de negocios. Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada a más tardar en la fecha de presentación de la demanda o de la contestación, según sea el caso.
+
+> <small>(F. DE E., P.O. 27 DE FEBRERO DE 1995)</small>
+
+La representación de los particulares se otorgará en escritura pública o carta poder firmada por dos testigos ante Notario Público o ante el Secretario General de acuerdos del Tribunal.
+
+La Representación de las autoridades sólo podrá recaer en la dependencia o unidad administrativa encargada de su defensa jurídica por ministerio de Ley.
 
 ###### ARTICULO 37.
 
@@ -437,13 +457,17 @@ b) El particular en el juicio de lesividad; y,
 
 III. El tercero que tenga interés legítimo, que pueda afectarse con las resoluciones del Tribunal, o que comparezca a juicio como coadyuvante del actor o del demandado, pretendiendo la anulación o la confirmación del acto impugnado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 43.
 
-Las partes podrán autorizar para oír y recibir notificaciones a su nombre, a cualquier persona en ejercicio de la abogacía, quien estará autorizada para hacer promociones de trámite, interponer recursos, ofrecer y rendir pruebas, ampliar la demanda, en su caso, y alegar en la audiencia, previo registro de su cédula de ejercicio profesional.
+El actor y los terceros o sus representantes, podrán autorizar para oír y recibir notificaciones a su nombre, a cualquier persona en ejercicio de la abogacía, previo registro de su cédula de ejercicio profesional o carta de pasante, quien estará autorizada para hacer promociones de trámite, interponer recursos, ofrecer y rendir pruebas, ampliar la demanda en su caso y alegar en la audiencia.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 44.
 
-Las autoridades que figuren como partes en el Procedimiento Contencioso Administrativo podrán acreditar delegados que concurran a las audiencias con facultades para rendir pruebas y alegar.
+Las autoridades que figuran como partes en el procedimiento contencioso administrativo, podrán señalar autorizados para recibir los oficios de notificación y acreditar delegados que concurran a las audiencias con facultades para rendir pruebas y alegar.
 
 ### CAPITULO V
 
@@ -475,7 +499,9 @@ f) La de sobreseimiento y sentencia; y,
 
 g) Cuando el Tribunal lo estime necesario.
 
-En caso de que el notificable radique fuera de la residencia del Tribunal, se hará por correo certificado con acuse de recibo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+En caso de que las partes radiquen fuera de la residencia de la Sala de conocimiento del juicio, deberán señalar domicilio en la población en que se ubique la misma, en el primer escrito que presenten, con el fin de que en él se realicen las notificaciones personales indicadas en esta Ley. En caso de no hacerlo así, las notificaciones se realizarán por lista autorizada que deberá contener el nombre de la persona a quien se notifica, contenido de (sic) acuerdo y fecha del mismo, asentándose en autos la fecha de la lista.
 
 ###### ARTICULO 47.
 
@@ -531,9 +557,11 @@ El Magistrado que estando impedido, no se excuse para conocer de un juicio, en l
 
 La demanda deberá presentarse personalmente o enviarse por correo certificado ante la Sala Regional correspondiente al domicilio del actor, dentro de los quince días siguientes al en que se haya notificado el acto impugnado, o se haya tenido conocimiento del mismo o de su ejecución. Se exceptúan de dicho término los siguientes casos:
 
-I. Cuando se impugne la negativa ficta, el interesado podrá presentar la demanda en cualquier tiempo, mientras no se dicte la resolución expresa; y siempre que haya transcurrido el término en que la autoridad debía dictar resolución, o a falta de éste, después de cien días naturales contados a partir de la fecha en que se hizo la petición.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1994)</small>
 
-II. En el juicio de responsabilidad civil objetiva reclamada al Estado, a los Municipios o a sus Organismos Descentralizados, en el que la demanda podrá interponerse dentro de los seis meses siguientes a la fecha en que se originó la causa de responsabilidad.
+I.- Cuando se impugne la negativa ficta o se demande la declarativa de configuración de la Positiva Ficta, el interesado podrá presentar la demanda en cualquier tiempo, mientras no se dicte la resolución expresa y siempre que haya transcurrido el término en que la autoridad debía dictar resolución, o a falta de éste, después de cien días naturales contados a partir de la fecha en que se hizo la petición;
+
+II. En el juicio de responsabilidad civil objetiva reclamada al Estado, a los Municipios ó a sus Organismos Descentralizados, en el que la demanda podrá interponerse dentro de los seis meses siguientes a la fecha en que se originó la causa de responsabilidad.
 
 III. En el juicio de lesividad, en el que las autoridades para ejercitar su acción, gozarán del término de cinco años, siguientes a la fecha en que sea emitida la resolución que pretenden nulificar, salvo que haya producido efectos de tracto sucesivo, caso en que se podrá demandar la nulidad en cualquier época, sin exceder de los cinco años del último efecto;
 
@@ -545,7 +573,9 @@ V. Cuando el particular falleciere dentro de los plazos a que se refiere este ar
 
 El demandante tendrá derecho de ampliar su demanda dentro de los quince días siguientes a la fecha de contestación de la misma, en los siguientes casos:
 
-I. Cuando se demande una negativa ficta; y,
+|(REFORMADA, P.O. 26 DE DICIEMBRE DE 1994)
+
+I.- Cuando se demande una negativa ficta o la declarativa de configuración de la Positiva Ficta; y
 
 II. Cuando los fundamentos y motivos del acto impugnado sean conocidos por el actor hasta que se conteste la demanda.
 
@@ -575,7 +605,9 @@ A la demanda deberá acompañarse lo siguiente:
 
 I. Los documentos que justifiquen la personalidad, cuando no se litigue en nombre propio, a menos que la representación le haya sido reconocida por la autoridad demandada;
 
-II. Los documentos en que conste el acto impugnado, o copia de la petición no resuelta en caso de negativa ficta;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+II.- Los documentos en que conste el acto impugnado o copia de la petición no resuelta en los casos de negativa o positiva ficta, en la que conste fehacientemente la fecha en que fue presentada a la autoridad dicha petición;
 
 III. El pliego de posiciones en sobre cerrado a que se sujetará la prueba confesional, el nombre de los peritos y testigos y el cuestionario para el desahogo de la prueba pericial. El interrogatorio para el examen de los testigos, sólo cuando éstos radiquen fuera de la residencia del Tribunal;
 
@@ -597,11 +629,11 @@ Si no acompaña los documentos a que se refiere el artículo 57; se le prevendr�
 
 Con el auto en que se admita la demanda, se señalará fecha para que tenga verificativo la audiencia del juicio, que deberá celebrarse dentro de los cuarenta y cinco días siguientes a su admisión, asimismo, se dictarán las providencias necesarias para el desahogo de las pruebas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 61.
 
-La Sala Regional admitirá la demanda una vez que le sea presentada, desechándola si encontrase causas de improcedencia.
-
-Contra el auto de desechamiento a que se refiere este artículo, procede el recurso de reclamación ante la propia Sala.
+Las Salas admitirán la demanda que le sea presentada, desechándola si encontrase causas de improcedencia. Contra el auto de desechamiento a que se refiere este Artículo, procede recurso de reclamación.
 
 ### CAPITULO VIII. DE LOS INCIDENTES
 
@@ -643,7 +675,9 @@ III. No exhiba las pruebas o los informes que le han sido requeridos, sin causa 
 
 En la contestación de la demanda no podrán variarse los fundamentos de derecho de la resolución o acto impugnado.
 
-En el caso de negativa ficta, la autoridad solo podrá expresar los hechos y el derecho en que apoye la misma.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+En caso de Negativa Ficta, la autoridad únicamente podrá expresar los hechos y el derecho en que apoye la misma. Tratándose de Positiva Ficta, sólo podrá excepcionarse cuando pueda demostrar que la misma no se ha configurado, o bien, en caso contrario, la Sala correspondiente tramitará la resolución excepcional del juicio a fin de que sin mayor trámite se dicte sentencia favorable al actor, emitiendo la declarativa solicitada.
 
 ###### ARTICULO 67.
 
@@ -652,6 +686,20 @@ En los juicios en que no exista tercero interesado o en el que manifieste su con
 También podrá la autoridad demandada a petición de parte, realizar pedimento de resolución excepcional del juicio, cuando sea claro e indubitable el derecho de la actora. El Tribunal proveerá la solicitud de los interesados en que se realice pedimento de sentencia favorable, requiriendo a la demandada por el término de cinco días para que manifieste si solicita la resolución inmediata del juicio en favor del solicitante o la continuación del procedimiento en su tramitación regular. En todo caso, la autoridad expresará las razones en que se funde.
 
 El Tribunal resolverá los pedimentos de resolución excepcional de juicio en un término no mayor de diez días.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 67 BIS-A.- Las partes podrán celebrar convenios para conciliar sus intereses en cualquier etapa del juicio hasta antes de que se dicte sentencia. En tal caso, dichos convenios deberán presentarse para su ratificación y aprobación ante la Sala respectiva para que sean elevados a la categoría de cosa Juzgada.
+
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1994)(F. DE E., P.O. 27 DE FEBRERO DE 1995)
+
+ARTICULO 67 BIS-B.- En los casos en que exista tercero interesado, la Sala aprobará el convenio únicamente cuando dicho tercero manifieste su conformidad, suscribiendo el convenio conjuntamente con las partes.
+
+Cuando sean varias las autoridades demandadas, será suficiente con que el convenio esté suscrito por la autoridad que generó el acto impugnado, entendiéndose que queda sin materia el juicio.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 67 BIS-C.- El actor y el tercero deberán acudir en forma personal a la Sala para ratificar el convenio que hayan suscrito con la autoridad, mientras que esta última, podrá designar Delegados para los mismos efectos.
 
 ### CAPITULO IX. DE LAS PRUEBAS
 
@@ -667,7 +715,11 @@ La suspensión de los actos impugnados podrá concederse por el Magistrado de la
 
 No se otorgará la suspensión si se causa perjuicio al interés social, se contravienen disposiciones de orden público, o se deja sin materia el juicio.
 
-Cuando los actos, materia de ejecución afecten a los particulares de escasos recursos económicos, impidiéndoles el ejercicio de su única actividad de subsistencia, El Tribunal dictará entre tanto se pronuncia la resolución definitiva, medidas cautelares para preservar el medio de subsistencia del afectado, siempre que no se lesionen derechos de terceros.
+Cuando los actos materia de ejecución afecten a los particulares de escasos recursos económicos, impidiéndoles el ejercicio de su única actividad de subsistencia, el Tribunal dictará entre tanto se pronuncia la resolución definitiva, medidas cautelares para preservar el medio de subsistencia del afectado, siempre que no se lesionen derechos de tercero.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+La suspensión podrá concederse con efectos restitutorios, únicamente cuando se trate de actos privativos de libertad decretados al particular por la autoridad administrativa, o bien, cuando a juicio del Magistrado sea necesario otorgarle estos efectos, con el objeto de conservar la materia de litigio o impedir perjuicios irreparables al propio particular.
 
 ###### ARTICULO 71.
 
@@ -847,6 +899,8 @@ La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de p
 
 ### CAPITULO I. DE LA RECLAMACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 93.
 
 Será improcedente el juicio ante el Tribunal de lo Contencioso Administrativo cuando se promueva en contra de actos:
@@ -859,7 +913,9 @@ III. Que sean o hayan sido materia de otro Juicio Contencioso Administrativo, pr
 
 IV. Que hayan sido resueltos en un procedimiento jurisdiccional;
 
-V. Que no afecten los intereses jurídicos del demandante, o que se hayan consentido expresa o tácitamente, entendiéndose por estos últimos, aquellos contra los que no se promovió el juicio dentro de los términos de esta Ley;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+V.- Que no afecten los intereses del demandadante (sic) o que se hayan consentido expresa o tácitamente, entendiéndose por estos últimos, aquellos contra los que no se promovió el juicio dentro de los términos de esta ley;
 
 VI. Consumados de manera irreparable;
 
@@ -869,9 +925,11 @@ VIII. Que por si mismos no causen perjuicios al actor, sino que necesiten un act
 
 IX. Reglamentarios, circulares o disposiciones de carácter general;
 
-X. En los que hayan cesado los efectos legales o materiales o éstos no puedan surtirse, por haber dejado de existir el objeto ó materia de los mismos; y,
+X. En los que hayan cesado los efectos legales ó materiales ó éstos no puedan surtirse, por haber dejado de existir el objeto ó materia de los mismos; y,
 
-XI. En los que la improcedencia resulte de alguna otra disposición legal. Estas causales de improcedencia serán examinadas de oficio.
+XI. En los que la improcedencia resulte de alguna otra disposición legal.
+
+Estas causales de improcedencia serán examinadas de oficio.
 
 ###### ARTICULO 94.
 
@@ -939,6 +997,10 @@ La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún c
 
 Causarán ejecutoria las sentencias dictadas por el Tribunal de lo Contencioso Administrativo no impugnadas en los términos de Ley, o que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación, o se haya desistido de él quien promueva, así como las consentidas en forma expresa por las partes o sus representantes legítimos. Asimismo, los fallos del Pleno en los recursos de revisión interpuestos por las autoridades demandadas causarán ejecutoria.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
+En igual forma, causarán ejecutoria los convenios que suscriben las partes para conciliar sus intereses poniendo fin al juicio, siempre que hayan sido elevados a la categoría de cosa Juzgada por la Sala de Conocimiento.
+
 ###### ARTICULO 102.
 
 La declaración de sentencia ejecutoria, se hará de oficio o a petición de parte. La que favorezca a un particular o contenga una obligación de hacer o de condena, deberá comunicarse a la autoridad correspondiente previniéndola y conminándola a rendir un informe dentro de los quince días siguientes.
@@ -963,17 +1025,27 @@ Las sanciones mencionadas en este Capítulo, también serán procedentes cuando 
 
 ###### ARTICULO 106.
 
-Procederá el recurso de reclamación ante el Magistrado Instructor en contra de las siguientes resoluciones:
+Procederá el recurso de reclamación ante el Pleno del Tribunal en contra de las siguientes resoluciones dictadas por las Salas:
 
 I. Las que admitan o desechen la demanda, su ampliación, la contestación y las pruebas;
 
-II. Las que se dicten en materia de improcedencia y sobreseimiento; y,
+II. ( DEROGADA, P.O. 26 DE DICIEMBRE DE 1994)
 
 III. Las que resuelvan cuestiones incidentales.
 
+(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1994) (F. DE E., P.O. 27 DE FEBRERO DE 1995)
+
+IV.- Las que se dicten en materia de suspensión, a excepción del caso contenido en el último párrafo del artículo 71 de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 107.
 
-La reclamación se interpondrá ante la sala de adscripción del Magistrado que hubiere dictado el acto recurrido, se hará por escrito con expresión de agravios, dentro de los cinco días siguientes al en que surta efectos la notificación respectiva, se correrá traslado a la contraparte por el término de tres días, para que exprese lo que a su derecho convenga y sin más trámites se dictará la resolución que proceda en el término de los cinco días siguientes.
+La reclamación se dirigirá ante el Plano (sic) del Tribunal, podrá presentarse ante la Sala de adscripción del Magistrado que haya dictado la resolución recurrida, quien turnará de inmediato. Se presentará por escrito con expresión de agravios, dentro de los cinco días siguientes al en que surta efectos la notificación respectiva.
+
+El Tribunal en Pleno al admitir el recurso, designará a un Magistrado Ponente quien no podrá ser el que haya resuelto en la primera instancia, ordenando correr traslado a las partes por un término de tres días para que expresen lo que a su derecho convengan. Transcurrido dicho plazo, el Magistrado Ponente formulará su proyecto de resolución, sometiéndolo a la consideración del Pleno para que en un término de diez días se emita el voto correspondiente.
+
+La resolución se pronunciará por mayoría de votos de los Magistrados del Tribunal en Pleno.
 
 ###### ARTICULO 108.
 
@@ -1076,3 +1148,15 @@ Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
 Es dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los diecinueve días del mes de marzo de mil novecientos noventa y tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Ing. Renato Vega Alvarado; EL SECRETARIO GENERAL DE GOBIERNO, Dr. Francisco C. Frías Castro.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+De los recursos de reclamación que se encuentren en trámite, seguirá conociendo hasta su resolución la Sala en que se hayan iniciado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
