@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "1998-01-23"
+last_updated: "1999-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -406,7 +406,7 @@ En las faltas temporales, el jefe del cuerpo, será suplido por los defensores a
 
 ### CAPITULO V. Ministerio Público
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 57.
 
@@ -452,7 +452,7 @@ Si el ejército estuviere en territorio de una potencia amiga o neutral, se obse
 
 Es tribunal competente para conocer de un proceso, el del lugar donde se cometa el delito.
 
-La Secretaría de Guerra y Marina, sin embargo, puede designar distinta jurisdicción a la del lugar a donde se cometió el delito, cuando las necesidades el(sic) servicio de justicia lo requieran.
+La Secretaría de Guerra y Marina, sin embargo, puede designar distinta jurisdicción a la del lugar a donde se cometió el delito, cuando las necesidades el (sic) servicio de justicia lo requieran.
 
 ###### ARTICULO 63.
 
@@ -554,7 +554,7 @@ I.- Dar cuenta al presidente del Supremo Tribunal Militar, con todos los negocio
 
 II.- dar cuenta en las sesiones del Supremo Tribunal Militar, con los asuntos de que éste deba conocer, relatándolos en extracto y proponiendo el acuerdo que en su concepto, deba recaer;
 
-III.- levantar acta de las sesiones, haciendo una relación de los asuntos que se hubiesen tratado, el sentido de las discusiones y razonamientos expuestos en ellas.
+III.- levantar acta de las sesiones, haciendo una relación de los asuntos que se hubiesen tratado, el sentido de las discusiones y razonamientos expuestos en ellas;
 
 IV.- tomar la votación en cada negocio, haciendo constar quiénes votan en un sentido y quiénes en otro;
 
@@ -588,7 +588,7 @@ Son competentes para convocar consejos de guerra extraordinarios:
 
 I.- Los comandantes de la guarnición;
 
-II.- el jefe de un ejército, cuerpo de ejército o comandante en jefe de fuerzas navales, y los de las divisiones, brigadas, secciones o buques que operen aisladamente.
+II.- El jefe de un ejército, cuerpo de ejército o comandante en jefe de fuerzas navales, y los de las divisiones, brigadas, secciones o buques que operen aisladamente.
 
 ###### ARTICULO 74.
 
@@ -656,7 +656,7 @@ VII.- Las demás atribuciones que la ley o los jueces les encomienden.
 
 ###### ARTICULO 78.
 
-El Ministerio Público, al recibir una denuncia o querella recabará con toda oportunidad y eficacia los datos necesarios, para acreditar los elementos que integran el tipo penal y la probable responsabilidad de los indiciados, a fin de formular desde luego el pedimento correspondiente, solicitando la aprehensión, comparecencia o presentación de los probables responsables, si no hubieren sido detenidos en flagrante delito o en caso urgente.
+El Ministerio Público al recibir una denuncia o querella recabará con toda oportunidad y eficacia los datos necesarios, para acreditar el cuerpo del delito y la probable responsabilidad de los indiciados, a fin de formular desde luego el pedimento correspondiente, solicitando la aprehensión, comparecencia o presentación de los probables responsables, si no hubieren sido detenidos en flagrante delito o en casos urgentes.
 
 ###### ARTICULO 79.
 
@@ -740,9 +740,9 @@ V.- los demás que enumera el artículo siguiente en cuanto sean aplicables.
 
 Son atribuciones y deberes de los agentes adscritos a los juzgados:
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-I.- Desde las primeras diligencias de investigación de los delitos, recabar y presentar las pruebas que acrediten los elementos del tipo penal y la probable responsabilidad de los indiciados, para ejercer la acción penal debidamente fundada y motivada, solicitando las órdenes de aprehensión o de comparecencia que procedan y las demás determinaciones judiciales que sean pertinentes para hacer efectiva tal acción;
+I.- Desde las primeras diligencias de investigación de los delitos, recabar y presentar las pruebas que acrediten el cuerpo del delito y la probable responsabilidad de los indiciados, para ejercer la acción penal debidamente fundada y motivada, solicitando las órdenes de aprehensión o de comparecencia que procedan y las demás determinaciones judiciales que sean pertinentes para hacer efectiva tal acción;
 
 II.- formular pedimento en las averiguaciones a que se refiere el artículo 81 fracción II, una vez que estén practicadas las diligencias respectivas y que se llevarán a cabo en un plazo no mayor de ciento veinte días. Si estimare que no hay base para iniciar procedimiento, enviará la averiguación correspondiente al Procurador General de Justicia Militar, con informe justificado, para que éste, oyendo a sus adscritos, resuelva si confirma o no su opinión;
 
@@ -1892,11 +1892,7 @@ Se castigará con prisión de seis meses a los que conspiren para cometer el del
 
 ## TITULO OCTAVO. Delitos contra la existencia y seguridad del ejército
 
-### CAPITULO VI
-
-Insultos, amenazas o violencias contra centinelas, guardias, tropa formada,
-
-salvaguardias, bandera y ejército
+### CAPITULO VI. Insultos, amenazas o violencias contra centinelas, guardias, tropa formada, salvaguardias, bandera y ejército
 
 ###### ARTICULO 228.
 
@@ -1996,7 +1992,7 @@ II.- A cuatro meses de prisión, si ese valor excediere de veinte salarios míni
 
 III.- A un año de prisión en los demás casos, aumentando quince días por cada veinte salarios mínimos o fracción de exceso, sobre doscientos, pero sin que la pena pueda exceder de ocho años de prisión.
 
-Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la corporal correspondiente, conforme al indicado artículo 241 y en la destitución que el mismo precepto establece:(sic)
+Si la devolución se efectuare después de tres días, y antes de que se pronuncie sentencia definitiva, la pena aplicable consistirá en el mínimo de la corporal correspondiente, conforme al indicado artículo 241 y en la destitución que el mismo precepto establece.
 
 ###### ARTICULO 244.
 
@@ -2130,7 +2126,7 @@ Los individuos de tropa que desertaren efectuando su separación ilegal del serv
 
 ###### ARTICULO 261.
 
-Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se prevén en seguida, serán castigados:
+Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se preven en seguida, serán castigados:
 
 I.- El que deserte de la escolta de prisioneros, detenidos o presos o de cualquiera otra no especificada en este artículo, con la pena de tres años de prisión;
 
@@ -3162,7 +3158,7 @@ El que auxilie la fuga general de los presos o detenidos existentes en un edific
 
 Siempre que se evadan uno o más prisioneros, presos o detenidos, se hará efectiva la responsabilidad del que mandare la escolta o fuerza encargado directamente de la custodia de él o de los que se hubieren evadido, sin perjuicio de exigirla también a todos los demás individuos de esa misma escolta o fuerza, que con sus actos u omisiones apareciere que hubieren favorecido la evasión.
 
-### CAPITULO III. Comprobación de los elementos que integran el tipo penal y de la probable responsabilidad
+### CAPITULO III. Comprobación del cuerpo del delito y de la probable responsabilidad
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -3640,7 +3636,7 @@ V.- los nombres del juez que dicte la determinación y del secretario que la aut
 
 Si en las diligencias consignadas por el Ministerio Público se solicitare la detención de una persona u orden de comparecencia en su caso, el juez la librará, si están reunidos los requisitos que exige el artículo 16 de la Constitución General.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO X. De los documentos públicos y privados
 
@@ -3648,23 +3644,21 @@ Si en las diligencias consignadas por el Ministerio Público se solicitare la de
 
 La base del procedimiento penal es la comprobación de la existencia de un hecho o de una omisión reputados por la ley como delito; sin ella no puede haber procedimiento ulterior.
 
-Para la comprobación de los elementos que integran el tipo penal, tendrán todo su valor legal los medios de prueba admitidos por este Código, debiendo tenerse como preferentes los señalados en el presente capítulo, gozando las autoridades de la acción más amplia para emplear los medios de investigación que estimen conducentes, siempre que no estén prohibidos por la ley.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+Para la comprobación del cuerpo del delito, tendrán todo su valor legal los medios de prueba admitidos por este código, debiendo tenerse como preferentes los señalados en el presente capítulo, gozando las autoridades de la acción más amplia para emplear los medios de investigación que estimen conducentes, siempre que no estén prohibidos por la ley.
 
 Para resolver sobre la probable responsabilidad, la autoridad deberá constatar que no existe acreditada en favor del inculpado alguna causa de exclusión del delito, y que obren datos suficientes para acreditar su probable culpabilidad.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 454.
 
-Los elementos del tipo penal son:
+El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del indiciado, como base del ejercicio de la acción penal. La autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-I. La existencia de la correspondiente acción u omisión y de la lesión o en su caso, el peligro a que ha sido expuesto el bien jurídico tutelado;
+Por cuerpo del delito se entiende el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señale como delito, así como los normativos, en el caso de que la descripción típica lo requiera.
 
-II. La forma de intervención de los sujetos activos; y
-
-III. La realización dolosa o culposa de la acción u omisión.
-
-Asimismo, se acreditarán, si el tipo lo requiere: a) Las calidades del sujeto activo y del pasivo; b) El resultado y su relación, con la acción u omisión; c) El objeto material; d) Los medios utilizados; e) Circunstancias de lugar, tiempo, modo y ocasión; f) Los elementos normativos; g) Los elementos subjetivos; y h) Las demás circunstancias que la ley prevea.
+La probable responsabilidad del indiciado se tendrá por acreditada cuando, de los medios probatorios existentes, se deduzca su participación en el delito, la comisión dolosa o culposa del mismo y no exista acreditada a favor de aquél alguna causa de licitud o alguna excluyente de culpabilidad.
 
 ###### ARTICULO 455.
 
@@ -3920,7 +3914,7 @@ El acusado podrá manifestar cuanto estime conveniente para su defensa, debiénd
 
 ###### ARTICULO 500.
 
-Si se advierte en el procesado indicios de enajenación mental, se averiguará, por él (sic) reconocimiento de facultativos y por medio de pruebas u otras observaciones, si la enajenación es cierta o simulada, permanente o transitoria, anterior o posterior al delito.
+Si se advierte en el procesado indicios de enajenación mental, se averiguará, por el reconocimiento de facultativos y por medio de pruebas u otras observaciones, si la enajenación es cierta o simulada, permanente o transitoria, anterior o posterior al delito.
 
 Lo que antecede no será obstáculo para la prosecución de la causa y prática (sic) de las diligencias necesarias para el esclarecimiento de los hechos.
 
@@ -4016,23 +4010,25 @@ I.- La fecha y hora exacta en que se pronuncie;
 
 II.- los nombres del juez que dicte la determinación y del secretario que la autorice;
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-III.- La expresión del delito imputado al indiciado, por el Ministerio Público;
+III.- La expresión del delito imputado al indiciado por el Ministerio Público, así como el lugar, tiempo y circunstancias de ejecución;
 
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
 IV.- Que se haya tomado al indiciado su declaración preparatoria con las formalidades legales;
 
-V.- el delito o delitos por los que deberá seguirse el proceso y la comprobación de sus elementos materiales;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
+
+V.- El delito o delitos por los que deberá seguirse el proceso;
 
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
 VI.- Todos los datos que contenga la averiguación que hagan probable la responsabilidad del indiciado;
 
-> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-VII.- Todos los actos que acrediten los elementos de tipo penal;
+VII.- Todos los actos que acrediten el cuerpo del delito;
 
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -4044,17 +4040,17 @@ IX.- Que no esté justificada, a favor del indiciado, la existencia de alguna ci
 
 X.- que no se haya extinguido la acción penal.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-El plazo antes señalado se podrá duplicar a solicitud que haga el indiciado, por sí o por conducto de su defensor, al rendir su declaración preparatoria o dentro de las tres horas siguientes, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica, siempre y cuando las mismas no hayan sido aportadas y desahogadas durante la averiguación previa.
+El plazo antes señalado se podrá prorrogar por un término igual a solicitud que haga el indiciado, por si o por conducto de su defensor, al rendir su declaración preparatoria, o dentro de las tres horas siguientes, siempre que dicha ampliación sea con la finalidad de aportar y desahogar pruebas para que el juez resuelva su situación jurídica, siempre y cuando las mismas no hayan sido aportadas y desahogadas durante la averiguación previa.
 
 > <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 El Ministerio Público no podrá solicitar dicha ampliación ni el juez acordarla de oficio. El Ministerio Público puede en relación con las pruebas y alegatos que promovieren el inculpado o su defensor, hacer las promociones correspondientes al interés social que representa.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
 
-La ampliación del plazo se deberá notificar al director del reclusorio preventivo donde se encuentre, en su caso, internado el inculpado, para los efectos del primer párrafo del artículo 19 Constitucional.
+La prórroga del plazo se deberá notificar a la autoridad responsable del establecimiento en donde, en su caso, se encuentre internado el indiciado, para los efectos a que se refiere el segundo párrafo del artículo 19 constitucional.
 
 ###### ARTICULO 516.
 
@@ -4310,7 +4306,7 @@ II.- el acusado y su defensor;
 
 III.- el agente del Ministerio Público;
 
-IV.- los testigos presenciales, si residieren en el lugar.
+IV.- los testigos presenciales, si residieren en el lugar;
 
 V.- los peritos nombrados, siempre que el juez o las partes lo estimen necesario o ellos deseen concurrir;
 
@@ -5626,6 +5622,32 @@ La libertad bajo caución podrá pedirse en cueelquier (sic) tiempo por el acusa
 
 Cuando proceda la libertad caucional, reunidos los requisitos legales, el juez la decretará inmediatamente en la misma pieza de autos.
 
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+ARTICULO 801 BIS.- En caso de delitos no graves, el Juez podrá negar, a solicitud del Ministerio Público, la libertad provisional del inculpado, cuando éste haya sido condenado con anterioridad, por algún delito calificado como grave por la ley o, cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+
+Por conducta precedente o circunstancias y características del delito cometido, según corresponda, se entenderán, entre otros casos, cuando:
+
+I. El inculpado sea delincuente habitual o reincidente por delitos dolosos, en términos de lo dispuesto por el Código de Justicia Militar;
+
+II. El inculpado esté sujeto a otro u otros procesos penales anteriores, en los cuales se le haya dictado auto de formal prisión por el mismo género de delitos;
+
+III. El inculpado se haya sustraído a la acción de la justicia y esté sujeto a un procedimiento penal por delito doloso por el cual haya sido extraditado;
+
+IV. El inculpado se haya sustraído con anterioridad a la acción de la justicia impidiendo con ello la continuidad del proceso penal correspondiente;
+
+V. El Ministerio Público aporte cualquier otro elemento probatorio de que el inculpado se sustraerá a la acción de la justicia, si la libertad provisional le es otorgada;
+
+VI. Exista el riesgo fundado de que el inculpado cometa un delito doloso contra la víctima u ofendido, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el procedimiento, o algún tercero, si la libertad provisional le es otorgada;
+
+VII. Se trate de delito cometido con violencia, en asociación delictuosa o pandilla, o
+
+VIII. El inculpado haya cometido el delito bajo el influjo de estupefacientes o sustancias psicotrópicas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+ARTICULO 801 TER.- El juez podrá en todo caso revocar la libertad provisional concedida al inculpado cuando aparezca durante el proceso cualesquiera de las causas previstas en el artículo anterior y así lo solicite el Ministerio Público.
+
 ###### ARTICULO 802.
 
 En caso de que se niegue la libertad caucional, puede solicitarse de nuevo y ser concedida por causas supervenientes.
@@ -6100,7 +6122,7 @@ I.- Que no existió el hecho material que sirvió de base para la condenación;
 
 II.- que aun habiendo existido el hecho y éste hubiera sido ejecutado por la persona declarada culpable de él, no debió ser legalmente castigada;
 
-III.- cuando dos o más personas hayan sido condenadas por un mismo delito y sea imposible que todas ellas lo hayan cometido.
+III.- cuando dos o más personas hayan sido condenadas por un mismo delito y sea imposible que todas ellas lo hayan cometido;
 
 > <small>(ADICIONADA, D.O.F. 24 DE JUNIO DE 1993)</small>
 
@@ -6423,3 +6445,9 @@ TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administr
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
