@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1992-12-01"
+last_updated: "1993-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1993.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -48,6 +48,10 @@ CODIGO FISCAL DEL ESTADO DE PUEBLA
 ###### ARTICULO 1.
 
 La Hacienda Pública para atender los gastos del Estado percibirá en cada ejercicio las contribuciones, productos, aprovechamientos y participaciones que determinen las leyes fiscales y en su caso las donaciones, legados, herencias y reintegros que se hicieren a su favor.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+No serán válidas las exenciones a las contribuciones estatales no contenidas en las leyes fiscales del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -79,9 +83,11 @@ Son derechos las contribuciones establecidas en ley por el uso o aprovechamiento
 
 Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones a que se refiere el segundo párrafo del Artículo 33, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 5.
 
-Son productos los ingresos que percibe el Estado por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, o por la explotación de sus bienes patrimoniales.
+Son productos, las contraprestaciones por los servicios que presta el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -183,11 +189,11 @@ Sólo podrá afectarse un ingreso estatal a un fin específico, cuando se cumpla
 
 Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico deberán ser autorizados por el Gobernador del Estado y dados a conocer a la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 16.
 
-En los términos fijados en días, por disposición de la ley o por las autoridades fiscales, se computarán sólo los días hábiles, considerándose así aquéllos en que se encuentren abiertas al público, las oficinas durante el horario normal. En los términos fijados en períodos y aquellos en que se señala una fecha determinada para su extinción, se comprenderán para su cómputo los días inhábiles.
+En los términos fijados en días, por disposición de la Ley o por las autoridades fiscales, se computarán sólo los días hábiles, considerándose así, aquellos en que se encuentren abiertas al público las oficinas, durante el horario de las 8:00 a las 13:30 horas. En los términos fijados en períodos y aquéllos en que se señala una fecha para su extinción, se comprenderán para su cómputo todos los días.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -200,6 +206,10 @@ Tampoco se contarán en dichos plazos, los días en que tengan vacaciones genera
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
 Las Autoridades Fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar constribuciones (sic) en días y horas inhábiles. También se podrá continuar en días y horas inhábiles una diligencia iniciada en día y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+La práctica de diligencias deberá efectuarse en días y horas hábiles, considerándose como tales las comprendidas entre las 7:30 y las 18:00 horas.
 
 ###### ARTICULO 17.
 
@@ -231,13 +241,15 @@ III.- La vigencia y exigibilidad en cantidad líquida del derecho del crédito c
 
 Sujeto pasivo de un crédito fiscal, es la persona física o moral, mexicana o extranjera que de acuerdo con las leyes, está obligada al pago de un crédito fiscal determinado en favor del Erario Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 20.
 
-Son responsables solidarios:
+Son responsables solidarios con los contribuyentes:
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
-I.- Quienes en los términos de las leyes están obligados al pago de un crédito fiscal.
+I.- Quienes en los términos de las leyes fiscales están obligados a responder del pago de un crédito fiscal que no haya sido determinado a su nombre.
 
 II. Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
 
@@ -261,7 +273,17 @@ IX.- Las Instituciones de Crédito autorizadas para llevar a cabo operaciones fi
 
 X. Los representantes de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos, dispongan de ellos antes de que transcurra el plazo de presentación.
 
-XI.- Las demás personas que señalen las leyes fiscales.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+XI.- La persona o personas, cualquiera que sea el nombre con el que se les designe, que tengan conferida la dirección general, la gerencia general o la administración única de las sociedades mercantiles, por las contribuciones causadas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+XII.- Los socios o accionistas, respecto de las contribuciones que se hubieren causado, cuando tenían tal calidad sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el período o la fecha de que se trate.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+XIII.- Las demás personas que señalen las leyes fiscales.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -313,21 +335,45 @@ III.- Si se trata de Sucursales o Agencias establecidas en territorio del Estado
 
 IV.- Tratándose de personas físicas y morales residentes fuera del territorio del Estado y que realicen actividades gravadas en el mismo; el de su representante y a falta de éste, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 22-A.
+
+Se entenderá por actividades empresariales las siguientes:
+
+I.- Las comerciales, que son las que de conformidad con las leyes federales tienen ese carácter y no están comprendidas en las fracciones siguientes.
+
+II.- Las industriales, entendidas como la extracción, conservación o transformación de materias primas, acabado de productos y la elaboración de satisfactores.
+
+III.- Las agrícolas, que comprenden las actividades de siembra, cosecha y la primera enajenación de los productos obtenidos que no hayan sido objeto de transformación industrial.
+
+IV.- Las ganaderas, que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
+
+V.- Las de pesca, que incluyen la cría, cultivo, fomento y cuidado de la reproducción de toda clase de especies marinas y de agua dulce, incluida la acuacultura, así como la captura y extracción de las mismas y la primera enajenación de esos productos que no hayan sido objeto de transformación industrial.
+
+VI.- Las silvícolas, que son las de cultivo de los bosques o montes, así como la cría, conservación restauración, fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
+
+Se considerará empresa, la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento, se entenderá cualquier lugar en el que se desarrollen parcial o totalmente, las citadas actividades.
+
 ###### ARTICULO 23.
 
 Las personas domiciliadas fuera del Estado que causen gravámenes estatales deberán cumplir con las obligaciones establecidas en las Leyes Fiscales del Estado.
 
-### CAPITULO III
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
-DE LAS OBLIGACIONES DE LOS SUJETOS Y DE LOS RESPONSABLES SOLIDARIOS.
+### CAPITULO III. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 24.
 
-Son obligaciones de los sujetos y de los responsables solidarios:
+Son obligaciones de los contribuyentes:
 
 I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscales del Estado, ante las oficinas recaudadoras que correspondan dentro del mes siguiente a la fecha de iniciación de operaciones.
 
-II.- Presentar los avisos, declaraciones normales, complementarias, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+II.- Presentar los avisos, declaraciones normales, complementarias y provisionales, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
@@ -407,9 +453,11 @@ Dicho plazo empezará a contar a partir del día siguiente a aquél en que el co
 
 El silencio de las Autoridades Fiscales durante el término a que se refiere el Artículo anterior, se considerará como resolución negativa.
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 29.
 
-La Autoridad Fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contenga el nombre del contribuyente, su número de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, la Autoridad Fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
 En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieran sido aprobados y publicados por la Secretaría de Finanzas, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga los datos señalados en el Artículos 26. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
@@ -451,6 +499,14 @@ Pago es el cumplimiento de una obligación fiscal determinada en cantidad líqui
 
 El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste y se exigirá independientemente de los accesorios legales originados.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+En el caso de que se paguen contribuciones mediante cheque, este deberá librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde esté establecida la oficina recaudadora de que se trate. Las autoridades fiscales, podrán autorizar mediante disposiciones de carácter general, que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquellas en donde esté establecida la autoridad fiscal.
+
 ###### ARTICULO 34.
 
 El pago de las contribuciones y sus accesorios se pagarán en las oficinas recaudadoras del domicilio fiscal del contribuyente o en las que autorice para tal efecto la Secretaría de Finanzas.
@@ -465,15 +521,19 @@ Los recargos se causarán hasta por 5 años y se calcularán sobre el total del 
 
 Cuando el contribuyente pague en forma espontánea los créditos omitidos y los recargos, dichos recargos no excederán de los causados durante un año.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 36.
 
-Cuando el Crédito Fiscal esté constituido por diversos conceptos, los pagos que haga el deudor se aplicarán en el orden siguiente:
+Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes del adeudo principal a los accesorios en el siguiente orden:
 
-I. Gastos de Ejecución.
+I.- Gastos de ejecución.
 
-II. Los recargos y las multas.
+II.- Recargos.
 
-III. Los impuestos, derechos, productos y aprovechamientos distintos de los señalados en la fracción anterior por orden de antigüedad.
+III.- Multas.
+
+IV.- La indemnización por cheques no pagados a la autoridad fiscal.
 
 ###### ARTICULO 37.
 
@@ -655,7 +715,9 @@ V.- Se deberán indicar las contribuciones sujetas a revisión y en su caso los 
 
 En el inicio de la visita domiciliaria deberán acatarse las siguientes disposiciones:
 
-I.- Se realizarán en el lugar o lugares señalados en la orden de visita, entregando la misma al visitado o a su representante legal, si no estuvieran presentes a quien se encuentre en el lugar en que debe practicarse la diligencia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+I.- Se realizarán en el lugar o lugares señalados en la orden de visita, entregando la misma al visitado o a su representante legal, si no estuvieren presentes, los visitadores dejarán citatorio con la persona que se encuentre en dicho lugar, para que los esperen a hora determinada del día hábil siguiente, para recibir la mencionada orden; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -703,13 +765,13 @@ VI.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 La visita en el domicilio fiscal se desarrollará conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
-I.- De toda visita en el domicilio fiscal se levantarán actas en las que se harán constar de manera circunstanciada los hechos u omisiones que se hubieren conocido por los vsitadores. (sic). Asimismo, se determinarán las consecuencias legales de tales hechos u omisiones, las que se podrán hacer constar en las mismas actas o en documento por separado.
+I.- De toda visita en el domicilio fiscal, se levantará una sola acta en la que se harán constar de manera circunstanciada, los hechos y omisiones que se hubieren conocido por los visitadores. Asimismo, se determinarán las consecuencias legales de tales hechos y omisiones, los que se podrán hacer constar en la misma acta o en documento por separado.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
-II.- Las actas a que se refiere la fracción anterior, invariablemente deberán ser fimadas (sic) por el visitado o con quienes se haya entendido la visita, los testigos y los visitadores. Si el visitado o los testigos se niegan a firmar así se hará constar, sin que esta circunstancia afecte el valor probatorio de las mismas.
+II.- El acta a que se refiere la fracción anterior, invariablemente deberá ser firmada por el visitado o por la persona con quien se haya entendido la visita, los testigos y los visitadores. Si el visitado o los testigos se niegan a firmar, así se hará constar, sin que esta circunstancia, afecte el valor probatorio de la misma.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -793,7 +855,9 @@ II.- Cuando no proporcionen los libros, documentos, informes o datos que se les 
 
 III.- Cuando no lleven los libros o registros a que están obligados, o no los conserven en su domicilio.
 
-IV.- Cuando la información que se obtenga de terceros, ponga de manifiesto la percepción de ingresos superior al declarado.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+IV.- Cuando la información que se obtenga de terceros ponga de manifiesto, que el contribuyente realizó alguna de las actividades que se encuentran gravadas por la ley y que no hayan declarado correctamente.
 
 ###### ARTICULO 49.
 
@@ -827,9 +891,11 @@ Los hechos que se conozcan con motivo del ejercicio de las facultades de comprob
 
 Las copias de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 52.
 
-Los Servidores Públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estarán obligados a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse a servidores encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales en procesos del orden penal, o a los tribunales competentes que conozcan de pensiones alimenticias.
+Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias, están obligados a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las Leyes Fiscales y aquellos en que deban suministrarse a servidores encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales y al Ministerio Público.
 
 ###### ARTICULO 53.
 
@@ -949,9 +1015,17 @@ IX.- Dieciséis veces el salario mínimo diario vigente en el Estado, a quien co
 
 X.- Dieciocho veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones I, VIII, XII y XIII.
 
-XI.- Veinte veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones XIV, XVII y XIX.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
-XII.- Cincuenta veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción XX.
+XI.- Veinte veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones XIV y XVII.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+XII.- Cincuenta veces el salario mínimo diario vigente en el Estado a quien cometa las comprendidas en las fracciones XIX y XX.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+Para la determinación de las sanciones señaladas en este artículo, cuando pueda precisarse el momento en que se cometió la infracción, se aplicará el salario mínimo vigente en el momento en que ésta se realizó. En caso contrario será aplicable el salario mínimo vigente en el momento en que se imponga la sanción.
 
 ### CAPITULO III. DE LOS DELITOS FISCALES
 
@@ -1057,6 +1131,8 @@ III.- Por estrados en los casos que señalen las Leyes Fiscales y este Código.
 
 IV.- Por edictos únicamente en el caso de que la persona a quien deba notificarse, hubiera fallecido y no se conozca al representante de la sucesión; hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en territorio nacional.
 
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 1993)</small>
+
 V.- Por instructivo, solamente en los casos y las formalidades a que se refiere el último párrafo del artículo 78 de este Código.
 
 ###### ARTICULO 77.
@@ -1066,6 +1142,14 @@ Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en qu
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
 La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquélla en que debiera surtir efectos la notificación, de acuerdo con el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes deba notificarse, se presenten en las mismas.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+Toda notificación personal, realizada con quien deba entenderse, será legalmente válida, aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
 ###### ARTICULO 78.
 
@@ -1264,6 +1348,8 @@ I.- Recuperar el monto del crédito fiscal adeudado, de los ingresos de la negoc
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 II.- Enterar diariamente ante la Oficina Ejecutora, el monto de lo recaudado y rendir cuenta mensual comprobada ante dicha Oficina.
+
+El interventor no podrá enajenar los bienes del activo fijo.
 
 ###### ARTICULO 101.
 
@@ -1553,6 +1639,22 @@ IV.- Dejar sin efectos el acto impugnado.
 
 V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 139.
+
+Se declarará que una resolución administrativa es nula cuando se demuestre alguna de las siguientes causales:
+
+I.- Incompetencia del funcionario que la haya dictado u ordenado, o tramitado el procedimiento del que deriva dicha resolución.
+
+II.- Omisión de los requisitos formales o vicios del procedimiento, que afecten las defensas del particular y trasciendan al sentido del fallo, inclusive la ausencia de fundamentación o motivación, en su caso.
+
+III.- Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada o bien se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas.
+
+IV.- Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la Ley confiera dichas facultades.
+
+Las autoridades fiscales mandarán reponer el procedimiento administrativo, cuando se esté en el supuesto previsto en las fracciones II y IV antes señaladas.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -1624,3 +1726,13 @@ El presente Decreto entrará en vigor el día primero de enero de mil noveciento
 P.O. 1 DE DICIEMBRE DE 1992.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y tres.
+
+P.O. 17 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1o. de enero de 1994.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
