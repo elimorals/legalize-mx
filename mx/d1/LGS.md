@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "1996-07-09"
+last_updated: "1997-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -120,9 +120,9 @@ XXIV.- El control sanitario de los establecimientos dedicados al proceso de los 
 
 XXV.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-XXVI.- El control sanitario de la disposición de órganos, tejidos y sus componentes y cadáveres de seres humanos;
+XXVI.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos;
 
 XXVII.- La sanidad internacional, y
 
@@ -264,7 +264,9 @@ La competencia entre la Federación y las entidades federativas en materia de sa
 
 A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
 
-I.- Dictar las normas técnicas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+I.- Dictar las normas oficiales mexicanas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
 
 II.- En las materias enumeradas en las fracciones I, III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
 
@@ -300,11 +302,9 @@ VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y dem�
 
 VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
 ###### ARTICULO 14.
 
-Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud, que establezcan los requisitos que deben satisfacerse en la organización y prestación de servicios, así como en el desarrollo de actividades en materia de salubridad general, con el objeto de uniformar principios, criterios, políticas y estrategias.
+(DEROGADO, D.O.F. 7 DE MAYO DE 1997)
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -333,6 +333,10 @@ V.- Elaborar el Cuadro Básico de Insumos del Sector Salud;
 VI.- Participar, en el ámbito de su competencia, en la consolidación y funcionamiento del Sistema Nacional de Salud;
 
 VII.- Rendir opiniones y formular sugerencias al Ejecutivo Federal tendientes al mejoramiento de la eficiencia del Sistema Nacional de Salud y al mejor cumplimiento del programa sectorial de salud;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+VII bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud, y (sic)
 
 VIII.- Analizar las disposiciones legales en materia de salud y formular propuestas de reformas o adiciones a las mismas, y
 
@@ -372,7 +376,9 @@ V.- Los titulares de las estructuras administrativas serán designados por el Se
 
 VI.- Tendrán a su cargo la administración de los recursos que aporten las partes, con sujeción al régimen legal que les corresponda;
 
-VII.- Promoverán y vigilarán la aplicación de principios, normas técnicas y procedimientos uniformes;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+VII.- Promoverán y vigilarán la aplicación de principios, normas oficiales mexicanas y procedimientos uniformes;
 
 VIII.- Tendrán participación representantes de los usuarios, así como de los trabajadores al servicio de estas estructuras, en los términos de las disposiciones que al efecto se expidan, y
 
@@ -462,11 +468,11 @@ IX.- La promoción del mejoramiento de la nutrición, y
 
 X.- La asistencia social a los grupos más vulnerables.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 28.
 
-Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos del Sector de Salud, elaborado por el Consejo de Salubridad General, al cual se ajustarán las dependencias y entidades que presten servicios de salud, y en el cual se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración la Secretaría de Salud, las instituciones públicas de seguridad social y las demás entidades de salud que señale el Ejecutivo Federal.
+Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las dependencias y entidades que presten servicios de salud, y en los cuales se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración la Secretaría de Salud, las instituciones públicas de seguridad social y las demás entidades de salud que señale el Ejecutivo Federal.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -560,11 +566,11 @@ Las modalidades de acceso a los servicios de salud privados y sociales se regir�
 
 Los servicios de salud que presten las entidades públicas o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 42.
 
-La Secretaría de Salud proporcionará a la Secretaría de Hacienda y Crédito Público las normas técnicas de salud para los seguros personales de gastos médicos y hospitalización.
+La Secretaría de Salud proporcionará a la Secretaría de Hacienda y Crédito Público las normas oficiales mexicanas de salud para los seguros personales de gastos médicos y hospitalización.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -576,21 +582,27 @@ Los servicios de salud de carácter social y privado, con excepción del servici
 
 Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos, en la proporción y términos que señalen los reglamentos.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 45.
 
-Corresponde a la Secretaría de Salud vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud, así como fijar las normas técnicas a las que deberán sujetarse.
+Corresponde a la Secretaría de Salud vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud, así como fijar las normas oficiales mexicanas a las que deberán sujetarse.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 46.
 
-La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, y cualquiera de sus modalidades, se sujetará a las normas técnicas que, con fundamento en esta Ley y demás disposiciones generales aplicables, expida la Secretaría de Salud, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las normas oficiales mexicanas que, con fundamento en esta Ley y demás disposiciones generales aplicables, expida la Secretaría de Salud, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 47.
 
-Para obtener la autorización a que se refiere el artículo 45 de esta Ley, la solicitud deberá expresar las características y tipo de servicios a que estén destinados los establecimientos, sin perjuicio de satisfacer los requisitos que establezcan los reglamentos respectivos. En el caso de establecimientos particulares, se deberá señalar también al responsable autorizado.
+Los establecimientos de servicios de salud deberán presentar aviso de funcionamiento a la Secretaría de Salud, en el supuesto previsto en el primer párrafo del artículo 200 bis de esta ley. En el aviso se expresarán las características y tipo de servicios a que estén destinados y, en el caso de establecimientos particulares, se señalará también al responsable sanitario.
+
+El aviso a que se refiere el párrafo anterior deberá presentarse dentro de los diez días posteriores al inicio de operaciones y contener los requisitos establecidos en el artículo 200 bis de esta ley.
+
+En la operación y funcionamiento de los establecimientos de servicios de salud se deberán satisfacer los requisitos que establezcan los reglamentos y normas oficiales mexicanas correspondientes.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -653,6 +665,10 @@ III.- Incorporación, como auxiliares voluntarios, en la realización de tareas 
 IV.- Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
 
 V.- Formulación de sugerencias para mejorar los servicios de salud;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+V bis.- Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos, y (sic)
 
 VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
 
@@ -720,9 +736,11 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 66.
 
-En materia de higiene escolar, corresponde a las autoridades sanitarias establecer las normas técnicas para proteger la salud del educando y de la comunidad escolar. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar, corresponde a las autoridades sanitarias establecer las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
@@ -806,11 +824,11 @@ II.- La organización, operación y supervisión de instituciones dedicadas al e
 
 El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud y establezcan las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Salud establecerá las normas técnicas para que se preste atención a los enfermos mentales que se encuentren en reclusorios o en otras instituciones no especializadas en salud mental.
+La Secretaría de Salud establecerá las normas oficiales mexicanas para que se preste atención a los enfermos mentales que se encuentren en reclusorios o en otras instituciones no especializadas en salud mental.
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
@@ -972,11 +990,11 @@ Las Secretarías de Salud y de Educación Pública y los gobiernos de las entida
 
 La Secretaría de Educación Pública, en coordinación con la Secretaría de Salud, promoverá el establecimiento de un sistema de enseñanza continua en materia de salud.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 94.
 
-Cada institución de salud, con base en las normas técnicas que emita la Secretaría de Salud, establecerá las bases para la utilización de sus instalaciones y servicios en la formación de recursos humanos para la salud.
+Cada institución de salud, con base en las normas oficiales mexicanas que emita la Secretaría de Salud, establecerá las bases para la utilización de sus instalaciones y servicios en la formación de recursos humanos para la salud.
 
 ###### ARTICULO 95.
 
@@ -1046,11 +1064,11 @@ VII.- Las demás que establezca la correspondiente reglamentación.
 
 Quien realice investigación en seres humanos en contravención a lo dispuesto en esta Ley y demás disposiciones aplicables, se hará acreedor de las sanciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 102.
 
-La Secretaría de Salud autorizará con fines preventivos, terapéuticos, rehabilitatorios o de investigación, el empleo en seres humanos de medicamentos o materiales respecto de los cuales no se tenga experiencia en el país o se pretenda la modificación de las indicaciones terapéuticas de productos ya conocidos. Al efecto, los interesados deberán presentar la siguiente documentación:
+La Secretaría de Salud podrá autorizar con fines preventivos, terapéuticos, rehabilitatorios o de investigación, el empleo en seres humanos de medicamentos o materiales respecto de los cuales aún no se tenga evidencia científica suficiente de su eficacia terapéutica o se pretenda la modificación de las indicaciones terapéuticas de productos ya conocidos. Al efecto, los interesados deberán presentar la documentación siguiente:
 
 I.- Solicitud por escrito;
 
@@ -1102,11 +1120,11 @@ En coordinación con la Secretaría de Programación y Presupuesto y de conformi
 
 Las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios cuando proceda, y las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 104 de esta Ley, deberán suministrarla a la Secretaría de Salud, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales para la salud.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 107.
 
-Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos a que se refiere el Título Décimo Segundo de esta Ley, llevarán las estadísticas que les señale la Secretaría de Salud y proporcionarán a ésta y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
+Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos o que realicen las actividades a que se refieren los títulos décimo segundo y décimo cuarto de esta ley, llevarán las estadísticas que les señale la Secretaría de Salud y proporcionarán a ésta y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1124,7 +1142,7 @@ La Secretaría de Salud proporcionará a la Secretaría de Programación y Presu
 
 ### CAPITULO I. Disposiciones Comunes
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 110.
 
@@ -1169,6 +1187,8 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 La Secretaría de Salud, en coordinación con la Secretaría de Educación Pública y los gobiernos de las entidades federativas, y con la colaboración de las dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
 ### CAPITULO III. Bebidas Alcohólicas
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 114.
 
@@ -1218,11 +1238,13 @@ Corresponde a la Secretaría de Salud:
 
 I.- Determinar los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente;
 
-II.- Emitir las normas técnicas a que deberá sujetarse el tratamiento del agua para uso y consumo humano;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+II.- Emitir las normas oficiales mexicanas a que deberá sujetarse el tratamiento del agua para uso y consumo humano;
 
-III.- Establecer criterios sanitarios para la fijación de las condiciones particulares de descarga, el tratamiento y uso de aguas residuales o en su caso, para la elaboración de normas técnicas ecológicas en la materia;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+III.- Establecer criterios sanitarios para la fijación de las condiciones particulares de descarga, el tratamiento y uso de aguas residuales o en su caso, para la elaboración de normas oficiales mexicanas ecológicas en la materia;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -1249,6 +1271,10 @@ II.- Vigilar y certificar la calidad del agua para uso y consumo humano, y
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+IV.- Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1288,11 +1314,17 @@ En lo que se refiere a unidades de rayos X de uso odontológico, bastará que el
 
 La Secretaría de Salud en coordinación con las demás dependencias involucradas, expedirá las normas a que deberán sujetarse los responsables del proceso de las fuentes de radiación ionizante destinados a uso diferente del tratamiento médico.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+En el caso de las fuentes de radiación de uso médico o de diagnóstico, la Secretaría de Salud expedirá las autorizaciones en forma coordinada con la Comisión Nacional de Seguridad Nuclear y Salvaguardias.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 126.
 
 La construcción de obras o instalaciones, así como la operación o el funcionamiento de las existentes, donde se usen fuentes de radiación para fines médicos, industriales, de investigación u otros deberán observar las normas de seguridad radiológica que al efecto se emitan.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 La Secretaría de Salud y las autoridades federales, estatales y municipales en sus respectivos ámbitos de competencia, se coordinarán para evitar que se instalen o edifiquen comercios, servicios y casas habitación en las áreas aledañas en donde funcione cualquier establecimiento que implique un riesgo grave para la salud de la población.
 
@@ -1354,7 +1386,9 @@ Para los efectos de esta ley se consideran bajo la denominación de establecimie
 
 En materia de prevención y control de enfermedades y accidentes, y sin perjuicio de lo que dispongan las leyes laborales y de seguridad social en materia de riesgos de trabajo, corresponde a la Secretaría de Salud:
 
-I.- Dictar las normas técnicas para la prevención y el control de enfermedades y accidentes;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+I.- Dictar las normas oficiales mexicanas para la prevención y el control de enfermedades y accidentes;
 
 II.- Establecer y operar el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con esta Ley y las disposiciones que al efecto se expidan;
 
@@ -1363,6 +1397,8 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
 ### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 134.
 
@@ -1458,11 +1494,11 @@ VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así c
 
 VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 140.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salud.
+Las autoridades no sanitarias cooperarán en el ejercicio de las acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas oficiales mexicanas que dicte la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1486,17 +1522,17 @@ Los trabajadores de la salud de la Secretaría de Salud y de los gobiernos de la
 
 Las vacunaciones contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis y el sarampión, asi como otras contra enfermedades transmitibles (sic) que en el futuro estimare necesarias la Secretaría de Salud, serán obligatorias en los términos que fije esta dependencia. La misma Secretaría determinará los sectores de población que deban ser vacunados y las condiciones en que deberán suministrarse las vacunas, conforme a los programas que al efecto establezca, las que serán de observación obligatoria para las instituciones de salud.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 145.
 
-La Secretaría de Salud establecerá las normas técnicas para el control de las personas que se dediquen a trabajos o actividades, mediante los cuales se pueda propagar alguna de las enfermedades transmisibles a que se refiere esta Ley.
+La Secretaría de Salud establecerá las normas oficiales mexicanas para el control de las personas que se dediquen a trabajos o actividades, mediante los cuales se pueda propagar alguna de las enfermedades transmisibles a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 146.
 
-Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las normas técnicas que expida la Secretaría de Salud, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
+Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las normas oficiales mexicanas que expida la Secretaría de Salud, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1620,21 +1656,31 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 La Secretaría de Salud coordinará sus actividades con la Secretaría del Trabajo y Previsión Social y, en general, con las dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de los accidentes.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 165.
 
-La Secretaría de Salud dictará, en el ámbito de su competencia, y sin perjuicio de las facultades de la Secretaría del Trabajo y Previsión Social, de conformidad con las Leyes que rijan los riesgos de trabajo, las normas técnicas para la prevención de accidentes, y promoverá la coordinación con el sector público y la concertación e inducción, en su caso, con los sectores social y privado para su aplicación.
+La Secretaría de Salud dictará, en el ámbito de su competencia, y sin perjuicio de las facultades de la Secretaría del Trabajo y Previsión Social, de conformidad con las Leyes que rijan los riesgos de trabajo, las normas oficiales mexicanas para la prevención de accidentes, y promoverá la coordinación con el sector público y la concertación e inducción, en su caso, con los sectores social y privado para su aplicación.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 166.
 
-Los servicios de salud que proporcionen las instituciones de seguridad social con motivo de riesgos de trabajo, se regirán por sus propias leyes y las demás disposiciones legales aplicables y se ajustarán a las normas técnicas en materia de salud. En este caso, las autoridades sanitarias propiciarán con dichas instituciones la coordinación de acciones en materia de higiene y prevención de accidentes.
+Los servicios de salud que proporcionen las instituciones de seguridad social con motivo de riesgos de trabajo, se regirán por sus propias leyes y las demás disposiciones legales aplicables y se ajustarán a las normas oficiales mexicanas en materia de salud. En este caso, las autoridades sanitarias propiciarán con dichas instituciones la coordinación de acciones en materia de higiene y prevención de accidentes.
 
 ## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO XII. Plaguicidas, fertilizantes y substancias tóxicas
+### CAPITULO XII. Plaguicidas, nutrientes vegetales y
+
+substancias tóxicas o peligrosas
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+### CAPITULO XII BIS. Productos biotecnológicos
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ### CAPITULO XIII. Importación y exportación
 
@@ -1644,15 +1690,11 @@ Los servicios de salud que proporcionen las instituciones de seguridad social co
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-### CAPITULO I. Disposiciones comunes
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
 ## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO II. Organos y Tejidos
+### CAPITULO I. Disposiciones comunes
 
-(REFORMADO, D.O.F. 14 DE JUNIO DE 1991) (F. DE E., D.O.F. 12 DE JULIO DE 1991)
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 167.
 
@@ -1724,11 +1766,11 @@ VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a l
 
 VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 175.
 
-La Secretaría de Salud establecerá las normas técnicas de carácter nacional en materia de prevención de invalidez y rehabilitación de inválidos y coordinará, supervisará y evaluará su cumplimiento por parte de las instituciones públicas, sociales y privadas que persigan estos fines.
+La Secretaría de Salud establecerá las normas oficiales mexicanas de carácter nacional en materia de prevención de invalidez y rehabilitación de inválidos y coordinará, supervisará y evaluará su cumplimiento por parte de las instituciones públicas, sociales y privadas que persigan estos fines.
 
 ###### ARTICULO 176.
 
@@ -1756,7 +1798,9 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO III. Cadáveres
+### CAPITULO II. Órganos, tejidos y células
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 181.
 
@@ -1792,9 +1836,7 @@ V.- Las demás que determine la propia Secretaría.
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO I. Disposiciones comunes
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Cadáveres
 
 ###### ARTICULO 184 Bis.
 
@@ -1802,7 +1844,9 @@ Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promov
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO I. Disposiciones comunes
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 185.
 
@@ -1832,9 +1876,9 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+### CAPITULO II. Sanidad en Materia de Migración
 
-### CAPITULO I. Autorizaciones
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ###### ARTICULO 188.
 
@@ -1860,7 +1904,7 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 La coordinación en la adopción de medidas en los ámbitos federal y local se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 191.
 
@@ -1884,19 +1928,31 @@ Los profesionales de la salud, al prescribir medicamentos que contengan substanc
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 194.
 
-Para efectos de este título, se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la Secretaría de Salud con la participación de los productores, comercializadores y consumidores, en base a lo que establecen las normas técnicas y otras disposiciones aplicables.
+Para efectos de este título, se entiende por control sanitario, el conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la Secretaría de Salud con la participación de los productores, comercializadores y consumidores, en base a lo que establecen las normas oficiales mexicanas y otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 El ejercicio del control sanitario será aplicable al:
 
-l.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+
+l.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas,
+
+productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 II.- Proceso, uso, mantenimiento, importación, exportación, y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, y
 
-III.- Proceso, uso, importación, exportación, aplicación y disposición final de plaguicidas, fertilizantes y substancias tóxicas o peligrosas para la salud, así como de las materias primas que intervengan en su elaboración.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+III.- Proceso, uso, importación, exportación, aplicación y disposición final de plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas para la salud, así como de las materias primas que intervengan en su elaboración.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 El control sanitario del proceso, importación y exportación de medicamentos, estupefacientes y substancias psicotrópicas y las materias primas que intervengan en su elaboración, compete en forma exclusiva a la Secretaría de Salud, en función del potencial de riesgo para la salud que estos productos representan.
 
@@ -1906,19 +1962,19 @@ El control sanitario del proceso, importación y exportación de medicamentos, e
 
 Para los efectos de esta ley se consideran insumos para la salud: Los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación y productos higiénicos, estos últimos en los términos de la fracción VI del artículo 262 de esta ley.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 195.
 
-La Secretaría de Salud emitirá las normas técnicas a que deberá sujetarse el proceso y las especificaciones de los productos a que se refiere éste título. Los medicamentos estarán normados por la Farmacopea de los Estados Unidos Mexicanos.
+La Secretaría de Salud emitirá las normas oficiales mexicanas a que deberá sujetarse el proceso y las especificaciones de los productos a que se refiere este título. Los medicamentos estarán normados por la Farmacopea de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 La Secretaría de Salud mantendrá permanentemente actualizada la Farmacopea de los Estados Unidos Mexicanos, para lo cual contará con un órgano asesor.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
-
 ###### ARTICULO 196.
 
-La Secretaría de Salud emitirá las normas técnicas a que deberá sujetarse el proceso de los productos a que se refiere este Título.
+(DEROGADO, D.O.F. 7 DE MAYO DE 1997)
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1926,69 +1982,93 @@ La Secretaría de Salud emitirá las normas técnicas a que deberá sujetarse el
 
 Para los efectos de esta Ley, se entiende por proceso el conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos a que se refiere el artículo 194 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 198.
 
-Unicamente requieren autorización sanitaria los establecimientos dedicados al proceso de medicamentos, plaguicidas, fertilizantes, fuentes de radiación y substancias tóxicas o peligrosas para la salud. La solicitud de autorización sanitaria que se realice por primera ocasión, deberá presentarse ante la autoridad sanitaria, previamente al inicio de sus actividades.
+Únicamente requieren autorización sanitaria los establecimientos dedicados a:
+
+I.- El proceso de los medicamentos que contengan estupefacientes y psicotrópicos; vacunas; toxoides; sueros y antitoxinas de origen animal, y hemoderivados;
+
+II.- La elaboración, fabricación o preparación de medicamentos, plaguicidas, nutrientes vegetales o sustancias tóxicas o peligrosas;
+
+III.- La aplicación de plaguicidas;
+
+IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico, y
+
+V.- Los establecimientos en que se practiquen actos quirúrgicos u obstétricos.
+
+La solicitud de autorización sanitaria deberá presentarse ante la autoridad sanitaria, previamente al inicio de sus actividades.
 
 Cuando así se determine por acuerdo del Secretario, los establecimientos en que se realice el proceso de los productos a que se refiere el artículo 194 de esta ley y su transporte deberán sujetarse a las normas de funcionamiento y seguridad que al respecto se emitan.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 199.
 
-Corresponde a los Gobiernos de las Entidades Federativas ejercer la verificación y control sanitarios de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas técnicas que al efecto se emitan.
+Corresponde a los Gobiernos de las Entidades Federativas ejercer la verificación y control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas oficiales mexicanas que al efecto se emitan.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 200.
 
-La Secretaría de Salud determinará, con base en los riesgos que representen para la salud, los establecimientos a que se refiere el primer párrafo del artículo 198 de la ley, que requieren para su funcionamiento:
+La Secretaría de Salud determinará, con base en los riesgos que representen para la salud, los establecimientos a que se refiere el artículo 198 de la Ley, que requieren para su funcionamiento:
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 I.- Contar, en su caso, con un responsable que reúna los requisitos que se establecen en esta ley y en los reglamentos respectivos;
 
-II.- Contar, en su caso, con los auxiliares del responsable que determinen los reglamentos aplicables, tomando en cuenta la cantidad de los productos de que se trate, la diversidad de líneas de producción y la duración horaria de las operaciones;
+II.- (DEROGADA, D.O.F. 7 DE MAYO DE 1997)
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 III.- Utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos, mismos que serán elaborados y actualizados por la Secretaría de Salud.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 200 Bis.
 
-Los establecimientos a que se refiere este título, que no requieran para su funcionamiento de autorización sanitaria, deberán dar aviso por escrito a la Secretaría de Salud o a los Gobiernos de las Entidades Federativas, 30 días antes del inicio de operaciones; dicho aviso deberá contener los siguientes datos:
+Deberán dar aviso de funcionamiento los establecimientos que no requieran de autorización sanitaria y que, mediante acuerdo, determine la Secretaría de Salud.
 
-> <small>(F. DE E., D.O.F. 12 DE JULIO DE 1991)</small>
+El acuerdo a que se refiere el párrafo anterior clasificará a los establecimientos en función de la actividad que realicen y se publicará en el Diario Oficial de la Federación.
+
+El aviso a que se refiere este artículo deberá presentarse por escrito a la Secretaría de Salud o a los gobiernos de las entidades federativas, dentro de los diez días posteriores al inicio de operaciones y contendrá los siguientes datos:
 
 I.- Nombre y domicilio de la persona física o moral propietaria del establecimiento;
 
-II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones, y
+II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones;
 
-III.- Procesos utilizados y línea o líneas de productos.
+III.- Procesos utilizados y línea o líneas de productos;
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+IV.- Declaración, bajo protesta de decir verdad, de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+
+V.- Clave de la actividad del establecimiento, y
+
+VI.- Número de cédula profesional, en su caso, de responsable sanitario.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 201.
 
-La Secretaría de Salud, determinará los tipos de establecimientos dedicados al proceso de los productos a que se refiere este título, que deberán efectuar su control interno con base en las normas técnicas que al efecto se expidan.
+La Secretaría de Salud, determinará los tipos de establecimientos dedicados al proceso de los productos a que se refiere este título, que deberán efectuar su control interno con base en las normas oficiales mexicanas que al efecto se expidan.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 202.
 
-Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos, o la fabricación de nuevas líneas de productos deberá ser comunicado a la autoridad sanitaria competente en un plano no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las normas técnicas que al efecto se expidan.
+Todo cambio de propietario a un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 203.
 
-La Secretaría de Salud, a petición del titular de la autorización de un producto, permitirá que éste pueda ser elaborado por cualquier fabricante, cuando se cumpla con los requisitos consignados al efecto en esta Ley y demás disposiciones aplicables.
+El titular de la autorización de un producto podrá permitir que éste sea elaborado en todo o en parte, por cualquier fabricante, cuando se cumpla con los requisitos establecidos al efecto en esta ley y demás disposiciones aplicables. En este caso el titular de la autorización deberá dar aviso por escrito a la Secretaría de Salud, dentro de los quince días siguientes al inicio del proceso de fabricación externa de los productos.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 204.
 
-Los medicamentos y otros insumos para la salud, los estupefacientes, substancias psicotrópicas y productos que los contengan, así como los plaguicidas, fertilizantes y substancias tóxicas, para su venta o suministro deberán contar con autorización sanitaria, en los términos de esta ley y demás disposiciones aplicables.
+Los medicamentos y otros insumos para la salud, los estupefacientes, substancias psicotrópicas y productos que los contengan, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, para su venta o suministro deberán contar con autorización sanitaria, en los términos de esta ley y demás disposiciones aplicables.
 
 ###### ARTICULO 205.
 
@@ -2016,17 +2096,19 @@ I.- Reduzcan su poder nutritivo o terapéutico;
 
 II.- Lo conviertan en nocivo para la salud, o
 
-III.- Modifiquen sus características fisicoquímicas u organolépticas.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+III.- Modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos.
 
 ###### ARTICULO 209.
 
 Para expresar las unidades de medida y peso de los productos a que se refiere este Título, se usará el Sistema Internacional de Unidades.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 210.
 
-Los productos que deben expenderse empacados o envasados llevarán etiquetas que deberán cumplir con las normas técnicas que al efecto se emitan.
+Los productos que deben expenderse empacados o envasados llevarán etiquetas que deberán cumplir con las normas oficiales mexicanas que al efecto se emitan.
 
 ###### ARTICULO 211.
 
@@ -2038,19 +2120,19 @@ Los productos que deben expenderse empacados o envasados llevarán etiquetas que
 
 La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica o específica, etiquetas y contraetiquetas, deberán corresponder a las especificaciones autorizadas por la Secretaría de Salud, de conformidad con las disposiciones aplicables, y no podrán ser modificadas.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 213.
 
-Los envases de los productos a que se refiere este Título deberán ajustarse a las especificaciones que establezcan las disposiciones aplicables.
+Los envases y embalajes de los productos a que se refiere este título deberán ajustarse a las especificaciones que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 214.
 
-La Secretaría de Salud publicará en el Diario Oficial de la Federación, las normas técnicas que expida y en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, plaguicidas, fertilizantes y substancias tóxicas, así como de las materias primas que se utilicen en su elaboración.
+La Secretaría de Salud publicará en el Diario Oficial de la Federación las normas oficiales mexicanas que expida y, en caso necesario, las resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, así como de las materias primas que se utilicen en su elaboración.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 215.
 
@@ -2068,6 +2150,10 @@ III.- Materia prima: Substancia o producto, de cualquier origen, que se use en l
 
 IV.- Aditivo: Cualquier substancia permitida que, sin tener propiedades nutritivas, se incluya en la formulación de los productos y que actúe como estabilizante, conservador o modificador de sus características organolépticas, para favorecer ya sea su estabilidad, conservación, apariencia o aceptabilidad.
 
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+V.- Suplementos alimenticios: Productos a base de hierbas, extractos vegetales, alimentos tradicionales, deshidratados o concentrados de frutas, adicionados o no, de vitaminas o minerales, que se puedan presentar en forma farmacéutica y cuya finalidad de uso sea incrementar la ingesta dietética total, complementarla o suplir alguno de sus componentes.
+
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 216.
@@ -2078,21 +2164,25 @@ La Secretaría de Salud, con base en la composición de los alimentos y bebidas,
 
 Los alimentos o bebidas que se pretendan expender o suministrar al público en presentaciones que sugieran al consumidor que se trate de productos o substancias con características o propiedades terapéuticas, deberán en las etiquetas de los empaques o envases incluir la siguiente leyenda: “Este producto no es un medicamento”, escrito con letra fácilmente legible y en colores contrastantes.
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 217.
 
-Para los efectos de esta Ley, se consideran bebidas alcohólicas aquellas que contengan alcohol etílico en una proporción mayor del 2% en volumen.
+Para los efectos de esta Ley, se consideran bebidas alcohólicas aquellas que contengan alcohol etílico en una proporción de 2% y hasta 55% en volumen. Cualquiera otra que contenga una proporción mayor no podrá comercializarse como bebida.
 
 ###### ARTICULO 218.
 
 Toda bebida alcohólica, deberá ostentar en los envases, la leyenda: "el abuso en el consumo de este producto es nocivo para la salud", escrito con letra fácilmente legible, en colores contrastantes y sin que se invoque o se haga referencia a alguna disposición legal.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Federación el acuerdo mediante el cual podrán establecerse otras leyendas precautorias, así como las disposiciones para su aplicación y utilización.
+
 ###### ARTICULO 219.
 
-Corresponde a los gobiernos de las entidades federativas determinar la ubicación y el horario de funcionamiento de los establecimientos en que se expendan bebidas alcohólicas.
+(DEROGADO, D.O.F. 7 DE MAYO DE 1997)
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2100,7 +2190,9 @@ Corresponde a los gobiernos de las entidades federativas determinar la ubicació
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 221.
 
@@ -2110,7 +2202,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Medicamentos: Toda substancia o mezcla de substancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica y se identifique como tal por su actividad farmacológica, características físicas, químicas y biológicas. Cuando un producto contenga nutrimentos, será considerado como medicamento, siempre que se trate de un preparado que contenga de manera individual o asociada: vitaminas, minerales, electrolitos, aminoácidos o ácidos grasos, en concentraciones superiores a las de los alimentos naturales y además se presente en alguna forma farmacéutica definida y la indicación de uso contemple efectos terapéuticos, preventivos o rehabilitatorios;
 
-II.- Fármaco: toda substancia natural o sintética que tenga alguna actividad farmacológica y que se identifique por sus propiedades físicas, químicas o acciones biológicas, que no se presente en forma farmacéutica y que reúna condiciones para ser empleada como medicamento o ingrediente de un medicamento;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+II.- Fármaco: Toda substancia natural, sintética o biotecnológica que tenga alguna actividad farmacológica y que se identifique por sus propiedades físicas, químicas o acciones biológicas, que no se presente en forma farmacéutica y que reúna condiciones para ser empleada como medicamento o ingrediente de un medicamento;
 
 III.- Materia prima: substancia de cualquier origen que se use para la elaboración de medicamentos o fármacos naturales o sintéticos;
 
@@ -2124,31 +2218,43 @@ V.- Materiales: los insumos necesarios para el envase y empaque de los medicamen
 
 La Secretaría de Salud sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que las substancias que contengan reúnan las características de seguridad y eficacia exigidas, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 223.
 
-El proceso de las plantas medicinales queda sujeto al control sanitario a que se refiere este Capítulo y a las normas técnicas que al efecto emita la Secretaría de Salud.
+El proceso de los productos que contengan plantas medicinales queda sujeto al control sanitario a que se refiere este capítulo y a las normas oficiales mexicanas que al efecto emita la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 224.
 
-Los medicamentos se clasifican en:
+Los medicamentos se clasifican:
 
-I.- Magistrales: cuando sean preparados conforme a la fórmula prescrita por un médico;
+A. Por su forma de preparación en:
 
-II.- Oficinales: cuando la preparación se realice de acuerdo a las reglas de la Farmacopea de los Estados Unidos Mexicanos, y
+I.- Magistrales: Cuando sean preparados conforme a la fórmula prescrita por un médico,
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+II.- Oficinales: Cuando la preparación se realice de acuerdo a las reglas de la Farmacopea de los Estados Unidos Mexicanos, y
 
-III.- Especialidades farmacéuticas: cuando sean preparados con fórmulas autorizadas por la Secretaría de Salud, en establecimientos de la industria químico-farmacéutica.
+III.- Especialidades farmacéuticas: Cuando sean preparados con fórmulas autorizadas por la Secretaría de Salud, en establecimientos de la industria químico-farmacéutica.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+B. Por su naturaleza:
+
+I.- Alopáticos: Toda substancia o mezcla de substancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica y se identifique como tal por su actividad farmacológica, características físicas, químicas y biológicas, y se encuentre registrado en la Farmacopea de los Estados Unidos Mexicanos para medicamentos alopáticos,
+
+II.- Homeopáticos: Toda sustancia o mezcla de sustancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio y que sea elaborado de acuerdo con los procedimientos de fabricación descritos en la Farmacopea Homeopática de los Estados Unidos Mexicanos, en las de otros países u otras fuentes de información científica nacional e internacional, y
+
+III.- Herbolarios: Los productos elaborados con material vegetal o algún derivado de éste, cuyo ingrediente principal es la parte aérea o subterránea de una planta o extractos y tinturas, así como jugos, resinas, aceites grasos y esenciales, presentados en forma farmacéutica, cuya eficacia terapéutica y seguridad ha sido confirmada científicamente en la literatura nacional o internacional.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 225.
 
-En la denominación distintiva de las especialidades farmacéuticas, no podrá incluirse clara o veladamente la composición del medicamento o su acción terapéutica; ni tampoco indicaciones en relación con enfermedades, síndromes o síntomas, ni aquellas que recuerden datos anatómicos o fenómenos fisiológicos, excepto en vacunas y productos biológicos.
+Los medicamentos, para su uso y comercialización, serán identificados por sus denominaciones genérica y distintiva. La identificación genérica será obligatoria.
 
-En todos los casos la denominación de los medicamentos, deberá ir acompañada del principio activo del producto.
+En la denominación distintiva no podrá incluirse clara o veladamente la composición del medicamento o su acción terapéutica. Tampoco indicaciones en relación con enfermedades, síndromes, síntomas, ni aquéllas que recuerden datos anatómicos o fenómenos fisiológicos, excepto en vacunas y productos biológicos.
+
+Las disposiciones reglamentarias determinarán la forma en la que las denominaciones señaladas deberán usarse en la prescripción, publicidad, etiquetado y en cualquier otra referencia.
 
 ###### ARTICULO 226.
 
@@ -2175,6 +2281,10 @@ IV.- Medicamentos que para adquirirse requieren receta médica, pero que pueden 
 V.- Medicamentos sin receta, autorizados para su venta exclusivamente en farmacias, y
 
 VI.- Medicamentos que para adquirirse no requieren receta médica y que pueden expenderse en otros establecimientos que no sean farmacias.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+No podrán venderse medicamentos u otros insumos para la salud en puestos semifijos, módulos móviles o ambulantes.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2206,7 +2316,9 @@ II.- Vacunas virales de uso oral o parenteral;
 
 III.- Sueros y antitoxinas de origen animal;
 
-IV.- Derivados de la sangre humana;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+IV.- Hemoderivados;
 
 V.- Vacunas y preparaciones microbianas para uso oral;
 
@@ -2226,9 +2338,9 @@ IX.- Las demás que determine la Secretaría de Salud.
 
 Los productos de origen biológico requieren de control interno en un laboratorio de la planta productora y de control externo en laboratorios de la Secretaría de Salud.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-Los laboratorios que elaboren medicamentos derivados de plasma, para comercializarlos deberán obtener autorización de la Secretaría.
+Los laboratorios que elaboren medicamentos hemoderivados deberán obtener autorización de la Secretaría para la comercialización de éstos.
 
 ###### ARTICULO 231.
 
@@ -2242,7 +2354,7 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 234.
 
@@ -2268,9 +2380,7 @@ III.- Las disposiciones que expida el Consejo de Salubridad General;
 
 IV.- Lo que establezcan otras leyes y disposiciones de carácter general relacionadas con la materia;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-V.- Las normas técnicas que dicte la Secretaría de Salud, y
+V.- (DEROGADA, D.O.F. 7 DE MAYO DE 1997)
 
 VI.- Las disposiciones relacionadas que emitan otras dependencias del Ejecutivo Federal en el ámbito de sus respectivas competencias.
 
@@ -2328,15 +2438,15 @@ III.- Los cirujanos dentistas, para casos odontológicos.
 
 Los pasantes de medicina, durante la prestación del servicio social, podrán prescribir estupefacientes, con las limitaciones que la Secretaría de Salud determine.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 241.
 
-La prescripción de estupefacientes se hará en recetarios o permisos especiales, editados, autorizados y suministrados por la Secretaría de Salud, en los siguientes términos:
+La prescripción de estupefacientes se hará en recetarios especiales, que contendrán, para su control, un código de barras asignado por la Secretaría de Salud, o por las autoridades sanitarias estatales, en los siguientes términos:
 
-I.- Mediante receta de los profesionales autorizados en los términos del artículo 240 de esta Ley, para enfermos que los requieran por lapsos no mayores de cinco días, y
+I.- Las recetas especiales serán formuladas por los profesionales autorizados en los términos del artículo 240 de esta ley, para tratamientos no mayores de treinta días, y
 
-II.- Mediante permiso especial a los profesionales respectivos, para el tratamiento de enfermos que los requieran por lapsos mayores de cinco días.
+II.- La cantidad máxima de unidades prescritas por día, deberá ajustarse a las indicaciones terapéuticas del producto.
 
 ###### ARTICULO 242.
 
@@ -2346,7 +2456,9 @@ Las prescripciones de estupefacientes a que se refiere el artículo anterior, s�
 
 Los citados establecimientos recogerán invariablemente las recetas o permisos, harán los asientos respectivos en el libro de contabilidad de estupefacientes y entregarán las recetas y permisos al personal autorizado por la Secretaría de Salud, cuando el mismo lo requiera.
 
-Sólo se despacharán prescripciones de estupefacientes, cuando procedan de profesionales autorizados conforme al artículo 240 de esta Ley, y si la receta o permiso formulados en el recetario especial contiene todos los datos que las disposiciones aplicables señalen, y las dosis no sobrepasen a las autorizadas en la Farmacopea de los Estados Unidos Mexicanos o en los ordenamientos correspondientes.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Únicamente se surtirán prescripciones de estupefacientes, cuando procedan de profesionales autorizados conforme al artículo 240 de esta ley y que contengan los datos completos requeridos en las recetas especiales y las dosis cumplan con las indicaciones terapéuticas aprobadas.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2354,7 +2466,7 @@ Sólo se despacharán prescripciones de estupefacientes, cuando procedan de prof
 
 Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 244.
 
@@ -2750,9 +2862,7 @@ III.- Las disposiciones que expida el Consejo de Salubridad General;
 
 IV.- Lo que establezcan otras leyes y disposiciones de carácter general relacionadas con la materia;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
-
-V.- Las normas técnicas que dicte la Secretaría de Salud, y
+V.- (DEROGADA, D.O.F. 7 DE MAYO DE 1997)
 
 VI.- Las disposiciones relacionadas que emitan otras dependencias del ejecutivo Federal en el ámbito de sus respectivas competencias.
 
@@ -2786,11 +2896,11 @@ Las substancias psicotrópicas incluidas en la fracción II del artículo 245 de
 
 Las substancias psicotrópicas incluidas en la fracción III del artículo 245 de esta Ley, así como las que se prevean en las disposiciones aplicables o en las listas a que se refiere el artículo 246, cuando se trate del grupo a que se refiere la misma fracción, requerirán para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que deberá surtirse por una sola vez y retenerse en la farmacia que la surta, de acuerdo a las disposiciones de la Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 252.
 
-Las substancias psicotrópicas incluidas en la fracción IV del artículo 245 de esta Ley, así como las que se prevean en las disposiciones aplicables o en las listas a que se refiere el artículo 246, cuando se trate del grupo a que se refiere la misma fracción, requerirán, para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que podrá surtirse hasta por tres veces, con una vigencia de seis meses, contados a partir de la fecha de su expedición y no requerirá ser retenida en la farmacia que la surta.
+Las substancias psicotrópicas incluidas en la fracción IV del artículo 245 de esta ley, así como las que se prevean en las disposiciones aplicables o en las listas a que se refiere el artículo 246, cuando se trate del grupo a que se refiere la misma fracción, requerirán, para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que podrá surtirse hasta por tres veces, con una vigencia de seis meses, contados a partir de la fecha de su expedición y no requerirá ser retenida por la farmacia que la surta, las primeras dos veces.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2840,79 +2950,75 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 257.
 
-Los establecimientos que se destinen al proceso de los productos a que se refiere el Capítulo IV de este Título, incluyendo su importación y exportación, se clasifican, para los efectos de esta Ley, en:
+Los establecimientos que se destinen al proceso de los productos a que se refiere el Capítulo IV de este Título, incluyendo su importación y exportación se clasifican, para los efectos de esta ley, en:
 
-I.- Establecimiento para la producción de medicamentos para uso humano;
+I.- Fábrica o laboratorio de materias primas para la elaboración de medicamentos o productos biológicos para uso humano;
 
-II.- Laboratorio de control químico, biológico, farmacéutico o de toxicología, para el estudio y experimentación de medicamentos y materias primas;
+II.- Fábrica o laboratorio de medicamentos o productos biológicos para uso humano;
 
-III.- Almacén de depósito y distribución de medicamentos para uso humano;
+III.- Fábrica o laboratorio de remedios herbolarios;
 
-IV.- Fábrica, laboratorio, almacén de depósito y distribución o expendio de materias primas para la elaboración de medicamentos para uso humano;
+IV.- Laboratorio de control químico, biológico, farmacéutico o de toxicología, para el estudio, experimentación de medicamentos y materias primas, o auxiliar de la regulación sanitaria;
 
-(REFORMADA, D.O.F. 14 DE JUNIO DE 1991) (F. DE E., D.O.F. 12 DE JULIO DE 1991)
+V.- Almacén de acondicionamiento de medicamentos o productos biológicos y de remedios herbolarios;
 
-V.- Droguería: El establecimiento que se dedica a la preparación y expendio de medicamentos magistrales y oficinales, además de la comercialización de especialidades farmacéutica, incluyendo aquéllas que contengan estupefacientes y psicotrópicos y otros insumos para la salud;
+VI.- Almacén de depósito y distribución de medicamentos o productos biológicos para uso humano, y de remedios herbolarios;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+VII.- Almacén de depósito y distribución de materias primas para la elaboración de medicamentos para uso humano;
 
-VI.- Botica: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos o demás insumos para la salud;
+VIII.- Droguería: El establecimiento que se dedica a la preparación y expendio de medicamentos magistrales y oficinales, además de la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos y otros insumos para la salud;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+IX.- Botica: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos o demás insumos para la salud;
 
-VII.- Farmacia: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos, insumos para la salud en general y productos de perfumería, belleza y aseo;
+X.- Farmacia: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos, insumos para la salud en general y productos de perfumería, belleza y aseo;
 
-VIII.- (DEROGADA, D.O.F. 14 DE JUNIO DE 1991)
+XI.- Establecimientos destinados al proceso de medicamentos para uso veterinario, y
 
-IX.- Fábrica, laboratorio, almacén de depósito y distribución o expendio de medicamentos y materias primas de uso veterinario, y
+XII.- Los demás que determine el Consejo de Salubridad General.
 
-X.- Los demás que determine el Consejo de Salubridad General.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 258.
 
-Los establecimientos a que se refiere el artículo anterior deberán contar con la licencia sanitaria correspondiente expedida por la Secretaría de Salud, y poseer y utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales elaborados por la propia Secretaría.
+Los establecimientos a que se refieren las fracciones I, II, IV y XI, del artículo anterior y los relativos a las demás fracciones cuando utilicen o suministren los productos señalados en la fracción I del artículo 198 de esta ley, deberán contar con la licencia sanitaria correspondiente expedida por la Secretaría de Salud. Dichos establecimientos deberán poseer y utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales elaborados por la propia Secretaría.
+
+Los establecimientos diversos a los referidos en el párrafo anterior sólo requerirán presentar aviso de funcionamiento ante la Secretaría de Salud y contar con los suplementos de la Farmacopea de los Estados Unidos Mexicanos relativos a la venta y suministro de medicamentos.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 259.
 
-Los establecimientos destinados al proceso de medicamentos deberán contar con un responsable de la identidad y pureza de los productos.
+Los establecimientos citados en el artículo 257 de esta ley deberán contar con un responsable de la identidad, pureza y seguridad de los productos.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+Los responsables deberán reunir los requisitos establecidos en las disposiciones aplicables y serán designados por los titulares de las licencias o propietarios de los establecimientos, quienes darán el aviso correspondiente a la Secretaría de Salud.
 
-Los responsables y sus auxiliares deberán ser idóneos y contar con autorización de la Secretaría de Salud, la que podrá autorizar a pasantes como auxiliares en casos excepcionales.
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 260.
 
-Los establecimientos citados en las fracciones I, II, III, IV, V y IX del artículo 257 de esta ley, contarán con un responsable sanitario y, según sea el caso, tomando en cuenta lo dispuesto por el artículo 200 fracción II de esta ley, con uno o varios auxiliares del responsable.
+Los responsables sanitarios de los establecimientos a que se refiere el artículo 257 de esta ley, deberán ser profesionales con título registrado por las autoridades educativas competentes, de acuerdo con los siguientes requisitos:
 
-A.- El responsable deberá ser profesional con título registrado por las autoridades educativas competentes, de acuerdo con los siguientes requisitos:
+I.- En los establecimientos a que se refieren las fracciones I, IV, V y VI deberá ser farmacéutico, químico farmacéutico biólogo, químico farmacéutico industrial o profesional cuya carrera se encuentre relacionada con la farmacia; en los casos de establecimientos que fabriquen medicamentos homeopáticos, el responsable podrá ser un homeópata;
 
-I.- En los establecimientos a que se refieren las fracciones I a V, deberá ser farmacéutico, químico farmacéutico biólogo, químico farmacéutico industrial o profesional cuya carrera se encuentre íntimamente ligada con la farmacia; en los casos de establecimientos del tipo citado que procesan productos homeopáticos, el responsable podrá ser un homeópata;
+II.- En los establecimientos a que se refieren las fracciones II y VII, además de los profesionales señalados en la fracción anterior, el responsable podrá ser un químico industrial;
 
-II.- En los establecimientos a que se refiere la fracción IV citada, el responsable podrá ser un químico industrial;
+III.- En los establecimientos señalados en las fracciones III y VIII, además de los profesionales citados en la fracción I, podrá ser responsable un médico;
 
-III.- En los establecimientos señalados en la fracción V, además de los profesionales citados en la fracción I, podrá ser responsable un médico, previo examen de idoneidad;
+IV.- En los establecimientos señalados en las fracciones IX y X, únicamente requieren dar aviso de responsable, aquéllos que expendan medicamentos que contengan estupefacientes o substancias psicotrópicas. De no ser el caso, el propietario será el responsable en los términos del artículo 261 de esta ley;
 
-IV.- En los establecimientos señalados en las fracciones VI y VII citadas, únicamente requieren de autorización de responsable, aquellos que expendan medicamentos que contengan estupefacientes o substancias psicotrópicas. En caso de exención de autorización de responsable, el propietario será el responsable, en los términos del artículo 261 de esta ley.
+V.- En los establecimientos señalados en la fracción XI, el responsable podrá ser además de los profesionales indicados en la fracción I de este artículo, un médico veterinario zootecnista, y
 
-V.- En los establecimientos señalados en la fracción IX, el responsable podrá ser además de los profesionales indicados en la fracción I de este artículo, un médico veterinario zootecnista.
-
-B.- El auxiliar del responsable, podrá ser pasante de las carreras citadas en el apartado A del presente artículo; asimismo, podrán aceptarse a técnicos en operación de farmacias, con excepción de los establecimientos a que se refieren las fracciones I a IV del artículo 257 de esta ley.
+VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salubridad General determinará los requisitos del responsable sanitario.
 
 ###### ARTICULO 261.
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
 
-### CAPITULO VI. Delitos
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 262.
 
@@ -2932,9 +3038,9 @@ IV.- Insumos de uso odontológico: todas las substancias o materiales empleados 
 
 V.- Materiales quirúrgicos y de curación: Los dispositivos o materiales que adicionados o no de antisépticos o germicidas se utilizan en la práctica quirúrgica o en el tratamiento de las soluciones de continuidad, lesiones de la piel o sus anexos, y
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-VI.- Productos higiénicos: Los materiales y substancias adicionados de antisépticos, que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva.
+VI.- Productos higiénicos: Los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2942,11 +3048,11 @@ VI.- Productos higiénicos: Los materiales y substancias adicionados de antisép
 
 En el caso de equipos médicos, prótesis, órtesis y ayudas funcionales, deberán expresarse en la etiqueta o manual correspondiente las especificaciones de manejo y conservación, con las características que señale la Secretaría de Salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 264.
 
-El proceso, uso y mantenimiento de equipos médicos y agentes de diagnóstico en los que intervengan fuentes de radiación: se ajustarán a las normas técnicas dictadas por la Secretaría de Salud, incluso en la eliminación de desechos de tales materiales, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+El proceso, uso y mantenimiento de equipos médicos y agentes de diagnóstico en los que intervengan fuentes de radiación, se ajustarán a las normas oficiales mexicanas dictadas por la Secretaría de Salud, incluso en la eliminación de desechos de tales materiales, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
 Las etiquetas y contraetiquetas de los equipos y agentes de diagnóstico deberán ostentar, además de los requisitos establecidos en el artículo 210 de esta Ley, la leyenda: "Peligro, material radiactivo para uso exclusivo en medicinas"; la indicación de los isótopos que contienen actividad, vida media de los mismos y tipo de radiaciones que emiten, así como el logotipo internacional reconocido para indicar los materiales radiactivos.
 
@@ -2962,13 +3068,19 @@ Para el caso de reactivos biológicos que se administren a seres humanos se esta
 
 Sus etiquetas y contraetiquetas, además de los requisitos establecidos en el artículo 210 de esta Ley, deberán expresar claramente la vía de administración y la dosis. Las indicaciones, precauciones y forma de aplicación se detallarán en un instructivo adjunto al producto.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 267.
 
-Queda prohibida la venta, suministro y uso de los agentes de diagnóstico con fecha de caducidad vencida.
+Los insumos para la salud comprendidos en el artículo 262 de esta ley no podrán venderse, suministrarse o usarse, con fecha de caducidad vencida.
 
 ###### ARTICULO 268.
 
 El proceso de los materiales quirúrgicos, de curación y productos higiénicos, quedará sujeto, en lo conducente, a las disposiciones del Capítulo IV de este Título.
+
+### CAPITULO VI. Delitos
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 269.
 
@@ -3028,19 +3140,31 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 Para los efectos de esta Ley, con el nombre de tabaco se designa a la planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para fumar, masticar o aspirar.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 276.
 
-En las etiquetas de los empaques y envases en que se expenda o suministre tabaco, además de lo establecido en las normas técnicas correspondientes, deberán figurar en forma clara y visible leyendas de advertencia escritas con letra fácilmente legible con colores contrastantes, sin que se invoque o haga referencia a alguna disposición legal; las cuales se sustituirán como mínimo cada seis meses, alternando cada uno de los contenidos siguientes:
+En las etiquetas de los empaques y envases en que se expenda o suministre tabaco, además de lo establecido en las normas oficiales mexicanas correspondientes, deberán figurar en forma clara y visible leyendas de advertencia escritas con letra fácilmente legible con colores contrastantes, sin que se invoque o haga referencia a alguna disposición legal, las cuales se alternarán con los contenidos siguientes:
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 I.- Dejar de fumar, reduce importantes riesgos en la salud;
 
-II.- Fumar, es un factor de riesgo para el cáncer y el enfisema pulmonar, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+II.- Fumar es causa de cáncer y enfisema pulmonar y,
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 III.- Fumar durante el embarazo, aumenta el riesgo de parto prematuro y de bajo peso en el recién nacido.
 
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+
 Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el uso de las leyendas a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+La Secretaría de Salud, en su caso, publicará en el Diario Oficial de la Federación el acuerdo mediante el cual podrán establecerse otras leyendas precautorias, así como las disposiciones para su aplicación y utilización.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3054,19 +3178,21 @@ En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a men
 
 Las unidades hospitalarias y clínicas del Sistema Nacional de Salud, deberán contar con áreas en donde se prohiba el consumo de tabaco. Se consideran como tales las de atención médica, auditorios, aulas y zonas de peligro para la seguridad laboral y colectiva, así como los sitios de trabajo de ambiente cerrado.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 278.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta ley se entiende por:
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+I.- Plaguicida: Cualquier substancia o mezcla de substancias que se destina a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las substancias defoliantes y las desecantes;
 
-I.- Plaguicida: Cualquier substancia o mezcla de substancias utilizadas para prevenir, destruir, repeler o mitigar cualquier forma de vida que sea nociva para la salud, los bienes del hombre o el ambiente, excepto la que exista sobre o dentro del ser humano y los protozoarios, virus, bacterias, hongos y otros microorganismos similares sobre o dentro de los animales;
+II.- Nutrientes vegetales: Cualquier substancia o mezcla de substancias que contenga elementos útiles para la nutrición y desarrollo de las plantas, reguladores de crecimiento, mejoradores de suelo, inoculantes y humectantes;
 
-II.- Fertilizante: cualquier substancia o mezcla de substancias que se destine a mejorar el crecimiento y productividad de las plantas, y
+III.- Substancia peligrosa: Aquel elemento o compuesto, o la mezcla química de ambos, que tiene características de corrosividad, reactividad, inflamabilidad, explosividad, toxicidad, biológico-infecciosas, carcinogenicidad, teratogenicidad o mutagenicidad, y
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+IV.- Substancia tóxica: Aquel elemento o compuesto, o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, como lesiones funcionales, alteraciones genéticas, teratogénicas, mutagénicas, carcinogénicas o la muerte.
 
-III.- Substancias tóxicas: Las que por constituir un riesgo para la salud determine la Secretaría de Salud en las listas que, para efectos de control sanitario, publique en el Diario Oficial de la Federación.
+La Secretaría de Salud determinará, mediante listas que publicará en el Diario Oficial de la Federación, los nutrientes vegetales, así como las substancias tóxicas o peligrosas que por constituir un riesgo para la salud deben sujetarse a control sanitario.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3076,31 +3202,59 @@ Corresponde a la Secretaría de Salud:
 
 I.- Establecer, en coordinación con las dependencias del Ejecutivo Federal competentes y para fines de control sanitario, la clasificación y las características de los diferentes productos a que se refiere este Capítulo, de acuerdo al riesgo que representen directa o indirectamente para la salud humana;
 
-II.- Autorizar, en su caso, los productos que podrán contener una o más de las substancias, plaguicidas o fertilizantes, tomando en cuenta el empleo a que se destine el producto;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-III.- Autorizar los disolventes utilizados en los plaguicidas y fertilizantes, así como los materiales empleados como vehículos, los cuales no deberán ser tóxicos por sí mismos ni incrementar la toxicidad del plaguicida o fertilizante;
+II.- Autorizar, en su caso, los productos que podrán contener una o más de las substancias, plaguicidas o nutrientes vegetales, tomando en cuenta el empleo a que se destine el producto;
 
-IV.- Autorizar el proceso de los plaguicidas de acción residual o de cualquier composición química, solamente cuando no entrañen peligro para la salud humana y cuando no sea posible la sustitución adecuada de los mismos, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+III.- Autorizar los disolventes utilizados en los plaguicidas y nutrientes vegetales, así como los materiales empleados como vehículos, los cuales no deberán ser tóxicos por sí mismos ni incrementar la toxicidad del plaguicida o del nutriente vegetal;
 
-V.- Establecer las condiciones que se deberán cumplir para fabricar, formular, envasar, etiquetar, embalar, almacenar, transportar, comercializar y aplicar plaguicidas, fertilizantes y substancias tóxicas en coordinación con las dependencias competentes. A efecto de proteger la salud de la población prevalecerá la opinión de la Secretaría de Salud.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+IV.- Autorizar el proceso de los plaguicidas persistentes y bioacumulables de cualquier composición química, solamente cuando no entrañen peligro para la salud humana y cuando no sea posible la sustitución adecuada de los mismos, y
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+V.- Establecer, en coordinación con las dependencias competentes, las normas oficiales mexicanas en las que se especifiquen las condiciones que se deberán cumplir para fabricar, formular, envasar, etiquetar, embalar, almacenar, transportar, comercializar y aplicar plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas en cualquier fase de su ciclo de vida. A efecto de proteger la salud de la población prevalecerá la opinión de la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 280.
 
-Durante el proceso, uso o aplicación de los plaguicidas, fertilizantes y substancias tóxicas, se evitará el contacto y la proximidad de los mismos con alimentos y otros objetos cuyo empleo, una vez contaminados, represente (sic) riesgo para la salud humana.
+La Secretaría de Salud emitirá las normas oficiales mexicanas de protección para el proceso, uso y aplicación de los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 281.
 
-Las etiquetas de los envases de los plaguicidas, fertilizantes y demás substancias tóxicas, en lo conducente, deberán ostentar claramente la leyenda sobre los peligros que implica el manejo del producto, su forma de uso, sus antídotos en caso de intoxicación y el manejo de los envases que los contengan o los hayan contenido, de conformidad con las disposiciones legales aplicables y las normas que dicte la Secretaría de Salud.
+Las etiquetas de los envases de los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, en lo conducente, deberán ostentar, en español, claramente la leyenda sobre los peligros que implica el manejo del producto, su forma de uso, sus antídotos en caso de intoxicación y el manejo de los envases que los contengan o los hayan contenido, de conformidad con las disposiciones legales aplicables y con las normas que dicte la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 282.
 
-El control sanitario de las substancias a que se refiere la fracción III del artículo 278, se ajustará a lo establecido en esta Ley y demás disposiciones aplicables, de acuerdo al riesgo que representen directa o indirectamente para la salud humana.
+El control sanitario de las substancias a que se refiere el artículo 278, se ajustará a lo establecido en esta ley y demás disposiciones aplicables, de acuerdo con el riesgo que representen directa o indirectamente para la salud humana.
+
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN,
+
+D.O.F. 7 DE MAYO DE 1997)
+
+###### ARTICULO 282 Bis.
+
+Para los efectos de esta Ley, se consideran productos biotecnológicos, aquellos alimentos, ingredientes, aditivos, materias primas, insumos para la salud, plaguicidas, sustancias tóxicas o peligrosas, y sus desechos, en cuyo proceso intervengan organismos vivos o parte de ellos, modificados por técnica tradicional o ingeniería genética.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+###### ARTICULO 282 Bis 1.
+
+Se deberá notificar a la Secretaría de Salud, de todos aquellos productos biotecnológicos o de los derivados de éstos, que se destinen al uso o consumo humano.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+###### ARTICULO 282 Bis 2.
+
+Las disposiciones y especificaciones relacionadas con el proceso, características y etiquetas de los productos objeto de este capítulo, se establecerán en las normas oficiales mexicanas correspondientes.
 
 ###### ARTICULO 283.
 
@@ -3124,21 +3278,31 @@ El importador de los productos a que se refiere este Título, deberá estar domi
 
 En materia de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias que se utilicen en su elaboración el Secretario de Salud, mediante acuerdo publicado en el Diario Oficial de la Federación, determinará con base en los riesgos para la salud qué productos o materias primas requieren autorización previa de importación.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 286 Bis.
 
-La importación de los productos y materias primas que intervengan en su elaboración, que no requieran de autorización previa, se sujetarán a las siguientes bases:
+La importación de los productos y materias primas comprendidos en este título que no requieran de autorización sanitaria previa de importación, se sujetará a las siguientes bases:
 
-I.- Podrán importarse los productos, siempre que el importador exhiba el certificado sanitario expedido por la autoridad sanitaria del país de origen, de acuerdo con los convenios y tratados internacionales que se celebren o de laboratorios nacionales o extranjeros acreditados por las Secretarías de Salud o de Comercio y Fomento Industrial, conforme a los acuerdos de coordinación que celebren estas dependencias. Asimismo, deberá dar aviso a la Secretaría del destino y lugar por donde se va a introducir el producto;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-II.- La Secretaría podrá aleatoriamente muestrear y analizar los productos importados, aún cuando cuenten con certificación sanitaria a fin de verificar el cumplimiento de las normas técnicas y oficiales mexicanas. Cuando se encuentre que el producto muestreado no cumple con las normas citadas, la Secretaría podrá solicitar su acondicionamiento y si esto no es posible, procederá en los términos de esta ley. Además, en estos casos se revocará la autorización del laboratorio que expidió el certificado, y
+I.- Podrán importarse los productos, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta ley, incluido el certificado sanitario expedido por la autoridad sanitaria del país de origen, de acuerdo con los convenios y tratados internacionales que se celebren o de laboratorios nacionales o extranjeros acreditados por las Secretarías de Salud o de Comercio y Fomento Industrial, conforme a los acuerdos de coordinación que celebren estas dependencias. Asimismo, deberá dar aviso a la Secretaría del arribo y destino de los productos.
 
-III.- Los productos nuevos o aquellos que vayan a ser introducidos por primera vez al país, previa su internación serán muestreados y analizados en laboratorios acreditados, para verificar que cumplan con las normas técnicas y oficiales mexicanas
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+II.- La Secretaría podrá aleatoriamente muestrear y analizar los productos importados, aún cuando cuenten con certificación sanitaria a fin de verificar el cumplimiento de las normas oficiales mexicanas. Cuando se encuentre que el producto muestreado no cumple con las normas citadas, la Secretaría podrá solicitar su acondicionamiento, y si esto no es posible, procederá en los términos de esta ley. Además, en estos casos se revocará la autorización del laboratorio que expidió el certificado, y
+
+> <small>N. DE E. EN EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 15 DE ABRIL DE 1997, PUBLICADO EN EL D.O.F. EL DIA 7 DE MAYO DEL MISMO AÑO, EL LEGISLADOR SEÑALA QUE SE REFORMAN LOS ARTICULOS EN CUANTO A LA SUSTITUCIÓN DE LA EXPRESION “NORMAS TECNICAS” POR LA DE “NORMAS OFICIALES MEXICANAS”. DEL CONTEXTO DE LA FRACCION QUE A CONTINUACION SE SEÑALA SE DESPRENDE QUE LA MISMA CONTIENE DICHA EXPRESION SIN ESTAR CONTENIDO ESPECIFICAMENTE EN EL DECRETO DE REFERENCIA, POR LO QUE SE HACE LA ADECUACION CORRESPONDIENTE.</small>
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+III.- Los productos nuevos o aquellos que vayan a ser introducidos por primera vez al país, previa su internación serán muestreados y analizados en laboratorios acreditados, para verificar que cumplan con las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 287.
 
-(DEROGADO, D.O.F. 14 DE JUNIO DE 1991)
+La Secretaría de Salud, en apoyo a las exportaciones, podrá certificar los procesos o productos a que hace mención el artículo 194 fracción I de esta ley, o los establecimientos en los que se lleven a cabo dichos procesos, siempre y cuando éstos cumplan con las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3208,11 +3372,11 @@ Queda prohibido el transporte por el territorio nacional, con destino a otro pa�
 
 La Secretaría de Salud está facultada para intervenir en puertos marítimos y aéreos, en las fronteras y, en general, en cualquier punto del territorio nacional, en relación con el tráfico de estupefacientes y substancias psicotrópicas, para los efectos de identificación, control y disposición sanitarios.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 295.
 
-Sin perjuicio de las atribuciones de otras dependencias del Ejecutivo Federal, se requiere la previa autorización sanitaria expedida por la Secretaría de Salud, para la importación de medicamentos y materias primas que intervengan en su elaboración; asimismo, para la importación de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológicos, material quirúrgico, de curación y productos higiénicos, que determine el Secretario mediante acuerdo publicado en el Diario Oficial de la Federación.
+Sin perjuicio de las atribuciones de otras dependencias del Ejecutivo Federal, se requiere autorización sanitaria expedida por la Secretaría de Salud para la importación de los medicamentos y sus materias primas, equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico y de curación y productos higiénicos que determine el Secretario, mediante acuerdo publicado en el Diario Oficial de la Federación.
 
 ###### ARTICULO 296.
 
@@ -3222,13 +3386,15 @@ Sin perjuicio de las atribuciones de otras dependencias del Ejecutivo Federal, s
 
 (DEROGADO, D.O.F. 14 DE JUNIO DE 1991)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 298.
 
-Se requiere autorización sanitaria de la Secretaría de Salud para la importación de plaguicidas, fertilizantes y substancias tóxicas que constituyan un riesgo para la salud.
+Se requiere autorización sanitaria de la Secretaría de Salud para la importación de los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas que constituyan un riesgo para la salud.
 
-La importación de plaguicidas o componentes de acción residual y los de cualquier composición química, únicamente se autorizará cuando éstos no entrañen un peligro para la salud humana y no sea posible la sustitución adecuada de los mismos.
+La importación de plaguicidas persistentes y bioacumulables de cualquier composición química, únicamente se autorizará cuando éstos no entrañen un peligro para la salud humana y no sea posible la sustitución adecuada de los mismos.
+
+La Secretaría de Salud, mediante acuerdo que publicará en el Diario Oficial de la Federación, determinará los plaguicidas y nutrientes vegetales que no requerirán de autorización sanitaria para su importación.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3248,6 +3414,12 @@ Con el fin de proteger la salud pública, es competencia de la Secretaría de Sa
 
 Será objeto de autorización por parte de la Secretaría de Salud, la publicidad que se realice sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de los insumos para la salud, las bebidas alcohólicas y el tabaco; así como los productos y servicios que se determinen en el reglamento de esta ley en materia de publicidad.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+###### ARTICULO 301 Bis.
+
+Las disposiciones reglamentarias determinarán los productos y servicios en los que el interesado sólo requerirá dar aviso a la Secretaría de Salud, para su difusión publicitaria.
+
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 302.
@@ -3260,17 +3432,21 @@ Los gobiernos de las entidades federativas coadyuvarán con la Secretaría de Sa
 
 La Secretaría de Salud coordinará las acciones que, en materia de publicidad relacionada con la salud, realicen las instituciones del sector público, con la participación que corresponda a los sectores social y privado, y con la intervención que corresponda a la Secretaría de Gobernación.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 304.
 
-La clave de autorización de la publicidad otorgada por la Secretaría de Salud, deberá aparecer en el material publicitario de que se trate.
+La clave de autorización de la publicidad otorgada por la Secretaría de Salud, en su caso, deberá aparecer en el material publicitario impreso, pero no formando parte de la leyenda precautoria.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 Las resoluciones sobre autorizaciones de publicidad que emita la Secretaría de Salud, no podrán ser utilizadas con fines comerciales o publicitarios.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 305.
 
-Los responsables de la publicidad, en los términos de las disposiciones legales aplicables, se ajustarán a las normas de este Título.
+Los responsables de la publicidad, anunciantes, agencias de publicidad y medios difusores, se ajustarán a las normas de este título.
 
 ###### ARTICULO 306.
 
@@ -3302,9 +3478,9 @@ Tratándose de publicidad de alimentos y bebidas no alcohólicas, ésta no deber
 
 La publicidad no deberá inducir a hábitos de alimentación nocivos, ni atribuir a los alimentos industrializados un valor superior o distinto al que tengan en realidad.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-En el caso de productos alimenticios, que conforme a la norma técnica correspondiente, se clasifiquen como de bajo valor nutritivo, deberán incluir en forma visual, auditiva o visual y auditiva, según sea para impresos, radio o cine y televisión respectivamente, mensajes precautorios de la condición del producto o promotores de una alimentación equilibrada.
+La publicidad de alimentos y bebidas no alcohólicas deberá incluir en forma visual, auditiva o visual y auditiva, según sea para impresos, radio o cine y televisión, respectivamente, mensajes precautorios de la condición del producto o mensajes promotores de una alimentación equilibrada.
 
 ###### ARTICULO 308.
 
@@ -3330,7 +3506,7 @@ VII.- En el mensaje no podrán participar personas menores de 25 años, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
 
-VIII.- En el mensaje deberán apreciarse fácilmente, en forma visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
+VIII.- En el mensaje deberán apreciarse fácilmente en forma, visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3344,13 +3520,17 @@ Las disposiciones reglamentarias señalarán los requisitos a que se sujetará e
 
 Los horarios en los que las estaciones de radio y televisión y las salas de exhibición cinematográfica podrán transmitir o proyectar, según el caso, publicidad de bebidas alcohólicas o de tabaco, se ajustarán a lo que establezcan las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 310.
 
-En materia de medicamentos, plantas medicinales, equipos médicos, prótesis, órtesis, ayudas funcionales e insumo de uso odontológico, materiales quirúrgicos, de curación y agentes de diagnóstico, la publicidad se clasifica en:
+En materia de medicamentos, remedios herbolarios, equipos médicos, prótesis, órtesis, ayudas funcionales e insumos de uso odontológico, materiales quirúrgicos y de curación y agentes de diagnóstico, la publicidad se clasifica en:
 
 I.- Publicidad dirigida a profesionales de la salud, y
 
-II.- Publicidad masiva.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+II.- Publicidad dirigida a la población en general.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3358,9 +3538,9 @@ La publicidad dirigida a profesionales de la salud deberá circunscribirse a las
 
 La publicidad a que se refiere el párrafo anterior, no requerirá autorización en los casos que lo determinen expresamente las disposiciones reglamentarias de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-La publicidad masiva es la que se realiza a través de los medios de comunicación social y tiene como destinatario al público en general. Sólo se permitirá la publicidad masiva de medicamentos de libre venta, misma que deberá incluir en forma visual o auditiva, según sea el medio de que se trate, el texto: “Consulte a su médico”.
+La publicidad dirigida a la población en general sólo se efectuará sobre medicamentos de libre venta y remedios herbolarios, y deberá incluirse en ella en forma visual, auditiva o ambas, según el medio de que se trate, el texto: Consulte a su médico, así como otras leyendas de advertencia que determine la Secretaría de Salud.
 
 Ambas se limitarán a difundir las características generales de los productos, sus propiedades terapéuticas y modalidades de empleo, señalando en todos los casos la conveniencia de consulta médica para su uso.
 
@@ -3376,13 +3556,15 @@ Sólo se autorizará la publicidad de medicamentos con base en los fines con que
 
 La Secretaría de Salud determinará en qué casos la publicidad de productos y servicios a que se refiere esta Ley deberá incluir, además de los ya expresados en este Capítulo, otros textos de advertencia de riesgos para la salud.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
+
 TITULO DECIMOCUARTO
 
-Control Sanitario de la Disposición de Organos, Tejidos y Cadáveres de Seres Humanos
+Control sanitario de la disposición de órganos, tejidos, células y cadáveres de seres humanos
 
 ###### ARTICULO 313.
 
-Compete a la Secretaría de Salud ejercer el control sanitario de la disposición de órganos, tejidos y sus componentes y cadáveres de seres humanos. Al efecto la Secretaría tendrá a su cargo los Registros Nacionales de Trasplantes y de Transfusiones. La disposición de cadáveres conocidos, se regirán por lo preceptuado en esta ley.
+Compete a la Secretaría de Salud ejercer el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos. Al efecto, la Secretaría de Salud tendrá a su cargo el Registro Nacional de Transplantes y al Centro Nacional de la Transfusión Sanguínea.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3390,7 +3572,9 @@ Compete a la Secretaría de Salud ejercer el control sanitario de la disposició
 
 Para efectos de este título, se entiende por:
 
-I.- Disposición de órganos, tejidos y cadáveres de seres humanos: El conjunto de actividades relativas a la obtención, conservación, utilización, preparación, suministro y destino final de órganos, tejidos y sus componentes y derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos, con fines terapéuticos, de docencia o investigación;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+I.- Disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos: El conjunto de actividades relativas a la obtención, análisis, conservación, utilización, preparación, suministro y destino final de órganos, tejidos y sus componentes, células y derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos, con fines terapéuticos, de docencia o investigación;
 
 II.- Cadáver: El cuerpo humano en el que se haya comprobado la pérdida de la vida;
 
@@ -3408,7 +3592,9 @@ VIII.- Organo: Entidad morfológica compuesta por la agrupación de tejidos dife
 
 IX.- Producto: Todo tejido o substancia excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este título, la placenta y los anexos de la piel, y
 
-X.- Destino Final: La conservación permanente, inhumación o desintegración en condiciones sanitarias permitidas por la ley, de órganos, tejidos y sus derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos.
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+X.- Destino final: La conservación permanente, inhumación, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de preembriones, embriones y fetos, en condiciones sanitarias permitidas por esta ley y demás disposiciones aplicables.
 
 ###### ARTICULO 315.
 
@@ -3460,37 +3646,47 @@ Si antes de ese término se presentara un paro cardiaco irreversible, se determi
 
 La certificación de muerte respectiva será expedida por dos profesionales distintos de los que integren el cuerpo técnico que intervendrá en el trasplante.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 319.
 
-Los establecimientos en los cuales se realicen actos de disposición de órganos, tejidos y sus componentes y cadáveres de seres humanos, así como los profesionales responsables de dichos actos, deberán contar con la autorización de la Secretaría de Salud, en los términos de esta ley y demás disposiciones generales aplicables.
+Los establecimientos en los cuales se realicen actos de disposición de órganos, tejidos y sus componentes y células requieren de autorización sanitaria.
+
+En el caso de los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos, se deberá presentar el aviso correspondiente a la Secretaría de Salud en los términos de esta ley y demás disposiciones generales aplicables.
+
+Los profesionales responsables de los actos a que se refieren los párrafos anteriores también deberán presentar aviso.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 320.
 
-Se considerará disposición ilícita de órganos, tejidos y cadáveres de seres humanos, aquella que se realice en contra de la ley y el orden público.
+Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, a aquélla que se realiza en contra de la ley y el orden público.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 321.
 
-Los trasplantes de órganos y tejidos y sus componentes, en seres humanos vivos podrán llevarse a cabo con fines terapéuticos, solamente cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del disponente originario y del receptor, y siempre que existan justificantes de orden terapéutico.
+Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo con fines terapéuticos, solamente cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del disponente originario y del receptor, y siempre que existan justificantes de orden terapéutico.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 322.
 
-Salvo tratándose de la sangre o sus componentes, la obtención de órganos o tejidos y sus componentes de seres humanos confines terapéuticos, se hará preferentemente de cadáveres.
+Salvo tratándose de la sangre, componentes sanguíneos y células progenitoras hematopoyéticas, la obtención de órganos o tejidos y sus componentes de seres humanos con fines terapéuticos, se hará preferentemente en cadáveres.
 
-Queda prohibido realizar el trasplante de un órgano único esencial para la conservación de la vida y no regenerable, de un cuerpo humano vivo a otro cuerpo humano vivo.
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 323.
 
-La selección del disponente originario y del receptor de órganos o tejidos para trasplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud.
+La selección del disponente originario y del receptor de órganos, tejidos y sus componentes y células, para trasplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 324.
 
-Para efectuar la toma de órganos y tejidos se requiere el consentimiento expreso y por escrito del disponente originario libre de coacción física o moral, otorgado ante notario o en documento expedido ante dos testigos idóneos, y con las demás formalidades que al efecto señalen las disposiciones aplicables. En el caso de la sangre, no será necesario que el consentimiento sea manifestado por escrito.
+Para efectuar la toma de órganos y tejidos se requiere el consentimiento expreso y por escrito del disponente originario, libre de coacción física o moral, otorgado ante notario o en documento expedido ante dos testigos idóneos y con las demás formalidades que al efecto señalen las disposiciones aplicables.
+
+Tratándose de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, bastará el simple consentimiento por escrito del donante.
 
 El disponente originario podrá revocar el consentimiento en cualquier momento y sin responsabilidad de su parte.
 
@@ -3524,17 +3720,17 @@ Cuando el consentimiento provenga de una mujer embarazada, sólo será admisible
 
 Las personas privadas de su libertad podrán otorgar su consentimiento para la utilización de sus órganos y tejidos con fines terapéuticos, solamente cuando el receptor sea cónyuge, concubinario, concubina o familiar del disponente originario de que se trate.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 329.
 
-Los establecimientos de salud, previa autorización de la Secretaría de Salud, podrán instalar y mantener para fines terapéuticos: Bancos de órganos, tejidos y sus componentes, los que serán utilizados bajo la responsabilidad técnica de la dirección del establecimiento de que se trate y de conformidad con las disposiciones aplicables.
+Los establecimientos de salud, previa autorización de la Secretaría de Salud, podrán instalar y mantener para fines terapéuticos: bancos de órganos, tejidos, y sus componentes y de células, los que serán utilizados bajo responsabilidad técnica de la dirección del establecimiento de que se trate y de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 330.
 
-La extracción de la sangre humana con fines terapéuticos, su análisis, fraccionamiento en sus diferentes componentes, conservación y aplicación, estarán a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables y previa autorización de la Secretaría de Salud. La sangre será considerada como tejido.
+La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión, que se instalarán y funcionarán de acuerdo con las disposiciones aplicables y previa autorización de la Secretaría de Salud. La sangre será considerada como tejido.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3542,11 +3738,11 @@ La extracción de la sangre humana con fines terapéuticos, su análisis, fracci
 
 La Secretaría de Salud otorgará la autorización a que se refiere el artículo anterior, a los establecimientos que cuenten con el personal técnico y el equipo e instrumental necesario para la obtención, análisis, preservación sanitaria y suministro de la sangre y sus componentes y derivados con fines terapéuticos, y que tengan como responsable a un profesional médico capacitado en la materia.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 332.
 
-La sangre humana sólo podrá obtenerse de voluntarios que la proporcionen gratuitamente y en ningún caso podrá ser objeto de actos de comercio.
+La sangre humana, componentes sanguíneos y células progenitoras hematopoyéticas, sólo podrán obtenerse de voluntarios que los proporcionen gratuitamente y en ningún caso podrán ser objeto de actos de comercio.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3658,7 +3854,7 @@ Sólo podrá darse destino final a un feto previa expedición del certificado de
 
 ###### ARTICULO 351.
 
-Los servicios de sanidad internacional se regirán por las disposiciones de esta Ley, sus reglamentos y las normas técnicas que emita la Secretaría de Salud, así como por los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
+Los servicios de sanidad internacional se regirán por las disposiciones de esta Ley, sus reglamentos y las normas oficiales mexicanas que emita la Secretaría de Salud, así como por los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -3768,11 +3964,11 @@ Las autorizaciones sanitarias tendrán el carácter de licencias, permisos, regi
 
 Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salud o por los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, en los términos de esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 370.
 
-Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta ley. En caso de incumplimiento de las normas técnicas las autorizaciones serán canceladas.
+Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las excepciones que establezca esta ley. En caso de incumplimiento de las normas oficiales mexicanas las autorizaciones serán canceladas.
 
 ###### ARTICULO 371.
 
@@ -3792,11 +3988,11 @@ Sólo procederá la prórroga cuando se sigan cumpliendo los requisitos que señ
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 373.
 
-Requieren de licencia sanitaria los establecimientos que se dediquen al proceso de los productos a que se refiere el primer párrafo del artículo 198 de esta ley; cuando cambien de ubicación, requerirán nueva licencia sanitaria.
+Requieren de licencia sanitaria los establecimientos a que se refieren los artículos 198, 319, 329 y 330 de esta Ley; cuando cambien de ubicación, requerirán de nueva licencia sanitaria.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3808,13 +4004,11 @@ Los obligados a tener licencia sanitaria deberán exhibirla en lugar visible del
 
 Requieren de permiso:
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+I.- (DEROGADA, D.O.F. 7 DE MAYO DE 1997)
 
-I.- Los responsables de los establecimientos en donde se realice alguna de las operaciones del proceso de insumos para la salud;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-II.- Los responsables de la operación y funcionamiento de fuentes de radiación de uso médico y a sus auxiliares técnicos, sin perjuicio de los requisitos que exijan otras autoridades competentes;
+II.- Los responsables de la operación y funcionamiento de fuentes de radiación de uso médico, sus auxiliares técnicos y los asesores especializados en seguridad radiológica, sin perjuicio de los requisitos que exijan otras autoridades competentes;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3824,9 +4018,9 @@ IV.- Los libros de control de estupefacientes o substancias psicotrópicas, así
 
 V.- La internación de cadáveres de seres humanos en el territorio nacional, su traslado de una entidad federativa a otra o al extranjero, y el embalsamamiento;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-VI.- La internación en el territorio nacional o la salida de él de órganos y tejidos de seres humanos, incluyendo la sangre y hemoderivados;
+VI.- La internación en el territorio nacional o la salida de él, de órganos y tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos, células progenitoras hematopoyéticas y hemoderivados;
 
 VII.- La publicidad relativa a los productos y servicios comprendidos en esta Ley;
 
@@ -3836,31 +4030,31 @@ VIII.- La importación de los productos y materias primas comprendidos en el tí
 
 IX.- La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que las contengan, y
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-X.- Las modificaciones a las instalaciones de establecimientos que manejen substancias tóxicas, determinadas como de alto riesgo para la salud por acuerdo del Secretario, cuando impliquen nuevos sistemas de seguridad.
+X.- Las modificaciones a las instalaciones de establecimientos que manejan substancias tóxicas o peligrosas determinadas como de alto riesgo para la salud, cuando impliquen nuevos sistemas de seguridad.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376.
 
-Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico materiales quirúrgicos, de curación y productos higiénicos; así como los plaguicidas, fertilizantes y substancias tóxicas y las materias primas que intervengan en su elaboración. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
-
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos y de curación y productos higiénicos; así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
 
 ###### ARTICULO 376 Bis.
 
 El registro sanitario a que se refiere el artículo anterior se sujetará a los siguientes requisitos:
 
-I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien, ya sea en su denominación genérica o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien ya sea en su denominación genérica o distintiva o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, salvo cuando uno de éstos se destine al mercado de genéricos. En los casos de fusión de establecimientos se podrán mantener, en forma temporal, dos registros, y
 
 II.- En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 377.
 
@@ -3888,9 +4082,15 @@ IV.- Por incumplimiento grave a las disposiciones de esta Ley, sus reglamentos y
 
 V.- Por reiterada renuncia a acatar las órdenes que dicte la autoridad sanitaria, en los términos de esta Ley y demás disposiciones generales aplicables;
 
-VI.- Porque el producto objeto de la autorización no se ajuste o deje de reunir las especificaciones o requisitos que fijen esta Ley, las normas técnicas y demás disposiciones generales aplicables;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+VI.- Porque el producto objeto de la autorización no se ajuste o deje de reunir las especificaciones o requisitos que fijen esta Ley, las normas oficiales mexicanas y demás disposiciones generales aplicables;
 
 VII.- Cuando resulten falsos los datos o documentos proporcionados por el interesado, que hubieren servido de base a la autoridad sanitaria, para otorgar la autorización;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+VII bis.- Cuando resulten falsos los dictámenes proporcionados por terceros autorizados;
 
 VIII.- Cuando los productos ya no posean los atributos o características conforme a los cuales fueron autorizados o pierdan sus propiedades preventivas, terapéuticas o rehabilitatorias;
 
@@ -3954,11 +4154,11 @@ I.- Prenupciales;
 
 II.- De defunción;
 
-III.- De muerte fetal, y
+III.- De muerte fetal, y (sic)
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-IV.- De exportación a que se refiere el artículo 288 de esta ley;
+IV.- De exportación a que se refieren los artículos 287 y 288 de esta ley, y
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3972,11 +4172,27 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la autoridad sanitaria competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+###### ARTICULO 391 Bis.
+
+La Secretaría de Salud podrá expedir certificados, autorizaciones o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
+
+I.- El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de estos agentes;
+
+II.- Las autorizaciones de los terceros se publicarán en el Diario Oficial de la Federación y señalarán expresamente las materias para las que se otorgan;
+
+III.- Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control sanitario, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal sobre Metrología y Normalización;
+
+IV.- Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones sanitarias, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta ley, y
+
+V.- La Secretaría de Salud podrá reconocer centros de investigación y organizaciones nacionales e internacionales del área de la salud, que podrán fungir como terceros autorizados para los efectos de este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 392.
 
-Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
+Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas oficiales mexicanas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -4076,21 +4292,31 @@ I.- Se observarán las formalidades y requisitos exigidos para las visitas de ve
 
 II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
 
-III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra podrá quedar en poder de la misma persona a disposición de la Secretaría y tendrá el carácter de muestra testigo; la última será enviada por la Secretaría al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra quedará en poder de la misma persona a disposición de la autoridad sanitaria y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+IV.- El resultado del análisis oficial se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
 
 V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
 
 VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
-VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que la Secretaría analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regularización sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
-VIII.- El resultado del análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
+VII.- La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la autoridad sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+VIII.- El resultado de los análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos y, en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiera ejecutado, según corresponda.
 
 Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o revocar, en su caso, la autorización de que se trate.
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que este tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificado está obligado a enviar, en condiciones adecuadas de conservación, dentro del término de tres días hábiles siguientes a la toma de muestras, copia del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, a efecto de que tenga la oportunidad de realizar los análisis particulares y, en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
 
 En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
 
@@ -4206,11 +4432,11 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 413.
 
-La suspensión de mensajes de publicidad en materia de salud, procederá cuando éstos se difundan por cualquier medio de comunicación social, sin haber obtenido la autorización previa de la Secretaría de Salud o cuando esta determine, por causas supervenientes, que el contenido de los mensajes autorizados afectan o inducen a actos que pueden afectar la salud pública.
+La suspensión de mensajes publicitarios en materia de salud, procederá cuando éstos se difundan por cualquier medio de comunicación social contraviniendo lo dispuesto en esta ley y demás ordenamientos aplicables o cuando la Secretaría de Salud determine que el contenido de los mensajes afecta o induce a actos que pueden afectar la salud pública.
 
 En estos casos, los responsables de la publicidad procederán a suspender el mensaje, dentro de las veinticuatro horas siguientes a la notificación de la medida de seguridad, si se trata de emisiones de radio, cine o televisión, de publicaciones diarias o de anuncios en la vía pública. En caso de publicaciones periódicas, la suspensión surtirá efectos a partir del siguiente ejemplar en el que apareció el mensaje.
 
@@ -4266,37 +4492,37 @@ I.- Los daños que se hayan producido o puedan producirse en la salud de las per
 
 II.- La gravedad de la infracción;
 
-III.- Las condiciones socio-económicas del infractor, y
+III.- Las condiciones socio-económicas del infractor, y (sic)
 
 IV.- La calidad de reincidente del infractor.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+V.- El beneficio obtenido por el infractor como resultado de la infracción.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 419.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 107, 137, 138, 139, 161, 202, 334, 339, 350, 391, 391 y 392 de esta ley.
+Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 55, 56, 83, 103, 107, 137, 138, 139, 161, 200 bis, 202, 259, 260, 263, 282 bis-1, 334, 336, 339, 350, 391 y 392 de esta ley.
 
-La violación de las disposiciones contenidas en los artículos 103, 259, 260, 263 y 336 de esta ley, se sancionará con multa equivalente hasta de cien veces el salario mínimo general diario vigente en la zona económica de que se trate.
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 420.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 157, 205, 304, 306, 307, 308, 340, 342, 343, 344, 346, y 413 de esta ley.
+Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 127, 142, 147, 149, 153, 198, 200, 204, 233, 241, 258, 265, 267, 304, 306, 307, 308, 319, 329, 330, 340, 342, 343, 344, 345, 346, 373, 376 y 413 de esta ley.
 
-La violación de las disposiciones contenidas en los artículos 198, 200, 204, 233, 241, 258, 265, 267, 280, 319, 329, 330, 345, 373, 375, 376, 400 y 411 de esta ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el salarlo mínimo general diario vigente en la zona económica de que se trate.
-
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 421.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 146, 232, 338, 365 y 367 de esta ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 146, 193, 205, 210, 212, 213, 218, 220, 230, 232, 235, 237, 238, 240, 242, 243, 247, 248, 249, 251, 252, 254, 255, 256, 264, 266, 276, 281, 289, 293, 298, 318, 321, 322, 323, 324, 325, 332, 333, 338, 365, 367, 375, 400 y 411 de esta ley.
 
-La violación de las disposiciones contenidas en los artículos 67, 100, 101, 122, 125, 126, 193, 210, 212, 213, 218, 220, 230, 235, 237, 238, 240, 242, 243, 247, 248, 249, 251, 252, 254, 255, 256, 264, 266, 276, 281, 289, 293, 298, 318, 321, 322, 323, 324, 325, 332 y 333 de esta ley, se sancionará con multa equivalente de doscientas a dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 422.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 418 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 418 de esta ley.
 
 ###### ARTICULO 423.
 
@@ -4310,7 +4536,9 @@ La aplicación de las multas será sin perjuicio de que la autoridad sanitaria d
 
 Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-I.- Cuando los establecimientos a que se refiere la fracción I del artículo 373 de esta Ley carezcan de la correspondiente licencia sanitaria;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+I.- Cuando los establecimientos a que se refiere el artículo 373 de esta ley, carezcan de la correspondiente licencia sanitaria;
 
 II.- Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -4320,9 +4548,13 @@ IV.- Cuando por la peligrosidad de las actividades que se realicen o por la natu
 
 V.- Cuando en el establecimiento se vendan o suministren estupefacientes sin cumplir con los requisitos que señalen esta Ley y sus reglamentos;
 
-VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y
+VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y (sic)
 
-VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento violan las disposiciones sanitarias, constituyendo un peligro grave para la salud.
+VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
+
+VIII.- Por reincidencia en tercera ocasión.
 
 ###### ARTICULO 426.
 
@@ -4522,7 +4754,7 @@ Los interesados podrán hacer valer la prescripción, por vía de excepción. La
 
 ###### ARTICULO 455.
 
-Al que sin autorización de las autoridades sanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, aísle, cultive, transporte, almacene o en general realice actos con agentes patógenos o sus vectores, cuando éstos sean de alta peligrosidad para la salud de las personas, de acuerdo con las normas técnicas emitidas por la Secretaría de Salud, se le aplicará de uno a ocho años de prisión y multa por el equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
+Al que sin autorización de las autoridades sanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, aísle, cultive, transporte, almacene o en general realice actos con agentes patógenos o sus vectores, cuando éstos sean de alta peligrosidad para la salud de las personas, de acuerdo con las normas oficiales mexicanas emitidas por la Secretaría de Salud, se le aplicará de uno a ocho años de prisión y multa equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -4574,7 +4806,7 @@ I.- Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órgan
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-II.- Al que comercie con órganos, tejidos incluyendo la sangre, y sus componentes, cadáveres, fetos o restos de seres humanos.
+II.- Al que comercie con órganos, tejidos incluyendo la sangre, y sus componentes, cadáveres, fetos o restos de seres humanos;
 
 III.- Al responsable o empleado del establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permitan alguno de los actos a que se refieren las fracciones anteriores o no procuren impedirlos por los medios lícitos que tengan a su alcance.
 
@@ -4711,3 +4943,11 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 9 DE JULIO DE 1996.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 7 DE MAYO DE 1997.
+
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto.
+
+TERCERO. En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
