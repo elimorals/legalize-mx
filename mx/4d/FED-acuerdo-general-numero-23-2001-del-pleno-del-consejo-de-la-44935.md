@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-09-13"
+last_updated: "2001-10-01"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -181,7 +181,9 @@ IX.- NOVENO CIRCUITO:
 
 2.- Un tribunal unitario con sede en San Luis Potosí.
 
-3.- Cuatro juzgados de distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+
+3.- Cinco juzgados de distrito en el Estado de San Luis Potosí: cuatro con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
 
 X.- DECIMO CIRCUITO:
 
@@ -305,7 +307,9 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 2.- Un tribunal unitario con sede en Querétaro.
 
-3.- Dos juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 62/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+
+3.- Tres juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
 
 4.- Dos juzgados de distrito en el Estado de Hidalgo, con sede en Pachuca.
 
@@ -327,7 +331,9 @@ XXIV.- VIGESIMO CUARTO CIRCUITO:
 
 2.- Un tribunal unitario con sede en Tepic.
 
-3.- Dos juzgados de distrito en el Estado de Nayarit, con residencia en Tepic.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 61/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+
+3.- Tres juzgados de distrito en el Estado de Nayarit, con residencia en Tepic.
 
 XXV.- VIGESIMO QUINTO CIRCUITO:
 
@@ -401,7 +407,7 @@ XVII.- DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
 
 XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
 
 XIX.- DECIMONOVENO CIRCUITO:
 
@@ -503,9 +509,13 @@ El juzgado de distrito en el Estado de Coahuila, con residencia en Monclova, eje
 
 Los juzgados de distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+
 IX.- NOVENO CIRCUITO:
 
-Los juzgados de distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+Los juzgados de distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
+
+El juzgado de distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Ciudad Fernández, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, Rioverde, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo, y Xilitla.
 
 X.- DECIMO CIRCUITO:
 
@@ -720,3 +730,27 @@ ACUERDO 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL P
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 1 DE OCTUBRE DE 2001.
+
+ACUERDO 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO IX Y PUNTO CUARTO APARTADO IX.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 1 DE OCTUBRE DE 2001.
+
+ACUERDO 61/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XXIV.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 1 DE OCTUBRE DE 2001.
+
+ACUERDO 62/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XXII.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
