@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-h-7002"
 country: "mx"
 rank: "ley"
 publication_date: "1974-05-11"
-last_updated: "1974-05-11"
+last_updated: "1989-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de mayo de 1974.
 
@@ -541,7 +541,7 @@ IV.- Por laudo de la Junta o persona que, a solicitud de las partes y con la con
 
 ###### Artículo 66.
 
-Al resolverse que una declaración de huelga es legal, la Junta de Arbitraje, a petición del Ayuntamiento y tomando en cuenta las pruebas presentadas, fijará el número de los empleados que los huelguistas están obligados a mantener en el desempeño de sus labores a fin de que continúen prestándose los servicios cuya suspensión perjudique la estabilidad de las Dependencias, los intereses de la sociedad o la conservación de las oficinas o talleres o signifique un peligro para la salud pública o para los intereses del propio Ayuntamiento.
+Al resolverse que una declaración de huelga legal, la Junta de Arbitraje, a petición del Ayuntamiento y tomando en cuenta las pruebas presentadas, fijará el número de los empleados que los huelguistas están obligados a mantener en el desempeño de sus labores a fin de que continúen prestándose los servicios cuya suspensión perjudique la estabilidad de las Dependencias, los intereses de la sociedad o la conservación de las oficinas o talleres o signifique un peligro para la salud pública o para los intereses del propio Ayuntamiento.
 
 ## TITULO CUARTO. DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES
 
@@ -555,7 +555,7 @@ Los riesgos profesionales que sufran los empleados al servicio del Ayuntamiento,
 
 Los empleados al servicio del Ayuntamiento que sufran enfermedades no profesionales, tendrán derecho a que se les conceda licencia para dejar de concurrir a sus labores en los siguientes términos:
 
-I.- A los empleados que tengan menos de un año de servicio se les podrá conceder licencia por enfermedad no profesional, hasta por quince días con goce de sueldo íntegro; hasta quince días más con medio sueldo y hasta treinta más sin sueldo.
+I.- A los empleados que tengan menos de un año de servicio se les podrá conceder licencia por enfermedad no profesional; hasta por quince días con goce de sueldo íntegro; hasta quince días más con medio sueldo y hasta treinta más sin sueldo.
 
 II.- A los que tengan de uno a cinco años de servicios, hasta treinta días con goce de sueldo íntegro, hasta treinta más con medio sueldo y hasta sesenta más sin sueldo.
 
@@ -603,7 +603,7 @@ Los plazos para deducir las acciones a que se refieren las fracciones anteriores
 
 La prescripción no puede comenzar ni correr:
 
-l.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la Ley.
+I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la Ley.
 
 II.- Contra los empleados incorporados al servicio militar en tiempo de guerra y que por alguno de los conceptos contenidos en esta Ley se hayan hecho acreedores a indemnización.
 
@@ -788,3 +788,9 @@ Oaxaca de Juárez, a 29 de abril de 1974.- LIC. FERNANDO GOMEZ SANDOVAL.- EL SEC
 Y lo comunico a usted para su conocimiento y fines consiguientes.- SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 29 de abril de 1974.- EL SECRETARIO GENERAL DEL DESPACHO.- LIC. AGUSTIN MARQUEZ URIBE.- Rúbrica.
 
 Al C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ENERO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor a los diez días siguientes de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
