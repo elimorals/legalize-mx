@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1967-06-03"
+last_updated: "1968-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1968.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -257,17 +257,21 @@ Los Diputados gozan de una libertad absoluta para hablar; en consecuencia, son i
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+
 ###### Art. 55.
 
-La Legislatura tendrá cada año dos períodos de sesiones; el primero se abrirá el 16 de Septiembre con las solemnidades que establezca el Reglamento, y terminará el 15 de Diciembre, prorrogable por un mes; y el segundo comenzará el primero de Abril y terminará el último de Mayo, improrrogable. El primer período será dedicado preferentemente al examen y aprobación de los presupuestos y a los demás asuntos hacendarios.
+La Legislatura tendrá cada año dos períodos de sesiones ordinarias. El primero se abrirá el 16 de septiembre y terminará el 15 de diciembre y será prorrogable por un mes. El segundo comenzará el día 1o. de marzo y terminará el día último de abril siendo también prorrogable por un mes.
 
 ###### Art. 56.
 
 Tanto para la instalación del Congreso como para la apertura de sesiones se necesita la presencia de la mayoría de los Diputados. Cuando por cualquiera circunstancia el período de sesiones ordinarias no comenzare el 16 de Septiembre, el Congreso, al reunirse, podrá permanecer en ejercicio, según el estado de los negocios, todos los tres meses de sesiones ordinarias, o concluir éstas cuando lo crea conveniente.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+
 ###### Art. 57.
 
-A la apertura del primer período de sesiones ordinarias del Congreso asistirá el Gobernador y el Superior Tribunal de Justicia; el primero rendirá un informe en que manifieste la situación que guarde el Estado. El Presidente del Congreso contestará en términos generales.
+A la apertura del período de sesiones ordinarias que se inicie el 1o. de marzo asistirá el Gobernador y el Tribunal Superior de Justicia. El primero rendirá un informe en el que manifieste la situación que guarda el Estado. El Presidente del Congreso contestará en términos generales.
 
 ###### Art. 58.
 
@@ -307,7 +311,9 @@ VI.- Ordenar el establecimiento o supresión de Municipalidades, por el voto de 
 
 VII.- Examinar y aprobar los proyectos y arbitrios para obras de pública utilidad del Estado.
 
-VIII.- Crear los empleos, oficinas y plazas, aún inferiores, que sean requeridos por la administración en sus diversos ramos; asignar los sueldos de ellos y suprimirlos cesando su necesidad.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+
+VIII.- Crear, a instancia del Ejecutivo, empleos, oficinas y plazas que requiera la administración pública del Estado, asignando los sueldos de ellos, y suprimirlos, cuando cese su necesidad.
 
 IX.- Fijar anualmente, a propuesta del Gobernador, los gastos de la Administración Pública del Estado y decretar contribuciones para cubrirlos, determinando la duración de éstas y el modo de recaudarlas.
 
@@ -315,7 +321,7 @@ X.- Fijar anualmente, a propuesta de los respectivos Ayuntamientos, las contribu
 
 XI.- Dispensar Honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado.
 
-XII.- Conceder jubilaciones, conforme a la ley, a los empleados del Estado y Municipales, en los casos que determina el artículo 12 de esta Constitución.
+XII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
 
 XIII.- Revisar y aprobar en su caso, cada año y cuando lo juzgue conveniente, las cuentas de cobro e inversión de los caudales públicos del Estado y Municipales, previo el examen y glosa de la Tesorería y el Informe del Gobernador.
 
@@ -333,7 +339,9 @@ XVII.- Aceptar las renuncias del Gobernador y Diputados cuando se funden en una 
 
 XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar éstos en su caso, y pedir al Congreso de la Unión su aprobación.
 
-XIX.- Conceder indulto; remisión, conmutación o reducción de pena en los casos y con las condiciones que disponga la ley.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+
+XIX.- Conceder conmutación de pena y rehabilitación de derechos en los casos y con las condiciones que disponga la Ley
 
 XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior Tribunal de Justicia, que no sean las previstas en los arts. 76 fracción VIII y 105 de la Constitución Federal.
 
@@ -379,9 +387,9 @@ XXXVII.- Conocer de la nulidad de elecciones conforme a la ley.
 
 XXXVIII.- Conceder amnistía por delitos políticos, previo acuerdo de las dos terceras partes de los miembros de la Legislatura.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 1928)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
 
-XXXIX.- Legislar sobre franquicias a la Industria y otorgar concesiones que no impliquen exención o reducción de impuestos, a Empresas de Servicios Públicos.
+XXXIX.- Legislar sobre franquicias a la industria.
 
 XL.- Elegir la Diputación Permanente.
 
@@ -413,7 +421,9 @@ A la Diputación Permanente toca:
 
 I.- Vigilar el cumplimiento de la Constitución y dar informe al Congreso de las infracciones que haya notado.
 
-II.- Ejercer la facultad que señala la fracción XIX del Artículo 63; mas cuando la instancia sea sobre indulto de la pena de muerte, reunirá para este solo objeto a los Diputados Propietarios existentes dentro de cincuenta kilómetros de distancia de la Capital.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+
+II.- Ejercer la facultad que señala la fracción XIX del Artículo 63.
 
 .
 
@@ -427,9 +437,9 @@ V.- Manifestar su opinión por escrito al Gobernador, en los casos en que éste 
 
 VI.- Ejercer las facultades a que se refieren los artículos 52, 63 en sus fracciones IV, XV, XXI, XXXVI y XXXVII, 89, 90, 91, 97 y 98 de esta Constitución.
 
-(REFORMADA, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
 
-VII.- Nombrar interinamente al Tesorero General del Estado y aprobar los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, cuando la falta absoluta ocurra durante un receso del Congreso, en los términos previstos por los artículos 97 y 98.
+VII.- Nombrar interinamente al Tesorero General del Estado, a propuesta en terna del Poder Ejecutivo, y aprobar los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, cuando la falta absoluta ocurra durante un receso del Congreso, en los términos previstos por los Artículos 97 y 98.
 
 VIII.- Recibir los expedientes de elecciones de todos los mandatarios públicos del Estado y practicar, para la renovación del Congreso, lo que prescribe la Ley Electoral y el Reglamento interior del mismo.
 
@@ -549,9 +559,9 @@ I.- Proteger la seguridad de las personas, bienes y derechos de los individuos y
 
 II.- En caso de delito infraganti, y en los términos de la ley, decretar el arresto de cualquiera persona, poniéndola inmediatamente a disposición de la autoridad o Juez competente.
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 1952)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
 
-III.- Nombrar los Jefes de las Oficinas de su dependencia y a los empleados subalternos de las mismas, en los términos que establezca la Ley del Servicio Civil.
+III.- Nombrar y remover libremente a los Jefes de las Dependencias Generales del Ejecutivo, y a todos los funcionarios y empleados de las mismas, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución, la Ley del Servicio Civil del Estado, o en otras Leyes.
 
 IV.- Cuidar de que la Justicia se administre pronta y cumplidamente por los Tribunales del Estado y de que se ejecuten las sentencias, prestando a aquéllos el auxilio que necesiten para el mejor ejercicio de sus funciones. Esta inspección no lo autoriza a intervenir directa ni indirectamente en el examen de los juicios pendientes, ni disponer en manera alguna de las personas de los reos.
 
@@ -581,9 +591,7 @@ XV.- Visitar, dentro del período de su Gobierno, todos los pueblos del Estado p
 
 XVI.- Pasar al Procurador de Justicia los asuntos que deban ventilarse ante los Tribunales para que ejercite las atribuciones de su ministerio.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 1965)</small>
-
-XVII.- Nombrar y remover libremente al C. Director General del Registro Público de la Propiedad del Estado y a los Registradores Públicos de la Propiedad.
+XVII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
 
 XVIII.- Suspender provisionalmente hasta por quince días a los Presidentes Municipales que abusen de sus facultades, pudiendo ocurrir éstos a la Legislatura o Diputación Permanente a reclamar sus derechos. El Gobernador dará cuentas a la Legislatura o Diputación Permanente después de que use de esta facultad, acompañando los justificantes respectivos.
 
@@ -593,7 +601,9 @@ XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
 XX.- Nombrar a los Magistrados del Tribunal Superior de Justicia, sometiendo sus nombramientos a la aprobación del Congreso, así como conceder las licencias y aceptar las renuncias de los mismos funcionarios, en los términos de los artículos 97 y 98.
 
-XXI.- Presentar a la Legislatura, al principio de su primer período de sesiones ordinarias, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+
+XXI.- Presentar a la Legislatura, durante su primer período de sesiones ordinarias, el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
 XXII.- Remitir al Congreso, con el informe respectivo, los proyectos de presupuestos de ingresos que le envíen con ese objeto los Ayuntamientos, de acuerdo con el art. 125.
 
@@ -606,6 +616,14 @@ XXIV.- Proponer terna al Congreso para Tesorero General del Estado y removerlo l
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 1949)</small>
 
 XXV.- Nombrar directamente a los Oficiales del Registro Civil en el Municipio de Monterrey, y mediante terna que al efecto presente el respectivo Ayuntamiento, a aquellos que correspondan a Municipios en que exista más de una Oficialía. Exceptuando el Municipio de Monterrey, en los demás será precisamente Oficial del Registro Civil el Alcalde Primero del Municipio de que se trate ya sea como Oficial Unico, o como Oficial Primero concurriendo con otro u otros de los designados mediante terna por el Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1968)</small>
+
+XXVI.- Conceder indulto en los términos de la Ley respectiva y resolver sobre reducción de penas y retención, con arreglo a las Leyes.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1968)</small>
+
+XXVII Ejercer las demás atribuciones que le confieren esta Constitución y las Leyes.
 
 ###### Art. 86.
 
@@ -787,9 +805,11 @@ de los Funcionarios Públicos.
 
 Todos los Funcionarios Públicos del Estado y Municipales son responsables, por los delitos y faltas del órden común en que incurran en el desempeño de sus respectivas funciones, en los términos que lo prevengan las leyes.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+
 ###### Art. 106.
 
-Cuando se trate de los Diputados, el Gobernador, los Magistrados, el Procurador General, el Secretario de Gobierno y el Tesorero del Estado, si el delito fuere común, el Congreso erigido en Gran Jurado, declarará por no menos de dos tercias de los miembros que lo forman, si se tratare del Gobernador, y por mayoría absoluta de éstos en los demás casos, y previa audiencia del acusado, si ha lugar o no a formación de causa. En caso negativo no habrá lugar a procedimiento ulterior; en el afirmativo, el acusado queda por ese solo hecho separado de su cargo y sujeto a la acción de los tribunales comunes.
+Cuando se trate de los Diputados, el Gobernador, los Magistrados, el Procurador General de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará por no menos de dos terceras partes de los miembros que lo forman, si se tratare del Gobernador y por mayoría absoluta de éstos en los demás casos, y previa audiencia del acusado, si hay lugar o no a formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior. En el afirmativo el acusado queda, por ese solo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 ###### Art. 107.
 
@@ -945,7 +965,7 @@ No podrá recaudar ninguna cantidad por concepto de impuesto o contribución que
 
 No se hará ningún Egreso sin órden escrita del Gobernador y que esté previamente autorizado por Ley o Decreto del Congreso.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
 
 ## TITULO X.
 
@@ -953,9 +973,7 @@ Prevenciones Generales.
 
 ###### Art. 136.
 
-El Tesorero enviará al Ejecutivo en la segunda quincena de agosto de cada año, una memoria circunstanciada del Estado que guarda la Hacienda Pública.
-
-Al principio del año Fiscal rendirá al Ejecutivo, cuentas generales del año anterior y parciales cada vez que éste las requiera.
+El Tesorero General del Estado enviará al Ejecutivo, en la segunda quincena de Enero de cada año, una memoria circunstanciada del estado que guarda la Hacienda Pública al final del ejercicio fiscal anterior.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
 
@@ -972,6 +990,10 @@ El año fiscal correrá del primero de enero al 31 de diciembre.
 ###### Art. 139.
 
 Una ley determinará la organización y funcionamiento de todas las Oficinas de Hacienda en el Estado.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+
+ART. 140.- Ninguna cuenta, ya sea del Estado o de los Municipios dejará de concluirse y glosarse anualmente.
 
 ###### Art. 140.
 
@@ -1175,9 +1197,11 @@ Todo hombre tiene derecho de poseer y portar armas para su seguridad y legítima
 
 Todos tienen derecho para entrar en el Estado, salir de él, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvo-conducto u otro requisito semejante. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial en los casos de responsabilidad criminal o civil, y a las de la administrativa por lo que toca a los reglamentos de sanidad.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
+
 ###### Art. 12.
 
-No hay ni se reconocen en el Estado títulos de nobleza, ni prerrogativas ni honores hereditarios. Sólo el Pueblo legítimamente representado podrá otorgar jubilaciones, en los términos de la ley, a aquellos de sus servidores que hayan prestado importantes y largos servicios al Estado.
+No hay ni se reconocen en el Estado títulos de nobleza, prerrogativas u honores hereditarios.
 
 ###### Art. 13.
 
@@ -1408,3 +1432,11 @@ TERCERO:- Las prevenciones contenidas en los artículos 63 Fracción XXII, 66 Fr
 P.O. 3 DE JUNIO DE 1967.
 
 UNICO:- Esta adición surtirá sus efectos el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE JUNIO DE 1968.
+
+PRIMERO: Salvo lo dispuesto en el artículo segundo siguiente, estas reformas empezarán a tener vigencia el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La fracción XIX del Artículo 63; la fracción II del Artículo 66 y la fracción XXVI del Artículo 85 reformadas por este decreto entrarán en vigor hasta en tanto se dicte la Ley Reglamentaria de la nueva fracción XXVI del Artículo 85, y simultáneamente con la promulgación y vigencia de dicha ley; entre tanto subsistirá en vigor el texto actual de las fracciones objeto de reforma.
+
+TERCERO: El primer informe correspondiente al presente sexenio, se rendirá por el Ejecutivo en la sesión del Congreso del 16 de septiembre próximo; y el 1o. de marzo del siguiente año, al iniciarse el período de sesiones del Congreso, se rendirá el informe a que se refiere el artículo 57 reformado.
