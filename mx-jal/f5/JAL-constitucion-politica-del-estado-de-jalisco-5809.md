@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1983-07-09"
+last_updated: "1984-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -73,9 +73,9 @@ IV. Ser votado en toda elección popular y desempeñar cualquier empleo del Esta
 
 Para los efectos de las fracciones III y IV, el hombre y la mujer gozarán de igualdad política.
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 1982)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1984)</small>
 
-V. En los casos de infracciones a los reglamentos Gubernativos y de Policía, ser sancionado solo con multa o arresto, que no podrá exceder de un día; pero, si el infractor no pagare la multa que se le hubiere impuesto se permutará ésta por arresto hasta por 48 horas. La Ley regulará todo lo relativo a la sanción de las faltas a que alude esta fracción. En tratándose de personas de escasos recursos, dependientes económicos, jornaleros u obreros, en ningún caso podrán ser castigados con multa mayor del importe de un día del salario mínimo general aplicable en la región.
+V. En los casos de infracciones a los Reglamentos Gubernativos y de Policía, será sancionado con multa o arresto, que no podrá exceder de 36 horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por arresto hasta por treinta y seis horas. La Ley, los Reglamentos o Bandos de Policía y Buen Gobierno, regularán todo lo relativo a la sanción de las faltas a que alude esta fracción. En tratándose de personas de escasos recursos, dependientes económicos, jornaleros y obreros, en ningún caso, podrán ser castigados con multa mayor del importe de un día de salario mínimo general aplicable a la región. La misma limitación existirá para sancionar a los trabajadores no asalariados.
 
 ###### Art. 5º.
 
@@ -1054,3 +1054,7 @@ Primero.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los t�
 Segundo.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
 
 Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 1984.
+
+Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el Estado de Jalisco, incluyendo la declaratoria a que se refiere el Art. 66 de la Constitución Política del estado de Jalisco.
