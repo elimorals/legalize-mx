@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2003-06-27"
+last_updated: "2004-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -1519,31 +1519,31 @@ Por dictamen técnico sobre avance de obra de urbanización, venta provisional d
 
 Por el dictamen técnico de la autorización definitiva y recepción de fraccionamientos por el H. Ayuntamiento, se pagará:
 
-(VEASE ARCHIVO ANEXO)
+(VEASE TABLA ANEXA)
 
 ###### Artículo 115.
 
 Por el dictamen técnico para la renovación de fraccionamientos, se pagará:
 
-(VEASE ARCHIVO ANEXO)
+(VEASE TABLA ANEXA)
 
 ###### Artículo 116.
 
 Por la relotificación de fraccionamientos, se pagará:
 
-(VEASE ARCHIVO ANEXO)
+(VEASE TABLA ANEXA)
 
 ###### Artículo 117.
 
 Por los ajustes de medidas de los fraccionamientos, se pagará:
 
-(VEASE ARCHIVO ANEXO)
+(VEASE TABLA ANEXA)
 
 ###### Artículo 118.
 
 Por otros conceptos con respecto a fraccionamientos, se pagará:
 
-(VEASE ARCHIVO ANEXO)
+(VEASE TABLA ANEXA)
 
 Los servicios de supervisión de fraccionamientos causará el 1.5% del costo de las obras de urbanización. Tratándose de fraccionamientos de interés social o popular se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
@@ -1551,7 +1551,7 @@ Los servicios de supervisión de fraccionamientos causará el 1.5% del costo de 
 
 Por los siguientes conceptos con relación a condominios, se pagará:
 
-(VEASE ARCHIVO ANEXO)
+(VEASE TABLA ANEXA)
 
 Los servicios de supervisión de condominios causarán el 1.5% del costo de las obras de urbanización. Tratándose de condominios de interés social o popular se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
@@ -1565,45 +1565,7 @@ I. Por la expedición de copias:
 
 II. Por la expedición de copias heliográficas y/o bond de planos simples con información de cabeceras municipales se cobrará a razón de lo indicado en la tabla siguiente:
 
-Municipio VSMGZ
-
-Amealco 3
-
-Pinal de Amoles 3
-
-Arroyo Seco 3
-
-Cadereyta 5
-
-Colón 3
-
-Corregidora 10
-
-Ezequiel Montes 5
-
-Huimilpan 3
-
-Jalpan 7
-
-Landa de Matamoros 3
-
-El Marqués 5
-
-Pedro Escobedo 3
-
-Peñamiller 3
-
-Querétaro 10
-
-San Joaquín 3
-
-San Juan del Río 7
-
-Tequisquiapan 7
-
-Tolimán 3
-
-Del Estado 10
+(VEASE TABLA ANEXA)
 
 En material especial utilizado en los servicios mencionados en el presente artículo, se cobrará de acuerdo a la cotización en el mercado, más el 25%.
 
@@ -2139,6 +2101,66 @@ QUINTO.- Cuando el Estado decida no continuar adherido al Sistema Nacional de Co
 
 SEXTO.- Para los efectos de lo establecido en el artículo 9, en tanto se expida la Ley de Bienes de Estado de Querétaro y sus Municipios, se mantendrán vigentes las disposiciones de la Ley de Hacienda de los Municipios del Estado en lo tocante a la clasificación y registro de los bienes del Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2004)</small>
+
+SEPTIMO.- Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2004, serán las siguientes:
+
+I.- Los servicios prestados por el Registro Público de la Propiedad y del Comercio a que se refieren los artículos 57 al 79 de esta Ley, a favor del primer adquirente de vivienda de interés social o popular, causarán un 50% del derecho establecido en esas disposiciones.
+
+II.- Los servicios prestados por el Registro Público de la Propiedad, relativos a la inscripción de compraventa de inmuebles y constitución de hipoteca a favor del primer adquirente de vivienda de interés social o popular, causarán un derecho a razón de cuatro VSMGZ, por ambos actos registrables, en lugar de la tasa establecida en los artículos 57 al 59 de esta Ley.
+
+III.- La inscripción en el Registro Público de la Propiedad y del Comercio, de la compraventa de inmuebles destinados a la construcción de desarrollos habitacionales de tipo interés social o popular, se causará y pagará el 25 % de los derechos establecidos en los artículos 57 al 59 de esta Ley.
+
+IV.- La inscripción en el Registro Público de la Propiedad y del Comercio, de la construcción de régimen de propiedad en condominio de viviendas de interés social o popular, se causará y pagará el 50 % de los derechos previstos en el artículo 60 de esta Ley.
+
+V.- La inscripción en el Registro Público de la Propiedad y del Comercio, de los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de tipo de interés social o popular, se causará y pagará el 25 % de los derechos establecidos en el artículo 63 de esta Ley.
+
+VI.- La inscripción en el Registro Público de la Propiedad y del Comercio del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos destinados a desarrollos habitacionales de tipo de interés social o popular, se causará y pagará el 50 % de los derechos previstos en el artículo 64 de esta Ley.
+
+VII.- La inscripción en el Registro Público de la Propiedad y del Comercio del contrato de hipoteca relacionado con la compraventa del inmueble destinado a la construcción de desarrollos habitacionales de tipo interés social o popular se causará y pagará el 25 % de los derechos establecidos en el artículo 68 de esta Ley.
+
+VIII.- Por la reestructuración de créditos señalados en el artículo 68 de esta Ley no causará derechos por la inscripción en el Registro Público de la Propiedad y del Comercio, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial.
+
+IX.-. Las empresas de nueva creación que inicien la construcción o adquieran instalaciones en operación y propicien con ello el mantenimiento o generación de empleos, no causarán derechos por la inscripción en el Registro Público de la Propiedad y de Comercio, del testimonio en el que conste la adquisición del inmueble de que se trate.
+
+X.- Las empresas que se encuentren establecidas en el Estado, que adquieran inmuebles como parte de su patrimonio y propicien con ello el mantenimiento o generación de empleos, causarán el 50 % de los derechos que correspondan por la inscripción en el Registro Público de la Propiedad y del Comercio del testimonio en el que consta la adquisición del inmueble de que se trate.
+
+XI.- Las empresas que adquieran créditos, hipotequen bienes o fusionen predios con el objeto de generar empleos, causarán y pagarán el 50 % de los derechos que se originen por la inscripción en el Registro Público de la Propiedad y del Comercio, de la escritura pública en que conste la operación de que se trate.
+
+XII.- Por los aumentos de capital de sociedades mercantiles señalados en el artículo 73 de esta Ley, causarán por concepto de derechos de registro en el Registro Público de la Propiedad y del Comercio, el 50% de los derechos establecidos en esa disposición como cuota fija.
+
+XIII.- Para los efectos del artículo 77 de esta Ley, la expedición de certificados de no propiedad para adquisición de viviendas de interés social o popular causarán el 50 % de los derechos establecidos en esa disposición.
+
+XIV.- Para los efectos de la fracciones III y IV del artículo 95 de esta Ley, los derechos por la expedición de constancias relativas a vivienda de interés social o popular que expida la Dirección de Catastro, causarán el derecho equivalente a una VSMGZ.
+
+XV.- Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos en el artículo 103 de esta Ley, cuando la solicitud no implique cambio de uso de suelo respecto del Plan de Desarrollo Urbano vigente, causarán y pagarán 6 VSMGZ, en lugar de la tasa establecida por dicho numeral.
+
+XVI.- Para los efectos del artículo 104 de esta Ley, la validación de licencias para obras de construcción, tratándose de zonas, colonias o fraccionamientos populares que se consideren como tales en los planos reguladores, causarán y pagarán el 50 % de los derechos establecidos en esa disposición.
+
+XVII.- Tratándose de desarrollos habitacionales de tipo interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Publicas previstos por el artículo 104 de esta Ley, causarán y pagarán 2 VSMGZ por cada vivienda, en lugar de la tasa establecida en dicho artículo.
+
+XVIII.- Tratándose de desarrollos habitacionales de tipo interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos por el artículo 105 de esta Ley, causarán y pagarán 0.90 VSMGZ por cada vivienda, en lugar de la tasa establecida en dicho artículo.
+
+XIX.- Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos en el artículo 111 de esta Ley, causarán y pagarán 25 VSMGZ, por cada prototipo de vivienda social o popular con que cuente el desarrollo, sin importar el número total de ellas en el mismo, en lugar de la tasa establecida en dicha disposición.
+
+XX.- Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Publicas previsto en los artículos 109, 112, 113 y 119 de esta Ley, causarán y pagarán 50% de los derechos establecidos en dichas disposiciones.
+
+XXI.- Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos por el artículo 114 de esta Ley, causarán y pagarán el 25 % del derecho establecido en esa disposición.
+
+XXII.- Durante los meses de mayo, junio y julio del ejercicio fiscal del año 2004, los servicios prestados por las autoridades de la Dirección de Tránsito y Transporte del Estado establecidos en el artículo 129 fracción I de esta Ley, causarán y pagarán el 50% de los derechos señalados en el mismo.
+
+XXIII.- Cuando la revisión mecánica a que se refiere el Artículo 131 se lleve a cabo en el periodo ordinario que al efecto establezca la Secretaría de Gobierno, se causará un 50% de los derechos correspondientes.
+
+XXIV.- Para los efectos de la presente Ley, tratándose de operaciones celebradas respecto de bienes inmuebles, el destino de los mismos deberá especificarse en la escritura pública correspondiente. En caso contrario, no les resultarán aplicables las disposiciones de vigencia anual para el ejercicio fiscal 2004 de la Ley de Hacienda del Estado de Querétaro.
+
+XXV.- Para el ejercicio fiscal del año 2004, los contribuyentes que realicen el pago de los derechos por refrendo de licencias para Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero y Febrero 28%
+
+Marzo y Abril 25%
+
 DISPOSICIONES DE VIGENCIA ANUAL
 
 DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
@@ -2296,3 +2318,9 @@ La presente Ley entrará en vigora (sic) partir del 1 de julio del 2003 y una ve
 ###### ARTICULO SEGUNDO.
 
 Aquellos poseedores de licencias para el almacenaje, venta, porteo y consumo de bebidas alcohólicas que haya realizado el pago de los derechos de refrendo correspondientes al ejercicio fiscal 2003 en una fecha anterior a la de la vigencia de esta Ley, podrán solicitar por escrito durante los meses de julio y agosto a la Secretaria de Planeación y Finanzas el reintegro del 23% de la cantidad pagada. Dicha Secretaría determinará las normas y procedimiento para tal efecto.
+
+P.O. 6 DE ENERO DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
