@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-superior-gubernamental-del-estado-de-33365"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-11"
-last_updated: "2003-08-11"
+last_updated: "2004-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE AUDITORIA SUPERIOR GUBERNAMENTAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 11 de agosto de 2003.
 
@@ -119,7 +119,9 @@ XVII. Programas: Los contenidos en los programas operativos anuales y que incluy
 
 XVIII. Servidores públicos: Los que se consideran como tales en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Morelos; en la Ley del Servicio Civil del Estado de Morelos y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos;
 
-XIX. Informe de resultados: Documento que presenta el Auditor Superior Gubernamental a la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso, conteniendo los resultados de fiscalización de las entidades; y
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+
+XIX. Informe de resultados: Documento que presenta el Auditor Superior Gubernamental a la Mesa Directiva del Congreso del Estado, conteniendo los resultados de fiscalización de las entidades; y
 
 XX. Consejo Ciudadano de Fiscalización: Órgano de consulta y vigilancia de las funciones a cargo de los servidores públicos de la Auditoría Superior Gubernamental.
 
@@ -167,7 +169,9 @@ g) El avance de la gestión financiera.
 
 El titular del Poder Ejecutivo del Estado deberá presentar la cuenta pública a la Legislatura por trimestres, a más tardar el último día hábil del mes siguiente.
 
-Los Gobiernos Municipales presentarán a la Auditoría Superior Gubernamental su cuenta pública mensual dentro de los primeros 20 días naturales del mes siguiente al que corresponda rendir dicho informe. La cuenta pública anual la presentarán conforme lo dispuesto por la Constitución del Estado.
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Los Gobiernos Municipales presentarán a la Legislatura su cuenta pública mensual dentro de los primeros 20 días naturales del mes siguiente al que corresponda rendir dicho informe. Una vez recibida la cuenta pública mensual por la Legislatura, éste la remitirá a la Auditoría Superior Gubernamental para su revisión y fiscalización superior. La cuenta pública anual la presentarán conforme a lo dispuesto por la Constitución del Estado.
 
 Sólo se podrá ampliar por una sola vez el plazo de presentación de la cuenta pública, cuando medie solicitud del Ejecutivo del Estado o del Presidente Municipal o de los titulares de las demás entidades fiscalizadas suficientemente justificada a juicio de la legislatura, presentada por los (sic) menos con diez días hábiles de anticipación a la conclusión del plazo, debiendo comparecer en todo caso el representante que acrediten, a informar de las razones que lo motiven. En ningún caso la prórroga excederá de un mes, y en caso de no entregar la cuenta pública en este plazo, se llevará a cabo el procedimiento de destitución de los servidores público responsables.
 
@@ -213,11 +217,11 @@ VIII. Las responsabilidades a que haya lugar; y
 
 IX. La imposición de las sanciones que correspondan en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2004.)</small>
+
 ###### Artículo 13.
 
-Las cuentas públicas anuales y trimestrales, serán presentadas al Congreso del Estado de Morelos, quien las turnará a la Auditoría Superior Gubernamental para su revisión y fiscalización superior.
-
-La cuentas públicas mensuales serán remitidas por los ayuntamientos directamente a la Auditoría Superior Gubernamental.
+Las cuentas públicas anuales y trimestrales, serán presentadas al Congreso del Estado de Morelos, quien las turnará, a más tardar dentro de los cinco días hábiles posteriores a su recepción, a la Auditoría Superior Gubernamental para su revisión y fiscalización superior.
 
 ###### Artículo 14.
 
@@ -629,9 +633,101 @@ IV. Ordenar la reposición del procedimiento.
 
 Los servidores públicos en todo momento durante el procedimiento de responsabilidades resarcitorias a que se refiere el capítulo anterior de esta Ley, o bien, para la interposición del recurso de revocación respectivo, podrán consultar los expedientes administrativos en los que consten los hechos que se les imputen y obtener a su costa, copias certificadas de los documentos correspondientes.
 
-### CAPÍTULO V. DE LA PRESCRIPCIÓN DE RESPONSABILIDADES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE ENERO DE 2004)</small>
 
-### CAPÍTULO ÚNICO. DE LA COMISIÓN DE HACIENDA, PRESUPUESTO Y CUENTA PÚBLICA
+### CAPÍTULO IV BIS. DEL RECURSO DE RECONSIDERACIÓN
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 A.- La resolución del recurso de revocación que emita la Auditoría Superior Gubernamental conforme al Capítulo IV del Título Cuarto de esta Ley, podrá impugnarse por el servidor público o por los particulares, personas jurídicas individuales o colectivas, ante la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado mediante el recurso de reconsideración. El recurso de reconsideración se interpondrá dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 B.- La tramitación del recurso se sujetará a las disposiciones siguientes:
+
+I. Deberá ser presentado por escrito, ante la propia Auditoría Superior Gubernamental;
+
+II. En el escrito se deberán expresar los agravios que a juicio del servidor público o del particular, persona jurídica individual o colectiva, le cause la sanción o resolución impugnada, acompañando copia de ésta y constancia de la notificación de la misma;
+
+III. Dentro del término de tres días hábiles posteriores a la presentación del recurso, la Auditoría Superior Gubernamental deberá remitir el expediente respectivo a la Comisión, acompañándolo del informe justificado;
+
+IV. La Comisión acordará sobre la admisión del recurso; y
+
+V. La misma Comisión emitirá resolución dentro de los treinta días naturales siguientes, notificándola al interesado.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 C.- El interesado, en cualquier momento, podrá solicitar la suspensión del acto o resolución recurridos, hasta antes que se resuelva el recurso, siempre que cumpla con los siguientes requisitos:
+
+I. Que lo solicite por escrito;
+
+II. Que acredite la interposición del recurso de revocación;
+
+III. Que no se cause perjuicio al interés social ni se contravengan disposiciones de orden público o se deje sin materia el procedimiento, y
+
+IV. Que se garantice debidamente el interés fiscal en términos del Código Fiscal para el Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 D.- La suspensión sólo tendrá como efecto que las cosas se mantengan en el estado en que se encuentran en tanto se pronuncia la resolución al recurso, y podrá revocarse si se modifican las condiciones bajo las cuales se otorgó.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 E.- Se desechará por improcedente el recurso, cuando se interponga:
+
+I. Contra actos o resoluciones que no sean definitivos, en los términos señalados en el Capítulo IV de esta ley;
+
+II. Contra actos que sean materia de otro recurso que se encuentre pendiente de resolver y que haya sido promovido por el mismo recurrente por el propio acto impugnado;
+
+III. Contra actos o resoluciones que hayan sido materia de resolución en otro recurso, en términos de la fracción anterior;
+
+IV. Contra actos que no afecten los intereses legítimos del promovente;
+
+V. Contra actos consumados de modo irreparable;
+
+VI. Cuando el recurso sea interpuesto fuera del término previsto por esta Ley, o
+
+VII. Cuando se esté tramitando ante los tribunales algún recurso o medio de defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo;
+
+VIII. En los demás casos en que la improcedencia resulte de alguna disposición de la ley.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 F.- Será sobreseído el recurso cuando:
+
+I. El promovente se desista expresamente;
+
+II. El interesado fallezca durante el procedimiento, si el acto o resolución impugnado sólo afectan a su persona;
+
+III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+
+IV. Hayan cesado los efectos del acto impugnado;
+
+V. Falta el objeto o materia del acto, o
+
+VI. No se probare la existencia del acto impugnado.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 G.- La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios y las pruebas hechos valer por el recurrente, teniendo la autoridad competente la facultad de invocar hechos notorios.
+
+La Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado podrá suplir la deficiencia de la queja de los recurrentes.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+Artículo 65 H.- La Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado encargada de resolver el recurso, podrá:
+
+I. Modificar la resolución o sanción impugnada;
+
+II. Confirmar las sanciones
+
+III. Revocar la resolución o sanción recurridos;
+
+IV. Ordenar la reposición del procedimiento;
+
+V. Ordenar la suspensión de la ejecución de la resolución recurrida, hasta en tanto se resuelva el recurso interpuesto.
+
+### CAPÍTULO V. DE LA PRESCRIPCIÓN DE RESPONSABILIDADES
 
 ###### Artículo 66.
 
@@ -651,7 +747,7 @@ Las responsabilidades de carácter civil y penal que resulten por actos u omisio
 
 ## TÍTULO QUINTO. RELACIONES CON EL CONGRESO DEL ESTADO
 
-### CAPÍTULO I. INTEGRACIÓN Y ORGANIZACIÓN
+### CAPÍTULO ÚNICO. DE LA COMISIÓN DE HACIENDA, PRESUPUESTO Y CUENTA PÚBLICA
 
 ###### Artículo 69.
 
@@ -675,11 +771,17 @@ VI. Presentar al Congreso del Estado la propuesta de los candidatos a ocupar el 
 
 VII. Ordenar a la Unidad de Evaluación y Control, la práctica de auditorías a la Auditoría Superior Gubernamental:
 
-VIII. Las demás que establezca esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+
+VIII.- Conocer y resolver los recursos de reconsideración que se interpongan; y
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
+
+IX.- Las demás que establezca esta ley y demás disposiciones aplicables.
 
 ## TÍTULO SEXTO. ORGANIZACIÓN DE LA AUDITORÍA SUPERIOR GUBERNAMENTAL
 
-### CAPÍTULO II. ATRIBUCIONES DEL AUDITOR SUPERIOR
+### CAPÍTULO I. INTEGRACIÓN Y ORGANIZACIÓN
 
 ###### Artículo 71.
 
@@ -699,15 +801,21 @@ II. Concluido el plazo anterior y recibidas las solicitudes con los requisitos y
 
 III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los cinco días siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna;
 
+> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2004)</small>
+
+Para la evaluación la Comisión deberá considerar las solicitudes de los aspirantes que tengan mayor experiencia y grado académico.
+
 IV. Conformada la terna, en un plazo que no deberá exceder de tres días, la Comisión formulará su dictamen, a fin de proponer a la Asamblea del Congreso los tres candidatos, para que ésta proceda a la designación del Auditor Superior Gubernamental conforme a lo estipulado en el artículo 76 de esta Ley, y
 
 V. la persona designada para ocupar el cargo, protestará ante el Pleno del Congreso del Estado.
 
-###### Artículo 74.
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2004)</small>
 
-En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Auditor Superior Gubernamental, haya obtenido la votación de las dos terceras partes de los diputados del Congreso del Estado, la Comisión elaborará una nueva terna en la que incluirá nuevamente al candidato que mayor número de votos haya obtenido en la votación. En caso de empate al elaborar la nueva terna se incluirán a los dos que hayan empatado y a un nuevo candidato.
+###### ARTÍCULO 74.
 
-Esta nueva terna se volverá a someter al Pleno para que sea votada en los términos del artículo 73 de esta Ley.
+En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Auditor Superior Gubernamental, haya obtenido la votación que para su designación exige la Constitución Política del Estado de Morelos, la Comisión iniciará un nuevo procedimiento de selección en términos de lo dispuesto en el artículo 73 de esta Ley.
+
+Ningún candidato propuesto en el dictamen rechazado por el Pleno del Congreso podrá participar en el subsecuente proceso de selección.
 
 ###### Artículo 75.
 
@@ -721,21 +829,31 @@ Para ser Auditor Superior Gubernamental, se deben cumplir los requisitos siguien
 
 I. Ser ciudadano morelense por nacimiento o por residencia, debiendo en este último caso, tener un mínimo de diez años de residencia en el Estado al día de su designación y estar en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener por lo menos treinta y cinco años de edad el día de su designación;
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
 
-III. Contar con título y cédula profesional de nivel de licenciatura y experiencia en el área de fiscalización y auditoría pública.
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;
 
-IV. Contar al momento de su designación con una experiencia de, al menos dos años en el control, manejo o fiscalización de recursos públicos;
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+
+III. Contar, cuando menos, con título y cédula profesional de nivel licenciatura en las carreras de Contaduría Pública, Derecho, Economía o Administración;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+
+IV. Contar al momento de su designación, con una experiencia comprobada de cinco años, en el control, manejo y fiscalización de recursos públicos;
 
 V. Tener buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-VI. No haber sido secretario de despacho, Procurador General de Justicia del Estado, titular de dependencias o entidades del Poder Ejecutivo, ni dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año anterior a la propia designación, ni haber formado parte de los órganos electorales con derecho a voto, durante dicho lapso;
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
 
-VII. No haber sido Presidente Municipal, Síndico, Regidor, Tesorero, ni Contralor de Ayuntamiento durante los tres años previos al de su designación; y
+VI. No haber sido secretario de despacho, Procurador General de Justicia del Estado, Titular de Dependencias o entidades del Poder Ejecutivo, ni dirigente de algún partido político, ni haber formado parte de los órganos electorales con derecho a voto, ni haber sido Tesorero, ni Contralor Municipal, durante los tres años previos al de su designación;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+
+VII. No haber ejercido cargo de representación popular ya sea federal, estatal o municipal, durante los tres años previos al de su designación; y
 
 VIII. No ser ministro de culto religioso alguno.
 
-### CAPÍTULO III. DEL SERVICIO CIVIL DE CARRERA
+### CAPÍTULO II. ATRIBUCIONES DEL AUDITOR SUPERIOR
 
 ###### Artículo 77.
 
@@ -927,7 +1045,7 @@ Las relaciones laborales entre el personal de la Auditoría Superior Gubernament
 
 Todos los trabajadores de la Auditoría Superior Gubernamental están sujetos a la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
 
-### CAPÍTULO I. DE LA UNIDAD DE EVALUACIÓN Y CONTROL
+### CAPÍTULO III. DEL SERVICIO CIVIL DE CARRERA
 
 ###### Artículo 92.
 
@@ -937,9 +1055,11 @@ El ingreso del personal a la Auditoría Superior Gubernamental estará regulado 
 
 El estatuto fijará los procedimientos para garantizar el ascenso del personal.
 
-## TÍTULO SEXTO (SIC). DE LA VIGILANCIA DE LA AUDITORÍA SUPERIOR GUBERNAMENTAL
+> <small>(REFORMADA SU NUMERACION, P.O. 7 DE ENERO DE 2004)</small>
 
-### CAPÍTULO II. DEL CONSEJO CIUDADANO CONSULTIVO
+## TÍTULO SÉPTIMO. DE LA VIGILANCIA DE LA AUDITORÍA SUPERIOR GUBERNAMENTAL
+
+### CAPÍTULO I. DE LA UNIDAD DE EVALUACIÓN Y CONTROL
 
 ###### Artículo 94.
 
@@ -977,9 +1097,13 @@ Para el ejercicio de las atribuciones que tiene conferidas la Unidad de Evaluaci
 
 El personal de la Unidad de Evaluación y Control dependerá jerárquica y presupuestalmente del Congreso del Estado.
 
+### CAPÍTULO II. DEL CONSEJO CIUDADANO CONSULTIVO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2004)</small>
+
 ###### Artículo 98.
 
-Se crea con carácter honorífico un Consejo Ciudadano Consultivo como órgano de consulta de la Auditoría Superior Gubernamental, el cual estará formado por 4 miembros:
+Se crea con carácter honorífico un Consejo Ciudadano Consultivo como órgano de consulta de la Auditoría Superior Gubernamental, el cual estará conformado por cinco miembros.
 
 a) Un representante de los colegios o agrupaciones de Contadores Públicos;
 
@@ -1009,7 +1133,9 @@ El Consejo Ciudadano Consultivo tendrá las siguientes atribuciones:
 
 I. Designar a su Presidente;
 
-II. Conocer y opinar respecto del programa operativo anual de actividades, a que se refiere el artículo 66 fracción IV de esta ley que presente el Auditor Superior;
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+
+II.- Conocer y opinar respecto del Programa Operativo Anual de actividades, a que se refiere el artículo 77 Fracción IV de esta Ley, que presente el Auditor Superior;
 
 III. Opinar ante la Comisión sobre la terna para designar al titular de la Unidad de Evaluación y Control de la Auditoría Superior Gubernamental;
 
@@ -1092,3 +1218,15 @@ EL SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ENERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos constitucionales de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
