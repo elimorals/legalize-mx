@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "1992-11-21"
+last_updated: "1997-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1997.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -1993,61 +1993,149 @@ En lo no previsto, se aplicarán las normas del juicio ordinario en lo conducent
 
 ### CAPITULO II. HIPOTECARIO
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 306.
 
-Se tramitará en la vía especial hipotecaria, todo juicio que tenga por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
+Se tramitará en la vía especial todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
 
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura debidamente registrada y que sea de plazo cumplido o que deba anticiparse conforme a lo previsto en los artículos 1332 y 2278 del Código Civil.
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura debidamente registrada y que sea de plazo cumplido, o que deba anticiparse conforme a lo previsto en los artículos 1332 y 2278 del Código Civil.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 307.
 
-Cuando se entable juicio entre los que contrataron la hipoteca, procederá la vía hipotecaria si necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero
+Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
+
+I.- El documento base de la acción tenga carácter de título ejecutivo;
+
+II.- El bien se encuentre inscrito a favor del demandado; y
+
+III.- No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a la presentación de la demanda.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 308.
 
-Presentada la demanda con el instrumento respectivo, el Juez, si encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expedición, fijación y registro de la cédula hipotecaria y el emplazamiento del deudor para que conteste la demanda dentro de cinco días, continuando el juicio con sujeción a las demás reglas del juicio ejecutivo civil, siendo improcedente la reconvención.
+Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor y, en su caso, al titular registral del embargo o gravamen por plazo inferior a que se refiere la fracción III, del artículo anterior, para que dentro del término de 5 cinco días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
+
+I.- Las procesales previstas en éste Código;
+
+II.- Las fundadas en que el documento base de la acción, sea falso, esté alterado o carezca de la firma del demandado;
+
+III.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
+
+IV.- Novación del contrato;
+
+V.- Nulidad del contrato;
+
+VI.- Remisión o quita;
+
+VII.- Oferta de no cobrar o espera;
+
+VIII.- Pago o compensación; y
+
+IX.- Las demás que autoricen las leyes.
+
+Las excepciones comprendidas en las fracciones de la V a la VIII sólo se admitirán cuando se funden en prueba documental. Respecto de las excepciones de litispendencia y conexidad solo se admitirán si se exhiben con la contestación de ésta o de las cédulas del emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite que se encuentra tramitando un procedimiento arbitral.
+
+El juez desechará de plano las excepciones diferentes a las que se autorizan, o aquellas en que sea necesario exhibir documento y el mismo no se acompañe, salvo los casos a que se refieren los artículos 46 y 47 de éste Código; y sólo admitirá la reconvención cuando se funde en el mismo documento base de la acción o se refiera a su nulidad.
+
+Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento y se resolverán de plano en la audiencia.
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a tales proposiciones de las partes.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 309.
 
-El demandado podrá alegar todas las excepciones que tuviere, pero las de pago de capital o réditos, las de compensación y novación solo podrán probarse con confesión judicial o con documental.
+Tanto en la demanda como en su contestación, en la vista que de ella se dé a la actora; en la reconvención y en la contestación a ésta, las partes tienen la obligación de precisar indicando cómo sucedieron los hechos y si tiene testigo de ellos; debiendo presentar como prueba todos los elementos relacionados con dichos hechos.
+
+El juez desechará las pruebas ofrecidas por las partes que sean en contra de la moral o el derecho; o sobre hechos imposibles o notoriamente inverosímiles; o que no se hayan relacionado con los mismos. Las pruebas que se admitan se desahogarán en la audiencia.
+
+Con el escrito de contestación a la demanda se dará vista al actor para que manifieste lo que a su derecho convenga, hecho lo cual o transcurrido el plazo para ello, se señalará fecha para la celebración de la audiencia que deberá fijarse dentro de los veinticinco días siguientes.
+
+Si hubiere reconvención se correrá traslado de ésta a la actora principal para que la conteste dentro de los seis días siguientes y en el mismo proveído, dará la vista por tres días con las excepciones opuestas para que manifieste lo que a su derecho convenga.
+
+Contestada la reconvención o transcurrido el plazo para ello, se señalará día y hora para la audiencia dentro del término arriba señalado.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 310.
 
-Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la cédula hipotecaria para que hagan valer sus derechos conforme a la Ley.
+Si en el título con base en el cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
 
-Si comenzado el juicio se presenta alguno o algunos acreedores hipotecarios, se procederá como está previsto para las tercerías en este código.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 311.
 
-La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en estos términos: "en virtud de las constancias que preceden queda sujeta la finca.... de la propiedad de .... a juicio hipotecario, lo que se hace saber a las autoridades y al público para que no se practiquen en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por le C. (aquí el nombre del actor)".
+La demanda se anotará en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documentos base de la acción y en su caso, de aquellos con que justifique su representación, para que, previo cotejo con sus originales se certifiquen por el Secretario, haciendo constar que se expiden para efecto de que la parte interesada inscriba su demanda, a quien se le entregarán para el fin, debiendo hacer las gestiones en el Registro dentro del término de tres días y acreditándolo en su oportunidad al Tribunal.
+
+Si la finca no se halla en el lugar del juicio, se librará oficio comisorio al juez de la ubicación, para que ordene el registro de la cédula como se previene en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 312.
 
-La cédula hipotecaria se fijará en los estrados del juzgado y en un lugar visible de la finca; y se inscribirá en el Registro Público de la Propiedad correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de aquélla. Una copia quedará en el registro y la otra, ya registrada, se agregará a los autos.
+Anotada la demanda en el Registro Público de la Propiedad no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior a la fecha a la inscripción precautoria solicitada ante el juez por acreedor con mejor derecho, en fecha anterior a la de inscripción de la demanda.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 313.
 
-La fijación de la cédula hipotecaria, produce también efecto de secuestro judicial y se regirá por las disposiciones relativas de este código
+Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlos a los autos, siempre que lo pida el acreedor.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 314.
 
-Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho
+Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones en los escritos que fijan la controversia, exhibiendo los documentos que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según lo ordena el artículo 47 de este ordenamiento.
+
+Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia en la audiencia deberán presentar a sus testigos. Respecto a la pericial, deberá estarse a lo ordenado en el juicio ordinario en cuanto a dicha prueba.
+
+Si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, no estar en posibilidad de exhibir documentos que no tienen a su disposición el juez en cuanto a la prueba testimonial mandará citar a los testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta sesenta días de salario mínimo general vigente en la entidad, o arresto hasta por treinta y seis horas; y respecto a la prueba documental requerirá a las autoridades y terceros que tengan en su poder los documentos, apercibiéndolos con la imposición de una sanción pecuniaria, en favor de la parte adjudicada, por el equivalente a sesenta días de salario mínimo general vigente, que se hará efectiva por orden del propio juez; y si fuese insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia, en la inteligencia de que estos terceros podrán manifestarle al juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se les requiere.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 315.
 
-Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y todos los objetos que con arreglo a la escritura y conforme al Código Civil deban considerarse como inmuebles y formando parte de la misma finca, de los cuales se realizará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+El juez iniciará la audiencia, resolviendo todas las excepciones procesales que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas. Si no se llegaren a desahogar por falta de preparación, se diferirá la audiencia y bajo su más estricta responsabilidad, atenderá que se preparen las pruebas para desahogarse en la fecha que se señale, que no excederá en su fijación de los diez días posteriores.
+
+En todo lo no previsto en lo relativo al ofrecimiento, admisión, preparación y desahogo de las pruebas así como el desarrollo de la audiencia y diferimiento de la misma, se observarán las reglas del Capítulo anterior.
+
+Desahogadas las pruebas alegarán lo que a su derecho convenga y el juez procurará dictar en la misma audiencia la sentencia que corresponda, excepto cuando haya pruebas documentales voluminosas, el juez contará con un plazo de ocho días para dictarla y mandarla notificar en los términos del artículo 68 de este ordenamiento legal.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 316.
 
-El secuestro de la finca hipotecada se regirá por las disposiciones de los embargos, debiendo quedar el deudor en posesión de la finca cuando habite en ella en calidad de depositario.
+Para el remate, se procederá de la siguiente forma:
+
+I.- Cada parte tendrá derecho de exhibir, dentro de los diez días siguientes al que sea ejecutable la sentencia, el avalúo de la finca hipotecada, practicado por un Corredor Público, por una Institución de Crédito o por Perito Valuador autorizado por el Tribunal Superior de Justicia, los cuáles en ningún caso podrán tener el carácter de parte o de interesada en el juicio;
+
+II.- En el caso de que alguna de las partes deje de exhibir el avalúo referido en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contrario;
+
+III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidiere, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más alto y el más bajo, en cuyo caso el juez ordenará se practique nuevo avalúo por el Corredor o la institución bancaria que al efecto señale;
+
+V.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda del remate, si entre ésta y las subsecuentes mediara un término mayor de seis meses se deberán actualizar los valores; y
+
+VI.- Obteniendo el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 317.
 
-El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará cancelar la anotación de la demanda en el Registro Público y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con apego en los términos que fije el juez, que no podrá exceder de treinta días. Si el remate se hubiera ya verificado, se hará efectiva la fianza en la vía de apremio.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 318.
 
-La sentencia debe declarar si procede o no la vía hipotecaria y si ha lugar al remate de los bienes sujetos a cédula. Si decida que no procede la vía, reservará al actor sus derechos para que los haga valer en la forma correspondiente, mandará desde luego retirar y cancelar la cédula hipotecaria, y en su caso, que se devuelva la finca al demandado, ordenando al depositario que rinda cuentas en un término que no exceda de treinta días.
+En el caso de la adjudicación prevista en el Segundo Párrafo del artículo 2287 del Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la misma en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el artículo 316 de éste ordenamiento. La venta se hará de la manera que se hubiere convenido, y a falta de convenio, por medio de Corredores. El deudor puede oponerse a la adjudicación alegando las excepciones que tuviere, y esta oposición se substanciará incidentalmente.
+
+También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
 
 ### CAPITULO III. DESAHUCIO
 
@@ -3249,7 +3337,9 @@ Cuando la acción sea la de contradicción de paternidad y el demandado se allan
 
 Tratándose de las acciones de investigación de la paternidad o de la maternidad, con el allanamiento de la demanda concluye la controversia y se dictará sentencia que declare la filiación.
 
-### CAPITULO XII. ADOPCION
+### CAPITULO XI
+
+CUESTIONES SOBRE PATRIA POTESTAD.
 
 #### SECCION PRIMERA. DECLARACION DE INCAPACIDAD
 
@@ -3267,9 +3357,7 @@ La suspensión y la calificación de las excusas para ejercer la patria potestad
 
 #### SECCION SEGUNDA. NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
 
-### CAPITULO XI
-
-CUESTIONES SOBRE PATRIA POTESTAD.
+### CAPITULO XII. ADOPCION
 
 ###### ARTICULO 509.
 
@@ -3949,6 +4037,10 @@ Para la tramitación de toda testamentaría, se requiere que previamente se decl
 
 No será necesaria la declaración judicial, cuando todos los herederos instituidos en un testamento público abierto sean capaces al momento de la delación y sean conformes con la tramitación extrajudicial, caso en el cual los herederos, exhibiendo la partida de defunción del testador y un testimonio del testamento, podrán presentarse ante un notario manifestándole que reconocen la validez de éste, la capacidad y derechos hereditarios de las personas instituidas y su voluntad unánime de que se tramite la testamentaría, designando en el acto, si no lo hubiere, al albacea o pidiéndole llame, si no estuviere presente, al testamentario.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1997)</small>
+
+El Notario autorizante en todo caso deberá pedir a la Dirección Estatal de Profesiones, Actividades Técnicas y del Notariado y a la Dirección del Registro Público de la Propiedad, le informen por escrito, dentro de un plazo que no excederá de ocho días, si el testamento que le presentan los comparecientes no ha sido revocado o modificado en su caso.
+
 #### SECCION CUARTA. TESTAMENTO PRIVADO
 
 ###### ARTICULO 609.
@@ -4402,3 +4494,19 @@ Y EN CUMPLIMIENTO DE LO DISPUESTO EN LA FRACCION II DEL ARTICULO 69 DE LA CONSTI
 EL SRIO. GENERAL DE GOBIERNO.
 
 LIC. JAVIER GERMAN RODRIGUEZ JIMENEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 19 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+. Los asuntos tramitados con la normatividad anterior, continuarán en su trámite con las nuevas disposiciones, en cuanto no afecten los intereses de las partes y el interés público.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que contraríen la observancia de las presentes reformas y adiciones.
