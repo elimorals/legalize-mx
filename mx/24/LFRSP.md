@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1982-12-31"
+last_updated: "1991-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1991.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -424,9 +424,13 @@ XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones qu
 
 XX.- Informar al superior jerárquico de todo acto, u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las normas que al efecto se expidan;
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 1991)</small>
 
-XXII.- La (sic) demás que le impongan las leyes y reglamentos.
+XXI.- Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan.
+
+XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+
+XXIII.- La (sic) demás que le impongan las leyes y reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría General, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría General, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
@@ -799,3 +803,9 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 México, D.F., a 30 diciembre de 1982.- Antonio Riva Palacio López, S.P.- Mariano Piña Olaya, D.P.- Silvia Hernández de Galindo, S.S.- Everardo Gámiz Fernández, D.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y dos.- "Año del General Vicente Guerrero".- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Patrimonio y Fomento Industrial, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Horacio García Aguilar.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdez.- Rúbrica.- El Secretario de Asentamientos Humanos y Obras Públicas, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de la Reforma Agraria, Luis Martínez Villicaña.- Rúbrica.- El Secretario de Turismo, Antonio Enríquez Savignac.- Rúbrica.- El Secretario de Pesca, Pedro Ojeda Paullada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 11 DE ENERO DE 1991.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
