@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1995-12-29"
+last_updated: "1996-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -809,7 +809,7 @@ Responden solidariamente del pago de este impuesto:
 
 I.- Los representantes legales de los sujetos del gravamen, excepto los apoderados para pleitos y cobranzas;
 
-II.- Los comisionistas respecto del impuesto a cargo del comitente cuando la entrega de la (sic)mercancías enajenadas se haga en los establecimientos de aquéllos; en este caso, el establecimiento del comisionista se estimará como una dependencia del comitente y el ingreso se considerará percibido en el mismo;
+II.- Los comisionistas respecto del impuesto a cargo del comitente cuando la entrega de la (sic) mercancías enajenadas se haga en los establecimientos de aquéllos; en este caso, el establecimiento del comisionista se estimará como una dependencia del comitente y el ingreso se considerará percibido en el mismo;
 
 III.- Los comitentes, por los créditos fiscales derivados de las operaciones gravadas por este impuesto a cargo de sus comisionistas, y
 
@@ -1913,6 +1913,138 @@ X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+
+### CAPITULO XII-A. IMPUESTO AL HOSPEDAJE
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+
+#### SECCION PRIMERA. DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-A.
+
+Será objeto de este impuesto la prestación del servicio de hospedaje y la concesión de derechos de usufructo en tiempo compartido.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-B.
+
+Se entiende como servicio de hospedaje el servicio de alojamiento que se presta en:
+
+I.- Hoteles.
+
+II.- Moteles.
+
+III.- Parques para casas rodantes.
+
+IV.- Cabañas.
+
+V.- Casas de Huéspedes.
+
+VI.- lnmuebles e instalaciones comercializadas en tiempo compartido.
+
+VII.- Areas de acampado.
+
+No se considerará servicio de hospedaje el albergue o alojamiento prestado por hospitales, clínicas, asilos, conventos, seminarios e internados.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-C.
+
+Se entiende por derechos de usufructo en tiempo compartido los que se prestan a través de:
+
+I.- Condohoteles.
+
+II.- Hoteles.
+
+III.- Suites.
+
+IV.- Cabañas, y
+
+V.- Otros inmuebles e instalaciones destinadas a este efecto.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-D.
+
+El impuesto a que se refiere este capítulo, se causará al momento en que sean exigibles las contraprestaciones por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 1996)</small>
+
+#### SECCION SEGUNDA. DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-E.
+
+Están obligadas al pago de este impuesto las personas físicas y morales, que en el Estado Libre y Soberano de Quintana Roo, otorguen los servicios señalados en los artículos 168-B y 168-C de esta ley.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+
+#### SECCION TERCERA. DE LA TASA
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-F.
+
+El impuesto se calculará aplicando la tasa del 5% sobre el valor de facturación y/o contratación a los servicios a que se refiere el artículo 168-B y 168-C.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-G.
+
+El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que reciban los servicios de hospedaje, o adquieran los derechos de tiempo compartido. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente retenedor debe hacer a dichas personas con un monto equivalente al impuesto establecido en esta ley.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-H.
+
+Este impuesto en ningún caso se considerará que forma parte del valor de los servicios ni será violatorio de tasas o tarifas, incluyendo las oficiales.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-I.
+
+El pago deberá efectuarse en forma mensual mediante declaraciones provisionales en las formas aprobadas por la Secretaría de Hacienda del Estado, las que se presentarán a más tardar el día 17 del mes siguiente a aquel en que se efectuó el traslado.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-J.
+
+El impuesto se calculará por ejercicios fiscales.
+
+Los contribuyentes efectuarán pagos provisionales a cuenta de la declaración anual, ante las oficinas autorizadas por los mismos períodos y en las mismas fechas de pago a que se refiere el artículo anterior.
+
+El pago provisional será la cantidad que resulte de aplicar la tasa a que se refiere el artículo 168-F sobre el total de los ingresos obtenidos por la prestación de los servicios a que se refiere este capítulo, realizadas en el período por el que se efectúa el pago.
+
+Para determinar el impuesto del ejercicio a que se refiere este artículo, se aplicará la tasa que corresponda, al valor neto de los actos o actividades realizados por la prestación del servicio de hospedaje.
+
+El impuesto del ejercicio una vez deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas por la Secretaría de Hacienda del Estado, dentro de los 4 meses siguientes al cierre del ejercicio.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+
+#### SECCION CUARTA. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-K.
+
+El contribuyente que realice cancelación de servicios comprometidos por los que haya recibido anticipos u otorgue descuentos o bonificaciones por los servicios a que se refiere este capítulo, deducirá en las siguientes declaraciones de pagos provisionales el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al hospedaje que se hubiere trasladado se cancele o se restituya, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+
+###### ARTICULO 168-L.
+
+Cuando se formulen declaraciones complementarias sustituyendo los datos de la original, en virtud de los cuales resulten diferencias a cargo del contribuyente por declarar, o bien resulten diferencias a su favor o se incrementen las ya declaradas, se procederá como sigue:
+
+I.- Cuando se trate de declaraciones de pagos provisionales y no se haya presentado la declaración del ejercicio, la diferencia a su favor o su incremento podrá compensarse en la declaración de pago provisional siguiente al día en que se presente la declaración complementaria, sin que sea necesario modificar las demás declaraciones.
+
+II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devoluciones, o compensar dicha diferencia a su favor en la declaración de pago provisional siguiente, al día en que se presente la complementaria.
+
+Cuando el valor neto de los ingresos por las que se deba pagar el impuesto del ejercicio, sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias, por el período o períodos por los que se efectúan los pagos provisionales a que correspondan las diferencias, debiendo cubrir los recargos y actualizaciones que se señalan en los artículos 20 y 22 del Código Fiscal del Estado.
+
 ### CAPITULO I. DEL CONCEPTO
 
 #### SECCION PRIMERA. DEL REGISTRO PUBLICO DE LA PROPIEDAD
@@ -1927,11 +2059,11 @@ X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
+#### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
+
 ### CAPITULO II. DE LA EXPEDICION DE PATENTES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-#### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
 
 #### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
 
@@ -1939,11 +2071,11 @@ X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 #### SECCION CUARTA. TALLERES DE GOBIERNO
 
-#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
-
 ### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
 #### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
@@ -1953,25 +2085,21 @@ X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 POR EL ACCESO, USO O GOCE DE BIENES PROPIEDAD DEL GOBIERNO DEL ESTADO O LOS QUE TENGA BAJO SU ADMINISTRACION.
 
-### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 #### SECCION NOVENA. PRODUCTOS DIVERSOS
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO V. DE LOS RECARGOS Y SANCIONES
+### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 169.
 
 El Gobierno del Estado, percibirá derechos por los servicios que preste en el ejercicio de sus funciones de derecho público.
 
-### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO V. DE LOS RECARGOS Y SANCIONES
 
 ###### ARTICULO 170.
 
@@ -2959,9 +3087,9 @@ De primera hasta 11,000.00
 
 De segunda hasta 10,000.00
 
-### CAPITULO VI-A. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 171.
 
@@ -3401,7 +3529,9 @@ III.- Patente original y copia, si expenden bebidas alcohólicas.
 
 IV.- Y demás documentos que a juicio de la Secretaría de Finanzas se juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
 
-### CAPITULO VII. SERVICIOS CATASTRALES
+### CAPITULO VI-A. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 176.
 
@@ -3629,9 +3759,7 @@ VI.- Permiso para circular con cristales polarizados por 1 año 4.03 veces el S.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO VIII. DE LA VERIFICACION Y CONTROL DE OBRA PUBLICA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO VII. SERVICIOS CATASTRALES
 
 ###### ARTICULO 178.
 
@@ -3645,7 +3773,9 @@ La Secretaría de Hacienda del Estado, solicitará el apoyo de la Dirección de 
 
 Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Quintana Roo.
 
-### CAPITULO IX. EXPEDICION DE PASAPORTES PROVISIONALES
+### CAPITULO VIII. DE LA VERIFICACION Y CONTROL DE OBRA PUBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 179.
 
@@ -3671,13 +3801,13 @@ VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO X. HOSPITALES
+### CAPITULO IX. EXPEDICION DE PASAPORTES PROVISIONALES
 
 ###### ARTICULO 179-A.
 
 Los contribuyentes tendrán la obligación de efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el Reglamento del Código Fiscal del Estado.
 
-### CAPITULO XI. SERVICIOS SANITARIOS
+### CAPITULO X. HOSPITALES
 
 ###### ARTICULO 180.
 
@@ -3739,9 +3869,7 @@ VIII.- Los servicios catastrales no previstos en esta tarifa, pagarán una cuota
 
 IX.- Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etc. deberán cubrir los mismos que no excederán del costo de los mismos.
 
-### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO XI. SERVICIOS SANITARIOS
 
 ###### ARTICULO 181.
 
@@ -3753,7 +3881,7 @@ Las dependencias, organismos y fideicomisos de la Administración Pública estat
 
 Se enterarán a la Dirección de Ingresos de la Secretaría de Hacienda del Estado quien a su vez registrará todo lo recaudado por este concepto a favor de la partida presupuestal de la Contaduría Mayor de Hacienda y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
 
-### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
+### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -3777,9 +3905,9 @@ II.- Individual (vigencia de un año) 4.60 S.M.G.
 
 III.- Colectivo (hasta 5 personas) 8.20 S.M.G.
 
-### CAPITULO XIII-A. DEL REGISTRO CIVIL
+### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 183.
 
@@ -3791,7 +3919,9 @@ El pago de los derechos por este concepto, se hará en la caja de los propios ho
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las Recaudadoras de Rentas cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
 
-### CAPITULO XIV. REGISTRO DE TITULOS PROFESIONALES
+### CAPITULO XIII-A. DEL REGISTRO CIVIL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 184.
 
@@ -3851,7 +3981,7 @@ b).- En la segunda planta, m2. 0.12 S.M.G.
 
 XI.- En cualquier otro servicio no especificado. 0.35 S.M.G.
 
-### CAPITULO XV. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
+### CAPITULO XIV. REGISTRO DE TITULOS PROFESIONALES
 
 ###### ARTICULO 185.
 
@@ -3887,7 +4017,7 @@ III.- Por certificados por foja) (sic) 0.35 S.M.G.
 
 Los notarios públicos o quienes ejerzan sus funciones, pagarán un derecho de autorización del protocolo por: 17.25 S.M.G.
 
-### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPITULO XV. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
 
 ###### ARTICULO 188.
 
@@ -3931,7 +4061,7 @@ IV.- Otras legalizaciones o certificaciones 1.73 S.M.G.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA ESTATAL DEL MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL
+### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 188-A.
 
@@ -4053,7 +4183,7 @@ III.- Los certificados de supervivencia expedidos a los pensionistas de los Gobi
 
 Los derechos a que se refiere este capítulo, incluyendo la búsqueda de los documentos se pagarán en las Oficinas Recaudadoras de Rentas del estado, previamente a la prestación del servicio de que se trate.
 
-### CAPITULO XVIII. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA ESTATAL DEL MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL
 
 ###### ARTICULO 192.
 
@@ -4077,9 +4207,7 @@ III.- Los demás profesionales. 13.80 S.M.G.
 
 IV.- Peritos valuadores. 17.25 S.M.G.
 
-### CAPITULO XVIII (SIC). DE LA PRESTACION DE SEGURIDAD PUBLICA
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO XVIII. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 193.
 
@@ -4179,9 +4307,9 @@ Por la instalación o reconección (sic) de tomas para derivar agua de las tuber
 
 El pago de estos derechos deberá hacerse previamente a la prestación del servicio de que se trate.
 
-### CAPITULO XIX. DERECHO POR CONTROL DE INSTITUCIONES PRIVADAS QUE PRESTAN SERVICION (SIC) DE EDUCACION
+### CAPITULO XVIII (SIC). DE LA PRESTACION DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 201.
 
@@ -4449,7 +4577,7 @@ IV.- Inscripción de las modificaciones a las escrituras constitutivas de socied
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-V.- Inscripción de actas de asambleas de socios o administradores..... 5.75 S.M.G.
+V.- Inscripción de actas de asambleas de socios o administradores.................... 5.75 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4467,7 +4595,7 @@ IX.- Inscripción de la disolución y liquidación de sociedades mercantiles cua
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-X.- Por la Inscripción de actas de nombramiento de liquidadores.... 11.50 S.M.G.
+X.- Por la Inscripción de actas de nombramiento de liquidadores......................... 11.50 S.M.G.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4493,7 +4621,7 @@ XIII.- Inscripción de revocación de poderes por cada apoderado 2.88 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y Xl del artículo 21 de Código de Comercio.... 1.73 S.M.G.
+XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y Xl del artículo 21 de Código de Comercio................ 1.73 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4575,7 +4703,9 @@ V.- Los contratos en que se pacten prestaciones periódicas, se valuarán en la 
 
 VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Público del Comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas del Sistema Educativo Quintanarroense que estén bajo su vigilancia.
 
-### CAPITULO UNICO
+### CAPITULO XIX. DERECHO POR CONTROL DE INSTITUCIONES PRIVADAS QUE PRESTAN SERVICION (SIC) DE EDUCACION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 206.
 
@@ -4607,7 +4737,7 @@ El pago de los derechos a que se refiere este artículo, deberá realizarse seme
 
 Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, el comprobante debidamente sellado y marcado con la máquina registradora de la oficina recaudadora de rentas o del centro de verificación al efecto autorizado a fin de que sea tramitada su revista mecánica.
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO UNICO
 
 ###### ARTICULO 207.
 
@@ -4615,7 +4745,7 @@ Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Trá
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO II. REZAGOS
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
 ###### ARTICULO 207-A.
 
@@ -4667,7 +4797,7 @@ Las personas físicas o morales que requieran del servicio especial, lo solicita
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO III. MULTAS
+### CAPITULO II. REZAGOS
 
 ###### ARTICULO 207-H.
 
@@ -4682,6 +4812,8 @@ II.- Por la incorporación de una entidad educativa. 200 S.M.G.
 III.- Por la ratificación del acuerdo de incorporación anualmente 50 S.M.G.
 
 IV.- Por la compulsa de documentos originales con las copias de los mismos, necesarios en los casos de incorporación, el importe de 10 S.M.G.
+
+### CAPITULO III. MULTAS
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
 
@@ -5002,3 +5134,9 @@ Este decreto entrara en vigor al día siguiente de su publicación en el Periód
 ###### ARTICULO QUINTO.
 
 Quedan derogadas todas las disposiciones anteriores establecidas en esta Ley, que contravengan a las presentes reformas.
+
+P.O. 31 DE ENERO DE 1996.
+
+###### ARTICULO 1º.
+
+El presente decreto entrará en vigor a partir del primer día del mes de abril del presente año, previa su publicación en el Periódico Oficial del Estado.
