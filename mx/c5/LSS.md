@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "1995-12-21"
+last_updated: "1996-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la primera sección del Diario Oficial de la Federación el jueves 21 de diciembre de 1995.
 
@@ -236,7 +236,7 @@ Para cubrir las prestaciones en especie del seguro de enfermedades y maternidad 
 
 Las disposiciones de esta Ley, que se refieren a los patrones y a los trabajadores, serán aplicables, en lo conducente, a los demás sujetos obligados y de aseguramiento.
 
-### CAPITULO II. DE LAS BASES DE COTIZACION Y LAS CUOTAS
+### CAPITULO II. DE LAS BASES DE COTIZACION Y DE LAS CUOTAS
 
 ###### Artículo 27.
 
@@ -366,7 +366,7 @@ El Instituto a solicitud de los patrones podrá conceder prórroga para el pago 
 
 Para el seguro de retiro, cesantía en edad avanzada y vejez, esta prórroga también causará los accesorios a que se refiere el párrafo anterior, depositándose los recargos en la cuenta individual del trabajador. De todas las prórrogas que involucren cuotas del seguro de retiro, cesantía en edad avanzada y vejez, el Instituto deberá informar a la Comisión Nacional del Sistema de Ahorro para el Retiro. Sin perjuicio de lo anterior los patrones deberán proporcionar copias de las prorrogas que involucren cuotas del seguro de retiro, cesantía en edad avanzada y vejez, a la Comisión Nacional del Sistema de Ahorro para el Retiro, así como a las entidades financieras que mediante reglas generales determine la misma Comisión.
 
-### CAPITULO III. DELSEGURO DE RIESGOS DE TRABAJO
+### CAPITULO III. DEL SEGURO DE RIESGOS DE TRABAJO
 
 #### SECCION PRIMERA. GENERALIDADES
 
@@ -464,7 +464,7 @@ IV. Muerte.
 
 Se entenderá por incapacidad temporal, incapacidad permanente parcial e incapacidad permanente total, lo que al respecto disponen los artículos relativos de la Ley Federal del Trabajo.
 
-#### SECCION SEGUNDA. DE LAS PRESTACIONES EN ESPECIE
+#### SECCION SEGUNDA. DE LAS PRESTAIONES EN ESPECIE
 
 ###### Artículo 56.
 
@@ -598,7 +598,7 @@ Tratándose de la cónyuge o concubina, la pensión se pagará mientras no contr
 
 Cuando se reúnan dos o más incapacidades parciales, el asegurado o sus beneficiarios, no tendrán derecho a recibir una pensión mayor de la que hubiese correspondido a la incapacidad permanente total.
 
-#### SECCION CUARTA. DEL INCREMENTO PERIODICO DE LAS PRESTAIONES
+#### SECCION CUARTA. DEL INCREMENTO PERIODICO DE LAS PENSIONES
 
 ###### Artículo 68.
 
@@ -720,7 +720,7 @@ XI. Valor actual de la pensión, que es la cantidad calculada a la fecha del sin
 
 XII. El cinco por ciento del importe de los conceptos que lo integren, por gastos de administración.
 
-#### SECCION SEXTA. DE LA PREVENCION DE RIEGOS DE TRABAJO
+#### SECCION SEXTA. DE LA PREVENCION DE RIESGOS DE TRABAJO
 
 ###### Artículo 80.
 
@@ -946,7 +946,7 @@ III. Al Gobierno Federal le corresponderá pagar el cinco por ciento restante.
 
 Las aportaciones del Gobierno Federal serán cubiertas en pagos mensuales iguales, equivalentes a la doceava parte de la estimación que presente el Instituto para el año siguiente a la Secretaría de Hacienda y Crédito Público, en el mes de julio de cada ejercicio. En el caso de que en un cuatrimestre la inflación sea cuatro puntos porcentuales mayor o menor a la prevista en dichos cálculos, se harán las compensaciones preliminares correspondientes antes de que termine el siguiente bimestre, realizándose los ajustes definitivos, en base a la inflación real anual, durante el mes de enero del año siguiente.
 
-#### SECCION QUINTA. DE LA CONSERVACION DE DERECHOS
+#### SECCION QUINTA. DE LA CONSEVACION DE DERECHOS
 
 ###### Artículo 109.
 
@@ -1278,7 +1278,7 @@ IV. En los casos de pensionados por invalidez que reingresen al régimen obligat
 
 En los casos de las fracciones II y III, si el reingreso del asegurado ocurriera antes de expirar el período de conservación de derechos establecido en el artículo anterior, se le reconocerán de inmediato todas sus cotizaciones anteriores.
 
-### CAPITULO VI. DEL SEGURO DE RETIRO,CESANTIA EN EDAD AVANZADA Y VEJEZ
+### CAPITULO VI. DEL SEGURO DE RETIRO, CESANTIA EN EDAD AVANZADA Y VEJEZ
 
 #### SECCION SEGUNDA. DEL RAMO DE CESANTIA EN EDAD AVANZADA
 
@@ -2340,7 +2340,7 @@ El Instituto podrá participar en el capital social de sociedades o empresas que
 
 En ningún caso se podrán emplear los recursos de las reservas a cargo del Instituto para constituir, invertir, o, en su caso, estabilizar o eliminar el riesgo de llegar a un estado de insolvencia de las sociedades o empresas que tengan objeto social complementario o afín al del propio Instituto.
 
-### CAPITULO III. DE LA CADUCIDAD Y PERCEPCION
+### CapItulo III. DE LA CADUCIDAD Y PRESCRIPCION
 
 ### CAPITULO UNICO
 
@@ -2480,7 +2480,9 @@ Lo anterior, sin perjuicio de que se exija al patrón el cumplimiento de sus obl
 
 ## TRANSITORIOS
 
-PRIMERO. Esta Ley entrará en vigor en toda la República el día primero de enero de mil novecientos noventa y siete.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1996)</small>
+
+PRIMERO. Esta Ley entrará en vigor en toda la República el día primero de julio de mil novecientos noventa y siete.
 
 A partir de la entrada en vigor de esta Ley, se derogan la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día doce de marzo de 1973, la Ley que incorpora al Régimen del Seguro Social obligatorio a los Productores de Caña de Azúcar y a sus trabajadores, publicada el siete de diciembre de 1963 en dicho órgano oficial, así como todas las disposiciones legales que se opongan a la presente Ley.
 
@@ -2583,3 +2585,9 @@ Las Administradoras de Fondos para el Retiro, de conformidad con las disposicion
 México, D.F., a 12 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 21 DE NOVIEMBRE DE 1996.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
