@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1974-12-23"
+last_updated: "1974-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -182,9 +182,13 @@ VII. Los poderes generales y nombramientos, y revocación de los mismos si la hu
 
 VIII. (DEROGADA, D.O.F. 27 DE ENERO DE 1970)
 
-IX. La licencia marital ó el requisito que en su defecto necesite la mujer para ejercer el comercio, así como la cesación del requisito ó la revocación de la licencia;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-X. Las escrituras dotales, capitulaciones matrimoniales y los títulos que acrediten la propiedad de los parafernales de la mujer del comerciante, así como las escrituras sobre separación de intereses entre los cónyuges; y en general, los documentos que contenga, con relación á los objetos expresados, algún cambio ó modificación;
+IX. La licencia que un cónyuge haya dado al otro en los términos del segundo párrafo del artículo 9o.;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+X. Las capitulaciones matrimoniales y los documentos que acrediten alguna modificación a las mismas;
 
 XI. Los documentos justificativos de los haberes ó patrimonio que tenga el hijo ó el pupilo que estén bajo la patria potestad, ó bajo la tutela del padre ó tutor comerciantes;
 
@@ -228,9 +232,11 @@ Los documentos que conforme á este Código deben registrarse y no se registren,
 
 La falta de registro de documentos hará que en caso de quiebra, ésta se tenga como fraudulenta, salvo prueba en contrario.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### Art. 28.
 
-Si el comerciante omitiere hacer el registro ó inscripción de los documentos que expresa la fracción X del artículo 21, podrán pedirla la misma mujer, sus padres ó ascendientes que hubieran ejercido sobre ella la patria potestad, ó el tutor que hubiere tenido.
+Si el comerciante omitiere hacer la anotación o inscripción de los documentos que expresa la fracción X del artículo 21, podrá pedirla el otro cónyuge o cualquiera que tenga derecho de alimentos respecto de aquél.
 
 ###### Art. 29.
 
@@ -3230,7 +3236,7 @@ Los empresarios de transportes están obligados:
 
 I. A publicar en el periódico oficial del Estado, o del Distrito Federal, y circular sus reglamentos, fijándolos en los parajes públicos, en la parte más visible de sus oficinas y en cada uno de los vehículos destinados a la conducción, poniendo los artículos relativos al reverso de los conocimientos de carga;
 
-II. A dar á los pasajeros billetes de asiento, y á los cargadores la carta de porte á que se refiere el artículo 581;
+II. A dar á los pasajeros billetes de asiento, y á los cargadores la carta de porte á que se refiere el art. 581;
 
 III. A emprender y concluir el viaje en los días y horas señalados en los anuncios, aunque no estén tomados todos los asientos y falten efectos para completar la cantidad de carga que sea posible conducir, llevando ésta el día fijado en el contrato;
 
@@ -5582,7 +5588,7 @@ Art. 1,090. Toda demanda debe interponerse ante juez competente.
 
 Art. 1,091. Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor.
 
-Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa ó tácitamente.
+Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa o tácitamente.
 
 Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez á quien se someten.
 
@@ -6989,3 +6995,7 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
