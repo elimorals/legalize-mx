@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1962-12-27"
+last_updated: "1963-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1963.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -789,29 +789,13 @@ La Ley Orgánica del Ministerio Público, reglamentará la institución.
 
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
-#### SECCION IV BIS. DE LA COMPETENCIA FISCAL
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1930)</small>
+#### SECCION IV BIS. Art. 89 A. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
-Art. 89 A. De los impuestos que cobren los Municipios y el Gobierno del Estado, corresponden a éste exclusivamente los que graven las siguientes fuentes de riqueza:
+Art. 89 B. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
-I. Propiedad raíz rústica y urbana.
-
-II. El comercio, la industria y la Agricultura.
-
-III. Ejercicio de profesiones y oficios.
-
-IV. Herencias, legados y donaciones.
-
-V. Cualesquiera otras fuentes, siempre que no se oponga la Constitución General de la República o las leyes federales.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1930)</small>
-
-Art. 89 B. La base de los ingresos de los Municipios del Estado será el producto de sus bienes propios y de los servicios públicos que suministren cuando éstos no deban prestarse gratuitamente; sólo cuando los ingresos resultantes sean insuficientes, el Congreso del Estado autorizará a los Municipios por medio de una Ley general de ingresos municipales a cobrar impuestos sobre ramos que no graven el Gobierno del Estado.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 1930)</small>
-
-Art. 89 C. Para compensar a los Ayuntamientos la prohibición que tienen de fijar impuestos sobre las mismas fuentes que se reserva el Estado, éste cobrará directamente un adicional sobre todos sus impuestos, que destinará a los Municipios; dicho adicional subsistirá mientras subsista la insuficiencia a que se refiere el artículo anterior. Unicamente no se cobrará el repetido adicional, sobre la minería y otros ramos en que la Federación fije determinado límite de imposición.
+Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 ###### Art. 78.
 
@@ -831,29 +815,37 @@ La Ley organizará la Defensoría Oficial y determinará la forma en que debe ej
 
 ###### Art. 80.
 
-Constituyen la Hacienda Pública del Estado, todos los bienes muebles e inmuebles y los derechos reales y personales que en su favor determinen las leyes.
+La Hacienda Pública del Estado estará constituída por los bienes muebles e inmuebles comprendidos en su patrimonio; por los impuestos, derechos, productos y aprovechamientos que en su favor establezcan las leyes del Estado; y por las participaciones que en impuestos Federales otorguen al Estado las Leyes Federales.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 81.
 
-Unicamente al Congreso del Estado y a los Ayuntamientos en sus respectivas atribuciones, corresponde la facultad de legislar en materia de impuesto. Uno y otros no podrán en ningún caso renunciar, suspender o delegar esta facultad.
+La Dirección de la política fiscal del Estado en la esfera administrativa y la administración de la Hacienda Pública del Estado, corresponden al Gobernador quién la ejercerá por conducto de la Tesorería General.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 82.
 
-Ningún impuesto podrá establecerse ni cobrarse, si no se destina a las atenciones del servicio público.
+Para el ejercicio de las atribuciones que le corresponden conforme a esta Constitución y las leyes ordinarias, la tesorería General contará con las dependencias que establezcan su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 83.
 
-Ningún pago se hará por las Oficinas Fiscales sin estar expresamente autorizado por la Ley de Ingresos y Egresos del Estado.
+Ningún funcionario o empleado del Estado o de los Municipios que tenga a su cargo el manejo de caudales públicos, entrará a ejercer sus funciones sin haberlo caucionado suficientemente. La omisión de esta formalidad hace responsables a las autoridades a quienes la ley encomienda hacer efectivo este requisito.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 84.
 
-No podrá contratarse ningún empréstito, ni contraerse deuda alguna que no sea para cubrir los gastos que originen una invasión extranjera, una rebelión dentro del Estado, o por causa de utilidad pública, a juicio del Congreso. Sólo éste podrá autorizarlo por el voto de las dos terceras partes de la totalidad de sus miembros. Ningún empréstito legalmente contratado, será desconocido por las autoridades del Estado.
+No podrán contratarse empréstitos por el Estado o por los Municipios sino para la ejecución de obras que estén destinadas a producir directamente un incremento en sus respectivos ingresos y previa autorización del Congreso del Estado otorgada mediante el voto de las dos terceras partes de la totalidad de sus miembros.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 85.
 
-El Jefe Supremo y responsable de la Hacienda Pública del Estado, será el Gobernador del mismo; por lo tanto, ningún gasto con cargo a las partidas extraordinarias será cubierto por las Oficinas Fiscales, sin orden firmada por él y el Secretario General de Gobierno o el Tesorero General en su caso.
+Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse por las oficinas fiscales sin estar expresamente autorizado por la Ley de Ingresos del Estado. Ningún impuesto podrá ser rematado. Ningún gasto con cargo a partidas extraordinarias será cubierto por las Oficinas Fiscales, sin orden firmada por el Gobernador y el Secretario General de Gobierno o el Tesorero General en su caso.
 
 ###### Art. 86.
 
@@ -861,19 +853,17 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 ###### Art. 87.
 
-Corresponde exclusivamente a los Ejecutivos del Estado y de los Municipios, dentro de sus respectivas esferas de acción, vigilar la aplicación de los impuestos y hacer efectivo el pago de las contribuciones. Los primeros no podrán ser rematados.
+(DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 ###### Art. 88.
 
-Habrá en la Capital del Estado una Tesorería General, a la que real o virtualmente deben ingresar todos los productos de las rentas públicas, y en las cabeceras de Municipalidad que determine la Ley, una Recaudación dependiente de la propia Tesorería General. Para mejor expeditar el servicio fiscal, habrá así mismo las Colecturías que fueren necesarias dependientes a su vez de las Recaudaciones de Rentas y cuyo personal será nombrado por el Ejecutivo del Estado a propuesta de la Tesorería General del mismo. Los funcionarios encargados de esas Oficinas, serán personal y pecuniariamente responsables por el manejo general de los fondos, y por los pagos que efectúen sin la autorización respectiva.
+(DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 ###### Art. 89.
 
-Ningún funcionario o empleado del Estado o de los Municipios, que tenga a su cargo el manejo de caudales públicos, entrará a ejercer sus funciones, sin haberlo caucionado suficientemente.
+(DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
-La omisión de esta formalidad hace responsables a las autoridades a quienes la ley encomiende hacer efectivo este requisito.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE NOVIEMBRE DE 1930)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 1963)</small>
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
@@ -1205,13 +1195,17 @@ Las Municipalidades se dividirán en Sindicaturas y éstas en Comisarías, en cu
 
 Para ser Síndico y Comisario, se requiere: ser ciudadano mexicano por nacimiento.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 1963)</small>
+
 ###### Art. 127.
 
-(DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
+La Hacienda Pública Municipal se integrará con los bienes muebles e inmuebles comprendidos en su patrimonio y por los impuestos, derechos, productos, aprovechamientos y participaciones que en su favor establezcan las Leyes. El Congreso del Estado solo podrá fijar impuestos en favor de los Municipios sobre ramas de tributación no grabadas en beneficio del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 1963)</small>
 
 ###### Art. 128.
 
-(DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
+El Congreso del del (sic) Estado establecerá sobre los impuestos propios del Gobierno del Estado que estime convenientes, un impuesto adicional que compense a los Municipios de la limitación fiscal consignada en la parte final del Artículo anterior.
 
 ###### Art. 129.
 
@@ -1816,3 +1810,7 @@ P.O. 27 DE DICIEMBRE DE 1962.
 I. El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 II. Se deja sin efecto el Decreto número 315 expedido por este H. Congreso del Estado, el día 6 de agosto del presente año.
+
+P.O. 18 DE ABRIL DE 1963.
+
+UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
