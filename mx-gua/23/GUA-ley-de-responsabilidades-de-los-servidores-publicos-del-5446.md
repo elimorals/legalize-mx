@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-de-los-servidores-publicos-del-5446"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1984-04-03"
+last_updated: "1987-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 3 de abril de 1984.
 
@@ -47,9 +47,11 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO
 
 Son Servidores Públicos los mencionados en el Artículo 122 de la Constitución Política del Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+
 ###### ARTICULO 2.
 
-Las autoridades competentes para aplicar la presente Ley, serán:
+Las autoridades competentes para aplicar la presente Ley serán:
 
 I.- El Gobernador del Estado;
 
@@ -57,13 +59,17 @@ II.- El Congreso del Estado;
 
 III.- El Supremo Tribunal de Justicia;
 
-IV.- Las Secretarías y Dependencias del Ejecutivo;
+IV.- Las Dependencias del Ejecutivo;
 
-V.- Los Ayuntamientos y sus Dependencias;
+V.- La Secretaría de la Contraloría del Estado;
 
-VI.- Los Tribunales del Trabajo en los términos de la legislación respectiva; y
+VI.- Los Ayuntamientos y sus Dependencias;
 
-VII.- Las demás que determinen las Leyes.
+VII.- Los Tribunales del Trabajo en los términos de la Legislación respectiva; y
+
+VIII.- Las demás que determinen las Leyes.
+
+En tratándose de servidores adscritos a la Administración Pública Paraestatal, será el Coordinador de las mismas quien aplique esta Ley.
 
 ###### ARTICULO 3.
 
@@ -231,6 +237,14 @@ XIII.- Denunciar los delitos respecto de los cuales tenga conocimiento en razón
 
 XIV.- Las demás que se deriven de las Leyes y Reglamentos.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1987)</small>
+
+Cualquier persona podrá presentar quejas o denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que se iniciará, en su caso, el procedimiento disciplinario correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1987)</small>
+
+Las quejas o denuncias podrán presentarse indistintamente ante el titular de la dependencia o entidad en la que labore el servidor presuntamente responsable o ante la Secretaría de la Contraloría del Estado.
+
 ### CAPITULO SEGUNDO. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 28.
@@ -241,13 +255,23 @@ I.- Apercibimiento;
 
 II.- Amonestación;
 
-III.- Suspensión en el trabajo hasta por tres días sin goce de salario;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1987)</small>
+
+III.- Suspensión;
 
 IV.- Destitución;
 
-V.- Multa hasta por un día de sueldo; o,
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1987)</small>
 
-VI.- Inhabilitación temporal impuesta por la Autoridad jurisdiccional para desempeñar empleos o cargos públicos, hasta por un año.
+V.- Multa; y
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1987)</small>
+
+VI.- Inhabilitación temporal impuesta por la autoridad jurisdiccional para desempeñar empleos o cargos públicos hasta por cinco años.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1987)</small>
+
+La multa podrá ser hasta por noventa días del salario mínimo más alto vigente en el Estado en el momento en que se cometió la infracción, y la suspensión en el trabajo, podrá ser de tres días a seis meses, sin derecho a percibir salario durante el tiempo en que se encuentre suspendido.
 
 ###### ARTICULO 29.
 
@@ -267,29 +291,45 @@ IV.- La condición socioeconómica de la persona; y,
 
 V.- La importancia del daño causado.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1987)</small>
+
+Los titulares de las dependencias o entidades que impongan a servidores públicos sujetos a procedimiento disciplinario alguna de las sanciones previstas por esta Ley, deberán comunicarlo a la Secretaría de la Contraloría del Estado para los efectos del registro de servidores públicos sancionados.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+
 ###### ARTICULO 31.
 
-La sanción consistente en destitución, se aplicará tomando en cuenta lo previsto en la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y los Municipios.
+La Sanción consistente en destitución es aplicable a los servidores públicos de confianza y operará con la sola notificación de la resolución que la imponga. Tratándose de servidores públicos de base, se estará a lo dispuesto por la Ley del Trabajo de los Servidores Públicos del Estado y los Municipios, en lo que se refiere a la terminación de los efectos del nombramiento por recisión (sic).
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
 
 ###### ARTICULO 32.
 
-Corresponde aplicar las sanciones a los superiores inmediatos del infractor, pero si no lo hacen, podrán ser aplicadas por los funcionarios de mayor jerarquía de la Dependencia que se trate, ya sean del Estado o de los Municipios.
+Corresponde aplicar las sanciones a los titulares de las dependencias o entidades, ya sean del Estado o de los Municipios, en las que trabaje el servidor público sujeto a procedimiento disciplinario.
+
+La Secretaría de la Contraloría del Estado, en los procedimientos seguidos respecto de los servidores públicos adscritos a otra dependencia o entidad, informará al titular de la misma de su iniciación, a efecto de que en su caso, nombre un representante ante la Secretaría de la Contraloría del Estado que coadyuve con ésta durante el procedimiento administrativo correspondiente.
+
+La Secretaría de la Contraloría del Estado, requerirá para aplicar la sanción, el acuerdo previo del titular de la dependencia o entidad en la que labore el servidor público a sancionar.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
 
 ###### ARTICULO 33.
 
 Antes de aplicarse la sanción, el infractor deberá ser oído en investigación económica.
 
-Determinada la sanción, podrá solicitar reconsideración en el término de tres días, invocando las pruebas que estime pertinentes. El Superior resolverá sin más trámite confirmando o revocando la sanción en un plazo de tres días más.
+Determinada la sanción, el infractor podrá solicitar reconsideración en el término de tres días, a partir de la fecha de la notificación, aportando las pruebas que estime pertinentes.
+
+El Titular de la Dependencia o entidad que aplicó la sanción, resolverá dentro de un plazo de tres días, confirmando, revocando o modificando la sanción.
 
 ## TITULO QUINTO (SIC)
 
 ### CAPITULO UNICO. INFORMACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
-> <small>(F. DE E., P.O. 11 DE MAYO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
 
 ###### ARTICULO 34.
 
-La Contraloría General del Estado, llevará un registro de la situación Patrimonial de los Servidores Públicos, según lo preceptuado en el Artículo siguiente.
+La Secretaría de la Contraloría del Estado llevará un registro de la situación patrimonial de los servidores públicos, según lo preceptuado en el artículo siguiente.
 
 ###### ARTICULO 35.
 
@@ -313,9 +353,23 @@ VII.- Los demás funcionarios y empleados que determine el Gobernador del Estado
 
 La información se presentará dentro de los sesenta días siguientes a la fecha en que se haya tomado posesión del cargo y treinta días después de haberlo dejado por cualquier motivo. Tal información se actualizará durante el mes de mayo de cada año.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1987)</small>
+
+La Secretaría de la Contraloría del Estado, requerirá a los servidores omisos para que cumplan con la obligación de declarar su situación patrimonial, concediéndoles un plazo máximo de 10 días y comunicar al Superior Jerárquico del servidor público, el incumplimiento; en caso de persistir dicho incumplimiento se aplicará lo establecido en el Artículo 33 de esta Ley. Tratándose de declaraciones finales, la Secretaría de la Contraloría requerirá por escrito directamente a los omisos y transcurrido el plazo del requerimiento, hará uso de los siguientes medios de apremio:
+
+I.- Requerimiento;
+
+II.- Sanción económica de hasta veinte días del salario mínimo más alto vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1987)</small>
+
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la Legislación Penal del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+
 ###### ARTICULO 37.
 
-La Contraloría General del Estado fijará las normas y requisitos para el rendimiento de la información, en forma clara y sencilla, teniendo facultades para solicitar en cualquier momento informaciones complementarias y la exhibición de los documentos conducentes, a fin de aclarar cualquier duda. Las informaciones no podrán hacerse nunca en beneficio de Terceros ni para fines ajenos a los de esta Ley.
+La Secretaría de la Contraloría del estado fijará las normas, criterios y requisitos para el rendimiento de la información, en forma clara y sencilla, teniendo facultades para solicitar en cualquier momento informaciones complementarias y la exhibición de los documentos conducentes, a fin de aclarar cualquier duda. Las informaciones no podrán usarse nunca en beneficio de terceros ni para fines ajenos a los de esta Ley.
 
 ###### ARTICULO 38.
 
@@ -325,17 +379,23 @@ Los Bienes Inmuebles o Muebles cuyo acervo y características influyan significa
 
 Para los efectos de esta Ley y del Código Penal, la información deberá referirse también a bienes que por cualquier concepto tenga o adquiera la esposa o esposo del Servidor Público y de sus dependientes económicos directos.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
+
 ###### ARTICULO 40.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente desproporcionados a los ingresos lícitos del Servidor Público, la Contraloría General, podrá ordenar, mediante acuerdo fundado y motivado, la investigación correspondiente.
+Cuado (sic) los signos exteriores de riqueza sean ostensibles y notoriamente desproporcionados a los ingresos lícitos del servidor público la Secretaría de la Contraloría del Estado podrá ordenar, mediante acuerdo fundado y motivado la investigación correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
 
 ###### ARTICULO 41.
 
-La Contraloría General hará saber al Servidor Público la iniciación y motivos de la investigación, para ser oído y recibirle la documentación o pruebas que estime pertinentes.
+La Secretaría de la Contraloría del Estado hará saber al servidor público la iniciación y motivos de la investigación, para ser oído y recibirle la documentación o pruebas que estime pertinentes.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1987)</small>
 
 ###### ARTICULO 42.
 
-Para cualquier investigación, la Contraloría General podrá valerse de Peritos. Este derecho corresponde también al servidor investigado.
+Para cualquier investigación, la Secretaría de la Contraloría podrá valerse de peritos. Este derecho corresponde también al servidor investigado.
 
 ###### ARTICULO 43.
 
@@ -364,3 +424,11 @@ El Secretario General de Gobierno,
 MAURICIO CLARK OVADIA.
 
 El Secretario de Finanzas.- LIC. RAUL ROBLES ALVAREZ.- El Secretario de Programación.- ING. RAMON W. LOPEZ VERDUGO.- El Secretario de Fomento Económico y Social.- HÉCTOR PONS DEL MONTE.- El Secretario de Desarrollo Urbano y Obras Públicas.- ING. HEINZ LESSER JONES.- El Secretario de Educación y Servicios Sociales.- LIC. MANUEL OROZCO IRIGOYEN.- El Procurador General de Justicia.- LIC. ENRIQUE GOMEZ GUERRA.- El Contralor General.- C.P. AGUSTIN PEREZ VILLASEÑOR.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ENERO DE 1987.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
