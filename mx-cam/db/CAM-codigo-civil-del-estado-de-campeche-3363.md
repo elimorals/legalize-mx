@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1961-08-29"
+last_updated: "1961-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "CAM"
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1961.
+
+> <small>[N. DE E. LA ACLARACIÓN PUBLICADA EN EL P.O. DE 31 DE AGOSTO DE 1961 NO APLICA AL ARTÍCULADO DEL DECRETO NO. 207 PUBLICADO EN EL P.O. DEL 29 DE AGOSTO DE 1961.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
