@@ -1,0 +1,222 @@
+---
+title: "REGLAMENTO QUE REGULA EL EJERCICIO DEL COMERCIO AMBULANTE DEL MUNICIPIO DE GENERAL BRAVO, NUEVO LEON"
+identifier: "NLE-reglamento-que-regula-el-ejercicio-del-comercio-ambulante-25826"
+country: "mx"
+rank: "reglamento"
+publication_date: "1999-06-30"
+last_updated: "1999-06-30"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25826&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle-020"
+scjn_id: "25826"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "78"
+reform_count: "0"
+scjn_last_update: "1999-06-30"
+issue_date: "1998-03-10"
+municipality: "General Bravo"
+municipality_inegi: "19020"
+state: "NLE"
+---
+# REGLAMENTO QUE REGULA EL EJERCICIO DEL COMERCIO AMBULANTE DEL MUNICIPIO DE GENERAL BRAVO, NUEVO LEON
+
+REGLAMENTO QUE REGULA EL EJERCICIO DEL COMERCIO AMBULANTE
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 30 de junio de 1999.
+
+EL C. PROFESOR LUIS LAURO ESPINO RODRIGUEZ, PRESIDENTE MUNICIPAL DE GENERAL BRAVO, NUEVO LEON, A TODOS LOS HABITANTES DE ESTE MUNIClPIO, HACE SABER:
+
+QUE EL R. AYUNTAMIENTO DE GENERAL BRAVO, NUEVO LEON, EN SESION ORDINARIA CELEBRADA EL DIA 10 DEL MES DE MARZO DE 1998, CON FUNDAMENTO EN LOS ARTICULOS 26 INCISO A, FRACCION VII, INCISO C, FRACCION VI, 27 FRACCION IV, Y DEL 160 AL 167 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON, ACORDO LA APROBACION Y EXPEDICION DEL REGLAMENTO QUE REGULA EL EJERCICIO DEL COMERCIO AMBULANTE, PARA ESTE MUNICIPIO.
+
+REGLAMENTO QUE REGULA EL EJERCICIO DEL COMERCIO AMBULANTE.
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+ART. 1.- El presente Reglamento tiene por objeto establecer las normas para el ejercicio del Comercio Ambulante, que se realice dentro del Municipio de General Bravo, Nuevo León.
+
+ART. 2.- Para los efectos de este reglamento, se considera Comercio Ambulante, la enajenación de bienes y la prestación de servicios con fines de lucro, que se realiza en la vía pública por personas físicas.
+
+ART. 3.- Para dedicarse a la actividad a que se refiere el artículo anterior, es necesario recabar el permiso respectivo otorgado por la Dirección de Autorizaciones y Permisos, y sujetarse, a las disposiciones del presente Reglamento, a las que dicte la propia Autoridad y en general a la legislación aplicable.
+
+### CAPITULO SEGUNDO. DE LOS PERMISOS
+
+ART. 4.- La obtención del permiso correspondiente por parte de los interesados previo el pago de los derechos correspondientes; estará sujeto al debido cumplimiento de los siguientes requisitos:
+
+I.- Presentar solicitud con fotografía reciente.
+
+II.- Someterse a un estudio socio-económico realizado por el Departamento de Trabajo Social del D.I.F. Municipal, para determinar si se encuentra en los supuestos del artículo 8 de este Reglamento.
+
+III.- Presentar en un término de 30 días naturales contados a partir del día siguiente al del otorgamiento del permiso, tarjeta de salud expedida por la Secretaría Estatal de Salud, en los términos del artículo 107 de la Ley Estatal de Salud.
+
+IV.- Si el solicitante es menor de edad pero mayor de 16 años, deberá estar autorizado por su padre o tutor para ejercer la actividad regulada por este ordenamiento.
+
+V.- Las demás que la propia Autoridad determine.
+
+ART. 5.- Solo podrá obtenerse (sic) el permiso la persona interesada, quien deberá tramitarlo, pudiendo designar un representante. Quienes obtengan más de un permiso, les serán cancelados administrativamente todos en forma inmediata, sin perjuicio de las sanciones a que hubiere lugar. Quien se encuentre en el supuesto anterior, no tendrá derecho a solicitar un nuevo permiso.
+
+ART. 6.- Los permisos en cuestión, deberán contener dentro de su texto, las obligaciones y condiciones a que se encuentre sujeto.
+
+ART. 7.- El ejercicio de esta actividad estará sujeto a las áreas que la propia Autoridad determine, salvaguardando aquellos que afecten el interés público, la vialidad o imagen urbana de acuerdo a la microzonificación que para el efecto se autorice.
+
+ART. 8.- Tendrá derecho preferencial en el otorgamiento de permisos, los jubilados, las personas de escasos recursos económicos, las de edad avanzada, los minusválidos y los menores de edad pero mayores de 16 años que sean sustento de sus familias siempre y cuando, cumplan con lo establecido en la fracción IV del Artículo 4, de este Reglamento.
+
+### CAPITULO TERCERO. DE LAS AUTORIDADES
+
+ART. 9.- Son autoridades competentes para conocer y aplicar las disposiciones del presente Reglamento, dentro de la esfera de su competencia:
+
+I.- El Presidente Municipal.
+
+II.- El Secretario del Ayuntamiento.
+
+III.- El Tesorero Municipal.
+
+ART. 10.- Las facultades de las autoridades mencionadas anteriormente, dentro de su competencia son:
+
+I.- Vigilar la correcta aplicación de este Reglamento.
+
+II.- Proponer las medidas necesarias tendientes al mejoramiento de la actividad regulada por este ordenamiento.
+
+III.- Resolver en un plazo no mayor de 15 días naturales, las solicitudes de permisos presentadas, para el ejercicio del comercio ambulante.
+
+IV.- Resolver los procedimientos de cancelación o suspensión de permisos a vendedores ambulantes.
+
+V.- Resolver las inconformidades que se promuevan en contra de sus resoluciones.
+
+VI.- Calificar las infracciones a este Reglamento.
+
+VII.- Señalar el monto de los derechos correspondientes y hacerlos efectivos.
+
+### CAPITULO CUARTO. DE LAS OBLIGACIONES
+
+ART. 11.- Las personas que se dediquen a ejercer el Comercio Ambulante deberán cumplir con las siguientes obligaciones:
+
+I.- Contar y portar en todo momento en el desempeño de su actividad, el permiso expedido por la autoridad competente.
+
+II.- Usar la vestimenta que la autoridad sanitaria determine.
+
+III.- Observar de manera permanente una estricta higiene personal.
+
+IV.- Sujetarse al horario establecido en el permiso.
+
+V.- No invadir las áreas restringidas por la autoridad municipal.
+
+VI.- Portar su tarjeta de salud.
+
+VII.- Usar material desechable para servir alimentos y contar con recipientes para .la basura.
+
+VIII.- No utilizar aparatos estridentes para el anuncio de sus mercancías.
+
+IX.- Abstenerse de tirar la basura en la vía pública.
+
+### CAPITULO QUINTO. DE LAS SANCIONES
+
+ART. 12.- Las sanciones por infracciones al presente Reglamento se aplicarán tomando en consideración:
+
+I.- La gravedad de la infracción.
+
+II.- Las condiciones socio-económicas del infractor.
+
+III.- El uso de documentos falsos o pertenecientes a terceros.
+
+IV.- La reincidencia.
+
+V.- Las demás circunstancias estimadas por la autoridad.
+
+ART. 13.- Las infracciones al presente Reglamento serán sancionadas con:
+
+I.- Amonestación.
+
+II.- Multa de una a diez veces del salario mínimo diario vigente en el área geográfica en la que se encuentra comprendido el Municipio, al momento de cometerse la infracción.
+
+III.- Suspensión temporal del permiso.
+
+IV.- Cancelación definitiva del permiso.
+
+ART. 14.- Los vendedores ambulantes que realicen la actividad regulada en este ordenamiento sin contar con el permiso correspondiente, serán retirados de la vía pública así como sus mercancías y medios de venta, sin perjuicio de la aplicación de la sanción correspondiente
+
+ART. 15.- Cuando las mercancías y los medios de venta sean retirados de la vía pública, por violación a las disposiciones del presente Reglamento, se depositarán en el lugar que señale la Autoridad Municipal, teniendo el infractor, un plazo de quince días naturales para recogerlas. Si transcurrido dicho plazo no son recuperadas las mercancías, se procederá a la venta de las mismas en subasta pública a fin de cubrir las sanciones que no hayan sido pagadas; de existir diferencia a favor del infractor, ésta quedará a su disposición en la Tesorería Municipal.
+
+Si las mercancías recogidas son perecederas, se procederá siempre y de inmediato a subastarlas y su importe quedará en la Tesorería Municipal, destinándose al pago de créditos pendientes del infractor; el remanente quedará a su disposición en dicha Dependencia.
+
+ART. 16.- Es causa de retiro de mercancías e implementos de trabajo de la vía pública, el no cumplir con lo dispuesto en las fracciones I y V del Artículo 11 de este Reglamento o no contar con el permiso correspondiente.
+
+ART. 17.- En caso de reincidencia se duplicará el monto de la multa correspondiente, entendiéndose como reincidente a quienes incurran por segunda ocasión en la misma falta dentro del período de tres meses.
+
+ART. 18.- Son causas de cancelación definitiva de los permisos, las siguientes:
+
+I.- Transferir el permiso concedido para desempeñar el comercio ambulante, sin el consentimiento de la Autoridad Municipal.
+
+II.- Tener dos o más permisos para la actividad regulada por este Reglamento.
+
+III.- No cumplir con las disposiciones sanitarias aplicables.
+
+IV.- Invadir zonas restringidas.
+
+### CAPITULO SEXTO. DEL RECURSO DE INCONFORMIDAD
+
+ART. 19.- Podrá interponerse el Recurso de Inconformidad contra resoluciones de la Autoridad que imponga las sanciones a que este Reglamento se refiere, cuando el interesado estime que no están debidamente fundadas y motivadas. Teniendo por objeto este recurso, que se confirmen, modifiquen o revoquen, a solicitud de parte interesada, las resoluciones ya mencionadas.
+
+ART. 20.- El Recurso de Inconformidad que interpongan los titulares de los permisos, se presentarán ante el C. Tesorero Municipal. Estos contarán con un plazo de quince días hábiles para la promoción del Recurso previsto a partir de la notificación.
+
+Admitido el Recurso, se fijará fecha y hora a fin de que tenga verificativo una audiencia de pruebas y alegatos, en la cual se desahogarán todas las pruebas ofrecidas y se recibirán por escrito los alegatos que se realicen.
+
+En la citada audiencia se admitirán toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+
+Las pruebas supervinientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+
+Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+
+Las demás pruebas quedarán a la prudente apreciación de la autoridad.
+
+Si por el enlace de las pruebas rendidas y de las presunciones formadas, la Autoridad adquiere convicción distinta acerca de los hechos materia del recurso, podrá valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
+
+ART. 21.- El Recurso mencionado deberá formularse por escrito y firmarse por el Recurrente o por su representante debidamente acreditado.
+
+El escrito deberá contener:
+
+I.- Nombre y domicilio del recurrente y en su caso, de quien promueve en su representación. Si fuesen varios los recurrentes, el nombre y domicilio de su representante común.
+
+II.- El interés legítimo y específico que asiste al recurrente.
+
+III.- La Autoridad o Autoridades que dictaron el acto recurrido.
+
+IV.- La mención precisa del acto de Autoridad que motiva la interposición del recurso.
+
+V.- Los conceptos de violación o en su caso las objeciones a la sanción reclamada.
+
+VI.- Las pruebas que se ofrezcan, y que tengan relación inmediata y directa con la resolución impugnada, debiendo acompañar las documentales con que se cuente, incluidas las que acrediten su personalidad, cuando se actúe en nombre de otro.
+
+VII.- El lugar y la fecha de promoción.
+
+ART. 22.- Dentro de un término no mayor de quince días hábiles después de concluida la audiencia de pruebas y de alegatos, mediante resolución la Autoridad confirmará, modificará o revocará el acto recurrido. Si no lo hiciere en este término, el Recurso se entenderá resuelto a favor del inconforme. Contra la resolución que se pronuncie no procede recurso alguno.
+
+ART. 23.- La admisión del Recurso previsto, suspenderá la ejecución de las sanciones pecuniarias.
+
+ART. 24.- Las resoluciones del R. Ayuntamiento son irrecurribles.
+
+### CAPITULO SEPTIMO. DEL PROCEDIMIENTO DE REVISION Y CONSULTA
+
+ART. 25.- En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo 'de las actividades productivas, y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
+
+ART. 26.- Para garantizar la participación ciudadana en la revisión para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del R. Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del R. Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas (sic) disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
+
+Es dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de General Bravo, Nuevo León, por lo que mando se imprima, publique, circule y se le dé el debido cumplimiento a los 10 días del mes de Marzo de 1998.
+
+C. PROFR. LUIS LAURO ESPINO RODRIGUEZ.
+
+PRESIDENTE MUNICIPAL.
+
+C.Q.F.B. LUIS A. MARTINEZ RODRIGUEZ.
+
+SECRETARIO DEL R. AYUNTAMIENTO.
