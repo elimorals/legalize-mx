@@ -4,7 +4,7 @@ identifier: "NLE-ley-electoral-del-estado-de-nuevo-leon-10625"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-13"
-last_updated: "1996-12-13"
+last_updated: "1997-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ELECTORAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 13 de diciembre de 1996.
 
@@ -2987,6 +2987,10 @@ Artículo Noveno: Para el proceso electoral de 1997, los integrantes de la Coord
 
 Artículo Décimo: Por esta única vez las Comisiones Municipales Electorales se integrarán e instalarán a más tardar el día 15 de Febrero de 1997.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1997)</small>
+
+Artículo Décimo Primero: Durante el proceso electoral de 1997, los partidos políticos que teniendo registro nacional no cuenten con representación en el Congreso del Estado, tendrán derecho a que se les otorgue financiamiento público para actividades ordinarias y para gastos de campaña, el cual será calculado en forma equivalente a que hubieran obtenido el 1.5% de la votación en la última elección de diputados, sin menoscabo de la aplicación de lo establecido por esta Ley en materia de financiamiento de los partidos políticos. También tendrán derecho a que se les otorguen subvenciones para actividades extraordinarias en los términos del artículo 50 fracción III de esta Ley.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los doce días del mes de Diciembre de mil novecientos noventa y seis. PRESIDENTE: DIP. JESUS JAVIER AYALA VILLARREAL.- DIP. SECRETARIO: RUBEN MARTINEZ SECA. DIP. SECRETARIO: HECTOR MARIO SANCHEZ SERNA. Rúbricas.
@@ -3000,3 +3004,9 @@ BENJAMIN CLARIOND REYES-RETANA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JUAN FRANCISCO RIVERA BEDOYA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE ENERO DE 1997.
+
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
