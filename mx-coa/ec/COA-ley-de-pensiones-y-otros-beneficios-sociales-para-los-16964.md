@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-16964"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-19"
-last_updated: "2000-08-29"
+last_updated: "2000-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACION PUBLICA DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 19 de noviembre de 1999.
 
@@ -109,49 +109,81 @@ El Periódico Oficial del Gobierno del Estado hará gratuitamente las publicacio
 
 #### SECCION SEGUNDA. DEL PATRIMONIO DE LA DIRECCION DE PENSIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 11.
 
-El patrimonio de la Dirección de Pensiones y el monto de la cuenta individual del trabajador a que se refiere el artículo 82 de esta ley, se constituirán de la siguiente manera:
+El patrimonio de la Dirección de Pensiones que se dividirá en los términos de la fracción III de este artículo y el monto de la cuenta individual del trabajador a que se refiere el artículo 82 de esta ley, se constituirá de la manera siguiente:
 
 I. Respecto a las prestaciones de que trata el artículo 41 de la presente ley, las entidades, los organismos y los trabajadores afiliados al régimen de la Dirección de Pensiones, aportarán obligatoriamente a ésta, las cantidades siguientes:
 
 a) Para el financiamiento de la pensión de retiro por edad y antigüedad en el servicio, las entidades y organismos previstas en las fracciones I, II y V del artículo 2° de esta ley, aportarán el 9% del sueldo tabular y quinquenio o prima de antigüedad, en su caso, de los trabajadores que dependen de ellas; y las entidades y organismos a que se refieren las fracciones III y IV del artículo señalado aportarán el 9% del sueldo base de los trabajadores que dependen de ellas. Asimismo, para financiar esta pensión, los trabajadores aportarán el 6.5% de sus percepciones totales. Estas aportaciones, tanto de los trabajadores como de las entidades y organismos, integran la cuenta individual del trabajador.
 
-b) Para el financiamiento de las pensiones complementarias por invalidez, fallecimiento, por retiro anticipado, pensión mínima garantizada, y de las demás prestaciones que se establezcan en la ley, las entidades y organismos previstas en las fracciones I, II y V del artículo 2° de esta ley, aportarán el 13% del sueldo tabular y quinquenio o prima de antigüedad, en su caso, de los trabajadores que dependen de ellas; y las entidades y organismos a que se refieren las fracciones III y IV del artículo señalado aportarán el 13% del sueldo base de los trabajadores que dependen de ellas. Estas aportaciones integran el fondo global de la Dirección de Pensiones e incrementan su patrimonio; y
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-II. El Fondo Global de la Dirección de Pensiones a que se refiere el inciso b) de la fracción anterior, se incrementará:
+b) Para el financiamiento de las pensiones complementarias por invalidez, fallecimiento, por retiro anticipado, pensión mínima garantizada, y de las demás prestaciones que se establezcan en la ley, las entidades y organismos previstas en las fracciones I, II y V del artículo 2° de esta ley, aportarán el 13% del sueldo tabular y quinquenio o prima de antigüedad, en su caso, de los trabajadores que dependen de ellas; y las entidades y organismos a que se refieren las fracciones III y IV del artículo señalado aportarán el 13% del sueldo base de los trabajadores que dependen de ellas. Estas aportaciones integran el fondo global de las cuentas institucionales e incrementarán el patrimonio.
 
-a) Con los intereses, rentas y demás utilidades que se obtengan de las inversiones del fondo global que conforme a esta ley realice la Dirección de Pensiones. Las tasas de interés que obtenga el fondo global deberán ser iguales a las que obtengan las cuentas individuales, para lo cual deberá observarse lo dispuesto por el artículo 83 de esta ley;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-b) Con el importe de los créditos e intereses que prescriban a favor del fondo global;
+II. El fondo global de las cuentas institucionales a que se refiere el inciso b) de la fracción anterior, se incrementará:
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+a) Con los intereses, rentas y demás utilidades que se obtengan de las inversiones del fondo global de las cuentas institucionales que conforme a esta ley realice la Dirección de Pensiones. Las tasas de interés que obtenga el fondo global deberán ser iguales a las que obtengan las cuentas individuales, para lo cual deberá observarse lo dispuesto por el artículo 83 de esta ley;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+b) Con el importe de los créditos e intereses que prescriban a favor del fondo global que integran las cuentas institucionales.
 
 c) Con el producto de las sanciones pecuniarias de las que sea acreedora la Dirección de Pensiones;
 
-d) Con las donaciones, herencias y legados que se hicieren a favor de la Dirección de Pensiones; y
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+d) Con las donaciones, herencias y legados que se hicieren a favor de las respectivas cuentas institucionales.
 
 e) Con cualquier otro beneficio económico legítimo.
 
 La falta del entero, dentro del plazo señalado, causará un cargo en contra de la entidad u organismo equivalente a 1.5 veces el costo porcentual promedio mensual vigente en los días en que se incurra en la mora y hasta en tanto éstas se cubran.
 
-Todas las cuotas y aportaciones deberán depositarse en el fondo de prestaciones económicas, para lo cual debe constituirse un fideicomiso ante institución fiduciaria autorizada por la ley de la materia, sin perjuicio de que la Dirección lleve un registro individualizado de las cuotas y aportaciones a la cuenta individual del trabajador.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-Sólo podrán egresar del fondo fideicomitido los recursos necesarios para el pago de los beneficios consignados en esta ley y para el pago de gastos de administración de la Dirección de Pensiones. Los gastos de administración se harán con cargo al fondo global de la Dirección de Pensiones.
+Todas las cuotas y aportaciones deberán depositarse en el fondo de prestaciones económicas de las respectivas cuentas institucionales y serán administradas de conformidad con el último párrafo de la fracción III de este artículo; para lo cual la Dirección de Pensiones deberá constituir un fideicomiso ante institución fiduciaria autorizada por la ley de la materia, sin perjuicio de que lleve un registro de cada una de las cuotas y aportaciones a la cuenta individual del trabajador.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Sólo podrán egresar del fondo fideicomitido los recursos necesarios para el pago de los beneficios consignados en esta ley y para el pago de gastos de administración de la Dirección de Pensiones. Los gastos de administración se harán con cargo al fondo global de cada una de las cuentas institucionales, respectivamente.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+III.- El patrimonio de la Dirección de Pensiones que se forme en los términos previstos en las fracciones que anteceden, se dividirá en tres cuentas institucionales independientes y autónomas entre sí, en los términos de la presente ley.
+
+Estas cuentas institucionales se integrarán con todas y cada una de las aportaciones que establece esta ley por cada entidad u organismo, en el monto que corresponda a ellas conforme a su plantilla de trabajadores afiliados y pensionados a la Sección 38 del SNTE, a la Universidad Autónoma de Coahuila y a la Universidad Autónoma Agraria "Antonio Narro", respectivamente. Para todos los efectos legales, las instituciones que se comprendan en la fracción V del artículo 2º de la presente ley, se entenderán integradas dentro de la cuenta institucional de la Sección 38 del SNTE.
+
+Cada cuenta institucional deberá ser destinada únicamente a cubrir las pensiones y demás prestaciones y beneficios a los trabajadores afiliados y pensionados de cada una de las entidades u organismos aportantes, según corresponda, sin que, por ningún motivo, puedan ser destinados los recursos que integren cada cuenta institucional a otros fines o propósitos distintos a los señalados por esta ley. En su caso, los gastos que se ocasionen por la administración de las cuentas institucionales por los propios Comités de Administración correrán a cargo de su fondo global respectivo.
+
+La administración, control, supervisión y disposición de las cuentas institucionales estará a cargo de Comités de Administración: Se integrará un Comité por cada una de las cuentas institucionales, en los términos previstos por el artículo 25 A de esta ley. Cada Comité de administración, según corresponda, podrá celebrar acuerdos con la Dirección de Pensiones para que ésta auxilie o sustituya en forma parcial o total las funciones que establece esta ley para cada Comité; en cuyo caso la función o funciones que se asuman correrán a cargo de la Dirección de Pensiones.
 
 ###### ARTICULO 12.
 
 La Dirección de Pensiones se considera de acreditada solvencia y no está obligada a constituir depósitos o fianzas legales.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 13.
 
-Los bienes, derechos y fondos que administre la Dirección de Pensiones en ningún caso y por ninguna autoridad se podrá disponer de ellos, ni a título de préstamo reintegrable.
+No se podrá disponer en ningún caso y por ninguna autoridad del patrimonio de la Dirección de Pensiones, ni a título de préstamo reintegrable, para fines o propósitos distintos a los previstos por esta ley.
 
 ###### ARTICULO 14.
 
 Las entidades y organismos que se mencionan en el artículo 2° de esta ley no adquirirán derecho alguno, ni individual, ni colectivo, sobre el fondo global o patrimonio de la Dirección de Pensiones. El trabajador sólo adquirirá derechos sobre su cuenta individual y sólo podrá hacer uso de ella en los términos de esta ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 15.
 
-Las aportaciones de las entidades y organismos y las cuotas de los trabajadores previstas en el artículo 11, serán entregadas a la Dirección de Pensiones dentro de los cinco días siguientes a la fecha del pago de los sueldos de los trabajadores.
+Las aportaciones de las entidades y organismos y las cuotas de los trabajadores previstas en el artículo 11, serán entregadas a los Comités de Administración de las cuentas institucionales respectivas, dentro de los cinco días hábiles siguientes a la fecha del pago de los sueldos de los trabajadores, sin perjuicio de lo previsto en el último párrafo de la fracción III del artículo 11 de esta ley.
+
+El Comité de Administración de cada cuenta institucional después de que reciba los recursos entregará a la Dirección de Pensiones la cantidad correspondiente para cubrir los gastos de administración a que se refiere el artículo 22 de esta ley.
 
 ###### ARTICULO 16.
 
@@ -183,9 +215,11 @@ Las dependencias y entidades a que se refiere el artículo 2° de esta ley, est�
 
 #### SECCION TERCERA. DE LA INVERSION Y GASTOS DE LA DIRECCION DE PENSIONES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 22.
 
-Serán a cargo de la Dirección de Pensiones los sueldos y gastos ordinarios y extraordinarios entre los que se incluye la adquisición y mantenimiento de bienes muebles y la conservación de bienes inmuebles que acuerde su Consejo Directivo como parte de su patrimonio. En ningún caso el monto de los gastos ordinarios y extraordinarios deberá exceder del 1.5% de la nómina integrada del personal activo afiliado a la Dirección de Pensiones. Los gastos a que se refiere este artículo se harán con cargo al fondo global.
+Serán a cargo de la Dirección de Pensiones los sueldos y gastos ordinarios y extraordinarios entre los que se incluye la adquisición y mantenimiento de bienes muebles y la conservación de bienes inmuebles que acuerde su Consejo Directivo como parte de su patrimonio. En ningún caso el monto de los gastos ordinarios y extraordinarios deberá exceder del 1.5% de la nómina integrada del personal activo afiliado a la Dirección de Pensiones. Este porcentaje se destinará a los gastos de administración de la Dirección de Pensiones.
 
 ###### ARTICULO 23.
 
@@ -209,9 +243,11 @@ VI. Las reservas creadas por la Dirección de Pensiones para hacer frente a sus 
 
 #### SECCION CUARTA. DE LOS ORGANOS DE GOBIERNO Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 25.
 
-El órgano máximo de gobierno de la Dirección de Pensiones será un Consejo Directivo que se compondrá de siete miembros, designados de la siguiente manera:
+El órgano máximo de gobierno de la Dirección de Pensiones será un Consejo Directivo que se compondrá de trece miembros, designados de la siguiente manera:
 
 I. Uno nombrado por el Gobierno del Estado;
 
@@ -219,19 +255,69 @@ II. Uno por la Universidad Autónoma de Coahuila;
 
 III. Uno por la Universidad Autónoma Agraria "Antonio Narro";
 
-IV. Tres designados por la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-V. Uno nombrado por las cuatro instancias a que se refieren las fracciones anteriores, el cual desempeñará el cargo de Presidente del Consejo.
+IV. Siete representantes por la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación;
 
-De entre los miembros restantes, determinarán de entre ellos mismos, los cargos de un Secretario, un Tesorero y cuatro Comisarios.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-Ningún miembro del Consejo podrá ser al mismo tiempo empleado o funcionario de la Dirección de Pensiones.
+V. Uno por el Sindicato de los Trabajadores de la Universidad Autónoma de Coahuila; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+VI.- Uno por cada uno de dos Sindicatos de la Universidad Autónoma Agraria "Antonio Narro".
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+De entre y por todos los miembros del Consejo Directivo señalados en las fracciones que anteceden, se nombrarán al Presidente del Consejo, un Secretario, un Tesorero y diez Comisarios.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Ningún miembro del Consejo podrá ser al mismo tiempo empleado de la Dirección de Pensiones.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 25 A.- Cada Comité de Administración a que se refiere la última parte de la fracción III del artículo 11, se integrará de la manera siguiente:
+
+I.- Por la Sección 38 del SNTE.
+
+a) Dos representantes de la Sección 38 del SNTE;
+
+b) Dos representantes del poder ejecutivo del estado; y
+
+c) Un presidente, que lo será el presidente del Consejo Directivo a que se refiere el artículo 25 de esta Ley.
+
+II.- Por la Universidad Autónoma de Coahuila.
+
+a) Un representante de la Universidad Autónoma de Coahuila;
+
+b) Un representante del Sindicato de Trabajadores de la Universidad Autónoma de Coahuila; y
+
+c) Un presidente, que lo será el Director Financiero de la Dirección de Pensiones.
+
+III.- Por la Universidad Autónoma Agraria "Antonio Narro".
+
+a) Un representante por cada uno de los dos Sindicatos de la Universidad Autónoma Agraria "Antonio Narro".
+
+b) Dos representantes de la Universidad Autónoma Agraria "Antonio Narro".
+
+c) Un representante del poder ejecutivo del estado; y
+
+d) Un presidente, que lo será uno de los dos representantes de la institución aportante.
+
+De entre los miembros que representen a la institución u organismo al que corresponda la cuenta institucional, se designarán a un Secretario y a un Tesorero. Los restantes miembros fungirán como comisarios.
+
+Los cargos que desempeñen los miembros de cada Comité de Administración serán honoríficos para los efectos de la Dirección de Pensiones. Cada institución u organismo aportante de que se trate podrá gratificar a los miembros de su Comité, respectivamente, con cargo a su patrimonio.
+
+Podrán participar en las sesiones con voz pero sin voto en cada Comité de Administración, el Director Financiero de la Dirección de Pensiones y un representante de los otros Comités de Administración, distinto a la cuenta institucional a que se integre.
 
 ###### ARTICULO 26.
 
 El Titular del Ejecutivo del Estado nombrará a un Director Financiero, que tendrá las facultades y obligaciones siguientes:
 
-I. Asistir a las sesiones del Consejo Directivo con voz, pero sin voto;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+I. Asistir a las sesiones del Consejo Directivo y de los Comités de la Administración con voz pero sin voto, a excepción de cuando concurra en su carácter de Presidente del Comité de Administración de la Universidad Autónoma de Coahuila, en donde además tendrá voto;
 
 II. Supervisar que los recursos financieros se destinen de manera exclusiva a los gastos propios de operación de la Dirección de Pensiones, conforme a lo dispuesto por esta ley;
 
@@ -247,59 +333,89 @@ VII. Vigilar la correcta aplicación de las observaciones y sugerencias resultad
 
 VIII. Las demás que le asigne la presente y (sic) ley demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 27.
 
-Para que la Dirección de Pensiones pueda realizar las atribuciones que en forma expresa le otorga esta ley, el Consejo Directivo será el representante legal de la misma, para cuyo exclusivo efecto estará dotado de un mandato general para pleitos y cobranzas, actos de administración y actos de dominio, con todas las facultades generales y las especiales que requieren cláusula especial, conforme a la ley, en los términos de lo dispuesto por el artículo 2248 del Código Civil del Estado de Coahuila y su correlativo el artículo 2554 del Código Civil para el Distrito y Territorios Federales aplicable en toda la República en materia federal. Como consecuencia de estas facultades el Consejo Directivo podrá enunciativa y no limitativamente:
+El Consejo Directivo tendrá las atribuciones siguientes:
 
-I.- Cumplir y hacer cumplir con exactitud las disposiciones de esta ley;
+I. Representar legalmente a la Dirección de Pensiones, para cuyo efecto estará dotado de un mandato general para pleitos y cobranzas, actos de administración y actos de dominio, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la ley, en los términos de lo dispuesto por el artículo 3008 del Código Civil de Coahuila y su correlativo el artículo 2248 del Código Civil para el Distrito Federal.
 
-II. Otorgar y administrar los diversos servicios que compete prestar a la Dirección de Pensiones;
+Cuando se trate de actos de dominio que competan a los Comités de Administración respecto de los recursos que integran sus cuentas institucionales, el Consejo Directivo requerirá de la previa autorización de aquellos para contar con la representación legal a que se refiere el párrafo que antecede, en la que corresponda al Comité de Administración de que se trate;
 
-III. Realizar toda clase de actos o negocios jurídicos, que requiera el buen servicio y gobierno de la Dirección de Pensiones, de acuerdo con las estipulaciones contenidas en esta ley;
+II. Cumplir y hacer cumplir con exactitud las disposiciones de esta ley;
 
-IV. Sustituir las facultades para actos de administración y para pleitos y cobranzas, y revocar las sustituciones que haga;
+III. Otorgar y administrar, en la esfera de su competencia, los servicios, prestaciones y beneficios que compete prestar a la Dirección de Pensiones;
 
-V. Suscribir, firmar, endosar, avalar, girar o en cualquiera otra forma comprometer a la Dirección de Pensiones, en cheques, pagarés, letras de cambio o cualesquier otros títulos de crédito, en los términos del artículo 9 de la Ley General de Títulos y Operaciones de Crédito;
+IV. Realizar toda clase de actos o negocios jurídicos que requiera el buen servicio de la Dirección de Pensiones, de conformidad a las estipulaciones contenidas en esta ley;
 
-VI. Desistirse del juicio de amparo;
+V. Delegar las facultades para actos de administración y para pleitos y cobranzas y revocar las sustituciones que haga, en la esfera de su competencia;
 
-VII. Organizar sus dependencias y fijar la estructura y funcionamiento de las mismas;
+VI. Suscribir, firmar, endosar, avalar, girar o en cualquier otra forma comprometer a la Dirección de Pensiones en cheques, pagarés, letras de cambio o cualesquier otros títulos de crédito, en los términos del artículo 9º de la Ley General de Títulos y Operaciones de Crédito. Cuando se trate de actos que competan a los Comités de Administración respecto de los recursos que integran sus cuentas institucionales, el Consejo Directivo requerirá de la previa autorización de aquellos para contar con la facultad a que se refiere el párrafo que antecede, en lo que corresponda al Comité de Administración de que se trate;
 
-VIII. Vigilar la oportuna concentración de cuotas, aportaciones y demás recursos que ingresen a la Dirección de Pensiones;
+VII. Desistirse del juicio de amparo o de cualquier otro procedimiento legal;
 
-IX. Vigilar las operaciones de inversión del fondo de la Dirección de Pensiones;
+VIII. Organizar sus unidades administrativas y fijar la estructura y funcionamiento de las mismas, así como nombrar al personal de base y de confianza de la Dirección de Pensiones;
 
-X. Conceder pensiones y efectuar la revisión de los expedientes relativos, en los términos de esta ley;
+IX. Vigilar la oportuna concentración de cuotas, aportaciones y demás recursos que ingresen a la Dirección de Pensiones;
+
+X. Vigilar las operaciones de inversión del Patrimonio de la Dirección de Pensiones;
 
 XI. Nombrar al Administrador de la Dirección de Pensiones;
 
-XII. Nombrar al personal de base y de confianza de la Dirección de Pensiones;
+XII. Aprobar y autorizar la vigencia de los reglamentos generales y sobre el patrimonio, lo económico y demás tópicos necesarios para el funcionamiento de la Dirección de Pensiones;
 
-XIII. Aprobar y poner en vigor los reglamentos generales y el económico de la administración de la Dirección de Pensiones;
+XIII. Discutir y aprobar el presupuesto general de egresos de la Dirección de Pensiones, el cual será presentado por el Administrador, mismo que se basará en los resultados y recomendaciones del estudio actuarial correspondiente;
 
-XIV. Discutir y aprobar el presupuesto general de egresos de la Dirección de Pensiones, el cual le será presentado por el Administrador, mismo que se basará en los resultados y recomendaciones del estudio actuarial;
+XIV. Otorgar gratificaciones de fin de año a los empleados de la Dirección de Pensiones;
 
-XV. Otorgar gratificaciones de fin de año a los empleados de la Dirección de Pensiones;
+XV. Conceder licencias con goce o sin goce de sueldo, hasta por tres meses a sus miembros;
 
-XVI. Conceder licencias hasta por tres meses a sus miembros;
+XVI. Adquirir los bienes muebles necesarios para el cumplimiento del objeto de la Dirección de Pensiones;
 
-XVII. Adquirir los bienes muebles necesarios para la realización de sus fines;
+XVII. Autorizar con la firma de todos sus miembros las actas de las sesiones ordinarias y extraordinarias que celebre;
 
-XVIII. Recomendar ante las autoridades competentes las reformas que estime pertinentes a esta ley;
+XVIII. Fijar los lineamientos para la operatividad de la Dirección de Pensiones;
 
-XIX. Autorizar con la firma de todos sus miembros las actas de las sesiones ordinarias y extraordinarias que celebre;
+XIX. Imponer las sanciones establecidas en el Capítulo Sexto de esta ley y solicitar la aplicación de aquellas cuya fijación y ejecución sea competencia de otra autoridad, de conformidad con el citado Capítulo Sexto;
 
-XX. Imponer las sanciones establecidas en el Capítulo Sexto de esta ley, y solicitar la aplicación de aquellas cuya fijación y ejecución sea competencia de otra autoridad, de conformidad con el citado Capítulo Sexto; y
+XX. Las demás que les confieran esta ley y el reglamento.
 
-XXI. Las demás que les señale esta ley y su reglamento.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 27 A. Corresponderán a cada uno de los Comités de Administración las atribuciones siguientes:
+
+I. Otorgar y administrar, en la esfera de su competencia, las prestaciones y beneficios que correspondan por cada cuenta institucional, en los términos de esta ley;
+
+II. Realizar toda clase de actos o negocios jurídicos respecto de los recursos que integren las cuentas institucionales para cumplir las prestaciones y beneficios sociales que establece esta ley. En este caso, deberá poner en conocimiento al Consejo Directivo;
+
+III. Administrar, disponer, supervisar, controlar y vigilar en los términos de esta ley, los recursos que integren la cuenta institucional respectiva. En este caso, deberá poner en conocimiento al Consejo Directivo;
+
+IV. Conceder pensiones y efectuar la revisión de los expedientes relativos, en los términos de esta ley. En este caso, deberá poner en conocimiento al Consejo Directivo;
+
+V. Designar de entre sus miembros a un Secretario, un Tesorero y los Comisarios, así como a quienes participarán como representantes ante los comités de conformidad con el último párrafo del artículo 25 A;
+
+VI. Autorizar con la firma de todos sus miembros las actas de las sesiones ordinarias y extraordinarias que celebren;
+
+VII. Aprobar y aplicar el reglamento particular de la administración de la cuenta institucional que proponga el presidente de cada Comité de Administración;
+
+VIII.- Celebrar convenios con la Dirección de Pensiones en los términos del último párrafo de la fracción III del artículo 11 de esta ley;
+
+IX. Las demás que les confieran esta ley y el reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 28.
 
-El Consejo de la Dirección de Pensiones sesionará cuando menos una vez por mes. Las sesiones serán válidas con la asistencia del Presidente y cuatro de los miembros del Consejo.
+El Consejo Directivo de la Dirección de Pensiones sesionará de manera ordinaria cuando menos una vez por mes y extraordinariamente cuando fuere necesario previa convocatoria de su presidente. Las sesiones serán válidas con la asistencia del Presidente y seis de sus miembros. Los acuerdos y resoluciones del Consejo Directivo, en la esfera de su competencia, serán válidas y obligan a las instituciones aportantes cuando sean acordadas por la simple mayoría de sus miembros presentes.
+
+Los Comités de Administración sesionarán de manera ordinaria cada mes y de manera extraordinaria cuando fuere necesario previa convocatoria de su presidente. Las sesiones serán válidas con la asistencia del Presidente y la mayoría simple de sus miembros con derecho a voto. Por mayoría simple se entiende la mitad más uno de los miembros de cada Comité de Administración respectivamente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 29.
 
-Las decisiones del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes y en caso de empate el Presidente tendrá voto de calidad.
+Las decisiones del Consejo Directivo y de los Comités de Administración se tomarán por simple mayoría de votos de los miembros presentes en las sesiones; en caso de empate, el presidente correspondiente tendrá voto de calidad.
 
 #### SECCION QUINTA. DE LOS MIEMBROS DEL CONSEJO DIRECTIVO
 
@@ -323,7 +439,9 @@ Para ser miembro del Consejo Directivo se requiere:
 
 I. Ser ciudadano mexicano por nacimiento;
 
-II. Ser, en su caso, miembro activo de la sección 38 del Sindicato Nacional de los Trabajadores de la Educación;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+II. Ser trabajador activo de las entidades u organismos a que se refiere el artículo 2º de esta ley;
 
 III. No desempeñar cargo alguno de elección popular, aun en el caso de no estar en funciones; y
 
@@ -408,6 +526,76 @@ III. Vigilar que los beneficios sociales que establece esta ley, se otorguen con
 IV. Poner en conocimiento del Consejo Directivo las irregularidades que observen en el manejo de los fondos de la Dirección de Pensiones y en la prestación de los servicios y beneficios sociales que establece esta ley; y
 
 V. Las demás que les señale esta ley y los reglamentos correspondientes.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 38 A. Son facultades de los Presidentes de los Comités de Administración las siguientes:
+
+I. Ejecutar los acuerdos del Comité de Administración que presidan, salvo disposición en contrario de éste y con excepción de aquellas resoluciones que, de conformidad con esta ley, la ejecución corresponda al Administrador de la Dirección de Pensiones;
+
+II. Exigir al Administrador de la Dirección de Pensiones el estricto cumplimiento de esta ley y de los acuerdos del Comité de Administración que presidan;
+
+III. Suscribir, firmar, endosar, avalar, girar cheques, pagarés, letras de cambio o cualesquier otros títulos de crédito para cumplir los fines que establece esta ley, en cumplimiento de los acuerdos de los Comités de Administración que presidan. Esta facultad podrá delegarse mediante autorización expresa otorgada por el comité de Administración que corresponda;
+
+IV. Someter a la consideración del Comité de Administración respectivo, todas aquellas cuestiones que sean de la competencia del mismo;
+
+V. Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes, de obvia resolución, que sean de la competencia del Comité de Administración que presidan, cuando éste no pueda reunirse de inmediato, a reserva de dar cuenta pormenorizada al mismo, a la brevedad posible;
+
+VI. Vigilar, en la esfera de su competencia, el cumplimiento de esta ley, su reglamento y los acuerdos del Comité de Administración que presidan;
+
+VII. Convocar al Comité de Administración que corresponda a sesiones ordinarias o extraordinarias, con estricta observancia de las disposiciones contenidas en este ordenamiento;
+
+VIII. Autorizar con su firma la contabilidad de la cuenta institucional que corresponda;
+
+IX. Firmar, en unión del Tesorero del Comité de Administración respectivo, los documentos relativos al manejo de la cuenta institucional correspondiente;
+
+X. Proponer a la consideración del Comité de Administración el reglamento particular de la administración de la cuenta institucional; y
+
+XI. Las demás que les señalen esta ley y su reglamento u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 38 B. Son facultades y obligaciones de los Secretarios de los Comités de Administración, las siguientes:
+
+I. Formular las actas de las sesiones ordinarias y extraordinarias del Comité de Administración que corresponda y someterlas a la consideración del mismo en la sesión siguiente, para su aprobación o corrección;
+
+II. Despachar de acuerdo con el Presidente del Comité de Administración respectivo, la correspondencia del Comité correspondiente;
+
+III. Auxiliar al Presidente del Comité de Administración respectivo en sus funciones;
+
+IV. Convocar, por acuerdo del Presidente del Comité de Administración correspondiente, a los miembros del mismo a las sesiones que habrán de celebrarse; y
+
+V. Las demás que les señale esta ley y su reglamento u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 38 C. Son facultades y obligaciones de los Tesoreros de los Comités de Administración, las siguientes:
+
+I. Suscribir, firmar, endosar, avalar, girar cheques, pagarés, letras de cambio o cualquier otro título de crédito para los fines que establece esta ley, en forma mancomunada con el presidente del Comité de Administración y en cumplimiento a los acuerdos del Comité de Administración respectivo;
+
+II. Llevar y autorizar con su firma y la del Presidente del Comité de Administración correspondiente, el manejo y la contabilidad de la cuenta institucional;
+
+III. Exigir, en el ámbito de su competencia, el pago oportuno de las cuotas y aportaciones que conforme a esta ley deba percibir la cuenta institucional respectiva;
+
+IV. Rendir informes contables en los términos que se determinen en esta ley y su reglamento y los que el Comité de Administración respectivo le solicite;
+
+V. Caucionar mediante fianza el buen desempeño de su cargo en los términos que disponga el Comité de Administración. En este caso, deberá considerar la opinión del Consejo Directivo, y
+
+VI. Las demás que les señalen esta ley y su reglamento u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 38 D. Son facultades y obligaciones de los Comisarios de los Comités de Administración, las siguientes:
+
+I. Inspeccionar, cuando lo estimen necesario, los libros de contabilidad y documentos que correspondan a la cuenta institucional cuya administración, control, supervisión y vigilancia competa al Comité de Administración del cual formen parte;
+
+II. Exigir cuando lo consideren conveniente al Presidente del Comité de administración respectivo o al Administrador de la Dirección de Pensiones, el estado contable de la cuenta institucional que les competa, así como la demás información que requieran para el buen desempeño de sus funciones;
+
+III. Vigilar, en la esfera de su competencia, que los beneficios sociales que establece esta ley se otorguen con estricto apego a la misma;
+
+IV. Poner en conocimiento del Comité de Administración respectivo, las irregularidades que observen en el manejo de las cuentas institucionales y en la prestación de los servicios y beneficios que establece esta ley; y
+
+V. Las demás que les señale esta ley y su reglamento u otras disposiciones aplicables.
 
 #### SECCION SEXTA. DE LA ADMINISTRACION DE LA DIRECCION DE PENSIONES
 
@@ -1031,6 +1219,22 @@ El monto del préstamo será documentado con títulos de crédito a favor de la 
 
 Los adeudos por préstamos a corto plazo que después de tres meses de su vencimiento no fuesen cubiertos por el trabajador o pensionado, y que no hayan sido descontados de las percepciones correspondientes, por cualquier circunstancia que sea, podrán ser cobrados después de agotarse las gestiones extrajudiciales, mediante la acción legal correspondiente, que deberá ejercitar la Dirección de Pensiones.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 109 BIS. Los trabajadores que formen parte del sistema pensionario de esta ley, tendrán derecho a préstamos hipotecarios. Los préstamos hipotecarios se destinarán a los fines siguientes:
+
+I. La adquisición de terrenos para edificar la casa habitación del trabajador;
+
+II. La adquisición de la casa habitación del trabajador;
+
+III. Para efectuar reparaciones y/o mejoras a la casa habitación del trabajador;
+
+IV. Para la redención de gravámenes que soporten los inmuebles propiedad del trabajador;
+
+V. Para cualquier otro fin hipotecario que autorice cada Comité de Administración en beneficio social de sus trabajadores afiliados.
+
+Estos préstamos hipotecarios serán a cargo de las cuentas institucionales según corresponda y previa autorización del Comité de Administración respectivo. Para los trabajadores afiliados a la Sección 38 del SNTE será aplicable la Ley del Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios.
+
 ### CAPITULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### ARTICULO 110.
@@ -1063,19 +1267,35 @@ Para los trabajadores en servicio afiliados a la Dirección de Pensiones de los 
 
 SEGUNDO. Los trabajadores que hayan ingresado a laborar en alguna de las entidades y organismos con anterioridad a la entrada en vigor de la presente ley, al momento de cumplirse los supuestos legales para el disfrute de cualesquiera de las pensiones, podrán acogerse a las disposiciones previstas en la presente ley o en aquellas de la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado N° 52, así como a sus respectivas reformas, especialmente la que se refiere al derecho de gozar de una pensión dinámica vitalicia como se establece en el artículo 68 de dicho ordenamiento que textualmente señala: "Cada vez que los trabajadores reciban un aumento de sueldo, los pensionados y los beneficiarios recibirán a partir del 1° de enero de 1986 el 80%, a partir del 1° de enero de 1989 el 85%, a partir del 1° de enero de 1990 el 90%, a partir del 1° de enero de 1991 el 95% y a partir del 1° de enero de 1992 el 100% de la cantidad que constituye el aumento concedido al personal en servicio conforme a las categorías y proporcionalmente al porcentaje de la pensión dictaminada".
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Para optar por la elección a que se refiere el párrafo anterior, el trabajador deberá comunicar su voluntad por escrito ante la Dirección de Pensiones. La Dirección de Pensiones de acuerdo con los Comités de Administración, establecerá los formatos necesarios para dar cumplimiento a esta disposición, a efecto de que cada institución u organismo correspondiente lo haga llegar a sus trabajadores. Hasta en tanto el trabajador no comunique su voluntad, se entenderá que se aplicará la anterior ley que se abroga.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Los trabajadores universitarios afiliados al Instituto Mexicano del Seguro Social, podrán continuar con dicho régimen de seguridad social. Los trabajadores universitarios de nuevo ingreso se les podrá dar de alta en el Instituto Mexicano del Seguro Social o bien acogerse al sistema pensionario que establece esta nueva ley.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 La opción elegida por el trabajador jubilado o pensionado aplicará a sus beneficiarios al momento de su fallecimiento.
 
-En caso de fallecimiento del trabajador activo sujeto a las disposiciones de la ley que se abroga mediante este ordenamiento, sus beneficiarios podrán optar por el régimen pensionario a que determinen acogerse.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-En todo lo previsto en los artículos transitorios relativos a la aplicación de la ley que se abroga, se reafirma que para quienes decidan acogerse a dicho régimen pensionario, continuarán aplicándose enteramente en toda su extensión los beneficios que otorga la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado N° 52, así como sus respectivas reformas.
+En caso de fallecimiento del trabajador activo sujeto a las disposiciones de la ley que se abroga mediante este ordenamiento, sus beneficiarios podrán optar por el régimen pensionario a que determinen acogerse, conforme al procedimiento previsto en el segundo párrafo de este artículo.
 
-TERCERO. Para los trabajadores a que se refiere el artículo que antecede, y que decidan acogerse voluntariamente a las disposiciones del ordenamiento que se abroga, se aplicarán, a partir de la fecha en que entre en vigor esta ley, los siguientes lineamientos:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+En todo lo previsto en los artículos transitorios relativos a la aplicación de la ley que se abroga, se reafirma que para quienes decidan acogerse a dicho régimen pensionario, continuarán aplicándose enteramente en toda su extensión los beneficios que otorga la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado número 52, así como sus respectivas reformas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+TERCERO. Para los trabajadores a que se refiere el artículo que antecede que pertenezcan a la Universidad Autónoma de Coahuila y a la Universidad Autónoma Agraria "Antonio Narro" y que decidan acogerse voluntariamente a las disposiciones de la ley que se abroga, se seguirán aplicando ultraactivamente las disposiciones anteriores hasta en tanto se cubra al último de los pensionados o beneficiarios que se acojan a ella. Por el contrario, para los trabajadores a que se refiere el artículo que antecede y que sean afiliados a la Sección 38 del SNTE, y que desean acogerse voluntariamente a las disposiciones del ordenamiento que se abroga, se aplicarán, a partir de la fecha en que entre en vigor esta ley, los siguientes lineamientos:
 
 I. Las aportaciones a la Dirección de Pensiones por parte de las entidades y organismos a que se refiere el artículo 2° de la ley que entra en vigor, serán equivalentes al 20 % de la percepción mensual de sus trabajadores; más 2% del Sistema del Ahorro para el Retiro o su equivalente que sustituya a este último.
 
 II. La contribución mensual obligatoria de los trabajadores a la Dirección de Pensiones, será igual a un 6.5% de la percepción mensual que tengan asignada en nómina, así como al 6.5% de las prestaciones vigentes al 18 de diciembre de 1996;
 
-III. Tendrá derecho a recibir pensión de retiro por vejez aquel trabajador que se separe del servicio por haber cumplido 60 años de edad y un mínimo de 20 años de cotización;
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2000)
 
 IV. El monto de la pensión de retiro por antigüedad en el servicio se establecerá con base en el último sueldo percibido para los trabajadores que durante los cinco años anteriores a su retiro, venían desempeñando el mismo puesto.
 
@@ -1113,7 +1333,17 @@ NOVENO. Para los trabajadores que al momento de entrar en vigor la presente ley 
 
 DECIMO. Los trabajadores que al momento de entrar en vigor la presente ley gocen de créditos con garantía hipotecaria, los cubrirán conforme a las disposiciones previstas en la ley que se abroga.
 
-DECIMO PRIMERO. Se abroga la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado N° 52 del 28 de junio de 1975 y se derogan todas las disposiciones que se opongan a esta ley.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+DECIMO PRIMERO. Se abrogan la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 52 del 28 de junio de 1975 y demás disposiciones que se opongan a esta nueva ley, salvo los casos transitorios en que la ley anterior se aplique ultraactivamente.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+DECIMO SEGUNDO. Las cuentas institucionales a que se refiere la fracción III del artículo 11 de esta ley, se constituirán a partir del 1º de enero de 2001. La Dirección de Pensiones definirá los mecanismos conducentes para constituir las cuentas institucionales por cada institución u organismo correspondiente.
+
+Estas cuentas institucionales integradas conforme al párrafo que antecede, se destinarán a pagar la actual nómina de pensionados que se formó hasta antes de la entrada en vigor de este decreto y con los trabajadores en activo y de nuevo ingreso de cada institución u organismo correspondiente.
+
+El fondo general que se encuentra constituido al 31 de diciembre de 2000 por aportaciones de las instituciones u organismos conforme a las disposiciones anteriores, se destinará a cubrir la actual nómina de los pensionados hasta esa fecha. Una vez agotados esos recursos en cantidad líquida que forman parte del fondo constituido, cada institución u organismo correspondiente deberá hacerse cargo de esos pensionados y, por ende, deberá continuar cubriendo las prestaciones y beneficios de dichos pensionados con cargo a su cuenta institucional. En este caso, la Dirección de Pensiones realizará las transferencias correspondientes para que cada Comité de Administración se haga cargo de sus pensionados.
 
 DADO en el Salón de Sesiones del Congreso del Estado, en la ciudad de Saltillo, Coahuila, a los dieciséis días del mes de noviembre de mil novecientos noventa y nueve.
 
@@ -1148,3 +1378,7 @@ P.O. 29 DE AGOSTO DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2000.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
