@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1923-02-28"
+last_updated: "1933-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 1933.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -229,7 +229,7 @@ El territorio del Estado de Oaxaca es el que posee actualmente conforme a las ju
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 ###### ARTICULO 29.
 
@@ -239,7 +239,7 @@ El Estado adopta para su régimen interior la forma de gobierno republicano, rep
 
 El Poder público del Estado se divide, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial. Estos poderes siempre se ejercerán en la forma y términos establecidos en esta Constitución; en consecuencia, nunca podrán reunirse uno o dos de ellos en cualquiera de los tres; sólo podrán concederse facultades legislativas al Ejecutivo en los términos prevenidos por el artículo 62 de esta Constitución.
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -475,7 +475,7 @@ XXV. Nombrar y remover a los empleados de su Secretaría y a los de la Contadur�
 
 XXVI. Crear y suprimir empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
 
-XXVII. Revisar los expedientes relativos a elecciones municipales, siempre que se solicite su intervención y se hayan cumplido los requisitos que fije la ley respectiva, y hacer la declaración que corresponda;
+XXVII. (DEROGADA, P.O. 11 DE FEBRERO DE 1933)
 
 XXVIII. Legislar en los ramos de Educación y Salubridad Públicas;
 
@@ -1292,5 +1292,9 @@ SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil no
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
 P.O. 28 DE FEBRERO DE 1923.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 11 DE FEBRERO DE 1933.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
