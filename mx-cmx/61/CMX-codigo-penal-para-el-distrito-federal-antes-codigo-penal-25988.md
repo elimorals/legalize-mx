@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1990-08-15"
+last_updated: "1991-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1991.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -421,6 +421,10 @@ II.- La indemnización del daño material y moral y de los perjuicios causados, 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 III.- Tratándose de los delitos comprendidos en el Título Décimo, la reparación del daño abarcará la restitución de la cosa o de su valor, y además, hasta dos tantos el valor de la cosa o los bienes obtenidos por el delito.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+ARTICULO 30 bis.- Tienen derecho a la reparación del daño en el siguiente orden: 1o. El ofendido; 2o. En caso de fallecimiento del ofendido, el cónyuge supérstite o el concubinario o concubina, y los hijos menores de edad; a falta de éstos los demás descendientes y ascendientes que dependieran económicamente de él al momento del fallecimiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -2004,13 +2008,13 @@ Tratándose de instrumentos y vehículos utilizados para cometer los ilícitos c
 
 ### CAPITULO II. Del peligro de contagio
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
-###### ARTICULO 199 Bis.
+ARTICULO 199 bis.- El que a sabiendas de que está enfermo de un mal venéreo u otra enfermedad grave en período infectante, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, será sancionado de tres días a tres años de prisión y hasta cuarenta días de multa.
 
-El que sabiendo que está enfermo de sífilis o de un mal venéreo en período infectante, ponga en peligro de contagio la salud de otro por medio de relaciones sexuales, será sancionado con prisión hasta de tres años y multa hasta de tres mil pesos, sin perjuicio de la pena que corresponda si se causa el contagio.
+Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a cinco años de prisión.
 
-Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
+Cuando se trate de cónyuges, concubinarios o concubinas, sólo podrá procederse por querella del ofendido.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
 
@@ -2020,17 +2024,31 @@ Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
 
 ### CAPITULO I. Ultrajes a la moral pública
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 200.
 
-Se aplicará prisión de seis meses o cinco años y multa hasta de $10,000.00.
+Se aplicará prisión de seis meses a cinco años o sanción de trescientos a quinientos días multa o ambas a juicio del juez:
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1966)</small>
 
 I.- Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos, y al que los exponga, distribuya o haga circular;
 
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1966)</small>
+
 II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhibiciones obcenas (sic), y
 
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1966)</small>
+
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+En caso de reincidencia, además de las sanciones previstas en este artículo, se ordenará la disolución de la sociedad o empresa.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+No se sancionarán las conductas que tengan un fin de investigación o divulgación científico, artístico o técnico.
 
 (REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
 
@@ -2954,37 +2972,53 @@ A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cua
 
 (DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
+
 TITULO DECIMOQUINTO
 
-Delitos sexuales
+Delitos contra la Libertad y el Normal Desarrollo Psicosexual
 
-### CAPITULO I. Atentados al pudor, estupro y violación
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+### CAPITULO I. Hostigamiento sexual, abuso sexual, estupro y violación
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+ARTICULO 259 bis.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de cuarenta días multa. Si el hostigador fuese servidor público y utilizace (sic) los medios o circunstancias que el encargo le proporcione, se le destituirá de su cargo.
+
+Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
+
+Sólo se procederá contra el hostigador, a petición de parte ofendida.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 260.
 
-Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual con intención lasciva o la obligue a ejecutarlo, se le impondrá prisión de quince días a un año o de diez a cuarenta días de trabajo en favor de la comunidad.
+Al que sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá pena de tres meses a dos años de prisión.
 
-Si se hiciere uso de la violencia física o moral, la pena será de uno a cuatro años de prisión.
+Si se hiciere uso de la violencia física o moral, el mínimo y el máximo de la pena se aumentarán hasta en una mitad.
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 261.
 
-Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de doce años de edad o en persona que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo, se le impondrá de seis meses a dos años de prisión o de veinte a ochenta días de trabajo en favor de la comunidad.
+Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en una persona menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, o la obligue a ejecutarlo, se le aplicará una pena de seis meses a tres años de prisión, o tratamiento en libertad o semilibertad por el mismo tiempo.
+
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 Si se hiciere uso de la violencia física o moral, la pena será de dos a siete años de prisión.
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 262.
 
-Al que tenga cópula con mujer menor de dieciocho años, casta y honesta, obteniendo su consentimiento por medio de engaño, se le aplicará de un mes a tres años de prisión.
+Al que tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de engaño, se le aplicará de tres meses a cuatro años de prisión.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 263.
 
-No se procederá contra el estuprador sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus representares legítimos; pero cuando el delincuente se case con la mujer ofendida, cesará toda acción para perseguirlo.
+En el caso del artículo anterior, no se procederá contra el sujeto activo, sino por queja del ofendido o de sus representantes.
 
 ###### ARTICULO 264.
 
@@ -2996,39 +3030,49 @@ No se procederá contra el estuprador sino por queja de la mujer ofendida o de s
 
 Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a catorce años.
 
-Se sancionará con prisión de uno a cinco años al que introduzca por la vía anal o vaginal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
-(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+Se sancionará con prisión de tres a ocho años, al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 266.
 
-Se impondrá la misma pena a que se refiere el primer párrafo del artículo anterior, al que sin violencia realice cópula con persona menor de doce años de edad o que por cualquier causa no tenga posibilidad para resistir la conducta delictuosa. Si se ejerciere violencia, la pena se aumentará en una mitad.
+Se equipara a la violación y se sancionará con la misma pena:
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+I.- Al que sin violencia realice cópula con persona menor de doce años de edad;
 
-ARTICULO 266 bis.- Cuando la violación fuere cometida conintervención (sic) directa o inmediata de dos o más personas, las penas previstas en los artículos anteriores se aumentarán hasta en una mitad.
+II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo.
 
-> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentarán en una mitad.
 
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de seis meses a dos años de prisión cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de su pupilo, o por el padrastro o amasio de la madre del ofendido en contra del hijastro. En los casos en que la ejerciere el culpable perderá la patria potestad o la tutela, así como el derecho de heredar al ofendido.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
 
-> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+ARTICULO 266 bis.- Las penas previstas para el abuso sexual y la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
 
-Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza su profesión utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
+I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas;
 
-### CAPITULO II. Rapto
+II.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, o por el padrastro o amasio de la madre del ofendido en contra del hijastro. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima;
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión;
+
+IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
+
+> <small>(DEROGADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
+
+### CAPITULO II
 
 ###### ARTICULO 267.
 
-Al que se apodere de una persona, por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico sexual o para casarse, se le aplicará la pena de uno a ocho años de prisión.
-
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+(DEROGADO, D.O.F. 21 DE ENERO DE 1991)
 
 ###### ARTICULO 268.
 
-Se impondrá también la pena del artículo anterior, aunque el raptor no emplee la violencia ni el engaño y consienta en el rapto la persona, si ésta fuere menor de dieciséis años.
+(DEROGADO, D.O.F. 21 DE ENERO DE 1991)
 
 ###### ARTICULO 269.
 
@@ -3036,13 +3080,11 @@ Se impondrá también la pena del artículo anterior, aunque el raptor no emplee
 
 ###### ARTICULO 270.
 
-Cuando el raptor se case con la mujer ofendida no se podrá proceder criminalmente contra él, ni contra sus cómplices, por rapto, salvo que se declare nulo el matrimonio.
+(DEROGADO, D.O.F. 21 DE ENERO DE 1991)
 
 ###### ARTICULO 271.
 
-No se procederá contra el raptor, sino por queja de la mujer ofendida o de su marido, si fuere casada; pero si la raptada fuere menor de edad, por queja de quien ejerza la patria potestad o la tutela o, en su defecto, de la misma menor.
-
-Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por éste último.
+(DEROGADO, D.O.F. 21 DE ENERO DE 1991)
 
 ### CAPITULO III. Incesto
 
@@ -3731,6 +3773,14 @@ Se impondrán de tres días a un año de prisión y multa de cinco a cien pesos:
 I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la retribución debida, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio, y
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+ARTICULO 365 bis.- Al que prive ilegalmente a otro de su libertad con el propósito de realizar un acto sexual, se le impondrá pena de uno a cinco años de prisión.
+
+Si el autor del delito restituye la libertad a la víctima sin haber practicado el acto sexual, dentro de los tres días siguientes, la sanción será de un mes a dos años de prisión.
+
+Este delito sólo se perseguirá por querella de la persona ofendida.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -4775,3 +4825,7 @@ D.O.F. 15 DE AGOSTO DE 1990.
 PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los artículos 409 y 410 que se adicionan entrarán en vigor al día siguiente de que se publique en el Diario Oficial de la Federación, la ley o decreto que contenga las normas relativas al Registro Nacional de Ciudadanos y a la expedición del documento que acredite la ciudadanía.
+
+D.O.F. 21 DE ENERO DE 1991.
+
+UNICO.- El presente decreto entra en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
