@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1968-05-12"
+last_updated: "1970-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -153,13 +153,17 @@ Los vecinos de cualquier Municipio y los transeúntes que se encuentren en él, 
 
 De los Ciudadanos guanajuatenses.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1966)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 1966)</small>
 
 ###### Art. 19.
 
-Son ciudadanos del Estado los varones y las mujeres que, teniendo la calidad de guanajuatenses, reúnan, además, los siguientes requisitos:
+Son ciudadanos del Estado, los varones y las mujeres que, teniendo la calidad de guanajuatenses, reúnan, además, los siguientes requisitos:
 
-I. Haber cumplido 18 años, siendo casados, o 21 siendo solteros; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1970)</small>
+
+I. Haber cumplido dieciocho años.
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 1966)</small>
 
 II. Tener un modo honesto de vivir.
 
@@ -1294,3 +1298,7 @@ Se derogan todas las disposiciones que se opongan a la presente reforma.
 P.O. 12 DE MAYO DE 1968.
 
 UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 1970.
+
+UNICO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
