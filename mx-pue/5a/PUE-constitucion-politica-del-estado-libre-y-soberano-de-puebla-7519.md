@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1982-11-17"
+last_updated: "1984-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "PUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL H. XLVIII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA CONSTITUCION DE 15 DE SEPTIEMBRE DE 1917, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, PRESENTANDOSE POR TAL MOTIVO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 17 DE NOVIEMBRE DE 1982.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1982.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -501,17 +499,17 @@ Si no hubiese quórum para la instalación o apertura del Congreso, se observar�
 
 Los Diputados que no asistan a una sesión sin causa justificada no tendrán derecho a la dieta correspondiente, y si faltaren cuatro sesiones consecutivas injustificadamente o sin licencia previa se presumirá que renuncian a concurrir hasta el período inmediato de sesiones, llamándose desde luego a los suplentes.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 50.
 
-El Congreso tendrá cada año tres períodos de sesiones, en la forma siguiente:
+El Congreso tendrá cada año tres periodos de sesiones, en la forma siguiente:
 
-I.- El primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
+I.- El primero comenzará el día quince de enero, terminará el quince de abril y se ocupará de estudiar, discutir y votar las iniciativas de ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-II.- El segundo comenzará el día quince de julio, terminará el quince de septiembre y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la Cuenta de la Hacienda Pública Estatal correspondiente al año inmediato anterior que le será presentada por el Ejecutivo antes del inicio de este período, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir algunas responsabilidades.
+II.- El segundo comenzará el día quince de junio, terminará el quince de septiembre y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la cuenta de la Hacienda Pública Estatal correspondiente al año inmediato anterior que le será presentada por el Ejecutivo antes del inicio de este período, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir algunas responsabilidades.
 
-III.- El tercer período comenzará el día quince de noviembre y terminará el día treinta y uno de diciembre y preferentemente se ocupará de estudiar, discutir y decretar los presupuestos de ingresos y egresos del Estado y de los Municipios, que deberán entrar en vigor el año siguiente y que le serán presentados a más tardar el día quince de noviembre de cada año, los primeros por el Ejecutivo y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuvieren que hacer a los presupuestos formulados por los Ayuntamientos.
+III.- El tercer período comenzará el día quince de octubre y terminará el día treinta y uno de diciembre y preferentemente se ocupará de estudiar, discutir y decretar los presupuestos de ingresos y egresos del Estado y los presupuestos de ingresos de los Municipios, que deberán entrar en vigor al año siguiente y que le serán presentados a más tardar el día quince de noviembre de cada año, los primeros por el Ejecutivo y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuvieren que hacer a los presupuestos formulados por los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -587,27 +585,49 @@ XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de ca
 
 XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia, a propuesta en terna del Ejecutivo.
 
-XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días del Gobernador y de los Diputados.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
-XVI.- Conocer y resolver sobre las renuncias y licencias por más de treinta días de los Magistrados del Tribunal Superior de Justicia.
+XV.- Conocer y resolver sobre las renuncias y licencias por más de treinta días, del Gobernador, de los Diputados y de los Magistrados del Tribunal Superior de Justicia.
 
-XVII.- Hacer el escrutinio de los votos emitidos para Gobernador del Estado, calificar la elección y hacer la declaración en favor del ciudadano que haya obtenido la mayoría conforme a la Ley de la materia.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
-XVIII.- Elegir con el carácter de interino, al ciudadano que deba sustituir al Gobernador de elección popular directa en sus faltas temporales, o en su falta absoluta si ésta acaeciere en los dos primeros años del período constitucional.
+XVI.- Hacer el escrutinio de los votos emitidos para Gobernador del Estado, calificar la elección y hacer la declaración a favor del ciudadano que haya obtenido la mayoría conforme a la Ley de la materia.
 
-XIX.- Convocar a elecciones:
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+
+XVII.- Elegir con el carácter de interino al ciudadano que deba sustituir al Gobernador de elección popular directa, en sus faltas temporales, o en su falta absoluta, si ésta acaeciere en los dos primeros años del período constitucional;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 1984)</small>
+
+XVIII.- Convocar a elecciones:
 
 a).- De Gobernador que deba concluir el período respectivo, en el caso de falta absoluta a que se refiere la fracción anterior.
 
-Esta convocatoria debe expedirse dentro de los diez días siguientes a la designación de Gobernador interino, y entre su fecha y la que se señale para verificar la elección ha de mediar un plazo no menor de tres meses ni mayor de cinco. El Gobernador electo tomará posesión diez días después del escrutinio, calificación y declaración a que se refiere la fracción XVII.
+Esta convocatoria debe expedirse dentro de los diez días siguientes a la designación de Gobernador Interino, y entre su fecha y la que se señale para verificar la elección ha de mediar un plazo no menor de tres meses ni mayor de cinco. El Gobernador electo tomará posesión diez días después del escrutinio, calificación y declaración a que se refiere la fracción XVI.
 
 b).- De Diputados, cuando ocurra falta absoluta de propietarios y suplentes antes de los seis meses últimos del período.
 
-c).- De Ayuntamientos cuando ello fuere necesario.
+c).- De Ayuntamientos, cuando ello fuere necesario.
 
-XX.- Elegir al ciudadano que deba sustituir al Gobernador de elección popular, si la falta absoluta de éste se presenta durante los cuatro últimos años del período. Dicho funcionario se denominará Gobernador Substituto.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 1984)</small>
 
-XXI.- Llamar a los Diputados suplentes en caso de muerte o por otra causa que inhabilite a los propietarios.
+XIX.- Elegir al ciudadano que deba sustituir al Gobernador de elección popular, si la falta absoluta de éste se presenta durante los cuatro últimos años del período. Dicho funcionario se denominará Gobernador Substituto.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 1984)</small>
+
+XX.- Llamar a los Diputados suplentes en caso de muerte o por otra causa que inhabilite a los propietarios.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE FEBRERO DE 1984)</small>
+
+XXI.- Acordar por el voto de las dos terceras partes de sus integrantes:
+
+1.- Que un Ayuntamiento ha desaparecido;
+
+2.- La suspensión de un Ayuntamiento; y
+
+3.- La suspensión o revocación del mandato de uno o más de los miembros de un Ayuntamiento, respetando la garantía de audiencia, admitiendo las pruebas que ofrezcan y oyendo alegatos.
+
+En los casos de los incisos 1 y 2 de esta fracción, el Congreso nombrará un Consejo Municipal como lo establezca la Ley Orgánica Municipal.
 
 XXII.- Decidir sobre las elecciones de los Ayuntamientos, cuando se reclame acerca de ellas.
 
@@ -747,7 +767,7 @@ En caso de urgencia el Congreso podrá, por el voto de las dos terceras partes d
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO I. DEL GOBERNADOR
+### CAPITULO I.. DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -859,9 +879,9 @@ XIV.- Cuidar, en los distintos ramos de la Administración, que los caudales pú
 
 XV.- Controlar los ramos de la Administración Pública.
 
-XVI.- Resolver los conflictos suscitados en los Ayuntamientos y los relativos a los Municipios, de acuerdo con esta Constitución y leyes aplicables.
+XVI.- (DEROGADA, P.O. 2 DE FEBRERO DE 1984)
 
-XVII.- Conocer de las quejas que se presenten contra los Ayuntamientos.
+XVII.- (DEROGADA, P.O. 2 DE FEBRERO DE 1984)
 
 XVIII.- Nombrar Concejos Municipales, en los casos y términos que señale la ley.
 
@@ -929,11 +949,11 @@ I.- Las bases generales para la creación de entidades de la Administración Pú
 
 II.- La intervención del Ejecutivo en la operación de esas entidades.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 84.
 
-Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos y tener treinta años cumplidos.
+Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos y tener treinta años cumplidos; pero el Secretario de Gobernación, deberá además, tener Título de Abogado.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1081,83 +1101,153 @@ Los funcionarios de que trata este título no tendrán en los juicios en que int
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 102.
 
-El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado.
+El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será administrado por un Ayuntamiento de elección popular directa, integrado por la planilla que haya obtenido el mayor número de votos, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+I.- Los Ayuntamientos se complementarán:
+
+a).- En el Municipio Capital del Estado, hasta con cinco Regidores, que serán acreditados conforme al principio de representación proporcional.
+
+b).- En los Municipios que conforme al último censo general de población tengan cien mil o más habitantes, hasta con tres Regidores que serán acreditados de acuerdo con el mismo principio.
+
+c).- En los demás Municipios, hasta con dos Regidores que serán acreditados conforme al mismo principio.
+
+d).- En los casos que se refieren las fracciones anteriores, los Regidores se acreditarán de entre los Partidos Políticos minoritarios que hayan obtenido por lo menos el 1.5 por ciento de la votación total en el Municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia.
+
+e).- En todo caso, en la asignación de Regidores, de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
+
+II.- No podrán ser electos para el período inmediato, como propietarios:
+
+a).- Los Presidentes Municipales, Regidores y Síndico de los Ayuntamientos, electos popularmente.
+
+b).- Las personas que desempeñen o hayan desempeñado las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé y la forma de su nombramiento, designación o elección.
+
+III.- Los funcionarios mencionados en las fracciones anteriores, cuando hayan tenido el carácter de propietarios, no podrán ser electos para el período inmediato, como suplentes; pero los que fueron suplentes podrán ser electos para el período inmediato como propietarios, salvo que hayan estado en ejercicio.
+
+IV.- Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes, el día quince de febrero del año siguiente al de la elección.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 103.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, integrado por la planilla que haya obtenido el mayor número de votos, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Los Municipios tienen personalidad jurídica, patrimonio propio que los Ayuntamientos manejarán conforme a la Ley, y administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura del Estado establezca a favor de aquéllos y que, entre otros, serán:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+I.- Las contribuciones, incluyendo las tasas adicionales que se aprueben sobre propiedad inmobiliaria, fraccionamientos de ésta, división, consolidación, traslación, mejora y las que tengan como base el valor de los inmuebles.
+
+II.- Las participaciones federales.
+
+III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+a).- Las Leyes del Estado no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III anteriores en favor de personas físicas o jurídicas, ni de instituciones oficiales o privadas, y sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de tales contribuciones.
+
+b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se encargue, parcialmente, de las funciones relacionadas con la administración de las contribuciones que les corresponda.
+
+c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 104.
 
-Los Ayuntamientos se complementarán:
+Los Municipios proporcionarán los siguientes servicios públicos:
 
-I.- En el Municipio Capital del Estado, hasta cinco Regidores, que serán acreditados conforme al principio de representación proporcional.
+a).- Agua Potable y alcantarillado.
 
-II.- En los Municipios que conforme al último censo general de población tengan cien mil o más habitantes, hasta tres regidores que serán acreditados conforme al mismo principio.
+b).- Alumbrado público.
 
-III.- En los demás Municipios, hasta dos regidores que serán acreditados conforme al mismo principio.
+c).- Limpia.
 
-IV.- En los casos a que se refieren las fracciones anteriores, los regidores se acreditarán de entre los Partidos Políticos Minoritarios que hayan obtenido por lo menos el 1.5 por ciento de la votación total en el Municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia.
+d).- Mercados y centrales de Abasto.
 
-V.- En todo caso, en la asignación de regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
+e).- Panteones.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+f).- Rastro.
+
+g).- Calles, parques y jardines.
+
+h).- Seguridad pública y tránsito.
+
+I.- El Congreso del Estado, tomando en cuenta las condiciones socioeconómicas de los Municipios, podrá encomendar a éstos la prestación de otros servicios públicos distintos a los antes enumerados, cuando a juicio del propio Congreso tengan aquéllos capacidad administrativa y financiera.
+
+II.- Los Municipios de un mismo Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 105.
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes, el día quince de febrero del año siguiente al de la elección.
+La administración pública municipal será centralizada y descentralizada, con sujeción a las siguientes disposiciones:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+I.- Los Ayuntamientos residirán en las cabeceras de los Municipios y serán presididos por el Primer Regidor, quien tendrá el carácter de Presidente Municipal.
+
+II.- Podrán establecerse las entidades que se juzguen convenientes para realizar los objetivos de la administración Municipal.
+
+III.- Los ayuntamientos podrán expedir, dentro de la esfera de su competencia, reglamentos por los cuales provean a la exacta observancia de las Leyes Administrativas del Estado, bandos de policía y buen gobierno, circulares y disposiciones de observancia general. El Congreso del Estado en la Ley Orgánica Municipal, establecerá las bases para el ejercicio de estas facultades, las cuales serán por lo menos las siguientes:
+
+a).- El proyecto respectivo será propuesto por dos o más Regidores.
+
+b).- Se discutirá, aprobará o desechará por mayoría de votos en Sesión de Cabildo, en la que haya Quórum.
+
+c).- En caso de aprobarse el proyecto se enviará al Ejecutivo para su publicación en el Periódico Oficial.
+
+d).- Las disposiciones de carácter general dictadas por los Ayuntamientos, deben referirse a hipótesis previstas por la Ley que reglamenten, y no pueden contrariar a ésta; han de ser claras, precisas y breves, y cada artículo o fracción contendrá una sola disposición.
+
+IV.- Procurar el mejoramiento de las condiciones de vida de la población rural y urbana, y en esta materia, los Ayuntamientos:
+
+a).- Formularán, aprobarán y administrarán la zonificación y planes de desarrollo urbano, y
+
+b).- Participarán en la creación y administración de:
+
+1.- Las reservas territoriales del Municipio.
+
+2.- Las reservas ecológicas Municipales.
+
+c).- Controlarán y vigilarán la utilización del suelo en sus jurisdicciones territoriales.
+
+d).- Intervendrán en la regularización de la tenencia de la tierra urbana.
+
+e).- Podrán otorgar licencias y permisos para construcciones, y
+
+f).- De conformidad con el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y para los fines en él señalados, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+V.- Los Ayuntamientos sólo podrán contratar empréstitos sujetándose a las disposiciones que dicte el Congreso, conforme a la fracción VIII del artículo 57 de esta Constitución.
+
+VI.- Los Ayuntamientos no podrán enajenar bienes inmuebles propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin la autorización del Gobernador del Estado y la aprobación del Congreso.
+
+VII.- Las fuerzas de seguridad del Estado y de los Municipios se auxiliarán recíprocamente.
+
+VIII.- En casos de graves trastornos del orden público, el Gobernador del Estado, por sí o por medio del Delegado que lo represente, podrá hacerse cargo de la fuerza pública existente en el Municipio.
+
+IX.- En caso de desarrollo de alguna epidemia, el Gobernador del Estado podrá hacerse cargo del ramo de Salubridad Pública Municipal hasta que el peligro desaparezca.
+
+X.- Los Ayuntamientos están obligados a seguir los programas que en materia de Instrucción Pública establezcan las autoridades educativas del Estado.
+
+XI.- El Presidente Municipal representará al Municipio y al Ayuntamiento, y será el ejecutor de las resoluciones de éste, que no sean encomendadas a una Comisión especial.
+
+XII.- Tratándose de procedimientos judiciales, la representación del Municipio o del Ayuntamiento corresponderá al Síndico.
+
+XIII.- Los Ayuntamientos atenderán la administración por medio de comisiones, entre las cuales distribuirán los diversos ramos de aquélla.
+
+XIV.- El Ejecutivo nombrará visitadores especiales para las Tesorerías Municipales, los cuales revisarán los libros e informarán después al Ejecutivo, para que éste excite a los Ayuntamientos a recaudar los fondos públicos, o bien corrija las deficiencias que se encuentren o se consignaren, si hubiere algún delito en el manejo de los fondos.
+
+XV.- Las relaciones de trabajo entre los Municipios y sus servidores, se regirán por las disposiciones que dicte la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 106.
 
-La Ley Orgánica Municipal se sujetará a las bases siguientes:
+La Ley Orgánica Municipal, además de reglamentar las disposiciones de esta Constitución relativas a los Municipios, establecerá:
 
-I.- Fijará el mínimo de población, extensión, límites y demás requisitos para la formación, supresión y erección de los Municipios.
+I.- El mínimo de Población, extensión, límites y demás requisitos para la formación, supresión y erección de los Municipios.
 
-II.- Fijará el número de regidores y síndicos que formarán los Ayuntamientos, debiendo aquéllos y éstos ser ciudadanos en ejercicio de sus derechos el día de su elección.
+II.- El número de Regidores y Síndicos que formarán los Ayuntamientos, debiendo aquéllos y éstos ser ciudadanos en ejercicio de sus derechos el día de su elección.
 
-III.- Los Ayuntamientos residirán en las cabeceras de los Municipios y serán presididos por el Primer Regidor, quien tendrá el carácter de Presidente Municipal.
+III.- La forma de elegir Concejos Municipales o Juntas Auxiliares que ejerzan la autoridad local, en poblaciones de la jurisdicción Municipal, distintas de la cabecera.
 
-IV.- La Administración Pública Municipal será centralizada y descentralizada y se podrán establecer las entidades que se juzgue conveniente para realizar los objetivos de dicha administración.
+IV.- Las causas de suspensión de los Ayuntamientos y de revocación o suspensión del mandato de alguno de los miembros de éstos, así como el procedimiento para que los afectados sean oídos y tengan la oportunidad de rendir pruebas y alegar lo que estimen a su derecho, antes de que el Congreso suspenda o revoque el mandato.
 
-V.- Establecerá la forma de constituir los Ayuntamientos cuando los regidores electos no concurran a sesiones y los presentes no constituyan mayoría.
-
-VI.- Podrán los Ayuntamientos expedir reglamentos autónomos, decretos administrativos, acuerdos, órdenes y circulares en materia de policía y buen gobierno y en todo aquello que sea necesario para el cumplimiento de sus funciones.
-
-VII.- Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones, impuestos, productos, derechos, aprovechamientos y participaciones que señale la Legislatura del Estado y que en todo caso serán los suficientes para atender a sus necesidades.
-
-VIII.- Las participaciones que correspondan al Municipio, en los ingresos federales y estatales, serán las que determinen las leyes y convenios que las establezcan.
-
-IX.- Los Ayuntamientos sólo podrán contratar empréstitos sujetándose a las disposiciones que dicte el Congreso conforme a la fracción VIII del artículo 57 de esta Constitución.
-
-X.- Los Ayuntamientos no podrán enajenar bienes inmuebles propios, ni celebrar contratos que tengan una duración que exceda del período para el cual hubieren sido electos, sin la autorización del Gobernador del Estado y la aprobación del Congreso.
-
-XI.- Las fuerzas de seguridad del Estado y de los Municipios se auxiliarán recíprocamente.
-
-XII.- En casos de graves trastornos del orden público, el Gobernador del Estado, por sí o por medio del delegado que lo represente, podrá hacerse cargo de la fuerza pública existente en el Municipio.
-
-XIII.- En caso de desarrollo de alguna epidemia, el Gobernador del Estado podrá hacerse cargo del ramo de Salubridad Pública Municipal hasta que el peligro desaparezca.
-
-XIV.- Los Ayuntamientos están obligados a seguir los programas que en materia de Instrucción Pública establezcan las autoridades educativas del Estado.
-
-XV.- El Presidente Municipal representará al Municipio y al Ayuntamiento y será el ejecutor de las resoluciones de éste que no sean encomendadas a una comisión especial.
-
-XVI.- Tratándose de procedimientos judiciales, la representación del Municipio o del Ayuntamiento corresponderá al Síndico.
-
-XVII.- Los Ayuntamientos atenderán la Administración por medio de Comisiones, entre las cuales distribuirán los diversos ramos de aquélla.
-
-XVIII.- Establecerá la forma de elegir concejos municipales o juntas auxiliares que ejerzan la autoridad local, en poblaciones de la jurisdicción municipal, distintas de la cabecera.
-
-XIX.- El Ejecutivo nombrará visitadores especiales para las Tesorerías Municipales, los cuales revisarán los libros e informarán después al Ejecutivo, para que éste excite a los Ayuntamientos a recaudar los fondos públicos, o bien corrija las deficiencias que se encuentren o se consignaren, si hubiere algún delito en el manejo de los fondos.
+V.- La forma de Constituir los Ayuntamientos cuando los Regidores electos no concurran, o los presentes no constituyan mayoría a la primera Sesión de Cabildo, con la cual debe iniciarse el ejercicio de su período.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1179,7 +1269,7 @@ El Poder Público del Estado y los Ayuntamientos tienen el deber de promover el 
 
 La ley reglamentará y fijará las facultades de los funcionarios en materia de planeación, formación de programas y presupuestos, ejecución de objetivos, supervisión, evaluación e información, así como la coordinación de los sectores público, social y privado del Estado.
 
-### CAPITULO II. DE LA HACIENDA PUBLICA PUBLICA
+### CAPITULO II. DE LA HACIENDA PUBLICA
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1311,21 +1401,65 @@ El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido 
 
 ### CAPITULO I. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 124.
 
-Los funcionarios y empleados públicos serán responsables de los delitos comunes y de los delitos o faltas oficiales que cometieren durante su encargo.
+Servidores públicos son las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza, sea cual fuere la forma de su elección o nombramiento:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+I.- En el Estado.
+
+II.- En los Municipios del Estado.
+
+III.- En los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas a éstos; y
+
+IV.- En fideicomisos públicos.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 125.
 
-El Gobernador, durante el período de su encargo, sólo podrá ser acusado por delitos oficiales de la competencia del Estado y por delitos graves del orden común.
+El Congreso del Estado expedirá la Ley de Responsabilidades de los servidores públicos, así como las demás normas tendientes a sancionar a los servidores públicos que incurran en responsabilidad de acuerdo con las siguientes disposiciones:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+I.- Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
+
+II.- Se impondrán, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza, al Gobernador del Estado, Diputados al Congreso Local y Magistrados del Tribunal Superior de Justicia, por:
+
+a).- Violaciones graves a la Constitución del Estado.
+
+b).- Manejo indebido de fondos y recursos del Estado.
+
+c).- Actos u omisiones en el ejercicio de sus funciones, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el Juicio político por la mera expresión de ideas.
+
+III.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal.
+
+IV.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+V.- Los procedimientos para la aplicación de las penas a que se refieren las fracciones anteriores, se desarrollarán autónomamente y no podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+
+VI.- La Ley de Responsabilidades determinará los casos y circunstancias en los que se deba sancionar penalmente, por causa de enriquecimiento ilícito, a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes cuya procedencia lícita no pudiesen justificar, o se conduzcan como dueños de ellos.
+
+VII.- Se sancionará el enriquecimiento ilícito con el decomiso y la privación de la propiedad de los bienes a que se refiere la fracción anterior, además de las otras penas que correspondan.
+
+VIII.- La Ley Sobre Responsabilidades Administrativas de los servidores públicos del Estado, determinará:
+
+a).- Las obligaciones de los servidores públicos, a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones.
+
+b).- Las sanciones aplicables que, además de las que señalen las Leyes, consistirán en suspensión, destitución, inhabilitación, así como en sanciones económicas, cuyo monto se establecerá de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales, causados por sus actos u omisiones, y que no excederán de tres tantos de los beneficios obtenidos o de los daños causados.
+
+c).- Los casos de prescripción de la responsabilidad administrativa.
+
+La prescripción penal se regirá por las leyes aplicables.
+
+No podrán concederse las gracias de indulto o conmutación de pena a los condenados por responsabilidad oficial.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 126.
+
+El Gobernador, durante el período de su encargo, sólo podrá ser acusado por delitos oficiales de la competencia del Estado y por delitos graves del orden común.
 
 Para procesar por un delito del orden común a un Diputado, al Gobernador o a un Magistrado, se necesita que la Legislatura, erigida en Gran Jurado, declare por los dos tercios de los votos de sus miembros presentes, si ha lugar o no a formarle causa. En caso negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no prejuzga sobre los fundamentos de la acusación ni impide que ésta continúe su curso cuando el acusado haya dejado de tener fuero. En el afirmativo, quedará el acusado separado de su cargo y sujeto a la acción de los tribunales ordinarios.
 
@@ -1359,17 +1493,17 @@ IV.- Si la revisión revoca la declaración condenatoria no habrá lugar a proce
 
 V.- Si la revisión confirma la declaración acusatoria se remitirá esta resolución al Tribunal Superior para la aplicación de la pena, en las mismas condiciones del artículo anterior.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 129.
 
-No podrán concederse las gracias de indulto o conmutación de pena a los condenados por responsabilidad oficial.
+Cuando el Congreso del Estado reciba la resolución del Senado a que se refieren los artículos 110 párrafo segundo y 111 párrafo quinto de la Constitución Política de los Estados Unidos Mexicanos, procederá a separar de sus funciones al acusado y a consignarlo a la autoridad competente.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 130.
 
-La responsabilidad por delitos o faltas oficiales, prescribe en el lapso fijado por las leyes aplicables al delito o falta de que se trate.
+Los procedimientos del juicio político sólo podrán iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después, debiendo imponerse las sanciones cuando procedan, en un período no mayor de un año a partir de iniciado el procedimiento.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1469,7 +1603,7 @@ En caso de que por trastorno público se establezca un Gobierno contrario a los 
 
 De la inviolabilidad de la Constitución.
 
-## ARTICULOS TRANSITORIOS
+## ARTICULOS TRANSITORIOS.
 
 ###### Artículo 1°.
 
@@ -1511,7 +1645,7 @@ Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
@@ -1580,3 +1714,13 @@ TERCERO.- Se derogan las normas que de alguna manera se opongan a estas adicione
 CUARTO.- Para que los Magistrados del Tribunal Superior de Justicia que estén en funciones al entrar en vigor esta Constitución sean inamovibles, se requiere la ratificación de su nombramiento por el Congreso del Estado, a propuesta del Ejecutivo.
 
 Los suplentes que sean llamados a cubrir una vacante de Magistrado no adquieren la inamovilidad, en tanto no sean ratificados por el Congreso, a propuesta del Ejecutivo.
+
+P.O. 2 DE FEBRERO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
