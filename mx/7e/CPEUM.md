@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1940-11-09"
+last_updated: "1940-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 1940.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -806,6 +806,14 @@ VI.- Para legislar en todo lo relativo al Distrito y Territorios Federales, some
 
 2a.- El Gobierno de los Territorios estará a cargo de Gobernadores, que dependerán directamente del Presidente de la República, quien los nombrará y removerá libremente.
 
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 1940)</small>
+
+Los Territorios se dividirán en Municipalidades, que tendrán la extensión territorial y el número de habitantes suficientes para poder subsistir con sus propios recursos y contribuir a sus gastos comunes.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 1940)</small>
+
+Cada Municipalidad de los Territorios estará a cargo de un Ayuntamiento de elección popular directa.
+
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
 3a.- Los Gobernadores de los Territorios acordarán con el Presidente de la República, por el conducto que determine la ley.
@@ -834,9 +842,11 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para expedir aranceles sobre el comercio extranjero y para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1935)</small>
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 1940)</small>
 
-X.- Para legislar en toda la República sobre Minería, Industria Cinematografica, Comercio, Instituciones de Crédito y Energía Eléctrica, para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución. La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a la industria textil, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas, y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias. En el rendimiento de los impuestos que el Congreso Federal establezca sobre energía eléctrica en uso de las facultades que en materia de legislación le concede esta fracción, participarán los Estados y Municipios en la proporción que las autoridades federales y locales respectivas acuerden.
+X.- Para legislar en toda la República sobre Minería, Industria Cinematografica, Comercio, Instituciones de Crédito y Energía Eléctrica, para establecer el Banco de Emisión Unico, en los términos del artículo 28 de esta Constitución, y para expedir las leyes del trabajo reglamentarias del artículo 123 de la propia Constitución.
+
+La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados en sus respectivas jurisdicciones, excepto cuando se trate de asuntos relativos a las industrias textil y electrica, ferrocarriles y demás empresas de transporte amparadas por concesión federal, minería e hidrocarburos, los trabajos ejecutados en el mar y en las zonas marítimas y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fijen las disposiciones reglamentarias.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1947,5 +1957,17 @@ D.O.F. 11 DE SEPTIEMBRE DE 1940.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 9 DE NOVIEMBRE DE 1940.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE DICIEMBRE DE 1940.
+
+DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 14 DE DICIEMBRE DE 1940.
+
+DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCION VI DEL ARTICULO 73.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
