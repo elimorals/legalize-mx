@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2004-10-23"
+last_updated: "2005-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2005.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -561,6 +561,12 @@ a) Nombre, domicilio y teléfono particular, código postal, ubicación del pred
 
 b) Fecha de inscripción y demás datos que faciliten la identificación del ganado;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2005)</small>
+
+c) Nombre y domicilio del beneficiario o beneficiarios, en caso de que el productor pecuario designe sucesores de su patente, y con ello generara la transmisión de la titularidad de dicho ganado al beneficiario o beneficiarios designados.
+
+La designación también se podrá hacer ante notario público, en cualquier momento.
+
 II. La Secretaría, no registrará ningún medio de identificación que sea de fácil alteración, igual o con estrecha semejanza con otra ya registrada en el municipio. Se dará preferencia a quien primero hubiese solicitado el registro de dicho medio;
 
 III. Quienes se dediquen a la actividad de engorda de cualquiera de las especies domésticas productivas en pila, deberán registrar un medio de identificación exclusivamente para esta actividad; el engordador deberá acreditar la propiedad de los animales que comercialice con la factura de adquisición o del documento de transmisión de propiedad;
@@ -585,7 +591,7 @@ I. Herrar con plancha llena, con alambre, ganchos, argollas o con fierro corrido
 
 II. Herrar, señalar o reseñar ganado con figuras o marcas que no sean de su propiedad, así como conceder permiso para herrar, señalar o reseñar cualquier especie doméstica productiva ajena; y
 
-III. Hacer uso de señales conocidas como oreja mocha, que es la cortada desde el nacimiento, la media tijera y tira, que se hagan en mas de media oreja; las combinaciones en la misma oreja de dos medias tijeras, y dos tijeras y/o tira, y media tijera, así como la combinación de dos tarabillas, en las dos orejas o tarabilla y tira tarabilla y media tijera en la misma oreja; el de oreja despuntada con dos medias tijeras o con dos tiras, y/o con debanador o medio debanador, combinado con dos medias tijeras o dos tiras en la misma oreja y, en general, todas las señales que se corten en más de media oreja.
+III. Hacer uso de señales conocidas como oreja mocha, que es la cortada desde el nacimiento, la media tijera y tira, que se hagan en mas de media oreja; las combinaciones en la misma oreja de dos medias tijeras, y dos tijeras y/o tira, y media tijera, así como la combinación de dos tarabillas, en las dos orejas o tarabilla y tira tarabilla y media tijera en la misma oreja; el de oreja despuntada con dos medias tijeras o con dos tiras, y/o con debanador (sic) o medio debanador (sic), combinado con dos medias tijeras o dos tiras en la misma oreja y, en general, todas las señales que se corten en más de media oreja.
 
 ###### Artículo 35.
 
@@ -1445,10 +1451,16 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
 
 P.O. 23 DE OCTUBRE DE 2004.
 
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad con lo previsto por el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
+
+P.O. 8 DE MARZO DE 2005.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Desarrollo Rural deberá promover la actualización de los datos en los registros ganaderos para incluir la designación de los beneficiarios de la patente.
