@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "2001-10-25"
+last_updated: "2005-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -3715,7 +3715,9 @@ Cuando el solicitante sea promotor inmobiliario, además de cumplir con los requ
 
 Toda solicitud para autorizar el Plan Parcial de Urbanización o el Proyecto Definitivo de Urbanización, deberá ir acompañada de la carta de aceptación de los peritos responsables.
 
-Solo se autorizarán como peritos para intervenir en obras de urbanización los profesionistas con título de arquitecto o ingeniero civil.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2005)</small>
+
+Sólo se autorizarán como peritos para intervenir en obras de urbanización los profesionistas con título de arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4467,7 +4469,7 @@ III. En predios localizados en áreas de reserva, donde los predios resultantes 
 
 ###### Artículo 277.
 
-La subdivisiones o relotificaciones de predios rústicos fuera de los centros de población, se sujetarán a las siguientes disposiciones:
+La (sic) subdivisiones o relotificaciones de predios rústicos fuera de los centros de población, se sujetarán a las siguientes disposiciones:
 
 I. Los actos de subdivisión o relotificación de predios para asignarles usos distintos a su aprovechamiento actual, conforme se establece en el artículo 199, se sujetarán al procedimiento de autorización señalado en el Capítulo II Titulo Quinto de esta Ley;
 
@@ -4619,7 +4621,9 @@ Recibida la solicitud por la Dependencia Municipal, deberá expedir este dictame
 
 Con fundamento en el Dictamen de Trazo, Usos y Destinos Específicos del Suelo, se elaborará el proyecto de edificación, que deberá reunir los requisitos establecidos en el Reglamento de Construcción.
 
-Los proyectos y ejecución de obras de edificación deberán realizarse por un arquitecto o ingeniero con cédula legalmente expedida, registrado como perito conforme las disposiciones del Reglamento de Construcción.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2005)</small>
+
+Los proyectos y ejecución de obras de edificación deberán realizarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida, registrado como perito conforme las disposiciones del Reglamento de Construcción.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -6286,3 +6290,7 @@ P.O. 25 DE OCTUBRE DE 2001.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE MARZO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
