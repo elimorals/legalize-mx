@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "1995-05-24"
+last_updated: "1996-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -46,6 +46,18 @@ Las disposiciones de esta Ley, son de orden público e interés social y tienen 
 ###### Artículo 2o.
 
 El Gobierno Estatal y los Ayuntamientos deben considerar dentro de sus planes, programas y presupuestos, las acciones y recursos para el desarrollo de las actividades deportivas.
+
+> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 2 Bis.
+
+Se entiende por Deporte, la práctica de actividades físicas e intelectuales que los habitantes del Estado de Nuevo León, de manera individual o en conjunto, realizan con propósitos competitivos o de esparcimiento en apego a su reglamentación, con la finalidad de desarrollar las aptitudes del individuo.
+
+> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 2 Bis 1.
+
+La Función Social del Deporte es la de fortalecer la interacción e integración de la Sociedad, con el propósito de desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y contribuir a fomentar la solidaridad como valor social.
 
 ###### Artículo 3o.
 
@@ -177,19 +189,45 @@ Las instituciones Públicas y Privadas promoverán el deporte en sus planteles, 
 
 Se instituye el Servicio Social, tanto para los egresados de las Facultades de Organización Deportiva de las Instituciones Educativas de nivel superior con similares profesiones, consistente en prestar sus servicios profesionales por el tiempo establecido por cada institución educativa, en el desarrollo de los Programas Deportivos Municipales del Estado de Nuevo León
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 23 Bis.
+
+Para dar caba (sic) cumplimiento a dicha función se establecerán mecanismos de coordinación entre las Autoridades Deportivas y Educativas con la finalidad de llevar a cabo la eficaz prestación del Servicio Social de los Egresados de las Facultades de Organización Deportiva.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 23 Bis 1.
+
+El Servicio Social en materia del deporte se llevará a cabo prioritariamente en áreas de menor desarrollo económico y social, como lo son los Municipios del Sur y Norte del Estado que queden comprendidos fuera del área Metropolitana, contando para ello con un incentivo mensual en dinero o en especie para la manutención y transportación del prestador del servicio, el cual será otorgado por el Sistema Estatal del Deporte, a través de un fondo que será constituido por el Ejecutivo Estatal, quien procurará la participación del Sector Privado en el mismo. Dicho fondo tendrá como finalidad captar recursos financieros y materiales que permitan alcanzar las metas de los prestadores del Servicio Social.
+
 ###### Artículo 24.
 
 El Ejecutivo del Estado y los Ayuntamientos promoverán la creación y fomento de uno o más patronatos integrados por los sectores social y/o privado, a fin de que coadyuven al desarrollo y ejecución de los Programas Deportivos.
 
-### CAPITULO IV. DE LOS ORGANISMOS DEPORTIVOS
+> <small>(REFORMADA SU DENOMINACION, P. O. 11 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO IV. DE LOS INTEGRANTES DEL SISTEMA ESTATAL DEL DEPORTE
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 25.
 
-Son organismos deportivos, para los efectos de esta Ley, toda agrupación de personas físicas o morales, que cuenten o no con personalidad jurídica, que su propósito sea la práctica de un deporte o que tengan por objeto desarrollar y fomentar actividades que se vinculen con el deporte y cuyo fin no implique necesariamente actividades deportivas.
+Se consideran integrantes del Sistema Estatal del Deporte:
+
+a) Habitante:- La persona que resida en territorio del Estado de Nuevo León.
+
+b) Deportista:- Los habitantes del Estado de Nuevo León que realicen actividades deportivas de orden competitivo o recreativo bajo reglamentos previamente establecidos.
+
+c) Organismos Deportivos:- Agrupación de personas físicas o morales que cuenten o no con personalidad jurídica, que su propósito sea la práctica de algún deporte o tenga por objeto desarrollar y fomentar actividades que se vinculen con el deporte y cuyo fin no implique necesariamente competencia deportiva.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 26.
 
-Los individuos, personas morales, agrupaciones de personas físicas y entidades sociales podrán formar libremente organismos deportivos, sin más requisitos que registrarse ante la autoridad competente a fin de ser integrado al Sistema Estatal y a traves de éste, al Sistema Nacional del Deporte para poder obtener los estímulos y apoyos que otorguen los Municipios y los Ejecutivos Estatal y Federal en su caso.
+Los individuos, personas morales, agrupaciones de personas físicas y entidades sociales podrán formar libremente asociaciones deportivas, sin más requisitos que los establecidos en el Código Civil del Estado.
+
+Los Habitantes, Deportistas y Organismos Deportivos que participen en el Sistema Estatal del Deporte, deberán de registrarse ante la Autoridad competente para poder obtener los estímulos y apoyos que otorguen los Municipios y el Ejecutivo Estatal o Federal en su caso.
 
 ###### Artículo 27.
 
@@ -243,19 +281,41 @@ Las Ligas, Clubes y Asociaciones que no cumplan con los preceptos de esta Ley, s
 
 El Programa Estatal del Deporte será formulado por el Ejecutivo del Estado conforme a las disposiciones de esta Ley y tendrá el carácter de instrumento rector de las actividades deportivas del Sistema Estatal del Deporte.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 36 Bis.
+
+El Programa Estatal del Deporte establecerá los objetivos, lineamientos y acciones, así como la participación de los Municipios, de los Sectores Social y Privado con el fin de ordenar la planificación, organización y desarrollo del deporte y la recreación a través de su práctica en el Estado y de manera especifica contendrá:
+
+I.- La política del deporte;
+
+II.- Los objetivos, prioridades, estrategias y metas para el desarrollo del deporte en el Estado;
+
+III.- Los proyectos y acciones específicas en virtud de las cuales se instrumentará la ejecución del programa; y
+
+IV.- Las acciones que cada uno de los integrantes del Sistema deberá realizar de acuerdo a su ámbito de competencia y naturaleza.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 37.
 
 El Programa Estatal del Deporte deberá formularse de acuerdo a los siguientes sectores:
 
-1) Deporte Popular;
+I.- Deporte Popular:- Se considera como el conjunto de actividades físicas que practican los grandes núcleos de población, normada convencionalmente y sin que se requiera para su práctica equipos o instalaciones especializados, cuyo objeto es el aprendizaje, mantenimiento de la salud y el de esparcimiento, para favorecer el desarrollo integral de la comunidad;
 
-2) Deporte Estudiantil;
+II.- Deporte Estudiantil:- Se consideran como las actividades competitivas que se organizan en el sector educativo como complemento a la educación física;
 
-3) Deporte Adaptado;
+III.- Deporte para los Discapacitados:- Entendiéndose por éste, la práctica del deporte adaptado a personas con cualquier restricción o impedimento del funcionamiento de una actividad ocasionado por una deficiencia dentro del ámbito considerado normal del ser humano.
 
-4) Deporte Selectivo; y
+IV.- Deporte Selectivo:- Es el que se practica con propósito de clasificación de calidad, dentro de los organismos deportivos del Estado y los Municipios, conforme a sus estatutos y reglamentos;
 
-5) Deporte Asociado.
+V.- Deporte Asociado:- Es la actividad competitiva que realiza un sector de la comunidad debidamente organizado, cuya estructura puede ser de dos maneras:
+
+a) Organizaciones deportivas afiliadas a una Asociación Estatal del Deporte;
+
+b) Grupo de ciudadanos que se reúnen con un motivo deportivo sin encontrarse afiliado a una Asociación Estatal del Deporte; y
+
+VI.- Deporte para las Personas de la Tercera Edad: Es la práctica metódica de ejercicios físicos que realizan las personas de este sector de la población.
 
 ###### Artículo 38.
 
@@ -292,6 +352,12 @@ X.- Obtener de las autoridades correspondientes el registro que lo acredite como
 XI.- Recibir toda clase de becas, reconocimientos y recompensa de cualquier índole de carácter deportivo; y
 
 XII.- Los demás que le otorgue esta Ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 39 Bis.
+
+Los menores de edad, tendrán derecho a recibir por parte del Estado, la asesoría jurídica necesaria para la celebración de cualquier acto jurídico relacionado con el desarrollo de actividades deportivas, en los términos de la fracción III del artículo 42 de la presente Ley.
 
 ###### Artículo 40.
 
@@ -331,13 +397,39 @@ IV.- Asistencia; y
 
 V.- Gestoría.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 42 Bis.
+
+Se crea el premio al mérito deportivo que será entregado anualmente por el Ejecutivo del Estado o por la persona que éste designe.
+
 ###### Artículo 43.
 
 El otorgamiento y goce de los beneficios a que se refiere este capítulo, estarán sujetos al cumplimiento de esta Ley y se otorgarán conforme a las bases y el reglamento que establezca el Ejecutivo del Estado.
 
-### CAPITULO VII. DE LAS INSTALACIONES DEPORTIVAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 11 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VIII. DEL SERVICIO MEDICO EN EL DEPORTE
+### CAPITULO VI Bis. DE LA CULTURA DEL DEPORTE
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 43 Bis.
+
+Se entiende por Cultura del Deporte, la manifestación social producto de valores, conocimientos y recursos generados en su desarrollo, orientada a realizar acciones permanentes fundadas en la investigación, en los requerimientos y en las posibilidades sociales, para extender sus beneficios a todos los sectores de la población.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 43 Bis 1.
+
+Los integrantes del Sistema del Deporte del Estado, deberán de fomentar la cultura del deporte y promover su difusión a través de los distintos medios de comunicación. En esta tarea, se destacarán los beneficios y valores del deporte, propiciando con ello un conocimiento especializado, así como un manejo objetivo en apoyo a la información y formación de la sociedad.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 43 Bis 2.
+
+La cultura del deporte en el Estado, se asociará a la participación social, a la libre y respetuosa manifestación de las ideas y a la conveniencia del compromiso colectivo.
+
+### CAPITULO VII. DE LAS INSTALACIONES DEPORTIVAS
 
 ###### Artículo 44.
 
@@ -363,9 +455,11 @@ Las Asociaciones, Ligas y Clubes deben apoyar con recursos propios la construcci
 
 En la construcción de Instalaciones Deportivas deberán tomarse en cuenta las que sean necesarias para el Deporte Infantil que contarán con las especificaciones técnicas y arquitectónicas para su desarrollo.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 50.
 
-Se procederá en las nuevas construcciones de Instalaciones Deportivas, y en la rehabilitación de los actuales espacios y acondicionamientos arquitectónicos para la realización del Deporte Adaptado o de Discapacitados así como el acondicionamiento de accesos y servicios para ellos mismos. Las Instalaciones actuales deberán acondicionarse para cumplir con este precepto.
+Se procederá en las nuevas construcciones de Instalaciones Deportivas, y en la rehabilitación de los actuales espacios y acondicionamientos arquitectónicos para la realización del Deporte para los Discapacitados, así como el acondicionamiento de accesos y servicios para ellos mismos. Las Instalaciones actuales deberán acondicionarse para cumplir con este precepto.
 
 ###### Artículo 51.
 
@@ -385,7 +479,7 @@ Los responsables o administradores de toda instalación Deportiva deberán trami
 
 La Dependencia responsable del deporte estatal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados, a través de las autoridades correspondientes
 
-### CAPITULO IX. DEL ANTIDOPING
+### CAPITULO VIII. DEL SERVICIO MEDICO EN EL DEPORTE
 
 ###### Artículo 53.
 
@@ -401,9 +495,7 @@ Las instituciones eminentemente deportivas y organizaciones de los sectores ofic
 
 Las Instituciones del Sector Público Estatal, promoverán programas de atención médica, la formación de especialistas en Medicina y Ciencias Aplicadas al Deporte, dedicados a la práctica y/o investigación científica.
 
-### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS
-
-Y RECURSOS EN EL DEPORTE
+### CAPITULO IX. DEL ANTIDOPING
 
 ###### Artículo 56.
 
@@ -525,6 +617,10 @@ Cuando sea evidente que algún participante en justas deportivas caiga en casos 
 
 Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo doping.
 
+### CAPITULO X. DE LAS SANCIONES ADMINISTRATIVAS
+
+Y RECURSOS EN EL DEPORTE
+
 ###### Artículo 75.
 
 La aplicación de sanciones por infracciones a la Ley, a sus reglamentos y disposiciones legales corresponden a:
@@ -606,3 +702,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE MAYO DE 1995.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE DICIEMBRE DE 1996.
+
+UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
